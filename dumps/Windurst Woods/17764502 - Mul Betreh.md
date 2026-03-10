@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x215B      |        8539 |
-|       3 | 0x215C      |        8540 |
+|       2 | 0x215C      |        8540 |
+|       3 | 0x215D      |        8541 |
 
 ## String References
 
-- **8539**: Windurst Woods is famous for its dhalmel farm up the rrroad there. You've just got to check it out!
-- **8540**: The cheese made from dhalmel's milk is an acquirrred taste, but once you come to appreciate it, you just can't stop eating the stuff!
+- **8540**: Windurst Woods is famous for its dhalmel farm up the rrroad there. You've just got to check it out!
+- **8541**: The cheese made from dhalmel's milk is an acquirrred taste, but once you come to appreciate it, you just can't stop eating the stuff!
 
 ## Events
 
@@ -155,10 +155,10 @@
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mul Betreh (ID: 17764502/0x010F1096), tag_num=0x01)
-  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8539*)
+  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8540*)
     → "Windurst Woods is famous for its dhalmel farm up the rrroad there. You've just got to check it out!"
   5: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8540*)
+  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8541*)
     → "The cheese made from dhalmel's milk is an acquirrred taste, but once you come to appreciate it, you just can't stop eating the stuff!"
   7: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0039 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mul Betreh (ID: 17764502/0x010F1096), tag_num=0x02)

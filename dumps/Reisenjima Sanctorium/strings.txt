@@ -1,5 +1,5 @@
 # Strings for Reisenjima Sanctorium
-# Total: 8039 strings
+# Total: 8040 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7329,13 +7329,13 @@
  7325: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7326: You receive $0 bayld!
  7327: Your chocobo refuses to partake of the $0.
- 7328: Enter the battlefield? [Enter./Decline.]
- 7329: Leave the battlefield? [Run away./Stay.]
- 7330: You cannot enter the battlefield at present. Please wait a little longer.
+ 7328: Your wing skill improved to $0!
+ 7329: Enter the battlefield? [Enter./Decline.]
+ 7330: Leave the battlefield? [Run away./Stay.]
  7331: You cannot enter the battlefield at present. Please wait a little longer.
- 7332: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
- 7333: Your time in the battlefield is up! Now exiting...
- 7334: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7332: You cannot enter the battlefield at present. Please wait a little longer.
+ 7333: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+ 7334: Your time in the battlefield is up! Now exiting...
  7335: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7336: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7337: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7345,59 +7345,59 @@
  7341: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7342: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7343: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
- 7344: You have been enchanted so that you may enter!
- 7345: Your entry enchantment has expired!
- 7346: You are not cleared to enter the battlefield. Now exiting...
- 7347: A cursed seal has been placed upon this platform.
- 7348: The battlefield where your party members are engaged in combat is locked. Access is denied.
- 7349: There is no response. You cannot escape!
- 7350: The door is sealed shut with an evil curse.
- 7351: A mysterious force is sealing the platform.
- 7352: The old wooden door is locked tight.
- 7353: The door is sealed with a mysterious energy.
- 7354: It is a giant crystal.
- 7355: A strong magical force is whirling up from the platform.
- 7356: A fierce column of wind blocks your path. You cannot proceed any further...
- 7357: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
- 7358: An unfathomable light is rising from this strangely marked platform...
- 7359: A heavy wooden gate. It is tightly locked...
- 7360: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7344: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7345: You have been enchanted so that you may enter!
+ 7346: Your entry enchantment has expired!
+ 7347: You are not cleared to enter the battlefield. Now exiting...
+ 7348: A cursed seal has been placed upon this platform.
+ 7349: The battlefield where your party members are engaged in combat is locked. Access is denied.
+ 7350: There is no response. You cannot escape!
+ 7351: The door is sealed shut with an evil curse.
+ 7352: A mysterious force is sealing the platform.
+ 7353: The old wooden door is locked tight.
+ 7354: The door is sealed with a mysterious energy.
+ 7355: It is a giant crystal.
+ 7356: A strong magical force is whirling up from the platform.
+ 7357: A fierce column of wind blocks your path. You cannot proceed any further...
+ 7358: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+ 7359: An unfathomable light is rising from this strangely marked platform...
+ 7360: A heavy wooden gate. It is tightly locked...
  7361: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7362: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7363: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
- 7364: A glowing mist of ever-changing proportions floats before you...
- 7365: A solid iron gate. It is tightly locked...
- 7366: You see a gigantic crystal, glowing with amber light...
+ 7364: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7365: A glowing mist of ever-changing proportions floats before you...
+ 7366: A solid iron gate. It is tightly locked...
  7367: You see a gigantic crystal, glowing with amber light...
- 7368: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
- 7369: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7370: If you listen closely, you can faintly hear female voices singing in rounds...
- 7371: It appears as if something had been thrust into the rockface here...
- 7372: A decorative door. It appears to be locked...
- 7373: The door is locked.
- 7374: The gate is locked.
- 7375: The door is locked.
+ 7368: You see a gigantic crystal, glowing with amber light...
+ 7369: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+ 7370: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7371: If you listen closely, you can faintly hear female voices singing in rounds...
+ 7372: It appears as if something had been thrust into the rockface here...
+ 7373: A decorative door. It appears to be locked...
+ 7374: The door is locked.
+ 7375: The gate is locked.
  7376: The door is locked.
- 7377: There seems to be a space beneath the floor, but you are unable to access it.
- 7378: You do not meet the requirements to enter the battlefield. Access is denied.
- 7379: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
- 7380: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
- 7381: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
- 7382: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
- 7383: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
- 7384: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
- 7385: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
- 7386: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
- 7387: You were unable to protect the special character. Now leaving the battlefield.
- 7388: You were unable to protect Prince Trion. Now leaving the battlefield.
- 7389: You were unable to protect Captain Volker. Now leaving the battlefield.
- 7390: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
- 7391: Your $0 is torn...
- 7392: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7393: Your $0 is torn...
- 7394: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7395: You see innumerable stars shimmering in the distance...
- 7396: @
+ 7377: The door is locked.
+ 7378: There seems to be a space beneath the floor, but you are unable to access it.
+ 7379: You do not meet the requirements to enter the battlefield. Access is denied.
+ 7380: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+ 7381: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+ 7382: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+ 7383: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+ 7384: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+ 7385: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+ 7386: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+ 7387: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+ 7388: You were unable to protect the special character. Now leaving the battlefield.
+ 7389: You were unable to protect Prince Trion. Now leaving the battlefield.
+ 7390: You were unable to protect Captain Volker. Now leaving the battlefield.
+ 7391: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+ 7392: Your $0 is torn...
+ 7393: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7394: Your $0 is torn...
+ 7395: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7396: You see innumerable stars shimmering in the distance...
  7397: @
  7398: @
  7399: @
@@ -7405,638 +7405,639 @@
  7401: @
  7402: @
  7403: @
- 7404: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
+ 7404: @
  7405: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7406: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7407: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7408: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
- 7409: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7409: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7410: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
  7411: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
- 7412: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7413: i$20%.%p$P15zj
- 7414: $7278448;39\5=Bj
+ 7412: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7413: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7414: i$20%.%p$P15zj
  7415: $7278448;39\5=Bj
  7416: $7278448;39\5=Bj
- 7417: remove@1
- 7418: remove@2
- 7419: remove@3
- 7420: i$3{$3X_A$P13|5=j
- 7421: i$3{$3X_B$P13|5=j
- 7422: i$3{$3X_C$P13|5=j
- 7423: $6750818j=j
- 7424: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7425: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7426: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7417: $7278448;39\5=Bj
+ 7418: remove@1
+ 7419: remove@2
+ 7420: remove@3
+ 7421: i$3{$3X_A$P13|5=j
+ 7422: i$3{$3X_B$P13|5=j
+ 7423: i$3{$3X_C$P13|5=j
+ 7424: $6750818j=j
+ 7425: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7426: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
  7427: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7428: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7429: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7430: GL$20%.L$P16<$P11Op)i$132960a b
- 7431: GL$20%.LIDp)i$132960a b
- 7432: $20%._AL$3p$3243853
- 7433: $20%._BL$3p$3243853
- 7434: $20%._CL$3p$3243853
- 7435: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7436: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7437: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7429: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7430: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7431: GL$20%.L$P16<$P11Op)i$132960a b
+ 7432: GL$20%.LIDp)i$132960a b
+ 7433: $20%._AL$3p$3243853
+ 7434: $20%._BL$3p$3243853
+ 7435: $20%._CL$3p$3243853
+ 7436: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7437: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7438: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7439: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7440: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7440: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7441: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7442: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7443: $6819916%L$P10l$20*()5"
+ 7443: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7444: $6819916%L$P10l$20*()5"
  7445: $6819916%L$P10l$20*()5"
- 7446: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7446: $6819916%L$P10l$20*()5"
  7447: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7448: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7449: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7450: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7451: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7452: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7453: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7454: i$20%._A$P13&$22$3C$3x$3$3g
- 7455: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7456: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7457: i$20%._B$P13&$22$3C$3x$3$3g
- 7458: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7459: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7460: i$20%._C$P13&$22$3C$3x$3$3g
- 7461: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7462: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7463: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7464: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7465: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7466: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7467: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7468: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7469: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7470: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7471: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7472: $6647884nding$8%p$@$s5\5=B
- 7473: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7449: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7450: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7451: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7452: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7453: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7454: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7455: i$20%._A$P13&$22$3C$3x$3$3g
+ 7456: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7457: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7458: i$20%._B$P13&$22$3C$3x$3$3g
+ 7459: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7460: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7461: i$20%._C$P13&$22$3C$3x$3$3g
+ 7462: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7463: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7464: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7465: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7466: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7467: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7468: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7469: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7470: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7471: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7472: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7473: $6647884nding$8%p$@$s5\5=B
  7474: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7475: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7476: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7477: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7478: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7479: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7480: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7481: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7482: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7483: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7484: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7485: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7486: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7487: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7488: ($20%._AM$0$P14u$6E7)
- 7489: ($20%._BM$0$P14u$6E7)
- 7490: ($20%._CM$0$P14u$6E7)
- 7491: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7492: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7493: i$20%._A$P13|$:I$3g$3$3C5\7
- 7494: i$20%._B$P13|$:I$3g$3$3C5\7
- 7495: i$20%._C$P13|$:I$3g$3$3C5\7
- 7496: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7497: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7498: (AIMID* h\9qE5=)
- 7499: (BIMID* h\9qE5=)
- 7500: (CIMID* h\9qE5=)
- 7501: (AIID* h\5=)
- 7502: (BIID* h\5=)
- 7503: (CIID* h\5=)
- 7504: (AM7EI$P10f$P16q* h\5=)
- 7505: (BM7EI$P10f$P16q* h\5=)
- 7506: (CM7EI$P10f$P16q* h\5=)
- 7507: $2097706ADH"=_$P13|$:E+\9q
- 7508: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7509: i$20%.%p$P15zj
- 7510: $7278448;39\5=Bj
+ 7476: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7477: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7478: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7479: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7480: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7481: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7482: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7483: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7484: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7485: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7486: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7487: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7488: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7489: ($20%._AM$0$P14u$6E7)
+ 7490: ($20%._BM$0$P14u$6E7)
+ 7491: ($20%._CM$0$P14u$6E7)
+ 7492: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7493: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7494: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7495: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7496: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7497: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7498: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7499: (AIMID* h\9qE5=)
+ 7500: (BIMID* h\9qE5=)
+ 7501: (CIMID* h\9qE5=)
+ 7502: (AIID* h\5=)
+ 7503: (BIID* h\5=)
+ 7504: (CIID* h\5=)
+ 7505: (AM7EI$P10f$P16q* h\5=)
+ 7506: (BM7EI$P10f$P16q* h\5=)
+ 7507: (CM7EI$P10f$P16q* h\5=)
+ 7508: $2097706ADH"=_$P13|$:E+\9q
+ 7509: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7510: i$20%.%p$P15zj
  7511: $7278448;39\5=Bj
  7512: $7278448;39\5=Bj
- 7513: i$3{$3X_A$A&=j
- 7514: i$3{$3X_B$A&=j
- 7515: i$3{$3X_C$A&=j
- 7516: i$3{$3X_A$P13|5=j
- 7517: i$3{$3X_B$P13|5=j
- 7518: i$3{$3X_C$P13|5=j
- 7519: H=M$20%.`I$P13|j;$E7
- 7520: H=M$20%.aI$P13|j;$E7
- 7521: H=M$20%.bI$P13|j;$E7
- 7522: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
- 7523: $4457025i
- 7524: $4456998"i
- 7525: $24952730=j
- 7526: $656169$3$3N$3f$3b$3hj
- 7527: $P12N`"H"
- 7528: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7513: $7278448;39\5=Bj
+ 7514: i$3{$3X_A$A&=j
+ 7515: i$3{$3X_B$A&=j
+ 7516: i$3{$3X_C$A&=j
+ 7517: i$3{$3X_A$P13|5=j
+ 7518: i$3{$3X_B$P13|5=j
+ 7519: i$3{$3X_C$P13|5=j
+ 7520: H=M$20%.`I$P13|j;$E7
+ 7521: H=M$20%.aI$P13|j;$E7
+ 7522: H=M$20%.bI$P13|j;$E7
+ 7523: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
+ 7524: $4457025i
+ 7525: $4456998"i
+ 7526: $24952730=j
+ 7527: $656169$3$3N$3f$3b$3hj
+ 7528: $P12N`"H"
  7529: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7530: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7531: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
+ 7531: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7532: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7533: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7534: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
- 7535: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7535: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7536: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
  7537: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
- 7538: pending$3`$3F$3b$3N$3I[$3P[
- 7539: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7538: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7539: pending$3`$3F$3b$3N$3I[$3P[
  7540: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
  7541: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
- 7542: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
- 7543: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7544: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7545: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7546: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7542: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7543: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
+ 7544: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7545: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7546: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
  7547: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
  7548: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
- 7549: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
- 7550: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
- 7551: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
- 7552: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
- 7553: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
- 7554: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
- 7555: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
- 7556: $6750818j=j
- 7557: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7558: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7559: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7560: GL$20%.L$P16<$P11Op)i$132960a b
- 7561: GL$20%.LIDp)i$132960a b
- 7562: $20%._AL$3p$3243853
- 7563: $20%._BL$3p$3243853
- 7564: $20%._CL$3p$3243853
- 7565: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7566: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7567: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7549: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7550: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
+ 7551: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
+ 7552: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
+ 7553: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
+ 7554: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
+ 7555: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
+ 7556: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
+ 7557: $6750818j=j
+ 7558: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7559: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
+ 7560: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7561: GL$20%.L$P16<$P11Op)i$132960a b
+ 7562: GL$20%.LIDp)i$132960a b
+ 7563: $20%._AL$3p$3243853
+ 7564: $20%._BL$3p$3243853
+ 7565: $20%._CL$3p$3243853
+ 7566: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7567: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7568: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7569: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7570: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7570: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7571: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7572: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7573: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7574: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7575: $6819916%L$P10l$20*()5"
+ 7575: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7576: $6819916%L$P10l$20*()5"
- 7577: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7577: $6819916%L$P10l$20*()5"
  7578: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7579: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7580: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7581: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7582: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7583: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7584: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7585: i$20%._A$P13&$22$3C$3x$3$3g
- 7586: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7587: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7588: i$20%._B$P13&$22$3C$3x$3$3g
- 7589: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7590: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7591: i$20%._C$P13&$22$3C$3x$3$3g
- 7592: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7593: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7594: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7595: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7596: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7597: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7598: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7599: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7600: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7601: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7602: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7603: $6647884nding$8%p$@$s5\5=B
- 7604: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7580: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7581: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7582: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7583: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7584: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7585: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7586: i$20%._A$P13&$22$3C$3x$3$3g
+ 7587: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7588: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7589: i$20%._B$P13&$22$3C$3x$3$3g
+ 7590: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7591: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7592: i$20%._C$P13&$22$3C$3x$3$3g
+ 7593: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7594: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7595: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7596: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7597: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7598: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7599: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7600: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7601: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7602: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7603: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7604: $6647884nding$8%p$@$s5\5=B
  7605: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7606: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7607: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7608: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7609: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7610: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7611: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7612: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7613: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7614: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7615: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7616: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7617: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7618: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7619: ($20%._AM$0$P14u$6E7)
- 7620: ($20%._BM$0$P14u$6E7)
- 7621: ($20%._CM$0$P14u$6E7)
- 7622: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7623: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7624: i$20%._A$P13|$:I$3g$3$3C5\7
- 7625: i$20%._B$P13|$:I$3g$3$3C5\7
- 7626: i$20%._C$P13|$:I$3g$3$3C5\7
- 7627: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7628: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7629: (AIMID* h\9qE5=)
- 7630: (BIMID* h\9qE5=)
- 7631: (CIMID* h\9qE5=)
- 7632: (AIID* h\5=)
- 7633: (BIID* h\5=)
- 7634: (CIID* h\5=)
- 7635: (AM7EI$P10f$P16q* h\5=)
- 7636: (BM7EI$P10f$P16q* h\5=)
- 7637: (CM7EI$P10f$P16q* h\5=)
- 7638: $2097706ADH"=_$P13|$:E+\9q
- 7639: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
- 7640: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
- 7641: Only <Player> can enter the battlefield.
- 7642: The time limit for this battle is $3 minutes.
- 7643: There is a crack in the $3. It no longer contains a monster.
- 7644: A crack has formed on the $3, and the beast inside has been unleashed!
- 7645: Boss mode : $6!!
- 7646: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
- 7647: $7
- 7648: DEBUG1
- 7649: $T&$:I$P16_i)$4719207" $P16_i
- 7650: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
- 7651: iDEBUG$3998261$3{$3X$3|$3b$3vB
- 7652: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
- 7653: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
- 7654: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
- 7655: PARTY0F$1 PARTY1$5259265ARTY2F$3
- 7656: PARTY3F$1 PARTY4$5259265ARTY5F$3
- 7657: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
- 7658: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
- 7659: CLI_NUM0 = $0
- 7660: CLI_NUM1 = $1
- 7661: CLI_NUM2 = $2
- 7662: CLI_NUM3 = $3
- 7663: CLI_NUM4 = $4
- 7664: CLI_NUM5 = $5
- 7665: CLI_NUM6 = $6
- 7666: CLI_NUM7 = $6
- 7667: Skip the event? [Yes./No.]
- 7668: Battlefield clear time: $3 second[/s]!
- 7669: Battlefield clear time: $3 minute[/s], $2 second[/s]!
- 7670: The current battlefield clear time record is $3 second[/s].
- 7671: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
- 7672: Called the NPC! PC ID = $0! RESULT = $1!
- 7673: Got rid of the NPC! PC ID = $0!
- 7674: The NPC has fallen, and he can't get up! Leaving room A!
- 7675: The NPC has fallen, and he can't get up! Leaving room B!
- 7676: The NPC has fallen, and he can't get up! Leaving room C!
- 7677: The NPC has fallen, and he can't get up! Leaving room D!
- 7678: All party members have fallen in battle. Now leaving the battlefield.
- 7679: Everybody's fallen in room A, and they can't get up! Leaving room A!
- 7680: Everybody's fallen in room B, and they can't get up! Leaving room B!
- 7681: Everybody's fallen in room C, and they can't get up! Leaving room C!
- 7682: Everybody's fallen in room D, and they can't get up! Leaving room D!
- 7683: Everybody's fallen in room E, and they can't get up! Leaving room E!
- 7684: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
- 7685: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
- 7686: What the hell is that number!? It's not possible!!!
- 7687: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
- 7688: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
- 7689: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
- 7690: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
- 7691: That record is held by $5 adventurers, including %0!
- 7692: That record is held by %0!
- 7693: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
- 7694: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
- 7695: A malignant force escapes from your $3.
- 7696: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
- 7697: Your $3 is calling out to something...
- 7698: The $0 has a large crack running straight down the side.
- 7699: Something awakens owing to the presence of the $3...
- 7700: The oath has been fulfilled owing to the power of your $3.
- 7701: $3{$3^$3$97F$31V$P10i]\7
- 7702: @@
- 7703: There is nothing out of the ordinary here.
- 7704: You can hear a strange voice... "Items, items, la la la la la`t"
- 7705: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7706: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7707: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7708: Now, listen close...
- 7709: Oh... Well, if that's the case, I'm outta here.
- 7710: The Goblin slipped away when you were not looking...
- 7711: You can hear a strange, raspy voice...
- 7712: I travel......hear lots... Hear...stories... Can tell...if...
- 7713: .........listen......
- 7714: Oh...... ...outta here.........
- 7715: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7716: What story would you like to be told? [On second thought, maybe later./The Crucible(pt.1)./The Crucible(pt.2)./The Crucible(pt.3)./The Crucible(pt.4)./Unshakable Nightmares./The Lifestream of Reisenjima(pt.1)./The Lifestream of Reisenjima(pt.2)./Way to Divinity(pt.1)./Way to Divinity(pt.2)./The Winds of Time./Nary a Cloud in Sight./Guardians./Absolute Trust./The Orb's Radiance(pt.1)./The Orb's Radiance(pt.2)./A Rhapsody for the Ages.]
- 7717: 
+ 7607: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7608: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7609: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7610: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7611: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7612: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7613: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7614: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7615: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7616: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7617: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7618: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7619: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7620: ($20%._AM$0$P14u$6E7)
+ 7621: ($20%._BM$0$P14u$6E7)
+ 7622: ($20%._CM$0$P14u$6E7)
+ 7623: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7624: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7625: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7626: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7627: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7628: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7629: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7630: (AIMID* h\9qE5=)
+ 7631: (BIMID* h\9qE5=)
+ 7632: (CIMID* h\9qE5=)
+ 7633: (AIID* h\5=)
+ 7634: (BIID* h\5=)
+ 7635: (CIID* h\5=)
+ 7636: (AM7EI$P10f$P16q* h\5=)
+ 7637: (BM7EI$P10f$P16q* h\5=)
+ 7638: (CM7EI$P10f$P16q* h\5=)
+ 7639: $2097706ADH"=_$P13|$:E+\9q
+ 7640: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
+ 7641: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
+ 7642: Only <Player> can enter the battlefield.
+ 7643: The time limit for this battle is $3 minutes.
+ 7644: There is a crack in the $3. It no longer contains a monster.
+ 7645: A crack has formed on the $3, and the beast inside has been unleashed!
+ 7646: Boss mode : $6!!
+ 7647: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7648: $7
+ 7649: DEBUG1
+ 7650: $T&$:I$P16_i)$4719207" $P16_i
+ 7651: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
+ 7652: iDEBUG$3998261$3{$3X$3|$3b$3vB
+ 7653: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
+ 7654: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
+ 7655: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
+ 7656: PARTY0F$1 PARTY1$5259265ARTY2F$3
+ 7657: PARTY3F$1 PARTY4$5259265ARTY5F$3
+ 7658: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
+ 7659: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
+ 7660: CLI_NUM0 = $0
+ 7661: CLI_NUM1 = $1
+ 7662: CLI_NUM2 = $2
+ 7663: CLI_NUM3 = $3
+ 7664: CLI_NUM4 = $4
+ 7665: CLI_NUM5 = $5
+ 7666: CLI_NUM6 = $6
+ 7667: CLI_NUM7 = $6
+ 7668: Skip the event? [Yes./No.]
+ 7669: Battlefield clear time: $3 second[/s]!
+ 7670: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+ 7671: The current battlefield clear time record is $3 second[/s].
+ 7672: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+ 7673: Called the NPC! PC ID = $0! RESULT = $1!
+ 7674: Got rid of the NPC! PC ID = $0!
+ 7675: The NPC has fallen, and he can't get up! Leaving room A!
+ 7676: The NPC has fallen, and he can't get up! Leaving room B!
+ 7677: The NPC has fallen, and he can't get up! Leaving room C!
+ 7678: The NPC has fallen, and he can't get up! Leaving room D!
+ 7679: All party members have fallen in battle. Now leaving the battlefield.
+ 7680: Everybody's fallen in room A, and they can't get up! Leaving room A!
+ 7681: Everybody's fallen in room B, and they can't get up! Leaving room B!
+ 7682: Everybody's fallen in room C, and they can't get up! Leaving room C!
+ 7683: Everybody's fallen in room D, and they can't get up! Leaving room D!
+ 7684: Everybody's fallen in room E, and they can't get up! Leaving room E!
+ 7685: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
+ 7686: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
+ 7687: What the hell is that number!? It's not possible!!!
+ 7688: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+ 7689: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+ 7690: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+ 7691: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+ 7692: That record is held by $5 adventurers, including %0!
+ 7693: That record is held by %0!
+ 7694: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+ 7695: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7696: A malignant force escapes from your $3.
+ 7697: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+ 7698: Your $3 is calling out to something...
+ 7699: The $0 has a large crack running straight down the side.
+ 7700: Something awakens owing to the presence of the $3...
+ 7701: The oath has been fulfilled owing to the power of your $3.
+ 7702: $3{$3^$3$97F$31V$P10i]\7
+ 7703: @@
+ 7704: There is nothing out of the ordinary here.
+ 7705: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7706: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7707: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7708: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7709: Now, listen close...
+ 7710: Oh... Well, if that's the case, I'm outta here.
+ 7711: The Goblin slipped away when you were not looking...
+ 7712: You can hear a strange, raspy voice...
+ 7713: I travel......hear lots... Hear...stories... Can tell...if...
+ 7714: .........listen......
+ 7715: Oh...... ...outta here.........
+ 7716: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7717: What story would you like to be told? [On second thought, maybe later./The Crucible(pt.1)./The Crucible(pt.2)./The Crucible(pt.3)./The Crucible(pt.4)./Unshakable Nightmares./The Lifestream of Reisenjima(pt.1)./The Lifestream of Reisenjima(pt.2)./Way to Divinity(pt.1)./Way to Divinity(pt.2)./The Winds of Time./Nary a Cloud in Sight./Guardians./Absolute Trust./The Orb's Radiance(pt.1)./The Orb's Radiance(pt.2)./A Rhapsody for the Ages.]
  7718: 
  7719: 
- 7720: Head outside? [Yes./No.]
- 7721: Master, as you have doubtlessly realized, this is the crystal that Selh'teus relinquished his corporeal form to create.
- 7722: Though the crystal may still be young, its light shines as brightly as any other.
- 7723: The Emptiness that remains in the Far East in the future will be banished thanks to this beacon of hope.
- 7724: The Emptiness that had been eating away at the Far East will be banished thanks to this beacon of hope.
- 7725: But despite this, the coming darkness will not be stopped.
- 7726: Ere long, a murky gloom will seep forth from mothercrystals throughout Vana'diel--a corrosive force destroying them from within.
- 7727: This crystal--and this crystal alone--remained safe thanks to you, Master, and your allies.
- 7728: My prayers were answered, erecting an ethereal shield to shelter this area from harm.
- 7729: And as such, Reisenjima remained the only land that the void did not overcome.
- 7730: And the night before the final struggle was to take place...
- 7731: ...you made an impossible decision.
- 7732: "Every victory comes with a price."
- 7733: Master, those were the words you spoke to me.
- 7734: Your decision was made with the best of intentions, yet it was an incorrect one.
- 7735: Why? For beyond was the cold, undying stare of another you.
- 7736: For all the light you have worked to gather, is it possible that another is gathering umbral puissance?
- 7737: That is why I was permitted to cross the boundaries of time and come to you.
- 7738: Yet my greatest anguish was how utterly powerless I was.
- 7739: Master, all your sacrifices were made to save me.
- 7740: Please...it would be a burden off my shoulders if you blamed me outright rather than forcing me to suffer in silence.
- 7741: How do you respond? [It's not your fault./Why would I blame you?/I'm not sure I understand.]
- 7742: Master, please... I beg you...I beg you...
- 7743: The void consumed all...except Reisenjima and myself.
- 7744: You sacrificed yourself to save me...and me alone.
- 7745: Master, your words of compassion have moved me yet again. I promise to atone for all I have--or will have--put you through.
- 7746: If the only way to prevent you from succumbing to darkness is by filling the orb with light, then that is what we shall do. Not just for you, but to reclaim all you may have sacrificed.
- 7747: ...The ambassador infused you with a flood of darkness?
- 7748: Though this does not affect our mission, it does bring a greater sense of urgency.
- 7749: Let us head to Adoulin, one of the many places you described to me.
- 7750: Please, take this with you.
- 7751: My understanding is that there are transit devices in Jeuno which can take us to the western continent.
- 7752: The Jeuno Chamber of Commerce and Industry is looking for people to become pioneers and colonize the Ulbukan hinterlands.
- 7753: Ah, but you have been there already?
- 7754: Let us make haste. I shall meet you on the archipelago.
- 7755: I must take a short while to recover. Please, go on ahead.
- 7756: My heart...it is about to burst.
- 7757: Is...is this it? Is this how I meet my end?
- 7758: <Player>...<Player>... Can you hear me?
- 7759: I am so pleased that you found your way back to me.
- 7760: Far be it from me to remind you of how worried she was about you.
- 7761: Master, each second passed like hours...
- 7762: How do you react? [Are you well?/Don't strain yourself!/Does this mean you're back with us?]
- 7763: ...No. I cannot say that I am whole yet.
- 7764: Your concern touches me more than words can express.
- 7765: Please forgive me, for I am not yet whole.
- 7766: ...No. I still wander the realm of the dead.
- 7767: Please forgive me for not being there for you in full.
- 7768: All people must one day return to the mothercrystal.
- 7769: And Iroha herself resides within this one.
- 7770: Together with her is the same force that has brought her back countless times... Phoenix.
- 7771: Countless times has Phoenix deemed fit to revive me, and I fear this time it needs to rest.
- 7772: (Phoenix claims that Iroha's spirit may no longer be able to withstand the journey.)
- 7773: Master, when I fell in Ceizak Battlegrounds and I expired with Balamor looming over me...
- 7774: ...What happened afterwards?
- 7775: Then the force that threatens us is no mere Emptiness--it is a Cloud of Darkness?
- 7776: An ill portent, indeed.
- 7777: I am not the most learned person, so I must confess to never having heard that name before.
- 7778: Nor have I. Lady Yve'noile's wisdom stretches eons beyond ours.
- 7779: <Player>, would it be fair to understand that you are to face this Cloud of Darkness head-on?
- 7780: ...And Yve'noile set you on the path to become a [god/goddess] of light.
- 7781: Is...is such a thing possible? For a [man to become a god/woman to become a goddess]?
- 7782: Then the only path left for you is to use the power of this crystal.
- 7783: Which requires us to break it.
- 7784: Break it!?
- 7785: It is but a matter of time before the Emptiness resumes its endless march across the Far East.
- 7786: And many souls remain in slumber inside the crystals...
- 7787: They can lend you their power, and as they join you, they will not cease to exist...
- 7788: ...But will rather become one with you. Perhaps that is the key in becoming a [god/goddess] of light.
- 7789: Master, I...
- 7790: I wish there was some way to avoid having to pay such a heavy cost.
- 7791: Is this truly the only option?
- 7792: Will this lead to us stopping the Cloud of Darkness?
- 7793: Are you destined for godhood? [I'll do what must be done./I'm not cut out for it.]
- 7794: Master, if this is your decision, then I shall follow you to the ends of Vana'diel.
- 7795: I shall raise my voice to join the chorus of ten thousand voices singing songs of hope.
- 7796: Though time may be of the essence, a decision with such gravity must not be made lightly. Please, take your time to consider which course of action is best.
- 7797: It is not so simple.
- 7798: <Player> cannot hope to make the journey in [his/her] current state.
- 7799: Then what hope do we have?
- 7800: <Player>, a swell of darkness clouds your mind and spirit.
- 7801: I know you struggle to fight against it, and I can scarce fathom the pain it must cause you.
- 7802: Master, I...did not know.
- 7803: The ambassador's goal was doubtless to prevent you from becoming a [god/goddess] of light.
- 7804: And in Iroha's future, you will be overcome by that darkness...giving birth to that abomination.
- 7805: Are we...doomed?
- 7806: Are there none who can pierce the veil?
- 7807: Hmmm...
- 7808: Perhaps...perhaps there is one from another world...
- 7809: You will recall that there are countless worlds existing parallel to Vana'diel--some you are aware of, others not.
- 7810: And in one such world--one where you have never ventured--exists a god of darkness in its most pure form.
- 7811: Dare I ask what this means?
- 7812: I will not lie: from the blackest darkness comes the deepest fear, and perhaps it will overcome you. Yet such a being will desire to absorb the darkness within you as its own.
- 7813: And clashing with a god of such strength may yield clues about this Cloud of Darkness.
- 7814: And Master, you plan to go through with this?
- 7815: How do you respond? [Stay silent./Reassure Iroha.]
- 7816: When you are resolved, take this with you and make haste for the Walk of Echoes.
- 7817: Though I have not physical form, know that I am with you in spirit and pray for your safety.
- 7818: Remain vigilant--not just for my sake, but for yours.
- 7819: <Player>, the crystal has allowed me to see all that you have seen.
- 7820: Though I know not how, through some means you were able to cast off your inner darkness.
- 7821: Yet not even that was sufficient to quell the Cloud of Darkness.
- 7822: You only succeeded in halting its ingress.
- 7823: And Iroha... Iroha could only sit by and watch the world dissipate around her.
- 7824: There were two Masters...
- 7825: Now that my head is clear, I wonder if the voice calling me back here was your own.
- 7826: "The Reckoning must be altered."
- 7827: You became a [god/goddess] of light, and journeyed to a place I could not reach.
- 7828: Perhaps it was then you realized I still existed, and sent me back in an attempt to change what would come to pass.
- 7829: And when you became this [god/goddess] of light...did you meet Altana?
- 7830: Whether Master did or did not meet Her then, [he/she] must do so now.
- 7831: Lord Selh'teus, is there naught you can share with us about this?
- 7832: It is as Yve'noile alluded to--Altana is located in a higher plane of existence.
- 7833: Now that I have turned into a crystal, it may be possible for me to commune with her...but...
- 7834: Nothing good will come if we sit here wringing our hands. The proper course of action is to try.
- 7835: You must head to the seat of the Zilart's power...the Empyreal Paradox.
- 7836: That is the closest place to Altana's domain that any mortal can presently reach.
- 7837: It is a place of legends, where only those who pass through the crystals are able to reach.
- 7838: I shall unbar the path for you.
- 7839: However, I require your aid to reach Al'Taieu from this crystal.
- 7840: You see, in creating this crystal, Selh'teus inadvertently caused the greater half of the sanctorium to collapse.
- 7841: This had the unfortunate side effect of destabilizing the lifestream in this area, preventing the crystal from achieving its maximum potential.
- 7842: I would offer my prayers at this location, but the taint of foul beasts stops me from doing even that.
- 7843: In particular, one-eyed monsters known as panopts despoil the lifestream, preventing Iroha's words from reaching it.
- 7844: Though I would be asking too much of you to fully cull the threat, even a temporary reprieve would buy us the time we so desperately need.
- 7845: My understanding is that some of your allies have freshly arrived on Reisenjima.
- 7846: I beseech you to seek out their aid in this endeavor.
- 7847: Once at Al'Taieu, you will doubtless be able to meet with the Goddess...and your darkened self.
- 7848: What happens after is for you to decide.
- 7849: The feeling...it's indescribable!
- 7850: Master! Vanquishing the panopts proved to be the key in restoring order to the lifestream coursing through Reisenjima.
- 7851: <Player>, I am now able to manipulate the crystal to its fullest.
- 7852: And as such, it is now possible for me to see you off on your path to meet the Goddess.
- 7853: Never would anyone have thought it possible to meet the Goddess herself...
- 7854: And the god of darkness--your other half--awaits you as well.
- 7855: The future now lies in your hands.
- 7856: Are your preparations complete?
- 7857: Are you ready to meet the Goddess? [Yes. At long last.../I need to take care of some things.]
- 7858: No need for haste. I shall be here whenever you are ready.
- 7859: Master, I pray for your success!
- 7860: The hopes of millions rest upon your wings.
- 7861: Let the crystal guide us to a brighter future.
- 7862: Then I shall open the path once more.
- 7863: [Lord/Lady] <Player>!
- 7864: Is it true? Is the nightmare over?
- 7865: I knew that our faith in you was not misplaced!
- 7866: I tell ye, I was sweatin' bullets hopin' everythin'd turn out all right...which I guess it did.
- 7867: Th' winds begun to rage an' howl, an' I was fer sure it was th' end, and so I looked up at the sky--and there was a huge crash.
- 7868: I'd bet my bottom gil that everyone all across Vana'diel, not just those here in Reisenjima, felt the violent shakin'.
- 7869: The explosion we saw far above--that was you, wasn't it?
- 7870: Words cannot describe the awe I felt.
- 7871: A fierce struggle between twin [gods/goddesses]--one of light and one of darkness--to decide the fate of the future.
- 7872: Truly a tale for th' ages!
- 7873: If that means we've got no cloud ta worry 'bout, then I'd say yer mission ended in a rousing success.
- 7874: If anyone would be happy to hear that your ultimate decision saved the world, it'd be Iroha.
- 7875: I nearly forgot! Lady Iroha--where is she!?
- 7876: If the Goddess permits it, she may be able to join us once more...without the suffering she has had to endure in previous incarnations.
- 7877: Master...
- 7878: Your helpless disciple stands before you once more.
- 7879: Iroha! Bwahaha! Haven't seen ye lookin' that good since...well, since ever!
- 7880: Sir Gilgamesh...everyone...
- 7881: Seeing you stand here, safe, is the greatest present I could have received.
- 7882: Lady Iroha, were it not for your guidance, none of us could have survived the trials posed to us.
- 7883: This calls for a celebration! A grand feast the likes of which Vana'diel has never seen!
- 7884: Oh, Sir Tenzen, ever the bobblehead...
- 7885: "Bobblehead"...?
- 7886: Ah, but how I long for fresh air!
- 7887: Then let us take stock of the island!
- 7888: Now that the threat posed by the Cloud of Darkness is no more, I know not how long I shall be able to remain here.
- 7889: I am only able to maintain a physical form at all thanks to the lifestream, which you worked so hard to stabilize.
- 7890: And how I longed to gaze upon a peaceful world with you...
- 7891: [Lord/Lady] <Player>! I bear grave tidings!
- 7892: When you left, ominous shadows appeared, swirling around the center of the crystal.
- 7893: And then they suddenly burst forth, spiraling forwards and upwards like murky tendrils!
- 7894: Do you suppose...do you suppose something has happened to Lord Selh'teus?
- 7895: Master...help me...
- 7896: Lady Iroha!
- 7897: The Cloud of Darkness...yet remains within the crystal...
- 7898: How is such a thing possible!? We had thought it banished!
- 7899: We cannot sit on our hands and let it regain full strength! I need not remind you what that means for our future!
- 7900: We cannot let this continue...but if the crystal shatters...
- 7901: All we can do...is ensure that the darkness spreads no further...
- 7902: My good lady, do you mean to say--!
- 7903: Did she mean...did she mean that we must shatter the crystal to stem the tide?
- 7904: Should you shatter the crystal? [I'll do what must be done./That's not the answer.]
- 7905: No. That is not the proper course.
- 7906: I concur. There must be another, less drastic, method.
- 7907: Lord Selh'teus gave up his personhood to call forth this crystal.
- 7908: In so doing, he prevented the Emptiness from encroaching upon my homeland any further.
- 7909: Destroying the crystal would make a mockery of his sacrifice...and also spell the doom of my people.
- 7910: And Iroha...
- 7911: Does she not reside within this crystal as well!?
- 7912: [Lord/Lady] <Player>, would it be possible to traverse the crystal once more?
- 7913: Ah, I understand. The last time you were successful only because you had gained a small essence of divinity.
- 7914: Divinity which was likely lost when you clashed with your dark self.
- 7915: Then perhaps you must gather such power once more.
- 7916: My blade...my blade is--
- 7917: Thou hast once before been called a [god/goddess].
- 7918: Yet thy power hath been lost, and in that we are closer than thou might think.
- 7919: Canst thou not hear it? Altana is calling out to her children.
- 7920: Come to the stone circle in La Theine.
- 7921: Phoenix, your words of wisdom mean much in these dark times.
- 7922: [Lord/Lady] <Player>, the Goddess and the avatar may see fit to lend their aid.
- 7923: We must make haste for the stone circle in La Theine Plateau!
- 7924: The shadows grow ever darker...
- 7925: Urk!
- 7926: Do not approach further!
- 7927: I feel my vigor beginning to ebb...
- 7928: [Lord/Lady] <Player>, you must not touch...
- 7929: Lady Lion!? From whence--!?
- 7930: Ready to crack some skulls, old man!?
- 7931: You are not...you are not the real Lady Prishe, are you?
- 7932: All anger and hatred vanish today!
- 7933: Trust...friendship...brotherly love... These are the key...
- 7934: The Goddess, the crystals, Vana'diel...they have given us these powers for this very moment.
- 7935: Hey, you finally got one!
- 7936: I promise not to let you down!
- 7937: Future Fabulous, back for a second time...or is it the third time?
- 7938: I refuse to sit on the sidelines when Vana'diel needs me!
- 7939: I can feel my strength returning!
- 7940: Everyone is here by your side, Tenzen.
- 7941: Come! We need your help!
- 7942: How do ya think <Player> is gonna get inside that crystal? Brute force? (Come to think of it, that's something I would do...)
- 7943: I don't know about the rest of you, but I'm ready to give it my all!
- 7944: Heh heh heh--you're not the only one, girlie!
- 7945: Ready...set...
- 7946: Go!!!
- 7947: Our future--I can see it!
- 7948: Dig your heels in and show 'em what we've got!
- 7949: C'mon!
- 7950: Let's blow it into a million itty-bitty bits!
- 7951: I think...it's stopped.
- 7952: Well done, everyone!
- 7953: I hope you didn't expect us to let the world become a desolate wasteland!
- 7954: Arciela!
- 7955: Do it, Lion!
- 7956: Here's one for the road!
- 7957: Wait.
- 7958: Only one who has received the blessings of the avatars can save Iroha, [Lord/Lady] <Player>.
- 7959: Leave the rest to us!
- 7960: Don't keel over now, everyone!
- 7961: Gyah!
- 7962: I've got your back!
- 7963: We've just got to buy some time.
- 7964: Try this one on for size!
- 7965: Don't even think about it!
- 7966: Thanks, Arciela.
- 7967: I know you'd do the same for me.
- 7968: Can you stand?
- 7969: Ugh. I punch and I kick, but they just keep coming!
- 7970: The tables have turned...
- 7971: ...or have they!?
- 7972: There'll be no opportunity better than this!
- 7973: Let's guide <Player> on [his/her] way to the proper path!
- 7974: You have my knife by your side!
- 7975: This world isn't your plaything!
- 7976: Phoenix, I beg you...
- 7977: ...Quell the darkness!
- 7978: Graaaaaahnraaaaaah!
- 7979: D-did you see that!? It-it's gone!
- 7980: Now, <Player>! To the crystal!
- 7981: Go now. Iroha is waiting for you!
- 7982: Don't give up on us now! Fight, fight, and keep fighting!
- 7983: Though the crystal may be at your side, don't expect victory to come lightly!
- 7984: You, and you alone, can confront what lies within. I can only pray for your success.
- 7985: And after you do...make sure to come back to us.
- 7986: I failed, <Player>.
- 7987: I knew that none could stop the Cloud of Darkness, and yet...
- 7988: I tried. I tried to save her.
- 7989: But in a world without time, the fate of humanity is to disappear.
- 7990: What do you say? [Iroha!/Get out of there!/Wake up!]
- 7991: Phoenix!
- 7992: Altana, I beseech thee! Let my powers return to the flame!
- 7993: Master!
- 7994: That must be it--the Cloud of Darkness!
- 7995: The corrosive force is eating at the crystal from inside!
- 7996: Phoenix's power reached its zenith thanks to all you have done.
- 7997: And in so doing, you have caused the Cloud of Darkness to be made manifest.
- 7998: And all that is given form can be destroyed!
- 7999: The time has come!
- 8000: May my blade strike true!
- 8001: <Player>!
- 8002: Master!!!
- 8003: Welcome back, <Player>. Welcome back to Vana'diel.
- 8004: You have broken the clear time record for "[The Orb's Radiance/Letter from Iroha/Letter from Reisenjima/$26The Orb's Radiance]"!
- 8005: The current battlefield clear time record for "[The Orb's Radiance/Letter from Iroha/Letter from Reisenjima/$26The Orb's Radiance]" is $3 second[/s].
- 8006: The current battlefield clear time record for "[The Orb's Radiance/Letter from Iroha/Letter from Reisenjima/$26The Orb's Radiance]" is $3 minute[/s] $2 second[/s].
- 8007: Entering the battlefield for "[The Orb's Radiance/Letter from Iroha/Letter from Reisenjima/$26The Orb's Radiance]"!
- 8008: Which battlefield will you enter? [None./The Orb's Radiance./Letter from Iroha. (CL: 119)/Letter from Reisenjima./$26The Orb's Radiance./]
- 8009: Light...darkness...
- 8010: When the winds are stopped... It matters not.
- 8011: Gather...
- 8012: ...And spread!
- 8013: We end this, here and now!
- 8014: Master? Master!? Master!!!
- 8015: Master...I-I could not...
- 8016: Our future is meant to be bright, not bleak!
- 8017: Begone!
- 8018: May the song of a million souls flow through me!
- 8019: Master, you honor me by training me once more!
- 8020: Let us cut to the quick!
- 8021: Master...I have learned much.
- 8022: Master?
- 8023: Let me show you what I have learned!
- 8024: I have much more room...to grow...
- 8025: Master, I implore you to give your all!
- 8026: Everyone, I require your aid!
- 8027: Master, you have my sincerest thanks.
- 8028: Come, Master. There is no need to go easy on me.
- 8029: My training is bound to pay off!
- 8030: I wasn't...strong...enough...
- 8031: Ready to bust some skulls!?
- 8032: Well, this was a real pain in the--
- 8033: I pledge to protect my friends, always!
- 8034: I have...failed.
- 8035: Hehehe! Ready for an encore?
- 8036: The curtain...falls...
- 8037: Arciela V Adoulin, ready!
- 8038: Forgive...me...
+ 7720: 
+ 7721: Head outside? [Yes./No.]
+ 7722: Master, as you have doubtlessly realized, this is the crystal that Selh'teus relinquished his corporeal form to create.
+ 7723: Though the crystal may still be young, its light shines as brightly as any other.
+ 7724: The Emptiness that remains in the Far East in the future will be banished thanks to this beacon of hope.
+ 7725: The Emptiness that had been eating away at the Far East will be banished thanks to this beacon of hope.
+ 7726: But despite this, the coming darkness will not be stopped.
+ 7727: Ere long, a murky gloom will seep forth from mothercrystals throughout Vana'diel--a corrosive force destroying them from within.
+ 7728: This crystal--and this crystal alone--remained safe thanks to you, Master, and your allies.
+ 7729: My prayers were answered, erecting an ethereal shield to shelter this area from harm.
+ 7730: And as such, Reisenjima remained the only land that the void did not overcome.
+ 7731: And the night before the final struggle was to take place...
+ 7732: ...you made an impossible decision.
+ 7733: "Every victory comes with a price."
+ 7734: Master, those were the words you spoke to me.
+ 7735: Your decision was made with the best of intentions, yet it was an incorrect one.
+ 7736: Why? For beyond was the cold, undying stare of another you.
+ 7737: For all the light you have worked to gather, is it possible that another is gathering umbral puissance?
+ 7738: That is why I was permitted to cross the boundaries of time and come to you.
+ 7739: Yet my greatest anguish was how utterly powerless I was.
+ 7740: Master, all your sacrifices were made to save me.
+ 7741: Please...it would be a burden off my shoulders if you blamed me outright rather than forcing me to suffer in silence.
+ 7742: How do you respond? [It's not your fault./Why would I blame you?/I'm not sure I understand.]
+ 7743: Master, please... I beg you...I beg you...
+ 7744: The void consumed all...except Reisenjima and myself.
+ 7745: You sacrificed yourself to save me...and me alone.
+ 7746: Master, your words of compassion have moved me yet again. I promise to atone for all I have--or will have--put you through.
+ 7747: If the only way to prevent you from succumbing to darkness is by filling the orb with light, then that is what we shall do. Not just for you, but to reclaim all you may have sacrificed.
+ 7748: ...The ambassador infused you with a flood of darkness?
+ 7749: Though this does not affect our mission, it does bring a greater sense of urgency.
+ 7750: Let us head to Adoulin, one of the many places you described to me.
+ 7751: Please, take this with you.
+ 7752: My understanding is that there are transit devices in Jeuno which can take us to the western continent.
+ 7753: The Jeuno Chamber of Commerce and Industry is looking for people to become pioneers and colonize the Ulbukan hinterlands.
+ 7754: Ah, but you have been there already?
+ 7755: Let us make haste. I shall meet you on the archipelago.
+ 7756: I must take a short while to recover. Please, go on ahead.
+ 7757: My heart...it is about to burst.
+ 7758: Is...is this it? Is this how I meet my end?
+ 7759: <Player>...<Player>... Can you hear me?
+ 7760: I am so pleased that you found your way back to me.
+ 7761: Far be it from me to remind you of how worried she was about you.
+ 7762: Master, each second passed like hours...
+ 7763: How do you react? [Are you well?/Don't strain yourself!/Does this mean you're back with us?]
+ 7764: ...No. I cannot say that I am whole yet.
+ 7765: Your concern touches me more than words can express.
+ 7766: Please forgive me, for I am not yet whole.
+ 7767: ...No. I still wander the realm of the dead.
+ 7768: Please forgive me for not being there for you in full.
+ 7769: All people must one day return to the mothercrystal.
+ 7770: And Iroha herself resides within this one.
+ 7771: Together with her is the same force that has brought her back countless times... Phoenix.
+ 7772: Countless times has Phoenix deemed fit to revive me, and I fear this time it needs to rest.
+ 7773: (Phoenix claims that Iroha's spirit may no longer be able to withstand the journey.)
+ 7774: Master, when I fell in Ceizak Battlegrounds and I expired with Balamor looming over me...
+ 7775: ...What happened afterwards?
+ 7776: Then the force that threatens us is no mere Emptiness--it is a Cloud of Darkness?
+ 7777: An ill portent, indeed.
+ 7778: I am not the most learned person, so I must confess to never having heard that name before.
+ 7779: Nor have I. Lady Yve'noile's wisdom stretches eons beyond ours.
+ 7780: <Player>, would it be fair to understand that you are to face this Cloud of Darkness head-on?
+ 7781: ...And Yve'noile set you on the path to become a [god/goddess] of light.
+ 7782: Is...is such a thing possible? For a [man to become a god/woman to become a goddess]?
+ 7783: Then the only path left for you is to use the power of this crystal.
+ 7784: Which requires us to break it.
+ 7785: Break it!?
+ 7786: It is but a matter of time before the Emptiness resumes its endless march across the Far East.
+ 7787: And many souls remain in slumber inside the crystals...
+ 7788: They can lend you their power, and as they join you, they will not cease to exist...
+ 7789: ...But will rather become one with you. Perhaps that is the key in becoming a [god/goddess] of light.
+ 7790: Master, I...
+ 7791: I wish there was some way to avoid having to pay such a heavy cost.
+ 7792: Is this truly the only option?
+ 7793: Will this lead to us stopping the Cloud of Darkness?
+ 7794: Are you destined for godhood? [I'll do what must be done./I'm not cut out for it.]
+ 7795: Master, if this is your decision, then I shall follow you to the ends of Vana'diel.
+ 7796: I shall raise my voice to join the chorus of ten thousand voices singing songs of hope.
+ 7797: Though time may be of the essence, a decision with such gravity must not be made lightly. Please, take your time to consider which course of action is best.
+ 7798: It is not so simple.
+ 7799: <Player> cannot hope to make the journey in [his/her] current state.
+ 7800: Then what hope do we have?
+ 7801: <Player>, a swell of darkness clouds your mind and spirit.
+ 7802: I know you struggle to fight against it, and I can scarce fathom the pain it must cause you.
+ 7803: Master, I...did not know.
+ 7804: The ambassador's goal was doubtless to prevent you from becoming a [god/goddess] of light.
+ 7805: And in Iroha's future, you will be overcome by that darkness...giving birth to that abomination.
+ 7806: Are we...doomed?
+ 7807: Are there none who can pierce the veil?
+ 7808: Hmmm...
+ 7809: Perhaps...perhaps there is one from another world...
+ 7810: You will recall that there are countless worlds existing parallel to Vana'diel--some you are aware of, others not.
+ 7811: And in one such world--one where you have never ventured--exists a god of darkness in its most pure form.
+ 7812: Dare I ask what this means?
+ 7813: I will not lie: from the blackest darkness comes the deepest fear, and perhaps it will overcome you. Yet such a being will desire to absorb the darkness within you as its own.
+ 7814: And clashing with a god of such strength may yield clues about this Cloud of Darkness.
+ 7815: And Master, you plan to go through with this?
+ 7816: How do you respond? [Stay silent./Reassure Iroha.]
+ 7817: When you are resolved, take this with you and make haste for the Walk of Echoes.
+ 7818: Though I have not physical form, know that I am with you in spirit and pray for your safety.
+ 7819: Remain vigilant--not just for my sake, but for yours.
+ 7820: <Player>, the crystal has allowed me to see all that you have seen.
+ 7821: Though I know not how, through some means you were able to cast off your inner darkness.
+ 7822: Yet not even that was sufficient to quell the Cloud of Darkness.
+ 7823: You only succeeded in halting its ingress.
+ 7824: And Iroha... Iroha could only sit by and watch the world dissipate around her.
+ 7825: There were two Masters...
+ 7826: Now that my head is clear, I wonder if the voice calling me back here was your own.
+ 7827: "The Reckoning must be altered."
+ 7828: You became a [god/goddess] of light, and journeyed to a place I could not reach.
+ 7829: Perhaps it was then you realized I still existed, and sent me back in an attempt to change what would come to pass.
+ 7830: And when you became this [god/goddess] of light...did you meet Altana?
+ 7831: Whether Master did or did not meet Her then, [he/she] must do so now.
+ 7832: Lord Selh'teus, is there naught you can share with us about this?
+ 7833: It is as Yve'noile alluded to--Altana is located in a higher plane of existence.
+ 7834: Now that I have turned into a crystal, it may be possible for me to commune with her...but...
+ 7835: Nothing good will come if we sit here wringing our hands. The proper course of action is to try.
+ 7836: You must head to the seat of the Zilart's power...the Empyreal Paradox.
+ 7837: That is the closest place to Altana's domain that any mortal can presently reach.
+ 7838: It is a place of legends, where only those who pass through the crystals are able to reach.
+ 7839: I shall unbar the path for you.
+ 7840: However, I require your aid to reach Al'Taieu from this crystal.
+ 7841: You see, in creating this crystal, Selh'teus inadvertently caused the greater half of the sanctorium to collapse.
+ 7842: This had the unfortunate side effect of destabilizing the lifestream in this area, preventing the crystal from achieving its maximum potential.
+ 7843: I would offer my prayers at this location, but the taint of foul beasts stops me from doing even that.
+ 7844: In particular, one-eyed monsters known as panopts despoil the lifestream, preventing Iroha's words from reaching it.
+ 7845: Though I would be asking too much of you to fully cull the threat, even a temporary reprieve would buy us the time we so desperately need.
+ 7846: My understanding is that some of your allies have freshly arrived on Reisenjima.
+ 7847: I beseech you to seek out their aid in this endeavor.
+ 7848: Once at Al'Taieu, you will doubtless be able to meet with the Goddess...and your darkened self.
+ 7849: What happens after is for you to decide.
+ 7850: The feeling...it's indescribable!
+ 7851: Master! Vanquishing the panopts proved to be the key in restoring order to the lifestream coursing through Reisenjima.
+ 7852: <Player>, I am now able to manipulate the crystal to its fullest.
+ 7853: And as such, it is now possible for me to see you off on your path to meet the Goddess.
+ 7854: Never would anyone have thought it possible to meet the Goddess herself...
+ 7855: And the god of darkness--your other half--awaits you as well.
+ 7856: The future now lies in your hands.
+ 7857: Are your preparations complete?
+ 7858: Are you ready to meet the Goddess? [Yes. At long last.../I need to take care of some things.]
+ 7859: No need for haste. I shall be here whenever you are ready.
+ 7860: Master, I pray for your success!
+ 7861: The hopes of millions rest upon your wings.
+ 7862: Let the crystal guide us to a brighter future.
+ 7863: Then I shall open the path once more.
+ 7864: [Lord/Lady] <Player>!
+ 7865: Is it true? Is the nightmare over?
+ 7866: I knew that our faith in you was not misplaced!
+ 7867: I tell ye, I was sweatin' bullets hopin' everythin'd turn out all right...which I guess it did.
+ 7868: Th' winds begun to rage an' howl, an' I was fer sure it was th' end, and so I looked up at the sky--and there was a huge crash.
+ 7869: I'd bet my bottom gil that everyone all across Vana'diel, not just those here in Reisenjima, felt the violent shakin'.
+ 7870: The explosion we saw far above--that was you, wasn't it?
+ 7871: Words cannot describe the awe I felt.
+ 7872: A fierce struggle between twin [gods/goddesses]--one of light and one of darkness--to decide the fate of the future.
+ 7873: Truly a tale for th' ages!
+ 7874: If that means we've got no cloud ta worry 'bout, then I'd say yer mission ended in a rousing success.
+ 7875: If anyone would be happy to hear that your ultimate decision saved the world, it'd be Iroha.
+ 7876: I nearly forgot! Lady Iroha--where is she!?
+ 7877: If the Goddess permits it, she may be able to join us once more...without the suffering she has had to endure in previous incarnations.
+ 7878: Master...
+ 7879: Your helpless disciple stands before you once more.
+ 7880: Iroha! Bwahaha! Haven't seen ye lookin' that good since...well, since ever!
+ 7881: Sir Gilgamesh...everyone...
+ 7882: Seeing you stand here, safe, is the greatest present I could have received.
+ 7883: Lady Iroha, were it not for your guidance, none of us could have survived the trials posed to us.
+ 7884: This calls for a celebration! A grand feast the likes of which Vana'diel has never seen!
+ 7885: Oh, Sir Tenzen, ever the bobblehead...
+ 7886: "Bobblehead"...?
+ 7887: Ah, but how I long for fresh air!
+ 7888: Then let us take stock of the island!
+ 7889: Now that the threat posed by the Cloud of Darkness is no more, I know not how long I shall be able to remain here.
+ 7890: I am only able to maintain a physical form at all thanks to the lifestream, which you worked so hard to stabilize.
+ 7891: And how I longed to gaze upon a peaceful world with you...
+ 7892: [Lord/Lady] <Player>! I bear grave tidings!
+ 7893: When you left, ominous shadows appeared, swirling around the center of the crystal.
+ 7894: And then they suddenly burst forth, spiraling forwards and upwards like murky tendrils!
+ 7895: Do you suppose...do you suppose something has happened to Lord Selh'teus?
+ 7896: Master...help me...
+ 7897: Lady Iroha!
+ 7898: The Cloud of Darkness...yet remains within the crystal...
+ 7899: How is such a thing possible!? We had thought it banished!
+ 7900: We cannot sit on our hands and let it regain full strength! I need not remind you what that means for our future!
+ 7901: We cannot let this continue...but if the crystal shatters...
+ 7902: All we can do...is ensure that the darkness spreads no further...
+ 7903: My good lady, do you mean to say--!
+ 7904: Did she mean...did she mean that we must shatter the crystal to stem the tide?
+ 7905: Should you shatter the crystal? [I'll do what must be done./That's not the answer.]
+ 7906: No. That is not the proper course.
+ 7907: I concur. There must be another, less drastic, method.
+ 7908: Lord Selh'teus gave up his personhood to call forth this crystal.
+ 7909: In so doing, he prevented the Emptiness from encroaching upon my homeland any further.
+ 7910: Destroying the crystal would make a mockery of his sacrifice...and also spell the doom of my people.
+ 7911: And Iroha...
+ 7912: Does she not reside within this crystal as well!?
+ 7913: [Lord/Lady] <Player>, would it be possible to traverse the crystal once more?
+ 7914: Ah, I understand. The last time you were successful only because you had gained a small essence of divinity.
+ 7915: Divinity which was likely lost when you clashed with your dark self.
+ 7916: Then perhaps you must gather such power once more.
+ 7917: My blade...my blade is--
+ 7918: Thou hast once before been called a [god/goddess].
+ 7919: Yet thy power hath been lost, and in that we are closer than thou might think.
+ 7920: Canst thou not hear it? Altana is calling out to her children.
+ 7921: Come to the stone circle in La Theine.
+ 7922: Phoenix, your words of wisdom mean much in these dark times.
+ 7923: [Lord/Lady] <Player>, the Goddess and the avatar may see fit to lend their aid.
+ 7924: We must make haste for the stone circle in La Theine Plateau!
+ 7925: The shadows grow ever darker...
+ 7926: Urk!
+ 7927: Do not approach further!
+ 7928: I feel my vigor beginning to ebb...
+ 7929: [Lord/Lady] <Player>, you must not touch...
+ 7930: Lady Lion!? From whence--!?
+ 7931: Ready to crack some skulls, old man!?
+ 7932: You are not...you are not the real Lady Prishe, are you?
+ 7933: All anger and hatred vanish today!
+ 7934: Trust...friendship...brotherly love... These are the key...
+ 7935: The Goddess, the crystals, Vana'diel...they have given us these powers for this very moment.
+ 7936: Hey, you finally got one!
+ 7937: I promise not to let you down!
+ 7938: Future Fabulous, back for a second time...or is it the third time?
+ 7939: I refuse to sit on the sidelines when Vana'diel needs me!
+ 7940: I can feel my strength returning!
+ 7941: Everyone is here by your side, Tenzen.
+ 7942: Come! We need your help!
+ 7943: How do ya think <Player> is gonna get inside that crystal? Brute force? (Come to think of it, that's something I would do...)
+ 7944: I don't know about the rest of you, but I'm ready to give it my all!
+ 7945: Heh heh heh--you're not the only one, girlie!
+ 7946: Ready...set...
+ 7947: Go!!!
+ 7948: Our future--I can see it!
+ 7949: Dig your heels in and show 'em what we've got!
+ 7950: C'mon!
+ 7951: Let's blow it into a million itty-bitty bits!
+ 7952: I think...it's stopped.
+ 7953: Well done, everyone!
+ 7954: I hope you didn't expect us to let the world become a desolate wasteland!
+ 7955: Arciela!
+ 7956: Do it, Lion!
+ 7957: Here's one for the road!
+ 7958: Wait.
+ 7959: Only one who has received the blessings of the avatars can save Iroha, [Lord/Lady] <Player>.
+ 7960: Leave the rest to us!
+ 7961: Don't keel over now, everyone!
+ 7962: Gyah!
+ 7963: I've got your back!
+ 7964: We've just got to buy some time.
+ 7965: Try this one on for size!
+ 7966: Don't even think about it!
+ 7967: Thanks, Arciela.
+ 7968: I know you'd do the same for me.
+ 7969: Can you stand?
+ 7970: Ugh. I punch and I kick, but they just keep coming!
+ 7971: The tables have turned...
+ 7972: ...or have they!?
+ 7973: There'll be no opportunity better than this!
+ 7974: Let's guide <Player> on [his/her] way to the proper path!
+ 7975: You have my knife by your side!
+ 7976: This world isn't your plaything!
+ 7977: Phoenix, I beg you...
+ 7978: ...Quell the darkness!
+ 7979: Graaaaaahnraaaaaah!
+ 7980: D-did you see that!? It-it's gone!
+ 7981: Now, <Player>! To the crystal!
+ 7982: Go now. Iroha is waiting for you!
+ 7983: Don't give up on us now! Fight, fight, and keep fighting!
+ 7984: Though the crystal may be at your side, don't expect victory to come lightly!
+ 7985: You, and you alone, can confront what lies within. I can only pray for your success.
+ 7986: And after you do...make sure to come back to us.
+ 7987: I failed, <Player>.
+ 7988: I knew that none could stop the Cloud of Darkness, and yet...
+ 7989: I tried. I tried to save her.
+ 7990: But in a world without time, the fate of humanity is to disappear.
+ 7991: What do you say? [Iroha!/Get out of there!/Wake up!]
+ 7992: Phoenix!
+ 7993: Altana, I beseech thee! Let my powers return to the flame!
+ 7994: Master!
+ 7995: That must be it--the Cloud of Darkness!
+ 7996: The corrosive force is eating at the crystal from inside!
+ 7997: Phoenix's power reached its zenith thanks to all you have done.
+ 7998: And in so doing, you have caused the Cloud of Darkness to be made manifest.
+ 7999: And all that is given form can be destroyed!
+ 8000: The time has come!
+ 8001: May my blade strike true!
+ 8002: <Player>!
+ 8003: Master!!!
+ 8004: Welcome back, <Player>. Welcome back to Vana'diel.
+ 8005: You have broken the clear time record for "[The Orb's Radiance/Letter from Iroha/Letter from Reisenjima/$26The Orb's Radiance]"!
+ 8006: The current battlefield clear time record for "[The Orb's Radiance/Letter from Iroha/Letter from Reisenjima/$26The Orb's Radiance]" is $3 second[/s].
+ 8007: The current battlefield clear time record for "[The Orb's Radiance/Letter from Iroha/Letter from Reisenjima/$26The Orb's Radiance]" is $3 minute[/s] $2 second[/s].
+ 8008: Entering the battlefield for "[The Orb's Radiance/Letter from Iroha/Letter from Reisenjima/$26The Orb's Radiance]"!
+ 8009: Which battlefield will you enter? [None./The Orb's Radiance./Letter from Iroha. (CL: 119)/Letter from Reisenjima./$26The Orb's Radiance./]
+ 8010: Light...darkness...
+ 8011: When the winds are stopped... It matters not.
+ 8012: Gather...
+ 8013: ...And spread!
+ 8014: We end this, here and now!
+ 8015: Master? Master!? Master!!!
+ 8016: Master...I-I could not...
+ 8017: Our future is meant to be bright, not bleak!
+ 8018: Begone!
+ 8019: May the song of a million souls flow through me!
+ 8020: Master, you honor me by training me once more!
+ 8021: Let us cut to the quick!
+ 8022: Master...I have learned much.
+ 8023: Master?
+ 8024: Let me show you what I have learned!
+ 8025: I have much more room...to grow...
+ 8026: Master, I implore you to give your all!
+ 8027: Everyone, I require your aid!
+ 8028: Master, you have my sincerest thanks.
+ 8029: Come, Master. There is no need to go easy on me.
+ 8030: My training is bound to pay off!
+ 8031: I wasn't...strong...enough...
+ 8032: Ready to bust some skulls!?
+ 8033: Well, this was a real pain in the--
+ 8034: I pledge to protect my friends, always!
+ 8035: I have...failed.
+ 8036: Hehehe! Ready for an encore?
+ 8037: The curtain...falls...
+ 8038: Arciela V Adoulin, ready!
+ 8039: Forgive...me...

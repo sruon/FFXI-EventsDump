@@ -77,8 +77,8 @@
 |      24 | 0x3F03C     |      258108 |
 |      25 | 0xFFFFCDCE  |  4294954446 |
 |      26 | 0x0C93      |        3219 |
-|      27 | 0x1E61      |        7777 |
-|      28 | 0x1E6B      |        7787 |
+|      27 | 0x1E62      |        7778 |
+|      28 | 0x1E6C      |        7788 |
 |      29 | 0xFFFF988E  |  4294940814 |
 |      30 | 0x428BB     |      272571 |
 |      31 | 0xFFFFD120  |  4294955296 |
@@ -107,7 +107,7 @@
 |      54 | 0xFFFF9E1A  |  4294942234 |
 |      55 | 0x44795     |      280469 |
 |      56 | 0x0FB5      |        4021 |
-|      57 | 0x1E9C      |        7836 |
+|      57 | 0x1E9D      |        7837 |
 |      58 | 0xFFFF9C7D  |  4294941821 |
 |      59 | 0x3FC80     |      261248 |
 |      60 | 0x03F0      |        1008 |
@@ -118,14 +118,14 @@
 |      65 | 0xFFFF67E6  |  4294928358 |
 |      66 | 0x3B1FD     |      242173 |
 |      67 | 0xFFFFCF2D  |  4294954797 |
-|      68 | 0x1EB9      |        7865 |
+|      68 | 0x1EBA      |        7866 |
 
 ## String References
 
-- **7777**: Oopsy-daisy!
-- **7787**: Hi-ho Silver!
-- **7836**: Phew...
-- **7865**: But it was no ghosty-whosty, it was a Cardiany!
+- **7778**: Oopsy-daisy!
+- **7788**: Hi-ho Silver!
+- **7837**: Phew...
+- **7866**: But it was no ghosty-whosty, it was a Cardiany!
 
 ## Events
 
@@ -599,7 +599,7 @@
 
 ```
   0: 0x0121 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014), tag_num=0x07)
-  1: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
+  1: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
     → "Oopsy-daisy!"
   2: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x012C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014), tag_num=0x08)
@@ -625,7 +625,7 @@
 #### Opcodes
 
 ```
-  0: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
+  0: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
     → "Hi-ho Silver!"
   1: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0138 [0x00] END_REQSTACK()
@@ -869,7 +869,7 @@
 
 ```
   0: 0x01E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014), tag_num=0x01)
-  1: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+  1: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "Phew..."
   2: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014), tag_num=0x02)
@@ -956,7 +956,7 @@
 
 ```
   0: 0x0229 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014), tag_num=0x01)
-  1: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+  1: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "But it was no ghosty-whosty, it was a Cardiany!"
   2: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0234 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014), tag_num=0x02)

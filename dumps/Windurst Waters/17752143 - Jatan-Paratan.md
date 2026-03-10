@@ -64,31 +64,31 @@
 |       3 | 0x002A      |          42 |
 |       4 | 0x0151      |         337 |
 |       5 | 0x0CF2      |        3314 |
-|       6 | 0x22BB      |        8891 |
-|       7 | 0x22BC      |        8892 |
-|       8 | 0x22BD      |        8893 |
-|       9 | 0x22BE      |        8894 |
-|      10 | 0x22C5      |        8901 |
-|      11 | 0x22C6      |        8902 |
-|      12 | 0x22C7      |        8903 |
-|      13 | 0x22C9      |        8905 |
+|       6 | 0x22BC      |        8892 |
+|       7 | 0x22BD      |        8893 |
+|       8 | 0x22BE      |        8894 |
+|       9 | 0x22BF      |        8895 |
+|      10 | 0x22C6      |        8902 |
+|      11 | 0x22C7      |        8903 |
+|      12 | 0x22C8      |        8904 |
+|      13 | 0x22CA      |        8906 |
 |      14 | 0x0000      |           0 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x0002      |           2 |
 |      17 | 0x0003      |           3 |
-|      18 | 0x22C8      |        8904 |
-|      19 | 0x22CA      |        8906 |
-|      20 | 0x22CB      |        8907 |
-|      21 | 0x22CC      |        8908 |
-|      22 | 0x22CD      |        8909 |
-|      23 | 0x22CE      |        8910 |
-|      24 | 0x22CF      |        8911 |
-|      25 | 0x22D0      |        8912 |
-|      26 | 0x22D1      |        8913 |
-|      27 | 0x22D2      |        8914 |
-|      28 | 0x22D3      |        8915 |
-|      29 | 0x22D4      |        8916 |
-|      30 | 0x22D5      |        8917 |
+|      18 | 0x22C9      |        8905 |
+|      19 | 0x22CB      |        8907 |
+|      20 | 0x22CC      |        8908 |
+|      21 | 0x22CD      |        8909 |
+|      22 | 0x22CE      |        8910 |
+|      23 | 0x22CF      |        8911 |
+|      24 | 0x22D0      |        8912 |
+|      25 | 0x22D1      |        8913 |
+|      26 | 0x22D2      |        8914 |
+|      27 | 0x22D3      |        8915 |
+|      28 | 0x22D4      |        8916 |
+|      29 | 0x22D5      |        8917 |
+|      30 | 0x22D6      |        8918 |
 |      31 | 0x00C8      |         200 |
 |      32 | 0x003C      |          60 |
 |      33 | 0x0180      |         384 |
@@ -104,69 +104,69 @@
 |      43 | 0x03A0      |         928 |
 |      44 | 0x0097      |         151 |
 |      45 | 0x00C9      |         201 |
-|      46 | 0x22DD      |        8925 |
-|      47 | 0x22DE      |        8926 |
-|      48 | 0x22DF      |        8927 |
-|      49 | 0x22E0      |        8928 |
-|      50 | 0x22E1      |        8929 |
-|      51 | 0x22E2      |        8930 |
-|      52 | 0x22E3      |        8931 |
-|      53 | 0x22E4      |        8932 |
+|      46 | 0x22DE      |        8926 |
+|      47 | 0x22DF      |        8927 |
+|      48 | 0x22E0      |        8928 |
+|      49 | 0x22E1      |        8929 |
+|      50 | 0x22E2      |        8930 |
+|      51 | 0x22E3      |        8931 |
+|      52 | 0x22E4      |        8932 |
+|      53 | 0x22E5      |        8933 |
 |      54 | 0x0050      |          80 |
-|      55 | 0x22E5      |        8933 |
-|      56 | 0x22E6      |        8934 |
-|      57 | 0x22E7      |        8935 |
-|      58 | 0x22E8      |        8936 |
-|      59 | 0x22E9      |        8937 |
-|      60 | 0x22EA      |        8938 |
-|      61 | 0x22EB      |        8939 |
-|      62 | 0x22EC      |        8940 |
-|      63 | 0x22ED      |        8941 |
-|      64 | 0x22EE      |        8942 |
-|      65 | 0x22EF      |        8943 |
+|      55 | 0x22E6      |        8934 |
+|      56 | 0x22E7      |        8935 |
+|      57 | 0x22E8      |        8936 |
+|      58 | 0x22E9      |        8937 |
+|      59 | 0x22EA      |        8938 |
+|      60 | 0x22EB      |        8939 |
+|      61 | 0x22EC      |        8940 |
+|      62 | 0x22ED      |        8941 |
+|      63 | 0x22EE      |        8942 |
+|      64 | 0x22EF      |        8943 |
+|      65 | 0x22F0      |        8944 |
 
 ## String References
 
-- **8891**: I'm the house flutist. I do nightly performances at this restaurant.
-- **8892**: Have you ever visited us here at nighty-nighty?
-- **8893**: People are strange when it comes to food. It seems our tastes change with the time of day. I recommend you try our dinner dishes here too!
-- **8894**: Please enjoy some soul-soothing music for a while.
-- **8901**: This may be a little rude of me, but have you, my fair customer, ever listened to one of my performances?
-- **8902**: I perform here during the nights. My job is to assist you in your enjoyment of our fine food and drinks with my dreamy-weamy melodies.
-- **8903**: Please stop by the next evening you are free, and enjoy the rhythm of the night.
-- **8904**: Have you, my fair customer, ever listened to one of my performances? If you don't mind giving your opinion, perhaps you could let me know your thoughts for my future reference.
-- **8905**: How did you like his performance? [It was like music to my ears./Face the music! It wasn't so good./I have no recollection at all.]
-- **8906**: So you think my playing still needs work?
-- **8907**: I appreciate your honest opinion. I shall strive to continuously improve my skills.
-- **8908**: Why, thank you so very much. I'll take that as encouragement to continuously improve my skills.
-- **8909**: Please stop by and listen again some time.
-- **8910**: As a simple musician that would be taken as biting criticism, but as a restaurant performer, it is the greatest of praises. Thank you very much.
-- **8911**: I strive to create music that complements your meal and doesn't distract from your conversation. Please stop by and enjoy the atmosphere again some time.
-- **8912**: My fair customer, what are your thoughts on our restaurant here?
-- **8913**: I'm sorry, I shouldn't have asked that. It's not like I'm the owner of the place or anything like that...
-- **8914**: I just love the tastes and atmosphere of this restaurant. I shall never forget the bliss I encountered here in the middle of my long, hard travels.
-- **8915**: After discovering this place, I simply forced the proprietor into allowing me to have a position here. Alas...but then...
-- **8916**: ...... I'm sorry. I don't know what came over me... Please forget it.
-- **8917**: ...... I'm sorry, I don't know what came over me... Please forget what I said.
-- **8925**: Ah? What's this...? Where in Vana'diel did you get this...?
-- **8926**: Don't tell me you traveled all the way to Jeuno to meet Ruslan! Why would you do such a thing?
-- **8927**: What? Yung and Yuli Yaam were worried that I'm not myself of late...
-- **8928**: I am sincerely touched by the fact you all care so much about me...
-- **8929**: Allow me to share my heartfelt feelings with you...
-- **8930**: 'Twas a little while ago that Ruslan, an old acquaintance who practiced music with me, came to this very tavern and let me hear of his recent tales.
-- **8931**: He praised my performance greatly, but had no interest in the food of this restaurant.
-- **8932**: Despite sojourning here for several weeks and eating the food here every night, he couldn't remember the slightest thing about the restaurant's cooking.
-- **8933**: 'Twas then that I realized that my flamboyant performance itself was detracting from the tastes and atmosphere of this tavern.
-- **8934**: It was like I was repaying the tavern owner's kindness with evil...or biting the hand that feeds me--no, everyone...
-- **8935**: And so now I'm searching within myself for a more appropriate sound. Alas, I've been unable to find it yet.
-- **8936**: I apologize for the trouble I've caused...drawing you into my own personal problems...problems that shouldn't concern one as esteemed as yourself.
-- **8937**: But, yes indeed, this was once the goal I sought after. I shall gladly accept it from you. However, let me pay you back with this...
-- **8938**: That is also a little something I collected while I was first obsessed with music.
-- **8939**: I was going to throw it away, but I suppose if one were to sell it, it would fetch quite a sum. Please take it. I hope it assists you in your travels.
-- **8940**: I beg your pardon, but, if you don't mind...could we kindly keep this between you and me, and not bother Yung and Yuli Yaam with my problems?
-- **8941**: I don't want to worry them any further with my problems. It might affect Yuli's philosophy towards music...
-- **8942**: I just love Yuli Yaam's music.
-- **8943**: Perhaps it is selfish of me, but when I first came here midway through my journeys, I wished both this place and its music would stay the same.
+- **8892**: I'm the house flutist. I do nightly performances at this restaurant.
+- **8893**: Have you ever visited us here at nighty-nighty?
+- **8894**: People are strange when it comes to food. It seems our tastes change with the time of day. I recommend you try our dinner dishes here too!
+- **8895**: Please enjoy some soul-soothing music for a while.
+- **8902**: This may be a little rude of me, but have you, my fair customer, ever listened to one of my performances?
+- **8903**: I perform here during the nights. My job is to assist you in your enjoyment of our fine food and drinks with my dreamy-weamy melodies.
+- **8904**: Please stop by the next evening you are free, and enjoy the rhythm of the night.
+- **8905**: Have you, my fair customer, ever listened to one of my performances? If you don't mind giving your opinion, perhaps you could let me know your thoughts for my future reference.
+- **8906**: How did you like his performance? [It was like music to my ears./Face the music! It wasn't so good./I have no recollection at all.]
+- **8907**: So you think my playing still needs work?
+- **8908**: I appreciate your honest opinion. I shall strive to continuously improve my skills.
+- **8909**: Why, thank you so very much. I'll take that as encouragement to continuously improve my skills.
+- **8910**: Please stop by and listen again some time.
+- **8911**: As a simple musician that would be taken as biting criticism, but as a restaurant performer, it is the greatest of praises. Thank you very much.
+- **8912**: I strive to create music that complements your meal and doesn't distract from your conversation. Please stop by and enjoy the atmosphere again some time.
+- **8913**: My fair customer, what are your thoughts on our restaurant here?
+- **8914**: I'm sorry, I shouldn't have asked that. It's not like I'm the owner of the place or anything like that...
+- **8915**: I just love the tastes and atmosphere of this restaurant. I shall never forget the bliss I encountered here in the middle of my long, hard travels.
+- **8916**: After discovering this place, I simply forced the proprietor into allowing me to have a position here. Alas...but then...
+- **8917**: ...... I'm sorry. I don't know what came over me... Please forget it.
+- **8918**: ...... I'm sorry, I don't know what came over me... Please forget what I said.
+- **8926**: Ah? What's this...? Where in Vana'diel did you get this...?
+- **8927**: Don't tell me you traveled all the way to Jeuno to meet Ruslan! Why would you do such a thing?
+- **8928**: What? Yung and Yuli Yaam were worried that I'm not myself of late...
+- **8929**: I am sincerely touched by the fact you all care so much about me...
+- **8930**: Allow me to share my heartfelt feelings with you...
+- **8931**: 'Twas a little while ago that Ruslan, an old acquaintance who practiced music with me, came to this very tavern and let me hear of his recent tales.
+- **8932**: He praised my performance greatly, but had no interest in the food of this restaurant.
+- **8933**: Despite sojourning here for several weeks and eating the food here every night, he couldn't remember the slightest thing about the restaurant's cooking.
+- **8934**: 'Twas then that I realized that my flamboyant performance itself was detracting from the tastes and atmosphere of this tavern.
+- **8935**: It was like I was repaying the tavern owner's kindness with evil...or biting the hand that feeds me--no, everyone...
+- **8936**: And so now I'm searching within myself for a more appropriate sound. Alas, I've been unable to find it yet.
+- **8937**: I apologize for the trouble I've caused...drawing you into my own personal problems...problems that shouldn't concern one as esteemed as yourself.
+- **8938**: But, yes indeed, this was once the goal I sought after. I shall gladly accept it from you. However, let me pay you back with this...
+- **8939**: That is also a little something I collected while I was first obsessed with music.
+- **8940**: I was going to throw it away, but I suppose if one were to sell it, it would fetch quite a sum. Please take it. I hope it assists you in your travels.
+- **8941**: I beg your pardon, but, if you don't mind...could we kindly keep this between you and me, and not bother Yung and Yuli Yaam with my problems?
+- **8942**: I don't want to worry them any further with my problems. It might affect Yuli's philosophy towards music...
+- **8943**: I just love Yuli Yaam's music.
+- **8944**: Perhaps it is selfish of me, but when I first came here midway through my journeys, I wished both this place and its music would stay the same.
 
 ## Events
 
@@ -736,13 +736,13 @@
   1: 0x0183 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0188 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0189 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=8891*)
+  4: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=8892*)
     → "I'm the house flutist. I do nightly performances at this restaurant."
   5: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x018E [0x1D] PRINT_EVENT_MESSAGE(message_id=8892*)
+  6: 0x018E [0x1D] PRINT_EVENT_MESSAGE(message_id=8893*)
     → "Have you ever visited us here at nighty-nighty?"
   7: 0x0191 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=8893*)
+  8: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=8894*)
     → "People are strange when it comes to food. It seems our tastes change with the time of day. I recommend you try our dinner dishes here too!"
   9: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0196 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -774,7 +774,7 @@
   1: 0x01A0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x01A5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01A6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8894*)
+  4: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8895*)
     → "Please enjoy some soul-soothing music for a while."
   5: 0x01AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01AB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -807,13 +807,13 @@
   1: 0x01B5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x01BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01BB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8901*)
+  4: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8902*)
     → "This may be a little rude of me, but have you, my fair customer, ever listened to one of my performances?"
   5: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8902*)
+  6: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8903*)
     → "I perform here during the nights. My job is to assist you in your enjoyment of our fine food and drinks with my dreamy-weamy melodies."
   7: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8903*)
+  8: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8904*)
     → "Please stop by the next evening you are free, and enjoy the rhythm of the night."
   9: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01C8 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -852,7 +852,7 @@
   2: 0x01D7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01D8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01D9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x1A)
-  5: 0x01E0 [0x24] CREATE_DIALOG(message_id=8905*, default_option=0*, option_flags=0*)
+  5: 0x01E0 [0x24] CREATE_DIALOG(message_id=8906*, default_option=0*, option_flags=0*)
     → "How did you like his performance? [It was like music to my ears./Face the music! It wasn't so good./I have no recollection at all.]"
   6: 0x01E7 [0x25] WAIT_DIALOG_SELECT()
   7: 0x01E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FF
@@ -893,7 +893,7 @@ SUBROUTINE_022D:
 #### Opcodes
 
 ```
-  0: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8904*)
+  0: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8905*)
     → "Have you, my fair customer, ever listened to one of my performances? If you don't mind giving your opinion, perhaps you could let me know your thoughts for my future reference."
   1: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0235 [0x00] END_REQSTACK()
@@ -918,10 +918,10 @@ SUBROUTINE_022D:
 #### Opcodes
 
 ```
-  0: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=8906*)
+  0: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=8907*)
     → "So you think my playing still needs work?"
   1: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=8907*)
+  2: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=8908*)
     → "I appreciate your honest opinion. I shall strive to continuously improve my skills."
   3: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x023E [0x00] END_REQSTACK()
@@ -947,10 +947,10 @@ SUBROUTINE_022D:
 #### Opcodes
 
 ```
-  0: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=8908*)
+  0: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=8909*)
     → "Why, thank you so very much. I'll take that as encouragement to continuously improve my skills."
   1: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=8909*)
+  2: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=8910*)
     → "Please stop by and listen again some time."
   3: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0247 [0x00] END_REQSTACK()
@@ -976,10 +976,10 @@ SUBROUTINE_022D:
 #### Opcodes
 
 ```
-  0: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=8910*)
+  0: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=8911*)
     → "As a simple musician that would be taken as biting criticism, but as a restaurant performer, it is the greatest of praises. Thank you very much."
   1: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8911*)
+  2: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
     → "I strive to create music that complements your meal and doesn't distract from your conversation. Please stop by and enjoy the atmosphere again some time."
   3: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0250 [0x00] END_REQSTACK()
@@ -1011,20 +1011,20 @@ SUBROUTINE_022D:
   1: 0x0257 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x025C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x025D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+  4: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
     → "My fair customer, what are your thoughts on our restaurant here?"
   5: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
+  6: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=8914*)
     → "I'm sorry, I shouldn't have asked that. It's not like I'm the owner of the place or anything like that..."
   7: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=8914*)
+  8: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
     → "I just love the tastes and atmosphere of this restaurant. I shall never forget the bliss I encountered here in the middle of my long, hard travels."
   9: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
+ 10: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=8916*)
     → "After discovering this place, I simply forced the proprietor into allowing me to have a position here. Alas...but then..."
  11: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x026E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x11)
- 13: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=8916*)
+ 13: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=8917*)
     → "...... I'm sorry. I don't know what came over me... Please forget it."
  14: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0279 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x12)
@@ -1057,7 +1057,7 @@ SUBROUTINE_022D:
   1: 0x028A [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x028F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0290 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=8917*)
+  4: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=8918*)
     → "...... I'm sorry, I don't know what came over me... Please forget what I said."
   5: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0295 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1193,11 +1193,11 @@ SUBROUTINE_022D:
 
 ```
   0: 0x0439 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x01)
-  1: 0x0440 [0x1D] PRINT_EVENT_MESSAGE(message_id=8925*)
+  1: 0x0440 [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
     → "Ah? What's this...? Where in Vana'diel did you get this...?"
   2: 0x0443 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0444 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x02)
-  4: 0x044B [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
+  4: 0x044B [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
     → "Don't tell me you traveled all the way to Jeuno to meet Ruslan! Why would you do such a thing?"
   5: 0x044E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x044F [0x00] END_REQSTACK()
@@ -1222,10 +1222,10 @@ SUBROUTINE_022D:
 #### Opcodes
 
 ```
-  0: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
+  0: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
     → "What? Yung and Yuli Yaam were worried that I'm not myself of late..."
   1: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
+  2: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
     → "I am sincerely touched by the fact you all care so much about me..."
   3: 0x0457 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0458 [0x00] END_REQSTACK()
@@ -1251,10 +1251,10 @@ SUBROUTINE_022D:
 #### Opcodes
 
 ```
-  0: 0x0459 [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
+  0: 0x0459 [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
     → "Allow me to share my heartfelt feelings with you..."
   1: 0x045C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
+  2: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
     → "'Twas a little while ago that Ruslan, an old acquaintance who practiced music with me, came to this very tavern and let me hear of his recent tales."
   3: 0x0460 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0461 [0x00] END_REQSTACK()
@@ -1282,20 +1282,20 @@ SUBROUTINE_022D:
 #### Opcodes
 
 ```
-  0: 0x0462 [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
+  0: 0x0462 [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
     → "He praised my performance greatly, but had no interest in the food of this restaurant."
   1: 0x0465 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0466 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x0B)
-  3: 0x046D [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
+  3: 0x046D [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
     → "Despite sojourning here for several weeks and eating the food here every night, he couldn't remember the slightest thing about the restaurant's cooking."
   4: 0x0470 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0471 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x0C)
   6: 0x0478 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x11)
   7: 0x047F [0x1C] WAIT(80* ticks)
-  8: 0x0482 [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
+  8: 0x0482 [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
     → "'Twas then that I realized that my flamboyant performance itself was detracting from the tastes and atmosphere of this tavern."
   9: 0x0485 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0486 [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
+ 10: 0x0486 [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
     → "It was like I was repaying the tavern owner's kindness with evil...or biting the hand that feeds me--no, everyone..."
  11: 0x0489 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x048A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x12)
@@ -1322,14 +1322,14 @@ SUBROUTINE_022D:
 #### Opcodes
 
 ```
-  0: 0x0492 [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
+  0: 0x0492 [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
     → "And so now I'm searching within myself for a more appropriate sound. Alas, I've been unable to find it yet."
   1: 0x0495 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0496 [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
+  2: 0x0496 [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
     → "I apologize for the trouble I've caused...drawing you into my own personal problems...problems that shouldn't concern one as esteemed as yourself."
   3: 0x0499 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x049A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x0F)
-  5: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
+  5: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8938*)
     → "But, yes indeed, this was once the goal I sought after. I shall gladly accept it from you. However, let me pay you back with this..."
   6: 0x04A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x04A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jatan-Paratan (ID: 17752143/0x010EE04F), tag_num=0x10)
@@ -1356,10 +1356,10 @@ SUBROUTINE_022D:
 #### Opcodes
 
 ```
-  0: 0x04AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8938*)
+  0: 0x04AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8939*)
     → "That is also a little something I collected while I was first obsessed with music."
   1: 0x04B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x04B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8939*)
+  2: 0x04B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8940*)
     → "I was going to throw it away, but I suppose if one were to sell it, it would fetch quite a sum. Please take it. I hope it assists you in your travels."
   3: 0x04B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x04B5 [0x00] END_REQSTACK()
@@ -1390,16 +1390,16 @@ SUBROUTINE_022D:
   1: 0x04BC [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x04C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x04C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8940*)
+  4: 0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8941*)
     → "I beg your pardon, but, if you don't mind...could we kindly keep this between you and me, and not bother Yung and Yuli Yaam with my problems?"
   5: 0x04C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8941*)
+  6: 0x04C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
     → "I don't want to worry them any further with my problems. It might affect Yuli's philosophy towards music..."
   7: 0x04CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x04CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
+  8: 0x04CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
     → "I just love Yuli Yaam's music."
   9: 0x04CE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x04CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
+ 10: 0x04CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8944*)
     → "Perhaps it is selfish of me, but when I first came here midway through my journeys, I wished both this place and its music would stay the same."
  11: 0x04D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x04D3 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

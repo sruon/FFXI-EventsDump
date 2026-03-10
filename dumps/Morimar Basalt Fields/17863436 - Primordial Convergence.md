@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E81      |        7809 |
-|       1 | 0x1E82      |        7810 |
+|       0 | 0x1E82      |        7810 |
+|       1 | 0x1E83      |        7811 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 
 ## String References
 
-- **7809**: Are you ready to face the primal forces of Morimar Basalt Fields?
-- **7810**: Are you ready? [Ready as ever!/No. Hold on.]
+- **7810**: Are you ready to face the primal forces of Morimar Basalt Fields?
+- **7811**: Are you ready? [Ready as ever!/No. Hold on.]
 
 ## Events
 
@@ -75,10 +75,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7809*]:
+  0: 0x0001 [0x48] [System] [7810*]:
     → "Are you ready to face the primal forces of Morimar Basalt Fields?"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7810*, default_option=1*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7811*, default_option=1*, option_flags=0*)
     → "Are you ready? [Ready as ever!/No. Hold on.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001D

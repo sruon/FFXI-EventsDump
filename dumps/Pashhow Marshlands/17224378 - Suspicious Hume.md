@@ -32,8 +32,8 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0009      |           9 |
-|       4 | 0x31D3      |       12755 |
-|       5 | 0x31D4      |       12756 |
+|       4 | 0x31D4      |       12756 |
+|       5 | 0x31D5      |       12757 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x001B      |          27 |
 |       8 | 0xFFF87CC8  |  4294474952 |
@@ -47,88 +47,88 @@
 |      16 | 0x026D      |         621 |
 |      17 | 0x000F      |          15 |
 |      18 | 0x00B4      |         180 |
-|      19 | 0x31D5      |       12757 |
+|      19 | 0x31D6      |       12758 |
 |      20 | 0x0006      |           6 |
-|      21 | 0x31D6      |       12758 |
-|      22 | 0x31D7      |       12759 |
-|      23 | 0x31D8      |       12760 |
+|      21 | 0x31D7      |       12759 |
+|      22 | 0x31D8      |       12760 |
+|      23 | 0x31D9      |       12761 |
 |      24 | 0x0358      |         856 |
 |      25 | 0x039E      |         926 |
 |      26 | 0x1110      |        4368 |
-|      27 | 0x31D9      |       12761 |
-|      28 | 0x31DA      |       12762 |
-|      29 | 0x31DB      |       12763 |
+|      27 | 0x31DA      |       12762 |
+|      28 | 0x31DB      |       12763 |
+|      29 | 0x31DC      |       12764 |
 |      30 | 0x092E      |        2350 |
-|      31 | 0x31DC      |       12764 |
-|      32 | 0x31E1      |       12769 |
-|      33 | 0x31E2      |       12770 |
-|      34 | 0x31E3      |       12771 |
-|      35 | 0x31E4      |       12772 |
-|      36 | 0x31E5      |       12773 |
-|      37 | 0x31E6      |       12774 |
-|      38 | 0x31E7      |       12775 |
-|      39 | 0x31FD      |       12797 |
-|      40 | 0x31FE      |       12798 |
-|      41 | 0x31FF      |       12799 |
+|      31 | 0x31DD      |       12765 |
+|      32 | 0x31E2      |       12770 |
+|      33 | 0x31E3      |       12771 |
+|      34 | 0x31E4      |       12772 |
+|      35 | 0x31E5      |       12773 |
+|      36 | 0x31E6      |       12774 |
+|      37 | 0x31E7      |       12775 |
+|      38 | 0x31E8      |       12776 |
+|      39 | 0x31FE      |       12798 |
+|      40 | 0x31FF      |       12799 |
+|      41 | 0x3200      |       12800 |
 |      42 | 0x0005      |           5 |
-|      43 | 0x320A      |       12810 |
+|      43 | 0x320B      |       12811 |
 |      44 | 0x0002      |           2 |
 |      45 | 0x0003      |           3 |
 |      46 | 0x0004      |           4 |
 |      47 | 0x092F      |        2351 |
-|      48 | 0x3200      |       12800 |
-|      49 | 0x3201      |       12801 |
+|      48 | 0x3201      |       12801 |
+|      49 | 0x3202      |       12802 |
 |      50 | 0x007B      |         123 |
-|      51 | 0x3202      |       12802 |
-|      52 | 0x3203      |       12803 |
+|      51 | 0x3203      |       12803 |
+|      52 | 0x3204      |       12804 |
 |      53 | 0x0141      |         321 |
-|      54 | 0x3204      |       12804 |
+|      54 | 0x3205      |       12805 |
 |      55 | 0x0064      |         100 |
-|      56 | 0x3213      |       12819 |
-|      57 | 0x3214      |       12820 |
+|      56 | 0x3214      |       12820 |
+|      57 | 0x3215      |       12821 |
 |      58 | 0x0007      |           7 |
 |      59 | 0x0008      |           8 |
 |      60 | 0x0017      |          23 |
-|      61 | 0x3216      |       12822 |
-|      62 | 0x3217      |       12823 |
-|      63 | 0x3218      |       12824 |
-|      64 | 0x3219      |       12825 |
+|      61 | 0x3217      |       12823 |
+|      62 | 0x3218      |       12824 |
+|      63 | 0x3219      |       12825 |
+|      64 | 0x321A      |       12826 |
 |      65 | 0x40000000  |  1073741824 |
-|      66 | 0x3215      |       12821 |
-|      67 | 0x321A      |       12826 |
-|      68 | 0x321B      |       12827 |
-|      69 | 0x321C      |       12828 |
-|      70 | 0x321D      |       12829 |
-|      71 | 0x321F      |       12831 |
+|      66 | 0x3216      |       12822 |
+|      67 | 0x321B      |       12827 |
+|      68 | 0x321C      |       12828 |
+|      69 | 0x321D      |       12829 |
+|      70 | 0x321E      |       12830 |
+|      71 | 0x3220      |       12832 |
 |      72 | 0x01F4      |         500 |
 |      73 | 0x000B      |          11 |
-|      74 | 0x3220      |       12832 |
-|      75 | 0x3221      |       12833 |
+|      74 | 0x3221      |       12833 |
+|      75 | 0x3222      |       12834 |
 |      76 | 0x000A      |          10 |
-|      77 | 0x3222      |       12834 |
-|      78 | 0x3223      |       12835 |
-|      79 | 0x3224      |       12836 |
-|      80 | 0x31E8      |       12776 |
-|      81 | 0x31E9      |       12777 |
-|      82 | 0x31EA      |       12778 |
-|      83 | 0x31EB      |       12779 |
-|      84 | 0x31EC      |       12780 |
-|      85 | 0x31EE      |       12782 |
-|      86 | 0x31EF      |       12783 |
-|      87 | 0x31F0      |       12784 |
-|      88 | 0x31F1      |       12785 |
-|      89 | 0x31F2      |       12786 |
-|      90 | 0x31F3      |       12787 |
-|      91 | 0x31F4      |       12788 |
-|      92 | 0x31F5      |       12789 |
-|      93 | 0x31F6      |       12790 |
-|      94 | 0x31F7      |       12791 |
-|      95 | 0x31F9      |       12793 |
-|      96 | 0x31FA      |       12794 |
-|      97 | 0x31FB      |       12795 |
+|      77 | 0x3223      |       12835 |
+|      78 | 0x3224      |       12836 |
+|      79 | 0x3225      |       12837 |
+|      80 | 0x31E9      |       12777 |
+|      81 | 0x31EA      |       12778 |
+|      82 | 0x31EB      |       12779 |
+|      83 | 0x31EC      |       12780 |
+|      84 | 0x31ED      |       12781 |
+|      85 | 0x31EF      |       12783 |
+|      86 | 0x31F0      |       12784 |
+|      87 | 0x31F1      |       12785 |
+|      88 | 0x31F2      |       12786 |
+|      89 | 0x31F3      |       12787 |
+|      90 | 0x31F4      |       12788 |
+|      91 | 0x31F5      |       12789 |
+|      92 | 0x31F6      |       12790 |
+|      93 | 0x31F7      |       12791 |
+|      94 | 0x31F8      |       12792 |
+|      95 | 0x31FA      |       12794 |
+|      96 | 0x31FB      |       12795 |
+|      97 | 0x31FC      |       12796 |
 |      98 | 0x0FD3      |        4051 |
-|      99 | 0x31FC      |       12796 |
-|     100 | 0x3205      |       12805 |
+|      99 | 0x31FD      |       12797 |
+|     100 | 0x3206      |       12806 |
 |     101 | 0x0FD4      |        4052 |
 |     102 | 0x0FD5      |        4053 |
 |     103 | 0x6EE6      |       28390 |
@@ -139,80 +139,80 @@
 |     108 | 0x2710      |       10000 |
 |     109 | 0x4E20      |       20000 |
 |     110 | 0x61A8      |       25000 |
-|     111 | 0x3206      |       12806 |
-|     112 | 0x3207      |       12807 |
-|     113 | 0x3208      |       12808 |
+|     111 | 0x3207      |       12807 |
+|     112 | 0x3208      |       12808 |
+|     113 | 0x3209      |       12809 |
 |     114 | 0x0010      |          16 |
 |     115 | 0x001F      |          31 |
 
 ## String References
 
-- **12755**: Hist! Thou canst see the light, canst thou not? It seems thou hast the talent for which I have been searching.
-- **12756**: Thy lack of experience, however, leaveth a single teary trail upon my cheek. Mayhap with more training, thou can attainest further glory.
-- **12757**: Eke, thy training hath not been in vain. My only question is that, with thy great powers, dost thou not tire of this corporeal realm?
-- **12758**: How do I know of thy deepest desires? 'Tis only natural, for the soul doth constantly yearn for greener pastures.
-- **12759**: Yet the pasture it hath been given is finite. Each soul's lot is to one day meet with its fence. Such wanion!
-- **12760**: Yet what if there were a method by which it could escape its confines and begin life anew?
-- **12761**: Shouldst thou be enchanted with these adumbrations, procurest for one of my brethren $0, $1, or $2.
-- **12762**: They reside in Northern San d'Oria, Port Bastok, and Port Windurst. To which thou yede is of no matter, as their message shall be the same.
-- **12763**: Whether or not thou undertakest this effortless swink to free thyself from thy shackles is a choice which is wholly thine to make.
-- **12764**: Slip that $3 upon thy finger and let thyself bathe in its luminescent emanations.
-- **12769**: Quotha...the light that shines forth from thy soul hath brightened a considerable degree.
-- **12770**: Natheless, it remaineth but a dull glow akin to twitherym dust whenas compared to the blindingly refulgent souls of more accomplished combatants.
-- **12771**: To fulfil thy true potential, thou needs assume the role of gladiator and bathe in monipulator blood.
-- **12772**: As a monipulator, thou hast likely reduced opponents everywhere to bawling babes at the mere mention of thy name.
-- **12773**: Simultaneously, though, combatants who hath cut swaths through adversaries while inside bestial vessels betimes yearneth for more...to bite the hand that feedeth.
-- **12774**: A saga sung of those who instill terror and those who release the land from it... Bwahaha, a worthy tale of spiritual strife, forsooth.
-- **12775**: Now that the stage hath been set, I shall impart the extent of my gladiatorial knowledge to thee. Simply ask and thou shalt receive.
-- **12776**: What shall you ask about? [Belligerency./Ranks./Prestige./Spoils./Domination./Nothing.]
-- **12777**: Those who have the ambition to slay monipulators can do battle against them by speaking with [me/my Northern San d'Orian ally] or one of my brethren in either [Port Bastok or Port Windurst/Northern San d'Oria or Port Windurst/Northern San d'Oria or Port Bastok] and receiving $6.
-- **12778**: This $3 is thy metaphorical muster as well as official avowal to enter belligerency.
-- **12779**: While it doth provide myriad boons to thee, it preventeth not those outside thy coterie from interfering with thy duty. Such a benediction will only descend upon the yare souls who hath claimed monipulators as their prey.
-- **12780**: I must also caution thee to beware that, depending on thy level of expertise, it may not behoove thee to tread upon the soils of certain lands.
-- **12782**: Lastly, should thy bloodlust cease or resolve wither on the vine, speak to one of my compatriots and they shall grant thee permission to withdraw from belligerency.
-- **12783**: Three ranks doth serve to classify the world's monipulator executioners. There is the eponymous "gladiator (Gla)," "champion gladiator (CG)," and "high champion gladiator (HCG)."
-- **12784**: Naught else needs be explained anent this simple concept...save that a gladiator's rank is determined by his prestige.
-- **12785**: Prestige is the gladiator's equivalent of the common adventurer's fame.
-- **12786**: Defeating both monsters and monipulators increaseth thy prestige, while falling victim to their claws decreaseth it.
-- **12787**: Each rank also hath a corresponding maximum amount of prestige, much like the infamy of monipulators.
-- **12788**: Ascertaining thy current prestige is merely a trifle. (Access the "Profile" menu under "Status.")
-- **12789**: Of course, prestige is not simply a means by which to boast to thy inferiors. Thou canst cede it to me in exchange for troves of splendid rewards.
-- **12790**: No victory doth taste as sweet as one where the stakes are high. Flaying treacherous notorious monsters and high notorious monsters occasionally earns thee spoils of war.
-- **12791**: A little cockatrice told me that monipulators even relinquish equipment betimes, so hold not back from slicing, stabbing, and spellcasting thy savage enemies to smithereens.
-- **12793**: Eke, the equipment thou dost obtain may be engraved with arcane glyptics by my consorts.
-- **12794**: Athwart terrestrial beings such as thee, our mezzotinting process leaveth nary a scratch on extant arcane glyptics.
-- **12795**: In sooth, it would be pure idiocy to charge nothing for our services. However, I shan't discuss figures at this juncture.
-- **12796**: Forget not that we must have $0 in order to engrave arcane glyptics, lest thou wish to incur the wrath of my people.
-- **12797**: Thy soul pineth for more than thou canst conceive. Set it free and embark upon gladiatorial exploits the likes of which Vana'diel hath never witnessed.
-- **12798**: Aroint, thou malmsey-nosed fustilarian!
-- **12799**: What shall you do? [Receive $3./Return $3./Participate in PT Content./Exchange prestige./Hear an explanation./Engage in friendly banter./Nothing.]
-- **12800**: Possessing $6 enableth thee to enter combat with monipulators. Dost thou assent?
-- **12801**: Give your assent? [Yes./No.]
-- **12802**: Thou tardy-gaited poltroon! Dost thou soothly desire to return thy $3 and withdraw?
-- **12803**: Return and withdraw? [Yes./No.]
-- **12804**: Bear in mind that transferring thy soul to the frames of other creatures hath its limits. Occasionally stretch thy sinews as a gladiator to both round thy world view and reach higher heights.
-- **12805**: What is it thou desirest?
-- **12806**: Which reward? (Prestige: $0) [$1. ($8 needed)/$2. ($9 needed)/$3. ($10 needed)/$4. ($11 needed)/$5. ($12 needed)/$6. ($13 needed)/$7. ($14 needed)/None.]
-- **12807**: Thou art willing to part with $1 point[/s] of prestige to obtain this $0, nay?
-- **12808**: Proceed with the exchange? (Prestige: $0) [Yes./No.]
-- **12810**: Assuming the form of a monster for too many moons doth exert an unwanted influence upon thy anima. Take pleasure in thy time spent within multiple forms, but not so much that thou canst never return to thy original vessel.
-- **12819**: In return for $1 point[/s] of prestige from thee, I shall [enhance the arcane glyptics extant on/engrave arcane glyptics upon] this $2.
-- **12820**: This $2's [original/post-augmentation/post-enhancement] attributes are thus:
-- **12821**: This $33 doth be in good...tails?
-- **12822**: This $33 hath been enhanced with arcane glyptics already.
-- **12823**: This $33 hath reached its limits and cannot be further enhanced, but may still evolve into newer forms.
-- **12824**: This $0 hath reached its limits and cannot evolve further.
-- **12825**: What do you wish to do? [Evolve the item./Mezzotint./Nothing.]
-- **12826**: Which type of glyptics shall you engrave?
-- **12827**: Which type do you want engraved? [Arcane Glyptic Type A./Arcane Glyptic Type B./Arcane Glyptic Type C./None.]
-- **12828**: Do you wish to mezzotint your weapon so that it is primed to receive the aforementioned attribute enhancements?
-- **12829**: Do you wish to mezzotint your weapon again so that it is primed to receive these attribute enhancements?
-- **12831**: How do you feel about these attributes? [I heartily enjoy them./I despise them and want new ones.]
-- **12832**: In return for $1 point[/s] of prestige from thee, I shall mezzotint this $2.
-- **12833**: Into which weapon shalt thou evolve this specimen?
-- **12834**: Which one? [None./#./$1./$2./$3./$4./$5./$6./$7.]
-- **12835**: Shall this be the one?
-- **12836**: How do you feel about this weapon? [I thoroughly enjoy it./I loathe it and want a new one.]
+- **12756**: Hist! Thou canst see the light, canst thou not? It seems thou hast the talent for which I have been searching.
+- **12757**: Thy lack of experience, however, leaveth a single teary trail upon my cheek. Mayhap with more training, thou can attainest further glory.
+- **12758**: Eke, thy training hath not been in vain. My only question is that, with thy great powers, dost thou not tire of this corporeal realm?
+- **12759**: How do I know of thy deepest desires? 'Tis only natural, for the soul doth constantly yearn for greener pastures.
+- **12760**: Yet the pasture it hath been given is finite. Each soul's lot is to one day meet with its fence. Such wanion!
+- **12761**: Yet what if there were a method by which it could escape its confines and begin life anew?
+- **12762**: Shouldst thou be enchanted with these adumbrations, procurest for one of my brethren $0, $1, or $2.
+- **12763**: They reside in Northern San d'Oria, Port Bastok, and Port Windurst. To which thou yede is of no matter, as their message shall be the same.
+- **12764**: Whether or not thou undertakest this effortless swink to free thyself from thy shackles is a choice which is wholly thine to make.
+- **12765**: Slip that $3 upon thy finger and let thyself bathe in its luminescent emanations.
+- **12770**: Quotha...the light that shines forth from thy soul hath brightened a considerable degree.
+- **12771**: Natheless, it remaineth but a dull glow akin to twitherym dust whenas compared to the blindingly refulgent souls of more accomplished combatants.
+- **12772**: To fulfil thy true potential, thou needs assume the role of gladiator and bathe in monipulator blood.
+- **12773**: As a monipulator, thou hast likely reduced opponents everywhere to bawling babes at the mere mention of thy name.
+- **12774**: Simultaneously, though, combatants who hath cut swaths through adversaries while inside bestial vessels betimes yearneth for more...to bite the hand that feedeth.
+- **12775**: A saga sung of those who instill terror and those who release the land from it... Bwahaha, a worthy tale of spiritual strife, forsooth.
+- **12776**: Now that the stage hath been set, I shall impart the extent of my gladiatorial knowledge to thee. Simply ask and thou shalt receive.
+- **12777**: What shall you ask about? [Belligerency./Ranks./Prestige./Spoils./Domination./Nothing.]
+- **12778**: Those who have the ambition to slay monipulators can do battle against them by speaking with [me/my Northern San d'Orian ally] or one of my brethren in either [Port Bastok or Port Windurst/Northern San d'Oria or Port Windurst/Northern San d'Oria or Port Bastok] and receiving $6.
+- **12779**: This $3 is thy metaphorical muster as well as official avowal to enter belligerency.
+- **12780**: While it doth provide myriad boons to thee, it preventeth not those outside thy coterie from interfering with thy duty. Such a benediction will only descend upon the yare souls who hath claimed monipulators as their prey.
+- **12781**: I must also caution thee to beware that, depending on thy level of expertise, it may not behoove thee to tread upon the soils of certain lands.
+- **12783**: Lastly, should thy bloodlust cease or resolve wither on the vine, speak to one of my compatriots and they shall grant thee permission to withdraw from belligerency.
+- **12784**: Three ranks doth serve to classify the world's monipulator executioners. There is the eponymous "gladiator (Gla)," "champion gladiator (CG)," and "high champion gladiator (HCG)."
+- **12785**: Naught else needs be explained anent this simple concept...save that a gladiator's rank is determined by his prestige.
+- **12786**: Prestige is the gladiator's equivalent of the common adventurer's fame.
+- **12787**: Defeating both monsters and monipulators increaseth thy prestige, while falling victim to their claws decreaseth it.
+- **12788**: Each rank also hath a corresponding maximum amount of prestige, much like the infamy of monipulators.
+- **12789**: Ascertaining thy current prestige is merely a trifle. (Access the "Profile" menu under "Status.")
+- **12790**: Of course, prestige is not simply a means by which to boast to thy inferiors. Thou canst cede it to me in exchange for troves of splendid rewards.
+- **12791**: No victory doth taste as sweet as one where the stakes are high. Flaying treacherous notorious monsters and high notorious monsters occasionally earns thee spoils of war.
+- **12792**: A little cockatrice told me that monipulators even relinquish equipment betimes, so hold not back from slicing, stabbing, and spellcasting thy savage enemies to smithereens.
+- **12794**: Eke, the equipment thou dost obtain may be engraved with arcane glyptics by my consorts.
+- **12795**: Athwart terrestrial beings such as thee, our mezzotinting process leaveth nary a scratch on extant arcane glyptics.
+- **12796**: In sooth, it would be pure idiocy to charge nothing for our services. However, I shan't discuss figures at this juncture.
+- **12797**: Forget not that we must have $0 in order to engrave arcane glyptics, lest thou wish to incur the wrath of my people.
+- **12798**: Thy soul pineth for more than thou canst conceive. Set it free and embark upon gladiatorial exploits the likes of which Vana'diel hath never witnessed.
+- **12799**: Aroint, thou malmsey-nosed fustilarian!
+- **12800**: What shall you do? [Receive $3./Return $3./Participate in PT Content./Exchange prestige./Hear an explanation./Engage in friendly banter./Nothing.]
+- **12801**: Possessing $6 enableth thee to enter combat with monipulators. Dost thou assent?
+- **12802**: Give your assent? [Yes./No.]
+- **12803**: Thou tardy-gaited poltroon! Dost thou soothly desire to return thy $3 and withdraw?
+- **12804**: Return and withdraw? [Yes./No.]
+- **12805**: Bear in mind that transferring thy soul to the frames of other creatures hath its limits. Occasionally stretch thy sinews as a gladiator to both round thy world view and reach higher heights.
+- **12806**: What is it thou desirest?
+- **12807**: Which reward? (Prestige: $0) [$1. ($8 needed)/$2. ($9 needed)/$3. ($10 needed)/$4. ($11 needed)/$5. ($12 needed)/$6. ($13 needed)/$7. ($14 needed)/None.]
+- **12808**: Thou art willing to part with $1 point[/s] of prestige to obtain this $0, nay?
+- **12809**: Proceed with the exchange? (Prestige: $0) [Yes./No.]
+- **12811**: Assuming the form of a monster for too many moons doth exert an unwanted influence upon thy anima. Take pleasure in thy time spent within multiple forms, but not so much that thou canst never return to thy original vessel.
+- **12820**: In return for $1 point[/s] of prestige from thee, I shall [enhance the arcane glyptics extant on/engrave arcane glyptics upon] this $2.
+- **12821**: This $2's [original/post-augmentation/post-enhancement] attributes are thus:
+- **12822**: This $33 doth be in good...tails?
+- **12823**: This $33 hath been enhanced with arcane glyptics already.
+- **12824**: This $33 hath reached its limits and cannot be further enhanced, but may still evolve into newer forms.
+- **12825**: This $0 hath reached its limits and cannot evolve further.
+- **12826**: What do you wish to do? [Evolve the item./Mezzotint./Nothing.]
+- **12827**: Which type of glyptics shall you engrave?
+- **12828**: Which type do you want engraved? [Arcane Glyptic Type A./Arcane Glyptic Type B./Arcane Glyptic Type C./None.]
+- **12829**: Do you wish to mezzotint your weapon so that it is primed to receive the aforementioned attribute enhancements?
+- **12830**: Do you wish to mezzotint your weapon again so that it is primed to receive these attribute enhancements?
+- **12832**: How do you feel about these attributes? [I heartily enjoy them./I despise them and want new ones.]
+- **12833**: In return for $1 point[/s] of prestige from thee, I shall mezzotint this $2.
+- **12834**: Into which weapon shalt thou evolve this specimen?
+- **12835**: Which one? [None./#./$1./$2./$3./$4./$5./$6./$7.]
+- **12836**: Shall this be the one?
+- **12837**: How do you feel about this weapon? [I thoroughly enjoy it./I loathe it and want a new one.]
 
 ## Events
 
@@ -269,10 +269,10 @@
 
 SUBROUTINE_001E:
   6: 0x001E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=9*
-  7: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=12755*)
+  7: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=12756*)
     → "Hist! Thou canst see the light, canst thou not? It seems thou hast the talent for which I have been searching."
   8: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=12756*)
+  9: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=12757*)
     → "Thy lack of experience, however, leaveth a single teary trail upon my cheek. Mayhap with more training, thou can attainest further glory."
  10: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0035 [0x21] END_EVENT
@@ -363,25 +363,25 @@ SUBROUTINE_001E:
  30: 0x0130 [0x03] Work_Zone[2] = 1*
 
 SUBROUTINE_0135:
- 31: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=12755*)
+ 31: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=12756*)
     → "Hist! Thou canst see the light, canst thou not? It seems thou hast the talent for which I have been searching."
  32: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0139 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=9*
- 34: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=12757*)
+ 34: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=12758*)
     → "Eke, thy training hath not been in vain. My only question is that, with thy great powers, dost thou not tire of this corporeal realm?"
  35: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x014C [0x6E] EventEntity uses emote 6*
  37: 0x0153 [0x99] Wait for EventEntity animation to complete
- 38: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=12758*)
+ 38: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
     → "How do I know of thy deepest desires? 'Tis only natural, for the soul doth constantly yearn for greener pastures."
  39: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x015C [0x52] END_LOAD_SCHEDULER: End scheduler "s130" with entities [EventEntity, EventEntity], work=621*
  41: 0x016B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s129" with entities [EventEntity, EventEntity], work=[621*, 0*]
  42: 0x017C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
- 43: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+ 43: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
     → "Yet the pasture it hath been given is finite. Each soul's lot is to one day meet with its fence. Such wanion!"
  44: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
+ 45: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
     → "Yet what if there were a method by which it could escape its confines and begin life anew?"
  46: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0193 [0x52] END_LOAD_SCHEDULER: End scheduler "s129" with entities [EventEntity, EventEntity], work=621*
@@ -389,15 +389,15 @@ SUBROUTINE_0135:
  49: 0x01B3 [0x03] Work_Zone[2] = 856*
  50: 0x01B8 [0x03] Work_Zone[3] = 926*
  51: 0x01BD [0x03] Work_Zone[4] = 4368*
- 52: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+ 52: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12762*)
     → "Shouldst thou be enchanted with these adumbrations, procurest for one of my brethren $0, $1, or $2."
  53: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12762*)
+ 54: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12763*)
     → "They reside in Northern San d'Oria, Port Bastok, and Port Windurst. To which thou yede is of no matter, as their message shall be the same."
  55: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01CA [0x52] END_LOAD_SCHEDULER: End scheduler "s131" with entities [EventEntity, EventEntity], work=621*
  57: 0x01D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s132" with entities [EventEntity, EventEntity], work=[621*, 0*]
- 58: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12763*)
+ 58: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12764*)
     → "Whether or not thou undertakest this effortless swink to free thyself from thy shackles is a choice which is wholly thine to make."
  59: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x01EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -437,13 +437,13 @@ SUBROUTINE_0135:
   3: 0x023F [0x03] Work_Zone[3] = 926*
   4: 0x0244 [0x03] Work_Zone[4] = 4368*
   5: 0x0249 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  6: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+  6: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=12762*)
     → "Shouldst thou be enchanted with these adumbrations, procurest for one of my brethren $0, $1, or $2."
   7: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=12762*)
+  8: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=12763*)
     → "They reside in Northern San d'Oria, Port Bastok, and Port Windurst. To which thou yede is of no matter, as their message shall be the same."
   9: 0x025F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=12763*)
+ 10: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=12764*)
     → "Whether or not thou undertakest this effortless swink to free thyself from thy shackles is a choice which is wholly thine to make."
  11: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0264 [0x21] END_EVENT
@@ -475,7 +475,7 @@ SUBROUTINE_0135:
   1: 0x026B [0x1C] WAIT(30* ticks)
   2: 0x026E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
   3: 0x027D [0x03] Work_Zone[2] = 2350*
-  4: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=12764*)
+  4: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=12765*)
     → "Slip that $3 upon thy finger and let thyself bathe in its luminescent emanations."
   5: 0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0286 [0x21] END_EVENT
@@ -512,31 +512,31 @@ SUBROUTINE_0135:
   2: 0x028E [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0293 [0x1C] WAIT(30* ticks)
   4: 0x0296 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  5: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12769*)
+  5: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12770*)
     → "Quotha...the light that shines forth from thy soul hath brightened a considerable degree."
   6: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12770*)
+  7: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12771*)
     → "Natheless, it remaineth but a dull glow akin to twitherym dust whenas compared to the blindingly refulgent souls of more accomplished combatants."
   8: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=12771*)
+  9: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
     → "To fulfil thy true potential, thou needs assume the role of gladiator and bathe in monipulator blood."
  10: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
+ 11: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12773*)
     → "As a monipulator, thou hast likely reduced opponents everywhere to bawling babes at the mere mention of thy name."
  12: 0x02B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12773*)
+ 13: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
     → "Simultaneously, though, combatants who hath cut swaths through adversaries while inside bestial vessels betimes yearneth for more...to bite the hand that feedeth."
  14: 0x02B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+ 15: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "A saga sung of those who instill terror and those who release the land from it... Bwahaha, a worthy tale of spiritual strife, forsooth."
  16: 0x02BC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
+ 17: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
     → "Now that the stage hath been set, I shall impart the extent of my gladiatorial knowledge to thee. Simply ask and thou shalt receive."
  18: 0x02C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x02C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=9*
  20: 0x02D0 [0x1A] CALL_SUBROUTINE(address=0x0911)
  21: 0x02D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
- 22: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12797*)
+ 22: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12798*)
     → "Thy soul pineth for more than thou canst conceive. Set it free and embark upon gladiatorial exploits the likes of which Vana'diel hath never witnessed."
  23: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x02E6 [0x21] END_EVENT
@@ -572,10 +572,10 @@ SUBROUTINE_0135:
 ```
   0: 0x02E8 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
   1: 0x02ED [0x03] ExtData[1]->WorkLocal[3] = 15*
-  2: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12798*)
+  2: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12799*)
     → "Aroint, thou malmsey-nosed fustilarian!"
   3: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x02F6 [0x24] CREATE_DIALOG(message_id=12799*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+  4: 0x02F6 [0x24] CREATE_DIALOG(message_id=12800*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "What shall you do? [Receive $3./Return $3./Participate in PT Content./Exchange prestige./Hear an explanation./Engage in friendly banter./Nothing.]"
   5: 0x02FD [0x25] WAIT_DIALOG_SELECT()
   6: 0x02FE [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x030B
@@ -584,7 +584,7 @@ SUBROUTINE_0135:
 
 SUBROUTINE_030B:
   9: 0x030B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
- 10: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=12810*)
+ 10: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=12811*)
     → "Assuming the form of a monster for too many moons doth exert an unwanted influence upon thy anima. Take pleasure in thy time spent within multiple forms, but not so much that thou canst never return to thy original vessel."
  11: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x031E [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0329
@@ -672,7 +672,7 @@ SUBROUTINE_03A3:
  13: 0x03AB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[3], bit_index_work_offset=2*, condition_work_offset=1*)
  14: 0x03B2 [0x1E] EventEntity looks at LocalPlayer and starts talking
  15: 0x03B7 [0x1C] WAIT(30* ticks)
- 16: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
+ 16: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
     → "Now that the stage hath been set, I shall impart the extent of my gladiatorial knowledge to thee. Simply ask and thou shalt receive."
  17: 0x03BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x03BE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=9*
@@ -684,22 +684,22 @@ SUBROUTINE_03A3:
 SUBROUTINE_03E5:
  23: 0x03E5 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 0*) GOTO 0x04D0
  24: 0x03ED [0x03] Work_Zone[2] = 2351*
- 25: 0x03F2 [0x24] CREATE_DIALOG(message_id=12799*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+ 25: 0x03F2 [0x24] CREATE_DIALOG(message_id=12800*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "What shall you do? [Receive $3./Return $3./Participate in PT Content./Exchange prestige./Hear an explanation./Engage in friendly banter./Nothing.]"
  26: 0x03F9 [0x25] WAIT_DIALOG_SELECT()
  27: 0x03FA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0442
  28: 0x0402 [0x03] Work_Zone[2] = 2351*
- 29: 0x0407 [0x1D] PRINT_EVENT_MESSAGE(message_id=12800*)
+ 29: 0x0407 [0x1D] PRINT_EVENT_MESSAGE(message_id=12801*)
     → "Possessing $6 enableth thee to enter combat with monipulators. Dost thou assent?"
  30: 0x040A [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x040B [0x03] Work_Zone[2] = 2351*
- 32: 0x0410 [0x24] CREATE_DIALOG(message_id=12801*, default_option=1*, option_flags=0*)
+ 32: 0x0410 [0x24] CREATE_DIALOG(message_id=12802*, default_option=1*, option_flags=0*)
     → "Give your assent? [Yes./No.]"
  33: 0x0417 [0x25] WAIT_DIALOG_SELECT()
  34: 0x0418 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0434
  35: 0x0420 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  36: 0x0421 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=123*)
- 37: 0x042A [0x1D] PRINT_EVENT_MESSAGE(message_id=12797*)
+ 37: 0x042A [0x1D] PRINT_EVENT_MESSAGE(message_id=12798*)
     → "Thy soul pineth for more than thou canst conceive. Set it free and embark upon gladiatorial exploits the likes of which Vana'diel hath never witnessed."
  38: 0x042D [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x042E [0x06] ExtData[1]->WorkLocal[6] = 0
@@ -711,17 +711,17 @@ SUBROUTINE_043F:
  43: 0x043F [0x01] GOTO 0x04CD
  44: 0x0442 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x048A
  45: 0x044A [0x03] Work_Zone[2] = 2351*
- 46: 0x044F [0x1D] PRINT_EVENT_MESSAGE(message_id=12802*)
+ 46: 0x044F [0x1D] PRINT_EVENT_MESSAGE(message_id=12803*)
     → "Thou tardy-gaited poltroon! Dost thou soothly desire to return thy $3 and withdraw?"
  47: 0x0452 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0453 [0x03] Work_Zone[2] = 2351*
- 49: 0x0458 [0x24] CREATE_DIALOG(message_id=12803*, default_option=1*, option_flags=0*)
+ 49: 0x0458 [0x24] CREATE_DIALOG(message_id=12804*, default_option=1*, option_flags=0*)
     → "Return and withdraw? [Yes./No.]"
  50: 0x045F [0x25] WAIT_DIALOG_SELECT()
  51: 0x0460 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x047C
  52: 0x0468 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  53: 0x0469 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=321*)
- 54: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=12804*)
+ 54: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=12805*)
     → "Bear in mind that transferring thy soul to the frames of other creatures hath its limits. Occasionally stretch thy sinews as a gladiator to both round thy world view and reach higher heights."
  55: 0x0475 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0476 [0x06] ExtData[1]->WorkLocal[6] = 0
@@ -791,13 +791,13 @@ SUBROUTINE_04CD:
  10: 0x04FE [0x03] Work_Zone[3] = 100*
  11: 0x0503 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[9]
  12: 0x0508 [0x03] Work_Zone[5] = 1*
- 13: 0x050D [0x48] [System] [12819*]:
+ 13: 0x050D [0x48] [System] [12820*]:
     → "In return for $1 point[/s] of prestige from thee, I shall [enhance the arcane glyptics extant on/engrave arcane glyptics upon] this $2."
  14: 0x0510 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0511 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[9], buffer1=ExtData[1]->WorkLocal[18], buffer2=ExtData[1]->WorkLocal[19], buffer3=ExtData[1]->WorkLocal[20])
  16: 0x051B [0x03] Work_Zone[3] = 2*
  17: 0x0520 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[9]
- 18: 0x0525 [0x48] [System] [12820*]:
+ 18: 0x0525 [0x48] [System] [12821*]:
     → "This $2's [original/post-augmentation/post-enhancement] attributes are thus:"
  19: 0x0528 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0529 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -962,7 +962,7 @@ SUBROUTINE_04CD:
  24: 0x05BC [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[21], buffer1=ExtData[1]->WorkLocal[15], buffer2=ExtData[1]->WorkLocal[16], buffer3=ExtData[1]->WorkLocal[17])
  25: 0x05C6 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x05E6
  26: 0x05CE [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[21]
- 27: 0x05D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12822*)
+ 27: 0x05D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12823*)
     → "This $33 hath been enhanced with arcane glyptics already."
  28: 0x05D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x05D7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -970,14 +970,14 @@ SUBROUTINE_04CD:
  31: 0x05E3 [0x01] GOTO 0x061F
  32: 0x05E6 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x05FF
  33: 0x05EE [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[21]
- 34: 0x05F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12823*)
+ 34: 0x05F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12824*)
     → "This $33 hath reached its limits and cannot be further enhanced, but may still evolve into newer forms."
  35: 0x05F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x05F7 [0x03] ExtData[1]->WorkLocal[5] = 0*
  37: 0x05FC [0x01] GOTO 0x061F
  38: 0x05FF [0x02] IF !(ExtData[1]->WorkLocal[22] == 2*) GOTO 0x061F
  39: 0x0607 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[21]
- 40: 0x060C [0x1D] PRINT_EVENT_MESSAGE(message_id=12824*)
+ 40: 0x060C [0x1D] PRINT_EVENT_MESSAGE(message_id=12825*)
     → "This $0 hath reached its limits and cannot evolve further."
  41: 0x060F [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0610 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -986,7 +986,7 @@ SUBROUTINE_04CD:
 
 SUBROUTINE_061F:
  45: 0x061F [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
- 46: 0x0629 [0x24] CREATE_DIALOG(message_id=12825*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[11])
+ 46: 0x0629 [0x24] CREATE_DIALOG(message_id=12826*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[11])
     → "What do you wish to do? [Evolve the item./Mezzotint./Nothing.]"
  47: 0x0630 [0x25] WAIT_DIALOG_SELECT()
  48: 0x0631 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x063C
@@ -1003,7 +1003,7 @@ SUBROUTINE_061F:
 SUBROUTINE_0662:
  58: 0x0662 [0x01] GOTO 0x0673
  59: 0x0665 [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[21]
- 60: 0x066A [0x1D] PRINT_EVENT_MESSAGE(message_id=12821*)
+ 60: 0x066A [0x1D] PRINT_EVENT_MESSAGE(message_id=12822*)
     → "This $33 doth be in good...tails?"
  61: 0x066D [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x066E [0x03] ExtData[1]->WorkLocal[23] = 1*
@@ -1012,13 +1012,13 @@ SUBROUTINE_0673:
  63: 0x0673 [0x06] ExtData[1]->WorkLocal[26] = 0
  64: 0x0676 [0x02] IF !(ExtData[1]->WorkLocal[25] == 0*) GOTO 0x090C
  65: 0x067E [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x077F
- 66: 0x0686 [0x48] [System] [12826*]:
+ 66: 0x0686 [0x48] [System] [12827*]:
     → "Which type of glyptics shall you engrave?"
  67: 0x0689 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_068A:
  68: 0x068A [0x02] IF !(ExtData[1]->WorkLocal[25] == 0*) GOTO 0x077C
- 69: 0x0692 [0x24] CREATE_DIALOG(message_id=12827*, default_option=ExtData[1]->WorkLocal[26], option_flags=0*)
+ 69: 0x0692 [0x24] CREATE_DIALOG(message_id=12828*, default_option=ExtData[1]->WorkLocal[26], option_flags=0*)
     → "Which type do you want engraved? [Arcane Glyptic Type A./Arcane Glyptic Type B./Arcane Glyptic Type C./None.]"
  70: 0x0699 [0x25] WAIT_DIALOG_SELECT()
  71: 0x069A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x06B0
@@ -1041,17 +1041,17 @@ SUBROUTINE_06B0:
  86: 0x06E7 [0x03] ExtData[1]->WorkLocal[28] = Work_Zone[5]
  87: 0x06EC [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[21], buffer1=ExtData[1]->WorkLocal[18], buffer2=ExtData[1]->WorkLocal[19], buffer3=ExtData[1]->WorkLocal[20])
  88: 0x06F6 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x0705
- 89: 0x06FE [0x48] [System] [12828*]:
+ 89: 0x06FE [0x48] [System] [12829*]:
     → "Do you wish to mezzotint your weapon so that it is primed to receive the aforementioned attribute enhancements?"
  90: 0x0701 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0702 [0x01] GOTO 0x0709
- 92: 0x0705 [0x48] [System] [12829*]:
+ 92: 0x0705 [0x48] [System] [12830*]:
     → "Do you wish to mezzotint your weapon again so that it is primed to receive these attribute enhancements?"
  93: 0x0708 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0709:
  94: 0x0709 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
- 95: 0x0713 [0x24] CREATE_DIALOG(message_id=12831*, default_option=1*, option_flags=0*)
+ 95: 0x0713 [0x24] CREATE_DIALOG(message_id=12832*, default_option=1*, option_flags=0*)
     → "How do you feel about these attributes? [I heartily enjoy them./I despise them and want new ones.]"
  96: 0x071A [0x25] WAIT_DIALOG_SELECT()
  97: 0x071B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x076E
@@ -1066,7 +1066,7 @@ SUBROUTINE_0709:
 
 SUBROUTINE_075C:
 106: 0x075C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[21]
-107: 0x0761 [0x1D] PRINT_EVENT_MESSAGE(message_id=12832*)
+107: 0x0761 [0x1D] PRINT_EVENT_MESSAGE(message_id=12833*)
     → "In return for $1 point[/s] of prestige from thee, I shall mezzotint this $2."
 108: 0x0764 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0765 [0x05] ExtData[1]->WorkLocal[25] = 1
@@ -1078,7 +1078,7 @@ SUBROUTINE_075C:
 SUBROUTINE_0779:
 114: 0x0779 [0x01] GOTO 0x068A
 115: 0x077C [0x01] GOTO 0x090C
-116: 0x077F [0x1D] PRINT_EVENT_MESSAGE(message_id=12833*)
+116: 0x077F [0x1D] PRINT_EVENT_MESSAGE(message_id=12834*)
     → "Into which weapon shalt thou evolve this specimen?"
 117: 0x0782 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1105,7 +1105,7 @@ SUBROUTINE_0783:
 137: 0x0808 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=7*, condition_work_offset=1*)
 138: 0x080F [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x081E
 139: 0x0817 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=8*, condition_work_offset=1*)
-140: 0x081E [0x24] CREATE_DIALOG(message_id=12834*, default_option=ExtData[1]->WorkLocal[26], option_flags=ExtData[1]->WorkLocal[11])
+140: 0x081E [0x24] CREATE_DIALOG(message_id=12835*, default_option=ExtData[1]->WorkLocal[26], option_flags=ExtData[1]->WorkLocal[11])
     → "Which one? [None./#./$1./$2./$3./$4./$5./$6./$7.]"
 141: 0x0825 [0x25] WAIT_DIALOG_SELECT()
 142: 0x0826 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x083C
@@ -1142,11 +1142,11 @@ SUBROUTINE_08BC:
 171: 0x08BC [0x03] ExtData[1]->WorkLocal[26] = Work_Zone[0]
 172: 0x08C1 [0x02] IF !(ExtData[1]->WorkLocal[25] == 0*) GOTO 0x0909
 173: 0x08C9 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[29])
-174: 0x08CC [0x1D] PRINT_EVENT_MESSAGE(message_id=12835*)
+174: 0x08CC [0x1D] PRINT_EVENT_MESSAGE(message_id=12836*)
     → "Shall this be the one?"
 175: 0x08CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x08D0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-177: 0x08D3 [0x24] CREATE_DIALOG(message_id=12836*, default_option=1*, option_flags=0*)
+177: 0x08D3 [0x24] CREATE_DIALOG(message_id=12837*, default_option=1*, option_flags=0*)
     → "How do you feel about this weapon? [I thoroughly enjoy it./I loathe it and want a new one.]"
 178: 0x08DA [0x25] WAIT_DIALOG_SELECT()
 179: 0x08DB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08FE
@@ -1184,7 +1184,7 @@ SUBROUTINE_0BFD:
      0x0911 [0x03] ExtData[1]->WorkLocal[30] = 0*
      0x0916 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0925
      0x091E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[30], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x0925 [0x24] CREATE_DIALOG(message_id=12776*, default_option=0*, option_flags=ExtData[1]->WorkLocal[30])
+     0x0925 [0x24] CREATE_DIALOG(message_id=12777*, default_option=0*, option_flags=ExtData[1]->WorkLocal[30])
     → "What shall you ask about? [Belligerency./Ranks./Prestige./Spoils./Domination./Nothing.]"
      0x092C [0x25] WAIT_DIALOG_SELECT()
      0x092D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x098B
@@ -1192,22 +1192,22 @@ SUBROUTINE_0BFD:
      0x0944 [0x03] Work_Zone[3] = 1*
      0x0949 [0x03] Work_Zone[4] = 0*
      0x094E [0x03] Work_Zone[2] = 2351*
-     0x0953 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
+     0x0953 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
     → "Those who have the ambition to slay monipulators can do battle against them by speaking with [me/my Northern San d'Orian ally] or one of my brethren in either [Port Bastok or Port Windurst/Northern San d'Oria or Port Windurst/Northern San d'Oria or Port Bastok] and receiving $6."
      0x0956 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0957 [0x03] Work_Zone[2] = 2351*
-     0x095C [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+     0x095C [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "This $3 is thy metaphorical muster as well as official avowal to enter belligerency."
      0x095F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0960 [0x03] Work_Zone[2] = 2351*
-     0x0965 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
+     0x0965 [0x1D] PRINT_EVENT_MESSAGE(message_id=12780*)
     → "While it doth provide myriad boons to thee, it preventeth not those outside thy coterie from interfering with thy duty. Such a benediction will only descend upon the yare souls who hath claimed monipulators as their prey."
      0x0968 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0969 [0x1D] PRINT_EVENT_MESSAGE(message_id=12780*)
+     0x0969 [0x1D] PRINT_EVENT_MESSAGE(message_id=12781*)
     → "I must also caution thee to beware that, depending on thy level of expertise, it may not behoove thee to tread upon the soils of certain lands."
      0x096C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x096D [0x03] Work_Zone[2] = 2351*
-     0x0972 [0x1D] PRINT_EVENT_MESSAGE(message_id=12782*)
+     0x0972 [0x1D] PRINT_EVENT_MESSAGE(message_id=12783*)
     → "Lastly, should thy bloodlust cease or resolve wither on the vine, speak to one of my compatriots and they shall grant thee permission to withdraw from belligerency."
      0x0975 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0976 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=9*
@@ -1215,10 +1215,10 @@ SUBROUTINE_0BFD:
      0x0988 [0x01] GOTO 0x0A5E
      0x098B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x09BF
      0x0993 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-     0x09A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12783*)
+     0x09A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12784*)
     → "Three ranks doth serve to classify the world's monipulator executioners. There is the eponymous "gladiator (Gla)," "champion gladiator (CG)," and "high champion gladiator (HCG).""
      0x09A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12784*)
+     0x09A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12785*)
     → "Naught else needs be explained anent this simple concept...save that a gladiator's rank is determined by his prestige."
      0x09A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09AA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=9*
@@ -1226,19 +1226,19 @@ SUBROUTINE_0BFD:
      0x09BC [0x01] GOTO 0x0A5E
      0x09BF [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x09FF
      0x09C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-     0x09D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12785*)
+     0x09D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12786*)
     → "Prestige is the gladiator's equivalent of the common adventurer's fame."
      0x09D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12786*)
+     0x09DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12787*)
     → "Defeating both monsters and monipulators increaseth thy prestige, while falling victim to their claws decreaseth it."
      0x09DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12787*)
+     0x09DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12788*)
     → "Each rank also hath a corresponding maximum amount of prestige, much like the infamy of monipulators."
      0x09E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12788*)
+     0x09E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12789*)
     → "Ascertaining thy current prestige is merely a trifle. (Access the "Profile" menu under "Status.")"
      0x09E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12789*)
+     0x09E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12790*)
     → "Of course, prestige is not simply a means by which to boast to thy inferiors. Thou canst cede it to me in exchange for troves of splendid rewards."
      0x09E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=9*
@@ -1246,23 +1246,23 @@ SUBROUTINE_0BFD:
      0x09FC [0x01] GOTO 0x0A5E
      0x09FF [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0A48
      0x0A07 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-     0x0A16 [0x1D] PRINT_EVENT_MESSAGE(message_id=12790*)
+     0x0A16 [0x1D] PRINT_EVENT_MESSAGE(message_id=12791*)
     → "No victory doth taste as sweet as one where the stakes are high. Flaying treacherous notorious monsters and high notorious monsters occasionally earns thee spoils of war."
      0x0A19 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A1A [0x1D] PRINT_EVENT_MESSAGE(message_id=12791*)
+     0x0A1A [0x1D] PRINT_EVENT_MESSAGE(message_id=12792*)
     → "A little cockatrice told me that monipulators even relinquish equipment betimes, so hold not back from slicing, stabbing, and spellcasting thy savage enemies to smithereens."
      0x0A1D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A1E [0x1D] PRINT_EVENT_MESSAGE(message_id=12793*)
+     0x0A1E [0x1D] PRINT_EVENT_MESSAGE(message_id=12794*)
     → "Eke, the equipment thou dost obtain may be engraved with arcane glyptics by my consorts."
      0x0A21 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A22 [0x1D] PRINT_EVENT_MESSAGE(message_id=12794*)
+     0x0A22 [0x1D] PRINT_EVENT_MESSAGE(message_id=12795*)
     → "Athwart terrestrial beings such as thee, our mezzotinting process leaveth nary a scratch on extant arcane glyptics."
      0x0A25 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=12795*)
+     0x0A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=12796*)
     → "In sooth, it would be pure idiocy to charge nothing for our services. However, I shan't discuss figures at this juncture."
      0x0A29 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A2A [0x03] Work_Zone[2] = 4051*
-     0x0A2F [0x1D] PRINT_EVENT_MESSAGE(message_id=12796*)
+     0x0A2F [0x1D] PRINT_EVENT_MESSAGE(message_id=12797*)
     → "Forget not that we must have $0 in order to engrave arcane glyptics, lest thou wish to incur the wrath of my people."
      0x0A32 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A33 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=9*
@@ -1274,7 +1274,7 @@ SUBROUTINE_0BFD:
      0x0A5B [0x01] GOTO 0x0A5E
      0x0A5E [0x1B] RETURN
      0x0A5F [0x03] ExtData[1]->WorkLocal[31] = 0*
-     0x0A64 [0x1D] PRINT_EVENT_MESSAGE(message_id=12805*)
+     0x0A64 [0x1D] PRINT_EVENT_MESSAGE(message_id=12806*)
     → "What is it thou desirest?"
      0x0A67 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A68 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
@@ -1292,7 +1292,7 @@ SUBROUTINE_0BFD:
      0x0AA4 [0x03] Work_Zone_1700[4] = 25000*
      0x0AA9 [0x03] Work_Zone_1700[5] = 25000*
      0x0AAE [0x03] Work_Zone_1700[6] = 25000*
-     0x0AB3 [0x24] CREATE_DIALOG(message_id=12806*, default_option=0*, option_flags=0*)
+     0x0AB3 [0x24] CREATE_DIALOG(message_id=12807*, default_option=0*, option_flags=0*)
     → "Which reward? (Prestige: $0) [$1. ($8 needed)/$2. ($9 needed)/$3. ($10 needed)/$4. ($11 needed)/$5. ($12 needed)/$6. ($13 needed)/$7. ($14 needed)/None.]"
      0x0ABA [0x25] WAIT_DIALOG_SELECT()
      0x0ABB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AD0
@@ -1329,13 +1329,13 @@ SUBROUTINE_0BFD:
      0x0B61 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[31])
      0x0B64 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[31]
      0x0B69 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[32]
-     0x0B6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12807*)
+     0x0B6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12808*)
     → "Thou art willing to part with $1 point[/s] of prestige to obtain this $0, nay?"
      0x0B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B72 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0B75 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[0]
      0x0B7A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-     0x0B7F [0x24] CREATE_DIALOG(message_id=12808*, default_option=1*, option_flags=0*)
+     0x0B7F [0x24] CREATE_DIALOG(message_id=12809*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Prestige: $0) [Yes./No.]"
      0x0B86 [0x25] WAIT_DIALOG_SELECT()
      0x0B87 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BA7
@@ -1359,7 +1359,7 @@ SUBROUTINE_0BFD:
      0x0BEA [0x01] GOTO 0x0BF8
      0x0BED [0x02] IF !(ExtData[1]->WorkLocal[2] == 5*) GOTO 0x0BF8
      0x0BF5 [0x01] GOTO 0x0BF8
-     0x0BF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12810*)
+     0x0BF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12811*)
     → "Assuming the form of a monster for too many moons doth exert an unwanted influence upon thy anima. Take pleasure in thy time spent within multiple forms, but not so much that thou canst never return to thy original vessel."
      0x0BFB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BFC [0x1B] RETURN

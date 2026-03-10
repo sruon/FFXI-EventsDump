@@ -25,12 +25,12 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x270E      |        9998 |
-|       3 | 0x270F      |        9999 |
+|       2 | 0x270F      |        9999 |
+|       3 | 0x2710      |       10000 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x286C      |       10348 |
-|       6 | 0x2710      |       10000 |
-|       7 | 0x2711      |       10001 |
+|       5 | 0x286D      |       10349 |
+|       6 | 0x2711      |       10001 |
+|       7 | 0x2712      |       10002 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x00C8      |         200 |
 |      10 | 0x003C      |          60 |
@@ -39,11 +39,11 @@
 
 ## String References
 
-- **9998**: Hello? Where do you think you're going?
-- **9999**: The departures counter is on the other side. And don't forget to pay Bhoyu Halpatacco on your way in.
-- **10000**: Welcome to Kazham--a lush tropical paradise!
-- **10001**: Enter Kazham? [Yes./Not yet.]
-- **10348**: Welcome to Kazha...a lush tropical parad... Would you just hurrrry up and leave!?
+- **9999**: Hello? Where do you think you're going?
+- **10000**: The departures counter is on the other side. And don't forget to pay Bhoyu Halpatacco on your way in.
+- **10001**: Welcome to Kazham--a lush tropical paradise!
+- **10002**: Enter Kazham? [Yes./Not yet.]
+- **10349**: Welcome to Kazha...a lush tropical parad... Would you just hurrrry up and leave!?
 
 ## Events
 
@@ -142,10 +142,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dakha Topsalwan (ID: 17801243/0x010FA01B), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9998*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9999*)
     → "Hello? Where do you think you're going?"
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9999*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10000*)
     → "The departures counter is on the other side. And don't forget to pay Bhoyu Halpatacco on your way in."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dakha Topsalwan (ID: 17801243/0x010FA01B), tag_num=0x02)
@@ -192,17 +192,17 @@
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dakha Topsalwan (ID: 17801243/0x010FA01B), tag_num=0x01)
   4: 0x0049 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x0058
-  5: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=10348*)
+  5: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=10349*)
     → "Welcome to Kazha...a lush tropical parad... Would you just hurrrry up and leave!?"
   6: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0055 [0x01] GOTO 0x005C
-  8: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=10000*)
+  8: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=10001*)
     → "Welcome to Kazham--a lush tropical paradise!"
   9: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_005C:
  10: 0x005C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dakha Topsalwan (ID: 17801243/0x010FA01B), tag_num=0x02)
- 11: 0x0063 [0x24] CREATE_DIALOG(message_id=10001*, default_option=1*, option_flags=0*)
+ 11: 0x0063 [0x24] CREATE_DIALOG(message_id=10002*, default_option=1*, option_flags=0*)
     → "Enter Kazham? [Yes./Not yet.]"
  12: 0x006A [0x25] WAIT_DIALOG_SELECT()
  13: 0x006B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0114

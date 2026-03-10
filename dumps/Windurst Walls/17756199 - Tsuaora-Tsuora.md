@@ -28,7 +28,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1C2D      |        7213 |
+|       2 | 0x1C2E      |        7214 |
 |       3 | 0x14C04     |       84996 |
 |       4 | 0xFFFE556A  |  4294858090 |
 |       5 | 0xFFFFF63C  |  4294964796 |
@@ -46,12 +46,12 @@
 |      17 | 0xFAAA      |       64170 |
 |      18 | 0xFFFEFBE5  |  4294900709 |
 |      19 | 0xFFFFF63D  |  4294964797 |
-|      20 | 0x1C3E      |        7230 |
+|      20 | 0x1C3F      |        7231 |
 
 ## String References
 
-- **7213**: We are the local courier-wouriers. We deliver the goods that people leave with the girly-wirlies over therey-wherey.
-- **7230**: The last time something like this happened, it was the Savanna Rarabs that made off with most of our maily-waily. Seems they think they can make a comfy-womfy nest out of our letters.
+- **7214**: We are the local courier-wouriers. We deliver the goods that people leave with the girly-wirlies over therey-wherey.
+- **7231**: The last time something like this happened, it was the Savanna Rarabs that made off with most of our maily-waily. Seems they think they can make a comfy-womfy nest out of our letters.
 
 ## Events
 
@@ -150,7 +150,7 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Tsuaora-Tsuora (ID: 17756199/0x010EF027), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7213*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7214*)
     → "We are the local courier-wouriers. We deliver the goods that people leave with the girly-wirlies over therey-wherey."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x002C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Tsuaora-Tsuora (ID: 17756199/0x010EF027), tag_num=0x02)
@@ -267,7 +267,7 @@
   1: 0x007E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0080 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Tsuaora-Tsuora (ID: 17756199/0x010EF027), tag_num=0x01)
-  4: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7230*)
+  4: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
     → "The last time something like this happened, it was the Savanna Rarabs that made off with most of our maily-waily. Seems they think they can make a comfy-womfy nest out of our letters."
   5: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Tsuaora-Tsuora (ID: 17756199/0x010EF027), tag_num=0x02)

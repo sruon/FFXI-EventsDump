@@ -30,34 +30,34 @@
 |       7 | 0x0002      |           2 |
 |       8 | 0x0004      |           4 |
 |       9 | 0x0005      |           5 |
-|      10 | 0x1D14      |        7444 |
+|      10 | 0x1D15      |        7445 |
 |      11 | 0x0006      |           6 |
-|      12 | 0x1D15      |        7445 |
+|      12 | 0x1D16      |        7446 |
 |      13 | 0x0007      |           7 |
-|      14 | 0x1D16      |        7446 |
-|      15 | 0x1D17      |        7447 |
-|      16 | 0x1D33      |        7475 |
-|      17 | 0x1D18      |        7448 |
-|      18 | 0x1D19      |        7449 |
-|      19 | 0x1D1A      |        7450 |
+|      14 | 0x1D17      |        7447 |
+|      15 | 0x1D18      |        7448 |
+|      16 | 0x1D34      |        7476 |
+|      17 | 0x1D19      |        7449 |
+|      18 | 0x1D1A      |        7450 |
+|      19 | 0x1D1B      |        7451 |
 |      20 | 0x03E8      |        1000 |
-|      21 | 0x1D35      |        7477 |
-|      22 | 0x1D36      |        7478 |
-|      23 | 0x1D34      |        7476 |
-|      24 | 0x1D1B      |        7451 |
-|      25 | 0x1D1C      |        7452 |
-|      26 | 0x1D1D      |        7453 |
-|      27 | 0x1D1E      |        7454 |
-|      28 | 0x1D1F      |        7455 |
-|      29 | 0x1D20      |        7456 |
-|      30 | 0x1D21      |        7457 |
-|      31 | 0x1D22      |        7458 |
-|      32 | 0x1D23      |        7459 |
-|      33 | 0x1D24      |        7460 |
-|      34 | 0x1D25      |        7461 |
-|      35 | 0x1D3A      |        7482 |
-|      36 | 0x1D3B      |        7483 |
-|      37 | 0x1D3E      |        7486 |
+|      21 | 0x1D36      |        7478 |
+|      22 | 0x1D37      |        7479 |
+|      23 | 0x1D35      |        7477 |
+|      24 | 0x1D1C      |        7452 |
+|      25 | 0x1D1D      |        7453 |
+|      26 | 0x1D1E      |        7454 |
+|      27 | 0x1D1F      |        7455 |
+|      28 | 0x1D20      |        7456 |
+|      29 | 0x1D21      |        7457 |
+|      30 | 0x1D22      |        7458 |
+|      31 | 0x1D23      |        7459 |
+|      32 | 0x1D24      |        7460 |
+|      33 | 0x1D25      |        7461 |
+|      34 | 0x1D26      |        7462 |
+|      35 | 0x1D3B      |        7483 |
+|      36 | 0x1D3C      |        7484 |
+|      37 | 0x1D3F      |        7487 |
 |      38 | 0xFFFFFFFF  |  4294967295 |
 |      39 | 0x0050      |          80 |
 |      40 | 0x00C8      |         200 |
@@ -71,46 +71,46 @@
 |      48 | 0x0018      |          24 |
 |      49 | 0x001B      |          27 |
 |      50 | 0x001C      |          28 |
-|      51 | 0x1D26      |        7462 |
-|      52 | 0x1D28      |        7464 |
-|      53 | 0x1D37      |        7479 |
-|      54 | 0x1D38      |        7480 |
-|      55 | 0x1D39      |        7481 |
-|      56 | 0x1D3C      |        7484 |
+|      51 | 0x1D27      |        7463 |
+|      52 | 0x1D29      |        7465 |
+|      53 | 0x1D38      |        7480 |
+|      54 | 0x1D39      |        7481 |
+|      55 | 0x1D3A      |        7482 |
+|      56 | 0x1D3D      |        7485 |
 
 ## String References
 
-- **7444**: What shall you do? (Current Lv.: $0) [Nothing for now./Call forth a Valiant./Amend the Ars Monstrum./Convert to Puissance./Acquire a map./Bolster pets./Read an explanation.]
-- **7445**: Read up on which topic? [None of these./Objectives./Puissance./Valiant./Valiant Shijin./Amending the Ars Monstrum./Acquiring maps./Bolstering pets.]
-- **7446**: Fulfillment of the primary objective, vanquishing the enemy stronghold, is impeded by the Malicious: enemies who threaten intruders at every turn.
-- **7447**: The Malicious and their stronghold boast supernatural defenses, so the "Valiant"--friendly reinforcements who can be called forth to battle--are critical in thwarting them.
-- **7448**: The objective will be deemed a failure should the foes advance upon and destroy your marchland.
-- **7449**: In short, the Valiant can halt the approach of the Malicious, protecting the marchlands.
-- **7450**: As the name implies, Puissance is a type of energy gained from Noetic Ascensions and besting elemental fiends known as "Escalents."
-- **7451**: The Valiant are the physical forms of Puissance made manifest.
-- **7452**: The Valiant will automatically assault the enemies' stronghold and engage in combat with the Malicious.
-- **7453**: Up to $0 of the same Valiant may be summoned at a given time.
-- **7454**: Increasing the Ars Monstrum's level will enable you to summon additional varieties of the Valiant.
-- **7455**: Each Valiant is suited to fighting different Malicious foes, as each has bonuses and penalties against a certain type.
-- **7456**: Valiant Shijin may also be summoned with Puissance in the same way as ordinary Valiant.
-- **7457**: Which Shijin is summoned depends on the type of eudaemon part used to construct the simulacrum.
-- **7458**: Only one Valiant Shijin may be called forth, but its effects will be felt on all creatures within the alluvion skirmish.
-- **7459**: Players may use motes of Puissance to amend the Ars Monstrum, thereby increasing its level.
-- **7460**: An amended Ars Monstrum will enable you to summon additional varieties of the Valiant, as well as increase their level.
-- **7461**: The Ars Monstrum's maximum level is $0, but advancing to the next section will reset it to $1.
-- **7462**: Summon which Valiant? ($0 Puissance) [None for now./An Entozoon: $1 Puissance ($11 left)./A Crab: $2 Puissance ($12 left)./A Colibri: $3 Puissance ($13 left)./A Coeurl: $4 Puissance ($14 left)./A Mandragora: $5 Puissance ($15 left)./A Scorpion: $6 Puissance ($16 left)./An Adamantoise: $7 Puissance ($17 left)./A Tome: $8 Puissance ($18 left)./An Ajattara: $9 Puissance ($19 left)./A Shijin: $10 Puissance ($20 left).]
-- **7464**: Amend the Ars Monstrum? ($0 Pui.) [Yes. ($1 Puissance)/No.]
-- **7475**: However, Valiant alone are incapable of dealing the final blow to the enemy stronghold, so it falls to the pioneer and his compatriots to bring the axe down.
-- **7476**: Proceeding to the next layer of the skirmish will leave you with the default value of $0 motes of Puissance.
-- **7477**: Note that up to $0 obsidian fragment[/s] may be converted into motes of Puissance once per floor.
-- **7478**: Specifically, $0 obsidian fragment[/s] may be converted into $1 mote[/s] of Puissance.
-- **7479**: You currently possess $1 obsidian fragment[/s]. How many would you like to convert?
-- **7480**: You will receive $0 mote[/s] of Puissance. [Continue with the exchange./I need time to think.]
-- **7481**: Acquire a map? ($0 motes of Puissance) [Yes, please. ($1 motes required)/No, thank you.]
-- **7482**: A map of the current skirmish is available for a nominal cost in the form of motes of Puissance.
-- **7483**: Note that the map will be destroyed upon advancing to the next layer.
-- **7484**: Enhance your allies? ($0 motes of Puissance) [Of course. ($1 motes required)/Not at the moment.]
-- **7486**: Certain eudaemon parts enable the bolstering of your pets' resistance in exchange for a small donation of motes of Puissance.
+- **7445**: What shall you do? (Current Lv.: $0) [Nothing for now./Call forth a Valiant./Amend the Ars Monstrum./Convert to Puissance./Acquire a map./Bolster pets./Read an explanation.]
+- **7446**: Read up on which topic? [None of these./Objectives./Puissance./Valiant./Valiant Shijin./Amending the Ars Monstrum./Acquiring maps./Bolstering pets.]
+- **7447**: Fulfillment of the primary objective, vanquishing the enemy stronghold, is impeded by the Malicious: enemies who threaten intruders at every turn.
+- **7448**: The Malicious and their stronghold boast supernatural defenses, so the "Valiant"--friendly reinforcements who can be called forth to battle--are critical in thwarting them.
+- **7449**: The objective will be deemed a failure should the foes advance upon and destroy your marchland.
+- **7450**: In short, the Valiant can halt the approach of the Malicious, protecting the marchlands.
+- **7451**: As the name implies, Puissance is a type of energy gained from Noetic Ascensions and besting elemental fiends known as "Escalents."
+- **7452**: The Valiant are the physical forms of Puissance made manifest.
+- **7453**: The Valiant will automatically assault the enemies' stronghold and engage in combat with the Malicious.
+- **7454**: Up to $0 of the same Valiant may be summoned at a given time.
+- **7455**: Increasing the Ars Monstrum's level will enable you to summon additional varieties of the Valiant.
+- **7456**: Each Valiant is suited to fighting different Malicious foes, as each has bonuses and penalties against a certain type.
+- **7457**: Valiant Shijin may also be summoned with Puissance in the same way as ordinary Valiant.
+- **7458**: Which Shijin is summoned depends on the type of eudaemon part used to construct the simulacrum.
+- **7459**: Only one Valiant Shijin may be called forth, but its effects will be felt on all creatures within the alluvion skirmish.
+- **7460**: Players may use motes of Puissance to amend the Ars Monstrum, thereby increasing its level.
+- **7461**: An amended Ars Monstrum will enable you to summon additional varieties of the Valiant, as well as increase their level.
+- **7462**: The Ars Monstrum's maximum level is $0, but advancing to the next section will reset it to $1.
+- **7463**: Summon which Valiant? ($0 Puissance) [None for now./An Entozoon: $1 Puissance ($11 left)./A Crab: $2 Puissance ($12 left)./A Colibri: $3 Puissance ($13 left)./A Coeurl: $4 Puissance ($14 left)./A Mandragora: $5 Puissance ($15 left)./A Scorpion: $6 Puissance ($16 left)./An Adamantoise: $7 Puissance ($17 left)./A Tome: $8 Puissance ($18 left)./An Ajattara: $9 Puissance ($19 left)./A Shijin: $10 Puissance ($20 left).]
+- **7465**: Amend the Ars Monstrum? ($0 Pui.) [Yes. ($1 Puissance)/No.]
+- **7476**: However, Valiant alone are incapable of dealing the final blow to the enemy stronghold, so it falls to the pioneer and his compatriots to bring the axe down.
+- **7477**: Proceeding to the next layer of the skirmish will leave you with the default value of $0 motes of Puissance.
+- **7478**: Note that up to $0 obsidian fragment[/s] may be converted into motes of Puissance once per floor.
+- **7479**: Specifically, $0 obsidian fragment[/s] may be converted into $1 mote[/s] of Puissance.
+- **7480**: You currently possess $1 obsidian fragment[/s]. How many would you like to convert?
+- **7481**: You will receive $0 mote[/s] of Puissance. [Continue with the exchange./I need time to think.]
+- **7482**: Acquire a map? ($0 motes of Puissance) [Yes, please. ($1 motes required)/No, thank you.]
+- **7483**: A map of the current skirmish is available for a nominal cost in the form of motes of Puissance.
+- **7484**: Note that the map will be destroyed upon advancing to the next layer.
+- **7485**: Enhance your allies? ($0 motes of Puissance) [Of course. ($1 motes required)/Not at the moment.]
+- **7487**: Certain eudaemon parts enable the bolstering of your pets' resistance in exchange for a small donation of motes of Puissance.
 
 ## Events
 
@@ -303,7 +303,7 @@ SUBROUTINE_005E:
 
 SUBROUTINE_00E9:
  43: 0x00E9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
- 44: 0x00EE [0x24] CREATE_DIALOG(message_id=7444*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[4])
+ 44: 0x00EE [0x24] CREATE_DIALOG(message_id=7445*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[4])
     → "What shall you do? (Current Lv.: $0) [Nothing for now./Call forth a Valiant./Amend the Ars Monstrum./Convert to Puissance./Acquire a map./Bolster pets./Read an explanation.]"
  45: 0x00F5 [0x25] WAIT_DIALOG_SELECT()
  46: 0x00F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0109
@@ -346,7 +346,7 @@ SUBROUTINE_0180:
 
 SUBROUTINE_0186:
  79: 0x0186 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x020E
- 80: 0x018E [0x24] CREATE_DIALOG(message_id=7445*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
+ 80: 0x018E [0x24] CREATE_DIALOG(message_id=7446*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
     → "Read up on which topic? [None of these./Objectives./Puissance./Valiant./Valiant Shijin./Amending the Ars Monstrum./Acquiring maps./Bolstering pets.]"
  81: 0x0195 [0x25] WAIT_DIALOG_SELECT()
  82: 0x0196 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A4
@@ -380,98 +380,98 @@ SUBROUTINE_0206:
 108: 0x020E [0x1B] RETURN
 
 SUBROUTINE_020F:
-109: 0x020F [0x48] [System] [7446*]:
+109: 0x020F [0x48] [System] [7447*]:
     → "Fulfillment of the primary objective, vanquishing the enemy stronghold, is impeded by the Malicious: enemies who threaten intruders at every turn."
 110: 0x0212 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x0213 [0x48] [System] [7447*]:
+111: 0x0213 [0x48] [System] [7448*]:
     → "The Malicious and their stronghold boast supernatural defenses, so the "Valiant"--friendly reinforcements who can be called forth to battle--are critical in thwarting them."
 112: 0x0216 [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x0217 [0x48] [System] [7475*]:
+113: 0x0217 [0x48] [System] [7476*]:
     → "However, Valiant alone are incapable of dealing the final blow to the enemy stronghold, so it falls to the pioneer and his compatriots to bring the axe down."
 114: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x021B [0x48] [System] [7448*]:
+115: 0x021B [0x48] [System] [7449*]:
     → "The objective will be deemed a failure should the foes advance upon and destroy your marchland."
 116: 0x021E [0x23] WAIT_FOR_DIALOG_INTERACTION
-117: 0x021F [0x48] [System] [7449*]:
+117: 0x021F [0x48] [System] [7450*]:
     → "In short, the Valiant can halt the approach of the Malicious, protecting the marchlands."
 118: 0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0223 [0x1B] RETURN
 
 SUBROUTINE_0224:
-120: 0x0224 [0x48] [System] [7450*]:
+120: 0x0224 [0x48] [System] [7451*]:
     → "As the name implies, Puissance is a type of energy gained from Noetic Ascensions and besting elemental fiends known as "Escalents.""
 121: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0228 [0x03] Work_Zone[2] = 1000*
-123: 0x022D [0x48] [System] [7477*]:
+123: 0x022D [0x48] [System] [7478*]:
     → "Note that up to $0 obsidian fragment[/s] may be converted into motes of Puissance once per floor."
 124: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0231 [0x03] Work_Zone[2] = 1*
 126: 0x0236 [0x03] Work_Zone[3] = 1*
-127: 0x023B [0x48] [System] [7478*]:
+127: 0x023B [0x48] [System] [7479*]:
     → "Specifically, $0 obsidian fragment[/s] may be converted into $1 mote[/s] of Puissance."
 128: 0x023E [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x023F [0x03] Work_Zone[2] = 1000*
-130: 0x0244 [0x48] [System] [7476*]:
+130: 0x0244 [0x48] [System] [7477*]:
     → "Proceeding to the next layer of the skirmish will leave you with the default value of $0 motes of Puissance."
 131: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x0248 [0x1B] RETURN
 
 SUBROUTINE_0249:
-133: 0x0249 [0x48] [System] [7451*]:
+133: 0x0249 [0x48] [System] [7452*]:
     → "The Valiant are the physical forms of Puissance made manifest."
 134: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
-135: 0x024D [0x48] [System] [7452*]:
+135: 0x024D [0x48] [System] [7453*]:
     → "The Valiant will automatically assault the enemies' stronghold and engage in combat with the Malicious."
 136: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x0251 [0x03] Work_Zone[2] = 5*
-138: 0x0256 [0x48] [System] [7453*]:
+138: 0x0256 [0x48] [System] [7454*]:
     → "Up to $0 of the same Valiant may be summoned at a given time."
 139: 0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
-140: 0x025A [0x48] [System] [7454*]:
+140: 0x025A [0x48] [System] [7455*]:
     → "Increasing the Ars Monstrum's level will enable you to summon additional varieties of the Valiant."
 141: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
-142: 0x025E [0x48] [System] [7455*]:
+142: 0x025E [0x48] [System] [7456*]:
     → "Each Valiant is suited to fighting different Malicious foes, as each has bonuses and penalties against a certain type."
 143: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x0262 [0x1B] RETURN
 
 SUBROUTINE_0263:
-145: 0x0263 [0x48] [System] [7456*]:
+145: 0x0263 [0x48] [System] [7457*]:
     → "Valiant Shijin may also be summoned with Puissance in the same way as ordinary Valiant."
 146: 0x0266 [0x23] WAIT_FOR_DIALOG_INTERACTION
-147: 0x0267 [0x48] [System] [7457*]:
+147: 0x0267 [0x48] [System] [7458*]:
     → "Which Shijin is summoned depends on the type of eudaemon part used to construct the simulacrum."
 148: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
-149: 0x026B [0x48] [System] [7458*]:
+149: 0x026B [0x48] [System] [7459*]:
     → "Only one Valiant Shijin may be called forth, but its effects will be felt on all creatures within the alluvion skirmish."
 150: 0x026E [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x026F [0x1B] RETURN
 
 SUBROUTINE_0270:
-152: 0x0270 [0x48] [System] [7459*]:
+152: 0x0270 [0x48] [System] [7460*]:
     → "Players may use motes of Puissance to amend the Ars Monstrum, thereby increasing its level."
 153: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
-154: 0x0274 [0x48] [System] [7460*]:
+154: 0x0274 [0x48] [System] [7461*]:
     → "An amended Ars Monstrum will enable you to summon additional varieties of the Valiant, as well as increase their level."
 155: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x0278 [0x03] Work_Zone[2] = 3*
 157: 0x027D [0x03] Work_Zone[3] = 1*
-158: 0x0282 [0x48] [System] [7461*]:
+158: 0x0282 [0x48] [System] [7462*]:
     → "The Ars Monstrum's maximum level is $0, but advancing to the next section will reset it to $1."
 159: 0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x0286 [0x1B] RETURN
 
 SUBROUTINE_0287:
-161: 0x0287 [0x48] [System] [7482*]:
+161: 0x0287 [0x48] [System] [7483*]:
     → "A map of the current skirmish is available for a nominal cost in the form of motes of Puissance."
 162: 0x028A [0x23] WAIT_FOR_DIALOG_INTERACTION
-163: 0x028B [0x48] [System] [7483*]:
+163: 0x028B [0x48] [System] [7484*]:
     → "Note that the map will be destroyed upon advancing to the next layer."
 164: 0x028E [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x028F [0x1B] RETURN
 
 SUBROUTINE_0290:
-166: 0x0290 [0x48] [System] [7486*]:
+166: 0x0290 [0x48] [System] [7487*]:
     → "Certain eudaemon parts enable the bolstering of your pets' resistance in exchange for a small donation of motes of Puissance."
 167: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0294 [0x1B] RETURN
@@ -517,7 +517,7 @@ SUBROUTINE_02E9:
 202: 0x035A [0x41] Work_Zone_1700[10] = ExtData[1]->WorkLocal[14] (bits 28*-31*)
 203: 0x0363 [0x41] Work_Zone_1700[11] = ExtData[1]->WorkLocal[15] (bits 0*-3*)
 204: 0x036C [0x03] Work_Zone_1700[12] = 1*
-205: 0x0371 [0x24] CREATE_DIALOG(message_id=7462*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[7])
+205: 0x0371 [0x24] CREATE_DIALOG(message_id=7463*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[7])
     → "Summon which Valiant? ($0 Puissance) [None for now./An Entozoon: $1 Puissance ($11 left)./A Crab: $2 Puissance ($12 left)./A Colibri: $3 Puissance ($13 left)./A Coeurl: $4 Puissance ($14 left)./A Mandragora: $5 Puissance ($15 left)./A Scorpion: $6 Puissance ($16 left)./An Adamantoise: $7 Puissance ($17 left)./A Tome: $8 Puissance ($18 left)./An Ajattara: $9 Puissance ($19 left)./A Shijin: $10 Puissance ($20 left).]"
 206: 0x0378 [0x25] WAIT_DIALOG_SELECT()
 207: 0x0379 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0387
@@ -557,7 +557,7 @@ SUBROUTINE_03B7:
 235: 0x03FF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=0*, condition_work_offset=1*)
 
 SUBROUTINE_0406:
-236: 0x0406 [0x24] CREATE_DIALOG(message_id=7464*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+236: 0x0406 [0x24] CREATE_DIALOG(message_id=7465*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Amend the Ars Monstrum? ($0 Pui.) [Yes. ($1 Puissance)/No.]"
 237: 0x040D [0x25] WAIT_DIALOG_SELECT()
 238: 0x040E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0432
@@ -593,7 +593,7 @@ SUBROUTINE_0444:
 SUBROUTINE_0486:
 263: 0x0486 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x04FB
 264: 0x048E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[18]
-265: 0x0493 [0x48] [System] [7479*]:
+265: 0x0493 [0x48] [System] [7480*]:
     → "You currently possess $1 obsidian fragment[/s]. How many would you like to convert?"
 266: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
 267: 0x0497 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, ExtData[1]->WorkLocal[19]])
@@ -602,7 +602,7 @@ SUBROUTINE_0486:
 270: 0x04A9 [0x02] IF !(ExtData[1]->WorkLocal[21] <= 0*) GOTO 0x04FB
 271: 0x04B1 [0x02] IF !(ExtData[1]->WorkLocal[21] > ExtData[1]->WorkLocal[18]) GOTO 0x04F8
 272: 0x04B9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[21]
-273: 0x04BE [0x24] CREATE_DIALOG(message_id=7480*, default_option=1*, option_flags=0*)
+273: 0x04BE [0x24] CREATE_DIALOG(message_id=7481*, default_option=1*, option_flags=0*)
     → "You will receive $0 mote[/s] of Puissance. [Continue with the exchange./I need time to think.]"
 274: 0x04C5 [0x25] WAIT_DIALOG_SELECT()
 275: 0x04C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04EA
@@ -646,7 +646,7 @@ SUBROUTINE_0542:
 301: 0x0542 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x058E
 302: 0x054A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[17]
 303: 0x054F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[22]
-304: 0x0554 [0x24] CREATE_DIALOG(message_id=7481*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+304: 0x0554 [0x24] CREATE_DIALOG(message_id=7482*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Acquire a map? ($0 motes of Puissance) [Yes, please. ($1 motes required)/No, thank you.]"
 305: 0x055B [0x25] WAIT_DIALOG_SELECT()
 306: 0x055C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0580
@@ -686,7 +686,7 @@ SUBROUTINE_05D8:
 332: 0x05D8 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0624
 333: 0x05E0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[17]
 334: 0x05E5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[22]
-335: 0x05EA [0x24] CREATE_DIALOG(message_id=7484*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+335: 0x05EA [0x24] CREATE_DIALOG(message_id=7485*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Enhance your allies? ($0 motes of Puissance) [Of course. ($1 motes required)/Not at the moment.]"
 336: 0x05F1 [0x25] WAIT_DIALOG_SELECT()
 337: 0x05F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0616

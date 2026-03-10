@@ -22,30 +22,30 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1F9F      |        8095 |
-|       2 | 0x1F98      |        8088 |
-|       3 | 0x1F99      |        8089 |
+|       1 | 0x1FA0      |        8096 |
+|       2 | 0x1F99      |        8089 |
+|       3 | 0x1F9A      |        8090 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1F9B      |        8091 |
+|       5 | 0x1F9C      |        8092 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x1F9C      |        8092 |
+|       7 | 0x1F9D      |        8093 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x1F9A      |        8090 |
-|      10 | 0x1F9D      |        8093 |
-|      11 | 0x1F8D      |        8077 |
-|      12 | 0x1F9E      |        8094 |
+|       9 | 0x1F9B      |        8091 |
+|      10 | 0x1F9E      |        8094 |
+|      11 | 0x1F8E      |        8078 |
+|      12 | 0x1F9F      |        8095 |
 
 ## String References
 
-- **8077**: Hear the report again? [No need./Yes, please.]
-- **8088**: My report? Why, yes, it should be rrright-- Well, that's strange. It seems a fiend has devoured it. I suppose you'll just have to pass along my findings for me.
-- **8089**: I spoke with a recuperating soldier who was complaining of terrrible [chest pains/dizziness/headaches/ringing in the ears].
-- **8090**: It would seem that the fiend [swooped down from the sky to attack him/ambushed him when he was resting his legs at an oasis/jumped out from behind a shadowy rock when he was on patrol/burst forth from an odd hollow in the ground].
-- **8091**: [The beast was so extravagantly colored, he says he'll never forget the sight of it/The beast was so unremarkable in appearance, he almost didn't see it coming/So garishly colored was the fiend that it sent shivers up his spine/He was so hypnotized by its obsidian black luster that he got too close for comfort].
-- **8092**: He fought back as best he could, but [was disarrrmed by a swipe of the fiend's jagged horns/his blade bounced harrrmlessly off the fiend's round shell/the fiend danced clear out of rrrange on its four bony legs/his blade shattered in pieces against the fiend's flat, sturrrdy jaw].
-- **8093**: That's all I've got for ya. Need to hear it again?
-- **8094**: Wonderful! You're a rrreal lifesaver. Tell Chumimi not to work too hard, 'kay?
-- **8095**: Before the cataclysm, I was just a humble apothecary--now I'm serrrvin' on the front lines, fightin' for my life. I should be proud of myself, but deep down, it just doesn't feel right...
+- **8078**: Hear the report again? [No need./Yes, please.]
+- **8089**: My report? Why, yes, it should be rrright-- Well, that's strange. It seems a fiend has devoured it. I suppose you'll just have to pass along my findings for me.
+- **8090**: I spoke with a recuperating soldier who was complaining of terrrible [chest pains/dizziness/headaches/ringing in the ears].
+- **8091**: It would seem that the fiend [swooped down from the sky to attack him/ambushed him when he was resting his legs at an oasis/jumped out from behind a shadowy rock when he was on patrol/burst forth from an odd hollow in the ground].
+- **8092**: [The beast was so extravagantly colored, he says he'll never forget the sight of it/The beast was so unremarkable in appearance, he almost didn't see it coming/So garishly colored was the fiend that it sent shivers up his spine/He was so hypnotized by its obsidian black luster that he got too close for comfort].
+- **8093**: He fought back as best he could, but [was disarrrmed by a swipe of the fiend's jagged horns/his blade bounced harrrmlessly off the fiend's round shell/the fiend danced clear out of rrrange on its four bony legs/his blade shattered in pieces against the fiend's flat, sturrrdy jaw].
+- **8094**: That's all I've got for ya. Need to hear it again?
+- **8095**: Wonderful! You're a rrreal lifesaver. Tell Chumimi not to work too hard, 'kay?
+- **8096**: Before the cataclysm, I was just a humble apothecary--now I'm serrrvin' on the front lines, fightin' for my life. I should be proud of myself, but deep down, it just doesn't feel right...
 
 ## Events
 
@@ -92,7 +92,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(20* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8095*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8096*)
     → "Before the cataclysm, I was just a humble apothecary--now I'm serrrvin' on the front lines, fightin' for my life. I should be proud of myself, but deep down, it just doesn't feel right..."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x21] END_EVENT
@@ -134,35 +134,35 @@
   4: 0x0020 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   5: 0x0021 [0x1E] EventEntity looks at LocalPlayer and starts talking
   6: 0x0026 [0x1C] WAIT(20* ticks)
-  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
+  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
     → "My report? Why, yes, it should be rrright-- Well, that's strange. It seems a fiend has devoured it. I suppose you'll just have to pass along my findings for me."
   8: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 10: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
+ 10: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8090*)
     → "I spoke with a recuperating soldier who was complaining of terrrible [chest pains/dizziness/headaches/ringing in the ears]."
  11: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0036 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
  13: 0x003B [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x004A
- 14: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8091*)
+ 14: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
     → "[The beast was so extravagantly colored, he says he'll never forget the sight of it/The beast was so unremarkable in appearance, he almost didn't see it coming/So garishly colored was the fiend that it sent shivers up his spine/He was so hypnotized by its obsidian black luster that he got too close for comfort]."
  15: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0047 [0x01] GOTO 0x0068
  17: 0x004A [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0059
- 18: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
+ 18: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
     → "He fought back as best he could, but [was disarrrmed by a swipe of the fiend's jagged horns/his blade bounced harrrmlessly off the fiend's round shell/the fiend danced clear out of rrrange on its four bony legs/his blade shattered in pieces against the fiend's flat, sturrrdy jaw]."
  19: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0056 [0x01] GOTO 0x0068
  21: 0x0059 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0068
- 22: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=8090*)
+ 22: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=8091*)
     → "It would seem that the fiend [swooped down from the sky to attack him/ambushed him when he was resting his legs at an oasis/jumped out from behind a shadowy rock when he was on patrol/burst forth from an odd hollow in the ground]."
  23: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0065 [0x01] GOTO 0x0068
 
 SUBROUTINE_0068:
- 25: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
+ 25: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
     → "That's all I've got for ya. Need to hear it again?"
  26: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x006C [0x24] CREATE_DIALOG(message_id=8077*, default_option=0*, option_flags=0*)
+ 27: 0x006C [0x24] CREATE_DIALOG(message_id=8078*, default_option=0*, option_flags=0*)
     → "Hear the report again? [No need./Yes, please.]"
  28: 0x0073 [0x25] WAIT_DIALOG_SELECT()
  29: 0x0074 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007F
@@ -171,7 +171,7 @@ SUBROUTINE_0068:
  32: 0x0087 [0x01] GOTO 0x002D
 
 SUBROUTINE_008D:
- 33: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
+ 33: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=8095*)
     → "Wonderful! You're a rrreal lifesaver. Tell Chumimi not to work too hard, 'kay?"
  34: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0091 [0x21] END_EVENT

@@ -21,35 +21,35 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1E57      |        7767 |
+|       1 | 0x1E58      |        7768 |
 |       2 | 0x40000000  |  1073741824 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0005      |           5 |
 |       5 | 0x34BC0     |      216000 |
 |       6 | 0x0E10      |        3600 |
-|       7 | 0x1E58      |        7768 |
+|       7 | 0x1E59      |        7769 |
 |       8 | 0x0002      |           2 |
 |       9 | 0x000A      |          10 |
-|      10 | 0x1E59      |        7769 |
+|      10 | 0x1E5A      |        7770 |
 |      11 | 0x0003      |           3 |
 |      12 | 0x2710      |       10000 |
-|      13 | 0x1E5A      |        7770 |
+|      13 | 0x1E5B      |        7771 |
 |      14 | 0x0004      |           4 |
 |      15 | 0x07D0      |        2000 |
-|      16 | 0x1E5B      |        7771 |
-|      17 | 0x1E5C      |        7772 |
+|      16 | 0x1E5C      |        7772 |
+|      17 | 0x1E5D      |        7773 |
 |      18 | 0x0006      |           6 |
-|      19 | 0x1E5D      |        7773 |
+|      19 | 0x1E5E      |        7774 |
 |      20 | 0x0007      |           7 |
-|      21 | 0x1E5E      |        7774 |
+|      21 | 0x1E5F      |        7775 |
 |      22 | 0x0008      |           8 |
-|      23 | 0x1E5F      |        7775 |
+|      23 | 0x1E60      |        7776 |
 |      24 | 0x0009      |           9 |
-|      25 | 0x1E63      |        7779 |
-|      26 | 0x1E64      |        7780 |
-|      27 | 0x1E65      |        7781 |
-|      28 | 0x1E66      |        7782 |
-|      29 | 0x1E61      |        7777 |
+|      25 | 0x1E64      |        7780 |
+|      26 | 0x1E65      |        7781 |
+|      27 | 0x1E66      |        7782 |
+|      28 | 0x1E67      |        7783 |
+|      29 | 0x1E62      |        7778 |
 |      30 | 0x001F      |          31 |
 |      31 | 0x012C      |         300 |
 |      32 | 0x001E      |          30 |
@@ -59,30 +59,30 @@
 |      36 | 0x003C      |          60 |
 |      37 | 0x0078      |         120 |
 |      38 | 0x1C20      |        7200 |
-|      39 | 0x1E62      |        7778 |
+|      39 | 0x1E63      |        7779 |
 |      40 | 0x0039      |          57 |
 |      41 | 0x005A      |          90 |
-|      42 | 0x1E60      |        7776 |
+|      42 | 0x1E61      |        7777 |
 |      43 | 0xFFFFFFFF  |  4294967295 |
 
 ## String References
 
-- **7767**: AP Debug: Do what? [Nuttin'./AP: Adjust elapsed time./AP: Adjust number of quests cleared for all PCs./AP: Adjust amount of XP obtained for all PCs./AP: Adjust amount of cruor for all PCs./AP: Adjust number of NMs defeated for all PCs./AP: Adjust number of HNMs defeated for all PCs./AP: Adjust pollution levels for this area./AP: Adjust number of defenses for this area./OT: Acquire info pertaining to "Order Trophy."]
-- **7768**: Elapsed time: $0P (1P = $1 min)
-- **7769**: XP: $0P (1P = $1 QUEST)
-- **7770**: XP: $0P (1P = $1 XP)
-- **7771**: Cruor: $0P (1P = $1 cruor)
-- **7772**: NMs defeated: $0P (1P = $1 NM)
-- **7773**: HNMs defeated: $0P (1P = $1 HNM)
-- **7774**: Pollution level: $0 P
-- **7775**: Number of defenses: $0 P
-- **7776**: Change value? [No thanks./Increase./Decrease.]
-- **7777**: All clear to receive the effect of "Flee"? [ Oh Goddess, no!/ Bring it on!]
-- **7778**: Your fortune for today is [terrible/meh/decent/moderately good/very good]. As such, I shall imbue you with $1 minute(s) of "Flee."
-- **7779**: OT Debug: Do what? [Nothing for now./OT: Obtainment bonus./OT: Fortune rate./OT: Externimation record.]
-- **7780**: Obtained bonus work. XP added: $0. Cruor added: $1. NMs defeated: $2.
-- **7781**: Fortune rate work. Spawn rate added value: $0 Blue casket spawn rate: $1 Red casket spawn rate: $2 Gold casket spawn rate: $3
-- **7782**: Extermination record work. Previous monster defeated: $0. No. of same ID defeated: $1. No. of diff. ID defeated: $2.
+- **7768**: AP Debug: Do what? [Nuttin'./AP: Adjust elapsed time./AP: Adjust number of quests cleared for all PCs./AP: Adjust amount of XP obtained for all PCs./AP: Adjust amount of cruor for all PCs./AP: Adjust number of NMs defeated for all PCs./AP: Adjust number of HNMs defeated for all PCs./AP: Adjust pollution levels for this area./AP: Adjust number of defenses for this area./OT: Acquire info pertaining to "Order Trophy."]
+- **7769**: Elapsed time: $0P (1P = $1 min)
+- **7770**: XP: $0P (1P = $1 QUEST)
+- **7771**: XP: $0P (1P = $1 XP)
+- **7772**: Cruor: $0P (1P = $1 cruor)
+- **7773**: NMs defeated: $0P (1P = $1 NM)
+- **7774**: HNMs defeated: $0P (1P = $1 HNM)
+- **7775**: Pollution level: $0 P
+- **7776**: Number of defenses: $0 P
+- **7777**: Change value? [No thanks./Increase./Decrease.]
+- **7778**: All clear to receive the effect of "Flee"? [ Oh Goddess, no!/ Bring it on!]
+- **7779**: Your fortune for today is [terrible/meh/decent/moderately good/very good]. As such, I shall imbue you with $1 minute(s) of "Flee."
+- **7780**: OT Debug: Do what? [Nothing for now./OT: Obtainment bonus./OT: Fortune rate./OT: Externimation record.]
+- **7781**: Obtained bonus work. XP added: $0. Cruor added: $1. NMs defeated: $2.
+- **7782**: Fortune rate work. Spawn rate added value: $0 Blue casket spawn rate: $1 Red casket spawn rate: $2 Gold casket spawn rate: $3
+- **7783**: Extermination record work. Previous monster defeated: $0. No. of same ID defeated: $1. No. of diff. ID defeated: $2.
 
 ## Events
 
@@ -188,7 +188,7 @@
   8: 0x0026 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[7]
   9: 0x002B [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[8]
  10: 0x0030 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[9]
- 11: 0x0035 [0x24] CREATE_DIALOG(message_id=7767*, default_option=0*, option_flags=0*)
+ 11: 0x0035 [0x24] CREATE_DIALOG(message_id=7768*, default_option=0*, option_flags=0*)
     → "AP Debug: Do what? [Nuttin'./AP: Adjust elapsed time./AP: Adjust number of quests cleared for all PCs./AP: Adjust amount of XP obtained for all PCs./AP: Adjust amount of cruor for all PCs./AP: Adjust number of NMs defeated for all PCs./AP: Adjust number of HNMs defeated for all PCs./AP: Adjust pollution levels for this area./AP: Adjust number of defenses for this area./OT: Acquire info pertaining to "Order Trophy."]"
  12: 0x003C [0x25] WAIT_DIALOG_SELECT()
  13: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004D
@@ -201,7 +201,7 @@
  20: 0x0068 [0x15] ExtData[1]->WorkLocal[0] /= 3600*
  21: 0x006D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
  22: 0x0072 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 23: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7768*)
+ 23: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7769*)
     → "Elapsed time: $0P (1P = $1 min)"
  24: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x007B [0x01] GOTO 0x02C0
@@ -210,7 +210,7 @@
  28: 0x008B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=2*)
  29: 0x0094 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
  30: 0x0099 [0x03] Work_Zone[3] = 10*
- 31: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7769*)
+ 31: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7770*)
     → "XP: $0P (1P = $1 QUEST)"
  32: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00A2 [0x01] GOTO 0x02C0
@@ -219,7 +219,7 @@
  36: 0x00B2 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=3*)
  37: 0x00BB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
  38: 0x00C0 [0x03] Work_Zone[3] = 10000*
- 39: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7770*)
+ 39: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
     → "XP: $0P (1P = $1 XP)"
  40: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00C9 [0x01] GOTO 0x02C0
@@ -228,7 +228,7 @@
  44: 0x00D9 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=4*)
  45: 0x00E2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
  46: 0x00E7 [0x03] Work_Zone[3] = 2000*
- 47: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
+ 47: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7772*)
     → "Cruor: $0P (1P = $1 cruor)"
  48: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x00F0 [0x01] GOTO 0x02C0
@@ -237,7 +237,7 @@
  52: 0x0100 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=5*)
  53: 0x0109 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
  54: 0x010E [0x03] Work_Zone[3] = 10*
- 55: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=7772*)
+ 55: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
     → "NMs defeated: $0P (1P = $1 NM)"
  56: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0117 [0x01] GOTO 0x02C0
@@ -246,7 +246,7 @@
  60: 0x0127 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=6*)
  61: 0x0130 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
  62: 0x0135 [0x03] Work_Zone[3] = 1*
- 63: 0x013A [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
+ 63: 0x013A [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
     → "HNMs defeated: $0P (1P = $1 HNM)"
  64: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x013E [0x01] GOTO 0x02C0
@@ -254,7 +254,7 @@
  67: 0x0149 [0x03] ExtData[1]->WorkLocal[1] = 1*
  68: 0x014E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=7*)
  69: 0x0157 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
- 70: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
+ 70: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=7775*)
     → "Pollution level: $0 P"
  71: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0160 [0x01] GOTO 0x02C0
@@ -262,12 +262,12 @@
  74: 0x016B [0x03] ExtData[1]->WorkLocal[1] = 1*
  75: 0x0170 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=8*)
  76: 0x0179 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
- 77: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=7775*)
+ 77: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
     → "Number of defenses: $0 P"
  78: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0182 [0x01] GOTO 0x02C0
  80: 0x0185 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x01F0
- 81: 0x018D [0x24] CREATE_DIALOG(message_id=7779*, default_option=0*, option_flags=0*)
+ 81: 0x018D [0x24] CREATE_DIALOG(message_id=7780*, default_option=0*, option_flags=0*)
     → "OT Debug: Do what? [Nothing for now./OT: Obtainment bonus./OT: Fortune rate./OT: Externimation record.]"
  82: 0x0194 [0x25] WAIT_DIALOG_SELECT()
  83: 0x0195 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A0
@@ -276,7 +276,7 @@
  86: 0x01A8 [0x03] Work_Zone[1] = 1*
  87: 0x01AD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  88: 0x01AF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 89: 0x01B1 [0x48] [System] [7780*]:
+ 89: 0x01B1 [0x48] [System] [7781*]:
     → "Obtained bonus work. XP added: $0. Cruor added: $1. NMs defeated: $2."
  90: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x01B5 [0x01] GOTO 0x01E8
@@ -284,7 +284,7 @@
  93: 0x01C0 [0x03] Work_Zone[1] = 2*
  94: 0x01C5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  95: 0x01C7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 96: 0x01C9 [0x48] [System] [7781*]:
+ 96: 0x01C9 [0x48] [System] [7782*]:
     → "Fortune rate work. Spawn rate added value: $0 Blue casket spawn rate: $1 Red casket spawn rate: $2 Gold casket spawn rate: $3"
  97: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x01CD [0x01] GOTO 0x01E8
@@ -292,7 +292,7 @@
 100: 0x01D8 [0x03] Work_Zone[1] = 3*
 101: 0x01DD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 102: 0x01DF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-103: 0x01E1 [0x48] [System] [7782*]:
+103: 0x01E1 [0x48] [System] [7783*]:
     → "Extermination record work. Previous monster defeated: $0. No. of same ID defeated: $1. No. of diff. ID defeated: $2."
 104: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x01E5 [0x01] GOTO 0x01E8
@@ -301,7 +301,7 @@ SUBROUTINE_01E8:
 106: 0x01E8 [0x03] Work_Zone[1] = 1073741824*
 107: 0x01ED [0x01] GOTO 0x02C0
 108: 0x01F0 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x02C0
-109: 0x01F8 [0x24] CREATE_DIALOG(message_id=7777*, default_option=0*, option_flags=0*)
+109: 0x01F8 [0x24] CREATE_DIALOG(message_id=7778*, default_option=0*, option_flags=0*)
     → "All clear to receive the effect of "Flee"? [ Oh Goddess, no!/ Bring it on!]"
 110: 0x01FF [0x25] WAIT_DIALOG_SELECT()
 111: 0x0200 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0210
@@ -333,7 +333,7 @@ SUBROUTINE_01E8:
 
 SUBROUTINE_02A3:
 137: 0x02A3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-138: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
+138: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
     → "Your fortune for today is [terrible/meh/decent/moderately good/very good]. As such, I shall imbue you with $1 minute(s) of "Flee.""
 139: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x02AC [0x73] EventEntity casts magic 57* on LocalPlayer
@@ -345,7 +345,7 @@ SUBROUTINE_02BD:
 
 SUBROUTINE_02C0:
 144: 0x02C0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x032D
-145: 0x02C8 [0x24] CREATE_DIALOG(message_id=7776*, default_option=0*, option_flags=0*)
+145: 0x02C8 [0x24] CREATE_DIALOG(message_id=7777*, default_option=0*, option_flags=0*)
     → "Change value? [No thanks./Increase./Decrease.]"
 146: 0x02CF [0x25] WAIT_DIALOG_SELECT()
 147: 0x02D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E0

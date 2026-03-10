@@ -129,33 +129,33 @@
 |      15 | 0x4C59      |       19545 |
 |      16 | 0x7530      |       30000 |
 |      17 | 0x0400      |        1024 |
-|      18 | 0x1E99      |        7833 |
-|      19 | 0x1E9A      |        7834 |
-|      20 | 0x1EA0      |        7840 |
-|      21 | 0x1EA1      |        7841 |
-|      22 | 0x1EAA      |        7850 |
-|      23 | 0x1EAB      |        7851 |
-|      24 | 0x1EAC      |        7852 |
-|      25 | 0x1EAD      |        7853 |
-|      26 | 0x1EB1      |        7857 |
-|      27 | 0x1EB4      |        7860 |
-|      28 | 0x1EB9      |        7865 |
-|      29 | 0x1EBE      |        7870 |
-|      30 | 0x1EBF      |        7871 |
+|      18 | 0x1E9A      |        7834 |
+|      19 | 0x1E9B      |        7835 |
+|      20 | 0x1EA1      |        7841 |
+|      21 | 0x1EA2      |        7842 |
+|      22 | 0x1EAB      |        7851 |
+|      23 | 0x1EAC      |        7852 |
+|      24 | 0x1EAD      |        7853 |
+|      25 | 0x1EAE      |        7854 |
+|      26 | 0x1EB2      |        7858 |
+|      27 | 0x1EB5      |        7861 |
+|      28 | 0x1EBA      |        7866 |
+|      29 | 0x1EBF      |        7871 |
+|      30 | 0x1EC0      |        7872 |
 |      31 | 0x5529      |       21801 |
 |      32 | 0x781D      |       30749 |
-|      33 | 0x1EDE      |        7902 |
-|      34 | 0x1EE3      |        7907 |
-|      35 | 0x1EE7      |        7911 |
-|      36 | 0x1EE8      |        7912 |
-|      37 | 0x1EE9      |        7913 |
-|      38 | 0x1EEC      |        7916 |
-|      39 | 0x1EED      |        7917 |
-|      40 | 0x1EF1      |        7921 |
-|      41 | 0x1EF3      |        7923 |
-|      42 | 0x1F0A      |        7946 |
-|      43 | 0x1F0D      |        7949 |
-|      44 | 0x1F0F      |        7951 |
+|      33 | 0x1EDF      |        7903 |
+|      34 | 0x1EE4      |        7908 |
+|      35 | 0x1EE8      |        7912 |
+|      36 | 0x1EE9      |        7913 |
+|      37 | 0x1EEA      |        7914 |
+|      38 | 0x1EED      |        7917 |
+|      39 | 0x1EEE      |        7918 |
+|      40 | 0x1EF2      |        7922 |
+|      41 | 0x1EF4      |        7924 |
+|      42 | 0x1F0B      |        7947 |
+|      43 | 0x1F0E      |        7950 |
+|      44 | 0x1F10      |        7952 |
 |      45 | 0xFFFFFC18  |  4294966296 |
 |      46 | 0x5780      |       22400 |
 |      47 | 0xFFFFEF92  |  4294963090 |
@@ -164,107 +164,107 @@
 |      50 | 0xFFFFD878  |  4294957176 |
 |      51 | 0x66E8      |       26344 |
 |      52 | 0x0126      |         294 |
-|      53 | 0x1F1A      |        7962 |
-|      54 | 0x1F1D      |        7965 |
-|      55 | 0x1F3D      |        7997 |
-|      56 | 0x1F41      |        8001 |
+|      53 | 0x1F1B      |        7963 |
+|      54 | 0x1F1E      |        7966 |
+|      55 | 0x1F3E      |        7998 |
+|      56 | 0x1F42      |        8002 |
 |      57 | 0x07CA      |        1994 |
 |      58 | 0x45EE      |       17902 |
 |      59 | 0x0006      |           6 |
-|      60 | 0x1F49      |        8009 |
-|      61 | 0x1F4F      |        8015 |
-|      62 | 0x1F50      |        8016 |
-|      63 | 0x1F52      |        8018 |
-|      64 | 0x1F53      |        8019 |
+|      60 | 0x1F4A      |        8010 |
+|      61 | 0x1F50      |        8016 |
+|      62 | 0x1F51      |        8017 |
+|      63 | 0x1F53      |        8019 |
+|      64 | 0x1F54      |        8020 |
 |      65 | 0x0320      |         800 |
 |      66 | 0x490F      |       18703 |
 |      67 | 0x003C      |          60 |
-|      68 | 0x1F5A      |        8026 |
-|      69 | 0x1F5B      |        8027 |
-|      70 | 0x1F5D      |        8029 |
-|      71 | 0x1F5F      |        8031 |
+|      68 | 0x1F5B      |        8027 |
+|      69 | 0x1F5C      |        8028 |
+|      70 | 0x1F5E      |        8030 |
+|      71 | 0x1F60      |        8032 |
 |      72 | 0x0007      |           7 |
-|      73 | 0x1F64      |        8036 |
-|      74 | 0x1F65      |        8037 |
-|      75 | 0x1F66      |        8038 |
-|      76 | 0x1F68      |        8040 |
-|      77 | 0x1F6A      |        8042 |
-|      78 | 0x1F6B      |        8043 |
-|      79 | 0x1F71      |        8049 |
-|      80 | 0x1F73      |        8051 |
-|      81 | 0x1F76      |        8054 |
-|      82 | 0x1F78      |        8056 |
-|      83 | 0x1F84      |        8068 |
-|      84 | 0x1F86      |        8070 |
-|      85 | 0x1F8C      |        8076 |
-|      86 | 0x1F8D      |        8077 |
-|      87 | 0x1F8E      |        8078 |
-|      88 | 0x1F90      |        8080 |
-|      89 | 0x1F95      |        8085 |
-|      90 | 0x1F97      |        8087 |
-|      91 | 0x1F98      |        8088 |
-|      92 | 0x1F9A      |        8090 |
+|      73 | 0x1F65      |        8037 |
+|      74 | 0x1F66      |        8038 |
+|      75 | 0x1F67      |        8039 |
+|      76 | 0x1F69      |        8041 |
+|      77 | 0x1F6B      |        8043 |
+|      78 | 0x1F6C      |        8044 |
+|      79 | 0x1F72      |        8050 |
+|      80 | 0x1F74      |        8052 |
+|      81 | 0x1F77      |        8055 |
+|      82 | 0x1F79      |        8057 |
+|      83 | 0x1F85      |        8069 |
+|      84 | 0x1F87      |        8071 |
+|      85 | 0x1F8D      |        8077 |
+|      86 | 0x1F8E      |        8078 |
+|      87 | 0x1F8F      |        8079 |
+|      88 | 0x1F91      |        8081 |
+|      89 | 0x1F96      |        8086 |
+|      90 | 0x1F98      |        8088 |
+|      91 | 0x1F99      |        8089 |
+|      92 | 0x1F9B      |        8091 |
 
 ## String References
 
-- **7833**: Miss Chumimi, I apologize-thy for being late. It took-ethy me forever to round up these two!
-- **7834**: Ahem. Now, where was I? Ah, yes! The reason I called-ethy you all here today.
-- **7840**: Now, professor! Don't rush-ethy into any conclusions.
-- **7841**: Coming to conclusions before we have-ethy any data is not logical. We must cross all our I's and dot all our T's before making any new theories.
-- **7850**: Soil? Light? Are you two dimwits through-ethy yet? The problem obviously-ethy lies in the water!
-- **7851**: Listen. Recently-ethy, I have had many reports of problems with Sarutabaruta's water.
-- **7852**: These star trees are offspring-ethy of the Great Star Tree. They have existed-ethy in Windurst for many-wany generations!
-- **7853**: They have been around-ethy since the times when magic was overflowing in these parts. Of course, they're going to be sensitive to a drop-ethy in magic levels in the water!
-- **7857**: Just one moment! Did you not hear-ethy my scientific theory-ethy on the water?
-- **7860**: Water!
-- **7865**: Quiet, both of you, or I'll collect-ethy on those debts you owe me!
-- **7870**: ... You know, she does have-ethy a point...
-- **7871**: I'll have the Rhinostery send-ethy over a large shipment of Giddeus Water. Good day!
-- **7902**: I'm sorry to keep-ethy you waiting, Miss Chumimi. Now show-ethy us how my plan worked.
-- **7907**: ... I see. It's time we took-ethy this problem a little more seriously.
-- **7911**: Chumimi, Chumimi... We scientists give-ethy a numerical rating to any problems brought before us.
-- **7912**: Ranking the problem helps give-ethy us an idea of how much brainy-wainy power is needed to solve it. This prevents us from wasting any of our time.
-- **7913**: Listen, you two. We underestimated this problem-ethy here before us. Let's re-rank-ethy and re-think-ethy our predicament.
-- **7916**: Y-yes, well, let us examine-ethy this problem from the beginning. If nothing in the water, soil, or light has been changed, then we must focus-ethy on the moment that things began going wrong.
-- **7917**: There must-ethy be a logical cause for every effect. What we must-ethy determine is when the "effect" took-ethy place.
-- **7921**: Chumimi, approximately when did the star trees begin-ethy to wither-hither?
-- **7923**: Twenty years... A lot can happen-ethy in twenty years, you know. Do you two have any ideas?
-- **7946**: What is this you say-ethy, Professor? Do you have-ethy anything you'd like to share-ethy with us?
-- **7949**: What is going on here?
-- **7951**: You have-ethy a point...
-- **7962**: I commend-ethy you on your efforts. We got the details from Koru-Moru while you were away.
-- **7965**: Now let's put-ethy our heads together once more. Can either of you remember-ethy anything that might have caused the star trees to wither-hither?
-- **7997**: What? Did you remember-ethy something?
-- **8001**: That is what our adventurer here is going to find-ethy out for us.
-- **8009**: So this is what Doctor Shantotto thinks-ethy is causing all our problems...
-- **8015**: You mean to tell-ethy me, you thought a curse from this doll was affecting the star trees? How unscientific-ethy!
-- **8016**: However, we cannot take-ethy any chances. This doll may know-ethy something we don't.
-- **8018**: Good work, Miss Chumimi. Now you can leave-ethy the rest to me.
-- **8019**: Oh, and our adventurer. I commend-ethy you on your work as well. As a measure of our gratitude, please accept-ethy this.
-- **8026**: First, let me assure-ethy you that some crazy-wazy curse is definitely not the cause-ethy of the star trees' problem.
-- **8027**: And it is most certainly not anger pent-ethy up by the star trees for acts of stupidity-ethy taken by our colleague, Koru-Moru.
-- **8029**: Coming to these conclusions, we have decided-ethy on putting forth all our effort into solving the problem.
-- **8031**: Chumimi, Chumimi. The road one travels does-ethy not matter. What is important is the destination you reach-ethy.
-- **8036**: The baby star trees sprout-ethy from starseeds taken from the Great Star Tree. We feel-ethy that the lack of magical energy-ethy in the Great Star Tree is causing problems in these seeds.
-- **8037**: On the outside, the Great Star Tree looks as it has for the past-ethy few centuries, but reports from our researchers tell-ethy us that it has begun to slowly rotaru from the inside.
-- **8038**: Up until now, we have left-ethy this grave problem in the hands of our younger colleagues. However, now it is time-ethy that we professors take-ethy control.
-- **8040**: Ahem! The road to truth-ethy is often a windy-mindy one, is it not, Chumimi?
-- **8042**: The Rhinostery-ethy has worked in cooperation with Heavens Tower to conduct-ethy various research on the Great Star Tree. However, there has been only so much they could do.
-- **8043**: As the next phase of our plan, we would like to travel-ethy deep beneath the Great Star Tree and see if we can get to the roots of this problem, so to speak-ethy.
-- **8049**: Hmmm, you have-ethy a point. Doctor Shantotto, we couldn't get you to go down there with our adventurer, could-ethy we?
-- **8051**: You don't mean-ethy Karaha-Baruha's laboratory, do you? I wouldn't advise-ethy on mixing business and pleasure at a time like this.
-- **8054**: If you think that I'm going to take-ethy any more part in these games you're playing...
-- **8056**: Oh!
-- **8068**: We are all ready to go, go, go.
-- **8070**: Wonderful, Professor. At times you surprise-ethy us.
-- **8076**: Hmmm...I see. Magic stagnation in the Toraimarai Canal... It does make-ethy sense.
-- **8077**: It has been-ethy years since the magic towers in Sarutabaruta have operated. This must-ethy be what is affecting the flow of magic in the canal.
-- **8078**: However, if our adventurer has succeeded in cleaning up-ethy some of this stagnation, then things should get-ethy better-batter for the time being.
-- **8080**: However, now we will have-ethy to arrange a regular cleaning of this stagnation to prevent-ethy our problem from getting any worse.
-- **8085**: Yes, yes, it could mean-ethy anything...but where is Doctor Shantotto? She didn't go to...
-- **8087**: Doctor! You didn't travel-ethy to Karaha-Baruha's laboratory, did you?
-- **8088**: And after I warned you not to...
-- **8090**: ... That is just-ethy terrible...
+- **7834**: Miss Chumimi, I apologize-thy for being late. It took-ethy me forever to round up these two!
+- **7835**: Ahem. Now, where was I? Ah, yes! The reason I called-ethy you all here today.
+- **7841**: Now, professor! Don't rush-ethy into any conclusions.
+- **7842**: Coming to conclusions before we have-ethy any data is not logical. We must cross all our I's and dot all our T's before making any new theories.
+- **7851**: Soil? Light? Are you two dimwits through-ethy yet? The problem obviously-ethy lies in the water!
+- **7852**: Listen. Recently-ethy, I have had many reports of problems with Sarutabaruta's water.
+- **7853**: These star trees are offspring-ethy of the Great Star Tree. They have existed-ethy in Windurst for many-wany generations!
+- **7854**: They have been around-ethy since the times when magic was overflowing in these parts. Of course, they're going to be sensitive to a drop-ethy in magic levels in the water!
+- **7858**: Just one moment! Did you not hear-ethy my scientific theory-ethy on the water?
+- **7861**: Water!
+- **7866**: Quiet, both of you, or I'll collect-ethy on those debts you owe me!
+- **7871**: ... You know, she does have-ethy a point...
+- **7872**: I'll have the Rhinostery send-ethy over a large shipment of Giddeus Water. Good day!
+- **7903**: I'm sorry to keep-ethy you waiting, Miss Chumimi. Now show-ethy us how my plan worked.
+- **7908**: ... I see. It's time we took-ethy this problem a little more seriously.
+- **7912**: Chumimi, Chumimi... We scientists give-ethy a numerical rating to any problems brought before us.
+- **7913**: Ranking the problem helps give-ethy us an idea of how much brainy-wainy power is needed to solve it. This prevents us from wasting any of our time.
+- **7914**: Listen, you two. We underestimated this problem-ethy here before us. Let's re-rank-ethy and re-think-ethy our predicament.
+- **7917**: Y-yes, well, let us examine-ethy this problem from the beginning. If nothing in the water, soil, or light has been changed, then we must focus-ethy on the moment that things began going wrong.
+- **7918**: There must-ethy be a logical cause for every effect. What we must-ethy determine is when the "effect" took-ethy place.
+- **7922**: Chumimi, approximately when did the star trees begin-ethy to wither-hither?
+- **7924**: Twenty years... A lot can happen-ethy in twenty years, you know. Do you two have any ideas?
+- **7947**: What is this you say-ethy, Professor? Do you have-ethy anything you'd like to share-ethy with us?
+- **7950**: What is going on here?
+- **7952**: You have-ethy a point...
+- **7963**: I commend-ethy you on your efforts. We got the details from Koru-Moru while you were away.
+- **7966**: Now let's put-ethy our heads together once more. Can either of you remember-ethy anything that might have caused the star trees to wither-hither?
+- **7998**: What? Did you remember-ethy something?
+- **8002**: That is what our adventurer here is going to find-ethy out for us.
+- **8010**: So this is what Doctor Shantotto thinks-ethy is causing all our problems...
+- **8016**: You mean to tell-ethy me, you thought a curse from this doll was affecting the star trees? How unscientific-ethy!
+- **8017**: However, we cannot take-ethy any chances. This doll may know-ethy something we don't.
+- **8019**: Good work, Miss Chumimi. Now you can leave-ethy the rest to me.
+- **8020**: Oh, and our adventurer. I commend-ethy you on your work as well. As a measure of our gratitude, please accept-ethy this.
+- **8027**: First, let me assure-ethy you that some crazy-wazy curse is definitely not the cause-ethy of the star trees' problem.
+- **8028**: And it is most certainly not anger pent-ethy up by the star trees for acts of stupidity-ethy taken by our colleague, Koru-Moru.
+- **8030**: Coming to these conclusions, we have decided-ethy on putting forth all our effort into solving the problem.
+- **8032**: Chumimi, Chumimi. The road one travels does-ethy not matter. What is important is the destination you reach-ethy.
+- **8037**: The baby star trees sprout-ethy from starseeds taken from the Great Star Tree. We feel-ethy that the lack of magical energy-ethy in the Great Star Tree is causing problems in these seeds.
+- **8038**: On the outside, the Great Star Tree looks as it has for the past-ethy few centuries, but reports from our researchers tell-ethy us that it has begun to slowly rotaru from the inside.
+- **8039**: Up until now, we have left-ethy this grave problem in the hands of our younger colleagues. However, now it is time-ethy that we professors take-ethy control.
+- **8041**: Ahem! The road to truth-ethy is often a windy-mindy one, is it not, Chumimi?
+- **8043**: The Rhinostery-ethy has worked in cooperation with Heavens Tower to conduct-ethy various research on the Great Star Tree. However, there has been only so much they could do.
+- **8044**: As the next phase of our plan, we would like to travel-ethy deep beneath the Great Star Tree and see if we can get to the roots of this problem, so to speak-ethy.
+- **8050**: Hmmm, you have-ethy a point. Doctor Shantotto, we couldn't get you to go down there with our adventurer, could-ethy we?
+- **8052**: You don't mean-ethy Karaha-Baruha's laboratory, do you? I wouldn't advise-ethy on mixing business and pleasure at a time like this.
+- **8055**: If you think that I'm going to take-ethy any more part in these games you're playing...
+- **8057**: Oh!
+- **8069**: We are all ready to go, go, go.
+- **8071**: Wonderful, Professor. At times you surprise-ethy us.
+- **8077**: Hmmm...I see. Magic stagnation in the Toraimarai Canal... It does make-ethy sense.
+- **8078**: It has been-ethy years since the magic towers in Sarutabaruta have operated. This must-ethy be what is affecting the flow of magic in the canal.
+- **8079**: However, if our adventurer has succeeded in cleaning up-ethy some of this stagnation, then things should get-ethy better-batter for the time being.
+- **8081**: However, now we will have-ethy to arrange a regular cleaning of this stagnation to prevent-ethy our problem from getting any worse.
+- **8086**: Yes, yes, it could mean-ethy anything...but where is Doctor Shantotto? She didn't go to...
+- **8088**: Doctor! You didn't travel-ethy to Karaha-Baruha's laboratory, did you?
+- **8089**: And after I warned you not to...
+- **8091**: ... That is just-ethy terrible...
 
 ## Events
 
@@ -872,7 +872,7 @@
 #### Opcodes
 
 ```
-  0: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
+  0: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
     → "Miss Chumimi, I apologize-thy for being late. It took-ethy me forever to round up these two!"
   1: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0167 [0x00] END_REQSTACK()
@@ -899,7 +899,7 @@
 
 ```
   0: 0x0168 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x05)
-  1: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
+  1: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
     → "Ahem. Now, where was I? Ah, yes! The reason I called-ethy you all here today."
   2: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0173 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x06)
@@ -928,12 +928,12 @@
 
 ```
   0: 0x017B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x07)
-  1: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
+  1: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
     → "Now, professor! Don't rush-ethy into any conclusions."
   2: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0186 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x08)
   4: 0x018D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x03)
-  5: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+  5: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "Coming to conclusions before we have-ethy any data is not logical. We must cross all our I's and dot all our T's before making any new theories."
   6: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0198 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x04)
@@ -961,7 +961,7 @@
 
 ```
   0: 0x01A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0B)
-  1: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
+  1: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
     → "Soil? Light? Are you two dimwits through-ethy yet? The problem obviously-ethy lies in the water!"
   2: 0x01AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0C)
@@ -990,12 +990,12 @@
 
 ```
   0: 0x01B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  1: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
+  1: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
     → "Listen. Recently-ethy, I have had many reports of problems with Sarutabaruta's water."
   2: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
   4: 0x01C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x03)
-  5: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+  5: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "These star trees are offspring-ethy of the Great Star Tree. They have existed-ethy in Windurst for many-wany generations!"
   6: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x04)
@@ -1023,7 +1023,7 @@
 
 ```
   0: 0x01D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x05)
-  1: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
+  1: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
     → "They have been around-ethy since the times when magic was overflowing in these parts. Of course, they're going to be sensitive to a drop-ethy in magic levels in the water!"
   2: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x06)
@@ -1051,7 +1051,7 @@
 
 ```
   0: 0x01EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0B)
-  1: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+  1: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
     → "Just one moment! Did you not hear-ethy my scientific theory-ethy on the water?"
   2: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0C)
@@ -1080,7 +1080,7 @@
 
 ```
   0: 0x01FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0B)
-  1: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
+  1: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
     → "Water!"
   2: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0209 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0C)
@@ -1108,7 +1108,7 @@
 
 ```
   0: 0x0211 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x09)
-  1: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+  1: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "Quiet, both of you, or I'll collect-ethy on those debts you owe me!"
   2: 0x021B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x021C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0A)
@@ -1136,7 +1136,7 @@
 
 ```
   0: 0x0224 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x03)
-  1: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
+  1: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
     → "... You know, she does have-ethy a point..."
   2: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x022F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x04)
@@ -1164,7 +1164,7 @@
 
 ```
   0: 0x0237 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x05)
-  1: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
+  1: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
     → "I'll have the Rhinostery send-ethy over a large shipment of Giddeus Water. Good day!"
   2: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0242 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x06)
@@ -1292,7 +1292,7 @@
 #### Opcodes
 
 ```
-  0: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
+  0: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
     → "I'm sorry to keep-ethy you waiting, Miss Chumimi. Now show-ethy us how my plan worked."
   1: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0283 [0x00] END_REQSTACK()
@@ -1317,7 +1317,7 @@
 #### Opcodes
 
 ```
-  0: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
+  0: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
     → "... I see. It's time we took-ethy this problem a little more seriously."
   1: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0288 [0x00] END_REQSTACK()
@@ -1343,11 +1343,11 @@
 #### Opcodes
 
 ```
-  0: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+  0: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "Chumimi, Chumimi... We scientists give-ethy a numerical rating to any problems brought before us."
   1: 0x028C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x028D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  3: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+  3: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "Ranking the problem helps give-ethy us an idea of how much brainy-wainy power is needed to solve it. This prevents us from wasting any of our time."
   4: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0298 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -1373,7 +1373,7 @@
 #### Opcodes
 
 ```
-  0: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+  0: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "Listen, you two. We underestimated this problem-ethy here before us. Let's re-rank-ethy and re-think-ethy our predicament."
   1: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02A4 [0x00] END_REQSTACK()
@@ -1398,7 +1398,7 @@
 #### Opcodes
 
 ```
-  0: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
+  0: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
     → "Y-yes, well, let us examine-ethy this problem from the beginning. If nothing in the water, soil, or light has been changed, then we must focus-ethy on the moment that things began going wrong."
   1: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02A9 [0x00] END_REQSTACK()
@@ -1423,7 +1423,7 @@
 #### Opcodes
 
 ```
-  0: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
+  0: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
     → "There must-ethy be a logical cause for every effect. What we must-ethy determine is when the "effect" took-ethy place."
   1: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02AE [0x00] END_REQSTACK()
@@ -1451,7 +1451,7 @@
 
 ```
   0: 0x02AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  1: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+  1: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "Chumimi, approximately when did the star trees begin-ethy to wither-hither?"
   2: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -1477,7 +1477,7 @@
 #### Opcodes
 
 ```
-  0: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
+  0: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
     → "Twenty years... A lot can happen-ethy in twenty years, you know. Do you two have any ideas?"
   1: 0x02C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02C6 [0x00] END_REQSTACK()
@@ -1504,7 +1504,7 @@
 
 ```
   0: 0x02C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  1: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+  1: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "What is this you say-ethy, Professor? Do you have-ethy anything you'd like to share-ethy with us?"
   2: 0x02D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -1530,7 +1530,7 @@
 #### Opcodes
 
 ```
-  0: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
+  0: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
     → "What is going on here?"
   1: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DE [0x00] END_REQSTACK()
@@ -1558,7 +1558,7 @@
 
 ```
   0: 0x02DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x03)
-  1: 0x02E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
+  1: 0x02E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
     → "You have-ethy a point..."
   2: 0x02E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x04)
@@ -1688,7 +1688,7 @@
 #### Opcodes
 
 ```
-  0: 0x0327 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+  0: 0x0327 [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "I commend-ethy you on your efforts. We got the details from Koru-Moru while you were away."
   1: 0x032A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x032B [0x00] END_REQSTACK()
@@ -1714,7 +1714,7 @@
 #### Opcodes
 
 ```
-  0: 0x032C [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+  0: 0x032C [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "Now let's put-ethy our heads together once more. Can either of you remember-ethy anything that might have caused the star trees to wither-hither?"
   1: 0x032F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0330 [0x00] END_REQSTACK()
@@ -1741,7 +1741,7 @@
 
 ```
   0: 0x0331 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x05)
-  1: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
+  1: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
     → "What? Did you remember-ethy something?"
   2: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x033C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x06)
@@ -1769,7 +1769,7 @@
 
 ```
   0: 0x0344 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  1: 0x034B [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
+  1: 0x034B [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
     → "That is what our adventurer here is going to find-ethy out for us."
   2: 0x034E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x034F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -1853,7 +1853,7 @@
 ```
   0: 0x0383 [0x6E] EventEntity uses emote 6*
   1: 0x038A [0x99] Wait for EventEntity animation to complete
-  2: 0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
+  2: 0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
     → "So this is what Doctor Shantotto thinks-ethy is causing all our problems..."
   3: 0x0392 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0393 [0x00] END_REQSTACK()
@@ -1880,7 +1880,7 @@
 
 ```
   0: 0x0394 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  1: 0x039B [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
+  1: 0x039B [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
     → "You mean to tell-ethy me, you thought a curse from this doll was affecting the star trees? How unscientific-ethy!"
   2: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x039F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -1908,7 +1908,7 @@
 
 ```
   0: 0x03A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x03)
-  1: 0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
+  1: 0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "However, we cannot take-ethy any chances. This doll may know-ethy something we don't."
   2: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x04)
@@ -1936,7 +1936,7 @@
 
 ```
   0: 0x03BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  1: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
+  1: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
     → "Good work, Miss Chumimi. Now you can leave-ethy the rest to me."
   2: 0x03C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -1963,7 +1963,7 @@
 #### Opcodes
 
 ```
-  0: 0x03CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
+  0: 0x03CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
     → "Oh, and our adventurer. I commend-ethy you on your work as well. As a measure of our gratitude, please accept-ethy this."
   1: 0x03D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03D1 [0x00] END_REQSTACK()
@@ -2090,10 +2090,10 @@
 
 ```
   0: 0x0401 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  1: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
+  1: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
     → "First, let me assure-ethy you that some crazy-wazy curse is definitely not the cause-ethy of the star trees' problem."
   2: 0x040B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x040C [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
+  3: 0x040C [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
     → "And it is most certainly not anger pent-ethy up by the star trees for acts of stupidity-ethy taken by our colleague, Koru-Moru."
   4: 0x040F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0410 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -2121,7 +2121,7 @@
 
 ```
   0: 0x0418 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0B)
-  1: 0x041F [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
+  1: 0x041F [0x1D] PRINT_EVENT_MESSAGE(message_id=8030*)
     → "Coming to these conclusions, we have decided-ethy on putting forth all our effort into solving the problem."
   2: 0x0422 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0423 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0C)
@@ -2147,7 +2147,7 @@
 #### Opcodes
 
 ```
-  0: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
+  0: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=8032*)
     → "Chumimi, Chumimi. The road one travels does-ethy not matter. What is important is the destination you reach-ethy."
   1: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x042F [0x00] END_REQSTACK()
@@ -2177,7 +2177,7 @@
   1: 0x0437 [0x99] Wait for EventEntity animation to complete
   2: 0x043C [0x1C] WAIT(30* ticks)
   3: 0x043F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  4: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
+  4: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
     → "The baby star trees sprout-ethy from starseeds taken from the Great Star Tree. We feel-ethy that the lack of magical energy-ethy in the Great Star Tree is causing problems in these seeds."
   5: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x044A [0x00] END_REQSTACK()
@@ -2206,10 +2206,10 @@
 ```
   0: 0x044B [0x6E] EventEntity uses emote 7*
   1: 0x0452 [0x99] Wait for EventEntity animation to complete
-  2: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
+  2: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
     → "On the outside, the Great Star Tree looks as it has for the past-ethy few centuries, but reports from our researchers tell-ethy us that it has begun to slowly rotaru from the inside."
   3: 0x045A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
+  4: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
     → "Up until now, we have left-ethy this grave problem in the hands of our younger colleagues. However, now it is time-ethy that we professors take-ethy control."
   5: 0x045E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x045F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -2237,7 +2237,7 @@
 
 ```
   0: 0x0467 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0D)
-  1: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
+  1: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
     → "Ahem! The road to truth-ethy is often a windy-mindy one, is it not, Chumimi?"
   2: 0x0471 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0472 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x0E)
@@ -2263,7 +2263,7 @@
 #### Opcodes
 
 ```
-  0: 0x047A [0x1D] PRINT_EVENT_MESSAGE(message_id=8042*)
+  0: 0x047A [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
     → "The Rhinostery-ethy has worked in cooperation with Heavens Tower to conduct-ethy various research on the Great Star Tree. However, there has been only so much they could do."
   1: 0x047D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x047E [0x00] END_REQSTACK()
@@ -2289,7 +2289,7 @@
 #### Opcodes
 
 ```
-  0: 0x047F [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
+  0: 0x047F [0x1D] PRINT_EVENT_MESSAGE(message_id=8044*)
     → "As the next phase of our plan, we would like to travel-ethy deep beneath the Great Star Tree and see if we can get to the roots of this problem, so to speak-ethy."
   1: 0x0482 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0483 [0x00] END_REQSTACK()
@@ -2314,7 +2314,7 @@
 #### Opcodes
 
 ```
-  0: 0x0484 [0x1D] PRINT_EVENT_MESSAGE(message_id=8049*)
+  0: 0x0484 [0x1D] PRINT_EVENT_MESSAGE(message_id=8050*)
     → "Hmmm, you have-ethy a point. Doctor Shantotto, we couldn't get you to go down there with our adventurer, could-ethy we?"
   1: 0x0487 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0488 [0x00] END_REQSTACK()
@@ -2341,7 +2341,7 @@
 
 ```
   0: 0x0489 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x07)
-  1: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=8051*)
+  1: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=8052*)
     → "You don't mean-ethy Karaha-Baruha's laboratory, do you? I wouldn't advise-ethy on mixing business and pleasure at a time like this."
   2: 0x0493 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0494 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x08)
@@ -2368,7 +2368,7 @@
 #### Opcodes
 
 ```
-  0: 0x049C [0x1D] PRINT_EVENT_MESSAGE(message_id=8054*)
+  0: 0x049C [0x1D] PRINT_EVENT_MESSAGE(message_id=8055*)
     → "If you think that I'm going to take-ethy any more part in these games you're playing..."
   1: 0x049F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04A0 [0x00] END_REQSTACK()
@@ -2393,7 +2393,7 @@
 #### Opcodes
 
 ```
-  0: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8056*)
+  0: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8057*)
     → "Oh!"
   1: 0x04A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04A5 [0x00] END_REQSTACK()
@@ -2440,7 +2440,7 @@
 #### Opcodes
 
 ```
-  0: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8068*)
+  0: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8069*)
     → "We are all ready to go, go, go."
   1: 0x04AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04AB [0x00] END_REQSTACK()
@@ -2467,7 +2467,7 @@
 
 ```
   0: 0x04AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  1: 0x04B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8070*)
+  1: 0x04B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8071*)
     → "Wonderful, Professor. At times you surprise-ethy us."
   2: 0x04B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -2515,7 +2515,7 @@
 #### Opcodes
 
 ```
-  0: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
+  0: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
     → "Hmmm...I see. Magic stagnation in the Toraimarai Canal... It does make-ethy sense."
   1: 0x04C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04C4 [0x00] END_REQSTACK()
@@ -2542,7 +2542,7 @@
 
 ```
   0: 0x04C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x05)
-  1: 0x04CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
+  1: 0x04CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
     → "It has been-ethy years since the magic towers in Sarutabaruta have operated. This must-ethy be what is affecting the flow of magic in the canal."
   2: 0x04CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x06)
@@ -2568,7 +2568,7 @@
 #### Opcodes
 
 ```
-  0: 0x04D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
+  0: 0x04D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
     → "However, if our adventurer has succeeded in cleaning up-ethy some of this stagnation, then things should get-ethy better-batter for the time being."
   1: 0x04DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04DC [0x00] END_REQSTACK()
@@ -2595,7 +2595,7 @@
 
 ```
   0: 0x04DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x01)
-  1: 0x04E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
+  1: 0x04E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
     → "However, now we will have-ethy to arrange a regular cleaning of this stagnation to prevent-ethy our problem from getting any worse."
   2: 0x04E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x02)
@@ -2623,7 +2623,7 @@
 
 ```
   0: 0x04F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x07)
-  1: 0x04F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
+  1: 0x04F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
     → "Yes, yes, it could mean-ethy anything...but where is Doctor Shantotto? She didn't go to..."
   2: 0x04FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17768534/0x010F2056), tag_num=0x08)
@@ -2649,10 +2649,10 @@
 #### Opcodes
 
 ```
-  0: 0x0503 [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
+  0: 0x0503 [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
     → "Doctor! You didn't travel-ethy to Karaha-Baruha's laboratory, did you?"
   1: 0x0506 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
+  2: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
     → "And after I warned you not to..."
   3: 0x050A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x050B [0x00] END_REQSTACK()
@@ -2678,7 +2678,7 @@
 #### Opcodes
 
 ```
-  0: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=8090*)
+  0: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=8091*)
     → "... That is just-ethy terrible..."
   1: 0x050F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0510 [0x00] END_REQSTACK()

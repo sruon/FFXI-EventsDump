@@ -25,17 +25,17 @@
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
 |       1 | 0x0255      |         597 |
-|       2 | 0x1CD2      |        7378 |
-|       3 | 0x1CD3      |        7379 |
-|       4 | 0x1CD5      |        7381 |
-|       5 | 0x1CD4      |        7380 |
+|       2 | 0x1CD3      |        7379 |
+|       3 | 0x1CD4      |        7380 |
+|       4 | 0x1CD6      |        7382 |
+|       5 | 0x1CD5      |        7381 |
 
 ## String References
 
-- **7378**: You see flecks of a shiny material. It looks like they were once $0.
-- **7379**: You put in $1 $0 .
-- **7380**: No, that doesn't seem right. There must be something else you can put in.
-- **7381**: It's full.
+- **7379**: You see flecks of a shiny material. It looks like they were once $0.
+- **7380**: You put in $1 $0 .
+- **7381**: No, that doesn't seem right. There must be something else you can put in.
+- **7382**: It's full.
 
 ## Events
 
@@ -85,7 +85,7 @@
   1: 0x000A [0x4C] EventEntity->StatusEvent = 8 // Open door
   2: 0x000B [0x1C] WAIT(60* ticks)
   3: 0x000E [0x03] Work_Zone[2] = 597*
-  4: 0x0013 [0x48] [System] [7378*]:
+  4: 0x0013 [0x48] [System] [7379*]:
     → "You see flecks of a shiny material. It looks like they were once $0."
   5: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0017 [0x4D] EventEntity->StatusEvent = 9 // Close door
@@ -117,7 +117,7 @@
   0: 0x001D [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x001E [0x4A] LocalPlayer looks at Refiner Lid (ID: 17363357/0x0108F19D)
   2: 0x0027 [0x4C] EventEntity->StatusEvent = 8 // Open door
-  3: 0x0028 [0x48] [System] [7379*]:
+  3: 0x0028 [0x48] [System] [7380*]:
     → "You put in $1 $0 ."
   4: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x002C [0x4D] EventEntity->StatusEvent = 9 // Close door
@@ -149,7 +149,7 @@
   0: 0x002F [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0030 [0x4A] LocalPlayer looks at Refiner Lid (ID: 17363357/0x0108F19D)
   2: 0x0039 [0x4C] EventEntity->StatusEvent = 8 // Open door
-  3: 0x003A [0x48] [System] [7381*]:
+  3: 0x003A [0x48] [System] [7382*]:
     → "It's full."
   4: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x003E [0x4D] EventEntity->StatusEvent = 9 // Close door
@@ -177,7 +177,7 @@
 
 ```
   0: 0x0041 [0x4A] LocalPlayer looks at Refiner Lid (ID: 17363357/0x0108F19D)
-  1: 0x004A [0x48] [System] [7380*]:
+  1: 0x004A [0x48] [System] [7381*]:
     → "No, that doesn't seem right. There must be something else you can put in."
   2: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x004E [0x21] END_EVENT

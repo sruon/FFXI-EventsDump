@@ -20,19 +20,19 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FDE      |        8158 |
-|       1 | 0x1FDF      |        8159 |
+|       0 | 0x1FDF      |        8159 |
+|       1 | 0x1FE0      |        8160 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x1FE0      |        8160 |
-|       5 | 0x1FE1      |        8161 |
+|       4 | 0x1FE1      |        8161 |
+|       5 | 0x1FE2      |        8162 |
 
 ## String References
 
-- **8158**: There's a suspicious-looking book here...
-- **8159**: Check its contents? [No way!/Take a peek.]
-- **8160**: Oh, no! You've been cursed!
-- **8161**: ...or so you thought for a second there.
+- **8159**: There's a suspicious-looking book here...
+- **8160**: Check its contents? [No way!/Take a peek.]
+- **8161**: Oh, no! You've been cursed!
+- **8162**: ...or so you thought for a second there.
 
 ## Events
 
@@ -80,10 +80,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [8158*]:
+  0: 0x0001 [0x48] [System] [8159*]:
     → "There's a suspicious-looking book here..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=8159*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=8160*, default_option=0*, option_flags=0*)
     → "Check its contents? [No way!/Take a peek.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001D
@@ -91,10 +91,10 @@
   6: 0x001A [0x01] GOTO 0x0035
   7: 0x001D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0035
   8: 0x0025 [0x03] Work_Zone[1] = 1*
-  9: 0x002A [0x48] [System] [8160*]:
+  9: 0x002A [0x48] [System] [8161*]:
     → "Oh, no! You've been cursed!"
  10: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x002E [0x48] [System] [8161*]:
+ 11: 0x002E [0x48] [System] [8162*]:
     → "...or so you thought for a second there."
  12: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0032 [0x01] GOTO 0x0035

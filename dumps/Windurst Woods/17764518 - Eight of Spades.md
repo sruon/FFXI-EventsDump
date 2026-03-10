@@ -23,13 +23,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F66      |        8038 |
-|       2 | 0x1F67      |        8039 |
+|       1 | 0x1F67      |        8039 |
+|       2 | 0x1F68      |        8040 |
 
 ## String References
 
-- **8038**: WhEn$26tRAvel-INg lONg$26dIStANcEs, CHoCoBOs$26cAn eAse yOur$26jOUrney!
-- **8039**: bUt oNe$26nEEds tO$26fUlfIll mANy$26rEqUIre-mENts bEfOre$26oNe cAn$26rIDe chOcObOs!
+- **8039**: WhEn$26tRAvel-INg lONg$26dIStANcEs, CHoCoBOs$26cAn eAse yOur$26jOUrney!
+- **8040**: bUt oNe$26nEEds tO$26fUlfIll mANy$26rEqUIre-mENts bEfOre$26oNe cAn$26rIDe chOcObOs!
 
 ## Events
 
@@ -124,10 +124,10 @@
   0: 0x000B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0010 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0011 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
+  3: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
     → "WhEn$26tRAvel-INg lONg$26dIStANcEs, CHoCoBOs$26cAn eAse yOur$26jOUrney!"
   4: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
+  5: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
     → "bUt oNe$26nEEds tO$26fUlfIll mANy$26rEqUIre-mENts bEfOre$26oNe cAn$26rIDe chOcObOs!"
   6: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

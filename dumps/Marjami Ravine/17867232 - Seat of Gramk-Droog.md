@@ -62,7 +62,7 @@
 |      34 | 0x0275      |         629 |
 |      35 | 0x000F      |          15 |
 |      36 | 0x00B4      |         180 |
-|      37 | 0x1F0C      |        7948 |
+|      37 | 0x1F0D      |        7949 |
 |      38 | 0x010D      |         269 |
 |      39 | 0x0078      |         120 |
 |      40 | 0x176EC     |       95980 |
@@ -70,11 +70,11 @@
 |      42 | 0x513B      |       20795 |
 |      43 | 0x0032      |          50 |
 |      44 | 0x00A0      |         160 |
-|      45 | 0x1F0D      |        7949 |
+|      45 | 0x1F0E      |        7950 |
 |      46 | 0x0028      |          40 |
-|      47 | 0x1F0E      |        7950 |
+|      47 | 0x1F0F      |        7951 |
 |      48 | 0x003B      |          59 |
-|      49 | 0x1F0F      |        7951 |
+|      49 | 0x1F10      |        7952 |
 |      50 | 0x0096      |         150 |
 |      51 | 0xF20B      |       61963 |
 |      52 | 0xFFFEEEAA  |  4294897322 |
@@ -99,10 +99,10 @@
 |      71 | 0x0CFE      |        3326 |
 |      72 | 0x0D57      |        3415 |
 |      73 | 0x003C      |          60 |
-|      74 | 0x1F10      |        7952 |
-|      75 | 0x1F11      |        7953 |
+|      74 | 0x1F11      |        7953 |
+|      75 | 0x1F12      |        7954 |
 |      76 | 0x0039      |          57 |
-|      77 | 0x1F12      |        7954 |
+|      77 | 0x1F13      |        7955 |
 |      78 | 0x0D39      |        3385 |
 |      79 | 0x000A      |          10 |
 |      80 | 0x00BE      |         190 |
@@ -137,32 +137,32 @@
 |     109 | 0xFFFE93AD  |  4294874029 |
 |     110 | 0x5079      |       20601 |
 |     111 | 0x008C      |         140 |
-|     112 | 0x1F13      |        7955 |
-|     113 | 0x1F14      |        7956 |
+|     112 | 0x1F14      |        7956 |
+|     113 | 0x1F15      |        7957 |
 |     114 | 0x0064      |         100 |
 |     115 | 0x0005      |           5 |
 |     116 | 0x0015      |          21 |
-|     117 | 0x1F15      |        7957 |
-|     118 | 0x1F16      |        7958 |
-|     119 | 0x1F17      |        7959 |
-|     120 | 0x1F18      |        7960 |
-|     121 | 0x1F19      |        7961 |
+|     117 | 0x1F16      |        7958 |
+|     118 | 0x1F17      |        7959 |
+|     119 | 0x1F18      |        7960 |
+|     120 | 0x1F19      |        7961 |
+|     121 | 0x1F1A      |        7962 |
 |     122 | 0x0D58      |        3416 |
-|     123 | 0x1F1A      |        7962 |
-|     124 | 0x1F1B      |        7963 |
-|     125 | 0x1F1C      |        7964 |
-|     126 | 0x1F1D      |        7965 |
-|     127 | 0x1F1E      |        7966 |
+|     123 | 0x1F1B      |        7963 |
+|     124 | 0x1F1C      |        7964 |
+|     125 | 0x1F1D      |        7965 |
+|     126 | 0x1F1E      |        7966 |
+|     127 | 0x1F1F      |        7967 |
 |     128 | 0x10A77     |       68215 |
 |     129 | 0xFFFEB60F  |  4294882831 |
 |     130 | 0x4E0A      |       19978 |
-|     131 | 0x1F1F      |        7967 |
+|     131 | 0x1F20      |        7968 |
 |     132 | 0x005A      |          90 |
-|     133 | 0x1F20      |        7968 |
+|     133 | 0x1F21      |        7969 |
 |     134 | 0x0007      |           7 |
-|     135 | 0x1F21      |        7969 |
+|     135 | 0x1F22      |        7970 |
 |     136 | 0x0D02      |        3330 |
-|     137 | 0x1F22      |        7970 |
+|     137 | 0x1F23      |        7971 |
 |     138 | 0x0001      |           1 |
 |     139 | 0x0002      |           2 |
 |     140 | 0x0003      |           3 |
@@ -170,7 +170,7 @@
 |     142 | 0x00AA      |         170 |
 |     143 | 0x0006      |           6 |
 |     144 | 0x0008      |           8 |
-|     145 | 0x1F23      |        7971 |
+|     145 | 0x1F24      |        7972 |
 |     146 | 0xF8A2      |       63650 |
 |     147 | 0xFFFEE200  |  4294894080 |
 |     148 | 0x462E      |       17966 |
@@ -179,7 +179,7 @@
 |     151 | 0xFFFEE075  |  4294893685 |
 |     152 | 0x470B      |       18187 |
 |     153 | 0x0014      |          20 |
-|     154 | 0x1F24      |        7972 |
+|     154 | 0x1F25      |        7973 |
 |     155 | 0x23CE      |        9166 |
 |     156 | 0xFFFF7313  |  4294931219 |
 |     157 | 0x4D21      |       19745 |
@@ -201,28 +201,28 @@
 |     173 | 0x4E1F      |       19999 |
 |     174 | 0x08F6      |        2294 |
 |     175 | 0x0D21      |        3361 |
-|     176 | 0x1F25      |        7973 |
-|     177 | 0x1F26      |        7974 |
-|     178 | 0x1F27      |        7975 |
-|     179 | 0x1F28      |        7976 |
+|     176 | 0x1F26      |        7974 |
+|     177 | 0x1F27      |        7975 |
+|     178 | 0x1F28      |        7976 |
+|     179 | 0x1F29      |        7977 |
 |     180 | 0x082A      |        2090 |
 |     181 | 0xFFFF79F2  |  4294932978 |
 |     182 | 0x0895      |        2197 |
-|     183 | 0x1F29      |        7977 |
-|     184 | 0x1F2A      |        7978 |
+|     183 | 0x1F2A      |        7978 |
+|     184 | 0x1F2B      |        7979 |
 |     185 | 0x0009      |           9 |
-|     186 | 0x1F2B      |        7979 |
+|     186 | 0x1F2C      |        7980 |
 |     187 | 0x002D      |          45 |
-|     188 | 0x1F2C      |        7980 |
-|     189 | 0x1F2D      |        7981 |
-|     190 | 0x1F2E      |        7982 |
+|     188 | 0x1F2D      |        7981 |
+|     189 | 0x1F2E      |        7982 |
+|     190 | 0x1F2F      |        7983 |
 |     191 | 0x0108      |         264 |
-|     192 | 0x1F2F      |        7983 |
-|     193 | 0x1F30      |        7984 |
+|     192 | 0x1F30      |        7984 |
+|     193 | 0x1F31      |        7985 |
 |     194 | 0x0047      |          71 |
-|     195 | 0x1F31      |        7985 |
-|     196 | 0x1F32      |        7986 |
-|     197 | 0x1F33      |        7987 |
+|     195 | 0x1F32      |        7986 |
+|     196 | 0x1F33      |        7987 |
+|     197 | 0x1F34      |        7988 |
 |     198 | 0xF196      |       61846 |
 |     199 | 0xFFFEF6F5  |  4294899445 |
 |     200 | 0x35C7      |       13767 |
@@ -232,12 +232,12 @@
 |     204 | 0x4BC8      |       19400 |
 |     205 | 0x0C3B      |        3131 |
 |     206 | 0x0D59      |        3417 |
-|     207 | 0x1F34      |        7988 |
-|     208 | 0x1F35      |        7989 |
-|     209 | 0x1F36      |        7990 |
-|     210 | 0x1F37      |        7991 |
-|     211 | 0x1F38      |        7992 |
-|     212 | 0x1F39      |        7993 |
+|     207 | 0x1F35      |        7989 |
+|     208 | 0x1F36      |        7990 |
+|     209 | 0x1F37      |        7991 |
+|     210 | 0x1F38      |        7992 |
+|     211 | 0x1F39      |        7993 |
+|     212 | 0x1F3A      |        7994 |
 |     213 | 0x001B      |          27 |
 |     214 | 0x6563F     |      415295 |
 |     215 | 0x3E281     |      254593 |
@@ -259,26 +259,26 @@
 |     231 | 0x0302      |         770 |
 |     232 | 0x001D      |          29 |
 |     233 | 0x02EC      |         748 |
-|     234 | 0x1F3A      |        7994 |
-|     235 | 0x1F3B      |        7995 |
-|     236 | 0x1F3C      |        7996 |
+|     234 | 0x1F3B      |        7995 |
+|     235 | 0x1F3C      |        7996 |
+|     236 | 0x1F3D      |        7997 |
 |     237 | 0x61B9C     |      400284 |
 |     238 | 0x3B86A     |      243818 |
 |     239 | 0x62223     |      401955 |
 |     240 | 0x3B259     |      242265 |
 |     241 | 0xFFFF15A1  |  4294907297 |
-|     242 | 0x1F3D      |        7997 |
-|     243 | 0x1F3E      |        7998 |
+|     242 | 0x1F3E      |        7998 |
+|     243 | 0x1F3F      |        7999 |
 |     244 | 0x0CB9      |        3257 |
-|     245 | 0x1F3F      |        7999 |
-|     246 | 0x1F40      |        8000 |
+|     245 | 0x1F40      |        8000 |
+|     246 | 0x1F41      |        8001 |
 |     247 | 0x0024      |          36 |
-|     248 | 0x1F41      |        8001 |
-|     249 | 0x1F42      |        8002 |
+|     248 | 0x1F42      |        8002 |
+|     249 | 0x1F43      |        8003 |
 |     250 | 0x6288A     |      403594 |
 |     251 | 0x3C1B9     |      246201 |
 |     252 | 0xFFFF1598  |  4294907288 |
-|     253 | 0x1F43      |        8003 |
+|     253 | 0x1F44      |        8004 |
 |     254 | 0x0146      |         326 |
 |     255 | 0x17C2A     |       97322 |
 |     256 | 0xFFFE2CC2  |  4294847682 |
@@ -340,39 +340,39 @@
 |     312 | 0x0F08      |        3848 |
 |     313 | 0x005D      |          93 |
 |     314 | 0x003E      |          62 |
-|     315 | 0x1F44      |        8004 |
-|     316 | 0x1F45      |        8005 |
-|     317 | 0x1F46      |        8006 |
-|     318 | 0x1F47      |        8007 |
-|     319 | 0x1F48      |        8008 |
+|     315 | 0x1F45      |        8005 |
+|     316 | 0x1F46      |        8006 |
+|     317 | 0x1F47      |        8007 |
+|     318 | 0x1F48      |        8008 |
+|     319 | 0x1F49      |        8009 |
 |     320 | 0x0F09      |        3849 |
 |     321 | 0x005F      |          95 |
 |     322 | 0x007F      |         127 |
-|     323 | 0x1F49      |        8009 |
-|     324 | 0x1F4A      |        8010 |
-|     325 | 0x1F4B      |        8011 |
-|     326 | 0x1F4C      |        8012 |
-|     327 | 0x1F4D      |        8013 |
-|     328 | 0x1F4E      |        8014 |
-|     329 | 0x1F4F      |        8015 |
-|     330 | 0x1F50      |        8016 |
-|     331 | 0x1F51      |        8017 |
-|     332 | 0x1F52      |        8018 |
+|     323 | 0x1F4A      |        8010 |
+|     324 | 0x1F4B      |        8011 |
+|     325 | 0x1F4C      |        8012 |
+|     326 | 0x1F4D      |        8013 |
+|     327 | 0x1F4E      |        8014 |
+|     328 | 0x1F4F      |        8015 |
+|     329 | 0x1F50      |        8016 |
+|     330 | 0x1F51      |        8017 |
+|     331 | 0x1F52      |        8018 |
+|     332 | 0x1F53      |        8019 |
 |     333 | 0x0031      |          49 |
-|     334 | 0x1F53      |        8019 |
-|     335 | 0x1F54      |        8020 |
+|     334 | 0x1F54      |        8020 |
+|     335 | 0x1F55      |        8021 |
 |     336 | 0x0020      |          32 |
-|     337 | 0x1F55      |        8021 |
-|     338 | 0x1F56      |        8022 |
-|     339 | 0x1F57      |        8023 |
-|     340 | 0x1F58      |        8024 |
+|     337 | 0x1F56      |        8022 |
+|     338 | 0x1F57      |        8023 |
+|     339 | 0x1F58      |        8024 |
+|     340 | 0x1F59      |        8025 |
 |     341 | 0x0016      |          22 |
-|     342 | 0x1F59      |        8025 |
-|     343 | 0x1F5A      |        8026 |
-|     344 | 0x1F5B      |        8027 |
-|     345 | 0x1F5C      |        8028 |
+|     342 | 0x1F5A      |        8026 |
+|     343 | 0x1F5B      |        8027 |
+|     344 | 0x1F5C      |        8028 |
+|     345 | 0x1F5D      |        8029 |
 |     346 | 0x08E2      |        2274 |
-|     347 | 0x1F5D      |        8029 |
+|     347 | 0x1F5E      |        8030 |
 |     348 | 0x16B4F     |       93007 |
 |     349 | 0xFFFE2EFA  |  4294848250 |
 |     350 | 0x4FE0      |       20448 |
@@ -381,8 +381,8 @@
 |     353 | 0x5071      |       20593 |
 |     354 | 0x094C      |        2380 |
 |     355 | 0x0CBA      |        3258 |
-|     356 | 0x1F5E      |        8030 |
-|     357 | 0x1F5F      |        8031 |
+|     356 | 0x1F5F      |        8031 |
+|     357 | 0x1F60      |        8032 |
 |     358 | 0x10A05     |       68101 |
 |     359 | 0xFFFE75F8  |  4294866424 |
 |     360 | 0x520B      |       21003 |
@@ -402,14 +402,14 @@
 |     374 | 0xFFFE86CE  |  4294870734 |
 |     375 | 0x5137      |       20791 |
 |     376 | 0x008E      |         142 |
-|     377 | 0x1F60      |        8032 |
-|     378 | 0x1F61      |        8033 |
-|     379 | 0x1F62      |        8034 |
-|     380 | 0x1F63      |        8035 |
+|     377 | 0x1F61      |        8033 |
+|     378 | 0x1F62      |        8034 |
+|     379 | 0x1F63      |        8035 |
+|     380 | 0x1F64      |        8036 |
 |     381 | 0xF06B      |       61547 |
 |     382 | 0xFFFEBF13  |  4294885139 |
 |     383 | 0x4EA8      |       20136 |
-|     384 | 0x1F64      |        8036 |
+|     384 | 0x1F65      |        8037 |
 |     385 | 0x0034      |          52 |
 |     386 | 0x109D2     |       68050 |
 |     387 | 0xFFFE78A6  |  4294867110 |
@@ -440,23 +440,23 @@
 |     412 | 0xFFFEEECC  |  4294897356 |
 |     413 | 0x43A0      |       17312 |
 |     414 | 0x0F0C      |        3852 |
-|     415 | 0x1F65      |        8037 |
+|     415 | 0x1F66      |        8038 |
 |     416 | 0x0080      |         128 |
 |     417 | 0x00F0      |         240 |
-|     418 | 0x1F66      |        8038 |
-|     419 | 0x1F67      |        8039 |
-|     420 | 0x1F68      |        8040 |
-|     421 | 0x1F69      |        8041 |
-|     422 | 0x1F6A      |        8042 |
-|     423 | 0x1F6B      |        8043 |
-|     424 | 0x1F6C      |        8044 |
-|     425 | 0x1F6D      |        8045 |
-|     426 | 0x1F6E      |        8046 |
-|     427 | 0x1F6F      |        8047 |
-|     428 | 0x1F70      |        8048 |
-|     429 | 0x1F71      |        8049 |
+|     418 | 0x1F67      |        8039 |
+|     419 | 0x1F68      |        8040 |
+|     420 | 0x1F69      |        8041 |
+|     421 | 0x1F6A      |        8042 |
+|     422 | 0x1F6B      |        8043 |
+|     423 | 0x1F6C      |        8044 |
+|     424 | 0x1F6D      |        8045 |
+|     425 | 0x1F6E      |        8046 |
+|     426 | 0x1F6F      |        8047 |
+|     427 | 0x1F70      |        8048 |
+|     428 | 0x1F71      |        8049 |
+|     429 | 0x1F72      |        8050 |
 |     430 | 0x0083      |         131 |
-|     431 | 0x1F72      |        8050 |
+|     431 | 0x1F73      |        8051 |
 |     432 | 0xF1ED      |       61933 |
 |     433 | 0xFFFEF96C  |  4294900076 |
 |     434 | 0x3998      |       14744 |
@@ -466,12 +466,12 @@
 |     438 | 0x103D0     |       66512 |
 |     439 | 0xFFFE906C  |  4294873196 |
 |     440 | 0x4DBC      |       19900 |
-|     441 | 0x1F73      |        8051 |
-|     442 | 0x1F74      |        8052 |
+|     441 | 0x1F74      |        8052 |
+|     442 | 0x1F75      |        8053 |
 |     443 | 0x0081      |         129 |
-|     444 | 0x1F75      |        8053 |
+|     444 | 0x1F76      |        8054 |
 |     445 | 0x0046      |          70 |
-|     446 | 0x1F76      |        8054 |
+|     446 | 0x1F77      |        8055 |
 |     447 | 0x00FF      |         255 |
 |     448 | 0x106EF     |       67311 |
 |     449 | 0xFFFE7E87  |  4294868615 |
@@ -491,24 +491,24 @@
 |     463 | 0x5258      |       21080 |
 |     464 | 0x0D36      |        3382 |
 |     465 | 0x0044      |          68 |
-|     466 | 0x1F78      |        8056 |
+|     466 | 0x1F79      |        8057 |
 |     467 | 0x000D      |          13 |
-|     468 | 0x1F79      |        8057 |
-|     469 | 0x1F7A      |        8058 |
-|     470 | 0x1F7B      |        8059 |
-|     471 | 0x1F7C      |        8060 |
-|     472 | 0x1F7D      |        8061 |
+|     468 | 0x1F7A      |        8058 |
+|     469 | 0x1F7B      |        8059 |
+|     470 | 0x1F7C      |        8060 |
+|     471 | 0x1F7D      |        8061 |
+|     472 | 0x1F7E      |        8062 |
 |     473 | 0x0019      |          25 |
-|     474 | 0x1F7E      |        8062 |
+|     474 | 0x1F7F      |        8063 |
 |     475 | 0x0050      |          80 |
-|     476 | 0x1F7F      |        8063 |
-|     477 | 0x1F80      |        8064 |
+|     476 | 0x1F80      |        8064 |
+|     477 | 0x1F81      |        8065 |
 |     478 | 0x51A4      |       20900 |
-|     479 | 0x1F81      |        8065 |
-|     480 | 0x1F82      |        8066 |
-|     481 | 0x1F83      |        8067 |
-|     482 | 0x1F84      |        8068 |
-|     483 | 0x1F85      |        8069 |
+|     479 | 0x1F82      |        8066 |
+|     480 | 0x1F83      |        8067 |
+|     481 | 0x1F84      |        8068 |
+|     482 | 0x1F85      |        8069 |
+|     483 | 0x1F86      |        8070 |
 |     484 | 0xEF0B      |       61195 |
 |     485 | 0xFFFEDB40  |  4294892352 |
 |     486 | 0x48E3      |       18659 |
@@ -517,38 +517,38 @@
 |     489 | 0xFFFE8036  |  4294869046 |
 |     490 | 0x510F      |       20751 |
 |     491 | 0x0244      |         580 |
-|     492 | 0x1F86      |        8070 |
-|     493 | 0x1F87      |        8071 |
-|     494 | 0x1F88      |        8072 |
-|     495 | 0x1F89      |        8073 |
-|     496 | 0x1F8A      |        8074 |
-|     497 | 0x1F8B      |        8075 |
+|     492 | 0x1F87      |        8071 |
+|     493 | 0x1F88      |        8072 |
+|     494 | 0x1F89      |        8073 |
+|     495 | 0x1F8A      |        8074 |
+|     496 | 0x1F8B      |        8075 |
+|     497 | 0x1F8C      |        8076 |
 |     498 | 0x000B      |          11 |
-|     499 | 0x1F8C      |        8076 |
-|     500 | 0x1F8D      |        8077 |
-|     501 | 0x1F8E      |        8078 |
-|     502 | 0x1F8F      |        8079 |
+|     499 | 0x1F8D      |        8077 |
+|     500 | 0x1F8E      |        8078 |
+|     501 | 0x1F8F      |        8079 |
+|     502 | 0x1F90      |        8080 |
 |     503 | 0x10EC6     |       69318 |
 |     504 | 0xFFFE876B  |  4294870891 |
 |     505 | 0x5013      |       20499 |
 |     506 | 0x0475      |        1141 |
-|     507 | 0x1F90      |        8080 |
-|     508 | 0x1F91      |        8081 |
-|     509 | 0x1F92      |        8082 |
-|     510 | 0x1F93      |        8083 |
-|     511 | 0x1F94      |        8084 |
-|     512 | 0x1F95      |        8085 |
-|     513 | 0x1F96      |        8086 |
-|     514 | 0x1F97      |        8087 |
-|     515 | 0x1F98      |        8088 |
-|     516 | 0x1F99      |        8089 |
-|     517 | 0x1F9A      |        8090 |
-|     518 | 0x1F9B      |        8091 |
-|     519 | 0x1F9C      |        8092 |
+|     507 | 0x1F91      |        8081 |
+|     508 | 0x1F92      |        8082 |
+|     509 | 0x1F93      |        8083 |
+|     510 | 0x1F94      |        8084 |
+|     511 | 0x1F95      |        8085 |
+|     512 | 0x1F96      |        8086 |
+|     513 | 0x1F97      |        8087 |
+|     514 | 0x1F98      |        8088 |
+|     515 | 0x1F99      |        8089 |
+|     516 | 0x1F9A      |        8090 |
+|     517 | 0x1F9B      |        8091 |
+|     518 | 0x1F9C      |        8092 |
+|     519 | 0x1F9D      |        8093 |
 |     520 | 0x10942     |       67906 |
 |     521 | 0xFFFE8B4F  |  4294871887 |
 |     522 | 0x5058      |       20568 |
-|     523 | 0x1F9D      |        8093 |
+|     523 | 0x1F9E      |        8094 |
 
 ## Events
 
@@ -1000,7 +1000,7 @@
  62: 0x01E1 [0x1C] WAIT(180* ticks)
  63: 0x01E4 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=629*
  64: 0x01F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [EventEntity, EventEntity], work=[629*, 0*]
- 65: 0x0204 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7948*]:
+ 65: 0x0204 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7949*]:
     → "I don't see any sign of Grrramk-Droog..."
  66: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x020C [0x52] END_LOAD_SCHEDULER: End scheduler "s082" with entities [EventEntity, EventEntity], work=629*
@@ -1024,19 +1024,19 @@
  85: 0x02CA [0x1C] WAIT(160* ticks)
  86: 0x02CD [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [EventEntity, EventEntity], work=629*
  87: 0x02DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [EventEntity, EventEntity], work=[629*, 0*]
- 88: 0x02ED [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [7949*]:
+ 88: 0x02ED [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [7950*]:
     → "Don't let the bedbugs bite."
  89: 0x02F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x02F5 [0x4A] Soraa Ishakal (ID: 17867234/0x0110A1E2) looks at Melisandra (ID: 17867236/0x0110A1E4)
  91: 0x02FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Zunmimi (ID: 17867235/0x0110A1E3), Zunmimi (ID: 17867235/0x0110A1E3)], work=40*
- 92: 0x030D [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7950*]:
+ 92: 0x030D [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7951*]:
     → "How're we supposed to testaru our skills if they won't even station mages around their leader's lair?"
  93: 0x0314 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x0315 [0x52] END_LOAD_SCHEDULER: End scheduler "s086" with entities [EventEntity, EventEntity], work=629*
  95: 0x0324 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [EventEntity, EventEntity], work=[629*, 0*]
  96: 0x0335 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
  97: 0x0344 [0x4A] Zunmimi (ID: 17867235/0x0110A1E3) looks at Soraa Ishakal (ID: 17867234/0x0110A1E2)
- 98: 0x034D [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7951*]:
+ 98: 0x034D [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7952*]:
     → "According to my gabby guards, there should be a secret door behind the ruler's thrrrone."
  99: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0355 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
@@ -1081,12 +1081,12 @@
 139: 0x04CA [0x1C] WAIT(120* ticks)
 140: 0x04CD [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [EventEntity, EventEntity], work=629*
 141: 0x04DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[629*, 0*]
-142: 0x04ED [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7952*]:
+142: 0x04ED [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7953*]:
     → "So this is what they were hiding-widing..."
 143: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x04F5 [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [EventEntity, EventEntity], work=629*
 145: 0x0504 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[629*, 0*]
-146: 0x0515 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [7953*]:
+146: 0x0515 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [7954*]:
     → "It's beautiful..."
 147: 0x051C [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x051D [0x4E] SET_ENTITY_HIDE_FLAG: Show Gramk-Droog (ID: 17867237/0x0110A1E5)
@@ -1097,7 +1097,7 @@
 153: 0x0531 [0x52] END_LOAD_SCHEDULER: End scheduler "s091" with entities [EventEntity, EventEntity], work=629*
 154: 0x0540 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[629*, 0*]
 155: 0x0551 [0x4A] Soraa Ishakal (ID: 17867234/0x0110A1E2) looks at Gramk-Droog (ID: 17867237/0x0110A1E5)
-156: 0x055A [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7954*]:
+156: 0x055A [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7955*]:
     → "Drrrat!"
 157: 0x0561 [0x1C] WAIT(30* ticks)
 158: 0x0564 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hou0" with entities [Gramk-Droog (ID: 17867237/0x0110A1E5), Gramk-Droog (ID: 17867237/0x0110A1E5)], work=3385*
@@ -1146,7 +1146,7 @@
 201: 0x06FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 202: 0x070F [0x1C] WAIT(60* ticks)
 203: 0x0712 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "mab2" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=190*
-204: 0x0721 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7955*]:
+204: 0x0721 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7956*]:
     → "You two, huh? Well, it looks like our prrrayers have been answered."
 205: 0x0728 [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x0729 [0x52] END_LOAD_SCHEDULER: End scheduler "s095" with entities [EventEntity, EventEntity], work=629*
@@ -1159,7 +1159,7 @@
 213: 0x0776 [0x1C] WAIT(50* ticks)
 214: 0x0779 [0x52] END_LOAD_SCHEDULER: End scheduler "s096" with entities [EventEntity, EventEntity], work=629*
 215: 0x0788 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s097" with entities [EventEntity, EventEntity], work=[629*, 0*]
-216: 0x0799 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7956*]:
+216: 0x0799 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7957*]:
     → "How did these dull lunk-wunks wake up so fast!?"
 217: 0x07A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x07A1 [0x73] Zunmimi (ID: 17867235/0x0110A1E3) casts magic 269* on Unnamed NPC (ID: 17867242/0x0110A1EA)
@@ -1179,7 +1179,7 @@
 232: 0x0823 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [EventEntity, EventEntity], work=[629*, 0*]
 233: 0x0834 [0x6E] Zunmimi (ID: 17867235/0x0110A1E3) uses emote 21*
 234: 0x083B [0x99] Wait for Zunmimi (ID: 17867235/0x0110A1E3) animation to complete
-235: 0x0840 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7957*]:
+235: 0x0840 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7958*]:
     → "And now it doesn't even affectaru them!?"
 236: 0x0847 [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x0848 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mligni-Vorgut (ID: 17867238/0x0110A1E6)
@@ -1192,48 +1192,48 @@
 244: 0x0887 [0x1C] WAIT(120* ticks)
 245: 0x088A [0x52] END_LOAD_SCHEDULER: End scheduler "s101" with entities [EventEntity, EventEntity], work=629*
 246: 0x0899 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s102" with entities [EventEntity, EventEntity], work=[629*, 0*]
-247: 0x08AA [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7958*]:
+247: 0x08AA [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7959*]:
     → "Me know more than others. Thing like poison wake people. Me learn that from no-scales."
 248: 0x08B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x08B2 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Mligni-Vorgut (ID: 17867238/0x0110A1E6))
 250: 0x08B8 [0x52] END_LOAD_SCHEDULER: End scheduler "s102" with entities [EventEntity, EventEntity], work=629*
 251: 0x08C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s103" with entities [EventEntity, EventEntity], work=[629*, 0*]
-252: 0x08D8 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7959*]:
+252: 0x08D8 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7960*]:
     → "What!?"
 253: 0x08DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x08E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "btl0" with entities [Unnamed NPC (ID: 17867241/0x0110A1E9), Unnamed NPC (ID: 17867241/0x0110A1E9)], work=3326*
-255: 0x08EF [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [7960*]:
+255: 0x08EF [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [7961*]:
     → "Taking poison to stay awake!? I thought only pioneers were stupid enough to do that!"
 256: 0x08F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x08F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s103" with entities [EventEntity, EventEntity], work=629*
 258: 0x0906 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s104" with entities [EventEntity, EventEntity], work=[629*, 0*]
 259: 0x0917 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Zunmimi (ID: 17867235/0x0110A1E3), Zunmimi (ID: 17867235/0x0110A1E3)], work=40*
-260: 0x0926 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7961*]:
+260: 0x0926 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7962*]:
     → "Did you learn how to fake falling asleep from them as well? Color-wolor me impressed, Mligni-Vorgut."
 261: 0x092D [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x092E [0x52] END_LOAD_SCHEDULER: End scheduler "s104" with entities [EventEntity, EventEntity], work=629*
 263: 0x093D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s105" with entities [EventEntity, EventEntity], work=[629*, 0*]
 264: 0x094E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=3416*
-265: 0x095D [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7962*]:
+265: 0x095D [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7963*]:
     → "So, witches try steal that. Perfect. You, unseal it."
 266: 0x0964 [0x23] WAIT_FOR_DIALOG_INTERACTION
-267: 0x0965 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7963*]:
+267: 0x0965 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7964*]:
     → "Unseal it...?"
 268: 0x096C [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x096D [0x52] END_LOAD_SCHEDULER: End scheduler "s105" with entities [EventEntity, EventEntity], work=629*
 270: 0x097C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [EventEntity, EventEntity], work=[629*, 0*]
-271: 0x098D [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7964*]:
+271: 0x098D [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7965*]:
     → "Magic sealed away. We no can unseal, so was useless."
 272: 0x0994 [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x0995 [0x6B] STOP_AND_IDLE: Soraa Ishakal (ID: 17867234/0x0110A1E2) stops current action and resets to idle (animation="idl0")
-274: 0x099E [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7965*]:
+274: 0x099E [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7966*]:
     → "We let you live so you unseal."
 275: 0x09A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x09A6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=3416*
 277: 0x09B5 [0x52] END_LOAD_SCHEDULER: End scheduler "s106" with entities [EventEntity, EventEntity], work=629*
 278: 0x09C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s107" with entities [EventEntity, EventEntity], work=[629*, 0*]
 279: 0x09D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
-280: 0x09E4 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7966*]:
+280: 0x09E4 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7967*]:
     → "What gave you the idea that I know the firrrst thing about--"
 281: 0x09EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x09EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
@@ -1242,7 +1242,7 @@
 285: 0x0A1B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=3416*
 286: 0x0A2A [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17867239/0x0110A1E7), pos_x=68.215*, pos_z=-84.465*, pos_y=19.978*, direction=289.5°*)
 287: 0x0A37 [0x4A] Unnamed NPC (ID: 17867239/0x0110A1E7) looks at Soraa Ishakal (ID: 17867234/0x0110A1E2)
-288: 0x0A40 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7967*]:
+288: 0x0A40 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7968*]:
     → "Just do it."
 289: 0x0A47 [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x0A48 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "btl0" with entities [Unnamed NPC (ID: 17867239/0x0110A1E7), Unnamed NPC (ID: 17867239/0x0110A1E7)], work=3326*
@@ -1255,12 +1255,12 @@
 297: 0x0A9B [0x52] END_LOAD_SCHEDULER: End scheduler "s109" with entities [EventEntity, EventEntity], work=629*
 298: 0x0AAA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [EventEntity, EventEntity], work=[629*, 0*]
 299: 0x0ABB [0x79] Zunmimi (ID: 17867235/0x0110A1E3) looks at Soraa Ishakal (ID: 17867234/0x0110A1E2) (Basic look)
-300: 0x0AC5 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7968*]:
+300: 0x0AC5 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7969*]:
     → "Soraa..."
 301: 0x0ACC [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x0ACD [0x6E] Soraa Ishakal (ID: 17867234/0x0110A1E2) uses emote 7*
 303: 0x0AD4 [0x99] Wait for Soraa Ishakal (ID: 17867234/0x0110A1E2) animation to complete
-304: 0x0AD9 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7969*]:
+304: 0x0AD9 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7970*]:
     → "...Brrring it on, Buckteeth."
 305: 0x0AE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 306: 0x0AE1 [0x6B] STOP_AND_IDLE: Unnamed NPC (ID: 17867242/0x0110A1EA) stops current action and resets to idle (animation="idl0")
@@ -1286,7 +1286,7 @@
 326: 0x0BA1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s113" with entities [EventEntity, EventEntity], work=[629*, 0*]
 327: 0x0BB2 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "hk01" with entities [Unnamed NPC (ID: 17867244/0x0110A1EC), Unnamed NPC (ID: 17867244/0x0110A1EC)], work=[180*, 0*]
 328: 0x0BC3 [0x1C] WAIT(60* ticks)
-329: 0x0BC6 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7970*]:
+329: 0x0BC6 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7971*]:
     → "Wh-wha!?"
 330: 0x0BCD [0x1C] WAIT(50* ticks)
 331: 0x0BD0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mab0" with entities [Unnamed NPC (ID: 17867240/0x0110A1E8), Unnamed NPC (ID: 17867240/0x0110A1E8)], work=3416*
@@ -1322,7 +1322,7 @@ SUBROUTINE_0CB2:
 359: 0x0CD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s114" with entities [EventEntity, EventEntity], work=[629*, 0*]
 360: 0x0CE1 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "cm01" with entities [EventEntity, EventEntity], work=[180*, 0*]
 361: 0x0CF2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mab1" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=3416*
-362: 0x0D01 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7971*]:
+362: 0x0D01 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7972*]:
     → "What goes on!?"
 363: 0x0D08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0D09 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Gramk-Droog (ID: 17867237/0x0110A1E5)
@@ -1336,7 +1336,7 @@ SUBROUTINE_0CB2:
 372: 0x0D50 [0x1C] WAIT(20* ticks)
 373: 0x0D53 [0x52] END_LOAD_SCHEDULER: End scheduler "s114" with entities [EventEntity, EventEntity], work=629*
 374: 0x0D62 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s115" with entities [EventEntity, EventEntity], work=[629*, 0*]
-375: 0x0D73 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7972*]:
+375: 0x0D73 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7973*]:
     → "Rrrrrruuun!"
 376: 0x0D7A [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x0D7B [0x52] END_LOAD_SCHEDULER: End scheduler "s115" with entities [EventEntity, EventEntity], work=629*
@@ -1390,7 +1390,7 @@ SUBROUTINE_0CB2:
 425: 0x0F27 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s118" with entities [EventEntity, EventEntity], work=[629*, 0*]
 426: 0x0F38 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hnd0" with entities [Melisandra (ID: 17867236/0x0110A1E4), Melisandra (ID: 17867236/0x0110A1E4)], work=3361*
 427: 0x0F47 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hnd0" with entities [Unnamed NPC (ID: 17867244/0x0110A1EC), Unnamed NPC (ID: 17867244/0x0110A1EC)], work=3415*
-428: 0x0F56 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7973*]:
+428: 0x0F56 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7974*]:
     → "<Haaah>...<haaah>... That was close..."
 429: 0x0F5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x0F5E [0x52] END_LOAD_SCHEDULER: End scheduler "s118" with entities [EventEntity, EventEntity], work=629*
@@ -1398,13 +1398,13 @@ SUBROUTINE_0CB2:
 432: 0x0F7E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr0" with entities [Zunmimi (ID: 17867235/0x0110A1E3), Zunmimi (ID: 17867235/0x0110A1E3)], work=40*
 433: 0x0F8D [0x6E] Soraa Ishakal (ID: 17867234/0x0110A1E2) uses emote 6*
 434: 0x0F94 [0x99] Wait for Soraa Ishakal (ID: 17867234/0x0110A1E2) animation to complete
-435: 0x0F99 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7974*]:
+435: 0x0F99 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7975*]:
     → "Awww... And it was right within my grrrasp, too..."
 436: 0x0FA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 437: 0x0FA1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr1" with entities [Zunmimi (ID: 17867235/0x0110A1E3), Zunmimi (ID: 17867235/0x0110A1E3)], work=40*
 438: 0x0FB0 [0x52] END_LOAD_SCHEDULER: End scheduler "s119" with entities [EventEntity, EventEntity], work=629*
 439: 0x0FBF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s120" with entities [EventEntity, EventEntity], work=[629*, 0*]
-440: 0x0FD0 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [7975*]:
+440: 0x0FD0 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [7976*]:
     → "You mean this?"
 441: 0x0FD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 442: 0x0FD8 [0x4A] Soraa Ishakal (ID: 17867234/0x0110A1E2) looks at Melisandra (ID: 17867236/0x0110A1E4)
@@ -1419,7 +1419,7 @@ SUBROUTINE_0CB2:
 451: 0x1025 [0x99] Wait for Soraa Ishakal (ID: 17867234/0x0110A1E2) animation to complete
 452: 0x102A [0x4A] LocalPlayer looks at Melisandra (ID: 17867236/0x0110A1E4)
 453: 0x1033 [0x4A] Nashu (ID: 17867233/0x0110A1E1) looks at Melisandra (ID: 17867236/0x0110A1E4)
-454: 0x103C [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7976*]:
+454: 0x103C [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7977*]:
     → "When did you...!?"
 455: 0x1043 [0x23] WAIT_FOR_DIALOG_INTERACTION
 456: 0x1044 [0x52] END_LOAD_SCHEDULER: End scheduler "s121" with entities [EventEntity, EventEntity], work=629*
@@ -1429,20 +1429,20 @@ SUBROUTINE_0CB2:
 460: 0x1074 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17867244/0x0110A1EC), pos_x=2.090*, pos_z=-34.318*, pos_y=19.999*, direction=193.1°*)
 461: 0x1081 [0x80] LOAD_WAIT(entity=Melisandra (ID: 17867236/0x0110A1E4))
 462: 0x1086 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17867244/0x0110A1EC))
-463: 0x108B [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7977*]:
+463: 0x108B [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [7978*]:
     → "You never cease-wease to amaze me, Melisandra."
 464: 0x1092 [0x23] WAIT_FOR_DIALOG_INTERACTION
 465: 0x1093 [0x52] END_LOAD_SCHEDULER: End scheduler "s122" with entities [EventEntity, EventEntity], work=629*
 466: 0x10A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s123" with entities [EventEntity, EventEntity], work=[629*, 0*]
 467: 0x10B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
-468: 0x10C2 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7978*]:
+468: 0x10C2 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7979*]:
     → "The light seems to have gone out. What was that currriosity, anyway?"
 469: 0x10C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 470: 0x10CA [0x52] END_LOAD_SCHEDULER: End scheduler "s123" with entities [EventEntity, EventEntity], work=629*
 471: 0x10D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s124" with entities [EventEntity, EventEntity], work=[629*, 0*]
 472: 0x10EA [0x79] Nashu (ID: 17867233/0x0110A1E1) looks at Soraa Ishakal (ID: 17867234/0x0110A1E2) (Basic look)
 473: 0x10F4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
-474: 0x1103 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7979*]:
+474: 0x1103 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7980*]:
     → "I certainly do not hold the answer to your question, but I do know this--I am positively overjoyed that you got what you came for."
 475: 0x110A [0x23] WAIT_FOR_DIALOG_INTERACTION
 476: 0x110B [0x4A] Zunmimi (ID: 17867235/0x0110A1E3) looks at Nashu (ID: 17867233/0x0110A1E1)
@@ -1455,13 +1455,13 @@ SUBROUTINE_0CB2:
 483: 0x115E [0x1C] WAIT(30* ticks)
 484: 0x1161 [0x79] LocalPlayer looks at Soraa Ishakal (ID: 17867234/0x0110A1E2) (Basic look)
 485: 0x116B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
-486: 0x117A [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7980*]:
+486: 0x117A [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7981*]:
     → "I...I guess...we couldn't have grrrabbed it without your help."
 487: 0x1181 [0x23] WAIT_FOR_DIALOG_INTERACTION
 488: 0x1182 [0x52] END_LOAD_SCHEDULER: End scheduler "s125" with entities [EventEntity, EventEntity], work=629*
 489: 0x1191 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s126" with entities [EventEntity, EventEntity], work=[629*, 0*]
 490: 0x11A2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
-491: 0x11B1 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7981*]:
+491: 0x11B1 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [7982*]:
     → "Well, I guess it's time to be hitting the ol' dusty trrrail! Yup, sure is! See you arrround, Nashu."
 492: 0x11B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 493: 0x11B9 [0x52] END_LOAD_SCHEDULER: End scheduler "s126" with entities [EventEntity, EventEntity], work=629*
@@ -1469,7 +1469,7 @@ SUBROUTINE_0CB2:
 495: 0x11D9 [0x1C] WAIT(15* ticks)
 496: 0x11DC [0x6B] STOP_AND_IDLE: Melisandra (ID: 17867236/0x0110A1E4) stops current action and resets to idle (animation="idl0")
 497: 0x11E5 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17867244/0x0110A1EC)
-498: 0x11EB [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7982*]:
+498: 0x11EB [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7983*]:
     → ""Nashu"...?"
 499: 0x11F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 500: 0x11F3 [0x52] END_LOAD_SCHEDULER: End scheduler "s127" with entities [EventEntity, EventEntity], work=629*
@@ -1485,7 +1485,7 @@ SUBROUTINE_0CB2:
 510: 0x125D [0x1C] WAIT(150* ticks)
 511: 0x1260 [0x52] END_LOAD_SCHEDULER: End scheduler "s129" with entities [EventEntity, EventEntity], work=629*
 512: 0x126F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s130" with entities [EventEntity, EventEntity], work=[629*, 0*]
-513: 0x1280 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7983*]:
+513: 0x1280 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7984*]:
     → "She...remembered my name."
 514: 0x1287 [0x23] WAIT_FOR_DIALOG_INTERACTION
 515: 0x1288 [0x52] END_LOAD_SCHEDULER: End scheduler "s130" with entities [EventEntity, EventEntity], work=629*
@@ -1495,21 +1495,21 @@ SUBROUTINE_0CB2:
 519: 0x12B4 [0x6E] Nashu (ID: 17867233/0x0110A1E1) uses emote 7*
 520: 0x12BB [0x99] Wait for Nashu (ID: 17867233/0x0110A1E1) animation to complete
 521: 0x12C0 [0x4A] LocalPlayer looks at Nashu (ID: 17867233/0x0110A1E1)
-522: 0x12C9 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7984*]:
+522: 0x12C9 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7985*]:
     → "A-anyhow...at least the coven's cut all its ties with the Velkk, right?"
 523: 0x12D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 524: 0x12D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=71*
-525: 0x12E0 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7985*]:
+525: 0x12E0 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7986*]:
     → "Once again, I have you to thank for engineering the seemingly impossible. In case the undying gratitude of a mere trainee proves an insufficient reward, please take this."
 526: 0x12E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 527: 0x12E8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)]
 528: 0x12F5 [0x52] END_LOAD_SCHEDULER: End scheduler "s131" with entities [EventEntity, EventEntity], work=629*
 529: 0x1304 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s132" with entities [EventEntity, EventEntity], work=[629*, 0*]
 530: 0x1315 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
-531: 0x1324 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7986*]:
+531: 0x1324 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7987*]:
     → "...I must now take my leave and report what we have discovered to Lord Vortimere. Hopefully it will give him cause to recall the troops he dispatched."
 532: 0x132B [0x23] WAIT_FOR_DIALOG_INTERACTION
-533: 0x132C [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7987*]:
+533: 0x132C [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7988*]:
     → "May our paths cross once more, <Player>!"
 534: 0x1333 [0x23] WAIT_FOR_DIALOG_INTERACTION
 535: 0x1334 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
@@ -1533,33 +1533,33 @@ SUBROUTINE_0CB2:
 553: 0x1403 [0x1C] WAIT(15* ticks)
 554: 0x1406 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 555: 0x1417 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gyo1" with entities [Gramk-Droog (ID: 17867237/0x0110A1E5), Gramk-Droog (ID: 17867237/0x0110A1E5)], work=3417*
-556: 0x1426 [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [7988*]:
+556: 0x1426 [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [7989*]:
     → "Mligni-Vorgut! Why you let treasure get snitch-snatched!?"
 557: 0x142D [0x23] WAIT_FOR_DIALOG_INTERACTION
 558: 0x142E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=3416*
-559: 0x143D [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7989*]:
+559: 0x143D [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7990*]:
     → "I apologize, sir. Unexpected thing happened."
 560: 0x1444 [0x23] WAIT_FOR_DIALOG_INTERACTION
 561: 0x1445 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=3416*
 562: 0x1454 [0x52] END_LOAD_SCHEDULER: End scheduler "s134" with entities [EventEntity, EventEntity], work=629*
 563: 0x1463 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s135" with entities [EventEntity, EventEntity], work=[629*, 0*]
-564: 0x1474 [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [7990*]:
+564: 0x1474 [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [7991*]:
     → "No want apology! Want treasure! Get it back now!"
 565: 0x147B [0x23] WAIT_FOR_DIALOG_INTERACTION
 566: 0x147C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=3416*
-567: 0x148B [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7991*]:
+567: 0x148B [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7992*]:
     → "With respect, I think to wait is best."
 568: 0x1492 [0x23] WAIT_FOR_DIALOG_INTERACTION
 569: 0x1493 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=3416*
 570: 0x14A2 [0x52] END_LOAD_SCHEDULER: End scheduler "s135" with entities [EventEntity, EventEntity], work=629*
 571: 0x14B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s136" with entities [EventEntity, EventEntity], work=[629*, 0*]
 572: 0x14C2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gyo2" with entities [Gramk-Droog (ID: 17867237/0x0110A1E5), Gramk-Droog (ID: 17867237/0x0110A1E5)], work=3417*
-573: 0x14D1 [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [7992*]:
+573: 0x14D1 [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [7993*]:
     → ""Wait"!? Why?"
 574: 0x14D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 575: 0x14D9 [0x52] END_LOAD_SCHEDULER: End scheduler "s136" with entities [EventEntity, EventEntity], work=629*
 576: 0x14E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s137" with entities [EventEntity, EventEntity], work=[629*, 0*]
-577: 0x14F9 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7993*]:
+577: 0x14F9 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [7994*]:
     → "You shall see... Bwahahaha!"
 578: 0x1500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 579: 0x1501 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1713,17 +1713,17 @@ SUBROUTINE_0CB2:
  51: 0x16F8 [0x4A] Nashu (ID: 17867233/0x0110A1E1) looks at LocalPlayer
  52: 0x1701 [0x1C] WAIT(30* ticks)
  53: 0x1704 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
- 54: 0x1713 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7994*]:
+ 54: 0x1713 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7995*]:
     → "<Player>! You've come just in time."
  55: 0x171A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x171B [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7995*]:
+ 56: 0x171B [0x2B] Nashu (ID: 17867233/0x0110A1E1) [7996*]:
     → "I haven't seen Soraa and the others yet, but the priory stands ready to strike."
  57: 0x1722 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1723 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
  59: 0x1732 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=748*
  60: 0x1741 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[748*, 0*]
  61: 0x1752 [0x79] Vortimere (ID: 17867245/0x0110A1ED) looks at Araustoix (ID: 17867246/0x0110A1EE) (Basic look)
- 62: 0x175C [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [7996*]:
+ 62: 0x175C [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [7997*]:
     → "This feels strange. The Velkk should have fully anticipated our advance, yet where is their defense?"
  63: 0x1763 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x1764 [0xBA] SET_ENTITY_POSITION(entity_id=Nashu (ID: 17867233/0x0110A1E1), pos_x=400.284*, pos_z=243.818*, pos_y=-60.000*, direction=140.7°*)
@@ -1733,10 +1733,10 @@ SUBROUTINE_0CB2:
  68: 0x1790 [0x1C] WAIT(30* ticks)
  69: 0x1793 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=748*
  70: 0x17A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[748*, 0*]
- 71: 0x17B3 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [7997*]:
+ 71: 0x17B3 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [7998*]:
     → "Indeed."
  72: 0x17BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x17BB [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [7998*]:
+ 73: 0x17BB [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [7999*]:
     → "N-n-nevertheless, we can ill afford any delay. There's no telling what that c-c-cursed Velkk mage can do now that he has his claws around that artifact."
  74: 0x17C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x17C3 [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=748*
@@ -1744,14 +1744,14 @@ SUBROUTINE_0CB2:
  77: 0x17E3 [0x7B] Vortimere (ID: 17867245/0x0110A1ED) stops talking
  78: 0x17E8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Araustoix (ID: 17867246/0x0110A1EE), Araustoix (ID: 17867246/0x0110A1EE)], work=29*
  79: 0x17F7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Vortimere (ID: 17867245/0x0110A1ED), Vortimere (ID: 17867245/0x0110A1ED)], work=3257*
- 80: 0x1806 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [7999*]:
+ 80: 0x1806 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8000*]:
     → "The frontier station scouts have spotted Mligni-Vorgut near Gramk-Droog's throne at I-10. Let us s-s-split into two divisions and flank him."
  81: 0x180D [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x180E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Vortimere (ID: 17867245/0x0110A1ED), Vortimere (ID: 17867245/0x0110A1ED)], work=3257*
  83: 0x181D [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=748*
  84: 0x182C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[748*, 0*]
  85: 0x183D [0x79] Vortimere (ID: 17867245/0x0110A1ED) looks at Araustoix (ID: 17867246/0x0110A1EE) (Basic look)
- 86: 0x1847 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8000*]:
+ 86: 0x1847 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8001*]:
     → "Araustoix, you and your men will take the w-w-waterfall pass."
  87: 0x184E [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x184F [0x6E] Araustoix (ID: 17867246/0x0110A1EE) uses emote 7*
@@ -1764,7 +1764,7 @@ SUBROUTINE_0CB2:
  95: 0x188A [0x4A] Vortimere (ID: 17867245/0x0110A1ED) looks at Nashu (ID: 17867233/0x0110A1E1)
  96: 0x1893 [0x1C] WAIT(30* ticks)
  97: 0x1896 [0x79] Vortimere (ID: 17867245/0x0110A1ED) looks at LocalPlayer (Basic look)
- 98: 0x18A0 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8001*]:
+ 98: 0x18A0 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8002*]:
     → "I want you and Nashu to come with us."
  99: 0x18A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x18A8 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=748*
@@ -1781,7 +1781,7 @@ SUBROUTINE_1900:
 109: 0x1907 [0x99] Wait for Nashu (ID: 17867233/0x0110A1E1) animation to complete
 110: 0x190C [0x6E] LocalPlayer uses emote 36*
 111: 0x1913 [0x99] Wait for LocalPlayer animation to complete
-112: 0x1918 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8002*]:
+112: 0x1918 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8003*]:
     → "Yes sir!"
 113: 0x191F [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x1920 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1851,7 +1851,7 @@ SUBROUTINE_1900:
  19: 0x1A07 [0x1C] WAIT(15* ticks)
  20: 0x1A0A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  21: 0x1A1B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
- 22: 0x1A2A [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8003*]:
+ 22: 0x1A2A [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8004*]:
     → "Mligni has been spotted near the throne at I-10. Hurry--we can't just sit here and twiddle our thumbs!"
  23: 0x1A31 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1A32 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2222,31 +2222,31 @@ SUBROUTINE_1900:
 103: 0x1D6B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[748*, 0*]
 104: 0x1D7C [0x1C] WAIT(15* ticks)
 105: 0x1D7F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-106: 0x1D90 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8004*]:
+106: 0x1D90 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8005*]:
     → "Velkk-kin, listen! Mligni-Vorgut hold power to break big wall!"
 107: 0x1D97 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x1D98 [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=748*
 109: 0x1DA7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[748*, 0*]
-110: 0x1DB8 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8005*]:
+110: 0x1DB8 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8006*]:
     → "Follow Mligni! Smash no-scales! Take back Velkk land!"
 111: 0x1DBF [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x1DC0 [0x27] REQ_SET(priority=0x05, entity_id=Gramk-Droog (ID: 17867237/0x0110A1E5), tag_num=0x08)
 113: 0x1DC7 [0x1C] WAIT(20* ticks)
 114: 0x1DCA [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [EventEntity, EventEntity], work=748*
 115: 0x1DD9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[748*, 0*]
-116: 0x1DEA [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [8006*]:
+116: 0x1DEA [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [8007*]:
     → "Mligni...!"
 117: 0x1DF1 [0x1C] WAIT(90* ticks)
 118: 0x1DF4 [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [EventEntity, EventEntity], work=748*
 119: 0x1E03 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[748*, 0*]
 120: 0x1E14 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x1E15 [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [8007*]:
+121: 0x1E15 [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [8008*]:
     → "What this joke!? Get off Gramk's king-seat. It not for your rump!"
 122: 0x1E1C [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x1E1D [0x2A] GET_REQ_LEVEL(level=5, entity_id=Gramk-Droog (ID: 17867237/0x0110A1E5))
 124: 0x1E23 [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=748*
 125: 0x1E32 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[748*, 0*]
-126: 0x1E43 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8008*]:
+126: 0x1E43 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8009*]:
     → "Velkk have no use for old king now."
 127: 0x1E4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x1E4B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3849*, entity1=Mligni-Vorgut (ID: 17867238/0x0110A1E6), entity2=Mligni-Vorgut (ID: 17867238/0x0110A1E6), string="tue4")
@@ -2273,21 +2273,21 @@ SUBROUTINE_1900:
 149: 0x1F56 [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [EventEntity, EventEntity], work=748*
 150: 0x1F65 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [EventEntity, EventEntity], work=[748*, 0*]
 151: 0x1F76 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17867239/0x0110A1E7), tag_num=0x05)
-152: 0x1F7D [0x2B] Unnamed NPC (ID: 17867239/0x0110A1E7) [8009*]:
+152: 0x1F7D [0x2B] Unnamed NPC (ID: 17867239/0x0110A1E7) [8010*]:
     → "King Gramk!"
 153: 0x1F84 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x1F85 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Unnamed NPC (ID: 17867239/0x0110A1E7))
-155: 0x1F8B [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [8010*]:
+155: 0x1F8B [0x2B] Gramk-Droog (ID: 17867237/0x0110A1E5) [8011*]:
     → "Urg..."
 156: 0x1F92 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x1F93 [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [EventEntity, EventEntity], work=748*
 158: 0x1FA2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [EventEntity, EventEntity], work=[748*, 0*]
 159: 0x1FB3 [0x6E] Nashu (ID: 17867233/0x0110A1E1) uses emote 6*
 160: 0x1FBA [0x99] Wait for Nashu (ID: 17867233/0x0110A1E1) animation to complete
-161: 0x1FBF [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8011*]:
+161: 0x1FBF [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8012*]:
     → "So that's what the orb can do."
 162: 0x1FC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-163: 0x1FC7 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8012*]:
+163: 0x1FC7 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8013*]:
     → "Are we t-t-too late?"
 164: 0x1FCE [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x1FCF [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=748*
@@ -2295,12 +2295,12 @@ SUBROUTINE_1900:
 167: 0x1FEF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Araustoix (ID: 17867246/0x0110A1EE), Araustoix (ID: 17867246/0x0110A1EE)], work=29*
 168: 0x1FFE [0x79] Nashu (ID: 17867233/0x0110A1E1) looks at Vortimere (ID: 17867245/0x0110A1ED) (Basic look)
 169: 0x2008 [0x1C] WAIT(60* ticks)
-170: 0x200B [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8013*]:
+170: 0x200B [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8014*]:
     → "Lord Vortimere, can you hear me? What is your command?"
 171: 0x2012 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x2013 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=748*
 173: 0x2022 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[748*, 0*]
-174: 0x2033 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8014*]:
+174: 0x2033 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8015*]:
     → "Failing to stop him here will be to Adoulin's p-p-peril. Carry out the attack plan."
 175: 0x203A [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x203B [0x4E] SET_ENTITY_HIDE_FLAG: Show Soraa Ishakal (ID: 17867234/0x0110A1E2)
@@ -2313,7 +2313,7 @@ SUBROUTINE_1900:
 183: 0x2063 [0x1C] WAIT(15* ticks)
 184: 0x2066 [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=748*
 185: 0x2075 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[748*, 0*]
-186: 0x2086 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8015*]:
+186: 0x2086 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8016*]:
     → "Wait!"
 187: 0x208D [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x208E [0x2A] GET_REQ_LEVEL(level=5, entity_id=Soraa Ishakal (ID: 17867234/0x0110A1E2))
@@ -2324,28 +2324,28 @@ SUBROUTINE_1900:
 193: 0x20AE [0x7B] Vortimere (ID: 17867245/0x0110A1ED) stops talking
 194: 0x20B3 [0x1C] WAIT(15* ticks)
 195: 0x20B6 [0x4A] LocalPlayer looks at Soraa Ishakal (ID: 17867234/0x0110A1E2)
-196: 0x20BF [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8016*]:
+196: 0x20BF [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8017*]:
     → "Soraa?"
 197: 0x20C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x20C7 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=748*
 199: 0x20D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[748*, 0*]
 200: 0x20E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
-201: 0x20F6 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8017*]:
+201: 0x20F6 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8018*]:
     → "If there's anyone who knows how to put the lid back on his magic, it's us."
 202: 0x20FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x20FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
 204: 0x210D [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=748*
 205: 0x211C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[748*, 0*]
-206: 0x212D [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8018*]:
+206: 0x212D [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8019*]:
     → "What are you s-s-saying?"
 207: 0x2134 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x2135 [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=748*
 209: 0x2144 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[748*, 0*]
 210: 0x2155 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zunmimi (ID: 17867235/0x0110A1E3), Zunmimi (ID: 17867235/0x0110A1E3)], work=49*
-211: 0x2164 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8019*]:
+211: 0x2164 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8020*]:
     → "The artifact's seal could only be broken with the purest energies of crystal clear water."
 212: 0x216B [0x23] WAIT_FOR_DIALOG_INTERACTION
-213: 0x216C [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8020*]:
+213: 0x216C [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8021*]:
     → "So if we want to restore it, we'll just have to muddy things up a bit."
 214: 0x2173 [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x2174 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zunmimi (ID: 17867235/0x0110A1E3), Zunmimi (ID: 17867235/0x0110A1E3)], work=49*
@@ -2353,22 +2353,22 @@ SUBROUTINE_1900:
 217: 0x2192 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [EventEntity, EventEntity], work=[748*, 0*]
 218: 0x21A3 [0x6E] Nashu (ID: 17867233/0x0110A1E1) uses emote 32*
 219: 0x21AA [0x99] Wait for Nashu (ID: 17867233/0x0110A1E1) animation to complete
-220: 0x21AF [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8021*]:
+220: 0x21AF [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8022*]:
     → ""Muddy things up"? How?"
 221: 0x21B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x21B7 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [EventEntity, EventEntity], work=748*
 223: 0x21C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[748*, 0*]
 224: 0x21D7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
-225: 0x21E6 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8022*]:
+225: 0x21E6 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8023*]:
     → "As it turns out, our ancestors left us the purrrfect incantation for the occasion."
 226: 0x21ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-227: 0x21EE [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8023*]:
+227: 0x21EE [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8024*]:
     → "The spell we found won't reseal it completely, but it should be enough to weaken it."
 228: 0x21F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x21F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
 230: 0x2205 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=748*
 231: 0x2214 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [EventEntity, EventEntity], work=[748*, 0*]
-232: 0x2225 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [8024*]:
+232: 0x2225 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [8025*]:
     → "We're too...far away."
 233: 0x222C [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x222D [0x4A] Zunmimi (ID: 17867235/0x0110A1E3) looks at Melisandra (ID: 17867236/0x0110A1E4)
@@ -2377,7 +2377,7 @@ SUBROUTINE_1900:
 237: 0x2248 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [EventEntity, EventEntity], work=[748*, 0*]
 238: 0x2259 [0x6E] Zunmimi (ID: 17867235/0x0110A1E3) uses emote 22*
 239: 0x2260 [0x99] Wait for Zunmimi (ID: 17867235/0x0110A1E3) animation to complete
-240: 0x2265 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8025*]:
+240: 0x2265 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8026*]:
     → "That's right. We'll have to getaru a wee bit closer if we want to make this work."
 241: 0x226C [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x226D [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [EventEntity, EventEntity], work=748*
@@ -2385,7 +2385,7 @@ SUBROUTINE_1900:
 244: 0x228D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Vortimere (ID: 17867245/0x0110A1ED), Vortimere (ID: 17867245/0x0110A1ED)], work=3257*
 245: 0x229C [0x4A] Zunmimi (ID: 17867235/0x0110A1E3) looks at Nashu (ID: 17867233/0x0110A1E1)
 246: 0x22A5 [0x7B] Zunmimi (ID: 17867235/0x0110A1E3) stops talking
-247: 0x22AA [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8026*]:
+247: 0x22AA [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8027*]:
     → "We will provide s-s-support."
 248: 0x22B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x22B2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Vortimere (ID: 17867245/0x0110A1ED), Vortimere (ID: 17867245/0x0110A1ED)], work=3257*
@@ -2393,13 +2393,13 @@ SUBROUTINE_1900:
 251: 0x22D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[748*, 0*]
 252: 0x22E1 [0x79] Vortimere (ID: 17867245/0x0110A1ED) looks at Soraa Ishakal (ID: 17867234/0x0110A1E2) (Basic look)
 253: 0x22EB [0x1C] WAIT(30* ticks)
-254: 0x22EE [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8027*]:
+254: 0x22EE [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8028*]:
     → "Araustoix, draw the Velkk away from the throne to give the witches a w-w-window to strike."
 255: 0x22F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x22F6 [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [EventEntity, EventEntity], work=748*
 257: 0x2305 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[748*, 0*]
 258: 0x2316 [0x7B] Vortimere (ID: 17867245/0x0110A1ED) stops talking
-259: 0x231B [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8028*]:
+259: 0x231B [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8029*]:
     → "Understood."
 260: 0x2322 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x2323 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s031" with entities [EventEntity, EventEntity], work=748*
@@ -2411,7 +2411,7 @@ SUBROUTINE_1900:
 267: 0x235F [0x4A] Unnamed NPC (ID: 17867239/0x0110A1E7) looks at Araustoix (ID: 17867246/0x0110A1EE)
 268: 0x2368 [0x4A] Unnamed NPC (ID: 17867240/0x0110A1E8) looks at Araustoix (ID: 17867246/0x0110A1EE)
 269: 0x2371 [0x4A] Unnamed NPC (ID: 17867241/0x0110A1E9) looks at Araustoix (ID: 17867246/0x0110A1EE)
-270: 0x237A [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8029*]:
+270: 0x237A [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8030*]:
     → "Make ready... Engage!"
 271: 0x2381 [0x23] WAIT_FOR_DIALOG_INTERACTION
 272: 0x2382 [0x59] UPDATE_ENTITY_DATA: LocalPlayer->Render.Flags0 &= ~0x200000
@@ -2437,7 +2437,7 @@ SUBROUTINE_1900:
 292: 0x2442 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mei0" with entities [Vortimere (ID: 17867245/0x0110A1ED), Vortimere (ID: 17867245/0x0110A1ED)], work=3258*
 293: 0x2451 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [EventEntity, EventEntity], work=748*
 294: 0x2460 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[748*, 0*]
-295: 0x2471 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8030*]:
+295: 0x2471 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8031*]:
     → "Now!"
 296: 0x2478 [0x1C] WAIT(140* ticks)
 297: 0x247B [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2456,7 +2456,7 @@ SUBROUTINE_1900:
 310: 0x24F6 [0x1C] WAIT(120* ticks)
 311: 0x24F9 [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [EventEntity, EventEntity], work=748*
 312: 0x2508 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[748*, 0*]
-313: 0x2519 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8031*]:
+313: 0x2519 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8032*]:
     → "No-scales must be very not clever to come here..."
 314: 0x2520 [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x2521 [0x7A] VM_CONTROL: Reset VM for Soraa Ishakal (ID: 17867234/0x0110A1E2)
@@ -2486,7 +2486,7 @@ SUBROUTINE_1900:
 339: 0x2654 [0x7A] VM_CONTROL: Reset VM for Nashu (ID: 17867233/0x0110A1E1)
 340: 0x265A [0xBA] SET_ENTITY_POSITION(entity_id=Nashu (ID: 17867233/0x0110A1E1), pos_x=66.803*, pos_z=-96.562*, pos_y=20.791*, direction=249.6°*)
 341: 0x2667 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dai0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=142*
-342: 0x2676 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8032*]:
+342: 0x2676 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8033*]:
     → "You die now!"
 343: 0x267D [0x1C] WAIT(60* ticks)
 344: 0x2680 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=748*
@@ -2499,7 +2499,7 @@ SUBROUTINE_1900:
 351: 0x26E5 [0x1C] WAIT(60* ticks)
 352: 0x26E8 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=748*
 353: 0x26F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[748*, 0*]
-354: 0x2708 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8033*]:
+354: 0x2708 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8034*]:
     → "What!?"
 355: 0x270F [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x2710 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3847*, entity1=Mligni-Vorgut (ID: 17867238/0x0110A1E6), entity2=Mligni-Vorgut (ID: 17867238/0x0110A1E6), string="tue2")
@@ -2507,14 +2507,14 @@ SUBROUTINE_1900:
 358: 0x2730 [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [EventEntity, EventEntity], work=748*
 359: 0x273F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[748*, 0*]
 360: 0x2750 [0x1C] WAIT(60* ticks)
-361: 0x2753 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8034*]:
+361: 0x2753 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8035*]:
     → "Power...no work?"
 362: 0x275A [0x23] WAIT_FOR_DIALOG_INTERACTION
 363: 0x275B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3847*, entity1=Mligni-Vorgut (ID: 17867238/0x0110A1E6), entity2=Mligni-Vorgut (ID: 17867238/0x0110A1E6), string="tue3")
 364: 0x276B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3848*, entity1=Unnamed NPC (ID: 17867244/0x0110A1EC), entity2=Unnamed NPC (ID: 17867244/0x0110A1EC), string="tue3")
 365: 0x277B [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=748*
 366: 0x278A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[748*, 0*]
-367: 0x279B [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8035*]:
+367: 0x279B [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8036*]:
     → "What you do to power!?"
 368: 0x27A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 369: 0x27A3 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3847*, entity1=Mligni-Vorgut (ID: 17867238/0x0110A1E6), entity2=Mligni-Vorgut (ID: 17867238/0x0110A1E6), string="tuel")
@@ -2531,7 +2531,7 @@ SUBROUTINE_1900:
 380: 0x2812 [0x1C] WAIT(120* ticks)
 381: 0x2815 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [EventEntity, EventEntity], work=748*
 382: 0x2824 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[748*, 0*]
-383: 0x2835 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8036*]:
+383: 0x2835 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8037*]:
     → "Sneaky no-scales...Mligni no need power to make die!"
 384: 0x283C [0x23] WAIT_FOR_DIALOG_INTERACTION
 385: 0x283D [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [EventEntity, EventEntity], work=748*
@@ -3045,7 +3045,7 @@ SUBROUTINE_1900:
  92: 0x2BD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[748*, 0*]
  93: 0x2BE1 [0x1C] WAIT(15* ticks)
  94: 0x2BE4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 95: 0x2BF5 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8037*]:
+ 95: 0x2BF5 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8038*]:
     → "Guuurrr... If only had power! Still, you can no win."
  96: 0x2BFC [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x2BFD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "msd1" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=3852*
@@ -3055,17 +3055,17 @@ SUBROUTINE_1900:
 101: 0x2C3D [0x1C] WAIT(240* ticks)
 102: 0x2C40 [0x52] END_LOAD_SCHEDULER: End scheduler "s048" with entities [EventEntity, EventEntity], work=748*
 103: 0x2C4F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [EventEntity, EventEntity], work=[748*, 0*]
-104: 0x2C60 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8038*]:
+104: 0x2C60 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8039*]:
     → "Kurhurhur... You can no hurt Mligni here."
 105: 0x2C67 [0x23] WAIT_FOR_DIALOG_INTERACTION
-106: 0x2C68 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8039*]:
+106: 0x2C68 [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8040*]:
     → "Witches soon grow tired. Power come back. Then no-scales die."
 107: 0x2C6F [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x2C70 [0x52] END_LOAD_SCHEDULER: End scheduler "s049" with entities [EventEntity, EventEntity], work=748*
 109: 0x2C7F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[748*, 0*]
 110: 0x2C90 [0x6E] Cilmad (ID: 17867247/0x0110A1EF) uses emote 21*
 111: 0x2C97 [0x99] Wait for Cilmad (ID: 17867247/0x0110A1EF) animation to complete
-112: 0x2C9C [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8040*]:
+112: 0x2C9C [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8041*]:
     → "Wha...?"
 113: 0x2CA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x2CA4 [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=748*
@@ -3073,38 +3073,38 @@ SUBROUTINE_1900:
 116: 0x2CC4 [0x1C] WAIT(150* ticks)
 117: 0x2CC7 [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [EventEntity, EventEntity], work=748*
 118: 0x2CD6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [EventEntity, EventEntity], work=[748*, 0*]
-119: 0x2CE7 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [8041*]:
+119: 0x2CE7 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [8042*]:
     → "Can't...hold it..."
 120: 0x2CEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x2CEF [0x52] END_LOAD_SCHEDULER: End scheduler "s052" with entities [EventEntity, EventEntity], work=748*
 122: 0x2CFE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [EventEntity, EventEntity], work=[748*, 0*]
-123: 0x2D0F [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8042*]:
+123: 0x2D0F [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8043*]:
     → "Hang in there! If the spell breaks, we're toastaru!"
 124: 0x2D16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x2D17 [0x52] END_LOAD_SCHEDULER: End scheduler "s053" with entities [EventEntity, EventEntity], work=748*
 126: 0x2D26 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[748*, 0*]
-127: 0x2D37 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8043*]:
+127: 0x2D37 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8044*]:
     → "Prepare to r-r-retreat!"
 128: 0x2D3E [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x2D3F [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [EventEntity, EventEntity], work=748*
 130: 0x2D4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [EventEntity, EventEntity], work=[748*, 0*]
-131: 0x2D5F [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8044*]:
+131: 0x2D5F [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8045*]:
     → "No, there's got to be a way..."
 132: 0x2D66 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x2D67 [0x1C] WAIT(60* ticks)
 134: 0x2D6A [0x52] END_LOAD_SCHEDULER: End scheduler "s055" with entities [EventEntity, EventEntity], work=748*
 135: 0x2D79 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s056" with entities [EventEntity, EventEntity], work=[748*, 0*]
-136: 0x2D8A [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8045*]:
+136: 0x2D8A [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8046*]:
     → "...Of course!"
 137: 0x2D91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x2D92 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s056" with entities [EventEntity, EventEntity], work=748*
 139: 0x2DA1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [EventEntity, EventEntity], work=[748*, 0*]
-140: 0x2DB2 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8046*]:
+140: 0x2DB2 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8047*]:
     → "Nashu, take the device out of my tunic and give it to <Player>, quickly!"
 141: 0x2DB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x2DBA [0x4A] Nashu (ID: 17867233/0x0110A1E1) looks at Soraa Ishakal (ID: 17867234/0x0110A1E2)
 143: 0x2DC3 [0x1C] WAIT(30* ticks)
-144: 0x2DC6 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8047*]:
+144: 0x2DC6 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8048*]:
     → "Your tunic...?"
 145: 0x2DCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x2DCE [0x52] END_LOAD_SCHEDULER: End scheduler "s057" with entities [EventEntity, EventEntity], work=748*
@@ -3112,13 +3112,13 @@ SUBROUTINE_1900:
 148: 0x2DEE [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Nashu (ID: 17867233/0x0110A1E1), tag_num=0x0E)
 149: 0x2DF5 [0x52] END_LOAD_SCHEDULER: End scheduler "s058" with entities [EventEntity, EventEntity], work=748*
 150: 0x2E04 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [EventEntity, EventEntity], work=[748*, 0*]
-151: 0x2E15 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8048*]:
+151: 0x2E15 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8049*]:
     → "Wait. Isn't this that contraption you made earlier?"
 152: 0x2E1C [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x2E1D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s059" with entities [EventEntity, EventEntity], work=748*
 154: 0x2E2C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [EventEntity, EventEntity], work=[748*, 0*]
 155: 0x2E3D [0x27] REQ_SET(priority=0x05, entity_id=Nashu (ID: 17867233/0x0110A1E1), tag_num=0x0F)
-156: 0x2E44 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8049*]:
+156: 0x2E44 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8050*]:
     → "<Player>, use it on Mligni!"
 157: 0x2E4B [0x1C] WAIT(150* ticks)
 158: 0x2E4E [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [EventEntity, EventEntity], work=748*
@@ -3150,7 +3150,7 @@ SUBROUTINE_2F04:
 182: 0x2F49 [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [EventEntity, EventEntity], work=748*
 183: 0x2F58 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [EventEntity, EventEntity], work=[748*, 0*]
 184: 0x2F69 [0xD0] LOAD_SCHEDULED_TASK_ALT5: Load scheduler "vcm1" with entities [EventEntity, EventEntity], work=[128*, 0*]
-185: 0x2F7A [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8050*]:
+185: 0x2F7A [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8051*]:
     → "No! No possible!"
 186: 0x2F81 [0x1C] WAIT(60* ticks)
 187: 0x2F84 [0xD0] LOAD_SCHEDULED_TASK_ALT5: Load scheduler "stop" with entities [Mligni-Vorgut (ID: 17867238/0x0110A1E6), Mligni-Vorgut (ID: 17867238/0x0110A1E6)], work=[128*, 0*]
@@ -3177,14 +3177,14 @@ SUBROUTINE_2F04:
 208: 0x3065 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[748*, 0*]
 209: 0x3076 [0x1C] WAIT(15* ticks)
 210: 0x3079 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-211: 0x308A [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8051*]:
+211: 0x308A [0x2B] Mligni-Vorgut (ID: 17867238/0x0110A1E6) [8052*]:
     → "Gooor... Dirty no-scales...how break wall?"
 212: 0x3091 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x3092 [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=748*
 214: 0x30A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[748*, 0*]
 215: 0x30B2 [0x6E] Nashu (ID: 17867233/0x0110A1E1) uses emote 36*
 216: 0x30B9 [0x99] Wait for Nashu (ID: 17867233/0x0110A1E1) animation to complete
-217: 0x30BE [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8052*]:
+217: 0x30BE [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8053*]:
     → "We...we did it!"
 218: 0x30C5 [0x1C] WAIT(60* ticks)
 219: 0x30C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -3224,7 +3224,7 @@ SUBROUTINE_318E:
 251: 0x3212 [0x52] END_LOAD_SCHEDULER: End scheduler "s073" with entities [EventEntity, EventEntity], work=748*
 252: 0x3221 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [EventEntity, EventEntity], work=[748*, 0*]
 253: 0x3232 [0x4A] Nashu (ID: 17867233/0x0110A1E1) looks at Soraa Ishakal (ID: 17867234/0x0110A1E2)
-254: 0x323B [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8053*]:
+254: 0x323B [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8054*]:
     → "Look out!"
 255: 0x3242 [0x1C] WAIT(50* ticks)
 256: 0x3245 [0x27] REQ_SET(priority=0x05, entity_id=Nashu (ID: 17867233/0x0110A1E1), tag_num=0x10)
@@ -3256,7 +3256,7 @@ SUBROUTINE_318E:
 282: 0x3363 [0x1C] WAIT(120* ticks)
 283: 0x3366 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [EventEntity, EventEntity], work=748*
 284: 0x3375 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [EventEntity, EventEntity], work=[748*, 0*]
-285: 0x3386 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8054*]:
+285: 0x3386 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8055*]:
     → "Nashu!"
 286: 0x338D [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x338E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s077" with entities [EventEntity, EventEntity], work=748*
@@ -3293,7 +3293,7 @@ SUBROUTINE_318E:
 318: 0x34BD [0x1C] WAIT(30* ticks)
 319: 0x34C0 [0x52] END_LOAD_SCHEDULER: End scheduler "s093" with entities [EventEntity, EventEntity], work=748*
 320: 0x34CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [EventEntity, EventEntity], work=[748*, 0*]
-321: 0x34E0 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8056*]:
+321: 0x34E0 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8057*]:
     → "Hang in there!"
 322: 0x34E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x34E8 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Araustoix (ID: 17867246/0x0110A1EE))
@@ -3309,38 +3309,38 @@ SUBROUTINE_318E:
 333: 0x355F [0x1C] WAIT(120* ticks)
 334: 0x3562 [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [EventEntity, EventEntity], work=748*
 335: 0x3571 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [EventEntity, EventEntity], work=[748*, 0*]
-336: 0x3582 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8057*]:
+336: 0x3582 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8058*]:
     → "Nashu... Why were you so r-r-reckless?"
 337: 0x3589 [0x23] WAIT_FOR_DIALOG_INTERACTION
 338: 0x358A [0x52] END_LOAD_SCHEDULER: End scheduler "s084" with entities [EventEntity, EventEntity], work=748*
 339: 0x3599 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s085" with entities [EventEntity, EventEntity], work=[748*, 0*]
-340: 0x35AA [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8058*]:
+340: 0x35AA [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8059*]:
     → "No..."
 341: 0x35B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 342: 0x35B2 [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [EventEntity, EventEntity], work=748*
 343: 0x35C1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [EventEntity, EventEntity], work=[748*, 0*]
 344: 0x35D2 [0x7C] Zunmimi (ID: 17867235/0x0110A1E3)->Render.Flags2 |= 0x00
-345: 0x35D8 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8059*]:
+345: 0x35D8 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8060*]:
     → "..."
 346: 0x35DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x35E0 [0x52] END_LOAD_SCHEDULER: End scheduler "s086" with entities [EventEntity, EventEntity], work=748*
 348: 0x35EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [EventEntity, EventEntity], work=[748*, 0*]
 349: 0x3600 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)], work=59*
 350: 0x360F [0x1C] WAIT(90* ticks)
-351: 0x3612 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8060*]:
+351: 0x3612 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8061*]:
     → "You stupid, stupid idiot. Who told you to die?"
 352: 0x3619 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x361A [0x52] END_LOAD_SCHEDULER: End scheduler "s087" with entities [EventEntity, EventEntity], work=748*
 354: 0x3629 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[748*, 0*]
 355: 0x363A [0x79] Melisandra (ID: 17867236/0x0110A1E4) looks at Soraa Ishakal (ID: 17867234/0x0110A1E2) (Basic look)
-356: 0x3644 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [8061*]:
+356: 0x3644 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [8062*]:
     → "Soraa..."
 357: 0x364B [0x23] WAIT_FOR_DIALOG_INTERACTION
 358: 0x364C [0x52] END_LOAD_SCHEDULER: End scheduler "s088" with entities [EventEntity, EventEntity], work=748*
 359: 0x365B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [EventEntity, EventEntity], work=[748*, 0*]
 360: 0x366C [0x6E] Soraa Ishakal (ID: 17867234/0x0110A1E2) uses emote 25*
 361: 0x3673 [0x99] Wait for Soraa Ishakal (ID: 17867234/0x0110A1E2) animation to complete
-362: 0x3678 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8062*]:
+362: 0x3678 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8063*]:
     → "I won't let you die!"
 363: 0x367F [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x3680 [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [EventEntity, EventEntity], work=748*
@@ -3351,7 +3351,7 @@ SUBROUTINE_318E:
 369: 0x36B9 [0x1C] WAIT(20* ticks)
 370: 0x36BC [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [EventEntity, EventEntity], work=748*
 371: 0x36CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[748*, 0*]
-372: 0x36DC [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8063*]:
+372: 0x36DC [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8064*]:
     → "Wha--!?"
 373: 0x36E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x36E4 [0x7C] Zunmimi (ID: 17867235/0x0110A1E3)->Render.Flags2 |= 0x01
@@ -3387,17 +3387,17 @@ SUBROUTINE_318E:
 404: 0x381D [0x52] END_LOAD_SCHEDULER: End scheduler "s096" with entities [EventEntity, EventEntity], work=748*
 405: 0x382C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s097" with entities [EventEntity, EventEntity], work=[748*, 0*]
 406: 0x383D [0x7B] Vortimere (ID: 17867245/0x0110A1ED) stops talking
-407: 0x3842 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8064*]:
+407: 0x3842 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8065*]:
     → "What...? I thought I was..."
 408: 0x3849 [0x23] WAIT_FOR_DIALOG_INTERACTION
 409: 0x384A [0xBA] SET_ENTITY_POSITION(entity_id=Soraa Ishakal (ID: 17867234/0x0110A1E2), pos_x=67.311*, pos_z=-98.681*, pos_y=20.900*, direction=249.6°*)
 410: 0x3857 [0x80] LOAD_WAIT(entity=Soraa Ishakal (ID: 17867234/0x0110A1E2))
 411: 0x385C [0x52] END_LOAD_SCHEDULER: End scheduler "s097" with entities [EventEntity, EventEntity], work=748*
 412: 0x386B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s098" with entities [EventEntity, EventEntity], work=[748*, 0*]
-413: 0x387C [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8065*]:
+413: 0x387C [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8066*]:
     → "He lives!"
 414: 0x3883 [0x23] WAIT_FOR_DIALOG_INTERACTION
-415: 0x3884 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8066*]:
+415: 0x3884 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8067*]:
     → "Remarkable..."
 416: 0x388B [0x23] WAIT_FOR_DIALOG_INTERACTION
 417: 0x388C [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Soraa Ishakal (ID: 17867234/0x0110A1E2))
@@ -3406,7 +3406,7 @@ SUBROUTINE_318E:
 420: 0x38A6 [0x52] END_LOAD_SCHEDULER: End scheduler "s098" with entities [EventEntity, EventEntity], work=748*
 421: 0x38B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s099" with entities [EventEntity, EventEntity], work=[748*, 0*]
 422: 0x38C6 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Soraa Ishakal (ID: 17867234/0x0110A1E2), Soraa Ishakal (ID: 17867234/0x0110A1E2)]
-423: 0x38D3 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8067*]:
+423: 0x38D3 [0x2B] Soraa Ishakal (ID: 17867234/0x0110A1E2) [8068*]:
     → "Nashu...you...you stupid..."
 424: 0x38DA [0x79] Nashu (ID: 17867233/0x0110A1E1) looks at Soraa Ishakal (ID: 17867234/0x0110A1E2) (Basic look)
 425: 0x38E4 [0x4A] LocalPlayer looks at Soraa Ishakal (ID: 17867234/0x0110A1E2)
@@ -3416,7 +3416,7 @@ SUBROUTINE_318E:
 429: 0x3910 [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x3911 [0x6E] Nashu (ID: 17867233/0x0110A1E1) uses emote 21*
 431: 0x3918 [0x99] Wait for Nashu (ID: 17867233/0x0110A1E1) animation to complete
-432: 0x391D [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8068*]:
+432: 0x391D [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8069*]:
     → "Soraa!?"
 433: 0x3924 [0x23] WAIT_FOR_DIALOG_INTERACTION
 434: 0x3925 [0x52] END_LOAD_SCHEDULER: End scheduler "s100" with entities [EventEntity, EventEntity], work=748*
@@ -3426,7 +3426,7 @@ SUBROUTINE_318E:
 438: 0x3957 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s102" with entities [EventEntity, EventEntity], work=[748*, 0*]
 439: 0x3968 [0x79] Zunmimi (ID: 17867235/0x0110A1E3) looks at Nashu (ID: 17867233/0x0110A1E1) (Basic look)
 440: 0x3972 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zunmimi (ID: 17867235/0x0110A1E3), Zunmimi (ID: 17867235/0x0110A1E3)], work=49*
-441: 0x3981 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8069*]:
+441: 0x3981 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8070*]:
     → "Don't worry, she's just faintarued. I've never seen Sis use so much magic."
 442: 0x3988 [0x23] WAIT_FOR_DIALOG_INTERACTION
 443: 0x3989 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zunmimi (ID: 17867235/0x0110A1E3), Zunmimi (ID: 17867235/0x0110A1E3)], work=49*
@@ -3449,22 +3449,22 @@ SUBROUTINE_318E:
 460: 0x3A3C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s125" with entities [EventEntity, EventEntity], work=[748*, 0*]
 461: 0x3A4D [0x6E] Melisandra (ID: 17867236/0x0110A1E4) uses emote 6*
 462: 0x3A54 [0x99] Wait for Melisandra (ID: 17867236/0x0110A1E4) animation to complete
-463: 0x3A59 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [8070*]:
+463: 0x3A59 [0x2B] Melisandra (ID: 17867236/0x0110A1E4) [8071*]:
     → "The artifact...shattered."
 464: 0x3A60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 465: 0x3A61 [0x52] END_LOAD_SCHEDULER: End scheduler "s125" with entities [EventEntity, EventEntity], work=748*
 466: 0x3A70 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s105" with entities [EventEntity, EventEntity], work=[748*, 0*]
-467: 0x3A81 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8071*]:
+467: 0x3A81 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8072*]:
     → "So... She used up the artifact's power to save me?"
 468: 0x3A88 [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x3A89 [0x6E] Zunmimi (ID: 17867235/0x0110A1E3) uses emote 7*
 470: 0x3A90 [0x99] Wait for Zunmimi (ID: 17867235/0x0110A1E3) animation to complete
-471: 0x3A95 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8072*]:
+471: 0x3A95 [0x2B] Zunmimi (ID: 17867235/0x0110A1E3) [8073*]:
     → "And it's for the best, if you ask me. That artifactaru would have been too much to handle, even for us."
 472: 0x3A9C [0x23] WAIT_FOR_DIALOG_INTERACTION
 473: 0x3A9D [0x52] END_LOAD_SCHEDULER: End scheduler "s105" with entities [EventEntity, EventEntity], work=748*
 474: 0x3AAC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [EventEntity, EventEntity], work=[748*, 0*]
-475: 0x3ABD [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8073*]:
+475: 0x3ABD [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8074*]:
     → "So the present c-c-crisis has been averted. Altana be praised."
 476: 0x3AC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 477: 0x3AC5 [0x4A] Nashu (ID: 17867233/0x0110A1E1) looks at Vortimere (ID: 17867245/0x0110A1ED)
@@ -3474,10 +3474,10 @@ SUBROUTINE_318E:
 481: 0x3AEA [0x52] END_LOAD_SCHEDULER: End scheduler "s106" with entities [EventEntity, EventEntity], work=748*
 482: 0x3AF9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s107" with entities [EventEntity, EventEntity], work=[748*, 0*]
 483: 0x3B0A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Vortimere (ID: 17867245/0x0110A1ED), Vortimere (ID: 17867245/0x0110A1ED)], work=3257*
-484: 0x3B19 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8074*]:
+484: 0x3B19 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8075*]:
     → "Well done, all of you."
 485: 0x3B20 [0x23] WAIT_FOR_DIALOG_INTERACTION
-486: 0x3B21 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8075*]:
+486: 0x3B21 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8076*]:
     → "Now let us r-r-return to Adoulin."
 487: 0x3B28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 488: 0x3B29 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Vortimere (ID: 17867245/0x0110A1ED), Vortimere (ID: 17867245/0x0110A1ED)], work=3257*
@@ -3499,7 +3499,7 @@ SUBROUTINE_318E:
 504: 0x3BB7 [0x1C] WAIT(40* ticks)
 505: 0x3BBA [0x52] END_LOAD_SCHEDULER: End scheduler "s109" with entities [EventEntity, EventEntity], work=748*
 506: 0x3BC9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [EventEntity, EventEntity], work=[748*, 0*]
-507: 0x3BDA [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8076*]:
+507: 0x3BDA [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8077*]:
     → "Hmmm? Is it safe to leave him here?"
 508: 0x3BE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 509: 0x3BE2 [0x4A] Araustoix (ID: 17867246/0x0110A1EE) looks at LocalPlayer
@@ -3508,15 +3508,15 @@ SUBROUTINE_318E:
 512: 0x3BF7 [0x52] END_LOAD_SCHEDULER: End scheduler "s110" with entities [EventEntity, EventEntity], work=748*
 513: 0x3C06 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s111" with entities [EventEntity, EventEntity], work=[748*, 0*]
 514: 0x3C17 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Araustoix (ID: 17867246/0x0110A1EE), Araustoix (ID: 17867246/0x0110A1EE)], work=29*
-515: 0x3C26 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8077*]:
+515: 0x3C26 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8078*]:
     → "He will get his comeuppance, no doubt, at the hands of his own kin."
 516: 0x3C2D [0x23] WAIT_FOR_DIALOG_INTERACTION
-517: 0x3C2E [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8078*]:
+517: 0x3C2E [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8079*]:
     → "The Velkk will not take his treason lightly."
 518: 0x3C35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x3C36 [0x52] END_LOAD_SCHEDULER: End scheduler "s111" with entities [EventEntity, EventEntity], work=748*
 520: 0x3C45 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s112" with entities [EventEntity, EventEntity], work=[748*, 0*]
-521: 0x3C56 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8079*]:
+521: 0x3C56 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8080*]:
     → "I suspect we shan't be harbored from their wrath as well. We would do best to leave before the storm."
 522: 0x3C5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 523: 0x3C5E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Araustoix (ID: 17867246/0x0110A1EE), Araustoix (ID: 17867246/0x0110A1EE)], work=29*
@@ -3535,7 +3535,7 @@ SUBROUTINE_318E:
 536: 0x3CDA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
 537: 0x3CE9 [0x79] Araustoix (ID: 17867246/0x0110A1EE) looks at Nashu (ID: 17867233/0x0110A1E1) (Basic look)
 538: 0x3CF3 [0x79] LocalPlayer looks at Nashu (ID: 17867233/0x0110A1E1) (Basic look)
-539: 0x3CFD [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8080*]:
+539: 0x3CFD [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8081*]:
     → "We can't leave Soraa here. In her state she'll need the infirmary's care. You two had better come as well. It's best if you're with her."
 540: 0x3D04 [0x4A] Cilmad (ID: 17867247/0x0110A1EF) looks at Nashu (ID: 17867233/0x0110A1E1)
 541: 0x3D0D [0x1C] WAIT(30* ticks)
@@ -3550,7 +3550,7 @@ SUBROUTINE_318E:
 550: 0x3D56 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s114" with entities [EventEntity, EventEntity], work=[748*, 0*]
 551: 0x3D67 [0x6E] Cilmad (ID: 17867247/0x0110A1EF) uses emote 22*
 552: 0x3D6E [0x99] Wait for Cilmad (ID: 17867247/0x0110A1EF) animation to complete
-553: 0x3D73 [0x2B] Cilmad (ID: 17867247/0x0110A1EF) [8081*]:
+553: 0x3D73 [0x2B] Cilmad (ID: 17867247/0x0110A1EF) [8082*]:
     → "Nashu, you seriously mean to bring those witches into the city?"
 554: 0x3D7A [0x23] WAIT_FOR_DIALOG_INTERACTION
 555: 0x3D7B [0x52] END_LOAD_SCHEDULER: End scheduler "s114" with entities [EventEntity, EventEntity], work=748*
@@ -3560,20 +3560,20 @@ SUBROUTINE_318E:
 559: 0x3DAD [0x7B] Vortimere (ID: 17867245/0x0110A1ED) stops talking
 560: 0x3DB2 [0x1C] WAIT(30* ticks)
 561: 0x3DB5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hon0" with entities [Vortimere (ID: 17867245/0x0110A1ED), Vortimere (ID: 17867245/0x0110A1ED)], work=3257*
-562: 0x3DC4 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8082*]:
+562: 0x3DC4 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8083*]:
     → "That...that's right."
 563: 0x3DCB [0x23] WAIT_FOR_DIALOG_INTERACTION
 564: 0x3DCC [0x52] END_LOAD_SCHEDULER: End scheduler "s115" with entities [EventEntity, EventEntity], work=748*
 565: 0x3DDB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s116" with entities [EventEntity, EventEntity], work=[748*, 0*]
 566: 0x3DEC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Cilmad (ID: 17867247/0x0110A1EF), Cilmad (ID: 17867247/0x0110A1EF)], work=9*
-567: 0x3DFB [0x2B] Cilmad (ID: 17867247/0x0110A1EF) [8083*]:
+567: 0x3DFB [0x2B] Cilmad (ID: 17867247/0x0110A1EF) [8084*]:
     → "Have you forgotten the evil the Blackthorn Coven has done? Do you expect the people of Adoulin to so easily forgive their sins?"
 568: 0x3E02 [0x23] WAIT_FOR_DIALOG_INTERACTION
 569: 0x3E03 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Cilmad (ID: 17867247/0x0110A1EF), Cilmad (ID: 17867247/0x0110A1EF)], work=9*
 570: 0x3E12 [0x52] END_LOAD_SCHEDULER: End scheduler "s116" with entities [EventEntity, EventEntity], work=748*
 571: 0x3E21 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s117" with entities [EventEntity, EventEntity], work=[748*, 0*]
 572: 0x3E32 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
-573: 0x3E41 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8084*]:
+573: 0x3E41 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8085*]:
     → "But...you saw them save our skins just now! You'd have us, as Adoulinians, just leave them here to those savages?"
 574: 0x3E48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 575: 0x3E49 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
@@ -3581,21 +3581,21 @@ SUBROUTINE_318E:
 577: 0x3E67 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s118" with entities [EventEntity, EventEntity], work=[748*, 0*]
 578: 0x3E78 [0x6E] Cilmad (ID: 17867247/0x0110A1EF) uses emote 22*
 579: 0x3E7F [0x99] Wait for Cilmad (ID: 17867247/0x0110A1EF) animation to complete
-580: 0x3E84 [0x2B] Cilmad (ID: 17867247/0x0110A1EF) [8085*]:
+580: 0x3E84 [0x2B] Cilmad (ID: 17867247/0x0110A1EF) [8086*]:
     → "The people will not stand for--"
 581: 0x3E8B [0x23] WAIT_FOR_DIALOG_INTERACTION
 582: 0x3E8C [0x52] END_LOAD_SCHEDULER: End scheduler "s118" with entities [EventEntity, EventEntity], work=748*
 583: 0x3E9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s119" with entities [EventEntity, EventEntity], work=[748*, 0*]
-584: 0x3EAC [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8086*]:
+584: 0x3EAC [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8087*]:
     → "Nashu is right."
 585: 0x3EB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 586: 0x3EB4 [0x79] Cilmad (ID: 17867247/0x0110A1EF) looks at Araustoix (ID: 17867246/0x0110A1EE) (Basic look)
-587: 0x3EBE [0x2B] Cilmad (ID: 17867247/0x0110A1EF) [8087*]:
+587: 0x3EBE [0x2B] Cilmad (ID: 17867247/0x0110A1EF) [8088*]:
     → "Araustoix...?"
 588: 0x3EC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 589: 0x3EC6 [0x52] END_LOAD_SCHEDULER: End scheduler "s119" with entities [EventEntity, EventEntity], work=748*
 590: 0x3ED5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s120" with entities [EventEntity, EventEntity], work=[748*, 0*]
-591: 0x3EE6 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8088*]:
+591: 0x3EE6 [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8089*]:
     → "We owe them our lives. To cast such a life debt aside and leave them to their fate would be most iniquitous."
 592: 0x3EED [0x23] WAIT_FOR_DIALOG_INTERACTION
 593: 0x3EEE [0x52] END_LOAD_SCHEDULER: End scheduler "s120" with entities [EventEntity, EventEntity], work=748*
@@ -3604,21 +3604,21 @@ SUBROUTINE_318E:
 596: 0x3F17 [0x4A] Nashu (ID: 17867233/0x0110A1E1) looks at Vortimere (ID: 17867245/0x0110A1ED)
 597: 0x3F20 [0x1C] WAIT(30* ticks)
 598: 0x3F23 [0x4A] Cilmad (ID: 17867247/0x0110A1EF) looks at Vortimere (ID: 17867245/0x0110A1ED)
-599: 0x3F2C [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8089*]:
+599: 0x3F2C [0x2B] Araustoix (ID: 17867246/0x0110A1EE) [8090*]:
     → "Is it not so, Lord Vortimere?"
 600: 0x3F33 [0x23] WAIT_FOR_DIALOG_INTERACTION
 601: 0x3F34 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes0" with entities [Vortimere (ID: 17867245/0x0110A1ED), Vortimere (ID: 17867245/0x0110A1ED)], work=3257*
 602: 0x3F43 [0x52] END_LOAD_SCHEDULER: End scheduler "s121" with entities [EventEntity, EventEntity], work=748*
 603: 0x3F52 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s122" with entities [EventEntity, EventEntity], work=[748*, 0*]
 604: 0x3F63 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Melisandra (ID: 17867236/0x0110A1E4)
-605: 0x3F69 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8090*]:
+605: 0x3F69 [0x2B] Vortimere (ID: 17867245/0x0110A1ED) [8091*]:
     → "Indeed. I will endeavor to m-m-make the people of Adoulin understand."
 606: 0x3F70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 607: 0x3F71 [0x52] END_LOAD_SCHEDULER: End scheduler "s122" with entities [EventEntity, EventEntity], work=748*
 608: 0x3F80 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s123" with entities [EventEntity, EventEntity], work=[748*, 0*]
 609: 0x3F91 [0x6E] Nashu (ID: 17867233/0x0110A1E1) uses emote 7*
 610: 0x3F98 [0x99] Wait for Nashu (ID: 17867233/0x0110A1E1) animation to complete
-611: 0x3F9D [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8091*]:
+611: 0x3F9D [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8092*]:
     → "Thank you, Lord Vortimere!"
 612: 0x3FA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 613: 0x3FA5 [0x52] END_LOAD_SCHEDULER: End scheduler "s123" with entities [EventEntity, EventEntity], work=748*
@@ -3626,7 +3626,7 @@ SUBROUTINE_318E:
 615: 0x3FC5 [0x4A] Nashu (ID: 17867233/0x0110A1E1) looks at LocalPlayer
 616: 0x3FCE [0x1C] WAIT(30* ticks)
 617: 0x3FD1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
-618: 0x3FE0 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8092*]:
+618: 0x3FE0 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8093*]:
     → "You must be exhausted as well, <Player>. Come with us to the infirmary in Western Adoulin."
 619: 0x3FE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 620: 0x3FE8 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -3698,10 +3698,10 @@ SUBROUTINE_318E:
  18: 0x40C8 [0x1C] WAIT(15* ticks)
  19: 0x40CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  20: 0x40DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nashu (ID: 17867233/0x0110A1E1), Nashu (ID: 17867233/0x0110A1E1)], work=9*
- 21: 0x40EB [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8093*]:
+ 21: 0x40EB [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8094*]:
     → "I'll make sure Soraa and her sisters get cared for in town."
  22: 0x40F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x40F3 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8092*]:
+ 23: 0x40F3 [0x2B] Nashu (ID: 17867233/0x0110A1E1) [8093*]:
     → "You must be exhausted as well, <Player>. Come with us to the infirmary in Western Adoulin."
  24: 0x40FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x40FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

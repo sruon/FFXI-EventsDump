@@ -56,23 +56,23 @@
 |      19 | 0x008C      |         140 |
 |      20 | 0x00D2      |         210 |
 |      21 | 0xFFFFFFFF  |  4294967295 |
-|      22 | 0x1D7F      |        7551 |
-|      23 | 0x1D7D      |        7549 |
-|      24 | 0x1DAB      |        7595 |
+|      22 | 0x1D80      |        7552 |
+|      23 | 0x1D7E      |        7550 |
+|      24 | 0x1DAC      |        7596 |
 |      25 | 0x003F      |          63 |
 |      26 | 0x0020      |          32 |
-|      27 | 0x1DA8      |        7592 |
-|      28 | 0x1DA9      |        7593 |
-|      29 | 0x1DAA      |        7594 |
+|      27 | 0x1DA9      |        7593 |
+|      28 | 0x1DAA      |        7594 |
+|      29 | 0x1DAB      |        7595 |
 |      30 | 0x0003      |           3 |
 |      31 | 0x1072      |        4210 |
 |      32 | 0x1074      |        4212 |
 |      33 | 0x14B8      |        5304 |
 |      34 | 0x14B9      |        5305 |
-|      35 | 0x1DAD      |        7597 |
+|      35 | 0x1DAE      |        7598 |
 |      36 | 0x40000000  |  1073741824 |
 |      37 | 0x001F      |          31 |
-|      38 | 0x1DAE      |        7598 |
+|      38 | 0x1DAF      |        7599 |
 |      39 | 0x03E8      |        1000 |
 |      40 | 0x0004      |           4 |
 |      41 | 0x0006      |           6 |
@@ -175,25 +175,25 @@
 |     138 | 0xFFFFC24E  |  4294951502 |
 |     139 | 0x0E6A      |        3690 |
 |     140 | 0x00C9      |         201 |
-|     141 | 0x213E      |        8510 |
+|     141 | 0x213F      |        8511 |
 |     142 | 0x0090      |         144 |
-|     143 | 0x214A      |        8522 |
+|     143 | 0x214B      |        8523 |
 |     144 | 0x0063      |          99 |
-|     145 | 0x214B      |        8523 |
+|     145 | 0x214C      |        8524 |
 
 ## String References
 
-- **7549**: Contributing a total of $7 [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %0!
-- **7551**: You scored $4 [Petra/Petras] ($5 [Ballista point/Ballista points]).
-- **7592**: You find the temporary item: $0!
-- **7593**: You find $0, but you cannot carry any more temporary items.
-- **7594**: You find $0, but you cannot carry more than one of that temporary item.
-- **7595**: You find a Petra! [Keep it./Throw it away.]
-- **7597**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
-- **7598**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
-- **8510**: There is treasure somewhere in the vicinity of this marker...
-- **8522**: Your chocobo seems especially sharp today!
-- **8523**: Your chocobo seems especially energetic today!
+- **7550**: Contributing a total of $7 [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %0!
+- **7552**: You scored $4 [Petra/Petras] ($5 [Ballista point/Ballista points]).
+- **7593**: You find the temporary item: $0!
+- **7594**: You find $0, but you cannot carry any more temporary items.
+- **7595**: You find $0, but you cannot carry more than one of that temporary item.
+- **7596**: You find a Petra! [Keep it./Throw it away.]
+- **7598**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
+- **7599**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
+- **8511**: There is treasure somewhere in the vicinity of this marker...
+- **8523**: Your chocobo seems especially sharp today!
+- **8524**: Your chocobo seems especially energetic today!
 
 ## Events
 
@@ -428,11 +428,11 @@ SUBROUTINE_0089:
   3: 0x0107 [0x47] UPDATE_PLAYER_POS(Work_Zone[2], Work_Zone[3], Work_Zone[4], yaw=Work_Zone[5])
   4: 0x0111 [0x47] WAIT_PLAYER_POS_UPDATE
   5: 0x0113 [0x02] IF !(Work_Zone[6] == 4294967295*) GOTO 0x012B
-  6: 0x011B [0x48] [System] [7551*]:
+  6: 0x011B [0x48] [System] [7552*]:
     → "You scored $4 [Petra/Petras] ($5 [Ballista point/Ballista points])."
   7: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x011F [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x012B
-  9: 0x0127 [0x48] [System] [7549*]:
+  9: 0x0127 [0x48] [System] [7550*]:
     → "Contributing a total of $7 [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %0!"
  10: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x012B [0x21] END_EVENT
@@ -461,7 +461,7 @@ SUBROUTINE_0089:
 
 ```
   0: 0x012D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x012F [0x24] CREATE_DIALOG(message_id=7595*, default_option=1*, option_flags=0*)
+  1: 0x012F [0x24] CREATE_DIALOG(message_id=7596*, default_option=1*, option_flags=0*)
     → "You find a Petra! [Keep it./Throw it away.]"
   2: 0x0136 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0137 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0148
@@ -788,19 +788,19 @@ SUBROUTINE_0192:
  18: 0x01A5 [0x06] ExtData[1]->WorkLocal[18] = 0
  19: 0x01A8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[20]
  20: 0x01AD [0x02] IF !(ExtData[1]->WorkLocal[19] == 0*) GOTO 0x01C1
- 21: 0x01B5 [0x48] [System] [7592*]:
+ 21: 0x01B5 [0x48] [System] [7593*]:
     → "You find the temporary item: $0!"
  22: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x01B9 [0x03] ExtData[1]->WorkLocal[18] = 2*
  24: 0x01BE [0x01] GOTO 0x01E9
  25: 0x01C1 [0x02] IF !(ExtData[1]->WorkLocal[19] == 1*) GOTO 0x01D5
- 26: 0x01C9 [0x48] [System] [7593*]:
+ 26: 0x01C9 [0x48] [System] [7594*]:
     → "You find $0, but you cannot carry any more temporary items."
  27: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x01CD [0x03] ExtData[1]->WorkLocal[18] = 1*
  29: 0x01D2 [0x01] GOTO 0x01E9
  30: 0x01D5 [0x02] IF !(ExtData[1]->WorkLocal[19] == 2*) GOTO 0x01E9
- 31: 0x01DD [0x48] [System] [7594*]:
+ 31: 0x01DD [0x48] [System] [7595*]:
     → "You find $0, but you cannot carry more than one of that temporary item."
  32: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x01E1 [0x03] ExtData[1]->WorkLocal[18] = 3*
@@ -826,7 +826,7 @@ SUBROUTINE_01E9:
 SUBROUTINE_022A:
  50: 0x022A [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x0239
  51: 0x0232 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[18], bit_index_work_offset=2*, condition_work_offset=1*)
- 52: 0x0239 [0x24] CREATE_DIALOG(message_id=7597*, default_option=0*, option_flags=ExtData[1]->WorkLocal[18])
+ 52: 0x0239 [0x24] CREATE_DIALOG(message_id=7598*, default_option=0*, option_flags=ExtData[1]->WorkLocal[18])
     → "What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]"
  53: 0x0240 [0x25] WAIT_DIALOG_SELECT()
  54: 0x0241 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0251
@@ -886,7 +886,7 @@ SUBROUTINE_02CD:
 106: 0x02FE [0x01] GOTO 0x02CD
 107: 0x0301 [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[20]
 108: 0x0306 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[17], bit_index_work_offset=31*, condition_work_offset=1*)
-109: 0x030D [0x24] CREATE_DIALOG(message_id=7598*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
+109: 0x030D [0x24] CREATE_DIALOG(message_id=7599*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
     → "Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]"
 110: 0x0314 [0x25] WAIT_DIALOG_SELECT()
 111: 0x0315 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x0323
@@ -1868,17 +1868,17 @@ SUBROUTINE_1223:
      0x12DB [0x00] END_REQSTACK()
      0x12DC [0x00] END_REQSTACK()
      0x12DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
-     0x12EE [0x48] [System] [8510*]:
+     0x12EE [0x48] [System] [8511*]:
     → "There is treasure somewhere in the vicinity of this marker..."
      0x12F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12F2 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x130F
      0x12FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak1" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x130B [0x48] [System] [8522*]:
+     0x130B [0x48] [System] [8523*]:
     → "Your chocobo seems especially sharp today!"
      0x130E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x130F [0x02] IF !(Work_Zone[7] == 99*) GOTO 0x132C
      0x1317 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x1328 [0x48] [System] [8523*]:
+     0x1328 [0x48] [System] [8524*]:
     → "Your chocobo seems especially energetic today!"
      0x132B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x132C [0x1C] WAIT(1* ticks)

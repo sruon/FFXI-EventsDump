@@ -20,23 +20,23 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x272C      |       10028 |
+|       0 | 0x272D      |       10029 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x003C      |          60 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x00D3      |         211 |
-|       6 | 0x272D      |       10029 |
+|       6 | 0x272E      |       10030 |
 |       7 | 0x0096      |         150 |
-|       8 | 0x272E      |       10030 |
-|       9 | 0x272F      |       10031 |
+|       8 | 0x272F      |       10031 |
+|       9 | 0x2730      |       10032 |
 |      10 | 0x0064      |         100 |
-|      11 | 0x272B      |       10027 |
+|      11 | 0x272C      |       10028 |
 
 ## String References
 
-- **10027**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
-- **10028**: YOU ARE RIGHT!
+- **10028**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
+- **10029**: YOU ARE RIGHT!
 
 ## Events
 
@@ -107,7 +107,7 @@
 # Dead code (unreachable instructions):
      0x0006 [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x0007 [0x46] CAMERA_CONTROL: Disable user control
-     0x0009 [0x48] [System] [10028*]:
+     0x0009 [0x48] [System] [10029*]:
     → "YOU ARE RIGHT!"
      0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x000D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -121,19 +121,19 @@
      0x0040 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
      0x0045 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
      0x0056 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-     0x0067 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10029*]:
+     0x0067 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10030*]:
     → "HOWDY, CONTESTANTS! I'LL BE YOUR HOST, WINK. HOW CAN I HELP YOU?"
      0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x006F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x0080 [0x1C] WAIT(150* ticks)
-     0x0083 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10030*]:
+     0x0083 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10031*]:
     → "SEARCHING FOR $6... SEARCHING FOR $6..."
      0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x008B [0x1C] WAIT(150* ticks)
      0x008E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=211*
      0x009D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x00AE [0x1C] WAIT(60* ticks)
-     0x00B1 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10031*]:
+     0x00B1 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10032*]:
     → "SORRY, CONTESTANT! THERE IS NO $3 HERE! BUT THANK YOU FOR PLAYING QUIZ DE VANA'DIEL!!!"
      0x00B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -143,7 +143,7 @@
      0x00D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x00E5 [0x1B] RETURN
      0x00E6 [0x03] Work_Zone[1] = 0*
-     0x00EB [0x48] [System] [10027*]:
+     0x00EB [0x48] [System] [10028*]:
     → "THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!"
      0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00EF [0x1B] RETURN

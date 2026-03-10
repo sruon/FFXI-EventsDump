@@ -28,34 +28,34 @@
 |       4 | 0x0004      |           4 |
 |       5 | 0xFFFFFFFF  |  4294967295 |
 |       6 | 0x0005      |           5 |
-|       7 | 0x327D      |       12925 |
-|       8 | 0x327F      |       12927 |
+|       7 | 0x327E      |       12926 |
+|       8 | 0x3280      |       12928 |
 |       9 | 0x0032      |          50 |
 |      10 | 0x0064      |         100 |
-|      11 | 0x3280      |       12928 |
-|      12 | 0x3281      |       12929 |
+|      11 | 0x3281      |       12929 |
+|      12 | 0x3282      |       12930 |
 |      13 | 0x000E      |          14 |
-|      14 | 0x3282      |       12930 |
+|      14 | 0x3283      |       12931 |
 |      15 | 0xFFFFFFF8  |  4294967288 |
-|      16 | 0x3289      |       12937 |
+|      16 | 0x328A      |       12938 |
 |      17 | 0x40000000  |  1073741824 |
 |      18 | 0x000C      |          12 |
 |      19 | 0x001B      |          27 |
-|      20 | 0x3283      |       12931 |
+|      20 | 0x3284      |       12932 |
 |      21 | 0x01F1      |         497 |
 |      22 | 0x0104      |         260 |
-|      23 | 0x329A      |       12954 |
-|      24 | 0x3297      |       12951 |
-|      25 | 0x3298      |       12952 |
-|      26 | 0x3299      |       12953 |
-|      27 | 0x329C      |       12956 |
-|      28 | 0x329D      |       12957 |
-|      29 | 0x329E      |       12958 |
-|      30 | 0x329F      |       12959 |
-|      31 | 0x32A0      |       12960 |
-|      32 | 0x328B      |       12939 |
+|      23 | 0x329B      |       12955 |
+|      24 | 0x3298      |       12952 |
+|      25 | 0x3299      |       12953 |
+|      26 | 0x329A      |       12954 |
+|      27 | 0x329D      |       12957 |
+|      28 | 0x329E      |       12958 |
+|      29 | 0x329F      |       12959 |
+|      30 | 0x32A0      |       12960 |
+|      31 | 0x32A1      |       12961 |
+|      32 | 0x328C      |       12940 |
 |      33 | 0x001F      |          31 |
-|      34 | 0x328C      |       12940 |
+|      34 | 0x328D      |       12941 |
 |      35 | 0x3D8A      |       15754 |
 |      36 | 0x1534      |        5428 |
 |      37 | 0x38FA      |       14586 |
@@ -120,48 +120,48 @@
 |      96 | 0x2D44      |       11588 |
 |      97 | 0x186A0     |      100000 |
 |      98 | 0x0006      |           6 |
-|      99 | 0x3296      |       12950 |
+|      99 | 0x3297      |       12951 |
 |     100 | 0x0014      |          20 |
-|     101 | 0x328D      |       12941 |
-|     102 | 0x328E      |       12942 |
-|     103 | 0x328F      |       12943 |
-|     104 | 0x3294      |       12948 |
-|     105 | 0x3290      |       12944 |
-|     106 | 0x3291      |       12945 |
-|     107 | 0x3293      |       12947 |
-|     108 | 0x3292      |       12946 |
-|     109 | 0x327E      |       12926 |
+|     101 | 0x328E      |       12942 |
+|     102 | 0x328F      |       12943 |
+|     103 | 0x3290      |       12944 |
+|     104 | 0x3295      |       12949 |
+|     105 | 0x3291      |       12945 |
+|     106 | 0x3292      |       12946 |
+|     107 | 0x3294      |       12948 |
+|     108 | 0x3293      |       12947 |
+|     109 | 0x327F      |       12927 |
 
 ## String References
 
-- **12925**: Tally-ho! Caster Captain %, at your service!
-- **12926**: Ah, I see that you are not a member of the Allied Forces. Move along, civilian.
-- **12927**: What do you require? [The Allied Sigil./Info on the Allied Sigil./Duration of the Allied Sigil./Item exchange./Nothing.]
-- **12928**: Choose an option for $8 Allied Note[/s]? [No./Regen./Refresh./Increased meal duration./Next page.]
-- **12929**: Choose an option for $9 Allied Note[/s]? [Return./Decreased EXP loss.]
-- **12930**: Add another option for $8 Allied Note[/s]? [Start over./Regen./Refresh./Increased meal duration./Next page./No.]
-- **12931**: Understood. Let me make the preparations.
-- **12937**: You do not have enough Allied Notes to receive the option.
-- **12939**: You currently possess $0 Allied Note[/s]. Items are divided into categories based on campaign medals. You can only purchase items from the categories of the medals you have earned.
-- **12940**: View which category: [Ribbons./Stars./Emblems./Wings./Medals./Medal of Altana./None for now.]
-- **12941**: You do not possess the appropriate campaign medal to purchase the $8.
-- **12942**: You do not possess enough Allied Notes to purchase the $8.
-- **12943**: Your current job does not allow you to equip the $8.
-- **12944**: You cannot equip the $8 at your current level.
-- **12945**: Everything seems to be in order.
+- **12926**: Tally-ho! Caster Captain %, at your service!
+- **12927**: Ah, I see that you are not a member of the Allied Forces. Move along, civilian.
+- **12928**: What do you require? [The Allied Sigil./Info on the Allied Sigil./Duration of the Allied Sigil./Item exchange./Nothing.]
+- **12929**: Choose an option for $8 Allied Note[/s]? [No./Regen./Refresh./Increased meal duration./Next page.]
+- **12930**: Choose an option for $9 Allied Note[/s]? [Return./Decreased EXP loss.]
+- **12931**: Add another option for $8 Allied Note[/s]? [Start over./Regen./Refresh./Increased meal duration./Next page./No.]
+- **12932**: Understood. Let me make the preparations.
+- **12938**: You do not have enough Allied Notes to receive the option.
+- **12940**: You currently possess $0 Allied Note[/s]. Items are divided into categories based on campaign medals. You can only purchase items from the categories of the medals you have earned.
+- **12941**: View which category: [Ribbons./Stars./Emblems./Wings./Medals./Medal of Altana./None for now.]
+- **12942**: You do not possess the appropriate campaign medal to purchase the $8.
+- **12943**: You do not possess enough Allied Notes to purchase the $8.
+- **12944**: Your current job does not allow you to equip the $8.
+- **12945**: You cannot equip the $8 at your current level.
 - **12946**: Everything seems to be in order.
-- **12947**: Purchase this item? [Yes./No.]
-- **12948**: Are you sure you want this item? [I am sure./I've changed my mind.]
-- **12950**: View which item? (Cost) [$9 ($20)./$10 ($21)./$11 ($22)./$12 ($23)./$13 ($24)./$14 ($25)./$15 ($26)./$16 ($27)./$17 ($28)./$18 ($29)./$19 ($30)./Return.]
-- **12951**: The Allied Sigil is a type of beneficial magic spell offered to all those participating in the Allied Campaign as a bonus for their services.
-- **12952**: However, the effects of this spell vary depending on the performance of your nation's army.
-- **12953**: Armies which employ powerful freelances also receive various benefits to their Sigil.
-- **12954**: I am sorry, but it seems that your campaign medal has expired. I am not able to confirm your status within the Allied Forces, and thus cannot grant you an Allied Sigil. Please report to a Campaign Evaluation Official and reapply for authorization.
-- **12956**: Your current Sigil will expire on ( Earth time).
-- **12957**: You are receiving the latent effect of Regen.
-- **12958**: You are receiving the latent effect of Refresh.
-- **12959**: Your meal duration has been extended.
-- **12960**: Your EXP loss has been reduced.
+- **12947**: Everything seems to be in order.
+- **12948**: Purchase this item? [Yes./No.]
+- **12949**: Are you sure you want this item? [I am sure./I've changed my mind.]
+- **12951**: View which item? (Cost) [$9 ($20)./$10 ($21)./$11 ($22)./$12 ($23)./$13 ($24)./$14 ($25)./$15 ($26)./$16 ($27)./$17 ($28)./$18 ($29)./$19 ($30)./Return.]
+- **12952**: The Allied Sigil is a type of beneficial magic spell offered to all those participating in the Allied Campaign as a bonus for their services.
+- **12953**: However, the effects of this spell vary depending on the performance of your nation's army.
+- **12954**: Armies which employ powerful freelances also receive various benefits to their Sigil.
+- **12955**: I am sorry, but it seems that your campaign medal has expired. I am not able to confirm your status within the Allied Forces, and thus cannot grant you an Allied Sigil. Please report to a Campaign Evaluation Official and reapply for authorization.
+- **12957**: Your current Sigil will expire on ( Earth time).
+- **12958**: You are receiving the latent effect of Regen.
+- **12959**: You are receiving the latent effect of Refresh.
+- **12960**: Your meal duration has been extended.
+- **12961**: Your EXP loss has been reduced.
 
 ## Events
 
@@ -407,10 +407,10 @@ SUBROUTINE_003D:
  25: 0x0091 [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[7]
  26: 0x0096 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[8]
  27: 0x009B [0x1E] EventEntity looks at LocalPlayer and starts talking
- 28: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12925*)
+ 28: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12926*)
     → "Tally-ho! Caster Captain %, at your service!"
  29: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x00A4 [0x24] CREATE_DIALOG(message_id=12927*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+ 30: 0x00A4 [0x24] CREATE_DIALOG(message_id=12928*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "What do you require? [The Allied Sigil./Info on the Allied Sigil./Duration of the Allied Sigil./Item exchange./Nothing.]"
  31: 0x00AB [0x25] WAIT_DIALOG_SELECT()
  32: 0x00AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02BB
@@ -428,7 +428,7 @@ SUBROUTINE_00C8:
 SUBROUTINE_00E0:
  41: 0x00E0 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0152
  42: 0x00E8 [0x06] ExtData[1]->WorkLocal[2] = 0
- 43: 0x00EB [0x24] CREATE_DIALOG(message_id=12928*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 43: 0x00EB [0x24] CREATE_DIALOG(message_id=12929*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "Choose an option for $8 Allied Note[/s]? [No./Regen./Refresh./Increased meal duration./Next page.]"
  44: 0x00F2 [0x25] WAIT_DIALOG_SELECT()
  45: 0x00F3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
@@ -441,7 +441,7 @@ SUBROUTINE_00FE:
  50: 0x0113 [0x0C] ExtData[1]->WorkLocal[0]--
  51: 0x0116 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=ExtData[1]->WorkLocal[0], condition_work_offset=1*)
  52: 0x011D [0x01] GOTO 0x014F
- 53: 0x0120 [0x24] CREATE_DIALOG(message_id=12929*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 53: 0x0120 [0x24] CREATE_DIALOG(message_id=12930*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Choose an option for $9 Allied Note[/s]? [Return./Decreased EXP loss.]"
  54: 0x0127 [0x25] WAIT_DIALOG_SELECT()
  55: 0x0128 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0136
@@ -465,7 +465,7 @@ SUBROUTINE_015D:
  67: 0x016A [0x10] ExtData[1]->WorkLocal[0] <<= 1*
  68: 0x016F [0x0D] ExtData[1]->WorkLocal[0] &= 14*
  69: 0x0174 [0x0E] ExtData[1]->WorkLocal[6] |= ExtData[1]->WorkLocal[0]
- 70: 0x0179 [0x24] CREATE_DIALOG(message_id=12930*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 70: 0x0179 [0x24] CREATE_DIALOG(message_id=12931*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "Add another option for $8 Allied Note[/s]? [Start over./Regen./Refresh./Increased meal duration./Next page./No.]"
  71: 0x0180 [0x25] WAIT_DIALOG_SELECT()
  72: 0x0181 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A1
@@ -491,7 +491,7 @@ SUBROUTINE_01AF:
  90: 0x01DE [0x0D] ExtData[1]->WorkLocal[0] &= 4294967288*
  91: 0x01E3 [0x11] ExtData[1]->WorkLocal[0] >>= 2*
  92: 0x01E8 [0x0E] ExtData[1]->WorkLocal[8] |= ExtData[1]->WorkLocal[0]
- 93: 0x01ED [0x24] CREATE_DIALOG(message_id=12929*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 93: 0x01ED [0x24] CREATE_DIALOG(message_id=12930*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Choose an option for $9 Allied Note[/s]? [Return./Decreased EXP loss.]"
  94: 0x01F4 [0x25] WAIT_DIALOG_SELECT()
  95: 0x01F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0203
@@ -530,14 +530,14 @@ SUBROUTINE_027B:
 120: 0x027B [0x0B] ExtData[1]->WorkLocal[2]++
 121: 0x027E [0x01] GOTO 0x022C
 122: 0x0281 [0x02] IF !(ExtData[1]->WorkLocal[11] >= ExtData[1]->WorkLocal[0]) GOTO 0x0295
-123: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=12937*)
+123: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=12938*)
     → "You do not have enough Allied Notes to receive the option."
 124: 0x028C [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x028D [0x03] Work_Zone[1] = 1073741824*
 126: 0x0292 [0x01] GOTO 0x02B1
 127: 0x0295 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 128: 0x0296 [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=27*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[1])
-129: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=12931*)
+129: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=12932*)
     → "Understood. Let me make the preparations."
 130: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x02A3 [0x73] EventEntity casts magic 497* on LocalPlayer
@@ -545,26 +545,26 @@ SUBROUTINE_027B:
 
 SUBROUTINE_02B1:
 133: 0x02B1 [0x01] GOTO 0x02B8
-134: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12954*)
+134: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12955*)
     → "I am sorry, but it seems that your campaign medal has expired. I am not able to confirm your status within the Allied Forces, and thus cannot grant you an Allied Sigil. Please report to a Campaign Evaluation Official and reapply for authorization."
 135: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_02B8:
 136: 0x02B8 [0x01] GOTO 0x0A56
 137: 0x02BB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02D2
-138: 0x02C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12951*)
+138: 0x02C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12952*)
     → "The Allied Sigil is a type of beneficial magic spell offered to all those participating in the Allied Campaign as a bonus for their services."
 139: 0x02C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-140: 0x02C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12952*)
+140: 0x02C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12953*)
     → "However, the effects of this spell vary depending on the performance of your nation's army."
 141: 0x02CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-142: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=12953*)
+142: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=12954*)
     → "Armies which employ powerful freelances also receive various benefits to their Sigil."
 143: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x02CF [0x01] GOTO 0x0A56
 145: 0x02D2 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x033C
 146: 0x02DA [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[16]
-147: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=12956*)
+147: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=12957*)
     → "Your current Sigil will expire on ( Earth time)."
 148: 0x02E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x02E3 [0x03] ExtData[1]->WorkLocal[2] = 0*
@@ -573,22 +573,22 @@ SUBROUTINE_02E8:
 150: 0x02E8 [0x02] IF !(ExtData[1]->WorkLocal[2] > 3*) GOTO 0x0339
 151: 0x02F0 [0x3E] IF !(ExtData[1]->WorkLocal[17] bit ExtData[1]->WorkLocal[2]) GOTO 0x0333
 152: 0x02F7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0306
-153: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=12957*)
+153: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=12958*)
     → "You are receiving the latent effect of Regen."
 154: 0x0302 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0303 [0x01] GOTO 0x0333
 156: 0x0306 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0315
-157: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=12958*)
+157: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=12959*)
     → "You are receiving the latent effect of Refresh."
 158: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0312 [0x01] GOTO 0x0333
 160: 0x0315 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0324
-161: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=12959*)
+161: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=12960*)
     → "Your meal duration has been extended."
 162: 0x0320 [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0321 [0x01] GOTO 0x0333
 164: 0x0324 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x0333
-165: 0x032C [0x1D] PRINT_EVENT_MESSAGE(message_id=12960*)
+165: 0x032C [0x1D] PRINT_EVENT_MESSAGE(message_id=12961*)
     → "Your EXP loss has been reduced."
 166: 0x032F [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0330 [0x01] GOTO 0x0333
@@ -599,7 +599,7 @@ SUBROUTINE_0333:
 170: 0x0339 [0x01] GOTO 0x0A56
 171: 0x033C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0A4B
 172: 0x0344 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-173: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=12939*)
+173: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=12940*)
     → "You currently possess $0 Allied Note[/s]. Items are divided into categories based on campaign medals. You can only purchase items from the categories of the medals you have earned."
 174: 0x034C [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x034D [0x03] ExtData[1]->WorkLocal[2] = 0*
@@ -621,7 +621,7 @@ SUBROUTINE_0381:
 187: 0x0389 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=2*)
 188: 0x0392 [0x06] ExtData[1]->WorkLocal[2] = 0
 189: 0x0395 [0x03] ExtData[1]->WorkLocal[14] = 0*
-190: 0x039A [0x24] CREATE_DIALOG(message_id=12940*, default_option=0*, option_flags=ExtData[1]->WorkLocal[14])
+190: 0x039A [0x24] CREATE_DIALOG(message_id=12941*, default_option=0*, option_flags=ExtData[1]->WorkLocal[14])
     → "View which category: [Ribbons./Stars./Emblems./Wings./Medals./Medal of Altana./None for now.]"
 191: 0x03A1 [0x25] WAIT_DIALOG_SELECT()
 192: 0x03A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0489
@@ -833,7 +833,7 @@ SUBROUTINE_078D:
 SUBROUTINE_07A1:
 385: 0x07A1 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0A45
 386: 0x07A9 [0x06] ExtData[1]->WorkLocal[3] = 0
-387: 0x07AC [0x24] CREATE_DIALOG(message_id=12950*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+387: 0x07AC [0x24] CREATE_DIALOG(message_id=12951*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "View which item? (Cost) [$9 ($20)./$10 ($21)./$11 ($22)./$12 ($23)./$13 ($24)./$14 ($25)./$15 ($26)./$16 ($27)./$17 ($28)./$18 ($29)./$19 ($30)./Return.]"
 388: 0x07B3 [0x25] WAIT_DIALOG_SELECT()
 389: 0x07B4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07C9
@@ -892,7 +892,7 @@ SUBROUTINE_08A9:
 440: 0x08CA [0x03] ExtData[1]->WorkLocal[15] = 5*
 441: 0x08CF [0x02] IF !(ExtData[1]->WorkLocal[15] >= ExtData[1]->WorkLocal[0]) GOTO 0x08EC
 442: 0x08D7 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[0])
-443: 0x08DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12941*)
+443: 0x08DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12942*)
     → "You do not possess the appropriate campaign medal to purchase the $8."
 444: 0x08DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 445: 0x08DE [0x03] Work_Zone[1] = 0*
@@ -901,7 +901,7 @@ SUBROUTINE_08A9:
 448: 0x08E9 [0x01] GOTO 0x0A42
 449: 0x08EC [0x02] IF !(ExtData[1]->WorkLocal[11] >= ExtData[1]->WorkLocal[12]) GOTO 0x0909
 450: 0x08F4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[0])
-451: 0x08F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12942*)
+451: 0x08F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12943*)
     → "You do not possess enough Allied Notes to purchase the $8."
 452: 0x08FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 453: 0x08FB [0x03] Work_Zone[1] = 0*
@@ -913,18 +913,18 @@ SUBROUTINE_08A9:
 459: 0x0914 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 460: 0x0916 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0961
 461: 0x091E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[0])
-462: 0x0921 [0x1D] PRINT_EVENT_MESSAGE(message_id=12943*)
+462: 0x0921 [0x1D] PRINT_EVENT_MESSAGE(message_id=12944*)
     → "Your current job does not allow you to equip the $8."
 463: 0x0924 [0x23] WAIT_FOR_DIALOG_INTERACTION
 464: 0x0925 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-465: 0x0928 [0x24] CREATE_DIALOG(message_id=12948*, default_option=1*, option_flags=0*)
+465: 0x0928 [0x24] CREATE_DIALOG(message_id=12949*, default_option=1*, option_flags=0*)
     → "Are you sure you want this item? [I am sure./I've changed my mind.]"
 466: 0x092F [0x25] WAIT_DIALOG_SELECT()
 467: 0x0930 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0950
 468: 0x0938 [0x02] IF !(ExtData[1]->WorkLocal[11] < ExtData[1]->WorkLocal[12]) GOTO 0x0944
 469: 0x0940 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 470: 0x0941 [0x01] GOTO 0x094D
-471: 0x0944 [0x1D] PRINT_EVENT_MESSAGE(message_id=12942*)
+471: 0x0944 [0x1D] PRINT_EVENT_MESSAGE(message_id=12943*)
     → "You do not possess enough Allied Notes to purchase the $8."
 472: 0x0947 [0x23] WAIT_FOR_DIALOG_INTERACTION
 473: 0x0948 [0x03] Work_Zone[1] = 0*
@@ -939,18 +939,18 @@ SUBROUTINE_095E:
 478: 0x095E [0x01] GOTO 0x0A42
 479: 0x0961 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x09AC
 480: 0x0969 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[0])
-481: 0x096C [0x1D] PRINT_EVENT_MESSAGE(message_id=12944*)
+481: 0x096C [0x1D] PRINT_EVENT_MESSAGE(message_id=12945*)
     → "You cannot equip the $8 at your current level."
 482: 0x096F [0x23] WAIT_FOR_DIALOG_INTERACTION
 483: 0x0970 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-484: 0x0973 [0x24] CREATE_DIALOG(message_id=12948*, default_option=1*, option_flags=0*)
+484: 0x0973 [0x24] CREATE_DIALOG(message_id=12949*, default_option=1*, option_flags=0*)
     → "Are you sure you want this item? [I am sure./I've changed my mind.]"
 485: 0x097A [0x25] WAIT_DIALOG_SELECT()
 486: 0x097B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x099B
 487: 0x0983 [0x02] IF !(ExtData[1]->WorkLocal[11] < ExtData[1]->WorkLocal[12]) GOTO 0x098F
 488: 0x098B [0x42] SET_CLI_EVENT_CANCEL_DATA()
 489: 0x098C [0x01] GOTO 0x0998
-490: 0x098F [0x1D] PRINT_EVENT_MESSAGE(message_id=12942*)
+490: 0x098F [0x1D] PRINT_EVENT_MESSAGE(message_id=12943*)
     → "You do not possess enough Allied Notes to purchase the $8."
 491: 0x0992 [0x23] WAIT_FOR_DIALOG_INTERACTION
 492: 0x0993 [0x03] Work_Zone[1] = 0*
@@ -965,18 +965,18 @@ SUBROUTINE_09A9:
 497: 0x09A9 [0x01] GOTO 0x0A42
 498: 0x09AC [0x02] IF !(Work_Zone[9] == 2*) GOTO 0x09F7
 499: 0x09B4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[0])
-500: 0x09B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12945*)
+500: 0x09B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12946*)
     → "Everything seems to be in order."
 501: 0x09BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 502: 0x09BB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-503: 0x09BE [0x24] CREATE_DIALOG(message_id=12947*, default_option=1*, option_flags=0*)
+503: 0x09BE [0x24] CREATE_DIALOG(message_id=12948*, default_option=1*, option_flags=0*)
     → "Purchase this item? [Yes./No.]"
 504: 0x09C5 [0x25] WAIT_DIALOG_SELECT()
 505: 0x09C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09E6
 506: 0x09CE [0x02] IF !(ExtData[1]->WorkLocal[11] < ExtData[1]->WorkLocal[12]) GOTO 0x09DA
 507: 0x09D6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 508: 0x09D7 [0x01] GOTO 0x09E3
-509: 0x09DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12942*)
+509: 0x09DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12943*)
     → "You do not possess enough Allied Notes to purchase the $8."
 510: 0x09DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 511: 0x09DE [0x03] Work_Zone[1] = 0*
@@ -991,18 +991,18 @@ SUBROUTINE_09F4:
 516: 0x09F4 [0x01] GOTO 0x0A42
 517: 0x09F7 [0x02] IF !(Work_Zone[9] == 10*) GOTO 0x0A42
 518: 0x09FF [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[0])
-519: 0x0A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=12946*)
+519: 0x0A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=12947*)
     → "Everything seems to be in order."
 520: 0x0A05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 521: 0x0A06 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-522: 0x0A09 [0x24] CREATE_DIALOG(message_id=12947*, default_option=1*, option_flags=0*)
+522: 0x0A09 [0x24] CREATE_DIALOG(message_id=12948*, default_option=1*, option_flags=0*)
     → "Purchase this item? [Yes./No.]"
 523: 0x0A10 [0x25] WAIT_DIALOG_SELECT()
 524: 0x0A11 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A31
 525: 0x0A19 [0x02] IF !(ExtData[1]->WorkLocal[11] < ExtData[1]->WorkLocal[12]) GOTO 0x0A25
 526: 0x0A21 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 527: 0x0A22 [0x01] GOTO 0x0A2E
-528: 0x0A25 [0x1D] PRINT_EVENT_MESSAGE(message_id=12942*)
+528: 0x0A25 [0x1D] PRINT_EVENT_MESSAGE(message_id=12943*)
     → "You do not possess enough Allied Notes to purchase the $8."
 529: 0x0A28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 530: 0x0A29 [0x03] Work_Zone[1] = 0*
@@ -1071,10 +1071,10 @@ SUBROUTINE_0A58:
 
 ```
   0: 0x0ABB [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0AC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12925*)
+  1: 0x0AC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12926*)
     → "Tally-ho! Caster Captain %, at your service!"
   2: 0x0AC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0AC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12926*)
+  3: 0x0AC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12927*)
     → "Ah, I see that you are not a member of the Allied Forces. Move along, civilian."
   4: 0x0AC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0AC8 [0x21] END_EVENT

@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2273      |        8819 |
-|       3 | 0x2274      |        8820 |
+|       2 | 0x2274      |        8820 |
+|       3 | 0x2275      |        8821 |
 
 ## String References
 
-- **8819**: Want to learn how to use a little magic? You should stop by the School of Magic, which is run by the Aurastery. It's across the bridge here and up to your left.
-- **8820**: Oh... It's probably quicker to ask the students than the teachers. The educatees there are more eager scholars than the educators.
+- **8820**: Want to learn how to use a little magic? You should stop by the School of Magic, which is run by the Aurastery. It's across the bridge here and up to your left.
+- **8821**: Oh... It's probably quicker to ask the students than the teachers. The educatees there are more eager scholars than the educators.
 
 ## Events
 
@@ -156,10 +156,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Porupen-Kyurupen (ID: 17752175/0x010EE06F), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8819*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8820*)
     → "Want to learn how to use a little magic? You should stop by the School of Magic, which is run by the Aurastery. It's across the bridge here and up to your left."
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8820*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8821*)
     → "Oh... It's probably quicker to ask the students than the teachers. The educatees there are more eager scholars than the educators."
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Porupen-Kyurupen (ID: 17752175/0x010EE06F), tag_num=0x02)

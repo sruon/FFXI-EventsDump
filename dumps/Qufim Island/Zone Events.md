@@ -98,30 +98,30 @@
 |      19 | 0xFFFFF168  |  4294963560 |
 |      20 | 0x0BEC      |        3052 |
 |      21 | 0x0092      |         146 |
-|      22 | 0x1CB7      |        7351 |
+|      22 | 0x1CB8      |        7352 |
 |      23 | 0x04EB      |        1259 |
 |      24 | 0x003C      |          60 |
-|      25 | 0x1CB8      |        7352 |
+|      25 | 0x1CB9      |        7353 |
 |      26 | 0x001E      |          30 |
 |      27 | 0xFFFBF2F5  |  4294701813 |
 |      28 | 0x6835      |       26677 |
 |      29 | 0xFFFFF15A  |  4294963546 |
-|      30 | 0x1CB9      |        7353 |
+|      30 | 0x1CBA      |        7354 |
 |      31 | 0x043D      |        1085 |
 |      32 | 0x0462      |        1122 |
-|      33 | 0x1CBB      |        7355 |
+|      33 | 0x1CBC      |        7356 |
 |      34 | 0x007A      |         122 |
-|      35 | 0x1CBD      |        7357 |
+|      35 | 0x1CBE      |        7358 |
 |      36 | 0x00F0      |         240 |
 |      37 | 0x005A      |          90 |
-|      38 | 0x1CBE      |        7358 |
-|      39 | 0x1CBF      |        7359 |
-|      40 | 0x1CC0      |        7360 |
-|      41 | 0x1CC1      |        7361 |
-|      42 | 0x1CC2      |        7362 |
-|      43 | 0x1CC3      |        7363 |
-|      44 | 0x1CC4      |        7364 |
-|      45 | 0x1CC5      |        7365 |
+|      38 | 0x1CBF      |        7359 |
+|      39 | 0x1CC0      |        7360 |
+|      40 | 0x1CC1      |        7361 |
+|      41 | 0x1CC2      |        7362 |
+|      42 | 0x1CC3      |        7363 |
+|      43 | 0x1CC4      |        7364 |
+|      44 | 0x1CC5      |        7365 |
+|      45 | 0x1CC6      |        7366 |
 |      46 | 0xFFF645C7  |  4294329799 |
 |      47 | 0x7030B     |      459531 |
 |      48 | 0x4814      |       18452 |
@@ -130,31 +130,31 @@
 |      51 | 0xFFF65971  |  4294334833 |
 |      52 | 0x700B8     |      458936 |
 |      53 | 0x44C7      |       17607 |
-|      54 | 0x1CC6      |        7366 |
-|      55 | 0x1CC7      |        7367 |
+|      54 | 0x1CC7      |        7367 |
+|      55 | 0x1CC8      |        7368 |
 |      56 | 0x0045      |          69 |
-|      57 | 0x1CC8      |        7368 |
-|      58 | 0x1CC9      |        7369 |
-|      59 | 0x1CCA      |        7370 |
+|      57 | 0x1CC9      |        7369 |
+|      58 | 0x1CCA      |        7370 |
+|      59 | 0x1CCB      |        7371 |
 |      60 | 0x0009      |           9 |
-|      61 | 0x1CCB      |        7371 |
-|      62 | 0x1CCC      |        7372 |
-|      63 | 0x1CCD      |        7373 |
-|      64 | 0x1CCE      |        7374 |
+|      61 | 0x1CCC      |        7372 |
+|      62 | 0x1CCD      |        7373 |
+|      63 | 0x1CCE      |        7374 |
+|      64 | 0x1CCF      |        7375 |
 |      65 | 0x0007      |           7 |
-|      66 | 0x1CCF      |        7375 |
-|      67 | 0x1CD0      |        7376 |
-|      68 | 0x1CD1      |        7377 |
-|      69 | 0x1CD2      |        7378 |
-|      70 | 0x1CD3      |        7379 |
+|      66 | 0x1CD0      |        7376 |
+|      67 | 0x1CD1      |        7377 |
+|      68 | 0x1CD2      |        7378 |
+|      69 | 0x1CD3      |        7379 |
+|      70 | 0x1CD4      |        7380 |
 |      71 | 0x0006      |           6 |
-|      72 | 0x1CD4      |        7380 |
-|      73 | 0x1CD5      |        7381 |
-|      74 | 0x1CD6      |        7382 |
-|      75 | 0x1CD7      |        7383 |
-|      76 | 0x1CD8      |        7384 |
-|      77 | 0x1CD9      |        7385 |
-|      78 | 0x1CDA      |        7386 |
+|      72 | 0x1CD5      |        7381 |
+|      73 | 0x1CD6      |        7382 |
+|      74 | 0x1CD7      |        7383 |
+|      75 | 0x1CD8      |        7384 |
+|      76 | 0x1CD9      |        7385 |
+|      77 | 0x1CDA      |        7386 |
+|      78 | 0x1CDB      |        7387 |
 |      79 | 0x002D      |          45 |
 |      80 | 0x00C9      |         201 |
 |      81 | 0x29D95     |      171413 |
@@ -541,7 +541,7 @@
   9: 0x021A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm30" with entities [EventEntity, EventEntity], work=146*
  10: 0x0229 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  11: 0x023A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 12: 0x0249 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7351*]:
+ 12: 0x0249 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7352*]:
     → "Hey!"
  13: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0251 [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=6.9°*)
@@ -549,7 +549,7 @@
  16: 0x025B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm31" with entities [EventEntity, EventEntity], work=[146*, 0*]
  17: 0x026C [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x02)
  18: 0x0273 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm31" with entities [EventEntity, EventEntity], work=146*
- 19: 0x0282 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7352*]:
+ 19: 0x0282 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7353*]:
     → "There you are! My boy's finally getting some rest, so I followed you. Whew!"
  20: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x028A [0x27] REQ_SET(priority=0x03, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x03)
@@ -561,7 +561,7 @@
  27: 0x02C3 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  28: 0x02C5 [0x4A] LocalPlayer looks at Dietmund (ID: 17293709/0x0107E18D)
  29: 0x02CE [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x0B)
- 30: 0x02D5 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7353*]:
+ 30: 0x02D5 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7354*]:
     → "So these are nightflowers, are they? Well, we know where they are, but digging them up's another story. Damn, I wish we had a chocobo!"
  31: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x02DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak0" with entities [EventEntity, EventEntity], work=[146*, 0*]
@@ -569,7 +569,7 @@
  34: 0x02F5 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x05)
  35: 0x02FC [0x4B] UPDATE_ENTITY_YAW(entity=Dietmund (ID: 17293709/0x0107E18D), yaw=6.2°*)
  36: 0x0303 [0x1C] WAIT(60* ticks)
- 37: 0x0306 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7355*]:
+ 37: 0x0306 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7356*]:
     → "Uh-oh! A monster!"
  38: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x030E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm32" with entities [EventEntity, EventEntity], work=[146*, 0*]
@@ -583,7 +583,7 @@
  47: 0x035C [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Chocobo (ID: 17293710/0x0107E18E), tag_num=0x03)
  48: 0x0363 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Chocobo (ID: 17293710/0x0107E18E), tag_num=0x09)
  49: 0x036A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm33" with entities [EventEntity, EventEntity], work=146*
- 50: 0x0379 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7357*]:
+ 50: 0x0379 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7358*]:
     → "Oh, just you!"
  51: 0x0380 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0381 [0x1C] WAIT(60* ticks)
@@ -612,7 +612,7 @@ SUBROUTINE_03D6:
  73: 0x0408 [0x06] Work_Zone[32] = 0
  74: 0x040B [0x27] REQ_SET(priority=0x07, entity_id=Chocobo (ID: 17293710/0x0107E18E), tag_num=0x07)
  75: 0x0412 [0x1C] WAIT(120* ticks)
- 76: 0x0415 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7358*]:
+ 76: 0x0415 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7359*]:
     → "What? You think we can find roots there?"
  77: 0x041C [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x041D [0x7B] Dietmund (ID: 17293709/0x0107E18D) stops talking
@@ -623,7 +623,7 @@ SUBROUTINE_03D6:
  83: 0x043A [0x4A] Chocobo (ID: 17293710/0x0107E18E) looks at Dietmund (ID: 17293709/0x0107E18D)
  84: 0x0443 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  85: 0x0444 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Chocobo (ID: 17293710/0x0107E18E) Render.Flags0 and Render.Flags3 conditions are met
- 86: 0x0449 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7359*]:
+ 86: 0x0449 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7360*]:
     → "Yeah! Here they are!"
  87: 0x0450 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0451 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x05)
@@ -633,34 +633,34 @@ SUBROUTINE_03D6:
  92: 0x0467 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm3b" with entities [EventEntity, EventEntity], work=[146*, 0*]
  93: 0x0478 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm3b" with entities [EventEntity, EventEntity], work=146*
  94: 0x0487 [0x27] REQ_SET(priority=0x03, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x06)
- 95: 0x048E [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7360*]:
+ 95: 0x048E [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7361*]:
     → "I was so rotten to you, but you came through for me."
  96: 0x0495 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x0496 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x0B)
  98: 0x049D [0x27] REQ_SET(priority=0x03, entity_id=Chocobo (ID: 17293710/0x0107E18E), tag_num=0x09)
- 99: 0x04A4 [0x2B] Chocobo (ID: 17293710/0x0107E18E) [7361*]:
+ 99: 0x04A4 [0x2B] Chocobo (ID: 17293710/0x0107E18E) [7362*]:
     → "Kweh!"
 100: 0x04AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x04AC [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Chocobo (ID: 17293710/0x0107E18E), tag_num=0x0A)
 102: 0x04B3 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x07)
-103: 0x04BA [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7362*]:
+103: 0x04BA [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7363*]:
     → "Huh? You'd really carry me back?"
 104: 0x04C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x04C2 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x08)
-106: 0x04C9 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7363*]:
+106: 0x04C9 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7364*]:
     → "I... I'm sorry for what I did. And I'm grateful for your help."
 107: 0x04D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x04D1 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Dietmund (ID: 17293709/0x0107E18D), tag_num=0x09)
 109: 0x04D8 [0x4A] Dietmund (ID: 17293709/0x0107E18D) looks at LocalPlayer
 110: 0x04E1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 111: 0x04E2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dietmund (ID: 17293709/0x0107E18D) Render.Flags0 and Render.Flags3 conditions are met
-112: 0x04E7 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7364*]:
+112: 0x04E7 [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7365*]:
     → "And I need to say thanks to you, too. I gotta hurry home now, so stop by my house, and I'll try to make it up to you, okay?"
 113: 0x04EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x04EF [0x4A] Dietmund (ID: 17293709/0x0107E18D) looks at Chocobo (ID: 17293710/0x0107E18E)
 115: 0x04F8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 116: 0x04F9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dietmund (ID: 17293709/0x0107E18D) Render.Flags0 and Render.Flags3 conditions are met
-117: 0x04FE [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7365*]:
+117: 0x04FE [0x2B] Dietmund (ID: 17293709/0x0107E18D) [7366*]:
     → "Hang in there, son... I'm comin' home!"
 118: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0506 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -770,34 +770,34 @@ SUBROUTINE_03D6:
  12: 0x059B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x05AC [0x1F] MOVE_ENTITY: EventEntity moves to X=-632.463*, Z=458.936*, Y=17.607*
  14: 0x05B4 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
- 15: 0x05B6 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7366*]:
+ 15: 0x05B6 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7367*]:
     → "We have retrieved the artifact. Now what are we to...hm?"
  16: 0x05BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x05BE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=204*
  18: 0x05CD [0x79] Volker (ID: 17293738/0x0107E1AA) looks at LocalPlayer (Basic look)
  19: 0x05D7 [0x79] Iron Eater (ID: 17293739/0x0107E1AB) looks at LocalPlayer (Basic look)
  20: 0x05E1 [0x4A] Naji (ID: 17293740/0x0107E1AC) looks at LocalPlayer
- 21: 0x05EA [0x2B] Naji (ID: 17293740/0x0107E1AC) [7367*]:
+ 21: 0x05EA [0x2B] Naji (ID: 17293740/0x0107E1AC) [7368*]:
     → "Wait, you're the... Why are you here?"
  22: 0x05F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x05F2 [0x7B] Iron Eater (ID: 17293739/0x0107E1AB) stops talking
  24: 0x05F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Iron Eater (ID: 17293739/0x0107E1AB), Iron Eater (ID: 17293739/0x0107E1AB)], work=69*
- 25: 0x0606 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7368*]:
+ 25: 0x0606 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7369*]:
     → "I see. We must have been overheard by one of the residents of the Mines District. Let me guess, was it Deidogg?"
  26: 0x060D [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x060E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[204*, 0*]
  28: 0x061F [0x4A] Naji (ID: 17293740/0x0107E1AC) looks at Volker (ID: 17293738/0x0107E1AA)
  29: 0x0628 [0x7B] Volker (ID: 17293738/0x0107E1AA) stops talking
  30: 0x062D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [Volker (ID: 17293738/0x0107E1AA), Volker (ID: 17293738/0x0107E1AA)], work=200*
- 31: 0x063C [0x2B] Volker (ID: 17293738/0x0107E1AA) [7369*]:
+ 31: 0x063C [0x2B] Volker (ID: 17293738/0x0107E1AA) [7370*]:
     → "Nice try, Iron Eater. You were planning this all along."
  32: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0644 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [Volker (ID: 17293738/0x0107E1AA), Volker (ID: 17293738/0x0107E1AA)], work=200*
- 34: 0x0653 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7370*]:
+ 34: 0x0653 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7371*]:
     → "No... No, you were hoping [he/she] would get here first."
  35: 0x065A [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x065B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17293740/0x0107E1AC), Naji (ID: 17293740/0x0107E1AC)], work=9*
- 37: 0x066A [0x2B] Naji (ID: 17293740/0x0107E1AC) [7371*]:
+ 37: 0x066A [0x2B] Naji (ID: 17293740/0x0107E1AC) [7372*]:
     → "What is going on here?"
  38: 0x0671 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0672 [0x6B] STOP_AND_IDLE: Naji (ID: 17293740/0x0107E1AC) stops current action and resets to idle (animation="idl0")
@@ -805,55 +805,55 @@ SUBROUTINE_03D6:
  41: 0x068A [0x79] Iron Eater (ID: 17293739/0x0107E1AB) looks at Volker (ID: 17293738/0x0107E1AA) (Basic look)
  42: 0x0694 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=204*
  43: 0x06A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[204*, 0*]
- 44: 0x06B4 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7372*]:
+ 44: 0x06B4 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7373*]:
     → "You have seen through my plan. I never have been talented in the skill of deceit."
  45: 0x06BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x06BC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17293738/0x0107E1AA), Volker (ID: 17293738/0x0107E1AA)], work=200*
- 47: 0x06CB [0x2B] Volker (ID: 17293738/0x0107E1AA) [7373*]:
+ 47: 0x06CB [0x2B] Volker (ID: 17293738/0x0107E1AA) [7374*]:
     → "I can sympathize with you, Iron Eater. I think it is terrible that a prized artifact of one of the most respected Mythril Musketeers would be used as a tool in a political squabble."
  48: 0x06D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x06D3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17293738/0x0107E1AA), Volker (ID: 17293738/0x0107E1AA)], work=200*
- 50: 0x06E2 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7374*]:
+ 50: 0x06E2 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7375*]:
     → "Unfortunately, it is exactly something that the senators would do, even though the president or Lord Lucius would make far better use of the artifact."
  51: 0x06E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x06EA [0x6E] Iron Eater (ID: 17293739/0x0107E1AB) uses emote 7*
  53: 0x06F1 [0x99] Wait for Iron Eater (ID: 17293739/0x0107E1AB) animation to complete
- 54: 0x06F6 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7375*]:
+ 54: 0x06F6 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7376*]:
     → "However, if we return to San d'Oria with the artifact..."
  55: 0x06FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x06FE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Volker (ID: 17293738/0x0107E1AA), Volker (ID: 17293738/0x0107E1AA)], work=200*
- 57: 0x070D [0x2B] Volker (ID: 17293738/0x0107E1AA) [7376*]:
+ 57: 0x070D [0x2B] Volker (ID: 17293738/0x0107E1AA) [7377*]:
     → "We will most certainly be impeached. And on top of that, the artifact would never get the chance to be used once again. Armor is meant to be worn."
  58: 0x0714 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0715 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Volker (ID: 17293738/0x0107E1AA), Volker (ID: 17293738/0x0107E1AA)]
  60: 0x0722 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Volker (ID: 17293738/0x0107E1AA), Volker (ID: 17293738/0x0107E1AA)], work=200*
  61: 0x0731 [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=204*
  62: 0x0740 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[204*, 0*]
- 63: 0x0751 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7377*]:
+ 63: 0x0751 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7378*]:
     → "Well, it is time to stop complaining and start thinking about our mission report. We sought out and terminated the Goblin thieves, however, there was no sign of the Talekeeper Raogrimm's armor among them."
  64: 0x0758 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x0759 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7378*]:
+ 65: 0x0759 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7379*]:
     → "Weighing the circumstances, it is impossible to continue our investigation into the matter. I order us to return immediately to Bastok."
  66: 0x0760 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0761 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17293740/0x0107E1AC), Naji (ID: 17293740/0x0107E1AC)], work=9*
- 68: 0x0770 [0x2B] Naji (ID: 17293740/0x0107E1AC) [7379*]:
+ 68: 0x0770 [0x2B] Naji (ID: 17293740/0x0107E1AC) [7380*]:
     → "Wait... Didn't we just find the armor?"
  69: 0x0777 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0778 [0x6B] STOP_AND_IDLE: Naji (ID: 17293740/0x0107E1AC) stops current action and resets to idle (animation="idl0")
  71: 0x0781 [0x6E] Iron Eater (ID: 17293739/0x0107E1AB) uses emote 6*
  72: 0x0788 [0x99] Wait for Iron Eater (ID: 17293739/0x0107E1AB) animation to complete
- 73: 0x078D [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7380*]:
+ 73: 0x078D [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7381*]:
     → "Not very bright, are we, Naji? We "did not" find the armor."
  74: 0x0794 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0795 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Naji (ID: 17293740/0x0107E1AC), Naji (ID: 17293740/0x0107E1AC)], work=9*
  76: 0x07A4 [0x4A] Naji (ID: 17293740/0x0107E1AC) looks at Iron Eater (ID: 17293739/0x0107E1AB)
- 77: 0x07AD [0x2B] Naji (ID: 17293740/0x0107E1AC) [7381*]:
+ 77: 0x07AD [0x2B] Naji (ID: 17293740/0x0107E1AC) [7382*]:
     → "Really!? Does this mean I can have it? I have been needing some new armor."
  78: 0x07B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x07B5 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=204*
  80: 0x07C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=[204*, 0*]
  81: 0x07D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Iron Eater (ID: 17293739/0x0107E1AB), Iron Eater (ID: 17293739/0x0107E1AB)], work=69*
- 82: 0x07E4 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7382*]:
+ 82: 0x07E4 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7383*]:
     → "My impression of your mental capacity diminishes by the second. If you walked around wearing that armor, everyone would know that we found it!"
  83: 0x07EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x07EC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Iron Eater (ID: 17293739/0x0107E1AB), Iron Eater (ID: 17293739/0x0107E1AB)]
@@ -861,17 +861,17 @@ SUBROUTINE_03D6:
  86: 0x0808 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Iron Eater (ID: 17293739/0x0107E1AB), Iron Eater (ID: 17293739/0x0107E1AB)]
  87: 0x0815 [0x4A] Iron Eater (ID: 17293739/0x0107E1AB) looks at LocalPlayer
  88: 0x081E [0x1C] WAIT(30* ticks)
- 89: 0x0821 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7383*]:
+ 89: 0x0821 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7384*]:
     → "You--you came here searching for this armor. I am sure that the Talekeeper Raogrimm would want a brave adventurer as yourself to use this in battle."
  90: 0x0828 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0829 [0x27] REQ_SET(priority=0x0A, entity_id=Volker (ID: 17293738/0x0107E1AA), tag_num=0x02)
  92: 0x0830 [0x1C] WAIT(30* ticks)
- 93: 0x0833 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7384*]:
+ 93: 0x0833 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7385*]:
     → "Just to make sure, we know nothing of that artifact. You found it by chance after battling the Goblin thieves yourself."
  94: 0x083A [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x083B [0x2A] GET_REQ_LEVEL(level=10, entity_id=Volker (ID: 17293738/0x0107E1AA))
  96: 0x0841 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ib00" with entities [Volker (ID: 17293738/0x0107E1AA), Volker (ID: 17293738/0x0107E1AA)], work=200*
- 97: 0x0850 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7385*]:
+ 97: 0x0850 [0x2B] Volker (ID: 17293738/0x0107E1AA) [7386*]:
     → "And don't worry. I will have replicas of that armor made so that by the end of the month, there will be hundreds of adventurers wearing the same thing. No one will blink an eye at you."
  98: 0x0857 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0858 [0x50] END_SCHEDULER_TASK: End scheduler "ib" with entities [0xE1AA, 0xE1AA], work=[263, 263]
@@ -880,7 +880,7 @@ SUBROUTINE_03D6:
 102: 0x087D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[204*, 0*]
 103: 0x088E [0x27] REQ_SET(priority=0x0A, entity_id=Volker (ID: 17293738/0x0107E1AA), tag_num=0x03)
 104: 0x0895 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iron Eater (ID: 17293739/0x0107E1AB), Iron Eater (ID: 17293739/0x0107E1AB)], work=69*
-105: 0x08A4 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7386*]:
+105: 0x08A4 [0x2B] Iron Eater (ID: 17293739/0x0107E1AB) [7387*]:
     → "Consider it fate that your path has crossed that of the Talekeeper. Use the armor wisely."
 106: 0x08AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x08AC [0x6B] STOP_AND_IDLE: Iron Eater (ID: 17293739/0x0107E1AB) stops current action and resets to idle (animation="idl0")

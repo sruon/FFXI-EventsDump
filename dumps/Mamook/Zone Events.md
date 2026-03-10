@@ -99,8 +99,8 @@
 |      24 | 0x001F      |          31 |
 |      25 | 0xFFFFFFFF  |  4294967295 |
 |      26 | 0x0001      |           1 |
-|      27 | 0x1F50      |        8016 |
-|      28 | 0x1D85      |        7557 |
+|      27 | 0x1F51      |        8017 |
+|      28 | 0x1D86      |        7558 |
 |      29 | 0x00FF      |         255 |
 |      30 | 0x00C8      |         200 |
 |      31 | 0x0013      |          19 |
@@ -110,9 +110,9 @@
 |      35 | 0x2DE60     |      188000 |
 |      36 | 0x222E0     |      140000 |
 |      37 | 0xBC48      |       48200 |
-|      38 | 0x1D90      |        7568 |
+|      38 | 0x1D91      |        7569 |
 |      39 | 0x0005      |           5 |
-|      40 | 0x1DB7      |        7607 |
+|      40 | 0x1DB8      |        7608 |
 |      41 | 0x0006      |           6 |
 |      42 | 0x0002      |           2 |
 |      43 | 0x0007      |           7 |
@@ -134,11 +134,11 @@
 |      59 | 0x001C      |          28 |
 |      60 | 0x001D      |          29 |
 |      61 | 0x001E      |          30 |
-|      62 | 0x1EEC      |        7916 |
+|      62 | 0x1EED      |        7917 |
 |      63 | 0x0064      |         100 |
-|      64 | 0x1ED8      |        7896 |
+|      64 | 0x1ED9      |        7897 |
 |      65 | 0x008F      |         143 |
-|      66 | 0x1D88      |        7560 |
+|      66 | 0x1D89      |        7561 |
 |      67 | 0x00C9      |         201 |
 |      68 | 0x34BC0     |      216000 |
 |      69 | 0xBAB8      |       47800 |
@@ -191,140 +191,140 @@
 |     116 | 0xFFFCCBCC  |  4294757324 |
 |     117 | 0xFFFFF3E9  |  4294964201 |
 |     118 | 0x00D9      |         217 |
-|     119 | 0x1F52      |        8018 |
+|     119 | 0x1F53      |        8019 |
 |     120 | 0x005A      |          90 |
 |     121 | 0x031F      |         799 |
 |     122 | 0x0320      |         800 |
-|     123 | 0x1F53      |        8019 |
+|     123 | 0x1F54      |        8020 |
 |     124 | 0x006C      |         108 |
 |     125 | 0x0073      |         115 |
 |     126 | 0x008B      |         139 |
 |     127 | 0x0078      |         120 |
-|     128 | 0x1D86      |        7558 |
+|     128 | 0x1D87      |        7559 |
 |     129 | 0x2FDA0     |      196000 |
 |     130 | 0xBB80      |       48000 |
-|     131 | 0x1F54      |        8020 |
+|     131 | 0x1F55      |        8021 |
 |     132 | 0x00FD      |         253 |
-|     133 | 0x1F55      |        8021 |
-|     134 | 0x1F56      |        8022 |
-|     135 | 0x1F57      |        8023 |
-|     136 | 0x1F58      |        8024 |
+|     133 | 0x1F56      |        8022 |
+|     134 | 0x1F57      |        8023 |
+|     135 | 0x1F58      |        8024 |
+|     136 | 0x1F59      |        8025 |
 |     137 | 0x00FE      |         254 |
-|     138 | 0x1F59      |        8025 |
-|     139 | 0x1F5A      |        8026 |
-|     140 | 0x1F5B      |        8027 |
-|     141 | 0x1F5C      |        8028 |
-|     142 | 0x1F5D      |        8029 |
+|     138 | 0x1F5A      |        8026 |
+|     139 | 0x1F5B      |        8027 |
+|     140 | 0x1F5C      |        8028 |
+|     141 | 0x1F5D      |        8029 |
+|     142 | 0x1F5E      |        8030 |
 |     143 | 0x0104      |         260 |
 |     144 | 0x032F      |         815 |
-|     145 | 0x1F71      |        8049 |
+|     145 | 0x1F72      |        8050 |
 |     146 | 0x0050      |          80 |
-|     147 | 0x1F72      |        8050 |
-|     148 | 0x1F73      |        8051 |
-|     149 | 0x1F74      |        8052 |
+|     147 | 0x1F73      |        8051 |
+|     148 | 0x1F74      |        8052 |
+|     149 | 0x1F75      |        8053 |
 |     150 | 0x0096      |         150 |
-|     151 | 0x1F75      |        8053 |
+|     151 | 0x1F76      |        8054 |
 |     152 | 0x00A1      |         161 |
-|     153 | 0x1F76      |        8054 |
-|     154 | 0x1F77      |        8055 |
-|     155 | 0x1F78      |        8056 |
+|     153 | 0x1F77      |        8055 |
+|     154 | 0x1F78      |        8056 |
+|     155 | 0x1F79      |        8057 |
 |     156 | 0x00E3      |         227 |
 |     157 | 0x0054      |          84 |
-|     158 | 0x1F79      |        8057 |
-|     159 | 0x1F7A      |        8058 |
+|     158 | 0x1F7A      |        8058 |
+|     159 | 0x1F7B      |        8059 |
 |     160 | 0x0022      |          34 |
-|     161 | 0x1F7B      |        8059 |
-|     162 | 0x1F7C      |        8060 |
-|     163 | 0x1F7D      |        8061 |
-|     164 | 0x1F7E      |        8062 |
+|     161 | 0x1F7C      |        8060 |
+|     162 | 0x1F7D      |        8061 |
+|     163 | 0x1F7E      |        8062 |
+|     164 | 0x1F7F      |        8063 |
 |     165 | 0x0026      |          38 |
-|     166 | 0x1F7F      |        8063 |
-|     167 | 0x1F80      |        8064 |
-|     168 | 0x1F81      |        8065 |
-|     169 | 0x1F82      |        8066 |
+|     166 | 0x1F80      |        8064 |
+|     167 | 0x1F81      |        8065 |
+|     168 | 0x1F82      |        8066 |
+|     169 | 0x1F83      |        8067 |
 |     170 | 0x0033      |          51 |
 |     171 | 0x007C      |         124 |
 |     172 | 0x00D7      |         215 |
-|     173 | 0x1F83      |        8067 |
-|     174 | 0x1F84      |        8068 |
-|     175 | 0x1F85      |        8069 |
+|     173 | 0x1F84      |        8068 |
+|     174 | 0x1F85      |        8069 |
+|     175 | 0x1F86      |        8070 |
 |     176 | 0x0041      |          65 |
 |     177 | 0x033B      |         827 |
-|     178 | 0x1F86      |        8070 |
-|     179 | 0x1F87      |        8071 |
-|     180 | 0x1F88      |        8072 |
+|     178 | 0x1F87      |        8071 |
+|     179 | 0x1F88      |        8072 |
+|     180 | 0x1F89      |        8073 |
 |     181 | 0xFFFC0DC0  |  4294708672 |
 |     182 | 0xFFFDB277  |  4294816375 |
 |     183 | 0x1311      |        4881 |
 |     184 | 0x0BF3      |        3059 |
 |     185 | 0x010B      |         267 |
-|     186 | 0x1F89      |        8073 |
+|     186 | 0x1F8A      |        8074 |
 |     187 | 0x002F      |          47 |
-|     188 | 0x1F8A      |        8074 |
+|     188 | 0x1F8B      |        8075 |
 |     189 | 0xFFFC01EF  |  4294705647 |
 |     190 | 0xFFFDD04C  |  4294824012 |
 |     191 | 0x13B7      |        5047 |
-|     192 | 0x1F8C      |        8076 |
+|     192 | 0x1F8D      |        8077 |
 |     193 | 0x002B      |          43 |
 |     194 | 0x007F      |         127 |
 |     195 | 0x0028      |          40 |
-|     196 | 0x1F8D      |        8077 |
-|     197 | 0x1F8E      |        8078 |
-|     198 | 0x1F8F      |        8079 |
-|     199 | 0x1F90      |        8080 |
-|     200 | 0x1F91      |        8081 |
-|     201 | 0x1F92      |        8082 |
-|     202 | 0x1F93      |        8083 |
-|     203 | 0x1F94      |        8084 |
-|     204 | 0x1F95      |        8085 |
-|     205 | 0x1F96      |        8086 |
+|     196 | 0x1F8E      |        8078 |
+|     197 | 0x1F8F      |        8079 |
+|     198 | 0x1F90      |        8080 |
+|     199 | 0x1F91      |        8081 |
+|     200 | 0x1F92      |        8082 |
+|     201 | 0x1F93      |        8083 |
+|     202 | 0x1F94      |        8084 |
+|     203 | 0x1F95      |        8085 |
+|     204 | 0x1F96      |        8086 |
+|     205 | 0x1F97      |        8087 |
 |     206 | 0x00AE      |         174 |
-|     207 | 0x1F97      |        8087 |
-|     208 | 0x1F98      |        8088 |
-|     209 | 0x1F99      |        8089 |
-|     210 | 0x1F9A      |        8090 |
-|     211 | 0x1F9B      |        8091 |
-|     212 | 0x1F9C      |        8092 |
-|     213 | 0x1F9D      |        8093 |
-|     214 | 0x1F9E      |        8094 |
-|     215 | 0x1F9F      |        8095 |
-|     216 | 0x1FA0      |        8096 |
-|     217 | 0x1FA1      |        8097 |
-|     218 | 0x1FA2      |        8098 |
-|     219 | 0x1FA3      |        8099 |
-|     220 | 0x1FA4      |        8100 |
-|     221 | 0x1FA5      |        8101 |
-|     222 | 0x1FA6      |        8102 |
-|     223 | 0x1FA7      |        8103 |
+|     207 | 0x1F98      |        8088 |
+|     208 | 0x1F99      |        8089 |
+|     209 | 0x1F9A      |        8090 |
+|     210 | 0x1F9B      |        8091 |
+|     211 | 0x1F9C      |        8092 |
+|     212 | 0x1F9D      |        8093 |
+|     213 | 0x1F9E      |        8094 |
+|     214 | 0x1F9F      |        8095 |
+|     215 | 0x1FA0      |        8096 |
+|     216 | 0x1FA1      |        8097 |
+|     217 | 0x1FA2      |        8098 |
+|     218 | 0x1FA3      |        8099 |
+|     219 | 0x1FA4      |        8100 |
+|     220 | 0x1FA5      |        8101 |
+|     221 | 0x1FA6      |        8102 |
+|     222 | 0x1FA7      |        8103 |
+|     223 | 0x1FA8      |        8104 |
 |     224 | 0x00B3      |         179 |
-|     225 | 0x1FA8      |        8104 |
-|     226 | 0x1FA9      |        8105 |
-|     227 | 0x1FAA      |        8106 |
-|     228 | 0x1FAB      |        8107 |
-|     229 | 0x1FAC      |        8108 |
+|     225 | 0x1FA9      |        8105 |
+|     226 | 0x1FAA      |        8106 |
+|     227 | 0x1FAB      |        8107 |
+|     228 | 0x1FAC      |        8108 |
+|     229 | 0x1FAD      |        8109 |
 |     230 | 0x00E6      |         230 |
-|     231 | 0x1FAD      |        8109 |
-|     232 | 0x1FAE      |        8110 |
-|     233 | 0x1FAF      |        8111 |
-|     234 | 0x1FB0      |        8112 |
-|     235 | 0x1FB1      |        8113 |
-|     236 | 0x1FB2      |        8114 |
-|     237 | 0x1FB3      |        8115 |
-|     238 | 0x1FB4      |        8116 |
-|     239 | 0x1FB5      |        8117 |
-|     240 | 0x1FB6      |        8118 |
-|     241 | 0x1FB7      |        8119 |
-|     242 | 0x1FB8      |        8120 |
-|     243 | 0x1FB9      |        8121 |
-|     244 | 0x1FBA      |        8122 |
-|     245 | 0x1FBB      |        8123 |
-|     246 | 0x1FBC      |        8124 |
-|     247 | 0x1FBD      |        8125 |
-|     248 | 0x1FBE      |        8126 |
-|     249 | 0x1FBF      |        8127 |
-|     250 | 0x1FC0      |        8128 |
-|     251 | 0x1FC2      |        8130 |
-|     252 | 0x1FC3      |        8131 |
+|     231 | 0x1FAE      |        8110 |
+|     232 | 0x1FAF      |        8111 |
+|     233 | 0x1FB0      |        8112 |
+|     234 | 0x1FB1      |        8113 |
+|     235 | 0x1FB2      |        8114 |
+|     236 | 0x1FB3      |        8115 |
+|     237 | 0x1FB4      |        8116 |
+|     238 | 0x1FB5      |        8117 |
+|     239 | 0x1FB6      |        8118 |
+|     240 | 0x1FB7      |        8119 |
+|     241 | 0x1FB8      |        8120 |
+|     242 | 0x1FB9      |        8121 |
+|     243 | 0x1FBA      |        8122 |
+|     244 | 0x1FBB      |        8123 |
+|     245 | 0x1FBC      |        8124 |
+|     246 | 0x1FBD      |        8125 |
+|     247 | 0x1FBE      |        8126 |
+|     248 | 0x1FBF      |        8127 |
+|     249 | 0x1FC0      |        8128 |
+|     250 | 0x1FC1      |        8129 |
+|     251 | 0x1FC3      |        8131 |
+|     252 | 0x1FC4      |        8132 |
 |     253 | 0x35A1A     |      219674 |
 |     254 | 0xFFFE83CE  |  4294869966 |
 |     255 | 0xFFFF9E64  |  4294942308 |
@@ -376,28 +376,28 @@
 
 ## String References
 
-- **7557**: Enter the battlefield? [Enter./Decline.]
-- **7558**: Leave the battlefield? [Run away./Stay.]
-- **7560**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7568**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7607**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7896**: Skip the event? [Yes./No.]
-- **7916**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **8016**: Which battlefield will you enter? [None./Mamook Incursion././././././././././././././././././././././././././././././]
-- **8018**: You ring the red bell and the blue bell together and hear the dull clunk of something being unlocked...
-- **8019**: The $3 and $3 no longer seem to ring...
-- **8020**: Choose a picture to take.
-- **8021**: First scene.
-- **8022**: Second scene.
-- **8023**: Third scene.
-- **8024**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
-- **8025**: <Player> records the first scene.
-- **8026**: <Player> records the second scene.
-- **8027**: <Player> records the third scene.
-- **8028**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
-- **8029**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
-- **8130**: There is a curious liquid here.
-- **8131**: Take a sip? [I'll try anything once!/I have a weak stomach...]
+- **7558**: Enter the battlefield? [Enter./Decline.]
+- **7559**: Leave the battlefield? [Run away./Stay.]
+- **7561**: You cannot enter the battlefield at present. Please wait a little longer.
+- **7569**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7608**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7897**: Skip the event? [Yes./No.]
+- **7917**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **8017**: Which battlefield will you enter? [None./Mamook Incursion././././././././././././././././././././././././././././././]
+- **8019**: You ring the red bell and the blue bell together and hear the dull clunk of something being unlocked...
+- **8020**: The $3 and $3 no longer seem to ring...
+- **8021**: Choose a picture to take.
+- **8022**: First scene.
+- **8023**: Second scene.
+- **8024**: Third scene.
+- **8025**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
+- **8026**: <Player> records the first scene.
+- **8027**: <Player> records the second scene.
+- **8028**: <Player> records the third scene.
+- **8029**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
+- **8030**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
+- **8131**: There is a curious liquid here.
+- **8132**: Take a sip? [I'll try anything once!/I have a weak stomach...]
 
 ## Events
 
@@ -810,7 +810,7 @@
  10: 0x00AE [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  11: 0x00B3 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  12: 0x00B8 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 13: 0x00BD [0x24] CREATE_DIALOG(message_id=8016*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 13: 0x00BD [0x24] CREATE_DIALOG(message_id=8017*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Mamook Incursion././././././././././././././././././././././././././././././]"
  14: 0x00C4 [0x25] WAIT_DIALOG_SELECT()
  15: 0x00C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D3
@@ -865,7 +865,7 @@ SUBROUTINE_01AD:
  56: 0x01DF [0x01] GOTO 0x06F5
  57: 0x01E2 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x01FF
  58: 0x01EA [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x01F9
- 59: 0x01F2 [0x48] [System] [7568*]:
+ 59: 0x01F2 [0x48] [System] [7569*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  60: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x01F6 [0x01] GOTO 0x01F9
@@ -874,7 +874,7 @@ SUBROUTINE_01F9:
  62: 0x01F9 [0x01] GOTO 0x070C
 
 SUBROUTINE_0409:
- 63: 0x0409 [0x48] [System] [7916*]:
+ 63: 0x0409 [0x48] [System] [7917*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
  64: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x040D [0x01] GOTO 0x070C
@@ -882,7 +882,7 @@ SUBROUTINE_0409:
 SUBROUTINE_044D:
  66: 0x044D [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0473
  67: 0x0455 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0473
- 68: 0x045D [0x24] CREATE_DIALOG(message_id=7896*, default_option=1*, option_flags=0*)
+ 68: 0x045D [0x24] CREATE_DIALOG(message_id=7897*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  69: 0x0464 [0x25] WAIT_DIALOG_SELECT()
  70: 0x0465 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0473
@@ -1021,7 +1021,7 @@ SUBROUTINE_06F5:
 193: 0x06F8 [0x02] IF !(0* == 1*) GOTO 0x0705
 194: 0x0700 [0x03] ExtData[1]->WorkLocal[0] = 2*
 195: 0x0705 [0x01] GOTO 0x015E
-196: 0x0708 [0x48] [System] [7560*]:
+196: 0x0708 [0x48] [System] [7561*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 197: 0x070B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1207,7 +1207,7 @@ SUBROUTINE_08CE:
  26: 0x08CE [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
  27: 0x08D1 [0x02] IF !(ExtData[1]->WorkLocal[19] == 1*) GOTO 0x0930
  28: 0x08D9 [0x1C] WAIT(15* ticks)
- 29: 0x08DC [0x24] CREATE_DIALOG(message_id=7896*, default_option=1*, option_flags=0*)
+ 29: 0x08DC [0x24] CREATE_DIALOG(message_id=7897*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  30: 0x08E3 [0x25] WAIT_DIALOG_SELECT()
  31: 0x08E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0930
@@ -1539,7 +1539,7 @@ SUBROUTINE_0B83:
 
 ```
 # Dead code (unreachable instructions):
-     0x0BE6 [0x24] CREATE_DIALOG(message_id=7557*, default_option=1*, option_flags=0*)
+     0x0BE6 [0x24] CREATE_DIALOG(message_id=7558*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x0BED [0x25] WAIT_DIALOG_SELECT()
      0x0BEE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BFC
@@ -1556,7 +1556,7 @@ SUBROUTINE_0B83:
      0x0C21 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bc65" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
      0x0C32 [0x1C] WAIT(10* ticks)
      0x0C35 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-     0x0C46 [0x48] [System] [8018*]:
+     0x0C46 [0x48] [System] [8019*]:
     → "You ring the red bell and the blue bell together and hear the dull clunk of something being unlocked..."
      0x0C49 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C4A [0x27] REQ_SET(priority=0x03, entity_id=Mahogany Door (ID: 17043955/0x010411F3), tag_num=0x03)
@@ -1568,7 +1568,7 @@ SUBROUTINE_0B83:
      0x0C68 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Mahogany Door (ID: 17043955/0x010411F3))
      0x0C6E [0x03] Work_Zone[2] = 799*
      0x0C73 [0x03] Work_Zone[3] = 800*
-     0x0C78 [0x48] [System] [8019*]:
+     0x0C78 [0x48] [System] [8020*]:
     → "The $3 and $3 no longer seem to ring..."
      0x0C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C7C [0x92] LocalPlayer->Render.Flags3 ^= 0x01
@@ -1601,7 +1601,7 @@ SUBROUTINE_0B83:
      0x0D54 [0x1C] WAIT(120* ticks)
      0x0D57 [0x46] CAMERA_CONTROL: Restore default settings
      0x0D59 [0x1B] RETURN
-     0x0D5A [0x24] CREATE_DIALOG(message_id=7558*, default_option=1*, option_flags=0*)
+     0x0D5A [0x24] CREATE_DIALOG(message_id=7559*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x0D61 [0x25] WAIT_DIALOG_SELECT()
      0x0D62 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D70
@@ -1750,7 +1750,7 @@ SUBROUTINE_0B83:
 
 ```
   0: 0x0F3D [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0F3E [0x48] [System] [8020*]:
+  1: 0x0F3E [0x48] [System] [8021*]:
     → "Choose a picture to take."
   2: 0x0F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0F42 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1764,7 +1764,7 @@ SUBROUTINE_0B83:
  11: 0x0F8B [0x1C] WAIT(60* ticks)
  12: 0x0F8E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x0F9F [0x1C] WAIT(60* ticks)
- 14: 0x0FA2 [0x48] [System] [8021*]:
+ 14: 0x0FA2 [0x48] [System] [8022*]:
     → "First scene."
  15: 0x0FA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0FA6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1774,7 +1774,7 @@ SUBROUTINE_0B83:
  20: 0x0FE6 [0x1C] WAIT(60* ticks)
  21: 0x0FE9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x0FFA [0x1C] WAIT(60* ticks)
- 23: 0x0FFD [0x48] [System] [8022*]:
+ 23: 0x0FFD [0x48] [System] [8023*]:
     → "Second scene."
  24: 0x1000 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x1001 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1784,10 +1784,10 @@ SUBROUTINE_0B83:
  29: 0x1041 [0x1C] WAIT(60* ticks)
  30: 0x1044 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  31: 0x1055 [0x1C] WAIT(60* ticks)
- 32: 0x1058 [0x48] [System] [8023*]:
+ 32: 0x1058 [0x48] [System] [8024*]:
     → "Third scene."
  33: 0x105B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x105C [0x24] CREATE_DIALOG(message_id=8024*, default_option=0*, option_flags=0*)
+ 34: 0x105C [0x24] CREATE_DIALOG(message_id=8025*, default_option=0*, option_flags=0*)
     → "Which picture will you take? [Show me again./First scene./Second scene./Third scene.]"
  35: 0x1063 [0x25] WAIT_DIALOG_SELECT()
  36: 0x1064 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x106F
@@ -1802,7 +1802,7 @@ SUBROUTINE_0B83:
  45: 0x10CB [0x1C] WAIT(120* ticks)
  46: 0x10CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  47: 0x10DF [0x1C] WAIT(120* ticks)
- 48: 0x10E2 [0x48] [System] [8025*]:
+ 48: 0x10E2 [0x48] [System] [8026*]:
     → "<Player> records the first scene."
  49: 0x10E5 [0x03] ExtData[1]->WorkLocal[30] = 1*
  50: 0x10EA [0x03] Work_Zone[1] = 1*
@@ -1817,7 +1817,7 @@ SUBROUTINE_0B83:
  59: 0x114E [0x1C] WAIT(120* ticks)
  60: 0x1151 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  61: 0x1162 [0x1C] WAIT(120* ticks)
- 62: 0x1165 [0x48] [System] [8026*]:
+ 62: 0x1165 [0x48] [System] [8027*]:
     → "<Player> records the second scene."
  63: 0x1168 [0x03] ExtData[1]->WorkLocal[30] = 1*
  64: 0x116D [0x03] Work_Zone[1] = 2*
@@ -1826,7 +1826,7 @@ SUBROUTINE_0B83:
  67: 0x117D [0x1C] WAIT(120* ticks)
  68: 0x1180 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  69: 0x1191 [0x1C] WAIT(120* ticks)
- 70: 0x1194 [0x48] [System] [8027*]:
+ 70: 0x1194 [0x48] [System] [8028*]:
     → "<Player> records the third scene."
  71: 0x1197 [0x03] ExtData[1]->WorkLocal[30] = 1*
  72: 0x119C [0x03] Work_Zone[1] = 3*
@@ -1866,7 +1866,7 @@ SUBROUTINE_11A4:
 #### Opcodes
 
 ```
-  0: 0x120C [0x48] [System] [8028*]:
+  0: 0x120C [0x48] [System] [8029*]:
     → "<Player> takes in the surrounding scenery. ...The view is breathtaking."
   1: 0x120F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1210 [0x21] END_EVENT
@@ -1892,7 +1892,7 @@ SUBROUTINE_11A4:
 #### Opcodes
 
 ```
-  0: 0x1212 [0x48] [System] [8029*]:
+  0: 0x1212 [0x48] [System] [8030*]:
     → "<Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture."
   1: 0x1215 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1216 [0x21] END_EVENT
@@ -2141,13 +2141,13 @@ SUBROUTINE_11A4:
  25: 0x12DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[260*, 0*]
  26: 0x12EF [0x1C] WAIT(90* ticks)
  27: 0x12F2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gukool Ja (ID: 17043995/0x0104121B), Gukool Ja (ID: 17043995/0x0104121B)], work=815*
- 28: 0x1301 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8049*]:
+ 28: 0x1301 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8050*]:
     → "I cannot... To the boss, I will not give you. You run. Run far from here."
  29: 0x1308 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x1309 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gukool Ja (ID: 17043995/0x0104121B), Gukool Ja (ID: 17043995/0x0104121B)], work=815*
  31: 0x1318 [0x1C] WAIT(60* ticks)
  32: 0x131B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Briallen (ID: 17043996/0x0104121C), Briallen (ID: 17043996/0x0104121C)], work=80*
- 33: 0x132A [0x2B] Briallen (ID: 17043996/0x0104121C) [8050*]:
+ 33: 0x132A [0x2B] Briallen (ID: 17043996/0x0104121C) [8051*]:
     → "What...? But what about you?"
  34: 0x1331 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x1332 [0x52] END_LOAD_SCHEDULER: End scheduler "s071" with entities [EventEntity, EventEntity], work=260*
@@ -2156,12 +2156,12 @@ SUBROUTINE_11A4:
  38: 0x1355 [0x4A] Gukool Ja (ID: 17043995/0x0104121B) looks at Briallen (ID: 17043996/0x0104121C)
  39: 0x135E [0x1C] WAIT(60* ticks)
  40: 0x1361 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gukool Ja (ID: 17043995/0x0104121B), Gukool Ja (ID: 17043995/0x0104121B)], work=815*
- 41: 0x1370 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8051*]:
+ 41: 0x1370 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8052*]:
     → "Fine, I will be. A mighty beastman, Gukool Ja is. Of worry, you have no need."
  42: 0x1377 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x1378 [0x1C] WAIT(90* ticks)
  44: 0x137B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Briallen (ID: 17043996/0x0104121C), Briallen (ID: 17043996/0x0104121C)], work=80*
- 45: 0x138A [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8052*]:
+ 45: 0x138A [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8053*]:
     → "Now, go. Quickly."
  46: 0x1391 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x1392 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gukool Ja (ID: 17043995/0x0104121B), Gukool Ja (ID: 17043995/0x0104121B)], work=815*
@@ -2178,7 +2178,7 @@ SUBROUTINE_11A4:
  58: 0x1401 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Briallen (ID: 17043996/0x0104121C), Briallen (ID: 17043996/0x0104121C)], work=80*
  59: 0x1410 [0x1C] WAIT(30* ticks)
  60: 0x1413 [0x79] Briallen (ID: 17043996/0x0104121C) looks at Golaal Ja (ID: 17043999/0x0104121F) (Basic look)
- 61: 0x141D [0x2B] Briallen (ID: 17043996/0x0104121C) [8053*]:
+ 61: 0x141D [0x2B] Briallen (ID: 17043996/0x0104121C) [8054*]:
     → "Waaa!"
  62: 0x1424 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x1425 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 161*
@@ -2200,7 +2200,7 @@ SUBROUTINE_11A4:
  79: 0x14BB [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [EventEntity, EventEntity], work=260*
  80: 0x14CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s118" with entities [EventEntity, EventEntity], work=[260*, 0*]
  81: 0x14DB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Golaal Ja (ID: 17043999/0x0104121F), Golaal Ja (ID: 17043999/0x0104121F)], work=815*
- 82: 0x14EA [0x2B] Golaal Ja (ID: 17043999/0x0104121F) [8054*]:
+ 82: 0x14EA [0x2B] Golaal Ja (ID: 17043999/0x0104121F) [8055*]:
     → "Soft, you still are. Ideas of peace, you must let go."
  83: 0x14F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x14F2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Golaal Ja (ID: 17043999/0x0104121F), Golaal Ja (ID: 17043999/0x0104121F)], work=815*
@@ -2208,14 +2208,14 @@ SUBROUTINE_11A4:
  86: 0x1504 [0x52] END_LOAD_SCHEDULER: End scheduler "s118" with entities [EventEntity, EventEntity], work=260*
  87: 0x1513 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [EventEntity, EventEntity], work=[260*, 0*]
  88: 0x1524 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gukool Ja (ID: 17043995/0x0104121B), Gukool Ja (ID: 17043995/0x0104121B)], work=815*
- 89: 0x1533 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8055*]:
+ 89: 0x1533 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8056*]:
     → "Wrong, war is. Let go, I will not. Wrong, your ideas are!"
  90: 0x153A [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x153B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gukool Ja (ID: 17043995/0x0104121B), Gukool Ja (ID: 17043995/0x0104121B)], work=815*
  92: 0x154A [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [EventEntity, EventEntity], work=260*
  93: 0x1559 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [EventEntity, EventEntity], work=[260*, 0*]
  94: 0x156A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Golaal Ja (ID: 17043999/0x0104121F), Golaal Ja (ID: 17043999/0x0104121F)], work=815*
- 95: 0x1579 [0x2B] Golaal Ja (ID: 17043999/0x0104121F) [8056*]:
+ 95: 0x1579 [0x2B] Golaal Ja (ID: 17043999/0x0104121F) [8057*]:
     → "Wrong...!? Your own ideas, you keep. One like you, we do not need."
  96: 0x1580 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x1581 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Golaal Ja (ID: 17043999/0x0104121F), Golaal Ja (ID: 17043999/0x0104121F)], work=815*
@@ -2257,7 +2257,7 @@ SUBROUTINE_11A4:
 133: 0x170A [0x1C] WAIT(90* ticks)
 134: 0x170D [0x6E] Mishhar (ID: 17043997/0x0104121D) uses emote 26*
 135: 0x1714 [0x99] Wait for Mishhar (ID: 17043997/0x0104121D) animation to complete
-136: 0x1719 [0x2B] Mishhar (ID: 17043997/0x0104121D) [8057*]:
+136: 0x1719 [0x2B] Mishhar (ID: 17043997/0x0104121D) [8058*]:
     → "This is the way it had to be. But I will not have you bringing children into this."
 137: 0x1720 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x1721 [0x99] Wait for Mishhar (ID: 17043997/0x0104121D) animation to complete
@@ -2265,7 +2265,7 @@ SUBROUTINE_11A4:
 140: 0x1729 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=260*
 141: 0x1738 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [EventEntity, EventEntity], work=[260*, 0*]
 142: 0x1749 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Golaal Ja (ID: 17043999/0x0104121F), Golaal Ja (ID: 17043999/0x0104121F)], work=815*
-143: 0x1758 [0x2B] Golaal Ja (ID: 17043999/0x0104121F) [8058*]:
+143: 0x1758 [0x2B] Golaal Ja (ID: 17043999/0x0104121F) [8059*]:
     → "Only to test Gukool Ja, we wished. Free to go, the child is."
 144: 0x175F [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x1760 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Golaal Ja (ID: 17043999/0x0104121F), Golaal Ja (ID: 17043999/0x0104121F)], work=815*
@@ -2274,7 +2274,7 @@ SUBROUTINE_11A4:
 148: 0x178F [0x1C] WAIT(90* ticks)
 149: 0x1792 [0x6E] Mishhar (ID: 17043997/0x0104121D) uses emote 34*
 150: 0x1799 [0x99] Wait for Mishhar (ID: 17043997/0x0104121D) animation to complete
-151: 0x179E [0x2B] Mishhar (ID: 17043997/0x0104121D) [8059*]:
+151: 0x179E [0x2B] Mishhar (ID: 17043997/0x0104121D) [8060*]:
     → "Very well. I will overlook it this one time."
 152: 0x17A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x17A6 [0x99] Wait for Mishhar (ID: 17043997/0x0104121D) animation to complete
@@ -2283,14 +2283,14 @@ SUBROUTINE_11A4:
 156: 0x17BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [EventEntity, EventEntity], work=[260*, 0*]
 157: 0x17CE [0x6E] Mishhar (ID: 17043997/0x0104121D) uses emote 6*
 158: 0x17D5 [0x99] Wait for Mishhar (ID: 17043997/0x0104121D) animation to complete
-159: 0x17DA [0x2B] Mishhar (ID: 17043997/0x0104121D) [8060*]:
+159: 0x17DA [0x2B] Mishhar (ID: 17043997/0x0104121D) [8061*]:
     → "We have more important things to worry about. My superiors have begun to notice our activities."
 160: 0x17E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x17E2 [0x99] Wait for Mishhar (ID: 17043997/0x0104121D) animation to complete
 162: 0x17E7 [0x1C] WAIT(90* ticks)
 163: 0x17EA [0x6E] Mishhar (ID: 17043997/0x0104121D) uses emote 7*
 164: 0x17F1 [0x99] Wait for Mishhar (ID: 17043997/0x0104121D) animation to complete
-165: 0x17F6 [0x2B] Mishhar (ID: 17043997/0x0104121D) [8061*]:
+165: 0x17F6 [0x2B] Mishhar (ID: 17043997/0x0104121D) [8062*]:
     → "I spread rumors of Isween's nightly meetings to divert attention, but it would be best if we avoided contact for a time."
 166: 0x17FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x17FE [0x99] Wait for Mishhar (ID: 17043997/0x0104121D) animation to complete
@@ -2298,7 +2298,7 @@ SUBROUTINE_11A4:
 169: 0x1806 [0x52] END_LOAD_SCHEDULER: End scheduler "s100" with entities [EventEntity, EventEntity], work=260*
 170: 0x1815 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s119" with entities [EventEntity, EventEntity], work=[260*, 0*]
 171: 0x1826 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Golaal Ja (ID: 17043999/0x0104121F), Golaal Ja (ID: 17043999/0x0104121F)], work=815*
-172: 0x1835 [0x2B] Golaal Ja (ID: 17043999/0x0104121F) [8062*]:
+172: 0x1835 [0x2B] Golaal Ja (ID: 17043999/0x0104121F) [8063*]:
     → "Understood. Careful, we will be."
 173: 0x183C [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x183D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Golaal Ja (ID: 17043999/0x0104121F), Golaal Ja (ID: 17043999/0x0104121F)], work=815*
@@ -2348,7 +2348,7 @@ SUBROUTINE_11A4:
 218: 0x19EE [0x92] Gukool Ja (ID: 17044000/0x01041220)->Render.Flags3 ^= 0x01
 219: 0x19F4 [0x4E] SET_ENTITY_HIDE_FLAG: Show Gukool Ja (ID: 17044000/0x01041220)
 220: 0x19FA [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Gukool Ja (ID: 17044000/0x01041220), tag_num=0x02)
-221: 0x1A01 [0x2B] Isween (ID: 17043998/0x0104121E) [8063*]:
+221: 0x1A01 [0x2B] Isween (ID: 17043998/0x0104121E) [8064*]:
     → "Gukool Ja! You're injured!"
 222: 0x1A08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x1A09 [0x1C] WAIT(30* ticks)
@@ -2357,15 +2357,15 @@ SUBROUTINE_11A4:
 226: 0x1A1B [0x52] END_LOAD_SCHEDULER: End scheduler "s094" with entities [EventEntity, EventEntity], work=260*
 227: 0x1A2A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [EventEntity, EventEntity], work=[260*, 0*]
 228: 0x1A3B [0x79] Gukool Ja (ID: 17044000/0x01041220) looks at Isween (ID: 17043998/0x0104121E) (Basic look)
-229: 0x1A45 [0x2B] Gukool Ja (ID: 17044000/0x01041220) [8064*]:
+229: 0x1A45 [0x2B] Gukool Ja (ID: 17044000/0x01041220) [8065*]:
     → "War, I want to end. Boss, I want to stop."
 230: 0x1A4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x1A4D [0x1C] WAIT(90* ticks)
-232: 0x1A50 [0x2B] Gukool Ja (ID: 17044000/0x01041220) [8065*]:
+232: 0x1A50 [0x2B] Gukool Ja (ID: 17044000/0x01041220) [8066*]:
     → "Stop boss, we cannot. End war, we cannot. Why..."
 233: 0x1A57 [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x1A58 [0x1C] WAIT(90* ticks)
-235: 0x1A5B [0x2B] Gukool Ja (ID: 17044000/0x01041220) [8066*]:
+235: 0x1A5B [0x2B] Gukool Ja (ID: 17044000/0x01041220) [8067*]:
     → "Meeting you, I remember. That day, I remember..."
 236: 0x1A62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x1A63 [0x1C] WAIT(30* ticks)
@@ -2408,12 +2408,12 @@ SUBROUTINE_11A4:
 274: 0x1B62 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 275: 0x1B73 [0x52] END_LOAD_SCHEDULER: End scheduler "s147" with entities [EventEntity, EventEntity], work=260*
 276: 0x1B82 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s148" with entities [EventEntity, EventEntity], work=[260*, 0*]
-277: 0x1B93 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8067*]:
+277: 0x1B93 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8068*]:
     → "Forget you, we will not. We..."
 278: 0x1B9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 279: 0x1B9B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Gukool Ja (ID: 17043995/0x0104121B), Gukool Ja (ID: 17043995/0x0104121B)], work=815*
 280: 0x1BAA [0x1C] WAIT(120* ticks)
-281: 0x1BAD [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8068*]:
+281: 0x1BAD [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8069*]:
     → "Forget, I will not. I..."
 282: 0x1BB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 283: 0x1BB5 [0x1C] WAIT(120* ticks)
@@ -2422,7 +2422,7 @@ SUBROUTINE_11A4:
 286: 0x1BD8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s149" with entities [EventEntity, EventEntity], work=[260*, 0*]
 287: 0x1BE9 [0x6E] Isween (ID: 17043998/0x0104121E) uses emote 4*
 288: 0x1BF0 [0x99] Wait for Isween (ID: 17043998/0x0104121E) animation to complete
-289: 0x1BF5 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8069*]:
+289: 0x1BF5 [0x2B] Gukool Ja (ID: 17043995/0x0104121B) [8070*]:
     → "Friend... You... I..."
 290: 0x1BFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x1BFD [0x99] Wait for Isween (ID: 17043998/0x0104121E) animation to complete
@@ -2464,13 +2464,13 @@ SUBROUTINE_11A4:
 327: 0x1D24 [0x4E] SET_ENTITY_HIDE_FLAG: Show Gukool Ja (ID: 17044001/0x01041221)
 328: 0x1D2A [0x80] LOAD_WAIT(entity=Gukool Ja (ID: 17044001/0x01041221))
 329: 0x1D2F [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Gukool Ja (ID: 17044001/0x01041221), tag_num=0x02)
-330: 0x1D36 [0x2B] Isween (ID: 17043998/0x0104121E) [8070*]:
+330: 0x1D36 [0x2B] Isween (ID: 17043998/0x0104121E) [8071*]:
     → "No! Stay with me, Gukool Ja!"
 331: 0x1D3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x1D3E [0x52] END_LOAD_SCHEDULER: End scheduler "s095" with entities [EventEntity, EventEntity], work=260*
 333: 0x1D4D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s122" with entities [EventEntity, EventEntity], work=[260*, 0*]
 334: 0x1D5E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gukool Ja (ID: 17044000/0x01041220), Gukool Ja (ID: 17043995/0x0104121B)], work=815*
-335: 0x1D6D [0x2B] Gukool Ja (ID: 17044000/0x01041220) [8071*]:
+335: 0x1D6D [0x2B] Gukool Ja (ID: 17044000/0x01041220) [8072*]:
     → "You and I, the fighting, could not stop... Sorry, I am..."
 336: 0x1D74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x1D75 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gukool Ja (ID: 17044000/0x01041220), Gukool Ja (ID: 17043995/0x0104121B)], work=815*
@@ -2479,7 +2479,7 @@ SUBROUTINE_11A4:
 340: 0x1D91 [0x1C] WAIT(90* ticks)
 341: 0x1D94 [0x52] END_LOAD_SCHEDULER: End scheduler "s122" with entities [EventEntity, EventEntity], work=260*
 342: 0x1DA3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[260*, 0*]
-343: 0x1DB4 [0x2B] Isween (ID: 17043998/0x0104121E) [8072*]:
+343: 0x1DB4 [0x2B] Isween (ID: 17043998/0x0104121E) [8073*]:
     → "Gukool Ja!"
 344: 0x1DBB [0x23] WAIT_FOR_DIALOG_INTERACTION
 345: 0x1DBC [0x1C] WAIT(60* ticks)
@@ -2558,7 +2558,7 @@ SUBROUTINE_11A4:
  17: 0x1EB4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q001" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  18: 0x1EC5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  19: 0x1ED6 [0x1C] WAIT(60* ticks)
- 20: 0x1ED9 [0x2B] Teepapa (ID: 17044002/0x01041222) [8073*]:
+ 20: 0x1ED9 [0x2B] Teepapa (ID: 17044002/0x01041222) [8074*]:
     → "Whoa! There you are!"
  21: 0x1EE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x1EE1 [0x4A] Unnamed NPC (ID: 17044005/0x01041225) looks at Teepapa (ID: 17044002/0x01041222)
@@ -2569,7 +2569,7 @@ SUBROUTINE_11A4:
  27: 0x1F06 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q002" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  28: 0x1F17 [0x1C] WAIT(60* ticks)
  29: 0x1F1A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "in00" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=47*
- 30: 0x1F29 [0x2B] Teepapa (ID: 17044002/0x01041222) [8074*]:
+ 30: 0x1F29 [0x2B] Teepapa (ID: 17044002/0x01041222) [8075*]:
     → "Running will do you no goody-wood! I'm gonna get you!"
  31: 0x1F30 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x1F31 [0x1C] WAIT(60* ticks)
@@ -2807,7 +2807,7 @@ SUBROUTINE_11A4:
  30: 0x2051 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j031" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  31: 0x2062 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  32: 0x2073 [0x1C] WAIT(90* ticks)
- 33: 0x2076 [0x2B] ??? (ID: 17044008/0x01041228) [8076*]:
+ 33: 0x2076 [0x2B] ??? (ID: 17044008/0x01041228) [8077*]:
     → "H-hey! Stop! Wait a minute!"
  34: 0x207D [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x207E [0x1C] WAIT(90* ticks)
@@ -2823,11 +2823,11 @@ SUBROUTINE_11A4:
  45: 0x20EC [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17044004/0x01041224)
  46: 0x20F2 [0x1C] WAIT(90* ticks)
  47: 0x20F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld0" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=2*
- 48: 0x2104 [0x2B] Teepapa (ID: 17044002/0x01041222) [8077*]:
+ 48: 0x2104 [0x2B] Teepapa (ID: 17044002/0x01041222) [8078*]:
     → "He wasn't a Mamool Ja... He was a person dressy-wessed up as a Mamool Ja!"
  49: 0x210B [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x210C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld1" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=2*
- 51: 0x211B [0x2B] Teepapa (ID: 17044002/0x01041222) [8078*]:
+ 51: 0x211B [0x2B] Teepapa (ID: 17044002/0x01041222) [8079*]:
     → "Come to thinky-wink of it, I did hear something about a liquid that will turn any who drinky-winks of it into the form of a resident of Mamook..."
  52: 0x2122 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x2123 [0x52] END_LOAD_SCHEDULER: End scheduler "j000" with entities [LocalPlayer, LocalPlayer], work=267*
@@ -2837,40 +2837,40 @@ SUBROUTINE_11A4:
  57: 0x2158 [0x1C] WAIT(30* ticks)
  58: 0x215B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "out0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=47*
  59: 0x216A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "out0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)]
- 60: 0x2177 [0x2B] Teepapa (ID: 17044002/0x01041222) [8079*]:
+ 60: 0x2177 [0x2B] Teepapa (ID: 17044002/0x01041222) [8080*]:
     → "But by the looky-wooks of him... Who are you, anyway?"
  61: 0x217E [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x217F [0x27] REQ_SET(priority=0x10, entity_id=Teepapa (ID: 17044002/0x01041222), tag_num=0x03)
- 63: 0x2186 [0x2B] Teepapa (ID: 17044002/0x01041222) [8080*]:
+ 63: 0x2186 [0x2B] Teepapa (ID: 17044002/0x01041222) [8081*]:
     → "Are you the one who made mille feuille out of the guards? ...Would you happy-wappen to be Duuruhn?"
  64: 0x218D [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x218E [0x52] END_LOAD_SCHEDULER: End scheduler "j001" with entities [LocalPlayer, LocalPlayer], work=267*
  66: 0x219D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j002" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  67: 0x21AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=0*
- 68: 0x21BD [0x2B] ??? (ID: 17044008/0x01041228) [8081*]:
+ 68: 0x21BD [0x2B] ??? (ID: 17044008/0x01041228) [8082*]:
     → "No, you've got it all wrong! Please listen to what I have to say..."
  69: 0x21C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x21C5 [0x7B] Duuruhn (ID: 17044003/0x01041223) stops talking
- 71: 0x21CA [0x2B] Duuruhn (ID: 17044003/0x01041223) [8082*]:
+ 71: 0x21CA [0x2B] Duuruhn (ID: 17044003/0x01041223) [8083*]:
     → "Well, I am Duuruhn."
  72: 0x21D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x21D2 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8083*]:
+ 73: 0x21D2 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8084*]:
     → "And everything is my fault..."
  74: 0x21D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x21DA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=0*
  76: 0x21E9 [0x52] END_LOAD_SCHEDULER: End scheduler "j002" with entities [LocalPlayer, LocalPlayer], work=267*
  77: 0x21F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j003" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  78: 0x2209 [0x1C] WAIT(60* ticks)
- 79: 0x220C [0x2B] Teepapa (ID: 17044002/0x01041222) [8084*]:
+ 79: 0x220C [0x2B] Teepapa (ID: 17044002/0x01041222) [8085*]:
     → "Explain yourself!"
  80: 0x2213 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x2214 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8085*]:
+ 81: 0x2214 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8086*]:
     → "It all began with my doubts regarding the Imperial Army..."
  82: 0x221B [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x221C [0x52] END_LOAD_SCHEDULER: End scheduler "j003" with entities [LocalPlayer, LocalPlayer], work=267*
  84: 0x222B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j032" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  85: 0x223C [0x1C] WAIT(60* ticks)
- 86: 0x223F [0x2B] Teepapa (ID: 17044002/0x01041222) [8086*]:
+ 86: 0x223F [0x2B] Teepapa (ID: 17044002/0x01041222) [8087*]:
     → "Doubts?"
  87: 0x2246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x2247 [0x1C] WAIT(30* ticks)
@@ -2880,18 +2880,18 @@ SUBROUTINE_11A4:
  92: 0x227B [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 174*
  93: 0x227F [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 174*
  94: 0x2283 [0x9A] WAIT_MUSIC_SERVER()
- 95: 0x2284 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8087*]:
+ 95: 0x2284 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8088*]:
     → "Yes... I was a soldier of the Imperial Army, but to be honest, I hated the way they did things."
  96: 0x228B [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x228C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=0*
- 98: 0x229B [0x2B] Duuruhn (ID: 17044003/0x01041223) [8088*]:
+ 98: 0x229B [0x2B] Duuruhn (ID: 17044003/0x01041223) [8089*]:
     → "The army is supposed to protect the Empire's citizens and ensure the security of its land."
  99: 0x22A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x22A3 [0x1C] WAIT(60* ticks)
-101: 0x22A6 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8089*]:
+101: 0x22A6 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8090*]:
     → "But where are they when the beastmen invade Al Zahbi?"
 102: 0x22AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-103: 0x22AE [0x2B] Duuruhn (ID: 17044003/0x01041223) [8090*]:
+103: 0x22AE [0x2B] Duuruhn (ID: 17044003/0x01041223) [8091*]:
     → "They use the mercenaries and volunteer soldiers as fodder for the enemy as they watch the battle from afar!"
 104: 0x22B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x22B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=0*
@@ -2899,7 +2899,7 @@ SUBROUTINE_11A4:
 107: 0x22D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j005" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 108: 0x22E5 [0x1C] WAIT(90* ticks)
 109: 0x22E8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=40*
-110: 0x22F7 [0x2B] Teepapa (ID: 17044002/0x01041222) [8091*]:
+110: 0x22F7 [0x2B] Teepapa (ID: 17044002/0x01041222) [8092*]:
     → "That's true. Empress Nashmeira receives a lot of crity-witicism for that."
 111: 0x22FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x22FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2907,48 +2907,48 @@ SUBROUTINE_11A4:
 114: 0x231F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j006" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 115: 0x2330 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=40*
 116: 0x233F [0x1C] WAIT(60* ticks)
-117: 0x2342 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8092*]:
+117: 0x2342 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8093*]:
     → "I did not want to be part of an army that serves the Empire only in name."
 118: 0x2349 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x234A [0x1C] WAIT(60* ticks)
 120: 0x234D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sdo0" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=3*
-121: 0x235C [0x2B] Duuruhn (ID: 17044003/0x01041223) [8093*]:
+121: 0x235C [0x2B] Duuruhn (ID: 17044003/0x01041223) [8094*]:
     → "Rather than continue my duties with such doubts running through my mind, I opted to desert and find my own path."
 122: 0x2363 [0x23] WAIT_FOR_DIALOG_INTERACTION
-123: 0x2364 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8094*]:
+123: 0x2364 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8095*]:
     → "However, I am still a soldier. I have sworn loyalty to the Empress and know the inner workings of the Empire. They would not simply allow me to quit..."
 124: 0x236B [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x236C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 126: 0x237D [0x52] END_LOAD_SCHEDULER: End scheduler "j006" with entities [LocalPlayer, LocalPlayer], work=267*
 127: 0x238C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j007" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 128: 0x239D [0x1C] WAIT(120* ticks)
-129: 0x23A0 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8095*]:
+129: 0x23A0 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8096*]:
     → "That's when I learned of Two Horn."
 130: 0x23A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x23A8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sdo1" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=3*
-132: 0x23B7 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8096*]:
+132: 0x23B7 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8097*]:
     → "Nobody knows who Two Horn is, so I used the rumors of his existence to disappear."
 133: 0x23BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x23BF [0x52] END_LOAD_SCHEDULER: End scheduler "j007" with entities [LocalPlayer, LocalPlayer], work=267*
 135: 0x23CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j008" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 136: 0x23DF [0x1C] WAIT(30* ticks)
 137: 0x23E2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=40*
-138: 0x23F1 [0x2B] Teepapa (ID: 17044002/0x01041222) [8097*]:
+138: 0x23F1 [0x2B] Teepapa (ID: 17044002/0x01041222) [8098*]:
     → "So you decidey-wided to transform into a Mamool Ja until everyone forgot about you."
 139: 0x23F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x23F9 [0x1C] WAIT(60* ticks)
-141: 0x23FC [0x2B] Teepapa (ID: 17044002/0x01041222) [8098*]:
+141: 0x23FC [0x2B] Teepapa (ID: 17044002/0x01041222) [8099*]:
     → "Interesting. Not that baddy-wad of a plan."
 142: 0x2403 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x2404 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=40*
 144: 0x2413 [0x52] END_LOAD_SCHEDULER: End scheduler "j008" with entities [LocalPlayer, LocalPlayer], work=267*
 145: 0x2422 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j009" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 146: 0x2433 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=0*
-147: 0x2442 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8099*]:
+147: 0x2442 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8100*]:
     → "Please forget you ever saw me here."
 148: 0x2449 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x244A [0x1C] WAIT(60* ticks)
-150: 0x244D [0x2B] Duuruhn (ID: 17044003/0x01041223) [8100*]:
+150: 0x244D [0x2B] Duuruhn (ID: 17044003/0x01041223) [8101*]:
     → "I beg you... Tell my officer that Two Horn didn't exist after all, and that my life was taken by the beastmen."
 151: 0x2454 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x2455 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Duuruhn (ID: 17044003/0x01041223), Duuruhn (ID: 17044003/0x01041223)], work=0*
@@ -2960,7 +2960,7 @@ SUBROUTINE_11A4:
 158: 0x248F [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=60*)
 159: 0x2494 [0x1C] WAIT(120* ticks)
 160: 0x2497 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "iro0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=47*
-161: 0x24A6 [0x2B] Teepapa (ID: 17044002/0x01041222) [8101*]:
+161: 0x24A6 [0x2B] Teepapa (ID: 17044002/0x01041222) [8102*]:
     → "Two Horn...doesn't exist?"
 162: 0x24AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x24AE [0x4A] LocalPlayer looks at Teepapa (ID: 17044002/0x01041222)
@@ -2968,7 +2968,7 @@ SUBROUTINE_11A4:
 165: 0x24BA [0x52] END_LOAD_SCHEDULER: End scheduler "j010" with entities [LocalPlayer, LocalPlayer], work=267*
 166: 0x24C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j011" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 167: 0x24DA [0x1C] WAIT(60* ticks)
-168: 0x24DD [0x2B] Teepapa (ID: 17044002/0x01041222) [8102*]:
+168: 0x24DD [0x2B] Teepapa (ID: 17044002/0x01041222) [8103*]:
     → "Hmph, that shows how little-wittle you know."
 169: 0x24E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x24E5 [0x1C] WAIT(30* ticks)
@@ -2982,7 +2982,7 @@ SUBROUTINE_11A4:
 178: 0x2521 [0x1C] WAIT(15* ticks)
 179: 0x2524 [0x27] REQ_SET(priority=0x10, entity_id=Ibadeen (ID: 17044006/0x01041226), tag_num=0x02)
 180: 0x252B [0x27] REQ_SET(priority=0x10, entity_id=Mashubl (ID: 17044007/0x01041227), tag_num=0x02)
-181: 0x2532 [0x2B] Teepapa (ID: 17044002/0x01041222) [8103*]:
+181: 0x2532 [0x2B] Teepapa (ID: 17044002/0x01041222) [8104*]:
     → "Two Horn is standy-wanding right in front of you!"
 182: 0x2539 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x253A [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 179*
@@ -2994,17 +2994,17 @@ SUBROUTINE_11A4:
 189: 0x2574 [0x99] Wait for Duuruhn (ID: 17044003/0x01041223) animation to complete
 190: 0x2579 [0x1C] WAIT(30* ticks)
 191: 0x257C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j013" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
-192: 0x258D [0x2B] Duuruhn (ID: 17044003/0x01041223) [8104*]:
+192: 0x258D [0x2B] Duuruhn (ID: 17044003/0x01041223) [8105*]:
     → "What!?"
 193: 0x2594 [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x2595 [0x1C] WAIT(60* ticks)
 195: 0x2598 [0x52] END_LOAD_SCHEDULER: End scheduler "j013" with entities [LocalPlayer, LocalPlayer], work=267*
 196: 0x25A7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j014" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 197: 0x25B8 [0x1C] WAIT(60* ticks)
-198: 0x25BB [0x2B] Teepapa (ID: 17044002/0x01041222) [8105*]:
+198: 0x25BB [0x2B] Teepapa (ID: 17044002/0x01041222) [8106*]:
     → "I heardy-weard that someone was using my name, so I came to find out who it was."
 199: 0x25C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-200: 0x25C3 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8106*]:
+200: 0x25C3 [0x2B] Duuruhn (ID: 17044003/0x01041223) [8107*]:
     → "So you've been causing all those incidents...?"
 201: 0x25CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x25CB [0x27] REQ_SET(priority=0x10, entity_id=Duuruhn (ID: 17044003/0x01041223), tag_num=0x04)
@@ -3013,7 +3013,7 @@ SUBROUTINE_11A4:
 205: 0x25E4 [0x1C] WAIT(3* ticks)
 206: 0x25E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j015" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 207: 0x25F8 [0x1C] WAIT(30* ticks)
-208: 0x25FB [0x2B] Ibadeen (ID: 17044006/0x01041226) [8107*]:
+208: 0x25FB [0x2B] Ibadeen (ID: 17044006/0x01041226) [8108*]:
     → "Heh heh. Surely ya can't expect us to keep count o' the number of people the boss 'as passed 'er merciless judgments on."
 209: 0x2602 [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x2603 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "conb" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
@@ -3026,7 +3026,7 @@ SUBROUTINE_11A4:
 217: 0x264C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "btl0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=47*
 218: 0x265B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j016" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 219: 0x266C [0x1C] WAIT(30* ticks)
-220: 0x266F [0x2B] Mashubl (ID: 17044007/0x01041227) [8108*]:
+220: 0x266F [0x2B] Mashubl (ID: 17044007/0x01041227) [8109*]:
     → "The name "Two Horn" comes from 'er pigtails seen by 'er shudderin' victims as she leaves 'em in 'er wake."
 221: 0x2676 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x2677 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "brow" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
@@ -3037,7 +3037,7 @@ SUBROUTINE_11A4:
 227: 0x26AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j017" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 228: 0x26BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "btl0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=47*
 229: 0x26CA [0x1C] WAIT(230* ticks)
-230: 0x26CD [0x2B] Teepapa (ID: 17044002/0x01041222) [8109*]:
+230: 0x26CD [0x2B] Teepapa (ID: 17044002/0x01041222) [8110*]:
     → "Hmph. That name isn't cutesy-wutesy at all!"
 231: 0x26D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 232: 0x26D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "out0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=47*
@@ -3045,7 +3045,7 @@ SUBROUTINE_11A4:
 234: 0x26F1 [0x1C] WAIT(30* ticks)
 235: 0x26F4 [0x4A] Teepapa (ID: 17044002/0x01041222) looks at Duuruhn (ID: 17044003/0x01041223)
 236: 0x26FD [0x1C] WAIT(60* ticks)
-237: 0x2700 [0x2B] Teepapa (ID: 17044002/0x01041222) [8110*]:
+237: 0x2700 [0x2B] Teepapa (ID: 17044002/0x01041222) [8111*]:
     → "Everyone thinky-winks we're so heartless, we're so cruelly-wuel, whatever...but surely-wurely they jest. Of course we're not a bunch of thuggy-wugs! And if you even try to insinuate as much, I'll knocky-wock your face in!"
 238: 0x2707 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x2708 [0x52] END_LOAD_SCHEDULER: End scheduler "j017" with entities [LocalPlayer, LocalPlayer], work=267*
@@ -3053,10 +3053,10 @@ SUBROUTINE_11A4:
 241: 0x271C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j018" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 242: 0x272D [0x1C] WAIT(60* ticks)
 243: 0x2730 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=40*
-244: 0x273F [0x2B] Teepapa (ID: 17044002/0x01041222) [8111*]:
+244: 0x273F [0x2B] Teepapa (ID: 17044002/0x01041222) [8112*]:
     → "The Imperial Army is just as you said...a bunch of namby-pambies."
 245: 0x2746 [0x23] WAIT_FOR_DIALOG_INTERACTION
-246: 0x2747 [0x2B] Teepapa (ID: 17044002/0x01041222) [8112*]:
+246: 0x2747 [0x2B] Teepapa (ID: 17044002/0x01041222) [8113*]:
     → "I mean...what about the family-wamilies left behind when the beastmen attack?"
 247: 0x274E [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x274F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=40*
@@ -3064,7 +3064,7 @@ SUBROUTINE_11A4:
 250: 0x276D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j019" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 251: 0x277E [0x1C] WAIT(30* ticks)
 252: 0x2781 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=34*
-253: 0x2790 [0x2B] Teepapa (ID: 17044002/0x01041222) [8113*]:
+253: 0x2790 [0x2B] Teepapa (ID: 17044002/0x01041222) [8114*]:
     → "What about the childy-wildren who lose their fathy-wather in the battles?"
 254: 0x2797 [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x2798 [0x1C] WAIT(30* ticks)
@@ -3072,33 +3072,33 @@ SUBROUTINE_11A4:
 257: 0x27A4 [0x6B] STOP_AND_IDLE: Mashubl (ID: 17044007/0x01041227) stops current action and resets to idle (animation="idl0")
 258: 0x27AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [Ibadeen (ID: 17044006/0x01041226), Ibadeen (ID: 17044006/0x01041226)], work=29*
 259: 0x27BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [Mashubl (ID: 17044007/0x01041227), Mashubl (ID: 17044007/0x01041227)], work=9*
-260: 0x27CB [0x2B] Teepapa (ID: 17044002/0x01041222) [8114*]:
+260: 0x27CB [0x2B] Teepapa (ID: 17044002/0x01041222) [8115*]:
     → "Who is going to takey-wake revenge for them? The Empire? Empress Nashmeira? No!"
 261: 0x27D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x27D3 [0x1C] WAIT(30* ticks)
-263: 0x27D6 [0x2B] Teepapa (ID: 17044002/0x01041222) [8115*]:
+263: 0x27D6 [0x2B] Teepapa (ID: 17044002/0x01041222) [8116*]:
     → "Do you thinky-wink the powerless are going to get happiness from goldy-wold, laws, or stuffy-wuffy philosophies? No!"
 264: 0x27DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x27DE [0x52] END_LOAD_SCHEDULER: End scheduler "j019" with entities [LocalPlayer, LocalPlayer], work=267*
 266: 0x27ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j020" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 267: 0x27FE [0x1C] WAIT(60* ticks)
-268: 0x2801 [0x2B] Teepapa (ID: 17044002/0x01041222) [8116*]:
+268: 0x2801 [0x2B] Teepapa (ID: 17044002/0x01041222) [8117*]:
     → "Especially in Aht Urhgan!"
 269: 0x2808 [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x2809 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=34*
 271: 0x2818 [0x1C] WAIT(60* ticks)
-272: 0x281B [0x2B] Teepapa (ID: 17044002/0x01041222) [8117*]:
+272: 0x281B [0x2B] Teepapa (ID: 17044002/0x01041222) [8118*]:
     → "I'm just lendy-wending the poor and huddled masses a helping hand!"
 273: 0x2822 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x2823 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)]
 275: 0x2830 [0x52] END_LOAD_SCHEDULER: End scheduler "j020" with entities [LocalPlayer, LocalPlayer], work=267*
 276: 0x283F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j021" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 277: 0x2850 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [Ibadeen (ID: 17044006/0x01041226), Ibadeen (ID: 17044006/0x01041226)], work=29*
-278: 0x285F [0x2B] Ibadeen (ID: 17044006/0x01041226) [8118*]:
+278: 0x285F [0x2B] Ibadeen (ID: 17044006/0x01041226) [8119*]:
     → "Ya better not anger da boss."
 279: 0x2866 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x2867 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [Mashubl (ID: 17044007/0x01041227), Mashubl (ID: 17044007/0x01041227)], work=9*
-281: 0x2876 [0x2B] Mashubl (ID: 17044007/0x01041227) [8119*]:
+281: 0x2876 [0x2B] Mashubl (ID: 17044007/0x01041227) [8120*]:
     → "She's gonna continue cleanin' up da streets, ya know."
 282: 0x287D [0x23] WAIT_FOR_DIALOG_INTERACTION
 283: 0x287E [0x1C] WAIT(120* ticks)
@@ -3106,17 +3106,17 @@ SUBROUTINE_11A4:
 285: 0x2890 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j022" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 286: 0x28A1 [0x1C] WAIT(60* ticks)
 287: 0x28A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=40*
-288: 0x28B3 [0x2B] Teepapa (ID: 17044002/0x01041222) [8120*]:
+288: 0x28B3 [0x2B] Teepapa (ID: 17044002/0x01041222) [8121*]:
     → "Duuruhn, if you really-weally want to leave the army, we'll take care of you until this all setty-wettles down."
 289: 0x28BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x28BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=40*
-291: 0x28CA [0x2B] Duuruhn (ID: 17044003/0x01041223) [8121*]:
+291: 0x28CA [0x2B] Duuruhn (ID: 17044003/0x01041223) [8122*]:
     → "R-really?"
 292: 0x28D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x28D2 [0x52] END_LOAD_SCHEDULER: End scheduler "j022" with entities [LocalPlayer, LocalPlayer], work=267*
 294: 0x28E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j023" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 295: 0x28F2 [0x4A] Teepapa (ID: 17044002/0x01041222) looks at LocalPlayer
-296: 0x28FB [0x2B] Teepapa (ID: 17044002/0x01041222) [8122*]:
+296: 0x28FB [0x2B] Teepapa (ID: 17044002/0x01041222) [8123*]:
     → "Yeppy-weppers! <Player>, I'll leavey-weave everything else to you. Go reporty-wort to the Imperial Army...or else, see?"
 297: 0x2902 [0x23] WAIT_FOR_DIALOG_INTERACTION
 298: 0x2903 [0x1C] WAIT(60* ticks)
@@ -3124,10 +3124,10 @@ SUBROUTINE_11A4:
 300: 0x2915 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "j024" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 301: 0x2926 [0x1C] WAIT(60* ticks)
 302: 0x2929 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [Teepapa (ID: 17044002/0x01041222), Teepapa (ID: 17044002/0x01041222)], work=40*
-303: 0x2938 [0x2B] Teepapa (ID: 17044002/0x01041222) [8123*]:
+303: 0x2938 [0x2B] Teepapa (ID: 17044002/0x01041222) [8124*]:
     → "Maybe we'll meety-weet again somewhere."
 304: 0x293F [0x23] WAIT_FOR_DIALOG_INTERACTION
-305: 0x2940 [0x2B] Teepapa (ID: 17044002/0x01041222) [8124*]:
+305: 0x2940 [0x2B] Teepapa (ID: 17044002/0x01041222) [8125*]:
     → "I hope we'll be on the same side then. Heh heh!"
 306: 0x2947 [0x23] WAIT_FOR_DIALOG_INTERACTION
 307: 0x2948 [0x52] END_LOAD_SCHEDULER: End scheduler "j024" with entities [LocalPlayer, LocalPlayer], work=267*
@@ -3135,20 +3135,20 @@ SUBROUTINE_11A4:
 309: 0x2968 [0x4A] Ibadeen (ID: 17044006/0x01041226) looks at LocalPlayer
 310: 0x2971 [0x6E] Ibadeen (ID: 17044006/0x01041226) uses emote 0*
 311: 0x2978 [0x99] Wait for Ibadeen (ID: 17044006/0x01041226) animation to complete
-312: 0x297D [0x2B] Ibadeen (ID: 17044006/0x01041226) [8125*]:
+312: 0x297D [0x2B] Ibadeen (ID: 17044006/0x01041226) [8126*]:
     → "Ya better pray you are!"
 313: 0x2984 [0x23] WAIT_FOR_DIALOG_INTERACTION
 314: 0x2985 [0x4A] Mashubl (ID: 17044007/0x01041227) looks at LocalPlayer
-315: 0x298E [0x2B] Mashubl (ID: 17044007/0x01041227) [8126*]:
+315: 0x298E [0x2B] Mashubl (ID: 17044007/0x01041227) [8127*]:
     → "Later!"
 316: 0x2995 [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x2996 [0x1C] WAIT(30* ticks)
 318: 0x2999 [0x27] REQ_SET(priority=0x10, entity_id=Teepapa (ID: 17044002/0x01041222), tag_num=0x06)
-319: 0x29A0 [0x2B] Teepapa (ID: 17044002/0x01041222) [8127*]:
+319: 0x29A0 [0x2B] Teepapa (ID: 17044002/0x01041222) [8128*]:
     → "Time for our exit! You too, Duuruhn! Move those leggy-wegs!"
 320: 0x29A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 321: 0x29A8 [0x27] REQ_SET(priority=0x10, entity_id=Mashubl (ID: 17044007/0x01041227), tag_num=0x03)
-322: 0x29AF [0x2B] Duuruhn (ID: 17044003/0x01041223) [8128*]:
+322: 0x29AF [0x2B] Duuruhn (ID: 17044003/0x01041223) [8129*]:
     → "Y-yes, ma'am!"
 323: 0x29B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 324: 0x29B7 [0x4A] LocalPlayer looks at Teepapa (ID: 17044002/0x01041222)
@@ -3195,10 +3195,10 @@ SUBROUTINE_11A4:
 
 ```
   0: 0x2A32 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2A34 [0x48] [System] [8130*]:
+  1: 0x2A34 [0x48] [System] [8131*]:
     → "There is a curious liquid here."
   2: 0x2A37 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x2A38 [0x24] CREATE_DIALOG(message_id=8131*, default_option=1*, option_flags=0*)
+  3: 0x2A38 [0x24] CREATE_DIALOG(message_id=8132*, default_option=1*, option_flags=0*)
     → "Take a sip? [I'll try anything once!/I have a weak stomach...]"
   4: 0x2A3F [0x25] WAIT_DIALOG_SELECT()
   5: 0x2A40 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2A55

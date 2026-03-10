@@ -24,19 +24,19 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D0E      |        7438 |
-|       1 | 0x1D0C      |        7436 |
+|       0 | 0x1D0F      |        7439 |
+|       1 | 0x1D0D      |        7437 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0078      |         120 |
-|       5 | 0x1D0D      |        7437 |
+|       5 | 0x1D0E      |        7438 |
 |       6 | 0x00C9      |         201 |
 
 ## String References
 
-- **7436**: <Sniff...sniff...> $2...gil...
-- **7437**: ...Done...
-- **7438**: ...
+- **7437**: <Sniff...sniff...> $2...gil...
+- **7438**: ...Done...
+- **7439**: ...
 
 ## Events
 
@@ -81,7 +81,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
     → "..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -109,7 +109,7 @@
 #### Opcodes
 
 ```
-  0: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+  0: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "<Sniff...sniff...> $2...gil..."
   1: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -141,7 +141,7 @@
   1: 0x0012 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0017 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0018 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "<Sniff...sniff...> $2...gil..."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -179,7 +179,7 @@
   4: 0x0029 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   5: 0x003A [0x1C] WAIT(120* ticks)
   6: 0x003D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-  7: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+  7: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "...Done..."
   8: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0052 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

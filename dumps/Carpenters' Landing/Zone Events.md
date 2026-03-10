@@ -48,8 +48,8 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x003D      |          61 |
 |       3 | 0x003C      |          60 |
-|       4 | 0x1D22      |        7458 |
-|       5 | 0x1D23      |        7459 |
+|       4 | 0x1D23      |        7459 |
+|       5 | 0x1D24      |        7460 |
 |       6 | 0x00E5      |         229 |
 |       7 | 0x0065      |         101 |
 |       8 | 0x00DB      |         219 |
@@ -70,9 +70,9 @@
 |      23 | 0x0811      |        2065 |
 |      24 | 0x001E      |          30 |
 |      25 | 0x026A      |         618 |
-|      26 | 0x1D19      |        7449 |
+|      26 | 0x1D1A      |        7450 |
 |      27 | 0x00B4      |         180 |
-|      28 | 0x1D16      |        7446 |
+|      28 | 0x1D17      |        7447 |
 |      29 | 0xFFFB62B2  |  4294664882 |
 |      30 | 0x7B70C     |      505612 |
 |      31 | 0x0013      |          19 |
@@ -160,9 +160,9 @@
 ## String References
 
 - **7270**: How do you respond? [Yes, I have a message./I have no message for you.]
-- **7449**: You were refused passage for failing to present $6!
-- **7458**: You use your $3. ($2 trip[/s] remaining)
-- **7459**: You use up your $3.
+- **7450**: You were refused passage for failing to present $6!
+- **7459**: You use your $3. ($2 trip[/s] remaining)
+- **7460**: You use up your $3.
 
 ## Events
 
@@ -376,10 +376,10 @@
   6: 0x01A0 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x01BC
   7: 0x01A8 [0x0C] Work_Zone[4]--
   8: 0x01AB [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x01B9
-  9: 0x01B3 [0x48] [System] [7458*]:
+  9: 0x01B3 [0x48] [System] [7459*]:
     → "You use your $3. ($2 trip[/s] remaining)"
  10: 0x01B6 [0x01] GOTO 0x01BC
- 11: 0x01B9 [0x48] [System] [7459*]:
+ 11: 0x01B9 [0x48] [System] [7460*]:
     → "You use up your $3."
 
 SUBROUTINE_01BC:
@@ -497,10 +497,10 @@ SUBROUTINE_01BC:
   6: 0x02AA [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x02C6
   7: 0x02B2 [0x0C] Work_Zone[4]--
   8: 0x02B5 [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x02C3
-  9: 0x02BD [0x48] [System] [7458*]:
+  9: 0x02BD [0x48] [System] [7459*]:
     → "You use your $3. ($2 trip[/s] remaining)"
  10: 0x02C0 [0x01] GOTO 0x02C6
- 11: 0x02C3 [0x48] [System] [7459*]:
+ 11: 0x02C3 [0x48] [System] [7460*]:
     → "You use up your $3."
 
 SUBROUTINE_02C6:
@@ -620,10 +620,10 @@ SUBROUTINE_02C6:
   6: 0x03B4 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x03D0
   7: 0x03BC [0x0C] Work_Zone[4]--
   8: 0x03BF [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x03CD
-  9: 0x03C7 [0x48] [System] [7458*]:
+  9: 0x03C7 [0x48] [System] [7459*]:
     → "You use your $3. ($2 trip[/s] remaining)"
  10: 0x03CA [0x01] GOTO 0x03D0
- 11: 0x03CD [0x48] [System] [7459*]:
+ 11: 0x03CD [0x48] [System] [7460*]:
     → "You use up your $3."
 
 SUBROUTINE_03D0:
@@ -752,11 +752,11 @@ SUBROUTINE_03D0:
  12: 0x04F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x0509 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
  14: 0x0518 [0x03] Work_Zone[2] = 618*
- 15: 0x051D [0x48] [System] [7449*]:
+ 15: 0x051D [0x48] [System] [7450*]:
     → "You were refused passage for failing to present $6!"
  16: 0x0520 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0521 [0x1C] WAIT(180* ticks)
- 18: 0x0524 [0x2B] Chuaie (ID: 16785745/0x01002151) [7446*]:
+ 18: 0x0524 [0x2B] Chuaie (ID: 16785745/0x01002151) [7447*]:
     → "If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing."
  19: 0x052B [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x052C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -818,11 +818,11 @@ SUBROUTINE_03D0:
  12: 0x05DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x05ED [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
  14: 0x05FC [0x03] Work_Zone[2] = 618*
- 15: 0x0601 [0x48] [System] [7449*]:
+ 15: 0x0601 [0x48] [System] [7450*]:
     → "You were refused passage for failing to present $6!"
  16: 0x0604 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0605 [0x1C] WAIT(180* ticks)
- 18: 0x0608 [0x2B] Felourie (ID: 16785747/0x01002153) [7446*]:
+ 18: 0x0608 [0x2B] Felourie (ID: 16785747/0x01002153) [7447*]:
     → "If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing."
  19: 0x060F [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0610 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -884,11 +884,11 @@ SUBROUTINE_03D0:
  12: 0x06C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x06D1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
  14: 0x06E0 [0x03] Work_Zone[2] = 618*
- 15: 0x06E5 [0x48] [System] [7449*]:
+ 15: 0x06E5 [0x48] [System] [7450*]:
     → "You were refused passage for failing to present $6!"
  16: 0x06E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x06E9 [0x1C] WAIT(180* ticks)
- 18: 0x06EC [0x2B] Ratoulle (ID: 16785746/0x01002152) [7446*]:
+ 18: 0x06EC [0x2B] Ratoulle (ID: 16785746/0x01002152) [7447*]:
     → "If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing."
  19: 0x06F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x06F4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]

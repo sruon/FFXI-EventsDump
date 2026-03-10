@@ -1,5 +1,5 @@
 # Strings for Ru'Lude Gardens
-# Total: 16175 strings
+# Total: 16205 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -15687,492 +15687,522 @@
 15683: Really reset rewards? [Yes. (Reset #$0)/No.]
 15684: Rewards have been reset.
 15685: Why I never! One with such a meager aura is not fit to be in my presence, let alone speak to me!
-15686: Well, it took you long enough to come speak with me! I have been sending furtive glances your way for what seems like an eternity now!
-15687: You know, you really should give up on helping Jamal with his utterly pointless research.
-15688: Like everything he does, it is destined to end in abject failure.
-15689: Hm? What do you mean it is none of my business?
-15690: Do you know who you are speaking to? I am Marjory, the most brilliant magician this realm has ever seen, and the foremost expert on Trust research!
-15691: I am somewhat surprised you did not already know that. At any rate, there is a certain matter I need your help with.
-15692: Will you help her? [Sure./No thanks.]
-15693: H-how dare you decline my offer... You will come to regret this, I assure you!
-15694: I am pleased to see you make such a wise decision! Hehe... I cannot wait to see that buffoon Jamal choke on his own words!
-15695: Now then! Jamal likes to equate the darkness of alter egos to the root of all evil or some such nonsense, but as with most things, he could not be more wrong.
-15696: These are just my thoughts on the issue, but...
-15697: You see, unlike Jamal, I do not believe that Trust magic is something meant to be cast outwards from its user.
-15698: No, Trust magic is designed to look within us. In other words...
-15699: The alter egos take shape due to the power contained within a kind of unseen pipeline inside of us that conveys our feelings and thoughts to them.
-15700: That got me thinking! If one could somehow boost the amount of those feelings and thoughts being sent...
-15701: It could lead to the alter ego itself becoming even more powerful!
-15702: Hm? What do you mean you don't understand? You really are quite dense, aren't you?
-15703: Well, I am stuck with you, I guess, so you will need a few things if you are to help me with my research.
-15704: First of all, you will need this special diamond.
-15705: It is capable of detecting the feelings and thoughts you direct at the alter ego you are summoning.
-15706: This diamond then stores them within its crystalline confines.
-15707: Once it has gathered a certain amount of thoughts and feelings, it will change color.
-15708: So basically, I need you to use your Trust magic until you see the diamond change color!
-15709: To help you to that end, I have also prepared something else for you.
-15710: I ordered the A.M.A.N. to provide you with a list of Records of Eminence objectives!
-15711: There are three objectives for you to complete. You simply need to complete them all to collect what is necessary!
-15712: Ah, that reminds me. No matter what, you must not lose this diamond.
-15713: It is made from an extremely rare gemstone, so I forced my mother's jewelry shop to let me have it.
-15714: It was originally a rather unusual diamond that changed color whenever it sensed a change in the surrounding temperature.
-15715: I simply used a little magic to make some key improvements and recreate something from a legend I once heard in a faraway land!
-15716: Now then, let us begin the experiment!
-15717: Ah, there you are! I was expecting you much sooner. Hurry up and hand me the diamond already.
-15718: Hmm... Very well done. You have collected just the right amount of thoughts and feelings. Now, for just a touch of magic...
-15719: I-it's a staggering success! The thoughts have been imbued into the diamond!
-15720: Listen carefully. You simply need to use this diamond as a catalyst when invoking your Trust magic.
-15721: When you do, the thoughts sent to your alter ego when it manifests will be made even more powerful.
-15722: That power will then be sent to the alter ego when you attempt to call upon it.
-15723: As a result, the alter ego itself will also become stronger!
-15724: However, there is one thing you need to be careful of.
-15725: The more of these pipelines you use to call forth the alter egos, the weaker the effect of the catalyst will become.
-15726: I can see that your feeble mind is not comprehending what I am saying. Let me see, how can I dumb this down so even you can understand it...
-15727: If your party is made up of you and five alter egos, that means that five pipelines will be used, so each alter ego will only be slightly powered up.
-15728: And if your party contains you and one other member, along with four alter egos, that means there would be four alter ego pipelines and each one will be a little stronger.
-15729: Finally, if there are five in your party along with only one alter ego, that means there is also only one alter ego pipeline, so it will be made considerably stronger.
-15730: Do you understand now? Yes? I am glad to hear it.
-15731: Take note that the catalyst will not be effective unless you yourself are of considerable strength.
-15732: You must be strong if you wish to extract the power from the catalyst.
-15733: Now get out there and experience the fruits of my research for yourself!
-15734: Your alter egos will become more powerful based on the number of members in your party when your item level is 100 or higher. Upgrade details: Alter ego level = avg. item level + number of party members besides alter egos.
-15735: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-15736: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
-15737: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-15738: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
-15739: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
-15740: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
-15741: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
-15742: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
-15743: It will cost $2 gil to teleport to $8. ($3 gil on hand)
-15744: All mog tablets have currently been found, so you may teleport to $8 at no charge.
-15745: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
-15746: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
-15747: You do not have enough tabs.
-15748: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
-15749: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
-15750: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
-15751: Accept the reward? [Yes, please./No, thanks.]
-15752: You may change the way you select areas listed in "Teleportation Assistance."
-15753: Any changes to make? [Keep course./Select by region./Select by content.]
-15754: Area selection will now be made by [region/content].
-15755: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
-15756: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
-15757: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
-15758: $8 has been [added to your list of favorites/removed from your list of favorites].
-15759: Your list of favorites is full. You must remove an existing entry to add new ones.
-15760: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
-15761: [Lord/Lady] <Player>, please forgive my hasty departure earlier. I have had some time to reflect on my journey here...
-15762: It is about the Emptiness threatening to consume my land.
-15763: I surmise that it is intimately connected to this destructive force that threatens to claim the future, just as Gilgamesh was telling me in Norg.
-15764: The Emptiness will have doubtlessly spread from the Far East, its tendrils stretching ever westward.
-15765: [Lord/Lady] <Player>, forgive me...would that I had been stronger...
-15766: But you know what it means for me to be standing before you here.
-15767: [Lord/Lady] <Player>, you know what it means for me to be standing before you here.
-15768: I must confess to stationing one of my agents around the area after our soiree in Norg.
-15769: It was not for any nefarious purpose, I assure you--it was merely to gather what information I could about the destruction of the future.
-15770: And as I implied earlier, the Emptiness is almost certainly the cause of Iroha's claims.
-15771: [Lord/Lady] <Player>, the Emptiness ceased to encroach when Prishe and her companions toppled Promathia.
-15772: Something horrific must have happened for it to rear its head once more.
-15773: I would ask Iroha to tell me what she knows.
-15774: Forgive me for keeping you waiting, Master.
-15775: Sir Tenzen, the pleasure is mine.
-15776: I am so glad to see you again.
-15777: Again? But this is the first time we...
-15778: Ah, but of course. You mean to say that you have met me in the future.
-15779: You are the very reason I am able to stand here today. My tears flowed like rain when last we parted.
-15780: ...You mean to say that I was swallowed up in the Emptiness.
-15781: Not just you. Everyone.
-15782: I thought myself better prepared for this. So such a future does come to pass.
-15783: Then that means...I failed.
-15784: Sir Tenzen, lift your head.
-15785: In my era, you and the master were revered as heroes of the highest caliber.
-15786: It was not any failure on your behalf. When darkness poured forth from the crystal, there was nothing you could have done to stop it.
-15787: Secluded on that small island, I was unable to stem the rising tide, and the world was torn asunder...
-15788: Heavens be good...
-15789: There is only one thing we can do.
-15790: The question that remains...is why?
-15791: Has some nefarious new force arisen to force open the Gates of Paradise?
-15792: Or is there another threatening to absorb the power of the crystals for its own vile ends?
-15793: Neither you nor Master shared with me the particulars.
-15794: Strife descended upon us in but an instant. Umbral energies radiated from the crystal, and the world was wrapped in gloom before we had a chance to draw breath.
-15795: You mean that we were obliterated into the darkness without knowing why?
-15796: Or was there a reason why we could not tell you?
-15797: I fear the plot will continue to thicken.
-15798: Then there is only one thing to do!
-15799: We must protect our world!
-15800: [Lord/Lady] <Player>, Lady Iroha.
-15801: The future is ours for the taking, and I swear to fight until I have drawn my last breath!
-15802: Wh-what!?
-15803: Does it mean to absorb the fire burning in my heart!?
-15804: No, Sir Tenzen. Your passion has brought new life unto the orb!
-15805: Would that it were sufficient...but the light remains ever pale.
-15806: You have yet to meet with Lady Prishe, correct?
-15807: Master, when you recounted tales of your exploits, Lady Prishe was a prominent figure. You oft waxed lyrical about how her prowess was beyond compare.
-15808: Prishe...? Who is this woman of whom you speak?
-15809: Ah, so the two of you have yet to cross paths.
-15810: This would explain why the orb is scarce as bright as a torch.
-15811: Lady Prishe has but recently arrived in Jeuno.
-15812: Permit me to seek her out and lead her to the port.
-15813: Our next destination is clear to us.
-15814: She is, of course, here in Jeuno.
-15815: Yet I fear for her health. We should first complete our business in Pso'Xja while she recovers.
-15816: [Lord/Lady] <Player>, forgive me my brashness, but I must insist that that should be our first course of action.
-15817: Let us petition for her assistance once she has rejoined us in the world of the living.
-15818: Port Jeuno would seem as good a place as any to reunite.
-15819: Perhaps we should call her back to Jeuno.
-15820: Permit me to seek her out and lead her to the port.
-15821: I would offer to bring her back here to Jeuno myself...
-15822: ...But I need not remind you that the situation is rather complicated.
-15823: Indeed. [Lord/Lady] <Player>, this is where you come in.
-15824: Let us meet back in Port Jeuno once Prishe's hands are free.
-15825: Master, the fire in Sir Tenzen's heart is evident. You must meet with Prishe without delay.
-15826: I must confess that the only reason I am standing here today to aid you...
-15827: ...is that I received a benevolent puissance when you and Sir Tenzen visited me on Reisenjima during the ultimate conflict.
-15828: Yet I must reiterate that I do not exist in this era.
-15829: My presence has caused the wheel of fate to spin, and I fear that it may not come to rest in an advantageous position.
-15830: Yet should you remain ever unflinching as you tackle this most arduous of journeys...
-15831: Then perhaps my appearance here matters not, and you will be able to lead us to a brighter future.
-15832: Master, I shall head to the port while you search for Lady Prishe.
-15833: Please...let me rest here...until we meet Lady Prishe...
-15834: @@
-15835: You have entered the crafting target area.
-15836: Crafting the requested items in the current target area will count towards the number of items you are required to deliver them.
-15837: You have left the crafting target area.
-15838: $1 $0 remaining.
-15839: I need your help getting me some $0. Let's say $1 more, shall we?
-15840: That's exactly the $0 I'm looking for. Bring me $1 more just like it.
-15841: These are exactly the $0 I'm looking for. Bring me $1 more just like them.
-15842: Okay, that's all of 'em. Thanks. Be sure to give my regards to your guildmaster.
-15843: Hm? What do you have there, if I may ask? I believe I have laid eyes upon it before somewhere...
-15844: <Player> showed the $3.
-15845: I knew it. It's just like one I came across during my studies into dark Trust magic.
-15846: I heard the organization responsible for authorizing the viewing of such materials had hit a wall trying to find a way to decrypt the code...
-15847: Unfortunately, that is the extent of my knowledge regarding the matter. I am sorry that I cannot be of more help to you.
-15848: Oh! You managed to decrypt the code?
-15849: I am surprised to hear that you were able to crack it so easily, especially with all of the trouble the organization had.
-15850: Hehehe. It would appear that your magical aura is worthy of the sense of mystique that accompanies it.
-15851: Huh? Who're you? Wait... You can see me?
-15852: How will you reply? [Say you can see him./Pretend not to see him.]
-15853: I don't get it... How can ya see me?
-15854: Ah! You must have $6. I've got one just like it. My friends tried to stop me, but my curiosity got the better of me.
-15855: It was great at first, losin' myself in a quest for treasure. But before I knew it, I was like a ghost.
-15856: My body remains stuck in the other world, and only my spirit is able to return.
-15857: However, I've got no regrets. It's actually a blast. I've got all this treasure to myself! Hehehe!
-15858: I know how to get there. You might not be able to get there, but I can help show you the way. Whadda ya say?
-15859: Do you want to go? [Right away!/Maybe some other time...]
-15860: I can see you're full of curiosity, just like me! First, you'll need $6 for your journey. It's a bit different from $6, ya see.
-15861: There's something strange about the $3, like it's cursed or something. I have a feeling you'll find out soon enough.
-15862: Past, future; light, darkness... Or perhaps something else... The only thing I know for sure is that it won't turn out very good for you.
-15863: So, are ya sure ya wanna go through with this?
-15864: Do you still want to go? [More than ever!/I'm having second thoughts...]
-15865: I can see yer not easily deterred. Well, in that case, you're gonna have to buy $6 from me.
-15866: Do ya know about the ancient currency used in the realm of men during the Shadowreign Era?
-15867: I'll trade ya for $0, $1, or $2. Come see me when yer ready.
-15868: I'll trade ya for $0, $1, or $2. Come see me when yer ready. I'll give ya the $3.
-15869: Ah, I see you've come bearing gifts... Okay, here's the $3 as promised.
-15870: Now, there are a few conditions for travelin' to this world.
-15871: First...it's dangerous to go it alone. Bring yer friends with ya.
-15872: Ya need at least three people, and ya can take up to eighteen. If there are too few or too many, not everybody'll be able to make it back.
-15873: Second, it's important to get yer rest.
-15874: If you go, you need to rest for at least 60 hours (Earth time) before going again. That'll help ya from endin' up like me.
-15875: Third...this isn't really a condition, but the treasure there is mine. I'm simply askin' ya to bring it back for me.
-15876: Over there, you'll find goodies like this everywhere ya look.
-15877: Aurix shows you $0.
-15878: This is a name tag used by the Allied Forces during the Shadowreign Era. It seems they were quite the formidable fightin' unit.
-15879: Ya might also come across something like this from time to time.
-15880: It's a campaign medal that was given to help boost morale amongst beastmen during the Shadowreign Era.
-15881: It appears to have been forged from the name tags used by the Allied Forces.
-15882: You'll find treasures like this everywhere over there. Bring them to me.
-15883: Of course, I'll be sure to reward ya properly. Just bring me that treasure, understood?
-15884: Ah, I see you've been there. I'm glad to see ya back in one piece.
-15885: So, do ya have anythin' fer me? I've made me a list to help facilitate our transactions.
-15886: If ya see anythin' on the list ya want, just bring me the specified goods. And once ya have 100 $0, I'll trade ya fer the $1.
-15887: So, do ya wanna see the list?
-15888: What will you do? [View the list./Ask about Dynamis (D)./Ask about time limits with Dynamis (D)./Ask about name tags and medals./Ask about Relic Armor./Ask about the word on the street!/Never mind.]
-15889: You will be able to occupy Dynamis (D) after $0 hours (Earth time) have passed.
-15890: You can now occupy Dynamis (D).
-15891: You will be able to occupy Dynamis (D) in approximately $0 minute[/s].
-15892: Also, you can trade 100 $0 for $1, 100 $2 for $3, and 100 $4 for $5.
-15893: I know a good blacksmith. If ya find some armor and the necessary materials, we can pay him a visit.
-15894: I'll update the list for ya. Take a look to see what ya need next.
-15895: Here's the list.
-15896: What do you need? [Materials./Relic Armor./Go back./Never mind.]
-15897: What do you need? [San d'Oria (D): $0./San d'Oria (D): $1./San d'Oria (D): $2.@/Bastok (D): $0./Bastok (D): $1./Bastok (D): $2.@/Windurst (D): $0./Windurst (D): $1./Windurst (D): $2.@/Jeuno (D): $0./Jeuno (D): $1./Jeuno (D): $2.@/Dynamis (D) (All): $0./Dynamis (D) (All): $1./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/Go back./Never mind.]
-15898: What do you need? [#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./Go back./Never mind.]
-15899: What do you need? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Attire./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Armor./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Go back./Never mind.]
-15900: The $0 can be exchanged for $2 $0$0 .
-15901: The $0 requires $1, $3 $0 , $5 $0$4 , and $7 $0$6 .
-15902: I see ya managed to get everything. Here ya go, here's the $0 as promised.
-15903: What do ya wanna trade for?
-15904: What do you need? ($0: $1) [Dynamis - San d'Oria (D)/Dynamis - Bastok (D)/Dynamis - Windurst (D)/Dynamis - Jeuno (D)/Dynamis - All (D)/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/Never mind.]
-15905: What do you need? ($30: $31) [#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./Go back./Never mind.]
-15906: Okay, we have a deal. It's been a pleasure doin' business with ya.
-15907: Yer a bit light. Ya need some more $0.
-15908: Do you want to make the trade? [Yes./No thanks.]
-15909: Okay, ya want the $0. Give me a little time and I'll have it ready for ya.
-15910: Sorry, it's not ready yet. Ya need to have a little more patience.
-15911: Let me guess, yer here 'bout the $0. It's all ready for ya.
-15912: You want to hear what I know? It'll cost ya!
-15913: How's about...$0 gil?
-15914: Pay $0 gil? [Sure./No way.]
-15915: Get a load of [Mr./Ms.] Deeppockets over here! I like your style, kid. This one's on the house.
-15916: C'mon, it was just a joke. But boy, you're sure tight with the purse strings!
-15917: Lots of treasure is available in Dynamis - [San d'Oria/Bastok/Windurst/Jeuno] at the moment. Get out there and bring 'em back to me!
-15918: There appears to be a tear in the fabric of space...
-15919: Your party's leader is currently examining the entrance.
-15920: Only party leaders may examine the entrance.
-15921: Only party leaders may enter the instance.
-15922: Attempt which? (Auto-transport: [off/on]) [None./[D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno] (CL:$1)/$3 status./Switch $3 use state. ([off/on])/Occupying Dynamis./Toggle auto-transport.]
-15923: Instance Setting (Auto-transport: ([off/on]) [Back./$3 status./Switch $3 use state. ([off/on])/Toggle auto-transport.]
-15924: Only party members present with you in this area will be transported to [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-15925: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
-15926: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-15927: You have chosen not to [apply to/enter] [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-15928: The hands of darkness have impeded your progress into the next area.
-15929: You feel repelled by a competing presence. Please wait a moment and try again.
-15930: This area is fully occupied. You are unable to enter.
-15931: Unknown anomalies have prevented you from proceeding.
-15932: Please wait. Your request for entry is being considered...
-15933: The order has been given by your party leader to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-15934: Your party does not meet the minimum required number of $0 member[/s].
-15935: Unable to occupy the instance. Not all of your party members meet the prerequisites for this objective.
-15936: Unable to occupy the instance. One or more of your party members is currently on board a ship.
-15937: Unable to occupy the instance. One or more of your party members is currently in a Mog House.
-15938: The area is currently full. Please try again later.
-15939: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
-15940: Treasure chest bonuses are now active!
-15941: There appears to be a tear in the fabric of space... Enter by :: on //.
-15942: You have applied to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-15943: Please wait in $8 while the battlefield is being prepared. Your registration number for entering this nightmare is $3.
-15944: The battle commences! Enter via the enigmatic footprints #1 by :: on //$1.
-15945: You are unable to proceed because one of your party members is applying to participate.
-15946: Applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]. You will be unable to participate if you add any more party members. Are you sure?
-15947: The number of party members has increased since your application. You must have a party of $0 or fewer player[/s].
-15948: The instance is currently being set up.
-15949: You are currently number $3 in line to be drawn into this nightmare.
-15950: You are currently number $3 in line, with $2 in front of you.
-15951: Prepare yourselves! The battlefield is almost ready!
-15952: You are currently applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-15953: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
-15954: Your application has been cancelled.
-15955: You must wait a few minutes before reapplying for entry.
-15956: Your application has been cancelled.
-15957: You are unable to escape this nightmare because the instance has been set up.
-15958: Nightmare number $0 has been unleashed!
-15959: Nightmare number $0 has vanished!
-15960: You are unable to apply at this time.
-15961: Auto-transport has been [disabled/enabled].
-15962: Enter via the enigmatic footprints #1 by :: on // once your party members are ready.$1
-15963: The automatic teleportation function has been temporarily disabled.
-15964: Your $3 fills with sand.
-15965: Usage of $3 sand has been [disabled/enabled].
-15966: You $3 has $1 seconds (Earth time) stored inside.
-15967: Enter by :: on //.
-15968: Next opening time for [D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno] (Earth time): // ::. *Delays may occur.
-15969: Enter [D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno] by // :: (Earth time). Content may terminate early based on progression status.
-15970: You cannot enter because you aare applying to enter [D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno].
-15971: [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] is currently on wave $1, [Corporal Tombstone/Lithicthrower Image/Incarnation Icon/Impish Statue] #$2.
-15972: Between 3 and 18 people may enter. The party leader must apply to enter.
-15973: At least 60 minutes must have passed since your previous entry for you to enter again. This applies to all Dynamis - Divergence areas.
-15974: Your $3 stores time inside of it, enabling you to decrease the amount of time needed until you can enter once more.
-15975: The time limit is $11 minutes, although this can be extended by completing certain objectives.
-15976: You will be forceably removed once time expires.
-15977: Enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared)? [No thanks./Enter. (CL: $1)/Check area status./About sharing.]
-15978: Shared is a status where solo adventurers all join the same instance.
-15979: Players can enter once per day (Earth time), and this applies to all Dynamis - Divergence shared areas.
-15980: This does not apply to non-shared Dynamis - Divergence instances.
-15981: Shared [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] instaces are open for two hours starting at : (JST) and have a time limit of $11 minutes. Unlike non-shared instances, this time cannot be extended.
-15982: If the instance is late to open, the time limit will be extended by a similar amount.
-15983: The instane will close when the time limit is reached or the Wave 2 boss monster is defeated.
-15984: You can check wave and monster status from the Check Area Status dialog selection.
-15985: Failed to retrieve information.
-15986: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared). Proceed?
-15987: You have chosen not to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
-15988: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
-15989: Unable to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
-15990: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Testing./Jump./Close dialogue.]
-15991: Max. applications: $0. Number of applicants: $1. Current processing number: $2. Number of retries: $3.
-15992: STEP:$0 Max. waiting number: $1.
-15993: -============- Application ID -============-
-15994: $0 / $1 / $2 / $3
-15995: Applicant UID: $0 / %0 Application time limit: :: on //. ($1) Ticket: $2.
-15996: Parameter A1: $0. Parameter A2: $1. Parameter B: $2.
-15997: idx:$0 / no:$1 / uid:$2 / param2:$3
-15998: use:[X/O] / ready:[X/O] / delete:[X/O] / time:$3
-15999: Designate a value between $0 and $1.
-16000: DEBUG: Handling number $0.
-16001: DEBUG: Applicant alive.
-16002: DEBUG: Applicant not present.
-16003: DEBUG: Cancel.
-16004: DEBUG: Instance active.
-16005: DEBUG: Tickets issued.
-16006: DEBUG: Failed to create instance.($1)
-16007: DEBUG: Skip.
-16008: DEBUG:ID=$0 / SLOT=$1 / SUB=$2
-16009: DEBUG:$3C$3$4[$P106$P10,$6(PI)
-16010: DEBUG:$3`$3P$3b$3g$f$P13>$8$P14s SUBSLOT=$0 / ID(Result)=$1
-16011: DEBUG: Error $0.
-16012: [$P11O/$31]L$J$P15z$30$T // ::
-16013: DEBUG:m::n
-16014: Happy Happy New Year!
-16015: Chacharoon wishing you very best in New Year the Qiqirn way--by giving you things for $5 jingly!
-16016: What do? ($4 gil.) [# [/(Done for today)]@$1 [/(Done for today)]@@/About those pouches.../Maybe later.]
-16017: @Buy $6 for $5 gil? [Yes./No.]
-16018: Ooooh, $6! What is inside? Maybe you get something special!
-16019: Not enough jingly? Then you go out, get more jingly, and bring back. Deal?
-16020: In homeland, people put jingly in pouches and give to other people they like!
-16021: You give me jingly, I put in pouch. Then I give you pouch for you to give to friends. Okay?
-16022: But you cannot open pouch yourself. Only friend can. Must be Mysterious Moogle Magic.
-16023: Pouch with jingly! Can use to see how much is inside!
-16024: Here you go!
-16025: Oooh, listen to the happy sound of jingly! But is too much jingly for one pouch. Only up to $0 jingly.
-16026: Squeak squeak! (It looks pretty hungry.)
-16027: Squeak!!! (It doesn't seem to want that.)
-16028: Squeak... (It appears to want more.)
-16029: Squeeeak! (It looks elated!)
-16030: Here you can play the game Mandragora Mania.
-16031: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
-16032: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
-16033: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
-16034: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
-16035: You may pay $& gil to reset all rewards, enabling you to purchase them again.
-16036: Reset rewards? ($' gil). [Yes ($& gil)./No.]
-16037: You do not have enough gil.
-16038: All rewards have been reset.
-16039: You have already purchased the $2.
-16040: You need at least $3 jingly to purchase the $2.
-16041: The reward exchange period has turned over and all rewards have been reset.
-16042: You may reset all rewards from the appropriate dialogue box.
-16043: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
-16044: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
-16045: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
-16046: Starting player set to [Random/You/Opponent].
-16047: Read the manual? [Sure./No thanks.]
-16048: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
-16049: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
-16050: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
-16051: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
-16052: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
-16053: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
-16054: You must choose one area--either yours or a neutral one--to proceed.
-16055: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
-16056: Conversely, your opponent must select either a neutral area or an area that belongs to them.
-16057: From the right, those areas are numbered 6, 4, 7, 2, and 8.
-16058: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
-16059: Note that the mandragoras will move from the back first--last in, first out.
-16060: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
-16061: You will enter your opponent's territory whenever you go past the goal.
-16062: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
-16063: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
-16064: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
-16065: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
-16066: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
-16067: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
-16068: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
-16069: Standard mandragoras: 1 jingly (both players).
-16070: The game is over when either you or your opponent no longer has any mandragoras that can move.
-16071: The player who has the most jingly at that point will be declared the winner.
-16072: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
-16073: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
-16074: You have selected Area $0.
-16075: You receive $0 jingly for a total of $1.
-16076: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
-16077: Your opponent has selected Area $0.
-16078: Your opponent receives $0 jingly for a total of $1.
-16079: Game Complete!
-16080: [Victory!/Defeat!/Draw!] ($0 - $1)
-16081: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
-16082: That area has no mandragora to move.
-16083: You will forfeit all jingly earned this game if you give up. Are you sure?
-16084: Really give up? [Yes./No.]
-16085: You receive $0 jingly for a total of $1.
-16086: You have reached the jingly cap of $0. Any additional jingly will be lost.
-16087: An error has occurred. Please try again.
-16088: DEBUG ( [OFF/ON]
-16089: RANDOMF0-$0 ( $1
-16090: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
-16091: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
-16092: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
-16093: 
-16094: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
-16095: NPC Selection ( Area $0
-16096: DEBUGFNPC Selection Controls ( [OFF/ON]
-16097: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
-16098: Ungh... It's like every bone in this tired old body is aching...
-16099: And where did all these bruises and scrapes come from anyway?
-16100: Am I sick? Or maybe it's some kind of ancient curse? Wait, I bet I'm being targeted by an evil assassin!
-16101: I know I said something like "If you don't need me, then I'll go help someone else!" Is that why that greenhorn adventurer's so mad at me?
-16102: Oh, hey there, young'un. Is that a look of concern on your face I see?
-16103: Are you worried about Maat? [Yes, actually./No, not really.]
-16104: I had a feeling you'd understand my current plight. Yes, you're wise beyond your years.
-16105: It's okay, there's no need to be shy. You can be honest with me.
-16106: At any rate, I'm glad you're here. I could really use your help with something.
-16107: You see, this rather flashy young lady came by recently with a Goblin in tow...
-16108: She was talking about putting on a new show with some Goblins and that she needed to get stronger.
-16109: The price was most definitely right, and she was eager enough. Indeed, she would've made a fabulous student, but that outfit of hers...
-16110: All that fabric fluttering about was quite distracting. I simply suggested she go change, but she immediately replied "What's wrong with this outfit!? What else should an idol wear!?"
-16111: The heart of a young maiden is a strange thing indeed. Even after all these years, I have yet to understand its many mysteries.
-16112: Hm? Actually, now that I think about it... That was when I started feeling under the weather too.
-16113: Well, I can't say for sure that there is a connection. Anyway, the favor I want to ask you concerns this young lady, you see.
-16114: I need you to find her and return this basket for me. She forgot it in all of the hoopla.
-16115: You should first pay a visit to the junk dealer known as Muckvix in Lower Jeuno. He might know where to find her.
-16116: The Goblin that brought her here was from there, after all. I appreciate your help with this matter.
-16117: Please find the girl that came here to train and give her back this $3 for me.
-16118: You should speak with Muckvix the junk dealer in Lower Jeuno. He might know something that can help you.
-16119: I want you to find the young lady that came to train with me and return her $3.
-16120: Ungh... If these old bones weren't aching so much, I'd go find her myself...
-16121: So, you gave that $3 back to the young lady? That's a relief.
-16122: Still, ungh... I'm not feeling any better. I tell ya, it's no fun getting old.
-16123: Ungh... It's all rather hazy, but I guess I caused some sort of trouble?
-16124: I'm glad you're able to remember that much, at least.
-16125: Whenever you close your eyes and drift off to sleep, a strange power overtakes you each night. The two of us do what we can to keep it in check...
-16126: Wait just a moment!
-16127: You can't just start saying your lines before I even get here!
-16128: Okay, <Player>! Show Maat the pillow! It's the proof we need!
-16129: Okay, shadow that terrorizes the Batallia Downs each and every night!
-16130: It is time to reveal your true identity! Ullegore!
-16131: Uh-oh!
-16132: Haha! It's okay, I'll handle this!
-16133: Um, miss? This isn't an actual show, you see. We're still holding auditions.
-16134: You're what!? Are you serious!?
-16135: Heh heh... Maat here said he wanted to be a part of the Goblin festival too.
-16136: I guess his performance in the audition was a little too...passionate. We're sorry for all the fuss.
-16137: You can say that again! The Festival of Brave Souls was canceled because of you!
-16138: I don't think you understand just how serious this is!
-16139: Ungh... I don't remember any of that...
-16140: Somehow, I found myself covered in various scrapes and bruises. Maybe that's how I lost my memories?
-16141: Ah!
-16142: Seriously!? You were beaten so badly you lost your memory!?
-16143: Hmph! What kind of person would beat up on an old man like that!?
-16144: Um...
-16145: No, it was all my fault. At least those people I scared can rest easily now.
-16146: Well, I suppose you're right. I hear the Goblins have resumed preparations for their festival as well.
-16147: If you're interested in the festival, miss, you should go speak with the Goblins.
-16148: I'd hurry up before they change their minds.
-16149: Oh, yes, of course! I'll go at once!
-16150: Now then... You there. You look familiar.
-16151: I'm Shami. We've conducted some business together in the past.
-16152: My name is Shami. I trade in rather unusual items back in Port Jeuno with adventurers much like yourself.
-16153: That there is Shemo. We're kind of like what you'd call brothers.
-16154: We both know you quite well. You've made quite the reputation for yourself around here.
-16155: Anyway, in regards to Maat... Everything we told that girl was made up.
-16156: She'd probably feel bad if she knew the truth.
-16157: You see, it was the $1 she made Maat eat that caused that to happen to him.
-16158: Maat probably mentioned something about her paying him handsomely to help train her, yes?
-16159: That's the problem, you see. Her "payment" to him was a boiled egg. In fact, I believe it's one you're quite familiar with.
-16160: You mean... [The World Eater Egg!?/The $3!?/An initial egg!?]
-16161: I'm afraid so!
-16162: Nope, guess again!
-16163: Wow, you're really gonna make me spell it out for you, aren't ya!?
-16164: Anyway...
-16165: Fortunately, the World Eater Egg he ate had deteriorated rather significantly. As such, it probably could've been much, much worse for him.
-16166: You see, while he was awake, he was able to somehow contain the power that radiated from within him.
-16167: But whenever he fell asleep, he transformed into that monster, which you saw for yourself.
-16168: Heh heh heh. Although, thanks to your battle against him, the power of the egg seems to have diminished even further, for now at least.
-16169: You can leave the matter to us. We'll see that the rest of the egg's power is absorbed and sealed away properly.
-16170: The mysterious shadow that's been haunting this place each night shouldn't be a problem any longer.
-16171: Here, this is for your troubles. I have a feeling you'll be needing it before this is all over.
-16172: I've got something from Shami and Shemo that they wanted me to give to you. Here you go.
-16173: After talking to Shami and Shemo, I feel like a great weight has been lifted from these tired shoulders.
-16174: I heard they possess some rather mysterious abilities, but I'm sure glad they were here to help. Heh heh heh.
+15686: The nerve of some people! I refuse to speak with anyone who has yet to receive $6 from Lady Syndella!
+15687: Well, it took you long enough to come speak with me! I have been sending furtive glances your way for what seems like an eternity now!
+15688: You know, you really should give up on helping Jamal with his utterly pointless research.
+15689: Like everything he does, it is destined to end in abject failure.
+15690: Hm? What do you mean it is none of my business?
+15691: Do you know who you are speaking to? I am Marjory, the most brilliant magician this realm has ever seen, and the foremost expert on Trust research!
+15692: I am somewhat surprised you did not already know that. At any rate, there is a certain matter I need your help with.
+15693: Will you help her? [Sure./No thanks.]
+15694: H-how dare you decline my offer... You will come to regret this, I assure you!
+15695: I am pleased to see you make such a wise decision! Hehe... I cannot wait to see that buffoon Jamal choke on his own words!
+15696: Now then! Jamal likes to equate the darkness of alter egos to the root of all evil or some such nonsense, but as with most things, he could not be more wrong.
+15697: These are just my thoughts on the issue, but...
+15698: You see, unlike Jamal, I do not believe that Trust magic is something meant to be cast outwards from its user.
+15699: No, Trust magic is designed to look within us. In other words...
+15700: The alter egos take shape due to the power contained within a kind of unseen pipeline inside of us that conveys our feelings and thoughts to them.
+15701: That got me thinking! If one could somehow boost the amount of those feelings and thoughts being sent...
+15702: It could lead to the alter ego itself becoming even more powerful!
+15703: Hm? What do you mean you don't understand? You really are quite dense, aren't you?
+15704: Well, I am stuck with you, I guess, so you will need a few things if you are to help me with my research.
+15705: First of all, you will need this special diamond.
+15706: It is capable of detecting the feelings and thoughts you direct at the alter ego you are summoning.
+15707: This diamond then stores them within its crystalline confines.
+15708: Once it has gathered a certain amount of thoughts and feelings, it will change color.
+15709: So basically, I need you to use your Trust magic until you see the diamond change color!
+15710: To help you to that end, I have also prepared something else for you.
+15711: I ordered the A.M.A.N. to provide you with a list of Records of Eminence objectives!
+15712: There are three objectives for you to complete. You simply need to complete them all to collect what is necessary!
+15713: Ah, that reminds me. No matter what, you must not lose this diamond.
+15714: It is made from an extremely rare gemstone, so I forced my mother's jewelry shop to let me have it.
+15715: It was originally a rather unusual diamond that changed color whenever it sensed a change in the surrounding temperature.
+15716: I simply used a little magic to make some key improvements and recreate something from a legend I once heard in a faraway land!
+15717: Now then, let us begin the experiment!
+15718: Hey, just what do you think you are doing?
+15719: While you were dilly dallying about, the situation has changed! You need to receive $6 from Lady Syndella first!
+15720: Ah, there you are! I was expecting you much sooner. Hurry up and hand me the diamond already.
+15721: Hmm... Very well done. You have collected just the right amount of thoughts and feelings. Now, for just a touch of magic...
+15722: I-it's a staggering success! The thoughts have been imbued into the diamond!
+15723: Listen carefully. You simply need to use this diamond as a catalyst when invoking your Trust magic.
+15724: When you do, the thoughts sent to your alter ego when it manifests will be made even more powerful.
+15725: Hm? You wish to know how to use the diamond as a catalyst?
+15726: That... is something you need to figure out for yourself!
+15727: At any rate, I shall give you this gift for helping me. I feel that it should prove useful to you.
+15728: I am looking forward to the results of your research!
+15729: Ah, hello again! Hm? You still have yet to acquire $6? Please go and receive one from Lady Syndella at once!
+15730: Ah, hello again! I remember you helped me with my research before.
+15731: I was just thinking that I had yet to sufficiently compensate you for your efforts. Here, please take this as a token of my gratitude.
+15732: Hm... I feel that this subject is beyond your current abilities. Please come speak to me again when you are able to use Trust magic.
+15733: Hello there. I feel you are not ready for what I have to teach. Come back once you have obtained $6.
+15734: Hm, let me see... Yes, I think you shall do nicely.
+15735: My name is Syndella. I am currently researching the art of Trust magic.
+15736: I suppose you could say that I serve as a sort of supervisor for Jamal and Marjorie.
+15737: They both bring a unique perspective to their research, so I find them to be quite stimulating.
+15738: Based on the results of Jamal's research, I started thinking of ways to further strengthen the alter egos that we summon.
+15739: I discovered that the way to make them more powerful is to strengthen the bond they share with the user when summoned.
+15740: Jamal keeps going on about darkness-based Trust magic and unfinished ciphers, but...
+15741: Doctor Shantotto once said that Trust magic is based on the bond formed between the user and the alter ego.
+15742: She knew the answers I sought all along, but I suppose it is only natural, given how dedicated she is to such matters.
+15743: That is enough idle chitchat. So, will you help me with my research?
+15744: Help with her research? [Sure./Sorry, I'm busy.]
+15745: Ah, that is a shame! Well, please come see me if you ever change your mind.
+15746: Oh, thank you so much! Now then, without further ado, let's get started.
+15747: Please put on the $3 I just gave you.
+15748: The bracelet is imbued with magic based on Jamal's research into the strengthening of bonds between us and the alter egos.
+15749: The process is automatically activated if you summon an alter ego while wearing the bracelet. It should serve to make the alter ego even more powerful.
+15750: It seems Jamal attempted to use a cipher for the procedure, but there are limits, both physical and magical, to what it can accomplish.
+15751: So what should we do, you ask? The answer is to not rely on such ciphers at all.
+15752: In other words, I wish to expand upon the procedure's potential, so I have prepared a special catalyst to help do so.
+15753: Ah, I got lost in thought for a moment there! My apologies!
+15754: That reminds me... I forgot to mention that simply wearing the bracelet is not enough.
+15755: You need to accumulate what are known as alter ego points with the bracelet.
+15756: These alter ego points can be acquired by using $0.
+15757: First, you accumulate the alter ego points and then apply them to the area you wish to strengthen, which serves to enhance the bracelet's magic.
+15758: To apply the alter ego points, go to the Main Menu and select Stats, followed by Alter ego points.
+15759: You can increase thei attibutess there, but only from your Mog House or Mog Garden.
+15760: Once you have applied the alter ego points, there are no takebacks. Be awae!
+15761: You are overwhelmed with a special magical force.
+15762: There. Now your bracelet will never come off!
+15763: Now then, I wish you the best of luck.
+15764: Ah, my research is going quite splendidly. You see, I am able to observe your efforts through the bracelet.
+15765: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+15766: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+15767: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+15768: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+15769: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+15770: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+15771: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+15772: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+15773: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+15774: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+15775: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+15776: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+15777: You do not have enough tabs.
+15778: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+15779: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+15780: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+15781: Accept the reward? [Yes, please./No, thanks.]
+15782: You may change the way you select areas listed in "Teleportation Assistance."
+15783: Any changes to make? [Keep course./Select by region./Select by content.]
+15784: Area selection will now be made by [region/content].
+15785: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+15786: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+15787: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+15788: $8 has been [added to your list of favorites/removed from your list of favorites].
+15789: Your list of favorites is full. You must remove an existing entry to add new ones.
+15790: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+15791: [Lord/Lady] <Player>, please forgive my hasty departure earlier. I have had some time to reflect on my journey here...
+15792: It is about the Emptiness threatening to consume my land.
+15793: I surmise that it is intimately connected to this destructive force that threatens to claim the future, just as Gilgamesh was telling me in Norg.
+15794: The Emptiness will have doubtlessly spread from the Far East, its tendrils stretching ever westward.
+15795: [Lord/Lady] <Player>, forgive me...would that I had been stronger...
+15796: But you know what it means for me to be standing before you here.
+15797: [Lord/Lady] <Player>, you know what it means for me to be standing before you here.
+15798: I must confess to stationing one of my agents around the area after our soiree in Norg.
+15799: It was not for any nefarious purpose, I assure you--it was merely to gather what information I could about the destruction of the future.
+15800: And as I implied earlier, the Emptiness is almost certainly the cause of Iroha's claims.
+15801: [Lord/Lady] <Player>, the Emptiness ceased to encroach when Prishe and her companions toppled Promathia.
+15802: Something horrific must have happened for it to rear its head once more.
+15803: I would ask Iroha to tell me what she knows.
+15804: Forgive me for keeping you waiting, Master.
+15805: Sir Tenzen, the pleasure is mine.
+15806: I am so glad to see you again.
+15807: Again? But this is the first time we...
+15808: Ah, but of course. You mean to say that you have met me in the future.
+15809: You are the very reason I am able to stand here today. My tears flowed like rain when last we parted.
+15810: ...You mean to say that I was swallowed up in the Emptiness.
+15811: Not just you. Everyone.
+15812: I thought myself better prepared for this. So such a future does come to pass.
+15813: Then that means...I failed.
+15814: Sir Tenzen, lift your head.
+15815: In my era, you and the master were revered as heroes of the highest caliber.
+15816: It was not any failure on your behalf. When darkness poured forth from the crystal, there was nothing you could have done to stop it.
+15817: Secluded on that small island, I was unable to stem the rising tide, and the world was torn asunder...
+15818: Heavens be good...
+15819: There is only one thing we can do.
+15820: The question that remains...is why?
+15821: Has some nefarious new force arisen to force open the Gates of Paradise?
+15822: Or is there another threatening to absorb the power of the crystals for its own vile ends?
+15823: Neither you nor Master shared with me the particulars.
+15824: Strife descended upon us in but an instant. Umbral energies radiated from the crystal, and the world was wrapped in gloom before we had a chance to draw breath.
+15825: You mean that we were obliterated into the darkness without knowing why?
+15826: Or was there a reason why we could not tell you?
+15827: I fear the plot will continue to thicken.
+15828: Then there is only one thing to do!
+15829: We must protect our world!
+15830: [Lord/Lady] <Player>, Lady Iroha.
+15831: The future is ours for the taking, and I swear to fight until I have drawn my last breath!
+15832: Wh-what!?
+15833: Does it mean to absorb the fire burning in my heart!?
+15834: No, Sir Tenzen. Your passion has brought new life unto the orb!
+15835: Would that it were sufficient...but the light remains ever pale.
+15836: You have yet to meet with Lady Prishe, correct?
+15837: Master, when you recounted tales of your exploits, Lady Prishe was a prominent figure. You oft waxed lyrical about how her prowess was beyond compare.
+15838: Prishe...? Who is this woman of whom you speak?
+15839: Ah, so the two of you have yet to cross paths.
+15840: This would explain why the orb is scarce as bright as a torch.
+15841: Lady Prishe has but recently arrived in Jeuno.
+15842: Permit me to seek her out and lead her to the port.
+15843: Our next destination is clear to us.
+15844: She is, of course, here in Jeuno.
+15845: Yet I fear for her health. We should first complete our business in Pso'Xja while she recovers.
+15846: [Lord/Lady] <Player>, forgive me my brashness, but I must insist that that should be our first course of action.
+15847: Let us petition for her assistance once she has rejoined us in the world of the living.
+15848: Port Jeuno would seem as good a place as any to reunite.
+15849: Perhaps we should call her back to Jeuno.
+15850: Permit me to seek her out and lead her to the port.
+15851: I would offer to bring her back here to Jeuno myself...
+15852: ...But I need not remind you that the situation is rather complicated.
+15853: Indeed. [Lord/Lady] <Player>, this is where you come in.
+15854: Let us meet back in Port Jeuno once Prishe's hands are free.
+15855: Master, the fire in Sir Tenzen's heart is evident. You must meet with Prishe without delay.
+15856: I must confess that the only reason I am standing here today to aid you...
+15857: ...is that I received a benevolent puissance when you and Sir Tenzen visited me on Reisenjima during the ultimate conflict.
+15858: Yet I must reiterate that I do not exist in this era.
+15859: My presence has caused the wheel of fate to spin, and I fear that it may not come to rest in an advantageous position.
+15860: Yet should you remain ever unflinching as you tackle this most arduous of journeys...
+15861: Then perhaps my appearance here matters not, and you will be able to lead us to a brighter future.
+15862: Master, I shall head to the port while you search for Lady Prishe.
+15863: Please...let me rest here...until we meet Lady Prishe...
+15864: @@
+15865: You have entered the crafting target area.
+15866: Crafting the requested items in the current target area will count towards the number of items you are required to deliver them.
+15867: You have left the crafting target area.
+15868: $1 $0 remaining.
+15869: I need your help getting me some $0. Let's say $1 more, shall we?
+15870: That's exactly the $0 I'm looking for. Bring me $1 more just like it.
+15871: These are exactly the $0 I'm looking for. Bring me $1 more just like them.
+15872: Okay, that's all of 'em. Thanks. Be sure to give my regards to your guildmaster.
+15873: Hm? What do you have there, if I may ask? I believe I have laid eyes upon it before somewhere...
+15874: <Player> showed the $3.
+15875: I knew it. It's just like one I came across during my studies into dark Trust magic.
+15876: I heard the organization responsible for authorizing the viewing of such materials had hit a wall trying to find a way to decrypt the code...
+15877: Unfortunately, that is the extent of my knowledge regarding the matter. I am sorry that I cannot be of more help to you.
+15878: Oh! You managed to decrypt the code?
+15879: I am surprised to hear that you were able to crack it so easily, especially with all of the trouble the organization had.
+15880: Hehehe. It would appear that your magical aura is worthy of the sense of mystique that accompanies it.
+15881: Huh? Who're you? Wait... You can see me?
+15882: How will you reply? [Say you can see him./Pretend not to see him.]
+15883: I don't get it... How can ya see me?
+15884: Ah! You must have $6. I've got one just like it. My friends tried to stop me, but my curiosity got the better of me.
+15885: It was great at first, losin' myself in a quest for treasure. But before I knew it, I was like a ghost.
+15886: My body remains stuck in the other world, and only my spirit is able to return.
+15887: However, I've got no regrets. It's actually a blast. I've got all this treasure to myself! Hehehe!
+15888: I know how to get there. You might not be able to get there, but I can help show you the way. Whadda ya say?
+15889: Do you want to go? [Right away!/Maybe some other time...]
+15890: I can see you're full of curiosity, just like me! First, you'll need $6 for your journey. It's a bit different from $6, ya see.
+15891: There's something strange about the $3, like it's cursed or something. I have a feeling you'll find out soon enough.
+15892: Past, future; light, darkness... Or perhaps something else... The only thing I know for sure is that it won't turn out very good for you.
+15893: So, are ya sure ya wanna go through with this?
+15894: Do you still want to go? [More than ever!/I'm having second thoughts...]
+15895: I can see yer not easily deterred. Well, in that case, you're gonna have to buy $6 from me.
+15896: Do ya know about the ancient currency used in the realm of men during the Shadowreign Era?
+15897: I'll trade ya for $0, $1, or $2. Come see me when yer ready.
+15898: I'll trade ya for $0, $1, or $2. Come see me when yer ready. I'll give ya the $3.
+15899: Ah, I see you've come bearing gifts... Okay, here's the $3 as promised.
+15900: Now, there are a few conditions for travelin' to this world.
+15901: First...it's dangerous to go it alone. Bring yer friends with ya.
+15902: Ya need at least three people, and ya can take up to eighteen. If there are too few or too many, not everybody'll be able to make it back.
+15903: Second, it's important to get yer rest.
+15904: If you go, you need to rest for at least 60 hours (Earth time) before going again. That'll help ya from endin' up like me.
+15905: Third...this isn't really a condition, but the treasure there is mine. I'm simply askin' ya to bring it back for me.
+15906: Over there, you'll find goodies like this everywhere ya look.
+15907: Aurix shows you $0.
+15908: This is a name tag used by the Allied Forces during the Shadowreign Era. It seems they were quite the formidable fightin' unit.
+15909: Ya might also come across something like this from time to time.
+15910: It's a campaign medal that was given to help boost morale amongst beastmen during the Shadowreign Era.
+15911: It appears to have been forged from the name tags used by the Allied Forces.
+15912: You'll find treasures like this everywhere over there. Bring them to me.
+15913: Of course, I'll be sure to reward ya properly. Just bring me that treasure, understood?
+15914: Ah, I see you've been there. I'm glad to see ya back in one piece.
+15915: So, do ya have anythin' fer me? I've made me a list to help facilitate our transactions.
+15916: If ya see anythin' on the list ya want, just bring me the specified goods. And once ya have 100 $0, I'll trade ya fer the $1.
+15917: So, do ya wanna see the list?
+15918: What will you do? [View the list./Ask about Dynamis (D)./Ask about time limits with Dynamis (D)./Ask about name tags and medals./Ask about Relic Armor./Ask about the word on the street!/Never mind.]
+15919: You will be able to occupy Dynamis (D) after $0 hours (Earth time) have passed.
+15920: You can now occupy Dynamis (D).
+15921: You will be able to occupy Dynamis (D) in approximately $0 minute[/s].
+15922: Also, you can trade 100 $0 for $1, 100 $2 for $3, and 100 $4 for $5.
+15923: I know a good blacksmith. If ya find some armor and the necessary materials, we can pay him a visit.
+15924: I'll update the list for ya. Take a look to see what ya need next.
+15925: Here's the list.
+15926: What do you need? [Materials./Relic Armor./Go back./Never mind.]
+15927: What do you need? [San d'Oria (D): $0./San d'Oria (D): $1./San d'Oria (D): $2.@/Bastok (D): $0./Bastok (D): $1./Bastok (D): $2.@/Windurst (D): $0./Windurst (D): $1./Windurst (D): $2.@/Jeuno (D): $0./Jeuno (D): $1./Jeuno (D): $2.@/Dynamis (D) (All): $0./Dynamis (D) (All): $1./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/Go back./Never mind.]
+15928: What do you need? [#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./Go back./Never mind.]
+15929: What do you need? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Attire./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Armor./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Go back./Never mind.]
+15930: The $0 can be exchanged for $2 $0$0 .
+15931: The $0 requires $1, $3 $0 , $5 $0$4 , and $7 $0$6 .
+15932: I see ya managed to get everything. Here ya go, here's the $0 as promised.
+15933: What do ya wanna trade for?
+15934: What do you need? ($0: $1) [Dynamis - San d'Oria (D)/Dynamis - Bastok (D)/Dynamis - Windurst (D)/Dynamis - Jeuno (D)/Dynamis - All (D)/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/Never mind.]
+15935: What do you need? ($30: $31) [#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./Go back./Never mind.]
+15936: Okay, we have a deal. It's been a pleasure doin' business with ya.
+15937: Yer a bit light. Ya need some more $0.
+15938: Do you want to make the trade? [Yes./No thanks.]
+15939: Okay, ya want the $0. Give me a little time and I'll have it ready for ya.
+15940: Sorry, it's not ready yet. Ya need to have a little more patience.
+15941: Let me guess, yer here 'bout the $0. It's all ready for ya.
+15942: You want to hear what I know? It'll cost ya!
+15943: How's about...$0 gil?
+15944: Pay $0 gil? [Sure./No way.]
+15945: Get a load of [Mr./Ms.] Deeppockets over here! I like your style, kid. This one's on the house.
+15946: C'mon, it was just a joke. But boy, you're sure tight with the purse strings!
+15947: Lots of treasure is available in Dynamis - [San d'Oria/Bastok/Windurst/Jeuno] at the moment. Get out there and bring 'em back to me!
+15948: There appears to be a tear in the fabric of space...
+15949: Your party's leader is currently examining the entrance.
+15950: Only party leaders may examine the entrance.
+15951: Only party leaders may enter the instance.
+15952: Attempt which? (Auto-transport: [off/on]) [None./[D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno] (CL:$1)/$3 status./Switch $3 use state. ([off/on])/Occupying Dynamis./Toggle auto-transport.]
+15953: Instance Setting (Auto-transport: ([off/on]) [Back./$3 status./Switch $3 use state. ([off/on])/Toggle auto-transport.]
+15954: Only party members present with you in this area will be transported to [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+15955: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
+15956: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+15957: You have chosen not to [apply to/enter] [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+15958: The hands of darkness have impeded your progress into the next area.
+15959: You feel repelled by a competing presence. Please wait a moment and try again.
+15960: This area is fully occupied. You are unable to enter.
+15961: Unknown anomalies have prevented you from proceeding.
+15962: Please wait. Your request for entry is being considered...
+15963: The order has been given by your party leader to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+15964: Your party does not meet the minimum required number of $0 member[/s].
+15965: Unable to occupy the instance. Not all of your party members meet the prerequisites for this objective.
+15966: Unable to occupy the instance. One or more of your party members is currently on board a ship.
+15967: Unable to occupy the instance. One or more of your party members is currently in a Mog House.
+15968: The area is currently full. Please try again later.
+15969: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
+15970: Treasure chest bonuses are now active!
+15971: There appears to be a tear in the fabric of space... Enter by :: on //.
+15972: You have applied to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+15973: Please wait in $8 while the battlefield is being prepared. Your registration number for entering this nightmare is $3.
+15974: The battle commences! Enter via the enigmatic footprints #1 by :: on //$1.
+15975: You are unable to proceed because one of your party members is applying to participate.
+15976: Applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]. You will be unable to participate if you add any more party members. Are you sure?
+15977: The number of party members has increased since your application. You must have a party of $0 or fewer player[/s].
+15978: The instance is currently being set up.
+15979: You are currently number $3 in line to be drawn into this nightmare.
+15980: You are currently number $3 in line, with $2 in front of you.
+15981: Prepare yourselves! The battlefield is almost ready!
+15982: You are currently applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+15983: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
+15984: Your application has been cancelled.
+15985: You must wait a few minutes before reapplying for entry.
+15986: Your application has been cancelled.
+15987: You are unable to escape this nightmare because the instance has been set up.
+15988: Nightmare number $0 has been unleashed!
+15989: Nightmare number $0 has vanished!
+15990: You are unable to apply at this time.
+15991: Auto-transport has been [disabled/enabled].
+15992: Enter via the enigmatic footprints #1 by :: on // once your party members are ready.$1
+15993: The automatic teleportation function has been temporarily disabled.
+15994: Your $3 fills with sand.
+15995: Usage of $3 sand has been [disabled/enabled].
+15996: You $3 has $1 seconds (Earth time) stored inside.
+15997: Enter by :: on //.
+15998: Next opening time for [D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno] (Earth time): // ::. *Delays may occur.
+15999: Enter [D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno] by // :: (Earth time). Content may terminate early based on progression status.
+16000: You cannot enter because you aare applying to enter [D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno].
+16001: [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] is currently on wave $1, [Corporal Tombstone/Lithicthrower Image/Incarnation Icon/Impish Statue] #$2.
+16002: Between 3 and 18 people may enter. The party leader must apply to enter.
+16003: At least 60 minutes must have passed since your previous entry for you to enter again. This applies to all Dynamis - Divergence areas.
+16004: Your $3 stores time inside of it, enabling you to decrease the amount of time needed until you can enter once more.
+16005: The time limit is $11 minutes, although this can be extended by completing certain objectives.
+16006: You will be forceably removed once time expires.
+16007: Enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared)? [No thanks./Enter. (CL: $1)/Check area status./About sharing.]
+16008: Shared is a status where solo adventurers all join the same instance.
+16009: Players can enter once per day (Earth time), and this applies to all Dynamis - Divergence shared areas.
+16010: This does not apply to non-shared Dynamis - Divergence instances.
+16011: Shared [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] instaces are open for two hours starting at : (JST) and have a time limit of $11 minutes. Unlike non-shared instances, this time cannot be extended.
+16012: If the instance is late to open, the time limit will be extended by a similar amount.
+16013: The instane will close when the time limit is reached or the Wave 2 boss monster is defeated.
+16014: You can check wave and monster status from the Check Area Status dialog selection.
+16015: Failed to retrieve information.
+16016: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared). Proceed?
+16017: You have chosen not to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
+16018: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
+16019: Unable to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
+16020: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Testing./Jump./Close dialogue.]
+16021: Max. applications: $0. Number of applicants: $1. Current processing number: $2. Number of retries: $3.
+16022: STEP:$0 Max. waiting number: $1.
+16023: -============- Application ID -============-
+16024: $0 / $1 / $2 / $3
+16025: Applicant UID: $0 / %0 Application time limit: :: on //. ($1) Ticket: $2.
+16026: Parameter A1: $0. Parameter A2: $1. Parameter B: $2.
+16027: idx:$0 / no:$1 / uid:$2 / param2:$3
+16028: use:[X/O] / ready:[X/O] / delete:[X/O] / time:$3
+16029: Designate a value between $0 and $1.
+16030: DEBUG: Handling number $0.
+16031: DEBUG: Applicant alive.
+16032: DEBUG: Applicant not present.
+16033: DEBUG: Cancel.
+16034: DEBUG: Instance active.
+16035: DEBUG: Tickets issued.
+16036: DEBUG: Failed to create instance.($1)
+16037: DEBUG: Skip.
+16038: DEBUG:ID=$0 / SLOT=$1 / SUB=$2
+16039: DEBUG:$3C$3$4[$P106$P10,$6(PI)
+16040: DEBUG:$3`$3P$3b$3g$f$P13>$8$P14s SUBSLOT=$0 / ID(Result)=$1
+16041: DEBUG: Error $0.
+16042: [$P11O/$31]L$J$P15z$30$T // ::
+16043: DEBUG:m::n
+16044: Happy Happy New Year!
+16045: Chacharoon wishing you very best in New Year the Qiqirn way--by giving you things for $5 jingly!
+16046: What do? ($4 gil.) [# [/(Done for today)]@$1 [/(Done for today)]@@/About those pouches.../Maybe later.]
+16047: @Buy $6 for $5 gil? [Yes./No.]
+16048: Ooooh, $6! What is inside? Maybe you get something special!
+16049: Not enough jingly? Then you go out, get more jingly, and bring back. Deal?
+16050: In homeland, people put jingly in pouches and give to other people they like!
+16051: You give me jingly, I put in pouch. Then I give you pouch for you to give to friends. Okay?
+16052: But you cannot open pouch yourself. Only friend can. Must be Mysterious Moogle Magic.
+16053: Pouch with jingly! Can use to see how much is inside!
+16054: Here you go!
+16055: Oooh, listen to the happy sound of jingly! But is too much jingly for one pouch. Only up to $0 jingly.
+16056: Squeak squeak! (It looks pretty hungry.)
+16057: Squeak!!! (It doesn't seem to want that.)
+16058: Squeak... (It appears to want more.)
+16059: Squeeeak! (It looks elated!)
+16060: Here you can play the game Mandragora Mania.
+16061: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
+16062: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
+16063: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
+16064: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
+16065: You may pay $& gil to reset all rewards, enabling you to purchase them again.
+16066: Reset rewards? ($' gil). [Yes ($& gil)./No.]
+16067: You do not have enough gil.
+16068: All rewards have been reset.
+16069: You have already purchased the $2.
+16070: You need at least $3 jingly to purchase the $2.
+16071: The reward exchange period has turned over and all rewards have been reset.
+16072: You may reset all rewards from the appropriate dialogue box.
+16073: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
+16074: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
+16075: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
+16076: Starting player set to [Random/You/Opponent].
+16077: Read the manual? [Sure./No thanks.]
+16078: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
+16079: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
+16080: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
+16081: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
+16082: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
+16083: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
+16084: You must choose one area--either yours or a neutral one--to proceed.
+16085: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
+16086: Conversely, your opponent must select either a neutral area or an area that belongs to them.
+16087: From the right, those areas are numbered 6, 4, 7, 2, and 8.
+16088: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
+16089: Note that the mandragoras will move from the back first--last in, first out.
+16090: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
+16091: You will enter your opponent's territory whenever you go past the goal.
+16092: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
+16093: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
+16094: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
+16095: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
+16096: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
+16097: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
+16098: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
+16099: Standard mandragoras: 1 jingly (both players).
+16100: The game is over when either you or your opponent no longer has any mandragoras that can move.
+16101: The player who has the most jingly at that point will be declared the winner.
+16102: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
+16103: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
+16104: You have selected Area $0.
+16105: You receive $0 jingly for a total of $1.
+16106: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
+16107: Your opponent has selected Area $0.
+16108: Your opponent receives $0 jingly for a total of $1.
+16109: Game Complete!
+16110: [Victory!/Defeat!/Draw!] ($0 - $1)
+16111: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
+16112: That area has no mandragora to move.
+16113: You will forfeit all jingly earned this game if you give up. Are you sure?
+16114: Really give up? [Yes./No.]
+16115: You receive $0 jingly for a total of $1.
+16116: You have reached the jingly cap of $0. Any additional jingly will be lost.
+16117: An error has occurred. Please try again.
+16118: DEBUG ( [OFF/ON]
+16119: RANDOMF0-$0 ( $1
+16120: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
+16121: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
+16122: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
+16123: 
+16124: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
+16125: NPC Selection ( Area $0
+16126: DEBUGFNPC Selection Controls ( [OFF/ON]
+16127: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
+16128: Ungh... It's like every bone in this tired old body is aching...
+16129: And where did all these bruises and scrapes come from anyway?
+16130: Am I sick? Or maybe it's some kind of ancient curse? Wait, I bet I'm being targeted by an evil assassin!
+16131: I know I said something like "If you don't need me, then I'll go help someone else!" Is that why that greenhorn adventurer's so mad at me?
+16132: Oh, hey there, young'un. Is that a look of concern on your face I see?
+16133: Are you worried about Maat? [Yes, actually./No, not really.]
+16134: I had a feeling you'd understand my current plight. Yes, you're wise beyond your years.
+16135: It's okay, there's no need to be shy. You can be honest with me.
+16136: At any rate, I'm glad you're here. I could really use your help with something.
+16137: You see, this rather flashy young lady came by recently with a Goblin in tow...
+16138: She was talking about putting on a new show with some Goblins and that she needed to get stronger.
+16139: The price was most definitely right, and she was eager enough. Indeed, she would've made a fabulous student, but that outfit of hers...
+16140: All that fabric fluttering about was quite distracting. I simply suggested she go change, but she immediately replied "What's wrong with this outfit!? What else should an idol wear!?"
+16141: The heart of a young maiden is a strange thing indeed. Even after all these years, I have yet to understand its many mysteries.
+16142: Hm? Actually, now that I think about it... That was when I started feeling under the weather too.
+16143: Well, I can't say for sure that there is a connection. Anyway, the favor I want to ask you concerns this young lady, you see.
+16144: I need you to find her and return this basket for me. She forgot it in all of the hoopla.
+16145: You should first pay a visit to the junk dealer known as Muckvix in Lower Jeuno. He might know where to find her.
+16146: The Goblin that brought her here was from there, after all. I appreciate your help with this matter.
+16147: Please find the girl that came here to train and give her back this $3 for me.
+16148: You should speak with Muckvix the junk dealer in Lower Jeuno. He might know something that can help you.
+16149: I want you to find the young lady that came to train with me and return her $3.
+16150: Ungh... If these old bones weren't aching so much, I'd go find her myself...
+16151: So, you gave that $3 back to the young lady? That's a relief.
+16152: Still, ungh... I'm not feeling any better. I tell ya, it's no fun getting old.
+16153: Ungh... It's all rather hazy, but I guess I caused some sort of trouble?
+16154: I'm glad you're able to remember that much, at least.
+16155: Whenever you close your eyes and drift off to sleep, a strange power overtakes you each night. The two of us do what we can to keep it in check...
+16156: Wait just a moment!
+16157: You can't just start saying your lines before I even get here!
+16158: Okay, <Player>! Show Maat the pillow! It's the proof we need!
+16159: Okay, shadow that terrorizes the Batallia Downs each and every night!
+16160: It is time to reveal your true identity! Ullegore!
+16161: Uh-oh!
+16162: Haha! It's okay, I'll handle this!
+16163: Um, miss? This isn't an actual show, you see. We're still holding auditions.
+16164: You're what!? Are you serious!?
+16165: Heh heh... Maat here said he wanted to be a part of the Goblin festival too.
+16166: I guess his performance in the audition was a little too...passionate. We're sorry for all the fuss.
+16167: You can say that again! The Festival of Brave Souls was canceled because of you!
+16168: I don't think you understand just how serious this is!
+16169: Ungh... I don't remember any of that...
+16170: Somehow, I found myself covered in various scrapes and bruises. Maybe that's how I lost my memories?
+16171: Ah!
+16172: Seriously!? You were beaten so badly you lost your memory!?
+16173: Hmph! What kind of person would beat up on an old man like that!?
+16174: Um...
+16175: No, it was all my fault. At least those people I scared can rest easily now.
+16176: Well, I suppose you're right. I hear the Goblins have resumed preparations for their festival as well.
+16177: If you're interested in the festival, miss, you should go speak with the Goblins.
+16178: I'd hurry up before they change their minds.
+16179: Oh, yes, of course! I'll go at once!
+16180: Now then... You there. You look familiar.
+16181: I'm Shami. We've conducted some business together in the past.
+16182: My name is Shami. I trade in rather unusual items back in Port Jeuno with adventurers much like yourself.
+16183: That there is Shemo. We're kind of like what you'd call brothers.
+16184: We both know you quite well. You've made quite the reputation for yourself around here.
+16185: Anyway, in regards to Maat... Everything we told that girl was made up.
+16186: She'd probably feel bad if she knew the truth.
+16187: You see, it was the $1 she made Maat eat that caused that to happen to him.
+16188: Maat probably mentioned something about her paying him handsomely to help train her, yes?
+16189: That's the problem, you see. Her "payment" to him was a boiled egg. In fact, I believe it's one you're quite familiar with.
+16190: You mean... [The World Eater Egg!?/The $3!?/An initial egg!?]
+16191: I'm afraid so!
+16192: Nope, guess again!
+16193: Wow, you're really gonna make me spell it out for you, aren't ya!?
+16194: Anyway...
+16195: Fortunately, the World Eater Egg he ate had deteriorated rather significantly. As such, it probably could've been much, much worse for him.
+16196: You see, while he was awake, he was able to somehow contain the power that radiated from within him.
+16197: But whenever he fell asleep, he transformed into that monster, which you saw for yourself.
+16198: Heh heh heh. Although, thanks to your battle against him, the power of the egg seems to have diminished even further, for now at least.
+16199: You can leave the matter to us. We'll see that the rest of the egg's power is absorbed and sealed away properly.
+16200: The mysterious shadow that's been haunting this place each night shouldn't be a problem any longer.
+16201: Here, this is for your troubles. I have a feeling you'll be needing it before this is all over.
+16202: I've got something from Shami and Shemo that they wanted me to give to you. Here you go.
+16203: After talking to Shami and Shemo, I feel like a great weight has been lifted from these tired shoulders.
+16204: I heard they possess some rather mysterious abilities, but I'm sure glad they were here to help. Heh heh heh.

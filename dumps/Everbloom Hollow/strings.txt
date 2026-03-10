@@ -1,5 +1,5 @@
 # Strings for Everbloom Hollow
-# Total: 7442 strings
+# Total: 7443 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7166,95 +7166,95 @@
  7162: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7163: You receive $0 bayld!
  7164: Your chocobo refuses to partake of the $0.
- 7165: You have $0 [minute/minutes] (Earth time) to complete your objectives.
- 7166: Time remaining: $0 [minute/minutes] (Earth time).
- 7167: Time remaining: $0 [second/seconds] (Earth time).
- 7168: All party members have fallen in battle. Exiting in $0 [minute/minutes].
- 7169: The operation has failed.
- 7170: The enemy is upon us! Take cover!
- 7171: Tallying conquest results...
- 7172: Conquest results tallied.
- 7173: This region is currently under San d'Orian control.
- 7174: This region is currently under Bastokan control.
- 7175: This region is currently under Windurstian control.
- 7176: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7177: This region is currently neutral.
- 7178: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7179: All three nations are tied for first place.
- 7180: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7181: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7182: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7183: All three nations are tied for first place.
- 7184: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7185: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7186: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7187: All three nations are tied for first place.
- 7188: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7189: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7190: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7191: All three nations are tied for first place.
- 7192: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7193: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7194: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7195: Global balance of power: All three nations are tied for first place.
- 7196: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7197: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7198: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7199: All three nations are tied for first place.
- 7200: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7201: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7202: Conquest update: This region is currently neutral.
- 7203: Conquest update: This region is currently under San d'Orian control.
- 7204: Conquest update: This region is currently under Bastokan control.
- 7205: Conquest update: This region is currently under Windurstian control.
- 7206: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7207: All three nations are at a deadlock.
- 7208: The beastmen are on the rise.
- 7209: Regional influence: San d'Oria - Dominant
- 7210: Regional influence: San d'Oria - Major
- 7211: Regional influence: San d'Oria - Minor
- 7212: Regional influence: San d'Oria - Minimal
- 7213: Bastok - Dominant
- 7214: Bastok - Major
- 7215: Bastok - Minor
- 7216: Bastok - Minimal
- 7217: Windurst - Dominant
- 7218: Windurst - Major
- 7219: Windurst - Minor
- 7220: Windurst - Minimal
- 7221: Bastok and Windurst have formed an alliance.
- 7222: San d'Oria and Windurst have formed an alliance.
- 7223: San d'Oria and Bastok have formed an alliance.
- 7224: Bastok and Windurst are currently allies.
- 7225: San d'Oria and Windurst are currently allies.
- 7226: San d'Oria and Bastok are currently allies.
- 7227: $10$P11.$17F$0 $P14;$P12hF$1
- 7228: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7229: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7230: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7231: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7232: The beastmen are gaining power.
- 7233: San d'Oria's regional control is now 10% closer to the first place country's!
- 7234: Bastok's regional control is now 10% closer to the first place country's!
- 7235: Windurst's regional control are now 10% closer to the first place country's!
- 7236: San d'Oria's region points have increased!
- 7237: Bastok's region points have increased!
- 7238: Windurst's region points have increased!
- 7239: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7240: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7241: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7242: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7243: A Bastokan Expeditionary Force has been dispatched to this area.
- 7244: A Windurstian Expeditionary Force has been dispatched to this area.
- 7245: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7246: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7247: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7248: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7249: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7250: There was a curse on the beastmen's banner!
- 7251: The curse of the beastmen's banner has been lifted!
- 7252: There is a beastmen's banner.
- 7253: @
+ 7165: Your wing skill improved to $0!
+ 7166: You have $0 [minute/minutes] (Earth time) to complete your objectives.
+ 7167: Time remaining: $0 [minute/minutes] (Earth time).
+ 7168: Time remaining: $0 [second/seconds] (Earth time).
+ 7169: All party members have fallen in battle. Exiting in $0 [minute/minutes].
+ 7170: The operation has failed.
+ 7171: The enemy is upon us! Take cover!
+ 7172: Tallying conquest results...
+ 7173: Conquest results tallied.
+ 7174: This region is currently under San d'Orian control.
+ 7175: This region is currently under Bastokan control.
+ 7176: This region is currently under Windurstian control.
+ 7177: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7178: This region is currently neutral.
+ 7179: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7180: All three nations are tied for first place.
+ 7181: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7182: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7183: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7184: All three nations are tied for first place.
+ 7185: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7186: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7187: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7188: All three nations are tied for first place.
+ 7189: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7190: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7191: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7192: All three nations are tied for first place.
+ 7193: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7194: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7195: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7196: Global balance of power: All three nations are tied for first place.
+ 7197: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7198: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7199: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7200: All three nations are tied for first place.
+ 7201: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7202: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7203: Conquest update: This region is currently neutral.
+ 7204: Conquest update: This region is currently under San d'Orian control.
+ 7205: Conquest update: This region is currently under Bastokan control.
+ 7206: Conquest update: This region is currently under Windurstian control.
+ 7207: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7208: All three nations are at a deadlock.
+ 7209: The beastmen are on the rise.
+ 7210: Regional influence: San d'Oria - Dominant
+ 7211: Regional influence: San d'Oria - Major
+ 7212: Regional influence: San d'Oria - Minor
+ 7213: Regional influence: San d'Oria - Minimal
+ 7214: Bastok - Dominant
+ 7215: Bastok - Major
+ 7216: Bastok - Minor
+ 7217: Bastok - Minimal
+ 7218: Windurst - Dominant
+ 7219: Windurst - Major
+ 7220: Windurst - Minor
+ 7221: Windurst - Minimal
+ 7222: Bastok and Windurst have formed an alliance.
+ 7223: San d'Oria and Windurst have formed an alliance.
+ 7224: San d'Oria and Bastok have formed an alliance.
+ 7225: Bastok and Windurst are currently allies.
+ 7226: San d'Oria and Windurst are currently allies.
+ 7227: San d'Oria and Bastok are currently allies.
+ 7228: $10$P11.$17F$0 $P14;$P12hF$1
+ 7229: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7230: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7231: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7232: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7233: The beastmen are gaining power.
+ 7234: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7235: Bastok's regional control is now 10% closer to the first place country's!
+ 7236: Windurst's regional control are now 10% closer to the first place country's!
+ 7237: San d'Oria's region points have increased!
+ 7238: Bastok's region points have increased!
+ 7239: Windurst's region points have increased!
+ 7240: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7241: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7242: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7243: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7244: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7245: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7246: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7247: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7248: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7249: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7250: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7251: There was a curse on the beastmen's banner!
+ 7252: The curse of the beastmen's banner has been lifted!
+ 7253: There is a beastmen's banner.
  7254: @
  7255: @
  7256: @
@@ -7329,117 +7329,118 @@
  7325: @
  7326: @
  7327: @
- 7328: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7329: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7330: Leave the area? [Yes./No.]
- 7331: The soldier seems unfocused...
- 7332: The soldier has begun training harder!
- 7333: The soldier is fighting with vigor!
- 7334: The soldier seems better conditioned! The training session was a success!
- 7335: This training session has ended in failure...
- 7336: Operation complete.
- 7337: Unable to complete operation.
- 7338: Current war results.
- 7339: Soldiers: $0.
- 7340: Enlistees: $1.
- 7341: Officers: $2.
- 7342: So many wounded... May the Goddess help us all!
- 7343: Give the physician orders. [Commence healing, stat!/Specify healing methods./Offer moral support./Rest and recover./Issue no orders.]
- 7344: Prescribe what type of treatment? [Cures and physical healing./Status ailment recovery.]
- 7345: Understood!
- 7346: Prioritizing physical healing of traumatic injuries!
- 7347: Prioritizing rehabilitation of status ailments!
- 7348: Very well, I will rest. But only for a short while. There is much still to be done.
- 7349: I am ready to continue the Goddess's work!
- 7350: I am not exhausted quite yet.
- 7351: You are an inspiration. I shall not fail in my task!
- 7352: I fear there is nothing more that I can do...
- 7353: S-such grueling work... Goddess, hear me! Grant me the strength to go on!
- 7354: I shall not rest while there is yet another soul I might save!
- 7355: Forgive me! I simply can't go on like this!
- 7356: Just a moment, please, I beg you!
- 7357: Owww! Is there no end to the pain!?
- 7358: Oh Goddess, please, not again... It huuuurts...
- 7359: I can't take it anymore! Make it stooop!
- 7360: P-please... Is there a d-doctor...in th-the...
- 7361: <Groan>... <Moan>...
- 7362: P-p-poisoned... C-c-can't b-b-breathe...
- 7363: You must help me! I can't move my arms or legs!
- 7364: I owe you my life. Many thanks!
- 7365: Steel yourselves, beastman scum!
- 7366: Eyes front!
- 7367: Come, foul pigmen! I shall make you rue the day you crossed swords with Rongelouts N Distaud!
- 7368: C-confound it... I mustn't fall yet... The Kingdom needs me...
- 7369: Stay sharp, maggots!
- 7370: Hold your positions, maggots! We have supplies!
- 7371: Come now, don't be shy! Zazarg here is gonna personally discipline each and every one of you!
- 7372: Gahahahaha!
- 7373: Gahahahaha! Make a meal of this!
- 7374: Ugh... These guys know how to play rough...
- 7375: Gahaha, looks like the main course has finally arrived!
- 7376: Soldiers can't fight on an empty stomach! Here ya go!
- 7377: Keep your guarrrds up, Cobras!
- 7378: Feel the Cobra's wrrrath!
- 7379: Is that all you got!? Come on, hit me!
- 7380: D-damn it... I'm all out of lives... Take carrre of the rest...will you?
- 7381: So the big boss finally rears his ugly head! Time to barrre our fangs in earnest, Cobras!
- 7382: Herrre's a little something from me. Use it wisely!
- 7383: You fight well. You defeat my underlings. But now you fight me!
- 7384: You are on way to destruction!
- 7385: Gwajboj show you how true soldier fight!
- 7386: Ugh... I am finished... L-long live the Beastman Confederate!
- 7387: You obtain $0!
- 7388: Rongelouts has fallen.
- 7389: Zazarg has fallen.
- 7390: Romaa Mihgo has fallen.
- 7391: Operation failed.
- 7392: N-no, wait! It's me, Volker! We're on the same side!
- 7393: Stop this, I beg you! I have no desire to harm you!
- 7394: What is this madness that has seized you?
- 7395: It would appear I have no choice in this. Please forgive me.
- 7396: What do you think you're doing, turning on a comrade? Are you out of your mind?
- 7397: This is insane. What will it take to make you come to your senses?
- 7398: Use $0? [Yes./No.]
- 7399: A [red/green/blue] fuse extends from here. Attach $1 to it?
- 7400: Attach to the fuse? [Yes./No.]
- 7401: $1 is attached to the [red/green/blue] fuse.
- 7402: A [red/green/blue] fuse extends from what appears to be an ignition switch. There is no response.
- 7403: A [red/green/blue] fuse extends from what appears to be an ignition switch. Will you press the switch?
- 7404: Press the switch? [Yes./No.]
- 7405: A thunderous explosion sounds in the distance.
- 7406: The ignition switch for the [red/green/blue] fuse has already been activated.
- 7407: An extremely sturdy wall of rock blocks your path...
- 7408: Ack! Just when it seemed nothing would stop us! Even a dozen $0 detonated in unison wouldn't so much as leave a soot stain on the surface. Barely cause a scratch.
- 7409: But, hrmmm? What have we here? Looks to be some kind of contraption for housing...$0?
- 7410: Ah! A memory returns to me! A recollection! Tales of abandoned quarries brimming with Goblin mining technology of ages past! I shan't bother you with the details, though it would make for good telling at a campfire.
- 7411: Hmmm, a fuse extends from the contraption to a place beyond the wall. What would happen, I wonder, if we were to place $0 in it. Set us up a bomb.
- 7412: Could it be that the fuse is connected to yet another detonation switch somewhere over yonder...?
- 7413: You see $1 $0 on the ground.
- 7414: What will you do? [Leave./Take ($0 remaining).]
- 7415: Obtained temporary item: $0!
- 7416: You cannot carry any more $0.
- 7417: You could not obtain the $0.
- 7418: You have run out of $0.
- 7419: You'll rue the day you sided with the turncoat Prien against me. Die like the traitorous scum you are!
- 7420: Not just a traitor, but a coward too? Hah! Cutting you down will be all the sweeter!
- 7421: Heh...heh...heh...so the mor-tal...can...fight... Time to...see...what...this...body...can do...
- 7422: A thousand blades will rend your soul!
- 7423: I'll spill every drop of your traitorous blood!
- 7424: I've no more time to play with cowards. Die and begone from my sight!
- 7425: I'll bury you deep in the bowels of Xarcabard!
- 7426: Silence! Fight me with honor or die like a dog!
- 7427: No...it can't...be... Defeated...by...this...mor-tal...worm...!?
- 7428: The operation has failed.
- 7429: Gahahahaha! Behold the dawning of the new Orcish Empire!
- 7430: Go forth, Fangmonger Stone Legion, and lay waste to those who would defy my will!
- 7431: Noooooo! M-my mighty legion...my ambition...
- 7432: Lesson number twenty-eight... Fear cuts deeper than swords!
- 7433: Guide my blade, Father!
- 7434: Indecisive, am I!? Yaaaaaarrrgh!!!
- 7435: R-Rahal...forgive me...
- 7436: Be not the fool who swims clad in armor, boy!
- 7437: Your habitual tardiness will one day be the death of me, Bostillette!
- 7438: Argh... W-withdraw...and regroup...!
- 7439: Engineer Bostillette reporting for duty!
- 7440: Ready! Aim! Fire!!!
- 7441: F-forgive me, my lords, but I must withdraw...
+ 7328: @
+ 7329: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7330: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7331: Leave the area? [Yes./No.]
+ 7332: The soldier seems unfocused...
+ 7333: The soldier has begun training harder!
+ 7334: The soldier is fighting with vigor!
+ 7335: The soldier seems better conditioned! The training session was a success!
+ 7336: This training session has ended in failure...
+ 7337: Operation complete.
+ 7338: Unable to complete operation.
+ 7339: Current war results.
+ 7340: Soldiers: $0.
+ 7341: Enlistees: $1.
+ 7342: Officers: $2.
+ 7343: So many wounded... May the Goddess help us all!
+ 7344: Give the physician orders. [Commence healing, stat!/Specify healing methods./Offer moral support./Rest and recover./Issue no orders.]
+ 7345: Prescribe what type of treatment? [Cures and physical healing./Status ailment recovery.]
+ 7346: Understood!
+ 7347: Prioritizing physical healing of traumatic injuries!
+ 7348: Prioritizing rehabilitation of status ailments!
+ 7349: Very well, I will rest. But only for a short while. There is much still to be done.
+ 7350: I am ready to continue the Goddess's work!
+ 7351: I am not exhausted quite yet.
+ 7352: You are an inspiration. I shall not fail in my task!
+ 7353: I fear there is nothing more that I can do...
+ 7354: S-such grueling work... Goddess, hear me! Grant me the strength to go on!
+ 7355: I shall not rest while there is yet another soul I might save!
+ 7356: Forgive me! I simply can't go on like this!
+ 7357: Just a moment, please, I beg you!
+ 7358: Owww! Is there no end to the pain!?
+ 7359: Oh Goddess, please, not again... It huuuurts...
+ 7360: I can't take it anymore! Make it stooop!
+ 7361: P-please... Is there a d-doctor...in th-the...
+ 7362: <Groan>... <Moan>...
+ 7363: P-p-poisoned... C-c-can't b-b-breathe...
+ 7364: You must help me! I can't move my arms or legs!
+ 7365: I owe you my life. Many thanks!
+ 7366: Steel yourselves, beastman scum!
+ 7367: Eyes front!
+ 7368: Come, foul pigmen! I shall make you rue the day you crossed swords with Rongelouts N Distaud!
+ 7369: C-confound it... I mustn't fall yet... The Kingdom needs me...
+ 7370: Stay sharp, maggots!
+ 7371: Hold your positions, maggots! We have supplies!
+ 7372: Come now, don't be shy! Zazarg here is gonna personally discipline each and every one of you!
+ 7373: Gahahahaha!
+ 7374: Gahahahaha! Make a meal of this!
+ 7375: Ugh... These guys know how to play rough...
+ 7376: Gahaha, looks like the main course has finally arrived!
+ 7377: Soldiers can't fight on an empty stomach! Here ya go!
+ 7378: Keep your guarrrds up, Cobras!
+ 7379: Feel the Cobra's wrrrath!
+ 7380: Is that all you got!? Come on, hit me!
+ 7381: D-damn it... I'm all out of lives... Take carrre of the rest...will you?
+ 7382: So the big boss finally rears his ugly head! Time to barrre our fangs in earnest, Cobras!
+ 7383: Herrre's a little something from me. Use it wisely!
+ 7384: You fight well. You defeat my underlings. But now you fight me!
+ 7385: You are on way to destruction!
+ 7386: Gwajboj show you how true soldier fight!
+ 7387: Ugh... I am finished... L-long live the Beastman Confederate!
+ 7388: You obtain $0!
+ 7389: Rongelouts has fallen.
+ 7390: Zazarg has fallen.
+ 7391: Romaa Mihgo has fallen.
+ 7392: Operation failed.
+ 7393: N-no, wait! It's me, Volker! We're on the same side!
+ 7394: Stop this, I beg you! I have no desire to harm you!
+ 7395: What is this madness that has seized you?
+ 7396: It would appear I have no choice in this. Please forgive me.
+ 7397: What do you think you're doing, turning on a comrade? Are you out of your mind?
+ 7398: This is insane. What will it take to make you come to your senses?
+ 7399: Use $0? [Yes./No.]
+ 7400: A [red/green/blue] fuse extends from here. Attach $1 to it?
+ 7401: Attach to the fuse? [Yes./No.]
+ 7402: $1 is attached to the [red/green/blue] fuse.
+ 7403: A [red/green/blue] fuse extends from what appears to be an ignition switch. There is no response.
+ 7404: A [red/green/blue] fuse extends from what appears to be an ignition switch. Will you press the switch?
+ 7405: Press the switch? [Yes./No.]
+ 7406: A thunderous explosion sounds in the distance.
+ 7407: The ignition switch for the [red/green/blue] fuse has already been activated.
+ 7408: An extremely sturdy wall of rock blocks your path...
+ 7409: Ack! Just when it seemed nothing would stop us! Even a dozen $0 detonated in unison wouldn't so much as leave a soot stain on the surface. Barely cause a scratch.
+ 7410: But, hrmmm? What have we here? Looks to be some kind of contraption for housing...$0?
+ 7411: Ah! A memory returns to me! A recollection! Tales of abandoned quarries brimming with Goblin mining technology of ages past! I shan't bother you with the details, though it would make for good telling at a campfire.
+ 7412: Hmmm, a fuse extends from the contraption to a place beyond the wall. What would happen, I wonder, if we were to place $0 in it. Set us up a bomb.
+ 7413: Could it be that the fuse is connected to yet another detonation switch somewhere over yonder...?
+ 7414: You see $1 $0 on the ground.
+ 7415: What will you do? [Leave./Take ($0 remaining).]
+ 7416: Obtained temporary item: $0!
+ 7417: You cannot carry any more $0.
+ 7418: You could not obtain the $0.
+ 7419: You have run out of $0.
+ 7420: You'll rue the day you sided with the turncoat Prien against me. Die like the traitorous scum you are!
+ 7421: Not just a traitor, but a coward too? Hah! Cutting you down will be all the sweeter!
+ 7422: Heh...heh...heh...so the mor-tal...can...fight... Time to...see...what...this...body...can do...
+ 7423: A thousand blades will rend your soul!
+ 7424: I'll spill every drop of your traitorous blood!
+ 7425: I've no more time to play with cowards. Die and begone from my sight!
+ 7426: I'll bury you deep in the bowels of Xarcabard!
+ 7427: Silence! Fight me with honor or die like a dog!
+ 7428: No...it can't...be... Defeated...by...this...mor-tal...worm...!?
+ 7429: The operation has failed.
+ 7430: Gahahahaha! Behold the dawning of the new Orcish Empire!
+ 7431: Go forth, Fangmonger Stone Legion, and lay waste to those who would defy my will!
+ 7432: Noooooo! M-my mighty legion...my ambition...
+ 7433: Lesson number twenty-eight... Fear cuts deeper than swords!
+ 7434: Guide my blade, Father!
+ 7435: Indecisive, am I!? Yaaaaaarrrgh!!!
+ 7436: R-Rahal...forgive me...
+ 7437: Be not the fool who swims clad in armor, boy!
+ 7438: Your habitual tardiness will one day be the death of me, Bostillette!
+ 7439: Argh... W-withdraw...and regroup...!
+ 7440: Engineer Bostillette reporting for duty!
+ 7441: Ready! Aim! Fire!!!
+ 7442: F-forgive me, my lords, but I must withdraw...

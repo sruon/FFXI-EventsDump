@@ -21,26 +21,26 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1DB2      |        7602 |
+|       1 | 0x1DB3      |        7603 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1DB3      |        7603 |
+|       3 | 0x1DB4      |        7604 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x1DB4      |        7604 |
+|       5 | 0x1DB5      |        7605 |
 |       6 | 0x0003      |           3 |
-|       7 | 0x1DB5      |        7605 |
+|       7 | 0x1DB6      |        7606 |
 |       8 | 0x0004      |           4 |
-|       9 | 0x1DB6      |        7606 |
+|       9 | 0x1DB7      |        7607 |
 |      10 | 0x0005      |           5 |
-|      11 | 0x1DB7      |        7607 |
+|      11 | 0x1DB8      |        7608 |
 
 ## String References
 
-- **7602**: Pick a prize rank. [Rank 1 (5 digits): $14$13$12$11$10/Rank 2 (4 digits): $18$17$16$15/Rank 3 (3 digits): $21$20$19/Rank 4 (2 digits): $23$22/Rank 5 (1 digits): $24/Do nothing.]
-- **7603**: The rank $0 numbers are $5$4$3$2$1!
+- **7603**: Pick a prize rank. [Rank 1 (5 digits): $14$13$12$11$10/Rank 2 (4 digits): $18$17$16$15/Rank 3 (3 digits): $21$20$19/Rank 4 (2 digits): $23$22/Rank 5 (1 digits): $24/Do nothing.]
 - **7604**: The rank $0 numbers are $5$4$3$2$1!
 - **7605**: The rank $0 numbers are $5$4$3$2$1!
 - **7606**: The rank $0 numbers are $5$4$3$2$1!
-- **7607**: The rank $0 number is $5$4$3$2$1!
+- **7607**: The rank $0 numbers are $5$4$3$2$1!
+- **7608**: The rank $0 number is $5$4$3$2$1!
 
 ## Events
 
@@ -134,7 +134,7 @@
  25: 0x004A [0x06] Work_Zone_1700[16] = 0
  26: 0x004D [0x06] ExtData[1]->WorkLocal[0] = 0
  27: 0x0050 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0153
- 28: 0x0058 [0x24] CREATE_DIALOG(message_id=7602*, default_option=0*, option_flags=0*)
+ 28: 0x0058 [0x24] CREATE_DIALOG(message_id=7603*, default_option=0*, option_flags=0*)
     → "Pick a prize rank. [Rank 1 (5 digits): $14$13$12$11$10/Rank 2 (4 digits): $18$17$16$15/Rank 3 (3 digits): $21$20$19/Rank 4 (2 digits): $23$22/Rank 5 (1 digits): $24/Do nothing.]"
  29: 0x005F [0x25] WAIT_DIALOG_SELECT()
  30: 0x0060 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0099
@@ -147,7 +147,7 @@
  37: 0x0083 [0x03] Work_Zone_1700[4] = Work_Zone[5]
  38: 0x0088 [0x03] Work_Zone_1700[5] = Work_Zone[6]
  39: 0x008D [0x03] Work_Zone_1700[6] = Work_Zone[7]
- 40: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7603*)
+ 40: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
     → "The rank $0 numbers are $5$4$3$2$1!"
  41: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0096 [0x01] GOTO 0x0150
@@ -160,7 +160,7 @@
  49: 0x00B7 [0x03] Work_Zone_1700[8] = Work_Zone[4]
  50: 0x00BC [0x03] Work_Zone_1700[9] = Work_Zone[5]
  51: 0x00C1 [0x03] Work_Zone_1700[10] = Work_Zone[6]
- 52: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
+ 52: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
     → "The rank $0 numbers are $5$4$3$2$1!"
  53: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00CA [0x01] GOTO 0x0150
@@ -172,7 +172,7 @@
  60: 0x00E6 [0x03] Work_Zone_1700[11] = Work_Zone[3]
  61: 0x00EB [0x03] Work_Zone_1700[12] = Work_Zone[4]
  62: 0x00F0 [0x03] Work_Zone_1700[13] = Work_Zone[5]
- 63: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
+ 63: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
     → "The rank $0 numbers are $5$4$3$2$1!"
  64: 0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x00F9 [0x01] GOTO 0x0150
@@ -183,7 +183,7 @@
  70: 0x010D [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0123
  71: 0x0115 [0x03] Work_Zone_1700[14] = Work_Zone[3]
  72: 0x011A [0x03] Work_Zone_1700[15] = Work_Zone[4]
- 73: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
+ 73: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
     → "The rank $0 numbers are $5$4$3$2$1!"
  74: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0123 [0x01] GOTO 0x0150
@@ -193,7 +193,7 @@
  79: 0x0135 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  80: 0x0137 [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x0148
  81: 0x013F [0x03] Work_Zone_1700[16] = Work_Zone[3]
- 82: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+ 82: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
     → "The rank $0 number is $5$4$3$2$1!"
  83: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0148 [0x01] GOTO 0x0150

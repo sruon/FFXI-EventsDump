@@ -41,14 +41,14 @@
 |      13 | 0x00C9      |         201 |
 |      14 | 0x0000      |           0 |
 |      15 | 0x00EB      |         235 |
-|      16 | 0x2176      |        8566 |
-|      17 | 0x2177      |        8567 |
-|      18 | 0x2178      |        8568 |
-|      19 | 0x2179      |        8569 |
-|      20 | 0x217A      |        8570 |
-|      21 | 0x217B      |        8571 |
-|      22 | 0x217C      |        8572 |
-|      23 | 0x217D      |        8573 |
+|      16 | 0x2177      |        8567 |
+|      17 | 0x2178      |        8568 |
+|      18 | 0x2179      |        8569 |
+|      19 | 0x217A      |        8570 |
+|      20 | 0x217B      |        8571 |
+|      21 | 0x217C      |        8572 |
+|      22 | 0x217D      |        8573 |
+|      23 | 0x217E      |        8574 |
 
 ## String References
 
@@ -62,14 +62,14 @@
 - **8019**: I need you to go on an errand for me. Our supply of $6 is running low. Bring us two of them.
 - **8020**: The Zeruhn Mines haven't been yielding much of it lately. You may have better luck in the Gusgen Mines.
 - **8021**: Thank you. Here is your payment. If you find any more, bring them here.
-- **8566**: What? You say Raibaht is searching for the book $3?
-- **8567**: I see he's finally come to his senses. I've been trying to get him to ask Chief Cid to pour more money into the darksteel program.
-- **8568**: Well, knowing Raibaht, he probably had to think and re-think it, but he still hasn't made up his mind. Hopefully, seeing $3 will help to push him in the right direction.
-- **8569**: The problem is, $3 was donated to a library somewhere before I was appointed to this position.
-- **8570**: And on top of that, there's no record of the donation anywhere. I guess I can't complain. That was back in the day when mythril was the material of choice, cermet was getting all the funding, and darksteel...well, darksteel was about as popular as rusty buckets...
-- **8571**: ...and worth about the same, too.
-- **8572**: I will write a letter to the library holding the document. You will need to take this letter and show it to the proprietor of the library.
-- **8573**: Excellent! You've retrieved our copy of $3! Quickly, take it to Raibaht.
+- **8567**: What? You say Raibaht is searching for the book $3?
+- **8568**: I see he's finally come to his senses. I've been trying to get him to ask Chief Cid to pour more money into the darksteel program.
+- **8569**: Well, knowing Raibaht, he probably had to think and re-think it, but he still hasn't made up his mind. Hopefully, seeing $3 will help to push him in the right direction.
+- **8570**: The problem is, $3 was donated to a library somewhere before I was appointed to this position.
+- **8571**: And on top of that, there's no record of the donation anywhere. I guess I can't complain. That was back in the day when mythril was the material of choice, cermet was getting all the funding, and darksteel...well, darksteel was about as popular as rusty buckets...
+- **8572**: ...and worth about the same, too.
+- **8573**: I will write a letter to the library holding the document. You will need to take this letter and show it to the proprietor of the library.
+- **8574**: Excellent! You've retrieved our copy of $3! Quickly, take it to Raibaht.
 
 ## Events
 
@@ -270,29 +270,29 @@
   0: 0x00B1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00B2 [0x03] Work_Zone[9] = 235*
   2: 0x00B7 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8566*)
+  3: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8567*)
     → "What? You say Raibaht is searching for the book $3?"
   4: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00C0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  6: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8567*)
+  6: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8568*)
     → "I see he's finally come to his senses. I've been trying to get him to ask Chief Cid to pour more money into the darksteel program."
   7: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8568*)
+  8: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8569*)
     → "Well, knowing Raibaht, he probably had to think and re-think it, but he still hasn't made up his mind. Hopefully, seeing $3 will help to push him in the right direction."
   9: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00D7 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 11: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8569*)
+ 11: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8570*)
     → "The problem is, $3 was donated to a library somewhere before I was appointed to this position."
  12: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tha1" with entities [EventEntity, EventEntity], work=55*
- 14: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8570*)
+ 14: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8571*)
     → "And on top of that, there's no record of the donation anywhere. I guess I can't complain. That was back in the day when mythril was the material of choice, cermet was getting all the funding, and darksteel...well, darksteel was about as popular as rusty buckets..."
  15: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8571*)
+ 16: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8572*)
     → "...and worth about the same, too."
  17: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00F7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tha2" with entities [EventEntity, EventEntity], work=55*
- 19: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=8572*)
+ 19: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=8573*)
     → "I will write a letter to the library holding the document. You will need to take this letter and show it to the proprietor of the library."
  20: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x010A [0x21] END_EVENT
@@ -321,7 +321,7 @@
 ```
   0: 0x010C [0x03] Work_Zone[9] = 235*
   1: 0x0111 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=8573*)
+  2: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=8574*)
     → "Excellent! You've retrieved our copy of $3! Quickly, take it to Raibaht."
   3: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x011A [0x21] END_EVENT

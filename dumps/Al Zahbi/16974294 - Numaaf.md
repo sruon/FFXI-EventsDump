@@ -21,25 +21,25 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DA4      |        7588 |
+|       0 | 0x1DA5      |        7589 |
 |       1 | 0x40000000  |  1073741824 |
-|       2 | 0x1D92      |        7570 |
+|       2 | 0x1D93      |        7571 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1DA5      |        7589 |
-|       5 | 0x1D93      |        7571 |
+|       4 | 0x1DA6      |        7590 |
+|       5 | 0x1D94      |        7572 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x1DA6      |        7590 |
-|       8 | 0x1D94      |        7572 |
-|       9 | 0x1D95      |        7573 |
+|       7 | 0x1DA7      |        7591 |
+|       8 | 0x1D95      |        7573 |
+|       9 | 0x1D96      |        7574 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x1DA7      |        7591 |
-|      12 | 0x1D96      |        7574 |
+|      11 | 0x1DA8      |        7592 |
+|      12 | 0x1D97      |        7575 |
 |      13 | 0x0003      |           3 |
 |      14 | 0x0007      |           7 |
 |      15 | 0x008C      |         140 |
 |      16 | 0x000F      |          15 |
 |      17 | 0x000A      |          10 |
-|      18 | 0x1DA2      |        7586 |
+|      18 | 0x1DA3      |        7587 |
 |      19 | 0x0010      |          16 |
 |      20 | 0x0004      |           4 |
 |      21 | 0x0005      |           5 |
@@ -51,41 +51,41 @@
 |      27 | 0x000D      |          13 |
 |      28 | 0x000E      |          14 |
 |      29 | 0x0011      |          17 |
-|      30 | 0x1DA3      |        7587 |
-|      31 | 0x1D9B      |        7579 |
-|      32 | 0x1D98      |        7576 |
-|      33 | 0x1D9C      |        7580 |
-|      34 | 0x1DA1      |        7585 |
-|      35 | 0x1DA0      |        7584 |
-|      36 | 0x1D9F      |        7583 |
-|      37 | 0x1D9E      |        7582 |
-|      38 | 0x1D9D      |        7581 |
-|      39 | 0x1D9A      |        7578 |
-|      40 | 0x1D99      |        7577 |
+|      30 | 0x1DA4      |        7588 |
+|      31 | 0x1D9C      |        7580 |
+|      32 | 0x1D99      |        7577 |
+|      33 | 0x1D9D      |        7581 |
+|      34 | 0x1DA2      |        7586 |
+|      35 | 0x1DA1      |        7585 |
+|      36 | 0x1DA0      |        7584 |
+|      37 | 0x1D9F      |        7583 |
+|      38 | 0x1D9E      |        7582 |
+|      39 | 0x1D9B      |        7579 |
+|      40 | 0x1D9A      |        7578 |
 
 ## String References
 
-- **7570**: Welcome to the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild! What are you here for?
-- **7571**: Do you have a request? [Nothing./Synthesis image support./Advanced synthesis image support./Information on synthesis materials.]
-- **7572**: Alright then, close your eyes...
-- **7573**: You have to wait a bit longer before asking for synthesis image support again.
-- **7574**: I require $7 before I can give you advanced image support.
-- **7576**: $0? For that, you'll need...
-- **7577**: You would like to make $0, would you? Well then, you'll need...
-- **7578**: That's it!
-- **7579**: Sorry, but I think you should make something more appropriate for your skill level.
-- **7580**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
-- **7581**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
-- **7582**: $4 x $0 $5 x $0$0 $6 x $0
-- **7583**: $4 x $0 $5 x $0$0
-- **7584**: $4 x $0
-- **7585**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
-- **7586**: Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran.]
-- **7587**: Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]
-- **7588**: This is the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild. Sorry, but I can only lend my support to guild members.
-- **7589**: Do you have a request? [Nothing./Fishing support./Advanced fishing support.]
-- **7590**: Alright then, close your eyes...
-- **7591**: I require $7 before I can give you advanced fishing support.
+- **7571**: Welcome to the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild! What are you here for?
+- **7572**: Do you have a request? [Nothing./Synthesis image support./Advanced synthesis image support./Information on synthesis materials.]
+- **7573**: Alright then, close your eyes...
+- **7574**: You have to wait a bit longer before asking for synthesis image support again.
+- **7575**: I require $7 before I can give you advanced image support.
+- **7577**: $0? For that, you'll need...
+- **7578**: You would like to make $0, would you? Well then, you'll need...
+- **7579**: That's it!
+- **7580**: Sorry, but I think you should make something more appropriate for your skill level.
+- **7581**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
+- **7582**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
+- **7583**: $4 x $0 $5 x $0$0 $6 x $0
+- **7584**: $4 x $0 $5 x $0$0
+- **7585**: $4 x $0
+- **7586**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
+- **7587**: Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran.]
+- **7588**: Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]
+- **7589**: This is the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild. Sorry, but I can only lend my support to guild members.
+- **7590**: Do you have a request? [Nothing./Fishing support./Advanced fishing support.]
+- **7591**: Alright then, close your eyes...
+- **7592**: I require $7 before I can give you advanced fishing support.
 
 ## Events
 
@@ -208,7 +208,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x3E] IF !(Work_Zone[5] bit Work_Zone[8]) GOTO 0x0010
   2: 0x000D [0x01] GOTO 0x001B
-  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
+  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7589*)
     → "This is the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild. Sorry, but I can only lend my support to guild members."
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0014 [0x03] Work_Zone[1] = 1073741824*
@@ -216,11 +216,11 @@
   7: 0x001A [0x00] END_REQSTACK()
 
 SUBROUTINE_001B:
-  8: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7570*)
+  8: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7571*)
     → "Welcome to the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild! What are you here for?"
   9: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x001F [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x003D
- 11: 0x0027 [0x24] CREATE_DIALOG(message_id=7589*, default_option=0*, option_flags=Work_Zone[2])
+ 11: 0x0027 [0x24] CREATE_DIALOG(message_id=7590*, default_option=0*, option_flags=Work_Zone[2])
     → "Do you have a request? [Nothing./Fishing support./Advanced fishing support.]"
  12: 0x002E [0x25] WAIT_DIALOG_SELECT()
  13: 0x002F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003A
@@ -228,7 +228,7 @@ SUBROUTINE_001B:
 
 SUBROUTINE_003A:
  15: 0x003A [0x01] GOTO 0x0050
- 16: 0x003D [0x24] CREATE_DIALOG(message_id=7571*, default_option=0*, option_flags=Work_Zone[2])
+ 16: 0x003D [0x24] CREATE_DIALOG(message_id=7572*, default_option=0*, option_flags=Work_Zone[2])
     → "Do you have a request? [Nothing./Synthesis image support./Advanced synthesis image support./Information on synthesis materials.]"
  17: 0x0044 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0045 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0050
@@ -243,7 +243,7 @@ SUBROUTINE_0050:
 SUBROUTINE_0085:
  24: 0x0085 [0x03] Work_Zone[1] = 1*
  25: 0x008A [0x01] GOTO 0x0094
- 26: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7573*)
+ 26: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
     → "You have to wait a bit longer before asking for synthesis image support again."
  27: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0091 [0x06] Work_Zone[1] = 0
@@ -269,7 +269,7 @@ SUBROUTINE_00FF:
  40: 0x010F [0x01] GOTO 0x00EA
 
 SUBROUTINE_0112:
- 41: 0x0112 [0x24] CREATE_DIALOG(message_id=7586*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 41: 0x0112 [0x24] CREATE_DIALOG(message_id=7587*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran.]"
  42: 0x0119 [0x25] WAIT_DIALOG_SELECT()
  43: 0x011A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012C
@@ -322,7 +322,7 @@ SUBROUTINE_013E:
  86: 0x0239 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=16*, condition_work_offset=1*)
  87: 0x0240 [0x02] IF !(Work_Zone_1700[8] == 0*) GOTO 0x024F
  88: 0x0248 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=17*, condition_work_offset=1*)
- 89: 0x024F [0x24] CREATE_DIALOG(message_id=7587*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 89: 0x024F [0x24] CREATE_DIALOG(message_id=7588*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]"
  90: 0x0256 [0x25] WAIT_DIALOG_SELECT()
  91: 0x0257 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0269
@@ -339,13 +339,13 @@ SUBROUTINE_0281:
 
 SUBROUTINE_029A:
 100: 0x029A [0x02] IF !(Work_Zone[64] == 0*) GOTO 0x02A8
-101: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
+101: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7580*)
     → "Sorry, but I think you should make something more appropriate for your skill level."
 102: 0x02A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x02A6 [0x21] END_EVENT
 104: 0x02A7 [0x00] END_REQSTACK()
 105: 0x02A8 [0x03] Work_Zone[2] = Work_Zone[64]
-106: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7576*)
+106: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
     → "$0? For that, you'll need..."
 107: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x02B1 [0x03] Work_Zone[8] = 7*
@@ -355,11 +355,11 @@ SUBROUTINE_029A:
 112: 0x02C5 [0x03] Work_Zone[6] = Work_Zone[68]
 113: 0x02CA [0x03] Work_Zone[7] = Work_Zone[85]
 114: 0x02CF [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x02DE
-115: 0x02D7 [0x48] [System] [7580*]:
+115: 0x02D7 [0x48] [System] [7581*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
 116: 0x02DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x02DB [0x01] GOTO 0x02E2
-118: 0x02DE [0x48] [System] [7585*]:
+118: 0x02DE [0x48] [System] [7586*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
 119: 0x02E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -373,21 +373,21 @@ SUBROUTINE_02E2:
 126: 0x0300 [0x03] Work_Zone[8] = Work_Zone[79]
 127: 0x0305 [0x03] Work_Zone[9] = Work_Zone[80]
 128: 0x030A [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0319
-129: 0x0312 [0x48] [System] [7584*]:
+129: 0x0312 [0x48] [System] [7585*]:
     → "$4 x $0"
 130: 0x0315 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0316 [0x01] GOTO 0x039F
 132: 0x0319 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0328
-133: 0x0321 [0x48] [System] [7583*]:
+133: 0x0321 [0x48] [System] [7584*]:
     → "$4 x $0 $5 x $0$0"
 134: 0x0324 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x0325 [0x01] GOTO 0x039F
 136: 0x0328 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0337
-137: 0x0330 [0x48] [System] [7582*]:
+137: 0x0330 [0x48] [System] [7583*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 138: 0x0333 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0334 [0x01] GOTO 0x039F
-140: 0x0337 [0x48] [System] [7581*]:
+140: 0x0337 [0x48] [System] [7582*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 141: 0x033A [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x033B [0x03] Work_Zone[2] = Work_Zone[73]
@@ -401,26 +401,26 @@ SUBROUTINE_02E2:
 150: 0x0363 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x036E
 151: 0x036B [0x01] GOTO 0x039F
 152: 0x036E [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x037D
-153: 0x0376 [0x48] [System] [7584*]:
+153: 0x0376 [0x48] [System] [7585*]:
     → "$4 x $0"
 154: 0x0379 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x037A [0x01] GOTO 0x039F
 156: 0x037D [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x038C
-157: 0x0385 [0x48] [System] [7583*]:
+157: 0x0385 [0x48] [System] [7584*]:
     → "$4 x $0 $5 x $0$0"
 158: 0x0388 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0389 [0x01] GOTO 0x039F
 160: 0x038C [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x039B
-161: 0x0394 [0x48] [System] [7582*]:
+161: 0x0394 [0x48] [System] [7583*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 162: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0398 [0x01] GOTO 0x039F
-164: 0x039B [0x48] [System] [7581*]:
+164: 0x039B [0x48] [System] [7582*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 165: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_039F:
-166: 0x039F [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
+166: 0x039F [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
     → "That's it!"
 167: 0x03A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x03A3 [0x01] GOTO 0x04AB
@@ -428,7 +428,7 @@ SUBROUTINE_039F:
 170: 0x03AB [0x8C] CRAFTING_HANDLER(mode=0x00) // Initialize crafting session
 171: 0x03B3 [0x8C] CRAFTING_HANDLER(mode=0x01) // End crafting session
 172: 0x03B5 [0x03] Work_Zone[2] = Work_Zone[64]
-173: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
+173: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
     → "You would like to make $0, would you? Well then, you'll need..."
 174: 0x03BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x03BE [0x03] Work_Zone[3] = Work_Zone[65]
@@ -437,11 +437,11 @@ SUBROUTINE_039F:
 178: 0x03CD [0x03] Work_Zone[6] = Work_Zone[68]
 179: 0x03D2 [0x03] Work_Zone[7] = Work_Zone[85]
 180: 0x03D7 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x03E6
-181: 0x03DF [0x48] [System] [7580*]:
+181: 0x03DF [0x48] [System] [7581*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
 182: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x03E3 [0x01] GOTO 0x03EA
-184: 0x03E6 [0x48] [System] [7585*]:
+184: 0x03E6 [0x48] [System] [7586*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
 185: 0x03E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -455,21 +455,21 @@ SUBROUTINE_03EA:
 192: 0x0408 [0x03] Work_Zone[8] = Work_Zone[79]
 193: 0x040D [0x03] Work_Zone[9] = Work_Zone[80]
 194: 0x0412 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0421
-195: 0x041A [0x48] [System] [7584*]:
+195: 0x041A [0x48] [System] [7585*]:
     → "$4 x $0"
 196: 0x041D [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x041E [0x01] GOTO 0x04A7
 198: 0x0421 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0430
-199: 0x0429 [0x48] [System] [7583*]:
+199: 0x0429 [0x48] [System] [7584*]:
     → "$4 x $0 $5 x $0$0"
 200: 0x042C [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x042D [0x01] GOTO 0x04A7
 202: 0x0430 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x043F
-203: 0x0438 [0x48] [System] [7582*]:
+203: 0x0438 [0x48] [System] [7583*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 204: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x043C [0x01] GOTO 0x04A7
-206: 0x043F [0x48] [System] [7581*]:
+206: 0x043F [0x48] [System] [7582*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 207: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0443 [0x03] Work_Zone[2] = Work_Zone[73]
@@ -483,26 +483,26 @@ SUBROUTINE_03EA:
 216: 0x046B [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0476
 217: 0x0473 [0x01] GOTO 0x04A7
 218: 0x0476 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0485
-219: 0x047E [0x48] [System] [7584*]:
+219: 0x047E [0x48] [System] [7585*]:
     → "$4 x $0"
 220: 0x0481 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x0482 [0x01] GOTO 0x04A7
 222: 0x0485 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0494
-223: 0x048D [0x48] [System] [7583*]:
+223: 0x048D [0x48] [System] [7584*]:
     → "$4 x $0 $5 x $0$0"
 224: 0x0490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x0491 [0x01] GOTO 0x04A7
 226: 0x0494 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x04A3
-227: 0x049C [0x48] [System] [7582*]:
+227: 0x049C [0x48] [System] [7583*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 228: 0x049F [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x04A0 [0x01] GOTO 0x04A7
-230: 0x04A3 [0x48] [System] [7581*]:
+230: 0x04A3 [0x48] [System] [7582*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 231: 0x04A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04A7:
-232: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
+232: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
     → "That's it!"
 233: 0x04AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -554,7 +554,7 @@ SUBROUTINE_04B0:
 
 ```
   0: 0x04B2 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x04B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7572*)
+  1: 0x04B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7573*)
     → "Alright then, close your eyes..."
   2: 0x04BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04BB [0x21] END_EVENT

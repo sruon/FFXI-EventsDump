@@ -27,8 +27,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CCF      |        7375 |
-|       1 | 0x1CCE      |        7374 |
+|       0 | 0x1CD0      |        7376 |
+|       1 | 0x1CCF      |        7375 |
 |       2 | 0x003C      |          60 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
@@ -42,8 +42,8 @@
 
 ## String References
 
-- **7374**: You fill your flask with water.
-- **7375**: Sparkling clear water bubbles up from the ground. If you have a container, you can fill it here.
+- **7375**: You fill your flask with water.
+- **7376**: Sparkling clear water bubbles up from the ground. If you have a container, you can fill it here.
 
 ## Events
 
@@ -88,7 +88,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7375*]:
+  0: 0x0001 [0x48] [System] [7376*]:
     → "Sparkling clear water bubbles up from the ground. If you have a container, you can fill it here."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -115,7 +115,7 @@
 
 ```
   0: 0x0007 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0008 [0x48] [System] [7374*]:
+  1: 0x0008 [0x48] [System] [7375*]:
     → "You fill your flask with water."
   2: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

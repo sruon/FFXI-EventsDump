@@ -199,58 +199,58 @@
 |      14 | 0x1E526     |      124198 |
 |      15 | 0xFFFFEA38  |  4294961720 |
 |      16 | 0x07D4      |        2004 |
-|      17 | 0x1DF2      |        7666 |
-|      18 | 0x1DF3      |        7667 |
-|      19 | 0x1DF7      |        7671 |
-|      20 | 0x1DF8      |        7672 |
-|      21 | 0x1DF9      |        7673 |
-|      22 | 0x1DFA      |        7674 |
-|      23 | 0x1DFB      |        7675 |
-|      24 | 0x1DFC      |        7676 |
-|      25 | 0x1DFD      |        7677 |
-|      26 | 0x1DFE      |        7678 |
-|      27 | 0x1DFF      |        7679 |
-|      28 | 0x1E00      |        7680 |
-|      29 | 0x1E01      |        7681 |
+|      17 | 0x1DF3      |        7667 |
+|      18 | 0x1DF4      |        7668 |
+|      19 | 0x1DF8      |        7672 |
+|      20 | 0x1DF9      |        7673 |
+|      21 | 0x1DFA      |        7674 |
+|      22 | 0x1DFB      |        7675 |
+|      23 | 0x1DFC      |        7676 |
+|      24 | 0x1DFD      |        7677 |
+|      25 | 0x1DFE      |        7678 |
+|      26 | 0x1DFF      |        7679 |
+|      27 | 0x1E00      |        7680 |
+|      28 | 0x1E01      |        7681 |
+|      29 | 0x1E02      |        7682 |
 |      30 | 0x00C9      |         201 |
 |      31 | 0x0000      |           0 |
 |      32 | 0x1998      |        6552 |
-|      33 | 0x1E02      |        7682 |
-|      34 | 0x1E03      |        7683 |
-|      35 | 0x1E04      |        7684 |
-|      36 | 0x1E05      |        7685 |
-|      37 | 0x1E08      |        7688 |
+|      33 | 0x1E03      |        7683 |
+|      34 | 0x1E04      |        7684 |
+|      35 | 0x1E05      |        7685 |
+|      36 | 0x1E06      |        7686 |
+|      37 | 0x1E09      |        7689 |
 |      38 | 0x00C8      |         200 |
-|      39 | 0x1E09      |        7689 |
-|      40 | 0x1E06      |        7686 |
-|      41 | 0x1E07      |        7687 |
-|      42 | 0x1E0A      |        7690 |
-|      43 | 0x1DA0      |        7584 |
-|      44 | 0x1DA1      |        7585 |
-|      45 | 0x1DA2      |        7586 |
-|      46 | 0x1DA8      |        7592 |
-|      47 | 0x1DA9      |        7593 |
-|      48 | 0x1DAA      |        7594 |
-|      49 | 0x1DAB      |        7595 |
-|      50 | 0x1DAC      |        7596 |
-|      51 | 0x1DCE      |        7630 |
-|      52 | 0x1DCF      |        7631 |
-|      53 | 0x1DD0      |        7632 |
-|      54 | 0x1DD1      |        7633 |
-|      55 | 0x1DD2      |        7634 |
-|      56 | 0x2283      |        8835 |
+|      39 | 0x1E0A      |        7690 |
+|      40 | 0x1E07      |        7687 |
+|      41 | 0x1E08      |        7688 |
+|      42 | 0x1E0B      |        7691 |
+|      43 | 0x1DA1      |        7585 |
+|      44 | 0x1DA2      |        7586 |
+|      45 | 0x1DA3      |        7587 |
+|      46 | 0x1DA9      |        7593 |
+|      47 | 0x1DAA      |        7594 |
+|      48 | 0x1DAB      |        7595 |
+|      49 | 0x1DAC      |        7596 |
+|      50 | 0x1DAD      |        7597 |
+|      51 | 0x1DCF      |        7631 |
+|      52 | 0x1DD0      |        7632 |
+|      53 | 0x1DD1      |        7633 |
+|      54 | 0x1DD2      |        7634 |
+|      55 | 0x1DD3      |        7635 |
+|      56 | 0x2284      |        8836 |
 |      57 | 0x000E      |          14 |
-|      58 | 0x2284      |        8836 |
-|      59 | 0x2285      |        8837 |
-|      60 | 0x2286      |        8838 |
-|      61 | 0x2287      |        8839 |
-|      62 | 0x233C      |        9020 |
-|      63 | 0x233D      |        9021 |
-|      64 | 0x233E      |        9022 |
-|      65 | 0x233F      |        9023 |
-|      66 | 0x235E      |        9054 |
-|      67 | 0x235F      |        9055 |
-|      68 | 0x2360      |        9056 |
+|      58 | 0x2285      |        8837 |
+|      59 | 0x2286      |        8838 |
+|      60 | 0x2287      |        8839 |
+|      61 | 0x2288      |        8840 |
+|      62 | 0x233D      |        9021 |
+|      63 | 0x233E      |        9022 |
+|      64 | 0x233F      |        9023 |
+|      65 | 0x2340      |        9024 |
+|      66 | 0x235F      |        9055 |
+|      67 | 0x2360      |        9056 |
+|      68 | 0x2361      |        9057 |
 |      69 | 0xFFFE525D  |  4294857309 |
 |      70 | 0x31A4A     |      203338 |
 |      71 | 0xFFFFCD38  |  4294954296 |
@@ -269,22 +269,22 @@
 |      84 | 0xFFFE7020  |  4294864928 |
 |      85 | 0x311C2     |      201154 |
 |      86 | 0x093A      |        2362 |
-|      87 | 0x24DF      |        9439 |
-|      88 | 0x24E0      |        9440 |
-|      89 | 0x24E1      |        9441 |
-|      90 | 0x24E7      |        9447 |
-|      91 | 0x24EC      |        9452 |
-|      92 | 0x24ED      |        9453 |
-|      93 | 0x24EE      |        9454 |
-|      94 | 0x24F0      |        9456 |
-|      95 | 0x24F1      |        9457 |
+|      87 | 0x24E0      |        9440 |
+|      88 | 0x24E1      |        9441 |
+|      89 | 0x24E2      |        9442 |
+|      90 | 0x24E8      |        9448 |
+|      91 | 0x24ED      |        9453 |
+|      92 | 0x24EE      |        9454 |
+|      93 | 0x24EF      |        9455 |
+|      94 | 0x24F1      |        9457 |
+|      95 | 0x24F2      |        9458 |
 |      96 | 0xFFFE4D7F  |  4294856063 |
 |      97 | 0x315E3     |      202211 |
 |      98 | 0xFFFFCD39  |  4294954297 |
-|      99 | 0x24FF      |        9471 |
-|     100 | 0x2500      |        9472 |
-|     101 | 0x2501      |        9473 |
-|     102 | 0x2502      |        9474 |
+|      99 | 0x2500      |        9472 |
+|     100 | 0x2501      |        9473 |
+|     101 | 0x2502      |        9474 |
+|     102 | 0x2503      |        9475 |
 |     103 | 0xFFFE4FD5  |  4294856661 |
 |     104 | 0x3187F     |      202879 |
 |     105 | 0x0195      |         405 |
@@ -304,13 +304,13 @@
 |     119 | 0xFFFE6E52  |  4294864466 |
 |     120 | 0x30FFA     |      200698 |
 |     121 | 0x02AB      |         683 |
-|     122 | 0x2548      |        9544 |
-|     123 | 0x2549      |        9545 |
-|     124 | 0x254A      |        9546 |
-|     125 | 0x2551      |        9553 |
-|     126 | 0x2552      |        9554 |
-|     127 | 0x2553      |        9555 |
-|     128 | 0x2554      |        9556 |
+|     122 | 0x2549      |        9545 |
+|     123 | 0x254A      |        9546 |
+|     124 | 0x254B      |        9547 |
+|     125 | 0x2552      |        9554 |
+|     126 | 0x2553      |        9555 |
+|     127 | 0x2554      |        9556 |
+|     128 | 0x2555      |        9557 |
 |     129 | 0x0ACF      |        2767 |
 |     130 | 0x00B5      |         181 |
 |     131 | 0x002D      |          45 |
@@ -366,73 +366,73 @@
 ## String References
 
 - **6552**: Obtained $0 gil.
-- **7584**: "...Time flow-ethy ever on and on, but the past is never-ethy gone."
-- **7585**: "The past unceasingly-ethy piles up in toil, The lower layers decomposing-ethy into soil, Which supports-ethy this world's future yon..."
-- **7586**: ...Hmm. Put it into writing-ethy and it comes out like this-ethy.
-- **7592**: "...There are many-ethy a place which now is land, That was in antiquity submerged-ethy under the sea and sand."
-- **7593**: "A prime example of such a place-ethy is the Maze of Shakhrami. You can find-ethy an array of fossilized sea life in the rocks there-ethy..."
-- **7594**: ...Hmm. Now all I have to do-ethy is add an illustration of an ancient shell here-ethy as an example...
-- **7595**: How peculiar-ethy! Why can't I find-ethy my fossil of a Burnite Shell? Where-ethy did it go-ethy?
-- **7596**: Just when I was on a roll-ethy with my writing, too... Oh, damn-ethy, now I've lost-ethy all motivation.
-- **7630**: "Alchemy"... I'd love to see-ethy the face of anyone crazy-hazy enough to still be researching that outdated science-ethy.
-- **7631**: What? You say-ethy Koru-Moru is working on the subject-ethy?
-- **7632**: Well, that's just like-ethy him--chasing after whatever is on his mind-ethy at the time.
-- **7633**: Now that you mention it, I recall-ethy that the professor wrote-ethy a paper on the subject when he was still-ethy a student.
-- **7634**: That imbecile-nibicile hasn't changed one bit-ethy since his school days. He's probably already forgot-ethy that he wrote-ethy that paper.
-- **7666**: Huh? What business-ethy do you have with me-ethy? I'm Yoran-Oran, the former minister-ethy of the Rhinostery.
-- **7667**: Have you been to see-ethy the Rhinostery's biological laboratory in Windurst Waters yet-ethy? Well, you should. It's like-ethy a magical botanical garden!
-- **7671**: Huh? What business-ethy do you have with me-ethy? I'm Yoran-Oran, the former minister-ethy of the Rhinostery.
-- **7672**: Have you been to see-ethy the Rhinostery's biological laboratory in Windurst Waters yet-ethy? Well, you should. It's like-ethy a magical botanical garden!
-- **7673**: My old Rhinostery has come to resemble-ethy a botanical garden that specializes in plants, but it really is meant to be-ethy a biological laboratory.
-- **7674**: Originally it was a biological research center that dealt-ethy with the entire ecosystem of plants and animals. Of course that included-ethy the roles of monsters in the system of things.
-- **7675**: For example, take-ethy that wonderful little bean-being, the mandragora, that's found-ethy out in Sarutabaruta. Before the Great War they didn't exist-ethy in these parts, but their numbers have constantly increased-ethy over the last couple of decades.
-- **7676**: That got me interested-ethy in where they're originally from and how they came to arrive-ethy in Sarutabaruta. So right now I'm thinking-ethy of carrying out a study on them.
-- **7677**: If you come across-ethy any mandragora-related items that might assist me with my research, please bring-ethy them to me. I'll buy-ethy each and every one I can off of you.
-- **7678**: I'm thinking of carrying-ethy out a study on where mandragora originally come-ethy from and how they arrived-ethy in Sarutabaruta.
-- **7679**: If you come across-ethy any mandragora-related items that might assist me with my research, please bring-ethy them to me. I'll buy-ethy each and every one I can off of you.
-- **7680**: That is a most unusual item, but it doesn't help-ethy me with my research. My research is not the collection-ethy of curiosities per se, now.
-- **7681**: This is worthy of further investigation indeed-ethy. If you happen upon-ethy any more items such as this, please be sure to bring-ethy them to me.
-- **7682**: Yes, yes! I was waiting-ethy for something like this. This is definitely not from-ethy Sarutabaruta.
-- **7683**: Hmm...If you come across-ethy any more items such as this, please be sure to bring-ethy them here to me.
-- **7684**: What are these-ethy? This-ethy is amazing-ethy! I never expected-ethy the mandragora in the Outlands would have evolved-ethy like this.
-- **7685**: I'd better look-ethy into this right away. This could lead-ethy to some new discovery!
-- **7686**: That is a rather rare mandragora-related thing, but it doesn't help-ethy me with my research.
-- **7687**: However, they say these can bring-ethy luck, so I'll take it off of your hands. Who knows, it might just help me think-ethy things over a little better.
-- **7688**: You say-ethy that mandragora had-ethy $1, eh? It would be strange-ethy enough-ethy for a Rarab to show interest in such-ethy a thing-ethy, but for a mandragora...!?
-- **7689**: Interesting-ethy! No, intriguing-ethy! I think this could be the beginning-ethy of some remarkable research-ethy!
-- **7690**: If mandragoras drop-ethy something that looks as if it could aid-ethy me in my research, then please be sure to bring-ethy it back here to me.
-- **8835**: ...Yes, I heard-ethy the whole story from one of the young lads from the Rhinostery. Toraimarai Canal may be infested-ethy with starmites, he said.
-- **8836**: That's my Rhinostery! Those young ones took-ethy fastaru and appropriataru action for the situation at hand. Coming to me for help-ethy was the right decision...
-- **8837**: It's a critical situation, but working-ethy under pressure is one of the thrills of research, ha-ha-ha!
-- **8838**: I'm making-ethy progress on my research into starmites, thanks in partaru to the information I had gathered-ethy on mandragoras. You see, all living things are connected.
-- **8839**: You should-ethy remember this from time to time: You are connected-ethy to all other beings in Vana'diel.
-- **9020**: I'm worried-ethy about Miss Apururu. I wish I had time to listen-ethy to her woes, but this thesis I'm writing takes up all my waking hours...
-- **9021**: It concerns the research-ethy I'm doing on the mandragora that you adventurers have been helping-ethy me with. I've reached the point-ethy where I'm almost ready to publish-ethy my findings.
-- **9022**: Let me tell you something I've discovered in my research. It appears that the Mandragora derive nourishment-ethy from $1.
-- **9023**: They also have a great-ethy love for $2, but I have no idea where you might find one.
-- **9054**: I heard-ethy from Apururu that Karaha-Baruha was brought-ethy back to life by the forbidden ritual of the Manustery.
-- **9055**: Zonpa-Zippa had-ethy been in Karaha-Baruha's shadow ever since he was a studentaru. I wonder if he was the one who leaked-ethy the ritual?
-- **9056**: If that's the case, Zonpa-Zippa is guilty of violating-ethy a law. It mightaru be best for him to stay where he is--locked-ethy up in the Boyahda Tree.
-- **9439**: That's it! The Mimeo Mirror! Its memory-viewing powers are perfect-ethy for this situation!
-- **9440**: I'll use the mirror to show-ethy all my memories of Tavnazia! I'll prove-ethy my innocence to the world!
-- **9441**: Now if I can just remember-ethy the person who owned a Mimeo Mirror. I seem to recall-ethy a rather unpleasant personage boasting about his possessions a while back...
-- **9447**: I must-ethy remember before those children return-ethy from the Windurst Waters restaurant...
-- **9452**: Adventurer! You must-ethy go to the Attohwa Chasm and obtain-ethy yourself some Mimeo Jewels!
-- **9453**: Then take-ethy them to the tippity-top of Parradamo Tor to transform-ethy them into Mimeo Feathers! Remember, I need-ethy three of them!
-- **9454**: It will take-ethy all your skills and more to accomplish-ethy this task, but I know you can do it! You must-ethy be able to do it! I need-ethy you to be able to do it!
-- **9456**: Oh, and make sure you find-ethy those three troublemakers before I finish repairing-ethy the mirror!
-- **9457**: I must fix-ethy this mirror! I need to fix-ethy this mirror! I will fix-ethy this mirror!
-- **9471**: All I know-ethy about the Multinational Expedition is that it was the suspicious actions of Bastok that interfered-ethy with the research of the other members.
-- **9472**: But as for the details of what really happened-ethy back then, you should take-ethy your questions to Bastok or San d'Oria.
-- **9473**: Hm? Hm? Hm? Now that you mention-ethy it, I seem to recall-ethy that Karaha-Baruha was only a child when he visited-ethy Tavnazia...
-- **9474**: I remember-ethy fighting with Minister Shantotto over who got to eat the tasty souvenirs he brought-ethy back... But that would mean-ethy...
-- **9544**: I wish you would stop-ethy using my house as a stage for your exhibitions!
-- **9545**: Those three evil children... That nasty Mithran Tracker... Have you ever heard-ethy of trespassing!?
-- **9546**: Now unless you want me to call-ethy the Sibyl Guards, I suggest-ethy you be on your way to Attohwa Chasm!
-- **9553**: What now!? You want to know-ethy where the statue in Tavnazia came from?
-- **9554**: I thought-ethy I already told you. The statue was covered in traces of soil similar to that found-ethy on the bottom of the Sea of Shu'Meyo.
-- **9555**: But wait-ethy just a moment... Now that you mention it, there were also traces of Gustaberg soil mixed-ethy with the samples. I did not think-ethy anything of it at the time...
-- **9556**: Why would-ethy there be two types of soil on the statue...?
+- **7585**: "...Time flow-ethy ever on and on, but the past is never-ethy gone."
+- **7586**: "The past unceasingly-ethy piles up in toil, The lower layers decomposing-ethy into soil, Which supports-ethy this world's future yon..."
+- **7587**: ...Hmm. Put it into writing-ethy and it comes out like this-ethy.
+- **7593**: "...There are many-ethy a place which now is land, That was in antiquity submerged-ethy under the sea and sand."
+- **7594**: "A prime example of such a place-ethy is the Maze of Shakhrami. You can find-ethy an array of fossilized sea life in the rocks there-ethy..."
+- **7595**: ...Hmm. Now all I have to do-ethy is add an illustration of an ancient shell here-ethy as an example...
+- **7596**: How peculiar-ethy! Why can't I find-ethy my fossil of a Burnite Shell? Where-ethy did it go-ethy?
+- **7597**: Just when I was on a roll-ethy with my writing, too... Oh, damn-ethy, now I've lost-ethy all motivation.
+- **7631**: "Alchemy"... I'd love to see-ethy the face of anyone crazy-hazy enough to still be researching that outdated science-ethy.
+- **7632**: What? You say-ethy Koru-Moru is working on the subject-ethy?
+- **7633**: Well, that's just like-ethy him--chasing after whatever is on his mind-ethy at the time.
+- **7634**: Now that you mention it, I recall-ethy that the professor wrote-ethy a paper on the subject when he was still-ethy a student.
+- **7635**: That imbecile-nibicile hasn't changed one bit-ethy since his school days. He's probably already forgot-ethy that he wrote-ethy that paper.
+- **7667**: Huh? What business-ethy do you have with me-ethy? I'm Yoran-Oran, the former minister-ethy of the Rhinostery.
+- **7668**: Have you been to see-ethy the Rhinostery's biological laboratory in Windurst Waters yet-ethy? Well, you should. It's like-ethy a magical botanical garden!
+- **7672**: Huh? What business-ethy do you have with me-ethy? I'm Yoran-Oran, the former minister-ethy of the Rhinostery.
+- **7673**: Have you been to see-ethy the Rhinostery's biological laboratory in Windurst Waters yet-ethy? Well, you should. It's like-ethy a magical botanical garden!
+- **7674**: My old Rhinostery has come to resemble-ethy a botanical garden that specializes in plants, but it really is meant to be-ethy a biological laboratory.
+- **7675**: Originally it was a biological research center that dealt-ethy with the entire ecosystem of plants and animals. Of course that included-ethy the roles of monsters in the system of things.
+- **7676**: For example, take-ethy that wonderful little bean-being, the mandragora, that's found-ethy out in Sarutabaruta. Before the Great War they didn't exist-ethy in these parts, but their numbers have constantly increased-ethy over the last couple of decades.
+- **7677**: That got me interested-ethy in where they're originally from and how they came to arrive-ethy in Sarutabaruta. So right now I'm thinking-ethy of carrying out a study on them.
+- **7678**: If you come across-ethy any mandragora-related items that might assist me with my research, please bring-ethy them to me. I'll buy-ethy each and every one I can off of you.
+- **7679**: I'm thinking of carrying-ethy out a study on where mandragora originally come-ethy from and how they arrived-ethy in Sarutabaruta.
+- **7680**: If you come across-ethy any mandragora-related items that might assist me with my research, please bring-ethy them to me. I'll buy-ethy each and every one I can off of you.
+- **7681**: That is a most unusual item, but it doesn't help-ethy me with my research. My research is not the collection-ethy of curiosities per se, now.
+- **7682**: This is worthy of further investigation indeed-ethy. If you happen upon-ethy any more items such as this, please be sure to bring-ethy them to me.
+- **7683**: Yes, yes! I was waiting-ethy for something like this. This is definitely not from-ethy Sarutabaruta.
+- **7684**: Hmm...If you come across-ethy any more items such as this, please be sure to bring-ethy them here to me.
+- **7685**: What are these-ethy? This-ethy is amazing-ethy! I never expected-ethy the mandragora in the Outlands would have evolved-ethy like this.
+- **7686**: I'd better look-ethy into this right away. This could lead-ethy to some new discovery!
+- **7687**: That is a rather rare mandragora-related thing, but it doesn't help-ethy me with my research.
+- **7688**: However, they say these can bring-ethy luck, so I'll take it off of your hands. Who knows, it might just help me think-ethy things over a little better.
+- **7689**: You say-ethy that mandragora had-ethy $1, eh? It would be strange-ethy enough-ethy for a Rarab to show interest in such-ethy a thing-ethy, but for a mandragora...!?
+- **7690**: Interesting-ethy! No, intriguing-ethy! I think this could be the beginning-ethy of some remarkable research-ethy!
+- **7691**: If mandragoras drop-ethy something that looks as if it could aid-ethy me in my research, then please be sure to bring-ethy it back here to me.
+- **8836**: ...Yes, I heard-ethy the whole story from one of the young lads from the Rhinostery. Toraimarai Canal may be infested-ethy with starmites, he said.
+- **8837**: That's my Rhinostery! Those young ones took-ethy fastaru and appropriataru action for the situation at hand. Coming to me for help-ethy was the right decision...
+- **8838**: It's a critical situation, but working-ethy under pressure is one of the thrills of research, ha-ha-ha!
+- **8839**: I'm making-ethy progress on my research into starmites, thanks in partaru to the information I had gathered-ethy on mandragoras. You see, all living things are connected.
+- **8840**: You should-ethy remember this from time to time: You are connected-ethy to all other beings in Vana'diel.
+- **9021**: I'm worried-ethy about Miss Apururu. I wish I had time to listen-ethy to her woes, but this thesis I'm writing takes up all my waking hours...
+- **9022**: It concerns the research-ethy I'm doing on the mandragora that you adventurers have been helping-ethy me with. I've reached the point-ethy where I'm almost ready to publish-ethy my findings.
+- **9023**: Let me tell you something I've discovered in my research. It appears that the Mandragora derive nourishment-ethy from $1.
+- **9024**: They also have a great-ethy love for $2, but I have no idea where you might find one.
+- **9055**: I heard-ethy from Apururu that Karaha-Baruha was brought-ethy back to life by the forbidden ritual of the Manustery.
+- **9056**: Zonpa-Zippa had-ethy been in Karaha-Baruha's shadow ever since he was a studentaru. I wonder if he was the one who leaked-ethy the ritual?
+- **9057**: If that's the case, Zonpa-Zippa is guilty of violating-ethy a law. It mightaru be best for him to stay where he is--locked-ethy up in the Boyahda Tree.
+- **9440**: That's it! The Mimeo Mirror! Its memory-viewing powers are perfect-ethy for this situation!
+- **9441**: I'll use the mirror to show-ethy all my memories of Tavnazia! I'll prove-ethy my innocence to the world!
+- **9442**: Now if I can just remember-ethy the person who owned a Mimeo Mirror. I seem to recall-ethy a rather unpleasant personage boasting about his possessions a while back...
+- **9448**: I must-ethy remember before those children return-ethy from the Windurst Waters restaurant...
+- **9453**: Adventurer! You must-ethy go to the Attohwa Chasm and obtain-ethy yourself some Mimeo Jewels!
+- **9454**: Then take-ethy them to the tippity-top of Parradamo Tor to transform-ethy them into Mimeo Feathers! Remember, I need-ethy three of them!
+- **9455**: It will take-ethy all your skills and more to accomplish-ethy this task, but I know you can do it! You must-ethy be able to do it! I need-ethy you to be able to do it!
+- **9457**: Oh, and make sure you find-ethy those three troublemakers before I finish repairing-ethy the mirror!
+- **9458**: I must fix-ethy this mirror! I need to fix-ethy this mirror! I will fix-ethy this mirror!
+- **9472**: All I know-ethy about the Multinational Expedition is that it was the suspicious actions of Bastok that interfered-ethy with the research of the other members.
+- **9473**: But as for the details of what really happened-ethy back then, you should take-ethy your questions to Bastok or San d'Oria.
+- **9474**: Hm? Hm? Hm? Now that you mention-ethy it, I seem to recall-ethy that Karaha-Baruha was only a child when he visited-ethy Tavnazia...
+- **9475**: I remember-ethy fighting with Minister Shantotto over who got to eat the tasty souvenirs he brought-ethy back... But that would mean-ethy...
+- **9545**: I wish you would stop-ethy using my house as a stage for your exhibitions!
+- **9546**: Those three evil children... That nasty Mithran Tracker... Have you ever heard-ethy of trespassing!?
+- **9547**: Now unless you want me to call-ethy the Sibyl Guards, I suggest-ethy you be on your way to Attohwa Chasm!
+- **9554**: What now!? You want to know-ethy where the statue in Tavnazia came from?
+- **9555**: I thought-ethy I already told you. The statue was covered in traces of soil similar to that found-ethy on the bottom of the Sea of Shu'Meyo.
+- **9556**: But wait-ethy just a moment... Now that you mention it, there were also traces of Gustaberg soil mixed-ethy with the samples. I did not think-ethy anything of it at the time...
+- **9557**: Why would-ethy there be two types of soil on the statue...?
 
 ## Events
 
@@ -2212,10 +2212,10 @@
   1: 0x0496 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0497 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0498 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  4: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
+  4: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
     → "Huh? What business-ethy do you have with me-ethy? I'm Yoran-Oran, the former minister-ethy of the Rhinostery."
   5: 0x04A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
+  6: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
     → "Have you been to see-ethy the Rhinostery's biological laboratory in Windurst Waters yet-ethy? Well, you should. It's like-ethy a magical botanical garden!"
   7: 0x04A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -2278,10 +2278,10 @@
 
 ```
   0: 0x04D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  1: 0x04E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7671*)
+  1: 0x04E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
     → "Huh? What business-ethy do you have with me-ethy? I'm Yoran-Oran, the former minister-ethy of the Rhinostery."
   2: 0x04E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x04E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
+  3: 0x04E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
     → "Have you been to see-ethy the Rhinostery's biological laboratory in Windurst Waters yet-ethy? Well, you should. It's like-ethy a magical botanical garden!"
   4: 0x04E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x04E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -2307,10 +2307,10 @@
 #### Opcodes
 
 ```
-  0: 0x04F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
+  0: 0x04F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
     → "My old Rhinostery has come to resemble-ethy a botanical garden that specializes in plants, but it really is meant to be-ethy a biological laboratory."
   1: 0x04F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x04F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
+  2: 0x04F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
     → "Originally it was a biological research center that dealt-ethy with the entire ecosystem of plants and animals. Of course that included-ethy the roles of monsters in the system of things."
   3: 0x04F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x04F8 [0x00] END_REQSTACK()
@@ -2337,10 +2337,10 @@
 
 ```
   0: 0x04F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
-  1: 0x0500 [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
+  1: 0x0500 [0x1D] PRINT_EVENT_MESSAGE(message_id=7676*)
     → "For example, take-ethy that wonderful little bean-being, the mandragora, that's found-ethy out in Sarutabaruta. Before the Great War they didn't exist-ethy in these parts, but their numbers have constantly increased-ethy over the last couple of decades."
   2: 0x0503 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0504 [0x1D] PRINT_EVENT_MESSAGE(message_id=7676*)
+  3: 0x0504 [0x1D] PRINT_EVENT_MESSAGE(message_id=7677*)
     → "That got me interested-ethy in where they're originally from and how they came to arrive-ethy in Sarutabaruta. So right now I'm thinking-ethy of carrying out a study on them."
   4: 0x0507 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0508 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x05)
@@ -2366,7 +2366,7 @@
 #### Opcodes
 
 ```
-  0: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7677*)
+  0: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
     → "If you come across-ethy any mandragora-related items that might assist me with my research, please bring-ethy them to me. I'll buy-ethy each and every one I can off of you."
   1: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0514 [0x00] END_REQSTACK()
@@ -2395,10 +2395,10 @@
   0: 0x0515 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x051A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x051B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x051C [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+  3: 0x051C [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "I'm thinking of carrying-ethy out a study on where mandragora originally come-ethy from and how they arrived-ethy in Sarutabaruta."
   4: 0x051F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0520 [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
+  5: 0x0520 [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
     → "If you come across-ethy any mandragora-related items that might assist me with my research, please bring-ethy them to me. I'll buy-ethy each and every one I can off of you."
   6: 0x0523 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0524 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2429,7 +2429,7 @@
   0: 0x0528 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x052D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x052E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
+  3: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
     → "That is a most unusual item, but it doesn't help-ethy me with my research. My research is not the collection-ethy of curiosities per se, now."
   4: 0x0532 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0533 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2465,7 +2465,7 @@
   3: 0x053F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0540 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0541 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
-  6: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
+  6: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=7682*)
     → "This is worthy of further investigation indeed-ethy. If you happen upon-ethy any more items such as this, please be sure to bring-ethy them to me."
   7: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x054C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x05)
@@ -2507,10 +2507,10 @@
   3: 0x0574 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0575 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0576 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  6: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=7682*)
+  6: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=7683*)
     → "Yes, yes! I was waiting-ethy for something like this. This is definitely not from-ethy Sarutabaruta."
   7: 0x0580 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=7683*)
+  8: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=7684*)
     → "Hmm...If you come across-ethy any more items such as this, please be sure to bring-ethy them here to me."
   9: 0x0584 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0585 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -2552,12 +2552,12 @@
   3: 0x05AD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x05AE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x05AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
-  6: 0x05B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7684*)
+  6: 0x05B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7685*)
     → "What are these-ethy? This-ethy is amazing-ethy! I never expected-ethy the mandragora in the Outlands would have evolved-ethy like this."
   7: 0x05B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x05BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x04)
   9: 0x05C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x05)
- 10: 0x05C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7685*)
+ 10: 0x05C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7686*)
     → "I'd better look-ethy into this right away. This could lead-ethy to some new discovery!"
  11: 0x05CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x05CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x06)
@@ -2603,7 +2603,7 @@
   3: 0x05F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x05F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x05F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
-  6: 0x05FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
+  6: 0x05FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
     → "You say-ethy that mandragora had-ethy $1, eh? It would be strange-ethy enough-ethy for a Rarab to show interest in such-ethy a thing-ethy, but for a mandragora...!?"
   7: 0x0600 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0601 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x04)
@@ -2613,7 +2613,7 @@
  12: 0x0623 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x06)
  13: 0x062A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  14: 0x063B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x07)
- 15: 0x0642 [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
+ 15: 0x0642 [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
     → "Interesting-ethy! No, intriguing-ethy! I think this could be the beginning-ethy of some remarkable research-ethy!"
  16: 0x0645 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0646 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x08)
@@ -2654,11 +2654,11 @@
   3: 0x066E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x066F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0670 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  6: 0x0677 [0x1D] PRINT_EVENT_MESSAGE(message_id=7686*)
+  6: 0x0677 [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
     → "That is a rather rare mandragora-related thing, but it doesn't help-ethy me with my research."
   7: 0x067A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x067B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
-  9: 0x0682 [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
+  9: 0x0682 [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
     → "However, they say these can bring-ethy luck, so I'll take it off of your hands. Who knows, it might just help me think-ethy things over a little better."
  10: 0x0685 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0686 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2697,7 +2697,7 @@
   3: 0x06A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x06A8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x06A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  6: 0x06B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
+  6: 0x06B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7691*)
     → "If mandragoras drop-ethy something that looks as if it could aid-ethy me in my research, then please be sure to bring-ethy it back here to me."
   7: 0x06B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x06B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -2729,17 +2729,17 @@
 
 ```
   0: 0x06C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  1: 0x06C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
+  1: 0x06C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7585*)
     → ""...Time flow-ethy ever on and on, but the past is never-ethy gone.""
   2: 0x06CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x06CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7585*)
+  3: 0x06CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7586*)
     → ""The past unceasingly-ethy piles up in toil, The lower layers decomposing-ethy into soil, Which supports-ethy this world's future yon...""
   4: 0x06CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x06CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
   6: 0x06D6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   7: 0x06DB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   8: 0x06DC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  9: 0x06DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7586*)
+  9: 0x06DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7587*)
     → "...Hmm. Put it into writing-ethy and it comes out like this-ethy."
  10: 0x06E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x06E1 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2769,10 +2769,10 @@
 
 ```
   0: 0x06E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
-  1: 0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+  1: 0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
     → ""...There are many-ethy a place which now is land, That was in antiquity submerged-ethy under the sea and sand.""
   2: 0x06EF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x06F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
+  3: 0x06F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → ""A prime example of such a place-ethy is the Maze of Shakhrami. You can find-ethy an array of fossilized sea life in the rocks there-ethy...""
   4: 0x06F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x06F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x04)
@@ -2810,17 +2810,17 @@
   1: 0x0712 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0713 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0714 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  4: 0x071B [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
+  4: 0x071B [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "...Hmm. Now all I have to do-ethy is add an illustration of an ancient shell here-ethy as an example..."
   5: 0x071E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x071F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
   7: 0x0726 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
-  8: 0x072D [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
+  8: 0x072D [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
     → "How peculiar-ethy! Why can't I find-ethy my fossil of a Burnite Shell? Where-ethy did it go-ethy?"
   9: 0x0730 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0731 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x04)
  11: 0x0738 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x05)
- 12: 0x073F [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
+ 12: 0x073F [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
     → "Just when I was on a roll-ethy with my writing, too... Oh, damn-ethy, now I've lost-ethy all motivation."
  13: 0x0742 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0743 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x06)
@@ -2854,10 +2854,10 @@
   1: 0x0753 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0754 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0755 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  4: 0x075C [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
+  4: 0x075C [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
     → "How peculiar-ethy! Why can't I find-ethy my fossil of a Burnite Shell? Where-ethy did it go-ethy?"
   5: 0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
+  6: 0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
     → "Just when I was on a roll-ethy with my writing, too... Oh, damn-ethy, now I've lost-ethy all motivation."
   7: 0x0763 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0764 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -2920,7 +2920,7 @@
 
 ```
   0: 0x078F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  1: 0x0796 [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
+  1: 0x0796 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
     → ""Alchemy"... I'd love to see-ethy the face of anyone crazy-hazy enough to still be researching that outdated science-ethy."
   2: 0x0799 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x079A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -2948,10 +2948,10 @@
 
 ```
   0: 0x07A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  1: 0x07A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
+  1: 0x07A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
     → "What? You say-ethy Koru-Moru is working on the subject-ethy?"
   2: 0x07AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x07AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
+  3: 0x07AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
     → "Well, that's just like-ethy him--chasing after whatever is on his mind-ethy at the time."
   4: 0x07B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x07B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -2979,10 +2979,10 @@
 
 ```
   0: 0x07B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  1: 0x07C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
+  1: 0x07C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7634*)
     → "Now that you mention it, I recall-ethy that the professor wrote-ethy a paper on the subject when he was still-ethy a student."
   2: 0x07C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x07C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7634*)
+  3: 0x07C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7635*)
     → "That imbecile-nibicile hasn't changed one bit-ethy since his school days. He's probably already forgot-ethy that he wrote-ethy that paper."
   4: 0x07C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x07C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -3015,17 +3015,17 @@
   1: 0x07D5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x07D6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x07D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  4: 0x07DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8835*)
+  4: 0x07DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8836*)
     → "...Yes, I heard-ethy the whole story from one of the young lads from the Rhinostery. Toraimarai Canal may be infested-ethy with starmites, he said."
   5: 0x07E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x07E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
   7: 0x07E9 [0x6E] EventEntity uses emote 14*
   8: 0x07F0 [0x99] Wait for EventEntity animation to complete
-  9: 0x07F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8836*)
+  9: 0x07F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8837*)
     → "That's my Rhinostery! Those young ones took-ethy fastaru and appropriataru action for the situation at hand. Coming to me for help-ethy was the right decision..."
  10: 0x07F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x07F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
- 12: 0x0800 [0x1D] PRINT_EVENT_MESSAGE(message_id=8837*)
+ 12: 0x0800 [0x1D] PRINT_EVENT_MESSAGE(message_id=8838*)
     → "It's a critical situation, but working-ethy under pressure is one of the thrills of research, ha-ha-ha!"
  13: 0x0803 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0804 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -3060,13 +3060,13 @@
   1: 0x0814 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0815 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0816 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  4: 0x081D [0x1D] PRINT_EVENT_MESSAGE(message_id=8838*)
+  4: 0x081D [0x1D] PRINT_EVENT_MESSAGE(message_id=8839*)
     → "I'm making-ethy progress on my research into starmites, thanks in partaru to the information I had gathered-ethy on mandragoras. You see, all living things are connected."
   5: 0x0820 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0821 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
   7: 0x0828 [0x6E] EventEntity uses emote 14*
   8: 0x082F [0x99] Wait for EventEntity animation to complete
-  9: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=8839*)
+  9: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=8840*)
     → "You should-ethy remember this from time to time: You are connected-ethy to all other beings in Vana'diel."
  10: 0x0837 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0838 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3102,21 +3102,21 @@
   1: 0x0841 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0842 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0843 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
-  4: 0x084A [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+  4: 0x084A [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I'm worried-ethy about Miss Apururu. I wish I had time to listen-ethy to her woes, but this thesis I'm writing takes up all my waking hours..."
   5: 0x084D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x084E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x04)
   7: 0x0855 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x05)
-  8: 0x085C [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+  8: 0x085C [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "It concerns the research-ethy I'm doing on the mandragora that you adventurers have been helping-ethy me with. I've reached the point-ethy where I'm almost ready to publish-ethy my findings."
   9: 0x085F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0860 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x06)
  11: 0x0867 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
- 12: 0x086E [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
+ 12: 0x086E [0x1D] PRINT_EVENT_MESSAGE(message_id=9023*)
     → "Let me tell you something I've discovered in my research. It appears that the Mandragora derive nourishment-ethy from $1."
  13: 0x0871 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0872 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
- 15: 0x0879 [0x1D] PRINT_EVENT_MESSAGE(message_id=9023*)
+ 15: 0x0879 [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
     → "They also have a great-ethy love for $2, but I have no idea where you might find one."
  16: 0x087C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x087D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3152,17 +3152,17 @@
   2: 0x0887 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0888 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0889 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  5: 0x0890 [0x1D] PRINT_EVENT_MESSAGE(message_id=9054*)
+  5: 0x0890 [0x1D] PRINT_EVENT_MESSAGE(message_id=9055*)
     → "I heard-ethy from Apururu that Karaha-Baruha was brought-ethy back to life by the forbidden ritual of the Manustery."
   6: 0x0893 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0894 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
   8: 0x089B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x04)
-  9: 0x08A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9055*)
+  9: 0x08A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9056*)
     → "Zonpa-Zippa had-ethy been in Karaha-Baruha's shadow ever since he was a studentaru. I wonder if he was the one who leaked-ethy the ritual?"
  10: 0x08A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x08A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
  12: 0x08AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x05)
- 13: 0x08B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9056*)
+ 13: 0x08B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9057*)
     → "If that's the case, Zonpa-Zippa is guilty of violating-ethy a law. It mightaru be best for him to stay where he is--locked-ethy up in the Boyahda Tree."
  14: 0x08B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x08B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x06)
@@ -3399,20 +3399,20 @@
   1: 0x092A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x092B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x092C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x1D)
-  4: 0x0933 [0x1D] PRINT_EVENT_MESSAGE(message_id=9439*)
+  4: 0x0933 [0x1D] PRINT_EVENT_MESSAGE(message_id=9440*)
     → "That's it! The Mimeo Mirror! Its memory-viewing powers are perfect-ethy for this situation!"
   5: 0x0936 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0937 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x1E)
   7: 0x093E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  8: 0x0945 [0x1D] PRINT_EVENT_MESSAGE(message_id=9440*)
+  8: 0x0945 [0x1D] PRINT_EVENT_MESSAGE(message_id=9441*)
     → "I'll use the mirror to show-ethy all my memories of Tavnazia! I'll prove-ethy my innocence to the world!"
   9: 0x0948 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0949 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
  11: 0x0950 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
- 12: 0x0957 [0x1D] PRINT_EVENT_MESSAGE(message_id=9441*)
+ 12: 0x0957 [0x1D] PRINT_EVENT_MESSAGE(message_id=9442*)
     → "Now if I can just remember-ethy the person who owned a Mimeo Mirror. I seem to recall-ethy a rather unpleasant personage boasting about his possessions a while back..."
  13: 0x095A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x095B [0x1D] PRINT_EVENT_MESSAGE(message_id=9447*)
+ 14: 0x095B [0x1D] PRINT_EVENT_MESSAGE(message_id=9448*)
     → "I must-ethy remember before those children return-ethy from the Windurst Waters restaurant..."
  15: 0x095E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x095F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x04)
@@ -3473,15 +3473,15 @@
   1: 0x0984 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0985 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0986 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x1D)
-  4: 0x098D [0x1D] PRINT_EVENT_MESSAGE(message_id=9452*)
+  4: 0x098D [0x1D] PRINT_EVENT_MESSAGE(message_id=9453*)
     → "Adventurer! You must-ethy go to the Attohwa Chasm and obtain-ethy yourself some Mimeo Jewels!"
   5: 0x0990 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0991 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x1E)
   7: 0x0998 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  8: 0x099F [0x1D] PRINT_EVENT_MESSAGE(message_id=9453*)
+  8: 0x099F [0x1D] PRINT_EVENT_MESSAGE(message_id=9454*)
     → "Then take-ethy them to the tippity-top of Parradamo Tor to transform-ethy them into Mimeo Feathers! Remember, I need-ethy three of them!"
   9: 0x09A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x09A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9454*)
+ 10: 0x09A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9455*)
     → "It will take-ethy all your skills and more to accomplish-ethy this task, but I know you can do it! You must-ethy be able to do it! I need-ethy you to be able to do it!"
  11: 0x09A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x09A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
@@ -3539,12 +3539,12 @@
   1: 0x09BE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x09BF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x09C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x1D)
-  4: 0x09C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
+  4: 0x09C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9457*)
     → "Oh, and make sure you find-ethy those three troublemakers before I finish repairing-ethy the mirror!"
   5: 0x09CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x09CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x1E)
   7: 0x09D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x0F)
-  8: 0x09D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9457*)
+  8: 0x09D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9458*)
     → "I must fix-ethy this mirror! I need to fix-ethy this mirror! I will fix-ethy this mirror!"
   9: 0x09DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x09DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x10)
@@ -3631,18 +3631,18 @@
   1: 0x0A03 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A04 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A05 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  4: 0x0A0C [0x1D] PRINT_EVENT_MESSAGE(message_id=9471*)
+  4: 0x0A0C [0x1D] PRINT_EVENT_MESSAGE(message_id=9472*)
     → "All I know-ethy about the Multinational Expedition is that it was the suspicious actions of Bastok that interfered-ethy with the research of the other members."
   5: 0x0A0F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A10 [0x1D] PRINT_EVENT_MESSAGE(message_id=9472*)
+  6: 0x0A10 [0x1D] PRINT_EVENT_MESSAGE(message_id=9473*)
     → "But as for the details of what really happened-ethy back then, you should take-ethy your questions to Bastok or San d'Oria."
   7: 0x0A13 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A14 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
   9: 0x0A1B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
- 10: 0x0A22 [0x1D] PRINT_EVENT_MESSAGE(message_id=9473*)
+ 10: 0x0A22 [0x1D] PRINT_EVENT_MESSAGE(message_id=9474*)
     → "Hm? Hm? Hm? Now that you mention-ethy it, I seem to recall-ethy that Karaha-Baruha was only a child when he visited-ethy Tavnazia..."
  11: 0x0A25 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9474*)
+ 12: 0x0A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9475*)
     → "I remember-ethy fighting with Minister Shantotto over who got to eat the tasty souvenirs he brought-ethy back... But that would mean-ethy..."
  13: 0x0A29 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0A2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x04)
@@ -3890,17 +3890,17 @@
   1: 0x0ACE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0ACF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0AD0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x1D)
-  4: 0x0AD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9544*)
+  4: 0x0AD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9545*)
     → "I wish you would stop-ethy using my house as a stage for your exhibitions!"
   5: 0x0ADA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0ADB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x1E)
   7: 0x0AE2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x09)
-  8: 0x0AE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9545*)
+  8: 0x0AE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9546*)
     → "Those three evil children... That nasty Mithran Tracker... Have you ever heard-ethy of trespassing!?"
   9: 0x0AEC [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0AED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x0A)
  11: 0x0AF4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x0B)
- 12: 0x0AFB [0x1D] PRINT_EVENT_MESSAGE(message_id=9546*)
+ 12: 0x0AFB [0x1D] PRINT_EVENT_MESSAGE(message_id=9547*)
     → "Now unless you want me to call-ethy the Sibyl Guards, I suggest-ethy you be on your way to Attohwa Chasm!"
  13: 0x0AFE [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0AFF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x0C)
@@ -3935,19 +3935,19 @@
   0: 0x0B0A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0B0F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B10 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0B11 [0x1D] PRINT_EVENT_MESSAGE(message_id=9553*)
+  3: 0x0B11 [0x1D] PRINT_EVENT_MESSAGE(message_id=9554*)
     → "What now!? You want to know-ethy where the statue in Tavnazia came from?"
   4: 0x0B14 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0B15 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x01)
-  6: 0x0B1C [0x1D] PRINT_EVENT_MESSAGE(message_id=9554*)
+  6: 0x0B1C [0x1D] PRINT_EVENT_MESSAGE(message_id=9555*)
     → "I thought-ethy I already told you. The statue was covered in traces of soil similar to that found-ethy on the bottom of the Sea of Shu'Meyo."
   7: 0x0B1F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0B20 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x02)
   9: 0x0B27 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x03)
- 10: 0x0B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=9555*)
+ 10: 0x0B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=9556*)
     → "But wait-ethy just a moment... Now that you mention it, there were also traces of Gustaberg soil mixed-ethy with the samples. I did not think-ethy anything of it at the time..."
  11: 0x0B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0B32 [0x1D] PRINT_EVENT_MESSAGE(message_id=9556*)
+ 12: 0x0B32 [0x1D] PRINT_EVENT_MESSAGE(message_id=9557*)
     → "Why would-ethy there be two types of soil on the statue...?"
  13: 0x0B35 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0B36 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17756188/0x010EF01C), tag_num=0x04)

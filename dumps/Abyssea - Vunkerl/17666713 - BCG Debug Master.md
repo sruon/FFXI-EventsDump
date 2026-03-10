@@ -43,13 +43,13 @@
 |      20 | 0x0012      |          18 |
 |      21 | 0x0015      |          21 |
 |      22 | 0x0018      |          24 |
-|      23 | 0x1ECA      |        7882 |
+|      23 | 0x1ECB      |        7883 |
 |      24 | 0x0004      |           4 |
-|      25 | 0x1ECB      |        7883 |
+|      25 | 0x1ECC      |        7884 |
 |      26 | 0x270F      |        9999 |
-|      27 | 0x1ECF      |        7887 |
+|      27 | 0x1ED0      |        7888 |
 |      28 | 0x001F      |          31 |
-|      29 | 0x1ECC      |        7884 |
+|      29 | 0x1ECD      |        7885 |
 |      30 | 0x06A6      |        1702 |
 |      31 | 0x06A7      |        1703 |
 |      32 | 0x06A8      |        1704 |
@@ -57,17 +57,17 @@
 |      34 | 0x06AA      |        1706 |
 |      35 | 0x06AB      |        1707 |
 |      36 | 0x06AC      |        1708 |
-|      37 | 0x1ECD      |        7885 |
-|      38 | 0x1ECE      |        7886 |
+|      37 | 0x1ECE      |        7886 |
+|      38 | 0x1ECF      |        7887 |
 
 ## String References
 
-- **7882**: Debug what? [Nothing./Clone ward./Resistance soldiers./Martello core./Verge 1./Verge 2./Verge 3./Resistance Credits.]
-- **7883**: Barrier debug. (average HP value: $0) [Return./Pulse martello HP/Clone ward 1 HP/Clone ward 2 HP/Clone ward 3 HP/Clone ward 4 HP/Clone ward 5 HP/Clone ward 6 HP/Clone ward 7 HP/Clone ward durability: $1]
-- **7884**: Resistance soldier debug. [Return./Attack: $0/Delay: $1/Skill: $2/Recovery: $3]
-- **7885**: Martello core debug. [Return./3: $1/$3: $3/$3: $5/$3: $7/$3: $9/$3: $11/$3: $13]
-- **7886**: Enemy pop location $0 debug. [Return./Next attack value: $1/Fore Trap attack reduction: $2/Fore Trap delay extension: $3/Rear Trap paralysis duration: $4/Rear Trap paralysis success rate: $5]
-- **7887**: Value adjuster (Current: $0) [Cancel./+1/+2/+3/+5/+10/+20/+30/+50/+100/+200/+300/+500/+1000/-1/-2/-3/-5/-10/-20/-30/-50/-100/-200/-300/-500/-1000]
+- **7883**: Debug what? [Nothing./Clone ward./Resistance soldiers./Martello core./Verge 1./Verge 2./Verge 3./Resistance Credits.]
+- **7884**: Barrier debug. (average HP value: $0) [Return./Pulse martello HP/Clone ward 1 HP/Clone ward 2 HP/Clone ward 3 HP/Clone ward 4 HP/Clone ward 5 HP/Clone ward 6 HP/Clone ward 7 HP/Clone ward durability: $1]
+- **7885**: Resistance soldier debug. [Return./Attack: $0/Delay: $1/Skill: $2/Recovery: $3]
+- **7886**: Martello core debug. [Return./3: $1/$3: $3/$3: $5/$3: $7/$3: $9/$3: $11/$3: $13]
+- **7887**: Enemy pop location $0 debug. [Return./Next attack value: $1/Fore Trap attack reduction: $2/Fore Trap delay extension: $3/Rear Trap paralysis duration: $4/Rear Trap paralysis success rate: $5]
+- **7888**: Value adjuster (Current: $0) [Cancel./+1/+2/+3/+5/+10/+20/+30/+50/+100/+200/+300/+500/+1000/-1/-2/-3/-5/-10/-20/-30/-50/-100/-200/-300/-500/-1000]
 
 ## Events
 
@@ -353,7 +353,7 @@
  76: 0x01B9 [0x05] ExtData[1]->WorkLocal[41] = 1
  77: 0x01BC [0x02] IF !(ExtData[1]->WorkLocal[41] <= 0*) GOTO 0x0A2C
  78: 0x01C4 [0x03] ExtData[1]->WorkLocal[38] = 0*
- 79: 0x01C9 [0x24] CREATE_DIALOG(message_id=7882*, default_option=0*, option_flags=0*)
+ 79: 0x01C9 [0x24] CREATE_DIALOG(message_id=7883*, default_option=0*, option_flags=0*)
     → "Debug what? [Nothing./Clone ward./Resistance soldiers./Martello core./Verge 1./Verge 2./Verge 3./Resistance Credits.]"
  80: 0x01D0 [0x25] WAIT_DIALOG_SELECT()
  81: 0x01D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E4
@@ -377,7 +377,7 @@ SUBROUTINE_01F4:
  97: 0x0234 [0x06] ExtData[1]->WorkLocal[39] = 0
  98: 0x0237 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
  99: 0x023C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
-100: 0x0241 [0x24] CREATE_DIALOG(message_id=7883*, default_option=0*, option_flags=ExtData[1]->WorkLocal[37])
+100: 0x0241 [0x24] CREATE_DIALOG(message_id=7884*, default_option=0*, option_flags=ExtData[1]->WorkLocal[37])
     → "Barrier debug. (average HP value: $0) [Return./Pulse martello HP/Clone ward 1 HP/Clone ward 2 HP/Clone ward 3 HP/Clone ward 4 HP/Clone ward 5 HP/Clone ward 6 HP/Clone ward 7 HP/Clone ward durability: $1]"
 101: 0x0248 [0x25] WAIT_DIALOG_SELECT()
 102: 0x0249 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0257
@@ -419,7 +419,7 @@ SUBROUTINE_02E7:
 136: 0x02FF [0x03] Work_Zone[2] = 9999*
 
 SUBROUTINE_0304:
-137: 0x0304 [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
+137: 0x0304 [0x24] CREATE_DIALOG(message_id=7888*, default_option=0*, option_flags=0*)
     → "Value adjuster (Current: $0) [Cancel./+1/+2/+3/+5/+10/+20/+30/+50/+100/+200/+300/+500/+1000/-1/-2/-3/-5/-10/-20/-30/-50/-100/-200/-300/-500/-1000]"
 138: 0x030B [0x25] WAIT_DIALOG_SELECT()
 139: 0x030C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0317
@@ -446,7 +446,7 @@ SUBROUTINE_035B:
 156: 0x036B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
 157: 0x0370 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[7]
 158: 0x0375 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
-159: 0x037A [0x24] CREATE_DIALOG(message_id=7884*, default_option=0*, option_flags=0*)
+159: 0x037A [0x24] CREATE_DIALOG(message_id=7885*, default_option=0*, option_flags=0*)
     → "Resistance soldier debug. [Return./Attack: $0/Delay: $1/Skill: $2/Recovery: $3]"
 160: 0x0381 [0x25] WAIT_DIALOG_SELECT()
 161: 0x0382 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0390
@@ -481,7 +481,7 @@ SUBROUTINE_03D0:
 188: 0x0415 [0x01] GOTO 0x0418
 
 SUBROUTINE_0418:
-189: 0x0418 [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
+189: 0x0418 [0x24] CREATE_DIALOG(message_id=7888*, default_option=0*, option_flags=0*)
     → "Value adjuster (Current: $0) [Cancel./+1/+2/+3/+5/+10/+20/+30/+50/+100/+200/+300/+500/+1000/-1/-2/-3/-5/-10/-20/-30/-50/-100/-200/-300/-500/-1000]"
 190: 0x041F [0x25] WAIT_DIALOG_SELECT()
 191: 0x0420 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x042B
@@ -518,7 +518,7 @@ SUBROUTINE_046F:
 218: 0x04B1 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[14]
 219: 0x04B6 [0x03] Work_Zone_1700[4] = 1708*
 220: 0x04BB [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[15]
-221: 0x04C0 [0x24] CREATE_DIALOG(message_id=7885*, default_option=0*, option_flags=0*)
+221: 0x04C0 [0x24] CREATE_DIALOG(message_id=7886*, default_option=0*, option_flags=0*)
     → "Martello core debug. [Return./3: $1/$3: $3/$3: $5/$3: $7/$3: $9/$3: $11/$3: $13]"
 222: 0x04C7 [0x25] WAIT_DIALOG_SELECT()
 223: 0x04C8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04D6
@@ -571,7 +571,7 @@ SUBROUTINE_0546:
 268: 0x05BB [0x01] GOTO 0x05BE
 
 SUBROUTINE_05BE:
-269: 0x05BE [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
+269: 0x05BE [0x24] CREATE_DIALOG(message_id=7888*, default_option=0*, option_flags=0*)
     → "Value adjuster (Current: $0) [Cancel./+1/+2/+3/+5/+10/+20/+30/+50/+100/+200/+300/+500/+1000/-1/-2/-3/-5/-10/-20/-30/-50/-100/-200/-300/-500/-1000]"
 270: 0x05C5 [0x25] WAIT_DIALOG_SELECT()
 271: 0x05C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05D1
@@ -600,7 +600,7 @@ SUBROUTINE_0615:
 290: 0x062F [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[20]
 291: 0x0634 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[21]
 292: 0x0639 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[22]
-293: 0x063E [0x24] CREATE_DIALOG(message_id=7886*, default_option=0*, option_flags=0*)
+293: 0x063E [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
     → "Enemy pop location $0 debug. [Return./Next attack value: $1/Fore Trap attack reduction: $2/Fore Trap delay extension: $3/Rear Trap paralysis duration: $4/Rear Trap paralysis success rate: $5]"
 294: 0x0645 [0x25] WAIT_DIALOG_SELECT()
 295: 0x0646 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0654
@@ -641,7 +641,7 @@ SUBROUTINE_06A4:
 328: 0x06F9 [0x01] GOTO 0x06FC
 
 SUBROUTINE_06FC:
-329: 0x06FC [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
+329: 0x06FC [0x24] CREATE_DIALOG(message_id=7888*, default_option=0*, option_flags=0*)
     → "Value adjuster (Current: $0) [Cancel./+1/+2/+3/+5/+10/+20/+30/+50/+100/+200/+300/+500/+1000/-1/-2/-3/-5/-10/-20/-30/-50/-100/-200/-300/-500/-1000]"
 330: 0x0703 [0x25] WAIT_DIALOG_SELECT()
 331: 0x0704 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x070F
@@ -670,7 +670,7 @@ SUBROUTINE_0753:
 350: 0x076D [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[27]
 351: 0x0772 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[28]
 352: 0x0777 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[29]
-353: 0x077C [0x24] CREATE_DIALOG(message_id=7886*, default_option=0*, option_flags=0*)
+353: 0x077C [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
     → "Enemy pop location $0 debug. [Return./Next attack value: $1/Fore Trap attack reduction: $2/Fore Trap delay extension: $3/Rear Trap paralysis duration: $4/Rear Trap paralysis success rate: $5]"
 354: 0x0783 [0x25] WAIT_DIALOG_SELECT()
 355: 0x0784 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0792
@@ -711,7 +711,7 @@ SUBROUTINE_07E2:
 388: 0x0837 [0x01] GOTO 0x083A
 
 SUBROUTINE_083A:
-389: 0x083A [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
+389: 0x083A [0x24] CREATE_DIALOG(message_id=7888*, default_option=0*, option_flags=0*)
     → "Value adjuster (Current: $0) [Cancel./+1/+2/+3/+5/+10/+20/+30/+50/+100/+200/+300/+500/+1000/-1/-2/-3/-5/-10/-20/-30/-50/-100/-200/-300/-500/-1000]"
 390: 0x0841 [0x25] WAIT_DIALOG_SELECT()
 391: 0x0842 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x084D
@@ -740,7 +740,7 @@ SUBROUTINE_0891:
 410: 0x08AB [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[34]
 411: 0x08B0 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[35]
 412: 0x08B5 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[36]
-413: 0x08BA [0x24] CREATE_DIALOG(message_id=7886*, default_option=0*, option_flags=0*)
+413: 0x08BA [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
     → "Enemy pop location $0 debug. [Return./Next attack value: $1/Fore Trap attack reduction: $2/Fore Trap delay extension: $3/Rear Trap paralysis duration: $4/Rear Trap paralysis success rate: $5]"
 414: 0x08C1 [0x25] WAIT_DIALOG_SELECT()
 415: 0x08C2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08D0
@@ -781,7 +781,7 @@ SUBROUTINE_0920:
 448: 0x0975 [0x01] GOTO 0x0978
 
 SUBROUTINE_0978:
-449: 0x0978 [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
+449: 0x0978 [0x24] CREATE_DIALOG(message_id=7888*, default_option=0*, option_flags=0*)
     → "Value adjuster (Current: $0) [Cancel./+1/+2/+3/+5/+10/+20/+30/+50/+100/+200/+300/+500/+1000/-1/-2/-3/-5/-10/-20/-30/-50/-100/-200/-300/-500/-1000]"
 450: 0x097F [0x25] WAIT_DIALOG_SELECT()
 451: 0x0980 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x098B
@@ -805,7 +805,7 @@ SUBROUTINE_09CF:
 465: 0x09CF [0x02] IF !(ExtData[1]->WorkLocal[42] <= 0*) GOTO 0x0A26
 466: 0x09D7 [0x06] ExtData[1]->WorkLocal[39] = 0
 467: 0x09DA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-468: 0x09DF [0x24] CREATE_DIALOG(message_id=7887*, default_option=0*, option_flags=0*)
+468: 0x09DF [0x24] CREATE_DIALOG(message_id=7888*, default_option=0*, option_flags=0*)
     → "Value adjuster (Current: $0) [Cancel./+1/+2/+3/+5/+10/+20/+30/+50/+100/+200/+300/+500/+1000/-1/-2/-3/-5/-10/-20/-30/-50/-100/-200/-300/-500/-1000]"
 469: 0x09E6 [0x25] WAIT_DIALOG_SELECT()
 470: 0x09E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09F5

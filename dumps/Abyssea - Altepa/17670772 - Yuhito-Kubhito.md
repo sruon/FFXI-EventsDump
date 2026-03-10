@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2068      |        8296 |
-|       2 | 0x2069      |        8297 |
+|       1 | 0x2069      |        8297 |
+|       2 | 0x206A      |        8298 |
 
 ## String References
 
-- **8296**: The counterattack that Minister Ajido-Marujido launched against the fiends was truly a sightaru to behold. It was the first time I saw the full scope of his power...
-- **8297**: And yet, in the end, it wasn't enough to save us. What's more, I fear the horror-worrors of that day have left him a broken man...
+- **8297**: The counterattack that Minister Ajido-Marujido launched against the fiends was truly a sightaru to behold. It was the first time I saw the full scope of his power...
+- **8298**: And yet, in the end, it wasn't enough to save us. What's more, I fear the horror-worrors of that day have left him a broken man...
 
 ## Events
 
@@ -75,10 +75,10 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(20* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
     → "The counterattack that Minister Ajido-Marujido launched against the fiends was truly a sightaru to behold. It was the first time I saw the full scope of his power..."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
+  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
     → "And yet, in the end, it wasn't enough to save us. What's more, I fear the horror-worrors of that day have left him a broken man..."
   5: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0011 [0x21] END_EVENT

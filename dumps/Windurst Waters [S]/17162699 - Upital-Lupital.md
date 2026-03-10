@@ -21,8 +21,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2AEB      |       10987 |
-|       2 | 0x2AEC      |       10988 |
+|       1 | 0x2AEC      |       10988 |
+|       2 | 0x2AED      |       10989 |
 
 ## Events
 
@@ -70,10 +70,10 @@
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
-  2: 0x000D [0x2B] EventEntity [10987*]:
+  2: 0x000D [0x2B] EventEntity [10988*]:
     → "Fort Karugo-Narugo is our stronghold to the north. It's absolutely essential for the defense of Windurst."
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0015 [0x2B] EventEntity [10988*]:
+  4: 0x0015 [0x2B] EventEntity [10989*]:
     → "You might even go so far as to call it the jewel in the crown that is Windurst's magical defense against the Yagudo invasion...I'm sorry, that was a bit much..."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT

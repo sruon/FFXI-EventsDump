@@ -23,19 +23,19 @@
 |---------|-------------|-------------|
 |       0 | 0x0BB8      |        3000 |
 |       1 | 0x003C      |          60 |
-|       2 | 0x1D96      |        7574 |
-|       3 | 0x1D97      |        7575 |
+|       2 | 0x1D97      |        7575 |
+|       3 | 0x1D98      |        7576 |
 |       4 | 0x0F54      |        3924 |
-|       5 | 0x1D98      |        7576 |
+|       5 | 0x1D99      |        7577 |
 |       6 | 0x0863      |        2147 |
-|       7 | 0x1D99      |        7577 |
+|       7 | 0x1D9A      |        7578 |
 
 ## String References
 
-- **7574**: The entrance to the Metalworks, Bastok's administrative and manufacturing center, is just a few steps to the north.
-- **7575**: If you go further north, you'll be on the road leading to Port Bastok.
-- **7576**: Over there to the east is the entrance to the residential area where your Mog House is located.
-- **7577**: From the square to the west, you can access various shops, the West Gate, and the road to the Bastok Mines.
+- **7575**: The entrance to the Metalworks, Bastok's administrative and manufacturing center, is just a few steps to the north.
+- **7576**: If you go further north, you'll be on the road leading to Port Bastok.
+- **7577**: Over there to the east is the entrance to the residential area where your Mog House is located.
+- **7578**: From the square to the west, you can access various shops, the West Gate, and the road to the Bastok Mines.
 
 ## Events
 
@@ -91,10 +91,10 @@
   1: 0x0004 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0005 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0006 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
+  4: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7575*)
     → "The entrance to the Metalworks, Bastok's administrative and manufacturing center, is just a few steps to the north."
   5: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7575*)
+  6: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7576*)
     → "If you go further north, you'll be on the road leading to Port Bastok."
   7: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [EventEntity, EventEntity]
@@ -102,7 +102,7 @@
  10: 0x002D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x002E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  12: 0x002F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [EventEntity, EventEntity], work=60*
- 13: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7576*)
+ 13: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
     → "Over there to the east is the entrance to the residential area where your Mog House is located."
  14: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0042 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [EventEntity, EventEntity]
@@ -110,7 +110,7 @@
  17: 0x0052 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  18: 0x0053 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  19: 0x0054 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [EventEntity, EventEntity], work=60*
- 20: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
+ 20: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
     → "From the square to the west, you can access various shops, the West Gate, and the road to the Bastok Mines."
  21: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0067 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [EventEntity, EventEntity]

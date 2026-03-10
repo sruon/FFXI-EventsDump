@@ -1,5 +1,5 @@
 # Strings for Desuetia - Empyreal Paradox
-# Total: 7814 strings
+# Total: 7815 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7329,13 +7329,13 @@
  7325: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7326: You receive $0 bayld!
  7327: Your chocobo refuses to partake of the $0.
- 7328: Enter the battlefield? [Enter./Decline.]
- 7329: Leave the battlefield? [Run away./Stay.]
- 7330: You cannot enter the battlefield at present. Please wait a little longer.
+ 7328: Your wing skill improved to $0!
+ 7329: Enter the battlefield? [Enter./Decline.]
+ 7330: Leave the battlefield? [Run away./Stay.]
  7331: You cannot enter the battlefield at present. Please wait a little longer.
- 7332: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
- 7333: Your time in the battlefield is up! Now exiting...
- 7334: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7332: You cannot enter the battlefield at present. Please wait a little longer.
+ 7333: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+ 7334: Your time in the battlefield is up! Now exiting...
  7335: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7336: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7337: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7345,59 +7345,59 @@
  7341: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7342: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7343: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
- 7344: You have been enchanted so that you may enter!
- 7345: Your entry enchantment has expired!
- 7346: You are not cleared to enter the battlefield. Now exiting...
- 7347: A cursed seal has been placed upon this platform.
- 7348: The battlefield where your party members are engaged in combat is locked. Access is denied.
- 7349: There is no response. You cannot escape!
- 7350: The door is sealed shut with an evil curse.
- 7351: A mysterious force is sealing the platform.
- 7352: The old wooden door is locked tight.
- 7353: The door is sealed with a mysterious energy.
- 7354: It is a giant crystal.
- 7355: A strong magical force is whirling up from the platform.
- 7356: A fierce column of wind blocks your path. You cannot proceed any further...
- 7357: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
- 7358: An unfathomable light is rising from this strangely marked platform...
- 7359: A heavy wooden gate. It is tightly locked...
- 7360: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7344: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7345: You have been enchanted so that you may enter!
+ 7346: Your entry enchantment has expired!
+ 7347: You are not cleared to enter the battlefield. Now exiting...
+ 7348: A cursed seal has been placed upon this platform.
+ 7349: The battlefield where your party members are engaged in combat is locked. Access is denied.
+ 7350: There is no response. You cannot escape!
+ 7351: The door is sealed shut with an evil curse.
+ 7352: A mysterious force is sealing the platform.
+ 7353: The old wooden door is locked tight.
+ 7354: The door is sealed with a mysterious energy.
+ 7355: It is a giant crystal.
+ 7356: A strong magical force is whirling up from the platform.
+ 7357: A fierce column of wind blocks your path. You cannot proceed any further...
+ 7358: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+ 7359: An unfathomable light is rising from this strangely marked platform...
+ 7360: A heavy wooden gate. It is tightly locked...
  7361: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7362: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7363: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
- 7364: A glowing mist of ever-changing proportions floats before you...
- 7365: A solid iron gate. It is tightly locked...
- 7366: You see a gigantic crystal, glowing with amber light...
+ 7364: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7365: A glowing mist of ever-changing proportions floats before you...
+ 7366: A solid iron gate. It is tightly locked...
  7367: You see a gigantic crystal, glowing with amber light...
- 7368: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
- 7369: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7370: If you listen closely, you can faintly hear female voices singing in rounds...
- 7371: It appears as if something had been thrust into the rockface here...
- 7372: A decorative door. It appears to be locked...
- 7373: The door is locked.
- 7374: The gate is locked.
- 7375: The door is locked.
+ 7368: You see a gigantic crystal, glowing with amber light...
+ 7369: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+ 7370: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7371: If you listen closely, you can faintly hear female voices singing in rounds...
+ 7372: It appears as if something had been thrust into the rockface here...
+ 7373: A decorative door. It appears to be locked...
+ 7374: The door is locked.
+ 7375: The gate is locked.
  7376: The door is locked.
- 7377: There seems to be a space beneath the floor, but you are unable to access it.
- 7378: You do not meet the requirements to enter the battlefield. Access is denied.
- 7379: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
- 7380: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
- 7381: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
- 7382: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
- 7383: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
- 7384: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
- 7385: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
- 7386: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
- 7387: You were unable to protect the special character. Now leaving the battlefield.
- 7388: You were unable to protect Prince Trion. Now leaving the battlefield.
- 7389: You were unable to protect Captain Volker. Now leaving the battlefield.
- 7390: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
- 7391: Your $0 is torn...
- 7392: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7393: Your $0 is torn...
- 7394: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7395: You see innumerable stars shimmering in the distance...
- 7396: @
+ 7377: The door is locked.
+ 7378: There seems to be a space beneath the floor, but you are unable to access it.
+ 7379: You do not meet the requirements to enter the battlefield. Access is denied.
+ 7380: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+ 7381: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+ 7382: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+ 7383: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+ 7384: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+ 7385: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+ 7386: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+ 7387: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+ 7388: You were unable to protect the special character. Now leaving the battlefield.
+ 7389: You were unable to protect Prince Trion. Now leaving the battlefield.
+ 7390: You were unable to protect Captain Volker. Now leaving the battlefield.
+ 7391: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+ 7392: Your $0 is torn...
+ 7393: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7394: Your $0 is torn...
+ 7395: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7396: You see innumerable stars shimmering in the distance...
  7397: @
  7398: @
  7399: @
@@ -7405,413 +7405,414 @@
  7401: @
  7402: @
  7403: @
- 7404: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
+ 7404: @
  7405: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7406: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7407: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7408: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
- 7409: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7409: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7410: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
  7411: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
- 7412: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7413: i$20%.%p$P15zj
- 7414: $7278448;39\5=Bj
+ 7412: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7413: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7414: i$20%.%p$P15zj
  7415: $7278448;39\5=Bj
  7416: $7278448;39\5=Bj
- 7417: remove@1
- 7418: remove@2
- 7419: remove@3
- 7420: i$3{$3X_A$P13|5=j
- 7421: i$3{$3X_B$P13|5=j
- 7422: i$3{$3X_C$P13|5=j
- 7423: $6750818j=j
- 7424: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7425: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7426: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7417: $7278448;39\5=Bj
+ 7418: remove@1
+ 7419: remove@2
+ 7420: remove@3
+ 7421: i$3{$3X_A$P13|5=j
+ 7422: i$3{$3X_B$P13|5=j
+ 7423: i$3{$3X_C$P13|5=j
+ 7424: $6750818j=j
+ 7425: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7426: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
  7427: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7428: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7429: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7430: GL$20%.L$P16<$P11Op)i$132960a b
- 7431: GL$20%.LIDp)i$132960a b
- 7432: $20%._AL$3p$3243853
- 7433: $20%._BL$3p$3243853
- 7434: $20%._CL$3p$3243853
- 7435: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7436: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7437: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7429: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7430: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7431: GL$20%.L$P16<$P11Op)i$132960a b
+ 7432: GL$20%.LIDp)i$132960a b
+ 7433: $20%._AL$3p$3243853
+ 7434: $20%._BL$3p$3243853
+ 7435: $20%._CL$3p$3243853
+ 7436: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7437: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7438: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7439: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7440: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7440: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7441: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7442: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7443: $6819916%L$P10l$20*()5"
+ 7443: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7444: $6819916%L$P10l$20*()5"
  7445: $6819916%L$P10l$20*()5"
- 7446: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7446: $6819916%L$P10l$20*()5"
  7447: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7448: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7449: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7450: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7451: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7452: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7453: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7454: i$20%._A$P13&$22$3C$3x$3$3g
- 7455: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7456: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7457: i$20%._B$P13&$22$3C$3x$3$3g
- 7458: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7459: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7460: i$20%._C$P13&$22$3C$3x$3$3g
- 7461: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7462: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7463: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7464: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7465: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7466: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7467: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7468: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7469: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7470: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7471: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7472: $6647884nding$8%p$@$s5\5=B
- 7473: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7449: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7450: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7451: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7452: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7453: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7454: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7455: i$20%._A$P13&$22$3C$3x$3$3g
+ 7456: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7457: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7458: i$20%._B$P13&$22$3C$3x$3$3g
+ 7459: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7460: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7461: i$20%._C$P13&$22$3C$3x$3$3g
+ 7462: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7463: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7464: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7465: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7466: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7467: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7468: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7469: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7470: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7471: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7472: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7473: $6647884nding$8%p$@$s5\5=B
  7474: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7475: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7476: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7477: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7478: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7479: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7480: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7481: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7482: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7483: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7484: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7485: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7486: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7487: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7488: ($20%._AM$0$P14u$6E7)
- 7489: ($20%._BM$0$P14u$6E7)
- 7490: ($20%._CM$0$P14u$6E7)
- 7491: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7492: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7493: i$20%._A$P13|$:I$3g$3$3C5\7
- 7494: i$20%._B$P13|$:I$3g$3$3C5\7
- 7495: i$20%._C$P13|$:I$3g$3$3C5\7
- 7496: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7497: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7498: (AIMID* h\9qE5=)
- 7499: (BIMID* h\9qE5=)
- 7500: (CIMID* h\9qE5=)
- 7501: (AIID* h\5=)
- 7502: (BIID* h\5=)
- 7503: (CIID* h\5=)
- 7504: (AM7EI$P10f$P16q* h\5=)
- 7505: (BM7EI$P10f$P16q* h\5=)
- 7506: (CM7EI$P10f$P16q* h\5=)
- 7507: $2097706ADH"=_$P13|$:E+\9q
- 7508: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7509: i$20%.%p$P15zj
- 7510: $7278448;39\5=Bj
+ 7476: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7477: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7478: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7479: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7480: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7481: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7482: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7483: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7484: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7485: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7486: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7487: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7488: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7489: ($20%._AM$0$P14u$6E7)
+ 7490: ($20%._BM$0$P14u$6E7)
+ 7491: ($20%._CM$0$P14u$6E7)
+ 7492: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7493: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7494: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7495: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7496: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7497: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7498: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7499: (AIMID* h\9qE5=)
+ 7500: (BIMID* h\9qE5=)
+ 7501: (CIMID* h\9qE5=)
+ 7502: (AIID* h\5=)
+ 7503: (BIID* h\5=)
+ 7504: (CIID* h\5=)
+ 7505: (AM7EI$P10f$P16q* h\5=)
+ 7506: (BM7EI$P10f$P16q* h\5=)
+ 7507: (CM7EI$P10f$P16q* h\5=)
+ 7508: $2097706ADH"=_$P13|$:E+\9q
+ 7509: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7510: i$20%.%p$P15zj
  7511: $7278448;39\5=Bj
  7512: $7278448;39\5=Bj
- 7513: i$3{$3X_A$A&=j
- 7514: i$3{$3X_B$A&=j
- 7515: i$3{$3X_C$A&=j
- 7516: i$3{$3X_A$P13|5=j
- 7517: i$3{$3X_B$P13|5=j
- 7518: i$3{$3X_C$P13|5=j
- 7519: H=M$20%.`I$P13|j;$E7
- 7520: H=M$20%.aI$P13|j;$E7
- 7521: H=M$20%.bI$P13|j;$E7
- 7522: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
- 7523: $4457025i
- 7524: $4456998"i
- 7525: $24952730=j
- 7526: $656169$3$3N$3f$3b$3hj
- 7527: $P12N`"H"
- 7528: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7513: $7278448;39\5=Bj
+ 7514: i$3{$3X_A$A&=j
+ 7515: i$3{$3X_B$A&=j
+ 7516: i$3{$3X_C$A&=j
+ 7517: i$3{$3X_A$P13|5=j
+ 7518: i$3{$3X_B$P13|5=j
+ 7519: i$3{$3X_C$P13|5=j
+ 7520: H=M$20%.`I$P13|j;$E7
+ 7521: H=M$20%.aI$P13|j;$E7
+ 7522: H=M$20%.bI$P13|j;$E7
+ 7523: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
+ 7524: $4457025i
+ 7525: $4456998"i
+ 7526: $24952730=j
+ 7527: $656169$3$3N$3f$3b$3hj
+ 7528: $P12N`"H"
  7529: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7530: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7531: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
+ 7531: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7532: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7533: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7534: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
- 7535: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7535: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7536: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
  7537: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
- 7538: pending$3`$3F$3b$3N$3I[$3P[
- 7539: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7538: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7539: pending$3`$3F$3b$3N$3I[$3P[
  7540: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
  7541: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
- 7542: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
- 7543: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7544: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7545: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7546: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7542: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7543: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
+ 7544: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7545: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7546: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
  7547: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
  7548: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
- 7549: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
- 7550: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
- 7551: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
- 7552: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
- 7553: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
- 7554: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
- 7555: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
- 7556: $6750818j=j
- 7557: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7558: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7559: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7560: GL$20%.L$P16<$P11Op)i$132960a b
- 7561: GL$20%.LIDp)i$132960a b
- 7562: $20%._AL$3p$3243853
- 7563: $20%._BL$3p$3243853
- 7564: $20%._CL$3p$3243853
- 7565: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7566: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7567: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7549: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7550: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
+ 7551: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
+ 7552: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
+ 7553: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
+ 7554: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
+ 7555: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
+ 7556: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
+ 7557: $6750818j=j
+ 7558: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7559: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
+ 7560: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7561: GL$20%.L$P16<$P11Op)i$132960a b
+ 7562: GL$20%.LIDp)i$132960a b
+ 7563: $20%._AL$3p$3243853
+ 7564: $20%._BL$3p$3243853
+ 7565: $20%._CL$3p$3243853
+ 7566: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7567: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7568: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7569: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7570: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7570: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7571: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7572: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7573: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7574: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7575: $6819916%L$P10l$20*()5"
+ 7575: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7576: $6819916%L$P10l$20*()5"
- 7577: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7577: $6819916%L$P10l$20*()5"
  7578: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7579: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7580: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7581: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7582: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7583: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7584: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7585: i$20%._A$P13&$22$3C$3x$3$3g
- 7586: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7587: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7588: i$20%._B$P13&$22$3C$3x$3$3g
- 7589: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7590: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7591: i$20%._C$P13&$22$3C$3x$3$3g
- 7592: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7593: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7594: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7595: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7596: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7597: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7598: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7599: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7600: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7601: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7602: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7603: $6647884nding$8%p$@$s5\5=B
- 7604: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7580: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7581: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7582: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7583: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7584: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7585: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7586: i$20%._A$P13&$22$3C$3x$3$3g
+ 7587: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7588: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7589: i$20%._B$P13&$22$3C$3x$3$3g
+ 7590: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7591: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7592: i$20%._C$P13&$22$3C$3x$3$3g
+ 7593: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7594: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7595: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7596: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7597: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7598: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7599: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7600: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7601: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7602: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7603: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7604: $6647884nding$8%p$@$s5\5=B
  7605: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7606: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7607: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7608: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7609: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7610: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7611: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7612: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7613: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7614: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7615: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7616: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7617: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7618: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7619: ($20%._AM$0$P14u$6E7)
- 7620: ($20%._BM$0$P14u$6E7)
- 7621: ($20%._CM$0$P14u$6E7)
- 7622: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7623: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7624: i$20%._A$P13|$:I$3g$3$3C5\7
- 7625: i$20%._B$P13|$:I$3g$3$3C5\7
- 7626: i$20%._C$P13|$:I$3g$3$3C5\7
- 7627: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7628: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7629: (AIMID* h\9qE5=)
- 7630: (BIMID* h\9qE5=)
- 7631: (CIMID* h\9qE5=)
- 7632: (AIID* h\5=)
- 7633: (BIID* h\5=)
- 7634: (CIID* h\5=)
- 7635: (AM7EI$P10f$P16q* h\5=)
- 7636: (BM7EI$P10f$P16q* h\5=)
- 7637: (CM7EI$P10f$P16q* h\5=)
- 7638: $2097706ADH"=_$P13|$:E+\9q
- 7639: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
- 7640: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
- 7641: Only <Player> can enter the battlefield.
- 7642: The time limit for this battle is $3 minutes.
- 7643: There is a crack in the $3. It no longer contains a monster.
- 7644: A crack has formed on the $3, and the beast inside has been unleashed!
- 7645: Boss mode : $6!!
- 7646: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
- 7647: $7
- 7648: DEBUG1
- 7649: $T&$:I$P16_i)$4719207" $P16_i
- 7650: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
- 7651: iDEBUG$3998261$3{$3X$3|$3b$3vB
- 7652: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
- 7653: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
- 7654: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
- 7655: PARTY0F$1 PARTY1$5259265ARTY2F$3
- 7656: PARTY3F$1 PARTY4$5259265ARTY5F$3
- 7657: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
- 7658: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
- 7659: CLI_NUM0 = $0
- 7660: CLI_NUM1 = $1
- 7661: CLI_NUM2 = $2
- 7662: CLI_NUM3 = $3
- 7663: CLI_NUM4 = $4
- 7664: CLI_NUM5 = $5
- 7665: CLI_NUM6 = $6
- 7666: CLI_NUM7 = $6
- 7667: Skip the event? [Yes./No.]
- 7668: Battlefield clear time: $3 second[/s]!
- 7669: Battlefield clear time: $3 minute[/s], $2 second[/s]!
- 7670: The current battlefield clear time record is $3 second[/s].
- 7671: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
- 7672: Called the NPC! PC ID = $0! RESULT = $1!
- 7673: Got rid of the NPC! PC ID = $0!
- 7674: The NPC has fallen, and he can't get up! Leaving room A!
- 7675: The NPC has fallen, and he can't get up! Leaving room B!
- 7676: The NPC has fallen, and he can't get up! Leaving room C!
- 7677: The NPC has fallen, and he can't get up! Leaving room D!
- 7678: All party members have fallen in battle. Now leaving the battlefield.
- 7679: Everybody's fallen in room A, and they can't get up! Leaving room A!
- 7680: Everybody's fallen in room B, and they can't get up! Leaving room B!
- 7681: Everybody's fallen in room C, and they can't get up! Leaving room C!
- 7682: Everybody's fallen in room D, and they can't get up! Leaving room D!
- 7683: Everybody's fallen in room E, and they can't get up! Leaving room E!
- 7684: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
- 7685: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
- 7686: What the hell is that number!? It's not possible!!!
- 7687: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
- 7688: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
- 7689: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
- 7690: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
- 7691: That record is held by $5 adventurers, including %0!
- 7692: That record is held by %0!
- 7693: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
- 7694: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
- 7695: A malignant force escapes from your $3.
- 7696: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
- 7697: Your $3 is calling out to something...
- 7698: The $0 has a large crack running straight down the side.
- 7699: Something awakens owing to the presence of the $3...
- 7700: The oath has been fulfilled owing to the power of your $3.
- 7701: $3{$3^$3$97F$31V$P10i]\7
- 7702: @@
- 7703: There is nothing out of the ordinary here.
- 7704: You can hear a strange voice... "Items, items, la la la la la`t"
- 7705: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7706: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7707: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7708: Now, listen close...
- 7709: Oh... Well, if that's the case, I'm outta here.
- 7710: The Goblin slipped away when you were not looking...
- 7711: You can hear a strange, raspy voice...
- 7712: I travel......hear lots... Hear...stories... Can tell...if...
- 7713: .........listen......
- 7714: Oh...... ...outta here.........
- 7715: Do you want to hear a story? [No, thank you./Let's hear one./Let's hear another!]
- 7716: What story would you like to be told? [On second thought, maybe later./Death Cares Not./No Time Like the Future(pt.1)./No Time Like the Future(pt.2)./No Time Like the Future(pt.3)./No Time Like the Future(pt.4)./Sin(pt.1)./Sin(pt.2)./Sin(pt.3)./Sin(pt.4)./Vessel of Light.]
- 7717: What story would you like to be told? [On second thought, maybe later./@]
- 7718: 
+ 7607: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7608: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7609: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7610: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7611: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7612: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7613: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7614: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7615: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7616: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7617: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7618: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7619: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7620: ($20%._AM$0$P14u$6E7)
+ 7621: ($20%._BM$0$P14u$6E7)
+ 7622: ($20%._CM$0$P14u$6E7)
+ 7623: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7624: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7625: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7626: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7627: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7628: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7629: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7630: (AIMID* h\9qE5=)
+ 7631: (BIMID* h\9qE5=)
+ 7632: (CIMID* h\9qE5=)
+ 7633: (AIID* h\5=)
+ 7634: (BIID* h\5=)
+ 7635: (CIID* h\5=)
+ 7636: (AM7EI$P10f$P16q* h\5=)
+ 7637: (BM7EI$P10f$P16q* h\5=)
+ 7638: (CM7EI$P10f$P16q* h\5=)
+ 7639: $2097706ADH"=_$P13|$:E+\9q
+ 7640: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
+ 7641: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
+ 7642: Only <Player> can enter the battlefield.
+ 7643: The time limit for this battle is $3 minutes.
+ 7644: There is a crack in the $3. It no longer contains a monster.
+ 7645: A crack has formed on the $3, and the beast inside has been unleashed!
+ 7646: Boss mode : $6!!
+ 7647: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7648: $7
+ 7649: DEBUG1
+ 7650: $T&$:I$P16_i)$4719207" $P16_i
+ 7651: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
+ 7652: iDEBUG$3998261$3{$3X$3|$3b$3vB
+ 7653: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
+ 7654: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
+ 7655: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
+ 7656: PARTY0F$1 PARTY1$5259265ARTY2F$3
+ 7657: PARTY3F$1 PARTY4$5259265ARTY5F$3
+ 7658: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
+ 7659: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
+ 7660: CLI_NUM0 = $0
+ 7661: CLI_NUM1 = $1
+ 7662: CLI_NUM2 = $2
+ 7663: CLI_NUM3 = $3
+ 7664: CLI_NUM4 = $4
+ 7665: CLI_NUM5 = $5
+ 7666: CLI_NUM6 = $6
+ 7667: CLI_NUM7 = $6
+ 7668: Skip the event? [Yes./No.]
+ 7669: Battlefield clear time: $3 second[/s]!
+ 7670: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+ 7671: The current battlefield clear time record is $3 second[/s].
+ 7672: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+ 7673: Called the NPC! PC ID = $0! RESULT = $1!
+ 7674: Got rid of the NPC! PC ID = $0!
+ 7675: The NPC has fallen, and he can't get up! Leaving room A!
+ 7676: The NPC has fallen, and he can't get up! Leaving room B!
+ 7677: The NPC has fallen, and he can't get up! Leaving room C!
+ 7678: The NPC has fallen, and he can't get up! Leaving room D!
+ 7679: All party members have fallen in battle. Now leaving the battlefield.
+ 7680: Everybody's fallen in room A, and they can't get up! Leaving room A!
+ 7681: Everybody's fallen in room B, and they can't get up! Leaving room B!
+ 7682: Everybody's fallen in room C, and they can't get up! Leaving room C!
+ 7683: Everybody's fallen in room D, and they can't get up! Leaving room D!
+ 7684: Everybody's fallen in room E, and they can't get up! Leaving room E!
+ 7685: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
+ 7686: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
+ 7687: What the hell is that number!? It's not possible!!!
+ 7688: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+ 7689: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+ 7690: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+ 7691: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+ 7692: That record is held by $5 adventurers, including %0!
+ 7693: That record is held by %0!
+ 7694: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+ 7695: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7696: A malignant force escapes from your $3.
+ 7697: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+ 7698: Your $3 is calling out to something...
+ 7699: The $0 has a large crack running straight down the side.
+ 7700: Something awakens owing to the presence of the $3...
+ 7701: The oath has been fulfilled owing to the power of your $3.
+ 7702: $3{$3^$3$97F$31V$P10i]\7
+ 7703: @@
+ 7704: There is nothing out of the ordinary here.
+ 7705: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7706: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7707: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7708: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7709: Now, listen close...
+ 7710: Oh... Well, if that's the case, I'm outta here.
+ 7711: The Goblin slipped away when you were not looking...
+ 7712: You can hear a strange, raspy voice...
+ 7713: I travel......hear lots... Hear...stories... Can tell...if...
+ 7714: .........listen......
+ 7715: Oh...... ...outta here.........
+ 7716: Do you want to hear a story? [No, thank you./Let's hear one./Let's hear another!]
+ 7717: What story would you like to be told? [On second thought, maybe later./Death Cares Not./No Time Like the Future(pt.1)./No Time Like the Future(pt.2)./No Time Like the Future(pt.3)./No Time Like the Future(pt.4)./Sin(pt.1)./Sin(pt.2)./Sin(pt.3)./Sin(pt.4)./Vessel of Light.]
+ 7718: What story would you like to be told? [On second thought, maybe later./@]
  7719: 
- 7720: Teleport to the Walk of Echoes? [Yes./No.]
- 7721: Ugh. I knew it was a mistake to come here. My whiskers are beginning to wilt. Droop most unseemly.
- 7722: Here. You'll need this if you want to proceed any further. Make some kind of headway.
- 7723: Just please--don't lose it? Not that I don't have any spares, mind you...
- 7724: You know, <Player>, despite my affection for you, you can be downright insufferable. A pain in the rump. Here you go.
- 7725: Please, do your thing before my whiskers fall off.
- 7726: I shudder to think of what might become of this world...
- 7727: Over there, standing right in front of us, is your so-called god of darkness.
- 7728: Simply put, it's Promathia in his ascended form. Absolute and complete.
- 7729: And this world...he's the only thing left.
- 7730: Come now--it's up to you to make the first move. A little parley never hurt anyone!
- 7731: Well, never again would I have thought to see one such as thee.
- 7732: Answers thou seekest. Answers thou shalt have.
- 7733: Darkness hath many forms. Apathy. Arrogance. Cowardice. Envy. Rage.
- 7734: And, of course, death.
- 7735: These are all powers over which I hold dominion. Yet the Cloud of Darkness is a wholly separate entity.
- 7736: So if it's not your darkness, then...what, exactly?
- 7737: The Cloud of Darkness is destined to envelop all...
- 7738: We shall finally have release. Dost thou wish to meet Altana in this despite?
- 7739: "Release"? You wish to die?
- 7740: <Player>, I think he might be cracked. Lost his marbles. But since he's asking for it, why not give him the old what-for?
- 7741: How do you respond? [Why do you want to die?/Please, meet Altana.../I didn't catch that.]
- 7742: Would that not be the only way to stop the cloud's approach? Through the death of a god?
- 7743: No. Mine energy is best spent waiting for oblivion.
- 7744: Gyaaaaaaaaah! <Player>! <Player>!
- 7745: A day late...and a gil short.
- 7746: N-not you again!
- 7747: Ah, almighty god of darkness. What did you accomplish by absorbing <Player>'s tainted energies? Show me what you have done.
- 7748: This radiance... I had never imagined such a thing to be possible for one such as thee!
- 7749: So be it. I shall reclaim what I had once given.
- 7750: You are still unclean, <Player>. Abandon your futile hope of turning into a [god/goddess] of light.
- 7751: And to ensure my victory, I shall fill you with impurity once more.
- 7752: Urk...
- 7753: Promathia, why do you intervene!?
- 7754: False god, why do you intervene!?
- 7755: Thou art an appropriate vessel for the twilight, yet thou remainest chained to the Cloud of Darkness.
- 7756: Come, and find thy true form...as a god of darkness!
- 7757: Oh, heavens above--!
- 7758: Urf...what just happened?
- 7759: Now I'm completely confused! Baffled and bemused! How'd we get all the way out here?
- 7760: <Player>, I thought you had already taken care of your "friend"!
- 7761: The masked madman is you from the future?
- 7762: Perhaps I was a bit too hasty. Jumped to conclusions.
- 7763: Well, that would explain why the world didn't go all pear-shaped when he popped into existence.
- 7764: So what I saw when he first appeared in the Walk of Echoes was more than just a phantasm. A figment of my imagination.
- 7765: He's...you.
- 7766: At least there's one conclusion we can draw from this: you might be able to kill him, but he can't kill you.
- 7767: Ah, but perhaps we're too late.
- 7768: <Player>... Come to me.
- 7769: He's there, <Player>. Waiting for you.
- 7770: He's received [the dark god/Promathia]'s power and been reborn as a divinity himself...
- 7771: I can't go any further. He's only permitted you to enter.
- 7772: The demon within has become the demon without. Stay on your guard.
- 7773: Look what the cat dragged in.
- 7774: [He/Promathia]...the god of darkness...has seen fit to render unto me the powers of godhood.
- 7775: And the Cloud of Darkness's hold over me has been utterly obliterated.
- 7776: And so now, I am able to lead you.
- 7777: ...To the proper future.
- 7778: To the proper Reckoning.
- 7779: Come! Witness what I have witnessed!
- 7780: Witness what shall come to pass!
- 7781: You became a god of light, but I was overtaken by the Cloud of Darkness, doubtless owing to being an entity of pure darkness.
- 7782: The cloud cares not for light and darkness, for neither can stop its eternal hunger.
- 7783: Our separating into two entities was wholly without meaning.
- 7784: The time has come for us to return to our world...and for me to return something of yours.
- 7785: Altana and I await you.
- 7786: You made it back in one piece! None the worse for wear!
- 7787: Then the world ends exactly as I had been told. Though I understood it intellectually, hearing it again casts a gloom over this entire place. Chills me to the core.
- 7788: Hold on--let's think about this a tad.
- 7789: The future you saw was what would come to pass if you become a [god/goddess] of light, no?
- 7790: And those who joined you from the crystal...
- 7791: Their spirits rejoined you once more even though they no longer existed in this world.
- 7792: Even though you could call people back from the grave, it amounted to nothing in the end.
- 7793: Was your becoming a [god/goddess] futile? [Yes, it was./No, it wasn't.]
- 7794: ...I see. The Cloud of Darkness cannot be stopped by either the you-you or the other-you.
- 7795: All life vanished from Vana'diel either way...
- 7796: I think I understand now.
- 7797: That's why the other you tried to prevent the Reckoning.
- 7798: ...I see. So if you become a [god/goddess] of light, then you'll remain even after the rest have gone.
- 7799: But Vana'diel will remain shattered...with only Iroha left.
- 7800: Ah, and then there's the matter of the entity that was born of your darkness.
- 7801: The cloud scrambled its brain and made it chase Iroha all the way back here.
- 7802: Then there's one question left: where do we go from here?
- 7803: Huh!? Go to Altana!? Have you gone mad? Totally taken leave of your senses?
- 7804: Not that I don't know where she is, mind you...
- 7805: But knowing where she is and knowing how to get there are two entirely different matters.
- 7806: Not even I can find my way there.
- 7807: But if your friend Selh'teus turned into a crystal, then he may be able to open a path for you. Guide you along the way.
- 7808: You've got your plan--now put it into action!
- 7809: You have broken the clear time record for "[No Time Like the Future/]"!
- 7810: The current battlefield clear time record for "[No Time Like the Future/]" is $3 second[/s].
- 7811: The current battlefield clear time record for "[No Time Like the Future/]" is $3 minute[/s] $2 second[/s].
- 7812: Entering the battlefield for "[No Time Like the Future/]"!
- 7813: Which battlefield will you enter? [None./No Time Like the Future./]
+ 7720: 
+ 7721: Teleport to the Walk of Echoes? [Yes./No.]
+ 7722: Ugh. I knew it was a mistake to come here. My whiskers are beginning to wilt. Droop most unseemly.
+ 7723: Here. You'll need this if you want to proceed any further. Make some kind of headway.
+ 7724: Just please--don't lose it? Not that I don't have any spares, mind you...
+ 7725: You know, <Player>, despite my affection for you, you can be downright insufferable. A pain in the rump. Here you go.
+ 7726: Please, do your thing before my whiskers fall off.
+ 7727: I shudder to think of what might become of this world...
+ 7728: Over there, standing right in front of us, is your so-called god of darkness.
+ 7729: Simply put, it's Promathia in his ascended form. Absolute and complete.
+ 7730: And this world...he's the only thing left.
+ 7731: Come now--it's up to you to make the first move. A little parley never hurt anyone!
+ 7732: Well, never again would I have thought to see one such as thee.
+ 7733: Answers thou seekest. Answers thou shalt have.
+ 7734: Darkness hath many forms. Apathy. Arrogance. Cowardice. Envy. Rage.
+ 7735: And, of course, death.
+ 7736: These are all powers over which I hold dominion. Yet the Cloud of Darkness is a wholly separate entity.
+ 7737: So if it's not your darkness, then...what, exactly?
+ 7738: The Cloud of Darkness is destined to envelop all...
+ 7739: We shall finally have release. Dost thou wish to meet Altana in this despite?
+ 7740: "Release"? You wish to die?
+ 7741: <Player>, I think he might be cracked. Lost his marbles. But since he's asking for it, why not give him the old what-for?
+ 7742: How do you respond? [Why do you want to die?/Please, meet Altana.../I didn't catch that.]
+ 7743: Would that not be the only way to stop the cloud's approach? Through the death of a god?
+ 7744: No. Mine energy is best spent waiting for oblivion.
+ 7745: Gyaaaaaaaaah! <Player>! <Player>!
+ 7746: A day late...and a gil short.
+ 7747: N-not you again!
+ 7748: Ah, almighty god of darkness. What did you accomplish by absorbing <Player>'s tainted energies? Show me what you have done.
+ 7749: This radiance... I had never imagined such a thing to be possible for one such as thee!
+ 7750: So be it. I shall reclaim what I had once given.
+ 7751: You are still unclean, <Player>. Abandon your futile hope of turning into a [god/goddess] of light.
+ 7752: And to ensure my victory, I shall fill you with impurity once more.
+ 7753: Urk...
+ 7754: Promathia, why do you intervene!?
+ 7755: False god, why do you intervene!?
+ 7756: Thou art an appropriate vessel for the twilight, yet thou remainest chained to the Cloud of Darkness.
+ 7757: Come, and find thy true form...as a god of darkness!
+ 7758: Oh, heavens above--!
+ 7759: Urf...what just happened?
+ 7760: Now I'm completely confused! Baffled and bemused! How'd we get all the way out here?
+ 7761: <Player>, I thought you had already taken care of your "friend"!
+ 7762: The masked madman is you from the future?
+ 7763: Perhaps I was a bit too hasty. Jumped to conclusions.
+ 7764: Well, that would explain why the world didn't go all pear-shaped when he popped into existence.
+ 7765: So what I saw when he first appeared in the Walk of Echoes was more than just a phantasm. A figment of my imagination.
+ 7766: He's...you.
+ 7767: At least there's one conclusion we can draw from this: you might be able to kill him, but he can't kill you.
+ 7768: Ah, but perhaps we're too late.
+ 7769: <Player>... Come to me.
+ 7770: He's there, <Player>. Waiting for you.
+ 7771: He's received [the dark god/Promathia]'s power and been reborn as a divinity himself...
+ 7772: I can't go any further. He's only permitted you to enter.
+ 7773: The demon within has become the demon without. Stay on your guard.
+ 7774: Look what the cat dragged in.
+ 7775: [He/Promathia]...the god of darkness...has seen fit to render unto me the powers of godhood.
+ 7776: And the Cloud of Darkness's hold over me has been utterly obliterated.
+ 7777: And so now, I am able to lead you.
+ 7778: ...To the proper future.
+ 7779: To the proper Reckoning.
+ 7780: Come! Witness what I have witnessed!
+ 7781: Witness what shall come to pass!
+ 7782: You became a god of light, but I was overtaken by the Cloud of Darkness, doubtless owing to being an entity of pure darkness.
+ 7783: The cloud cares not for light and darkness, for neither can stop its eternal hunger.
+ 7784: Our separating into two entities was wholly without meaning.
+ 7785: The time has come for us to return to our world...and for me to return something of yours.
+ 7786: Altana and I await you.
+ 7787: You made it back in one piece! None the worse for wear!
+ 7788: Then the world ends exactly as I had been told. Though I understood it intellectually, hearing it again casts a gloom over this entire place. Chills me to the core.
+ 7789: Hold on--let's think about this a tad.
+ 7790: The future you saw was what would come to pass if you become a [god/goddess] of light, no?
+ 7791: And those who joined you from the crystal...
+ 7792: Their spirits rejoined you once more even though they no longer existed in this world.
+ 7793: Even though you could call people back from the grave, it amounted to nothing in the end.
+ 7794: Was your becoming a [god/goddess] futile? [Yes, it was./No, it wasn't.]
+ 7795: ...I see. The Cloud of Darkness cannot be stopped by either the you-you or the other-you.
+ 7796: All life vanished from Vana'diel either way...
+ 7797: I think I understand now.
+ 7798: That's why the other you tried to prevent the Reckoning.
+ 7799: ...I see. So if you become a [god/goddess] of light, then you'll remain even after the rest have gone.
+ 7800: But Vana'diel will remain shattered...with only Iroha left.
+ 7801: Ah, and then there's the matter of the entity that was born of your darkness.
+ 7802: The cloud scrambled its brain and made it chase Iroha all the way back here.
+ 7803: Then there's one question left: where do we go from here?
+ 7804: Huh!? Go to Altana!? Have you gone mad? Totally taken leave of your senses?
+ 7805: Not that I don't know where she is, mind you...
+ 7806: But knowing where she is and knowing how to get there are two entirely different matters.
+ 7807: Not even I can find my way there.
+ 7808: But if your friend Selh'teus turned into a crystal, then he may be able to open a path for you. Guide you along the way.
+ 7809: You've got your plan--now put it into action!
+ 7810: You have broken the clear time record for "[No Time Like the Future/]"!
+ 7811: The current battlefield clear time record for "[No Time Like the Future/]" is $3 second[/s].
+ 7812: The current battlefield clear time record for "[No Time Like the Future/]" is $3 minute[/s] $2 second[/s].
+ 7813: Entering the battlefield for "[No Time Like the Future/]"!
+ 7814: Which battlefield will you enter? [None./No Time Like the Future./]

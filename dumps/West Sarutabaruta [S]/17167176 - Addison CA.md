@@ -21,15 +21,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C21      |        7201 |
+|       0 | 0x1C22      |        7202 |
 |       1 | 0x0004      |           4 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1C2E      |        7214 |
+|       3 | 0x1C2F      |        7215 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1C2F      |        7215 |
+|       5 | 0x1C30      |        7216 |
 |       6 | 0x0002      |           2 |
-|       7 | 0x1C30      |        7216 |
-|       8 | 0x1C31      |        7217 |
+|       7 | 0x1C31      |        7217 |
+|       8 | 0x1C32      |        7218 |
 |       9 | 0x0003      |           3 |
 |      10 | 0x0005      |           5 |
 |      11 | 0x0006      |           6 |
@@ -39,12 +39,12 @@
 |      15 | 0x7E9C3925  |  2124167461 |
 |      16 | 0x41808A    |     4292746 |
 |      17 | 0x1224650   |    19023440 |
-|      18 | 0x1C32      |        7218 |
-|      19 | 0x1C38      |        7224 |
-|      20 | 0x1C60      |        7264 |
+|      18 | 0x1C33      |        7219 |
+|      19 | 0x1C39      |        7225 |
+|      20 | 0x1C61      |        7265 |
 |      21 | 0x006F      |         111 |
-|      22 | 0x1C35      |        7221 |
-|      23 | 0x1C37      |        7223 |
+|      22 | 0x1C36      |        7222 |
+|      23 | 0x1C38      |        7224 |
 |      24 | 0x01E3      |         483 |
 |      25 | 0x0104      |         260 |
 |      26 | 0x0020      |          32 |
@@ -56,10 +56,10 @@
 |      32 | 0x001D      |          29 |
 |      33 | 0x001E      |          30 |
 |      34 | 0xFFFFFFFF  |  4294967295 |
-|      35 | 0x1C55      |        7253 |
+|      35 | 0x1C56      |        7254 |
 |      36 | 0x002D      |          45 |
 |      37 | 0x003C      |          60 |
-|      38 | 0x1C56      |        7254 |
+|      38 | 0x1C57      |        7255 |
 |      39 | 0x1017      |        4119 |
 |      40 | 0x1027      |        4135 |
 |      41 | 0x1056      |        4182 |
@@ -92,7 +92,7 @@
 |      68 | 0x153B      |        5435 |
 |      69 | 0x153F      |        5439 |
 |      70 | 0x0008      |           8 |
-|      71 | 0x1C57      |        7255 |
+|      71 | 0x1C58      |        7256 |
 |      72 | 0x0007      |           7 |
 |      73 | 0x0009      |           9 |
 |      74 | 0x000A      |          10 |
@@ -100,97 +100,97 @@
 |      76 | 0x000D      |          13 |
 |      77 | 0x000E      |          14 |
 |      78 | 0x0011      |          17 |
-|      79 | 0x1C58      |        7256 |
-|      80 | 0x1C59      |        7257 |
+|      79 | 0x1C59      |        7257 |
+|      80 | 0x1C5A      |        7258 |
 |      81 | 0x0017      |          23 |
 |      82 | 0x0018      |          24 |
-|      83 | 0x1C67      |        7271 |
+|      83 | 0x1C68      |        7272 |
 |      84 | 0x006D      |         109 |
-|      85 | 0x1EB9      |        7865 |
-|      86 | 0x1EBA      |        7866 |
-|      87 | 0x1C68      |        7272 |
+|      85 | 0x1EBA      |        7866 |
+|      86 | 0x1EBB      |        7867 |
+|      87 | 0x1C69      |        7273 |
 |      88 | 0x006A      |         106 |
 |      89 | 0x0032      |          50 |
 |      90 | 0x111110    |     1118480 |
-|      91 | 0x1EC0      |        7872 |
-|      92 | 0x1EBC      |        7868 |
+|      91 | 0x1EC1      |        7873 |
+|      92 | 0x1EBD      |        7869 |
 |      93 | 0x0065      |         101 |
 |      94 | 0x0066      |         102 |
 |      95 | 0x0067      |         103 |
 |      96 | 0x0068      |         104 |
 |      97 | 0x0069      |         105 |
-|      98 | 0x1C47      |        7239 |
-|      99 | 0x1C29      |        7209 |
-|     100 | 0x1C48      |        7240 |
-|     101 | 0x1C49      |        7241 |
+|      98 | 0x1C48      |        7240 |
+|      99 | 0x1C2A      |        7210 |
+|     100 | 0x1C49      |        7241 |
+|     101 | 0x1C4A      |        7242 |
 |     102 | 0x010A      |         266 |
 |     103 | 0x00C8      |         200 |
-|     104 | 0x1C33      |        7219 |
-|     105 | 0x1C39      |        7225 |
-|     106 | 0x1C3A      |        7226 |
-|     107 | 0x1C3B      |        7227 |
-|     108 | 0x1C3C      |        7228 |
-|     109 | 0x1C3D      |        7229 |
-|     110 | 0x1C46      |        7238 |
-|     111 | 0x1C3E      |        7230 |
-|     112 | 0x1C3F      |        7231 |
-|     113 | 0x1C40      |        7232 |
-|     114 | 0x1C41      |        7233 |
-|     115 | 0x1C42      |        7234 |
-|     116 | 0x1C43      |        7235 |
-|     117 | 0x1C44      |        7236 |
-|     118 | 0x1C61      |        7265 |
-|     119 | 0x1C62      |        7266 |
-|     120 | 0x1C63      |        7267 |
-|     121 | 0x1C64      |        7268 |
-|     122 | 0x1C65      |        7269 |
+|     104 | 0x1C34      |        7220 |
+|     105 | 0x1C3A      |        7226 |
+|     106 | 0x1C3B      |        7227 |
+|     107 | 0x1C3C      |        7228 |
+|     108 | 0x1C3D      |        7229 |
+|     109 | 0x1C3E      |        7230 |
+|     110 | 0x1C47      |        7239 |
+|     111 | 0x1C3F      |        7231 |
+|     112 | 0x1C40      |        7232 |
+|     113 | 0x1C41      |        7233 |
+|     114 | 0x1C42      |        7234 |
+|     115 | 0x1C43      |        7235 |
+|     116 | 0x1C44      |        7236 |
+|     117 | 0x1C45      |        7237 |
+|     118 | 0x1C62      |        7266 |
+|     119 | 0x1C63      |        7267 |
+|     120 | 0x1C64      |        7268 |
+|     121 | 0x1C65      |        7269 |
+|     122 | 0x1C66      |        7270 |
 
 ## String References
 
-- **7201**: What are you doing here? This is no place for civilians.
-- **7209**: I am sorry. You do not have enough Allied Notes.
-- **7214**: Greetings. I am % of the San d'Orian Provincial Knights.
-- **7215**: Greetings. I am % of the Bastokan Legion.
-- **7216**: Greetings. I am % of the Federation of Windurst.
-- **7217**: Greetings. I am %, Campaign Arbiter for the Allied Forces.
-- **7218**: What can I help you with? [Nothing./Performance assessment./New Allied Tags./Temporary items./Union registration./Teleportation./Information on the Allied Campaign.]
-- **7219**: What would you like to know? [Nothing. I'm sorry./About performance assessment./About Allied Tags./About temporary items./About Unions.]
-- **7221**: Understood. I shall now judge your performance and award the proper remuneration.
-- **7223**: Understood. I shall prepare a new set of tags for you now.
-- **7224**: You've already undergone an evaluation for this battle, or had you forgotten? As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins.
-- **7225**: Anyone wearing Allied Tags while participating in a campaign battle will be judged on their overall performance.
-- **7226**: Soldiers will be evaluated not only on their fighting skills, but also on how much they contribute to the efforts of their allies through means such as healing and enhancing.
-- **7227**: However, beware that if you leave the area before being assessed, you will be deemed a deserter and will forfeit all rewards earned that day.
-- **7228**: Also, while there are no immediate penalties for being knocked out, falling in battle will significantly lower the score given to you.
-- **7229**: When you are ready to receive compensation for your work on the field, return to me and I shall assess your performance and provide you with your payment.
-- **7230**: Allied Tags are a special type of identification given to all participants of Allied Campaign battles.
-- **7231**: There are benefits, as well as drawbacks, to wearing the tags. One of the benefits is that in the case you are knocked out on the battlefield, you will not lose any experience points.
-- **7232**: However, some of the drawbacks include the inability to improve skills and earn experience points for individual kills, as well as the right to loot fallen enemies.
-- **7233**: Temporary items can be purchased in exchange for Allied Notes.
-- **7234**: There are several different varieties of items, but they all have one thing in common--they can only be used on the battlefield they were issued.
-- **7235**: It is highly recommended that you first survey a battle's conditions and then select the supplies that you believe will benefit you most.
-- **7236**: Please remember that all temporary items you carry on your person will be confiscated in the event that you leave the area.
-- **7238**: That is all.
-- **7239**: I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2.
-- **7240**: Complete transaction and return to capital? [Yes./No.]
-- **7241**: Understood. Good work today, <Player>.
-- **7253**: Let me show you the list of items currently available to you.
-- **7254**: Select a category: [Quit./$0-Note Items./$1-Note Items./$2-Note Items.]
-- **7255**: Which item would you like to see? [Quit./$0/$1/$2/$3/$4/$5/$6/$7/$8/$9/$10/$11/$12/$13/$14/$15/$16]
-- **7256**: You currently possess $' Allied Note[/s].
-- **7257**: Proceed with the transaction? [Yes./No.]
-- **7264**: I am sorry, <Player>, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official.
-- **7265**: Oh ho! Keen to join a Union, are we? Very well. Listen up and I shall tell you all you need to know.
-- **7266**: In order to better coordinate Allied efforts against the beastman menace, we have instituted a system of ad hoc tactical regiments called "Unions." With five units to a battlefield, union registration is open to any proven soldier in possession of Allied Tags.
-- **7267**: In return for their aid in advancing the war effort, union registrants will be eligible to earn a share of the spoils of war.
-- **7268**: Needless to say, the choicest rewards will be reserved for those unions which make the greatest contributions in combat. Prove your mettle on the field of battle, and you will earn glory for your union, as well as a sizable bounty of your own.
-- **7269**: Be forewarned that your commitment to your union comes first and foremost. In the aftermath of battle, you will not be permitted to reap rewards from your individual exploits until your union has distributed its plunder.
-- **7271**: Register for a union? [Yes./No.]
-- **7272**: [Transfer/Resign] from your current union? [Yes./No.]
-- **7865**: What will you do? [Nothing./Transfer to another union./Resign union membership.]
-- **7866**: Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed.
-- **7868**: Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]
-- **7872**: I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war...
+- **7202**: What are you doing here? This is no place for civilians.
+- **7210**: I am sorry. You do not have enough Allied Notes.
+- **7215**: Greetings. I am % of the San d'Orian Provincial Knights.
+- **7216**: Greetings. I am % of the Bastokan Legion.
+- **7217**: Greetings. I am % of the Federation of Windurst.
+- **7218**: Greetings. I am %, Campaign Arbiter for the Allied Forces.
+- **7219**: What can I help you with? [Nothing./Performance assessment./New Allied Tags./Temporary items./Union registration./Teleportation./Information on the Allied Campaign.]
+- **7220**: What would you like to know? [Nothing. I'm sorry./About performance assessment./About Allied Tags./About temporary items./About Unions.]
+- **7222**: Understood. I shall now judge your performance and award the proper remuneration.
+- **7224**: Understood. I shall prepare a new set of tags for you now.
+- **7225**: You've already undergone an evaluation for this battle, or had you forgotten? As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins.
+- **7226**: Anyone wearing Allied Tags while participating in a campaign battle will be judged on their overall performance.
+- **7227**: Soldiers will be evaluated not only on their fighting skills, but also on how much they contribute to the efforts of their allies through means such as healing and enhancing.
+- **7228**: However, beware that if you leave the area before being assessed, you will be deemed a deserter and will forfeit all rewards earned that day.
+- **7229**: Also, while there are no immediate penalties for being knocked out, falling in battle will significantly lower the score given to you.
+- **7230**: When you are ready to receive compensation for your work on the field, return to me and I shall assess your performance and provide you with your payment.
+- **7231**: Allied Tags are a special type of identification given to all participants of Allied Campaign battles.
+- **7232**: There are benefits, as well as drawbacks, to wearing the tags. One of the benefits is that in the case you are knocked out on the battlefield, you will not lose any experience points.
+- **7233**: However, some of the drawbacks include the inability to improve skills and earn experience points for individual kills, as well as the right to loot fallen enemies.
+- **7234**: Temporary items can be purchased in exchange for Allied Notes.
+- **7235**: There are several different varieties of items, but they all have one thing in common--they can only be used on the battlefield they were issued.
+- **7236**: It is highly recommended that you first survey a battle's conditions and then select the supplies that you believe will benefit you most.
+- **7237**: Please remember that all temporary items you carry on your person will be confiscated in the event that you leave the area.
+- **7239**: That is all.
+- **7240**: I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2.
+- **7241**: Complete transaction and return to capital? [Yes./No.]
+- **7242**: Understood. Good work today, <Player>.
+- **7254**: Let me show you the list of items currently available to you.
+- **7255**: Select a category: [Quit./$0-Note Items./$1-Note Items./$2-Note Items.]
+- **7256**: Which item would you like to see? [Quit./$0/$1/$2/$3/$4/$5/$6/$7/$8/$9/$10/$11/$12/$13/$14/$15/$16]
+- **7257**: You currently possess $' Allied Note[/s].
+- **7258**: Proceed with the transaction? [Yes./No.]
+- **7265**: I am sorry, <Player>, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official.
+- **7266**: Oh ho! Keen to join a Union, are we? Very well. Listen up and I shall tell you all you need to know.
+- **7267**: In order to better coordinate Allied efforts against the beastman menace, we have instituted a system of ad hoc tactical regiments called "Unions." With five units to a battlefield, union registration is open to any proven soldier in possession of Allied Tags.
+- **7268**: In return for their aid in advancing the war effort, union registrants will be eligible to earn a share of the spoils of war.
+- **7269**: Needless to say, the choicest rewards will be reserved for those unions which make the greatest contributions in combat. Prove your mettle on the field of battle, and you will earn glory for your union, as well as a sizable bounty of your own.
+- **7270**: Be forewarned that your commitment to your union comes first and foremost. In the aftermath of battle, you will not be permitted to reap rewards from your individual exploits until your union has distributed its plunder.
+- **7272**: Register for a union? [Yes./No.]
+- **7273**: [Transfer/Resign] from your current union? [Yes./No.]
+- **7866**: What will you do? [Nothing./Transfer to another union./Resign union membership.]
+- **7867**: Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed.
+- **7869**: Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]
+- **7873**: I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war...
 
 ## Events
 
@@ -239,7 +239,7 @@
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7201*)
+  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7202*)
     → "What are you doing here? This is no place for civilians."
   5: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000E [0x21] END_EVENT
@@ -534,7 +534,7 @@ SUBROUTINE_0019:
   6: 0x0025 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0026 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x0027 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0039
-  9: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7214*)
+  9: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7215*)
     → "Greetings. I am % of the San d'Orian Provincial Knights."
  10: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0033 [0x01] GOTO 0x006F
@@ -589,7 +589,7 @@ SUBROUTINE_00F5:
  48: 0x013E [0x02] IF !(Work_Zone[8] == ExtData[1]->WorkLocal[6]) GOTO 0x0155
  49: 0x0146 [0x02] IF !(Work_Zone[9] == ExtData[1]->WorkLocal[7]) GOTO 0x0155
  50: 0x014E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=3*, condition_work_offset=1*)
- 51: 0x0155 [0x24] CREATE_DIALOG(message_id=7218*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 51: 0x0155 [0x24] CREATE_DIALOG(message_id=7219*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What can I help you with? [Nothing./Performance assessment./New Allied Tags./Temporary items./Union registration./Teleportation./Information on the Allied Campaign.]"
  52: 0x015C [0x25] WAIT_DIALOG_SELECT()
  53: 0x015D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0168
@@ -602,13 +602,13 @@ SUBROUTINE_00F5:
  60: 0x0186 [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x0194
  61: 0x018E [0x1A] CALL_SUBROUTINE(address=0x0210)
  62: 0x0191 [0x01] GOTO 0x0198
- 63: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7224*)
+ 63: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7225*)
     → "You've already undergone an evaluation for this battle, or had you forgotten? As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins."
  64: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0198:
  65: 0x0198 [0x01] GOTO 0x019F
- 66: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
+ 66: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → "I am sorry, <Player>, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
  67: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -618,7 +618,7 @@ SUBROUTINE_019F:
  70: 0x01AA [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x01B8
  71: 0x01B2 [0x1A] CALL_SUBROUTINE(address=0x0229)
  72: 0x01B5 [0x01] GOTO 0x01BC
- 73: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
+ 73: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → "I am sorry, <Player>, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
  74: 0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -650,7 +650,7 @@ SUBROUTINE_0203:
 
 SUBROUTINE_0205:
  93: 0x0205 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 94: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=7221*)
+ 94: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=7222*)
     → "Understood. I shall now judge your performance and award the proper remuneration."
  95: 0x0209 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x020A [0x03] Work_Zone[1] = 5*
@@ -658,7 +658,7 @@ SUBROUTINE_0205:
 
 SUBROUTINE_0210:
  98: 0x0210 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 99: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=7223*)
+ 99: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=7224*)
     → "Understood. I shall prepare a new set of tags for you now."
 100: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0215 [0x73] EventEntity casts magic 483* on LocalPlayer
@@ -979,7 +979,7 @@ SUBROUTINE_083B:
 402: 0x095C [0x0F] ExtData[1]->WorkLocal[15] ^= 4294967295*
 403: 0x0961 [0x10] ExtData[1]->WorkLocal[15] <<= 1*
 404: 0x0966 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[15], bit_index_work_offset=0*, condition_work_offset=1*)
-405: 0x096D [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+405: 0x096D [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "Let me show you the list of items currently available to you."
 406: 0x0970 [0x23] WAIT_FOR_DIALOG_INTERACTION
 407: 0x0971 [0x05] ExtData[1]->WorkLocal[17] = 1
@@ -1001,7 +1001,7 @@ SUBROUTINE_09A3:
 419: 0x09AB [0x03] Work_Zone[2] = 30*
 420: 0x09B0 [0x03] Work_Zone[3] = 45*
 421: 0x09B5 [0x03] Work_Zone[4] = 60*
-422: 0x09BA [0x24] CREATE_DIALOG(message_id=7254*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+422: 0x09BA [0x24] CREATE_DIALOG(message_id=7255*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "Select a category: [Quit./$0-Note Items./$1-Note Items./$2-Note Items.]"
 423: 0x09C1 [0x25] WAIT_DIALOG_SELECT()
 424: 0x09C2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09D0
@@ -1075,7 +1075,7 @@ SUBROUTINE_0AFF:
 
 SUBROUTINE_0B13:
 490: 0x0B13 [0x02] IF !(ExtData[1]->WorkLocal[18] == 0*) GOTO 0x0CA9
-491: 0x0B1B [0x24] CREATE_DIALOG(message_id=7255*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+491: 0x0B1B [0x24] CREATE_DIALOG(message_id=7256*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "Which item would you like to see? [Quit./$0/$1/$2/$3/$4/$5/$6/$7/$8/$9/$10/$11/$12/$13/$14/$15/$16]"
 492: 0x0B22 [0x25] WAIT_DIALOG_SELECT()
 493: 0x0B23 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B3A
@@ -1139,11 +1139,11 @@ SUBROUTINE_0C4A:
 549: 0x0C52 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=ExtData[1]->WorkLocal[20], source=Work_Zone[0])
 550: 0x0C5B [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[8])
 551: 0x0C5E [0x03] Work_Zone_1700[31] = ExtData[1]->WorkLocal[9]
-552: 0x0C63 [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+552: 0x0C63 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "You currently possess $' Allied Note[/s]."
 553: 0x0C66 [0x23] WAIT_FOR_DIALOG_INTERACTION
 554: 0x0C67 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-555: 0x0C6A [0x24] CREATE_DIALOG(message_id=7257*, default_option=1*, option_flags=0*)
+555: 0x0C6A [0x24] CREATE_DIALOG(message_id=7258*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? [Yes./No.]"
 556: 0x0C71 [0x25] WAIT_DIALOG_SELECT()
 557: 0x0C72 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C92
@@ -1176,7 +1176,7 @@ SUBROUTINE_0CAD:
 580: 0x0D00 [0x1C] WAIT(60* ticks)
 581: 0x0D03 [0x03] ExtData[1]->WorkLocal[35] = 0*
 582: 0x0D08 [0x02] IF !(ExtData[1]->WorkLocal[26] == 0*) GOTO 0x0D3B
-583: 0x0D10 [0x24] CREATE_DIALOG(message_id=7271*, default_option=1*, option_flags=0*)
+583: 0x0D10 [0x24] CREATE_DIALOG(message_id=7272*, default_option=1*, option_flags=0*)
     → "Register for a union? [Yes./No.]"
 584: 0x0D17 [0x25] WAIT_DIALOG_SELECT()
 585: 0x0D18 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D28
@@ -1188,7 +1188,7 @@ SUBROUTINE_0CAD:
 
 SUBROUTINE_0D38:
 591: 0x0D38 [0x01] GOTO 0x0DE5
-592: 0x0D3B [0x24] CREATE_DIALOG(message_id=7865*, default_option=0*, option_flags=0*)
+592: 0x0D3B [0x24] CREATE_DIALOG(message_id=7866*, default_option=0*, option_flags=0*)
     → "What will you do? [Nothing./Transfer to another union./Resign union membership.]"
 593: 0x0D42 [0x25] WAIT_DIALOG_SELECT()
 594: 0x0D43 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D53
@@ -1197,11 +1197,11 @@ SUBROUTINE_0D38:
 597: 0x0D53 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D9C
 598: 0x0D5B [0x02] IF !(ExtData[1]->WorkLocal[29] == 1*) GOTO 0x0D6C
 599: 0x0D63 [0x03] Work_Zone[2] = 0*
-600: 0x0D68 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
+600: 0x0D68 [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
     → "Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed."
 601: 0x0D6B [0x23] WAIT_FOR_DIALOG_INTERACTION
 602: 0x0D6C [0x03] Work_Zone[2] = 0*
-603: 0x0D71 [0x24] CREATE_DIALOG(message_id=7272*, default_option=1*, option_flags=0*)
+603: 0x0D71 [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
     → "[Transfer/Resign] from your current union? [Yes./No.]"
 604: 0x0D78 [0x25] WAIT_DIALOG_SELECT()
 605: 0x0D79 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D89
@@ -1216,11 +1216,11 @@ SUBROUTINE_0D99:
 612: 0x0D9C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0DE5
 613: 0x0DA4 [0x02] IF !(ExtData[1]->WorkLocal[29] == 1*) GOTO 0x0DB5
 614: 0x0DAC [0x03] Work_Zone[2] = 1*
-615: 0x0DB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
+615: 0x0DB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
     → "Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed."
 616: 0x0DB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 617: 0x0DB5 [0x03] Work_Zone[2] = 1*
-618: 0x0DBA [0x24] CREATE_DIALOG(message_id=7272*, default_option=1*, option_flags=0*)
+618: 0x0DBA [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
     → "[Transfer/Resign] from your current union? [Yes./No.]"
 619: 0x0DC1 [0x25] WAIT_DIALOG_SELECT()
 620: 0x0DC2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DD2
@@ -1252,12 +1252,12 @@ SUBROUTINE_0DE5:
 642: 0x0E47 [0x02] IF !(ExtData[1]->WorkLocal[34] < 50*) GOTO 0x0E56
 643: 0x0E4F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[36], bit_index_work_offset=5*, condition_work_offset=1*)
 644: 0x0E56 [0x02] IF !(ExtData[1]->WorkLocal[36] == 1118480*) GOTO 0x0E6A
-645: 0x0E5E [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
+645: 0x0E5E [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
     → "I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war..."
 646: 0x0E61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 647: 0x0E62 [0x03] Work_Zone[1] = 109*
 648: 0x0E67 [0x01] GOTO 0x0ED2
-649: 0x0E6A [0x24] CREATE_DIALOG(message_id=7868*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
+649: 0x0E6A [0x24] CREATE_DIALOG(message_id=7869*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
     → "Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]"
 650: 0x0E71 [0x25] WAIT_DIALOG_SELECT()
 651: 0x0E72 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E82
@@ -1287,10 +1287,10 @@ SUBROUTINE_0ED3:
 671: 0x0ED4 [0x3E] IF !(Work_Zone[3] bit 0*) GOTO 0x0EFC
 672: 0x0EDB [0x02] IF !(Work_Zone[4] >= 10*) GOTO 0x0EF4
 673: 0x0EE3 [0x03] Work_Zone[2] = 10*
-674: 0x0EE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
+674: 0x0EE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 675: 0x0EEB [0x23] WAIT_FOR_DIALOG_INTERACTION
-676: 0x0EEC [0x48] [System] [7209*]:
+676: 0x0EEC [0x48] [System] [7210*]:
     → "I am sorry. You do not have enough Allied Notes."
 677: 0x0EEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 678: 0x0EF0 [0x1B] RETURN
@@ -1300,10 +1300,10 @@ SUBROUTINE_0EF9:
 680: 0x0EFC [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x0F25
 681: 0x0F04 [0x02] IF !(Work_Zone[4] >= 50*) GOTO 0x0F1D
 682: 0x0F0C [0x03] Work_Zone[2] = 50*
-683: 0x0F11 [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
+683: 0x0F11 [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 684: 0x0F14 [0x23] WAIT_FOR_DIALOG_INTERACTION
-685: 0x0F15 [0x48] [System] [7209*]:
+685: 0x0F15 [0x48] [System] [7210*]:
     → "I am sorry. You do not have enough Allied Notes."
 686: 0x0F18 [0x23] WAIT_FOR_DIALOG_INTERACTION
 687: 0x0F19 [0x1B] RETURN
@@ -1312,26 +1312,26 @@ SUBROUTINE_0F22:
 688: 0x0F22 [0x01] GOTO 0x0F43
 689: 0x0F25 [0x02] IF !(Work_Zone[4] >= 30*) GOTO 0x0F3E
 690: 0x0F2D [0x03] Work_Zone[2] = 30*
-691: 0x0F32 [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
+691: 0x0F32 [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 692: 0x0F35 [0x23] WAIT_FOR_DIALOG_INTERACTION
-693: 0x0F36 [0x48] [System] [7209*]:
+693: 0x0F36 [0x48] [System] [7210*]:
     → "I am sorry. You do not have enough Allied Notes."
 694: 0x0F39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 695: 0x0F3A [0x1B] RETURN
 
 SUBROUTINE_0F43:
-696: 0x0F43 [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
+696: 0x0F43 [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 697: 0x0F46 [0x23] WAIT_FOR_DIALOG_INTERACTION
-698: 0x0F47 [0x24] CREATE_DIALOG(message_id=7240*, default_option=1*, option_flags=0*)
+698: 0x0F47 [0x24] CREATE_DIALOG(message_id=7241*, default_option=1*, option_flags=0*)
     → "Complete transaction and return to capital? [Yes./No.]"
 699: 0x0F4E [0x25] WAIT_DIALOG_SELECT()
 700: 0x0F4F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F88
 701: 0x0F57 [0x03] Work_Zone[1] = 1*
 702: 0x0F5C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 703: 0x0F5E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-704: 0x0F60 [0x1D] PRINT_EVENT_MESSAGE(message_id=7241*)
+704: 0x0F60 [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
     → "Understood. Good work today, <Player>."
 705: 0x0F63 [0x73] EventEntity casts magic 266* on LocalPlayer
 706: 0x0F6E [0x1C] WAIT(260* ticks)
@@ -1347,7 +1347,7 @@ SUBROUTINE_0F93:
 SUBROUTINE_0F94:
 713: 0x0F94 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 714: 0x0F95 [0x03] ExtData[1]->WorkLocal[2] = 0*
-715: 0x0F9A [0x24] CREATE_DIALOG(message_id=7219*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+715: 0x0F9A [0x24] CREATE_DIALOG(message_id=7220*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What would you like to know? [Nothing. I'm sorry./About performance assessment./About Allied Tags./About temporary items./About Unions.]"
 716: 0x0FA1 [0x25] WAIT_DIALOG_SELECT()
 717: 0x0FA2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FAE

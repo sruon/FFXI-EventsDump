@@ -27,45 +27,45 @@
 |       3 | 0x00B0      |         176 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0006      |           6 |
-|       6 | 0x20C6      |        8390 |
+|       6 | 0x20C7      |        8391 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x20C7      |        8391 |
-|       9 | 0x20C8      |        8392 |
+|       8 | 0x20C8      |        8392 |
+|       9 | 0x20C9      |        8393 |
 |      10 | 0x002D      |          45 |
 |      11 | 0x0009      |           9 |
-|      12 | 0x20C9      |        8393 |
-|      13 | 0x20CA      |        8394 |
+|      12 | 0x20CA      |        8394 |
+|      13 | 0x20CB      |        8395 |
 |      14 | 0x003C      |          60 |
 |      15 | 0x001A      |          26 |
-|      16 | 0x20CB      |        8395 |
-|      17 | 0x20CC      |        8396 |
-|      18 | 0x20CD      |        8397 |
+|      16 | 0x20CC      |        8396 |
+|      17 | 0x20CD      |        8397 |
+|      18 | 0x20CE      |        8398 |
 |      19 | 0x001E      |          30 |
 |      20 | 0x0065      |         101 |
 |      21 | 0x0067      |         103 |
 |      22 | 0x00C8      |         200 |
-|      23 | 0x20CE      |        8398 |
-|      24 | 0x20CF      |        8399 |
-|      25 | 0x20D0      |        8400 |
-|      26 | 0x20D1      |        8401 |
+|      23 | 0x20CF      |        8399 |
+|      24 | 0x20D0      |        8400 |
+|      25 | 0x20D1      |        8401 |
+|      26 | 0x20D2      |        8402 |
 |      27 | 0x0080      |         128 |
-|      28 | 0x20D2      |        8402 |
+|      28 | 0x20D3      |        8403 |
 |      29 | 0x00B3      |         179 |
-|      30 | 0x20D3      |        8403 |
+|      30 | 0x20D4      |        8404 |
 |      31 | 0x00B4      |         180 |
 |      32 | 0x00EA      |         234 |
 |      33 | 0x0105      |         261 |
 |      34 | 0x0003      |           3 |
-|      35 | 0x20D4      |        8404 |
-|      36 | 0x20D5      |        8405 |
+|      35 | 0x20D5      |        8405 |
+|      36 | 0x20D6      |        8406 |
 |      37 | 0x006D      |         109 |
-|      38 | 0x20D6      |        8406 |
-|      39 | 0x20D7      |        8407 |
-|      40 | 0x20D8      |        8408 |
-|      41 | 0x20D9      |        8409 |
-|      42 | 0x20DA      |        8410 |
+|      38 | 0x20D7      |        8407 |
+|      39 | 0x20D8      |        8408 |
+|      40 | 0x20D9      |        8409 |
+|      41 | 0x20DA      |        8410 |
+|      42 | 0x20DB      |        8411 |
 |      43 | 0x0004      |           4 |
-|      44 | 0x20DB      |        8411 |
+|      44 | 0x20DC      |        8412 |
 |      45 | 0x00C9      |         201 |
 |      46 | 0x0002      |           2 |
 |      47 | 0x00D7      |         215 |
@@ -172,17 +172,17 @@
  22: 0x0071 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Ulzana (ID: 17224351/0x0106D29F))
  23: 0x0077 [0x1C] WAIT(6* ticks)
  24: 0x007A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Ulzana (ID: 17224351/0x0106D29F), Ulzana (ID: 17224351/0x0106D29F)], work=0*
- 25: 0x0089 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8390*]:
+ 25: 0x0089 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8391*]:
     → "Whaddaya want? I got no time for adventurers."
  26: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0091 [0x52] END_LOAD_SCHEDULER: End scheduler "or00" with entities [LocalPlayer, LocalPlayer], work=176*
  28: 0x00A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or01" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
  29: 0x00B1 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x00C4
- 30: 0x00B9 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8391*]:
+ 30: 0x00B9 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8392*]:
     → "Huh? Where'd you hear... Well, whatever."
  31: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00C1 [0x01] GOTO 0x00CC
- 33: 0x00C4 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8392*]:
+ 33: 0x00C4 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8393*]:
     → "You say you got business with me?"
  34: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -197,12 +197,12 @@ SUBROUTINE_00CC:
  42: 0x00F7 [0x52] END_LOAD_SCHEDULER: End scheduler "or01" with entities [LocalPlayer, LocalPlayer], work=176*
  43: 0x0106 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or02" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
  44: 0x0117 [0x1A] CALL_SUBROUTINE(address=0x05C4)
- 45: 0x011A [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8393*]:
+ 45: 0x011A [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8394*]:
     → "Silver Comet... What the hell are you bothering me about that old chocobo story for? You some kind of crackpot?"
  46: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0122 [0x52] END_LOAD_SCHEDULER: End scheduler "or02" with entities [LocalPlayer, LocalPlayer], work=176*
  48: 0x0131 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or03" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
- 49: 0x0142 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8394*]:
+ 49: 0x0142 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8395*]:
     → "Leave me alone, you loon."
  50: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x014A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sit1" with entities [Ulzana (ID: 17224351/0x0106D29F), Ulzana (ID: 17224351/0x0106D29F)], work=9*
@@ -214,20 +214,20 @@ SUBROUTINE_00CC:
  57: 0x0189 [0x6E] Ulzana (ID: 17224351/0x0106D29F) uses emote 26*
  58: 0x0190 [0x99] Wait for Ulzana (ID: 17224351/0x0106D29F) animation to complete
  59: 0x0195 [0x99] Wait for Ulzana (ID: 17224351/0x0106D29F) animation to complete
- 60: 0x019A [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8395*]:
+ 60: 0x019A [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8396*]:
     → "Can't you see I'm busy? This place gets too wet and too dark too quick to be wasting time chatting."
  61: 0x01A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x01A2 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ulzana (ID: 17224351/0x0106D29F), tag_num=0x07)
  63: 0x01A9 [0x27] REQ_SET(priority=0x10, entity_id=Ulzana (ID: 17224351/0x0106D29F), tag_num=0x08)
  64: 0x01B0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 65: 0x01B5 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8396*]:
+ 65: 0x01B5 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8397*]:
     → "Hold up a minute. If you bring me some $1, I might be willing to give you the time of day."
  66: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x01BD [0x2A] GET_REQ_LEVEL(level=16, entity_id=Ulzana (ID: 17224351/0x0106D29F))
  68: 0x01C3 [0x52] END_LOAD_SCHEDULER: End scheduler "or04" with entities [LocalPlayer, LocalPlayer], work=176*
  69: 0x01D2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or05" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
  70: 0x01E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Ulzana (ID: 17224351/0x0106D29F), Ulzana (ID: 17224351/0x0106D29F)], work=9*
- 71: 0x01F2 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8397*]:
+ 71: 0x01F2 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8398*]:
     → "Yep, three of those ought to do it. I'll give you until the day after tomorrow."
  72: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x01FA [0x1A] CALL_SUBROUTINE(address=0x05E5)
@@ -380,11 +380,11 @@ SUBROUTINE_00CC:
  20: 0x0290 [0x1A] CALL_SUBROUTINE(address=0x05C4)
  21: 0x0293 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Ulzana (ID: 17224351/0x0106D29F))
  22: 0x0299 [0x1C] WAIT(6* ticks)
- 23: 0x029C [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8398*]:
+ 23: 0x029C [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8399*]:
     → "You brought what I asked for? Careful with that stuff, it's powerful smelly."
  24: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x02A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Ulzana (ID: 17224351/0x0106D29F), Ulzana (ID: 17224351/0x0106D29F)], work=0*
- 26: 0x02B3 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8399*]:
+ 26: 0x02B3 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8400*]:
     → "It's good for hiding a person's scent, you see. Helps me get around."
  27: 0x02BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x02BB [0x1A] CALL_SUBROUTINE(address=0x05E5)
@@ -396,10 +396,10 @@ SUBROUTINE_00CC:
  34: 0x02E1 [0x52] END_LOAD_SCHEDULER: End scheduler "or00" with entities [LocalPlayer, LocalPlayer], work=176*
  35: 0x02F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or10" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
  36: 0x0301 [0x1A] CALL_SUBROUTINE(address=0x05C4)
- 37: 0x0304 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8400*]:
+ 37: 0x0304 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8401*]:
     → "Now, then. You wanted to hear about that chocobo, right?"
  38: 0x030B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x030C [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8401*]:
+ 39: 0x030C [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8402*]:
     → "She was one of the fastest chocobos I've ever ridden, but damn near uncontrollable. I don't know how Silver Comet's owner handled her."
  40: 0x0313 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0314 [0x1A] CALL_SUBROUTINE(address=0x05E5)
@@ -412,14 +412,14 @@ SUBROUTINE_00CC:
  48: 0x0338 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [Ulzana (ID: 17224351/0x0106D29F), Ulzana (ID: 17224351/0x0106D29F)], work=9*
  49: 0x0347 [0x1C] WAIT(30* ticks)
  50: 0x034A [0x6C] FADE_ENTITY_COLOR(entity_id=Unnamed NPC (ID: 17224353/0x0106D2A1), end_alpha=128*, fade_time=1*)
- 51: 0x0353 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8402*]:
+ 51: 0x0353 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8403*]:
     → "I guess the death of her former owner is what sent her off the edge. That chocobo wasn't right in the head."
  52: 0x035A [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x035B [0x52] END_LOAD_SCHEDULER: End scheduler "or10" with entities [LocalPlayer, LocalPlayer], work=176*
  54: 0x036A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or11" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
  55: 0x037B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "efon" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
  56: 0x038C [0x1C] WAIT(60* ticks)
- 57: 0x038F [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8403*]:
+ 57: 0x038F [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8404*]:
     → "She threw herself headlong into the marshes. Thought my number was up, I can tell you!"
  58: 0x0396 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17224353/0x0106D2A1), tag_num=0x04)
  59: 0x039D [0x1C] WAIT(180* ticks)
@@ -438,10 +438,10 @@ SUBROUTINE_00CC:
  72: 0x03CF [0x52] END_LOAD_SCHEDULER: End scheduler "or11" with entities [LocalPlayer, LocalPlayer], work=176*
  73: 0x03DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or12" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
  74: 0x03EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "efon" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
- 75: 0x0400 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8404*]:
+ 75: 0x0400 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8405*]:
     → "When I saw her in the stables, she was wearing a collar attached to a chain."
  76: 0x0407 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x0408 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8405*]:
+ 77: 0x0408 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8406*]:
     → "That wasn't to keep the general's mount from being stolen--it was to keep Silver Comet from flying the coop, so to speak."
  78: 0x040F [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0410 [0x1A] CALL_SUBROUTINE(address=0x05E5)
@@ -465,10 +465,10 @@ SUBROUTINE_00CC:
  97: 0x0479 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or13" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
  98: 0x048A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  99: 0x049B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Ulzana (ID: 17224351/0x0106D29F), Ulzana (ID: 17224351/0x0106D29F)], work=0*
-100: 0x04AA [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8406*]:
+100: 0x04AA [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8407*]:
     → "That general's a real schemer. Said that if Silver Comet was released, she would be able to find Shooting Star."
 101: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x04B2 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8407*]:
+102: 0x04B2 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8408*]:
     → "It's his fault I almost got killed!"
 103: 0x04B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x04BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Ulzana (ID: 17224351/0x0106D29F), Ulzana (ID: 17224351/0x0106D29F)], work=0*
@@ -476,21 +476,21 @@ SUBROUTINE_00CC:
 106: 0x04CC [0x79] Ulzana (ID: 17224351/0x0106D29F) looks at LocalPlayer (Basic look)
 107: 0x04D6 [0x52] END_LOAD_SCHEDULER: End scheduler "or13" with entities [LocalPlayer, LocalPlayer], work=176*
 108: 0x04E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or14" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
-109: 0x04F6 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8408*]:
+109: 0x04F6 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8409*]:
     → "Huh? Who's Shooting Star? He's a chocobo, too."
 110: 0x04FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x04FE [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8409*]:
+111: 0x04FE [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8410*]:
     → "Shooting Star was Silver Comet's mate."
 112: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0506 [0x52] END_LOAD_SCHEDULER: End scheduler "or14" with entities [LocalPlayer, LocalPlayer], work=176*
 114: 0x0515 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "or15" with entities [LocalPlayer, LocalPlayer], work=[176*, 0*]
-115: 0x0526 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8410*]:
+115: 0x0526 [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8411*]:
     → "Their love was a pure, uncomplicated thing, much more so than what people feel."
 116: 0x052D [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x052E [0x6E] Ulzana (ID: 17224351/0x0106D29F) uses emote 4*
 118: 0x0535 [0x99] Wait for Ulzana (ID: 17224351/0x0106D29F) animation to complete
 119: 0x053A [0x99] Wait for Ulzana (ID: 17224351/0x0106D29F) animation to complete
-120: 0x053F [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8411*]:
+120: 0x053F [0x2B] Ulzana (ID: 17224351/0x0106D29F) [8412*]:
     → "Ahahaha! I think this oil is starting to muddle my senses. I'll see you around, adventurer."
 121: 0x0546 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0547 [0x1A] CALL_SUBROUTINE(address=0x05E5)

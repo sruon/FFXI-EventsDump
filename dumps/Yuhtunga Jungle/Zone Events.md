@@ -59,7 +59,7 @@
 |      23 | 0x00C9      |         201 |
 |      24 | 0x003C      |          60 |
 |      25 | 0x001E      |          30 |
-|      26 | 0x1E58      |        7768 |
+|      26 | 0x1E59      |        7769 |
 |      27 | 0x0027      |          39 |
 |      28 | 0x00C8      |         200 |
 |      29 | 0x007B      |         123 |
@@ -69,15 +69,15 @@
 |      33 | 0xFFF8D23B  |  4294496827 |
 |      34 | 0x3DA2      |       15778 |
 |      35 | 0x03B5      |         949 |
-|      36 | 0x1EAF      |        7855 |
-|      37 | 0x1EB0      |        7856 |
-|      38 | 0x1EB1      |        7857 |
-|      39 | 0x1EB5      |        7861 |
-|      40 | 0x1EB2      |        7858 |
+|      36 | 0x1EB0      |        7856 |
+|      37 | 0x1EB1      |        7857 |
+|      38 | 0x1EB2      |        7858 |
+|      39 | 0x1EB6      |        7862 |
+|      40 | 0x1EB3      |        7859 |
 
 ## String References
 
-- **7768**: You dig up a strange wooden casket!
+- **7769**: You dig up a strange wooden casket!
 
 ## Events
 
@@ -473,7 +473,7 @@
   6: 0x0135 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Casket (ID: 17281641/0x0107B269), tag_num=0x02)
   7: 0x013C [0x1C] WAIT(30* ticks)
   8: 0x013F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  9: 0x0150 [0x48] [System] [7768*]:
+  9: 0x0150 [0x48] [System] [7769*]:
     → "You dig up a strange wooden casket!"
  10: 0x0153 [0x1C] WAIT(60* ticks)
  11: 0x0156 [0x6E] LocalPlayer uses emote 39*
@@ -547,11 +547,11 @@
  16: 0x01E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [EventEntity, EventEntity], work=[5*, 0*]
  17: 0x01F6 [0x4A] Marilleune (ID: 17281654/0x0107B276) looks at LocalPlayer
  18: 0x01FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x0210 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7855*]:
+ 19: 0x0210 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7856*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0218 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Marilleune (ID: 17281654/0x0107B276), Marilleune (ID: 17281654/0x0107B276)], work=30*
- 22: 0x0227 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7856*]:
+ 22: 0x0227 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7857*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x022F [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0281
@@ -563,17 +563,17 @@
  30: 0x025A [0x15] Work_Zone[6] /= 60*
  31: 0x025F [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x0266 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0279
- 33: 0x026E [0x2B] Marilleune (ID: 17281654/0x0107B276) [7857*]:
+ 33: 0x026E [0x2B] Marilleune (ID: 17281654/0x0107B276) [7858*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x0275 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0276 [0x01] GOTO 0x0281
- 36: 0x0279 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7861*]:
+ 36: 0x0279 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7862*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x0280 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0281:
  38: 0x0281 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Marilleune (ID: 17281654/0x0107B276), Marilleune (ID: 17281654/0x0107B276)], work=30*
- 39: 0x0290 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7858*]:
+ 39: 0x0290 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7859*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0298 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=5*

@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FC7      |        8135 |
-|       1 | 0x1FC8      |        8136 |
+|       0 | 0x1FC8      |        8136 |
+|       1 | 0x1FC9      |        8137 |
 
 ## String References
 
-- **8135**: Look at those fools, trrraipsing about without a care in the world. We didn't fight tooth and nail to save their worrrthless hides just so they could throw them away like this!
-- **8136**: That goes for you too! If you've got any sense, you'll stay quiet, and stay on guarrrd. Grrr...sometimes I wonder if that teleportation accident transported everyone's brains into one o' those fissures...
+- **8136**: Look at those fools, trrraipsing about without a care in the world. We didn't fight tooth and nail to save their worrrthless hides just so they could throw them away like this!
+- **8137**: That goes for you too! If you've got any sense, you'll stay quiet, and stay on guarrrd. Grrr...sometimes I wonder if that teleportation accident transported everyone's brains into one o' those fissures...
 
 ## Events
 
@@ -75,10 +75,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
     → "Look at those fools, trrraipsing about without a care in the world. We didn't fight tooth and nail to save their worrrthless hides just so they could throw them away like this!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
     → "That goes for you too! If you've got any sense, you'll stay quiet, and stay on guarrrd. Grrr...sometimes I wonder if that teleportation accident transported everyone's brains into one o' those fissures..."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x21] END_EVENT

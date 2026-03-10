@@ -20,14 +20,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D9E      |        7582 |
+|       0 | 0x1D9F      |        7583 |
 |       1 | 0x0045      |          69 |
-|       2 | 0x1D9F      |        7583 |
+|       2 | 0x1DA0      |        7584 |
 
 ## String References
 
-- **7582**: This is the entrance to the Metalworks, the heart of Bastok.
-- **7583**: In it you'll find the Blacksmiths' Guild, the forges, the consulates, and the President's Office.
+- **7583**: This is the entrance to the Metalworks, the heart of Bastok.
+- **7584**: In it you'll find the Blacksmiths' Guild, the forges, the consulates, and the President's Office.
 
 ## Events
 
@@ -74,11 +74,11 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
     → "This is the entrance to the Metalworks, the heart of Bastok."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
     → "In it you'll find the Blacksmiths' Guild, the forges, the consulates, and the President's Office."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT

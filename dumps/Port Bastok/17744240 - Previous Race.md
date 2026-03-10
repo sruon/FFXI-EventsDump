@@ -95,10 +95,10 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0000:       03 00 00 5C 10 14  00 00 00 80 07 00 00 5D    ...\.........]
-0010: 10 B6 0B 5B 10 00 00 01  80 01 80 01 80 01 80 01  ...[............
-0020: 80 02 80 02 80 1A 29 00  00 03 01 00 5B 10 0C 01  ......).....[...
-0030: 00 14 01 00 03 80 07 01  00 5E 10 9D 00 48 00 02  .........^...H..
+0000:       03 00 00 64 10 14  00 00 00 80 07 00 00 65    ...d.........e
+0010: 10 B6 0B 63 10 00 00 01  80 01 80 01 80 01 80 01  ...c............
+0020: 80 02 80 02 80 1A 29 00  00 03 01 00 63 10 0C 01  ......).....c...
+0030: 00 14 01 00 03 80 07 01  00 66 10 9D 00 48 00 02  .........f...H..
 0040: 00 01 00 B6 0F 02 00 1B  04 80 05 80 06 80 02 80  ................
 0050: 04 80 05 80 06 80 02 80  04 80 05 80 06 80 02 80  ................
 0060: 04 80 05 80 06 80 02 80  07 80 08 80 09 80 02 80  ................
@@ -109,18 +109,18 @@
 #### Opcodes
 
 ```
-  0: 0x0002 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[92]
+  0: 0x0002 [0x03] ExtData[1]->WorkLocal[0] = 0x1064
   1: 0x0007 [0x14] ExtData[1]->WorkLocal[0] *= 2*
-  2: 0x000C [0x07] ExtData[1]->WorkLocal[0] += Work_Zone[93]
-  3: 0x0011 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Full entity look, race=Work_Zone[91], hair=ExtData[1]->WorkLocal[0], head=8*, body=8*, hands=8*, legs=8*, feet=8*, main=0*, sub=0*)
+  2: 0x000C [0x07] ExtData[1]->WorkLocal[0] += 0x1065
+  3: 0x0011 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Full entity look, race=0x1063, hair=ExtData[1]->WorkLocal[0], head=8*, body=8*, hands=8*, legs=8*, feet=8*, main=0*, sub=0*)
   4: 0x0025 [0x1A] CALL_SUBROUTINE(address=0x0029)
   5: 0x0028 [0x00] END_REQSTACK()
 
 SUBROUTINE_0029:
-  6: 0x0029 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[91]
+  6: 0x0029 [0x03] ExtData[1]->WorkLocal[1] = 0x1063
   7: 0x002E [0x0C] ExtData[1]->WorkLocal[1]--
   8: 0x0031 [0x14] ExtData[1]->WorkLocal[1] *= 4*
-  9: 0x0036 [0x07] ExtData[1]->WorkLocal[1] += Work_Zone[94]
+  9: 0x0036 [0x07] ExtData[1]->WorkLocal[1] += 0x1066
  10: 0x003B [0x9D] ExtData[1]->WorkLocal[2] = 0x0048[ExtData[1]->WorkLocal[1]] // Read WORD
  11: 0x0043 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Model size, value=ExtData[1]->WorkLocal[2])
  12: 0x0047 [0x1B] RETURN

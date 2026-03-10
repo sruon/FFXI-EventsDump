@@ -268,55 +268,55 @@
 |     133 | 0x0DD9      |        3545 |
 |     134 | 0x0DDA      |        3546 |
 |     135 | 0x0DDB      |        3547 |
-|     136 | 0x2FEE      |       12270 |
-|     137 | 0x2FEF      |       12271 |
-|     138 | 0x2FF0      |       12272 |
-|     139 | 0x2FF1      |       12273 |
-|     140 | 0x3016      |       12310 |
-|     141 | 0x3017      |       12311 |
-|     142 | 0x3018      |       12312 |
-|     143 | 0x3019      |       12313 |
-|     144 | 0x301A      |       12314 |
-|     145 | 0x301B      |       12315 |
-|     146 | 0x301C      |       12316 |
-|     147 | 0x3023      |       12323 |
-|     148 | 0x3024      |       12324 |
-|     149 | 0x3025      |       12325 |
-|     150 | 0x3026      |       12326 |
+|     136 | 0x2FEF      |       12271 |
+|     137 | 0x2FF0      |       12272 |
+|     138 | 0x2FF1      |       12273 |
+|     139 | 0x2FF2      |       12274 |
+|     140 | 0x3017      |       12311 |
+|     141 | 0x3018      |       12312 |
+|     142 | 0x3019      |       12313 |
+|     143 | 0x301A      |       12314 |
+|     144 | 0x301B      |       12315 |
+|     145 | 0x301C      |       12316 |
+|     146 | 0x301D      |       12317 |
+|     147 | 0x3024      |       12324 |
+|     148 | 0x3025      |       12325 |
+|     149 | 0x3026      |       12326 |
+|     150 | 0x3027      |       12327 |
 |     151 | 0x0006      |           6 |
-|     152 | 0x3027      |       12327 |
-|     153 | 0x302F      |       12335 |
-|     154 | 0x3030      |       12336 |
-|     155 | 0x3031      |       12337 |
-|     156 | 0x3032      |       12338 |
-|     157 | 0x3033      |       12339 |
-|     158 | 0x303A      |       12346 |
-|     159 | 0x303B      |       12347 |
-|     160 | 0x303C      |       12348 |
-|     161 | 0x303D      |       12349 |
-|     162 | 0x303E      |       12350 |
-|     163 | 0x303F      |       12351 |
-|     164 | 0x3046      |       12358 |
-|     165 | 0x3047      |       12359 |
-|     166 | 0x3048      |       12360 |
-|     167 | 0x3049      |       12361 |
-|     168 | 0x304A      |       12362 |
+|     152 | 0x3028      |       12328 |
+|     153 | 0x3030      |       12336 |
+|     154 | 0x3031      |       12337 |
+|     155 | 0x3032      |       12338 |
+|     156 | 0x3033      |       12339 |
+|     157 | 0x3034      |       12340 |
+|     158 | 0x303B      |       12347 |
+|     159 | 0x303C      |       12348 |
+|     160 | 0x303D      |       12349 |
+|     161 | 0x303E      |       12350 |
+|     162 | 0x303F      |       12351 |
+|     163 | 0x3040      |       12352 |
+|     164 | 0x3047      |       12359 |
+|     165 | 0x3048      |       12360 |
+|     166 | 0x3049      |       12361 |
+|     167 | 0x304A      |       12362 |
+|     168 | 0x304B      |       12363 |
 |     169 | 0x007F      |         127 |
-|     170 | 0x304B      |       12363 |
-|     171 | 0x304C      |       12364 |
-|     172 | 0x312D      |       12589 |
-|     173 | 0x312E      |       12590 |
-|     174 | 0x312F      |       12591 |
-|     175 | 0x3130      |       12592 |
-|     176 | 0x3131      |       12593 |
-|     177 | 0x314D      |       12621 |
-|     178 | 0x314E      |       12622 |
-|     179 | 0x314F      |       12623 |
-|     180 | 0x3150      |       12624 |
-|     181 | 0x3151      |       12625 |
-|     182 | 0x3159      |       12633 |
-|     183 | 0x315A      |       12634 |
-|     184 | 0x315B      |       12635 |
+|     170 | 0x304C      |       12364 |
+|     171 | 0x304D      |       12365 |
+|     172 | 0x312E      |       12590 |
+|     173 | 0x312F      |       12591 |
+|     174 | 0x3130      |       12592 |
+|     175 | 0x3131      |       12593 |
+|     176 | 0x3132      |       12594 |
+|     177 | 0x314E      |       12622 |
+|     178 | 0x314F      |       12623 |
+|     179 | 0x3150      |       12624 |
+|     180 | 0x3151      |       12625 |
+|     181 | 0x3152      |       12626 |
+|     182 | 0x315A      |       12634 |
+|     183 | 0x315B      |       12635 |
+|     184 | 0x315C      |       12636 |
 
 ## String References
 
@@ -425,53 +425,53 @@
 - **3546**: Another $3 came for you, along with the update that the conference of ministers had ended.
 - **3547**: I don't know what is happening-wappening at Heavens Tower, but it seems as if they have great expectations of you. Show them what you're made of and make us "Best of the West" proud!
 - **11174**: Accept this mission? [Yes./No.]
-- **12270**: Whoah. A mission from Minister Ajido-Marujido of the Orastery. This is kind of a surprise. This is kind of...scary.
-- **12271**: Ahem, anyway, please head to the Orastery as soon as you can. I wonder what mischief-wischief the minister is up to this time?
-- **12272**: This mission requires you to head to the Orastery as fastaru as you possibly-wossibly can.
-- **12273**: This is a mission the Minister issued himself. This reeky-weeks of some dastarudly plan...
-- **12310**: Did you hear, did you hear? This is justaru between you and me, but...
-- **12311**: Minister Ajido-Marujido was finally arrested by the Sibyl Guards!
-- **12312**: The Orastery is in a whole lot of trouble-wouble. ...We guards are affected by this as well, of course, but the mages of the Orastery are in a completaru state of shock.
-- **12313**: ...Ah, ahem. I would like to chataru a little more but you have been summoned to Heavens Tower.
-- **12314**: This is an order from the Star Sibyl, so please make your way to Heavens Tower as quickly as possible.
-- **12315**: Minister Apururu is Minister Ajido-Marujido's little sister, rightaru? I wonder what she thinks of all this?
-- **12316**: Ahem, anyway, please hurry on over to Heavens Tower. The Star Sibyl will be waiting for you.
-- **12323**: Hi there, I have a mission-wission from the Optistery for you to tidy up the book vault.
-- **12324**: With all the ruckus-wuckus around here you wouldn't think the ministries would be issuing missions right now. You gottaru hand it to the Optistery, nothing upsets their routine!
-- **12325**: With Minister Tosuka-Porika's dislike of Ajido-Marujido though, I guess he's feeling on top of the world about what happened.
-- **12326**: The Optistery's missions are always difficultaru, but try your bestaru!
-- **12327**: ...All the ministries have been asking for you personally these days. I'm glad things are working out for you, but I mustaru say I'm a little jealous!
-- **12335**: Step right up! Get your missions here! ...Ahem. This mission has been issued by the Rhinostery.
-- **12336**: It says here that the Rhinostery needs a handy-wandy with something but there are no specific details. They're probably looking for a research assistantaru.
-- **12337**: Take yourself to the second floor of the Rhinostery and getaru the low-down from Leepe-Hoppe.
-- **12338**: The mission statement is about as clear as mud, but if you talk to Leepe-Hoppe at the Rhinostery he should provide you with all the details.
-- **12339**: I wonder why the Rhinostery would be enlisting research assistantarus by issuing a mission? Usually they just employ one of the Rhinostery-affiliated adventurers...
-- **12346**: This is a little late, but congratulations on reaching rank eight!
-- **12347**: Well, this is surprising. Your next mission is from the Aurastery. As usual, the teachers from the School of Magic are the ones to set this little task...
-- **12348**: The objective of this mission is strictaruly confidential, but since it has the Sibyl guards stamp of approval it should be okay.
-- **12349**: Rightaru, time to get to work!
-- **12350**: You can ask the details of the mission from the teachers at the Aurastery. There mustaru have been some sort of trouble.
-- **12351**: ...But what could've happened? Maybe Principal Koru-Moru has vanished as well.
-- **12358**: ......
-- **12359**: Rightaru! I've finally plucked up my courage, so listen carefully before I lose my nerve.
-- **12360**: This mission has not been approved by the Sibyl guards. We're not supposed to offer missions without official approval, but this time we're breaking the rules.
-- **12361**: <Player>. We want you to help Minister Apururu! Go to the Manustery and meet with the minister!
-- **12362**: ...Ah! You can'taru tell anyone about this mission! If you see any Sibyl Guards, turn tail and run like a rarab!
-- **12363**: <Player>. We want you to help Minister Apururu! Go to the Manustery and meet with the minister!
-- **12364**: Don't forget, you can'taru tell anyone about this mission! If you see any Sibyl Guards, turn tail and run like a rarab!
-- **12589**: Oh, <Player>! Minister Apururu is asking for you!
-- **12590**: She went to the Orastery to fetch Minister Ajido-Marujido's wizardly wear, so I guess that means he's on the road to recovery!
-- **12591**: ...Ah, me and my big goobbue mouth! I really need to learn to keepy-weep my voice down!
-- **12592**: ...<whisper>... ...Minister Apururu is waiting for you at the Manustery...
-- **12593**: ...<whisper>... ...It's so hard for me to be deceitaruful... Every time I try to lie, I get this little smirk on my face...
-- **12621**: Your mission today is from Heavens Tower! I have the mission statement with your name on it rightaru here.
-- **12622**: The Yagudo have sentaru a proposal demanding a revision of the peace treaty. You should make your way over to Heavens Tower immediataruly.
-- **12623**: ...Hm? This doesn'taru have the Star Sibyl's emblem on it. Did she justaru forget, I wonder?
-- **12624**: A revision of the peace treaty between Windurst and the Yagudo... In what way would they wantaru it revised?
-- **12625**: What bother-wothers me is this isn'taru just a simple revision of one of the clauses. Are they looking for a complete rewrite of the entire treaty?
-- **12633**: Hey <Player>, how've you been!? I'm so glad I gotaru the chance to see you again!
-- **12634**: The Star Sibyl, the Sibyl Guards, Miss Apururu, Minister Ajido-Marujido... Everyone in Windurst is so grateful for what you have done.
-- **12635**: Everyone is friends again! Isn'taru that wonderful?
+- **12271**: Whoah. A mission from Minister Ajido-Marujido of the Orastery. This is kind of a surprise. This is kind of...scary.
+- **12272**: Ahem, anyway, please head to the Orastery as soon as you can. I wonder what mischief-wischief the minister is up to this time?
+- **12273**: This mission requires you to head to the Orastery as fastaru as you possibly-wossibly can.
+- **12274**: This is a mission the Minister issued himself. This reeky-weeks of some dastarudly plan...
+- **12311**: Did you hear, did you hear? This is justaru between you and me, but...
+- **12312**: Minister Ajido-Marujido was finally arrested by the Sibyl Guards!
+- **12313**: The Orastery is in a whole lot of trouble-wouble. ...We guards are affected by this as well, of course, but the mages of the Orastery are in a completaru state of shock.
+- **12314**: ...Ah, ahem. I would like to chataru a little more but you have been summoned to Heavens Tower.
+- **12315**: This is an order from the Star Sibyl, so please make your way to Heavens Tower as quickly as possible.
+- **12316**: Minister Apururu is Minister Ajido-Marujido's little sister, rightaru? I wonder what she thinks of all this?
+- **12317**: Ahem, anyway, please hurry on over to Heavens Tower. The Star Sibyl will be waiting for you.
+- **12324**: Hi there, I have a mission-wission from the Optistery for you to tidy up the book vault.
+- **12325**: With all the ruckus-wuckus around here you wouldn't think the ministries would be issuing missions right now. You gottaru hand it to the Optistery, nothing upsets their routine!
+- **12326**: With Minister Tosuka-Porika's dislike of Ajido-Marujido though, I guess he's feeling on top of the world about what happened.
+- **12327**: The Optistery's missions are always difficultaru, but try your bestaru!
+- **12328**: ...All the ministries have been asking for you personally these days. I'm glad things are working out for you, but I mustaru say I'm a little jealous!
+- **12336**: Step right up! Get your missions here! ...Ahem. This mission has been issued by the Rhinostery.
+- **12337**: It says here that the Rhinostery needs a handy-wandy with something but there are no specific details. They're probably looking for a research assistantaru.
+- **12338**: Take yourself to the second floor of the Rhinostery and getaru the low-down from Leepe-Hoppe.
+- **12339**: The mission statement is about as clear as mud, but if you talk to Leepe-Hoppe at the Rhinostery he should provide you with all the details.
+- **12340**: I wonder why the Rhinostery would be enlisting research assistantarus by issuing a mission? Usually they just employ one of the Rhinostery-affiliated adventurers...
+- **12347**: This is a little late, but congratulations on reaching rank eight!
+- **12348**: Well, this is surprising. Your next mission is from the Aurastery. As usual, the teachers from the School of Magic are the ones to set this little task...
+- **12349**: The objective of this mission is strictaruly confidential, but since it has the Sibyl guards stamp of approval it should be okay.
+- **12350**: Rightaru, time to get to work!
+- **12351**: You can ask the details of the mission from the teachers at the Aurastery. There mustaru have been some sort of trouble.
+- **12352**: ...But what could've happened? Maybe Principal Koru-Moru has vanished as well.
+- **12359**: ......
+- **12360**: Rightaru! I've finally plucked up my courage, so listen carefully before I lose my nerve.
+- **12361**: This mission has not been approved by the Sibyl guards. We're not supposed to offer missions without official approval, but this time we're breaking the rules.
+- **12362**: <Player>. We want you to help Minister Apururu! Go to the Manustery and meet with the minister!
+- **12363**: ...Ah! You can'taru tell anyone about this mission! If you see any Sibyl Guards, turn tail and run like a rarab!
+- **12364**: <Player>. We want you to help Minister Apururu! Go to the Manustery and meet with the minister!
+- **12365**: Don't forget, you can'taru tell anyone about this mission! If you see any Sibyl Guards, turn tail and run like a rarab!
+- **12590**: Oh, <Player>! Minister Apururu is asking for you!
+- **12591**: She went to the Orastery to fetch Minister Ajido-Marujido's wizardly wear, so I guess that means he's on the road to recovery!
+- **12592**: ...Ah, me and my big goobbue mouth! I really need to learn to keepy-weep my voice down!
+- **12593**: ...<whisper>... ...Minister Apururu is waiting for you at the Manustery...
+- **12594**: ...<whisper>... ...It's so hard for me to be deceitaruful... Every time I try to lie, I get this little smirk on my face...
+- **12622**: Your mission today is from Heavens Tower! I have the mission statement with your name on it rightaru here.
+- **12623**: The Yagudo have sentaru a proposal demanding a revision of the peace treaty. You should make your way over to Heavens Tower immediataruly.
+- **12624**: ...Hm? This doesn'taru have the Star Sibyl's emblem on it. Did she justaru forget, I wonder?
+- **12625**: A revision of the peace treaty between Windurst and the Yagudo... In what way would they wantaru it revised?
+- **12626**: What bother-wothers me is this isn'taru just a simple revision of one of the clauses. Are they looking for a complete rewrite of the entire treaty?
+- **12634**: Hey <Player>, how've you been!? I'm so glad I gotaru the chance to see you again!
+- **12635**: The Star Sibyl, the Sibyl Guards, Miss Apururu, Minister Ajido-Marujido... Everyone in Windurst is so grateful for what you have done.
+- **12636**: Everyone is friends again! Isn'taru that wonderful?
 
 ## Events
 
@@ -4145,13 +4145,13 @@ SUBROUTINE_104C:
   7: 0x16AC [0x4A] Janshura-Rashura (ID: 17760269/0x010F000D) looks at LocalPlayer
   8: 0x16B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x16C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0D)
- 10: 0x16CD [0x1D] PRINT_EVENT_MESSAGE(message_id=12270*)
+ 10: 0x16CD [0x1D] PRINT_EVENT_MESSAGE(message_id=12271*)
     → "Whoah. A mission from Minister Ajido-Marujido of the Orastery. This is kind of a surprise. This is kind of...scary."
  11: 0x16D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x16D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0E)
  13: 0x16D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  14: 0x16E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x07)
- 15: 0x16F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12271*)
+ 15: 0x16F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12272*)
     → "Ahem, anyway, please head to the Orastery as soon as you can. I wonder what mischief-wischief the minister is up to this time?"
  16: 0x16F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x16F4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4201,12 +4201,12 @@ SUBROUTINE_104C:
   1: 0x1749 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x174A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x174B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x07)
-  4: 0x1752 [0x1D] PRINT_EVENT_MESSAGE(message_id=12272*)
+  4: 0x1752 [0x1D] PRINT_EVENT_MESSAGE(message_id=12273*)
     → "This mission requires you to head to the Orastery as fastaru as you possibly-wossibly can."
   5: 0x1755 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1756 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x08)
   7: 0x175D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
-  8: 0x1764 [0x1D] PRINT_EVENT_MESSAGE(message_id=12273*)
+  8: 0x1764 [0x1D] PRINT_EVENT_MESSAGE(message_id=12274*)
     → "This is a mission the Minister issued himself. This reeky-weeks of some dastarudly plan..."
   9: 0x1767 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1768 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x02)
@@ -4264,18 +4264,18 @@ SUBROUTINE_104C:
   7: 0x17A5 [0x4A] Janshura-Rashura (ID: 17760269/0x010F000D) looks at LocalPlayer
   8: 0x17AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x17BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0B)
- 10: 0x17C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12310*)
+ 10: 0x17C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12311*)
     → "Did you hear, did you hear? This is justaru between you and me, but..."
  11: 0x17C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x17CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0C)
  13: 0x17D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  14: 0x17E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
- 15: 0x17E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12311*)
+ 15: 0x17E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12312*)
     → "Minister Ajido-Marujido was finally arrested by the Sibyl Guards!"
  16: 0x17EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x17ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x02)
  18: 0x17F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x1D)
- 19: 0x17FB [0x1D] PRINT_EVENT_MESSAGE(message_id=12312*)
+ 19: 0x17FB [0x1D] PRINT_EVENT_MESSAGE(message_id=12313*)
     → "The Orastery is in a whole lot of trouble-wouble. ...We guards are affected by this as well, of course, but the mages of the Orastery are in a completaru state of shock."
  20: 0x17FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x17FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x1E)
@@ -4283,14 +4283,14 @@ SUBROUTINE_104C:
  23: 0x1815 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  24: 0x1826 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  25: 0x1837 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0D)
- 26: 0x183E [0x1D] PRINT_EVENT_MESSAGE(message_id=12313*)
+ 26: 0x183E [0x1D] PRINT_EVENT_MESSAGE(message_id=12314*)
     → "...Ah, ahem. I would like to chataru a little more but you have been summoned to Heavens Tower."
  27: 0x1841 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x1842 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0E)
  29: 0x1849 [0x52] END_LOAD_SCHEDULER: End scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=140*
  30: 0x1858 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  31: 0x1869 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
- 32: 0x1870 [0x1D] PRINT_EVENT_MESSAGE(message_id=12314*)
+ 32: 0x1870 [0x1D] PRINT_EVENT_MESSAGE(message_id=12315*)
     → "This is an order from the Star Sibyl, so please make your way to Heavens Tower as quickly as possible."
  33: 0x1873 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x1874 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4332,12 +4332,12 @@ SUBROUTINE_104C:
   1: 0x18B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x18BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x18BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x05)
-  4: 0x18C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12315*)
+  4: 0x18C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12316*)
     → "Minister Apururu is Minister Ajido-Marujido's little sister, rightaru? I wonder what she thinks of all this?"
   5: 0x18C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x18C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x06)
   7: 0x18CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x07)
-  8: 0x18D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12316*)
+  8: 0x18D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12317*)
     → "Ahem, anyway, please hurry on over to Heavens Tower. The Star Sibyl will be waiting for you."
   9: 0x18D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x18D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x08)
@@ -4393,13 +4393,13 @@ SUBROUTINE_104C:
   9: 0x191F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Janshura-Rashura (ID: 17760269/0x010F000D) Render.Flags0 and Render.Flags3 conditions are met
  10: 0x1924 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x1935 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
- 12: 0x193C [0x1D] PRINT_EVENT_MESSAGE(message_id=12323*)
+ 12: 0x193C [0x1D] PRINT_EVENT_MESSAGE(message_id=12324*)
     → "Hi there, I have a mission-wission from the Optistery for you to tidy up the book vault."
  13: 0x193F [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1940 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x02)
  15: 0x1947 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  16: 0x1958 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
- 17: 0x195F [0x1D] PRINT_EVENT_MESSAGE(message_id=12324*)
+ 17: 0x195F [0x1D] PRINT_EVENT_MESSAGE(message_id=12325*)
     → "With all the ruckus-wuckus around here you wouldn't think the ministries would be issuing missions right now. You gottaru hand it to the Optistery, nothing upsets their routine!"
  18: 0x1962 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x1963 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x02)
@@ -4407,7 +4407,7 @@ SUBROUTINE_104C:
  21: 0x1979 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  22: 0x198A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  23: 0x199B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0B)
- 24: 0x19A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12325*)
+ 24: 0x19A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12326*)
     → "With Minister Tosuka-Porika's dislike of Ajido-Marujido though, I guess he's feeling on top of the world about what happened."
  25: 0x19A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x19A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4449,13 +4449,13 @@ SUBROUTINE_104C:
   1: 0x19EB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x19EC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x19ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
-  4: 0x19F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12326*)
+  4: 0x19F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12327*)
     → "The Optistery's missions are always difficultaru, but try your bestaru!"
   5: 0x19F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x19F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x02)
   7: 0x19FF [0x6E] EventEntity uses emote 6*
   8: 0x1A06 [0x99] Wait for EventEntity animation to complete
-  9: 0x1A0B [0x1D] PRINT_EVENT_MESSAGE(message_id=12327*)
+  9: 0x1A0B [0x1D] PRINT_EVENT_MESSAGE(message_id=12328*)
     → "...All the ministries have been asking for you personally these days. I'm glad things are working out for you, but I mustaru say I'm a little jealous!"
  10: 0x1A0E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1A0F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4507,21 +4507,21 @@ SUBROUTINE_104C:
   7: 0x1A45 [0x4A] Janshura-Rashura (ID: 17760269/0x010F000D) looks at LocalPlayer
   8: 0x1A4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x1A5F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0B)
- 10: 0x1A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=12335*)
+ 10: 0x1A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=12336*)
     → "Step right up! Get your missions here! ...Ahem. This mission has been issued by the Rhinostery."
  11: 0x1A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x1A6A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0C)
  13: 0x1A71 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  14: 0x1A82 [0x6E] EventEntity uses emote 6*
  15: 0x1A89 [0x99] Wait for EventEntity animation to complete
- 16: 0x1A8E [0x1D] PRINT_EVENT_MESSAGE(message_id=12336*)
+ 16: 0x1A8E [0x1D] PRINT_EVENT_MESSAGE(message_id=12337*)
     → "It says here that the Rhinostery needs a handy-wandy with something but there are no specific details. They're probably looking for a research assistantaru."
  17: 0x1A91 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1A92 [0x52] END_LOAD_SCHEDULER: End scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=140*
  19: 0x1AA1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  20: 0x1AB2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  21: 0x1AC3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x1D)
- 22: 0x1ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=12337*)
+ 22: 0x1ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=12338*)
     → "Take yourself to the second floor of the Rhinostery and getaru the low-down from Leepe-Hoppe."
  23: 0x1ACD [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1ACE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4563,12 +4563,12 @@ SUBROUTINE_104C:
   1: 0x1B13 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1B14 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1B15 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x05)
-  4: 0x1B1C [0x1D] PRINT_EVENT_MESSAGE(message_id=12338*)
+  4: 0x1B1C [0x1D] PRINT_EVENT_MESSAGE(message_id=12339*)
     → "The mission statement is about as clear as mud, but if you talk to Leepe-Hoppe at the Rhinostery he should provide you with all the details."
   5: 0x1B1F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1B20 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x06)
   7: 0x1B27 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x07)
-  8: 0x1B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=12339*)
+  8: 0x1B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=12340*)
     → "I wonder why the Rhinostery would be enlisting research assistantarus by issuing a mission? Usually they just employ one of the Rhinostery-affiliated adventurers..."
   9: 0x1B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1B32 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x08)
@@ -4626,12 +4626,12 @@ SUBROUTINE_104C:
   8: 0x1B78 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x1B89 [0x6E] EventEntity uses emote 11*
  10: 0x1B90 [0x99] Wait for EventEntity animation to complete
- 11: 0x1B95 [0x1D] PRINT_EVENT_MESSAGE(message_id=12346*)
+ 11: 0x1B95 [0x1D] PRINT_EVENT_MESSAGE(message_id=12347*)
     → "This is a little late, but congratulations on reaching rank eight!"
  12: 0x1B98 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x1B99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  14: 0x1BAA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0B)
- 15: 0x1BB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12347*)
+ 15: 0x1BB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12348*)
     → "Well, this is surprising. Your next mission is from the Aurastery. As usual, the teachers from the School of Magic are the ones to set this little task..."
  16: 0x1BB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1BB5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0C)
@@ -4639,14 +4639,14 @@ SUBROUTINE_104C:
  19: 0x1BCB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  20: 0x1BDC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  21: 0x1BED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x1D)
- 22: 0x1BF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12348*)
+ 22: 0x1BF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12349*)
     → "The objective of this mission is strictaruly confidential, but since it has the Sibyl guards stamp of approval it should be okay."
  23: 0x1BF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1BF8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x1E)
  25: 0x1BFF [0x52] END_LOAD_SCHEDULER: End scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=140*
  26: 0x1C0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  27: 0x1C1F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0F)
- 28: 0x1C26 [0x1D] PRINT_EVENT_MESSAGE(message_id=12349*)
+ 28: 0x1C26 [0x1D] PRINT_EVENT_MESSAGE(message_id=12350*)
     → "Rightaru, time to get to work!"
  29: 0x1C29 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x1C2A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4689,12 +4689,12 @@ SUBROUTINE_104C:
   1: 0x1C6F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1C70 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1C71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x01)
-  4: 0x1C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=12350*)
+  4: 0x1C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=12351*)
     → "You can ask the details of the mission from the teachers at the Aurastery. There mustaru have been some sort of trouble."
   5: 0x1C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1C7C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x02)
   7: 0x1C83 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x05)
-  8: 0x1C8A [0x1D] PRINT_EVENT_MESSAGE(message_id=12351*)
+  8: 0x1C8A [0x1D] PRINT_EVENT_MESSAGE(message_id=12352*)
     → "...But what could've happened? Maybe Principal Koru-Moru has vanished as well."
   9: 0x1C8D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1C8E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Puo Rhen (ID: 17760270/0x010F000E), tag_num=0x06)
@@ -4759,19 +4759,19 @@ SUBROUTINE_104C:
  10: 0x1CEC [0x4A] Janshura-Rashura (ID: 17760269/0x010F000D) looks at LocalPlayer
  11: 0x1CF5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x1D06 [0x7C] EventEntity->Render.Flags2 |= 0x00
- 13: 0x1D0C [0x1D] PRINT_EVENT_MESSAGE(message_id=12358*)
+ 13: 0x1D0C [0x1D] PRINT_EVENT_MESSAGE(message_id=12359*)
     → "......"
  14: 0x1D0F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x1D10 [0x7C] EventEntity->Render.Flags2 |= 0x01
  16: 0x1D16 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x05)
- 17: 0x1D1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12359*)
+ 17: 0x1D1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12360*)
     → "Rightaru! I've finally plucked up my courage, so listen carefully before I lose my nerve."
  18: 0x1D20 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x1D21 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x06)
  20: 0x1D28 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  21: 0x1D39 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s107" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  22: 0x1D4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
- 23: 0x1D51 [0x1D] PRINT_EVENT_MESSAGE(message_id=12360*)
+ 23: 0x1D51 [0x1D] PRINT_EVENT_MESSAGE(message_id=12361*)
     → "This mission has not been approved by the Sibyl guards. We're not supposed to offer missions without official approval, but this time we're breaking the rules."
  24: 0x1D54 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x1D55 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x02)
@@ -4779,14 +4779,14 @@ SUBROUTINE_104C:
  27: 0x1D6B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  28: 0x1D7C [0x6E] EventEntity uses emote 1*
  29: 0x1D83 [0x99] Wait for EventEntity animation to complete
- 30: 0x1D88 [0x1D] PRINT_EVENT_MESSAGE(message_id=12361*)
+ 30: 0x1D88 [0x1D] PRINT_EVENT_MESSAGE(message_id=12362*)
     → "<Player>. We want you to help Minister Apururu! Go to the Manustery and meet with the minister!"
  31: 0x1D8B [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x1D8C [0x52] END_LOAD_SCHEDULER: End scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=140*
  33: 0x1D9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  34: 0x1DAC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  35: 0x1DBD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
- 36: 0x1DC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12362*)
+ 36: 0x1DC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12363*)
     → "...Ah! You can'taru tell anyone about this mission! If you see any Sibyl Guards, turn tail and run like a rarab!"
  37: 0x1DC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x1DC8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4830,11 +4830,11 @@ SUBROUTINE_104C:
   2: 0x1E13 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1E14 [0x6E] EventEntity uses emote 1*
   4: 0x1E1B [0x99] Wait for EventEntity animation to complete
-  5: 0x1E20 [0x1D] PRINT_EVENT_MESSAGE(message_id=12363*)
+  5: 0x1E20 [0x1D] PRINT_EVENT_MESSAGE(message_id=12364*)
     → "<Player>. We want you to help Minister Apururu! Go to the Manustery and meet with the minister!"
   6: 0x1E23 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1E24 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x17)
-  8: 0x1E2B [0x1D] PRINT_EVENT_MESSAGE(message_id=12364*)
+  8: 0x1E2B [0x1D] PRINT_EVENT_MESSAGE(message_id=12365*)
     → "Don't forget, you can'taru tell anyone about this mission! If you see any Sibyl Guards, turn tail and run like a rarab!"
   9: 0x1E2E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1E2F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x18)
@@ -4889,19 +4889,19 @@ SUBROUTINE_104C:
   9: 0x1E76 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Janshura-Rashura (ID: 17760269/0x010F000D) Render.Flags0 and Render.Flags3 conditions are met
  10: 0x1E7B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x1E8C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x09)
- 12: 0x1E93 [0x1D] PRINT_EVENT_MESSAGE(message_id=12589*)
+ 12: 0x1E93 [0x1D] PRINT_EVENT_MESSAGE(message_id=12590*)
     → "Oh, <Player>! Minister Apururu is asking for you!"
  13: 0x1E96 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1E97 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0A)
  15: 0x1E9E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
- 16: 0x1EA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12590*)
+ 16: 0x1EA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12591*)
     → "She went to the Orastery to fetch Minister Ajido-Marujido's wizardly wear, so I guess that means he's on the road to recovery!"
  17: 0x1EA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1EA9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x02)
  19: 0x1EB0 [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=140*
  20: 0x1EBF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  21: 0x1ED0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x11)
- 22: 0x1ED7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12591*)
+ 22: 0x1ED7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12592*)
     → "...Ah, me and my big goobbue mouth! I really need to learn to keepy-weep my voice down!"
  23: 0x1EDA [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1EDB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x12)
@@ -4943,10 +4943,10 @@ SUBROUTINE_104C:
   1: 0x1F2F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1F30 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1F31 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x19)
-  4: 0x1F38 [0x1D] PRINT_EVENT_MESSAGE(message_id=12592*)
+  4: 0x1F38 [0x1D] PRINT_EVENT_MESSAGE(message_id=12593*)
     → "...<whisper>... ...Minister Apururu is waiting for you at the Manustery..."
   5: 0x1F3B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1F3C [0x1D] PRINT_EVENT_MESSAGE(message_id=12593*)
+  6: 0x1F3C [0x1D] PRINT_EVENT_MESSAGE(message_id=12594*)
     → "...<whisper>... ...It's so hard for me to be deceitaruful... Every time I try to lie, I get this little smirk on my face..."
   7: 0x1F3F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1F40 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x1A)
@@ -5002,19 +5002,19 @@ SUBROUTINE_104C:
   9: 0x1F87 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Janshura-Rashura (ID: 17760269/0x010F000D) Render.Flags0 and Render.Flags3 conditions are met
  10: 0x1F8C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x1F9D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x09)
- 12: 0x1FA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12621*)
+ 12: 0x1FA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12622*)
     → "Your mission today is from Heavens Tower! I have the mission statement with your name on it rightaru here."
  13: 0x1FA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1FA8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0A)
  15: 0x1FAF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
- 16: 0x1FB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12622*)
+ 16: 0x1FB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12623*)
     → "The Yagudo have sentaru a proposal demanding a revision of the peace treaty. You should make your way over to Heavens Tower immediataruly."
  17: 0x1FB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1FBA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x02)
  19: 0x1FC1 [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=140*
  20: 0x1FD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=[140*, 0*]
  21: 0x1FE1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x03)
- 22: 0x1FE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12623*)
+ 22: 0x1FE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12624*)
     → "...Hm? This doesn'taru have the Star Sibyl's emblem on it. Did she justaru forget, I wonder?"
  23: 0x1FEB [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1FEC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x04)
@@ -5059,12 +5059,12 @@ SUBROUTINE_104C:
   1: 0x204E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x204F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x2050 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x03)
-  4: 0x2057 [0x1D] PRINT_EVENT_MESSAGE(message_id=12624*)
+  4: 0x2057 [0x1D] PRINT_EVENT_MESSAGE(message_id=12625*)
     → "A revision of the peace treaty between Windurst and the Yagudo... In what way would they wantaru it revised?"
   5: 0x205A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x205B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x04)
   7: 0x2062 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x05)
-  8: 0x2069 [0x1D] PRINT_EVENT_MESSAGE(message_id=12625*)
+  8: 0x2069 [0x1D] PRINT_EVENT_MESSAGE(message_id=12626*)
     → "What bother-wothers me is this isn'taru just a simple revision of one of the clauses. Are they looking for a complete rewrite of the entire treaty?"
   9: 0x206C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x206D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x06)
@@ -5101,17 +5101,17 @@ SUBROUTINE_104C:
   2: 0x207E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x207F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x2080 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x13)
-  5: 0x2087 [0x1D] PRINT_EVENT_MESSAGE(message_id=12633*)
+  5: 0x2087 [0x1D] PRINT_EVENT_MESSAGE(message_id=12634*)
     → "Hey <Player>, how've you been!? I'm so glad I gotaru the chance to see you again!"
   6: 0x208A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x208B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x14)
   8: 0x2092 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x01)
-  9: 0x2099 [0x1D] PRINT_EVENT_MESSAGE(message_id=12634*)
+  9: 0x2099 [0x1D] PRINT_EVENT_MESSAGE(message_id=12635*)
     → "The Star Sibyl, the Sibyl Guards, Miss Apururu, Minister Ajido-Marujido... Everyone in Windurst is so grateful for what you have done."
  10: 0x209C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x209D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x02)
  12: 0x20A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x0F)
- 13: 0x20AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12635*)
+ 13: 0x20AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12636*)
     → "Everyone is friends again! Isn'taru that wonderful?"
  14: 0x20AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x20AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janshura-Rashura (ID: 17760269/0x010F000D), tag_num=0x10)

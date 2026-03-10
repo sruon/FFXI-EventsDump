@@ -22,8 +22,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E0E      |        7694 |
-|       1 | 0x1E0F      |        7695 |
+|       0 | 0x1E0F      |        7695 |
+|       1 | 0x1E10      |        7696 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0013      |          19 |
@@ -33,16 +33,16 @@
 |       8 | 0x00E9      |         233 |
 |       9 | 0x00C8      |         200 |
 |      10 | 0x0027      |          39 |
-|      11 | 0x1E17      |        7703 |
+|      11 | 0x1E18      |        7704 |
 |      12 | 0x007F      |         127 |
-|      13 | 0x1E18      |        7704 |
+|      13 | 0x1E19      |        7705 |
 |      14 | 0x003C      |          60 |
-|      15 | 0x1E19      |        7705 |
+|      15 | 0x1E1A      |        7706 |
 |      16 | 0x00A3      |         163 |
 |      17 | 0x0060      |          96 |
 |      18 | 0x001E      |          30 |
-|      19 | 0x1E1A      |        7706 |
-|      20 | 0x1E1B      |        7707 |
+|      19 | 0x1E1B      |        7707 |
+|      20 | 0x1E1C      |        7708 |
 |      21 | 0x00FD      |         253 |
 |      22 | 0x0003      |           3 |
 |      23 | 0x002D      |          45 |
@@ -56,13 +56,13 @@
 
 ## String References
 
-- **7694**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
-- **7695**: Do you remove the $3? [Yes./No.]
-- **7703**: You put down the $0.
-- **7704**: Opo! Opo-opo-opo! Oppopopo-opo!
-- **7705**: Oppopo! Ohpopo!
-- **7706**: Opopo!
-- **7707**: The Opo-opo is holding something.
+- **7695**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
+- **7696**: Do you remove the $3? [Yes./No.]
+- **7704**: You put down the $0.
+- **7705**: Opo! Opo-opo-opo! Oppopopo-opo!
+- **7706**: Oppopo! Ohpopo!
+- **7707**: Opopo!
+- **7708**: The Opo-opo is holding something.
 
 ## Events
 
@@ -110,10 +110,10 @@
 
 ```
   0: 0x0001 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x000A [0x48] [System] [7694*]:
+  1: 0x000A [0x48] [System] [7695*]:
     → "6... A single fragment of light. The way in which it shines suggests that it is resonating with something..."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x24] CREATE_DIALOG(message_id=7695*, default_option=0*, option_flags=0*)
+  3: 0x000E [0x24] CREATE_DIALOG(message_id=7696*, default_option=0*, option_flags=0*)
     → "Do you remove the $3? [Yes./No.]"
   4: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0026
@@ -147,10 +147,10 @@ SUBROUTINE_0026:
 
 ```
   0: 0x0028 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x0031 [0x48] [System] [7694*]:
+  1: 0x0031 [0x48] [System] [7695*]:
     → "6... A single fragment of light. The way in which it shines suggests that it is resonating with something..."
   2: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0035 [0x24] CREATE_DIALOG(message_id=7695*, default_option=0*, option_flags=0*)
+  3: 0x0035 [0x24] CREATE_DIALOG(message_id=7696*, default_option=0*, option_flags=0*)
     → "Do you remove the $3? [Yes./No.]"
   4: 0x003C [0x25] WAIT_DIALOG_SELECT()
   5: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004D
@@ -272,14 +272,14 @@ SUBROUTINE_004D:
  14: 0x0090 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x00A1 [0x6E] LocalPlayer uses emote 39*
  16: 0x00A8 [0x99] Wait for LocalPlayer animation to complete
- 17: 0x00AD [0x48] [System] [7703*]:
+ 17: 0x00AD [0x48] [System] [7704*]:
     → "You put down the $0."
  18: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00B1 [0x99] Wait for LocalPlayer animation to complete
  20: 0x00B6 [0x6C] FADE_ENTITY_COLOR(entity_id=OpoopoA (ID: 17281626/0x0107B25A), end_alpha=127*, fade_time=1*)
  21: 0x00BF [0x6C] FADE_ENTITY_COLOR(entity_id=OpoopoB (ID: 17281627/0x0107B25B), end_alpha=127*, fade_time=1*)
  22: 0x00C8 [0x6C] FADE_ENTITY_COLOR(entity_id=OpoopoC (ID: 17281628/0x0107B25C), end_alpha=127*, fade_time=1*)
- 23: 0x00D1 [0x48] [System] [7704*]:
+ 23: 0x00D1 [0x48] [System] [7705*]:
     → "Opo! Opo-opo-opo! Oppopopo-opo!"
  24: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00D5 [0x4A] LocalPlayer looks at OpoopoA (ID: 17281626/0x0107B25A)
@@ -291,7 +291,7 @@ SUBROUTINE_004D:
  31: 0x0121 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  32: 0x0126 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  33: 0x0137 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=60*)
- 34: 0x013C [0x48] [System] [7705*]:
+ 34: 0x013C [0x48] [System] [7706*]:
     → "Oppopo! Ohpopo!"
  35: 0x013F [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0140 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 163*
@@ -303,10 +303,10 @@ SUBROUTINE_004D:
  42: 0x0156 [0x52] END_LOAD_SCHEDULER: End scheduler "yut2" with entities [LocalPlayer, LocalPlayer], work=233*
  43: 0x0165 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "yut3" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
  44: 0x0176 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=OpoopoA (ID: 17281626/0x0107B25A), tag_num=0x02)
- 45: 0x017D [0x48] [System] [7706*]:
+ 45: 0x017D [0x48] [System] [7707*]:
     → "Opopo!"
  46: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x0181 [0x48] [System] [7707*]:
+ 47: 0x0181 [0x48] [System] [7708*]:
     → "The Opo-opo is holding something."
  48: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0185 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bow0" with entities [OpoopoA (ID: 17281626/0x0107B25A), OpoopoA (ID: 17281626/0x0107B25A)], work=253*

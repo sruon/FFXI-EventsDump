@@ -33,32 +33,32 @@
 |       8 | 0x0006      |           6 |
 |       9 | 0x0007      |           7 |
 |      10 | 0x0008      |           8 |
-|      11 | 0x1DBA      |        7610 |
-|      12 | 0x1DD4      |        7636 |
-|      13 | 0x1DBC      |        7612 |
+|      11 | 0x1DBB      |        7611 |
+|      12 | 0x1DD5      |        7637 |
+|      13 | 0x1DBD      |        7613 |
 |      14 | 0x000F      |          15 |
 |      15 | 0x0010      |          16 |
 |      16 | 0x001F      |          31 |
-|      17 | 0x1DBB      |        7611 |
-|      18 | 0x1DBD      |        7613 |
-|      19 | 0x1DC2      |        7618 |
-|      20 | 0x1DC3      |        7619 |
-|      21 | 0x1DC4      |        7620 |
-|      22 | 0x1DC5      |        7621 |
+|      17 | 0x1DBC      |        7612 |
+|      18 | 0x1DBE      |        7614 |
+|      19 | 0x1DC3      |        7619 |
+|      20 | 0x1DC4      |        7620 |
+|      21 | 0x1DC5      |        7621 |
+|      22 | 0x1DC6      |        7622 |
 |      23 | 0x000A      |          10 |
 |      24 | 0x270F      |        9999 |
 
 ## String References
 
-- **7610**: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
-- **7611**: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
-- **7612**: Obtain this item? [Yes./No.]
-- **7613**: Obtain this temporary item? [Yes./No.]
-- **7618**: The chest is locked.
-- **7619**: What will you do? [Leave it be./Attempt to unlock it.]
-- **7620**: What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]
-- **7621**: It appears that you can enter a two-digit combination between 10 and 99.
-- **7636**: Obtain this item?
+- **7611**: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+- **7612**: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+- **7613**: Obtain this item? [Yes./No.]
+- **7614**: Obtain this temporary item? [Yes./No.]
+- **7619**: The chest is locked.
+- **7620**: What will you do? [Leave it be./Attempt to unlock it.]
+- **7621**: What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]
+- **7622**: It appears that you can enter a two-digit combination between 10 and 99.
+- **7637**: Obtain this item?
 
 ## Events
 
@@ -153,7 +153,7 @@
  37: 0x00D9 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x00ED
  38: 0x00E1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=8*, condition_work_offset=1*)
  39: 0x00E8 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[7]
- 40: 0x00ED [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 40: 0x00ED [0x24] CREATE_DIALOG(message_id=7611*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]"
  41: 0x00F4 [0x25] WAIT_DIALOG_SELECT()
  42: 0x00F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010A
@@ -197,11 +197,11 @@ SUBROUTINE_01B2:
  78: 0x01B2 [0x02] IF !(ExtData[1]->WorkLocal[9] <= 0*) GOTO 0x0206
  79: 0x01BA [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x0206
  80: 0x01C2 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[12])
- 81: 0x01C5 [0x48] [System] [7636*]:
+ 81: 0x01C5 [0x48] [System] [7637*]:
     → "Obtain this item?"
  82: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x01C9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 84: 0x01CC [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+ 84: 0x01CC [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
  85: 0x01D3 [0x25] WAIT_DIALOG_SELECT()
  86: 0x01D4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E4
@@ -311,7 +311,7 @@ SUBROUTINE_01F4:
  37: 0x02E2 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x02F6
  38: 0x02EA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=8*, condition_work_offset=1*)
  39: 0x02F1 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[7]
- 40: 0x02F6 [0x24] CREATE_DIALOG(message_id=7611*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 40: 0x02F6 [0x24] CREATE_DIALOG(message_id=7612*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]"
  41: 0x02FD [0x25] WAIT_DIALOG_SELECT()
  42: 0x02FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0313
@@ -355,11 +355,11 @@ SUBROUTINE_03BB:
  78: 0x03BB [0x02] IF !(ExtData[1]->WorkLocal[9] <= 0*) GOTO 0x040F
  79: 0x03C3 [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x040F
  80: 0x03CB [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[12])
- 81: 0x03CE [0x48] [System] [7636*]:
+ 81: 0x03CE [0x48] [System] [7637*]:
     → "Obtain this item?"
  82: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x03D2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 84: 0x03D5 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+ 84: 0x03D5 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Obtain this temporary item? [Yes./No.]"
  85: 0x03DC [0x25] WAIT_DIALOG_SELECT()
  86: 0x03DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03ED
@@ -413,10 +413,10 @@ SUBROUTINE_03FD:
   3: 0x0421 [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[2]
   4: 0x0426 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   5: 0x0428 [0x1C] WAIT(60* ticks)
-  6: 0x042B [0x48] [System] [7618*]:
+  6: 0x042B [0x48] [System] [7619*]:
     → "The chest is locked."
   7: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x042F [0x24] CREATE_DIALOG(message_id=7619*, default_option=0*, option_flags=0*)
+  8: 0x042F [0x24] CREATE_DIALOG(message_id=7620*, default_option=0*, option_flags=0*)
     → "What will you do? [Leave it be./Attempt to unlock it.]"
   9: 0x0436 [0x25] WAIT_DIALOG_SELECT()
  10: 0x0437 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0447
@@ -425,7 +425,7 @@ SUBROUTINE_03FD:
  13: 0x0447 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04CA
  14: 0x044F [0x03] ExtData[1]->WorkLocal[10] = 1*
  15: 0x0454 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
- 16: 0x0459 [0x24] CREATE_DIALOG(message_id=7620*, default_option=0*, option_flags=0*)
+ 16: 0x0459 [0x24] CREATE_DIALOG(message_id=7621*, default_option=0*, option_flags=0*)
     → "What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]"
  17: 0x0460 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0461 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0471
@@ -433,7 +433,7 @@ SUBROUTINE_03FD:
  20: 0x046E [0x01] GOTO 0x04AC
  21: 0x0471 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x049C
  22: 0x0479 [0x03] ExtData[1]->WorkLocal[9] = 1*
- 23: 0x047E [0x48] [System] [7621*]:
+ 23: 0x047E [0x48] [System] [7622*]:
     → "It appears that you can enter a two-digit combination between 10 and 99."
  24: 0x0481 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0482 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -552,7 +552,7 @@ SUBROUTINE_058A:
  37: 0x058F [0x03] Work_Zone[7] = 1*
  38: 0x0594 [0x03] Work_Zone[8] = 1*
  39: 0x0599 [0x03] Work_Zone[9] = 1*
- 40: 0x059E [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 40: 0x059E [0x24] CREATE_DIALOG(message_id=7611*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]"
  41: 0x05A5 [0x25] WAIT_DIALOG_SELECT()
  42: 0x05A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05BB
@@ -584,11 +584,11 @@ SUBROUTINE_0623:
  66: 0x0623 [0x02] IF !(ExtData[1]->WorkLocal[9] <= 0*) GOTO 0x0685
  67: 0x062B [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x0685
  68: 0x0633 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[12], buffer1=ExtData[1]->WorkLocal[18], buffer2=0*, buffer3=0*)
- 69: 0x063D [0x48] [System] [7636*]:
+ 69: 0x063D [0x48] [System] [7637*]:
     → "Obtain this item?"
  70: 0x0640 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0641 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
- 72: 0x064B [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+ 72: 0x064B [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
  73: 0x0652 [0x25] WAIT_DIALOG_SELECT()
  74: 0x0653 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0663

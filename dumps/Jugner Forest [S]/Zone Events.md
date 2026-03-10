@@ -66,7 +66,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2170      |        8560 |
+|       0 | 0x2171      |        8561 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
@@ -126,23 +126,23 @@
 |      57 | 0x0120      |         288 |
 |      58 | 0x000F      |          15 |
 |      59 | 0x0003      |           3 |
-|      60 | 0x1E38      |        7736 |
+|      60 | 0x1E39      |        7737 |
 |      61 | 0x001E      |          30 |
 |      62 | 0x0050      |          80 |
-|      63 | 0x1E39      |        7737 |
-|      64 | 0x1E3A      |        7738 |
-|      65 | 0x1E3B      |        7739 |
-|      66 | 0x1E3C      |        7740 |
+|      63 | 0x1E3A      |        7738 |
+|      64 | 0x1E3B      |        7739 |
+|      65 | 0x1E3C      |        7740 |
+|      66 | 0x1E3D      |        7741 |
 |      67 | 0x081F      |        2079 |
-|      68 | 0x1E3D      |        7741 |
-|      69 | 0x1E3E      |        7742 |
-|      70 | 0x1E3F      |        7743 |
+|      68 | 0x1E3E      |        7742 |
+|      69 | 0x1E3F      |        7743 |
+|      70 | 0x1E40      |        7744 |
 |      71 | 0x00FB      |         251 |
 |      72 | 0x04FC      |        1276 |
-|      73 | 0x1E40      |        7744 |
-|      74 | 0x1E41      |        7745 |
-|      75 | 0x1E42      |        7746 |
-|      76 | 0x1E43      |        7747 |
+|      73 | 0x1E41      |        7745 |
+|      74 | 0x1E42      |        7746 |
+|      75 | 0x1E43      |        7747 |
+|      76 | 0x1E44      |        7748 |
 |      77 | 0x04FD      |        1277 |
 |      78 | 0x0096      |         150 |
 |      79 | 0x0078      |         120 |
@@ -155,29 +155,29 @@
 |      86 | 0x6B6B3     |      439987 |
 |      87 | 0x1621      |        5665 |
 |      88 | 0x0818      |        2072 |
-|      89 | 0x1E44      |        7748 |
+|      89 | 0x1E45      |        7749 |
 |      90 | 0x0004      |           4 |
 |      91 | 0x0006      |           6 |
 |      92 | 0x0008      |           8 |
-|      93 | 0x1E45      |        7749 |
-|      94 | 0x1E46      |        7750 |
-|      95 | 0x1E47      |        7751 |
+|      93 | 0x1E46      |        7750 |
+|      94 | 0x1E47      |        7751 |
+|      95 | 0x1E48      |        7752 |
 |      96 | 0x1A3C4     |      107460 |
 |      97 | 0x6A6CC     |      435916 |
 |      98 | 0x0FE1      |        4065 |
 |      99 | 0x047D      |        1149 |
-|     100 | 0x1E48      |        7752 |
-|     101 | 0x1E49      |        7753 |
-|     102 | 0x1E4A      |        7754 |
+|     100 | 0x1E49      |        7753 |
+|     101 | 0x1E4A      |        7754 |
+|     102 | 0x1E4B      |        7755 |
 |     103 | 0x000B      |          11 |
-|     104 | 0x1E4B      |        7755 |
-|     105 | 0x1E4C      |        7756 |
-|     106 | 0x1E4D      |        7757 |
-|     107 | 0x1E4E      |        7758 |
-|     108 | 0x1E4F      |        7759 |
-|     109 | 0x1E50      |        7760 |
-|     110 | 0x1E51      |        7761 |
-|     111 | 0x1E52      |        7762 |
+|     104 | 0x1E4C      |        7756 |
+|     105 | 0x1E4D      |        7757 |
+|     106 | 0x1E4E      |        7758 |
+|     107 | 0x1E4F      |        7759 |
+|     108 | 0x1E50      |        7760 |
+|     109 | 0x1E51      |        7761 |
+|     110 | 0x1E52      |        7762 |
+|     111 | 0x1E53      |        7763 |
 |     112 | 0x14A1      |        5281 |
 |     113 | 0x6B671     |      439921 |
 |     114 | 0x84277     |      541303 |
@@ -188,23 +188,23 @@
 |     119 | 0x08F5      |        2293 |
 |     120 | 0x014F      |         335 |
 |     121 | 0x0E10      |        3600 |
-|     122 | 0x1F1D      |        7965 |
-|     123 | 0x1F1E      |        7966 |
-|     124 | 0x1F1F      |        7967 |
+|     122 | 0x1F1E      |        7966 |
+|     123 | 0x1F1F      |        7967 |
+|     124 | 0x1F20      |        7968 |
 |     125 | 0x00D7      |         215 |
-|     126 | 0x1F20      |        7968 |
+|     126 | 0x1F21      |        7969 |
 |     127 | 0x1C632     |      116274 |
 |     128 | 0x686C3     |      427715 |
 |     129 | 0x0366      |         870 |
 |     130 | 0x0206      |         518 |
-|     131 | 0x1F21      |        7969 |
+|     131 | 0x1F22      |        7970 |
 |     132 | 0x6F281     |      455297 |
 |     133 | 0x83AD7     |      539351 |
 |     134 | 0x09F4      |        2548 |
 |     135 | 0x0A56      |        2646 |
-|     136 | 0x1F22      |        7970 |
-|     137 | 0x1F23      |        7971 |
-|     138 | 0x1F24      |        7972 |
+|     136 | 0x1F23      |        7971 |
+|     137 | 0x1F24      |        7972 |
+|     138 | 0x1F25      |        7973 |
 |     139 | 0x1B1EA     |      111082 |
 |     140 | 0x6DD83     |      449923 |
 |     141 | 0x04D4      |        1236 |
@@ -215,12 +215,12 @@
 |     146 | 0x6C7DC     |      444380 |
 |     147 | 0x0C1E      |        3102 |
 |     148 | 0x0ED7      |        3799 |
-|     149 | 0x1F25      |        7973 |
-|     150 | 0x1F26      |        7974 |
-|     151 | 0x1F27      |        7975 |
-|     152 | 0x1F28      |        7976 |
+|     149 | 0x1F26      |        7974 |
+|     150 | 0x1F27      |        7975 |
+|     151 | 0x1F28      |        7976 |
+|     152 | 0x1F29      |        7977 |
 |     153 | 0x09FE      |        2558 |
-|     154 | 0x1F29      |        7977 |
+|     154 | 0x1F2A      |        7978 |
 |     155 | 0x1AC69     |      109673 |
 |     156 | 0x6CB48     |      445256 |
 |     157 | 0x08E0      |        2272 |
@@ -228,23 +228,23 @@
 |     159 | 0x6A7BE     |      436158 |
 |     160 | 0x1529      |        5417 |
 |     161 | 0x0B5F      |        2911 |
-|     162 | 0x1F2A      |        7978 |
-|     163 | 0x1F2B      |        7979 |
-|     164 | 0x1F2C      |        7980 |
+|     162 | 0x1F2B      |        7979 |
+|     163 | 0x1F2C      |        7980 |
+|     164 | 0x1F2D      |        7981 |
 |     165 | 0x03E7      |         999 |
-|     166 | 0x1F2D      |        7981 |
+|     166 | 0x1F2E      |        7982 |
 |     167 | 0x0042      |          66 |
 |     168 | 0x0041      |          65 |
-|     169 | 0x1F2E      |        7982 |
-|     170 | 0x1F2F      |        7983 |
-|     171 | 0x1F30      |        7984 |
-|     172 | 0x1F31      |        7985 |
-|     173 | 0x1F32      |        7986 |
-|     174 | 0x1F33      |        7987 |
-|     175 | 0x1F34      |        7988 |
-|     176 | 0x1F35      |        7989 |
-|     177 | 0x1F36      |        7990 |
-|     178 | 0x1F37      |        7991 |
+|     169 | 0x1F2F      |        7983 |
+|     170 | 0x1F30      |        7984 |
+|     171 | 0x1F31      |        7985 |
+|     172 | 0x1F32      |        7986 |
+|     173 | 0x1F33      |        7987 |
+|     174 | 0x1F34      |        7988 |
+|     175 | 0x1F35      |        7989 |
+|     176 | 0x1F36      |        7990 |
+|     177 | 0x1F37      |        7991 |
+|     178 | 0x1F38      |        7992 |
 |     179 | 0x66F10     |      421648 |
 |     180 | 0x57A8A     |      359050 |
 |     181 | 0x66BD6     |      420822 |
@@ -300,8 +300,8 @@
 
 ## String References
 
-- **7736**: You find a sparkling stone.
-- **8560**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **7737**: You find a sparkling stone.
+- **8561**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
 
 ## Events
 
@@ -375,7 +375,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [8560*]:
+  1: 0x0003 [0x48] [System] [8561*]:
     → "The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
   2: 0x0006 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0017 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0033
@@ -1238,7 +1238,7 @@
  18: 0x0392 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  19: 0x03A3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
  20: 0x03B2 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Glowing Pebbles (ID: 17113885/0x0105231D), Glowing Pebbles (ID: 17113885/0x0105231D)], work=[3*, 0*]
- 21: 0x03C3 [0x48] [System] [7736*]:
+ 21: 0x03C3 [0x48] [System] [7737*]:
     → "You find a sparkling stone."
  22: 0x03C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x03C7 [0x27] REQ_SET(priority=0x05, entity_id=Laila (ID: 17113886/0x0105231E), tag_num=0x02)
@@ -1249,7 +1249,7 @@
  28: 0x03F7 [0x4A] LocalPlayer looks at Laila (ID: 17113886/0x0105231E)
  29: 0x0400 [0x1C] WAIT(30* ticks)
  30: 0x0403 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "e001" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)], work=80*
- 31: 0x0412 [0x2B] Laila (ID: 17113886/0x0105231E) [7737*]:
+ 31: 0x0412 [0x2B] Laila (ID: 17113886/0x0105231E) [7738*]:
     → "Well, isn't that a pretty little thing. I'll have t'take one home with me!"
  32: 0x0419 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x041A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "e001" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)]
@@ -1257,33 +1257,33 @@
  35: 0x0436 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[288*, 0*]
  36: 0x0447 [0x4A] Laila (ID: 17113886/0x0105231E) looks at LocalPlayer
  37: 0x0450 [0x1C] WAIT(30* ticks)
- 38: 0x0453 [0x2B] Laila (ID: 17113886/0x0105231E) [7738*]:
+ 38: 0x0453 [0x2B] Laila (ID: 17113886/0x0105231E) [7739*]:
     → "What are you gawpin' at? I don't give out autographs."
  39: 0x045A [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x045B [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [EventEntity, EventEntity], work=288*
  41: 0x046A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [EventEntity, EventEntity], work=[288*, 0*]
  42: 0x047B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aww0" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)], work=80*
- 43: 0x048A [0x2B] Laila (ID: 17113886/0x0105231E) [7739*]:
+ 43: 0x048A [0x2B] Laila (ID: 17113886/0x0105231E) [7740*]:
     → "Hm? You have no idea who I am?"
  44: 0x0491 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0492 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aww1" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)], work=80*
- 46: 0x04A1 [0x2B] Laila (ID: 17113886/0x0105231E) [7740*]:
+ 46: 0x04A1 [0x2B] Laila (ID: 17113886/0x0105231E) [7741*]:
     → "Not ev'ryone appreciates the arts, I s'pose. I'll be quittin' the dancin' game soon, anyway. I'm meant to be at practice as we speak."
  47: 0x04A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x04A9 [0x52] END_LOAD_SCHEDULER: End scheduler "s055" with entities [EventEntity, EventEntity], work=288*
  49: 0x04B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s056" with entities [EventEntity, EventEntity], work=[288*, 0*]
  50: 0x04C9 [0x4B] UPDATE_ENTITY_YAW(entity=Laila (ID: 17113886/0x0105231E), yaw=11.4°*)
  51: 0x04D0 [0x1C] WAIT(60* ticks)
- 52: 0x04D3 [0x2B] Laila (ID: 17113886/0x0105231E) [7741*]:
+ 52: 0x04D3 [0x2B] Laila (ID: 17113886/0x0105231E) [7742*]:
     → "All my days have been filled with dance... I'm findin' it hard t'remember why I even started."
  53: 0x04DA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x04DB [0x2B] Laila (ID: 17113886/0x0105231E) [7742*]:
+ 54: 0x04DB [0x2B] Laila (ID: 17113886/0x0105231E) [7743*]:
     → "Dancin' never used t'be such a chore. And it made me mother and father so proud..."
  55: 0x04E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x04E3 [0x52] END_LOAD_SCHEDULER: End scheduler "s056" with entities [EventEntity, EventEntity], work=288*
  57: 0x04F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [EventEntity, EventEntity], work=[288*, 0*]
  58: 0x0503 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)], work=80*
- 59: 0x0512 [0x2B] Laila (ID: 17113886/0x0105231E) [7743*]:
+ 59: 0x0512 [0x2B] Laila (ID: 17113886/0x0105231E) [7744*]:
     → "But now..."
  60: 0x0519 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x051A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)], work=80*
@@ -1297,24 +1297,24 @@
  69: 0x0567 [0x1C] WAIT(210* ticks)
  70: 0x056A [0x52] END_LOAD_SCHEDULER: End scheduler "s074" with entities [EventEntity, EventEntity], work=288*
  71: 0x0579 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [EventEntity, EventEntity], work=[288*, 0*]
- 72: 0x058A [0x2B] Laila (ID: 17113886/0x0105231E) [7744*]:
+ 72: 0x058A [0x2B] Laila (ID: 17113886/0x0105231E) [7745*]:
     → "...?"
  73: 0x0591 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0592 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dan0" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)]
  75: 0x059F [0x7C] Laila (ID: 17113886/0x0105231E)->Render.Flags2 |= 0x01
  76: 0x05A5 [0x52] END_LOAD_SCHEDULER: End scheduler "s058" with entities [EventEntity, EventEntity], work=288*
  77: 0x05B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [EventEntity, EventEntity], work=[288*, 0*]
- 78: 0x05C5 [0x2B] Laila (ID: 17113886/0x0105231E) [7745*]:
+ 78: 0x05C5 [0x2B] Laila (ID: 17113886/0x0105231E) [7746*]:
     → "What a lovely, liltin' melody... I've never heard the pipes played so well."
  79: 0x05CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x05CD [0x52] END_LOAD_SCHEDULER: End scheduler "s084" with entities [EventEntity, EventEntity], work=288*
  81: 0x05DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [EventEntity, EventEntity], work=[288*, 0*]
- 82: 0x05ED [0x2B] Laila (ID: 17113886/0x0105231E) [7746*]:
+ 82: 0x05ED [0x2B] Laila (ID: 17113886/0x0105231E) [7747*]:
     → "I...I feel so light all o' a sudden..."
  83: 0x05F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x05F5 [0x52] END_LOAD_SCHEDULER: End scheduler "s059" with entities [EventEntity, EventEntity], work=288*
  85: 0x0604 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [EventEntity, EventEntity], work=[288*, 0*]
- 86: 0x0615 [0x2B] Laila (ID: 17113886/0x0105231E) [7747*]:
+ 86: 0x0615 [0x2B] Laila (ID: 17113886/0x0105231E) [7748*]:
     → "I feel like I could float right off the ground."
  87: 0x061C [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x061D [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [EventEntity, EventEntity], work=288*
@@ -1367,7 +1367,7 @@
 135: 0x07FA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s065" with entities [EventEntity, EventEntity], work=288*
 136: 0x0809 [0x1C] WAIT(30* ticks)
 137: 0x080C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [EventEntity, EventEntity], work=[288*, 0*]
-138: 0x081D [0x2B] Laila (ID: 17113886/0x0105231E) [7748*]:
+138: 0x081D [0x2B] Laila (ID: 17113886/0x0105231E) [7749*]:
     → "I never knew I could enjoy dancin' just for the sake o' dancin'. No cheerin' audience. No dotin' parents..."
 139: 0x0824 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0825 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x08)
@@ -1398,7 +1398,7 @@ SUBROUTINE_08D8:
 163: 0x08F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[288*, 0*]
 164: 0x090A [0x4A] Laila (ID: 17113886/0x0105231E) looks at LocalPlayer
 165: 0x0913 [0x1C] WAIT(30* ticks)
-166: 0x0916 [0x2B] Laila (ID: 17113886/0x0105231E) [7749*]:
+166: 0x0916 [0x2B] Laila (ID: 17113886/0x0105231E) [7750*]:
     → "Ye're fortunate, ye know. I usually perform before lords an' ladies."
 167: 0x091D [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x091E [0x52] END_LOAD_SCHEDULER: End scheduler "s088" with entities [EventEntity, EventEntity], work=288*
@@ -1408,14 +1408,14 @@ SUBROUTINE_08D8:
 172: 0x0949 [0x4A] Laila (ID: 17113886/0x0105231E) looks at Fairaure (ID: 17113887/0x0105231F)
 173: 0x0952 [0x1C] WAIT(30* ticks)
 174: 0x0955 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)], work=80*
-175: 0x0964 [0x2B] Laila (ID: 17113886/0x0105231E) [7750*]:
+175: 0x0964 [0x2B] Laila (ID: 17113886/0x0105231E) [7751*]:
     → "Now where did that pipe player go? Sure'n that was a sweet song..."
 176: 0x096B [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x096C [0x27] REQ_SET(priority=0x05, entity_id=Fairaure (ID: 17113887/0x0105231F), tag_num=0x02)
 178: 0x0973 [0x1C] WAIT(30* ticks)
 179: 0x0976 [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [EventEntity, EventEntity], work=288*
 180: 0x0985 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s075" with entities [EventEntity, EventEntity], work=[288*, 0*]
-181: 0x0996 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7751*]:
+181: 0x0996 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7752*]:
     → "Milady!"
 182: 0x099D [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x099E [0x52] END_LOAD_SCHEDULER: End scheduler "s075" with entities [EventEntity, EventEntity], work=288*
@@ -1424,7 +1424,7 @@ SUBROUTINE_08D8:
 186: 0x09C4 [0xBA] SET_ENTITY_POSITION(entity_id=Fairaure (ID: 17113887/0x0105231F), pos_x=107.460*, pos_z=435.916*, pos_y=4.065*, direction=101.0°*)
 187: 0x09D1 [0x80] LOAD_WAIT(entity=Fairaure (ID: 17113887/0x0105231F))
 188: 0x09D6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)], work=80*
-189: 0x09E5 [0x2B] Laila (ID: 17113886/0x0105231E) [7752*]:
+189: 0x09E5 [0x2B] Laila (ID: 17113886/0x0105231E) [7753*]:
     → "Fairaure!"
 190: 0x09EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x09ED [0x27] REQ_SET(priority=0x05, entity_id=Fairaure (ID: 17113887/0x0105231F), tag_num=0x03)
@@ -1432,50 +1432,50 @@ SUBROUTINE_08D8:
 193: 0x09F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [EventEntity, EventEntity], work=288*
 194: 0x0A06 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[288*, 0*]
 195: 0x0A17 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Fairaure (ID: 17113887/0x0105231F))
-196: 0x0A1D [0x2B] Fairaure (ID: 17113887/0x0105231F) [7753*]:
+196: 0x0A1D [0x2B] Fairaure (ID: 17113887/0x0105231F) [7754*]:
     → "Thank Altana I've found you safe and sound. If anything should happen to you, my honor would be irrevocably stained..."
 197: 0x0A24 [0x23] WAIT_FOR_DIALOG_INTERACTION
-198: 0x0A25 [0x2B] Laila (ID: 17113886/0x0105231E) [7754*]:
+198: 0x0A25 [0x2B] Laila (ID: 17113886/0x0105231E) [7755*]:
     → "Fairaure, how did you manage t'lag so far behind with those long Elvaan legs?"
 199: 0x0A2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x0A2D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "awa0" with entities [Fairaure (ID: 17113887/0x0105231F), Fairaure (ID: 17113887/0x0105231F)], work=11*
 201: 0x0A3C [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=288*
 202: 0x0A4B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [EventEntity, EventEntity], work=[288*, 0*]
 203: 0x0A5C [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
-204: 0x0A62 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7755*]:
+204: 0x0A62 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7756*]:
     → "My apologies, milady! It shan't happen again!"
 205: 0x0A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x0A6A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "awa0" with entities [Fairaure (ID: 17113887/0x0105231F), Fairaure (ID: 17113887/0x0105231F)]
 207: 0x0A77 [0x52] END_LOAD_SCHEDULER: End scheduler "s068" with entities [EventEntity, EventEntity], work=288*
 208: 0x0A86 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [EventEntity, EventEntity], work=[288*, 0*]
-209: 0x0A97 [0x2B] Laila (ID: 17113886/0x0105231E) [7756*]:
+209: 0x0A97 [0x2B] Laila (ID: 17113886/0x0105231E) [7757*]:
     → "Although, I s'pose I should be thankin' you."
 210: 0x0A9E [0x23] WAIT_FOR_DIALOG_INTERACTION
-211: 0x0A9F [0x2B] Fairaure (ID: 17113887/0x0105231F) [7757*]:
+211: 0x0A9F [0x2B] Fairaure (ID: 17113887/0x0105231F) [7758*]:
     → "Thanking me, milady?"
 212: 0x0AA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x0AA7 [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [EventEntity, EventEntity], work=288*
 214: 0x0AB6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [EventEntity, EventEntity], work=[288*, 0*]
 215: 0x0AC7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)], work=80*
-216: 0x0AD6 [0x2B] Laila (ID: 17113886/0x0105231E) [7758*]:
+216: 0x0AD6 [0x2B] Laila (ID: 17113886/0x0105231E) [7759*]:
     → "I was on the verge of givin' up everythin'. The only reason I said I wanted t'see the stones in the lake was t'escape from dance practice."
 217: 0x0ADD [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x0ADE [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [EventEntity, EventEntity], work=288*
 219: 0x0AED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[288*, 0*]
-220: 0x0AFE [0x2B] Laila (ID: 17113886/0x0105231E) [7759*]:
+220: 0x0AFE [0x2B] Laila (ID: 17113886/0x0105231E) [7760*]:
     → "If you hadn't agreed to sneak me out, I might o' thrown away me dancin' forever..."
 221: 0x0B05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x0B06 [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [EventEntity, EventEntity], work=288*
 223: 0x0B15 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[288*, 0*]
 224: 0x0B26 [0x7B] Fairaure (ID: 17113887/0x0105231F) stops talking
 225: 0x0B2B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Laila (ID: 17113886/0x0105231E), Laila (ID: 17113886/0x0105231E)], work=80*
-226: 0x0B3A [0x2B] Laila (ID: 17113886/0x0105231E) [7760*]:
+226: 0x0B3A [0x2B] Laila (ID: 17113886/0x0105231E) [7761*]:
     → "Fairaure, I've decided t'give dancin' another chance."
 227: 0x0B41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x0B42 [0x52] END_LOAD_SCHEDULER: End scheduler "s071" with entities [EventEntity, EventEntity], work=288*
 229: 0x0B51 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [EventEntity, EventEntity], work=[288*, 0*]
 230: 0x0B62 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "cho0" with entities [Fairaure (ID: 17113887/0x0105231F), Fairaure (ID: 17113887/0x0105231F)], work=11*
-231: 0x0B71 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7761*]:
+231: 0x0B71 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7762*]:
     → "M-milady! I shall do everything in my power to see your dreams come to fruition!"
 232: 0x0B78 [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x0B79 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
@@ -1484,7 +1484,7 @@ SUBROUTINE_08D8:
 236: 0x0B91 [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [EventEntity, EventEntity], work=288*
 237: 0x0BA0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [EventEntity, EventEntity], work=[288*, 0*]
 238: 0x0BB1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Fairaure (ID: 17113887/0x0105231F), Fairaure (ID: 17113887/0x0105231F)], work=10*
-239: 0x0BC0 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7762*]:
+239: 0x0BC0 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7763*]:
     → "Let us return to the estate!"
 240: 0x0BC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x0BC8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Fairaure (ID: 17113887/0x0105231F), Fairaure (ID: 17113887/0x0105231F)], work=10*
@@ -1639,16 +1639,16 @@ SUBROUTINE_08D8:
  26: 0x0D4C [0x52] END_LOAD_SCHEDULER: End scheduler "s142" with entities [EventEntity, EventEntity], work=335*
  27: 0x0D5B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s143" with entities [EventEntity, EventEntity], work=[335*, 0*]
  28: 0x0D6C [0x2A] GET_REQ_LEVEL(level=5, entity_id=Fairaure (ID: 17113887/0x0105231F))
- 29: 0x0D72 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7965*]:
+ 29: 0x0D72 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7966*]:
     → "Oh...? I dare say, have we met before? How may I be of service?"
  30: 0x0D79 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0D7A [0x52] END_LOAD_SCHEDULER: End scheduler "s143" with entities [EventEntity, EventEntity], work=335*
  32: 0x0D89 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s144" with entities [EventEntity, EventEntity], work=[335*, 0*]
  33: 0x0D9A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Fairaure (ID: 17113887/0x0105231F), Fairaure (ID: 17113887/0x0105231F)], work=10*
- 34: 0x0DA9 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7966*]:
+ 34: 0x0DA9 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7967*]:
     → "What am I doing? I am in search of the bard who was playing a pipe somewhere in this forest the other day."
  35: 0x0DB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0DB1 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7967*]:
+ 36: 0x0DB1 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7968*]:
     → "You see, milady was captivated by the tune, and strongly wishes to meet with the bard in person."
  37: 0x0DB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0DB9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1665,7 +1665,7 @@ SUBROUTINE_08D8:
  49: 0x0E1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "efon" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
  50: 0x0E2B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "efon" with entities [LocalPlayer, LocalPlayer], work=215*
  51: 0x0E3A [0x27] REQ_SET(priority=0x05, entity_id=Fairaure (ID: 17113887/0x0105231F), tag_num=0x07)
- 52: 0x0E41 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7968*]:
+ 52: 0x0E41 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7969*]:
     → "Just a moment ago I heard music being played on a pipe, and made haste towards it. But alas, the sound suddenly broke off..."
  53: 0x0E48 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0E49 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s145" with entities [EventEntity, EventEntity], work=335*
@@ -1675,7 +1675,7 @@ SUBROUTINE_08D8:
  58: 0x0E74 [0xBA] SET_ENTITY_POSITION(entity_id=Fairaure (ID: 17113887/0x0105231F), pos_x=116.274*, pos_z=427.715*, pos_y=0.870*, direction=45.5°*)
  59: 0x0E81 [0x80] LOAD_WAIT(entity=Fairaure (ID: 17113887/0x0105231F))
  60: 0x0E86 [0x27] REQ_SET(priority=0x05, entity_id=Fairaure (ID: 17113887/0x0105231F), tag_num=0x08)
- 61: 0x0E8D [0x2B] Fairaure (ID: 17113887/0x0105231F) [7969*]:
+ 61: 0x0E8D [0x2B] Fairaure (ID: 17113887/0x0105231F) [7970*]:
     → "I continued further on to the lake, only to discover a broken pipe. There were signs that suggested a struggle may have taken place."
  62: 0x0E94 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0E95 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Fairaure (ID: 17113887/0x0105231F))
@@ -1695,18 +1695,18 @@ SUBROUTINE_08D8:
  77: 0x0F10 [0x1C] WAIT(15* ticks)
  78: 0x0F13 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  79: 0x0F24 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 80: 0x0F33 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7970*]:
+ 80: 0x0F33 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7971*]:
     → "I fear for the safety of the pipe's owner..."
  81: 0x0F3A [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0F3B [0x52] END_LOAD_SCHEDULER: End scheduler "s147" with entities [EventEntity, EventEntity], work=335*
  83: 0x0F4A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s148" with entities [EventEntity, EventEntity], work=[335*, 0*]
  84: 0x0F5B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Fairaure (ID: 17113887/0x0105231F), Fairaure (ID: 17113887/0x0105231F)], work=10*
- 85: 0x0F6A [0x2B] Fairaure (ID: 17113887/0x0105231F) [7971*]:
+ 85: 0x0F6A [0x2B] Fairaure (ID: 17113887/0x0105231F) [7972*]:
     → "I will continue my search for the bard."
  86: 0x0F71 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0F72 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Fairaure (ID: 17113887/0x0105231F), Fairaure (ID: 17113887/0x0105231F)], work=10*
  88: 0x0F81 [0x7B] Fairaure (ID: 17113887/0x0105231F) stops talking
- 89: 0x0F86 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7972*]:
+ 89: 0x0F86 [0x2B] Fairaure (ID: 17113887/0x0105231F) [7973*]:
     → "It would break my heart if I had to bring such tragic news back to milady..."
  90: 0x0F8D [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0F8E [0x52] END_LOAD_SCHEDULER: End scheduler "s148" with entities [EventEntity, EventEntity], work=335*
@@ -1830,16 +1830,16 @@ SUBROUTINE_08D8:
  35: 0x1140 [0x52] END_LOAD_SCHEDULER: End scheduler "s151" with entities [EventEntity, EventEntity], work=335*
  36: 0x114F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s152" with entities [EventEntity, EventEntity], work=[335*, 0*]
  37: 0x1160 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Shrouded Piper (ID: 17114009/0x01052399), tag_num=0x04)
- 38: 0x1167 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7973*]:
+ 38: 0x1167 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7974*]:
     → "What? You're looking for someone who was attacked by a monster and dropped a pipe?"
  39: 0x116E [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x116F [0x52] END_LOAD_SCHEDULER: End scheduler "s152" with entities [EventEntity, EventEntity], work=335*
  41: 0x117E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s153" with entities [EventEntity, EventEntity], work=[335*, 0*]
  42: 0x118F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shrouded Piper (ID: 17114009/0x01052399), Shrouded Piper (ID: 17114009/0x01052399)], work=9*
- 43: 0x119E [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7974*]:
+ 43: 0x119E [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7975*]:
     → "In that case, you need not look any further, for I am he. I love the beauty and solitude of this place, and often come here to play my pipe. Unfortunately, it seems a smilodon shares my sentiments."
  44: 0x11A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x11A6 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7975*]:
+ 45: 0x11A6 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7976*]:
     → "I somehow managed to escape from its razor-sharp claws, but as luck would have it, I dropped my treasured pipe as I fled. I've been scouring the forest for it since. If I recall correctly..."
  46: 0x11AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x11AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Shrouded Piper (ID: 17114009/0x01052399), Shrouded Piper (ID: 17114009/0x01052399)], work=9*
@@ -1851,7 +1851,7 @@ SUBROUTINE_08D8:
  53: 0x11F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s155" with entities [EventEntity, EventEntity], work=[335*, 0*]
  54: 0x120A [0x27] REQ_SET(priority=0x05, entity_id=Shrouded Piper (ID: 17114009/0x01052399), tag_num=0x05)
  55: 0x1211 [0x4A] LocalPlayer looks at Glowing Pebbles (ID: 17113885/0x0105231D)
- 56: 0x121A [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7976*]:
+ 56: 0x121A [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7977*]:
     → "Found it! Altana be praised!"
  57: 0x1221 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1222 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Shrouded Piper (ID: 17114009/0x01052399))
@@ -1862,7 +1862,7 @@ SUBROUTINE_08D8:
  63: 0x1264 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s156" with entities [EventEntity, EventEntity], work=335*
  64: 0x1273 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s157" with entities [EventEntity, EventEntity], work=[335*, 0*]
  65: 0x1284 [0x03] Work_Zone[2] = 2558*
- 66: 0x1289 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7977*]:
+ 66: 0x1289 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7978*]:
     → "But it's broken... If I had $0, it might be possible to make repairs..."
  67: 0x1290 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x1291 [0x52] END_LOAD_SCHEDULER: End scheduler "s157" with entities [EventEntity, EventEntity], work=335*
@@ -2031,20 +2031,20 @@ SUBROUTINE_08D8:
  15: 0x13B0 [0x1C] WAIT(15* ticks)
  16: 0x13B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  17: 0x13C4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 18: 0x13D3 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7978*]:
+ 18: 0x13D3 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7979*]:
     → "Well, well, we meet again."
  19: 0x13DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x13DB [0x2A] GET_REQ_LEVEL(level=5, entity_id=Shrouded Piper (ID: 17114009/0x01052399))
  21: 0x13E1 [0x52] END_LOAD_SCHEDULER: End scheduler "s159" with entities [EventEntity, EventEntity], work=335*
  22: 0x13F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s160" with entities [EventEntity, EventEntity], work=[335*, 0*]
  23: 0x1401 [0x03] Work_Zone[2] = 2558*
- 24: 0x1406 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7979*]:
+ 24: 0x1406 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7980*]:
     → "Hey...isn't that $0?"
  25: 0x140D [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x140E [0x52] END_LOAD_SCHEDULER: End scheduler "s160" with entities [EventEntity, EventEntity], work=335*
  27: 0x141D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s161" with entities [EventEntity, EventEntity], work=[335*, 0*]
  28: 0x142E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shrouded Piper (ID: 17114009/0x01052399), Shrouded Piper (ID: 17114009/0x01052399)], work=9*
- 29: 0x143D [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7980*]:
+ 29: 0x143D [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7981*]:
     → "You brought it for me? Now I can fix my beloved pipe! You have my eternal gratitude."
  30: 0x1444 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x1445 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2065,7 +2065,7 @@ SUBROUTINE_08D8:
  46: 0x14D8 [0x1C] WAIT(15* ticks)
  47: 0x14DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  48: 0x14EC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 49: 0x14FB [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7981*]:
+ 49: 0x14FB [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7982*]:
     → "There! Good as new!"
  50: 0x1502 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x1503 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 251*
@@ -2100,60 +2100,60 @@ SUBROUTINE_08D8:
  80: 0x1608 [0x1C] WAIT(15* ticks)
  81: 0x160B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  82: 0x161C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 83: 0x162B [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7982*]:
+ 83: 0x162B [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7983*]:
     → "So you're a dancer. That was some of the finest footwork I've seen in years."
  84: 0x1632 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x1633 [0x52] END_LOAD_SCHEDULER: End scheduler "s166" with entities [EventEntity, EventEntity], work=335*
  86: 0x1642 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s167" with entities [EventEntity, EventEntity], work=[335*, 0*]
  87: 0x1653 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Shrouded Piper (ID: 17114009/0x01052399), tag_num=0x0A)
- 88: 0x165A [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7983*]:
+ 88: 0x165A [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7984*]:
     → "That reminds me of when I trekked out here last. I was playing my favorite tune, when I caught glimpse of a little girl, a dancer. She must have heard my melody, because she started to dance. She was so pure, so full of joy and radiance, I was sincerely touched."
  89: 0x1661 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x1662 [0x52] END_LOAD_SCHEDULER: End scheduler "s167" with entities [EventEntity, EventEntity], work=335*
  91: 0x1671 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s168" with entities [EventEntity, EventEntity], work=[335*, 0*]
- 92: 0x1682 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7984*]:
+ 92: 0x1682 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7985*]:
     → "At that moment I felt as though the Goddess herself was smiling upon my decision to become a bard."
  93: 0x1689 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x168A [0x52] END_LOAD_SCHEDULER: End scheduler "s168" with entities [EventEntity, EventEntity], work=335*
  95: 0x1699 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s169" with entities [EventEntity, EventEntity], work=[335*, 0*]
  96: 0x16AA [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Shrouded Piper (ID: 17114009/0x01052399), tag_num=0x0B)
- 97: 0x16B1 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7985*]:
+ 97: 0x16B1 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7986*]:
     → "When the war is over, I plan to start a traveling circus troupe that will bring smiles and laughter wherever it goes."
  98: 0x16B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x16B9 [0x52] END_LOAD_SCHEDULER: End scheduler "s169" with entities [EventEntity, EventEntity], work=335*
 100: 0x16C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s170" with entities [EventEntity, EventEntity], work=[335*, 0*]
 101: 0x16D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shrouded Piper (ID: 17114009/0x01052399), Shrouded Piper (ID: 17114009/0x01052399)], work=9*
-102: 0x16E8 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7986*]:
+102: 0x16E8 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7987*]:
     → "I found this pebble here at the lake. As I gazed into its light, I realized that is what I wanted to do."
 103: 0x16EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x16F0 [0x52] END_LOAD_SCHEDULER: End scheduler "s170" with entities [EventEntity, EventEntity], work=335*
 105: 0x16FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s171" with entities [EventEntity, EventEntity], work=[335*, 0*]
 106: 0x1710 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Shrouded Piper (ID: 17114009/0x01052399), Shrouded Piper (ID: 17114009/0x01052399)], work=9*
 107: 0x171F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Shrouded Piper (ID: 17114009/0x01052399), Shrouded Piper (ID: 17114009/0x01052399)], work=9*
-108: 0x172E [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7987*]:
+108: 0x172E [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7988*]:
     → "Hmmm? That's odd... It was glowing brightly until a while ago."
 109: 0x1735 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x1736 [0x52] END_LOAD_SCHEDULER: End scheduler "s171" with entities [EventEntity, EventEntity], work=335*
 111: 0x1745 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s172" with entities [EventEntity, EventEntity], work=[335*, 0*]
 112: 0x1756 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Shrouded Piper (ID: 17114009/0x01052399), Shrouded Piper (ID: 17114009/0x01052399)], work=9*
-113: 0x1765 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7988*]:
+113: 0x1765 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7989*]:
     → "So the rumors were true."
 114: 0x176C [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x176D [0x52] END_LOAD_SCHEDULER: End scheduler "s172" with entities [EventEntity, EventEntity], work=335*
 116: 0x177C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s173" with entities [EventEntity, EventEntity], work=[335*, 0*]
-117: 0x178D [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7989*]:
+117: 0x178D [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7990*]:
     → "Oh, you haven't heard?"
 118: 0x1794 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x1795 [0x52] END_LOAD_SCHEDULER: End scheduler "s173" with entities [EventEntity, EventEntity], work=335*
 120: 0x17A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s174" with entities [EventEntity, EventEntity], work=[335*, 0*]
 121: 0x17B5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shrouded Piper (ID: 17114009/0x01052399), Shrouded Piper (ID: 17114009/0x01052399)], work=9*
-122: 0x17C4 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7990*]:
+122: 0x17C4 [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7991*]:
     → "You see, these peculiar, glowing pebbles come in pairs. It is said that if one were to be separated from the other, both would cease to glow."
 123: 0x17CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x17CC [0x52] END_LOAD_SCHEDULER: End scheduler "s174" with entities [EventEntity, EventEntity], work=335*
 125: 0x17DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s175" with entities [EventEntity, EventEntity], work=[335*, 0*]
 126: 0x17EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Shrouded Piper (ID: 17114009/0x01052399), Shrouded Piper (ID: 17114009/0x01052399)], work=9*
-127: 0x17FB [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7991*]:
+127: 0x17FB [0x2B] Shrouded Piper (ID: 17114009/0x01052399) [7992*]:
     → "Oh dear, it's getting rather late. I'd best be going. Till we meet again..."
 128: 0x1802 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x1803 [0x52] END_LOAD_SCHEDULER: End scheduler "s175" with entities [EventEntity, EventEntity], work=335*

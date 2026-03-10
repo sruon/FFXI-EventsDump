@@ -31,7 +31,7 @@
 |       5 | 0x1ED8      |        7896 |
 |       6 | 0x00C9      |         201 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x1FC6      |        8134 |
+|       8 | 0x1FC7      |        8135 |
 
 ## String References
 
@@ -39,7 +39,7 @@
 - **7895**: This machine needs oiling, but we're all out of machine oil. What could I use as a substitute, I wonder?
 - **7896**: $7? Of course! Why didn't I think of that? Thank you. Here, take this as payment.
 - **7897**: My job's not that bad, really. Working with machines beats working in the mines any day.
-- **8134**: I've heard an adventurer say that there were these oily monsters in Beadeaux sometimes. I wonder...
+- **8135**: I've heard an adventurer say that there were these oily monsters in Beadeaux sometimes. I wonder...
 
 ## Events
 
@@ -185,7 +185,7 @@
 
 ```
   0: 0x006C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
+  1: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
     → "I've heard an adventurer say that there were these oily monsters in Beadeaux sometimes. I wonder..."
   2: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0075 [0x21] END_EVENT

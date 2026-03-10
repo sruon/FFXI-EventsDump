@@ -28,20 +28,20 @@
 |       5 | 0x062F      |        1583 |
 |       6 | 0x0004      |           4 |
 |       7 | 0x0630      |        1584 |
-|       8 | 0x1F4C      |        8012 |
-|       9 | 0x1F4D      |        8013 |
+|       8 | 0x1F4D      |        8013 |
+|       9 | 0x1F4E      |        8014 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x00C8      |         200 |
 |      12 | 0x003C      |          60 |
-|      13 | 0x1F4E      |        8014 |
+|      13 | 0x1F4F      |        8015 |
 |      14 | 0x0078      |         120 |
 |      15 | 0x005A      |          90 |
 
 ## String References
 
-- **8012**: The water appears murky and stagnated...
-- **8013**: Use the $3? [Yes./No.]
-- **8014**: <Player> empties $6 into the pond.
+- **8013**: The water appears murky and stagnated...
+- **8014**: Use the $3? [Yes./No.]
+- **8015**: <Player> empties $6 into the pond.
 
 ## Events
 
@@ -117,10 +117,10 @@
 SUBROUTINE_0046:
  13: 0x0046 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  14: 0x0047 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
- 15: 0x0049 [0x48] [System] [8012*]:
+ 15: 0x0049 [0x48] [System] [8013*]:
     → "The water appears murky and stagnated..."
  16: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x004D [0x24] CREATE_DIALOG(message_id=8013*, default_option=1*, option_flags=0*)
+ 17: 0x004D [0x24] CREATE_DIALOG(message_id=8014*, default_option=1*, option_flags=0*)
     → "Use the $3? [Yes./No.]"
  18: 0x0054 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0055 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0067
@@ -132,22 +132,22 @@ SUBROUTINE_0075:
  23: 0x0075 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  24: 0x0086 [0x1C] WAIT(60* ticks)
  25: 0x0089 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x009C
- 26: 0x0091 [0x48] [System] [8014*]:
+ 26: 0x0091 [0x48] [System] [8015*]:
     → "<Player> empties $6 into the pond."
  27: 0x0094 [0x03] Work_Zone[1] = 1*
  28: 0x0099 [0x01] GOTO 0x00D5
  29: 0x009C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x00AF
- 30: 0x00A4 [0x48] [System] [8014*]:
+ 30: 0x00A4 [0x48] [System] [8015*]:
     → "<Player> empties $6 into the pond."
  31: 0x00A7 [0x03] Work_Zone[1] = 2*
  32: 0x00AC [0x01] GOTO 0x00D5
  33: 0x00AF [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x00C2
- 34: 0x00B7 [0x48] [System] [8014*]:
+ 34: 0x00B7 [0x48] [System] [8015*]:
     → "<Player> empties $6 into the pond."
  35: 0x00BA [0x03] Work_Zone[1] = 3*
  36: 0x00BF [0x01] GOTO 0x00D5
  37: 0x00C2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x00D5
- 38: 0x00CA [0x48] [System] [8014*]:
+ 38: 0x00CA [0x48] [System] [8015*]:
     → "<Player> empties $6 into the pond."
  39: 0x00CD [0x03] Work_Zone[1] = 4*
  40: 0x00D2 [0x01] GOTO 0x00D5

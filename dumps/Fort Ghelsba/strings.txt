@@ -1,5 +1,5 @@
 # Strings for Fort Ghelsba
-# Total: 7409 strings
+# Total: 7410 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -7329,84 +7329,85 @@
  7325: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7326: You receive $0 bayld!
  7327: Your chocobo refuses to partake of the $0.
- 7328: Hello. Testing client message 1. Testing client message 2.
- 7329: Testing client message.
- 7330: Welcome. We have potions for sale today.
- 7331: Greetings! I've a good stock of potions today.
- 7332: There is a dwarf-cave north of the city. Bandits come out at night, so be careful.
- 7333: I will crush you!
- 7334: Bind here? [Yes./No.]
- 7335: Done.
- 7336: If you have no business here, go away!
- 7337: Going back to bind spot. Press button.
- 7338: Going to first floor.
- 7339: Going to second floor.
- 7340: Going to third floor.
- 7341: Going to fourth floor.
- 7342: Go to which floor? [1."."./4.]
- 7343: Elevator --> 1st Floor
- 7344: Elevator --> 2nd Floor
- 7345: Stay on this floor.
- 7346: Indicate 2nd Floor
- 7347: The lever cannot be used while the elevator is in motion.
- 7348: Use the switch to activate the elevator.
- 7349: Elevator in operation.
- 7350: I may not look like much, but I can use magic!
- 7351: Wanna fly to Bastok? [No, no!/Let's go!]
- 7352: Shucks.
- 7353: See ya!
- 7354: Throw the lever? [Yes./No.]
+ 7328: Your wing skill improved to $0!
+ 7329: Hello. Testing client message 1. Testing client message 2.
+ 7330: Testing client message.
+ 7331: Welcome. We have potions for sale today.
+ 7332: Greetings! I've a good stock of potions today.
+ 7333: There is a dwarf-cave north of the city. Bandits come out at night, so be careful.
+ 7334: I will crush you!
+ 7335: Bind here? [Yes./No.]
+ 7336: Done.
+ 7337: If you have no business here, go away!
+ 7338: Going back to bind spot. Press button.
+ 7339: Going to first floor.
+ 7340: Going to second floor.
+ 7341: Going to third floor.
+ 7342: Going to fourth floor.
+ 7343: Go to which floor? [1."."./4.]
+ 7344: Elevator --> 1st Floor
+ 7345: Elevator --> 2nd Floor
+ 7346: Stay on this floor.
+ 7347: Indicate 2nd Floor
+ 7348: The lever cannot be used while the elevator is in motion.
+ 7349: Use the switch to activate the elevator.
+ 7350: Elevator in operation.
+ 7351: I may not look like much, but I can use magic!
+ 7352: Wanna fly to Bastok? [No, no!/Let's go!]
+ 7353: Shucks.
+ 7354: See ya!
  7355: Throw the lever? [Yes./No.]
- 7356: You receive nothing from the moon rabbit...
- 7357: The moon rabbit has brought along a monster!
- 7358: You have to do something about those crazy trees, kupo!
- 7359: You're done fighting trees, kupo?
- 7360: 
+ 7356: Throw the lever? [Yes./No.]
+ 7357: You receive nothing from the moon rabbit...
+ 7358: The moon rabbit has brought along a monster!
+ 7359: You have to do something about those crazy trees, kupo!
+ 7360: You're done fighting trees, kupo?
  7361: 
  7362: 
  7363: 
  7364: 
  7365: 
  7366: 
- 7367: This chest is locked. It can be opened with $0.
- 7368: This chest is empty.
- 7369: Your inventory is full. You cannot carry any more items.
- 7370: You must be closer to the chest to open it.
- 7371: %0 opens the chest and finds $0.
- 7372: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7373: %0 obtains a key item, $6, from the chest.
- 7374: You obtain a key item, $6, from the chest.
- 7375: You unlock the chest!
- 7376: %0 fails to open the chest.
- 7377: The chest was trapped!
- 7378: You cannot open the chest when you are in a weakened state.
- 7379: The chest was a mimic!
- 7380: You cannot open the chest while participating in the moogle event.
- 7381: The chest was but an illusion...
- 7382: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7383: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7384: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7385: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7386: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7387: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
- 7388: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
- 7389: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
- 7390: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7391: It will cost $2 gil to teleport to $8. ($3 gil on hand)
- 7392: All mog tablets have currently been found, so you may teleport to $8 at no charge.
- 7393: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 7394: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
- 7395: You do not have enough tabs.
- 7396: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
- 7397: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
- 7398: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
- 7399: Accept the reward? [Yes, please./No, thanks.]
- 7400: You may change the way you select areas listed in "Teleportation Assistance."
- 7401: Any changes to make? [Keep course./Select by region./Select by content.]
- 7402: Area selection will now be made by [region/content].
- 7403: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
- 7404: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7405: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
- 7406: $8 has been [added to your list of favorites/removed from your list of favorites].
- 7407: Your list of favorites is full. You must remove an existing entry to add new ones.
- 7408: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+ 7367: 
+ 7368: This chest is locked. It can be opened with $0.
+ 7369: This chest is empty.
+ 7370: Your inventory is full. You cannot carry any more items.
+ 7371: You must be closer to the chest to open it.
+ 7372: %0 opens the chest and finds $0.
+ 7373: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7374: %0 obtains a key item, $6, from the chest.
+ 7375: You obtain a key item, $6, from the chest.
+ 7376: You unlock the chest!
+ 7377: %0 fails to open the chest.
+ 7378: The chest was trapped!
+ 7379: You cannot open the chest when you are in a weakened state.
+ 7380: The chest was a mimic!
+ 7381: You cannot open the chest while participating in the moogle event.
+ 7382: The chest was but an illusion...
+ 7383: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7384: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7385: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7386: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7387: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7388: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+ 7389: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+ 7390: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+ 7391: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7392: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+ 7393: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+ 7394: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+ 7395: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 7396: You do not have enough tabs.
+ 7397: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+ 7398: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+ 7399: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+ 7400: Accept the reward? [Yes, please./No, thanks.]
+ 7401: You may change the way you select areas listed in "Teleportation Assistance."
+ 7402: Any changes to make? [Keep course./Select by region./Select by content.]
+ 7403: Area selection will now be made by [region/content].
+ 7404: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+ 7405: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7406: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+ 7407: $8 has been [added to your list of favorites/removed from your list of favorites].
+ 7408: Your list of favorites is full. You must remove an existing entry to add new ones.
+ 7409: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]

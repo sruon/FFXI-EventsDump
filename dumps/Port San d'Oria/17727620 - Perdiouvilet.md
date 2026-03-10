@@ -24,37 +24,37 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x2147      |        8519 |
-|       2 | 0x2148      |        8520 |
+|       1 | 0x2148      |        8520 |
+|       2 | 0x2149      |        8521 |
 |       3 | 0x0002      |           2 |
-|       4 | 0x2149      |        8521 |
+|       4 | 0x214A      |        8522 |
 |       5 | 0x40000000  |  1073741824 |
 |       6 | 0x0008      |           8 |
 |       7 | 0x000F      |          15 |
-|       8 | 0x214C      |        8524 |
-|       9 | 0x214B      |        8523 |
-|      10 | 0x214A      |        8522 |
-|      11 | 0x21F3      |        8691 |
+|       8 | 0x214D      |        8525 |
+|       9 | 0x214C      |        8524 |
+|      10 | 0x214B      |        8523 |
+|      11 | 0x21F4      |        8692 |
 |      12 | 0x001E      |          30 |
-|      13 | 0x2202      |        8706 |
+|      13 | 0x2203      |        8707 |
 |      14 | 0x0014      |          20 |
-|      15 | 0x2203      |        8707 |
+|      15 | 0x2204      |        8708 |
 |      16 | 0x003C      |          60 |
 |      17 | 0x0015      |          21 |
-|      18 | 0x2204      |        8708 |
+|      18 | 0x2205      |        8709 |
 
 ## String References
 
-- **8519**: Greetings! Please excuse me...<chomp>... I'm just...<crunch>...eating lunch...<gulp>...
-- **8520**: It can be fun to dine in fine company, but there are times when you simply want to eat alone.
-- **8521**: Have you come for a meal, as well? You have a friend along, but my guess is that you'd prefer to eat by yourself.
-- **8522**: Hmmm. Eating alone is actually rather dull. Why don't you share this with your partner? I seem to have lost my appetite.
-- **8523**: What a great sense of partnership between you and %0! Your next meal is on me!
-- **8524**: I had planned on devouring the entire menu of this establishment singlehandedly, but it appears my ambition lost out to indigestion. Perhaps you and %0 would care for one of these dishes?
-- **8691**: <Player>'s badge flashes brightly.
-- **8706**: I wonder what culinary delights grace the tables of the Near East.
-- **8707**: The rice dish "pilaf" is rumored to be delicious. All those exotic spices...
-- **8708**: <Rumble...> Oh! It seems I have awoken the beast of my appetite with all these gastronomic musings!
+- **8520**: Greetings! Please excuse me...<chomp>... I'm just...<crunch>...eating lunch...<gulp>...
+- **8521**: It can be fun to dine in fine company, but there are times when you simply want to eat alone.
+- **8522**: Have you come for a meal, as well? You have a friend along, but my guess is that you'd prefer to eat by yourself.
+- **8523**: Hmmm. Eating alone is actually rather dull. Why don't you share this with your partner? I seem to have lost my appetite.
+- **8524**: What a great sense of partnership between you and %0! Your next meal is on me!
+- **8525**: I had planned on devouring the entire menu of this establishment singlehandedly, but it appears my ambition lost out to indigestion. Perhaps you and %0 would care for one of these dishes?
+- **8692**: <Player>'s badge flashes brightly.
+- **8707**: I wonder what culinary delights grace the tables of the Near East.
+- **8708**: The rice dish "pilaf" is rumored to be delicious. All those exotic spices...
+- **8709**: <Rumble...> Oh! It seems I have awoken the beast of my appetite with all these gastronomic musings!
 
 ## Events
 
@@ -106,16 +106,16 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0036
-  2: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8519*)
+  2: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8520*)
     → "Greetings! Please excuse me...<chomp>... I'm just...<crunch>...eating lunch...<gulp>..."
   3: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0012 [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x0021
-  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8520*)
+  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8521*)
     → "It can be fun to dine in fine company, but there are times when you simply want to eat alone."
   6: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001E [0x01] GOTO 0x002D
   8: 0x0021 [0x02] IF !(Work_Zone[8] == 2*) GOTO 0x002D
-  9: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=8521*)
+  9: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=8522*)
     → "Have you come for a meal, as well? You have a friend along, but my guess is that you'd prefer to eat by yourself."
  10: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -125,7 +125,7 @@ SUBROUTINE_002D:
 
 SUBROUTINE_0051:
  13: 0x0051 [0x01] GOTO 0x0058
- 14: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8522*)
+ 14: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8523*)
     → "Hmmm. Eating alone is actually rather dull. Why don't you share this with your partner? I seem to have lost my appetite."
  15: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -168,21 +168,21 @@ SUBROUTINE_0059:
 
 ```
   0: 0x005A [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x005B [0x48] [System] [8691*]:
+  1: 0x005B [0x48] [System] [8692*]:
     → "<Player>'s badge flashes brightly."
   2: 0x005E [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0063 [0x1C] WAIT(30* ticks)
-  4: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=8706*)
+  4: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=8707*)
     → "I wonder what culinary delights grace the tables of the Near East."
   5: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x006A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  7: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8707*)
+  7: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8708*)
     → "The rice dish "pilaf" is rumored to be delicious. All those exotic spices..."
   8: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x007D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  10: 0x008C [0x1C] WAIT(60* ticks)
  11: 0x008F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=21*
- 12: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=8708*)
+ 12: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=8709*)
     → "<Rumble...> Oh! It seems I have awoken the beast of my appetite with all these gastronomic musings!"
  13: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00A2 [0x21] END_EVENT

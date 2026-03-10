@@ -128,7 +128,7 @@
 |      62 | 0x0258      |         600 |
 |      63 | 0x021C      |         540 |
 |      64 | 0x003C      |          60 |
-|      65 | 0x28F8      |       10488 |
+|      65 | 0x28F9      |       10489 |
 |      66 | 0x1962      |        6498 |
 |      67 | 0x0001      |           1 |
 |      68 | 0x17FB2     |       98226 |
@@ -195,7 +195,7 @@
 ## String References
 
 - **6498**: Set this as current home point? [Yes./No.]
-- **10488**: For your own safety, it is recommended that you set this location as your home point after changing jobs.
+- **10489**: For your own safety, it is recommended that you set this location as your home point after changing jobs.
 
 ## Events
 
@@ -905,7 +905,7 @@
 ```
   0: 0x014F [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0150 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0152 [0x48] [System] [10488*]:
+  2: 0x0152 [0x48] [System] [10489*]:
     → "For your own safety, it is recommended that you set this location as your home point after changing jobs."
   3: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0156 [0x24] CREATE_DIALOG(message_id=6498*, default_option=1*, option_flags=0*)

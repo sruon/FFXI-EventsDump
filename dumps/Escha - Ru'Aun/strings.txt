@@ -1,5 +1,5 @@
 # Strings for Escha - Ru'Aun
-# Total: 7870 strings
+# Total: 7871 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7329,545 +7329,546 @@
  7325: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7326: You receive $0 bayld!
  7327: Your chocobo refuses to partake of the $0.
- 7328: You may be able to procure something from here if you have $6.
- 7329: Chance of breaking: $3/10000
- 7330: Your $3 breaks!
- 7331: You successfully procure $0!
- 7332: You procure $0, but your $3 breaks in the process.
- 7333: You are unable to procure anything.
- 7334: You cannot carry any more items. Your inventory is full.
- 7335: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 7336: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 7337: You have returned to the field of battle.
- 7338: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 7339: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 7340: You have only $0 [second/seconds] (Earth time) remaining.
- 7341: Your time for this Confrontation is up...
- 7342: The monster fades before your eyes, a look of disappointment on its face.
- 7343: (Test message.)
- 7344: Enter the garrison? [Yes./No.]
- 7345: The $3 is ripped violently to pieces!
- 7346: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 7347: Hark! Our foe lurks thither. How wouldst thou proceed?
- 7348: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 7349: Our foe advances...may thine aim be true!
- 7350: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 7351: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 7352: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7353: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7354: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7355: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7356: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 7357: Greetings, traveler! How dost thou fare in thine adventures?
- 7358: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 7359: Dost thou find this enchantment to thy liking?
- 7360: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 7361: Splendid! May it serve thee well.
- 7362: %0 obtained $0!
- 7363: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 7364: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 7365: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 7366: Though it may fall short of thy expectations, pray accept it.
- 7367: Otherwise, we shall have no choice but to dispose of it.
- 7368: Many thanks for thine assistance!
- 7369: Pray accept this $0 as but a humble token of our gratitude.
- 7370: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 7371: $3f$3o$3b$3O$590643$3$3NM
- 7372: $3f$3o$3b$3O$201475X$3^$3243853
- 7373: Press a button to continue.
- 7374: @@
- 7375: There is nothing out of the ordinary here.
- 7376: You can hear a strange voice... "Items, items, la la la la la`t"
- 7377: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7378: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7379: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7380: Now, listen close...
- 7381: Oh... Well, if that's the case, I'm outta here.
- 7382: The Goblin slipped away when you were not looking...
- 7383: You can hear a strange, raspy voice...
- 7384: I travel......hear lots... Hear...stories... Can tell...if...
- 7385: .........listen......
- 7386: Oh...... ...outta here.........
- 7387: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7388: What story would you like to be told? [On second thought, maybe later./The Decisive Heroine(pt.1)./The Decisive Heroine(pt.2)./The Decisive Heroine(pt.3)./Fall from Grace./Both Paths Taken./Pretender to the Throne(pt.1)./Pretender to the Throne(pt.2)./Banished(pt.1)./Banished(pt.2)./Banished(pt.3)./The Silent Forest.]
- 7389: 
+ 7328: Your wing skill improved to $0!
+ 7329: You may be able to procure something from here if you have $6.
+ 7330: Chance of breaking: $3/10000
+ 7331: Your $3 breaks!
+ 7332: You successfully procure $0!
+ 7333: You procure $0, but your $3 breaks in the process.
+ 7334: You are unable to procure anything.
+ 7335: You cannot carry any more items. Your inventory is full.
+ 7336: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 7337: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 7338: You have returned to the field of battle.
+ 7339: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 7340: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 7341: You have only $0 [second/seconds] (Earth time) remaining.
+ 7342: Your time for this Confrontation is up...
+ 7343: The monster fades before your eyes, a look of disappointment on its face.
+ 7344: (Test message.)
+ 7345: Enter the garrison? [Yes./No.]
+ 7346: The $3 is ripped violently to pieces!
+ 7347: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 7348: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 7349: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 7350: Our foe advances...may thine aim be true!
+ 7351: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 7352: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 7353: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7354: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7355: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7356: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7357: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 7358: Greetings, traveler! How dost thou fare in thine adventures?
+ 7359: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 7360: Dost thou find this enchantment to thy liking?
+ 7361: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 7362: Splendid! May it serve thee well.
+ 7363: %0 obtained $0!
+ 7364: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 7365: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 7366: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 7367: Though it may fall short of thy expectations, pray accept it.
+ 7368: Otherwise, we shall have no choice but to dispose of it.
+ 7369: Many thanks for thine assistance!
+ 7370: Pray accept this $0 as but a humble token of our gratitude.
+ 7371: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 7372: $3f$3o$3b$3O$590643$3$3NM
+ 7373: $3f$3o$3b$3O$201475X$3^$3243853
+ 7374: Press a button to continue.
+ 7375: @@
+ 7376: There is nothing out of the ordinary here.
+ 7377: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7378: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7379: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7380: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7381: Now, listen close...
+ 7382: Oh... Well, if that's the case, I'm outta here.
+ 7383: The Goblin slipped away when you were not looking...
+ 7384: You can hear a strange, raspy voice...
+ 7385: I travel......hear lots... Hear...stories... Can tell...if...
+ 7386: .........listen......
+ 7387: Oh...... ...outta here.........
+ 7388: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7389: What story would you like to be told? [On second thought, maybe later./The Decisive Heroine(pt.1)./The Decisive Heroine(pt.2)./The Decisive Heroine(pt.3)./Fall from Grace./Both Paths Taken./Pretender to the Throne(pt.1)./Pretender to the Throne(pt.2)./Banished(pt.1)./Banished(pt.2)./Banished(pt.3)./The Silent Forest.]
  7390: 
  7391: 
- 7392: Siren! Where is Lady Iroha!?
- 7393: Ah yes, the cute one. I sense you have a special bond with her.
- 7394: Then heed well my words.
- 7395: When I was under the ambassador's thrall, I opened up many spatial rifts...though it pains me to admit it.
- 7396: One such rift is the location which unfolds before you now.
- 7397: Ru'Aun is said to be a place close to the gods, so it is of no wonder he wishes to strike here.
- 7398: A cloud of nothingness descending from a different dimension created this land, devoid of all time and color.
- 7399: It passed through the crystal, devouring all in its wake.
- 7400: Yet what did Altana do to stop it? Nothing.
- 7401: She was eminently aware of the truth.
- 7402: This is the destiny that Vana'diel is fated to face.
- 7403: The tide can no longer be stemmed.
- 7404: Altana is alone, having lost her counterpart[/ in Promathia], and is wholly powerless.
- 7405: We do not intend to fold, even if Altana cannot help us!
- 7406: All we need is light to guide us, no matter how dim that may be!
- 7407: Ah, such words encourage me to entrust what I can to you.
- 7408: Siren, your understanding and compassion are beyond compare.
- 7409: All the prime avatars can understand our words and thoughts, and will not deny us our due!
- 7410: I shall show you how to meet Altana.
- 7411: But to do so, you must first banish the Emptiness surrounding Reisenjima.
- 7412: And the only one who can aid you in that task is Selh'teus.
- 7413: I shall grant you the ability to traverse the mists to where Selh'teus resides.
- 7414: To think you would do such a thing for us!
- 7415: Never forget your charge, even should Iroha and I fade from this world.
- 7416: "Fade"? Why fade?
- 7417: Hahaha... Your friend had bid me buy some time, yet I fear that I cannot hold out any longer.
- 7418: Go.
- 7419: Will you leave? [Yes./No./"Buy time"?]
- 7420: That which wishes to defile the cycle of nature is using us to try to extinguish itself.
- 7421: Pray it succeeds.
- 7422: She has explicitly expressed that she does not desire to see you.
- 7423: Do not get in the way. That which wishes to defile the cycle of nature is trying to extinguish itself.
- 7424: She has explicitly expressed that she does not desire to see you.
- 7425: That which wishes to defile the cycle of nature is trying to extinguish itself...and we will do our utmost to see that it succeeds.
- 7426: You would do best to remain ignorant of the particulars. Now go.
- 7427: [Lord/Lady] <Player>, it matters not what Siren says. We cannot turn back now!
- 7428: What we seek lies further within!
- 7429: Where one may falter...
- 7430: ...Two can succeed.
- 7431: Siren, Siren Prime. May my words ring clear and true! I pledge myself to ending this threat!
- 7432: I am a being of the future, and do not belong in this world.
- 7433: Nor does the ambassador.
- 7434: May your forces intertwine and banish the two of us who are not supposed to be here!
- 7435: Two? Nay, there are three.
- 7436: When this Communion has been undertaken, the fate of this age will lie in the hands of those who call it home.
- 7437: Phoenix, when I am gone, scatter my essence to the skies, that I might soar with you.
- 7438: A Communion is a pact with nature; a declaration of how one feels things ought to be.
- 7439: Open your heart and let your emotions ride free...
- 7440: ...As if your life depends on it.
- 7441: Obey the order of nature and cast away the chaos.
- 7442: Those who have entrusted themselves to death shall find their release!
- 7443: Those who have descended from the future...begone!
- 7444: Master, our time is at an end!
- 7445: !!!
- 7446: Urk! Why!? Why must you try and stop me!?
- 7447: Lady Iroha, you throw your life away without purpose! It is a gift to be cherished, not squandered!
- 7448: Sir Tenzen, Master--I am not the one who fails to comprehend the meaning of my life!
- 7449: None of you could possibly grasp the horror of the future I have seen--the future I have lived!
- 7450: I refuse to be riddled with guilt knowing that I could have done more to stop the evil from coming to pass!
- 7451: If I must be sacrificed that the world may be cleansed, then that is my sacred duty!
- 7452: Lady Iroha, none know your struggle more than I.
- 7453: I, too, have pledged myself to give up my life when the time comes--but I do so only to protect my master.
- 7454: What of [Sir/Lady] <Player>? If you truly call [him/her] Master...
- 7455: ...Then throwing away your life here would be akin to stomping over the bonds you two share. I cannot fathom an end more revolting.
- 7456: ...
- 7457: Iroha, perhaps she is correct.
- 7458: You are here in the year 884, and have already formed strong bonds with those around you.
- 7459: If any can overcome the natural order, it is Altana Herself...and She has infused you with a bit of Her grace.
- 7460: <Player>, Tenzen, Kagero...
- 7461: We have done all we can. The rest is up to you.
- 7462: Our ethereal chains may yet contain him, but the binds are about to snap. Act quickly!
- 7463: Oho! Not so fast, my friends!
- 7464: Who--
- 7465: I'm going to take our little ambassador friend on a tour of my embassy.
- 7466: Do you want him back, <Player>? How can we go about doing that?
- 7467: Who cares! I don't think you'd enjoy playing with him anyway.
- 7468: Ta-ta for now!
- 7469: Wh-what just happened!?
- 7470: [Lord/Lady] <Player>, he knew your name. Why would you be acquainted with so foul a creature?
- 7471: The dream with Selh'teus...he was there.
- 7472: Lady Iroha!
- 7473: The two of us shall take Iroha somewhere where she can recuperate.
- 7474: Here. You will have need of this.
- 7475: This is $6 bestowed upon us by Siren.
- 7476: Meet with Selh'teus in our stead. Please.
- 7477: Start from where? [The top./The second act.]
- 7478: Well, if this isn't something else. Hey, Naji, get a load of this!
- 7479: I've seen some stuff in my time, but it's wholly unnatural.
- 7480: Don't get in over your head, my little adventurer buddy.
- 7481: We haven't quite finished up our survey of it, but one thing's fully clear:
- 7482: The longer you stay in this Escha place, the more your spirit slips away.
- 7483: As if that's not bad enough, you also lose all sense of time. That's why we make sure to keep someone posted at the entrance.
- 7484: The chief is convinced that this is because the power of the crystals is being drained.
- 7485: The only reason magic can be used inside is that the energies of Misareaux Coast are seeping in too.
- 7486: You couldn't pay me enough to jump into the vortex over there.
- 7487: Vortex?
- 7488: Have you got a better word for it?
- 7489: It sucks up the energy and swirls 'round and 'round. If that's not a vortex, then I don't know what is!
- 7490: You going in?
- 7491: Head toward the vortex? [Yes./No.]
- 7492: I think we all agree that's for the best.
- 7493: Suppose we can't stop you, but don't go getting yourself killed.
- 7494: Oh me, oh my!
- 7495: Why would you come here to bother me? Surely I'm of no use to you now.
- 7496: Why are you here? [We're looking for "him."/Where's the masked man?/Just what are you doing?]
- 7497: Ah, your masked friend?
- 7498: I tied him up on the other side of the vortex.
- 7499: You know, at first I thought he might have been a pretender, but he's really been quite...useful.
- 7500: When I told him I sought astral forces, he up and created this lovely little swirly thing for me!
- 7501: Not that it didn't take a little "convincing."
- 7502: Him? He's over on the other side of the vortex.
- 7503: You know, at first I thought he might have been a pretender, but he's really been quite...useful.
- 7504: When I told him I sought astral forces, he up and created this lovely little swirly thing for me!
- 7505: Not that it didn't take a little "convincing."
- 7506: Me? Oh, I'm just gathering astral forces. No need to pay me any heed.
- 7507: When I told your masked friend I sought them, he up and created this lovely little vortex for me!
- 7508: Not that it didn't take a little "convincing."
- 7509: ...
- 7510: (You're the dread fiend...Balamor.)
- 7511: Oh, Selh'teus, what a grand pleasure it is!
- 7512: I've saved a seat in the front row just for you.
- 7513: But if you already know what my grand plan is, then you surely don't need a playbill.
- 7514: A bit ironic, wouldn't you say? Lest you forget, it was you who first stole energy from Tartarus.
- 7515: And so I'm taking back what's mine--and perhaps a little more--to create the most spectacular of stages!
- 7516: (A stage?)
- 7517: That's right. A world of my own making.
- 7518: Vana'diel isn't the only world I've been to. This energy is a gift from the gods--to make a god!
- 7519: I'm sick of reading parts that have been given to me by others, so I've decided to draft my own narrative!
- 7520: The authors of these worlds all have one thing in common--they conjure up lakes and rivers, fashion sentient beings, dictate laws by which all must abide...and then one day, up and abandon their creations.
- 7521: Let's just say I'm a bit disgusted at the chaos they've left in their wake.
- 7522: You don't need to have traveled to different worlds to know I'm right. Look at your Vana'diel--Emptiness this, all-consuming void that--it's halfway between a tragedy and a comedy of errors!
- 7523: ...
- 7524: (This world isn't just a playground for the gods.)
- 7525: "This world isn't just a playground for the gods"?
- 7526: And that's another contributing factor to how vague life is here. One man's justice is another man's evil.
- 7527: No, my world will be much simpler. When there is only one path, no one gets lost.
- 7528: He who seizes the power of the crystals has the right and provenance to rule!
- 7529: (This fiend is beyond all reason.)
- 7530: (<Player>, keep him busy.)
- 7531: (In the meantime...I'll seal off that conduit.)
- 7532: How could I lose...?
- 7533: No! No no no no! No no no no no no no no!
- 7534: You're all fools!
- 7535: You don't think of the past or the future. Only the present. So with tit-for-tat the first thing you turn to is the sword.
- 7536: (And what does that mean?)
- 7537: Look toward the future--here I stand, poised to create a new world while yours is going to fall into nothingness.
- 7538: Don't you think it's foolish to stop me?
- 7539: But let's verbally spar a while longer, hmmm?
- 7540: With him at my side, I could have created a world from the void!
- 7541: If he joined with me, much like he did with Siren...
- 7542: We would have been able to live forever! Bwehehe!
- 7543: But humanity is far too weak!
- 7544: Bwehehehehehehehehe!
- 7545: ...!
- 7546: (Foo...you...)
- 7547: What's that, now? Speak up!
- 7548: The fool is you!
- 7549: Though our world may stumble and falter...
- 7550: I won't let you use it as your plaything!
- 7551: Urk--!
- 7552: Begone, vile demon!
- 7553: Braaaaaaaaah!
- 7554: We did it...
- 7555: We protected the crystals.
- 7556: And now it is time for a new one.
- 7557: (<Player>...bring Iroha to Al'Taieu.)
- 7558: (I shall open the gates for you.)
- 7559: If all the world's a stage, then this wretched cast will simply not do. Consider yourselves all fired, bwehehehe!
- 7560: The weak shall suffer the strong...and the strong shall revel in it!
- 7561: Ugh... What kind of platitudinous pablum is this?
- 7562: The Warder of Courage readies a magnificent blow!
- 7563: The Warder of Courage prepares to strike!
- 7564: Light begins to shimmer and twist as you pass your hand over it.
- 7565: The blinding light obscures your vision of the world beyond.
- 7566: Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond.
- 7567: Travel to where? [Nowhere for now./[Eschan Portal/Ethereal Ingress] #1./[Eschan Portal/Ethereal Ingress] #2./[Eschan Portal/Ethereal Ingress] #3./[Eschan Portal/Ethereal Ingress] #4./[Eschan Portal/Ethereal Ingress] #5./[Eschan Portal/Ethereal Ingress] #6./[Eschan Portal/Ethereal Ingress] #7./[Eschan Portal/Ethereal Ingress] #8./[Eschan Portal/Ethereal Ingress] #9./[Eschan Portal/Ethereal Ingress] #10./[Eschan Portal/Ethereal Ingress] #11./[Eschan Portal/Ethereal Ingress] #12./[Eschan Portal/Ethereal Ingress] #13./[Eschan Portal/Ethereal Ingress] #14./[Eschan Portal/Ethereal Ingress] #15.]
- 7568: Traverse the light? ($0 silt) [Let's do it. ($1 silt)/Do not go into the light!]
- 7569: You do not have enough escha silt.
- 7570: What do you do? [Nothing for now./Use escha silt./Teleport using $0./Teleport using $6.]
- 7571: Traverse the light? [Let's do this./No, wait!]
- 7572: You have used $0.
- 7573: Get a gander o' these reapers!
- 7574: They can be used to procure all manner of stuff from the grimslights scattered around Escha.
- 7575: Hoho, bet yer happy now that you ain't got escha silt and beads pourin' out o' yer pockets anymore!
- 7576: Nothin's more important than storage! Wi' one of these beauties ya can carry more silt an' beads.
- 7577: What do you do? [Nothing for now./Obtain key items./View grisly trinket notes./Obtain a vorseal./Return a vorseal./Check vorseal blessings./Obtain temporary items./Hear various explanations.]
- 7578: Pay silt? (current silt: $0) [Yes. (pay $1 silt)/Maybe not.]
- 7579: Choose which item? (silt: $0) [Never mind./$3: $17 silt./$3: $18 silt./$3: $19 silt./$3: $20 silt./$3: $21 silt./$3: $22 silt./$3: $23 silt./$3: $24 silt./$3: $25 silt./$3: $26 silt./$3: $27 silt./$3: $28 silt./$3: $29 silt./$3: $30 silt./$3: $31 silt./$3: $ silt./Previous page./Next page.]
- 7580: Pay silt? (current silt: $0) [Yes. (pay $1 silt)/Maybe not.]
- 7581: View which item? [None./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
- 7582: Which do you choose? [None./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
- 7583: $1 $0 .
- 7584: $3 requires the following items.
- 7585: View which item? [None./$1: $17./$2: $18./$3: $19./$4: $20./$5: $21./$6: $22./$7: $23./$8: $24./$9: $25./$10: $26./$11: $27./$12: $28./$13: $29./$14: $30./$15: $31./$16: $ .]
- 7586: $1 $0 , or $3 $0 .
- 7587: Which do you choose? ($0 silt) [No vorseals for now./[HP+, MP+/Regen+]: $1/$17./[Acc.+, Eva.+/Refresh+]: $2/$18./[DEF+/Acc.++]: $3/$19./[Atk.+, Rng. Atk.+/]: $4/$20./[Mag. Acc.+, Mag. Eva.+/]: $5/$21./[Mag. Def.+/]: $6/$22./[Mag. Atk.+/]: $7/$23./[DEX+, AGI+/]: $8/$24./[STR+, VIT+/]: $9/$25./[INT+, MND+, CHR+/]: $10/$26./[Occ. ignore damage/]: $11/$27./[Killer+/]: $12/$28./[Dmg. Taken-/]: $13/$29./[Spoils+/]: $14/$30./[Rare Enemy+/]: $15/$31./[Luck+/]: $16/$ ./Previous page./Next page.]
- 7588: How many would you like? ($0 silt) [None for now./$1 seal[/s]: $17 silt./$2 seal[/s]: $18 silt./$3 seal[/s]: $19 silt./$4 seal[/s]: $20 silt./$5 seal[/s]: $21 silt./$6 seal[/s]: $22 silt./$7 seal[/s]: $23 silt./$8 seal[/s]: $24 silt./$9 seal[/s]: $25 silt./$10 seal[/s]: $26 silt./$11 seal[/s]: $27 silt./$12 seal[/s]: $28 silt./$13 seal[/s]: $29 silt./$14 seal[/s]: $30 silt./$15 seal[/s]: $31 silt./$16 seal[/s]: $ silt./Previous page./Next page.]
- 7589: Purchase this vorseal? ($0 silt) [Ring me up./On second thought...]
- 7590: The vorseal begins to pulse a vibrant blue!
- 7591: Return which vorseal? [None of these./[HP+, MP+/Regen+]: $1./[Acc.+, Eva.+/Refresh+]: $2./[Def.+/Acc.++]: $3./[Atk.+, Rng. Atk.+/]: $4./[Mag. Acc.+, Mag. Eva.+/]: $5./[Mag. Def.+/]: $6./[Mag. Atk.+/]: $7./[DEX+, AGI+/]: $8./[STR+, VIT+/]: $9./[INT+, MND+, CHR+/]: $10./[Occ. ignore damage/]: $11./[Killer+/]: $12./[Dmg. taken -/]: $13./[Spoils+/]: $14./[Rare Enemy+/]: $15./[Luck+/]: $16./Previous page./Next page.]
- 7592: Return the vorseal? [Here you go./No. I still need it.]
- 7593: You feel the vorseal's energy fade away.
- 7594: HP+, MP+: $0 seal[/s]. Acc.+, Eva.+: $1 seal[/s]. Def.+: $2 seal[/s]. Atk.+, Rng. Atk.+: $3 seal[/s].
- 7595: Mag. Atk, Mag. Eva.: $0 seal[/s]. Mag. Def.+: $1 seal[/s]. Mag. Atk.+: $2 seal[/s]. DEX+, AGI+: $3 seal[/s].
- 7596: STR+, VIT+: $0 seal[/s]. INT+, MND+, CHR+: $1 seal[/s]. Occ. ignore damage: $2 seal[/s]. Killer+: $3 seal[/s].
- 7597: Dmg. taken-: $0 seal[/s]. Rare enemy+: $2 seal[/s]. Luck+: $3 seal[/s].
- 7598: Regen+: $0 seal[/s]. Refresh+: $1 seal[/s]. Acc.++: $2 seal[/s].
- 7599: Which would you like? ($0 silt) [Nothing./$1: $17 silt./$2: $18 silt./$3: $19 silt./$4: $20 silt./$5: $21 silt./$6: $22 silt./$7: $23 silt./$8: $24 silt./$9: $25 silt./$10: $26 silt./$11: $27 silt./$12: $28 silt./$13: $29 silt./$14: $30 silt./$15: $31 silt./$16: $ silt./Previous page./Next page.]
- 7600: Ask about what? [Nothing./What is this place?/What are [eschan portals/ethereal ingresses]?/What is escha silt?/What are escha beads?/What are tribulenses?/What are grisly trinkets?/What are vorseals?/What temporary items do you have?]
- 7601: What would you like to do? [Nothing in particular./[Receive elvorseal/Return elvorseal]./Teleport to the target monster./Check area blessings./Receive key items./View grisly trinket notes./Receive vorseals./Return vorseals./Check vorseal effects./Receive temporary items./Hear various explanations.]
- 7602: [You feel the warmth of the elvorseal's divine protection./The warmth of the elvorseal fades away.]
- 7603: Teleport to the target? [I'm ready./Not quite yet.]
- 7604: Ask about what? [Nothing./What is this place?/What are [eschan portals/ethereal ingresses]?/What is escha silt?/What are escha beads?/What are tribulenses?/What are grisly trinkets?/What are vorseals?/What temporary items do you have?/What's with the book?/What is this "unusual monster"?]
- 7605: Ask about what? [Nothing./About the monster./About elvorseals./About the dropped items./What happens if we defeat it?]
- 7606: Which active blessing will you check? [None of them. Go back./Temperance./Fortitude./Piety./Justice./Hope./Wisdom./Compassion./Dignity./Loyalty./Mercy./Courage.]
- 7607: Temperance: Reduces the silt cost of eschan portals.
- 7608: Fortitude: Increases the status effects of vorseals.
- 7609: Piety: Increases the effect duration of vorseals.
- 7610: Justice: Increases "Treasure Hunter" ability by 1.
- 7611: Hope: Increases the chances of an emblazoned reliquary appearing.
- 7612: Wisdom: Increases the effect duration of food.
- 7613: Compassion: Increases the "Refresh" and "Regen" effects of vorseals.
- 7614: Dignity: Increases escha silt yields.
- 7615: Loyalty: Increases escha beads yields.
- 7616: Mercy: $5 and $5 have a chance of not being consumed.
- 7617: Courage: Increases the "Rare enemy+" effects of vorseals.
- 7618: Unreal, isn't it?
- 7619: You ever seen anything quite like this place?
- 7620: The name's Dremi. Yours?
- 7621: <Player>, eh? Heh, I'll have to remember that one.
- 7622: I'm here on behalf of the Tenshodo.
- 7623: My job here is to brief adventurers like you on the latest details in the area, and of course, do some business while I'm at it.
- 7624: I've got some items here you can't get anywhere else. Items you'll need if you want to survive in this place. All it takes is a bit of silt and I'm sure you and I will get along fine.
- 7625: Why if it isn't <Player>. What can I do for you on this beautiful sunny day?
- 7626: Now before we can talk, I hope you don't mind paying the $0 silt gratuity fee. It's just company policy: no fee, no business.
- 7627: Huh... You really believe what people tell you, don't you? That's cute. Don't worry, with this I think we can get things done.
- 7628: As such, here's your $0.
- 7629: Just ask if you don't know what it's for.
- 7630: Really? Are you sure? I promise I won't bite.
- 7631: Nope, I can only give out one $3 per customer, company policy.
- 7632: One $3 can be yours for only $1 silt. How about it?
- 7633: Whoa there, [big guy/Sweetie]! Looks like you're a little short on silt.
- 7634: ...Looks like it's all here. Here's your new vorseal. That little thing will come in handy, believe me!
- 7635: I'm fine with taking this back, but you'll lose all its protective effects.
- 7636: Don't come back here crying for backsies just because you changed your mind, okay?
- 7637: Sure thing. Here's a breakdown of all your vorseals' current effects.
- 7638: Anything else you need to check?
- 7639: A brand new $0 can be all yours for the low, low price of just $1 silt.
- 7640: Nice doing business with you! Here's your $0.
- 7641: The adventurers call this place Escha.
- 7642: Beautiful isn't it? Like the world's been covered in ash.
- 7643: I'm no poet, but time does feel different here. Everything's frozen in place.
- 7644: Well, except for the monsters that is. The creatures here will appear faster and faster the more you defeat them.
- 7645: If you make any new discoveries while exploring, be sure to share them with me. We're still trying to figure this place out.
- 7646: You see that brightly glowing thing over there?
- 7647: That there's an eschan portal, or at least that's what we've taken to calling them.
- 7648: With the right procedure, and a little luck, those portals will let you instantly travel to other locations in the area. As far as we were able to determine, there are two ways of using them that seem to work.
- 7649: The first requires a $1.
- 7650: $1 can be found all over the place. The portals will react to you if you hold some in your hand and interact with them.
- 7651: Here's the thing, though. The portals don't let you go anywhere you like. You can only travel between portal pairs in a rotating pattern.
- 7652: Using a portal once will consume the $1, but you can usually find new ones lying around close to the portals. Make sure to grab one whenever you can.
- 7653: Once you've crossed through a portal once, you should be able to pass through to the portal of your choice. That's where method number two comes in.
- 7654: By using escha silt, you can travel to a previously-visited eschan portal directly.
- 7655: For whatever reason, the silt will burn up when you pass through the portal. Just think of it as a transportation fee.
- 7656: Give it a try and you'll get the hang of it.
- 7657: Escha silt? It's quite pretty, don't you think?
- 7658: Collecting that silvery sand from you adventurers is what we're all about here.
- 7659: Obviously, in exchange for the precious items you'll need to extract the stuff.
- 7660: Not bad for a self-reinforcing business model, wouldn't you say?
- 7661: Escha beads?
- 7662: Those aren't really my department, sorry to say.
- 7663: They are very nice, though. Beautiful colors...
- 7664: Nolan back in Norg will trade for those. He's really into beads...
- 7665: 5, eh?
- 7666: Those are what we use to detect some of the more unusual monsters hidden around these parts.
- 7667: Unfortunately their supply is rather limited, so we have to manage our inventory carefully while waiting for new shipments to arrive.
- 7668: As such, after buying your fourth lens, you can expect the price of $5 to rise gradually as our inventory dries up.
- 7669: If you're hard up for silt, you can always come back after prices have dropped down again. Good things come to those who wait and all that.
- 7670: To hunt out these monsters though, you'll also need an appropriate "grisly trinket," sold separately.
- 7671: Once you've got both, you're ready to team up around the monster's haunt and do that thing you adventurers do so well.
- 7672: Grisly trinkets...they might not be the prettiest presents to give to your sweetheart, but when your date's a hulking monster it's a different story.
- 7673: Each monster has their own grisly trinket associated with it. Basically, the trinkets act as bait to lure their respective monster out of hiding.
- 7674: Just make sure you've brought the right trinket with you, or all you'll be catching are eschan butterflies.
- 7675: I've got a list of each trinket and their corresponding monster right here if you need a refresher.
- 7676: Vorseals! You're gonna want these.
- 7677: These aren't just fancy strips of colored paper. We've sourced these from a shrine out in the Far East.
- 7678: While you're in Escha, just having one of these in your pocket will give you access to all sorts of magical benefits.
- 7679: Just be careful. If you stay in Escha for more than an hour (Earth time), the vorseal's effects will wear off.
- 7680: Luckily, the vorseal itself will be just fine, and leaving and re-entering Escha seems to restore its effects like nothing ever happened.
- 7681: It might have something to do with the way time flows through this place.
- 7682: If you no longer need a vorseal's protection you can always return it here.
- 7683: I don't do free exchanges, though, so keep that in mind. This is a business after all.
- 7684: Also make sure to check back every now and then, I've been expecting a new vorseal shipment due in the next few days.
- 7685: I've got a bunch of goodies fresh from the Tenshodo to help you adventurers out while you're here.
- 7686: They're all yours in exchange for a little escha silt.
- 7687: I might have more in a little while, based on how business is going out here.
- 7688: Be a good [boy/girl] and check back regularly, okay?
- 7689: Here you go. One reaper for you good [sir/lady].
- 7690: Use this around the grimslights scattered around the area and see what you can gather.
- 7691: Here you go. This will hold all the escha silt and beads you can eat, and then some!
- 7692: This beauty will let you carry even more silt and beads. It's a bit of an investment, but one that'll pay off in no time!
- 7693: Ah, <Player>, thanks for stopping by!
- 7694: I've just gotten word that a particularly unusual monster that's [/supposed to show up soon/been spotted nearby]. We could use your help in putting it down.
- 7695: If you're heading out to face him, you're gonna need this if you want to be any use.
- 7696: Here, catch.
- 7697: No charge for this one, we need as many people on that thing as we can get.
- 7698: There's a lot to go over, so I'll just answer your questions one at a time.
- 7699: What? If you're not gonna fight go ahead and say so! Here, let me have that back.
- 7700: The same power that allows that elvorseal to let you affect Naga Raja physically can also teleport you directly to his location.
- 7701: If you want a physics lesson on how it works, then too bad.
- 7702: So, you ready to send that nagging Naga Raja our regards, cupcake?
- 7703: Awww, afraid of the big monster? I'll be right here after you've changed your underwear. Go do what you've gotta do.
- 7704: Glad to hear it. Show that lizard what happens when you mess with our operations.
- 7705: Apparently, he was already prowling around when I got here.
- 7706: He's called Naga Raja. The weird thing is he always appears in the same location and then disappears in a fixed pattern.
- 7707: From the looks of it, the faster you defeat strange monsters in a different location, the faster he'll appear and disappear.
- 7708: But the odd thing is that you can't even attempt to touch it. That's probably a good thing, because it means you'll stay safe.
- 7709: According to the leadership, whatever's going on with this Naga Raja's unnatural, and they want him buried.
- 7710: That's where these elvorseals come in.
- 7711: According to the eggheads, some rift in space is the reason Naga Raja can't interact with the world around him. These elvorseals have the power to mend the rift and bring us into contact with him.
- 7712: I'm not gonna bore you with any more detailed explanations, as that's about as far as I understand it myself. Basically, it goes like this: if you have an elvorseal, you can fight Naga Raja.
- 7713: Oh, and one more thing--sometimes somethign even bigger and strong pops up. Thankfully, it doesn't move and disappears after a short time.
- 7714: Now is that clear enough? You don't need me to draw you pretty pictures too, do you?
- 7715: These charms were enchanted by a high priest from a shrine in the Far East.
- 7716: Carrying one will mend the dimensional rifts in the space around you for a limited amount of time.
- 7717: You'll need one if you want to fight Naga Raja.
- 7718: But you're going to need to be of a high enough caliber before you can even get close to him.
- 7719: The elvorseal's effects will only last until Naga Raja is defeated. After that, its magic is exhausted and the charm will go up in smoke.
- 7720: The same thing'll happen if you leave Escha, so keep that in mind.
- 7721: The good news is that I've got tons in inventory, so come back here whenever you need a new one.
- 7722: You're a smart [guy/girl], though. I'm sure you won't screw it up.
- 7723: Yes, that's right. Word is Naga Raja's not the tidiest monster. Chances are he'll start dropping things when you get close to him during the fight.
- 7724: And if you don't need what you find, you can always trade it to a collector in Norg.
- 7725: Well, every time Naga Raja is defeated, good things come out of it for us in the silt trade.
- 7726: You know those mog tablet powers those furry little guys are always on about? I reckon it's a bit like that.
- 7727: In our case, escha silt and beads become more plentiful, and the portals don't use up nearly as much silt.
- 7728: Different people have reported other effects as well. I'll give it to whoever's idea this was, killing that dragon has sure increased our productivity here in Escha.
- 7729: Also, they say the more you beat Naga Raja before he disappears, the more he'll drop things the next time around.
- 7730: Of course he also comes back a bit stronger each time. Not that that'd be any problem for a tough [guy/girl] like you, right?
- 7731: So what do you say? I for one, would like to see what you can do to that thing.
- 7732: You got it.
- 7733: Here's a list of effects that are now active in our neck of the woods.
- 7734: You may not be able to collect any rewards if you do not return.
- 7735: A new blessing is now in effect for the area.
- 7736: Which temporary item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6@/$7/Destroy treasure chest.]
- 7737: Which item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6/$7/Destroy treasure chest.]
- 7738: This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1`99. Opening it requires you to guess whether the next number is greater or less than the previous.
- 7739: Previous: $0 ($1 tr[y/ies] left) [Do nothing./Twist number dial up./Twist number dial down.]
- 7740: Your selection has been rendered void. Another party member has already made a selection.
- 7741: The randomly generated number was $0! %0 guessed [successfully/unsuccessfully]!
- 7742: %0 used $0 to unlock the chest!
- 7743: The chest will be lost. Proceed? [Yes, destroy./No, cancel.]
- 7744: The treasure chest has disappeared.
- 7745: What will you do? [Do nothing./Attempt to unlock it./Destroy the chest.]
- 7746: You obtain $0 pinch[/es] of escha silt.
- 7747: You obtain $0 escha bead[/s].
- 7748: <Player>, are you aware of special charms known as "nazars"? There are a total of ten of them, and they can be found on various fearsome foes prowling around Escha.
- 7749: We hadn't learned about them until recently, when I got word from one of the higher-ups about their existence. Bring me one of each and I'll be able to furnish you with an extra-special grisly trinket.
- 7750: I figured maybe you'd have them all by now, but...turns out I was wrong. Come back once you've found all ten.
- 7751: Ah, well done[ lad/]! What do you say--how's about that trinket?
- 7752: Would you like the new trinket? [Of course!/Not right now.]
- 7753: And there you go. Treat it well.
- 7754: This $3 contains with it a tiny bit of puissance from the Far East.
- 7755: Don't go around manhandling it willy-nilly, or its energies might seep out.
- 7756: DEBUG: Raid evaluation: Condition $0/subtotal $1/total $2.
- 7757: DEBUG: Overall assessment $0.
- 7758: You obtain $0 pinch[/es] of escha silt.
+ 7392: 
+ 7393: Siren! Where is Lady Iroha!?
+ 7394: Ah yes, the cute one. I sense you have a special bond with her.
+ 7395: Then heed well my words.
+ 7396: When I was under the ambassador's thrall, I opened up many spatial rifts...though it pains me to admit it.
+ 7397: One such rift is the location which unfolds before you now.
+ 7398: Ru'Aun is said to be a place close to the gods, so it is of no wonder he wishes to strike here.
+ 7399: A cloud of nothingness descending from a different dimension created this land, devoid of all time and color.
+ 7400: It passed through the crystal, devouring all in its wake.
+ 7401: Yet what did Altana do to stop it? Nothing.
+ 7402: She was eminently aware of the truth.
+ 7403: This is the destiny that Vana'diel is fated to face.
+ 7404: The tide can no longer be stemmed.
+ 7405: Altana is alone, having lost her counterpart[/ in Promathia], and is wholly powerless.
+ 7406: We do not intend to fold, even if Altana cannot help us!
+ 7407: All we need is light to guide us, no matter how dim that may be!
+ 7408: Ah, such words encourage me to entrust what I can to you.
+ 7409: Siren, your understanding and compassion are beyond compare.
+ 7410: All the prime avatars can understand our words and thoughts, and will not deny us our due!
+ 7411: I shall show you how to meet Altana.
+ 7412: But to do so, you must first banish the Emptiness surrounding Reisenjima.
+ 7413: And the only one who can aid you in that task is Selh'teus.
+ 7414: I shall grant you the ability to traverse the mists to where Selh'teus resides.
+ 7415: To think you would do such a thing for us!
+ 7416: Never forget your charge, even should Iroha and I fade from this world.
+ 7417: "Fade"? Why fade?
+ 7418: Hahaha... Your friend had bid me buy some time, yet I fear that I cannot hold out any longer.
+ 7419: Go.
+ 7420: Will you leave? [Yes./No./"Buy time"?]
+ 7421: That which wishes to defile the cycle of nature is using us to try to extinguish itself.
+ 7422: Pray it succeeds.
+ 7423: She has explicitly expressed that she does not desire to see you.
+ 7424: Do not get in the way. That which wishes to defile the cycle of nature is trying to extinguish itself.
+ 7425: She has explicitly expressed that she does not desire to see you.
+ 7426: That which wishes to defile the cycle of nature is trying to extinguish itself...and we will do our utmost to see that it succeeds.
+ 7427: You would do best to remain ignorant of the particulars. Now go.
+ 7428: [Lord/Lady] <Player>, it matters not what Siren says. We cannot turn back now!
+ 7429: What we seek lies further within!
+ 7430: Where one may falter...
+ 7431: ...Two can succeed.
+ 7432: Siren, Siren Prime. May my words ring clear and true! I pledge myself to ending this threat!
+ 7433: I am a being of the future, and do not belong in this world.
+ 7434: Nor does the ambassador.
+ 7435: May your forces intertwine and banish the two of us who are not supposed to be here!
+ 7436: Two? Nay, there are three.
+ 7437: When this Communion has been undertaken, the fate of this age will lie in the hands of those who call it home.
+ 7438: Phoenix, when I am gone, scatter my essence to the skies, that I might soar with you.
+ 7439: A Communion is a pact with nature; a declaration of how one feels things ought to be.
+ 7440: Open your heart and let your emotions ride free...
+ 7441: ...As if your life depends on it.
+ 7442: Obey the order of nature and cast away the chaos.
+ 7443: Those who have entrusted themselves to death shall find their release!
+ 7444: Those who have descended from the future...begone!
+ 7445: Master, our time is at an end!
+ 7446: !!!
+ 7447: Urk! Why!? Why must you try and stop me!?
+ 7448: Lady Iroha, you throw your life away without purpose! It is a gift to be cherished, not squandered!
+ 7449: Sir Tenzen, Master--I am not the one who fails to comprehend the meaning of my life!
+ 7450: None of you could possibly grasp the horror of the future I have seen--the future I have lived!
+ 7451: I refuse to be riddled with guilt knowing that I could have done more to stop the evil from coming to pass!
+ 7452: If I must be sacrificed that the world may be cleansed, then that is my sacred duty!
+ 7453: Lady Iroha, none know your struggle more than I.
+ 7454: I, too, have pledged myself to give up my life when the time comes--but I do so only to protect my master.
+ 7455: What of [Sir/Lady] <Player>? If you truly call [him/her] Master...
+ 7456: ...Then throwing away your life here would be akin to stomping over the bonds you two share. I cannot fathom an end more revolting.
+ 7457: ...
+ 7458: Iroha, perhaps she is correct.
+ 7459: You are here in the year 884, and have already formed strong bonds with those around you.
+ 7460: If any can overcome the natural order, it is Altana Herself...and She has infused you with a bit of Her grace.
+ 7461: <Player>, Tenzen, Kagero...
+ 7462: We have done all we can. The rest is up to you.
+ 7463: Our ethereal chains may yet contain him, but the binds are about to snap. Act quickly!
+ 7464: Oho! Not so fast, my friends!
+ 7465: Who--
+ 7466: I'm going to take our little ambassador friend on a tour of my embassy.
+ 7467: Do you want him back, <Player>? How can we go about doing that?
+ 7468: Who cares! I don't think you'd enjoy playing with him anyway.
+ 7469: Ta-ta for now!
+ 7470: Wh-what just happened!?
+ 7471: [Lord/Lady] <Player>, he knew your name. Why would you be acquainted with so foul a creature?
+ 7472: The dream with Selh'teus...he was there.
+ 7473: Lady Iroha!
+ 7474: The two of us shall take Iroha somewhere where she can recuperate.
+ 7475: Here. You will have need of this.
+ 7476: This is $6 bestowed upon us by Siren.
+ 7477: Meet with Selh'teus in our stead. Please.
+ 7478: Start from where? [The top./The second act.]
+ 7479: Well, if this isn't something else. Hey, Naji, get a load of this!
+ 7480: I've seen some stuff in my time, but it's wholly unnatural.
+ 7481: Don't get in over your head, my little adventurer buddy.
+ 7482: We haven't quite finished up our survey of it, but one thing's fully clear:
+ 7483: The longer you stay in this Escha place, the more your spirit slips away.
+ 7484: As if that's not bad enough, you also lose all sense of time. That's why we make sure to keep someone posted at the entrance.
+ 7485: The chief is convinced that this is because the power of the crystals is being drained.
+ 7486: The only reason magic can be used inside is that the energies of Misareaux Coast are seeping in too.
+ 7487: You couldn't pay me enough to jump into the vortex over there.
+ 7488: Vortex?
+ 7489: Have you got a better word for it?
+ 7490: It sucks up the energy and swirls 'round and 'round. If that's not a vortex, then I don't know what is!
+ 7491: You going in?
+ 7492: Head toward the vortex? [Yes./No.]
+ 7493: I think we all agree that's for the best.
+ 7494: Suppose we can't stop you, but don't go getting yourself killed.
+ 7495: Oh me, oh my!
+ 7496: Why would you come here to bother me? Surely I'm of no use to you now.
+ 7497: Why are you here? [We're looking for "him."/Where's the masked man?/Just what are you doing?]
+ 7498: Ah, your masked friend?
+ 7499: I tied him up on the other side of the vortex.
+ 7500: You know, at first I thought he might have been a pretender, but he's really been quite...useful.
+ 7501: When I told him I sought astral forces, he up and created this lovely little swirly thing for me!
+ 7502: Not that it didn't take a little "convincing."
+ 7503: Him? He's over on the other side of the vortex.
+ 7504: You know, at first I thought he might have been a pretender, but he's really been quite...useful.
+ 7505: When I told him I sought astral forces, he up and created this lovely little swirly thing for me!
+ 7506: Not that it didn't take a little "convincing."
+ 7507: Me? Oh, I'm just gathering astral forces. No need to pay me any heed.
+ 7508: When I told your masked friend I sought them, he up and created this lovely little vortex for me!
+ 7509: Not that it didn't take a little "convincing."
+ 7510: ...
+ 7511: (You're the dread fiend...Balamor.)
+ 7512: Oh, Selh'teus, what a grand pleasure it is!
+ 7513: I've saved a seat in the front row just for you.
+ 7514: But if you already know what my grand plan is, then you surely don't need a playbill.
+ 7515: A bit ironic, wouldn't you say? Lest you forget, it was you who first stole energy from Tartarus.
+ 7516: And so I'm taking back what's mine--and perhaps a little more--to create the most spectacular of stages!
+ 7517: (A stage?)
+ 7518: That's right. A world of my own making.
+ 7519: Vana'diel isn't the only world I've been to. This energy is a gift from the gods--to make a god!
+ 7520: I'm sick of reading parts that have been given to me by others, so I've decided to draft my own narrative!
+ 7521: The authors of these worlds all have one thing in common--they conjure up lakes and rivers, fashion sentient beings, dictate laws by which all must abide...and then one day, up and abandon their creations.
+ 7522: Let's just say I'm a bit disgusted at the chaos they've left in their wake.
+ 7523: You don't need to have traveled to different worlds to know I'm right. Look at your Vana'diel--Emptiness this, all-consuming void that--it's halfway between a tragedy and a comedy of errors!
+ 7524: ...
+ 7525: (This world isn't just a playground for the gods.)
+ 7526: "This world isn't just a playground for the gods"?
+ 7527: And that's another contributing factor to how vague life is here. One man's justice is another man's evil.
+ 7528: No, my world will be much simpler. When there is only one path, no one gets lost.
+ 7529: He who seizes the power of the crystals has the right and provenance to rule!
+ 7530: (This fiend is beyond all reason.)
+ 7531: (<Player>, keep him busy.)
+ 7532: (In the meantime...I'll seal off that conduit.)
+ 7533: How could I lose...?
+ 7534: No! No no no no! No no no no no no no no!
+ 7535: You're all fools!
+ 7536: You don't think of the past or the future. Only the present. So with tit-for-tat the first thing you turn to is the sword.
+ 7537: (And what does that mean?)
+ 7538: Look toward the future--here I stand, poised to create a new world while yours is going to fall into nothingness.
+ 7539: Don't you think it's foolish to stop me?
+ 7540: But let's verbally spar a while longer, hmmm?
+ 7541: With him at my side, I could have created a world from the void!
+ 7542: If he joined with me, much like he did with Siren...
+ 7543: We would have been able to live forever! Bwehehe!
+ 7544: But humanity is far too weak!
+ 7545: Bwehehehehehehehehe!
+ 7546: ...!
+ 7547: (Foo...you...)
+ 7548: What's that, now? Speak up!
+ 7549: The fool is you!
+ 7550: Though our world may stumble and falter...
+ 7551: I won't let you use it as your plaything!
+ 7552: Urk--!
+ 7553: Begone, vile demon!
+ 7554: Braaaaaaaaah!
+ 7555: We did it...
+ 7556: We protected the crystals.
+ 7557: And now it is time for a new one.
+ 7558: (<Player>...bring Iroha to Al'Taieu.)
+ 7559: (I shall open the gates for you.)
+ 7560: If all the world's a stage, then this wretched cast will simply not do. Consider yourselves all fired, bwehehehe!
+ 7561: The weak shall suffer the strong...and the strong shall revel in it!
+ 7562: Ugh... What kind of platitudinous pablum is this?
+ 7563: The Warder of Courage readies a magnificent blow!
+ 7564: The Warder of Courage prepares to strike!
+ 7565: Light begins to shimmer and twist as you pass your hand over it.
+ 7566: The blinding light obscures your vision of the world beyond.
+ 7567: Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond.
+ 7568: Travel to where? [Nowhere for now./[Eschan Portal/Ethereal Ingress] #1./[Eschan Portal/Ethereal Ingress] #2./[Eschan Portal/Ethereal Ingress] #3./[Eschan Portal/Ethereal Ingress] #4./[Eschan Portal/Ethereal Ingress] #5./[Eschan Portal/Ethereal Ingress] #6./[Eschan Portal/Ethereal Ingress] #7./[Eschan Portal/Ethereal Ingress] #8./[Eschan Portal/Ethereal Ingress] #9./[Eschan Portal/Ethereal Ingress] #10./[Eschan Portal/Ethereal Ingress] #11./[Eschan Portal/Ethereal Ingress] #12./[Eschan Portal/Ethereal Ingress] #13./[Eschan Portal/Ethereal Ingress] #14./[Eschan Portal/Ethereal Ingress] #15.]
+ 7569: Traverse the light? ($0 silt) [Let's do it. ($1 silt)/Do not go into the light!]
+ 7570: You do not have enough escha silt.
+ 7571: What do you do? [Nothing for now./Use escha silt./Teleport using $0./Teleport using $6.]
+ 7572: Traverse the light? [Let's do this./No, wait!]
+ 7573: You have used $0.
+ 7574: Get a gander o' these reapers!
+ 7575: They can be used to procure all manner of stuff from the grimslights scattered around Escha.
+ 7576: Hoho, bet yer happy now that you ain't got escha silt and beads pourin' out o' yer pockets anymore!
+ 7577: Nothin's more important than storage! Wi' one of these beauties ya can carry more silt an' beads.
+ 7578: What do you do? [Nothing for now./Obtain key items./View grisly trinket notes./Obtain a vorseal./Return a vorseal./Check vorseal blessings./Obtain temporary items./Hear various explanations.]
+ 7579: Pay silt? (current silt: $0) [Yes. (pay $1 silt)/Maybe not.]
+ 7580: Choose which item? (silt: $0) [Never mind./$3: $17 silt./$3: $18 silt./$3: $19 silt./$3: $20 silt./$3: $21 silt./$3: $22 silt./$3: $23 silt./$3: $24 silt./$3: $25 silt./$3: $26 silt./$3: $27 silt./$3: $28 silt./$3: $29 silt./$3: $30 silt./$3: $31 silt./$3: $ silt./Previous page./Next page.]
+ 7581: Pay silt? (current silt: $0) [Yes. (pay $1 silt)/Maybe not.]
+ 7582: View which item? [None./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
+ 7583: Which do you choose? [None./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
+ 7584: $1 $0 .
+ 7585: $3 requires the following items.
+ 7586: View which item? [None./$1: $17./$2: $18./$3: $19./$4: $20./$5: $21./$6: $22./$7: $23./$8: $24./$9: $25./$10: $26./$11: $27./$12: $28./$13: $29./$14: $30./$15: $31./$16: $ .]
+ 7587: $1 $0 , or $3 $0 .
+ 7588: Which do you choose? ($0 silt) [No vorseals for now./[HP+, MP+/Regen+]: $1/$17./[Acc.+, Eva.+/Refresh+]: $2/$18./[DEF+/Acc.++]: $3/$19./[Atk.+, Rng. Atk.+/]: $4/$20./[Mag. Acc.+, Mag. Eva.+/]: $5/$21./[Mag. Def.+/]: $6/$22./[Mag. Atk.+/]: $7/$23./[DEX+, AGI+/]: $8/$24./[STR+, VIT+/]: $9/$25./[INT+, MND+, CHR+/]: $10/$26./[Occ. ignore damage/]: $11/$27./[Killer+/]: $12/$28./[Dmg. Taken-/]: $13/$29./[Spoils+/]: $14/$30./[Rare Enemy+/]: $15/$31./[Luck+/]: $16/$ ./Previous page./Next page.]
+ 7589: How many would you like? ($0 silt) [None for now./$1 seal[/s]: $17 silt./$2 seal[/s]: $18 silt./$3 seal[/s]: $19 silt./$4 seal[/s]: $20 silt./$5 seal[/s]: $21 silt./$6 seal[/s]: $22 silt./$7 seal[/s]: $23 silt./$8 seal[/s]: $24 silt./$9 seal[/s]: $25 silt./$10 seal[/s]: $26 silt./$11 seal[/s]: $27 silt./$12 seal[/s]: $28 silt./$13 seal[/s]: $29 silt./$14 seal[/s]: $30 silt./$15 seal[/s]: $31 silt./$16 seal[/s]: $ silt./Previous page./Next page.]
+ 7590: Purchase this vorseal? ($0 silt) [Ring me up./On second thought...]
+ 7591: The vorseal begins to pulse a vibrant blue!
+ 7592: Return which vorseal? [None of these./[HP+, MP+/Regen+]: $1./[Acc.+, Eva.+/Refresh+]: $2./[Def.+/Acc.++]: $3./[Atk.+, Rng. Atk.+/]: $4./[Mag. Acc.+, Mag. Eva.+/]: $5./[Mag. Def.+/]: $6./[Mag. Atk.+/]: $7./[DEX+, AGI+/]: $8./[STR+, VIT+/]: $9./[INT+, MND+, CHR+/]: $10./[Occ. ignore damage/]: $11./[Killer+/]: $12./[Dmg. taken -/]: $13./[Spoils+/]: $14./[Rare Enemy+/]: $15./[Luck+/]: $16./Previous page./Next page.]
+ 7593: Return the vorseal? [Here you go./No. I still need it.]
+ 7594: You feel the vorseal's energy fade away.
+ 7595: HP+, MP+: $0 seal[/s]. Acc.+, Eva.+: $1 seal[/s]. Def.+: $2 seal[/s]. Atk.+, Rng. Atk.+: $3 seal[/s].
+ 7596: Mag. Atk, Mag. Eva.: $0 seal[/s]. Mag. Def.+: $1 seal[/s]. Mag. Atk.+: $2 seal[/s]. DEX+, AGI+: $3 seal[/s].
+ 7597: STR+, VIT+: $0 seal[/s]. INT+, MND+, CHR+: $1 seal[/s]. Occ. ignore damage: $2 seal[/s]. Killer+: $3 seal[/s].
+ 7598: Dmg. taken-: $0 seal[/s]. Rare enemy+: $2 seal[/s]. Luck+: $3 seal[/s].
+ 7599: Regen+: $0 seal[/s]. Refresh+: $1 seal[/s]. Acc.++: $2 seal[/s].
+ 7600: Which would you like? ($0 silt) [Nothing./$1: $17 silt./$2: $18 silt./$3: $19 silt./$4: $20 silt./$5: $21 silt./$6: $22 silt./$7: $23 silt./$8: $24 silt./$9: $25 silt./$10: $26 silt./$11: $27 silt./$12: $28 silt./$13: $29 silt./$14: $30 silt./$15: $31 silt./$16: $ silt./Previous page./Next page.]
+ 7601: Ask about what? [Nothing./What is this place?/What are [eschan portals/ethereal ingresses]?/What is escha silt?/What are escha beads?/What are tribulenses?/What are grisly trinkets?/What are vorseals?/What temporary items do you have?]
+ 7602: What would you like to do? [Nothing in particular./[Receive elvorseal/Return elvorseal]./Teleport to the target monster./Check area blessings./Receive key items./View grisly trinket notes./Receive vorseals./Return vorseals./Check vorseal effects./Receive temporary items./Hear various explanations.]
+ 7603: [You feel the warmth of the elvorseal's divine protection./The warmth of the elvorseal fades away.]
+ 7604: Teleport to the target? [I'm ready./Not quite yet.]
+ 7605: Ask about what? [Nothing./What is this place?/What are [eschan portals/ethereal ingresses]?/What is escha silt?/What are escha beads?/What are tribulenses?/What are grisly trinkets?/What are vorseals?/What temporary items do you have?/What's with the book?/What is this "unusual monster"?]
+ 7606: Ask about what? [Nothing./About the monster./About elvorseals./About the dropped items./What happens if we defeat it?]
+ 7607: Which active blessing will you check? [None of them. Go back./Temperance./Fortitude./Piety./Justice./Hope./Wisdom./Compassion./Dignity./Loyalty./Mercy./Courage.]
+ 7608: Temperance: Reduces the silt cost of eschan portals.
+ 7609: Fortitude: Increases the status effects of vorseals.
+ 7610: Piety: Increases the effect duration of vorseals.
+ 7611: Justice: Increases "Treasure Hunter" ability by 1.
+ 7612: Hope: Increases the chances of an emblazoned reliquary appearing.
+ 7613: Wisdom: Increases the effect duration of food.
+ 7614: Compassion: Increases the "Refresh" and "Regen" effects of vorseals.
+ 7615: Dignity: Increases escha silt yields.
+ 7616: Loyalty: Increases escha beads yields.
+ 7617: Mercy: $5 and $5 have a chance of not being consumed.
+ 7618: Courage: Increases the "Rare enemy+" effects of vorseals.
+ 7619: Unreal, isn't it?
+ 7620: You ever seen anything quite like this place?
+ 7621: The name's Dremi. Yours?
+ 7622: <Player>, eh? Heh, I'll have to remember that one.
+ 7623: I'm here on behalf of the Tenshodo.
+ 7624: My job here is to brief adventurers like you on the latest details in the area, and of course, do some business while I'm at it.
+ 7625: I've got some items here you can't get anywhere else. Items you'll need if you want to survive in this place. All it takes is a bit of silt and I'm sure you and I will get along fine.
+ 7626: Why if it isn't <Player>. What can I do for you on this beautiful sunny day?
+ 7627: Now before we can talk, I hope you don't mind paying the $0 silt gratuity fee. It's just company policy: no fee, no business.
+ 7628: Huh... You really believe what people tell you, don't you? That's cute. Don't worry, with this I think we can get things done.
+ 7629: As such, here's your $0.
+ 7630: Just ask if you don't know what it's for.
+ 7631: Really? Are you sure? I promise I won't bite.
+ 7632: Nope, I can only give out one $3 per customer, company policy.
+ 7633: One $3 can be yours for only $1 silt. How about it?
+ 7634: Whoa there, [big guy/Sweetie]! Looks like you're a little short on silt.
+ 7635: ...Looks like it's all here. Here's your new vorseal. That little thing will come in handy, believe me!
+ 7636: I'm fine with taking this back, but you'll lose all its protective effects.
+ 7637: Don't come back here crying for backsies just because you changed your mind, okay?
+ 7638: Sure thing. Here's a breakdown of all your vorseals' current effects.
+ 7639: Anything else you need to check?
+ 7640: A brand new $0 can be all yours for the low, low price of just $1 silt.
+ 7641: Nice doing business with you! Here's your $0.
+ 7642: The adventurers call this place Escha.
+ 7643: Beautiful isn't it? Like the world's been covered in ash.
+ 7644: I'm no poet, but time does feel different here. Everything's frozen in place.
+ 7645: Well, except for the monsters that is. The creatures here will appear faster and faster the more you defeat them.
+ 7646: If you make any new discoveries while exploring, be sure to share them with me. We're still trying to figure this place out.
+ 7647: You see that brightly glowing thing over there?
+ 7648: That there's an eschan portal, or at least that's what we've taken to calling them.
+ 7649: With the right procedure, and a little luck, those portals will let you instantly travel to other locations in the area. As far as we were able to determine, there are two ways of using them that seem to work.
+ 7650: The first requires a $1.
+ 7651: $1 can be found all over the place. The portals will react to you if you hold some in your hand and interact with them.
+ 7652: Here's the thing, though. The portals don't let you go anywhere you like. You can only travel between portal pairs in a rotating pattern.
+ 7653: Using a portal once will consume the $1, but you can usually find new ones lying around close to the portals. Make sure to grab one whenever you can.
+ 7654: Once you've crossed through a portal once, you should be able to pass through to the portal of your choice. That's where method number two comes in.
+ 7655: By using escha silt, you can travel to a previously-visited eschan portal directly.
+ 7656: For whatever reason, the silt will burn up when you pass through the portal. Just think of it as a transportation fee.
+ 7657: Give it a try and you'll get the hang of it.
+ 7658: Escha silt? It's quite pretty, don't you think?
+ 7659: Collecting that silvery sand from you adventurers is what we're all about here.
+ 7660: Obviously, in exchange for the precious items you'll need to extract the stuff.
+ 7661: Not bad for a self-reinforcing business model, wouldn't you say?
+ 7662: Escha beads?
+ 7663: Those aren't really my department, sorry to say.
+ 7664: They are very nice, though. Beautiful colors...
+ 7665: Nolan back in Norg will trade for those. He's really into beads...
+ 7666: 5, eh?
+ 7667: Those are what we use to detect some of the more unusual monsters hidden around these parts.
+ 7668: Unfortunately their supply is rather limited, so we have to manage our inventory carefully while waiting for new shipments to arrive.
+ 7669: As such, after buying your fourth lens, you can expect the price of $5 to rise gradually as our inventory dries up.
+ 7670: If you're hard up for silt, you can always come back after prices have dropped down again. Good things come to those who wait and all that.
+ 7671: To hunt out these monsters though, you'll also need an appropriate "grisly trinket," sold separately.
+ 7672: Once you've got both, you're ready to team up around the monster's haunt and do that thing you adventurers do so well.
+ 7673: Grisly trinkets...they might not be the prettiest presents to give to your sweetheart, but when your date's a hulking monster it's a different story.
+ 7674: Each monster has their own grisly trinket associated with it. Basically, the trinkets act as bait to lure their respective monster out of hiding.
+ 7675: Just make sure you've brought the right trinket with you, or all you'll be catching are eschan butterflies.
+ 7676: I've got a list of each trinket and their corresponding monster right here if you need a refresher.
+ 7677: Vorseals! You're gonna want these.
+ 7678: These aren't just fancy strips of colored paper. We've sourced these from a shrine out in the Far East.
+ 7679: While you're in Escha, just having one of these in your pocket will give you access to all sorts of magical benefits.
+ 7680: Just be careful. If you stay in Escha for more than an hour (Earth time), the vorseal's effects will wear off.
+ 7681: Luckily, the vorseal itself will be just fine, and leaving and re-entering Escha seems to restore its effects like nothing ever happened.
+ 7682: It might have something to do with the way time flows through this place.
+ 7683: If you no longer need a vorseal's protection you can always return it here.
+ 7684: I don't do free exchanges, though, so keep that in mind. This is a business after all.
+ 7685: Also make sure to check back every now and then, I've been expecting a new vorseal shipment due in the next few days.
+ 7686: I've got a bunch of goodies fresh from the Tenshodo to help you adventurers out while you're here.
+ 7687: They're all yours in exchange for a little escha silt.
+ 7688: I might have more in a little while, based on how business is going out here.
+ 7689: Be a good [boy/girl] and check back regularly, okay?
+ 7690: Here you go. One reaper for you good [sir/lady].
+ 7691: Use this around the grimslights scattered around the area and see what you can gather.
+ 7692: Here you go. This will hold all the escha silt and beads you can eat, and then some!
+ 7693: This beauty will let you carry even more silt and beads. It's a bit of an investment, but one that'll pay off in no time!
+ 7694: Ah, <Player>, thanks for stopping by!
+ 7695: I've just gotten word that a particularly unusual monster that's [/supposed to show up soon/been spotted nearby]. We could use your help in putting it down.
+ 7696: If you're heading out to face him, you're gonna need this if you want to be any use.
+ 7697: Here, catch.
+ 7698: No charge for this one, we need as many people on that thing as we can get.
+ 7699: There's a lot to go over, so I'll just answer your questions one at a time.
+ 7700: What? If you're not gonna fight go ahead and say so! Here, let me have that back.
+ 7701: The same power that allows that elvorseal to let you affect Naga Raja physically can also teleport you directly to his location.
+ 7702: If you want a physics lesson on how it works, then too bad.
+ 7703: So, you ready to send that nagging Naga Raja our regards, cupcake?
+ 7704: Awww, afraid of the big monster? I'll be right here after you've changed your underwear. Go do what you've gotta do.
+ 7705: Glad to hear it. Show that lizard what happens when you mess with our operations.
+ 7706: Apparently, he was already prowling around when I got here.
+ 7707: He's called Naga Raja. The weird thing is he always appears in the same location and then disappears in a fixed pattern.
+ 7708: From the looks of it, the faster you defeat strange monsters in a different location, the faster he'll appear and disappear.
+ 7709: But the odd thing is that you can't even attempt to touch it. That's probably a good thing, because it means you'll stay safe.
+ 7710: According to the leadership, whatever's going on with this Naga Raja's unnatural, and they want him buried.
+ 7711: That's where these elvorseals come in.
+ 7712: According to the eggheads, some rift in space is the reason Naga Raja can't interact with the world around him. These elvorseals have the power to mend the rift and bring us into contact with him.
+ 7713: I'm not gonna bore you with any more detailed explanations, as that's about as far as I understand it myself. Basically, it goes like this: if you have an elvorseal, you can fight Naga Raja.
+ 7714: Oh, and one more thing--sometimes somethign even bigger and strong pops up. Thankfully, it doesn't move and disappears after a short time.
+ 7715: Now is that clear enough? You don't need me to draw you pretty pictures too, do you?
+ 7716: These charms were enchanted by a high priest from a shrine in the Far East.
+ 7717: Carrying one will mend the dimensional rifts in the space around you for a limited amount of time.
+ 7718: You'll need one if you want to fight Naga Raja.
+ 7719: But you're going to need to be of a high enough caliber before you can even get close to him.
+ 7720: The elvorseal's effects will only last until Naga Raja is defeated. After that, its magic is exhausted and the charm will go up in smoke.
+ 7721: The same thing'll happen if you leave Escha, so keep that in mind.
+ 7722: The good news is that I've got tons in inventory, so come back here whenever you need a new one.
+ 7723: You're a smart [guy/girl], though. I'm sure you won't screw it up.
+ 7724: Yes, that's right. Word is Naga Raja's not the tidiest monster. Chances are he'll start dropping things when you get close to him during the fight.
+ 7725: And if you don't need what you find, you can always trade it to a collector in Norg.
+ 7726: Well, every time Naga Raja is defeated, good things come out of it for us in the silt trade.
+ 7727: You know those mog tablet powers those furry little guys are always on about? I reckon it's a bit like that.
+ 7728: In our case, escha silt and beads become more plentiful, and the portals don't use up nearly as much silt.
+ 7729: Different people have reported other effects as well. I'll give it to whoever's idea this was, killing that dragon has sure increased our productivity here in Escha.
+ 7730: Also, they say the more you beat Naga Raja before he disappears, the more he'll drop things the next time around.
+ 7731: Of course he also comes back a bit stronger each time. Not that that'd be any problem for a tough [guy/girl] like you, right?
+ 7732: So what do you say? I for one, would like to see what you can do to that thing.
+ 7733: You got it.
+ 7734: Here's a list of effects that are now active in our neck of the woods.
+ 7735: You may not be able to collect any rewards if you do not return.
+ 7736: A new blessing is now in effect for the area.
+ 7737: Which temporary item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6@/$7/Destroy treasure chest.]
+ 7738: Which item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6/$7/Destroy treasure chest.]
+ 7739: This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1`99. Opening it requires you to guess whether the next number is greater or less than the previous.
+ 7740: Previous: $0 ($1 tr[y/ies] left) [Do nothing./Twist number dial up./Twist number dial down.]
+ 7741: Your selection has been rendered void. Another party member has already made a selection.
+ 7742: The randomly generated number was $0! %0 guessed [successfully/unsuccessfully]!
+ 7743: %0 used $0 to unlock the chest!
+ 7744: The chest will be lost. Proceed? [Yes, destroy./No, cancel.]
+ 7745: The treasure chest has disappeared.
+ 7746: What will you do? [Do nothing./Attempt to unlock it./Destroy the chest.]
+ 7747: You obtain $0 pinch[/es] of escha silt.
+ 7748: You obtain $0 escha bead[/s].
+ 7749: <Player>, are you aware of special charms known as "nazars"? There are a total of ten of them, and they can be found on various fearsome foes prowling around Escha.
+ 7750: We hadn't learned about them until recently, when I got word from one of the higher-ups about their existence. Bring me one of each and I'll be able to furnish you with an extra-special grisly trinket.
+ 7751: I figured maybe you'd have them all by now, but...turns out I was wrong. Come back once you've found all ten.
+ 7752: Ah, well done[ lad/]! What do you say--how's about that trinket?
+ 7753: Would you like the new trinket? [Of course!/Not right now.]
+ 7754: And there you go. Treat it well.
+ 7755: This $3 contains with it a tiny bit of puissance from the Far East.
+ 7756: Don't go around manhandling it willy-nilly, or its energies might seep out.
+ 7757: DEBUG: Raid evaluation: Condition $0/subtotal $1/total $2.
+ 7758: DEBUG: Overall assessment $0.
  7759: You obtain $0 pinch[/es] of escha silt.
- 7760: You obtain $0 escha bead[/s].
+ 7760: You obtain $0 pinch[/es] of escha silt.
  7761: You obtain $0 escha bead[/s].
- 7762: Domain Invasion evaluation: [Successful attacks/Physical damage/Ranged damage/Magic damage/Attacks taken/Damage taken/Foes vanquished/Times knocked out]: $1.
- 7763: Domain Invasion evaluation: [Healing allies/Resurrections/Enhancing allies/Enhancing self/Enfeebling/Enhancing songs/Enfeebling songs/Critical hits]: $1.
- 7764: Domain Invasion evaluation: [Skillchains/Resists/Special defense/First blood/Healing self/Healing the gravely wounded/Evasion]: $1.
- 7765: Overall evaluation: $0.
- 7766: You have received the maximum evaluation for this Domain Invasion category.
- 7767: You are now participating in a Domain Invasion.
- 7768: You have strayed too far from the monster's spawn point, and your evaluation will be reset if you do not return to the field of battle.
- 7769: Your evaluation has been reset because you have strayed too far from the monster's spawn point.
- 7770: I gotta say, you never know what you'll find in the midst of battle. Give it yer all, and you may just find a special little somethin' waitin' fer you.
- 7771: Who knows what you'll run across on the field of battle? Keep fighting the good fight and you'll surely be rewarded.
- 7772: %0 has put a stop to the skirmish. Those who successfully prevent the battle will receive an ability and reward bonus. Once the ability bonus disappears, so will the reward bonus. The boss battle will begin shortly.
- 7773: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x
- 7774: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Skirmish Prevention Bonus: $2x
- 7775: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Boss Battle Prevention Bonus: $2x
- 7776: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.5/1.6/1.8/2.0]x Skirmish Prevention Bonus: $2x Boss Battle Prevention Bonus: $3x
- 7777: <Player> obtained $0 Domain Points!
- 7778: You have reached the maximum amount of Domain Points obtainable today. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
- 7779: Any Domain points in excess of the maximum of $0 will be lost. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
- 7780: You will receive a bonus of $0 Domain Points for defeating Mireu. This bonus is not subject to the maximum daily limit.
- 7781: The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to $0 minute[/s].
- 7782: The number of players participating in this Domain Invasion has reached a critical mass. The next Domain Invasion will commence in the next $0 minute[/s].
- 7783: The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to $0 second[/s].
- 7784: Domain Points Acquired: $0. Domain Points Held: $1.
- 7785: Mireu is ready to fight once more.
- 7786: Mireu refused to give in.
- 7787: Mireu is now vulnerable!
- 7788: The mollifier? It repels all those rarer, more unsavory creatures in the area.
- 7789: Just remember [big guy/Sweetie], its effect only lasts while you're here in Escha.
- 7790: Oh...I think you're gonna like this. It works just like a $3, letting you find some of the more...elusive denizens that call this place home.
- 7791: Unlike a $3, however, this beauty doesn't shatter after just one use. Instead it'll keep you company for one hour, or until you choose to leave Escha.
- 7792: Here you are. You didn't forget to pack a grisly trinket now, did you?
- 7793: Ah... That little darling keeps track of the grisly trinket monsters you've defeated in the area along with a few other handy records.
- 7794: Think of it as a handy record keeper for all your accomplishments here.
- 7795: Go ahead and take a look...it won't bite, I promise.
- 7796: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
- 7797: Monsters Defeated in Escha - Ru'Aun. [Go back./Bia. [/y$26z]/Ruea. [/y$26$77659y$26z]/Khon. [/y$26z]/Met. [/y$26z]/Khun. [/y$26z]/Wasserspeier. [/y$26z]/Emputa. [/y$26z]/Peirithoos. [/y$26z]/Asida. [/y$26z]/Tenodera. [/y$26z]/Sava Savanovic. [/y$26z]/Palila. [/y$26z]/Hanbi. [/y$26z]/Yilan. [/y$26z]/Amymone. [/y$26z]/Naphula. [/y$26z]/Kammavaca. [/y$26z]/Pakecet. [/y$26z]/Duke Vepar. [/y$26z]/Vir'ava. [/y$26z]/Next page.]
- 7798: Monsters Defeated in Escha - Ru'Aun. [Go back./Byakko. [/y$26z]/Genbu. [/y$26z]/Seiryu. [/y$26z]/Suzaku. [/y$26z]/Kirin. [/y$26z]/Ark Angel HM. [/y$26z]/Ark Angel TT. [/y$26z]/Ark Angel MR. [/y$26z]/Ark Angel EV. [/y$26z]/Ark Angel GK. [/y$26z]/Warder of Courage. [/y$26z]/Previous page.]
- 7799: Escha and Reiseinjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]
- 7800: The level of difficulty for this content is unknown.
- 7801: Proffer which item? [None of these./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
- 7802: Commence battle? [Yes./No.]
- 7803: You are not the party leader.
- 7804: One or more members of your party are not in the appropriate staging zone.
- 7805: Your party does not meet the minimum member requirement of $0.
- 7806: Unable to commence battle.
- 7807: One or more of your party members currently has an active fellow.
- 7808: One or more of your party members currently has an active alter ego.
- 7809: One or more members of your party is currently participating in other content.
- 7810: One or more of your party members is currently viewing a cutscene.
- 7811: All party members have been knocked out. Leaving the battle in $0 minute[/s].
- 7812: Your party leader is attempting to commence a battle.
- 7813: You have strayed too far away from the combat area. Failing to return in time will forfeit your right to participate in the battle.
- 7814: You have strayed too far away from the combat area and have been removed from battle.
- 7815: You have returned to the combat area.
- 7816: The time limit for this battle is $0 minute[/s].
- 7817: Time remaining: $0 [minute/minutes] (Earth time).
- 7818: Time remaining: $0 [second/seconds] (Earth time).
- 7819: Your time for this battle is up...
- 7820: The monster fades before your eyes, a look of disappointment on its face.
- 7821: You received the temporary item $0!
- 7822: You will be able to engage in combat here if you possess $6 and a grisly trinket.
- 7823: The $3 [disappears/and the grisly trinket disappear]!
- 7824: The power of your vorseal wanes...
- 7825: A monster appears!
- 7826: You receive $0 pinch[/es] of escha silt.
- 7827: You receive $0 pinch[/es] of escha silt for a total of $1.
- 7828: You receive $0 escha beads.
- 7829: You receive $0 escha beads for a total of $1.
- 7830: The vorseal begins to glow softly.
- 7831: You do not sense the presence of that foe.
- 7832: One or more party members do not possess $6.
- 7833: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
- 7834: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
- 7835: Obtain this item? [Yes./No.]
- 7836: Obtain this temporary item? [Yes./No.]
- 7837: %0 obtains $0!
- 7838: You were unable to obtain the item.
- 7839: %0 obtains the temporary item: $0!
- 7840: You already possess that temporary item.
- 7841: The chest is locked.
- 7842: What will you do? [Leave it be./Attempt to unlock it.]
- 7843: What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]
- 7844: It appears that you can enter a two-digit combination between 10 and 99.
- 7845: You were unable to enter a combination.
- 7846: You have a hunch that the lock's combination is [greater/less] than $0.
- 7847: %0 failed to open the lock.
- 7848: It appears that the correct combination was $0.
- 7849: %0 succeeded in opening the lock!
- 7850: You have a hunch that the second digit is [even/odd].
- 7851: You have a hunch that the first digit is [even/odd].
- 7852: You have a hunch that the combination is greater than $0 and less than $1.
- 7853: You have a hunch that the combination is less than $0.
- 7854: You have a hunch that the combination is greater than $0.
- 7855: You have a hunch that one of the two digits is $0.
- 7856: You have a hunch that the second digit is $0, $1, or $2.
- 7857: You have a hunch that the first digit is $0, $1, or $2.
- 7858: You were unable to glean anything from your examination of the lock.
- 7859: Obtain this item?
- 7860: The monster was concealing a treasure chest!
- 7861: $P14T$6F
- 7862: $m%&F/
- 7863: $m%^F
- 7864: $3J$3MF
- 7865: B$P16ZF
- 7866: %JF
- 7867: $0
- 7868: $0 $1 $2 $3 $4 $5 $6 $7
- 7869: Return to Castle Adoulin and report back to Arciela.
+ 7762: You obtain $0 escha bead[/s].
+ 7763: Domain Invasion evaluation: [Successful attacks/Physical damage/Ranged damage/Magic damage/Attacks taken/Damage taken/Foes vanquished/Times knocked out]: $1.
+ 7764: Domain Invasion evaluation: [Healing allies/Resurrections/Enhancing allies/Enhancing self/Enfeebling/Enhancing songs/Enfeebling songs/Critical hits]: $1.
+ 7765: Domain Invasion evaluation: [Skillchains/Resists/Special defense/First blood/Healing self/Healing the gravely wounded/Evasion]: $1.
+ 7766: Overall evaluation: $0.
+ 7767: You have received the maximum evaluation for this Domain Invasion category.
+ 7768: You are now participating in a Domain Invasion.
+ 7769: You have strayed too far from the monster's spawn point, and your evaluation will be reset if you do not return to the field of battle.
+ 7770: Your evaluation has been reset because you have strayed too far from the monster's spawn point.
+ 7771: I gotta say, you never know what you'll find in the midst of battle. Give it yer all, and you may just find a special little somethin' waitin' fer you.
+ 7772: Who knows what you'll run across on the field of battle? Keep fighting the good fight and you'll surely be rewarded.
+ 7773: %0 has put a stop to the skirmish. Those who successfully prevent the battle will receive an ability and reward bonus. Once the ability bonus disappears, so will the reward bonus. The boss battle will begin shortly.
+ 7774: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x
+ 7775: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Skirmish Prevention Bonus: $2x
+ 7776: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Boss Battle Prevention Bonus: $2x
+ 7777: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.5/1.6/1.8/2.0]x Skirmish Prevention Bonus: $2x Boss Battle Prevention Bonus: $3x
+ 7778: <Player> obtained $0 Domain Points!
+ 7779: You have reached the maximum amount of Domain Points obtainable today. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
+ 7780: Any Domain points in excess of the maximum of $0 will be lost. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
+ 7781: You will receive a bonus of $0 Domain Points for defeating Mireu. This bonus is not subject to the maximum daily limit.
+ 7782: The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to $0 minute[/s].
+ 7783: The number of players participating in this Domain Invasion has reached a critical mass. The next Domain Invasion will commence in the next $0 minute[/s].
+ 7784: The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to $0 second[/s].
+ 7785: Domain Points Acquired: $0. Domain Points Held: $1.
+ 7786: Mireu is ready to fight once more.
+ 7787: Mireu refused to give in.
+ 7788: Mireu is now vulnerable!
+ 7789: The mollifier? It repels all those rarer, more unsavory creatures in the area.
+ 7790: Just remember [big guy/Sweetie], its effect only lasts while you're here in Escha.
+ 7791: Oh...I think you're gonna like this. It works just like a $3, letting you find some of the more...elusive denizens that call this place home.
+ 7792: Unlike a $3, however, this beauty doesn't shatter after just one use. Instead it'll keep you company for one hour, or until you choose to leave Escha.
+ 7793: Here you are. You didn't forget to pack a grisly trinket now, did you?
+ 7794: Ah... That little darling keeps track of the grisly trinket monsters you've defeated in the area along with a few other handy records.
+ 7795: Think of it as a handy record keeper for all your accomplishments here.
+ 7796: Go ahead and take a look...it won't bite, I promise.
+ 7797: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
+ 7798: Monsters Defeated in Escha - Ru'Aun. [Go back./Bia. [/y$26z]/Ruea. [/y$26$77659y$26z]/Khon. [/y$26z]/Met. [/y$26z]/Khun. [/y$26z]/Wasserspeier. [/y$26z]/Emputa. [/y$26z]/Peirithoos. [/y$26z]/Asida. [/y$26z]/Tenodera. [/y$26z]/Sava Savanovic. [/y$26z]/Palila. [/y$26z]/Hanbi. [/y$26z]/Yilan. [/y$26z]/Amymone. [/y$26z]/Naphula. [/y$26z]/Kammavaca. [/y$26z]/Pakecet. [/y$26z]/Duke Vepar. [/y$26z]/Vir'ava. [/y$26z]/Next page.]
+ 7799: Monsters Defeated in Escha - Ru'Aun. [Go back./Byakko. [/y$26z]/Genbu. [/y$26z]/Seiryu. [/y$26z]/Suzaku. [/y$26z]/Kirin. [/y$26z]/Ark Angel HM. [/y$26z]/Ark Angel TT. [/y$26z]/Ark Angel MR. [/y$26z]/Ark Angel EV. [/y$26z]/Ark Angel GK. [/y$26z]/Warder of Courage. [/y$26z]/Previous page.]
+ 7800: Escha and Reiseinjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]
+ 7801: The level of difficulty for this content is unknown.
+ 7802: Proffer which item? [None of these./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
+ 7803: Commence battle? [Yes./No.]
+ 7804: You are not the party leader.
+ 7805: One or more members of your party are not in the appropriate staging zone.
+ 7806: Your party does not meet the minimum member requirement of $0.
+ 7807: Unable to commence battle.
+ 7808: One or more of your party members currently has an active fellow.
+ 7809: One or more of your party members currently has an active alter ego.
+ 7810: One or more members of your party is currently participating in other content.
+ 7811: One or more of your party members is currently viewing a cutscene.
+ 7812: All party members have been knocked out. Leaving the battle in $0 minute[/s].
+ 7813: Your party leader is attempting to commence a battle.
+ 7814: You have strayed too far away from the combat area. Failing to return in time will forfeit your right to participate in the battle.
+ 7815: You have strayed too far away from the combat area and have been removed from battle.
+ 7816: You have returned to the combat area.
+ 7817: The time limit for this battle is $0 minute[/s].
+ 7818: Time remaining: $0 [minute/minutes] (Earth time).
+ 7819: Time remaining: $0 [second/seconds] (Earth time).
+ 7820: Your time for this battle is up...
+ 7821: The monster fades before your eyes, a look of disappointment on its face.
+ 7822: You received the temporary item $0!
+ 7823: You will be able to engage in combat here if you possess $6 and a grisly trinket.
+ 7824: The $3 [disappears/and the grisly trinket disappear]!
+ 7825: The power of your vorseal wanes...
+ 7826: A monster appears!
+ 7827: You receive $0 pinch[/es] of escha silt.
+ 7828: You receive $0 pinch[/es] of escha silt for a total of $1.
+ 7829: You receive $0 escha beads.
+ 7830: You receive $0 escha beads for a total of $1.
+ 7831: The vorseal begins to glow softly.
+ 7832: You do not sense the presence of that foe.
+ 7833: One or more party members do not possess $6.
+ 7834: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 7835: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 7836: Obtain this item? [Yes./No.]
+ 7837: Obtain this temporary item? [Yes./No.]
+ 7838: %0 obtains $0!
+ 7839: You were unable to obtain the item.
+ 7840: %0 obtains the temporary item: $0!
+ 7841: You already possess that temporary item.
+ 7842: The chest is locked.
+ 7843: What will you do? [Leave it be./Attempt to unlock it.]
+ 7844: What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]
+ 7845: It appears that you can enter a two-digit combination between 10 and 99.
+ 7846: You were unable to enter a combination.
+ 7847: You have a hunch that the lock's combination is [greater/less] than $0.
+ 7848: %0 failed to open the lock.
+ 7849: It appears that the correct combination was $0.
+ 7850: %0 succeeded in opening the lock!
+ 7851: You have a hunch that the second digit is [even/odd].
+ 7852: You have a hunch that the first digit is [even/odd].
+ 7853: You have a hunch that the combination is greater than $0 and less than $1.
+ 7854: You have a hunch that the combination is less than $0.
+ 7855: You have a hunch that the combination is greater than $0.
+ 7856: You have a hunch that one of the two digits is $0.
+ 7857: You have a hunch that the second digit is $0, $1, or $2.
+ 7858: You have a hunch that the first digit is $0, $1, or $2.
+ 7859: You were unable to glean anything from your examination of the lock.
+ 7860: Obtain this item?
+ 7861: The monster was concealing a treasure chest!
+ 7862: $P14T$6F
+ 7863: $m%&F/
+ 7864: $m%^F
+ 7865: $3J$3MF
+ 7866: B$P16ZF
+ 7867: %JF
+ 7868: $0
+ 7869: $0 $1 $2 $3 $4 $5 $6 $7
+ 7870: Return to Castle Adoulin and report back to Arciela.

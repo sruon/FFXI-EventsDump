@@ -58,23 +58,23 @@
 |       7 | 0x0006      |           6 |
 |       8 | 0x000B      |          11 |
 |       9 | 0x0078      |         120 |
-|      10 | 0x1E5E      |        7774 |
-|      11 | 0x1E5F      |        7775 |
-|      12 | 0x1E60      |        7776 |
+|      10 | 0x1E5F      |        7775 |
+|      11 | 0x1E60      |        7776 |
+|      12 | 0x1E61      |        7777 |
 |      13 | 0x086D      |        2157 |
-|      14 | 0x1E61      |        7777 |
-|      15 | 0x1E62      |        7778 |
-|      16 | 0x1E63      |        7779 |
-|      17 | 0x1E64      |        7780 |
-|      18 | 0x1E65      |        7781 |
-|      19 | 0x1E66      |        7782 |
-|      20 | 0x1E67      |        7783 |
-|      21 | 0x1E68      |        7784 |
-|      22 | 0x1E69      |        7785 |
-|      23 | 0x1E6A      |        7786 |
-|      24 | 0x1E6B      |        7787 |
-|      25 | 0x1E84      |        7812 |
-|      26 | 0x1E85      |        7813 |
+|      14 | 0x1E62      |        7778 |
+|      15 | 0x1E63      |        7779 |
+|      16 | 0x1E64      |        7780 |
+|      17 | 0x1E65      |        7781 |
+|      18 | 0x1E66      |        7782 |
+|      19 | 0x1E67      |        7783 |
+|      20 | 0x1E68      |        7784 |
+|      21 | 0x1E69      |        7785 |
+|      22 | 0x1E6A      |        7786 |
+|      23 | 0x1E6B      |        7787 |
+|      24 | 0x1E6C      |        7788 |
+|      25 | 0x1E85      |        7813 |
+|      26 | 0x1E86      |        7814 |
 |      27 | 0x5A5B5     |      370101 |
 |      28 | 0x22593     |      140691 |
 |      29 | 0xFFFF19B2  |  4294908338 |
@@ -82,20 +82,20 @@
 
 ## String References
 
-- **7774**: Isn't this just wonderrrful? First the Velkk get in my way, and now thorn-covered ivy. The thought of those two together makes my fur stand on end.
-- **7775**: Speaking of those beasts, keep your claws sharrrp. They've been known to wander up to the station from time to time.
-- **7776**: Those cursed Velkk, always showing up to rrruin a good time.
-- **7777**: If only you had $6, you might be able to lend a girrrl a hand...
-- **7778**: You there, pioneer! You may have your paws full with some colonization prrroject or other, but I've got a small task for you.
-- **7779**: No doubt you're familiar with the brrrutishness of the Velkk--but the ones here are a bit smarter than the rest.
-- **7780**: Not only do they assault us with weapons and spells, but these annoyances even plant spinescent protuberances to impede our prrrogress!
-- **7781**: One of the things damn near tore my tail to shrrreds! We've got to do something about it!
-- **7782**: I rrresearched as much as I could, but there's a limit to how much can be done by myself.
-- **7783**: My team suggested that since pioneers make a living going against the forces of nature, maybe we could hire one to deal with this prrrickly issue.
-- **7784**: I know this idea must sound like claws scrrratching against metal, but I want you to suffer an amnesic attack from one of those things.
-- **7785**: Did I say "an" amnesic attack? Because I meant five. That should do the trrrick.
-- **7786**: Pioneers are grrreat for doing my dirty...I mean helping out those in need. In this case, what I need is for you to learn more about spinescent protuberances.
-- **7787**: Suffer five amnesic attacks from those things and then come back here. Come on--what's the worrrst that could happen?
+- **7775**: Isn't this just wonderrrful? First the Velkk get in my way, and now thorn-covered ivy. The thought of those two together makes my fur stand on end.
+- **7776**: Speaking of those beasts, keep your claws sharrrp. They've been known to wander up to the station from time to time.
+- **7777**: Those cursed Velkk, always showing up to rrruin a good time.
+- **7778**: If only you had $6, you might be able to lend a girrrl a hand...
+- **7779**: You there, pioneer! You may have your paws full with some colonization prrroject or other, but I've got a small task for you.
+- **7780**: No doubt you're familiar with the brrrutishness of the Velkk--but the ones here are a bit smarter than the rest.
+- **7781**: Not only do they assault us with weapons and spells, but these annoyances even plant spinescent protuberances to impede our prrrogress!
+- **7782**: One of the things damn near tore my tail to shrrreds! We've got to do something about it!
+- **7783**: I rrresearched as much as I could, but there's a limit to how much can be done by myself.
+- **7784**: My team suggested that since pioneers make a living going against the forces of nature, maybe we could hire one to deal with this prrrickly issue.
+- **7785**: I know this idea must sound like claws scrrratching against metal, but I want you to suffer an amnesic attack from one of those things.
+- **7786**: Did I say "an" amnesic attack? Because I meant five. That should do the trrrick.
+- **7787**: Pioneers are grrreat for doing my dirty...I mean helping out those in need. In this case, what I need is for you to learn more about spinescent protuberances.
+- **7788**: Suffer five amnesic attacks from those things and then come back here. Come on--what's the worrrst that could happen?
 
 ## Events
 
@@ -659,7 +659,7 @@
   1: 0x0146 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0147 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0148 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  4: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
+  4: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=7775*)
     → "Isn't this just wonderrrful? First the Velkk get in my way, and now thorn-covered ivy. The thought of those two together makes my fur stand on end."
   5: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x015B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
@@ -694,7 +694,7 @@
   1: 0x0173 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0174 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0175 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  4: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=7775*)
+  4: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
     → "Speaking of those beasts, keep your claws sharrrp. They've been known to wander up to the station from time to time."
   5: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0188 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
@@ -730,11 +730,11 @@
   1: 0x01A0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01A1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01A2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  4: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
+  4: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
     → "Those cursed Velkk, always showing up to rrruin a good time."
   5: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01B5 [0x03] Work_Zone[2] = 2157*
-  7: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
+  7: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
     → "If only you had $6, you might be able to lend a girrrl a hand..."
   8: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01BE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
@@ -775,38 +775,38 @@
   2: 0x01D7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01D8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x01)
-  5: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
+  5: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
     → "You there, pioneer! You may have your paws full with some colonization prrroject or other, but I've got a small task for you."
   6: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
+  7: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7780*)
     → "No doubt you're familiar with the brrrutishness of the Velkk--but the ones here are a bit smarter than the rest."
   8: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x02)
  10: 0x01EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x03)
- 11: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7780*)
+ 11: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
     → "Not only do they assault us with weapons and spells, but these annoyances even plant spinescent protuberances to impede our prrrogress!"
  12: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x04)
  14: 0x0201 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0D)
- 15: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
+ 15: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
     → "One of the things damn near tore my tail to shrrreds! We've got to do something about it!"
  16: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x020C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0E)
  18: 0x0213 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0F)
- 19: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
+ 19: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
     → "I rrresearched as much as I could, but there's a limit to how much can be done by myself."
  20: 0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x021E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x10)
  22: 0x0225 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x09)
- 23: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
+ 23: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
     → "My team suggested that since pioneers make a living going against the forces of nature, maybe we could hire one to deal with this prrrickly issue."
  24: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
+ 25: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
     → "I know this idea must sound like claws scrrratching against metal, but I want you to suffer an amnesic attack from one of those things."
  26: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0234 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0A)
  28: 0x023B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0B)
- 29: 0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+ 29: 0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
     → "Did I say "an" amnesic attack? Because I meant five. That should do the trrrick."
  30: 0x0245 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0246 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0C)
@@ -841,10 +841,10 @@
   1: 0x0256 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0257 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0258 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  4: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
+  4: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
     → "Pioneers are grrreat for doing my dirty...I mean helping out those in need. In this case, what I need is for you to learn more about spinescent protuberances."
   5: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
+  6: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
     → "Suffer five amnesic attacks from those things and then come back here. Come on--what's the worrrst that could happen?"
   7: 0x026E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x026F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
@@ -878,10 +878,10 @@
   1: 0x0287 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0288 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0289 [0x27] REQ_SET(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x15)
-  4: 0x0290 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7812*]:
+  4: 0x0290 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7813*]:
     → "Hey, it's <Player>! Thank you again for showing us how to handle those spinescent prrrotuberances."
   5: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0298 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7813*]:
+  6: 0x0298 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7814*]:
     → "It'll be easy trrrekking from here on out!"
   7: 0x029F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02A0 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB))

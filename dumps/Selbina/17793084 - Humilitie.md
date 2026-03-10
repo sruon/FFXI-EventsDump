@@ -26,20 +26,20 @@
 |       0 | 0x0090      |         144 |
 |       1 | 0x003C      |          60 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1C83      |        7299 |
-|       4 | 0x1C82      |        7298 |
+|       3 | 0x1C84      |        7300 |
+|       4 | 0x1C83      |        7299 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x1B71      |        7025 |
-|       7 | 0x1B76      |        7030 |
-|       8 | 0x1B73      |        7027 |
+|       6 | 0x1B72      |        7026 |
+|       7 | 0x1B77      |        7031 |
+|       8 | 0x1B74      |        7028 |
 
 ## String References
 
-- **7025**: The ship to Mhaura's almost here.
-- **7027**: Attention, passengers! The ship is about to depart. Please make haste!
-- **7030**: This ship is bound for Mhaura.
-- **7298**: The ship bound for Mhaura will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
-- **7299**: The ship bound for Mhaura is now [arriving/departing]!
+- **7026**: The ship to Mhaura's almost here.
+- **7028**: Attention, passengers! The ship is about to depart. Please make haste!
+- **7031**: This ship is bound for Mhaura.
+- **7299**: The ship bound for Mhaura will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+- **7300**: The ship bound for Mhaura is now [arriving/departing]!
 
 ## Events
 
@@ -91,11 +91,11 @@
   2: 0x000B [0x15] Work_Zone[4] /= 144*
   3: 0x0010 [0x15] Work_Zone[2] /= 60*
   4: 0x0015 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0024
-  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
+  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
     → "The ship bound for Mhaura is now [arriving/departing]!"
   6: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0021 [0x01] GOTO 0x0028
-  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
+  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
     → "The ship bound for Mhaura will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time)."
   9: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -129,7 +129,7 @@ SUBROUTINE_0028:
   1: 0x002F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0030 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0031 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7025*)
+  4: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7026*)
     → "The ship to Mhaura's almost here."
   5: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0044 [0x21] END_EVENT
@@ -161,7 +161,7 @@ SUBROUTINE_0028:
   1: 0x004B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x004D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7030*)
+  4: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7031*)
     → "This ship is bound for Mhaura."
   5: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0060 [0x21] END_EVENT
@@ -192,7 +192,7 @@ SUBROUTINE_0028:
   1: 0x0067 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0068 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0069 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=7027*)
+  4: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=7028*)
     → "Attention, passengers! The ship is about to depart. Please make haste!"
   5: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x007C [0x21] END_EVENT

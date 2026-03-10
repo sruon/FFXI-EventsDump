@@ -21,23 +21,23 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F74      |        8052 |
+|       0 | 0x1F75      |        8053 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x1F8B      |        8075 |
-|       3 | 0x1F8C      |        8076 |
-|       4 | 0x1F8D      |        8077 |
+|       2 | 0x1F8C      |        8076 |
+|       3 | 0x1F8D      |        8077 |
+|       4 | 0x1F8E      |        8078 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x1F8E      |        8078 |
-|       7 | 0x1F8F      |        8079 |
+|       6 | 0x1F8F      |        8079 |
+|       7 | 0x1F90      |        8080 |
 |       8 | 0x0028      |          40 |
-|       9 | 0x1F90      |        8080 |
-|      10 | 0x1F91      |        8081 |
+|       9 | 0x1F91      |        8081 |
+|      10 | 0x1F92      |        8082 |
 |      11 | 0x0032      |          50 |
-|      12 | 0x1F92      |        8082 |
-|      13 | 0x1F93      |        8083 |
+|      12 | 0x1F93      |        8083 |
+|      13 | 0x1F94      |        8084 |
 |      14 | 0x004B      |          75 |
-|      15 | 0x1F94      |        8084 |
-|      16 | 0x1F95      |        8085 |
+|      15 | 0x1F95      |        8085 |
+|      16 | 0x1F96      |        8086 |
 |      17 | 0x0000      |           0 |
 |      18 | 0x0003      |           3 |
 |      19 | 0x0004      |           4 |
@@ -495,18 +495,18 @@
 - **7374**: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.
 - **7375**: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.
 - **7378**: I am Jeunoan Ducal Guard, %. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.
-- **8052**: What!? A surprise attack by the beastmen!? And today, of all days...
-- **8075**: Shortly, we will be conducting a test for our mercenary candidates here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
-- **8076**: This exam is to help us judge the candidates' skill in battle and help us separate those with talent from those who are bound for deskwork.
-- **8077**: But after an attack by the beastmen...there won't be any candidates left to grade! You've got to help us give these kids a fighting chance!
-- **8078**: It won't be long before a party of Federation scholars will be arriving here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to do research on the local wildlife.
-- **8079**: These scientists are more powerful with their pens than their swords...but that won't help them against a beastman attack! You've got to help us protect them!
-- **8080**: Hmmm... Later today, a small group of Wize Wizards will be arriving to observe our daily work here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
-- **8081**: I say that we give them something to remember! <Player>! It's up to you to prove to those bigwigs that we are the ones who maintain the peace in the Federation! Give those beastmen all you've got! (Just don't let the Wize Wizards get hurt...)
-- **8082**: Today, a party of Federation Patriarchs is scheduled to arrive at the outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to plan for Windurst's next campaign against the beastmen.
-- **8083**: If anything were to happen to them, we'd all be reassigned to latrine duty! If you know what's good for you, you won't let anyone lay a finger on them!
-- **8084**: Oh, why did the military attach<Player>is from San d'Oria have to come to our outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] now?
-- **8085**: I shudder to think what would happen if an ambassador was injured...or worse! Get out there and protect those Elvaan with your life!
+- **8053**: What!? A surprise attack by the beastmen!? And today, of all days...
+- **8076**: Shortly, we will be conducting a test for our mercenary candidates here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
+- **8077**: This exam is to help us judge the candidates' skill in battle and help us separate those with talent from those who are bound for deskwork.
+- **8078**: But after an attack by the beastmen...there won't be any candidates left to grade! You've got to help us give these kids a fighting chance!
+- **8079**: It won't be long before a party of Federation scholars will be arriving here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to do research on the local wildlife.
+- **8080**: These scientists are more powerful with their pens than their swords...but that won't help them against a beastman attack! You've got to help us protect them!
+- **8081**: Hmmm... Later today, a small group of Wize Wizards will be arriving to observe our daily work here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
+- **8082**: I say that we give them something to remember! <Player>! It's up to you to prove to those bigwigs that we are the ones who maintain the peace in the Federation! Give those beastmen all you've got! (Just don't let the Wize Wizards get hurt...)
+- **8083**: Today, a party of Federation Patriarchs is scheduled to arrive at the outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to plan for Windurst's next campaign against the beastmen.
+- **8084**: If anything were to happen to them, we'd all be reassigned to latrine duty! If you know what's good for you, you won't let anyone lay a finger on them!
+- **8085**: Oh, why did the military attach<Player>is from San d'Oria have to come to our outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] now?
+- **8086**: I shudder to think what would happen if an ambassador was injured...or worse! Get out there and protect those Elvaan with your life!
 
 ## Events
 
@@ -1435,49 +1435,49 @@
 ```
   0: 0x0005 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0006 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8052*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
     → "What!? A surprise attack by the beastmen!? And today, of all days..."
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000F [0x02] IF !(Work_Zone[5] == 20*) GOTO 0x0026
-  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
+  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
     → "Shortly, we will be conducting a test for our mercenary candidates here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands]."
   6: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
+  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
     → "This exam is to help us judge the candidates' skill in battle and help us separate those with talent from those who are bound for deskwork."
   8: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
+  9: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
     → "But after an attack by the beastmen...there won't be any candidates left to grade! You've got to help us give these kids a fighting chance!"
  10: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0023 [0x01] GOTO 0x0072
  12: 0x0026 [0x02] IF !(Work_Zone[5] == 30*) GOTO 0x0039
- 13: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
+ 13: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
     → "It won't be long before a party of Federation scholars will be arriving here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to do research on the local wildlife."
  14: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
+ 15: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
     → "These scientists are more powerful with their pens than their swords...but that won't help them against a beastman attack! You've got to help us protect them!"
  16: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0036 [0x01] GOTO 0x0072
  18: 0x0039 [0x02] IF !(Work_Zone[5] == 40*) GOTO 0x004C
- 19: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
+ 19: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
     → "Hmmm... Later today, a small group of Wize Wizards will be arriving to observe our daily work here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands]."
  20: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
+ 21: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
     → "I say that we give them something to remember! <Player>! It's up to you to prove to those bigwigs that we are the ones who maintain the peace in the Federation! Give those beastmen all you've got! (Just don't let the Wize Wizards get hurt...)"
  22: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0049 [0x01] GOTO 0x0072
  24: 0x004C [0x02] IF !(Work_Zone[5] == 50*) GOTO 0x005F
- 25: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
+ 25: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
     → "Today, a party of Federation Patriarchs is scheduled to arrive at the outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to plan for Windurst's next campaign against the beastmen."
  26: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
+ 27: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
     → "If anything were to happen to them, we'd all be reassigned to latrine duty! If you know what's good for you, you won't let anyone lay a finger on them!"
  28: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x005C [0x01] GOTO 0x0072
  30: 0x005F [0x02] IF !(Work_Zone[5] == 75*) GOTO 0x0072
- 31: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
+ 31: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
     → "Oh, why did the military attach<Player>is from San d'Oria have to come to our outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] now?"
  32: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
+ 33: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
     → "I shudder to think what would happen if an ambassador was injured...or worse! Get out there and protect those Elvaan with your life!"
  34: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x006F [0x01] GOTO 0x0072

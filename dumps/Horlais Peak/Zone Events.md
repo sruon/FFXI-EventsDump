@@ -243,11 +243,11 @@
 |     194 | 0x007A      |         122 |
 |     195 | 0x1DCB      |        7627 |
 |     196 | 0x0078      |         120 |
-|     197 | 0x1E42      |        7746 |
-|     198 | 0x1E43      |        7747 |
-|     199 | 0x1E44      |        7748 |
-|     200 | 0x1E45      |        7749 |
-|     201 | 0x1E46      |        7750 |
+|     197 | 0x1E43      |        7747 |
+|     198 | 0x1E44      |        7748 |
+|     199 | 0x1E45      |        7749 |
+|     200 | 0x1E46      |        7750 |
+|     201 | 0x1E47      |        7751 |
 |     202 | 0xFFFB2C6F  |  4294650991 |
 |     203 | 0xFFFE6F54  |  4294864724 |
 |     204 | 0x1B9C9     |      113097 |
@@ -268,10 +268,10 @@
 |     219 | 0xFFFF9D2B  |  4294941995 |
 |     220 | 0x028C      |         652 |
 |     221 | 0x022B      |         555 |
-|     222 | 0x1F17      |        7959 |
+|     222 | 0x1F18      |        7960 |
 |     223 | 0x0075      |         117 |
 |     224 | 0x007E      |         126 |
-|     225 | 0x1F18      |        7960 |
+|     225 | 0x1F19      |        7961 |
 |     226 | 0x0032      |          50 |
 |     227 | 0x009D      |         157 |
 |     228 | 0x005F      |          95 |
@@ -311,18 +311,18 @@
 |     262 | 0xFFF9F5AF  |  4294571439 |
 |     263 | 0xFFFF0211  |  4294902289 |
 |     264 | 0x171F6     |       94710 |
-|     265 | 0x1E47      |        7751 |
-|     266 | 0x1E48      |        7752 |
-|     267 | 0x1E49      |        7753 |
-|     268 | 0x1E4A      |        7754 |
-|     269 | 0x1E4B      |        7755 |
-|     270 | 0x1E4C      |        7756 |
-|     271 | 0x1E4D      |        7757 |
-|     272 | 0x1E4E      |        7758 |
-|     273 | 0x1E4F      |        7759 |
-|     274 | 0x1E50      |        7760 |
-|     275 | 0x1E51      |        7761 |
-|     276 | 0x1E52      |        7762 |
+|     265 | 0x1E48      |        7752 |
+|     266 | 0x1E49      |        7753 |
+|     267 | 0x1E4A      |        7754 |
+|     268 | 0x1E4B      |        7755 |
+|     269 | 0x1E4C      |        7756 |
+|     270 | 0x1E4D      |        7757 |
+|     271 | 0x1E4E      |        7758 |
+|     272 | 0x1E4F      |        7759 |
+|     273 | 0x1E50      |        7760 |
+|     274 | 0x1E51      |        7761 |
+|     275 | 0x1E52      |        7762 |
+|     276 | 0x1E53      |        7763 |
 |     277 | 0xFFFDAEE6  |  4294815462 |
 |     278 | 0x19D17     |      105751 |
 |     279 | 0xFFFF9A38  |  4294941240 |
@@ -336,21 +336,21 @@
 |     287 | 0x0023      |          35 |
 |     288 | 0x005A      |          90 |
 |     289 | 0x0804      |        2052 |
-|     290 | 0x1F19      |        7961 |
-|     291 | 0x1F1A      |        7962 |
-|     292 | 0x1F1B      |        7963 |
-|     293 | 0x1F1C      |        7964 |
+|     290 | 0x1F1A      |        7962 |
+|     291 | 0x1F1B      |        7963 |
+|     292 | 0x1F1C      |        7964 |
+|     293 | 0x1F1D      |        7965 |
 |     294 | 0x0020      |          32 |
-|     295 | 0x1F1D      |        7965 |
-|     296 | 0x1F1E      |        7966 |
+|     295 | 0x1F1E      |        7966 |
+|     296 | 0x1F1F      |        7967 |
 |     297 | 0x0805      |        2053 |
-|     298 | 0x1F1F      |        7967 |
+|     298 | 0x1F20      |        7968 |
 |     299 | 0x0050      |          80 |
-|     300 | 0x1F20      |        7968 |
-|     301 | 0x1F21      |        7969 |
-|     302 | 0x1F22      |        7970 |
-|     303 | 0x1F23      |        7971 |
-|     304 | 0x1F24      |        7972 |
+|     300 | 0x1F21      |        7969 |
+|     301 | 0x1F22      |        7970 |
+|     302 | 0x1F23      |        7971 |
+|     303 | 0x1F24      |        7972 |
+|     304 | 0x1F25      |        7973 |
 |     305 | 0x0046      |          70 |
 |     306 | 0x008C      |         140 |
 |     307 | 0x00D2      |         210 |
@@ -450,7 +450,7 @@
 - **7604**: The current battlefield clear time record for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]" is $3 second[/s].
 - **7605**: The current battlefield clear time record for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigadee/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]" is $3 minute[/s] $2 second[/s].
 - **7607**: Which battlefield will you enter? [None./The Rank 2 Final Mission./Tails of Woe./Dismemberment Brigade./The Secret Weapon./Hostile Herbivores./Shattering Stars (WAR)./Shattering Stars (BLM)./Shattering Stars (RNG)./Carapace Combatants./Shooting Fish./Dropping Like Flies./Horns of War./Under Observation./Eye of the Tiger./Shots in the Dark./Double Dragonian./Today's Horoscope./Contaminated Colosseum./Kindergarten Cap./Last Orc-Shunned Hero./Beyond Infinity./$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire./A.M.A.N. Trove (Mars)./A.M.A.N. Trove (Venus)./Inv. from Excenmille./Inv. from Excenmille and Co./././././.]
-- **7961**: The $3 dematerializes before your eyes!
+- **7962**: The $3 dematerializes before your eyes!
 
 ## Events
 
@@ -2373,12 +2373,12 @@ SUBROUTINE_2571:
      0x1602 [0x4A] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) looks at Darokbok of Clan Reaper (ID: 17347138/0x0108B242)
      0x160B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x160C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) Render.Flags0 and Render.Flags3 conditions are met
-     0x1611 [0x2B] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) [7746*]:
+     0x1611 [0x2B] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) [7747*]:
     → "You got it yet?"
      0x1618 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1619 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r001" with entities [LocalPlayer, LocalPlayer], work=[39*, 0*]
      0x162A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r001" with entities [LocalPlayer, LocalPlayer], work=39*
-     0x1639 [0x2B] Darokbok of Clan Reaper (ID: 17347138/0x0108B242) [7747*]:
+     0x1639 [0x2B] Darokbok of Clan Reaper (ID: 17347138/0x0108B242) [7748*]:
     → "Me looking for it with crystal dowser, but no find."
      0x1640 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1641 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r002" with entities [LocalPlayer, LocalPlayer], work=[39*, 0*]
@@ -2386,13 +2386,13 @@ SUBROUTINE_2571:
      0x1661 [0x4A] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) looks at Burning Circle (ID: 17347121/0x0108B231)
      0x166A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x166B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) Render.Flags0 and Render.Flags3 conditions are met
-     0x1670 [0x2B] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) [7748*]:
+     0x1670 [0x2B] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) [7749*]:
     → "Oh well, let's charge this ammo and attach to battle machine."
      0x1677 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1678 [0x4A] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) looks at Reaper Clan Warmachine (ID: 17347141/0x0108B245)
      0x1681 [0x1C] WAIT(10* ticks)
      0x1684 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r003" with entities [LocalPlayer, LocalPlayer], work=[39*, 0*]
-     0x1695 [0x2B] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) [7749*]:
+     0x1695 [0x2B] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) [7750*]:
     → "If this worked in Great War, we no lose..."
      0x169C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x169D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -2400,7 +2400,7 @@ SUBROUTINE_2571:
      0x16A3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r003" with entities [LocalPlayer, LocalPlayer], work=39*
      0x16B2 [0x1C] WAIT(60* ticks)
      0x16B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r004" with entities [LocalPlayer, LocalPlayer], work=[39*, 0*]
-     0x16C6 [0x2B] Derakbak of Clan Wolf (ID: 17347140/0x0108B244) [7750*]:
+     0x16C6 [0x2B] Derakbak of Clan Wolf (ID: 17347140/0x0108B244) [7751*]:
     → "Who there!?"
      0x16CD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16CE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r004" with entities [LocalPlayer, LocalPlayer], work=39*
@@ -2518,7 +2518,7 @@ SUBROUTINE_2571:
      0x1A19 [0x1C] WAIT(30* ticks)
      0x1A1C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s121" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x1A2D [0x1A] CALL_SUBROUTINE(address=0x2744)
-     0x1A30 [0x2B] Atori-Tutori (ID: 17347172/0x0108B264) [7959*]:
+     0x1A30 [0x2B] Atori-Tutori (ID: 17347172/0x0108B264) [7960*]:
     → "Splendid. I knew you wouldn't disappointaru me, <Player>. Now, it's time you lived up to your end of our contract."
      0x1A37 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A38 [0x52] END_LOAD_SCHEDULER: End scheduler "s121" with entities [LocalPlayer, LocalPlayer], work=555*
@@ -2532,7 +2532,7 @@ SUBROUTINE_2571:
      0x1A9A [0x1C] WAIT(60* ticks)
      0x1A9D [0x52] END_LOAD_SCHEDULER: End scheduler "s122" with entities [LocalPlayer, LocalPlayer], work=555*
      0x1AAC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s123" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
-     0x1ABD [0x2B] Atori-Tutori (ID: 17347172/0x0108B264) [7960*]:
+     0x1ABD [0x2B] Atori-Tutori (ID: 17347172/0x0108B264) [7961*]:
     → "Heeeee-yah!!!"
      0x1AC4 [0x1C] WAIT(50* ticks)
      0x1AC7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2708,7 +2708,7 @@ SUBROUTINE_2571:
      0x1F49 [0x1A] CALL_SUBROUTINE(address=0x2557)
      0x1F4C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sir0" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[35]
      0x1F5B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sir0" with entities [LocalPlayer, LocalPlayer]
-     0x1F68 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7751*]:
+     0x1F68 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7752*]:
     → "Then it is true..."
      0x1F6F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F70 [0x4E] SET_ENTITY_HIDE_FLAG: Show Eideialc (ID: 17347143/0x0108B247)
@@ -2720,7 +2720,7 @@ SUBROUTINE_2571:
      0x1FB6 [0x27] REQ_SET(priority=0x03, entity_id=Eideialc (ID: 17347143/0x0108B247), tag_num=0x02)
      0x1FBD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[35]
      0x1FCC [0x27] REQ_SET(priority=0x03, entity_id=Rochefogne (ID: 17347131/0x0108B23B), tag_num=0x05)
-     0x1FD3 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7752*]:
+     0x1FD3 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7753*]:
     → "The Orcs are using this portal to gather energy and enhance the power of their weapons."
      0x1FDA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FDB [0x2A] GET_REQ_LEVEL(level=3, entity_id=Rochefogne (ID: 17347131/0x0108B23B))
@@ -2729,40 +2729,40 @@ SUBROUTINE_2571:
      0x1FF6 [0x4A] Eideialc (ID: 17347143/0x0108B247) looks at LocalPlayer
      0x1FFF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x2000 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Eideialc (ID: 17347143/0x0108B247) Render.Flags0 and Render.Flags3 conditions are met
-     0x2005 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7753*]:
+     0x2005 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7754*]:
     → "This may explain the explosion that led to the destruction of Tavnazia. Using the energy in its unstable form obviously has its consequences..."
      0x200C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x200D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q003" with entities [LocalPlayer, LocalPlayer], work=[39*, 0*]
      0x201E [0x1C] WAIT(20* ticks)
-     0x2021 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7754*]:
+     0x2021 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7755*]:
     → "I apologize. My name is Eideialc. I am an adventurer like yourself. I am on a mission for San d'Oria."
      0x2028 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2029 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q003" with entities [LocalPlayer, LocalPlayer], work=39*
      0x2038 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q004" with entities [LocalPlayer, LocalPlayer], work=[39*, 0*]
      0x2049 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q004" with entities [LocalPlayer, LocalPlayer], work=39*
-     0x2058 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7755*]:
+     0x2058 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7756*]:
     → "From what it looks like, the Orcs are also searching for Lightbringer. And they seem to have some special way of locating it. If we don't find it before they do..."
      0x205F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2060 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Rochefogne (ID: 17347131/0x0108B23B), tag_num=0x06)
      0x2067 [0x27] REQ_SET(priority=0x04, entity_id=Rochefogne (ID: 17347131/0x0108B23B), tag_num=0x07)
-     0x206E [0x2B] Rochefogne (ID: 17347131/0x0108B23B) [7756*]:
+     0x206E [0x2B] Rochefogne (ID: 17347131/0x0108B23B) [7757*]:
     → "I applaud you on your resourcefulness. Pretty good for a mere adventurer."
      0x2075 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2076 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7757*]:
+     0x2076 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7758*]:
     → "Who are you!?"
      0x207D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x207E [0x2A] GET_REQ_LEVEL(level=4, entity_id=Rochefogne (ID: 17347131/0x0108B23B))
-     0x2084 [0x2B] Rochefogne (ID: 17347131/0x0108B23B) [7758*]:
+     0x2084 [0x2B] Rochefogne (ID: 17347131/0x0108B23B) [7759*]:
     → "The Orcs' crystal dowser is a nice piece of equipment. I use it myself."
      0x208B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x208C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q006" with entities [LocalPlayer, LocalPlayer], work=[39*, 0*]
      0x209D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q006" with entities [LocalPlayer, LocalPlayer], work=39*
      0x20AC [0x27] REQ_SET(priority=0x03, entity_id=Rochefogne (ID: 17347131/0x0108B23B), tag_num=0x09)
-     0x20B3 [0x2B] Rochefogne (ID: 17347131/0x0108B23B) [7759*]:
+     0x20B3 [0x2B] Rochefogne (ID: 17347131/0x0108B23B) [7760*]:
     → "It'd be a good idea to stop those Orcs from using the magic portal. Who knows what would happen if you didn't?"
      0x20BA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20BB [0x27] REQ_SET(priority=0x04, entity_id=Rochefogne (ID: 17347131/0x0108B23B), tag_num=0x0A)
-     0x20C2 [0x2B] Rochefogne (ID: 17347131/0x0108B23B) [7760*]:
+     0x20C2 [0x2B] Rochefogne (ID: 17347131/0x0108B23B) [7761*]:
     → "However, there is more to this than meets the eye. I wish you luck."
      0x20C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20CA [0x2A] GET_REQ_LEVEL(level=4, entity_id=Rochefogne (ID: 17347131/0x0108B23B))
@@ -2773,7 +2773,7 @@ SUBROUTINE_2571:
      0x20E4 [0x1C] WAIT(20* ticks)
      0x20E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q007" with entities [LocalPlayer, LocalPlayer], work=[39*, 0*]
      0x20F8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q007" with entities [LocalPlayer, LocalPlayer], work=39*
-     0x2107 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7761*]:
+     0x2107 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7762*]:
     → "Wait! Why are you...?"
      0x210E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x210F [0x2A] GET_REQ_LEVEL(level=3, entity_id=Eideialc (ID: 17347143/0x0108B247))
@@ -2782,7 +2782,7 @@ SUBROUTINE_2571:
      0x2121 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x2122 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Eideialc (ID: 17347143/0x0108B247) Render.Flags0 and Render.Flags3 conditions are met
      0x2127 [0x4A] LocalPlayer looks at Eideialc (ID: 17347143/0x0108B247)
-     0x2130 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7762*]:
+     0x2130 [0x2B] Eideialc (ID: 17347143/0x0108B247) [7763*]:
     → "Let us pray for the safety of us both. I hope to see you again soon..."
      0x2137 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2138 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Eideialc (ID: 17347143/0x0108B247), tag_num=0x04)
@@ -2834,7 +2834,7 @@ SUBROUTINE_2571:
      0x2290 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s125" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x22A1 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x0A)
      0x22A8 [0x03] Work_Zone[2] = 2052*
-     0x22AD [0x48] [System] [7961*]:
+     0x22AD [0x48] [System] [7962*]:
     → "The $3 dematerializes before your eyes!"
      0x22B0 [0x1C] WAIT(120* ticks)
      0x22B3 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 120*
@@ -2847,7 +2847,7 @@ SUBROUTINE_2571:
      0x22E4 [0x27] REQ_SET(priority=0x05, entity_id=Atori-Tutori (ID: 17347173/0x0108B265), tag_num=0x02)
      0x22EB [0x1C] WAIT(30* ticks)
      0x22EE [0x1E] EventEntity looks at Atori-Tutori (ID: 17347173/0x0108B265) and starts talking
-     0x22F3 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7962*]:
+     0x22F3 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7963*]:
     → "Phew... You're not such a pushover aftaru all. I almost broke a sweat."
      0x22FA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22FB [0x6E] LocalPlayer uses emote 21*
@@ -2858,25 +2858,25 @@ SUBROUTINE_2571:
      0x231F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s127" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x2330 [0x6E] Atori-Tutori (ID: 17347173/0x0108B265) uses emote 22*
      0x2337 [0x99] Wait for Atori-Tutori (ID: 17347173/0x0108B265) animation to complete
-     0x233C [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7963*]:
+     0x233C [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7964*]:
     → "You still haven't realized? The Atori-Tutori you defeated was merely a part of me. Specifically-wifically speaking, my shadow."
      0x2343 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2344 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7964*]:
+     0x2344 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7965*]:
     → "To splitaru it from my physical body, I borrowed the energy of your little $3, you see."
      0x234B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x234C [0x6E] Atori-Tutori (ID: 17347173/0x0108B265) uses emote 32*
      0x2353 [0x99] Wait for Atori-Tutori (ID: 17347173/0x0108B265) animation to complete
-     0x2358 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7965*]:
+     0x2358 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7966*]:
     → "No small task, I'll have you know! Whew... I might need a nap after this one."
      0x235F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2360 [0x52] END_LOAD_SCHEDULER: End scheduler "s127" with entities [LocalPlayer, LocalPlayer], work=555*
      0x236F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s128" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x2380 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Atori-Tutori (ID: 17347173/0x0108B265), Atori-Tutori (ID: 17347173/0x0108B265)], work=49*
-     0x238F [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7966*]:
+     0x238F [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7967*]:
     → "But hey, you got your training, and I got my first decent workout in years. Everybody wins, rightaru?"
      0x2396 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2397 [0x03] Work_Zone[2] = 2053*
-     0x239C [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7967*]:
+     0x239C [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7968*]:
     → "That $3 acts as a catalyst of sorts to bring my shadow to the fore. Now you know, and knowing is half the battaru."
      0x23A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x23A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Atori-Tutori (ID: 17347173/0x0108B265), Atori-Tutori (ID: 17347173/0x0108B265)], work=49*
@@ -2885,22 +2885,22 @@ SUBROUTINE_2571:
      0x23D3 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x0B)
      0x23DA [0x1C] WAIT(80* ticks)
      0x23DD [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x0C)
-     0x23E4 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7968*]:
+     0x23E4 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7969*]:
     → "What's that? You want to fight me for real, you say?"
      0x23EB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x23EC [0x6E] Atori-Tutori (ID: 17347173/0x0108B265) uses emote 22*
      0x23F3 [0x99] Wait for Atori-Tutori (ID: 17347173/0x0108B265) animation to complete
-     0x23F8 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7969*]:
+     0x23F8 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7970*]:
     → "Trust me, <Player>. You're bettaru off quitting while you're ahead."
      0x23FF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2400 [0x52] END_LOAD_SCHEDULER: End scheduler "s129" with entities [LocalPlayer, LocalPlayer], work=555*
      0x240F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s130" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x2420 [0x6E] Atori-Tutori (ID: 17347173/0x0108B265) uses emote 32*
      0x2427 [0x99] Wait for Atori-Tutori (ID: 17347173/0x0108B265) animation to complete
-     0x242C [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7970*]:
+     0x242C [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7971*]:
     → "Of course, one never knows. Work your buttaru off for the next few centuries or so, and you just might have the faintest chance of maybe, possibly (if ever improbably) giving me a run for my gil."
      0x2433 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2434 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7971*]:
+     0x2434 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7972*]:
     → "...But that's a challenge for another day. And with that, I'm off. Ta-taru!"
      0x243B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x243C [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -2914,7 +2914,7 @@ SUBROUTINE_2571:
      0x2493 [0x1C] WAIT(10* ticks)
      0x2496 [0x79] Atori-Tutori (ID: 17347173/0x0108B265) looks at Unnamed NPC (ID: 17347174/0x0108B266) (Basic look)
      0x24A0 [0x1C] WAIT(50* ticks)
-     0x24A3 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7972*]:
+     0x24A3 [0x2B] Atori-Tutori (ID: 17347173/0x0108B265) [7973*]:
     → "And don't forget, <Player>. Our contract is still in effect."
      0x24AA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x24AB [0x52] END_LOAD_SCHEDULER: End scheduler "s132" with entities [LocalPlayer, LocalPlayer], work=555*

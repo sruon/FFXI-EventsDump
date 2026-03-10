@@ -58,7 +58,7 @@
 |      15 | 0x2679      |        9849 |
 |      16 | 0x0000      |           0 |
 |      17 | 0x0012      |          18 |
-|      18 | 0x1D54      |        7508 |
+|      18 | 0x1D55      |        7509 |
 |      19 | 0xFFFFC51D  |  4294952221 |
 |      20 | 0x25EC      |        9708 |
 |      21 | 0xFFFFFFFB  |  4294967291 |
@@ -7159,7 +7159,7 @@
 ## String References
 
 - **7291**: 0:$0 1:$1 2:$2 3:$3
-- **7508**: $8%$I%9E7
+- **7509**: $8%$I%9E7
 
 ## Events
 
@@ -7481,7 +7481,7 @@ SUBROUTINE_0373:
 
 ```
   0: 0x0374 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-20.073*, z=9.849*, y=0.000*, direction=1.6°*
-  1: 0x037D [0x48] [System] [7508*]:
+  1: 0x037D [0x48] [System] [7509*]:
     → "$8%$I%9E7"
   2: 0x0380 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0381 [0x1F] MOVE_ENTITY: EventEntity moves to X=-15.075*, Z=9.708*, Y=0.000*
@@ -7512,7 +7512,7 @@ SUBROUTINE_0373:
 
 ```
   0: 0x038D [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-20.073*, z=9.849*, y=-0.005*, direction=1.6°*
-  1: 0x0396 [0x48] [System] [7508*]:
+  1: 0x0396 [0x48] [System] [7509*]:
     → "$8%$I%9E7"
   2: 0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x039A [0x1F] MOVE_ENTITY: EventEntity moves to X=-15.075*, Z=-0.005*, Y=0.000*
@@ -7816,7 +7816,7 @@ SUBROUTINE_0416:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-04E0:       1F 00 1E 80 10 80  10 80 1F 01 03 23 10 00    ...........#..
+04E0:       1F 00 1E 80 10 80  10 80 1F 01 03 2B 10 00    ...........+..
 04F0: 80 B4 06 00 00                                    .....           
 ```
 
@@ -7825,7 +7825,7 @@ SUBROUTINE_0416:
 ```
   0: 0x04E2 [0x1F] MOVE_ENTITY: EventEntity moves to X=95.000*, Z=0.000*, Y=0.000*
   1: 0x04EA [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  2: 0x04EC [0x03] Work_Zone[35] = 1*
+  2: 0x04EC [0x03] Work_Zone[43] = 1*
   3: 0x04F1 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x06 - Toggle query message flag, flag_value=0x00)
   4: 0x04F4 [0x00] END_REQSTACK()
 ```
@@ -7844,7 +7844,7 @@ SUBROUTINE_0416:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 04F0:                1F 00 1E  80 1F 80 10 80 1F 01 03       ...........
-0500: 23 10 02 80 B4 06 00 00                           #.......        
+0500: 2B 10 02 80 B4 06 00 00                           +.......        
 ```
 
 #### Opcodes
@@ -7852,7 +7852,7 @@ SUBROUTINE_0416:
 ```
   0: 0x04F5 [0x1F] MOVE_ENTITY: EventEntity moves to X=95.000*, Z=-95.000*, Y=0.000*
   1: 0x04FD [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  2: 0x04FF [0x03] Work_Zone[35] = 2*
+  2: 0x04FF [0x03] Work_Zone[43] = 2*
   3: 0x0504 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x06 - Toggle query message flag, flag_value=0x00)
   4: 0x0507 [0x00] END_REQSTACK()
 ```
@@ -7870,22 +7870,22 @@ SUBROUTINE_0416:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0500:                          02 23 10 20 80 03 30 05          .#. ..0.
-0510: 1A 5D 05 1F 00 03 00 05  00 04 00 1F 01 0B 23 10  .]............#.
-0520: 02 23 10 20 80 00 2D 05  03 23 10 10 80 01 08 05  .#. ..-..#......
+0500:                          02 2B 10 20 80 03 30 05          .+. ..0.
+0510: 1A 5D 05 1F 00 03 00 05  00 04 00 1F 01 0B 2B 10  .]............+.
+0520: 02 2B 10 20 80 00 2D 05  03 2B 10 10 80 01 08 05  .+. ..-..+......
 0530: B4 06 00 00                                       ....            
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0508 [0x02] IF !(Work_Zone[35] >= 576*) GOTO 0x0530
+  0: 0x0508 [0x02] IF !(Work_Zone[43] >= 576*) GOTO 0x0530
   1: 0x0510 [0x1A] CALL_SUBROUTINE(address=0x055D)
   2: 0x0513 [0x1F] MOVE_ENTITY: EventEntity moves to X=ExtData[1]->WorkLocal[3], Z=ExtData[1]->WorkLocal[5], Y=ExtData[1]->WorkLocal[4]
   3: 0x051B [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  4: 0x051D [0x0B] Work_Zone[35]++
-  5: 0x0520 [0x02] IF !(Work_Zone[35] == 576*) GOTO 0x052D
-  6: 0x0528 [0x03] Work_Zone[35] = 0*
+  4: 0x051D [0x0B] Work_Zone[43]++
+  5: 0x0520 [0x02] IF !(Work_Zone[43] == 576*) GOTO 0x052D
+  6: 0x0528 [0x03] Work_Zone[43] = 0*
   7: 0x052D [0x01] GOTO 0x0508
   8: 0x0530 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x06 - Toggle query message flag, flag_value=0x00)
   9: 0x0533 [0x00] END_REQSTACK()
@@ -7904,13 +7904,13 @@ SUBROUTINE_0416:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0530:             32 24 10 00                               2$..        
+0530:             32 2C 10 00                               2,..        
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0534 [0x32] ExtData[1]->MainSpeed = Work_Zone[36] * 0.1
+  0: 0x0534 [0x32] ExtData[1]->MainSpeed = Work_Zone[44] * 0.1
   1: 0x0537 [0x00] END_REQSTACK()
 ```
 
@@ -7929,36 +7929,36 @@ SUBROUTINE_0416:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0530:                          7E 03 F8 FF FF 7F 00 80          ~.......
 0540: 10 80 10 80 10 80 10 80  7E 04 F8 FF FF 7F 00 03  ........~.......
-0550: 02 00 23 10 0B 02 00 14  02 00 01 80 1B 1A 4F 05  ..#...........O.
-0560: 02 25 10 00 80 80 94 05  9D 00 2C 07 03 00 02 00  .%........,.....
+0550: 02 00 2B 10 0B 02 00 14  02 00 01 80 1B 1A 4F 05  ..+...........O.
+0560: 02 2D 10 00 80 80 94 05  9D 00 2C 07 03 00 02 00  .-........,.....
 0570: 0B 02 00 9D 00 2C 07 04  00 02 00 0B 02 00 9D 00  .....,..........
 0580: 2C 07 05 00 02 00 0B 02  00 9D 00 2C 07 06 00 02  ,..........,....
-0590: 00 01 17 07 02 25 10 02  80 80 C8 05 9D 00 2C 1A  .....%........,.
+0590: 00 01 17 07 02 2D 10 02  80 80 C8 05 9D 00 2C 1A  .....-........,.
 05A0: 03 00 02 00 0B 02 00 9D  00 2C 1A 04 00 02 00 0B  .........,......
 05B0: 02 00 9D 00 2C 1A 05 00  02 00 0B 02 00 9D 00 2C  ....,..........,
-05C0: 1A 06 00 02 00 01 17 07  02 25 10 04 80 80 FC 05  .........%......
+05C0: 1A 06 00 02 00 01 17 07  02 2D 10 04 80 80 FC 05  .........-......
 05D0: 9D 00 2C 2D 03 00 02 00  0B 02 00 9D 00 2C 2D 04  ..,-.........,-.
 05E0: 00 02 00 0B 02 00 9D 00  2C 2D 05 00 02 00 0B 02  ........,-......
-05F0: 00 9D 00 2C 2D 06 00 02  00 01 17 07 02 25 10 01  ...,-........%..
+05F0: 00 9D 00 2C 2D 06 00 02  00 01 17 07 02 2D 10 01  ...,-........-..
 0600: 80 80 30 06 9D 00 2C 40  03 00 02 00 0B 02 00 9D  ..0...,@........
 0610: 00 2C 40 04 00 02 00 0B  02 00 9D 00 2C 40 05 00  .,@.........,@..
 0620: 02 00 0B 02 00 9D 00 2C  40 06 00 02 00 01 17 07  .......,@.......
-0630: 02 25 10 07 80 80 64 06  9D 00 2C 53 03 00 02 00  .%....d...,S....
+0630: 02 2D 10 07 80 80 64 06  9D 00 2C 53 03 00 02 00  .-....d...,S....
 0640: 0B 02 00 9D 00 2C 53 04  00 02 00 0B 02 00 9D 00  .....,S.........
 0650: 2C 53 05 00 02 00 0B 02  00 9D 00 2C 53 06 00 02  ,S.........,S...
-0660: 00 01 17 07 02 25 10 09  80 80 98 06 9D 00 2C 66  .....%........,f
+0660: 00 01 17 07 02 2D 10 09  80 80 98 06 9D 00 2C 66  .....-........,f
 0670: 03 00 02 00 0B 02 00 9D  00 2C 66 04 00 02 00 0B  .........,f.....
 0680: 02 00 9D 00 2C 66 05 00  02 00 0B 02 00 9D 00 2C  ....,f.........,
-0690: 66 06 00 02 00 01 17 07  02 25 10 0A 80 80 CC 06  f........%......
+0690: 66 06 00 02 00 01 17 07  02 2D 10 0A 80 80 CC 06  f........-......
 06A0: 9D 00 2C 79 03 00 02 00  0B 02 00 9D 00 2C 79 04  ..,y.........,y.
 06B0: 00 02 00 0B 02 00 9D 00  2C 79 05 00 02 00 0B 02  ........,y......
-06C0: 00 9D 00 2C 79 06 00 02  00 01 17 07 02 25 10 0C  ...,y........%..
+06C0: 00 9D 00 2C 79 06 00 02  00 01 17 07 02 2D 10 0C  ...,y........-..
 06D0: 80 80 00 07 9D 00 2C 8C  03 00 02 00 0B 02 00 9D  ......,.........
 06E0: 00 2C 8C 04 00 02 00 0B  02 00 9D 00 2C 8C 05 00  .,..........,...
 06F0: 02 00 0B 02 00 9D 00 2C  8C 06 00 02 00 01 17 07  .......,........
-0700: 03 02 10 23 10 03 03 10  10 80 03 04 10 10 80 03  ...#............
+0700: 03 02 10 2B 10 03 03 10  10 80 03 04 10 10 80 03  ...+............
 0710: 05 10 10 80 48 21 80 03  03 10 03 00 03 04 10 04  ....H!..........
-0720: 00 03 05 10 05 00 03 02  10 23 10 1B 22 80 23 80  .........#..".#.
+0720: 00 03 05 10 05 00 03 02  10 2B 10 1B 22 80 23 80  .........+..".#.
 0730: 24 80 10 80 25 80 23 80  26 80 10 80 27 80 23 80  $...%.#.&...'.#.
 0740: 28 80 10 80 29 80 23 80  2A 80 10 80 2B 80 23 80  (...).#.*...+.#.
 0750: 2C 80 10 80 2D 80 23 80  2E 80 10 80 2F 80 23 80  ,...-.#...../.#.
@@ -10405,12 +10405,12 @@ SUBROUTINE_0416:
 
 ```
 # Dead code (unreachable instructions):
-     0x054F [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[35]
+     0x054F [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[43]
      0x0554 [0x0B] ExtData[1]->WorkLocal[2]++
      0x0557 [0x14] ExtData[1]->WorkLocal[2] *= 4*
      0x055C [0x1B] RETURN
      0x055D [0x1A] CALL_SUBROUTINE(address=0x054F)
-     0x0560 [0x02] IF !(Work_Zone[37] == 1*) GOTO 0x0594
+     0x0560 [0x02] IF !(Work_Zone[45] == 1*) GOTO 0x0594
      0x0568 [0x9D] ExtData[1]->WorkLocal[3] = 0x072C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x0570 [0x0B] ExtData[1]->WorkLocal[2]++
      0x0573 [0x9D] ExtData[1]->WorkLocal[4] = 0x072C[ExtData[1]->WorkLocal[2]] // Read WORD
@@ -10419,7 +10419,7 @@ SUBROUTINE_0416:
      0x0586 [0x0B] ExtData[1]->WorkLocal[2]++
      0x0589 [0x9D] ExtData[1]->WorkLocal[6] = 0x072C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x0591 [0x01] GOTO 0x0717
-     0x0594 [0x02] IF !(Work_Zone[37] == 2*) GOTO 0x05C8
+     0x0594 [0x02] IF !(Work_Zone[45] == 2*) GOTO 0x05C8
      0x059C [0x9D] ExtData[1]->WorkLocal[3] = 0x1A2C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x05A4 [0x0B] ExtData[1]->WorkLocal[2]++
      0x05A7 [0x9D] ExtData[1]->WorkLocal[4] = 0x1A2C[ExtData[1]->WorkLocal[2]] // Read WORD
@@ -10428,7 +10428,7 @@ SUBROUTINE_0416:
      0x05BA [0x0B] ExtData[1]->WorkLocal[2]++
      0x05BD [0x9D] ExtData[1]->WorkLocal[6] = 0x1A2C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x05C5 [0x01] GOTO 0x0717
-     0x05C8 [0x02] IF !(Work_Zone[37] == 3*) GOTO 0x05FC
+     0x05C8 [0x02] IF !(Work_Zone[45] == 3*) GOTO 0x05FC
      0x05D0 [0x9D] ExtData[1]->WorkLocal[3] = 0x2D2C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x05D8 [0x0B] ExtData[1]->WorkLocal[2]++
      0x05DB [0x9D] ExtData[1]->WorkLocal[4] = 0x2D2C[ExtData[1]->WorkLocal[2]] // Read WORD
@@ -10437,7 +10437,7 @@ SUBROUTINE_0416:
      0x05EE [0x0B] ExtData[1]->WorkLocal[2]++
      0x05F1 [0x9D] ExtData[1]->WorkLocal[6] = 0x2D2C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x05F9 [0x01] GOTO 0x0717
-     0x05FC [0x02] IF !(Work_Zone[37] == 4*) GOTO 0x0630
+     0x05FC [0x02] IF !(Work_Zone[45] == 4*) GOTO 0x0630
      0x0604 [0x9D] ExtData[1]->WorkLocal[3] = 0x402C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x060C [0x0B] ExtData[1]->WorkLocal[2]++
      0x060F [0x9D] ExtData[1]->WorkLocal[4] = 0x402C[ExtData[1]->WorkLocal[2]] // Read WORD
@@ -10446,7 +10446,7 @@ SUBROUTINE_0416:
      0x0622 [0x0B] ExtData[1]->WorkLocal[2]++
      0x0625 [0x9D] ExtData[1]->WorkLocal[6] = 0x402C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x062D [0x01] GOTO 0x0717
-     0x0630 [0x02] IF !(Work_Zone[37] == 5*) GOTO 0x0664
+     0x0630 [0x02] IF !(Work_Zone[45] == 5*) GOTO 0x0664
      0x0638 [0x9D] ExtData[1]->WorkLocal[3] = 0x532C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x0640 [0x0B] ExtData[1]->WorkLocal[2]++
      0x0643 [0x9D] ExtData[1]->WorkLocal[4] = 0x532C[ExtData[1]->WorkLocal[2]] // Read WORD
@@ -10455,7 +10455,7 @@ SUBROUTINE_0416:
      0x0656 [0x0B] ExtData[1]->WorkLocal[2]++
      0x0659 [0x9D] ExtData[1]->WorkLocal[6] = 0x532C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x0661 [0x01] GOTO 0x0717
-     0x0664 [0x02] IF !(Work_Zone[37] == 6*) GOTO 0x0698
+     0x0664 [0x02] IF !(Work_Zone[45] == 6*) GOTO 0x0698
      0x066C [0x9D] ExtData[1]->WorkLocal[3] = 0x662C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x0674 [0x0B] ExtData[1]->WorkLocal[2]++
      0x0677 [0x9D] ExtData[1]->WorkLocal[4] = 0x662C[ExtData[1]->WorkLocal[2]] // Read WORD
@@ -10464,7 +10464,7 @@ SUBROUTINE_0416:
      0x068A [0x0B] ExtData[1]->WorkLocal[2]++
      0x068D [0x9D] ExtData[1]->WorkLocal[6] = 0x662C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x0695 [0x01] GOTO 0x0717
-     0x0698 [0x02] IF !(Work_Zone[37] == 7*) GOTO 0x06CC
+     0x0698 [0x02] IF !(Work_Zone[45] == 7*) GOTO 0x06CC
      0x06A0 [0x9D] ExtData[1]->WorkLocal[3] = 0x792C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x06A8 [0x0B] ExtData[1]->WorkLocal[2]++
      0x06AB [0x9D] ExtData[1]->WorkLocal[4] = 0x792C[ExtData[1]->WorkLocal[2]] // Read WORD
@@ -10473,7 +10473,7 @@ SUBROUTINE_0416:
      0x06BE [0x0B] ExtData[1]->WorkLocal[2]++
      0x06C1 [0x9D] ExtData[1]->WorkLocal[6] = 0x792C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x06C9 [0x01] GOTO 0x0717
-     0x06CC [0x02] IF !(Work_Zone[37] == 8*) GOTO 0x0700
+     0x06CC [0x02] IF !(Work_Zone[45] == 8*) GOTO 0x0700
      0x06D4 [0x9D] ExtData[1]->WorkLocal[3] = 0x8C2C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x06DC [0x0B] ExtData[1]->WorkLocal[2]++
      0x06DF [0x9D] ExtData[1]->WorkLocal[4] = 0x8C2C[ExtData[1]->WorkLocal[2]] // Read WORD
@@ -10482,7 +10482,7 @@ SUBROUTINE_0416:
      0x06F2 [0x0B] ExtData[1]->WorkLocal[2]++
      0x06F5 [0x9D] ExtData[1]->WorkLocal[6] = 0x8C2C[ExtData[1]->WorkLocal[2]] // Read WORD
      0x06FD [0x01] GOTO 0x0717
-     0x0700 [0x03] Work_Zone[2] = Work_Zone[35]
+     0x0700 [0x03] Work_Zone[2] = Work_Zone[43]
      0x0705 [0x03] Work_Zone[3] = 0*
      0x070A [0x03] Work_Zone[4] = 0*
      0x070F [0x03] Work_Zone[5] = 0*
@@ -10491,7 +10491,7 @@ SUBROUTINE_0416:
      0x0717 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
      0x071C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[4]
      0x0721 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[5]
-     0x0726 [0x03] Work_Zone[2] = Work_Zone[35]
+     0x0726 [0x03] Work_Zone[2] = Work_Zone[43]
      0x072B [0x1B] RETURN
      0x072C [0x22] ENTITY_HIDE_FLAG(enabled=0x80)
      0x072E [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -11633,7 +11633,7 @@ SUBROUTINE_0416:
      0x1C0A [0x10] 0x4680 <<= 0x2384
      0x1C0F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148566087/0x80108447))
      0x1C14 [0x48] [System] [0x2384]:
-    → "Where in $8? [Point 1./Point 2./Point 3./Point 4./Point 5./Nowhere.]"
+    → "Truly end it all? [Yes, I must!/No, not yet!]"
      0x1C17 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148566089/0x80108449))
      0x1C1C [0x4A] Unknown NPC (ID: 1266688900/0x4B802384) looks at Unknown NPC (ID: 1283461252/0x4C801084)
      0x1C25 [0x84] ADJUST_RENDER_FLAGS3_BIT0()
@@ -11951,7 +11951,7 @@ SUBROUTINE_0416:
      0x20B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20B7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148566309/0x80108525))
      0x20BC [0x48] [System] [0x2385]:
-    → "[BAD/GOOD]"
+    → "Where in $8? [Point 1./Point 2./Point 3./Point 4./Point 5./Nowhere.]"
      0x20BF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148566304/0x80108520))
      0x20C4 [0x49] Unknown NPC (ID: 511714181/0x1E802385) (No speaker name) [0x1085]:
      0x20CB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149810585/0x80238199))
@@ -12924,7 +12924,7 @@ SUBROUTINE_0416:
      0x3096 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3097 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567111/0x80108847))
      0x309C [0x48] [System] [0x2388]:
-    → "Flag turned [off/on]."
+    → "Pick your poins. [Campaign No. $1/Count: $2./Points: $3./Save data.]"
      0x309F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567113/0x80108849))
      0x30A4 [0x4A] Unknown NPC (ID: 1266688904/0x4B802388) looks at Unknown NPC (ID: 1283461256/0x4C801088)
      0x30AD [0x88] WORLD_PASS_HANDLER_B: Send world pass packet 0x1B (Para=1, sets RecFriendPassFlag)
@@ -13320,7 +13320,7 @@ SUBROUTINE_0416:
      0x3626 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3627 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567367/0x80108947))
      0x362C [0x48] [System] [0x2389]:
-    → "Campaign number set to $1."
+    → "Flag turned [off/on]."
      0x362F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567209/0x801088A9))
      0x3634 [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=0x2385, year=0xB580, month=0x1085, day=0x4980, weekday=0x2389, hour=0x4A80, minute=0x1089, moon=0x4B80)
      0x3645 [0x89] OPEN_MAP(map_id=0x00008023)
@@ -13622,7 +13622,7 @@ SUBROUTINE_0416:
      0x3AC2 [0x10] 0x4680 <<= 0x238A
      0x3AC7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567623/0x80108A47))
      0x3ACC [0x48] [System] [0x238A]:
-    → "Count set to $2."
+    → "Campaign number set to $1."
      0x3ACF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567625/0x80108A49))
      0x3AD4 [0x4A] Unknown NPC (ID: 1266688906/0x4B80238A) looks at Unknown NPC (ID: 1283461258/0x4C80108A)
      0x3ADD [0x8A] CLOSE_MAP()
@@ -14911,7 +14911,7 @@ SUBROUTINE_0416:
      0x5146 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5147 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148568569/0x80108DF9))
      0x514C [0x48] [System] [0x238E]:
-    → "What can I assist you with? ($1 pt[/s].) [Check/Exchange points./Learn about the campaign./Nothing.]"
+    → "Why, hello there! My tremendous task is to tabulate your precious points for the [/January/February/March/April/May/June/July/August/September/October/November/December] $0 login campaign and exchange them for pleasing prizes, kupo!"
      0x514F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148568598/0x80108E16))
      0x5154 [0x49] Unknown NPC (ID: 4018152334/0xEF80238E) (No speaker name) [0x108D]:
      0x515B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149812940/0x80238ACC))
@@ -15266,7 +15266,7 @@ SUBROUTINE_0416:
      0x56B2 [0x10] 0x4680 <<= 0x238F
      0x56B7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148568903/0x80108F47))
      0x56BC [0x48] [System] [0x238F]:
-    → "In this login campaign, we provide you with points just for logging in once each day (Earth time), kupo!"
+    → "What can I assist you with? ($1 pt[/s].) [Check/Exchange points./Learn about the campaign./Nothing.]"
      0x56BF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148568905/0x80108F49))
      0x56C4 [0x4A] Unknown NPC (ID: 1266688911/0x4B80238F) looks at Unknown NPC (ID: 1283461263/0x4C80108F)
      0x56CD [0x8F] SET_ENTITY_STATUS_EVENT_46()
@@ -15670,7 +15670,7 @@ SUBROUTINE_0416:
      0x5C56 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5C57 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148569159/0x80109047))
      0x5C5C [0x48] [System] [0x2390]:
-    → "You can trade them for incredible items to assist you with your adventures!"
+    → "In this login campaign, we provide you with points just for logging in once each day (Earth time), kupo!"
      0x5C5F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148569161/0x80109049))
      0x5C64 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler 0x4B80238C with entities [Unknown NPC (ID: 1249911689/0x4A802389), Unknown NPC (ID: 3598717072/0xD6801090)]
      0x5C71 [0x90] EventEntity->Render.Flags0 |= 0x04; EventEntity->Render.Flags1 |= 0x08
@@ -16682,7 +16682,7 @@ SUBROUTINE_0416:
      0x6D02 [0x10] 0x4780 <<= 0x2393
      0x6D07 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148569876/0x80109314))
      0x6D0C [0x48] [System] [0x2393]:
-    → "Even when the point-proffering period has passed, you can still acquire these amazing items for a limited time, so don't forget about me, kupo!"
+    → "You can trade in these tokens for our gratuitous gifts any time during this campaign!"
      0x6D0F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148569929/0x80109349))
      0x6D14 [0x4A] Unknown NPC (ID: 1266688915/0x4B802393) looks at Unknown NPC (ID: 1283461267/0x4C801093)
      0x6D1D [0x93] DISPLAY_ITEM_INFO(item_id=4294966796*)
@@ -17041,7 +17041,7 @@ SUBROUTINE_0416:
      0x728E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x728F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148570183/0x80109447))
      0x7294 [0x48] [System] [0x2394]:
-    → "Up to 700 points from the current campaign can be carried over to the next one starting with the October 2025 login campaign!"
+    → "Even when the point-proffering period has passed, you can still acquire these amazing items for a limited time, so don't forget about me, kupo!"
      0x7297 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148570185/0x80109449))
      0x729C [0x4A] Unknown NPC (ID: 1266688916/0x4B802394) looks at Unknown NPC (ID: 1283461268/0x4C801094)
      0x72A5 [0x94] Unknown NPC (ID: 278154624/0x10944D80)->Render.Flags3 ^= 0x23
@@ -17723,7 +17723,7 @@ SUBROUTINE_0416:
      0x7E36 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7E37 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148570695/0x80109647))
      0x7E3C [0x48] [System] [0x2396]:
-    → "View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]"
+    → "Any additional points will be summarily seized, kupo!"
      0x7E3F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148570697/0x80109649))
      0x7E44 [0x4A] Unknown NPC (ID: 1266688918/0x4B802396) looks at Unknown NPC (ID: 813699222/0x30801096)
      0x7E4D [0x8C] CRAFTING_HANDLER(mode=0x23) // Unknown mode 35
@@ -18454,7 +18454,7 @@ SUBROUTINE_0416:
      0x89CE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x89CF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148571190/0x80109836))
      0x89D4 [0x48] [System] [0x2398]:
-    → "$23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]"
+    → "$22-pt. items ($1 pts.): [$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./Back.]"
      0x89D7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148571127/0x801097F7))
      0x89DC [0x49] Unknown NPC (ID: 1048585112/0x3E802398) (No speaker name) [0x1098]:
      0x89E3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149815553/0x80239501))

@@ -22,25 +22,25 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0006      |           6 |
-|       2 | 0x1D17      |        7447 |
+|       2 | 0x1D18      |        7448 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
-|       6 | 0x1CC4      |        7364 |
+|       6 | 0x1CC5      |        7365 |
 |       7 | 0x0004      |           4 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x000A      |          10 |
 |      10 | 0x000B      |          11 |
 |      11 | 0x000C      |          12 |
-|      12 | 0x1CC9      |        7369 |
-|      13 | 0x1CCC      |        7372 |
+|      12 | 0x1CCA      |        7370 |
+|      13 | 0x1CCD      |        7373 |
 
 ## String References
 
-- **7364**: What shall you do? [Nothing./Have benefits bestowed upon you./Check active benefits.]
-- **7369**: You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+
-- **7372**: [$25/$26] Magic Defense+ [$25/$1638747/$26] MP+ [$25/$26] Movement Speed+
-- **7447**: What shall you do? [Nothing for now./Have benefits bestowed upon you./Receive Puissance./Check active benefits.]
+- **7365**: What shall you do? [Nothing./Have benefits bestowed upon you./Check active benefits.]
+- **7370**: You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+
+- **7373**: [$25/$26] Magic Defense+ [$25/$1638747/$26] MP+ [$25/$26] Movement Speed+
+- **7448**: What shall you do? [Nothing for now./Have benefits bestowed upon you./Receive Puissance./Check active benefits.]
 
 ## Events
 
@@ -110,7 +110,7 @@
   4: 0x0015 [0x06] ExtData[1]->WorkLocal[4] = 0
   5: 0x0018 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x00B9
   6: 0x0020 [0x02] IF !(ExtData[1]->WorkLocal[3] == 6*) GOTO 0x007A
-  7: 0x0028 [0x24] CREATE_DIALOG(message_id=7447*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+  7: 0x0028 [0x24] CREATE_DIALOG(message_id=7448*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What shall you do? [Nothing for now./Have benefits bestowed upon you./Receive Puissance./Check active benefits.]"
   8: 0x002F [0x25] WAIT_DIALOG_SELECT()
   9: 0x0030 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0043
@@ -131,7 +131,7 @@
 
 SUBROUTINE_0077:
  24: 0x0077 [0x01] GOTO 0x00B6
- 25: 0x007A [0x24] CREATE_DIALOG(message_id=7364*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 25: 0x007A [0x24] CREATE_DIALOG(message_id=7365*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What shall you do? [Nothing./Have benefits bestowed upon you./Check active benefits.]"
  26: 0x0081 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0082 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0095
@@ -162,14 +162,14 @@ SUBROUTINE_00BB:
  48: 0x00FA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
  49: 0x00FF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
  50: 0x0104 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
- 51: 0x0109 [0x48] [System] [7369*]:
+ 51: 0x0109 [0x48] [System] [7370*]:
     → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
  52: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x010D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
  54: 0x0112 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
  55: 0x0117 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
  56: 0x011C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[21]
- 57: 0x0121 [0x48] [System] [7372*]:
+ 57: 0x0121 [0x48] [System] [7373*]:
     → "[$25/$26] Magic Defense+ [$25/$1638747/$26] MP+ [$25/$26] Movement Speed+"
  58: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0125 [0x1B] RETURN

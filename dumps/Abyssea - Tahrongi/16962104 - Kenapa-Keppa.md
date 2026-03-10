@@ -25,30 +25,30 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F1C      |        7964 |
-|       1 | 0x1F1D      |        7965 |
+|       0 | 0x1F1D      |        7965 |
+|       1 | 0x1F1E      |        7966 |
 |       2 | 0x0151      |         337 |
-|       3 | 0x1F1E      |        7966 |
-|       4 | 0x1F1F      |        7967 |
-|       5 | 0x1F20      |        7968 |
-|       6 | 0x1F21      |        7969 |
-|       7 | 0x1F23      |        7971 |
-|       8 | 0x1F24      |        7972 |
+|       3 | 0x1F1F      |        7967 |
+|       4 | 0x1F20      |        7968 |
+|       5 | 0x1F21      |        7969 |
+|       6 | 0x1F22      |        7970 |
+|       7 | 0x1F24      |        7972 |
+|       8 | 0x1F25      |        7973 |
 |       9 | 0x00C9      |         201 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x1F2A      |        7978 |
+|      11 | 0x1F2B      |        7979 |
 
 ## String References
 
-- **7964**: Not...safe...here... You...should...go...
-- **7965**: What...? You'll...help...us...? Great... Take...this...
-- **7966**: South...west...a...thicket... A...cactus... You'll...see...
-- **7967**: Use...this... Something...will...come... Maybe...
-- **7968**: Bring...it...back...here...
-- **7969**: We're...count...ing...on...you...
-- **7971**: Truly...remarkable... I...haven't...been...this...excited...in...years...
-- **7972**: This...$3...worthless...now... I'll...throw...it...out...
-- **7978**: We're...sorry... So...so...sorry...
+- **7965**: Not...safe...here... You...should...go...
+- **7966**: What...? You'll...help...us...? Great... Take...this...
+- **7967**: South...west...a...thicket... A...cactus... You'll...see...
+- **7968**: Use...this... Something...will...come... Maybe...
+- **7969**: Bring...it...back...here...
+- **7970**: We're...count...ing...on...you...
+- **7972**: Truly...remarkable... I...haven't...been...this...excited...in...years...
+- **7973**: This...$3...worthless...now... I'll...throw...it...out...
+- **7979**: We're...sorry... So...so...sorry...
 
 ## Events
 
@@ -96,7 +96,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
     → "Not...safe...here... You...should...go..."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -130,20 +130,20 @@
   1: 0x000F [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0014 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0015 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "What...? You'll...help...us...? Great... Take...this..."
   5: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=337*
-  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
+  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
     → "South...west...a...thicket... A...cactus... You'll...see..."
   8: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
     → "Use...this... Something...will...come... Maybe..."
  10: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+ 11: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "Bring...it...back...here..."
  12: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+ 13: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "We're...count...ing...on...you..."
  14: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0039 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -175,16 +175,16 @@
   0: 0x0048 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x004D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
+  3: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
     → "South...west...a...thicket... A...cactus... You'll...see..."
   4: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+  5: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
     → "Use...this... Something...will...come... Maybe..."
   6: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+  7: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "Bring...it...back...here..."
   8: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+  9: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "We're...count...ing...on...you..."
  10: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x005F [0x21] END_EVENT
@@ -216,10 +216,10 @@
   1: 0x0062 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0067 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0068 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
+  4: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
     → "Truly...remarkable... I...haven't...been...this...excited...in...years..."
   5: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
+  6: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
     → "This...$3...worthless...now... I'll...throw...it...out..."
   7: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0071 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -250,7 +250,7 @@
   0: 0x0084 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0089 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x008A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
+  3: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
     → "Truly...remarkable... I...haven't...been...this...excited...in...years..."
   4: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x008F [0x21] END_EVENT
@@ -279,7 +279,7 @@
   0: 0x0091 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0096 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0097 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
+  3: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
     → "We're...sorry... So...so...sorry..."
   4: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x009C [0x21] END_EVENT

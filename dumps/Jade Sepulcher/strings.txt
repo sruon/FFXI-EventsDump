@@ -1,5 +1,5 @@
 # Strings for Jade Sepulcher
-# Total: 8161 strings
+# Total: 8162 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7170,89 +7170,89 @@
  7166: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7167: You receive $0 bayld!
  7168: Your chocobo refuses to partake of the $0.
- 7169: Tallying conquest results...
- 7170: Conquest results tallied.
- 7171: This region is currently under San d'Orian control.
- 7172: This region is currently under Bastokan control.
- 7173: This region is currently under Windurstian control.
- 7174: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7175: This region is currently neutral.
- 7176: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7177: All three nations are tied for first place.
- 7178: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7179: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7180: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7181: All three nations are tied for first place.
- 7182: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7183: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7184: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7185: All three nations are tied for first place.
- 7186: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7187: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7188: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7189: All three nations are tied for first place.
- 7190: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7191: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7192: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7193: Global balance of power: All three nations are tied for first place.
- 7194: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7195: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7196: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7197: All three nations are tied for first place.
- 7198: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7199: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7200: Conquest update: This region is currently neutral.
- 7201: Conquest update: This region is currently under San d'Orian control.
- 7202: Conquest update: This region is currently under Bastokan control.
- 7203: Conquest update: This region is currently under Windurstian control.
- 7204: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7205: All three nations are at a deadlock.
- 7206: The beastmen are on the rise.
- 7207: Regional influence: San d'Oria - Dominant
- 7208: Regional influence: San d'Oria - Major
- 7209: Regional influence: San d'Oria - Minor
- 7210: Regional influence: San d'Oria - Minimal
- 7211: Bastok - Dominant
- 7212: Bastok - Major
- 7213: Bastok - Minor
- 7214: Bastok - Minimal
- 7215: Windurst - Dominant
- 7216: Windurst - Major
- 7217: Windurst - Minor
- 7218: Windurst - Minimal
- 7219: Bastok and Windurst have formed an alliance.
- 7220: San d'Oria and Windurst have formed an alliance.
- 7221: San d'Oria and Bastok have formed an alliance.
- 7222: Bastok and Windurst are currently allies.
- 7223: San d'Oria and Windurst are currently allies.
- 7224: San d'Oria and Bastok are currently allies.
- 7225: $10$P11.$17F$0 $P14;$P12hF$1
- 7226: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7227: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7228: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7229: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7230: The beastmen are gaining power.
- 7231: San d'Oria's regional control is now 10% closer to the first place country's!
- 7232: Bastok's regional control is now 10% closer to the first place country's!
- 7233: Windurst's regional control are now 10% closer to the first place country's!
- 7234: San d'Oria's region points have increased!
- 7235: Bastok's region points have increased!
- 7236: Windurst's region points have increased!
- 7237: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7238: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7239: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7240: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7241: A Bastokan Expeditionary Force has been dispatched to this area.
- 7242: A Windurstian Expeditionary Force has been dispatched to this area.
- 7243: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7244: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7245: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7246: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7247: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7248: There was a curse on the beastmen's banner!
- 7249: The curse of the beastmen's banner has been lifted!
- 7250: There is a beastmen's banner.
- 7251: @
+ 7169: Your wing skill improved to $0!
+ 7170: Tallying conquest results...
+ 7171: Conquest results tallied.
+ 7172: This region is currently under San d'Orian control.
+ 7173: This region is currently under Bastokan control.
+ 7174: This region is currently under Windurstian control.
+ 7175: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7176: This region is currently neutral.
+ 7177: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7178: All three nations are tied for first place.
+ 7179: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7180: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7181: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7182: All three nations are tied for first place.
+ 7183: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7184: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7185: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7186: All three nations are tied for first place.
+ 7187: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7188: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7189: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7190: All three nations are tied for first place.
+ 7191: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7192: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7193: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7194: Global balance of power: All three nations are tied for first place.
+ 7195: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7196: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7197: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7198: All three nations are tied for first place.
+ 7199: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7200: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7201: Conquest update: This region is currently neutral.
+ 7202: Conquest update: This region is currently under San d'Orian control.
+ 7203: Conquest update: This region is currently under Bastokan control.
+ 7204: Conquest update: This region is currently under Windurstian control.
+ 7205: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7206: All three nations are at a deadlock.
+ 7207: The beastmen are on the rise.
+ 7208: Regional influence: San d'Oria - Dominant
+ 7209: Regional influence: San d'Oria - Major
+ 7210: Regional influence: San d'Oria - Minor
+ 7211: Regional influence: San d'Oria - Minimal
+ 7212: Bastok - Dominant
+ 7213: Bastok - Major
+ 7214: Bastok - Minor
+ 7215: Bastok - Minimal
+ 7216: Windurst - Dominant
+ 7217: Windurst - Major
+ 7218: Windurst - Minor
+ 7219: Windurst - Minimal
+ 7220: Bastok and Windurst have formed an alliance.
+ 7221: San d'Oria and Windurst have formed an alliance.
+ 7222: San d'Oria and Bastok have formed an alliance.
+ 7223: Bastok and Windurst are currently allies.
+ 7224: San d'Oria and Windurst are currently allies.
+ 7225: San d'Oria and Bastok are currently allies.
+ 7226: $10$P11.$17F$0 $P14;$P12hF$1
+ 7227: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7228: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7229: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7230: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7231: The beastmen are gaining power.
+ 7232: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7233: Bastok's regional control is now 10% closer to the first place country's!
+ 7234: Windurst's regional control are now 10% closer to the first place country's!
+ 7235: San d'Oria's region points have increased!
+ 7236: Bastok's region points have increased!
+ 7237: Windurst's region points have increased!
+ 7238: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7239: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7240: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7241: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7242: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7243: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7244: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7245: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7246: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7247: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7248: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7249: There was a curse on the beastmen's banner!
+ 7250: The curse of the beastmen's banner has been lifted!
+ 7251: There is a beastmen's banner.
  7252: @
  7253: @
  7254: @
@@ -7327,15 +7327,15 @@
  7323: @
  7324: @
  7325: @
- 7326: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7327: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7328: Enter the battlefield? [Enter./Decline.]
- 7329: Leave the battlefield? [Run away./Stay.]
- 7330: You cannot enter the battlefield at present. Please wait a little longer.
+ 7326: @
+ 7327: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7328: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7329: Enter the battlefield? [Enter./Decline.]
+ 7330: Leave the battlefield? [Run away./Stay.]
  7331: You cannot enter the battlefield at present. Please wait a little longer.
- 7332: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
- 7333: Your time in the battlefield is up! Now exiting...
- 7334: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7332: You cannot enter the battlefield at present. Please wait a little longer.
+ 7333: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+ 7334: Your time in the battlefield is up! Now exiting...
  7335: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7336: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7337: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7345,59 +7345,59 @@
  7341: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7342: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7343: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
- 7344: You have been enchanted so that you may enter!
- 7345: Your entry enchantment has expired!
- 7346: You are not cleared to enter the battlefield. Now exiting...
- 7347: A cursed seal has been placed upon this platform.
- 7348: The battlefield where your party members are engaged in combat is locked. Access is denied.
- 7349: There is no response. You cannot escape!
- 7350: The door is sealed shut with an evil curse.
- 7351: A mysterious force is sealing the platform.
- 7352: The old wooden door is locked tight.
- 7353: The door is sealed with a mysterious energy.
- 7354: It is a giant crystal.
- 7355: A strong magical force is whirling up from the platform.
- 7356: A fierce column of wind blocks your path. You cannot proceed any further...
- 7357: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
- 7358: An unfathomable light is rising from this strangely marked platform...
- 7359: A heavy wooden gate. It is tightly locked...
- 7360: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7344: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7345: You have been enchanted so that you may enter!
+ 7346: Your entry enchantment has expired!
+ 7347: You are not cleared to enter the battlefield. Now exiting...
+ 7348: A cursed seal has been placed upon this platform.
+ 7349: The battlefield where your party members are engaged in combat is locked. Access is denied.
+ 7350: There is no response. You cannot escape!
+ 7351: The door is sealed shut with an evil curse.
+ 7352: A mysterious force is sealing the platform.
+ 7353: The old wooden door is locked tight.
+ 7354: The door is sealed with a mysterious energy.
+ 7355: It is a giant crystal.
+ 7356: A strong magical force is whirling up from the platform.
+ 7357: A fierce column of wind blocks your path. You cannot proceed any further...
+ 7358: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+ 7359: An unfathomable light is rising from this strangely marked platform...
+ 7360: A heavy wooden gate. It is tightly locked...
  7361: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7362: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7363: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
- 7364: A glowing mist of ever-changing proportions floats before you...
- 7365: A solid iron gate. It is tightly locked...
- 7366: You see a gigantic crystal, glowing with amber light...
+ 7364: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7365: A glowing mist of ever-changing proportions floats before you...
+ 7366: A solid iron gate. It is tightly locked...
  7367: You see a gigantic crystal, glowing with amber light...
- 7368: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
- 7369: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7370: If you listen closely, you can faintly hear female voices singing in rounds...
- 7371: It appears as if something had been thrust into the rockface here...
- 7372: A decorative door. It appears to be locked...
- 7373: The door is locked.
- 7374: The gate is locked.
- 7375: The door is locked.
+ 7368: You see a gigantic crystal, glowing with amber light...
+ 7369: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+ 7370: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7371: If you listen closely, you can faintly hear female voices singing in rounds...
+ 7372: It appears as if something had been thrust into the rockface here...
+ 7373: A decorative door. It appears to be locked...
+ 7374: The door is locked.
+ 7375: The gate is locked.
  7376: The door is locked.
- 7377: There seems to be a space beneath the floor, but you are unable to access it.
- 7378: You do not meet the requirements to enter the battlefield. Access is denied.
- 7379: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
- 7380: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
- 7381: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
- 7382: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
- 7383: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
- 7384: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
- 7385: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
- 7386: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
- 7387: You were unable to protect the special character. Now leaving the battlefield.
- 7388: You were unable to protect Prince Trion. Now leaving the battlefield.
- 7389: You were unable to protect Captain Volker. Now leaving the battlefield.
- 7390: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
- 7391: Your $0 is torn...
- 7392: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7393: Your $0 is torn...
- 7394: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7395: You see innumerable stars shimmering in the distance...
- 7396: @
+ 7377: The door is locked.
+ 7378: There seems to be a space beneath the floor, but you are unable to access it.
+ 7379: You do not meet the requirements to enter the battlefield. Access is denied.
+ 7380: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+ 7381: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+ 7382: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+ 7383: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+ 7384: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+ 7385: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+ 7386: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+ 7387: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+ 7388: You were unable to protect the special character. Now leaving the battlefield.
+ 7389: You were unable to protect Prince Trion. Now leaving the battlefield.
+ 7390: You were unable to protect Captain Volker. Now leaving the battlefield.
+ 7391: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+ 7392: Your $0 is torn...
+ 7393: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7394: Your $0 is torn...
+ 7395: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7396: You see innumerable stars shimmering in the distance...
  7397: @
  7398: @
  7399: @
@@ -7405,760 +7405,761 @@
  7401: @
  7402: @
  7403: @
- 7404: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
+ 7404: @
  7405: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7406: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7407: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7408: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
- 7409: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7409: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7410: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
  7411: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
- 7412: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7413: i$20%.%p$P15zj
- 7414: $7278448;39\5=Bj
+ 7412: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7413: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7414: i$20%.%p$P15zj
  7415: $7278448;39\5=Bj
  7416: $7278448;39\5=Bj
- 7417: remove@1
- 7418: remove@2
- 7419: remove@3
- 7420: i$3{$3X_A$P13|5=j
- 7421: i$3{$3X_B$P13|5=j
- 7422: i$3{$3X_C$P13|5=j
- 7423: $6750818j=j
- 7424: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7425: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7426: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7417: $7278448;39\5=Bj
+ 7418: remove@1
+ 7419: remove@2
+ 7420: remove@3
+ 7421: i$3{$3X_A$P13|5=j
+ 7422: i$3{$3X_B$P13|5=j
+ 7423: i$3{$3X_C$P13|5=j
+ 7424: $6750818j=j
+ 7425: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7426: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
  7427: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7428: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7429: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7430: GL$20%.L$P16<$P11Op)i$132960a b
- 7431: GL$20%.LIDp)i$132960a b
- 7432: $20%._AL$3p$3243853
- 7433: $20%._BL$3p$3243853
- 7434: $20%._CL$3p$3243853
- 7435: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7436: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7437: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7429: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7430: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7431: GL$20%.L$P16<$P11Op)i$132960a b
+ 7432: GL$20%.LIDp)i$132960a b
+ 7433: $20%._AL$3p$3243853
+ 7434: $20%._BL$3p$3243853
+ 7435: $20%._CL$3p$3243853
+ 7436: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7437: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7438: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7439: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7440: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7440: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7441: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7442: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7443: $6819916%L$P10l$20*()5"
+ 7443: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7444: $6819916%L$P10l$20*()5"
  7445: $6819916%L$P10l$20*()5"
- 7446: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7446: $6819916%L$P10l$20*()5"
  7447: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7448: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7449: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7450: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7451: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7452: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7453: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7454: i$20%._A$P13&$22$3C$3x$3$3g
- 7455: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7456: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7457: i$20%._B$P13&$22$3C$3x$3$3g
- 7458: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7459: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7460: i$20%._C$P13&$22$3C$3x$3$3g
- 7461: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7462: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7463: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7464: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7465: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7466: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7467: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7468: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7469: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7470: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7471: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7472: $6647884nding$8%p$@$s5\5=B
- 7473: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7449: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7450: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7451: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7452: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7453: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7454: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7455: i$20%._A$P13&$22$3C$3x$3$3g
+ 7456: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7457: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7458: i$20%._B$P13&$22$3C$3x$3$3g
+ 7459: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7460: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7461: i$20%._C$P13&$22$3C$3x$3$3g
+ 7462: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7463: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7464: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7465: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7466: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7467: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7468: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7469: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7470: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7471: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7472: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7473: $6647884nding$8%p$@$s5\5=B
  7474: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7475: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7476: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7477: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7478: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7479: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7480: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7481: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7482: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7483: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7484: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7485: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7486: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7487: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7488: ($20%._AM$0$P14u$6E7)
- 7489: ($20%._BM$0$P14u$6E7)
- 7490: ($20%._CM$0$P14u$6E7)
- 7491: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7492: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7493: i$20%._A$P13|$:I$3g$3$3C5\7
- 7494: i$20%._B$P13|$:I$3g$3$3C5\7
- 7495: i$20%._C$P13|$:I$3g$3$3C5\7
- 7496: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7497: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7498: (AIMID* h\9qE5=)
- 7499: (BIMID* h\9qE5=)
- 7500: (CIMID* h\9qE5=)
- 7501: (AIID* h\5=)
- 7502: (BIID* h\5=)
- 7503: (CIID* h\5=)
- 7504: (AM7EI$P10f$P16q* h\5=)
- 7505: (BM7EI$P10f$P16q* h\5=)
- 7506: (CM7EI$P10f$P16q* h\5=)
- 7507: $2097706ADH"=_$P13|$:E+\9q
- 7508: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7509: i$20%.%p$P15zj
- 7510: $7278448;39\5=Bj
+ 7476: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7477: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7478: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7479: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7480: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7481: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7482: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7483: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7484: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7485: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7486: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7487: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7488: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7489: ($20%._AM$0$P14u$6E7)
+ 7490: ($20%._BM$0$P14u$6E7)
+ 7491: ($20%._CM$0$P14u$6E7)
+ 7492: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7493: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7494: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7495: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7496: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7497: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7498: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7499: (AIMID* h\9qE5=)
+ 7500: (BIMID* h\9qE5=)
+ 7501: (CIMID* h\9qE5=)
+ 7502: (AIID* h\5=)
+ 7503: (BIID* h\5=)
+ 7504: (CIID* h\5=)
+ 7505: (AM7EI$P10f$P16q* h\5=)
+ 7506: (BM7EI$P10f$P16q* h\5=)
+ 7507: (CM7EI$P10f$P16q* h\5=)
+ 7508: $2097706ADH"=_$P13|$:E+\9q
+ 7509: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7510: i$20%.%p$P15zj
  7511: $7278448;39\5=Bj
  7512: $7278448;39\5=Bj
- 7513: i$3{$3X_A$A&=j
- 7514: i$3{$3X_B$A&=j
- 7515: i$3{$3X_C$A&=j
- 7516: i$3{$3X_A$P13|5=j
- 7517: i$3{$3X_B$P13|5=j
- 7518: i$3{$3X_C$P13|5=j
- 7519: H=M$20%.`I$P13|j;$E7
- 7520: H=M$20%.aI$P13|j;$E7
- 7521: H=M$20%.bI$P13|j;$E7
- 7522: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
- 7523: $4457025i
- 7524: $4456998"i
- 7525: $24952730=j
- 7526: $656169$3$3N$3f$3b$3hj
- 7527: $P12N`"H"
- 7528: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7513: $7278448;39\5=Bj
+ 7514: i$3{$3X_A$A&=j
+ 7515: i$3{$3X_B$A&=j
+ 7516: i$3{$3X_C$A&=j
+ 7517: i$3{$3X_A$P13|5=j
+ 7518: i$3{$3X_B$P13|5=j
+ 7519: i$3{$3X_C$P13|5=j
+ 7520: H=M$20%.`I$P13|j;$E7
+ 7521: H=M$20%.aI$P13|j;$E7
+ 7522: H=M$20%.bI$P13|j;$E7
+ 7523: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
+ 7524: $4457025i
+ 7525: $4456998"i
+ 7526: $24952730=j
+ 7527: $656169$3$3N$3f$3b$3hj
+ 7528: $P12N`"H"
  7529: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7530: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7531: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
+ 7531: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7532: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7533: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7534: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
- 7535: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7535: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7536: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
  7537: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
- 7538: pending$3`$3F$3b$3N$3I[$3P[
- 7539: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7538: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7539: pending$3`$3F$3b$3N$3I[$3P[
  7540: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
  7541: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
- 7542: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
- 7543: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7544: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7545: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7546: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7542: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7543: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
+ 7544: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7545: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7546: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
  7547: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
  7548: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
- 7549: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
- 7550: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
- 7551: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
- 7552: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
- 7553: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
- 7554: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
- 7555: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
- 7556: $6750818j=j
- 7557: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7558: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7559: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7560: GL$20%.L$P16<$P11Op)i$132960a b
- 7561: GL$20%.LIDp)i$132960a b
- 7562: $20%._AL$3p$3243853
- 7563: $20%._BL$3p$3243853
- 7564: $20%._CL$3p$3243853
- 7565: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7566: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7567: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7549: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7550: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
+ 7551: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
+ 7552: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
+ 7553: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
+ 7554: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
+ 7555: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
+ 7556: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
+ 7557: $6750818j=j
+ 7558: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7559: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
+ 7560: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7561: GL$20%.L$P16<$P11Op)i$132960a b
+ 7562: GL$20%.LIDp)i$132960a b
+ 7563: $20%._AL$3p$3243853
+ 7564: $20%._BL$3p$3243853
+ 7565: $20%._CL$3p$3243853
+ 7566: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7567: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7568: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7569: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7570: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7570: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7571: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7572: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7573: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7574: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7575: $6819916%L$P10l$20*()5"
+ 7575: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7576: $6819916%L$P10l$20*()5"
- 7577: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7577: $6819916%L$P10l$20*()5"
  7578: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7579: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7580: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7581: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7582: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7583: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7584: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7585: i$20%._A$P13&$22$3C$3x$3$3g
- 7586: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7587: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7588: i$20%._B$P13&$22$3C$3x$3$3g
- 7589: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7590: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7591: i$20%._C$P13&$22$3C$3x$3$3g
- 7592: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7593: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7594: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7595: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7596: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7597: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7598: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7599: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7600: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7601: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7602: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7603: $6647884nding$8%p$@$s5\5=B
- 7604: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7580: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7581: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7582: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7583: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7584: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7585: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7586: i$20%._A$P13&$22$3C$3x$3$3g
+ 7587: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7588: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7589: i$20%._B$P13&$22$3C$3x$3$3g
+ 7590: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7591: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7592: i$20%._C$P13&$22$3C$3x$3$3g
+ 7593: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7594: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7595: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7596: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7597: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7598: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7599: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7600: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7601: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7602: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7603: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7604: $6647884nding$8%p$@$s5\5=B
  7605: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7606: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7607: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7608: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7609: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7610: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7611: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7612: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7613: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7614: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7615: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7616: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7617: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7618: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7619: ($20%._AM$0$P14u$6E7)
- 7620: ($20%._BM$0$P14u$6E7)
- 7621: ($20%._CM$0$P14u$6E7)
- 7622: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7623: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7624: i$20%._A$P13|$:I$3g$3$3C5\7
- 7625: i$20%._B$P13|$:I$3g$3$3C5\7
- 7626: i$20%._C$P13|$:I$3g$3$3C5\7
- 7627: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7628: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7629: (AIMID* h\9qE5=)
- 7630: (BIMID* h\9qE5=)
- 7631: (CIMID* h\9qE5=)
- 7632: (AIID* h\5=)
- 7633: (BIID* h\5=)
- 7634: (CIID* h\5=)
- 7635: (AM7EI$P10f$P16q* h\5=)
- 7636: (BM7EI$P10f$P16q* h\5=)
- 7637: (CM7EI$P10f$P16q* h\5=)
- 7638: $2097706ADH"=_$P13|$:E+\9q
- 7639: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
- 7640: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
- 7641: Only <Player> can enter the battlefield.
- 7642: The time limit for this battle is $3 minutes.
- 7643: There is a crack in the $3. It no longer contains a monster.
- 7644: A crack has formed on the $3, and the beast inside has been unleashed!
- 7645: Boss mode : $6!!
- 7646: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
- 7647: $7
- 7648: DEBUG1
- 7649: $T&$:I$P16_i)$4719207" $P16_i
- 7650: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
- 7651: iDEBUG$3998261$3{$3X$3|$3b$3vB
- 7652: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
- 7653: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
- 7654: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
- 7655: PARTY0F$1 PARTY1$5259265ARTY2F$3
- 7656: PARTY3F$1 PARTY4$5259265ARTY5F$3
- 7657: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
- 7658: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
- 7659: CLI_NUM0 = $0
- 7660: CLI_NUM1 = $1
- 7661: CLI_NUM2 = $2
- 7662: CLI_NUM3 = $3
- 7663: CLI_NUM4 = $4
- 7664: CLI_NUM5 = $5
- 7665: CLI_NUM6 = $6
- 7666: CLI_NUM7 = $6
- 7667: Skip the event? [Yes./No.]
- 7668: Battlefield clear time: $3 second[/s]!
- 7669: Battlefield clear time: $3 minute[/s], $2 second[/s]!
- 7670: The current battlefield clear time record is $3 second[/s].
- 7671: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
- 7672: Called the NPC! PC ID = $0! RESULT = $1!
- 7673: Got rid of the NPC! PC ID = $0!
- 7674: The NPC has fallen, and he can't get up! Leaving room A!
- 7675: The NPC has fallen, and he can't get up! Leaving room B!
- 7676: The NPC has fallen, and he can't get up! Leaving room C!
- 7677: The NPC has fallen, and he can't get up! Leaving room D!
- 7678: All party members have fallen in battle. Now leaving the battlefield.
- 7679: Everybody's fallen in room A, and they can't get up! Leaving room A!
- 7680: Everybody's fallen in room B, and they can't get up! Leaving room B!
- 7681: Everybody's fallen in room C, and they can't get up! Leaving room C!
- 7682: Everybody's fallen in room D, and they can't get up! Leaving room D!
- 7683: Everybody's fallen in room E, and they can't get up! Leaving room E!
- 7684: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
- 7685: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
- 7686: What the hell is that number!? It's not possible!!!
- 7687: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
- 7688: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
- 7689: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
- 7690: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
- 7691: That record is held by $5 adventurers, including %0!
- 7692: That record is held by %0!
- 7693: The $3 breaks!
- 7694: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
- 7695: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
- 7696: A malignant force escapes from your $3.
- 7697: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
- 7698: Your $3 is calling out to something...
- 7699: The $0 has a large crack running straight down the side.
- 7700: Something awakens owing to the presence of the $3...
- 7701: The oath has been fulfilled owing to the power of your $3.
- 7702: There is no response. You cannot escape!
- 7703: You have broken the clear time record for "[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/$26Puppet in Peril/Tateeya's Worries/An Imperial Heist]"!
- 7704: The current battlefield clear time record for "[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/$26Puppet in Peril/Tateeya's Worries/An Imperial Heist]" is $3 second[/s].
- 7705: The current battlefield clear time record for "[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/$26Puppet in Peril/Tateeya's Worries/An Imperial Heist]" is $3 minute[/s] $2 second[/s].
- 7706: Entering the battlefield for "[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/$26Puppet in Peril/Tateeya's Worries/An Imperial Heist]"!
- 7707: Which battlefield will you enter? [None./Making a Mockery./Shadows of the Mind./The Beast Within./Moment of Truth./Puppet in Peril./$26Puppet in Peril./Tateeya's Worries./An Imperial Heist./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
- 7708: I will enter first. Use the $0 and follow when you are ready.
- 7709: <Player>. You have done well to come this far.
- 7710: There are few who can maintain their sanity and resist the erosion of the soul as you have.
- 7711: Even I manifest some...aberrations.
- 7712: But I do not despair.
- 7713: Our strength lies in our savage magic. When a powerful beast is born, we grow stronger in response. There is no limit to the strength we can acquire.
- 7714: As long as our desire for power remains pure, we can continue down the path we have chosen.
- 7715: <Player>. You and I are beasts of the same nature...
- 7716: ...
- 7717: Hahaha... Fate is full of unusual twists.
- 7718: You have been accepted as our colleague, but now I must destroy you.
- 7719: As you may have noticed, the objective for this operation does not concern the Mamool Ja.
- 7720: You have grown too powerful, too quickly, and pose a threat to the security of the Empress. You shall die a glorious death during your mission into enemy territory.
- 7721: The Empire must be protected.
- 7722: Come, surrender your strength to me and serve the Empire in death!
- 7723: Hahaha...
- 7724: ...Most impressive. It is rare that I find myself so hard-pressed. The power you wield is formidable.
- 7725: It seems that you have the will required to control the raging energy within you.
- 7726: <Player>. With the power you have gained, you may soon find yourself in a position to glimpse the true purpose of the Empire.
- 7727: Once again you approach a fork in the road. The direction you take will decide your fate...
- 7728: Ahahaha. No, I was wrong. There was never a need for you to make a choice in the first place.
- 7729: You are an adventurer.
- 7730: Your sense of freedom may have helped forge the will to decide your own destiny and control the beast within.
- 7731: I can no longer see what lies ahead for you...
- 7732: While you may never be mortal again, I pray that you do not lose your true form during the journey.
- 7733: There is nothing out of the ordinary here.
- 7734: You can hear a strange voice... "Items, items, la la la la la`t"
- 7735: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7736: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7737: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7738: Now, listen close...
- 7739: Oh... Well, if that's the case, I'm outta here.
- 7740: The Goblin slipped away when you were not looking...
- 7741: You can hear a strange, raspy voice...
- 7742: I travel......hear lots... Hear...stories... Can tell...if...
- 7743: .........listen......
- 7744: Oh...... ...outta here.........
- 7745: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7746: What story would you like to be told? [On second thought, maybe later./The Beast Within(pt.1)./The Beast Within(pt.2)./The Beast Within(pt.3)./Moment of Truth(pt.1)./Moment of Truth(pt.2)./Moment of Truth(pt.3)./Moment of Truth(pt.4)./Moment of Truth(pt.5)./Puppet in Peril(pt.1)./Puppet in Peril(pt.2)./Prevalence of Pirates./Tateeya's Worries(pt.1)./Tateeya's Worries(pt.2).]
- 7747: 
+ 7607: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7608: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7609: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7610: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7611: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7612: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7613: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7614: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7615: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7616: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7617: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7618: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7619: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7620: ($20%._AM$0$P14u$6E7)
+ 7621: ($20%._BM$0$P14u$6E7)
+ 7622: ($20%._CM$0$P14u$6E7)
+ 7623: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7624: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7625: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7626: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7627: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7628: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7629: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7630: (AIMID* h\9qE5=)
+ 7631: (BIMID* h\9qE5=)
+ 7632: (CIMID* h\9qE5=)
+ 7633: (AIID* h\5=)
+ 7634: (BIID* h\5=)
+ 7635: (CIID* h\5=)
+ 7636: (AM7EI$P10f$P16q* h\5=)
+ 7637: (BM7EI$P10f$P16q* h\5=)
+ 7638: (CM7EI$P10f$P16q* h\5=)
+ 7639: $2097706ADH"=_$P13|$:E+\9q
+ 7640: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
+ 7641: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
+ 7642: Only <Player> can enter the battlefield.
+ 7643: The time limit for this battle is $3 minutes.
+ 7644: There is a crack in the $3. It no longer contains a monster.
+ 7645: A crack has formed on the $3, and the beast inside has been unleashed!
+ 7646: Boss mode : $6!!
+ 7647: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7648: $7
+ 7649: DEBUG1
+ 7650: $T&$:I$P16_i)$4719207" $P16_i
+ 7651: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
+ 7652: iDEBUG$3998261$3{$3X$3|$3b$3vB
+ 7653: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
+ 7654: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
+ 7655: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
+ 7656: PARTY0F$1 PARTY1$5259265ARTY2F$3
+ 7657: PARTY3F$1 PARTY4$5259265ARTY5F$3
+ 7658: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
+ 7659: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
+ 7660: CLI_NUM0 = $0
+ 7661: CLI_NUM1 = $1
+ 7662: CLI_NUM2 = $2
+ 7663: CLI_NUM3 = $3
+ 7664: CLI_NUM4 = $4
+ 7665: CLI_NUM5 = $5
+ 7666: CLI_NUM6 = $6
+ 7667: CLI_NUM7 = $6
+ 7668: Skip the event? [Yes./No.]
+ 7669: Battlefield clear time: $3 second[/s]!
+ 7670: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+ 7671: The current battlefield clear time record is $3 second[/s].
+ 7672: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+ 7673: Called the NPC! PC ID = $0! RESULT = $1!
+ 7674: Got rid of the NPC! PC ID = $0!
+ 7675: The NPC has fallen, and he can't get up! Leaving room A!
+ 7676: The NPC has fallen, and he can't get up! Leaving room B!
+ 7677: The NPC has fallen, and he can't get up! Leaving room C!
+ 7678: The NPC has fallen, and he can't get up! Leaving room D!
+ 7679: All party members have fallen in battle. Now leaving the battlefield.
+ 7680: Everybody's fallen in room A, and they can't get up! Leaving room A!
+ 7681: Everybody's fallen in room B, and they can't get up! Leaving room B!
+ 7682: Everybody's fallen in room C, and they can't get up! Leaving room C!
+ 7683: Everybody's fallen in room D, and they can't get up! Leaving room D!
+ 7684: Everybody's fallen in room E, and they can't get up! Leaving room E!
+ 7685: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
+ 7686: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
+ 7687: What the hell is that number!? It's not possible!!!
+ 7688: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+ 7689: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+ 7690: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+ 7691: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+ 7692: That record is held by $5 adventurers, including %0!
+ 7693: That record is held by %0!
+ 7694: The $3 breaks!
+ 7695: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+ 7696: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7697: A malignant force escapes from your $3.
+ 7698: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+ 7699: Your $3 is calling out to something...
+ 7700: The $0 has a large crack running straight down the side.
+ 7701: Something awakens owing to the presence of the $3...
+ 7702: The oath has been fulfilled owing to the power of your $3.
+ 7703: There is no response. You cannot escape!
+ 7704: You have broken the clear time record for "[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/$26Puppet in Peril/Tateeya's Worries/An Imperial Heist]"!
+ 7705: The current battlefield clear time record for "[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/$26Puppet in Peril/Tateeya's Worries/An Imperial Heist]" is $3 second[/s].
+ 7706: The current battlefield clear time record for "[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/$26Puppet in Peril/Tateeya's Worries/An Imperial Heist]" is $3 minute[/s] $2 second[/s].
+ 7707: Entering the battlefield for "[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/$26Puppet in Peril/Tateeya's Worries/An Imperial Heist]"!
+ 7708: Which battlefield will you enter? [None./Making a Mockery./Shadows of the Mind./The Beast Within./Moment of Truth./Puppet in Peril./$26Puppet in Peril./Tateeya's Worries./An Imperial Heist./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
+ 7709: I will enter first. Use the $0 and follow when you are ready.
+ 7710: <Player>. You have done well to come this far.
+ 7711: There are few who can maintain their sanity and resist the erosion of the soul as you have.
+ 7712: Even I manifest some...aberrations.
+ 7713: But I do not despair.
+ 7714: Our strength lies in our savage magic. When a powerful beast is born, we grow stronger in response. There is no limit to the strength we can acquire.
+ 7715: As long as our desire for power remains pure, we can continue down the path we have chosen.
+ 7716: <Player>. You and I are beasts of the same nature...
+ 7717: ...
+ 7718: Hahaha... Fate is full of unusual twists.
+ 7719: You have been accepted as our colleague, but now I must destroy you.
+ 7720: As you may have noticed, the objective for this operation does not concern the Mamool Ja.
+ 7721: You have grown too powerful, too quickly, and pose a threat to the security of the Empress. You shall die a glorious death during your mission into enemy territory.
+ 7722: The Empire must be protected.
+ 7723: Come, surrender your strength to me and serve the Empire in death!
+ 7724: Hahaha...
+ 7725: ...Most impressive. It is rare that I find myself so hard-pressed. The power you wield is formidable.
+ 7726: It seems that you have the will required to control the raging energy within you.
+ 7727: <Player>. With the power you have gained, you may soon find yourself in a position to glimpse the true purpose of the Empire.
+ 7728: Once again you approach a fork in the road. The direction you take will decide your fate...
+ 7729: Ahahaha. No, I was wrong. There was never a need for you to make a choice in the first place.
+ 7730: You are an adventurer.
+ 7731: Your sense of freedom may have helped forge the will to decide your own destiny and control the beast within.
+ 7732: I can no longer see what lies ahead for you...
+ 7733: While you may never be mortal again, I pray that you do not lose your true form during the journey.
+ 7734: There is nothing out of the ordinary here.
+ 7735: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7736: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7737: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7738: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7739: Now, listen close...
+ 7740: Oh... Well, if that's the case, I'm outta here.
+ 7741: The Goblin slipped away when you were not looking...
+ 7742: You can hear a strange, raspy voice...
+ 7743: I travel......hear lots... Hear...stories... Can tell...if...
+ 7744: .........listen......
+ 7745: Oh...... ...outta here.........
+ 7746: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7747: What story would you like to be told? [On second thought, maybe later./The Beast Within(pt.1)./The Beast Within(pt.2)./The Beast Within(pt.3)./Moment of Truth(pt.1)./Moment of Truth(pt.2)./Moment of Truth(pt.3)./Moment of Truth(pt.4)./Moment of Truth(pt.5)./Puppet in Peril(pt.1)./Puppet in Peril(pt.2)./Prevalence of Pirates./Tateeya's Worries(pt.1)./Tateeya's Worries(pt.2).]
  7748: 
  7749: 
- 7750: Come, surrender your strength to me and serve the Empire in death!
- 7751: Your soul will be devoured by the power you seek... Serve the Empire to the last by joining your strength to mine!
- 7752: The beast of ambition has slain you... Rest now in eternal slumber.
- 7753: My strength has failed me...
- 7754: Blue magic is but one part of our arsenal. A fact you will soon learn...
- 7755: Show me! Show me the power that lurks within you!
- 7756: You will be buried in the shadow of forgotten history!
- 7757: Now you will bear the full torrent of my azure savagery!
- 7758: It is over. You have no strength left to resist me. Surrender to your fate!
- 7759: Hahaha... The greater the power you wield, the greater my strength will be when I devour your essence...!
- 7760: Your level limit is now 75.
- 7761: Captain!
- 7762: Please help us!
- 7763: What is going on here?
- 7764: Defeated, boss is. Betrayed us, you have.
- 7765: What!?
- 7766: Isween...and now you. You mercenaries just love buddying up with the beastmen, don't you?
- 7767: I told you justice would be served, and I'd be the one to serve it, didn't I? I killed him...
- 7768: No... All that work was for nothing.
- 7769: For punishment, prepare yourselves!
- 7770: Finally...defeated him. We should be safe for a while now...
- 7771: I would not bet on it...
- 7772: Boss!
- 7773: Boss not moving...
- 7774: Boss not breathing...
- 7775: Boss has fallen... You, Golaal Ja will not forgive!
- 7776: Wait... I fully understand your anger.
- 7777: Understand, you do not. Feeling of losing boss, you do not know!
- 7778: In that case...
- 7779: I will present you with our boss's life. Please let everyone else go.
- 7780: Boss's life, you would give!?
- 7781: Boss's life, I will take. Other people, they go free. A deal, we have.
- 7782: It is settled, then. You shall have my life as the price for everyone else's freedom.
- 7783: !?
- 7784: C-Captain!
- 7785: The only way we can make amends for their boss's death is to offer my life.
- 7786: Wait... Don't rush into this!
- 7787: Your life, I will take. Die, you will. Other people, they go free. A deal, we have.
- 7788: Captain!!!
- 7789: Thank you...
- 7790: Captain Mishhar! Are you all right?
- 7791: I'm fine...
- 7792: You're late. I thought you'd run off shaking in your boots...
- 7793: Is this how you thank us for our help? The least you could do is show a little courtesy.
- 7794: Show me your wounds...
- 7795: How did you know that I had connections with the beastmen?
- 7796: I used our men...
- 7797: How far have you ventured into Mamook?
- 7798: You've probably barely taken a step past the entrance from Wajaom Woodlands.
- 7799: The entrance? We've been right into the heart of Mamook!
- 7800: Yeah, maybe you made it pretty far in, but I bet you had to wait for a rescue party to carry you out on stretchers!
- 7801: Are you kidding me? We barely took a scratch.
- 7802: I figured out which beastmen were helping you out from looking at the distribution of the enemy forces in Mamook. We both have fools for soldiers, and it cost you...
- 7803: I'll tell it to you bluntly, Mishhar...I don't like the way you do things. But I still gotta tell you, don't take up this foul work alone.
- 7804: I am simply taking the route of least sacrifice...
- 7805: Captain... You did this, why? In front of boss's killer, I will kill them. To me, you will bring him!
- 7806: In way, you are. Destroy you, I will!
- 7807: Is everyone okay?
- 7808: It seems I was just...a bit too late. This person...took care of them all for us.
- 7809: Well done...
- 7810: Help me!!!
- 7811: I never imagined you'd be able to capture me...
- 7812: Come and get it!
- 7813: Eek! Stay away!
- 7814: You dare attack me?
- 7815: Bring it on!
- 7816: Wow! That was great!
- 7817: A fine display of skill!
- 7818: If only I had a weapon, I'd show you how it's really done!
- 7819: Oh...oh no!
- 7820: A tragedy...
- 7821: We'll get 'em back for that!
- 7822: All right!
- 7823: Wow, you're strong!
- 7824: That will make things a bit easier...
- 7825: The battle is almost won...
- 7826: Did you get a load of that?
- 7827: How do you like the taste of my fists, eh!?
- 7828: Hang in there!
- 7829: No matter how fierce the battle is, you must never give up!
- 7830: Stay on your toes!
- 7831: I...I can't go on...
- 7832: So this is...the end...
- 7833: Bloody lizards...
- 7834: The captives have fallen. Leaving the battlefield.
- 7835: DEBUG: Press a button to continue.
- 7836: !
- 7837: Wait... I can hear Mamool Ja talking up ahead...
- 7838: Can you understand what they're saying?
- 7839: I know a little of their language...
- 7840: Translate for us.
- 7841: "Doubt, there is not... For what we have long searched, it must be."
- 7842: Meant to threaten us, is this toy?
- 7843: Hmph... Dangerous, it does not seem...
- 7844: Hsss...hsss...
- 7845: The intention of the Aht Urhgan leaders, that is.
- 7846: The cunning tricks and devious plans they have used against us, forgotten have you?
- 7847: Even so. To fear in this frail contraption, what is there?
- 7848: !!!
- 7849: (Ovjang.)
- 7850: Facts, we have not. Disassemble this gadget, we must.
- 7851: That will not be necessary, Lancelord. Not if its secrets are already known.
- 7852: Know these secrets, do you imply?
- 7853: I believe I do.
- 7854: Hmm...
- 7855: To deceive us, you attempt.
- 7856: Allow this charade, we will not. Stay silent, outsider, you shall.
- 7857: Grrrrrr...
- 7858: !
- 7859: Over, this is not.
- 7860: In the outsider's opinion, we are interested.
- 7861: Autarch...
- 7862: <Snarl>...
- 7863: Bicker for a hundred years, we could. Or instead hear something useful, we may.
- 7864: Yes, Autarch...
- 7865: Kindred to the brethren of the shining scale, what say you?
- 7866: My lord.
- 7867: If I may...
- 7868: This is nothing more than a simple puppet.
- 7869: It is a mechanical creation that belonged to Jalzahn, the former Emperor of Aht Urhgan.
- 7870: Grrrrrr!
- 7871: Jalzahn!
- 7872: Yes, my lord.
- 7873: It was the first "automaton" in existence--a personal project of Jalzahn's.
- 7874: An invention of our old enemy Jalzahn...
- 7875: Ignore this, we cannot.
- 7876: Even if so, this is... Destroy us, how can it?
- 7877: Broken many of these puppets, we have.
- 7878: Allow me to explain...
- 7879: I have learned some very interesting facts from my observations around the palace.
- 7880: Interesting facts?
- 7881: A craftsman known as Ghatsad often passes through the Imperial Whitegate.
- 7882: Ghatsad? Heard that name, have we?
- 7883: Heard that name, we have.
- 7884: I would not be surprised. Especially if he was the craftsman who led the development of automatons...
- 7885: Then this...
- 7886: Yes. This is likely his creation.
- 7887: There is more. This man is also the head alchemist for the Aht Urhgan Archaeological Research Institute.
- 7888: An organization that is currently investigating the Ruins of Alzadaal.
- 7889: This Ghatsad... Both craftsman and alchemist, he is...
- 7890: And historian, as well...
- 7891: So it appears. What is even more intriguing are the Empire's activities of fifty years ago...
- 7892: Even before the invention of automatons, the scholars of the Empire were conducting large-scale investigations of the ruins.
- 7893: Rumors say that ancient Alzadaal technology gleaned from these archaeological sites was used in the construction of the modern mechanical puppets.
- 7894: Created, are these automatons. To search the ruins, why do they continue?
- 7895: !
- 7896: No... Accept this as truth, I cannot!
- 7897: To resurrect the iron colossus of legend, do these Aht Urhgan fools seek?
- 7898: All I have is rumor and hearsay, but the signs...
- 7899: Madness!
- 7900: The iron colossus... Consumed Aradjiah in flames, that machine did.
- 7901: To extinguish our entire race, do they intend?
- 7902: Molaal Ja!
- 7903: Be calm, you must. In front of our guest, you embarrass us.
- 7904: An overlord of the Mamool Ja, are you not?
- 7905: Autarch, we apologize. But a dire situation, this is.
- 7906: The fate of our entire race...hangs in the balance, it does...
- 7907: I understand your fears, Sagelord. But is that not why we have forged an alliance?
- 7908: The Imperial Army does not have the resources to escalate a war it fights on two fronts.
- 7909: On the dawn of our agreement, we will unleash our fury upon the Empire--the Mamool Ja hordes from the west, and my fellow warriors from the east.
- 7910: The research of some ancient war machine will be the last thing on the minds of the Aht Urhgan commanders.
- 7911: And once we have seized control of the Empire, we have only to cripple this iron engine of destruction beyond repair to guarantee our total victory.
- 7912: If an empty promise, this is not...
- 7913: I swear to you by the heavens and the earth, I shall not play you false. And if my nation's oath should be broken...
- 7914: Be broken, should it...?
- 7915: I will present myself before you...and fall upon my sword.
- 7916: Grrrrrr!
- 7917: Upon your sword, you will fall? A Far Eastern tradition, is this?
- 7918: Conviction, you possess!
- 7919: !
- 7920: Autarch? Is something amiss?
- 7921: Grrrrrr... Smell it, I can. The flesh of smoothskins...
- 7922: Out, you come. A place to hide, there is not.
- 7923: <Snarl>... From this sepulcher, there is no escape!
- 7924: !
- 7925: <Player>!? You overheard...?
- 7926: I...I...
- 7927: I am not the Gessho you know!
- 7928: You, lizard-man...
- 7929: Return Ovjang to us immediately.
- 7930: Yes...
- 7931: You tell them, Mnejing.
- 7932: If you damage a single bolt of Ovjang's...!
- 7933: A name, this toy has?
- 7934: O-Ovjang! S-stop that! You stop that at once!
- 7935: Ovjang! Ovjang! You have to wake up!
- 7936: It's no good. Maybe her breaker is broken...?
- 7937: Fine! I'll activate her myself!
- 7938: Yes, her receptor is not receiving...
- 7939: Smoothskins...
- 7940: Before this machine, about your own life, you should worry!
- 7941: Autarch!
- 7942: To the Lancelord, leave these intruders!
- 7943: Grrrrr! Gaheel Ja!
- 7944: !
- 7945: 
- 7946: Offended the Autarch, have we...?
- 7947: Very well.
- 7948: In your lance arm, our trust we place!
- 7949: Yes! Regret this, you will not!
- 7950: Gahahaha! Send more soldiers, in time, I will. Deprive them of all the fun, do not.
- 7951: 
+ 7750: 
+ 7751: Come, surrender your strength to me and serve the Empire in death!
+ 7752: Your soul will be devoured by the power you seek... Serve the Empire to the last by joining your strength to mine!
+ 7753: The beast of ambition has slain you... Rest now in eternal slumber.
+ 7754: My strength has failed me...
+ 7755: Blue magic is but one part of our arsenal. A fact you will soon learn...
+ 7756: Show me! Show me the power that lurks within you!
+ 7757: You will be buried in the shadow of forgotten history!
+ 7758: Now you will bear the full torrent of my azure savagery!
+ 7759: It is over. You have no strength left to resist me. Surrender to your fate!
+ 7760: Hahaha... The greater the power you wield, the greater my strength will be when I devour your essence...!
+ 7761: Your level limit is now 75.
+ 7762: Captain!
+ 7763: Please help us!
+ 7764: What is going on here?
+ 7765: Defeated, boss is. Betrayed us, you have.
+ 7766: What!?
+ 7767: Isween...and now you. You mercenaries just love buddying up with the beastmen, don't you?
+ 7768: I told you justice would be served, and I'd be the one to serve it, didn't I? I killed him...
+ 7769: No... All that work was for nothing.
+ 7770: For punishment, prepare yourselves!
+ 7771: Finally...defeated him. We should be safe for a while now...
+ 7772: I would not bet on it...
+ 7773: Boss!
+ 7774: Boss not moving...
+ 7775: Boss not breathing...
+ 7776: Boss has fallen... You, Golaal Ja will not forgive!
+ 7777: Wait... I fully understand your anger.
+ 7778: Understand, you do not. Feeling of losing boss, you do not know!
+ 7779: In that case...
+ 7780: I will present you with our boss's life. Please let everyone else go.
+ 7781: Boss's life, you would give!?
+ 7782: Boss's life, I will take. Other people, they go free. A deal, we have.
+ 7783: It is settled, then. You shall have my life as the price for everyone else's freedom.
+ 7784: !?
+ 7785: C-Captain!
+ 7786: The only way we can make amends for their boss's death is to offer my life.
+ 7787: Wait... Don't rush into this!
+ 7788: Your life, I will take. Die, you will. Other people, they go free. A deal, we have.
+ 7789: Captain!!!
+ 7790: Thank you...
+ 7791: Captain Mishhar! Are you all right?
+ 7792: I'm fine...
+ 7793: You're late. I thought you'd run off shaking in your boots...
+ 7794: Is this how you thank us for our help? The least you could do is show a little courtesy.
+ 7795: Show me your wounds...
+ 7796: How did you know that I had connections with the beastmen?
+ 7797: I used our men...
+ 7798: How far have you ventured into Mamook?
+ 7799: You've probably barely taken a step past the entrance from Wajaom Woodlands.
+ 7800: The entrance? We've been right into the heart of Mamook!
+ 7801: Yeah, maybe you made it pretty far in, but I bet you had to wait for a rescue party to carry you out on stretchers!
+ 7802: Are you kidding me? We barely took a scratch.
+ 7803: I figured out which beastmen were helping you out from looking at the distribution of the enemy forces in Mamook. We both have fools for soldiers, and it cost you...
+ 7804: I'll tell it to you bluntly, Mishhar...I don't like the way you do things. But I still gotta tell you, don't take up this foul work alone.
+ 7805: I am simply taking the route of least sacrifice...
+ 7806: Captain... You did this, why? In front of boss's killer, I will kill them. To me, you will bring him!
+ 7807: In way, you are. Destroy you, I will!
+ 7808: Is everyone okay?
+ 7809: It seems I was just...a bit too late. This person...took care of them all for us.
+ 7810: Well done...
+ 7811: Help me!!!
+ 7812: I never imagined you'd be able to capture me...
+ 7813: Come and get it!
+ 7814: Eek! Stay away!
+ 7815: You dare attack me?
+ 7816: Bring it on!
+ 7817: Wow! That was great!
+ 7818: A fine display of skill!
+ 7819: If only I had a weapon, I'd show you how it's really done!
+ 7820: Oh...oh no!
+ 7821: A tragedy...
+ 7822: We'll get 'em back for that!
+ 7823: All right!
+ 7824: Wow, you're strong!
+ 7825: That will make things a bit easier...
+ 7826: The battle is almost won...
+ 7827: Did you get a load of that?
+ 7828: How do you like the taste of my fists, eh!?
+ 7829: Hang in there!
+ 7830: No matter how fierce the battle is, you must never give up!
+ 7831: Stay on your toes!
+ 7832: I...I can't go on...
+ 7833: So this is...the end...
+ 7834: Bloody lizards...
+ 7835: The captives have fallen. Leaving the battlefield.
+ 7836: DEBUG: Press a button to continue.
+ 7837: !
+ 7838: Wait... I can hear Mamool Ja talking up ahead...
+ 7839: Can you understand what they're saying?
+ 7840: I know a little of their language...
+ 7841: Translate for us.
+ 7842: "Doubt, there is not... For what we have long searched, it must be."
+ 7843: Meant to threaten us, is this toy?
+ 7844: Hmph... Dangerous, it does not seem...
+ 7845: Hsss...hsss...
+ 7846: The intention of the Aht Urhgan leaders, that is.
+ 7847: The cunning tricks and devious plans they have used against us, forgotten have you?
+ 7848: Even so. To fear in this frail contraption, what is there?
+ 7849: !!!
+ 7850: (Ovjang.)
+ 7851: Facts, we have not. Disassemble this gadget, we must.
+ 7852: That will not be necessary, Lancelord. Not if its secrets are already known.
+ 7853: Know these secrets, do you imply?
+ 7854: I believe I do.
+ 7855: Hmm...
+ 7856: To deceive us, you attempt.
+ 7857: Allow this charade, we will not. Stay silent, outsider, you shall.
+ 7858: Grrrrrr...
+ 7859: !
+ 7860: Over, this is not.
+ 7861: In the outsider's opinion, we are interested.
+ 7862: Autarch...
+ 7863: <Snarl>...
+ 7864: Bicker for a hundred years, we could. Or instead hear something useful, we may.
+ 7865: Yes, Autarch...
+ 7866: Kindred to the brethren of the shining scale, what say you?
+ 7867: My lord.
+ 7868: If I may...
+ 7869: This is nothing more than a simple puppet.
+ 7870: It is a mechanical creation that belonged to Jalzahn, the former Emperor of Aht Urhgan.
+ 7871: Grrrrrr!
+ 7872: Jalzahn!
+ 7873: Yes, my lord.
+ 7874: It was the first "automaton" in existence--a personal project of Jalzahn's.
+ 7875: An invention of our old enemy Jalzahn...
+ 7876: Ignore this, we cannot.
+ 7877: Even if so, this is... Destroy us, how can it?
+ 7878: Broken many of these puppets, we have.
+ 7879: Allow me to explain...
+ 7880: I have learned some very interesting facts from my observations around the palace.
+ 7881: Interesting facts?
+ 7882: A craftsman known as Ghatsad often passes through the Imperial Whitegate.
+ 7883: Ghatsad? Heard that name, have we?
+ 7884: Heard that name, we have.
+ 7885: I would not be surprised. Especially if he was the craftsman who led the development of automatons...
+ 7886: Then this...
+ 7887: Yes. This is likely his creation.
+ 7888: There is more. This man is also the head alchemist for the Aht Urhgan Archaeological Research Institute.
+ 7889: An organization that is currently investigating the Ruins of Alzadaal.
+ 7890: This Ghatsad... Both craftsman and alchemist, he is...
+ 7891: And historian, as well...
+ 7892: So it appears. What is even more intriguing are the Empire's activities of fifty years ago...
+ 7893: Even before the invention of automatons, the scholars of the Empire were conducting large-scale investigations of the ruins.
+ 7894: Rumors say that ancient Alzadaal technology gleaned from these archaeological sites was used in the construction of the modern mechanical puppets.
+ 7895: Created, are these automatons. To search the ruins, why do they continue?
+ 7896: !
+ 7897: No... Accept this as truth, I cannot!
+ 7898: To resurrect the iron colossus of legend, do these Aht Urhgan fools seek?
+ 7899: All I have is rumor and hearsay, but the signs...
+ 7900: Madness!
+ 7901: The iron colossus... Consumed Aradjiah in flames, that machine did.
+ 7902: To extinguish our entire race, do they intend?
+ 7903: Molaal Ja!
+ 7904: Be calm, you must. In front of our guest, you embarrass us.
+ 7905: An overlord of the Mamool Ja, are you not?
+ 7906: Autarch, we apologize. But a dire situation, this is.
+ 7907: The fate of our entire race...hangs in the balance, it does...
+ 7908: I understand your fears, Sagelord. But is that not why we have forged an alliance?
+ 7909: The Imperial Army does not have the resources to escalate a war it fights on two fronts.
+ 7910: On the dawn of our agreement, we will unleash our fury upon the Empire--the Mamool Ja hordes from the west, and my fellow warriors from the east.
+ 7911: The research of some ancient war machine will be the last thing on the minds of the Aht Urhgan commanders.
+ 7912: And once we have seized control of the Empire, we have only to cripple this iron engine of destruction beyond repair to guarantee our total victory.
+ 7913: If an empty promise, this is not...
+ 7914: I swear to you by the heavens and the earth, I shall not play you false. And if my nation's oath should be broken...
+ 7915: Be broken, should it...?
+ 7916: I will present myself before you...and fall upon my sword.
+ 7917: Grrrrrr!
+ 7918: Upon your sword, you will fall? A Far Eastern tradition, is this?
+ 7919: Conviction, you possess!
+ 7920: !
+ 7921: Autarch? Is something amiss?
+ 7922: Grrrrrr... Smell it, I can. The flesh of smoothskins...
+ 7923: Out, you come. A place to hide, there is not.
+ 7924: <Snarl>... From this sepulcher, there is no escape!
+ 7925: !
+ 7926: <Player>!? You overheard...?
+ 7927: I...I...
+ 7928: I am not the Gessho you know!
+ 7929: You, lizard-man...
+ 7930: Return Ovjang to us immediately.
+ 7931: Yes...
+ 7932: You tell them, Mnejing.
+ 7933: If you damage a single bolt of Ovjang's...!
+ 7934: A name, this toy has?
+ 7935: O-Ovjang! S-stop that! You stop that at once!
+ 7936: Ovjang! Ovjang! You have to wake up!
+ 7937: It's no good. Maybe her breaker is broken...?
+ 7938: Fine! I'll activate her myself!
+ 7939: Yes, her receptor is not receiving...
+ 7940: Smoothskins...
+ 7941: Before this machine, about your own life, you should worry!
+ 7942: Autarch!
+ 7943: To the Lancelord, leave these intruders!
+ 7944: Grrrrr! Gaheel Ja!
+ 7945: !
+ 7946: 
+ 7947: Offended the Autarch, have we...?
+ 7948: Very well.
+ 7949: In your lance arm, our trust we place!
+ 7950: Yes! Regret this, you will not!
+ 7951: Gahahaha! Send more soldiers, in time, I will. Deprive them of all the fun, do not.
  7952: 
- 7953: !?
- 7954: Ovjang!
- 7955: Look out!
- 7956: Rishfee!
- 7957: Oho. The order of my kills, you have ruined.
- 7958: I...I'm fine...
- 7959: B-but...your wound!
- 7960: You forget, I am an Immortal! Now get out of here! Ovjang is more important...
- 7961: 
- 7962: We will return for you.
- 7963: Gwahahahaha! Die! Die, smoothskin slug!
- 7964: What!? Be stomped as well, do you wish!?
- 7965: Ugh... <Gasp...wheeze>...
- 7966: Lady Aphmau...?
- 7967: !?
- 7968: <Puff...gasp>...
- 7969: Just a little further, Aphmau.
- 7970: Okay...
- 7971: Al...most...there... A little...farther...
- 7972: Mnejing...come a little closer... Give me your hand...
- 7973: Mnejing?
- 7974: Hee hee!
- 7975: I'll be takin' this little tin-man, thanks very much.
- 7976: Mnejing!
- 7977: Uncouth imp! Unhand me! Unhand me, I say!
- 7978: Whoa-ho. They wound you a little tight, didn't they, tin-man?
- 7979: Do you really wanna be squirming around like that? It's a long way down...
- 7980: We'd have to change your name to scrap metal-man.
- 7981: Please! Don't hurt him!
- 7982: Hee hee, hee hee. That's more like it.
- 7983: You wouldn't wanna end up like your tin-lady here now, would you?
- 7984: 
- 7985: !?
- 7986: This is the automaton couple of calamity?
- 7987: I'm pretty sure, Boss.
- 7988: 
- 7989: Return her at once!
- 7990: She's...she's my Ovjang!
- 7991: What did you just say?
- 7992: Give me back my Ovjang! Are you hard of hearing!?
- 7993: Heh... Ahahahahaha...
- 7994: What are you laughing at...?
- 7995: Flit. I do believe Ovjang and Mnejing are the puppets we were looking for.
- 7996: And here I thought arriving late to the strategy meeting would have resulted in some unpleasantness with my Mamool Ja hosts.
- 7997: Instead, these gifts simply fall into my hands.
- 7998: 
- 7999: Aye aye, Cap'n!
- 8000: 
+ 7953: 
+ 7954: !?
+ 7955: Ovjang!
+ 7956: Look out!
+ 7957: Rishfee!
+ 7958: Oho. The order of my kills, you have ruined.
+ 7959: I...I'm fine...
+ 7960: B-but...your wound!
+ 7961: You forget, I am an Immortal! Now get out of here! Ovjang is more important...
+ 7962: 
+ 7963: We will return for you.
+ 7964: Gwahahahaha! Die! Die, smoothskin slug!
+ 7965: What!? Be stomped as well, do you wish!?
+ 7966: Ugh... <Gasp...wheeze>...
+ 7967: Lady Aphmau...?
+ 7968: !?
+ 7969: <Puff...gasp>...
+ 7970: Just a little further, Aphmau.
+ 7971: Okay...
+ 7972: Al...most...there... A little...farther...
+ 7973: Mnejing...come a little closer... Give me your hand...
+ 7974: Mnejing?
+ 7975: Hee hee!
+ 7976: I'll be takin' this little tin-man, thanks very much.
+ 7977: Mnejing!
+ 7978: Uncouth imp! Unhand me! Unhand me, I say!
+ 7979: Whoa-ho. They wound you a little tight, didn't they, tin-man?
+ 7980: Do you really wanna be squirming around like that? It's a long way down...
+ 7981: We'd have to change your name to scrap metal-man.
+ 7982: Please! Don't hurt him!
+ 7983: Hee hee, hee hee. That's more like it.
+ 7984: You wouldn't wanna end up like your tin-lady here now, would you?
+ 7985: 
+ 7986: !?
+ 7987: This is the automaton couple of calamity?
+ 7988: I'm pretty sure, Boss.
+ 7989: 
+ 7990: Return her at once!
+ 7991: She's...she's my Ovjang!
+ 7992: What did you just say?
+ 7993: Give me back my Ovjang! Are you hard of hearing!?
+ 7994: Heh... Ahahahahaha...
+ 7995: What are you laughing at...?
+ 7996: Flit. I do believe Ovjang and Mnejing are the puppets we were looking for.
+ 7997: And here I thought arriving late to the strategy meeting would have resulted in some unpleasantness with my Mamool Ja hosts.
+ 7998: Instead, these gifts simply fall into my hands.
+ 7999: 
+ 8000: Aye aye, Cap'n!
  8001: 
- 8002: Wait!
- 8003: Lady Aphmau, no!
- 8004: Aphmau...
- 8005: I've failed... Failed...
- 8006: ...
- 8007: Can you hear that rumbling?
- 8008: A large force of Mamool Ja is headed this way.
- 8009: Seventy...a hundred...no, more like two hundred!
- 8010: These must be the soldiers that the Autarch spoke of sending. He's leaving nothing to chance.
- 8011: Listen to me, <Player>.
- 8012: That way appears to be relatively clear for the moment. You must try to escape from here.
- 8013: Once you're out, you have to go after Lady Aphmau.
- 8014: I'll hold the lizardmen as long as I can!
- 8015: This is my duty as an Immortal.
- 8016: I have pledged my life to the Empress. Save your pity...
- 8017: Now, go!
- 8018: Wolf Four to the Lion... Wolf Four to the Lion...
- 8019: The Gold has been taken...
- 8020: I repeat, the Gold has been taken.
- 8021: The mission is in the hands of the Wildcat.
- 8022: I repeat... The mission...
- 8023: Scaleless slugs, weak are you!
- 8024: Bleed! Bleed! Bleeeeeed!
- 8025: Die! Die! Diiieee!
- 8026: Grawr!
- 8027: Smoothskin slugs!
- 8028: Warmbloods!
- 8029: Gwahahahahaha! Buuurn!
- 8030: Your attacks, hurt they do not, itch they do not!
- 8031: The wivre's Granite Skin is broken!
- 8032: Over, this is not!
- 8033: To bleed, it is time!
- 8034: To die, it is time!
- 8035: To burn, it is time!
- 8036: %0! Next to feel pain, are you!
- 8037: %0! Escape for you, there is none!
- 8038: %0! Your fancy tricks, save you they will not!
- 8039: Gwahahaha! Entertain me, you have!
- 8040: Smoothskins! Scaleless slugs!
- 8041: Graaawr! Defeated the mighty Gaheel Ja, you have not!
- 8042: The will to fight, have you lost!?
- 8043: Smoothskin slugs, bow to the Mamool Ja, you shall!
- 8044: The pain... The pain... So painful, this boredom is!
- 8045: Gwahahahaha! Come. With the Lancelord, you play!
- 8046: Graaawr! Pay for these wounds, you shall!
- 8047: Raaargh! Slaves of the Empire, are you!
- 8048: Learn the might of my steed, you shall!
- 8049: Mraaawr! The best you can do, is this!?
- 8050: Gwahahahahaha! Trampled under foot, you were!
- 8051: Oho. One of my toys, I have lost!
- 8052: Hrmm!? Like spineless slugs, you die!
- 8053: Gwahahahahaha! The joy! The blood! The flames!
- 8054: Gwahahahahaha! Run from the sepulcher, should you, escape from the Mamool Ja, you will not!
- 8055: Run fast for spineless slugs, do you!
- 8056: Hrmm? Away from me, run my toys!
- 8057: Leave your brothers and sisters to die in the mud, do you?
- 8058: Gwahaha...huuurh...!!!
- 8059: @@
- 8060: Have you been waiting long, <Player>?
- 8061: Tateeya and Abda-Lurabda were making quite the fuss as I was trying to leave.
- 8062: If they complete the important mission I assigned them, we'll be meeting up with them later.
- 8063: At any rate, we have no idea what lies ahead. We'll be walking right into the Mamool Ja's clutches.
- 8064: I'm counting on you to watch my back. We must keep our guard up at all times.
- 8065: <Sigh> They just won't go down... Could it be the power of the staff?
- 8066: Grrr... Such mysterious arts, you wield.
- 8067: From the Middle Lands, you come... Seek the staff, what reason do you?
- 8068: Hmph. I need it if I am to resurrect my m-m-master.
- 8069: Used wrongly, destroy the Empire along with this entire region, it can.
- 8070: Tried to resurrect Falak, the Immortals did. Inviting chaos upon the land, they tried.
- 8071: I don't know anything about that. Besides, this land has faced imminent destruction m-m-multiple times in the past.
- 8072: I remember you... I wasn't expecting to m-m-meet you here, of all people.
- 8073: We meet at last. I am Ghatsad from the Automaton Workshop.
- 8074: I'm honored that the head of the A.A.R.I. came all this way to greet m-m-me personally.
- 8075: You see that M-M-Mamool Ja over there? That is the Olduum staff in its hands.
- 8076: So that's the staff... Yes, I can see the lightning coursing through it.
- 8077: It will be ours before too long.
- 8078: So, do we have an agreement regarding the proposal I m-m-made earlier?
- 8079: Over here!
- 8080: We did just as you asked, boss!
- 8081: Are you sure about this?
- 8082: Master Rishfee here didn't even try to escape.
- 8083: That's because he wishes to obtain the Olduum staff for himself.
- 8084: Hraaaaaah!
- 8085: Grrr! Impossible! An Immortal, is that man!?
- 8086: Huh!?
- 8087: Yikes!
- 8088: What are you doing!?
- 8089: What was that just now...
- 8090: He has grown weak... This isn't good; I sense his soul is fading.
- 8091: If he dies, then our little agreem-m-ment is off.
- 8092: I m-m-must do what I can to keep him alive.
- 8093: In the m-m-meantime, I need you to take care of the Mamool Ja!
- 8094: You should be pleased. I plan on separating his soul from the m-m-monster within, just like you desired.
- 8095: <Player>, we need you to take out the Mamool Ja!
- 8096: Detest you humans, we do! Always interfere with our plans, must you!?
- 8097: Entrusted to the one who can open the door, the Olduum staff is.
- 8098: Therefore... Let you have it, we cannot!
- 8099: Living and dead alike, we kill you all!
- 8100: So this is the Olduum staff...
- 8101: Amazing! You've finally managed to get it!
- 8102: By using an automaton, we can prevent a human from touching it and causing it to break down!
- 8103: <Cough> I...
- 8104: That staff! Hurry, you must take it and get out of here at once!
- 8105: Rishfee! You're alright!
- 8106: Yes, I appear to be back to my usual self. However...
- 8107: Before I fell, I summoned my fellow Immortals!
- 8108: You what!?
- 8109: They will be here any moment now. That is why you must flee.
- 8110: Ahhh!
- 8111: Tateeya's in trouble!
- 8112: If you value this one's blood...her very life force...
- 8113: You will hand the Olduum staff over to me.
- 8114: M-Mister Ghatsad! Hurry up and give him the staff!
- 8115: N-no, you mustn't!
- 8116: Yeah... Wait, what!?
- 8117: It's okay. You must let me die!
- 8118: Tateeya? What are you saying?
- 8119: With that staff, our boss can conduct all kinds of wonderful research.
- 8120: I truly believe that research can bring peace to the Aht Urhgan Empire...no, the entire Aradjiah continent.
- 8121: You have an impressive disciple. True disciples should be willing to sacrifice themselves for their master.
- 8122: N-no, I won't allow it. Tateeya's life is too important and can't be replaced...
- 8123: But, the Olduum staff can't be replaced either...
- 8124: Would you prefer we take the Tarutaru instead?
- 8125: Hey, hurry up and get this over with!
- 8126: Huh!?
- 8127: Such powerful magic... Wait, it appears to be fading!?
- 8128: Wh-what have you done?
- 8129: Boss!
- 8130: The staff! Without it, our mission is ruined!
- 8131: Why would you do such a thing...
- 8132: You'll pay for this with your lives!
- 8133: Master Rishfee!
- 8134: It's over now. There's no need to throw your life away.
- 8135: Master Rishfee...
- 8136: You made a wise decision, Master Ghatsad.
- 8137: W-wise decision!? He just destroyed thousands of years worth of knowledge!
- 8138: Huh!?
- 8139: Look out!
- 8140: Rishfee, what have you done...
- 8141: Am...naf...
- 8142: This is quite a m-m-mess... I can't believe you did that!
- 8143: Your disciple was happy to sacrifice herself for you! Why couldn't you just accept her kindness!?
- 8144: Uran-Mafran, would your master be happy with such an act?
- 8145: Of course he would! He would if it m-m-meant my death led to new discoveries!
- 8146: New discoveries... I wonder if that is true.
- 8147: The Olduum civilization is a relic of the past--little is truly known about it.
- 8148: Nobody has ever laid eyes on it, so I question the actual value of such discoveries!
- 8149: You would argue such trivial details with m-m-me?
- 8150: Capture him! Do not let Uran-Mafran escape!
- 8151: Huh!?
- 8152: It appears we're too late...
- 8153: Yes, although Rishfee finally seems to have found peace.
- 8154: Wow! That was absolutely terrifying!
- 8155: Indeed. I'm still shaking...
- 8156: It's unfortunate about Rishfee, but I'm happy to see you're okay, <Player>.
- 8157: We will require a detailed report of what transpired here, but that can wait for now. I imagine you need some time to recover.
- 8158: It isn't safe here. We should hurry back to Aht Urhgan Whitegate.
- 8159: Indeed. Ghatsad, <Player>... Return to the palace when you are ready.
- 8160: There is some news we wish to share with you as well.
+ 8002: 
+ 8003: Wait!
+ 8004: Lady Aphmau, no!
+ 8005: Aphmau...
+ 8006: I've failed... Failed...
+ 8007: ...
+ 8008: Can you hear that rumbling?
+ 8009: A large force of Mamool Ja is headed this way.
+ 8010: Seventy...a hundred...no, more like two hundred!
+ 8011: These must be the soldiers that the Autarch spoke of sending. He's leaving nothing to chance.
+ 8012: Listen to me, <Player>.
+ 8013: That way appears to be relatively clear for the moment. You must try to escape from here.
+ 8014: Once you're out, you have to go after Lady Aphmau.
+ 8015: I'll hold the lizardmen as long as I can!
+ 8016: This is my duty as an Immortal.
+ 8017: I have pledged my life to the Empress. Save your pity...
+ 8018: Now, go!
+ 8019: Wolf Four to the Lion... Wolf Four to the Lion...
+ 8020: The Gold has been taken...
+ 8021: I repeat, the Gold has been taken.
+ 8022: The mission is in the hands of the Wildcat.
+ 8023: I repeat... The mission...
+ 8024: Scaleless slugs, weak are you!
+ 8025: Bleed! Bleed! Bleeeeeed!
+ 8026: Die! Die! Diiieee!
+ 8027: Grawr!
+ 8028: Smoothskin slugs!
+ 8029: Warmbloods!
+ 8030: Gwahahahahaha! Buuurn!
+ 8031: Your attacks, hurt they do not, itch they do not!
+ 8032: The wivre's Granite Skin is broken!
+ 8033: Over, this is not!
+ 8034: To bleed, it is time!
+ 8035: To die, it is time!
+ 8036: To burn, it is time!
+ 8037: %0! Next to feel pain, are you!
+ 8038: %0! Escape for you, there is none!
+ 8039: %0! Your fancy tricks, save you they will not!
+ 8040: Gwahahaha! Entertain me, you have!
+ 8041: Smoothskins! Scaleless slugs!
+ 8042: Graaawr! Defeated the mighty Gaheel Ja, you have not!
+ 8043: The will to fight, have you lost!?
+ 8044: Smoothskin slugs, bow to the Mamool Ja, you shall!
+ 8045: The pain... The pain... So painful, this boredom is!
+ 8046: Gwahahahaha! Come. With the Lancelord, you play!
+ 8047: Graaawr! Pay for these wounds, you shall!
+ 8048: Raaargh! Slaves of the Empire, are you!
+ 8049: Learn the might of my steed, you shall!
+ 8050: Mraaawr! The best you can do, is this!?
+ 8051: Gwahahahahaha! Trampled under foot, you were!
+ 8052: Oho. One of my toys, I have lost!
+ 8053: Hrmm!? Like spineless slugs, you die!
+ 8054: Gwahahahahaha! The joy! The blood! The flames!
+ 8055: Gwahahahahaha! Run from the sepulcher, should you, escape from the Mamool Ja, you will not!
+ 8056: Run fast for spineless slugs, do you!
+ 8057: Hrmm? Away from me, run my toys!
+ 8058: Leave your brothers and sisters to die in the mud, do you?
+ 8059: Gwahaha...huuurh...!!!
+ 8060: @@
+ 8061: Have you been waiting long, <Player>?
+ 8062: Tateeya and Abda-Lurabda were making quite the fuss as I was trying to leave.
+ 8063: If they complete the important mission I assigned them, we'll be meeting up with them later.
+ 8064: At any rate, we have no idea what lies ahead. We'll be walking right into the Mamool Ja's clutches.
+ 8065: I'm counting on you to watch my back. We must keep our guard up at all times.
+ 8066: <Sigh> They just won't go down... Could it be the power of the staff?
+ 8067: Grrr... Such mysterious arts, you wield.
+ 8068: From the Middle Lands, you come... Seek the staff, what reason do you?
+ 8069: Hmph. I need it if I am to resurrect my m-m-master.
+ 8070: Used wrongly, destroy the Empire along with this entire region, it can.
+ 8071: Tried to resurrect Falak, the Immortals did. Inviting chaos upon the land, they tried.
+ 8072: I don't know anything about that. Besides, this land has faced imminent destruction m-m-multiple times in the past.
+ 8073: I remember you... I wasn't expecting to m-m-meet you here, of all people.
+ 8074: We meet at last. I am Ghatsad from the Automaton Workshop.
+ 8075: I'm honored that the head of the A.A.R.I. came all this way to greet m-m-me personally.
+ 8076: You see that M-M-Mamool Ja over there? That is the Olduum staff in its hands.
+ 8077: So that's the staff... Yes, I can see the lightning coursing through it.
+ 8078: It will be ours before too long.
+ 8079: So, do we have an agreement regarding the proposal I m-m-made earlier?
+ 8080: Over here!
+ 8081: We did just as you asked, boss!
+ 8082: Are you sure about this?
+ 8083: Master Rishfee here didn't even try to escape.
+ 8084: That's because he wishes to obtain the Olduum staff for himself.
+ 8085: Hraaaaaah!
+ 8086: Grrr! Impossible! An Immortal, is that man!?
+ 8087: Huh!?
+ 8088: Yikes!
+ 8089: What are you doing!?
+ 8090: What was that just now...
+ 8091: He has grown weak... This isn't good; I sense his soul is fading.
+ 8092: If he dies, then our little agreem-m-ment is off.
+ 8093: I m-m-must do what I can to keep him alive.
+ 8094: In the m-m-meantime, I need you to take care of the Mamool Ja!
+ 8095: You should be pleased. I plan on separating his soul from the m-m-monster within, just like you desired.
+ 8096: <Player>, we need you to take out the Mamool Ja!
+ 8097: Detest you humans, we do! Always interfere with our plans, must you!?
+ 8098: Entrusted to the one who can open the door, the Olduum staff is.
+ 8099: Therefore... Let you have it, we cannot!
+ 8100: Living and dead alike, we kill you all!
+ 8101: So this is the Olduum staff...
+ 8102: Amazing! You've finally managed to get it!
+ 8103: By using an automaton, we can prevent a human from touching it and causing it to break down!
+ 8104: <Cough> I...
+ 8105: That staff! Hurry, you must take it and get out of here at once!
+ 8106: Rishfee! You're alright!
+ 8107: Yes, I appear to be back to my usual self. However...
+ 8108: Before I fell, I summoned my fellow Immortals!
+ 8109: You what!?
+ 8110: They will be here any moment now. That is why you must flee.
+ 8111: Ahhh!
+ 8112: Tateeya's in trouble!
+ 8113: If you value this one's blood...her very life force...
+ 8114: You will hand the Olduum staff over to me.
+ 8115: M-Mister Ghatsad! Hurry up and give him the staff!
+ 8116: N-no, you mustn't!
+ 8117: Yeah... Wait, what!?
+ 8118: It's okay. You must let me die!
+ 8119: Tateeya? What are you saying?
+ 8120: With that staff, our boss can conduct all kinds of wonderful research.
+ 8121: I truly believe that research can bring peace to the Aht Urhgan Empire...no, the entire Aradjiah continent.
+ 8122: You have an impressive disciple. True disciples should be willing to sacrifice themselves for their master.
+ 8123: N-no, I won't allow it. Tateeya's life is too important and can't be replaced...
+ 8124: But, the Olduum staff can't be replaced either...
+ 8125: Would you prefer we take the Tarutaru instead?
+ 8126: Hey, hurry up and get this over with!
+ 8127: Huh!?
+ 8128: Such powerful magic... Wait, it appears to be fading!?
+ 8129: Wh-what have you done?
+ 8130: Boss!
+ 8131: The staff! Without it, our mission is ruined!
+ 8132: Why would you do such a thing...
+ 8133: You'll pay for this with your lives!
+ 8134: Master Rishfee!
+ 8135: It's over now. There's no need to throw your life away.
+ 8136: Master Rishfee...
+ 8137: You made a wise decision, Master Ghatsad.
+ 8138: W-wise decision!? He just destroyed thousands of years worth of knowledge!
+ 8139: Huh!?
+ 8140: Look out!
+ 8141: Rishfee, what have you done...
+ 8142: Am...naf...
+ 8143: This is quite a m-m-mess... I can't believe you did that!
+ 8144: Your disciple was happy to sacrifice herself for you! Why couldn't you just accept her kindness!?
+ 8145: Uran-Mafran, would your master be happy with such an act?
+ 8146: Of course he would! He would if it m-m-meant my death led to new discoveries!
+ 8147: New discoveries... I wonder if that is true.
+ 8148: The Olduum civilization is a relic of the past--little is truly known about it.
+ 8149: Nobody has ever laid eyes on it, so I question the actual value of such discoveries!
+ 8150: You would argue such trivial details with m-m-me?
+ 8151: Capture him! Do not let Uran-Mafran escape!
+ 8152: Huh!?
+ 8153: It appears we're too late...
+ 8154: Yes, although Rishfee finally seems to have found peace.
+ 8155: Wow! That was absolutely terrifying!
+ 8156: Indeed. I'm still shaking...
+ 8157: It's unfortunate about Rishfee, but I'm happy to see you're okay, <Player>.
+ 8158: We will require a detailed report of what transpired here, but that can wait for now. I imagine you need some time to recover.
+ 8159: It isn't safe here. We should hurry back to Aht Urhgan Whitegate.
+ 8160: Indeed. Ghatsad, <Player>... Return to the palace when you are ready.
+ 8161: There is some news we wish to share with you as well.

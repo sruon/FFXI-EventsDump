@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D49      |        7497 |
-|       1 | 0x1D4A      |        7498 |
+|       0 | 0x1D4A      |        7498 |
+|       1 | 0x1D4B      |        7499 |
 
 ## String References
 
-- **7497**: A strange energy rises forth from the magma.
-- **7498**: You write down your findings.
+- **7498**: A strange energy rises forth from the magma.
+- **7499**: You write down your findings.
 
 ## Events
 
@@ -72,10 +72,10 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [7497*]:
+  1: 0x0002 [0x48] [System] [7498*]:
     → "A strange energy rises forth from the magma."
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0006 [0x48] [System] [7498*]:
+  3: 0x0006 [0x48] [System] [7499*]:
     → "You write down your findings."
   4: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000A [0x21] END_EVENT

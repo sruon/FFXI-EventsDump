@@ -39,28 +39,28 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0041      |          65 |
-|       1 | 0x28C7      |       10439 |
-|       2 | 0x1ED1      |        7889 |
-|       3 | 0x1ED2      |        7890 |
-|       4 | 0x1ED3      |        7891 |
-|       5 | 0x1ED4      |        7892 |
-|       6 | 0x1ED5      |        7893 |
-|       7 | 0x1ED6      |        7894 |
-|       8 | 0x1ED7      |        7895 |
-|       9 | 0x1ED8      |        7896 |
+|       1 | 0x28C8      |       10440 |
+|       2 | 0x1ED2      |        7890 |
+|       3 | 0x1ED3      |        7891 |
+|       4 | 0x1ED4      |        7892 |
+|       5 | 0x1ED5      |        7893 |
+|       6 | 0x1ED6      |        7894 |
+|       7 | 0x1ED7      |        7895 |
+|       8 | 0x1ED8      |        7896 |
+|       9 | 0x1ED9      |        7897 |
 |      10 | 0x0000      |           0 |
 
 ## String References
 
-- **7889**: Did something happen? What brings you here?
-- **7890**: Making the rounds? That idiot must've sent you, then.
-- **7891**: As you can see, everything here is the picture of peace itself. When you've got someone as competent as me, there's no way anything could go wrong.
-- **7892**: This is where people in Eastern Adoulin come to relax. If it's not safe here, it's not safe anywhere!
-- **7893**: The citizenry offers prayers to Altana and enjoys cups of tea while gazing over the plaza. It's quite a lovely area.
-- **7894**: On clear mornings, you can see the newborn sun rising over Castle Adoulin.
-- **7895**: Sometimes residents wake up early just to witness the spectacle.
-- **7896**: Forgive my ramblings. You have a mission to complete, don't you?
-- **10439**: We, the Peacekeepers' Coalition, are here to serve and protect the citizens of Adoulin! Outsiders like you wouldn't know the first thing about how to keep Adoulin safe from...well...the outside!
+- **7890**: Did something happen? What brings you here?
+- **7891**: Making the rounds? That idiot must've sent you, then.
+- **7892**: As you can see, everything here is the picture of peace itself. When you've got someone as competent as me, there's no way anything could go wrong.
+- **7893**: This is where people in Eastern Adoulin come to relax. If it's not safe here, it's not safe anywhere!
+- **7894**: The citizenry offers prayers to Altana and enjoys cups of tea while gazing over the plaza. It's quite a lovely area.
+- **7895**: On clear mornings, you can see the newborn sun rising over Castle Adoulin.
+- **7896**: Sometimes residents wake up early just to witness the spectacle.
+- **7897**: Forgive my ramblings. You have a mission to complete, don't you?
+- **10440**: We, the Peacekeepers' Coalition, are here to serve and protect the citizens of Adoulin! Outsiders like you wouldn't know the first thing about how to keep Adoulin safe from...well...the outside!
 
 ## Events
 
@@ -111,7 +111,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10439*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10440*)
     → "We, the Peacekeepers' Coalition, are here to serve and protect the citizens of Adoulin! Outsiders like you wouldn't know the first thing about how to keep Adoulin safe from...well...the outside!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
@@ -148,28 +148,28 @@
   2: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  5: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7889*)
+  5: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
     → "Did something happen? What brings you here?"
   6: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
+  7: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
     → "Making the rounds? That idiot must've sent you, then."
   8: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
+  9: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
     → "As you can see, everything here is the picture of peace itself. When you've got someone as competent as me, there's no way anything could go wrong."
  10: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
+ 11: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
     → "This is where people in Eastern Adoulin come to relax. If it's not safe here, it's not safe anywhere!"
  12: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
+ 13: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
     → "The citizenry offers prayers to Altana and enjoys cups of tea while gazing over the plaza. It's quite a lovely area."
  14: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
+ 15: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
     → "On clear mornings, you can see the newborn sun rising over Castle Adoulin."
  16: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
+ 17: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
     → "Sometimes residents wake up early just to witness the spectacle."
  18: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
+ 19: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
     → "Forgive my ramblings. You have a mission to complete, don't you?"
  20: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0063 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*

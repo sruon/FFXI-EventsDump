@@ -23,33 +23,33 @@
 |---------|-------------|-------------|
 |       0 | 0x00FE      |         254 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x203C      |        8252 |
+|       2 | 0x203D      |        8253 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0007      |           7 |
-|       5 | 0x203D      |        8253 |
+|       5 | 0x203E      |        8254 |
 |       6 | 0x0008      |           8 |
-|       7 | 0x203E      |        8254 |
+|       7 | 0x203F      |        8255 |
 |       8 | 0x0002      |           2 |
 |       9 | 0x0009      |           9 |
-|      10 | 0x203F      |        8255 |
-|      11 | 0x2056      |        8278 |
-|      12 | 0x205A      |        8282 |
-|      13 | 0x2057      |        8279 |
-|      14 | 0x2058      |        8280 |
-|      15 | 0x2059      |        8281 |
+|      10 | 0x2040      |        8256 |
+|      11 | 0x2057      |        8279 |
+|      12 | 0x205B      |        8283 |
+|      13 | 0x2058      |        8280 |
+|      14 | 0x2059      |        8281 |
+|      15 | 0x205A      |        8282 |
 |      16 | 0x00C9      |         201 |
 
 ## String References
 
-- **8252**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
-- **8253**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
-- **8254**: [Requirement/Objective completed]: Obtain all atma found in this area.
-- **8255**: [Requirement/Objective completed]: Complete all quests issued in this area.
-- **8278**: I have taken up the task of putting to parchment the deeds of those who have done battle in these parts. This is what I have recorded under your name.
-- **8279**: It would seem you've accomplished this task.
-- **8280**: Why, I can hardly believe my eyes. You have accomplished anything and everything that could have been expected of you!
-- **8281**: You deserve far more than this humble reward, but I fear it is all I have to give. I pray you are not offended.
-- **8282**: Our battle for survival is never-ending. Pray do not let down your guard.
+- **8253**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
+- **8254**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
+- **8255**: [Requirement/Objective completed]: Obtain all atma found in this area.
+- **8256**: [Requirement/Objective completed]: Complete all quests issued in this area.
+- **8279**: I have taken up the task of putting to parchment the deeds of those who have done battle in these parts. This is what I have recorded under your name.
+- **8280**: It would seem you've accomplished this task.
+- **8281**: Why, I can hardly believe my eyes. You have accomplished anything and everything that could have been expected of you!
+- **8282**: You deserve far more than this humble reward, but I fear it is all I have to give. I pray you are not offended.
+- **8283**: Our battle for survival is never-ending. Pray do not let down your guard.
 
 ## Events
 
@@ -102,7 +102,7 @@
      0x0023 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[7]
      0x0028 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[8]
      0x002D [0x02] IF !(1* == 1*) GOTO 0x00C8
-     0x0035 [0x24] CREATE_DIALOG(message_id=8252*, default_option=0*, option_flags=0*)
+     0x0035 [0x24] CREATE_DIALOG(message_id=8253*, default_option=0*, option_flags=0*)
     → "Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]"
      0x003C [0x25] WAIT_DIALOG_SELECT()
      0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0060
@@ -110,7 +110,7 @@
      0x004C [0x03] Work_Zone[2] = 1*
      0x0051 [0x01] GOTO 0x0059
      0x0054 [0x03] Work_Zone[2] = 0*
-     0x0059 [0x48] [System] [8253*]:
+     0x0059 [0x48] [System] [8254*]:
     → "[Requirement/Objective completed]: Obtain all ancient abyssite found in this area."
      0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x005D [0x01] GOTO 0x00A7
@@ -119,7 +119,7 @@
      0x006F [0x03] Work_Zone[2] = 1*
      0x0074 [0x01] GOTO 0x007C
      0x0077 [0x03] Work_Zone[2] = 0*
-     0x007C [0x48] [System] [8254*]:
+     0x007C [0x48] [System] [8255*]:
     → "[Requirement/Objective completed]: Obtain all atma found in this area."
      0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0080 [0x01] GOTO 0x00A7
@@ -128,7 +128,7 @@
      0x0092 [0x03] Work_Zone[2] = 1*
      0x0097 [0x01] GOTO 0x009F
      0x009A [0x03] Work_Zone[2] = 0*
-     0x009F [0x48] [System] [8255*]:
+     0x009F [0x48] [System] [8256*]:
     → "[Requirement/Objective completed]: Complete all quests issued in this area."
      0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00A3 [0x01] GOTO 0x00A7
@@ -166,11 +166,11 @@
   0: 0x00C9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00CE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00CF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
+  3: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
     → "I have taken up the task of putting to parchment the deeds of those who have done battle in these parts. This is what I have recorded under your name."
   4: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00D4 [0x1A] CALL_SUBROUTINE(address=0x0001)
-  6: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
+  6: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
     → "Our battle for survival is never-ending. Pray do not let down your guard."
   7: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00DB [0x21] END_EVENT
@@ -207,25 +207,25 @@
   3: 0x00E5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x00EA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x00EB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
+  6: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
     → "I have taken up the task of putting to parchment the deeds of those who have done battle in these parts. This is what I have recorded under your name."
   7: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00F0 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x00FF
-  9: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
+  9: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
     → "It would seem you've accomplished this task."
  10: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00FC [0x01] GOTO 0x010E
  12: 0x00FF [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x010E
- 13: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
+ 13: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
     → "Why, I can hardly believe my eyes. You have accomplished anything and everything that could have been expected of you!"
  14: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x010B [0x01] GOTO 0x010E
 
 SUBROUTINE_010E:
- 16: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
+ 16: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
     → "You deserve far more than this humble reward, but I fear it is all I have to give. I pray you are not offended."
  17: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
+ 18: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
     → "Our battle for survival is never-ending. Pray do not let down your guard."
  19: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0116 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

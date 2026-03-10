@@ -25,21 +25,21 @@
 |       1 | 0xFFFFE10F  |  4294959375 |
 |       2 | 0x1068      |        4200 |
 |       3 | 0x00C8      |         200 |
-|       4 | 0x1DB8      |        7608 |
-|       5 | 0x1DB9      |        7609 |
+|       4 | 0x1DB9      |        7609 |
+|       5 | 0x1DBA      |        7610 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x00CA      |         202 |
 |       9 | 0x0064      |         100 |
 |      10 | 0xFFFF1E66  |  4294909542 |
 |      11 | 0x0768      |        1896 |
-|      12 | 0x1DB7      |        7607 |
+|      12 | 0x1DB8      |        7608 |
 |      13 | 0x0008      |           8 |
-|      14 | 0x1DB6      |        7606 |
+|      14 | 0x1DB7      |        7607 |
 
 ## String References
 
-- **7609**: Pay $7 gil? [Yes./No.]
+- **7610**: Pay $7 gil? [Yes./No.]
 
 ## Events
 
@@ -99,10 +99,10 @@
   2: 0x0017 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 4200*) GOTO 0x009C
   3: 0x001F [0x03] Work_Zone[9] = 200*
   4: 0x0024 [0x4A] Rajesh (ID: 17743937/0x010EC041) looks at LocalPlayer
-  5: 0x002D [0x2B] Rajesh (ID: 17743937/0x010EC041) [7608*]:
+  5: 0x002D [0x2B] Rajesh (ID: 17743937/0x010EC041) [7609*]:
     → "Those doors lead to the airship embarkation area. You must pay $7 gil to pass through."
   6: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0035 [0x24] CREATE_DIALOG(message_id=7609*, default_option=1*, option_flags=0*)
+  7: 0x0035 [0x24] CREATE_DIALOG(message_id=7610*, default_option=1*, option_flags=0*)
     → "Pay $7 gil? [Yes./No.]"
   8: 0x003C [0x25] WAIT_DIALOG_SELECT()
   9: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0099
@@ -121,7 +121,7 @@
 SUBROUTINE_0099:
  21: 0x0099 [0x01] GOTO 0x00AD
  22: 0x009C [0x4A] Varden (ID: 17743938/0x010EC042) looks at LocalPlayer
- 23: 0x00A5 [0x2B] Varden (ID: 17743938/0x010EC042) [7607*]:
+ 23: 0x00A5 [0x2B] Varden (ID: 17743938/0x010EC042) [7608*]:
     → "Only departing passengers may pass through these doors. Please go around to the entrance on the south side."
  24: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -160,12 +160,12 @@ SUBROUTINE_00AD:
   3: 0x00CD [0x03] Work_Zone[2] = 200*
   4: 0x00D2 [0x03] Work_Zone[3] = 8*
   5: 0x00D7 [0x4A] Rajesh (ID: 17743937/0x010EC041) looks at LocalPlayer
-  6: 0x00E0 [0x2B] Rajesh (ID: 17743937/0x010EC041) [7606*]:
+  6: 0x00E0 [0x2B] Rajesh (ID: 17743937/0x010EC041) [7607*]:
     → "These doors lead to the airship embarkation area. You need $6 and $0 gil to pass through."
   7: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00E8 [0x01] GOTO 0x00FC
   9: 0x00EB [0x4A] Varden (ID: 17743938/0x010EC042) looks at LocalPlayer
- 10: 0x00F4 [0x2B] Varden (ID: 17743938/0x010EC042) [7607*]:
+ 10: 0x00F4 [0x2B] Varden (ID: 17743938/0x010EC042) [7608*]:
     → "Only departing passengers may pass through these doors. Please go around to the entrance on the south side."
  11: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 

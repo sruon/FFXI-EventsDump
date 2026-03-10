@@ -97,16 +97,16 @@
 |      32 | 0x01F0      |         496 |
 |      33 | 0x005B      |          91 |
 |      34 | 0x005C      |          92 |
-|      35 | 0x1FDC      |        8156 |
-|      36 | 0x1FDD      |        8157 |
-|      37 | 0x2078      |        8312 |
-|      38 | 0x2079      |        8313 |
-|      39 | 0x207F      |        8319 |
-|      40 | 0x2080      |        8320 |
-|      41 | 0x20FE      |        8446 |
-|      42 | 0x20FF      |        8447 |
-|      43 | 0x215A      |        8538 |
-|      44 | 0x215B      |        8539 |
+|      35 | 0x1FDD      |        8157 |
+|      36 | 0x1FDE      |        8158 |
+|      37 | 0x2079      |        8313 |
+|      38 | 0x207A      |        8314 |
+|      39 | 0x2080      |        8320 |
+|      40 | 0x2081      |        8321 |
+|      41 | 0x20FF      |        8447 |
+|      42 | 0x2100      |        8448 |
+|      43 | 0x215B      |        8539 |
+|      44 | 0x215C      |        8540 |
 
 ## String References
 
@@ -124,16 +124,16 @@
 - **445**: Maybe it was really a sign of the situation that looms before us!
 - **495**: Let me thank you for grrranting the wish deep within the hearts of all Mithra.
 - **496**: No longer will innocent children have to be the sacrifice of a meaningless war. Our prayers have been answerrred.
-- **8156**: Do you remember the bearer of darkness that appearrred here?
-- **8157**: Someone came here claiming to have seen it in another country. What on Vana'diel is that thing?
-- **8312**: I rrrecognized the stench that the bearer of darkness exuded...
-- **8313**: It was the smell of the dead... That putrid miasma has no place in this world.
-- **8319**: Rescuing the Star Sibyl will be best accomplished by a small, well-coordinated team.
-- **8320**: The Cardians might decide to use the Star Sibyl as a shield, though. Those puppets probably have no idea of how much a person's life is worth.
-- **8446**: Why do the Yagudo have to stick their beaks in at a time like this!?
-- **8447**: Without the Star Sibyl here, we can't send an apology or even a declaration of war if it comes to that!
-- **8538**: You know how the Yagudo have become so fixated on the magic towerrrs in Sarutabaruta? It must have something to do with the massive destruction wrrrought upon them by the summoning twenty years ago.
-- **8539**: The Yagudo have lived in this region for far longer than the Mithra. They probably have as much knowledge about the towers as the Tarutaru.
+- **8157**: Do you remember the bearer of darkness that appearrred here?
+- **8158**: Someone came here claiming to have seen it in another country. What on Vana'diel is that thing?
+- **8313**: I rrrecognized the stench that the bearer of darkness exuded...
+- **8314**: It was the smell of the dead... That putrid miasma has no place in this world.
+- **8320**: Rescuing the Star Sibyl will be best accomplished by a small, well-coordinated team.
+- **8321**: The Cardians might decide to use the Star Sibyl as a shield, though. Those puppets probably have no idea of how much a person's life is worth.
+- **8447**: Why do the Yagudo have to stick their beaks in at a time like this!?
+- **8448**: Without the Star Sibyl here, we can't send an apology or even a declaration of war if it comes to that!
+- **8539**: You know how the Yagudo have become so fixated on the magic towerrrs in Sarutabaruta? It must have something to do with the massive destruction wrrrought upon them by the summoning twenty years ago.
+- **8540**: The Yagudo have lived in this region for far longer than the Mithra. They probably have as much knowledge about the towers as the Tarutaru.
 
 ## Events
 
@@ -1194,10 +1194,10 @@
   1: 0x02B2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02B3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0B)
-  4: 0x02BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8156*)
+  4: 0x02BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8157*)
     → "Do you remember the bearer of darkness that appearrred here?"
   5: 0x02BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8157*)
+  6: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
     → "Someone came here claiming to have seen it in another country. What on Vana'diel is that thing?"
   7: 0x02C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0D)
@@ -1232,10 +1232,10 @@
   1: 0x02DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0B)
-  4: 0x02E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8312*)
+  4: 0x02E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
     → "I rrrecognized the stench that the bearer of darkness exuded..."
   5: 0x02E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
+  6: 0x02E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
     → "It was the smell of the dead... That putrid miasma has no place in this world."
   7: 0x02EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0D)
@@ -1271,10 +1271,10 @@
   1: 0x0302 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0303 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0304 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0B)
-  4: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=8319*)
+  4: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=8320*)
     → "Rescuing the Star Sibyl will be best accomplished by a small, well-coordinated team."
   5: 0x030E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=8320*)
+  6: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=8321*)
     → "The Cardians might decide to use the Star Sibyl as a shield, though. Those puppets probably have no idea of how much a person's life is worth."
   7: 0x0312 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0313 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0D)
@@ -1309,10 +1309,10 @@
   1: 0x032A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x032B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x032C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0B)
-  4: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=8446*)
+  4: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=8447*)
     → "Why do the Yagudo have to stick their beaks in at a time like this!?"
   5: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0337 [0x1D] PRINT_EVENT_MESSAGE(message_id=8447*)
+  6: 0x0337 [0x1D] PRINT_EVENT_MESSAGE(message_id=8448*)
     → "Without the Star Sibyl here, we can't send an apology or even a declaration of war if it comes to that!"
   7: 0x033A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x033B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0D)
@@ -1348,10 +1348,10 @@
   1: 0x0352 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0353 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0354 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0B)
-  4: 0x035B [0x1D] PRINT_EVENT_MESSAGE(message_id=8538*)
+  4: 0x035B [0x1D] PRINT_EVENT_MESSAGE(message_id=8539*)
     → "You know how the Yagudo have become so fixated on the magic towerrrs in Sarutabaruta? It must have something to do with the massive destruction wrrrought upon them by the summoning twenty years ago."
   5: 0x035E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x035F [0x1D] PRINT_EVENT_MESSAGE(message_id=8539*)
+  6: 0x035F [0x1D] PRINT_EVENT_MESSAGE(message_id=8540*)
     → "The Yagudo have lived in this region for far longer than the Mithra. They probably have as much knowledge about the towers as the Tarutaru."
   7: 0x0362 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0363 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shaz Norem (ID: 17768482/0x010F2022), tag_num=0x0D)

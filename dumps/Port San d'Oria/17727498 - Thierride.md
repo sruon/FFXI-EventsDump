@@ -44,45 +44,45 @@
 |       5 | 0x4C68      |       19560 |
 |       6 | 0xFFFEEA0A  |  4294896138 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x1CFC      |        7420 |
+|       8 | 0x1CFD      |        7421 |
 |       9 | 0x016D      |         365 |
 |      10 | 0x0084      |         132 |
 |      11 | 0x0000      |           0 |
 |      12 | 0x00C8      |         200 |
 |      13 | 0x0003      |           3 |
-|      14 | 0x1CFD      |        7421 |
+|      14 | 0x1CFE      |        7422 |
 |      15 | 0x0014      |          20 |
-|      16 | 0x1CFE      |        7422 |
-|      17 | 0x1CFF      |        7423 |
-|      18 | 0x1D00      |        7424 |
-|      19 | 0x1D01      |        7425 |
+|      16 | 0x1CFF      |        7423 |
+|      17 | 0x1D00      |        7424 |
+|      18 | 0x1D01      |        7425 |
+|      19 | 0x1D02      |        7426 |
 |      20 | 0x1106      |        4358 |
-|      21 | 0x1D12      |        7442 |
+|      21 | 0x1D13      |        7443 |
 |      22 | 0x1113      |        4371 |
-|      23 | 0x1D17      |        7447 |
+|      23 | 0x1D18      |        7448 |
 |      24 | 0x00C9      |         201 |
-|      25 | 0x1D14      |        7444 |
-|      26 | 0x1D1F      |        7455 |
-|      27 | 0x1D8A      |        7562 |
-|      28 | 0x1D8B      |        7563 |
-|      29 | 0x1D8C      |        7564 |
-|      30 | 0x1D8D      |        7565 |
-|      31 | 0x1D8E      |        7566 |
+|      25 | 0x1D15      |        7445 |
+|      26 | 0x1D20      |        7456 |
+|      27 | 0x1D8B      |        7563 |
+|      28 | 0x1D8C      |        7564 |
+|      29 | 0x1D8D      |        7565 |
+|      30 | 0x1D8E      |        7566 |
+|      31 | 0x1D8F      |        7567 |
 |      32 | 0x0001      |           1 |
 |      33 | 0x0080      |         128 |
 
 ## String References
 
-- **7420**: Welcome. What'll it be?
-- **7442**: Hmm... If only I had five $0, I could make something for him.
-- **7444**: What? I didn't ask for this.
-- **7447**: Altana bless you! I can finally make my customers some $0! Give me that meat, then, and I'll make sure you're paid.
-- **7455**: What? Something wrong with my food?
-- **7562**: What's this? A parcel, for me?
-- **7563**: But you're an adventurer, are you not?
-- **7564**: There's got to be plenty of work for your type! Don't waste your time hauling parcels to and fro.
-- **7565**: This kingdom honors those who carry swords, not parcels, in case you hadn't noticed.
-- **7566**: Leave the package delivery to those with nothing better to do!
+- **7421**: Welcome. What'll it be?
+- **7443**: Hmm... If only I had five $0, I could make something for him.
+- **7445**: What? I didn't ask for this.
+- **7448**: Altana bless you! I can finally make my customers some $0! Give me that meat, then, and I'll make sure you're paid.
+- **7456**: What? Something wrong with my food?
+- **7563**: What's this? A parcel, for me?
+- **7564**: But you're an adventurer, are you not?
+- **7565**: There's got to be plenty of work for your type! Don't waste your time hauling parcels to and fro.
+- **7566**: This kingdom honors those who carry swords, not parcels, in case you hadn't noticed.
+- **7567**: Leave the package delivery to those with nothing better to do!
 
 ## Events
 
@@ -204,7 +204,7 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+  4: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "Welcome. What'll it be?"
   5: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0034 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -315,7 +315,7 @@
  10: 0x0085 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x0086 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  12: 0x0087 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Thierride (ID: 17727498/0x010E800A), Thierride (ID: 17727498/0x010E800A)], work=30*
- 13: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+ 13: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "Welcome. What'll it be?"
  14: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x009A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -325,7 +325,7 @@
  19: 0x00BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  20: 0x00BD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Gulemont (ID: 17727499/0x010E800B) Render.Flags0 and Render.Flags3 conditions are met
  21: 0x00C2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gulemont (ID: 17727499/0x010E800B), Gulemont (ID: 17727499/0x010E800B)], work=30*
- 22: 0x00D1 [0x2B] Gulemont (ID: 17727499/0x010E800B) [7421*]:
+ 22: 0x00D1 [0x2B] Gulemont (ID: 17727499/0x010E800B) [7422*]:
     → "I clearly heard that the knights were planning a strike on those Ghelsba Orcs. Whatever came of that?"
  23: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00D9 [0x1C] WAIT(30* ticks)
@@ -338,7 +338,7 @@
  31: 0x010D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  32: 0x010E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ilgusin (ID: 17727500/0x010E800C) Render.Flags0 and Render.Flags3 conditions are met
  33: 0x0113 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ilgusin (ID: 17727500/0x010E800C), Ilgusin (ID: 17727500/0x010E800C)], work=20*
- 34: 0x0122 [0x2B] Ilgusin (ID: 17727500/0x010E800C) [7422*]:
+ 34: 0x0122 [0x2B] Ilgusin (ID: 17727500/0x010E800C) [7423*]:
     → "Well, how could the two princes possibly organize a raid? They can't even agree on the color of the sky!"
  35: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x012A [0x1C] WAIT(30* ticks)
@@ -347,7 +347,7 @@
  39: 0x013A [0x1C] WAIT(30* ticks)
  40: 0x013D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=[132*, 0*]
  41: 0x014E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gulemont (ID: 17727499/0x010E800B), Gulemont (ID: 17727499/0x010E800B)], work=30*
- 42: 0x015D [0x2B] Gulemont (ID: 17727499/0x010E800B) [7423*]:
+ 42: 0x015D [0x2B] Gulemont (ID: 17727499/0x010E800B) [7424*]:
     → "Then, is it true that the first prince to quell the Orcs of Ghelsba will inherit the Kingdom?"
  43: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0165 [0x1C] WAIT(30* ticks)
@@ -356,11 +356,11 @@
  47: 0x0175 [0x1C] WAIT(30* ticks)
  48: 0x0178 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=[132*, 0*]
  49: 0x0189 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ilgusin (ID: 17727500/0x010E800C), Ilgusin (ID: 17727500/0x010E800C)], work=20*
- 50: 0x0198 [0x2B] Ilgusin (ID: 17727500/0x010E800C) [7424*]:
+ 50: 0x0198 [0x2B] Ilgusin (ID: 17727500/0x010E800C) [7425*]:
     → "Bah. Simply taking Ghelsba won't make anybody king."
  51: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x01A0 [0x1C] WAIT(30* ticks)
- 53: 0x01A3 [0x2B] Ilgusin (ID: 17727500/0x010E800C) [7425*]:
+ 53: 0x01A3 [0x2B] Ilgusin (ID: 17727500/0x010E800C) [7426*]:
     → "Aye, but he'd be a step closer to the throne! Still, it must be in their blood to quarrel."
  54: 0x01AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x01AB [0x1C] WAIT(30* ticks)
@@ -395,7 +395,7 @@
 ```
   0: 0x01C2 [0x03] Work_Zone[2] = 4358*
   1: 0x01C7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Thierride (ID: 17727498/0x010E800A), Thierride (ID: 17727498/0x010E800A)], work=30*
-  2: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
+  2: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
     → "Hmm... If only I had five $0, I could make something for him."
   3: 0x01D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01DA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk0" with entities [Thierride (ID: 17727498/0x010E800A), Thierride (ID: 17727498/0x010E800A)]
@@ -434,7 +434,7 @@
   4: 0x01F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x01F6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Thierride (ID: 17727498/0x010E800A), Thierride (ID: 17727498/0x010E800A)], work=30*
   6: 0x0205 [0x03] Work_Zone[2] = 4371*
-  7: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+  7: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "Altana bless you! I can finally make my customers some $0! Give me that meat, then, and I'll make sure you're paid."
   8: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x020E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -470,7 +470,7 @@
   1: 0x0230 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0231 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0232 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Thierride (ID: 17727498/0x010E800A), Thierride (ID: 17727498/0x010E800A)], work=30*
-  4: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
+  4: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
     → "What? I didn't ask for this."
   5: 0x0244 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0245 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -505,7 +505,7 @@
   1: 0x0254 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0255 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0256 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Thierride (ID: 17727498/0x010E800A), Thierride (ID: 17727498/0x010E800A)], work=30*
-  4: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
+  4: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=7456*)
     → "What? Something wrong with my food?"
   5: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0269 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -543,23 +543,23 @@
   3: 0x027B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x027C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x027D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Thierride (ID: 17727498/0x010E800A), Thierride (ID: 17727498/0x010E800A)], work=30*
-  6: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
+  6: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
     → "What's this? A parcel, for me?"
   7: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0290 [0x1C] WAIT(30* ticks)
-  9: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
+  9: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
     → "But you're an adventurer, are you not?"
  10: 0x0296 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0297 [0x1C] WAIT(30* ticks)
- 12: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
+ 12: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
     → "There's got to be plenty of work for your type! Don't waste your time hauling parcels to and fro."
  13: 0x029D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x029E [0x1C] WAIT(30* ticks)
- 15: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
+ 15: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
     → "This kingdom honors those who carry swords, not parcels, in case you hadn't noticed."
  16: 0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x02A5 [0x1C] WAIT(30* ticks)
- 18: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
+ 18: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
     → "Leave the package delivery to those with nothing better to do!"
  19: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x02AC [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

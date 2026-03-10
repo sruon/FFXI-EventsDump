@@ -21,17 +21,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CC2      |        7362 |
+|       0 | 0x1CC3      |        7363 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
-|       4 | 0x1CC3      |        7363 |
+|       4 | 0x1CC4      |        7364 |
 |       5 | 0x0003      |           3 |
 
 ## String References
 
-- **7362**: Move the lever? [Yes./No.]
 - **7363**: Move the lever? [Yes./No.]
+- **7364**: Move the lever? [Yes./No.]
 
 ## Events
 
@@ -78,7 +78,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7362*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7363*, default_option=0*, option_flags=0*)
     → "Move the lever? [Yes./No.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019
@@ -115,7 +115,7 @@ SUBROUTINE_0029:
 #### Opcodes
 
 ```
-  0: 0x002B [0x24] CREATE_DIALOG(message_id=7363*, default_option=0*, option_flags=0*)
+  0: 0x002B [0x24] CREATE_DIALOG(message_id=7364*, default_option=0*, option_flags=0*)
     → "Move the lever? [Yes./No.]"
   1: 0x0032 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0033 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0043

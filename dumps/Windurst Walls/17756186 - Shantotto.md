@@ -271,98 +271,98 @@
 |      14 | 0x1EB4E     |      125774 |
 |      15 | 0xFFFFEAE1  |  4294961889 |
 |      16 | 0x0626      |        1574 |
-|      17 | 0x1D25      |        7461 |
-|      18 | 0x1D27      |        7463 |
-|      19 | 0x1D26      |        7462 |
-|      20 | 0x1D31      |        7473 |
-|      21 | 0x1D32      |        7474 |
-|      22 | 0x1D33      |        7475 |
-|      23 | 0x1D34      |        7476 |
+|      17 | 0x1D26      |        7462 |
+|      18 | 0x1D28      |        7464 |
+|      19 | 0x1D27      |        7463 |
+|      20 | 0x1D32      |        7474 |
+|      21 | 0x1D33      |        7475 |
+|      22 | 0x1D34      |        7476 |
+|      23 | 0x1D35      |        7477 |
 |      24 | 0x0000      |           0 |
 |      25 | 0x0003      |           3 |
-|      26 | 0x1D35      |        7477 |
-|      27 | 0x1D36      |        7478 |
-|      28 | 0x1D37      |        7479 |
-|      29 | 0x1D38      |        7480 |
-|      30 | 0x1D39      |        7481 |
+|      26 | 0x1D36      |        7478 |
+|      27 | 0x1D37      |        7479 |
+|      28 | 0x1D38      |        7480 |
+|      29 | 0x1D39      |        7481 |
+|      30 | 0x1D3A      |        7482 |
 |      31 | 0x00E6      |         230 |
 |      32 | 0x012C      |         300 |
-|      33 | 0x1D3A      |        7482 |
+|      33 | 0x1D3B      |        7483 |
 |      34 | 0x00C9      |         201 |
-|      35 | 0x1D3B      |        7483 |
-|      36 | 0x1D3C      |        7484 |
-|      37 | 0x1D41      |        7489 |
-|      38 | 0x1D42      |        7490 |
-|      39 | 0x1D43      |        7491 |
-|      40 | 0x1D44      |        7492 |
-|      41 | 0x1D45      |        7493 |
-|      42 | 0x1D47      |        7495 |
-|      43 | 0x1D48      |        7496 |
-|      44 | 0x1D49      |        7497 |
-|      45 | 0x1D4A      |        7498 |
-|      46 | 0x1D56      |        7510 |
+|      35 | 0x1D3C      |        7484 |
+|      36 | 0x1D3D      |        7485 |
+|      37 | 0x1D42      |        7490 |
+|      38 | 0x1D43      |        7491 |
+|      39 | 0x1D44      |        7492 |
+|      40 | 0x1D45      |        7493 |
+|      41 | 0x1D46      |        7494 |
+|      42 | 0x1D48      |        7496 |
+|      43 | 0x1D49      |        7497 |
+|      44 | 0x1D4A      |        7498 |
+|      45 | 0x1D4B      |        7499 |
+|      46 | 0x1D57      |        7511 |
 |      47 | 0x0004      |           4 |
-|      48 | 0x1D4B      |        7499 |
-|      49 | 0x1D4C      |        7500 |
-|      50 | 0x1D4D      |        7501 |
-|      51 | 0x1D4E      |        7502 |
-|      52 | 0x1D4F      |        7503 |
-|      53 | 0x1D50      |        7504 |
-|      54 | 0x1D51      |        7505 |
-|      55 | 0x1D52      |        7506 |
-|      56 | 0x1D53      |        7507 |
-|      57 | 0x1D54      |        7508 |
-|      58 | 0x1D57      |        7511 |
-|      59 | 0x1D58      |        7512 |
-|      60 | 0x1D59      |        7513 |
-|      61 | 0x1D5A      |        7514 |
-|      62 | 0x1D5B      |        7515 |
-|      63 | 0x1D5C      |        7516 |
+|      48 | 0x1D4C      |        7500 |
+|      49 | 0x1D4D      |        7501 |
+|      50 | 0x1D4E      |        7502 |
+|      51 | 0x1D4F      |        7503 |
+|      52 | 0x1D50      |        7504 |
+|      53 | 0x1D51      |        7505 |
+|      54 | 0x1D52      |        7506 |
+|      55 | 0x1D53      |        7507 |
+|      56 | 0x1D54      |        7508 |
+|      57 | 0x1D55      |        7509 |
+|      58 | 0x1D58      |        7512 |
+|      59 | 0x1D59      |        7513 |
+|      60 | 0x1D5A      |        7514 |
+|      61 | 0x1D5B      |        7515 |
+|      62 | 0x1D5C      |        7516 |
+|      63 | 0x1D5D      |        7517 |
 |      64 | 0x0014      |          20 |
-|      65 | 0x1D5E      |        7518 |
-|      66 | 0x1D5F      |        7519 |
-|      67 | 0x1D60      |        7520 |
-|      68 | 0x1D61      |        7521 |
-|      69 | 0x1D62      |        7522 |
-|      70 | 0x1D63      |        7523 |
-|      71 | 0x1D64      |        7524 |
-|      72 | 0x1D65      |        7525 |
-|      73 | 0x1D66      |        7526 |
-|      74 | 0x1D67      |        7527 |
-|      75 | 0x1D68      |        7528 |
-|      76 | 0x1FA9      |        8105 |
-|      77 | 0x1FB0      |        8112 |
-|      78 | 0x1FB6      |        8118 |
-|      79 | 0x1FA6      |        8102 |
-|      80 | 0x1FA7      |        8103 |
-|      81 | 0x1FA8      |        8104 |
-|      82 | 0x1FAA      |        8106 |
-|      83 | 0x1FAB      |        8107 |
-|      84 | 0x1FAC      |        8108 |
-|      85 | 0x1FAD      |        8109 |
-|      86 | 0x1FAE      |        8110 |
-|      87 | 0x1FAF      |        8111 |
-|      88 | 0x1FB1      |        8113 |
-|      89 | 0x1FB2      |        8114 |
-|      90 | 0x1FB3      |        8115 |
-|      91 | 0x1FB4      |        8116 |
-|      92 | 0x1FB5      |        8117 |
-|      93 | 0x1FB7      |        8119 |
-|      94 | 0x1FB8      |        8120 |
-|      95 | 0x1FB9      |        8121 |
+|      65 | 0x1D5F      |        7519 |
+|      66 | 0x1D60      |        7520 |
+|      67 | 0x1D61      |        7521 |
+|      68 | 0x1D62      |        7522 |
+|      69 | 0x1D63      |        7523 |
+|      70 | 0x1D64      |        7524 |
+|      71 | 0x1D65      |        7525 |
+|      72 | 0x1D66      |        7526 |
+|      73 | 0x1D67      |        7527 |
+|      74 | 0x1D68      |        7528 |
+|      75 | 0x1D69      |        7529 |
+|      76 | 0x1FAA      |        8106 |
+|      77 | 0x1FB1      |        8113 |
+|      78 | 0x1FB7      |        8119 |
+|      79 | 0x1FA7      |        8103 |
+|      80 | 0x1FA8      |        8104 |
+|      81 | 0x1FA9      |        8105 |
+|      82 | 0x1FAB      |        8107 |
+|      83 | 0x1FAC      |        8108 |
+|      84 | 0x1FAD      |        8109 |
+|      85 | 0x1FAE      |        8110 |
+|      86 | 0x1FAF      |        8111 |
+|      87 | 0x1FB0      |        8112 |
+|      88 | 0x1FB2      |        8114 |
+|      89 | 0x1FB3      |        8115 |
+|      90 | 0x1FB4      |        8116 |
+|      91 | 0x1FB5      |        8117 |
+|      92 | 0x1FB6      |        8118 |
+|      93 | 0x1FB8      |        8120 |
+|      94 | 0x1FB9      |        8121 |
+|      95 | 0x1FBA      |        8122 |
 |      96 | 0x00C8      |         200 |
 |      97 | 0x0195      |         405 |
 |      98 | 0x008B      |         139 |
-|      99 | 0x1FBA      |        8122 |
-|     100 | 0x1FBB      |        8123 |
+|      99 | 0x1FBB      |        8123 |
+|     100 | 0x1FBC      |        8124 |
 |     101 | 0x0064      |         100 |
-|     102 | 0x1FBC      |        8124 |
-|     103 | 0x1FC6      |        8134 |
-|     104 | 0x1FBD      |        8125 |
+|     102 | 0x1FBD      |        8125 |
+|     103 | 0x1FC7      |        8135 |
+|     104 | 0x1FBE      |        8126 |
 |     105 | 0x0ACA      |        2762 |
-|     106 | 0x1FBF      |        8127 |
-|     107 | 0x1FC0      |        8128 |
-|     108 | 0x1FC1      |        8129 |
+|     106 | 0x1FC0      |        8128 |
+|     107 | 0x1FC1      |        8129 |
+|     108 | 0x1FC2      |        8130 |
 |     109 | 0x1DF10     |      122640 |
 |     110 | 0x1BBC6     |      113606 |
 |     111 | 0xFFFFF448  |  4294964296 |
@@ -372,93 +372,93 @@
 |     115 | 0xFFFFF449  |  4294964297 |
 |     116 | 0x1E3E1     |      123873 |
 |     117 | 0x1C44A     |      115786 |
-|     118 | 0x1FC2      |        8130 |
-|     119 | 0x1FC3      |        8131 |
-|     120 | 0x1FC4      |        8132 |
-|     121 | 0x1FC5      |        8133 |
-|     122 | 0x1DC9      |        7625 |
-|     123 | 0x1DCA      |        7626 |
-|     124 | 0x1DCB      |        7627 |
-|     125 | 0x1DCC      |        7628 |
-|     126 | 0x1DCD      |        7629 |
-|     127 | 0x2075      |        8309 |
-|     128 | 0x2076      |        8310 |
-|     129 | 0x207C      |        8316 |
-|     130 | 0x207D      |        8317 |
+|     118 | 0x1FC3      |        8131 |
+|     119 | 0x1FC4      |        8132 |
+|     120 | 0x1FC5      |        8133 |
+|     121 | 0x1FC6      |        8134 |
+|     122 | 0x1DCA      |        7626 |
+|     123 | 0x1DCB      |        7627 |
+|     124 | 0x1DCC      |        7628 |
+|     125 | 0x1DCD      |        7629 |
+|     126 | 0x1DCE      |        7630 |
+|     127 | 0x2076      |        8310 |
+|     128 | 0x2077      |        8311 |
+|     129 | 0x207D      |        8317 |
+|     130 | 0x207E      |        8318 |
 |     131 | 0x0013      |          19 |
-|     132 | 0x228A      |        8842 |
-|     133 | 0x228B      |        8843 |
-|     134 | 0x228C      |        8844 |
-|     135 | 0x228D      |        8845 |
-|     136 | 0x228E      |        8846 |
-|     137 | 0x228F      |        8847 |
-|     138 | 0x2290      |        8848 |
-|     139 | 0x2291      |        8849 |
-|     140 | 0x2292      |        8850 |
-|     141 | 0x2293      |        8851 |
+|     132 | 0x228B      |        8843 |
+|     133 | 0x228C      |        8844 |
+|     134 | 0x228D      |        8845 |
+|     135 | 0x228E      |        8846 |
+|     136 | 0x228F      |        8847 |
+|     137 | 0x2290      |        8848 |
+|     138 | 0x2291      |        8849 |
+|     139 | 0x2292      |        8850 |
+|     140 | 0x2293      |        8851 |
+|     141 | 0x2294      |        8852 |
 |     142 | 0x000E      |          14 |
-|     143 | 0x2294      |        8852 |
-|     144 | 0x2295      |        8853 |
-|     145 | 0x2296      |        8854 |
-|     146 | 0x2297      |        8855 |
-|     147 | 0x229A      |        8858 |
-|     148 | 0x229B      |        8859 |
-|     149 | 0x229C      |        8860 |
-|     150 | 0x229D      |        8861 |
-|     151 | 0x229E      |        8862 |
-|     152 | 0x229F      |        8863 |
-|     153 | 0x22E1      |        8929 |
-|     154 | 0x22E2      |        8930 |
-|     155 | 0x22E3      |        8931 |
-|     156 | 0x22E4      |        8932 |
-|     157 | 0x2326      |        8998 |
-|     158 | 0x2327      |        8999 |
-|     159 | 0x2340      |        9024 |
-|     160 | 0x2341      |        9025 |
-|     161 | 0x2342      |        9026 |
-|     162 | 0x235A      |        9050 |
-|     163 | 0x235B      |        9051 |
-|     164 | 0x235C      |        9052 |
-|     165 | 0x235D      |        9053 |
+|     143 | 0x2295      |        8853 |
+|     144 | 0x2296      |        8854 |
+|     145 | 0x2297      |        8855 |
+|     146 | 0x2298      |        8856 |
+|     147 | 0x229B      |        8859 |
+|     148 | 0x229C      |        8860 |
+|     149 | 0x229D      |        8861 |
+|     150 | 0x229E      |        8862 |
+|     151 | 0x229F      |        8863 |
+|     152 | 0x22A0      |        8864 |
+|     153 | 0x22E2      |        8930 |
+|     154 | 0x22E3      |        8931 |
+|     155 | 0x22E4      |        8932 |
+|     156 | 0x22E5      |        8933 |
+|     157 | 0x2327      |        8999 |
+|     158 | 0x2328      |        9000 |
+|     159 | 0x2341      |        9025 |
+|     160 | 0x2342      |        9026 |
+|     161 | 0x2343      |        9027 |
+|     162 | 0x235B      |        9051 |
+|     163 | 0x235C      |        9052 |
+|     164 | 0x235D      |        9053 |
+|     165 | 0x235E      |        9054 |
 |     166 | 0x0078      |         120 |
 |     167 | 0x00A3      |         163 |
-|     168 | 0x236B      |        9067 |
-|     169 | 0x236C      |        9068 |
-|     170 | 0x236D      |        9069 |
-|     171 | 0x236E      |        9070 |
-|     172 | 0x236F      |        9071 |
+|     168 | 0x236C      |        9068 |
+|     169 | 0x236D      |        9069 |
+|     170 | 0x236E      |        9070 |
+|     171 | 0x236F      |        9071 |
+|     172 | 0x2370      |        9072 |
 |     173 | 0x0B55      |        2901 |
 |     174 | 0x000A      |          10 |
-|     175 | 0x2370      |        9072 |
+|     175 | 0x2371      |        9073 |
 |     176 | 0x0097      |         151 |
-|     177 | 0x2371      |        9073 |
-|     178 | 0x2372      |        9074 |
-|     179 | 0x237C      |        9084 |
-|     180 | 0x2373      |        9075 |
-|     181 | 0x2374      |        9076 |
-|     182 | 0x2375      |        9077 |
+|     177 | 0x2372      |        9074 |
+|     178 | 0x2373      |        9075 |
+|     179 | 0x237D      |        9085 |
+|     180 | 0x2374      |        9076 |
+|     181 | 0x2375      |        9077 |
+|     182 | 0x2376      |        9078 |
 |     183 | 0x0002      |           2 |
-|     184 | 0x2376      |        9078 |
-|     185 | 0x2377      |        9079 |
-|     186 | 0x2378      |        9080 |
-|     187 | 0x2379      |        9081 |
-|     188 | 0x237A      |        9082 |
-|     189 | 0x237B      |        9083 |
-|     190 | 0x237D      |        9085 |
+|     184 | 0x2377      |        9079 |
+|     185 | 0x2378      |        9080 |
+|     186 | 0x2379      |        9081 |
+|     187 | 0x237A      |        9082 |
+|     188 | 0x237B      |        9083 |
+|     189 | 0x237C      |        9084 |
+|     190 | 0x237E      |        9086 |
 |     191 | 0x0005      |           5 |
-|     192 | 0x237E      |        9086 |
-|     193 | 0x237F      |        9087 |
-|     194 | 0x2380      |        9088 |
-|     195 | 0x2381      |        9089 |
+|     192 | 0x237F      |        9087 |
+|     193 | 0x2380      |        9088 |
+|     194 | 0x2381      |        9089 |
+|     195 | 0x2382      |        9090 |
 |     196 | 0x1DDFF     |      122367 |
 |     197 | 0x1B7AF     |      112559 |
-|     198 | 0x2382      |        9090 |
-|     199 | 0x2384      |        9092 |
-|     200 | 0x2385      |        9093 |
-|     201 | 0x2386      |        9094 |
-|     202 | 0x2387      |        9095 |
-|     203 | 0x2388      |        9096 |
-|     204 | 0x2389      |        9097 |
+|     198 | 0x2383      |        9091 |
+|     199 | 0x2385      |        9093 |
+|     200 | 0x2386      |        9094 |
+|     201 | 0x2387      |        9095 |
+|     202 | 0x2388      |        9096 |
+|     203 | 0x2389      |        9097 |
+|     204 | 0x238A      |        9098 |
 |     205 | 0xFFFE8AF4  |  4294871796 |
 |     206 | 0x2EE00     |      192000 |
 |     207 | 0xFFFFCD38  |  4294954296 |
@@ -480,10 +480,10 @@
 |     223 | 0xFFFE9B9D  |  4294876061 |
 |     224 | 0x2DB73     |      187251 |
 |     225 | 0xFFFFCF2C  |  4294954796 |
-|     226 | 0x24E3      |        9443 |
-|     227 | 0x24E4      |        9444 |
-|     228 | 0x24E5      |        9445 |
-|     229 | 0x24E6      |        9446 |
+|     226 | 0x24E4      |        9444 |
+|     227 | 0x24E5      |        9445 |
+|     228 | 0x24E6      |        9446 |
+|     229 | 0x24E7      |        9447 |
 |     230 | 0xFFFE85C5  |  4294870469 |
 |     231 | 0x2F52D     |      193837 |
 |     232 | 0xFFFE7C52  |  4294868050 |
@@ -493,37 +493,37 @@
 |     236 | 0xFFFE6F5F  |  4294864735 |
 |     237 | 0x30AFA     |      199418 |
 |     238 | 0x01E3      |         483 |
-|     239 | 0x254B      |        9547 |
-|     240 | 0x254C      |        9548 |
-|     241 | 0x254D      |        9549 |
-|     242 | 0x254E      |        9550 |
-|     243 | 0x254F      |        9551 |
-|     244 | 0x2550      |        9552 |
+|     239 | 0x254C      |        9548 |
+|     240 | 0x254D      |        9549 |
+|     241 | 0x254E      |        9550 |
+|     242 | 0x254F      |        9551 |
+|     243 | 0x2550      |        9552 |
+|     244 | 0x2551      |        9553 |
 |     245 | 0x0403      |        1027 |
 |     246 | 0x00EF      |         239 |
 |     247 | 0x001E      |          30 |
-|     248 | 0x2566      |        9574 |
-|     249 | 0x2567      |        9575 |
-|     250 | 0x2568      |        9576 |
-|     251 | 0x2569      |        9577 |
-|     252 | 0x256A      |        9578 |
-|     253 | 0x256B      |        9579 |
-|     254 | 0x256C      |        9580 |
-|     255 | 0x256D      |        9581 |
-|     256 | 0x256E      |        9582 |
+|     248 | 0x2567      |        9575 |
+|     249 | 0x2568      |        9576 |
+|     250 | 0x2569      |        9577 |
+|     251 | 0x256A      |        9578 |
+|     252 | 0x256B      |        9579 |
+|     253 | 0x256C      |        9580 |
+|     254 | 0x256D      |        9581 |
+|     255 | 0x256E      |        9582 |
+|     256 | 0x256F      |        9583 |
 |     257 | 0x0D1C      |        3356 |
-|     258 | 0x256F      |        9583 |
-|     259 | 0x2570      |        9584 |
-|     260 | 0x2589      |        9609 |
-|     261 | 0x258F      |        9615 |
-|     262 | 0x2590      |        9616 |
-|     263 | 0x25EB      |        9707 |
+|     258 | 0x2570      |        9584 |
+|     259 | 0x2571      |        9585 |
+|     260 | 0x258A      |        9610 |
+|     261 | 0x2590      |        9616 |
+|     262 | 0x2591      |        9617 |
+|     263 | 0x25EC      |        9708 |
 |     264 | 0x0477      |        1143 |
-|     265 | 0x25EC      |        9708 |
-|     266 | 0x25EE      |        9710 |
-|     267 | 0x25EF      |        9711 |
-|     268 | 0x25F3      |        9715 |
-|     269 | 0x25F4      |        9716 |
+|     265 | 0x25ED      |        9709 |
+|     266 | 0x25EF      |        9711 |
+|     267 | 0x25F0      |        9712 |
+|     268 | 0x25F4      |        9716 |
+|     269 | 0x25F5      |        9717 |
 |     270 | 0x0801      |        2049 |
 |     271 | 0x0055      |          85 |
 |     272 | 0x0050      |          80 |
@@ -584,190 +584,190 @@
 
 ## String References
 
-- **7461**: Why, hello\`! And, oh...goodbye!
-- **7462**: Well, excu\`se me, [Mister/Ms.] So-and-so! You shouldn't be walking into these premises without permission, you know! Ohoho...Ignorance is no excuse. No, no!
-- **7463**: This manor is where scholars, who have rendered many years of noble service to their ministry, can further enjoy the pursuit of knowledge in peace and quiet as a reward. It is not a place where plebeians like you should enter on your own accord!
-- **7473**: Lately, my dear, I have the most unpleasant feeling, you see... I feel as though someone is constantly watching me!
-- **7474**: It must be one of my many admirers, or maybe, I dare to think, even a spy! It is giving me the jimjams! I'm not a cheap street show, am I?
-- **7475**: I say... Would you like to help me, my dear? I'm thinking of showing that Peeping Tom just who he's up against...you hear!?
-- **7476**: Agree to help? [Yes./No.]
-- **7477**: Jolly well! Now grab a quill and jot these down. I'll need $6 and two $7! Ohoho... This will be quite a sight to see, so stick around!
-- **7478**: How dare you turn a poor, defenseless old lady like ME down? Do you think something so unpleasant will befall me that you'd rather watch from the sidelines than get involved? You clown!
-- **7479**: Most unforgivable, [I'm glad I'm not your sister/you big sissy]! Perhaps you should watch your back too, [mister/missy]!
-- **7480**: Ohoho... Still haven't found me my $6 and two $7 yet? Well, I'm incensed! Hurry up. I can't wait to show my little voyeur just who he's up against!
-- **7481**: Oh, goody. You've brought me my $6 and $7, I see. Now to put these straight to good use... Ho\`cus-po\`cus, boogy-bogey fo\`cus!!!
-- **7482**: Here, dear, take this as your reward. Ohohohoho!
-- **7483**: You should have a little check around town tomorrow and see who's not doing so fine. Whoever has been spying on me will be having a most bone-boogying time!
+- **7462**: Why, hello\`! And, oh...goodbye!
+- **7463**: Well, excu\`se me, [Mister/Ms.] So-and-so! You shouldn't be walking into these premises without permission, you know! Ohoho...Ignorance is no excuse. No, no!
+- **7464**: This manor is where scholars, who have rendered many years of noble service to their ministry, can further enjoy the pursuit of knowledge in peace and quiet as a reward. It is not a place where plebeians like you should enter on your own accord!
+- **7474**: Lately, my dear, I have the most unpleasant feeling, you see... I feel as though someone is constantly watching me!
+- **7475**: It must be one of my many admirers, or maybe, I dare to think, even a spy! It is giving me the jimjams! I'm not a cheap street show, am I?
+- **7476**: I say... Would you like to help me, my dear? I'm thinking of showing that Peeping Tom just who he's up against...you hear!?
+- **7477**: Agree to help? [Yes./No.]
+- **7478**: Jolly well! Now grab a quill and jot these down. I'll need $6 and two $7! Ohoho... This will be quite a sight to see, so stick around!
+- **7479**: How dare you turn a poor, defenseless old lady like ME down? Do you think something so unpleasant will befall me that you'd rather watch from the sidelines than get involved? You clown!
+- **7480**: Most unforgivable, [I'm glad I'm not your sister/you big sissy]! Perhaps you should watch your back too, [mister/missy]!
+- **7481**: Ohoho... Still haven't found me my $6 and two $7 yet? Well, I'm incensed! Hurry up. I can't wait to show my little voyeur just who he's up against!
+- **7482**: Oh, goody. You've brought me my $6 and $7, I see. Now to put these straight to good use... Ho\`cus-po\`cus, boogy-bogey fo\`cus!!!
+- **7483**: Here, dear, take this as your reward. Ohohohoho!
 - **7484**: You should have a little check around town tomorrow and see who's not doing so fine. Whoever has been spying on me will be having a most bone-boogying time!
-- **7489**: Ohoho! Our peeping Tom's been enjoying that Skeleton Dance curse I placed on him, no? But don't feel too sorry for him, as it'll wear off within a day or so.
-- **7490**: But, my, haven't I mellowed with age?
-- **7491**: You should have seen me back when I was the Minister of the Orastery. I pulled no punches at that stage. Ohohohoho\`!
-- **7492**: Oh? You didn't see anyone doing the old Skeleton Dance, eh?
-- **7493**: That's most strange indeed...I say. It sure felt as if my curse had taken effect...well, either way...
-- **7495**: Ah! Thank goodness...there you are! I've been looking all over Windurst for you! Ha\`h!
-- **7496**: Say...you don't happen to have any dependents, do you? Like, would anyone be saddened if you were put behind bars? Would anyone grieve if you, er...disappeared to the stars?
-- **7497**: If you went missing, people would... [Cry in despair./Cry out in joy!]
-- **7498**: Well, no matter, either way. That doesn't concern me today.
-- **7499**: Personally, I don't want to rot in prison, you see...! So, it's inevitable that you're the one who'll take the fall for me.
-- **7500**: Hey, you were my accomplice, you know!? You cannot say that it's not so.
-- **7501**: If you recall, without pride or plom... you're the one who helped me cast a curse on that peeping Tom!
-- **7502**: You know...the Skeleton Dance curse, you cur!? I used your $4 and $5, along with my misery staff, to vex the voyeur.
-- **7503**: Well, the truth is, that wasn't the "Skeleton Dance" curse I cast. It seems I did the old "Invoke the Grip of Death" curse, oh blast! (An honest mistake...that anyone would make...)
-- **7504**: So, we actually have hexed the person to death, I fear. Quite a disagreeable aftertaste for an act of sweet vengeance, dear.
-- **7505**: But maybe Death hasn't taken a complete hold of him yet. We might still have time to save him, so don't sweat!
-- **7506**: Oh, but to undo the curse, we'll need two $6, $7 and next... a lock of hair of the unfortunate person we hexed.
-- **7507**: $7 are quite hard to come by and it's impossible to remove a lock of the cursed person's hair without them noticing, I dread...
-- **7508**: So I guess we may as well give up on that plan and just have you take the blame for the both of us and go to jail instead!
-- **7510**: Agree to go to jail? [No way! Not on your life!/Well, OK. If you say so...]
-- **7511**: Ohoho! I'm glad you're so understanding. It makes matters as simple as you are, darling. All you have to do is go to the local gatehouse, confess to the crime, and turn yourself in.
-- **7512**: O\`h! You're making me lose my temper, dear!
-- **7513**: Fine! If you want to avoid imprisonment, you'll just have to go find: two $6, $7, and a lock of hair of the cursed person...if you don't mind.
-- **7514**: If you can do that impossible feat, I'll smooth things over for you, nice and neat!
-- **7515**: If you want to avoid imprisonment, you'll just have to go find: two $6, $7, and a lock of hair of the cursed person...if you don't mind.
-- **7516**: If you can do that impossible feat, I'll smooth things over for you, nice and neat!
-- **7518**: Oh, wow! You really found all the things we need...but how?
-- **7519**: Oh, and gee...! You even managed to obtain the hair, I see... Which means he's still alive, and well, is he?
-- **7520**: Which means neither of us need to go to jail after all! Ohoho! I'm so glad I don't have to wear a chain and ball.
-- **7521**: Here. Let me remove that nasty curse without a moment's delay. For even as we speak, the seconds to his death are still ticking away...
-- **7522**: I hope I'm not too late, dearie... Here it goes... Wha\`mm\`y!!!
-- **7523**: ...Ohoho. Well, that cleared that right up.
-- **7524**: I'm glad I've a knack for undoing hexes. It sure gets me out of such little vexes.
-- **7525**: Anyway, I've had enough of cursing for the time being. Here, I'll give you this Misery Staff...if you're agreeing.
-- **7526**: After all, it won't hurt to dispose of the evidence. Especially if the victim takes offense...ohohoho!
-- **7527**: Ohoho! Don't get angry with me for that little disgrace. It was the Orastery's mages who found that miserable staff in the first place.
-- **7528**: But don't you worry about it. Control your lividity. I'll make sure they pay dearly for their stupidity. Ohohohoho!
-- **7625**: Ohoho! Your reason for bargy-wargying into my home like this had better be fitting.
-- **7626**: Alchemy? Ohohoho! You've got to be kidding!
-- **7627**: There is no place for such circus tricks in Windurst! Just the talk of the subject makes my side burst!
-- **7628**: Long ago, there was a student who did give the crazy subject a try...
-- **7629**: Well, if I was a professor at the School of Magic, I would fail that lunatic in the blink of an eye!
-- **8102**: Ah, it's you again, my dear. And to tell you the truth, I'm glad you're here.
-- **8103**: Right now I am looking for someone who can do me a favor... Namely, anyone who can manage to reach the Beaucedine Glacier.
-- **8104**: Do you have a friend who is a black mage? One worthy of meeting me, the "Great Sage"?
-- **8105**: Introduce a black mage friend to her? [Of course!/Ask if you're worthy.]
-- **8106**: When you see that friend, tell them to hurry. There is no need for you to accompany them, so please don't worry.
-- **8107**: Now, off with you, dear, my schedule is very tight. Ohoho-whoo! I have no time to waste changing the diapers of total losers like you.
-- **8108**: Yo\`u!?
-- **8109**: Ohohohohoho! A marvelous joke! Ohoho! You adventurers are such amusing folk!
-- **8110**: The place is terrible, as far as I can tell. From the beasts to the weather, the Northlands are a snow-white hell.
-- **8111**: It's a place where an onion adventurer like you could perish, and you probably would. So, go on home now, and act like a total loser should.
-- **8112**: Act like a total loser should? [Yes, mommy./Whatchu talkin' 'bout Shantotto?]
-- **8113**: Ohoho! Well, I expected you to step back and cower. But, I guess I will put a little faith into your loser power.
-- **8114**: You know of those magic towers in Sarutabaruta? Well, the Beaucedine Glacier has some, too. Go there and you will find researchers working with the Rhinostery minister, Rukususu.
-- **8115**: I want you to ask her something, if you'd be so kind. Please inquire if that new magic of mine is working fine.
-- **8116**: Oh, and one more thing I'd like you to tell her before you come back to Windurst... Tell her if she doesn't reply soon, she'll find herself cursed.
-- **8117**: Ohoho! Rukususu is terrified of onions and ghosts. So, I'll conjure up a curse with the things she hates the most.
-- **8118**: Ohoho! I am so evil!
-- **8119**: You know of those magic towers in Sarutabaruta? Well, the Beaucedine Glacier has some, too. Go there and you will find researchers working with the Rhinostery minister, Rukususu.
-- **8120**: I want you to ask her something, if you'd be so kind. Please inquire if that new magic of mine is working fine.
-- **8121**: Oh, and one more thing I'd like you to tell her before you come back to Windurst... Tell her if she doesn't reply soon, she'll find herself cursed.
-- **8122**: Dear, did you come to apologize for your failure?
-- **8123**: Ohoho! My new curse will work just as fine on you, I'm sure.
-- **8124**: What is this you're saying? The tome vanishes after fighting the golems in Fei'Yin?
-- **8125**: Those brutes don't know what a nuisance they're being!
-- **8127**: So, how was Rukususu, the old air-head? For being deathly afraid of the undead, she's sure spent much time away from her Windurstian bed.
-- **8128**: It must be the thought of getting revenge...I dread... for what happened to her professor, Iru-Kuiru, that drives her instead.
-- **8129**: I guess I must present you with a reward for your deed. I will bestow upon you my special magic, which I'm sure you'll need.
-- **8130**: Ohoho! This version should stand up to even the strongest golem magic.
-- **8131**: Use it well, and maybe your days as a total loser won't be so tragic.
-- **8132**: Ohoho! Have you been using my magic?
-- **8133**: Use it well, and maybe your days as a total loser won't be so tragic.
-- **8134**: I doubt a total loser like you would have noticed if it was true what they were saying... But I wonder if that magic tome really vanishes when you fight the golems in Fei'Yin...
-- **8309**: You haven't forgotten about our business at the star tree, have you, you big lard?
-- **8310**: Throw $2 into the aurora crevice in Xarcabard. Then, take the $1 that comes out to Chumimi... That isn't so hard.
-- **8316**: How many times must I inform you of your task? Go to Castle Zvahl, and find that magic doll, blast! It's probably in one of the rooms there, if you must ask.
-- **8317**: And when you retrieve it, do not bring it to me, please. Take it straight to the Tarutaru in Heavens Tower who are raising the little star trees.
-- **8842**: You said something!? You've collected all five of the minister rings!?
-- **8843**: ...Well, well, well. I never believed you would actually get them all. Come on then, let's have a look at them, don't stall.
-- **8844**: This $3 is worthless. It looks like $6 from an older age, more or less.
-- **8845**: This mission will create quite a stir. We must involve Minister Apururu and all the ministers.
-- **8846**: The Minister of the Optistery is the oldest and most stubborn of the lot. Make sure you get the $3 from that old crack-pot.
-- **8847**: ...You've done well. But the fact that a ragtag adventurer such as you could bring together all five rings... Something about that just chills my bones and makes me cringe.
-- **8848**: This undertaking will most likely leave a mark on Windurst's history.
-- **8849**: And now that we have all of the ministers in on the act, Apururu won't have to shoulder all the blame, will she?
-- **8850**: ...Right, then. Let's complete the final preparations.
-- **8851**: Hocus-pocus circularum-focus!
-- **8852**: Ohohoho! Behold, the forbidden $3! Now all that's left is for you to take this to Apururu.
-- **8853**: Wearing all five ministry rings at once is something I wouldn't recommend. The combined power consumes your body and you go up in flames--meaning your end.
-- **8854**: To prevent this, I have created the $3. I've always wanted to try out this power for myself, but Karaha-Baruha would never lend me his $3...
-- **8855**: Ooh! Just thinking about that makes me want to lash out and curse someone! If only I'd had that $3 back then... Oh, what I would have done!
-- **8858**: Ohohohoho! It looks like my $3 had the desired effect!
-- **8859**: Ajido-Marujido's failure to regain consciousness is the only slight complication I was able to detect...
-- **8860**: But you don't need to go and start worrying. Why, it would take more than that to finish off a mage that had survived my tutelage and training!
-- **8861**: ...Now, about the $3.
-- **8862**: Due to a slight miscalculation on my part, the rings have become fused to the glove, I see. But don't worry. With a few twists, I'll soon have them free.
-- **8863**: I'll just hold on to the ministry rings for a little while longer. Ohohoho!
-- **8929**: You want to know where to find Sunny-Pabonny? How am I supposed to know where he is at?
-- **8930**: He went off last month... Or was it earlier than that?
-- **8931**: Anyway, he went to San d'Oria to find some sort of armor, and I haven't heard from him since.
-- **8932**: Ohohoho! He'll show up when you least expect it, I'm convinced.
-- **8998**: I can't stand waiting here, sitting on our hands. It's taken months to reconstruct those plans. Months to decipher the code. Months to journy this far down the road...
-- **8999**: How long is it going to take until the brilliant armor designed by Karaha-Baruha is done!?
-- **9024**: How disappointing. Ajido-Marujido woke up on his own before I could think of some new spells to fling.
-- **9025**: I'm achy-waking to grill him on what he saw in the Book of the Gods, but I supppose I'll give him some time to recover.
-- **9026**: The word "restraint" doesn'taru exist in my dictionary, you'll discover. Ohohoho!
-- **9050**: Ah, it's such a waste. Such a wonderful glove that can never be replaced.
-- **9051**: I would have gladly blasty-wasted a hundred people to keep it mine to use... But since Apururu offered me three years' worth of the Manustery's budgetaru, how could I refuse?
-- **9052**: Things have worked out for the bestaru. I'm not even upset that I wasn't called to join the Full Moon Fountain battle.
-- **9053**: I'll just weave some curses to give their nerves a little rattle. Ohohohoho!
-- **9067**: You there. You appear to carry yourself with a certain flair.
-- **9068**: The snap in the wrist, a sturdy arm. Your breathing, controlled and calm...
-- **9069**: Justaru the type for wielding heavy, blunt, pain-inflictaruing objects... I would even go so far as to say you were born to swing the staff. You'll be the perfect addition to my team of test subjects!
-- **9070**: For someone like you, I have just the thing. Here's a new toy. Go on, give it a swing!
-- **9071**: Beyond what you'd expect? The rightaru length, the rightaru weight, and the balance is perfect... What you now hold is my made-to-order, specialized training staff!
-- **9072**: Don'taru just stand there like a doe-eyed calf! Go out and pound with that pole until you can pound no more! Go on! Shoo! What are you waiting for? Ohohohohohohoho!
-- **9073**: What's this? There's no chat-watting during training. Is something amiss?
-- **9074**: Is something amiss? [No, everything's justaru fine./I lostaru the $1.../I can'taru go on.]
-- **9075**: You lostaru it!?
-- **9076**: Let me think for a bit. Could you perhaps have been swing-winging too hard? I myself have been known to send a staff flying into someone's backyard.
-- **9077**: Well, it's good to see that you have fight-smiting spirit. Even if you are somewhat lacking in wit. Ohohoho!
-- **9078**: You're giving up!?
-- **9079**: Give up on the quest? [I've had enough./Not just yet.]
-- **9080**: This kind of specialized training is not for everyone. Only the very bestaru staff-wielders are left standing when the day is done.
-- **9081**: I understand your position. Allow me to leave you with these words of wisdom:
-- **9082**: Give up, you loser! Throw that staff away! That poor length of wood mustaru be ashamed to be swung by such a wimp, anyway!
-- **9083**: Ohohoho! I'm really getting the hang of this evil coach deal! You get rid of that staff, and this time it's over for real.
-- **9084**: When that staff can be swung no more, bring it here to me. Now get back out there and train harder, my little prodigy! Ohohoho!
-- **9085**: What's this I see? Justaru glancing at that staff tells me your training lacks intensity!
-- **9086**: Oho! You've done a masterful job of demolishing that staff! After watching your maniacal training, I hope your friends were still able to laugh...
-- **9087**: Well, your friends are not importantaru now. Let's see what you've learned. Show me some ka-pow!
-- **9088**: The test of your newfound proficiency will take place at the Cauldron of Ifrit. Make sure to bring back $6, and try not to get turned into mincemeat.
-- **9089**: Train hard, and ka-blam, you've suddenly learned a new technique. That's what tests are greataru for--along with my detailed critique. Ohohohoho!
-- **9090**: The time for the test is upon you. Journey to Ifrit's Cauldron and discover that new skill. Ta-taru!
-- **9092**: Oho! The triumphantaru hero has returned! Let's see what amazing-wazing new tricks you've learned!
-- **9093**: Were you hit by a bolt of inspiration-wation? Absolutaruly nothing? Did the battle lack the required level of desperation?
-- **9094**: You really are a sorry case. Well, let me teach you a technique I discovered, a fight-wighting move with both power and grace.
-- **9095**: When your back's against the wall and there's no escape from the dragon's lair, justaru pretend this skill was taught to you by a beautiful goddess that appeared out of thin air.
-- **9096**: Ohohohoho! Another member for my team with a wondrous tale to tell! We're really gonna give those Orastery mages hell!
-- **9097**: The Martial Mages Mortal Mashfest will be a grand affair! Those weakling wizards need a good blood-soaked battle to toughen them up, a little scare!
-- **9443**: This story would surely be a scoop for the press. How will he get himself out of this mess?
-- **9444**: A doctor is expected to show a good example to the up and coming mages. I'm sure he doesn't wantaru this recorded in Windurst's history pages.
-- **9445**: Of course, I asked his children what kind of curse I should cast on their dad. But they don't seem to want to cause harm to the cad.
-- **9446**: That's what you call familial piety. Another chance lost to increase my notoriety! Ohohohohoho!
-- **9547**: We couldn't allow that Elvaan girl to stay with old Yoran-Oran. He has enough child problems to fill his little hands.
-- **9548**: I brought her to my house, but I found myself in the proverbial rut. It took quite a few Fire spells to thaw out her frozen butt.
-- **9549**: But I guess it was all worth my while. In the end I was able to hear the wonderful tale of her meeting with Diabolos and the following trial.
-- **9550**: The magicite locked in her chest is more than what it seems. That stone is what pulled her into Diabolos's land of dreams.
-- **9551**: However, her potty-mouthed highness obviously made the ruler of dreams quite upset. She lost her right to live in the strifeless world of Dynamis like that!
-- **9552**: But she had the right idea, if you ask me. Where's the fun in living within a world without curses or misery!?
-- **9574**: I have all the data on your adventuring activity. But I'm only interested in how many enemies you've crushed and your KO'd loser proclivity.
-- **9575**: Let's start out with your enemy carnage-warnage amounts... My, my. Either you justaru like to hide, or are not particular about large body counts.
-- **9576**: Let's start out with your defeated enemy score... Oh. How very average. Wake me up if I startaru to snore.
-- **9577**: Let's start out with your defeated enemy score... Oho, this is close to the figure I racked up during the Great War.
-- **9578**: And now for your frequency of KO'd occasions... It seems that you've mastered the art of escapes and evasions! Your ability to survive must really irky-wirk your friends. Especially when you leave them behind to meet grisly ends!
-- **9579**: And now for your frequency of KO'd occasions... A typical number, but you should learn to warp away from impending invasions! That is the reason the spell was invented. So many pointless defeats could have been easily prevented.
-- **9580**: And now for your frequency of KO'd occasions... Oho, what a loser! I need no more persuasion. You must be the victim of some tasty-wasty curse! In all my years, I don't think I've seen a number much worse!
-- **9581**: My last advice to you is to take a chance with an unfamiliar group. You mightaru find it refreshing to get out of your usual loop.
-- **9582**: I have one piece of advice concerning your party today. Trusting in the strength of diversity won't lead you astray.
-- **9583**: Visitaru every nation representative before you see the moogle again. Your evaluation from me here is done. But then...
-- **9584**: No, you're not the one I was waiting to blast. You mightaru have gained another point to your KO'd score if I had miscast! Ohohohoho!
-- **9609**: <Player>'s badge flashes brightly.
-- **9615**: Ohohoho! Such a tatty old badge, but you're proud--can this be? You're baring your nature--no shame--for all to see!
-- **9616**: If you become an Orastery mercenary and change your foul ways, you can wear the strongest equipment for the rest of your days! That does mean, although, if your days aren't yet done, you won't be able to remove it, but that's part of the fun!
-- **9710**: Excellent, and very well! Now, off to Jeuno--we've a curse to dispel!
-- **9711**: Why don't you go on ahead? I must find someone to watch over the laboratory in my stead.
-- **9715**: <Ahem>--Allow me to say this with consummate clarity. I am not in the business of running a charity!
-- **9716**: If you're too cheap to pay, then off with you.
+- **7485**: You should have a little check around town tomorrow and see who's not doing so fine. Whoever has been spying on me will be having a most bone-boogying time!
+- **7490**: Ohoho! Our peeping Tom's been enjoying that Skeleton Dance curse I placed on him, no? But don't feel too sorry for him, as it'll wear off within a day or so.
+- **7491**: But, my, haven't I mellowed with age?
+- **7492**: You should have seen me back when I was the Minister of the Orastery. I pulled no punches at that stage. Ohohohoho\`!
+- **7493**: Oh? You didn't see anyone doing the old Skeleton Dance, eh?
+- **7494**: That's most strange indeed...I say. It sure felt as if my curse had taken effect...well, either way...
+- **7496**: Ah! Thank goodness...there you are! I've been looking all over Windurst for you! Ha\`h!
+- **7497**: Say...you don't happen to have any dependents, do you? Like, would anyone be saddened if you were put behind bars? Would anyone grieve if you, er...disappeared to the stars?
+- **7498**: If you went missing, people would... [Cry in despair./Cry out in joy!]
+- **7499**: Well, no matter, either way. That doesn't concern me today.
+- **7500**: Personally, I don't want to rot in prison, you see...! So, it's inevitable that you're the one who'll take the fall for me.
+- **7501**: Hey, you were my accomplice, you know!? You cannot say that it's not so.
+- **7502**: If you recall, without pride or plom... you're the one who helped me cast a curse on that peeping Tom!
+- **7503**: You know...the Skeleton Dance curse, you cur!? I used your $4 and $5, along with my misery staff, to vex the voyeur.
+- **7504**: Well, the truth is, that wasn't the "Skeleton Dance" curse I cast. It seems I did the old "Invoke the Grip of Death" curse, oh blast! (An honest mistake...that anyone would make...)
+- **7505**: So, we actually have hexed the person to death, I fear. Quite a disagreeable aftertaste for an act of sweet vengeance, dear.
+- **7506**: But maybe Death hasn't taken a complete hold of him yet. We might still have time to save him, so don't sweat!
+- **7507**: Oh, but to undo the curse, we'll need two $6, $7 and next... a lock of hair of the unfortunate person we hexed.
+- **7508**: $7 are quite hard to come by and it's impossible to remove a lock of the cursed person's hair without them noticing, I dread...
+- **7509**: So I guess we may as well give up on that plan and just have you take the blame for the both of us and go to jail instead!
+- **7511**: Agree to go to jail? [No way! Not on your life!/Well, OK. If you say so...]
+- **7512**: Ohoho! I'm glad you're so understanding. It makes matters as simple as you are, darling. All you have to do is go to the local gatehouse, confess to the crime, and turn yourself in.
+- **7513**: O\`h! You're making me lose my temper, dear!
+- **7514**: Fine! If you want to avoid imprisonment, you'll just have to go find: two $6, $7, and a lock of hair of the cursed person...if you don't mind.
+- **7515**: If you can do that impossible feat, I'll smooth things over for you, nice and neat!
+- **7516**: If you want to avoid imprisonment, you'll just have to go find: two $6, $7, and a lock of hair of the cursed person...if you don't mind.
+- **7517**: If you can do that impossible feat, I'll smooth things over for you, nice and neat!
+- **7519**: Oh, wow! You really found all the things we need...but how?
+- **7520**: Oh, and gee...! You even managed to obtain the hair, I see... Which means he's still alive, and well, is he?
+- **7521**: Which means neither of us need to go to jail after all! Ohoho! I'm so glad I don't have to wear a chain and ball.
+- **7522**: Here. Let me remove that nasty curse without a moment's delay. For even as we speak, the seconds to his death are still ticking away...
+- **7523**: I hope I'm not too late, dearie... Here it goes... Wha\`mm\`y!!!
+- **7524**: ...Ohoho. Well, that cleared that right up.
+- **7525**: I'm glad I've a knack for undoing hexes. It sure gets me out of such little vexes.
+- **7526**: Anyway, I've had enough of cursing for the time being. Here, I'll give you this Misery Staff...if you're agreeing.
+- **7527**: After all, it won't hurt to dispose of the evidence. Especially if the victim takes offense...ohohoho!
+- **7528**: Ohoho! Don't get angry with me for that little disgrace. It was the Orastery's mages who found that miserable staff in the first place.
+- **7529**: But don't you worry about it. Control your lividity. I'll make sure they pay dearly for their stupidity. Ohohohoho!
+- **7626**: Ohoho! Your reason for bargy-wargying into my home like this had better be fitting.
+- **7627**: Alchemy? Ohohoho! You've got to be kidding!
+- **7628**: There is no place for such circus tricks in Windurst! Just the talk of the subject makes my side burst!
+- **7629**: Long ago, there was a student who did give the crazy subject a try...
+- **7630**: Well, if I was a professor at the School of Magic, I would fail that lunatic in the blink of an eye!
+- **8103**: Ah, it's you again, my dear. And to tell you the truth, I'm glad you're here.
+- **8104**: Right now I am looking for someone who can do me a favor... Namely, anyone who can manage to reach the Beaucedine Glacier.
+- **8105**: Do you have a friend who is a black mage? One worthy of meeting me, the "Great Sage"?
+- **8106**: Introduce a black mage friend to her? [Of course!/Ask if you're worthy.]
+- **8107**: When you see that friend, tell them to hurry. There is no need for you to accompany them, so please don't worry.
+- **8108**: Now, off with you, dear, my schedule is very tight. Ohoho-whoo! I have no time to waste changing the diapers of total losers like you.
+- **8109**: Yo\`u!?
+- **8110**: Ohohohohoho! A marvelous joke! Ohoho! You adventurers are such amusing folk!
+- **8111**: The place is terrible, as far as I can tell. From the beasts to the weather, the Northlands are a snow-white hell.
+- **8112**: It's a place where an onion adventurer like you could perish, and you probably would. So, go on home now, and act like a total loser should.
+- **8113**: Act like a total loser should? [Yes, mommy./Whatchu talkin' 'bout Shantotto?]
+- **8114**: Ohoho! Well, I expected you to step back and cower. But, I guess I will put a little faith into your loser power.
+- **8115**: You know of those magic towers in Sarutabaruta? Well, the Beaucedine Glacier has some, too. Go there and you will find researchers working with the Rhinostery minister, Rukususu.
+- **8116**: I want you to ask her something, if you'd be so kind. Please inquire if that new magic of mine is working fine.
+- **8117**: Oh, and one more thing I'd like you to tell her before you come back to Windurst... Tell her if she doesn't reply soon, she'll find herself cursed.
+- **8118**: Ohoho! Rukususu is terrified of onions and ghosts. So, I'll conjure up a curse with the things she hates the most.
+- **8119**: Ohoho! I am so evil!
+- **8120**: You know of those magic towers in Sarutabaruta? Well, the Beaucedine Glacier has some, too. Go there and you will find researchers working with the Rhinostery minister, Rukususu.
+- **8121**: I want you to ask her something, if you'd be so kind. Please inquire if that new magic of mine is working fine.
+- **8122**: Oh, and one more thing I'd like you to tell her before you come back to Windurst... Tell her if she doesn't reply soon, she'll find herself cursed.
+- **8123**: Dear, did you come to apologize for your failure?
+- **8124**: Ohoho! My new curse will work just as fine on you, I'm sure.
+- **8125**: What is this you're saying? The tome vanishes after fighting the golems in Fei'Yin?
+- **8126**: Those brutes don't know what a nuisance they're being!
+- **8128**: So, how was Rukususu, the old air-head? For being deathly afraid of the undead, she's sure spent much time away from her Windurstian bed.
+- **8129**: It must be the thought of getting revenge...I dread... for what happened to her professor, Iru-Kuiru, that drives her instead.
+- **8130**: I guess I must present you with a reward for your deed. I will bestow upon you my special magic, which I'm sure you'll need.
+- **8131**: Ohoho! This version should stand up to even the strongest golem magic.
+- **8132**: Use it well, and maybe your days as a total loser won't be so tragic.
+- **8133**: Ohoho! Have you been using my magic?
+- **8134**: Use it well, and maybe your days as a total loser won't be so tragic.
+- **8135**: I doubt a total loser like you would have noticed if it was true what they were saying... But I wonder if that magic tome really vanishes when you fight the golems in Fei'Yin...
+- **8310**: You haven't forgotten about our business at the star tree, have you, you big lard?
+- **8311**: Throw $2 into the aurora crevice in Xarcabard. Then, take the $1 that comes out to Chumimi... That isn't so hard.
+- **8317**: How many times must I inform you of your task? Go to Castle Zvahl, and find that magic doll, blast! It's probably in one of the rooms there, if you must ask.
+- **8318**: And when you retrieve it, do not bring it to me, please. Take it straight to the Tarutaru in Heavens Tower who are raising the little star trees.
+- **8843**: You said something!? You've collected all five of the minister rings!?
+- **8844**: ...Well, well, well. I never believed you would actually get them all. Come on then, let's have a look at them, don't stall.
+- **8845**: This $3 is worthless. It looks like $6 from an older age, more or less.
+- **8846**: This mission will create quite a stir. We must involve Minister Apururu and all the ministers.
+- **8847**: The Minister of the Optistery is the oldest and most stubborn of the lot. Make sure you get the $3 from that old crack-pot.
+- **8848**: ...You've done well. But the fact that a ragtag adventurer such as you could bring together all five rings... Something about that just chills my bones and makes me cringe.
+- **8849**: This undertaking will most likely leave a mark on Windurst's history.
+- **8850**: And now that we have all of the ministers in on the act, Apururu won't have to shoulder all the blame, will she?
+- **8851**: ...Right, then. Let's complete the final preparations.
+- **8852**: Hocus-pocus circularum-focus!
+- **8853**: Ohohoho! Behold, the forbidden $3! Now all that's left is for you to take this to Apururu.
+- **8854**: Wearing all five ministry rings at once is something I wouldn't recommend. The combined power consumes your body and you go up in flames--meaning your end.
+- **8855**: To prevent this, I have created the $3. I've always wanted to try out this power for myself, but Karaha-Baruha would never lend me his $3...
+- **8856**: Ooh! Just thinking about that makes me want to lash out and curse someone! If only I'd had that $3 back then... Oh, what I would have done!
+- **8859**: Ohohohoho! It looks like my $3 had the desired effect!
+- **8860**: Ajido-Marujido's failure to regain consciousness is the only slight complication I was able to detect...
+- **8861**: But you don't need to go and start worrying. Why, it would take more than that to finish off a mage that had survived my tutelage and training!
+- **8862**: ...Now, about the $3.
+- **8863**: Due to a slight miscalculation on my part, the rings have become fused to the glove, I see. But don't worry. With a few twists, I'll soon have them free.
+- **8864**: I'll just hold on to the ministry rings for a little while longer. Ohohoho!
+- **8930**: You want to know where to find Sunny-Pabonny? How am I supposed to know where he is at?
+- **8931**: He went off last month... Or was it earlier than that?
+- **8932**: Anyway, he went to San d'Oria to find some sort of armor, and I haven't heard from him since.
+- **8933**: Ohohoho! He'll show up when you least expect it, I'm convinced.
+- **8999**: I can't stand waiting here, sitting on our hands. It's taken months to reconstruct those plans. Months to decipher the code. Months to journy this far down the road...
+- **9000**: How long is it going to take until the brilliant armor designed by Karaha-Baruha is done!?
+- **9025**: How disappointing. Ajido-Marujido woke up on his own before I could think of some new spells to fling.
+- **9026**: I'm achy-waking to grill him on what he saw in the Book of the Gods, but I supppose I'll give him some time to recover.
+- **9027**: The word "restraint" doesn'taru exist in my dictionary, you'll discover. Ohohoho!
+- **9051**: Ah, it's such a waste. Such a wonderful glove that can never be replaced.
+- **9052**: I would have gladly blasty-wasted a hundred people to keep it mine to use... But since Apururu offered me three years' worth of the Manustery's budgetaru, how could I refuse?
+- **9053**: Things have worked out for the bestaru. I'm not even upset that I wasn't called to join the Full Moon Fountain battle.
+- **9054**: I'll just weave some curses to give their nerves a little rattle. Ohohohoho!
+- **9068**: You there. You appear to carry yourself with a certain flair.
+- **9069**: The snap in the wrist, a sturdy arm. Your breathing, controlled and calm...
+- **9070**: Justaru the type for wielding heavy, blunt, pain-inflictaruing objects... I would even go so far as to say you were born to swing the staff. You'll be the perfect addition to my team of test subjects!
+- **9071**: For someone like you, I have just the thing. Here's a new toy. Go on, give it a swing!
+- **9072**: Beyond what you'd expect? The rightaru length, the rightaru weight, and the balance is perfect... What you now hold is my made-to-order, specialized training staff!
+- **9073**: Don'taru just stand there like a doe-eyed calf! Go out and pound with that pole until you can pound no more! Go on! Shoo! What are you waiting for? Ohohohohohohoho!
+- **9074**: What's this? There's no chat-watting during training. Is something amiss?
+- **9075**: Is something amiss? [No, everything's justaru fine./I lostaru the $1.../I can'taru go on.]
+- **9076**: You lostaru it!?
+- **9077**: Let me think for a bit. Could you perhaps have been swing-winging too hard? I myself have been known to send a staff flying into someone's backyard.
+- **9078**: Well, it's good to see that you have fight-smiting spirit. Even if you are somewhat lacking in wit. Ohohoho!
+- **9079**: You're giving up!?
+- **9080**: Give up on the quest? [I've had enough./Not just yet.]
+- **9081**: This kind of specialized training is not for everyone. Only the very bestaru staff-wielders are left standing when the day is done.
+- **9082**: I understand your position. Allow me to leave you with these words of wisdom:
+- **9083**: Give up, you loser! Throw that staff away! That poor length of wood mustaru be ashamed to be swung by such a wimp, anyway!
+- **9084**: Ohohoho! I'm really getting the hang of this evil coach deal! You get rid of that staff, and this time it's over for real.
+- **9085**: When that staff can be swung no more, bring it here to me. Now get back out there and train harder, my little prodigy! Ohohoho!
+- **9086**: What's this I see? Justaru glancing at that staff tells me your training lacks intensity!
+- **9087**: Oho! You've done a masterful job of demolishing that staff! After watching your maniacal training, I hope your friends were still able to laugh...
+- **9088**: Well, your friends are not importantaru now. Let's see what you've learned. Show me some ka-pow!
+- **9089**: The test of your newfound proficiency will take place at the Cauldron of Ifrit. Make sure to bring back $6, and try not to get turned into mincemeat.
+- **9090**: Train hard, and ka-blam, you've suddenly learned a new technique. That's what tests are greataru for--along with my detailed critique. Ohohohoho!
+- **9091**: The time for the test is upon you. Journey to Ifrit's Cauldron and discover that new skill. Ta-taru!
+- **9093**: Oho! The triumphantaru hero has returned! Let's see what amazing-wazing new tricks you've learned!
+- **9094**: Were you hit by a bolt of inspiration-wation? Absolutaruly nothing? Did the battle lack the required level of desperation?
+- **9095**: You really are a sorry case. Well, let me teach you a technique I discovered, a fight-wighting move with both power and grace.
+- **9096**: When your back's against the wall and there's no escape from the dragon's lair, justaru pretend this skill was taught to you by a beautiful goddess that appeared out of thin air.
+- **9097**: Ohohohoho! Another member for my team with a wondrous tale to tell! We're really gonna give those Orastery mages hell!
+- **9098**: The Martial Mages Mortal Mashfest will be a grand affair! Those weakling wizards need a good blood-soaked battle to toughen them up, a little scare!
+- **9444**: This story would surely be a scoop for the press. How will he get himself out of this mess?
+- **9445**: A doctor is expected to show a good example to the up and coming mages. I'm sure he doesn't wantaru this recorded in Windurst's history pages.
+- **9446**: Of course, I asked his children what kind of curse I should cast on their dad. But they don't seem to want to cause harm to the cad.
+- **9447**: That's what you call familial piety. Another chance lost to increase my notoriety! Ohohohohoho!
+- **9548**: We couldn't allow that Elvaan girl to stay with old Yoran-Oran. He has enough child problems to fill his little hands.
+- **9549**: I brought her to my house, but I found myself in the proverbial rut. It took quite a few Fire spells to thaw out her frozen butt.
+- **9550**: But I guess it was all worth my while. In the end I was able to hear the wonderful tale of her meeting with Diabolos and the following trial.
+- **9551**: The magicite locked in her chest is more than what it seems. That stone is what pulled her into Diabolos's land of dreams.
+- **9552**: However, her potty-mouthed highness obviously made the ruler of dreams quite upset. She lost her right to live in the strifeless world of Dynamis like that!
+- **9553**: But she had the right idea, if you ask me. Where's the fun in living within a world without curses or misery!?
+- **9575**: I have all the data on your adventuring activity. But I'm only interested in how many enemies you've crushed and your KO'd loser proclivity.
+- **9576**: Let's start out with your enemy carnage-warnage amounts... My, my. Either you justaru like to hide, or are not particular about large body counts.
+- **9577**: Let's start out with your defeated enemy score... Oh. How very average. Wake me up if I startaru to snore.
+- **9578**: Let's start out with your defeated enemy score... Oho, this is close to the figure I racked up during the Great War.
+- **9579**: And now for your frequency of KO'd occasions... It seems that you've mastered the art of escapes and evasions! Your ability to survive must really irky-wirk your friends. Especially when you leave them behind to meet grisly ends!
+- **9580**: And now for your frequency of KO'd occasions... A typical number, but you should learn to warp away from impending invasions! That is the reason the spell was invented. So many pointless defeats could have been easily prevented.
+- **9581**: And now for your frequency of KO'd occasions... Oho, what a loser! I need no more persuasion. You must be the victim of some tasty-wasty curse! In all my years, I don't think I've seen a number much worse!
+- **9582**: My last advice to you is to take a chance with an unfamiliar group. You mightaru find it refreshing to get out of your usual loop.
+- **9583**: I have one piece of advice concerning your party today. Trusting in the strength of diversity won't lead you astray.
+- **9584**: Visitaru every nation representative before you see the moogle again. Your evaluation from me here is done. But then...
+- **9585**: No, you're not the one I was waiting to blast. You mightaru have gained another point to your KO'd score if I had miscast! Ohohohoho!
+- **9610**: <Player>'s badge flashes brightly.
+- **9616**: Ohohoho! Such a tatty old badge, but you're proud--can this be? You're baring your nature--no shame--for all to see!
+- **9617**: If you become an Orastery mercenary and change your foul ways, you can wear the strongest equipment for the rest of your days! That does mean, although, if your days aren't yet done, you won't be able to remove it, but that's part of the fun!
+- **9711**: Excellent, and very well! Now, off to Jeuno--we've a curse to dispel!
+- **9712**: Why don't you go on ahead? I must find someone to watch over the laboratory in my stead.
+- **9716**: <Ahem>--Allow me to say this with consummate clarity. I am not in the business of running a charity!
+- **9717**: If you're too cheap to pay, then off with you.
 
 ## Events
 
@@ -2547,10 +2547,10 @@
   1: 0x0496 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0497 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0498 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
+  4: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
     → "Why, hello`! And, oh...goodbye!"
   5: 0x04A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
+  6: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
     → "This manor is where scholars, who have rendered many years of noble service to their ministry, can further enjoy the pursuit of knowledge in peace and quiet as a reward. It is not a place where plebeians like you should enter on your own accord!"
   7: 0x04A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -2583,7 +2583,7 @@
   1: 0x04B7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04B8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
+  4: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
     → "Well, excu`se me, [Mister/Ms.] So-and-so! You shouldn't be walking into these premises without permission, you know! Ohoho...Ignorance is no excuse. No, no!"
   5: 0x04C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -2617,7 +2617,7 @@
   1: 0x04D4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04D5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
+  4: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
     → "This manor is where scholars, who have rendered many years of noble service to their ministry, can further enjoy the pursuit of knowledge in peace and quiet as a reward. It is not a place where plebeians like you should enter on your own accord!"
   5: 0x04E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -2657,26 +2657,26 @@
   1: 0x04F1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04F2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x04FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
+  4: 0x04FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
     → "Lately, my dear, I have the most unpleasant feeling, you see... I feel as though someone is constantly watching me!"
   5: 0x04FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
+  6: 0x04FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
     → "It must be one of my many admirers, or maybe, I dare to think, even a spy! It is giving me the jimjams! I'm not a cheap street show, am I?"
   7: 0x0501 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0502 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
   9: 0x0509 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
- 10: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
+ 10: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
     → "I say... Would you like to help me, my dear? I'm thinking of showing that Peeping Tom just who he's up against...you hear!?"
  11: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0514 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
- 13: 0x051B [0x24] CREATE_DIALOG(message_id=7476*, default_option=0*, option_flags=0*)
+ 13: 0x051B [0x24] CREATE_DIALOG(message_id=7477*, default_option=0*, option_flags=0*)
     → "Agree to help? [Yes./No.]"
  14: 0x0522 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0523 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0546
  16: 0x052B [0x03] Work_Zone[1] = 3*
  17: 0x0530 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  18: 0x0531 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 19: 0x0538 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
+ 19: 0x0538 [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
     → "Jolly well! Now grab a quill and jot these down. I'll need $6 and two $7! Ohoho... This will be quite a sight to see, so stick around!"
  20: 0x053B [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x053C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -2684,10 +2684,10 @@
  23: 0x0546 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x056C
  24: 0x054E [0x03] Work_Zone[1] = 1*
  25: 0x0553 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x07)
- 26: 0x055A [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
+ 26: 0x055A [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
     → "How dare you turn a poor, defenseless old lady like ME down? Do you think something so unpleasant will befall me that you'd rather watch from the sidelines than get involved? You clown!"
  27: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
+ 28: 0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
     → "Most unforgivable, [I'm glad I'm not your sister/you big sissy]! Perhaps you should watch your back too, [mister/missy]!"
  29: 0x0561 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0562 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x08)
@@ -2723,7 +2723,7 @@ SUBROUTINE_056C:
   1: 0x0575 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0576 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0577 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  4: 0x057E [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
+  4: 0x057E [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
     → "Ohoho... Still haven't found me my $6 and two $7 yet? Well, I'm incensed! Hurry up. I can't wait to show my little voyeur just who he's up against!"
   5: 0x0581 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0582 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -2762,13 +2762,13 @@ SUBROUTINE_056C:
   3: 0x0595 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0596 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0597 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  6: 0x059E [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
+  6: 0x059E [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
     → "Oh, goody. You've brought me my $6 and $7, I see. Now to put these straight to good use... Ho`cus-po`cus, boogy-bogey fo`cus!!!"
   7: 0x05A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x05A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
   9: 0x05A9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "main" with entities [EventEntity, EventEntity], work=230*
  10: 0x05B8 [0x1C] WAIT(300* ticks)
- 11: 0x05BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
+ 11: 0x05BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
     → "Here, dear, take this as your reward. Ohohohoho!"
  12: 0x05BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x05BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2797,7 +2797,7 @@ SUBROUTINE_056C:
 #### Opcodes
 
 ```
-  0: 0x05D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
+  0: 0x05D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
     → "You should have a little check around town tomorrow and see who's not doing so fine. Whoever has been spying on me will be having a most bone-boogying time!"
   1: 0x05D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05D9 [0x00] END_REQSTACK()
@@ -2828,7 +2828,7 @@ SUBROUTINE_056C:
   1: 0x05DF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05E0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  4: 0x05E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+  4: 0x05E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
     → "You should have a little check around town tomorrow and see who's not doing so fine. Whoever has been spying on me will be having a most bone-boogying time!"
   5: 0x05EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -2863,15 +2863,15 @@ SUBROUTINE_056C:
   1: 0x05FC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05FD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  4: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
+  4: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=7490*)
     → "Ohoho! Our peeping Tom's been enjoying that Skeleton Dance curse I placed on him, no? But don't feel too sorry for him, as it'll wear off within a day or so."
   5: 0x0608 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0609 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
   7: 0x0610 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  8: 0x0617 [0x1D] PRINT_EVENT_MESSAGE(message_id=7490*)
+  8: 0x0617 [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
     → "But, my, haven't I mellowed with age?"
   9: 0x061A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
+ 10: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=7492*)
     → "You should have seen me back when I was the Minister of the Orastery. I pulled no punches at that stage. Ohohohoho`!"
  11: 0x061E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x061F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -2905,10 +2905,10 @@ SUBROUTINE_056C:
   1: 0x062F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0630 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0631 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x0638 [0x1D] PRINT_EVENT_MESSAGE(message_id=7492*)
+  4: 0x0638 [0x1D] PRINT_EVENT_MESSAGE(message_id=7493*)
     → "Oh? You didn't see anyone doing the old Skeleton Dance, eh?"
   5: 0x063B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=7493*)
+  6: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=7494*)
     → "That's most strange indeed...I say. It sure felt as if my curse had taken effect...well, either way..."
   7: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0640 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -2946,16 +2946,16 @@ SUBROUTINE_056C:
   1: 0x0650 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0651 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0652 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x0659 [0x1D] PRINT_EVENT_MESSAGE(message_id=7495*)
+  4: 0x0659 [0x1D] PRINT_EVENT_MESSAGE(message_id=7496*)
     → "Ah! Thank goodness...there you are! I've been looking all over Windurst for you! Ha`h!"
   5: 0x065C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x065D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
   7: 0x0664 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  8: 0x066B [0x1D] PRINT_EVENT_MESSAGE(message_id=7496*)
+  8: 0x066B [0x1D] PRINT_EVENT_MESSAGE(message_id=7497*)
     → "Say...you don't happen to have any dependents, do you? Like, would anyone be saddened if you were put behind bars? Would anyone grieve if you, er...disappeared to the stars?"
   9: 0x066E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x066F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
- 11: 0x0676 [0x24] CREATE_DIALOG(message_id=7497*, default_option=0*, option_flags=0*)
+ 11: 0x0676 [0x24] CREATE_DIALOG(message_id=7498*, default_option=0*, option_flags=0*)
     → "If you went missing, people would... [Cry in despair./Cry out in joy!]"
  12: 0x067D [0x25] WAIT_DIALOG_SELECT()
  13: 0x067E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0695
@@ -3000,7 +3000,7 @@ SUBROUTINE_06AC:
 
 ```
   0: 0x06B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
-  1: 0x06B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7498*)
+  1: 0x06B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7499*)
     → "Well, no matter, either way. That doesn't concern me today."
   2: 0x06BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
@@ -3010,7 +3010,7 @@ SUBROUTINE_06AC:
   7: 0x06D7 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x57)
   8: 0x06DE [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x58)
   9: 0x06E5 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x59)
- 10: 0x06EC [0x24] CREATE_DIALOG(message_id=7510*, default_option=0*, option_flags=0*)
+ 10: 0x06EC [0x24] CREATE_DIALOG(message_id=7511*, default_option=0*, option_flags=0*)
     → "Agree to go to jail? [No way! Not on your life!/Well, OK. If you say so...]"
  11: 0x06F3 [0x25] WAIT_DIALOG_SELECT()
  12: 0x06F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0712
@@ -3051,10 +3051,10 @@ SUBROUTINE_0729:
 
 ```
   0: 0x072D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x0734 [0x1D] PRINT_EVENT_MESSAGE(message_id=7499*)
+  1: 0x0734 [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
     → "Personally, I don't want to rot in prison, you see...! So, it's inevitable that you're the one who'll take the fall for me."
   2: 0x0737 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0738 [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
+  3: 0x0738 [0x1D] PRINT_EVENT_MESSAGE(message_id=7501*)
     → "Hey, you were my accomplice, you know!? You cannot say that it's not so."
   4: 0x073B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x073C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -3082,10 +3082,10 @@ SUBROUTINE_0729:
 
 ```
   0: 0x0744 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x074B [0x1D] PRINT_EVENT_MESSAGE(message_id=7501*)
+  1: 0x074B [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
     → "If you recall, without pride or plom... you're the one who helped me cast a curse on that peeping Tom!"
   2: 0x074E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x074F [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
+  3: 0x074F [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
     → "You know...the Skeleton Dance curse, you cur!? I used your $4 and $5, along with my misery staff, to vex the voyeur."
   4: 0x0752 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0753 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -3114,10 +3114,10 @@ SUBROUTINE_0729:
 
 ```
   0: 0x075B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x0762 [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
+  1: 0x0762 [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
     → "Well, the truth is, that wasn't the "Skeleton Dance" curse I cast. It seems I did the old "Invoke the Grip of Death" curse, oh blast! (An honest mistake...that anyone would make...)"
   2: 0x0765 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0766 [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
+  3: 0x0766 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
     → "So, we actually have hexed the person to death, I fear. Quite a disagreeable aftertaste for an act of sweet vengeance, dear."
   4: 0x0769 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x076A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -3145,10 +3145,10 @@ SUBROUTINE_0729:
 
 ```
   0: 0x0772 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x0779 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
+  1: 0x0779 [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
     → "But maybe Death hasn't taken a complete hold of him yet. We might still have time to save him, so don't sweat!"
   2: 0x077C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x077D [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
+  3: 0x077D [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
     → "Oh, but to undo the curse, we'll need two $6, $7 and next... a lock of hair of the unfortunate person we hexed."
   4: 0x0780 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0781 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -3176,7 +3176,7 @@ SUBROUTINE_0729:
 
 ```
   0: 0x0789 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x0790 [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
+  1: 0x0790 [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
     → "$7 are quite hard to come by and it's impossible to remove a lock of the cursed person's hair without them noticing, I dread..."
   2: 0x0793 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0794 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -3204,7 +3204,7 @@ SUBROUTINE_0729:
 
 ```
   0: 0x079C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x07A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
+  1: 0x07A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
     → "So I guess we may as well give up on that plan and just have you take the blame for the both of us and go to jail instead!"
   2: 0x07A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x07A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -3233,7 +3233,7 @@ SUBROUTINE_0729:
 
 ```
   0: 0x07AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  1: 0x07B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7511*)
+  1: 0x07B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
     → "Ohoho! I'm glad you're so understanding. It makes matters as simple as you are, darling. All you have to do is go to the local gatehouse, confess to the crime, and turn yourself in."
   2: 0x07B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x07BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -3261,7 +3261,7 @@ SUBROUTINE_0729:
 
 ```
   0: 0x07C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x07)
-  1: 0x07C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
+  1: 0x07C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
     → "O`h! You're making me lose my temper, dear!"
   2: 0x07CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x07CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x08)
@@ -3289,10 +3289,10 @@ SUBROUTINE_0729:
 
 ```
   0: 0x07D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1D)
-  1: 0x07DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
+  1: 0x07DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
     → "Fine! If you want to avoid imprisonment, you'll just have to go find: two $6, $7, and a lock of hair of the cursed person...if you don't mind."
   2: 0x07DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x07E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+  3: 0x07E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
     → "If you can do that impossible feat, I'll smooth things over for you, nice and neat!"
   4: 0x07E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x07E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1E)
@@ -3324,10 +3324,10 @@ SUBROUTINE_0729:
   1: 0x07F1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x07F2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x07F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1D)
-  4: 0x07FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
+  4: 0x07FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
     → "If you want to avoid imprisonment, you'll just have to go find: two $6, $7, and a lock of hair of the cursed person...if you don't mind."
   5: 0x07FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x07FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  6: 0x07FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
     → "If you can do that impossible feat, I'll smooth things over for you, nice and neat!"
   7: 0x0801 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0802 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1E)
@@ -3399,7 +3399,7 @@ SUBROUTINE_0729:
 
 ```
   0: 0x085D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x07)
-  1: 0x0864 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  1: 0x0864 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "Oh, wow! You really found all the things we need...but how?"
   2: 0x0867 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0868 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x08)
@@ -3428,12 +3428,12 @@ SUBROUTINE_0729:
 
 ```
   0: 0x0870 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x0877 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  1: 0x0877 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "Oh, and gee...! You even managed to obtain the hair, I see... Which means he's still alive, and well, is he?"
   2: 0x087A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x087B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
   4: 0x0882 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  5: 0x0889 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
+  5: 0x0889 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "Which means neither of us need to go to jail after all! Ohoho! I'm so glad I don't have to wear a chain and ball."
   6: 0x088C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x088D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -3461,10 +3461,10 @@ SUBROUTINE_0729:
 
 ```
   0: 0x0895 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x089C [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
+  1: 0x089C [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
     → "Here. Let me remove that nasty curse without a moment's delay. For even as we speak, the seconds to his death are still ticking away..."
   2: 0x089F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x08A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
+  3: 0x08A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
     → "I hope I'm not too late, dearie... Here it goes... Wha`mm`y!!!"
   4: 0x08A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x08A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -3493,10 +3493,10 @@ SUBROUTINE_0729:
 
 ```
   0: 0x08AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  1: 0x08B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+  1: 0x08B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
     → "...Ohoho. Well, that cleared that right up."
   2: 0x08B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x08B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  3: 0x08B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "I'm glad I've a knack for undoing hexes. It sure gets me out of such little vexes."
   4: 0x08BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x08BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -3525,12 +3525,12 @@ SUBROUTINE_0729:
 
 ```
   0: 0x08C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
-  1: 0x08CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+  1: 0x08CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "Anyway, I've had enough of cursing for the time being. Here, I'll give you this Misery Staff...if you're agreeing."
   2: 0x08CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
   4: 0x08D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0B)
-  5: 0x08DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+  5: 0x08DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "After all, it won't hurt to dispose of the evidence. Especially if the victim takes offense...ohohoho!"
   6: 0x08DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x08E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0C)
@@ -3562,10 +3562,10 @@ SUBROUTINE_0729:
   1: 0x08ED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x08EE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x08EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  4: 0x08F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+  4: 0x08F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "Ohoho! Don't get angry with me for that little disgrace. It was the Orastery's mages who found that miserable staff in the first place."
   5: 0x08F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x08FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+  6: 0x08FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
     → "But don't you worry about it. Control your lividity. I'll make sure they pay dearly for their stupidity. Ohohohoho!"
   7: 0x08FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x08FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -3610,7 +3610,7 @@ SUBROUTINE_0729:
   3: 0x0910 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
   4: 0x0917 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x66)
   5: 0x091E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x67)
-  6: 0x0925 [0x24] CREATE_DIALOG(message_id=8105*, default_option=0*, option_flags=0*)
+  6: 0x0925 [0x24] CREATE_DIALOG(message_id=8106*, default_option=0*, option_flags=0*)
     → "Introduce a black mage friend to her? [Of course!/Ask if you're worthy.]"
   7: 0x092C [0x25] WAIT_DIALOG_SELECT()
   8: 0x092D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0944
@@ -3621,12 +3621,12 @@ SUBROUTINE_0729:
  13: 0x094C [0x03] Work_Zone[1] = 0*
  14: 0x0951 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x69)
  15: 0x0958 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x6A)
- 16: 0x095F [0x24] CREATE_DIALOG(message_id=8112*, default_option=0*, option_flags=0*)
+ 16: 0x095F [0x24] CREATE_DIALOG(message_id=8113*, default_option=0*, option_flags=0*)
     → "Act like a total loser should? [Yes, mommy./Whatchu talkin' 'bout Shantotto?]"
  17: 0x0966 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0967 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0989
  19: 0x096F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 20: 0x0976 [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
+ 20: 0x0976 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
     → "Ohoho! I am so evil!"
  21: 0x0979 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x097A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -3670,7 +3670,7 @@ SUBROUTINE_09B9:
 #### Opcodes
 
 ```
-  0: 0x09BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
+  0: 0x09BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
     → "Ah, it's you again, my dear. And to tell you the truth, I'm glad you're here."
   1: 0x09C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09C1 [0x00] END_REQSTACK()
@@ -3698,12 +3698,12 @@ SUBROUTINE_09B9:
 
 ```
   0: 0x09C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x03)
-  1: 0x09C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+  1: 0x09C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "Right now I am looking for someone who can do me a favor... Namely, anyone who can manage to reach the Beaucedine Glacier."
   2: 0x09CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x09CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x04)
   4: 0x09D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x05)
-  5: 0x09DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
+  5: 0x09DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
     → "Do you have a friend who is a black mage? One worthy of meeting me, the "Great Sage"?"
   6: 0x09DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x09DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x06)
@@ -3732,12 +3732,12 @@ SUBROUTINE_09B9:
 
 ```
   0: 0x09E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0B)
-  1: 0x09EE [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
+  1: 0x09EE [0x1D] PRINT_EVENT_MESSAGE(message_id=8107*)
     → "When you see that friend, tell them to hurry. There is no need for you to accompany them, so please don't worry."
   2: 0x09F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x09F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0C)
   4: 0x09F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  5: 0x0A00 [0x1D] PRINT_EVENT_MESSAGE(message_id=8107*)
+  5: 0x0A00 [0x1D] PRINT_EVENT_MESSAGE(message_id=8108*)
     → "Now, off with you, dear, my schedule is very tight. Ohoho-whoo! I have no time to waste changing the diapers of total losers like you."
   6: 0x0A03 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0A04 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -3767,12 +3767,12 @@ SUBROUTINE_09B9:
 
 ```
   0: 0x0A0C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x07)
-  1: 0x0A13 [0x1D] PRINT_EVENT_MESSAGE(message_id=8108*)
+  1: 0x0A13 [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
     → "Yo`u!?"
   2: 0x0A16 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0A17 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x08)
   4: 0x0A1E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  5: 0x0A25 [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
+  5: 0x0A25 [0x1D] PRINT_EVENT_MESSAGE(message_id=8110*)
     → "Ohohohohoho! A marvelous joke! Ohoho! You adventurers are such amusing folk!"
   6: 0x0A28 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0A29 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -3799,11 +3799,11 @@ SUBROUTINE_09B9:
 #### Opcodes
 
 ```
-  0: 0x0A31 [0x1D] PRINT_EVENT_MESSAGE(message_id=8110*)
+  0: 0x0A31 [0x1D] PRINT_EVENT_MESSAGE(message_id=8111*)
     → "The place is terrible, as far as I can tell. From the beasts to the weather, the Northlands are a snow-white hell."
   1: 0x0A34 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0A35 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0B)
-  3: 0x0A3C [0x1D] PRINT_EVENT_MESSAGE(message_id=8111*)
+  3: 0x0A3C [0x1D] PRINT_EVENT_MESSAGE(message_id=8112*)
     → "It's a place where an onion adventurer like you could perish, and you probably would. So, go on home now, and act like a total loser should."
   4: 0x0A3F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0A40 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0C)
@@ -3831,7 +3831,7 @@ SUBROUTINE_09B9:
 
 ```
   0: 0x0A48 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  1: 0x0A4F [0x1D] PRINT_EVENT_MESSAGE(message_id=8113*)
+  1: 0x0A4F [0x1D] PRINT_EVENT_MESSAGE(message_id=8114*)
     → "Ohoho! Well, I expected you to step back and cower. But, I guess I will put a little faith into your loser power."
   2: 0x0A52 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0A53 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -3860,10 +3860,10 @@ SUBROUTINE_09B9:
 
 ```
   0: 0x0A5B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x0A62 [0x1D] PRINT_EVENT_MESSAGE(message_id=8114*)
+  1: 0x0A62 [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
     → "You know of those magic towers in Sarutabaruta? Well, the Beaucedine Glacier has some, too. Go there and you will find researchers working with the Rhinostery minister, Rukususu."
   2: 0x0A65 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
+  3: 0x0A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
     → "I want you to ask her something, if you'd be so kind. Please inquire if that new magic of mine is working fine."
   4: 0x0A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0A6A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -3889,7 +3889,7 @@ SUBROUTINE_09B9:
 #### Opcodes
 
 ```
-  0: 0x0A72 [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
+  0: 0x0A72 [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
     → "Oh, and one more thing I'd like you to tell her before you come back to Windurst... Tell her if she doesn't reply soon, she'll find herself cursed."
   1: 0x0A75 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0A76 [0x00] END_REQSTACK()
@@ -3916,7 +3916,7 @@ SUBROUTINE_09B9:
 
 ```
   0: 0x0A77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  1: 0x0A7E [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
+  1: 0x0A7E [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
     → "Ohoho! Rukususu is terrified of onions and ghosts. So, I'll conjure up a curse with the things she hates the most."
   2: 0x0A81 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0A82 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -3949,15 +3949,15 @@ SUBROUTINE_09B9:
   1: 0x0A8F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A90 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A91 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x0A98 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
+  4: 0x0A98 [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
     → "You know of those magic towers in Sarutabaruta? Well, the Beaucedine Glacier has some, too. Go there and you will find researchers working with the Rhinostery minister, Rukususu."
   5: 0x0A9B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A9C [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
+  6: 0x0A9C [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
     → "I want you to ask her something, if you'd be so kind. Please inquire if that new magic of mine is working fine."
   7: 0x0A9F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0AA0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
   9: 0x0AA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 10: 0x0AAE [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
+ 10: 0x0AAE [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
     → "Oh, and one more thing I'd like you to tell her before you come back to Windurst... Tell her if she doesn't reply soon, she'll find herself cursed."
  11: 0x0AB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0AB2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -4037,13 +4037,13 @@ SUBROUTINE_09B9:
  13: 0x0AF6 [0x1C] WAIT(300* ticks)
  14: 0x0AF9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s109" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  15: 0x0B0A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 16: 0x0B1B [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
+ 16: 0x0B1B [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
     → "Dear, did you come to apologize for your failure?"
  17: 0x0B1E [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0B1F [0x52] END_LOAD_SCHEDULER: End scheduler "s109" with entities [LocalPlayer, LocalPlayer], work=139*
  19: 0x0B2E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  20: 0x0B3F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 21: 0x0B46 [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+ 21: 0x0B46 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "Ohoho! My new curse will work just as fine on you, I'm sure."
  22: 0x0B49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0B4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -4052,11 +4052,11 @@ SUBROUTINE_09B9:
  26: 0x0B65 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s111" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  27: 0x0B76 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  28: 0x0B87 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0B96
- 29: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+ 29: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "What is this you're saying? The tome vanishes after fighting the golems in Fei'Yin?"
  30: 0x0B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0B93 [0x01] GOTO 0x0B9A
- 32: 0x0B96 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
+ 32: 0x0B96 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
     → "I doubt a total loser like you would have noticed if it was true what they were saying... But I wonder if that magic tome really vanishes when you fight the golems in Fei'Yin..."
  33: 0x0B99 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4064,7 +4064,7 @@ SUBROUTINE_0B9A:
  34: 0x0B9A [0x52] END_LOAD_SCHEDULER: End scheduler "s111" with entities [LocalPlayer, LocalPlayer], work=139*
  35: 0x0BA9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s109" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  36: 0x0BBA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x07)
- 37: 0x0BC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+ 37: 0x0BC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "Those brutes don't know what a nuisance they're being!"
  38: 0x0BC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0BC5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x08)
@@ -4074,18 +4074,18 @@ SUBROUTINE_0B9A:
  43: 0x0BEB [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shantotto (ID: 17756186/0x010EF01A))
  44: 0x0BF1 [0x52] END_LOAD_SCHEDULER: End scheduler "s112" with entities [LocalPlayer, LocalPlayer], work=139*
  45: 0x0C00 [0x4B] UPDATE_ENTITY_YAW(entity=Shantotto (ID: 17756186/0x010EF01A), yaw=15.2°*)
- 46: 0x0C07 [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
+ 46: 0x0C07 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
     → "So, how was Rukususu, the old air-head? For being deathly afraid of the undead, she's sure spent much time away from her Windurstian bed."
  47: 0x0C0A [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0C0B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  49: 0x0C1C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x03)
- 50: 0x0C23 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+ 50: 0x0C23 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "It must be the thought of getting revenge...I dread... for what happened to her professor, Iru-Kuiru, that drives her instead."
  51: 0x0C26 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0C27 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x04)
  53: 0x0C2E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x05)
  54: 0x0C35 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x06)
- 55: 0x0C3C [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+ 55: 0x0C3C [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "I guess I must present you with a reward for your deed. I will bestow upon you my special magic, which I'm sure you'll need."
  56: 0x0C3F [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0C40 [0x27] REQ_SET(priority=0x0B, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x72)
@@ -4189,12 +4189,12 @@ SUBROUTINE_0B9A:
 
 ```
   0: 0x0D16 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0D)
-  1: 0x0D1D [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
+  1: 0x0D1D [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
     → "Ohoho! This version should stand up to even the strongest golem magic."
   2: 0x0D20 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D21 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0E)
   4: 0x0D28 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  5: 0x0D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
+  5: 0x0D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
     → "Use it well, and maybe your days as a total loser won't be so tragic."
   6: 0x0D32 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0D33 [0x00] END_REQSTACK()
@@ -4225,10 +4225,10 @@ SUBROUTINE_0B9A:
   1: 0x0D39 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0D3A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0D3B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  4: 0x0D42 [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
+  4: 0x0D42 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
     → "Ohoho! Have you been using my magic?"
   5: 0x0D45 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0D46 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+  6: 0x0D46 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "Use it well, and maybe your days as a total loser won't be so tragic."
   7: 0x0D49 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0D4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -4290,7 +4290,7 @@ SUBROUTINE_0B9A:
 
 ```
   0: 0x0D75 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  1: 0x0D7C [0x1D] PRINT_EVENT_MESSAGE(message_id=7625*)
+  1: 0x0D7C [0x1D] PRINT_EVENT_MESSAGE(message_id=7626*)
     → "Ohoho! Your reason for bargy-wargying into my home like this had better be fitting."
   2: 0x0D7F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D80 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -4319,12 +4319,12 @@ SUBROUTINE_0B9A:
 
 ```
   0: 0x0D88 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  1: 0x0D8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7626*)
+  1: 0x0D8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7627*)
     → "Alchemy? Ohohoho! You've got to be kidding!"
   2: 0x0D92 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D93 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
   4: 0x0D9A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  5: 0x0DA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7627*)
+  5: 0x0DA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7628*)
     → "There is no place for such circus tricks in Windurst! Just the talk of the subject makes my side burst!"
   6: 0x0DA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0DA5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -4354,12 +4354,12 @@ SUBROUTINE_0B9A:
 
 ```
   0: 0x0DAD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  1: 0x0DB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7628*)
+  1: 0x0DB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
     → "Long ago, there was a student who did give the crazy subject a try..."
   2: 0x0DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0DB8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
   4: 0x0DBF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
-  5: 0x0DC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
+  5: 0x0DC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
     → "Well, if I was a professor at the School of Magic, I would fail that lunatic in the blink of an eye!"
   6: 0x0DC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0DCA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
@@ -4391,10 +4391,10 @@ SUBROUTINE_0B9A:
   1: 0x0DD7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0DD8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0DD9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x0DE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8309*)
+  4: 0x0DE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8310*)
     → "You haven't forgotten about our business at the star tree, have you, you big lard?"
   5: 0x0DE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8310*)
+  6: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8311*)
     → "Throw $2 into the aurora crevice in Xarcabard. Then, take the $1 that comes out to Chumimi... That isn't so hard."
   7: 0x0DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0DE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -4428,10 +4428,10 @@ SUBROUTINE_0B9A:
   1: 0x0DF8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0DF9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0DFA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x0E01 [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
+  4: 0x0E01 [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
     → "How many times must I inform you of your task? Go to Castle Zvahl, and find that magic doll, blast! It's probably in one of the rooms there, if you must ask."
   5: 0x0E04 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0E05 [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
+  6: 0x0E05 [0x1D] PRINT_EVENT_MESSAGE(message_id=8318*)
     → "And when you retrieve it, do not bring it to me, please. Take it straight to the Tarutaru in Heavens Tower who are raising the little star trees."
   7: 0x0E08 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0E09 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -4500,13 +4500,13 @@ SUBROUTINE_0B9A:
  14: 0x0E50 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s109" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  15: 0x0E61 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x0E72 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x07)
- 17: 0x0E79 [0x1D] PRINT_EVENT_MESSAGE(message_id=8842*)
+ 17: 0x0E79 [0x1D] PRINT_EVENT_MESSAGE(message_id=8843*)
     → "You said something!? You've collected all five of the minister rings!?"
  18: 0x0E7C [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0E7D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x08)
  20: 0x0E84 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  21: 0x0E95 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
- 22: 0x0E9C [0x1D] PRINT_EVENT_MESSAGE(message_id=8843*)
+ 22: 0x0E9C [0x1D] PRINT_EVENT_MESSAGE(message_id=8844*)
     → "...Well, well, well. I never believed you would actually get them all. Come on then, let's have a look at them, don't stall."
  23: 0x0E9F [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0EA0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4515,7 +4515,7 @@ SUBROUTINE_0B9A:
  27: 0x0EBB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s111" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  28: 0x0ECC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  29: 0x0EDD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
- 30: 0x0EE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8844*)
+ 30: 0x0EE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8845*)
     → "This $3 is worthless. It looks like $6 from an older age, more or less."
  31: 0x0EE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0EE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -4523,13 +4523,13 @@ SUBROUTINE_0B9A:
  34: 0x0EFE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  35: 0x0F0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s109" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  36: 0x0F20 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x03)
- 37: 0x0F27 [0x1D] PRINT_EVENT_MESSAGE(message_id=8845*)
+ 37: 0x0F27 [0x1D] PRINT_EVENT_MESSAGE(message_id=8846*)
     → "This mission will create quite a stir. We must involve Minister Apururu and all the ministers."
  38: 0x0F2A [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0F2B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x04)
  40: 0x0F32 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s112" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  41: 0x0F43 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x05)
- 42: 0x0F4A [0x1D] PRINT_EVENT_MESSAGE(message_id=8846*)
+ 42: 0x0F4A [0x1D] PRINT_EVENT_MESSAGE(message_id=8847*)
     → "The Minister of the Optistery is the oldest and most stubborn of the lot. Make sure you get the $3 from that old crack-pot."
  43: 0x0F4D [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0F4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4616,13 +4616,13 @@ SUBROUTINE_0B9A:
  17: 0x0FD5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s109" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  18: 0x0FE6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x0FF7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x07)
- 20: 0x0FFE [0x1D] PRINT_EVENT_MESSAGE(message_id=8842*)
+ 20: 0x0FFE [0x1D] PRINT_EVENT_MESSAGE(message_id=8843*)
     → "You said something!? You've collected all five of the minister rings!?"
  21: 0x1001 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x1002 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x08)
  23: 0x1009 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  24: 0x101A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
- 25: 0x1021 [0x1D] PRINT_EVENT_MESSAGE(message_id=8843*)
+ 25: 0x1021 [0x1D] PRINT_EVENT_MESSAGE(message_id=8844*)
     → "...Well, well, well. I never believed you would actually get them all. Come on then, let's have a look at them, don't stall."
  26: 0x1024 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x1025 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4630,20 +4630,20 @@ SUBROUTINE_0B9A:
  29: 0x1039 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
  30: 0x1040 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s111" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  31: 0x1051 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 32: 0x1062 [0x1D] PRINT_EVENT_MESSAGE(message_id=8847*)
+ 32: 0x1062 [0x1D] PRINT_EVENT_MESSAGE(message_id=8848*)
     → "...You've done well. But the fact that a ragtag adventurer such as you could bring together all five rings... Something about that just chills my bones and makes me cringe."
  33: 0x1065 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x1066 [0x52] END_LOAD_SCHEDULER: End scheduler "s111" with entities [LocalPlayer, LocalPlayer], work=139*
  35: 0x1075 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  36: 0x1086 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s109" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  37: 0x1097 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
- 38: 0x109E [0x1D] PRINT_EVENT_MESSAGE(message_id=8848*)
+ 38: 0x109E [0x1D] PRINT_EVENT_MESSAGE(message_id=8849*)
     → "This undertaking will most likely leave a mark on Windurst's history."
  39: 0x10A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x10A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
  41: 0x10A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s112" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  42: 0x10BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x03)
- 43: 0x10C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8849*)
+ 43: 0x10C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8850*)
     → "And now that we have all of the ministers in on the act, Apururu won't have to shoulder all the blame, will she?"
  44: 0x10C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x10C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x04)
@@ -4651,13 +4651,13 @@ SUBROUTINE_0B9A:
  47: 0x10DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  48: 0x10EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  49: 0x10FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x05)
- 50: 0x1104 [0x1D] PRINT_EVENT_MESSAGE(message_id=8850*)
+ 50: 0x1104 [0x1D] PRINT_EVENT_MESSAGE(message_id=8851*)
     → "...Right, then. Let's complete the final preparations."
  51: 0x1107 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x1108 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  53: 0x1119 [0x1C] WAIT(100* ticks)
  54: 0x111C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x06)
- 55: 0x1123 [0x1D] PRINT_EVENT_MESSAGE(message_id=8851*)
+ 55: 0x1123 [0x1D] PRINT_EVENT_MESSAGE(message_id=8852*)
     → "Hocus-pocus circularum-focus!"
  56: 0x1126 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x1127 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [EventEntity, EventEntity], work=[14*, 0*]
@@ -4665,7 +4665,7 @@ SUBROUTINE_0B9A:
  59: 0x113B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
  60: 0x1142 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s109" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  61: 0x1153 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 62: 0x1164 [0x1D] PRINT_EVENT_MESSAGE(message_id=8852*)
+ 62: 0x1164 [0x1D] PRINT_EVENT_MESSAGE(message_id=8853*)
     → "Ohohoho! Behold, the forbidden $3! Now all that's left is for you to take this to Apururu."
  63: 0x1167 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x1168 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4706,16 +4706,16 @@ SUBROUTINE_0B9A:
   1: 0x11B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x11B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x11B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x11BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8853*)
+  4: 0x11BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8854*)
     → "Wearing all five ministry rings at once is something I wouldn't recommend. The combined power consumes your body and you go up in flames--meaning your end."
   5: 0x11BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x11BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
   7: 0x11C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  8: 0x11CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8854*)
+  8: 0x11CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8855*)
     → "To prevent this, I have created the $3. I've always wanted to try out this power for myself, but Karaha-Baruha would never lend me his $3..."
   9: 0x11CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x11D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
- 11: 0x11D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8855*)
+ 11: 0x11D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8856*)
     → "Ooh! Just thinking about that makes me want to lash out and curse someone! If only I'd had that $3 back then... Oh, what I would have done!"
  12: 0x11DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x11DB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4753,30 +4753,30 @@ SUBROUTINE_0B9A:
   1: 0x11E4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x11E5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x11E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  4: 0x11ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8858*)
+  4: 0x11ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8859*)
     → "Ohohohoho! It looks like my $3 had the desired effect!"
   5: 0x11F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x11F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
   7: 0x11F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  8: 0x11FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8859*)
+  8: 0x11FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8860*)
     → "Ajido-Marujido's failure to regain consciousness is the only slight complication I was able to detect..."
   9: 0x1202 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1203 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
  11: 0x120A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
- 12: 0x1211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8860*)
+ 12: 0x1211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8861*)
     → "But you don't need to go and start worrying. Why, it would take more than that to finish off a mage that had survived my tutelage and training!"
  13: 0x1214 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1215 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
- 15: 0x121C [0x1D] PRINT_EVENT_MESSAGE(message_id=8861*)
+ 15: 0x121C [0x1D] PRINT_EVENT_MESSAGE(message_id=8862*)
     → "...Now, about the $3."
  16: 0x121F [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1220 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
- 18: 0x1227 [0x1D] PRINT_EVENT_MESSAGE(message_id=8862*)
+ 18: 0x1227 [0x1D] PRINT_EVENT_MESSAGE(message_id=8863*)
     → "Due to a slight miscalculation on my part, the rings have become fused to the glove, I see. But don't worry. With a few twists, I'll soon have them free."
  19: 0x122A [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x122B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
  21: 0x1232 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 22: 0x1239 [0x1D] PRINT_EVENT_MESSAGE(message_id=8863*)
+ 22: 0x1239 [0x1D] PRINT_EVENT_MESSAGE(message_id=8864*)
     → "I'll just hold on to the ministry rings for a little while longer. Ohohoho!"
  23: 0x123C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x123D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -4813,22 +4813,22 @@ SUBROUTINE_0B9A:
   1: 0x124D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x124E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x124F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x1256 [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
+  4: 0x1256 [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
     → "You want to know where to find Sunny-Pabonny? How am I supposed to know where he is at?"
   5: 0x1259 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x125A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
   7: 0x1261 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x03)
-  8: 0x1268 [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
+  8: 0x1268 [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
     → "He went off last month... Or was it earlier than that?"
   9: 0x126B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x126C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x04)
  11: 0x1273 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x05)
- 12: 0x127A [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
+ 12: 0x127A [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
     → "Anyway, he went to San d'Oria to find some sort of armor, and I haven't heard from him since."
  13: 0x127D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x127E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x06)
  15: 0x1285 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 16: 0x128C [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
+ 16: 0x128C [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
     → "Ohohoho! He'll show up when you least expect it, I'm convinced."
  17: 0x128F [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1290 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -4864,12 +4864,12 @@ SUBROUTINE_0B9A:
   2: 0x12A1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x12A2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x12A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
-  5: 0x12AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8998*)
+  5: 0x12AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8999*)
     → "I can't stand waiting here, sitting on our hands. It's taken months to reconstruct those plans. Months to decipher the code. Months to journy this far down the road..."
   6: 0x12AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x12AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
   8: 0x12B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1D)
-  9: 0x12BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8999*)
+  9: 0x12BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9000*)
     → "How long is it going to take until the brilliant armor designed by Karaha-Baruha is done!?"
  10: 0x12BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x12C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1E)
@@ -4905,17 +4905,17 @@ SUBROUTINE_0B9A:
   1: 0x12D0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x12D1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x12D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
-  4: 0x12D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+  4: 0x12D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
     → "How disappointing. Ajido-Marujido woke up on his own before I could think of some new spells to fling."
   5: 0x12DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x12DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
   7: 0x12E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  8: 0x12EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
+  8: 0x12EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
     → "I'm achy-waking to grill him on what he saw in the Book of the Gods, but I supppose I'll give him some time to recover."
   9: 0x12EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x12EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
  11: 0x12F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 12: 0x12FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+ 12: 0x12FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "The word "restraint" doesn'taru exist in my dictionary, you'll discover. Ohohoho!"
  13: 0x1300 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1301 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -4953,22 +4953,22 @@ SUBROUTINE_0B9A:
   2: 0x1312 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x1313 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x1314 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
-  5: 0x131B [0x1D] PRINT_EVENT_MESSAGE(message_id=9050*)
+  5: 0x131B [0x1D] PRINT_EVENT_MESSAGE(message_id=9051*)
     → "Ah, it's such a waste. Such a wonderful glove that can never be replaced."
   6: 0x131E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x131F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
   8: 0x1326 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x03)
-  9: 0x132D [0x1D] PRINT_EVENT_MESSAGE(message_id=9051*)
+  9: 0x132D [0x1D] PRINT_EVENT_MESSAGE(message_id=9052*)
     → "I would have gladly blasty-wasted a hundred people to keep it mine to use... But since Apururu offered me three years' worth of the Manustery's budgetaru, how could I refuse?"
  10: 0x1330 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1331 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x04)
  12: 0x1338 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x05)
- 13: 0x133F [0x1D] PRINT_EVENT_MESSAGE(message_id=9052*)
+ 13: 0x133F [0x1D] PRINT_EVENT_MESSAGE(message_id=9053*)
     → "Things have worked out for the bestaru. I'm not even upset that I wasn't called to join the Full Moon Fountain battle."
  14: 0x1342 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x1343 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x06)
  16: 0x134A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 17: 0x1351 [0x1D] PRINT_EVENT_MESSAGE(message_id=9053*)
+ 17: 0x1351 [0x1D] PRINT_EVENT_MESSAGE(message_id=9054*)
     → "I'll just weave some curses to give their nerves a little rattle. Ohohohoho!"
  18: 0x1354 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x1355 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -5037,28 +5037,28 @@ SUBROUTINE_0B9A:
  17: 0x13A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s112" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  18: 0x13BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x13CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
- 20: 0x13D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9067*)
+ 20: 0x13D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9068*)
     → "You there. You appear to carry yourself with a certain flair."
  21: 0x13D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x13D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9068*)
+ 22: 0x13D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9069*)
     → "The snap in the wrist, a sturdy arm. Your breathing, controlled and calm..."
  23: 0x13D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x13DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
  25: 0x13E1 [0x52] END_LOAD_SCHEDULER: End scheduler "s112" with entities [LocalPlayer, LocalPlayer], work=139*
  26: 0x13F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s113" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  27: 0x1401 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0B)
- 28: 0x1408 [0x1D] PRINT_EVENT_MESSAGE(message_id=9069*)
+ 28: 0x1408 [0x1D] PRINT_EVENT_MESSAGE(message_id=9070*)
     → "Justaru the type for wielding heavy, blunt, pain-inflictaruing objects... I would even go so far as to say you were born to swing the staff. You'll be the perfect addition to my team of test subjects!"
  29: 0x140B [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x140C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0C)
  31: 0x1413 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0D)
- 32: 0x141A [0x1D] PRINT_EVENT_MESSAGE(message_id=9070*)
+ 32: 0x141A [0x1D] PRINT_EVENT_MESSAGE(message_id=9071*)
     → "For someone like you, I have just the thing. Here's a new toy. Go on, give it a swing!"
  33: 0x141D [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x141E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0E)
  35: 0x1425 [0x52] END_LOAD_SCHEDULER: End scheduler "s113" with entities [LocalPlayer, LocalPlayer], work=139*
  36: 0x1434 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
- 37: 0x1445 [0x1D] PRINT_EVENT_MESSAGE(message_id=9071*)
+ 37: 0x1445 [0x1D] PRINT_EVENT_MESSAGE(message_id=9072*)
     → "Beyond what you'd expect? The rightaru length, the rightaru weight, and the balance is perfect... What you now hold is my made-to-order, specialized training staff!"
  38: 0x1448 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x1449 [0x4B] UPDATE_ENTITY_YAW(entity=Shantotto (ID: 17756186/0x010EF01A), yaw=15.9°*)
@@ -5066,7 +5066,7 @@ SUBROUTINE_0B9A:
  41: 0x1451 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shantotto (ID: 17756186/0x010EF01A) Render.Flags0 and Render.Flags3 conditions are met
  42: 0x1456 [0x1C] WAIT(10* ticks)
  43: 0x1459 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 44: 0x1460 [0x1D] PRINT_EVENT_MESSAGE(message_id=9072*)
+ 44: 0x1460 [0x1D] PRINT_EVENT_MESSAGE(message_id=9073*)
     → "Don'taru just stand there like a doe-eyed calf! Go out and pound with that pole until you can pound no more! Go on! Shoo! What are you waiting for? Ohohohohohohoho!"
  45: 0x1463 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x1464 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -5123,17 +5123,17 @@ SUBROUTINE_0B9A:
   0: 0x14B5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x14BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x14BB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x14BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9073*)
+  3: 0x14BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9074*)
     → "What's this? There's no chat-watting during training. Is something amiss?"
   4: 0x14BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x14C0 [0x03] Work_Zone[1] = 0*
-  6: 0x14C5 [0x24] CREATE_DIALOG(message_id=9074*, default_option=0*, option_flags=Work_Zone[6])
+  6: 0x14C5 [0x24] CREATE_DIALOG(message_id=9075*, default_option=0*, option_flags=Work_Zone[6])
     → "Is something amiss? [No, everything's justaru fine./I lostaru the $1.../I can'taru go on.]"
   7: 0x14CC [0x25] WAIT_DIALOG_SELECT()
   8: 0x14CD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14EF
   9: 0x14D5 [0x03] Work_Zone[1] = 0*
  10: 0x14DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 11: 0x14E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9084*)
+ 11: 0x14E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9085*)
     → "When that staff can be swung no more, bring it here to me. Now get back out there and train harder, my little prodigy! Ohohoho!"
  12: 0x14E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x14E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -5142,17 +5142,17 @@ SUBROUTINE_0B9A:
  16: 0x14F7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  17: 0x14F8 [0x03] Work_Zone[1] = 1*
  18: 0x14FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x07)
- 19: 0x1504 [0x1D] PRINT_EVENT_MESSAGE(message_id=9075*)
+ 19: 0x1504 [0x1D] PRINT_EVENT_MESSAGE(message_id=9076*)
     → "You lostaru it!?"
  20: 0x1507 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x1508 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x08)
  22: 0x150F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
- 23: 0x1516 [0x1D] PRINT_EVENT_MESSAGE(message_id=9076*)
+ 23: 0x1516 [0x1D] PRINT_EVENT_MESSAGE(message_id=9077*)
     → "Let me think for a bit. Could you perhaps have been swing-winging too hard? I myself have been known to send a staff flying into someone's backyard."
  24: 0x1519 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x151A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
  26: 0x1521 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 27: 0x1528 [0x1D] PRINT_EVENT_MESSAGE(message_id=9077*)
+ 27: 0x1528 [0x1D] PRINT_EVENT_MESSAGE(message_id=9078*)
     → "Well, it's good to see that you have fight-smiting spirit. Even if you are somewhat lacking in wit. Ohohoho!"
  28: 0x152B [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x152C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -5160,33 +5160,33 @@ SUBROUTINE_0B9A:
  31: 0x1536 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x15C9
  32: 0x153E [0x03] Work_Zone[1] = 2*
  33: 0x1543 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x07)
- 34: 0x154A [0x1D] PRINT_EVENT_MESSAGE(message_id=9078*)
+ 34: 0x154A [0x1D] PRINT_EVENT_MESSAGE(message_id=9079*)
     → "You're giving up!?"
  35: 0x154D [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x154E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x08)
- 37: 0x1555 [0x24] CREATE_DIALOG(message_id=9079*, default_option=1*, option_flags=0*)
+ 37: 0x1555 [0x24] CREATE_DIALOG(message_id=9080*, default_option=1*, option_flags=0*)
     → "Give up on the quest? [I've had enough./Not just yet.]"
  38: 0x155C [0x25] WAIT_DIALOG_SELECT()
  39: 0x155D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15B6
  40: 0x1565 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  41: 0x1566 [0x03] Work_Zone[1] = 3*
  42: 0x156B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x03)
- 43: 0x1572 [0x1D] PRINT_EVENT_MESSAGE(message_id=9080*)
+ 43: 0x1572 [0x1D] PRINT_EVENT_MESSAGE(message_id=9081*)
     → "This kind of specialized training is not for everyone. Only the very bestaru staff-wielders are left standing when the day is done."
  44: 0x1575 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x1576 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x04)
  46: 0x157D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x05)
- 47: 0x1584 [0x1D] PRINT_EVENT_MESSAGE(message_id=9081*)
+ 47: 0x1584 [0x1D] PRINT_EVENT_MESSAGE(message_id=9082*)
     → "I understand your position. Allow me to leave you with these words of wisdom:"
  48: 0x1587 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x1588 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x06)
  50: 0x158F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1D)
- 51: 0x1596 [0x1D] PRINT_EVENT_MESSAGE(message_id=9082*)
+ 51: 0x1596 [0x1D] PRINT_EVENT_MESSAGE(message_id=9083*)
     → "Give up, you loser! Throw that staff away! That poor length of wood mustaru be ashamed to be swung by such a wimp, anyway!"
  52: 0x1599 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x159A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1E)
  54: 0x15A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 55: 0x15A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9083*)
+ 55: 0x15A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9084*)
     → "Ohohoho! I'm really getting the hang of this evil coach deal! You get rid of that staff, and this time it's over for real."
  56: 0x15AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x15AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -5229,7 +5229,7 @@ SUBROUTINE_15C9:
   1: 0x15D2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x15D3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x15D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x15DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9085*)
+  4: 0x15DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9086*)
     → "What's this I see? Justaru glancing at that staff tells me your training lacks intensity!"
   5: 0x15DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x15DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -5327,12 +5327,12 @@ SUBROUTINE_16BB:
  33: 0x16D1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  34: 0x16D2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  35: 0x16D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
- 36: 0x16DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9086*)
+ 36: 0x16DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9087*)
     → "Oho! You've done a masterful job of demolishing that staff! After watching your maniacal training, I hope your friends were still able to laugh..."
  37: 0x16DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x16DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
  39: 0x16E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
- 40: 0x16EC [0x1D] PRINT_EVENT_MESSAGE(message_id=9087*)
+ 40: 0x16EC [0x1D] PRINT_EVENT_MESSAGE(message_id=9088*)
     → "Well, your friends are not importantaru now. Let's see what you've learned. Show me some ka-pow!"
  41: 0x16EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x16F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
@@ -5353,12 +5353,12 @@ SUBROUTINE_16BB:
 SUBROUTINE_176E:
  56: 0x176E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s113" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  57: 0x177F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0D)
- 58: 0x1786 [0x1D] PRINT_EVENT_MESSAGE(message_id=9088*)
+ 58: 0x1786 [0x1D] PRINT_EVENT_MESSAGE(message_id=9089*)
     → "The test of your newfound proficiency will take place at the Cauldron of Ifrit. Make sure to bring back $6, and try not to get turned into mincemeat."
  59: 0x1789 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x178A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0E)
  61: 0x1791 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 62: 0x1798 [0x1D] PRINT_EVENT_MESSAGE(message_id=9089*)
+ 62: 0x1798 [0x1D] PRINT_EVENT_MESSAGE(message_id=9090*)
     → "Train hard, and ka-blam, you've suddenly learned a new technique. That's what tests are greataru for--along with my detailed critique. Ohohohoho!"
  63: 0x179B [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x179C [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -5452,7 +5452,7 @@ SUBROUTINE_176E:
   2: 0x180B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x180C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x03)
   4: 0x1813 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
-  5: 0x181A [0x1D] PRINT_EVENT_MESSAGE(message_id=9090*)
+  5: 0x181A [0x1D] PRINT_EVENT_MESSAGE(message_id=9091*)
     → "The time for the test is upon you. Journey to Ifrit's Cauldron and discover that new skill. Ta-taru!"
   6: 0x181D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x181E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -5528,23 +5528,23 @@ SUBROUTINE_176E:
  16: 0x186F [0x1C] WAIT(300* ticks)
  17: 0x1872 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s113" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  18: 0x1883 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 19: 0x1894 [0x1D] PRINT_EVENT_MESSAGE(message_id=9092*)
+ 19: 0x1894 [0x1D] PRINT_EVENT_MESSAGE(message_id=9093*)
     → "Oho! The triumphantaru hero has returned! Let's see what amazing-wazing new tricks you've learned!"
  20: 0x1897 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x1898 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1D)
- 22: 0x189F [0x1D] PRINT_EVENT_MESSAGE(message_id=9093*)
+ 22: 0x189F [0x1D] PRINT_EVENT_MESSAGE(message_id=9094*)
     → "Were you hit by a bolt of inspiration-wation? Absolutaruly nothing? Did the battle lack the required level of desperation?"
  23: 0x18A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x18A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1E)
  25: 0x18AA [0x52] END_LOAD_SCHEDULER: End scheduler "s113" with entities [LocalPlayer, LocalPlayer], work=139*
  26: 0x18B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s112" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  27: 0x18CA [0x27] REQ_SET(priority=0x0B, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x71)
- 28: 0x18D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9094*)
+ 28: 0x18D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9095*)
     → "You really are a sorry case. Well, let me teach you a technique I discovered, a fight-wighting move with both power and grace."
  29: 0x18D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x18D5 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shantotto (ID: 17756186/0x010EF01A))
  31: 0x18DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0B)
- 32: 0x18E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9095*)
+ 32: 0x18E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9096*)
     → "When your back's against the wall and there's no escape from the dragon's lair, justaru pretend this skill was taught to you by a beautiful goddess that appeared out of thin air."
  33: 0x18E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x18E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0C)
@@ -5558,7 +5558,7 @@ SUBROUTINE_176E:
  42: 0x1924 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
  43: 0x1935 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  44: 0x1946 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 45: 0x194D [0x1D] PRINT_EVENT_MESSAGE(message_id=9096*)
+ 45: 0x194D [0x1D] PRINT_EVENT_MESSAGE(message_id=9097*)
     → "Ohohohoho! Another member for my team with a wondrous tale to tell! We're really gonna give those Orastery mages hell!"
  46: 0x1950 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x1951 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -5569,7 +5569,7 @@ SUBROUTINE_176E:
  52: 0x198E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  53: 0x198F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  54: 0x1990 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
- 55: 0x1997 [0x1D] PRINT_EVENT_MESSAGE(message_id=9097*)
+ 55: 0x1997 [0x1D] PRINT_EVENT_MESSAGE(message_id=9098*)
     → "The Martial Mages Mortal Mashfest will be a grand affair! Those weakling wizards need a good blood-soaked battle to toughen them up, a little scare!"
  56: 0x199A [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x199B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -5797,20 +5797,20 @@ SUBROUTINE_176E:
   1: 0x1A6A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1A6B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1A6C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
-  4: 0x1A73 [0x1D] PRINT_EVENT_MESSAGE(message_id=9443*)
+  4: 0x1A73 [0x1D] PRINT_EVENT_MESSAGE(message_id=9444*)
     → "This story would surely be a scoop for the press. How will he get himself out of this mess?"
   5: 0x1A76 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1A77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
   7: 0x1A7E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  8: 0x1A85 [0x1D] PRINT_EVENT_MESSAGE(message_id=9444*)
+  8: 0x1A85 [0x1D] PRINT_EVENT_MESSAGE(message_id=9445*)
     → "A doctor is expected to show a good example to the up and coming mages. I'm sure he doesn't wantaru this recorded in Windurst's history pages."
   9: 0x1A88 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x1A89 [0x1D] PRINT_EVENT_MESSAGE(message_id=9445*)
+ 10: 0x1A89 [0x1D] PRINT_EVENT_MESSAGE(message_id=9446*)
     → "Of course, I asked his children what kind of curse I should cast on their dad. But they don't seem to want to cause harm to the cad."
  11: 0x1A8C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x1A8D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
  13: 0x1A94 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 14: 0x1A9B [0x1D] PRINT_EVENT_MESSAGE(message_id=9446*)
+ 14: 0x1A9B [0x1D] PRINT_EVENT_MESSAGE(message_id=9447*)
     → "That's what you call familial piety. Another chance lost to increase my notoriety! Ohohohohoho!"
  15: 0x1A9E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x1A9F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -6003,28 +6003,28 @@ SUBROUTINE_176E:
   1: 0x1B03 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1B04 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1B05 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
-  4: 0x1B0C [0x1D] PRINT_EVENT_MESSAGE(message_id=9547*)
+  4: 0x1B0C [0x1D] PRINT_EVENT_MESSAGE(message_id=9548*)
     → "We couldn't allow that Elvaan girl to stay with old Yoran-Oran. He has enough child problems to fill his little hands."
   5: 0x1B0F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1B10 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
   7: 0x1B17 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x09)
-  8: 0x1B1E [0x1D] PRINT_EVENT_MESSAGE(message_id=9548*)
+  8: 0x1B1E [0x1D] PRINT_EVENT_MESSAGE(message_id=9549*)
     → "I brought her to my house, but I found myself in the proverbial rut. It took quite a few Fire spells to thaw out her frozen butt."
   9: 0x1B21 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1B22 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x0A)
- 11: 0x1B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=9549*)
+ 11: 0x1B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=9550*)
     → "But I guess it was all worth my while. In the end I was able to hear the wonderful tale of her meeting with Diabolos and the following trial."
  12: 0x1B2C [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x1B2D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
- 14: 0x1B34 [0x1D] PRINT_EVENT_MESSAGE(message_id=9550*)
+ 14: 0x1B34 [0x1D] PRINT_EVENT_MESSAGE(message_id=9551*)
     → "The magicite locked in her chest is more than what it seems. That stone is what pulled her into Diabolos's land of dreams."
  15: 0x1B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x1B38 [0x1D] PRINT_EVENT_MESSAGE(message_id=9551*)
+ 16: 0x1B38 [0x1D] PRINT_EVENT_MESSAGE(message_id=9552*)
     → "However, her potty-mouthed highness obviously made the ruler of dreams quite upset. She lost her right to live in the strifeless world of Dynamis like that!"
  17: 0x1B3B [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1B3C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x02)
  19: 0x1B43 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 20: 0x1B4A [0x1D] PRINT_EVENT_MESSAGE(message_id=9552*)
+ 20: 0x1B4A [0x1D] PRINT_EVENT_MESSAGE(message_id=9553*)
     → "But she had the right idea, if you ask me. Where's the fun in living within a world without curses or misery!?"
  21: 0x1B4D [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x1B4E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x2A)
@@ -6094,7 +6094,7 @@ SUBROUTINE_176E:
  12: 0x1BBA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x1BCB [0x1C] WAIT(30* ticks)
  14: 0x1BCE [0x1E] EventEntity looks at LocalPlayer and starts talking
- 15: 0x1BD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9574*)
+ 15: 0x1BD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9575*)
     → "I have all the data on your adventuring activity. But I'm only interested in how many enemies you've crushed and your KO'd loser proclivity."
  16: 0x1BD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1BD7 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [EventEntity, EventEntity], work=239*
@@ -6106,17 +6106,17 @@ SUBROUTINE_176E:
  23: 0x1C0F [0x4E] SET_ENTITY_HIDE_FLAG: Show Unknown NPC (ID: 2147483637/0x7FFFFFF5)
  24: 0x1C15 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1D)
  25: 0x1C1C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x1C2B
- 26: 0x1C24 [0x1D] PRINT_EVENT_MESSAGE(message_id=9575*)
+ 26: 0x1C24 [0x1D] PRINT_EVENT_MESSAGE(message_id=9576*)
     → "Let's start out with your enemy carnage-warnage amounts... My, my. Either you justaru like to hide, or are not particular about large body counts."
  27: 0x1C27 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x1C28 [0x01] GOTO 0x1C49
  29: 0x1C2B [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x1C3A
- 30: 0x1C33 [0x1D] PRINT_EVENT_MESSAGE(message_id=9576*)
+ 30: 0x1C33 [0x1D] PRINT_EVENT_MESSAGE(message_id=9577*)
     → "Let's start out with your defeated enemy score... Oh. How very average. Wake me up if I startaru to snore."
  31: 0x1C36 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x1C37 [0x01] GOTO 0x1C49
  33: 0x1C3A [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x1C49
- 34: 0x1C42 [0x1D] PRINT_EVENT_MESSAGE(message_id=9577*)
+ 34: 0x1C42 [0x1D] PRINT_EVENT_MESSAGE(message_id=9578*)
     → "Let's start out with your defeated enemy score... Oho, this is close to the figure I racked up during the Great War."
  35: 0x1C45 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x1C46 [0x01] GOTO 0x1C49
@@ -6125,17 +6125,17 @@ SUBROUTINE_1C49:
  37: 0x1C49 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x1E)
  38: 0x1C50 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x01)
  39: 0x1C57 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x1C66
- 40: 0x1C5F [0x1D] PRINT_EVENT_MESSAGE(message_id=9578*)
+ 40: 0x1C5F [0x1D] PRINT_EVENT_MESSAGE(message_id=9579*)
     → "And now for your frequency of KO'd occasions... It seems that you've mastered the art of escapes and evasions! Your ability to survive must really irky-wirk your friends. Especially when you leave them behind to meet grisly ends!"
  41: 0x1C62 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x1C63 [0x01] GOTO 0x1C84
  43: 0x1C66 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x1C75
- 44: 0x1C6E [0x1D] PRINT_EVENT_MESSAGE(message_id=9579*)
+ 44: 0x1C6E [0x1D] PRINT_EVENT_MESSAGE(message_id=9580*)
     → "And now for your frequency of KO'd occasions... A typical number, but you should learn to warp away from impending invasions! That is the reason the spell was invented. So many pointless defeats could have been easily prevented."
  45: 0x1C71 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x1C72 [0x01] GOTO 0x1C84
  47: 0x1C75 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x1C84
- 48: 0x1C7D [0x1D] PRINT_EVENT_MESSAGE(message_id=9580*)
+ 48: 0x1C7D [0x1D] PRINT_EVENT_MESSAGE(message_id=9581*)
     → "And now for your frequency of KO'd occasions... Oho, what a loser! I need no more persuasion. You must be the victim of some tasty-wasty curse! In all my years, I don't think I've seen a number much worse!"
  49: 0x1C80 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x1C81 [0x01] GOTO 0x1C84
@@ -6144,21 +6144,21 @@ SUBROUTINE_1C84:
  51: 0x1C84 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=239*
  52: 0x1C93 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [EventEntity, EventEntity], work=[239*, 0*]
  53: 0x1CA4 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x1CB3
- 54: 0x1CAC [0x1D] PRINT_EVENT_MESSAGE(message_id=9581*)
+ 54: 0x1CAC [0x1D] PRINT_EVENT_MESSAGE(message_id=9582*)
     → "My last advice to you is to take a chance with an unfamiliar group. You mightaru find it refreshing to get out of your usual loop."
  55: 0x1CAF [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x1CB0 [0x01] GOTO 0x1CB7
- 57: 0x1CB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9582*)
+ 57: 0x1CB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9583*)
     → "I have one piece of advice concerning your party today. Trusting in the strength of diversity won't lead you astray."
  58: 0x1CB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_1CB7:
  59: 0x1CB7 [0x39] SET_ENTITY_DIRECTION(direction=18.4°*)
- 60: 0x1CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=9583*)
+ 60: 0x1CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=9584*)
     → "Visitaru every nation representative before you see the moogle again. Your evaluation from me here is done. But then..."
  61: 0x1CBD [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x1CBE [0x27] REQ_SET(priority=0x08, entity_id=Shantotto (ID: 17756186/0x010EF01A), tag_num=0x29)
- 63: 0x1CC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9584*)
+ 63: 0x1CC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9585*)
     → "No, you're not the one I was waiting to blast. You mightaru have gained another point to your KO'd score if I had miscast! Ohohohoho!"
  64: 0x1CC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x1CC9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -6196,19 +6196,19 @@ SUBROUTINE_1CB7:
 
 ```
   0: 0x1D0D [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x1D0E [0x48] [System] [9609*]:
+  1: 0x1D0E [0x48] [System] [9610*]:
     → "<Player>'s badge flashes brightly."
   2: 0x1D11 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x1D16 [0x1C] WAIT(30* ticks)
   4: 0x1D19 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ohh0" with entities [EventEntity, EventEntity], work=41*
-  5: 0x1D28 [0x1D] PRINT_EVENT_MESSAGE(message_id=9615*)
+  5: 0x1D28 [0x1D] PRINT_EVENT_MESSAGE(message_id=9616*)
     → "Ohohoho! Such a tatty old badge, but you're proud--can this be? You're baring your nature--no shame--for all to see!"
   6: 0x1D2B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1D2C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ohh0" with entities [EventEntity, EventEntity]
   8: 0x1D39 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
   9: 0x1D3E [0x1C] WAIT(30* ticks)
  10: 0x1D41 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 11: 0x1D50 [0x1D] PRINT_EVENT_MESSAGE(message_id=9616*)
+ 11: 0x1D50 [0x1D] PRINT_EVENT_MESSAGE(message_id=9617*)
     → "If you become an Orastery mercenary and change your foul ways, you can wear the strongest equipment for the rest of your days! That does mean, although, if your days aren't yet done, you won't be able to remove it, but that's part of the fun!"
  12: 0x1D53 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x1D54 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -6243,11 +6243,11 @@ SUBROUTINE_1CB7:
   1: 0x1D66 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x1D6B [0x1C] WAIT(30* ticks)
   3: 0x1D6E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x1D7D [0x2B] Shantotto (ID: 17756186/0x010EF01A) [9707*]:
+  4: 0x1D7D [0x2B] Shantotto (ID: 17756186/0x010EF01A) [9708*]:
     → "Still dawdling about? There's a curse to dispel--I suggest you move out!"
   5: 0x1D84 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1D85 [0x03] Work_Zone[2] = 1143*
-  7: 0x1D8A [0x2B] Shantotto (ID: 17756186/0x010EF01A) [9708*]:
+  7: 0x1D8A [0x2B] Shantotto (ID: 17756186/0x010EF01A) [9709*]:
     → "In Outer Horutoto, my $3 lies. Concealed in a very special Cardian--so keep peeled your eyes!"
   8: 0x1D91 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1D92 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -6282,10 +6282,10 @@ SUBROUTINE_1CB7:
   2: 0x1DA9 [0x1C] WAIT(30* ticks)
   3: 0x1DAC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
   4: 0x1DBB [0x03] Work_Zone[2] = 1143*
-  5: 0x1DC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9710*)
+  5: 0x1DC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9711*)
     → "Excellent, and very well! Now, off to Jeuno--we've a curse to dispel!"
   6: 0x1DC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x1DC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9711*)
+  7: 0x1DC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9712*)
     → "Why don't you go on ahead? I must find someone to watch over the laboratory in my stead."
   8: 0x1DC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1DC8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -6319,10 +6319,10 @@ SUBROUTINE_1CB7:
   1: 0x1DDA [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x1DDF [0x1C] WAIT(30* ticks)
   3: 0x1DE2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x1DF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9715*)
+  4: 0x1DF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9716*)
     → "<Ahem>--Allow me to say this with consummate clarity. I am not in the business of running a charity!"
   5: 0x1DF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1DF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9716*)
+  6: 0x1DF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9717*)
     → "If you're too cheap to pay, then off with you."
   7: 0x1DF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1DF9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

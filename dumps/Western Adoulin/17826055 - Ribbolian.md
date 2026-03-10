@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x264B      |        9803 |
-|       2 | 0x264C      |        9804 |
+|       1 | 0x264C      |        9804 |
+|       2 | 0x264D      |        9805 |
 
 ## String References
 
-- **9803**: Thanks to all the Middle Landers, this town's bristling with more people than hairs on a Mithra!
-- **9804**: Gets me to thinking I should open up my own shop before this boom goes bust. Say, you want in on the ground floor? I think I'll need about three million to start...
+- **9804**: Thanks to all the Middle Landers, this town's bristling with more people than hairs on a Mithra!
+- **9805**: Gets me to thinking I should open up my own shop before this boom goes bust. Say, you want in on the ground floor? I think I'll need about three million to start...
 
 ## Events
 
@@ -78,10 +78,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9803*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9804*)
     → "Thanks to all the Middle Landers, this town's bristling with more people than hairs on a Mithra!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9804*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9805*)
     → "Gets me to thinking I should open up my own shop before this boom goes bust. Say, you want in on the ground floor? I think I'll need about three million to start..."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [EventEntity, EventEntity], work=0*

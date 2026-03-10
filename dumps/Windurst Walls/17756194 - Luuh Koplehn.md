@@ -34,21 +34,21 @@
 |       3 | 0xFFFEA45E  |  4294878302 |
 |       4 | 0x1EDA5     |      126373 |
 |       5 | 0xFFFFEB23  |  4294961955 |
-|       6 | 0x1F04      |        7940 |
+|       6 | 0x1F05      |        7941 |
 |       7 | 0x9321      |       37665 |
 |       8 | 0xFFFF1A06  |  4294908422 |
 |       9 | 0xFFFFF63C  |  4294964796 |
 |      10 | 0x0BC3      |        3011 |
-|      11 | 0x1D7C      |        7548 |
-|      12 | 0x1D7D      |        7549 |
-|      13 | 0x1DA5      |        7589 |
+|      11 | 0x1D7D      |        7549 |
+|      12 | 0x1D7E      |        7550 |
+|      13 | 0x1DA6      |        7590 |
 
 ## String References
 
-- **7548**: A rough black stone? Yeah, the professorrr who lives in this manorrr once tried to give me one of those in lieu of his debts.
-- **7549**: Grrrowl! Just remembering it rubs my furrr the wrong way! The old fool claims those strange stones are really starrrs that fell from the sky or some such nonsense.
-- **7589**: Shells? What are you asking me about shells forrr? Go to the porrrt and ask the people on the fishing boats or the memberrrs of the Fishermen's Guild if you want to know about seafood!
-- **7940**: Come on, Professorrr Koru-Moru. I'm not moving until you cough up the gil forrr yourrr overdue accounts at the Boneworkers' Guild. As both a ministerrr and the principal of our local school, shouldn't you be setting a betterrr example?
+- **7549**: A rough black stone? Yeah, the professorrr who lives in this manorrr once tried to give me one of those in lieu of his debts.
+- **7550**: Grrrowl! Just remembering it rubs my furrr the wrong way! The old fool claims those strange stones are really starrrs that fell from the sky or some such nonsense.
+- **7590**: Shells? What are you asking me about shells forrr? Go to the porrrt and ask the people on the fishing boats or the memberrrs of the Fishermen's Guild if you want to know about seafood!
+- **7941**: Come on, Professorrr Koru-Moru. I'm not moving until you cough up the gil forrr yourrr overdue accounts at the Boneworkers' Guild. As both a ministerrr and the principal of our local school, shouldn't you be setting a betterrr example?
 
 ## Events
 
@@ -222,7 +222,7 @@
 
 ```
   0: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Luuh Koplehn (ID: 17756194/0x010EF022), tag_num=0x01)
-  1: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+  1: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "Come on, Professorrr Koru-Moru. I'm not moving until you cough up the gil forrr yourrr overdue accounts at the Boneworkers' Guild. As both a ministerrr and the principal of our local school, shouldn't you be setting a betterrr example?"
   2: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x005C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Luuh Koplehn (ID: 17756194/0x010EF022), tag_num=0x02)
@@ -280,10 +280,10 @@
   1: 0x0076 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0077 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0078 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Luuh Koplehn (ID: 17756194/0x010EF022), tag_num=0x01)
-  4: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
+  4: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
     → "A rough black stone? Yeah, the professorrr who lives in this manorrr once tried to give me one of those in lieu of his debts."
   5: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
+  6: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
     → "Grrrowl! Just remembering it rubs my furrr the wrong way! The old fool claims those strange stones are really starrrs that fell from the sky or some such nonsense."
   7: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0087 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Luuh Koplehn (ID: 17756194/0x010EF022), tag_num=0x02)
@@ -316,7 +316,7 @@
   1: 0x0097 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0098 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0099 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Luuh Koplehn (ID: 17756194/0x010EF022), tag_num=0x01)
-  4: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7589*)
+  4: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7590*)
     → "Shells? What are you asking me about shells forrr? Go to the porrrt and ask the people on the fishing boats or the memberrrs of the Fishermen's Guild if you want to know about seafood!"
   5: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Luuh Koplehn (ID: 17756194/0x010EF022), tag_num=0x02)

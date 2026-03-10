@@ -1,5 +1,5 @@
 # Strings for Ship bound for Selbina
-# Total: 7359 strings
+# Total: 7360 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7351,12 +7351,13 @@
  7347: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7348: You receive $0 bayld!
  7349: Your chocobo refuses to partake of the $0.
- 7350: Welcome!!
- 7351: We're on our way to Selbina. We should be there in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
- 7352: We are now docking in Selbina.
- 7353: We are nearing Selbina.
- 7354: You have entered the ship route by unauthorized means. Zoning you to Mhaura.
- 7355: This is the ship route from Mhaura to Selbina.
- 7356: There's nothing like fishing to pass the time!
- 7357: May I offer you items to help you on your journey?
- 7358: We are on our way to Selbina. We will be arriving soon.
+ 7350: Your wing skill improved to $0!
+ 7351: Welcome!!
+ 7352: We're on our way to Selbina. We should be there in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+ 7353: We are now docking in Selbina.
+ 7354: We are nearing Selbina.
+ 7355: You have entered the ship route by unauthorized means. Zoning you to Mhaura.
+ 7356: This is the ship route from Mhaura to Selbina.
+ 7357: There's nothing like fishing to pass the time!
+ 7358: May I offer you items to help you on your journey?
+ 7359: We are on our way to Selbina. We will be arriving soon.

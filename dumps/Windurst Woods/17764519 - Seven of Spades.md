@@ -23,13 +23,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F64      |        8036 |
-|       2 | 0x1F65      |        8037 |
+|       1 | 0x1F65      |        8037 |
+|       2 | 0x1F66      |        8038 |
 
 ## String References
 
-- **8036**: oThEr$26sIdE oF$26ThIs bUiLdIng$26iS WiNdUrSt$26rEsI-dEnTiAl ArEa!
-- **8037**: AsK$26aBBy JaLunShi$26fOr ExPlAn-AtIoNs!
+- **8037**: oThEr$26sIdE oF$26ThIs bUiLdIng$26iS WiNdUrSt$26rEsI-dEnTiAl ArEa!
+- **8038**: AsK$26aBBy JaLunShi$26fOr ExPlAn-AtIoNs!
 
 ## Events
 
@@ -124,10 +124,10 @@
   0: 0x000B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0010 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0011 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
+  3: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
     → "oThEr$26sIdE oF$26ThIs bUiLdIng$26iS WiNdUrSt$26rEsI-dEnTiAl ArEa!"
   4: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
+  5: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
     → "AsK$26aBBy JaLunShi$26fOr ExPlAn-AtIoNs!"
   6: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

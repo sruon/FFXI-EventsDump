@@ -22,42 +22,42 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1FB5      |        8117 |
-|       2 | 0x1FB6      |        8118 |
-|       3 | 0x1FB7      |        8119 |
+|       1 | 0x1FB6      |        8118 |
+|       2 | 0x1FB7      |        8119 |
+|       3 | 0x1FB8      |        8120 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1FB8      |        8120 |
-|       6 | 0x1FB9      |        8121 |
+|       5 | 0x1FB9      |        8121 |
+|       6 | 0x1FBA      |        8122 |
 |       7 | 0x0002      |           2 |
-|       8 | 0x1FBA      |        8122 |
-|       9 | 0x1FBB      |        8123 |
+|       8 | 0x1FBB      |        8123 |
+|       9 | 0x1FBC      |        8124 |
 |      10 | 0x0003      |           3 |
-|      11 | 0x1FBC      |        8124 |
-|      12 | 0x1FBD      |        8125 |
+|      11 | 0x1FBD      |        8125 |
+|      12 | 0x1FBE      |        8126 |
 |      13 | 0x0004      |           4 |
-|      14 | 0x1FBE      |        8126 |
-|      15 | 0x1FBF      |        8127 |
+|      14 | 0x1FBF      |        8127 |
+|      15 | 0x1FC0      |        8128 |
 |      16 | 0x0005      |           5 |
-|      17 | 0x1FC0      |        8128 |
-|      18 | 0x1FC1      |        8129 |
-|      19 | 0x1FD8      |        8152 |
+|      17 | 0x1FC1      |        8129 |
+|      18 | 0x1FC2      |        8130 |
+|      19 | 0x1FD9      |        8153 |
 
 ## String References
 
-- **8117**: <Player>? Never heard of [her/him]. Oh, that's you?
-- **8118**: You'll have to forgive me. These days, one stranger wandering into our camp looks much like the nextaru.
-- **8119**: Our people might seem a bit distant, but that's part and parcel-warcel of living in these harsh times. Help them in their struggle, and they'll learn to trust you in good time.
-- **8120**: <Player>-Bo<Player>? Was that the third minister of the Manustery? Oh, I'm sorry. That was you, wasn't it?
-- **8121**: You're not a complete stranger-wanger these days, but I fear you haven't made much of an impression. Keep working at it, though, and your day will come.
-- **8122**: Wait, don't tell me... <Player>, was it? I've finally-winally managed put a face to the name.
-- **8123**: Why, I heard a conversation about you just the other day. "A bit of a bumbler-wumbler, but I suppose [he/she] means well..." they said. It may not sound like much, but you're on the right track. Now is no time to rest in your efforts!
-- **8124**: Oh, hullo there, <Player>. I was just talking to a fellow who seemed to have taken quite a liking to you.
-- **8125**: Seems it's not often that a stranger has made such an earnestaru attempt to help out. I knew you had it in you, <Player>! Keep working and others will learn to appreciate the work you've done!
-- **8126**: Well, if it isn't <Player>! Don't go getting a swelly-welled head, but you've got yourself the makings of your own little fan club these days.
-- **8127**: Just goes to show that people appreciataru the good deeds you've done. But I have a feeling we haven't seen the limits of what you can do. Keep showing us what you've got!
-- **8128**: <Player>! What a rare treataru! Why, I hear your name everywhere I go these days.
-- **8129**: People can't stop talking about how much easier their lives have been since you showed up. No surprise to me, of course. Why, since the first day I spotty-wotted you, I knew this day would come!
-- **8152**: Current area score: $0 (Rank $1) Enter a number between 0 and 63. (0 to cancel).
+- **8118**: <Player>? Never heard of [her/him]. Oh, that's you?
+- **8119**: You'll have to forgive me. These days, one stranger wandering into our camp looks much like the nextaru.
+- **8120**: Our people might seem a bit distant, but that's part and parcel-warcel of living in these harsh times. Help them in their struggle, and they'll learn to trust you in good time.
+- **8121**: <Player>-Bo<Player>? Was that the third minister of the Manustery? Oh, I'm sorry. That was you, wasn't it?
+- **8122**: You're not a complete stranger-wanger these days, but I fear you haven't made much of an impression. Keep working at it, though, and your day will come.
+- **8123**: Wait, don't tell me... <Player>, was it? I've finally-winally managed put a face to the name.
+- **8124**: Why, I heard a conversation about you just the other day. "A bit of a bumbler-wumbler, but I suppose [he/she] means well..." they said. It may not sound like much, but you're on the right track. Now is no time to rest in your efforts!
+- **8125**: Oh, hullo there, <Player>. I was just talking to a fellow who seemed to have taken quite a liking to you.
+- **8126**: Seems it's not often that a stranger has made such an earnestaru attempt to help out. I knew you had it in you, <Player>! Keep working and others will learn to appreciate the work you've done!
+- **8127**: Well, if it isn't <Player>! Don't go getting a swelly-welled head, but you've got yourself the makings of your own little fan club these days.
+- **8128**: Just goes to show that people appreciataru the good deeds you've done. But I have a feeling we haven't seen the limits of what you can do. Keep showing us what you've got!
+- **8129**: <Player>! What a rare treataru! Why, I hear your name everywhere I go these days.
+- **8130**: People can't stop talking about how much easier their lives have been since you showed up. No surprise to me, of course. Why, since the first day I spotty-wotted you, I knew this day would come!
+- **8153**: Current area score: $0 (Rank $1) Enter a number between 0 and 63. (0 to cancel).
 
 ## Events
 
@@ -113,53 +113,53 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x001F
-  4: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
+  4: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
     → "<Player>? Never heard of [her/him]. Oh, that's you?"
   5: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
+  6: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
     → "You'll have to forgive me. These days, one stranger wandering into our camp looks much like the nextaru."
   7: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
+  8: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
     → "Our people might seem a bit distant, but that's part and parcel-warcel of living in these harsh times. Help them in their struggle, and they'll learn to trust you in good time."
   9: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x001C [0x01] GOTO 0x007E
  11: 0x001F [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0032
- 12: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
+ 12: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
     → "<Player>-Bo<Player>? Was that the third minister of the Manustery? Oh, I'm sorry. That was you, wasn't it?"
  13: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
+ 14: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
     → "You're not a complete stranger-wanger these days, but I fear you haven't made much of an impression. Keep working at it, though, and your day will come."
  15: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x002F [0x01] GOTO 0x007E
  17: 0x0032 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0045
- 18: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
+ 18: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
     → "Wait, don't tell me... <Player>, was it? I've finally-winally managed put a face to the name."
  19: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+ 20: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "Why, I heard a conversation about you just the other day. "A bit of a bumbler-wumbler, but I suppose [he/she] means well..." they said. It may not sound like much, but you're on the right track. Now is no time to rest in your efforts!"
  21: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0042 [0x01] GOTO 0x007E
  23: 0x0045 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0058
- 24: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+ 24: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "Oh, hullo there, <Player>. I was just talking to a fellow who seemed to have taken quite a liking to you."
  25: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+ 26: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "Seems it's not often that a stranger has made such an earnestaru attempt to help out. I knew you had it in you, <Player>! Keep working and others will learn to appreciate the work you've done!"
  27: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0055 [0x01] GOTO 0x007E
  29: 0x0058 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x006B
- 30: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
+ 30: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
     → "Well, if it isn't <Player>! Don't go getting a swelly-welled head, but you've got yourself the makings of your own little fan club these days."
  31: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
+ 32: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
     → "Just goes to show that people appreciataru the good deeds you've done. But I have a feeling we haven't seen the limits of what you can do. Keep showing us what you've got!"
  33: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0068 [0x01] GOTO 0x007E
  35: 0x006B [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x007E
- 36: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+ 36: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "<Player>! What a rare treataru! Why, I hear your name everywhere I go these days."
  37: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+ 38: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "People can't stop talking about how much easier their lives have been since you showed up. No surprise to me, of course. Why, since the first day I spotty-wotted you, I knew this day would come!"
  39: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x007B [0x01] GOTO 0x007E
@@ -188,7 +188,7 @@ SUBROUTINE_007E:
 #### Opcodes
 
 ```
-  0: 0x0080 [0x48] [System] [8152*]:
+  0: 0x0080 [0x48] [System] [8153*]:
     → "Current area score: $0 (Rank $1) Enter a number between 0 and 63. (0 to cancel)."
   1: 0x0083 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
   2: 0x0089 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[1])

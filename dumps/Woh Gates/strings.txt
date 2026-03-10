@@ -1,5 +1,5 @@
 # Strings for Woh Gates
-# Total: 7850 strings
+# Total: 7851 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7170,454 +7170,454 @@
  7166: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7167: You receive $0 bayld!
  7168: Your chocobo refuses to partake of the $0.
- 7169: The area's colonization rate has [increased/decreased] to $0%.
- 7170: <Player> has joined the [Lair/Colonization/Wildskeeper] Reive!
- 7171: You are now eligible to participate in the Wildskeeper Reive.
- 7172: You are no longer eligible to participate in the Wildskeeper Reive.
- 7173: You have strayed too far from the [Lair/Colonization/Wildskeeper] Reive! You will be discharged in $1 second[/s].
- 7174: You will be discharged in $0 second[/s].
- 7175: You have been removed from the [Lair/Colonization/Wildskeeper] Reive.
- 7176: You have returned to the [Lair/Colonization/Wildskeeper] Reive.
- 7177: <Player> is victorious in the [Lair/Colonization/Wildskeeper] Reive!
- 7178: You are unable to participate in a reive for the next $0 minute[/s].
- 7179: <Player> did not receive any experience points.
- 7180: <Player>'s experience points have been stored because [he/she] has been defeated.
- 7181: <Player> obtained $0 bayld!
- 7182: <Player> did not obtain any bayld.
- 7183: <Player>'s bayld has been stored because [he/she] has been defeated.
- 7184: Inventory is full. You could not obtain the $1.
- 7185: [The frontier station/Frontier Bivouac #1/Frontier Bivouac #2/Frontier Bivouac #3/Frontier Bivouac #4/Frontier Bivouac #5] in [Adoulin/Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/RafKaznar] has been completed!
- 7186: [The frontier station/Frontier Bivouac #1/Frontier Bivouac #2/Frontier Bivouac #3/Frontier Bivouac #4/Frontier Bivouac #5] in [Adoulin/Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/RafKaznar] has been destroyed!
- 7187: The edification rank of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition has increased!
- 7188: The edification rank of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition has decreased!
- 7189: Reive momentum score: Physical attack.
- 7190: Reive momentum score: Ranged attack.
- 7191: Reive momentum score: Magic attack.
- 7192: Reive momentum score: Attack success.
- 7193: Reive momentum score: Damage taken.
- 7194: Reive momentum score: Monster vanquishing.
- 7195: Reive momentum score: HP recovery.
- 7196: Reive momentum score: Raise support.
- 7197: Reive momentum score: Enhancing support.
- 7198: Reive momentum score: Enfeebling support.
- 7199: Reive momentum score: Skillchain success.
- 7200: Reive momentum score: Resistance success.
- 7201: Reive momentum score: Attack target.
- 7202: Reive momentum: 14.
- 7203: Reive momentum: 15.
- 7204: Momentum bonus: HP recovery!
- 7205: Momentum bonus: MP recovery!
- 7206: Momentum bonus: TP recovery!
- 7207: Momentum bonus: Status ailment recovery!
- 7208: Momentum bonus: Ability cast recovery!
- 7209: Momentum bonus: Stoneskin!
- 7210: Momentum Bonus: Increased potency!
- 7211: Momentum Bonus: Subtle Blow!
- 7212: Momentum Bonus: Fast Cast!
- 7213: Momentum Bonus: Store TP!
- 7214: Momentum bonus: Increased maximum HP and MP!
- 7215: You are unable to use this object.
- 7216: The light flickers in and out of existence. Inside you see a distorted vision of[ /]$0[/bayld].
- 7217: In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible.
- 7218: Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have $0 attempt[/s] remaining.
- 7219: Pick your poison. (Attempts left: $0) [Do nothing./Attempt to get the item./Give up.]
- 7220: From the direction and distance, the distortion is at $0%.
- 7221: You succeed in acquiring the $0[/bayld]!
- 7222: The $0[/bayld] eludes your grasp.
- 7223: The $0 breaks, but you were able to sense the degree of distortion without touching the light.
- 7224: The light vanishes like it was nothing but a mirage.
- 7225: The air grows tense with some strange force.
- 7226: You should be able to proceed further if you have $3.
- 7227: Are you ready to [proceed/turn back]? [Yes./No.]
- 7228: Your $3 is destroyed, but you are able to successfully press forward.
- 7229: However, you sense nothing out of the ordinary. Going further in will accomplish nothing.
- 7230: However, without a proper means to cross the river, you are unable to go further.
- 7231: DEBUG: Colonization Rate: $0% (Internal value: $1
- 7232: DEBUG: Current no. of outposts: $0. DEBUG: Maximum no. of outposts: $1.
- 7233: DEBUG: [Bivouac/Outpost A/Outpost B/Outpost C/Outpost D/Outpost E] building value: $1.
- 7234: DEBUG:[Bivouac/Outpost A/Outpost B/Outpost C/Outpost D/Outpost E] building flag: [OFF/ON]
- 7235: DEBUG: No. of ergon loci surveyed: [A/B/C/D]: $1.
- 7236: DEBUG: Ergon loci [A/B/C/D] effect rang: $1.
- 7237: DEBUG: Active reive no.: $0.
- 7238: DEBUG: Reive no. for which battles have [commenced/finished]: $1.
- 7239: DEBUG: Participating reive no.: $0.
- 7240: DEBUG: Left reive no.: $0.
- 7241: DEBUG: Decreased HP increment: $0.
- 7242: DEBUG: Base exp (decreased boss HP): $0. DEBUG: Base points: (decreased boss HP): $0.
- 7243: DEBUG: Base exp after additional vanquishing bonus: $0. DEBUG: Base points after additional vanquishing bonus: $1.
- 7244: DEBUG: Base battle evaluation rating: $0.
- 7245: DEBUG: Upper experience limit after battle assessment rate: $0. DEBUG: Upper point limit after battle assessment rate: $1.
- 7246: DEBUG: Post-rate experience by reive type: $0.
- 7247: DEBUG: Experience after deviation from base level value: $0.
- 7248: DEBUG: Final experience after cutting upper limit $0.
- 7249: DEBUG: Post-rate points by reive type: $0.
- 7250: DEBUG: $3x$3 [$n$0$P12lFL$7$P15*cL$3|$3C$3$3gF$0]
- 7251: DEBUG: Final points after cutting upper limit: $0.
- 7252: DEBUG: Stored experience: $0.
- 7253: DEBUG: Stored points $0.
- 7254: DEBUG:[Colonization rate/station/ergon loci/coalition] degradationover time: [ON/OFF].
- 7255: DEBUG: Debug? [Colonization rate degradation over time: on/off/Biouvac degradation over time: on/off./Change internal colonization rate value./Change internal station building value./Change internal biouvac A building value./Change internal biouvac B building value./Change internal biouvac C building value./Change internal biouvac D building value./Change internal biouvac E building value./Add station coalition assignment completion value./Add biouvac A coalition assignment completion value./Add biouvac B coalition assignment completion value./Add biouvac C coalition assignment completion value./Add biouvac D coalition assignment completion value./Add biouvac E coalition assignment completion value./Add ergon locus A coalition assignment completion value./Add ergon locus B coalition assignment completion value./Add ergon locus C coalition assignment completion value./Add ergon locus D coalition assignment completion value./Ergon loc degradation over time: on/off./Add colonization rate coalition assigment completion value./Cancel.]
- 7256: DEBUG: Debug: [Growth value degradation over time: on/off./Change internal Pioneers' Coalition growth value./Change internal Peacekeepers' Coalition growth value./Change internal Couriers' Coalition growth value./Change internal Scouts' Coalition growth value./Change internal Inventors' Coalition growth value./Change internal Mummers' Coalition growth value./Change Pioneers' Coalition referendum/support value./Change Peacekeepers' Coalition referendum/support value./Change Couriers' Coalition referendum/support value./Change Scouts' Coalition referendum/support value./Change Inventors' Coalition referendum/support value./Change Mummers' Coalition referendum/support value./Add Pioneers' Coalition coalition assignment completion value./Add Peacekeepers' Coalition coalition assignment completion value./Add Couriers' Coalition coalition assignment completion value./Add Scouts' Coalition coalition assignment completion value./Add Inventors' Coalition coalition assignment completion value./Add Mummers' Coalition coalition assignment completion value./Add Pioneers' Coalition coalition quest completion support value./Add Peacekeepers' Coalition coalition quest completion support value./Add Couriers' Coalition coalition quest completion support value./Add Scouts' Coalition coalition quest completion support value./Add Inventors' Coalition coalition quest completion support value./Add Mummers' Coalition coalition quest completion support value./Cancel.]
- 7257: DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]
- 7258: DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]
- 7259: DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]
- 7260: DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]
- 7261: DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]
- 7262: DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]
- 7263: DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]
- 7264: DEBUG: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition growth value: $1.
- 7265: DEBUG: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition growth rank: $1.
- 7266: DEBUG:[Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition support value: DEBUG: 1=$1 2=$2 3=$3.
- 7267: DEBUG:4=$1 5=$2 6=$3.
- 7268: DEBUG:7=$1 8=$2.
- 7269: DEBUG: Bonus condition achieved: condition no. $0.
- 7270: DEBUG: Share battle bonus activated: bonus no. $0.
- 7271: DEBUG: Used flag deactivated: bonus no. $0.
- 7272: DEBUG: Shared battle bonus received: bonus no. $0.
- 7273: DEBUG: Shared battle bonus flag deactivated: bonus no. flag $0.
- 7274: DEBUG: Personal assessment completed--bonus condition: condition no. $0/added value +$1/overall total: $2.
- 7275: DEBUG: Total battle assessment value: $0.
- 7276: DEBUG: Drop rank $0
- 7277: [Logging/Mining/Harvesting/Mining] is possible here if you have $0.
- 7278: You are too fatigued.
- 7279: You should be able to gather $0 more time[/s] before you become fatigued.
- 7280: [You/However, you] are unable to gather anything.
- 7281: Your $0 breaks!
- 7282: Your $0 remains intact!
- 7283: You find $0, but your $1 is destroyed in the process.
- 7284: You also find $0!
- 7285: You also find $0, but you are carrying too many things.
- 7286: [Critical/Double/Conservative/Cherished] [chop/quarry/harvest/quarry]! <Player> [finds some high quality materials/deftly collects more materials/expends no energy/prevents their gathering tool from breaking]!
- 7287: DEBUG: Current fatigue level: $0 ($1point/$2flame)
- 7288: DEBUG: Critical result: rnd=$0/ (train=$1 equip=$2 tool=$3)
- 7289: DEBUG: Double result: rnd=$0/ (train=$1 equip=$2 tool=$3)
- 7290: DEBUG: Recovery result: rnd=$0/ (train=$1 equip=$2 tool=$3)
- 7291: DEBUG: Modulation result: rnd=$0/ (train=$1 equip=$2 tool=$3)
- 7292: DEBUG: Breakage rate result: break=$0 (rnd=0--$1)/$2 (base=$3)
- 7293: DEBUG: Practice value result: train=$0 (base=$1 equip=$2 tool=$3)
- 7294: DEBUG:Fatigue level result: tired=$0 (base=$1 equip=-$2 tool=-$3)
- 7295: DEBUG: Table result 1: (dev=$0 equip=$1 tool=$2 train=$3)
- 7296: DEBUG: Table result 2: rank=$0 (tech=$1 all=$2)
- 7297: [How farrre you?/Hello!/May Altana guide you, pioneer./A pleasure to see you./A fair day to you./It is good to see you.] I am here to provide intrepid pioneers with assignments from the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition.
- 7298: Here at the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, we entrust various tasks related to [the colonization effort/the protection of Adoulin/the transport of goods through Adoulin and Ulbuka/the collection of information for the benefit of the coalition/the pursuit of new technologies/the provision of new entertainment forms] to those willing to aid our cause.
- 7299: <Player>, is it not? Brenton at the Pioneers' Coalition has been looking for you. Please go see him at your earliest convenience.
- 7300: <Player>, correct? Brenton here would like to have a word with you. He said it was important.
- 7301: [Welcome back./I'm glad to see you again./We've been waiting for you./Back and better than ever, I see./How are things?/Why, hello there!] It is my understanding that you have completed one of our tasks. Do you have anything to report?
- 7302: Let me take a look... Why, this $3 is broken! I'll give you another one, but you really must be more careful with something so valuable.
- 7303: Let me take a look... This $3 is broken. Unfortunately, it's of no use to us now. Go back to the frontier station and bring back another one--whole, this time!
- 7304: I wish you speed upon your journey.
- 7305: You're not a registered pioneer? I am only authorized to give tasks to those with the appropriate credentials.
- 7306: Come back when you have the requisite certification.
- 7307: Since you're already here, why not take a few minutes to fill out the forms? It won't take long.
- 7308: Our records don't seem to mention you. Is this your first time accepting a coalition assignment? Then let me take a moment to explain a bit more about what we do.
- 7309: The six coalitions here in Adoulin each require the help of pioneers in their own way to support the colonization effort. These tasks both directly and indirectly support the colonization effort.
- 7310: We will, of course, pay appropriate recompense to those completing these assignments. Further, the Twelve Orders will recognize your efforts as you continue to accomplish these goals, and may even provide you with more important duties as you begin to make a name for yourself.
- 7311: Perhaps more significantly, the influence of each coalition will expand as more pioneers fulfill these obligations, and the Twelve Orders will permit them to expand.
- 7312: This, in turn, will enable the coalitions to increase the number and quality of the services they provide, thereby enabling them to contribute to the colonization project even more.
- 7313: Likewise, if one coalition does not receive enough pioneer support, it may shrink in scale, even if it had previously expanded. It is for this reason that we try to make our assignments as lucrative as feasible.
- 7314: However, we want to ensure that all pioneers are able to contribute equally. As such, the number of coalition assignments that can be undertaken each day is governed by a system comprised of imprimaturs.
- 7315: You will have to part with one imprimatur per job you undertake. Each pioneer may possess up to $0 of such permits, with additional imprimaturs distributed at set intervals.
- 7316: In your case, we will render you with a total of $1 imprimaturs every $0 hours (Earth time). They will be held for you at assignment desks.
- 7317: One benefit of this system is that you are able to contribute at your own pace. You may save up imprimaturs over a period of time and fill many orders at once, or you may instead use them as they come in.
- 7318: Additionally, you can choose to spend multiple imprimaturs for one task. Predictably, you will receive rewards commensurate with the number of imprimaturs used.
- 7319: The convenience of pioneers was our foremost priority when establishing this system. You may use all your imprimaturs to support a particular coalition, or you may instead choose to distribute them among several.
- 7320: You may also cancel an assignment after it has been accepted. Any imprimaturs used will be returned to you--unless this would put you over the maximum amount, in which case they will be destroyed.
- 7321: There is another aspect of the system I have not yet touched on: "coalition referendums."
- 7322: The coalition referendums help determine how a particular coalition is going to expand. Pioneers are able to vote on which direction the coalition should head.
- 7323: When you complete an assignment, you will be asked to choose which plan the coalition should prioritize.
- 7324: A coalition's expansion and services are inexorably intertwined, so take ample stock of which services are on offer before casting your ballot.
- 7325: The expansion process will take approximately one week (Earth time). Note that coalitions that have not received much pioneer contribution will not expand.
- 7326: I know this is a lot of information to take in, but it is an essential part of your pioneering activities in Ulbuka.
- 7327: Since this is your first time here, I shall provide you with a total of $0 imprimaturs so that you may get started right away.
- 7328: What would you like to do? ($0 imprimatur[/s]) [Undertake a coalition assignment./Report on a completed assignment./Cancel an in-progress assignment./Check imprimatur distribution time./Hear an explanation of the system./End the conversation.]
- 7329: What's this, then? You don't have any imprimaturs? Hmm... You needn't be overly worried, for the next batch will be distributed in $0 [second/minute][/s].
- 7330: Select which assignment to cancel.
- 7331: Really cancel? [Yes./No.]
- 7332: I have filled out this form stating your cancellation, and restored your imprimaturs to their original amount.
- 7333: This makes for a total of $0 imprimatur[/s] currently in your possession.
- 7334: The next batch of imprimaturs will be distributed in $0 [second/minute][/s].
- 7335: You seem to be in possession of the maximum number of imprimaturs. If you do not use them before the next distribution, you will not receive any additional ones.
- 7336: We look forward to seeing you again.
- 7337: We are currently able to offer you the following coalition assignments.
- 7338: Unfortunately, we do not currently have any assignments for you to undertake.
- 7339: Select how many imprimaturs you would like to expend for this assignment.
- 7340: How many will you use? (Total: $0). [One./Two./Three./Four./Five./Hang on one moment.]
- 7341: Use $0 imprimatur[/s]? [Of course!/No way.]
- 7342: You used $0 imprimatur[/s], and currently have a stock of $1.
- 7343: Return here once you have completed your assignment. We appreciate your assistance and hope for your safe return.
- 7344: Your report was quite valuable. Thank you. We ask that you submit your vote in the coalition referendum before receiving your reward.
- 7345: Select which item the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition should prioritize in its expansion plan.
- 7346: Truly abstain from voting? [Yes. Voting is institutionalized coercion./No. Democracy is a privilege.]
- 7347: It's a shame you feel that way. Still, you deserve proper compensation. Here you go.
- 7348: Would you like to vote this way? [Yes. It's my Goddess-given duty./No. My vote doesn't count anyway.]
- 7349: [Really? That?/Are you sure?/I can't believe.../Hmm.../That's not the way I would have taken it...] Well, I suppose that's why it's your vote, and not mine. What's important is that you expressed your opinion. And now, your compensation.
- 7350: I congratulate you on your success and am pleased to hear your report. The coalition has prepared a reward befitting your contributions.
- 7351: In addition to the standard compensation, I also hereby present you with this $0. A little bird dropped it off, and I feel that it would be best in your capable hands.
- 7352: Select assignment type. [Procure materials.[/$26]/Clear the way.[/$26]/None of the above.]
- 7353: [Accept/Report on/Cancel] which coalition assignment? [Procure: Western Adoulin.[/$26]/Procure: Eastern Adoulin.[/$26]/Procure: Rala Waterways.[/$26]/Procure: Ceizak Battlegrounds.[/$26]/Procure: Yahse Hunting Grounds.[/$26]/Procure: Foret de Hennetiel.[/$26]/Procure: Morimar Basalt Fields.[/$26]/Procure: Yorcia Weald.[/$26]/Procure: Marjami Ravine.[/$26]/Procure: Kamihr Drifts.[/$26]/Procure: Sih Gates.[/$26]/Procure: Moh Gates.[/$26]/Procure: Cirdas Caverns.[/$26]/Procure: Dho Gates.[/$26]/Procure: Woh Gates.[/$26]/Procure: Outer Ra'Kaznar.[/$26]/Procure: Ra'Kaznar Inner Court.[/$26]/Procure: mei.[/$26]/Procure: mgk.[/$26]/Cancel.]
- 7354: [Accept/Report on/Cancel] which coalition assignment? [Clear: Western Adoulin.[/$26]/Clear: Eastern Adoulin.[/$26]/Clear: Rala Waterways.[/$26]/Clear: Ceizak Battlegrounds.[/$26]/Clear: Yahse Hunting Grounds.[/$26]/Clear: Foret de Hennetiel.[/$26]/Clear: Morimar Basalt Fields.[/$26]/Clear: Yorcia Weald.[/$26]/Clear: Marjami Ravine.[/$26]/Clear: Kamihr Drifts.[/$26]/Clear: Sih Gates.[/$26]/Clear: Moh Gates.[/$26]/Clear: Cirdas Caverns.[/$26]/Clear: Dho Gates.[/$26]/Clear: Woh Gates.[/$26]/Clear: Outer Ra'Kaznar.[/$26]/Clear: Ra'Kaznar Innert Court.[/$26]/Clear: mei.[/$26]/Clear: mgk.[/$26]/Cancel.]
- 7355: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure materials for the colonization effort. The assignment will be considered completed if you procure $2 materials by [logging/mining/harvesting].
- 7356: Only materials gathered in the field are valid. You need not file an official report, however. Simply bringing them back will suffice.
- 7357: Alternatively, the objective may also be completed by gathering pioneering materials from [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
- 7358: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy obstacles there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive].
- 7359: Alternatively, the objective may also be completed by destroying obstacles in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
- 7360: Select assignment type. [Preserve the peace.[/$26]/Patrol.[/$26]/None of the above.]
- 7361: [Accept/Report on/Cancel] which coalition assignment? [Preserve: Western Adoulin.[/$26]/Preserve: Eastern Adoulin.[/$26]/Preserve: Rala Waterways.[/$26]/Preserve: Ceizak Battlegrounds.[/$26]/Preserve: Yahse Hunting Grounds.[/$26]/Preserve: Foret de Hennetiel.[/$26]/Preserve: Morimar Basalt Fields.[/$26]/Preserve: Yorcia Weald.[/$26]/Preserve: Marjami Ravine.[/$26]/Preserve: Kamihr Drifts.[/$26]/Preserve: Sih Gates.[/$26]/Preserve: Moh Gates.[/$26]/Preserve: Cirdas Caverns.[/$26]/Preserve: Dho Gates.[/$26]/Preserve: Woh Gates.[/$26]/Preserve: Outer Ra'Kaznar.[/$26]/Preserve: Ra'Kaznar Inner Court.[/$26]/Preserve: mei.[/$26]/Preserve: mgk.[/$26]/Cancel.]
- 7362: [Accept/Report on/Cancel] which coalition assignment? [Patrol: Western Adoulin.[/$26]/Patrol: Eastern Adoulin.[/$26]/Patrol: Rala Waterways.[/$26]/Patrol: Ceizak Battlegrounds.[/$26]/Patrol: Yahse Hunting Grounds.[/$26]/Patrol: Foret de Hennetiel.[/$26]/Patrol: Morimar Basalt Fields.[/$26]/Patrol: Yorcia Weald.[/$26]/Patrol: Marjami Ravine.[/$26]/Patrol: Kamihr Drifts.[/$26]/Patrol: Sih Gates.[/$26]/Patrol: Moh Gates.[/$26]/Patrol: Cirdas Caverns.[/$26]/Patrol: Dho Gates.[/$26]/Patrol: Woh Gates.[/$26]/Patrol: Outer Ra'Kaznar.[/$26]/Patrol: Ra'Kaznar Inner Court.[/$26]/Patrol: mei.[/$26]/Patrol: mgk.[/$26]/Cancel.]
- 7363: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy monster lairs there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive].
- 7364: Alternatively, the objective may also be completed by destroying lairs in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
- 7365: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and vanquish monsters there. The assignment will be considered completed if you vanquish $2 [umbrils/umbrils/toads/twitherym/chapuli/craklaw/matamata/Yorcia Weald/Marjami Ravine/Kamihr Drifts/twitherym/raptors/maroliths/efts/acuexes/ironclads/mei/mei/mgk].
- 7366: Further, the objective may also be completed by vanquishing monsters in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
- 7367: Select assignment type. [Base provisions.[/$26]/Supply delivery.[/$26]/Frontline support.[/$26]/None of the above.]
- 7368: [Accept/Report on/Cancel] which coalition assignment? [Provide: Western Adoulin.[/$26]/Provide: Eastern Adoulin.[/$26]/Provide: Rala Waterways.[/$26]/Provide: Ceizak Battlegrounds.[/$26]/Provide: Yahse Hunting Grounds.[/$26]/Provide: Foret de Hennetiel.[/$26]/Provide: Morimar Basalt Fields.[/$26]/Provide: Yorcia Weald.[/$26]/Provide: Marjami Ravine.[/$26]/Provide: Kamihr Drifts.[/$26]/Provide: Sih Gates.[/$26]/Provide: Moh Gates.[/$26]/Provide: Cirdas Caverns.[/$26]/Provide: Dho Gates.[/$26]/Provide: Woh Gates.[/$26]/Provide: Outer Ra'Kaznar.[/$26]/Provide: Ra'Kaznar Inner Court.[/$26]/Provide: mei.[/$26]/Provide: mgk.[/$26]/Cancel.]
- 7369: [Accept/Report on/Cancel] which coalition assignment? [Deliver: Western Adoulin.[/$26]/Deliver: Eastern Adoulin.[/$26]/Deliver: Rala Waterways.[/$26]/Deliver: Ceizak Battlegrounds.[/$26]/Deliver: Yahse Hunting Grounds.[/$26]/Deliver: Foret de Hennetiel.[/$26]/Deliver: Morimar Basalt Fields.[/$26]/Deliver: Yorcia Weald.[/$26]/Deliver: Marjami Ravine.[/$26]/Deliver: Kamihr Drifts.[/$26]/Deliver: Sih Gates.[/$26]/Deliver: Moh Gates.[/$26]/Deliver: Cirdas Caverns.[/$26]/Deliver: Dho Gates.[/$26]/Deliver: Woh Gates.[/$26]/Deliver: Outer Ra'Kaznar.[/$26]/Deliver: Ra'Kaznar Inner Court.[/$26]/Deliver: mei.[/$26]/Deliver: mgk.[/$26]/Cancel.]
- 7370: [Accept/Report on/Cancel] which coalition assignment? [Support: Western Adoulin.[/$26]/Support: Eastern Adoulin.[/$26]/Support: Rala Waterways.[/$26]/Support: Ceizak Battlegrounds.[/$26]/Support: Yahse Hunting Grounds.[/$26]/Support: Foret de Hennetiel.[/$26]/Support: Morimar Basalt Fields.[/$26]/Support: Yorcia Weald.[/$26]/Support: Marjami Ravine.[/$26]/Support: Kamihr Drifts.[/$26]/Support: Sih Gates.[/$26]/Support: Moh Gates.[/$26]/Support: Cirdas Caverns.[/$26]/Support: Dho Gates.[/$26]/Support: Woh Gates.[/$26]/Support: Outer Ra'Kaznar.[/$26]/Support: Ra'Kaznar Inner Court.[/$26]/Support: mei.[/$26]/Support: mgk.[/$26]/Cancel.]
- 7371: You must deliver supplies to the site in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] where the frontier station is to be constructed. The assignment will be considered completed if you deliver $6.
- 7372: You must bring supplies from the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] back to the assignment desk. This assignment will be considered completed if you bring back $6.
- 7373: You must bring supplies to the frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you deliver $6.
- 7374: Further, the objective may also be completed by delivering supplies to a frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
- 7375: However, the supplies are quite fragile, so you must avoid waypoints to ensure that they do not break.
- 7376: Select assignment type. [Land surveys.[/$26]/Component analyses.[/$26]/None of the above.]
- 7377: [Accept/Report on/Cancel] which coalition assignment? [Survey: Western Adoulin.[/$26]/Survey: Eastern Adoulin.[/$26]/Survey: Rala Waterways.[/$26]/Survey: Ceizak Battlegrounds.[/$26]/Survey: Yahse Hunting Grounds.[/$26]/Survey: Foret de Hennetiel.[/$26]/Survey: Morimar Basalt Fields.[/$26]/Survey: Yorcia Weald.[/$26]/Survey: Marjami Ravine.[/$26]/Survey: Kamihr Drifts.[/$26]/Survey: Sih Gates.[/$26]/Survey: Moh Gates.[/$26]/Survey: Cirdas Caverns.[/$26]/Survey: Dho Gates.[/$26]/Survey: Woh Gates.[/$26]/Survey: Outer Ra'Kaznar.[/$26]/Survey: Ra'Kaznar Inner Court.[/$26]/Survey: mei.[/$26]/Survey: mgk.[/$26]/Cancel.]
- 7378: [Accept/Report on/Cancel] which coalition assignment? [Analyze: Western Adoulin.[/$26]/Analyze: Eastern Adoulin.[/$26]/Analyze: Rala Waterways.[/$26]/Analyze: Ceizak Battlegrounds.[/$26]/Analyze: Yahse Hunting Grounds.[/$26]/Analyze: Foret de Hennetiel.[/$26]/Analyze: Morimar Basalt Fields.[/$26]/Analyze: Yorcia Weald.[/$26]/Analyze: Marjami Ravine.[/$26]/Analyze: Kamihr Drifts.[/$26]/Analyze: Sih Gates.[/$26]/Analyze: Moh Gates.[/$26]/Analyze: Cirdas Caverns.[/$26]/Analyze: Dho Gates.[/$26]/Analyze: Woh Gates.[/$26]/Analyze: Outer Ra'Kaznar.[/$26]/Analyze: Ra'Kaznar Inner Court.[/$26]/Analyze: mei.[/$26]/Analyze: mgk.[/$26]/Cancel.]
- 7379: You must survey special tracts of land overflowing with mystical powers in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you survey an ergon locus located there.
- 7380: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure rare materials located there. The assignment will be considered completed if you procure $2 $0$0 .
- 7381: The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report.
- 7382: Alternatively, the objective may also be completed by surveying an ergon locus in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
- 7383: Alternatively, the objective may also be completed by procuring $1 found in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
- 7384: Select assignment type. [Gather materials.[/$26]/None of the above.]
- 7385: [Accept/Report on/Cancel] which coalition assignment? [Gather: Western Adoulin.[/$26]/Gather: Eastern Adoulin.[/$26]/Gather: Rala Waterways.[/$26]/Gather: Ceizak Battlegrounds.[/$26]/Gather: Yahse Hunting Grounds.[/$26]/Gather: Foret de Hennetiel.[/$26]/Gather: Morimar Basalt Fields.[/$26]/Gather: Yorcia Weald.[/$26]/Gather: Marjami Ravine.[/$26]/Gather: Kamihr Drifts.[/$26]/Gather: Sih Gates.[/$26]/Gather: Moh Gates.[/$26]/Gather: Cirdas Caverns.[/$26]/Gather: Dho Gates.[/$26]/Gather: Woh Gates.[/$26]/Gather: Outer Ra'Kaznar.[/$26]/Gather: Ra'Kaznar Inner Court.[/$26]/Gather: mei.[/$26]/Gather: mgk.[/$26]/Cancel.]
- 7386: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure specific materials located there. The assignment will be considered completed if you procure $2 $0$0 .
- 7387: The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report.
- 7388: Select assignment type. [Recovering lost articles.[/$26]/Behavioral research.[/$26]/Morale boosting.[/$26]/None of the above.]
- 7389: [Accept/Report on/Cancel] which coalition assignment? [Recover: Western Adoulin.[/$26]/Recover: Eastern Adoulin.[/$26]/Recover: Rala Waterways.[/$26]/Recover: Ceizak Battlegrounds.[/$26]/Recover: Yahse Hunting Grounds.[/$26]/Recover: Foret de Hennetiel.[/$26]/Recover: Morimar Basalt Fields.[/$26]/Recover: Yorcia Weald.[/$26]/Recover: Marjami Ravine.[/$26]/Recover: Kamihr Drifts.[/$26]/Recover: Sih Gates.[/$26]/Recover: Moh Gates.[/$26]/Recover: Cirdas Caverns.[/$26]/Recover: Dho Gates.[/$26]/Recover: Woh Gates.[/$26]/Recover: Outer Ra'Kaznar.[/$26]/Recover: Ra'Kaznar Inner Court.[/$26]/Recover: mei.[/$26]/Recover: mgk.[/$26]/Cancel.]
- 7390: [Accept/Report on/Cancel] which coalition assignment? [Research: Western Adoulin.[/$26]/Research: Eastern Adoulin.[/$26]/Research: Rala Waterways.[/$26]/Research: Ceizak Battlegrounds.[/$26]/Research: Yahse Hunting Grounds.[/$26]/Research: Foret de Hennetiel.[/$26]/Research: Morimar Basalt Fields.[/$26]/Research: Yorcia Weald[/$26]/Research: Marjami Ravine.[/$26]/Research: Kamihr Drifts.[/$26]/Research: Sih Gates.[/$26]/Research: Moh Gates.[/$26]/Research: Cirdas Caverns.[/$26]/Research: Dho Gates.[/$26]/Research: Woh Gates.[/$26]/Research: Outer Ra'Kaznar.[/$26]/Research: Ra'Kaznar Inner Court.[/$26]/Research: mei.[/$26]/Research: mgk.[/$26]/Cancel.]
- 7391: [Accept/Report on/Cancel] which coalition assignment? [Boost: Western Adoulin.[/$26]/Boost: Eastern Adoulin.[/$26]/Boost: Rala Waterways.[/$26]/Boost: Ceizak Battlegrounds.[/$26]/Boost: Yahse Hunting Grounds.[/$26]/Boost: Foret de Hennetiel.[/$26]/Boost: Morimar Basalt Fields.[/$26]/Boost: Yorcia Weald.[/$26]/Boost: Marjami Ravine.[/$26]/Boost: Kamihr Drifts.[/$26]/Boost: Sih Gates.[/$26]/Boost: Moh Gates.[/$26]/Boost: Cirdas Caverns.[/$26]/Boost: Dho Gates.[/$26]/Boost: Woh Gates.[/$26]/Boost: Outer Ra'Kaznar.[/$26]/Boost: Ra'Kaznar Inner Court.[/$26]/Boost: mei.[/$26]/Boost: mgk.[/$26]/Cancel.]
- 7392: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner court/mei/mgk] and find an item that a pioneer lost there. The assignment will be considered completed if you find $6.
- 7393: However, the pioneer may have dropped it in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] instead.
- 7394: Head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] to find and observe a monster located there. The assignment will be considered completed if you become the victim of a special attack from [an umbril/an umbril/a slug/a chapuli/a chapuli/a craklaw/a matamata/a snapweed/a tulfaire/a raaz/a crakklaw/a matamata/an aceux/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk].
- 7395: Not just any special attack will do. You must be the victim of a special attack that the Mummers' Coalition can use in one of its myriad forms of artistic expression.
- 7396: Alternatively, the objective may also be completed by being the victim of a special attack in the creatures' secondary habitat of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
- 7397: You must head to the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and cheer up the staff located there. The assignment will be considered completed if you successfully raise their spirits.
- 7398: Alternatively, the objective may also be completed by raising the spirits of those in the nearby area of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], as they are in need of encouragement as well.
- 7399: What expansion plan will you [vote for/view]? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./[None of these/None of these].]
- 7400: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition: Personal fame acquired: $1 pts. Total personal fame: $2 pts.
- 7401: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition: Additional coalition development value: $1 pts. Total coalition development value$7630880s.
- 7402: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition: [coalition fla/sign board/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan: Additional referendum value: $2 pts. Total referendum value: $3 pts.
- 7403: We also give additional rewards based on the degree of construction or the durability of the facility to those pioneers brave enough to travel far distances or into particularly dangerous territory.
- 7404: We also give additional rewards based on the extent of the survey to those pioneers brave enough to travel far distances or into particularly dangerous territory.
- 7405: [Why, hello there, my dear pioneer!/Good day to you./Hello, pioneer./Welcome to our establishmentaru!/I hope you're having a marvelous-warvelous day!/Welcome back!] Is there anything you'd like to know about the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition?
- 7406: What would you like to know about? [The [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition's role./The state of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition./Types of coalition assignments./Current expansion plans./Coalition referendum support./Your current standing./Nothing.]
- 7407: The Pioneers' Coalition contributes to the colonization effort mainly by cultivating uninhabitable territory and preparing the necessary resources to do so.
- 7408: It would take no stretch of the imagination to say that our coalition is the standard-bearer for the whole movement, what with all the brave young men and women that swell our ranks.
- 7409: The maester who leads our family of settlers is Lhe Lhangavo from the Order of Karieyh. She's possibly the most passionate of any order leader, and certainly one of the most caring. She's always looking out for her subordinates.
- 7410: The Peacekeepers' Coalition has the most self-explanatory name I'm sure you've ever heard. We work towards making Adoulin a safer place.
- 7411: We're composed of only the most dedicated and dutiful individuals--people willing to give their lives to protect this town and its populace.
- 7412: The great--though often grumpy--Gratzigg is our maester, but despite his sour demeanor, he's the most loyal of anyone in the Twelve Orders. His love for Adoulin has saved it from utter despair more times than I care to remember.
- 7413: The Couriers' Coalition does its part by transporting supplies to the front lines. We also ensure the integrity of every shipment's cargo.
- 7414: We're very punctual and really strict about getting our deliveries right. We have the reputation of being uptight because of it, but it's those qualities that keep the pioneering movement going.
- 7415: Reginald serves as our maester. He may not be the most talkative person you've ever met, but just try to find a more gentlemanly gentleman among the Twelve Orders.
- 7416: The Scouts' Coalition gathers intelligence from all over the continentaru and analyzes unknown materials to further the colonization movement.
- 7417: The knowledge our coalition accrues, coupled-woupled with our innate knack for careful archival supervision, makes us indispensable in this era.
- 7418: Our maestaru, Margret, belongs to the Order of Haverton. Her sheer brilliance-williance makes appetizers out of even the most difficult problems, so it's no wonder that she is seen as one of the greatest minds in Adoulin.
- 7419: The Inventors' Coalition mainly supportarus pioneers and the colonization of Ulbuka through the development of tools and equipment.
- 7420: We provide an economic foundation-wation for the city and the pioneering movement by using the materials pioneers bring us to create new foodstuffs that can last an ocean voyage, along with new articles to outfitaru explorers.
- 7421: Our maester is the one-and-only Amchuchu from the Order of Orvail. Her skills and mind are more renowned than possibly any other maester in Adoulin's history-wistory, making her one of our most talented technicians.
- 7422: The number one concern for the Mummers' Coalition is pioneer morale.
- 7423: It may seem like all we do is spout japes and cavort about, but there is a method to our apparent madness. Soothing the spirits of pioneers has a proven economic benefit, so expect to see Mummer-sponsored events for some time to come.
- 7424: Flaviria from the Order of Thurandaut heads our troupe, and I've never seen anyone who can spin a yarn or tell a joke quite like her. It's obvious that someone with her personality would be loved by both the nobility and common folk.
- 7425: The [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition is currently rank number $1.
- 7426: According to the most recent surveys, this coalition [is a blight on the city./is nothing to write home about./isn't half bad./is expanding nicely./is a credit to the city./puts others to shame!/is a paragon of prosperity!] [You might want to try to remedy that./Keep trying./Your efforts are starting to pay off./That said, you're still only halfway to the top./Feel free to gloat about your accomplishments./I hope you're not afraid of heights, because you're incredibly close to the top!/How's the view from the top? Great? Then keep up the excellent work!]
- 7427: You've all been [abysmal/uninspiring/decent/remarkable/positively miraculous] at accomplishing your coalition assignments. Our coalition's rank [will almost certainly fall/may fall/will probably stay about the same/might rise/will almost certainly rise] after the next evaluation.
- 7428: You want to know about the services offered by the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition? Well, we offer[.../ nothing at the moment. Sorry.]
- 7429: [- Gathering Goods/- Gathering Goods II/- Gathering Equipment/- Gathering Technique Knowledge/- Colonization Support Provisions/- Gathering Goods III/- Gathering Equipment II/- Colonization Support Provisions II/- Gathering Technique Knowledge II][/ and our overly cheerful trailblazing attitude...not that the last is really a service./nothing at this time.]
- 7430: [- Traditional Armor/- Traditional Weaponry/- Traditional Armor II/- Frontline Provisions/- Traditional Weaponry II/- Traditional Armor III/- Traditional Armor IV/- Traditional Armor V/- Traditional Armor VI][/ and our usual killjoy meddling...if you call that a service./no services at this time.]
- 7431: [- Travel Assistance Provisions/- Temporary Warp Runes/- Town Movement Speed Enhancement/- Delivery Personnel Increase/- Kinetic Unit Cost Adjustment/- Temporary Warp Runes II/- Town Movement Speed Enhancement II/- Delivery Personnel Increase II/- Kinetic Unit Cost Adjustment II][/ and our compulsive attention to the time...if you can even call that a service./no services at this time.]
- 7432: [- Maps/- Map Marking/- Colonization Intelligence/- Ergon Locus Intelligence/- Library Cards/- Map Marking II/- Spoils of War Intelligence/- Ergon Locus Intelligence II/- Spoils of War Intelligence II][/ and our absolutely incessant snooping...if you're into that kinda thing./no services at this time.]
- 7433: [- Ergon Tinctures/- Synthesis Support Provisions/- Arcane Glyptics Price Reduction/- Arcane Glyptics Materials/- Growth Agents and Materials/- Synthesis Support Provisions II/- Arcane Glyptics Price Reduction II/- Growth Agents and Materials Price Reduction/- Travel Provisions][/ and our annual Girls of Science calendar...if you can get your hands on a copy./no services at this time.]
- 7434: [- Guess That Number (Game)/- Boom or Bust (Game)/- On The Dot (Game)/- Cascade (Game)/- Mummers' Medal Prizes/- Box of Fortune (Game)/- Mummers' Medal Prizes II/- Mummers' Medal Prizes III/- Three-Card Circus (Game)][/ and our usual array of god-awful puns...if you can stand that particular service./no services at this time.]
- 7435: Based on the expansion of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, Ionis provides[.../ no additional benefits.]
- 7436: [/- Minor Attack Enhancement/- Minor Magic Attack Bonus/- Minor Gathering Fatigue Reduction/- Minor Gathering Efficacy Enhancement/- Moderate Attack Enhancement/- Moderate Magic Attack Bonus/- Moderate Gathering Fatigue Reduction /- Moderate Gathering Efficacy Enhancement][/ in addition to its normal benefits./no additional benefits.]
- 7437: [/- Minor Defense Enhancement/- Minor Magic Defense Bonus/- Minor HP and MP Recovery Enhancement/- Minor Enhancement to Max HP and MP/- Moderate Defense Enhancement/- Moderate Magic Defense Bonus/- Moderate HP and MP Recovery Enhancement/- Moderate Enhancement to Max HP and MP][/ in addition to its normal benefits./no additional benefits.]
- 7438: [/- Minor Accuracy and Magic Accuracy Enhancement/- Minor Evasion and Magic Evasion Enhancement/- Minor Critical Hit Rate Increase/- Minor Haste Effect/- Moderate Accuracy and Magic Accuracy Enhancement/- Moderate Evasion and Magic Evasion Enhancement/- Moderate Critical Hit Rate Increase/- Moderate Haste Effect][/ in addition to its normal benefits./no additional benefits.]
- 7439: [/- Minor Save TP Effect/- Minor Conserve MP Effect/- Minor Fast Cast Effect/- Minor Resistance Increase to All Status Ailments/- Moderate Save TP Effect/- Moderate Conserve MP Effect/- Moderate Fast Cast Effect/- Moderate Resistance Increase to All Status Ailments][/ in addition to its normal benefits./no additional benefits.]
- 7440: [/- Minor Crystal Obtainment Rate Increase/- Minor Material Loss Rate Reduction/- Minor Synthesis Skill Gain Rate Increase/- Minor Synthesis Success Rate Increase/- Moderate Crystal Obtainment Rate Increase/- Moderate Material Loss Rate Reduction/- Moderate Synthesis Skill Gain Rate Increase/- Moderate Synthesis Success Rate Increase][/ in addition to its normal benefits./no additional benefits.]
- 7441: [/- Minor Combat Skill Gain Rate Increase/- Minor Magic Skill Gain Rate Increase/- Minor Experience Point Bonus/- Minor Reward Obtainment Rate Increase/- Moderate Combat Skill Gain Rate Increase/- Moderate Magic Skill Gain Rate Increase/- Moderate Experience Point Bonus/- Moderate Reward Obtainment Rate Increase][/ in addition to its normal benefits./no additional benefits.]
- 7442: What assignments will you ask about? [Procuring resources./Clearing the way./Preserving the peace./Patrols./Base provisions./Delivering supplies./Frontline support./Land surveys./Component analysis./Gathering materials./Recovering lost articles./Behavioral research./Morale boosting./Nothing.]
- 7443: Head out into the world and gather vital pioneering resources via methods such as mining and logging. Simply purchasing the supplies tells the coalition nothing of your abilities, however, and those who do will receive no remuneration.
- 7444: It may seem like a thankless job, but the erection of coalition expansions and frontier stations demands constant provisioning, so it is not a task to be taken lightly.
- 7445: Natural obstacles pop up from time to time, and pioneers are often asked to engage in a bit of bushwhacking to clear them away so the colonization movement can proceed. The only way to be officially recognized for such feats, though, is by participating in Colonization Reives.
- 7446: The perils are aptly named, for many pioneers have fallen in attempts to rid the land of them. So many, in fact, that Maester Lhangavo was bereft of a few fur clumps for some time worrying over the issue.
- 7447: Peace in Adoulin is a precarious thing. Fiends could assault the city at any moment, which is why we need to nip this problem in the bud. Join Lair Reives to eliminate their breeding grounds and contribute to the colonization effort.
- 7448: If only the instinct to rebuild their homes were not so engrained in these hellions, life would be much easier for us. Sadly, you'll need to participate in these reives periodically in order to keep Ulbuka habitable.
- 7449: While the Peacekeepers' Coalition often makes its rounds in the city itself, these patrols will take you to specific jungle locales for the express purpose of culling unwanted pests. Make sure to slay your quota, though, or you won't receive any recognition for your deeds.
- 7450: Give Adoulin's population some peace of mind by embarking on these expeditions every so often. Also, rumors about far more terrifying beasts are likely to surface the further we progress into Ulbuka's interior, but as long as you stick to your duties, you should have no reason to fear them.
- 7451: For these assignments, you'll need to transport provisions to the sites of future frontier stations. You can now use waypoints and still receive commendations, but be prepared to hear stories about "back in my day, we had to walk all the way out and back on our own two feet," from some wily veterans.
- 7452: Frontier stations are paramount to sustaining the colonization effort. Tasks of greater magnitude can't even begin without one, so building these structures should always be a priority.
- 7453: You will sometimes be charged with carrying supplies from specific frontier stations to the Couriers' Coalition.
- 7454: By supplies, I mean ones obtained in the jungle through pioneering. Yes, acting as a beast of burden may not be the most glamorous duty, but it is a vital one if we're to improve the coalitions and keep Adoulin economically stable.
- 7455: The most effective way of supporting those risking their lives on the front lines is by supplying designated frontier bivouacs with the necessary provisions. While it may go against previous Couriers' Coalition policy, the use of waypoints is henceforth permitted on this type of assignment.
- 7456: Truth be told, frontier bivouacs are not as developed as their station counterparts, but they still play an important role in the colonization of the continent. If they don't receive provisions regularly, our supply lines to the stations will wither and die.
- 7457: Travel to places unknown in search of ergon loci, areas overflowing with natural energy. While some say it's the journey--not the destination--that matters, failing to survey even a single locus will leave you both depleted of energy and empty-handed.
- 7458: The potency of an ergon tincture is highly dependent upon the strength of the ergon locus from which it's extracted, so a thorough investigation must be made into each location if we're to successfully use this trump card we've created.
- 7459: Completion of these assignments means providing the Scouts' Coalition--and no others, for they are the only ones to possess the proper facilities--with unique and extraordinary materials from certain territories.
- 7460: The jungle is teeming with obscure and unfamiliar substances, and from them we hope to derive more powerful and effective materials with which to aid the colonization effort. Science waits for no man, however, and without periodic deliveries of new samples, our research will stagnate.
- 7461: The proper equipment and tools are instrumental in the colonization movement's progress--and the Inventors' Coalition apparently wants to be the one to corner the market.
- 7462: While the Inventors' Coalition doesn't particularly care how you obtain what they ask for once you're in the specified location, they are quite picky about the number you obtain and the fact that you can't deliver to anyone else.
- 7463: Pioneers are an intrepid band of adventurers, but the nature of their trade makes them prone to losing personal effects. Pick up any lost articles in the territory to which you are dispatched and return for a reward along with a pat on the back.
- 7464: This is probably the least garish service the Mummers' Coalition provides, but it's one for which pioneers throughout Adoulin are eternally grateful.
- 7465: Though they may not be the friendliest of Ulbuka's inhabitants, that doesn't mean the fiends who populate the continent can't teach us a thing or two. Research designated beasts by personally experiencing their special attacks and report what they taught you...if you live to tell the tale.
- 7466: The Mummers' Coalition is constantly searching for its muse in all manner of sources, one being the myriad monsters scattered throughout the jungle. Investigating monsters' behavior may be just the inspiration they need to concoct new dances, gags, and events!
- 7467: The isolation of the frontier can eat at even the most independent of us, which is why it's important to give our pioneers something to cheer about. Head to specified frontier stations and lift the spirits of the workers there! Just remember that if they don't smile, you don't get rewarded.
- 7468: Dance, sing, shout, or generally make a fool of yourself. It doesn't matter how you do it, as long as you can make them laugh and forget their cares for a few moments.
- 7469: This coalition is edified as much as possible, and therefore we have no plans to expand.
- 7470: Which plan do you want to learn about? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./None.]
- 7471: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Gathering Goods/Gathering Goods II/Gathering Equipment/Gathering Technique Knowledge/Colonization Support Provisions/Gathering Goods III/Gathering Equipment II/Colonization Support Provisions II/Gathering Technique Knowledge II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
- 7472: Further, Ionis effects will expand to include [/Minor Attack Enhancement/Minor Magic Attack Bonus/Minor Gathering Fatigue Reduction/Minor Gathering Efficacy Enhancement/Moderate Attack Enhancement/Moderate Magic Attack Bonus/Moderate Gathering Fatigue Reduction/Moderate Gathering Efficacy Enhancement].
- 7473: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Traditional Armor/Traditional Weaponry/Traditional Armor II/Frontline Provisions/Traditional Weaponry II/Traditional Armor III/Traditional Armor IV/Traditional Armor V/Traditional Armor VI] will [increase in number/expand throughout the continent/provide additional services/be more successful].
- 7474: Further, Ionis effects will expand to include [/Minor Defense Enhancement/Minor Magic Defense Bonus/Minor HP and MP Recovery Enhancement/Minor Enhancement to Max HP and MP/Moderate Defense Enhancement/Moderate Magic Defense Bonus/Moderate HP and MP Recovery Enhancement/Moderate Enhancement to Max HP and MP].
- 7475: If the [/coalition flag/signboard/emblem/second floor/Adoulin flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Travel Assistance Provisions/Temporary Warp Runes/Town Movement Speed Enhancement/Delivery Personnel Increase/Kinetic Unit Cost Adjustment/Temporary Warp Runes II/Town Movement Speed Enhancement II/Delivery Personnel Increase II/Kinetic Unit Cost Adjustment II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
- 7476: Further, Ionis effects will expand to include [/Minor Accuracy and Magic Accuracy Enhancement/Minor Evasion and Magic Evasion Enhancement/Minor Critical Hit Rate Increase/Minor Haste Effect/Moderate Accuracy and Magic Accuracy Enhancement/Moderate Evasion and Magic Evasion Enhancement/Moderate Haste Effect].
- 7477: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Maps/Map Marking/Colonization Intelligence/Ergon Locus Intelligence/Library Cards/Map Marking II/Spoils of War Intelligence/Ergon Locus Intelligence II/Spoils of War Intelligence II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
- 7478: Further, Ionis effects will expand to include [/Minor Save TP Effect/Minor Conserve MP Effect/Minor Fast Cast Effect/Minor Resistance Increase to All Status Ailments/Moderate Save TP Effect/Moderate Conserve MP Effect/Moderate Fast Cast Effect/Moderate Resistance Increase to All Status Ailments].
- 7479: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Ergon Tinctures/Synthesis Support Provisions/Arcane Glyptics Price Reduction/Arcane Glyptics Materials/Growth Agents and Materials/Synthesis Support Provisions II/Arcane Glyptics Price Reduction II/Growth Agents and Materials Price Reduction/Travel Provisions] will [increase in number/expand throughout the continent/provide additional services/be more successful].
- 7480: Further, Ionis effects will expand to include [/Minor Crystal Obtainment Rate Increase/Minor Material Loss Rate Reduction/Minor Synthesis Skill Gain Rate Increase/Minor Synthesis Success Rate Increase/Moderate Crystal Obtainment Rate Increase/Moderate Material Loss Rate Reduction/Moderate Synthesis Skill Gain Rate Increase/Moderate Synthesis Success Rate Increase].
- 7481: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Guess That Number (Game)/Boom or Bust (Game)/On The Dot (Game)/Cascade (Game)/Mummers' Medal Prizes/Box of Fortune (Game)/Mummers' Medal Prizes II/Mummers' Medal Prizes III/Three-Card Circus (Game)] will [increase in number/expand throughout the continent/provide additional services/be more successful].
- 7482: Further, the Ionis effects will expand to include [/Minor Combat Skill Gain Rate Increase Minor Magic Skill Gain Rate Increase/Minor Experience Point Bonus/Minor Reward Obtainment Rate Increase/Moderate Combat Skill Gain Rate Increase/Moderate Magic Skill Gain Rate Increase/Moderate Experience Point Bonus/Moderate Reward Obtainment Rate Increase].
- 7483: The structure most members want to see added to the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition is...
- 7484: A[ coalition flag/ signboard/n emblem/ second floor/n Adoulinian flag/ main terrace/ bay roof/ main chimney]! [It leads by default since there aren't any other proposals./Many more people have voted for it than any other structure./A good number of people have chosen it over the other options./Not by much, however.]
- 7485: Your contributions to the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition have earned you the title of...
- 7486: [Pioneer/Peacekeeper/Courier/Scout/Inventor/Mummer] [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]! [You're off to a swell start!/Congratulations, but you're not out of the woods yet./They've given you their trust. Now it's time to prove they were right to do so!/You're in the position to start making a big difference in Adoulin!/Talent flows unabated from your every pore!/Other pioneers must trample each other seeking your sage advice./One could very well say that the colonization effort revolves around you!/Your exploits will surely be etched in the annals of this continent's history!]
- 7487: A [Lair/Colonization/Wildskeeper] Reive has started at ([A/B/C/D/E/F/G/H/I/J/K/L/M/N/O]-$2).
- 7488: What will you do? [Turn tail./Press onward./Check battle conditions.]
- 7489: The current battle conditions are: [Finish./Currently: $11.$21%/Currently: Unknown/$2 [min. ago/hr. ago]: $12.$22%/$2 [min. ago/hr. ago]: Unclear./$3 [min. ago/hr. ago]: $13.$23%/$3 [min. ago/hr. ago]: Unclear./$4 [min. ago/hr. ago]: $14.$24%/$4 [min. ago/hr. ago]: Unclear./$5 [min. ago/hr. ago]: $15.$25%/$5 [min. ago/hr. ago]: Unclear./$6 [min. ago/hr. ago]: $16.$26%/$6 [min. ago/hr. ago]: Unclear./$7 [min. ago/hr. ago]: $17.$27%/$7 [min. ago/hr. ago]: Unclear./$8 [min. ago/hr. ago]: $18.$28%/$8 [min. ago/hr. ago]: Unclear./$9 [min. ago/hr. ago]: $19.$29%/$9 [min. ago/hr. ago]: Unclear./$10 [min. ago/hr. ago]: $20.$30%/$10 [min. ago/hr. ago]: Unclear./Change time interval.]
- 7490: What time interval? [Keep the current interval ( [5/10/20/30/60] mins.)./Five minutes./Ten minutes./Twenty minutes./Thirty minutes./Sixty minutes.]
- 7491: As of $1 [minute/hour][/s] ago, [Colkhab/Tchakka/Achuka/Yumcax/Hurkan/Kumhau]'s HP is at $3.$4%.
- 7492: Unable to confirm [Colkhab/Tchakka/Achuka/Yumcax/Hurkan/Kumhau]'s existence as of $1 [minute/hour][/s] ago.
- 7493: You have accomplished a coalition assignment!
- 7494: Report back to the manager who assigned you this task.
- 7495: Report your success to the manager who assigned you this task.
- 7496: You have already made your delivery. Report your success to the manager who assigned you this task.
- 7497: Procure: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 resource[/s] [logged/mined/harvested/excavated].
- 7498: Clear: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 [colonization/lair/wildskeeper] reives completed.
- 7499: Preserve: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 [colonization/lair/wildskeeper] reives completed.
- 7500: Patrol: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 [umbrils/umbrils/toads/twitherym/chapulis/craklaws/matamata/yok/mar/kam/twitherym/raptors/maroliths/efts/acuexes/iron giants/mei/mei/mgk] culled.
- 7501: Thanks for coming all this way. I'd love to offer you some hospitality, but we'd need to get this frontier station completed first! Could you lend us a hand by signing up for a coalition assignment?
- 7502: Thanks so much for delivering this $3! I can't wait to see how this station looks once it's built. If you want, you can go pick up your reward from the manager who gave you this assignment.
- 7503: We're glad you tried your best, but destroyed $5 are useless to us. Sorry, but can you pick up another one from the manager in charge?
- 7504: Welcome to the frontier! This station has already been built, but you can always help construct some bivouacs or keep them supplied.
- 7505: Frontier stations are self-sufficient, but the bivouacs are sadly not. We'd be extremely appreciative if you could undertake some assignments to make sure they stay in operation.
- 7506: Hello, there! We have some materials we'd like delivered to town, but we have to go through the right channels. Would you mind undertaking a coalition assignment to transport them back?
- 7507: Thank you for helping us out. Here's the $3. All we ask is that you take it to the manager in charge of this assignment.
- 7508: Thank you for helping us out. All we ask is that you deliver your cargo safely to the manager in charge of this assignment.
- 7509: Well, here's another $3, but please be careful not to break this one.
- 7510: Good day to you. This is [the future site of /]frontier bivouac [#1/#2/#3/#4/#5].
- 7511: Thank you for the $3. We greatly appreciate your efforts to [help set up/provision] frontier bivouac [#1/#2/#3/#4/#5]. Please speak with the manager in charge of this assignment to collect your reward.
- 7512: I'm terribly sorry, but we can't use broken $5. Could you please return to the coalition assignment desk and procure us another?
- 7513: How nice it is to see another face out here! As much as I'd like for you to help us set up frontier bivouac [#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.
- 7514: The magical properties of the waypoint proved too much for your $3 to handle, and it broke...
- 7515: This seems to be the site of the ergon locus oft called the "[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame]." It is most likely worth surveying.
- 7516: This seems to be the site of the ergon locus oft called the "[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall]." It is most likely worth surveying.
- 7517: Commence survey? [Yes./No.]
- 7518: [Your survey is a success./You have already surveyed an ergon locus in the area.] Return to the manager in charge and report on what you have learned about the ergon locus's attributes.
- 7519: Your survey has ended in utter failure. The time of day and distance from which you surveyed could very well be to blame.
- 7520: Analyze: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 $0$0 evaluated.
- 7521: Gather: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 $0$0 acquired.
- 7522: You have found $6. As it likely belongs to a pioneer, you surmise that you should deliver it to the manager in charge of your assignment.
- 7523: You have already found a lost article. As much as it pains you to ignore someone's plight, you decide to deliver the one currently in your possession to the manager in charge of your assignment.
- 7524: A small article resembling a pouch lies unattended on the ground. Could someone have dropped this...?
- 7525: Research: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 [umbril/umbril/slug/chapuli/chapuli/craklaw/matamata/snapweed/tulfaire/raaz/craklaw/matamata/acuex/sui/pik/raaz/mei/mei/mgk] special attack[/s] studied.
- 7526: It's so tough constructing frontier stations. It's always "build, build, build," and "scrounge, scrounge, scrounge." All I want is a little break from the monotony of it all.
- 7527: It's so tough maintaining a frontier station. I'm always fending off bloodthirsty hellions and scrounging for provisions. All I want is a little break from the monotony of it all.
- 7528: What will you do? [Look pleased./Cry a river./Act surprised./Rue your life./Cheer./Pretend to be flustered./Blush like a maiden./Rally the troops./Nothing for now.]
- 7529: Ahahaha! Of all the things to pull, I never thought you'd do that! I had no idea that was coming.
- 7530: Um...is something the matter with you? Maybe you should see a physician...
- 7531: Approaching from that direction [might not have been very effective/was probably the right thing to do.]. As for your gag, [it wasn't with the times/it was right on the mark].
- 7532: You don't know how much I needed something like that. Thank you.
- 7533: [Construction on /]Frontier Bivouac #[1/2/3/4/5] is[/ currently at] $2 percent [complete/durability]. We are in need of [materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in [building this thing/keeping this place running]?
- 7534: Tallying conquest results...
- 7535: Conquest results tallied.
- 7536: This region is currently under San d'Orian control.
- 7537: This region is currently under Bastokan control.
- 7538: This region is currently under Windurstian control.
- 7539: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7540: This region is currently neutral.
- 7541: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7542: All three nations are tied for first place.
- 7543: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7544: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7545: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7546: All three nations are tied for first place.
- 7547: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7548: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7549: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7550: All three nations are tied for first place.
- 7551: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7552: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7553: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7554: All three nations are tied for first place.
- 7555: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7556: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7557: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7558: Global balance of power: All three nations are tied for first place.
- 7559: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7560: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7561: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7562: All three nations are tied for first place.
- 7563: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7564: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7565: Conquest update: This region is currently neutral.
- 7566: Conquest update: This region is currently under San d'Orian control.
- 7567: Conquest update: This region is currently under Bastokan control.
- 7568: Conquest update: This region is currently under Windurstian control.
- 7569: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7570: All three nations are at a deadlock.
- 7571: The beastmen are on the rise.
- 7572: Regional influence: San d'Oria - Dominant
- 7573: Regional influence: San d'Oria - Major
- 7574: Regional influence: San d'Oria - Minor
- 7575: Regional influence: San d'Oria - Minimal
- 7576: Bastok - Dominant
- 7577: Bastok - Major
- 7578: Bastok - Minor
- 7579: Bastok - Minimal
- 7580: Windurst - Dominant
- 7581: Windurst - Major
- 7582: Windurst - Minor
- 7583: Windurst - Minimal
- 7584: Bastok and Windurst have formed an alliance.
- 7585: San d'Oria and Windurst have formed an alliance.
- 7586: San d'Oria and Bastok have formed an alliance.
- 7587: Bastok and Windurst are currently allies.
- 7588: San d'Oria and Windurst are currently allies.
- 7589: San d'Oria and Bastok are currently allies.
- 7590: $10$P11.$17F$0 $P14;$P12hF$1
- 7591: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7592: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7593: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7594: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7595: The beastmen are gaining power.
- 7596: San d'Oria's regional control is now 10% closer to the first place country's!
- 7597: Bastok's regional control is now 10% closer to the first place country's!
- 7598: Windurst's regional control are now 10% closer to the first place country's!
- 7599: San d'Oria's region points have increased!
- 7600: Bastok's region points have increased!
- 7601: Windurst's region points have increased!
- 7602: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7603: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7604: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7605: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7606: A Bastokan Expeditionary Force has been dispatched to this area.
- 7607: A Windurstian Expeditionary Force has been dispatched to this area.
- 7608: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7609: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7610: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7611: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7612: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7613: There was a curse on the beastmen's banner!
- 7614: The curse of the beastmen's banner has been lifted!
- 7615: There is a beastmen's banner.
- 7616: @
+ 7169: Your wing skill improved to $0!
+ 7170: The area's colonization rate has [increased/decreased] to $0%.
+ 7171: <Player> has joined the [Lair/Colonization/Wildskeeper] Reive!
+ 7172: You are now eligible to participate in the Wildskeeper Reive.
+ 7173: You are no longer eligible to participate in the Wildskeeper Reive.
+ 7174: You have strayed too far from the [Lair/Colonization/Wildskeeper] Reive! You will be discharged in $1 second[/s].
+ 7175: You will be discharged in $0 second[/s].
+ 7176: You have been removed from the [Lair/Colonization/Wildskeeper] Reive.
+ 7177: You have returned to the [Lair/Colonization/Wildskeeper] Reive.
+ 7178: <Player> is victorious in the [Lair/Colonization/Wildskeeper] Reive!
+ 7179: You are unable to participate in a reive for the next $0 minute[/s].
+ 7180: <Player> did not receive any experience points.
+ 7181: <Player>'s experience points have been stored because [he/she] has been defeated.
+ 7182: <Player> obtained $0 bayld!
+ 7183: <Player> did not obtain any bayld.
+ 7184: <Player>'s bayld has been stored because [he/she] has been defeated.
+ 7185: Inventory is full. You could not obtain the $1.
+ 7186: [The frontier station/Frontier Bivouac #1/Frontier Bivouac #2/Frontier Bivouac #3/Frontier Bivouac #4/Frontier Bivouac #5] in [Adoulin/Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/RafKaznar] has been completed!
+ 7187: [The frontier station/Frontier Bivouac #1/Frontier Bivouac #2/Frontier Bivouac #3/Frontier Bivouac #4/Frontier Bivouac #5] in [Adoulin/Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/RafKaznar] has been destroyed!
+ 7188: The edification rank of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition has increased!
+ 7189: The edification rank of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition has decreased!
+ 7190: Reive momentum score: Physical attack.
+ 7191: Reive momentum score: Ranged attack.
+ 7192: Reive momentum score: Magic attack.
+ 7193: Reive momentum score: Attack success.
+ 7194: Reive momentum score: Damage taken.
+ 7195: Reive momentum score: Monster vanquishing.
+ 7196: Reive momentum score: HP recovery.
+ 7197: Reive momentum score: Raise support.
+ 7198: Reive momentum score: Enhancing support.
+ 7199: Reive momentum score: Enfeebling support.
+ 7200: Reive momentum score: Skillchain success.
+ 7201: Reive momentum score: Resistance success.
+ 7202: Reive momentum score: Attack target.
+ 7203: Reive momentum: 14.
+ 7204: Reive momentum: 15.
+ 7205: Momentum bonus: HP recovery!
+ 7206: Momentum bonus: MP recovery!
+ 7207: Momentum bonus: TP recovery!
+ 7208: Momentum bonus: Status ailment recovery!
+ 7209: Momentum bonus: Ability cast recovery!
+ 7210: Momentum bonus: Stoneskin!
+ 7211: Momentum Bonus: Increased potency!
+ 7212: Momentum Bonus: Subtle Blow!
+ 7213: Momentum Bonus: Fast Cast!
+ 7214: Momentum Bonus: Store TP!
+ 7215: Momentum bonus: Increased maximum HP and MP!
+ 7216: You are unable to use this object.
+ 7217: The light flickers in and out of existence. Inside you see a distorted vision of[ /]$0[/bayld].
+ 7218: In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible.
+ 7219: Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have $0 attempt[/s] remaining.
+ 7220: Pick your poison. (Attempts left: $0) [Do nothing./Attempt to get the item./Give up.]
+ 7221: From the direction and distance, the distortion is at $0%.
+ 7222: You succeed in acquiring the $0[/bayld]!
+ 7223: The $0[/bayld] eludes your grasp.
+ 7224: The $0 breaks, but you were able to sense the degree of distortion without touching the light.
+ 7225: The light vanishes like it was nothing but a mirage.
+ 7226: The air grows tense with some strange force.
+ 7227: You should be able to proceed further if you have $3.
+ 7228: Are you ready to [proceed/turn back]? [Yes./No.]
+ 7229: Your $3 is destroyed, but you are able to successfully press forward.
+ 7230: However, you sense nothing out of the ordinary. Going further in will accomplish nothing.
+ 7231: However, without a proper means to cross the river, you are unable to go further.
+ 7232: DEBUG: Colonization Rate: $0% (Internal value: $1
+ 7233: DEBUG: Current no. of outposts: $0. DEBUG: Maximum no. of outposts: $1.
+ 7234: DEBUG: [Bivouac/Outpost A/Outpost B/Outpost C/Outpost D/Outpost E] building value: $1.
+ 7235: DEBUG:[Bivouac/Outpost A/Outpost B/Outpost C/Outpost D/Outpost E] building flag: [OFF/ON]
+ 7236: DEBUG: No. of ergon loci surveyed: [A/B/C/D]: $1.
+ 7237: DEBUG: Ergon loci [A/B/C/D] effect rang: $1.
+ 7238: DEBUG: Active reive no.: $0.
+ 7239: DEBUG: Reive no. for which battles have [commenced/finished]: $1.
+ 7240: DEBUG: Participating reive no.: $0.
+ 7241: DEBUG: Left reive no.: $0.
+ 7242: DEBUG: Decreased HP increment: $0.
+ 7243: DEBUG: Base exp (decreased boss HP): $0. DEBUG: Base points: (decreased boss HP): $0.
+ 7244: DEBUG: Base exp after additional vanquishing bonus: $0. DEBUG: Base points after additional vanquishing bonus: $1.
+ 7245: DEBUG: Base battle evaluation rating: $0.
+ 7246: DEBUG: Upper experience limit after battle assessment rate: $0. DEBUG: Upper point limit after battle assessment rate: $1.
+ 7247: DEBUG: Post-rate experience by reive type: $0.
+ 7248: DEBUG: Experience after deviation from base level value: $0.
+ 7249: DEBUG: Final experience after cutting upper limit $0.
+ 7250: DEBUG: Post-rate points by reive type: $0.
+ 7251: DEBUG: $3x$3 [$n$0$P12lFL$7$P15*cL$3|$3C$3$3gF$0]
+ 7252: DEBUG: Final points after cutting upper limit: $0.
+ 7253: DEBUG: Stored experience: $0.
+ 7254: DEBUG: Stored points $0.
+ 7255: DEBUG:[Colonization rate/station/ergon loci/coalition] degradationover time: [ON/OFF].
+ 7256: DEBUG: Debug? [Colonization rate degradation over time: on/off/Biouvac degradation over time: on/off./Change internal colonization rate value./Change internal station building value./Change internal biouvac A building value./Change internal biouvac B building value./Change internal biouvac C building value./Change internal biouvac D building value./Change internal biouvac E building value./Add station coalition assignment completion value./Add biouvac A coalition assignment completion value./Add biouvac B coalition assignment completion value./Add biouvac C coalition assignment completion value./Add biouvac D coalition assignment completion value./Add biouvac E coalition assignment completion value./Add ergon locus A coalition assignment completion value./Add ergon locus B coalition assignment completion value./Add ergon locus C coalition assignment completion value./Add ergon locus D coalition assignment completion value./Ergon loc degradation over time: on/off./Add colonization rate coalition assigment completion value./Cancel.]
+ 7257: DEBUG: Debug: [Growth value degradation over time: on/off./Change internal Pioneers' Coalition growth value./Change internal Peacekeepers' Coalition growth value./Change internal Couriers' Coalition growth value./Change internal Scouts' Coalition growth value./Change internal Inventors' Coalition growth value./Change internal Mummers' Coalition growth value./Change Pioneers' Coalition referendum/support value./Change Peacekeepers' Coalition referendum/support value./Change Couriers' Coalition referendum/support value./Change Scouts' Coalition referendum/support value./Change Inventors' Coalition referendum/support value./Change Mummers' Coalition referendum/support value./Add Pioneers' Coalition coalition assignment completion value./Add Peacekeepers' Coalition coalition assignment completion value./Add Couriers' Coalition coalition assignment completion value./Add Scouts' Coalition coalition assignment completion value./Add Inventors' Coalition coalition assignment completion value./Add Mummers' Coalition coalition assignment completion value./Add Pioneers' Coalition coalition quest completion support value./Add Peacekeepers' Coalition coalition quest completion support value./Add Couriers' Coalition coalition quest completion support value./Add Scouts' Coalition coalition quest completion support value./Add Inventors' Coalition coalition quest completion support value./Add Mummers' Coalition coalition quest completion support value./Cancel.]
+ 7258: DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]
+ 7259: DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]
+ 7260: DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]
+ 7261: DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]
+ 7262: DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]
+ 7263: DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]
+ 7264: DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]
+ 7265: DEBUG: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition growth value: $1.
+ 7266: DEBUG: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition growth rank: $1.
+ 7267: DEBUG:[Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition support value: DEBUG: 1=$1 2=$2 3=$3.
+ 7268: DEBUG:4=$1 5=$2 6=$3.
+ 7269: DEBUG:7=$1 8=$2.
+ 7270: DEBUG: Bonus condition achieved: condition no. $0.
+ 7271: DEBUG: Share battle bonus activated: bonus no. $0.
+ 7272: DEBUG: Used flag deactivated: bonus no. $0.
+ 7273: DEBUG: Shared battle bonus received: bonus no. $0.
+ 7274: DEBUG: Shared battle bonus flag deactivated: bonus no. flag $0.
+ 7275: DEBUG: Personal assessment completed--bonus condition: condition no. $0/added value +$1/overall total: $2.
+ 7276: DEBUG: Total battle assessment value: $0.
+ 7277: DEBUG: Drop rank $0
+ 7278: [Logging/Mining/Harvesting/Mining] is possible here if you have $0.
+ 7279: You are too fatigued.
+ 7280: You should be able to gather $0 more time[/s] before you become fatigued.
+ 7281: [You/However, you] are unable to gather anything.
+ 7282: Your $0 breaks!
+ 7283: Your $0 remains intact!
+ 7284: You find $0, but your $1 is destroyed in the process.
+ 7285: You also find $0!
+ 7286: You also find $0, but you are carrying too many things.
+ 7287: [Critical/Double/Conservative/Cherished] [chop/quarry/harvest/quarry]! <Player> [finds some high quality materials/deftly collects more materials/expends no energy/prevents their gathering tool from breaking]!
+ 7288: DEBUG: Current fatigue level: $0 ($1point/$2flame)
+ 7289: DEBUG: Critical result: rnd=$0/ (train=$1 equip=$2 tool=$3)
+ 7290: DEBUG: Double result: rnd=$0/ (train=$1 equip=$2 tool=$3)
+ 7291: DEBUG: Recovery result: rnd=$0/ (train=$1 equip=$2 tool=$3)
+ 7292: DEBUG: Modulation result: rnd=$0/ (train=$1 equip=$2 tool=$3)
+ 7293: DEBUG: Breakage rate result: break=$0 (rnd=0--$1)/$2 (base=$3)
+ 7294: DEBUG: Practice value result: train=$0 (base=$1 equip=$2 tool=$3)
+ 7295: DEBUG:Fatigue level result: tired=$0 (base=$1 equip=-$2 tool=-$3)
+ 7296: DEBUG: Table result 1: (dev=$0 equip=$1 tool=$2 train=$3)
+ 7297: DEBUG: Table result 2: rank=$0 (tech=$1 all=$2)
+ 7298: [How farrre you?/Hello!/May Altana guide you, pioneer./A pleasure to see you./A fair day to you./It is good to see you.] I am here to provide intrepid pioneers with assignments from the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition.
+ 7299: Here at the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, we entrust various tasks related to [the colonization effort/the protection of Adoulin/the transport of goods through Adoulin and Ulbuka/the collection of information for the benefit of the coalition/the pursuit of new technologies/the provision of new entertainment forms] to those willing to aid our cause.
+ 7300: <Player>, is it not? Brenton at the Pioneers' Coalition has been looking for you. Please go see him at your earliest convenience.
+ 7301: <Player>, correct? Brenton here would like to have a word with you. He said it was important.
+ 7302: [Welcome back./I'm glad to see you again./We've been waiting for you./Back and better than ever, I see./How are things?/Why, hello there!] It is my understanding that you have completed one of our tasks. Do you have anything to report?
+ 7303: Let me take a look... Why, this $3 is broken! I'll give you another one, but you really must be more careful with something so valuable.
+ 7304: Let me take a look... This $3 is broken. Unfortunately, it's of no use to us now. Go back to the frontier station and bring back another one--whole, this time!
+ 7305: I wish you speed upon your journey.
+ 7306: You're not a registered pioneer? I am only authorized to give tasks to those with the appropriate credentials.
+ 7307: Come back when you have the requisite certification.
+ 7308: Since you're already here, why not take a few minutes to fill out the forms? It won't take long.
+ 7309: Our records don't seem to mention you. Is this your first time accepting a coalition assignment? Then let me take a moment to explain a bit more about what we do.
+ 7310: The six coalitions here in Adoulin each require the help of pioneers in their own way to support the colonization effort. These tasks both directly and indirectly support the colonization effort.
+ 7311: We will, of course, pay appropriate recompense to those completing these assignments. Further, the Twelve Orders will recognize your efforts as you continue to accomplish these goals, and may even provide you with more important duties as you begin to make a name for yourself.
+ 7312: Perhaps more significantly, the influence of each coalition will expand as more pioneers fulfill these obligations, and the Twelve Orders will permit them to expand.
+ 7313: This, in turn, will enable the coalitions to increase the number and quality of the services they provide, thereby enabling them to contribute to the colonization project even more.
+ 7314: Likewise, if one coalition does not receive enough pioneer support, it may shrink in scale, even if it had previously expanded. It is for this reason that we try to make our assignments as lucrative as feasible.
+ 7315: However, we want to ensure that all pioneers are able to contribute equally. As such, the number of coalition assignments that can be undertaken each day is governed by a system comprised of imprimaturs.
+ 7316: You will have to part with one imprimatur per job you undertake. Each pioneer may possess up to $0 of such permits, with additional imprimaturs distributed at set intervals.
+ 7317: In your case, we will render you with a total of $1 imprimaturs every $0 hours (Earth time). They will be held for you at assignment desks.
+ 7318: One benefit of this system is that you are able to contribute at your own pace. You may save up imprimaturs over a period of time and fill many orders at once, or you may instead use them as they come in.
+ 7319: Additionally, you can choose to spend multiple imprimaturs for one task. Predictably, you will receive rewards commensurate with the number of imprimaturs used.
+ 7320: The convenience of pioneers was our foremost priority when establishing this system. You may use all your imprimaturs to support a particular coalition, or you may instead choose to distribute them among several.
+ 7321: You may also cancel an assignment after it has been accepted. Any imprimaturs used will be returned to you--unless this would put you over the maximum amount, in which case they will be destroyed.
+ 7322: There is another aspect of the system I have not yet touched on: "coalition referendums."
+ 7323: The coalition referendums help determine how a particular coalition is going to expand. Pioneers are able to vote on which direction the coalition should head.
+ 7324: When you complete an assignment, you will be asked to choose which plan the coalition should prioritize.
+ 7325: A coalition's expansion and services are inexorably intertwined, so take ample stock of which services are on offer before casting your ballot.
+ 7326: The expansion process will take approximately one week (Earth time). Note that coalitions that have not received much pioneer contribution will not expand.
+ 7327: I know this is a lot of information to take in, but it is an essential part of your pioneering activities in Ulbuka.
+ 7328: Since this is your first time here, I shall provide you with a total of $0 imprimaturs so that you may get started right away.
+ 7329: What would you like to do? ($0 imprimatur[/s]) [Undertake a coalition assignment./Report on a completed assignment./Cancel an in-progress assignment./Check imprimatur distribution time./Hear an explanation of the system./End the conversation.]
+ 7330: What's this, then? You don't have any imprimaturs? Hmm... You needn't be overly worried, for the next batch will be distributed in $0 [second/minute][/s].
+ 7331: Select which assignment to cancel.
+ 7332: Really cancel? [Yes./No.]
+ 7333: I have filled out this form stating your cancellation, and restored your imprimaturs to their original amount.
+ 7334: This makes for a total of $0 imprimatur[/s] currently in your possession.
+ 7335: The next batch of imprimaturs will be distributed in $0 [second/minute][/s].
+ 7336: You seem to be in possession of the maximum number of imprimaturs. If you do not use them before the next distribution, you will not receive any additional ones.
+ 7337: We look forward to seeing you again.
+ 7338: We are currently able to offer you the following coalition assignments.
+ 7339: Unfortunately, we do not currently have any assignments for you to undertake.
+ 7340: Select how many imprimaturs you would like to expend for this assignment.
+ 7341: How many will you use? (Total: $0). [One./Two./Three./Four./Five./Hang on one moment.]
+ 7342: Use $0 imprimatur[/s]? [Of course!/No way.]
+ 7343: You used $0 imprimatur[/s], and currently have a stock of $1.
+ 7344: Return here once you have completed your assignment. We appreciate your assistance and hope for your safe return.
+ 7345: Your report was quite valuable. Thank you. We ask that you submit your vote in the coalition referendum before receiving your reward.
+ 7346: Select which item the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition should prioritize in its expansion plan.
+ 7347: Truly abstain from voting? [Yes. Voting is institutionalized coercion./No. Democracy is a privilege.]
+ 7348: It's a shame you feel that way. Still, you deserve proper compensation. Here you go.
+ 7349: Would you like to vote this way? [Yes. It's my Goddess-given duty./No. My vote doesn't count anyway.]
+ 7350: [Really? That?/Are you sure?/I can't believe.../Hmm.../That's not the way I would have taken it...] Well, I suppose that's why it's your vote, and not mine. What's important is that you expressed your opinion. And now, your compensation.
+ 7351: I congratulate you on your success and am pleased to hear your report. The coalition has prepared a reward befitting your contributions.
+ 7352: In addition to the standard compensation, I also hereby present you with this $0. A little bird dropped it off, and I feel that it would be best in your capable hands.
+ 7353: Select assignment type. [Procure materials.[/$26]/Clear the way.[/$26]/None of the above.]
+ 7354: [Accept/Report on/Cancel] which coalition assignment? [Procure: Western Adoulin.[/$26]/Procure: Eastern Adoulin.[/$26]/Procure: Rala Waterways.[/$26]/Procure: Ceizak Battlegrounds.[/$26]/Procure: Yahse Hunting Grounds.[/$26]/Procure: Foret de Hennetiel.[/$26]/Procure: Morimar Basalt Fields.[/$26]/Procure: Yorcia Weald.[/$26]/Procure: Marjami Ravine.[/$26]/Procure: Kamihr Drifts.[/$26]/Procure: Sih Gates.[/$26]/Procure: Moh Gates.[/$26]/Procure: Cirdas Caverns.[/$26]/Procure: Dho Gates.[/$26]/Procure: Woh Gates.[/$26]/Procure: Outer Ra'Kaznar.[/$26]/Procure: Ra'Kaznar Inner Court.[/$26]/Procure: mei.[/$26]/Procure: mgk.[/$26]/Cancel.]
+ 7355: [Accept/Report on/Cancel] which coalition assignment? [Clear: Western Adoulin.[/$26]/Clear: Eastern Adoulin.[/$26]/Clear: Rala Waterways.[/$26]/Clear: Ceizak Battlegrounds.[/$26]/Clear: Yahse Hunting Grounds.[/$26]/Clear: Foret de Hennetiel.[/$26]/Clear: Morimar Basalt Fields.[/$26]/Clear: Yorcia Weald.[/$26]/Clear: Marjami Ravine.[/$26]/Clear: Kamihr Drifts.[/$26]/Clear: Sih Gates.[/$26]/Clear: Moh Gates.[/$26]/Clear: Cirdas Caverns.[/$26]/Clear: Dho Gates.[/$26]/Clear: Woh Gates.[/$26]/Clear: Outer Ra'Kaznar.[/$26]/Clear: Ra'Kaznar Innert Court.[/$26]/Clear: mei.[/$26]/Clear: mgk.[/$26]/Cancel.]
+ 7356: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure materials for the colonization effort. The assignment will be considered completed if you procure $2 materials by [logging/mining/harvesting].
+ 7357: Only materials gathered in the field are valid. You need not file an official report, however. Simply bringing them back will suffice.
+ 7358: Alternatively, the objective may also be completed by gathering pioneering materials from [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+ 7359: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy obstacles there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive].
+ 7360: Alternatively, the objective may also be completed by destroying obstacles in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+ 7361: Select assignment type. [Preserve the peace.[/$26]/Patrol.[/$26]/None of the above.]
+ 7362: [Accept/Report on/Cancel] which coalition assignment? [Preserve: Western Adoulin.[/$26]/Preserve: Eastern Adoulin.[/$26]/Preserve: Rala Waterways.[/$26]/Preserve: Ceizak Battlegrounds.[/$26]/Preserve: Yahse Hunting Grounds.[/$26]/Preserve: Foret de Hennetiel.[/$26]/Preserve: Morimar Basalt Fields.[/$26]/Preserve: Yorcia Weald.[/$26]/Preserve: Marjami Ravine.[/$26]/Preserve: Kamihr Drifts.[/$26]/Preserve: Sih Gates.[/$26]/Preserve: Moh Gates.[/$26]/Preserve: Cirdas Caverns.[/$26]/Preserve: Dho Gates.[/$26]/Preserve: Woh Gates.[/$26]/Preserve: Outer Ra'Kaznar.[/$26]/Preserve: Ra'Kaznar Inner Court.[/$26]/Preserve: mei.[/$26]/Preserve: mgk.[/$26]/Cancel.]
+ 7363: [Accept/Report on/Cancel] which coalition assignment? [Patrol: Western Adoulin.[/$26]/Patrol: Eastern Adoulin.[/$26]/Patrol: Rala Waterways.[/$26]/Patrol: Ceizak Battlegrounds.[/$26]/Patrol: Yahse Hunting Grounds.[/$26]/Patrol: Foret de Hennetiel.[/$26]/Patrol: Morimar Basalt Fields.[/$26]/Patrol: Yorcia Weald.[/$26]/Patrol: Marjami Ravine.[/$26]/Patrol: Kamihr Drifts.[/$26]/Patrol: Sih Gates.[/$26]/Patrol: Moh Gates.[/$26]/Patrol: Cirdas Caverns.[/$26]/Patrol: Dho Gates.[/$26]/Patrol: Woh Gates.[/$26]/Patrol: Outer Ra'Kaznar.[/$26]/Patrol: Ra'Kaznar Inner Court.[/$26]/Patrol: mei.[/$26]/Patrol: mgk.[/$26]/Cancel.]
+ 7364: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy monster lairs there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive].
+ 7365: Alternatively, the objective may also be completed by destroying lairs in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+ 7366: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and vanquish monsters there. The assignment will be considered completed if you vanquish $2 [umbrils/umbrils/toads/twitherym/chapuli/craklaw/matamata/Yorcia Weald/Marjami Ravine/Kamihr Drifts/twitherym/raptors/maroliths/efts/acuexes/ironclads/mei/mei/mgk].
+ 7367: Further, the objective may also be completed by vanquishing monsters in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+ 7368: Select assignment type. [Base provisions.[/$26]/Supply delivery.[/$26]/Frontline support.[/$26]/None of the above.]
+ 7369: [Accept/Report on/Cancel] which coalition assignment? [Provide: Western Adoulin.[/$26]/Provide: Eastern Adoulin.[/$26]/Provide: Rala Waterways.[/$26]/Provide: Ceizak Battlegrounds.[/$26]/Provide: Yahse Hunting Grounds.[/$26]/Provide: Foret de Hennetiel.[/$26]/Provide: Morimar Basalt Fields.[/$26]/Provide: Yorcia Weald.[/$26]/Provide: Marjami Ravine.[/$26]/Provide: Kamihr Drifts.[/$26]/Provide: Sih Gates.[/$26]/Provide: Moh Gates.[/$26]/Provide: Cirdas Caverns.[/$26]/Provide: Dho Gates.[/$26]/Provide: Woh Gates.[/$26]/Provide: Outer Ra'Kaznar.[/$26]/Provide: Ra'Kaznar Inner Court.[/$26]/Provide: mei.[/$26]/Provide: mgk.[/$26]/Cancel.]
+ 7370: [Accept/Report on/Cancel] which coalition assignment? [Deliver: Western Adoulin.[/$26]/Deliver: Eastern Adoulin.[/$26]/Deliver: Rala Waterways.[/$26]/Deliver: Ceizak Battlegrounds.[/$26]/Deliver: Yahse Hunting Grounds.[/$26]/Deliver: Foret de Hennetiel.[/$26]/Deliver: Morimar Basalt Fields.[/$26]/Deliver: Yorcia Weald.[/$26]/Deliver: Marjami Ravine.[/$26]/Deliver: Kamihr Drifts.[/$26]/Deliver: Sih Gates.[/$26]/Deliver: Moh Gates.[/$26]/Deliver: Cirdas Caverns.[/$26]/Deliver: Dho Gates.[/$26]/Deliver: Woh Gates.[/$26]/Deliver: Outer Ra'Kaznar.[/$26]/Deliver: Ra'Kaznar Inner Court.[/$26]/Deliver: mei.[/$26]/Deliver: mgk.[/$26]/Cancel.]
+ 7371: [Accept/Report on/Cancel] which coalition assignment? [Support: Western Adoulin.[/$26]/Support: Eastern Adoulin.[/$26]/Support: Rala Waterways.[/$26]/Support: Ceizak Battlegrounds.[/$26]/Support: Yahse Hunting Grounds.[/$26]/Support: Foret de Hennetiel.[/$26]/Support: Morimar Basalt Fields.[/$26]/Support: Yorcia Weald.[/$26]/Support: Marjami Ravine.[/$26]/Support: Kamihr Drifts.[/$26]/Support: Sih Gates.[/$26]/Support: Moh Gates.[/$26]/Support: Cirdas Caverns.[/$26]/Support: Dho Gates.[/$26]/Support: Woh Gates.[/$26]/Support: Outer Ra'Kaznar.[/$26]/Support: Ra'Kaznar Inner Court.[/$26]/Support: mei.[/$26]/Support: mgk.[/$26]/Cancel.]
+ 7372: You must deliver supplies to the site in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] where the frontier station is to be constructed. The assignment will be considered completed if you deliver $6.
+ 7373: You must bring supplies from the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] back to the assignment desk. This assignment will be considered completed if you bring back $6.
+ 7374: You must bring supplies to the frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you deliver $6.
+ 7375: Further, the objective may also be completed by delivering supplies to a frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+ 7376: However, the supplies are quite fragile, so you must avoid waypoints to ensure that they do not break.
+ 7377: Select assignment type. [Land surveys.[/$26]/Component analyses.[/$26]/None of the above.]
+ 7378: [Accept/Report on/Cancel] which coalition assignment? [Survey: Western Adoulin.[/$26]/Survey: Eastern Adoulin.[/$26]/Survey: Rala Waterways.[/$26]/Survey: Ceizak Battlegrounds.[/$26]/Survey: Yahse Hunting Grounds.[/$26]/Survey: Foret de Hennetiel.[/$26]/Survey: Morimar Basalt Fields.[/$26]/Survey: Yorcia Weald.[/$26]/Survey: Marjami Ravine.[/$26]/Survey: Kamihr Drifts.[/$26]/Survey: Sih Gates.[/$26]/Survey: Moh Gates.[/$26]/Survey: Cirdas Caverns.[/$26]/Survey: Dho Gates.[/$26]/Survey: Woh Gates.[/$26]/Survey: Outer Ra'Kaznar.[/$26]/Survey: Ra'Kaznar Inner Court.[/$26]/Survey: mei.[/$26]/Survey: mgk.[/$26]/Cancel.]
+ 7379: [Accept/Report on/Cancel] which coalition assignment? [Analyze: Western Adoulin.[/$26]/Analyze: Eastern Adoulin.[/$26]/Analyze: Rala Waterways.[/$26]/Analyze: Ceizak Battlegrounds.[/$26]/Analyze: Yahse Hunting Grounds.[/$26]/Analyze: Foret de Hennetiel.[/$26]/Analyze: Morimar Basalt Fields.[/$26]/Analyze: Yorcia Weald.[/$26]/Analyze: Marjami Ravine.[/$26]/Analyze: Kamihr Drifts.[/$26]/Analyze: Sih Gates.[/$26]/Analyze: Moh Gates.[/$26]/Analyze: Cirdas Caverns.[/$26]/Analyze: Dho Gates.[/$26]/Analyze: Woh Gates.[/$26]/Analyze: Outer Ra'Kaznar.[/$26]/Analyze: Ra'Kaznar Inner Court.[/$26]/Analyze: mei.[/$26]/Analyze: mgk.[/$26]/Cancel.]
+ 7380: You must survey special tracts of land overflowing with mystical powers in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you survey an ergon locus located there.
+ 7381: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure rare materials located there. The assignment will be considered completed if you procure $2 $0$0 .
+ 7382: The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report.
+ 7383: Alternatively, the objective may also be completed by surveying an ergon locus in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+ 7384: Alternatively, the objective may also be completed by procuring $1 found in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+ 7385: Select assignment type. [Gather materials.[/$26]/None of the above.]
+ 7386: [Accept/Report on/Cancel] which coalition assignment? [Gather: Western Adoulin.[/$26]/Gather: Eastern Adoulin.[/$26]/Gather: Rala Waterways.[/$26]/Gather: Ceizak Battlegrounds.[/$26]/Gather: Yahse Hunting Grounds.[/$26]/Gather: Foret de Hennetiel.[/$26]/Gather: Morimar Basalt Fields.[/$26]/Gather: Yorcia Weald.[/$26]/Gather: Marjami Ravine.[/$26]/Gather: Kamihr Drifts.[/$26]/Gather: Sih Gates.[/$26]/Gather: Moh Gates.[/$26]/Gather: Cirdas Caverns.[/$26]/Gather: Dho Gates.[/$26]/Gather: Woh Gates.[/$26]/Gather: Outer Ra'Kaznar.[/$26]/Gather: Ra'Kaznar Inner Court.[/$26]/Gather: mei.[/$26]/Gather: mgk.[/$26]/Cancel.]
+ 7387: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure specific materials located there. The assignment will be considered completed if you procure $2 $0$0 .
+ 7388: The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report.
+ 7389: Select assignment type. [Recovering lost articles.[/$26]/Behavioral research.[/$26]/Morale boosting.[/$26]/None of the above.]
+ 7390: [Accept/Report on/Cancel] which coalition assignment? [Recover: Western Adoulin.[/$26]/Recover: Eastern Adoulin.[/$26]/Recover: Rala Waterways.[/$26]/Recover: Ceizak Battlegrounds.[/$26]/Recover: Yahse Hunting Grounds.[/$26]/Recover: Foret de Hennetiel.[/$26]/Recover: Morimar Basalt Fields.[/$26]/Recover: Yorcia Weald.[/$26]/Recover: Marjami Ravine.[/$26]/Recover: Kamihr Drifts.[/$26]/Recover: Sih Gates.[/$26]/Recover: Moh Gates.[/$26]/Recover: Cirdas Caverns.[/$26]/Recover: Dho Gates.[/$26]/Recover: Woh Gates.[/$26]/Recover: Outer Ra'Kaznar.[/$26]/Recover: Ra'Kaznar Inner Court.[/$26]/Recover: mei.[/$26]/Recover: mgk.[/$26]/Cancel.]
+ 7391: [Accept/Report on/Cancel] which coalition assignment? [Research: Western Adoulin.[/$26]/Research: Eastern Adoulin.[/$26]/Research: Rala Waterways.[/$26]/Research: Ceizak Battlegrounds.[/$26]/Research: Yahse Hunting Grounds.[/$26]/Research: Foret de Hennetiel.[/$26]/Research: Morimar Basalt Fields.[/$26]/Research: Yorcia Weald[/$26]/Research: Marjami Ravine.[/$26]/Research: Kamihr Drifts.[/$26]/Research: Sih Gates.[/$26]/Research: Moh Gates.[/$26]/Research: Cirdas Caverns.[/$26]/Research: Dho Gates.[/$26]/Research: Woh Gates.[/$26]/Research: Outer Ra'Kaznar.[/$26]/Research: Ra'Kaznar Inner Court.[/$26]/Research: mei.[/$26]/Research: mgk.[/$26]/Cancel.]
+ 7392: [Accept/Report on/Cancel] which coalition assignment? [Boost: Western Adoulin.[/$26]/Boost: Eastern Adoulin.[/$26]/Boost: Rala Waterways.[/$26]/Boost: Ceizak Battlegrounds.[/$26]/Boost: Yahse Hunting Grounds.[/$26]/Boost: Foret de Hennetiel.[/$26]/Boost: Morimar Basalt Fields.[/$26]/Boost: Yorcia Weald.[/$26]/Boost: Marjami Ravine.[/$26]/Boost: Kamihr Drifts.[/$26]/Boost: Sih Gates.[/$26]/Boost: Moh Gates.[/$26]/Boost: Cirdas Caverns.[/$26]/Boost: Dho Gates.[/$26]/Boost: Woh Gates.[/$26]/Boost: Outer Ra'Kaznar.[/$26]/Boost: Ra'Kaznar Inner Court.[/$26]/Boost: mei.[/$26]/Boost: mgk.[/$26]/Cancel.]
+ 7393: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner court/mei/mgk] and find an item that a pioneer lost there. The assignment will be considered completed if you find $6.
+ 7394: However, the pioneer may have dropped it in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] instead.
+ 7395: Head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] to find and observe a monster located there. The assignment will be considered completed if you become the victim of a special attack from [an umbril/an umbril/a slug/a chapuli/a chapuli/a craklaw/a matamata/a snapweed/a tulfaire/a raaz/a crakklaw/a matamata/an aceux/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk].
+ 7396: Not just any special attack will do. You must be the victim of a special attack that the Mummers' Coalition can use in one of its myriad forms of artistic expression.
+ 7397: Alternatively, the objective may also be completed by being the victim of a special attack in the creatures' secondary habitat of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+ 7398: You must head to the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and cheer up the staff located there. The assignment will be considered completed if you successfully raise their spirits.
+ 7399: Alternatively, the objective may also be completed by raising the spirits of those in the nearby area of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], as they are in need of encouragement as well.
+ 7400: What expansion plan will you [vote for/view]? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./[None of these/None of these].]
+ 7401: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition: Personal fame acquired: $1 pts. Total personal fame: $2 pts.
+ 7402: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition: Additional coalition development value: $1 pts. Total coalition development value$7630880s.
+ 7403: [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition: [coalition fla/sign board/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan: Additional referendum value: $2 pts. Total referendum value: $3 pts.
+ 7404: We also give additional rewards based on the degree of construction or the durability of the facility to those pioneers brave enough to travel far distances or into particularly dangerous territory.
+ 7405: We also give additional rewards based on the extent of the survey to those pioneers brave enough to travel far distances or into particularly dangerous territory.
+ 7406: [Why, hello there, my dear pioneer!/Good day to you./Hello, pioneer./Welcome to our establishmentaru!/I hope you're having a marvelous-warvelous day!/Welcome back!] Is there anything you'd like to know about the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition?
+ 7407: What would you like to know about? [The [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition's role./The state of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition./Types of coalition assignments./Current expansion plans./Coalition referendum support./Your current standing./Nothing.]
+ 7408: The Pioneers' Coalition contributes to the colonization effort mainly by cultivating uninhabitable territory and preparing the necessary resources to do so.
+ 7409: It would take no stretch of the imagination to say that our coalition is the standard-bearer for the whole movement, what with all the brave young men and women that swell our ranks.
+ 7410: The maester who leads our family of settlers is Lhe Lhangavo from the Order of Karieyh. She's possibly the most passionate of any order leader, and certainly one of the most caring. She's always looking out for her subordinates.
+ 7411: The Peacekeepers' Coalition has the most self-explanatory name I'm sure you've ever heard. We work towards making Adoulin a safer place.
+ 7412: We're composed of only the most dedicated and dutiful individuals--people willing to give their lives to protect this town and its populace.
+ 7413: The great--though often grumpy--Gratzigg is our maester, but despite his sour demeanor, he's the most loyal of anyone in the Twelve Orders. His love for Adoulin has saved it from utter despair more times than I care to remember.
+ 7414: The Couriers' Coalition does its part by transporting supplies to the front lines. We also ensure the integrity of every shipment's cargo.
+ 7415: We're very punctual and really strict about getting our deliveries right. We have the reputation of being uptight because of it, but it's those qualities that keep the pioneering movement going.
+ 7416: Reginald serves as our maester. He may not be the most talkative person you've ever met, but just try to find a more gentlemanly gentleman among the Twelve Orders.
+ 7417: The Scouts' Coalition gathers intelligence from all over the continentaru and analyzes unknown materials to further the colonization movement.
+ 7418: The knowledge our coalition accrues, coupled-woupled with our innate knack for careful archival supervision, makes us indispensable in this era.
+ 7419: Our maestaru, Margret, belongs to the Order of Haverton. Her sheer brilliance-williance makes appetizers out of even the most difficult problems, so it's no wonder that she is seen as one of the greatest minds in Adoulin.
+ 7420: The Inventors' Coalition mainly supportarus pioneers and the colonization of Ulbuka through the development of tools and equipment.
+ 7421: We provide an economic foundation-wation for the city and the pioneering movement by using the materials pioneers bring us to create new foodstuffs that can last an ocean voyage, along with new articles to outfitaru explorers.
+ 7422: Our maester is the one-and-only Amchuchu from the Order of Orvail. Her skills and mind are more renowned than possibly any other maester in Adoulin's history-wistory, making her one of our most talented technicians.
+ 7423: The number one concern for the Mummers' Coalition is pioneer morale.
+ 7424: It may seem like all we do is spout japes and cavort about, but there is a method to our apparent madness. Soothing the spirits of pioneers has a proven economic benefit, so expect to see Mummer-sponsored events for some time to come.
+ 7425: Flaviria from the Order of Thurandaut heads our troupe, and I've never seen anyone who can spin a yarn or tell a joke quite like her. It's obvious that someone with her personality would be loved by both the nobility and common folk.
+ 7426: The [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition is currently rank number $1.
+ 7427: According to the most recent surveys, this coalition [is a blight on the city./is nothing to write home about./isn't half bad./is expanding nicely./is a credit to the city./puts others to shame!/is a paragon of prosperity!] [You might want to try to remedy that./Keep trying./Your efforts are starting to pay off./That said, you're still only halfway to the top./Feel free to gloat about your accomplishments./I hope you're not afraid of heights, because you're incredibly close to the top!/How's the view from the top? Great? Then keep up the excellent work!]
+ 7428: You've all been [abysmal/uninspiring/decent/remarkable/positively miraculous] at accomplishing your coalition assignments. Our coalition's rank [will almost certainly fall/may fall/will probably stay about the same/might rise/will almost certainly rise] after the next evaluation.
+ 7429: You want to know about the services offered by the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition? Well, we offer[.../ nothing at the moment. Sorry.]
+ 7430: [- Gathering Goods/- Gathering Goods II/- Gathering Equipment/- Gathering Technique Knowledge/- Colonization Support Provisions/- Gathering Goods III/- Gathering Equipment II/- Colonization Support Provisions II/- Gathering Technique Knowledge II][/ and our overly cheerful trailblazing attitude...not that the last is really a service./nothing at this time.]
+ 7431: [- Traditional Armor/- Traditional Weaponry/- Traditional Armor II/- Frontline Provisions/- Traditional Weaponry II/- Traditional Armor III/- Traditional Armor IV/- Traditional Armor V/- Traditional Armor VI][/ and our usual killjoy meddling...if you call that a service./no services at this time.]
+ 7432: [- Travel Assistance Provisions/- Temporary Warp Runes/- Town Movement Speed Enhancement/- Delivery Personnel Increase/- Kinetic Unit Cost Adjustment/- Temporary Warp Runes II/- Town Movement Speed Enhancement II/- Delivery Personnel Increase II/- Kinetic Unit Cost Adjustment II][/ and our compulsive attention to the time...if you can even call that a service./no services at this time.]
+ 7433: [- Maps/- Map Marking/- Colonization Intelligence/- Ergon Locus Intelligence/- Library Cards/- Map Marking II/- Spoils of War Intelligence/- Ergon Locus Intelligence II/- Spoils of War Intelligence II][/ and our absolutely incessant snooping...if you're into that kinda thing./no services at this time.]
+ 7434: [- Ergon Tinctures/- Synthesis Support Provisions/- Arcane Glyptics Price Reduction/- Arcane Glyptics Materials/- Growth Agents and Materials/- Synthesis Support Provisions II/- Arcane Glyptics Price Reduction II/- Growth Agents and Materials Price Reduction/- Travel Provisions][/ and our annual Girls of Science calendar...if you can get your hands on a copy./no services at this time.]
+ 7435: [- Guess That Number (Game)/- Boom or Bust (Game)/- On The Dot (Game)/- Cascade (Game)/- Mummers' Medal Prizes/- Box of Fortune (Game)/- Mummers' Medal Prizes II/- Mummers' Medal Prizes III/- Three-Card Circus (Game)][/ and our usual array of god-awful puns...if you can stand that particular service./no services at this time.]
+ 7436: Based on the expansion of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, Ionis provides[.../ no additional benefits.]
+ 7437: [/- Minor Attack Enhancement/- Minor Magic Attack Bonus/- Minor Gathering Fatigue Reduction/- Minor Gathering Efficacy Enhancement/- Moderate Attack Enhancement/- Moderate Magic Attack Bonus/- Moderate Gathering Fatigue Reduction /- Moderate Gathering Efficacy Enhancement][/ in addition to its normal benefits./no additional benefits.]
+ 7438: [/- Minor Defense Enhancement/- Minor Magic Defense Bonus/- Minor HP and MP Recovery Enhancement/- Minor Enhancement to Max HP and MP/- Moderate Defense Enhancement/- Moderate Magic Defense Bonus/- Moderate HP and MP Recovery Enhancement/- Moderate Enhancement to Max HP and MP][/ in addition to its normal benefits./no additional benefits.]
+ 7439: [/- Minor Accuracy and Magic Accuracy Enhancement/- Minor Evasion and Magic Evasion Enhancement/- Minor Critical Hit Rate Increase/- Minor Haste Effect/- Moderate Accuracy and Magic Accuracy Enhancement/- Moderate Evasion and Magic Evasion Enhancement/- Moderate Critical Hit Rate Increase/- Moderate Haste Effect][/ in addition to its normal benefits./no additional benefits.]
+ 7440: [/- Minor Save TP Effect/- Minor Conserve MP Effect/- Minor Fast Cast Effect/- Minor Resistance Increase to All Status Ailments/- Moderate Save TP Effect/- Moderate Conserve MP Effect/- Moderate Fast Cast Effect/- Moderate Resistance Increase to All Status Ailments][/ in addition to its normal benefits./no additional benefits.]
+ 7441: [/- Minor Crystal Obtainment Rate Increase/- Minor Material Loss Rate Reduction/- Minor Synthesis Skill Gain Rate Increase/- Minor Synthesis Success Rate Increase/- Moderate Crystal Obtainment Rate Increase/- Moderate Material Loss Rate Reduction/- Moderate Synthesis Skill Gain Rate Increase/- Moderate Synthesis Success Rate Increase][/ in addition to its normal benefits./no additional benefits.]
+ 7442: [/- Minor Combat Skill Gain Rate Increase/- Minor Magic Skill Gain Rate Increase/- Minor Experience Point Bonus/- Minor Reward Obtainment Rate Increase/- Moderate Combat Skill Gain Rate Increase/- Moderate Magic Skill Gain Rate Increase/- Moderate Experience Point Bonus/- Moderate Reward Obtainment Rate Increase][/ in addition to its normal benefits./no additional benefits.]
+ 7443: What assignments will you ask about? [Procuring resources./Clearing the way./Preserving the peace./Patrols./Base provisions./Delivering supplies./Frontline support./Land surveys./Component analysis./Gathering materials./Recovering lost articles./Behavioral research./Morale boosting./Nothing.]
+ 7444: Head out into the world and gather vital pioneering resources via methods such as mining and logging. Simply purchasing the supplies tells the coalition nothing of your abilities, however, and those who do will receive no remuneration.
+ 7445: It may seem like a thankless job, but the erection of coalition expansions and frontier stations demands constant provisioning, so it is not a task to be taken lightly.
+ 7446: Natural obstacles pop up from time to time, and pioneers are often asked to engage in a bit of bushwhacking to clear them away so the colonization movement can proceed. The only way to be officially recognized for such feats, though, is by participating in Colonization Reives.
+ 7447: The perils are aptly named, for many pioneers have fallen in attempts to rid the land of them. So many, in fact, that Maester Lhangavo was bereft of a few fur clumps for some time worrying over the issue.
+ 7448: Peace in Adoulin is a precarious thing. Fiends could assault the city at any moment, which is why we need to nip this problem in the bud. Join Lair Reives to eliminate their breeding grounds and contribute to the colonization effort.
+ 7449: If only the instinct to rebuild their homes were not so engrained in these hellions, life would be much easier for us. Sadly, you'll need to participate in these reives periodically in order to keep Ulbuka habitable.
+ 7450: While the Peacekeepers' Coalition often makes its rounds in the city itself, these patrols will take you to specific jungle locales for the express purpose of culling unwanted pests. Make sure to slay your quota, though, or you won't receive any recognition for your deeds.
+ 7451: Give Adoulin's population some peace of mind by embarking on these expeditions every so often. Also, rumors about far more terrifying beasts are likely to surface the further we progress into Ulbuka's interior, but as long as you stick to your duties, you should have no reason to fear them.
+ 7452: For these assignments, you'll need to transport provisions to the sites of future frontier stations. You can now use waypoints and still receive commendations, but be prepared to hear stories about "back in my day, we had to walk all the way out and back on our own two feet," from some wily veterans.
+ 7453: Frontier stations are paramount to sustaining the colonization effort. Tasks of greater magnitude can't even begin without one, so building these structures should always be a priority.
+ 7454: You will sometimes be charged with carrying supplies from specific frontier stations to the Couriers' Coalition.
+ 7455: By supplies, I mean ones obtained in the jungle through pioneering. Yes, acting as a beast of burden may not be the most glamorous duty, but it is a vital one if we're to improve the coalitions and keep Adoulin economically stable.
+ 7456: The most effective way of supporting those risking their lives on the front lines is by supplying designated frontier bivouacs with the necessary provisions. While it may go against previous Couriers' Coalition policy, the use of waypoints is henceforth permitted on this type of assignment.
+ 7457: Truth be told, frontier bivouacs are not as developed as their station counterparts, but they still play an important role in the colonization of the continent. If they don't receive provisions regularly, our supply lines to the stations will wither and die.
+ 7458: Travel to places unknown in search of ergon loci, areas overflowing with natural energy. While some say it's the journey--not the destination--that matters, failing to survey even a single locus will leave you both depleted of energy and empty-handed.
+ 7459: The potency of an ergon tincture is highly dependent upon the strength of the ergon locus from which it's extracted, so a thorough investigation must be made into each location if we're to successfully use this trump card we've created.
+ 7460: Completion of these assignments means providing the Scouts' Coalition--and no others, for they are the only ones to possess the proper facilities--with unique and extraordinary materials from certain territories.
+ 7461: The jungle is teeming with obscure and unfamiliar substances, and from them we hope to derive more powerful and effective materials with which to aid the colonization effort. Science waits for no man, however, and without periodic deliveries of new samples, our research will stagnate.
+ 7462: The proper equipment and tools are instrumental in the colonization movement's progress--and the Inventors' Coalition apparently wants to be the one to corner the market.
+ 7463: While the Inventors' Coalition doesn't particularly care how you obtain what they ask for once you're in the specified location, they are quite picky about the number you obtain and the fact that you can't deliver to anyone else.
+ 7464: Pioneers are an intrepid band of adventurers, but the nature of their trade makes them prone to losing personal effects. Pick up any lost articles in the territory to which you are dispatched and return for a reward along with a pat on the back.
+ 7465: This is probably the least garish service the Mummers' Coalition provides, but it's one for which pioneers throughout Adoulin are eternally grateful.
+ 7466: Though they may not be the friendliest of Ulbuka's inhabitants, that doesn't mean the fiends who populate the continent can't teach us a thing or two. Research designated beasts by personally experiencing their special attacks and report what they taught you...if you live to tell the tale.
+ 7467: The Mummers' Coalition is constantly searching for its muse in all manner of sources, one being the myriad monsters scattered throughout the jungle. Investigating monsters' behavior may be just the inspiration they need to concoct new dances, gags, and events!
+ 7468: The isolation of the frontier can eat at even the most independent of us, which is why it's important to give our pioneers something to cheer about. Head to specified frontier stations and lift the spirits of the workers there! Just remember that if they don't smile, you don't get rewarded.
+ 7469: Dance, sing, shout, or generally make a fool of yourself. It doesn't matter how you do it, as long as you can make them laugh and forget their cares for a few moments.
+ 7470: This coalition is edified as much as possible, and therefore we have no plans to expand.
+ 7471: Which plan do you want to learn about? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./None.]
+ 7472: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Gathering Goods/Gathering Goods II/Gathering Equipment/Gathering Technique Knowledge/Colonization Support Provisions/Gathering Goods III/Gathering Equipment II/Colonization Support Provisions II/Gathering Technique Knowledge II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+ 7473: Further, Ionis effects will expand to include [/Minor Attack Enhancement/Minor Magic Attack Bonus/Minor Gathering Fatigue Reduction/Minor Gathering Efficacy Enhancement/Moderate Attack Enhancement/Moderate Magic Attack Bonus/Moderate Gathering Fatigue Reduction/Moderate Gathering Efficacy Enhancement].
+ 7474: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Traditional Armor/Traditional Weaponry/Traditional Armor II/Frontline Provisions/Traditional Weaponry II/Traditional Armor III/Traditional Armor IV/Traditional Armor V/Traditional Armor VI] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+ 7475: Further, Ionis effects will expand to include [/Minor Defense Enhancement/Minor Magic Defense Bonus/Minor HP and MP Recovery Enhancement/Minor Enhancement to Max HP and MP/Moderate Defense Enhancement/Moderate Magic Defense Bonus/Moderate HP and MP Recovery Enhancement/Moderate Enhancement to Max HP and MP].
+ 7476: If the [/coalition flag/signboard/emblem/second floor/Adoulin flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Travel Assistance Provisions/Temporary Warp Runes/Town Movement Speed Enhancement/Delivery Personnel Increase/Kinetic Unit Cost Adjustment/Temporary Warp Runes II/Town Movement Speed Enhancement II/Delivery Personnel Increase II/Kinetic Unit Cost Adjustment II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+ 7477: Further, Ionis effects will expand to include [/Minor Accuracy and Magic Accuracy Enhancement/Minor Evasion and Magic Evasion Enhancement/Minor Critical Hit Rate Increase/Minor Haste Effect/Moderate Accuracy and Magic Accuracy Enhancement/Moderate Evasion and Magic Evasion Enhancement/Moderate Haste Effect].
+ 7478: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Maps/Map Marking/Colonization Intelligence/Ergon Locus Intelligence/Library Cards/Map Marking II/Spoils of War Intelligence/Ergon Locus Intelligence II/Spoils of War Intelligence II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+ 7479: Further, Ionis effects will expand to include [/Minor Save TP Effect/Minor Conserve MP Effect/Minor Fast Cast Effect/Minor Resistance Increase to All Status Ailments/Moderate Save TP Effect/Moderate Conserve MP Effect/Moderate Fast Cast Effect/Moderate Resistance Increase to All Status Ailments].
+ 7480: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Ergon Tinctures/Synthesis Support Provisions/Arcane Glyptics Price Reduction/Arcane Glyptics Materials/Growth Agents and Materials/Synthesis Support Provisions II/Arcane Glyptics Price Reduction II/Growth Agents and Materials Price Reduction/Travel Provisions] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+ 7481: Further, Ionis effects will expand to include [/Minor Crystal Obtainment Rate Increase/Minor Material Loss Rate Reduction/Minor Synthesis Skill Gain Rate Increase/Minor Synthesis Success Rate Increase/Moderate Crystal Obtainment Rate Increase/Moderate Material Loss Rate Reduction/Moderate Synthesis Skill Gain Rate Increase/Moderate Synthesis Success Rate Increase].
+ 7482: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Guess That Number (Game)/Boom or Bust (Game)/On The Dot (Game)/Cascade (Game)/Mummers' Medal Prizes/Box of Fortune (Game)/Mummers' Medal Prizes II/Mummers' Medal Prizes III/Three-Card Circus (Game)] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+ 7483: Further, the Ionis effects will expand to include [/Minor Combat Skill Gain Rate Increase Minor Magic Skill Gain Rate Increase/Minor Experience Point Bonus/Minor Reward Obtainment Rate Increase/Moderate Combat Skill Gain Rate Increase/Moderate Magic Skill Gain Rate Increase/Moderate Experience Point Bonus/Moderate Reward Obtainment Rate Increase].
+ 7484: The structure most members want to see added to the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition is...
+ 7485: A[ coalition flag/ signboard/n emblem/ second floor/n Adoulinian flag/ main terrace/ bay roof/ main chimney]! [It leads by default since there aren't any other proposals./Many more people have voted for it than any other structure./A good number of people have chosen it over the other options./Not by much, however.]
+ 7486: Your contributions to the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition have earned you the title of...
+ 7487: [Pioneer/Peacekeeper/Courier/Scout/Inventor/Mummer] [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]! [You're off to a swell start!/Congratulations, but you're not out of the woods yet./They've given you their trust. Now it's time to prove they were right to do so!/You're in the position to start making a big difference in Adoulin!/Talent flows unabated from your every pore!/Other pioneers must trample each other seeking your sage advice./One could very well say that the colonization effort revolves around you!/Your exploits will surely be etched in the annals of this continent's history!]
+ 7488: A [Lair/Colonization/Wildskeeper] Reive has started at ([A/B/C/D/E/F/G/H/I/J/K/L/M/N/O]-$2).
+ 7489: What will you do? [Turn tail./Press onward./Check battle conditions.]
+ 7490: The current battle conditions are: [Finish./Currently: $11.$21%/Currently: Unknown/$2 [min. ago/hr. ago]: $12.$22%/$2 [min. ago/hr. ago]: Unclear./$3 [min. ago/hr. ago]: $13.$23%/$3 [min. ago/hr. ago]: Unclear./$4 [min. ago/hr. ago]: $14.$24%/$4 [min. ago/hr. ago]: Unclear./$5 [min. ago/hr. ago]: $15.$25%/$5 [min. ago/hr. ago]: Unclear./$6 [min. ago/hr. ago]: $16.$26%/$6 [min. ago/hr. ago]: Unclear./$7 [min. ago/hr. ago]: $17.$27%/$7 [min. ago/hr. ago]: Unclear./$8 [min. ago/hr. ago]: $18.$28%/$8 [min. ago/hr. ago]: Unclear./$9 [min. ago/hr. ago]: $19.$29%/$9 [min. ago/hr. ago]: Unclear./$10 [min. ago/hr. ago]: $20.$30%/$10 [min. ago/hr. ago]: Unclear./Change time interval.]
+ 7491: What time interval? [Keep the current interval ( [5/10/20/30/60] mins.)./Five minutes./Ten minutes./Twenty minutes./Thirty minutes./Sixty minutes.]
+ 7492: As of $1 [minute/hour][/s] ago, [Colkhab/Tchakka/Achuka/Yumcax/Hurkan/Kumhau]'s HP is at $3.$4%.
+ 7493: Unable to confirm [Colkhab/Tchakka/Achuka/Yumcax/Hurkan/Kumhau]'s existence as of $1 [minute/hour][/s] ago.
+ 7494: You have accomplished a coalition assignment!
+ 7495: Report back to the manager who assigned you this task.
+ 7496: Report your success to the manager who assigned you this task.
+ 7497: You have already made your delivery. Report your success to the manager who assigned you this task.
+ 7498: Procure: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 resource[/s] [logged/mined/harvested/excavated].
+ 7499: Clear: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 [colonization/lair/wildskeeper] reives completed.
+ 7500: Preserve: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 [colonization/lair/wildskeeper] reives completed.
+ 7501: Patrol: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 [umbrils/umbrils/toads/twitherym/chapulis/craklaws/matamata/yok/mar/kam/twitherym/raptors/maroliths/efts/acuexes/iron giants/mei/mei/mgk] culled.
+ 7502: Thanks for coming all this way. I'd love to offer you some hospitality, but we'd need to get this frontier station completed first! Could you lend us a hand by signing up for a coalition assignment?
+ 7503: Thanks so much for delivering this $3! I can't wait to see how this station looks once it's built. If you want, you can go pick up your reward from the manager who gave you this assignment.
+ 7504: We're glad you tried your best, but destroyed $5 are useless to us. Sorry, but can you pick up another one from the manager in charge?
+ 7505: Welcome to the frontier! This station has already been built, but you can always help construct some bivouacs or keep them supplied.
+ 7506: Frontier stations are self-sufficient, but the bivouacs are sadly not. We'd be extremely appreciative if you could undertake some assignments to make sure they stay in operation.
+ 7507: Hello, there! We have some materials we'd like delivered to town, but we have to go through the right channels. Would you mind undertaking a coalition assignment to transport them back?
+ 7508: Thank you for helping us out. Here's the $3. All we ask is that you take it to the manager in charge of this assignment.
+ 7509: Thank you for helping us out. All we ask is that you deliver your cargo safely to the manager in charge of this assignment.
+ 7510: Well, here's another $3, but please be careful not to break this one.
+ 7511: Good day to you. This is [the future site of /]frontier bivouac [#1/#2/#3/#4/#5].
+ 7512: Thank you for the $3. We greatly appreciate your efforts to [help set up/provision] frontier bivouac [#1/#2/#3/#4/#5]. Please speak with the manager in charge of this assignment to collect your reward.
+ 7513: I'm terribly sorry, but we can't use broken $5. Could you please return to the coalition assignment desk and procure us another?
+ 7514: How nice it is to see another face out here! As much as I'd like for you to help us set up frontier bivouac [#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.
+ 7515: The magical properties of the waypoint proved too much for your $3 to handle, and it broke...
+ 7516: This seems to be the site of the ergon locus oft called the "[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame]." It is most likely worth surveying.
+ 7517: This seems to be the site of the ergon locus oft called the "[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall]." It is most likely worth surveying.
+ 7518: Commence survey? [Yes./No.]
+ 7519: [Your survey is a success./You have already surveyed an ergon locus in the area.] Return to the manager in charge and report on what you have learned about the ergon locus's attributes.
+ 7520: Your survey has ended in utter failure. The time of day and distance from which you surveyed could very well be to blame.
+ 7521: Analyze: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 $0$0 evaluated.
+ 7522: Gather: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 $0$0 acquired.
+ 7523: You have found $6. As it likely belongs to a pioneer, you surmise that you should deliver it to the manager in charge of your assignment.
+ 7524: You have already found a lost article. As much as it pains you to ignore someone's plight, you decide to deliver the one currently in your possession to the manager in charge of your assignment.
+ 7525: A small article resembling a pouch lies unattended on the ground. Could someone have dropped this...?
+ 7526: Research: [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] $2 of $3 [umbril/umbril/slug/chapuli/chapuli/craklaw/matamata/snapweed/tulfaire/raaz/craklaw/matamata/acuex/sui/pik/raaz/mei/mei/mgk] special attack[/s] studied.
+ 7527: It's so tough constructing frontier stations. It's always "build, build, build," and "scrounge, scrounge, scrounge." All I want is a little break from the monotony of it all.
+ 7528: It's so tough maintaining a frontier station. I'm always fending off bloodthirsty hellions and scrounging for provisions. All I want is a little break from the monotony of it all.
+ 7529: What will you do? [Look pleased./Cry a river./Act surprised./Rue your life./Cheer./Pretend to be flustered./Blush like a maiden./Rally the troops./Nothing for now.]
+ 7530: Ahahaha! Of all the things to pull, I never thought you'd do that! I had no idea that was coming.
+ 7531: Um...is something the matter with you? Maybe you should see a physician...
+ 7532: Approaching from that direction [might not have been very effective/was probably the right thing to do.]. As for your gag, [it wasn't with the times/it was right on the mark].
+ 7533: You don't know how much I needed something like that. Thank you.
+ 7534: [Construction on /]Frontier Bivouac #[1/2/3/4/5] is[/ currently at] $2 percent [complete/durability]. We are in need of [materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in [building this thing/keeping this place running]?
+ 7535: Tallying conquest results...
+ 7536: Conquest results tallied.
+ 7537: This region is currently under San d'Orian control.
+ 7538: This region is currently under Bastokan control.
+ 7539: This region is currently under Windurstian control.
+ 7540: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7541: This region is currently neutral.
+ 7542: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7543: All three nations are tied for first place.
+ 7544: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7545: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7546: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7547: All three nations are tied for first place.
+ 7548: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7549: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7550: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7551: All three nations are tied for first place.
+ 7552: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7553: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7554: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7555: All three nations are tied for first place.
+ 7556: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7557: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7558: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7559: Global balance of power: All three nations are tied for first place.
+ 7560: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7561: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7562: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7563: All three nations are tied for first place.
+ 7564: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7565: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7566: Conquest update: This region is currently neutral.
+ 7567: Conquest update: This region is currently under San d'Orian control.
+ 7568: Conquest update: This region is currently under Bastokan control.
+ 7569: Conquest update: This region is currently under Windurstian control.
+ 7570: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7571: All three nations are at a deadlock.
+ 7572: The beastmen are on the rise.
+ 7573: Regional influence: San d'Oria - Dominant
+ 7574: Regional influence: San d'Oria - Major
+ 7575: Regional influence: San d'Oria - Minor
+ 7576: Regional influence: San d'Oria - Minimal
+ 7577: Bastok - Dominant
+ 7578: Bastok - Major
+ 7579: Bastok - Minor
+ 7580: Bastok - Minimal
+ 7581: Windurst - Dominant
+ 7582: Windurst - Major
+ 7583: Windurst - Minor
+ 7584: Windurst - Minimal
+ 7585: Bastok and Windurst have formed an alliance.
+ 7586: San d'Oria and Windurst have formed an alliance.
+ 7587: San d'Oria and Bastok have formed an alliance.
+ 7588: Bastok and Windurst are currently allies.
+ 7589: San d'Oria and Windurst are currently allies.
+ 7590: San d'Oria and Bastok are currently allies.
+ 7591: $10$P11.$17F$0 $P14;$P12hF$1
+ 7592: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7593: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7594: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7595: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7596: The beastmen are gaining power.
+ 7597: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7598: Bastok's regional control is now 10% closer to the first place country's!
+ 7599: Windurst's regional control are now 10% closer to the first place country's!
+ 7600: San d'Oria's region points have increased!
+ 7601: Bastok's region points have increased!
+ 7602: Windurst's region points have increased!
+ 7603: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7604: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7605: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7606: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7607: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7608: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7609: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7610: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7611: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7612: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7613: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7614: There was a curse on the beastmen's banner!
+ 7615: The curse of the beastmen's banner has been lifted!
+ 7616: There is a beastmen's banner.
  7617: @
  7618: @
  7619: @
@@ -7692,162 +7692,163 @@
  7688: @
  7689: @
  7690: @
- 7691: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7692: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7693: You might be able to [descend/ascend] using these vines if you only had $3 and $6.
- 7694: [Descend/Ascend]? [Yes./No.]
- 7695: Sharp thorns protrude from the surface.
- 7696: A large hippogryph wing lies in tatters on the ground.
- 7697: Nothing happens.
- 7698: $3{$3^$3$97F$31V$P10i]\7
- 7699: @@
- 7700: <Player>... Somehow it doesn't surprise me to find you here.
- 7701: The sealed ruins in the Woh Gates must lead to the Serpentine Labyrinth. I can feel it.
- 7702: But how can we get inside?
- 7703: Wh-what's that?
- 7704: I...I remember you...
- 7705: (It has been a while, <Player>.)
- 7706: (Come. If we do not make haste, the gate will open.)
- 7707: He's calling to us, <Player>. We've got to hurry!
- 7708: Quickly, before we lose him!
- 7709: (Quite the confused melee we have stumbled into.)
- 7710: Umbrils fighting leafkin!? What on Vana'diel is going on?
- 7711: Darrcuiln, what took ya so long?
- 7712: (Hmph. Like you would ever lose before I got here.)
- 7713: (See?)
- 7714: Where's the respect yer supposed to show yer master? Never forget who's the older one here!
- 7715: (Complaints can come after. We have work to do!)
- 7716: Ya got that right!
- 7717: <Huff>... Numberless horde, indeed! I hack 'n hack but they keep on comin'!
- 7718: You there! The rug rat! We gotta get outta here--follow me!
- 7719: A small crevice penetrates the surface of the rock.
- 7720: A small crevice penetrates the surface of the rock. Derrcuiln and his allies have headed inside.
- 7721: Proceed? [Yes./No.]
- 7722: Got 'em all cleaned up? Hafta admit, ya've got more spunk than I'da thought possible!
- 7723: Yo, Darrcuiln! Those eyes of yers're sharper than I gave 'em credit for! Bwahaha!
- 7724: (When have I ever lied to you?)
- 7725: Well, I'll be--Arciela! Ya've grown, that's fer sure!
- 7726: Grown...?
- 7727: And ya must be <Player>.
- 7728: I, uh... And you might be...?
- 7729: Me? Jus' ol' Morimar. Always have been, always will be. Bwahaha!
- 7730: M-Morimar? But that's the name of the founder king's general--
- 7731: "General." That's a title I haven't heard in a while.
- 7732: It's been ages since someone's called me that, and I'da thought to never hear it again...but yes, I'm that Morimar.
- 7733: Glad ta see that Ortharsyne's been kept safe all these years.
- 7734: You know about the sword? But...I mean... Just look at you!
- 7735: It's been much more'n a few moons since I've seen it, and I am gettin' on in years...
- 7736: But ya dinn't come here to listen to me ramble. Yer in search of the scales, right?
- 7737: How could you possibly--?
- 7738: Haha, it takes a wolf to know the heart of a beast! Not that I think yer a beast...
- 7739: (You are more like a cub.)
- 7740: Grrr....that's rich comin' from ya! Sometimes I wonder why I don' just throw ya into the Zoldeff River.
- 7741: <Sigh> I've been at this for a long time, and I've ne'er had as smart-aleck of a companion as this lump of fur.
- 7742: (Fate binds us together, Morimar. You know that.)
- 7743: (And surely we have better things to do than sit here casting aspersions at one another.)
- 7744: Got that right! Back to the matter at hand... I've got an idea where ya can find those scales yer lookin' for.
- 7745: 'Course, nothin's sure in the muddied waters of Ulbuka, but even the smallest possibility's better'n nothin'. But if you want to find 'em, you'll need to convince him.
- 7746: Any questions? [Convince whom?/What do you mean, "convince"?]
- 7747: I'm not quite sure I understand. Who exactly needs convincing?
- 7748: To whom are you referring?
- 7749: Ah, the spirit of youth! Good to see yer so eager to keep on top of things.
- 7750: This whole "colonization" thing is best left to the young. Ol' fuddy-duddies like me have no place in... Ho-ho, better stop m'self before I get further off track.
- 7751: I'm talkin' 'bout Sajj'aka of course. If you want to find the scales, you're gonna need to convince him. And I'll come along to help.
- 7752: We're runnin' outta time, we need to hurry. I made a promise to August and I don't intend to break it!
- 7753: There is nothing out of the ordinary here.
- 7754: You can hear a strange voice... "Items, items, la la la la la`t"
- 7755: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7756: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7757: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7758: Now, listen close...
- 7759: Oh... Well, if that's the case, I'm outta here.
- 7760: The Goblin slipped away when you were not looking...
- 7761: You can hear a strange, raspy voice...
- 7762: I travel......hear lots... Hear...stories... Can tell...if...
- 7763: .........listen......
- 7764: Oh...... ...outta here.........
- 7765: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7766: What story would you like to be told? [On second thought, maybe later./Darrcuiln./The Gates./Morimar.]
- 7767: 
+ 7691: @
+ 7692: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7693: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7694: You might be able to [descend/ascend] using these vines if you only had $3 and $6.
+ 7695: [Descend/Ascend]? [Yes./No.]
+ 7696: Sharp thorns protrude from the surface.
+ 7697: A large hippogryph wing lies in tatters on the ground.
+ 7698: Nothing happens.
+ 7699: $3{$3^$3$97F$31V$P10i]\7
+ 7700: @@
+ 7701: <Player>... Somehow it doesn't surprise me to find you here.
+ 7702: The sealed ruins in the Woh Gates must lead to the Serpentine Labyrinth. I can feel it.
+ 7703: But how can we get inside?
+ 7704: Wh-what's that?
+ 7705: I...I remember you...
+ 7706: (It has been a while, <Player>.)
+ 7707: (Come. If we do not make haste, the gate will open.)
+ 7708: He's calling to us, <Player>. We've got to hurry!
+ 7709: Quickly, before we lose him!
+ 7710: (Quite the confused melee we have stumbled into.)
+ 7711: Umbrils fighting leafkin!? What on Vana'diel is going on?
+ 7712: Darrcuiln, what took ya so long?
+ 7713: (Hmph. Like you would ever lose before I got here.)
+ 7714: (See?)
+ 7715: Where's the respect yer supposed to show yer master? Never forget who's the older one here!
+ 7716: (Complaints can come after. We have work to do!)
+ 7717: Ya got that right!
+ 7718: <Huff>... Numberless horde, indeed! I hack 'n hack but they keep on comin'!
+ 7719: You there! The rug rat! We gotta get outta here--follow me!
+ 7720: A small crevice penetrates the surface of the rock.
+ 7721: A small crevice penetrates the surface of the rock. Derrcuiln and his allies have headed inside.
+ 7722: Proceed? [Yes./No.]
+ 7723: Got 'em all cleaned up? Hafta admit, ya've got more spunk than I'da thought possible!
+ 7724: Yo, Darrcuiln! Those eyes of yers're sharper than I gave 'em credit for! Bwahaha!
+ 7725: (When have I ever lied to you?)
+ 7726: Well, I'll be--Arciela! Ya've grown, that's fer sure!
+ 7727: Grown...?
+ 7728: And ya must be <Player>.
+ 7729: I, uh... And you might be...?
+ 7730: Me? Jus' ol' Morimar. Always have been, always will be. Bwahaha!
+ 7731: M-Morimar? But that's the name of the founder king's general--
+ 7732: "General." That's a title I haven't heard in a while.
+ 7733: It's been ages since someone's called me that, and I'da thought to never hear it again...but yes, I'm that Morimar.
+ 7734: Glad ta see that Ortharsyne's been kept safe all these years.
+ 7735: You know about the sword? But...I mean... Just look at you!
+ 7736: It's been much more'n a few moons since I've seen it, and I am gettin' on in years...
+ 7737: But ya dinn't come here to listen to me ramble. Yer in search of the scales, right?
+ 7738: How could you possibly--?
+ 7739: Haha, it takes a wolf to know the heart of a beast! Not that I think yer a beast...
+ 7740: (You are more like a cub.)
+ 7741: Grrr....that's rich comin' from ya! Sometimes I wonder why I don' just throw ya into the Zoldeff River.
+ 7742: <Sigh> I've been at this for a long time, and I've ne'er had as smart-aleck of a companion as this lump of fur.
+ 7743: (Fate binds us together, Morimar. You know that.)
+ 7744: (And surely we have better things to do than sit here casting aspersions at one another.)
+ 7745: Got that right! Back to the matter at hand... I've got an idea where ya can find those scales yer lookin' for.
+ 7746: 'Course, nothin's sure in the muddied waters of Ulbuka, but even the smallest possibility's better'n nothin'. But if you want to find 'em, you'll need to convince him.
+ 7747: Any questions? [Convince whom?/What do you mean, "convince"?]
+ 7748: I'm not quite sure I understand. Who exactly needs convincing?
+ 7749: To whom are you referring?
+ 7750: Ah, the spirit of youth! Good to see yer so eager to keep on top of things.
+ 7751: This whole "colonization" thing is best left to the young. Ol' fuddy-duddies like me have no place in... Ho-ho, better stop m'self before I get further off track.
+ 7752: I'm talkin' 'bout Sajj'aka of course. If you want to find the scales, you're gonna need to convince him. And I'll come along to help.
+ 7753: We're runnin' outta time, we need to hurry. I made a promise to August and I don't intend to break it!
+ 7754: There is nothing out of the ordinary here.
+ 7755: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7756: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7757: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7758: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7759: Now, listen close...
+ 7760: Oh... Well, if that's the case, I'm outta here.
+ 7761: The Goblin slipped away when you were not looking...
+ 7762: You can hear a strange, raspy voice...
+ 7763: I travel......hear lots... Hear...stories... Can tell...if...
+ 7764: .........listen......
+ 7765: Oh...... ...outta here.........
+ 7766: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7767: What story would you like to be told? [On second thought, maybe later./Darrcuiln./The Gates./Morimar.]
  7768: 
  7769: 
- 7770: Nothing happens...
- 7771: This Augural Conveyor does not react to your $3.
- 7772: Your party leader is currently inspecting the entrance.
- 7773: Only your party leader may inspect the entrance.
- 7774: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
- 7775: Proceed? [Yes./No.]
- 7776: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
- 7777: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
- 7778: Balamor's will has impeded your progress into the next area.
- 7779: You cannot enter at this time. Please wait a moment and try again.
- 7780: This area is fully occupied. You are unable to enter.
- 7781: Balamor's will has prevented you from proceeding.
- 7782: Your request for entry is being considered...
- 7783: The order has been given by your party leader to enter [/this skirmish in ////this alluvion skirmish in /]$8.
- 7784: Your party does not meet the minimum required number of $0 members. Unable to enter area.
- 7785: Not all of your party members meet the requirements for this objective. Unable to enter area.
- 7786: Your $3 has dissolved into the aether!
- 7787: What's the torso's size? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
- 7788: What's the visage's obtainment rate? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
- 7789: What rank are the legs' benefits? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
- 7790: Ready for an alluvion skirmish? [No./Alluvion A./Alluvion B./Alluvion C./Alluvion D./Alluvion E./Just a regular skirmish, please.]
- 7791: Now permeating the mists surrounding the [fracture/obscured domain].
- 7792: You have chosen not to brave the mysteries of the [fracture/obscured domain].
- 7793: Your party leader has lifted the veil surrounding the [fracture/obscured domain].
- 7794: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
- 7795: Brave the[ Endeavoring to Awaken/ Endeavoring to Awaken/] battlefield alone?
- 7796: Nothing happens.
- 7797: Perhaps the wisest approach would be to search for $6 with which to open the decrepit sluice gate.
- 7798: A small crevice penetrates the surface of the rock.
- 7799: A small crevice penetrates the surface of the rock. Derrcuiln and his allies have headed inside.
- 7800: Hushed voices are carried upon the slight winds that waft over this pool of water.
- 7801: Simulacrum segment configuration ( Visage: $1; Torso: $2; Legs: $3.
- 7802: Simulacrum segment combination ( [/Eudaemon Sword/Eudaemon Cape/Eudaemon Ring/Eudaemon Sash/Eudaemon Shield].
- 7803: Join the fray with your [party/alliance] members in $8?
- 7804: Consume your $3 and send all [party/alliance] members to [Fractures/the obscured domain]?
- 7805: Which battlefield will you enter? [None./Sinister Reign./Arciela.[/y$26z]/Darrcuiln.[/y$26z]/Ingrid.[/y$26z]/Morimar.[/y$26z]/Rosulatia.[/y$26z]/Teodor.[/y$26z]/Arciela II.[/y$26z]/Sajj'aka.[/y$26z]/August.[/y$26z]]
- 7806: This battlefield can only be attempted solo. Please disband your party and try again.
- 7807: Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?
- 7808: You are currently in a party and are unable to enter.
- 7809: A waypoint lies before you in all its mystery.
- 7810: You were unable to warp to your desired destination.
- 7811: What will you do? (Kinetic Units: $3) [Nothing./Read an explanation!/Go to Western Adoulin./Go to Eastern Adoulin./Go to Ceizak Battlegrounds./Go to Yahse Hunting Grounds./Go to Foret de Hennetiel./Go to Morimar Basalt Fields./Go to Yorcia Weald./Go to Marjami Ravine./Go to Kamihr Drifts./Go to Jeuno. ($4 unit[/s])/Go to an enigmatic device./Use runes./Decline destination confirmation./Accept destination confirmation.]
- 7812: What will you do? (Kinetic Units: $3) [Nothing./Read an explanation./Go to Western Adoulin. ($4 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
- 7813: Choose a destination. (Kinetic Units: $3) [Back./Northern San d'Oria. ($4 unit[/s])/Bastok Markets. ($4 unit[/s])/Windurst Woods. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Kazham. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/Tavnazian Safehold. ($4 unit[/s])/Aht Urhgan Whitegate. ($4 unit[/s])/Nashmau. ($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])]
- 7814: Your $3 has been attuned to a geomagnetic fount[/ in front of the Peacekeepers' Coalition/ in front of the Scouts' Coalition/ at the Statue of the Goddess/ at the wharf to Yahse Hunting Grounds/ in front of your Rent-a-Room/ in front of the auction house/ on Sverdhried Hillock/ in the Coronal Esplanade/ at the gates of Castle Adoulin]!
- 7815: Choose a destination. (Kinetic Units: $3) [Nowhere, thanks./Peacekeepers' Coalition. ($4 unit[/s])/Scouts' Coalition. ($4 unit[/s])/Statue of the Goddess. ($4 unit[/s])/The wharf to Yahse. ($4 unit[/s])/Your Rent-a-Room. ($4 unit[/s])/The auction house. ($4 unit[/s])/Sverdhried Hillock. ($4 unit[/s])/The Coronal Esplanade. ($4 unit[/s])/Castle Adoulin gates. ($4 unit[/s])]
- 7816: Your $3 has been attuned to a geomagnetic fount[/ in Platea Triumphus (Couriers' Coalition)/ in front of the Pioneers' Coalition/ in front of the Mummers' Coalition/ in front of the Inventors' Coalition/ in front of the auction house/ in front of your Rent-a-Room/ by Big Bridge/ by the airship docks/ on the Adoulin Waterfront]!
- 7817: Choose a destination. (Kinetic Units: $3) [Nowhere, thanks./Platea Triumphus (COU Co.). ($4 unit[/s])/Pioneers' Coalition. ($4 unit[/s])/Mummers' Coalition. ($4 unit[/s])/Inventors' Coalition. ($4 unit[/s])/Auction house. ($4 unit[/s])/Your Rent-a-Room. ($4 unit[/s])/Big Bridge. ($4 unit[/s])/Airship docks. ($4 unit[/s])/Adoulin Waterfront. ($4 unit[/s])]
- 7818: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!
- 7819: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])]
- 7820: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!
- 7821: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])]
- 7822: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4]!
- 7823: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])/Frontier Bivouac #4. ($4 unit[/s])]
- 7824: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4/ at Frontier Bivouac #5]!
- 7825: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])/Frontier Bivouac #4. ($4 unit[/s])/Frontier Bivouac #5. ($4 unit[/s])]
- 7826: Your $3 has been attuned to the enigmatic device in $8!
- 7827: Choose a destination. (Kinetic Units: $3) [Nowhere./Rala Waterways. ($4 unit[/s])/Cirdas Caverns. ($4 unit[/s])/Yorcia Weald. ($4 unit[/s])/Outer Ra'Kaznar. ($4 unit[/s])/Somewhere. ($4 unit[/s])]
- 7828: You adjusted the waypoint with your $3.
- 7829: You were unable to satisfactorily adjust the waypoint.
- 7830: An enigmatic contrivance hovers in silence...
- 7831: Leaning in closely to the device, one can make out miniscule etchings that read, "Trade various crystals to this waypoint to receive kinetic units that may be used when you wish to warp to another locale."
- 7832: "Travelers may not possess more than $1 at a given time. Should someone trade an amount of crystals that would result in a surplus of kinetic units, those units will be lost to the aether."
- 7833: You have expended $0 kinetic unit[/s] and will be transported to another locale.
- 7834: Your stock of kinetic units is insufficient.
- 7835: You have reached your limit of kinetic units and cannot charge your artifact any further.
- 7836: There is no response. You apparently cannot receive kinetic units from this item.
- 7837: Your artifact has been charged with $0 kinetic unit[/s]. Your current stock of kinetic units totals $1.
- 7838: Your artifact has been charged to its terminal volume of kinetic units.
- 7839: A surplus of $0 kinetic unit[/s] has been lost to the aether.
- 7840: Unable to proceed. "Rise of the Zilart" has not been installed.
- 7841: Unable to proceed. "Chains of Promathia" has not been installed.
- 7842: You will not be asked to confirm your choice of destination. Switching to simple teleporation mode.
- 7843: You will be asked to confirm your choice of destination. Returning to normal teleportation mode.
- 7844: Warp to your destination? [Yes./No.]
- 7845: A strange object looks to be frozen beneath the icy surface of the cavern floor.
- 7846: You have excavated a rusty metallic rod from the thick slab of ice.
- 7847: Nothing happens.
- 7848: Teleportation protocols active. Proceed? [No./Beam me up.]
- 7849: The door is firmly shut.
+ 7770: 
+ 7771: Nothing happens...
+ 7772: This Augural Conveyor does not react to your $3.
+ 7773: Your party leader is currently inspecting the entrance.
+ 7774: Only your party leader may inspect the entrance.
+ 7775: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
+ 7776: Proceed? [Yes./No.]
+ 7777: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
+ 7778: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
+ 7779: Balamor's will has impeded your progress into the next area.
+ 7780: You cannot enter at this time. Please wait a moment and try again.
+ 7781: This area is fully occupied. You are unable to enter.
+ 7782: Balamor's will has prevented you from proceeding.
+ 7783: Your request for entry is being considered...
+ 7784: The order has been given by your party leader to enter [/this skirmish in ////this alluvion skirmish in /]$8.
+ 7785: Your party does not meet the minimum required number of $0 members. Unable to enter area.
+ 7786: Not all of your party members meet the requirements for this objective. Unable to enter area.
+ 7787: Your $3 has dissolved into the aether!
+ 7788: What's the torso's size? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
+ 7789: What's the visage's obtainment rate? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
+ 7790: What rank are the legs' benefits? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
+ 7791: Ready for an alluvion skirmish? [No./Alluvion A./Alluvion B./Alluvion C./Alluvion D./Alluvion E./Just a regular skirmish, please.]
+ 7792: Now permeating the mists surrounding the [fracture/obscured domain].
+ 7793: You have chosen not to brave the mysteries of the [fracture/obscured domain].
+ 7794: Your party leader has lifted the veil surrounding the [fracture/obscured domain].
+ 7795: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
+ 7796: Brave the[ Endeavoring to Awaken/ Endeavoring to Awaken/] battlefield alone?
+ 7797: Nothing happens.
+ 7798: Perhaps the wisest approach would be to search for $6 with which to open the decrepit sluice gate.
+ 7799: A small crevice penetrates the surface of the rock.
+ 7800: A small crevice penetrates the surface of the rock. Derrcuiln and his allies have headed inside.
+ 7801: Hushed voices are carried upon the slight winds that waft over this pool of water.
+ 7802: Simulacrum segment configuration ( Visage: $1; Torso: $2; Legs: $3.
+ 7803: Simulacrum segment combination ( [/Eudaemon Sword/Eudaemon Cape/Eudaemon Ring/Eudaemon Sash/Eudaemon Shield].
+ 7804: Join the fray with your [party/alliance] members in $8?
+ 7805: Consume your $3 and send all [party/alliance] members to [Fractures/the obscured domain]?
+ 7806: Which battlefield will you enter? [None./Sinister Reign./Arciela.[/y$26z]/Darrcuiln.[/y$26z]/Ingrid.[/y$26z]/Morimar.[/y$26z]/Rosulatia.[/y$26z]/Teodor.[/y$26z]/Arciela II.[/y$26z]/Sajj'aka.[/y$26z]/August.[/y$26z]]
+ 7807: This battlefield can only be attempted solo. Please disband your party and try again.
+ 7808: Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?
+ 7809: You are currently in a party and are unable to enter.
+ 7810: A waypoint lies before you in all its mystery.
+ 7811: You were unable to warp to your desired destination.
+ 7812: What will you do? (Kinetic Units: $3) [Nothing./Read an explanation!/Go to Western Adoulin./Go to Eastern Adoulin./Go to Ceizak Battlegrounds./Go to Yahse Hunting Grounds./Go to Foret de Hennetiel./Go to Morimar Basalt Fields./Go to Yorcia Weald./Go to Marjami Ravine./Go to Kamihr Drifts./Go to Jeuno. ($4 unit[/s])/Go to an enigmatic device./Use runes./Decline destination confirmation./Accept destination confirmation.]
+ 7813: What will you do? (Kinetic Units: $3) [Nothing./Read an explanation./Go to Western Adoulin. ($4 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
+ 7814: Choose a destination. (Kinetic Units: $3) [Back./Northern San d'Oria. ($4 unit[/s])/Bastok Markets. ($4 unit[/s])/Windurst Woods. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Kazham. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/Tavnazian Safehold. ($4 unit[/s])/Aht Urhgan Whitegate. ($4 unit[/s])/Nashmau. ($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])]
+ 7815: Your $3 has been attuned to a geomagnetic fount[/ in front of the Peacekeepers' Coalition/ in front of the Scouts' Coalition/ at the Statue of the Goddess/ at the wharf to Yahse Hunting Grounds/ in front of your Rent-a-Room/ in front of the auction house/ on Sverdhried Hillock/ in the Coronal Esplanade/ at the gates of Castle Adoulin]!
+ 7816: Choose a destination. (Kinetic Units: $3) [Nowhere, thanks./Peacekeepers' Coalition. ($4 unit[/s])/Scouts' Coalition. ($4 unit[/s])/Statue of the Goddess. ($4 unit[/s])/The wharf to Yahse. ($4 unit[/s])/Your Rent-a-Room. ($4 unit[/s])/The auction house. ($4 unit[/s])/Sverdhried Hillock. ($4 unit[/s])/The Coronal Esplanade. ($4 unit[/s])/Castle Adoulin gates. ($4 unit[/s])]
+ 7817: Your $3 has been attuned to a geomagnetic fount[/ in Platea Triumphus (Couriers' Coalition)/ in front of the Pioneers' Coalition/ in front of the Mummers' Coalition/ in front of the Inventors' Coalition/ in front of the auction house/ in front of your Rent-a-Room/ by Big Bridge/ by the airship docks/ on the Adoulin Waterfront]!
+ 7818: Choose a destination. (Kinetic Units: $3) [Nowhere, thanks./Platea Triumphus (COU Co.). ($4 unit[/s])/Pioneers' Coalition. ($4 unit[/s])/Mummers' Coalition. ($4 unit[/s])/Inventors' Coalition. ($4 unit[/s])/Auction house. ($4 unit[/s])/Your Rent-a-Room. ($4 unit[/s])/Big Bridge. ($4 unit[/s])/Airship docks. ($4 unit[/s])/Adoulin Waterfront. ($4 unit[/s])]
+ 7819: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!
+ 7820: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])]
+ 7821: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!
+ 7822: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])]
+ 7823: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4]!
+ 7824: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])/Frontier Bivouac #4. ($4 unit[/s])]
+ 7825: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4/ at Frontier Bivouac #5]!
+ 7826: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])/Frontier Bivouac #4. ($4 unit[/s])/Frontier Bivouac #5. ($4 unit[/s])]
+ 7827: Your $3 has been attuned to the enigmatic device in $8!
+ 7828: Choose a destination. (Kinetic Units: $3) [Nowhere./Rala Waterways. ($4 unit[/s])/Cirdas Caverns. ($4 unit[/s])/Yorcia Weald. ($4 unit[/s])/Outer Ra'Kaznar. ($4 unit[/s])/Somewhere. ($4 unit[/s])]
+ 7829: You adjusted the waypoint with your $3.
+ 7830: You were unable to satisfactorily adjust the waypoint.
+ 7831: An enigmatic contrivance hovers in silence...
+ 7832: Leaning in closely to the device, one can make out miniscule etchings that read, "Trade various crystals to this waypoint to receive kinetic units that may be used when you wish to warp to another locale."
+ 7833: "Travelers may not possess more than $1 at a given time. Should someone trade an amount of crystals that would result in a surplus of kinetic units, those units will be lost to the aether."
+ 7834: You have expended $0 kinetic unit[/s] and will be transported to another locale.
+ 7835: Your stock of kinetic units is insufficient.
+ 7836: You have reached your limit of kinetic units and cannot charge your artifact any further.
+ 7837: There is no response. You apparently cannot receive kinetic units from this item.
+ 7838: Your artifact has been charged with $0 kinetic unit[/s]. Your current stock of kinetic units totals $1.
+ 7839: Your artifact has been charged to its terminal volume of kinetic units.
+ 7840: A surplus of $0 kinetic unit[/s] has been lost to the aether.
+ 7841: Unable to proceed. "Rise of the Zilart" has not been installed.
+ 7842: Unable to proceed. "Chains of Promathia" has not been installed.
+ 7843: You will not be asked to confirm your choice of destination. Switching to simple teleporation mode.
+ 7844: You will be asked to confirm your choice of destination. Returning to normal teleportation mode.
+ 7845: Warp to your destination? [Yes./No.]
+ 7846: A strange object looks to be frozen beneath the icy surface of the cavern floor.
+ 7847: You have excavated a rusty metallic rod from the thick slab of ice.
+ 7848: Nothing happens.
+ 7849: Teleportation protocols active. Proceed? [No./Beam me up.]
+ 7850: The door is firmly shut.

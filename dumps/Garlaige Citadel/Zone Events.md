@@ -75,7 +75,7 @@
 |      41 | 0xFFFFD7F7  |  4294957047 |
 |      42 | 0x0422      |        1058 |
 |      43 | 0x00B4      |         180 |
-|      44 | 0x1D2A      |        7466 |
+|      44 | 0x1D2B      |        7467 |
 |      45 | 0xFFFD4152  |  4294787410 |
 |      46 | 0xF53B      |       62779 |
 |      47 | 0xFFFFF34E  |  4294964046 |
@@ -523,7 +523,7 @@ SUBROUTINE_0066:
   8: 0x02EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x02FB [0x1C] WAIT(180* ticks)
  10: 0x02FE [0x79] Wanzo-Unzozo (ID: 17596835/0x010C81A3) looks at LocalPlayer (Basic look)
- 11: 0x0308 [0x2B] Wanzo-Unzozo (ID: 17596835/0x010C81A3) [7466*]:
+ 11: 0x0308 [0x2B] Wanzo-Unzozo (ID: 17596835/0x010C81A3) [7467*]:
     → "There you are! I was starting to get the heeby-weeby-jeebies waiting for you in this creepy-crawly place. Let's skeda-da-daddle!"
  12: 0x030F [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0310 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

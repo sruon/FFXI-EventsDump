@@ -5,9 +5,9 @@
 | Field            | Value                    |
 |------------------|--------------------------|
 | Zone             | Windurst Woods (ID: 241) |
-| Block Size       | 15724 bytes              |
+| Block Size       | 15728 bytes              |
 | Total Events     | 6                        |
-| References Count | 923                      |
+| References Count | 924                      |
 
 ## List of Events
 
@@ -42,110 +42,110 @@
 |      15 | 0x0274      |         628 |
 |      16 | 0x000A      |          10 |
 |      17 | 0x004B      |          75 |
-|      18 | 0x35FF      |       13823 |
+|      18 | 0x3609      |       13833 |
 |      19 | 0x003B      |          59 |
 |      20 | 0x2B67      |       11111 |
-|      21 | 0x3600      |       13824 |
-|      22 | 0x3601      |       13825 |
+|      21 | 0x360A      |       13834 |
+|      22 | 0x360B      |       13835 |
 |      23 | 0x0007      |           7 |
 |      24 | 0x003C      |          60 |
-|      25 | 0x3605      |       13829 |
+|      25 | 0x360F      |       13839 |
 |      26 | 0x0004      |           4 |
 |      27 | 0x0016      |          22 |
 |      28 | 0x005A      |          90 |
-|      29 | 0x3604      |       13828 |
+|      29 | 0x360E      |       13838 |
 |      30 | 0x0006      |           6 |
-|      31 | 0x3603      |       13827 |
+|      31 | 0x360D      |       13837 |
 |      32 | 0x0002      |           2 |
 |      33 | 0x0010      |          16 |
-|      34 | 0x3602      |       13826 |
-|      35 | 0x3606      |       13830 |
+|      34 | 0x360C      |       13836 |
+|      35 | 0x3610      |       13840 |
 |      36 | 0x000E      |          14 |
 |      37 | 0x0080      |         128 |
 |      38 | 0x09A2      |        2466 |
-|      39 | 0x3607      |       13831 |
+|      39 | 0x3611      |       13841 |
 |      40 | 0x0005      |           5 |
 |      41 | 0x00FC      |         252 |
-|      42 | 0x3623      |       13859 |
-|      43 | 0x3608      |       13832 |
-|      44 | 0x3609      |       13833 |
+|      42 | 0x362D      |       13869 |
+|      43 | 0x3612      |       13842 |
+|      44 | 0x3613      |       13843 |
 |      45 | 0x0024      |          36 |
-|      46 | 0x360A      |       13834 |
+|      46 | 0x3614      |       13844 |
 |      47 | 0x0050      |          80 |
-|      48 | 0x360B      |       13835 |
-|      49 | 0x360C      |       13836 |
-|      50 | 0x360D      |       13837 |
-|      51 | 0x360E      |       13838 |
-|      52 | 0x360F      |       13839 |
-|      53 | 0x3610      |       13840 |
-|      54 | 0x3611      |       13841 |
-|      55 | 0x3612      |       13842 |
+|      48 | 0x3615      |       13845 |
+|      49 | 0x3616      |       13846 |
+|      50 | 0x3617      |       13847 |
+|      51 | 0x3618      |       13848 |
+|      52 | 0x3619      |       13849 |
+|      53 | 0x361A      |       13850 |
+|      54 | 0x361B      |       13851 |
+|      55 | 0x361C      |       13852 |
 |      56 | 0x0268      |         616 |
-|      57 | 0x3613      |       13843 |
+|      57 | 0x361D      |       13853 |
 |      58 | 0x000B      |          11 |
-|      59 | 0x3614      |       13844 |
-|      60 | 0x3615      |       13845 |
-|      61 | 0x3616      |       13846 |
+|      59 | 0x361E      |       13854 |
+|      60 | 0x361F      |       13855 |
+|      61 | 0x3620      |       13856 |
 |      62 | 0x160F8     |       90360 |
 |      63 | 0xFFFF5226  |  4294922790 |
 |      64 | 0xFFFFEF34  |  4294962996 |
 |      65 | 0x0015      |          21 |
-|      66 | 0x3617      |       13847 |
+|      66 | 0x3621      |       13857 |
 |      67 | 0x0032      |          50 |
 |      68 | 0x002D      |          45 |
-|      69 | 0x3618      |       13848 |
+|      69 | 0x3622      |       13858 |
 |      70 | 0x000F      |          15 |
-|      71 | 0x3619      |       13849 |
+|      71 | 0x3623      |       13859 |
 |      72 | 0x0019      |          25 |
 |      73 | 0x0078      |         120 |
 |      74 | 0x0013      |          19 |
-|      75 | 0x361A      |       13850 |
-|      76 | 0x361B      |       13851 |
-|      77 | 0x361C      |       13852 |
+|      75 | 0x3624      |       13860 |
+|      76 | 0x3625      |       13861 |
+|      77 | 0x3626      |       13862 |
 |      78 | 0x00B4      |         180 |
 |      79 | 0x008C      |         140 |
 |      80 | 0x0097      |         151 |
 |      81 | 0x00C9      |         201 |
 |      82 | 0x00C8      |         200 |
-|      83 | 0x35FE      |       13822 |
+|      83 | 0x3608      |       13832 |
 |      84 | 0x00E6      |         230 |
-|      85 | 0x3626      |       13862 |
+|      85 | 0x3630      |       13872 |
 |      86 | 0x00EB      |         235 |
-|      87 | 0x362B      |       13867 |
+|      87 | 0x3635      |       13877 |
 |      88 | 0x00F1      |         241 |
-|      89 | 0x3630      |       13872 |
+|      89 | 0x363A      |       13882 |
 |      90 | 0x0100      |         256 |
-|      91 | 0x3636      |       13878 |
+|      91 | 0x3640      |       13888 |
 |      92 | 0x0C00      |        3072 |
 |      93 | 0x2C00      |       11264 |
-|      94 | 0x3647      |       13895 |
+|      94 | 0x3651      |       13905 |
 |      95 | 0x0003      |           3 |
 |      96 | 0x0008      |           8 |
 |      97 | 0x0009      |           9 |
 |      98 | 0x000C      |          12 |
 |      99 | 0x000D      |          13 |
 |     100 | 0x0027      |          39 |
-|     101 | 0x3627      |       13863 |
-|     102 | 0x362C      |       13868 |
-|     103 | 0x3631      |       13873 |
+|     101 | 0x3631      |       13873 |
+|     102 | 0x3636      |       13878 |
+|     103 | 0x363B      |       13883 |
 |     104 | 0x0045      |          69 |
-|     105 | 0x3637      |       13879 |
-|     106 | 0x363B      |       13883 |
-|     107 | 0x363C      |       13884 |
-|     108 | 0x363D      |       13885 |
-|     109 | 0x363E      |       13886 |
-|     110 | 0x363F      |       13887 |
-|     111 | 0x3640      |       13888 |
-|     112 | 0x3641      |       13889 |
-|     113 | 0x3628      |       13864 |
-|     114 | 0x3629      |       13865 |
-|     115 | 0x362D      |       13869 |
-|     116 | 0x362E      |       13870 |
-|     117 | 0x3632      |       13874 |
-|     118 | 0x3633      |       13875 |
-|     119 | 0x3634      |       13876 |
-|     120 | 0x3638      |       13880 |
-|     121 | 0x3639      |       13881 |
+|     105 | 0x3641      |       13889 |
+|     106 | 0x3645      |       13893 |
+|     107 | 0x3646      |       13894 |
+|     108 | 0x3647      |       13895 |
+|     109 | 0x3648      |       13896 |
+|     110 | 0x3649      |       13897 |
+|     111 | 0x364A      |       13898 |
+|     112 | 0x364B      |       13899 |
+|     113 | 0x3632      |       13874 |
+|     114 | 0x3633      |       13875 |
+|     115 | 0x3637      |       13879 |
+|     116 | 0x3638      |       13880 |
+|     117 | 0x363C      |       13884 |
+|     118 | 0x363D      |       13885 |
+|     119 | 0x363E      |       13886 |
+|     120 | 0x3642      |       13890 |
+|     121 | 0x3643      |       13891 |
 |     122 | 0x1055      |        4181 |
 |     123 | 0x1056      |        4182 |
 |     124 | 0x0FE0      |        4064 |
@@ -910,118 +910,119 @@
 |     883 | 0x0284      |         644 |
 |     884 | 0x08B7      |        2231 |
 |     885 | 0x0AC3      |        2755 |
-|     886 | 0x3648      |       13896 |
+|     886 | 0x3652      |       13906 |
 |     887 | 0x0011      |          17 |
-|     888 | 0x3649      |       13897 |
-|     889 | 0x364A      |       13898 |
-|     890 | 0x364B      |       13899 |
+|     888 | 0x3653      |       13907 |
+|     889 | 0x3654      |       13908 |
+|     890 | 0x3655      |       13909 |
 |     891 | 0x001F      |          31 |
 |     892 | 0x1FFFF     |      131071 |
 |     893 | 0x279A      |       10138 |
 |     894 | 0x27A4      |       10148 |
 |     895 | 0x27A8      |       10152 |
 |     896 | 0x27C5      |       10181 |
-|     897 | 0x364C      |       13900 |
+|     897 | 0x3656      |       13910 |
 |     898 | 0x03E8      |        1000 |
-|     899 | 0x364D      |       13901 |
+|     899 | 0x3657      |       13911 |
 |     900 | 0x0012      |          18 |
 |     901 | 0x7530      |       30000 |
-|     902 | 0x364E      |       13902 |
-|     903 | 0x3650      |       13904 |
-|     904 | 0x3653      |       13907 |
+|     902 | 0x3658      |       13912 |
+|     903 | 0x365A      |       13914 |
+|     904 | 0x365D      |       13917 |
 |     905 | 0x0014      |          20 |
 |     906 | 0x0FDB      |        4059 |
 |     907 | 0x0FDC      |        4060 |
 |     908 | 0x0FDD      |        4061 |
-|     909 | 0x3651      |       13905 |
-|     910 | 0x3652      |       13906 |
+|     909 | 0x365B      |       13915 |
+|     910 | 0x365C      |       13916 |
 |     911 | 0x09B2      |        2482 |
 |     912 | 0x09B3      |        2483 |
 |     913 | 0x09B4      |        2484 |
 |     914 | 0x09B5      |        2485 |
 |     915 | 0x09B6      |        2486 |
 |     916 | 0x09B7      |        2487 |
-|     917 | 0x3655      |       13909 |
-|     918 | 0x3656      |       13910 |
-|     919 | 0x3654      |       13908 |
-|     920 | 0x362A      |       13866 |
-|     921 | 0x3635      |       13877 |
-|     922 | 0x363A      |       13882 |
+|     917 | 0x365F      |       13919 |
+|     918 | 0x3660      |       13920 |
+|     919 | 0x365E      |       13918 |
+|     920 | 0x3634      |       13876 |
+|     921 | 0x3639      |       13881 |
+|     922 | 0x363F      |       13887 |
+|     923 | 0x3644      |       13892 |
 
 ## String References
 
-- **13822**: Oh no, you don't. I can't say squat until you enable that orrriginal objective in the "Objective List" under the "Records of Eminence" section of the Quests menu.
-- **13823**: Congrrratulations! Oh, if only I were as lucky as you.
-- **13824**: Here goes nothing. <Hffffff> You're the eleven thousand, one hundred eleventh person to ever visit this square! To honor this crrrowning achievement, we're prepared to offer you a hefty reward.
-- **13825**: How will you respond? [How hefty?/None of this poppycock for me./Don't. Just walk away.]
-- **13826**: Hey, wait up! It's not like I go around saying this to everyone who comes my way. You're trrruly the eleven thousand, one hundred eleventh visitor!
-- **13827**: Poppycock? I'll tell you what's poppycock--thrrrowing away your chance to receive a breath-stopping prize for being the eleven thousand, one hundred eleventh visitor!
-- **13828**: Ah, frrresh meat! Stay a while and listen!
-- **13829**: They say that currriosity killed the cat, but I can assure you that's not the case here!
-- **13830**: Now, to peel back the veritable curtain on your commemorative prrrize...
-- **13831**: Ta-daaa, it's $6! Aren't you in rrrapture now?
-- **13832**: This is no ordinary, run-of-the-mill doll, I'll have you know! It's imbued with sorcery and engrrraves your "Records of Eminence" exploits upon itself. Now that's a handy-dandy tool if I've ever heard of one!
-- **13833**: Anything to say? [I've always wanted one of those!/Records of Eminence...?]
-- **13834**: Exactly! You can never go wrrrong with them, I say. But wait... There's more!
-- **13835**: What? You rrreally haven't heard? I thought everyone had heard.
-- **13836**: It may come as a surprrrise to you, but you're already participating in Records of Eminence!
-- **13837**: Yes, indeed. By talking to me, you've cleared your first objective. That means you eventually get another prrresent: "sparks of eminence," which act as quantifiers of your grandeur!
-- **13838**: Anyway, now that you know the rrropes, it's time to try it out yourself.
-- **13839**: Just sink your fangs into any of the short quests in the "Objective List" under the "Records of Eminence" part of the Quests menu.
-- **13840**: Easier than scooping fish from a bowl, rrright?
-- **13841**: Certain objectives can be rrrepeated too, so there'll be more to try than there are cats in a clowder.
-- **13842**: Once you accrrrue enough sparks from completing objectives, come talk to me for a saucer of good stuff.
-- **13843**: Uh-oh. I don't know how you managed to sneak this past me, but you're as weak as a kitten. Quit pussyfooting around and talk to Selele. She'll help you brrrush up on the basics...for free.
-- **13844**: Speaking of good stuff, your $3 is top-notch, so I'm going to need $1 gil for it.
-- **13845**: ...Not convinced it's worth the price?
-- **13846**: Okay, then. Watch this.
-- **13847**: With a simple clap of the hands, it disappears like magic! That's the power of arcane blah-ditty-blah at its finest!
-- **13848**: So, yeah, there's no way I could entrrrust something so amazing to you for free. Pay up.
-- **13849**: Pay $1 gil? [I've only got catcalls for you./Go cat around somewhere else./I feel like a bag of cats, so no.]
-- **13850**: ...Fine, then.
-- **13851**: Huh? Why am I giving up so easily?
-- **13852**: Because the doll's already rrregistered to you. If you're not going to give me money, there's nothing I can do about it.
-- **13859**: The $3 nods in agreement.
-- **13862**: You wish to exchange your sparks?
-- **13863**: Wait but a moment. Here, follow this command--er, compendium to the letter and you should be able to learn a thing or two.
-- **13864**: Ah, this almost slipped my mind. Should you receive any distinct sorts of artifacts for completing an objective, I will be happy to take them off your hands.
-- **13865**: Worry not, for I am not out to rob you of your glory. Quite the opposite, in fact. I will provide you with a worthwhile reward for collecting them.
-- **13866**: Thanks to your donation, I now have $1 $0 in safekeeping.
-- **13867**: Ohohoho... Turning in sparks, I see.
-- **13868**: Hold your hoarder hares, [hero/heroine]. I love your enthusiasm, but you're not going to learn a thing without a primer. Ahhh, here it is. Have a look-see.
-- **13869**: Oh, crud, that's right. You should trade me any special artifacts you get from completing objectives.
-- **13870**: "Why?" What a good question! Because I'll give you a nifty-difty reward at some point, that's why.
-- **13871**: Thanks for doing what I asked. Now I have a total of $1 $0 from you.
-- **13872**: You want to trrrade in sparks, do you?
-- **13873**: Let me wake up from my catnap first... Alright, now rrread this.
-- **13874**: Wait, wait, wait! If you happen to get any purrrticularly interesting items from completing objectives, send them my way.
-- **13875**: Don't worry, I'm as honest as a cat when the meat's out of reach. I thought of taking them all for myself...
-- **13876**: ...but I don't want to make fur fly with the Adventurers' Mutual Aid Network, so I'll do my job like a good little kitty.
-- **13877**: Grrreat! Now I have $1 $0 from you. Thanks!
-- **13878**: Hm? Oh, spark exchange... Of course.
-- **13879**: I'm not completely sure, but this might help set some things straight...I guess.
-- **13880**: Let me add one thing. Please find it within your heart of hearts to give me anything of particular interest you get from completing objectives.
-- **13881**: I'll make it worth your while...I swear! Just keep at it and I'll be sure to surprise you with a hot, steaming helping of gratitude one day.
-- **13882**: Thanks for doing your part in the battle for love and peace! With this latest addition, I'm now keeping track of $1 $0 for you.
-- **13883**: "Records of Eminence is a system brought to you by the caring folks at the Adventurers' Mutual Aid Network. Set your own objectives whenever you desire, and fulfill them to receive compensation.
-- **13884**: "To set these tasks, select 'Objective List' from the Quests menu, then choose ones that suit your fancy.
-- **13885**: "You will be rewarded with gil and sparks of eminence, which serve the same function as points, notes, credits, and other such methods of quantifying one's greatness. As an extra incentive, adventurers will earn three times the amount of sparks for completing an objective the first time.
-- **13886**: "Completed objectives will vanish from your quest list unless they are repeatable. In the event that you wish to make room for different objectives, you will need to remove them manually.
-- **13887**: "As a corollary regarding rewards, you'll be blessed with special remuneration once you complete several objectives. Bask in the joy of these pleasant surprises when you can.
-- **13888**: "Lastly, any and all acts of vandalism directed against your $3 are strictly prohibited.
-- **13889**: "Should you be found in violation of this dictum, the heavens will part and wrath incarnate will descend to mete out justice upon you."
-- **13895**: Exchange for what? (Sparks: $0) [Items./Skill-increasing tomes./Equ. Lv.1 - 9. (Up to $")/Equ. Lv.10 - 19. (Up to $")/Equ. Lv.20 - 29. (Up to $")/Equ. Lv.30 - 39. (Up to $")/Equ. Lv.40 - 50. (Up to $")/Equ. Lv.51 - 70. (Up to $")/Equ. Lv.71 - 98. (Up to $")/Equ. Lv.99. (Up to $")/10./Trust./Exchange A.M.A.N. currencies./Exchange Seven Treasures./Wise words on Records of Eminence./Nothing.]
-- **13897**: Receive how many? ($6 spark[/s]) [One. ($1 spark[/s])/Three. ($2 spark[/s])/Twelve. ($3 spark[/s])/Thirty-six. ($4 spark[/s])/None.]
-- **13898**: Are you sure you want to expend $0 spark[/s] of eminence on this?
-- **13899**: Make the exchange? [Yes./No.]
-- **13900**: Exchange for what? (On hand: $0) [Currencies./Provisions./None for the nonce.]
-- **13901**: Exchange for what? (On hand: $0) [Sparks of Eminence: $1./Conquest Points: $2./Imperial Standing: $3./Allied Notes: $4./Bayld: $5./Valor Pts.: $6./Aslt. Pts. (Leujaoam): $7./Aslt. Pts. (T. Grounds): $8./Aslt. Pts. (Lebros): $9./Aslt. Pts. (Periqia): $10./Aslt. Pts. (Ilrusi): $11./Cruor: $12./Kinetic Units: $13./Obs. Fragments: $14./M. Plasm Corpuscles: $15./Ballista Points: $16. (2000 max)/Unity Accolades: $17./Escha Silt: $18./Resistance Credits: $19./Nothing for the nonce.]
-- **13902**: Exchange how many points? (On hand: $0) [$1 (One)./$2 (Three)./$3 (Ten)./$4 (Thirty)./None.]
-- **13904**: Beware that any amount that exceeds the maximum storage limit will unceremoniously vanish into the aether.
-- **13906**: Exchange how many? (On hand: $0) [One ($1)./Three ($2)./Ten ($3)./Thirty ($4)./None.]
-- **13907**: Truly exchange $0 ($2)?
-- **13908**: Are you quite satisfied with your selection?
-- **13909**: You wish to exchange $6, $6, $6, $6, $6, and $6 for equipment?
+- **13832**: Oh no, you don't. I can't say squat until you enable that orrriginal objective in the "Objective List" under the "Records of Eminence" section of the Quests menu.
+- **13833**: Congrrratulations! Oh, if only I were as lucky as you.
+- **13834**: Here goes nothing. <Hffffff> You're the eleven thousand, one hundred eleventh person to ever visit this square! To honor this crrrowning achievement, we're prepared to offer you a hefty reward.
+- **13835**: How will you respond? [How hefty?/None of this poppycock for me./Don't. Just walk away.]
+- **13836**: Hey, wait up! It's not like I go around saying this to everyone who comes my way. You're trrruly the eleven thousand, one hundred eleventh visitor!
+- **13837**: Poppycock? I'll tell you what's poppycock--thrrrowing away your chance to receive a breath-stopping prize for being the eleven thousand, one hundred eleventh visitor!
+- **13838**: Ah, frrresh meat! Stay a while and listen!
+- **13839**: They say that currriosity killed the cat, but I can assure you that's not the case here!
+- **13840**: Now, to peel back the veritable curtain on your commemorative prrrize...
+- **13841**: Ta-daaa, it's $6! Aren't you in rrrapture now?
+- **13842**: This is no ordinary, run-of-the-mill doll, I'll have you know! It's imbued with sorcery and engrrraves your "Records of Eminence" exploits upon itself. Now that's a handy-dandy tool if I've ever heard of one!
+- **13843**: Anything to say? [I've always wanted one of those!/Records of Eminence...?]
+- **13844**: Exactly! You can never go wrrrong with them, I say. But wait... There's more!
+- **13845**: What? You rrreally haven't heard? I thought everyone had heard.
+- **13846**: It may come as a surprrrise to you, but you're already participating in Records of Eminence!
+- **13847**: Yes, indeed. By talking to me, you've cleared your first objective. That means you eventually get another prrresent: "sparks of eminence," which act as quantifiers of your grandeur!
+- **13848**: Anyway, now that you know the rrropes, it's time to try it out yourself.
+- **13849**: Just sink your fangs into any of the short quests in the "Objective List" under the "Records of Eminence" part of the Quests menu.
+- **13850**: Easier than scooping fish from a bowl, rrright?
+- **13851**: Certain objectives can be rrrepeated too, so there'll be more to try than there are cats in a clowder.
+- **13852**: Once you accrrrue enough sparks from completing objectives, come talk to me for a saucer of good stuff.
+- **13853**: Uh-oh. I don't know how you managed to sneak this past me, but you're as weak as a kitten. Quit pussyfooting around and talk to Selele. She'll help you brrrush up on the basics...for free.
+- **13854**: Speaking of good stuff, your $3 is top-notch, so I'm going to need $1 gil for it.
+- **13855**: ...Not convinced it's worth the price?
+- **13856**: Okay, then. Watch this.
+- **13857**: With a simple clap of the hands, it disappears like magic! That's the power of arcane blah-ditty-blah at its finest!
+- **13858**: So, yeah, there's no way I could entrrrust something so amazing to you for free. Pay up.
+- **13859**: Pay $1 gil? [I've only got catcalls for you./Go cat around somewhere else./I feel like a bag of cats, so no.]
+- **13860**: ...Fine, then.
+- **13861**: Huh? Why am I giving up so easily?
+- **13862**: Because the doll's already rrregistered to you. If you're not going to give me money, there's nothing I can do about it.
+- **13869**: The $3 nods in agreement.
+- **13872**: You wish to exchange your sparks?
+- **13873**: Wait but a moment. Here, follow this command--er, compendium to the letter and you should be able to learn a thing or two.
+- **13874**: Ah, this almost slipped my mind. Should you receive any distinct sorts of artifacts for completing an objective, I will be happy to take them off your hands.
+- **13875**: Worry not, for I am not out to rob you of your glory. Quite the opposite, in fact. I will provide you with a worthwhile reward for collecting them.
+- **13876**: Thanks to your donation, I now have $1 $0 in safekeeping.
+- **13877**: Ohohoho... Turning in sparks, I see.
+- **13878**: Hold your hoarder hares, [hero/heroine]. I love your enthusiasm, but you're not going to learn a thing without a primer. Ahhh, here it is. Have a look-see.
+- **13879**: Oh, crud, that's right. You should trade me any special artifacts you get from completing objectives.
+- **13880**: "Why?" What a good question! Because I'll give you a nifty-difty reward at some point, that's why.
+- **13881**: Thanks for doing what I asked. Now I have a total of $1 $0 from you.
+- **13882**: You want to trrrade in sparks, do you?
+- **13883**: Let me wake up from my catnap first... Alright, now rrread this.
+- **13884**: Wait, wait, wait! If you happen to get any purrrticularly interesting items from completing objectives, send them my way.
+- **13885**: Don't worry, I'm as honest as a cat when the meat's out of reach. I thought of taking them all for myself...
+- **13886**: ...but I don't want to make fur fly with the Adventurers' Mutual Aid Network, so I'll do my job like a good little kitty.
+- **13887**: Grrreat! Now I have $1 $0 from you. Thanks!
+- **13888**: Hm? Oh, spark exchange... Of course.
+- **13889**: I'm not completely sure, but this might help set some things straight...I guess.
+- **13890**: Let me add one thing. Please find it within your heart of hearts to give me anything of particular interest you get from completing objectives.
+- **13891**: I'll make it worth your while...I swear! Just keep at it and I'll be sure to surprise you with a hot, steaming helping of gratitude one day.
+- **13892**: Thanks for doing your part in the battle for love and peace! With this latest addition, I'm now keeping track of $1 $0 for you.
+- **13893**: "Records of Eminence is a system brought to you by the caring folks at the Adventurers' Mutual Aid Network. Set your own objectives whenever you desire, and fulfill them to receive compensation.
+- **13894**: "To set these tasks, select 'Objective List' from the Quests menu, then choose ones that suit your fancy.
+- **13895**: "You will be rewarded with gil and sparks of eminence, which serve the same function as points, notes, credits, and other such methods of quantifying one's greatness. As an extra incentive, adventurers will earn three times the amount of sparks for completing an objective the first time.
+- **13896**: "Completed objectives will vanish from your quest list unless they are repeatable. In the event that you wish to make room for different objectives, you will need to remove them manually.
+- **13897**: "As a corollary regarding rewards, you'll be blessed with special remuneration once you complete several objectives. Bask in the joy of these pleasant surprises when you can.
+- **13898**: "Lastly, any and all acts of vandalism directed against your $3 are strictly prohibited.
+- **13899**: "Should you be found in violation of this dictum, the heavens will part and wrath incarnate will descend to mete out justice upon you."
+- **13905**: Exchange for what? (Sparks: $0) [Items./Skill-increasing tomes./Equ. Lv.1 - 9. (Up to $")/Equ. Lv.10 - 19. (Up to $")/Equ. Lv.20 - 29. (Up to $")/Equ. Lv.30 - 39. (Up to $")/Equ. Lv.40 - 50. (Up to $")/Equ. Lv.51 - 70. (Up to $")/Equ. Lv.71 - 98. (Up to $")/Equ. Lv.99. (Up to $")/10./Trust./Exchange A.M.A.N. currencies./Exchange Seven Treasures./Wise words on Records of Eminence./Nothing.]
+- **13907**: Receive how many? ($6 spark[/s]) [One. ($1 spark[/s])/Three. ($2 spark[/s])/Twelve. ($3 spark[/s])/Thirty-six. ($4 spark[/s])/None.]
+- **13908**: Are you sure you want to expend $0 spark[/s] of eminence on this?
+- **13909**: Make the exchange? [Yes./No.]
+- **13910**: Exchange for what? (On hand: $0) [Currencies./Provisions./None for the nonce.]
+- **13911**: Exchange for what? (On hand: $0) [Sparks of Eminence: $1./Conquest Points: $2./Imperial Standing: $3./Allied Notes: $4./Bayld: $5./Valor Pts.: $6./Aslt. Pts. (Leujaoam): $7./Aslt. Pts. (T. Grounds): $8./Aslt. Pts. (Lebros): $9./Aslt. Pts. (Periqia): $10./Aslt. Pts. (Ilrusi): $11./Cruor: $12./Kinetic Units: $13./Obs. Fragments: $14./M. Plasm Corpuscles: $15./Ballista Points: $16. (2000 max)/Unity Accolades: $17./Escha Silt: $18./Resistance Credits: $19./Nothing for the nonce.]
+- **13912**: Exchange how many points? (On hand: $0) [$1 (One)./$2 (Three)./$3 (Ten)./$4 (Thirty)./None.]
+- **13914**: Beware that any amount that exceeds the maximum storage limit will unceremoniously vanish into the aether.
+- **13916**: Exchange how many? (On hand: $0) [One ($1)./Three ($2)./Ten ($3)./Thirty ($4)./None.]
+- **13917**: Truly exchange $0 ($2)?
+- **13918**: Are you quite satisfied with your selection?
+- **13919**: You wish to exchange $6, $6, $6, $6, $6, and $6 for equipment?
 
 ## Events
 
@@ -1321,20 +1322,20 @@
  68: 0x01A1 [0x6E] EventEntity uses emote 10*
  69: 0x01A8 [0x99] Wait for EventEntity animation to complete
  70: 0x01AD [0x1C] WAIT(75* ticks)
- 71: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13823*)
+ 71: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13833*)
     → "Congrrratulations! Oh, if only I were as lucky as you."
  72: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x01B4 [0x52] END_LOAD_SCHEDULER: End scheduler "s053" with entities [EventEntity, EventEntity], work=628*
  74: 0x01C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[628*, 0*]
  75: 0x01D4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
  76: 0x01E3 [0x03] Work_Zone[2] = 11111*
- 77: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13824*)
+ 77: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13834*)
     → "Here goes nothing. <Hffffff> You're the eleven thousand, one hundred eleventh person to ever visit this square! To honor this crrrowning achievement, we're prepared to offer you a hefty reward."
  78: 0x01EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x01EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  80: 0x01FB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  81: 0x0208 [0x06] ExtData[1]->WorkLocal[0] = 0
- 82: 0x020B [0x24] CREATE_DIALOG(message_id=13825*, default_option=0*, option_flags=0*)
+ 82: 0x020B [0x24] CREATE_DIALOG(message_id=13835*, default_option=0*, option_flags=0*)
     → "How will you respond? [How hefty?/None of this poppycock for me./Don't. Just walk away.]"
  83: 0x0212 [0x25] WAIT_DIALOG_SELECT()
  84: 0x0213 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0251
@@ -1343,7 +1344,7 @@
  87: 0x023B [0x6E] EventEntity uses emote 7*
  88: 0x0242 [0x99] Wait for EventEntity animation to complete
  89: 0x0247 [0x1C] WAIT(60* ticks)
- 90: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=13829*)
+ 90: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=13839*)
     → "They say that currriosity killed the cat, but I can assure you that's not the case here!"
  91: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x024E [0x01] GOTO 0x035A
@@ -1354,7 +1355,7 @@
  97: 0x0281 [0x6E] EventEntity uses emote 22*
  98: 0x0288 [0x99] Wait for EventEntity animation to complete
  99: 0x028D [0x1C] WAIT(90* ticks)
-100: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=13828*)
+100: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=13838*)
     → "Ah, frrresh meat! Stay a while and listen!"
 101: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0294 [0x01] GOTO 0x02D0
@@ -1362,7 +1363,7 @@
 104: 0x029A [0x6E] EventEntity uses emote 6*
 105: 0x02A1 [0x99] Wait for EventEntity animation to complete
 106: 0x02A6 [0x1C] WAIT(75* ticks)
-107: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13827*)
+107: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13837*)
     → "Poppycock? I'll tell you what's poppycock--thrrrowing away your chance to receive a breath-stopping prize for being the eleven thousand, one hundred eleventh visitor!"
 108: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x02AD [0x52] END_LOAD_SCHEDULER: End scheduler "s057" with entities [EventEntity, EventEntity], work=628*
@@ -1386,7 +1387,7 @@ SUBROUTINE_02D0:
 125: 0x0342 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 126: 0x0343 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Femardaque (ID: 17764505/0x010F1099) Render.Flags0 and Render.Flags3 conditions are met
 127: 0x0348 [0x03] Work_Zone[2] = 11111*
-128: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=13826*)
+128: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=13836*)
     → "Hey, wait up! It's not like I go around saying this to everyone who comes my way. You're trrruly the eleven thousand, one hundred eleventh visitor!"
 129: 0x0350 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0351 [0x1C] WAIT(60* ticks)
@@ -1396,7 +1397,7 @@ SUBROUTINE_035A:
 132: 0x035A [0x52] END_LOAD_SCHEDULER: End scheduler "s057" with entities [EventEntity, EventEntity], work=628*
 133: 0x0369 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [EventEntity, EventEntity], work=[628*, 0*]
 134: 0x037A [0x03] Work_Zone[2] = 11111*
-135: 0x037F [0x1D] PRINT_EVENT_MESSAGE(message_id=13830*)
+135: 0x037F [0x1D] PRINT_EVENT_MESSAGE(message_id=13840*)
     → "Now, to peel back the veritable curtain on your commemorative prrrize..."
 136: 0x0382 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x0383 [0x6E] Fhelm Jobeizat (ID: 17764603/0x010F10FB) uses emote 14*
@@ -1404,7 +1405,7 @@ SUBROUTINE_035A:
 139: 0x038F [0x1C] WAIT(60* ticks)
 140: 0x0392 [0x6C] FADE_ENTITY_COLOR(entity_id=??? (ID: 17764604/0x010F10FC), end_alpha=128*, fade_time=60*)
 141: 0x039B [0x03] Work_Zone[2] = 2466*
-142: 0x03A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13831*)
+142: 0x03A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13841*)
     → "Ta-daaa, it's $6! Aren't you in rrrapture now?"
 143: 0x03A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x03A4 [0x52] END_LOAD_SCHEDULER: End scheduler "s058" with entities [EventEntity, EventEntity], work=628*
@@ -1422,7 +1423,7 @@ SUBROUTINE_03FC:
 154: 0x0408 [0x79] LocalPlayer looks at ??? (ID: 17764604/0x010F10FC) (Basic look)
 155: 0x0412 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bru0" with entities [??? (ID: 17764604/0x010F10FC), ??? (ID: 17764604/0x010F10FC)], work=252*
 156: 0x0421 [0x03] Work_Zone[2] = 2466*
-157: 0x0426 [0x48] [System] [13859*]:
+157: 0x0426 [0x48] [System] [13869*]:
     → "The $3 nods in agreement."
 158: 0x0429 [0x1C] WAIT(60* ticks)
 159: 0x042C [0x6B] STOP_AND_IDLE: ??? (ID: 17764604/0x010F10FC) stops current action and resets to idle (animation="idl0")
@@ -1433,14 +1434,14 @@ SUBROUTINE_03FC:
 164: 0x0467 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
 165: 0x0476 [0x1C] WAIT(30* ticks)
 166: 0x0479 [0x79] LocalPlayer looks at EventEntity (Basic look)
-167: 0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=13832*)
+167: 0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=13842*)
     → "This is no ordinary, run-of-the-mill doll, I'll have you know! It's imbued with sorcery and engrrraves your "Records of Eminence" exploits upon itself. Now that's a handy-dandy tool if I've ever heard of one!"
 168: 0x0486 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0487 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 170: 0x0496 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
 171: 0x04A3 [0x52] END_LOAD_SCHEDULER: End scheduler "s061" with entities [EventEntity, EventEntity], work=628*
 172: 0x04B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [EventEntity, EventEntity], work=[628*, 0*]
-173: 0x04C3 [0x24] CREATE_DIALOG(message_id=13833*, default_option=0*, option_flags=0*)
+173: 0x04C3 [0x24] CREATE_DIALOG(message_id=13843*, default_option=0*, option_flags=0*)
     → "Anything to say? [I've always wanted one of those!/Records of Eminence...?]"
 174: 0x04CA [0x25] WAIT_DIALOG_SELECT()
 175: 0x04CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0518
@@ -1451,7 +1452,7 @@ SUBROUTINE_03FC:
 180: 0x04F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [EventEntity, EventEntity], work=[628*, 0*]
 181: 0x0502 [0x6E] EventEntity uses emote 7*
 182: 0x0509 [0x99] Wait for EventEntity animation to complete
-183: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=13834*)
+183: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=13844*)
     → "Exactly! You can never go wrrrong with them, I say. But wait... There's more!"
 184: 0x0511 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0512 [0x1C] WAIT(30* ticks)
@@ -1466,7 +1467,7 @@ SUBROUTINE_03FC:
 194: 0x0554 [0x6E] EventEntity uses emote 6*
 195: 0x055B [0x99] Wait for EventEntity animation to complete
 196: 0x0560 [0x1C] WAIT(60* ticks)
-197: 0x0563 [0x1D] PRINT_EVENT_MESSAGE(message_id=13835*)
+197: 0x0563 [0x1D] PRINT_EVENT_MESSAGE(message_id=13845*)
     → "What? You rrreally haven't heard? I thought everyone had heard."
 198: 0x0566 [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x0567 [0x01] GOTO 0x056A
@@ -1475,36 +1476,36 @@ SUBROUTINE_056A:
 200: 0x056A [0x52] END_LOAD_SCHEDULER: End scheduler "s063" with entities [EventEntity, EventEntity], work=628*
 201: 0x0579 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [EventEntity, EventEntity], work=[628*, 0*]
 202: 0x058A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-203: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=13836*)
+203: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=13846*)
     → "It may come as a surprrrise to you, but you're already participating in Records of Eminence!"
 204: 0x059C [0x23] WAIT_FOR_DIALOG_INTERACTION
-205: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=13837*)
+205: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=13847*)
     → "Yes, indeed. By talking to me, you've cleared your first objective. That means you eventually get another prrresent: "sparks of eminence," which act as quantifiers of your grandeur!"
 206: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x05A1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 208: 0x05B0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
-209: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=13838*)
+209: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=13848*)
     → "Anyway, now that you know the rrropes, it's time to try it out yourself."
 210: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x05C1 [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [EventEntity, EventEntity], work=628*
 212: 0x05D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [EventEntity, EventEntity], work=[628*, 0*]
-213: 0x05E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13839*)
+213: 0x05E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13849*)
     → "Just sink your fangs into any of the short quests in the "Objective List" under the "Records of Eminence" part of the Quests menu."
 214: 0x05E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x05E5 [0x6E] EventEntity uses emote 22*
 216: 0x05EC [0x99] Wait for EventEntity animation to complete
 217: 0x05F1 [0x1C] WAIT(60* ticks)
-218: 0x05F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13840*)
+218: 0x05F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13850*)
     → "Easier than scooping fish from a bowl, rrright?"
 219: 0x05F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x05F8 [0x1C] WAIT(30* ticks)
 221: 0x05FB [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [EventEntity, EventEntity], work=628*
 222: 0x060A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[628*, 0*]
 223: 0x061B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-224: 0x062A [0x1D] PRINT_EVENT_MESSAGE(message_id=13841*)
+224: 0x062A [0x1D] PRINT_EVENT_MESSAGE(message_id=13851*)
     → "Certain objectives can be rrrepeated too, so there'll be more to try than there are cats in a clowder."
 225: 0x062D [0x23] WAIT_FOR_DIALOG_INTERACTION
-226: 0x062E [0x1D] PRINT_EVENT_MESSAGE(message_id=13842*)
+226: 0x062E [0x1D] PRINT_EVENT_MESSAGE(message_id=13852*)
     → "Once you accrrrue enough sparks from completing objectives, come talk to me for a saucer of good stuff."
 227: 0x0631 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x0632 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1526,7 +1527,7 @@ SUBROUTINE_056A:
 244: 0x06A1 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=616*
 245: 0x06B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[628*, 0*]
 246: 0x06C1 [0x1C] WAIT(60* ticks)
-247: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13843*)
+247: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13853*)
     → "Uh-oh. I don't know how you managed to sneak this past me, but you're as weak as a kitten. Quit pussyfooting around and talk to Selele. She'll help you brrrush up on the basics...for free."
 248: 0x06C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x06C8 [0x1C] WAIT(30* ticks)
@@ -1549,7 +1550,7 @@ SUBROUTINE_056A:
 266: 0x0728 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
 
 SUBROUTINE_072D:
-267: 0x072D [0x1D] PRINT_EVENT_MESSAGE(message_id=13844*)
+267: 0x072D [0x1D] PRINT_EVENT_MESSAGE(message_id=13854*)
     → "Speaking of good stuff, your $3 is top-notch, so I'm going to need $1 gil for it."
 268: 0x0730 [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x0731 [0x1C] WAIT(90* ticks)
@@ -1564,14 +1565,14 @@ SUBROUTINE_072D:
 
 SUBROUTINE_078C:
 278: 0x078C [0x7C] EventEntity->Render.Flags2 |= 0x00
-279: 0x0792 [0x1D] PRINT_EVENT_MESSAGE(message_id=13845*)
+279: 0x0792 [0x1D] PRINT_EVENT_MESSAGE(message_id=13855*)
     → "...Not convinced it's worth the price?"
 280: 0x0795 [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x0796 [0x7C] EventEntity->Render.Flags2 |= 0x01
 282: 0x079C [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [EventEntity, EventEntity], work=628*
 283: 0x07AB [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [EventEntity, EventEntity], work=628*
 284: 0x07BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[628*, 0*]
-285: 0x07CB [0x1D] PRINT_EVENT_MESSAGE(message_id=13846*)
+285: 0x07CB [0x1D] PRINT_EVENT_MESSAGE(message_id=13856*)
     → "Okay, then. Watch this."
 286: 0x07CE [0x32] ExtData[1]->MainSpeed = 40* * 0.1
 287: 0x07D1 [0x1F] MOVE_ENTITY: EventEntity moves to X=90.360*, Z=-44.506*, Y=-4.300*
@@ -1588,7 +1589,7 @@ SUBROUTINE_078C:
 298: 0x0822 [0x6E] Fhelm Jobeizat (ID: 17764603/0x010F10FB) uses emote 21*
 299: 0x0829 [0x99] Wait for Fhelm Jobeizat (ID: 17764603/0x010F10FB) animation to complete
 300: 0x082E [0x1C] WAIT(30* ticks)
-301: 0x0831 [0x1D] PRINT_EVENT_MESSAGE(message_id=13847*)
+301: 0x0831 [0x1D] PRINT_EVENT_MESSAGE(message_id=13857*)
     → "With a simple clap of the hands, it disappears like magic! That's the power of arcane blah-ditty-blah at its finest!"
 302: 0x0834 [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x0835 [0x7B] EventEntity stops talking
@@ -1596,7 +1597,7 @@ SUBROUTINE_078C:
 305: 0x083D [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [EventEntity, EventEntity], work=628*
 306: 0x084C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [EventEntity, EventEntity], work=[628*, 0*]
 307: 0x085D [0x1C] WAIT(45* ticks)
-308: 0x0860 [0x1D] PRINT_EVENT_MESSAGE(message_id=13848*)
+308: 0x0860 [0x1D] PRINT_EVENT_MESSAGE(message_id=13858*)
     → "So, yeah, there's no way I could entrrrust something so amazing to you for free. Pay up."
 309: 0x0863 [0x23] WAIT_FOR_DIALOG_INTERACTION
 310: 0x0864 [0x1C] WAIT(15* ticks)
@@ -1616,7 +1617,7 @@ SUBROUTINE_08BF:
 322: 0x08CF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
 
 SUBROUTINE_08D4:
-323: 0x08D4 [0x24] CREATE_DIALOG(message_id=13849*, default_option=0*, option_flags=0*)
+323: 0x08D4 [0x24] CREATE_DIALOG(message_id=13859*, default_option=0*, option_flags=0*)
     → "Pay $1 gil? [I've only got catcalls for you./Go cat around somewhere else./I feel like a bag of cats, so no.]"
 324: 0x08DB [0x25] WAIT_DIALOG_SELECT()
 325: 0x08DC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08F6
@@ -1642,7 +1643,7 @@ SUBROUTINE_092A:
 343: 0x0959 [0x6E] Fhelm Jobeizat (ID: 17764603/0x010F10FB) uses emote 19*
 344: 0x0960 [0x99] Wait for Fhelm Jobeizat (ID: 17764603/0x010F10FB) animation to complete
 345: 0x0965 [0x79] EventEntity looks at LocalPlayer (Basic look)
-346: 0x096F [0x1D] PRINT_EVENT_MESSAGE(message_id=13850*)
+346: 0x096F [0x1D] PRINT_EVENT_MESSAGE(message_id=13860*)
     → "...Fine, then."
 347: 0x0972 [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x0973 [0x1C] WAIT(30* ticks)
@@ -1652,7 +1653,7 @@ SUBROUTINE_092A:
 352: 0x099D [0x1C] WAIT(80* ticks)
 353: 0x09A0 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x74)
 354: 0x09A7 [0x1C] WAIT(40* ticks)
-355: 0x09AA [0x1D] PRINT_EVENT_MESSAGE(message_id=13851*)
+355: 0x09AA [0x1D] PRINT_EVENT_MESSAGE(message_id=13861*)
     → "Huh? Why am I giving up so easily?"
 356: 0x09AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 357: 0x09AE [0x6E] Fhelm Jobeizat (ID: 17764603/0x010F10FB) uses emote 14*
@@ -1660,7 +1661,7 @@ SUBROUTINE_092A:
 359: 0x09BA [0x1C] WAIT(60* ticks)
 360: 0x09BD [0x6C] FADE_ENTITY_COLOR(entity_id=??? (ID: 17764604/0x010F10FC), end_alpha=128*, fade_time=60*)
 361: 0x09C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-362: 0x09D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13852*)
+362: 0x09D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13862*)
     → "Because the doll's already rrregistered to you. If you're not going to give me money, there's nothing I can do about it."
 363: 0x09D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x09D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1680,7 +1681,7 @@ SUBROUTINE_0A43:
 376: 0x0A4F [0x1C] WAIT(180* ticks)
 377: 0x0A52 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bru0" with entities [??? (ID: 17764604/0x010F10FC), ??? (ID: 17764604/0x010F10FC)], work=252*
 378: 0x0A61 [0x03] Work_Zone[2] = 2466*
-379: 0x0A66 [0x48] [System] [13859*]:
+379: 0x0A66 [0x48] [System] [13869*]:
     → "The $3 nods in agreement."
 380: 0x0A69 [0x1C] WAIT(90* ticks)
 381: 0x0A6C [0x6B] STOP_AND_IDLE: ??? (ID: 17764604/0x010F10FC) stops current action and resets to idle (animation="idl0")
@@ -1757,7 +1758,7 @@ SUBROUTINE_0B08:
   1: 0x0B90 [0x4A] EventEntity looks at LocalPlayer
   2: 0x0B99 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0B9A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  4: 0x0B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=13822*)
+  4: 0x0B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=13832*)
     → "Oh no, you don't. I can't say squat until you enable that orrriginal objective in the "Objective List" under the "Records of Eminence" section of the Quests menu."
   5: 0x0BA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0BA3 [0x21] END_EVENT
@@ -1946,7 +1947,7 @@ SUBROUTINE_0B08:
 1600: 82 29 82 2A 82 2B 82 2C  82 2D 82 2E 82 2F 82 30  .).*.+.,.-.../.0
 1610: 82 31 82 32 82 33 82 34  82 35 82 36 82 37 82 38  .1.2.3.4.5.6.7.8
 1620: 82 39 82 3A 82 3B 82 3C  82 3D 82 3E 82 3F 82 40  .9.:.;.<.=.>.?.@
-1630: 82 41 82 42 82 43 82 44  82 67 80 45 82 46 82 47  .A.B.C.D.g.E.F.G
+1630: 82 41 82 42 82 43 82 44  82 65 80 45 82 46 82 47  .A.B.C.D.e.E.F.G
 1640: 82 48 82 49 82 4A 82 4B  82 4C 82 4D 82 4E 82 4F  .H.I.J.K.L.M.N.O
 1650: 82 50 82 09 80 09 80 09  80 09 80 09 80 09 80 09  .P..............
 1660: 80 09 80 09 80 09 80 09  80 09 80 09 80 09 80 09  ................
@@ -2308,19 +2309,19 @@ SUBROUTINE_0B08:
   6: 0x0BC3 [0x4A] LocalPlayer looks at EventEntity
   7: 0x0BCC [0x4A] EventEntity looks at LocalPlayer
   8: 0x0BD5 [0x02] IF !(ExtData[1]->WorkLocal[4] == 230*) GOTO 0x0BE3
-  9: 0x0BDD [0x1D] PRINT_EVENT_MESSAGE(message_id=13862*)
+  9: 0x0BDD [0x1D] PRINT_EVENT_MESSAGE(message_id=13872*)
     → "You wish to exchange your sparks?"
  10: 0x0BE0 [0x01] GOTO 0x0C0D
  11: 0x0BE3 [0x02] IF !(ExtData[1]->WorkLocal[4] == 235*) GOTO 0x0BF1
- 12: 0x0BEB [0x1D] PRINT_EVENT_MESSAGE(message_id=13867*)
+ 12: 0x0BEB [0x1D] PRINT_EVENT_MESSAGE(message_id=13877*)
     → "Ohohoho... Turning in sparks, I see."
  13: 0x0BEE [0x01] GOTO 0x0C0D
  14: 0x0BF1 [0x02] IF !(ExtData[1]->WorkLocal[4] == 241*) GOTO 0x0BFF
- 15: 0x0BF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13872*)
+ 15: 0x0BF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13882*)
     → "You want to trrrade in sparks, do you?"
  16: 0x0BFC [0x01] GOTO 0x0C0D
  17: 0x0BFF [0x02] IF !(ExtData[1]->WorkLocal[4] == 256*) GOTO 0x0C0D
- 18: 0x0C07 [0x1D] PRINT_EVENT_MESSAGE(message_id=13878*)
+ 18: 0x0C07 [0x1D] PRINT_EVENT_MESSAGE(message_id=13888*)
     → "Hm? Oh, spark exchange... Of course."
  19: 0x0C0A [0x01] GOTO 0x0C0D
 
@@ -2335,7 +2336,7 @@ SUBROUTINE_0C15:
  25: 0x0C27 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0C34
  26: 0x0C2F [0x03] ExtData[1]->WorkLocal[9] = 11264*
  27: 0x0C34 [0x03] Work_Zone_1700[26] = ExtData[1]->WorkLocal[34]
- 28: 0x0C39 [0x24] CREATE_DIALOG(message_id=13895*, default_option=ExtData[1]->WorkLocal[28], option_flags=ExtData[1]->WorkLocal[9])
+ 28: 0x0C39 [0x24] CREATE_DIALOG(message_id=13905*, default_option=ExtData[1]->WorkLocal[28], option_flags=ExtData[1]->WorkLocal[9])
     → "Exchange for what? (Sparks: $0) [Items./Skill-increasing tomes./Equ. Lv.1 - 9. (Up to $")/Equ. Lv.10 - 19. (Up to $")/Equ. Lv.20 - 29. (Up to $")/Equ. Lv.30 - 39. (Up to $")/Equ. Lv.40 - 50. (Up to $")/Equ. Lv.51 - 70. (Up to $")/Equ. Lv.71 - 98. (Up to $")/Equ. Lv.99. (Up to $")/10./Trust./Exchange A.M.A.N. currencies./Exchange Seven Treasures./Wise words on Records of Eminence./Nothing.]"
  29: 0x0C40 [0x25] WAIT_DIALOG_SELECT()
  30: 0x0C41 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C59
@@ -2408,7 +2409,7 @@ SUBROUTINE_0C15:
  97: 0x0D87 [0x02] IF !(ExtData[1]->WorkLocal[4] == 230*) GOTO 0x0DB7
  98: 0x0D8F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=39*
  99: 0x0D9E [0x1C] WAIT(30* ticks)
-100: 0x0DA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13863*)
+100: 0x0DA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13873*)
     → "Wait but a moment. Here, follow this command--er, compendium to the letter and you should be able to learn a thing or two."
 101: 0x0DA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0DA5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=39*
@@ -2416,7 +2417,7 @@ SUBROUTINE_0C15:
 104: 0x0DB7 [0x02] IF !(ExtData[1]->WorkLocal[4] == 235*) GOTO 0x0DE7
 105: 0x0DBF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
 106: 0x0DCE [0x1C] WAIT(30* ticks)
-107: 0x0DD1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13868*)
+107: 0x0DD1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13878*)
     → "Hold your hoarder hares, [hero/heroine]. I love your enthusiasm, but you're not going to learn a thing without a primer. Ahhh, here it is. Have a look-see."
 108: 0x0DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0DD5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=9*
@@ -2424,7 +2425,7 @@ SUBROUTINE_0C15:
 111: 0x0DE7 [0x02] IF !(ExtData[1]->WorkLocal[4] == 241*) GOTO 0x0E17
 112: 0x0DEF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
 113: 0x0DFE [0x1C] WAIT(30* ticks)
-114: 0x0E01 [0x1D] PRINT_EVENT_MESSAGE(message_id=13873*)
+114: 0x0E01 [0x1D] PRINT_EVENT_MESSAGE(message_id=13883*)
     → "Let me wake up from my catnap first... Alright, now rrread this."
 115: 0x0E04 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0E05 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2432,7 +2433,7 @@ SUBROUTINE_0C15:
 118: 0x0E17 [0x02] IF !(ExtData[1]->WorkLocal[4] == 256*) GOTO 0x0E47
 119: 0x0E1F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
 120: 0x0E2E [0x1C] WAIT(30* ticks)
-121: 0x0E31 [0x1D] PRINT_EVENT_MESSAGE(message_id=13879*)
+121: 0x0E31 [0x1D] PRINT_EVENT_MESSAGE(message_id=13889*)
     → "I'm not completely sure, but this might help set some things straight...I guess."
 122: 0x0E34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0E35 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*
@@ -2440,35 +2441,35 @@ SUBROUTINE_0C15:
 
 SUBROUTINE_0E47:
 125: 0x0E47 [0x1C] WAIT(30* ticks)
-126: 0x0E4A [0x48] [System] [13883*]:
+126: 0x0E4A [0x48] [System] [13893*]:
     → ""Records of Eminence is a system brought to you by the caring folks at the Adventurers' Mutual Aid Network. Set your own objectives whenever you desire, and fulfill them to receive compensation."
 127: 0x0E4D [0x23] WAIT_FOR_DIALOG_INTERACTION
-128: 0x0E4E [0x48] [System] [13884*]:
+128: 0x0E4E [0x48] [System] [13894*]:
     → ""To set these tasks, select 'Objective List' from the Quests menu, then choose ones that suit your fancy."
 129: 0x0E51 [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x0E52 [0x48] [System] [13885*]:
+130: 0x0E52 [0x48] [System] [13895*]:
     → ""You will be rewarded with gil and sparks of eminence, which serve the same function as points, notes, credits, and other such methods of quantifying one's greatness. As an extra incentive, adventurers will earn three times the amount of sparks for completing an objective the first time."
 131: 0x0E55 [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x0E56 [0x48] [System] [13886*]:
+132: 0x0E56 [0x48] [System] [13896*]:
     → ""Completed objectives will vanish from your quest list unless they are repeatable. In the event that you wish to make room for different objectives, you will need to remove them manually."
 133: 0x0E59 [0x23] WAIT_FOR_DIALOG_INTERACTION
-134: 0x0E5A [0x48] [System] [13887*]:
+134: 0x0E5A [0x48] [System] [13897*]:
     → ""As a corollary regarding rewards, you'll be blessed with special remuneration once you complete several objectives. Bask in the joy of these pleasant surprises when you can."
 135: 0x0E5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0E5E [0x03] Work_Zone[2] = 2466*
-137: 0x0E63 [0x48] [System] [13888*]:
+137: 0x0E63 [0x48] [System] [13898*]:
     → ""Lastly, any and all acts of vandalism directed against your $3 are strictly prohibited."
 138: 0x0E66 [0x23] WAIT_FOR_DIALOG_INTERACTION
-139: 0x0E67 [0x48] [System] [13889*]:
+139: 0x0E67 [0x48] [System] [13899*]:
     → ""Should you be found in violation of this dictum, the heavens will part and wrath incarnate will descend to mete out justice upon you.""
 140: 0x0E6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x0E6B [0x02] IF !(ExtData[1]->WorkLocal[4] == 230*) GOTO 0x0E9F
 142: 0x0E73 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=39*
 143: 0x0E82 [0x1C] WAIT(30* ticks)
-144: 0x0E85 [0x1D] PRINT_EVENT_MESSAGE(message_id=13864*)
+144: 0x0E85 [0x1D] PRINT_EVENT_MESSAGE(message_id=13874*)
     → "Ah, this almost slipped my mind. Should you receive any distinct sorts of artifacts for completing an objective, I will be happy to take them off your hands."
 145: 0x0E88 [0x23] WAIT_FOR_DIALOG_INTERACTION
-146: 0x0E89 [0x1D] PRINT_EVENT_MESSAGE(message_id=13865*)
+146: 0x0E89 [0x1D] PRINT_EVENT_MESSAGE(message_id=13875*)
     → "Worry not, for I am not out to rob you of your glory. Quite the opposite, in fact. I will provide you with a worthwhile reward for collecting them."
 147: 0x0E8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0E8D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=39*
@@ -2476,10 +2477,10 @@ SUBROUTINE_0E47:
 150: 0x0E9F [0x02] IF !(ExtData[1]->WorkLocal[4] == 235*) GOTO 0x0ED3
 151: 0x0EA7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
 152: 0x0EB6 [0x1C] WAIT(30* ticks)
-153: 0x0EB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13869*)
+153: 0x0EB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13879*)
     → "Oh, crud, that's right. You should trade me any special artifacts you get from completing objectives."
 154: 0x0EBC [0x23] WAIT_FOR_DIALOG_INTERACTION
-155: 0x0EBD [0x1D] PRINT_EVENT_MESSAGE(message_id=13870*)
+155: 0x0EBD [0x1D] PRINT_EVENT_MESSAGE(message_id=13880*)
     → ""Why?" What a good question! Because I'll give you a nifty-difty reward at some point, that's why."
 156: 0x0EC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0EC1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=9*
@@ -2487,13 +2488,13 @@ SUBROUTINE_0E47:
 159: 0x0ED3 [0x02] IF !(ExtData[1]->WorkLocal[4] == 241*) GOTO 0x0F0B
 160: 0x0EDB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
 161: 0x0EEA [0x1C] WAIT(30* ticks)
-162: 0x0EED [0x1D] PRINT_EVENT_MESSAGE(message_id=13874*)
+162: 0x0EED [0x1D] PRINT_EVENT_MESSAGE(message_id=13884*)
     → "Wait, wait, wait! If you happen to get any purrrticularly interesting items from completing objectives, send them my way."
 163: 0x0EF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x0EF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13875*)
+164: 0x0EF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13885*)
     → "Don't worry, I'm as honest as a cat when the meat's out of reach. I thought of taking them all for myself..."
 165: 0x0EF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-166: 0x0EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13876*)
+166: 0x0EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13886*)
     → "...but I don't want to make fur fly with the Adventurers' Mutual Aid Network, so I'll do my job like a good little kitty."
 167: 0x0EF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0EF9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2501,10 +2502,10 @@ SUBROUTINE_0E47:
 170: 0x0F0B [0x02] IF !(ExtData[1]->WorkLocal[4] == 256*) GOTO 0x0F3F
 171: 0x0F13 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
 172: 0x0F22 [0x1C] WAIT(30* ticks)
-173: 0x0F25 [0x1D] PRINT_EVENT_MESSAGE(message_id=13880*)
+173: 0x0F25 [0x1D] PRINT_EVENT_MESSAGE(message_id=13890*)
     → "Let me add one thing. Please find it within your heart of hearts to give me anything of particular interest you get from completing objectives."
 174: 0x0F28 [0x23] WAIT_FOR_DIALOG_INTERACTION
-175: 0x0F29 [0x1D] PRINT_EVENT_MESSAGE(message_id=13881*)
+175: 0x0F29 [0x1D] PRINT_EVENT_MESSAGE(message_id=13891*)
     → "I'll make it worth your while...I swear! Just keep at it and I'll be sure to surprise you with a hot, steaming helping of gratitude one day."
 176: 0x0F2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0F2D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*
@@ -2758,7 +2759,7 @@ SUBROUTINE_1F2E:
 405: 0x1F54 [0x03] Work_Zone[6] = Work_Zone[2]
 406: 0x1F59 [0x14] Work_Zone[6] *= 36*
 407: 0x1F5E [0x03] ExtData[1]->WorkLocal[26] = 0*
-408: 0x1F63 [0x24] CREATE_DIALOG(message_id=13897*, default_option=4*, option_flags=0*)
+408: 0x1F63 [0x24] CREATE_DIALOG(message_id=13907*, default_option=4*, option_flags=0*)
     → "Receive how many? ($6 spark[/s]) [One. ($1 spark[/s])/Three. ($2 spark[/s])/Twelve. ($3 spark[/s])/Thirty-six. ($4 spark[/s])/None.]"
 409: 0x1F6A [0x25] WAIT_DIALOG_SELECT()
 410: 0x1F6B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F7B
@@ -2786,11 +2787,11 @@ SUBROUTINE_1FC5:
 430: 0x1FCD [0x01] GOTO 0x202C
 431: 0x1FD0 [0x14] Work_Zone[2] *= ExtData[1]->WorkLocal[26]
 432: 0x1FD5 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[21])
-433: 0x1FD8 [0x48] [System] [13898*]:
+433: 0x1FD8 [0x48] [System] [13908*]:
     → "Are you sure you want to expend $0 spark[/s] of eminence on this?"
 434: 0x1FDB [0x23] WAIT_FOR_DIALOG_INTERACTION
 435: 0x1FDC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-436: 0x1FDF [0x24] CREATE_DIALOG(message_id=13899*, default_option=1*, option_flags=0*)
+436: 0x1FDF [0x24] CREATE_DIALOG(message_id=13909*, default_option=1*, option_flags=0*)
     → "Make the exchange? [Yes./No.]"
 437: 0x1FE6 [0x25] WAIT_DIALOG_SELECT()
 438: 0x1FE7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2021
@@ -2810,11 +2811,11 @@ SUBROUTINE_1FC5:
 SUBROUTINE_202C:
 451: 0x202C [0x01] GOTO 0x2086
 452: 0x202F [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[21])
-453: 0x2032 [0x48] [System] [13898*]:
+453: 0x2032 [0x48] [System] [13908*]:
     → "Are you sure you want to expend $0 spark[/s] of eminence on this?"
 454: 0x2035 [0x23] WAIT_FOR_DIALOG_INTERACTION
 455: 0x2036 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-456: 0x2039 [0x24] CREATE_DIALOG(message_id=13899*, default_option=1*, option_flags=0*)
+456: 0x2039 [0x24] CREATE_DIALOG(message_id=13909*, default_option=1*, option_flags=0*)
     → "Make the exchange? [Yes./No.]"
 457: 0x2040 [0x25] WAIT_DIALOG_SELECT()
 458: 0x2041 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x207B
@@ -2921,11 +2922,11 @@ SUBROUTINE_21E0:
 549: 0x21E5 [0x03] ExtData[1]->WorkLocal[16] = ExtData[1]->WorkLocal[21]
 550: 0x21EA [0x03] ExtData[1]->WorkLocal[26] = 1*
 551: 0x21EF [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[21])
-552: 0x21F2 [0x48] [System] [13898*]:
+552: 0x21F2 [0x48] [System] [13908*]:
     → "Are you sure you want to expend $0 spark[/s] of eminence on this?"
 553: 0x21F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 554: 0x21F6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-555: 0x21F9 [0x24] CREATE_DIALOG(message_id=13899*, default_option=1*, option_flags=0*)
+555: 0x21F9 [0x24] CREATE_DIALOG(message_id=13909*, default_option=1*, option_flags=0*)
     → "Make the exchange? [Yes./No.]"
 556: 0x2200 [0x25] WAIT_DIALOG_SELECT()
 557: 0x2201 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x223B
@@ -2953,7 +2954,7 @@ SUBROUTINE_224A:
 SUBROUTINE_2250:
 574: 0x2250 [0x02] IF !(ExtData[1]->WorkLocal[8] <= 1*) GOTO 0x2A40
 575: 0x2258 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-576: 0x225D [0x24] CREATE_DIALOG(message_id=13900*, default_option=ExtData[1]->WorkLocal[31], option_flags=0*)
+576: 0x225D [0x24] CREATE_DIALOG(message_id=13910*, default_option=ExtData[1]->WorkLocal[31], option_flags=0*)
     → "Exchange for what? (On hand: $0) [Currencies./Provisions./None for the nonce.]"
 577: 0x2264 [0x25] WAIT_DIALOG_SELECT()
 578: 0x2265 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x28A5
@@ -2983,7 +2984,7 @@ SUBROUTINE_2278:
 600: 0x22D5 [0x03] Work_Zone_1700[10] = 1000*
 601: 0x22DA [0x03] Work_Zone_1700[11] = 1000*
 602: 0x22DF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-603: 0x22E4 [0x24] CREATE_DIALOG(message_id=13901*, default_option=ExtData[1]->WorkLocal[30], option_flags=0*)
+603: 0x22E4 [0x24] CREATE_DIALOG(message_id=13911*, default_option=ExtData[1]->WorkLocal[30], option_flags=0*)
     → "Exchange for what? (On hand: $0) [Sparks of Eminence: $1./Conquest Points: $2./Imperial Standing: $3./Allied Notes: $4./Bayld: $5./Valor Pts.: $6./Aslt. Pts. (Leujaoam): $7./Aslt. Pts. (T. Grounds): $8./Aslt. Pts. (Lebros): $9./Aslt. Pts. (Periqia): $10./Aslt. Pts. (Ilrusi): $11./Cruor: $12./Kinetic Units: $13./Obs. Fragments: $14./M. Plasm Corpuscles: $15./Ballista Points: $16. (2000 max)/Unity Accolades: $17./Escha Silt: $18./Resistance Credits: $19./Nothing for the nonce.]"
 604: 0x22EB [0x25] WAIT_DIALOG_SELECT()
 605: 0x22EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x22FC
@@ -3175,7 +3176,7 @@ SUBROUTINE_2699:
 785: 0x2699 [0x03] ExtData[1]->WorkLocal[11] = 0*
 786: 0x269E [0x02] IF !(ExtData[1]->WorkLocal[21] == 15*) GOTO 0x26AB
 787: 0x26A6 [0x03] ExtData[1]->WorkLocal[11] = 14*
-788: 0x26AB [0x24] CREATE_DIALOG(message_id=13902*, default_option=ExtData[1]->WorkLocal[32], option_flags=ExtData[1]->WorkLocal[11])
+788: 0x26AB [0x24] CREATE_DIALOG(message_id=13912*, default_option=ExtData[1]->WorkLocal[32], option_flags=ExtData[1]->WorkLocal[11])
     → "Exchange how many points? (On hand: $0) [$1 (One)./$2 (Three)./$3 (Ten)./$4 (Thirty)./None.]"
 789: 0x26B2 [0x25] WAIT_DIALOG_SELECT()
 790: 0x26B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x26C3
@@ -3197,7 +3198,7 @@ SUBROUTINE_2699:
 SUBROUTINE_2701:
 805: 0x2701 [0x02] IF !(Work_Zone[0] > 3*) GOTO 0x289C
 806: 0x2709 [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[0]
-807: 0x270E [0x48] [System] [13904*]:
+807: 0x270E [0x48] [System] [13914*]:
     → "Beware that any amount that exceeds the maximum storage limit will unceremoniously vanish into the aether."
 808: 0x2711 [0x23] WAIT_FOR_DIALOG_INTERACTION
 809: 0x2712 [0x02] IF !(ExtData[1]->WorkLocal[21] == 0*) GOTO 0x2722
@@ -3262,10 +3263,10 @@ SUBROUTINE_2842:
 866: 0x2842 [0x14] Work_Zone[2] *= ExtData[1]->WorkLocal[26]
 867: 0x2847 [0x03] Work_Zone[3] = 1*
 868: 0x284C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[26]
-869: 0x2851 [0x48] [System] [13907*]:
+869: 0x2851 [0x48] [System] [13917*]:
     → "Truly exchange $0 ($2)?"
 870: 0x2854 [0x23] WAIT_FOR_DIALOG_INTERACTION
-871: 0x2855 [0x24] CREATE_DIALOG(message_id=13899*, default_option=1*, option_flags=0*)
+871: 0x2855 [0x24] CREATE_DIALOG(message_id=13909*, default_option=1*, option_flags=0*)
     → "Make the exchange? [Yes./No.]"
 872: 0x285C [0x25] WAIT_DIALOG_SELECT()
 873: 0x285D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2891
@@ -3312,7 +3313,7 @@ SUBROUTINE_293D:
 906: 0x294F [0x03] Work_Zone[4] = 6*
 907: 0x2954 [0x03] Work_Zone[5] = 20*
 908: 0x2959 [0x03] Work_Zone[6] = 60*
-909: 0x295E [0x24] CREATE_DIALOG(message_id=13906*, default_option=ExtData[1]->WorkLocal[32], option_flags=0*)
+909: 0x295E [0x24] CREATE_DIALOG(message_id=13916*, default_option=ExtData[1]->WorkLocal[32], option_flags=0*)
     → "Exchange how many? (On hand: $0) [One ($1)./Three ($2)./Ten ($3)./Thirty ($4)./None.]"
 910: 0x2965 [0x25] WAIT_DIALOG_SELECT()
 911: 0x2966 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2976
@@ -3339,11 +3340,11 @@ SUBROUTINE_29B4:
 930: 0x29C9 [0x03] Work_Zone[3] = 0*
 931: 0x29CE [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[26]
 932: 0x29D3 [0x14] Work_Zone[4] *= 2*
-933: 0x29D8 [0x48] [System] [13907*]:
+933: 0x29D8 [0x48] [System] [13917*]:
     → "Truly exchange $0 ($2)?"
 934: 0x29DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 935: 0x29DC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-936: 0x29DF [0x24] CREATE_DIALOG(message_id=13899*, default_option=1*, option_flags=0*)
+936: 0x29DF [0x24] CREATE_DIALOG(message_id=13909*, default_option=1*, option_flags=0*)
     → "Make the exchange? [Yes./No.]"
 937: 0x29E6 [0x25] WAIT_DIALOG_SELECT()
 938: 0x29E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2A1B
@@ -3377,7 +3378,7 @@ SUBROUTINE_2A41:
 960: 0x2A50 [0x03] Work_Zone[6] = 2485*
 961: 0x2A55 [0x03] Work_Zone[7] = 2486*
 962: 0x2A5A [0x03] Work_Zone[8] = 2487*
-963: 0x2A5F [0x48] [System] [13909*]:
+963: 0x2A5F [0x48] [System] [13919*]:
     → "You wish to exchange $6, $6, $6, $6, $6, and $6 for equipment?"
 964: 0x2A62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 965: 0x2A63 [0x06] Work_Zone[3] = 0
@@ -3447,11 +3448,11 @@ SUBROUTINE_2B81:
 1023: 0x2B9B [0x07] ExtData[1]->WorkLocal[16] += Work_Zone[0]
 1024: 0x2BA0 [0x9D] ExtData[1]->WorkLocal[21] = 0x1855[ExtData[1]->WorkLocal[16]] // Read WORD
 1025: 0x2BA8 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[21])
-1026: 0x2BAB [0x48] [System] [13908*]:
+1026: 0x2BAB [0x48] [System] [13918*]:
     → "Are you quite satisfied with your selection?"
 1027: 0x2BAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1028: 0x2BAF [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1029: 0x2BB2 [0x24] CREATE_DIALOG(message_id=13899*, default_option=1*, option_flags=0*)
+1029: 0x2BB2 [0x24] CREATE_DIALOG(message_id=13909*, default_option=1*, option_flags=0*)
     → "Make the exchange? [Yes./No.]"
 1030: 0x2BB9 [0x25] WAIT_DIALOG_SELECT()
 1031: 0x2BBA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2BD9
@@ -3579,7 +3580,7 @@ SUBROUTINE_2BE4:
      0x1605: 2B 82 2C 82 2D 82 2E 82 2F 82 30 82 31 82 32 82
      0x1615: 33 82 34 82 35 82 36 82 37 82 38 82 39 82 3A 82
      0x1625: 3B 82 3C 82 3D 82 3E 82 3F 82 40 82 41 82 42 82
-     0x1635: 43 82 44 82 67 80 45 82 46 82 47 82 48 82 49 82
+     0x1635: 43 82 44 82 65 80 45 82 46 82 47 82 48 82 49 82
      0x1645: 4A 82 4B 82 4C 82 4D 82 4E 82 4F 82 50 82 09 80
      0x1655: 09 80 09 80 09 80 09 80 09 80 09 80 09 80 09 80
      0x1665: 09 80 09 80 09 80 09 80 09 80 09 80 09 80 09 80
@@ -3677,9 +3678,9 @@ SUBROUTINE_2BE4:
 2BE0:                          42 03 04 00 04 10 4A F0          B.....J.
 2BF0: FF FF 7F F8 FF FF 7F 4A  F8 FF FF 7F F0 FF FF 7F  .......J........
 2C00: 6F 76 F8 FF FF 7F 02 04  00 54 80 80 15 2C 1D 98  ov.......T...,..
-2C10: 83 23 01 42 2C 02 04 00  56 80 80 24 2C 1D CD 81  .#.B,...V..$,...
-2C20: 23 01 42 2C 02 04 00 58  80 80 33 2C 1D 99 83 23  #.B,...X..3,...#
-2C30: 01 42 2C 02 04 00 5A 80  80 42 2C 1D 9A 83 23 01  .B,...Z..B,...#.
+2C10: 83 23 01 42 2C 02 04 00  56 80 80 24 2C 1D 99 83  .#.B,...V..$,...
+2C20: 23 01 42 2C 02 04 00 58  80 80 33 2C 1D 9A 83 23  #.B,...X..3,...#
+2C30: 01 42 2C 02 04 00 5A 80  80 42 2C 1D 9B 83 23 01  .B,...Z..B,...#.
 2C40: 42 2C 21 00 1B 45 52 80  F0 FF FF 7F F0 FF FF 7F  B,!..ER.........
 2C50: 66 64 69 30 09 80 55 52  80 F0 FF FF 7F F0 FF FF  fdi0..UR........
 2C60: 7F 66 64 69 30 1B 45 52  80 F0 FF FF 7F F0 FF FF  .fdi0.ER........
@@ -3734,22 +3735,22 @@ SUBROUTINE_2BE4:
   4: 0x2C00 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x2C01 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   6: 0x2C06 [0x02] IF !(ExtData[1]->WorkLocal[4] == 230*) GOTO 0x2C15
-  7: 0x2C0E [0x1D] PRINT_EVENT_MESSAGE(message_id=13866*)
+  7: 0x2C0E [0x1D] PRINT_EVENT_MESSAGE(message_id=13876*)
     → "Thanks to your donation, I now have $1 $0 in safekeeping."
   8: 0x2C11 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x2C12 [0x01] GOTO 0x2C42
  10: 0x2C15 [0x02] IF !(ExtData[1]->WorkLocal[4] == 235*) GOTO 0x2C24
- 11: 0x2C1D [0x1D] PRINT_EVENT_MESSAGE(message_id=13871*)
+ 11: 0x2C1D [0x1D] PRINT_EVENT_MESSAGE(message_id=13881*)
     → "Thanks for doing what I asked. Now I have a total of $1 $0 from you."
  12: 0x2C20 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x2C21 [0x01] GOTO 0x2C42
  14: 0x2C24 [0x02] IF !(ExtData[1]->WorkLocal[4] == 241*) GOTO 0x2C33
- 15: 0x2C2C [0x1D] PRINT_EVENT_MESSAGE(message_id=13877*)
+ 15: 0x2C2C [0x1D] PRINT_EVENT_MESSAGE(message_id=13887*)
     → "Grrreat! Now I have $1 $0 from you. Thanks!"
  16: 0x2C2F [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x2C30 [0x01] GOTO 0x2C42
  18: 0x2C33 [0x02] IF !(ExtData[1]->WorkLocal[4] == 256*) GOTO 0x2C42
- 19: 0x2C3B [0x1D] PRINT_EVENT_MESSAGE(message_id=13882*)
+ 19: 0x2C3B [0x1D] PRINT_EVENT_MESSAGE(message_id=13892*)
     → "Thanks for doing your part in the battle for love and peace! With this latest addition, I'm now keeping track of $1 $0 for you."
  20: 0x2C3E [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x2C3F [0x01] GOTO 0x2C42

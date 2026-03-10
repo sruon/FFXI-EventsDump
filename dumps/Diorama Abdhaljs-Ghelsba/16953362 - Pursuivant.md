@@ -23,10 +23,10 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0004      |           4 |
-|       3 | 0x1F0A      |        7946 |
-|       4 | 0x1F0B      |        7947 |
+|       3 | 0x1F0B      |        7947 |
+|       4 | 0x1F0C      |        7948 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x1F0C      |        7948 |
+|       6 | 0x1F0D      |        7949 |
 |       7 | 0x007A      |         122 |
 |       8 | 0x00E6      |         230 |
 |       9 | 0xFFFE15B4  |  4294841780 |
@@ -49,17 +49,17 @@
 |      26 | 0x0064      |         100 |
 |      27 | 0x007F      |         127 |
 |      28 | 0x003C      |          60 |
-|      29 | 0x1F0D      |        7949 |
-|      30 | 0x1F0E      |        7950 |
+|      29 | 0x1F0E      |        7950 |
+|      30 | 0x1F0F      |        7951 |
 |      31 | 0x0104      |         260 |
 
 ## String References
 
-- **7946**: [ /Currently, match rules are being set/Currently, I am accepting match entries/Currently, we are in the briefing period for the next match/Currently, a match is in progress/The next match has been cancelled due to a lack of participants/Currently, a match has just ended]. The Herald can be found at [G-6/F-7/G-10/I-11].
-- **7947**: What can I do for you? [Teleport to the Herald./Teleport back to Jeuno./Nothing at this time.]
-- **7948**: Understood. I will have you there right away.
-- **7949**: Are you sure? [Yes./No.]
-- **7950**: Understood. Please hold on to your [wallet/purse].
+- **7947**: [ /Currently, match rules are being set/Currently, I am accepting match entries/Currently, we are in the briefing period for the next match/Currently, a match is in progress/The next match has been cancelled due to a lack of participants/Currently, a match has just ended]. The Herald can be found at [G-6/F-7/G-10/I-11].
+- **7948**: What can I do for you? [Teleport to the Herald./Teleport back to Jeuno./Nothing at this time.]
+- **7949**: Understood. I will have you there right away.
+- **7950**: Are you sure? [Yes./No.]
+- **7951**: Understood. Please hold on to your [wallet/purse].
 
 ## Events
 
@@ -138,14 +138,14 @@
  11: 0x0038 [0x06] Work_Zone[1] = 0
  12: 0x003B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
  13: 0x0040 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 14: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+ 14: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "[ /Currently, match rules are being set/Currently, I am accepting match entries/Currently, we are in the briefing period for the next match/Currently, a match is in progress/The next match has been cancelled due to a lack of participants/Currently, a match has just ended]. The Herald can be found at [G-6/F-7/G-10/I-11]."
  15: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0049 [0x24] CREATE_DIALOG(message_id=7947*, default_option=2*, option_flags=ExtData[1]->WorkLocal[3])
+ 16: 0x0049 [0x24] CREATE_DIALOG(message_id=7948*, default_option=2*, option_flags=ExtData[1]->WorkLocal[3])
     → "What can I do for you? [Teleport to the Herald./Teleport back to Jeuno./Nothing at this time.]"
  17: 0x0050 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0051 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FC
- 19: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
+ 19: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
     → "Understood. I will have you there right away."
  20: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x005D [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -181,11 +181,11 @@ SUBROUTINE_00E7:
  49: 0x00F3 [0x92] LocalPlayer->Render.Flags3 = Flags3  // No change (flag=0)
  50: 0x00F9 [0x01] GOTO 0x0147
  51: 0x00FC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0147
- 52: 0x0104 [0x24] CREATE_DIALOG(message_id=7949*, default_option=1*, option_flags=0*)
+ 52: 0x0104 [0x24] CREATE_DIALOG(message_id=7950*, default_option=1*, option_flags=0*)
     → "Are you sure? [Yes./No.]"
  53: 0x010B [0x25] WAIT_DIALOG_SELECT()
  54: 0x010C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0144
- 55: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+ 55: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
     → "Understood. Please hold on to your [wallet/purse]."
  56: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0118 [0x42] SET_CLI_EVENT_CANCEL_DATA()

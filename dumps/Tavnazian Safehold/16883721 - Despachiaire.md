@@ -66,9 +66,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2E2F      |       11823 |
+|       0 | 0x2E30      |       11824 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2E30      |       11824 |
+|       2 | 0x2E31      |       11825 |
 |       3 | 0x000A      |          10 |
 |       4 | 0x20579     |      132473 |
 |       5 | 0xB702      |       46850 |
@@ -129,15 +129,15 @@
 |      60 | 0x000D      |          13 |
 |      61 | 0x1AF8A     |      110474 |
 |      62 | 0xFFFEAC44  |  4294880324 |
-|      63 | 0x28D6      |       10454 |
-|      64 | 0x28D7      |       10455 |
-|      65 | 0x2B1F      |       11039 |
-|      66 | 0x2B20      |       11040 |
-|      67 | 0x2B25      |       11045 |
-|      68 | 0x2B26      |       11046 |
-|      69 | 0x2B27      |       11047 |
-|      70 | 0x2B28      |       11048 |
-|      71 | 0x2B29      |       11049 |
+|      63 | 0x28D7      |       10455 |
+|      64 | 0x28D8      |       10456 |
+|      65 | 0x2B20      |       11040 |
+|      66 | 0x2B21      |       11041 |
+|      67 | 0x2B26      |       11046 |
+|      68 | 0x2B27      |       11047 |
+|      69 | 0x2B28      |       11048 |
+|      70 | 0x2B29      |       11049 |
+|      71 | 0x2B2A      |       11050 |
 |      72 | 0x1AD9B     |      109979 |
 |      73 | 0xFFFEB97A  |  4294883706 |
 |      74 | 0x19E94     |      106132 |
@@ -167,17 +167,17 @@
 - **10274**: If you can find her, perhaps she may be able to better inform you of the secrets behind the painting.
 - **10275**: As you know, a young Mithran sin hunter visited the safehold a number of days ago.
 - **10276**: I cannot imagine for what reasons she visited us. However, if you can find her, she may be able to better inform you of the secrets behind the painting.
-- **10454**: Whatever could she have been searching for in Prishe's quarters?
-- **10455**: I do hope this matter will not bring misfortune upon our already beleaguered community...
-- **11039**: The nation of Jeuno has offered its hand to help lift up the ailing Tavnazia.
-- **11040**: None of this would have been possible were it not for the kindness of Sir Nag'molada.
-- **11045**: Is Ulmia... Is my granddaughter well?
-- **11046**: Please... I beg of you, do not let anything harm her.
-- **11047**: I have given up trying to hold Ulmia back.
-- **11048**: She has the right to see the world for what it is, and find the destiny that awaits her.
-- **11049**: I now realize that my duty as a grandfather is not to control her, but to watch over her as she walks her own path.
-- **11823**: Ah, <Player>. Another letter has arrived for you. Why they should be delivered to me is quite the mystery, however...
-- **11824**: Here it is. A love letter from a secret admirer, mayhap? Please forgive an old man's prying; my curiosity tends to get the better of me at times.
+- **10455**: Whatever could she have been searching for in Prishe's quarters?
+- **10456**: I do hope this matter will not bring misfortune upon our already beleaguered community...
+- **11040**: The nation of Jeuno has offered its hand to help lift up the ailing Tavnazia.
+- **11041**: None of this would have been possible were it not for the kindness of Sir Nag'molada.
+- **11046**: Is Ulmia... Is my granddaughter well?
+- **11047**: Please... I beg of you, do not let anything harm her.
+- **11048**: I have given up trying to hold Ulmia back.
+- **11049**: She has the right to see the world for what it is, and find the destiny that awaits her.
+- **11050**: I now realize that my duty as a grandfather is not to control her, but to watch over her as she walks her own path.
+- **11824**: Ah, <Player>. Another letter has arrived for you. Why they should be delivered to me is quite the mystery, however...
+- **11825**: Here it is. A love letter from a secret admirer, mayhap? Please forgive an old man's prying; my curiosity tends to get the better of me at times.
 
 ## Events
 
@@ -251,11 +251,11 @@
   1: 0x0003 [0x4A] Despachiaire (ID: 16883721/0x0101A009) looks at LocalPlayer
   2: 0x000C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Despachiaire (ID: 16883721/0x0101A009) Render.Flags0 and Render.Flags3 conditions are met
-  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=11823*)
+  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=11824*)
     → "Ah, <Player>. Another letter has arrived for you. Why they should be delivered to me is quite the mystery, however..."
   5: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0016 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=30*
-  7: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=11824*)
+  7: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=11825*)
     → "Here it is. A love letter from a secret admirer, mayhap? Please forgive an old man's prying; my curiosity tends to get the better of me at times."
   8: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0029 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -1132,10 +1132,10 @@
   0: 0x026E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0273 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0274 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=10454*)
+  3: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=10455*)
     → "Whatever could she have been searching for in Prishe's quarters?"
   4: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0279 [0x1D] PRINT_EVENT_MESSAGE(message_id=10455*)
+  5: 0x0279 [0x1D] PRINT_EVENT_MESSAGE(message_id=10456*)
     → "I do hope this matter will not bring misfortune upon our already beleaguered community..."
   6: 0x027C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x027D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1192,11 +1192,11 @@
 
 ```
   0: 0x028C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=11039*)
+  1: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=11040*)
     → "The nation of Jeuno has offered its hand to help lift up the ailing Tavnazia."
   2: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0295 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11040*)
+  4: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11041*)
     → "None of this would have been possible were it not for the kindness of Sir Nag'molada."
   5: 0x02A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02A8 [0x21] END_EVENT
@@ -1225,11 +1225,11 @@
 
 ```
   0: 0x02AA [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=11045*)
+  1: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=11046*)
     → "Is Ulmia... Is my granddaughter well?"
   2: 0x02B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02B3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11046*)
+  4: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11047*)
     → "Please... I beg of you, do not let anything harm her."
   5: 0x02C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02C6 [0x21] END_EVENT
@@ -1259,15 +1259,15 @@
 
 ```
   0: 0x02C8 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=11047*)
+  1: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=11048*)
     → "I have given up trying to hold Ulmia back."
   2: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02D1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Despachiaire (ID: 16883721/0x0101A009), Despachiaire (ID: 16883721/0x0101A009)], work=497*
-  4: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11048*)
+  4: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11049*)
     → "She has the right to see the world for what it is, and find the destiny that awaits her."
   5: 0x02E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02E4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Despachiaire (ID: 16883721/0x0101A009), Despachiaire (ID: 16883721/0x0101A009)], work=497*
-  7: 0x02F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11049*)
+  7: 0x02F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11050*)
     → "I now realize that my duty as a grandfather is not to control her, but to watch over her as she walks her own path."
   8: 0x02F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x02F7 [0x21] END_EVENT

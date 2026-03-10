@@ -115,27 +115,27 @@
 |      13 | 0x0E0F      |        3599 |
 |      14 | 0x0F62      |        3938 |
 |      15 | 0x0F63      |        3939 |
-|      16 | 0x3275      |       12917 |
-|      17 | 0x3277      |       12919 |
-|      18 | 0x327B      |       12923 |
-|      19 | 0x3285      |       12933 |
-|      20 | 0x3286      |       12934 |
-|      21 | 0x3291      |       12945 |
-|      22 | 0x3292      |       12946 |
-|      23 | 0x3293      |       12947 |
-|      24 | 0x3294      |       12948 |
+|      16 | 0x3276      |       12918 |
+|      17 | 0x3278      |       12920 |
+|      18 | 0x327C      |       12924 |
+|      19 | 0x3286      |       12934 |
+|      20 | 0x3287      |       12935 |
+|      21 | 0x3292      |       12946 |
+|      22 | 0x3293      |       12947 |
+|      23 | 0x3294      |       12948 |
+|      24 | 0x3295      |       12949 |
 |      25 | 0x00C8      |         200 |
 |      26 | 0x0000      |           0 |
 |      27 | 0x0003      |           3 |
 |      28 | 0x000F      |          15 |
 |      29 | 0x00A3      |         163 |
 |      30 | 0x001E      |          30 |
-|      31 | 0x32CC      |       13004 |
-|      32 | 0x32CD      |       13005 |
-|      33 | 0x32CE      |       13006 |
-|      34 | 0x32CF      |       13007 |
-|      35 | 0x32D0      |       13008 |
-|      36 | 0x32D1      |       13009 |
+|      31 | 0x32CD      |       13005 |
+|      32 | 0x32CE      |       13006 |
+|      33 | 0x32CF      |       13007 |
+|      34 | 0x32D0      |       13008 |
+|      35 | 0x32D1      |       13009 |
+|      36 | 0x32D2      |       13010 |
 |      37 | 0x0097      |         151 |
 
 ## String References
@@ -143,15 +143,15 @@
 - **3599**: Gah-hahahah! This, me hearty, be the Fishermen's Guild, where sons of the sea gather! If any of ye landlubber-wubbers have a bone to pick with us, then go ahead, make me day!
 - **3938**: Gah-hahahah! You be after burnite shell, eh, me matey? Well, aren't you a fool-hearty one to be chasing a thing like that?
 - **3939**: Ye see, matey, them burnite shells have long been extinct. They haven't been around since, well, before fair Windurst was even settled!
-- **12917**: In Bibiki Bay there be a place known as Purgonorgo Isle. On this island lives a mighty strange character that won't listen to a word we has to say.
-- **12919**: We've tried talking it out all civil-like, but things have gotten out o' hand. We've even been settin' monsters on each other in place of talking... Who knows what we'll be facing next!
-- **12923**: The next "debate" is set to take place in the middle o' Purgonorgo Isle. Don't ye be losing now, matey!
-- **12933**: Get yerself to Attohwa Chasm an' find that Mithran Tracker. She should be able to tell us if it's the real deal.
-- **12934**: That paper smells kinda fishy. I'm telling ye, it's a fake!
-- **12945**: Arrgh! If Windurst wasn't in cahoots with the Mithran pirates, we'd be able to get on with our battle!
-- **12946**: I had me next strategy all worked out fer kickin that warmachine right off the island!
-- **12947**: ...Now, just a second there, matey. Who was inside that warmachine, anyhow?
-- **12948**: Arrgh! A name shoulda been written right there on the deed! I just can't remember...!
+- **12918**: In Bibiki Bay there be a place known as Purgonorgo Isle. On this island lives a mighty strange character that won't listen to a word we has to say.
+- **12920**: We've tried talking it out all civil-like, but things have gotten out o' hand. We've even been settin' monsters on each other in place of talking... Who knows what we'll be facing next!
+- **12924**: The next "debate" is set to take place in the middle o' Purgonorgo Isle. Don't ye be losing now, matey!
+- **12934**: Get yerself to Attohwa Chasm an' find that Mithran Tracker. She should be able to tell us if it's the real deal.
+- **12935**: That paper smells kinda fishy. I'm telling ye, it's a fake!
+- **12946**: Arrgh! If Windurst wasn't in cahoots with the Mithran pirates, we'd be able to get on with our battle!
+- **12947**: I had me next strategy all worked out fer kickin that warmachine right off the island!
+- **12948**: ...Now, just a second there, matey. Who was inside that warmachine, anyhow?
+- **12949**: Arrgh! A name shoulda been written right there on the deed! I just can't remember...!
 
 ## Events
 
@@ -2003,17 +2003,17 @@
   1: 0x04D3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04D4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x1D)
-  4: 0x04DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12917*)
+  4: 0x04DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12918*)
     → "In Bibiki Bay there be a place known as Purgonorgo Isle. On this island lives a mighty strange character that won't listen to a word we has to say."
   5: 0x04DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x1E)
   7: 0x04E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x2C)
-  8: 0x04EE [0x1D] PRINT_EVENT_MESSAGE(message_id=12919*)
+  8: 0x04EE [0x1D] PRINT_EVENT_MESSAGE(message_id=12920*)
     → "We've tried talking it out all civil-like, but things have gotten out o' hand. We've even been settin' monsters on each other in place of talking... Who knows what we'll be facing next!"
   9: 0x04F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x2D)
  11: 0x04F9 [0x27] REQ_SET(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x34)
- 12: 0x0500 [0x1D] PRINT_EVENT_MESSAGE(message_id=12923*)
+ 12: 0x0500 [0x1D] PRINT_EVENT_MESSAGE(message_id=12924*)
     → "The next "debate" is set to take place in the middle o' Purgonorgo Isle. Don't ye be losing now, matey!"
  13: 0x0503 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0504 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035))
@@ -2070,12 +2070,12 @@
   1: 0x0514 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0515 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0516 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x01)
-  4: 0x051D [0x1D] PRINT_EVENT_MESSAGE(message_id=12933*)
+  4: 0x051D [0x1D] PRINT_EVENT_MESSAGE(message_id=12934*)
     → "Get yerself to Attohwa Chasm an' find that Mithran Tracker. She should be able to tell us if it's the real deal."
   5: 0x0520 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0521 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x02)
   7: 0x0528 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x09)
-  8: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=12934*)
+  8: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=12935*)
     → "That paper smells kinda fishy. I'm telling ye, it's a fake!"
   9: 0x0532 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0533 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x0A)
@@ -2135,24 +2135,24 @@
   1: 0x0544 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0545 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0546 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x17)
-  4: 0x054D [0x1D] PRINT_EVENT_MESSAGE(message_id=12945*)
+  4: 0x054D [0x1D] PRINT_EVENT_MESSAGE(message_id=12946*)
     → "Arrgh! If Windurst wasn't in cahoots with the Mithran pirates, we'd be able to get on with our battle!"
   5: 0x0550 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0551 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x18)
   7: 0x0558 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x19)
-  8: 0x055F [0x1D] PRINT_EVENT_MESSAGE(message_id=12946*)
+  8: 0x055F [0x1D] PRINT_EVENT_MESSAGE(message_id=12947*)
     → "I had me next strategy all worked out fer kickin that warmachine right off the island!"
   9: 0x0562 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0563 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x1A)
  11: 0x056A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x03)
- 12: 0x0571 [0x1D] PRINT_EVENT_MESSAGE(message_id=12947*)
+ 12: 0x0571 [0x1D] PRINT_EVENT_MESSAGE(message_id=12948*)
     → "...Now, just a second there, matey. Who was inside that warmachine, anyhow?"
  13: 0x0574 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0575 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x04)
  15: 0x057C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x05)
  16: 0x0583 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x06)
  17: 0x058A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x2C)
- 18: 0x0591 [0x1D] PRINT_EVENT_MESSAGE(message_id=12948*)
+ 18: 0x0591 [0x1D] PRINT_EVENT_MESSAGE(message_id=12949*)
     → "Arrgh! A name shoulda been written right there on the deed! I just can't remember...!"
  19: 0x0594 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0595 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x2D)
@@ -2224,26 +2224,26 @@
  17: 0x0623 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  18: 0x0624 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  19: 0x0625 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x17)
- 20: 0x062C [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13004*]:
+ 20: 0x062C [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13005*]:
     → "A little while back, the Fishermen's Guild's ship party was crashed by a trio of wandering comedians."
  21: 0x0633 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0634 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13005*]:
+ 22: 0x0634 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13006*]:
     → "But they were so boring, me mates preferred to pitch themselves over the side than listen to another joyless joke!"
  23: 0x063B [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x063C [0x52] END_LOAD_SCHEDULER: End scheduler "ta00" with entities [LocalPlayer, LocalPlayer], work=30*
  25: 0x064B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ta01" with entities [LocalPlayer, LocalPlayer], work=[30*, 0*]
- 26: 0x065C [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13006*]:
+ 26: 0x065C [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13007*]:
     → "We figured we'd be doin' Vana'diel a favor if we just marooned those jesters on an island."
  27: 0x0663 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0664 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x19)
  29: 0x066B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x1A)
  30: 0x0672 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x01)
  31: 0x0679 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x068C
- 32: 0x0681 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13007*]:
+ 32: 0x0681 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13008*]:
     → "This was no deserted island, ye understand. This was Purgonorgo Island in Bibiki Bay. There's a mighty strange character living there who don't take orders from no one."
  33: 0x0688 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0689 [0x01] GOTO 0x0694
- 35: 0x068C [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13008*]:
+ 35: 0x068C [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13009*]:
     → "This was no deserted island, ye understand. This was Purgonorgo Island in Bibiki Bay. Those humorless hucksters can earn a livin' entertainin' the sole inhabitant."
  36: 0x0693 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2252,7 +2252,7 @@ SUBROUTINE_0694:
  38: 0x06A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ta02" with entities [LocalPlayer, LocalPlayer], work=[30*, 0*]
  39: 0x06B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x02)
  40: 0x06BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x15)
- 41: 0x06C2 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13009*]:
+ 41: 0x06C2 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13010*]:
     → "That stubborn seadog should be sufferin' their puerile puns as we speak! Gwahahahaha!"
  42: 0x06C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x06CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x16)
@@ -2302,31 +2302,31 @@ SUBROUTINE_0694:
   3: 0x072E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x072F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0730 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x17)
-  6: 0x0737 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13004*]:
+  6: 0x0737 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13005*]:
     → "A little while back, the Fishermen's Guild's ship party was crashed by a trio of wandering comedians."
   7: 0x073E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x073F [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13005*]:
+  8: 0x073F [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13006*]:
     → "But they were so boring, me mates preferred to pitch themselves over the side than listen to another joyless joke!"
   9: 0x0746 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0747 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13006*]:
+ 10: 0x0747 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13007*]:
     → "We figured we'd be doin' Vana'diel a favor if we just marooned those jesters on an island."
  11: 0x074E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x074F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x19)
  13: 0x0756 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x1A)
  14: 0x075D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x01)
  15: 0x0764 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0777
- 16: 0x076C [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13007*]:
+ 16: 0x076C [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13008*]:
     → "This was no deserted island, ye understand. This was Purgonorgo Island in Bibiki Bay. There's a mighty strange character living there who don't take orders from no one."
  17: 0x0773 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0774 [0x01] GOTO 0x077F
- 19: 0x0777 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13008*]:
+ 19: 0x0777 [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13009*]:
     → "This was no deserted island, ye understand. This was Purgonorgo Island in Bibiki Bay. Those humorless hucksters can earn a livin' entertainin' the sole inhabitant."
  20: 0x077E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_077F:
  21: 0x077F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x02)
  22: 0x0786 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x15)
- 23: 0x078D [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13009*]:
+ 23: 0x078D [0x2B] Chipmy-Popmy (ID: 17760309/0x010F0035) [13010*]:
     → "That stubborn seadog should be sufferin' their puerile puns as we speak! Gwahahahaha!"
  24: 0x0794 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0795 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chipmy-Popmy (ID: 17760309/0x010F0035), tag_num=0x16)

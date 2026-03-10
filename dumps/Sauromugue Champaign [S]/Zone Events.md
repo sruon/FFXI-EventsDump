@@ -124,7 +124,7 @@
 |       4 | 0x005A      |          90 |
 |       5 | 0x003C      |          60 |
 |       6 | 0x00C9      |         201 |
-|       7 | 0x2037      |        8247 |
+|       7 | 0x2038      |        8248 |
 |       8 | 0x00EA      |         234 |
 |       9 | 0x5A461     |      369761 |
 |      10 | 0xFFFC8C39  |  4294741049 |
@@ -310,9 +310,9 @@
 |     190 | 0x5A6B7     |      370359 |
 |     191 | 0xFFFC8D30  |  4294741296 |
 |     192 | 0x2363      |        9059 |
-|     193 | 0x1F8C      |        8076 |
-|     194 | 0x1F8B      |        8075 |
-|     195 | 0x1F8A      |        8074 |
+|     193 | 0x1F8D      |        8077 |
+|     194 | 0x1F8C      |        8076 |
+|     195 | 0x1F8B      |        8075 |
 |     196 | 0x0013      |          19 |
 |     197 | 0x119C5     |       72133 |
 |     198 | 0xFFFFFFFC  |  4294967292 |
@@ -341,7 +341,7 @@
 ## String References
 
 - **7624**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
-- **8247**: The sandworm swallows you whole!
+- **8248**: The sandworm swallows you whole!
 
 ## Events
 
@@ -454,7 +454,7 @@
 
 ```
   0: 0x0068 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0069 [0x48] [System] [8247*]:
+  1: 0x0069 [0x48] [System] [8248*]:
     → "The sandworm swallows you whole!"
   2: 0x006C [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
   3: 0x007D [0x1C] WAIT(60* ticks)
@@ -2964,12 +2964,12 @@ SUBROUTINE_0A71:
   3: 0x0B64 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[4]
   4: 0x0B69 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
   5: 0x0B6E [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0B81
-  6: 0x0B76 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
+  6: 0x0B76 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8077*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
   7: 0x0B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0B7E [0x01] GOTO 0x0C87
   9: 0x0B81 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0B94
- 10: 0x0B89 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
+ 10: 0x0B89 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8077*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
  11: 0x0B90 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0B91 [0x01] GOTO 0x0C87
@@ -2977,22 +2977,22 @@ SUBROUTINE_0A71:
  14: 0x0B9C [0x03] Work_Zone[2] = 0*
  15: 0x0BA1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x0BC7
  16: 0x0BA9 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0BBC
- 17: 0x0BB1 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
+ 17: 0x0BB1 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
     → "You say you are a representative of the [Kingdom of San d'Oria/Republic of Bastok/Federation of Windurst]...? Perhaps it is time I put my training to the test..."
  18: 0x0BB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0BB9 [0x01] GOTO 0x0BC4
- 20: 0x0BBC [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
+ 20: 0x0BBC [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  21: 0x0BC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0BC4:
  22: 0x0BC4 [0x01] GOTO 0x0BE2
  23: 0x0BC7 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0BDA
- 24: 0x0BCF [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
+ 24: 0x0BCF [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  25: 0x0BD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0BD7 [0x01] GOTO 0x0BE2
- 27: 0x0BDA [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
+ 27: 0x0BDA [0x2B] Dalzakk (ID: 17179272/0x01062288) [8077*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
  28: 0x0BE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3002,22 +3002,22 @@ SUBROUTINE_0BE2:
  31: 0x0BED [0x03] Work_Zone[2] = 1*
  32: 0x0BF2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x0C18
  33: 0x0BFA [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0C0D
- 34: 0x0C02 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
+ 34: 0x0C02 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
     → "You say you are a representative of the [Kingdom of San d'Oria/Republic of Bastok/Federation of Windurst]...? Perhaps it is time I put my training to the test..."
  35: 0x0C09 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0C0A [0x01] GOTO 0x0C15
- 37: 0x0C0D [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
+ 37: 0x0C0D [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  38: 0x0C14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0C15:
  39: 0x0C15 [0x01] GOTO 0x0C33
  40: 0x0C18 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0C2B
- 41: 0x0C20 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
+ 41: 0x0C20 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  42: 0x0C27 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0C28 [0x01] GOTO 0x0C33
- 44: 0x0C2B [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
+ 44: 0x0C2B [0x2B] Dalzakk (ID: 17179272/0x01062288) [8077*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
  45: 0x0C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3027,22 +3027,22 @@ SUBROUTINE_0C33:
  48: 0x0C3E [0x03] Work_Zone[2] = 2*
  49: 0x0C43 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x0C69
  50: 0x0C4B [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0C5E
- 51: 0x0C53 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
+ 51: 0x0C53 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
     → "You say you are a representative of the [Kingdom of San d'Oria/Republic of Bastok/Federation of Windurst]...? Perhaps it is time I put my training to the test..."
  52: 0x0C5A [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0C5B [0x01] GOTO 0x0C66
- 54: 0x0C5E [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
+ 54: 0x0C5E [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  55: 0x0C65 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0C66:
  56: 0x0C66 [0x01] GOTO 0x0C84
  57: 0x0C69 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0C7C
- 58: 0x0C71 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
+ 58: 0x0C71 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  59: 0x0C78 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0C79 [0x01] GOTO 0x0C84
- 61: 0x0C7C [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
+ 61: 0x0C7C [0x2B] Dalzakk (ID: 17179272/0x01062288) [8077*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
  62: 0x0C83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

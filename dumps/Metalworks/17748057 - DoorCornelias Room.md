@@ -67,25 +67,25 @@
 |      39 | 0x1F37      |        7991 |
 |      40 | 0x0078      |         120 |
 |      41 | 0x00B4      |         180 |
-|      42 | 0x22AC      |        8876 |
-|      43 | 0x22AD      |        8877 |
-|      44 | 0x22AE      |        8878 |
-|      45 | 0x22AF      |        8879 |
-|      46 | 0x22B0      |        8880 |
+|      42 | 0x22AD      |        8877 |
+|      43 | 0x22AE      |        8878 |
+|      44 | 0x22AF      |        8879 |
+|      45 | 0x22B0      |        8880 |
+|      46 | 0x22B1      |        8881 |
 |      47 | 0x00EE      |         238 |
-|      48 | 0x22B1      |        8881 |
-|      49 | 0x22B2      |        8882 |
-|      50 | 0x22B3      |        8883 |
-|      51 | 0x22B4      |        8884 |
-|      52 | 0x22B5      |        8885 |
-|      53 | 0x22B6      |        8886 |
-|      54 | 0x22B7      |        8887 |
-|      55 | 0x22B8      |        8888 |
-|      56 | 0x22B9      |        8889 |
-|      57 | 0x22BA      |        8890 |
-|      58 | 0x22BB      |        8891 |
-|      59 | 0x22BC      |        8892 |
-|      60 | 0x22BD      |        8893 |
+|      48 | 0x22B2      |        8882 |
+|      49 | 0x22B3      |        8883 |
+|      50 | 0x22B4      |        8884 |
+|      51 | 0x22B5      |        8885 |
+|      52 | 0x22B6      |        8886 |
+|      53 | 0x22B7      |        8887 |
+|      54 | 0x22B8      |        8888 |
+|      55 | 0x22B9      |        8889 |
+|      56 | 0x22BA      |        8890 |
+|      57 | 0x22BB      |        8891 |
+|      58 | 0x22BC      |        8892 |
+|      59 | 0x22BD      |        8893 |
+|      60 | 0x22BE      |        8894 |
 
 ## String References
 
@@ -573,12 +573,12 @@ SUBROUTINE_030A:
  15: 0x04F3 [0x1C] WAIT(10* ticks)
  16: 0x04F6 [0x4A] Franziska (ID: 17748004/0x010ED024) looks at Cornelia (ID: 17748018/0x010ED032)
  17: 0x04FF [0x4A] LocalPlayer looks at Cornelia (ID: 17748018/0x010ED032)
- 18: 0x0508 [0x2B] Franziska (ID: 17748004/0x010ED024) [8876*]:
+ 18: 0x0508 [0x2B] Franziska (ID: 17748004/0x010ED024) [8877*]:
     → "Milady! I will not allow you to sneak out of your chambers again, and I will definitely not allow any adventurers in here."
  19: 0x050F [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0510 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Cornelia (ID: 17748018/0x010ED032))
  21: 0x0516 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc0" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=147*
- 22: 0x0525 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8877*]:
+ 22: 0x0525 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8878*]:
     → "Oh, <Player>. My father sent you, right?"
  23: 0x052C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x052D [0x6B] STOP_AND_IDLE: Cornelia (ID: 17748018/0x010ED032) stops current action and resets to idle (animation="idl0")
@@ -587,7 +587,7 @@ SUBROUTINE_030A:
  27: 0x0540 [0x1C] WAIT(10* ticks)
  28: 0x0543 [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x1C)
  29: 0x054A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Franziska (ID: 17748004/0x010ED024), Franziska (ID: 17748004/0x010ED024)], work=0*
- 30: 0x0559 [0x2B] Franziska (ID: 17748004/0x010ED024) [8878*]:
+ 30: 0x0559 [0x2B] Franziska (ID: 17748004/0x010ED024) [8879*]:
     → "The president! I...I apologize. Please proceed..."
  31: 0x0560 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0561 [0x2A] GET_REQ_LEVEL(level=10, entity_id=LocalPlayer)
@@ -600,12 +600,12 @@ SUBROUTINE_030A:
  39: 0x058F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=[137*, 0*]
  40: 0x05A0 [0x27] REQ_SET(priority=0x0A, entity_id=Cornelia (ID: 17748018/0x010ED032), tag_num=0x10)
  41: 0x05A7 [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x1D)
- 42: 0x05AE [0x2B] Franziska (ID: 17748004/0x010ED024) [8879*]:
+ 42: 0x05AE [0x2B] Franziska (ID: 17748004/0x010ED024) [8880*]:
     → "Wait... Milady! I have not heard of any meetings with any adventurers! You have tricked me! Milady!"
  43: 0x05B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x05B6 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Cornelia (ID: 17748018/0x010ED032))
  45: 0x05BC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=146*
- 46: 0x05CB [0x2B] Cornelia (ID: 17748018/0x010ED032) [8880*]:
+ 46: 0x05CB [0x2B] Cornelia (ID: 17748018/0x010ED032) [8881*]:
     → "Franziska means well, but she's got to loosen up, don't you think?"
  47: 0x05D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x05D3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=146*
@@ -614,58 +614,58 @@ SUBROUTINE_030A:
  51: 0x05EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  52: 0x05FF [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=137*
  53: 0x060E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=[238*, 0*]
- 54: 0x061F [0x2B] Cornelia (ID: 17748018/0x010ED032) [8881*]:
+ 54: 0x061F [0x2B] Cornelia (ID: 17748018/0x010ED032) [8882*]:
     → "Anyway, you'll never guess who was here just a couple of days ago."
  55: 0x0626 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0627 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=145*
- 57: 0x0636 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8882*]:
+ 57: 0x0636 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8883*]:
     → "I can't believe that my father would even let him near this place..."
  58: 0x063D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x063E [0x2B] Cornelia (ID: 17748018/0x010ED032) [8883*]:
+ 59: 0x063E [0x2B] Cornelia (ID: 17748018/0x010ED032) [8884*]:
     → "Gumbah. Gumbah came here, to my room. He didn't say anything for the first few minutes, but when he opened his mouth, the first words out were "thank you.""
  60: 0x0645 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0646 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=145*
- 62: 0x0655 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8884*]:
+ 62: 0x0655 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8885*]:
     → ""Thank you." What did he mean? I haven't done anything worth thanking. I've only caused him pain and trouble."
  63: 0x065C [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x065D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  65: 0x066E [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=238*
  66: 0x067D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [LocalPlayer, LocalPlayer], work=[238*, 0*]
  67: 0x068E [0x7B] Cornelia (ID: 17748018/0x010ED032) stops talking
- 68: 0x0693 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8885*]:
+ 68: 0x0693 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8886*]:
     → "For someone who has lived more than two hundred years, he's not that good with telling people how he feels. But, you know, I'm kind of happy that he told me what he did..."
  69: 0x069A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x069B [0x2B] Cornelia (ID: 17748018/0x010ED032) [8886*]:
+ 70: 0x069B [0x2B] Cornelia (ID: 17748018/0x010ED032) [8887*]:
     → "I've only been on Vana'diel for a tenth of time he has, so I can't really talk about being good at expressing feelings..."
  71: 0x06A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x06A3 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8887*]:
+ 72: 0x06A3 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8888*]:
     → "Anyway, once the ice was broken, we started talking about all sorts of stuff."
  73: 0x06AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x06AB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=145*
- 75: 0x06BA [0x2B] Cornelia (ID: 17748018/0x010ED032) [8888*]:
+ 75: 0x06BA [0x2B] Cornelia (ID: 17748018/0x010ED032) [8889*]:
     → "For some reason, he seemed really interested in one of Lucius' new programs. I wonder what that was all about?"
  76: 0x06C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x06C2 [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [LocalPlayer, LocalPlayer], work=238*
  78: 0x06D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=[238*, 0*]
- 79: 0x06E2 [0x2B] Franziska (ID: 17748004/0x010ED024) [8889*]:
+ 79: 0x06E2 [0x2B] Franziska (ID: 17748004/0x010ED024) [8890*]:
     → "Milady! It is time for your studies!"
  80: 0x06E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x06EA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=145*
- 82: 0x06F9 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8890*]:
+ 82: 0x06F9 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8891*]:
     → "Yes, Franziska! I know!"
  83: 0x0700 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0701 [0x52] END_LOAD_SCHEDULER: End scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=238*
  85: 0x0710 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=[238*, 0*]
  86: 0x0721 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=145*
- 87: 0x0730 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8891*]:
+ 87: 0x0730 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8892*]:
     → "You know, I think I'm going to start putting a little more effort into my studies. I think I finally know what I want to be when I get older."
  88: 0x0737 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0738 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=145*
- 90: 0x0747 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8892*]:
+ 90: 0x0747 [0x2B] Cornelia (ID: 17748018/0x010ED032) [8893*]:
     → "What do I want to be? I can't tell you yet. That's still a secret."
  91: 0x074E [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x074F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wav0" with entities [Cornelia (ID: 17748018/0x010ED032), Cornelia (ID: 17748018/0x010ED032)], work=145*
- 93: 0x075E [0x2B] Cornelia (ID: 17748018/0x010ED032) [8893*]:
+ 93: 0x075E [0x2B] Cornelia (ID: 17748018/0x010ED032) [8894*]:
     → "Well, you should probably go before Franziska has Iron Eater drag you out. Thanks for coming and listening to me."
  94: 0x0765 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0766 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

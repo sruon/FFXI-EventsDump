@@ -88,69 +88,69 @@
 |      19 | 0x1BC65     |      113765 |
 |      20 | 0xFFFF3F20  |  4294917920 |
 |      21 | 0x093E      |        2366 |
-|      22 | 0x1E4B      |        7755 |
-|      23 | 0x1E4C      |        7756 |
-|      24 | 0x1E4F      |        7759 |
-|      25 | 0x1E51      |        7761 |
-|      26 | 0x1E53      |        7763 |
-|      27 | 0x1E54      |        7764 |
-|      28 | 0x1E56      |        7766 |
-|      29 | 0x1E57      |        7767 |
-|      30 | 0x1E58      |        7768 |
-|      31 | 0x1E59      |        7769 |
-|      32 | 0x1E5A      |        7770 |
-|      33 | 0x1E5B      |        7771 |
-|      34 | 0x1E5C      |        7772 |
-|      35 | 0x1E5D      |        7773 |
-|      36 | 0x1E5F      |        7775 |
-|      37 | 0x1E60      |        7776 |
-|      38 | 0x1E62      |        7778 |
-|      39 | 0x1E63      |        7779 |
-|      40 | 0x1E65      |        7781 |
-|      41 | 0x1E66      |        7782 |
-|      42 | 0x1E68      |        7784 |
-|      43 | 0x1E69      |        7785 |
-|      44 | 0x1E6A      |        7786 |
-|      45 | 0x1E6C      |        7788 |
-|      46 | 0x1E6D      |        7789 |
-|      47 | 0x1E6E      |        7790 |
-|      48 | 0x1E70      |        7792 |
-|      49 | 0x1E71      |        7793 |
-|      50 | 0x1E72      |        7794 |
-|      51 | 0x1E73      |        7795 |
+|      22 | 0x1E4C      |        7756 |
+|      23 | 0x1E4D      |        7757 |
+|      24 | 0x1E50      |        7760 |
+|      25 | 0x1E52      |        7762 |
+|      26 | 0x1E54      |        7764 |
+|      27 | 0x1E55      |        7765 |
+|      28 | 0x1E57      |        7767 |
+|      29 | 0x1E58      |        7768 |
+|      30 | 0x1E59      |        7769 |
+|      31 | 0x1E5A      |        7770 |
+|      32 | 0x1E5B      |        7771 |
+|      33 | 0x1E5C      |        7772 |
+|      34 | 0x1E5D      |        7773 |
+|      35 | 0x1E5E      |        7774 |
+|      36 | 0x1E60      |        7776 |
+|      37 | 0x1E61      |        7777 |
+|      38 | 0x1E63      |        7779 |
+|      39 | 0x1E64      |        7780 |
+|      40 | 0x1E66      |        7782 |
+|      41 | 0x1E67      |        7783 |
+|      42 | 0x1E69      |        7785 |
+|      43 | 0x1E6A      |        7786 |
+|      44 | 0x1E6B      |        7787 |
+|      45 | 0x1E6D      |        7789 |
+|      46 | 0x1E6E      |        7790 |
+|      47 | 0x1E6F      |        7791 |
+|      48 | 0x1E71      |        7793 |
+|      49 | 0x1E72      |        7794 |
+|      50 | 0x1E73      |        7795 |
+|      51 | 0x1E74      |        7796 |
 
 ## String References
 
-- **7755**: ...This arrow, an azurrre arrow...
-- **7756**: You were sent by Perih Vashai?
-- **7759**: ...... Semih Lafihna...
-- **7761**: Yes. I am the daughter of Nhev Befrathi, the Fire Tribe chieftainness. I am Syu Befrathi.
-- **7763**: Perih Vashai arranged it so that I could escape. She said that if I could make it as far as this place, the Mithran Tracker would not be able to follow.
-- **7764**: Come inside. It is not safe to talk here...
-- **7766**: The Bow of Light is famous for its powerrr, but was not originally the weapon carried by the chieftainness of our tribe.
-- **7767**: It was something that Yow Rabntah found in this forsaken land and brought back to the tribe thirty years ago. ...No, what she actually brought back was the large gem that was to be embedded in the bow's shaft.
-- **7768**: Yow Rabntah used the stone to create the Bow of Light, a weapon even more powerrrful than the chieftainness's Bow of Flames.
-- **7769**: The bow did not bring light as was intended. It was a bow that stole the light from my people...
-- **7770**: My mother, the chieftainness, insisted the bow be taken back to where it belonged. It carried with it the taint of this accursed place, and would surely have brought rrruin upon the tribe.
-- **7771**: The tribespeople, however, were already divided over whether to keep the bow.
-- **7772**: And then something terrible happened. A fiendish creature appeared before Yow Rabntah, almost as if the gem had called to it.
-- **7773**: She was slain by the fiend...and my mother was disgraced by her inability to averrrt the tragedy.
-- **7775**: Yes, you're rrright. It wasn't until ten years after my mother was imprisoned that we discovered the fiend was actually the Shadow Lord.
-- **7776**: When she learned of this, my mother escaped from her prison and headed for the Northlands. As the Chieftainness of the Fire Tribe, she sought to exact rrrevenge for her people.
-- **7778**: ...Yes. But I will carry out her rrrevenge.
-- **7779**: I have returned with the gem, the "magicite" taken by Yow Rabntah, to purify this accursed land.
-- **7781**: ...This is true. But you are Mithra; you should understand. We are one with nature, and cannot ignore her call for help.
-- **7782**: I have rrresolved to spend my remaining days in this land, a land abandoned by the Mithra hundreds of years ago.
-- **7784**: Do not concern yourself with my safety. I have survived here for twenty years...
-- **7785**: I have been more worried about you. When Perih Vashai brought sin upon herself by letting me escape, you would also be held accountable...
-- **7786**: It seems the Mithran Tracker didn't explain that part to you.
-- **7788**: Please take this. It is the Bow of Light with the magicite rrremoved. If you give this to the Tracker, everything should be rrresolved.
-- **7789**: Take this $1 also. It is the one given to me by Perih Vashai to disguise my identity.
-- **7790**: All will become clear when you unite it with the $1 that you carry.
-- **7792**: My mother and I...we owe you and your mother our eternal gratitude. Goodbye, Semih Lafihna.
-- **7793**: Was there something else?
-- **7794**: A letter from Koh Lenbalalako!? There's a name I haven't heard in yearrrs...
-- **7795**: Thank you, adventurer. I wish for you to have these.
+- **7756**: ...This arrow, an azurrre arrow...
+- **7757**: You were sent by Perih Vashai?
+- **7760**: ...... Semih Lafihna...
+- **7762**: Yes. I am the daughter of Nhev Befrathi, the Fire Tribe chieftainness. I am Syu Befrathi.
+- **7764**: Perih Vashai arranged it so that I could escape. She said that if I could make it as far as this place, the Mithran Tracker would not be able to follow.
+- **7765**: Come inside. It is not safe to talk here...
+- **7767**: The Bow of Light is famous for its powerrr, but was not originally the weapon carried by the chieftainness of our tribe.
+- **7768**: It was something that Yow Rabntah found in this forsaken land and brought back to the tribe thirty years ago. ...No, what she actually brought back was the large gem that was to be embedded in the bow's shaft.
+- **7769**: Yow Rabntah used the stone to create the Bow of Light, a weapon even more powerrrful than the chieftainness's Bow of Flames.
+- **7770**: The bow did not bring light as was intended. It was a bow that stole the light from my people...
+- **7771**: My mother, the chieftainness, insisted the bow be taken back to where it belonged. It carried with it the taint of this accursed place, and would surely have brought rrruin upon the tribe.
+- **7772**: The tribespeople, however, were already divided over whether to keep the bow.
+- **7773**: And then something terrible happened. A fiendish creature appeared before Yow Rabntah, almost as if the gem had called to it.
+- **7774**: She was slain by the fiend...and my mother was disgraced by her inability to averrrt the tragedy.
+- **7776**: Yes, you're rrright. It wasn't until ten years after my mother was imprisoned that we discovered the fiend was actually the Shadow Lord.
+- **7777**: When she learned of this, my mother escaped from her prison and headed for the Northlands. As the Chieftainness of the Fire Tribe, she sought to exact rrrevenge for her people.
+- **7779**: ...Yes. But I will carry out her rrrevenge.
+- **7780**: I have returned with the gem, the "magicite" taken by Yow Rabntah, to purify this accursed land.
+- **7782**: ...This is true. But you are Mithra; you should understand. We are one with nature, and cannot ignore her call for help.
+- **7783**: I have rrresolved to spend my remaining days in this land, a land abandoned by the Mithra hundreds of years ago.
+- **7785**: Do not concern yourself with my safety. I have survived here for twenty years...
+- **7786**: I have been more worried about you. When Perih Vashai brought sin upon herself by letting me escape, you would also be held accountable...
+- **7787**: It seems the Mithran Tracker didn't explain that part to you.
+- **7789**: Please take this. It is the Bow of Light with the magicite rrremoved. If you give this to the Tracker, everything should be rrresolved.
+- **7790**: Take this $1 also. It is the one given to me by Perih Vashai to disguise my identity.
+- **7791**: All will become clear when you unite it with the $1 that you carry.
+- **7793**: My mother and I...we owe you and your mother our eternal gratitude. Goodbye, Semih Lafihna.
+- **7794**: Was there something else?
+- **7795**: A letter from Koh Lenbalalako!? There's a name I haven't heard in yearrrs...
+- **7796**: Thank you, adventurer. I wish for you to have these.
 
 ## Events
 
@@ -587,7 +587,7 @@
 #### Opcodes
 
 ```
-  0: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7755*)
+  0: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7756*)
     → "...This arrow, an azurrre arrow..."
   1: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E8 [0x00] END_REQSTACK()
@@ -612,7 +612,7 @@
 #### Opcodes
 
 ```
-  0: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7756*)
+  0: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7757*)
     → "You were sent by Perih Vashai?"
   1: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00ED [0x00] END_REQSTACK()
@@ -638,7 +638,7 @@
 #### Opcodes
 
 ```
-  0: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7759*)
+  0: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7760*)
     → "...... Semih Lafihna..."
   1: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F2 [0x00] END_REQSTACK()
@@ -663,7 +663,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
+  0: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
     → "Yes. I am the daughter of Nhev Befrathi, the Fire Tribe chieftainness. I am Syu Befrathi."
   1: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F7 [0x00] END_REQSTACK()
@@ -688,7 +688,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
+  0: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
     → "Perih Vashai arranged it so that I could escape. She said that if I could make it as far as this place, the Mithran Tracker would not be able to follow."
   1: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00FC [0x00] END_REQSTACK()
@@ -714,7 +714,7 @@
 #### Opcodes
 
 ```
-  0: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
+  0: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7765*)
     → "Come inside. It is not safe to talk here..."
   1: 0x0100 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0101 [0x00] END_REQSTACK()
@@ -739,7 +739,7 @@
 #### Opcodes
 
 ```
-  0: 0x0102 [0x1D] PRINT_EVENT_MESSAGE(message_id=7766*)
+  0: 0x0102 [0x1D] PRINT_EVENT_MESSAGE(message_id=7767*)
     → "The Bow of Light is famous for its powerrr, but was not originally the weapon carried by the chieftainness of our tribe."
   1: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0106 [0x00] END_REQSTACK()
@@ -764,7 +764,7 @@
 #### Opcodes
 
 ```
-  0: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7767*)
+  0: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7768*)
     → "It was something that Yow Rabntah found in this forsaken land and brought back to the tribe thirty years ago. ...No, what she actually brought back was the large gem that was to be embedded in the bow's shaft."
   1: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x010B [0x00] END_REQSTACK()
@@ -790,7 +790,7 @@
 #### Opcodes
 
 ```
-  0: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=7768*)
+  0: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=7769*)
     → "Yow Rabntah used the stone to create the Bow of Light, a weapon even more powerrrful than the chieftainness's Bow of Flames."
   1: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0110 [0x00] END_REQSTACK()
@@ -815,7 +815,7 @@
 #### Opcodes
 
 ```
-  0: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=7769*)
+  0: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=7770*)
     → "The bow did not bring light as was intended. It was a bow that stole the light from my people..."
   1: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0115 [0x00] END_REQSTACK()
@@ -840,7 +840,7 @@
 #### Opcodes
 
 ```
-  0: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=7770*)
+  0: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
     → "My mother, the chieftainness, insisted the bow be taken back to where it belonged. It carried with it the taint of this accursed place, and would surely have brought rrruin upon the tribe."
   1: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x011A [0x00] END_REQSTACK()
@@ -865,7 +865,7 @@
 #### Opcodes
 
 ```
-  0: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
+  0: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7772*)
     → "The tribespeople, however, were already divided over whether to keep the bow."
   1: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x011F [0x00] END_REQSTACK()
@@ -890,7 +890,7 @@
 #### Opcodes
 
 ```
-  0: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7772*)
+  0: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
     → "And then something terrible happened. A fiendish creature appeared before Yow Rabntah, almost as if the gem had called to it."
   1: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0124 [0x00] END_REQSTACK()
@@ -915,7 +915,7 @@
 #### Opcodes
 
 ```
-  0: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
+  0: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
     → "She was slain by the fiend...and my mother was disgraced by her inability to averrrt the tragedy."
   1: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0129 [0x00] END_REQSTACK()
@@ -940,7 +940,7 @@
 #### Opcodes
 
 ```
-  0: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=7775*)
+  0: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
     → "Yes, you're rrright. It wasn't until ten years after my mother was imprisoned that we discovered the fiend was actually the Shadow Lord."
   1: 0x012D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x012E [0x00] END_REQSTACK()
@@ -966,7 +966,7 @@
 #### Opcodes
 
 ```
-  0: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
+  0: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
     → "When she learned of this, my mother escaped from her prison and headed for the Northlands. As the Chieftainness of the Fire Tribe, she sought to exact rrrevenge for her people."
   1: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0133 [0x00] END_REQSTACK()
@@ -991,7 +991,7 @@
 #### Opcodes
 
 ```
-  0: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
+  0: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
     → "...Yes. But I will carry out her rrrevenge."
   1: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0138 [0x00] END_REQSTACK()
@@ -1016,7 +1016,7 @@
 #### Opcodes
 
 ```
-  0: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
+  0: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7780*)
     → "I have returned with the gem, the "magicite" taken by Yow Rabntah, to purify this accursed land."
   1: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x013D [0x00] END_REQSTACK()
@@ -1042,7 +1042,7 @@
 #### Opcodes
 
 ```
-  0: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
+  0: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
     → "...This is true. But you are Mithra; you should understand. We are one with nature, and cannot ignore her call for help."
   1: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0142 [0x00] END_REQSTACK()
@@ -1067,7 +1067,7 @@
 #### Opcodes
 
 ```
-  0: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
+  0: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
     → "I have rrresolved to spend my remaining days in this land, a land abandoned by the Mithra hundreds of years ago."
   1: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0147 [0x00] END_REQSTACK()
@@ -1092,7 +1092,7 @@
 #### Opcodes
 
 ```
-  0: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
+  0: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
     → "Do not concern yourself with my safety. I have survived here for twenty years..."
   1: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x014C [0x00] END_REQSTACK()
@@ -1118,7 +1118,7 @@
 #### Opcodes
 
 ```
-  0: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+  0: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
     → "I have been more worried about you. When Perih Vashai brought sin upon herself by letting me escape, you would also be held accountable..."
   1: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0151 [0x00] END_REQSTACK()
@@ -1143,7 +1143,7 @@
 #### Opcodes
 
 ```
-  0: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
+  0: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
     → "It seems the Mithran Tracker didn't explain that part to you."
   1: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0156 [0x00] END_REQSTACK()
@@ -1168,7 +1168,7 @@
 #### Opcodes
 
 ```
-  0: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
+  0: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
     → "Please take this. It is the Bow of Light with the magicite rrremoved. If you give this to the Tracker, everything should be rrresolved."
   1: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x015B [0x00] END_REQSTACK()
@@ -1194,7 +1194,7 @@
 #### Opcodes
 
 ```
-  0: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
+  0: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
     → "Take this $1 also. It is the one given to me by Perih Vashai to disguise my identity."
   1: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0160 [0x00] END_REQSTACK()
@@ -1219,7 +1219,7 @@
 #### Opcodes
 
 ```
-  0: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
+  0: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
     → "All will become clear when you unite it with the $1 that you carry."
   1: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0165 [0x00] END_REQSTACK()
@@ -1244,7 +1244,7 @@
 #### Opcodes
 
 ```
-  0: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
+  0: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
     → "My mother and I...we owe you and your mother our eternal gratitude. Goodbye, Semih Lafihna."
   1: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x016A [0x00] END_REQSTACK()
@@ -1292,7 +1292,7 @@
 #### Opcodes
 
 ```
-  0: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
+  0: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
     → "Was there something else?"
   1: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0170 [0x00] END_REQSTACK()
@@ -1317,7 +1317,7 @@
 #### Opcodes
 
 ```
-  0: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+  0: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "A letter from Koh Lenbalalako!? There's a name I haven't heard in yearrrs..."
   1: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0175 [0x00] END_REQSTACK()
@@ -1342,7 +1342,7 @@
 #### Opcodes
 
 ```
-  0: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+  0: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "Thank you, adventurer. I wish for you to have these."
   1: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017A [0x00] END_REQSTACK()

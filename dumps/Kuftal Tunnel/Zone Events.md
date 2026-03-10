@@ -45,34 +45,34 @@
 |      20 | 0x0007      |           7 |
 |      21 | 0x003B      |          59 |
 |      22 | 0x0008      |           8 |
-|      23 | 0x1CBC      |        7356 |
+|      23 | 0x1CBD      |        7357 |
 |      24 | 0x00C2      |         194 |
-|      25 | 0x1CBD      |        7357 |
+|      25 | 0x1CBE      |        7358 |
 |      26 | 0x00C9      |         201 |
 |      27 | 0x0078      |         120 |
-|      28 | 0x1CBE      |        7358 |
-|      29 | 0x1CBF      |        7359 |
+|      28 | 0x1CBF      |        7359 |
+|      29 | 0x1CC0      |        7360 |
 |      30 | 0x0091      |         145 |
-|      31 | 0x1CC0      |        7360 |
-|      32 | 0x1CC1      |        7361 |
-|      33 | 0x1CC2      |        7362 |
-|      34 | 0x1CC3      |        7363 |
-|      35 | 0x1CC4      |        7364 |
+|      31 | 0x1CC1      |        7361 |
+|      32 | 0x1CC2      |        7362 |
+|      33 | 0x1CC3      |        7363 |
+|      34 | 0x1CC4      |        7364 |
+|      35 | 0x1CC5      |        7365 |
 |      36 | 0x003C      |          60 |
 |      37 | 0xFFFF9116  |  4294938902 |
 |      38 | 0xFFFD3324  |  4294783780 |
 |      39 | 0xFFFFAAAC  |  4294945452 |
 |      40 | 0x0B78      |        2936 |
 |      41 | 0x0413      |        1043 |
-|      42 | 0x1CC5      |        7365 |
-|      43 | 0x1CC6      |        7366 |
-|      44 | 0x1CC7      |        7367 |
-|      45 | 0x1CC8      |        7368 |
+|      42 | 0x1CC6      |        7366 |
+|      43 | 0x1CC7      |        7367 |
+|      44 | 0x1CC8      |        7368 |
+|      45 | 0x1CC9      |        7369 |
 
 ## String References
 
-- **7356**: You find the piece of wood.
-- **7357**: There is some writing on it... "To whoever may find this... Werei"
+- **7357**: You find the piece of wood.
+- **7358**: There is some writing on it... "To whoever may find this... Werei"
 
 ## Events
 
@@ -227,12 +227,12 @@ SUBROUTINE_00DC:
  34: 0x00DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[0]
  35: 0x00EB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha0" with entities [LocalPlayer, LocalPlayer]
  36: 0x00F8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sir0" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[0]
- 37: 0x0107 [0x48] [System] [7356*]:
+ 37: 0x0107 [0x48] [System] [7357*]:
     → "You find the piece of wood."
  38: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x010B [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 194*
  40: 0x010F [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 194*
- 41: 0x0113 [0x48] [System] [7357*]:
+ 41: 0x0113 [0x48] [System] [7358*]:
     → "There is some writing on it... "To whoever may find this... Werei""
  42: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0117 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -241,10 +241,10 @@ SUBROUTINE_00DC:
  46: 0x0146 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[218*, 0*]
  47: 0x0157 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [EventEntity, EventEntity], work=[201*, 0*]
  48: 0x0168 [0x1C] WAIT(120* ticks)
- 49: 0x016B [0x2B] Werei (ID: 17490295/0x010AE177) [7358*]:
+ 49: 0x016B [0x2B] Werei (ID: 17490295/0x010AE177) [7359*]:
     → ""My long journey is nearing an end. I have finally reached my destination.""
  50: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x0173 [0x2B] Werei (ID: 17490295/0x010AE177) [7359*]:
+ 51: 0x0173 [0x2B] Werei (ID: 17490295/0x010AE177) [7360*]:
     → ""This is the land of tragedy and sorrow. The place where our forefathers ran when they were driven from their home by the Antica.""
  52: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x017B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who0" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -268,23 +268,23 @@ SUBROUTINE_00DC:
  71: 0x0233 [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [EventEntity, EventEntity], work=218*
  72: 0x0242 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[218*, 0*]
  73: 0x0253 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [EventEntity, EventEntity], work=[201*, 0*]
- 74: 0x0264 [0x2B] Werei (ID: 17490295/0x010AE177) [7360*]:
+ 74: 0x0264 [0x2B] Werei (ID: 17490295/0x010AE177) [7361*]:
     → ""All those who were chased to this cliff lost their lives. Some died by sword, others fell to the depths below.""
  75: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x026C [0x2B] Werei (ID: 17490295/0x010AE177) [7361*]:
+ 76: 0x026C [0x2B] Werei (ID: 17490295/0x010AE177) [7362*]:
     → ""This place is filled with the pain and suffering of a people who set out to a new land searching for a new life.""
  77: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x0274 [0x2B] Werei (ID: 17490295/0x010AE177) [7362*]:
+ 78: 0x0274 [0x2B] Werei (ID: 17490295/0x010AE177) [7363*]:
     → ""We Galka, with our new homes in Bastok, should not spend our time envying the life of our past brothers.""
  79: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x027C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  81: 0x028D [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=218*
  82: 0x029C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [EventEntity, EventEntity], work=[218*, 0*]
  83: 0x02AD [0x27] REQ_SET(priority=0x0A, entity_id=Werei (ID: 17490295/0x010AE177), tag_num=0x02)
- 84: 0x02B4 [0x2B] Werei (ID: 17490295/0x010AE177) [7363*]:
+ 84: 0x02B4 [0x2B] Werei (ID: 17490295/0x010AE177) [7364*]:
     → ""My time in this life is coming to an end... However, I hope that someday, someone may find my message and take it back to my people in Bastok.""
  85: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x02BC [0x2B] Werei (ID: 17490295/0x010AE177) [7364*]:
+ 86: 0x02BC [0x2B] Werei (ID: 17490295/0x010AE177) [7365*]:
     → ""If one wishes to revisit the Galkan past, one must not forget those long ago who fought for their futures.""
  87: 0x02C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x02C4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s006" with entities [EventEntity, EventEntity], work=218*
@@ -364,7 +364,7 @@ SUBROUTINE_00DC:
  14: 0x0383 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s008" with entities [EventEntity, EventEntity], work=218*
  15: 0x0392 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[218*, 0*]
  16: 0x03A3 [0x27] REQ_SET(priority=0x0A, entity_id=Hawk Nose (ID: 17490304/0x010AE180), tag_num=0x02)
- 17: 0x03AA [0x2B] Hawk Nose (ID: 17490304/0x010AE180) [7365*]:
+ 17: 0x03AA [0x2B] Hawk Nose (ID: 17490304/0x010AE180) [7366*]:
     → "Hey! What the hell do you think you're doing up here?"
  18: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x03B2 [0x1E] EventEntity looks at Hawk Nose (ID: 17490304/0x010AE180) and starts talking
@@ -375,16 +375,16 @@ SUBROUTINE_00DC:
  24: 0x03DB [0x4A] Unknown NPC (ID: 2147483637/0x7FFFFFF5) looks at Hawk Nose (ID: 17490304/0x010AE180)
  25: 0x03E4 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Hawk Nose (ID: 17490304/0x010AE180))
  26: 0x03EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [Hawk Nose (ID: 17490304/0x010AE180), Hawk Nose (ID: 17490304/0x010AE180)], work=60*
- 27: 0x03F9 [0x2B] Hawk Nose (ID: 17490304/0x010AE180) [7366*]:
+ 27: 0x03F9 [0x2B] Hawk Nose (ID: 17490304/0x010AE180) [7367*]:
     → "What!? That Datta asked you to see if this place would be good for sightseeing? What was that idiot thinking!?"
  28: 0x0400 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0401 [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=218*
  30: 0x0410 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[218*, 0*]
- 31: 0x0421 [0x2B] Hawk Nose (ID: 17490304/0x010AE180) [7367*]:
+ 31: 0x0421 [0x2B] Hawk Nose (ID: 17490304/0x010AE180) [7368*]:
     → "If you didn't already know, hundreds of Galka lost their lives here long ago. The bottom of the cliff is teeming with ghosts!"
  32: 0x0428 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0429 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hawk Nose (ID: 17490304/0x010AE180), Hawk Nose (ID: 17490304/0x010AE180)], work=60*
- 34: 0x0438 [0x2B] Hawk Nose (ID: 17490304/0x010AE180) [7368*]:
+ 34: 0x0438 [0x2B] Hawk Nose (ID: 17490304/0x010AE180) [7369*]:
     → "Who'd be crazy enough to come here on a vacation!? I'm getting out of here as fast as I can, and I recommend you do the same!"
  35: 0x043F [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0440 [0x27] REQ_SET(priority=0x0A, entity_id=Hawk Nose (ID: 17490304/0x010AE180), tag_num=0x03)

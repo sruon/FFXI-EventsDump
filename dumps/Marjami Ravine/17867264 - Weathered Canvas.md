@@ -25,15 +25,15 @@
 |       2 | 0x0010      |          16 |
 |       3 | 0x001D      |          29 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1FC1      |        8129 |
-|       6 | 0x1FA5      |        8101 |
-|       7 | 0x1FAC      |        8108 |
+|       5 | 0x1FC2      |        8130 |
+|       6 | 0x1FA6      |        8102 |
+|       7 | 0x1FAD      |        8109 |
 |       8 | 0x40000000  |  1073741824 |
 |       9 | 0x000C      |          12 |
 |      10 | 0x000F      |          15 |
 |      11 | 0x0002      |           2 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x1FA9      |        8105 |
+|      13 | 0x1FAA      |        8106 |
 |      14 | 0x003C      |          60 |
 |      15 | 0x0078      |         120 |
 |      16 | 0x0003      |           3 |
@@ -41,7 +41,7 @@
 |      18 | 0x0006      |           6 |
 |      19 | 0x0007      |           7 |
 |      20 | 0x0008      |           8 |
-|      21 | 0x1FA6      |        8102 |
+|      21 | 0x1FA7      |        8103 |
 |      22 | 0x005A      |          90 |
 |      23 | 0x00C9      |         201 |
 |      24 | 0x002D      |          45 |
@@ -68,11 +68,11 @@
 
 ## String References
 
-- **8101**: Proceed? [Yes./No.]
-- **8102**: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
-- **8105**: You cannot enter at this time. Please wait a moment and try again.
-- **8108**: Your request for entry is being considered...
-- **8129**: Join the fray with your [party/alliance] members in $8?
+- **8102**: Proceed? [Yes./No.]
+- **8103**: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
+- **8106**: You cannot enter at this time. Please wait a moment and try again.
+- **8109**: Your request for entry is being considered...
+- **8130**: Join the fray with your [party/alliance] members in $8?
 
 ## Events
 
@@ -181,18 +181,18 @@
  10: 0x0037 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
  11: 0x003C [0x03] Work_Zone[3] = 0*
  12: 0x0041 [0x03] Work_Zone[4] = 1*
- 13: 0x0046 [0x48] [System] [8129*]:
+ 13: 0x0046 [0x48] [System] [8130*]:
     → "Join the fray with your [party/alliance] members in $8?"
  14: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x004A [0x06] ExtData[1]->WorkLocal[3] = 0
  16: 0x004D [0x05] ExtData[1]->WorkLocal[7] = 1
  17: 0x0050 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x008A
- 18: 0x0058 [0x24] CREATE_DIALOG(message_id=8101*, default_option=ExtData[1]->WorkLocal[7], option_flags=0*)
+ 18: 0x0058 [0x24] CREATE_DIALOG(message_id=8102*, default_option=ExtData[1]->WorkLocal[7], option_flags=0*)
     → "Proceed? [Yes./No.]"
  19: 0x005F [0x25] WAIT_DIALOG_SELECT()
  20: 0x0060 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0074
  21: 0x0068 [0x06] ExtData[1]->WorkLocal[7] = 0
- 22: 0x006B [0x48] [System] [8108*]:
+ 22: 0x006B [0x48] [System] [8109*]:
     → "Your request for entry is being considered..."
  23: 0x006E [0x1A] CALL_SUBROUTINE(address=0x008C)
  24: 0x0071 [0x01] GOTO 0x0087
@@ -238,7 +238,7 @@ SUBROUTINE_00BD:
  54: 0x00F1 [0x0B] ExtData[1]->WorkLocal[9]++
  55: 0x00F4 [0x02] IF !(ExtData[1]->WorkLocal[9] <= 5*) GOTO 0x0109
  56: 0x00FC [0x05] ExtData[1]->WorkLocal[8] = 1
- 57: 0x00FF [0x48] [System] [8105*]:
+ 57: 0x00FF [0x48] [System] [8106*]:
     → "You cannot enter at this time. Please wait a moment and try again."
  58: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0103 [0x1C] WAIT(60* ticks)
@@ -310,7 +310,7 @@ SUBROUTINE_017E:
 119: 0x0205 [0x02] IF !(ExtData[1]->WorkLocal[10] == 8*) GOTO 0x0299
 120: 0x020D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 121: 0x0212 [0x03] Work_Zone[3] = 0*
-122: 0x0217 [0x48] [System] [8102*]:
+122: 0x0217 [0x48] [System] [8103*]:
     → "Now entering [/a skirmish in ////an alluvion skirmish in /]$8."
 123: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x021B [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
@@ -344,7 +344,7 @@ SUBROUTINE_017E:
 152: 0x02E3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 153: 0x02E5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 154: 0x02E7 [0x05] ExtData[1]->WorkLocal[8] = 1
-155: 0x02EA [0x48] [System] [8105*]:
+155: 0x02EA [0x48] [System] [8106*]:
     → "You cannot enter at this time. Please wait a moment and try again."
 156: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x02EE [0x1C] WAIT(60* ticks)

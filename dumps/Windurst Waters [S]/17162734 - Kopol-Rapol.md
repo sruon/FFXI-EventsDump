@@ -24,10 +24,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2AE0      |       10976 |
-|       2 | 0x2AE1      |       10977 |
-|       3 | 0x2AF5      |       10997 |
-|       4 | 0x2AF6      |       10998 |
+|       1 | 0x2AE1      |       10977 |
+|       2 | 0x2AE2      |       10978 |
+|       3 | 0x2AF6      |       10998 |
+|       4 | 0x2AF7      |       10999 |
 
 ## Events
 
@@ -75,10 +75,10 @@
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
-  2: 0x000D [0x2B] EventEntity [10976*]:
+  2: 0x000D [0x2B] EventEntity [10977*]:
     → "When I grow up, I'm gonna be the biggest Warlock Warlord ever!"
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0015 [0x2B] EventEntity [10977*]:
+  4: 0x0015 [0x2B] EventEntity [10978*]:
     → "Do you know what a warlord is? I'm not quite sure...but it sure sounds really importantaru, right!?"
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT
@@ -129,10 +129,10 @@
 ```
   0: 0x0020 [0x4A] EventEntity looks at LocalPlayer
   1: 0x0029 [0x1C] WAIT(30* ticks)
-  2: 0x002C [0x2B] EventEntity [10997*]:
+  2: 0x002C [0x2B] EventEntity [10998*]:
     → "My teachy-weacher says we need to "e-vac-u-a-taru.""
   3: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0034 [0x2B] EventEntity [10998*]:
+  4: 0x0034 [0x2B] EventEntity [10999*]:
     → "I don't know what that means, but it sure sounds fun!"
   5: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x003C [0x21] END_EVENT

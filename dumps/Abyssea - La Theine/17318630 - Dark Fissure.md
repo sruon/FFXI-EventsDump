@@ -26,20 +26,20 @@
 |       3 | 0x0622      |        1570 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0623      |        1571 |
-|       6 | 0x1F2B      |        7979 |
-|       7 | 0x1F2C      |        7980 |
+|       6 | 0x1F2C      |        7980 |
+|       7 | 0x1F2D      |        7981 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x00C8      |         200 |
 |      10 | 0x003C      |          60 |
-|      11 | 0x1F2D      |        7981 |
+|      11 | 0x1F2E      |        7982 |
 |      12 | 0x0078      |         120 |
 |      13 | 0x00F5      |         245 |
 
 ## String References
 
-- **7979**: You see an ominous fissure on the ravine floor...
-- **7980**: Cast $3 into it? [Attack the darkness!/Not just yet.]
-- **7981**: <Player> casts $3 into the fissure.
+- **7980**: You see an ominous fissure on the ravine floor...
+- **7981**: Cast $3 into it? [Attack the darkness!/Not just yet.]
+- **7982**: <Player> casts $3 into the fissure.
 
 ## Events
 
@@ -111,10 +111,10 @@
 SUBROUTINE_0036:
  10: 0x0036 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  11: 0x0037 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
- 12: 0x0039 [0x48] [System] [7979*]:
+ 12: 0x0039 [0x48] [System] [7980*]:
     → "You see an ominous fissure on the ravine floor..."
  13: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x003D [0x24] CREATE_DIALOG(message_id=7980*, default_option=1*, option_flags=0*)
+ 14: 0x003D [0x24] CREATE_DIALOG(message_id=7981*, default_option=1*, option_flags=0*)
     → "Cast $3 into it? [Attack the darkness!/Not just yet.]"
  15: 0x0044 [0x25] WAIT_DIALOG_SELECT()
  16: 0x0045 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0057
@@ -126,17 +126,17 @@ SUBROUTINE_0065:
  20: 0x0065 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  21: 0x0076 [0x1C] WAIT(60* ticks)
  22: 0x0079 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x008C
- 23: 0x0081 [0x48] [System] [7981*]:
+ 23: 0x0081 [0x48] [System] [7982*]:
     → "<Player> casts $3 into the fissure."
  24: 0x0084 [0x03] Work_Zone[1] = 1*
  25: 0x0089 [0x01] GOTO 0x00B2
  26: 0x008C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x009F
- 27: 0x0094 [0x48] [System] [7981*]:
+ 27: 0x0094 [0x48] [System] [7982*]:
     → "<Player> casts $3 into the fissure."
  28: 0x0097 [0x03] Work_Zone[1] = 2*
  29: 0x009C [0x01] GOTO 0x00B2
  30: 0x009F [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x00B2
- 31: 0x00A7 [0x48] [System] [7981*]:
+ 31: 0x00A7 [0x48] [System] [7982*]:
     → "<Player> casts $3 into the fissure."
  32: 0x00AA [0x03] Work_Zone[1] = 3*
  33: 0x00AF [0x01] GOTO 0x00B2

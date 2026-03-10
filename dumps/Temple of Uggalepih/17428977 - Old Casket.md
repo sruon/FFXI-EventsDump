@@ -20,20 +20,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CB2      |        7346 |
+|       0 | 0x1CB3      |        7347 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1CB3      |        7347 |
-|       3 | 0x1CD7      |        7383 |
+|       2 | 0x1CB4      |        7348 |
+|       3 | 0x1CD8      |        7384 |
 |       4 | 0x0110      |         272 |
-|       5 | 0x1CB4      |        7348 |
+|       5 | 0x1CB5      |        7349 |
 |       6 | 0x0001      |           1 |
 
 ## String References
 
-- **7346**: Use your $3 to open it? [Yes./No.]
-- **7347**: You find a strange brush inside the box.
-- **7348**: When the $3 projects the deepest, darkest corner of your soul onto the blank canvas...only then will the doors to rancor open.
-- **7383**: A hideous voice rings in your ears...
+- **7347**: Use your $3 to open it? [Yes./No.]
+- **7348**: You find a strange brush inside the box.
+- **7349**: When the $3 projects the deepest, darkest corner of your soul onto the blank canvas...only then will the doors to rancor open.
+- **7384**: A hideous voice rings in your ears...
 
 ## Events
 
@@ -81,18 +81,18 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7346*, default_option=0*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7347*, default_option=0*, option_flags=0*)
     → "Use your $3 to open it? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002C
   4: 0x0013 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  5: 0x0014 [0x48] [System] [7347*]:
+  5: 0x0014 [0x48] [System] [7348*]:
     → "You find a strange brush inside the box."
   6: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0018 [0x48] [System] [7383*]:
+  7: 0x0018 [0x48] [System] [7384*]:
     → "A hideous voice rings in your ears..."
   8: 0x001B [0x03] Work_Zone[2] = 272*
-  9: 0x0020 [0x48] [System] [7348*]:
+  9: 0x0020 [0x48] [System] [7349*]:
     → "When the $3 projects the deepest, darkest corner of your soul onto the blank canvas...only then will the doors to rancor open."
  10: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0024 [0x03] Work_Zone[1] = 1*

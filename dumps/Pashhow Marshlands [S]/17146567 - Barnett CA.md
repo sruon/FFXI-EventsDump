@@ -106,14 +106,14 @@
 |      82 | 0x0018      |          24 |
 |      83 | 0x1BFC      |        7164 |
 |      84 | 0x006D      |         109 |
-|      85 | 0x1E0F      |        7695 |
-|      86 | 0x1E10      |        7696 |
+|      85 | 0x1E10      |        7696 |
+|      86 | 0x1E11      |        7697 |
 |      87 | 0x1BFD      |        7165 |
 |      88 | 0x006A      |         106 |
 |      89 | 0x0032      |          50 |
 |      90 | 0x111110    |     1118480 |
-|      91 | 0x1E16      |        7702 |
-|      92 | 0x1E12      |        7698 |
+|      91 | 0x1E17      |        7703 |
+|      92 | 0x1E13      |        7699 |
 |      93 | 0x0065      |         101 |
 |      94 | 0x0066      |         102 |
 |      95 | 0x0067      |         103 |
@@ -187,10 +187,10 @@
 - **7162**: Be forewarned that your commitment to your union comes first and foremost. In the aftermath of battle, you will not be permitted to reap rewards from your individual exploits until your union has distributed its plunder.
 - **7164**: Register for a union? [Yes./No.]
 - **7165**: [Transfer/Resign] from your current union? [Yes./No.]
-- **7695**: What will you do? [Nothing./Transfer to another union./Resign union membership.]
-- **7696**: Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed.
-- **7698**: Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]
-- **7702**: I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war...
+- **7696**: What will you do? [Nothing./Transfer to another union./Resign union membership.]
+- **7697**: Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed.
+- **7699**: Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]
+- **7703**: I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war...
 
 ## Events
 
@@ -1188,7 +1188,7 @@ SUBROUTINE_0CAD:
 
 SUBROUTINE_0D38:
 591: 0x0D38 [0x01] GOTO 0x0DE5
-592: 0x0D3B [0x24] CREATE_DIALOG(message_id=7695*, default_option=0*, option_flags=0*)
+592: 0x0D3B [0x24] CREATE_DIALOG(message_id=7696*, default_option=0*, option_flags=0*)
     → "What will you do? [Nothing./Transfer to another union./Resign union membership.]"
 593: 0x0D42 [0x25] WAIT_DIALOG_SELECT()
 594: 0x0D43 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D53
@@ -1197,7 +1197,7 @@ SUBROUTINE_0D38:
 597: 0x0D53 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D9C
 598: 0x0D5B [0x02] IF !(ExtData[1]->WorkLocal[29] == 1*) GOTO 0x0D6C
 599: 0x0D63 [0x03] Work_Zone[2] = 0*
-600: 0x0D68 [0x1D] PRINT_EVENT_MESSAGE(message_id=7696*)
+600: 0x0D68 [0x1D] PRINT_EVENT_MESSAGE(message_id=7697*)
     → "Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed."
 601: 0x0D6B [0x23] WAIT_FOR_DIALOG_INTERACTION
 602: 0x0D6C [0x03] Work_Zone[2] = 0*
@@ -1216,7 +1216,7 @@ SUBROUTINE_0D99:
 612: 0x0D9C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0DE5
 613: 0x0DA4 [0x02] IF !(ExtData[1]->WorkLocal[29] == 1*) GOTO 0x0DB5
 614: 0x0DAC [0x03] Work_Zone[2] = 1*
-615: 0x0DB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7696*)
+615: 0x0DB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7697*)
     → "Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed."
 616: 0x0DB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 617: 0x0DB5 [0x03] Work_Zone[2] = 1*
@@ -1252,12 +1252,12 @@ SUBROUTINE_0DE5:
 642: 0x0E47 [0x02] IF !(ExtData[1]->WorkLocal[34] < 50*) GOTO 0x0E56
 643: 0x0E4F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[36], bit_index_work_offset=5*, condition_work_offset=1*)
 644: 0x0E56 [0x02] IF !(ExtData[1]->WorkLocal[36] == 1118480*) GOTO 0x0E6A
-645: 0x0E5E [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
+645: 0x0E5E [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
     → "I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war..."
 646: 0x0E61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 647: 0x0E62 [0x03] Work_Zone[1] = 109*
 648: 0x0E67 [0x01] GOTO 0x0ED2
-649: 0x0E6A [0x24] CREATE_DIALOG(message_id=7698*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
+649: 0x0E6A [0x24] CREATE_DIALOG(message_id=7699*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
     → "Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]"
 650: 0x0E71 [0x25] WAIT_DIALOG_SELECT()
 651: 0x0E72 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E82

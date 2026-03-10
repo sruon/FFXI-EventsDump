@@ -21,7 +21,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2064      |        8292 |
+|       0 | 0x2065      |        8293 |
 |       1 | 0x007E      |         126 |
 |       2 | 0xFFFFFFFE  |  4294967294 |
 |       3 | 0x0001      |           1 |
@@ -30,26 +30,26 @@
 |       6 | 0x0004      |           4 |
 |       7 | 0x0005      |           5 |
 |       8 | 0x0006      |           6 |
-|       9 | 0x2063      |        8291 |
+|       9 | 0x2064      |        8292 |
 |      10 | 0x007C      |         124 |
 |      11 | 0x007A      |         122 |
 |      12 | 0x0076      |         118 |
 |      13 | 0x006E      |         110 |
 |      14 | 0x005E      |          94 |
 |      15 | 0x003E      |          62 |
-|      16 | 0x2066      |        8294 |
+|      16 | 0x2067      |        8295 |
 |      17 | 0x0000      |           0 |
-|      18 | 0x2067      |        8295 |
+|      18 | 0x2068      |        8296 |
 |      19 | 0x40000000  |  1073741824 |
-|      20 | 0x2068      |        8296 |
+|      20 | 0x2069      |        8297 |
 |      21 | 0x0020      |          32 |
-|      22 | 0x2069      |        8297 |
+|      22 | 0x206A      |        8298 |
 |      23 | 0x0040      |          64 |
-|      24 | 0x206A      |        8298 |
+|      24 | 0x206B      |        8299 |
 |      25 | 0x0060      |          96 |
-|      26 | 0x206B      |        8299 |
+|      26 | 0x206C      |        8300 |
 |      27 | 0x0080      |         128 |
-|      28 | 0x206C      |        8300 |
+|      28 | 0x206D      |        8301 |
 |      29 | 0x00A0      |         160 |
 |      30 | 0x18FC      |        6396 |
 |      31 | 0x00C8      |         200 |
@@ -61,15 +61,15 @@
 ## String References
 
 - **6396**: You do not have enough gil.
-- **8291**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
-- **8292**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
-- **8294**: Which memory will you have recalled? [None./Seekers of Adoulin 1./Seekers of Adoulin 2./Adoulin Quests 1./Adoulin Quests 2./Adoulin Quests 3./Other Quests.]
-- **8295**: Which memory will you have recalled? [None./Arciela Appears Again./An Aimless Journey./Honor and Audacity./For Whom Do We Toil?/Calamity in the Kitchen./Predators and Prey./Yggdrasil./A Curse from the Past(pt.1)./A Curse from the Past(pt.2)./The Key./The Disappearance of Nyline(pt.1)./The Disappearance of Nyline(pt.2)./Clear Skies./Beauty and the Beast./In Search of Arciela(pt.1)./In Search of Arciela(pt.2)./Drifting Northwest./Kumhau, the Flashfrost Naakual./Tree Grafting./The Light of Dawn Comes...(pt.1)./The Light of Dawn Comes...(pt.2)./Seeds of Doubt(pt.1)./Seeds of Doubt(pt.2)./A Grave Mistake./An Emergency Convocation./Balamor, the Deathborne Xol(pt.1)./Balamor, the Deathborne Xol(pt.2)./Balamor, the Deathborne Xol(pt.3).]
-- **8296**: Which memory will you have recalled? [None./Anagnorisis./Arciela's Resolve./Royal Blessings(pt.1)./Royal Blessings(pt.2)./Arciela's Missive./Undying Light./The Light Within(pt.1)./The Light Within(pt.2)./The Light Within(pt.3).]
-- **8297**: Which memory will you have recalled? [None./Don't Ever Leaf Me(pt.1)./Don't Ever Leaf Me(pt.2)./Don't Ever Leaf Me(pt.3)./Don't Ever Leaf Me(pt.4)./Don't Ever Leaf Me(pt.5)./Keep Your Bloomers On, Erisa(pt.1)./Keep Your Bloomers On, Erisa(pt.2)./Keep Your Bloomers On, Erisa(pt.3)./Keep Your Bloomers On, Erisa(pt.4)./Keep Your Bloomers On, Erisa(pt.5)./Children of the Rune(pt.1)./Children of the Rune(pt.2)./Children of the Rune(pt.3)./A Thirst for the Ages(pt.1)./A Thirst for the Ages(pt.2)./A Thirst for the Ages(pt.3)./A Thirst for the Ages(pt.4)./Thorn in the Side(pt.1)./Thorn in the Side(pt.2)./Endeavoring to Awaken(pt.1)./Endeavoring to Awaken(pt.2)./Endeavoring to Awaken(pt.3)./Endeavoring to Awaken(pt.4)./Endeavoring to Awaken(pt.5)./For Whom the Bell Tolls./The Bloodline of Zacariah./The Communion./Bagua Attire./Saved by the Bell./Geomancerrific.]
-- **8298**: Which memory will you have recalled? [None./Forging New Bonds(pt.1)./Forging New Bonds(pt.2)./Legacies Lost and Found(pt.1)./Legacies Lost and Found(pt.2)./Legacies Lost and Found(pt.3)./Destiny's Device(pt.1)./Destiny's Device(pt.2)./Destiny's Device(pt.3)./Velkkovert Operations(pt.1)./Velkkovert Operations(pt.2)./Hypocritical Oath(pt.1)./Hypocritical Oath(pt.2)./The Good, the Bad, the Clement(pt.1)./The Good, the Bad, the Clement(pt.2)./The Secret to Success(pt.1)./The Secret to Success(pt.2)./The Secret to Success(pt.3)./A Thirst for the Eons(pt.1)./A Thirst for the Eons(pt.2)./A Thirst for the Eons(pt.3)./A Thirst for Eternity(pt.1)./A Thirst for Eternity(pt.2)./A Thirst for Eternity(pt.3)./A Thirst for Eternity(pt.4)./A Thirst for Eternity(pt.5)./Eye of the Beholder./No Mercy for the Wicked(pt.1)./No Mercy for the Wicked(pt.2)./No Mercy for the Wicked(pt.3)./Mistress of Ceremonies.]
-- **8299**: Which memory will you have recalled? [None./The Curious Case of Melvien(pt.1)./The Curious Case of Melvien(pt.2)./The Curious Case of Melvien(pt.3)./The Curious Case of Melvien(pt.4)./The Curious Case of Melvien(pt.5)./The Weatherspoon War(pt.1)./The Weatherspoon War(pt.2)./The Weatherspoon War(pt.3)./A Thirst Before Time(pt.1)./A Thirst Before Time(pt.2)./A Thirst Before Time(pt.3)./A Thirst Before Time(pt.4)./A Thirst Before Time(pt.5)./A Thirst Before Time(pt.6)./In the Land of the Blind(pt.1)./In the Land of the Blind(pt.2)./In the Land of the Blind(pt.3)./The Ygnas Directive 1(pt.1)./The Ygnas Directive 1(pt.2)./The Ygnas Directive 2./The Ygnas Directive 3(pt.1)./The Ygnas Directive 3(pt.2)./The Ygnas Directive 3(pt.3)./The Ygnas Directive 3(pt.4)./The Ygnas Directive 3(pt.5)./The Ygnas Directive 3(pt.6)./The Ygnas Directive 3(pt.7)./The Ygnas Directive 4.]
-- **8300**: Which memory will you have recalled? [None./Trust (Ingrid)./Alluvion Skirmishes.]
+- **8292**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+- **8293**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+- **8295**: Which memory will you have recalled? [None./Seekers of Adoulin 1./Seekers of Adoulin 2./Adoulin Quests 1./Adoulin Quests 2./Adoulin Quests 3./Other Quests.]
+- **8296**: Which memory will you have recalled? [None./Arciela Appears Again./An Aimless Journey./Honor and Audacity./For Whom Do We Toil?/Calamity in the Kitchen./Predators and Prey./Yggdrasil./A Curse from the Past(pt.1)./A Curse from the Past(pt.2)./The Key./The Disappearance of Nyline(pt.1)./The Disappearance of Nyline(pt.2)./Clear Skies./Beauty and the Beast./In Search of Arciela(pt.1)./In Search of Arciela(pt.2)./Drifting Northwest./Kumhau, the Flashfrost Naakual./Tree Grafting./The Light of Dawn Comes...(pt.1)./The Light of Dawn Comes...(pt.2)./Seeds of Doubt(pt.1)./Seeds of Doubt(pt.2)./A Grave Mistake./An Emergency Convocation./Balamor, the Deathborne Xol(pt.1)./Balamor, the Deathborne Xol(pt.2)./Balamor, the Deathborne Xol(pt.3).]
+- **8297**: Which memory will you have recalled? [None./Anagnorisis./Arciela's Resolve./Royal Blessings(pt.1)./Royal Blessings(pt.2)./Arciela's Missive./Undying Light./The Light Within(pt.1)./The Light Within(pt.2)./The Light Within(pt.3).]
+- **8298**: Which memory will you have recalled? [None./Don't Ever Leaf Me(pt.1)./Don't Ever Leaf Me(pt.2)./Don't Ever Leaf Me(pt.3)./Don't Ever Leaf Me(pt.4)./Don't Ever Leaf Me(pt.5)./Keep Your Bloomers On, Erisa(pt.1)./Keep Your Bloomers On, Erisa(pt.2)./Keep Your Bloomers On, Erisa(pt.3)./Keep Your Bloomers On, Erisa(pt.4)./Keep Your Bloomers On, Erisa(pt.5)./Children of the Rune(pt.1)./Children of the Rune(pt.2)./Children of the Rune(pt.3)./A Thirst for the Ages(pt.1)./A Thirst for the Ages(pt.2)./A Thirst for the Ages(pt.3)./A Thirst for the Ages(pt.4)./Thorn in the Side(pt.1)./Thorn in the Side(pt.2)./Endeavoring to Awaken(pt.1)./Endeavoring to Awaken(pt.2)./Endeavoring to Awaken(pt.3)./Endeavoring to Awaken(pt.4)./Endeavoring to Awaken(pt.5)./For Whom the Bell Tolls./The Bloodline of Zacariah./The Communion./Bagua Attire./Saved by the Bell./Geomancerrific.]
+- **8299**: Which memory will you have recalled? [None./Forging New Bonds(pt.1)./Forging New Bonds(pt.2)./Legacies Lost and Found(pt.1)./Legacies Lost and Found(pt.2)./Legacies Lost and Found(pt.3)./Destiny's Device(pt.1)./Destiny's Device(pt.2)./Destiny's Device(pt.3)./Velkkovert Operations(pt.1)./Velkkovert Operations(pt.2)./Hypocritical Oath(pt.1)./Hypocritical Oath(pt.2)./The Good, the Bad, the Clement(pt.1)./The Good, the Bad, the Clement(pt.2)./The Secret to Success(pt.1)./The Secret to Success(pt.2)./The Secret to Success(pt.3)./A Thirst for the Eons(pt.1)./A Thirst for the Eons(pt.2)./A Thirst for the Eons(pt.3)./A Thirst for Eternity(pt.1)./A Thirst for Eternity(pt.2)./A Thirst for Eternity(pt.3)./A Thirst for Eternity(pt.4)./A Thirst for Eternity(pt.5)./Eye of the Beholder./No Mercy for the Wicked(pt.1)./No Mercy for the Wicked(pt.2)./No Mercy for the Wicked(pt.3)./Mistress of Ceremonies.]
+- **8300**: Which memory will you have recalled? [None./The Curious Case of Melvien(pt.1)./The Curious Case of Melvien(pt.2)./The Curious Case of Melvien(pt.3)./The Curious Case of Melvien(pt.4)./The Curious Case of Melvien(pt.5)./The Weatherspoon War(pt.1)./The Weatherspoon War(pt.2)./The Weatherspoon War(pt.3)./A Thirst Before Time(pt.1)./A Thirst Before Time(pt.2)./A Thirst Before Time(pt.3)./A Thirst Before Time(pt.4)./A Thirst Before Time(pt.5)./A Thirst Before Time(pt.6)./In the Land of the Blind(pt.1)./In the Land of the Blind(pt.2)./In the Land of the Blind(pt.3)./The Ygnas Directive 1(pt.1)./The Ygnas Directive 1(pt.2)./The Ygnas Directive 2./The Ygnas Directive 3(pt.1)./The Ygnas Directive 3(pt.2)./The Ygnas Directive 3(pt.3)./The Ygnas Directive 3(pt.4)./The Ygnas Directive 3(pt.5)./The Ygnas Directive 3(pt.6)./The Ygnas Directive 3(pt.7)./The Ygnas Directive 4.]
+- **8301**: Which memory will you have recalled? [None./Trust (Ingrid)./Alluvion Skirmishes.]
 
 ## Events
 
@@ -151,7 +151,7 @@
   0: 0x0001 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "eton" with entities [EventEntity, EventEntity]
   1: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0013 [0x02] IF !(Work_Zone[8] <= Work_Zone[9]) GOTO 0x0021
-  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
+  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001F [0x21] END_EVENT
@@ -170,12 +170,12 @@
  18: 0x0071 [0x02] IF !(Work_Zone[7] == 4294967294*) GOTO 0x0080
  19: 0x0079 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  20: 0x0080 [0x02] IF !(ExtData[1]->WorkLocal[0] == 126*) GOTO 0x008E
- 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
+ 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
  22: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x008C [0x21] END_EVENT
  24: 0x008D [0x00] END_REQSTACK()
- 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
+ 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast."
  26: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0092 [0x02] IF !(ExtData[1]->WorkLocal[0] == 124*) GOTO 0x009D
@@ -190,13 +190,13 @@
  36: 0x00C6 [0x01] GOTO 0x01A0
  37: 0x00C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 62*) GOTO 0x00D4
  38: 0x00D1 [0x01] GOTO 0x01CF
- 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=8294*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=8295*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which memory will you have recalled? [None./Seekers of Adoulin 1./Seekers of Adoulin 2./Adoulin Quests 1./Adoulin Quests 2./Adoulin Quests 3./Other Quests.]"
  40: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  41: 0x00DC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x010B
 
 SUBROUTINE_00E4:
- 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=8295*, default_option=0*, option_flags=Work_Zone[2])
+ 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=8296*, default_option=0*, option_flags=Work_Zone[2])
     → "Which memory will you have recalled? [None./Arciela Appears Again./An Aimless Journey./Honor and Audacity./For Whom Do We Toil?/Calamity in the Kitchen./Predators and Prey./Yggdrasil./A Curse from the Past(pt.1)./A Curse from the Past(pt.2)./The Key./The Disappearance of Nyline(pt.1)./The Disappearance of Nyline(pt.2)./Clear Skies./Beauty and the Beast./In Search of Arciela(pt.1)./In Search of Arciela(pt.2)./Drifting Northwest./Kumhau, the Flashfrost Naakual./Tree Grafting./The Light of Dawn Comes...(pt.1)./The Light of Dawn Comes...(pt.2)./Seeds of Doubt(pt.1)./Seeds of Doubt(pt.2)./A Grave Mistake./An Emergency Convocation./Balamor, the Deathborne Xol(pt.1)./Balamor, the Deathborne Xol(pt.2)./Balamor, the Deathborne Xol(pt.3).]"
  43: 0x00EB [0x25] WAIT_DIALOG_SELECT()
  44: 0x00EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
@@ -209,7 +209,7 @@ SUBROUTINE_0108:
  49: 0x010B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x013A
 
 SUBROUTINE_0113:
- 50: 0x0113 [0x24] CREATE_DIALOG(message_id=8296*, default_option=0*, option_flags=Work_Zone[3])
+ 50: 0x0113 [0x24] CREATE_DIALOG(message_id=8297*, default_option=0*, option_flags=Work_Zone[3])
     → "Which memory will you have recalled? [None./Anagnorisis./Arciela's Resolve./Royal Blessings(pt.1)./Royal Blessings(pt.2)./Arciela's Missive./Undying Light./The Light Within(pt.1)./The Light Within(pt.2)./The Light Within(pt.3).]"
  51: 0x011A [0x25] WAIT_DIALOG_SELECT()
  52: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012D
@@ -222,7 +222,7 @@ SUBROUTINE_0137:
  57: 0x013A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0169
 
 SUBROUTINE_0142:
- 58: 0x0142 [0x24] CREATE_DIALOG(message_id=8297*, default_option=0*, option_flags=Work_Zone[4])
+ 58: 0x0142 [0x24] CREATE_DIALOG(message_id=8298*, default_option=0*, option_flags=Work_Zone[4])
     → "Which memory will you have recalled? [None./Don't Ever Leaf Me(pt.1)./Don't Ever Leaf Me(pt.2)./Don't Ever Leaf Me(pt.3)./Don't Ever Leaf Me(pt.4)./Don't Ever Leaf Me(pt.5)./Keep Your Bloomers On, Erisa(pt.1)./Keep Your Bloomers On, Erisa(pt.2)./Keep Your Bloomers On, Erisa(pt.3)./Keep Your Bloomers On, Erisa(pt.4)./Keep Your Bloomers On, Erisa(pt.5)./Children of the Rune(pt.1)./Children of the Rune(pt.2)./Children of the Rune(pt.3)./A Thirst for the Ages(pt.1)./A Thirst for the Ages(pt.2)./A Thirst for the Ages(pt.3)./A Thirst for the Ages(pt.4)./Thorn in the Side(pt.1)./Thorn in the Side(pt.2)./Endeavoring to Awaken(pt.1)./Endeavoring to Awaken(pt.2)./Endeavoring to Awaken(pt.3)./Endeavoring to Awaken(pt.4)./Endeavoring to Awaken(pt.5)./For Whom the Bell Tolls./The Bloodline of Zacariah./The Communion./Bagua Attire./Saved by the Bell./Geomancerrific.]"
  59: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  60: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
@@ -235,7 +235,7 @@ SUBROUTINE_0166:
  65: 0x0169 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0198
 
 SUBROUTINE_0171:
- 66: 0x0171 [0x24] CREATE_DIALOG(message_id=8298*, default_option=0*, option_flags=Work_Zone[5])
+ 66: 0x0171 [0x24] CREATE_DIALOG(message_id=8299*, default_option=0*, option_flags=Work_Zone[5])
     → "Which memory will you have recalled? [None./Forging New Bonds(pt.1)./Forging New Bonds(pt.2)./Legacies Lost and Found(pt.1)./Legacies Lost and Found(pt.2)./Legacies Lost and Found(pt.3)./Destiny's Device(pt.1)./Destiny's Device(pt.2)./Destiny's Device(pt.3)./Velkkovert Operations(pt.1)./Velkkovert Operations(pt.2)./Hypocritical Oath(pt.1)./Hypocritical Oath(pt.2)./The Good, the Bad, the Clement(pt.1)./The Good, the Bad, the Clement(pt.2)./The Secret to Success(pt.1)./The Secret to Success(pt.2)./The Secret to Success(pt.3)./A Thirst for the Eons(pt.1)./A Thirst for the Eons(pt.2)./A Thirst for the Eons(pt.3)./A Thirst for Eternity(pt.1)./A Thirst for Eternity(pt.2)./A Thirst for Eternity(pt.3)./A Thirst for Eternity(pt.4)./A Thirst for Eternity(pt.5)./Eye of the Beholder./No Mercy for the Wicked(pt.1)./No Mercy for the Wicked(pt.2)./No Mercy for the Wicked(pt.3)./Mistress of Ceremonies.]"
  67: 0x0178 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0179 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
@@ -248,7 +248,7 @@ SUBROUTINE_0195:
  73: 0x0198 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01C7
 
 SUBROUTINE_01A0:
- 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=8299*, default_option=0*, option_flags=Work_Zone[6])
+ 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=8300*, default_option=0*, option_flags=Work_Zone[6])
     → "Which memory will you have recalled? [None./The Curious Case of Melvien(pt.1)./The Curious Case of Melvien(pt.2)./The Curious Case of Melvien(pt.3)./The Curious Case of Melvien(pt.4)./The Curious Case of Melvien(pt.5)./The Weatherspoon War(pt.1)./The Weatherspoon War(pt.2)./The Weatherspoon War(pt.3)./A Thirst Before Time(pt.1)./A Thirst Before Time(pt.2)./A Thirst Before Time(pt.3)./A Thirst Before Time(pt.4)./A Thirst Before Time(pt.5)./A Thirst Before Time(pt.6)./In the Land of the Blind(pt.1)./In the Land of the Blind(pt.2)./In the Land of the Blind(pt.3)./The Ygnas Directive 1(pt.1)./The Ygnas Directive 1(pt.2)./The Ygnas Directive 2./The Ygnas Directive 3(pt.1)./The Ygnas Directive 3(pt.2)./The Ygnas Directive 3(pt.3)./The Ygnas Directive 3(pt.4)./The Ygnas Directive 3(pt.5)./The Ygnas Directive 3(pt.6)./The Ygnas Directive 3(pt.7)./The Ygnas Directive 4.]"
  75: 0x01A7 [0x25] WAIT_DIALOG_SELECT()
  76: 0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BA
@@ -261,7 +261,7 @@ SUBROUTINE_01C4:
  81: 0x01C7 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x01F6
 
 SUBROUTINE_01CF:
- 82: 0x01CF [0x24] CREATE_DIALOG(message_id=8300*, default_option=0*, option_flags=Work_Zone[7])
+ 82: 0x01CF [0x24] CREATE_DIALOG(message_id=8301*, default_option=0*, option_flags=Work_Zone[7])
     → "Which memory will you have recalled? [None./Trust (Ingrid)./Alluvion Skirmishes.]"
  83: 0x01D6 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E9

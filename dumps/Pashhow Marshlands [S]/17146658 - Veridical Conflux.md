@@ -23,8 +23,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x236D      |        9069 |
-|       1 | 0x236E      |        9070 |
+|       0 | 0x236E      |        9070 |
+|       1 | 0x236F      |        9071 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x004F      |          79 |
 |       4 | 0x0096      |         150 |
@@ -39,8 +39,8 @@
 
 ## String References
 
-- **9069**: The lights of the veridical conflux flutter and shimmer, as if to beckon you within...
-- **9070**: Warp to the Walk of Echoes? [Proceed./Not yet.]
+- **9070**: The lights of the veridical conflux flutter and shimmer, as if to beckon you within...
+- **9071**: Warp to the Walk of Echoes? [Proceed./Not yet.]
 
 ## Events
 
@@ -137,11 +137,11 @@
   0: 0x0003 [0x4A] LocalPlayer looks at Veridical Conflux (ID: 17146658/0x0105A322)
   1: 0x000C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0012 [0x48] [System] [9069*]:
+  3: 0x0012 [0x48] [System] [9070*]:
     → "The lights of the veridical conflux flutter and shimmer, as if to beckon you within..."
   4: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0016 [0x06] Work_Zone[1] = 0
-  6: 0x0019 [0x24] CREATE_DIALOG(message_id=9070*, default_option=0*, option_flags=0*)
+  6: 0x0019 [0x24] CREATE_DIALOG(message_id=9071*, default_option=0*, option_flags=0*)
     → "Warp to the Walk of Echoes? [Proceed./Not yet.]"
   7: 0x0020 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0021 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0058
@@ -232,11 +232,11 @@ SUBROUTINE_0058:
   0: 0x005A [0x4A] LocalPlayer looks at Veridical Conflux (ID: 17146658/0x0105A322)
   1: 0x0063 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0064 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0069 [0x48] [System] [9069*]:
+  3: 0x0069 [0x48] [System] [9070*]:
     → "The lights of the veridical conflux flutter and shimmer, as if to beckon you within..."
   4: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x006D [0x06] Work_Zone[1] = 0
-  6: 0x0070 [0x24] CREATE_DIALOG(message_id=9070*, default_option=0*, option_flags=0*)
+  6: 0x0070 [0x24] CREATE_DIALOG(message_id=9071*, default_option=0*, option_flags=0*)
     → "Warp to the Walk of Echoes? [Proceed./Not yet.]"
   7: 0x0077 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0078 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AF

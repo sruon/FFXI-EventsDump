@@ -21,11 +21,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D37      |        7479 |
+|       0 | 0x1D38      |        7480 |
 
 ## String References
 
-- **7479**: We came all the way here from Windurst hoping to make some quick gil, but business has been rrreally slow...almost as slow as Panana's Cures.
+- **7480**: We came all the way here from Windurst hoping to make some quick gil, but business has been rrreally slow...almost as slow as Panana's Cures.
 
 ## Events
 
@@ -71,7 +71,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
     → "We came all the way here from Windurst hoping to make some quick gil, but business has been rrreally slow...almost as slow as Panana's Cures."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT

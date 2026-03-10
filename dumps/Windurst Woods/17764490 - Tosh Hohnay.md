@@ -30,8 +30,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x213C      |        8508 |
-|       3 | 0x213D      |        8509 |
+|       2 | 0x213D      |        8509 |
+|       3 | 0x213E      |        8510 |
 |       4 | 0x2D06      |       11526 |
 |       5 | 0xFFFF4563  |  4294919523 |
 |       6 | 0x07CF      |        1999 |
@@ -39,8 +39,8 @@
 
 ## String References
 
-- **8508**: We Mithra are often called the "people of the woods" because we originally lived in forrrests.
-- **8509**: Well, due to varrrious circumstances, we came to live in Windurst. This is a nice place, although I don't think we'll ever come to underrrstand the Tarutaru ways...but they aren't bad people at hearrrt.
+- **8509**: We Mithra are often called the "people of the woods" because we originally lived in forrrests.
+- **8510**: Well, due to varrrious circumstances, we came to live in Windurst. This is a nice place, although I don't think we'll ever come to underrrstand the Tarutaru ways...but they aren't bad people at hearrrt.
 
 ## Events
 
@@ -164,10 +164,10 @@
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosh Hohnay (ID: 17764490/0x010F108A), tag_num=0x01)
-  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8508*)
+  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8509*)
     → "We Mithra are often called the "people of the woods" because we originally lived in forrrests."
   5: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8509*)
+  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8510*)
     → "Well, due to varrrious circumstances, we came to live in Windurst. This is a nice place, although I don't think we'll ever come to underrrstand the Tarutaru ways...but they aren't bad people at hearrrt."
   7: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0039 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosh Hohnay (ID: 17764490/0x010F108A), tag_num=0x02)

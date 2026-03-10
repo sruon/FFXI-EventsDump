@@ -34,26 +34,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E2E      |        7726 |
-|       1 | 0x1E2F      |        7727 |
-|       2 | 0x1E30      |        7728 |
+|       0 | 0x1E2F      |        7727 |
+|       1 | 0x1E30      |        7728 |
+|       2 | 0x1E31      |        7729 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x1E31      |        7729 |
-|       7 | 0x1E32      |        7730 |
-|       8 | 0x1E33      |        7731 |
-|       9 | 0x1E34      |        7732 |
-|      10 | 0x1E35      |        7733 |
-|      11 | 0x1E36      |        7734 |
-|      12 | 0x1E37      |        7735 |
+|       6 | 0x1E32      |        7730 |
+|       7 | 0x1E33      |        7731 |
+|       8 | 0x1E34      |        7732 |
+|       9 | 0x1E35      |        7733 |
+|      10 | 0x1E36      |        7734 |
+|      11 | 0x1E37      |        7735 |
+|      12 | 0x1E38      |        7736 |
 |      13 | 0x0006      |           6 |
-|      14 | 0x1E3A      |        7738 |
-|      15 | 0x1E38      |        7736 |
+|      14 | 0x1E3B      |        7739 |
+|      15 | 0x1E39      |        7737 |
 |      16 | 0x0005      |           5 |
-|      17 | 0x1E3C      |        7740 |
-|      18 | 0x1E3D      |        7741 |
-|      19 | 0x1E39      |        7737 |
+|      17 | 0x1E3D      |        7741 |
+|      18 | 0x1E3E      |        7742 |
+|      19 | 0x1E3A      |        7738 |
 |      20 | 0x0003      |           3 |
 |      21 | 0x0004      |           4 |
 |      22 | 0x28CAF     |      167087 |
@@ -79,21 +79,21 @@
 
 ## String References
 
-- **7726**: This place being for garbage. No fires. No bombs.
-- **7727**: Stupid people. You don't getting what I'm saying.
-- **7728**: How do you respond? [Huh?/I getting you.]
-- **7729**: Do you really getting me? Okay. Killing bombs. Bringing $1.
-- **7730**: Five is being too many. No more than four. Can't having fires around here.
-- **7731**: Killing bombs. Bringing $1.
-- **7732**: You bringing it! This being perfect! You not being so stupid after all.
-- **7733**: Now what? You wanting something from me? I guess I should giving you a reward.
-- **7734**: You can having this. Looking like garbage, but it being important to us Moblins.
-- **7735**: Take it? [I'll take it./No thanks.]
-- **7736**: Good, good. You being smart. Very, very clever.
-- **7737**: Taking it, taking it. You being very stupid. You saying stupid things.
-- **7738**: Stupid people. You already having one. You don't needing two of the same thing.
-- **7740**: ... You figuring it out?
-- **7741**: Okay, okay. Don't being mad. You can having my treasure. It being very shiny. Very pretty.
+- **7727**: This place being for garbage. No fires. No bombs.
+- **7728**: Stupid people. You don't getting what I'm saying.
+- **7729**: How do you respond? [Huh?/I getting you.]
+- **7730**: Do you really getting me? Okay. Killing bombs. Bringing $1.
+- **7731**: Five is being too many. No more than four. Can't having fires around here.
+- **7732**: Killing bombs. Bringing $1.
+- **7733**: You bringing it! This being perfect! You not being so stupid after all.
+- **7734**: Now what? You wanting something from me? I guess I should giving you a reward.
+- **7735**: You can having this. Looking like garbage, but it being important to us Moblins.
+- **7736**: Take it? [I'll take it./No thanks.]
+- **7737**: Good, good. You being smart. Very, very clever.
+- **7738**: Taking it, taking it. You being very stupid. You saying stupid things.
+- **7739**: Stupid people. You already having one. You don't needing two of the same thing.
+- **7741**: ... You figuring it out?
+- **7742**: Okay, okay. Don't being mad. You can having my treasure. It being very shiny. Very pretty.
 
 ## Events
 
@@ -145,13 +145,13 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7726*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7727*)
     → "This place being for garbage. No fires. No bombs."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7727*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7728*)
     → "Stupid people. You don't getting what I'm saying."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0010 [0x24] CREATE_DIALOG(message_id=7728*, default_option=0*, option_flags=0*)
+  7: 0x0010 [0x24] CREATE_DIALOG(message_id=7729*, default_option=0*, option_flags=0*)
     → "How do you respond? [Huh?/I getting you.]"
   8: 0x0017 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0018 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0028
@@ -159,10 +159,10 @@
  11: 0x0025 [0x01] GOTO 0x0040
  12: 0x0028 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0040
  13: 0x0030 [0x03] Work_Zone[1] = 2*
- 14: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
+ 14: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
     → "Do you really getting me? Okay. Killing bombs. Bringing $1."
  15: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
+ 16: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
     → "Five is being too many. No more than four. Can't having fires around here."
  17: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x003D [0x01] GOTO 0x0040
@@ -196,10 +196,10 @@ SUBROUTINE_0040:
   0: 0x0044 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0049 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
+  3: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7732*)
     → "Killing bombs. Bringing $1."
   4: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
+  5: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
     → "Five is being too many. No more than four. Can't having fires around here."
   6: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0053 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -244,22 +244,22 @@ SUBROUTINE_0040:
   1: 0x0058 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x005D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x005E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7732*)
+  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7733*)
     → "You bringing it! This being perfect! You not being so stupid after all."
   5: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7733*)
+  6: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7734*)
     → "Now what? You wanting something from me? I guess I should giving you a reward."
   7: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7734*)
+  8: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7735*)
     → "You can having this. Looking like garbage, but it being important to us Moblins."
   9: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x006B [0x24] CREATE_DIALOG(message_id=7735*, default_option=0*, option_flags=0*)
+ 10: 0x006B [0x24] CREATE_DIALOG(message_id=7736*, default_option=0*, option_flags=0*)
     → "Take it? [I'll take it./No thanks.]"
  11: 0x0072 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0073 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009A
  13: 0x007B [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0093
  14: 0x0083 [0x03] Work_Zone[1] = 6*
- 15: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7738*)
+ 15: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7739*)
     → "Stupid people. You already having one. You don't needing two of the same thing."
  16: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x008C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -278,10 +278,10 @@ SUBROUTINE_0097:
 
 SUBROUTINE_00BE:
  28: 0x00BE [0x03] Work_Zone[1] = 5*
- 29: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7740*)
+ 29: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7741*)
     → "... You figuring it out?"
  30: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7741*)
+ 31: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7742*)
     → "Okay, okay. Don't being mad. You can having my treasure. It being very shiny. Very pretty."
  32: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00CB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

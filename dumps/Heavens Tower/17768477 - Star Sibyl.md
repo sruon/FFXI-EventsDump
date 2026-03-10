@@ -264,22 +264,22 @@
 |      97 | 0x0BDC      |        3036 |
 |      98 | 0xB02C      |       45100 |
 |      99 | 0xAF00      |       44800 |
-|     100 | 0x1FE4      |        8164 |
-|     101 | 0x1FE5      |        8165 |
-|     102 | 0x1FE9      |        8169 |
-|     103 | 0x1FEC      |        8172 |
-|     104 | 0x1FEF      |        8175 |
-|     105 | 0x1FF0      |        8176 |
-|     106 | 0x1FF1      |        8177 |
-|     107 | 0x1FF2      |        8178 |
-|     108 | 0x1FF3      |        8179 |
-|     109 | 0x1FF5      |        8181 |
-|     110 | 0x1FF6      |        8182 |
-|     111 | 0x1FF7      |        8183 |
-|     112 | 0x1FF8      |        8184 |
-|     113 | 0x1FFF      |        8191 |
-|     114 | 0x2000      |        8192 |
-|     115 | 0x2001      |        8193 |
+|     100 | 0x1FE5      |        8165 |
+|     101 | 0x1FE6      |        8166 |
+|     102 | 0x1FEA      |        8170 |
+|     103 | 0x1FED      |        8173 |
+|     104 | 0x1FF0      |        8176 |
+|     105 | 0x1FF1      |        8177 |
+|     106 | 0x1FF2      |        8178 |
+|     107 | 0x1FF3      |        8179 |
+|     108 | 0x1FF4      |        8180 |
+|     109 | 0x1FF6      |        8182 |
+|     110 | 0x1FF7      |        8183 |
+|     111 | 0x1FF8      |        8184 |
+|     112 | 0x1FF9      |        8185 |
+|     113 | 0x2000      |        8192 |
+|     114 | 0x2001      |        8193 |
+|     115 | 0x2002      |        8194 |
 |     116 | 0x0B99      |        2969 |
 |     117 | 0x00F8      |         248 |
 |     118 | 0xADCF      |       44495 |
@@ -382,22 +382,22 @@
 - **483**: I am pleased to witness your safe return, <Player>.
 - **484**: I cannot express in words the gratitude that I, and the country of Windurst, feel for you.
 - **485**: For now, your duty is done. Until the stars call on you once again...
-- **8164**: Summoning is extraordinarily dangerous. We were not meant to experiment with such powers.
-- **8165**: The Orastery minister has tampered with the Horutoto Ruins without permission...I can no longer overlook his indiscretions.
-- **8169**: ...That kind of overwhelming power invites dreams of ambition that will lead to the destruction of our country.
-- **8172**: I was informed by the Sibyl Guards that you were with Ajido-Marujido at the time of his arrest.
-- **8175**: I see. Perhaps that is as it should be. ...However, the Windurst of today does not have the might to war with the beastmen as it did twenty years ago.
-- **8176**: No, do not try to hide it. Your eyes burn with the flames of a warrior's spirit. ...However, the Windurst of today does not have the might to war with the beastmen as it did twenty years ago.
-- **8177**: But I did not call you here to speak of war. You are here to atone for the crimes you have committed.
-- **8178**: Do not be concerned. With the great services you have performed for our nation, you will escape the fate that has befallen Ajido-Marujido.
-- **8179**: However, your transgression at the behest of the Orastery minister is more serious than you think... I cannot simply let this matter drop.
-- **8181**: This is an invitation to participate in the contest held at Balga's Dais in Giddeus. It is a tournament that pits the warriors of Windurst against the champions of the Yagudo in order to reinforce our bond of mutual trust.
-- **8182**: If you do not prevail against their champions in the contest, however, Windurst must increase her offerings to the Yagudo.
-- **8183**: You may have as many as six people participate in the tournament, as long as you all meet the requirements. Find those who have had experience fighting in the contest and enlist their assistance.
-- **8184**: ...... <Player>... I realize you must have little affection for me now, but let me say one thing.
-- **8191**: <Player>, you have returned. The Yagudo Holy One appears to be satisfied with the outcome of the contest.
-- **8192**: I now declare your crimes to be forgiven, and grant you your freedom.
-- **8193**: But this does not give you leave to speak of what you witnessed at the Full Moon Fountain. I ask you to keep these things locked tight within your heart.
+- **8165**: Summoning is extraordinarily dangerous. We were not meant to experiment with such powers.
+- **8166**: The Orastery minister has tampered with the Horutoto Ruins without permission...I can no longer overlook his indiscretions.
+- **8170**: ...That kind of overwhelming power invites dreams of ambition that will lead to the destruction of our country.
+- **8173**: I was informed by the Sibyl Guards that you were with Ajido-Marujido at the time of his arrest.
+- **8176**: I see. Perhaps that is as it should be. ...However, the Windurst of today does not have the might to war with the beastmen as it did twenty years ago.
+- **8177**: No, do not try to hide it. Your eyes burn with the flames of a warrior's spirit. ...However, the Windurst of today does not have the might to war with the beastmen as it did twenty years ago.
+- **8178**: But I did not call you here to speak of war. You are here to atone for the crimes you have committed.
+- **8179**: Do not be concerned. With the great services you have performed for our nation, you will escape the fate that has befallen Ajido-Marujido.
+- **8180**: However, your transgression at the behest of the Orastery minister is more serious than you think... I cannot simply let this matter drop.
+- **8182**: This is an invitation to participate in the contest held at Balga's Dais in Giddeus. It is a tournament that pits the warriors of Windurst against the champions of the Yagudo in order to reinforce our bond of mutual trust.
+- **8183**: If you do not prevail against their champions in the contest, however, Windurst must increase her offerings to the Yagudo.
+- **8184**: You may have as many as six people participate in the tournament, as long as you all meet the requirements. Find those who have had experience fighting in the contest and enlist their assistance.
+- **8185**: ...... <Player>... I realize you must have little affection for me now, but let me say one thing.
+- **8192**: <Player>, you have returned. The Yagudo Holy One appears to be satisfied with the outcome of the contest.
+- **8193**: I now declare your crimes to be forgiven, and grant you your freedom.
+- **8194**: But this does not give you leave to speak of what you witnessed at the Full Moon Fountain. I ask you to keep these things locked tight within your heart.
 
 ## Events
 
@@ -3175,10 +3175,10 @@
 
 ```
   0: 0x05E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x01)
-  1: 0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8164*)
+  1: 0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8165*)
     → "Summoning is extraordinarily dangerous. We were not meant to experiment with such powers."
   2: 0x05EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x05EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8165*)
+  3: 0x05EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8166*)
     → "The Orastery minister has tampered with the Horutoto Ruins without permission...I can no longer overlook his indiscretions."
   4: 0x05EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x05EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x02)
@@ -3204,7 +3204,7 @@
 #### Opcodes
 
 ```
-  0: 0x05F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8169*)
+  0: 0x05F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8170*)
     → "...That kind of overwhelming power invites dreams of ambition that will lead to the destruction of our country."
   1: 0x05FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05FB [0x00] END_REQSTACK()
@@ -3230,7 +3230,7 @@
 #### Opcodes
 
 ```
-  0: 0x05FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
+  0: 0x05FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
     → "I was informed by the Sibyl Guards that you were with Ajido-Marujido at the time of his arrest."
   1: 0x05FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0600 [0x00] END_REQSTACK()
@@ -3257,7 +3257,7 @@
 
 ```
   0: 0x0601 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x01)
-  1: 0x0608 [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
+  1: 0x0608 [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
     → "I see. Perhaps that is as it should be. ...However, the Windurst of today does not have the might to war with the beastmen as it did twenty years ago."
   2: 0x060B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x060C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x02)
@@ -3285,7 +3285,7 @@
 
 ```
   0: 0x0614 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x01)
-  1: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
+  1: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
     → "No, do not try to hide it. Your eyes burn with the flames of a warrior's spirit. ...However, the Windurst of today does not have the might to war with the beastmen as it did twenty years ago."
   2: 0x061E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x061F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x02)
@@ -3311,7 +3311,7 @@
 #### Opcodes
 
 ```
-  0: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
+  0: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
     → "But I did not call you here to speak of war. You are here to atone for the crimes you have committed."
   1: 0x062A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x062B [0x00] END_REQSTACK()
@@ -3338,7 +3338,7 @@
 
 ```
   0: 0x062C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x03)
-  1: 0x0633 [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
+  1: 0x0633 [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
     → "Do not be concerned. With the great services you have performed for our nation, you will escape the fate that has befallen Ajido-Marujido."
   2: 0x0636 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0637 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x04)
@@ -3365,7 +3365,7 @@
 #### Opcodes
 
 ```
-  0: 0x063F [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
+  0: 0x063F [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
     → "However, your transgression at the behest of the Orastery minister is more serious than you think... I cannot simply let this matter drop."
   1: 0x0642 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0643 [0x00] END_REQSTACK()
@@ -3392,7 +3392,7 @@
 
 ```
   0: 0x0644 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x03)
-  1: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=8181*)
+  1: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
     → "This is an invitation to participate in the contest held at Balga's Dais in Giddeus. It is a tournament that pits the warriors of Windurst against the champions of the Yagudo in order to reinforce our bond of mutual trust."
   2: 0x064E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x064F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x04)
@@ -3418,7 +3418,7 @@
 #### Opcodes
 
 ```
-  0: 0x0657 [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
+  0: 0x0657 [0x1D] PRINT_EVENT_MESSAGE(message_id=8183*)
     → "If you do not prevail against their champions in the contest, however, Windurst must increase her offerings to the Yagudo."
   1: 0x065A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x065B [0x00] END_REQSTACK()
@@ -3444,7 +3444,7 @@
 #### Opcodes
 
 ```
-  0: 0x065C [0x1D] PRINT_EVENT_MESSAGE(message_id=8183*)
+  0: 0x065C [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
     → "You may have as many as six people participate in the tournament, as long as you all meet the requirements. Find those who have had experience fighting in the contest and enlist their assistance."
   1: 0x065F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0660 [0x00] END_REQSTACK()
@@ -3471,7 +3471,7 @@
 
 ```
   0: 0x0661 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x05)
-  1: 0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+  1: 0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "...... <Player>... I realize you must have little affection for me now, but let me say one thing."
   2: 0x066B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x066C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x06)
@@ -3521,7 +3521,7 @@
 
 ```
   0: 0x0675 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x07)
-  1: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=8191*)
+  1: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=8192*)
     → "<Player>, you have returned. The Yagudo Holy One appears to be satisfied with the outcome of the contest."
   2: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0680 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x08)
@@ -3549,7 +3549,7 @@
 
 ```
   0: 0x0688 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x01)
-  1: 0x068F [0x1D] PRINT_EVENT_MESSAGE(message_id=8192*)
+  1: 0x068F [0x1D] PRINT_EVENT_MESSAGE(message_id=8193*)
     → "I now declare your crimes to be forgiven, and grant you your freedom."
   2: 0x0692 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0693 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x02)
@@ -3577,7 +3577,7 @@
 
 ```
   0: 0x069B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x03)
-  1: 0x06A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8193*)
+  1: 0x06A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8194*)
     → "But this does not give you leave to speak of what you witnessed at the Full Moon Fountain. I ask you to keep these things locked tight within your heart."
   2: 0x06A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x04)

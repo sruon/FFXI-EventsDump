@@ -33,9 +33,9 @@
 |       3 | 0x0017      |          23 |
 |       4 | 0x0011      |          17 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x24DC      |        9436 |
-|       7 | 0x24DD      |        9437 |
-|       8 | 0x2327      |        8999 |
+|       6 | 0x24E5      |        9445 |
+|       7 | 0x24E6      |        9446 |
+|       8 | 0x2330      |        9008 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x0003      |           3 |
@@ -43,15 +43,15 @@
 |      13 | 0x0005      |           5 |
 |      14 | 0x0006      |           6 |
 |      15 | 0x0007      |           7 |
-|      16 | 0x24E1      |        9441 |
+|      16 | 0x24EA      |        9450 |
 |      17 | 0x00C8      |         200 |
 |      18 | 0x0120      |         288 |
 |      19 | 0x003C      |          60 |
 |      20 | 0x005A      |          90 |
 |      21 | 0xFFFFFFFF  |  4294967295 |
-|      22 | 0x24F0      |        9456 |
-|      23 | 0x24FB      |        9467 |
-|      24 | 0x24FA      |        9466 |
+|      22 | 0x24F9      |        9465 |
+|      23 | 0x2504      |        9476 |
+|      24 | 0x2503      |        9475 |
 |      25 | 0x0009      |           9 |
 |      26 | 0x001B      |          27 |
 |      27 | 0x0019      |          25 |
@@ -65,46 +65,46 @@
 |      35 | 0x00DF      |         223 |
 |      36 | 0x0023      |          35 |
 |      37 | 0x0090      |         144 |
-|      38 | 0x24DE      |        9438 |
-|      39 | 0x24E0      |        9440 |
-|      40 | 0x24DF      |        9439 |
+|      38 | 0x24E7      |        9447 |
+|      39 | 0x24E9      |        9449 |
+|      40 | 0x24E8      |        9448 |
 |      41 | 0x0020      |          32 |
 |      42 | 0x001F      |          31 |
-|      43 | 0x232B      |        9003 |
+|      43 | 0x2334      |        9012 |
 |      44 | 0x0014      |          20 |
 |      45 | 0x000C      |          12 |
 |      46 | 0x000D      |          13 |
-|      47 | 0x232C      |        9004 |
+|      47 | 0x2335      |        9013 |
 |      48 | 0x0078      |         120 |
-|      49 | 0x250B      |        9483 |
-|      50 | 0x24E2      |        9442 |
-|      51 | 0x24E3      |        9443 |
-|      52 | 0x24E4      |        9444 |
-|      53 | 0x24E5      |        9445 |
-|      54 | 0x24E6      |        9446 |
+|      49 | 0x2514      |        9492 |
+|      50 | 0x24EB      |        9451 |
+|      51 | 0x24EC      |        9452 |
+|      52 | 0x24ED      |        9453 |
+|      53 | 0x24EE      |        9454 |
+|      54 | 0x24EF      |        9455 |
 |      55 | 0x000A      |          10 |
-|      56 | 0x24E7      |        9447 |
-|      57 | 0x24E8      |        9448 |
-|      58 | 0x24E9      |        9449 |
+|      56 | 0x24F0      |        9456 |
+|      57 | 0x24F1      |        9457 |
+|      58 | 0x24F2      |        9458 |
 |      59 | 0x03E7      |         999 |
-|      60 | 0x24EE      |        9454 |
-|      61 | 0x24EC      |        9452 |
-|      62 | 0x24ED      |        9453 |
+|      60 | 0x24F7      |        9463 |
+|      61 | 0x24F5      |        9461 |
+|      62 | 0x24F6      |        9462 |
 |      63 | 0x0064      |         100 |
-|      64 | 0x24EA      |        9450 |
+|      64 | 0x24F3      |        9459 |
 |      65 | 0x000B      |          11 |
 |      66 | 0x0016      |          22 |
-|      67 | 0x24EB      |        9451 |
-|      68 | 0x2504      |        9476 |
-|      69 | 0x24F1      |        9457 |
-|      70 | 0x24F2      |        9458 |
-|      71 | 0x24F3      |        9459 |
-|      72 | 0x24F4      |        9460 |
-|      73 | 0x24F5      |        9461 |
-|      74 | 0x24F6      |        9462 |
-|      75 | 0x24F7      |        9463 |
-|      76 | 0x24F8      |        9464 |
-|      77 | 0x24F9      |        9465 |
+|      67 | 0x24F4      |        9460 |
+|      68 | 0x250D      |        9485 |
+|      69 | 0x24FA      |        9466 |
+|      70 | 0x24FB      |        9467 |
+|      71 | 0x24FC      |        9468 |
+|      72 | 0x24FD      |        9469 |
+|      73 | 0x24FE      |        9470 |
+|      74 | 0x24FF      |        9471 |
+|      75 | 0x2500      |        9472 |
+|      76 | 0x2501      |        9473 |
+|      77 | 0x2502      |        9474 |
 |      78 | 0x0028      |          40 |
 |      79 | 0x002D      |          45 |
 |      80 | 0x0032      |          50 |
@@ -189,133 +189,133 @@
 |     159 | 0x0960      |        2400 |
 |     160 | 0x0961      |        2401 |
 |     161 | 0x00FF      |         255 |
-|     162 | 0x2507      |        9479 |
-|     163 | 0x2508      |        9480 |
-|     164 | 0x24FE      |        9470 |
-|     165 | 0x24FF      |        9471 |
-|     166 | 0x2500      |        9472 |
-|     167 | 0x2501      |        9473 |
-|     168 | 0x2509      |        9481 |
-|     169 | 0x250A      |        9482 |
-|     170 | 0x2502      |        9474 |
-|     171 | 0x2503      |        9475 |
-|     172 | 0x251E      |        9502 |
-|     173 | 0x2520      |        9504 |
-|     174 | 0x2522      |        9506 |
-|     175 | 0x2524      |        9508 |
-|     176 | 0x2526      |        9510 |
-|     177 | 0x2528      |        9512 |
-|     178 | 0x252A      |        9514 |
-|     179 | 0x252C      |        9516 |
-|     180 | 0x252E      |        9518 |
-|     181 | 0x2530      |        9520 |
-|     182 | 0x2532      |        9522 |
-|     183 | 0x2534      |        9524 |
-|     184 | 0x2536      |        9526 |
-|     185 | 0x2538      |        9528 |
-|     186 | 0x253A      |        9530 |
-|     187 | 0x253C      |        9532 |
-|     188 | 0x253E      |        9534 |
-|     189 | 0x2540      |        9536 |
-|     190 | 0x2542      |        9538 |
-|     191 | 0x2544      |        9540 |
-|     192 | 0x2546      |        9542 |
-|     193 | 0x2548      |        9544 |
-|     194 | 0x254A      |        9546 |
-|     195 | 0x254C      |        9548 |
-|     196 | 0x254E      |        9550 |
-|     197 | 0x2550      |        9552 |
-|     198 | 0x2552      |        9554 |
-|     199 | 0x2554      |        9556 |
-|     200 | 0x2556      |        9558 |
-|     201 | 0x2558      |        9560 |
-|     202 | 0x255A      |        9562 |
-|     203 | 0x255C      |        9564 |
-|     204 | 0x255E      |        9566 |
-|     205 | 0x2560      |        9568 |
-|     206 | 0x2562      |        9570 |
-|     207 | 0x2564      |        9572 |
-|     208 | 0x2566      |        9574 |
-|     209 | 0x2568      |        9576 |
-|     210 | 0x256A      |        9578 |
-|     211 | 0x256C      |        9580 |
-|     212 | 0x256E      |        9582 |
-|     213 | 0x2570      |        9584 |
-|     214 | 0x2572      |        9586 |
-|     215 | 0x2574      |        9588 |
-|     216 | 0x2576      |        9590 |
-|     217 | 0x2578      |        9592 |
-|     218 | 0x257A      |        9594 |
-|     219 | 0x257C      |        9596 |
-|     220 | 0x257E      |        9598 |
-|     221 | 0x2580      |        9600 |
-|     222 | 0x2582      |        9602 |
-|     223 | 0x2584      |        9604 |
-|     224 | 0x2586      |        9606 |
-|     225 | 0x2588      |        9608 |
-|     226 | 0x258A      |        9610 |
-|     227 | 0x258C      |        9612 |
-|     228 | 0x258E      |        9614 |
-|     229 | 0x2590      |        9616 |
-|     230 | 0x2592      |        9618 |
-|     231 | 0x2594      |        9620 |
-|     232 | 0x2596      |        9622 |
-|     233 | 0x2598      |        9624 |
-|     234 | 0x259A      |        9626 |
-|     235 | 0x259C      |        9628 |
-|     236 | 0x24FC      |        9468 |
-|     237 | 0x24FD      |        9469 |
+|     162 | 0x2510      |        9488 |
+|     163 | 0x2511      |        9489 |
+|     164 | 0x2507      |        9479 |
+|     165 | 0x2508      |        9480 |
+|     166 | 0x2509      |        9481 |
+|     167 | 0x250A      |        9482 |
+|     168 | 0x2512      |        9490 |
+|     169 | 0x2513      |        9491 |
+|     170 | 0x250B      |        9483 |
+|     171 | 0x250C      |        9484 |
+|     172 | 0x2527      |        9511 |
+|     173 | 0x2529      |        9513 |
+|     174 | 0x252B      |        9515 |
+|     175 | 0x252D      |        9517 |
+|     176 | 0x252F      |        9519 |
+|     177 | 0x2531      |        9521 |
+|     178 | 0x2533      |        9523 |
+|     179 | 0x2535      |        9525 |
+|     180 | 0x2537      |        9527 |
+|     181 | 0x2539      |        9529 |
+|     182 | 0x253B      |        9531 |
+|     183 | 0x253D      |        9533 |
+|     184 | 0x253F      |        9535 |
+|     185 | 0x2541      |        9537 |
+|     186 | 0x2543      |        9539 |
+|     187 | 0x2545      |        9541 |
+|     188 | 0x2547      |        9543 |
+|     189 | 0x2549      |        9545 |
+|     190 | 0x254B      |        9547 |
+|     191 | 0x254D      |        9549 |
+|     192 | 0x254F      |        9551 |
+|     193 | 0x2551      |        9553 |
+|     194 | 0x2553      |        9555 |
+|     195 | 0x2555      |        9557 |
+|     196 | 0x2557      |        9559 |
+|     197 | 0x2559      |        9561 |
+|     198 | 0x255B      |        9563 |
+|     199 | 0x255D      |        9565 |
+|     200 | 0x255F      |        9567 |
+|     201 | 0x2561      |        9569 |
+|     202 | 0x2563      |        9571 |
+|     203 | 0x2565      |        9573 |
+|     204 | 0x2567      |        9575 |
+|     205 | 0x2569      |        9577 |
+|     206 | 0x256B      |        9579 |
+|     207 | 0x256D      |        9581 |
+|     208 | 0x256F      |        9583 |
+|     209 | 0x2571      |        9585 |
+|     210 | 0x2573      |        9587 |
+|     211 | 0x2575      |        9589 |
+|     212 | 0x2577      |        9591 |
+|     213 | 0x2579      |        9593 |
+|     214 | 0x257B      |        9595 |
+|     215 | 0x257D      |        9597 |
+|     216 | 0x257F      |        9599 |
+|     217 | 0x2581      |        9601 |
+|     218 | 0x2583      |        9603 |
+|     219 | 0x2585      |        9605 |
+|     220 | 0x2587      |        9607 |
+|     221 | 0x2589      |        9609 |
+|     222 | 0x258B      |        9611 |
+|     223 | 0x258D      |        9613 |
+|     224 | 0x258F      |        9615 |
+|     225 | 0x2591      |        9617 |
+|     226 | 0x2593      |        9619 |
+|     227 | 0x2595      |        9621 |
+|     228 | 0x2597      |        9623 |
+|     229 | 0x2599      |        9625 |
+|     230 | 0x259B      |        9627 |
+|     231 | 0x259D      |        9629 |
+|     232 | 0x259F      |        9631 |
+|     233 | 0x25A1      |        9633 |
+|     234 | 0x25A3      |        9635 |
+|     235 | 0x25A5      |        9637 |
+|     236 | 0x2505      |        9477 |
+|     237 | 0x2506      |        9478 |
 
 ## String References
 
-- **8999**: Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
-- **9003**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **9004**: Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]
-- **9436**: I am currently accepting chocobets for the following race:
-- **9437**: What would you like to do? [Visit the paddock./See a list of the chocobos./Check the toteboard./Purchase a chocobet ticket./Get an explanation./Quit.]
-- **9438**: Entry No. $0 \` %1 \`
-- **9439**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: $3
-- **9440**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: None
-- **9441**: The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-].
-- **9442**: The current odds are as follows:
-- **9443**: Please select the two chocobos that you think will place first and second.
-- **9444**: [First/Second]:
-- **9445**: Which chocobo would you like to select? [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
-- **9446**: I'm sorry, [sir/ma'am], but you have already selected that chocobo.
-- **9447**: You have selected Entries No. $0 and No. $1. This pairing will pay back $2 gil on each quill.
-- **9448**: Proceed? [Yes./No.]
-- **9449**: Your chocobet ticket will cost 100 gil per quill. How many quills would you like to purchase?
-- **9450**: $1 [quill/quills] brings your total to $2 gil. Would you care to proceed?
-- **9451**: Best of luck! Thank you for your patronage.
-- **9452**: Are you having second thoughts?
-- **9453**: Cancel your bet? [Yes, this doesn't feel right.../No, no, no! Let it ride!]
-- **9454**: You can only purchase up to 999 quills on a single chocobet ticket.
-- **9456**: I'm sorry, [sir/ma'am], but I am currently not accepting chocobets.
-- **9457**: What topic would you like clarification on? [Chocobet tickets./Winnings./Quit./Return.]
-- **9458**: When purchasing a chocobet ticket, you will be asked to place a quinella bet. This means that you will choose the two chocobos that you think will place first and second. If you are lucky enough to win, you may then exchange the ticket and collect your winnings.
-- **9459**: In our current chocobet system, as long as your two picks finish in the top two, the order doesn't matter.
-- **9460**: The size of a chocobet ticket is measured in quills. One quill costs 100 gil, and a single ticket can contain up to 999 quills. Try it once, and you'll get hooked for sure!
-- **9461**: You can stand to make quite a profit if you buy a chocobet ticket and it hits!
-- **9462**: The fewer the bettors who have selected the same chocobos as you, the greater your winnings will be! In the industry, we call those the "odds."
-- **9463**: You can always check the current odds when you place a chocobet. However, the odds are always apt to change right up until the chocobet window closes for that race. So be careful!
-- **9464**: To collect your winnings, simply bring your chocobet ticket back to any of us here at the betting center.
-- **9465**: However, you should know that a winning chocobet ticket is only valid for one week following completion of the race. After that, it will expire, so be sure to cash it in before then!
-- **9466**: Attention, bettors! Only $0 [minute/minutes] remaining to place your chocobets!
-- **9467**: Attention, bettors! Last call! Last call for chocobets!
-- **9468**: I'm sorry, [sir/ma'am], but we are currently not accepting chocobets.
-- **9469**: Bettors may now cash in their chocobet tickets. Please come forward with your winning stubs.
-- **9470**: This chocobet ticket is worth $0 gil. Would you like to cash it in now?
-- **9471**: Collect your winnings? [Yes./No.]
-- **9472**: Very well. Here is your ticket back then, [sir/ma'am]. Next!
-- **9473**: Unfortunately, this is what we call a "losing ticket." More specifically, the chocobos you selected didn't win. Better luck next time!
-- **9474**: The one-week grace period on your chocobet ticket has expired. Regrettably, we are unable to cash you out...
-- **9475**: The outcome of that race is not yet decided. Please come back after the race is finished. Good luck!
-- **9476**: Unfortunately, there was an error in the processing of your chocobet. Please place your bet again.
-- **9479**: You wish to inquire as to the status of your chocobet ticket? Very well; one moment, please.
-- **9480**: The results for that race are in. The top two chocobos were No. $1 and No. $2.
-- **9481**: Would you like me to process your chocobet ticket?
-- **9482**: Have your ticket processed? [Yes, please./Not now, thank you.]
-- **9483**: The following is a list of the chocobos entered in the race.
+- **9008**: Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
+- **9012**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **9013**: Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]
+- **9445**: I am currently accepting chocobets for the following race:
+- **9446**: What would you like to do? [Visit the paddock./See a list of the chocobos./Check the toteboard./Purchase a chocobet ticket./Get an explanation./Quit.]
+- **9447**: Entry No. $0 \` %1 \`
+- **9448**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: $3
+- **9449**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: None
+- **9450**: The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-].
+- **9451**: The current odds are as follows:
+- **9452**: Please select the two chocobos that you think will place first and second.
+- **9453**: [First/Second]:
+- **9454**: Which chocobo would you like to select? [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
+- **9455**: I'm sorry, [sir/ma'am], but you have already selected that chocobo.
+- **9456**: You have selected Entries No. $0 and No. $1. This pairing will pay back $2 gil on each quill.
+- **9457**: Proceed? [Yes./No.]
+- **9458**: Your chocobet ticket will cost 100 gil per quill. How many quills would you like to purchase?
+- **9459**: $1 [quill/quills] brings your total to $2 gil. Would you care to proceed?
+- **9460**: Best of luck! Thank you for your patronage.
+- **9461**: Are you having second thoughts?
+- **9462**: Cancel your bet? [Yes, this doesn't feel right.../No, no, no! Let it ride!]
+- **9463**: You can only purchase up to 999 quills on a single chocobet ticket.
+- **9465**: I'm sorry, [sir/ma'am], but I am currently not accepting chocobets.
+- **9466**: What topic would you like clarification on? [Chocobet tickets./Winnings./Quit./Return.]
+- **9467**: When purchasing a chocobet ticket, you will be asked to place a quinella bet. This means that you will choose the two chocobos that you think will place first and second. If you are lucky enough to win, you may then exchange the ticket and collect your winnings.
+- **9468**: In our current chocobet system, as long as your two picks finish in the top two, the order doesn't matter.
+- **9469**: The size of a chocobet ticket is measured in quills. One quill costs 100 gil, and a single ticket can contain up to 999 quills. Try it once, and you'll get hooked for sure!
+- **9470**: You can stand to make quite a profit if you buy a chocobet ticket and it hits!
+- **9471**: The fewer the bettors who have selected the same chocobos as you, the greater your winnings will be! In the industry, we call those the "odds."
+- **9472**: You can always check the current odds when you place a chocobet. However, the odds are always apt to change right up until the chocobet window closes for that race. So be careful!
+- **9473**: To collect your winnings, simply bring your chocobet ticket back to any of us here at the betting center.
+- **9474**: However, you should know that a winning chocobet ticket is only valid for one week following completion of the race. After that, it will expire, so be sure to cash it in before then!
+- **9475**: Attention, bettors! Only $0 [minute/minutes] remaining to place your chocobets!
+- **9476**: Attention, bettors! Last call! Last call for chocobets!
+- **9477**: I'm sorry, [sir/ma'am], but we are currently not accepting chocobets.
+- **9478**: Bettors may now cash in their chocobet tickets. Please come forward with your winning stubs.
+- **9479**: This chocobet ticket is worth $0 gil. Would you like to cash it in now?
+- **9480**: Collect your winnings? [Yes./No.]
+- **9481**: Very well. Here is your ticket back then, [sir/ma'am]. Next!
+- **9482**: Unfortunately, this is what we call a "losing ticket." More specifically, the chocobos you selected didn't win. Better luck next time!
+- **9483**: The one-week grace period on your chocobet ticket has expired. Regrettably, we are unable to cash you out...
+- **9484**: The outcome of that race is not yet decided. Please come back after the race is finished. Good luck!
+- **9485**: Unfortunately, there was an error in the processing of your chocobet. Please place your bet again.
+- **9488**: You wish to inquire as to the status of your chocobet ticket? Very well; one moment, please.
+- **9489**: The results for that race are in. The top two chocobos were No. $1 and No. $2.
+- **9490**: Would you like me to process your chocobet ticket?
+- **9491**: Have your ticket processed? [Yes, please./Not now, thank you.]
+- **9492**: The following is a list of the chocobos entered in the race.
 
 ## Events
 
@@ -590,7 +590,7 @@
   9: 0x0034 [0x03] ExtData[1]->WorkLocal[20] = Work_Zone[9]
  10: 0x0039 [0x1E] EventEntity looks at LocalPlayer and starts talking
  11: 0x003E [0x1C] WAIT(30* ticks)
- 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=9436*)
+ 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=9445*)
     → "I am currently accepting chocobets for the following race:"
  13: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0045 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
@@ -598,7 +598,7 @@
  16: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=ExtData[1]->WorkLocal[17])
  17: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0056 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 19: 0x0057 [0x24] CREATE_DIALOG(message_id=9437*, default_option=0*, option_flags=0*)
+ 19: 0x0057 [0x24] CREATE_DIALOG(message_id=9446*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Visit the paddock./See a list of the chocobos./Check the toteboard./Purchase a chocobet ticket./Get an explanation./Quit.]"
  20: 0x005E [0x25] WAIT_DIALOG_SELECT()
  21: 0x005F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x048B
@@ -606,7 +606,7 @@
  23: 0x0068 [0x06] ExtData[1]->WorkLocal[0] = 0
  24: 0x006B [0x03] ExtData[1]->WorkLocal[1] = 8*
  25: 0x0070 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0487
- 26: 0x0078 [0x24] CREATE_DIALOG(message_id=8999*, default_option=0*, option_flags=0*)
+ 26: 0x0078 [0x24] CREATE_DIALOG(message_id=9008*, default_option=0*, option_flags=0*)
     → "Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]"
  27: 0x007F [0x25] WAIT_DIALOG_SELECT()
  28: 0x0080 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0090
@@ -639,7 +639,7 @@
  55: 0x0113 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x0120
  56: 0x011B [0x03] ExtData[1]->WorkLocal[12] = 1*
  57: 0x0120 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
- 58: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=9441*)
+ 58: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=9450*)
     → "The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-]."
  59: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -661,16 +661,16 @@ SUBROUTINE_0129:
  74: 0x01AC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  75: 0x01AE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  76: 0x01B0 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x01BF
- 77: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
+ 77: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9465*)
     → "I'm sorry, [sir/ma'am], but I am currently not accepting chocobets."
  78: 0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x01BC [0x01] GOTO 0x01D2
  80: 0x01BF [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x01CE
- 81: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
+ 81: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9476*)
     → "Attention, bettors! Last call! Last call for chocobets!"
  82: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x01CB [0x01] GOTO 0x01D2
- 84: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=9466*)
+ 84: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=9475*)
     → "Attention, bettors! Only $0 [minute/minutes] remaining to place your chocobets!"
  85: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -751,18 +751,18 @@ SUBROUTINE_0345:
 149: 0x03BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [Unnamed NPC (ID: 17063975/0x01046027), Unnamed NPC (ID: 17063975/0x01046027)], work=[144*, 0*]
 150: 0x03CD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 151: 0x03D2 [0x07] Work_Zone[2] += 1*
-152: 0x03D7 [0x48] [System] [9438*]:
+152: 0x03D7 [0x48] [System] [9447*]:
     → "Entry No. $0 ` %1 `"
 153: 0x03DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x03DB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
 155: 0x03E0 [0x9D] Work_Zone[5] = 0x0AF6[ExtData[1]->WorkLocal[9]] // Read WORD
 156: 0x03E8 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
 157: 0x03ED [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x03FC
-158: 0x03F5 [0x48] [System] [9440*]:
+158: 0x03F5 [0x48] [System] [9449*]:
     → "Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: None"
 159: 0x03F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x03F9 [0x01] GOTO 0x0400
-161: 0x03FC [0x48] [System] [9439*]:
+161: 0x03FC [0x48] [System] [9448*]:
     → "Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: $3"
 162: 0x03FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -775,13 +775,13 @@ SUBROUTINE_0400:
 168: 0x0425 [0x15] Work_Zone[4] /= 32*
 169: 0x042A [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[10] (bits 24*-31*)
 170: 0x0433 [0x15] Work_Zone[5] /= 32*
-171: 0x0438 [0x48] [System] [9003*]:
+171: 0x0438 [0x48] [System] [9012*]:
     → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 172: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x043C [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[11] (bits 20*-23*)
 174: 0x0445 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[11] (bits 9*-12*)
 175: 0x044E [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[11] (bits 13*-16*)
-176: 0x0457 [0x48] [System] [9004*]:
+176: 0x0457 [0x48] [System] [9013*]:
     → "Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]"
 177: 0x045A [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x045B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "nak0" with entities [Unnamed NPC (ID: 17063975/0x01046027), Unnamed NPC (ID: 17063975/0x01046027)], work=223*
@@ -798,24 +798,24 @@ SUBROUTINE_0400:
 189: 0x0499 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 190: 0x049B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 191: 0x049D [0xB4] UI_WINDOW_STRING_HANDLER(case=0x11 - Open chocobo racing card window, work_offset1=Work_Zone[9], work_offset2=Work_Zone[7])
-192: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9483*)
+192: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9492*)
     → "The following is a list of the chocobos entered in the race."
 193: 0x04A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x04A7 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x12 - Close chocobo racing card window, work_offset1=0*, work_offset2=0*)
 195: 0x04AD [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x04BA
 196: 0x04B5 [0x03] ExtData[1]->WorkLocal[12] = 1*
 197: 0x04BA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-198: 0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=9441*)
+198: 0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=9450*)
     → "The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-]."
 199: 0x04C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x04C3 [0x01] GOTO 0x0056
 
 SUBROUTINE_04FD:
 201: 0x04FD [0x03] Work_Zone[4] = 1*
-202: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=9444*)
+202: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=9453*)
     → "[First/Second]:"
 203: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
-204: 0x0506 [0x24] CREATE_DIALOG(message_id=9445*, default_option=0*, option_flags=0*)
+204: 0x0506 [0x24] CREATE_DIALOG(message_id=9454*, default_option=0*, option_flags=0*)
     → "Which chocobo would you like to select? [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]"
 205: 0x050D [0x25] WAIT_DIALOG_SELECT()
 206: 0x050E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x051E
@@ -847,16 +847,16 @@ SUBROUTINE_04FD:
 232: 0x059B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 233: 0x059D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 234: 0x059F [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x05AE
-235: 0x05A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
+235: 0x05A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9465*)
     → "I'm sorry, [sir/ma'am], but I am currently not accepting chocobets."
 236: 0x05AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x05AB [0x01] GOTO 0x05C1
 238: 0x05AE [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x05BD
-239: 0x05B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
+239: 0x05B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9476*)
     → "Attention, bettors! Last call! Last call for chocobets!"
 240: 0x05B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x05BA [0x01] GOTO 0x05C1
-242: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9466*)
+242: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9475*)
     → "Attention, bettors! Only $0 [minute/minutes] remaining to place your chocobets!"
 243: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -868,10 +868,10 @@ SUBROUTINE_05D4:
 246: 0x05D4 [0x06] Work_Zone_1700[22] = 0
 247: 0x05D7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[22], bit_index_work_offset=ExtData[1]->WorkLocal[14], condition_work_offset=1*)
 248: 0x05DE [0x03] Work_Zone[4] = 2*
-249: 0x05E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9444*)
+249: 0x05E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9453*)
     → "[First/Second]:"
 250: 0x05E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-251: 0x05E7 [0x24] CREATE_DIALOG(message_id=9445*, default_option=0*, option_flags=Work_Zone_1700[22])
+251: 0x05E7 [0x24] CREATE_DIALOG(message_id=9454*, default_option=0*, option_flags=Work_Zone_1700[22])
     → "Which chocobo would you like to select? [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]"
 252: 0x05EE [0x25] WAIT_DIALOG_SELECT()
 253: 0x05EF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05FF
@@ -903,16 +903,16 @@ SUBROUTINE_05D4:
 279: 0x067C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 280: 0x067E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 281: 0x0680 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x068F
-282: 0x0688 [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
+282: 0x0688 [0x1D] PRINT_EVENT_MESSAGE(message_id=9465*)
     → "I'm sorry, [sir/ma'am], but I am currently not accepting chocobets."
 283: 0x068B [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x068C [0x01] GOTO 0x06A2
 285: 0x068F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x069E
-286: 0x0697 [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
+286: 0x0697 [0x1D] PRINT_EVENT_MESSAGE(message_id=9476*)
     → "Attention, bettors! Last call! Last call for chocobets!"
 287: 0x069A [0x23] WAIT_FOR_DIALOG_INTERACTION
 288: 0x069B [0x01] GOTO 0x06A2
-289: 0x069E [0x1D] PRINT_EVENT_MESSAGE(message_id=9466*)
+289: 0x069E [0x1D] PRINT_EVENT_MESSAGE(message_id=9475*)
     → "Attention, bettors! Only $0 [minute/minutes] remaining to place your chocobets!"
 290: 0x06A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -922,7 +922,7 @@ SUBROUTINE_06A2:
 
 SUBROUTINE_06B5:
 293: 0x06B5 [0x02] IF !(ExtData[1]->WorkLocal[14] == ExtData[1]->WorkLocal[15]) GOTO 0x06C4
-294: 0x06BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9446*)
+294: 0x06BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9455*)
     → "I'm sorry, [sir/ma'am], but you have already selected that chocobo."
 295: 0x06C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x06C1 [0x01] GOTO 0x05D4
@@ -936,14 +936,14 @@ SUBROUTINE_06B5:
 304: 0x06E5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
 305: 0x06EA [0x07] Work_Zone[2] += 1*
 306: 0x06EF [0x07] Work_Zone[3] += 1*
-307: 0x06F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9447*)
+307: 0x06F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
     → "You have selected Entries No. $0 and No. $1. This pairing will pay back $2 gil on each quill."
 308: 0x06F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-309: 0x06F8 [0x24] CREATE_DIALOG(message_id=9448*, default_option=1*, option_flags=0*)
+309: 0x06F8 [0x24] CREATE_DIALOG(message_id=9457*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
 310: 0x06FF [0x25] WAIT_DIALOG_SELECT()
 311: 0x0700 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0830
-312: 0x0708 [0x1D] PRINT_EVENT_MESSAGE(message_id=9449*)
+312: 0x0708 [0x1D] PRINT_EVENT_MESSAGE(message_id=9458*)
     → "Your chocobet ticket will cost 100 gil per quill. How many quills would you like to purchase?"
 313: 0x070B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -951,15 +951,15 @@ SUBROUTINE_070C:
 314: 0x070C [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=0*)
 315: 0x0710 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=ExtData[1]->WorkLocal[16])
 316: 0x0714 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 999*) GOTO 0x0723
-317: 0x071C [0x1D] PRINT_EVENT_MESSAGE(message_id=9454*)
+317: 0x071C [0x1D] PRINT_EVENT_MESSAGE(message_id=9463*)
     → "You can only purchase up to 999 quills on a single chocobet ticket."
 318: 0x071F [0x23] WAIT_FOR_DIALOG_INTERACTION
 319: 0x0720 [0x01] GOTO 0x082A
 320: 0x0723 [0x02] IF !(ExtData[1]->WorkLocal[16] == 0*) GOTO 0x0780
-321: 0x072B [0x1D] PRINT_EVENT_MESSAGE(message_id=9452*)
+321: 0x072B [0x1D] PRINT_EVENT_MESSAGE(message_id=9461*)
     → "Are you having second thoughts?"
 322: 0x072E [0x23] WAIT_FOR_DIALOG_INTERACTION
-323: 0x072F [0x24] CREATE_DIALOG(message_id=9453*, default_option=1*, option_flags=0*)
+323: 0x072F [0x24] CREATE_DIALOG(message_id=9462*, default_option=1*, option_flags=0*)
     → "Cancel your bet? [Yes, this doesn't feel right.../No, no, no! Let it ride!]"
 324: 0x0736 [0x25] WAIT_DIALOG_SELECT()
 325: 0x0737 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x076F
@@ -967,16 +967,16 @@ SUBROUTINE_070C:
 327: 0x0744 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 328: 0x0746 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 329: 0x0748 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0757
-330: 0x0750 [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
+330: 0x0750 [0x1D] PRINT_EVENT_MESSAGE(message_id=9465*)
     → "I'm sorry, [sir/ma'am], but I am currently not accepting chocobets."
 331: 0x0753 [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x0754 [0x01] GOTO 0x076A
 333: 0x0757 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0766
-334: 0x075F [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
+334: 0x075F [0x1D] PRINT_EVENT_MESSAGE(message_id=9476*)
     → "Attention, bettors! Last call! Last call for chocobets!"
 335: 0x0762 [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x0763 [0x01] GOTO 0x076A
-337: 0x0766 [0x1D] PRINT_EVENT_MESSAGE(message_id=9466*)
+337: 0x0766 [0x1D] PRINT_EVENT_MESSAGE(message_id=9475*)
     → "Attention, bettors! Only $0 [minute/minutes] remaining to place your chocobets!"
 338: 0x0769 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -989,10 +989,10 @@ SUBROUTINE_077D:
 342: 0x0780 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 343: 0x0785 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[16]
 344: 0x078A [0x14] Work_Zone[4] *= 100*
-345: 0x078F [0x1D] PRINT_EVENT_MESSAGE(message_id=9450*)
+345: 0x078F [0x1D] PRINT_EVENT_MESSAGE(message_id=9459*)
     → "$1 [quill/quills] brings your total to $2 gil. Would you care to proceed?"
 346: 0x0792 [0x23] WAIT_FOR_DIALOG_INTERACTION
-347: 0x0793 [0x24] CREATE_DIALOG(message_id=9448*, default_option=1*, option_flags=0*)
+347: 0x0793 [0x24] CREATE_DIALOG(message_id=9457*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
 348: 0x079A [0x25] WAIT_DIALOG_SELECT()
 349: 0x079B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x082A
@@ -1003,7 +1003,7 @@ SUBROUTINE_077D:
 354: 0x07C3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 355: 0x07C5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 356: 0x07C7 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x07D8
-357: 0x07CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9451*)
+357: 0x07CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9460*)
     → "Best of luck! Thank you for your patronage."
 358: 0x07D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 359: 0x07D3 [0x21] END_EVENT
@@ -1021,34 +1021,34 @@ SUBROUTINE_0830:
 365: 0x0831 [0x01] GOTO 0x04FD
 
 SUBROUTINE_083F:
-366: 0x083F [0x24] CREATE_DIALOG(message_id=9457*, default_option=0*, option_flags=0*)
+366: 0x083F [0x24] CREATE_DIALOG(message_id=9466*, default_option=0*, option_flags=0*)
     → "What topic would you like clarification on? [Chocobet tickets./Winnings./Quit./Return.]"
 367: 0x0846 [0x25] WAIT_DIALOG_SELECT()
 368: 0x0847 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x085E
-369: 0x084F [0x1D] PRINT_EVENT_MESSAGE(message_id=9458*)
+369: 0x084F [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
     → "When purchasing a chocobet ticket, you will be asked to place a quinella bet. This means that you will choose the two chocobos that you think will place first and second. If you are lucky enough to win, you may then exchange the ticket and collect your winnings."
 370: 0x0852 [0x23] WAIT_FOR_DIALOG_INTERACTION
-371: 0x0853 [0x1D] PRINT_EVENT_MESSAGE(message_id=9459*)
+371: 0x0853 [0x1D] PRINT_EVENT_MESSAGE(message_id=9468*)
     → "In our current chocobet system, as long as your two picks finish in the top two, the order doesn't matter."
 372: 0x0856 [0x23] WAIT_FOR_DIALOG_INTERACTION
-373: 0x0857 [0x1D] PRINT_EVENT_MESSAGE(message_id=9460*)
+373: 0x0857 [0x1D] PRINT_EVENT_MESSAGE(message_id=9469*)
     → "The size of a chocobet ticket is measured in quills. One quill costs 100 gil, and a single ticket can contain up to 999 quills. Try it once, and you'll get hooked for sure!"
 374: 0x085A [0x23] WAIT_FOR_DIALOG_INTERACTION
 375: 0x085B [0x01] GOTO 0x08C3
 376: 0x085E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x087D
-377: 0x0866 [0x1D] PRINT_EVENT_MESSAGE(message_id=9461*)
+377: 0x0866 [0x1D] PRINT_EVENT_MESSAGE(message_id=9470*)
     → "You can stand to make quite a profit if you buy a chocobet ticket and it hits!"
 378: 0x0869 [0x23] WAIT_FOR_DIALOG_INTERACTION
-379: 0x086A [0x1D] PRINT_EVENT_MESSAGE(message_id=9462*)
+379: 0x086A [0x1D] PRINT_EVENT_MESSAGE(message_id=9471*)
     → "The fewer the bettors who have selected the same chocobos as you, the greater your winnings will be! In the industry, we call those the "odds.""
 380: 0x086D [0x23] WAIT_FOR_DIALOG_INTERACTION
-381: 0x086E [0x1D] PRINT_EVENT_MESSAGE(message_id=9463*)
+381: 0x086E [0x1D] PRINT_EVENT_MESSAGE(message_id=9472*)
     → "You can always check the current odds when you place a chocobet. However, the odds are always apt to change right up until the chocobet window closes for that race. So be careful!"
 382: 0x0871 [0x23] WAIT_FOR_DIALOG_INTERACTION
-383: 0x0872 [0x1D] PRINT_EVENT_MESSAGE(message_id=9464*)
+383: 0x0872 [0x1D] PRINT_EVENT_MESSAGE(message_id=9473*)
     → "To collect your winnings, simply bring your chocobet ticket back to any of us here at the betting center."
 384: 0x0875 [0x23] WAIT_FOR_DIALOG_INTERACTION
-385: 0x0876 [0x1D] PRINT_EVENT_MESSAGE(message_id=9465*)
+385: 0x0876 [0x1D] PRINT_EVENT_MESSAGE(message_id=9474*)
     → "However, you should know that a winning chocobet ticket is only valid for one week following completion of the race. After that, it will expire, so be sure to cash it in before then!"
 386: 0x0879 [0x23] WAIT_FOR_DIALOG_INTERACTION
 387: 0x087A [0x01] GOTO 0x08C3
@@ -1057,16 +1057,16 @@ SUBROUTINE_083F:
 390: 0x088A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 391: 0x088C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 392: 0x088E [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x089D
-393: 0x0896 [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
+393: 0x0896 [0x1D] PRINT_EVENT_MESSAGE(message_id=9465*)
     → "I'm sorry, [sir/ma'am], but I am currently not accepting chocobets."
 394: 0x0899 [0x23] WAIT_FOR_DIALOG_INTERACTION
 395: 0x089A [0x01] GOTO 0x08B0
 396: 0x089D [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x08AC
-397: 0x08A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
+397: 0x08A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9476*)
     → "Attention, bettors! Last call! Last call for chocobets!"
 398: 0x08A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 399: 0x08A9 [0x01] GOTO 0x08B0
-400: 0x08AC [0x1D] PRINT_EVENT_MESSAGE(message_id=9466*)
+400: 0x08AC [0x1D] PRINT_EVENT_MESSAGE(message_id=9475*)
     → "Attention, bettors! Only $0 [minute/minutes] remaining to place your chocobets!"
 401: 0x08AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1082,16 +1082,16 @@ SUBROUTINE_08C9:
 406: 0x08CE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 407: 0x08D0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 408: 0x08D2 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x08E1
-409: 0x08DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
+409: 0x08DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9465*)
     → "I'm sorry, [sir/ma'am], but I am currently not accepting chocobets."
 410: 0x08DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 411: 0x08DE [0x01] GOTO 0x08F4
 412: 0x08E1 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x08F0
-413: 0x08E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
+413: 0x08E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9476*)
     → "Attention, bettors! Last call! Last call for chocobets!"
 414: 0x08EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 415: 0x08ED [0x01] GOTO 0x08F4
-416: 0x08F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9466*)
+416: 0x08F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9475*)
     → "Attention, bettors! Only $0 [minute/minutes] remaining to place your chocobets!"
 417: 0x08F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1343,47 +1343,47 @@ SUBROUTINE_08F4:
      0x0C30 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 4294963230/0xFFFFF01E))
      0x0C35 [0x7F] WAIT_DIALOG_SELECT_ALT()
      0x0C36 [0x1C] WAIT(30* ticks)
-     0x0C39 [0x1D] PRINT_EVENT_MESSAGE(message_id=9479*)
+     0x0C39 [0x1D] PRINT_EVENT_MESSAGE(message_id=9488*)
     → "You wish to inquire as to the status of your chocobet ticket? Very well; one moment, please."
      0x0C3C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C3D [0x03] Work_Zone[1] = 1*
      0x0C42 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0C44 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0C46 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0C52
-     0x0C4E [0x1D] PRINT_EVENT_MESSAGE(message_id=9480*)
+     0x0C4E [0x1D] PRINT_EVENT_MESSAGE(message_id=9489*)
     → "The results for that race are in. The top two chocobos were No. $1 and No. $2."
      0x0C51 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C52 [0x02] IF !(ExtData[1]->WorkLocal[21] == 0*) GOTO 0x0C66
-     0x0C5A [0x1D] PRINT_EVENT_MESSAGE(message_id=9476*)
+     0x0C5A [0x1D] PRINT_EVENT_MESSAGE(message_id=9485*)
     → "Unfortunately, there was an error in the processing of your chocobet. Please place your bet again."
      0x0C5D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C5E [0x03] Work_Zone[1] = 2*
      0x0C63 [0x01] GOTO 0x0D2B
      0x0C66 [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x0CA1
-     0x0C6E [0x1D] PRINT_EVENT_MESSAGE(message_id=9470*)
+     0x0C6E [0x1D] PRINT_EVENT_MESSAGE(message_id=9479*)
     → "This chocobet ticket is worth $0 gil. Would you like to cash it in now?"
      0x0C71 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0C72 [0x24] CREATE_DIALOG(message_id=9471*, default_option=1*, option_flags=0*)
+     0x0C72 [0x24] CREATE_DIALOG(message_id=9480*, default_option=1*, option_flags=0*)
     → "Collect your winnings? [Yes./No.]"
      0x0C79 [0x25] WAIT_DIALOG_SELECT()
      0x0C7A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C8A
      0x0C82 [0x03] Work_Zone[1] = 1*
      0x0C87 [0x01] GOTO 0x0C9E
      0x0C8A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C9E
-     0x0C92 [0x1D] PRINT_EVENT_MESSAGE(message_id=9472*)
+     0x0C92 [0x1D] PRINT_EVENT_MESSAGE(message_id=9481*)
     → "Very well. Here is your ticket back then, [sir/ma'am]. Next!"
      0x0C95 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C96 [0x03] Work_Zone[1] = 2*
      0x0C9B [0x01] GOTO 0x0C9E
      0x0C9E [0x01] GOTO 0x0D2B
      0x0CA1 [0x02] IF !(ExtData[1]->WorkLocal[21] == 2*) GOTO 0x0CDC
-     0x0CA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9473*)
+     0x0CA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9482*)
     → "Unfortunately, this is what we call a "losing ticket." More specifically, the chocobos you selected didn't win. Better luck next time!"
      0x0CAC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0CAD [0x1D] PRINT_EVENT_MESSAGE(message_id=9481*)
+     0x0CAD [0x1D] PRINT_EVENT_MESSAGE(message_id=9490*)
     → "Would you like me to process your chocobet ticket?"
      0x0CB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0CB1 [0x24] CREATE_DIALOG(message_id=9482*, default_option=1*, option_flags=0*)
+     0x0CB1 [0x24] CREATE_DIALOG(message_id=9491*, default_option=1*, option_flags=0*)
     → "Have your ticket processed? [Yes, please./Not now, thank you.]"
      0x0CB8 [0x25] WAIT_DIALOG_SELECT()
      0x0CB9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CC9
@@ -1394,13 +1394,13 @@ SUBROUTINE_08F4:
      0x0CD6 [0x01] GOTO 0x0CD9
      0x0CD9 [0x01] GOTO 0x0D2B
      0x0CDC [0x02] IF !(ExtData[1]->WorkLocal[21] == 3*) GOTO 0x0D17
-     0x0CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9474*)
+     0x0CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9483*)
     → "The one-week grace period on your chocobet ticket has expired. Regrettably, we are unable to cash you out..."
      0x0CE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0CE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9481*)
+     0x0CE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9490*)
     → "Would you like me to process your chocobet ticket?"
      0x0CEB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0CEC [0x24] CREATE_DIALOG(message_id=9482*, default_option=1*, option_flags=0*)
+     0x0CEC [0x24] CREATE_DIALOG(message_id=9491*, default_option=1*, option_flags=0*)
     → "Have your ticket processed? [Yes, please./Not now, thank you.]"
      0x0CF3 [0x25] WAIT_DIALOG_SELECT()
      0x0CF4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D04
@@ -1411,7 +1411,7 @@ SUBROUTINE_08F4:
      0x0D11 [0x01] GOTO 0x0D14
      0x0D14 [0x01] GOTO 0x0D2B
      0x0D17 [0x02] IF !(ExtData[1]->WorkLocal[21] == 4*) GOTO 0x0D2B
-     0x0D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=9475*)
+     0x0D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=9484*)
     → "The outcome of that race is not yet decided. Please come back after the race is finished. Good luck!"
      0x0D22 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D23 [0x03] Work_Zone[1] = 2*
@@ -1441,7 +1441,7 @@ SUBROUTINE_08F4:
 ```
   0: 0x0DAC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0DB1 [0x1C] WAIT(30* ticks)
-  2: 0x0DB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9468*)
+  2: 0x0DB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9477*)
     → "I'm sorry, [sir/ma'am], but we are currently not accepting chocobets."
   3: 0x0DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0DB8 [0x21] END_EVENT
@@ -1470,7 +1470,7 @@ SUBROUTINE_08F4:
 ```
   0: 0x0DBA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0DBF [0x1C] WAIT(30* ticks)
-  2: 0x0DC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9469*)
+  2: 0x0DC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9478*)
     → "Bettors may now cash in their chocobet tickets. Please come forward with your winning stubs."
   3: 0x0DC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0DC6 [0x21] END_EVENT

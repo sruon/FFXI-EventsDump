@@ -22,25 +22,25 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFFFFFC  |  4294967292 |
-|       1 | 0x1E5A      |        7770 |
+|       1 | 0x1E5B      |        7771 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C9      |         201 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x008A      |         138 |
-|       6 | 0x1E54      |        7764 |
-|       7 | 0x1E57      |        7767 |
+|       6 | 0x1E55      |        7765 |
+|       7 | 0x1E58      |        7768 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x1E58      |        7768 |
+|       9 | 0x1E59      |        7769 |
 |      10 | 0x40000000  |  1073741824 |
-|      11 | 0x1E53      |        7763 |
+|      11 | 0x1E54      |        7764 |
 
 ## String References
 
-- **7763**: If you wish to ride a chocobo, you must possess $6 and have a high enough job level.
-- **7764**: You can rent a chocobo for $0 gil. I see you currently have $1 gil.
-- **7767**: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
-- **7768**: You don't have enough gil.
-- **7770**: Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?
+- **7764**: If you wish to ride a chocobo, you must possess $6 and have a high enough job level.
+- **7765**: You can rent a chocobo for $0 gil. I see you currently have $1 gil.
+- **7768**: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
+- **7769**: You don't have enough gil.
+- **7771**: Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?
 
 ## Events
 
@@ -97,7 +97,7 @@
 ```
   0: 0x0001 [0x02] IF !(Work_Zone[2] == 4294967292*) GOTO 0x0029
   1: 0x0009 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7770*)
+  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
     → "Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?"
   3: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000E [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0027
@@ -111,10 +111,10 @@
  12: 0x004B [0x00] END_REQSTACK()
  13: 0x004C [0x03] Work_Zone[9] = 138*
  14: 0x0051 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 15: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
+ 15: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7765*)
     → "You can rent a chocobo for $0 gil. I see you currently have $1 gil."
  16: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x005A [0x24] CREATE_DIALOG(message_id=7767*, default_option=1*, option_flags=0*)
+ 17: 0x005A [0x24] CREATE_DIALOG(message_id=7768*, default_option=1*, option_flags=0*)
     → "Do you wish to rent a chocobo? [Yes, I do./No, thank you.]"
  18: 0x0061 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0062 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009C
@@ -122,7 +122,7 @@
  21: 0x0072 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x008B
  22: 0x007A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
  23: 0x008B [0x01] GOTO 0x0097
- 24: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7768*)
+ 24: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7769*)
     → "You don't have enough gil."
  25: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0092 [0x03] Work_Zone[1] = 1073741824*
@@ -165,7 +165,7 @@ SUBROUTINE_00A1:
 ```
   0: 0x00A3 [0x03] Work_Zone[9] = 138*
   1: 0x00A8 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
+  2: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
     → "If you wish to ride a chocobo, you must possess $6 and have a high enough job level."
   3: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00B1 [0x21] END_EVENT

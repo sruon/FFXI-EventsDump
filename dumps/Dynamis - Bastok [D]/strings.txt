@@ -1,5 +1,5 @@
 # Strings for Dynamis - Bastok [D]
-# Total: 7337 strings
+# Total: 7338 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7325,16 +7325,17 @@
  7321: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7322: You receive $0 bayld!
  7323: Your chocobo refuses to partake of the $0.
- 7324: All party members have fallen in battle. Exiting in $0 minute[/s].
- 7325: Now exiting $8.
- 7326: Your stay has been extended by $0 minute[/s].
- 7327: Treasure chest bonuses are now active!
- 7328: Light is nothing without the darkness! This world's light will falter!
- 7329: May the light be consumed by ever-burning darkness!
- 7330: Even the brightest light can be snuffed out in the blink of an eye!
- 7331: The darkness...will rise again!
- 7332: $1 more kill[/s] remaining until you can upgrade your relic [headgear/chestgear/armgear/leggear/footgear] to +3.
- 7333: You are now able to upgrade your relic [headgear/chestgear/armgear/leggear/footgear] to +3.
- 7334: Your $3 receives $1 seconds of time, for a total of $2 seconds stored.
- 7335: Your $3 cannot store any more.
- 7336: Your $3 loses $1 seconds (Earth time).
+ 7324: Your wing skill improved to $0!
+ 7325: All party members have fallen in battle. Exiting in $0 minute[/s].
+ 7326: Now exiting $8.
+ 7327: Your stay has been extended by $0 minute[/s].
+ 7328: Treasure chest bonuses are now active!
+ 7329: Light is nothing without the darkness! This world's light will falter!
+ 7330: May the light be consumed by ever-burning darkness!
+ 7331: Even the brightest light can be snuffed out in the blink of an eye!
+ 7332: The darkness...will rise again!
+ 7333: $1 more kill[/s] remaining until you can upgrade your relic [headgear/chestgear/armgear/leggear/footgear] to +3.
+ 7334: You are now able to upgrade your relic [headgear/chestgear/armgear/leggear/footgear] to +3.
+ 7335: Your $3 receives $1 seconds of time, for a total of $2 seconds stored.
+ 7336: Your $3 cannot store any more.
+ 7337: Your $3 loses $1 seconds (Earth time).

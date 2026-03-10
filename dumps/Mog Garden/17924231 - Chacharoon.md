@@ -50,21 +50,21 @@
 |      11 | 0x016A      |         362 |
 |      12 | 0x02E2      |         738 |
 |      13 | 0x02B2      |         690 |
-|      14 | 0x1DB5      |        7605 |
+|      14 | 0x1DB6      |        7606 |
 |      15 | 0x0DEE      |        3566 |
-|      16 | 0x1FB3      |        8115 |
-|      17 | 0x1FB4      |        8116 |
-|      18 | 0x1FB5      |        8117 |
-|      19 | 0x1FB6      |        8118 |
+|      16 | 0x1FB4      |        8116 |
+|      17 | 0x1FB5      |        8117 |
+|      18 | 0x1FB6      |        8118 |
+|      19 | 0x1FB7      |        8119 |
 |      20 | 0x110E      |        4366 |
-|      21 | 0x1FE2      |        8162 |
-|      22 | 0x1FE3      |        8163 |
+|      21 | 0x1FE3      |        8163 |
+|      22 | 0x1FE4      |        8164 |
 |      23 | 0x0332      |         818 |
-|      24 | 0x2002      |        8194 |
-|      25 | 0x2089      |        8329 |
-|      26 | 0x208A      |        8330 |
-|      27 | 0x2134      |        8500 |
-|      28 | 0x2135      |        8501 |
+|      24 | 0x2003      |        8195 |
+|      25 | 0x208A      |        8330 |
+|      26 | 0x208B      |        8331 |
+|      27 | 0x2135      |        8501 |
+|      28 | 0x2136      |        8502 |
 |      29 | 0x0001      |           1 |
 |      30 | 0x0002      |           2 |
 |      31 | 0x0003      |           3 |
@@ -77,89 +77,89 @@
 |      38 | 0x0017      |          23 |
 |      39 | 0x0018      |          24 |
 |      40 | 0x0019      |          25 |
-|      41 | 0x2199      |        8601 |
-|      42 | 0x219A      |        8602 |
+|      41 | 0x219A      |        8602 |
+|      42 | 0x219B      |        8603 |
 |      43 | 0x0005      |           5 |
 |      44 | 0x0004      |           4 |
 |      45 | 0x0007      |           7 |
 |      46 | 0x0014      |          20 |
 |      47 | 0x0006      |           6 |
-|      48 | 0x219C      |        8604 |
-|      49 | 0x1D72      |        7538 |
-|      50 | 0x219D      |        8605 |
-|      51 | 0x21A0      |        8608 |
-|      52 | 0x219E      |        8606 |
-|      53 | 0x219F      |        8607 |
+|      48 | 0x219D      |        8605 |
+|      49 | 0x1D73      |        7539 |
+|      50 | 0x219E      |        8606 |
+|      51 | 0x21A1      |        8609 |
+|      52 | 0x219F      |        8607 |
+|      53 | 0x21A0      |        8608 |
 |      54 | 0x001F      |          31 |
-|      55 | 0x2202      |        8706 |
-|      56 | 0x1CA2      |        7330 |
+|      55 | 0x2203      |        8707 |
+|      56 | 0x1CA3      |        7331 |
 |      57 | 0x40000000  |  1073741824 |
 |      58 | 0xFFB00FF   |   268108031 |
 |      59 | 0xFFD00FF   |   268239103 |
 |      60 | 0xFFC00FF   |   268173567 |
-|      61 | 0x21A1      |        8609 |
-|      62 | 0x21A3      |        8611 |
-|      63 | 0x21A2      |        8610 |
+|      61 | 0x21A2      |        8610 |
+|      62 | 0x21A4      |        8612 |
+|      63 | 0x21A3      |        8611 |
 |      64 | 0x0012      |          18 |
-|      65 | 0x21A4      |        8612 |
-|      66 | 0x21B0      |        8624 |
+|      65 | 0x21A5      |        8613 |
+|      66 | 0x21B1      |        8625 |
 |      67 | 0x046E      |        1134 |
-|      68 | 0x21B1      |        8625 |
-|      69 | 0x21B2      |        8626 |
-|      70 | 0x21B3      |        8627 |
-|      71 | 0x21B4      |        8628 |
-|      72 | 0x21B5      |        8629 |
-|      73 | 0x21B6      |        8630 |
-|      74 | 0x21B7      |        8631 |
-|      75 | 0x21B8      |        8632 |
+|      68 | 0x21B2      |        8626 |
+|      69 | 0x21B3      |        8627 |
+|      70 | 0x21B4      |        8628 |
+|      71 | 0x21B5      |        8629 |
+|      72 | 0x21B6      |        8630 |
+|      73 | 0x21B7      |        8631 |
+|      74 | 0x21B8      |        8632 |
+|      75 | 0x21B9      |        8633 |
 |      76 | 0x0009      |           9 |
-|      77 | 0x21AD      |        8621 |
-|      78 | 0x21AE      |        8622 |
+|      77 | 0x21AE      |        8622 |
+|      78 | 0x21AF      |        8623 |
 |      79 | 0x001B      |          27 |
-|      80 | 0x21AF      |        8623 |
+|      80 | 0x21B0      |        8624 |
 |      81 | 0x0028      |          40 |
 |      82 | 0xFFFFFFFF  |  4294967295 |
-|      83 | 0x21A5      |        8613 |
+|      83 | 0x21A6      |        8614 |
 |      84 | 0x001A      |          26 |
 |      85 | 0x1869F     |       99999 |
-|      86 | 0x21A6      |        8614 |
-|      87 | 0x21A7      |        8615 |
-|      88 | 0x21A8      |        8616 |
-|      89 | 0x21A9      |        8617 |
-|      90 | 0x21AA      |        8618 |
+|      86 | 0x21A7      |        8615 |
+|      87 | 0x21A8      |        8616 |
+|      88 | 0x21A9      |        8617 |
+|      89 | 0x21AA      |        8618 |
+|      90 | 0x21AB      |        8619 |
 |      91 | 0x00B4      |         180 |
-|      92 | 0x21AB      |        8619 |
+|      92 | 0x21AC      |        8620 |
 |      93 | 0x003C      |          60 |
 |      94 | 0xFFFFFFFE  |  4294967294 |
-|      95 | 0x21AC      |        8620 |
+|      95 | 0x21AD      |        8621 |
 |      96 | 0xFFFFFFFD  |  4294967293 |
-|      97 | 0x21EC      |        8684 |
+|      97 | 0x21ED      |        8685 |
 |      98 | 0x0040      |          64 |
-|      99 | 0x21ED      |        8685 |
-|     100 | 0x21EE      |        8686 |
-|     101 | 0x21EF      |        8687 |
-|     102 | 0x21F0      |        8688 |
-|     103 | 0x21F1      |        8689 |
-|     104 | 0x21F2      |        8690 |
-|     105 | 0x21F3      |        8691 |
-|     106 | 0x21F4      |        8692 |
-|     107 | 0x21F5      |        8693 |
-|     108 | 0x21F6      |        8694 |
-|     109 | 0x21F7      |        8695 |
-|     110 | 0x21F8      |        8696 |
-|     111 | 0x21F9      |        8697 |
-|     112 | 0x21FA      |        8698 |
-|     113 | 0x21FB      |        8699 |
-|     114 | 0x21FC      |        8700 |
-|     115 | 0x21FD      |        8701 |
-|     116 | 0x21FE      |        8702 |
-|     117 | 0x21FF      |        8703 |
-|     118 | 0x219B      |        8603 |
-|     119 | 0x21E2      |        8674 |
-|     120 | 0x21E3      |        8675 |
-|     121 | 0x2227      |        8743 |
-|     122 | 0x21E4      |        8676 |
-|     123 | 0x21E5      |        8677 |
+|      99 | 0x21EE      |        8686 |
+|     100 | 0x21EF      |        8687 |
+|     101 | 0x21F0      |        8688 |
+|     102 | 0x21F1      |        8689 |
+|     103 | 0x21F2      |        8690 |
+|     104 | 0x21F3      |        8691 |
+|     105 | 0x21F4      |        8692 |
+|     106 | 0x21F5      |        8693 |
+|     107 | 0x21F6      |        8694 |
+|     108 | 0x21F7      |        8695 |
+|     109 | 0x21F8      |        8696 |
+|     110 | 0x21F9      |        8697 |
+|     111 | 0x21FA      |        8698 |
+|     112 | 0x21FB      |        8699 |
+|     113 | 0x21FC      |        8700 |
+|     114 | 0x21FD      |        8701 |
+|     115 | 0x21FE      |        8702 |
+|     116 | 0x21FF      |        8703 |
+|     117 | 0x2200      |        8704 |
+|     118 | 0x219C      |        8604 |
+|     119 | 0x21E3      |        8675 |
+|     120 | 0x21E4      |        8676 |
+|     121 | 0x2228      |        8744 |
+|     122 | 0x21E5      |        8677 |
+|     123 | 0x21E6      |        8678 |
 |     124 | 0xFFFFCEB1  |  4294954673 |
 |     125 | 0x2F8A      |       12170 |
 |     126 | 0x009C      |         156 |
@@ -168,84 +168,84 @@
 |     129 | 0xFFF791BD  |  4294414781 |
 |     130 | 0xFFFFF351  |  4294964049 |
 |     131 | 0x0F73      |        3955 |
-|     132 | 0x21E6      |        8678 |
-|     133 | 0x222C      |        8748 |
-|     134 | 0x222B      |        8747 |
-|     135 | 0x21E7      |        8679 |
-|     136 | 0x21E8      |        8680 |
+|     132 | 0x21E7      |        8679 |
+|     133 | 0x222D      |        8749 |
+|     134 | 0x222C      |        8748 |
+|     135 | 0x21E8      |        8680 |
+|     136 | 0x21E9      |        8681 |
 |     137 | 0x000D      |          13 |
-|     138 | 0x21E9      |        8681 |
+|     138 | 0x21EA      |        8682 |
 |     139 | 0x58494     |      361620 |
 |     140 | 0xFFF75298  |  4294398616 |
 |     141 | 0xFFFFFACE  |  4294965966 |
 |     142 | 0x0C78      |        3192 |
-|     143 | 0x21B9      |        8633 |
+|     143 | 0x21BA      |        8634 |
 |     144 | 0x0046      |          70 |
-|     145 | 0x2226      |        8742 |
-|     146 | 0x21BB      |        8635 |
-|     147 | 0x21BC      |        8636 |
+|     145 | 0x2227      |        8743 |
+|     146 | 0x21BC      |        8636 |
+|     147 | 0x21BD      |        8637 |
 |     148 | 0x0340      |         832 |
-|     149 | 0x21C3      |        8643 |
+|     149 | 0x21C4      |        8644 |
 |     150 | 0x0341      |         833 |
-|     151 | 0x21C4      |        8644 |
+|     151 | 0x21C5      |        8645 |
 |     152 | 0x023C      |         572 |
-|     153 | 0x21C5      |        8645 |
+|     153 | 0x21C6      |        8646 |
 |     154 | 0x0365      |         869 |
-|     155 | 0x21C6      |        8646 |
-|     156 | 0x21BD      |        8637 |
+|     155 | 0x21C7      |        8647 |
+|     156 | 0x21BE      |        8638 |
 |     157 | 0x034F      |         847 |
-|     158 | 0x21C7      |        8647 |
+|     158 | 0x21C8      |        8648 |
 |     159 | 0x1106      |        4358 |
-|     160 | 0x21C8      |        8648 |
+|     160 | 0x21C9      |        8649 |
 |     161 | 0x03AF      |         943 |
-|     162 | 0x21C9      |        8649 |
-|     163 | 0x21BE      |        8638 |
+|     162 | 0x21CA      |        8650 |
+|     163 | 0x21BF      |        8639 |
 |     164 | 0x03AA      |         938 |
-|     165 | 0x21CA      |        8650 |
+|     165 | 0x21CB      |        8651 |
 |     166 | 0x174B      |        5963 |
-|     167 | 0x21CB      |        8651 |
+|     167 | 0x21CC      |        8652 |
 |     168 | 0x0270      |         624 |
-|     169 | 0x21CC      |        8652 |
+|     169 | 0x21CD      |        8653 |
 |     170 | 0x000A      |          10 |
 |     171 | 0x03A8      |         936 |
-|     172 | 0x21CD      |        8653 |
+|     172 | 0x21CE      |        8654 |
 |     173 | 0x1112      |        4370 |
-|     174 | 0x21CE      |        8654 |
-|     175 | 0x21BF      |        8639 |
-|     176 | 0x21CF      |        8655 |
+|     174 | 0x21CF      |        8655 |
+|     175 | 0x21C0      |        8640 |
+|     176 | 0x21D0      |        8656 |
 |     177 | 0x0275      |         629 |
-|     178 | 0x21D0      |        8656 |
+|     178 | 0x21D1      |        8657 |
 |     179 | 0x000E      |          14 |
 |     180 | 0x027D      |         637 |
-|     181 | 0x21D1      |        8657 |
+|     181 | 0x21D2      |        8658 |
 |     182 | 0x1110      |        4368 |
-|     183 | 0x2230      |        8752 |
-|     184 | 0x21C0      |        8640 |
+|     183 | 0x2231      |        8753 |
+|     184 | 0x21C1      |        8641 |
 |     185 | 0x0358      |         856 |
-|     186 | 0x21D2      |        8658 |
+|     186 | 0x21D3      |        8659 |
 |     187 | 0x0011      |          17 |
-|     188 | 0x21D3      |        8659 |
-|     189 | 0x21C1      |        8641 |
+|     188 | 0x21D4      |        8660 |
+|     189 | 0x21C2      |        8642 |
 |     190 | 0x03A0      |         928 |
-|     191 | 0x21D4      |        8660 |
+|     191 | 0x21D5      |        8661 |
 |     192 | 0x0373      |         883 |
-|     193 | 0x21D5      |        8661 |
-|     194 | 0x21C2      |        8642 |
-|     195 | 0x21D6      |        8662 |
-|     196 | 0x21D7      |        8663 |
+|     193 | 0x21D6      |        8662 |
+|     194 | 0x21C3      |        8643 |
+|     195 | 0x21D7      |        8663 |
+|     196 | 0x21D8      |        8664 |
 |     197 | 0x0016      |          22 |
-|     198 | 0x21D8      |        8664 |
+|     198 | 0x21D9      |        8665 |
 |     199 | 0x0045      |          69 |
-|     200 | 0x21DA      |        8666 |
-|     201 | 0x21DB      |        8667 |
+|     200 | 0x21DB      |        8667 |
+|     201 | 0x21DC      |        8668 |
 |     202 | 0xFFFFFFFC  |  4294967292 |
-|     203 | 0x21D9      |        8665 |
-|     204 | 0x21DC      |        8668 |
-|     205 | 0x21DD      |        8669 |
-|     206 | 0x21DE      |        8670 |
-|     207 | 0x21DF      |        8671 |
-|     208 | 0x21E0      |        8672 |
-|     209 | 0x21E1      |        8673 |
+|     203 | 0x21DA      |        8666 |
+|     204 | 0x21DD      |        8669 |
+|     205 | 0x21DE      |        8670 |
+|     206 | 0x21DF      |        8671 |
+|     207 | 0x21E0      |        8672 |
+|     208 | 0x21E1      |        8673 |
+|     209 | 0x21E2      |        8674 |
 |     210 | 0x001C      |          28 |
 |     211 | 0x001D      |          29 |
 |     212 | 0x0063      |          99 |
@@ -399,126 +399,126 @@
 ## String References
 
 - **6391**: Obtained: #.
-- **7330**: Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]
-- **7538**: You cannot perform that action as long as a creature that has succumbed to the darkness prowls the garden.
-- **7605**: What a terrific time to test tag utility, kupo!
-- **8115**: Talk to sheep good. It like peeeople voice.
-- **8116**: Dooo what can. Sheep is limit! Wait, maybe limit is sky...
-- **8117**: ...Everything go in-ear and stay in-ear? Be geeentle and stuff happen! That all need know.
-- **8118**: Chief, tell moogle of Chacharoon's graaand feat! Much due for kind-words!
-- **8162**: Chief can get $3 for Chacharoon and feed to scaaaredy lamb?
-- **8163**: <Player> so very much loving! Nicer than all people in wooorld put together! Chacharoon be gloating to moogle in soon-times.
-- **8194**: Please be paaassing $1 to moogle. Is Chacharoon's dearerest wish.
-- **8329**: You have thing-tell to Chacharoon?
-- **8330**: Then go to rearing grounds to make tongue-wiggle!
-- **8500**: Oooooo! Chief go all the faraway-way to Jeuno? Biiiiiig thank you!
-- **8501**: Let's take these creature-crunchies to the back-cave rearing place.
-- **8601**: <Snurk><snurk> ...Chacharoon always know this must happen with head, but not heart. Stopping eye driiibbles is hard.
-- **8602**: Today <Player> is talk to Chacharoon why?
-- **8603**: Who do you choose? [None./%0./%1./%2./%3.]
-- **8604**: Please make a decision. [Decide to do nothing./Raise a new creature./Choose a parenting style./Part with your creature./Change rearing priority./View "Boss's Advice."/Discuss a cheering effect./Move to a different location.]
-- **8605**: Chacharoon putting smiley work into %0!
-- **8606**: %0? Is bestest choice!
-- **8607**: Cooome to Chacharoon... My precious %0!
-- **8608**: You have already set %0 as your rearing priority.
-- **8609**: Ohhhhhh best cheering here! I make great happy noises!
-- **8610**: Let me show good thing to you!
-- **8611**: Today's happy cheer is $3!
-- **8612**: Select your cheering pleasure. [No changes./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters./Hear an explanation./No more cheering.]
-- **8613**: Pick your poison. [Nothing for now./3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3.]
-- **8614**: You need $31 shining star[/s] for $3.
-- **8615**: The effects of $3 will be overwritten with those of $3.
-- **8616**: What will you do? ($! star[/s]) [Get cheering! ($31 star[/s] needed)/Nothing for now.]
-- **8617**: Ooooooh, this be good! Chacharoon be happy tail!
-- **8618**: Chaaaaaarm!!!
-- **8619**: The $3 satisfies the monster and triggers $3!
-- **8620**: You do not have enough shining stars.
-- **8621**: Stop receiving Chacharoon's boons? [Yes. I've had enough./No. Continue on.]
-- **8622**: Hm? You haaad enough of Chacharoon's cheer? No problem!
-- **8623**: The effect of Chacharoon's cheer stops.
-- **8624**: I think moogle understand my technique. Now read memo...
-- **8625**: Chacharoon shows you $0 entitled "Concerning Chacharoon's Cheer." Let's see what it says.
-- **8626**: "Chacharoon's Cheer is an ability that changes the power of trust, love, and friendship into special abilities based on manipulating a monster's myriad memories, kupo.
-- **8627**: "You can obtain memories by taking care of your monsters. Memories change based on appearance, so the longer you care for a monster, the easier they are to get, kupo.
-- **8628**: "The special ability you receive can change depending on the memories used for the cheer. You will definitely be told that when Chacharoon celebrates with a congratulatory cheer, kupo!
-- **8629**: "Chacharoon doesn't know that the cheer requires significant sums of shining stars, kupo. I am secretly helping him.
-- **8630**: "The shining star sum subsequently suitable for a cheer depends on the number of memories required.
-- **8631**: "Chacharoon is a kindhearted soul, so if you ask him once, he will always cheer for you, and can be changed as many times as you like. However, keep in mind that it costs shining stars to do so, kupo!
-- **8632**: "This ends the eternal explanation. Sorry it took so long, kupo."
-- **8633**: Thanks to Chacharoon's shrewd bargaining, you are now able to rear new creatures, up to a maximum of $0 at once.
-- **8635**: $0 more creature[/s] available today. [Nothing for now./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters.]
-- **8636**: Select a creature to rear. [None of the below./Sheep./Rabbit./Treant./Lizard.]
-- **8637**: Select a creature to rear. [None of the below./Cockatrice./Raptor./Eft.]
-- **8638**: Select a creature to rear. [None of the below./Dhalmel./Sea Monk./Uragnite./Crab./Colibri.]
-- **8639**: Select a creature to rear. [None of the below./Coeurl./Buffalo./Slime./Mandragora.]
-- **8640**: Select a creature to rear. [None of the below./Bugard./Adamantoise.]
-- **8641**: Select a creature to rear. [None of the below./Bomb./Behemoth.]
-- **8642**: Select a creature to rear. [None of the below./Sabotender./Dragon.]
-- **8643**: Sheep are peaceful and obedient animals, which explains why they are often recommended to fledgling ranchers. Others who have cared for them in the past note that it is possible to receive $0 from them.
-- **8644**: Residents of Windurst and its surrounding areas have been known to keep rabbits, or "rarabs" in the local vernacular. These omnivorous animals supposedly relinquish $0 to their trainers on certain occasions, but such reports have yet to be verified.
-- **8645**: Treants can thrive in many different climes, but no matter the location, occasionally impart $0 to those who look after them...if anything.
-- **8646**: Lizards are found through all climes and elevations in Vana'diel, from the harshest deserts to the snowiest peaks. Such resilient creatures are known to bequeath $0 to their caretakers.
-- **8647**: Cockatrices are carnivorous birds found in some of Vana'diel's least hospitable locales, but recent domestication efforts have begun to bear fruit. Be wary to keep some gloves handy when handling the $0 they offer their owners.
-- **8648**: Raptors are quick-witted, vicious little buggers who can often be found feasting on flesh in mountainous areas and on the tops of precarious plateaus. As one would expect of such ravenous beasts, tamers can often procure $0 from them.
-- **8649**: Efts thrive in waterside locations, and are often spotted munching on prey in Bibiki Bay. Take caution not to get any $0 on your hands when you touch them!
-- **8650**: Dhalmels are docile, domesticated creatures that live in arid climes, grazing on the sparse vegetation that dots the landscape. A conscientious master may be able to procure $0 from them.
-- **8651**: The salt water-dwelling sea monks prey on smaller species of fish and have been known to be highly territorial come spawning season. Those who treat them right have been known to receive $0 on occasion.
-- **8652**: Uragnites reside in Bibiki Bay and the Ulbukan coastline, and their diet of krill helps keep the ecosystem in check. Properly caring for one could yield a reasonable amount of $0.
-- **8653**: Nary a body of water, from the deepest oceans to the most humid marshlands, is without the presence of crabs in some shape or form. They tear their pray in half with pincers before feasting--a most gruesome scene in the best of times. The meek members of the species, however, may impart $0 upon their owners.
-- **8654**: Colibris are native to western Aht Urhgan, and are among the fiercest and most aggressive birds known to man. Should they be tamed, however, they may bestow $0 upon those who treated them well.
-- **8655**: Coeurls are ferocious carnivores often found prowling Mindartia and Elshimo. Taming them could yield a sizable quantity of $0.
-- **8656**: The land of Aht Urhgan is home to buffalo, hulking herbivores that are easy to rear thanks to their docile nature. Those with particularly strong affinities for their masters are known to give them $0.
-- **8657**: Slimes are amorphous monsters that tend to prefer the dank, dark atmosphere of caves. Go spelunking with them and hope they give you $0 in the process.
-- **8658**: Bugards, often found on the Tavnazian Archipelago, will chow down on anything they can get their hands on. Those rearing these creatures are advised to keep a close eye on their belongings when they try to procure items such as $0 from them.
-- **8659**: Adamantoises are concerned with nothing but ballooning up until they are the size of a mountain, and those rearing them should take care to keep their size to a minimum. None can say what types of items can be procured from them.
-- **8660**: Bombs are living magical entities who have been known to explode on more than one hapless adventurer. Treated well, they will hesitantly bequeath $0 to their masters.
-- **8661**: Behemoths are known to prowl the innermost recesses of the Qufim region, and are perhaps the most ferocious representatives of the beast family. Those taking the proper precautions in caring for them may be able to receive $0.
-- **8662**: These strange, ambulatory cacti are commonly found in the Altepa Desert of the Kuzotz Region. Sabotenders are relentlessly aggressive when provoked, perhaps explaining why so little regarding their way of life is known to science.
-- **8663**: Exceptionally robust, long-lived, and wise, dragons have long cast their shadows over Vana'diel's history. Over the course of a few centuries, a dragon may grow into a great wyrm.
-- **8664**: Rear [/a sheep/a rabbit/a treant/a lizard/a cockatrice/a raptor/an eft/a dhalmel/a sea monk/an uragnite/a crab/a colibri/a coeurl/a buffalo/a slime/a mandragora/a bugard/an adamantoise/a bomb/a behemoth/a sabotender/a dragon]? [Yes./No, not that.]
-- **8665**: Chacharoon no miiiracle worker! Can only do so much...
-- **8666**: <Player> be wanting care for [/sheep/rabbit/treant/lizard/cockatrice/raptor/eft/dhalmel/sea monk/uragnite/crab/colibri/coeurl/buffalo/slime/mandragora/bugard/adamantoise/bomb/behemoth/sabotender/dragon]? Wait two shaaakes of Qiqirn nose.
-- **8667**: [/A sheep/A rabbit/A treant/A lizard/A cockatrice/A raptor/An eft/A dhalmel/A sea monk/An uragnite/A crab/A colibri/A coeurl/A buffalo/A slime/A mandragora/A bugard/An adamantoise/A bomb/A behemoth/A sabotender/A dragon] has entered your [Mog Garden/rearing ground]!
-- **8668**: You are currently raising %0 with an emphasis on [personal growth/enjoying the moment].
-- **8669**: Placing an emphasis on your critter's personal growth means that, while you do not have to look after it yourself, it will mature bit by bit each day.
-- **8670**: Placing an emphasis on enjoying the moment means that you want your critter to stop and smell the rolanberries. It will not mature, but will live life in its current form to the fullest.
-- **8671**: Place emphasis on what? [Whatever I am now./Personal growth./Enjoying the moment.]
-- **8672**: "Personal growth"? Yaaaaaay! That mean Chacharoon do much play with beastie so it get strong.
-- **8673**: "Enjoy moment"? Then maybe making bed is best. Beastie be snuuug as bug in rug!
-- **8674**: By doing this, you and your creature will go separate ways in life, never to see each other again.
-- **8675**: How will you part ways? [We won't!/Send it back home./Put it down.]
-- **8676**: By returning %0 to its place of birth, you will be unable to care for it anymore, but will also be compensated for your troubles.
-- **8677**: Truly send it back? [Yes, I have no reservations./No, not yet!]
-- **8678**: %0 embiiiggened Chacharoon and <Player>'s hearts. Wh-when think must say bye-bye...Ch-Chacharoon...get the snurks...
-- **8679**: By putting %0 down, you will personally end its life. While there will be no physical repercussion for doing such, are you willing to have that on your conscience?
-- **8680**: Put the creature down? [Yes, I have no reservations./No, not yet!]
-- **8681**: <Snurk> Chacharoon...will not be forgetting %0...<snurk> ever. Waaaaaah!
-- **8684**: Take a gander at the primer on monster rearing penned by Chacharoon's superior.
-- **8685**: Select a topic. [None./A message to Chacharoon./First things first./Naming./Raising and rearing./Saying goodbye./A message from the boss.]
-- **8686**: Dear Chacharoon, I may have taught you all the basics of caring for feral monsters, but you are still a child. I do not expect you to remember everything, so I have jotted down the things I deem most important.
-- **8687**: Please do not take this the wrong way, but I do not yet think you are capable of raising multiple beasts at the same time. One should be plenty for now.
-- **8688**: If you decide to take care of another creature, you will have to part ways with the one for which you are currently caring.
-- **8689**: If you are to develop a bond with your animal, then it is best that you give it a name. Do not worry about thinking of the perfect name, because you can always change it later.
-- **8690**: Rearing beasts with an emphasis on "personal growth" will cause them to grow up little by little. When they finally do get big, they might just reward you with something for your efforts.
-- **8691**: Emphasizing "enjoying the moment" lets your creature live at its own pace and does wonders for its spirit. However, it will not get any bigger than it already is.
-- **8692**: Do not forget to bond physically with your creature. Each species has its own likes and dislikes, though, so try interacting with them in many different ways.
-- **8693**: I warn you against being too strict with them, however. If you do too many terrible things to them, they will succumb to darkness and turn on you.
-- **8694**: Moogle magic often works to calm them down, but on the off chance it doesn't, you will have to put them down with your own hand. See that it does not come to that.
-- **8695**: Ideally, you would continue rearing your beasts until they become adults, but this isn't an ideal world.
-- **8696**: If you ever have to part ways with one, please send it to me. I shall look after it to the best of my abilities.
-- **8697**: However, I will also leave you the option to put it down. Maybe putting you in that position will teach you the true value of life.
-- **8698**: You pore over at a congratulatory letter written in large, blocky letters. The message details further information about the recent expansion to your Mog Garden.
-- **8699**: Chacharoon, you've come quite a long way in just a short time. The seeds you've sown in your companion's Mog Garden are beginning to bear fruit. Well done!
-- **8700**: With the extra space you've pioneered, there is now room not just for one creature to raise, but a second as well. Work even harder, and the sky's the limit!
-- **8701**: No matter how many you see fit to take care of, however, I strongly recommend that you always keep a closer eye on one in particular, if for no other reason than to prevent your herd from stampeding or otherwise running amok.
-- **8702**: If you wish to bring your charges to the Mog Garden proper, then I must insist that you only let one accompany you while the remainder stays behind in the rearing grounds.
-- **8703**: You've got it in you to become a positively fabulous caretaker, Chacharoon. Heed my advice and you're sure to go far.
-- **8706**: You have decided to focus on rearing %0.
-- **8742**: No neeew beasties be waiting around for <Player> now. Come back and have pick of litter later.
-- **8743**: Beastie has the darkies, so no want chancing it cause daaanger to other people. We dealing with it here!
-- **8747**: Whoops of daisies, Chacharoon upslipped. Be returning monster soooooonish.
-- **8748**: %0 be around only smaaall time, but give us dinghies of pleasure. Thanks of many.
-- **8752**: Mandragora are plantoids found living in fertile lands such as Elshimo and the continent of Mindartia. They are known to provide $0 when properly taken care of.
+- **7331**: Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]
+- **7539**: You cannot perform that action as long as a creature that has succumbed to the darkness prowls the garden.
+- **7606**: What a terrific time to test tag utility, kupo!
+- **8116**: Talk to sheep good. It like peeeople voice.
+- **8117**: Dooo what can. Sheep is limit! Wait, maybe limit is sky...
+- **8118**: ...Everything go in-ear and stay in-ear? Be geeentle and stuff happen! That all need know.
+- **8119**: Chief, tell moogle of Chacharoon's graaand feat! Much due for kind-words!
+- **8163**: Chief can get $3 for Chacharoon and feed to scaaaredy lamb?
+- **8164**: <Player> so very much loving! Nicer than all people in wooorld put together! Chacharoon be gloating to moogle in soon-times.
+- **8195**: Please be paaassing $1 to moogle. Is Chacharoon's dearerest wish.
+- **8330**: You have thing-tell to Chacharoon?
+- **8331**: Then go to rearing grounds to make tongue-wiggle!
+- **8501**: Oooooo! Chief go all the faraway-way to Jeuno? Biiiiiig thank you!
+- **8502**: Let's take these creature-crunchies to the back-cave rearing place.
+- **8602**: <Snurk><snurk> ...Chacharoon always know this must happen with head, but not heart. Stopping eye driiibbles is hard.
+- **8603**: Today <Player> is talk to Chacharoon why?
+- **8604**: Who do you choose? [None./%0./%1./%2./%3.]
+- **8605**: Please make a decision. [Decide to do nothing./Raise a new creature./Choose a parenting style./Part with your creature./Change rearing priority./View "Boss's Advice."/Discuss a cheering effect./Move to a different location.]
+- **8606**: Chacharoon putting smiley work into %0!
+- **8607**: %0? Is bestest choice!
+- **8608**: Cooome to Chacharoon... My precious %0!
+- **8609**: You have already set %0 as your rearing priority.
+- **8610**: Ohhhhhh best cheering here! I make great happy noises!
+- **8611**: Let me show good thing to you!
+- **8612**: Today's happy cheer is $3!
+- **8613**: Select your cheering pleasure. [No changes./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters./Hear an explanation./No more cheering.]
+- **8614**: Pick your poison. [Nothing for now./3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3.]
+- **8615**: You need $31 shining star[/s] for $3.
+- **8616**: The effects of $3 will be overwritten with those of $3.
+- **8617**: What will you do? ($! star[/s]) [Get cheering! ($31 star[/s] needed)/Nothing for now.]
+- **8618**: Ooooooh, this be good! Chacharoon be happy tail!
+- **8619**: Chaaaaaarm!!!
+- **8620**: The $3 satisfies the monster and triggers $3!
+- **8621**: You do not have enough shining stars.
+- **8622**: Stop receiving Chacharoon's boons? [Yes. I've had enough./No. Continue on.]
+- **8623**: Hm? You haaad enough of Chacharoon's cheer? No problem!
+- **8624**: The effect of Chacharoon's cheer stops.
+- **8625**: I think moogle understand my technique. Now read memo...
+- **8626**: Chacharoon shows you $0 entitled "Concerning Chacharoon's Cheer." Let's see what it says.
+- **8627**: "Chacharoon's Cheer is an ability that changes the power of trust, love, and friendship into special abilities based on manipulating a monster's myriad memories, kupo.
+- **8628**: "You can obtain memories by taking care of your monsters. Memories change based on appearance, so the longer you care for a monster, the easier they are to get, kupo.
+- **8629**: "The special ability you receive can change depending on the memories used for the cheer. You will definitely be told that when Chacharoon celebrates with a congratulatory cheer, kupo!
+- **8630**: "Chacharoon doesn't know that the cheer requires significant sums of shining stars, kupo. I am secretly helping him.
+- **8631**: "The shining star sum subsequently suitable for a cheer depends on the number of memories required.
+- **8632**: "Chacharoon is a kindhearted soul, so if you ask him once, he will always cheer for you, and can be changed as many times as you like. However, keep in mind that it costs shining stars to do so, kupo!
+- **8633**: "This ends the eternal explanation. Sorry it took so long, kupo."
+- **8634**: Thanks to Chacharoon's shrewd bargaining, you are now able to rear new creatures, up to a maximum of $0 at once.
+- **8636**: $0 more creature[/s] available today. [Nothing for now./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters.]
+- **8637**: Select a creature to rear. [None of the below./Sheep./Rabbit./Treant./Lizard.]
+- **8638**: Select a creature to rear. [None of the below./Cockatrice./Raptor./Eft.]
+- **8639**: Select a creature to rear. [None of the below./Dhalmel./Sea Monk./Uragnite./Crab./Colibri.]
+- **8640**: Select a creature to rear. [None of the below./Coeurl./Buffalo./Slime./Mandragora.]
+- **8641**: Select a creature to rear. [None of the below./Bugard./Adamantoise.]
+- **8642**: Select a creature to rear. [None of the below./Bomb./Behemoth.]
+- **8643**: Select a creature to rear. [None of the below./Sabotender./Dragon.]
+- **8644**: Sheep are peaceful and obedient animals, which explains why they are often recommended to fledgling ranchers. Others who have cared for them in the past note that it is possible to receive $0 from them.
+- **8645**: Residents of Windurst and its surrounding areas have been known to keep rabbits, or "rarabs" in the local vernacular. These omnivorous animals supposedly relinquish $0 to their trainers on certain occasions, but such reports have yet to be verified.
+- **8646**: Treants can thrive in many different climes, but no matter the location, occasionally impart $0 to those who look after them...if anything.
+- **8647**: Lizards are found through all climes and elevations in Vana'diel, from the harshest deserts to the snowiest peaks. Such resilient creatures are known to bequeath $0 to their caretakers.
+- **8648**: Cockatrices are carnivorous birds found in some of Vana'diel's least hospitable locales, but recent domestication efforts have begun to bear fruit. Be wary to keep some gloves handy when handling the $0 they offer their owners.
+- **8649**: Raptors are quick-witted, vicious little buggers who can often be found feasting on flesh in mountainous areas and on the tops of precarious plateaus. As one would expect of such ravenous beasts, tamers can often procure $0 from them.
+- **8650**: Efts thrive in waterside locations, and are often spotted munching on prey in Bibiki Bay. Take caution not to get any $0 on your hands when you touch them!
+- **8651**: Dhalmels are docile, domesticated creatures that live in arid climes, grazing on the sparse vegetation that dots the landscape. A conscientious master may be able to procure $0 from them.
+- **8652**: The salt water-dwelling sea monks prey on smaller species of fish and have been known to be highly territorial come spawning season. Those who treat them right have been known to receive $0 on occasion.
+- **8653**: Uragnites reside in Bibiki Bay and the Ulbukan coastline, and their diet of krill helps keep the ecosystem in check. Properly caring for one could yield a reasonable amount of $0.
+- **8654**: Nary a body of water, from the deepest oceans to the most humid marshlands, is without the presence of crabs in some shape or form. They tear their pray in half with pincers before feasting--a most gruesome scene in the best of times. The meek members of the species, however, may impart $0 upon their owners.
+- **8655**: Colibris are native to western Aht Urhgan, and are among the fiercest and most aggressive birds known to man. Should they be tamed, however, they may bestow $0 upon those who treated them well.
+- **8656**: Coeurls are ferocious carnivores often found prowling Mindartia and Elshimo. Taming them could yield a sizable quantity of $0.
+- **8657**: The land of Aht Urhgan is home to buffalo, hulking herbivores that are easy to rear thanks to their docile nature. Those with particularly strong affinities for their masters are known to give them $0.
+- **8658**: Slimes are amorphous monsters that tend to prefer the dank, dark atmosphere of caves. Go spelunking with them and hope they give you $0 in the process.
+- **8659**: Bugards, often found on the Tavnazian Archipelago, will chow down on anything they can get their hands on. Those rearing these creatures are advised to keep a close eye on their belongings when they try to procure items such as $0 from them.
+- **8660**: Adamantoises are concerned with nothing but ballooning up until they are the size of a mountain, and those rearing them should take care to keep their size to a minimum. None can say what types of items can be procured from them.
+- **8661**: Bombs are living magical entities who have been known to explode on more than one hapless adventurer. Treated well, they will hesitantly bequeath $0 to their masters.
+- **8662**: Behemoths are known to prowl the innermost recesses of the Qufim region, and are perhaps the most ferocious representatives of the beast family. Those taking the proper precautions in caring for them may be able to receive $0.
+- **8663**: These strange, ambulatory cacti are commonly found in the Altepa Desert of the Kuzotz Region. Sabotenders are relentlessly aggressive when provoked, perhaps explaining why so little regarding their way of life is known to science.
+- **8664**: Exceptionally robust, long-lived, and wise, dragons have long cast their shadows over Vana'diel's history. Over the course of a few centuries, a dragon may grow into a great wyrm.
+- **8665**: Rear [/a sheep/a rabbit/a treant/a lizard/a cockatrice/a raptor/an eft/a dhalmel/a sea monk/an uragnite/a crab/a colibri/a coeurl/a buffalo/a slime/a mandragora/a bugard/an adamantoise/a bomb/a behemoth/a sabotender/a dragon]? [Yes./No, not that.]
+- **8666**: Chacharoon no miiiracle worker! Can only do so much...
+- **8667**: <Player> be wanting care for [/sheep/rabbit/treant/lizard/cockatrice/raptor/eft/dhalmel/sea monk/uragnite/crab/colibri/coeurl/buffalo/slime/mandragora/bugard/adamantoise/bomb/behemoth/sabotender/dragon]? Wait two shaaakes of Qiqirn nose.
+- **8668**: [/A sheep/A rabbit/A treant/A lizard/A cockatrice/A raptor/An eft/A dhalmel/A sea monk/An uragnite/A crab/A colibri/A coeurl/A buffalo/A slime/A mandragora/A bugard/An adamantoise/A bomb/A behemoth/A sabotender/A dragon] has entered your [Mog Garden/rearing ground]!
+- **8669**: You are currently raising %0 with an emphasis on [personal growth/enjoying the moment].
+- **8670**: Placing an emphasis on your critter's personal growth means that, while you do not have to look after it yourself, it will mature bit by bit each day.
+- **8671**: Placing an emphasis on enjoying the moment means that you want your critter to stop and smell the rolanberries. It will not mature, but will live life in its current form to the fullest.
+- **8672**: Place emphasis on what? [Whatever I am now./Personal growth./Enjoying the moment.]
+- **8673**: "Personal growth"? Yaaaaaay! That mean Chacharoon do much play with beastie so it get strong.
+- **8674**: "Enjoy moment"? Then maybe making bed is best. Beastie be snuuug as bug in rug!
+- **8675**: By doing this, you and your creature will go separate ways in life, never to see each other again.
+- **8676**: How will you part ways? [We won't!/Send it back home./Put it down.]
+- **8677**: By returning %0 to its place of birth, you will be unable to care for it anymore, but will also be compensated for your troubles.
+- **8678**: Truly send it back? [Yes, I have no reservations./No, not yet!]
+- **8679**: %0 embiiiggened Chacharoon and <Player>'s hearts. Wh-when think must say bye-bye...Ch-Chacharoon...get the snurks...
+- **8680**: By putting %0 down, you will personally end its life. While there will be no physical repercussion for doing such, are you willing to have that on your conscience?
+- **8681**: Put the creature down? [Yes, I have no reservations./No, not yet!]
+- **8682**: <Snurk> Chacharoon...will not be forgetting %0...<snurk> ever. Waaaaaah!
+- **8685**: Take a gander at the primer on monster rearing penned by Chacharoon's superior.
+- **8686**: Select a topic. [None./A message to Chacharoon./First things first./Naming./Raising and rearing./Saying goodbye./A message from the boss.]
+- **8687**: Dear Chacharoon, I may have taught you all the basics of caring for feral monsters, but you are still a child. I do not expect you to remember everything, so I have jotted down the things I deem most important.
+- **8688**: Please do not take this the wrong way, but I do not yet think you are capable of raising multiple beasts at the same time. One should be plenty for now.
+- **8689**: If you decide to take care of another creature, you will have to part ways with the one for which you are currently caring.
+- **8690**: If you are to develop a bond with your animal, then it is best that you give it a name. Do not worry about thinking of the perfect name, because you can always change it later.
+- **8691**: Rearing beasts with an emphasis on "personal growth" will cause them to grow up little by little. When they finally do get big, they might just reward you with something for your efforts.
+- **8692**: Emphasizing "enjoying the moment" lets your creature live at its own pace and does wonders for its spirit. However, it will not get any bigger than it already is.
+- **8693**: Do not forget to bond physically with your creature. Each species has its own likes and dislikes, though, so try interacting with them in many different ways.
+- **8694**: I warn you against being too strict with them, however. If you do too many terrible things to them, they will succumb to darkness and turn on you.
+- **8695**: Moogle magic often works to calm them down, but on the off chance it doesn't, you will have to put them down with your own hand. See that it does not come to that.
+- **8696**: Ideally, you would continue rearing your beasts until they become adults, but this isn't an ideal world.
+- **8697**: If you ever have to part ways with one, please send it to me. I shall look after it to the best of my abilities.
+- **8698**: However, I will also leave you the option to put it down. Maybe putting you in that position will teach you the true value of life.
+- **8699**: You pore over at a congratulatory letter written in large, blocky letters. The message details further information about the recent expansion to your Mog Garden.
+- **8700**: Chacharoon, you've come quite a long way in just a short time. The seeds you've sown in your companion's Mog Garden are beginning to bear fruit. Well done!
+- **8701**: With the extra space you've pioneered, there is now room not just for one creature to raise, but a second as well. Work even harder, and the sky's the limit!
+- **8702**: No matter how many you see fit to take care of, however, I strongly recommend that you always keep a closer eye on one in particular, if for no other reason than to prevent your herd from stampeding or otherwise running amok.
+- **8703**: If you wish to bring your charges to the Mog Garden proper, then I must insist that you only let one accompany you while the remainder stays behind in the rearing grounds.
+- **8704**: You've got it in you to become a positively fabulous caretaker, Chacharoon. Heed my advice and you're sure to go far.
+- **8707**: You have decided to focus on rearing %0.
+- **8743**: No neeew beasties be waiting around for <Player> now. Come back and have pick of litter later.
+- **8744**: Beastie has the darkies, so no want chancing it cause daaanger to other people. We dealing with it here!
+- **8748**: Whoops of daisies, Chacharoon upslipped. Be returning monster soooooonish.
+- **8749**: %0 be around only smaaall time, but give us dinghies of pleasure. Thanks of many.
+- **8753**: Mandragora are plantoids found living in fertile lands such as Elshimo and the continent of Mindartia. They are known to provide $0 when properly taken care of.
 
 ## Events
 
@@ -692,7 +692,7 @@
  11: 0x006B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
  12: 0x007C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x008D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 14: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
+ 14: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
     → "What a terrific time to test tag utility, kupo!"
  15: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -783,7 +783,7 @@
  17: 0x0167 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  18: 0x0178 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  19: 0x0187 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Green Thumb Moogle (ID: 17924125/0x0111801D), tag_num=0x6C)
- 20: 0x018E [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
+ 20: 0x018E [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
     → "What a terrific time to test tag utility, kupo!"
  21: 0x0191 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0192 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Green Thumb Moogle (ID: 17924125/0x0111801D), tag_num=0x6D)
@@ -825,10 +825,10 @@
   2: 0x01EC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01ED [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01EE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
-  5: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
+  5: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
     → "Talk to sheep good. It like peeeople voice."
   6: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
+  7: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
     → "Dooo what can. Sheep is limit! Wait, maybe limit is sky..."
   8: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0205 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
@@ -864,10 +864,10 @@
   2: 0x021E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x021F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0220 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
-  5: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
+  5: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
     → "...Everything go in-ear and stay in-ear? Be geeentle and stuff happen! That all need know."
   6: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0233 [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
+  7: 0x0233 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
     → "Chief, tell moogle of Chacharoon's graaand feat! Much due for kind-words!"
   8: 0x0236 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0237 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
@@ -898,7 +898,7 @@
 ```
   0: 0x024A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x024F [0x03] Work_Zone[5] = 4366*
-  2: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8162*)
+  2: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8163*)
     → "Chief can get $3 for Chacharoon and feed to scaaaredy lamb?"
   3: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0258 [0x21] END_EVENT
@@ -931,7 +931,7 @@
   1: 0x025F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0260 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0261 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
-  4: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=8163*)
+  4: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=8164*)
     → "<Player> so very much loving! Nicer than all people in wooorld put together! Chacharoon be gloating to moogle in soon-times."
   5: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0274 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
@@ -966,7 +966,7 @@
   1: 0x028C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x028D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x028E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
-  4: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
+  4: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
     → "Chief, tell moogle of Chacharoon's graaand feat! Much due for kind-words!"
   5: 0x02A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02A1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
@@ -1002,7 +1002,7 @@
   2: 0x02BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02BB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
   4: 0x02CA [0x03] Work_Zone[3] = 818*
-  5: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8194*)
+  5: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8195*)
     → "Please be paaassing $1 to moogle. Is Chacharoon's dearerest wish."
   6: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02D3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
@@ -1081,10 +1081,10 @@
   1: 0x02ED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02EE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02EF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
-  4: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
+  4: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8330*)
     → "You have thing-tell to Chacharoon?"
   5: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0302 [0x1D] PRINT_EVENT_MESSAGE(message_id=8330*)
+  6: 0x0302 [0x1D] PRINT_EVENT_MESSAGE(message_id=8331*)
     → "Then go to rearing grounds to make tongue-wiggle!"
   7: 0x0305 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0306 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
@@ -1963,10 +1963,10 @@
   1: 0x031E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x031F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0320 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
-  4: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=8500*)
+  4: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=8501*)
     → "Oooooo! Chief go all the faraway-way to Jeuno? Biiiiiig thank you!"
   5: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=8501*)
+  6: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=8502*)
     → "Let's take these creature-crunchies to the back-cave rearing place."
   7: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0337 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
@@ -1993,10 +1993,10 @@
      0x0395 [0x41] ExtData[1]->WorkLocal[26] = ExtData[1]->WorkLocal[11] (bits 24*-25*)
      0x039E [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x03A3 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 0*) GOTO 0x03AE
-     0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8601*)
+     0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8602*)
     → "<Snurk><snurk> ...Chacharoon always know this must happen with head, but not heart. Stopping eye driiibbles is hard."
      0x03AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8602*)
+     0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8603*)
     → "Today <Player> is talk to Chacharoon why?"
      0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x03B2 [0x03] ExtData[1]->WorkLocal[4] = 1*
@@ -2057,7 +2057,7 @@
      0x0516 [0x01] GOTO 0x0520
      0x0519 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=6*, condition_work_offset=1*)
      0x0520 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x0525 [0x24] CREATE_DIALOG(message_id=8604*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+     0x0525 [0x24] CREATE_DIALOG(message_id=8605*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "Please make a decision. [Decide to do nothing./Raise a new creature./Choose a parenting style./Part with your creature./Change rearing priority./View "Boss's Advice."/Discuss a cheering effect./Move to a different location.]"
      0x052C [0x25] WAIT_DIALOG_SELECT()
      0x052D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x053A
@@ -2089,10 +2089,10 @@
      0x059F [0x21] END_EVENT
      0x05A0 [0x00] END_REQSTACK()
      0x05A1 [0x3E] IF !(ExtData[1]->WorkLocal[12] bit 0*) GOTO 0x05AC
-     0x05A8 [0x48] [System] [7538*]:
+     0x05A8 [0x48] [System] [7539*]:
     → "You cannot perform that action as long as a creature that has succumbed to the darkness prowls the garden."
      0x05AB [0x1B] RETURN
-     0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8605*)
+     0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8606*)
     → "Chacharoon putting smiley work into %0!"
      0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05B0 [0x0B] ExtData[1]->WorkLocal[4]++
@@ -2105,17 +2105,17 @@
      0x05CF [0x01] GOTO 0x05D7
      0x05D2 [0x03] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[3]
      0x05D7 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x05E6
-     0x05DF [0x48] [System] [8608*]:
+     0x05DF [0x48] [System] [8609*]:
     → "You have already set %0 as your rearing priority."
      0x05E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05E3 [0x01] GOTO 0x066B
      0x05E6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8606*)
+     0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8607*)
     → "%0? Is bestest choice!"
      0x05EA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x05FC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
-     0x060B [0x1D] PRINT_EVENT_MESSAGE(message_id=8607*)
+     0x060B [0x1D] PRINT_EVENT_MESSAGE(message_id=8608*)
     → "Cooome to Chacharoon... My precious %0!"
      0x060E [0x06] Work_Zone[1] = 0
      0x0611 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=4*)
@@ -2132,7 +2132,7 @@
      0x0641 [0x1A] CALL_SUBROUTINE(address=0x2653)
      0x0644 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x0655 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-     0x0664 [0x48] [System] [8706*]:
+     0x0664 [0x48] [System] [8707*]:
     → "You have decided to focus on rearing %0."
      0x0667 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0668 [0x06] ExtData[1]->WorkLocal[4] = 0
@@ -2148,7 +2148,7 @@
      0x0694 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 2*) GOTO 0x069E
      0x069B [0x01] GOTO 0x06A5
      0x069E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x06A5 [0x24] CREATE_DIALOG(message_id=7330*, default_option=0*, option_flags=Work_Zone[2])
+     0x06A5 [0x24] CREATE_DIALOG(message_id=7331*, default_option=0*, option_flags=Work_Zone[2])
     → "Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]"
      0x06AC [0x25] WAIT_DIALOG_SELECT()
      0x06AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06C0
@@ -2179,16 +2179,16 @@
      0x0748 [0x06] ExtData[1]->WorkLocal[4] = 0
      0x074B [0x01] GOTO 0x074E
      0x074E [0x1B] RETURN
-     0x074F [0x1D] PRINT_EVENT_MESSAGE(message_id=8609*)
+     0x074F [0x1D] PRINT_EVENT_MESSAGE(message_id=8610*)
     → "Ohhhhhh best cheering here! I make great happy noises!"
      0x0752 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0753 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0767
      0x075B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[22]
-     0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=8611*)
+     0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=8612*)
     → "Today's happy cheer is $3!"
      0x0763 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0764 [0x01] GOTO 0x076B
-     0x0767 [0x1D] PRINT_EVENT_MESSAGE(message_id=8610*)
+     0x0767 [0x1D] PRINT_EVENT_MESSAGE(message_id=8611*)
     → "Let me show good thing to you!"
      0x076A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x076B [0x06] Work_Zone[1] = 0
@@ -2240,49 +2240,49 @@
      0x087E [0x01] GOTO 0x0881
      0x0881 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0890
      0x0889 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x0890 [0x24] CREATE_DIALOG(message_id=8612*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+     0x0890 [0x24] CREATE_DIALOG(message_id=8613*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "Select your cheering pleasure. [No changes./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters./Hear an explanation./No more cheering.]"
      0x0897 [0x25] WAIT_DIALOG_SELECT()
      0x0898 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08A6
      0x08A0 [0x0C] ExtData[1]->WorkLocal[4]--
      0x08A3 [0x01] GOTO 0x093A
      0x08A6 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x08DA
-     0x08AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8624*)
+     0x08AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8625*)
     → "I think moogle understand my technique. Now read memo..."
      0x08B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08B2 [0x03] Work_Zone[2] = 1134*
-     0x08B7 [0x48] [System] [8625*]:
+     0x08B7 [0x48] [System] [8626*]:
     → "Chacharoon shows you $0 entitled "Concerning Chacharoon's Cheer." Let's see what it says."
      0x08BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08BB [0x48] [System] [8626*]:
+     0x08BB [0x48] [System] [8627*]:
     → ""Chacharoon's Cheer is an ability that changes the power of trust, love, and friendship into special abilities based on manipulating a monster's myriad memories, kupo."
      0x08BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08BF [0x48] [System] [8627*]:
+     0x08BF [0x48] [System] [8628*]:
     → ""You can obtain memories by taking care of your monsters. Memories change based on appearance, so the longer you care for a monster, the easier they are to get, kupo."
      0x08C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08C3 [0x48] [System] [8628*]:
+     0x08C3 [0x48] [System] [8629*]:
     → ""The special ability you receive can change depending on the memories used for the cheer. You will definitely be told that when Chacharoon celebrates with a congratulatory cheer, kupo!"
      0x08C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08C7 [0x48] [System] [8629*]:
+     0x08C7 [0x48] [System] [8630*]:
     → ""Chacharoon doesn't know that the cheer requires significant sums of shining stars, kupo. I am secretly helping him."
      0x08CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08CB [0x48] [System] [8630*]:
+     0x08CB [0x48] [System] [8631*]:
     → ""The shining star sum subsequently suitable for a cheer depends on the number of memories required."
      0x08CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08CF [0x48] [System] [8631*]:
+     0x08CF [0x48] [System] [8632*]:
     → ""Chacharoon is a kindhearted soul, so if you ask him once, he will always cheer for you, and can be changed as many times as you like. However, keep in mind that it costs shining stars to do so, kupo!"
      0x08D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08D3 [0x48] [System] [8632*]:
+     0x08D3 [0x48] [System] [8633*]:
     → ""This ends the eternal explanation. Sorry it took so long, kupo.""
      0x08D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08D7 [0x01] GOTO 0x093A
      0x08DA [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x091F
-     0x08E2 [0x24] CREATE_DIALOG(message_id=8621*, default_option=1*, option_flags=0*)
+     0x08E2 [0x24] CREATE_DIALOG(message_id=8622*, default_option=1*, option_flags=0*)
     → "Stop receiving Chacharoon's boons? [Yes. I've had enough./No. Continue on.]"
      0x08E9 [0x25] WAIT_DIALOG_SELECT()
      0x08EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0911
      0x08F2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x08F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8622*)
+     0x08F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8623*)
     → "Hm? You haaad enough of Chacharoon's cheer? No problem!"
      0x08F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08F7 [0x03] Work_Zone[1] = 27*
@@ -2290,7 +2290,7 @@
      0x0901 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0903 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0905 [0x03] ExtData[1]->WorkLocal[22] = Work_Zone[2]
-     0x090A [0x48] [System] [8623*]:
+     0x090A [0x48] [System] [8624*]:
     → "The effect of Chacharoon's cheer stops."
      0x090D [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
      0x090E [0x01] GOTO 0x091C
@@ -2361,7 +2361,7 @@
      0x0A80 [0x1B] RETURN
      0x0A81 [0x0B] ExtData[1]->WorkLocal[4]++
      0x0A84 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x0AB5
-     0x0A8C [0x24] CREATE_DIALOG(message_id=8613*, default_option=ExtData[1]->WorkLocal[24], option_flags=ExtData[1]->WorkLocal[10])
+     0x0A8C [0x24] CREATE_DIALOG(message_id=8614*, default_option=ExtData[1]->WorkLocal[24], option_flags=ExtData[1]->WorkLocal[10])
     → "Pick your poison. [Nothing for now./3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3.]"
      0x0A93 [0x25] WAIT_DIALOG_SELECT()
      0x0A94 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AA5
@@ -2468,24 +2468,24 @@
      0x0CB6 [0x03] Work_Zone_1700[22] = ExtData[1]->WorkLocal[2]
      0x0CBB [0x03] Work_Zone_1700[23] = ExtData[1]->WorkLocal[3]
      0x0CC0 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=ExtData[1]->WorkLocal[2])
-     0x0CC4 [0x48] [System] [8614*]:
+     0x0CC4 [0x48] [System] [8615*]:
     → "You need $31 shining star[/s] for $3."
      0x0CC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CC8 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)
      0x0CCC [0x02] IF !(ExtData[1]->WorkLocal[22] == ExtData[1]->WorkLocal[2]) GOTO 0x0CE3
      0x0CD4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[22]
-     0x0CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8611*)
+     0x0CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8612*)
     → "Today's happy cheer is $3!"
      0x0CDC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CDD [0x1A] CALL_SUBROUTINE(address=0x093E)
      0x0CE0 [0x01] GOTO 0x0DA2
      0x0CE3 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0CF4
      0x0CEB [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[22]
-     0x0CF0 [0x48] [System] [8615*]:
+     0x0CF0 [0x48] [System] [8616*]:
     → "The effects of $3 will be overwritten with those of $3."
      0x0CF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CF4 [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[23]
-     0x0CF9 [0x24] CREATE_DIALOG(message_id=8616*, default_option=0*, option_flags=0*)
+     0x0CF9 [0x24] CREATE_DIALOG(message_id=8617*, default_option=0*, option_flags=0*)
     → "What will you do? ($! star[/s]) [Get cheering! ($31 star[/s] needed)/Nothing for now.]"
      0x0D00 [0x25] WAIT_DIALOG_SELECT()
      0x0D01 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D94
@@ -2502,15 +2502,15 @@
      0x0D36 [0x03] ExtData[1]->WorkLocal[23] = Work_Zone[5]
      0x0D3B [0x03] Work_Zone[2] = Work_Zone[3]
      0x0D40 [0x03] Work_Zone[3] = Work_Zone[4]
-     0x0D45 [0x1D] PRINT_EVENT_MESSAGE(message_id=8617*)
+     0x0D45 [0x1D] PRINT_EVENT_MESSAGE(message_id=8618*)
     → "Ooooooh, this be good! Chacharoon be happy tail!"
      0x0D48 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D49 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [EventEntity, LocalPlayer], work=8*
-     0x0D55 [0x1D] PRINT_EVENT_MESSAGE(message_id=8618*)
+     0x0D55 [0x1D] PRINT_EVENT_MESSAGE(message_id=8619*)
     → "Chaaaaaarm!!!"
      0x0D58 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D59 [0x1C] WAIT(180* ticks)
-     0x0D5C [0x48] [System] [8619*]:
+     0x0D5C [0x48] [System] [8620*]:
     → "The $3 satisfies the monster and triggers $3!"
      0x0D5F [0x1C] WAIT(60* ticks)
      0x0D62 [0x06] ExtData[1]->WorkLocal[4] = 0
@@ -2518,7 +2518,7 @@
      0x0D68 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0D73
      0x0D70 [0x01] GOTO 0x0D8D
      0x0D73 [0x02] IF !(Work_Zone[2] == 4294967294*) GOTO 0x0D82
-     0x0D7B [0x48] [System] [8620*]:
+     0x0D7B [0x48] [System] [8621*]:
     → "You do not have enough shining stars."
      0x0D7E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D7F [0x01] GOTO 0x0D8D
@@ -2532,7 +2532,7 @@
      0x0D9F [0x01] GOTO 0x0DA2
      0x0DA2 [0x01] GOTO 0x0DA5
      0x0DA5 [0x1B] RETURN
-     0x0DA6 [0x48] [System] [8684*]:
+     0x0DA6 [0x48] [System] [8685*]:
     → "Take a gander at the primer on monster rearing penned by Chacharoon's superior."
      0x0DA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DAA [0x0B] ExtData[1]->WorkLocal[4]++
@@ -2541,75 +2541,75 @@
      0x0DBD [0x06] ExtData[1]->WorkLocal[10] = 0
      0x0DC0 [0x01] GOTO 0x0DC8
      0x0DC3 [0x03] ExtData[1]->WorkLocal[10] = 64*
-     0x0DC8 [0x24] CREATE_DIALOG(message_id=8685*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+     0x0DC8 [0x24] CREATE_DIALOG(message_id=8686*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "Select a topic. [None./A message to Chacharoon./First things first./Naming./Raising and rearing./Saying goodbye./A message from the boss.]"
      0x0DCF [0x25] WAIT_DIALOG_SELECT()
      0x0DD0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DDE
      0x0DD8 [0x0C] ExtData[1]->WorkLocal[4]--
      0x0DDB [0x01] GOTO 0x0E68
      0x0DDE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0DED
-     0x0DE6 [0x48] [System] [8686*]:
+     0x0DE6 [0x48] [System] [8687*]:
     → "Dear Chacharoon, I may have taught you all the basics of caring for feral monsters, but you are still a child. I do not expect you to remember everything, so I have jotted down the things I deem most important."
      0x0DE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DEA [0x01] GOTO 0x0E68
      0x0DED [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0E00
-     0x0DF5 [0x48] [System] [8687*]:
+     0x0DF5 [0x48] [System] [8688*]:
     → "Please do not take this the wrong way, but I do not yet think you are capable of raising multiple beasts at the same time. One should be plenty for now."
      0x0DF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0DF9 [0x48] [System] [8688*]:
+     0x0DF9 [0x48] [System] [8689*]:
     → "If you decide to take care of another creature, you will have to part ways with the one for which you are currently caring."
      0x0DFC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DFD [0x01] GOTO 0x0E68
      0x0E00 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0E0F
-     0x0E08 [0x48] [System] [8689*]:
+     0x0E08 [0x48] [System] [8690*]:
     → "If you are to develop a bond with your animal, then it is best that you give it a name. Do not worry about thinking of the perfect name, because you can always change it later."
      0x0E0B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E0C [0x01] GOTO 0x0E68
      0x0E0F [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0E2E
-     0x0E17 [0x48] [System] [8690*]:
+     0x0E17 [0x48] [System] [8691*]:
     → "Rearing beasts with an emphasis on "personal growth" will cause them to grow up little by little. When they finally do get big, they might just reward you with something for your efforts."
      0x0E1A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E1B [0x48] [System] [8691*]:
+     0x0E1B [0x48] [System] [8692*]:
     → "Emphasizing "enjoying the moment" lets your creature live at its own pace and does wonders for its spirit. However, it will not get any bigger than it already is."
      0x0E1E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E1F [0x48] [System] [8692*]:
+     0x0E1F [0x48] [System] [8693*]:
     → "Do not forget to bond physically with your creature. Each species has its own likes and dislikes, though, so try interacting with them in many different ways."
      0x0E22 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E23 [0x48] [System] [8693*]:
+     0x0E23 [0x48] [System] [8694*]:
     → "I warn you against being too strict with them, however. If you do too many terrible things to them, they will succumb to darkness and turn on you."
      0x0E26 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E27 [0x48] [System] [8694*]:
+     0x0E27 [0x48] [System] [8695*]:
     → "Moogle magic often works to calm them down, but on the off chance it doesn't, you will have to put them down with your own hand. See that it does not come to that."
      0x0E2A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E2B [0x01] GOTO 0x0E68
      0x0E2E [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0E45
-     0x0E36 [0x48] [System] [8695*]:
+     0x0E36 [0x48] [System] [8696*]:
     → "Ideally, you would continue rearing your beasts until they become adults, but this isn't an ideal world."
      0x0E39 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E3A [0x48] [System] [8696*]:
+     0x0E3A [0x48] [System] [8697*]:
     → "If you ever have to part ways with one, please send it to me. I shall look after it to the best of my abilities."
      0x0E3D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E3E [0x48] [System] [8697*]:
+     0x0E3E [0x48] [System] [8698*]:
     → "However, I will also leave you the option to put it down. Maybe putting you in that position will teach you the true value of life."
      0x0E41 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E42 [0x01] GOTO 0x0E68
      0x0E45 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0E68
-     0x0E4D [0x48] [System] [8698*]:
+     0x0E4D [0x48] [System] [8699*]:
     → "You pore over at a congratulatory letter written in large, blocky letters. The message details further information about the recent expansion to your Mog Garden."
      0x0E50 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E51 [0x48] [System] [8699*]:
+     0x0E51 [0x48] [System] [8700*]:
     → "Chacharoon, you've come quite a long way in just a short time. The seeds you've sown in your companion's Mog Garden are beginning to bear fruit. Well done!"
      0x0E54 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E55 [0x48] [System] [8700*]:
+     0x0E55 [0x48] [System] [8701*]:
     → "With the extra space you've pioneered, there is now room not just for one creature to raise, but a second as well. Work even harder, and the sky's the limit!"
      0x0E58 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E59 [0x48] [System] [8701*]:
+     0x0E59 [0x48] [System] [8702*]:
     → "No matter how many you see fit to take care of, however, I strongly recommend that you always keep a closer eye on one in particular, if for no other reason than to prevent your herd from stampeding or otherwise running amok."
      0x0E5C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E5D [0x48] [System] [8702*]:
+     0x0E5D [0x48] [System] [8703*]:
     → "If you wish to bring your charges to the Mog Garden proper, then I must insist that you only let one accompany you while the remainder stays behind in the rearing grounds."
      0x0E60 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E61 [0x48] [System] [8703*]:
+     0x0E61 [0x48] [System] [8704*]:
     → "You've got it in you to become a positively fabulous caretaker, Chacharoon. Heed my advice and you're sure to go far."
      0x0E64 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E65 [0x01] GOTO 0x0E68
@@ -2636,7 +2636,7 @@
      0x0ED2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=0*, condition_work_offset=1*)
      0x0ED9 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0EE8
      0x0EE1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x0EE8 [0x24] CREATE_DIALOG(message_id=8603*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+     0x0EE8 [0x24] CREATE_DIALOG(message_id=8604*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "Who do you choose? [None./%0./%1./%2./%3.]"
      0x0EEF [0x25] WAIT_DIALOG_SELECT()
      0x0EF0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F00
@@ -2671,7 +2671,7 @@
      0x0F84 [0x01] GOTO 0x0F8C
      0x0F87 [0x03] ExtData[1]->WorkLocal[3] = 4294967295*
      0x0F8C [0x1B] RETURN
-     0x0F8D [0x48] [System] [8674*]:
+     0x0F8D [0x48] [System] [8675*]:
     → "By doing this, you and your creature will go separate ways in life, never to see each other again."
      0x0F90 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F91 [0x0B] ExtData[1]->WorkLocal[4]++
@@ -2686,7 +2686,7 @@
      0x0FB6 [0x03] Work_Zone_1700[31] = Work_Zone[2]
      0x0FBB [0x0B] ExtData[1]->WorkLocal[4]++
      0x0FBE [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x176E
-     0x0FC6 [0x24] CREATE_DIALOG(message_id=8675*, default_option=0*, option_flags=0*)
+     0x0FC6 [0x24] CREATE_DIALOG(message_id=8676*, default_option=0*, option_flags=0*)
     → "How will you part ways? [We won't!/Send it back home./Put it down.]"
      0x0FCD [0x25] WAIT_DIALOG_SELECT()
      0x0FCE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FE7
@@ -2696,14 +2696,14 @@
      0x0FE4 [0x01] GOTO 0x176B
      0x0FE7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1273
      0x0FEF [0x3E] IF !(ExtData[1]->WorkLocal[12] bit ExtData[1]->WorkLocal[9]) GOTO 0x0FFD
-     0x0FF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8743*)
+     0x0FF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8744*)
     → "Beastie has the darkies, so no want chancing it cause daaanger to other people. We dealing with it here!"
      0x0FF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FFA [0x01] GOTO 0x1270
-     0x0FFD [0x48] [System] [8676*]:
+     0x0FFD [0x48] [System] [8677*]:
     → "By returning %0 to its place of birth, you will be unable to care for it anymore, but will also be compensated for your troubles."
      0x1000 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1001 [0x24] CREATE_DIALOG(message_id=8677*, default_option=1*, option_flags=0*)
+     0x1001 [0x24] CREATE_DIALOG(message_id=8678*, default_option=1*, option_flags=0*)
     → "Truly send it back? [Yes, I have no reservations./No, not yet!]"
      0x1008 [0x25] WAIT_DIALOG_SELECT()
      0x1009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1265
@@ -2764,17 +2764,17 @@
      0x1184 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x1186 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x1188 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x1197
-     0x1190 [0x1D] PRINT_EVENT_MESSAGE(message_id=8678*)
+     0x1190 [0x1D] PRINT_EVENT_MESSAGE(message_id=8679*)
     → "%0 embiiiggened Chacharoon and <Player>'s hearts. Wh-when think must say bye-bye...Ch-Chacharoon...get the snurks..."
      0x1193 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1194 [0x01] GOTO 0x11B5
      0x1197 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x11A6
-     0x119F [0x1D] PRINT_EVENT_MESSAGE(message_id=8748*)
+     0x119F [0x1D] PRINT_EVENT_MESSAGE(message_id=8749*)
     → "%0 be around only smaaall time, but give us dinghies of pleasure. Thanks of many."
      0x11A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11A3 [0x01] GOTO 0x11B5
      0x11A6 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x11B5
-     0x11AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8747*)
+     0x11AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8748*)
     → "Whoops of daisies, Chacharoon upslipped. Be returning monster soooooonish."
      0x11B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11B2 [0x01] GOTO 0x11B5
@@ -2810,10 +2810,10 @@
      0x126D [0x01] GOTO 0x1270
      0x1270 [0x01] GOTO 0x176B
      0x1273 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x176B
-     0x127B [0x48] [System] [8679*]:
+     0x127B [0x48] [System] [8680*]:
     → "By putting %0 down, you will personally end its life. While there will be no physical repercussion for doing such, are you willing to have that on your conscience?"
      0x127E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x127F [0x24] CREATE_DIALOG(message_id=8680*, default_option=1*, option_flags=0*)
+     0x127F [0x24] CREATE_DIALOG(message_id=8681*, default_option=1*, option_flags=0*)
     → "Put the creature down? [Yes, I have no reservations./No, not yet!]"
      0x1286 [0x25] WAIT_DIALOG_SELECT()
      0x1287 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1752
@@ -2939,7 +2939,7 @@
      0x15BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
      0x15CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x15DC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-     0x15EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8681*)
+     0x15EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8682*)
     → "<Snurk> Chacharoon...will not be forgetting %0...<snurk> ever. Waaaaaah!"
      0x15EE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3026,14 +3026,14 @@
      0x17E5 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x17F5
      0x17ED [0x03] Work_Zone[2] = 4*
      0x17F2 [0x01] GOTO 0x17F5
-     0x17F5 [0x48] [System] [8633*]:
+     0x17F5 [0x48] [System] [8634*]:
     → "Thanks to Chacharoon's shrewd bargaining, you are now able to rear new creatures, up to a maximum of $0 at once."
      0x17F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17F9 [0x03] Work_Zone[1] = 70*
      0x17FE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x1800 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x1802 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x1815
-     0x180A [0x1D] PRINT_EVENT_MESSAGE(message_id=8742*)
+     0x180A [0x1D] PRINT_EVENT_MESSAGE(message_id=8743*)
     → "No neeew beasties be waiting around for <Player> now. Come back and have pick of litter later."
      0x180D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x180E [0x0C] ExtData[1]->WorkLocal[4]--
@@ -3047,7 +3047,7 @@
      0x1834 [0x01] GOTO 0x183C
      0x1837 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[2]
      0x183C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[26]
-     0x1841 [0x24] CREATE_DIALOG(message_id=8635*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+     0x1841 [0x24] CREATE_DIALOG(message_id=8636*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "$0 more creature[/s] available today. [Nothing for now./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters.]"
      0x1848 [0x25] WAIT_DIALOG_SELECT()
      0x1849 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1858
@@ -3063,7 +3063,7 @@
      0x187B [0x0F] ExtData[1]->WorkLocal[10] ^= 3*
      0x1880 [0x01] GOTO 0x1886
      0x1883 [0x06] ExtData[1]->WorkLocal[10] = 0
-     0x1886 [0x24] CREATE_DIALOG(message_id=8636*, default_option=ExtData[1]->WorkLocal[24], option_flags=ExtData[1]->WorkLocal[10])
+     0x1886 [0x24] CREATE_DIALOG(message_id=8637*, default_option=ExtData[1]->WorkLocal[24], option_flags=ExtData[1]->WorkLocal[10])
     → "Select a creature to rear. [None of the below./Sheep./Rabbit./Treant./Lizard.]"
      0x188D [0x25] WAIT_DIALOG_SELECT()
      0x188E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x189C
@@ -3072,7 +3072,7 @@
      0x189C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x18BD
      0x18A4 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x18A9 [0x03] Work_Zone[2] = 832*
-     0x18AE [0x48] [System] [8643*]:
+     0x18AE [0x48] [System] [8644*]:
     → "Sheep are peaceful and obedient animals, which explains why they are often recommended to fledgling ranchers. Others who have cared for them in the past note that it is possible to receive $0 from them."
      0x18B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18B2 [0x03] Work_Zone[2] = 1*
@@ -3081,7 +3081,7 @@
      0x18BD [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x18DE
      0x18C5 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x18CA [0x03] Work_Zone[2] = 833*
-     0x18CF [0x48] [System] [8644*]:
+     0x18CF [0x48] [System] [8645*]:
     → "Residents of Windurst and its surrounding areas have been known to keep rabbits, or "rarabs" in the local vernacular. These omnivorous animals supposedly relinquish $0 to their trainers on certain occasions, but such reports have yet to be verified."
      0x18D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18D3 [0x03] Work_Zone[2] = 2*
@@ -3090,7 +3090,7 @@
      0x18DE [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x18FF
      0x18E6 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x18EB [0x03] Work_Zone[2] = 572*
-     0x18F0 [0x48] [System] [8645*]:
+     0x18F0 [0x48] [System] [8646*]:
     → "Treants can thrive in many different climes, but no matter the location, occasionally impart $0 to those who look after them...if anything."
      0x18F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18F4 [0x03] Work_Zone[2] = 3*
@@ -3099,7 +3099,7 @@
      0x18FF [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1920
      0x1907 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x190C [0x03] Work_Zone[2] = 869*
-     0x1911 [0x48] [System] [8646*]:
+     0x1911 [0x48] [System] [8647*]:
     → "Lizards are found through all climes and elevations in Vana'diel, from the harshest deserts to the snowiest peaks. Such resilient creatures are known to bequeath $0 to their caretakers."
      0x1914 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1915 [0x03] Work_Zone[2] = 4*
@@ -3111,7 +3111,7 @@
      0x192E [0x06] ExtData[1]->WorkLocal[24] = 0
      0x1931 [0x0B] ExtData[1]->WorkLocal[4]++
      0x1934 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x19B8
-     0x193C [0x24] CREATE_DIALOG(message_id=8637*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+     0x193C [0x24] CREATE_DIALOG(message_id=8638*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
     → "Select a creature to rear. [None of the below./Cockatrice./Raptor./Eft.]"
      0x1943 [0x25] WAIT_DIALOG_SELECT()
      0x1944 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1952
@@ -3120,7 +3120,7 @@
      0x1952 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1973
      0x195A [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x195F [0x03] Work_Zone[2] = 847*
-     0x1964 [0x48] [System] [8647*]:
+     0x1964 [0x48] [System] [8648*]:
     → "Cockatrices are carnivorous birds found in some of Vana'diel's least hospitable locales, but recent domestication efforts have begun to bear fruit. Be wary to keep some gloves handy when handling the $0 they offer their owners."
      0x1967 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1968 [0x03] Work_Zone[2] = 5*
@@ -3129,7 +3129,7 @@
      0x1973 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1994
      0x197B [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1980 [0x03] Work_Zone[2] = 4358*
-     0x1985 [0x48] [System] [8648*]:
+     0x1985 [0x48] [System] [8649*]:
     → "Raptors are quick-witted, vicious little buggers who can often be found feasting on flesh in mountainous areas and on the tops of precarious plateaus. As one would expect of such ravenous beasts, tamers can often procure $0 from them."
      0x1988 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1989 [0x03] Work_Zone[2] = 6*
@@ -3138,7 +3138,7 @@
      0x1994 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x19B5
      0x199C [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x19A1 [0x03] Work_Zone[2] = 943*
-     0x19A6 [0x48] [System] [8649*]:
+     0x19A6 [0x48] [System] [8650*]:
     → "Efts thrive in waterside locations, and are often spotted munching on prey in Bibiki Bay. Take caution not to get any $0 on your hands when you touch them!"
      0x19A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19AA [0x03] Work_Zone[2] = 7*
@@ -3150,7 +3150,7 @@
      0x19C3 [0x06] ExtData[1]->WorkLocal[24] = 0
      0x19C6 [0x0B] ExtData[1]->WorkLocal[4]++
      0x19C9 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1A8F
-     0x19D1 [0x24] CREATE_DIALOG(message_id=8638*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+     0x19D1 [0x24] CREATE_DIALOG(message_id=8639*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
     → "Select a creature to rear. [None of the below./Dhalmel./Sea Monk./Uragnite./Crab./Colibri.]"
      0x19D8 [0x25] WAIT_DIALOG_SELECT()
      0x19D9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19E7
@@ -3159,7 +3159,7 @@
      0x19E7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1A08
      0x19EF [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x19F4 [0x03] Work_Zone[2] = 938*
-     0x19F9 [0x48] [System] [8650*]:
+     0x19F9 [0x48] [System] [8651*]:
     → "Dhalmels are docile, domesticated creatures that live in arid climes, grazing on the sparse vegetation that dots the landscape. A conscientious master may be able to procure $0 from them."
      0x19FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19FD [0x03] Work_Zone[2] = 8*
@@ -3168,7 +3168,7 @@
      0x1A08 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1A29
      0x1A10 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1A15 [0x03] Work_Zone[2] = 5963*
-     0x1A1A [0x48] [System] [8651*]:
+     0x1A1A [0x48] [System] [8652*]:
     → "The salt water-dwelling sea monks prey on smaller species of fish and have been known to be highly territorial come spawning season. Those who treat them right have been known to receive $0 on occasion."
      0x1A1D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A1E [0x03] Work_Zone[2] = 9*
@@ -3177,7 +3177,7 @@
      0x1A29 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1A4A
      0x1A31 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1A36 [0x03] Work_Zone[2] = 624*
-     0x1A3B [0x48] [System] [8652*]:
+     0x1A3B [0x48] [System] [8653*]:
     → "Uragnites reside in Bibiki Bay and the Ulbukan coastline, and their diet of krill helps keep the ecosystem in check. Properly caring for one could yield a reasonable amount of $0."
      0x1A3E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A3F [0x03] Work_Zone[2] = 10*
@@ -3186,7 +3186,7 @@
      0x1A4A [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1A6B
      0x1A52 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1A57 [0x03] Work_Zone[2] = 936*
-     0x1A5C [0x48] [System] [8653*]:
+     0x1A5C [0x48] [System] [8654*]:
     → "Nary a body of water, from the deepest oceans to the most humid marshlands, is without the presence of crabs in some shape or form. They tear their pray in half with pincers before feasting--a most gruesome scene in the best of times. The meek members of the species, however, may impart $0 upon their owners."
      0x1A5F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A60 [0x03] Work_Zone[2] = 11*
@@ -3195,7 +3195,7 @@
      0x1A6B [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1A8C
      0x1A73 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1A78 [0x03] Work_Zone[2] = 4370*
-     0x1A7D [0x48] [System] [8654*]:
+     0x1A7D [0x48] [System] [8655*]:
     → "Colibris are native to western Aht Urhgan, and are among the fiercest and most aggressive birds known to man. Should they be tamed, however, they may bestow $0 upon those who treated them well."
      0x1A80 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A81 [0x03] Work_Zone[2] = 12*
@@ -3207,7 +3207,7 @@
      0x1A9A [0x06] ExtData[1]->WorkLocal[24] = 0
      0x1A9D [0x0B] ExtData[1]->WorkLocal[4]++
      0x1AA0 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1B45
-     0x1AA8 [0x24] CREATE_DIALOG(message_id=8639*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+     0x1AA8 [0x24] CREATE_DIALOG(message_id=8640*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
     → "Select a creature to rear. [None of the below./Coeurl./Buffalo./Slime./Mandragora.]"
      0x1AAF [0x25] WAIT_DIALOG_SELECT()
      0x1AB0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1ABE
@@ -3216,7 +3216,7 @@
      0x1ABE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1ADF
      0x1AC6 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1ACB [0x03] Work_Zone[2] = 4358*
-     0x1AD0 [0x48] [System] [8655*]:
+     0x1AD0 [0x48] [System] [8656*]:
     → "Coeurls are ferocious carnivores often found prowling Mindartia and Elshimo. Taming them could yield a sizable quantity of $0."
      0x1AD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1AD4 [0x03] Work_Zone[2] = 13*
@@ -3225,7 +3225,7 @@
      0x1ADF [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1B00
      0x1AE7 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1AEC [0x03] Work_Zone[2] = 629*
-     0x1AF1 [0x48] [System] [8656*]:
+     0x1AF1 [0x48] [System] [8657*]:
     → "The land of Aht Urhgan is home to buffalo, hulking herbivores that are easy to rear thanks to their docile nature. Those with particularly strong affinities for their masters are known to give them $0."
      0x1AF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1AF5 [0x03] Work_Zone[2] = 14*
@@ -3234,7 +3234,7 @@
      0x1B00 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1B21
      0x1B08 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1B0D [0x03] Work_Zone[2] = 637*
-     0x1B12 [0x48] [System] [8657*]:
+     0x1B12 [0x48] [System] [8658*]:
     → "Slimes are amorphous monsters that tend to prefer the dank, dark atmosphere of caves. Go spelunking with them and hope they give you $0 in the process."
      0x1B15 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B16 [0x03] Work_Zone[2] = 15*
@@ -3243,7 +3243,7 @@
      0x1B21 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1B42
      0x1B29 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1B2E [0x03] Work_Zone[2] = 4368*
-     0x1B33 [0x48] [System] [8752*]:
+     0x1B33 [0x48] [System] [8753*]:
     → "Mandragora are plantoids found living in fertile lands such as Elshimo and the continent of Mindartia. They are known to provide $0 when properly taken care of."
      0x1B36 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B37 [0x03] Work_Zone[2] = 16*
@@ -3255,7 +3255,7 @@
      0x1B50 [0x06] ExtData[1]->WorkLocal[24] = 0
      0x1B53 [0x0B] ExtData[1]->WorkLocal[4]++
      0x1B56 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1BB4
-     0x1B5E [0x24] CREATE_DIALOG(message_id=8640*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+     0x1B5E [0x24] CREATE_DIALOG(message_id=8641*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
     → "Select a creature to rear. [None of the below./Bugard./Adamantoise.]"
      0x1B65 [0x25] WAIT_DIALOG_SELECT()
      0x1B66 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B74
@@ -3264,7 +3264,7 @@
      0x1B74 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1B95
      0x1B7C [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1B81 [0x03] Work_Zone[2] = 856*
-     0x1B86 [0x48] [System] [8658*]:
+     0x1B86 [0x48] [System] [8659*]:
     → "Bugards, often found on the Tavnazian Archipelago, will chow down on anything they can get their hands on. Those rearing these creatures are advised to keep a close eye on their belongings when they try to procure items such as $0 from them."
      0x1B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B8A [0x03] Work_Zone[2] = 17*
@@ -3272,7 +3272,7 @@
      0x1B92 [0x01] GOTO 0x1BB1
      0x1B95 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1BB1
      0x1B9D [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
-     0x1BA2 [0x48] [System] [8659*]:
+     0x1BA2 [0x48] [System] [8660*]:
     → "Adamantoises are concerned with nothing but ballooning up until they are the size of a mountain, and those rearing them should take care to keep their size to a minimum. None can say what types of items can be procured from them."
      0x1BA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BA6 [0x03] Work_Zone[2] = 18*
@@ -3284,7 +3284,7 @@
      0x1BBF [0x06] ExtData[1]->WorkLocal[24] = 0
      0x1BC2 [0x0B] ExtData[1]->WorkLocal[4]++
      0x1BC5 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1C28
-     0x1BCD [0x24] CREATE_DIALOG(message_id=8641*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+     0x1BCD [0x24] CREATE_DIALOG(message_id=8642*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
     → "Select a creature to rear. [None of the below./Bomb./Behemoth.]"
      0x1BD4 [0x25] WAIT_DIALOG_SELECT()
      0x1BD5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BE3
@@ -3293,7 +3293,7 @@
      0x1BE3 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1C04
      0x1BEB [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1BF0 [0x03] Work_Zone[2] = 928*
-     0x1BF5 [0x48] [System] [8660*]:
+     0x1BF5 [0x48] [System] [8661*]:
     → "Bombs are living magical entities who have been known to explode on more than one hapless adventurer. Treated well, they will hesitantly bequeath $0 to their masters."
      0x1BF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BF9 [0x03] Work_Zone[2] = 19*
@@ -3302,7 +3302,7 @@
      0x1C04 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1C25
      0x1C0C [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
      0x1C11 [0x03] Work_Zone[2] = 883*
-     0x1C16 [0x48] [System] [8661*]:
+     0x1C16 [0x48] [System] [8662*]:
     → "Behemoths are known to prowl the innermost recesses of the Qufim region, and are perhaps the most ferocious representatives of the beast family. Those taking the proper precautions in caring for them may be able to receive $0."
      0x1C19 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C1A [0x03] Work_Zone[2] = 20*
@@ -3314,7 +3314,7 @@
      0x1C33 [0x06] ExtData[1]->WorkLocal[24] = 0
      0x1C36 [0x0B] ExtData[1]->WorkLocal[4]++
      0x1C39 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1C92
-     0x1C41 [0x24] CREATE_DIALOG(message_id=8642*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+     0x1C41 [0x24] CREATE_DIALOG(message_id=8643*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
     → "Select a creature to rear. [None of the below./Sabotender./Dragon.]"
      0x1C48 [0x25] WAIT_DIALOG_SELECT()
      0x1C49 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C57
@@ -3322,7 +3322,7 @@
      0x1C54 [0x01] GOTO 0x1C8F
      0x1C57 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1C73
      0x1C5F [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
-     0x1C64 [0x48] [System] [8662*]:
+     0x1C64 [0x48] [System] [8663*]:
     → "These strange, ambulatory cacti are commonly found in the Altepa Desert of the Kuzotz Region. Sabotenders are relentlessly aggressive when provoked, perhaps explaining why so little regarding their way of life is known to science."
      0x1C67 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C68 [0x03] Work_Zone[2] = 21*
@@ -3330,7 +3330,7 @@
      0x1C70 [0x01] GOTO 0x1C8F
      0x1C73 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1C8F
      0x1C7B [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
-     0x1C80 [0x48] [System] [8663*]:
+     0x1C80 [0x48] [System] [8664*]:
     → "Exceptionally robust, long-lived, and wise, dragons have long cast their shadows over Vana'diel's history. Over the course of a few centuries, a dragon may grow into a great wyrm."
      0x1C83 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C84 [0x03] Work_Zone[2] = 22*
@@ -3340,7 +3340,7 @@
      0x1C92 [0x01] GOTO 0x1C95
      0x1C95 [0x01] GOTO 0x181A
      0x1C98 [0x1B] RETURN
-     0x1C99 [0x24] CREATE_DIALOG(message_id=8664*, default_option=1*, option_flags=0*)
+     0x1C99 [0x24] CREATE_DIALOG(message_id=8665*, default_option=1*, option_flags=0*)
     → "Rear [/a sheep/a rabbit/a treant/a lizard/a cockatrice/a raptor/an eft/a dhalmel/a sea monk/an uragnite/a crab/a colibri/a coeurl/a buffalo/a slime/a mandragora/a bugard/an adamantoise/a bomb/a behemoth/a sabotender/a dragon]? [Yes./No, not that.]"
      0x1CA0 [0x25] WAIT_DIALOG_SELECT()
      0x1CA1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D6B
@@ -3350,7 +3350,7 @@
      0x1CB8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x1CBA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x1CBC [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1D51
-     0x1CC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8666*)
+     0x1CC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8667*)
     → "<Player> be wanting care for [/sheep/rabbit/treant/lizard/cockatrice/raptor/eft/dhalmel/sea monk/uragnite/crab/colibri/coeurl/buffalo/slime/mandragora/bugard/adamantoise/bomb/behemoth/sabotender/dragon]? Wait two shaaakes of Qiqirn nose."
      0x1CC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CC8 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
@@ -3372,17 +3372,17 @@
      0x1D3C [0x03] Work_Zone[3] = 1*
      0x1D41 [0x01] GOTO 0x1D47
      0x1D44 [0x06] Work_Zone[3] = 0
-     0x1D47 [0x48] [System] [8667*]:
+     0x1D47 [0x48] [System] [8668*]:
     → "[/A sheep/A rabbit/A treant/A lizard/A cockatrice/A raptor/An eft/A dhalmel/A sea monk/An uragnite/A crab/A colibri/A coeurl/A buffalo/A slime/A mandragora/A bugard/An adamantoise/A bomb/A behemoth/A sabotender/A dragon] has entered your [Mog Garden/rearing ground]!"
      0x1D4A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D4B [0x06] ExtData[1]->WorkLocal[4] = 0
      0x1D4E [0x01] GOTO 0x1D67
      0x1D51 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x1D60
-     0x1D59 [0x1D] PRINT_EVENT_MESSAGE(message_id=8742*)
+     0x1D59 [0x1D] PRINT_EVENT_MESSAGE(message_id=8743*)
     → "No neeew beasties be waiting around for <Player> now. Come back and have pick of litter later."
      0x1D5C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D5D [0x01] GOTO 0x1D64
-     0x1D60 [0x1D] PRINT_EVENT_MESSAGE(message_id=8665*)
+     0x1D60 [0x1D] PRINT_EVENT_MESSAGE(message_id=8666*)
     → "Chacharoon no miiiracle worker! Can only do so much..."
      0x1D63 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D64 [0x0C] ExtData[1]->WorkLocal[4]--
@@ -3404,20 +3404,20 @@
      0x1DA7 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
      0x1DB0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x1DB2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x1DB4 [0x48] [System] [8668*]:
+     0x1DB4 [0x48] [System] [8669*]:
     → "You are currently raising %0 with an emphasis on [personal growth/enjoying the moment]."
      0x1DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DB8 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x1DCC
-     0x1DC0 [0x48] [System] [8669*]:
+     0x1DC0 [0x48] [System] [8670*]:
     → "Placing an emphasis on your critter's personal growth means that, while you do not have to look after it yourself, it will mature bit by bit each day."
      0x1DC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DC4 [0x03] ExtData[1]->WorkLocal[10] = 2*
      0x1DC9 [0x01] GOTO 0x1DD5
-     0x1DCC [0x48] [System] [8670*]:
+     0x1DCC [0x48] [System] [8671*]:
     → "Placing an emphasis on enjoying the moment means that you want your critter to stop and smell the rolanberries. It will not mature, but will live life in its current form to the fullest."
      0x1DCF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DD0 [0x03] ExtData[1]->WorkLocal[10] = 4*
-     0x1DD5 [0x24] CREATE_DIALOG(message_id=8671*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+     0x1DD5 [0x24] CREATE_DIALOG(message_id=8672*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "Place emphasis on what? [Whatever I am now./Personal growth./Enjoying the moment.]"
      0x1DDC [0x25] WAIT_DIALOG_SELECT()
      0x1DDD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1E0A
@@ -3428,7 +3428,7 @@
      0x1DFB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x1DFD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x1DFF [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-     0x1E00 [0x1D] PRINT_EVENT_MESSAGE(message_id=8672*)
+     0x1E00 [0x1D] PRINT_EVENT_MESSAGE(message_id=8673*)
     → ""Personal growth"? Yaaaaaay! That mean Chacharoon do much play with beastie so it get strong."
      0x1E03 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E04 [0x0C] ExtData[1]->WorkLocal[4]--
@@ -3441,7 +3441,7 @@
      0x1E28 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x1E2A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x1E2C [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-     0x1E2D [0x1D] PRINT_EVENT_MESSAGE(message_id=8673*)
+     0x1E2D [0x1D] PRINT_EVENT_MESSAGE(message_id=8674*)
     → ""Enjoy moment"? Then maybe making bed is best. Beastie be snuuug as bug in rug!"
      0x1E30 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E31 [0x0C] ExtData[1]->WorkLocal[4]--

@@ -30,58 +30,58 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2A68      |       10856 |
+|       1 | 0x2A69      |       10857 |
 |       2 | 0x00D7      |         215 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x2A69      |       10857 |
-|       5 | 0x2A6A      |       10858 |
+|       4 | 0x2A6A      |       10858 |
+|       5 | 0x2A6B      |       10859 |
 |       6 | 0x001B      |          27 |
-|       7 | 0x2A6B      |       10859 |
-|       8 | 0x2A6C      |       10860 |
-|       9 | 0x2A6D      |       10861 |
-|      10 | 0x2A6E      |       10862 |
-|      11 | 0x2A6F      |       10863 |
-|      12 | 0x2A70      |       10864 |
-|      13 | 0x2A71      |       10865 |
-|      14 | 0x2A72      |       10866 |
+|       7 | 0x2A6C      |       10860 |
+|       8 | 0x2A6D      |       10861 |
+|       9 | 0x2A6E      |       10862 |
+|      10 | 0x2A6F      |       10863 |
+|      11 | 0x2A70      |       10864 |
+|      12 | 0x2A71      |       10865 |
+|      13 | 0x2A72      |       10866 |
+|      14 | 0x2A73      |       10867 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x04B3      |        1203 |
-|      17 | 0x2A73      |       10867 |
+|      17 | 0x2A74      |       10868 |
 |      18 | 0x04B7      |        1207 |
 |      19 | 0x04B5      |        1205 |
 |      20 | 0x04B4      |        1204 |
 |      21 | 0x04B2      |        1202 |
 |      22 | 0x04B6      |        1206 |
 |      23 | 0x04B8      |        1208 |
-|      24 | 0x2A74      |       10868 |
-|      25 | 0x2A76      |       10870 |
-|      26 | 0x2A75      |       10869 |
+|      24 | 0x2A75      |       10869 |
+|      25 | 0x2A77      |       10871 |
+|      26 | 0x2A76      |       10870 |
 |      27 | 0x001A      |          26 |
-|      28 | 0x2A77      |       10871 |
-|      29 | 0x2A78      |       10872 |
+|      28 | 0x2A78      |       10872 |
+|      29 | 0x2A79      |       10873 |
 |      30 | 0x004B      |          75 |
-|      31 | 0x2A79      |       10873 |
-|      32 | 0x2A7A      |       10874 |
-|      33 | 0x2A7B      |       10875 |
-|      34 | 0x2A7C      |       10876 |
+|      31 | 0x2A7A      |       10874 |
+|      32 | 0x2A7B      |       10875 |
+|      33 | 0x2A7C      |       10876 |
+|      34 | 0x2A7D      |       10877 |
 |      35 | 0x002D      |          45 |
-|      36 | 0x2A7D      |       10877 |
-|      37 | 0x2A7E      |       10878 |
-|      38 | 0x2A7F      |       10879 |
-|      39 | 0x2A80      |       10880 |
-|      40 | 0x2A81      |       10881 |
-|      41 | 0x2A82      |       10882 |
-|      42 | 0x2A83      |       10883 |
-|      43 | 0x2A84      |       10884 |
+|      36 | 0x2A7E      |       10878 |
+|      37 | 0x2A7F      |       10879 |
+|      38 | 0x2A80      |       10880 |
+|      39 | 0x2A81      |       10881 |
+|      40 | 0x2A82      |       10882 |
+|      41 | 0x2A83      |       10883 |
+|      42 | 0x2A84      |       10884 |
+|      43 | 0x2A85      |       10885 |
 |      44 | 0x00C9      |         201 |
-|      45 | 0x2A85      |       10885 |
+|      45 | 0x2A86      |       10886 |
 |      46 | 0x001E      |          30 |
-|      47 | 0x2A86      |       10886 |
-|      48 | 0x2A87      |       10887 |
-|      49 | 0x2A88      |       10888 |
+|      47 | 0x2A87      |       10887 |
+|      48 | 0x2A88      |       10888 |
+|      49 | 0x2A89      |       10889 |
 |      50 | 0x0007      |           7 |
 |      51 | 0x005A      |          90 |
-|      52 | 0x2A89      |       10889 |
+|      52 | 0x2A8A      |       10890 |
 |      53 | 0x0013      |          19 |
 |      54 | 0x00C8      |         200 |
 |      55 | 0x000A      |          10 |
@@ -96,40 +96,40 @@
 
 ## String References
 
-- **10856**: Rare goodieth and obthcure odditieth from around the globe can be found in thith treasure trove we call Norg. However, I have thtill yet to come acroth itemth thcrumptiouth enough for my exthperimentth...
-- **10857**: Oh, I forgot to introduthe mythelf. I'm Mamaulabion, but my friendth call me Mama. I'm thtudying thynthethith theory.
-- **10858**: I've been thearching Vana'diel up and down, inthide and out for jutht the right itemth. Thethe dayth, you can find almotht anything up on auction, but what I'm looking for ith a little different. A little more, how would you thay, rithque<Player>i. That'th why I've come to Norg.
-- **10859**: Travelerth from all over the world path through here everyday, bringing with them taleth of all the wonderouth itemth they have come acroth--itemth that would be perfect for my exthperimenth! Tee-hee-hee!
-- **10860**: Why, jutht by looking at your juithy muthleth, I can tell you are one hardened adventurer. That'th why I want to athk for your help.
-- **10861**: If it ithn't too much trouble, I'd like you to bring me thome rare itemth. You can take ath long ath you like; I'm in no hurry.
-- **10862**: And I don't mean any rare item. It hath to be thuper-duper rare. You know, like, overflowing with thpethial powerth. Thomething that lookth normal, but ith not... You know what I mean?
-- **10863**: I'm thorry I can't be clearer, but an adventurer of your caliber thould have no problem in finding what I'm talking about.
-- **10864**: I'd like you to bring me thome rare itemth. You can take ath long ath you like; I'm in no hurry.
-- **10865**: And I don't mean any rare item. It hath to be thuper-dee-duper rare. You know, like, overflowing with thpethial powerth. I think people call them "thuper-dee-duper, overflowing with thpethial power itemth."
-- **10866**: In cathe you've forgotten, here'th a litht of what you've brought me tho far.
-- **10867**: #.
-- **10868**: That'th a total of $1 thuper thpethial [item/itemth].
-- **10869**: I can't pay you until I have all the itemth I need, but I promithe that I'll give you your reward when I've completed my project. Croth my heart and hope to die. Tee-hee-hee!
-- **10870**: I thtill need you to bring more thuper-duper itemth before I can finith my project and furnith you with your jutht reward. Thavvy?
-- **10871**: Thuperb! I've never theen anything like it. The thuper thpethial power in thith $0 ith exactly what I needed!
-- **10872**: There'th got to be more itemth like thith hidden around Vana'diel!
-- **10873**: Boy, am I glad I athked you for help. Now I'm pothitive that you'll bring me everything I need!
-- **10874**: Eh, not another $0... Thure, thith ith filled with thuper thpethial powerth, but you already brought me one...
-- **10875**: I'm thorry, but I can't take any more of thethe. But if you find anything juth ath thuper-duper, you know where to bring it!
-- **10876**: $0... Thith maketh theven thuper-duper, overflowing with thpethial power itemth. <Player>, I'm ath giddy ath a thcoolgirl! Now I can begin my exthperimenth!
-- **10877**: Your reward? Keep your panth on, [mithter/mithy]. I'm going to need thome time. Jeuno wathn't built in a day, you know. Don't worry. You'll get your goodieth when I'm done.
-- **10878**: Keep your panth on, [mithter/mithy]. I'm going to need thome time. Jeuno wathn't built in a day, you know.
-- **10879**: I'm on the verge of a thpectacular find. Don't worry. You'll get your reward when I'm done.
-- **10880**: I wath wondering when you'd get back, <Player>. I've finally finithed my thethith! I'm ready to give you your jutht reward.
-- **10881**: But who would have thought that thuch powerful fortheth exthithted on Vana'diel. It maketh you wonder if the itemth are really even from thith world at all...
-- **10882**: The power in them ith almotht divine... Hey, where did you get thethe anyway?
-- **10883**: Oh, you don't have to anthwer, and I don't want to know anyway. The truth ith out there for you adventurerth to find. It ith of no matter to little old boyth like me. Tee-hee-hee!
-- **10884**: Here'th your reward--the thweet fruitth of my labor. You more than detherve it!
-- **10885**: Why, if it ithn't <Player>! Tho good of you to pay your old friend Mama a vith-- What!? You went and mithplathed the prethiouth ring I gave you!? I...I can't believe I'm hearing thith...
-- **10886**: Why, I'm abtholutely thtruck thpeethleth that you would treat the token of my apprethiathion with thuch callouthneth. <Thigh>... What'th done ith done, I thuppothe. And the hangdog exthprethion you wear ith evidenthe enough of your remorthe.
-- **10887**: Being the kindly thoul that I am, I've dethided to give you another chanthe. Deliver me the thelfthame itemth ath latht time, and I thall whip up another ring for you. How doeth that thound, hmmm?
-- **10888**: Tho, what will it be? [Perhapth another time./I'll do it!]
-- **10889**: Very well, [mithter/mithy]. I thall await retheipt of the thuper thpethial itemth onthe more...jutht like the good old dayth! Tee-hee!
+- **10857**: Rare goodieth and obthcure odditieth from around the globe can be found in thith treasure trove we call Norg. However, I have thtill yet to come acroth itemth thcrumptiouth enough for my exthperimentth...
+- **10858**: Oh, I forgot to introduthe mythelf. I'm Mamaulabion, but my friendth call me Mama. I'm thtudying thynthethith theory.
+- **10859**: I've been thearching Vana'diel up and down, inthide and out for jutht the right itemth. Thethe dayth, you can find almotht anything up on auction, but what I'm looking for ith a little different. A little more, how would you thay, rithque<Player>i. That'th why I've come to Norg.
+- **10860**: Travelerth from all over the world path through here everyday, bringing with them taleth of all the wonderouth itemth they have come acroth--itemth that would be perfect for my exthperimenth! Tee-hee-hee!
+- **10861**: Why, jutht by looking at your juithy muthleth, I can tell you are one hardened adventurer. That'th why I want to athk for your help.
+- **10862**: If it ithn't too much trouble, I'd like you to bring me thome rare itemth. You can take ath long ath you like; I'm in no hurry.
+- **10863**: And I don't mean any rare item. It hath to be thuper-duper rare. You know, like, overflowing with thpethial powerth. Thomething that lookth normal, but ith not... You know what I mean?
+- **10864**: I'm thorry I can't be clearer, but an adventurer of your caliber thould have no problem in finding what I'm talking about.
+- **10865**: I'd like you to bring me thome rare itemth. You can take ath long ath you like; I'm in no hurry.
+- **10866**: And I don't mean any rare item. It hath to be thuper-dee-duper rare. You know, like, overflowing with thpethial powerth. I think people call them "thuper-dee-duper, overflowing with thpethial power itemth."
+- **10867**: In cathe you've forgotten, here'th a litht of what you've brought me tho far.
+- **10868**: #.
+- **10869**: That'th a total of $1 thuper thpethial [item/itemth].
+- **10870**: I can't pay you until I have all the itemth I need, but I promithe that I'll give you your reward when I've completed my project. Croth my heart and hope to die. Tee-hee-hee!
+- **10871**: I thtill need you to bring more thuper-duper itemth before I can finith my project and furnith you with your jutht reward. Thavvy?
+- **10872**: Thuperb! I've never theen anything like it. The thuper thpethial power in thith $0 ith exactly what I needed!
+- **10873**: There'th got to be more itemth like thith hidden around Vana'diel!
+- **10874**: Boy, am I glad I athked you for help. Now I'm pothitive that you'll bring me everything I need!
+- **10875**: Eh, not another $0... Thure, thith ith filled with thuper thpethial powerth, but you already brought me one...
+- **10876**: I'm thorry, but I can't take any more of thethe. But if you find anything juth ath thuper-duper, you know where to bring it!
+- **10877**: $0... Thith maketh theven thuper-duper, overflowing with thpethial power itemth. <Player>, I'm ath giddy ath a thcoolgirl! Now I can begin my exthperimenth!
+- **10878**: Your reward? Keep your panth on, [mithter/mithy]. I'm going to need thome time. Jeuno wathn't built in a day, you know. Don't worry. You'll get your goodieth when I'm done.
+- **10879**: Keep your panth on, [mithter/mithy]. I'm going to need thome time. Jeuno wathn't built in a day, you know.
+- **10880**: I'm on the verge of a thpectacular find. Don't worry. You'll get your reward when I'm done.
+- **10881**: I wath wondering when you'd get back, <Player>. I've finally finithed my thethith! I'm ready to give you your jutht reward.
+- **10882**: But who would have thought that thuch powerful fortheth exthithted on Vana'diel. It maketh you wonder if the itemth are really even from thith world at all...
+- **10883**: The power in them ith almotht divine... Hey, where did you get thethe anyway?
+- **10884**: Oh, you don't have to anthwer, and I don't want to know anyway. The truth ith out there for you adventurerth to find. It ith of no matter to little old boyth like me. Tee-hee-hee!
+- **10885**: Here'th your reward--the thweet fruitth of my labor. You more than detherve it!
+- **10886**: Why, if it ithn't <Player>! Tho good of you to pay your old friend Mama a vith-- What!? You went and mithplathed the prethiouth ring I gave you!? I...I can't believe I'm hearing thith...
+- **10887**: Why, I'm abtholutely thtruck thpeethleth that you would treat the token of my apprethiathion with thuch callouthneth. <Thigh>... What'th done ith done, I thuppothe. And the hangdog exthprethion you wear ith evidenthe enough of your remorthe.
+- **10888**: Being the kindly thoul that I am, I've dethided to give you another chanthe. Deliver me the thelfthame itemth ath latht time, and I thall whip up another ring for you. How doeth that thound, hmmm?
+- **10889**: Tho, what will it be? [Perhapth another time./I'll do it!]
+- **10890**: Very well, [mithter/mithy]. I thall await retheipt of the thuper thpethial itemth onthe more...jutht like the good old dayth! Tee-hee!
 
 ## Events
 
@@ -178,7 +178,7 @@
 
 ```
   0: 0x0001 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
+  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
     → "Rare goodieth and obthcure odditieth from around the globe can be found in thith treasure trove we call Norg. However, I have thtill yet to come acroth itemth thcrumptiouth enough for my exthperimentth..."
   2: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0014 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -225,7 +225,7 @@
 ```
   0: 0x0032 [0x1A] CALL_SUBROUTINE(address=0x0567)
   1: 0x0035 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  2: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
+  2: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
     → "Rare goodieth and obthcure odditieth from around the globe can be found in thith treasure trove we call Norg. However, I have thtill yet to come acroth itemth thcrumptiouth enough for my exthperimentth..."
   3: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0048 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -233,36 +233,36 @@
   6: 0x0064 [0x1A] CALL_SUBROUTINE(address=0x05BC)
   7: 0x0067 [0x52] END_LOAD_SCHEDULER: End scheduler "qs01" with entities [LocalPlayer, LocalPlayer], work=215*
   8: 0x0076 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qs02" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
-  9: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
+  9: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10858*)
     → "Oh, I forgot to introduthe mythelf. I'm Mamaulabion, but my friendth call me Mama. I'm thtudying thynthethith theory."
  10: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=10858*)
+ 11: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=10859*)
     → "I've been thearching Vana'diel up and down, inthide and out for jutht the right itemth. Thethe dayth, you can find almotht anything up on auction, but what I'm looking for ith a little different. A little more, how would you thay, rithque<Player>i. That'th why I've come to Norg."
  12: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x008F [0x52] END_LOAD_SCHEDULER: End scheduler "qs02" with entities [LocalPlayer, LocalPlayer], work=215*
  14: 0x009E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qs03" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
  15: 0x00AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=27*
- 16: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10859*)
+ 16: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10860*)
     → "Travelerth from all over the world path through here everyday, bringing with them taleth of all the wonderouth itemth they have come acroth--itemth that would be perfect for my exthperimenth! Tee-hee-hee!"
  17: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10860*)
+ 18: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10861*)
     → "Why, jutht by looking at your juithy muthleth, I can tell you are one hardened adventurer. That'th why I want to athk for your help."
  19: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=27*
  21: 0x00D5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlb1" with entities [EventEntity, EventEntity]
- 22: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10861*)
+ 22: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10862*)
     → "If it ithn't too much trouble, I'd like you to bring me thome rare itemth. You can take ath long ath you like; I'm in no hurry."
  23: 0x00E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00E6 [0x52] END_LOAD_SCHEDULER: End scheduler "qs03" with entities [LocalPlayer, LocalPlayer], work=215*
  25: 0x00F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qs04" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
  26: 0x0106 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 27: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=10862*)
+ 27: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=10863*)
     → "And I don't mean any rare item. It hath to be thuper-duper rare. You know, like, overflowing with thpethial powerth. Thomething that lookth normal, but ith not... You know what I mean?"
  28: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0119 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  30: 0x0128 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  31: 0x0135 [0x1A] CALL_SUBROUTINE(address=0x05FA)
- 32: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=10863*)
+ 32: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=10864*)
     → "I'm thorry I can't be clearer, but an adventurer of your caliber thould have no problem in finding what I'm talking about."
  33: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x013C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -309,17 +309,17 @@
 
 ```
   0: 0x0150 [0x1A] CALL_SUBROUTINE(address=0x05BC)
-  1: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=10864*)
+  1: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=10865*)
     → "I'd like you to bring me thome rare itemth. You can take ath long ath you like; I'm in no hurry."
   2: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0157 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=10865*)
+  4: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=10866*)
     → "And I don't mean any rare item. It hath to be thuper-dee-duper rare. You know, like, overflowing with thpethial powerth. I think people call them "thuper-dee-duper, overflowing with thpethial power itemth.""
   5: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x016A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
   7: 0x0179 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
   8: 0x0186 [0x1A] CALL_SUBROUTINE(address=0x05FA)
-  9: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=10863*)
+  9: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=10864*)
     → "I'm thorry I can't be clearer, but an adventurer of your caliber thould have no problem in finding what I'm talking about."
  10: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x018D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -333,60 +333,60 @@
  19: 0x01AF [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[8]
  20: 0x01B4 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[9]
  21: 0x01B9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x025B
- 22: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10866*)
+ 22: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
     → "In cathe you've forgotten, here'th a litht of what you've brought me tho far."
  23: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x01C5 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x01D6
  25: 0x01CD [0x03] Work_Zone[2] = 1203*
- 26: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+ 26: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "#."
  27: 0x01D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x01D6 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x01E7
  29: 0x01DE [0x03] Work_Zone[2] = 1207*
- 30: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+ 30: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "#."
  31: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x01E7 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x01F8
  33: 0x01EF [0x03] Work_Zone[2] = 1205*
- 34: 0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+ 34: 0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "#."
  35: 0x01F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x01F8 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0209
  37: 0x0200 [0x03] Work_Zone[2] = 1204*
- 38: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+ 38: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "#."
  39: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0209 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x021A
  41: 0x0211 [0x03] Work_Zone[2] = 1202*
- 42: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+ 42: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "#."
  43: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x021A [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x022B
  45: 0x0222 [0x03] Work_Zone[2] = 1206*
- 46: 0x0227 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+ 46: 0x0227 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "#."
  47: 0x022A [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x022B [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x023C
  49: 0x0233 [0x03] Work_Zone[2] = 1208*
- 50: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+ 50: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "#."
  51: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x023C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 53: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
+ 53: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
     → "That'th a total of $1 thuper thpethial [item/itemth]."
  54: 0x0244 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0245 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 1*) GOTO 0x0254
- 56: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=10870*)
+ 56: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=10871*)
     → "I thtill need you to bring more thuper-duper itemth before I can finith my project and furnith you with your jutht reward. Thavvy?"
  57: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0251 [0x01] GOTO 0x0258
- 59: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
+ 59: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=10870*)
     → "I can't pay you until I have all the itemth I need, but I promithe that I'll give you your reward when I've completed my project. Croth my heart and hope to die. Tee-hee-hee!"
  60: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0258:
  61: 0x0258 [0x01] GOTO 0x025F
- 62: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
+ 62: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=10870*)
     → "I can't pay you until I have all the itemth I need, but I promithe that I'll give you your reward when I've completed my project. Croth my heart and hope to die. Tee-hee-hee!"
  63: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -427,10 +427,10 @@ SUBROUTINE_025F:
   0: 0x027D [0x1A] CALL_SUBROUTINE(address=0x0567)
   1: 0x0280 [0x1A] CALL_SUBROUTINE(address=0x05BC)
   2: 0x0283 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "oro0" with entities [EventEntity, EventEntity], work=26*
-  3: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=10871*)
+  3: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=10872*)
     → "Thuperb! I've never theen anything like it. The thuper thpethial power in thith $0 ith exactly what I needed!"
   4: 0x0295 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=10872*)
+  5: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=10873*)
     → "There'th got to be more itemth like thith hidden around Vana'diel!"
   6: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x029A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "oro1" with entities [EventEntity, EventEntity], work=26*
@@ -439,7 +439,7 @@ SUBROUTINE_025F:
  10: 0x02B9 [0x52] END_LOAD_SCHEDULER: End scheduler "qs01" with entities [LocalPlayer, LocalPlayer], work=215*
  11: 0x02C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qs04" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
  12: 0x02D9 [0x1A] CALL_SUBROUTINE(address=0x05FA)
- 13: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10873*)
+ 13: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10874*)
     → "Boy, am I glad I athked you for help. Now I'm pothitive that you'll bring me everything I need!"
  14: 0x02DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x02E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -470,11 +470,11 @@ SUBROUTINE_025F:
 
 ```
   0: 0x02F4 [0x1A] CALL_SUBROUTINE(address=0x05BC)
-  1: 0x02F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10874*)
+  1: 0x02F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10875*)
     → "Eh, not another $0... Thure, thith ith filled with thuper thpethial powerth, but you already brought me one..."
   2: 0x02FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02FB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=10875*)
+  4: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=10876*)
     → "I'm thorry, but I can't take any more of thethe. But if you find anything juth ath thuper-duper, you know where to bring it!"
   5: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x030E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -511,7 +511,7 @@ SUBROUTINE_025F:
   0: 0x031D [0x1A] CALL_SUBROUTINE(address=0x0567)
   1: 0x0320 [0x1A] CALL_SUBROUTINE(address=0x05BC)
   2: 0x0323 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  3: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=10876*)
+  3: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=10877*)
     → "$0... Thith maketh theven thuper-duper, overflowing with thpethial power itemth. <Player>, I'm ath giddy ath a thcoolgirl! Now I can begin my exthperimenth!"
   4: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0336 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -520,7 +520,7 @@ SUBROUTINE_025F:
   8: 0x0355 [0x52] END_LOAD_SCHEDULER: End scheduler "qs01" with entities [LocalPlayer, LocalPlayer], work=215*
   9: 0x0364 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qs04" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
  10: 0x0375 [0x1A] CALL_SUBROUTINE(address=0x05FA)
- 11: 0x0378 [0x1D] PRINT_EVENT_MESSAGE(message_id=10877*)
+ 11: 0x0378 [0x1D] PRINT_EVENT_MESSAGE(message_id=10878*)
     → "Your reward? Keep your panth on, [mithter/mithy]. I'm going to need thome time. Jeuno wathn't built in a day, you know. Don't worry. You'll get your goodieth when I'm done."
  12: 0x037B [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x037C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -553,10 +553,10 @@ SUBROUTINE_025F:
 ```
   0: 0x0390 [0x1A] CALL_SUBROUTINE(address=0x05BC)
   1: 0x0393 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=27*
-  2: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10878*)
+  2: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10879*)
     → "Keep your panth on, [mithter/mithy]. I'm going to need thome time. Jeuno wathn't built in a day, you know."
   3: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10879*)
+  4: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10880*)
     → "I'm on the verge of a thpectacular find. Don't worry. You'll get your reward when I'm done."
   5: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03AA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=27*
@@ -599,29 +599,29 @@ SUBROUTINE_025F:
 ```
   0: 0x03C8 [0x1A] CALL_SUBROUTINE(address=0x0567)
   1: 0x03CB [0x1A] CALL_SUBROUTINE(address=0x05BC)
-  2: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10880*)
+  2: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10881*)
     → "I wath wondering when you'd get back, <Player>. I've finally finithed my thethith! I'm ready to give you your jutht reward."
   3: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x03D2 [0x52] END_LOAD_SCHEDULER: End scheduler "qs01" with entities [LocalPlayer, LocalPlayer], work=215*
   5: 0x03E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qs02" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
   6: 0x03F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  7: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=10881*)
+  7: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=10882*)
     → "But who would have thought that thuch powerful fortheth exthithted on Vana'diel. It maketh you wonder if the itemth are really even from thith world at all..."
   8: 0x0404 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0405 [0x1D] PRINT_EVENT_MESSAGE(message_id=10882*)
+  9: 0x0405 [0x1D] PRINT_EVENT_MESSAGE(message_id=10883*)
     → "The power in them ith almotht divine... Hey, where did you get thethe anyway?"
  10: 0x0408 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0409 [0x52] END_LOAD_SCHEDULER: End scheduler "qs02" with entities [LocalPlayer, LocalPlayer], work=215*
  12: 0x0418 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qs03" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
  13: 0x0429 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 14: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=10883*)
+ 14: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=10884*)
     → "Oh, you don't have to anthwer, and I don't want to know anyway. The truth ith out there for you adventurerth to find. It ith of no matter to little old boyth like me. Tee-hee-hee!"
  15: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x043C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  17: 0x0449 [0x52] END_LOAD_SCHEDULER: End scheduler "qs03" with entities [LocalPlayer, LocalPlayer], work=215*
  18: 0x0458 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qs04" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
  19: 0x0469 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 20: 0x0478 [0x1D] PRINT_EVENT_MESSAGE(message_id=10884*)
+ 20: 0x0478 [0x1D] PRINT_EVENT_MESSAGE(message_id=10885*)
     → "Here'th your reward--the thweet fruitth of my labor. You more than detherve it!"
  21: 0x047B [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x047C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -654,14 +654,14 @@ SUBROUTINE_025F:
 ```
   0: 0x0492 [0x1A] CALL_SUBROUTINE(address=0x05BC)
   1: 0x0495 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  2: 0x04A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10881*)
+  2: 0x04A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10882*)
     → "But who would have thought that thuch powerful fortheth exthithted on Vana'diel. It maketh you wonder if the itemth are really even from thith world at all..."
   3: 0x04A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x04A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10882*)
+  4: 0x04A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10883*)
     → "The power in them ith almotht divine... Hey, where did you get thethe anyway?"
   5: 0x04AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04AC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
-  7: 0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10883*)
+  7: 0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10884*)
     → "Oh, you don't have to anthwer, and I don't want to know anyway. The truth ith out there for you adventurerth to find. It ith of no matter to little old boyth like me. Tee-hee-hee!"
   8: 0x04BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x04BF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
@@ -760,21 +760,21 @@ SUBROUTINE_025F:
 ```
   0: 0x04CE [0x1A] CALL_SUBROUTINE(address=0x05BC)
   1: 0x04D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "oro0" with entities [EventEntity, EventEntity], work=26*
-  2: 0x04E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10885*)
+  2: 0x04E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10886*)
     → "Why, if it ithn't <Player>! Tho good of you to pay your old friend Mama a vith-- What!? You went and mithplathed the prethiouth ring I gave you!? I...I can't believe I'm hearing thith..."
   3: 0x04E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x04E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "oro1" with entities [EventEntity, EventEntity], work=26*
   5: 0x04F3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "oro0" with entities [EventEntity, EventEntity]
   6: 0x0500 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
   7: 0x050F [0x1C] WAIT(30* ticks)
-  8: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=10886*)
+  8: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=10887*)
     → "Why, I'm abtholutely thtruck thpeethleth that you would treat the token of my apprethiathion with thuch callouthneth. <Thigh>... What'th done ith done, I thuppothe. And the hangdog exthprethion you wear ith evidenthe enough of your remorthe."
   9: 0x0515 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0516 [0x1D] PRINT_EVENT_MESSAGE(message_id=10887*)
+ 10: 0x0516 [0x1D] PRINT_EVENT_MESSAGE(message_id=10888*)
     → "Being the kindly thoul that I am, I've dethided to give you another chanthe. Deliver me the thelfthame itemth ath latht time, and I thall whip up another ring for you. How doeth that thound, hmmm?"
  11: 0x0519 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x051A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 13: 0x0529 [0x24] CREATE_DIALOG(message_id=10888*, default_option=0*, option_flags=0*)
+ 13: 0x0529 [0x24] CREATE_DIALOG(message_id=10889*, default_option=0*, option_flags=0*)
     → "Tho, what will it be? [Perhapth another time./I'll do it!]"
  14: 0x0530 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0531 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0541
@@ -785,7 +785,7 @@ SUBROUTINE_025F:
  20: 0x054A [0x6E] LocalPlayer uses emote 7*
  21: 0x0551 [0x99] Wait for LocalPlayer animation to complete
  22: 0x0556 [0x1C] WAIT(90* ticks)
- 23: 0x0559 [0x1D] PRINT_EVENT_MESSAGE(message_id=10889*)
+ 23: 0x0559 [0x1D] PRINT_EVENT_MESSAGE(message_id=10890*)
     → "Very well, [mithter/mithy]. I thall await retheipt of the thuper thpethial itemth onthe more...jutht like the good old dayth! Tee-hee!"
  24: 0x055C [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x055D [0x03] Work_Zone[1] = 1*

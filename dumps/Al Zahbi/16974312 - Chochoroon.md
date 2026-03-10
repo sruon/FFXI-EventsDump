@@ -23,32 +23,32 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1DEF      |        7663 |
+|       1 | 0x1DF0      |        7664 |
 |       2 | 0x034A      |         842 |
-|       3 | 0x1F04      |        7940 |
-|       4 | 0x1F05      |        7941 |
+|       3 | 0x1F05      |        7941 |
+|       4 | 0x1F06      |        7942 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x1F06      |        7942 |
-|       7 | 0x1F07      |        7943 |
-|       8 | 0x1F08      |        7944 |
+|       6 | 0x1F07      |        7943 |
+|       7 | 0x1F08      |        7944 |
+|       8 | 0x1F09      |        7945 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x1F09      |        7945 |
-|      11 | 0x1F0A      |        7946 |
-|      12 | 0x1F0B      |        7947 |
-|      13 | 0x1F0C      |        7948 |
+|      10 | 0x1F0A      |        7946 |
+|      11 | 0x1F0B      |        7947 |
+|      12 | 0x1F0C      |        7948 |
+|      13 | 0x1F0D      |        7949 |
 
 ## String References
 
-- **7663**: Nice adventooorer save Chochoroon, yes? Chochoroon very happy. Chochoroon give yooo present.
-- **7940**: Chochoroon is appraiser, no? Yooo give Chochoroon item for appraisal, no? Chochoroon appraise for just $0 clink clink!
-- **7941**: Appraise? [Appraise, yes?/Appraise, no!/Appraise...what?]
-- **7942**: Appraise, okay? Chochoroon tell yooo mysterious item name for $0 gil, okay?
-- **7943**: Chochoroon put item with your treasooor, okay? So leave rooom, okay? And make sure can have more than one of item, yes?
-- **7944**: Appraise, no? Bye bye, okay?
-- **7945**: Item yooo don't know...everywhere, yes? Tumbling, tooopling, rooolling on the flooor, here and there, yes? Yooo happy to find them, yes?
-- **7946**: Chochoroon thank yooo for clink clink.
-- **7947**: Hmm hmm hmmm... This seems tooo be...
-- **7948**: Oooh! It's $1! Yooo can have it now.
+- **7664**: Nice adventooorer save Chochoroon, yes? Chochoroon very happy. Chochoroon give yooo present.
+- **7941**: Chochoroon is appraiser, no? Yooo give Chochoroon item for appraisal, no? Chochoroon appraise for just $0 clink clink!
+- **7942**: Appraise? [Appraise, yes?/Appraise, no!/Appraise...what?]
+- **7943**: Appraise, okay? Chochoroon tell yooo mysterious item name for $0 gil, okay?
+- **7944**: Chochoroon put item with your treasooor, okay? So leave rooom, okay? And make sure can have more than one of item, yes?
+- **7945**: Appraise, no? Bye bye, okay?
+- **7946**: Item yooo don't know...everywhere, yes? Tumbling, tooopling, rooolling on the flooor, here and there, yes? Yooo happy to find them, yes?
+- **7947**: Chochoroon thank yooo for clink clink.
+- **7948**: Hmm hmm hmmm... This seems tooo be...
+- **7949**: Oooh! It's $1! Yooo can have it now.
 
 ## Events
 
@@ -104,7 +104,7 @@
   5: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
   6: 0x0012 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0013 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
+  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7664*)
     → "Nice adventooorer save Chochoroon, yes? Chochoroon very happy. Chochoroon give yooo present."
   9: 0x0017 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=842*
  10: 0x0026 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -141,27 +141,27 @@
   1: 0x003A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=842*
-  4: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+  4: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "Chochoroon is appraiser, no? Yooo give Chochoroon item for appraisal, no? Chochoroon appraise for just $0 clink clink!"
   5: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004F [0x24] CREATE_DIALOG(message_id=7941*, default_option=0*, option_flags=0*)
+  6: 0x004F [0x24] CREATE_DIALOG(message_id=7942*, default_option=0*, option_flags=0*)
     → "Appraise? [Appraise, yes?/Appraise, no!/Appraise...what?]"
   7: 0x0056 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0057 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006A
-  9: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+  9: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "Appraise, okay? Chochoroon tell yooo mysterious item name for $0 gil, okay?"
  10: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
+ 11: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
     → "Chochoroon put item with your treasooor, okay? So leave rooom, okay? And make sure can have more than one of item, yes?"
  12: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0067 [0x01] GOTO 0x0088
  14: 0x006A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0079
- 15: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+ 15: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
     → "Appraise, no? Bye bye, okay?"
  16: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0076 [0x01] GOTO 0x0088
  18: 0x0079 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0088
- 19: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
+ 19: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
     → "Item yooo don't know...everywhere, yes? Tumbling, tooopling, rooolling on the flooor, here and there, yes? Yooo happy to find them, yes?"
  20: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0085 [0x01] GOTO 0x0088
@@ -199,13 +199,13 @@ SUBROUTINE_0088:
   2: 0x009F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00A0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00A1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=842*
-  5: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+  5: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "Chochoroon thank yooo for clink clink."
   6: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
+  7: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
     → "Hmm hmm hmmm... This seems tooo be..."
   8: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
+  9: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
     → "Oooh! It's $1! Yooo can have it now."
  10: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00BC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=842*

@@ -114,121 +114,121 @@
 |      18 | 0x4503      |       17667 |
 |      19 | 0xFFFFA356  |  4294943574 |
 |      20 | 0x065C      |        1628 |
-|      21 | 0x2090      |        8336 |
-|      22 | 0x2092      |        8338 |
-|      23 | 0x2094      |        8340 |
-|      24 | 0x2095      |        8341 |
-|      25 | 0x2096      |        8342 |
-|      26 | 0x20B2      |        8370 |
-|      27 | 0x20B3      |        8371 |
-|      28 | 0x20B4      |        8372 |
-|      29 | 0x20B5      |        8373 |
-|      30 | 0x20B7      |        8375 |
-|      31 | 0x20B6      |        8374 |
-|      32 | 0x20B8      |        8376 |
-|      33 | 0x2098      |        8344 |
-|      34 | 0x2099      |        8345 |
-|      35 | 0x209A      |        8346 |
-|      36 | 0x209B      |        8347 |
-|      37 | 0x209C      |        8348 |
-|      38 | 0x209D      |        8349 |
-|      39 | 0x209E      |        8350 |
-|      40 | 0x209F      |        8351 |
-|      41 | 0x20A0      |        8352 |
-|      42 | 0x20A3      |        8355 |
-|      43 | 0x20A8      |        8360 |
-|      44 | 0x20A9      |        8361 |
-|      45 | 0x20AA      |        8362 |
-|      46 | 0x20B9      |        8377 |
-|      47 | 0x20BC      |        8380 |
-|      48 | 0x20BD      |        8381 |
-|      49 | 0x20BE      |        8382 |
-|      50 | 0x20BF      |        8383 |
-|      51 | 0x20C0      |        8384 |
-|      52 | 0x20C1      |        8385 |
-|      53 | 0x20C2      |        8386 |
-|      54 | 0x20C3      |        8387 |
-|      55 | 0x20C4      |        8388 |
-|      56 | 0x20C5      |        8389 |
-|      57 | 0x20C6      |        8390 |
-|      58 | 0x20C7      |        8391 |
-|      59 | 0x20C8      |        8392 |
-|      60 | 0x20C9      |        8393 |
-|      61 | 0x20CA      |        8394 |
-|      62 | 0x20CB      |        8395 |
-|      63 | 0x20CC      |        8396 |
-|      64 | 0x20CD      |        8397 |
-|      65 | 0x20CE      |        8398 |
-|      66 | 0x20CF      |        8399 |
-|      67 | 0x20D0      |        8400 |
-|      68 | 0x20D1      |        8401 |
-|      69 | 0x20D2      |        8402 |
-|      70 | 0x20D3      |        8403 |
-|      71 | 0x20D4      |        8404 |
-|      72 | 0x20D5      |        8405 |
-|      73 | 0x20D6      |        8406 |
-|      74 | 0x20D7      |        8407 |
-|      75 | 0x20D8      |        8408 |
-|      76 | 0x20D9      |        8409 |
+|      21 | 0x2091      |        8337 |
+|      22 | 0x2093      |        8339 |
+|      23 | 0x2095      |        8341 |
+|      24 | 0x2096      |        8342 |
+|      25 | 0x2097      |        8343 |
+|      26 | 0x20B3      |        8371 |
+|      27 | 0x20B4      |        8372 |
+|      28 | 0x20B5      |        8373 |
+|      29 | 0x20B6      |        8374 |
+|      30 | 0x20B8      |        8376 |
+|      31 | 0x20B7      |        8375 |
+|      32 | 0x20B9      |        8377 |
+|      33 | 0x2099      |        8345 |
+|      34 | 0x209A      |        8346 |
+|      35 | 0x209B      |        8347 |
+|      36 | 0x209C      |        8348 |
+|      37 | 0x209D      |        8349 |
+|      38 | 0x209E      |        8350 |
+|      39 | 0x209F      |        8351 |
+|      40 | 0x20A0      |        8352 |
+|      41 | 0x20A1      |        8353 |
+|      42 | 0x20A4      |        8356 |
+|      43 | 0x20A9      |        8361 |
+|      44 | 0x20AA      |        8362 |
+|      45 | 0x20AB      |        8363 |
+|      46 | 0x20BA      |        8378 |
+|      47 | 0x20BD      |        8381 |
+|      48 | 0x20BE      |        8382 |
+|      49 | 0x20BF      |        8383 |
+|      50 | 0x20C0      |        8384 |
+|      51 | 0x20C1      |        8385 |
+|      52 | 0x20C2      |        8386 |
+|      53 | 0x20C3      |        8387 |
+|      54 | 0x20C4      |        8388 |
+|      55 | 0x20C5      |        8389 |
+|      56 | 0x20C6      |        8390 |
+|      57 | 0x20C7      |        8391 |
+|      58 | 0x20C8      |        8392 |
+|      59 | 0x20C9      |        8393 |
+|      60 | 0x20CA      |        8394 |
+|      61 | 0x20CB      |        8395 |
+|      62 | 0x20CC      |        8396 |
+|      63 | 0x20CD      |        8397 |
+|      64 | 0x20CE      |        8398 |
+|      65 | 0x20CF      |        8399 |
+|      66 | 0x20D0      |        8400 |
+|      67 | 0x20D1      |        8401 |
+|      68 | 0x20D2      |        8402 |
+|      69 | 0x20D3      |        8403 |
+|      70 | 0x20D4      |        8404 |
+|      71 | 0x20D5      |        8405 |
+|      72 | 0x20D6      |        8406 |
+|      73 | 0x20D7      |        8407 |
+|      74 | 0x20D8      |        8408 |
+|      75 | 0x20D9      |        8409 |
+|      76 | 0x20DA      |        8410 |
 
 ## String References
 
-- **8336**: What's up with you? Why are you standing there in a daze?
-- **8338**: Let me take a stab in the darrrk and guess that this is your first time in Windurst.
-- **8340**: Well then, welcome... Yes, welcome to peaceful old Windurrrst. Scaredy-cats who have been dumbed down by the peace are enthusiastically received here.
-- **8341**: Good try... But if you're going to deceive people, you should at least learn how to lie properrrly.
-- **8342**: Where are you heading? What brings you to town?
-- **8344**: Grrr... You'rrre more hot-blooded than you look. I could almost come to like you.
-- **8345**: But judging from your delicate appearrrance, I'd say you'd be lucky to beat a rarab, let alone a mandragorrra, out there in Sarutabaruta.
-- **8346**: Oh, in case you didn't know, Sarutabaruta is the name of the grasslands that surround Windurst.
-- **8347**: If you go back up that slope behind you and pass through the gatehouse, you will come to East Sarutabaruta.
-- **8348**: Sarutabaruta is full of weak monsters, so even a newbie like you can try to hunt there.
-- **8349**: But be warrrned. The furrrther you go away from town the strongerrr the monsters become, so keep an eye on your map.
-- **8350**: Ask your fellow adventurers for details on the best way to fight or flee. I can't be botherrred telling you myself.
-- **8351**: Well, I've helped you enough forrr today. I'm sure you get the idea.
-- **8352**: Nanaa Mihgo's lesson on Windurst is overrr. I've discounted your tuition fee to a mere 1000 gil. Come on then, cough it up.
-- **8355**: Show me how much you've got in your purrrse.
-- **8360**: Grrr, not those S.O.B.'s again! I would've gotten away with it, if it weren't for you meddling kids!
-- **8361**: Due to this disturrrbance, I'll have to end your lesson forrr today!
-- **8362**: We'll continue anotherrr day, and that's when I'll collect my fee.
-- **8370**: What the...? Shopping? Asking me's a waste of time.
-- **8371**: I mean a waste of my time, not yourrrs! If you must ask, then all I can recommend is to head to Port Windurst.
-- **8372**: To get there, head down the road on the otherrr side of this fountain round.
-- **8373**: Once in the porrrt, head down to the wharves, where there are three boat-shaped shops. They house a magic shop, an armor shop, and a weapon shop.
-- **8374**: If you're looking for shops in the Windurst Woods area, there's a general goods store far over on the otherrr side of those tents there. You'll find the Boneworkers' Guild and Weavers' Guild shops back behind therrre too!
-- **8375**: And up behind the dhalmel farm, therrre's a Mithra apothecary.
-- **8376**: You should know this already, but you can make money by selling the items that monsters drop after you defeat them. You can use the gil earrrned to buy whatever you want.
-- **8377**: The best way to gather inforrrmation is to speak to all the townsfolk.
-- **8380**: Why not try the Manustery's Cardian worrrkshop up there? You won't only be helping people, but Cardians as well.
-- **8381**: Oh, Cardians are the magical automatons that function as the guarrrds of Windurst.
-- **8382**: If you go in that workshop there, you'll see morrre of them than you probably want to.
-- **8383**: Perrrsonally, I'd prefer if all the Cardians were rounded up and destroyed.
-- **8384**: Hah! If therrre was such sweet talk of fast money, I'd have done it already.
-- **8385**: But wait a second. Let me see... What could be suitable for a newbie like you...?
-- **8386**: You know the Boneworrrkers' Guild to the south of here? If you diligently practice that trade skill, you might make some money out of synthesizing and selling items.
-- **8387**: You'rrre not going to strike it rich right away, but it's a relatively easy way to make money. Hey, it's a start, right?
-- **8388**: Norrrmally, I'd say, "Go out and slaughter those Yagudo beastmen"!
-- **8389**: But the Tarutaru of Windurrrst like to keep the peace and are trying to be friends with the Yagudo.
-- **8390**: So at this point, all I can recommend to you is the dhalmel farrrm.
-- **8391**: If you head north from here, you'll see the long necks of the dhalmel sticking up over the farrrm's walkway. Inquire with the farrrmer. She's grateful for any help she can get.
-- **8392**: Looking for worrrk, huh? Then head to one of the gatehouses.
-- **8393**: There's one right behind you. The stone building there is the Eastern Gatehouse. It's swarrrming with those preening Mithra guards.
-- **8394**: You can receive missions from the gatehouses if you're into volunteerrring for your country. Perrrsonally, I don't care much for it myself, so ask for details at the gatehouse.
-- **8395**: Missions are tasks from and on behalf of the Federation of Windurst, and differrr from the requests for help from general townsfolk.
-- **8396**: For instance, if you do so-and-so a mission, you are rewarrrded with a set number of rank points.
-- **8397**: Collect enough rank points and your rank or position in this country will rise. But as far as I'm concerned, the rewards aren't worrrth the effort.
-- **8398**: Hm? You don't know left from right? You poorrr thing.
-- **8399**: This is Windurst Woods, the easternmost of the fourrr districts of Windurst.
-- **8400**: Seeing as we're nearrr the Bomingo Round here, I'll use it as the starting point of my explanation.
-- **8401**: Firrrst, if you head south from the round, there are several shops run by the local craftswomen.
-- **8402**: There's the Weavers' Guild, which is the specialty of the Tarutaru, and there's the Boneworkers' Guild. which is more the Mithra's forte. These are the pride and joy of Windurst.
-- **8403**: If you head north from the round, you'll find roads that lead to the dhalmel farm and Chocobo Stables. Just follow the sweet smell of naturrre.
-- **8404**: Take the road norrrth, and you'll find an apothecary mixed among the Mithra Groves with the Mithra houses. Take the road south, and you'll find an auction house.
-- **8405**: Compared to the other districts, there's hardly any Tarutaru buildings in Windurst Woods at all. However, the Manustery, one of the five ministries, is right therrre.
-- **8406**: That building up high there is the Manustery's Cardian workshop. It's where those Cardian guards are manufacturrred.
-- **8407**: Finally, heading west from the round will take you to Windurst's residential area.
-- **8408**: If you're a citizen of Windurst, you can use one of the Mog Houses inside of therrre.
-- **8409**: Ask the guards at the entrance there forrr the details.
+- **8337**: What's up with you? Why are you standing there in a daze?
+- **8339**: Let me take a stab in the darrrk and guess that this is your first time in Windurst.
+- **8341**: Well then, welcome... Yes, welcome to peaceful old Windurrrst. Scaredy-cats who have been dumbed down by the peace are enthusiastically received here.
+- **8342**: Good try... But if you're going to deceive people, you should at least learn how to lie properrrly.
+- **8343**: Where are you heading? What brings you to town?
+- **8345**: Grrr... You'rrre more hot-blooded than you look. I could almost come to like you.
+- **8346**: But judging from your delicate appearrrance, I'd say you'd be lucky to beat a rarab, let alone a mandragorrra, out there in Sarutabaruta.
+- **8347**: Oh, in case you didn't know, Sarutabaruta is the name of the grasslands that surround Windurst.
+- **8348**: If you go back up that slope behind you and pass through the gatehouse, you will come to East Sarutabaruta.
+- **8349**: Sarutabaruta is full of weak monsters, so even a newbie like you can try to hunt there.
+- **8350**: But be warrrned. The furrrther you go away from town the strongerrr the monsters become, so keep an eye on your map.
+- **8351**: Ask your fellow adventurers for details on the best way to fight or flee. I can't be botherrred telling you myself.
+- **8352**: Well, I've helped you enough forrr today. I'm sure you get the idea.
+- **8353**: Nanaa Mihgo's lesson on Windurst is overrr. I've discounted your tuition fee to a mere 1000 gil. Come on then, cough it up.
+- **8356**: Show me how much you've got in your purrrse.
+- **8361**: Grrr, not those S.O.B.'s again! I would've gotten away with it, if it weren't for you meddling kids!
+- **8362**: Due to this disturrrbance, I'll have to end your lesson forrr today!
+- **8363**: We'll continue anotherrr day, and that's when I'll collect my fee.
+- **8371**: What the...? Shopping? Asking me's a waste of time.
+- **8372**: I mean a waste of my time, not yourrrs! If you must ask, then all I can recommend is to head to Port Windurst.
+- **8373**: To get there, head down the road on the otherrr side of this fountain round.
+- **8374**: Once in the porrrt, head down to the wharves, where there are three boat-shaped shops. They house a magic shop, an armor shop, and a weapon shop.
+- **8375**: If you're looking for shops in the Windurst Woods area, there's a general goods store far over on the otherrr side of those tents there. You'll find the Boneworkers' Guild and Weavers' Guild shops back behind therrre too!
+- **8376**: And up behind the dhalmel farm, therrre's a Mithra apothecary.
+- **8377**: You should know this already, but you can make money by selling the items that monsters drop after you defeat them. You can use the gil earrrned to buy whatever you want.
+- **8378**: The best way to gather inforrrmation is to speak to all the townsfolk.
+- **8381**: Why not try the Manustery's Cardian worrrkshop up there? You won't only be helping people, but Cardians as well.
+- **8382**: Oh, Cardians are the magical automatons that function as the guarrrds of Windurst.
+- **8383**: If you go in that workshop there, you'll see morrre of them than you probably want to.
+- **8384**: Perrrsonally, I'd prefer if all the Cardians were rounded up and destroyed.
+- **8385**: Hah! If therrre was such sweet talk of fast money, I'd have done it already.
+- **8386**: But wait a second. Let me see... What could be suitable for a newbie like you...?
+- **8387**: You know the Boneworrrkers' Guild to the south of here? If you diligently practice that trade skill, you might make some money out of synthesizing and selling items.
+- **8388**: You'rrre not going to strike it rich right away, but it's a relatively easy way to make money. Hey, it's a start, right?
+- **8389**: Norrrmally, I'd say, "Go out and slaughter those Yagudo beastmen"!
+- **8390**: But the Tarutaru of Windurrrst like to keep the peace and are trying to be friends with the Yagudo.
+- **8391**: So at this point, all I can recommend to you is the dhalmel farrrm.
+- **8392**: If you head north from here, you'll see the long necks of the dhalmel sticking up over the farrrm's walkway. Inquire with the farrrmer. She's grateful for any help she can get.
+- **8393**: Looking for worrrk, huh? Then head to one of the gatehouses.
+- **8394**: There's one right behind you. The stone building there is the Eastern Gatehouse. It's swarrrming with those preening Mithra guards.
+- **8395**: You can receive missions from the gatehouses if you're into volunteerrring for your country. Perrrsonally, I don't care much for it myself, so ask for details at the gatehouse.
+- **8396**: Missions are tasks from and on behalf of the Federation of Windurst, and differrr from the requests for help from general townsfolk.
+- **8397**: For instance, if you do so-and-so a mission, you are rewarrrded with a set number of rank points.
+- **8398**: Collect enough rank points and your rank or position in this country will rise. But as far as I'm concerned, the rewards aren't worrrth the effort.
+- **8399**: Hm? You don't know left from right? You poorrr thing.
+- **8400**: This is Windurst Woods, the easternmost of the fourrr districts of Windurst.
+- **8401**: Seeing as we're nearrr the Bomingo Round here, I'll use it as the starting point of my explanation.
+- **8402**: Firrrst, if you head south from the round, there are several shops run by the local craftswomen.
+- **8403**: There's the Weavers' Guild, which is the specialty of the Tarutaru, and there's the Boneworkers' Guild. which is more the Mithra's forte. These are the pride and joy of Windurst.
+- **8404**: If you head north from the round, you'll find roads that lead to the dhalmel farm and Chocobo Stables. Just follow the sweet smell of naturrre.
+- **8405**: Take the road norrrth, and you'll find an apothecary mixed among the Mithra Groves with the Mithra houses. Take the road south, and you'll find an auction house.
+- **8406**: Compared to the other districts, there's hardly any Tarutaru buildings in Windurst Woods at all. However, the Manustery, one of the five ministries, is right therrre.
+- **8407**: That building up high there is the Manustery's Cardian workshop. It's where those Cardian guards are manufacturrred.
+- **8408**: Finally, heading west from the round will take you to Windurst's residential area.
+- **8409**: If you're a citizen of Windurst, you can use one of the Mog Houses inside of therrre.
+- **8410**: Ask the guards at the entrance there forrr the details.
 
 ## Events
 
@@ -1034,7 +1034,7 @@
 #### Opcodes
 
 ```
-  0: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=8336*)
+  0: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=8337*)
     → "What's up with you? Why are you standing there in a daze?"
   1: 0x0212 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0213 [0x00] END_REQSTACK()
@@ -1059,7 +1059,7 @@
 #### Opcodes
 
 ```
-  0: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=8338*)
+  0: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
     → "Let me take a stab in the darrrk and guess that this is your first time in Windurst."
   1: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0218 [0x00] END_REQSTACK()
@@ -1084,7 +1084,7 @@
 #### Opcodes
 
 ```
-  0: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8340*)
+  0: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8341*)
     → "Well then, welcome... Yes, welcome to peaceful old Windurrrst. Scaredy-cats who have been dumbed down by the peace are enthusiastically received here."
   1: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x021D [0x00] END_REQSTACK()
@@ -1110,7 +1110,7 @@
 #### Opcodes
 
 ```
-  0: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=8341*)
+  0: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=8342*)
     → "Good try... But if you're going to deceive people, you should at least learn how to lie properrrly."
   1: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0222 [0x00] END_REQSTACK()
@@ -1135,7 +1135,7 @@
 #### Opcodes
 
 ```
-  0: 0x0223 [0x1D] PRINT_EVENT_MESSAGE(message_id=8342*)
+  0: 0x0223 [0x1D] PRINT_EVENT_MESSAGE(message_id=8343*)
     → "Where are you heading? What brings you to town?"
   1: 0x0226 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0227 [0x00] END_REQSTACK()
@@ -1160,7 +1160,7 @@
 #### Opcodes
 
 ```
-  0: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8370*)
+  0: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8371*)
     → "What the...? Shopping? Asking me's a waste of time."
   1: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x022C [0x00] END_REQSTACK()
@@ -1186,7 +1186,7 @@
 #### Opcodes
 
 ```
-  0: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8371*)
+  0: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8372*)
     → "I mean a waste of my time, not yourrrs! If you must ask, then all I can recommend is to head to Port Windurst."
   1: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0231 [0x00] END_REQSTACK()
@@ -1213,7 +1213,7 @@
 
 ```
   0: 0x0232 [0x27] REQ_SET(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764367/0x010F100F), tag_num=0x19)
-  1: 0x0239 [0x1D] PRINT_EVENT_MESSAGE(message_id=8372*)
+  1: 0x0239 [0x1D] PRINT_EVENT_MESSAGE(message_id=8373*)
     → "To get there, head down the road on the otherrr side of this fountain round."
   2: 0x023C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x023D [0x2A] GET_REQ_LEVEL(level=8, entity_id=Nanaa Mihgo (ID: 17764367/0x010F100F))
@@ -1239,7 +1239,7 @@
 #### Opcodes
 
 ```
-  0: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=8373*)
+  0: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=8374*)
     → "Once in the porrrt, head down to the wharves, where there are three boat-shaped shops. They house a magic shop, an armor shop, and a weapon shop."
   1: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0248 [0x00] END_REQSTACK()
@@ -1264,7 +1264,7 @@
 #### Opcodes
 
 ```
-  0: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=8375*)
+  0: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=8376*)
     → "And up behind the dhalmel farm, therrre's a Mithra apothecary."
   1: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x024D [0x00] END_REQSTACK()
@@ -1290,7 +1290,7 @@
 #### Opcodes
 
 ```
-  0: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=8374*)
+  0: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=8375*)
     → "If you're looking for shops in the Windurst Woods area, there's a general goods store far over on the otherrr side of those tents there. You'll find the Boneworkers' Guild and Weavers' Guild shops back behind therrre too!"
   1: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0252 [0x00] END_REQSTACK()
@@ -1315,7 +1315,7 @@
 #### Opcodes
 
 ```
-  0: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=8376*)
+  0: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=8377*)
     → "You should know this already, but you can make money by selling the items that monsters drop after you defeat them. You can use the gil earrrned to buy whatever you want."
   1: 0x0256 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0257 [0x00] END_REQSTACK()
@@ -1340,7 +1340,7 @@
 #### Opcodes
 
 ```
-  0: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=8344*)
+  0: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=8345*)
     → "Grrr... You'rrre more hot-blooded than you look. I could almost come to like you."
   1: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x025C [0x00] END_REQSTACK()
@@ -1366,7 +1366,7 @@
 #### Opcodes
 
 ```
-  0: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=8345*)
+  0: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=8346*)
     → "But judging from your delicate appearrrance, I'd say you'd be lucky to beat a rarab, let alone a mandragorrra, out there in Sarutabaruta."
   1: 0x0260 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0261 [0x00] END_REQSTACK()
@@ -1391,7 +1391,7 @@
 #### Opcodes
 
 ```
-  0: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=8346*)
+  0: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=8347*)
     → "Oh, in case you didn't know, Sarutabaruta is the name of the grasslands that surround Windurst."
   1: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0266 [0x00] END_REQSTACK()
@@ -1416,7 +1416,7 @@
 #### Opcodes
 
 ```
-  0: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=8347*)
+  0: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=8348*)
     → "If you go back up that slope behind you and pass through the gatehouse, you will come to East Sarutabaruta."
   1: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x026B [0x00] END_REQSTACK()
@@ -1442,10 +1442,10 @@
 #### Opcodes
 
 ```
-  0: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=8348*)
+  0: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=8349*)
     → "Sarutabaruta is full of weak monsters, so even a newbie like you can try to hunt there."
   1: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=8349*)
+  2: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=8350*)
     → "But be warrrned. The furrrther you go away from town the strongerrr the monsters become, so keep an eye on your map."
   3: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0274 [0x00] END_REQSTACK()
@@ -1470,7 +1470,7 @@
 #### Opcodes
 
 ```
-  0: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=8350*)
+  0: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=8351*)
     → "Ask your fellow adventurers for details on the best way to fight or flee. I can't be botherrred telling you myself."
   1: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0279 [0x00] END_REQSTACK()
@@ -1496,10 +1496,10 @@
 #### Opcodes
 
 ```
-  0: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=8351*)
+  0: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=8352*)
     → "Well, I've helped you enough forrr today. I'm sure you get the idea."
   1: 0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=8352*)
+  2: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=8353*)
     → "Nanaa Mihgo's lesson on Windurst is overrr. I've discounted your tuition fee to a mere 1000 gil. Come on then, cough it up."
   3: 0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0282 [0x00] END_REQSTACK()
@@ -1524,7 +1524,7 @@
 #### Opcodes
 
 ```
-  0: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=8355*)
+  0: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=8356*)
     → "Show me how much you've got in your purrrse."
   1: 0x0286 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0287 [0x00] END_REQSTACK()
@@ -1549,7 +1549,7 @@
 #### Opcodes
 
 ```
-  0: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=8360*)
+  0: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=8361*)
     → "Grrr, not those S.O.B.'s again! I would've gotten away with it, if it weren't for you meddling kids!"
   1: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x028C [0x00] END_REQSTACK()
@@ -1575,10 +1575,10 @@
 #### Opcodes
 
 ```
-  0: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=8361*)
+  0: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=8362*)
     → "Due to this disturrrbance, I'll have to end your lesson forrr today!"
   1: 0x0290 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=8362*)
+  2: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=8363*)
     → "We'll continue anotherrr day, and that's when I'll collect my fee."
   3: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0295 [0x00] END_REQSTACK()
@@ -1603,7 +1603,7 @@
 #### Opcodes
 
 ```
-  0: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=8377*)
+  0: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=8378*)
     → "The best way to gather inforrrmation is to speak to all the townsfolk."
   1: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x029A [0x00] END_REQSTACK()
@@ -1628,7 +1628,7 @@
 #### Opcodes
 
 ```
-  0: 0x029B [0x1D] PRINT_EVENT_MESSAGE(message_id=8380*)
+  0: 0x029B [0x1D] PRINT_EVENT_MESSAGE(message_id=8381*)
     → "Why not try the Manustery's Cardian worrrkshop up there? You won't only be helping people, but Cardians as well."
   1: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x029F [0x00] END_REQSTACK()
@@ -1653,10 +1653,10 @@
 #### Opcodes
 
 ```
-  0: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8381*)
+  0: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8382*)
     → "Oh, Cardians are the magical automatons that function as the guarrrds of Windurst."
   1: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8382*)
+  2: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8383*)
     → "If you go in that workshop there, you'll see morrre of them than you probably want to."
   3: 0x02A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02A8 [0x00] END_REQSTACK()
@@ -1681,7 +1681,7 @@
 #### Opcodes
 
 ```
-  0: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8383*)
+  0: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8384*)
     → "Perrrsonally, I'd prefer if all the Cardians were rounded up and destroyed."
   1: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02AD [0x00] END_REQSTACK()
@@ -1707,7 +1707,7 @@
 #### Opcodes
 
 ```
-  0: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8384*)
+  0: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8385*)
     → "Hah! If therrre was such sweet talk of fast money, I'd have done it already."
   1: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02B2 [0x00] END_REQSTACK()
@@ -1732,7 +1732,7 @@
 #### Opcodes
 
 ```
-  0: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8385*)
+  0: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8386*)
     → "But wait a second. Let me see... What could be suitable for a newbie like you...?"
   1: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02B7 [0x00] END_REQSTACK()
@@ -1758,10 +1758,10 @@
 #### Opcodes
 
 ```
-  0: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8386*)
+  0: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8387*)
     → "You know the Boneworrrkers' Guild to the south of here? If you diligently practice that trade skill, you might make some money out of synthesizing and selling items."
   1: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8387*)
+  2: 0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8388*)
     → "You'rrre not going to strike it rich right away, but it's a relatively easy way to make money. Hey, it's a start, right?"
   3: 0x02BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02C0 [0x00] END_REQSTACK()
@@ -1786,10 +1786,10 @@
 #### Opcodes
 
 ```
-  0: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8388*)
+  0: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8389*)
     → "Norrrmally, I'd say, "Go out and slaughter those Yagudo beastmen"!"
   1: 0x02C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8389*)
+  2: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8390*)
     → "But the Tarutaru of Windurrrst like to keep the peace and are trying to be friends with the Yagudo."
   3: 0x02C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02C9 [0x00] END_REQSTACK()
@@ -1815,10 +1815,10 @@
 #### Opcodes
 
 ```
-  0: 0x02CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8390*)
+  0: 0x02CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8391*)
     → "So at this point, all I can recommend to you is the dhalmel farrrm."
   1: 0x02CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8391*)
+  2: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8392*)
     → "If you head north from here, you'll see the long necks of the dhalmel sticking up over the farrrm's walkway. Inquire with the farrrmer. She's grateful for any help she can get."
   3: 0x02D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02D2 [0x00] END_REQSTACK()
@@ -1843,7 +1843,7 @@
 #### Opcodes
 
 ```
-  0: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8392*)
+  0: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8393*)
     → "Looking for worrrk, huh? Then head to one of the gatehouses."
   1: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02D7 [0x00] END_REQSTACK()
@@ -1868,7 +1868,7 @@
 #### Opcodes
 
 ```
-  0: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8393*)
+  0: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8394*)
     → "There's one right behind you. The stone building there is the Eastern Gatehouse. It's swarrrming with those preening Mithra guards."
   1: 0x02DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DC [0x00] END_REQSTACK()
@@ -1894,10 +1894,10 @@
 #### Opcodes
 
 ```
-  0: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8394*)
+  0: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8395*)
     → "You can receive missions from the gatehouses if you're into volunteerrring for your country. Perrrsonally, I don't care much for it myself, so ask for details at the gatehouse."
   1: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8395*)
+  2: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8396*)
     → "Missions are tasks from and on behalf of the Federation of Windurst, and differrr from the requests for help from general townsfolk."
   3: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02E5 [0x00] END_REQSTACK()
@@ -1922,10 +1922,10 @@
 #### Opcodes
 
 ```
-  0: 0x02E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8396*)
+  0: 0x02E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8397*)
     → "For instance, if you do so-and-so a mission, you are rewarrrded with a set number of rank points."
   1: 0x02E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8397*)
+  2: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8398*)
     → "Collect enough rank points and your rank or position in this country will rise. But as far as I'm concerned, the rewards aren't worrrth the effort."
   3: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02EE [0x00] END_REQSTACK()
@@ -1951,7 +1951,7 @@
 #### Opcodes
 
 ```
-  0: 0x02EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8398*)
+  0: 0x02EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8399*)
     → "Hm? You don't know left from right? You poorrr thing."
   1: 0x02F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02F3 [0x00] END_REQSTACK()
@@ -1976,10 +1976,10 @@
 #### Opcodes
 
 ```
-  0: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8399*)
+  0: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8400*)
     → "This is Windurst Woods, the easternmost of the fourrr districts of Windurst."
   1: 0x02F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8400*)
+  2: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8401*)
     → "Seeing as we're nearrr the Bomingo Round here, I'll use it as the starting point of my explanation."
   3: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02FC [0x00] END_REQSTACK()
@@ -2005,10 +2005,10 @@
 #### Opcodes
 
 ```
-  0: 0x02FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8401*)
+  0: 0x02FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8402*)
     → "Firrrst, if you head south from the round, there are several shops run by the local craftswomen."
   1: 0x0300 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=8402*)
+  2: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=8403*)
     → "There's the Weavers' Guild, which is the specialty of the Tarutaru, and there's the Boneworkers' Guild. which is more the Mithra's forte. These are the pride and joy of Windurst."
   3: 0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0305 [0x00] END_REQSTACK()
@@ -2033,10 +2033,10 @@
 #### Opcodes
 
 ```
-  0: 0x0306 [0x1D] PRINT_EVENT_MESSAGE(message_id=8403*)
+  0: 0x0306 [0x1D] PRINT_EVENT_MESSAGE(message_id=8404*)
     → "If you head north from the round, you'll find roads that lead to the dhalmel farm and Chocobo Stables. Just follow the sweet smell of naturrre."
   1: 0x0309 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=8404*)
+  2: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=8405*)
     → "Take the road norrrth, and you'll find an apothecary mixed among the Mithra Groves with the Mithra houses. Take the road south, and you'll find an auction house."
   3: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x030E [0x00] END_REQSTACK()
@@ -2062,7 +2062,7 @@
 #### Opcodes
 
 ```
-  0: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=8405*)
+  0: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=8406*)
     → "Compared to the other districts, there's hardly any Tarutaru buildings in Windurst Woods at all. However, the Manustery, one of the five ministries, is right therrre."
   1: 0x0312 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0313 [0x00] END_REQSTACK()
@@ -2087,7 +2087,7 @@
 #### Opcodes
 
 ```
-  0: 0x0314 [0x1D] PRINT_EVENT_MESSAGE(message_id=8406*)
+  0: 0x0314 [0x1D] PRINT_EVENT_MESSAGE(message_id=8407*)
     → "That building up high there is the Manustery's Cardian workshop. It's where those Cardian guards are manufacturrred."
   1: 0x0317 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0318 [0x00] END_REQSTACK()
@@ -2113,10 +2113,10 @@
 #### Opcodes
 
 ```
-  0: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=8407*)
+  0: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=8408*)
     → "Finally, heading west from the round will take you to Windurst's residential area."
   1: 0x031C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=8408*)
+  2: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=8409*)
     → "If you're a citizen of Windurst, you can use one of the Mog Houses inside of therrre."
   3: 0x0320 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0321 [0x00] END_REQSTACK()
@@ -2141,7 +2141,7 @@
 #### Opcodes
 
 ```
-  0: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=8409*)
+  0: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=8410*)
     → "Ask the guards at the entrance there forrr the details."
   1: 0x0325 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0326 [0x00] END_REQSTACK()

@@ -211,11 +211,11 @@
 |      81 | 0x0400      |        1024 |
 |      82 | 0xFFFFFB39  |  4294966073 |
 |      83 | 0xBFA5      |       49061 |
-|      84 | 0x2027      |        8231 |
-|      85 | 0x2028      |        8232 |
-|      86 | 0x202A      |        8234 |
-|      87 | 0x2042      |        8258 |
-|      88 | 0x2047      |        8263 |
+|      84 | 0x2028      |        8232 |
+|      85 | 0x2029      |        8233 |
+|      86 | 0x202B      |        8235 |
+|      87 | 0x2043      |        8259 |
+|      88 | 0x2048      |        8264 |
 |      89 | 0x22E80     |      142976 |
 |      90 | 0xFFFFC31D  |  4294951709 |
 |      91 | 0x32C8      |       13000 |
@@ -271,11 +271,11 @@
 - **172**: The Book of the Gods has gone blank! The broken Cardian soldiers are up to no good! And all Windurst has is an ancient, worn out, good-for-nothing army!
 - **173**: And you just sit here, with your tails between your legs!
 - **174**: Well, I'm tired of waiting! I, Ajido-Marujido, will save Windurst from these terrible-werrible times!
-- **8231**: Star Sibyl, the magic the creature was using was no ordinary spellcraft. That power was of the Stars and the Moon. The same power that pulses through the Horutoto Ruins and fills the Mana Orbs...
-- **8232**: It was the magic of Fenrir, the Great Beast that resided in the Full Moon Fountain. You felt it, didn't you?
-- **8234**: No longer what? Fenrir has left the Full Moon Fountain.
-- **8258**: ...And so the Great Beast, Fenrir, passed from our world...
-- **8263**: ...
+- **8232**: Star Sibyl, the magic the creature was using was no ordinary spellcraft. That power was of the Stars and the Moon. The same power that pulses through the Horutoto Ruins and fills the Mana Orbs...
+- **8233**: It was the magic of Fenrir, the Great Beast that resided in the Full Moon Fountain. You felt it, didn't you?
+- **8235**: No longer what? Fenrir has left the Full Moon Fountain.
+- **8259**: ...And so the Great Beast, Fenrir, passed from our world...
+- **8264**: ...
 
 ## Events
 
@@ -2268,10 +2268,10 @@
 #### Opcodes
 
 ```
-  0: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
+  0: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
     → "Star Sibyl, the magic the creature was using was no ordinary spellcraft. That power was of the Stars and the Moon. The same power that pulses through the Horutoto Ruins and fills the Mana Orbs..."
   1: 0x0516 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0517 [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
+  2: 0x0517 [0x1D] PRINT_EVENT_MESSAGE(message_id=8233*)
     → "It was the magic of Fenrir, the Great Beast that resided in the Full Moon Fountain. You felt it, didn't you?"
   3: 0x051A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x051B [0x00] END_REQSTACK()
@@ -2297,7 +2297,7 @@
 #### Opcodes
 
 ```
-  0: 0x051C [0x1D] PRINT_EVENT_MESSAGE(message_id=8234*)
+  0: 0x051C [0x1D] PRINT_EVENT_MESSAGE(message_id=8235*)
     → "No longer what? Fenrir has left the Full Moon Fountain."
   1: 0x051F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0520 [0x00] END_REQSTACK()
@@ -2322,7 +2322,7 @@
 #### Opcodes
 
 ```
-  0: 0x0521 [0x1D] PRINT_EVENT_MESSAGE(message_id=8258*)
+  0: 0x0521 [0x1D] PRINT_EVENT_MESSAGE(message_id=8259*)
     → "...And so the Great Beast, Fenrir, passed from our world..."
   1: 0x0524 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0525 [0x00] END_REQSTACK()
@@ -2349,7 +2349,7 @@
 
 ```
   0: 0x0526 [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
+  1: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=8264*)
     → "..."
   2: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0530 [0x7C] EventEntity->Render.Flags2 |= 0x01

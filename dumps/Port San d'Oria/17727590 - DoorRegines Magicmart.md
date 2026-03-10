@@ -20,12 +20,12 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D96      |        7574 |
+|       0 | 0x1D97      |        7575 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1D97      |        7575 |
-|       3 | 0x1D98      |        7576 |
-|       4 | 0x1D99      |        7577 |
-|       5 | 0x1D9A      |        7578 |
+|       2 | 0x1D98      |        7576 |
+|       3 | 0x1D99      |        7577 |
+|       4 | 0x1D9A      |        7578 |
+|       5 | 0x1D9B      |        7579 |
 
 ## Events
 
@@ -75,23 +75,23 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0004 [0x2B] Rugiette (ID: 17727508/0x010E8014) [7574*]:
+  2: 0x0004 [0x2B] Rugiette (ID: 17727508/0x010E8014) [7575*]:
     → "Wait-- Did you hear that?"
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000C [0x1C] WAIT(30* ticks)
-  5: 0x000F [0x2B] Regine (ID: 17727507/0x010E8013) [7575*]:
+  5: 0x000F [0x2B] Regine (ID: 17727507/0x010E8013) [7576*]:
     → "M-maybe it's a customer! At last!"
   6: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0017 [0x1C] WAIT(30* ticks)
-  8: 0x001A [0x2B] Rugiette (ID: 17727508/0x010E8014) [7576*]:
+  8: 0x001A [0x2B] Rugiette (ID: 17727508/0x010E8014) [7577*]:
     → "Another pauper, surely."
   9: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0022 [0x1C] WAIT(30* ticks)
- 11: 0x0025 [0x2B] Regine (ID: 17727507/0x010E8013) [7577*]:
+ 11: 0x0025 [0x2B] Regine (ID: 17727507/0x010E8013) [7578*]:
     → "Mind your manners, Rugiette! A customer is a customer, don't forget! And straighten up, please!!"
  12: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x002D [0x1C] WAIT(30* ticks)
- 14: 0x0030 [0x2B] Rugiette (ID: 17727508/0x010E8014) [7578*]:
+ 14: 0x0030 [0x2B] Rugiette (ID: 17727508/0x010E8014) [7579*]:
     → "Okay, okay! I'm standing, now, I'm standing."
  15: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0038 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

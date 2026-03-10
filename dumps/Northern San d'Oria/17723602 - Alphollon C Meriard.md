@@ -27,46 +27,46 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x332A      |       13098 |
-|       2 | 0x332B      |       13099 |
-|       3 | 0x332C      |       13100 |
-|       4 | 0x332D      |       13101 |
-|       5 | 0x332E      |       13102 |
-|       6 | 0x332F      |       13103 |
-|       7 | 0x3330      |       13104 |
-|       8 | 0x3331      |       13105 |
-|       9 | 0x3335      |       13109 |
-|      10 | 0x3336      |       13110 |
+|       1 | 0x332B      |       13099 |
+|       2 | 0x332C      |       13100 |
+|       3 | 0x332D      |       13101 |
+|       4 | 0x332E      |       13102 |
+|       5 | 0x332F      |       13103 |
+|       6 | 0x3330      |       13104 |
+|       7 | 0x3331      |       13105 |
+|       8 | 0x3332      |       13106 |
+|       9 | 0x3336      |       13110 |
+|      10 | 0x3337      |       13111 |
 |      11 | 0x001E      |          30 |
-|      12 | 0x3337      |       13111 |
+|      12 | 0x3338      |       13112 |
 |      13 | 0x003C      |          60 |
-|      14 | 0x3338      |       13112 |
-|      15 | 0x3339      |       13113 |
-|      16 | 0x3332      |       13106 |
-|      17 | 0x3333      |       13107 |
-|      18 | 0x333A      |       13114 |
+|      14 | 0x3339      |       13113 |
+|      15 | 0x333A      |       13114 |
+|      16 | 0x3333      |       13107 |
+|      17 | 0x3334      |       13108 |
+|      18 | 0x333B      |       13115 |
 |      19 | 0x0052      |          82 |
 |      20 | 0x0000      |           0 |
 |      21 | 0x00C8      |         200 |
 
 ## String References
 
-- **13098**: People are wallowing in sin... There are so many weak-spirited heathens who cannot go a day without lying, cheating, or stealing from their fellows.
-- **13099**: And still there are other insatiable fools who crave forbidden fruit and violate our holy law with abandon. Yet for the Gates of Paradise to open, we must reach out a forgiving hand to these deluded wretches.
-- **13100**: And now... Let us assume an item thou hast obtained in your lust for material possession has been warped by the wrath of the spirits.
-- **13101**: These items are in a cursed state. Useless items that, if left to their own devices, will bring down upon thee a terrible fate. That curse shall remain until the spirits are appeased by the acquisition of an "abjuration."
-- **13102**: An abjuration is the one and only key capable of quieting the spirits and removing the curse. It requires great hardship and suffering to obtain one; however, this penance is necessary for the cleansing of thy soul.
-- **13103**: If thou bringst unto me a cursed item and its opposing abjuration, I shall invoke the blessing of the Goddess and remove thy curse.
-- **13104**: Thou needst not hasten thy steps. When the time is right, thou shalt hear more of curses and abjurations.
-- **13105**: Until that time, it is best that thou forgettest what thou hast learned and be on thy way. May the Gates of Paradise open unto thee.
-- **13106**: This is most unfortunate... However, if thou hast not the appropriate abjuration to counter the curse, then I may not perform the purification ceremony. When thou hast obtained the abjuration, come once again to my side.
-- **13107**: Verily, this is the abjuration that is required. Thou hast done well. If thou bringst the opposing cursed item, I shall perform the purification ceremony forthwith.
-- **13109**: Praise to the Goddess! Thou hast safely returned from the trial of the spirits. Let us perform the purification ceremony at once. At my urging, raise thy hand in supplication to the heavens.
-- **13110**: Great Goddess Altana. In recognition of the penance <Player> has paid, I beg thee to remove the blight upon the $0 and absolve <Player> of [his/her] sin...
-- **13111**: The blight upon the $0 is weakening... It has been transformed into $1!
-- **13112**: Thy suffering hath been rewarded. Proof of thy redemption lies in the $1 before thee. Thou hast been blessed, <Player>.
-- **13113**: Continue thy journey into the light. May the Gates of Paradise open unto thee.
-- **13114**: What is the meaning of this? Dost thou propose to insult a cardinal of Altana? If thou persists in this tomfoolery, I shall be forced to call upon the Temple Knights to teach thee some manners...
+- **13099**: People are wallowing in sin... There are so many weak-spirited heathens who cannot go a day without lying, cheating, or stealing from their fellows.
+- **13100**: And still there are other insatiable fools who crave forbidden fruit and violate our holy law with abandon. Yet for the Gates of Paradise to open, we must reach out a forgiving hand to these deluded wretches.
+- **13101**: And now... Let us assume an item thou hast obtained in your lust for material possession has been warped by the wrath of the spirits.
+- **13102**: These items are in a cursed state. Useless items that, if left to their own devices, will bring down upon thee a terrible fate. That curse shall remain until the spirits are appeased by the acquisition of an "abjuration."
+- **13103**: An abjuration is the one and only key capable of quieting the spirits and removing the curse. It requires great hardship and suffering to obtain one; however, this penance is necessary for the cleansing of thy soul.
+- **13104**: If thou bringst unto me a cursed item and its opposing abjuration, I shall invoke the blessing of the Goddess and remove thy curse.
+- **13105**: Thou needst not hasten thy steps. When the time is right, thou shalt hear more of curses and abjurations.
+- **13106**: Until that time, it is best that thou forgettest what thou hast learned and be on thy way. May the Gates of Paradise open unto thee.
+- **13107**: This is most unfortunate... However, if thou hast not the appropriate abjuration to counter the curse, then I may not perform the purification ceremony. When thou hast obtained the abjuration, come once again to my side.
+- **13108**: Verily, this is the abjuration that is required. Thou hast done well. If thou bringst the opposing cursed item, I shall perform the purification ceremony forthwith.
+- **13110**: Praise to the Goddess! Thou hast safely returned from the trial of the spirits. Let us perform the purification ceremony at once. At my urging, raise thy hand in supplication to the heavens.
+- **13111**: Great Goddess Altana. In recognition of the penance <Player> has paid, I beg thee to remove the blight upon the $0 and absolve <Player> of [his/her] sin...
+- **13112**: The blight upon the $0 is weakening... It has been transformed into $1!
+- **13113**: Thy suffering hath been rewarded. Proof of thy redemption lies in the $1 before thee. Thou hast been blessed, <Player>.
+- **13114**: Continue thy journey into the light. May the Gates of Paradise open unto thee.
+- **13115**: What is the meaning of this? Dost thou propose to insult a cardinal of Altana? If thou persists in this tomfoolery, I shall be forced to call upon the Temple Knights to teach thee some manners...
 
 ## Events
 
@@ -120,29 +120,29 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x79] EventEntity looks at LocalPlayer (Basic look)
   2: 0x0014 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=13098*)
+  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=13099*)
     → "People are wallowing in sin... There are so many weak-spirited heathens who cannot go a day without lying, cheating, or stealing from their fellows."
   4: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=13099*)
+  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=13100*)
     → "And still there are other insatiable fools who crave forbidden fruit and violate our holy law with abandon. Yet for the Gates of Paradise to open, we must reach out a forgiving hand to these deluded wretches."
   6: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=13100*)
+  7: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=13101*)
     → "And now... Let us assume an item thou hast obtained in your lust for material possession has been warped by the wrath of the spirits."
   8: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=13101*)
+  9: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=13102*)
     → "These items are in a cursed state. Useless items that, if left to their own devices, will bring down upon thee a terrible fate. That curse shall remain until the spirits are appeased by the acquisition of an "abjuration.""
  10: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=13102*)
+ 11: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=13103*)
     → "An abjuration is the one and only key capable of quieting the spirits and removing the curse. It requires great hardship and suffering to obtain one; however, this penance is necessary for the cleansing of thy soul."
  12: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=13103*)
+ 13: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=13104*)
     → "If thou bringst unto me a cursed item and its opposing abjuration, I shall invoke the blessing of the Goddess and remove thy curse."
  14: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=13104*)
+ 15: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=13105*)
     → "Thou needst not hasten thy steps. When the time is right, thou shalt hear more of curses and abjurations."
  16: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x003F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 18: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=13105*)
+ 18: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=13106*)
     → "Until that time, it is best that thou forgettest what thou hast learned and be on thy way. May the Gates of Paradise open unto thee."
  19: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0052 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -187,29 +187,29 @@
   1: 0x006A [0x79] EventEntity looks at LocalPlayer (Basic look)
   2: 0x0074 [0x79] LocalPlayer looks at EventEntity (Basic look)
   3: 0x007E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=13109*)
+  4: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=13110*)
     → "Praise to the Goddess! Thou hast safely returned from the trial of the spirits. Let us perform the purification ceremony at once. At my urging, raise thy hand in supplication to the heavens."
   5: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0091 [0x4A] EventEntity looks at LocalPlayer
   7: 0x009A [0x4A] LocalPlayer looks at EventEntity
   8: 0x00A3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
-  9: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13110*)
+  9: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13111*)
     → "Great Goddess Altana. In recognition of the penance <Player> has paid, I beg thee to remove the blight upon the $0 and absolve <Player> of [his/her] sin..."
  10: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00B6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
  12: 0x00C3 [0x1C] WAIT(30* ticks)
  13: 0x00C6 [0x73] LocalPlayer casts magic 20* on LocalPlayer
- 14: 0x00D1 [0x48] [System] [13111*]:
+ 14: 0x00D1 [0x48] [System] [13112*]:
     → "The blight upon the $0 is weakening... It has been transformed into $1!"
  15: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00D5 [0x1C] WAIT(60* ticks)
  17: 0x00D8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 18: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13112*)
+ 18: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13113*)
     → "Thy suffering hath been rewarded. Proof of thy redemption lies in the $1 before thee. Thou hast been blessed, <Player>."
  19: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00EB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  21: 0x00F8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 22: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=13113*)
+ 22: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=13114*)
     → "Continue thy journey into the light. May the Gates of Paradise open unto thee."
  23: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x010B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -241,7 +241,7 @@
 ```
   0: 0x0124 [0x4A] EventEntity looks at LocalPlayer
   1: 0x012D [0x79] EventEntity looks at LocalPlayer (Basic look)
-  2: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=13106*)
+  2: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=13107*)
     → "This is most unfortunate... However, if thou hast not the appropriate abjuration to counter the curse, then I may not perform the purification ceremony. When thou hast obtained the abjuration, come once again to my side."
   3: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x013B [0x21] END_EVENT
@@ -271,7 +271,7 @@
 ```
   0: 0x013D [0x4A] EventEntity looks at LocalPlayer
   1: 0x0146 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  2: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=13107*)
+  2: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=13108*)
     → "Verily, this is the abjuration that is required. Thou hast done well. If thou bringst the opposing cursed item, I shall perform the purification ceremony forthwith."
   3: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0154 [0x21] END_EVENT
@@ -300,7 +300,7 @@
 ```
   0: 0x0156 [0x4A] EventEntity looks at LocalPlayer
   1: 0x015F [0x79] EventEntity looks at LocalPlayer (Basic look)
-  2: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=13114*)
+  2: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=13115*)
     → "What is the meaning of this? Dost thou propose to insult a cardinal of Altana? If thou persists in this tomfoolery, I shall be forced to call upon the Temple Knights to teach thee some manners..."
   3: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x016D [0x21] END_EVENT

@@ -24,33 +24,33 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x31F5      |       12789 |
+|       0 | 0x31F6      |       12790 |
 |       1 | 0x0032      |          50 |
-|       2 | 0x31F6      |       12790 |
-|       3 | 0x31F7      |       12791 |
-|       4 | 0x31F8      |       12792 |
-|       5 | 0x31F9      |       12793 |
+|       2 | 0x31F7      |       12791 |
+|       3 | 0x31F8      |       12792 |
+|       4 | 0x31F9      |       12793 |
+|       5 | 0x31FA      |       12794 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x31FA      |       12794 |
+|       8 | 0x31FB      |       12795 |
 |       9 | 0x40000000  |  1073741824 |
 |      10 | 0x000A      |          10 |
-|      11 | 0x31FB      |       12795 |
+|      11 | 0x31FC      |       12796 |
 |      12 | 0x00C9      |         201 |
-|      13 | 0x31FC      |       12796 |
-|      14 | 0x31F4      |       12788 |
+|      13 | 0x31FD      |       12797 |
+|      14 | 0x31F5      |       12789 |
 
 ## String References
 
-- **12788**: Ahhh, if only a strrrong, reliable adventurer would come by...
-- **12789**: Well if it isn't a strrrong, reliable-looking adventurer! How'd you like to get your paws on a hefty reward?
-- **12790**: There's this rich little Tarutaru that needs some help navigating thrrrough the Garlaige Citadel. You look like you'd be perrrfect for the job.
-- **12791**: Your client's name is Wanzo-Unzozo. He should be waiting just inside the citadel's entrrrance.
-- **12792**: Whoa, hold on. You're not thinking of slitherrring your way out of this job, are you?
-- **12793**: Slithering your way out? [Like a snake./Not at all.]
-- **12794**: I knew it! I don't know why I ever trusted you in the firrrst place...
-- **12795**: Grrreat job, <Player>. I knew I could count on you to get the job done. Here's your reward.
-- **12796**: Sorrrry, <Player>. I don't have any work for you today.
+- **12789**: Ahhh, if only a strrrong, reliable adventurer would come by...
+- **12790**: Well if it isn't a strrrong, reliable-looking adventurer! How'd you like to get your paws on a hefty reward?
+- **12791**: There's this rich little Tarutaru that needs some help navigating thrrrough the Garlaige Citadel. You look like you'd be perrrfect for the job.
+- **12792**: Your client's name is Wanzo-Unzozo. He should be waiting just inside the citadel's entrrrance.
+- **12793**: Whoa, hold on. You're not thinking of slitherrring your way out of this job, are you?
+- **12794**: Slithering your way out? [Like a snake./Not at all.]
+- **12795**: I knew it! I don't know why I ever trusted you in the firrrst place...
+- **12796**: Grrreat job, <Player>. I knew I could count on you to get the job done. Here's your reward.
+- **12797**: Sorrrry, <Player>. I don't have any work for you today.
 
 ## Events
 
@@ -99,15 +99,15 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=12789*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=12790*)
     → "Well if it isn't a strrrong, reliable-looking adventurer! How'd you like to get your paws on a hefty reward?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=12790*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=12791*)
     → "There's this rich little Tarutaru that needs some help navigating thrrrough the Garlaige Citadel. You look like you'd be perrrfect for the job."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
-  7: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=12791*)
+  7: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=12792*)
     → "Your client's name is Wanzo-Unzozo. He should be waiting just inside the citadel's entrrrance."
   8: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0030 [0x21] END_EVENT
@@ -137,17 +137,17 @@
 
 ```
   0: 0x0032 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=12791*)
+  1: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=12792*)
     → "Your client's name is Wanzo-Unzozo. He should be waiting just inside the citadel's entrrrance."
   2: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=12792*)
+  3: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=12793*)
     → "Whoa, hold on. You're not thinking of slitherrring your way out of this job, are you?"
   4: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x003F [0x24] CREATE_DIALOG(message_id=12793*, default_option=1*, option_flags=0*)
+  5: 0x003F [0x24] CREATE_DIALOG(message_id=12794*, default_option=1*, option_flags=0*)
     → "Slithering your way out? [Like a snake./Not at all.]"
   6: 0x0046 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0047 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x005D
-  8: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=12794*)
+  8: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=12795*)
     → "I knew it! I don't know why I ever trusted you in the firrrst place..."
   9: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0053 [0x03] Work_Zone[1] = 0*
@@ -192,7 +192,7 @@ SUBROUTINE_005D:
   0: 0x0064 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0069 [0x1C] WAIT(10* ticks)
   2: 0x006C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
-  3: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=12795*)
+  3: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=12796*)
     → "Grrreat job, <Player>. I knew I could count on you to get the job done. Here's your reward."
   4: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x007F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -220,7 +220,7 @@ SUBROUTINE_005D:
 
 ```
   0: 0x0092 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=12796*)
+  1: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=12797*)
     → "Sorrrry, <Player>. I don't have any work for you today."
   2: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x009B [0x21] END_EVENT
@@ -248,7 +248,7 @@ SUBROUTINE_005D:
 
 ```
   0: 0x009D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12788*)
+  1: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12789*)
     → "Ahhh, if only a strrrong, reliable adventurer would come by..."
   2: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00A6 [0x21] END_EVENT

@@ -23,8 +23,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x003B      |          59 |
-|       2 | 0x2AD8      |       10968 |
-|       3 | 0x2AD9      |       10969 |
+|       2 | 0x2AD9      |       10969 |
+|       3 | 0x2ADA      |       10970 |
 
 ## Events
 
@@ -75,10 +75,10 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  3: 0x001C [0x2B] EventEntity [10968*]:
+  3: 0x001C [0x2B] EventEntity [10969*]:
     → "The last Yagudo assault a few days ago was an absolute nightmare."
   4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0024 [0x2B] EventEntity [10969*]:
+  5: 0x0024 [0x2B] EventEntity [10970*]:
     → "The sinister Theomilitary forces were upon us in an instant, an enveloping storm of pitch-black feathers ravaging the city. The horrible vision does not leave me...even in my sleep."
   6: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

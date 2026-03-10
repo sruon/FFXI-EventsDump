@@ -22,31 +22,31 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CB0      |        7344 |
-|       1 | 0x1CB1      |        7345 |
-|       2 | 0x1CB2      |        7346 |
+|       0 | 0x1CB1      |        7345 |
+|       1 | 0x1CB2      |        7346 |
+|       2 | 0x1CB3      |        7347 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1CB3      |        7347 |
-|       6 | 0x1CB4      |        7348 |
-|       7 | 0x1CB5      |        7349 |
+|       5 | 0x1CB4      |        7348 |
+|       6 | 0x1CB5      |        7349 |
+|       7 | 0x1CB6      |        7350 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x1CB6      |        7350 |
-|      10 | 0x1CB7      |        7351 |
-|      11 | 0x1CB8      |        7352 |
+|       9 | 0x1CB7      |        7351 |
+|      10 | 0x1CB8      |        7352 |
+|      11 | 0x1CB9      |        7353 |
 |      12 | 0x00C9      |         201 |
 
 ## String References
 
-- **7344**: Me hunter. Me gets food for other Orcs. Not here to fights with you.
-- **7345**: Nasty snolls in mountains. You climbs mountains?
-- **7346**: You climbs mountains? [Yep./Nope.]
-- **7347**: Me hates snolls. Me tells you secret.
-- **7348**: Brings me two cores from bomb clusters.
-- **7349**: Me gives you present.
-- **7350**: <Snuffle...grunt> Me needs these cores.
-- **7351**: You takes this.
-- **7352**: You uses on snolls. They starts to melts. Gahahaha!
+- **7345**: Me hunter. Me gets food for other Orcs. Not here to fights with you.
+- **7346**: Nasty snolls in mountains. You climbs mountains?
+- **7347**: You climbs mountains? [Yep./Nope.]
+- **7348**: Me hates snolls. Me tells you secret.
+- **7349**: Brings me two cores from bomb clusters.
+- **7350**: Me gives you present.
+- **7351**: <Snuffle...grunt> Me needs these cores.
+- **7352**: You takes this.
+- **7353**: You uses on snolls. They starts to melts. Gahahaha!
 
 ## Events
 
@@ -98,24 +98,24 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
     → "Me hunter. Me gets food for other Orcs. Not here to fights with you."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "Nasty snolls in mountains. You climbs mountains?"
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0010 [0x24] CREATE_DIALOG(message_id=7346*, default_option=0*, option_flags=0*)
+  7: 0x0010 [0x24] CREATE_DIALOG(message_id=7347*, default_option=0*, option_flags=0*)
     → "You climbs mountains? [Yep./Nope.]"
   8: 0x0017 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0018 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0034
  10: 0x0020 [0x03] Work_Zone[1] = 1*
- 11: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+ 11: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
     → "Me hates snolls. Me tells you secret."
  12: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
+ 13: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
     → "Brings me two cores from bomb clusters."
  14: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
+ 15: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
     → "Me gives you present."
  16: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0031 [0x01] GOTO 0x0044
@@ -152,13 +152,13 @@ SUBROUTINE_0044:
   0: 0x0048 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x004D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+  3: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
     → "Me hates snolls. Me tells you secret."
   4: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
+  5: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
     → "Brings me two cores from bomb clusters."
   6: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
+  7: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
     → "Me gives you present."
   8: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x005B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -192,13 +192,13 @@ SUBROUTINE_0044:
   1: 0x0060 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0065 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0066 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
+  4: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
     → "<Snuffle...grunt> Me needs these cores."
   5: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
+  6: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
     → "You takes this."
   7: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
+  8: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
     → "You uses on snolls. They starts to melts. Gahahaha!"
   9: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0073 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

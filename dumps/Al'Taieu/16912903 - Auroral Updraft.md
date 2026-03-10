@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA2      |        7330 |
+|       0 | 0x1CA3      |        7331 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 
 ## String References
 
-- **7330**: Return to the Sealion's Den? [Yes./No.]
+- **7331**: Return to the Sealion's Den? [Yes./No.]
 
 ## Events
 
@@ -75,7 +75,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7330*, default_option=1*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Return to the Sealion's Den? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0027

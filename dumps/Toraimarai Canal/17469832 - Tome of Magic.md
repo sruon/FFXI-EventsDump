@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D2C      |        7468 |
-|       1 | 0x1D2D      |        7469 |
-|       2 | 0x1D2E      |        7470 |
+|       0 | 0x1D2D      |        7469 |
+|       1 | 0x1D2E      |        7470 |
+|       2 | 0x1D2F      |        7471 |
 
 ## String References
 
-- **7468**: This is an old song about the legend of the Horutoto Ruins.
-- **7469**: "Led by a wondrous star, the people found their paradise. A land verdant and bountiful, a land without cruelty or vice."
-- **7470**: "The shining star of six points does the wild beast bind. Fading into the southern sky, a fountain left behind."
+- **7469**: This is an old song about the legend of the Horutoto Ruins.
+- **7470**: "Led by a wondrous star, the people found their paradise. A land verdant and bountiful, a land without cruelty or vice."
+- **7471**: "The shining star of six points does the wild beast bind. Fading into the southern sky, a fountain left behind."
 
 ## Events
 
@@ -74,13 +74,13 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
     → "This is an old song about the legend of the Horutoto Ruins."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
     → ""Led by a wondrous star, the people found their paradise. A land verdant and bountiful, a land without cruelty or vice.""
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
+  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
     → ""The shining star of six points does the wild beast bind. Fading into the southern sky, a fountain left behind.""
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

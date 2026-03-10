@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x2AA7      |       10919 |
-|       3 | 0x2AA8      |       10920 |
+|       2 | 0x2AA8      |       10920 |
+|       3 | 0x2AA9      |       10921 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  3: 0x001C [0x2B] EventEntity [10919*]:
+  3: 0x001C [0x2B] EventEntity [10920*]:
     → "Just between you and me, word around town has it that there is some shady-wady research going on at the Rhinostery."
   4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0024 [0x2B] EventEntity [10920*]:
+  5: 0x0024 [0x2B] EventEntity [10921*]:
     → "Like agro-engineering carnivorous plants to be used in battle! Who would have thunk...?"
   6: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*

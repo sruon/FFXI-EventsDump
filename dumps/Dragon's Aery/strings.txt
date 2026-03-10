@@ -1,5 +1,5 @@
 # Strings for Dragon's Aery
-# Total: 7543 strings
+# Total: 7544 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7170,91 +7170,91 @@
  7166: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7167: You receive $0 bayld!
  7168: Your chocobo refuses to partake of the $0.
- 7169: Jump where? [Li'Telor (121)./Boyahda Tree 1 (153)./Don't jump!]
- 7170: Jumping to $0.
- 7171: Tallying conquest results...
- 7172: Conquest results tallied.
- 7173: This region is currently under San d'Orian control.
- 7174: This region is currently under Bastokan control.
- 7175: This region is currently under Windurstian control.
- 7176: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7177: This region is currently neutral.
- 7178: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7179: All three nations are tied for first place.
- 7180: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7181: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7182: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7183: All three nations are tied for first place.
- 7184: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7185: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7186: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7187: All three nations are tied for first place.
- 7188: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7189: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7190: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7191: All three nations are tied for first place.
- 7192: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7193: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7194: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7195: Global balance of power: All three nations are tied for first place.
- 7196: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7197: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7198: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7199: All three nations are tied for first place.
- 7200: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7201: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7202: Conquest update: This region is currently neutral.
- 7203: Conquest update: This region is currently under San d'Orian control.
- 7204: Conquest update: This region is currently under Bastokan control.
- 7205: Conquest update: This region is currently under Windurstian control.
- 7206: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7207: All three nations are at a deadlock.
- 7208: The beastmen are on the rise.
- 7209: Regional influence: San d'Oria - Dominant
- 7210: Regional influence: San d'Oria - Major
- 7211: Regional influence: San d'Oria - Minor
- 7212: Regional influence: San d'Oria - Minimal
- 7213: Bastok - Dominant
- 7214: Bastok - Major
- 7215: Bastok - Minor
- 7216: Bastok - Minimal
- 7217: Windurst - Dominant
- 7218: Windurst - Major
- 7219: Windurst - Minor
- 7220: Windurst - Minimal
- 7221: Bastok and Windurst have formed an alliance.
- 7222: San d'Oria and Windurst have formed an alliance.
- 7223: San d'Oria and Bastok have formed an alliance.
- 7224: Bastok and Windurst are currently allies.
- 7225: San d'Oria and Windurst are currently allies.
- 7226: San d'Oria and Bastok are currently allies.
- 7227: $10$P11.$17F$0 $P14;$P12hF$1
- 7228: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7229: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7230: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7231: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7232: The beastmen are gaining power.
- 7233: San d'Oria's regional control is now 10% closer to the first place country's!
- 7234: Bastok's regional control is now 10% closer to the first place country's!
- 7235: Windurst's regional control are now 10% closer to the first place country's!
- 7236: San d'Oria's region points have increased!
- 7237: Bastok's region points have increased!
- 7238: Windurst's region points have increased!
- 7239: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7240: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7241: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7242: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7243: A Bastokan Expeditionary Force has been dispatched to this area.
- 7244: A Windurstian Expeditionary Force has been dispatched to this area.
- 7245: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7246: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7247: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7248: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7249: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7250: There was a curse on the beastmen's banner!
- 7251: The curse of the beastmen's banner has been lifted!
- 7252: There is a beastmen's banner.
- 7253: @
+ 7169: Your wing skill improved to $0!
+ 7170: Jump where? [Li'Telor (121)./Boyahda Tree 1 (153)./Don't jump!]
+ 7171: Jumping to $0.
+ 7172: Tallying conquest results...
+ 7173: Conquest results tallied.
+ 7174: This region is currently under San d'Orian control.
+ 7175: This region is currently under Bastokan control.
+ 7176: This region is currently under Windurstian control.
+ 7177: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7178: This region is currently neutral.
+ 7179: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7180: All three nations are tied for first place.
+ 7181: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7182: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7183: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7184: All three nations are tied for first place.
+ 7185: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7186: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7187: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7188: All three nations are tied for first place.
+ 7189: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7190: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7191: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7192: All three nations are tied for first place.
+ 7193: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7194: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7195: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7196: Global balance of power: All three nations are tied for first place.
+ 7197: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7198: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7199: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7200: All three nations are tied for first place.
+ 7201: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7202: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7203: Conquest update: This region is currently neutral.
+ 7204: Conquest update: This region is currently under San d'Orian control.
+ 7205: Conquest update: This region is currently under Bastokan control.
+ 7206: Conquest update: This region is currently under Windurstian control.
+ 7207: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7208: All three nations are at a deadlock.
+ 7209: The beastmen are on the rise.
+ 7210: Regional influence: San d'Oria - Dominant
+ 7211: Regional influence: San d'Oria - Major
+ 7212: Regional influence: San d'Oria - Minor
+ 7213: Regional influence: San d'Oria - Minimal
+ 7214: Bastok - Dominant
+ 7215: Bastok - Major
+ 7216: Bastok - Minor
+ 7217: Bastok - Minimal
+ 7218: Windurst - Dominant
+ 7219: Windurst - Major
+ 7220: Windurst - Minor
+ 7221: Windurst - Minimal
+ 7222: Bastok and Windurst have formed an alliance.
+ 7223: San d'Oria and Windurst have formed an alliance.
+ 7224: San d'Oria and Bastok have formed an alliance.
+ 7225: Bastok and Windurst are currently allies.
+ 7226: San d'Oria and Windurst are currently allies.
+ 7227: San d'Oria and Bastok are currently allies.
+ 7228: $10$P11.$17F$0 $P14;$P12hF$1
+ 7229: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7230: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7231: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7232: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7233: The beastmen are gaining power.
+ 7234: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7235: Bastok's regional control is now 10% closer to the first place country's!
+ 7236: Windurst's regional control are now 10% closer to the first place country's!
+ 7237: San d'Oria's region points have increased!
+ 7238: Bastok's region points have increased!
+ 7239: Windurst's region points have increased!
+ 7240: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7241: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7242: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7243: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7244: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7245: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7246: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7247: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7248: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7249: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7250: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7251: There was a curse on the beastmen's banner!
+ 7252: The curse of the beastmen's banner has been lifted!
+ 7253: There is a beastmen's banner.
  7254: @
  7255: @
  7256: @
@@ -7329,218 +7329,219 @@
  7325: @
  7326: @
  7327: @
- 7328: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7329: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7330: There is nothing out of the ordinary here.
- 7331: You hear a voice from out of nowhere...
- 7332: You obtain $1 $0 !
- 7333: ... At last we meet.
- 7334: I have been freed from my prison and can soak up the sweat and blood of this world once more.
- 7335: Wait, there is something I must...
- 7336: This place is...?
- 7337: I see... You must be the new wielder for these.
- 7338: Yes, with your fighting spirit I believe you will be able to master the $0.
- 7339: The $0 have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
- 7340: They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
- 7341: ...
- 7342: I hope you don't think this is the end.
- 7343: Your real life as a martial artist is just beginning. Time to start your training anew!
- 7344: ... Finally! We finally meet face to face!
- 7345: I have a presence in this world again! What an exhilarating feeling!
- 7346: Ah yes, there is one more thing...
- 7347: Eh? What?
- 7348: Oh. You must be this one's new owner.
- 7349: With your dagger skills, you'll make a perfect wielder for the $0.
- 7350: It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
- 7351: Treat her well...
- 7352: ...
- 7353: Splendid! From this day forth, I belong to you.
- 7354: So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
- 7355: ... Thou hast found me.
- 7356: I have now thrice shown my true form in this world.
- 7357: A moment...
- 7358: ... What has happened to me?
- 7359: I see, you are the sword's new owner?
- 7360: Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding $0.
- 7361: When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
- 7362: And now I, too, can rest unburdened...
- 7363: ...
- 7364: Thou art blessed this day.
- 7365: Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
- 7366: ... You have found me.
- 7367: Allow me to show my respect. You who have gained the strength of so many must be a true hero.
- 7368: But first...
- 7369: Who are you?
- 7370: This must be some sort of joke. You are the new wielder of this weapon?
- 7371: Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
- 7372: However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
- 7373: Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
- 7374: ...
- 7375: Now, my heroic master...
- 7376: For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
- 7377: ... You...me, meet.
- 7378: Me...free... Thanks to you. Me, your...
- 7379: Wait...
- 7380: What the...?
- 7381: Ah, now I see. The wheel has turned.
- 7382: Truthfully spoken, I am thankful. # is a splendid axe, but ever does it hunger.
- 7383: I have taken many lives to sate its need, and have reached the end of my strength.
- 7384: You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
- 7385: ...
- 7386: You, master, me. Good, work. Me, thank, you.
- 7387: Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
- 7388: ... Ah, you found me!
- 7389: I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
- 7390: One moment...
- 7391: ... This is...Jeuno!? Have I finally returned?
- 7392: I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
- 7393: Hmm. With your polished skills, you will make a fine master for $0.
- 7394: The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
- 7395: Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use $0 to avenge the Hydra Corps...
- 7396: ...
- 7397: I congratulate you also...my new master.
- 7398: Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
- 7399: ... You have found me.
- 7400: My forbidden power is now yours, and I am liberated from my prison.
- 7401: You have but to gain her respect...
- 7402: Such a long dream I was having...
- 7403: It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
- 7404: And you? Do you seek the same darkness that I did... It seems you have already found your way to $0.
- 7405: Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
- 7406: And think long and hard on whether or not this power should be used. Do not end up like me...
- 7407: ...
- 7408: Heh. Heh heh. Hahahahahahaha!
- 7409: Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
- 7410: ... You have unearthed me at last.
- 7411: I am free from Dynamis, free to fly through the heavens once more.
- 7412: All that remains is...
- 7413: Hello? Is it possible that I...
- 7414: But, no. I have not returned to this realm... You. You are to be my successor?
- 7415: You certainly seem to have the required skill with the lance. Enough to convince $0 to lend you its power, at any rate.
- 7416: Having this spear on the battlefield makes you a match for almost any opponent.
- 7417: Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
- 7418: ...
- 7419: The ceremony of inheritance is complete.
- 7420: It is time for you to go forth and experience my overwhelming strength...
- 7421: ... I have been rediscovered at last.
- 7422: Thanks to you, I have made my escape from the shrouded land.
- 7423: You must now gain the sanction of my master...
- 7424: It is a pity, indeed.
- 7425: This day has come far too soon for my liking.
- 7426: However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the $0.
- 7427: Take this blade as your own. Travel far down the path of the ninja.
- 7428: I will be watching you from the shadows...
- 7429: ...
- 7430: A fine master...
- 7431: My keen edge is now yours to wield. A sharpness said to make even demons wail...
- 7432: ... This day has finally come.
- 7433: I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
- 7434: In any event...
- 7435: What is going on here?
- 7436: Ah, my successor has come.
- 7437: I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the $0 and returned to my home, the Great War had begun.
- 7438: When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
- 7439: You have my gratitude. Farewell, $0...
- 7440: ...
- 7441: It has been a hard path to reach this point.
- 7442: But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
- 7443: ... At long last, you have arrived.
- 7444: I was not convinced you were serious about completing this trial...
- 7445: You have proven me wrong...
- 7446: I have heard of your coming.
- 7447: You are to be the new master of this hammer of war?
- 7448: Every time $0 is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
- 7449: However, there is little meaning in me keeping it now. If you will wield this weapon for a just cause, I hand its power over to you.
- 7450: Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
- 7451: ...
- 7452: My might is yours to wield.
- 7453: Go forth and experience the destructive power that laid low the Earth Serpent...
- 7454: ... So, you have found me.
- 7455: I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
- 7456: And now...
- 7457: Hwaah!
- 7458: Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
- 7459: Well, it's for the best, I suppose. In my current state, $0 is nothing more than an ornament, its power going to waste.
- 7460: I entrust this staff to you! Take up $0, <Player>, and bind it to you in a contract of blood!
- 7461: I take my leave of you now. I only wish that I was able to stay a little longer...
- 7462: ...
- 7463: I am yours to wield.
- 7464: But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
- 7465: ... You have discovered my resting place.
- 7466: The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
- 7467: Ah, one more test of your patience...
- 7468: Where is this place?
- 7469: Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
- 7470: Your hands tell me that your skill in archery is far from ordinary. $0 will fit snugly into your sure grasp.
- 7471: However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
- 7472: Farewell...
- 7473: ...
- 7474: It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
- 7475: You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
- 7476: ... We finally meet.
- 7477: I am now free from the pit of Dynamis to spit fire in this world once again.
- 7478: But I must ask you to wait before taking me into your possession...
- 7479: Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
- 7480: Hm? You think you're the one who's going to take up my gun?
- 7481: You do seem to have a fair eye for marksmanship. And $0 would look perfect nestled in the crook of your arm...
- 7482: Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
- 7483: This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
- 7484: ...
- 7485: A weapon has no will of its own. But it was made for a purpose.
- 7486: Take me to a new battlefield, a new arena for the hunt...
- 7487: ... I am saved.
- 7488: Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
- 7489: A few more moments, if you please...
- 7490: Hello there. I am Terounalivet, a military musician of the Hydra Corps.
- 7491: You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
- 7492: To be completely truthful, I am heartbroken to be giving up the $0, the most famous of instruments, even to a fellow bard.
- 7493: But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
- 7494: She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
- 7495: ...
- 7496: He was a wonderful performer.
- 7497: Let us be on our way. Our tour of the world has only just begun...
- 7498: There is nothing out of the ordinary here.
- 7499: You can hear a strange voice... "Items, items, la la la la la`t"
- 7500: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7501: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7502: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7503: Now, listen close...
- 7504: Oh... Well, if that's the case, I'm outta here.
- 7505: The Goblin slipped away when you were not looking...
- 7506: You can hear a strange, raspy voice...
- 7507: I travel......hear lots... Hear...stories... Can tell...if...
- 7508: .........listen......
- 7509: Oh...... ...outta here.........
- 7510: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7511: What story would you like to be told? [On second thought, maybe later./Excalibur.]
- 7512: 
+ 7328: @
+ 7329: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7330: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7331: There is nothing out of the ordinary here.
+ 7332: You hear a voice from out of nowhere...
+ 7333: You obtain $1 $0 !
+ 7334: ... At last we meet.
+ 7335: I have been freed from my prison and can soak up the sweat and blood of this world once more.
+ 7336: Wait, there is something I must...
+ 7337: This place is...?
+ 7338: I see... You must be the new wielder for these.
+ 7339: Yes, with your fighting spirit I believe you will be able to master the $0.
+ 7340: The $0 have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
+ 7341: They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
+ 7342: ...
+ 7343: I hope you don't think this is the end.
+ 7344: Your real life as a martial artist is just beginning. Time to start your training anew!
+ 7345: ... Finally! We finally meet face to face!
+ 7346: I have a presence in this world again! What an exhilarating feeling!
+ 7347: Ah yes, there is one more thing...
+ 7348: Eh? What?
+ 7349: Oh. You must be this one's new owner.
+ 7350: With your dagger skills, you'll make a perfect wielder for the $0.
+ 7351: It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
+ 7352: Treat her well...
+ 7353: ...
+ 7354: Splendid! From this day forth, I belong to you.
+ 7355: So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
+ 7356: ... Thou hast found me.
+ 7357: I have now thrice shown my true form in this world.
+ 7358: A moment...
+ 7359: ... What has happened to me?
+ 7360: I see, you are the sword's new owner?
+ 7361: Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding $0.
+ 7362: When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
+ 7363: And now I, too, can rest unburdened...
+ 7364: ...
+ 7365: Thou art blessed this day.
+ 7366: Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
+ 7367: ... You have found me.
+ 7368: Allow me to show my respect. You who have gained the strength of so many must be a true hero.
+ 7369: But first...
+ 7370: Who are you?
+ 7371: This must be some sort of joke. You are the new wielder of this weapon?
+ 7372: Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
+ 7373: However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
+ 7374: Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
+ 7375: ...
+ 7376: Now, my heroic master...
+ 7377: For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
+ 7378: ... You...me, meet.
+ 7379: Me...free... Thanks to you. Me, your...
+ 7380: Wait...
+ 7381: What the...?
+ 7382: Ah, now I see. The wheel has turned.
+ 7383: Truthfully spoken, I am thankful. # is a splendid axe, but ever does it hunger.
+ 7384: I have taken many lives to sate its need, and have reached the end of my strength.
+ 7385: You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
+ 7386: ...
+ 7387: You, master, me. Good, work. Me, thank, you.
+ 7388: Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
+ 7389: ... Ah, you found me!
+ 7390: I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
+ 7391: One moment...
+ 7392: ... This is...Jeuno!? Have I finally returned?
+ 7393: I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
+ 7394: Hmm. With your polished skills, you will make a fine master for $0.
+ 7395: The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
+ 7396: Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use $0 to avenge the Hydra Corps...
+ 7397: ...
+ 7398: I congratulate you also...my new master.
+ 7399: Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
+ 7400: ... You have found me.
+ 7401: My forbidden power is now yours, and I am liberated from my prison.
+ 7402: You have but to gain her respect...
+ 7403: Such a long dream I was having...
+ 7404: It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
+ 7405: And you? Do you seek the same darkness that I did... It seems you have already found your way to $0.
+ 7406: Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
+ 7407: And think long and hard on whether or not this power should be used. Do not end up like me...
+ 7408: ...
+ 7409: Heh. Heh heh. Hahahahahahaha!
+ 7410: Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
+ 7411: ... You have unearthed me at last.
+ 7412: I am free from Dynamis, free to fly through the heavens once more.
+ 7413: All that remains is...
+ 7414: Hello? Is it possible that I...
+ 7415: But, no. I have not returned to this realm... You. You are to be my successor?
+ 7416: You certainly seem to have the required skill with the lance. Enough to convince $0 to lend you its power, at any rate.
+ 7417: Having this spear on the battlefield makes you a match for almost any opponent.
+ 7418: Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
+ 7419: ...
+ 7420: The ceremony of inheritance is complete.
+ 7421: It is time for you to go forth and experience my overwhelming strength...
+ 7422: ... I have been rediscovered at last.
+ 7423: Thanks to you, I have made my escape from the shrouded land.
+ 7424: You must now gain the sanction of my master...
+ 7425: It is a pity, indeed.
+ 7426: This day has come far too soon for my liking.
+ 7427: However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the $0.
+ 7428: Take this blade as your own. Travel far down the path of the ninja.
+ 7429: I will be watching you from the shadows...
+ 7430: ...
+ 7431: A fine master...
+ 7432: My keen edge is now yours to wield. A sharpness said to make even demons wail...
+ 7433: ... This day has finally come.
+ 7434: I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
+ 7435: In any event...
+ 7436: What is going on here?
+ 7437: Ah, my successor has come.
+ 7438: I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the $0 and returned to my home, the Great War had begun.
+ 7439: When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
+ 7440: You have my gratitude. Farewell, $0...
+ 7441: ...
+ 7442: It has been a hard path to reach this point.
+ 7443: But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
+ 7444: ... At long last, you have arrived.
+ 7445: I was not convinced you were serious about completing this trial...
+ 7446: You have proven me wrong...
+ 7447: I have heard of your coming.
+ 7448: You are to be the new master of this hammer of war?
+ 7449: Every time $0 is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
+ 7450: However, there is little meaning in me keeping it now. If you will wield this weapon for a just cause, I hand its power over to you.
+ 7451: Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
+ 7452: ...
+ 7453: My might is yours to wield.
+ 7454: Go forth and experience the destructive power that laid low the Earth Serpent...
+ 7455: ... So, you have found me.
+ 7456: I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
+ 7457: And now...
+ 7458: Hwaah!
+ 7459: Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
+ 7460: Well, it's for the best, I suppose. In my current state, $0 is nothing more than an ornament, its power going to waste.
+ 7461: I entrust this staff to you! Take up $0, <Player>, and bind it to you in a contract of blood!
+ 7462: I take my leave of you now. I only wish that I was able to stay a little longer...
+ 7463: ...
+ 7464: I am yours to wield.
+ 7465: But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
+ 7466: ... You have discovered my resting place.
+ 7467: The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
+ 7468: Ah, one more test of your patience...
+ 7469: Where is this place?
+ 7470: Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
+ 7471: Your hands tell me that your skill in archery is far from ordinary. $0 will fit snugly into your sure grasp.
+ 7472: However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
+ 7473: Farewell...
+ 7474: ...
+ 7475: It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
+ 7476: You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
+ 7477: ... We finally meet.
+ 7478: I am now free from the pit of Dynamis to spit fire in this world once again.
+ 7479: But I must ask you to wait before taking me into your possession...
+ 7480: Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
+ 7481: Hm? You think you're the one who's going to take up my gun?
+ 7482: You do seem to have a fair eye for marksmanship. And $0 would look perfect nestled in the crook of your arm...
+ 7483: Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
+ 7484: This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
+ 7485: ...
+ 7486: A weapon has no will of its own. But it was made for a purpose.
+ 7487: Take me to a new battlefield, a new arena for the hunt...
+ 7488: ... I am saved.
+ 7489: Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
+ 7490: A few more moments, if you please...
+ 7491: Hello there. I am Terounalivet, a military musician of the Hydra Corps.
+ 7492: You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
+ 7493: To be completely truthful, I am heartbroken to be giving up the $0, the most famous of instruments, even to a fellow bard.
+ 7494: But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
+ 7495: She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
+ 7496: ...
+ 7497: He was a wonderful performer.
+ 7498: Let us be on our way. Our tour of the world has only just begun...
+ 7499: There is nothing out of the ordinary here.
+ 7500: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7501: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7502: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7503: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7504: Now, listen close...
+ 7505: Oh... Well, if that's the case, I'm outta here.
+ 7506: The Goblin slipped away when you were not looking...
+ 7507: You can hear a strange, raspy voice...
+ 7508: I travel......hear lots... Hear...stories... Can tell...if...
+ 7509: .........listen......
+ 7510: Oh...... ...outta here.........
+ 7511: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7512: What story would you like to be told? [On second thought, maybe later./Excalibur.]
  7513: 
  7514: 
- 7515: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7516: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7517: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7518: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7519: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
- 7520: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
- 7521: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
- 7522: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7523: It will cost $2 gil to teleport to $8. ($3 gil on hand)
- 7524: All mog tablets have currently been found, so you may teleport to $8 at no charge.
- 7525: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 7526: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
- 7527: You do not have enough tabs.
- 7528: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
- 7529: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
- 7530: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
- 7531: Accept the reward? [Yes, please./No, thanks.]
- 7532: You may change the way you select areas listed in "Teleportation Assistance."
- 7533: Any changes to make? [Keep course./Select by region./Select by content.]
- 7534: Area selection will now be made by [region/content].
- 7535: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
- 7536: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7537: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
- 7538: $8 has been [added to your list of favorites/removed from your list of favorites].
- 7539: Your list of favorites is full. You must remove an existing entry to add new ones.
- 7540: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
- 7541: Your $0 begins to quiver!
- 7542: Your $0 emits a faint glow. Perhaps you should head to Lufaise Meadows.
+ 7515: 
+ 7516: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7517: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7518: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7519: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7520: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+ 7521: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+ 7522: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+ 7523: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7524: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+ 7525: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+ 7526: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+ 7527: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 7528: You do not have enough tabs.
+ 7529: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+ 7530: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+ 7531: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+ 7532: Accept the reward? [Yes, please./No, thanks.]
+ 7533: You may change the way you select areas listed in "Teleportation Assistance."
+ 7534: Any changes to make? [Keep course./Select by region./Select by content.]
+ 7535: Area selection will now be made by [region/content].
+ 7536: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+ 7537: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7538: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+ 7539: $8 has been [added to your list of favorites/removed from your list of favorites].
+ 7540: Your list of favorites is full. You must remove an existing entry to add new ones.
+ 7541: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+ 7542: Your $0 begins to quiver!
+ 7543: Your $0 emits a faint glow. Perhaps you should head to Lufaise Meadows.

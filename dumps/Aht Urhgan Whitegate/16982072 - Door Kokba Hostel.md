@@ -26,25 +26,25 @@
 |---------|-------------|-------------|
 |       0 | 0x00C8      |         200 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x261E      |        9758 |
-|       3 | 0x261F      |        9759 |
-|       4 | 0x2620      |        9760 |
+|       2 | 0x261F      |        9759 |
+|       3 | 0x2620      |        9760 |
+|       4 | 0x2621      |        9761 |
 |       5 | 0xFFFFFFFF  |  4294967295 |
 |       6 | 0x0002      |           2 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x0003      |           3 |
 |       9 | 0x0004      |           4 |
-|      10 | 0x2621      |        9761 |
-|      11 | 0x2622      |        9762 |
-|      12 | 0x2623      |        9763 |
-|      13 | 0x262A      |        9770 |
-|      14 | 0x2624      |        9764 |
-|      15 | 0x2625      |        9765 |
-|      16 | 0x2626      |        9766 |
-|      17 | 0x2627      |        9767 |
-|      18 | 0x2628      |        9768 |
-|      19 | 0x2629      |        9769 |
-|      20 | 0x262B      |        9771 |
+|      10 | 0x2622      |        9762 |
+|      11 | 0x2623      |        9763 |
+|      12 | 0x2624      |        9764 |
+|      13 | 0x262B      |        9771 |
+|      14 | 0x2625      |        9765 |
+|      15 | 0x2626      |        9766 |
+|      16 | 0x2627      |        9767 |
+|      17 | 0x2628      |        9768 |
+|      18 | 0x2629      |        9769 |
+|      19 | 0x262A      |        9770 |
+|      20 | 0x262C      |        9772 |
 |      21 | 0x40000000  |  1073741824 |
 |      22 | 0x0099      |         153 |
 |      23 | 0x006C      |         108 |
@@ -107,12 +107,12 @@
 
 ## String References
 
-- **9761**: Which album do you choose? [None/Untitled./Rise of the Zilart./Chains of Promathia./Treasures of Aht Urhgan.]
-- **9762**: Which song do you request? [Return to album menu./Prelude./Vana'diel March./Vana'diel March #2./Voyager./Buccaneers./Sunbreeze Shuffle./The Kingdom of San d'Oria./Chateau d'Oraguille./The Republic of Bastok./Metalworks./The Federation of Windurst./Heavens Tower./Hopelessness./Repression./Just Once More./Recollection./Despair./Fury./Sorrow./Anxiety./Sometime, Somewhere./Ghelsba./Tough Battle./Shadow Lord./Awakening.]
-- **9764**: Which song do you request? [Return to album menu./Wedding march./Tough Battle #2./Bloody Promise./Memoro de la S^tono./Grav'iton./Kamlanaut#1./Kamlanaut#2./The Zilart./Warriors of the Crystal./Eald'narche./Belief./End Theme.]
-- **9766**: Which song do you request? [Return to album menu./Unity./Currents Of Time./Xmas./Turmoil./Conflict: March Of The Hero./Conflict: You Want To Live Forever?/Trembling Sky./Happily Ever After./The Ruler Of The Skies./Second Ode: Distant Promises./Dusk And Dawn./Fourth Ode: Clouded Dawn./Words Unspoken--Pso'Xja./VS Promathia./A New Morning.]
-- **9768**: Which song do you request? [Return to album menu./Vana'diel March #4./Eastward Bound.../Hellriders./Fated Strife -Besieged-./Rapid Onslaught -Assault-./Ever-Turning Wheels./Eternal Gravestone.]
-- **9770**: This is the song you request? [That's the one!/Let me see the list again...]
+- **9762**: Which album do you choose? [None/Untitled./Rise of the Zilart./Chains of Promathia./Treasures of Aht Urhgan.]
+- **9763**: Which song do you request? [Return to album menu./Prelude./Vana'diel March./Vana'diel March #2./Voyager./Buccaneers./Sunbreeze Shuffle./The Kingdom of San d'Oria./Chateau d'Oraguille./The Republic of Bastok./Metalworks./The Federation of Windurst./Heavens Tower./Hopelessness./Repression./Just Once More./Recollection./Despair./Fury./Sorrow./Anxiety./Sometime, Somewhere./Ghelsba./Tough Battle./Shadow Lord./Awakening.]
+- **9765**: Which song do you request? [Return to album menu./Wedding march./Tough Battle #2./Bloody Promise./Memoro de la S^tono./Grav'iton./Kamlanaut#1./Kamlanaut#2./The Zilart./Warriors of the Crystal./Eald'narche./Belief./End Theme.]
+- **9767**: Which song do you request? [Return to album menu./Unity./Currents Of Time./Xmas./Turmoil./Conflict: March Of The Hero./Conflict: You Want To Live Forever?/Trembling Sky./Happily Ever After./The Ruler Of The Skies./Second Ode: Distant Promises./Dusk And Dawn./Fourth Ode: Clouded Dawn./Words Unspoken--Pso'Xja./VS Promathia./A New Morning.]
+- **9769**: Which song do you request? [Return to album menu./Vana'diel March #4./Eastward Bound.../Hellriders./Fated Strife -Besieged-./Rapid Onslaught -Assault-./Ever-Turning Wheels./Eternal Gravestone.]
+- **9771**: This is the song you request? [That's the one!/Let me see the list again...]
 
 ## Events
 
@@ -298,17 +298,17 @@
   4: 0x001E [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[6]
   5: 0x0023 [0x3E] IF !(ExtData[1]->WorkLocal[10] bit 0*) GOTO 0x002D
   6: 0x002A [0x01] GOTO 0x0035
-  7: 0x002D [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9758*]:
+  7: 0x002D [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9759*]:
     → "Greetings! I am the wandering minstrel, Ohsi Shomahl! Today my services are available to all who stay at the Kokbah Hostel."
   8: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0035:
-  9: 0x0035 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9759*]:
+  9: 0x0035 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9760*]:
     → "Choose a song from my repertoire, and I shall endeavor to move you with my melody."
  10: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x003D [0x3E] IF !(ExtData[1]->WorkLocal[10] bit 0*) GOTO 0x0047
  12: 0x0044 [0x01] GOTO 0x004F
- 13: 0x0047 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9760*]:
+ 13: 0x0047 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9761*]:
     → "First select an album, then request the song you wish to hear. No coin is required! The owner of the hostel has been most gracious in his payment."
  14: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -323,7 +323,7 @@ SUBROUTINE_0055:
  20: 0x006C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
  21: 0x0073 [0x02] IF !(ExtData[1]->WorkLocal[5] == 4294967295*) GOTO 0x0082
  22: 0x007B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=4*, condition_work_offset=1*)
- 23: 0x0082 [0x24] CREATE_DIALOG(message_id=9761*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
+ 23: 0x0082 [0x24] CREATE_DIALOG(message_id=9762*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
     → "Which album do you choose? [None/Untitled./Rise of the Zilart./Chains of Promathia./Treasures of Aht Urhgan.]"
  24: 0x0089 [0x25] WAIT_DIALOG_SELECT()
  25: 0x008A [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[0]
@@ -331,7 +331,7 @@ SUBROUTINE_0055:
  27: 0x0097 [0x06] ExtData[1]->WorkLocal[6] = 0
 
 SUBROUTINE_009A:
- 28: 0x009A [0x24] CREATE_DIALOG(message_id=9762*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[2])
+ 28: 0x009A [0x24] CREATE_DIALOG(message_id=9763*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[2])
     → "Which song do you request? [Return to album menu./Prelude./Vana'diel March./Vana'diel March #2./Voyager./Buccaneers./Sunbreeze Shuffle./The Kingdom of San d'Oria./Chateau d'Oraguille./The Republic of Bastok./Metalworks./The Federation of Windurst./Heavens Tower./Hopelessness./Repression./Just Once More./Recollection./Despair./Fury./Sorrow./Anxiety./Sometime, Somewhere./Ghelsba./Tough Battle./Shadow Lord./Awakening.]"
  29: 0x00A1 [0x25] WAIT_DIALOG_SELECT()
  30: 0x00A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B0
@@ -340,10 +340,10 @@ SUBROUTINE_009A:
 SUBROUTINE_00B0:
  32: 0x00B0 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[0]
  33: 0x00B5 [0x03] Work_Zone_1700[22] = Work_Zone[0]
- 34: 0x00BA [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9763*]:
+ 34: 0x00BA [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9764*]:
     → "You wish to request "[/Prelude/Vana'diel March/Vana'diel March #2/Voyager/Buccaneers/Sunbreeze Shuffle/The Kingdom of San d'Oria/Chateau d'Oraguille/The Republic of Bastok/Metalworks/The Federation of Windurst/Heavens Tower/Hopelessness/Repression/Just Once More/Recollection/Despair/Fury/Sorrow/Anxiety/Sometime, Somewhere/Ghelsba/Tough Battle/Shadow Lord/Awakening/]"?"
  35: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x00C2 [0x24] CREATE_DIALOG(message_id=9770*, default_option=0*, option_flags=0*)
+ 36: 0x00C2 [0x24] CREATE_DIALOG(message_id=9771*, default_option=0*, option_flags=0*)
     → "This is the song you request? [That's the one!/Let me see the list again...]"
  37: 0x00C9 [0x25] WAIT_DIALOG_SELECT()
  38: 0x00CA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00D8
@@ -355,7 +355,7 @@ SUBROUTINE_00E0:
  42: 0x00EB [0x06] ExtData[1]->WorkLocal[7] = 0
 
 SUBROUTINE_00EE:
- 43: 0x00EE [0x24] CREATE_DIALOG(message_id=9764*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[3])
+ 43: 0x00EE [0x24] CREATE_DIALOG(message_id=9765*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[3])
     → "Which song do you request? [Return to album menu./Wedding march./Tough Battle #2./Bloody Promise./Memoro de la S^tono./Grav'iton./Kamlanaut#1./Kamlanaut#2./The Zilart./Warriors of the Crystal./Eald'narche./Belief./End Theme.]"
  44: 0x00F5 [0x25] WAIT_DIALOG_SELECT()
  45: 0x00F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0104
@@ -364,10 +364,10 @@ SUBROUTINE_00EE:
 SUBROUTINE_0104:
  47: 0x0104 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
  48: 0x0109 [0x03] Work_Zone_1700[22] = Work_Zone[0]
- 49: 0x010E [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9765*]:
+ 49: 0x010E [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9766*]:
     → "You wish to request "[/Wedding march/Tough Battle #2/Bloody Promise/Memoro de la S^tono/Grav'iton/Kamlanaut#1/Kamlanaut#2/The Zilart/Warriors of the Crystal/Eald'narche/Belief/End Theme]"?"
  50: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x0116 [0x24] CREATE_DIALOG(message_id=9770*, default_option=0*, option_flags=0*)
+ 51: 0x0116 [0x24] CREATE_DIALOG(message_id=9771*, default_option=0*, option_flags=0*)
     → "This is the song you request? [That's the one!/Let me see the list again...]"
  52: 0x011D [0x25] WAIT_DIALOG_SELECT()
  53: 0x011E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x012C
@@ -379,7 +379,7 @@ SUBROUTINE_0134:
  57: 0x013F [0x06] ExtData[1]->WorkLocal[8] = 0
 
 SUBROUTINE_0142:
- 58: 0x0142 [0x24] CREATE_DIALOG(message_id=9766*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[4])
+ 58: 0x0142 [0x24] CREATE_DIALOG(message_id=9767*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[4])
     → "Which song do you request? [Return to album menu./Unity./Currents Of Time./Xmas./Turmoil./Conflict: March Of The Hero./Conflict: You Want To Live Forever?/Trembling Sky./Happily Ever After./The Ruler Of The Skies./Second Ode: Distant Promises./Dusk And Dawn./Fourth Ode: Clouded Dawn./Words Unspoken--Pso'Xja./VS Promathia./A New Morning.]"
  59: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  60: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0158
@@ -388,10 +388,10 @@ SUBROUTINE_0142:
 SUBROUTINE_0158:
  62: 0x0158 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[0]
  63: 0x015D [0x03] Work_Zone_1700[22] = Work_Zone[0]
- 64: 0x0162 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9767*]:
+ 64: 0x0162 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9768*]:
     → "You wish to request "[/Unity/Currents Of Time/Xmas/Turmoil/Conflict: March Of The Hero/Conflict: You Want To Live Forever?/Trembling Sky/Happily Ever After/The Ruler Of The Skies/Second Ode: Distant Promises/Dusk And Dawn/Fourth Ode: Clouded Dawn/Words Unspoken--Pso'Xja/VS Promathia/A New Morning]"?"
  65: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x016A [0x24] CREATE_DIALOG(message_id=9770*, default_option=0*, option_flags=0*)
+ 66: 0x016A [0x24] CREATE_DIALOG(message_id=9771*, default_option=0*, option_flags=0*)
     → "This is the song you request? [That's the one!/Let me see the list again...]"
  67: 0x0171 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0172 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0180
@@ -403,7 +403,7 @@ SUBROUTINE_0188:
  72: 0x0193 [0x06] ExtData[1]->WorkLocal[9] = 0
 
 SUBROUTINE_0196:
- 73: 0x0196 [0x24] CREATE_DIALOG(message_id=9768*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[5])
+ 73: 0x0196 [0x24] CREATE_DIALOG(message_id=9769*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[5])
     → "Which song do you request? [Return to album menu./Vana'diel March #4./Eastward Bound.../Hellriders./Fated Strife -Besieged-./Rapid Onslaught -Assault-./Ever-Turning Wheels./Eternal Gravestone.]"
  74: 0x019D [0x25] WAIT_DIALOG_SELECT()
  75: 0x019E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AC
@@ -412,10 +412,10 @@ SUBROUTINE_0196:
 SUBROUTINE_01AC:
  77: 0x01AC [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[0]
  78: 0x01B1 [0x03] Work_Zone_1700[22] = Work_Zone[0]
- 79: 0x01B6 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9769*]:
+ 79: 0x01B6 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9770*]:
     → "You wish to request "[/Vana'diel March #4/Eastward Bound.../Hellriders/Fated Strife -Besieged-/Rapid Onslaught -Assault-/Ever-Turning Wheels/Eternal Gravestone]"?"
  80: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x01BE [0x24] CREATE_DIALOG(message_id=9770*, default_option=0*, option_flags=0*)
+ 81: 0x01BE [0x24] CREATE_DIALOG(message_id=9771*, default_option=0*, option_flags=0*)
     → "This is the song you request? [That's the one!/Let me see the list again...]"
  82: 0x01C5 [0x25] WAIT_DIALOG_SELECT()
  83: 0x01C6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01D4
@@ -430,7 +430,7 @@ SUBROUTINE_01E4:
  88: 0x01EC [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
  89: 0x01F0 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
  90: 0x01F4 [0x9A] WAIT_MUSIC_SERVER()
- 91: 0x01F5 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9771*]:
+ 91: 0x01F5 [0x2B] Ohsi Shomahl (ID: 16982454/0x010321B6) [9772*]:
     → "Sit back and enjoy the performance!"
  92: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x01FD [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song ExtData[1]->WorkLocal[11]

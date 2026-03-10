@@ -27,25 +27,25 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x271D      |       10013 |
-|       3 | 0x271E      |       10014 |
-|       4 | 0x2875      |       10357 |
-|       5 | 0x2876      |       10358 |
-|       6 | 0x2748      |       10056 |
-|       7 | 0x2749      |       10057 |
-|       8 | 0x274D      |       10061 |
-|       9 | 0x274E      |       10062 |
+|       2 | 0x271E      |       10014 |
+|       3 | 0x271F      |       10015 |
+|       4 | 0x2876      |       10358 |
+|       5 | 0x2877      |       10359 |
+|       6 | 0x2749      |       10057 |
+|       7 | 0x274A      |       10058 |
+|       8 | 0x274E      |       10062 |
+|       9 | 0x274F      |       10063 |
 
 ## String References
 
-- **10013**: What's wrrrong, young adventurer? You look like you've got something on your mind.
-- **10014**: Whenever something's trrroubling me, I sit back and relax in the Kazham sun, and everything is fine.
-- **10056**: Oh, so you're going to grrreet the guardian of this island? Well, you're going to need some $2 to get up the volcano.
-- **10057**: Once you've made the offering and been accepted by our guardian, you will be one of us. That is, if you come back alive.
-- **10061**: The guardian has hearrrd your voice and accepted you. You're now one of us!
-- **10062**: Enjoy the rest of your stay in our lush paradise of Kazham!
-- **10357**: I'm going to give you two choices, and then I'm going to give you to the count of ten.
-- **10358**: You can pack up and leave Kazham right now...or you can find some way of getting rrrid of that stench!
+- **10014**: What's wrrrong, young adventurer? You look like you've got something on your mind.
+- **10015**: Whenever something's trrroubling me, I sit back and relax in the Kazham sun, and everything is fine.
+- **10057**: Oh, so you're going to grrreet the guardian of this island? Well, you're going to need some $2 to get up the volcano.
+- **10058**: Once you've made the offering and been accepted by our guardian, you will be one of us. That is, if you come back alive.
+- **10062**: The guardian has hearrrd your voice and accepted you. You're now one of us!
+- **10063**: Enjoy the rest of your stay in our lush paradise of Kazham!
+- **10358**: I'm going to give you two choices, and then I'm going to give you to the count of ten.
+- **10359**: You can pack up and leave Kazham right now...or you can find some way of getting rrrid of that stench!
 
 ## Events
 
@@ -144,10 +144,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khaffi Salponoihz (ID: 17801273/0x010FA039), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10013*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10014*)
     → "What's wrrrong, young adventurer? You look like you've got something on your mind."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10014*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10015*)
     → "Whenever something's trrroubling me, I sit back and relax in the Kazham sun, and everything is fine."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khaffi Salponoihz (ID: 17801273/0x010FA039), tag_num=0x02)
@@ -181,10 +181,10 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khaffi Salponoihz (ID: 17801273/0x010FA039), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10357*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10358*)
     → "I'm going to give you two choices, and then I'm going to give you to the count of ten."
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10358*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10359*)
     → "You can pack up and leave Kazham right now...or you can find some way of getting rrrid of that stench!"
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khaffi Salponoihz (ID: 17801273/0x010FA039), tag_num=0x02)
@@ -218,10 +218,10 @@
   1: 0x0061 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0062 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0063 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khaffi Salponoihz (ID: 17801273/0x010FA039), tag_num=0x01)
-  4: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=10056*)
+  4: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=10057*)
     → "Oh, so you're going to grrreet the guardian of this island? Well, you're going to need some $2 to get up the volcano."
   5: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=10057*)
+  6: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=10058*)
     → "Once you've made the offering and been accepted by our guardian, you will be one of us. That is, if you come back alive."
   7: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0072 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khaffi Salponoihz (ID: 17801273/0x010FA039), tag_num=0x02)
@@ -255,10 +255,10 @@
   1: 0x0082 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0083 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0084 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khaffi Salponoihz (ID: 17801273/0x010FA039), tag_num=0x01)
-  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=10061*)
+  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=10062*)
     → "The guardian has hearrrd your voice and accepted you. You're now one of us!"
   5: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=10062*)
+  6: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=10063*)
     → "Enjoy the rest of your stay in our lush paradise of Kazham!"
   7: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0093 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khaffi Salponoihz (ID: 17801273/0x010FA039), tag_num=0x02)

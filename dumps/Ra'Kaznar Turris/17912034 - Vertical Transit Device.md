@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x20FE      |        8446 |
-|       1 | 0x20FF      |        8447 |
+|       0 | 0x20FF      |        8447 |
+|       1 | 0x2100      |        8448 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x00C8      |         200 |
@@ -39,8 +39,8 @@
 
 ## String References
 
-- **8446**: This baffling gadget seems to serve as transport to the [lower/higher] floors.
-- **8447**: Head to a [lower/higher] floor? [Yes./No.]
+- **8447**: This baffling gadget seems to serve as transport to the [lower/higher] floors.
+- **8448**: Head to a [lower/higher] floor? [Yes./No.]
 
 ## Events
 
@@ -101,10 +101,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [8446*]:
+  0: 0x0001 [0x48] [System] [8447*]:
     → "This baffling gadget seems to serve as transport to the [lower/higher] floors."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=8447*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=8448*, default_option=0*, option_flags=0*)
     → "Head to a [lower/higher] floor? [Yes./No.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F3

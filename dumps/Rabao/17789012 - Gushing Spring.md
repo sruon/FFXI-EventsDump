@@ -23,7 +23,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2A2F      |       10799 |
+|       0 | 0x2A30      |       10800 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
@@ -39,34 +39,34 @@
 |      13 | 0x0015      |          21 |
 |      14 | 0x0017      |          23 |
 |      15 | 0x0003      |           3 |
-|      16 | 0x2A5A      |       10842 |
-|      17 | 0x2A5B      |       10843 |
-|      18 | 0x2A5C      |       10844 |
+|      16 | 0x2A5B      |       10843 |
+|      17 | 0x2A5C      |       10844 |
+|      18 | 0x2A5D      |       10845 |
 |      19 | 0x0004      |           4 |
 |      20 | 0x0005      |           5 |
 |      21 | 0x0006      |           6 |
-|      22 | 0x2A5D      |       10845 |
-|      23 | 0x2A5E      |       10846 |
-|      24 | 0x2A5F      |       10847 |
-|      25 | 0x2A60      |       10848 |
-|      26 | 0x2A31      |       10801 |
+|      22 | 0x2A5E      |       10846 |
+|      23 | 0x2A5F      |       10847 |
+|      24 | 0x2A60      |       10848 |
+|      25 | 0x2A61      |       10849 |
+|      26 | 0x2A32      |       10802 |
 |      27 | 0x0603      |        1539 |
-|      28 | 0x2A32      |       10802 |
+|      28 | 0x2A33      |       10803 |
 |      29 | 0x40000000  |  1073741824 |
-|      30 | 0x2A33      |       10803 |
-|      31 | 0x2A34      |       10804 |
-|      32 | 0x2A3C      |       10812 |
-|      33 | 0x2A3B      |       10811 |
-|      34 | 0x2A35      |       10805 |
-|      35 | 0x2A36      |       10806 |
+|      30 | 0x2A34      |       10804 |
+|      31 | 0x2A35      |       10805 |
+|      32 | 0x2A3D      |       10813 |
+|      33 | 0x2A3C      |       10812 |
+|      34 | 0x2A36      |       10806 |
+|      35 | 0x2A37      |       10807 |
 |      36 | 0x0010      |          16 |
 |      37 | 0x001F      |          31 |
-|      38 | 0x2A3D      |       10813 |
-|      39 | 0x2A3E      |       10814 |
-|      40 | 0x2A3F      |       10815 |
+|      38 | 0x2A3E      |       10814 |
+|      39 | 0x2A3F      |       10815 |
+|      40 | 0x2A40      |       10816 |
 |      41 | 0x003C      |          60 |
-|      42 | 0x2A40      |       10816 |
-|      43 | 0x2A43      |       10819 |
+|      42 | 0x2A41      |       10817 |
+|      43 | 0x2A44      |       10820 |
 |      44 | 0x0D6A      |        3434 |
 |      45 | 0x0BB8      |        3000 |
 |      46 | 0x0D6B      |        3435 |
@@ -85,21 +85,21 @@
 |      59 | 0x0009      |           9 |
 |      60 | 0x000C      |          12 |
 |      61 | 0x000D      |          13 |
-|      62 | 0x2A44      |       10820 |
-|      63 | 0x2A45      |       10821 |
-|      64 | 0x2A57      |       10839 |
-|      65 | 0x2A4C      |       10828 |
-|      66 | 0x2A4D      |       10829 |
-|      67 | 0x2A4E      |       10830 |
-|      68 | 0x2A4F      |       10831 |
-|      69 | 0x2A50      |       10832 |
-|      70 | 0x2A51      |       10833 |
-|      71 | 0x2A52      |       10834 |
-|      72 | 0x2A53      |       10835 |
-|      73 | 0x2A46      |       10822 |
-|      74 | 0x2A47      |       10823 |
+|      62 | 0x2A45      |       10821 |
+|      63 | 0x2A46      |       10822 |
+|      64 | 0x2A58      |       10840 |
+|      65 | 0x2A4D      |       10829 |
+|      66 | 0x2A4E      |       10830 |
+|      67 | 0x2A4F      |       10831 |
+|      68 | 0x2A50      |       10832 |
+|      69 | 0x2A51      |       10833 |
+|      70 | 0x2A52      |       10834 |
+|      71 | 0x2A53      |       10835 |
+|      72 | 0x2A54      |       10836 |
+|      73 | 0x2A47      |       10823 |
+|      74 | 0x2A48      |       10824 |
 |      75 | 0x0016      |          22 |
-|      76 | 0x2A48      |       10824 |
+|      76 | 0x2A49      |       10825 |
 |      77 | 0x016E      |         366 |
 |      78 | 0x016F      |         367 |
 |      79 | 0x0170      |         368 |
@@ -115,26 +115,26 @@
 
 ## String References
 
-- **10802**: What will you do? [Nothing for now./Ask a bunch of questions./Participate in Voidwatch Ops./Request debriefing./Request $3./Check voidstone stock./Request reward issuance.]
-- **10813**: How many would you like? [None./Just one./Fill me up!]
-- **10820**: Exchange for what? (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$3: $18./$3: $20./$3: $22./$3: $24./$3: $26./$3: $28./$3: $30./$3: $ .]
-- **10823**: Proceed with exchange? (Cruor: $0) [Yes./No.]
-- **10828**: This periapt allows the bearer to infuse an additional atmacite for each one possessed.
-- **10829**: This periapt grants the bearer heightened insight into Voidwalker weaknesses against weapon skills and abilities.
-- **10830**: This periapt grants the bearer heightened insight into Voidwalker weaknesses against magic.
-- **10831**: This periapt enhances the effect granted by a periapt of guidance.
-- **10832**: This periapt enhances the effect granted by a periapt of percipience.
-- **10833**: A bewitching light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if beckoning its bearer to come hither.
-- **10834**: A tantalizing light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if appealing to its bearer's most ardent desires.
-- **10835**: A crazed light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if seeking to breach the bearer's last bastion of sanity.
-- **10839**: How many do you need? (Cruor: $0) [None, thank you./One ($1 cruor)./Three ($2 cruor)./Six ($3 cruor)./Nine ($4 cruor)./Twelve ($5 cruor).]
-- **10842**: Voidwatch debug menu. [Exit./Alter participation status./Alter jurisdiction./Alter stratum./Alter abyssite receipt level.]
-- **10843**: Participation status has been altered to [Eff, yeah/Heck, no].
-- **10844**: Jurisdiction menu. [Back to the top./San d'Oria./Bastok./Windurst./Past San d'Oria./Past Bastok./Past Windurst.]
-- **10845**: Jurisdiction changed to [San d'Oria/Bastok/Windurst/Past San d'Oria/Past Bastok/Past Windurst].
-- **10846**: Stratum menu. [Back to the top./Stage 1./Stage 2./Stage 3./Stage 4.]
-- **10847**: Stratum changed to [Stage 1/Stage 2/Stage 3/Stage 4].
-- **10848**: Abyssite receipt level. [Back to the top./1st time./2nd time and onwards/Abyssite evolution./2nd abyssite evolution and onwards.]
+- **10803**: What will you do? [Nothing for now./Ask a bunch of questions./Participate in Voidwatch Ops./Request debriefing./Request $3./Check voidstone stock./Request reward issuance.]
+- **10814**: How many would you like? [None./Just one./Fill me up!]
+- **10821**: Exchange for what? (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$3: $18./$3: $20./$3: $22./$3: $24./$3: $26./$3: $28./$3: $30./$3: $ .]
+- **10824**: Proceed with exchange? (Cruor: $0) [Yes./No.]
+- **10829**: This periapt allows the bearer to infuse an additional atmacite for each one possessed.
+- **10830**: This periapt grants the bearer heightened insight into Voidwalker weaknesses against weapon skills and abilities.
+- **10831**: This periapt grants the bearer heightened insight into Voidwalker weaknesses against magic.
+- **10832**: This periapt enhances the effect granted by a periapt of guidance.
+- **10833**: This periapt enhances the effect granted by a periapt of percipience.
+- **10834**: A bewitching light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if beckoning its bearer to come hither.
+- **10835**: A tantalizing light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if appealing to its bearer's most ardent desires.
+- **10836**: A crazed light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if seeking to breach the bearer's last bastion of sanity.
+- **10840**: How many do you need? (Cruor: $0) [None, thank you./One ($1 cruor)./Three ($2 cruor)./Six ($3 cruor)./Nine ($4 cruor)./Twelve ($5 cruor).]
+- **10843**: Voidwatch debug menu. [Exit./Alter participation status./Alter jurisdiction./Alter stratum./Alter abyssite receipt level.]
+- **10844**: Participation status has been altered to [Eff, yeah/Heck, no].
+- **10845**: Jurisdiction menu. [Back to the top./San d'Oria./Bastok./Windurst./Past San d'Oria./Past Bastok./Past Windurst.]
+- **10846**: Jurisdiction changed to [San d'Oria/Bastok/Windurst/Past San d'Oria/Past Bastok/Past Windurst].
+- **10847**: Stratum menu. [Back to the top./Stage 1./Stage 2./Stage 3./Stage 4.]
+- **10848**: Stratum changed to [Stage 1/Stage 2/Stage 3/Stage 4].
+- **10849**: Abyssite receipt level. [Back to the top./1st time./2nd time and onwards/Abyssite evolution./2nd abyssite evolution and onwards.]
 
 ## Events
 
@@ -234,7 +234,7 @@
   1: 0x0022 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0027 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0028 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  4: 0x002D [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10799*]:
+  4: 0x002D [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10800*]:
     → "You need to talk? I don't. Go away. Now."
   5: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0035 [0x21] END_EVENT
@@ -563,7 +563,7 @@
  36: 0x00EB [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0304
  37: 0x00F3 [0x05] ExtData[1]->WorkLocal[19] = 1
  38: 0x00F6 [0x02] IF !(ExtData[1]->WorkLocal[19] <= 0*) GOTO 0x0304
- 39: 0x00FE [0x24] CREATE_DIALOG(message_id=10842*, default_option=0*, option_flags=0*)
+ 39: 0x00FE [0x24] CREATE_DIALOG(message_id=10843*, default_option=0*, option_flags=0*)
     → "Voidwatch debug menu. [Exit./Alter participation status./Alter jurisdiction./Alter stratum./Alter abyssite receipt level.]"
  40: 0x0105 [0x25] WAIT_DIALOG_SELECT()
  41: 0x0106 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0114
@@ -578,7 +578,7 @@
  50: 0x0136 [0x03] Work_Zone[2] = 1*
 
 SUBROUTINE_013B:
- 51: 0x013B [0x48] [System] [10843*]:
+ 51: 0x013B [0x48] [System] [10844*]:
     → "Participation status has been altered to [Eff, yeah/Heck, no]."
  52: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x013F [0x01] GOTO 0x0301
@@ -587,7 +587,7 @@ SUBROUTINE_013B:
 
 SUBROUTINE_014D:
  56: 0x014D [0x02] IF !(ExtData[1]->WorkLocal[20] <= 0*) GOTO 0x01F0
- 57: 0x0155 [0x24] CREATE_DIALOG(message_id=10844*, default_option=0*, option_flags=0*)
+ 57: 0x0155 [0x24] CREATE_DIALOG(message_id=10845*, default_option=0*, option_flags=0*)
     → "Jurisdiction menu. [Back to the top./San d'Oria./Bastok./Windurst./Past San d'Oria./Past Bastok./Past Windurst.]"
  58: 0x015C [0x25] WAIT_DIALOG_SELECT()
  59: 0x015D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016B
@@ -619,7 +619,7 @@ SUBROUTINE_014D:
  85: 0x01E6 [0x01] GOTO 0x01E9
 
 SUBROUTINE_01E9:
- 86: 0x01E9 [0x48] [System] [10845*]:
+ 86: 0x01E9 [0x48] [System] [10846*]:
     → "Jurisdiction changed to [San d'Oria/Bastok/Windurst/Past San d'Oria/Past Bastok/Past Windurst]."
  87: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x01ED [0x01] GOTO 0x014D
@@ -629,7 +629,7 @@ SUBROUTINE_01E9:
 
 SUBROUTINE_01FE:
  92: 0x01FE [0x02] IF !(ExtData[1]->WorkLocal[20] <= 0*) GOTO 0x0277
- 93: 0x0206 [0x24] CREATE_DIALOG(message_id=10846*, default_option=0*, option_flags=0*)
+ 93: 0x0206 [0x24] CREATE_DIALOG(message_id=10847*, default_option=0*, option_flags=0*)
     → "Stratum menu. [Back to the top./Stage 1./Stage 2./Stage 3./Stage 4.]"
  94: 0x020D [0x25] WAIT_DIALOG_SELECT()
  95: 0x020E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021C
@@ -653,7 +653,7 @@ SUBROUTINE_01FE:
 113: 0x026D [0x01] GOTO 0x0270
 
 SUBROUTINE_0270:
-114: 0x0270 [0x48] [System] [10847*]:
+114: 0x0270 [0x48] [System] [10848*]:
     → "Stratum changed to [Stage 1/Stage 2/Stage 3/Stage 4]."
 115: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0274 [0x01] GOTO 0x01FE
@@ -663,7 +663,7 @@ SUBROUTINE_0270:
 
 SUBROUTINE_0285:
 120: 0x0285 [0x02] IF !(ExtData[1]->WorkLocal[20] <= 0*) GOTO 0x02FE
-121: 0x028D [0x24] CREATE_DIALOG(message_id=10848*, default_option=0*, option_flags=0*)
+121: 0x028D [0x24] CREATE_DIALOG(message_id=10849*, default_option=0*, option_flags=0*)
     → "Abyssite receipt level. [Back to the top./1st time./2nd time and onwards/Abyssite evolution./2nd abyssite evolution and onwards.]"
 122: 0x0294 [0x25] WAIT_DIALOG_SELECT()
 123: 0x0295 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A3
@@ -687,7 +687,7 @@ SUBROUTINE_0285:
 141: 0x02F4 [0x01] GOTO 0x02F7
 
 SUBROUTINE_02F7:
-142: 0x02F7 [0x48] [System] [10847*]:
+142: 0x02F7 [0x48] [System] [10848*]:
     → "Stratum changed to [Stage 1/Stage 2/Stage 3/Stage 4]."
 143: 0x02FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x02FB [0x01] GOTO 0x0285
@@ -721,7 +721,7 @@ SUBROUTINE_0364:
 168: 0x0374 [0x03] Work_Zone[2] = 1*
 
 SUBROUTINE_0379:
-169: 0x0379 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10801*]:
+169: 0x0379 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10802*]:
     → "No need to speak. I know why you're here. Let's get this over with."
 170: 0x0380 [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x0381 [0x05] ExtData[1]->WorkLocal[13] = 1
@@ -731,7 +731,7 @@ SUBROUTINE_0384:
 173: 0x038C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[14], bit_index_work_offset=2*, condition_work_offset=1*)
 174: 0x0393 [0x03] Work_Zone[2] = 1539*
 175: 0x0398 [0x1A] CALL_SUBROUTINE(address=0x0B74)
-176: 0x039B [0x24] CREATE_DIALOG(message_id=10802*, default_option=0*, option_flags=ExtData[1]->WorkLocal[14])
+176: 0x039B [0x24] CREATE_DIALOG(message_id=10803*, default_option=0*, option_flags=ExtData[1]->WorkLocal[14])
     → "What will you do? [Nothing for now./Ask a bunch of questions./Participate in Voidwatch Ops./Request debriefing./Request $3./Check voidstone stock./Request reward issuance.]"
 177: 0x03A2 [0x25] WAIT_DIALOG_SELECT()
 178: 0x03A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B6
@@ -739,10 +739,10 @@ SUBROUTINE_0384:
 180: 0x03B0 [0x06] ExtData[1]->WorkLocal[13] = 0
 181: 0x03B3 [0x01] GOTO 0x0B6F
 182: 0x03B6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03D1
-183: 0x03BE [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10803*]:
+183: 0x03BE [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10804*]:
     → "Don't ask those questions. I won't answer them. Ask someone who will."
 184: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-185: 0x03C6 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10804*]:
+185: 0x03C6 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10805*]:
     → "I don't waste your time. Don't waste mine. A Voidwatch Officer could answer your questions. Best ask one."
 186: 0x03CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x03CE [0x01] GOTO 0x0B6F
@@ -793,18 +793,18 @@ SUBROUTINE_0470:
 226: 0x0496 [0x03] Work_Zone[4] = 0*
 
 SUBROUTINE_049B:
-227: 0x049B [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10812*]:
+227: 0x049B [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10813*]:
     → "You must still go to [the Western Altepa Desert/the Kuftal Tunnel/the Western Altepa Desert./the Kuftal Tunnel./the Quicksand Caves.][, the Kuftal Tunnel,/ and the Quicksand Caves./ and the Kuftal Tunnel.][ and the Quicksand Caves./]"
 228: 0x04A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-229: 0x04A3 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10811*]:
+229: 0x04A3 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10812*]:
     → "You're no one to me. But I was ordered to say these words. Be careful. Don't die."
 230: 0x04AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x04AB [0x01] GOTO 0x04C9
 232: 0x04AE [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x04C9
-233: 0x04B6 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10805*]:
+233: 0x04B6 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10806*]:
     → "You're done with Zepwell Island? Good. Now go to Elshimo. After that? Norg."
 234: 0x04BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-235: 0x04BE [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10806*]:
+235: 0x04BE [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10807*]:
     → "You'll learn more there...if you're worthy. If not? You'll be discharged."
 236: 0x04C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x04C6 [0x01] GOTO 0x04C9
@@ -821,7 +821,7 @@ SUBROUTINE_04C9:
 246: 0x04F4 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x0582
 247: 0x04FC [0x02] IF !(ExtData[1]->WorkLocal[9] <= ExtData[1]->WorkLocal[10]) GOTO 0x0572
 248: 0x0504 [0x03] ExtData[1]->WorkLocal[0] = 0*
-249: 0x0509 [0x24] CREATE_DIALOG(message_id=10813*, default_option=0*, option_flags=0*)
+249: 0x0509 [0x24] CREATE_DIALOG(message_id=10814*, default_option=0*, option_flags=0*)
     → "How many would you like? [None./Just one./Fill me up!]"
 250: 0x0510 [0x25] WAIT_DIALOG_SELECT()
 251: 0x0511 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x051C
@@ -838,14 +838,14 @@ SUBROUTINE_04C9:
 SUBROUTINE_054E:
 261: 0x054E [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x056F
 262: 0x0556 [0x03] Work_Zone[2] = 1539*
-263: 0x055B [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10814*]:
+263: 0x055B [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10815*]:
     → "This is what you requested. Some gratitude would be much appreciated."
 264: 0x0562 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x0563 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=1*)
 266: 0x056C [0x06] ExtData[1]->WorkLocal[13] = 0
 267: 0x056F [0x01] GOTO 0x057F
 268: 0x0572 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
-269: 0x0577 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10815*]:
+269: 0x0577 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10816*]:
     → "I believe you have already reached your maximum allocation of $0 stones. That should prove to be an adequate amount."
 270: 0x057E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -855,7 +855,7 @@ SUBROUTINE_057F:
 273: 0x0587 [0x02] IF !(ExtData[1]->WorkLocal[1] >= 1*) GOTO 0x0594
 274: 0x058F [0x03] ExtData[1]->WorkLocal[1] = 1*
 275: 0x0594 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-276: 0x0599 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10816*]:
+276: 0x0599 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10817*]:
     → "Unfortunately, our supply's dried up. We expect the next delivery to arrive in $0 [minute/minutes] (Earth time)."
 277: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -869,7 +869,7 @@ SUBROUTINE_05A1:
 284: 0x05C2 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
 285: 0x05C7 [0x03] Work_Zone[2] = 1539*
 286: 0x05CC [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
-287: 0x05D1 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10819*]:
+287: 0x05D1 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10820*]:
     → "You wish to check on your stock of $5? The official records list your total as $1."
 288: 0x05D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x05D9 [0x01] GOTO 0x0B6F
@@ -946,7 +946,7 @@ SUBROUTINE_05E7:
 358: 0x077B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[16], bit_index_work_offset=15*, condition_work_offset=1*)
 359: 0x0782 [0x02] IF !(Work_Zone_1700[23] == 0*) GOTO 0x0791
 360: 0x078A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[16], bit_index_work_offset=16*, condition_work_offset=1*)
-361: 0x0791 [0x24] CREATE_DIALOG(message_id=10820*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+361: 0x0791 [0x24] CREATE_DIALOG(message_id=10821*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "Exchange for what? (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$3: $18./$3: $20./$3: $22./$3: $24./$3: $26./$3: $28./$3: $30./$3: $ .]"
 362: 0x0798 [0x25] WAIT_DIALOG_SELECT()
 363: 0x0799 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07A7
@@ -1055,7 +1055,7 @@ SUBROUTINE_0997:
 464: 0x09A7 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[17])
 465: 0x09AA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[17]
 466: 0x09AF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[18]
-467: 0x09B4 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10821*]:
+467: 0x09B4 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10822*]:
     → "$1 cruor is required for $0."
 468: 0x09BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x09BC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1070,7 +1070,7 @@ SUBROUTINE_0997:
 478: 0x09EA [0x14] Work_Zone[6] *= 9*
 479: 0x09EF [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[18]
 480: 0x09F4 [0x14] Work_Zone[7] *= 12*
-481: 0x09F9 [0x24] CREATE_DIALOG(message_id=10839*, default_option=0*, option_flags=0*)
+481: 0x09F9 [0x24] CREATE_DIALOG(message_id=10840*, default_option=0*, option_flags=0*)
     → "How many do you need? (Cruor: $0) [None, thank you./One ($1 cruor)./Three ($2 cruor)./Six ($3 cruor)./Nine ($4 cruor)./Twelve ($5 cruor).]"
 482: 0x0A00 [0x25] WAIT_DIALOG_SELECT()
 483: 0x0A01 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A0F
@@ -1101,42 +1101,42 @@ SUBROUTINE_0A78:
 506: 0x0A78 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[18]
 507: 0x0A7D [0x01] GOTO 0x0B0A
 508: 0x0A80 [0x02] IF !(ExtData[1]->WorkLocal[2] == 9*) GOTO 0x0A8F
-509: 0x0A88 [0x48] [System] [10828*]:
+509: 0x0A88 [0x48] [System] [10829*]:
     → "This periapt allows the bearer to infuse an additional atmacite for each one possessed."
 510: 0x0A8B [0x23] WAIT_FOR_DIALOG_INTERACTION
 511: 0x0A8C [0x01] GOTO 0x0AF8
 512: 0x0A8F [0x02] IF !(ExtData[1]->WorkLocal[2] == 10*) GOTO 0x0A9E
-513: 0x0A97 [0x48] [System] [10829*]:
+513: 0x0A97 [0x48] [System] [10830*]:
     → "This periapt grants the bearer heightened insight into Voidwalker weaknesses against weapon skills and abilities."
 514: 0x0A9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 515: 0x0A9B [0x01] GOTO 0x0AF8
 516: 0x0A9E [0x02] IF !(ExtData[1]->WorkLocal[2] == 11*) GOTO 0x0AAD
-517: 0x0AA6 [0x48] [System] [10830*]:
+517: 0x0AA6 [0x48] [System] [10831*]:
     → "This periapt grants the bearer heightened insight into Voidwalker weaknesses against magic."
 518: 0x0AA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x0AAA [0x01] GOTO 0x0AF8
 520: 0x0AAD [0x02] IF !(ExtData[1]->WorkLocal[2] == 12*) GOTO 0x0ABC
-521: 0x0AB5 [0x48] [System] [10831*]:
+521: 0x0AB5 [0x48] [System] [10832*]:
     → "This periapt enhances the effect granted by a periapt of guidance."
 522: 0x0AB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 523: 0x0AB9 [0x01] GOTO 0x0AF8
 524: 0x0ABC [0x02] IF !(ExtData[1]->WorkLocal[2] == 13*) GOTO 0x0ACB
-525: 0x0AC4 [0x48] [System] [10832*]:
+525: 0x0AC4 [0x48] [System] [10833*]:
     → "This periapt enhances the effect granted by a periapt of percipience."
 526: 0x0AC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 527: 0x0AC8 [0x01] GOTO 0x0AF8
 528: 0x0ACB [0x02] IF !(ExtData[1]->WorkLocal[2] == 14*) GOTO 0x0ADA
-529: 0x0AD3 [0x48] [System] [10833*]:
+529: 0x0AD3 [0x48] [System] [10834*]:
     → "A bewitching light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if beckoning its bearer to come hither."
 530: 0x0AD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 531: 0x0AD7 [0x01] GOTO 0x0AF8
 532: 0x0ADA [0x02] IF !(ExtData[1]->WorkLocal[2] == 15*) GOTO 0x0AE9
-533: 0x0AE2 [0x48] [System] [10834*]:
+533: 0x0AE2 [0x48] [System] [10835*]:
     → "A tantalizing light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if appealing to its bearer's most ardent desires."
 534: 0x0AE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 535: 0x0AE6 [0x01] GOTO 0x0AF8
 536: 0x0AE9 [0x02] IF !(ExtData[1]->WorkLocal[2] == 16*) GOTO 0x0AF8
-537: 0x0AF1 [0x48] [System] [10835*]:
+537: 0x0AF1 [0x48] [System] [10836*]:
     → "A crazed light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if seeking to breach the bearer's last bastion of sanity."
 538: 0x0AF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 539: 0x0AF5 [0x01] GOTO 0x0AF8
@@ -1144,14 +1144,14 @@ SUBROUTINE_0A78:
 SUBROUTINE_0AF8:
 540: 0x0AF8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[17]
 541: 0x0AFD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[18]
-542: 0x0B02 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10822*]:
+542: 0x0B02 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10823*]:
     → "$1 cruor is required for the $3."
 543: 0x0B09 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0B0A:
 544: 0x0B0A [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x0B69
 545: 0x0B12 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-546: 0x0B17 [0x24] CREATE_DIALOG(message_id=10823*, default_option=1*, option_flags=0*)
+546: 0x0B17 [0x24] CREATE_DIALOG(message_id=10824*, default_option=1*, option_flags=0*)
     → "Proceed with exchange? (Cruor: $0) [Yes./No.]"
 547: 0x0B1E [0x25] WAIT_DIALOG_SELECT()
 548: 0x0B1F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B5E
@@ -1162,7 +1162,7 @@ SUBROUTINE_0B0A:
 553: 0x0B4A [0x06] ExtData[1]->WorkLocal[13] = 0
 554: 0x0B4D [0x06] ExtData[1]->WorkLocal[15] = 0
 555: 0x0B50 [0x01] GOTO 0x0B5B
-556: 0x0B53 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10824*]:
+556: 0x0B53 [0x2B] Gushing Spring (ID: 17789012/0x010F7054) [10825*]:
     → "You clearly possess an insufficient amount of cruor for this exchange. I take great offense to this blatant insult of my intelligence."
 557: 0x0B5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 

@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E22      |        7714 |
-|       1 | 0x1E23      |        7715 |
-|       2 | 0x1E24      |        7716 |
-|       3 | 0x1E25      |        7717 |
-|       4 | 0x1E26      |        7718 |
-|       5 | 0x1E27      |        7719 |
+|       0 | 0x1E23      |        7715 |
+|       1 | 0x1E24      |        7716 |
+|       2 | 0x1E25      |        7717 |
+|       3 | 0x1E26      |        7718 |
+|       4 | 0x1E27      |        7719 |
+|       5 | 0x1E28      |        7720 |
 
 ## String References
 
-- **7714**: You see a message engraved on the stone:
-- **7715**: Having never planned on surveying the inland regions, I'd had not the slightest intention of setting foot in Grauberg. A sailor first and foremost, mountain climbing was most certainly not my strong suit.
-- **7716**: However, my journey relies on the financial support I receive from my homeland. I could not ignore the whims of my benefactors, no matter how foolish they seemed to me. If they wished to construct a base on this natural fortress, who was I to question?
-- **7717**: It was just as I was beginning to enjoy the surprisingly pleasant trail and serenity of my surroundings, when my legs were crushed under a sudden landslide. I was halfway up a mountain, far from any semblance of civilization. Even my optimistic spirit sensed the end was near.
-- **7718**: I lost consciousness from the pain, floating in oblivion for the goddess knows how long. I woke to the sound of tinkling laughter, and for the briefest of moments caught sight of tiny figures flitting through the air on insect wings. My shattered legs were completely healed. The report I sent advised against building a base in Grauberg.
-- **7719**: @ --Gwynham Ironheart, 762 Crystal Era.
+- **7715**: You see a message engraved on the stone:
+- **7716**: Having never planned on surveying the inland regions, I'd had not the slightest intention of setting foot in Grauberg. A sailor first and foremost, mountain climbing was most certainly not my strong suit.
+- **7717**: However, my journey relies on the financial support I receive from my homeland. I could not ignore the whims of my benefactors, no matter how foolish they seemed to me. If they wished to construct a base on this natural fortress, who was I to question?
+- **7718**: It was just as I was beginning to enjoy the surprisingly pleasant trail and serenity of my surroundings, when my legs were crushed under a sudden landslide. I was halfway up a mountain, far from any semblance of civilization. Even my optimistic spirit sensed the end was near.
+- **7719**: I lost consciousness from the pain, floating in oblivion for the goddess knows how long. I woke to the sound of tinkling laughter, and for the briefest of moments caught sight of tiny figures flitting through the air on insect wings. My shattered legs were completely healed. The report I sent advised against building a base in Grauberg.
+- **7720**: @ --Gwynham Ironheart, 762 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7714*]:
+  0: 0x0001 [0x48] [System] [7715*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7715*]:
+  2: 0x0005 [0x48] [System] [7716*]:
     → "Having never planned on surveying the inland regions, I'd had not the slightest intention of setting foot in Grauberg. A sailor first and foremost, mountain climbing was most certainly not my strong suit."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7716*]:
+  4: 0x0009 [0x48] [System] [7717*]:
     → "However, my journey relies on the financial support I receive from my homeland. I could not ignore the whims of my benefactors, no matter how foolish they seemed to me. If they wished to construct a base on this natural fortress, who was I to question?"
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7717*]:
+  6: 0x000D [0x48] [System] [7718*]:
     → "It was just as I was beginning to enjoy the surprisingly pleasant trail and serenity of my surroundings, when my legs were crushed under a sudden landslide. I was halfway up a mountain, far from any semblance of civilization. Even my optimistic spirit sensed the end was near."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7718*]:
+  8: 0x0011 [0x48] [System] [7719*]:
     → "I lost consciousness from the pain, floating in oblivion for the goddess knows how long. I woke to the sound of tinkling laughter, and for the briefest of moments caught sight of tiny figures flitting through the air on insect wings. My shattered legs were completely healed. The report I sent advised against building a base in Grauberg."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7719*]:
+ 10: 0x0015 [0x48] [System] [7720*]:
     → "@ --Gwynham Ironheart, 762 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

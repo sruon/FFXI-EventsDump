@@ -31,7 +31,7 @@
 |       1 | 0x0007      |           7 |
 |       2 | 0x0008      |           8 |
 |       3 | 0x000F      |          15 |
-|       4 | 0x1F79      |        8057 |
+|       4 | 0x1F7A      |        8058 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0012      |          18 |
 |       7 | 0x0002      |           2 |
@@ -44,23 +44,23 @@
 |      14 | 0x0064      |         100 |
 |      15 | 0x40000000  |  1073741824 |
 |      16 | 0xFFFFFFFF  |  4294967295 |
-|      17 | 0x1F8A      |        8074 |
-|      18 | 0x1F8F      |        8079 |
-|      19 | 0x1F90      |        8080 |
-|      20 | 0x1F7D      |        8061 |
+|      17 | 0x1F8B      |        8075 |
+|      18 | 0x1F90      |        8080 |
+|      19 | 0x1F91      |        8081 |
+|      20 | 0x1F7E      |        8062 |
 |      21 | 0x000B      |          11 |
-|      22 | 0x1F7F      |        8063 |
-|      23 | 0x1F94      |        8084 |
-|      24 | 0x1F96      |        8086 |
-|      25 | 0x1F93      |        8083 |
-|      26 | 0x1F95      |        8085 |
-|      27 | 0x1F97      |        8087 |
-|      28 | 0x1F7B      |        8059 |
-|      29 | 0x1F7C      |        8060 |
-|      30 | 0x1F7E      |        8062 |
-|      31 | 0x1FA2      |        8098 |
+|      22 | 0x1F80      |        8064 |
+|      23 | 0x1F95      |        8085 |
+|      24 | 0x1F97      |        8087 |
+|      25 | 0x1F94      |        8084 |
+|      26 | 0x1F96      |        8086 |
+|      27 | 0x1F98      |        8088 |
+|      28 | 0x1F7C      |        8060 |
+|      29 | 0x1F7D      |        8061 |
+|      30 | 0x1F7F      |        8063 |
+|      31 | 0x1FA3      |        8099 |
 |      32 | 0x0032      |          50 |
-|      33 | 0x1FAB      |        8107 |
+|      33 | 0x1FAC      |        8108 |
 |      34 | 0x00A8      |         168 |
 |      35 | 0x00A0      |         160 |
 |      36 | 0x00C8      |         200 |
@@ -68,22 +68,22 @@
 
 ## String References
 
-- **8057**: Attempt which? (Auto-transport: [off/on]) [None./Omen. (Content level: $1)/Nii's Last Stand./Dance of the Tengu (Zhuu Buxu)./Dance of the Tengu (Reikuu)./Toggle auto-transport.]
-- **8059**: Only party members present with you in this area will be transported to [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
-- **8060**: You have selected to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
-- **8061**: [Apply to proceed/Proceed]? [Most certainly!/Not yet.]
-- **8062**: Entering [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
-- **8063**: You have chosen not to [apply to/enter] [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
-- **8074**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
-- **8079**: Applying to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]. You will be unable to participate if you add any more party members. Are you sure?
-- **8080**: Applying to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
-- **8083**: You are currently number $3 in line for the [earthly concrescence/aspirants' grounds/babbling brook].
-- **8084**: You are currently number $3 in line, with $2 in front of you.
-- **8085**: Prepare yourselves! The battlefield is almost ready!
-- **8086**: You are currently applying to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
-- **8087**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
-- **8098**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Close dialogue.]
-- **8107**: Designate a value between $0 and $1.
+- **8058**: Attempt which? (Auto-transport: [off/on]) [None./Omen. (Content level: $1)/Nii's Last Stand./Dance of the Tengu (Zhuu Buxu)./Dance of the Tengu (Reikuu)./Toggle auto-transport.]
+- **8060**: Only party members present with you in this area will be transported to [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
+- **8061**: You have selected to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
+- **8062**: [Apply to proceed/Proceed]? [Most certainly!/Not yet.]
+- **8063**: Entering [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
+- **8064**: You have chosen not to [apply to/enter] [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
+- **8075**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
+- **8080**: Applying to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]. You will be unable to participate if you add any more party members. Are you sure?
+- **8081**: Applying to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
+- **8084**: You are currently number $3 in line for the [earthly concrescence/aspirants' grounds/babbling brook].
+- **8085**: You are currently number $3 in line, with $2 in front of you.
+- **8086**: Prepare yourselves! The battlefield is almost ready!
+- **8087**: You are currently applying to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
+- **8088**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
+- **8099**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Close dialogue.]
+- **8108**: Designate a value between $0 and $1.
 
 ## Events
 
@@ -160,7 +160,7 @@
   7: 0x0026 [0x03] ExtData[1]->WorkLocal[2] = 0*
   8: 0x002B [0x03] ExtData[1]->WorkLocal[3] = 0*
   9: 0x0030 [0x03] ExtData[1]->WorkLocal[1] = 0*
- 10: 0x0035 [0x24] CREATE_DIALOG(message_id=8057*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 10: 0x0035 [0x24] CREATE_DIALOG(message_id=8058*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Attempt which? (Auto-transport: [off/on]) [None./Omen. (Content level: $1)/Nii's Last Stand./Dance of the Tengu (Zhuu Buxu)./Dance of the Tengu (Reikuu)./Toggle auto-transport.]"
  11: 0x003C [0x25] WAIT_DIALOG_SELECT()
  12: 0x003D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0055
@@ -205,21 +205,21 @@ SUBROUTINE_00E6:
 SUBROUTINE_00EE:
  46: 0x00EE [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[11]
  47: 0x00F3 [0x02] IF !(Work_Zone[6] < 0*) GOTO 0x00FE
- 48: 0x00FB [0x48] [System] [8074*]:
+ 48: 0x00FB [0x48] [System] [8075*]:
     → "You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party."
  49: 0x00FE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  50: 0x0103 [0x02] IF !(ExtData[1]->WorkLocal[15] <= 1*) GOTO 0x0112
- 51: 0x010B [0x48] [System] [8079*]:
+ 51: 0x010B [0x48] [System] [8080*]:
     → "Applying to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]. You will be unable to participate if you add any more party members. Are you sure?"
  52: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x010F [0x01] GOTO 0x0116
- 54: 0x0112 [0x48] [System] [8080*]:
+ 54: 0x0112 [0x48] [System] [8081*]:
     → "Applying to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]."
  55: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0116:
  56: 0x0116 [0x03] Work_Zone[3] = 0*
- 57: 0x011B [0x24] CREATE_DIALOG(message_id=8061*, default_option=0*, option_flags=0*)
+ 57: 0x011B [0x24] CREATE_DIALOG(message_id=8062*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Most certainly!/Not yet.]"
  58: 0x0122 [0x25] WAIT_DIALOG_SELECT()
  59: 0x0123 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014B
@@ -232,7 +232,7 @@ SUBROUTINE_0116:
  66: 0x0148 [0x01] GOTO 0x015F
  67: 0x014B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  68: 0x0150 [0x03] Work_Zone[3] = 0*
- 69: 0x0155 [0x48] [System] [8063*]:
+ 69: 0x0155 [0x48] [System] [8064*]:
     → "You have chosen not to [apply to/enter] [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]."
  70: 0x0158 [0x03] Work_Zone[1] = 1073741824*
  71: 0x015D [0x21] END_EVENT
@@ -278,25 +278,25 @@ SUBROUTINE_015F:
   0: 0x0161 [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[3]
   1: 0x0166 [0x03] Work_Zone[3] = Work_Zone[6]
   2: 0x016B [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x017A
-  3: 0x0173 [0x48] [System] [8084*]:
+  3: 0x0173 [0x48] [System] [8085*]:
     → "You are currently number $3 in line, with $2 in front of you."
   4: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0177 [0x01] GOTO 0x017E
-  6: 0x017A [0x48] [System] [8086*]:
+  6: 0x017A [0x48] [System] [8087*]:
     → "You are currently applying to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]."
   7: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_017E:
-  8: 0x017E [0x48] [System] [8083*]:
+  8: 0x017E [0x48] [System] [8084*]:
     → "You are currently number $3 in line for the [earthly concrescence/aspirants' grounds/babbling brook]."
   9: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0182 [0x02] IF !(ExtData[1]->WorkLocal[19] == 0*) GOTO 0x0195
- 11: 0x018A [0x48] [System] [8085*]:
+ 11: 0x018A [0x48] [System] [8086*]:
     → "Prepare yourselves! The battlefield is almost ready!"
  12: 0x018D [0x03] Work_Zone[1] = 1073741824*
  13: 0x0192 [0x01] GOTO 0x01C7
  14: 0x0195 [0x03] Work_Zone[2] = 1*
- 15: 0x019A [0x24] CREATE_DIALOG(message_id=8087*, default_option=1*, option_flags=0*)
+ 15: 0x019A [0x24] CREATE_DIALOG(message_id=8088*, default_option=1*, option_flags=0*)
     → "Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]"
  16: 0x01A1 [0x25] WAIT_DIALOG_SELECT()
  17: 0x01A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B2
@@ -341,17 +341,17 @@ SUBROUTINE_01C7:
   1: 0x01CA [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
   2: 0x01CF [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[3]
   3: 0x01D4 [0x02] IF !(ExtData[1]->WorkLocal[15] <= 1*) GOTO 0x01E3
-  4: 0x01DC [0x48] [System] [8059*]:
+  4: 0x01DC [0x48] [System] [8060*]:
     → "Only party members present with you in this area will be transported to [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]."
   5: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01E0 [0x01] GOTO 0x01E7
-  7: 0x01E3 [0x48] [System] [8060*]:
+  7: 0x01E3 [0x48] [System] [8061*]:
     → "You have selected to enter [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]."
   8: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01E7:
   9: 0x01E7 [0x03] Work_Zone[3] = 1*
- 10: 0x01EC [0x24] CREATE_DIALOG(message_id=8061*, default_option=0*, option_flags=0*)
+ 10: 0x01EC [0x24] CREATE_DIALOG(message_id=8062*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Most certainly!/Not yet.]"
  11: 0x01F3 [0x25] WAIT_DIALOG_SELECT()
  12: 0x01F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0229
@@ -360,7 +360,7 @@ SUBROUTINE_01E7:
  15: 0x0203 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  16: 0x0205 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0221
  17: 0x020D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 18: 0x0212 [0x48] [System] [8062*]:
+ 18: 0x0212 [0x48] [System] [8063*]:
     → "Entering [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]."
  19: 0x0215 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0216 [0x1A] CALL_SUBROUTINE(address=0x02EF)
@@ -412,7 +412,7 @@ SUBROUTINE_022E:
 ```
   0: 0x0230 [0x05] ExtData[1]->WorkLocal[10] = 1
   1: 0x0233 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x02ED
-  2: 0x023B [0x24] CREATE_DIALOG(message_id=8098*, default_option=0*, option_flags=0*)
+  2: 0x023B [0x24] CREATE_DIALOG(message_id=8099*, default_option=0*, option_flags=0*)
     → "Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Close dialogue.]"
   3: 0x0242 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0243 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0257
@@ -428,7 +428,7 @@ SUBROUTINE_022E:
  14: 0x026B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x029F
  15: 0x0273 [0x03] Work_Zone[2] = 1*
  16: 0x0278 [0x03] Work_Zone[3] = 50*
- 17: 0x027D [0x48] [System] [8107*]:
+ 17: 0x027D [0x48] [System] [8108*]:
     → "Designate a value between $0 and $1."
  18: 0x0280 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  19: 0x0286 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -440,7 +440,7 @@ SUBROUTINE_022E:
  25: 0x029F [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02D3
  26: 0x02A7 [0x03] Work_Zone[2] = 1*
  27: 0x02AC [0x03] Work_Zone[3] = 50*
- 28: 0x02B1 [0x48] [System] [8107*]:
+ 28: 0x02B1 [0x48] [System] [8108*]:
     → "Designate a value between $0 and $1."
  29: 0x02B4 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  30: 0x02BA [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])

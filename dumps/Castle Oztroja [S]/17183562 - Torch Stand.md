@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FB8      |        8120 |
+|       0 | 0x1FB9      |        8121 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 
 ## String References
 
-- **8120**: Light the torch? [Yes./No.]
+- **8121**: Light the torch? [Yes./No.]
 
 ## Events
 
@@ -74,7 +74,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=8120*, default_option=0*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=8121*, default_option=0*, option_flags=0*)
     → "Light the torch? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001B

@@ -21,29 +21,29 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2DB3      |       11699 |
-|       1 | 0x2DAC      |       11692 |
+|       0 | 0x2DB4      |       11700 |
+|       1 | 0x2DAD      |       11693 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x2DAD      |       11693 |
-|       4 | 0x2DAE      |       11694 |
-|       5 | 0x2DAF      |       11695 |
-|       6 | 0x2DB0      |       11696 |
-|       7 | 0x2DB1      |       11697 |
-|       8 | 0x2DB2      |       11698 |
+|       3 | 0x2DAE      |       11694 |
+|       4 | 0x2DAF      |       11695 |
+|       5 | 0x2DB0      |       11696 |
+|       6 | 0x2DB1      |       11697 |
+|       7 | 0x2DB2      |       11698 |
+|       8 | 0x2DB3      |       11699 |
 |       9 | 0x0A18      |        2584 |
-|      10 | 0x313E      |       12606 |
+|      10 | 0x313F      |       12607 |
 
 ## String References
 
-- **11692**: Hm? You wish to hear about the olden days of colonization?
-- **11693**: Well, I am never one to turn down a chance to tell a story. How about this one?
-- **11694**: You have knowledge of Sverdhried--or at least his eponymous hillock--correct? Well, he supposedly traveled around the world, visiting each and every continent.
-- **11695**: If I have yet to lose my marbles, that should have taken place around the time colonization was taking off.
-- **11696**: Furthermore, I hear that a long-lost civilization exists on the frozen continent of Rhazowa.
-- **11697**: Whether that is genuine fact or pure conjecture I cannot say.
-- **11698**: You will have to use your own powers of deduction to determine that yourself.
-- **11699**: I have nothing against pioneers...as long as they understand the possible repercussions of their actions.
-- **12606**: You scribbled down some information regarding $6.
+- **11693**: Hm? You wish to hear about the olden days of colonization?
+- **11694**: Well, I am never one to turn down a chance to tell a story. How about this one?
+- **11695**: You have knowledge of Sverdhried--or at least his eponymous hillock--correct? Well, he supposedly traveled around the world, visiting each and every continent.
+- **11696**: If I have yet to lose my marbles, that should have taken place around the time colonization was taking off.
+- **11697**: Furthermore, I hear that a long-lost civilization exists on the frozen continent of Rhazowa.
+- **11698**: Whether that is genuine fact or pure conjecture I cannot say.
+- **11699**: You will have to use your own powers of deduction to determine that yourself.
+- **11700**: I have nothing against pioneers...as long as they understand the possible repercussions of their actions.
+- **12607**: You scribbled down some information regarding $6.
 
 ## Events
 
@@ -95,7 +95,7 @@
   3: 0x0008 [0x4A] LocalPlayer looks at EventEntity
   4: 0x0011 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0012 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  6: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11699*)
+  6: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11700*)
     → "I have nothing against pioneers...as long as they understand the possible repercussions of their actions."
   7: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001B [0x21] END_EVENT
@@ -134,31 +134,31 @@
   4: 0x0025 [0x4A] LocalPlayer looks at EventEntity
   5: 0x002E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x002F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  7: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=11692*)
+  7: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=11693*)
     → "Hm? You wish to hear about the olden days of colonization?"
   8: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0038 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 10: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=11693*)
+ 10: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=11694*)
     → "Well, I am never one to turn down a chance to tell a story. How about this one?"
  11: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=11694*)
+ 12: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=11695*)
     → "You have knowledge of Sverdhried--or at least his eponymous hillock--correct? Well, he supposedly traveled around the world, visiting each and every continent."
  13: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=11695*)
+ 14: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=11696*)
     → "If I have yet to lose my marbles, that should have taken place around the time colonization was taking off."
  15: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=11696*)
+ 16: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=11697*)
     → "Furthermore, I hear that a long-lost civilization exists on the frozen continent of Rhazowa."
  17: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0057 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
- 19: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=11697*)
+ 19: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=11698*)
     → "Whether that is genuine fact or pure conjecture I cannot say."
  20: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=11698*)
+ 21: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=11699*)
     → "You will have to use your own powers of deduction to determine that yourself."
  22: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x006E [0x03] Work_Zone[2] = 2584*
- 24: 0x0073 [0x48] [System] [12606*]:
+ 24: 0x0073 [0x48] [System] [12607*]:
     → "You scribbled down some information regarding $6."
  25: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0077 [0x21] END_EVENT

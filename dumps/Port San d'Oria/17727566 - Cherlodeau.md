@@ -23,28 +23,28 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1ED7      |        7895 |
-|       2 | 0x1ED8      |        7896 |
-|       3 | 0x1ED9      |        7897 |
+|       1 | 0x1ED8      |        7896 |
+|       2 | 0x1ED9      |        7897 |
+|       3 | 0x1EDA      |        7898 |
 |       4 | 0x003C      |          60 |
-|       5 | 0x1EDA      |        7898 |
-|       6 | 0x1EDB      |        7899 |
-|       7 | 0x21F3      |        8691 |
-|       8 | 0x21FA      |        8698 |
-|       9 | 0x21FB      |        8699 |
-|      10 | 0x21FC      |        8700 |
-|      11 | 0x21FD      |        8701 |
-|      12 | 0x21FE      |        8702 |
+|       5 | 0x1EDB      |        7899 |
+|       6 | 0x1EDC      |        7900 |
+|       7 | 0x21F4      |        8692 |
+|       8 | 0x21FB      |        8699 |
+|       9 | 0x21FC      |        8700 |
+|      10 | 0x21FD      |        8701 |
+|      11 | 0x21FE      |        8702 |
+|      12 | 0x21FF      |        8703 |
 
 ## String References
 
-- **7895**: Hmph. A new recruit, are you? Let me give you some advice. There's Orcs outside our walls, more now than ever.
-- **7896**: Best not to face them before you're ready. They're known to attack without warning... Nasty things!
-- **7897**: Heh. Fighting is good, but discretion is the better part of valor! Run back to the gates if you need to.
-- **8691**: <Player>'s badge flashes brightly.
-- **8698**: Hmph, thinking of becoming a mercenary, are you? Let me give you some advice: The beastmen of the Near East are far more savage than the fiends of Ronfaure.
-- **8699**: I would avoid those lands until I was sure of my strength. They care not who they kill--in that respect, they are much like the Orcs.
-- **8700**: In war, survival is key. Picking your battles is also a valid strategy.
+- **7896**: Hmph. A new recruit, are you? Let me give you some advice. There's Orcs outside our walls, more now than ever.
+- **7897**: Best not to face them before you're ready. They're known to attack without warning... Nasty things!
+- **7898**: Heh. Fighting is good, but discretion is the better part of valor! Run back to the gates if you need to.
+- **8692**: <Player>'s badge flashes brightly.
+- **8699**: Hmph, thinking of becoming a mercenary, are you? Let me give you some advice: The beastmen of the Near East are far more savage than the fiends of Ronfaure.
+- **8700**: I would avoid those lands until I was sure of my strength. They care not who they kill--in that respect, they are much like the Orcs.
+- **8701**: In war, survival is key. Picking your battles is also a valid strategy.
 
 ## Events
 
@@ -120,25 +120,25 @@
   1: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0009 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
     → "Hmph. A new recruit, are you? Let me give you some advice. There's Orcs outside our walls, more now than ever."
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x1C] WAIT(30* ticks)
-  7: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
+  7: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
     → "Best not to face them before you're ready. They're known to attack without warning... Nasty things!"
   8: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0023 [0x1C] WAIT(30* ticks)
- 10: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
+ 10: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
     → "Heh. Fighting is good, but discretion is the better part of valor! Run back to the gates if you need to."
  11: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x002A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  13: 0x002F [0x1C] WAIT(60* ticks)
- 14: 0x0032 [0x2B] Artinien (ID: 17727564/0x010E804C) [7898*]:
+ 14: 0x0032 [0x2B] Artinien (ID: 17727564/0x010E804C) [7899*]:
     → "That's called a strategic retreat, that is!"
  15: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x003A [0x27] REQ_SET(priority=0x66, entity_id=LocalPlayer, tag_num=0x14)
  17: 0x0041 [0x2A] GET_REQ_LEVEL(level=102, entity_id=LocalPlayer)
- 18: 0x0047 [0x2B] Brifalien (ID: 17727565/0x010E804D) [7899*]:
+ 18: 0x0047 [0x2B] Brifalien (ID: 17727565/0x010E804D) [7900*]:
     → "Yeah, a tradegic stretreat!"
  19: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x004F [0x4A] LocalPlayer looks at Cherlodeau (ID: 17727566/0x010E804E)
@@ -174,28 +174,28 @@
 
 ```
   0: 0x005D [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x005E [0x48] [System] [8691*]:
+  1: 0x005E [0x48] [System] [8692*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0061 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0066 [0x1C] WAIT(30* ticks)
-  4: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=8698*)
+  4: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=8699*)
     → "Hmph, thinking of becoming a mercenary, are you? Let me give you some advice: The beastmen of the Near East are far more savage than the fiends of Ronfaure."
   5: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x006D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  7: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=8699*)
+  7: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=8700*)
     → "I would avoid those lands until I was sure of my strength. They care not who they kill--in that respect, they are much like the Orcs."
   8: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8700*)
+  9: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8701*)
     → "In war, survival is key. Picking your battles is also a valid strategy."
  10: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0084 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
  12: 0x0093 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  13: 0x0098 [0x1C] WAIT(60* ticks)
- 14: 0x009B [0x2B] Artinien (ID: 17727564/0x010E804C) [8701*]:
+ 14: 0x009B [0x2B] Artinien (ID: 17727564/0x010E804C) [8702*]:
     → "That's called "Knowing your enemy," that is!"
  15: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00A3 [0x4A] LocalPlayer looks at Artinien (ID: 17727564/0x010E804C)
- 17: 0x00AC [0x2B] Brifalien (ID: 17727565/0x010E804D) [8702*]:
+ 17: 0x00AC [0x2B] Brifalien (ID: 17727565/0x010E804D) [8703*]:
     → "Yeah! "Knowing your anemone!""
  18: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00B4 [0x4A] LocalPlayer looks at Cherlodeau (ID: 17727566/0x010E804E)

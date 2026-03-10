@@ -25,39 +25,39 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CF5      |        7413 |
-|       1 | 0x1CF8      |        7416 |
-|       2 | 0x1CF9      |        7417 |
-|       3 | 0x1CFA      |        7418 |
-|       4 | 0x1CFD      |        7421 |
-|       5 | 0x1CFE      |        7422 |
+|       0 | 0x1CF6      |        7414 |
+|       1 | 0x1CF9      |        7417 |
+|       2 | 0x1CFA      |        7418 |
+|       3 | 0x1CFB      |        7419 |
+|       4 | 0x1CFE      |        7422 |
+|       5 | 0x1CFF      |        7423 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x00B4      |         180 |
-|       9 | 0x1CFF      |        7423 |
-|      10 | 0x1D00      |        7424 |
+|       9 | 0x1D00      |        7424 |
+|      10 | 0x1D01      |        7425 |
 |      11 | 0x007D      |         125 |
 |      12 | 0x005A      |          90 |
-|      13 | 0x1D01      |        7425 |
+|      13 | 0x1D02      |        7426 |
 |      14 | 0x025D      |         605 |
-|      15 | 0x1D02      |        7426 |
-|      16 | 0x1CF4      |        7412 |
-|      17 | 0x1D03      |        7427 |
+|      15 | 0x1D03      |        7427 |
+|      16 | 0x1CF5      |        7413 |
+|      17 | 0x1D04      |        7428 |
 
 ## String References
 
-- **7412**: What'sa matta with ya, [son/missy]? Ya thinkin' about walkin' arounda these here parts witha no map? Ya gotta be crazy!
-- **7413**: When I was a young bambina likesa you, I's seen my share of loot. But over the years, I learneda one thing--the sweetest treasure lies outta sight. Thatsa what I'm collectin'.
-- **7416**: I hears that if you wants to talk to one of them crazy Anticans livin' 'round here, you gots to use some strange instrument. Now if I could gets my hands on one of them tasty pieces...
-- **7417**: Unfortunately, to keeps their secret, thosea guys always breaks the goods up into four pieces.
-- **7418**: If you can finds all four, you brings thema back here to yours truly. I'll make it worth your while.
-- **7421**: What'sa that you gots there? Hmmm... It looks likea one of those creepy-crawly Anticans' goods.
-- **7422**: I needs to check this out to make sure you're not tryin' to pulla fast one.
-- **7423**: You did some good work, kid. Now it'sa time for me to keep up my end of the bargain.
-- **7424**: Here, lets me marka your map...
-- **7425**: I swears on my grandmama's grave that theresa treasure buried somewhere around there.
-- **7426**: What!? You goes where I tells ya, and you'll havea no problem findin' the stash. And don't ya forget your $0!
-- **7427**: Whaddo I look like here, a charity?
+- **7413**: What'sa matta with ya, [son/missy]? Ya thinkin' about walkin' arounda these here parts witha no map? Ya gotta be crazy!
+- **7414**: When I was a young bambina likesa you, I's seen my share of loot. But over the years, I learneda one thing--the sweetest treasure lies outta sight. Thatsa what I'm collectin'.
+- **7417**: I hears that if you wants to talk to one of them crazy Anticans livin' 'round here, you gots to use some strange instrument. Now if I could gets my hands on one of them tasty pieces...
+- **7418**: Unfortunately, to keeps their secret, thosea guys always breaks the goods up into four pieces.
+- **7419**: If you can finds all four, you brings thema back here to yours truly. I'll make it worth your while.
+- **7422**: What'sa that you gots there? Hmmm... It looks likea one of those creepy-crawly Anticans' goods.
+- **7423**: I needs to check this out to make sure you're not tryin' to pulla fast one.
+- **7424**: You did some good work, kid. Now it'sa time for me to keep up my end of the bargain.
+- **7425**: Here, lets me marka your map...
+- **7426**: I swears on my grandmama's grave that theresa treasure buried somewhere around there.
+- **7427**: What!? You goes where I tells ya, and you'll havea no problem findin' the stash. And don't ya forget your $0!
+- **7428**: Whaddo I look like here, a charity?
 
 ## Events
 
@@ -126,16 +126,16 @@
 
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+  1: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "When I was a young bambina likesa you, I's seen my share of loot. But over the years, I learneda one thing--the sweetest treasure lies outta sight. Thatsa what I'm collectin'."
   2: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+  3: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "I hears that if you wants to talk to one of them crazy Anticans livin' 'round here, you gots to use some strange instrument. Now if I could gets my hands on one of them tasty pieces..."
   4: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
+  5: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
     → "Unfortunately, to keeps their secret, thosea guys always breaks the goods up into four pieces."
   6: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
+  7: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
     → "If you can finds all four, you brings thema back here to yours truly. I'll make it worth your while."
   8: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0017 [0x21] END_EVENT
@@ -171,19 +171,19 @@
   0: 0x0019 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x001B [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+  3: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "What'sa that you gots there? Hmmm... It looks likea one of those creepy-crawly Anticans' goods."
   4: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
+  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
     → "I needs to check this out to make sure you're not tryin' to pulla fast one."
   6: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0029 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   8: 0x003A [0x1C] WAIT(180* ticks)
   9: 0x003D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 10: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
+ 10: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
     → "You did some good work, kid. Now it'sa time for me to keep up my end of the bargain."
  11: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+ 12: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "Here, lets me marka your map..."
  13: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0056 [0x89] OPEN_MAP(map_id=0x0000800B)
@@ -199,11 +199,11 @@
      0x0070 [0x00] END_REQSTACK()
      0x0071 [0x00] END_REQSTACK()
      0x0072 [0x1C] WAIT(90* ticks)
-     0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+     0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "I swears on my grandmama's grave that theresa treasure buried somewhere around there."
      0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0079 [0x03] Work_Zone[2] = 605*
-     0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+     0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
     → "What!? You goes where I tells ya, and you'll havea no problem findin' the stash. And don't ya forget your $0!"
      0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0082 [0x8A] CLOSE_MAP()
@@ -231,7 +231,7 @@
 
 ```
   0: 0x0085 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+  1: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "What'sa matta with ya, [son/missy]? Ya thinkin' about walkin' arounda these here parts witha no map? Ya gotta be crazy!"
   2: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x008E [0x21] END_EVENT
@@ -276,11 +276,11 @@
      0x00B2 [0x00] END_REQSTACK()
      0x00B3 [0x00] END_REQSTACK()
      0x00B4 [0x1C] WAIT(90* ticks)
-     0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+     0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "I swears on my grandmama's grave that theresa treasure buried somewhere around there."
      0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00BB [0x03] Work_Zone[2] = 605*
-     0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+     0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
     → "What!? You goes where I tells ya, and you'll havea no problem findin' the stash. And don't ya forget your $0!"
      0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00C4 [0x8A] CLOSE_MAP()
@@ -309,7 +309,7 @@
 
 ```
   0: 0x00C7 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
+  1: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "Whaddo I look like here, a charity?"
   2: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00D0 [0x21] END_EVENT

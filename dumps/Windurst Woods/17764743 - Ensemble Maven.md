@@ -23,31 +23,31 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x398D      |       14733 |
-|       2 | 0x398E      |       14734 |
-|       3 | 0x398F      |       14735 |
-|       4 | 0x3990      |       14736 |
-|       5 | 0x3992      |       14738 |
-|       6 | 0x3993      |       14739 |
-|       7 | 0x3994      |       14740 |
-|       8 | 0x3995      |       14741 |
-|       9 | 0x3996      |       14742 |
+|       1 | 0x3997      |       14743 |
+|       2 | 0x3998      |       14744 |
+|       3 | 0x3999      |       14745 |
+|       4 | 0x399A      |       14746 |
+|       5 | 0x399C      |       14748 |
+|       6 | 0x399D      |       14749 |
+|       7 | 0x399E      |       14750 |
+|       8 | 0x399F      |       14751 |
+|       9 | 0x39A0      |       14752 |
 |      10 | 0x0014      |          20 |
-|      11 | 0x3997      |       14743 |
-|      12 | 0x3998      |       14744 |
-|      13 | 0x3999      |       14745 |
-|      14 | 0x399A      |       14746 |
+|      11 | 0x39A1      |       14753 |
+|      12 | 0x39A2      |       14754 |
+|      13 | 0x39A3      |       14755 |
+|      14 | 0x39A4      |       14756 |
 |      15 | 0x0001      |           1 |
-|      16 | 0x3991      |       14737 |
-|      17 | 0x399B      |       14747 |
-|      18 | 0x399F      |       14751 |
+|      16 | 0x399B      |       14747 |
+|      17 | 0x39A5      |       14757 |
+|      18 | 0x39A9      |       14761 |
 |      19 | 0x0004      |           4 |
 |      20 | 0x0003      |           3 |
 |      21 | 0x646F      |       25711 |
-|      22 | 0x39A0      |       14752 |
-|      23 | 0x39A1      |       14753 |
+|      22 | 0x39AA      |       14762 |
+|      23 | 0x39AB      |       14763 |
 |      24 | 0x0002      |           2 |
-|      25 | 0x39A4      |       14756 |
+|      25 | 0x39AE      |       14766 |
 |      26 | 0x003C      |          60 |
 |      27 | 0x000A      |          10 |
 |      28 | 0x000C      |          12 |
@@ -56,38 +56,38 @@
 |      31 | 0x0007      |           7 |
 |      32 | 0x0008      |           8 |
 |      33 | 0x0009      |           9 |
-|      34 | 0x39A5      |       14757 |
+|      34 | 0x39AF      |       14767 |
 |      35 | 0x000B      |          11 |
-|      36 | 0x39A6      |       14758 |
-|      37 | 0x39A7      |       14759 |
-|      38 | 0x39A8      |       14760 |
-|      39 | 0x39A9      |       14761 |
-|      40 | 0x39AA      |       14762 |
+|      36 | 0x39B0      |       14768 |
+|      37 | 0x39B1      |       14769 |
+|      38 | 0x39B2      |       14770 |
+|      39 | 0x39B3      |       14771 |
+|      40 | 0x39B4      |       14772 |
 |      41 | 0x07B4      |        1972 |
-|      42 | 0x39AB      |       14763 |
-|      43 | 0x399C      |       14748 |
-|      44 | 0x399E      |       14750 |
+|      42 | 0x39B5      |       14773 |
+|      43 | 0x39A6      |       14758 |
+|      44 | 0x39A8      |       14760 |
 |      45 | 0x03E7      |         999 |
-|      46 | 0x39B6      |       14774 |
-|      47 | 0x39B7      |       14775 |
+|      46 | 0x39C0      |       14784 |
+|      47 | 0x39C1      |       14785 |
 |      48 | 0x03E6      |         998 |
-|      49 | 0x39B9      |       14777 |
-|      50 | 0x39AD      |       14765 |
+|      49 | 0x39C3      |       14787 |
+|      50 | 0x39B7      |       14775 |
 |      51 | 0x001E      |          30 |
 |      52 | 0x07B5      |        1973 |
 |      53 | 0x07B6      |        1974 |
 |      54 | 0x07B0      |        1968 |
 |      55 | 0x00F0      |         240 |
-|      56 | 0x39AE      |       14766 |
+|      56 | 0x39B8      |       14776 |
 |      57 | 0x000E      |          14 |
-|      58 | 0x39B3      |       14771 |
-|      59 | 0x39B4      |       14772 |
-|      60 | 0x39B1      |       14769 |
-|      61 | 0x39B8      |       14776 |
-|      62 | 0x39B5      |       14773 |
-|      63 | 0x39B0      |       14768 |
-|      64 | 0x39B2      |       14770 |
-|      65 | 0x39AF      |       14767 |
+|      58 | 0x39BD      |       14781 |
+|      59 | 0x39BE      |       14782 |
+|      60 | 0x39BB      |       14779 |
+|      61 | 0x39C2      |       14786 |
+|      62 | 0x39BF      |       14783 |
+|      63 | 0x39BA      |       14778 |
+|      64 | 0x39BC      |       14780 |
+|      65 | 0x39B9      |       14777 |
 |      66 | 0x00C7      |         199 |
 |      67 | 0x15B1      |        5553 |
 |      68 | 0x1426      |        5158 |
@@ -152,46 +152,46 @@
 
 ## String References
 
-- **14733**: The time of the Harvest Festival is upon us once more, and with it comes a most wondrous event: a costume contest known as the Pink Masquerade!
-- **14734**: Sick of donning those tattered old robes and half-rusted suits of armor? Then why not take this opportunity to dress up in something more festive--and perhaps even earn a prize for your efforts?
-- **14735**: At the very least, the masquerade promises to be a refreshing change from your everyday adventures. What say you?
-- **14736**: Participate in the Pink Masquerade? [Sounds like fun!/I think I'll pass.]
-- **14737**: A shame upon shames, to be sure. But there's still time to change your mind--the masquerade is available throughout the duration of the Harvest Festival!
-- **14738**: Splendid! Let me explain the rules of our little competition.
-- **14739**: All entrants are tasked with putting together the most lavish outfits they can find and strutting their stuff for the judge--namely, me. Points are awarded for the following types of equipment: main weapon, sub weapon, head, body, hands, legs, and feet.
-- **14740**: We're an equal opportunity contest, so don't think you'll be impressing anyone here with your Gjallarhorns or Idrises! Only rewards gleaned from special events are counted.
-- **14741**: Feel free to brandish them if you want, but don't expect me to care in the slightest.
-- **14742**: As this is an event to celebrate the Harvest Festival, entrance fees will not be charged in the form of gil, but rather sweets.
-- **14743**: Those whose outfits receive at least $0 points will be awarded with a commemorative piece of attire directly from the steering committee.
-- **14744**: But why be content with being mediocre when you can reach for the stars? The top three contestants will have their entries displayed on these "mannequins" for all to see!
-- **14745**: That's the long and short of it. Speak with me again if you have any further questions or would like to know what types of sweets we accept.
-- **14746**: Until then, prepare your most outlandish costume and come back when you're ready to be judged!
-- **14747**: Take this special garb as your just rewarded for coming up with such a delightful outfit!
-- **14748**: Oh, heavens! Don't tell me you lost your $0!
-- **14750**: As promised, here is another reward in exchange for your sweets. Make sure to keep this one safe and in pristine condition!
-- **14751**: The pink masquerade is proving to be the event of the season, and I am both humbled and honored to serve as your guide.
-- **14752**: Do you have any questions? [Who are the winning entrants?/Tell me about the costume contest./What kind of sweets do you want?/Tell me how entrants are judged./I'd like $0./None for now.]
-- **14753**: The costumes of the three entrants with the highest scores are displayed here for you to see. First place is in the center, second place is on the left, and third place is on the right. It is possible that multiple entrants have received the same score.
-- **14756**: I will accept any of the following types of sweets as payment for participation in the masquerade.
-- **14758**: The judgment criteria is a bit nuanced, but I'll offer you the best explanation I can.
-- **14759**: As the sole arbiter of fashion, the chief and chief alone issues garment-related edicts without any concern for race or gender.
-- **14760**: Each accent you add to your costume affects the overall look, and he will determine a numerical value based upon the stuff you strut.
-- **14761**: Yet I must warn you that he has trained hard under Brygid's watchful eye, and recognizes that the trends of the season are as fickle as the westerly winds.
-- **14762**: In other words, just because you have received a particular score for wearing a given outfit, you are not guaranteed the same reception if you come back later donning the same garb.
-- **14763**: And of course, the sweets you give me plays an integral... Ahem! Forget I said anything!
-- **14765**: Well, well, would you look at that stunning little number. Chief! You have a visitor!
-- **14766**: Your score for this outfit is... $0!
-- **14767**: [Did your mother dress you in that?/Next time, put your socks on under your shoes!/I've seen worse...but not by much./Maybe if you had offered up some better sweets.../<Yawn> Been there, done that./The chief is wholly unimpressed./What an affront to common sensibility./At least you remembered to brush your teeth./The color scheme was a bit off...] Take your mistakes and learn from them for your next entry!
-- **14768**: Congratulations! You have met the bar for success!
-- **14769**: Here is your splendid gift, as promised!
-- **14770**: I have given you all I have to give, but why not give it another go to see if you can place in the top three?
-- **14771**: Why, this is one of the most splendid outfits we've seen! I am more than pleased to award you [/first/second/third] place!
-- **14772**: Let me put that wonderful costume of yours up for display on one of our mannequins.
-- **14773**: That's all I have for now. See if you can beat your own personal record next time!
-- **14774**: As promised, here is your just reward for doing such a good job in this year's Pink Masquerade.
-- **14775**: Though I've got nothing more to give you, I encourage you to participate again to see if you can beat your score!
-- **14776**: ;5D$!%qM$P13A$P15JI 1?gL$3v$3[$3$3gp2%p<Player>S5\\5=B
-- **14777**: 1?g* $P13A$P15JH$3v$3[$3$3gFHh\\7$7540264/$fh->3"B
+- **14743**: The time of the Harvest Festival is upon us once more, and with it comes a most wondrous event: a costume contest known as the Pink Masquerade!
+- **14744**: Sick of donning those tattered old robes and half-rusted suits of armor? Then why not take this opportunity to dress up in something more festive--and perhaps even earn a prize for your efforts?
+- **14745**: At the very least, the masquerade promises to be a refreshing change from your everyday adventures. What say you?
+- **14746**: Participate in the Pink Masquerade? [Sounds like fun!/I think I'll pass.]
+- **14747**: A shame upon shames, to be sure. But there's still time to change your mind--the masquerade is available throughout the duration of the Harvest Festival!
+- **14748**: Splendid! Let me explain the rules of our little competition.
+- **14749**: All entrants are tasked with putting together the most lavish outfits they can find and strutting their stuff for the judge--namely, me. Points are awarded for the following types of equipment: main weapon, sub weapon, head, body, hands, legs, and feet.
+- **14750**: We're an equal opportunity contest, so don't think you'll be impressing anyone here with your Gjallarhorns or Idrises! Only rewards gleaned from special events are counted.
+- **14751**: Feel free to brandish them if you want, but don't expect me to care in the slightest.
+- **14752**: As this is an event to celebrate the Harvest Festival, entrance fees will not be charged in the form of gil, but rather sweets.
+- **14753**: Those whose outfits receive at least $0 points will be awarded with a commemorative piece of attire directly from the steering committee.
+- **14754**: But why be content with being mediocre when you can reach for the stars? The top three contestants will have their entries displayed on these "mannequins" for all to see!
+- **14755**: That's the long and short of it. Speak with me again if you have any further questions or would like to know what types of sweets we accept.
+- **14756**: Until then, prepare your most outlandish costume and come back when you're ready to be judged!
+- **14757**: Take this special garb as your just rewarded for coming up with such a delightful outfit!
+- **14758**: Oh, heavens! Don't tell me you lost your $0!
+- **14760**: As promised, here is another reward in exchange for your sweets. Make sure to keep this one safe and in pristine condition!
+- **14761**: The pink masquerade is proving to be the event of the season, and I am both humbled and honored to serve as your guide.
+- **14762**: Do you have any questions? [Who are the winning entrants?/Tell me about the costume contest./What kind of sweets do you want?/Tell me how entrants are judged./I'd like $0./None for now.]
+- **14763**: The costumes of the three entrants with the highest scores are displayed here for you to see. First place is in the center, second place is on the left, and third place is on the right. It is possible that multiple entrants have received the same score.
+- **14766**: I will accept any of the following types of sweets as payment for participation in the masquerade.
+- **14768**: The judgment criteria is a bit nuanced, but I'll offer you the best explanation I can.
+- **14769**: As the sole arbiter of fashion, the chief and chief alone issues garment-related edicts without any concern for race or gender.
+- **14770**: Each accent you add to your costume affects the overall look, and he will determine a numerical value based upon the stuff you strut.
+- **14771**: Yet I must warn you that he has trained hard under Brygid's watchful eye, and recognizes that the trends of the season are as fickle as the westerly winds.
+- **14772**: In other words, just because you have received a particular score for wearing a given outfit, you are not guaranteed the same reception if you come back later donning the same garb.
+- **14773**: And of course, the sweets you give me plays an integral... Ahem! Forget I said anything!
+- **14775**: Well, well, would you look at that stunning little number. Chief! You have a visitor!
+- **14776**: Your score for this outfit is... $0!
+- **14777**: [Did your mother dress you in that?/Next time, put your socks on under your shoes!/I've seen worse...but not by much./Maybe if you had offered up some better sweets.../<Yawn> Been there, done that./The chief is wholly unimpressed./What an affront to common sensibility./At least you remembered to brush your teeth./The color scheme was a bit off...] Take your mistakes and learn from them for your next entry!
+- **14778**: Congratulations! You have met the bar for success!
+- **14779**: Here is your splendid gift, as promised!
+- **14780**: I have given you all I have to give, but why not give it another go to see if you can place in the top three?
+- **14781**: Why, this is one of the most splendid outfits we've seen! I am more than pleased to award you [/first/second/third] place!
+- **14782**: Let me put that wonderful costume of yours up for display on one of our mannequins.
+- **14783**: That's all I have for now. See if you can beat your own personal record next time!
+- **14784**: As promised, here is your just reward for doing such a good job in this year's Pink Masquerade.
+- **14785**: Though I've got nothing more to give you, I encourage you to participate again to see if you can beat your score!
+- **14786**: ;5D$!%qM$P13A$P15JI 1?gL$3v$3[$3$3gp2%p<Player>S5\\5=B
+- **14787**: 1?g* $P13A$P15JH$3v$3[$3$3gFHh\\7$7540264/$fh->3"B
 
 ## Events
 
@@ -250,48 +250,48 @@
   2: 0x000E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0010 [0x1A] CALL_SUBROUTINE(address=0x04DE)
-  5: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=14733*)
+  5: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=14743*)
     → "The time of the Harvest Festival is upon us once more, and with it comes a most wondrous event: a costume contest known as the Pink Masquerade!"
   6: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=14734*)
+  7: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=14744*)
     → "Sick of donning those tattered old robes and half-rusted suits of armor? Then why not take this opportunity to dress up in something more festive--and perhaps even earn a prize for your efforts?"
   8: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=14735*)
+  9: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=14745*)
     → "At the very least, the masquerade promises to be a refreshing change from your everyday adventures. What say you?"
  10: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x001F [0x1A] CALL_SUBROUTINE(address=0x04EE)
- 12: 0x0022 [0x24] CREATE_DIALOG(message_id=14736*, default_option=0*, option_flags=0*)
+ 12: 0x0022 [0x24] CREATE_DIALOG(message_id=14746*, default_option=0*, option_flags=0*)
     → "Participate in the Pink Masquerade? [Sounds like fun!/I think I'll pass.]"
  13: 0x0029 [0x25] WAIT_DIALOG_SELECT()
  14: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006A
  15: 0x0032 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  16: 0x0033 [0x1A] CALL_SUBROUTINE(address=0x04DE)
- 17: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=14738*)
+ 17: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=14748*)
     → "Splendid! Let me explain the rules of our little competition."
  18: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=14739*)
+ 19: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=14749*)
     → "All entrants are tasked with putting together the most lavish outfits they can find and strutting their stuff for the judge--namely, me. Points are awarded for the following types of equipment: main weapon, sub weapon, head, body, hands, legs, and feet."
  20: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=14740*)
+ 21: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=14750*)
     → "We're an equal opportunity contest, so don't think you'll be impressing anyone here with your Gjallarhorns or Idrises! Only rewards gleaned from special events are counted."
  22: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=14741*)
+ 23: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=14751*)
     → "Feel free to brandish them if you want, but don't expect me to care in the slightest."
  24: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=14742*)
+ 25: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=14752*)
     → "As this is an event to celebrate the Harvest Festival, entrance fees will not be charged in the form of gil, but rather sweets."
  26: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x004A [0x03] Work_Zone[2] = 20*
- 28: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=14743*)
+ 28: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=14753*)
     → "Those whose outfits receive at least $0 points will be awarded with a commemorative piece of attire directly from the steering committee."
  29: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=14744*)
+ 30: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=14754*)
     → "But why be content with being mediocre when you can reach for the stars? The top three contestants will have their entries displayed on these "mannequins" for all to see!"
  31: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=14745*)
+ 32: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=14755*)
     → "That's the long and short of it. Speak with me again if you have any further questions or would like to know what types of sweets we accept."
  33: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=14746*)
+ 34: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=14756*)
     → "Until then, prepare your most outlandish costume and come back when you're ready to be judged!"
  35: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x005F [0x1A] CALL_SUBROUTINE(address=0x04EE)
@@ -299,7 +299,7 @@
  38: 0x0067 [0x01] GOTO 0x0081
  39: 0x006A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0081
  40: 0x0072 [0x1A] CALL_SUBROUTINE(address=0x04DE)
- 41: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=14737*)
+ 41: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=14747*)
     → "A shame upon shames, to be sure. But there's still time to change your mind--the masquerade is available throughout the duration of the Harvest Festival!"
  42: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0079 [0x03] Work_Zone[1] = 0*
@@ -309,7 +309,7 @@ SUBROUTINE_0081:
  45: 0x0081 [0x01] GOTO 0x0093
  46: 0x0084 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  47: 0x0085 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 48: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=14747*)
+ 48: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=14757*)
     → "Take this special garb as your just rewarded for coming up with such a delightful outfit!"
  49: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x008E [0x03] Work_Zone[1] = 1*
@@ -391,7 +391,7 @@ SUBROUTINE_0093:
 ```
   0: 0x0095 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x009A [0x06] Work_Zone[1] = 0
-  2: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=14751*)
+  2: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=14761*)
     → "The pink masquerade is proving to be the event of the season, and I am both humbled and honored to serve as your guide."
   3: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00A1 [0x06] ExtData[1]->WorkLocal[5] = 0
@@ -407,11 +407,11 @@ SUBROUTINE_00B9:
 
 SUBROUTINE_00CB:
  12: 0x00CB [0x03] Work_Zone[2] = 25711*
- 13: 0x00D0 [0x24] CREATE_DIALOG(message_id=14752*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[2])
+ 13: 0x00D0 [0x24] CREATE_DIALOG(message_id=14762*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[2])
     → "Do you have any questions? [Who are the winning entrants?/Tell me about the costume contest./What kind of sweets do you want?/Tell me how entrants are judged./I'd like $0./None for now.]"
  14: 0x00D7 [0x25] WAIT_DIALOG_SELECT()
  15: 0x00D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F3
- 16: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14753*)
+ 16: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14763*)
     → "The costumes of the three entrants with the highest scores are displayed here for you to see. First place is in the center, second place is on the left, and third place is on the right. It is possible that multiple entrants have received the same score."
  17: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00E4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -567,22 +567,22 @@ SUBROUTINE_03CA:
   1: 0x03CD [0x02] IF !(Work_Zone[2] <= 0*) GOTO 0x04DC
   2: 0x03D5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x03DA [0x02] IF !(Work_Zone[2] == 999*) GOTO 0x03ED
-  4: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14774*)
+  4: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14784*)
     → "As promised, here is your just reward for doing such a good job in this year's Pink Masquerade."
   5: 0x03E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14775*)
+  6: 0x03E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14785*)
     → "Though I've got nothing more to give you, I encourage you to participate again to see if you can beat your score!"
   7: 0x03E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03EA [0x01] GOTO 0x04DC
   9: 0x03ED [0x02] IF !(Work_Zone[2] == 998*) GOTO 0x0400
- 10: 0x03F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14777*)
+ 10: 0x03F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14787*)
     → "1?g* $P13A$P15JH$3v$3[$3$3gFHh\7$7540264/$fh->3"B"
  11: 0x03F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x03F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14775*)
+ 12: 0x03F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14785*)
     → "Though I've got nothing more to give you, I encourage you to participate again to see if you can beat your score!"
  13: 0x03FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x03FD [0x01] GOTO 0x04DC
- 15: 0x0400 [0x1D] PRINT_EVENT_MESSAGE(message_id=14765*)
+ 15: 0x0400 [0x1D] PRINT_EVENT_MESSAGE(message_id=14775*)
     → "Well, well, would you look at that stunning little number. Chief! You have a visitor!"
  16: 0x0403 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0404 [0x1C] WAIT(30* ticks)
@@ -598,32 +598,32 @@ SUBROUTINE_03CA:
 SUBROUTINE_0431:
  26: 0x0431 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17764744/0x010F1188), tag_num=0x03)
  27: 0x0438 [0x1C] WAIT(240* ticks)
- 28: 0x043B [0x1D] PRINT_EVENT_MESSAGE(message_id=14766*)
+ 28: 0x043B [0x1D] PRINT_EVENT_MESSAGE(message_id=14776*)
     → "Your score for this outfit is... $0!"
  29: 0x043E [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x043F [0x02] IF !(Work_Zone[3] <= 0*) GOTO 0x0487
  31: 0x0447 [0x6E] EventEntity uses emote 14*
  32: 0x044E [0x99] Wait for EventEntity animation to complete
- 33: 0x0453 [0x1D] PRINT_EVENT_MESSAGE(message_id=14771*)
+ 33: 0x0453 [0x1D] PRINT_EVENT_MESSAGE(message_id=14781*)
     → "Why, this is one of the most splendid outfits we've seen! I am more than pleased to award you [/first/second/third] place!"
  34: 0x0456 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=14772*)
+ 35: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=14782*)
     → "Let me put that wonderful costume of yours up for display on one of our mannequins."
  36: 0x045A [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x045B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  38: 0x045D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  39: 0x045F [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0471
  40: 0x0467 [0x1A] CALL_SUBROUTINE(address=0x04DE)
- 41: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=14769*)
+ 41: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=14779*)
     → "Here is your splendid gift, as promised!"
  42: 0x046D [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x046E [0x01] GOTO 0x0484
  44: 0x0471 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x0484
  45: 0x0479 [0x1A] CALL_SUBROUTINE(address=0x04DE)
- 46: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=14776*)
+ 46: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=14786*)
     → ";5D$!%qM$P13A$P15JI 1?gL$3v$3[$3$3gp2%p<Player>S5\5=B"
  47: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x0480 [0x1D] PRINT_EVENT_MESSAGE(message_id=14773*)
+ 48: 0x0480 [0x1D] PRINT_EVENT_MESSAGE(message_id=14783*)
     → "That's all I have for now. See if you can beat your own personal record next time!"
  49: 0x0483 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -632,21 +632,21 @@ SUBROUTINE_0484:
  51: 0x0487 [0x02] IF !(Work_Zone[2] < 20*) GOTO 0x04C7
  52: 0x048F [0x6E] EventEntity uses emote 14*
  53: 0x0496 [0x99] Wait for EventEntity animation to complete
- 54: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=14768*)
+ 54: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=14778*)
     → "Congratulations! You have met the bar for success!"
  55: 0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x049F [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x04B1
  57: 0x04A7 [0x1A] CALL_SUBROUTINE(address=0x04DE)
- 58: 0x04AA [0x1D] PRINT_EVENT_MESSAGE(message_id=14769*)
+ 58: 0x04AA [0x1D] PRINT_EVENT_MESSAGE(message_id=14779*)
     → "Here is your splendid gift, as promised!"
  59: 0x04AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x04AE [0x01] GOTO 0x04C4
  61: 0x04B1 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x04C4
  62: 0x04B9 [0x1A] CALL_SUBROUTINE(address=0x04DE)
- 63: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=14776*)
+ 63: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=14786*)
     → ";5D$!%qM$P13A$P15JI 1?gL$3v$3[$3$3gp2%p<Player>S5\5=B"
  64: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14770*)
+ 65: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14780*)
     → "I have given you all I have to give, but why not give it another go to see if you can place in the top three?"
  66: 0x04C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -655,7 +655,7 @@ SUBROUTINE_04C4:
  68: 0x04C7 [0x13] Work_Zone[3] = rand() % 8*
  69: 0x04CC [0x6E] EventEntity uses emote 12*
  70: 0x04D3 [0x99] Wait for EventEntity animation to complete
- 71: 0x04D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14767*)
+ 71: 0x04D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14777*)
     → "[Did your mother dress you in that?/Next time, put your socks on under your shoes!/I've seen worse...but not by much./Maybe if you had offered up some better sweets.../<Yawn> Been there, done that./The chief is wholly unimpressed./What an affront to common sensibility./At least you remembered to brush your teeth./The color scheme was a bit off...] Take your mistakes and learn from them for your next entry!"
  72: 0x04DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 

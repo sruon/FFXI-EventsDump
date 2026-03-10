@@ -24,7 +24,7 @@
 |       1 | 0x0001      |           1 |
 |       2 | 0x0002      |           2 |
 |       3 | 0x1BE8      |        7144 |
-|       4 | 0x1D73      |        7539 |
+|       4 | 0x1D74      |        7540 |
 |       5 | 0x0008      |           8 |
 |       6 | 0x1BEA      |        7146 |
 |       7 | 0x00FF      |         255 |
@@ -36,8 +36,8 @@
 |      13 | 0x0009      |           9 |
 |      14 | 0x000A      |          10 |
 |      15 | 0x000B      |          11 |
-|      16 | 0x1D76      |        7542 |
-|      17 | 0x1D77      |        7543 |
+|      16 | 0x1D77      |        7543 |
+|      17 | 0x1D78      |        7544 |
 |      18 | 0x1BEF      |        7151 |
 |      19 | 0x1BEB      |        7147 |
 |      20 | 0x0020      |          32 |
@@ -178,9 +178,9 @@
 - **7146**: Select a temporary item. (Price/Stock) [Nothing at this time./Browse another page./#...($8/$16)/$1...($9/$17)/$2...($10/$18)/$3...($11/$19)/$4...($12/$20)/$5...($13/$21)/$6...($14/$22)/$7...($15/$23)/Next page./Previous page.]
 - **7147**: Browse which page? [Never mind./Page 1./Page 2./Page 3./Page 4.]
 - **7151**: Is there anything else you require?
-- **7539**: Let me show you the list of items currently available to you.
-- **7542**: You currently possess $' Allied Note[/s].
-- **7543**: Proceed with the transaction? [Yes./No.]
+- **7540**: Let me show you the list of items currently available to you.
+- **7543**: You currently possess $' Allied Note[/s].
+- **7544**: Proceed with the transaction? [Yes./No.]
 
 ## Events
 
@@ -448,7 +448,7 @@ SUBROUTINE_006F:
  21: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7144*)
     → "I am charged with the provisioning of supplies for our troops out on the battlefield. I can issue you temporary items in exchange for Allied Notes."
  22: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
+ 23: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
     → "Let me show you the list of items currently available to you."
  24: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -514,10 +514,10 @@ SUBROUTINE_01B1:
  78: 0x01D1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
  79: 0x01D6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
  80: 0x01DB [0x03] Work_Zone_1700[31] = ExtData[1]->WorkLocal[3]
- 81: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7542*)
+ 81: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
     → "You currently possess $' Allied Note[/s]."
  82: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x01E4 [0x24] CREATE_DIALOG(message_id=7543*, default_option=1*, option_flags=0*)
+ 83: 0x01E4 [0x24] CREATE_DIALOG(message_id=7544*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? [Yes./No.]"
  84: 0x01EB [0x25] WAIT_DIALOG_SELECT()
  85: 0x01EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0204

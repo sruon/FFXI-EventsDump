@@ -38,16 +38,16 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001B      |          27 |
-|       1 | 0x28D5      |       10453 |
+|       1 | 0x28D6      |       10454 |
 |       2 | 0x1758      |        5976 |
-|       3 | 0x2AEE      |       10990 |
+|       3 | 0x2AEF      |       10991 |
 |       4 | 0x001E      |          30 |
 |       5 | 0x0000      |           0 |
 
 ## String References
 
-- **10453**: How does a tranquil moment spent amidst the soothing chirps of small birds and the rhythmic crash of waves upon the shoreline sound? This caf<Player>i can provide you with all that and more, [my good sir/my fair lady].
-- **10990**: Might I recommend $0? This creamy beverage goes down so smoothly because I awake at the wee hours of each day to pour heaping portions of my love into it.
+- **10454**: How does a tranquil moment spent amidst the soothing chirps of small birds and the rhythmic crash of waves upon the shoreline sound? This caf<Player>i can provide you with all that and more, [my good sir/my fair lady].
+- **10991**: Might I recommend $0? This creamy beverage goes down so smoothly because I awake at the wee hours of each day to pour heaping portions of my love into it.
 
 ## Events
 
@@ -98,7 +98,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=27*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10453*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10454*)
     → "How does a tranquil moment spent amidst the soothing chirps of small birds and the rhythmic crash of waves upon the shoreline sound? This caf<Player>i can provide you with all that and more, [my good sir/my fair lady]."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=27*
@@ -418,7 +418,7 @@
   5: 0x0091 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x0096 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=27*
   7: 0x00A5 [0x03] Work_Zone[2] = 5976*
-  8: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10990*)
+  8: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10991*)
     → "Might I recommend $0? This creamy beverage goes down so smoothly because I awake at the wee hours of each day to pour heaping portions of my love into it."
   9: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=27*

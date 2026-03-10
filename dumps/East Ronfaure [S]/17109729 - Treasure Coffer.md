@@ -22,14 +22,14 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x003C      |          60 |
-|       2 | 0x1F74      |        8052 |
-|       3 | 0x1F75      |        8053 |
+|       2 | 0x1F75      |        8053 |
+|       3 | 0x1F76      |        8054 |
 |       4 | 0x0001      |           1 |
 
 ## String References
 
-- **8052**: Obtain this item?
-- **8053**: Obtain this item? [Take it./Leave it.]
+- **8053**: Obtain this item?
+- **8054**: Obtain this item? [Take it./Leave it.]
 
 ## Events
 
@@ -87,11 +87,11 @@
   5: 0x001A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   6: 0x001C [0x1C] WAIT(60* ticks)
   7: 0x001F [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[0], buffer1=ExtData[1]->WorkLocal[1], buffer2=ExtData[1]->WorkLocal[2], buffer3=ExtData[1]->WorkLocal[3])
-  8: 0x0029 [0x48] [System] [8052*]:
+  8: 0x0029 [0x48] [System] [8053*]:
     → "Obtain this item?"
   9: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 11: 0x0030 [0x24] CREATE_DIALOG(message_id=8053*, default_option=1*, option_flags=0*)
+ 11: 0x0030 [0x24] CREATE_DIALOG(message_id=8054*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Take it./Leave it.]"
  12: 0x0037 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0038 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0048

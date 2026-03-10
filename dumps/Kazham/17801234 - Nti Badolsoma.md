@@ -25,17 +25,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2727      |       10023 |
-|       3 | 0x2728      |       10024 |
-|       4 | 0x2878      |       10360 |
-|       5 | 0x2879      |       10361 |
+|       2 | 0x2728      |       10024 |
+|       3 | 0x2729      |       10025 |
+|       4 | 0x2879      |       10361 |
+|       5 | 0x287A      |       10362 |
 
 ## String References
 
-- **10023**: You've heard of the Tonberries, rrright? They may look small, but they pack a punch...and they keep coming back for morrre, no matter how many you take out!
-- **10024**: When you're outside the town gates, you should watch your back...those guys will stab you in it!
-- **10360**: You've heard of the Tonberries, rrright? They may look small, but they pack a punch...and they keep coming back for morrre, no matter how many you take out!
-- **10361**: But it looks...I mean, smells like I should have warrrned you about the Rafflesia first!
+- **10024**: You've heard of the Tonberries, rrright? They may look small, but they pack a punch...and they keep coming back for morrre, no matter how many you take out!
+- **10025**: When you're outside the town gates, you should watch your back...those guys will stab you in it!
+- **10361**: You've heard of the Tonberries, rrright? They may look small, but they pack a punch...and they keep coming back for morrre, no matter how many you take out!
+- **10362**: But it looks...I mean, smells like I should have warrrned you about the Rafflesia first!
 
 ## Events
 
@@ -134,10 +134,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nti Badolsoma (ID: 17801234/0x010FA012), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10023*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10024*)
     → "You've heard of the Tonberries, rrright? They may look small, but they pack a punch...and they keep coming back for morrre, no matter how many you take out!"
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10024*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10025*)
     → "When you're outside the town gates, you should watch your back...those guys will stab you in it!"
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nti Badolsoma (ID: 17801234/0x010FA012), tag_num=0x02)
@@ -171,10 +171,10 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nti Badolsoma (ID: 17801234/0x010FA012), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10360*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10361*)
     → "You've heard of the Tonberries, rrright? They may look small, but they pack a punch...and they keep coming back for morrre, no matter how many you take out!"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10361*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10362*)
     → "But it looks...I mean, smells like I should have warrrned you about the Rafflesia first!"
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nti Badolsoma (ID: 17801234/0x010FA012), tag_num=0x02)

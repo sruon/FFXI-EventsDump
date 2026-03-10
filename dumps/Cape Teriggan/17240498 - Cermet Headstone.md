@@ -22,8 +22,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E03      |        7683 |
-|       1 | 0x1E04      |        7684 |
+|       0 | 0x1E04      |        7684 |
+|       1 | 0x1E05      |        7685 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x009F      |         159 |
@@ -33,14 +33,14 @@
 |       8 | 0x00E9      |         233 |
 |       9 | 0x00C8      |         200 |
 |      10 | 0x001E      |          30 |
-|      11 | 0x1E12      |        7698 |
+|      11 | 0x1E13      |        7699 |
 |      12 | 0x002D      |          45 |
-|      13 | 0x1E13      |        7699 |
+|      13 | 0x1E14      |        7700 |
 |      14 | 0x0041      |          65 |
 |      15 | 0x00F0      |         240 |
 |      16 | 0x005A      |          90 |
 |      17 | 0x0003      |           3 |
-|      18 | 0x1E14      |        7700 |
+|      18 | 0x1E15      |        7701 |
 |      19 | 0x0065      |         101 |
 |      20 | 0x00BF      |         191 |
 |      21 | 0x00C9      |         201 |
@@ -49,11 +49,11 @@
 
 ## String References
 
-- **7683**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
-- **7684**: Do you remove the $3? [Yes./No.]
-- **7698**: You place $0 on the monument as an offering.
-- **7699**: ...tha...nk...you...
-- **7700**: Something is lying on the ground.
+- **7684**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
+- **7685**: Do you remove the $3? [Yes./No.]
+- **7699**: You place $0 on the monument as an offering.
+- **7700**: ...tha...nk...you...
+- **7701**: Something is lying on the ground.
 
 ## Events
 
@@ -101,10 +101,10 @@
 
 ```
   0: 0x0001 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x000A [0x48] [System] [7683*]:
+  1: 0x000A [0x48] [System] [7684*]:
     → "6... A single fragment of light. The way in which it shines suggests that it is resonating with something..."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x24] CREATE_DIALOG(message_id=7684*, default_option=0*, option_flags=0*)
+  3: 0x000E [0x24] CREATE_DIALOG(message_id=7685*, default_option=0*, option_flags=0*)
     → "Do you remove the $3? [Yes./No.]"
   4: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0026
@@ -138,10 +138,10 @@ SUBROUTINE_0026:
 
 ```
   0: 0x0028 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x0031 [0x48] [System] [7683*]:
+  1: 0x0031 [0x48] [System] [7684*]:
     → "6... A single fragment of light. The way in which it shines suggests that it is resonating with something..."
   2: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0035 [0x24] CREATE_DIALOG(message_id=7684*, default_option=0*, option_flags=0*)
+  3: 0x0035 [0x24] CREATE_DIALOG(message_id=7685*, default_option=0*, option_flags=0*)
     → "Do you remove the $3? [Yes./No.]"
   4: 0x003C [0x25] WAIT_DIALOG_SELECT()
   5: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004D
@@ -255,7 +255,7 @@ SUBROUTINE_004D:
  14: 0x008C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ter1" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
  15: 0x009D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x00AE [0x1C] WAIT(30* ticks)
- 17: 0x00B1 [0x48] [System] [7698*]:
+ 17: 0x00B1 [0x48] [System] [7699*]:
     → "You place $0 on the monument as an offering."
  18: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00B5 [0x6B] STOP_AND_IDLE: LocalPlayer stops current action and resets to idle (animation="idl0")
@@ -277,7 +277,7 @@ SUBROUTINE_004D:
  35: 0x0143 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Guardian (ID: 17240499/0x010711B3) Render.Flags0 and Render.Flags3 conditions are met
  36: 0x0148 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "res0" with entities [Guardian (ID: 17240499/0x010711B3), Guardian (ID: 17240499/0x010711B3)]
  37: 0x0155 [0x1C] WAIT(60* ticks)
- 38: 0x0158 [0x48] [System] [7699*]:
+ 38: 0x0158 [0x48] [System] [7700*]:
     → "...tha...nk...you..."
  39: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x015C [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "sg01" with entities [Guardian (ID: 17240499/0x010711B3), Guardian (ID: 17240499/0x010711B3)], work=[65*, 0*]
@@ -286,7 +286,7 @@ SUBROUTINE_004D:
  43: 0x0179 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17240500/0x010711B4), Unnamed NPC (ID: 17240500/0x010711B4)], work=[3*, 0*]
  44: 0x018A [0x1C] WAIT(30* ticks)
  45: 0x018D [0x79] LocalPlayer looks at Unnamed NPC (ID: 17240500/0x010711B4) (Basic look)
- 46: 0x0197 [0x48] [System] [7700*]:
+ 46: 0x0197 [0x48] [System] [7701*]:
     → "Something is lying on the ground."
  47: 0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x019B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=90*)

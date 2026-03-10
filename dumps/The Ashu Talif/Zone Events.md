@@ -37,7 +37,7 @@
 |       9 | 0x0009      |           9 |
 |      10 | 0x0046      |          70 |
 |      11 | 0x00D2      |         210 |
-|      12 | 0x1DAA      |        7594 |
+|      12 | 0x1DAB      |        7595 |
 |      13 | 0x0013      |          19 |
 |      14 | 0x00FF      |         255 |
 |      15 | 0x00C2      |         194 |
@@ -47,7 +47,7 @@
 
 ## String References
 
-- **7594**: Leave the Ashu Talif? [Yes./No.]
+- **7595**: Leave the Ashu Talif? [Yes./No.]
 
 ## Events
 
@@ -226,7 +226,7 @@
 #### Opcodes
 
 ```
-  0: 0x00DE [0x24] CREATE_DIALOG(message_id=7594*, default_option=1*, option_flags=0*)
+  0: 0x00DE [0x24] CREATE_DIALOG(message_id=7595*, default_option=1*, option_flags=0*)
     → "Leave the Ashu Talif? [Yes./No.]"
   1: 0x00E5 [0x25] WAIT_DIALOG_SELECT()
   2: 0x00E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F6

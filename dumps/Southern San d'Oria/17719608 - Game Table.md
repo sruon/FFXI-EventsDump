@@ -21,40 +21,40 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x33D4      |       13268 |
-|       2 | 0x33D5      |       13269 |
+|       1 | 0x33DD      |       13277 |
+|       2 | 0x33DE      |       13278 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x33E8      |       13288 |
-|       6 | 0x33E9      |       13289 |
+|       5 | 0x33F1      |       13297 |
+|       6 | 0x33F2      |       13298 |
 |       7 | 0x0E10      |        3600 |
-|       8 | 0x33EA      |       13290 |
-|       9 | 0x33EB      |       13291 |
-|      10 | 0x33EC      |       13292 |
-|      11 | 0x33ED      |       13293 |
-|      12 | 0x33EE      |       13294 |
-|      13 | 0x33EF      |       13295 |
-|      14 | 0x33F0      |       13296 |
+|       8 | 0x33F3      |       13299 |
+|       9 | 0x33F4      |       13300 |
+|      10 | 0x33F5      |       13301 |
+|      11 | 0x33F6      |       13302 |
+|      12 | 0x33F7      |       13303 |
+|      13 | 0x33F8      |       13304 |
+|      14 | 0x33F9      |       13305 |
 |      15 | 0x0004      |           4 |
 |      16 | 0x0007      |           7 |
 |      17 | 0x0014      |          20 |
 |      18 | 0x0017      |          23 |
-|      19 | 0x33D8      |       13272 |
+|      19 | 0x33E1      |       13281 |
 |      20 | 0x003C      |          60 |
 |      21 | 0x0003      |           3 |
-|      22 | 0x33D6      |       13270 |
+|      22 | 0x33DF      |       13279 |
 |      23 | 0x00B4      |         180 |
-|      24 | 0x33DA      |       13274 |
+|      24 | 0x33E3      |       13283 |
 |      25 | 0x0005      |           5 |
 |      26 | 0x0006      |           6 |
-|      27 | 0x33DC      |       13276 |
-|      28 | 0x33DB      |       13275 |
-|      29 | 0x33DE      |       13278 |
-|      30 | 0x33DF      |       13279 |
+|      27 | 0x33E5      |       13285 |
+|      28 | 0x33E4      |       13284 |
+|      29 | 0x33E7      |       13287 |
+|      30 | 0x33E8      |       13288 |
 |      31 | 0x0018      |          24 |
 |      32 | 0x001B      |          27 |
-|      33 | 0x33E1      |       13281 |
-|      34 | 0x33E0      |       13280 |
+|      33 | 0x33EA      |       13290 |
+|      34 | 0x33E9      |       13289 |
 |      35 | 0x0008      |           8 |
 |      36 | 0x000B      |          11 |
 |      37 | 0x000C      |          12 |
@@ -62,49 +62,49 @@
 |      39 | 0x0010      |          16 |
 |      40 | 0x0013      |          19 |
 |      41 | 0x000A      |          10 |
-|      42 | 0x33E2      |       13282 |
+|      42 | 0x33EB      |       13291 |
 |      43 | 0x00C9      |         201 |
-|      44 | 0x33E3      |       13283 |
+|      44 | 0x33EC      |       13292 |
 |      45 | 0x1925      |        6437 |
-|      46 | 0x33DD      |       13277 |
-|      47 | 0x33E7      |       13287 |
-|      48 | 0x33D9      |       13273 |
+|      46 | 0x33E6      |       13286 |
+|      47 | 0x33F0      |       13296 |
+|      48 | 0x33E2      |       13282 |
 |      49 | 0x0009      |           9 |
-|      50 | 0x33E4      |       13284 |
-|      51 | 0x33E5      |       13285 |
+|      50 | 0x33ED      |       13293 |
+|      51 | 0x33EE      |       13294 |
 |      52 | 0x1928      |        6440 |
 
 ## String References
 
 - **6437**: Obtained $0 gil.
 - **6440**: You do not have enough gil.
-- **13268**: You see a single, ivory venture roll die on the table. There are currently $0/$1 other players wishing to participate.
-- **13269**: What would you like to do? [Join table ($2 gil)./Leave./Read manual.]
-- **13270**: There are currently $0/$8 players at the table. Please wait a moment until the remaining participants have arrived. (You may still leave the table at any time.)
-- **13272**: The final participant has arrived. Your group is allowed $8 [minute/minutes] at the table.
-- **13273**: %0's primary roll is $0!
-- **13274**: Double up? (Currently: $0) [Yes./No.]
-- **13275**: <Player> doubles up... Your venture roll total is now $0!
-- **13276**: <Player> doubles up... BUST!!!
-- **13277**: %0 holds fast.
-- **13278**: Double up complete.
-- **13279**: Results...
-- **13280**: %0's final total is $0!
-- **13281**: %0 has gone BUST!
-- **13282**: The game has ended in a draw!
-- **13283**: The winner is %0!
-- **13284**: Someone has dropped the die down the drain! You can no longer continue playing.
-- **13285**: The final place at the table has already been taken.
-- **13287**: Someone has dropped the die!
-- **13288**: Read which chapter? [1. "The Heart of Venture Roll."". "Rules of the Roll."". "Putting the Book Down."]
-- **13289**: Venture roll is a competitive game played with dice similar to those used by corsairs. The objective is to roll until your cumulative total comes as close to 11 as possible without going over.
-- **13290**: Until you reach or go over 11, you may continue rolling (doubling up) as many times as the table time limit allows ($8 [minute/minutes], Earth time).
-- **13291**: In addition to doubling up, you may also decline to roll the dice and stay with your current total (hold fast).
-- **13292**: If your total ever goes over 11, you will automatically lose the game, regardless of the totals of other players. Knowing the right time to hold fast is one of the keys to staying in the match.
-- **13293**: Once all the players have held fast, the game is over and the results are announced. The player closest to 11 is declared the winner and receives all the gil in the pot (the original participation fees of all the players).
-- **13294**: Objective: Roll a six-sided die as many times as necessary to achieve a total as close to 11 as possible. You lose the instant your total exceeds 11.
-- **13295**: If two or more players are the closest to 11 at the end of a match, the game is considered a draw and all participation fees are repaid in full.
-- **13296**: Once the game has started, fees will not be refunded for any reason unless the match results in a draw.
+- **13277**: You see a single, ivory venture roll die on the table. There are currently $0/$1 other players wishing to participate.
+- **13278**: What would you like to do? [Join table ($2 gil)./Leave./Read manual.]
+- **13279**: There are currently $0/$8 players at the table. Please wait a moment until the remaining participants have arrived. (You may still leave the table at any time.)
+- **13281**: The final participant has arrived. Your group is allowed $8 [minute/minutes] at the table.
+- **13282**: %0's primary roll is $0!
+- **13283**: Double up? (Currently: $0) [Yes./No.]
+- **13284**: <Player> doubles up... Your venture roll total is now $0!
+- **13285**: <Player> doubles up... BUST!!!
+- **13286**: %0 holds fast.
+- **13287**: Double up complete.
+- **13288**: Results...
+- **13289**: %0's final total is $0!
+- **13290**: %0 has gone BUST!
+- **13291**: The game has ended in a draw!
+- **13292**: The winner is %0!
+- **13293**: Someone has dropped the die down the drain! You can no longer continue playing.
+- **13294**: The final place at the table has already been taken.
+- **13296**: Someone has dropped the die!
+- **13297**: Read which chapter? [1. "The Heart of Venture Roll."". "Rules of the Roll."". "Putting the Book Down."]
+- **13298**: Venture roll is a competitive game played with dice similar to those used by corsairs. The objective is to roll until your cumulative total comes as close to 11 as possible without going over.
+- **13299**: Until you reach or go over 11, you may continue rolling (doubling up) as many times as the table time limit allows ($8 [minute/minutes], Earth time).
+- **13300**: In addition to doubling up, you may also decline to roll the dice and stay with your current total (hold fast).
+- **13301**: If your total ever goes over 11, you will automatically lose the game, regardless of the totals of other players. Knowing the right time to hold fast is one of the keys to staying in the match.
+- **13302**: Once all the players have held fast, the game is over and the results are announced. The player closest to 11 is declared the winner and receives all the gil in the pot (the original participation fees of all the players).
+- **13303**: Objective: Roll a six-sided die as many times as necessary to achieve a total as close to 11 as possible. You lose the instant your total exceeds 11.
+- **13304**: If two or more players are the closest to 11 at the end of a match, the game is considered a draw and all participation fees are repaid in full.
+- **13305**: Once the game has started, fees will not be refunded for any reason unless the match results in a draw.
 
 ## Events
 
@@ -441,11 +441,11 @@
   3: 0x000C [0x03] ExtData[1]->WorkLocal[27] = 0*
   4: 0x0011 [0x03] ExtData[1]->WorkLocal[4] = 0*
   5: 0x0016 [0x03] ExtData[1]->WorkLocal[28] = 0*
-  6: 0x001B [0x48] [System] [13268*]:
+  6: 0x001B [0x48] [System] [13277*]:
     → "You see a single, ivory venture roll die on the table. There are currently $0/$1 other players wishing to participate."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00C3
-  9: 0x0027 [0x24] CREATE_DIALOG(message_id=13269*, default_option=0*, option_flags=0*)
+  9: 0x0027 [0x24] CREATE_DIALOG(message_id=13278*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Join table ($2 gil)./Leave./Read manual.]"
  10: 0x002E [0x25] WAIT_DIALOG_SELECT()
  11: 0x002F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0040
@@ -460,36 +460,36 @@
 
 SUBROUTINE_0059:
  20: 0x0059 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00BA
- 21: 0x0061 [0x24] CREATE_DIALOG(message_id=13288*, default_option=0*, option_flags=0*)
+ 21: 0x0061 [0x24] CREATE_DIALOG(message_id=13297*, default_option=0*, option_flags=0*)
     → "Read which chapter? [1. "The Heart of Venture Roll."". "Rules of the Roll."". "Putting the Book Down."]"
  22: 0x0068 [0x25] WAIT_DIALOG_SELECT()
  23: 0x0069 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0092
- 24: 0x0071 [0x48] [System] [13289*]:
+ 24: 0x0071 [0x48] [System] [13298*]:
     → "Venture roll is a competitive game played with dice similar to those used by corsairs. The objective is to roll until your cumulative total comes as close to 11 as possible without going over."
  25: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0075 [0x03] Work_Zone_1700[0] = Work_Zone[5]
  27: 0x007A [0x15] Work_Zone_1700[0] /= 3600*
- 28: 0x007F [0x48] [System] [13290*]:
+ 28: 0x007F [0x48] [System] [13299*]:
     → "Until you reach or go over 11, you may continue rolling (doubling up) as many times as the table time limit allows ($8 [minute/minutes], Earth time)."
  29: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0083 [0x48] [System] [13291*]:
+ 30: 0x0083 [0x48] [System] [13300*]:
     → "In addition to doubling up, you may also decline to roll the dice and stay with your current total (hold fast)."
  31: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0087 [0x48] [System] [13292*]:
+ 32: 0x0087 [0x48] [System] [13301*]:
     → "If your total ever goes over 11, you will automatically lose the game, regardless of the totals of other players. Knowing the right time to hold fast is one of the keys to staying in the match."
  33: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x008B [0x48] [System] [13293*]:
+ 34: 0x008B [0x48] [System] [13302*]:
     → "Once all the players have held fast, the game is over and the results are announced. The player closest to 11 is declared the winner and receives all the gil in the pot (the original participation fees of all the players)."
  35: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x008F [0x01] GOTO 0x00B7
  37: 0x0092 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00A9
- 38: 0x009A [0x48] [System] [13294*]:
+ 38: 0x009A [0x48] [System] [13303*]:
     → "Objective: Roll a six-sided die as many times as necessary to achieve a total as close to 11 as possible. You lose the instant your total exceeds 11."
  39: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x009E [0x48] [System] [13295*]:
+ 40: 0x009E [0x48] [System] [13304*]:
     → "If two or more players are the closest to 11 at the end of a match, the game is considered a draw and all participation fees are repaid in full."
  41: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x00A2 [0x48] [System] [13296*]:
+ 42: 0x00A2 [0x48] [System] [13305*]:
     → "Once the game has started, fees will not be refunded for any reason unless the match results in a draw."
  43: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00A6 [0x01] GOTO 0x00B7
@@ -539,7 +539,7 @@ SUBROUTINE_013F:
  78: 0x0154 [0x02] IF !(ExtData[1]->WorkLocal[27] == Work_Zone[2]) GOTO 0x016A
  79: 0x015C [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[2]
  80: 0x0161 [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[26]
- 81: 0x0166 [0x48] [System] [13270*]:
+ 81: 0x0166 [0x48] [System] [13279*]:
     → "There are currently $0/$8 players at the table. Please wait a moment until the remaining participants have arrived. (You may still leave the table at any time.)"
  82: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x016A [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -555,7 +555,7 @@ SUBROUTINE_013F:
 SUBROUTINE_01A7:
  92: 0x01A7 [0x01] GOTO 0x0597
  93: 0x01AA [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x0325
- 94: 0x01B2 [0x24] CREATE_DIALOG(message_id=13274*, default_option=0*, option_flags=0*)
+ 94: 0x01B2 [0x24] CREATE_DIALOG(message_id=13283*, default_option=0*, option_flags=0*)
     → "Double up? (Currently: $0) [Yes./No.]"
  95: 0x01B9 [0x25] WAIT_DIALOG_SELECT()
  96: 0x01BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C5
@@ -577,10 +577,10 @@ SUBROUTINE_01D0:
 110: 0x01FF [0x1B] RETURN
 
 SUBROUTINE_0316:
-111: 0x0316 [0x48] [System] [13276*]:
+111: 0x0316 [0x48] [System] [13285*]:
     → "<Player> doubles up... BUST!!!"
 112: 0x0319 [0x01] GOTO 0x031F
-113: 0x031C [0x48] [System] [13275*]:
+113: 0x031C [0x48] [System] [13284*]:
     → "<Player> doubles up... Your venture roll total is now $0!"
 
 SUBROUTINE_031F:
@@ -604,11 +604,11 @@ SUBROUTINE_0370:
 127: 0x0387 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[1] (bits 0*-3*)
 128: 0x0390 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[10], work_offset2=0*)
 129: 0x0396 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x03A5
-130: 0x039E [0x48] [System] [13281*]:
+130: 0x039E [0x48] [System] [13290*]:
     → "%0 has gone BUST!"
 131: 0x03A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x03A2 [0x01] GOTO 0x03A9
-133: 0x03A5 [0x48] [System] [13280*]:
+133: 0x03A5 [0x48] [System] [13289*]:
     → "%0's final total is $0!"
 134: 0x03A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -618,11 +618,11 @@ SUBROUTINE_03A9:
 137: 0x03B4 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[1] (bits 4*-7*)
 138: 0x03BD [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[14], work_offset2=0*)
 139: 0x03C3 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x03D2
-140: 0x03CB [0x48] [System] [13281*]:
+140: 0x03CB [0x48] [System] [13290*]:
     → "%0 has gone BUST!"
 141: 0x03CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x03CF [0x01] GOTO 0x03D6
-143: 0x03D2 [0x48] [System] [13280*]:
+143: 0x03D2 [0x48] [System] [13289*]:
     → "%0's final total is $0!"
 144: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -632,11 +632,11 @@ SUBROUTINE_03D6:
 147: 0x03E1 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[1] (bits 8*-11*)
 148: 0x03EA [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[18], work_offset2=0*)
 149: 0x03F0 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x03FF
-150: 0x03F8 [0x48] [System] [13281*]:
+150: 0x03F8 [0x48] [System] [13290*]:
     → "%0 has gone BUST!"
 151: 0x03FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x03FC [0x01] GOTO 0x0403
-153: 0x03FF [0x48] [System] [13280*]:
+153: 0x03FF [0x48] [System] [13289*]:
     → "%0's final total is $0!"
 154: 0x0402 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -646,11 +646,11 @@ SUBROUTINE_0403:
 157: 0x040E [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[1] (bits 12*-15*)
 158: 0x0417 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
 159: 0x041D [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x042C
-160: 0x0425 [0x48] [System] [13281*]:
+160: 0x0425 [0x48] [System] [13290*]:
     → "%0 has gone BUST!"
 161: 0x0428 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x0429 [0x01] GOTO 0x0430
-163: 0x042C [0x48] [System] [13280*]:
+163: 0x042C [0x48] [System] [13289*]:
     → "%0's final total is $0!"
 164: 0x042F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -662,7 +662,7 @@ SUBROUTINE_0433:
 167: 0x0436 [0x01] GOTO 0x0370
 168: 0x0439 [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[1] (bits 16*-19*)
 169: 0x0442 [0x02] IF !(ExtData[1]->WorkLocal[0] == 10*) GOTO 0x0451
-170: 0x044A [0x48] [System] [13282*]:
+170: 0x044A [0x48] [System] [13291*]:
     → "The game has ended in a draw!"
 171: 0x044D [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x044E [0x01] GOTO 0x04E1
@@ -671,28 +671,28 @@ SUBROUTINE_0433:
 175: 0x0469 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0487
 176: 0x0471 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[1] (bits 0*-3*)
 177: 0x047A [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[10], work_offset2=0*)
-178: 0x0480 [0x48] [System] [13283*]:
+178: 0x0480 [0x48] [System] [13292*]:
     → "The winner is %0!"
 179: 0x0483 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x0484 [0x01] GOTO 0x04E1
 181: 0x0487 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x04A5
 182: 0x048F [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[1] (bits 4*-7*)
 183: 0x0498 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[14], work_offset2=0*)
-184: 0x049E [0x48] [System] [13283*]:
+184: 0x049E [0x48] [System] [13292*]:
     → "The winner is %0!"
 185: 0x04A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x04A2 [0x01] GOTO 0x04E1
 187: 0x04A5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x04C3
 188: 0x04AD [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[1] (bits 8*-11*)
 189: 0x04B6 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[18], work_offset2=0*)
-190: 0x04BC [0x48] [System] [13283*]:
+190: 0x04BC [0x48] [System] [13292*]:
     → "The winner is %0!"
 191: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x04C0 [0x01] GOTO 0x04E1
 193: 0x04C3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x04E1
 194: 0x04CB [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[1] (bits 12*-15*)
 195: 0x04D4 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
-196: 0x04DA [0x48] [System] [13283*]:
+196: 0x04DA [0x48] [System] [13292*]:
     → "The winner is %0!"
 197: 0x04DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x04DE [0x01] GOTO 0x04E1
@@ -714,25 +714,25 @@ SUBROUTINE_0511:
 209: 0x0519 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit ExtData[1]->WorkLocal[3]) GOTO 0x0574
 210: 0x0520 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0535
 211: 0x0528 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[10], work_offset2=0*)
-212: 0x052E [0x48] [System] [13277*]:
+212: 0x052E [0x48] [System] [13286*]:
     → "%0 holds fast."
 213: 0x0531 [0x23] WAIT_FOR_DIALOG_INTERACTION
 214: 0x0532 [0x01] GOTO 0x0574
 215: 0x0535 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x054A
 216: 0x053D [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[14], work_offset2=0*)
-217: 0x0543 [0x48] [System] [13277*]:
+217: 0x0543 [0x48] [System] [13286*]:
     → "%0 holds fast."
 218: 0x0546 [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x0547 [0x01] GOTO 0x0574
 220: 0x054A [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x055F
 221: 0x0552 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[18], work_offset2=0*)
-222: 0x0558 [0x48] [System] [13277*]:
+222: 0x0558 [0x48] [System] [13286*]:
     → "%0 holds fast."
 223: 0x055B [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x055C [0x01] GOTO 0x0574
 225: 0x055F [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0574
 226: 0x0567 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
-227: 0x056D [0x48] [System] [13277*]:
+227: 0x056D [0x48] [System] [13286*]:
     → "%0 holds fast."
 228: 0x0570 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x0571 [0x01] GOTO 0x0574
@@ -747,7 +747,7 @@ SUBROUTINE_0586:
 234: 0x0586 [0x01] GOTO 0x0597
 235: 0x0589 [0x05] ExtData[1]->WorkLocal[2] = 1
 236: 0x058C [0x27] REQ_SET(priority=0x09, entity_id=LocalPlayer, tag_num=0x8D)
-237: 0x0593 [0x48] [System] [13287*]:
+237: 0x0593 [0x48] [System] [13296*]:
     → "Someone has dropped the die!"
 238: 0x0596 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -767,22 +767,22 @@ SUBROUTINE_059B:
 249: 0x05C9 [0x02] IF !(ExtData[1]->WorkLocal[10] == 0*) GOTO 0x05E3
 250: 0x05D1 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[10], work_offset2=0*)
 251: 0x05D7 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[0] (bits 0*-3*)
-252: 0x05E0 [0x48] [System] [13273*]:
+252: 0x05E0 [0x48] [System] [13282*]:
     → "%0's primary roll is $0!"
 253: 0x05E3 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x05FD
 254: 0x05EB [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[14], work_offset2=0*)
 255: 0x05F1 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[0] (bits 4*-7*)
-256: 0x05FA [0x48] [System] [13273*]:
+256: 0x05FA [0x48] [System] [13282*]:
     → "%0's primary roll is $0!"
 257: 0x05FD [0x02] IF !(ExtData[1]->WorkLocal[18] == 0*) GOTO 0x0617
 258: 0x0605 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[18], work_offset2=0*)
 259: 0x060B [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[0] (bits 8*-11*)
-260: 0x0614 [0x48] [System] [13273*]:
+260: 0x0614 [0x48] [System] [13282*]:
     → "%0's primary roll is $0!"
 261: 0x0617 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0631
 262: 0x061F [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
 263: 0x0625 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[0] (bits 12*-15*)
-264: 0x062E [0x48] [System] [13273*]:
+264: 0x062E [0x48] [System] [13282*]:
     → "%0's primary roll is $0!"
 265: 0x0631 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[0] (bits 16*-19*)
 266: 0x063A [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x8C)
@@ -1088,7 +1088,7 @@ SUBROUTINE_11A4:
 SUBROUTINE_11A5:
 547: 0x11A5 [0x27] REQ_SET(priority=0x09, entity_id=LocalPlayer, tag_num=0x8D)
 548: 0x11AC [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x11BB
-549: 0x11B4 [0x48] [System] [13284*]:
+549: 0x11B4 [0x48] [System] [13293*]:
     → "Someone has dropped the die down the drain! You can no longer continue playing."
 550: 0x11B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 551: 0x11B8 [0x01] GOTO 0x11EF
@@ -1097,7 +1097,7 @@ SUBROUTINE_11A5:
 554: 0x11C6 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x11D1
 555: 0x11CE [0x01] GOTO 0x11EF
 556: 0x11D1 [0x02] IF !(Work_Zone[9] == 4*) GOTO 0x11E0
-557: 0x11D9 [0x48] [System] [13285*]:
+557: 0x11D9 [0x48] [System] [13294*]:
     → "The final place at the table has already been taken."
 558: 0x11DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 559: 0x11DD [0x01] GOTO 0x11EF

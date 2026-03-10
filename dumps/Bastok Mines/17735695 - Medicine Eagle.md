@@ -31,7 +31,7 @@
 |       2 | 0xFFFF9CB8  |  4294941880 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x05DA      |        1498 |
-|       5 | 0x2D11      |       11537 |
+|       5 | 0x2D12      |       11538 |
 |       6 | 0xFFFF7338  |  4294931256 |
 |       7 | 0x7C09      |       31753 |
 |       8 | 0x0243      |         579 |
@@ -42,7 +42,7 @@
 ## String References
 
 - **10551**: There's an inn and the Alchemists' Guild through here, but other than that, you'll only find the homes of Bastok's poor. I don't think there's anything you'd want in there.
-- **11537**: And now there is talk of sending a party to investigate the Altepa Desert, but you should talk to Drake Fang in the Zeruhn Mines about that.
+- **11538**: And now there is talk of sending a party to investigate the Altepa Desert, but you should talk to Drake Fang in the Zeruhn Mines about that.
 
 ## Events
 
@@ -163,7 +163,7 @@
 
 ```
   0: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
+  1: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
     → "And now there is talk of sending a party to investigate the Altepa Desert, but you should talk to Drake Fang in the Zeruhn Mines about that."
   2: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0025 [0x21] END_EVENT

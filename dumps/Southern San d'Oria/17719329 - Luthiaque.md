@@ -36,13 +36,13 @@
 |       8 | 0x20F7      |        8439 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x20F8      |        8440 |
-|      11 | 0x2ECE      |       11982 |
+|      11 | 0x2ED7      |       11991 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x2EED      |       12013 |
-|      14 | 0x2EEE      |       12014 |
-|      15 | 0x2EEF      |       12015 |
-|      16 | 0x2F00      |       12032 |
-|      17 | 0x2F01      |       12033 |
+|      13 | 0x2EF6      |       12022 |
+|      14 | 0x2EF7      |       12023 |
+|      15 | 0x2EF8      |       12024 |
+|      16 | 0x2F09      |       12041 |
+|      17 | 0x2F0A      |       12042 |
 |      18 | 0x208E      |        8334 |
 |      19 | 0x208F      |        8335 |
 |      20 | 0x2090      |        8336 |
@@ -69,12 +69,12 @@
 - **8438**: Here in the center lies Victory Square. West is Pikeman's Way and Watchdog Alley, where you'll find the Tanners' Guild and Taumila's Sundries.
 - **8439**: East is Cavalry Way and Squire Alley, with armor and weapons shops, and a tavern. The gate at the end leads to the housing area.
 - **8440**: Is that so? Pity.
-- **11982**: Ask if this person is the chick's owner? [Yes./No.]
-- **12013**: You...you have my chocobo?
-- **12014**: May Altana's blessings be upon you! I was teaching the little one to find his way home when I lost the poor creature.
-- **12015**: You are raising a chocobo yourself, are you not? In that case, let me teach you a story I often tell my chocobo...
-- **12032**: You say you have my chocobo?
-- **12033**: My chocobo would never get lost. I trained him to find his way home all by himself!
+- **11991**: Ask if this person is the chick's owner? [Yes./No.]
+- **12022**: You...you have my chocobo?
+- **12023**: May Altana's blessings be upon you! I was teaching the little one to find his way home when I lost the poor creature.
+- **12024**: You are raising a chocobo yourself, are you not? In that case, let me teach you a story I often tell my chocobo...
+- **12041**: You say you have my chocobo?
+- **12042**: My chocobo would never get lost. I trained him to find his way home all by himself!
 
 ## Events
 
@@ -177,7 +177,7 @@ SUBROUTINE_0073:
  32: 0x0084 [0x03] Work_Zone[1] = 0*
  33: 0x0089 [0x01] GOTO 0x0105
  34: 0x008C [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 35: 0x008D [0x24] CREATE_DIALOG(message_id=11982*, default_option=1*, option_flags=0*)
+ 35: 0x008D [0x24] CREATE_DIALOG(message_id=11991*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
  36: 0x0094 [0x25] WAIT_DIALOG_SELECT()
  37: 0x0095 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F5
@@ -185,23 +185,23 @@ SUBROUTINE_0073:
  39: 0x00A2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  40: 0x00A4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  41: 0x00A6 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x00DB
- 42: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12013*)
+ 42: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "You...you have my chocobo?"
  43: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 45: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12014*)
+ 45: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12023*)
     → "May Altana's blessings be upon you! I was teaching the little one to find his way home when I lost the poor creature."
  46: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x00C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 48: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12015*)
+ 48: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12024*)
     → "You are raising a chocobo yourself, are you not? In that case, let me teach you a story I often tell my chocobo..."
  49: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x00D8 [0x01] GOTO 0x00F2
- 51: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
+ 51: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=12041*)
     → "You say you have my chocobo?"
  52: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x00DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 54: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=12033*)
+ 54: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=12042*)
     → "My chocobo would never get lost. I trained him to find his way home all by himself!"
  55: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

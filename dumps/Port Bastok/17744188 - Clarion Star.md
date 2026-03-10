@@ -62,56 +62,56 @@
 |       9 | 0x0013      |          19 |
 |      10 | 0x000C      |          12 |
 |      11 | 0x001D      |          29 |
-|      12 | 0x347C      |       13436 |
+|      12 | 0x3486      |       13446 |
 |      13 | 0x0001      |           1 |
-|      14 | 0x347B      |       13435 |
-|      15 | 0x347D      |       13437 |
-|      16 | 0x347E      |       13438 |
-|      17 | 0x347F      |       13439 |
-|      18 | 0x3480      |       13440 |
-|      19 | 0x3481      |       13441 |
-|      20 | 0x3482      |       13442 |
-|      21 | 0x3483      |       13443 |
+|      14 | 0x3485      |       13445 |
+|      15 | 0x3487      |       13447 |
+|      16 | 0x3488      |       13448 |
+|      17 | 0x3489      |       13449 |
+|      18 | 0x348A      |       13450 |
+|      19 | 0x348B      |       13451 |
+|      20 | 0x348C      |       13452 |
+|      21 | 0x348D      |       13453 |
 |      22 | 0x0000      |           0 |
-|      23 | 0x3485      |       13445 |
-|      24 | 0x3486      |       13446 |
-|      25 | 0x3487      |       13447 |
-|      26 | 0x3488      |       13448 |
-|      27 | 0x3489      |       13449 |
-|      28 | 0x348A      |       13450 |
-|      29 | 0x348B      |       13451 |
-|      30 | 0x348C      |       13452 |
-|      31 | 0x348D      |       13453 |
-|      32 | 0x348F      |       13455 |
-|      33 | 0x3490      |       13456 |
-|      34 | 0x3491      |       13457 |
-|      35 | 0x3492      |       13458 |
-|      36 | 0x3493      |       13459 |
+|      23 | 0x348F      |       13455 |
+|      24 | 0x3490      |       13456 |
+|      25 | 0x3491      |       13457 |
+|      26 | 0x3492      |       13458 |
+|      27 | 0x3493      |       13459 |
+|      28 | 0x3494      |       13460 |
+|      29 | 0x3495      |       13461 |
+|      30 | 0x3496      |       13462 |
+|      31 | 0x3497      |       13463 |
+|      32 | 0x3499      |       13465 |
+|      33 | 0x349A      |       13466 |
+|      34 | 0x349B      |       13467 |
+|      35 | 0x349C      |       13468 |
+|      36 | 0x349D      |       13469 |
 |      37 | 0x0002      |           2 |
-|      38 | 0x348E      |       13454 |
-|      39 | 0x3484      |       13444 |
-|      40 | 0x3494      |       13460 |
-|      41 | 0x3495      |       13461 |
-|      42 | 0x3496      |       13462 |
-|      43 | 0x3497      |       13463 |
-|      44 | 0x3498      |       13464 |
-|      45 | 0x3499      |       13465 |
-|      46 | 0x349A      |       13466 |
-|      47 | 0x349B      |       13467 |
-|      48 | 0x349C      |       13468 |
-|      49 | 0x349D      |       13469 |
-|      50 | 0x349E      |       13470 |
-|      51 | 0x349F      |       13471 |
-|      52 | 0x34A0      |       13472 |
-|      53 | 0x34A1      |       13473 |
-|      54 | 0x34A2      |       13474 |
-|      55 | 0x34A3      |       13475 |
-|      56 | 0x34A4      |       13476 |
-|      57 | 0x34A5      |       13477 |
+|      38 | 0x3498      |       13464 |
+|      39 | 0x348E      |       13454 |
+|      40 | 0x349E      |       13470 |
+|      41 | 0x349F      |       13471 |
+|      42 | 0x34A0      |       13472 |
+|      43 | 0x34A1      |       13473 |
+|      44 | 0x34A2      |       13474 |
+|      45 | 0x34A3      |       13475 |
+|      46 | 0x34A4      |       13476 |
+|      47 | 0x34A5      |       13477 |
+|      48 | 0x34A6      |       13478 |
+|      49 | 0x34A7      |       13479 |
+|      50 | 0x34A8      |       13480 |
+|      51 | 0x34A9      |       13481 |
+|      52 | 0x34AA      |       13482 |
+|      53 | 0x34AB      |       13483 |
+|      54 | 0x34AC      |       13484 |
+|      55 | 0x34AD      |       13485 |
+|      56 | 0x34AE      |       13486 |
+|      57 | 0x34AF      |       13487 |
 |      58 | 0x0003      |           3 |
 |      59 | 0x0064      |         100 |
-|      60 | 0x34A8      |       13480 |
-|      61 | 0x34A6      |       13478 |
+|      60 | 0x34B2      |       13490 |
+|      61 | 0x34B0      |       13488 |
 |      62 | 0x0009      |           9 |
 |      63 | 0x0005      |           5 |
 |      64 | 0x0008      |           8 |
@@ -122,47 +122,47 @@
 |      69 | 0x0011      |          17 |
 |      70 | 0x0012      |          18 |
 |      71 | 0x0014      |          20 |
-|      72 | 0x34A7      |       13479 |
-|      73 | 0x34A9      |       13481 |
-|      74 | 0x34AA      |       13482 |
-|      75 | 0x34AB      |       13483 |
-|      76 | 0x34AC      |       13484 |
-|      77 | 0x34B8      |       13496 |
-|      78 | 0x34AD      |       13485 |
-|      79 | 0x34AE      |       13486 |
-|      80 | 0x34AF      |       13487 |
-|      81 | 0x34B0      |       13488 |
-|      82 | 0x34B1      |       13489 |
-|      83 | 0x34B9      |       13497 |
+|      72 | 0x34B1      |       13489 |
+|      73 | 0x34B3      |       13491 |
+|      74 | 0x34B4      |       13492 |
+|      75 | 0x34B5      |       13493 |
+|      76 | 0x34B6      |       13494 |
+|      77 | 0x34C2      |       13506 |
+|      78 | 0x34B7      |       13495 |
+|      79 | 0x34B8      |       13496 |
+|      80 | 0x34B9      |       13497 |
+|      81 | 0x34BA      |       13498 |
+|      82 | 0x34BB      |       13499 |
+|      83 | 0x34C3      |       13507 |
 |      84 | 0x00C8      |         200 |
 |      85 | 0x00AE      |         174 |
 |      86 | 0x00B0      |         176 |
 |      87 | 0x012C      |         300 |
-|      88 | 0x34BA      |       13498 |
-|      89 | 0x34BB      |       13499 |
+|      88 | 0x34C4      |       13508 |
+|      89 | 0x34C5      |       13509 |
 |      90 | 0x00C9      |         201 |
-|      91 | 0x34B2      |       13490 |
-|      92 | 0x34B3      |       13491 |
-|      93 | 0x34B4      |       13492 |
-|      94 | 0x34B5      |       13493 |
+|      91 | 0x34BC      |       13500 |
+|      92 | 0x34BD      |       13501 |
+|      93 | 0x34BE      |       13502 |
+|      94 | 0x34BF      |       13503 |
 |      95 | 0x145EB     |       83435 |
 |      96 | 0xFFFF96EE  |  4294940398 |
 |      97 | 0x1D4B      |        7499 |
 |      98 | 0x0A6B      |        2667 |
 |      99 | 0x0065      |         101 |
 |     100 | 0x001E      |          30 |
-|     101 | 0x34B6      |       13494 |
-|     102 | 0x34B7      |       13495 |
+|     101 | 0x34C0      |       13504 |
+|     102 | 0x34C1      |       13505 |
 |     103 | 0x0078      |         120 |
-|     104 | 0x34BE      |       13502 |
-|     105 | 0x34BF      |       13503 |
-|     106 | 0x34C0      |       13504 |
-|     107 | 0x34C1      |       13505 |
-|     108 | 0x34C2      |       13506 |
-|     109 | 0x34C3      |       13507 |
-|     110 | 0x34C4      |       13508 |
-|     111 | 0x34BC      |       13500 |
-|     112 | 0x34BD      |       13501 |
+|     104 | 0x34C8      |       13512 |
+|     105 | 0x34C9      |       13513 |
+|     106 | 0x34CA      |       13514 |
+|     107 | 0x34CB      |       13515 |
+|     108 | 0x34CC      |       13516 |
+|     109 | 0x34CD      |       13517 |
+|     110 | 0x34CE      |       13518 |
+|     111 | 0x34C6      |       13510 |
+|     112 | 0x34C7      |       13511 |
 |     113 | 0x06C3      |        1731 |
 |     114 | 0x2396D     |      145773 |
 |     115 | 0xFFFCCBB0  |  4294757296 |
@@ -200,80 +200,80 @@
 
 ## String References
 
-- **13435**: Hey! You there! I've got a proposition of sorts for [a fresh-faced/an able-bodied/a world-class] adventurer such as yourself!
-- **13436**: You can call me Clarion Star. I've come from Jeuno, the lovely city in the northeast that connects the Quon and Mindartia continents.
-- **13437**: Specifically, I'm a representative of sorts from the Jeuno Institute of Magical Studies. You could call me a headhunter!
-- **13438**: Bwahaha! And the heads I am hunting today are those of bright-eyed explorers like yourself!
-- **13439**: So here's the deal. Not too long ago, the institute held an international symposium of sorts, at which we announced the development of a fascinatingly useful new type of magic.
-- **13440**: We made it available for everyone to utilize, and so we are trying it out here in Bastok and other places throughout Vana'diel.
-- **13441**: We've chosen to call the new magic "Trust," and as an official delegate of the institute, I want adventurers of your caliber to be the lucky first participants.
-- **13442**: So? What about it? Want to try it out?
-- **13443**: Try out the new magic? [What have I got to lose?/Magic scares me.]
-- **13444**: An adventurer of sorts scared of magic? Pffft. Your loss, bud.
-- **13445**: That's the kind of spunk I like!
-- **13446**: You're surely aware that Bastok is no stranger to developing new technologies, and as such Cid and the Mythril Musketeers are conducting research of sorts into the application of this new magic.
-- **13447**: You know how they are--always at odds with the Beastman Confederate. They think that Trust might be able to help "bolster their forces," they say.
-- **13448**: However! Not just anyone can use Trust.
-- **13449**: As you can imagine, the institute is thus collecting data of sorts in San d'Oria and Windurst, too, trying to get as many people as possible to participate.
-- **13450**: It should come as no surprise, then, that we have other representatives in those two nations. If you'd rather head over there, then we've got nothing more to discuss...
-- **13451**: But I'm sure the Mythril Musketeers here would appreciate any help you could give 'em.
-- **13452**: Let's cut to the quick. Helping them earns you the aid of a powerful warrior of sorts, which can only help you in your travels.
-- **13453**: Assist in Trust endeavors in Bastok? [Of course./No, thank you.]
-- **13454**: If you're dead set on going elsewhere, I can't stop you...but I'm right here, and surely you'd rather not take a long journey.
-- **13455**: Bwahaha! Perfect response!
-- **13456**: [If that's the case,/Okay! So] let's get right to it. Before we go any further, let me give you this.
-- **13457**: Your first task of sorts is to speak with Naji of the Mythril Musketeers, in the Metalworks. He can guide you further.
-- **13458**: Do you know where it is? Just head up the staircase behind me and cross the bridge to the west. Someone in the markets just past there can guide you further.
-- **13459**: Take the lift up to the second floor, where you'll find him waiting by the staircase that leads to the president's office. No one across the land is as faithful or skilled a guard as he.
-- **13460**: How are you finding those alter egos? Need an explanation of sorts as to how they work?
-- **13461**: Inquire about what? [What Trust is./What happens when one uses Trust./How to learn new Trust spells./Whereabouts of Trust participants./Nothing at the moment.]
-- **13462**: Trust is a new category of magic developed and announced by the Jeuno Institute for Magical Studies.
-- **13463**: Though it is a magic of sorts, unlike ordinary spells it does not require mana. Instead, it draws on the power of trust, friendship, and [brotherly/sisterly] love.
-- **13464**: Friendship, of course, crosses all boundaries, so Trust magic can be used regardless of your job.
-- **13465**: But for the love of all that is holy, don't go around bonding with alter egos in cities. It'll confuse everyone.
-- **13466**: Using Trust magic calls forth an alter ego of someone you have formed a strong personal bond with.
-- **13467**: They say friendships work best as a relationship between equals. Thus, the alter ego is only as strong as the person who willed it into existence.
-- **13468**: The alter ego will gladly fight by your side, but you will be unable to issue it direct orders.
-- **13469**: Research of sorts is ongoing, but it might take a while for any concrete progress to be made.
-- **13470**: When you wish to release an alter ego from service, you only need speak to it.
-- **13471**: It goes without saying that if an alter ego falls in battle, it will vanish into thin air. But don't fret--you can summon it again once a certain period of time has passed.
-- **13472**: Trust magic is quite aptly named. It calls forth an alter ego of sorts using the power of trust, friendship, and [brotherly/sisterly] love.
-- **13473**: To employ its powers, you must first find and befriend one who is allowed to harness them.
-- **13474**: If they do not listen to your request, then perhaps they don't think highly enough of you. Get the town talking about your deeds and I'm sure they'll give you another chance. If they still won't listen--well, you just come back to me.
-- **13475**: Of course, they still might not want to be friends. Maybe you're like me and doomed to be forever alone! Bwahaha! <Sob>
-- **13476**: Oh ho[/, I almost forgot]! There is another way to utilize this magic. There are ongoing investigations of sorts into how to call forth an alter ego without directly meeting the person.
-- **13477**: It takes a little something special, but if you find a scroll with this exceptional ability, all you need do is give it to me.
-- **13478**: Hang on just a tick. Let's take a look...
-- **13479**: [Excenmille/Naji/Kupipi/Curilla/Ayame/Nanaa Mihgo/Trion/Volker/Ajido-Marujido/Iron Eater/Prishe/Ulmia/Shikaree Z/Cherukiki/Gadalar/Zazarg/Nashmeira/Gessho/Ingrid/Maat/Arciela/Chacharoon] can be found in [San d'Oria/Bastok/Windurst/Jeuno/Tavnazia/Aht Urhgan/Adoulin/the Mog Gardens].
-- **13480**: Wish I had new information of sorts to share with you, but I don't!
-- **13481**: I can't believe that you got your hands on $3! Amazing!
-- **13482**: I can't believe such a celebrity would want to participate!
-- **13483**: This is all thanks to people like you who have succeeded in calling forth alter egos.
-- **13484**: Just let me analyze this data for a...what do you mean, "hurry up"?
-- **13485**: The Trust initiative has seen some outstanding breakthroughs in recent days thanks to the tireless dedication of those like yourself.
-- **13486**: Your bonds with that person far exceed anything we have ever seen!
-- **13487**: I could espouse for hours about how lucky...what do you mean, "hurry up"?
-- **13488**: Who on Vana'diel is this person? I've never heard of... Ugh. And to think I call myself a fine representative of the institute.
-- **13489**: Hmmmmmm? Okay, okay, I'll make it snappy!
-- **13490**: A curious case, this one...
-- **13491**: Some ethereal force is preventing the cipher from displaying its true potential.
-- **13492**: You cannot read this cipher due to an event occurring in Rhapsodies of Vana'diel.
-- **13493**: This cipher appears to be the real deal, but damned if I know who it'll actually call forth. Let's give it a try!
-- **13494**: ...An apparition, you say?
-- **13495**: Ah, the fresh face of youth as they acquire a new alter ego. Never shall I tire of it.
-- **13496**: I'll let you in on something--the Trust initiative is being spread beyond the five races...with some very interesting results.
-- **13497**: Close your eyes and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow.
-- **13498**: What an amazing success of sorts!
-- **13499**: So many of our trials ended in failure. I kept hoping it might work...but this--this is beyond my wildest dreams!
-- **13500**: H-how did you know that it's called "Trust"!? Were you at the symposium?
-- **13501**: Ohhh, I see. You got a lesson of sorts in one of the other nations. This makes it simple. How's about undertaking Trust experiments here in Bastok?
-- **13502**: Impressive! It's no small feat to acquire $3!
-- **13503**: Doctor Monberaux is a powerful person of sorts in Jeuno. Having an alter ego of him will make your journey that much easier.
-- **13504**: The good doctor was a bit surprised to be paid a visit by the Jeuno Institute of Magical Studies. I think he expected a high-ranking friend of his to be chosen first.
-- **13505**: You see, his friend Wolf... No, I don't suppose it's our place to talk about that.
-- **13506**: Close your eyes while picturing Doctor Monberaux and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow.
-- **13507**: It's a smashing success!
-- **13508**: Just as the Institute of Magical Studies suspected, Doctor Monberaux is an excellent candidate of sorts for using Trust magic. This is excellent news!
+- **13445**: Hey! You there! I've got a proposition of sorts for [a fresh-faced/an able-bodied/a world-class] adventurer such as yourself!
+- **13446**: You can call me Clarion Star. I've come from Jeuno, the lovely city in the northeast that connects the Quon and Mindartia continents.
+- **13447**: Specifically, I'm a representative of sorts from the Jeuno Institute of Magical Studies. You could call me a headhunter!
+- **13448**: Bwahaha! And the heads I am hunting today are those of bright-eyed explorers like yourself!
+- **13449**: So here's the deal. Not too long ago, the institute held an international symposium of sorts, at which we announced the development of a fascinatingly useful new type of magic.
+- **13450**: We made it available for everyone to utilize, and so we are trying it out here in Bastok and other places throughout Vana'diel.
+- **13451**: We've chosen to call the new magic "Trust," and as an official delegate of the institute, I want adventurers of your caliber to be the lucky first participants.
+- **13452**: So? What about it? Want to try it out?
+- **13453**: Try out the new magic? [What have I got to lose?/Magic scares me.]
+- **13454**: An adventurer of sorts scared of magic? Pffft. Your loss, bud.
+- **13455**: That's the kind of spunk I like!
+- **13456**: You're surely aware that Bastok is no stranger to developing new technologies, and as such Cid and the Mythril Musketeers are conducting research of sorts into the application of this new magic.
+- **13457**: You know how they are--always at odds with the Beastman Confederate. They think that Trust might be able to help "bolster their forces," they say.
+- **13458**: However! Not just anyone can use Trust.
+- **13459**: As you can imagine, the institute is thus collecting data of sorts in San d'Oria and Windurst, too, trying to get as many people as possible to participate.
+- **13460**: It should come as no surprise, then, that we have other representatives in those two nations. If you'd rather head over there, then we've got nothing more to discuss...
+- **13461**: But I'm sure the Mythril Musketeers here would appreciate any help you could give 'em.
+- **13462**: Let's cut to the quick. Helping them earns you the aid of a powerful warrior of sorts, which can only help you in your travels.
+- **13463**: Assist in Trust endeavors in Bastok? [Of course./No, thank you.]
+- **13464**: If you're dead set on going elsewhere, I can't stop you...but I'm right here, and surely you'd rather not take a long journey.
+- **13465**: Bwahaha! Perfect response!
+- **13466**: [If that's the case,/Okay! So] let's get right to it. Before we go any further, let me give you this.
+- **13467**: Your first task of sorts is to speak with Naji of the Mythril Musketeers, in the Metalworks. He can guide you further.
+- **13468**: Do you know where it is? Just head up the staircase behind me and cross the bridge to the west. Someone in the markets just past there can guide you further.
+- **13469**: Take the lift up to the second floor, where you'll find him waiting by the staircase that leads to the president's office. No one across the land is as faithful or skilled a guard as he.
+- **13470**: How are you finding those alter egos? Need an explanation of sorts as to how they work?
+- **13471**: Inquire about what? [What Trust is./What happens when one uses Trust./How to learn new Trust spells./Whereabouts of Trust participants./Nothing at the moment.]
+- **13472**: Trust is a new category of magic developed and announced by the Jeuno Institute for Magical Studies.
+- **13473**: Though it is a magic of sorts, unlike ordinary spells it does not require mana. Instead, it draws on the power of trust, friendship, and [brotherly/sisterly] love.
+- **13474**: Friendship, of course, crosses all boundaries, so Trust magic can be used regardless of your job.
+- **13475**: But for the love of all that is holy, don't go around bonding with alter egos in cities. It'll confuse everyone.
+- **13476**: Using Trust magic calls forth an alter ego of someone you have formed a strong personal bond with.
+- **13477**: They say friendships work best as a relationship between equals. Thus, the alter ego is only as strong as the person who willed it into existence.
+- **13478**: The alter ego will gladly fight by your side, but you will be unable to issue it direct orders.
+- **13479**: Research of sorts is ongoing, but it might take a while for any concrete progress to be made.
+- **13480**: When you wish to release an alter ego from service, you only need speak to it.
+- **13481**: It goes without saying that if an alter ego falls in battle, it will vanish into thin air. But don't fret--you can summon it again once a certain period of time has passed.
+- **13482**: Trust magic is quite aptly named. It calls forth an alter ego of sorts using the power of trust, friendship, and [brotherly/sisterly] love.
+- **13483**: To employ its powers, you must first find and befriend one who is allowed to harness them.
+- **13484**: If they do not listen to your request, then perhaps they don't think highly enough of you. Get the town talking about your deeds and I'm sure they'll give you another chance. If they still won't listen--well, you just come back to me.
+- **13485**: Of course, they still might not want to be friends. Maybe you're like me and doomed to be forever alone! Bwahaha! <Sob>
+- **13486**: Oh ho[/, I almost forgot]! There is another way to utilize this magic. There are ongoing investigations of sorts into how to call forth an alter ego without directly meeting the person.
+- **13487**: It takes a little something special, but if you find a scroll with this exceptional ability, all you need do is give it to me.
+- **13488**: Hang on just a tick. Let's take a look...
+- **13489**: [Excenmille/Naji/Kupipi/Curilla/Ayame/Nanaa Mihgo/Trion/Volker/Ajido-Marujido/Iron Eater/Prishe/Ulmia/Shikaree Z/Cherukiki/Gadalar/Zazarg/Nashmeira/Gessho/Ingrid/Maat/Arciela/Chacharoon] can be found in [San d'Oria/Bastok/Windurst/Jeuno/Tavnazia/Aht Urhgan/Adoulin/the Mog Gardens].
+- **13490**: Wish I had new information of sorts to share with you, but I don't!
+- **13491**: I can't believe that you got your hands on $3! Amazing!
+- **13492**: I can't believe such a celebrity would want to participate!
+- **13493**: This is all thanks to people like you who have succeeded in calling forth alter egos.
+- **13494**: Just let me analyze this data for a...what do you mean, "hurry up"?
+- **13495**: The Trust initiative has seen some outstanding breakthroughs in recent days thanks to the tireless dedication of those like yourself.
+- **13496**: Your bonds with that person far exceed anything we have ever seen!
+- **13497**: I could espouse for hours about how lucky...what do you mean, "hurry up"?
+- **13498**: Who on Vana'diel is this person? I've never heard of... Ugh. And to think I call myself a fine representative of the institute.
+- **13499**: Hmmmmmm? Okay, okay, I'll make it snappy!
+- **13500**: A curious case, this one...
+- **13501**: Some ethereal force is preventing the cipher from displaying its true potential.
+- **13502**: You cannot read this cipher due to an event occurring in Rhapsodies of Vana'diel.
+- **13503**: This cipher appears to be the real deal, but damned if I know who it'll actually call forth. Let's give it a try!
+- **13504**: ...An apparition, you say?
+- **13505**: Ah, the fresh face of youth as they acquire a new alter ego. Never shall I tire of it.
+- **13506**: I'll let you in on something--the Trust initiative is being spread beyond the five races...with some very interesting results.
+- **13507**: Close your eyes and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow.
+- **13508**: What an amazing success of sorts!
+- **13509**: So many of our trials ended in failure. I kept hoping it might work...but this--this is beyond my wildest dreams!
+- **13510**: H-how did you know that it's called "Trust"!? Were you at the symposium?
+- **13511**: Ohhh, I see. You got a lesson of sorts in one of the other nations. This makes it simple. How's about undertaking Trust experiments here in Bastok?
+- **13512**: Impressive! It's no small feat to acquire $3!
+- **13513**: Doctor Monberaux is a powerful person of sorts in Jeuno. Having an alter ego of him will make your journey that much easier.
+- **13514**: The good doctor was a bit surprised to be paid a visit by the Jeuno Institute of Magical Studies. I think he expected a high-ranking friend of his to be chosen first.
+- **13515**: You see, his friend Wolf... No, I don't suppose it's our place to talk about that.
+- **13516**: Close your eyes while picturing Doctor Monberaux and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow.
+- **13517**: It's a smashing success!
+- **13518**: Just as the Institute of Magical Studies suspected, Doctor Monberaux is an excellent candidate of sorts for using Trust magic. This is excellent news!
 
 ## Events
 
@@ -846,7 +846,7 @@
   1: 0x0145 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0146 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0147 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
-  4: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=13436*)
+  4: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=13446*)
     → "You can call me Clarion Star. I've come from Jeuno, the lovely city in the northeast that connects the Quon and Mindartia continents."
   5: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0152 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
@@ -905,101 +905,101 @@
   3: 0x016C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x016D [0x03] Work_Zone[1] = 1*
   5: 0x0172 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
-  6: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=13435*)
+  6: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=13445*)
     → "Hey! You there! I've got a proposition of sorts for [a fresh-faced/an able-bodied/a world-class] adventurer such as yourself!"
   7: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=13436*)
+  8: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=13446*)
     → "You can call me Clarion Star. I've come from Jeuno, the lovely city in the northeast that connects the Quon and Mindartia continents."
   9: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0181 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
  11: 0x0188 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 12: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=13437*)
+ 12: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=13447*)
     → "Specifically, I'm a representative of sorts from the Jeuno Institute of Magical Studies. You could call me a headhunter!"
  13: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0193 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x04)
  15: 0x019A [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x10)
- 16: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13438*)
+ 16: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13448*)
     → "Bwahaha! And the heads I am hunting today are those of bright-eyed explorers like yourself!"
  17: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x01A5 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
  19: 0x01AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x07)
- 20: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13439*)
+ 20: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13449*)
     → "So here's the deal. Not too long ago, the institute held an international symposium of sorts, at which we announced the development of a fascinatingly useful new type of magic."
  21: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13440*)
+ 22: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13450*)
     → "We made it available for everyone to utilize, and so we are trying it out here in Bastok and other places throughout Vana'diel."
  23: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x01BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x08)
  25: 0x01C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x09)
- 26: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13441*)
+ 26: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13451*)
     → "We've chosen to call the new magic "Trust," and as an official delegate of the institute, I want adventurers of your caliber to be the lucky first participants."
  27: 0x01CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=13442*)
+ 28: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=13452*)
     → "So? What about it? Want to try it out?"
  29: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x01D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0A)
- 31: 0x01D7 [0x24] CREATE_DIALOG(message_id=13443*, default_option=0*, option_flags=0*)
+ 31: 0x01D7 [0x24] CREATE_DIALOG(message_id=13453*, default_option=0*, option_flags=0*)
     → "Try out the new magic? [What have I got to lose?/Magic scares me.]"
  32: 0x01DE [0x25] WAIT_DIALOG_SELECT()
  33: 0x01DF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02CA
  34: 0x01E7 [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0F)
- 35: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=13445*)
+ 35: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=13455*)
     → "That's the kind of spunk I like!"
  36: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13446*)
+ 37: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13456*)
     → "You're surely aware that Bastok is no stranger to developing new technologies, and as such Cid and the Mythril Musketeers are conducting research of sorts into the application of this new magic."
  38: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x01F6 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
- 40: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=13447*)
+ 40: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=13457*)
     → "You know how they are--always at odds with the Beastman Confederate. They think that Trust might be able to help "bolster their forces," they say."
  41: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0200 [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0D)
- 43: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=13448*)
+ 43: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=13458*)
     → "However! Not just anyone can use Trust."
  44: 0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=13449*)
+ 45: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=13459*)
     → "As you can imagine, the institute is thus collecting data of sorts in San d'Oria and Windurst, too, trying to get as many people as possible to participate."
  46: 0x020E [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x020F [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
  48: 0x0215 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x07)
- 49: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=13450*)
+ 49: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=13460*)
     → "It should come as no surprise, then, that we have other representatives in those two nations. If you'd rather head over there, then we've got nothing more to discuss..."
  50: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0220 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x08)
  52: 0x0227 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x09)
- 53: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=13451*)
+ 53: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=13461*)
     → "But I'm sure the Mythril Musketeers here would appreciate any help you could give 'em."
  54: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=13452*)
+ 55: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=13462*)
     → "Let's cut to the quick. Helping them earns you the aid of a powerful warrior of sorts, which can only help you in your travels."
  56: 0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0236 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0A)
- 58: 0x023D [0x24] CREATE_DIALOG(message_id=13453*, default_option=0*, option_flags=0*)
+ 58: 0x023D [0x24] CREATE_DIALOG(message_id=13463*, default_option=0*, option_flags=0*)
     → "Assist in Trust endeavors in Bastok? [Of course./No, thank you.]"
  59: 0x0244 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0245 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A6
  61: 0x024D [0x42] SET_CLI_EVENT_CANCEL_DATA()
  62: 0x024E [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x10)
- 63: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=13455*)
+ 63: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=13465*)
     → "Bwahaha! Perfect response!"
  64: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0259 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
  66: 0x025F [0x03] Work_Zone[4] = 0*
  67: 0x0264 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x05)
- 68: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=13456*)
+ 68: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=13466*)
     → "[If that's the case,/Okay! So] let's get right to it. Before we go any further, let me give you this."
  69: 0x026E [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x026F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x06)
  71: 0x0276 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
- 72: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=13457*)
+ 72: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=13467*)
     → "Your first task of sorts is to speak with Naji of the Mythril Musketeers, in the Metalworks. He can guide you further."
  73: 0x0280 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=13458*)
+ 74: 0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=13468*)
     → "Do you know where it is? Just head up the staircase behind me and cross the bridge to the west. Someone in the markets just past there can guide you further."
  75: 0x0284 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0285 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
  77: 0x028C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 78: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=13459*)
+ 78: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=13469*)
     → "Take the lift up to the second floor, where you'll find him waiting by the staircase that leads to the president's office. No one across the land is as faithful or skilled a guard as he."
  79: 0x0296 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0297 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x04)
@@ -1007,7 +1007,7 @@
  82: 0x02A3 [0x01] GOTO 0x02C7
  83: 0x02A6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02C7
  84: 0x02AE [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x11)
- 85: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13454*)
+ 85: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13464*)
     → "If you're dead set on going elsewhere, I can't stop you...but I'm right here, and surely you'd rather not take a long journey."
  86: 0x02B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x02B9 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
@@ -1018,7 +1018,7 @@ SUBROUTINE_02C7:
  90: 0x02C7 [0x01] GOTO 0x02EB
  91: 0x02CA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02EB
  92: 0x02D2 [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x11)
- 93: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13444*)
+ 93: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13454*)
     → "An adventurer of sorts scared of magic? Pffft. Your loss, bud."
  94: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x02DD [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
@@ -1058,15 +1058,15 @@ SUBROUTINE_02EB:
   1: 0x02F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
-  4: 0x02FD [0x1D] PRINT_EVENT_MESSAGE(message_id=13457*)
+  4: 0x02FD [0x1D] PRINT_EVENT_MESSAGE(message_id=13467*)
     → "Your first task of sorts is to speak with Naji of the Mythril Musketeers, in the Metalworks. He can guide you further."
   5: 0x0300 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=13458*)
+  6: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=13468*)
     → "Do you know where it is? Just head up the staircase behind me and cross the bridge to the west. Someone in the markets just past there can guide you further."
   7: 0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0305 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
   9: 0x030C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 10: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=13459*)
+ 10: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=13469*)
     → "Take the lift up to the second floor, where you'll find him waiting by the staircase that leads to the president's office. No one across the land is as faithful or skilled a guard as he."
  11: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0317 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x04)
@@ -1155,7 +1155,7 @@ SUBROUTINE_02EB:
   3: 0x0331 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0332 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[6]
   5: 0x0337 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
-  6: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=13460*)
+  6: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=13470*)
     → "How are you finding those alter egos? Need an explanation of sorts as to how they work?"
   7: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0340 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0350
@@ -1164,34 +1164,34 @@ SUBROUTINE_02EB:
  11: 0x0350 [0x03] ExtData[1]->WorkLocal[3] = 12*
 
 SUBROUTINE_0355:
- 12: 0x0355 [0x24] CREATE_DIALOG(message_id=13461*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+ 12: 0x0355 [0x24] CREATE_DIALOG(message_id=13471*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "Inquire about what? [What Trust is./What happens when one uses Trust./How to learn new Trust spells./Whereabouts of Trust participants./Nothing at the moment.]"
  13: 0x035C [0x25] WAIT_DIALOG_SELECT()
  14: 0x035D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B1
  15: 0x0365 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
- 16: 0x036C [0x1D] PRINT_EVENT_MESSAGE(message_id=13462*)
+ 16: 0x036C [0x1D] PRINT_EVENT_MESSAGE(message_id=13472*)
     → "Trust is a new category of magic developed and announced by the Jeuno Institute for Magical Studies."
  17: 0x036F [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0370 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
  19: 0x0377 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 20: 0x037E [0x1D] PRINT_EVENT_MESSAGE(message_id=13463*)
+ 20: 0x037E [0x1D] PRINT_EVENT_MESSAGE(message_id=13473*)
     → "Though it is a magic of sorts, unlike ordinary spells it does not require mana. Instead, it draws on the power of trust, friendship, and [brotherly/sisterly] love."
  21: 0x0381 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0382 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x04)
  23: 0x0389 [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x10)
- 24: 0x0390 [0x1D] PRINT_EVENT_MESSAGE(message_id=13464*)
+ 24: 0x0390 [0x1D] PRINT_EVENT_MESSAGE(message_id=13474*)
     → "Friendship, of course, crosses all boundaries, so Trust magic can be used regardless of your job."
  25: 0x0393 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0394 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
  27: 0x039A [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0C)
- 28: 0x03A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13465*)
+ 28: 0x03A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13475*)
     → "But for the love of all that is holy, don't go around bonding with alter egos in cities. It'll confuse everyone."
  29: 0x03A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x03A5 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
  31: 0x03AB [0x01] GOTO 0x0355
 
 SUBROUTINE_066D:
- 32: 0x066D [0x1D] PRINT_EVENT_MESSAGE(message_id=13479*)
+ 32: 0x066D [0x1D] PRINT_EVENT_MESSAGE(message_id=13489*)
     → "[Excenmille/Naji/Kupipi/Curilla/Ayame/Nanaa Mihgo/Trion/Volker/Ajido-Marujido/Iron Eater/Prishe/Ulmia/Shikaree Z/Cherukiki/Gadalar/Zazarg/Nashmeira/Gessho/Ingrid/Maat/Arciela/Chacharoon] can be found in [San d'Oria/Bastok/Windurst/Jeuno/Tavnazia/Aht Urhgan/Adoulin/the Mog Gardens]."
  33: 0x0670 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0671 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x08)
@@ -1266,65 +1266,65 @@ SUBROUTINE_0690:
   5: 0x06AD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x06AE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x06AF [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0F)
-  8: 0x06B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13481*)
+  8: 0x06B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13491*)
     → "I can't believe that you got your hands on $3! Amazing!"
   9: 0x06B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x06BA [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
  11: 0x06C0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x06F3
- 12: 0x06C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13482*)
+ 12: 0x06C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13492*)
     → "I can't believe such a celebrity would want to participate!"
  13: 0x06CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x06CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
- 15: 0x06D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13483*)
+ 15: 0x06D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13493*)
     → "This is all thanks to people like you who have succeeded in calling forth alter egos."
  16: 0x06D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x06D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
  18: 0x06DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 19: 0x06E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13484*)
+ 19: 0x06E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13494*)
     → "Just let me analyze this data for a...what do you mean, "hurry up"?"
  20: 0x06E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x06E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x04)
  22: 0x06F0 [0x01] GOTO 0x0779
  23: 0x06F3 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0722
  24: 0x06FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
- 25: 0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=13496*)
+ 25: 0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=13506*)
     → "I'll let you in on something--the Trust initiative is being spread beyond the five races...with some very interesting results."
  26: 0x0705 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0706 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
  28: 0x070D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 29: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=13484*)
+ 29: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=13494*)
     → "Just let me analyze this data for a...what do you mean, "hurry up"?"
  30: 0x0717 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0718 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x04)
  32: 0x071F [0x01] GOTO 0x0779
  33: 0x0722 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x0755
- 34: 0x072A [0x1D] PRINT_EVENT_MESSAGE(message_id=13485*)
+ 34: 0x072A [0x1D] PRINT_EVENT_MESSAGE(message_id=13495*)
     → "The Trust initiative has seen some outstanding breakthroughs in recent days thanks to the tireless dedication of those like yourself."
  35: 0x072D [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x072E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
- 37: 0x0735 [0x1D] PRINT_EVENT_MESSAGE(message_id=13486*)
+ 37: 0x0735 [0x1D] PRINT_EVENT_MESSAGE(message_id=13496*)
     → "Your bonds with that person far exceed anything we have ever seen!"
  38: 0x0738 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0739 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
  40: 0x0740 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 41: 0x0747 [0x1D] PRINT_EVENT_MESSAGE(message_id=13487*)
+ 41: 0x0747 [0x1D] PRINT_EVENT_MESSAGE(message_id=13497*)
     → "I could espouse for hours about how lucky...what do you mean, "hurry up"?"
  42: 0x074A [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x074B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x04)
  44: 0x0752 [0x01] GOTO 0x0779
  45: 0x0755 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x07)
- 46: 0x075C [0x1D] PRINT_EVENT_MESSAGE(message_id=13488*)
+ 46: 0x075C [0x1D] PRINT_EVENT_MESSAGE(message_id=13498*)
     → "Who on Vana'diel is this person? I've never heard of... Ugh. And to think I call myself a fine representative of the institute."
  47: 0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0760 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x08)
  49: 0x0767 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x09)
- 50: 0x076E [0x1D] PRINT_EVENT_MESSAGE(message_id=13489*)
+ 50: 0x076E [0x1D] PRINT_EVENT_MESSAGE(message_id=13499*)
     → "Hmmmmmm? Okay, okay, I'll make it snappy!"
  51: 0x0771 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0772 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0A)
 
 SUBROUTINE_0779:
- 53: 0x0779 [0x1D] PRINT_EVENT_MESSAGE(message_id=13497*)
+ 53: 0x0779 [0x1D] PRINT_EVENT_MESSAGE(message_id=13507*)
     → "Close your eyes and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow."
  54: 0x077C [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x077D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1335,10 +1335,10 @@ SUBROUTINE_0779:
  60: 0x07B6 [0x1C] WAIT(300* ticks)
  61: 0x07B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  62: 0x07CA [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0E)
- 63: 0x07D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13498*)
+ 63: 0x07D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13508*)
     → "What an amazing success of sorts!"
  64: 0x07D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x07D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13499*)
+ 65: 0x07D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13509*)
     → "So many of our trials ended in failure. I kept hoping it might work...but this--this is beyond my wildest dreams!"
  66: 0x07D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x07D9 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
@@ -1377,14 +1377,14 @@ SUBROUTINE_0779:
   3: 0x0808 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0809 [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x11)
   5: 0x0810 [0x1C] WAIT(20* ticks)
-  6: 0x0813 [0x1D] PRINT_EVENT_MESSAGE(message_id=13490*)
+  6: 0x0813 [0x1D] PRINT_EVENT_MESSAGE(message_id=13500*)
     → "A curious case, this one..."
   7: 0x0816 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0817 [0x1D] PRINT_EVENT_MESSAGE(message_id=13491*)
+  8: 0x0817 [0x1D] PRINT_EVENT_MESSAGE(message_id=13501*)
     → "Some ethereal force is preventing the cipher from displaying its true potential."
   9: 0x081A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x081B [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
- 11: 0x0821 [0x48] [System] [13492*]:
+ 11: 0x0821 [0x48] [System] [13502*]:
     → "You cannot read this cipher due to an event occurring in Rhapsodies of Vana'diel."
  12: 0x0824 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  13: 0x0826 [0x21] END_EVENT
@@ -1434,7 +1434,7 @@ SUBROUTINE_0779:
   4: 0x083C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x083D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x083E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
-  7: 0x0845 [0x1D] PRINT_EVENT_MESSAGE(message_id=13493*)
+  7: 0x0845 [0x1D] PRINT_EVENT_MESSAGE(message_id=13503*)
     → "This cipher appears to be the real deal, but damned if I know who it'll actually call forth. Let's give it a try!"
   8: 0x0848 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0849 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
@@ -1452,13 +1452,13 @@ SUBROUTINE_0779:
  21: 0x08B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x41)
  22: 0x08B9 [0x1C] WAIT(30* ticks)
  23: 0x08BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x07)
- 24: 0x08C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13494*)
+ 24: 0x08C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13504*)
     → "...An apparition, you say?"
  25: 0x08C6 [0x1C] WAIT(30* ticks)
  26: 0x08C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x08CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x08)
  28: 0x08D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x09)
- 29: 0x08D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13495*)
+ 29: 0x08D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13505*)
     → "Ah, the fresh face of youth as they acquire a new alter ego. Never shall I tire of it."
  30: 0x08DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x08DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1514,24 +1514,24 @@ SUBROUTINE_0779:
   5: 0x094C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x094D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x094E [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0F)
-  8: 0x0955 [0x1D] PRINT_EVENT_MESSAGE(message_id=13502*)
+  8: 0x0955 [0x1D] PRINT_EVENT_MESSAGE(message_id=13512*)
     → "Impressive! It's no small feat to acquire $3!"
   9: 0x0958 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0959 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
- 11: 0x095F [0x1D] PRINT_EVENT_MESSAGE(message_id=13503*)
+ 11: 0x095F [0x1D] PRINT_EVENT_MESSAGE(message_id=13513*)
     → "Doctor Monberaux is a powerful person of sorts in Jeuno. Having an alter ego of him will make your journey that much easier."
  12: 0x0962 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0963 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
- 14: 0x096A [0x1D] PRINT_EVENT_MESSAGE(message_id=13504*)
+ 14: 0x096A [0x1D] PRINT_EVENT_MESSAGE(message_id=13514*)
     → "The good doctor was a bit surprised to be paid a visit by the Jeuno Institute of Magical Studies. I think he expected a high-ranking friend of his to be chosen first."
  15: 0x096D [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x096E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
  17: 0x0975 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 18: 0x097C [0x1D] PRINT_EVENT_MESSAGE(message_id=13505*)
+ 18: 0x097C [0x1D] PRINT_EVENT_MESSAGE(message_id=13515*)
     → "You see, his friend Wolf... No, I don't suppose it's our place to talk about that."
  19: 0x097F [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0980 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x04)
- 21: 0x0987 [0x1D] PRINT_EVENT_MESSAGE(message_id=13506*)
+ 21: 0x0987 [0x1D] PRINT_EVENT_MESSAGE(message_id=13516*)
     → "Close your eyes while picturing Doctor Monberaux and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow."
  22: 0x098A [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x098B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1542,10 +1542,10 @@ SUBROUTINE_0779:
  28: 0x09C4 [0x1C] WAIT(300* ticks)
  29: 0x09C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  30: 0x09D8 [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0E)
- 31: 0x09DF [0x1D] PRINT_EVENT_MESSAGE(message_id=13507*)
+ 31: 0x09DF [0x1D] PRINT_EVENT_MESSAGE(message_id=13517*)
     → "It's a smashing success!"
  32: 0x09E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x09E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13508*)
+ 33: 0x09E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13518*)
     → "Just as the Institute of Magical Studies suspected, Doctor Monberaux is an excellent candidate of sorts for using Trust magic. This is excellent news!"
  34: 0x09E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x09E7 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
@@ -1594,60 +1594,60 @@ SUBROUTINE_0779:
   3: 0x0A16 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0A17 [0x03] Work_Zone[1] = 1*
   5: 0x0A1C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
-  6: 0x0A23 [0x1D] PRINT_EVENT_MESSAGE(message_id=13436*)
+  6: 0x0A23 [0x1D] PRINT_EVENT_MESSAGE(message_id=13446*)
     → "You can call me Clarion Star. I've come from Jeuno, the lovely city in the northeast that connects the Quon and Mindartia continents."
   7: 0x0A26 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A27 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
   9: 0x0A2E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 10: 0x0A35 [0x1D] PRINT_EVENT_MESSAGE(message_id=13439*)
+ 10: 0x0A35 [0x1D] PRINT_EVENT_MESSAGE(message_id=13449*)
     → "So here's the deal. Not too long ago, the institute held an international symposium of sorts, at which we announced the development of a fascinatingly useful new type of magic."
  11: 0x0A38 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0A39 [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0B)
- 13: 0x0A40 [0x1D] PRINT_EVENT_MESSAGE(message_id=13500*)
+ 13: 0x0A40 [0x1D] PRINT_EVENT_MESSAGE(message_id=13510*)
     → "H-how did you know that it's called "Trust"!? Were you at the symposium?"
  14: 0x0A43 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=13501*)
+ 15: 0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=13511*)
     → "Ohhh, I see. You got a lesson of sorts in one of the other nations. This makes it simple. How's about undertaking Trust experiments here in Bastok?"
  16: 0x0A47 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0A48 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
- 18: 0x0A4E [0x24] CREATE_DIALOG(message_id=13443*, default_option=0*, option_flags=0*)
+ 18: 0x0A4E [0x24] CREATE_DIALOG(message_id=13453*, default_option=0*, option_flags=0*)
     → "Try out the new magic? [What have I got to lose?/Magic scares me.]"
  19: 0x0A55 [0x25] WAIT_DIALOG_SELECT()
  20: 0x0A56 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AB1
  21: 0x0A5E [0x42] SET_CLI_EVENT_CANCEL_DATA()
  22: 0x0A5F [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x0F)
- 23: 0x0A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=13445*)
+ 23: 0x0A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=13455*)
     → "That's the kind of spunk I like!"
  24: 0x0A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0A6A [0x1D] PRINT_EVENT_MESSAGE(message_id=13446*)
+ 25: 0x0A6A [0x1D] PRINT_EVENT_MESSAGE(message_id=13456*)
     → "You're surely aware that Bastok is no stranger to developing new technologies, and as such Cid and the Mythril Musketeers are conducting research of sorts into the application of this new magic."
  26: 0x0A6D [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0A6E [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))
  28: 0x0A74 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x01)
- 29: 0x0A7B [0x1D] PRINT_EVENT_MESSAGE(message_id=13447*)
+ 29: 0x0A7B [0x1D] PRINT_EVENT_MESSAGE(message_id=13457*)
     → "You know how they are--always at odds with the Beastman Confederate. They think that Trust might be able to help "bolster their forces," they say."
  30: 0x0A7E [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0A7F [0x03] Work_Zone[4] = 1*
- 32: 0x0A84 [0x1D] PRINT_EVENT_MESSAGE(message_id=13456*)
+ 32: 0x0A84 [0x1D] PRINT_EVENT_MESSAGE(message_id=13466*)
     → "[If that's the case,/Okay! So] let's get right to it. Before we go any further, let me give you this."
  33: 0x0A87 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0A88 [0x1D] PRINT_EVENT_MESSAGE(message_id=13457*)
+ 34: 0x0A88 [0x1D] PRINT_EVENT_MESSAGE(message_id=13467*)
     → "Your first task of sorts is to speak with Naji of the Mythril Musketeers, in the Metalworks. He can guide you further."
  35: 0x0A8B [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0A8C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x02)
  37: 0x0A93 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x03)
- 38: 0x0A9A [0x1D] PRINT_EVENT_MESSAGE(message_id=13458*)
+ 38: 0x0A9A [0x1D] PRINT_EVENT_MESSAGE(message_id=13468*)
     → "Do you know where it is? Just head up the staircase behind me and cross the bridge to the west. Someone in the markets just past there can guide you further."
  39: 0x0A9D [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0A9E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x04)
- 41: 0x0AA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13459*)
+ 41: 0x0AA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13469*)
     → "Take the lift up to the second floor, where you'll find him waiting by the staircase that leads to the president's office. No one across the land is as faithful or skilled a guard as he."
  42: 0x0AA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0AA9 [0x03] Work_Zone[1] = 2*
  44: 0x0AAE [0x01] GOTO 0x0AD2
  45: 0x0AB1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0AD2
  46: 0x0AB9 [0x27] REQ_SET(priority=0x08, entity_id=Clarion Star (ID: 17744188/0x010EC13C), tag_num=0x11)
- 47: 0x0AC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13444*)
+ 47: 0x0AC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13454*)
     → "An adventurer of sorts scared of magic? Pffft. Your loss, bud."
  48: 0x0AC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0AC4 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Clarion Star (ID: 17744188/0x010EC13C))

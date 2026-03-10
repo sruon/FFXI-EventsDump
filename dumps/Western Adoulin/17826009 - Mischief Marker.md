@@ -52,76 +52,76 @@
 |      16 | 0x170CC     |       94412 |
 |      17 | 0xFFFE2176  |  4294844790 |
 |      18 | 0x027B      |         635 |
-|      19 | 0x27AC      |       10156 |
+|      19 | 0x27AD      |       10157 |
 |      20 | 0x0028      |          40 |
-|      21 | 0x27AD      |       10157 |
+|      21 | 0x27AE      |       10158 |
 |      22 | 0x0804      |        2052 |
 |      23 | 0x0032      |          50 |
 |      24 | 0x00D2      |         210 |
-|      25 | 0x27AE      |       10158 |
+|      25 | 0x27AF      |       10159 |
 |      26 | 0x0031      |          49 |
-|      27 | 0x27AF      |       10159 |
-|      28 | 0x27B0      |       10160 |
+|      27 | 0x27B0      |       10160 |
+|      28 | 0x27B1      |       10161 |
 |      29 | 0x003C      |          60 |
-|      30 | 0x27B1      |       10161 |
+|      30 | 0x27B2      |       10162 |
 |      31 | 0x0078      |         120 |
 |      32 | 0x0801      |        2049 |
 |      33 | 0x00FA      |         250 |
-|      34 | 0x27B2      |       10162 |
-|      35 | 0x27B3      |       10163 |
-|      36 | 0x27B4      |       10164 |
-|      37 | 0x27B5      |       10165 |
+|      34 | 0x27B3      |       10163 |
+|      35 | 0x27B4      |       10164 |
+|      36 | 0x27B5      |       10165 |
+|      37 | 0x27B6      |       10166 |
 |      38 | 0x0001      |           1 |
 |      39 | 0x000F      |          15 |
-|      40 | 0x27B7      |       10167 |
+|      40 | 0x27B8      |       10168 |
 |      41 | 0x0002      |           2 |
-|      42 | 0x27B8      |       10168 |
+|      42 | 0x27B9      |       10169 |
 |      43 | 0x0029      |          41 |
-|      44 | 0x27B9      |       10169 |
-|      45 | 0x27BA      |       10170 |
-|      46 | 0x27BB      |       10171 |
+|      44 | 0x27BA      |       10170 |
+|      45 | 0x27BB      |       10171 |
+|      46 | 0x27BC      |       10172 |
 |      47 | 0x005A      |          90 |
-|      48 | 0x27BC      |       10172 |
-|      49 | 0x27BD      |       10173 |
-|      50 | 0x27BE      |       10174 |
+|      48 | 0x27BD      |       10173 |
+|      49 | 0x27BE      |       10174 |
+|      50 | 0x27BF      |       10175 |
 |      51 | 0x002A      |          42 |
-|      52 | 0x27BF      |       10175 |
-|      53 | 0x27C0      |       10176 |
-|      54 | 0x27C1      |       10177 |
-|      55 | 0x27C2      |       10178 |
-|      56 | 0x27C3      |       10179 |
-|      57 | 0x27C4      |       10180 |
-|      58 | 0x27C5      |       10181 |
-|      59 | 0x27C6      |       10182 |
+|      52 | 0x27C0      |       10176 |
+|      53 | 0x27C1      |       10177 |
+|      54 | 0x27C2      |       10178 |
+|      55 | 0x27C3      |       10179 |
+|      56 | 0x27C4      |       10180 |
+|      57 | 0x27C5      |       10181 |
+|      58 | 0x27C6      |       10182 |
+|      59 | 0x27C7      |       10183 |
 |      60 | 0x00A5      |         165 |
-|      61 | 0x27C7      |       10183 |
-|      62 | 0x27C8      |       10184 |
-|      63 | 0x27C9      |       10185 |
-|      64 | 0x27CA      |       10186 |
-|      65 | 0x27CB      |       10187 |
+|      61 | 0x27C8      |       10184 |
+|      62 | 0x27C9      |       10185 |
+|      63 | 0x27CA      |       10186 |
+|      64 | 0x27CB      |       10187 |
+|      65 | 0x27CC      |       10188 |
 |      66 | 0x1154      |        4436 |
-|      67 | 0x27CC      |       10188 |
-|      68 | 0x27CD      |       10189 |
-|      69 | 0x27CE      |       10190 |
+|      67 | 0x27CD      |       10189 |
+|      68 | 0x27CE      |       10190 |
+|      69 | 0x27CF      |       10191 |
 |      70 | 0x00BD      |         189 |
-|      71 | 0x27CF      |       10191 |
+|      71 | 0x27D0      |       10192 |
 |      72 | 0x0095      |         149 |
 |      73 | 0x0096      |         150 |
 |      74 | 0x0802      |        2050 |
 |      75 | 0x0008      |           8 |
 |      76 | 0x0010      |          16 |
-|      77 | 0x281D      |       10269 |
-|      78 | 0x2843      |       10307 |
-|      79 | 0x2821      |       10273 |
-|      80 | 0x2820      |       10272 |
-|      81 | 0x281F      |       10271 |
-|      82 | 0x281E      |       10270 |
+|      77 | 0x281E      |       10270 |
+|      78 | 0x2844      |       10308 |
+|      79 | 0x2822      |       10274 |
+|      80 | 0x2821      |       10273 |
+|      81 | 0x2820      |       10272 |
+|      82 | 0x281F      |       10271 |
 |      83 | 0x1117      |        4375 |
-|      84 | 0x27D0      |       10192 |
-|      85 | 0x27D1      |       10193 |
-|      86 | 0x27D2      |       10194 |
+|      84 | 0x27D1      |       10193 |
+|      85 | 0x27D2      |       10194 |
+|      86 | 0x27D3      |       10195 |
 |      87 | 0x0072      |         114 |
-|      88 | 0x27D3      |       10195 |
+|      88 | 0x27D4      |       10196 |
 |      89 | 0x1453      |        5203 |
 |      90 | 0x14AE      |        5294 |
 |      91 | 0x11D4      |        4564 |
@@ -132,45 +132,45 @@
 |      96 | 0x112B      |        4395 |
 |      97 | 0x161E8     |       90600 |
 |      98 | 0xFFFE2C08  |  4294847496 |
-|      99 | 0x27D7      |       10199 |
-|     100 | 0x27D8      |       10200 |
+|      99 | 0x27D8      |       10200 |
+|     100 | 0x27D9      |       10201 |
 |     101 | 0x0009      |           9 |
-|     102 | 0x27DC      |       10204 |
-|     103 | 0x27DD      |       10205 |
-|     104 | 0x27DE      |       10206 |
-|     105 | 0x27DF      |       10207 |
-|     106 | 0x27E0      |       10208 |
-|     107 | 0x27E1      |       10209 |
-|     108 | 0x27E2      |       10210 |
+|     102 | 0x27DD      |       10205 |
+|     103 | 0x27DE      |       10206 |
+|     104 | 0x27DF      |       10207 |
+|     105 | 0x27E0      |       10208 |
+|     106 | 0x27E1      |       10209 |
+|     107 | 0x27E2      |       10210 |
+|     108 | 0x27E3      |       10211 |
 |     109 | 0x001D      |          29 |
 |     110 | 0x00F0      |         240 |
 |     111 | 0x03A9      |         937 |
-|     112 | 0x27E3      |       10211 |
-|     113 | 0x27E4      |       10212 |
-|     114 | 0x27E5      |       10213 |
-|     115 | 0x27E6      |       10214 |
-|     116 | 0x27E7      |       10215 |
-|     117 | 0x27E8      |       10216 |
+|     112 | 0x27E4      |       10212 |
+|     113 | 0x27E5      |       10213 |
+|     114 | 0x27E6      |       10214 |
+|     115 | 0x27E7      |       10215 |
+|     116 | 0x27E8      |       10216 |
+|     117 | 0x27E9      |       10217 |
 |     118 | 0x1156      |        4438 |
-|     119 | 0x27E9      |       10217 |
+|     119 | 0x27EA      |       10218 |
 |     120 | 0x11D6      |        4566 |
-|     121 | 0x27EA      |       10218 |
-|     122 | 0x27EB      |       10219 |
-|     123 | 0x27EC      |       10220 |
-|     124 | 0x27ED      |       10221 |
-|     125 | 0x27EE      |       10222 |
-|     126 | 0x27EF      |       10223 |
+|     121 | 0x27EB      |       10219 |
+|     122 | 0x27EC      |       10220 |
+|     123 | 0x27ED      |       10221 |
+|     124 | 0x27EE      |       10222 |
+|     125 | 0x27EF      |       10223 |
+|     126 | 0x27F0      |       10224 |
 |     127 | 0x001C      |          28 |
 |     128 | 0x027D      |         637 |
-|     129 | 0x27F0      |       10224 |
-|     130 | 0x27F1      |       10225 |
-|     131 | 0x27F2      |       10226 |
+|     129 | 0x27F1      |       10225 |
+|     130 | 0x27F2      |       10226 |
+|     131 | 0x27F3      |       10227 |
 |     132 | 0x1136      |        4406 |
-|     133 | 0x27F3      |       10227 |
+|     133 | 0x27F4      |       10228 |
 |     134 | 0x1116      |        4374 |
-|     135 | 0x27F4      |       10228 |
-|     136 | 0x27F5      |       10229 |
-|     137 | 0x27F6      |       10230 |
+|     135 | 0x27F5      |       10229 |
+|     136 | 0x27F6      |       10230 |
+|     137 | 0x27F7      |       10231 |
 |     138 | 0x12188     |       74120 |
 |     139 | 0xFFFE111E  |  4294840606 |
 |     140 | 0x0F9F      |        3999 |
@@ -179,56 +179,56 @@
 |     143 | 0xFFFE44A4  |  4294853796 |
 |     144 | 0x07D0      |        2000 |
 |     145 | 0x0400      |        1024 |
-|     146 | 0x27F7      |       10231 |
-|     147 | 0x27F8      |       10232 |
-|     148 | 0x27F9      |       10233 |
+|     146 | 0x27F8      |       10232 |
+|     147 | 0x27F9      |       10233 |
+|     148 | 0x27FA      |       10234 |
 |     149 | 0x001B      |          27 |
 |     150 | 0x0484      |        1156 |
-|     151 | 0x27FA      |       10234 |
-|     152 | 0x27FB      |       10235 |
-|     153 | 0x27FC      |       10236 |
-|     154 | 0x27FD      |       10237 |
-|     155 | 0x27FE      |       10238 |
-|     156 | 0x27FF      |       10239 |
-|     157 | 0x2800      |       10240 |
-|     158 | 0x2801      |       10241 |
-|     159 | 0x2802      |       10242 |
+|     151 | 0x27FB      |       10235 |
+|     152 | 0x27FC      |       10236 |
+|     153 | 0x27FD      |       10237 |
+|     154 | 0x27FE      |       10238 |
+|     155 | 0x27FF      |       10239 |
+|     156 | 0x2800      |       10240 |
+|     157 | 0x2801      |       10241 |
+|     158 | 0x2802      |       10242 |
+|     159 | 0x2803      |       10243 |
 |     160 | 0x002F      |          47 |
 |     161 | 0x14820     |       84000 |
 |     162 | 0xFFFE2B40  |  4294847296 |
 |     163 | 0xFFFFFF80  |  4294967168 |
 |     164 | 0x16308     |       90888 |
 |     165 | 0xFFFE327A  |  4294849146 |
-|     166 | 0x2803      |       10243 |
-|     167 | 0x2804      |       10244 |
-|     168 | 0x2805      |       10245 |
-|     169 | 0x2806      |       10246 |
-|     170 | 0x2807      |       10247 |
+|     166 | 0x2804      |       10244 |
+|     167 | 0x2805      |       10245 |
+|     168 | 0x2806      |       10246 |
+|     169 | 0x2807      |       10247 |
+|     170 | 0x2808      |       10248 |
 |     171 | 0x05FA      |        1530 |
-|     172 | 0x2808      |       10248 |
+|     172 | 0x2809      |       10249 |
 |     173 | 0x00C7      |         199 |
-|     174 | 0x2809      |       10249 |
+|     174 | 0x280A      |       10250 |
 |     175 | 0x003B      |          59 |
-|     176 | 0x280A      |       10250 |
-|     177 | 0x280B      |       10251 |
+|     176 | 0x280B      |       10251 |
+|     177 | 0x280C      |       10252 |
 |     178 | 0x0015      |          21 |
-|     179 | 0x280C      |       10252 |
+|     179 | 0x280D      |       10253 |
 |     180 | 0x007F      |         127 |
-|     181 | 0x280D      |       10253 |
+|     181 | 0x280E      |       10254 |
 |     182 | 0x0007      |           7 |
-|     183 | 0x280E      |       10254 |
+|     183 | 0x280F      |       10255 |
 |     184 | 0x02FF      |         767 |
-|     185 | 0x280F      |       10255 |
-|     186 | 0x2810      |       10256 |
-|     187 | 0x2811      |       10257 |
+|     185 | 0x2810      |       10256 |
+|     186 | 0x2811      |       10257 |
+|     187 | 0x2812      |       10258 |
 |     188 | 0x007C      |         124 |
-|     189 | 0x2812      |       10258 |
+|     189 | 0x2813      |       10259 |
 |     190 | 0x0258      |         600 |
 |     191 | 0x00C9      |         201 |
-|     192 | 0x2813      |       10259 |
-|     193 | 0x27D4      |       10196 |
-|     194 | 0x27D5      |       10197 |
-|     195 | 0x27D6      |       10198 |
+|     192 | 0x2814      |       10260 |
+|     193 | 0x27D5      |       10197 |
+|     194 | 0x27D6      |       10198 |
+|     195 | 0x27D7      |       10199 |
 |     196 | 0x0003      |           3 |
 |     197 | 0x0004      |           4 |
 |     198 | 0x0005      |           5 |
@@ -237,8 +237,8 @@
 |     201 | 0x000C      |          12 |
 |     202 | 0x000D      |          13 |
 |     203 | 0x000E      |          14 |
-|     204 | 0x27DA      |       10202 |
-|     205 | 0x27DB      |       10203 |
+|     204 | 0x27DB      |       10203 |
+|     205 | 0x27DC      |       10204 |
 |     206 | 0x17781     |       96129 |
 |     207 | 0xFFFE4404  |  4294853636 |
 |     208 | 0x0603      |        1539 |
@@ -247,108 +247,108 @@
 |     211 | 0xFFFFFBFD  |  4294966269 |
 |     212 | 0x1172F     |       71471 |
 |     213 | 0xFFFE1FD2  |  4294844370 |
-|     214 | 0x2872      |       10354 |
-|     215 | 0x2873      |       10355 |
-|     216 | 0x2874      |       10356 |
-|     217 | 0x2875      |       10357 |
-|     218 | 0x2876      |       10358 |
-|     219 | 0x2877      |       10359 |
-|     220 | 0x2878      |       10360 |
-|     221 | 0x2879      |       10361 |
-|     222 | 0x287A      |       10362 |
-|     223 | 0x287B      |       10363 |
-|     224 | 0x287C      |       10364 |
-|     225 | 0x287D      |       10365 |
+|     214 | 0x2873      |       10355 |
+|     215 | 0x2874      |       10356 |
+|     216 | 0x2875      |       10357 |
+|     217 | 0x2876      |       10358 |
+|     218 | 0x2877      |       10359 |
+|     219 | 0x2878      |       10360 |
+|     220 | 0x2879      |       10361 |
+|     221 | 0x287A      |       10362 |
+|     222 | 0x287B      |       10363 |
+|     223 | 0x287C      |       10364 |
+|     224 | 0x287D      |       10365 |
+|     225 | 0x287E      |       10366 |
 |     226 | 0x1189      |        4489 |
-|     227 | 0x287E      |       10366 |
-|     228 | 0x287F      |       10367 |
-|     229 | 0x2880      |       10368 |
+|     227 | 0x287F      |       10367 |
+|     228 | 0x2880      |       10368 |
+|     229 | 0x2881      |       10369 |
 |     230 | 0x115C      |        4444 |
-|     231 | 0x2881      |       10369 |
+|     231 | 0x2882      |       10370 |
 |     232 | 0x00A9      |         169 |
-|     233 | 0x2882      |       10370 |
-|     234 | 0x2883      |       10371 |
-|     235 | 0x2884      |       10372 |
+|     233 | 0x2883      |       10371 |
+|     234 | 0x2884      |       10372 |
+|     235 | 0x2885      |       10373 |
 |     236 | 0x168F      |        5775 |
-|     237 | 0x2885      |       10373 |
-|     238 | 0x2886      |       10374 |
-|     239 | 0x2887      |       10375 |
-|     240 | 0x2888      |       10376 |
-|     241 | 0x2889      |       10377 |
-|     242 | 0x288A      |       10378 |
-|     243 | 0x288B      |       10379 |
-|     244 | 0x288C      |       10380 |
-|     245 | 0x288D      |       10381 |
-|     246 | 0x288E      |       10382 |
-|     247 | 0x288F      |       10383 |
-|     248 | 0x2890      |       10384 |
-|     249 | 0x2891      |       10385 |
+|     237 | 0x2886      |       10374 |
+|     238 | 0x2887      |       10375 |
+|     239 | 0x2888      |       10376 |
+|     240 | 0x2889      |       10377 |
+|     241 | 0x288A      |       10378 |
+|     242 | 0x288B      |       10379 |
+|     243 | 0x288C      |       10380 |
+|     244 | 0x288D      |       10381 |
+|     245 | 0x288E      |       10382 |
+|     246 | 0x288F      |       10383 |
+|     247 | 0x2890      |       10384 |
+|     248 | 0x2891      |       10385 |
+|     249 | 0x2892      |       10386 |
 |     250 | 0x000A      |          10 |
 |     251 | 0x0064      |         100 |
 |     252 | 0x03E8      |        1000 |
 |     253 | 0x2710      |       10000 |
-|     254 | 0x2892      |       10386 |
-|     255 | 0x2893      |       10387 |
-|     256 | 0x2894      |       10388 |
-|     257 | 0x2895      |       10389 |
-|     258 | 0x2896      |       10390 |
-|     259 | 0x2897      |       10391 |
-|     260 | 0x2898      |       10392 |
-|     261 | 0x2899      |       10393 |
+|     254 | 0x2893      |       10387 |
+|     255 | 0x2894      |       10388 |
+|     256 | 0x2895      |       10389 |
+|     257 | 0x2896      |       10390 |
+|     258 | 0x2897      |       10391 |
+|     259 | 0x2898      |       10392 |
+|     260 | 0x2899      |       10393 |
+|     261 | 0x289A      |       10394 |
 |     262 | 0xD431      |       54321 |
 |     263 | 0x0024      |          36 |
 |     264 | 0x0082      |         130 |
-|     265 | 0x289A      |       10394 |
-|     266 | 0x289B      |       10395 |
-|     267 | 0x289C      |       10396 |
-|     268 | 0x289D      |       10397 |
-|     269 | 0x289E      |       10398 |
-|     270 | 0x289F      |       10399 |
-|     271 | 0x28A0      |       10400 |
+|     265 | 0x289B      |       10395 |
+|     266 | 0x289C      |       10396 |
+|     267 | 0x289D      |       10397 |
+|     268 | 0x289E      |       10398 |
+|     269 | 0x289F      |       10399 |
+|     270 | 0x28A0      |       10400 |
+|     271 | 0x28A1      |       10401 |
 |     272 | 0x0087      |         135 |
-|     273 | 0x28A3      |       10403 |
-|     274 | 0x28A4      |       10404 |
-|     275 | 0x28A5      |       10405 |
-|     276 | 0x28A6      |       10406 |
-|     277 | 0x28A7      |       10407 |
-|     278 | 0x28A8      |       10408 |
-|     279 | 0x28A9      |       10409 |
-|     280 | 0x28AA      |       10410 |
-|     281 | 0x28AB      |       10411 |
-|     282 | 0x28AC      |       10412 |
-|     283 | 0x28AD      |       10413 |
-|     284 | 0x28AE      |       10414 |
-|     285 | 0x28AF      |       10415 |
-|     286 | 0x28B0      |       10416 |
-|     287 | 0x28B2      |       10418 |
+|     273 | 0x28A4      |       10404 |
+|     274 | 0x28A5      |       10405 |
+|     275 | 0x28A6      |       10406 |
+|     276 | 0x28A7      |       10407 |
+|     277 | 0x28A8      |       10408 |
+|     278 | 0x28A9      |       10409 |
+|     279 | 0x28AA      |       10410 |
+|     280 | 0x28AB      |       10411 |
+|     281 | 0x28AC      |       10412 |
+|     282 | 0x28AD      |       10413 |
+|     283 | 0x28AE      |       10414 |
+|     284 | 0x28AF      |       10415 |
+|     285 | 0x28B0      |       10416 |
+|     286 | 0x28B1      |       10417 |
+|     287 | 0x28B3      |       10419 |
 |     288 | 0x1701      |        5889 |
-|     289 | 0x28B3      |       10419 |
-|     290 | 0x28B4      |       10420 |
-|     291 | 0x28B5      |       10421 |
-|     292 | 0x28B6      |       10422 |
-|     293 | 0x28B7      |       10423 |
-|     294 | 0x28B8      |       10424 |
-|     295 | 0x28B9      |       10425 |
-|     296 | 0x28BA      |       10426 |
+|     289 | 0x28B4      |       10420 |
+|     290 | 0x28B5      |       10421 |
+|     291 | 0x28B6      |       10422 |
+|     292 | 0x28B7      |       10423 |
+|     293 | 0x28B8      |       10424 |
+|     294 | 0x28B9      |       10425 |
+|     295 | 0x28BA      |       10426 |
+|     296 | 0x28BB      |       10427 |
 |     297 | 0xF4D3      |       62675 |
 |     298 | 0x1E061     |      122977 |
 |     299 | 0x7D00      |       32000 |
 |     300 | 0xFFFFFE01  |  4294966785 |
-|     301 | 0x2865      |       10341 |
+|     301 | 0x2866      |       10342 |
 |     302 | 0x0020      |          32 |
-|     303 | 0x28BB      |       10427 |
-|     304 | 0x28BC      |       10428 |
-|     305 | 0x28B1      |       10417 |
+|     303 | 0x28BC      |       10428 |
+|     304 | 0x28BD      |       10429 |
+|     305 | 0x28B2      |       10418 |
 |     306 | 0x008C      |         140 |
 |     307 | 0x165F1     |       91633 |
 |     308 | 0xFFFE318F  |  4294848911 |
 |     309 | 0x01FF      |         511 |
 |     310 | 0xFFFFFFFF  |  4294967295 |
-|     311 | 0x28A1      |       10401 |
+|     311 | 0x28A2      |       10402 |
 |     312 | 0x001A      |          26 |
 |     313 | 0x0051      |          81 |
 |     314 | 0x0019      |          25 |
-|     315 | 0x28A2      |       10402 |
+|     315 | 0x28A3      |       10403 |
 |     316 | 0x3EED      |       16109 |
 |     317 | 0x365C      |       13916 |
 |     318 | 0x28CE      |       10446 |
@@ -405,23 +405,23 @@
 
 ## String References
 
-- **10164**: Ask them to sign something? [Wonderful idea!/Not on your life./Wait...are you Tarutaru Sauce?]
-- **10202**: Synthesis failed. Tuffle-Buffle lost the crystal he was using.
-- **10203**: $0 was lost.
-- **10207**: Tuffle-Buffle synthesized $1 $0 .
-- **10243**: Enough, you two!!!
-- **10254**: You write your name on the parchment.
-- **10259**: You have earned the trust and respect of Peladi Shalmohr! ...Probably.
-- **10269**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
-- **10270**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
-- **10271**: $4 x $0 $5 x $0$0 $6 x $0
-- **10272**: $4 x $0 $5 x $0$0
-- **10273**: $4 x $0
-- **10307**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
-- **10385**: What would you like them to change into? [The $0./The $1./The $2./The $3./The $4.]
-- **10387**: Pleased with your choice? [That would look faaabulous./Not so much...]
-- **10425**: Your management skill has increased by 0.$0!
-- **10426**: ...Probably.
+- **10165**: Ask them to sign something? [Wonderful idea!/Not on your life./Wait...are you Tarutaru Sauce?]
+- **10203**: Synthesis failed. Tuffle-Buffle lost the crystal he was using.
+- **10204**: $0 was lost.
+- **10208**: Tuffle-Buffle synthesized $1 $0 .
+- **10244**: Enough, you two!!!
+- **10255**: You write your name on the parchment.
+- **10260**: You have earned the trust and respect of Peladi Shalmohr! ...Probably.
+- **10270**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
+- **10271**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
+- **10272**: $4 x $0 $5 x $0$0 $6 x $0
+- **10273**: $4 x $0 $5 x $0$0
+- **10274**: $4 x $0
+- **10308**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
+- **10386**: What would you like them to change into? [The $0./The $1./The $2./The $3./The $4.]
+- **10388**: Pleased with your choice? [That would look faaabulous./Not so much...]
+- **10426**: Your management skill has increased by 0.$0!
+- **10427**: ...Probably.
 
 ## Events
 
@@ -709,14 +709,14 @@
  21: 0x00AA [0x1C] WAIT(30* ticks)
  22: 0x00AD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[635*, 0*]
  23: 0x00BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 24: 0x00CF [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10156*]:
+ 24: 0x00CF [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10157*]:
     → "I could really go for some sweetaru trail cookies right now. But the good-for-nothing manager never pays us on time!"
  25: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00D7 [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=635*
  27: 0x00E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
  28: 0x00F7 [0x79] Musto-Rusto (ID: 17826011/0x011000DB) looks at Tuffle-Buffle (ID: 17826010/0x011000DA) (Basic look)
  29: 0x0101 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
- 30: 0x0110 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10157*]:
+ 30: 0x0110 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10158*]:
     → "I understand why--we're just rookies-wookies."
  31: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0118 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
@@ -728,19 +728,19 @@
  38: 0x0163 [0x1C] WAIT(30* ticks)
  39: 0x0166 [0x03] Work_Zone_1700[0] = 210*
  40: 0x016B [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x38)
- 41: 0x0172 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10158*]:
+ 41: 0x0172 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10159*]:
     → "B-but...my tummy-wummy... You think we could find work as gourmet journalistarus?"
  42: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x017A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
  44: 0x0180 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=49*
- 45: 0x018F [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10159*]:
+ 45: 0x018F [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10160*]:
     → "Comedic talentaru like us have to be well-rounded, after all!"
  46: 0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0197 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=49*
  48: 0x01A6 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
  49: 0x01B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
  50: 0x01C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
- 51: 0x01D5 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10160*]:
+ 51: 0x01D5 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10161*]:
     → "Come on, the juicy-wuiciest work is reserved for performers who've been at it for years and years."
  52: 0x01DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x01DD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
@@ -750,7 +750,7 @@
  57: 0x0219 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=EventEntity)
  58: 0x021F [0x03] Work_Zone_1700[0] = 60*
  59: 0x0224 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x39)
- 60: 0x022B [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10161*]:
+ 60: 0x022B [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10162*]:
     → "My heady-wead hurts...couldn't they at least let us practice?"
  61: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0233 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -778,7 +778,7 @@
  84: 0x02F1 [0x1C] WAIT(30* ticks)
  85: 0x02F4 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 4 with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=250*
  86: 0x0300 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 87: 0x0303 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10162*]:
+ 87: 0x0303 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10163*]:
     → "This is perfectaru! We'll get that $0-headed [guy/girl] to help us out!"
  88: 0x030A [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x030B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -787,7 +787,7 @@
  92: 0x0320 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [EventEntity, EventEntity], work=[635*, 0*]
  93: 0x0331 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
  94: 0x0340 [0x79] Musto-Rusto (ID: 17826011/0x011000DB) looks at Tuffle-Buffle (ID: 17826010/0x011000DA) (Basic look)
- 95: 0x034A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10163*]:
+ 95: 0x034A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10164*]:
     → "Um, excuse me, [sir/ma'am]? We're a really famous comedic duo...I think. I betaru you want our autographs, right?"
  96: 0x0351 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x0352 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
@@ -797,7 +797,7 @@
 101: 0x0384 [0x4A] LocalPlayer looks at Tuffle-Buffle (ID: 17826010/0x011000DA)
 102: 0x038D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 103: 0x038E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-104: 0x0393 [0x24] CREATE_DIALOG(message_id=10164*, default_option=0*, option_flags=0*)
+104: 0x0393 [0x24] CREATE_DIALOG(message_id=10165*, default_option=0*, option_flags=0*)
     → "Ask them to sign something? [Wonderful idea!/Not on your life./Wait...are you Tarutaru Sauce?]"
 105: 0x039A [0x25] WAIT_DIALOG_SELECT()
 106: 0x039B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03EF
@@ -805,7 +805,7 @@
 108: 0x03B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [EventEntity, EventEntity], work=[635*, 0*]
 109: 0x03C3 [0x03] Work_Zone_1700[0] = 60*
 110: 0x03C8 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3B)
-111: 0x03CF [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10165*]:
+111: 0x03CF [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10166*]:
     → "Why, of course you do! They're gonna be worth, like, a million-willion gil!"
 112: 0x03D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x03D7 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -820,7 +820,7 @@
 122: 0x0427 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
 123: 0x0436 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gkr0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)]
 124: 0x0443 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
-125: 0x0452 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10167*]:
+125: 0x0452 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10168*]:
     → "Speak up, now. I couldn't quite hear you."
 126: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x045A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
@@ -835,14 +835,14 @@ SUBROUTINE_05D3:
 134: 0x05F5 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=EventEntity)
 135: 0x05FB [0x03] Work_Zone_1700[0] = 60*
 136: 0x0600 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x39)
-137: 0x0607 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10172*]:
+137: 0x0607 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10173*]:
     → "Oh deary-wear. I left my pen and paper in my other pocketaru. What to do, what to do..."
 138: 0x060E [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x060F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 140: 0x0615 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=EventEntity)
 141: 0x061B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
 142: 0x062A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
-143: 0x0639 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10173*]:
+143: 0x0639 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10174*]:
     → "Our fans adore us so much that we always try to keep something on us to autograph, but we're so popular that we ran outaru!"
 144: 0x0640 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x0641 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
@@ -852,7 +852,7 @@ SUBROUTINE_05D3:
 149: 0x0678 [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x00
 150: 0x067E [0x03] Work_Zone_1700[0] = 60*
 151: 0x0683 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x29)
-152: 0x068A [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10174*]:
+152: 0x068A [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10175*]:
     → "(I toldy-wold you, we've never done this before!)"
 153: 0x0691 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x0692 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -860,19 +860,19 @@ SUBROUTINE_05D3:
 156: 0x06A7 [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=635*
 157: 0x06B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[635*, 0*]
 158: 0x06C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
-159: 0x06D6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10175*]:
+159: 0x06D6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10176*]:
     → "That's why we gotta make money! So we can buy pens and paper!"
 160: 0x06DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x06DE [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=635*
 162: 0x06ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[635*, 0*]
 163: 0x06FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
-164: 0x070D [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10176*]:
+164: 0x070D [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10177*]:
     → "Ok, listen. Our plan is to reportaru on the greatest foodstuffs of Adoulin...but without practice, no one will hire us!"
 165: 0x0714 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0715 [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=635*
 167: 0x0724 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [EventEntity, EventEntity], work=[635*, 0*]
 168: 0x0735 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
-169: 0x0744 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10177*]:
+169: 0x0744 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10178*]:
     → "So I command you! Find me some scrumptious-wumptious ingredients. Then we can talk about that autograph."
 170: 0x074B [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x074C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
@@ -880,13 +880,13 @@ SUBROUTINE_05D3:
 173: 0x076A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[635*, 0*]
 174: 0x077B [0x03] Work_Zone_1700[0] = 60*
 175: 0x0780 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2A)
-176: 0x0787 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10178*]:
+176: 0x0787 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10179*]:
     → "(W-wasn't that a bit forceful?)"
 177: 0x078E [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x078F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 179: 0x0795 [0x03] Work_Zone_1700[0] = 60*
 180: 0x079A [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2B)
-181: 0x07A1 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10179*]:
+181: 0x07A1 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10180*]:
     → "(They say the way to a Tarutaru's heartaru is through his stomach. Still, it's astounding how eloquentaru you become when food's involved, Tuffle-Buffle...)"
 182: 0x07A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x07A9 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -894,14 +894,14 @@ SUBROUTINE_05D3:
 185: 0x07B5 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [EventEntity, EventEntity], work=635*
 186: 0x07C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
 187: 0x07D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
-188: 0x07E4 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10180*]:
+188: 0x07E4 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10181*]:
     → "But even with ingredientarus, who will cook up these delightful meals for us?"
 189: 0x07EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x07EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
 191: 0x07FB [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=635*
 192: 0x080A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[635*, 0*]
 193: 0x081B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
-194: 0x082A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10181*]:
+194: 0x082A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10182*]:
     → "Hahaha..."
 195: 0x0831 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0832 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
@@ -915,19 +915,19 @@ SUBROUTINE_05D3:
 204: 0x0889 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 205: 0x088F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[635*, 0*]
 206: 0x08A0 [0x1C] WAIT(180* ticks)
-207: 0x08A3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10182*]:
+207: 0x08A3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10183*]:
     → "Who else, silly-willy? Can't you tell by my stunning Culinarians' Guild outfitaru?"
 208: 0x08AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 209: 0x08AB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kbk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=165*
 210: 0x08BA [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
-211: 0x08C0 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10183*]:
+211: 0x08C0 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10184*]:
     → "'Course, I always was better at eating..."
 212: 0x08C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x08C8 [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=635*
 214: 0x08D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
 215: 0x08E8 [0x03] Work_Zone_1700[0] = 120*
 216: 0x08ED [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
-217: 0x08F4 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10184*]:
+217: 0x08F4 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10185*]:
     → "Don't try to obfuscataru the truth! You put on that outfit, snuck into the guild, and inhaled everything on the shelf! And then tried to make a break for it when they found you!"
 218: 0x08FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x08FC [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -937,17 +937,17 @@ SUBROUTINE_05D3:
 223: 0x0931 [0x79] Tuffle-Buffle (ID: 17826010/0x011000DA) looks at Musto-Rusto (ID: 17826011/0x011000DB) (Basic look)
 224: 0x093B [0x03] Work_Zone_1700[0] = 120*
 225: 0x0940 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
-226: 0x0947 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10185*]:
+226: 0x0947 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10186*]:
     → "It's not my faultaru that their foul mushroom souffl<Player>i made me lose my lunch!"
 227: 0x094E [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x094F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 229: 0x0955 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
-230: 0x0964 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10186*]:
+230: 0x0964 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10187*]:
     → "But what's importantaru right now isn't the past--it's the future! A lovely, sugar-coated future!"
 231: 0x096B [0x23] WAIT_FOR_DIALOG_INTERACTION
 232: 0x096C [0x03] Work_Zone_1700[0] = 120*
 233: 0x0971 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3D)
-234: 0x0978 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10187*]:
+234: 0x0978 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10188*]:
     → "First, however, we start with the hors d'oeuvres!"
 235: 0x097F [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x0980 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -955,13 +955,13 @@ SUBROUTINE_05D3:
 238: 0x098C [0x03] Work_Zone_1700[0] = 60*
 239: 0x0991 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x39)
 240: 0x0998 [0x03] Work_Zone[2] = 4436*
-241: 0x099D [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10188*]:
+241: 0x099D [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10189*]:
     → "You know what would really whetaru my appetite? %."
 242: 0x09A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x09A5 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 244: 0x09AB [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=EventEntity)
 245: 0x09B1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
-246: 0x09C0 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10189*]:
+246: 0x09C0 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10190*]:
     → "Musto-Rusto, you're in chargey-warge of the hard part. Tell [him/her] the recipe!"
 247: 0x09C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x09C8 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
@@ -969,7 +969,7 @@ SUBROUTINE_05D3:
 250: 0x09E8 [0x4A] LocalPlayer looks at Musto-Rusto (ID: 17826011/0x011000DB)
 251: 0x09F1 [0x03] Work_Zone_1700[0] = 60*
 252: 0x09F6 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2A)
-253: 0x09FD [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10190*]:
+253: 0x09FD [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10191*]:
     → "Me!? You just said that you're the chef de partie of Vana'diel! Why are you push-wushing it off on me?"
 254: 0x0A04 [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x0A05 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -977,7 +977,7 @@ SUBROUTINE_05D3:
 257: 0x0A1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[635*, 0*]
 258: 0x0A2B [0x7B] Musto-Rusto (ID: 17826011/0x011000DB) stops talking
 259: 0x0A30 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
-260: 0x0A3F [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10191*]:
+260: 0x0A3F [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10192*]:
     → "<Sigh> To make $0, you'll need..."
 261: 0x0A46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x0A47 [0x1C] WAIT(30* ticks)
@@ -1011,11 +1011,11 @@ SUBROUTINE_05D3:
 290: 0x0B2F [0x03] Work_Zone[6] = Work_Zone[68]
 291: 0x0B34 [0x03] Work_Zone[7] = Work_Zone[85]
 292: 0x0B39 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0B48
-293: 0x0B41 [0x48] [System] [10269*]:
+293: 0x0B41 [0x48] [System] [10270*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
 294: 0x0B44 [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x0B45 [0x01] GOTO 0x0B4C
-296: 0x0B48 [0x48] [System] [10307*]:
+296: 0x0B48 [0x48] [System] [10308*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
 297: 0x0B4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1029,21 +1029,21 @@ SUBROUTINE_0B4C:
 304: 0x0B6A [0x03] Work_Zone[8] = Work_Zone[79]
 305: 0x0B6F [0x03] Work_Zone[9] = Work_Zone[80]
 306: 0x0B74 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0B83
-307: 0x0B7C [0x48] [System] [10273*]:
+307: 0x0B7C [0x48] [System] [10274*]:
     → "$4 x $0"
 308: 0x0B7F [0x23] WAIT_FOR_DIALOG_INTERACTION
 309: 0x0B80 [0x01] GOTO 0x0C09
 310: 0x0B83 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0B92
-311: 0x0B8B [0x48] [System] [10272*]:
+311: 0x0B8B [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
 312: 0x0B8E [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x0B8F [0x01] GOTO 0x0C09
 314: 0x0B92 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0BA1
-315: 0x0B9A [0x48] [System] [10271*]:
+315: 0x0B9A [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 316: 0x0B9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x0B9E [0x01] GOTO 0x0C09
-318: 0x0BA1 [0x48] [System] [10270*]:
+318: 0x0BA1 [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 319: 0x0BA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 320: 0x0BA5 [0x03] Work_Zone[2] = Work_Zone[73]
@@ -1057,28 +1057,28 @@ SUBROUTINE_0B4C:
 328: 0x0BCD [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0BD8
 329: 0x0BD5 [0x01] GOTO 0x0C09
 330: 0x0BD8 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0BE7
-331: 0x0BE0 [0x48] [System] [10273*]:
+331: 0x0BE0 [0x48] [System] [10274*]:
     → "$4 x $0"
 332: 0x0BE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x0BE4 [0x01] GOTO 0x0C09
 334: 0x0BE7 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0BF6
-335: 0x0BEF [0x48] [System] [10272*]:
+335: 0x0BEF [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
 336: 0x0BF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x0BF3 [0x01] GOTO 0x0C09
 338: 0x0BF6 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0C05
-339: 0x0BFE [0x48] [System] [10271*]:
+339: 0x0BFE [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 340: 0x0C01 [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x0C02 [0x01] GOTO 0x0C09
-342: 0x0C05 [0x48] [System] [10270*]:
+342: 0x0C05 [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 343: 0x0C08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0C09:
 344: 0x0C09 [0x03] Work_Zone[2] = 4375*
 345: 0x0C0E [0x03] Work_Zone[6] = 1*
-346: 0x0C13 [0x48] [System] [10273*]:
+346: 0x0C13 [0x48] [System] [10274*]:
     → "$4 x $0"
 347: 0x0C16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x0C17 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=49*
@@ -1088,7 +1088,7 @@ SUBROUTINE_0C09:
 352: 0x0C55 [0x03] Work_Zone_1700[0] = 120*
 353: 0x0C5A [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
 354: 0x0C61 [0x79] Musto-Rusto (ID: 17826011/0x011000DB) looks at Tuffle-Buffle (ID: 17826010/0x011000DA) (Basic look)
-355: 0x0C6B [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10192*]:
+355: 0x0C6B [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10193*]:
     → "Who would add $0 to that!? With the way they wiggle in my stomach, I might as well become a streetaru performer!"
 356: 0x0C72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 357: 0x0C73 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -1096,7 +1096,7 @@ SUBROUTINE_0C09:
 359: 0x0C88 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
 360: 0x0C99 [0x03] Work_Zone_1700[0] = 120*
 361: 0x0C9E [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
-362: 0x0CA5 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10193*]:
+362: 0x0CA5 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10194*]:
     → "With a tummy like yours, the only street performance you'd be able to do would be belly-welly dancing!"
 363: 0x0CAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0CAD [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -1106,7 +1106,7 @@ SUBROUTINE_0C09:
 368: 0x0CDA [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 369: 0x0CE0 [0x03] Work_Zone_1700[0] = 90*
 370: 0x0CE5 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3E)
-371: 0x0CEC [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10194*]:
+371: 0x0CEC [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10195*]:
     → "I can hear the pangs of starvation-wation taking root! Bring me the stuff before I wither on the vine!"
 372: 0x0CF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x0CF4 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -1117,7 +1117,7 @@ SUBROUTINE_0C09:
 378: 0x0D20 [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=635*
 379: 0x0D2F [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 380: 0x0D35 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[635*, 0*]
-381: 0x0D46 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10195*]:
+381: 0x0D46 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10196*]:
     → "You can forgetaru about the $0, but not the crystal! Remember the crystal!"
 382: 0x0D4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 383: 0x0D4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1323,12 +1323,12 @@ SUBROUTINE_0C09:
  23: 0x0E75 [0x03] Work_Zone_1700[0] = 210*
  24: 0x0E7A [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x38)
  25: 0x0E81 [0x03] Work_Zone[2] = 4375*
- 26: 0x0E86 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10199*]:
+ 26: 0x0E86 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10200*]:
     → "Geez, how long could it possibly take to find some $0??? You're just lucky-wucky I'm not any more emaciatarued than I already am!"
  27: 0x0E8D [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0E8E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
  29: 0x0E94 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "syu0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
- 30: 0x0EA3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10200*]:
+ 30: 0x0EA3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10201*]:
     → "OK! Let's get to it!"
  31: 0x0EAA [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0EAB [0x79] Musto-Rusto (ID: 17826011/0x011000DB) looks at Tuffle-Buffle (ID: 17826010/0x011000DA) (Basic look)
@@ -1354,14 +1354,14 @@ SUBROUTINE_0C09:
  52: 0x0F2B [0x1A] CALL_SUBROUTINE(address=0x35A6)
  53: 0x0F2E [0x1C] WAIT(90* ticks)
  54: 0x0F31 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "teh0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=42*
- 55: 0x0F40 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10204*]:
+ 55: 0x0F40 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10205*]:
     → "These pangy-wangs of hunger...I can't focus..."
  56: 0x0F47 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0F48 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
  58: 0x0F57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
  59: 0x0F68 [0x03] Work_Zone_1700[0] = 120*
  60: 0x0F6D [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
- 61: 0x0F74 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10205*]:
+ 61: 0x0F74 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10206*]:
     → "Now waitaru a sec! Are you trying to pass off your failure as some kind of success!?"
  62: 0x0F7B [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0F7C [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -1370,7 +1370,7 @@ SUBROUTINE_0C09:
  66: 0x0F9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[635*, 0*]
  67: 0x0FAC [0x1C] WAIT(30* ticks)
  68: 0x0FAF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
- 69: 0x0FBE [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10206*]:
+ 69: 0x0FBE [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10207*]:
     → "S-sorry...can you pleasey-wease gather some more ingredients for me?"
  70: 0x0FC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0FC6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1386,25 +1386,25 @@ SUBROUTINE_0C09:
  81: 0x102B [0x1C] WAIT(180* ticks)
  82: 0x102E [0x03] Work_Zone[2] = 4436*
  83: 0x1033 [0x03] Work_Zone[3] = 1*
- 84: 0x1038 [0x48] [System] [10207*]:
+ 84: 0x1038 [0x48] [System] [10208*]:
     → "Tuffle-Buffle synthesized $1 $0 ."
  85: 0x103B [0x1C] WAIT(60* ticks)
  86: 0x103E [0x79] Tuffle-Buffle (ID: 17826010/0x011000DA) looks at Musto-Rusto (ID: 17826011/0x011000DB) (Basic look)
  87: 0x1048 [0x1C] WAIT(30* ticks)
  88: 0x104B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
- 89: 0x105A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10208*]:
+ 89: 0x105A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10209*]:
     → "I told you, Musto-Rusto! You can always expectaru the best from the king of the kitchen! That ol' guild leader better watch out, because a new chef is in town--and his name is Tuffle-Buffle! Just give me a few more hours..."
  90: 0x1061 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x1062 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
  92: 0x1071 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
  93: 0x1082 [0x03] Work_Zone_1700[0] = 120*
  94: 0x1087 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
- 95: 0x108E [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10209*]:
+ 95: 0x108E [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10210*]:
     → "Hours!? I thought you were starving!"
  96: 0x1095 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x1096 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
  98: 0x109C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
- 99: 0x10AB [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10210*]:
+ 99: 0x10AB [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10211*]:
     → "Oh, forget it. Now, hurry and give the gourmet reportaru!"
 100: 0x10B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x10B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
@@ -1418,14 +1418,14 @@ SUBROUTINE_0C09:
 109: 0x1108 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 110: 0x110E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=49*
 111: 0x111D [0x03] Work_Zone[2] = 937*
-112: 0x1122 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10211*]:
+112: 0x1122 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10212*]:
     → "Hmm... It clings to the teeth like a sticky-wicky piece of candy... Reminds me of $0..."
 113: 0x1129 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x112A [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
 115: 0x112D [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 116: 0x1133 [0x03] Work_Zone_1700[0] = 120*
 117: 0x1138 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3F)
-118: 0x113F [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10212*]:
+118: 0x113F [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10213*]:
     → "Its pungentaru stench and overpowering aftertaste... It's...it's...wonderful!"
 119: 0x1146 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x1147 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1435,12 +1435,12 @@ SUBROUTINE_0C09:
 124: 0x1170 [0x03] Work_Zone_1700[0] = 120*
 125: 0x1175 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
 126: 0x117C [0x79] Tuffle-Buffle (ID: 17826010/0x011000DA) looks at Musto-Rusto (ID: 17826011/0x011000DB) (Basic look)
-127: 0x1186 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10213*]:
+127: 0x1186 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10214*]:
     → "More like something you would just throw in the trashy-wash!"
 128: 0x118D [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x118E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 130: 0x1194 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
-131: 0x11A3 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10214*]:
+131: 0x11A3 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10215*]:
     → "And how would you compare it to $0? Like you've ever eaten-weaten one before!"
 132: 0x11AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x11AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
@@ -1448,13 +1448,13 @@ SUBROUTINE_0C09:
 135: 0x11C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[635*, 0*]
 136: 0x11DA [0x03] Work_Zone_1700[0] = 120*
 137: 0x11DF [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
-138: 0x11E6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10215*]:
+138: 0x11E6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10216*]:
     → "All this complaining doesn't befitaru you. You should be on your knees thanking me for such a wonderful, detailed analysis!"
 139: 0x11ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x11EE [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 141: 0x11F4 [0x03] Work_Zone_1700[0] = 120*
 142: 0x11F9 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3D)
-143: 0x1200 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10216*]:
+143: 0x1200 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10217*]:
     → "Oh, hush. Now, time for the main dish!"
 144: 0x1207 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x1208 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -1462,13 +1462,13 @@ SUBROUTINE_0C09:
 147: 0x1214 [0x03] Work_Zone_1700[0] = 60*
 148: 0x1219 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x39)
 149: 0x1220 [0x03] Work_Zone[2] = 4438*
-150: 0x1225 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10188*]:
+150: 0x1225 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10189*]:
     → "You know what would really whetaru my appetite? %."
 151: 0x122C [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x122D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 153: 0x1233 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=EventEntity)
 154: 0x1239 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
-155: 0x1248 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10189*]:
+155: 0x1248 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10190*]:
     → "Musto-Rusto, you're in chargey-warge of the hard part. Tell [him/her] the recipe!"
 156: 0x124F [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x1250 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
@@ -1476,7 +1476,7 @@ SUBROUTINE_0C09:
 159: 0x1270 [0x4A] LocalPlayer looks at Musto-Rusto (ID: 17826011/0x011000DB)
 160: 0x1279 [0x03] Work_Zone_1700[0] = 120*
 161: 0x127E [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2D)
-162: 0x1285 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10217*]:
+162: 0x1285 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10218*]:
     → "<Sigh> Can you do anything else besides eataru?"
 163: 0x128C [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x128D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -1484,7 +1484,7 @@ SUBROUTINE_0C09:
 166: 0x12A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[635*, 0*]
 167: 0x12B3 [0x7B] Musto-Rusto (ID: 17826011/0x011000DB) stops talking
 168: 0x12B8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
-169: 0x12C7 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10191*]:
+169: 0x12C7 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10192*]:
     → "<Sigh> To make $0, you'll need..."
 170: 0x12CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x12CF [0x1C] WAIT(30* ticks)
@@ -1518,11 +1518,11 @@ SUBROUTINE_0C09:
 199: 0x13B7 [0x03] Work_Zone[6] = Work_Zone[68]
 200: 0x13BC [0x03] Work_Zone[7] = Work_Zone[85]
 201: 0x13C1 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x13D0
-202: 0x13C9 [0x48] [System] [10269*]:
+202: 0x13C9 [0x48] [System] [10270*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
 203: 0x13CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x13CD [0x01] GOTO 0x13D4
-205: 0x13D0 [0x48] [System] [10307*]:
+205: 0x13D0 [0x48] [System] [10308*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
 206: 0x13D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1536,21 +1536,21 @@ SUBROUTINE_13D4:
 213: 0x13F2 [0x03] Work_Zone[8] = Work_Zone[79]
 214: 0x13F7 [0x03] Work_Zone[9] = Work_Zone[80]
 215: 0x13FC [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x140B
-216: 0x1404 [0x48] [System] [10273*]:
+216: 0x1404 [0x48] [System] [10274*]:
     → "$4 x $0"
 217: 0x1407 [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x1408 [0x01] GOTO 0x1491
 219: 0x140B [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x141A
-220: 0x1413 [0x48] [System] [10272*]:
+220: 0x1413 [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
 221: 0x1416 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x1417 [0x01] GOTO 0x1491
 223: 0x141A [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1429
-224: 0x1422 [0x48] [System] [10271*]:
+224: 0x1422 [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 225: 0x1425 [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x1426 [0x01] GOTO 0x1491
-227: 0x1429 [0x48] [System] [10270*]:
+227: 0x1429 [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 228: 0x142C [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x142D [0x03] Work_Zone[2] = Work_Zone[73]
@@ -1564,28 +1564,28 @@ SUBROUTINE_13D4:
 237: 0x1455 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x1460
 238: 0x145D [0x01] GOTO 0x1491
 239: 0x1460 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x146F
-240: 0x1468 [0x48] [System] [10273*]:
+240: 0x1468 [0x48] [System] [10274*]:
     → "$4 x $0"
 241: 0x146B [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x146C [0x01] GOTO 0x1491
 243: 0x146F [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x147E
-244: 0x1477 [0x48] [System] [10272*]:
+244: 0x1477 [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
 245: 0x147A [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x147B [0x01] GOTO 0x1491
 247: 0x147E [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x148D
-248: 0x1486 [0x48] [System] [10271*]:
+248: 0x1486 [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 249: 0x1489 [0x23] WAIT_FOR_DIALOG_INTERACTION
 250: 0x148A [0x01] GOTO 0x1491
-251: 0x148D [0x48] [System] [10270*]:
+251: 0x148D [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 252: 0x1490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_1491:
 253: 0x1491 [0x03] Work_Zone[2] = 4566*
 254: 0x1496 [0x03] Work_Zone[6] = 1*
-255: 0x149B [0x48] [System] [10273*]:
+255: 0x149B [0x48] [System] [10274*]:
     → "$4 x $0"
 256: 0x149E [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x149F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=49*
@@ -1595,12 +1595,12 @@ SUBROUTINE_1491:
 261: 0x14DD [0x03] Work_Zone_1700[0] = 120*
 262: 0x14E2 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
 263: 0x14E9 [0x79] Musto-Rusto (ID: 17826011/0x011000DB) looks at Tuffle-Buffle (ID: 17826010/0x011000DA) (Basic look)
-264: 0x14F3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10218*]:
+264: 0x14F3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10219*]:
     → "Are you trying to killy-will me? What idiotaru would put $0 in that!?"
 265: 0x14FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x14FB [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 267: 0x1501 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
-268: 0x1510 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10219*]:
+268: 0x1510 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10220*]:
     → "Musto-Rusto, you're trying-wying to become Sous-Chef Supreme, aren't you!?"
 269: 0x1517 [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x1518 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
@@ -1608,12 +1608,12 @@ SUBROUTINE_1491:
 272: 0x1536 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
 273: 0x1547 [0x03] Work_Zone_1700[0] = 120*
 274: 0x154C [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
-275: 0x1553 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10220*]:
+275: 0x1553 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10221*]:
     → "What are you thinking? Our dream is to become the best comedic duo-wuo in all of Vana'diel, not to be slaving over a hot stove for hours on end!"
 276: 0x155A [0x23] WAIT_FOR_DIALOG_INTERACTION
 277: 0x155B [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 278: 0x1561 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
-279: 0x1570 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10221*]:
+279: 0x1570 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10222*]:
     → "And if I were going to kill you, I'd come up with something more directaru."
 280: 0x1577 [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x1578 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
@@ -1623,7 +1623,7 @@ SUBROUTINE_1491:
 285: 0x15AE [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 286: 0x15B4 [0x03] Work_Zone_1700[0] = 90*
 287: 0x15B9 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3E)
-288: 0x15C0 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10194*]:
+288: 0x15C0 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10195*]:
     → "I can hear the pangs of starvation-wation taking root! Bring me the stuff before I wither on the vine!"
 289: 0x15C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x15C8 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -1634,7 +1634,7 @@ SUBROUTINE_1491:
 295: 0x15F4 [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=635*
 296: 0x1603 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 297: 0x1609 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[635*, 0*]
-298: 0x161A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10195*]:
+298: 0x161A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10196*]:
     → "You can forgetaru about the $0, but not the crystal! Remember the crystal!"
 299: 0x1621 [0x23] WAIT_FOR_DIALOG_INTERACTION
 300: 0x1622 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1830,12 +1830,12 @@ SUBROUTINE_1664:
  23: 0x1728 [0x03] Work_Zone_1700[0] = 210*
  24: 0x172D [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x38)
  25: 0x1734 [0x03] Work_Zone[2] = 4566*
- 26: 0x1739 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10199*]:
+ 26: 0x1739 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10200*]:
     → "Geez, how long could it possibly take to find some $0??? You're just lucky-wucky I'm not any more emaciatarued than I already am!"
  27: 0x1740 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x1741 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
  29: 0x1747 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "syu0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
- 30: 0x1756 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10200*]:
+ 30: 0x1756 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10201*]:
     → "OK! Let's get to it!"
  31: 0x175D [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x175E [0x79] Musto-Rusto (ID: 17826011/0x011000DB) looks at Tuffle-Buffle (ID: 17826010/0x011000DA) (Basic look)
@@ -1861,14 +1861,14 @@ SUBROUTINE_1664:
  52: 0x17DE [0x1A] CALL_SUBROUTINE(address=0x35A6)
  53: 0x17E1 [0x1C] WAIT(90* ticks)
  54: 0x17E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "teh0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=42*
- 55: 0x17F3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10204*]:
+ 55: 0x17F3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10205*]:
     → "These pangy-wangs of hunger...I can't focus..."
  56: 0x17FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x17FB [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
  58: 0x180A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
  59: 0x181B [0x03] Work_Zone_1700[0] = 120*
  60: 0x1820 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
- 61: 0x1827 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10205*]:
+ 61: 0x1827 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10206*]:
     → "Now waitaru a sec! Are you trying to pass off your failure as some kind of success!?"
  62: 0x182E [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x182F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -1877,7 +1877,7 @@ SUBROUTINE_1664:
  66: 0x184E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[635*, 0*]
  67: 0x185F [0x1C] WAIT(30* ticks)
  68: 0x1862 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
- 69: 0x1871 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10206*]:
+ 69: 0x1871 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10207*]:
     → "S-sorry...can you pleasey-wease gather some more ingredients for me?"
  70: 0x1878 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x1879 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1893,25 +1893,25 @@ SUBROUTINE_1664:
  81: 0x18DE [0x1C] WAIT(180* ticks)
  82: 0x18E1 [0x03] Work_Zone[2] = 4438*
  83: 0x18E6 [0x03] Work_Zone[3] = 1*
- 84: 0x18EB [0x48] [System] [10207*]:
+ 84: 0x18EB [0x48] [System] [10208*]:
     → "Tuffle-Buffle synthesized $1 $0 ."
  85: 0x18EE [0x1C] WAIT(60* ticks)
  86: 0x18F1 [0x79] Tuffle-Buffle (ID: 17826010/0x011000DA) looks at Musto-Rusto (ID: 17826011/0x011000DB) (Basic look)
  87: 0x18FB [0x1C] WAIT(30* ticks)
  88: 0x18FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
- 89: 0x190D [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10222*]:
+ 89: 0x190D [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10223*]:
     → "See that, Musto-Rusto? A perfectaru combination of flavor and love! I'll be the head of the Bridge of Dreams before you know it!"
  90: 0x1914 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x1915 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
  92: 0x1924 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
  93: 0x1935 [0x03] Work_Zone_1700[0] = 120*
  94: 0x193A [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
- 95: 0x1941 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10223*]:
+ 95: 0x1941 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10224*]:
     → "If you want it to go bankruptaru, you mean."
  96: 0x1948 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x1949 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
  98: 0x194F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
- 99: 0x195E [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10210*]:
+ 99: 0x195E [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10211*]:
     → "Oh, forget it. Now, hurry and give the gourmet reportaru!"
 100: 0x1965 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x1966 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
@@ -1925,14 +1925,14 @@ SUBROUTINE_1664:
 109: 0x19BB [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 110: 0x19C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=49*
 111: 0x19D0 [0x03] Work_Zone[2] = 637*
-112: 0x19D5 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10224*]:
+112: 0x19D5 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10225*]:
     → "<Munch>...<munch>... Yes, the oil coats the roof of my mouth... It's like slurping-wurping on $0..."
 113: 0x19DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x19DD [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
 115: 0x19E0 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 116: 0x19E6 [0x03] Work_Zone_1700[0] = 120*
 117: 0x19EB [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3F)
-118: 0x19F2 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10225*]:
+118: 0x19F2 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10226*]:
     → "The meaty juices assaultaru my throat with the fury of a thousand Moblins. Outstanding!"
 119: 0x19F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x19FA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1942,12 +1942,12 @@ SUBROUTINE_1664:
 124: 0x1A23 [0x03] Work_Zone_1700[0] = 120*
 125: 0x1A28 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
 126: 0x1A2F [0x79] Tuffle-Buffle (ID: 17826010/0x011000DA) looks at Musto-Rusto (ID: 17826011/0x011000DB) (Basic look)
-127: 0x1A39 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10213*]:
+127: 0x1A39 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10214*]:
     → "More like something you would just throw in the trashy-wash!"
 128: 0x1A40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x1A41 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 130: 0x1A47 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
-131: 0x1A56 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10214*]:
+131: 0x1A56 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10215*]:
     → "And how would you compare it to $0? Like you've ever eaten-weaten one before!"
 132: 0x1A5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x1A5E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
@@ -1955,13 +1955,13 @@ SUBROUTINE_1664:
 135: 0x1A7C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[635*, 0*]
 136: 0x1A8D [0x03] Work_Zone_1700[0] = 120*
 137: 0x1A92 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
-138: 0x1A99 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10215*]:
+138: 0x1A99 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10216*]:
     → "All this complaining doesn't befitaru you. You should be on your knees thanking me for such a wonderful, detailed analysis!"
 139: 0x1AA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x1AA1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 141: 0x1AA7 [0x03] Work_Zone_1700[0] = 120*
 142: 0x1AAC [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3D)
-143: 0x1AB3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10226*]:
+143: 0x1AB3 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10227*]:
     → "We've partaken of appetizers and devoured the main course. All that's left is dessertaru!"
 144: 0x1ABA [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x1ABB [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -1969,13 +1969,13 @@ SUBROUTINE_1664:
 147: 0x1AC7 [0x03] Work_Zone_1700[0] = 60*
 148: 0x1ACC [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x39)
 149: 0x1AD3 [0x03] Work_Zone[2] = 4406*
-150: 0x1AD8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10188*]:
+150: 0x1AD8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10189*]:
     → "You know what would really whetaru my appetite? %."
 151: 0x1ADF [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x1AE0 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 153: 0x1AE6 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=EventEntity)
 154: 0x1AEC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
-155: 0x1AFB [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10189*]:
+155: 0x1AFB [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10190*]:
     → "Musto-Rusto, you're in chargey-warge of the hard part. Tell [him/her] the recipe!"
 156: 0x1B02 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x1B03 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
@@ -1983,14 +1983,14 @@ SUBROUTINE_1664:
 159: 0x1B23 [0x4A] LocalPlayer looks at Musto-Rusto (ID: 17826011/0x011000DB)
 160: 0x1B2C [0x03] Work_Zone_1700[0] = 120*
 161: 0x1B31 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2D)
-162: 0x1B38 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10227*]:
+162: 0x1B38 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10228*]:
     → "All this moaning-woaning about recipes... I bet you don't even know them, do you?"
 163: 0x1B3F [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x1B40 [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=635*
 165: 0x1B4F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[635*, 0*]
 166: 0x1B60 [0x7B] Musto-Rusto (ID: 17826011/0x011000DB) stops talking
 167: 0x1B65 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
-168: 0x1B74 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10191*]:
+168: 0x1B74 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10192*]:
     → "<Sigh> To make $0, you'll need..."
 169: 0x1B7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x1B7C [0x1C] WAIT(30* ticks)
@@ -2024,11 +2024,11 @@ SUBROUTINE_1664:
 198: 0x1C64 [0x03] Work_Zone[6] = Work_Zone[68]
 199: 0x1C69 [0x03] Work_Zone[7] = Work_Zone[85]
 200: 0x1C6E [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x1C7D
-201: 0x1C76 [0x48] [System] [10269*]:
+201: 0x1C76 [0x48] [System] [10270*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
 202: 0x1C79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x1C7A [0x01] GOTO 0x1C81
-204: 0x1C7D [0x48] [System] [10307*]:
+204: 0x1C7D [0x48] [System] [10308*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
 205: 0x1C80 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2042,21 +2042,21 @@ SUBROUTINE_1C81:
 212: 0x1C9F [0x03] Work_Zone[8] = Work_Zone[79]
 213: 0x1CA4 [0x03] Work_Zone[9] = Work_Zone[80]
 214: 0x1CA9 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x1CB8
-215: 0x1CB1 [0x48] [System] [10273*]:
+215: 0x1CB1 [0x48] [System] [10274*]:
     → "$4 x $0"
 216: 0x1CB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x1CB5 [0x01] GOTO 0x1D3E
 218: 0x1CB8 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x1CC7
-219: 0x1CC0 [0x48] [System] [10272*]:
+219: 0x1CC0 [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
 220: 0x1CC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x1CC4 [0x01] GOTO 0x1D3E
 222: 0x1CC7 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1CD6
-223: 0x1CCF [0x48] [System] [10271*]:
+223: 0x1CCF [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 224: 0x1CD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x1CD3 [0x01] GOTO 0x1D3E
-226: 0x1CD6 [0x48] [System] [10270*]:
+226: 0x1CD6 [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 227: 0x1CD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x1CDA [0x03] Work_Zone[2] = Work_Zone[73]
@@ -2070,28 +2070,28 @@ SUBROUTINE_1C81:
 236: 0x1D02 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x1D0D
 237: 0x1D0A [0x01] GOTO 0x1D3E
 238: 0x1D0D [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x1D1C
-239: 0x1D15 [0x48] [System] [10273*]:
+239: 0x1D15 [0x48] [System] [10274*]:
     → "$4 x $0"
 240: 0x1D18 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x1D19 [0x01] GOTO 0x1D3E
 242: 0x1D1C [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x1D2B
-243: 0x1D24 [0x48] [System] [10272*]:
+243: 0x1D24 [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
 244: 0x1D27 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x1D28 [0x01] GOTO 0x1D3E
 246: 0x1D2B [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1D3A
-247: 0x1D33 [0x48] [System] [10271*]:
+247: 0x1D33 [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 248: 0x1D36 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x1D37 [0x01] GOTO 0x1D3E
-250: 0x1D3A [0x48] [System] [10270*]:
+250: 0x1D3A [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 251: 0x1D3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_1D3E:
 252: 0x1D3E [0x03] Work_Zone[2] = 4374*
 253: 0x1D43 [0x03] Work_Zone[6] = 1*
-254: 0x1D48 [0x48] [System] [10273*]:
+254: 0x1D48 [0x48] [System] [10274*]:
     → "$4 x $0"
 255: 0x1D4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x1D4C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=49*
@@ -2101,19 +2101,19 @@ SUBROUTINE_1D3E:
 260: 0x1D8A [0x03] Work_Zone_1700[0] = 120*
 261: 0x1D8F [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
 262: 0x1D96 [0x79] Musto-Rusto (ID: 17826011/0x011000DB) looks at Tuffle-Buffle (ID: 17826010/0x011000DA) (Basic look)
-263: 0x1DA0 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10228*]:
+263: 0x1DA0 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10229*]:
     → "Oy oy! What's the big idea adding $0? You're hoping to send me to sleepy-weep with the fishes, aren't you?"
 264: 0x1DA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x1DA8 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 266: 0x1DAE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
-267: 0x1DBD [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10229*]:
+267: 0x1DBD [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10230*]:
     → "All of Vana'diel will be bawling and writhing in anguish if I kick the bucketaru!"
 268: 0x1DC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x1DC5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
 270: 0x1DD4 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [EventEntity, EventEntity], work=635*
 271: 0x1DE3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
 272: 0x1DF4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
-273: 0x1E03 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10230*]:
+273: 0x1E03 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10231*]:
     → "Bawling and writhing? More like dancing and singing."
 274: 0x1E0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 275: 0x1E0B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
@@ -2123,7 +2123,7 @@ SUBROUTINE_1D3E:
 279: 0x1E41 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 280: 0x1E47 [0x03] Work_Zone_1700[0] = 90*
 281: 0x1E4C [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3E)
-282: 0x1E53 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10194*]:
+282: 0x1E53 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10195*]:
     → "I can hear the pangs of starvation-wation taking root! Bring me the stuff before I wither on the vine!"
 283: 0x1E5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x1E5B [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -2134,7 +2134,7 @@ SUBROUTINE_1D3E:
 289: 0x1E87 [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=635*
 290: 0x1E96 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 291: 0x1E9C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[635*, 0*]
-292: 0x1EAD [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10195*]:
+292: 0x1EAD [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10196*]:
     → "You can forgetaru about the $0, but not the crystal! Remember the crystal!"
 293: 0x1EB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x1EB5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -2374,12 +2374,12 @@ SUBROUTINE_1EF7:
  29: 0x1FED [0x03] Work_Zone_1700[0] = 210*
  30: 0x1FF2 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x38)
  31: 0x1FF9 [0x03] Work_Zone[2] = 4374*
- 32: 0x1FFE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10199*]:
+ 32: 0x1FFE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10200*]:
     → "Geez, how long could it possibly take to find some $0??? You're just lucky-wucky I'm not any more emaciatarued than I already am!"
  33: 0x2005 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x2006 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
  35: 0x200C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "syu0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
- 36: 0x201B [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10200*]:
+ 36: 0x201B [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10201*]:
     → "OK! Let's get to it!"
  37: 0x2022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x2023 [0x79] Musto-Rusto (ID: 17826011/0x011000DB) looks at Tuffle-Buffle (ID: 17826010/0x011000DA) (Basic look)
@@ -2405,14 +2405,14 @@ SUBROUTINE_1EF7:
  58: 0x20A3 [0x1A] CALL_SUBROUTINE(address=0x35A6)
  59: 0x20A6 [0x1C] WAIT(90* ticks)
  60: 0x20A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "teh0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=42*
- 61: 0x20B8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10204*]:
+ 61: 0x20B8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10205*]:
     → "These pangy-wangs of hunger...I can't focus..."
  62: 0x20BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x20C0 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
  64: 0x20CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
  65: 0x20E0 [0x03] Work_Zone_1700[0] = 120*
  66: 0x20E5 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
- 67: 0x20EC [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10205*]:
+ 67: 0x20EC [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10206*]:
     → "Now waitaru a sec! Are you trying to pass off your failure as some kind of success!?"
  68: 0x20F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x20F4 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -2421,7 +2421,7 @@ SUBROUTINE_1EF7:
  72: 0x2113 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[635*, 0*]
  73: 0x2124 [0x1C] WAIT(30* ticks)
  74: 0x2127 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
- 75: 0x2136 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10206*]:
+ 75: 0x2136 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10207*]:
     → "S-sorry...can you pleasey-wease gather some more ingredients for me?"
  76: 0x213D [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x213E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -2437,29 +2437,29 @@ SUBROUTINE_1EF7:
  87: 0x21A3 [0x1C] WAIT(180* ticks)
  88: 0x21A6 [0x03] Work_Zone[2] = 4406*
  89: 0x21AB [0x03] Work_Zone[3] = 1*
- 90: 0x21B0 [0x48] [System] [10207*]:
+ 90: 0x21B0 [0x48] [System] [10208*]:
     → "Tuffle-Buffle synthesized $1 $0 ."
  91: 0x21B3 [0x1C] WAIT(60* ticks)
  92: 0x21B6 [0x79] Tuffle-Buffle (ID: 17826010/0x011000DA) looks at Musto-Rusto (ID: 17826011/0x011000DB) (Basic look)
  93: 0x21C0 [0x1C] WAIT(30* ticks)
  94: 0x21C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
- 95: 0x21D2 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10231*]:
+ 95: 0x21D2 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10232*]:
     → "What'd I tell-well you, Musto-Rusto? Next stop: headmaster at the School of Magic!"
  96: 0x21D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x21DA [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
  98: 0x21E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
  99: 0x21FA [0x03] Work_Zone_1700[0] = 120*
 100: 0x21FF [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
-101: 0x2206 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10232*]:
+101: 0x2206 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10233*]:
     → "What happened to the whole head chef idea!? Plus, Professor Koru-Moru won't be happy-wappy to hear you want to usurp him!"
 102: 0x220D [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x220E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 104: 0x2214 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
-105: 0x2223 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10233*]:
+105: 0x2223 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10234*]:
     → "And besides, we're too lowbrow for something so magnificentaru!"
 106: 0x222A [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x222B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
-108: 0x223A [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10210*]:
+108: 0x223A [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10211*]:
     → "Oh, forget it. Now, hurry and give the gourmet reportaru!"
 109: 0x2241 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x2242 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
@@ -2473,14 +2473,14 @@ SUBROUTINE_1EF7:
 118: 0x2297 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 119: 0x229D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=49*
 120: 0x22AC [0x03] Work_Zone[2] = 1156*
-121: 0x22B1 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10234*]:
+121: 0x22B1 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10235*]:
     → "Hmm... This is crunchy-wunchy... Feels good on the teeth... It's just like eating $0..."
 122: 0x22B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x22B9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
 124: 0x22BC [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 125: 0x22C2 [0x03] Work_Zone_1700[0] = 120*
 126: 0x22C7 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3F)
-127: 0x22CE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10235*]:
+127: 0x22CE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10236*]:
     → "It leaves sharp pricklies in my mouthy-wouth... Yes, this is stupendous!"
 128: 0x22D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x22D6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2490,12 +2490,12 @@ SUBROUTINE_1EF7:
 133: 0x22FF [0x03] Work_Zone_1700[0] = 120*
 134: 0x2304 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
 135: 0x230B [0x79] Tuffle-Buffle (ID: 17826010/0x011000DA) looks at Musto-Rusto (ID: 17826011/0x011000DB) (Basic look)
-136: 0x2315 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10213*]:
+136: 0x2315 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10214*]:
     → "More like something you would just throw in the trashy-wash!"
 137: 0x231C [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x231D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 139: 0x2323 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
-140: 0x2332 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10214*]:
+140: 0x2332 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10215*]:
     → "And how would you compare it to $0? Like you've ever eaten-weaten one before!"
 141: 0x2339 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x233A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
@@ -2503,7 +2503,7 @@ SUBROUTINE_1EF7:
 144: 0x2358 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[635*, 0*]
 145: 0x2369 [0x03] Work_Zone_1700[0] = 120*
 146: 0x236E [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
-147: 0x2375 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10215*]:
+147: 0x2375 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10216*]:
     → "All this complaining doesn't befitaru you. You should be on your knees thanking me for such a wonderful, detailed analysis!"
 148: 0x237C [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x237D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -2511,26 +2511,26 @@ SUBROUTINE_1EF7:
 151: 0x2392 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[635*, 0*]
 152: 0x23A3 [0x03] Work_Zone_1700[0] = 120*
 153: 0x23A8 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
-154: 0x23AF [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10236*]:
+154: 0x23AF [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10237*]:
     → "What kind of idiotaru are you? I trusted you when you said a comedian makes ten times as much as a mage!"
 155: 0x23B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x23B7 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 157: 0x23BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
-158: 0x23CC [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10237*]:
+158: 0x23CC [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10238*]:
     → "And that look in your eye--you don't want to actually do a gourmet report. You just want to stuff your facey-wace!"
 159: 0x23D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x23D4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
 161: 0x23E3 [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=635*
 162: 0x23F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[635*, 0*]
 163: 0x2403 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=40*
-164: 0x2412 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10238*]:
+164: 0x2412 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10239*]:
     → "How darey-ware you! Who was the one who ate your lunch so that the headmastaru wouldn't find out you were wasting food!?"
 165: 0x2419 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x241A [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=635*
 167: 0x2429 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [EventEntity, EventEntity], work=[635*, 0*]
 168: 0x243A [0x03] Work_Zone_1700[0] = 120*
 169: 0x243F [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
-170: 0x2446 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10239*]:
+170: 0x2446 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10240*]:
     → "You...you...you Goblin-brained nitwitaru!"
 171: 0x244D [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x244E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -2539,20 +2539,20 @@ SUBROUTINE_1EF7:
 175: 0x2474 [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x00
 176: 0x247A [0x03] Work_Zone_1700[0] = 60*
 177: 0x247F [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2A)
-178: 0x2486 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10240*]:
+178: 0x2486 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10241*]:
     → "Why I oughta...!!!"
 179: 0x248D [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x248E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 181: 0x2494 [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x01
 182: 0x249A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
-183: 0x24A9 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10241*]:
+183: 0x24A9 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10242*]:
     → "It-it was you who scarfed down my lunchy-wunch when I wasn't looking!?"
 184: 0x24B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x24B1 [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=635*
 186: 0x24C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [EventEntity, EventEntity], work=[635*, 0*]
 187: 0x24D1 [0x03] Work_Zone_1700[0] = 120*
 188: 0x24D6 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2E)
-189: 0x24DD [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10242*]:
+189: 0x24DD [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10243*]:
     → "You obnoxious onion-wonion-head!"
 190: 0x24E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x24E5 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -2566,7 +2566,7 @@ SUBROUTINE_1EF7:
 199: 0x2546 [0x4A] LocalPlayer looks at Tuffle-Buffle (ID: 17826010/0x011000DA)
 200: 0x254F [0xB4] UI_WINDOW_STRING_HANDLER(case=0x00 - Copy string from opcode, work_offset=ExtData[1]->WorkLocal[8], string="???")
 201: 0x2563 [0xB5] SET_EVENT_ENTITY_NAME: Change EventEntity name to ExtData[1]->WorkLocal[8]
-202: 0x2567 [0x1D] PRINT_EVENT_MESSAGE(message_id=10243*)
+202: 0x2567 [0x1D] PRINT_EVENT_MESSAGE(message_id=10244*)
     → "Enough, you two!!!"
 203: 0x256A [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x256B [0xB4] UI_WINDOW_STRING_HANDLER(case=0x13 - Copy string and replace @ with space, work_offset=ExtData[1]->WorkLocal[8], string="Mischief@Marker")
@@ -2583,7 +2583,7 @@ SUBROUTINE_1EF7:
 215: 0x25D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[635*, 0*]
 216: 0x25E4 [0x03] Work_Zone_1700[0] = 180*
 217: 0x25E9 [0x27] REQ_SET(priority=0x10, entity_id=Peladi Shalmohr (ID: 17826008/0x011000D8), tag_num=0x14)
-218: 0x25F0 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10244*]:
+218: 0x25F0 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10245*]:
     → "How many times do I have to rrremind you--if you don't practice your schtick, you'll never make it out of the litter box!"
 219: 0x25F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x25F8 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Peladi Shalmohr (ID: 17826008/0x011000D8))
@@ -2592,11 +2592,11 @@ SUBROUTINE_1EF7:
 223: 0x261E [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x28)
 224: 0x2625 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x40)
 225: 0x262C [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x00
-226: 0x2632 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10245*]:
+226: 0x2632 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10246*]:
     → "Ack!!!"
 227: 0x2639 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x263A [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x01
-229: 0x2640 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10246*]:
+229: 0x2640 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10247*]:
     → "Sweet heavens, it's the cheap! Ruuuuuun!"
 230: 0x2647 [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x2648 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -2613,7 +2613,7 @@ SUBROUTINE_1EF7:
 242: 0x26B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[635*, 0*]
 243: 0x26C9 [0x03] Work_Zone_1700[0] = 180*
 244: 0x26CE [0x27] REQ_SET(priority=0x10, entity_id=Peladi Shalmohr (ID: 17826008/0x011000D8), tag_num=0x15)
-245: 0x26D5 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10247*]:
+245: 0x26D5 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10248*]:
     → "Cheap!? Who are you calling cheap!? It's "chief," you ungrateful morrrons!"
 246: 0x26DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x26DD [0x2A] GET_REQ_LEVEL(level=16, entity_id=Peladi Shalmohr (ID: 17826008/0x011000D8))
@@ -2631,7 +2631,7 @@ SUBROUTINE_1EF7:
 259: 0x2747 [0x1C] WAIT(30* ticks)
 260: 0x274A [0x4A] LocalPlayer looks at Peladi Shalmohr (ID: 17826008/0x011000D8)
 261: 0x2753 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hja0" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=1530*
-262: 0x2762 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10248*]:
+262: 0x2762 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10249*]:
     → "<Sigh>..."
 263: 0x2769 [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x276A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hja0" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)]
@@ -2643,11 +2643,11 @@ SUBROUTINE_1EF7:
 270: 0x27A6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 271: 0x27A7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Peladi Shalmohr (ID: 17826008/0x011000D8) Render.Flags0 and Render.Flags3 conditions are met
 272: 0x27AC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=199*
-273: 0x27BB [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10249*]:
+273: 0x27BB [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10250*]:
     → "I do owe you my thanks, however. Tarrrutaru Sauce didn't get into any major mischief."
 274: 0x27C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 275: 0x27C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=59*
-276: 0x27D2 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10250*]:
+276: 0x27D2 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10251*]:
     → "Congrrratulations! You've officially passed the test!"
 277: 0x27D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x27DA [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x02)
@@ -2655,7 +2655,7 @@ SUBROUTINE_1EF7:
 280: 0x27E6 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x35)
 281: 0x27ED [0x1C] WAIT(90* ticks)
 282: 0x27F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=59*
-283: 0x27FF [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10251*]:
+283: 0x27FF [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10252*]:
     → "...Their autogrrraph!? It wouldn't be worth the paper it's written on!"
 284: 0x2806 [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x2807 [0x6E] LocalPlayer uses emote 21*
@@ -2666,12 +2666,12 @@ SUBROUTINE_1EF7:
 290: 0x282B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[635*, 0*]
 291: 0x283C [0x03] Work_Zone_1700[0] = 120*
 292: 0x2841 [0x27] REQ_SET(priority=0x10, entity_id=Peladi Shalmohr (ID: 17826008/0x011000D8), tag_num=0x16)
-293: 0x2848 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10252*]:
+293: 0x2848 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10253*]:
     → "Besides, how are they going to know how to do autographs without you, their managerrr, to guide them?"
 294: 0x284F [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x2850 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Peladi Shalmohr (ID: 17826008/0x011000D8))
 296: 0x2856 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=127*
-297: 0x2865 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10253*]:
+297: 0x2865 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10254*]:
     → "Here, give them a sample by wrrriting down your name on this con...paper."
 298: 0x286C [0x23] WAIT_FOR_DIALOG_INTERACTION
 299: 0x286D [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [EventEntity, EventEntity], work=635*
@@ -2681,11 +2681,11 @@ SUBROUTINE_1EF7:
 303: 0x2897 [0x99] Wait for LocalPlayer animation to complete
 304: 0x289C [0x59] UPDATE_ENTITY_DATA: Check if LocalPlayer is performing moving action
 305: 0x28A2 [0x1C] WAIT(90* ticks)
-306: 0x28A5 [0x48] [System] [10254*]:
+306: 0x28A5 [0x48] [System] [10255*]:
     → "You write your name on the parchment."
 307: 0x28A8 [0x1C] WAIT(120* ticks)
 308: 0x28AB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ed00" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=767*
-309: 0x28BA [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10255*]:
+309: 0x28BA [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10256*]:
     → "Wonderful! Now you're a true apprrrentice manager in my employ!"
 310: 0x28C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x28C2 [0x6E] LocalPlayer uses emote 29*
@@ -2693,14 +2693,14 @@ SUBROUTINE_1EF7:
 313: 0x28CE [0x59] UPDATE_ENTITY_DATA: Check if LocalPlayer is performing moving action
 314: 0x28D4 [0x1C] WAIT(120* ticks)
 315: 0x28D7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=59*
-316: 0x28E6 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10256*]:
+316: 0x28E6 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10257*]:
     → "Oh, and one more thing. Apprentice managers don't get a salary. Work hard, and maybe we can rrrenegotiate at a later date."
 317: 0x28ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 318: 0x28EE [0x6E] LocalPlayer uses emote 21*
 319: 0x28F5 [0x99] Wait for LocalPlayer animation to complete
 320: 0x28FA [0x59] UPDATE_ENTITY_DATA: Check if LocalPlayer is performing moving action
 321: 0x2900 [0x1C] WAIT(120* ticks)
-322: 0x2903 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10257*]:
+322: 0x2903 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10258*]:
     → "Well? What are you waiting arrround for?"
 323: 0x290A [0x23] WAIT_FOR_DIALOG_INTERACTION
 324: 0x290B [0x4A] Peladi Shalmohr (ID: 17826008/0x011000D8) looks at Tuffle-Buffle (ID: 17826010/0x011000DA)
@@ -2710,7 +2710,7 @@ SUBROUTINE_1EF7:
 328: 0x2920 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [EventEntity, EventEntity], work=635*
 329: 0x292F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [EventEntity, EventEntity], work=[635*, 0*]
 330: 0x2940 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pos0" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=124*
-331: 0x294F [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10258*]:
+331: 0x294F [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10259*]:
     → "Go and chase afterrr those two incompetent fools!"
 332: 0x2956 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x2957 [0x1C] WAIT(60* ticks)
@@ -2719,7 +2719,7 @@ SUBROUTINE_1EF7:
 336: 0x297A [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x39)
 337: 0x2981 [0x1C] WAIT(600* ticks)
 338: 0x2984 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
-339: 0x2995 [0x48] [System] [10259*]:
+339: 0x2995 [0x48] [System] [10260*]:
     → "You have earned the trust and respect of Peladi Shalmohr! ...Probably."
 340: 0x2998 [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x2999 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -2835,7 +2835,7 @@ SUBROUTINE_29E2:
  21: 0x2A84 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[635*, 0*]
  22: 0x2A95 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  23: 0x2AA6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
- 24: 0x2AB5 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10196*]:
+ 24: 0x2AB5 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10197*]:
     → "Forgotten already? Did you hitaru your head on a doorframe? Listen carefully, and take notes this time!"
  25: 0x2ABC [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x2ABD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "nmi0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
@@ -2869,11 +2869,11 @@ SUBROUTINE_29E2:
  54: 0x2BB1 [0x03] Work_Zone[6] = Work_Zone[68]
  55: 0x2BB6 [0x03] Work_Zone[7] = Work_Zone[85]
  56: 0x2BBB [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x2BCA
- 57: 0x2BC3 [0x48] [System] [10269*]:
+ 57: 0x2BC3 [0x48] [System] [10270*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
  58: 0x2BC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x2BC7 [0x01] GOTO 0x2BCE
- 60: 0x2BCA [0x48] [System] [10307*]:
+ 60: 0x2BCA [0x48] [System] [10308*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
  61: 0x2BCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2887,21 +2887,21 @@ SUBROUTINE_2BCE:
  68: 0x2BEC [0x03] Work_Zone[8] = Work_Zone[79]
  69: 0x2BF1 [0x03] Work_Zone[9] = Work_Zone[80]
  70: 0x2BF6 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x2C05
- 71: 0x2BFE [0x48] [System] [10273*]:
+ 71: 0x2BFE [0x48] [System] [10274*]:
     → "$4 x $0"
  72: 0x2C01 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x2C02 [0x01] GOTO 0x2C8B
  74: 0x2C05 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x2C14
- 75: 0x2C0D [0x48] [System] [10272*]:
+ 75: 0x2C0D [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
  76: 0x2C10 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x2C11 [0x01] GOTO 0x2C8B
  78: 0x2C14 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x2C23
- 79: 0x2C1C [0x48] [System] [10271*]:
+ 79: 0x2C1C [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
  80: 0x2C1F [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x2C20 [0x01] GOTO 0x2C8B
- 82: 0x2C23 [0x48] [System] [10270*]:
+ 82: 0x2C23 [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
  83: 0x2C26 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x2C27 [0x03] Work_Zone[2] = Work_Zone[73]
@@ -2915,21 +2915,21 @@ SUBROUTINE_2BCE:
  92: 0x2C4F [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x2C5A
  93: 0x2C57 [0x01] GOTO 0x2C8B
  94: 0x2C5A [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x2C69
- 95: 0x2C62 [0x48] [System] [10273*]:
+ 95: 0x2C62 [0x48] [System] [10274*]:
     → "$4 x $0"
  96: 0x2C65 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x2C66 [0x01] GOTO 0x2C8B
  98: 0x2C69 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x2C78
- 99: 0x2C71 [0x48] [System] [10272*]:
+ 99: 0x2C71 [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
 100: 0x2C74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x2C75 [0x01] GOTO 0x2C8B
 102: 0x2C78 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x2C87
-103: 0x2C80 [0x48] [System] [10271*]:
+103: 0x2C80 [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 104: 0x2C83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x2C84 [0x01] GOTO 0x2C8B
-106: 0x2C87 [0x48] [System] [10270*]:
+106: 0x2C87 [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 107: 0x2C8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2939,7 +2939,7 @@ SUBROUTINE_2C8B:
 110: 0x2CA9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[635*, 0*]
 111: 0x2CBA [0x03] Work_Zone_1700[0] = 90*
 112: 0x2CBF [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3E)
-113: 0x2CC6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10197*]:
+113: 0x2CC6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10198*]:
     → "What is this emptiness I feel? My body-wody...so weak..."
 114: 0x2CCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x2CCE [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -2950,7 +2950,7 @@ SUBROUTINE_2C8B:
 120: 0x2CFA [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 121: 0x2D00 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[635*, 0*]
 122: 0x2D11 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pos0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=114*
-123: 0x2D20 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10198*]:
+123: 0x2D20 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10199*]:
     → "I feel faintaru...please...you must..."
 124: 0x2D27 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x2D28 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3062,7 +3062,7 @@ SUBROUTINE_2C8B:
  21: 0x2E0C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[635*, 0*]
  22: 0x2E1D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  23: 0x2E2E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
- 24: 0x2E3D [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10196*]:
+ 24: 0x2E3D [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10197*]:
     → "Forgotten already? Did you hitaru your head on a doorframe? Listen carefully, and take notes this time!"
  25: 0x2E44 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x2E45 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "nmi0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
@@ -3096,11 +3096,11 @@ SUBROUTINE_2C8B:
  54: 0x2F39 [0x03] Work_Zone[6] = Work_Zone[68]
  55: 0x2F3E [0x03] Work_Zone[7] = Work_Zone[85]
  56: 0x2F43 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x2F52
- 57: 0x2F4B [0x48] [System] [10269*]:
+ 57: 0x2F4B [0x48] [System] [10270*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
  58: 0x2F4E [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x2F4F [0x01] GOTO 0x2F56
- 60: 0x2F52 [0x48] [System] [10307*]:
+ 60: 0x2F52 [0x48] [System] [10308*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
  61: 0x2F55 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3114,21 +3114,21 @@ SUBROUTINE_2F56:
  68: 0x2F74 [0x03] Work_Zone[8] = Work_Zone[79]
  69: 0x2F79 [0x03] Work_Zone[9] = Work_Zone[80]
  70: 0x2F7E [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x2F8D
- 71: 0x2F86 [0x48] [System] [10273*]:
+ 71: 0x2F86 [0x48] [System] [10274*]:
     → "$4 x $0"
  72: 0x2F89 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x2F8A [0x01] GOTO 0x3013
  74: 0x2F8D [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x2F9C
- 75: 0x2F95 [0x48] [System] [10272*]:
+ 75: 0x2F95 [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
  76: 0x2F98 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x2F99 [0x01] GOTO 0x3013
  78: 0x2F9C [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x2FAB
- 79: 0x2FA4 [0x48] [System] [10271*]:
+ 79: 0x2FA4 [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
  80: 0x2FA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x2FA8 [0x01] GOTO 0x3013
- 82: 0x2FAB [0x48] [System] [10270*]:
+ 82: 0x2FAB [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
  83: 0x2FAE [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x2FAF [0x03] Work_Zone[2] = Work_Zone[73]
@@ -3142,21 +3142,21 @@ SUBROUTINE_2F56:
  92: 0x2FD7 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x2FE2
  93: 0x2FDF [0x01] GOTO 0x3013
  94: 0x2FE2 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x2FF1
- 95: 0x2FEA [0x48] [System] [10273*]:
+ 95: 0x2FEA [0x48] [System] [10274*]:
     → "$4 x $0"
  96: 0x2FED [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x2FEE [0x01] GOTO 0x3013
  98: 0x2FF1 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x3000
- 99: 0x2FF9 [0x48] [System] [10272*]:
+ 99: 0x2FF9 [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
 100: 0x2FFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x2FFD [0x01] GOTO 0x3013
 102: 0x3000 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x300F
-103: 0x3008 [0x48] [System] [10271*]:
+103: 0x3008 [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 104: 0x300B [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x300C [0x01] GOTO 0x3013
-106: 0x300F [0x48] [System] [10270*]:
+106: 0x300F [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 107: 0x3012 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3166,7 +3166,7 @@ SUBROUTINE_3013:
 110: 0x3031 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[635*, 0*]
 111: 0x3042 [0x03] Work_Zone_1700[0] = 90*
 112: 0x3047 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3E)
-113: 0x304E [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10197*]:
+113: 0x304E [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10198*]:
     → "What is this emptiness I feel? My body-wody...so weak..."
 114: 0x3055 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x3056 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -3177,7 +3177,7 @@ SUBROUTINE_3013:
 120: 0x3082 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 121: 0x3088 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[635*, 0*]
 122: 0x3099 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pos0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=114*
-123: 0x30A8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10198*]:
+123: 0x30A8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10199*]:
     → "I feel faintaru...please...you must..."
 124: 0x30AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x30B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3324,7 +3324,7 @@ SUBROUTINE_3013:
  21: 0x3194 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[635*, 0*]
  22: 0x31A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  23: 0x31B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=189*
- 24: 0x31C5 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10196*]:
+ 24: 0x31C5 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10197*]:
     → "Forgotten already? Did you hitaru your head on a doorframe? Listen carefully, and take notes this time!"
  25: 0x31CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x31CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "nmi0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=41*
@@ -3358,11 +3358,11 @@ SUBROUTINE_3013:
  54: 0x32C1 [0x03] Work_Zone[6] = Work_Zone[68]
  55: 0x32C6 [0x03] Work_Zone[7] = Work_Zone[85]
  56: 0x32CB [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x32DA
- 57: 0x32D3 [0x48] [System] [10269*]:
+ 57: 0x32D3 [0x48] [System] [10270*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
  58: 0x32D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x32D7 [0x01] GOTO 0x32DE
- 60: 0x32DA [0x48] [System] [10307*]:
+ 60: 0x32DA [0x48] [System] [10308*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
  61: 0x32DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3376,21 +3376,21 @@ SUBROUTINE_32DE:
  68: 0x32FC [0x03] Work_Zone[8] = Work_Zone[79]
  69: 0x3301 [0x03] Work_Zone[9] = Work_Zone[80]
  70: 0x3306 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x3315
- 71: 0x330E [0x48] [System] [10273*]:
+ 71: 0x330E [0x48] [System] [10274*]:
     → "$4 x $0"
  72: 0x3311 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x3312 [0x01] GOTO 0x339B
  74: 0x3315 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x3324
- 75: 0x331D [0x48] [System] [10272*]:
+ 75: 0x331D [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
  76: 0x3320 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x3321 [0x01] GOTO 0x339B
  78: 0x3324 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x3333
- 79: 0x332C [0x48] [System] [10271*]:
+ 79: 0x332C [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
  80: 0x332F [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x3330 [0x01] GOTO 0x339B
- 82: 0x3333 [0x48] [System] [10270*]:
+ 82: 0x3333 [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
  83: 0x3336 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x3337 [0x03] Work_Zone[2] = Work_Zone[73]
@@ -3404,21 +3404,21 @@ SUBROUTINE_32DE:
  92: 0x335F [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x336A
  93: 0x3367 [0x01] GOTO 0x339B
  94: 0x336A [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x3379
- 95: 0x3372 [0x48] [System] [10273*]:
+ 95: 0x3372 [0x48] [System] [10274*]:
     → "$4 x $0"
  96: 0x3375 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x3376 [0x01] GOTO 0x339B
  98: 0x3379 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x3388
- 99: 0x3381 [0x48] [System] [10272*]:
+ 99: 0x3381 [0x48] [System] [10273*]:
     → "$4 x $0 $5 x $0$0"
 100: 0x3384 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x3385 [0x01] GOTO 0x339B
 102: 0x3388 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x3397
-103: 0x3390 [0x48] [System] [10271*]:
+103: 0x3390 [0x48] [System] [10272*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 104: 0x3393 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x3394 [0x01] GOTO 0x339B
-106: 0x3397 [0x48] [System] [10270*]:
+106: 0x3397 [0x48] [System] [10271*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 107: 0x339A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3428,7 +3428,7 @@ SUBROUTINE_339B:
 110: 0x33B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[635*, 0*]
 111: 0x33CA [0x03] Work_Zone_1700[0] = 90*
 112: 0x33CF [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3E)
-113: 0x33D6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10197*]:
+113: 0x33D6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10198*]:
     → "What is this emptiness I feel? My body-wody...so weak..."
 114: 0x33DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x33DE [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -3439,7 +3439,7 @@ SUBROUTINE_339B:
 120: 0x340A [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 121: 0x3410 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[635*, 0*]
 122: 0x3421 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pos0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=114*
-123: 0x3430 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10198*]:
+123: 0x3430 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10199*]:
     → "I feel faintaru...please...you must..."
 124: 0x3437 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x3438 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3516,7 +3516,7 @@ SUBROUTINE_358C:
 
 ```
 # Dead code (unreachable instructions):
-     0x35A6 [0x48] [System] [10202*]:
+     0x35A6 [0x48] [System] [10203*]:
     → "Synthesis failed. Tuffle-Buffle lost the crystal he was using."
      0x35A9 [0x03] Work_Zone[2] = Work_Zone[69]
      0x35AE [0x03] Work_Zone[3] = Work_Zone[70]
@@ -3527,36 +3527,36 @@ SUBROUTINE_358C:
      0x35C7 [0x03] Work_Zone[8] = Work_Zone[79]
      0x35CC [0x03] Work_Zone[9] = Work_Zone[80]
      0x35D1 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x35DF
-     0x35D9 [0x48] [System] [10203*]:
+     0x35D9 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x35DC [0x01] GOTO 0x36BE
      0x35DF [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x35F5
-     0x35E7 [0x48] [System] [10203*]:
+     0x35E7 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x35EA [0x03] Work_Zone[2] = Work_Zone[3]
-     0x35EF [0x48] [System] [10203*]:
+     0x35EF [0x48] [System] [10204*]:
     → "$0 was lost."
      0x35F2 [0x01] GOTO 0x36BE
      0x35F5 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x3613
-     0x35FD [0x48] [System] [10203*]:
+     0x35FD [0x48] [System] [10204*]:
     → "$0 was lost."
      0x3600 [0x03] Work_Zone[2] = Work_Zone[3]
-     0x3605 [0x48] [System] [10203*]:
+     0x3605 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x3608 [0x03] Work_Zone[2] = Work_Zone[4]
-     0x360D [0x48] [System] [10203*]:
+     0x360D [0x48] [System] [10204*]:
     → "$0 was lost."
      0x3610 [0x01] GOTO 0x36BE
-     0x3613 [0x48] [System] [10203*]:
+     0x3613 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x3616 [0x03] Work_Zone[2] = Work_Zone[3]
-     0x361B [0x48] [System] [10203*]:
+     0x361B [0x48] [System] [10204*]:
     → "$0 was lost."
      0x361E [0x03] Work_Zone[2] = Work_Zone[4]
-     0x3623 [0x48] [System] [10203*]:
+     0x3623 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x3626 [0x03] Work_Zone[2] = Work_Zone[5]
-     0x362B [0x48] [System] [10203*]:
+     0x362B [0x48] [System] [10204*]:
     → "$0 was lost."
      0x362E [0x03] Work_Zone[2] = Work_Zone[73]
      0x3633 [0x03] Work_Zone[3] = Work_Zone[74]
@@ -3569,36 +3569,36 @@ SUBROUTINE_358C:
      0x3656 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x3661
      0x365E [0x01] GOTO 0x36BE
      0x3661 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x366F
-     0x3669 [0x48] [System] [10203*]:
+     0x3669 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x366C [0x01] GOTO 0x36BE
      0x366F [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x3685
-     0x3677 [0x48] [System] [10203*]:
+     0x3677 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x367A [0x03] Work_Zone[2] = Work_Zone[3]
-     0x367F [0x48] [System] [10203*]:
+     0x367F [0x48] [System] [10204*]:
     → "$0 was lost."
      0x3682 [0x01] GOTO 0x36BE
      0x3685 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x36A3
-     0x368D [0x48] [System] [10203*]:
+     0x368D [0x48] [System] [10204*]:
     → "$0 was lost."
      0x3690 [0x03] Work_Zone[2] = Work_Zone[3]
-     0x3695 [0x48] [System] [10203*]:
+     0x3695 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x3698 [0x03] Work_Zone[2] = Work_Zone[4]
-     0x369D [0x48] [System] [10203*]:
+     0x369D [0x48] [System] [10204*]:
     → "$0 was lost."
      0x36A0 [0x01] GOTO 0x36BE
-     0x36A3 [0x48] [System] [10203*]:
+     0x36A3 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x36A6 [0x03] Work_Zone[2] = Work_Zone[3]
-     0x36AB [0x48] [System] [10203*]:
+     0x36AB [0x48] [System] [10204*]:
     → "$0 was lost."
      0x36AE [0x03] Work_Zone[2] = Work_Zone[4]
-     0x36B3 [0x48] [System] [10203*]:
+     0x36B3 [0x48] [System] [10204*]:
     → "$0 was lost."
      0x36B6 [0x03] Work_Zone[2] = Work_Zone[5]
-     0x36BB [0x48] [System] [10203*]:
+     0x36BB [0x48] [System] [10204*]:
     → "$0 was lost."
      0x36BE [0x1B] RETURN
 ```
@@ -4248,7 +4248,7 @@ SUBROUTINE_358C:
  50: 0x3836 [0x1C] WAIT(30* ticks)
  51: 0x3839 [0x03] Work_Zone_1700[0] = 180*
  52: 0x383E [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
- 53: 0x3845 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10354*]:
+ 53: 0x3845 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10355*]:
     → "My tummy-wummy feels like it's going to collapse in on itself if I don't get some num-nums soon! Why won't that stupid manager pay our tab?"
  54: 0x384C [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x384D [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -4257,7 +4257,7 @@ SUBROUTINE_358C:
  58: 0x3873 [0x79] Musto-Rusto (ID: 17826011/0x011000DB) looks at Tuffle-Buffle (ID: 17826010/0x011000DA) (Basic look)
  59: 0x387D [0x03] Work_Zone_1700[0] = 120*
  60: 0x3882 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
- 61: 0x3889 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10355*]:
+ 61: 0x3889 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10356*]:
     → "But we're just apprentices, so we can't expectaru her to do anything for us..."
  62: 0x3890 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x3891 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -4268,7 +4268,7 @@ SUBROUTINE_358C:
  68: 0x38CB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hiz1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=2052*
  69: 0x38DA [0x03] Work_Zone_1700[0] = 180*
  70: 0x38DF [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
- 71: 0x38E6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10356*]:
+ 71: 0x38E6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10357*]:
     → "Then we've got no other option-woptions--time to break into the raptor pens and munch on some rockberries!"
  72: 0x38ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x38EE [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -4276,7 +4276,7 @@ SUBROUTINE_358C:
  75: 0x3903 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s233" with entities [EventEntity, EventEntity], work=[635*, 0*]
  76: 0x3914 [0x03] Work_Zone_1700[0] = 120*
  77: 0x3919 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
- 78: 0x3920 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10357*]:
+ 78: 0x3920 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10358*]:
     → "R-rockberries!? Have you lostaru your mind?"
  79: 0x3927 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x3928 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -4287,7 +4287,7 @@ SUBROUTINE_358C:
  85: 0x3963 [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x00
  86: 0x3969 [0x03] Work_Zone_1700[0] = 120*
  87: 0x396E [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2B)
- 88: 0x3975 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10358*]:
+ 88: 0x3975 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10359*]:
     → "(Then again, we're talking about Tuffle-Buffle...eating is ninety-five percentaru of what he does...)"
  89: 0x397C [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x397D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -4323,7 +4323,7 @@ SUBROUTINE_3A29:
 118: 0x3A55 [0x4A] Musto-Rusto (ID: 17826011/0x011000DB) looks at LocalPlayer
 119: 0x3A5E [0x03] Work_Zone_1700[0] = 120*
 120: 0x3A63 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x43)
-121: 0x3A6A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10359*]:
+121: 0x3A6A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10360*]:
     → "Aha! Musto-Rusto, look who it is!"
 122: 0x3A71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x3A72 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4336,10 +4336,10 @@ SUBROUTINE_3A29:
 130: 0x3AAC [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tuffle-Buffle (ID: 17826010/0x011000DA))
 131: 0x3AB2 [0x03] Work_Zone_1700[0] = 180*
 132: 0x3AB7 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3A)
-133: 0x3ABE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10360*]:
+133: 0x3ABE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10361*]:
     → "You there! We heard from our manager-wanager that you're the one who's supposed to be looking after us!"
 134: 0x3AC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-135: 0x3AC6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10361*]:
+135: 0x3AC6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10362*]:
     → "So this means you can forgetaru about that signature!"
 136: 0x3ACD [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x3ACE [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4352,7 +4352,7 @@ SUBROUTINE_3A29:
 144: 0x3B19 [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x00
 145: 0x3B1F [0x03] Work_Zone_1700[0] = 120*
 146: 0x3B24 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2A)
-147: 0x3B2B [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10362*]:
+147: 0x3B2B [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10363*]:
     → "(Then...why did he make me stay up all night, day after day, practicing-wacticing cursive!?)"
 148: 0x3B32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x3B33 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -4364,7 +4364,7 @@ SUBROUTINE_3A29:
 155: 0x3B76 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "boff" with entities [EventEntity, EventEntity], work=635*
 156: 0x3B85 [0x03] Work_Zone_1700[0] = 120*
 157: 0x3B8A [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x29)
-158: 0x3B91 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10363*]:
+158: 0x3B91 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10364*]:
     → "(Oh, wait...it's common courtesy to greetaru someone when you meet them.)"
 159: 0x3B98 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x3B99 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -4381,17 +4381,17 @@ SUBROUTINE_3BF7:
 169: 0x3BF7 [0x4A] LocalPlayer looks at Musto-Rusto (ID: 17826011/0x011000DB)
 170: 0x3C00 [0x03] Work_Zone_1700[0] = 180*
 171: 0x3C05 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-172: 0x3C0C [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10364*]:
+172: 0x3C0C [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10365*]:
     → "Why, uh...hello! Congratulations on being put in chargey-warge of us, I suppose..."
 173: 0x3C13 [0x23] WAIT_FOR_DIALOG_INTERACTION
-174: 0x3C14 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10365*]:
+174: 0x3C14 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10366*]:
     → "I don't know why, but our last boss quitaru before we could even catch her name. I wonder why that was..."
 175: 0x3C1B [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x3C1C [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 177: 0x3C22 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=40*
 178: 0x3C31 [0x1C] WAIT(120* ticks)
 179: 0x3C34 [0x03] Work_Zone[2] = 4489*
-180: 0x3C39 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10366*]:
+180: 0x3C39 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10367*]:
     → "Come one, come all and savorrr our lovely $0, made with our most delectable vegetables!"
 181: 0x3C40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x3C41 [0x1C] WAIT(30* ticks)
@@ -4423,7 +4423,7 @@ SUBROUTINE_3CC6:
 204: 0x3CE0 [0x4A] Minnifi Delqabba (ID: 17826012/0x011000DC) looks at Patrillaut (ID: 17826013/0x011000DD)
 205: 0x3CE9 [0x03] Work_Zone_1700[0] = 120*
 206: 0x3CEE [0x27] REQ_SET(priority=0x10, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC), tag_num=0x0D)
-207: 0x3CF5 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10366*]:
+207: 0x3CF5 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10367*]:
     → "Come one, come all and savorrr our lovely $0, made with our most delectable vegetables!"
 208: 0x3CFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 209: 0x3CFD [0x2A] GET_REQ_LEVEL(level=16, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC))
@@ -4435,7 +4435,7 @@ SUBROUTINE_3CC6:
 215: 0x3D32 [0x1C] WAIT(30* ticks)
 216: 0x3D35 [0x03] Work_Zone_1700[0] = 120*
 217: 0x3D3A [0x27] REQ_SET(priority=0x10, entity_id=Patrillaut (ID: 17826013/0x011000DD), tag_num=0x01)
-218: 0x3D41 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10367*]:
+218: 0x3D41 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10368*]:
     → "Yes, it does look positively exquisite. Might I bother you for a taste?"
 219: 0x3D48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x3D49 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Patrillaut (ID: 17826013/0x011000DD))
@@ -4448,7 +4448,7 @@ SUBROUTINE_3CC6:
 227: 0x3D90 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Patrillaut (ID: 17826013/0x011000DD))
 228: 0x3D96 [0x03] Work_Zone_1700[0] = 120*
 229: 0x3D9B [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-230: 0x3DA2 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10368*]:
+230: 0x3DA2 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10369*]:
     → "Mmm... This is simply divine!"
 231: 0x3DA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 232: 0x3DAA [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -4460,14 +4460,14 @@ SUBROUTINE_3CC6:
 238: 0x3DF6 [0x03] Work_Zone_1700[0] = 60*
 239: 0x3DFB [0x27] REQ_SET(priority=0x10, entity_id=Patrillaut (ID: 17826013/0x011000DD), tag_num=0x02)
 240: 0x3E02 [0x03] Work_Zone[2] = 4444*
-241: 0x3E07 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10369*]:
+241: 0x3E07 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10370*]:
     → "Absolutely lovely. I simply must have one of these $0."
 242: 0x3E0E [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x3E0F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Patrillaut (ID: 17826013/0x011000DD))
 244: 0x3E15 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Patrillaut (ID: 17826013/0x011000DD), Patrillaut (ID: 17826013/0x011000DD)], work=169*
 245: 0x3E24 [0x03] Work_Zone_1700[0] = 60*
 246: 0x3E29 [0x27] REQ_SET(priority=0x10, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC), tag_num=0x08)
-247: 0x3E30 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10370*]:
+247: 0x3E30 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10371*]:
     → "Coming rrright up! You know, they're taken fresh from the Rala Waterways!"
 248: 0x3E37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x3E38 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC))
@@ -4476,10 +4476,10 @@ SUBROUTINE_3CC6:
 252: 0x3E5C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s245" with entities [EventEntity, EventEntity], work=[635*, 0*]
 253: 0x3E6D [0x03] Work_Zone_1700[0] = 60*
 254: 0x3E72 [0x27] REQ_SET(priority=0x10, entity_id=Patrillaut (ID: 17826013/0x011000DD), tag_num=0x01)
-255: 0x3E79 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10371*]:
+255: 0x3E79 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10372*]:
     → "Then I had best bring them home and start cooking before they lose their flavor!"
 256: 0x3E80 [0x23] WAIT_FOR_DIALOG_INTERACTION
-257: 0x3E81 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10372*]:
+257: 0x3E81 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10373*]:
     → "And in thanks for your lovely products, I would like to give you one of these sweets I am bringing home for dessert."
 258: 0x3E88 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x3E89 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Patrillaut (ID: 17826013/0x011000DD))
@@ -4492,10 +4492,10 @@ SUBROUTINE_3CC6:
 266: 0x3ED0 [0x03] Work_Zone_1700[0] = 180*
 267: 0x3ED5 [0x27] REQ_SET(priority=0x10, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC), tag_num=0x0A)
 268: 0x3EDC [0x03] Work_Zone[2] = 5775*
-269: 0x3EE1 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10373*]:
+269: 0x3EE1 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10374*]:
     → "$0? For me?t"
 270: 0x3EE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-271: 0x3EE9 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10374*]:
+271: 0x3EE9 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10375*]:
     → "Oooh, if therrre's one thing I love as much as vegetables, it's dessert!"
 272: 0x3EF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x3EF1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC))
@@ -4503,7 +4503,7 @@ SUBROUTINE_3CC6:
 275: 0x3F06 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s247" with entities [EventEntity, EventEntity], work=[635*, 0*]
 276: 0x3F17 [0x03] Work_Zone_1700[0] = 120*
 277: 0x3F1C [0x27] REQ_SET(priority=0x10, entity_id=Patrillaut (ID: 17826013/0x011000DD), tag_num=0x01)
-278: 0x3F23 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10375*]:
+278: 0x3F23 [0x2B] Patrillaut (ID: 17826013/0x011000DD) [10376*]:
     → "I am pleased that you like it."
 279: 0x3F2A [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x3F2B [0x2A] GET_REQ_LEVEL(level=16, entity_id=Patrillaut (ID: 17826013/0x011000DD))
@@ -4529,7 +4529,7 @@ SUBROUTINE_3CC6:
 300: 0x3FC9 [0x1C] WAIT(60* ticks)
 301: 0x3FCC [0x03] Work_Zone_1700[0] = 120*
 302: 0x3FD1 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3A)
-303: 0x3FD8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10376*]:
+303: 0x3FD8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10377*]:
     → "(Oh-ho-ho, free sample-wamples...)"
 304: 0x3FDF [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x3FE0 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4546,7 +4546,7 @@ SUBROUTINE_3CC6:
 316: 0x402F [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x00
 317: 0x4035 [0x03] Work_Zone_1700[0] = 120*
 318: 0x403A [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2B)
-319: 0x4041 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10377*]:
+319: 0x4041 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10378*]:
     → "(That twinkle-winkle in his eye can only mean one thing... ...he's thinking about food again.)"
 320: 0x4048 [0x23] WAIT_FOR_DIALOG_INTERACTION
 321: 0x4049 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -4567,7 +4567,7 @@ SUBROUTINE_3CC6:
 336: 0x40E5 [0x7C] Tuffle-Buffle (ID: 17826010/0x011000DA)->Render.Flags2 |= 0x00
 337: 0x40EB [0x03] Work_Zone_1700[0] = 120*
 338: 0x40F0 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3A)
-339: 0x40F7 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10378*]:
+339: 0x40F7 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10379*]:
     → "(This is perfect! I'll just have to keep changing-wanging our clothes and visitaru the stall several times--that'll keep me full for sure!)"
 340: 0x40FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x40FF [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4580,14 +4580,14 @@ SUBROUTINE_3CC6:
 348: 0x413B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tuffle-Buffle (ID: 17826010/0x011000DA) Render.Flags0 and Render.Flags3 conditions are met
 349: 0x4140 [0x03] Work_Zone_1700[0] = 60*
 350: 0x4145 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x43)
-351: 0x414C [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10379*]:
+351: 0x414C [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10380*]:
     → "Hey, [big man/little lady] in charge! We gotta change outfitarus."
 352: 0x4153 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x4154 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 354: 0x415A [0x4A] LocalPlayer looks at Tuffle-Buffle (ID: 17826010/0x011000DA)
 355: 0x4163 [0x03] Work_Zone_1700[0] = 60*
 356: 0x4168 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x37)
-357: 0x416F [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10380*]:
+357: 0x416F [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10381*]:
     → "We're performer-wormers, right? We can't be seen wearing the same tired old rags each day!"
 358: 0x4176 [0x23] WAIT_FOR_DIALOG_INTERACTION
 359: 0x4177 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4596,11 +4596,11 @@ SUBROUTINE_3CC6:
 362: 0x419B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s254" with entities [EventEntity, EventEntity], work=[635*, 0*]
 363: 0x41AC [0x03] Work_Zone_1700[0] = 180*
 364: 0x41B1 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-365: 0x41B8 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10381*]:
+365: 0x41B8 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10382*]:
     → "Outfitarus? Tuffle-Buffle, you don't have any outfitarus."
 366: 0x41BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 367: 0x41C0 [0x4A] Tuffle-Buffle (ID: 17826010/0x011000DA) looks at Musto-Rusto (ID: 17826011/0x011000DB)
-368: 0x41C9 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10382*]:
+368: 0x41C9 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10383*]:
     → "Ever since we droppy-wopped out of the School of Magic, you've worn the same thing over and over."
 369: 0x41D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 370: 0x41D1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -4609,7 +4609,7 @@ SUBROUTINE_3CC6:
 373: 0x41F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s255" with entities [EventEntity, EventEntity], work=[635*, 0*]
 374: 0x4206 [0x03] Work_Zone_1700[0] = 120*
 375: 0x420B [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3B)
-376: 0x4212 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10383*]:
+376: 0x4212 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10384*]:
     → "Tohoho, my little-wittle friend. You just don't know how much of a fashionistaru I am!"
 377: 0x4219 [0x23] WAIT_FOR_DIALOG_INTERACTION
 378: 0x421A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4623,7 +4623,7 @@ SUBROUTINE_3CC6:
 386: 0x425F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tuffle-Buffle (ID: 17826010/0x011000DA) Render.Flags0 and Render.Flags3 conditions are met
 387: 0x4264 [0x03] Work_Zone_1700[0] = 120*
 388: 0x4269 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x41)
-389: 0x4270 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10384*]:
+389: 0x4270 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10385*]:
     → "It's been decided! Select something exquisitaru from my personal collection!"
 390: 0x4277 [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x4278 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4632,7 +4632,7 @@ SUBROUTINE_3CC6:
 
 SUBROUTINE_4290:
 394: 0x4290 [0x1A] CALL_SUBROUTINE(address=0x5A8A)
-395: 0x4293 [0x24] CREATE_DIALOG(message_id=10385*, default_option=0*, option_flags=0*)
+395: 0x4293 [0x24] CREATE_DIALOG(message_id=10386*, default_option=0*, option_flags=0*)
     → "What would you like them to change into? [The $0./The $1./The $2./The $3./The $4.]"
 396: 0x429A [0x25] WAIT_DIALOG_SELECT()
 397: 0x429B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x42AB
@@ -4680,13 +4680,13 @@ SUBROUTINE_4369:
 435: 0x4372 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[1])
 436: 0x4375 [0x03] Work_Zone_1700[0] = 0*
 437: 0x437A [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x37)
-438: 0x4381 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10386*]:
+438: 0x4381 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10387*]:
     → "You surey-wure about this?"
 439: 0x4388 [0x23] WAIT_FOR_DIALOG_INTERACTION
 440: 0x4389 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 441: 0x438F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=49*
 442: 0x439E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-443: 0x43A1 [0x24] CREATE_DIALOG(message_id=10387*, default_option=1*, option_flags=0*)
+443: 0x43A1 [0x24] CREATE_DIALOG(message_id=10388*, default_option=1*, option_flags=0*)
     → "Pleased with your choice? [That would look faaabulous./Not so much...]"
 444: 0x43A8 [0x25] WAIT_DIALOG_SELECT()
 445: 0x43A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x43B4
@@ -4722,7 +4722,7 @@ SUBROUTINE_43EB:
 471: 0x4497 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s259" with entities [EventEntity, EventEntity], work=[635*, 0*]
 472: 0x44A8 [0x03] Work_Zone_1700[0] = 120*
 473: 0x44AD [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-474: 0x44B4 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10388*]:
+474: 0x44B4 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10389*]:
     → "Wh-why are you only using-wusing the headpiece!?"
 475: 0x44BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 476: 0x44BC [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -4734,19 +4734,19 @@ SUBROUTINE_43EB:
 482: 0x44FB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tuffle-Buffle (ID: 17826010/0x011000DA) Render.Flags0 and Render.Flags3 conditions are met
 483: 0x4500 [0x03] Work_Zone[2] = 120*
 484: 0x4505 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x42)
-485: 0x450C [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10389*]:
+485: 0x450C [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10390*]:
     → "I suppose I should forgivey-wive you, Musto-Rusto. A plebian cannot possibly be expectarued to grasp the intricacies of the fashion world."
 486: 0x4513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 487: 0x4514 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 488: 0x451A [0x03] Work_Zone_1700[0] = 120*
 489: 0x451F [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3A)
-490: 0x4526 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10390*]:
+490: 0x4526 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10391*]:
     → "And besides...my only shirts and pantarus are from the Culinarians' Guild."
 491: 0x452D [0x23] WAIT_FOR_DIALOG_INTERACTION
 492: 0x452E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 493: 0x4534 [0x03] Work_Zone_1700[0] = 120*
 494: 0x4539 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3B)
-495: 0x4540 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10391*]:
+495: 0x4540 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10392*]:
     → "Yet my unique-wique head-only statement will overtake the world like a mighty flood!"
 496: 0x4547 [0x23] WAIT_FOR_DIALOG_INTERACTION
 497: 0x4548 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4755,7 +4755,7 @@ SUBROUTINE_43EB:
 500: 0x456C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s261" with entities [EventEntity, EventEntity], work=[635*, 0*]
 501: 0x457D [0x03] Work_Zone_1700[0] = 120*
 502: 0x4582 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x30)
-503: 0x4589 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10392*]:
+503: 0x4589 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10393*]:
     → "A flood of tears, you meany-wean."
 504: 0x4590 [0x23] WAIT_FOR_DIALOG_INTERACTION
 505: 0x4591 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -4766,7 +4766,7 @@ SUBROUTINE_43EB:
 510: 0x45C3 [0x1C] WAIT(30* ticks)
 511: 0x45C6 [0x03] Work_Zone_1700[0] = 120*
 512: 0x45CB [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3D)
-513: 0x45D2 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10393*]:
+513: 0x45D2 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10394*]:
     → "Time to take this out for a spinny-win and show it off to the adoring public!"
 514: 0x45D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 515: 0x45DA [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4888,7 +4888,7 @@ SUBROUTINE_47B8:
 605: 0x47D8 [0x03] Work_Zone_1700[0] = 120*
 606: 0x47DD [0x27] REQ_SET(priority=0x10, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC), tag_num=0x0D)
 607: 0x47E4 [0x03] Work_Zone[2] = 4489*
-608: 0x47E9 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10366*]:
+608: 0x47E9 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10367*]:
     → "Come one, come all and savorrr our lovely $0, made with our most delectable vegetables!"
 609: 0x47F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 610: 0x47F1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC))
@@ -4899,7 +4899,7 @@ SUBROUTINE_47B8:
 615: 0x4821 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tuffle-Buffle (ID: 17826010/0x011000DA) Render.Flags0 and Render.Flags3 conditions are met
 616: 0x4826 [0x03] Work_Zone_1700[0] = 120*
 617: 0x482B [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x37)
-618: 0x4832 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10394*]:
+618: 0x4832 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10395*]:
     → "Why, of course I will deign-weign to partake of your offering!"
 619: 0x4839 [0x23] WAIT_FOR_DIALOG_INTERACTION
 620: 0x483A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4909,7 +4909,7 @@ SUBROUTINE_47B8:
 624: 0x4866 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s266" with entities [EventEntity, EventEntity], work=[635*, 0*]
 625: 0x4877 [0x03] Work_Zone_1700[0] = 120*
 626: 0x487C [0x27] REQ_SET(priority=0x10, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC), tag_num=0x0C)
-627: 0x4883 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10395*]:
+627: 0x4883 [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10396*]:
     → "Wait...haven't I seen you beforrre?"
 628: 0x488A [0x23] WAIT_FOR_DIALOG_INTERACTION
 629: 0x488B [0x2A] GET_REQ_LEVEL(level=16, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC))
@@ -4921,7 +4921,7 @@ SUBROUTINE_47B8:
 635: 0x48C1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s20f" with entities [EventEntity, EventEntity], work=[635*, 0*]
 636: 0x48D2 [0x03] Work_Zone_1700[0] = 120*
 637: 0x48D7 [0x27] REQ_SET(priority=0x10, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC), tag_num=0x09)
-638: 0x48DE [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10396*]:
+638: 0x48DE [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10397*]:
     → "Unforrrtunately, I can only offer one per customer."
 639: 0x48E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 640: 0x48E6 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC))
@@ -4964,10 +4964,10 @@ SUBROUTINE_49D9:
 675: 0x4A0C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tuffle-Buffle (ID: 17826010/0x011000DA) Render.Flags0 and Render.Flags3 conditions are met
 676: 0x4A11 [0x03] Work_Zone_1700[0] = 180*
 677: 0x4A16 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
-678: 0x4A1D [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10397*]:
+678: 0x4A1D [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10398*]:
     → "Hey, you big oaf! The clothes you chose for us were anything but a hitaru! How are we going to make our fans swoony-woon with a getup like this?"
 679: 0x4A24 [0x23] WAIT_FOR_DIALOG_INTERACTION
-680: 0x4A25 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10398*]:
+680: 0x4A25 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10399*]:
     → "I'm completely pooped! Time to take a restaru."
 681: 0x4A2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 682: 0x4A2D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -4989,7 +4989,7 @@ SUBROUTINE_49D9:
 698: 0x4AA7 [0x0C] Work_Zone[3]--
 699: 0x4AAA [0x03] Work_Zone_1700[0] = 120*
 700: 0x4AAF [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x45)
-701: 0x4AB6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10399*]:
+701: 0x4AB6 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10400*]:
     → "But first, the nummy-wummies! Bring me...$0!"
 702: 0x4ABD [0x23] WAIT_FOR_DIALOG_INTERACTION
 703: 0x4ABE [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -5010,7 +5010,7 @@ SUBROUTINE_4B22:
 716: 0x4B31 [0x4A] LocalPlayer looks at Musto-Rusto (ID: 17826011/0x011000DB)
 717: 0x4B3A [0x03] Work_Zone_1700[0] = 120*
 718: 0x4B3F [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-719: 0x4B46 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10400*]:
+719: 0x4B46 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10401*]:
     → "You know where you can findy-wind some? At [the cafeteria/the bakery/the dessert stall/Cafe des Larmes/the fishmonger's stall]."
 720: 0x4B4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 721: 0x4B4E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5031,14 +5031,14 @@ SUBROUTINE_4BA6:
 734: 0x4BC6 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 735: 0x4BCC [0x03] Work_Zone_1700[0] = 240*
 736: 0x4BD1 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x2D)
-737: 0x4BD8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10403*]:
+737: 0x4BD8 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10404*]:
     → "And a little switchy-witch there, puff up a little..."
 738: 0x4BDF [0x23] WAIT_FOR_DIALOG_INTERACTION
 739: 0x4BE0 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
 740: 0x4BE6 [0x7B] Tuffle-Buffle (ID: 17826010/0x011000DA) stops talking
 741: 0x4BEB [0x03] Work_Zone_1700[0] = 120*
 742: 0x4BF0 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x39)
-743: 0x4BF7 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10404*]:
+743: 0x4BF7 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10405*]:
     → "I supposey-wose this'll have to do."
 744: 0x4BFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 745: 0x4BFF [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -5054,7 +5054,7 @@ SUBROUTINE_4BA6:
 755: 0x4C5C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Minnifi Delqabba (ID: 17826012/0x011000DC) Render.Flags0 and Render.Flags3 conditions are met
 756: 0x4C61 [0x03] Work_Zone_1700[0] = 180*
 757: 0x4C66 [0x27] REQ_SET(priority=0x10, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC), tag_num=0x0F)
-758: 0x4C6D [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10405*]:
+758: 0x4C6D [0x2B] Minnifi Delqabba (ID: 17826012/0x011000DC) [10406*]:
     → "Much obliged! Come visit us again, hearrr?t"
 759: 0x4C74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 760: 0x4C75 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Minnifi Delqabba (ID: 17826012/0x011000DC))
@@ -5084,7 +5084,7 @@ SUBROUTINE_4CEE:
 782: 0x4D2B [0x0C] Work_Zone[2]--
 783: 0x4D2E [0x03] Work_Zone_1700[0] = 120*
 784: 0x4D33 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x37)
-785: 0x4D3A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10406*]:
+785: 0x4D3A [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10407*]:
     → "Word on the streetaru is that we are [like a terrible faux pas./as gaudy as a demon in drag./as flashy as the Mighty Maidens!/as debonair as the Dashing Dreamers!/like disciples of Brygid herself!]"
 786: 0x4D41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 787: 0x4D42 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -5095,7 +5095,7 @@ SUBROUTINE_4CEE:
 792: 0x4D80 [0x02] IF !(ExtData[1]->WorkLocal[20] == 1*) GOTO 0x4DC3
 793: 0x4D88 [0x03] Work_Zone_1700[0] = 120*
 794: 0x4D8D [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-795: 0x4D94 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10407*]:
+795: 0x4D94 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10408*]:
     → "A faux pas!? We're lucky they don't tary-war and feather us!"
 796: 0x4D9B [0x23] WAIT_FOR_DIALOG_INTERACTION
 797: 0x4D9C [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5105,7 +5105,7 @@ SUBROUTINE_4CEE:
 801: 0x4DC3 [0x02] IF !(ExtData[1]->WorkLocal[20] == 2*) GOTO 0x4E06
 802: 0x4DCB [0x03] Work_Zone_1700[0] = 120*
 803: 0x4DD0 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-804: 0x4DD7 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10408*]:
+804: 0x4DD7 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10409*]:
     → "Well, we are flashy, I guess...but about as cute as week-old Moblin undies!"
 805: 0x4DDE [0x23] WAIT_FOR_DIALOG_INTERACTION
 806: 0x4DDF [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5115,7 +5115,7 @@ SUBROUTINE_4CEE:
 810: 0x4E06 [0x02] IF !(ExtData[1]->WorkLocal[20] == 3*) GOTO 0x4F23
 811: 0x4E0E [0x03] Work_Zone_1700[0] = 120*
 812: 0x4E13 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-813: 0x4E1A [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10409*]:
+813: 0x4E1A [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10410*]:
     → "The only one busty-wusty enough to compare with the Mighty Maidens is you--and that's because you eataru like a pig!"
 814: 0x4E21 [0x23] WAIT_FOR_DIALOG_INTERACTION
 815: 0x4E22 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5129,7 +5129,7 @@ SUBROUTINE_4CEE:
 823: 0x4E6C [0x1C] WAIT(30* ticks)
 824: 0x4E6F [0x03] Work_Zone_1700[0] = 120*
 825: 0x4E74 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-826: 0x4E7B [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10410*]:
+826: 0x4E7B [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10411*]:
     → "But boy, I'd let Uka roast me over a spit any day of the week!"
 827: 0x4E82 [0x23] WAIT_FOR_DIALOG_INTERACTION
 828: 0x4E83 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5139,7 +5139,7 @@ SUBROUTINE_4CEE:
 832: 0x4EAD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s273" with entities [EventEntity, EventEntity], work=[635*, 0*]
 833: 0x4EBE [0x03] Work_Zone_1700[0] = 120*
 834: 0x4EC3 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x46)
-835: 0x4ECA [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10411*]:
+835: 0x4ECA [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10412*]:
     → "Oy, get your head out of the cloudy-wouds!"
 836: 0x4ED1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 837: 0x4ED2 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -5156,10 +5156,10 @@ SUBROUTINE_4CEE:
 848: 0x4F23 [0x02] IF !(ExtData[1]->WorkLocal[20] == 4*) GOTO 0x4F6E
 849: 0x4F2B [0x03] Work_Zone_1700[0] = 120*
 850: 0x4F30 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-851: 0x4F37 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10412*]:
+851: 0x4F37 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10413*]:
     → "The only "dashing" that'll happen will be our hopes if the tyrannical manager learns we've been gallivantaruing about town finagling treats from unsuspecting vendors!"
 852: 0x4F3E [0x23] WAIT_FOR_DIALOG_INTERACTION
-853: 0x4F3F [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10413*]:
+853: 0x4F3F [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10414*]:
     → "But then...a dancing duo must make more money than simple streetaru performers like us..."
 854: 0x4F46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 855: 0x4F47 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5169,10 +5169,10 @@ SUBROUTINE_4CEE:
 859: 0x4F6E [0x02] IF !(ExtData[1]->WorkLocal[20] == 5*) GOTO 0x4FB9
 860: 0x4F76 [0x03] Work_Zone_1700[0] = 120*
 861: 0x4F7B [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-862: 0x4F82 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10414*]:
+862: 0x4F82 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10415*]:
     → "Have you gone totally off your rocker-wocker? We aren't even wearing any subligars!"
 863: 0x4F89 [0x23] WAIT_FOR_DIALOG_INTERACTION
-864: 0x4F8A [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10415*]:
+864: 0x4F8A [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10416*]:
     → "Words like that would cause a fashion riotaru in front of Fontis Xanira!"
 865: 0x4F91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 866: 0x4F92 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5185,7 +5185,7 @@ SUBROUTINE_4FB9:
 871: 0x4FC1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s274" with entities [EventEntity, EventEntity], work=[635*, 0*]
 872: 0x4FD2 [0x03] Work_Zone_1700[0] = 180*
 873: 0x4FD7 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
-874: 0x4FDE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10416*]:
+874: 0x4FDE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10417*]:
     → "Stop being such a pessimistaru! The day of our fashion dominance is soon at hand!"
 875: 0x4FE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 876: 0x4FE6 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -5196,13 +5196,13 @@ SUBROUTINE_4FB9:
 881: 0x5014 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s277" with entities [EventEntity, EventEntity], work=[635*, 0*]
 882: 0x5025 [0x03] Work_Zone_1700[0] = 120*
 883: 0x502A [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2C)
-884: 0x5031 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10236*]:
+884: 0x5031 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10237*]:
     → "What kind of idiotaru are you? I trusted you when you said a comedian makes ten times as much as a mage!"
 885: 0x5038 [0x23] WAIT_FOR_DIALOG_INTERACTION
 886: 0x5039 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 887: 0x503F [0x03] Work_Zone_1700[0] = 60*
 888: 0x5044 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-889: 0x504B [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10418*]:
+889: 0x504B [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10419*]:
     → "Not only can we not make them cracky-wack so much as a smile, but these getups make us look absolutely ridiculous!"
 890: 0x5052 [0x23] WAIT_FOR_DIALOG_INTERACTION
 891: 0x5053 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5212,7 +5212,7 @@ SUBROUTINE_4FB9:
 895: 0x5088 [0x03] Work_Zone_1700[0] = 60*
 896: 0x508D [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x36)
 897: 0x5094 [0x03] Work_Zone[2] = 5889*
-898: 0x5099 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10419*]:
+898: 0x5099 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10420*]:
     → "This is the thanks I get for eataruing your $0 when you said you were full!?"
 899: 0x50A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 900: 0x50A1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -5221,7 +5221,7 @@ SUBROUTINE_4FB9:
 903: 0x50C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s279" with entities [EventEntity, EventEntity], work=[635*, 0*]
 904: 0x50D6 [0x03] Work_Zone_1700[0] = 120*
 905: 0x50DB [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3C)
-906: 0x50E2 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10239*]:
+906: 0x50E2 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10240*]:
     → "You...you...you Goblin-brained nitwitaru!"
 907: 0x50E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 908: 0x50EA [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -5232,14 +5232,14 @@ SUBROUTINE_4FB9:
 913: 0x5130 [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x00
 914: 0x5136 [0x03] Work_Zone_1700[0] = 60*
 915: 0x513B [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2A)
-916: 0x5142 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10240*]:
+916: 0x5142 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10241*]:
     → "Why I oughta...!!!"
 917: 0x5149 [0x23] WAIT_FOR_DIALOG_INTERACTION
 918: 0x514A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
 919: 0x5150 [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x01
 920: 0x5156 [0x03] Work_Zone_1700[0] = 60*
 921: 0x515B [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x27)
-922: 0x5162 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10420*]:
+922: 0x5162 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10421*]:
     → "And about that $0--when I asked where it had gone after I finished practicing my penmanship-wenmanship and you told me you had no idea, you were lying the whole time!?"
 923: 0x5169 [0x23] WAIT_FOR_DIALOG_INTERACTION
 924: 0x516A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5250,7 +5250,7 @@ SUBROUTINE_4FB9:
 929: 0x51AC [0x92] Peladi Shalmohr (ID: 17826008/0x011000D8)->Render.Flags3 ^= 0x01
 930: 0x51B2 [0x03] Work_Zone_1700[0] = 120*
 931: 0x51B7 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x2E)
-932: 0x51BE [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10242*]:
+932: 0x51BE [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10243*]:
     → "You obnoxious onion-wonion-head!"
 933: 0x51C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 934: 0x51C6 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Musto-Rusto (ID: 17826011/0x011000DB))
@@ -5261,7 +5261,7 @@ SUBROUTINE_4FB9:
 939: 0x520C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "in00" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=47*
 940: 0x521B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "in00" with entities [Musto-Rusto (ID: 17826011/0x011000DB), Musto-Rusto (ID: 17826011/0x011000DB)], work=47*
 941: 0x522A [0x1C] WAIT(180* ticks)
-942: 0x522D [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10243*]:
+942: 0x522D [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10244*]:
     → "Enough, you two!!!"
 943: 0x5234 [0x23] WAIT_FOR_DIALOG_INTERACTION
 944: 0x5235 [0x4A] Tuffle-Buffle (ID: 17826010/0x011000DA) looks at Peladi Shalmohr (ID: 17826008/0x011000D8)
@@ -5274,7 +5274,7 @@ SUBROUTINE_4FB9:
 951: 0x527A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s283" with entities [EventEntity, EventEntity], work=[635*, 0*]
 952: 0x528B [0x03] Work_Zone_1700[0] = 180*
 953: 0x5290 [0x27] REQ_SET(priority=0x10, entity_id=Peladi Shalmohr (ID: 17826008/0x011000D8), tag_num=0x14)
-954: 0x5297 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10421*]:
+954: 0x5297 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10422*]:
     → "Look at the two of you crrretins! You'd better not be running up another tab after all the work we did paying the first one!"
 955: 0x529E [0x23] WAIT_FOR_DIALOG_INTERACTION
 956: 0x529F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Peladi Shalmohr (ID: 17826008/0x011000D8))
@@ -5283,7 +5283,7 @@ SUBROUTINE_4FB9:
 959: 0x52C5 [0x27] REQ_SET(priority=0x10, entity_id=Musto-Rusto (ID: 17826011/0x011000DB), tag_num=0x28)
 960: 0x52CC [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x40)
 961: 0x52D3 [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x00
-962: 0x52D9 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10245*]:
+962: 0x52D9 [0x2B] Musto-Rusto (ID: 17826011/0x011000DB) [10246*]:
     → "Ack!!!"
 963: 0x52E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 964: 0x52E1 [0x7C] Musto-Rusto (ID: 17826011/0x011000DB)->Render.Flags2 |= 0x01
@@ -5298,7 +5298,7 @@ SUBROUTINE_4FB9:
 973: 0x5328 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ygo0" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=2049*
 974: 0x5337 [0x1C] WAIT(30* ticks)
 975: 0x533A [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Tuffle-Buffle (ID: 17826010/0x011000DA), Tuffle-Buffle (ID: 17826010/0x011000DA)], work=[250*, 0*]
-976: 0x534B [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10422*]:
+976: 0x534B [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10423*]:
     → "B-but if it's already paid off, then we have every rightaru to start up another one! Quick, Musto-Rusto, before she catches-watches us!"
 977: 0x5352 [0x23] WAIT_FOR_DIALOG_INTERACTION
 978: 0x5353 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -5324,7 +5324,7 @@ SUBROUTINE_4FB9:
 998: 0x53F9 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Peladi Shalmohr (ID: 17826008/0x011000D8))
 999: 0x53FF [0x1C] WAIT(30* ticks)
 1000: 0x5402 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hja0" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=1530*
-1001: 0x5411 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10423*]:
+1001: 0x5411 [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10424*]:
     → "G-get back here this instant! Get your butts to work right now, or else you'll rrregret it! At least that Galka fool has the sense to do what's asked of him!"
 1002: 0x5418 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1003: 0x5419 [0x4A] LocalPlayer looks at Peladi Shalmohr (ID: 17826008/0x011000D8)
@@ -5338,7 +5338,7 @@ SUBROUTINE_4FB9:
 1011: 0x5462 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Peladi Shalmohr (ID: 17826008/0x011000D8) Render.Flags0 and Render.Flags3 conditions are met
 1012: 0x5467 [0x7B] Peladi Shalmohr (ID: 17826008/0x011000D8) stops talking
 1013: 0x546C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pos0" with entities [Peladi Shalmohr (ID: 17826008/0x011000D8), Peladi Shalmohr (ID: 17826008/0x011000D8)], work=124*
-1014: 0x547B [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10424*]:
+1014: 0x547B [0x2B] Peladi Shalmohr (ID: 17826008/0x011000D8) [10425*]:
     → "<Player>! Go catch them before they bleed us drrry!"
 1015: 0x5482 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1016: 0x5483 [0x1C] WAIT(60* ticks)
@@ -5349,10 +5349,10 @@ SUBROUTINE_4FB9:
 1021: 0x54B3 [0x1C] WAIT(600* ticks)
 1022: 0x54B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
 1023: 0x54C7 [0x03] Work_Zone[2] = 2*
-1024: 0x54CC [0x48] [System] [10425*]:
+1024: 0x54CC [0x48] [System] [10426*]:
     → "Your management skill has increased by 0.$0!"
 1025: 0x54CF [0x1C] WAIT(120* ticks)
-1026: 0x54D2 [0x48] [System] [10426*]:
+1026: 0x54D2 [0x48] [System] [10427*]:
     → "...Probably."
 1027: 0x54D5 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x54E0
 1028: 0x54DD [0x01] GOTO 0x54E4
@@ -5376,18 +5376,18 @@ SUBROUTINE_54E4:
 1044: 0x557C [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
 1045: 0x5583 [0x6E] Westerly Breeze (ID: 17826080/0x01100120) uses emote 21*
 1046: 0x558A [0x99] Wait for Westerly Breeze (ID: 17826080/0x01100120) animation to complete
-1047: 0x558F [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10341*]:
+1047: 0x558F [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10342*]:
     → "Ah...ah... Achoo!"
 1048: 0x5596 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1049: 0x5597 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
 1050: 0x559D [0x03] Work_Zone_1700[0] = 180*
 1051: 0x55A2 [0x6E] Westerly Breeze (ID: 17826080/0x01100120) uses emote 32*
 1052: 0x55A9 [0x99] Wait for Westerly Breeze (ID: 17826080/0x01100120) animation to complete
-1053: 0x55AE [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10427*]:
+1053: 0x55AE [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10428*]:
     → "Not good at all. My cold's getting worse."
 1054: 0x55B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1055: 0x55B6 [0x03] Work_Zone[2] = 4489*
-1056: 0x55BB [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10428*]:
+1056: 0x55BB [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10429*]:
     → "I should have a nice, warm $0 to help take the edge off. Yes, that sounds perfect."
 1057: 0x55C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1058: 0x55C3 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -5398,7 +5398,7 @@ SUBROUTINE_54E4:
 1063: 0x55ED [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tuffle-Buffle (ID: 17826010/0x011000DA) Render.Flags0 and Render.Flags3 conditions are met
 1064: 0x55F2 [0x03] Work_Zone_1700[0] = 180*
 1065: 0x55F7 [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x3D)
-1066: 0x55FE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10417*]:
+1066: 0x55FE [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10418*]:
     → "Okay, up next! What shall we slip into our mouths...I mean just slip into next?"
 1067: 0x5605 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1068: 0x5606 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -5442,7 +5442,7 @@ SUBROUTINE_567A:
 1104: 0x5736 [0x1C] WAIT(30* ticks)
 1105: 0x5739 [0x03] Work_Zone_1700[0] = 135*
 1106: 0x573E [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x45)
-1107: 0x5745 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10401*]:
+1107: 0x5745 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10402*]:
     → "What tooky-wook you so long!? The pangs are too much to bear... Gimme that!"
 1108: 0x574C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1109: 0x574D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))
@@ -5459,7 +5459,7 @@ SUBROUTINE_57FF:
 1116: 0x57FF [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
 1117: 0x5805 [0x03] Work_Zone_1700[0] = 210*
 1118: 0x580A [0x27] REQ_SET(priority=0x10, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA), tag_num=0x38)
-1119: 0x5811 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10402*]:
+1119: 0x5811 [0x2B] Tuffle-Buffle (ID: 17826010/0x011000DA) [10403*]:
     → "Now that I have my energy back...time to get down to food huntaruing...err, clothes changing, again!"
 1120: 0x5818 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1121: 0x5819 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tuffle-Buffle (ID: 17826010/0x011000DA))

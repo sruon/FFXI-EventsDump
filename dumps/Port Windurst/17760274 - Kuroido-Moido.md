@@ -142,9 +142,9 @@
 |      36 | 0x0364      |         868 |
 |      37 | 0x0E82      |        3714 |
 |      38 | 0x0E90      |        3728 |
-|      39 | 0x3070      |       12400 |
+|      39 | 0x3071      |       12401 |
 |      40 | 0x0E9A      |        3738 |
-|      41 | 0x3077      |       12407 |
+|      41 | 0x3078      |       12408 |
 |      42 | 0x0E9F      |        3743 |
 |      43 | 0x0EA0      |        3744 |
 |      44 | 0x0EB3      |        3763 |
@@ -168,16 +168,16 @@
 |      62 | 0x0EC4      |        3780 |
 |      63 | 0x0EC5      |        3781 |
 |      64 | 0x0EC6      |        3782 |
-|      65 | 0x305B      |       12379 |
+|      65 | 0x305C      |       12380 |
 |      66 | 0x0EC8      |        3784 |
 |      67 | 0x0ECC      |        3788 |
 |      68 | 0x0ECD      |        3789 |
 |      69 | 0x0ECF      |        3791 |
 |      70 | 0x0ED0      |        3792 |
 |      71 | 0x0ED5      |        3797 |
-|      72 | 0x3065      |       12389 |
+|      72 | 0x3066      |       12390 |
 |      73 | 0x0ED8      |        3800 |
-|      74 | 0x3067      |       12391 |
+|      74 | 0x3068      |       12392 |
 |      75 | 0x0C4F      |        3151 |
 |      76 | 0x0190      |         400 |
 |      77 | 0x00C9      |         201 |
@@ -185,78 +185,78 @@
 |      79 | 0x191E7     |      102887 |
 |      80 | 0x0ED1      |        3793 |
 |      81 | 0x0ED2      |        3794 |
-|      82 | 0x3060      |       12384 |
-|      83 | 0x3062      |       12386 |
+|      82 | 0x3061      |       12385 |
+|      83 | 0x3063      |       12387 |
 |      84 | 0x0ED4      |        3796 |
 |      85 | 0x0EE2      |        3810 |
 |      86 | 0x0EE6      |        3814 |
 |      87 | 0x0EE7      |        3815 |
-|      88 | 0x306C      |       12396 |
-|      89 | 0x306D      |       12397 |
+|      88 | 0x306D      |       12397 |
+|      89 | 0x306E      |       12398 |
 |      90 | 0xFFFE47BC  |  4294854588 |
 |      91 | 0x19292     |      103058 |
 |      92 | 0x0DAC      |        3500 |
-|      93 | 0x2FFD      |       12285 |
-|      94 | 0x2FFE      |       12286 |
-|      95 | 0x3001      |       12289 |
-|      96 | 0x3002      |       12290 |
-|      97 | 0x3005      |       12293 |
-|      98 | 0x3006      |       12294 |
-|      99 | 0x3009      |       12297 |
-|     100 | 0x300A      |       12298 |
-|     101 | 0x3055      |       12373 |
-|     102 | 0x3056      |       12374 |
-|     103 | 0x313F      |       12607 |
-|     104 | 0x3140      |       12608 |
+|      93 | 0x2FFE      |       12286 |
+|      94 | 0x2FFF      |       12287 |
+|      95 | 0x3002      |       12290 |
+|      96 | 0x3003      |       12291 |
+|      97 | 0x3006      |       12294 |
+|      98 | 0x3007      |       12295 |
+|      99 | 0x300A      |       12298 |
+|     100 | 0x300B      |       12299 |
+|     101 | 0x3056      |       12374 |
+|     102 | 0x3057      |       12375 |
+|     103 | 0x3140      |       12608 |
+|     104 | 0x3141      |       12609 |
 |     105 | 0x00D5      |         213 |
-|     106 | 0x3162      |       12642 |
-|     107 | 0x3163      |       12643 |
-|     108 | 0x3164      |       12644 |
-|     109 | 0x3165      |       12645 |
-|     110 | 0x3166      |       12646 |
-|     111 | 0x3167      |       12647 |
-|     112 | 0x3168      |       12648 |
-|     113 | 0x3169      |       12649 |
+|     106 | 0x3163      |       12643 |
+|     107 | 0x3164      |       12644 |
+|     108 | 0x3165      |       12645 |
+|     109 | 0x3166      |       12646 |
+|     110 | 0x3167      |       12647 |
+|     111 | 0x3168      |       12648 |
+|     112 | 0x3169      |       12649 |
+|     113 | 0x316A      |       12650 |
 |     114 | 0x0005      |           5 |
 |     115 | 0x0006      |           6 |
-|     116 | 0x316A      |       12650 |
-|     117 | 0x316B      |       12651 |
-|     118 | 0x316C      |       12652 |
+|     116 | 0x316B      |       12651 |
+|     117 | 0x316C      |       12652 |
+|     118 | 0x316D      |       12653 |
 |     119 | 0x0078      |         120 |
-|     120 | 0x316D      |       12653 |
-|     121 | 0x316E      |       12654 |
-|     122 | 0x3174      |       12660 |
-|     123 | 0x316F      |       12655 |
-|     124 | 0x3170      |       12656 |
-|     125 | 0x3171      |       12657 |
-|     126 | 0x3172      |       12658 |
-|     127 | 0x3173      |       12659 |
+|     120 | 0x316E      |       12654 |
+|     121 | 0x316F      |       12655 |
+|     122 | 0x3175      |       12661 |
+|     123 | 0x3170      |       12656 |
+|     124 | 0x3171      |       12657 |
+|     125 | 0x3172      |       12658 |
+|     126 | 0x3173      |       12659 |
+|     127 | 0x3174      |       12660 |
 |     128 | 0x0004      |           4 |
-|     129 | 0x3175      |       12661 |
-|     130 | 0x3176      |       12662 |
-|     131 | 0x3177      |       12663 |
-|     132 | 0x3178      |       12664 |
-|     133 | 0x3179      |       12665 |
-|     134 | 0x317A      |       12666 |
-|     135 | 0x317B      |       12667 |
-|     136 | 0x317D      |       12669 |
-|     137 | 0x317E      |       12670 |
-|     138 | 0x317F      |       12671 |
+|     129 | 0x3176      |       12662 |
+|     130 | 0x3177      |       12663 |
+|     131 | 0x3178      |       12664 |
+|     132 | 0x3179      |       12665 |
+|     133 | 0x317A      |       12666 |
+|     134 | 0x317B      |       12667 |
+|     135 | 0x317C      |       12668 |
+|     136 | 0x317E      |       12670 |
+|     137 | 0x317F      |       12671 |
+|     138 | 0x3180      |       12672 |
 |     139 | 0x0EB5      |        3765 |
-|     140 | 0x3180      |       12672 |
-|     141 | 0x3181      |       12673 |
-|     142 | 0x3182      |       12674 |
+|     140 | 0x3181      |       12673 |
+|     141 | 0x3182      |       12674 |
+|     142 | 0x3183      |       12675 |
 |     143 | 0x0007      |           7 |
-|     144 | 0x3183      |       12675 |
-|     145 | 0x3184      |       12676 |
+|     144 | 0x3184      |       12676 |
+|     145 | 0x3185      |       12677 |
 |     146 | 0x000B      |          11 |
-|     147 | 0x3185      |       12677 |
-|     148 | 0x3186      |       12678 |
-|     149 | 0x3187      |       12679 |
-|     150 | 0x3188      |       12680 |
-|     151 | 0x3189      |       12681 |
-|     152 | 0x318A      |       12682 |
-|     153 | 0x318B      |       12683 |
+|     147 | 0x3186      |       12678 |
+|     148 | 0x3187      |       12679 |
+|     149 | 0x3188      |       12680 |
+|     150 | 0x3189      |       12681 |
+|     151 | 0x318A      |       12682 |
+|     152 | 0x318B      |       12683 |
+|     153 | 0x318C      |       12684 |
 |     154 | 0xFFFE49A1  |  4294855073 |
 |     155 | 0x18C78     |      101496 |
 |     156 | 0x0C34      |        3124 |
@@ -320,56 +320,56 @@
 - **3810**: ......
 - **3814**: Now I get the picture... When our minister saw the wand that Hakkuru-Rinkuru had fixed with $1, he must have thought his dear mother was trying to tell him something!
 - **3815**: But if that's the case, then... If we don't stick this wand back together again, they'll return to being the fightaruing siblings that they originally were.
-- **12285**: Well, it's like the minister said--head to the southwestern tower in West Sarutabaruta and entaru the laboratory.
-- **12286**: This $3 is the key to the laboratory.
-- **12289**: As I'm sure you remember, it is forbidden to tamper with the Horutoto Ruins withoutaru permission from Heavens Tower.
-- **12290**: Our minister has been scolded repeatedly by the Sibyl Guards over his blatantaru disregard for this rule. ...It's a tense situation.
-- **12293**: This is terrible-werrible. Semih Lafihna came asking about the mission.
-- **12294**: Of course, we explained the mission in a round-a-bout-a-wout way... But she seems to have found outaru the details from some other source.
-- **12297**: We need to stay calm and think. With no leader for the Mage Academy, an attack from another nation or a beastman army would turn Windurst into rubble-wubble.
-- **12298**: If that happens, then we should have Doctor Shantotto on the frontaru line... No wait, we need Doctor Shantotto to be Windurst's lastaru line of defense...
-- **12373**: As for the minister's condition...there's nothing wrong with his physical health, but his mind is being held in thrall by an unknown force.
-- **12374**: Minister Apururu was stammering so much she could hardly speak, but it seems something unexpected transpired at the Dark Dungeon. ...With both Minister Apururu and Professor Shantotto here, we shouldn't have anything to worry about, though...
-- **12379**: The Orastery sometimes has visits from Professor Shantotto, and it was she who saw through the deception. After a single glance at the new wand, the professor blew her top at Hakkuru-Rinkuru.
-- **12384**: Come on Hakkuru-Rinkuru, cheer up. When Minister Ajido-Marujido gets back, we'll apologize to him together.
-- **12386**: What a lucky break. With Minister Ajido-Marujido in the Dark Dungeon, this wand'll be the least of his worries...
-- **12396**: Now I see what's going on. Hakkuru-Rinkuru, you've been completely taken in by Professor Shantotto.
-- **12397**: She knew all about the history of that wand. What a meanie-beanie, malicious-wicious person she is.
-- **12400**: If Miss Apururu hadn't come along when she did, you would be on your way to the Gates of Paradise by now.
-- **12407**: We had gathered the three wands that the brigadier generals wanted and we were comparing their quality. Then when Professor Shantotto showed up, all this happened...
-- **12607**: The timely return of the minister has saved the Orastery Mages from a collective case of stomach ulcer-wulcers.
-- **12608**: If he had come back any later, who knows what awful chores we could have been sentaru on by a certain schemey-weeming Tarutaru?
-- **12642**: In the name of forging the mages of the Orastery into a fit fighting force, a terror-inspiring plan of Code E proportions is underway here in Windurst!
-- **12643**: And that plan is known as the Martial Mages Mortal Mashfest! Mages will competaru in a no-magic, no holds barred, club-swinging free-for-all!
-- **12645**: The organizer of this gladiatorial extravaganza-wanza is taking advantage of Minister Ajido-Marujido's absence to completaru the preparations.
-- **12646**: And what's more, that very same organizer is thinking of including a deathmatch between adventurers and mages of the Orastery!
-- **12648**: In the case that our multiple countermeasures fail before Minister Ajido-Marujido returns and the Mashfest actually takes place, we here in the Operations Division have come up with alternative preparations.
-- **12649**: With everyone's help, we have created this magical club.
-- **12650**: I entrustaru this club to you, and ask that you smacky-whack away until its magical power has been depleted.
-- **12651**: Such a wonderfully designed weapon. While swinging at your enemy with the club, you have a hand free to hold a shield in defense...
-- **12652**: As opposed to the reckless-weckless organizer of this event, who's likely to charge in flailing a staff with both hands...
-- **12653**: The club that you were given has been empowered with a special-wecial magic. Please use it in battle until the spell on the club has faded. Was there something else?
-- **12654**: Was there something? [No, nothing else./I lost the $1.../I give up.]
-- **12655**: Lucky for you, the boys here in Operations think of every contingency. Here's a new club for you.
-- **12656**: Oh, you really wantaru give up? We had such a greataru reward waiting for you, too...
-- **12657**: Do you still wantaru give up? [No more clubbing for me./I guess I could club some more...]
-- **12658**: I see... Even an adventurer like you has to be afraid of that person. I don'taru blame you!
-- **12659**: Please disposey-wose of the club so you won't be connected with the goings-on here at the Orastery.
-- **12660**: We have a splendid-wendid reward for you after your task is done. Don'taru give up, now!
-- **12661**: The spell upon the club still remains. The magic will fade once the data has been fully-wully recorded, so keep on clubbing!
-- **12662**: Good work. We've managed to compile-wile some useful data from your efforts.
-- **12663**: Now, aboutaru your reward. It's not something that everyone can use, so we mustaru test your suitability first.
-- **12664**: Now, now, don't get all fluster-wustered. We're not intending to sendy-wend you into the jaws of death to keep our plans secret.
-- **12665**: Here. Prove your strength to us by thump-whumping a monster in a special place in Ro'Maeve.
-- **12666**: Bring us $6 from the monster you defeataru, and we'll consider you worthy to receive the reward.
-- **12667**: The reward we will give you is extremely-wemely special. Prove to us you can use it by testing your mettle in Ro'Maeve.
-- **12669**: Amazing! You've returned victorious!
-- **12670**: For your reward, I will teach you a super-secret club technique passed down through the Orastery for generations. This ultimate technique was developed as a lastaru resort for when all magic has been exhausted.
-- **12671**: We are mostaru grateful for your assistance. Use it wisely.
-- **12674**: The opponents that the organizer will send against us will mostaru likely be toppity-notch combatants... Without the data collected from powerful adventurers who have completed our test, we wouldn'taru be in any position to compete.
-- **12679**: Hmmm. But when you think about it, everyone's being forced to brush up their club technique anyway...
-- **12680**: You know, putting the sinister-winister will aside, the existence of Doctor Shantotto actually contributes to the improvementaru of the Orastery.
-- **12681**: Being a ministry with an often absentaru minister, we need to be kept on our toesy-woes.
+- **12286**: Well, it's like the minister said--head to the southwestern tower in West Sarutabaruta and entaru the laboratory.
+- **12287**: This $3 is the key to the laboratory.
+- **12290**: As I'm sure you remember, it is forbidden to tamper with the Horutoto Ruins withoutaru permission from Heavens Tower.
+- **12291**: Our minister has been scolded repeatedly by the Sibyl Guards over his blatantaru disregard for this rule. ...It's a tense situation.
+- **12294**: This is terrible-werrible. Semih Lafihna came asking about the mission.
+- **12295**: Of course, we explained the mission in a round-a-bout-a-wout way... But she seems to have found outaru the details from some other source.
+- **12298**: We need to stay calm and think. With no leader for the Mage Academy, an attack from another nation or a beastman army would turn Windurst into rubble-wubble.
+- **12299**: If that happens, then we should have Doctor Shantotto on the frontaru line... No wait, we need Doctor Shantotto to be Windurst's lastaru line of defense...
+- **12374**: As for the minister's condition...there's nothing wrong with his physical health, but his mind is being held in thrall by an unknown force.
+- **12375**: Minister Apururu was stammering so much she could hardly speak, but it seems something unexpected transpired at the Dark Dungeon. ...With both Minister Apururu and Professor Shantotto here, we shouldn't have anything to worry about, though...
+- **12380**: The Orastery sometimes has visits from Professor Shantotto, and it was she who saw through the deception. After a single glance at the new wand, the professor blew her top at Hakkuru-Rinkuru.
+- **12385**: Come on Hakkuru-Rinkuru, cheer up. When Minister Ajido-Marujido gets back, we'll apologize to him together.
+- **12387**: What a lucky break. With Minister Ajido-Marujido in the Dark Dungeon, this wand'll be the least of his worries...
+- **12397**: Now I see what's going on. Hakkuru-Rinkuru, you've been completely taken in by Professor Shantotto.
+- **12398**: She knew all about the history of that wand. What a meanie-beanie, malicious-wicious person she is.
+- **12401**: If Miss Apururu hadn't come along when she did, you would be on your way to the Gates of Paradise by now.
+- **12408**: We had gathered the three wands that the brigadier generals wanted and we were comparing their quality. Then when Professor Shantotto showed up, all this happened...
+- **12608**: The timely return of the minister has saved the Orastery Mages from a collective case of stomach ulcer-wulcers.
+- **12609**: If he had come back any later, who knows what awful chores we could have been sentaru on by a certain schemey-weeming Tarutaru?
+- **12643**: In the name of forging the mages of the Orastery into a fit fighting force, a terror-inspiring plan of Code E proportions is underway here in Windurst!
+- **12644**: And that plan is known as the Martial Mages Mortal Mashfest! Mages will competaru in a no-magic, no holds barred, club-swinging free-for-all!
+- **12646**: The organizer of this gladiatorial extravaganza-wanza is taking advantage of Minister Ajido-Marujido's absence to completaru the preparations.
+- **12647**: And what's more, that very same organizer is thinking of including a deathmatch between adventurers and mages of the Orastery!
+- **12649**: In the case that our multiple countermeasures fail before Minister Ajido-Marujido returns and the Mashfest actually takes place, we here in the Operations Division have come up with alternative preparations.
+- **12650**: With everyone's help, we have created this magical club.
+- **12651**: I entrustaru this club to you, and ask that you smacky-whack away until its magical power has been depleted.
+- **12652**: Such a wonderfully designed weapon. While swinging at your enemy with the club, you have a hand free to hold a shield in defense...
+- **12653**: As opposed to the reckless-weckless organizer of this event, who's likely to charge in flailing a staff with both hands...
+- **12654**: The club that you were given has been empowered with a special-wecial magic. Please use it in battle until the spell on the club has faded. Was there something else?
+- **12655**: Was there something? [No, nothing else./I lost the $1.../I give up.]
+- **12656**: Lucky for you, the boys here in Operations think of every contingency. Here's a new club for you.
+- **12657**: Oh, you really wantaru give up? We had such a greataru reward waiting for you, too...
+- **12658**: Do you still wantaru give up? [No more clubbing for me./I guess I could club some more...]
+- **12659**: I see... Even an adventurer like you has to be afraid of that person. I don'taru blame you!
+- **12660**: Please disposey-wose of the club so you won't be connected with the goings-on here at the Orastery.
+- **12661**: We have a splendid-wendid reward for you after your task is done. Don'taru give up, now!
+- **12662**: The spell upon the club still remains. The magic will fade once the data has been fully-wully recorded, so keep on clubbing!
+- **12663**: Good work. We've managed to compile-wile some useful data from your efforts.
+- **12664**: Now, aboutaru your reward. It's not something that everyone can use, so we mustaru test your suitability first.
+- **12665**: Now, now, don't get all fluster-wustered. We're not intending to sendy-wend you into the jaws of death to keep our plans secret.
+- **12666**: Here. Prove your strength to us by thump-whumping a monster in a special place in Ro'Maeve.
+- **12667**: Bring us $6 from the monster you defeataru, and we'll consider you worthy to receive the reward.
+- **12668**: The reward we will give you is extremely-wemely special. Prove to us you can use it by testing your mettle in Ro'Maeve.
+- **12670**: Amazing! You've returned victorious!
+- **12671**: For your reward, I will teach you a super-secret club technique passed down through the Orastery for generations. This ultimate technique was developed as a lastaru resort for when all magic has been exhausted.
+- **12672**: We are mostaru grateful for your assistance. Use it wisely.
+- **12675**: The opponents that the organizer will send against us will mostaru likely be toppity-notch combatants... Without the data collected from powerful adventurers who have completed our test, we wouldn'taru be in any position to compete.
+- **12680**: Hmmm. But when you think about it, everyone's being forced to brush up their club technique anyway...
+- **12681**: You know, putting the sinister-winister will aside, the existence of Doctor Shantotto actually contributes to the improvementaru of the Orastery.
+- **12682**: Being a ministry with an often absentaru minister, we need to be kept on our toesy-woes.
 
 ## Events
 
@@ -1556,7 +1556,7 @@
 
 ```
   0: 0x030C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  1: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=12400*)
+  1: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=12401*)
     → "If Miss Apururu hadn't come along when she did, you would be on your way to the Gates of Paradise by now."
   2: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0317 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -1613,7 +1613,7 @@
 
 ```
   0: 0x0332 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  1: 0x0339 [0x1D] PRINT_EVENT_MESSAGE(message_id=12407*)
+  1: 0x0339 [0x1D] PRINT_EVENT_MESSAGE(message_id=12408*)
     → "We had gathered the three wands that the brigadier generals wanted and we were comparing their quality. Then when Professor Shantotto showed up, all this happened..."
   2: 0x033C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x033D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -2028,7 +2028,7 @@ SUBROUTINE_0586:
 
 ```
   0: 0x05E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  1: 0x05EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12379*)
+  1: 0x05EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12380*)
     → "The Orastery sometimes has visits from Professor Shantotto, and it was she who saw through the deception. After a single glance at the new wand, the professor blew her top at Hakkuru-Rinkuru."
   2: 0x05ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -2291,7 +2291,7 @@ SUBROUTINE_07E6:
     → "Hi-diddly-diddly! Is my dear brother in?"
  71: 0x0836 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0837 [0x01] GOTO 0x0842
- 73: 0x083A [0x2B] Apururu (ID: 17760283/0x010F001B) [12389*]:
+ 73: 0x083A [0x2B] Apururu (ID: 17760283/0x010F001B) [12390*]:
     → "Hello, everyone! Apururu is here!"
  74: 0x0841 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2313,7 +2313,7 @@ SUBROUTINE_0888:
     → "What's the emergency, Miss?"
  87: 0x08AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x08B0 [0x01] GOTO 0x08BB
- 89: 0x08B3 [0x2B] Kuroido-Moido (ID: 17760274/0x010F0012) [12391*]:
+ 89: 0x08B3 [0x2B] Kuroido-Moido (ID: 17760274/0x010F0012) [12392*]:
     → "No, not at all. You seem out of breath, Minister Apururu... Are you here on urgentaru business?"
  90: 0x08BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2474,7 +2474,7 @@ SUBROUTINE_0989:
 
 ```
   0: 0x0A2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x0B)
-  1: 0x0A31 [0x1D] PRINT_EVENT_MESSAGE(message_id=12384*)
+  1: 0x0A31 [0x1D] PRINT_EVENT_MESSAGE(message_id=12385*)
     → "Come on Hakkuru-Rinkuru, cheer up. When Minister Ajido-Marujido gets back, we'll apologize to him together."
   2: 0x0A34 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0A35 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x0C)
@@ -2502,7 +2502,7 @@ SUBROUTINE_0989:
 
 ```
   0: 0x0A3D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  1: 0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12386*)
+  1: 0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12387*)
     → "What a lucky break. With Minister Ajido-Marujido in the Dark Dungeon, this wand'll be the least of his worries..."
   2: 0x0A47 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0A48 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -2631,12 +2631,12 @@ SUBROUTINE_0989:
  11: 0x0AA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x06)
  12: 0x0AAE [0x01] GOTO 0x0AD5
  13: 0x0AB1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x03)
- 14: 0x0AB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12396*)
+ 14: 0x0AB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12397*)
     → "Now I see what's going on. Hakkuru-Rinkuru, you've been completely taken in by Professor Shantotto."
  15: 0x0ABB [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0ABC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x04)
  17: 0x0AC3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x05)
- 18: 0x0ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=12397*)
+ 18: 0x0ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=12398*)
     → "She knew all about the history of that wand. What a meanie-beanie, malicious-wicious person she is."
  19: 0x0ACD [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0ACE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x06)
@@ -2715,12 +2715,12 @@ SUBROUTINE_0AD5:
 
 ```
   0: 0x0AE4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x09)
-  1: 0x0AEB [0x1D] PRINT_EVENT_MESSAGE(message_id=12285*)
+  1: 0x0AEB [0x1D] PRINT_EVENT_MESSAGE(message_id=12286*)
     → "Well, it's like the minister said--head to the southwestern tower in West Sarutabaruta and entaru the laboratory."
   2: 0x0AEE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0AEF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x0A)
   4: 0x0AF6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x10)
-  5: 0x0AFD [0x1D] PRINT_EVENT_MESSAGE(message_id=12286*)
+  5: 0x0AFD [0x1D] PRINT_EVENT_MESSAGE(message_id=12287*)
     → "This $3 is the key to the laboratory."
   6: 0x0B00 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0B01 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x11)
@@ -2753,12 +2753,12 @@ SUBROUTINE_0AD5:
   1: 0x0B0E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B0F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B10 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x09)
-  4: 0x0B17 [0x1D] PRINT_EVENT_MESSAGE(message_id=12289*)
+  4: 0x0B17 [0x1D] PRINT_EVENT_MESSAGE(message_id=12290*)
     → "As I'm sure you remember, it is forbidden to tamper with the Horutoto Ruins withoutaru permission from Heavens Tower."
   5: 0x0B1A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B1B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x0A)
   7: 0x0B22 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  8: 0x0B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=12290*)
+  8: 0x0B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=12291*)
     → "Our minister has been scolded repeatedly by the Sibyl Guards over his blatantaru disregard for this rule. ...It's a tense situation."
   9: 0x0B2C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B2D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -2793,12 +2793,12 @@ SUBROUTINE_0AD5:
   1: 0x0B3D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B3E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B3F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x09)
-  4: 0x0B46 [0x1D] PRINT_EVENT_MESSAGE(message_id=12293*)
+  4: 0x0B46 [0x1D] PRINT_EVENT_MESSAGE(message_id=12294*)
     → "This is terrible-werrible. Semih Lafihna came asking about the mission."
   5: 0x0B49 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x0A)
   7: 0x0B51 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  8: 0x0B58 [0x1D] PRINT_EVENT_MESSAGE(message_id=12294*)
+  8: 0x0B58 [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
     → "Of course, we explained the mission in a round-a-bout-a-wout way... But she seems to have found outaru the details from some other source."
   9: 0x0B5B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B5C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -2834,12 +2834,12 @@ SUBROUTINE_0AD5:
   1: 0x0B6C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B6D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B6E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  4: 0x0B75 [0x1D] PRINT_EVENT_MESSAGE(message_id=12297*)
+  4: 0x0B75 [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
     → "We need to stay calm and think. With no leader for the Mage Academy, an attack from another nation or a beastman army would turn Windurst into rubble-wubble."
   5: 0x0B78 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B79 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
   7: 0x0B80 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x03)
-  8: 0x0B87 [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
+  8: 0x0B87 [0x1D] PRINT_EVENT_MESSAGE(message_id=12299*)
     → "If that happens, then we should have Doctor Shantotto on the frontaru line... No wait, we need Doctor Shantotto to be Windurst's lastaru line of defense..."
   9: 0x0B8A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B8B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x04)
@@ -2877,12 +2877,12 @@ SUBROUTINE_0AD5:
   1: 0x0BA9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0BAA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0BAB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  4: 0x0BB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12297*)
+  4: 0x0BB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
     → "We need to stay calm and think. With no leader for the Mage Academy, an attack from another nation or a beastman army would turn Windurst into rubble-wubble."
   5: 0x0BB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0BB6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
   7: 0x0BBD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x03)
-  8: 0x0BC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
+  8: 0x0BC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12299*)
     → "If that happens, then we should have Doctor Shantotto on the frontaru line... No wait, we need Doctor Shantotto to be Windurst's lastaru line of defense..."
   9: 0x0BC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0BC8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x04)
@@ -2918,10 +2918,10 @@ SUBROUTINE_0AD5:
   1: 0x0BE6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0BE7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0BE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  4: 0x0BEF [0x1D] PRINT_EVENT_MESSAGE(message_id=12373*)
+  4: 0x0BEF [0x1D] PRINT_EVENT_MESSAGE(message_id=12374*)
     → "As for the minister's condition...there's nothing wrong with his physical health, but his mind is being held in thrall by an unknown force."
   5: 0x0BF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0BF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12374*)
+  6: 0x0BF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12375*)
     → "Minister Apururu was stammering so much she could hardly speak, but it seems something unexpected transpired at the Dark Dungeon. ...With both Minister Apururu and Professor Shantotto here, we shouldn't have anything to worry about, though..."
   7: 0x0BF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0BF7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -2956,12 +2956,12 @@ SUBROUTINE_0AD5:
   1: 0x0C07 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0C08 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0C09 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x03)
-  4: 0x0C10 [0x1D] PRINT_EVENT_MESSAGE(message_id=12607*)
+  4: 0x0C10 [0x1D] PRINT_EVENT_MESSAGE(message_id=12608*)
     → "The timely return of the minister has saved the Orastery Mages from a collective case of stomach ulcer-wulcers."
   5: 0x0C13 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0C14 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x04)
   7: 0x0C1B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x05)
-  8: 0x0C22 [0x1D] PRINT_EVENT_MESSAGE(message_id=12608*)
+  8: 0x0C22 [0x1D] PRINT_EVENT_MESSAGE(message_id=12609*)
     → "If he had come back any later, who knows what awful chores we could have been sentaru on by a certain schemey-weeming Tarutaru?"
   9: 0x0C25 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0C26 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x06)
@@ -3056,15 +3056,15 @@ SUBROUTINE_0AD5:
  21: 0x0CA9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
  22: 0x0CBA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  23: 0x0CCB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
- 24: 0x0CD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12642*)
+ 24: 0x0CD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12643*)
     → "In the name of forging the mages of the Orastery into a fit fighting force, a terror-inspiring plan of Code E proportions is underway here in Windurst!"
  25: 0x0CD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0CD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12643*)
+ 26: 0x0CD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12644*)
     → "And that plan is known as the Martial Mages Mortal Mashfest! Mages will competaru in a no-magic, no holds barred, club-swinging free-for-all!"
  27: 0x0CD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0CDA [0x27] REQ_SET(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
  29: 0x0CE1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x0F)
- 30: 0x0CE8 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12644*]:
+ 30: 0x0CE8 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12645*]:
     → "Wah! How dreadful-weadful!"
  31: 0x0CEF [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0CF0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x10)
@@ -3072,18 +3072,18 @@ SUBROUTINE_0AD5:
  34: 0x0CFD [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=213*
  35: 0x0D0C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
  36: 0x0D1D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
- 37: 0x0D24 [0x1D] PRINT_EVENT_MESSAGE(message_id=12645*)
+ 37: 0x0D24 [0x1D] PRINT_EVENT_MESSAGE(message_id=12646*)
     → "The organizer of this gladiatorial extravaganza-wanza is taking advantage of Minister Ajido-Marujido's absence to completaru the preparations."
  38: 0x0D27 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0D28 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
  40: 0x0D2F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x07)
- 41: 0x0D36 [0x1D] PRINT_EVENT_MESSAGE(message_id=12646*)
+ 41: 0x0D36 [0x1D] PRINT_EVENT_MESSAGE(message_id=12647*)
     → "And what's more, that very same organizer is thinking of including a deathmatch between adventurers and mages of the Orastery!"
  42: 0x0D39 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0D3A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x08)
  44: 0x0D41 [0x7B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) stops talking
  45: 0x0D46 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x0F)
- 46: 0x0D4D [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12647*]:
+ 46: 0x0D4D [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12648*]:
     → "Gah! How gruesome-wuesome!"
  47: 0x0D54 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0D55 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x10)
@@ -3091,14 +3091,14 @@ SUBROUTINE_0AD5:
  50: 0x0D6B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
  51: 0x0D7C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x03)
  52: 0x0D83 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x03)
- 53: 0x0D8A [0x1D] PRINT_EVENT_MESSAGE(message_id=12648*)
+ 53: 0x0D8A [0x1D] PRINT_EVENT_MESSAGE(message_id=12649*)
     → "In the case that our multiple countermeasures fail before Minister Ajido-Marujido returns and the Mashfest actually takes place, we here in the Operations Division have come up with alternative preparations."
  54: 0x0D8D [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0D8E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x04)
  56: 0x0D95 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x04)
  57: 0x0D9C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x05)
  58: 0x0DA3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x05)
- 59: 0x0DAA [0x1D] PRINT_EVENT_MESSAGE(message_id=12649*)
+ 59: 0x0DAA [0x1D] PRINT_EVENT_MESSAGE(message_id=12650*)
     → "With everyone's help, we have created this magical club."
  60: 0x0DAD [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0DAE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x06)
@@ -3114,7 +3114,7 @@ SUBROUTINE_0AD5:
 SUBROUTINE_0E0D:
  70: 0x0E0D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x53)
  71: 0x0E14 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x10)
- 72: 0x0E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=12650*)
+ 72: 0x0E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=12651*)
     → "I entrustaru this club to you, and ask that you smacky-whack away until its magical power has been depleted."
  73: 0x0E1E [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0E1F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x11)
@@ -3129,11 +3129,11 @@ SUBROUTINE_0E0D:
 SUBROUTINE_0E69:
  82: 0x0E69 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  83: 0x0E7A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
- 84: 0x0E8B [0x1D] PRINT_EVENT_MESSAGE(message_id=12651*)
+ 84: 0x0E8B [0x1D] PRINT_EVENT_MESSAGE(message_id=12652*)
     → "Such a wonderfully designed weapon. While swinging at your enemy with the club, you have a hand free to hold a shield in defense..."
  85: 0x0E8E [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0E8F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x03)
- 87: 0x0E96 [0x1D] PRINT_EVENT_MESSAGE(message_id=12652*)
+ 87: 0x0E96 [0x1D] PRINT_EVENT_MESSAGE(message_id=12653*)
     → "As opposed to the reckless-weckless organizer of this event, who's likely to charge in flailing a staff with both hands..."
  88: 0x0E99 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0E9A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x04)
@@ -3187,17 +3187,17 @@ SUBROUTINE_0E69:
   1: 0x0EEF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0EF0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0EF1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  4: 0x0EF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12653*)
+  4: 0x0EF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12654*)
     → "The club that you were given has been empowered with a special-wecial magic. Please use it in battle until the spell on the club has faded. Was there something else?"
   5: 0x0EFB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0EFC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
   7: 0x0F03 [0x03] Work_Zone[1] = 0*
-  8: 0x0F08 [0x24] CREATE_DIALOG(message_id=12654*, default_option=0*, option_flags=Work_Zone[6])
+  8: 0x0F08 [0x24] CREATE_DIALOG(message_id=12655*, default_option=0*, option_flags=Work_Zone[6])
     → "Was there something? [No, nothing else./I lost the $1.../I give up.]"
   9: 0x0F0F [0x25] WAIT_DIALOG_SELECT()
  10: 0x0F10 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F24
  11: 0x0F18 [0x03] Work_Zone[1] = 0*
- 12: 0x0F1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12660*)
+ 12: 0x0F1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12661*)
     → "We have a splendid-wendid reward for you after your task is done. Don'taru give up, now!"
  13: 0x0F20 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0F21 [0x01] GOTO 0x0FA6
@@ -3206,28 +3206,28 @@ SUBROUTINE_0E69:
  17: 0x0F2D [0x03] Work_Zone[1] = 1*
  18: 0x0F32 [0x6E] EventEntity uses emote 6*
  19: 0x0F39 [0x99] Wait for EventEntity animation to complete
- 20: 0x0F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=12655*)
+ 20: 0x0F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=12656*)
     → "Lucky for you, the boys here in Operations think of every contingency. Here's a new club for you."
  21: 0x0F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0F42 [0x01] GOTO 0x0FA6
  23: 0x0F45 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0FA6
  24: 0x0F4D [0x03] Work_Zone[1] = 2*
- 25: 0x0F52 [0x1D] PRINT_EVENT_MESSAGE(message_id=12656*)
+ 25: 0x0F52 [0x1D] PRINT_EVENT_MESSAGE(message_id=12657*)
     → "Oh, you really wantaru give up? We had such a greataru reward waiting for you, too..."
  26: 0x0F55 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0F56 [0x24] CREATE_DIALOG(message_id=12657*, default_option=1*, option_flags=0*)
+ 27: 0x0F56 [0x24] CREATE_DIALOG(message_id=12658*, default_option=1*, option_flags=0*)
     → "Do you still wantaru give up? [No more clubbing for me./I guess I could club some more...]"
  28: 0x0F5D [0x25] WAIT_DIALOG_SELECT()
  29: 0x0F5E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F93
  30: 0x0F66 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  31: 0x0F67 [0x03] Work_Zone[1] = 3*
  32: 0x0F6C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x03)
- 33: 0x0F73 [0x1D] PRINT_EVENT_MESSAGE(message_id=12658*)
+ 33: 0x0F73 [0x1D] PRINT_EVENT_MESSAGE(message_id=12659*)
     → "I see... Even an adventurer like you has to be afraid of that person. I don'taru blame you!"
  34: 0x0F76 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0F77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x04)
  36: 0x0F7E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x05)
- 37: 0x0F85 [0x1D] PRINT_EVENT_MESSAGE(message_id=12659*)
+ 37: 0x0F85 [0x1D] PRINT_EVENT_MESSAGE(message_id=12660*)
     → "Please disposey-wose of the club so you won't be connected with the goings-on here at the Orastery."
  38: 0x0F88 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0F89 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x06)
@@ -3270,7 +3270,7 @@ SUBROUTINE_0FA6:
   1: 0x0FAF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0FB0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0FB1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  4: 0x0FB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12661*)
+  4: 0x0FB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12662*)
     → "The spell upon the club still remains. The magic will fade once the data has been fully-wully recorded, so keep on clubbing!"
   5: 0x0FBB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0FBC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -3369,7 +3369,7 @@ SUBROUTINE_1088:
  28: 0x1088 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  29: 0x1099 [0x6E] EventEntity uses emote 1*
  30: 0x10A0 [0x99] Wait for EventEntity animation to complete
- 31: 0x10A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12662*)
+ 31: 0x10A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12663*)
     → "Good work. We've managed to compile-wile some useful data from your efforts."
  32: 0x10A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x10A9 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x10C3
@@ -3383,12 +3383,12 @@ SUBROUTINE_1088:
 SUBROUTINE_10EC:
  40: 0x10EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
  41: 0x10FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
- 42: 0x1104 [0x1D] PRINT_EVENT_MESSAGE(message_id=12663*)
+ 42: 0x1104 [0x1D] PRINT_EVENT_MESSAGE(message_id=12664*)
     → "Now, aboutaru your reward. It's not something that everyone can use, so we mustaru test your suitability first."
  43: 0x1107 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x1108 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
  45: 0x110F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x09)
- 46: 0x1116 [0x1D] PRINT_EVENT_MESSAGE(message_id=12664*)
+ 46: 0x1116 [0x1D] PRINT_EVENT_MESSAGE(message_id=12665*)
     → "Now, now, don't get all fluster-wustered. We're not intending to sendy-wend you into the jaws of death to keep our plans secret."
  47: 0x1119 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x111A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x0A)
@@ -3403,12 +3403,12 @@ SUBROUTINE_10EC:
 
 SUBROUTINE_1179:
  57: 0x1179 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x10)
- 58: 0x1180 [0x1D] PRINT_EVENT_MESSAGE(message_id=12665*)
+ 58: 0x1180 [0x1D] PRINT_EVENT_MESSAGE(message_id=12666*)
     → "Here. Prove your strength to us by thump-whumping a monster in a special place in Ro'Maeve."
  59: 0x1183 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x1184 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x11)
  61: 0x118B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
- 62: 0x1192 [0x1D] PRINT_EVENT_MESSAGE(message_id=12666*)
+ 62: 0x1192 [0x1D] PRINT_EVENT_MESSAGE(message_id=12667*)
     → "Bring us $6 from the monster you defeataru, and we'll consider you worthy to receive the reward."
  63: 0x1195 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x1196 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -3461,7 +3461,7 @@ SUBROUTINE_1207:
   1: 0x122E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x122F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1230 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
-  4: 0x1237 [0x1D] PRINT_EVENT_MESSAGE(message_id=12667*)
+  4: 0x1237 [0x1D] PRINT_EVENT_MESSAGE(message_id=12668*)
     → "The reward we will give you is extremely-wemely special. Prove to us you can use it by testing your mettle in Ro'Maeve."
   5: 0x123A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x123B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
@@ -3585,7 +3585,7 @@ SUBROUTINE_1302:
  27: 0x1302 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  28: 0x1313 [0x6E] EventEntity uses emote 1*
  29: 0x131A [0x99] Wait for EventEntity animation to complete
- 30: 0x131F [0x1D] PRINT_EVENT_MESSAGE(message_id=12669*)
+ 30: 0x131F [0x1D] PRINT_EVENT_MESSAGE(message_id=12670*)
     → "Amazing! You've returned victorious!"
  31: 0x1322 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x1323 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x133D
@@ -3600,11 +3600,11 @@ SUBROUTINE_1366:
  39: 0x1366 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  40: 0x1377 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
  41: 0x1388 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
- 42: 0x138F [0x1D] PRINT_EVENT_MESSAGE(message_id=12670*)
+ 42: 0x138F [0x1D] PRINT_EVENT_MESSAGE(message_id=12671*)
     → "For your reward, I will teach you a super-secret club technique passed down through the Orastery for generations. This ultimate technique was developed as a lastaru resort for when all magic has been exhausted."
  43: 0x1392 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x1393 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
- 45: 0x139A [0x1D] PRINT_EVENT_MESSAGE(message_id=12671*)
+ 45: 0x139A [0x1D] PRINT_EVENT_MESSAGE(message_id=12672*)
     → "We are mostaru grateful for your assistance. Use it wisely."
  46: 0x139D [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x139E [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
@@ -3623,7 +3623,7 @@ SUBROUTINE_1366:
  60: 0x1406 [0x1C] WAIT(60* ticks)
  61: 0x1409 [0x79] Kuroido-Moido (ID: 17760274/0x010F0012) looks at Hakkuru-Rinkuru (ID: 17760273/0x010F0011) (Basic look)
  62: 0x1413 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x03)
- 63: 0x141A [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12672*]:
+ 63: 0x141A [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12673*]:
     → "Now that you've passed the final test, we can tick off that box on our listaru of things to do."
  64: 0x1421 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x1422 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x04)
@@ -3631,7 +3631,7 @@ SUBROUTINE_1366:
  67: 0x1432 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x05)
  68: 0x1439 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x06)
  69: 0x1440 [0x4A] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) looks at Kuroido-Moido (ID: 17760274/0x010F0012)
- 70: 0x1449 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12673*]:
+ 70: 0x1449 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12674*]:
     → "We've also collectarued some enlightening data from some highly skilled people."
  71: 0x1450 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x1451 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -3641,19 +3641,19 @@ SUBROUTINE_1366:
  76: 0x1477 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  77: 0x1478 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kuroido-Moido (ID: 17760274/0x010F0012) Render.Flags0 and Render.Flags3 conditions are met
  78: 0x147D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x01)
- 79: 0x1484 [0x1D] PRINT_EVENT_MESSAGE(message_id=12674*)
+ 79: 0x1484 [0x1D] PRINT_EVENT_MESSAGE(message_id=12675*)
     → "The opponents that the organizer will send against us will mostaru likely be toppity-notch combatants... Without the data collected from powerful adventurers who have completed our test, we wouldn'taru be in any position to compete."
  80: 0x1487 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x1488 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x02)
  82: 0x148F [0x6E] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) uses emote 7*
  83: 0x1496 [0x99] Wait for Hakkuru-Rinkuru (ID: 17760273/0x010F0011) animation to complete
- 84: 0x149B [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12675*]:
+ 84: 0x149B [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12676*]:
     → "Rightaru. Now all we need to do is have Apururu's help in feeding this data into the Cardians."
  85: 0x14A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x14A3 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=213*
  87: 0x14B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
  88: 0x14C3 [0x27] REQ_SET(priority=0x0B, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x71)
- 89: 0x14CA [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12676*]:
+ 89: 0x14CA [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12677*]:
     → "I bet Doctor Shantotto will be surprisey-wised to see Cardians representing the Orastery."
  90: 0x14D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x14D2 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011))
@@ -3662,18 +3662,18 @@ SUBROUTINE_1366:
  94: 0x14E2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Hakkuru-Rinkuru (ID: 17760273/0x010F0011) Render.Flags0 and Render.Flags3 conditions are met
  95: 0x14E7 [0x6E] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) uses emote 11*
  96: 0x14EE [0x99] Wait for Hakkuru-Rinkuru (ID: 17760273/0x010F0011) animation to complete
- 97: 0x14F3 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12677*]:
+ 97: 0x14F3 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12678*]:
     → "But nobody said we couldn'taru use Cardians, and they are proper members of the ministry!"
  98: 0x14FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x14FB [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=213*
 100: 0x150A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
 101: 0x151B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x01)
-102: 0x1522 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12678*]:
+102: 0x1522 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12679*]:
     → "They say that the firstaru step to deceiving your enemy is to start with your friends... Since nobody else knows about this plan, they're all still diligently practicing their club skills. It's perfectaru!"
 103: 0x1529 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x152A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x02)
 105: 0x1531 [0x27] REQ_SET(priority=0x0B, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x53)
-106: 0x1538 [0x1D] PRINT_EVENT_MESSAGE(message_id=12679*)
+106: 0x1538 [0x1D] PRINT_EVENT_MESSAGE(message_id=12680*)
     → "Hmmm. But when you think about it, everyone's being forced to brush up their club technique anyway..."
 107: 0x153B [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x153C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012))
@@ -3681,12 +3681,12 @@ SUBROUTINE_1366:
 110: 0x1551 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
 111: 0x1562 [0x7B] Kuroido-Moido (ID: 17760274/0x010F0012) stops talking
 112: 0x1567 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x03)
-113: 0x156E [0x1D] PRINT_EVENT_MESSAGE(message_id=12680*)
+113: 0x156E [0x1D] PRINT_EVENT_MESSAGE(message_id=12681*)
     → "You know, putting the sinister-winister will aside, the existence of Doctor Shantotto actually contributes to the improvementaru of the Orastery."
 114: 0x1571 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x1572 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x04)
 116: 0x1579 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x05)
-117: 0x1580 [0x1D] PRINT_EVENT_MESSAGE(message_id=12681*)
+117: 0x1580 [0x1D] PRINT_EVENT_MESSAGE(message_id=12682*)
     → "Being a ministry with an often absentaru minister, we need to be kept on our toesy-woes."
 118: 0x1583 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x1584 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kuroido-Moido (ID: 17760274/0x010F0012), tag_num=0x06)
@@ -3694,13 +3694,13 @@ SUBROUTINE_1366:
 121: 0x159A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=[213*, 0*]
 122: 0x15AB [0x79] Kuroido-Moido (ID: 17760274/0x010F0012) looks at Hakkuru-Rinkuru (ID: 17760273/0x010F0011) (Basic look)
 123: 0x15B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x03)
-124: 0x15BC [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12682*]:
+124: 0x15BC [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12683*]:
     → "Hmmm..."
 125: 0x15C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x15C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x04)
 127: 0x15CB [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=213*
 128: 0x15DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x05)
-129: 0x15E1 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12683*]:
+129: 0x15E1 [0x2B] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) [12684*]:
     → "With Doctor Shantotto around, I'm just glad I have toesy-woes left to be kept on!"
 130: 0x15E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x15E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x06)

@@ -1,5 +1,5 @@
 # Strings for Mamool Ja Training Grounds
-# Total: 7670 strings
+# Total: 7671 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7166,89 +7166,89 @@
  7162: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7163: You receive $0 bayld!
  7164: Your chocobo refuses to partake of the $0.
- 7165: Tallying conquest results...
- 7166: Conquest results tallied.
- 7167: This region is currently under San d'Orian control.
- 7168: This region is currently under Bastokan control.
- 7169: This region is currently under Windurstian control.
- 7170: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7171: This region is currently neutral.
- 7172: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7173: All three nations are tied for first place.
- 7174: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7175: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7176: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7177: All three nations are tied for first place.
- 7178: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7179: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7180: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7181: All three nations are tied for first place.
- 7182: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7183: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7184: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7185: All three nations are tied for first place.
- 7186: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7187: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7188: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7189: Global balance of power: All three nations are tied for first place.
- 7190: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7191: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7192: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7193: All three nations are tied for first place.
- 7194: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7195: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7196: Conquest update: This region is currently neutral.
- 7197: Conquest update: This region is currently under San d'Orian control.
- 7198: Conquest update: This region is currently under Bastokan control.
- 7199: Conquest update: This region is currently under Windurstian control.
- 7200: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7201: All three nations are at a deadlock.
- 7202: The beastmen are on the rise.
- 7203: Regional influence: San d'Oria - Dominant
- 7204: Regional influence: San d'Oria - Major
- 7205: Regional influence: San d'Oria - Minor
- 7206: Regional influence: San d'Oria - Minimal
- 7207: Bastok - Dominant
- 7208: Bastok - Major
- 7209: Bastok - Minor
- 7210: Bastok - Minimal
- 7211: Windurst - Dominant
- 7212: Windurst - Major
- 7213: Windurst - Minor
- 7214: Windurst - Minimal
- 7215: Bastok and Windurst have formed an alliance.
- 7216: San d'Oria and Windurst have formed an alliance.
- 7217: San d'Oria and Bastok have formed an alliance.
- 7218: Bastok and Windurst are currently allies.
- 7219: San d'Oria and Windurst are currently allies.
- 7220: San d'Oria and Bastok are currently allies.
- 7221: $10$P11.$17F$0 $P14;$P12hF$1
- 7222: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7223: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7224: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7225: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7226: The beastmen are gaining power.
- 7227: San d'Oria's regional control is now 10% closer to the first place country's!
- 7228: Bastok's regional control is now 10% closer to the first place country's!
- 7229: Windurst's regional control are now 10% closer to the first place country's!
- 7230: San d'Oria's region points have increased!
- 7231: Bastok's region points have increased!
- 7232: Windurst's region points have increased!
- 7233: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7234: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7235: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7236: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7237: A Bastokan Expeditionary Force has been dispatched to this area.
- 7238: A Windurstian Expeditionary Force has been dispatched to this area.
- 7239: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7240: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7241: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7242: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7243: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7244: There was a curse on the beastmen's banner!
- 7245: The curse of the beastmen's banner has been lifted!
- 7246: There is a beastmen's banner.
- 7247: @
+ 7165: Your wing skill improved to $0!
+ 7166: Tallying conquest results...
+ 7167: Conquest results tallied.
+ 7168: This region is currently under San d'Orian control.
+ 7169: This region is currently under Bastokan control.
+ 7170: This region is currently under Windurstian control.
+ 7171: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7172: This region is currently neutral.
+ 7173: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7174: All three nations are tied for first place.
+ 7175: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7176: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7177: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7178: All three nations are tied for first place.
+ 7179: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7180: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7181: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7182: All three nations are tied for first place.
+ 7183: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7184: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7185: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7186: All three nations are tied for first place.
+ 7187: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7188: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7189: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7190: Global balance of power: All three nations are tied for first place.
+ 7191: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7192: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7193: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7194: All three nations are tied for first place.
+ 7195: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7196: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7197: Conquest update: This region is currently neutral.
+ 7198: Conquest update: This region is currently under San d'Orian control.
+ 7199: Conquest update: This region is currently under Bastokan control.
+ 7200: Conquest update: This region is currently under Windurstian control.
+ 7201: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7202: All three nations are at a deadlock.
+ 7203: The beastmen are on the rise.
+ 7204: Regional influence: San d'Oria - Dominant
+ 7205: Regional influence: San d'Oria - Major
+ 7206: Regional influence: San d'Oria - Minor
+ 7207: Regional influence: San d'Oria - Minimal
+ 7208: Bastok - Dominant
+ 7209: Bastok - Major
+ 7210: Bastok - Minor
+ 7211: Bastok - Minimal
+ 7212: Windurst - Dominant
+ 7213: Windurst - Major
+ 7214: Windurst - Minor
+ 7215: Windurst - Minimal
+ 7216: Bastok and Windurst have formed an alliance.
+ 7217: San d'Oria and Windurst have formed an alliance.
+ 7218: San d'Oria and Bastok have formed an alliance.
+ 7219: Bastok and Windurst are currently allies.
+ 7220: San d'Oria and Windurst are currently allies.
+ 7221: San d'Oria and Bastok are currently allies.
+ 7222: $10$P11.$17F$0 $P14;$P12hF$1
+ 7223: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7224: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7225: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7226: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7227: The beastmen are gaining power.
+ 7228: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7229: Bastok's regional control is now 10% closer to the first place country's!
+ 7230: Windurst's regional control are now 10% closer to the first place country's!
+ 7231: San d'Oria's region points have increased!
+ 7232: Bastok's region points have increased!
+ 7233: Windurst's region points have increased!
+ 7234: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7235: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7236: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7237: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7238: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7239: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7240: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7241: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7242: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7243: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7244: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7245: There was a curse on the beastmen's banner!
+ 7246: The curse of the beastmen's banner has been lifted!
+ 7247: There is a beastmen's banner.
  7248: @
  7249: @
  7250: @
@@ -7323,200 +7323,200 @@
  7319: @
  7320: @
  7321: @
- 7322: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7323: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7324: Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? [Yes./No.]
- 7325: %0 obtains the temporary item: $0!
- 7326: Obtained temporary item: $0!
- 7327: %0 obtains $0!
- 7328: Main Weapon/Sub-Weapon restriction removed.
- 7329: Head/Neck equipment restriction removed.
- 7330: Body equipment restriction removed.
- 7331: Hands equipment restriction removed.
- 7332: Legs/Feet equipment restriction removed.
- 7333: Back/Waist equipment restriction removed.
- 7334: Ranged Weapon/Ammo restriction removed.
- 7335: Earrings/Rings restriction removed.
- 7336: Support Job restriction removed.
- 7337: Job Abilities restriction removed.
- 7338: Spellcasting restriction removed.
- 7339: STR Down removed.
- 7340: DEX Down removed.
- 7341: VIT Down removed.
- 7342: AGI Down removed.
- 7343: INT Down removed.
- 7344: MND Down removed.
- 7345: CHR Down removed.
- 7346: Max HP Down removed.
- 7347: Max MP Down removed.
- 7348: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
- 7349: Obtained temporary item: $0!
- 7350: You already have that temporary item.
- 7351: You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
- 7352: Travel to the next floor? [Not yet./Exit the Assault area./Travel to the next floor./Travel to the floor on the right./Travel to the floor on the left./Travel to Floor $1./Travel to Floor ???.]
- 7353: Floor $0 objective complete. Rune of Transfer activated.
- 7354: Activate the lamp? [Yes./Yes./No.]
- 7355: The certification code for all party members is required to activate this lamp. Your certification code has been registered.
- 7356: Your certification code has been registered.
- 7357: This lamp has already been activated.
- 7358: This lamp cannot be activated unless all other lamps are activated at the same time.
- 7359: All lamps on this floor are activated, but some other action appears to be necessary in order to activate the Rune of Transfer.
- 7360: It appears you cannot activate this lamp for some time...
- 7361: Apparently, this lamp must be activated in a specific order...
- 7362: Not all lights have been activated...
- 7363: Confirming operation procedure...
- 7364: The Rune of Transfer has already been activated.
- 7365: Objective: Eliminate enemy leader.
+ 7322: @
+ 7323: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7324: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7325: Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? [Yes./No.]
+ 7326: %0 obtains the temporary item: $0!
+ 7327: Obtained temporary item: $0!
+ 7328: %0 obtains $0!
+ 7329: Main Weapon/Sub-Weapon restriction removed.
+ 7330: Head/Neck equipment restriction removed.
+ 7331: Body equipment restriction removed.
+ 7332: Hands equipment restriction removed.
+ 7333: Legs/Feet equipment restriction removed.
+ 7334: Back/Waist equipment restriction removed.
+ 7335: Ranged Weapon/Ammo restriction removed.
+ 7336: Earrings/Rings restriction removed.
+ 7337: Support Job restriction removed.
+ 7338: Job Abilities restriction removed.
+ 7339: Spellcasting restriction removed.
+ 7340: STR Down removed.
+ 7341: DEX Down removed.
+ 7342: VIT Down removed.
+ 7343: AGI Down removed.
+ 7344: INT Down removed.
+ 7345: MND Down removed.
+ 7346: CHR Down removed.
+ 7347: Max HP Down removed.
+ 7348: Max MP Down removed.
+ 7349: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
+ 7350: Obtained temporary item: $0!
+ 7351: You already have that temporary item.
+ 7352: You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
+ 7353: Travel to the next floor? [Not yet./Exit the Assault area./Travel to the next floor./Travel to the floor on the right./Travel to the floor on the left./Travel to Floor $1./Travel to Floor ???.]
+ 7354: Floor $0 objective complete. Rune of Transfer activated.
+ 7355: Activate the lamp? [Yes./Yes./No.]
+ 7356: The certification code for all party members is required to activate this lamp. Your certification code has been registered.
+ 7357: Your certification code has been registered.
+ 7358: This lamp has already been activated.
+ 7359: This lamp cannot be activated unless all other lamps are activated at the same time.
+ 7360: All lamps on this floor are activated, but some other action appears to be necessary in order to activate the Rune of Transfer.
+ 7361: It appears you cannot activate this lamp for some time...
+ 7362: Apparently, this lamp must be activated in a specific order...
+ 7363: Not all lights have been activated...
+ 7364: Confirming operation procedure...
+ 7365: The Rune of Transfer has already been activated.
  7366: Objective: Eliminate enemy leader.
- 7367: Objective: Eliminate specified enemies.
- 7368: Objective: Activate all lamps.
- 7369: Objective: Eliminate specified enemy.
- 7370: Objective: Eliminate all enemies.
- 7371: Avoid discovery by archaic gears!
- 7372: Do not destroy archaic gears!
- 7373: Time limit has been reduced by $0 [minute/minutes].
- 7374: Security field malfunction.
- 7375: Potential token reward reduced.
- 7376: Job ability restriction has been removed.
- 7377: Job abilities are restricted.
- 7378: Weapon skill restriction has been removed.
- 7379: Weapon skills are restricted.
- 7380: White magic restriction has been removed.
- 7381: White magic is restricted.
- 7382: Black magic restriction has been removed.
- 7383: Black magic is restricted.
- 7384: Song restriction has been removed.
- 7385: Songs are restricted.
- 7386: Ninjutsu restriction has been removed.
- 7387: Ninjutsu is restricted.
- 7388: Summon magic restriction has been removed.
- 7389: Summon magic is restricted.
- 7390: Blue magic restriction has been removed.
- 7391: Blue magic is restricted.
- 7392: Attack Speed Down removed.
- 7393: Afflicted by Attack Speed Down.
- 7394: Casting Speed Down removed.
- 7395: Afflicted by Casting Speed Down.
- 7396: STR Down removed.
- 7397: Afflicted by STR Down.
- 7398: DEX Down removed.
- 7399: Afflicted by DEX Down.
- 7400: VIT Down removed.
- 7401: Afflicted by VIT Down.
- 7402: AGI Down removed.
- 7403: Afflicted by AGI Down.
- 7404: INT Down removed.
- 7405: Afflicted by INT Down.
- 7406: MND Down removed.
- 7407: Afflicted by MND Down.
- 7408: CHR Down removed.
- 7409: Afflicted by CHR Down.
- 7410: Regain removed.
- 7411: Received Regain effect.
- 7412: Regen removed.
- 7413: Received Regen effect.
- 7414: Refresh removed.
- 7415: Received Refresh effect.
- 7416: Flurry removed.
- 7417: Received Flurry effect.
- 7418: Concentration removed.
- 7419: Received Concentration effect.
- 7420: STR Boost removed.
- 7421: Received STR Boost.
- 7422: DEX Boost removed.
- 7423: Received DEX Boost.
- 7424: VIT Boost removed.
- 7425: Received VIT Boost.
- 7426: AGI Boost removed.
- 7427: Received AGI Boost.
- 7428: INT Boost removed.
- 7429: Received INT Boost.
- 7430: MND Boost removed.
- 7431: Received MND Boost.
- 7432: CHR Boost removed.
- 7433: Received CHR Boost.
- 7434: The data on the $3 will be reset when you complete the objective of the next floor.
- 7435: Do you really want to exit? [Yes./No.]
- 7436: You now possess $1 part[/s] of $6.
- 7437: You have acquired all necessary parts and completed $6.
- 7438: You already possess $6. Unable to obtain additional parts.
- 7439: You could not obtain $6 because you already have one in your possession.
- 7440: Your time limit for this battle has been extended by $0 minute[/s] (Earth time).
- 7441: You already possess $0 and cannot obtain another.
- 7442: You are carrying a full load of temporary items and cannot obtain any more.
- 7443: Main Weapon/Sub-Weapon restriction removed for %0.
- 7444: Head/Neck equipment restriction removed for %0.
- 7445: Body equipment restriction removed for %0.
- 7446: Hand equipment restriction removed for %0.
- 7447: Leg/Foot equipment restriction removed for %0.
- 7448: Back/Waist equipment restriction removed for %0.
- 7449: Ranged Weapon/Ammo restriction removed for %0.
- 7450: Earrings/Rings restriction removed for %0.
- 7451: Support Job restriction removed for %0.
- 7452: Job Abilities restriction removed for %0.
- 7453: Spellcasting restriction removed for %0.
- 7454: STR Down removed for %0.
- 7455: DEX Down removed for %0.
- 7456: VIT Down removed for %0.
- 7457: AGI Down removed for %0.
- 7458: INT Down removed for %0.
- 7459: MND Down removed for %0.
- 7460: CHR Down removed for %0.
- 7461: Max HP Down removed for %0.
- 7462: Max MP Down removed for %0.
- 7463: Commencing $0! Objective: Remove all threats
- 7464: Commencing $0! Objective: Discover orichalcum ore
- 7465: Commencing $0! Objective: Protect the professor
- 7466: Commencing $0! Objective: Protect the vegetation
- 7467: Commencing $0! Objective: Buy black sheep
- 7468: Commencing $0! Objective: Retrieve the supplies
- 7469: Commencing $0! Objective: Become a test subject
- 7470: Commencing $0! Objective: Retrieve the OGMA
- 7471: Commencing $0! Objective: Defeat Raubahn
- 7472: Commencing $0! Objective: Defeat the count
- 7473: Commencing $0! Objective: Rescue the agent
- 7474: Commencing $0! Objective: Destroy the assassins
- 7475: Commencing $0! Objective: Defeat Sagelord Molaal Ja
- 7476: Commencing $0! Objective: Steal the supplies
- 7477: Commencing $0! Objective: Apprehend the spy
- 7478: Commencing $0! Objective: Recover the treasure
- 7479: Commencing $0! Objective: Annihilate the enemy
- 7480: Commencing $0! Objective: Neutralize the marids
- 7481: Commencing $0! Objective: Gather pathological data
- 7482: Commencing $0! Objective: Defeat Orochi
- 7483: Commencing $0! Objective: Remove the obstructions
- 7484: Commencing $0! Objective: Deliver the provisions
- 7485: Commencing $0! Objective: Destroy the Troll fugitives
- 7486: Commencing $0! Objective: Discover alternate route
- 7487: Commencing $0! Objective: Assassinate Borgerlur
- 7488: Commencing $0! Objective: Match the apkallu
- 7489: Commencing $0! Objective: Remove the threat
- 7490: Commencing $0! Objective: Drive out the hunters
- 7491: Commencing $0! Objective: Rescue Princess Kadjaya
- 7492: Commencing $0! Objective: Defeat Black Shuck
- 7493: Commencing $0! Objective: Escort the prisoner
- 7494: Commencing $0! Objective: Destroy the undead
- 7495: Commencing $0! Objective: Find the survivors
- 7496: Commencing $0! Objective: Eliminate the Black Baron
- 7497: Commencing $0! Objective: Activate the bridge
- 7498: Commencing $0! Objective: Exterminate the chigoes
- 7499: Commencing $0! Objective: Clear the mine fields
- 7500: Commencing $0! Objective: Locate the generals
- 7501: Commencing $0! Objective: Retrieve the Mark-IIs
- 7502: Commencing $0! Objective: Assassinate King Goldemar
- 7503: Commencing $0! Objective: Find the figurehead
- 7504: Commencing $0! Objective: Eliminate Lamia No.13
- 7505: Commencing $0! Objective: Exterminate all monsters
- 7506: Commencing $0! Objective: Demolish the shipwrecks
- 7507: Commencing $0! Objective: Save the Qiqirn divers
- 7508: Commencing $0! Objective: Capture the apkallu
- 7509: Commencing $0! Objective: Find the ring
- 7510: Commencing $0! Objective: Locate the agents
- 7511: Commencing $0! Objective: Collect ahtapot
- 7512: Commencing $0! Objective: Defeat Khimaira 14X
- 7513: Commencing $0! Objective: Complete on-site objectives
+ 7367: Objective: Eliminate enemy leader.
+ 7368: Objective: Eliminate specified enemies.
+ 7369: Objective: Activate all lamps.
+ 7370: Objective: Eliminate specified enemy.
+ 7371: Objective: Eliminate all enemies.
+ 7372: Avoid discovery by archaic gears!
+ 7373: Do not destroy archaic gears!
+ 7374: Time limit has been reduced by $0 [minute/minutes].
+ 7375: Security field malfunction.
+ 7376: Potential token reward reduced.
+ 7377: Job ability restriction has been removed.
+ 7378: Job abilities are restricted.
+ 7379: Weapon skill restriction has been removed.
+ 7380: Weapon skills are restricted.
+ 7381: White magic restriction has been removed.
+ 7382: White magic is restricted.
+ 7383: Black magic restriction has been removed.
+ 7384: Black magic is restricted.
+ 7385: Song restriction has been removed.
+ 7386: Songs are restricted.
+ 7387: Ninjutsu restriction has been removed.
+ 7388: Ninjutsu is restricted.
+ 7389: Summon magic restriction has been removed.
+ 7390: Summon magic is restricted.
+ 7391: Blue magic restriction has been removed.
+ 7392: Blue magic is restricted.
+ 7393: Attack Speed Down removed.
+ 7394: Afflicted by Attack Speed Down.
+ 7395: Casting Speed Down removed.
+ 7396: Afflicted by Casting Speed Down.
+ 7397: STR Down removed.
+ 7398: Afflicted by STR Down.
+ 7399: DEX Down removed.
+ 7400: Afflicted by DEX Down.
+ 7401: VIT Down removed.
+ 7402: Afflicted by VIT Down.
+ 7403: AGI Down removed.
+ 7404: Afflicted by AGI Down.
+ 7405: INT Down removed.
+ 7406: Afflicted by INT Down.
+ 7407: MND Down removed.
+ 7408: Afflicted by MND Down.
+ 7409: CHR Down removed.
+ 7410: Afflicted by CHR Down.
+ 7411: Regain removed.
+ 7412: Received Regain effect.
+ 7413: Regen removed.
+ 7414: Received Regen effect.
+ 7415: Refresh removed.
+ 7416: Received Refresh effect.
+ 7417: Flurry removed.
+ 7418: Received Flurry effect.
+ 7419: Concentration removed.
+ 7420: Received Concentration effect.
+ 7421: STR Boost removed.
+ 7422: Received STR Boost.
+ 7423: DEX Boost removed.
+ 7424: Received DEX Boost.
+ 7425: VIT Boost removed.
+ 7426: Received VIT Boost.
+ 7427: AGI Boost removed.
+ 7428: Received AGI Boost.
+ 7429: INT Boost removed.
+ 7430: Received INT Boost.
+ 7431: MND Boost removed.
+ 7432: Received MND Boost.
+ 7433: CHR Boost removed.
+ 7434: Received CHR Boost.
+ 7435: The data on the $3 will be reset when you complete the objective of the next floor.
+ 7436: Do you really want to exit? [Yes./No.]
+ 7437: You now possess $1 part[/s] of $6.
+ 7438: You have acquired all necessary parts and completed $6.
+ 7439: You already possess $6. Unable to obtain additional parts.
+ 7440: You could not obtain $6 because you already have one in your possession.
+ 7441: Your time limit for this battle has been extended by $0 minute[/s] (Earth time).
+ 7442: You already possess $0 and cannot obtain another.
+ 7443: You are carrying a full load of temporary items and cannot obtain any more.
+ 7444: Main Weapon/Sub-Weapon restriction removed for %0.
+ 7445: Head/Neck equipment restriction removed for %0.
+ 7446: Body equipment restriction removed for %0.
+ 7447: Hand equipment restriction removed for %0.
+ 7448: Leg/Foot equipment restriction removed for %0.
+ 7449: Back/Waist equipment restriction removed for %0.
+ 7450: Ranged Weapon/Ammo restriction removed for %0.
+ 7451: Earrings/Rings restriction removed for %0.
+ 7452: Support Job restriction removed for %0.
+ 7453: Job Abilities restriction removed for %0.
+ 7454: Spellcasting restriction removed for %0.
+ 7455: STR Down removed for %0.
+ 7456: DEX Down removed for %0.
+ 7457: VIT Down removed for %0.
+ 7458: AGI Down removed for %0.
+ 7459: INT Down removed for %0.
+ 7460: MND Down removed for %0.
+ 7461: CHR Down removed for %0.
+ 7462: Max HP Down removed for %0.
+ 7463: Max MP Down removed for %0.
+ 7464: Commencing $0! Objective: Remove all threats
+ 7465: Commencing $0! Objective: Discover orichalcum ore
+ 7466: Commencing $0! Objective: Protect the professor
+ 7467: Commencing $0! Objective: Protect the vegetation
+ 7468: Commencing $0! Objective: Buy black sheep
+ 7469: Commencing $0! Objective: Retrieve the supplies
+ 7470: Commencing $0! Objective: Become a test subject
+ 7471: Commencing $0! Objective: Retrieve the OGMA
+ 7472: Commencing $0! Objective: Defeat Raubahn
+ 7473: Commencing $0! Objective: Defeat the count
+ 7474: Commencing $0! Objective: Rescue the agent
+ 7475: Commencing $0! Objective: Destroy the assassins
+ 7476: Commencing $0! Objective: Defeat Sagelord Molaal Ja
+ 7477: Commencing $0! Objective: Steal the supplies
+ 7478: Commencing $0! Objective: Apprehend the spy
+ 7479: Commencing $0! Objective: Recover the treasure
+ 7480: Commencing $0! Objective: Annihilate the enemy
+ 7481: Commencing $0! Objective: Neutralize the marids
+ 7482: Commencing $0! Objective: Gather pathological data
+ 7483: Commencing $0! Objective: Defeat Orochi
+ 7484: Commencing $0! Objective: Remove the obstructions
+ 7485: Commencing $0! Objective: Deliver the provisions
+ 7486: Commencing $0! Objective: Destroy the Troll fugitives
+ 7487: Commencing $0! Objective: Discover alternate route
+ 7488: Commencing $0! Objective: Assassinate Borgerlur
+ 7489: Commencing $0! Objective: Match the apkallu
+ 7490: Commencing $0! Objective: Remove the threat
+ 7491: Commencing $0! Objective: Drive out the hunters
+ 7492: Commencing $0! Objective: Rescue Princess Kadjaya
+ 7493: Commencing $0! Objective: Defeat Black Shuck
+ 7494: Commencing $0! Objective: Escort the prisoner
+ 7495: Commencing $0! Objective: Destroy the undead
+ 7496: Commencing $0! Objective: Find the survivors
+ 7497: Commencing $0! Objective: Eliminate the Black Baron
+ 7498: Commencing $0! Objective: Activate the bridge
+ 7499: Commencing $0! Objective: Exterminate the chigoes
+ 7500: Commencing $0! Objective: Clear the mine fields
+ 7501: Commencing $0! Objective: Locate the generals
+ 7502: Commencing $0! Objective: Retrieve the Mark-IIs
+ 7503: Commencing $0! Objective: Assassinate King Goldemar
+ 7504: Commencing $0! Objective: Find the figurehead
+ 7505: Commencing $0! Objective: Eliminate Lamia No.13
+ 7506: Commencing $0! Objective: Exterminate all monsters
+ 7507: Commencing $0! Objective: Demolish the shipwrecks
+ 7508: Commencing $0! Objective: Save the Qiqirn divers
+ 7509: Commencing $0! Objective: Capture the apkallu
+ 7510: Commencing $0! Objective: Find the ring
+ 7511: Commencing $0! Objective: Locate the agents
+ 7512: Commencing $0! Objective: Collect ahtapot
+ 7513: Commencing $0! Objective: Defeat Khimaira 14X
  7514: Commencing $0! Objective: Complete on-site objectives
- 7515: Commencing $0! Objective: Follow your orders
+ 7515: Commencing $0! Objective: Complete on-site objectives
  7516: Commencing $0! Objective: Follow your orders
  7517: Commencing $0! Objective: Follow your orders
  7518: Commencing $0! Objective: Follow your orders
@@ -7524,150 +7524,151 @@
  7520: Commencing $0! Objective: Follow your orders
  7521: Commencing $0! Objective: Follow your orders
  7522: Commencing $0! Objective: Follow your orders
- 7523: You have $0 [minute/minutes] (Earth time) to complete this mission.
- 7524: The mission has failed. Leaving area.
- 7525: Mission objective completed. Unlocking Rune of Release ([A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z]-$1).
- 7526: Mission objective completed. Unlocking Rune of Release.
- 7527: You gain $0 [Assault point/Assault points]!
- 7528: Time remaining: $0 [minute/minutes] (Earth time).
- 7529: Time remaining: $0 [second/seconds] (Earth time).
- 7530: The $3 fades into nothingness...
- 7531: All party members have fallen in battle. Mission failure in $0 [minute/minutes].
- 7532: Commencing Heroines' Holdfast!
- 7533: There is no response...
- 7534: Which restriction will you remove? [None./@/Main/Sub-Weapon. ($3 left)/Head/Neck equipment. ($4 left)/Body equipment. ($5 left)/Hand equipment. ($6 left)/Leg/Foot equipment. ($7 left)/Back/Waist equipment. ($8 left)/Ranged Weapon/Ammo. ($9 left)/Earrings/Rings. ($10 left)/Support Job. ($11 left)/Job Abilities. ($12 left)/Spellcasting. ($13 left)/Strength. ($14 left)/Dexterity. ($15 left)/Vitality. ($16 left)/Agility. ($17 left)/Intelligence. ($18 left)/Mind. ($19 left)/Charisma. ($20 left)/Max HP. ($21 left)/Max MP. ($22 left)]
- 7535: Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]
- 7536: This restriction has already been removed.
- 7537: The restriction could not be removed.
- 7538: Which restriction will you remove? ($1 left) [None./@/Main/Sub-Weapon./Head/Neck equipment./Body equipment./Hand equipment./Leg/Foot equipment./Back/Waist equipment./Ranged Weapon/Ammo./Earrings/Rings./Support Job./Job Abilities./Spellcasting./Strength./Dexterity./Vitality./Agility./Intelligence./Mind./Charisma./Max HP./Max MP.]
- 7539: Coordinate error. Zoning.
- 7540: Am I glad to see you!
- 7541: Sorry to put you to all this trouble. A professional like me should never have been caught in the first place...
- 7542: Well, I can't be hanging around here.
- 7543: I'll be late for my next assignment. I hate to be rescued and run, but I must be off.
- 7544: Oh, I'm sure I don't have to mention this, but...
- 7545: You didn't see anything. You didn't hear anything. Got it?
- 7546: <Cough, cough>... Pay for...insulting the Sagelord...you shall...
- 7547: Your face...<gasp>...into our memory...we have burned...<cough>...
- 7548: Pay dearly...you shall...
- 7549: Number defeated: $0
- 7550: There is a curious liquid here.
- 7551: Take a sip? [I'll try anything once!/I have a weak stomach...]
- 7552: Nothing happens.
- 7553: <Player> is overcome by a peculiar sensation.
- 7554: Do you want to give up?
- 7555: End the mission? [Give up./Not yet.]
- 7556: The time for this mission is limited. Get as many supplies as you can from those lizard bastards before time runs out. Let's give 'em hell, soldier!
- 7557: Great, you found some supplies! I'll hold on to them for you. Keep it up, soldier!
- 7558: You managed to seize $0 [supply package/supply packages]. Great work, soldier. I'll report these results to the Imperial Army.
- 7559: Our work here is done. Time to leave this hellhole, soldier.
- 7560: You seem to have been brought here by some strange magic...
- 7561: The supplies you seized are missing!
- 7562: Scaleless heathen... A taste of my wrath, you shall have!
- 7563: Yooo loook for double agent spy Qiqirn? Just $0 [yalm/yalms] over there, okay?t
- 7564: Yooo loook for double agent spy Qiqirn? To east, okay?
- 7565: Yooo loook for double agent spy Qiqirn? To south and east, okay?
- 7566: Yooo loook for double agent spy Qiqirn? To south, okay?
- 7567: Yooo loook for double agent spy Qiqirn? To south and west, okay?
- 7568: Yooo loook for double agent spy Qiqirn? To west, okay?
- 7569: Yooo loook for double agent spy Qiqirn? To north and west, okay?
- 7570: Yooo loook for double agent spy Qiqirn? To north, okay?
- 7571: Yooo loook for double agent spy Qiqirn? To north and east, okay?
- 7572: Yooo loook for double agent spy Qiqirn? Think maybe somewhere in east?
- 7573: Yooo loook for double agent spy Qiqirn? Think maybe somewhere in south?
- 7574: Yooo loook for double agent spy Qiqirn? Think maybe somewhere in west?
- 7575: Yooo loook for double agent spy Qiqirn? Think maybe somewhere in north?
- 7576: Yooo loook for double agent spy Qiqirn? Shooold really really be close, okay?
- 7577: Yooo loook for double agent spy Qiqirn? Shooold be close, okay?
- 7578: Yooo loook for double agent spy Qiqirn? Shooold be far from here, okay?
- 7579: Yooo loook for double agent spy Qiqirn? Shooold really really be far, okay?
- 7580: Yooo loook for double agent spy Qiqirn? Hm hm hm... I know nooothing, yooo know?
- 7581: Yooo loook for double agent spy Qiqirn? Hm hm hm... Just come here for fun, yooo know?
- 7582: Yooo loook for double agent spy Qiqirn? Hm hm hm... Know where, yes yes! ...Or nooo? No remember? Hm hm, which was it?
- 7583: Yooo loook for double agent spy Qiqirn? Hm hm hm... There nooo Qiqirn like that, yooo know?
- 7584: Hooo hooo... Nooo listent Laaa laaat
- 7585: Yooo very, very very roood! Hm hm hm...what is doooble agent?
- 7586: Yooo know Qiqirn network? Qiqirn secret, seeecret network. Maybe even have double agent?
- 7587: Have nooo secret infooo, so very sad. Maybe cry, okay?
- 7588: ...How yooo know that?
- 7589: Have nooo secret infooo. Hm hm hm... sooo shock, no?
- 7590: Hoo hoo... Yooo catched double agent, nooo?
- 7591: Yooo no staaare. Yooo leave alone!
- 7592: What yooo want?
- 7593: Want yooo want? [To capture yooo./To question yooo./Nooothing at all.]
- 7594: Debug: Number $0.
- 7595: You want to end the mission? Searched everywhere, have you?
- 7596: End the mission? [Yes, please./Not finished yet.]
- 7597: Listen up! The enemy has stolen multiple gems from the Empress's royal treasury! The treasure has been sighted in this area!
- 7598: You will get them back from those two-legged lizards if it means your life! Do you hear me, soldiers?
- 7599: Remember, the enemy will go to desperate measures to keep the treasure. Stay on your toes and don't let them take any gems back! Get to it now, soldiers!
- 7600: Great work, soldier! I will see to it that this treasure is delivered back to the royal treasury. Now find the rest!
- 7601: You have collected $0 [gem/gems]... Great work, soldier! The Empress will hear of this.
- 7602: What'd ya want, soldier? Your mission is over! Evacuate the area immediately.
- 7603: You have been transported here by some mysterious force...
- 7604: You have lost the gems you were carrying.
- 7605: Ahahaha! Mine, the treasure is!!!
- 7606: Scaleless heathen! Our treasure, you steal!
- 7607: Poor try, that was. Here, no treasure!
- 7608: %0! Vile smoothskin! Treasure, you will return!
- 7609: %0! Where you be!? Want tear you to pieces!
- 7610: Oh, found something! To safe place, must move this!
- 7611: Obtained temporary item: $0!
- 7612: Target out of range.
- 7613: Some strange force is preventing you from taking the treasure out of the box.
- 7614: Some strange force prevented you from taking treasure from the enemy.
- 7615: One of your allies obtained $0 from a treasure box!
- 7616: One of your allies took $0 from the enemy!
- 7617: One of your allies successfully recovered $0!
- 7618: The enemy obtained $0 from a treasure box.
- 7619: The enemy steals $0 from one of your allies.
- 7620: The enemy carries $0 away...
- 7621: You have recovered all the treasure.
- 7622: I'm Lumaayu of the Black Leopards. If you hadn't saved me, I'd be in the jaws of some vicious Mamool Ja monster right about now!
- 7623: Why, this must be the workings of destiny! You wouldn't mind bringing little ol' me to a safe place while you're on your way, would you?
- 7624: Wait uuup! You wouldn't leave a poor girl all alone to fend for herself, now would you?
- 7625: Don't leave me! Whatever am I gonna do without you...?
- 7626: Oh, there you are!!! You had me so worried! How could you go and leave me all by my lonesome like that?
- 7627: I should be fine here. The rest of my unit should be here soon. Thank ya kindly.
- 7628: Heeey!
- 7629: Is anyone out there...!?
- 7630: This place stinks really bad...
- 7631: Well, are you gonna help me!?
- 7632: Can't...go on...
- 7633: Thank ya kindly.t
- 7634: Thank ya very kindly!
- 7635: Ugh, and I just had my nails done!
- 7636: Ouch, that hurt! Hey, aren't you supposed to protect me!?
- 7637: Ouch! That's it! You're really starting to irritate me!
- 7638: Ugh... How dare you attack a poor, defenseless lady... You'll pay for this...
- 7639: The...pain... I don't think I can last much longer...
- 7640: The gate is locked. Maybe you could open it if you had temporary item: $0.
- 7641: The first wave of enemy forces is advancing...
- 7642: The second wave of enemy forces starts pouring in!
- 7643: You have decimated the first wave of enemy forces!
- 7644: You have decimated the second wave of enemy forces!
- 7645: You have defeated $0 [opponent/opponents]!
- 7646: Ah... You're one of the mercenaries, come to capture the marids. Here, take this special tranquilizer dart.
- 7647: It should help you subdue your prey; however, I implore that you use it wisely. The drug has little effect while the beasts are angry.
- 7648: You say you require another dart? These things are extremely difficult to procure, so please be careful!
- 7649: Excellent work! Those hideous lizards will now have no choice but to abandon their diabolical plans.
- 7650: ......
- 7651: The tranquilizer has begun to take effect. You have successfully captured $1$P10!
- 7652: The tranquilizer dart has fallen out! $1$P10 has begun to charge!
- 7653: The tranquilizer has no effect. $1$P10 seems unchanged.
- 7654: Ah, we've been waiting for you, Subject...K-7.
- 7655: To gather proper data on how to combat the sickness, we will need you to expose yourself to at least three of the status ailments associated with the kraken flu.
- 7656: There are seven all together: Amnesia, Bio, Disease, Slow, STR Down, Attack Down, and...ah, yes, Evasion Down. When you are affected by one of these, hurry back here and report to me.
- 7657: Subject K-7. Disease... Check. High fever and pale facial coloring noted.
- 7658: Subject K-7. Slow... Check. Muscle deterioration resulting in lowered reflexes noted.
- 7659: Subject K-7. Amnesia... Check. Glazed eyes and blank expression noted.
- 7660: Subject K-7. Bio... Check. Festering pustules and rancid odor noted.
- 7661: Subject K-7. STR Down... Check. Severe loss of muscle mass noted.
- 7662: Subject K-7. Attack Down... Check. High levels of fatigue noted.
- 7663: Subject K-7. Evasion Down... Check. Loss of eye-to-hand coordination noted.
- 7664: And that is all we require from you today. We will compile this data with that of the other subjects'.
- 7665: You have currently been exposed to $0 of the ailments on which we require data.
- 7666: Our scouts have reported that there are no longer any carriers in the vicinity. We shall have to return at a later date. I'm sorry, <Player>.
- 7667: Orochi has begun to thrash its tail about.
- 7668: The thrashing has ceased.
- 7669: The wound has been cauterized.
+ 7523: Commencing $0! Objective: Follow your orders
+ 7524: You have $0 [minute/minutes] (Earth time) to complete this mission.
+ 7525: The mission has failed. Leaving area.
+ 7526: Mission objective completed. Unlocking Rune of Release ([A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z]-$1).
+ 7527: Mission objective completed. Unlocking Rune of Release.
+ 7528: You gain $0 [Assault point/Assault points]!
+ 7529: Time remaining: $0 [minute/minutes] (Earth time).
+ 7530: Time remaining: $0 [second/seconds] (Earth time).
+ 7531: The $3 fades into nothingness...
+ 7532: All party members have fallen in battle. Mission failure in $0 [minute/minutes].
+ 7533: Commencing Heroines' Holdfast!
+ 7534: There is no response...
+ 7535: Which restriction will you remove? [None./@/Main/Sub-Weapon. ($3 left)/Head/Neck equipment. ($4 left)/Body equipment. ($5 left)/Hand equipment. ($6 left)/Leg/Foot equipment. ($7 left)/Back/Waist equipment. ($8 left)/Ranged Weapon/Ammo. ($9 left)/Earrings/Rings. ($10 left)/Support Job. ($11 left)/Job Abilities. ($12 left)/Spellcasting. ($13 left)/Strength. ($14 left)/Dexterity. ($15 left)/Vitality. ($16 left)/Agility. ($17 left)/Intelligence. ($18 left)/Mind. ($19 left)/Charisma. ($20 left)/Max HP. ($21 left)/Max MP. ($22 left)]
+ 7536: Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]
+ 7537: This restriction has already been removed.
+ 7538: The restriction could not be removed.
+ 7539: Which restriction will you remove? ($1 left) [None./@/Main/Sub-Weapon./Head/Neck equipment./Body equipment./Hand equipment./Leg/Foot equipment./Back/Waist equipment./Ranged Weapon/Ammo./Earrings/Rings./Support Job./Job Abilities./Spellcasting./Strength./Dexterity./Vitality./Agility./Intelligence./Mind./Charisma./Max HP./Max MP.]
+ 7540: Coordinate error. Zoning.
+ 7541: Am I glad to see you!
+ 7542: Sorry to put you to all this trouble. A professional like me should never have been caught in the first place...
+ 7543: Well, I can't be hanging around here.
+ 7544: I'll be late for my next assignment. I hate to be rescued and run, but I must be off.
+ 7545: Oh, I'm sure I don't have to mention this, but...
+ 7546: You didn't see anything. You didn't hear anything. Got it?
+ 7547: <Cough, cough>... Pay for...insulting the Sagelord...you shall...
+ 7548: Your face...<gasp>...into our memory...we have burned...<cough>...
+ 7549: Pay dearly...you shall...
+ 7550: Number defeated: $0
+ 7551: There is a curious liquid here.
+ 7552: Take a sip? [I'll try anything once!/I have a weak stomach...]
+ 7553: Nothing happens.
+ 7554: <Player> is overcome by a peculiar sensation.
+ 7555: Do you want to give up?
+ 7556: End the mission? [Give up./Not yet.]
+ 7557: The time for this mission is limited. Get as many supplies as you can from those lizard bastards before time runs out. Let's give 'em hell, soldier!
+ 7558: Great, you found some supplies! I'll hold on to them for you. Keep it up, soldier!
+ 7559: You managed to seize $0 [supply package/supply packages]. Great work, soldier. I'll report these results to the Imperial Army.
+ 7560: Our work here is done. Time to leave this hellhole, soldier.
+ 7561: You seem to have been brought here by some strange magic...
+ 7562: The supplies you seized are missing!
+ 7563: Scaleless heathen... A taste of my wrath, you shall have!
+ 7564: Yooo loook for double agent spy Qiqirn? Just $0 [yalm/yalms] over there, okay?t
+ 7565: Yooo loook for double agent spy Qiqirn? To east, okay?
+ 7566: Yooo loook for double agent spy Qiqirn? To south and east, okay?
+ 7567: Yooo loook for double agent spy Qiqirn? To south, okay?
+ 7568: Yooo loook for double agent spy Qiqirn? To south and west, okay?
+ 7569: Yooo loook for double agent spy Qiqirn? To west, okay?
+ 7570: Yooo loook for double agent spy Qiqirn? To north and west, okay?
+ 7571: Yooo loook for double agent spy Qiqirn? To north, okay?
+ 7572: Yooo loook for double agent spy Qiqirn? To north and east, okay?
+ 7573: Yooo loook for double agent spy Qiqirn? Think maybe somewhere in east?
+ 7574: Yooo loook for double agent spy Qiqirn? Think maybe somewhere in south?
+ 7575: Yooo loook for double agent spy Qiqirn? Think maybe somewhere in west?
+ 7576: Yooo loook for double agent spy Qiqirn? Think maybe somewhere in north?
+ 7577: Yooo loook for double agent spy Qiqirn? Shooold really really be close, okay?
+ 7578: Yooo loook for double agent spy Qiqirn? Shooold be close, okay?
+ 7579: Yooo loook for double agent spy Qiqirn? Shooold be far from here, okay?
+ 7580: Yooo loook for double agent spy Qiqirn? Shooold really really be far, okay?
+ 7581: Yooo loook for double agent spy Qiqirn? Hm hm hm... I know nooothing, yooo know?
+ 7582: Yooo loook for double agent spy Qiqirn? Hm hm hm... Just come here for fun, yooo know?
+ 7583: Yooo loook for double agent spy Qiqirn? Hm hm hm... Know where, yes yes! ...Or nooo? No remember? Hm hm, which was it?
+ 7584: Yooo loook for double agent spy Qiqirn? Hm hm hm... There nooo Qiqirn like that, yooo know?
+ 7585: Hooo hooo... Nooo listent Laaa laaat
+ 7586: Yooo very, very very roood! Hm hm hm...what is doooble agent?
+ 7587: Yooo know Qiqirn network? Qiqirn secret, seeecret network. Maybe even have double agent?
+ 7588: Have nooo secret infooo, so very sad. Maybe cry, okay?
+ 7589: ...How yooo know that?
+ 7590: Have nooo secret infooo. Hm hm hm... sooo shock, no?
+ 7591: Hoo hoo... Yooo catched double agent, nooo?
+ 7592: Yooo no staaare. Yooo leave alone!
+ 7593: What yooo want?
+ 7594: Want yooo want? [To capture yooo./To question yooo./Nooothing at all.]
+ 7595: Debug: Number $0.
+ 7596: You want to end the mission? Searched everywhere, have you?
+ 7597: End the mission? [Yes, please./Not finished yet.]
+ 7598: Listen up! The enemy has stolen multiple gems from the Empress's royal treasury! The treasure has been sighted in this area!
+ 7599: You will get them back from those two-legged lizards if it means your life! Do you hear me, soldiers?
+ 7600: Remember, the enemy will go to desperate measures to keep the treasure. Stay on your toes and don't let them take any gems back! Get to it now, soldiers!
+ 7601: Great work, soldier! I will see to it that this treasure is delivered back to the royal treasury. Now find the rest!
+ 7602: You have collected $0 [gem/gems]... Great work, soldier! The Empress will hear of this.
+ 7603: What'd ya want, soldier? Your mission is over! Evacuate the area immediately.
+ 7604: You have been transported here by some mysterious force...
+ 7605: You have lost the gems you were carrying.
+ 7606: Ahahaha! Mine, the treasure is!!!
+ 7607: Scaleless heathen! Our treasure, you steal!
+ 7608: Poor try, that was. Here, no treasure!
+ 7609: %0! Vile smoothskin! Treasure, you will return!
+ 7610: %0! Where you be!? Want tear you to pieces!
+ 7611: Oh, found something! To safe place, must move this!
+ 7612: Obtained temporary item: $0!
+ 7613: Target out of range.
+ 7614: Some strange force is preventing you from taking the treasure out of the box.
+ 7615: Some strange force prevented you from taking treasure from the enemy.
+ 7616: One of your allies obtained $0 from a treasure box!
+ 7617: One of your allies took $0 from the enemy!
+ 7618: One of your allies successfully recovered $0!
+ 7619: The enemy obtained $0 from a treasure box.
+ 7620: The enemy steals $0 from one of your allies.
+ 7621: The enemy carries $0 away...
+ 7622: You have recovered all the treasure.
+ 7623: I'm Lumaayu of the Black Leopards. If you hadn't saved me, I'd be in the jaws of some vicious Mamool Ja monster right about now!
+ 7624: Why, this must be the workings of destiny! You wouldn't mind bringing little ol' me to a safe place while you're on your way, would you?
+ 7625: Wait uuup! You wouldn't leave a poor girl all alone to fend for herself, now would you?
+ 7626: Don't leave me! Whatever am I gonna do without you...?
+ 7627: Oh, there you are!!! You had me so worried! How could you go and leave me all by my lonesome like that?
+ 7628: I should be fine here. The rest of my unit should be here soon. Thank ya kindly.
+ 7629: Heeey!
+ 7630: Is anyone out there...!?
+ 7631: This place stinks really bad...
+ 7632: Well, are you gonna help me!?
+ 7633: Can't...go on...
+ 7634: Thank ya kindly.t
+ 7635: Thank ya very kindly!
+ 7636: Ugh, and I just had my nails done!
+ 7637: Ouch, that hurt! Hey, aren't you supposed to protect me!?
+ 7638: Ouch! That's it! You're really starting to irritate me!
+ 7639: Ugh... How dare you attack a poor, defenseless lady... You'll pay for this...
+ 7640: The...pain... I don't think I can last much longer...
+ 7641: The gate is locked. Maybe you could open it if you had temporary item: $0.
+ 7642: The first wave of enemy forces is advancing...
+ 7643: The second wave of enemy forces starts pouring in!
+ 7644: You have decimated the first wave of enemy forces!
+ 7645: You have decimated the second wave of enemy forces!
+ 7646: You have defeated $0 [opponent/opponents]!
+ 7647: Ah... You're one of the mercenaries, come to capture the marids. Here, take this special tranquilizer dart.
+ 7648: It should help you subdue your prey; however, I implore that you use it wisely. The drug has little effect while the beasts are angry.
+ 7649: You say you require another dart? These things are extremely difficult to procure, so please be careful!
+ 7650: Excellent work! Those hideous lizards will now have no choice but to abandon their diabolical plans.
+ 7651: ......
+ 7652: The tranquilizer has begun to take effect. You have successfully captured $1$P10!
+ 7653: The tranquilizer dart has fallen out! $1$P10 has begun to charge!
+ 7654: The tranquilizer has no effect. $1$P10 seems unchanged.
+ 7655: Ah, we've been waiting for you, Subject...K-7.
+ 7656: To gather proper data on how to combat the sickness, we will need you to expose yourself to at least three of the status ailments associated with the kraken flu.
+ 7657: There are seven all together: Amnesia, Bio, Disease, Slow, STR Down, Attack Down, and...ah, yes, Evasion Down. When you are affected by one of these, hurry back here and report to me.
+ 7658: Subject K-7. Disease... Check. High fever and pale facial coloring noted.
+ 7659: Subject K-7. Slow... Check. Muscle deterioration resulting in lowered reflexes noted.
+ 7660: Subject K-7. Amnesia... Check. Glazed eyes and blank expression noted.
+ 7661: Subject K-7. Bio... Check. Festering pustules and rancid odor noted.
+ 7662: Subject K-7. STR Down... Check. Severe loss of muscle mass noted.
+ 7663: Subject K-7. Attack Down... Check. High levels of fatigue noted.
+ 7664: Subject K-7. Evasion Down... Check. Loss of eye-to-hand coordination noted.
+ 7665: And that is all we require from you today. We will compile this data with that of the other subjects'.
+ 7666: You have currently been exposed to $0 of the ailments on which we require data.
+ 7667: Our scouts have reported that there are no longer any carriers in the vicinity. We shall have to return at a later date. I'm sorry, <Player>.
+ 7668: Orochi has begun to thrash its tail about.
+ 7669: The thrashing has ceased.
+ 7670: The wound has been cauterized.

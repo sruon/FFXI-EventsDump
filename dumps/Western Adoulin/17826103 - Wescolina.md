@@ -87,55 +87,55 @@
 |       0 | 0x0046      |          70 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0047      |          71 |
-|       3 | 0x273E      |       10046 |
+|       3 | 0x273F      |       10047 |
 |       4 | 0x000D      |          13 |
 |       5 | 0x6BC8      |       27592 |
 |       6 | 0x8732      |       34610 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x2756      |       10070 |
-|       9 | 0x2757      |       10071 |
-|      10 | 0x2758      |       10072 |
-|      11 | 0x2759      |       10073 |
-|      12 | 0x275A      |       10074 |
-|      13 | 0x275B      |       10075 |
-|      14 | 0x275C      |       10076 |
-|      15 | 0x275D      |       10077 |
-|      16 | 0x275E      |       10078 |
-|      17 | 0x275F      |       10079 |
-|      18 | 0x2760      |       10080 |
+|       8 | 0x2757      |       10071 |
+|       9 | 0x2758      |       10072 |
+|      10 | 0x2759      |       10073 |
+|      11 | 0x275A      |       10074 |
+|      12 | 0x275B      |       10075 |
+|      13 | 0x275C      |       10076 |
+|      14 | 0x275D      |       10077 |
+|      15 | 0x275E      |       10078 |
+|      16 | 0x275F      |       10079 |
+|      17 | 0x2760      |       10080 |
+|      18 | 0x2761      |       10081 |
 |      19 | 0x0001      |           1 |
-|      20 | 0x2763      |       10083 |
-|      21 | 0x2764      |       10084 |
-|      22 | 0x2765      |       10085 |
-|      23 | 0x2766      |       10086 |
+|      20 | 0x2764      |       10084 |
+|      21 | 0x2765      |       10085 |
+|      22 | 0x2766      |       10086 |
+|      23 | 0x2767      |       10087 |
 |      24 | 0x0002      |           2 |
-|      25 | 0x2762      |       10082 |
-|      26 | 0x2761      |       10081 |
-|      27 | 0x2767      |       10087 |
-|      28 | 0x278C      |       10124 |
+|      25 | 0x2763      |       10083 |
+|      26 | 0x2762      |       10082 |
+|      27 | 0x2768      |       10088 |
+|      28 | 0x278D      |       10125 |
 |      29 | 0x0003      |           3 |
 |      30 | 0x0004      |           4 |
-|      31 | 0x2CFB      |       11515 |
+|      31 | 0x2CFC      |       11516 |
 |      32 | 0x003C      |          60 |
-|      33 | 0x2CFC      |       11516 |
-|      34 | 0x2CFD      |       11517 |
+|      33 | 0x2CFD      |       11517 |
+|      34 | 0x2CFE      |       11518 |
 |      35 | 0x09CF      |        2511 |
-|      36 | 0x2CFE      |       11518 |
+|      36 | 0x2CFF      |       11519 |
 |      37 | 0x09D1      |        2513 |
-|      38 | 0x2CFF      |       11519 |
-|      39 | 0x2D00      |       11520 |
-|      40 | 0x2D01      |       11521 |
-|      41 | 0x2D02      |       11522 |
+|      38 | 0x2D00      |       11520 |
+|      39 | 0x2D01      |       11521 |
+|      40 | 0x2D02      |       11522 |
+|      41 | 0x2D03      |       11523 |
 |      42 | 0x6828      |       26664 |
 |      43 | 0x68D8      |       26840 |
 |      44 | 0x6988      |       27016 |
 |      45 | 0x6A38      |       27192 |
 |      46 | 0x6AE8      |       27368 |
-|      47 | 0x2D03      |       11523 |
+|      47 | 0x2D04      |       11524 |
 |      48 | 0x0005      |           5 |
-|      49 | 0x2D08      |       11528 |
-|      50 | 0x2D09      |       11529 |
-|      51 | 0x2D0A      |       11530 |
+|      49 | 0x2D09      |       11529 |
+|      50 | 0x2D0A      |       11530 |
+|      51 | 0x2D0B      |       11531 |
 |      52 | 0x05B3      |        1459 |
 |      53 | 0x0FBE      |        4030 |
 |      54 | 0x2204      |        8708 |
@@ -151,12 +151,12 @@
 |      64 | 0x1736      |        5942 |
 |      65 | 0x0897      |        2199 |
 |      66 | 0x1734      |        5940 |
-|      67 | 0x2D04      |       11524 |
-|      68 | 0x2D05      |       11525 |
-|      69 | 0x2D06      |       11526 |
-|      70 | 0x2D07      |       11527 |
-|      71 | 0x2D0D      |       11533 |
-|      72 | 0x2D0E      |       11534 |
+|      67 | 0x2D05      |       11525 |
+|      68 | 0x2D06      |       11526 |
+|      69 | 0x2D07      |       11527 |
+|      70 | 0x2D08      |       11528 |
+|      71 | 0x2D0E      |       11534 |
+|      72 | 0x2D0F      |       11535 |
 |      73 | 0x0015      |          21 |
 |      74 | 0x0016      |          22 |
 |      75 | 0x0017      |          23 |
@@ -166,15 +166,15 @@
 |      79 | 0x000A      |          10 |
 |      80 | 0x000E      |          14 |
 |      81 | 0x0012      |          18 |
-|      82 | 0x2D10      |       11536 |
+|      82 | 0x2D11      |       11537 |
 |      83 | 0x0008      |           8 |
 |      84 | 0x000C      |          12 |
 |      85 | 0x0010      |          16 |
 |      86 | 0x0014      |          20 |
-|      87 | 0x2D11      |       11537 |
-|      88 | 0x2D0F      |       11535 |
-|      89 | 0x2D0B      |       11531 |
-|      90 | 0x2D0C      |       11532 |
+|      87 | 0x2D12      |       11538 |
+|      88 | 0x2D10      |       11536 |
+|      89 | 0x2D0C      |       11532 |
+|      90 | 0x2D0D      |       11533 |
 |      91 | 0x0009      |           9 |
 |      92 | 0x0011      |          17 |
 |      93 | 0x0007      |           7 |
@@ -182,73 +182,73 @@
 |      95 | 0x000F      |          15 |
 |      96 | 0x0013      |          19 |
 |      97 | 0x0DAB      |        3499 |
-|      98 | 0x2D12      |       11538 |
-|      99 | 0x2D13      |       11539 |
-|     100 | 0x2D14      |       11540 |
+|      98 | 0x2D13      |       11539 |
+|      99 | 0x2D14      |       11540 |
+|     100 | 0x2D15      |       11541 |
 |     101 | 0x0DAA      |        3498 |
-|     102 | 0x2D15      |       11541 |
+|     102 | 0x2D16      |       11542 |
 |     103 | 0x0DA8      |        3496 |
-|     104 | 0x2D16      |       11542 |
+|     104 | 0x2D17      |       11543 |
 |     105 | 0x05A9      |        1449 |
-|     106 | 0x2D17      |       11543 |
-|     107 | 0x2D18      |       11544 |
+|     106 | 0x2D18      |       11544 |
+|     107 | 0x2D19      |       11545 |
 |     108 | 0x00C9      |         201 |
-|     109 | 0x2D19      |       11545 |
+|     109 | 0x2D1A      |       11546 |
 |     110 | 0x0064      |         100 |
 
 ## String References
 
-- **10046**: Ah sweah by Altana hehself the ol' hubby o' mine nevah come outta his workshop fo' nothin'!
-- **10070**: Peaches 'n cream, it's <Player>! Dun worry your pretty little head--Ah remembah your ordah of one $0.
-- **10071**: And how's your hunting goin', pet? Ah need $1, $2, $3, and...what was it?
-- **10072**: That's right, $4. Ah sweah, 'times Ah dun know wheah my head is at.
-- **10073**: 'N on top o' all that, dun forget that Ah be needin' a small fee of $5 bayld to bring the chickens home to roost.
-- **10074**: First, though, Ah need those four items.
-- **10075**: We can discuss payment aftah that.
-- **10076**: Well, Ah'll be swanned, <Player>! You brought me exactly what Ah need. Ready for me to make you your $0?
-- **10077**: Let me just lay mah eyes on them... $1, $2, $3, 'n $4. Dun that just beat all!
-- **10078**: Now we can talk about the sugah you owe me. Remember--Ah need $5 bayld. Speak to me again when you're reddah. (Bayld: $7.)
-- **10079**: Come back with the right amount o' bayld, <Player>? It comes to $5.
-- **10080**: Pay $5 bayld? (Bayld: $2) [Of course!/Let me think some more.]
-- **10081**: Aftah all that time gatherin' materials, you're gon' back out on me now? Altana above, make up yo' min'!
-- **10082**: Have you got cotton in your ears, <Player>? You dun have the $5 bayld Ah need!
-- **10083**: Mercy! A sweet young [man/woman] who listens to [his/her] eldahs is such a treat in these troublin' times.
-- **10084**: Ready to start, <Player>?
-- **10085**: 'Course, Ah'm not th' one doing th' work. That be up to my husband. 'Times he be workin' real hard, other times he's as useless as tits on a bull. Hopefully he comes up aces this time.
-- **10086**: Ah'll give you this li'l piece o' paper--a receipt, I 'ppose. Come back in a li'l while and hopefully it'll be reddah.
-- **10087**: Hut-tut! These things take time, <Player>. You come back a bit lateah, hear?
-- **10124**: Ah be needin' you to help spread th' word o' Zacariah--'n it'll help Sylvie out too!
-- **11515**: Altana take me! Why, if'n 'tisn't mah sweet ol' pum'kin, <Player>!
-- **11516**: Wescolina's eyes begin to twinkle.
-- **11517**: Well, Ah'll be a leafkin's uncle! The day is 'pon us!
-- **11518**: Ikhi done come o'er heah 'n show me that ol' work from the lieberry. Ah can make 'em for you, right as rain!
-- **11519**: With all those ol' $5 you done brought me, should be as simpl' as pluckin' feathers from a heartwing.
-- **11520**: 'N when it comes to clippers, you came to th' right place, fo' right and fo' true!
-- **11521**: Our Or'er of Renaye friends have done paid mah fee in advance, so all I be needin' 'tis the materials t'emselves.
-- **11522**: I be needin' the right amount to stitch y'self up a mess o' garments. 'Course, all d'pends on what part you want...
-- **11523**: Check for which item? [Head: #./Chest: $1./Hands: $2./Legs: $3./Feet: $4/I'm done for now.]
-- **11524**: Hoo boy, $0?
-- **11525**: Lemme jus' put on mah thinkin' bonnet... Yes, I be needin' $1, 'course, in addition to $2 and $3. Yuppers, if'n you could bring those to me that'd be th' bee's knees!
-- **11526**: But Ah know that you're busier than an alley cat durin' matin' season, so Ah can spot you some o' the materials.
-- **11527**: So if'n you just gimme the most important parts--$1 and $4--together with $5 bayld, I should be able to handle things from theah.
-- **11528**: Criminy, <Player>! I sweah, next time around you'll have me sewin' your unduhgahments!
-- **11529**: Hoo hoo, I be ticklin' my funny bone!
-- **11530**: But in the name o' ol' Zacariah, I promise that you'll have clothin' fittin' of one attuned with nature!
-- **11531**: Positively wunn'ful, <Player>! I trust you have th' items Ah need for your $0?
-- **11532**: Have Wecolina create your garment? [By the Goddess, yes!/No...stop talking.]
-- **11533**: Well, slap mah bum 'n call me Shirley, you do! Ready to have me lovin'ly stitch together your $0 for $1 bayld in place 'o th' othah materials?
-- **11534**: Pay the price? (You have $2 bayld). [$1 bayld? Absolutely, Shirley./No. Haven't I suffered enough?]
-- **11535**: But darlin', we've barely gotten started!
-- **11536**: Right! These fingers're jus' itchin' to get down to work!
-- **11537**: Hon, you don' have 'nough bayld.
-- **11538**: Why, you just beam down on me like sunshine from th' heavens, don' you, <Player>? Ah'm so glad to see you, because Ah've jus' finished your $0! A fine piece o' work, if'n Ah do say so m'self.
-- **11539**: The $1 Ah used for the weave is said to focus the wearer's mental acuity--that's the fancy words for "noggin power." What's more 'tis both functional 'n stylish!
-- **11540**: All th' energy contained in the $1 really drew forth the potential of this heah piece.
-- **11541**: Sure gets sticky out theah in Ulbuka, no? That's why I wanted you to brin' me that $1. Very breathable material that lets both air 'n magic through!
-- **11542**: Y'know why Ah asked for $1? Ain't nothin' brimming with more geomantic potential, that's why! Ah used some ol' sewing techniques passed down from th' eastern lands.
-- **11543**: Did ya know that $1 are used to reduce wear 'n tear on your luopan? Mah mah, [sir/ma'am], Ah do declare that you done learn' somethin' new today!
-- **11544**: Heah you go, dumplin'!
-- **11545**: Well, you done look th' [han'somes'/purties'] thing I ever did see. Now go out theah and do me proud!
+- **10047**: Ah sweah by Altana hehself the ol' hubby o' mine nevah come outta his workshop fo' nothin'!
+- **10071**: Peaches 'n cream, it's <Player>! Dun worry your pretty little head--Ah remembah your ordah of one $0.
+- **10072**: And how's your hunting goin', pet? Ah need $1, $2, $3, and...what was it?
+- **10073**: That's right, $4. Ah sweah, 'times Ah dun know wheah my head is at.
+- **10074**: 'N on top o' all that, dun forget that Ah be needin' a small fee of $5 bayld to bring the chickens home to roost.
+- **10075**: First, though, Ah need those four items.
+- **10076**: We can discuss payment aftah that.
+- **10077**: Well, Ah'll be swanned, <Player>! You brought me exactly what Ah need. Ready for me to make you your $0?
+- **10078**: Let me just lay mah eyes on them... $1, $2, $3, 'n $4. Dun that just beat all!
+- **10079**: Now we can talk about the sugah you owe me. Remember--Ah need $5 bayld. Speak to me again when you're reddah. (Bayld: $7.)
+- **10080**: Come back with the right amount o' bayld, <Player>? It comes to $5.
+- **10081**: Pay $5 bayld? (Bayld: $2) [Of course!/Let me think some more.]
+- **10082**: Aftah all that time gatherin' materials, you're gon' back out on me now? Altana above, make up yo' min'!
+- **10083**: Have you got cotton in your ears, <Player>? You dun have the $5 bayld Ah need!
+- **10084**: Mercy! A sweet young [man/woman] who listens to [his/her] eldahs is such a treat in these troublin' times.
+- **10085**: Ready to start, <Player>?
+- **10086**: 'Course, Ah'm not th' one doing th' work. That be up to my husband. 'Times he be workin' real hard, other times he's as useless as tits on a bull. Hopefully he comes up aces this time.
+- **10087**: Ah'll give you this li'l piece o' paper--a receipt, I 'ppose. Come back in a li'l while and hopefully it'll be reddah.
+- **10088**: Hut-tut! These things take time, <Player>. You come back a bit lateah, hear?
+- **10125**: Ah be needin' you to help spread th' word o' Zacariah--'n it'll help Sylvie out too!
+- **11516**: Altana take me! Why, if'n 'tisn't mah sweet ol' pum'kin, <Player>!
+- **11517**: Wescolina's eyes begin to twinkle.
+- **11518**: Well, Ah'll be a leafkin's uncle! The day is 'pon us!
+- **11519**: Ikhi done come o'er heah 'n show me that ol' work from the lieberry. Ah can make 'em for you, right as rain!
+- **11520**: With all those ol' $5 you done brought me, should be as simpl' as pluckin' feathers from a heartwing.
+- **11521**: 'N when it comes to clippers, you came to th' right place, fo' right and fo' true!
+- **11522**: Our Or'er of Renaye friends have done paid mah fee in advance, so all I be needin' 'tis the materials t'emselves.
+- **11523**: I be needin' the right amount to stitch y'self up a mess o' garments. 'Course, all d'pends on what part you want...
+- **11524**: Check for which item? [Head: #./Chest: $1./Hands: $2./Legs: $3./Feet: $4/I'm done for now.]
+- **11525**: Hoo boy, $0?
+- **11526**: Lemme jus' put on mah thinkin' bonnet... Yes, I be needin' $1, 'course, in addition to $2 and $3. Yuppers, if'n you could bring those to me that'd be th' bee's knees!
+- **11527**: But Ah know that you're busier than an alley cat durin' matin' season, so Ah can spot you some o' the materials.
+- **11528**: So if'n you just gimme the most important parts--$1 and $4--together with $5 bayld, I should be able to handle things from theah.
+- **11529**: Criminy, <Player>! I sweah, next time around you'll have me sewin' your unduhgahments!
+- **11530**: Hoo hoo, I be ticklin' my funny bone!
+- **11531**: But in the name o' ol' Zacariah, I promise that you'll have clothin' fittin' of one attuned with nature!
+- **11532**: Positively wunn'ful, <Player>! I trust you have th' items Ah need for your $0?
+- **11533**: Have Wecolina create your garment? [By the Goddess, yes!/No...stop talking.]
+- **11534**: Well, slap mah bum 'n call me Shirley, you do! Ready to have me lovin'ly stitch together your $0 for $1 bayld in place 'o th' othah materials?
+- **11535**: Pay the price? (You have $2 bayld). [$1 bayld? Absolutely, Shirley./No. Haven't I suffered enough?]
+- **11536**: But darlin', we've barely gotten started!
+- **11537**: Right! These fingers're jus' itchin' to get down to work!
+- **11538**: Hon, you don' have 'nough bayld.
+- **11539**: Why, you just beam down on me like sunshine from th' heavens, don' you, <Player>? Ah'm so glad to see you, because Ah've jus' finished your $0! A fine piece o' work, if'n Ah do say so m'self.
+- **11540**: The $1 Ah used for the weave is said to focus the wearer's mental acuity--that's the fancy words for "noggin power." What's more 'tis both functional 'n stylish!
+- **11541**: All th' energy contained in the $1 really drew forth the potential of this heah piece.
+- **11542**: Sure gets sticky out theah in Ulbuka, no? That's why I wanted you to brin' me that $1. Very breathable material that lets both air 'n magic through!
+- **11543**: Y'know why Ah asked for $1? Ain't nothin' brimming with more geomantic potential, that's why! Ah used some ol' sewing techniques passed down from th' eastern lands.
+- **11544**: Did ya know that $1 are used to reduce wear 'n tear on your luopan? Mah mah, [sir/ma'am], Ah do declare that you done learn' somethin' new today!
+- **11545**: Heah you go, dumplin'!
+- **11546**: Well, you done look th' [han'somes'/purties'] thing I ever did see. Now go out theah and do me proud!
 
 ## Events
 
@@ -968,7 +968,7 @@
   1: 0x01A0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01A1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
-  4: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10046*)
+  4: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10047*)
     → "Ah sweah by Altana hehself the ol' hubby o' mine nevah come outta his workshop fo' nothin'!"
   5: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
@@ -1091,30 +1091,30 @@
   1: 0x0204 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0205 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0206 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
-  4: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=10070*)
+  4: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=10071*)
     → "Peaches 'n cream, it's <Player>! Dun worry your pretty little head--Ah remembah your ordah of one $0."
   5: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0211 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
   7: 0x0218 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
-  8: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=10071*)
+  8: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=10072*)
     → "And how's your hunting goin', pet? Ah need $1, $2, $3, and...what was it?"
   9: 0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0223 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0A)
  11: 0x022A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x03)
- 12: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=10072*)
+ 12: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=10073*)
     → "That's right, $4. Ah sweah, 'times Ah dun know wheah my head is at."
  13: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0235 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x04)
  15: 0x023C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x05)
- 16: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=10073*)
+ 16: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=10074*)
     → "'N on top o' all that, dun forget that Ah be needin' a small fee of $5 bayld to bring the chickens home to roost."
  17: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0247 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x06)
  19: 0x024E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
- 20: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=10074*)
+ 20: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=10075*)
     → "First, though, Ah need those four items."
  21: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=10075*)
+ 22: 0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=10076*)
     → "We can discuss payment aftah that."
  23: 0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x025D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
@@ -1150,15 +1150,15 @@
   2: 0x026E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x026F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0270 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
-  5: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=10076*)
+  5: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=10077*)
     → "Well, Ah'll be swanned, <Player>! You brought me exactly what Ah need. Ready for me to make you your $0?"
   6: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=10077*)
+  7: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=10078*)
     → "Let me just lay mah eyes on them... $1, $2, $3, 'n $4. Dun that just beat all!"
   8: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x027F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
  10: 0x0286 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
- 11: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=10078*)
+ 11: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=10079*)
     → "Now we can talk about the sugah you owe me. Remember--Ah need $5 bayld. Speak to me again when you're reddah. (Bayld: $7.)"
  12: 0x0290 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0291 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0A)
@@ -1204,42 +1204,42 @@
   2: 0x02A2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x02A3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x02A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x03)
-  5: 0x02AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10079*)
+  5: 0x02AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10080*)
     → "Come back with the right amount o' bayld, <Player>? It comes to $5."
   6: 0x02AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x04)
-  8: 0x02B6 [0x24] CREATE_DIALOG(message_id=10080*, default_option=0*, option_flags=0*)
+  8: 0x02B6 [0x24] CREATE_DIALOG(message_id=10081*, default_option=0*, option_flags=0*)
     → "Pay $5 bayld? (Bayld: $2) [Of course!/Let me think some more.]"
   9: 0x02BD [0x25] WAIT_DIALOG_SELECT()
  10: 0x02BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0346
  11: 0x02C6 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x032C
  12: 0x02CE [0x03] Work_Zone[1] = 1*
  13: 0x02D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x05)
- 14: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10083*)
+ 14: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10084*)
     → "Mercy! A sweet young [man/woman] who listens to [his/her] eldahs is such a treat in these troublin' times."
  15: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x02DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x06)
  17: 0x02E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
- 18: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10084*)
+ 18: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10085*)
     → "Ready to start, <Player>?"
  19: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x02F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
  21: 0x02F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0A)
  22: 0x02FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0F)
- 23: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=10085*)
+ 23: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=10086*)
     → "'Course, Ah'm not th' one doing th' work. That be up to my husband. 'Times he be workin' real hard, other times he's as useless as tits on a bull. Hopefully he comes up aces this time."
  24: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0309 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x11)
  26: 0x0310 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x12)
  27: 0x0317 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x01)
- 28: 0x031E [0x1D] PRINT_EVENT_MESSAGE(message_id=10086*)
+ 28: 0x031E [0x1D] PRINT_EVENT_MESSAGE(message_id=10087*)
     → "Ah'll give you this li'l piece o' paper--a receipt, I 'ppose. Come back in a li'l while and hopefully it'll be reddah."
  29: 0x0321 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0322 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x02)
  31: 0x0329 [0x01] GOTO 0x0343
  32: 0x032C [0x03] Work_Zone[1] = 2*
  33: 0x0331 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x05)
- 34: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=10082*)
+ 34: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=10083*)
     → "Have you got cotton in your ears, <Player>? You dun have the $5 bayld Ah need!"
  35: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x033C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x06)
@@ -1249,7 +1249,7 @@ SUBROUTINE_0343:
  38: 0x0346 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0368
  39: 0x034E [0x03] Work_Zone[1] = 2*
  40: 0x0353 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x05)
- 41: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=10081*)
+ 41: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=10082*)
     → "Aftah all that time gatherin' materials, you're gon' back out on me now? Altana above, make up yo' min'!"
  42: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x035E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x06)
@@ -1286,7 +1286,7 @@ SUBROUTINE_0368:
   1: 0x0371 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0372 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0373 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0F)
-  4: 0x037A [0x1D] PRINT_EVENT_MESSAGE(message_id=10087*)
+  4: 0x037A [0x1D] PRINT_EVENT_MESSAGE(message_id=10088*)
     → "Hut-tut! These things take time, <Player>. You come back a bit lateah, hear?"
   5: 0x037D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x037E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x11)
@@ -1430,7 +1430,7 @@ SUBROUTINE_0368:
   1: 0x0393 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0394 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0395 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
-  4: 0x039C [0x1D] PRINT_EVENT_MESSAGE(message_id=10124*)
+  4: 0x039C [0x1D] PRINT_EVENT_MESSAGE(message_id=10125*)
     → "Ah be needin' you to help spread th' word o' Zacariah--'n it'll help Sylvie out too!"
   5: 0x039F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
@@ -1605,42 +1605,42 @@ SUBROUTINE_03BF:
  23: 0x042E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=4*, condition_work_offset=1*)
  24: 0x0435 [0x01] GOTO 0x04A2
  25: 0x0438 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
- 26: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
+ 26: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
     → "Altana take me! Why, if'n 'tisn't mah sweet ol' pum'kin, <Player>!"
  27: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0443 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x06)
  29: 0x044A [0x1C] WAIT(60* ticks)
  30: 0x044D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
  31: 0x0454 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
- 32: 0x045B [0x48] [System] [11516*]:
+ 32: 0x045B [0x48] [System] [11517*]:
     → "Wescolina's eyes begin to twinkle."
  33: 0x045E [0x1C] WAIT(70* ticks)
- 34: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=11517*)
+ 34: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=11518*)
     → "Well, Ah'll be a leafkin's uncle! The day is 'pon us!"
  35: 0x0464 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0465 [0x03] Work_Zone[2] = 2511*
- 37: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=11518*)
+ 37: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=11519*)
     → "Ikhi done come o'er heah 'n show me that ol' work from the lieberry. Ah can make 'em for you, right as rain!"
  38: 0x046D [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x046E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0A)
  40: 0x0475 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x03)
  41: 0x047C [0x03] Work_Zone[3] = 2513*
- 42: 0x0481 [0x1D] PRINT_EVENT_MESSAGE(message_id=11519*)
+ 42: 0x0481 [0x1D] PRINT_EVENT_MESSAGE(message_id=11520*)
     → "With all those ol' $5 you done brought me, should be as simpl' as pluckin' feathers from a heartwing."
  43: 0x0484 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0485 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x04)
  45: 0x048C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x05)
- 46: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=11520*)
+ 46: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=11521*)
     → "'N when it comes to clippers, you came to th' right place, fo' right and fo' true!"
  47: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x0497 [0x1D] PRINT_EVENT_MESSAGE(message_id=11521*)
+ 48: 0x0497 [0x1D] PRINT_EVENT_MESSAGE(message_id=11522*)
     → "Our Or'er of Renaye friends have done paid mah fee in advance, so all I be needin' 'tis the materials t'emselves."
  49: 0x049A [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x049B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x06)
 
 SUBROUTINE_04A2:
  51: 0x04A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
- 52: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11522*)
+ 52: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11523*)
     → "I be needin' the right amount to stitch y'self up a mess o' garments. 'Course, all d'pends on what part you want..."
  53: 0x04AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x04AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
@@ -1653,7 +1653,7 @@ SUBROUTINE_04B4:
  59: 0x04C8 [0x03] Work_Zone[4] = 27016*
  60: 0x04CD [0x03] Work_Zone[5] = 27192*
  61: 0x04D2 [0x03] Work_Zone[6] = 27368*
- 62: 0x04D7 [0x24] CREATE_DIALOG(message_id=11523*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 62: 0x04D7 [0x24] CREATE_DIALOG(message_id=11524*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Check for which item? [Head: #./Chest: $1./Hands: $2./Legs: $3./Feet: $4/I'm done for now.]"
  63: 0x04DE [0x25] WAIT_DIALOG_SELECT()
  64: 0x04DF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04FC
@@ -1663,7 +1663,7 @@ SUBROUTINE_04B4:
  68: 0x04F6 [0x01] GOTO 0x04B4
 
 SUBROUTINE_05AE:
- 69: 0x05AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11530*)
+ 69: 0x05AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11531*)
     → "But in the name o' ol' Zacariah, I promise that you'll have clothin' fittin' of one attuned with nature!"
  70: 0x05B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x05B2 [0x01] GOTO 0x05B5
@@ -1723,7 +1723,7 @@ SUBROUTINE_05C7:
 SUBROUTINE_0694:
 118: 0x0694 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[11])
 119: 0x0697 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-120: 0x069C [0x1D] PRINT_EVENT_MESSAGE(message_id=11524*)
+120: 0x069C [0x1D] PRINT_EVENT_MESSAGE(message_id=11525*)
     → "Hoo boy, $0?"
 121: 0x069F [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x06A0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1731,12 +1731,12 @@ SUBROUTINE_0694:
 124: 0x06AA [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
 125: 0x06AF [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[13]
 126: 0x06B4 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[14]
-127: 0x06B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11525*)
+127: 0x06B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11526*)
     → "Lemme jus' put on mah thinkin' bonnet... Yes, I be needin' $1, 'course, in addition to $2 and $3. Yuppers, if'n you could bring those to me that'd be th' bee's knees!"
 128: 0x06BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x06BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x04)
 130: 0x06C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x05)
-131: 0x06CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11526*)
+131: 0x06CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11527*)
     → "But Ah know that you're busier than an alley cat durin' matin' season, so Ah can spot you some o' the materials."
 132: 0x06CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x06CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x06)
@@ -1744,7 +1744,7 @@ SUBROUTINE_0694:
 135: 0x06DD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
 136: 0x06E2 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[15]
 137: 0x06E7 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[10]
-138: 0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=11527*)
+138: 0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=11528*)
     → "So if'n you just gimme the most important parts--$1 and $4--together with $5 bayld, I should be able to handle things from theah."
 139: 0x06EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x06F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
@@ -1868,13 +1868,13 @@ SUBROUTINE_0694:
 SUBROUTINE_077B:
  28: 0x077B [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0963
  29: 0x0783 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
- 30: 0x078A [0x1D] PRINT_EVENT_MESSAGE(message_id=11533*)
+ 30: 0x078A [0x1D] PRINT_EVENT_MESSAGE(message_id=11534*)
     → "Well, slap mah bum 'n call me Shirley, you do! Ready to have me lovin'ly stitch together your $0 for $1 bayld in place 'o th' othah materials?"
  31: 0x078D [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x078E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
  33: 0x0795 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
  34: 0x079C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
- 35: 0x07A1 [0x24] CREATE_DIALOG(message_id=11534*, default_option=0*, option_flags=0*)
+ 35: 0x07A1 [0x24] CREATE_DIALOG(message_id=11535*, default_option=0*, option_flags=0*)
     → "Pay the price? (You have $2 bayld). [$1 bayld? Absolutely, Shirley./No. Haven't I suffered enough?]"
  36: 0x07A8 [0x25] WAIT_DIALOG_SELECT()
  37: 0x07A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08DE
@@ -1916,7 +1916,7 @@ SUBROUTINE_0808:
  71: 0x0861 [0x01] GOTO 0x0864
 
 SUBROUTINE_0864:
- 72: 0x0864 [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
+ 72: 0x0864 [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
     → "Right! These fingers're jus' itchin' to get down to work!"
  73: 0x0867 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0868 [0x01] GOTO 0x08DB
@@ -1938,7 +1938,7 @@ SUBROUTINE_0864:
 
 SUBROUTINE_08BB:
  90: 0x08BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x03)
- 91: 0x08C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
+ 91: 0x08C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
     → "Hon, you don' have 'nough bayld."
  92: 0x08C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x08C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x04)
@@ -1967,7 +1967,7 @@ SUBROUTINE_08DB:
 
 SUBROUTINE_093D:
 114: 0x093D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0F)
-115: 0x0944 [0x1D] PRINT_EVENT_MESSAGE(message_id=11535*)
+115: 0x0944 [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
     → "But darlin', we've barely gotten started!"
 116: 0x0947 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x0948 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x10)
@@ -1978,12 +1978,12 @@ SUBROUTINE_093D:
 SUBROUTINE_0960:
 121: 0x0960 [0x01] GOTO 0x0A6C
 122: 0x0963 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
-123: 0x096A [0x1D] PRINT_EVENT_MESSAGE(message_id=11531*)
+123: 0x096A [0x1D] PRINT_EVENT_MESSAGE(message_id=11532*)
     → "Positively wunn'ful, <Player>! I trust you have th' items Ah need for your $0?"
 124: 0x096D [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x096E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
 126: 0x0975 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
-127: 0x097C [0x24] CREATE_DIALOG(message_id=11532*, default_option=0*, option_flags=0*)
+127: 0x097C [0x24] CREATE_DIALOG(message_id=11533*, default_option=0*, option_flags=0*)
     → "Have Wecolina create your garment? [By the Goddess, yes!/No...stop talking.]"
 128: 0x0983 [0x25] WAIT_DIALOG_SELECT()
 129: 0x0984 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09EA
@@ -2005,7 +2005,7 @@ SUBROUTINE_0960:
 145: 0x09E0 [0x01] GOTO 0x09E3
 
 SUBROUTINE_09E3:
-146: 0x09E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
+146: 0x09E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
     → "Right! These fingers're jus' itchin' to get down to work!"
 147: 0x09E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x09E7 [0x01] GOTO 0x0A6C
@@ -2029,7 +2029,7 @@ SUBROUTINE_09E3:
 
 SUBROUTINE_0A49:
 166: 0x0A49 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0F)
-167: 0x0A50 [0x1D] PRINT_EVENT_MESSAGE(message_id=11535*)
+167: 0x0A50 [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
     → "But darlin', we've barely gotten started!"
 168: 0x0A53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0A54 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x10)
@@ -2174,17 +2174,17 @@ SUBROUTINE_0AF8:
  45: 0x0B55 [0x01] GOTO 0x0B58
 
 SUBROUTINE_0B58:
- 46: 0x0B58 [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
+ 46: 0x0B58 [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
     → "Right! These fingers're jus' itchin' to get down to work!"
  47: 0x0B5B [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0B5C [0x01] GOTO 0x0C68
  49: 0x0B5F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
- 50: 0x0B66 [0x1D] PRINT_EVENT_MESSAGE(message_id=11531*)
+ 50: 0x0B66 [0x1D] PRINT_EVENT_MESSAGE(message_id=11532*)
     → "Positively wunn'ful, <Player>! I trust you have th' items Ah need for your $0?"
  51: 0x0B69 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0B6A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
  53: 0x0B71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
- 54: 0x0B78 [0x24] CREATE_DIALOG(message_id=11532*, default_option=0*, option_flags=0*)
+ 54: 0x0B78 [0x24] CREATE_DIALOG(message_id=11533*, default_option=0*, option_flags=0*)
     → "Have Wecolina create your garment? [By the Goddess, yes!/No...stop talking.]"
  55: 0x0B7F [0x25] WAIT_DIALOG_SELECT()
  56: 0x0B80 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BE6
@@ -2206,7 +2206,7 @@ SUBROUTINE_0B58:
  72: 0x0BDC [0x01] GOTO 0x0BDF
 
 SUBROUTINE_0BDF:
- 73: 0x0BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
+ 73: 0x0BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
     → "Right! These fingers're jus' itchin' to get down to work!"
  74: 0x0BE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0BE3 [0x01] GOTO 0x0C68
@@ -2230,7 +2230,7 @@ SUBROUTINE_0BDF:
 
 SUBROUTINE_0C45:
  93: 0x0C45 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0F)
- 94: 0x0C4C [0x1D] PRINT_EVENT_MESSAGE(message_id=11535*)
+ 94: 0x0C4C [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
     → "But darlin', we've barely gotten started!"
  95: 0x0C4F [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0C50 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x10)
@@ -2242,13 +2242,13 @@ SUBROUTINE_0C68:
 100: 0x0C68 [0x01] GOTO 0x0E50
 101: 0x0C6B [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x0E50
 102: 0x0C73 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
-103: 0x0C7A [0x1D] PRINT_EVENT_MESSAGE(message_id=11533*)
+103: 0x0C7A [0x1D] PRINT_EVENT_MESSAGE(message_id=11534*)
     → "Well, slap mah bum 'n call me Shirley, you do! Ready to have me lovin'ly stitch together your $0 for $1 bayld in place 'o th' othah materials?"
 104: 0x0C7D [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0C7E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
 106: 0x0C85 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
 107: 0x0C8C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-108: 0x0C91 [0x24] CREATE_DIALOG(message_id=11534*, default_option=0*, option_flags=0*)
+108: 0x0C91 [0x24] CREATE_DIALOG(message_id=11535*, default_option=0*, option_flags=0*)
     → "Pay the price? (You have $2 bayld). [$1 bayld? Absolutely, Shirley./No. Haven't I suffered enough?]"
 109: 0x0C98 [0x25] WAIT_DIALOG_SELECT()
 110: 0x0C99 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DCE
@@ -2290,7 +2290,7 @@ SUBROUTINE_0CF8:
 144: 0x0D51 [0x01] GOTO 0x0D54
 
 SUBROUTINE_0D54:
-145: 0x0D54 [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
+145: 0x0D54 [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
     → "Right! These fingers're jus' itchin' to get down to work!"
 146: 0x0D57 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x0D58 [0x01] GOTO 0x0DCB
@@ -2312,7 +2312,7 @@ SUBROUTINE_0D54:
 
 SUBROUTINE_0DAB:
 163: 0x0DAB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x03)
-164: 0x0DB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
+164: 0x0DB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
     → "Hon, you don' have 'nough bayld."
 165: 0x0DB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0DB6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x04)
@@ -2341,7 +2341,7 @@ SUBROUTINE_0DCB:
 
 SUBROUTINE_0E2D:
 187: 0x0E2D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0F)
-188: 0x0E34 [0x1D] PRINT_EVENT_MESSAGE(message_id=11535*)
+188: 0x0E34 [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
     → "But darlin', we've barely gotten started!"
 189: 0x0E37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x0E38 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x10)
@@ -2380,7 +2380,7 @@ SUBROUTINE_0E50:
   1: 0x0E59 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0E5A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0E5B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0F)
-  4: 0x0E62 [0x1D] PRINT_EVENT_MESSAGE(message_id=10087*)
+  4: 0x0E62 [0x1D] PRINT_EVENT_MESSAGE(message_id=10088*)
     → "Hut-tut! These things take time, <Player>. You come back a bit lateah, hear?"
   5: 0x0E65 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0E66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x11)
@@ -2410,7 +2410,7 @@ SUBROUTINE_0E50:
 0EC0: 03 03 10 35 80 1D 63 80  23 29 08 37 01 10 01 0A  ...5..c.#).7....
 0ED0: 01 04 10 02 00 00 18 80  80 1E 0F 03 01 10 18 80  ................
 0EE0: 29 08 37 01 10 01 07 03  02 10 2B 80 CC 01 02 10  ).7.......+.....
-0EF0: 18 80 64 80 07 80 1D 62  80 23 93 07 80 29 08 37  ..d....b.#...).7
+0EF0: 18 80 63 80 07 80 1D 62  80 23 93 07 80 29 08 37  ..c....b.#...).7
 0F00: 01 10 01 08 29 08 37 01  10 01 09 03 03 10 39 80  ....).7.......9.
 0F10: 1D 64 80 23 29 08 37 01  10 01 0A 01 04 10 02 00  .d.#).7.........
 0F20: 00 1D 80 80 69 0F 03 01  10 1D 80 29 08 37 01 10  ....i......).7..
@@ -2447,14 +2447,14 @@ SUBROUTINE_0E50:
   9: 0x0E95 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
  10: 0x0E9C [0x03] Work_Zone[2] = 26664*
  11: 0x0EA1 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=3499*, buffer3=0*)
- 12: 0x0EAB [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
+ 12: 0x0EAB [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
     → "Why, you just beam down on me like sunshine from th' heavens, don' you, <Player>? Ah'm so glad to see you, because Ah've jus' finished your $0! A fine piece o' work, if'n Ah do say so m'self."
  13: 0x0EAE [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0EAF [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  15: 0x0EB2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
  16: 0x0EB9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
  17: 0x0EC0 [0x03] Work_Zone[3] = 4030*
- 18: 0x0EC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
+ 18: 0x0EC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11540*)
     → "The $1 Ah used for the weave is said to focus the wearer's mental acuity--that's the fancy words for "noggin power." What's more 'tis both functional 'n stylish!"
  19: 0x0EC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0EC9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0A)
@@ -2464,14 +2464,14 @@ SUBROUTINE_0E50:
  24: 0x0EE0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
  25: 0x0EE7 [0x03] Work_Zone[2] = 26840*
  26: 0x0EEC [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=11540*, buffer3=0*)
- 27: 0x0EF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
+ 27: 0x0EF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
     → "Why, you just beam down on me like sunshine from th' heavens, don' you, <Player>? Ah'm so glad to see you, because Ah've jus' finished your $0! A fine piece o' work, if'n Ah do say so m'self."
  28: 0x0EF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0EFA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  30: 0x0EFD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
  31: 0x0F04 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
  32: 0x0F0B [0x03] Work_Zone[3] = 1993*
- 33: 0x0F10 [0x1D] PRINT_EVENT_MESSAGE(message_id=11540*)
+ 33: 0x0F10 [0x1D] PRINT_EVENT_MESSAGE(message_id=11541*)
     → "All th' energy contained in the $1 really drew forth the potential of this heah piece."
  34: 0x0F13 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0F14 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0A)
@@ -2481,14 +2481,14 @@ SUBROUTINE_0E50:
  39: 0x0F2B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
  40: 0x0F32 [0x03] Work_Zone[2] = 27016*
  41: 0x0F37 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=3498*, buffer3=0*)
- 42: 0x0F41 [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
+ 42: 0x0F41 [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
     → "Why, you just beam down on me like sunshine from th' heavens, don' you, <Player>? Ah'm so glad to see you, because Ah've jus' finished your $0! A fine piece o' work, if'n Ah do say so m'self."
  43: 0x0F44 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0F45 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  45: 0x0F48 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
  46: 0x0F4F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
  47: 0x0F56 [0x03] Work_Zone[3] = 4095*
- 48: 0x0F5B [0x1D] PRINT_EVENT_MESSAGE(message_id=11541*)
+ 48: 0x0F5B [0x1D] PRINT_EVENT_MESSAGE(message_id=11542*)
     → "Sure gets sticky out theah in Ulbuka, no? That's why I wanted you to brin' me that $1. Very breathable material that lets both air 'n magic through!"
  49: 0x0F5E [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0F5F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0A)
@@ -2498,7 +2498,7 @@ SUBROUTINE_0E50:
  54: 0x0F76 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
  55: 0x0F7D [0x03] Work_Zone[2] = 27192*
  56: 0x0F82 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=3496*, buffer3=0*)
- 57: 0x0F8C [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
+ 57: 0x0F8C [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
     → "Why, you just beam down on me like sunshine from th' heavens, don' you, <Player>? Ah'm so glad to see you, because Ah've jus' finished your $0! A fine piece o' work, if'n Ah do say so m'self."
  58: 0x0F8F [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0F90 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2506,7 +2506,7 @@ SUBROUTINE_0E50:
  61: 0x0F9A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
  62: 0x0FA1 [0x03] Work_Zone[3] = 4028*
  63: 0x0FA6 [0x03] Work_Zone[4] = 1994*
- 64: 0x0FAB [0x1D] PRINT_EVENT_MESSAGE(message_id=11542*)
+ 64: 0x0FAB [0x1D] PRINT_EVENT_MESSAGE(message_id=11543*)
     → "Y'know why Ah asked for $1? Ain't nothin' brimming with more geomantic potential, that's why! Ah used some ol' sewing techniques passed down from th' eastern lands."
  65: 0x0FAE [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0FAF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0A)
@@ -2516,14 +2516,14 @@ SUBROUTINE_0E50:
  70: 0x0FC6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x07)
  71: 0x0FCD [0x03] Work_Zone[2] = 27368*
  72: 0x0FD2 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=1449*, buffer3=0*)
- 73: 0x0FDC [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
+ 73: 0x0FDC [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
     → "Why, you just beam down on me like sunshine from th' heavens, don' you, <Player>? Ah'm so glad to see you, because Ah've jus' finished your $0! A fine piece o' work, if'n Ah do say so m'self."
  74: 0x0FDF [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0FE0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  76: 0x0FE3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x08)
  77: 0x0FEA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x09)
  78: 0x0FF1 [0x03] Work_Zone[3] = 2199*
- 79: 0x0FF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11543*)
+ 79: 0x0FF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11544*)
     → "Did ya know that $1 are used to reduce wear 'n tear on your luopan? Mah mah, [sir/ma'am], Ah do declare that you done learn' somethin' new today!"
  80: 0x0FF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0FFA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0A)
@@ -2531,7 +2531,7 @@ SUBROUTINE_0E50:
 
 SUBROUTINE_1004:
  83: 0x1004 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x01)
- 84: 0x100B [0x1D] PRINT_EVENT_MESSAGE(message_id=11544*)
+ 84: 0x100B [0x1D] PRINT_EVENT_MESSAGE(message_id=11545*)
     → "Heah you go, dumplin'!"
  85: 0x100E [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x100F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x02)
@@ -2566,7 +2566,7 @@ SUBROUTINE_1004:
   1: 0x1030 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1031 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1032 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x0F)
-  4: 0x1039 [0x1D] PRINT_EVENT_MESSAGE(message_id=11545*)
+  4: 0x1039 [0x1D] PRINT_EVENT_MESSAGE(message_id=11546*)
     → "Well, you done look th' [han'somes'/purties'] thing I ever did see. Now go out theah and do me proud!"
   5: 0x103C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x103D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wescolina (ID: 17826103/0x01100137), tag_num=0x11)

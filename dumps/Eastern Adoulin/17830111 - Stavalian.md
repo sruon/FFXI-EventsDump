@@ -34,13 +34,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x28D3      |       10451 |
-|       1 | 0x28D4      |       10452 |
+|       0 | 0x28D4      |       10452 |
+|       1 | 0x28D5      |       10453 |
 
 ## String References
 
-- **10451**: It takes a certain type of genius to sketch a jungle landscape.
-- **10452**: That's why I must focus all my creative energy into a dense ball of concentration. I need my muse to descend from the heavens and set my spirit on fire with a volcanic eruption of inspiration!
+- **10452**: It takes a certain type of genius to sketch a jungle landscape.
+- **10453**: That's why I must focus all my creative energy into a dense ball of concentration. I need my muse to descend from the heavens and set my spirit on fire with a volcanic eruption of inspiration!
 
 ## Events
 
@@ -85,10 +85,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=10451*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=10452*)
     → "It takes a certain type of genius to sketch a jungle landscape."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=10452*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=10453*)
     → "That's why I must focus all my creative energy into a dense ball of concentration. I need my muse to descend from the heavens and set my spirit on fire with a volcanic eruption of inspiration!"
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0009 [0x21] END_EVENT

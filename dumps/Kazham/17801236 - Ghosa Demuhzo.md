@@ -25,15 +25,15 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2725      |       10021 |
-|       3 | 0x2726      |       10022 |
-|       4 | 0x2877      |       10359 |
+|       2 | 0x2726      |       10022 |
+|       3 | 0x2727      |       10023 |
+|       4 | 0x2878      |       10360 |
 
 ## String References
 
-- **10021**: It looks like Perih Vashai, Master of the Azure Bow, has become chieftainness of the trrribe in Windurst.
-- **10022**: I heard that she got that position for catching sinnerrrs that had escaped from Kazham during the Grrreat War.
-- **10359**: I couldn't imagine going through life smelling like an Opo-opo's drrroppings... Oh, did you hear me?
+- **10022**: It looks like Perih Vashai, Master of the Azure Bow, has become chieftainness of the trrribe in Windurst.
+- **10023**: I heard that she got that position for catching sinnerrrs that had escaped from Kazham during the Grrreat War.
+- **10360**: I couldn't imagine going through life smelling like an Opo-opo's drrroppings... Oh, did you hear me?
 
 ## Events
 
@@ -132,10 +132,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ghosa Demuhzo (ID: 17801236/0x010FA014), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10021*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10022*)
     → "It looks like Perih Vashai, Master of the Azure Bow, has become chieftainness of the trrribe in Windurst."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10022*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10023*)
     → "I heard that she got that position for catching sinnerrrs that had escaped from Kazham during the Grrreat War."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ghosa Demuhzo (ID: 17801236/0x010FA014), tag_num=0x02)
@@ -169,7 +169,7 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ghosa Demuhzo (ID: 17801236/0x010FA014), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10359*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10360*)
     → "I couldn't imagine going through life smelling like an Opo-opo's drrroppings... Oh, did you hear me?"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ghosa Demuhzo (ID: 17801236/0x010FA014), tag_num=0x02)

@@ -87,7 +87,7 @@
 |      45 | 0xFFF7EF8C  |  4294438796 |
 |      46 | 0xFFFFB276  |  4294947446 |
 |      47 | 0x0013      |          19 |
-|      48 | 0x1CA8      |        7336 |
+|      48 | 0x1CA9      |        7337 |
 |      49 | 0xFFF72ED6  |  4294389462 |
 |      50 | 0x80046     |      524358 |
 |      51 | 0xFFFC8561  |  4294739297 |
@@ -129,7 +129,7 @@
 
 ## String References
 
-- **7336**: Skip the event? [Yes./No.]
+- **7337**: Skip the event? [Yes./No.]
 
 ## Events
 
@@ -664,7 +664,7 @@
  10: 0x033C [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
  11: 0x033F [0x1C] WAIT(60* ticks)
  12: 0x0342 [0x02] IF !(ExtData[1]->WorkLocal[13] <= 0*) GOTO 0x03CE
- 13: 0x034A [0x24] CREATE_DIALOG(message_id=7336*, default_option=1*, option_flags=0*)
+ 13: 0x034A [0x24] CREATE_DIALOG(message_id=7337*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  14: 0x0351 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0352 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0360

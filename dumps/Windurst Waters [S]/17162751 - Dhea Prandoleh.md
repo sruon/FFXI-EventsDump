@@ -68,16 +68,16 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2D99      |       11673 |
-|       2 | 0x2D9A      |       11674 |
-|       3 | 0x2D9B      |       11675 |
-|       4 | 0x2D9C      |       11676 |
-|       5 | 0x2D9D      |       11677 |
+|       1 | 0x2D9A      |       11674 |
+|       2 | 0x2D9B      |       11675 |
+|       3 | 0x2D9C      |       11676 |
+|       4 | 0x2D9D      |       11677 |
+|       5 | 0x2D9E      |       11678 |
 |       6 | 0x000A      |          10 |
-|       7 | 0x2DBC      |       11708 |
-|       8 | 0x2DBD      |       11709 |
-|       9 | 0x2DDE      |       11742 |
-|      10 | 0x2DDF      |       11743 |
+|       7 | 0x2DBD      |       11709 |
+|       8 | 0x2DBE      |       11710 |
+|       9 | 0x2DDF      |       11743 |
+|      10 | 0x2DE0      |       11744 |
 |      11 | 0x0000      |           0 |
 |      12 | 0x0001      |           1 |
 |      13 | 0x0080      |         128 |
@@ -92,25 +92,25 @@
 |      22 | 0xFFFF5EBE  |  4294926014 |
 |      23 | 0x36ED8     |      224984 |
 |      24 | 0xFFFFECC7  |  4294962375 |
-|      25 | 0x2B3F      |       11071 |
-|      26 | 0x2B40      |       11072 |
+|      25 | 0x2B40      |       11072 |
+|      26 | 0x2B41      |       11073 |
 |      27 | 0x10C1      |        4289 |
-|      28 | 0x2B50      |       11088 |
-|      29 | 0x2B51      |       11089 |
-|      30 | 0x3352      |       13138 |
-|      31 | 0x3353      |       13139 |
+|      28 | 0x2B51      |       11089 |
+|      29 | 0x2B52      |       11090 |
+|      30 | 0x3353      |       13139 |
+|      31 | 0x3354      |       13140 |
 |      32 | 0xFFFFF612  |  4294964754 |
 |      33 | 0x64ED      |       25837 |
 |      34 | 0xFFFFFC19  |  4294966297 |
 |      35 | 0x000C      |          12 |
-|      36 | 0x350B      |       13579 |
-|      37 | 0x3640      |       13888 |
-|      38 | 0x3641      |       13889 |
-|      39 | 0x364F      |       13903 |
-|      40 | 0x3650      |       13904 |
-|      41 | 0x3651      |       13905 |
-|      42 | 0x367D      |       13949 |
-|      43 | 0x367E      |       13950 |
+|      36 | 0x350C      |       13580 |
+|      37 | 0x3641      |       13889 |
+|      38 | 0x3642      |       13890 |
+|      39 | 0x3650      |       13904 |
+|      40 | 0x3651      |       13905 |
+|      41 | 0x3652      |       13906 |
+|      42 | 0x367E      |       13950 |
+|      43 | 0x367F      |       13951 |
 |      44 | 0x0078      |         120 |
 |      45 | 0x002D      |          45 |
 |      46 | 0x000B      |          11 |
@@ -211,13 +211,13 @@
 ```
   0: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0008 [0x1C] WAIT(30* ticks)
-  2: 0x000B [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11673*]:
+  2: 0x000B [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11674*]:
     → "I better get my kit together before the boss comes back..."
   3: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0013 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11674*]:
+  4: 0x0013 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11675*]:
     → "Hey, weren't you supposed to be doin' something in West Sarutabaruta for that Tarutaru brrrat?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11675*]:
+  6: 0x001B [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11676*]:
     → "Not that it's any business of mine..."
   7: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0023 [0x21] END_EVENT
@@ -268,10 +268,10 @@
 ```
   0: 0x0026 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002B [0x1C] WAIT(30* ticks)
-  2: 0x002E [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11676*]:
+  2: 0x002E [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11677*]:
     → "Hm? What is it? I don't have time to chat!"
   3: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0036 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11677*]:
+  4: 0x0036 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11678*]:
     → "You never know when those Yagudo will come calling! Gotta stay sharp!"
   5: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x003E [0x21] END_EVENT
@@ -369,10 +369,10 @@
 ```
   0: 0x004F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0054 [0x1C] WAIT(30* ticks)
-  2: 0x0057 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11708*]:
+  2: 0x0057 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11709*]:
     → "Even if he is a brrrat, you can't leave him to the mercy of the birdmen. You better head off to Fort Karugo-Narugo."
   3: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x005F [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11709*]:
+  4: 0x005F [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11710*]:
     → "Talk to Rotih Moalghett once you get there. She'll lend you a paw."
   5: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0067 [0x21] END_EVENT
@@ -402,10 +402,10 @@
 ```
   0: 0x0069 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x006E [0x1C] WAIT(30* ticks)
-  2: 0x0071 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11742*]:
+  2: 0x0071 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11743*]:
     → "I think the boss has her eye on you!"
   3: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0079 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11743*]:
+  4: 0x0079 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11744*]:
     → "Keep your claws sharp! You never know when you'll be called on again!"
   5: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0081 [0x21] END_EVENT
@@ -818,10 +818,10 @@
 ```
   0: 0x010A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x010F [0x1C] WAIT(30* ticks)
-  2: 0x0112 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11071*]:
+  2: 0x0112 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11072*]:
     → "Master Lehko's wherrreabouts, you ask? My feline instincts tell me he's somewhere in West Sarutabaruta."
   3: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x011A [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11072*]:
+  4: 0x011A [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11073*]:
     → "If you don't find him soon, I'm afrrraid the Mithra will end up finishing what the beastmen started..."
   5: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0122 [0x21] END_EVENT
@@ -852,10 +852,10 @@
   0: 0x0124 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0129 [0x1C] WAIT(30* ticks)
   2: 0x012C [0x03] Work_Zone[2] = 4289*
-  3: 0x0131 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11088*]:
+  3: 0x0131 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11089*]:
     → "# is about the most popularrr thing there is in Mithran cuisine. Chances are it'll be to Master Lehko's liking."
   4: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0139 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11089*]:
+  5: 0x0139 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [11090*]:
     → "The mercenaries here at Huntsman's Court ought to have some good food ideas to share, so go do some rrresearch!"
   6: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0141 [0x21] END_EVENT
@@ -928,10 +928,10 @@
 ```
   0: 0x0145 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x014A [0x1C] WAIT(30* ticks)
-  2: 0x014D [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13138*]:
+  2: 0x014D [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13139*]:
     → "Hey, what are you still hanging around here for? The rrrest of the Cobras have already departed for Sauromugue Champaign!"
   3: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0155 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13139*]:
+  4: 0x0155 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13140*]:
     → "You better do some serrrious catching up, or the boss'll give you what for!"
   5: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x015D [0x21] END_EVENT
@@ -1038,7 +1038,7 @@
 ```
   0: 0x0185 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x018A [0x1C] WAIT(30* ticks)
-  2: 0x018D [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13579*]:
+  2: 0x018D [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13580*]:
     → "<Player>! You'rrre still standing around here? Master Lehko's waiting for you in Heavens Tower with a special assignment. Now hurry along!"
   3: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0195 [0x21] END_EVENT
@@ -1068,10 +1068,10 @@
 ```
   0: 0x0197 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x019C [0x1C] WAIT(30* ticks)
-  2: 0x019F [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13888*]:
+  2: 0x019F [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13889*]:
     → "This is it, <Player>--the day that mercenaries like us live for. The crows have run rrroughshod over this poor nation for too long. It's time we returned the favor!"
   3: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x01A7 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13889*]:
+  4: 0x01A7 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13890*]:
     → "You gonna stand around here all day? Get your things together and make for the Meriphataud encampment! Lehko and Romaa will have furrrther orders for you there."
   5: 0x01AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01AF [0x21] END_EVENT
@@ -1101,13 +1101,13 @@
 ```
   0: 0x01B1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01B6 [0x1C] WAIT(30* ticks)
-  2: 0x01B9 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13903*]:
+  2: 0x01B9 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13904*]:
     → "Master Lehko's f-fine. Yes, I'm s-surrre of it... He..."
   3: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x01C1 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13904*]:
+  4: 0x01C1 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13905*]:
     → "Oh, it's no use, <Player>. I can't stop worrrying about him... Perhaps you could head to Sarutabaruta to take a look?"
   5: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01C9 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13905*]:
+  6: 0x01C9 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13906*]:
     → "Then again, maybe he doesn't want to be found? Oh, whatever shall we do...?"
   7: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01D1 [0x21] END_EVENT
@@ -1136,10 +1136,10 @@
 ```
   0: 0x01D3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01D8 [0x1C] WAIT(30* ticks)
-  2: 0x01DB [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13949*]:
+  2: 0x01DB [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13950*]:
     → "If it isn't our star mercenary, <Player>! Why, just by seeing you around I know that the Federation is in good hands."
   3: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x01E3 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13950*]:
+  4: 0x01E3 [0x2B] Dhea Prandoleh (ID: 17162751/0x0105E1FF) [13951*]:
     → "'Course, the rest of us won't be letting up our guarrrd, either. Any Yagudo stragglers within a malm of the capital are gonna be in for a worrrld o' hurt!"
   5: 0x01EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01EB [0x21] END_EVENT

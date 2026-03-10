@@ -57,7 +57,7 @@
 |       6 | 0x0046      |          70 |
 |       7 | 0x008C      |         140 |
 |       8 | 0x00D2      |         210 |
-|       9 | 0x1D8C      |        7564 |
+|       9 | 0x1D8D      |        7565 |
 |      10 | 0x0120      |         288 |
 |      11 | 0x0007      |           7 |
 |      12 | 0x0121      |         289 |
@@ -66,17 +66,17 @@
 |      15 | 0x0123      |         291 |
 |      16 | 0x0017      |          23 |
 |      17 | 0x001F      |          31 |
-|      18 | 0x1D8D      |        7565 |
-|      19 | 0x1D8E      |        7566 |
-|      20 | 0x1D8F      |        7567 |
-|      21 | 0x1D92      |        7570 |
+|      18 | 0x1D8E      |        7566 |
+|      19 | 0x1D8F      |        7567 |
+|      20 | 0x1D90      |        7568 |
+|      21 | 0x1D93      |        7571 |
 |      22 | 0x0003      |           3 |
-|      23 | 0x1D90      |        7568 |
-|      24 | 0x1D91      |        7569 |
+|      23 | 0x1D91      |        7569 |
+|      24 | 0x1D92      |        7570 |
 |      25 | 0x40000000  |  1073741824 |
 |      26 | 0x000F      |          15 |
 |      27 | 0x0010      |          16 |
-|      28 | 0x1D93      |        7571 |
+|      28 | 0x1D94      |        7572 |
 |      29 | 0x0004      |           4 |
 |      30 | 0x0028      |          40 |
 |      31 | 0x23BC      |        9148 |
@@ -247,15 +247,15 @@
 |     196 | 0xFFF72278  |  4294386296 |
 |     197 | 0xFFEFA516  |  4293895446 |
 |     198 | 0x0B0E      |        2830 |
-|     199 | 0x1EA1      |        7841 |
-|     200 | 0x1E3A      |        7738 |
-|     201 | 0x1E41      |        7745 |
-|     202 | 0x1E3B      |        7739 |
-|     203 | 0x1E3F      |        7743 |
-|     204 | 0x1E38      |        7736 |
-|     205 | 0x1EB3      |        7859 |
-|     206 | 0x1E9B      |        7835 |
-|     207 | 0x1E39      |        7737 |
+|     199 | 0x1EA2      |        7842 |
+|     200 | 0x1E3B      |        7739 |
+|     201 | 0x1E42      |        7746 |
+|     202 | 0x1E3C      |        7740 |
+|     203 | 0x1E40      |        7744 |
+|     204 | 0x1E39      |        7737 |
+|     205 | 0x1EB4      |        7860 |
+|     206 | 0x1E9C      |        7836 |
+|     207 | 0x1E3A      |        7738 |
 |     208 | 0x16C0      |        5824 |
 |     209 | 0x16C3      |        5827 |
 |     210 | 0x16CB      |        5835 |
@@ -355,22 +355,22 @@
 
 ## String References
 
-- **7564**: Light begins to shimmer and twist as you pass your hand over it.
-- **7565**: The blinding light obscures your vision of the world beyond.
-- **7566**: Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond.
-- **7568**: Traverse the light? ($0 silt) [Let's do it. ($1 silt)/Do not go into the light!]
-- **7569**: You do not have enough escha silt.
-- **7570**: What do you do? [Nothing for now./Use escha silt./Teleport using $0./Teleport using $6.]
-- **7571**: Traverse the light? [Let's do this./No, wait!]
-- **7736**: Which temporary item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6@/$7/Destroy treasure chest.]
-- **7737**: Which item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6/$7/Destroy treasure chest.]
-- **7738**: This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1\`99. Opening it requires you to guess whether the next number is greater or less than the previous.
-- **7739**: Previous: $0 ($1 tr[y/ies] left) [Do nothing./Twist number dial up./Twist number dial down.]
-- **7743**: The chest will be lost. Proceed? [Yes, destroy./No, cancel.]
-- **7745**: What will you do? [Do nothing./Attempt to unlock it./Destroy the chest.]
-- **7835**: Obtain this item? [Yes./No.]
-- **7841**: The chest is locked.
-- **7859**: Obtain this item?
+- **7565**: Light begins to shimmer and twist as you pass your hand over it.
+- **7566**: The blinding light obscures your vision of the world beyond.
+- **7567**: Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond.
+- **7569**: Traverse the light? ($0 silt) [Let's do it. ($1 silt)/Do not go into the light!]
+- **7570**: You do not have enough escha silt.
+- **7571**: What do you do? [Nothing for now./Use escha silt./Teleport using $0./Teleport using $6.]
+- **7572**: Traverse the light? [Let's do this./No, wait!]
+- **7737**: Which temporary item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6@/$7/Destroy treasure chest.]
+- **7738**: Which item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6/$7/Destroy treasure chest.]
+- **7739**: This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1\`99. Opening it requires you to guess whether the next number is greater or less than the previous.
+- **7740**: Previous: $0 ($1 tr[y/ies] left) [Do nothing./Twist number dial up./Twist number dial down.]
+- **7744**: The chest will be lost. Proceed? [Yes, destroy./No, cancel.]
+- **7746**: What will you do? [Do nothing./Attempt to unlock it./Destroy the chest.]
+- **7836**: Obtain this item? [Yes./No.]
+- **7842**: The chest is locked.
+- **7860**: Obtain this item?
 
 ## Events
 
@@ -863,7 +863,7 @@ SUBROUTINE_005A:
   7: 0x00F7 [0x41] ExtData[1]->WorkLocal[4] = ExtData[1]->WorkLocal[10] (bits 0*-0*)
   8: 0x0100 [0x41] ExtData[1]->WorkLocal[12] = ExtData[1]->WorkLocal[10] (bits 1*-2*)
   9: 0x0109 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 0*) GOTO 0x0115
- 10: 0x0111 [0x48] [System] [7564*]:
+ 10: 0x0111 [0x48] [System] [7565*]:
     → "Light begins to shimmer and twist as you pass your hand over it."
  11: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0115 [0x06] ExtData[1]->WorkLocal[14] = 0
@@ -883,11 +883,11 @@ SUBROUTINE_015A:
  24: 0x015A [0x1A] CALL_SUBROUTINE(address=0x109D)
  25: 0x015D [0x02] IF !(ExtData[1]->WorkLocal[8] == 288*) GOTO 0x017E
  26: 0x0165 [0x02] IF !(ExtData[1]->WorkLocal[38] == 1*) GOTO 0x0174
- 27: 0x016D [0x48] [System] [7565*]:
+ 27: 0x016D [0x48] [System] [7566*]:
     → "The blinding light obscures your vision of the world beyond."
  28: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0171 [0x01] GOTO 0x017B
- 30: 0x0174 [0x48] [System] [7566*]:
+ 30: 0x0174 [0x48] [System] [7567*]:
     → "Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
  31: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0178 [0x1A] CALL_SUBROUTINE(address=0x020A)
@@ -897,11 +897,11 @@ SUBROUTINE_017B:
  34: 0x017E [0x02] IF !(ExtData[1]->WorkLocal[8] == 289*) GOTO 0x01C3
  35: 0x0186 [0x02] IF !(ExtData[1]->WorkLocal[38] == 1*) GOTO 0x01A7
  36: 0x018E [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x019D
- 37: 0x0196 [0x48] [System] [7565*]:
+ 37: 0x0196 [0x48] [System] [7566*]:
     → "The blinding light obscures your vision of the world beyond."
  38: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x019A [0x01] GOTO 0x01A4
- 40: 0x019D [0x48] [System] [7566*]:
+ 40: 0x019D [0x48] [System] [7567*]:
     → "Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
  41: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x01A1 [0x1A] CALL_SUBROUTINE(address=0x0279)
@@ -909,12 +909,12 @@ SUBROUTINE_017B:
 SUBROUTINE_01A4:
  43: 0x01A4 [0x01] GOTO 0x01C0
  44: 0x01A7 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x01B9
- 45: 0x01AF [0x48] [System] [7566*]:
+ 45: 0x01AF [0x48] [System] [7567*]:
     → "Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
  46: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01B3 [0x1A] CALL_SUBROUTINE(address=0x020A)
  48: 0x01B6 [0x01] GOTO 0x01C0
- 49: 0x01B9 [0x48] [System] [7566*]:
+ 49: 0x01B9 [0x48] [System] [7567*]:
     → "Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
  50: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x01BD [0x1A] CALL_SUBROUTINE(address=0x0279)
@@ -924,11 +924,11 @@ SUBROUTINE_01C0:
  53: 0x01C3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 291*) GOTO 0x0208
  54: 0x01CB [0x02] IF !(ExtData[1]->WorkLocal[38] == 1*) GOTO 0x01EC
  55: 0x01D3 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x01E2
- 56: 0x01DB [0x48] [System] [7565*]:
+ 56: 0x01DB [0x48] [System] [7566*]:
     → "The blinding light obscures your vision of the world beyond."
  57: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x01DF [0x01] GOTO 0x01E9
- 59: 0x01E2 [0x48] [System] [7566*]:
+ 59: 0x01E2 [0x48] [System] [7567*]:
     → "Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
  60: 0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x01E6 [0x1A] CALL_SUBROUTINE(address=0x0279)
@@ -936,12 +936,12 @@ SUBROUTINE_01C0:
 SUBROUTINE_01E9:
  62: 0x01E9 [0x01] GOTO 0x0205
  63: 0x01EC [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x01FE
- 64: 0x01F4 [0x48] [System] [7566*]:
+ 64: 0x01F4 [0x48] [System] [7567*]:
     → "Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
  65: 0x01F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x01F8 [0x1A] CALL_SUBROUTINE(address=0x020A)
  67: 0x01FB [0x01] GOTO 0x0205
- 68: 0x01FE [0x48] [System] [7566*]:
+ 68: 0x01FE [0x48] [System] [7567*]:
     → "Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
  69: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0202 [0x1A] CALL_SUBROUTINE(address=0x0279)
@@ -987,7 +987,7 @@ SUBROUTINE_0265:
 SUBROUTINE_0279:
  97: 0x0279 [0x02] IF !(ExtData[1]->WorkLocal[15] == 0*) GOTO 0x0415
  98: 0x0281 [0x1A] CALL_SUBROUTINE(address=0x06EF)
- 99: 0x0284 [0x24] CREATE_DIALOG(message_id=7570*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[13])
+ 99: 0x0284 [0x24] CREATE_DIALOG(message_id=7571*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[13])
     → "What do you do? [Nothing for now./Use escha silt./Teleport using $0./Teleport using $6.]"
 100: 0x028B [0x25] WAIT_DIALOG_SELECT()
 101: 0x028C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029A
@@ -1098,12 +1098,12 @@ SUBROUTINE_0416:
 180: 0x0416 [0x03] ExtData[1]->WorkLocal[29] = ExtData[1]->WorkLocal[11]
 181: 0x041B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
 182: 0x0420 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
-183: 0x0425 [0x24] CREATE_DIALOG(message_id=7568*, default_option=1*, option_flags=0*)
+183: 0x0425 [0x24] CREATE_DIALOG(message_id=7569*, default_option=1*, option_flags=0*)
     → "Traverse the light? ($0 silt) [Let's do it. ($1 silt)/Do not go into the light!]"
 184: 0x042C [0x25] WAIT_DIALOG_SELECT()
 185: 0x042D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0503
 186: 0x0435 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[29]) GOTO 0x044C
-187: 0x043D [0x48] [System] [7569*]:
+187: 0x043D [0x48] [System] [7570*]:
     → "You do not have enough escha silt."
 188: 0x0440 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x0441 [0x05] ExtData[1]->WorkLocal[15] = 1
@@ -1160,12 +1160,12 @@ SUBROUTINE_050F:
 230: 0x050F [0x03] ExtData[1]->WorkLocal[29] = 0*
 231: 0x0514 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
 232: 0x0519 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
-233: 0x051E [0x24] CREATE_DIALOG(message_id=7571*, default_option=1*, option_flags=0*)
+233: 0x051E [0x24] CREATE_DIALOG(message_id=7572*, default_option=1*, option_flags=0*)
     → "Traverse the light? [Let's do this./No, wait!]"
 234: 0x0525 [0x25] WAIT_DIALOG_SELECT()
 235: 0x0526 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05FC
 236: 0x052E [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[29]) GOTO 0x0545
-237: 0x0536 [0x48] [System] [7569*]:
+237: 0x0536 [0x48] [System] [7570*]:
     → "You do not have enough escha silt."
 238: 0x0539 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x053A [0x05] ExtData[1]->WorkLocal[15] = 1
@@ -1222,12 +1222,12 @@ SUBROUTINE_0608:
 280: 0x0608 [0x03] ExtData[1]->WorkLocal[29] = 0*
 281: 0x060D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
 282: 0x0612 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
-283: 0x0617 [0x24] CREATE_DIALOG(message_id=7571*, default_option=1*, option_flags=0*)
+283: 0x0617 [0x24] CREATE_DIALOG(message_id=7572*, default_option=1*, option_flags=0*)
     → "Traverse the light? [Let's do this./No, wait!]"
 284: 0x061E [0x25] WAIT_DIALOG_SELECT()
 285: 0x061F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06A7
 286: 0x0627 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[29]) GOTO 0x063E
-287: 0x062F [0x48] [System] [7569*]:
+287: 0x062F [0x48] [System] [7570*]:
     → "You do not have enough escha silt."
 288: 0x0632 [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x0633 [0x05] ExtData[1]->WorkLocal[15] = 1
@@ -1838,7 +1838,7 @@ SUBROUTINE_0B9C:
 #### Opcodes
 
 ```
-  0: 0x1152 [0x24] CREATE_DIALOG(message_id=7571*, default_option=1*, option_flags=0*)
+  0: 0x1152 [0x24] CREATE_DIALOG(message_id=7572*, default_option=1*, option_flags=0*)
     → "Traverse the light? [Let's do this./No, wait!]"
   1: 0x1159 [0x25] WAIT_DIALOG_SELECT()
   2: 0x115A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1193
@@ -2030,10 +2030,10 @@ SUBROUTINE_11A3:
   3: 0x11F5 [0x1C] WAIT(60* ticks)
   4: 0x11F8 [0x06] ExtData[1]->WorkLocal[15] = 0
   5: 0x11FB [0x02] IF !(ExtData[1]->WorkLocal[44] <= 0*) GOTO 0x120B
-  6: 0x1203 [0x48] [System] [7841*]:
+  6: 0x1203 [0x48] [System] [7842*]:
     → "The chest is locked."
   7: 0x1206 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x1207 [0x48] [System] [7738*]:
+  8: 0x1207 [0x48] [System] [7739*]:
     → "This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1`99. Opening it requires you to guess whether the next number is greater or less than the previous."
   9: 0x120A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x120B [0x06] ExtData[1]->WorkLocal[14] = 0
@@ -2044,7 +2044,7 @@ SUBROUTINE_11A3:
  15: 0x1224 [0x01] GOTO 0x127B
  16: 0x1227 [0x02] IF !(ExtData[1]->WorkLocal[44] == 1*) GOTO 0x127B
  17: 0x122F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[50]
- 18: 0x1234 [0x24] CREATE_DIALOG(message_id=7745*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[13])
+ 18: 0x1234 [0x24] CREATE_DIALOG(message_id=7746*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[13])
     → "What will you do? [Do nothing./Attempt to unlock it./Destroy the chest.]"
  19: 0x123B [0x25] WAIT_DIALOG_SELECT()
  20: 0x123C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x124F
@@ -2079,7 +2079,7 @@ SUBROUTINE_1289:
  39: 0x1289 [0x02] IF !(ExtData[1]->WorkLocal[42] == 0*) GOTO 0x1317
  40: 0x1291 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[49]
  41: 0x1296 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[50]
- 42: 0x129B [0x24] CREATE_DIALOG(message_id=7739*, default_option=ExtData[1]->WorkLocal[41], option_flags=ExtData[1]->WorkLocal[43])
+ 42: 0x129B [0x24] CREATE_DIALOG(message_id=7740*, default_option=ExtData[1]->WorkLocal[41], option_flags=ExtData[1]->WorkLocal[43])
     → "Previous: $0 ($1 tr[y/ies] left) [Do nothing./Twist number dial up./Twist number dial down.]"
  43: 0x12A2 [0x25] WAIT_DIALOG_SELECT()
  44: 0x12A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12B1
@@ -2114,7 +2114,7 @@ SUBROUTINE_1314:
  69: 0x1317 [0x1B] RETURN
 
 SUBROUTINE_1318:
- 70: 0x1318 [0x24] CREATE_DIALOG(message_id=7743*, default_option=1*, option_flags=0*)
+ 70: 0x1318 [0x24] CREATE_DIALOG(message_id=7744*, default_option=1*, option_flags=0*)
     → "The chest will be lost. Proceed? [Yes, destroy./No, cancel.]"
  71: 0x131F [0x25] WAIT_DIALOG_SELECT()
  72: 0x1320 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1344
@@ -2147,7 +2147,7 @@ SUBROUTINE_136A:
 
 SUBROUTINE_1430:
  93: 0x1430 [0x1A] CALL_SUBROUTINE(address=0x14D1)
- 94: 0x1433 [0x24] CREATE_DIALOG(message_id=7737*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[13])
+ 94: 0x1433 [0x24] CREATE_DIALOG(message_id=7738*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[13])
     → "Which item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6/$7/Destroy treasure chest.]"
  95: 0x143A [0x25] WAIT_DIALOG_SELECT()
  96: 0x143B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x144E
@@ -2163,11 +2163,11 @@ SUBROUTINE_144E:
 104: 0x1468 [0x0C] ExtData[1]->WorkLocal[27]--
 105: 0x146B [0x9D] ExtData[1]->WorkLocal[55] = 0x159D[ExtData[1]->WorkLocal[27]] // Read WORD
 106: 0x1473 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[55])
-107: 0x1476 [0x48] [System] [7859*]:
+107: 0x1476 [0x48] [System] [7860*]:
     → "Obtain this item?"
 108: 0x1479 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x147A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-110: 0x147D [0x24] CREATE_DIALOG(message_id=7835*, default_option=1*, option_flags=0*)
+110: 0x147D [0x24] CREATE_DIALOG(message_id=7836*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 111: 0x1484 [0x25] WAIT_DIALOG_SELECT()
 112: 0x1485 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14BF
@@ -2253,7 +2253,7 @@ SUBROUTINE_1586:
      0x166D: 1E 80 0E 81 0F 81 10 81 11 81 12 81 01 80 01 80
 # Dead code (unreachable instructions):
      0x138F [0x1A] CALL_SUBROUTINE(address=0x153E)
-     0x1392 [0x24] CREATE_DIALOG(message_id=7736*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[13])
+     0x1392 [0x24] CREATE_DIALOG(message_id=7737*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[13])
     → "Which temporary item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6@/$7/Destroy treasure chest.]"
      0x1399 [0x25] WAIT_DIALOG_SELECT()
      0x139A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13AD
@@ -2267,11 +2267,11 @@ SUBROUTINE_1586:
      0x13C7 [0x0C] ExtData[1]->WorkLocal[27]--
      0x13CA [0x9D] ExtData[1]->WorkLocal[55] = 0x159D[ExtData[1]->WorkLocal[27]] // Read WORD
      0x13D2 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[55])
-     0x13D5 [0x48] [System] [7859*]:
+     0x13D5 [0x48] [System] [7860*]:
     → "Obtain this item?"
      0x13D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13D9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x13DC [0x24] CREATE_DIALOG(message_id=7835*, default_option=1*, option_flags=0*)
+     0x13DC [0x24] CREATE_DIALOG(message_id=7836*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
      0x13E3 [0x25] WAIT_DIALOG_SELECT()
      0x13E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x141E

@@ -27,21 +27,21 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1EE1      |        7905 |
-|       3 | 0x1EE2      |        7906 |
+|       2 | 0x1EE2      |        7906 |
+|       3 | 0x1EE3      |        7907 |
 |       4 | 0x0375      |         885 |
 |       5 | 0xFFFFFB0D  |  4294966029 |
 |       6 | 0xFFFFDC2C  |  4294958124 |
 |       7 | 0x0E7E      |        3710 |
-|       8 | 0x1D84      |        7556 |
-|       9 | 0x1D85      |        7557 |
+|       8 | 0x1D85      |        7557 |
+|       9 | 0x1D86      |        7558 |
 
 ## String References
 
-- **7556**: Oh, you know about those falling stars as well, huh?I've been fortunate enough to eye-spy and peek-a-boo a few of them myself, too.
-- **7557**: What did I wish for? Naturally, I wished that Windurst would have everlasting peace and prosperity, joy and security, success and serenity!
-- **7905**: That place called Giddeus where all them Yagudo beastmen live and dwell is downright dangerous! If you take one wrong step, then it's bishy-bashy, cracky-whacky, and crunchy-munchy!
-- **7906**: Come on! The beastmen have been fighting and slighting with Windurst for hundreds of years! How can anyone expect them to suddenly become all cute-and-cuddly or lovey-dovey?
+- **7557**: Oh, you know about those falling stars as well, huh?I've been fortunate enough to eye-spy and peek-a-boo a few of them myself, too.
+- **7558**: What did I wish for? Naturally, I wished that Windurst would have everlasting peace and prosperity, joy and security, success and serenity!
+- **7906**: That place called Giddeus where all them Yagudo beastmen live and dwell is downright dangerous! If you take one wrong step, then it's bishy-bashy, cracky-whacky, and crunchy-munchy!
+- **7907**: Come on! The beastmen have been fighting and slighting with Windurst for hundreds of years! How can anyone expect them to suddenly become all cute-and-cuddly or lovey-dovey?
 
 ## Events
 
@@ -165,10 +165,10 @@
   2: 0x002C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x002D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x002E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polink-Moink (ID: 17756229/0x010EF045), tag_num=0x01)
-  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
+  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
     → "That place called Giddeus where all them Yagudo beastmen live and dwell is downright dangerous! If you take one wrong step, then it's bishy-bashy, cracky-whacky, and crunchy-munchy!"
   6: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
+  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
     → "Come on! The beastmen have been fighting and slighting with Windurst for hundreds of years! How can anyone expect them to suddenly become all cute-and-cuddly or lovey-dovey?"
   8: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x003D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polink-Moink (ID: 17756229/0x010EF045), tag_num=0x02)
@@ -226,10 +226,10 @@
   1: 0x0057 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0058 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0059 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polink-Moink (ID: 17756229/0x010EF045), tag_num=0x01)
-  4: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
+  4: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
     → "Oh, you know about those falling stars as well, huh?I've been fortunate enough to eye-spy and peek-a-boo a few of them myself, too."
   5: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
+  6: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
     → "What did I wish for? Naturally, I wished that Windurst would have everlasting peace and prosperity, joy and security, success and serenity!"
   7: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0068 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polink-Moink (ID: 17756229/0x010EF045), tag_num=0x02)

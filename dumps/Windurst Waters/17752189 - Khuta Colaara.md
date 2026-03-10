@@ -31,17 +31,17 @@
 |       0 | 0x0167      |         359 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0165      |         357 |
-|       3 | 0x228E      |        8846 |
-|       4 | 0x228F      |        8847 |
-|       5 | 0x22AD      |        8877 |
-|       6 | 0x22AE      |        8878 |
+|       3 | 0x228F      |        8847 |
+|       4 | 0x2290      |        8848 |
+|       5 | 0x22AE      |        8878 |
+|       6 | 0x22AF      |        8879 |
 
 ## String References
 
-- **8846**: Grrr... I don't have enough gil to buy anything worrrthwhile. Guess I've got to head back out to Sarrrutabarrruta and hunt some more rarrrabs.
-- **8847**: Doesn't seem like therrre's any good offerrrs for half-baked adventurrrerrrs like you and me. Betterrr off sticking to rabbiting forrr the time being.
-- **8877**: Oh, wow! When did you rrreceive official rrrecognition as an adventurrrerrr?
-- **8878**: Why, only the otherrr day you werrre a novice adventurrrerrr like me. Imprrressive!
+- **8847**: Grrr... I don't have enough gil to buy anything worrrthwhile. Guess I've got to head back out to Sarrrutabarrruta and hunt some more rarrrabs.
+- **8848**: Doesn't seem like therrre's any good offerrrs for half-baked adventurrrerrrs like you and me. Betterrr off sticking to rabbiting forrr the time being.
+- **8878**: Oh, wow! When did you rrreceive official rrrecognition as an adventurrrerrr?
+- **8879**: Why, only the otherrr day you werrre a novice adventurrrerrr like me. Imprrressive!
 
 ## Events
 
@@ -263,12 +263,12 @@
   1: 0x0071 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0072 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0073 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khuta Colaara (ID: 17752189/0x010EE07D), tag_num=0x03)
-  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=8846*)
+  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=8847*)
     → "Grrr... I don't have enough gil to buy anything worrrthwhile. Guess I've got to head back out to Sarrrutabarrruta and hunt some more rarrrabs."
   5: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x007E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khuta Colaara (ID: 17752189/0x010EE07D), tag_num=0x04)
   7: 0x0085 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khuta Colaara (ID: 17752189/0x010EE07D), tag_num=0x05)
-  8: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8847*)
+  8: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8848*)
     → "Doesn't seem like therrre's any good offerrrs for half-baked adventurrrerrrs like you and me. Betterrr off sticking to rabbiting forrr the time being."
   9: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0090 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khuta Colaara (ID: 17752189/0x010EE07D), tag_num=0x06)
@@ -302,10 +302,10 @@
   1: 0x00A0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khuta Colaara (ID: 17752189/0x010EE07D), tag_num=0x01)
-  4: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8877*)
+  4: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8878*)
     → "Oh, wow! When did you rrreceive official rrrecognition as an adventurrrerrr?"
   5: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8878*)
+  6: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8879*)
     → "Why, only the otherrr day you werrre a novice adventurrrerrr like me. Imprrressive!"
   7: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Khuta Colaara (ID: 17752189/0x010EE07D), tag_num=0x02)

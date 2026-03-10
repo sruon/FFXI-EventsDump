@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2246      |        8774 |
+|       0 | 0x2247      |        8775 |
 |       1 | 0x007E      |         126 |
 |       2 | 0xFFFFFFFE  |  4294967294 |
 |       3 | 0x0001      |           1 |
@@ -29,26 +29,26 @@
 |       6 | 0x0004      |           4 |
 |       7 | 0x0005      |           5 |
 |       8 | 0x0006      |           6 |
-|       9 | 0x2245      |        8773 |
+|       9 | 0x2246      |        8774 |
 |      10 | 0x007C      |         124 |
 |      11 | 0x007A      |         122 |
 |      12 | 0x0076      |         118 |
 |      13 | 0x006E      |         110 |
 |      14 | 0x005E      |          94 |
 |      15 | 0x003E      |          62 |
-|      16 | 0x2248      |        8776 |
+|      16 | 0x2249      |        8777 |
 |      17 | 0x0000      |           0 |
-|      18 | 0x2249      |        8777 |
+|      18 | 0x224A      |        8778 |
 |      19 | 0x40000000  |  1073741824 |
-|      20 | 0x224A      |        8778 |
+|      20 | 0x224B      |        8779 |
 |      21 | 0x0020      |          32 |
-|      22 | 0x224B      |        8779 |
+|      22 | 0x224C      |        8780 |
 |      23 | 0x0040      |          64 |
-|      24 | 0x224C      |        8780 |
+|      24 | 0x224D      |        8781 |
 |      25 | 0x0060      |          96 |
-|      26 | 0x224D      |        8781 |
+|      26 | 0x224E      |        8782 |
 |      27 | 0x0080      |         128 |
-|      28 | 0x224E      |        8782 |
+|      28 | 0x224F      |        8783 |
 |      29 | 0x00A0      |         160 |
 |      30 | 0x1933      |        6451 |
 |      31 | 0x00C8      |         200 |
@@ -57,15 +57,15 @@
 ## String References
 
 - **6451**: You do not have enough gil.
-- **8773**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
-- **8774**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
-- **8776**: Which memory will you have recalled? [Nothing./Bastok Missions./Foreign Missions./Bastok Quests 1./Bastok Quests 2./Other Quests./Promathia Missions.]
-- **8777**: Which memory will you have recalled? [Nothing./The Zeruhn Report./A Geological Survey(pt.1)./A Geological Survey(pt.2)./Fetichism./The Crystal Line./Wading Beasts./The Emissary(pt.1)./The Emissary(pt.2)./The Emissary(pt.3)./The Four Musketeers./To the Forsaken Mines./Jeuno./Darkness Rising(pt.1)./Darkness Rising(pt.2)./Xarcabard, Land of Truths(pt.1)./Xarcabard, Land of Truths(pt.2)./The Pirates' Cove(pt.1)./The Pirates' Cove(pt.2)./The Final Image(pt.1)./The Final Image(pt.2)./On My Way(pt.1)./On My Way(pt.2)./The Chains That Bind Us(pt.1)./The Chains That Bind Us(pt.2)./The Salt of the Earth(pt.1)./The Salt of the Earth(pt.2)./The Salt of the Earth(pt.3)./Where Two Paths Converge(pt.1)./Where Two Paths Converge(pt.2).]
-- **8778**: Which memory will you have recalled? [Nothing./Journey Abroad(pt.1)./Journey Abroad(pt.2a)./Journey Abroad(pt.2b)./Journey Abroad(pt.3)./Journey Abroad(pt.1)./Journey Abroad(pt.2)./The Three Kingdoms(pt.1)./The Three Kingdoms(pt.2)./The Three Kingdoms(pt.a)./The Three Kingdoms(pt.3)./The Three Kingdoms(pt.1)./The Three Kingdoms(pt.2).]
-- **8779**: Which memory will you have recalled? [Nothing./Cid's Secret./True Strength(pt.1)./True Strength(pt.2)./The Doorman./Dark Legacy./Dark Puppet./Cornelia's Plea./The Weight of Your Limits(pt.1)./The Weight of Your Limits(pt.2)./The Weight of Your Limits(pt.3)./Shoot First...(pt.1)./Shoot First...(pt.2)./Shoot First...(pt.3)./Faded Promises(pt.1)./Faded Promises(pt.2)./Faded Promises(pt.3)./136th C.E.A.(pt.1)./136th C.E.A.(pt.2)./Conflict./Out of the Depths./A Question of Faith./Return to the Depths(pt.1)./Return to the Depths(pt.2)./Teak me to the Stars./Hyper Active./The Naming Game(pt.1)./The Naming Game(pt.2).]
-- **8780**: Which memory will you have recalled? [Nothing./Bait and Switch(pt.1)./Bait and Switch(pt.2)./Bait and Switch(pt.3)./Bait and Switch(pt.4)./Bait and Switch(pt.5)./Bait and Switch(pt.6)./Bait and Switch(pt.7)./Bait and Switch(pt.8)./Bait and Switch(pt.9)./Bait and Switch(pt.10)./Too Many Chefs(pt.1)./Too Many Chefs(pt.2)./Too Many Chefs(pt.3)./Fires of Discontent./Synergistic Pursuits(pt.1)./Synergistic Pursuits(pt.2)./Bonds of Mythril./Synergistic Support(pt.1)./Synergistic Support(pt.2)./Synergistic Support(pt.3)./Trust: Bastok(pt.1)./Trust: Bastok(pt.2).]
-- **8781**: Which memory will you have recalled? [Nothing./Annihilator./Conflict (San d'Oria)./Conflict (Windurst)./The Search for Goldmane./Message on the Wind./The Long March North(pt.1)./The Long March North(pt.2)./The Long March North(pt.3)./Waking the Colossus./Vegetable Vegetable Revolution./Trust (Ayame)./Trust (Volker)./Trust (Iron Eater)./Vegetable Vegetable Crisis./Vegetable Vegetable Frustration(pt.1)./Vegetable Vegetable Frustration(pt.2)./Vegetable Vegetable Frustration(pt.3).]
-- **8782**: Which memory will you have recalled? [Nothing./The Call of the Wyrmking./Tending Aged Wounds./The Enduring Tumult of War./Three Paths./Departures(pt.1)./Departures(pt.2)./And the Compass Guides./Flames for the Dead./One to Be Feared./Fire in the Eyes of Men(pt.1)./Fire in the Eyes of Men(pt.2)./Calm Before the Storm(pt.1)./Calm Before the Storm(pt.2)./Return to the East.]
+- **8774**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+- **8775**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+- **8777**: Which memory will you have recalled? [Nothing./Bastok Missions./Foreign Missions./Bastok Quests 1./Bastok Quests 2./Other Quests./Promathia Missions.]
+- **8778**: Which memory will you have recalled? [Nothing./The Zeruhn Report./A Geological Survey(pt.1)./A Geological Survey(pt.2)./Fetichism./The Crystal Line./Wading Beasts./The Emissary(pt.1)./The Emissary(pt.2)./The Emissary(pt.3)./The Four Musketeers./To the Forsaken Mines./Jeuno./Darkness Rising(pt.1)./Darkness Rising(pt.2)./Xarcabard, Land of Truths(pt.1)./Xarcabard, Land of Truths(pt.2)./The Pirates' Cove(pt.1)./The Pirates' Cove(pt.2)./The Final Image(pt.1)./The Final Image(pt.2)./On My Way(pt.1)./On My Way(pt.2)./The Chains That Bind Us(pt.1)./The Chains That Bind Us(pt.2)./The Salt of the Earth(pt.1)./The Salt of the Earth(pt.2)./The Salt of the Earth(pt.3)./Where Two Paths Converge(pt.1)./Where Two Paths Converge(pt.2).]
+- **8779**: Which memory will you have recalled? [Nothing./Journey Abroad(pt.1)./Journey Abroad(pt.2a)./Journey Abroad(pt.2b)./Journey Abroad(pt.3)./Journey Abroad(pt.1)./Journey Abroad(pt.2)./The Three Kingdoms(pt.1)./The Three Kingdoms(pt.2)./The Three Kingdoms(pt.a)./The Three Kingdoms(pt.3)./The Three Kingdoms(pt.1)./The Three Kingdoms(pt.2).]
+- **8780**: Which memory will you have recalled? [Nothing./Cid's Secret./True Strength(pt.1)./True Strength(pt.2)./The Doorman./Dark Legacy./Dark Puppet./Cornelia's Plea./The Weight of Your Limits(pt.1)./The Weight of Your Limits(pt.2)./The Weight of Your Limits(pt.3)./Shoot First...(pt.1)./Shoot First...(pt.2)./Shoot First...(pt.3)./Faded Promises(pt.1)./Faded Promises(pt.2)./Faded Promises(pt.3)./136th C.E.A.(pt.1)./136th C.E.A.(pt.2)./Conflict./Out of the Depths./A Question of Faith./Return to the Depths(pt.1)./Return to the Depths(pt.2)./Teak me to the Stars./Hyper Active./The Naming Game(pt.1)./The Naming Game(pt.2).]
+- **8781**: Which memory will you have recalled? [Nothing./Bait and Switch(pt.1)./Bait and Switch(pt.2)./Bait and Switch(pt.3)./Bait and Switch(pt.4)./Bait and Switch(pt.5)./Bait and Switch(pt.6)./Bait and Switch(pt.7)./Bait and Switch(pt.8)./Bait and Switch(pt.9)./Bait and Switch(pt.10)./Too Many Chefs(pt.1)./Too Many Chefs(pt.2)./Too Many Chefs(pt.3)./Fires of Discontent./Synergistic Pursuits(pt.1)./Synergistic Pursuits(pt.2)./Bonds of Mythril./Synergistic Support(pt.1)./Synergistic Support(pt.2)./Synergistic Support(pt.3)./Trust: Bastok(pt.1)./Trust: Bastok(pt.2).]
+- **8782**: Which memory will you have recalled? [Nothing./Annihilator./Conflict (San d'Oria)./Conflict (Windurst)./The Search for Goldmane./Message on the Wind./The Long March North(pt.1)./The Long March North(pt.2)./The Long March North(pt.3)./Waking the Colossus./Vegetable Vegetable Revolution./Trust (Ayame)./Trust (Volker)./Trust (Iron Eater)./Vegetable Vegetable Crisis./Vegetable Vegetable Frustration(pt.1)./Vegetable Vegetable Frustration(pt.2)./Vegetable Vegetable Frustration(pt.3).]
+- **8783**: Which memory will you have recalled? [Nothing./The Call of the Wyrmking./Tending Aged Wounds./The Enduring Tumult of War./Three Paths./Departures(pt.1)./Departures(pt.2)./And the Compass Guides./Flames for the Dead./One to Be Feared./Fire in the Eyes of Men(pt.1)./Fire in the Eyes of Men(pt.2)./Calm Before the Storm(pt.1)./Calm Before the Storm(pt.2)./Return to the East.]
 
 ## Events
 
@@ -147,7 +147,7 @@
   0: 0x0001 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "eton" with entities [EventEntity, EventEntity]
   1: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0013 [0x02] IF !(Work_Zone[8] <= Work_Zone[9]) GOTO 0x0021
-  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
+  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8775*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001F [0x21] END_EVENT
@@ -166,12 +166,12 @@
  18: 0x0071 [0x02] IF !(Work_Zone[7] == 4294967294*) GOTO 0x0080
  19: 0x0079 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  20: 0x0080 [0x02] IF !(ExtData[1]->WorkLocal[0] == 126*) GOTO 0x008E
- 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
+ 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8775*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
  22: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x008C [0x21] END_EVENT
  24: 0x008D [0x00] END_REQSTACK()
- 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8773*)
+ 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast."
  26: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0092 [0x02] IF !(ExtData[1]->WorkLocal[0] == 124*) GOTO 0x009D
@@ -186,13 +186,13 @@
  36: 0x00C6 [0x01] GOTO 0x01A0
  37: 0x00C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 62*) GOTO 0x00D4
  38: 0x00D1 [0x01] GOTO 0x01CF
- 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=8776*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=8777*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which memory will you have recalled? [Nothing./Bastok Missions./Foreign Missions./Bastok Quests 1./Bastok Quests 2./Other Quests./Promathia Missions.]"
  40: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  41: 0x00DC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x010B
 
 SUBROUTINE_00E4:
- 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=8777*, default_option=0*, option_flags=Work_Zone[2])
+ 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=8778*, default_option=0*, option_flags=Work_Zone[2])
     → "Which memory will you have recalled? [Nothing./The Zeruhn Report./A Geological Survey(pt.1)./A Geological Survey(pt.2)./Fetichism./The Crystal Line./Wading Beasts./The Emissary(pt.1)./The Emissary(pt.2)./The Emissary(pt.3)./The Four Musketeers./To the Forsaken Mines./Jeuno./Darkness Rising(pt.1)./Darkness Rising(pt.2)./Xarcabard, Land of Truths(pt.1)./Xarcabard, Land of Truths(pt.2)./The Pirates' Cove(pt.1)./The Pirates' Cove(pt.2)./The Final Image(pt.1)./The Final Image(pt.2)./On My Way(pt.1)./On My Way(pt.2)./The Chains That Bind Us(pt.1)./The Chains That Bind Us(pt.2)./The Salt of the Earth(pt.1)./The Salt of the Earth(pt.2)./The Salt of the Earth(pt.3)./Where Two Paths Converge(pt.1)./Where Two Paths Converge(pt.2).]"
  43: 0x00EB [0x25] WAIT_DIALOG_SELECT()
  44: 0x00EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
@@ -205,7 +205,7 @@ SUBROUTINE_0108:
  49: 0x010B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x013A
 
 SUBROUTINE_0113:
- 50: 0x0113 [0x24] CREATE_DIALOG(message_id=8778*, default_option=0*, option_flags=Work_Zone[3])
+ 50: 0x0113 [0x24] CREATE_DIALOG(message_id=8779*, default_option=0*, option_flags=Work_Zone[3])
     → "Which memory will you have recalled? [Nothing./Journey Abroad(pt.1)./Journey Abroad(pt.2a)./Journey Abroad(pt.2b)./Journey Abroad(pt.3)./Journey Abroad(pt.1)./Journey Abroad(pt.2)./The Three Kingdoms(pt.1)./The Three Kingdoms(pt.2)./The Three Kingdoms(pt.a)./The Three Kingdoms(pt.3)./The Three Kingdoms(pt.1)./The Three Kingdoms(pt.2).]"
  51: 0x011A [0x25] WAIT_DIALOG_SELECT()
  52: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012D
@@ -218,7 +218,7 @@ SUBROUTINE_0137:
  57: 0x013A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0169
 
 SUBROUTINE_0142:
- 58: 0x0142 [0x24] CREATE_DIALOG(message_id=8779*, default_option=0*, option_flags=Work_Zone[4])
+ 58: 0x0142 [0x24] CREATE_DIALOG(message_id=8780*, default_option=0*, option_flags=Work_Zone[4])
     → "Which memory will you have recalled? [Nothing./Cid's Secret./True Strength(pt.1)./True Strength(pt.2)./The Doorman./Dark Legacy./Dark Puppet./Cornelia's Plea./The Weight of Your Limits(pt.1)./The Weight of Your Limits(pt.2)./The Weight of Your Limits(pt.3)./Shoot First...(pt.1)./Shoot First...(pt.2)./Shoot First...(pt.3)./Faded Promises(pt.1)./Faded Promises(pt.2)./Faded Promises(pt.3)./136th C.E.A.(pt.1)./136th C.E.A.(pt.2)./Conflict./Out of the Depths./A Question of Faith./Return to the Depths(pt.1)./Return to the Depths(pt.2)./Teak me to the Stars./Hyper Active./The Naming Game(pt.1)./The Naming Game(pt.2).]"
  59: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  60: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
@@ -231,7 +231,7 @@ SUBROUTINE_0166:
  65: 0x0169 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0198
 
 SUBROUTINE_0171:
- 66: 0x0171 [0x24] CREATE_DIALOG(message_id=8780*, default_option=0*, option_flags=Work_Zone[5])
+ 66: 0x0171 [0x24] CREATE_DIALOG(message_id=8781*, default_option=0*, option_flags=Work_Zone[5])
     → "Which memory will you have recalled? [Nothing./Bait and Switch(pt.1)./Bait and Switch(pt.2)./Bait and Switch(pt.3)./Bait and Switch(pt.4)./Bait and Switch(pt.5)./Bait and Switch(pt.6)./Bait and Switch(pt.7)./Bait and Switch(pt.8)./Bait and Switch(pt.9)./Bait and Switch(pt.10)./Too Many Chefs(pt.1)./Too Many Chefs(pt.2)./Too Many Chefs(pt.3)./Fires of Discontent./Synergistic Pursuits(pt.1)./Synergistic Pursuits(pt.2)./Bonds of Mythril./Synergistic Support(pt.1)./Synergistic Support(pt.2)./Synergistic Support(pt.3)./Trust: Bastok(pt.1)./Trust: Bastok(pt.2).]"
  67: 0x0178 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0179 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
@@ -244,7 +244,7 @@ SUBROUTINE_0195:
  73: 0x0198 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01C7
 
 SUBROUTINE_01A0:
- 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=8781*, default_option=0*, option_flags=Work_Zone[6])
+ 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=8782*, default_option=0*, option_flags=Work_Zone[6])
     → "Which memory will you have recalled? [Nothing./Annihilator./Conflict (San d'Oria)./Conflict (Windurst)./The Search for Goldmane./Message on the Wind./The Long March North(pt.1)./The Long March North(pt.2)./The Long March North(pt.3)./Waking the Colossus./Vegetable Vegetable Revolution./Trust (Ayame)./Trust (Volker)./Trust (Iron Eater)./Vegetable Vegetable Crisis./Vegetable Vegetable Frustration(pt.1)./Vegetable Vegetable Frustration(pt.2)./Vegetable Vegetable Frustration(pt.3).]"
  75: 0x01A7 [0x25] WAIT_DIALOG_SELECT()
  76: 0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BA
@@ -257,7 +257,7 @@ SUBROUTINE_01C4:
  81: 0x01C7 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x01F6
 
 SUBROUTINE_01CF:
- 82: 0x01CF [0x24] CREATE_DIALOG(message_id=8782*, default_option=0*, option_flags=Work_Zone[7])
+ 82: 0x01CF [0x24] CREATE_DIALOG(message_id=8783*, default_option=0*, option_flags=Work_Zone[7])
     → "Which memory will you have recalled? [Nothing./The Call of the Wyrmking./Tending Aged Wounds./The Enduring Tumult of War./Three Paths./Departures(pt.1)./Departures(pt.2)./And the Compass Guides./Flames for the Dead./One to Be Feared./Fire in the Eyes of Men(pt.1)./Fire in the Eyes of Men(pt.2)./Calm Before the Storm(pt.1)./Calm Before the Storm(pt.2)./Return to the East.]"
  83: 0x01D6 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E9

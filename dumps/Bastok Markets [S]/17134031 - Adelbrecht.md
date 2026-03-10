@@ -44,46 +44,46 @@
 |       3 | 0x001E      |          30 |
 |       4 | 0x0395      |         917 |
 |       5 | 0x0009      |           9 |
-|       6 | 0x2D1A      |       11546 |
-|       7 | 0x2D1B      |       11547 |
-|       8 | 0x2D1C      |       11548 |
+|       6 | 0x2D1B      |       11547 |
+|       7 | 0x2D1C      |       11548 |
+|       8 | 0x2D1D      |       11549 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x2D1D      |       11549 |
-|      11 | 0x2D1E      |       11550 |
-|      12 | 0x2D21      |       11553 |
-|      13 | 0x2D22      |       11554 |
-|      14 | 0x2D23      |       11555 |
-|      15 | 0x2D24      |       11556 |
-|      16 | 0x2D25      |       11557 |
-|      17 | 0x2D26      |       11558 |
-|      18 | 0x2D27      |       11559 |
-|      19 | 0x2D28      |       11560 |
-|      20 | 0x2D29      |       11561 |
-|      21 | 0x2D30      |       11568 |
-|      22 | 0x2D31      |       11569 |
+|      10 | 0x2D1E      |       11550 |
+|      11 | 0x2D1F      |       11551 |
+|      12 | 0x2D22      |       11554 |
+|      13 | 0x2D23      |       11555 |
+|      14 | 0x2D24      |       11556 |
+|      15 | 0x2D25      |       11557 |
+|      16 | 0x2D26      |       11558 |
+|      17 | 0x2D27      |       11559 |
+|      18 | 0x2D28      |       11560 |
+|      19 | 0x2D29      |       11561 |
+|      20 | 0x2D2A      |       11562 |
+|      21 | 0x2D31      |       11569 |
+|      22 | 0x2D32      |       11570 |
 |      23 | 0x002B      |          43 |
-|      24 | 0x353A      |       13626 |
-|      25 | 0x3549      |       13641 |
+|      24 | 0x353B      |       13627 |
+|      25 | 0x354A      |       13642 |
 |      26 | 0x0080      |         128 |
 
 ## String References
 
-- **11546**: I thought you didn't have any questions! Alright, I'll try to make myself a little clearer this time. Take those $3 to the Eduard Watchtower in North Gustaberg and give them to Centurion Gebhardt. Got it?
-- **11547**: Or...maybe you're thinking of throwing in the towel.
-- **11548**: Well, are you? [Sir, yes sir.../Sir, no sir!]
-- **11549**: Maybe I didn't hear you right! [Sir, I'm sorry, sir.../Sir, no sir!!!]
-- **11550**: Having second thoughts, eh? The life of a soldier too tough for a coward like you? Ready to run back home to Momma!? Go on then! The Fighting Fourth is no place for pond scum like you.
-- **11553**: That's what I thought. Now get those rations to the watchtower, double-time!
-- **11554**: Good work, rookie. You've passed the test with flying colors!
-- **11555**: ...Or at least that's what I'd say if you had passed the test with flying colors...which you haven't.
-- **11556**: I heard from Centurion Gebhardt that he asked you a small favor. Are you suggesting that your initiation test is more important than a direct order from a superior?
-- **11557**: Well then, it seems you have a lot more to learn about teamwork and honor. Now if you'll just move along, civilian, I have things to do.
-- **11558**: Good. Now get your butt over to the Benedikt Watchtower if you know what's good for you, rookie!
-- **11559**: I heard the news about the ambush.
-- **11560**: Now, in a situation like this, a civilian would probably just run back to his Mog House and hide under the covers until the turtlebacks decided in their infinite wisdom to kindly return the stolen communication. But I ask you, rookie, what would a soldier do?
-- **11561**: So the kitchen starts to heat up, and you head for the door, eh? Well, that's good to know now, ain't it. On your way, civilian.
-- **11568**: What are you doing, soldier? Head over to the next window and speak with Legion Engineer Aurelius on the double!
-- **11569**: So, you've finally come to your senses and decided to return to the Fighting Fourth? March on over to Centurion Fridolin and get your papers sorted out, soldier.
+- **11547**: I thought you didn't have any questions! Alright, I'll try to make myself a little clearer this time. Take those $3 to the Eduard Watchtower in North Gustaberg and give them to Centurion Gebhardt. Got it?
+- **11548**: Or...maybe you're thinking of throwing in the towel.
+- **11549**: Well, are you? [Sir, yes sir.../Sir, no sir!]
+- **11550**: Maybe I didn't hear you right! [Sir, I'm sorry, sir.../Sir, no sir!!!]
+- **11551**: Having second thoughts, eh? The life of a soldier too tough for a coward like you? Ready to run back home to Momma!? Go on then! The Fighting Fourth is no place for pond scum like you.
+- **11554**: That's what I thought. Now get those rations to the watchtower, double-time!
+- **11555**: Good work, rookie. You've passed the test with flying colors!
+- **11556**: ...Or at least that's what I'd say if you had passed the test with flying colors...which you haven't.
+- **11557**: I heard from Centurion Gebhardt that he asked you a small favor. Are you suggesting that your initiation test is more important than a direct order from a superior?
+- **11558**: Well then, it seems you have a lot more to learn about teamwork and honor. Now if you'll just move along, civilian, I have things to do.
+- **11559**: Good. Now get your butt over to the Benedikt Watchtower if you know what's good for you, rookie!
+- **11560**: I heard the news about the ambush.
+- **11561**: Now, in a situation like this, a civilian would probably just run back to his Mog House and hide under the covers until the turtlebacks decided in their infinite wisdom to kindly return the stolen communication. But I ask you, rookie, what would a soldier do?
+- **11562**: So the kitchen starts to heat up, and you head for the door, eh? Well, that's good to know now, ain't it. On your way, civilian.
+- **11569**: What are you doing, soldier? Head over to the next window and speak with Legion Engineer Aurelius on the double!
+- **11570**: So, you've finally come to your senses and decided to return to the Fighting Fourth? March on over to Centurion Fridolin and get your papers sorted out, soldier.
 
 ## Events
 
@@ -189,23 +189,23 @@
   2: 0x001C [0x1C] WAIT(30* ticks)
   3: 0x001F [0x03] Work_Zone[2] = 917*
   4: 0x0024 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=9*
-  5: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=11546*)
+  5: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=11547*)
     → "I thought you didn't have any questions! Alright, I'll try to make myself a little clearer this time. Take those $3 to the Eduard Watchtower in North Gustaberg and give them to Centurion Gebhardt. Got it?"
   6: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11547*)
+  7: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11548*)
     → "Or...maybe you're thinking of throwing in the towel."
   8: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [EventEntity, EventEntity], work=9*
- 10: 0x004A [0x24] CREATE_DIALOG(message_id=11548*, default_option=1*, option_flags=0*)
+ 10: 0x004A [0x24] CREATE_DIALOG(message_id=11549*, default_option=1*, option_flags=0*)
     → "Well, are you? [Sir, yes sir.../Sir, no sir!]"
  11: 0x0051 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0052 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008A
- 13: 0x005A [0x24] CREATE_DIALOG(message_id=11549*, default_option=1*, option_flags=0*)
+ 13: 0x005A [0x24] CREATE_DIALOG(message_id=11550*, default_option=1*, option_flags=0*)
     → "Maybe I didn't hear you right! [Sir, I'm sorry, sir.../Sir, no sir!!!]"
  14: 0x0061 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0062 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0087
  16: 0x006A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=9*
- 17: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=11550*)
+ 17: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=11551*)
     → "Having second thoughts, eh? The life of a soldier too tough for a coward like you? Ready to run back home to Momma!? Go on then! The Fighting Fourth is no place for pond scum like you."
  18: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x007D [0x03] Work_Zone[1] = 1*
@@ -217,7 +217,7 @@ SUBROUTINE_0087:
 
 SUBROUTINE_008A:
  23: 0x008A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=9*
- 24: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=11553*)
+ 24: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=11554*)
     → "That's what I thought. Now get those rations to the watchtower, double-time!"
  25: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x009D [0x21] END_EVENT
@@ -262,30 +262,30 @@ SUBROUTINE_008A:
   0: 0x009F [0x03] Work_Zone[1] = 0*
   1: 0x00A4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x00A9 [0x1C] WAIT(30* ticks)
-  3: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=11554*)
+  3: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=11555*)
     → "Good work, rookie. You've passed the test with flying colors!"
   4: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=9*
-  6: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=11555*)
+  6: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=11556*)
     → "...Or at least that's what I'd say if you had passed the test with flying colors...which you haven't."
   7: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11556*)
+  8: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11557*)
     → "I heard from Centurion Gebhardt that he asked you a small favor. Are you suggesting that your initiation test is more important than a direct order from a superior?"
   9: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [EventEntity, EventEntity], work=9*
- 11: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11547*)
+ 11: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11548*)
     → "Or...maybe you're thinking of throwing in the towel."
  12: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x00DA [0x24] CREATE_DIALOG(message_id=11548*, default_option=1*, option_flags=0*)
+ 13: 0x00DA [0x24] CREATE_DIALOG(message_id=11549*, default_option=1*, option_flags=0*)
     → "Well, are you? [Sir, yes sir.../Sir, no sir!]"
  14: 0x00E1 [0x25] WAIT_DIALOG_SELECT()
  15: 0x00E2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011A
- 16: 0x00EA [0x24] CREATE_DIALOG(message_id=11549*, default_option=1*, option_flags=0*)
+ 16: 0x00EA [0x24] CREATE_DIALOG(message_id=11550*, default_option=1*, option_flags=0*)
     → "Maybe I didn't hear you right! [Sir, I'm sorry, sir.../Sir, no sir!!!]"
  17: 0x00F1 [0x25] WAIT_DIALOG_SELECT()
  18: 0x00F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0117
  19: 0x00FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=9*
- 20: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=11557*)
+ 20: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=11558*)
     → "Well then, it seems you have a lot more to learn about teamwork and honor. Now if you'll just move along, civilian, I have things to do."
  21: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x010D [0x03] Work_Zone[1] = 1*
@@ -297,7 +297,7 @@ SUBROUTINE_0117:
 
 SUBROUTINE_011A:
  26: 0x011A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=9*
- 27: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=11558*)
+ 27: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=11559*)
     → "Good. Now get your butt over to the Benedikt Watchtower if you know what's good for you, rookie!"
  28: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x012D [0x21] END_EVENT
@@ -343,26 +343,26 @@ SUBROUTINE_011A:
   1: 0x0134 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0139 [0x1C] WAIT(30* ticks)
   3: 0x013C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=9*
-  4: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=11559*)
+  4: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=11560*)
     → "I heard the news about the ambush."
   5: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=11560*)
+  6: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=11561*)
     → "Now, in a situation like this, a civilian would probably just run back to his Mog House and hide under the covers until the turtlebacks decided in their infinite wisdom to kindly return the stolen communication. But I ask you, rookie, what would a soldier do?"
   7: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=11547*)
+  8: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=11548*)
     → "Or...maybe you're thinking of throwing in the towel."
   9: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0157 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [EventEntity, EventEntity], work=9*
- 11: 0x0166 [0x24] CREATE_DIALOG(message_id=11548*, default_option=1*, option_flags=0*)
+ 11: 0x0166 [0x24] CREATE_DIALOG(message_id=11549*, default_option=1*, option_flags=0*)
     → "Well, are you? [Sir, yes sir.../Sir, no sir!]"
  12: 0x016D [0x25] WAIT_DIALOG_SELECT()
  13: 0x016E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A6
- 14: 0x0176 [0x24] CREATE_DIALOG(message_id=11549*, default_option=1*, option_flags=0*)
+ 14: 0x0176 [0x24] CREATE_DIALOG(message_id=11550*, default_option=1*, option_flags=0*)
     → "Maybe I didn't hear you right! [Sir, I'm sorry, sir.../Sir, no sir!!!]"
  15: 0x017D [0x25] WAIT_DIALOG_SELECT()
  16: 0x017E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A3
  17: 0x0186 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=9*
- 18: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=11561*)
+ 18: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=11562*)
     → "So the kitchen starts to heat up, and you head for the door, eh? Well, that's good to know now, ain't it. On your way, civilian."
  19: 0x0198 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0199 [0x03] Work_Zone[1] = 1*
@@ -374,7 +374,7 @@ SUBROUTINE_01A3:
 
 SUBROUTINE_01A6:
  24: 0x01A6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=9*
- 25: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11558*)
+ 25: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11559*)
     → "Good. Now get your butt over to the Benedikt Watchtower if you know what's good for you, rookie!"
  26: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x01B9 [0x21] END_EVENT
@@ -436,11 +436,11 @@ SUBROUTINE_01A6:
   1: 0x01C1 [0x1C] WAIT(30* ticks)
   2: 0x01C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=9*
   3: 0x01D3 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x01E2
-  4: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=11568*)
+  4: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=11569*)
     → "What are you doing, soldier? Head over to the next window and speak with Legion Engineer Aurelius on the double!"
   5: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01DF [0x01] GOTO 0x01E6
-  7: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11569*)
+  7: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11570*)
     → "So, you've finally come to your senses and decided to return to the Fighting Fourth? March on over to Centurion Fridolin and get your papers sorted out, soldier."
   8: 0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -520,10 +520,10 @@ SUBROUTINE_01E6:
 ```
   0: 0x01FC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0201 [0x1C] WAIT(30* ticks)
-  2: 0x0204 [0x2B] EventEntity [13626*]:
+  2: 0x0204 [0x2B] EventEntity [13627*]:
     → "Looking for a half-Elvaan, half-Hume lass with a shock of red hair, eh? Sorry, but I've seen no one around here fitting that description."
   3: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x020C [0x2B] EventEntity [13641*]:
+  4: 0x020C [0x2B] EventEntity [13642*]:
     → "If she ever comes by, though, I'll be sure to let you know."
   5: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0214 [0x21] END_EVENT

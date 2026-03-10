@@ -25,36 +25,36 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1ECB      |        7883 |
-|       1 | 0x1ECC      |        7884 |
-|       2 | 0x1ECD      |        7885 |
+|       0 | 0x1ECC      |        7884 |
+|       1 | 0x1ECD      |        7885 |
+|       2 | 0x1ECE      |        7886 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1ECE      |        7886 |
+|       5 | 0x1ECF      |        7887 |
 |       6 | 0x0032      |          50 |
-|       7 | 0x1ECF      |        7887 |
-|       8 | 0x1ED0      |        7888 |
-|       9 | 0x1ED1      |        7889 |
-|      10 | 0x1ED2      |        7890 |
+|       7 | 0x1ED0      |        7888 |
+|       8 | 0x1ED1      |        7889 |
+|       9 | 0x1ED2      |        7890 |
+|      10 | 0x1ED3      |        7891 |
 |      11 | 0x001E      |          30 |
-|      12 | 0x1ED3      |        7891 |
-|      13 | 0x1ED4      |        7892 |
+|      12 | 0x1ED4      |        7892 |
+|      13 | 0x1ED5      |        7893 |
 |      14 | 0x00C9      |         201 |
-|      15 | 0x1ED5      |        7893 |
+|      15 | 0x1ED6      |        7894 |
 
 ## String References
 
-- **7883**: No, that won't do... <Sigh>... Nothing I do ever goes rrright...
-- **7884**: <Sigh>... Nothing I do ever-- Oh, a visitor. Perrrhaps you could help me. Heaven knows I can't seem to help myself...
-- **7885**: Help her? [Sounds like she needs it./Not getting involved.]
-- **7886**: Oh, I underrrstand. Too busy being a [hero/heroine] to care about a poor worrrthless loser like me. Fine. Run off and live your wonderful life, and leave me to my miserrry...
-- **7887**: Therrre you go again, Peshi... Always countin' on talented strrrangers to do things you're too incompetent to do yourself... "What happened to you? You used to be such a rrray of sunshine!" everyone says. That was before I rrrealized how meaningless everything is... How useless I am...
-- **7888**: What was I saying? Oh, I need some $0 to make crrrappy weapons that won't help anyone anyway. They're burrried around here somewhere that my worthless brain couldn't be botherrred to remember.
-- **7889**: You'll need $1 to dig them up. Here, take this one. If I tried to use it, I'd prrrobably just drop it and brrreak my foot anyway.
-- **7890**: I'd offer my supporrrt, but I'd probably just get in the way. Just like I always do...<sigh>
-- **7891**: There's a surrrprise. Once again, a stranger perrrforms with ease a task I couldn't manage if I took a hundrrred years... Ah. I mean, thank you.
-- **7892**: 'Course, I'm probably just gonna end up brrreakin' these $0, anyway. Just watch. It's just a matterrr of time before I'll need you to bail me out again.
-- **7893**: Oh, look. It's the [man/lady] who's so much better than me at everything. Do you think you could find me some more $0?
+- **7884**: No, that won't do... <Sigh>... Nothing I do ever goes rrright...
+- **7885**: <Sigh>... Nothing I do ever-- Oh, a visitor. Perrrhaps you could help me. Heaven knows I can't seem to help myself...
+- **7886**: Help her? [Sounds like she needs it./Not getting involved.]
+- **7887**: Oh, I underrrstand. Too busy being a [hero/heroine] to care about a poor worrrthless loser like me. Fine. Run off and live your wonderful life, and leave me to my miserrry...
+- **7888**: Therrre you go again, Peshi... Always countin' on talented strrrangers to do things you're too incompetent to do yourself... "What happened to you? You used to be such a rrray of sunshine!" everyone says. That was before I rrrealized how meaningless everything is... How useless I am...
+- **7889**: What was I saying? Oh, I need some $0 to make crrrappy weapons that won't help anyone anyway. They're burrried around here somewhere that my worthless brain couldn't be botherrred to remember.
+- **7890**: You'll need $1 to dig them up. Here, take this one. If I tried to use it, I'd prrrobably just drop it and brrreak my foot anyway.
+- **7891**: I'd offer my supporrrt, but I'd probably just get in the way. Just like I always do...<sigh>
+- **7892**: There's a surrrprise. Once again, a stranger perrrforms with ease a task I couldn't manage if I took a hundrrred years... Ah. I mean, thank you.
+- **7893**: 'Course, I'm probably just gonna end up brrreakin' these $0, anyway. Just watch. It's just a matterrr of time before I'll need you to bail me out again.
+- **7894**: Oh, look. It's the [man/lady] who's so much better than me at everything. Do you think you could find me some more $0?
 
 ## Events
 
@@ -102,7 +102,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
     → "No, that won't do... <Sigh>... Nothing I do ever goes rrright..."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -139,16 +139,16 @@
   1: 0x000F [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0014 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0015 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
+  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
     → "<Sigh>... Nothing I do ever-- Oh, a visitor. Perrrhaps you could help me. Heaven knows I can't seem to help myself..."
   5: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001A [0x24] CREATE_DIALOG(message_id=7885*, default_option=1*, option_flags=0*)
+  6: 0x001A [0x24] CREATE_DIALOG(message_id=7886*, default_option=1*, option_flags=0*)
     → "Help her? [Sounds like she needs it./Not getting involved.]"
   7: 0x0021 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0022 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0032
   9: 0x002A [0x03] Work_Zone[1] = 0*
  10: 0x002F [0x01] GOTO 0x003D
- 11: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
+ 11: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7887*)
     → "Oh, I underrrstand. Too busy being a [hero/heroine] to care about a poor worrrthless loser like me. Fine. Run off and live your wonderful life, and leave me to my miserrry..."
  12: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0036 [0x03] Work_Zone[1] = 1*
@@ -157,16 +157,16 @@
 
 SUBROUTINE_003D:
  16: 0x003D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 17: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7887*)
+ 17: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7888*)
     → "Therrre you go again, Peshi... Always countin' on talented strrrangers to do things you're too incompetent to do yourself... "What happened to you? You used to be such a rrray of sunshine!" everyone says. That was before I rrrealized how meaningless everything is... How useless I am..."
  18: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7888*)
+ 19: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7889*)
     → "What was I saying? Oh, I need some $0 to make crrrappy weapons that won't help anyone anyway. They're burrried around here somewhere that my worthless brain couldn't be botherrred to remember."
  20: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7889*)
+ 21: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
     → "You'll need $1 to dig them up. Here, take this one. If I tried to use it, I'd prrrobably just drop it and brrreak my foot anyway."
  22: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
+ 23: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
     → "I'd offer my supporrrt, but I'd probably just get in the way. Just like I always do...<sigh>"
  24: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x005C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -198,7 +198,7 @@ SUBROUTINE_003D:
   0: 0x0073 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0078 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0079 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
+  3: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
     → "I'd offer my supporrrt, but I'd probably just get in the way. Just like I always do...<sigh>"
   4: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x007E [0x21] END_EVENT
@@ -232,11 +232,11 @@ SUBROUTINE_003D:
   1: 0x0081 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0086 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0087 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
+  4: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
     → "There's a surrrprise. Once again, a stranger perrrforms with ease a task I couldn't manage if I took a hundrrred years... Ah. I mean, thank you."
   5: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  7: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
+  7: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
     → "'Course, I'm probably just gonna end up brrreakin' these $0, anyway. Just watch. It's just a matterrr of time before I'll need you to bail me out again."
   8: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x009F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -270,7 +270,7 @@ SUBROUTINE_003D:
   0: 0x00C7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00CC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00CD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
+  3: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
     → "'Course, I'm probably just gonna end up brrreakin' these $0, anyway. Just watch. It's just a matterrr of time before I'll need you to bail me out again."
   4: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00D2 [0x21] END_EVENT
@@ -301,7 +301,7 @@ SUBROUTINE_003D:
   1: 0x00D5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x00DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
+  4: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
     → "Oh, look. It's the [man/lady] who's so much better than me at everything. Do you think you could find me some more $0?"
   5: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00E0 [0x21] END_EVENT

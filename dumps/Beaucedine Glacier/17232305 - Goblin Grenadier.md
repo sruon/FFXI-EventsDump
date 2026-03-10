@@ -23,11 +23,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CF5      |        7413 |
+|       0 | 0x1CF6      |        7414 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1CF6      |        7414 |
-|       3 | 0x1CF7      |        7415 |
-|       4 | 0x1CF8      |        7416 |
+|       2 | 0x1CF7      |        7415 |
+|       3 | 0x1CF8      |        7416 |
+|       4 | 0x1CF9      |        7417 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0004      |           4 |
 |       7 | 0xFFFEA070  |  4294877296 |
@@ -42,60 +42,60 @@
 |      16 | 0x0006      |           6 |
 |      17 | 0x0007      |           7 |
 |      18 | 0x0008      |           8 |
-|      19 | 0x1CFB      |        7419 |
-|      20 | 0x1CFC      |        7420 |
-|      21 | 0x1CFD      |        7421 |
-|      22 | 0x1CFE      |        7422 |
-|      23 | 0x1CFF      |        7423 |
-|      24 | 0x1D00      |        7424 |
-|      25 | 0x1D01      |        7425 |
-|      26 | 0x1D02      |        7426 |
-|      27 | 0x1D03      |        7427 |
-|      28 | 0x1D04      |        7428 |
-|      29 | 0x1D05      |        7429 |
-|      30 | 0x1D06      |        7430 |
-|      31 | 0x1D07      |        7431 |
-|      32 | 0x1D08      |        7432 |
+|      19 | 0x1CFC      |        7420 |
+|      20 | 0x1CFD      |        7421 |
+|      21 | 0x1CFE      |        7422 |
+|      22 | 0x1CFF      |        7423 |
+|      23 | 0x1D00      |        7424 |
+|      24 | 0x1D01      |        7425 |
+|      25 | 0x1D02      |        7426 |
+|      26 | 0x1D03      |        7427 |
+|      27 | 0x1D04      |        7428 |
+|      28 | 0x1D05      |        7429 |
+|      29 | 0x1D06      |        7430 |
+|      30 | 0x1D07      |        7431 |
+|      31 | 0x1D08      |        7432 |
+|      32 | 0x1D09      |        7433 |
 |      33 | 0x0078      |         120 |
 |      34 | 0x003C      |          60 |
-|      35 | 0x1D09      |        7433 |
-|      36 | 0x1D0A      |        7434 |
-|      37 | 0x1D0B      |        7435 |
+|      35 | 0x1D0A      |        7434 |
+|      36 | 0x1D0B      |        7435 |
+|      37 | 0x1D0C      |        7436 |
 |      38 | 0x0039      |          57 |
 |      39 | 0x005A      |          90 |
-|      40 | 0x1D0C      |        7436 |
-|      41 | 0x1D0D      |        7437 |
-|      42 | 0x1D0E      |        7438 |
-|      43 | 0x1CF4      |        7412 |
-|      44 | 0x1CF3      |        7411 |
+|      40 | 0x1D0D      |        7437 |
+|      41 | 0x1D0E      |        7438 |
+|      42 | 0x1D0F      |        7439 |
+|      43 | 0x1CF5      |        7413 |
+|      44 | 0x1CF4      |        7412 |
 
 ## String References
 
-- **7412**: Yeah, whaddaya w-w-want? You wanna tr-tr-try your hand at the tr-tr-treasure game, ya say? Step r-r-right up and I'll tell ya how it's played!
-- **7413**: Ya need'ta hear the r-r-rules? [Sure do!/Already heard 'em.]
-- **7414**: Simple g-g-game, simple rules. Unlock treasure chest, get stuff inside. Bring said stuff back to the m-m-moogle emcee. Easy as Goblin pie, no?
-- **7415**: But here's the c-c-catch... We've locked the chest with a super-secret m-m-magic number. Ya'll have to visit six spots s-s-scattered around this glacier. Elementals pop up, they m-m-mark the magic number on your $3.
-- **7416**: Guess wrong or leave the area, and ya gotta do it all over again. Hey, nobody said this would be e-e-easy! What? I did!? Sh-sh-shut up!
-- **7419**: Whaddaya w-w-want? [Nothing./Tell me the rules./Gimme a hint./I'm ready to open the chest.]
-- **7420**: Ya really want a h-h-hint? Not smart enough to f-f-figure it out on your own, eh?
-- **7421**: Ya s-s-sure? [On second thought, forget it./Hook me up.]
-- **7422**: Okay, you're the b-b-boss. The magic number is [five or h-h-higher/l-l-less than five]. If ya can c-c-count that high...
-- **7423**: What? Another h-h-hint? Aren't you supposed to be smarter'n us G-G-Gobbies?
-- **7424**: Ya really need another hint? [No, not really./Yes, really.]
-- **7425**: The magic number is [o-o-odd/e-e-even].
-- **7426**: I ain't g-g-got any more hints for ya. Use your own b-b-brains now...if ya got any.
-- **7427**: Ya sure ya got the answer? Remember, ya only gets one g-g-guess.
-- **7428**: Ready to g-g-guess? [Uh, no./Ready as I'll ever be.]
-- **7429**: Enter a single digit between 0 and 9.
-- **7430**: Ooh...$0, you s-s-say? Is that your f-f-final answer?
-- **7431**: $0? That's your answer? [On second thought.../I'm sure of it!]
-- **7432**: $0... [He/She] s-s-says $0, ladies and g-g-gobs! Now it's t-t-time for the moment of truth! Will [he/she] go home a champ, or a ch-ch-chump?
-- **7433**: Well, smack my g-g-gob and call me a Goobbue! [He's/She's] done it! [He's/She's] really d-d-done it!
-- **7434**: T-t-take this here $3, and bring it back to the moogle for your hard earned r-r-reward! And let's give [him/her] a r-r-rousing round of applause!
-- **7435**: Can ya believe it, f-f-folks!? [He/She] landed the loot without needing a single l-l-lousy hint! And for that, we've got a s-s-special prize for [him/her]!
-- **7436**: Can ya b-b-believe it, folks!? [He/She] landed the loot with only a single l-l-lousy hint! And for that, we've got a special p-p-prize for [him/her]!
-- **7437**: <Bzzzt!>...Ohhhhhh, I'm sorry! Looks like you chose p-p-poorly. As a parting gift, you get...absolutely n-n-nothing. Better luck next t-t-time!
-- **7438**: The treasure chest remains tightly sealed.
+- **7413**: Yeah, whaddaya w-w-want? You wanna tr-tr-try your hand at the tr-tr-treasure game, ya say? Step r-r-right up and I'll tell ya how it's played!
+- **7414**: Ya need'ta hear the r-r-rules? [Sure do!/Already heard 'em.]
+- **7415**: Simple g-g-game, simple rules. Unlock treasure chest, get stuff inside. Bring said stuff back to the m-m-moogle emcee. Easy as Goblin pie, no?
+- **7416**: But here's the c-c-catch... We've locked the chest with a super-secret m-m-magic number. Ya'll have to visit six spots s-s-scattered around this glacier. Elementals pop up, they m-m-mark the magic number on your $3.
+- **7417**: Guess wrong or leave the area, and ya gotta do it all over again. Hey, nobody said this would be e-e-easy! What? I did!? Sh-sh-shut up!
+- **7420**: Whaddaya w-w-want? [Nothing./Tell me the rules./Gimme a hint./I'm ready to open the chest.]
+- **7421**: Ya really want a h-h-hint? Not smart enough to f-f-figure it out on your own, eh?
+- **7422**: Ya s-s-sure? [On second thought, forget it./Hook me up.]
+- **7423**: Okay, you're the b-b-boss. The magic number is [five or h-h-higher/l-l-less than five]. If ya can c-c-count that high...
+- **7424**: What? Another h-h-hint? Aren't you supposed to be smarter'n us G-G-Gobbies?
+- **7425**: Ya really need another hint? [No, not really./Yes, really.]
+- **7426**: The magic number is [o-o-odd/e-e-even].
+- **7427**: I ain't g-g-got any more hints for ya. Use your own b-b-brains now...if ya got any.
+- **7428**: Ya sure ya got the answer? Remember, ya only gets one g-g-guess.
+- **7429**: Ready to g-g-guess? [Uh, no./Ready as I'll ever be.]
+- **7430**: Enter a single digit between 0 and 9.
+- **7431**: Ooh...$0, you s-s-say? Is that your f-f-final answer?
+- **7432**: $0? That's your answer? [On second thought.../I'm sure of it!]
+- **7433**: $0... [He/She] s-s-says $0, ladies and g-g-gobs! Now it's t-t-time for the moment of truth! Will [he/she] go home a champ, or a ch-ch-chump?
+- **7434**: Well, smack my g-g-gob and call me a Goobbue! [He's/She's] done it! [He's/She's] really d-d-done it!
+- **7435**: T-t-take this here $3, and bring it back to the moogle for your hard earned r-r-reward! And let's give [him/her] a r-r-rousing round of applause!
+- **7436**: Can ya believe it, f-f-folks!? [He/She] landed the loot without needing a single l-l-lousy hint! And for that, we've got a s-s-special prize for [him/her]!
+- **7437**: Can ya b-b-believe it, folks!? [He/She] landed the loot with only a single l-l-lousy hint! And for that, we've got a special p-p-prize for [him/her]!
+- **7438**: <Bzzzt!>...Ohhhhhh, I'm sorry! Looks like you chose p-p-poorly. As a parting gift, you get...absolutely n-n-nothing. Better luck next t-t-time!
+- **7439**: The treasure chest remains tightly sealed.
 
 ## Events
 
@@ -148,18 +148,18 @@
   2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000A [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
-  5: 0x000F [0x24] CREATE_DIALOG(message_id=7413*, default_option=0*, option_flags=0*)
+  5: 0x000F [0x24] CREATE_DIALOG(message_id=7414*, default_option=0*, option_flags=0*)
     → "Ya need'ta hear the r-r-rules? [Sure do!/Already heard 'em.]"
   6: 0x0016 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0017 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0033
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "Simple g-g-game, simple rules. Unlock treasure chest, get stuff inside. Bring said stuff back to the m-m-moogle emcee. Easy as Goblin pie, no?"
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 11: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 11: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "But here's the c-c-catch... We've locked the chest with a super-secret m-m-magic number. Ya'll have to visit six spots s-s-scattered around this glacier. Elementals pop up, they m-m-mark the magic number on your $3."
  12: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+ 13: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "Guess wrong or leave the area, and ya gotta do it all over again. Hey, nobody said this would be e-e-easy! What? I did!? Sh-sh-shut up!"
  14: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0030 [0x01] GOTO 0x003E
@@ -418,14 +418,14 @@ SUBROUTINE_0793:
  60: 0x0793 [0x1E] EventEntity looks at LocalPlayer and starts talking
  61: 0x0798 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  62: 0x0799 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 63: 0x079A [0x24] CREATE_DIALOG(message_id=7419*, default_option=0*, option_flags=0*)
+ 63: 0x079A [0x24] CREATE_DIALOG(message_id=7420*, default_option=0*, option_flags=0*)
     → "Whaddaya w-w-want? [Nothing./Tell me the rules./Gimme a hint./I'm ready to open the chest.]"
  64: 0x07A1 [0x25] WAIT_DIALOG_SELECT()
  65: 0x07A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07AE
  66: 0x07AA [0x21] END_EVENT
 
 SUBROUTINE_0819:
- 67: 0x0819 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
+ 67: 0x0819 [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
     → "Okay, you're the b-b-boss. The magic number is [five or h-h-higher/l-l-less than five]. If ya can c-c-count that high..."
  68: 0x081C [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x081D [0x01] GOTO 0x0820
@@ -433,17 +433,17 @@ SUBROUTINE_0819:
 SUBROUTINE_0820:
  70: 0x0820 [0x01] GOTO 0x0889
  71: 0x0823 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x087A
- 72: 0x082B [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
+ 72: 0x082B [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
     → "What? Another h-h-hint? Aren't you supposed to be smarter'n us G-G-Gobbies?"
  73: 0x082E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x082F [0x24] CREATE_DIALOG(message_id=7424*, default_option=0*, option_flags=0*)
+ 74: 0x082F [0x24] CREATE_DIALOG(message_id=7425*, default_option=0*, option_flags=0*)
     → "Ya really need another hint? [No, not really./Yes, really.]"
  75: 0x0836 [0x25] WAIT_DIALOG_SELECT()
  76: 0x0837 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0843
  77: 0x083F [0x21] END_EVENT
 
 SUBROUTINE_0870:
- 78: 0x0870 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+ 78: 0x0870 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "The magic number is [o-o-odd/e-e-even]."
  79: 0x0873 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0874 [0x01] GOTO 0x0877
@@ -451,7 +451,7 @@ SUBROUTINE_0870:
 SUBROUTINE_0877:
  81: 0x0877 [0x01] GOTO 0x0889
  82: 0x087A [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x0889
- 83: 0x0882 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+ 83: 0x0882 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
     → "I ain't g-g-got any more hints for ya. Use your own b-b-brains now...if ya got any."
  84: 0x0885 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0886 [0x01] GOTO 0x0889
@@ -459,10 +459,10 @@ SUBROUTINE_0877:
 SUBROUTINE_0889:
  86: 0x0889 [0x01] GOTO 0x09D9
  87: 0x088C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x09D9
- 88: 0x0894 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
+ 88: 0x0894 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "Ya sure ya got the answer? Remember, ya only gets one g-g-guess."
  89: 0x0897 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x0898 [0x24] CREATE_DIALOG(message_id=7428*, default_option=0*, option_flags=0*)
+ 90: 0x0898 [0x24] CREATE_DIALOG(message_id=7429*, default_option=0*, option_flags=0*)
     → "Ready to g-g-guess? [Uh, no./Ready as I'll ever be.]"
  91: 0x089F [0x25] WAIT_DIALOG_SELECT()
  92: 0x08A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08AC
@@ -477,10 +477,10 @@ SUBROUTINE_0980:
  99: 0x099B [0x03] Work_Zone[1] = 3*
 100: 0x09A0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 101: 0x09A2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-102: 0x09A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+102: 0x09A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "<Bzzzt!>...Ohhhhhh, I'm sorry! Looks like you chose p-p-poorly. As a parting gift, you get...absolutely n-n-nothing. Better luck next t-t-time!"
 103: 0x09A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x09A8 [0x48] [System] [7438*]:
+104: 0x09A8 [0x48] [System] [7439*]:
     → "The treasure chest remains tightly sealed."
 105: 0x09AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -913,21 +913,21 @@ SUBROUTINE_09D9:
   5: 0x09E7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   6: 0x09EC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x09ED [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  8: 0x09EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+  8: 0x09EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "Yeah, whaddaya w-w-want? You wanna tr-tr-try your hand at the tr-tr-treasure game, ya say? Step r-r-right up and I'll tell ya how it's played!"
   9: 0x09F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x09F2 [0x24] CREATE_DIALOG(message_id=7413*, default_option=0*, option_flags=0*)
+ 10: 0x09F2 [0x24] CREATE_DIALOG(message_id=7414*, default_option=0*, option_flags=0*)
     → "Ya need'ta hear the r-r-rules? [Sure do!/Already heard 'em.]"
  11: 0x09F9 [0x25] WAIT_DIALOG_SELECT()
  12: 0x09FA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A3A
- 13: 0x0A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+ 13: 0x0A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "Simple g-g-game, simple rules. Unlock treasure chest, get stuff inside. Bring said stuff back to the m-m-moogle emcee. Easy as Goblin pie, no?"
  14: 0x0A05 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0A06 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 16: 0x0A0B [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 16: 0x0A0B [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "But here's the c-c-catch... We've locked the chest with a super-secret m-m-magic number. Ya'll have to visit six spots s-s-scattered around this glacier. Elementals pop up, they m-m-mark the magic number on your $3."
  17: 0x0A0E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0A0F [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+ 18: 0x0A0F [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "Guess wrong or leave the area, and ya gotta do it all over again. Hey, nobody said this would be e-e-easy! What? I did!? Sh-sh-shut up!"
  19: 0x0A12 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0A13 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=0*
@@ -938,7 +938,7 @@ SUBROUTINE_09D9:
  25: 0x0A31 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=5*
  26: 0x0A37 [0x01] GOTO 0x0A6D
  27: 0x0A3A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0A6D
- 28: 0x0A42 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+ 28: 0x0A42 [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "Guess wrong or leave the area, and ya gotta do it all over again. Hey, nobody said this would be e-e-easy! What? I did!? Sh-sh-shut up!"
  29: 0x0A45 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0A46 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=0*
@@ -982,7 +982,7 @@ SUBROUTINE_0A6D:
   4: 0x0A76 [0x1E] EventEntity looks at LocalPlayer and starts talking
   5: 0x0A7B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0A7C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  7: 0x0A7D [0x2B] Goblin Grenadier (ID: 17232305/0x0106F1B1) [7411*]:
+  7: 0x0A7D [0x2B] Goblin Grenadier (ID: 17232305/0x0106F1B1) [7412*]:
     → "Yeah? I'm a b-b-busy Gobbie. I've got better things to do than listen to your y-y-yammerin'."
   8: 0x0A84 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0A85 [0x21] END_EVENT

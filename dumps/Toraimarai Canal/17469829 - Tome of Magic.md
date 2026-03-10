@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D23      |        7459 |
-|       1 | 0x1D24      |        7460 |
-|       2 | 0x1D25      |        7461 |
+|       0 | 0x1D24      |        7460 |
+|       1 | 0x1D25      |        7461 |
+|       2 | 0x1D26      |        7462 |
 
 ## String References
 
-- **7459**: This book contains a history of the Horutoto Ruins.
-- **7460**: "Based on the literature housed in the Optistery, the Horutoto Ruins of Sarutabaruta date back to the time of the first Star Sibyl..."
-- **7461**: "The architecture of the buildings, the technology used, the highly advanced magical theory... All of this points to the existence of an ancient civilization in the area."
+- **7460**: This book contains a history of the Horutoto Ruins.
+- **7461**: "Based on the literature housed in the Optistery, the Horutoto Ruins of Sarutabaruta date back to the time of the first Star Sibyl..."
+- **7462**: "The architecture of the buildings, the technology used, the highly advanced magical theory... All of this points to the existence of an ancient civilization in the area."
 
 ## Events
 
@@ -74,13 +74,13 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "This book contains a history of the Horutoto Ruins."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → ""Based on the literature housed in the Optistery, the Horutoto Ruins of Sarutabaruta date back to the time of the first Star Sibyl...""
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
+  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
     → ""The architecture of the buildings, the technology used, the highly advanced magical theory... All of this points to the existence of an ancient civilization in the area.""
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

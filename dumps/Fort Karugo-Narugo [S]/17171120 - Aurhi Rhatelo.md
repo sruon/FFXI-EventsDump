@@ -21,10 +21,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1FF3      |        8179 |
-|       2 | 0x1FF4      |        8180 |
+|       1 | 0x1FF4      |        8180 |
+|       2 | 0x1FF5      |        8181 |
 |       3 | 0x000C      |          12 |
-|       4 | 0x1FF5      |        8181 |
+|       4 | 0x1FF6      |        8182 |
 
 ## Events
 
@@ -74,15 +74,15 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
-  2: 0x0009 [0x2B] EventEntity [8179*]:
+  2: 0x0009 [0x2B] EventEntity [8180*]:
     → "The Mithra Mercenaries are orrrganized into three main factions."
   3: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0011 [0x2B] EventEntity [8180*]:
+  4: 0x0011 [0x2B] EventEntity [8181*]:
     → "First, there are the marine forces, who were in Windurst from the beginning. Then there is the unit that hurried to our aid from Elshimo. And finally, the volunteers from Olzhirya."
   5: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0019 [0x6E] EventEntity uses emote 12*
   7: 0x0020 [0x99] Wait for EventEntity animation to complete
-  8: 0x0025 [0x2B] EventEntity [8181*]:
+  8: 0x0025 [0x2B] EventEntity [8182*]:
     → "They may all be from different areas, but they're all hot-temperrred, short-fused, and never back down from a fight. I'm just glad I'm on their side, hehehe."
   9: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002D [0x99] Wait for EventEntity animation to complete

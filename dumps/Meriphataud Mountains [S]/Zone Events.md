@@ -66,7 +66,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EAF      |        7855 |
+|       0 | 0x1EB0      |        7856 |
 |       1 | 0x00EA      |         234 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x003C      |          60 |
@@ -184,7 +184,7 @@
 
 ## String References
 
-- **7855**: The sandworm swallows you whole!
+- **7856**: The sandworm swallows you whole!
 
 ## Events
 
@@ -253,7 +253,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7855*]:
+  1: 0x0003 [0x48] [System] [7856*]:
     → "The sandworm swallows you whole!"
   2: 0x0006 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
   3: 0x0017 [0x1C] WAIT(60* ticks)

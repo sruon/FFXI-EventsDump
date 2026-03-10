@@ -27,17 +27,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x26FD      |        9981 |
-|       3 | 0x26FE      |        9982 |
-|       4 | 0x2863      |       10339 |
-|       5 | 0x2864      |       10340 |
+|       2 | 0x26FE      |        9982 |
+|       3 | 0x26FF      |        9983 |
+|       4 | 0x2864      |       10340 |
+|       5 | 0x2865      |       10341 |
 
 ## String References
 
-- **9981**: So what is all this talk about anotherrr Great Warrr over in the continents?
-- **9982**: You just watch. When the flames of battle start raging, it will be the Mithra who save everyone's tails.
-- **10339**: Just because something looks interesting doesn't mean you should be putting yourrr paws on it! On what? Why, that flowerrr you touched!
-- **10340**: Wherrre did you think this terrible smell was coming from? Don't tell me you didn't notice.
+- **9982**: So what is all this talk about anotherrr Great Warrr over in the continents?
+- **9983**: You just watch. When the flames of battle start raging, it will be the Mithra who save everyone's tails.
+- **10340**: Just because something looks interesting doesn't mean you should be putting yourrr paws on it! On what? Why, that flowerrr you touched!
+- **10341**: Wherrre did you think this terrible smell was coming from? Don't tell me you didn't notice.
 
 ## Events
 
@@ -136,10 +136,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsui Golalapahn (ID: 17801219/0x010FA003), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9981*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9982*)
     → "So what is all this talk about anotherrr Great Warrr over in the continents?"
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9982*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9983*)
     → "You just watch. When the flames of battle start raging, it will be the Mithra who save everyone's tails."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsui Golalapahn (ID: 17801219/0x010FA003), tag_num=0x02)
@@ -173,10 +173,10 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsui Golalapahn (ID: 17801219/0x010FA003), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10339*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10340*)
     → "Just because something looks interesting doesn't mean you should be putting yourrr paws on it! On what? Why, that flowerrr you touched!"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10340*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10341*)
     → "Wherrre did you think this terrible smell was coming from? Don't tell me you didn't notice."
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsui Golalapahn (ID: 17801219/0x010FA003), tag_num=0x02)

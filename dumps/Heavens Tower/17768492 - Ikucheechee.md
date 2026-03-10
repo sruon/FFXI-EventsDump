@@ -49,12 +49,12 @@
 |      11 | 0x01CF      |         463 |
 |      12 | 0x01FD      |         509 |
 |      13 | 0x01FE      |         510 |
-|      14 | 0x2064      |        8292 |
-|      15 | 0x2065      |        8293 |
-|      16 | 0x20F0      |        8432 |
-|      17 | 0x20F1      |        8433 |
-|      18 | 0x214C      |        8524 |
-|      19 | 0x214D      |        8525 |
+|      14 | 0x2065      |        8293 |
+|      15 | 0x2066      |        8294 |
+|      16 | 0x20F1      |        8433 |
+|      17 | 0x20F2      |        8434 |
+|      18 | 0x214D      |        8525 |
+|      19 | 0x214E      |        8526 |
 
 ## String References
 
@@ -70,12 +70,12 @@
 - **463**: If Jeuno would only take the first step, then Windurst could follow...safely...
 - **509**: Night in and night out, I had been having nothing but nasty nightmares. A coffin, shrouded in darkness, opens slowly and...AHHHHH!
 - **510**: But I did not have that dreadful dream last night. Does this mean the nightmare is over...or only just...AHHHHH!
-- **8292**: I wonder how the sinuously sly Sibyl Guards fared in the battle?
-- **8293**: We ladies-in-waiting are not being allowed into the Planetarium. So if you, my admirably acquainted adventurer, could ask for us, we would be most appreciative.
-- **8432**: The strenuously striving Sibyl Guards seem terribly tired. They don't seem to have a moment to relax.
-- **8433**: I prepared some snacks to refresh their lagging lackluster spirits, but the Mithra probably aren't fond of sweets...
-- **8524**: The Sibyl Guards seem to have sustained injuries during their sporadic scuffles with the Cardians.
-- **8525**: The wounds were mostaruly cuts and bruises, but injuries are injuries. They should be taking it easy-weasy for a while.
+- **8293**: I wonder how the sinuously sly Sibyl Guards fared in the battle?
+- **8294**: We ladies-in-waiting are not being allowed into the Planetarium. So if you, my admirably acquainted adventurer, could ask for us, we would be most appreciative.
+- **8433**: The strenuously striving Sibyl Guards seem terribly tired. They don't seem to have a moment to relax.
+- **8434**: I prepared some snacks to refresh their lagging lackluster spirits, but the Mithra probably aren't fond of sweets...
+- **8525**: The Sibyl Guards seem to have sustained injuries during their sporadic scuffles with the Cardians.
+- **8526**: The wounds were mostaruly cuts and bruises, but injuries are injuries. They should be taking it easy-weasy for a while.
 
 ## Events
 
@@ -514,10 +514,10 @@
   1: 0x0122 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0123 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0124 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikucheechee (ID: 17768492/0x010F202C), tag_num=0x01)
-  4: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
+  4: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
     → "I wonder how the sinuously sly Sibyl Guards fared in the battle?"
   5: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
+  6: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
     → "We ladies-in-waiting are not being allowed into the Planetarium. So if you, my admirably acquainted adventurer, could ask for us, we would be most appreciative."
   7: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0133 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikucheechee (ID: 17768492/0x010F202C), tag_num=0x02)
@@ -551,10 +551,10 @@
   1: 0x0143 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0144 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0145 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikucheechee (ID: 17768492/0x010F202C), tag_num=0x01)
-  4: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=8432*)
+  4: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=8433*)
     → "The strenuously striving Sibyl Guards seem terribly tired. They don't seem to have a moment to relax."
   5: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=8433*)
+  6: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=8434*)
     → "I prepared some snacks to refresh their lagging lackluster spirits, but the Mithra probably aren't fond of sweets..."
   7: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0154 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikucheechee (ID: 17768492/0x010F202C), tag_num=0x02)
@@ -588,10 +588,10 @@
   1: 0x0164 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0165 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0166 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikucheechee (ID: 17768492/0x010F202C), tag_num=0x01)
-  4: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=8524*)
+  4: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=8525*)
     → "The Sibyl Guards seem to have sustained injuries during their sporadic scuffles with the Cardians."
   5: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=8525*)
+  6: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=8526*)
     → "The wounds were mostaruly cuts and bruises, but injuries are injuries. They should be taking it easy-weasy for a while."
   7: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0175 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikucheechee (ID: 17768492/0x010F202C), tag_num=0x02)

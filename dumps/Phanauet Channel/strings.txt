@@ -1,5 +1,5 @@
 # Strings for Phanauet Channel
-# Total: 7430 strings
+# Total: 7431 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7339,95 +7339,96 @@
  7335: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7336: You receive $0 bayld!
  7337: Your chocobo refuses to partake of the $0.
- 7338: $3 [$7340624$P10i$s$J$n]
- 7339: $3 [$7340625$P10i$s$J$n]
- 7340: $3 [$7340626$P10i$s$J$n]
- 7341: $3 [$7340627$P10i$s$J$n]
- 7342: $3 [$4981307$P11<p$P10i$s$J$n]
- 7343: Time: $0 Route: $1
- 7344: Ready............FISH!
- 7345: Almost to 100...
- 7346: Approaching 200!
- 7347: Hmmm..."00...
- 7348: 400 already!
- 7349: 500!
- 7350: 600 already!?
- 7351: Oh! 700!
- 7352: 8...800!?
- 7353: 900... Well, oh me, oh my!
- 7354: It looks like today we shall be navigating the Newtpool route. I am much too old to handle any excitement, so if you spot any monsters, make sure you take care of them for me, all right?
- 7355: These waters are crawling with nasty lizards. They seem to be attracted to the flies that skim across the surface.
- 7356: We are now passing through Newtpool. I've heard rumors that an ugly blue-and-gray beast with a triangle-shaped head and four burning red eyes lurks in this forsaken place...
- 7357: We have almost arrived at the edge of the pool. There'll be less of those pesky lizards nibbling on your bait, but you will still have to be cautious.
- 7358: To your right you will see the Emfea Waterway. Now, those waters are crisp and clear--prime for fishing. Not a slimy lizard for malms.
- 7359: We will be arriving at Central Landing shortly. I must rest a spell before continuing on my journey, though. At my age it is difficult to make these long trips.
- 7360: Hey, everyone. We'll be traveling the Emfea Waterway today. I'm sorry, I'm going to have to ask you to take care of any monsters that have decided to hop aboard, as I...um...seem to have forgotten my sword at home.
- 7361: Due to the close proximity of Newtpool and the abundance of insects, you will find that these waters are quite packed with tiny amphibians.
- 7362: If we turned right, we would end up on the main canal. However, today we will be taking a much narrower route.
- 7363: Ah, Emfea. The variety of life in these waters does not cease to astound me. Just be careful not to reel in something deadly...
- 7364: That bridge does look awfully dangerous. I wonder if there are any plans to repair it.
- 7365: This part of the canal is overrun with newts and frogs. I doubt there is even room down there for a single fish!
- 7366: Ah, I see we are about to arrive at Central Landing. How time flies when taking in the lovely scenery!
- 7367: Oh, I hope this trip doesn't take too long. My grandson in San d'Oria is waiting for me.
- 7368: We will be entering the main canal shortly. The last time I took this barge with my grandson, the waves were so high he almost fell into the water!
- 7369: Would you look at that waterfall? My grandson named it Ineuteniace Falls. Am I not the luckiest grandfather in all the Kingdom?
- 7370: Two currents meet at this spot here. The colder water from one lowers the temperature of the river, causing a change in the types of fish that can be caught.
- 7371: The air around here is quite chilly, is it not? I cannot wait to sit down at my daughter's table and have a sip of her delicious whitefish soup.
- 7372: Well, it looks like we have finally arrived at North Landing. I hope my grandson enjoys the trout I caught for him on the trip.
- 7373: Something has caught on Ineuteniace's line!
- 7374: Today we will be taking the main canal to Central Landing. I have nothing better to do, so I will be your guide.
- 7375: Ah, feel the crisp breeze waft up off the crystal waters. I hear the fish swimming in these currents are some of the most delicious in all Vana'diel!
- 7376: There is a fork in the canal up ahead. We shall be using the route to the right, but I wonder where the canal would take us if we continued straight...
- 7377: Not only fish can be caught in this area. If you are lucky, you might be able to reel in a couple of scrumptious lizards.
- 7378: Oh, it looks like we are almost to Central Landing. It has been fun, but I must hurry home and water my plants before they all dry up, kupo!
- 7379: What in Altana's name have you brought onto the barge!? Hurry and take care of this mess!
- 7380: A... A m-m-m-monster!!! Altana, save meeeeee!!!
- 7381: Is it gone? Can I look now?
- 7382: Cannot this vessel travel any faster? At my age, every minute counts!
- 7383: <Sigh> Are we there yet?
- 7384: Gone on now! Stop chatting and start slicing!
- 7385: Hi! My name's Khots Chalahko, and I'll be your guide to today's trip around Dhalmel Rock!
- 7386: Still not much to see, is there? Well, you just hold on, because you're in for the ride of your life!
- 7387: On your right you can see Washboard Wake. I've heard some huge fish swim in these waters. Just be careful not to bust your rod!
- 7388: Ta-dah! Dhalmel Rock. So, what do you think? Prrretty spectacularrr, huh?
- 7389: So long, Dhalmel Rock! We'll never forget your towerrring pillars, your sheerrr slopes, and your pinkish hues!
- 7390: And here we are at the end of our tour. I hope to see you again sometime!
- 7391: Hi! My name's Khots Chalahko, and I'll be your guide to today's trip around the Maliyakaleya Reef!
- 7392: And on your left is...well...nothing that interrresting. You can't even catch anything bigger than a Bastore Bream in these waters.
- 7393: Hold on, everybody. The currents become violent up here. I've seen my share of fishermen and women having their lines sucked right into the whirlpools.
- 7394: Here we are, the Maliyakaleya Reef. Prrretty amazing piece of Mother Nature's work, wouldn't you say? This place is teeming with all sorts of exotic sea life.
- 7395: Well, that's it for the reefs. Other than cliffs of Buburimu, there's not much to see on the way back. I'd suggest sitting back and relaxing a bit.
- 7396: And here we are at the end of our tour. I hope to see you again sometime!
- 7397: Hi! My name's Khots Chalahko, and I'll be your guide to today's trip to the trrropical paradise of Purgonorgo Isle!
- 7398: The water here is prrretty deep, so don't be surprised if something big starts pulling on your line! (Though a lot of times it's just a clump of seaweed.)
- 7399: We're getting close to the islands surrounding Purgonorgo. This area is known for its rrridiculously rrrapid currents. I've even heard rumors of a sea monster attacking lonely manaclippers...
- 7400: We've passed the first set of islands and entered the waters of the Gugru Blue. These are some of the best waters for catching those pointy fish... What were they called again?
- 7401: Look up there. You can see Purgonorgo Isle rrright ahead. The waters here are warm, and the fish are colorful and tasty!
- 7402: Well, it looks like our trip is almost over. Don't forget anything on the boat!
- 7403: Hi! My name's Khots Chalahko, and I'll be your guide to today's trip back to Sunset Docks!
- 7404: Goodbye, Purgonorgo... Hello, Gugru Blue! You should have no problem reeling in some colossal catches.
- 7405: We'll be passing by some of the outer islands here shortly. Some tasty morsels swim around down there, but beware of the monster...
- 7406: We're headed for some calm waters up ahead. It's pretty safe to fish around here, but you won't catch anything too interrresting.
- 7407: Look! You can see the Buburimu Peninsula!
- 7408: Phew. Back at Sunset Docks, safe and sound. I'll see you around again sometime!
- 7409: Wh-what the heck is that thing!? Come on! Get it off my boat!
- 7410: Phew... I lost about eight and a half of my nine lives back there...
- 7411: Ahhh... Isn't it grrreat out here on the open sea!?
- 7412: Now's not the time for idle conversation, buddy! Get that monster off my boat!!!
- 7413: O-o-o-o... O-o-o-o... O-o-o...Orc!!!
- 7414: <Sigh>... If it was not for your bravery, I most certainly would have reached the light at the end of that tunnel...
- 7415: It looks like we shall be navigating the Newtpool route today. As you may already know, I am much too old to handle any excitement, so if you spot any monsters, make sure you take care of them for me.
- 7416: If you look closely, you can see where the main canal, the Emfea Waterway, and Newtpool converge. Breathtaking, is it not?
- 7417: We will be arriving at South Landing shortly. I must rest a spell before continuing on my journey, though. At my age it is difficult to make these long trips.
- 7418: The $3 is taken from you!
- 7419: The Tonberry is poised to begin writing!
- 7420: What do you ask? [What kind of person is Count Teulomme?/Is someone threatening Count Teulomme?/Have you been asked to do something?/What have you been asked to do?/To where?]
- 7421: Bad person.
- 7422: Don't know.
- 7423: Yes.
- 7424: Bring $2.
- 7425: Davoi. Waterfall.
- 7426: $2...Davoi...waterfall...
- 7427: This barge is currently en route to [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal].
- 7428: We should arrive there in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours] ($0 [minute/minutes] in Earth time).
- 7429: We are nearing [South Landing/Central Landing/North Landing/Central Landing].
+ 7338: Your wing skill improved to $0!
+ 7339: $3 [$7340624$P10i$s$J$n]
+ 7340: $3 [$7340625$P10i$s$J$n]
+ 7341: $3 [$7340626$P10i$s$J$n]
+ 7342: $3 [$7340627$P10i$s$J$n]
+ 7343: $3 [$4981307$P11<p$P10i$s$J$n]
+ 7344: Time: $0 Route: $1
+ 7345: Ready............FISH!
+ 7346: Almost to 100...
+ 7347: Approaching 200!
+ 7348: Hmmm..."00...
+ 7349: 400 already!
+ 7350: 500!
+ 7351: 600 already!?
+ 7352: Oh! 700!
+ 7353: 8...800!?
+ 7354: 900... Well, oh me, oh my!
+ 7355: It looks like today we shall be navigating the Newtpool route. I am much too old to handle any excitement, so if you spot any monsters, make sure you take care of them for me, all right?
+ 7356: These waters are crawling with nasty lizards. They seem to be attracted to the flies that skim across the surface.
+ 7357: We are now passing through Newtpool. I've heard rumors that an ugly blue-and-gray beast with a triangle-shaped head and four burning red eyes lurks in this forsaken place...
+ 7358: We have almost arrived at the edge of the pool. There'll be less of those pesky lizards nibbling on your bait, but you will still have to be cautious.
+ 7359: To your right you will see the Emfea Waterway. Now, those waters are crisp and clear--prime for fishing. Not a slimy lizard for malms.
+ 7360: We will be arriving at Central Landing shortly. I must rest a spell before continuing on my journey, though. At my age it is difficult to make these long trips.
+ 7361: Hey, everyone. We'll be traveling the Emfea Waterway today. I'm sorry, I'm going to have to ask you to take care of any monsters that have decided to hop aboard, as I...um...seem to have forgotten my sword at home.
+ 7362: Due to the close proximity of Newtpool and the abundance of insects, you will find that these waters are quite packed with tiny amphibians.
+ 7363: If we turned right, we would end up on the main canal. However, today we will be taking a much narrower route.
+ 7364: Ah, Emfea. The variety of life in these waters does not cease to astound me. Just be careful not to reel in something deadly...
+ 7365: That bridge does look awfully dangerous. I wonder if there are any plans to repair it.
+ 7366: This part of the canal is overrun with newts and frogs. I doubt there is even room down there for a single fish!
+ 7367: Ah, I see we are about to arrive at Central Landing. How time flies when taking in the lovely scenery!
+ 7368: Oh, I hope this trip doesn't take too long. My grandson in San d'Oria is waiting for me.
+ 7369: We will be entering the main canal shortly. The last time I took this barge with my grandson, the waves were so high he almost fell into the water!
+ 7370: Would you look at that waterfall? My grandson named it Ineuteniace Falls. Am I not the luckiest grandfather in all the Kingdom?
+ 7371: Two currents meet at this spot here. The colder water from one lowers the temperature of the river, causing a change in the types of fish that can be caught.
+ 7372: The air around here is quite chilly, is it not? I cannot wait to sit down at my daughter's table and have a sip of her delicious whitefish soup.
+ 7373: Well, it looks like we have finally arrived at North Landing. I hope my grandson enjoys the trout I caught for him on the trip.
+ 7374: Something has caught on Ineuteniace's line!
+ 7375: Today we will be taking the main canal to Central Landing. I have nothing better to do, so I will be your guide.
+ 7376: Ah, feel the crisp breeze waft up off the crystal waters. I hear the fish swimming in these currents are some of the most delicious in all Vana'diel!
+ 7377: There is a fork in the canal up ahead. We shall be using the route to the right, but I wonder where the canal would take us if we continued straight...
+ 7378: Not only fish can be caught in this area. If you are lucky, you might be able to reel in a couple of scrumptious lizards.
+ 7379: Oh, it looks like we are almost to Central Landing. It has been fun, but I must hurry home and water my plants before they all dry up, kupo!
+ 7380: What in Altana's name have you brought onto the barge!? Hurry and take care of this mess!
+ 7381: A... A m-m-m-monster!!! Altana, save meeeeee!!!
+ 7382: Is it gone? Can I look now?
+ 7383: Cannot this vessel travel any faster? At my age, every minute counts!
+ 7384: <Sigh> Are we there yet?
+ 7385: Gone on now! Stop chatting and start slicing!
+ 7386: Hi! My name's Khots Chalahko, and I'll be your guide to today's trip around Dhalmel Rock!
+ 7387: Still not much to see, is there? Well, you just hold on, because you're in for the ride of your life!
+ 7388: On your right you can see Washboard Wake. I've heard some huge fish swim in these waters. Just be careful not to bust your rod!
+ 7389: Ta-dah! Dhalmel Rock. So, what do you think? Prrretty spectacularrr, huh?
+ 7390: So long, Dhalmel Rock! We'll never forget your towerrring pillars, your sheerrr slopes, and your pinkish hues!
+ 7391: And here we are at the end of our tour. I hope to see you again sometime!
+ 7392: Hi! My name's Khots Chalahko, and I'll be your guide to today's trip around the Maliyakaleya Reef!
+ 7393: And on your left is...well...nothing that interrresting. You can't even catch anything bigger than a Bastore Bream in these waters.
+ 7394: Hold on, everybody. The currents become violent up here. I've seen my share of fishermen and women having their lines sucked right into the whirlpools.
+ 7395: Here we are, the Maliyakaleya Reef. Prrretty amazing piece of Mother Nature's work, wouldn't you say? This place is teeming with all sorts of exotic sea life.
+ 7396: Well, that's it for the reefs. Other than cliffs of Buburimu, there's not much to see on the way back. I'd suggest sitting back and relaxing a bit.
+ 7397: And here we are at the end of our tour. I hope to see you again sometime!
+ 7398: Hi! My name's Khots Chalahko, and I'll be your guide to today's trip to the trrropical paradise of Purgonorgo Isle!
+ 7399: The water here is prrretty deep, so don't be surprised if something big starts pulling on your line! (Though a lot of times it's just a clump of seaweed.)
+ 7400: We're getting close to the islands surrounding Purgonorgo. This area is known for its rrridiculously rrrapid currents. I've even heard rumors of a sea monster attacking lonely manaclippers...
+ 7401: We've passed the first set of islands and entered the waters of the Gugru Blue. These are some of the best waters for catching those pointy fish... What were they called again?
+ 7402: Look up there. You can see Purgonorgo Isle rrright ahead. The waters here are warm, and the fish are colorful and tasty!
+ 7403: Well, it looks like our trip is almost over. Don't forget anything on the boat!
+ 7404: Hi! My name's Khots Chalahko, and I'll be your guide to today's trip back to Sunset Docks!
+ 7405: Goodbye, Purgonorgo... Hello, Gugru Blue! You should have no problem reeling in some colossal catches.
+ 7406: We'll be passing by some of the outer islands here shortly. Some tasty morsels swim around down there, but beware of the monster...
+ 7407: We're headed for some calm waters up ahead. It's pretty safe to fish around here, but you won't catch anything too interrresting.
+ 7408: Look! You can see the Buburimu Peninsula!
+ 7409: Phew. Back at Sunset Docks, safe and sound. I'll see you around again sometime!
+ 7410: Wh-what the heck is that thing!? Come on! Get it off my boat!
+ 7411: Phew... I lost about eight and a half of my nine lives back there...
+ 7412: Ahhh... Isn't it grrreat out here on the open sea!?
+ 7413: Now's not the time for idle conversation, buddy! Get that monster off my boat!!!
+ 7414: O-o-o-o... O-o-o-o... O-o-o...Orc!!!
+ 7415: <Sigh>... If it was not for your bravery, I most certainly would have reached the light at the end of that tunnel...
+ 7416: It looks like we shall be navigating the Newtpool route today. As you may already know, I am much too old to handle any excitement, so if you spot any monsters, make sure you take care of them for me.
+ 7417: If you look closely, you can see where the main canal, the Emfea Waterway, and Newtpool converge. Breathtaking, is it not?
+ 7418: We will be arriving at South Landing shortly. I must rest a spell before continuing on my journey, though. At my age it is difficult to make these long trips.
+ 7419: The $3 is taken from you!
+ 7420: The Tonberry is poised to begin writing!
+ 7421: What do you ask? [What kind of person is Count Teulomme?/Is someone threatening Count Teulomme?/Have you been asked to do something?/What have you been asked to do?/To where?]
+ 7422: Bad person.
+ 7423: Don't know.
+ 7424: Yes.
+ 7425: Bring $2.
+ 7426: Davoi. Waterfall.
+ 7427: $2...Davoi...waterfall...
+ 7428: This barge is currently en route to [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal].
+ 7429: We should arrive there in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours] ($0 [minute/minutes] in Earth time).
+ 7430: We are nearing [South Landing/Central Landing/North Landing/Central Landing].

@@ -27,7 +27,7 @@
 |       4 | 0x003C      |          60 |
 |       5 | 0x0078      |         120 |
 |       6 | 0x0090      |         144 |
-|       7 | 0x1EDB      |        7899 |
+|       7 | 0x1EDC      |        7900 |
 |       8 | 0x005A      |          90 |
 
 ## Events
@@ -141,7 +141,7 @@
  35: 0x0144 [0x1C] WAIT(60* ticks)
  36: 0x0147 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17195681/0x010662A1), tag_num=0x04)
  37: 0x014E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak1" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
- 38: 0x015F [0x2B] Chocobo (ID: 17195680/0x010662A0) [7899*]:
+ 38: 0x015F [0x2B] Chocobo (ID: 17195680/0x010662A0) [7900*]:
     → "Kweh!"
  39: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0167 [0x2A] GET_REQ_LEVEL(level=5, entity_id=LocalPlayer)

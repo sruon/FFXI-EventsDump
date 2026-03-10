@@ -28,15 +28,15 @@
 |       4 | 0x0018      |          24 |
 |       5 | 0x001F      |          31 |
 |       6 | 0x003C      |          60 |
-|       7 | 0x2018      |        8216 |
-|       8 | 0x2019      |        8217 |
+|       7 | 0x2019      |        8217 |
+|       8 | 0x201A      |        8218 |
 |       9 | 0x0466      |        1126 |
-|      10 | 0x201A      |        8218 |
-|      11 | 0x201B      |        8219 |
-|      12 | 0x201C      |        8220 |
-|      13 | 0x201D      |        8221 |
-|      14 | 0x201E      |        8222 |
-|      15 | 0x201F      |        8223 |
+|      10 | 0x201B      |        8219 |
+|      11 | 0x201C      |        8220 |
+|      12 | 0x201D      |        8221 |
+|      13 | 0x201E      |        8222 |
+|      14 | 0x201F      |        8223 |
+|      15 | 0x2020      |        8224 |
 |      16 | 0x0003      |           3 |
 |      17 | 0x0004      |           4 |
 |      18 | 0x0005      |           5 |
@@ -49,69 +49,69 @@
 |      25 | 0x0013      |          19 |
 |      26 | 0x001C      |          28 |
 |      27 | 0x001D      |          29 |
-|      28 | 0x2027      |        8231 |
-|      29 | 0x2028      |        8232 |
-|      30 | 0x2029      |        8233 |
-|      31 | 0x202A      |        8234 |
-|      32 | 0x202B      |        8235 |
-|      33 | 0x202C      |        8236 |
-|      34 | 0x202D      |        8237 |
-|      35 | 0x202E      |        8238 |
-|      36 | 0x202F      |        8239 |
-|      37 | 0x2030      |        8240 |
-|      38 | 0x2031      |        8241 |
-|      39 | 0x2032      |        8242 |
+|      28 | 0x2028      |        8232 |
+|      29 | 0x2029      |        8233 |
+|      30 | 0x202A      |        8234 |
+|      31 | 0x202B      |        8235 |
+|      32 | 0x202C      |        8236 |
+|      33 | 0x202D      |        8237 |
+|      34 | 0x202E      |        8238 |
+|      35 | 0x202F      |        8239 |
+|      36 | 0x2030      |        8240 |
+|      37 | 0x2031      |        8241 |
+|      38 | 0x2032      |        8242 |
+|      39 | 0x2033      |        8243 |
 |      40 | 0x0001      |           1 |
-|      41 | 0x2033      |        8243 |
+|      41 | 0x2034      |        8244 |
 |      42 | 0x0002      |           2 |
-|      43 | 0x2034      |        8244 |
-|      44 | 0x2035      |        8245 |
+|      43 | 0x2035      |        8245 |
+|      44 | 0x2036      |        8246 |
 |      45 | 0x000B      |          11 |
 |      46 | 0x000C      |          12 |
 |      47 | 0x000F      |          15 |
 |      48 | 0x0010      |          16 |
 |      49 | 0x0011      |          17 |
-|      50 | 0x2036      |        8246 |
+|      50 | 0x2037      |        8247 |
 |      51 | 0x0014      |          20 |
 |      52 | 0x0015      |          21 |
 |      53 | 0x0016      |          22 |
-|      54 | 0x2037      |        8247 |
-|      55 | 0x2038      |        8248 |
-|      56 | 0x2039      |        8249 |
-|      57 | 0x203A      |        8250 |
-|      58 | 0x203B      |        8251 |
+|      54 | 0x2038      |        8248 |
+|      55 | 0x2039      |        8249 |
+|      56 | 0x203A      |        8250 |
+|      57 | 0x203B      |        8251 |
+|      58 | 0x203C      |        8252 |
 
 ## String References
 
-- **8216**: This appears to be an elite training field set up by the Adventurers' Mutual Aid Network (A.M.A.N.).
-- **8217**: A parchment bearing information on elite training has been placed here.
-- **8218**: To commence your training regime, trade $1, gil, or a piece of equipment while in possession of $6.
-- **8219**: You can trade up to $1 $0 .
-- **8220**: You can trade up to $0 gil.
-- **8221**: You can trade one equipment item that is level $0 or below.
-- **8222**: You have $0 [minute/minutes] (Earth time) to complete this training regime.
-- **8223**: You can undertake no more than one elite training regime per day (Earth time).
-- **8231**: Debug: [No/Yes]F
-- **8232**: Ability Type: [Balanced/Attacking/Status Effects]
-- **8233**: Magic Type: [None/WHM/BLM/RDM/PLD/DRK/BRD]
-- **8234**: Auto-attack Effect: [None/Fire/Ice/Wind/Earth/Lightning/Water/Drain/Aspir/Absorb TP/Poison/Darkness/Paralize/Slow/Silence/Plauge/Curse/Petrify]
-- **8235**: Barrier Effect: [None/Blaze Spikes/Ice Spikes/Shock Spikes/Fire Absorption/Ice Absorption/Wind Absorption/Earth Absorption/Lightning Absorption/Water Absorption/Lesser Stoneskin/Greater Stoneskin/Utsusemi 3/Utsusemi 6/Utsusemi 9/Immune to Fire/Immune to Ice/Immune to Wind/Immune to Earth/Immune to Lightning/Immune to Water/Immune to Light/Immune to Darkness]
-- **8236**: Main Offense: [None/Attack 15% up/Attack 30% up/Attack 45% up/Magic Attack 15% up/Magic Attack 30% up/Magic Attack 45% up/Attack Delay 10$19 down/Attack Delay 20$19 down/Attack Delay 30$19 down/Critical Hit Rate 20% up/Critical Hit Rate 40% up/Double Attack Rate 25% up/Double Attack Rate 50% up/Triple Attack Rate 15% up/Triple Attack Rate 30% up]
-- **8237**: Main Defense: [None/Distance 15% down/Distance 30% down/Distance 45% down/Magic Distance 15% down/Magic Distance 30% down/Magic Distance 45% down/Evasion 10% up/Evasion 15% up/Magic Evasion 15% up]
-- **8238**: Sub Offense: [None/TP Regen 30/TP Regen 60/TP Regen 90/Fast Casting 15%/Fast Casting 30%/Fast Casting 45%/Lower TP Expenditure: Low/Lower TP Expenditure: Mid/Lower TP Expenditure: High/Shorter Recast Time: Low/Shorter Recast Time: Mid/Shorter Recast Time: High/Shorter Ability Casting: Low/Shorter Ability Casting: Mid/Shorter Ability Casting: High/Elemental Seal/Uber Accuracy]
-- **8239**: Sub Defense: [None/Lesser Regen/Moderate Regen/Greater Regen/PC Killer 10%/PC Killer 20%/PC Killer 30%/Immune to Stun/Invulnerable Casting/Immune to Sleep/Immune to Poison/Immune to Paralysis/Immune to Darkness/Immune to Silence/Immune to Slow/Immune to Bind/Immune to Weighing Down]
-- **8240**: Parameter: [None/STR+/DEX+/VIT+/AGI+/INT+/MND+/HP+]
-- **8241**: Say yes to debugging? [Uh-huh/Nuh-uh]
-- **8242**: What will you adjust? [Nothing/Ability Type/Magic Type/Auto-attack Effects/Barrier Effects/Main Offense/Main Defense/Sub Offense/Sub Defense/Parameters]
-- **8243**: Ability Type: [Balanced./Attacking./Status Effects.]
-- **8244**: Magic Type: [None./WHM./BLM./RDM./PLD./DRK./BRD.]
-- **8245**: Auto-attack Effect: [None/Fire/Ice/Wind/Earth/Lightning/Water/Drain/Aspir/Absorb TP/Poison/Darkness/Paralysis/Slow/Silence/Plague/Curse/Petrify]
-- **8246**: Barrier Effects: [None/Blaze Spikes/Ice Spikes/Shock Spikes/Fire Absorption/Ice Absorption/Wind Absorption/Earth Absorption/Lightning Absorption/Water Absorption/Lesser Stoneskin/Greater Stoneskin/Utsusemi 3/Utsusemi 6/Utsusemi 9/Immune to Fire/Immune to Ice/Immune to Wind/Immune to Earth/Immune to Lightning/Immune to Water/Immune to Light/Immune to Darkness]
-- **8247**: Main Offense: [None./Attack 15% up/Attack 30% up/Attack 45% up/Magic Attack 15% up/Magic Attack 30% up/Magic Attack 45% up/Attack Delay 10$19 down/Attack Delay 20$19 down/Attack Delay 30$19 down/Critical Hit Rate 20% up/Critical Hit Rate 40% up/Double Attack Rate 25% up/Double Attack Rate 50% up/Triple Attack Rate 15% up/Triple Attack Rate 30% up]
-- **8248**: Main Defense: [None./Distance 15% down/Distance 30% down/Distance 45% down/Magic Distance 15% down/Magic Distance 30% down/Magic Distance 45% down/Evasion 10% up/Evasion 15% up/Magic Evasion 15% up/Magic Evasion 30% up]
-- **8249**: Sub Offense: [None./TP Regen 30/TP Regen 60/TP Regen 90/Fast Casting 15%/Fast Casting 30%/Fast Casting 45%/Lower TP Expenditure: Low/Lower TP Expenditure: Mid/Lower TP Expenditure: High/Shorter Recast Time: Low/Shorter Recast Time: Mid/Shorter Recast Time: High/Shorter Ability Casting: Low/Shorter Ability Casting: Mid/Shorter Ability Casting: High/Elemental Seal/Uber Accuracy]
-- **8250**: Sub Defense: [None/Lesser Regen/Moderate Regen/Greater Regen/PC Killer 10%/PC Killer 20%/PC Killer 30%/Immune to Stun/Invulnerable Casting/Immune to Sleep/Immune to Poison/Immune to Paralysis/Immune to Darkness/Immune to Silence/Immune to Slow/Immune to Bind/Immune to Weighing Down]
-- **8251**: Select Parameter: [None./STR+/DEX+/VIT+/AGI+/INT+/MND+/HP+]
+- **8217**: This appears to be an elite training field set up by the Adventurers' Mutual Aid Network (A.M.A.N.).
+- **8218**: A parchment bearing information on elite training has been placed here.
+- **8219**: To commence your training regime, trade $1, gil, or a piece of equipment while in possession of $6.
+- **8220**: You can trade up to $1 $0 .
+- **8221**: You can trade up to $0 gil.
+- **8222**: You can trade one equipment item that is level $0 or below.
+- **8223**: You have $0 [minute/minutes] (Earth time) to complete this training regime.
+- **8224**: You can undertake no more than one elite training regime per day (Earth time).
+- **8232**: Debug: [No/Yes]F
+- **8233**: Ability Type: [Balanced/Attacking/Status Effects]
+- **8234**: Magic Type: [None/WHM/BLM/RDM/PLD/DRK/BRD]
+- **8235**: Auto-attack Effect: [None/Fire/Ice/Wind/Earth/Lightning/Water/Drain/Aspir/Absorb TP/Poison/Darkness/Paralize/Slow/Silence/Plauge/Curse/Petrify]
+- **8236**: Barrier Effect: [None/Blaze Spikes/Ice Spikes/Shock Spikes/Fire Absorption/Ice Absorption/Wind Absorption/Earth Absorption/Lightning Absorption/Water Absorption/Lesser Stoneskin/Greater Stoneskin/Utsusemi 3/Utsusemi 6/Utsusemi 9/Immune to Fire/Immune to Ice/Immune to Wind/Immune to Earth/Immune to Lightning/Immune to Water/Immune to Light/Immune to Darkness]
+- **8237**: Main Offense: [None/Attack 15% up/Attack 30% up/Attack 45% up/Magic Attack 15% up/Magic Attack 30% up/Magic Attack 45% up/Attack Delay 10$19 down/Attack Delay 20$19 down/Attack Delay 30$19 down/Critical Hit Rate 20% up/Critical Hit Rate 40% up/Double Attack Rate 25% up/Double Attack Rate 50% up/Triple Attack Rate 15% up/Triple Attack Rate 30% up]
+- **8238**: Main Defense: [None/Distance 15% down/Distance 30% down/Distance 45% down/Magic Distance 15% down/Magic Distance 30% down/Magic Distance 45% down/Evasion 10% up/Evasion 15% up/Magic Evasion 15% up]
+- **8239**: Sub Offense: [None/TP Regen 30/TP Regen 60/TP Regen 90/Fast Casting 15%/Fast Casting 30%/Fast Casting 45%/Lower TP Expenditure: Low/Lower TP Expenditure: Mid/Lower TP Expenditure: High/Shorter Recast Time: Low/Shorter Recast Time: Mid/Shorter Recast Time: High/Shorter Ability Casting: Low/Shorter Ability Casting: Mid/Shorter Ability Casting: High/Elemental Seal/Uber Accuracy]
+- **8240**: Sub Defense: [None/Lesser Regen/Moderate Regen/Greater Regen/PC Killer 10%/PC Killer 20%/PC Killer 30%/Immune to Stun/Invulnerable Casting/Immune to Sleep/Immune to Poison/Immune to Paralysis/Immune to Darkness/Immune to Silence/Immune to Slow/Immune to Bind/Immune to Weighing Down]
+- **8241**: Parameter: [None/STR+/DEX+/VIT+/AGI+/INT+/MND+/HP+]
+- **8242**: Say yes to debugging? [Uh-huh/Nuh-uh]
+- **8243**: What will you adjust? [Nothing/Ability Type/Magic Type/Auto-attack Effects/Barrier Effects/Main Offense/Main Defense/Sub Offense/Sub Defense/Parameters]
+- **8244**: Ability Type: [Balanced./Attacking./Status Effects.]
+- **8245**: Magic Type: [None./WHM./BLM./RDM./PLD./DRK./BRD.]
+- **8246**: Auto-attack Effect: [None/Fire/Ice/Wind/Earth/Lightning/Water/Drain/Aspir/Absorb TP/Poison/Darkness/Paralysis/Slow/Silence/Plague/Curse/Petrify]
+- **8247**: Barrier Effects: [None/Blaze Spikes/Ice Spikes/Shock Spikes/Fire Absorption/Ice Absorption/Wind Absorption/Earth Absorption/Lightning Absorption/Water Absorption/Lesser Stoneskin/Greater Stoneskin/Utsusemi 3/Utsusemi 6/Utsusemi 9/Immune to Fire/Immune to Ice/Immune to Wind/Immune to Earth/Immune to Lightning/Immune to Water/Immune to Light/Immune to Darkness]
+- **8248**: Main Offense: [None./Attack 15% up/Attack 30% up/Attack 45% up/Magic Attack 15% up/Magic Attack 30% up/Magic Attack 45% up/Attack Delay 10$19 down/Attack Delay 20$19 down/Attack Delay 30$19 down/Critical Hit Rate 20% up/Critical Hit Rate 40% up/Double Attack Rate 25% up/Double Attack Rate 50% up/Triple Attack Rate 15% up/Triple Attack Rate 30% up]
+- **8249**: Main Defense: [None./Distance 15% down/Distance 30% down/Distance 45% down/Magic Distance 15% down/Magic Distance 30% down/Magic Distance 45% down/Evasion 10% up/Evasion 15% up/Magic Evasion 15% up/Magic Evasion 30% up]
+- **8250**: Sub Offense: [None./TP Regen 30/TP Regen 60/TP Regen 90/Fast Casting 15%/Fast Casting 30%/Fast Casting 45%/Lower TP Expenditure: Low/Lower TP Expenditure: Mid/Lower TP Expenditure: High/Shorter Recast Time: Low/Shorter Recast Time: Mid/Shorter Recast Time: High/Shorter Ability Casting: Low/Shorter Ability Casting: Mid/Shorter Ability Casting: High/Elemental Seal/Uber Accuracy]
+- **8251**: Sub Defense: [None/Lesser Regen/Moderate Regen/Greater Regen/PC Killer 10%/PC Killer 20%/PC Killer 30%/Immune to Stun/Invulnerable Casting/Immune to Sleep/Immune to Poison/Immune to Paralysis/Immune to Darkness/Immune to Silence/Immune to Slow/Immune to Bind/Immune to Weighing Down]
+- **8252**: Select Parameter: [None./STR+/DEX+/VIT+/AGI+/INT+/MND+/HP+]
 
 ## Events
 
@@ -170,35 +170,35 @@
   4: 0x0021 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[4]
   5: 0x0026 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   6: 0x0028 [0x1C] WAIT(60* ticks)
-  7: 0x002B [0x48] [System] [8216*]:
+  7: 0x002B [0x48] [System] [8217*]:
     → "This appears to be an elite training field set up by the Adventurers' Mutual Aid Network (A.M.A.N.)."
   8: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002F [0x48] [System] [8217*]:
+  9: 0x002F [0x48] [System] [8218*]:
     → "A parchment bearing information on elite training has been placed here."
  10: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0033 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
  12: 0x0038 [0x03] Work_Zone[3] = 1126*
- 13: 0x003D [0x48] [System] [8218*]:
+ 13: 0x003D [0x48] [System] [8219*]:
     → "To commence your training regime, trade $1, gil, or a piece of equipment while in possession of $6."
  14: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0041 [0x03] Work_Zone[2] = 1126*
  16: 0x0046 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 17: 0x004B [0x48] [System] [8219*]:
+ 17: 0x004B [0x48] [System] [8220*]:
     → "You can trade up to $1 $0 ."
  18: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x004F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 20: 0x0054 [0x48] [System] [8220*]:
+ 20: 0x0054 [0x48] [System] [8221*]:
     → "You can trade up to $0 gil."
  21: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0058 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 23: 0x005D [0x48] [System] [8221*]:
+ 23: 0x005D [0x48] [System] [8222*]:
     → "You can trade one equipment item that is level $0 or below."
  24: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0061 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
- 26: 0x0066 [0x48] [System] [8222*]:
+ 26: 0x0066 [0x48] [System] [8223*]:
     → "You have $0 [minute/minutes] (Earth time) to complete this training regime."
  27: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x006A [0x48] [System] [8223*]:
+ 28: 0x006A [0x48] [System] [8224*]:
     → "You can undertake no more than one elite training regime per day (Earth time)."
  29: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x006E [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -421,57 +421,57 @@
  10: 0x00CB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
  11: 0x00CD [0x1C] WAIT(60* ticks)
  12: 0x00D0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
- 13: 0x00D5 [0x48] [System] [8231*]:
+ 13: 0x00D5 [0x48] [System] [8232*]:
     → "Debug: [No/Yes]F"
  14: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00D9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
- 16: 0x00DE [0x48] [System] [8232*]:
+ 16: 0x00DE [0x48] [System] [8233*]:
     → "Ability Type: [Balanced/Attacking/Status Effects]"
  17: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00E2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
- 19: 0x00E7 [0x48] [System] [8233*]:
+ 19: 0x00E7 [0x48] [System] [8234*]:
     → "Magic Type: [None/WHM/BLM/RDM/PLD/DRK/BRD]"
  20: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00EB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
- 22: 0x00F0 [0x48] [System] [8234*]:
+ 22: 0x00F0 [0x48] [System] [8235*]:
     → "Auto-attack Effect: [None/Fire/Ice/Wind/Earth/Lightning/Water/Drain/Aspir/Absorb TP/Poison/Darkness/Paralize/Slow/Silence/Plauge/Curse/Petrify]"
  23: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00F4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
- 25: 0x00F9 [0x48] [System] [8235*]:
+ 25: 0x00F9 [0x48] [System] [8236*]:
     → "Barrier Effect: [None/Blaze Spikes/Ice Spikes/Shock Spikes/Fire Absorption/Ice Absorption/Wind Absorption/Earth Absorption/Lightning Absorption/Water Absorption/Lesser Stoneskin/Greater Stoneskin/Utsusemi 3/Utsusemi 6/Utsusemi 9/Immune to Fire/Immune to Ice/Immune to Wind/Immune to Earth/Immune to Lightning/Immune to Water/Immune to Light/Immune to Darkness]"
  26: 0x00FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00FD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
- 28: 0x0102 [0x48] [System] [8236*]:
+ 28: 0x0102 [0x48] [System] [8237*]:
     → "Main Offense: [None/Attack 15% up/Attack 30% up/Attack 45% up/Magic Attack 15% up/Magic Attack 30% up/Magic Attack 45% up/Attack Delay 10$19 down/Attack Delay 20$19 down/Attack Delay 30$19 down/Critical Hit Rate 20% up/Critical Hit Rate 40% up/Double Attack Rate 25% up/Double Attack Rate 50% up/Triple Attack Rate 15% up/Triple Attack Rate 30% up]"
  29: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0106 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
- 31: 0x010B [0x48] [System] [8237*]:
+ 31: 0x010B [0x48] [System] [8238*]:
     → "Main Defense: [None/Distance 15% down/Distance 30% down/Distance 45% down/Magic Distance 15% down/Magic Distance 30% down/Magic Distance 45% down/Evasion 10% up/Evasion 15% up/Magic Evasion 15% up]"
  32: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x010F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
- 34: 0x0114 [0x48] [System] [8238*]:
+ 34: 0x0114 [0x48] [System] [8239*]:
     → "Sub Offense: [None/TP Regen 30/TP Regen 60/TP Regen 90/Fast Casting 15%/Fast Casting 30%/Fast Casting 45%/Lower TP Expenditure: Low/Lower TP Expenditure: Mid/Lower TP Expenditure: High/Shorter Recast Time: Low/Shorter Recast Time: Mid/Shorter Recast Time: High/Shorter Ability Casting: Low/Shorter Ability Casting: Mid/Shorter Ability Casting: High/Elemental Seal/Uber Accuracy]"
  35: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0118 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
- 37: 0x011D [0x48] [System] [8239*]:
+ 37: 0x011D [0x48] [System] [8240*]:
     → "Sub Defense: [None/Lesser Regen/Moderate Regen/Greater Regen/PC Killer 10%/PC Killer 20%/PC Killer 30%/Immune to Stun/Invulnerable Casting/Immune to Sleep/Immune to Poison/Immune to Paralysis/Immune to Darkness/Immune to Silence/Immune to Slow/Immune to Bind/Immune to Weighing Down]"
  38: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0121 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
- 40: 0x0126 [0x48] [System] [8240*]:
+ 40: 0x0126 [0x48] [System] [8241*]:
     → "Parameter: [None/STR+/DEX+/VIT+/AGI+/INT+/MND+/HP+]"
  41: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x012A [0x24] CREATE_DIALOG(message_id=8241*, default_option=0*, option_flags=0*)
+ 42: 0x012A [0x24] CREATE_DIALOG(message_id=8242*, default_option=0*, option_flags=0*)
     → "Say yes to debugging? [Uh-huh/Nuh-uh]"
  43: 0x0131 [0x25] WAIT_DIALOG_SELECT()
  44: 0x0132 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BD2
- 45: 0x013A [0x24] CREATE_DIALOG(message_id=8242*, default_option=0*, option_flags=0*)
+ 45: 0x013A [0x24] CREATE_DIALOG(message_id=8243*, default_option=0*, option_flags=0*)
     → "What will you adjust? [Nothing/Ability Type/Magic Type/Auto-attack Effects/Barrier Effects/Main Offense/Main Defense/Sub Offense/Sub Defense/Parameters]"
  46: 0x0141 [0x25] WAIT_DIALOG_SELECT()
  47: 0x0142 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0156
  48: 0x014A [0x40] SET_BIT_WORK_RANGE(start_bit=1*, end_bit=4*, target=Work_Zone[1], source=0*)
  49: 0x0153 [0x01] GOTO 0x0BC6
  50: 0x0156 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01AE
- 51: 0x015E [0x24] CREATE_DIALOG(message_id=8243*, default_option=0*, option_flags=0*)
+ 51: 0x015E [0x24] CREATE_DIALOG(message_id=8244*, default_option=0*, option_flags=0*)
     → "Ability Type: [Balanced./Attacking./Status Effects.]"
  52: 0x0165 [0x25] WAIT_DIALOG_SELECT()
  53: 0x0166 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x017A
@@ -488,7 +488,7 @@ SUBROUTINE_01A2:
  62: 0x01A2 [0x40] SET_BIT_WORK_RANGE(start_bit=1*, end_bit=4*, target=Work_Zone[1], source=1*)
  63: 0x01AB [0x01] GOTO 0x0BC6
  64: 0x01AE [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0256
- 65: 0x01B6 [0x24] CREATE_DIALOG(message_id=8244*, default_option=0*, option_flags=0*)
+ 65: 0x01B6 [0x24] CREATE_DIALOG(message_id=8245*, default_option=0*, option_flags=0*)
     → "Magic Type: [None./WHM./BLM./RDM./PLD./DRK./BRD.]"
  66: 0x01BD [0x25] WAIT_DIALOG_SELECT()
  67: 0x01BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D2
@@ -517,7 +517,7 @@ SUBROUTINE_024A:
  88: 0x024A [0x40] SET_BIT_WORK_RANGE(start_bit=1*, end_bit=4*, target=Work_Zone[1], source=2*)
  89: 0x0253 [0x01] GOTO 0x0BC6
  90: 0x0256 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x03DA
- 91: 0x025E [0x24] CREATE_DIALOG(message_id=8245*, default_option=0*, option_flags=0*)
+ 91: 0x025E [0x24] CREATE_DIALOG(message_id=8246*, default_option=0*, option_flags=0*)
     → "Auto-attack Effect: [None/Fire/Ice/Wind/Earth/Lightning/Water/Drain/Aspir/Absorb TP/Poison/Darkness/Paralysis/Slow/Silence/Plague/Curse/Petrify]"
  92: 0x0265 [0x25] WAIT_DIALOG_SELECT()
  93: 0x0266 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x027A
@@ -579,7 +579,7 @@ SUBROUTINE_03CE:
 147: 0x03CE [0x40] SET_BIT_WORK_RANGE(start_bit=1*, end_bit=4*, target=Work_Zone[1], source=3*)
 148: 0x03D7 [0x01] GOTO 0x0BC6
 149: 0x03DA [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x05C2
-150: 0x03E2 [0x24] CREATE_DIALOG(message_id=8246*, default_option=0*, option_flags=0*)
+150: 0x03E2 [0x24] CREATE_DIALOG(message_id=8247*, default_option=0*, option_flags=0*)
     → "Barrier Effects: [None/Blaze Spikes/Ice Spikes/Shock Spikes/Fire Absorption/Ice Absorption/Wind Absorption/Earth Absorption/Lightning Absorption/Water Absorption/Lesser Stoneskin/Greater Stoneskin/Utsusemi 3/Utsusemi 6/Utsusemi 9/Immune to Fire/Immune to Ice/Immune to Wind/Immune to Earth/Immune to Lightning/Immune to Water/Immune to Light/Immune to Darkness]"
 151: 0x03E9 [0x25] WAIT_DIALOG_SELECT()
 152: 0x03EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03FE
@@ -656,7 +656,7 @@ SUBROUTINE_05B6:
 221: 0x05B6 [0x40] SET_BIT_WORK_RANGE(start_bit=1*, end_bit=4*, target=Work_Zone[1], source=4*)
 222: 0x05BF [0x01] GOTO 0x0BC6
 223: 0x05C2 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x071E
-224: 0x05CA [0x24] CREATE_DIALOG(message_id=8247*, default_option=0*, option_flags=0*)
+224: 0x05CA [0x24] CREATE_DIALOG(message_id=8248*, default_option=0*, option_flags=0*)
     → "Main Offense: [None./Attack 15% up/Attack 30% up/Attack 45% up/Magic Attack 15% up/Magic Attack 30% up/Magic Attack 45% up/Attack Delay 10$19 down/Attack Delay 20$19 down/Attack Delay 30$19 down/Critical Hit Rate 20% up/Critical Hit Rate 40% up/Double Attack Rate 25% up/Double Attack Rate 50% up/Triple Attack Rate 15% up/Triple Attack Rate 30% up]"
 225: 0x05D1 [0x25] WAIT_DIALOG_SELECT()
 226: 0x05D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05E6
@@ -712,7 +712,7 @@ SUBROUTINE_0712:
 274: 0x0712 [0x40] SET_BIT_WORK_RANGE(start_bit=1*, end_bit=4*, target=Work_Zone[1], source=5*)
 275: 0x071B [0x01] GOTO 0x0BC6
 276: 0x071E [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0816
-277: 0x0726 [0x24] CREATE_DIALOG(message_id=8248*, default_option=0*, option_flags=0*)
+277: 0x0726 [0x24] CREATE_DIALOG(message_id=8249*, default_option=0*, option_flags=0*)
     → "Main Defense: [None./Distance 15% down/Distance 30% down/Distance 45% down/Magic Distance 15% down/Magic Distance 30% down/Magic Distance 45% down/Evasion 10% up/Evasion 15% up/Magic Evasion 15% up/Magic Evasion 30% up]"
 278: 0x072D [0x25] WAIT_DIALOG_SELECT()
 279: 0x072E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0742
@@ -753,7 +753,7 @@ SUBROUTINE_080A:
 312: 0x080A [0x40] SET_BIT_WORK_RANGE(start_bit=1*, end_bit=4*, target=Work_Zone[1], source=6*)
 313: 0x0813 [0x01] GOTO 0x0BC6
 314: 0x0816 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x099A
-315: 0x081E [0x24] CREATE_DIALOG(message_id=8249*, default_option=0*, option_flags=0*)
+315: 0x081E [0x24] CREATE_DIALOG(message_id=8250*, default_option=0*, option_flags=0*)
     → "Sub Offense: [None./TP Regen 30/TP Regen 60/TP Regen 90/Fast Casting 15%/Fast Casting 30%/Fast Casting 45%/Lower TP Expenditure: Low/Lower TP Expenditure: Mid/Lower TP Expenditure: High/Shorter Recast Time: Low/Shorter Recast Time: Mid/Shorter Recast Time: High/Shorter Ability Casting: Low/Shorter Ability Casting: Mid/Shorter Ability Casting: High/Elemental Seal/Uber Accuracy]"
 316: 0x0825 [0x25] WAIT_DIALOG_SELECT()
 317: 0x0826 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x083A
@@ -815,7 +815,7 @@ SUBROUTINE_098E:
 371: 0x098E [0x40] SET_BIT_WORK_RANGE(start_bit=1*, end_bit=4*, target=Work_Zone[1], source=7*)
 372: 0x0997 [0x01] GOTO 0x0BC6
 373: 0x099A [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0B0A
-374: 0x09A2 [0x24] CREATE_DIALOG(message_id=8250*, default_option=0*, option_flags=0*)
+374: 0x09A2 [0x24] CREATE_DIALOG(message_id=8251*, default_option=0*, option_flags=0*)
     → "Sub Defense: [None/Lesser Regen/Moderate Regen/Greater Regen/PC Killer 10%/PC Killer 20%/PC Killer 30%/Immune to Stun/Invulnerable Casting/Immune to Sleep/Immune to Poison/Immune to Paralysis/Immune to Darkness/Immune to Silence/Immune to Slow/Immune to Bind/Immune to Weighing Down]"
 375: 0x09A9 [0x25] WAIT_DIALOG_SELECT()
 376: 0x09AA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09BE
@@ -874,7 +874,7 @@ SUBROUTINE_0AFE:
 427: 0x0AFE [0x40] SET_BIT_WORK_RANGE(start_bit=1*, end_bit=4*, target=Work_Zone[1], source=8*)
 428: 0x0B07 [0x01] GOTO 0x0BC6
 429: 0x0B0A [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0BC6
-430: 0x0B12 [0x24] CREATE_DIALOG(message_id=8251*, default_option=0*, option_flags=0*)
+430: 0x0B12 [0x24] CREATE_DIALOG(message_id=8252*, default_option=0*, option_flags=0*)
     → "Select Parameter: [None./STR+/DEX+/VIT+/AGI+/INT+/MND+/HP+]"
 431: 0x0B19 [0x25] WAIT_DIALOG_SELECT()
 432: 0x0B1A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B2E

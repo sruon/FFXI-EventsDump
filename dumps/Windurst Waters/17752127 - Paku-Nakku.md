@@ -54,72 +54,72 @@
 |---------|-------------|-------------|
 |       0 | 0x0055      |          85 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x20A3      |        8355 |
-|       3 | 0x20A4      |        8356 |
-|       4 | 0x20A5      |        8357 |
-|       5 | 0x1E52      |        7762 |
-|       6 | 0x1E53      |        7763 |
-|       7 | 0x2112      |        8466 |
-|       8 | 0x2113      |        8467 |
-|       9 | 0x2114      |        8468 |
-|      10 | 0x2115      |        8469 |
+|       2 | 0x20A4      |        8356 |
+|       3 | 0x20A5      |        8357 |
+|       4 | 0x20A6      |        8358 |
+|       5 | 0x1E53      |        7763 |
+|       6 | 0x1E54      |        7764 |
+|       7 | 0x2113      |        8467 |
+|       8 | 0x2114      |        8468 |
+|       9 | 0x2115      |        8469 |
+|      10 | 0x2116      |        8470 |
 |      11 | 0x0000      |           0 |
-|      12 | 0x241B      |        9243 |
-|      13 | 0x241C      |        9244 |
-|      14 | 0x241D      |        9245 |
-|      15 | 0x212B      |        8491 |
-|      16 | 0x212C      |        8492 |
-|      17 | 0x212D      |        8493 |
-|      18 | 0x212E      |        8494 |
-|      19 | 0x213B      |        8507 |
+|      12 | 0x241C      |        9244 |
+|      13 | 0x241D      |        9245 |
+|      14 | 0x241E      |        9246 |
+|      15 | 0x212C      |        8492 |
+|      16 | 0x212D      |        8493 |
+|      17 | 0x212E      |        8494 |
+|      18 | 0x212F      |        8495 |
+|      19 | 0x213C      |        8508 |
 |      20 | 0x0001      |           1 |
 |      21 | 0x0003      |           3 |
 |      22 | 0x0002      |           2 |
 |      23 | 0x00C9      |         201 |
-|      24 | 0x213A      |        8506 |
-|      25 | 0x213C      |        8508 |
-|      26 | 0x213D      |        8509 |
-|      27 | 0x213E      |        8510 |
-|      28 | 0x213F      |        8511 |
-|      29 | 0x2140      |        8512 |
-|      30 | 0x2141      |        8513 |
-|      31 | 0x2142      |        8514 |
-|      32 | 0x20D4      |        8404 |
-|      33 | 0x20D5      |        8405 |
-|      34 | 0x20FA      |        8442 |
-|      35 | 0x20FB      |        8443 |
+|      24 | 0x213B      |        8507 |
+|      25 | 0x213D      |        8509 |
+|      26 | 0x213E      |        8510 |
+|      27 | 0x213F      |        8511 |
+|      28 | 0x2140      |        8512 |
+|      29 | 0x2141      |        8513 |
+|      30 | 0x2142      |        8514 |
+|      31 | 0x2143      |        8515 |
+|      32 | 0x20D5      |        8405 |
+|      33 | 0x20D6      |        8406 |
+|      34 | 0x20FB      |        8443 |
+|      35 | 0x20FC      |        8444 |
 
 ## String References
 
-- **7762**: Heh-heh-heh. Our day of total black magic destruction has come, dude.
-- **7763**: Just you watch! It'll be like, BLAM! Those enemies will be blown sky-high! I'll get the five-star award if it's the last thing I do.
-- **8355**: Heh-heh-heh. I, like, totally dig our black magic lessons, dude! They look so cool and have such wicked effects...those black mages' robes really rule!
-- **8356**: When I graduate, I wanna enter the Orastery's Mage Academy. But it's the most popular ministry to go into. The position usually goes to the kid who gets the best grades. Dammit...
-- **8357**: Our class's overachiever is Kirarara. She's the smarty-pants standing up there behind the lectern.
-- **8404**: Argh! Don't speak to me about that written test. I failed it totally, dude.
-- **8405**: Once that test comes back, they're gonna make me study like crazy. Ahh...I wish that test would never come back!
-- **8442**: Gardening is so easy, even gnomes could do it! All you have to do is throw the seeds into a pot and forget about them, right?
-- **8443**: Whaddaya mean I'm wrong? So, I need to cast some spell on it or something? What, like "Open Sesame" or something?
-- **8466**: <Nod...nod...doze...>
-- **8467**: I'm soo sleepy, dude... I'm falling asleep on my feet here...
-- **8468**: ...Huh!? <Yawn!> What do you want? Stop bugging me!
-- **8469**: <Nod...nod...doze...>
-- **8491**: ......
-- **8492**: ...Huh...?
-- **8493**: Drink...thissszzz...?
-- **8494**: Nothing <yawn!> happened...!? <Nod...nod...doze...>
-- **8506**: ...Huh...?
-- **8507**: The murderer was...? [You! You did it!/Me. Yes, I did it!/The automaton butler did it!]
-- **8508**: Noooooo!!!
-- **8509**: Ohhh maaan! I can't believe you gave away the ending! I was only halfway through reading "Murder on the Jeuno Express," too!
-- **8510**: I really hate you! I'll never forgive you for that! Go away!
-- **8511**: ......???
-- **8512**: ...Adventurer dude...
-- **8513**: ...You have waaay too much time on your handsszzz...
-- **8514**: I hate you sooo much, dude! I'll never forgive you! Go away!
-- **9243**: What's that smell, dude? My eyes are all itchy and my nose is all twitchy...
-- **9244**: ...but...<yawn!>
-- **9245**: I'm...still...pretty...slee...py... ZZZzzz...
+- **7763**: Heh-heh-heh. Our day of total black magic destruction has come, dude.
+- **7764**: Just you watch! It'll be like, BLAM! Those enemies will be blown sky-high! I'll get the five-star award if it's the last thing I do.
+- **8356**: Heh-heh-heh. I, like, totally dig our black magic lessons, dude! They look so cool and have such wicked effects...those black mages' robes really rule!
+- **8357**: When I graduate, I wanna enter the Orastery's Mage Academy. But it's the most popular ministry to go into. The position usually goes to the kid who gets the best grades. Dammit...
+- **8358**: Our class's overachiever is Kirarara. She's the smarty-pants standing up there behind the lectern.
+- **8405**: Argh! Don't speak to me about that written test. I failed it totally, dude.
+- **8406**: Once that test comes back, they're gonna make me study like crazy. Ahh...I wish that test would never come back!
+- **8443**: Gardening is so easy, even gnomes could do it! All you have to do is throw the seeds into a pot and forget about them, right?
+- **8444**: Whaddaya mean I'm wrong? So, I need to cast some spell on it or something? What, like "Open Sesame" or something?
+- **8467**: <Nod...nod...doze...>
+- **8468**: I'm soo sleepy, dude... I'm falling asleep on my feet here...
+- **8469**: ...Huh!? <Yawn!> What do you want? Stop bugging me!
+- **8470**: <Nod...nod...doze...>
+- **8492**: ......
+- **8493**: ...Huh...?
+- **8494**: Drink...thissszzz...?
+- **8495**: Nothing <yawn!> happened...!? <Nod...nod...doze...>
+- **8507**: ...Huh...?
+- **8508**: The murderer was...? [You! You did it!/Me. Yes, I did it!/The automaton butler did it!]
+- **8509**: Noooooo!!!
+- **8510**: Ohhh maaan! I can't believe you gave away the ending! I was only halfway through reading "Murder on the Jeuno Express," too!
+- **8511**: I really hate you! I'll never forgive you for that! Go away!
+- **8512**: ......???
+- **8513**: ...Adventurer dude...
+- **8514**: ...You have waaay too much time on your handsszzz...
+- **8515**: I hate you sooo much, dude! I'll never forgive you! Go away!
+- **9244**: What's that smell, dude? My eyes are all itchy and my nose is all twitchy...
+- **9245**: ...but...<yawn!>
+- **9246**: I'm...still...pretty...slee...py... ZZZzzz...
 
 ## Events
 
@@ -489,13 +489,13 @@
   1: 0x00DB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x01)
-  4: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8355*)
+  4: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8356*)
     → "Heh-heh-heh. I, like, totally dig our black magic lessons, dude! They look so cool and have such wicked effects...those black mages' robes really rule!"
   5: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8356*)
+  6: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8357*)
     → "When I graduate, I wanna enter the Orastery's Mage Academy. But it's the most popular ministry to go into. The position usually goes to the kid who gets the best grades. Dammit..."
   7: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8357*)
+  8: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8358*)
     → "Our class's overachiever is Kirarara. She's the smarty-pants standing up there behind the lectern."
   9: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x02)
@@ -529,10 +529,10 @@
   1: 0x0100 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0101 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0102 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x01)
-  4: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
+  4: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
     → "Heh-heh-heh. Our day of total black magic destruction has come, dude."
   5: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
+  6: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
     → "Just you watch! It'll be like, BLAM! Those enemies will be blown sky-high! I'll get the five-star award if it's the last thing I do."
   7: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0111 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x02)
@@ -588,7 +588,7 @@
 #### Opcodes
 
 ```
-  0: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=8466*)
+  0: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=8467*)
     → "<Nod...nod...doze...>"
   1: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0132 [0x00] END_REQSTACK()
@@ -614,13 +614,13 @@
 #### Opcodes
 
 ```
-  0: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=8467*)
+  0: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=8468*)
     → "I'm soo sleepy, dude... I'm falling asleep on my feet here..."
   1: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0137 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x013C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x013D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=8468*)
+  5: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=8469*)
     → "...Huh!? <Yawn!> What do you want? Stop bugging me!"
   6: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0142 [0x00] END_REQSTACK()
@@ -645,7 +645,7 @@
 #### Opcodes
 
 ```
-  0: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8469*)
+  0: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8470*)
     → "<Nod...nod...doze...>"
   1: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0147 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -687,15 +687,15 @@
   7: 0x0164 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x16)
   8: 0x016B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x17)
   9: 0x0172 [0x01] GOTO 0x018F
- 10: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=9243*)
+ 10: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=9244*)
     → "What's that smell, dude? My eyes are all itchy and my nose is all twitchy..."
  11: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=9244*)
+ 12: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=9245*)
     → "...but...<yawn!>"
  13: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x017D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x09)
  15: 0x0184 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x0A)
- 16: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=9245*)
+ 16: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=9246*)
     → "I'm...still...pretty...slee...py... ZZZzzz..."
  17: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -724,7 +724,7 @@ SUBROUTINE_018F:
 #### Opcodes
 
 ```
-  0: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=8491*)
+  0: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=8492*)
     → "......"
   1: 0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0197 [0x00] END_REQSTACK()
@@ -750,10 +750,10 @@ SUBROUTINE_018F:
 #### Opcodes
 
 ```
-  0: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=8492*)
+  0: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=8493*)
     → "...Huh...?"
   1: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=8493*)
+  2: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=8494*)
     → "Drink...thissszzz...?"
   3: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x01)
@@ -781,7 +781,7 @@ SUBROUTINE_018F:
 #### Opcodes
 
 ```
-  0: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8494*)
+  0: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8495*)
     → "Nothing <yawn!> happened...!? <Nod...nod...doze...>"
   1: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B3 [0x00] END_REQSTACK()
@@ -820,7 +820,7 @@ SUBROUTINE_018F:
   3: 0x01BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x01BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x01BE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x19)
-  6: 0x01C5 [0x24] CREATE_DIALOG(message_id=8507*, default_option=0*, option_flags=0*)
+  6: 0x01C5 [0x24] CREATE_DIALOG(message_id=8508*, default_option=0*, option_flags=0*)
     → "The murderer was...? [You! You did it!/Me. Yes, I did it!/The automaton butler did it!]"
   7: 0x01CC [0x25] WAIT_DIALOG_SELECT()
   8: 0x01CD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01EB
@@ -866,7 +866,7 @@ SUBROUTINE_0238:
 #### Opcodes
 
 ```
-  0: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=8506*)
+  0: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=8507*)
     → "...Huh...?"
   1: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0240 [0x00] END_REQSTACK()
@@ -893,7 +893,7 @@ SUBROUTINE_0238:
 
 ```
   0: 0x0241 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x09)
-  1: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=8508*)
+  1: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=8509*)
     → "Noooooo!!!"
   2: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x024C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x0A)
@@ -921,7 +921,7 @@ SUBROUTINE_0238:
 
 ```
   0: 0x0254 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x0B)
-  1: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=8509*)
+  1: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=8510*)
     → "Ohhh maaan! I can't believe you gave away the ending! I was only halfway through reading "Murder on the Jeuno Express," too!"
   2: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x025F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x0C)
@@ -949,7 +949,7 @@ SUBROUTINE_0238:
 
 ```
   0: 0x0267 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x07)
-  1: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=8510*)
+  1: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=8511*)
     → "I really hate you! I'll never forgive you for that! Go away!"
   2: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0272 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x08)
@@ -975,7 +975,7 @@ SUBROUTINE_0238:
 #### Opcodes
 
 ```
-  0: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=8511*)
+  0: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=8512*)
     → "......???"
   1: 0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x027E [0x00] END_REQSTACK()
@@ -1001,10 +1001,10 @@ SUBROUTINE_0238:
 #### Opcodes
 
 ```
-  0: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=8512*)
+  0: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=8513*)
     → "...Adventurer dude..."
   1: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=8513*)
+  2: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=8514*)
     → "...You have waaay too much time on your handsszzz..."
   3: 0x0286 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0287 [0x00] END_REQSTACK()
@@ -1035,7 +1035,7 @@ SUBROUTINE_0238:
   1: 0x028D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x028E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x028F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x07)
-  4: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=8514*)
+  4: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=8515*)
     → "I hate you sooo much, dude! I'll never forgive you! Go away!"
   5: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x029A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x08)
@@ -1069,10 +1069,10 @@ SUBROUTINE_0238:
   1: 0x02AA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02AB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x07)
-  4: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8404*)
+  4: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8405*)
     → "Argh! Don't speak to me about that written test. I failed it totally, dude."
   5: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8405*)
+  6: 0x02B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8406*)
     → "Once that test comes back, they're gonna make me study like crazy. Ahh...I wish that test would never come back!"
   7: 0x02BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x08)
@@ -1106,10 +1106,10 @@ SUBROUTINE_0238:
   1: 0x02CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x07)
-  4: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8442*)
+  4: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
     → "Gardening is so easy, even gnomes could do it! All you have to do is throw the seeds into a pot and forget about them, right?"
   5: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
+  6: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8444*)
     → "Whaddaya mean I'm wrong? So, I need to cast some spell on it or something? What, like "Open Sesame" or something?"
   7: 0x02DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Paku-Nakku (ID: 17752127/0x010EE03F), tag_num=0x08)

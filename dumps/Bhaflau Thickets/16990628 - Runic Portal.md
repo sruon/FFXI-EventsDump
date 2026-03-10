@@ -21,7 +21,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA7      |        7335 |
+|       0 | 0x1CA8      |        7336 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
@@ -32,14 +32,14 @@
 |       8 | 0x00C9      |         201 |
 |       9 | 0x0078      |         120 |
 |      10 | 0x001E      |          30 |
-|      11 | 0x1CA9      |        7337 |
-|      12 | 0x1CAB      |        7339 |
+|      11 | 0x1CAA      |        7338 |
+|      12 | 0x1CAC      |        7340 |
 
 ## String References
 
-- **7335**: Use the device? [Yes./No.]
-- **7337**: Attuning yourself to this runic portal will open a path to the Chamber of Passage.
-- **7339**: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
+- **7336**: Use the device? [Yes./No.]
+- **7338**: Attuning yourself to this runic portal will open a path to the Chamber of Passage.
+- **7340**: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
 
 ## Events
 
@@ -103,7 +103,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7335*, default_option=1*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7336*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011C
@@ -184,10 +184,10 @@ SUBROUTINE_0127:
 
 ```
   0: 0x012B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x012D [0x48] [System] [7337*]:
+  1: 0x012D [0x48] [System] [7338*]:
     → "Attuning yourself to this runic portal will open a path to the Chamber of Passage."
   2: 0x0130 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0131 [0x24] CREATE_DIALOG(message_id=7335*, default_option=1*, option_flags=0*)
+  3: 0x0131 [0x24] CREATE_DIALOG(message_id=7336*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x0138 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0139 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x024D
@@ -202,7 +202,7 @@ SUBROUTINE_0127:
  14: 0x0164 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x0A)
  15: 0x016B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z52d" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
  16: 0x017C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 17: 0x018D [0x48] [System] [7339*]:
+ 17: 0x018D [0x48] [System] [7340*]:
     → "<Player> has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage."
  18: 0x0190 [0x1C] WAIT(60* ticks)
  19: 0x0193 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "1pb2" with entities [EventEntity, EventEntity]

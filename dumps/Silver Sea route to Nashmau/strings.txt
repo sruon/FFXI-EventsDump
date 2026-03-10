@@ -1,5 +1,5 @@
 # Strings for Silver Sea route to Nashmau
-# Total: 7355 strings
+# Total: 7356 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7166,89 +7166,89 @@
  7162: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7163: You receive $0 bayld!
  7164: Your chocobo refuses to partake of the $0.
- 7165: Tallying conquest results...
- 7166: Conquest results tallied.
- 7167: This region is currently under San d'Orian control.
- 7168: This region is currently under Bastokan control.
- 7169: This region is currently under Windurstian control.
- 7170: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7171: This region is currently neutral.
- 7172: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7173: All three nations are tied for first place.
- 7174: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7175: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7176: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7177: All three nations are tied for first place.
- 7178: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7179: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7180: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7181: All three nations are tied for first place.
- 7182: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7183: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7184: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7185: All three nations are tied for first place.
- 7186: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7187: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7188: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7189: Global balance of power: All three nations are tied for first place.
- 7190: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7191: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7192: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7193: All three nations are tied for first place.
- 7194: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7195: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7196: Conquest update: This region is currently neutral.
- 7197: Conquest update: This region is currently under San d'Orian control.
- 7198: Conquest update: This region is currently under Bastokan control.
- 7199: Conquest update: This region is currently under Windurstian control.
- 7200: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7201: All three nations are at a deadlock.
- 7202: The beastmen are on the rise.
- 7203: Regional influence: San d'Oria - Dominant
- 7204: Regional influence: San d'Oria - Major
- 7205: Regional influence: San d'Oria - Minor
- 7206: Regional influence: San d'Oria - Minimal
- 7207: Bastok - Dominant
- 7208: Bastok - Major
- 7209: Bastok - Minor
- 7210: Bastok - Minimal
- 7211: Windurst - Dominant
- 7212: Windurst - Major
- 7213: Windurst - Minor
- 7214: Windurst - Minimal
- 7215: Bastok and Windurst have formed an alliance.
- 7216: San d'Oria and Windurst have formed an alliance.
- 7217: San d'Oria and Bastok have formed an alliance.
- 7218: Bastok and Windurst are currently allies.
- 7219: San d'Oria and Windurst are currently allies.
- 7220: San d'Oria and Bastok are currently allies.
- 7221: $10$P11.$17F$0 $P14;$P12hF$1
- 7222: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7223: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7224: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7225: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7226: The beastmen are gaining power.
- 7227: San d'Oria's regional control is now 10% closer to the first place country's!
- 7228: Bastok's regional control is now 10% closer to the first place country's!
- 7229: Windurst's regional control are now 10% closer to the first place country's!
- 7230: San d'Oria's region points have increased!
- 7231: Bastok's region points have increased!
- 7232: Windurst's region points have increased!
- 7233: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7234: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7235: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7236: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7237: A Bastokan Expeditionary Force has been dispatched to this area.
- 7238: A Windurstian Expeditionary Force has been dispatched to this area.
- 7239: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7240: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7241: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7242: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7243: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7244: There was a curse on the beastmen's banner!
- 7245: The curse of the beastmen's banner has been lifted!
- 7246: There is a beastmen's banner.
- 7247: @
+ 7165: Your wing skill improved to $0!
+ 7166: Tallying conquest results...
+ 7167: Conquest results tallied.
+ 7168: This region is currently under San d'Orian control.
+ 7169: This region is currently under Bastokan control.
+ 7170: This region is currently under Windurstian control.
+ 7171: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7172: This region is currently neutral.
+ 7173: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7174: All three nations are tied for first place.
+ 7175: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7176: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7177: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7178: All three nations are tied for first place.
+ 7179: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7180: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7181: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7182: All three nations are tied for first place.
+ 7183: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7184: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7185: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7186: All three nations are tied for first place.
+ 7187: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7188: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7189: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7190: Global balance of power: All three nations are tied for first place.
+ 7191: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7192: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7193: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7194: All three nations are tied for first place.
+ 7195: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7196: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7197: Conquest update: This region is currently neutral.
+ 7198: Conquest update: This region is currently under San d'Orian control.
+ 7199: Conquest update: This region is currently under Bastokan control.
+ 7200: Conquest update: This region is currently under Windurstian control.
+ 7201: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7202: All three nations are at a deadlock.
+ 7203: The beastmen are on the rise.
+ 7204: Regional influence: San d'Oria - Dominant
+ 7205: Regional influence: San d'Oria - Major
+ 7206: Regional influence: San d'Oria - Minor
+ 7207: Regional influence: San d'Oria - Minimal
+ 7208: Bastok - Dominant
+ 7209: Bastok - Major
+ 7210: Bastok - Minor
+ 7211: Bastok - Minimal
+ 7212: Windurst - Dominant
+ 7213: Windurst - Major
+ 7214: Windurst - Minor
+ 7215: Windurst - Minimal
+ 7216: Bastok and Windurst have formed an alliance.
+ 7217: San d'Oria and Windurst have formed an alliance.
+ 7218: San d'Oria and Bastok have formed an alliance.
+ 7219: Bastok and Windurst are currently allies.
+ 7220: San d'Oria and Windurst are currently allies.
+ 7221: San d'Oria and Bastok are currently allies.
+ 7222: $10$P11.$17F$0 $P14;$P12hF$1
+ 7223: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7224: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7225: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7226: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7227: The beastmen are gaining power.
+ 7228: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7229: Bastok's regional control is now 10% closer to the first place country's!
+ 7230: Windurst's regional control are now 10% closer to the first place country's!
+ 7231: San d'Oria's region points have increased!
+ 7232: Bastok's region points have increased!
+ 7233: Windurst's region points have increased!
+ 7234: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7235: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7236: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7237: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7238: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7239: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7240: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7241: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7242: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7243: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7244: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7245: There was a curse on the beastmen's banner!
+ 7246: The curse of the beastmen's banner has been lifted!
+ 7247: There is a beastmen's banner.
  7248: @
  7249: @
  7250: @
@@ -7323,36 +7323,37 @@
  7319: @
  7320: @
  7321: @
- 7322: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7323: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7324: We are on our way to Nashmau. We should arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
- 7325: We are now docking in Nashmau.
- 7326: We are nearing Nashmau.
- 7327: This is the ship route from Al Zahbi to Nashmau.
- 7328: Would you care for some items to use on your travels?
- 7329: We are on our way to Nashmau. We will be arriving soon.
- 7330: The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
- 7331: The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
- 7332: The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
- 7333: The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 7334: The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 7335: The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 7336: Al Zahbi is Besieged! Defend the Astral Candescence!
- 7337: Al Zahbi is no longer Besieged.
- 7338: The beastmen have retreated.
- 7339: The Mamool Ja Savages have retreated.
- 7340: The Troll Mercenaries have retreated.
- 7341: The Undead Swarm has retreated.
- 7342: Al Zahbi has recovered the Astral Candescence.
- 7343: The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
- 7344: The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
- 7345: The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
- 7346: The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.
- 7347: --------------/ : ($P12n [$5$30$Tj]
- 7348: PARAM0:$0 PARAM1:$1 PARAM2:$2 PARAM3:$3
- 7349: ydiff:$0zglobal:$1 own:$2 kind:$3
- 7350: yinfo:$0zwait:$1 kind:$2 kind_old:$3
- 7351: act:$0 node_speed_fix:$1 dst_node:$2 :$3
- 7352: NodeTarget:$0 POS($1 $2 $3)
- 7353: NodeNow:$0 POS($1 $2 $3)
- 7354: move_kind:$0 move_result:$1 same_count:$2 old:$3
+ 7322: @
+ 7323: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7324: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7325: We are on our way to Nashmau. We should arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+ 7326: We are now docking in Nashmau.
+ 7327: We are nearing Nashmau.
+ 7328: This is the ship route from Al Zahbi to Nashmau.
+ 7329: Would you care for some items to use on your travels?
+ 7330: We are on our way to Nashmau. We will be arriving soon.
+ 7331: The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
+ 7332: The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
+ 7333: The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
+ 7334: The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 7335: The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 7336: The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 7337: Al Zahbi is Besieged! Defend the Astral Candescence!
+ 7338: Al Zahbi is no longer Besieged.
+ 7339: The beastmen have retreated.
+ 7340: The Mamool Ja Savages have retreated.
+ 7341: The Troll Mercenaries have retreated.
+ 7342: The Undead Swarm has retreated.
+ 7343: Al Zahbi has recovered the Astral Candescence.
+ 7344: The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
+ 7345: The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
+ 7346: The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
+ 7347: The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.
+ 7348: --------------/ : ($P12n [$5$30$Tj]
+ 7349: PARAM0:$0 PARAM1:$1 PARAM2:$2 PARAM3:$3
+ 7350: ydiff:$0zglobal:$1 own:$2 kind:$3
+ 7351: yinfo:$0zwait:$1 kind:$2 kind_old:$3
+ 7352: act:$0 node_speed_fix:$1 dst_node:$2 :$3
+ 7353: NodeTarget:$0 POS($1 $2 $3)
+ 7354: NodeNow:$0 POS($1 $2 $3)
+ 7355: move_kind:$0 move_result:$1 same_count:$2 old:$3

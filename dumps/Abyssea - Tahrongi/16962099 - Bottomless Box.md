@@ -22,40 +22,40 @@
 |---------|-------------|-------------|
 |       0 | 0x0078      |         120 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1EB6      |        7862 |
+|       2 | 0x1EB7      |        7863 |
 |       3 | 0x0152      |         338 |
-|       4 | 0x1EB8      |        7864 |
-|       5 | 0x1EB9      |        7865 |
-|       6 | 0x1EC1      |        7873 |
-|       7 | 0x1EC2      |        7874 |
+|       4 | 0x1EB9      |        7865 |
+|       5 | 0x1EBA      |        7866 |
+|       6 | 0x1EC2      |        7874 |
+|       7 | 0x1EC3      |        7875 |
 |       8 | 0x0800      |        2048 |
 |       9 | 0x003C      |          60 |
-|      10 | 0x1EC3      |        7875 |
+|      10 | 0x1EC4      |        7876 |
 |      11 | 0x0001      |           1 |
-|      12 | 0x1EB3      |        7859 |
+|      12 | 0x1EB4      |        7860 |
 |      13 | 0x0002      |           2 |
-|      14 | 0x1EB4      |        7860 |
+|      14 | 0x1EB5      |        7861 |
 |      15 | 0x0003      |           3 |
-|      16 | 0x1EB5      |        7861 |
-|      17 | 0x1EBA      |        7866 |
-|      18 | 0x1EBB      |        7867 |
-|      19 | 0x1EBC      |        7868 |
-|      20 | 0x1EBD      |        7869 |
+|      16 | 0x1EB6      |        7862 |
+|      17 | 0x1EBB      |        7867 |
+|      18 | 0x1EBC      |        7868 |
+|      19 | 0x1EBD      |        7869 |
+|      20 | 0x1EBE      |        7870 |
 |      21 | 0x000B      |          11 |
-|      22 | 0x1EBE      |        7870 |
+|      22 | 0x1EBF      |        7871 |
 |      23 | 0x00B4      |         180 |
 |      24 | 0x000D      |          13 |
-|      25 | 0x1EBF      |        7871 |
-|      26 | 0x1EC0      |        7872 |
+|      25 | 0x1EC0      |        7872 |
+|      26 | 0x1EC1      |        7873 |
 
 ## String References
 
-- **7859**: The box is stocked full with tanks of distilled water. There is not a starfruit among them...
-- **7860**: The box is nearly overflowing with unfamiliar flower petals of various hues. There is not a starfruit among them...
-- **7861**: The box contains an assortment of tomes, old and new, on various subjects. There is not a starfruit among them...
-- **7862**: The box contains a large, luscious white fruit that exudes a sweet aroma. No doubt about it: this is the starfruit you're looking for!
-- **7870**: Kopuro-Popuro gazes sweetly at the bottomless box, his eyes beaming with joy.
-- **7871**: Kopuro-Popuro claps his hands and laughs charmingly at the bottomless box.
+- **7860**: The box is stocked full with tanks of distilled water. There is not a starfruit among them...
+- **7861**: The box is nearly overflowing with unfamiliar flower petals of various hues. There is not a starfruit among them...
+- **7862**: The box contains an assortment of tomes, old and new, on various subjects. There is not a starfruit among them...
+- **7863**: The box contains a large, luscious white fruit that exudes a sweet aroma. No doubt about it: this is the starfruit you're looking for!
+- **7871**: Kopuro-Popuro gazes sweetly at the bottomless box, his eyes beaming with joy.
+- **7872**: Kopuro-Popuro claps his hands and laughs charmingly at the bottomless box.
 
 ## Events
 
@@ -136,7 +136,7 @@
   3: 0x000C [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [EventEntity, EventEntity]
   4: 0x0019 [0x1C] WAIT(120* ticks)
   5: 0x001C [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x00CC
-  6: 0x0024 [0x48] [System] [7862*]:
+  6: 0x0024 [0x48] [System] [7863*]:
     → "The box contains a large, luscious white fruit that exudes a sweet aroma. No doubt about it: this is the starfruit you're looking for!"
   7: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0028 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x007D
@@ -144,14 +144,14 @@
  10: 0x0039 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x003A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kopuro-Popuro (ID: 16962098/0x0102D232) Render.Flags0 and Render.Flags3 conditions are met
  12: 0x003F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "shk0" with entities [Kopuro-Popuro (ID: 16962098/0x0102D232), Kopuro-Popuro (ID: 16962098/0x0102D232)], work=338*
- 13: 0x004E [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7864*]:
+ 13: 0x004E [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7865*]:
     → "What's this...!? She gave you your starfruitaru on your first asking?"
  14: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0056 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "shk0" with entities [Kopuro-Popuro (ID: 16962098/0x0102D232), Kopuro-Popuro (ID: 16962098/0x0102D232)]
  16: 0x0063 [0x4A] LocalPlayer looks at Kopuro-Popuro (ID: 16962098/0x0102D232)
  17: 0x006C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  18: 0x006D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 19: 0x0072 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7865*]:
+ 19: 0x0072 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7866*]:
     → "That's a rarity-warity, my friend. Boxuxu must have taken a fancy to you! Perhaps she likes you even more than...<sniff>...me? Perish the thoughtaru!"
  20: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x007A [0x01] GOTO 0x00C9
@@ -161,36 +161,36 @@
  25: 0x0090 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kopuro-Popuro (ID: 16962098/0x0102D232) Render.Flags0 and Render.Flags3 conditions are met
  26: 0x0095 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  27: 0x0096 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 28: 0x009B [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7873*]:
+ 28: 0x009B [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7874*]:
     → "Why, there you go. I told you she was a sweetaru and understanding girl!"
  29: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x00A3 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7874*]:
+ 30: 0x00A3 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7875*]:
     → "Don't forgetaru to say your thank-yous, now! If there's one thing Boxuxu can't stand, it's someone who doesn't know their manners-wanners."
  31: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00AB [0x3A] CONVERT_YAW_TO_BYTE(entity=Kopuro-Popuro (ID: 16962098/0x0102D232), result_destination=ExtData[1]->WorkLocal[2])
  33: 0x00B2 [0x07] ExtData[1]->WorkLocal[2] += 2048*
  34: 0x00B7 [0x4B] UPDATE_ENTITY_YAW(entity=Kopuro-Popuro (ID: 16962098/0x0102D232), yaw=ExtData[1]->WorkLocal[2])
  35: 0x00BE [0x1C] WAIT(60* ticks)
- 36: 0x00C1 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7875*]:
+ 36: 0x00C1 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7876*]:
     → "<Ahem>...Can't you see that Boxuxu and I would like a little privataru time now, hmmmmmm? Now back to Apururu with you!"
  37: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00C9:
  38: 0x00C9 [0x01] GOTO 0x0102
  39: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00DE
- 40: 0x00D4 [0x48] [System] [7859*]:
+ 40: 0x00D4 [0x48] [System] [7860*]:
     → "The box is stocked full with tanks of distilled water. There is not a starfruit among them..."
  41: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x00D8 [0x1C] WAIT(60* ticks)
  43: 0x00DB [0x01] GOTO 0x0102
  44: 0x00DE [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x00F0
- 45: 0x00E6 [0x48] [System] [7860*]:
+ 45: 0x00E6 [0x48] [System] [7861*]:
     → "The box is nearly overflowing with unfamiliar flower petals of various hues. There is not a starfruit among them..."
  46: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x00EA [0x1C] WAIT(60* ticks)
  48: 0x00ED [0x01] GOTO 0x0102
  49: 0x00F0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0102
- 50: 0x00F8 [0x48] [System] [7861*]:
+ 50: 0x00F8 [0x48] [System] [7862*]:
     → "The box contains an assortment of tomes, old and new, on various subjects. There is not a starfruit among them..."
  51: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x00FC [0x1C] WAIT(60* ticks)
@@ -204,19 +204,19 @@ SUBROUTINE_0102:
  58: 0x0122 [0x4A] Kopuro-Popuro (ID: 16962098/0x0102D232) looks at LocalPlayer
  59: 0x012B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  60: 0x012C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kopuro-Popuro (ID: 16962098/0x0102D232) Render.Flags0 and Render.Flags3 conditions are met
- 61: 0x0131 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7866*]:
+ 61: 0x0131 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7867*]:
     → "No luck? That's no surprise. Boxuxu is a sweetaruheart, but she can be a bit coy among unfamiliar-wiliar faces."
  62: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0139 [0x4A] LocalPlayer looks at Kopuro-Popuro (ID: 16962098/0x0102D232)
  64: 0x0142 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  65: 0x0143 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 66: 0x0148 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7867*]:
+ 66: 0x0148 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7868*]:
     → "No, I fear you'll have to work a bit harder to earn her favor."
  67: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x0150 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7868*]:
+ 68: 0x0150 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7869*]:
     → "How, you say? Why, have you never [courtarued/befriended] a young lass before!?"
  69: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x0158 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7869*]:
+ 70: 0x0158 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7870*]:
     → "At any rataru, it's all about sharing-waring one's happiness. Like this!"
  71: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0160 [0x4A] Kopuro-Popuro (ID: 16962098/0x0102D232) looks at EventEntity
@@ -227,11 +227,11 @@ SUBROUTINE_0102:
  77: 0x0179 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  78: 0x017E [0x6E] Kopuro-Popuro (ID: 16962098/0x0102D232) uses emote 11*
  79: 0x0185 [0x99] Wait for Kopuro-Popuro (ID: 16962098/0x0102D232) animation to complete
- 80: 0x018A [0x49] Kopuro-Popuro (ID: 16962098/0x0102D232) (No speaker name) [7870*]:
+ 80: 0x018A [0x49] Kopuro-Popuro (ID: 16962098/0x0102D232) (No speaker name) [7871*]:
  81: 0x0191 [0x1C] WAIT(180* ticks)
  82: 0x0194 [0x6E] Kopuro-Popuro (ID: 16962098/0x0102D232) uses emote 13*
  83: 0x019B [0x99] Wait for Kopuro-Popuro (ID: 16962098/0x0102D232) animation to complete
- 84: 0x01A0 [0x49] Kopuro-Popuro (ID: 16962098/0x0102D232) (No speaker name) [7871*]:
+ 84: 0x01A0 [0x49] Kopuro-Popuro (ID: 16962098/0x0102D232) (No speaker name) [7872*]:
  85: 0x01A7 [0x1C] WAIT(180* ticks)
  86: 0x01AA [0x4A] Kopuro-Popuro (ID: 16962098/0x0102D232) looks at LocalPlayer
  87: 0x01B3 [0x4A] LocalPlayer looks at Kopuro-Popuro (ID: 16962098/0x0102D232)
@@ -239,7 +239,7 @@ SUBROUTINE_0102:
  89: 0x01BD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kopuro-Popuro (ID: 16962098/0x0102D232) Render.Flags0 and Render.Flags3 conditions are met
  90: 0x01C2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  91: 0x01C3 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 92: 0x01C8 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7872*]:
+ 92: 0x01C8 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7873*]:
     → "Be bright and cheery-weery, and Boxuxu will surely take a fancy to you. Heaven knows we could all use a few more smiles in this dark and desolataru world..."
  93: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x01D0 [0x01] GOTO 0x01E3

@@ -36,12 +36,12 @@
 |      13 | 0x998C      |       39308 |
 |      14 | 0x0EB0      |        3760 |
 |      15 | 0x001E      |          30 |
-|      16 | 0x1EF8      |        7928 |
-|      17 | 0x1EF9      |        7929 |
+|      16 | 0x1EF9      |        7929 |
+|      17 | 0x1EFA      |        7930 |
 |      18 | 0x0000      |           0 |
-|      19 | 0x1FF1      |        8177 |
-|      20 | 0x1FFE      |        8190 |
-|      21 | 0x1FF2      |        8178 |
+|      19 | 0x1FF2      |        8178 |
+|      20 | 0x1FFF      |        8191 |
+|      21 | 0x1FF3      |        8179 |
 |      22 | 0x00E6      |         230 |
 |      23 | 0x0078      |         120 |
 
@@ -115,23 +115,23 @@ SUBROUTINE_0056:
  12: 0x0056 [0x80] LOAD_WAIT(entity=Ramblix (ID: 17818246/0x010FE286))
  13: 0x005B [0x4A] Ramblix (ID: 17818246/0x010FE286) looks at LocalPlayer
  14: 0x0064 [0x1C] WAIT(30* ticks)
- 15: 0x0067 [0x2B] Ramblix (ID: 17818246/0x010FE286) [7928*]:
+ 15: 0x0067 [0x2B] Ramblix (ID: 17818246/0x010FE286) [7929*]:
     → "Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
  16: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x006F [0x2B] Ramblix (ID: 17818246/0x010FE286) [7929*]:
+ 17: 0x006F [0x2B] Ramblix (ID: 17818246/0x010FE286) [7930*]:
     → "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?"
  18: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0077 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x008A
- 20: 0x007F [0x2B] Ramblix (ID: 17818246/0x010FE286) [8177*]:
+ 20: 0x007F [0x2B] Ramblix (ID: 17818246/0x010FE286) [8178*]:
     → "I travel all over the world and hear lots of differererent stories. Why, I hear stories about monsters so nasty, they'd make a grown man wet his breeches! The wyverns hereabouts are worth mentionin'--real pieces of work that've been wreakin' serious havoc in the area."
  21: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0087 [0x01] GOTO 0x0092
- 23: 0x008A [0x2B] Ramblix (ID: 17818246/0x010FE286) [8190*]:
+ 23: 0x008A [0x2B] Ramblix (ID: 17818246/0x010FE286) [8191*]:
     → "I travel all over the world and hear lots of differererent stories. I recall havin' told you about particularilarily nasty wyverns. Well, here's an update on the beasties!"
  24: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0092:
- 25: 0x0092 [0x2B] Ramblix (ID: 17818246/0x010FE286) [8178*]:
+ 25: 0x0092 [0x2B] Ramblix (ID: 17818246/0x010FE286) [8179*]:
     → "Word on the highroad is, the creatures've been [waaay agitated lately, so approach at your own peril!/a tad alarmed lately./in good humor lately, if that can be believed.]"
  26: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x009A [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ramblix (ID: 17818246/0x010FE286), Ramblix (ID: 17818246/0x010FE286)], work=[230*, 0*]

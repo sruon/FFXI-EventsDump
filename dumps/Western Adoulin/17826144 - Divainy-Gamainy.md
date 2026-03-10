@@ -32,14 +32,14 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x000F      |          15 |
 |       3 | 0x0003      |           3 |
-|       4 | 0x2F19      |       12057 |
-|       5 | 0x2EFA      |       12026 |
+|       4 | 0x2F1A      |       12058 |
+|       5 | 0x2EFB      |       12027 |
 |       6 | 0x40000000  |  1073741824 |
 |       7 | 0x0011      |          17 |
 |       8 | 0x0012      |          18 |
 |       9 | 0x0010      |          16 |
-|      10 | 0x2EFF      |       12031 |
-|      11 | 0x2F01      |       12033 |
+|      10 | 0x2F00      |       12032 |
+|      11 | 0x2F02      |       12034 |
 |      12 | 0x0001      |           1 |
 |      13 | 0x0007      |           7 |
 |      14 | 0x0008      |           8 |
@@ -47,185 +47,185 @@
 |      16 | 0x0002      |           2 |
 |      17 | 0x001F      |          31 |
 |      18 | 0xFFFFFFFF  |  4294967295 |
-|      19 | 0x2F1A      |       12058 |
+|      19 | 0x2F1B      |       12059 |
 |      20 | 0x000C      |          12 |
-|      21 | 0x2F1B      |       12059 |
+|      21 | 0x2F1C      |       12060 |
 |      22 | 0x4040      |       16448 |
 |      23 | 0x005A      |          90 |
 |      24 | 0x0064      |         100 |
-|      25 | 0x2FE9      |       12265 |
+|      25 | 0x2FEA      |       12266 |
 |      26 | 0x0018      |          24 |
 |      27 | 0x001A      |          26 |
-|      28 | 0x2F1C      |       12060 |
-|      29 | 0x2F06      |       12038 |
+|      28 | 0x2F1D      |       12061 |
+|      29 | 0x2F07      |       12039 |
 |      30 | 0x0004      |           4 |
-|      31 | 0x2F1D      |       12061 |
-|      32 | 0x2F1E      |       12062 |
+|      31 | 0x2F1E      |       12062 |
+|      32 | 0x2F1F      |       12063 |
 |      33 | 0x001E      |          30 |
-|      34 | 0x2F1F      |       12063 |
-|      35 | 0x2FBF      |       12223 |
+|      34 | 0x2F20      |       12064 |
+|      35 | 0x2FC0      |       12224 |
 |      36 | 0x07D0      |        2000 |
 |      37 | 0x2020      |        8224 |
 |      38 | 0x0050      |          80 |
 |      39 | 0x0202      |         514 |
-|      40 | 0x2FC0      |       12224 |
-|      41 | 0x2FC5      |       12229 |
-|      42 | 0x2FC6      |       12230 |
-|      43 | 0x2FC8      |       12232 |
-|      44 | 0x2FC7      |       12231 |
-|      45 | 0x2FD3      |       12243 |
-|      46 | 0x2F20      |       12064 |
+|      40 | 0x2FC1      |       12225 |
+|      41 | 0x2FC6      |       12230 |
+|      42 | 0x2FC7      |       12231 |
+|      43 | 0x2FC9      |       12233 |
+|      44 | 0x2FC8      |       12232 |
+|      45 | 0x2FD4      |       12244 |
+|      46 | 0x2F21      |       12065 |
 |      47 | 0x003C      |          60 |
 |      48 | 0x000A      |          10 |
 |      49 | 0x000B      |          11 |
-|      50 | 0x2F4D      |       12109 |
-|      51 | 0x2F4F      |       12111 |
-|      52 | 0x2F21      |       12065 |
+|      50 | 0x2F4E      |       12110 |
+|      51 | 0x2F50      |       12112 |
+|      52 | 0x2F22      |       12066 |
 |      53 | 0x0006      |           6 |
-|      54 | 0x2FEF      |       12271 |
-|      55 | 0x3024      |       12324 |
+|      54 | 0x2FF0      |       12272 |
+|      55 | 0x3025      |       12325 |
 |      56 | 0x01F4      |         500 |
-|      57 | 0x2FC9      |       12233 |
-|      58 | 0x2FF0      |       12272 |
-|      59 | 0x2FCA      |       12234 |
-|      60 | 0x2FCB      |       12235 |
-|      61 | 0x2FCC      |       12236 |
-|      62 | 0x2FCD      |       12237 |
-|      63 | 0x2FCE      |       12238 |
-|      64 | 0x2FF6      |       12278 |
+|      57 | 0x2FCA      |       12234 |
+|      58 | 0x2FF1      |       12273 |
+|      59 | 0x2FCB      |       12235 |
+|      60 | 0x2FCC      |       12236 |
+|      61 | 0x2FCD      |       12237 |
+|      62 | 0x2FCE      |       12238 |
+|      63 | 0x2FCF      |       12239 |
+|      64 | 0x2FF7      |       12279 |
 |      65 | 0x0993      |        2451 |
-|      66 | 0x2FF1      |       12273 |
+|      66 | 0x2FF2      |       12274 |
 |      67 | 0x1388      |        5000 |
-|      68 | 0x2FF2      |       12274 |
-|      69 | 0x2FF8      |       12280 |
-|      70 | 0x2FF3      |       12275 |
-|      71 | 0x2FF4      |       12276 |
-|      72 | 0x2FF5      |       12277 |
+|      68 | 0x2FF3      |       12275 |
+|      69 | 0x2FF9      |       12281 |
+|      70 | 0x2FF4      |       12276 |
+|      71 | 0x2FF5      |       12277 |
+|      72 | 0x2FF6      |       12278 |
 |      73 | 0x0032      |          50 |
-|      74 | 0x3023      |       12323 |
+|      74 | 0x3024      |       12324 |
 |      75 | 0x0009      |           9 |
-|      76 | 0x2FCF      |       12239 |
-|      77 | 0x2FD0      |       12240 |
-|      78 | 0x2FD1      |       12241 |
-|      79 | 0x2FD2      |       12242 |
-|      80 | 0x3021      |       12321 |
+|      76 | 0x2FD0      |       12240 |
+|      77 | 0x2FD1      |       12241 |
+|      78 | 0x2FD2      |       12242 |
+|      79 | 0x2FD3      |       12243 |
+|      80 | 0x3022      |       12322 |
 |      81 | 0x09DE      |        2526 |
-|      82 | 0x2FFE      |       12286 |
-|      83 | 0x2FFF      |       12287 |
-|      84 | 0x3000      |       12288 |
-|      85 | 0x3001      |       12289 |
-|      86 | 0x3027      |       12327 |
-|      87 | 0x3028      |       12328 |
-|      88 | 0x3029      |       12329 |
-|      89 | 0x302A      |       12330 |
-|      90 | 0x302B      |       12331 |
-|      91 | 0x302C      |       12332 |
-|      92 | 0x302E      |       12334 |
-|      93 | 0x302D      |       12333 |
+|      82 | 0x2FFF      |       12287 |
+|      83 | 0x3000      |       12288 |
+|      84 | 0x3001      |       12289 |
+|      85 | 0x3002      |       12290 |
+|      86 | 0x3028      |       12328 |
+|      87 | 0x3029      |       12329 |
+|      88 | 0x302A      |       12330 |
+|      89 | 0x302B      |       12331 |
+|      90 | 0x302C      |       12332 |
+|      91 | 0x302D      |       12333 |
+|      92 | 0x302F      |       12335 |
+|      93 | 0x302E      |       12334 |
 |      94 | 0x0019      |          25 |
 |      95 | 0x002D      |          45 |
 |      96 | 0x0024      |          36 |
 |      97 | 0x0038      |          56 |
-|      98 | 0x2F4E      |       12110 |
-|      99 | 0x2F51      |       12113 |
-|     100 | 0x2F52      |       12114 |
-|     101 | 0x3022      |       12322 |
-|     102 | 0x2FF9      |       12281 |
-|     103 | 0x2FFB      |       12283 |
-|     104 | 0x2FFA      |       12282 |
-|     105 | 0x2FFC      |       12284 |
-|     106 | 0x2FFD      |       12285 |
-|     107 | 0x3025      |       12325 |
-|     108 | 0x2F22      |       12066 |
+|      98 | 0x2F4F      |       12111 |
+|      99 | 0x2F52      |       12114 |
+|     100 | 0x2F53      |       12115 |
+|     101 | 0x3023      |       12323 |
+|     102 | 0x2FFA      |       12282 |
+|     103 | 0x2FFC      |       12284 |
+|     104 | 0x2FFB      |       12283 |
+|     105 | 0x2FFD      |       12285 |
+|     106 | 0x2FFE      |       12286 |
+|     107 | 0x3026      |       12326 |
+|     108 | 0x2F23      |       12067 |
 |     109 | 0x0BB8      |        3000 |
-|     110 | 0x2FD5      |       12245 |
-|     111 | 0x2FD6      |       12246 |
-|     112 | 0x2FD7      |       12247 |
-|     113 | 0x2FD8      |       12248 |
-|     114 | 0x2FD9      |       12249 |
-|     115 | 0x2FDA      |       12250 |
-|     116 | 0x2FE1      |       12257 |
-|     117 | 0x2FD4      |       12244 |
-|     118 | 0x2FDB      |       12251 |
-|     119 | 0x2FDC      |       12252 |
-|     120 | 0x2FDD      |       12253 |
-|     121 | 0x2FDE      |       12254 |
-|     122 | 0x2FDF      |       12255 |
-|     123 | 0x2F53      |       12115 |
-|     124 | 0x2F23      |       12067 |
-|     125 | 0x2EFE      |       12030 |
-|     126 | 0x2F04      |       12036 |
-|     127 | 0x2F05      |       12037 |
-|     128 | 0x2F24      |       12068 |
-|     129 | 0x2F25      |       12069 |
+|     110 | 0x2FD6      |       12246 |
+|     111 | 0x2FD7      |       12247 |
+|     112 | 0x2FD8      |       12248 |
+|     113 | 0x2FD9      |       12249 |
+|     114 | 0x2FDA      |       12250 |
+|     115 | 0x2FDB      |       12251 |
+|     116 | 0x2FE2      |       12258 |
+|     117 | 0x2FD5      |       12245 |
+|     118 | 0x2FDC      |       12252 |
+|     119 | 0x2FDD      |       12253 |
+|     120 | 0x2FDE      |       12254 |
+|     121 | 0x2FDF      |       12255 |
+|     122 | 0x2FE0      |       12256 |
+|     123 | 0x2F54      |       12116 |
+|     124 | 0x2F24      |       12068 |
+|     125 | 0x2EFF      |       12031 |
+|     126 | 0x2F05      |       12037 |
+|     127 | 0x2F06      |       12038 |
+|     128 | 0x2F25      |       12069 |
+|     129 | 0x2F26      |       12070 |
 |     130 | 0x06EC      |        1772 |
 |     131 | 0x0F72      |        3954 |
 |     132 | 0x0FC1      |        4033 |
-|     133 | 0x2F26      |       12070 |
-|     134 | 0x2F27      |       12071 |
+|     133 | 0x2F27      |       12071 |
+|     134 | 0x2F28      |       12072 |
 |     135 | 0x0F73      |        3955 |
 |     136 | 0x0FC2      |        4034 |
-|     137 | 0x2F28      |       12072 |
-|     138 | 0x2F29      |       12073 |
-|     139 | 0x2F2A      |       12074 |
-|     140 | 0x2F2B      |       12075 |
-|     141 | 0x2F2C      |       12076 |
-|     142 | 0x2F32      |       12082 |
-|     143 | 0x2F33      |       12083 |
+|     137 | 0x2F29      |       12073 |
+|     138 | 0x2F2A      |       12074 |
+|     139 | 0x2F2B      |       12075 |
+|     140 | 0x2F2C      |       12076 |
+|     141 | 0x2F2D      |       12077 |
+|     142 | 0x2F33      |       12083 |
+|     143 | 0x2F34      |       12084 |
 |     144 | 0x0F6F      |        3951 |
-|     145 | 0x2F34      |       12084 |
-|     146 | 0x3046      |       12358 |
-|     147 | 0x3047      |       12359 |
-|     148 | 0x2F2D      |       12077 |
-|     149 | 0x2F2E      |       12078 |
-|     150 | 0x2F2F      |       12079 |
-|     151 | 0x2F35      |       12085 |
-|     152 | 0x2FE5      |       12261 |
+|     145 | 0x2F35      |       12085 |
+|     146 | 0x3047      |       12359 |
+|     147 | 0x3048      |       12360 |
+|     148 | 0x2F2E      |       12078 |
+|     149 | 0x2F2F      |       12079 |
+|     150 | 0x2F30      |       12080 |
+|     151 | 0x2F36      |       12086 |
+|     152 | 0x2FE6      |       12262 |
 |     153 | 0x0105      |         261 |
 |     154 | 0x0106      |         262 |
 |     155 | 0x0109      |         265 |
 |     156 | 0x0107      |         263 |
 |     157 | 0x010A      |         266 |
 |     158 | 0x010B      |         267 |
-|     159 | 0x2FE3      |       12259 |
-|     160 | 0x2F36      |       12086 |
-|     161 | 0x2F37      |       12087 |
+|     159 | 0x2FE4      |       12260 |
+|     160 | 0x2F37      |       12087 |
+|     161 | 0x2F38      |       12088 |
 |     162 | 0x000D      |          13 |
 |     163 | 0x000E      |          14 |
-|     164 | 0x2F45      |       12101 |
-|     165 | 0x2FE8      |       12264 |
+|     164 | 0x2F46      |       12102 |
+|     165 | 0x2FE9      |       12265 |
 |     166 | 0x0063      |          99 |
 |     167 | 0x0021      |          33 |
 |     168 | 0x0042      |          66 |
-|     169 | 0x2FE4      |       12260 |
+|     169 | 0x2FE5      |       12261 |
 |     170 | 0x001B      |          27 |
 |     171 | 0x0015      |          21 |
 |     172 | 0x0016      |          22 |
 |     173 | 0x6FC8      |       28616 |
-|     174 | 0x3030      |       12336 |
-|     175 | 0x3031      |       12337 |
-|     176 | 0x3032      |       12338 |
-|     177 | 0x3033      |       12339 |
-|     178 | 0x3034      |       12340 |
-|     179 | 0x3035      |       12341 |
-|     180 | 0x3036      |       12342 |
-|     181 | 0x3037      |       12343 |
-|     182 | 0x3038      |       12344 |
-|     183 | 0x3039      |       12345 |
-|     184 | 0x303A      |       12346 |
-|     185 | 0x303B      |       12347 |
-|     186 | 0x303C      |       12348 |
-|     187 | 0x303D      |       12349 |
-|     188 | 0x303E      |       12350 |
-|     189 | 0x303F      |       12351 |
-|     190 | 0x3040      |       12352 |
-|     191 | 0x3041      |       12353 |
+|     174 | 0x3031      |       12337 |
+|     175 | 0x3032      |       12338 |
+|     176 | 0x3033      |       12339 |
+|     177 | 0x3034      |       12340 |
+|     178 | 0x3035      |       12341 |
+|     179 | 0x3036      |       12342 |
+|     180 | 0x3037      |       12343 |
+|     181 | 0x3038      |       12344 |
+|     182 | 0x3039      |       12345 |
+|     183 | 0x303A      |       12346 |
+|     184 | 0x303B      |       12347 |
+|     185 | 0x303C      |       12348 |
+|     186 | 0x303D      |       12349 |
+|     187 | 0x303E      |       12350 |
+|     188 | 0x303F      |       12351 |
+|     189 | 0x3040      |       12352 |
+|     190 | 0x3041      |       12353 |
+|     191 | 0x3042      |       12354 |
 |     192 | 0x0013      |          19 |
-|     193 | 0x3042      |       12354 |
+|     193 | 0x3043      |       12355 |
 |     194 | 0x0014      |          20 |
-|     195 | 0x3043      |       12355 |
-|     196 | 0x3044      |       12356 |
-|     197 | 0x3045      |       12357 |
+|     195 | 0x3044      |       12356 |
+|     196 | 0x3045      |       12357 |
+|     197 | 0x3046      |       12358 |
 |     198 | 0x0020      |          32 |
 |     199 | 0x0F75      |        3957 |
 |     200 | 0x0FBD      |        4029 |
@@ -1457,146 +1457,146 @@
 |    1426 | 0x0A8C      |        2700 |
 |    1427 | 0x0A8D      |        2701 |
 |    1428 | 0x0A8E      |        2702 |
-|    1429 | 0x3048      |       12360 |
-|    1430 | 0x3049      |       12361 |
+|    1429 | 0x3049      |       12361 |
+|    1430 | 0x304A      |       12362 |
 |    1431 | 0x0044      |          68 |
 
 ## String References
 
-- **12026**: Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]
-- **12030**: Which do you desire? ([Obs. Frag./Corpuscles/MUM Medals]: $0) [None./$1. ($17 [fragments/cor./medals])/$2. ($18 [fragments/cor./medals])/$3. ($19 [fragments/cor./medals])/$4. ($20 [fragments/cor./medals])/$5. ($21 [fragments/cor./medals])/$6. ($22 [fragments/cor./medals])/$7. ($23 [fragments/cor./medals])/$8. ($24 [fragments/cor./medals])/$9. ($25 [fragments/cor./medals])/$10. ($26 [fragments/cor./medals])/$11. ($27 [fragments/cor./medals])/$12. ($28 [fragments/cor./medals])/$13. ($29 [fragments/cor./medals])/$14. ($30 [fragments/cor./medals])/$15. ($31 [fragments/cor./medals])/$16. ($ [fragments/cor./medals])/Previous page./Next page.]
-- **12031**: $1 can be purchased for $2 bayld.
-- **12033**: Proceed with the exchange? (Bayld: $0) [Yes./No.]
-- **12036**: $1 can be redeemed for $2 [fragment/mweya plasm corpuscle/medal][/s].
-- **12037**: Proceed with the exchange? [Yes./No.]
-- **12038**: What will you do? ("[Bayld/Obs. Frag./Corpuscles]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm].]
-- **12057**: Ugtoor of the Inventors' Coalition, at your service. I provide...goods of the guild, so to speak.
-- **12058**: Got bayld? Then I'd be happy to hand over some of the finest Inventors' Coalition creations you'll ever see!
-- **12059**: I am more than willing to supply you with a diverse selection of Inventors' Coalition sundries, but only if you possess an adequate amount of bayld.
-- **12060**: You too can have some of the Inventors' Coalition's highly coveted ergon tinctures in exchange for a tiny pinch of bayld!
-- **12061**: You already know of the ergon loci--locations from which inexplicable powers emanate--don't you?
-- **12062**: While we may have yet to fully understand them, we have succeeded in bottling their essence! As a nod to this elixir's source, we call it "ergon tincture."
-- **12063**: Visitaru me any time you'd like to use my arcane glyptic power-wowers to augment your "Traditional Armor"...if you've got some coalition grease laying around.
-- **12064**: What're arcane glyptics? They closely resemble what you Middle Landers call augments, but there are some slight differences.
-- **12065**: Bayld or obsidian fragments for special arcane glyptics here, plain and simple-wimple. What isn't so simple, though, is that I'm only interestaru'd in weaponry from worlds beyond our own. Also, I'm particular-wicularly fond of ghastly stones.
-- **12066**: Do you wish to have the equipment you wrested from the clutches of the continent's menaces bestowed with certain arcane glyptics? If not, your soul will forever be consumed with regret.
-- **12067**: Take what you want and get out of my face...but not before paying with some obsidian fragments.
-- **12068**: Obsidian fragments are rare things. You can only get them by pioneering.
-- **12069**: Their most obvious use is for redeeming things, but we're trying to research new uses for them. Now hurry up and get your shopping done.
-- **12070**: <Sigh> We've been ordered to accept your old $0 in exchange for $1.
-- **12071**: I have to give you $3 $0$0 for every $2 $0 .
-- **12072**: A very simple process. As I like to say, "Wham, bam, and now scram."
-- **12073**: We've also started some nonsense about trading stones for obsidian fragments.
-- **12074**: I would say I'm pleased to tell you the exchange rate for [obsidian fragments/mweya plasm corpuscles/mummers' medals], but I'm really not.
-- **12075**: Obsidian fragment exchange rate: $7 fragment[/s] for $4 $0$0 . $8 fragment[/s] for $5 $0 . $9 fragment[/s] for $6 $0$3 .
-- **12076**: Just trade me the stones you want to exchange when you feel like it. Don't expect any niceties from me, though.
-- **12077**: You want to trade in $0? Get on with it, then.
-- **12078**: Trade $2 $0 ? [No thanks./Trade for $4 [obsidian fragments/mweya plasm corpuscles/mummers' medals]./Exchange for $3 $1.]
-- **12079**: Proceed with the exchange? [Yes, please./I need some time to think.]
-- **12082**: I'm currently obligated to tell you that we are now able to take your old stones used in skirmishes and give you new ones.
-- **12083**: From what I remember, the rate is something like $3 $0$0 for every $2 $0 and...
-- **12084**: ...$3 $0$0 for every $2 $0 .
-- **12085**: Got more mweya plasm than you know what to do with? Trade it in for some of my finestaru goods!
-- **12086**: Mweya plasm corpuscles are crystallizations of an enigmatic substance that can only be obtained by colonizing the Ulbukan jungle-wungle.
-- **12087**: We're trying to develop-welop new materials from them, but we've yet to meetaru with any success.
-- **12101**: You do not have enough [obsidian fragments/mweya plasm corpuscles/mummers' medals]!
-- **12109**: [Arcane glyptics/Arcane glyptic enhancement] for your $2 as long as you have $1 bayld on hand!
-- **12111**: The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:
-- **12113**: Are you sure you want to [keep the current attributes of/engrave new attributes upon] your $2?
-- **12114**: How do you feel about these attributes? [I heartily enjoy them./I despise them and want new ones.]
-- **12115**: Very well. I shall mezzotint your $2 for a modest fee of $1 bayld.
-- **12223**: Should you seek salvation by enhancing your equipment through arcane glyptics, simply bequeath the requisite materials and equipment to me and I shall work my magic.
-- **12224**: No ordinary beings can perform the feats I accomplish even before breakfast, so there will of course be a slight charge for my services...$1 bayld, to be exact.
-- **12229**: The following pieces of equipment can be #[engraved with arcane glyptics/transmuted].
-- **12230**: Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]
-- **12231**: The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation].
-- **12232**: $33 can be augmented with the ""[HP+/HP+ and MP+/MP+]" arcane glyptic.
-- **12233**: $33 can be augmented with the ""[DMG+, STR+, and DEX+/DMG+, INT+, MND+, and Magic Atk. Bonus/DMG+, INT+, MND+, and Avatar: Magic Atk. Bonus/DMG+, STR+, and AGI+]" arcane glyptics.
-- **12234**: $33 can be augmented with the ""[DMG+, STR+, DEX+, AGI+, VIT+/DMG+, INT+, MND+, CHR+/DMG+, INT+, MND+, CHR+/DMG+, STR+, DEX+, AGI+, VIT+]...
-- **12235**: "[Double Attack/Fast Cast/Pet: Attack/Recycle], "[Increases rate of critical hits, and Magic Def. Bonus/Bonus damage added to magic burst, and Enmity-/Pet: Accuracy, and Avatar perpetuation cost/Snapshot, and Enmity-]" arcane glyptics.
-- **12236**: $33 can be augmented with the ""[Physical damage taken-, HP+, MP+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Cure casting time-/Physical damage taken-, Magic Atk. Bonus, Magic Accuracy+], "[Spell interruption rate down/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Song casting time-, Song recast time/Pet: Attack, Pet: Accuracy, Avatar perpetuation cost]...
-- **12237**: ...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics.
-- **12238**: ...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics.
-- **12239**: ..."[Double Attack/Fast Cast/Pet: Attack/Recycle], "[Increases rate of critical hits, Magic Def. Bonus/Bonus damage added to magic burst, Enmity-/Pet: Accuracy, Avatar perpetuation cost/Snapshot, Enmity-], Weapon skill accuracy, #[Subtle Blow/Waltz potency/Physical damage taken-/Store TP/Charm/Physical damage taken-/Souleater/Pet: Physical damage taken-/Ninjutsu Skill/Store TP/MP recovered while healing/Magic critical hit rate/MP recovered while healing/Critical Hit Rate/Critical Hit Rate]...
-- **12240**: ...#[Pet: Damage taken-/Subtle Blow/Fast Cast/Stun/Enmity-/Haste/Enmity-/Increases critical hit damage/Evasion/Ranged Accuracy/Enmity-/Conserve MP/Summoning magic skill/Store TP/Store TP], and #[Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Elemental magic skill/Pet: Damage taken-/Weapon skill damage/Weapon skill damage]" arcane glyptics.
-- **12241**: ..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics.
-- **12242**: ...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//Enmity-, Bonus damage added to magic burst]"[///, Recycle, Snapshot//, Pet: Magic Atk. Bonus, Pet: Magic Accuracy]"[///, and Magic damage taken-//, and Magic damage taken-]" arcane glyptics.
-- **12243**: $33.
-- **12244**: What shall you do? (Bayld: $0) [Not a thing./Mezzotint equipment./Check materials required./Inquire about arcane glyptics.]
-- **12245**: Arcane glyptics are truly astounding engravings--they can be used to enhance a cornucopia of equipment you find during your pioneering journeys! However, they cannot work their magic until the article in question undergoes a priming process called "mezzotinting."
-- **12246**: There are three glyptic paths down which you may send your equipment. All of them differ in significant ways and will not fail to treat your beloved accouterments right.
-- **12247**: Moreover, your inanimate comrades in combat can be further enhanced by employing materials such as $3 during glyptic engraving.
-- **12248**: I must warn you, however, that the process is not instantaneous. We will need to engrave your articles multiple times before any glyptics take effect.
-- **12249**: Think of it like your pioneering activities. Ulbuka cannot be colonized in a day, nor can we improve your equipment in one try if we want to do a satisfactory job. In addition, your equipment may undergo mezzotinting any time you wish to set it down a new path to clearing the continent of danger. Simply ask and you shall receive.
-- **12250**: Lest I forget, I should also mention that a fee of $1 bayld is required for the first mezzotinting, while $2 is the price for subsequent ones and enhancement via materials.
-- **12251**: Your $33 has already been engraved with an arcane glyptic, the benefits of which will be lost upon mezzotinting. Do you still wish to proceed?
-- **12252**: Proceed with mezzotinting? [Yes, scrape all the excess benefits away!/No, I love my little precious too much!]
-- **12253**: Which type of glyptics shall you engrave?
-- **12254**: Which type do you want engraved? [None./Arcane Glyptic Type A./Arcane Glyptic Type B./Arcane Glyptic Type C.]
-- **12255**: Do you wish to mezzotint your weapon so that it is primed to receive the aforementioned attribute enhancements?
-- **12257**: Here is your $33.
-- **12259**: What area is your equipment from? [Nowhere, now begone./$8./$8./$8./$8./$8./$8.]
-- **12260**: This $33 looks as if it can be engraved with a peculiar sort of arcane glyptic. It may behoove you to show this to the person in charge of such procedures.
-- **12261**: Take a gander at what? [Nothing./Equipment./Materials.]
-- **12264**: How many do you wish to receive? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12.]
-- **12265**: You wish to purchase $3 $0$0 ? Then I shall require $2 [fragment/mweya plasm corpuscle/medal/bayld clump][/s].
-- **12271**: For a tiny bit of bayld or a smidgen of obsidian fragments, I can transmutaru your equipment or engrave it with arcane glyptic-wyptics.
-- **12272**: What will you do? ("[Bayld/Obs. Frag./Mweya Plasm]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm]./[@/Learn about transmuting equipment/@/@]./[@/Check transmutable equipment/@/@]./[@/Check transmutation materials/@/@]./Learn about [@/transmutation in general/stone exchange services/@]./[@/Ask about stored materials/@]./[@/Have stored materials returned/@].]
-- **12273**: If you ever-wever want to transmute equipment, just trade me the appropriataru piece and nothing more while in possession of $6.
-- **12274**: Now, I'm an honestaru businessman. I'll tell you in advance that I require a fee of $1 bayld for my service.
-- **12275**: Transmutation is a process resembling-wembling the synthesis of high-quality equipment.
-- **12276**: The process is shrouded-wouded in mystery, and we aren't about to give away our secrets. I will, however, impartaru to you that we employ $5 to work our magic.
-- **12277**: As a note of warning, transmuting equipment rubs out any arcane glyptics you have currentaruly engraved. Sorry, but dem's da breaks.
-- **12278**: The following must be procured to engrave arcane glyptics on $33.
-- **12280**: $3.
-- **12281**: I will need-weed $1 bayld to transmute this $2.
-- **12282**: Begin your journey down the wonderful road of transmutation-wation!
-- **12283**: What shall you do? [Check current attributes./Check post-transmutation attributes./Transmute the equipment./Nothing.]
-- **12284**: Transmute the piece of equipment? [Yes./No.]
-- **12285**: End transmutation? [Yes./No.]
-- **12286**: Just so you know, I don't transmutaru anything for people who aren't in possession of either $6 or $6.
-- **12287**: If you do have one, though, you need only trade-wade me the equipmentaru in question.
-- **12288**: The whole process-wocess is easier than making trail cookies! We take $5 or $5 and...
-- **12289**: ...Use our magical inventors' powers to transmute the articles you give us! What, you thoughtaru we'd just give away our closely guarded secret to possible competition?
-- **12321**: There's a veritable cornucopia-wopia of arcane glyptics I can engrave upon your $33, but their effects tend to differ depending on the materials used.
-- **12322**: Got $1 obsidian fragment[/s] on your hands? Then I can engrave your $2 with some astounding arcane glyptic-wyptics!
-- **12323**: Ah, but certain pieces of equipmentaru will require a little more tender loving care...along with $1 obsidian fragment[/s] to compensate.
-- **12324**: Have you ever feltaru that those special stones from skirmishes you've been lugging around in your bags have been cramping your style? Well, you're in luck! I've started-warted a storage service to meet the needs of the times.
-- **12325**: So you want me to hold some $0 for you? Let me have a look... This makes for a total of $1 I have stored for you.
-- **12327**: I'll happily store skirmish stones for you. Just trade-wade them to me one type at a time.
-- **12328**: I'm able to save up the following material-werials.
-- **12329**: You've currently entrustarued me with the following items.
-- **12330**: Have which item returned? [None of the above./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]
-- **12331**: My records indicataru that I'm holding $" of that type for you. How many would you like?
-- **12332**: $!? I'll get them for you right away.
-- **12333**: Not interested-winterested? Never fear, I'll still be here should you require me to return them.
-- **12334**: Don't try to pull a fastaru one on me! I'm not holding that many $33 for you! Only $"!
-- **12336**: Up for bashing some skulls? Well, you're in luck, because I can engrave your $33 with bonuses to strength, dexterity, accuracy, and critical hit damage.
-- **12337**: Fists of Fury not quite furious enough? Then take a look at what bonuses I can engrave on your $33: strength, dexterity, Counter, and Subtle Blow.
-- **12338**: Topping up your comrades more your style? Then you'll probably want your $33 engraved with bonuses to magic accuracy, healing magic skill, enhancing magic skill, and Cure potency.
-- **12339**: If you're into blasting your enemies with magic, then you'll probably want me to engrave your $33 with enhancements to Magic Attack Bonus, Fast Cast, elemental magic skill, and dark magic skill.
-- **12340**: The discerning red mage will surely prefer their $33 engraved with bonuses to magic accuracy, enfeebling magic skill, enhancing magic skill, and enhancing magic duration.
-- **12341**: The more unscrupulous gil-nabbers will appreciate $33 engraved with dexterity, agility, Dual Wield, and critical hit damage.
-- **12342**: If your calling is to protect your allies, you'll want your $33 engraved with bonuses to dexterity, vitality, enmity, and Phalanx.
-- **12343**: The darkest among the dark will certainly desire $33 engraved with bonuses to attack, dark magic skill, weapon skill damage, and Drain and Aspir potency.
-- **12344**: Help your favorite companion become better than ever before with $33 engraved with enhancements to strength, dexterity, accuracy, pet damage resistance, and pet accuracy.
-- **12345**: Be safer than ever when supporting your allies with $33 engraved with HP, magic accuracy, decreased enmity, and decreased damage taken.
-- **12346**: Let your shots ring true with $33 engraved with strength, agility, Store TP, and Snapshot.
-- **12347**: Slice through your foes after you get your $33 engraved with strength, Store TP, Zanshin, and Meditate duration.
-- **12348**: Strike at your enemies from the shadows with $33 engraved with strength, dexterity, skillchain damage, and weapon skill damage.
-- **12349**: Leap to even greater heights when your $33 is engraved with enhancements to strength, weapon skill damage, wyvern damage resistance, and wyvern breath potency.
-- **12350**: Need a stronger avatar? Then you'll surely appreciate $33 engraved with bonuses to summoning magic skill and Blood Pact damage, decreased Blood Pact recast time II, and increased avatar enmity.
-- **12351**: Feeling a little blue? Don't, because I can engrave your $33 with MP, dexterity, accuracy, and blue magic skill.
-- **12352**: Get ready to roll the dice with $33 engraved with Magic Attack Bonus, decreased Phantom Roll recast delay, decreased enmity, and weapon skill damage.
-- **12353**: Pull some strings once you get your $33 engraved with bonuses to strength, dexterity, Martial Arts, and a TP bonus for your automaton.
-- **12354**: Twist, twirl and sashay your way to victory with $33 engraved with bonuses to Store TP, Dual Wield, Reverse Flourish, and weapon skill damage.
-- **12355**: Put your book knowledge into practice with $33 engraved with bonuses to intelligence, mind, helix duration, and Regen potency.
-- **12356**: Why are you looking so indi-gnant? Get your $33 engraved with enhancements to geomancy skill, indicolure duration, damage resistance, and luopan damage resistance today!
-- **12357**: Make the elements bow to your will with $33 engraved with bonuses to Double Attack, enmity generation, Embolden, and damage resistance.
-- **12358**: How many would you like?
-- **12359**: How many? ($0 [obsidian fragments/mweya plasm corpuscles/Mummers' medals]) [Exchange. ($1 [obsidian fragments/mweya plasm corpuscles/Mummers' medals] needed)/Let me think some more.]
-- **12360**: Excuse me, but I do not believe you have $6, do you?
-- **12361**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
+- **12027**: Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]
+- **12031**: Which do you desire? ([Obs. Frag./Corpuscles/MUM Medals]: $0) [None./$1. ($17 [fragments/cor./medals])/$2. ($18 [fragments/cor./medals])/$3. ($19 [fragments/cor./medals])/$4. ($20 [fragments/cor./medals])/$5. ($21 [fragments/cor./medals])/$6. ($22 [fragments/cor./medals])/$7. ($23 [fragments/cor./medals])/$8. ($24 [fragments/cor./medals])/$9. ($25 [fragments/cor./medals])/$10. ($26 [fragments/cor./medals])/$11. ($27 [fragments/cor./medals])/$12. ($28 [fragments/cor./medals])/$13. ($29 [fragments/cor./medals])/$14. ($30 [fragments/cor./medals])/$15. ($31 [fragments/cor./medals])/$16. ($ [fragments/cor./medals])/Previous page./Next page.]
+- **12032**: $1 can be purchased for $2 bayld.
+- **12034**: Proceed with the exchange? (Bayld: $0) [Yes./No.]
+- **12037**: $1 can be redeemed for $2 [fragment/mweya plasm corpuscle/medal][/s].
+- **12038**: Proceed with the exchange? [Yes./No.]
+- **12039**: What will you do? ("[Bayld/Obs. Frag./Corpuscles]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm].]
+- **12058**: Ugtoor of the Inventors' Coalition, at your service. I provide...goods of the guild, so to speak.
+- **12059**: Got bayld? Then I'd be happy to hand over some of the finest Inventors' Coalition creations you'll ever see!
+- **12060**: I am more than willing to supply you with a diverse selection of Inventors' Coalition sundries, but only if you possess an adequate amount of bayld.
+- **12061**: You too can have some of the Inventors' Coalition's highly coveted ergon tinctures in exchange for a tiny pinch of bayld!
+- **12062**: You already know of the ergon loci--locations from which inexplicable powers emanate--don't you?
+- **12063**: While we may have yet to fully understand them, we have succeeded in bottling their essence! As a nod to this elixir's source, we call it "ergon tincture."
+- **12064**: Visitaru me any time you'd like to use my arcane glyptic power-wowers to augment your "Traditional Armor"...if you've got some coalition grease laying around.
+- **12065**: What're arcane glyptics? They closely resemble what you Middle Landers call augments, but there are some slight differences.
+- **12066**: Bayld or obsidian fragments for special arcane glyptics here, plain and simple-wimple. What isn't so simple, though, is that I'm only interestaru'd in weaponry from worlds beyond our own. Also, I'm particular-wicularly fond of ghastly stones.
+- **12067**: Do you wish to have the equipment you wrested from the clutches of the continent's menaces bestowed with certain arcane glyptics? If not, your soul will forever be consumed with regret.
+- **12068**: Take what you want and get out of my face...but not before paying with some obsidian fragments.
+- **12069**: Obsidian fragments are rare things. You can only get them by pioneering.
+- **12070**: Their most obvious use is for redeeming things, but we're trying to research new uses for them. Now hurry up and get your shopping done.
+- **12071**: <Sigh> We've been ordered to accept your old $0 in exchange for $1.
+- **12072**: I have to give you $3 $0$0 for every $2 $0 .
+- **12073**: A very simple process. As I like to say, "Wham, bam, and now scram."
+- **12074**: We've also started some nonsense about trading stones for obsidian fragments.
+- **12075**: I would say I'm pleased to tell you the exchange rate for [obsidian fragments/mweya plasm corpuscles/mummers' medals], but I'm really not.
+- **12076**: Obsidian fragment exchange rate: $7 fragment[/s] for $4 $0$0 . $8 fragment[/s] for $5 $0 . $9 fragment[/s] for $6 $0$3 .
+- **12077**: Just trade me the stones you want to exchange when you feel like it. Don't expect any niceties from me, though.
+- **12078**: You want to trade in $0? Get on with it, then.
+- **12079**: Trade $2 $0 ? [No thanks./Trade for $4 [obsidian fragments/mweya plasm corpuscles/mummers' medals]./Exchange for $3 $1.]
+- **12080**: Proceed with the exchange? [Yes, please./I need some time to think.]
+- **12083**: I'm currently obligated to tell you that we are now able to take your old stones used in skirmishes and give you new ones.
+- **12084**: From what I remember, the rate is something like $3 $0$0 for every $2 $0 and...
+- **12085**: ...$3 $0$0 for every $2 $0 .
+- **12086**: Got more mweya plasm than you know what to do with? Trade it in for some of my finestaru goods!
+- **12087**: Mweya plasm corpuscles are crystallizations of an enigmatic substance that can only be obtained by colonizing the Ulbukan jungle-wungle.
+- **12088**: We're trying to develop-welop new materials from them, but we've yet to meetaru with any success.
+- **12102**: You do not have enough [obsidian fragments/mweya plasm corpuscles/mummers' medals]!
+- **12110**: [Arcane glyptics/Arcane glyptic enhancement] for your $2 as long as you have $1 bayld on hand!
+- **12112**: The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:
+- **12114**: Are you sure you want to [keep the current attributes of/engrave new attributes upon] your $2?
+- **12115**: How do you feel about these attributes? [I heartily enjoy them./I despise them and want new ones.]
+- **12116**: Very well. I shall mezzotint your $2 for a modest fee of $1 bayld.
+- **12224**: Should you seek salvation by enhancing your equipment through arcane glyptics, simply bequeath the requisite materials and equipment to me and I shall work my magic.
+- **12225**: No ordinary beings can perform the feats I accomplish even before breakfast, so there will of course be a slight charge for my services...$1 bayld, to be exact.
+- **12230**: The following pieces of equipment can be #[engraved with arcane glyptics/transmuted].
+- **12231**: Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]
+- **12232**: The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation].
+- **12233**: $33 can be augmented with the ""[HP+/HP+ and MP+/MP+]" arcane glyptic.
+- **12234**: $33 can be augmented with the ""[DMG+, STR+, and DEX+/DMG+, INT+, MND+, and Magic Atk. Bonus/DMG+, INT+, MND+, and Avatar: Magic Atk. Bonus/DMG+, STR+, and AGI+]" arcane glyptics.
+- **12235**: $33 can be augmented with the ""[DMG+, STR+, DEX+, AGI+, VIT+/DMG+, INT+, MND+, CHR+/DMG+, INT+, MND+, CHR+/DMG+, STR+, DEX+, AGI+, VIT+]...
+- **12236**: "[Double Attack/Fast Cast/Pet: Attack/Recycle], "[Increases rate of critical hits, and Magic Def. Bonus/Bonus damage added to magic burst, and Enmity-/Pet: Accuracy, and Avatar perpetuation cost/Snapshot, and Enmity-]" arcane glyptics.
+- **12237**: $33 can be augmented with the ""[Physical damage taken-, HP+, MP+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Cure casting time-/Physical damage taken-, Magic Atk. Bonus, Magic Accuracy+], "[Spell interruption rate down/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Song casting time-, Song recast time/Pet: Attack, Pet: Accuracy, Avatar perpetuation cost]...
+- **12238**: ...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics.
+- **12239**: ...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics.
+- **12240**: ..."[Double Attack/Fast Cast/Pet: Attack/Recycle], "[Increases rate of critical hits, Magic Def. Bonus/Bonus damage added to magic burst, Enmity-/Pet: Accuracy, Avatar perpetuation cost/Snapshot, Enmity-], Weapon skill accuracy, #[Subtle Blow/Waltz potency/Physical damage taken-/Store TP/Charm/Physical damage taken-/Souleater/Pet: Physical damage taken-/Ninjutsu Skill/Store TP/MP recovered while healing/Magic critical hit rate/MP recovered while healing/Critical Hit Rate/Critical Hit Rate]...
+- **12241**: ...#[Pet: Damage taken-/Subtle Blow/Fast Cast/Stun/Enmity-/Haste/Enmity-/Increases critical hit damage/Evasion/Ranged Accuracy/Enmity-/Conserve MP/Summoning magic skill/Store TP/Store TP], and #[Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Elemental magic skill/Pet: Damage taken-/Weapon skill damage/Weapon skill damage]" arcane glyptics.
+- **12242**: ..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics.
+- **12243**: ...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//Enmity-, Bonus damage added to magic burst]"[///, Recycle, Snapshot//, Pet: Magic Atk. Bonus, Pet: Magic Accuracy]"[///, and Magic damage taken-//, and Magic damage taken-]" arcane glyptics.
+- **12244**: $33.
+- **12245**: What shall you do? (Bayld: $0) [Not a thing./Mezzotint equipment./Check materials required./Inquire about arcane glyptics.]
+- **12246**: Arcane glyptics are truly astounding engravings--they can be used to enhance a cornucopia of equipment you find during your pioneering journeys! However, they cannot work their magic until the article in question undergoes a priming process called "mezzotinting."
+- **12247**: There are three glyptic paths down which you may send your equipment. All of them differ in significant ways and will not fail to treat your beloved accouterments right.
+- **12248**: Moreover, your inanimate comrades in combat can be further enhanced by employing materials such as $3 during glyptic engraving.
+- **12249**: I must warn you, however, that the process is not instantaneous. We will need to engrave your articles multiple times before any glyptics take effect.
+- **12250**: Think of it like your pioneering activities. Ulbuka cannot be colonized in a day, nor can we improve your equipment in one try if we want to do a satisfactory job. In addition, your equipment may undergo mezzotinting any time you wish to set it down a new path to clearing the continent of danger. Simply ask and you shall receive.
+- **12251**: Lest I forget, I should also mention that a fee of $1 bayld is required for the first mezzotinting, while $2 is the price for subsequent ones and enhancement via materials.
+- **12252**: Your $33 has already been engraved with an arcane glyptic, the benefits of which will be lost upon mezzotinting. Do you still wish to proceed?
+- **12253**: Proceed with mezzotinting? [Yes, scrape all the excess benefits away!/No, I love my little precious too much!]
+- **12254**: Which type of glyptics shall you engrave?
+- **12255**: Which type do you want engraved? [None./Arcane Glyptic Type A./Arcane Glyptic Type B./Arcane Glyptic Type C.]
+- **12256**: Do you wish to mezzotint your weapon so that it is primed to receive the aforementioned attribute enhancements?
+- **12258**: Here is your $33.
+- **12260**: What area is your equipment from? [Nowhere, now begone./$8./$8./$8./$8./$8./$8.]
+- **12261**: This $33 looks as if it can be engraved with a peculiar sort of arcane glyptic. It may behoove you to show this to the person in charge of such procedures.
+- **12262**: Take a gander at what? [Nothing./Equipment./Materials.]
+- **12265**: How many do you wish to receive? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12.]
+- **12266**: You wish to purchase $3 $0$0 ? Then I shall require $2 [fragment/mweya plasm corpuscle/medal/bayld clump][/s].
+- **12272**: For a tiny bit of bayld or a smidgen of obsidian fragments, I can transmutaru your equipment or engrave it with arcane glyptic-wyptics.
+- **12273**: What will you do? ("[Bayld/Obs. Frag./Mweya Plasm]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm]./[@/Learn about transmuting equipment/@/@]./[@/Check transmutable equipment/@/@]./[@/Check transmutation materials/@/@]./Learn about [@/transmutation in general/stone exchange services/@]./[@/Ask about stored materials/@]./[@/Have stored materials returned/@].]
+- **12274**: If you ever-wever want to transmute equipment, just trade me the appropriataru piece and nothing more while in possession of $6.
+- **12275**: Now, I'm an honestaru businessman. I'll tell you in advance that I require a fee of $1 bayld for my service.
+- **12276**: Transmutation is a process resembling-wembling the synthesis of high-quality equipment.
+- **12277**: The process is shrouded-wouded in mystery, and we aren't about to give away our secrets. I will, however, impartaru to you that we employ $5 to work our magic.
+- **12278**: As a note of warning, transmuting equipment rubs out any arcane glyptics you have currentaruly engraved. Sorry, but dem's da breaks.
+- **12279**: The following must be procured to engrave arcane glyptics on $33.
+- **12281**: $3.
+- **12282**: I will need-weed $1 bayld to transmute this $2.
+- **12283**: Begin your journey down the wonderful road of transmutation-wation!
+- **12284**: What shall you do? [Check current attributes./Check post-transmutation attributes./Transmute the equipment./Nothing.]
+- **12285**: Transmute the piece of equipment? [Yes./No.]
+- **12286**: End transmutation? [Yes./No.]
+- **12287**: Just so you know, I don't transmutaru anything for people who aren't in possession of either $6 or $6.
+- **12288**: If you do have one, though, you need only trade-wade me the equipmentaru in question.
+- **12289**: The whole process-wocess is easier than making trail cookies! We take $5 or $5 and...
+- **12290**: ...Use our magical inventors' powers to transmute the articles you give us! What, you thoughtaru we'd just give away our closely guarded secret to possible competition?
+- **12322**: There's a veritable cornucopia-wopia of arcane glyptics I can engrave upon your $33, but their effects tend to differ depending on the materials used.
+- **12323**: Got $1 obsidian fragment[/s] on your hands? Then I can engrave your $2 with some astounding arcane glyptic-wyptics!
+- **12324**: Ah, but certain pieces of equipmentaru will require a little more tender loving care...along with $1 obsidian fragment[/s] to compensate.
+- **12325**: Have you ever feltaru that those special stones from skirmishes you've been lugging around in your bags have been cramping your style? Well, you're in luck! I've started-warted a storage service to meet the needs of the times.
+- **12326**: So you want me to hold some $0 for you? Let me have a look... This makes for a total of $1 I have stored for you.
+- **12328**: I'll happily store skirmish stones for you. Just trade-wade them to me one type at a time.
+- **12329**: I'm able to save up the following material-werials.
+- **12330**: You've currently entrustarued me with the following items.
+- **12331**: Have which item returned? [None of the above./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]
+- **12332**: My records indicataru that I'm holding $" of that type for you. How many would you like?
+- **12333**: $!? I'll get them for you right away.
+- **12334**: Not interested-winterested? Never fear, I'll still be here should you require me to return them.
+- **12335**: Don't try to pull a fastaru one on me! I'm not holding that many $33 for you! Only $"!
+- **12337**: Up for bashing some skulls? Well, you're in luck, because I can engrave your $33 with bonuses to strength, dexterity, accuracy, and critical hit damage.
+- **12338**: Fists of Fury not quite furious enough? Then take a look at what bonuses I can engrave on your $33: strength, dexterity, Counter, and Subtle Blow.
+- **12339**: Topping up your comrades more your style? Then you'll probably want your $33 engraved with bonuses to magic accuracy, healing magic skill, enhancing magic skill, and Cure potency.
+- **12340**: If you're into blasting your enemies with magic, then you'll probably want me to engrave your $33 with enhancements to Magic Attack Bonus, Fast Cast, elemental magic skill, and dark magic skill.
+- **12341**: The discerning red mage will surely prefer their $33 engraved with bonuses to magic accuracy, enfeebling magic skill, enhancing magic skill, and enhancing magic duration.
+- **12342**: The more unscrupulous gil-nabbers will appreciate $33 engraved with dexterity, agility, Dual Wield, and critical hit damage.
+- **12343**: If your calling is to protect your allies, you'll want your $33 engraved with bonuses to dexterity, vitality, enmity, and Phalanx.
+- **12344**: The darkest among the dark will certainly desire $33 engraved with bonuses to attack, dark magic skill, weapon skill damage, and Drain and Aspir potency.
+- **12345**: Help your favorite companion become better than ever before with $33 engraved with enhancements to strength, dexterity, accuracy, pet damage resistance, and pet accuracy.
+- **12346**: Be safer than ever when supporting your allies with $33 engraved with HP, magic accuracy, decreased enmity, and decreased damage taken.
+- **12347**: Let your shots ring true with $33 engraved with strength, agility, Store TP, and Snapshot.
+- **12348**: Slice through your foes after you get your $33 engraved with strength, Store TP, Zanshin, and Meditate duration.
+- **12349**: Strike at your enemies from the shadows with $33 engraved with strength, dexterity, skillchain damage, and weapon skill damage.
+- **12350**: Leap to even greater heights when your $33 is engraved with enhancements to strength, weapon skill damage, wyvern damage resistance, and wyvern breath potency.
+- **12351**: Need a stronger avatar? Then you'll surely appreciate $33 engraved with bonuses to summoning magic skill and Blood Pact damage, decreased Blood Pact recast time II, and increased avatar enmity.
+- **12352**: Feeling a little blue? Don't, because I can engrave your $33 with MP, dexterity, accuracy, and blue magic skill.
+- **12353**: Get ready to roll the dice with $33 engraved with Magic Attack Bonus, decreased Phantom Roll recast delay, decreased enmity, and weapon skill damage.
+- **12354**: Pull some strings once you get your $33 engraved with bonuses to strength, dexterity, Martial Arts, and a TP bonus for your automaton.
+- **12355**: Twist, twirl and sashay your way to victory with $33 engraved with bonuses to Store TP, Dual Wield, Reverse Flourish, and weapon skill damage.
+- **12356**: Put your book knowledge into practice with $33 engraved with bonuses to intelligence, mind, helix duration, and Regen potency.
+- **12357**: Why are you looking so indi-gnant? Get your $33 engraved with enhancements to geomancy skill, indicolure duration, damage resistance, and luopan damage resistance today!
+- **12358**: Make the elements bow to your will with $33 engraved with bonuses to Double Attack, enmity generation, Embolden, and damage resistance.
+- **12359**: How many would you like?
+- **12360**: How many? ($0 [obsidian fragments/mweya plasm corpuscles/Mummers' medals]) [Exchange. ($1 [obsidian fragments/mweya plasm corpuscles/Mummers' medals] needed)/Let me think some more.]
+- **12361**: Excuse me, but I do not believe you have $6, do you?
+- **12362**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
 
 ## Events
 
@@ -3640,7 +3640,7 @@ SUBROUTINE_3725:
   3: 0x3725 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   4: 0x3726 [0x1E] EventEntity looks at LocalPlayer and starts talking
   5: 0x372B [0x1A] CALL_SUBROUTINE(address=0x588D)
-  6: 0x372E [0x1D] PRINT_EVENT_MESSAGE(message_id=12325*)
+  6: 0x372E [0x1D] PRINT_EVENT_MESSAGE(message_id=12326*)
     → "So you want me to hold some $0 for you? Let me have a look... This makes for a total of $1 I have stored for you."
   7: 0x3731 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x3732 [0x1B] RETURN
@@ -3675,7 +3675,7 @@ SUBROUTINE_588D:
      0x0040 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[5]
      0x0045 [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x004E [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
-     0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=12057*)
+     0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=12058*)
     → "Ugtoor of the Inventors' Coalition, at your service. I provide...goods of the guild, so to speak."
      0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x005B [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -3683,7 +3683,7 @@ SUBROUTINE_588D:
      0x0066 [0x1A] CALL_SUBROUTINE(address=0x016F)
      0x0069 [0x1A] CALL_SUBROUTINE(address=0x02A4)
      0x006C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x0071 [0x24] CREATE_DIALOG(message_id=12026*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
+     0x0071 [0x24] CREATE_DIALOG(message_id=12027*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]"
      0x0078 [0x25] WAIT_DIALOG_SELECT()
      0x0079 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008C
@@ -3722,12 +3722,12 @@ SUBROUTINE_588D:
      0x0121 [0x01] GOTO 0x0129
      0x0124 [0x14] Work_Zone[4] *= 3*
      0x0129 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
-     0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+     0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "$1 can be purchased for $2 bayld."
      0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0130 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0133 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x0138 [0x24] CREATE_DIALOG(message_id=12033*, default_option=1*, option_flags=0*)
+     0x0138 [0x24] CREATE_DIALOG(message_id=12034*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x013F [0x25] WAIT_DIALOG_SELECT()
      0x0140 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0160
@@ -3846,7 +3846,7 @@ SUBROUTINE_588D:
      0x037D [0x03] ExtData[1]->WorkLocal[52] = Work_Zone[6]
      0x0382 [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x038B [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
-     0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=12058*)
+     0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=12059*)
     → "Got bayld? Then I'd be happy to hand over some of the finest Inventors' Coalition creations you'll ever see!"
      0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0398 [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -3854,7 +3854,7 @@ SUBROUTINE_588D:
      0x03A3 [0x1A] CALL_SUBROUTINE(address=0x0462)
      0x03A6 [0x1A] CALL_SUBROUTINE(address=0x054F)
      0x03A9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x03AE [0x24] CREATE_DIALOG(message_id=12026*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
+     0x03AE [0x24] CREATE_DIALOG(message_id=12027*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]"
      0x03B5 [0x25] WAIT_DIALOG_SELECT()
      0x03B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03C9
@@ -3878,12 +3878,12 @@ SUBROUTINE_588D:
      0x0414 [0x01] GOTO 0x041C
      0x0417 [0x14] Work_Zone[4] *= 3*
      0x041C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
-     0x041F [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+     0x041F [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "$1 can be purchased for $2 bayld."
      0x0422 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0423 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0426 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x042B [0x24] CREATE_DIALOG(message_id=12033*, default_option=1*, option_flags=0*)
+     0x042B [0x24] CREATE_DIALOG(message_id=12034*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x0432 [0x25] WAIT_DIALOG_SELECT()
      0x0433 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0453
@@ -3967,7 +3967,7 @@ SUBROUTINE_588D:
      0x05BF [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[5]
      0x05C4 [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x05CD [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
-     0x05D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12059*)
+     0x05D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12060*)
     → "I am more than willing to supply you with a diverse selection of Inventors' Coalition sundries, but only if you possess an adequate amount of bayld."
      0x05D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05DA [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -3975,7 +3975,7 @@ SUBROUTINE_588D:
      0x05E5 [0x1A] CALL_SUBROUTINE(address=0x0741)
      0x05E8 [0x1A] CALL_SUBROUTINE(address=0x0892)
      0x05EB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x05F0 [0x24] CREATE_DIALOG(message_id=12026*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
+     0x05F0 [0x24] CREATE_DIALOG(message_id=12027*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]"
      0x05F7 [0x25] WAIT_DIALOG_SELECT()
      0x05F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x060B
@@ -4023,19 +4023,19 @@ SUBROUTINE_588D:
      0x06CF [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
      0x06D2 [0x02] IF !(ExtData[1]->WorkLocal[65] == 1*) GOTO 0x06E6
      0x06DA [0x03] Work_Zone_1700[25] = 1*
-     0x06DF [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+     0x06DF [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "$1 can be purchased for $2 bayld."
      0x06E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06E3 [0x01] GOTO 0x06F9
      0x06E6 [0x03] Work_Zone_1700[25] = 3*
      0x06EB [0x14] Work_Zone[4] *= ExtData[1]->WorkLocal[65]
      0x06F0 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[65]
-     0x06F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12265*)
+     0x06F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12266*)
     → "You wish to purchase $3 $0$0 ? Then I shall require $2 [fragment/mweya plasm corpuscle/medal/bayld clump][/s]."
      0x06F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06F9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x06FC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x0701 [0x24] CREATE_DIALOG(message_id=12033*, default_option=1*, option_flags=0*)
+     0x0701 [0x24] CREATE_DIALOG(message_id=12034*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x0708 [0x25] WAIT_DIALOG_SELECT()
      0x0709 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0732
@@ -4152,7 +4152,7 @@ SUBROUTINE_588D:
      0x093B [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[6]
      0x0940 [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x0949 [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
-     0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=12060*)
+     0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=12061*)
     → "You too can have some of the Inventors' Coalition's highly coveted ergon tinctures in exchange for a tiny pinch of bayld!"
      0x0955 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0956 [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -4160,7 +4160,7 @@ SUBROUTINE_588D:
      0x0961 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x0966 [0x03] Work_Zone_1700[25] = 0*
      0x096B [0x03] Work_Zone_1700[26] = 0*
-     0x0970 [0x24] CREATE_DIALOG(message_id=12038*, default_option=ExtData[1]->WorkLocal[8], option_flags=12*)
+     0x0970 [0x24] CREATE_DIALOG(message_id=12039*, default_option=ExtData[1]->WorkLocal[8], option_flags=12*)
     → "What will you do? ("[Bayld/Obs. Frag./Corpuscles]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm].]"
      0x0977 [0x25] WAIT_DIALOG_SELECT()
      0x0978 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x098B
@@ -4173,7 +4173,7 @@ SUBROUTINE_588D:
      0x099E [0x1A] CALL_SUBROUTINE(address=0x0AC3)
      0x09A1 [0x1A] CALL_SUBROUTINE(address=0x0BFD)
      0x09A4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x09A9 [0x24] CREATE_DIALOG(message_id=12026*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
+     0x09A9 [0x24] CREATE_DIALOG(message_id=12027*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]"
      0x09B0 [0x25] WAIT_DIALOG_SELECT()
      0x09B1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09C4
@@ -4212,12 +4212,12 @@ SUBROUTINE_588D:
      0x0A59 [0x01] GOTO 0x0A61
      0x0A5C [0x14] Work_Zone[4] *= 3*
      0x0A61 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
-     0x0A64 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+     0x0A64 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "$1 can be purchased for $2 bayld."
      0x0A67 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A68 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0A6B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x0A70 [0x24] CREATE_DIALOG(message_id=12033*, default_option=1*, option_flags=0*)
+     0x0A70 [0x24] CREATE_DIALOG(message_id=12034*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x0A77 [0x25] WAIT_DIALOG_SELECT()
      0x0A78 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A9B
@@ -4231,10 +4231,10 @@ SUBROUTINE_588D:
      0x0AA6 [0x01] GOTO 0x0996
      0x0AA9 [0x01] GOTO 0x0ABF
      0x0AAC [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0ABF
-     0x0AB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12061*)
+     0x0AB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12062*)
     → "You already know of the ergon loci--locations from which inexplicable powers emanate--don't you?"
      0x0AB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0AB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12062*)
+     0x0AB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12063*)
     → "While we may have yet to fully understand them, we have succeeded in bottling their essence! As a nod to this elixir's source, we call it "ergon tincture.""
      0x0ABB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ABC [0x01] GOTO 0x0ABF
@@ -4344,14 +4344,14 @@ SUBROUTINE_588D:
      0x0CC1 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[5]
      0x0CC6 [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x0CCF [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
-     0x0CD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12063*)
+     0x0CD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
     → "Visitaru me any time you'd like to use my arcane glyptic power-wowers to augment your "Traditional Armor"...if you've got some coalition grease laying around."
      0x0CDB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CDC [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0EE5
      0x0CE4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x0CE9 [0x03] Work_Zone_1700[25] = 1*
      0x0CEE [0x03] Work_Zone_1700[26] = 0*
-     0x0CF3 [0x24] CREATE_DIALOG(message_id=12038*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
+     0x0CF3 [0x24] CREATE_DIALOG(message_id=12039*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
     → "What will you do? ("[Bayld/Obs. Frag./Corpuscles]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm].]"
      0x0CFA [0x25] WAIT_DIALOG_SELECT()
      0x0CFB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D0E
@@ -4359,7 +4359,7 @@ SUBROUTINE_588D:
      0x0D08 [0x05] ExtData[1]->WorkLocal[3] = 1
      0x0D0B [0x01] GOTO 0x0EE2
      0x0D0E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D61
-     0x0D16 [0x1D] PRINT_EVENT_MESSAGE(message_id=12223*)
+     0x0D16 [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
     → "Should you seek salvation by enhancing your equipment through arcane glyptics, simply bequeath the requisite materials and equipment to me and I shall work my magic."
      0x0D19 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D1A [0x03] Work_Zone[3] = 2000*
@@ -4374,13 +4374,13 @@ SUBROUTINE_588D:
      0x0D48 [0x02] IF !(ExtData[1]->WorkLocal[24] <= 0*) GOTO 0x0D5A
      0x0D50 [0x14] Work_Zone[3] *= 90*
      0x0D55 [0x15] Work_Zone[3] /= 100*
-     0x0D5A [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
+     0x0D5A [0x1D] PRINT_EVENT_MESSAGE(message_id=12225*)
     → "No ordinary beings can perform the feats I accomplish even before breakfast, so there will of course be a slight charge for my services...$1 bayld, to be exact."
      0x0D5D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D5E [0x01] GOTO 0x0EE2
      0x0D61 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0E1E
      0x0D69 [0x03] Work_Zone_1700[27] = 0*
-     0x0D6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12229*)
+     0x0D6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12230*)
     → "The following pieces of equipment can be #[engraved with arcane glyptics/transmuted]."
      0x0D71 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D72 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -4388,7 +4388,7 @@ SUBROUTINE_588D:
      0x0D78 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x0D7B [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0E1B
      0x0D83 [0x1A] CALL_SUBROUTINE(address=0x0EE6)
-     0x0D86 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x0D86 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x0D8D [0x25] WAIT_DIALOG_SELECT()
      0x0D8E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D9C
@@ -4417,7 +4417,7 @@ SUBROUTINE_588D:
      0x0DFE [0x9D] Work_Zone_1700[25] = 0x5A05[ExtData[1]->WorkLocal[21]] // Read WORD
      0x0E06 [0x9D] Work_Zone_1700[26] = 0x5B05[ExtData[1]->WorkLocal[21]] // Read WORD
      0x0E0E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x0E11 [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
+     0x0E11 [0x1D] PRINT_EVENT_MESSAGE(message_id=12233*)
     → "$33 can be augmented with the ""[HP+/HP+ and MP+/MP+]" arcane glyptic."
      0x0E14 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E15 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -4425,7 +4425,7 @@ SUBROUTINE_588D:
      0x0E1B [0x01] GOTO 0x0EE2
      0x0E1E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0ED3
      0x0E26 [0x03] Work_Zone_1700[27] = 0*
-     0x0E2B [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x0E2B [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x0E2E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E2F [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -4433,7 +4433,7 @@ SUBROUTINE_588D:
      0x0E35 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x0E38 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0ED0
      0x0E40 [0x1A] CALL_SUBROUTINE(address=0x0F89)
-     0x0E43 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x0E43 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x0E4A [0x25] WAIT_DIALOG_SELECT()
      0x0E4B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E59
@@ -4461,14 +4461,14 @@ SUBROUTINE_588D:
      0x0EB8 [0x0C] ExtData[1]->WorkLocal[21]--
      0x0EBB [0x9D] Work_Zone_1700[25] = 0x59D5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x0EC3 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x0EC6 [0x48] [System] [12243*]:
+     0x0EC6 [0x48] [System] [12244*]:
     → "$33."
      0x0EC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ECA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0ECD [0x01] GOTO 0x0E38
      0x0ED0 [0x01] GOTO 0x0EE2
      0x0ED3 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0EE2
-     0x0EDB [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+     0x0EDB [0x1D] PRINT_EVENT_MESSAGE(message_id=12065*)
     → "What're arcane glyptics? They closely resemble what you Middle Landers call augments, but there are some slight differences."
      0x0EDE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EDF [0x01] GOTO 0x0EE2
@@ -4568,13 +4568,13 @@ SUBROUTINE_588D:
      0x10BB [0x15] Work_Zone[3] /= 100*
      0x10C0 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
      0x10C5 [0x03] Work_Zone[5] = 0*
-     0x10CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
+     0x10CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "[Arcane glyptics/Arcane glyptic enhancement] for your $2 as long as you have $1 bayld on hand!"
      0x10CD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x10CE [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[56], buffer2=ExtData[1]->WorkLocal[57], buffer3=ExtData[1]->WorkLocal[58])
      0x10D8 [0x03] Work_Zone[3] = 1*
      0x10DD [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x10E2 [0x48] [System] [12111*]:
+     0x10E2 [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x10E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x10E6 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -4590,7 +4590,7 @@ SUBROUTINE_588D:
      0x111F [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x1128 [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
      0x1131 [0x02] IF !(ExtData[1]->WorkLocal[34] == 0*) GOTO 0x115C
-     0x1139 [0x1D] PRINT_EVENT_MESSAGE(message_id=12065*)
+     0x1139 [0x1D] PRINT_EVENT_MESSAGE(message_id=12066*)
     → "Bayld or obsidian fragments for special arcane glyptics here, plain and simple-wimple. What isn't so simple, though, is that I'm only interestaru'd in weaponry from worlds beyond our own. Also, I'm particular-wicularly fond of ghastly stones."
      0x113C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x113D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=5*, condition_work_offset=1*)
@@ -4598,10 +4598,10 @@ SUBROUTINE_588D:
      0x114B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=7*, condition_work_offset=1*)
      0x1152 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=8*, condition_work_offset=1*)
      0x1159 [0x01] GOTO 0x1173
-     0x115C [0x1D] PRINT_EVENT_MESSAGE(message_id=12271*)
+     0x115C [0x1D] PRINT_EVENT_MESSAGE(message_id=12272*)
     → "For a tiny bit of bayld or a smidgen of obsidian fragments, I can transmutaru your equipment or engrave it with arcane glyptic-wyptics."
      0x115F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1160 [0x1D] PRINT_EVENT_MESSAGE(message_id=12324*)
+     0x1160 [0x1D] PRINT_EVENT_MESSAGE(message_id=12325*)
     → "Have you ever feltaru that those special stones from skirmishes you've been lugging around in your bags have been cramping your style? Well, you're in luck! I've started-warted a storage service to meet the needs of the times."
      0x1163 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1164 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x1173
@@ -4611,7 +4611,7 @@ SUBROUTINE_588D:
      0x1180 [0x03] Work_Zone_1700[25] = 1*
      0x1185 [0x03] Work_Zone_1700[26] = 0*
      0x118A [0x02] IF !(ExtData[1]->WorkLocal[34] == 0*) GOTO 0x137A
-     0x1192 [0x24] CREATE_DIALOG(message_id=12038*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
+     0x1192 [0x24] CREATE_DIALOG(message_id=12039*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
     → "What will you do? ("[Bayld/Obs. Frag./Corpuscles]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm].]"
      0x1199 [0x25] WAIT_DIALOG_SELECT()
      0x119A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11AD
@@ -4619,7 +4619,7 @@ SUBROUTINE_588D:
      0x11A7 [0x05] ExtData[1]->WorkLocal[3] = 1
      0x11AA [0x01] GOTO 0x1377
      0x11AD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1200
-     0x11B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12223*)
+     0x11B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
     → "Should you seek salvation by enhancing your equipment through arcane glyptics, simply bequeath the requisite materials and equipment to me and I shall work my magic."
      0x11B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11B9 [0x03] Work_Zone[3] = 500*
@@ -4634,12 +4634,12 @@ SUBROUTINE_588D:
      0x11E7 [0x02] IF !(ExtData[1]->WorkLocal[24] <= 0*) GOTO 0x11F9
      0x11EF [0x14] Work_Zone[3] *= 90*
      0x11F4 [0x15] Work_Zone[3] /= 100*
-     0x11F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
+     0x11F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12225*)
     → "No ordinary beings can perform the feats I accomplish even before breakfast, so there will of course be a slight charge for my services...$1 bayld, to be exact."
      0x11FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11FD [0x01] GOTO 0x1377
      0x1200 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x12B8
-     0x1208 [0x1D] PRINT_EVENT_MESSAGE(message_id=12229*)
+     0x1208 [0x1D] PRINT_EVENT_MESSAGE(message_id=12230*)
     → "The following pieces of equipment can be #[engraved with arcane glyptics/transmuted]."
      0x120B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x120C [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -4647,7 +4647,7 @@ SUBROUTINE_588D:
      0x1212 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x1215 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x12B5
      0x121D [0x1A] CALL_SUBROUTINE(address=0x2586)
-     0x1220 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x1220 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x1227 [0x25] WAIT_DIALOG_SELECT()
      0x1228 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1236
@@ -4676,14 +4676,14 @@ SUBROUTINE_588D:
      0x1298 [0x9D] Work_Zone_1700[25] = 0x5B85[ExtData[1]->WorkLocal[21]] // Read WORD
      0x12A0 [0x9D] Work_Zone_1700[26] = 0x5C05[ExtData[1]->WorkLocal[21]] // Read WORD
      0x12A8 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x12AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12233*)
+     0x12AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12234*)
     → "$33 can be augmented with the ""[DMG+, STR+, and DEX+/DMG+, INT+, MND+, and Magic Atk. Bonus/DMG+, INT+, MND+, and Avatar: Magic Atk. Bonus/DMG+, STR+, and AGI+]" arcane glyptics."
      0x12AE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12AF [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x12B2 [0x01] GOTO 0x1215
      0x12B5 [0x01] GOTO 0x1377
      0x12B8 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1368
-     0x12C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x12C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x12C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12C4 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -4691,7 +4691,7 @@ SUBROUTINE_588D:
      0x12CA [0x06] ExtData[1]->WorkLocal[30] = 0
      0x12CD [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x1365
      0x12D5 [0x1A] CALL_SUBROUTINE(address=0x29AA)
-     0x12D8 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x12D8 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x12DF [0x25] WAIT_DIALOG_SELECT()
      0x12E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12EE
@@ -4719,20 +4719,20 @@ SUBROUTINE_588D:
      0x134D [0x0C] ExtData[1]->WorkLocal[21]--
      0x1350 [0x9D] Work_Zone_1700[25] = 0x5F25[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1358 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x135B [0x48] [System] [12243*]:
+     0x135B [0x48] [System] [12244*]:
     → "$33."
      0x135E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x135F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x1362 [0x01] GOTO 0x12CD
      0x1365 [0x01] GOTO 0x1377
      0x1368 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1377
-     0x1370 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+     0x1370 [0x1D] PRINT_EVENT_MESSAGE(message_id=12065*)
     → "What're arcane glyptics? They closely resemble what you Middle Landers call augments, but there are some slight differences."
      0x1373 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1374 [0x01] GOTO 0x1377
      0x1377 [0x01] GOTO 0x2582
      0x137A [0x02] IF !(ExtData[1]->WorkLocal[34] == 1*) GOTO 0x1922
-     0x1382 [0x24] CREATE_DIALOG(message_id=12272*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
+     0x1382 [0x24] CREATE_DIALOG(message_id=12273*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
     → "What will you do? ("[Bayld/Obs. Frag./Mweya Plasm]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm]./[@/Learn about transmuting equipment/@/@]./[@/Check transmutable equipment/@/@]./[@/Check transmutation materials/@/@]./Learn about [@/transmutation in general/stone exchange services/@]./[@/Ask about stored materials/@]./[@/Have stored materials returned/@].]"
      0x1389 [0x25] WAIT_DIALOG_SELECT()
      0x138A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x139D
@@ -4740,7 +4740,7 @@ SUBROUTINE_588D:
      0x1397 [0x05] ExtData[1]->WorkLocal[3] = 1
      0x139A [0x01] GOTO 0x191F
      0x139D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x13F0
-     0x13A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12223*)
+     0x13A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
     → "Should you seek salvation by enhancing your equipment through arcane glyptics, simply bequeath the requisite materials and equipment to me and I shall work my magic."
      0x13A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13A9 [0x03] Work_Zone[3] = 500*
@@ -4755,13 +4755,13 @@ SUBROUTINE_588D:
      0x13D7 [0x02] IF !(ExtData[1]->WorkLocal[24] <= 0*) GOTO 0x13E9
      0x13DF [0x14] Work_Zone[3] *= 90*
      0x13E4 [0x15] Work_Zone[3] /= 100*
-     0x13E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
+     0x13E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12225*)
     → "No ordinary beings can perform the feats I accomplish even before breakfast, so there will of course be a slight charge for my services...$1 bayld, to be exact."
      0x13EC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13ED [0x01] GOTO 0x191F
      0x13F0 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1715
      0x13F8 [0x03] Work_Zone_1700[27] = 0*
-     0x13FD [0x1D] PRINT_EVENT_MESSAGE(message_id=12229*)
+     0x13FD [0x1D] PRINT_EVENT_MESSAGE(message_id=12230*)
     → "The following pieces of equipment can be #[engraved with arcane glyptics/transmuted]."
      0x1400 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1401 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -4780,7 +4780,7 @@ SUBROUTINE_588D:
      0x143C [0x02] IF !(ExtData[1]->WorkLocal[30] == 3*) GOTO 0x144A
      0x1444 [0x1A] CALL_SUBROUTINE(address=0x269B)
      0x1447 [0x01] GOTO 0x144A
-     0x144A [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x144A [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x1451 [0x25] WAIT_DIALOG_SELECT()
      0x1452 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1460
@@ -4808,7 +4808,7 @@ SUBROUTINE_588D:
      0x14C0 [0x9D] Work_Zone_1700[25] = 0x5B85[ExtData[1]->WorkLocal[21]] // Read WORD
      0x14C8 [0x9D] Work_Zone_1700[26] = 0x5C05[ExtData[1]->WorkLocal[21]] // Read WORD
      0x14D0 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x14D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12233*)
+     0x14D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12234*)
     → "$33 can be augmented with the ""[DMG+, STR+, and DEX+/DMG+, INT+, MND+, and Magic Atk. Bonus/DMG+, INT+, MND+, and Avatar: Magic Atk. Bonus/DMG+, STR+, and AGI+]" arcane glyptics."
      0x14D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14D7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -4819,10 +4819,10 @@ SUBROUTINE_588D:
      0x14ED [0x9D] Work_Zone_1700[25] = 0x6595[ExtData[1]->WorkLocal[21]] // Read WORD
      0x14F5 [0x9D] Work_Zone_1700[26] = 0x6615[ExtData[1]->WorkLocal[21]] // Read WORD
      0x14FD [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1500 [0x1D] PRINT_EVENT_MESSAGE(message_id=12234*)
+     0x1500 [0x1D] PRINT_EVENT_MESSAGE(message_id=12235*)
     → "$33 can be augmented with the ""[DMG+, STR+, DEX+, AGI+, VIT+/DMG+, INT+, MND+, CHR+/DMG+, INT+, MND+, CHR+/DMG+, STR+, DEX+, AGI+, VIT+]..."
      0x1503 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1504 [0x1D] PRINT_EVENT_MESSAGE(message_id=12235*)
+     0x1504 [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
     → ""[Double Attack/Fast Cast/Pet: Attack/Recycle], "[Increases rate of critical hits, and Magic Def. Bonus/Bonus damage added to magic burst, and Enmity-/Pet: Accuracy, and Avatar perpetuation cost/Snapshot, and Enmity-]" arcane glyptics."
      0x1507 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1508 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -4836,36 +4836,36 @@ SUBROUTINE_588D:
      0x152D [0x9D] Work_Zone_1700[25] = 0x6635[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1535 [0x9D] Work_Zone_1700[26] = 0x66A5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x153D [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1540 [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
+     0x1540 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
     → "$33 can be augmented with the ""[Physical damage taken-, HP+, MP+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Cure casting time-/Physical damage taken-, Magic Atk. Bonus, Magic Accuracy+], "[Spell interruption rate down/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Song casting time-, Song recast time/Pet: Attack, Pet: Accuracy, Avatar perpetuation cost]..."
      0x1543 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1544 [0x02] IF !(Work_Zone_1700[26] == 0*) GOTO 0x1553
-     0x154C [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x154C [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x154F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1550 [0x01] GOTO 0x159E
      0x1553 [0x02] IF !(Work_Zone_1700[26] == 1*) GOTO 0x1562
-     0x155B [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x155B [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x155E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x155F [0x01] GOTO 0x159E
      0x1562 [0x02] IF !(Work_Zone_1700[26] == 2*) GOTO 0x1571
-     0x156A [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x156A [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x156D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x156E [0x01] GOTO 0x159E
      0x1571 [0x02] IF !(Work_Zone_1700[26] == 3*) GOTO 0x1580
-     0x1579 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
+     0x1579 [0x1D] PRINT_EVENT_MESSAGE(message_id=12239*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics."
      0x157C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x157D [0x01] GOTO 0x159E
      0x1580 [0x02] IF !(Work_Zone_1700[26] == 4*) GOTO 0x158F
-     0x1588 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1588 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x158B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x158C [0x01] GOTO 0x159E
      0x158F [0x02] IF !(Work_Zone_1700[26] == 5*) GOTO 0x159E
-     0x1597 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
+     0x1597 [0x1D] PRINT_EVENT_MESSAGE(message_id=12239*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics."
      0x159A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x159B [0x01] GOTO 0x159E
@@ -4880,42 +4880,42 @@ SUBROUTINE_588D:
      0x15C3 [0x9D] Work_Zone_1700[25] = 0x6635[ExtData[1]->WorkLocal[21]] // Read WORD
      0x15CB [0x9D] Work_Zone_1700[26] = 0x66A5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x15D3 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x15D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
+     0x15D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
     → "$33 can be augmented with the ""[Physical damage taken-, HP+, MP+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Cure casting time-/Physical damage taken-, Magic Atk. Bonus, Magic Accuracy+], "[Spell interruption rate down/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Song casting time-, Song recast time/Pet: Attack, Pet: Accuracy, Avatar perpetuation cost]..."
      0x15D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15DA [0x02] IF !(Work_Zone_1700[26] == 0*) GOTO 0x15E9
-     0x15E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x15E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x15E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15E6 [0x01] GOTO 0x1634
      0x15E9 [0x02] IF !(Work_Zone_1700[26] == 1*) GOTO 0x15F8
-     0x15F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x15F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x15F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15F5 [0x01] GOTO 0x1634
      0x15F8 [0x02] IF !(Work_Zone_1700[26] == 2*) GOTO 0x1607
-     0x1600 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1600 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1603 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1604 [0x01] GOTO 0x1634
      0x1607 [0x02] IF !(Work_Zone_1700[26] == 3*) GOTO 0x1616
-     0x160F [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
+     0x160F [0x1D] PRINT_EVENT_MESSAGE(message_id=12239*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics."
      0x1612 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1613 [0x01] GOTO 0x1634
      0x1616 [0x02] IF !(Work_Zone_1700[26] == 4*) GOTO 0x1625
-     0x161E [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x161E [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1621 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1622 [0x01] GOTO 0x1634
      0x1625 [0x02] IF !(Work_Zone_1700[26] == 5*) GOTO 0x1634
-     0x162D [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
+     0x162D [0x1D] PRINT_EVENT_MESSAGE(message_id=12239*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics."
      0x1630 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1631 [0x01] GOTO 0x1634
      0x1634 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x1637 [0x01] GOTO 0x163A
-     0x163A [0x1D] PRINT_EVENT_MESSAGE(message_id=12278*)
+     0x163A [0x1D] PRINT_EVENT_MESSAGE(message_id=12279*)
     → "The following must be procured to engrave arcane glyptics on $33."
      0x163D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x163E [0x06] ExtData[1]->WorkLocal[10] = 0
@@ -4926,7 +4926,7 @@ SUBROUTINE_588D:
      0x1657 [0x1A] CALL_SUBROUTINE(address=0x2ADB)
      0x165A [0x01] GOTO 0x1660
      0x165D [0x1A] CALL_SUBROUTINE(address=0x2B7E)
-     0x1660 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[2])
+     0x1660 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[2])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x1667 [0x25] WAIT_DIALOG_SELECT()
      0x1668 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1676
@@ -4961,7 +4961,7 @@ SUBROUTINE_588D:
      0x16F7 [0x0C] ExtData[1]->WorkLocal[21]--
      0x16FA [0x9D] Work_Zone_1700[25] = 0x5F25[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1702 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1705 [0x48] [System] [12243*]:
+     0x1705 [0x48] [System] [12244*]:
     → "$33."
      0x1708 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1709 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -4970,7 +4970,7 @@ SUBROUTINE_588D:
      0x1712 [0x01] GOTO 0x191F
      0x1715 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x17CA
      0x171D [0x03] Work_Zone_1700[27] = 0*
-     0x1722 [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x1722 [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x1725 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1726 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -4978,7 +4978,7 @@ SUBROUTINE_588D:
      0x172C [0x06] ExtData[1]->WorkLocal[30] = 0
      0x172F [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x17C7
      0x1737 [0x1A] CALL_SUBROUTINE(address=0x29AA)
-     0x173A [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x173A [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x1741 [0x25] WAIT_DIALOG_SELECT()
      0x1742 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1750
@@ -5006,20 +5006,20 @@ SUBROUTINE_588D:
      0x17AF [0x0C] ExtData[1]->WorkLocal[21]--
      0x17B2 [0x9D] Work_Zone_1700[25] = 0x5F25[ExtData[1]->WorkLocal[21]] // Read WORD
      0x17BA [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x17BD [0x48] [System] [12243*]:
+     0x17BD [0x48] [System] [12244*]:
     → "$33."
      0x17C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17C1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x17C4 [0x01] GOTO 0x172F
      0x17C7 [0x01] GOTO 0x191F
      0x17CA [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x17D9
-     0x17D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+     0x17D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12065*)
     → "What're arcane glyptics? They closely resemble what you Middle Landers call augments, but there are some slight differences."
      0x17D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17D6 [0x01] GOTO 0x191F
      0x17D9 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1831
      0x17E1 [0x03] Work_Zone[2] = 2451*
-     0x17E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12273*)
+     0x17E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12274*)
     → "If you ever-wever want to transmute equipment, just trade me the appropriataru piece and nothing more while in possession of $6."
      0x17E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17EA [0x03] Work_Zone[3] = 5000*
@@ -5034,13 +5034,13 @@ SUBROUTINE_588D:
      0x1818 [0x02] IF !(ExtData[1]->WorkLocal[24] <= 0*) GOTO 0x182A
      0x1820 [0x14] Work_Zone[3] *= 90*
      0x1825 [0x15] Work_Zone[3] /= 100*
-     0x182A [0x1D] PRINT_EVENT_MESSAGE(message_id=12274*)
+     0x182A [0x1D] PRINT_EVENT_MESSAGE(message_id=12275*)
     → "Now, I'm an honestaru businessman. I'll tell you in advance that I require a fee of $1 bayld for my service."
      0x182D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x182E [0x01] GOTO 0x191F
      0x1831 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x18E6
      0x1839 [0x03] Work_Zone_1700[27] = 1*
-     0x183E [0x1D] PRINT_EVENT_MESSAGE(message_id=12229*)
+     0x183E [0x1D] PRINT_EVENT_MESSAGE(message_id=12230*)
     → "The following pieces of equipment can be #[engraved with arcane glyptics/transmuted]."
      0x1841 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1842 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -5048,7 +5048,7 @@ SUBROUTINE_588D:
      0x1848 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x184B [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x18E3
      0x1853 [0x1A] CALL_SUBROUTINE(address=0x2F1E)
-     0x1856 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x1856 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x185D [0x25] WAIT_DIALOG_SELECT()
      0x185E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x186C
@@ -5076,7 +5076,7 @@ SUBROUTINE_588D:
      0x18CB [0x0C] ExtData[1]->WorkLocal[21]--
      0x18CE [0x9D] Work_Zone_1700[25] = 0x5B85[ExtData[1]->WorkLocal[21]] // Read WORD
      0x18D6 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x18D9 [0x48] [System] [12243*]:
+     0x18D9 [0x48] [System] [12244*]:
     → "$33."
      0x18DC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18DD [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -5084,29 +5084,29 @@ SUBROUTINE_588D:
      0x18E3 [0x01] GOTO 0x191F
      0x18E6 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1903
      0x18EE [0x03] Work_Zone_1700[27] = 1*
-     0x18F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x18F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x18F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18F7 [0x03] Work_Zone_1700[25] = 2451*
-     0x18FC [0x48] [System] [12280*]:
+     0x18FC [0x48] [System] [12281*]:
     → "$3."
      0x18FF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1900 [0x01] GOTO 0x191F
      0x1903 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x191F
-     0x190B [0x1D] PRINT_EVENT_MESSAGE(message_id=12275*)
+     0x190B [0x1D] PRINT_EVENT_MESSAGE(message_id=12276*)
     → "Transmutation is a process resembling-wembling the synthesis of high-quality equipment."
      0x190E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x190F [0x03] Work_Zone[2] = 2451*
-     0x1914 [0x1D] PRINT_EVENT_MESSAGE(message_id=12276*)
+     0x1914 [0x1D] PRINT_EVENT_MESSAGE(message_id=12277*)
     → "The process is shrouded-wouded in mystery, and we aren't about to give away our secrets. I will, however, impartaru to you that we employ $5 to work our magic."
      0x1917 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1918 [0x1D] PRINT_EVENT_MESSAGE(message_id=12277*)
+     0x1918 [0x1D] PRINT_EVENT_MESSAGE(message_id=12278*)
     → "As a note of warning, transmuting equipment rubs out any arcane glyptics you have currentaruly engraved. Sorry, but dem's da breaks."
      0x191B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x191C [0x01] GOTO 0x191F
      0x191F [0x01] GOTO 0x2582
      0x1922 [0x02] IF !(ExtData[1]->WorkLocal[34] == 2*) GOTO 0x2582
-     0x192A [0x24] CREATE_DIALOG(message_id=12272*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
+     0x192A [0x24] CREATE_DIALOG(message_id=12273*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
     → "What will you do? ("[Bayld/Obs. Frag./Mweya Plasm]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm]./[@/Learn about transmuting equipment/@/@]./[@/Check transmutable equipment/@/@]./[@/Check transmutation materials/@/@]./Learn about [@/transmutation in general/stone exchange services/@]./[@/Ask about stored materials/@]./[@/Have stored materials returned/@].]"
      0x1931 [0x25] WAIT_DIALOG_SELECT()
      0x1932 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1945
@@ -5114,7 +5114,7 @@ SUBROUTINE_588D:
      0x193F [0x05] ExtData[1]->WorkLocal[3] = 1
      0x1942 [0x01] GOTO 0x257F
      0x1945 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x19A1
-     0x194D [0x1D] PRINT_EVENT_MESSAGE(message_id=12223*)
+     0x194D [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
     → "Should you seek salvation by enhancing your equipment through arcane glyptics, simply bequeath the requisite materials and equipment to me and I shall work my magic."
      0x1950 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1951 [0x03] Work_Zone[3] = 500*
@@ -5129,17 +5129,17 @@ SUBROUTINE_588D:
      0x197F [0x02] IF !(ExtData[1]->WorkLocal[24] <= 0*) GOTO 0x1991
      0x1987 [0x14] Work_Zone[3] *= 90*
      0x198C [0x15] Work_Zone[3] /= 100*
-     0x1991 [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
+     0x1991 [0x1D] PRINT_EVENT_MESSAGE(message_id=12225*)
     → "No ordinary beings can perform the feats I accomplish even before breakfast, so there will of course be a slight charge for my services...$1 bayld, to be exact."
      0x1994 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1995 [0x03] Work_Zone[3] = 50*
-     0x199A [0x1D] PRINT_EVENT_MESSAGE(message_id=12323*)
+     0x199A [0x1D] PRINT_EVENT_MESSAGE(message_id=12324*)
     → "Ah, but certain pieces of equipmentaru will require a little more tender loving care...along with $1 obsidian fragment[/s] to compensate."
      0x199D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x199E [0x01] GOTO 0x257F
      0x19A1 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x20B5
      0x19A9 [0x03] Work_Zone_1700[27] = 0*
-     0x19AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12229*)
+     0x19AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12230*)
     → "The following pieces of equipment can be #[engraved with arcane glyptics/transmuted]."
      0x19B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19B2 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -5176,7 +5176,7 @@ SUBROUTINE_588D:
      0x1A41 [0x02] IF !(ExtData[1]->WorkLocal[30] == 9*) GOTO 0x1A4F
      0x1A49 [0x1A] CALL_SUBROUTINE(address=0x2908)
      0x1A4C [0x01] GOTO 0x1A4F
-     0x1A4F [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x1A4F [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x1A56 [0x25] WAIT_DIALOG_SELECT()
      0x1A57 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A65
@@ -5204,7 +5204,7 @@ SUBROUTINE_588D:
      0x1AC5 [0x9D] Work_Zone_1700[25] = 0x5B85[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1ACD [0x9D] Work_Zone_1700[26] = 0x5C05[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1AD5 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1AD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12233*)
+     0x1AD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12234*)
     → "$33 can be augmented with the ""[DMG+, STR+, and DEX+/DMG+, INT+, MND+, and Magic Atk. Bonus/DMG+, INT+, MND+, and Avatar: Magic Atk. Bonus/DMG+, STR+, and AGI+]" arcane glyptics."
      0x1ADB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1ADC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -5215,10 +5215,10 @@ SUBROUTINE_588D:
      0x1AF2 [0x9D] Work_Zone_1700[25] = 0x6595[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1AFA [0x9D] Work_Zone_1700[26] = 0x6615[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1B02 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1B05 [0x1D] PRINT_EVENT_MESSAGE(message_id=12234*)
+     0x1B05 [0x1D] PRINT_EVENT_MESSAGE(message_id=12235*)
     → "$33 can be augmented with the ""[DMG+, STR+, DEX+, AGI+, VIT+/DMG+, INT+, MND+, CHR+/DMG+, INT+, MND+, CHR+/DMG+, STR+, DEX+, AGI+, VIT+]..."
      0x1B08 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1B09 [0x1D] PRINT_EVENT_MESSAGE(message_id=12235*)
+     0x1B09 [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
     → ""[Double Attack/Fast Cast/Pet: Attack/Recycle], "[Increases rate of critical hits, and Magic Def. Bonus/Bonus damage added to magic burst, and Enmity-/Pet: Accuracy, and Avatar perpetuation cost/Snapshot, and Enmity-]" arcane glyptics."
      0x1B0C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B0D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -5232,36 +5232,36 @@ SUBROUTINE_588D:
      0x1B32 [0x9D] Work_Zone_1700[25] = 0x6635[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1B3A [0x9D] Work_Zone_1700[26] = 0x66A5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1B42 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
+     0x1B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
     → "$33 can be augmented with the ""[Physical damage taken-, HP+, MP+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Cure casting time-/Physical damage taken-, Magic Atk. Bonus, Magic Accuracy+], "[Spell interruption rate down/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Song casting time-, Song recast time/Pet: Attack, Pet: Accuracy, Avatar perpetuation cost]..."
      0x1B48 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B49 [0x02] IF !(Work_Zone_1700[26] == 0*) GOTO 0x1B58
-     0x1B51 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1B51 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1B54 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B55 [0x01] GOTO 0x1BA3
      0x1B58 [0x02] IF !(Work_Zone_1700[26] == 1*) GOTO 0x1B67
-     0x1B60 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1B60 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1B63 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B64 [0x01] GOTO 0x1BA3
      0x1B67 [0x02] IF !(Work_Zone_1700[26] == 2*) GOTO 0x1B76
-     0x1B6F [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1B6F [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1B72 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B73 [0x01] GOTO 0x1BA3
      0x1B76 [0x02] IF !(Work_Zone_1700[26] == 3*) GOTO 0x1B85
-     0x1B7E [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
+     0x1B7E [0x1D] PRINT_EVENT_MESSAGE(message_id=12239*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics."
      0x1B81 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B82 [0x01] GOTO 0x1BA3
      0x1B85 [0x02] IF !(Work_Zone_1700[26] == 4*) GOTO 0x1B94
-     0x1B8D [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1B8D [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1B90 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B91 [0x01] GOTO 0x1BA3
      0x1B94 [0x02] IF !(Work_Zone_1700[26] == 5*) GOTO 0x1BA3
-     0x1B9C [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
+     0x1B9C [0x1D] PRINT_EVENT_MESSAGE(message_id=12239*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics."
      0x1B9F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BA0 [0x01] GOTO 0x1BA3
@@ -5276,36 +5276,36 @@ SUBROUTINE_588D:
      0x1BC8 [0x9D] Work_Zone_1700[25] = 0x6635[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1BD0 [0x9D] Work_Zone_1700[26] = 0x66A5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1BD8 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
+     0x1BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
     → "$33 can be augmented with the ""[Physical damage taken-, HP+, MP+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Cure casting time-/Physical damage taken-, Magic Atk. Bonus, Magic Accuracy+], "[Spell interruption rate down/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Song casting time-, Song recast time/Pet: Attack, Pet: Accuracy, Avatar perpetuation cost]..."
      0x1BDE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BDF [0x02] IF !(Work_Zone_1700[26] == 0*) GOTO 0x1BEE
-     0x1BE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1BE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1BEA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BEB [0x01] GOTO 0x1C39
      0x1BEE [0x02] IF !(Work_Zone_1700[26] == 1*) GOTO 0x1BFD
-     0x1BF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1BF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1BF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BFA [0x01] GOTO 0x1C39
      0x1BFD [0x02] IF !(Work_Zone_1700[26] == 2*) GOTO 0x1C0C
-     0x1C05 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1C05 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1C08 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C09 [0x01] GOTO 0x1C39
      0x1C0C [0x02] IF !(Work_Zone_1700[26] == 3*) GOTO 0x1C1B
-     0x1C14 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
+     0x1C14 [0x1D] PRINT_EVENT_MESSAGE(message_id=12239*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics."
      0x1C17 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C18 [0x01] GOTO 0x1C39
      0x1C1B [0x02] IF !(Work_Zone_1700[26] == 4*) GOTO 0x1C2A
-     0x1C23 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
+     0x1C23 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-]" arcane glyptics."
      0x1C26 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C27 [0x01] GOTO 0x1C39
      0x1C2A [0x02] IF !(Work_Zone_1700[26] == 5*) GOTO 0x1C39
-     0x1C32 [0x1D] PRINT_EVENT_MESSAGE(message_id=12238*)
+     0x1C32 [0x1D] PRINT_EVENT_MESSAGE(message_id=12239*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//, Enmity-, Bonus damage added to magic burst]"[///, Recycle, and Snapshot//, Pet: Magic Atk. Bonus, and Pet: Magic Accuracy]" arcane glyptics."
      0x1C35 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C36 [0x01] GOTO 0x1C39
@@ -5318,13 +5318,13 @@ SUBROUTINE_588D:
      0x1C57 [0x9D] Work_Zone_1700[26] = 0x6615[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1C5F [0x9D] Work_Zone_1700[27] = 0x67C5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1C67 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1C6A [0x1D] PRINT_EVENT_MESSAGE(message_id=12234*)
+     0x1C6A [0x1D] PRINT_EVENT_MESSAGE(message_id=12235*)
     → "$33 can be augmented with the ""[DMG+, STR+, DEX+, AGI+, VIT+/DMG+, INT+, MND+, CHR+/DMG+, INT+, MND+, CHR+/DMG+, STR+, DEX+, AGI+, VIT+]..."
      0x1C6D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1C6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12239*)
+     0x1C6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12240*)
     → "..."[Double Attack/Fast Cast/Pet: Attack/Recycle], "[Increases rate of critical hits, Magic Def. Bonus/Bonus damage added to magic burst, Enmity-/Pet: Accuracy, Avatar perpetuation cost/Snapshot, Enmity-], Weapon skill accuracy, #[Subtle Blow/Waltz potency/Physical damage taken-/Store TP/Charm/Physical damage taken-/Souleater/Pet: Physical damage taken-/Ninjutsu Skill/Store TP/MP recovered while healing/Magic critical hit rate/MP recovered while healing/Critical Hit Rate/Critical Hit Rate]..."
      0x1C71 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1C72 [0x1D] PRINT_EVENT_MESSAGE(message_id=12240*)
+     0x1C72 [0x1D] PRINT_EVENT_MESSAGE(message_id=12241*)
     → "...#[Pet: Damage taken-/Subtle Blow/Fast Cast/Stun/Enmity-/Haste/Enmity-/Increases critical hit damage/Evasion/Ranged Accuracy/Enmity-/Conserve MP/Summoning magic skill/Store TP/Store TP], and #[Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Weapon skill damage/Elemental magic skill/Pet: Damage taken-/Weapon skill damage/Weapon skill damage]" arcane glyptics."
      0x1C75 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C76 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -5338,36 +5338,36 @@ SUBROUTINE_588D:
      0x1C9B [0x9D] Work_Zone_1700[25] = 0x67E5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1CA3 [0x9D] Work_Zone_1700[26] = 0x6885[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1CAB [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1CAE [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
+     0x1CAE [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
     → "$33 can be augmented with the ""[Physical damage taken-, HP+, MP+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Cure casting time-/Physical damage taken-, Magic Atk. Bonus, Magic Accuracy+], "[Spell interruption rate down/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Song casting time-, Song recast time/Pet: Attack, Pet: Accuracy, Avatar perpetuation cost]..."
      0x1CB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CB2 [0x02] IF !(Work_Zone_1700[26] == 0*) GOTO 0x1CC1
-     0x1CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=12241*)
+     0x1CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
     → "..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics."
      0x1CBD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CBE [0x01] GOTO 0x1D0C
      0x1CC1 [0x02] IF !(Work_Zone_1700[26] == 1*) GOTO 0x1CD0
-     0x1CC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12241*)
+     0x1CC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
     → "..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics."
      0x1CCC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CCD [0x01] GOTO 0x1D0C
      0x1CD0 [0x02] IF !(Work_Zone_1700[26] == 2*) GOTO 0x1CDF
-     0x1CD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12241*)
+     0x1CD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
     → "..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics."
      0x1CDB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CDC [0x01] GOTO 0x1D0C
      0x1CDF [0x02] IF !(Work_Zone_1700[26] == 3*) GOTO 0x1CEE
-     0x1CE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
+     0x1CE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12243*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//Enmity-, Bonus damage added to magic burst]"[///, Recycle, Snapshot//, Pet: Magic Atk. Bonus, Pet: Magic Accuracy]"[///, and Magic damage taken-//, and Magic damage taken-]" arcane glyptics."
      0x1CEA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CEB [0x01] GOTO 0x1D0C
      0x1CEE [0x02] IF !(Work_Zone_1700[26] == 4*) GOTO 0x1CFD
-     0x1CF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12241*)
+     0x1CF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
     → "..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics."
      0x1CF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CFA [0x01] GOTO 0x1D0C
      0x1CFD [0x02] IF !(Work_Zone_1700[26] == 5*) GOTO 0x1D0C
-     0x1D05 [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
+     0x1D05 [0x1D] PRINT_EVENT_MESSAGE(message_id=12243*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//Enmity-, Bonus damage added to magic burst]"[///, Recycle, Snapshot//, Pet: Magic Atk. Bonus, Pet: Magic Accuracy]"[///, and Magic damage taken-//, and Magic damage taken-]" arcane glyptics."
      0x1D08 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D09 [0x01] GOTO 0x1D0C
@@ -5382,36 +5382,36 @@ SUBROUTINE_588D:
      0x1D31 [0x9D] Work_Zone_1700[25] = 0x67E5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1D39 [0x9D] Work_Zone_1700[26] = 0x6885[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1D41 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1D44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
+     0x1D44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
     → "$33 can be augmented with the ""[Physical damage taken-, HP+, MP+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Attack+, Accuracy+/Physical damage taken-, Cure casting time-/Physical damage taken-, Magic Atk. Bonus, Magic Accuracy+], "[Spell interruption rate down/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Increases rate of critical hits, Magic Def. Bonus/Song casting time-, Song recast time/Pet: Attack, Pet: Accuracy, Avatar perpetuation cost]..."
      0x1D47 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D48 [0x02] IF !(Work_Zone_1700[26] == 0*) GOTO 0x1D57
-     0x1D50 [0x1D] PRINT_EVENT_MESSAGE(message_id=12241*)
+     0x1D50 [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
     → "..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics."
      0x1D53 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D54 [0x01] GOTO 0x1DA2
      0x1D57 [0x02] IF !(Work_Zone_1700[26] == 1*) GOTO 0x1D66
-     0x1D5F [0x1D] PRINT_EVENT_MESSAGE(message_id=12241*)
+     0x1D5F [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
     → "..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics."
      0x1D62 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D63 [0x01] GOTO 0x1DA2
      0x1D66 [0x02] IF !(Work_Zone_1700[26] == 2*) GOTO 0x1D75
-     0x1D6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12241*)
+     0x1D6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
     → "..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics."
      0x1D71 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D72 [0x01] GOTO 0x1DA2
      0x1D75 [0x02] IF !(Work_Zone_1700[26] == 3*) GOTO 0x1D84
-     0x1D7D [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
+     0x1D7D [0x1D] PRINT_EVENT_MESSAGE(message_id=12243*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//Enmity-, Bonus damage added to magic burst]"[///, Recycle, Snapshot//, Pet: Magic Atk. Bonus, Pet: Magic Accuracy]"[///, and Magic damage taken-//, and Magic damage taken-]" arcane glyptics."
      0x1D80 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D81 [0x01] GOTO 0x1DA2
      0x1D84 [0x02] IF !(Work_Zone_1700[26] == 4*) GOTO 0x1D93
-     0x1D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=12241*)
+     0x1D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
     → "..."[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Enmity-], and "[Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-/Magic damage taken-]" arcane glyptics."
      0x1D8F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D90 [0x01] GOTO 0x1DA2
      0x1D93 [0x02] IF !(Work_Zone_1700[26] == 5*) GOTO 0x1DA2
-     0x1D9B [0x1D] PRINT_EVENT_MESSAGE(message_id=12242*)
+     0x1D9B [0x1D] PRINT_EVENT_MESSAGE(message_id=12243*)
     → "...and "[Shield Mastery/Double Attack/Double Attack/Double Attack/Cure potency/Fast Cast]"[///, Enmity-, Ranged Attack, Ranged Accuracy//Enmity-, Bonus damage added to magic burst]"[///, Recycle, Snapshot//, Pet: Magic Atk. Bonus, Pet: Magic Accuracy]"[///, and Magic damage taken-//, and Magic damage taken-]" arcane glyptics."
      0x1D9E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D9F [0x01] GOTO 0x1DA2
@@ -5425,7 +5425,7 @@ SUBROUTINE_588D:
      0x1DC4 [0x0C] ExtData[1]->WorkLocal[21]--
      0x1DC7 [0x9D] Work_Zone_1700[25] = 0x6935[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1DCF [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1DD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12321*)
+     0x1DD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12322*)
     → "There's a veritable cornucopia-wopia of arcane glyptics I can engrave upon your $33, but their effects tend to differ depending on the materials used."
      0x1DD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DD6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -5438,7 +5438,7 @@ SUBROUTINE_588D:
      0x1DF8 [0x0C] ExtData[1]->WorkLocal[21]--
      0x1DFB [0x9D] Work_Zone_1700[25] = 0x6BD5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1E03 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1E06 [0x1D] PRINT_EVENT_MESSAGE(message_id=12321*)
+     0x1E06 [0x1D] PRINT_EVENT_MESSAGE(message_id=12322*)
     → "There's a veritable cornucopia-wopia of arcane glyptics I can engrave upon your $33, but their effects tend to differ depending on the materials used."
      0x1E09 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E0A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -5451,12 +5451,12 @@ SUBROUTINE_588D:
      0x1E2C [0x0C] ExtData[1]->WorkLocal[21]--
      0x1E2F [0x9D] Work_Zone_1700[25] = 0x6BD5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x1E37 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x1E3A [0x1D] PRINT_EVENT_MESSAGE(message_id=12321*)
+     0x1E3A [0x1D] PRINT_EVENT_MESSAGE(message_id=12322*)
     → "There's a veritable cornucopia-wopia of arcane glyptics I can engrave upon your $33, but their effects tend to differ depending on the materials used."
      0x1E3D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E3E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x1E41 [0x01] GOTO 0x1E44
-     0x1E44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12278*)
+     0x1E44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12279*)
     → "The following must be procured to engrave arcane glyptics on $33."
      0x1E47 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E48 [0x06] ExtData[1]->WorkLocal[10] = 0
@@ -5493,7 +5493,7 @@ SUBROUTINE_588D:
      0x1ED7 [0x02] IF !(ExtData[1]->WorkLocal[30] == 9*) GOTO 0x1EE5
      0x1EDF [0x1A] CALL_SUBROUTINE(address=0x2D76)
      0x1EE2 [0x01] GOTO 0x1EE5
-     0x1EE5 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[2])
+     0x1EE5 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[2])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x1EEC [0x25] WAIT_DIALOG_SELECT()
      0x1EED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EFB
@@ -5586,7 +5586,7 @@ SUBROUTINE_588D:
      0x2097 [0x01] GOTO 0x209A
      0x209A [0x9D] Work_Zone_1700[25] = 0x5F25[ExtData[1]->WorkLocal[21]] // Read WORD
      0x20A2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x20A5 [0x48] [System] [12243*]:
+     0x20A5 [0x48] [System] [12244*]:
     → "$33."
      0x20A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20A9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -5595,7 +5595,7 @@ SUBROUTINE_588D:
      0x20B2 [0x01] GOTO 0x257F
      0x20B5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x216A
      0x20BD [0x03] Work_Zone_1700[27] = 0*
-     0x20C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x20C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x20C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20C6 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -5603,7 +5603,7 @@ SUBROUTINE_588D:
      0x20CC [0x06] ExtData[1]->WorkLocal[30] = 0
      0x20CF [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x2167
      0x20D7 [0x1A] CALL_SUBROUTINE(address=0x29AA)
-     0x20DA [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x20DA [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x20E1 [0x25] WAIT_DIALOG_SELECT()
      0x20E2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20F0
@@ -5631,24 +5631,24 @@ SUBROUTINE_588D:
      0x214F [0x0C] ExtData[1]->WorkLocal[21]--
      0x2152 [0x9D] Work_Zone_1700[25] = 0x5F25[ExtData[1]->WorkLocal[21]] // Read WORD
      0x215A [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x215D [0x48] [System] [12243*]:
+     0x215D [0x48] [System] [12244*]:
     → "$33."
      0x2160 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2161 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x2164 [0x01] GOTO 0x20CF
      0x2167 [0x01] GOTO 0x257F
      0x216A [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x2179
-     0x2172 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+     0x2172 [0x1D] PRINT_EVENT_MESSAGE(message_id=12065*)
     → "What're arcane glyptics? They closely resemble what you Middle Landers call augments, but there are some slight differences."
      0x2175 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2176 [0x01] GOTO 0x257F
      0x2179 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x21DA
      0x2181 [0x03] Work_Zone[2] = 2451*
      0x2186 [0x03] Work_Zone[3] = 2526*
-     0x218B [0x1D] PRINT_EVENT_MESSAGE(message_id=12286*)
+     0x218B [0x1D] PRINT_EVENT_MESSAGE(message_id=12287*)
     → "Just so you know, I don't transmutaru anything for people who aren't in possession of either $6 or $6."
      0x218E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x218F [0x1D] PRINT_EVENT_MESSAGE(message_id=12287*)
+     0x218F [0x1D] PRINT_EVENT_MESSAGE(message_id=12288*)
     → "If you do have one, though, you need only trade-wade me the equipmentaru in question."
      0x2192 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2193 [0x03] Work_Zone[3] = 5000*
@@ -5663,13 +5663,13 @@ SUBROUTINE_588D:
      0x21C1 [0x02] IF !(ExtData[1]->WorkLocal[24] <= 0*) GOTO 0x21D3
      0x21C9 [0x14] Work_Zone[3] *= 90*
      0x21CE [0x15] Work_Zone[3] /= 100*
-     0x21D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12274*)
+     0x21D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12275*)
     → "Now, I'm an honestaru businessman. I'll tell you in advance that I require a fee of $1 bayld for my service."
      0x21D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21D7 [0x01] GOTO 0x257F
      0x21DA [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x22B5
      0x21E2 [0x03] Work_Zone_1700[27] = 1*
-     0x21E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12229*)
+     0x21E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12230*)
     → "The following pieces of equipment can be #[engraved with arcane glyptics/transmuted]."
      0x21EA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21EB [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -5677,7 +5677,7 @@ SUBROUTINE_588D:
      0x21F1 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x21F4 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x22B2
      0x21FC [0x1A] CALL_SUBROUTINE(address=0x2FC1)
-     0x21FF [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x21FF [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x2206 [0x25] WAIT_DIALOG_SELECT()
      0x2207 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2215
@@ -5705,61 +5705,61 @@ SUBROUTINE_588D:
      0x2274 [0x0C] ExtData[1]->WorkLocal[21]--
      0x2277 [0x9D] Work_Zone_1700[25] = 0x68C5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x227F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x2282 [0x48] [System] [12243*]:
+     0x2282 [0x48] [System] [12244*]:
     → "$33."
      0x2285 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2286 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x2289 [0x03] Work_Zone_1700[27] = 1*
-     0x228E [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x228E [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x2291 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2292 [0x02] IF !(ExtData[1]->WorkLocal[21] >= 15*) GOTO 0x22A6
      0x229A [0x03] Work_Zone_1700[25] = 2451*
-     0x229F [0x48] [System] [12280*]:
+     0x229F [0x48] [System] [12281*]:
     → "$3."
      0x22A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22A3 [0x01] GOTO 0x22AF
      0x22A6 [0x03] Work_Zone_1700[25] = 2526*
-     0x22AB [0x48] [System] [12280*]:
+     0x22AB [0x48] [System] [12281*]:
     → "$3."
      0x22AE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22AF [0x01] GOTO 0x21F4
      0x22B2 [0x01] GOTO 0x257F
      0x22B5 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x22DB
      0x22BD [0x03] Work_Zone_1700[27] = 1*
-     0x22C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x22C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x22C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22C6 [0x03] Work_Zone_1700[25] = 2451*
-     0x22CB [0x48] [System] [12280*]:
+     0x22CB [0x48] [System] [12281*]:
     → "$3."
      0x22CE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22CF [0x03] Work_Zone_1700[25] = 2526*
-     0x22D4 [0x48] [System] [12280*]:
+     0x22D4 [0x48] [System] [12281*]:
     → "$3."
      0x22D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22D8 [0x01] GOTO 0x257F
      0x22DB [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x2300
-     0x22E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12275*)
+     0x22E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12276*)
     → "Transmutation is a process resembling-wembling the synthesis of high-quality equipment."
      0x22E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22E7 [0x03] Work_Zone[2] = 2451*
      0x22EC [0x03] Work_Zone[3] = 2526*
-     0x22F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12288*)
+     0x22F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12289*)
     → "The whole process-wocess is easier than making trail cookies! We take $5 or $5 and..."
      0x22F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x22F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12289*)
+     0x22F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12290*)
     → "...Use our magical inventors' powers to transmute the articles you give us! What, you thoughtaru we'd just give away our closely guarded secret to possible competition?"
      0x22F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x22F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12277*)
+     0x22F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12278*)
     → "As a note of warning, transmuting equipment rubs out any arcane glyptics you have currentaruly engraved. Sorry, but dem's da breaks."
      0x22FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22FD [0x01] GOTO 0x257F
      0x2300 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x23B4
-     0x2308 [0x1D] PRINT_EVENT_MESSAGE(message_id=12327*)
+     0x2308 [0x1D] PRINT_EVENT_MESSAGE(message_id=12328*)
     → "I'll happily store skirmish stones for you. Just trade-wade them to me one type at a time."
      0x230B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x230C [0x1D] PRINT_EVENT_MESSAGE(message_id=12328*)
+     0x230C [0x1D] PRINT_EVENT_MESSAGE(message_id=12329*)
     → "I'm able to save up the following material-werials."
      0x230F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2310 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -5767,7 +5767,7 @@ SUBROUTINE_588D:
      0x2316 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x2319 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x23B1
      0x2321 [0x1A] CALL_SUBROUTINE(address=0x29AA)
-     0x2324 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x2324 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x232B [0x25] WAIT_DIALOG_SELECT()
      0x232C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x233A
@@ -5795,7 +5795,7 @@ SUBROUTINE_588D:
      0x2399 [0x0C] ExtData[1]->WorkLocal[21]--
      0x239C [0x9D] Work_Zone_1700[25] = 0x5F25[ExtData[1]->WorkLocal[21]] // Read WORD
      0x23A4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x23A7 [0x48] [System] [12243*]:
+     0x23A7 [0x48] [System] [12244*]:
     → "$33."
      0x23AA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x23AB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -5829,7 +5829,7 @@ SUBROUTINE_588D:
      0x243A [0x03] ExtData[1]->WorkLocal[49] = Work_Zone[3]
      0x243F [0x03] ExtData[1]->WorkLocal[50] = Work_Zone[4]
      0x2444 [0x03] ExtData[1]->WorkLocal[51] = Work_Zone[5]
-     0x2449 [0x1D] PRINT_EVENT_MESSAGE(message_id=12329*)
+     0x2449 [0x1D] PRINT_EVENT_MESSAGE(message_id=12330*)
     → "You've currently entrustarued me with the following items."
      0x244C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x244D [0x06] ExtData[1]->WorkLocal[35] = 0
@@ -5839,7 +5839,7 @@ SUBROUTINE_588D:
      0x2459 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x245C [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x257C
      0x2464 [0x1A] CALL_SUBROUTINE(address=0x2E1E)
-     0x2467 [0x24] CREATE_DIALOG(message_id=12330*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x2467 [0x24] CREATE_DIALOG(message_id=12331*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Have which item returned? [None of the above./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x246E [0x25] WAIT_DIALOG_SELECT()
      0x246F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x247D
@@ -5871,7 +5871,7 @@ SUBROUTINE_588D:
      0x24EF [0x03] ExtData[1]->WorkLocal[21] = ExtData[1]->WorkLocal[9]
      0x24F4 [0x07] ExtData[1]->WorkLocal[21] += 16*
      0x24F9 [0x9D] Work_Zone_1700[26] = 0x58D5[ExtData[1]->WorkLocal[21]] // Read WORD
-     0x2501 [0x1D] PRINT_EVENT_MESSAGE(message_id=12331*)
+     0x2501 [0x1D] PRINT_EVENT_MESSAGE(message_id=12332*)
     → "My records indicataru that I'm holding $" of that type for you. How many would you like?"
      0x2504 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2505 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -5883,26 +5883,26 @@ SUBROUTINE_588D:
      0x2528 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
      0x2531 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=23*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[28])
      0x253A [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=Work_Zone_1700[25])
-     0x2543 [0x1D] PRINT_EVENT_MESSAGE(message_id=12332*)
+     0x2543 [0x1D] PRINT_EVENT_MESSAGE(message_id=12333*)
     → "$!? I'll get them for you right away."
      0x2546 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2547 [0x05] ExtData[1]->WorkLocal[3] = 1
      0x254A [0x05] ExtData[1]->WorkLocal[4] = 1
      0x254D [0x01] GOTO 0x255F
      0x2550 [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[28]
-     0x2555 [0x1D] PRINT_EVENT_MESSAGE(message_id=12334*)
+     0x2555 [0x1D] PRINT_EVENT_MESSAGE(message_id=12335*)
     → "Don't try to pull a fastaru one on me! I'm not holding that many $33 for you! Only $"!"
      0x2558 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2559 [0x05] ExtData[1]->WorkLocal[3] = 1
      0x255C [0x05] ExtData[1]->WorkLocal[4] = 1
      0x255F [0x01] GOTO 0x256C
-     0x2562 [0x1D] PRINT_EVENT_MESSAGE(message_id=12333*)
+     0x2562 [0x1D] PRINT_EVENT_MESSAGE(message_id=12334*)
     → "Not interested-winterested? Never fear, I'll still be here should you require me to return them."
      0x2565 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2566 [0x05] ExtData[1]->WorkLocal[3] = 1
      0x2569 [0x05] ExtData[1]->WorkLocal[4] = 1
      0x256C [0x01] GOTO 0x2579
-     0x256F [0x1D] PRINT_EVENT_MESSAGE(message_id=12334*)
+     0x256F [0x1D] PRINT_EVENT_MESSAGE(message_id=12335*)
     → "Don't try to pull a fastaru one on me! I'm not holding that many $33 for you! Only $"!"
      0x2572 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2573 [0x05] ExtData[1]->WorkLocal[3] = 1
@@ -6503,7 +6503,7 @@ SUBROUTINE_588D:
      0x3117 [0x15] Work_Zone[3] /= 100*
      0x311C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
      0x3121 [0x03] Work_Zone[5] = 0*
-     0x3126 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
+     0x3126 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "[Arcane glyptics/Arcane glyptic enhancement] for your $2 as long as you have $1 bayld on hand!"
      0x3129 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x312A [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -6525,7 +6525,7 @@ SUBROUTINE_588D:
      0x3191 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[28])
      0x3194 [0x03] Work_Zone[3] = 0*
      0x3199 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x319E [0x48] [System] [12111*]:
+     0x319E [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x31A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x31A2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -6533,7 +6533,7 @@ SUBROUTINE_588D:
      0x31A8 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[53], buffer2=ExtData[1]->WorkLocal[54], buffer3=ExtData[1]->WorkLocal[55])
      0x31B2 [0x03] Work_Zone[3] = 0*
      0x31B7 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x31BC [0x48] [System] [12111*]:
+     0x31BC [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x31BF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x31C0 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -6542,7 +6542,7 @@ SUBROUTINE_588D:
      0x31D5 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[56], buffer2=ExtData[1]->WorkLocal[57], buffer3=ExtData[1]->WorkLocal[58])
      0x31DF [0x03] Work_Zone[3] = 1*
      0x31E4 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x31E9 [0x48] [System] [12111*]:
+     0x31E9 [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x31EC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x31ED [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -6550,7 +6550,7 @@ SUBROUTINE_588D:
      0x31FA [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x3276
      0x3202 [0x03] Work_Zone[3] = 0*
      0x3207 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x320C [0x48] [System] [12113*]:
+     0x320C [0x48] [System] [12114*]:
     → "Are you sure you want to [keep the current attributes of/engrave new attributes upon] your $2?"
      0x320F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3210 [0x02] IF !(ExtData[1]->WorkLocal[60] == 0*) GOTO 0x3227
@@ -6570,7 +6570,7 @@ SUBROUTINE_588D:
      0x3276 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x32DB
      0x327E [0x03] Work_Zone[3] = 1*
      0x3283 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x3288 [0x48] [System] [12113*]:
+     0x3288 [0x48] [System] [12114*]:
     → "Are you sure you want to [keep the current attributes of/engrave new attributes upon] your $2?"
      0x328B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x328C [0xD4] MAP_QUERY_WINDOW: Prepare buffer configuration B (buffer=[01 80 1C 00 38 00 39 00...])
@@ -6609,7 +6609,7 @@ SUBROUTINE_588D:
      0x3357 [0x03] Work_Zone[3] = 50*
      0x335C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
      0x3361 [0x03] Work_Zone[5] = 0*
-     0x3366 [0x1D] PRINT_EVENT_MESSAGE(message_id=12322*)
+     0x3366 [0x1D] PRINT_EVENT_MESSAGE(message_id=12323*)
     → "Got $1 obsidian fragment[/s] on your hands? Then I can engrave your $2 with some astounding arcane glyptic-wyptics!"
      0x3369 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x336A [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -6631,7 +6631,7 @@ SUBROUTINE_588D:
      0x33D1 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[28])
      0x33D4 [0x03] Work_Zone[3] = 0*
      0x33D9 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x33DE [0x48] [System] [12111*]:
+     0x33DE [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x33E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x33E2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -6639,7 +6639,7 @@ SUBROUTINE_588D:
      0x33E8 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[53], buffer2=ExtData[1]->WorkLocal[54], buffer3=ExtData[1]->WorkLocal[55])
      0x33F2 [0x03] Work_Zone[3] = 0*
      0x33F7 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x33FC [0x48] [System] [12111*]:
+     0x33FC [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x33FF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3400 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -6648,7 +6648,7 @@ SUBROUTINE_588D:
      0x3415 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[56], buffer2=ExtData[1]->WorkLocal[57], buffer3=ExtData[1]->WorkLocal[58])
      0x341F [0x03] Work_Zone[3] = 1*
      0x3424 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x3429 [0x48] [System] [12111*]:
+     0x3429 [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x342C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x342D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -6656,7 +6656,7 @@ SUBROUTINE_588D:
      0x343A [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x34B6
      0x3442 [0x03] Work_Zone[3] = 0*
      0x3447 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x344C [0x48] [System] [12113*]:
+     0x344C [0x48] [System] [12114*]:
     → "Are you sure you want to [keep the current attributes of/engrave new attributes upon] your $2?"
      0x344F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3450 [0x02] IF !(ExtData[1]->WorkLocal[60] == 0*) GOTO 0x3467
@@ -6676,7 +6676,7 @@ SUBROUTINE_588D:
      0x34B6 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x351B
      0x34BE [0x03] Work_Zone[3] = 1*
      0x34C3 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x34C8 [0x48] [System] [12113*]:
+     0x34C8 [0x48] [System] [12114*]:
     → "Are you sure you want to [keep the current attributes of/engrave new attributes upon] your $2?"
      0x34CB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x34CC [0xD4] MAP_QUERY_WINDOW: Prepare buffer configuration B (buffer=[01 80 1C 00 38 00 39 00...])
@@ -6735,13 +6735,13 @@ SUBROUTINE_588D:
      0x35FD [0x14] Work_Zone[3] *= 90*
      0x3602 [0x15] Work_Zone[3] /= 100*
      0x3607 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x360C [0x1D] PRINT_EVENT_MESSAGE(message_id=12281*)
+     0x360C [0x1D] PRINT_EVENT_MESSAGE(message_id=12282*)
     → "I will need-weed $1 bayld to transmute this $2."
      0x360F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3610 [0x06] ExtData[1]->WorkLocal[3] = 0
      0x3613 [0x06] ExtData[1]->WorkLocal[8] = 0
      0x3616 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x3724
-     0x361E [0x24] CREATE_DIALOG(message_id=12283*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
+     0x361E [0x24] CREATE_DIALOG(message_id=12284*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
     → "What shall you do? [Check current attributes./Check post-transmutation attributes./Transmute the equipment./Nothing.]"
      0x3625 [0x25] WAIT_DIALOG_SELECT()
      0x3626 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3672
@@ -6749,7 +6749,7 @@ SUBROUTINE_588D:
      0x3636 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[28])
      0x3639 [0x03] Work_Zone[3] = 0*
      0x363E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x3643 [0x48] [System] [12111*]:
+     0x3643 [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x3646 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3647 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -6757,7 +6757,7 @@ SUBROUTINE_588D:
      0x364D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[53], buffer2=ExtData[1]->WorkLocal[54], buffer3=ExtData[1]->WorkLocal[55])
      0x3657 [0x03] Work_Zone[3] = 1*
      0x365C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x3661 [0x48] [System] [12111*]:
+     0x3661 [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x3664 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3665 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -6766,23 +6766,23 @@ SUBROUTINE_588D:
      0x367A [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[63])
      0x367D [0x03] Work_Zone[3] = 3*
      0x3682 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[63]
-     0x3687 [0x48] [System] [12111*]:
+     0x3687 [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x368A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x368B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x368E [0x01] GOTO 0x3721
      0x3691 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x36E5
-     0x3699 [0x1D] PRINT_EVENT_MESSAGE(message_id=12282*)
+     0x3699 [0x1D] PRINT_EVENT_MESSAGE(message_id=12283*)
     → "Begin your journey down the wonderful road of transmutation-wation!"
      0x369C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x369D [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[63])
      0x36A0 [0x03] Work_Zone[3] = 3*
      0x36A5 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[63]
-     0x36AA [0x48] [System] [12111*]:
+     0x36AA [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x36AD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x36AE [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x36B1 [0x24] CREATE_DIALOG(message_id=12284*, default_option=1*, option_flags=0*)
+     0x36B1 [0x24] CREATE_DIALOG(message_id=12285*, default_option=1*, option_flags=0*)
     → "Transmute the piece of equipment? [Yes./No.]"
      0x36B8 [0x25] WAIT_DIALOG_SELECT()
      0x36B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x36E2
@@ -6793,7 +6793,7 @@ SUBROUTINE_588D:
      0x36DF [0x01] GOTO 0x36E2
      0x36E2 [0x01] GOTO 0x3721
      0x36E5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x3721
-     0x36ED [0x24] CREATE_DIALOG(message_id=12285*, default_option=1*, option_flags=0*)
+     0x36ED [0x24] CREATE_DIALOG(message_id=12286*, default_option=1*, option_flags=0*)
     → "End transmutation? [Yes./No.]"
      0x36F4 [0x25] WAIT_DIALOG_SELECT()
      0x36F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x371E
@@ -6813,14 +6813,14 @@ SUBROUTINE_588D:
      0x3745 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[5]
      0x374A [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x3753 [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
-     0x375C [0x1D] PRINT_EVENT_MESSAGE(message_id=12066*)
+     0x375C [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Do you wish to have the equipment you wrested from the clutches of the continent's menaces bestowed with certain arcane glyptics? If not, your soul will forever be consumed with regret."
      0x375F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3760 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x392E
      0x3768 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x376D [0x03] Work_Zone_1700[25] = 1*
      0x3772 [0x03] Work_Zone_1700[26] = 0*
-     0x3777 [0x24] CREATE_DIALOG(message_id=12038*, default_option=ExtData[1]->WorkLocal[8], option_flags=4*)
+     0x3777 [0x24] CREATE_DIALOG(message_id=12039*, default_option=ExtData[1]->WorkLocal[8], option_flags=4*)
     → "What will you do? ("[Bayld/Obs. Frag./Corpuscles]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm].]"
      0x377E [0x25] WAIT_DIALOG_SELECT()
      0x377F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3792
@@ -6830,7 +6830,7 @@ SUBROUTINE_588D:
      0x3792 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[0]
      0x3797 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x392B
      0x379F [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x37F2
-     0x37A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12223*)
+     0x37A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
     → "Should you seek salvation by enhancing your equipment through arcane glyptics, simply bequeath the requisite materials and equipment to me and I shall work my magic."
      0x37AA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x37AB [0x03] Work_Zone[3] = 10*
@@ -6845,13 +6845,13 @@ SUBROUTINE_588D:
      0x37D9 [0x02] IF !(ExtData[1]->WorkLocal[24] <= 0*) GOTO 0x37EB
      0x37E1 [0x14] Work_Zone[3] *= 90*
      0x37E6 [0x15] Work_Zone[3] /= 100*
-     0x37EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
+     0x37EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12225*)
     → "No ordinary beings can perform the feats I accomplish even before breakfast, so there will of course be a slight charge for my services...$1 bayld, to be exact."
      0x37EE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x37EF [0x01] GOTO 0x392B
      0x37F2 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x38A7
      0x37FA [0x03] Work_Zone_1700[27] = 0*
-     0x37FF [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x37FF [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x3802 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3803 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -6859,7 +6859,7 @@ SUBROUTINE_588D:
      0x3809 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x380C [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x38A4
      0x3814 [0x1A] CALL_SUBROUTINE(address=0x3D47)
-     0x3817 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x3817 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x381E [0x25] WAIT_DIALOG_SELECT()
      0x381F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x382D
@@ -6887,7 +6887,7 @@ SUBROUTINE_588D:
      0x388C [0x0C] ExtData[1]->WorkLocal[21]--
      0x388F [0x9D] Work_Zone_1700[25] = 0x5FC5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x3897 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x389A [0x48] [System] [12243*]:
+     0x389A [0x48] [System] [12244*]:
     → "$33."
      0x389D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x389E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -6912,22 +6912,22 @@ SUBROUTINE_588D:
      0x38FE [0x14] Work_Zone[4] *= 90*
      0x3903 [0x15] Work_Zone[4] /= 100*
      0x3908 [0x9D] Work_Zone[5] = 0x5FC5[0*] // Read WORD
-     0x3910 [0x1D] PRINT_EVENT_MESSAGE(message_id=12245*)
+     0x3910 [0x1D] PRINT_EVENT_MESSAGE(message_id=12246*)
     → "Arcane glyptics are truly astounding engravings--they can be used to enhance a cornucopia of equipment you find during your pioneering journeys! However, they cannot work their magic until the article in question undergoes a priming process called "mezzotinting.""
      0x3913 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3914 [0x1D] PRINT_EVENT_MESSAGE(message_id=12246*)
+     0x3914 [0x1D] PRINT_EVENT_MESSAGE(message_id=12247*)
     → "There are three glyptic paths down which you may send your equipment. All of them differ in significant ways and will not fail to treat your beloved accouterments right."
      0x3917 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3918 [0x1D] PRINT_EVENT_MESSAGE(message_id=12247*)
+     0x3918 [0x1D] PRINT_EVENT_MESSAGE(message_id=12248*)
     → "Moreover, your inanimate comrades in combat can be further enhanced by employing materials such as $3 during glyptic engraving."
      0x391B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x391C [0x1D] PRINT_EVENT_MESSAGE(message_id=12248*)
+     0x391C [0x1D] PRINT_EVENT_MESSAGE(message_id=12249*)
     → "I must warn you, however, that the process is not instantaneous. We will need to engrave your articles multiple times before any glyptics take effect."
      0x391F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3920 [0x1D] PRINT_EVENT_MESSAGE(message_id=12249*)
+     0x3920 [0x1D] PRINT_EVENT_MESSAGE(message_id=12250*)
     → "Think of it like your pioneering activities. Ulbuka cannot be colonized in a day, nor can we improve your equipment in one try if we want to do a satisfactory job. In addition, your equipment may undergo mezzotinting any time you wish to set it down a new path to clearing the continent of danger. Simply ask and you shall receive."
      0x3923 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3924 [0x1D] PRINT_EVENT_MESSAGE(message_id=12250*)
+     0x3924 [0x1D] PRINT_EVENT_MESSAGE(message_id=12251*)
     → "Lest I forget, I should also mention that a fee of $1 bayld is required for the first mezzotinting, while $2 is the price for subsequent ones and enhancement via materials."
      0x3927 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3928 [0x01] GOTO 0x392B
@@ -6961,13 +6961,13 @@ SUBROUTINE_588D:
      0x39BE [0x15] Work_Zone[3] /= 100*
      0x39C3 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
      0x39C8 [0x03] Work_Zone[5] = 1*
-     0x39CD [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
+     0x39CD [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "[Arcane glyptics/Arcane glyptic enhancement] for your $2 as long as you have $1 bayld on hand!"
      0x39D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x39D1 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[56], buffer2=ExtData[1]->WorkLocal[57], buffer3=ExtData[1]->WorkLocal[58])
      0x39DB [0x03] Work_Zone[3] = 2*
      0x39E0 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x39E5 [0x48] [System] [12111*]:
+     0x39E5 [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x39E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x39E9 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -6987,7 +6987,7 @@ SUBROUTINE_588D:
      0x3A3A [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[8]
      0x3A3F [0x03] ExtData[1]->WorkLocal[55] = Work_Zone[9]
      0x3A44 [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[7]
-     0x3A49 [0x1D] PRINT_EVENT_MESSAGE(message_id=12257*)
+     0x3A49 [0x1D] PRINT_EVENT_MESSAGE(message_id=12258*)
     → "Here is your $33."
      0x3A4C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3A4D [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -7000,7 +7000,7 @@ SUBROUTINE_588D:
      0x3A71 [0x02] IF !(ExtData[1]->WorkLocal[55] == 0*) GOTO 0x3A7C
      0x3A79 [0x05] ExtData[1]->WorkLocal[60] = 1
      0x3A7C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x3A81 [0x24] CREATE_DIALOG(message_id=12244*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
+     0x3A81 [0x24] CREATE_DIALOG(message_id=12245*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
     → "What shall you do? (Bayld: $0) [Not a thing./Mezzotint equipment./Check materials required./Inquire about arcane glyptics.]"
      0x3A88 [0x25] WAIT_DIALOG_SELECT()
      0x3A89 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3A9C
@@ -7014,11 +7014,11 @@ SUBROUTINE_588D:
      0x3AB4 [0x02] IF !(ExtData[1]->WorkLocal[60] <= 0*) GOTO 0x3AFA
      0x3ABC [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[7]
      0x3AC1 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[7], buffer1=ExtData[1]->WorkLocal[53], buffer2=ExtData[1]->WorkLocal[54], buffer3=ExtData[1]->WorkLocal[55])
-     0x3ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=12251*)
+     0x3ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=12252*)
     → "Your $33 has already been engraved with an arcane glyptic, the benefits of which will be lost upon mezzotinting. Do you still wish to proceed?"
      0x3ACE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3ACF [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
-     0x3AD9 [0x24] CREATE_DIALOG(message_id=12252*, default_option=1*, option_flags=0*)
+     0x3AD9 [0x24] CREATE_DIALOG(message_id=12253*, default_option=1*, option_flags=0*)
     → "Proceed with mezzotinting? [Yes, scrape all the excess benefits away!/No, I love my little precious too much!]"
      0x3AE0 [0x25] WAIT_DIALOG_SELECT()
      0x3AE1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3AEC
@@ -7028,11 +7028,11 @@ SUBROUTINE_588D:
      0x3AF7 [0x01] GOTO 0x3AFA
      0x3AFA [0x06] ExtData[1]->WorkLocal[9] = 0
      0x3AFD [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x3C07
-     0x3B05 [0x1D] PRINT_EVENT_MESSAGE(message_id=12253*)
+     0x3B05 [0x1D] PRINT_EVENT_MESSAGE(message_id=12254*)
     → "Which type of glyptics shall you engrave?"
      0x3B08 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3B09 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x3C07
-     0x3B11 [0x24] CREATE_DIALOG(message_id=12254*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
+     0x3B11 [0x24] CREATE_DIALOG(message_id=12255*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
     → "Which type do you want engraved? [None./Arcane Glyptic Type A./Arcane Glyptic Type B./Arcane Glyptic Type C.]"
      0x3B18 [0x25] WAIT_DIALOG_SELECT()
      0x3B19 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3B27
@@ -7048,11 +7048,11 @@ SUBROUTINE_588D:
      0x3B4F [0x03] ExtData[1]->WorkLocal[57] = Work_Zone[3]
      0x3B54 [0x03] ExtData[1]->WorkLocal[58] = Work_Zone[4]
      0x3B59 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[7], buffer1=ExtData[1]->WorkLocal[56], buffer2=ExtData[1]->WorkLocal[57], buffer3=ExtData[1]->WorkLocal[58])
-     0x3B63 [0x1D] PRINT_EVENT_MESSAGE(message_id=12255*)
+     0x3B63 [0x1D] PRINT_EVENT_MESSAGE(message_id=12256*)
     → "Do you wish to mezzotint your weapon so that it is primed to receive the aforementioned attribute enhancements?"
      0x3B66 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3B67 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
-     0x3B71 [0x24] CREATE_DIALOG(message_id=12114*, default_option=1*, option_flags=0*)
+     0x3B71 [0x24] CREATE_DIALOG(message_id=12115*, default_option=1*, option_flags=0*)
     → "How do you feel about these attributes? [I heartily enjoy them./I despise them and want new ones.]"
      0x3B78 [0x25] WAIT_DIALOG_SELECT()
      0x3B79 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3BF9
@@ -7072,7 +7072,7 @@ SUBROUTINE_588D:
      0x3BC4 [0x02] IF !(ExtData[1]->WorkLocal[24] <= 0*) GOTO 0x3BD6
      0x3BCC [0x14] Work_Zone[3] *= 90*
      0x3BD1 [0x15] Work_Zone[3] /= 100*
-     0x3BD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12115*)
+     0x3BD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12116*)
     → "Very well. I shall mezzotint your $2 for a modest fee of $1 bayld."
      0x3BD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3BDA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=9*)
@@ -7088,7 +7088,7 @@ SUBROUTINE_588D:
      0x3C07 [0x01] GOTO 0x3D43
      0x3C0A [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x3CBF
      0x3C12 [0x03] Work_Zone_1700[27] = 0*
-     0x3C17 [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x3C17 [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x3C1A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3C1B [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -7096,7 +7096,7 @@ SUBROUTINE_588D:
      0x3C21 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x3C24 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x3CBC
      0x3C2C [0x1A] CALL_SUBROUTINE(address=0x3D47)
-     0x3C2F [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x3C2F [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x3C36 [0x25] WAIT_DIALOG_SELECT()
      0x3C37 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3C45
@@ -7124,7 +7124,7 @@ SUBROUTINE_588D:
      0x3CA4 [0x0C] ExtData[1]->WorkLocal[21]--
      0x3CA7 [0x9D] Work_Zone_1700[25] = 0x5FC5[ExtData[1]->WorkLocal[21]] // Read WORD
      0x3CAF [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x3CB2 [0x48] [System] [12243*]:
+     0x3CB2 [0x48] [System] [12244*]:
     → "$33."
      0x3CB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3CB6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -7149,22 +7149,22 @@ SUBROUTINE_588D:
      0x3D16 [0x14] Work_Zone[4] *= 90*
      0x3D1B [0x15] Work_Zone[4] /= 100*
      0x3D20 [0x9D] Work_Zone[5] = 0x5FC5[0*] // Read WORD
-     0x3D28 [0x1D] PRINT_EVENT_MESSAGE(message_id=12245*)
+     0x3D28 [0x1D] PRINT_EVENT_MESSAGE(message_id=12246*)
     → "Arcane glyptics are truly astounding engravings--they can be used to enhance a cornucopia of equipment you find during your pioneering journeys! However, they cannot work their magic until the article in question undergoes a priming process called "mezzotinting.""
      0x3D2B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3D2C [0x1D] PRINT_EVENT_MESSAGE(message_id=12246*)
+     0x3D2C [0x1D] PRINT_EVENT_MESSAGE(message_id=12247*)
     → "There are three glyptic paths down which you may send your equipment. All of them differ in significant ways and will not fail to treat your beloved accouterments right."
      0x3D2F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3D30 [0x1D] PRINT_EVENT_MESSAGE(message_id=12247*)
+     0x3D30 [0x1D] PRINT_EVENT_MESSAGE(message_id=12248*)
     → "Moreover, your inanimate comrades in combat can be further enhanced by employing materials such as $3 during glyptic engraving."
      0x3D33 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3D34 [0x1D] PRINT_EVENT_MESSAGE(message_id=12248*)
+     0x3D34 [0x1D] PRINT_EVENT_MESSAGE(message_id=12249*)
     → "I must warn you, however, that the process is not instantaneous. We will need to engrave your articles multiple times before any glyptics take effect."
      0x3D37 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3D38 [0x1D] PRINT_EVENT_MESSAGE(message_id=12249*)
+     0x3D38 [0x1D] PRINT_EVENT_MESSAGE(message_id=12250*)
     → "Think of it like your pioneering activities. Ulbuka cannot be colonized in a day, nor can we improve your equipment in one try if we want to do a satisfactory job. In addition, your equipment may undergo mezzotinting any time you wish to set it down a new path to clearing the continent of danger. Simply ask and you shall receive."
      0x3D3B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3D3C [0x1D] PRINT_EVENT_MESSAGE(message_id=12250*)
+     0x3D3C [0x1D] PRINT_EVENT_MESSAGE(message_id=12251*)
     → "Lest I forget, I should also mention that a fee of $1 bayld is required for the first mezzotinting, while $2 is the price for subsequent ones and enhancement via materials."
      0x3D3F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3D40 [0x01] GOTO 0x3D43
@@ -7211,7 +7211,7 @@ SUBROUTINE_588D:
      0x3E01 [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[6]
      0x3E06 [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x3E0F [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
-     0x3E18 [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
+     0x3E18 [0x1D] PRINT_EVENT_MESSAGE(message_id=12068*)
     → "Take what you want and get out of my face...but not before paying with some obsidian fragments."
      0x3E1B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3E1C [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -7220,7 +7220,7 @@ SUBROUTINE_588D:
      0x3E2C [0x03] Work_Zone_1700[25] = 2*
      0x3E31 [0x03] Work_Zone_1700[26] = 1*
      0x3E36 [0x02] IF !(ExtData[1]->WorkLocal[34] == 0*) GOTO 0x3F9D
-     0x3E3E [0x24] CREATE_DIALOG(message_id=12038*, default_option=ExtData[1]->WorkLocal[8], option_flags=12*)
+     0x3E3E [0x24] CREATE_DIALOG(message_id=12039*, default_option=ExtData[1]->WorkLocal[8], option_flags=12*)
     → "What will you do? ("[Bayld/Obs. Frag./Corpuscles]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm].]"
      0x3E45 [0x25] WAIT_DIALOG_SELECT()
      0x3E46 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3E59
@@ -7235,7 +7235,7 @@ SUBROUTINE_588D:
      0x3E72 [0x1A] CALL_SUBROUTINE(address=0x44F9)
      0x3E75 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x3E7A [0x03] Work_Zone_1700[25] = 0*
-     0x3E7F [0x24] CREATE_DIALOG(message_id=12030*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
+     0x3E7F [0x24] CREATE_DIALOG(message_id=12031*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? ([Obs. Frag./Corpuscles/MUM Medals]: $0) [None./$1. ($17 [fragments/cor./medals])/$2. ($18 [fragments/cor./medals])/$3. ($19 [fragments/cor./medals])/$4. ($20 [fragments/cor./medals])/$5. ($21 [fragments/cor./medals])/$6. ($22 [fragments/cor./medals])/$7. ($23 [fragments/cor./medals])/$8. ($24 [fragments/cor./medals])/$9. ($25 [fragments/cor./medals])/$10. ($26 [fragments/cor./medals])/$11. ($27 [fragments/cor./medals])/$12. ($28 [fragments/cor./medals])/$13. ($29 [fragments/cor./medals])/$14. ($30 [fragments/cor./medals])/$15. ($31 [fragments/cor./medals])/$16. ($ [fragments/cor./medals])/Previous page./Next page.]"
      0x3E86 [0x25] WAIT_DIALOG_SELECT()
      0x3E87 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3E95
@@ -7274,13 +7274,13 @@ SUBROUTINE_588D:
      0x3F2D [0x14] Work_Zone[4] *= 3*
      0x3F32 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
      0x3F35 [0x03] Work_Zone_1700[25] = 0*
-     0x3F3A [0x1D] PRINT_EVENT_MESSAGE(message_id=12036*)
+     0x3F3A [0x1D] PRINT_EVENT_MESSAGE(message_id=12037*)
     → "$1 can be redeemed for $2 [fragment/mweya plasm corpuscle/medal][/s]."
      0x3F3D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3F3E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x3F41 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x3F46 [0x03] Work_Zone_1700[25] = 0*
-     0x3F4B [0x24] CREATE_DIALOG(message_id=12037*, default_option=1*, option_flags=0*)
+     0x3F4B [0x24] CREATE_DIALOG(message_id=12038*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? [Yes./No.]"
      0x3F52 [0x25] WAIT_DIALOG_SELECT()
      0x3F53 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3F76
@@ -7294,16 +7294,16 @@ SUBROUTINE_588D:
      0x3F81 [0x01] GOTO 0x3E67
      0x3F84 [0x01] GOTO 0x3F9A
      0x3F87 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x3F9A
-     0x3F8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12068*)
+     0x3F8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
     → "Obsidian fragments are rare things. You can only get them by pioneering."
      0x3F92 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3F93 [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
+     0x3F93 [0x1D] PRINT_EVENT_MESSAGE(message_id=12070*)
     → "Their most obvious use is for redeeming things, but we're trying to research new uses for them. Now hurry up and get your shopping done."
      0x3F96 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3F97 [0x01] GOTO 0x3F9A
      0x3F9A [0x01] GOTO 0x4304
      0x3F9D [0x02] IF !(ExtData[1]->WorkLocal[34] == 1*) GOTO 0x4162
-     0x3FA5 [0x24] CREATE_DIALOG(message_id=12272*, default_option=ExtData[1]->WorkLocal[8], option_flags=1772*)
+     0x3FA5 [0x24] CREATE_DIALOG(message_id=12273*, default_option=ExtData[1]->WorkLocal[8], option_flags=1772*)
     → "What will you do? ("[Bayld/Obs. Frag./Mweya Plasm]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm]./[@/Learn about transmuting equipment/@/@]./[@/Check transmutable equipment/@/@]./[@/Check transmutation materials/@/@]./Learn about [@/transmutation in general/stone exchange services/@]./[@/Ask about stored materials/@]./[@/Have stored materials returned/@].]"
      0x3FAC [0x25] WAIT_DIALOG_SELECT()
      0x3FAD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3FC0
@@ -7318,7 +7318,7 @@ SUBROUTINE_588D:
      0x3FD9 [0x1A] CALL_SUBROUTINE(address=0x44F9)
      0x3FDC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x3FE1 [0x03] Work_Zone_1700[25] = 0*
-     0x3FE6 [0x24] CREATE_DIALOG(message_id=12030*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
+     0x3FE6 [0x24] CREATE_DIALOG(message_id=12031*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? ([Obs. Frag./Corpuscles/MUM Medals]: $0) [None./$1. ($17 [fragments/cor./medals])/$2. ($18 [fragments/cor./medals])/$3. ($19 [fragments/cor./medals])/$4. ($20 [fragments/cor./medals])/$5. ($21 [fragments/cor./medals])/$6. ($22 [fragments/cor./medals])/$7. ($23 [fragments/cor./medals])/$8. ($24 [fragments/cor./medals])/$9. ($25 [fragments/cor./medals])/$10. ($26 [fragments/cor./medals])/$11. ($27 [fragments/cor./medals])/$12. ($28 [fragments/cor./medals])/$13. ($29 [fragments/cor./medals])/$14. ($30 [fragments/cor./medals])/$15. ($31 [fragments/cor./medals])/$16. ($ [fragments/cor./medals])/Previous page./Next page.]"
      0x3FED [0x25] WAIT_DIALOG_SELECT()
      0x3FEE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3FFC
@@ -7357,13 +7357,13 @@ SUBROUTINE_588D:
      0x4094 [0x14] Work_Zone[4] *= 3*
      0x4099 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
      0x409C [0x03] Work_Zone_1700[25] = 0*
-     0x40A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12036*)
+     0x40A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12037*)
     → "$1 can be redeemed for $2 [fragment/mweya plasm corpuscle/medal][/s]."
      0x40A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x40A5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x40A8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x40AD [0x03] Work_Zone_1700[25] = 0*
-     0x40B2 [0x24] CREATE_DIALOG(message_id=12037*, default_option=1*, option_flags=0*)
+     0x40B2 [0x24] CREATE_DIALOG(message_id=12038*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? [Yes./No.]"
      0x40B9 [0x25] WAIT_DIALOG_SELECT()
      0x40BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x40DD
@@ -7377,53 +7377,53 @@ SUBROUTINE_588D:
      0x40E8 [0x01] GOTO 0x3FCE
      0x40EB [0x01] GOTO 0x415F
      0x40EE [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x4101
-     0x40F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12068*)
+     0x40F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
     → "Obsidian fragments are rare things. You can only get them by pioneering."
      0x40F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x40FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
+     0x40FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12070*)
     → "Their most obvious use is for redeeming things, but we're trying to research new uses for them. Now hurry up and get your shopping done."
      0x40FD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x40FE [0x01] GOTO 0x415F
      0x4101 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x415F
      0x4109 [0x03] Work_Zone[2] = 3954*
      0x410E [0x03] Work_Zone[3] = 4033*
-     0x4113 [0x1D] PRINT_EVENT_MESSAGE(message_id=12070*)
+     0x4113 [0x1D] PRINT_EVENT_MESSAGE(message_id=12071*)
     → "<Sigh> We've been ordered to accept your old $0 in exchange for $1."
      0x4116 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4117 [0x03] Work_Zone[4] = 5*
      0x411C [0x03] Work_Zone[5] = 1*
-     0x4121 [0x1D] PRINT_EVENT_MESSAGE(message_id=12071*)
+     0x4121 [0x1D] PRINT_EVENT_MESSAGE(message_id=12072*)
     → "I have to give you $3 $0$0 for every $2 $0 ."
      0x4124 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4125 [0x03] Work_Zone[2] = 3955*
      0x412A [0x03] Work_Zone[3] = 4034*
-     0x412F [0x1D] PRINT_EVENT_MESSAGE(message_id=12072*)
+     0x412F [0x1D] PRINT_EVENT_MESSAGE(message_id=12073*)
     → "A very simple process. As I like to say, "Wham, bam, and now scram.""
      0x4132 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x4133 [0x1D] PRINT_EVENT_MESSAGE(message_id=12073*)
+     0x4133 [0x1D] PRINT_EVENT_MESSAGE(message_id=12074*)
     → "We've also started some nonsense about trading stones for obsidian fragments."
      0x4136 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4137 [0x03] Work_Zone_1700[25] = 0*
-     0x413C [0x1D] PRINT_EVENT_MESSAGE(message_id=12074*)
+     0x413C [0x1D] PRINT_EVENT_MESSAGE(message_id=12075*)
     → "I would say I'm pleased to tell you the exchange rate for [obsidian fragments/mweya plasm corpuscles/mummers' medals], but I'm really not."
      0x413F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4140 [0x03] ExtData[1]->WorkLocal[21] = 0*
      0x4145 [0x1A] CALL_SUBROUTINE(address=0x4619)
-     0x4148 [0x48] [System] [12075*]:
+     0x4148 [0x48] [System] [12076*]:
     → "Obsidian fragment exchange rate: $7 fragment[/s] for $4 $0$0 . $8 fragment[/s] for $5 $0 . $9 fragment[/s] for $6 $0$3 ."
      0x414B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x414C [0x03] ExtData[1]->WorkLocal[21] = 1*
      0x4151 [0x1A] CALL_SUBROUTINE(address=0x4619)
-     0x4154 [0x48] [System] [12075*]:
+     0x4154 [0x48] [System] [12076*]:
     → "Obsidian fragment exchange rate: $7 fragment[/s] for $4 $0$0 . $8 fragment[/s] for $5 $0 . $9 fragment[/s] for $6 $0$3 ."
      0x4157 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x4158 [0x1D] PRINT_EVENT_MESSAGE(message_id=12076*)
+     0x4158 [0x1D] PRINT_EVENT_MESSAGE(message_id=12077*)
     → "Just trade me the stones you want to exchange when you feel like it. Don't expect any niceties from me, though."
      0x415B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x415C [0x01] GOTO 0x415F
      0x415F [0x01] GOTO 0x4304
      0x4162 [0x02] IF !(ExtData[1]->WorkLocal[34] == 2*) GOTO 0x4304
-     0x416A [0x24] CREATE_DIALOG(message_id=12272*, default_option=ExtData[1]->WorkLocal[8], option_flags=1772*)
+     0x416A [0x24] CREATE_DIALOG(message_id=12273*, default_option=ExtData[1]->WorkLocal[8], option_flags=1772*)
     → "What will you do? ("[Bayld/Obs. Frag./Mweya Plasm]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm]./[@/Learn about transmuting equipment/@/@]./[@/Check transmutable equipment/@/@]./[@/Check transmutation materials/@/@]./Learn about [@/transmutation in general/stone exchange services/@]./[@/Ask about stored materials/@]./[@/Have stored materials returned/@].]"
      0x4171 [0x25] WAIT_DIALOG_SELECT()
      0x4172 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4185
@@ -7438,7 +7438,7 @@ SUBROUTINE_588D:
      0x419E [0x1A] CALL_SUBROUTINE(address=0x44F9)
      0x41A1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x41A6 [0x03] Work_Zone_1700[25] = 0*
-     0x41AB [0x24] CREATE_DIALOG(message_id=12030*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
+     0x41AB [0x24] CREATE_DIALOG(message_id=12031*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? ([Obs. Frag./Corpuscles/MUM Medals]: $0) [None./$1. ($17 [fragments/cor./medals])/$2. ($18 [fragments/cor./medals])/$3. ($19 [fragments/cor./medals])/$4. ($20 [fragments/cor./medals])/$5. ($21 [fragments/cor./medals])/$6. ($22 [fragments/cor./medals])/$7. ($23 [fragments/cor./medals])/$8. ($24 [fragments/cor./medals])/$9. ($25 [fragments/cor./medals])/$10. ($26 [fragments/cor./medals])/$11. ($27 [fragments/cor./medals])/$12. ($28 [fragments/cor./medals])/$13. ($29 [fragments/cor./medals])/$14. ($30 [fragments/cor./medals])/$15. ($31 [fragments/cor./medals])/$16. ($ [fragments/cor./medals])/Previous page./Next page.]"
      0x41B2 [0x25] WAIT_DIALOG_SELECT()
      0x41B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x41C1
@@ -7477,7 +7477,7 @@ SUBROUTINE_588D:
      0x4259 [0x14] Work_Zone[4] *= 3*
      0x425E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
      0x4261 [0x03] Work_Zone_1700[25] = 0*
-     0x4266 [0x1D] PRINT_EVENT_MESSAGE(message_id=12036*)
+     0x4266 [0x1D] PRINT_EVENT_MESSAGE(message_id=12037*)
     → "$1 can be redeemed for $2 [fragment/mweya plasm corpuscle/medal][/s]."
      0x4269 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x426A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -7485,64 +7485,64 @@ SUBROUTINE_588D:
      0x4270 [0x01] GOTO 0x4193
      0x4273 [0x01] GOTO 0x4301
      0x4276 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x4289
-     0x427E [0x1D] PRINT_EVENT_MESSAGE(message_id=12068*)
+     0x427E [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
     → "Obsidian fragments are rare things. You can only get them by pioneering."
      0x4281 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x4282 [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
+     0x4282 [0x1D] PRINT_EVENT_MESSAGE(message_id=12070*)
     → "Their most obvious use is for redeeming things, but we're trying to research new uses for them. Now hurry up and get your shopping done."
      0x4285 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4286 [0x01] GOTO 0x4301
      0x4289 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x4301
      0x4291 [0x03] Work_Zone[2] = 3954*
      0x4296 [0x03] Work_Zone[3] = 4033*
-     0x429B [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
+     0x429B [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
     → "I'm currently obligated to tell you that we are now able to take your old stones used in skirmishes and give you new ones."
      0x429E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x429F [0x03] Work_Zone[4] = 5*
      0x42A4 [0x03] Work_Zone[5] = 1*
-     0x42A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
+     0x42A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
     → "From what I remember, the rate is something like $3 $0$0 for every $2 $0 and..."
      0x42AC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x42AD [0x03] Work_Zone[2] = 4033*
      0x42B2 [0x03] Work_Zone[3] = 3951*
-     0x42B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
+     0x42B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
     → "...$3 $0$0 for every $2 $0 ."
      0x42BA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x42BB [0x03] Work_Zone[2] = 3955*
      0x42C0 [0x03] Work_Zone[3] = 4034*
-     0x42C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12072*)
+     0x42C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12073*)
     → "A very simple process. As I like to say, "Wham, bam, and now scram.""
      0x42C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x42C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12073*)
+     0x42C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12074*)
     → "We've also started some nonsense about trading stones for obsidian fragments."
      0x42CC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x42CD [0x03] Work_Zone_1700[25] = 0*
-     0x42D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12074*)
+     0x42D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12075*)
     → "I would say I'm pleased to tell you the exchange rate for [obsidian fragments/mweya plasm corpuscles/mummers' medals], but I'm really not."
      0x42D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x42D6 [0x03] ExtData[1]->WorkLocal[21] = 0*
      0x42DB [0x1A] CALL_SUBROUTINE(address=0x4619)
-     0x42DE [0x48] [System] [12075*]:
+     0x42DE [0x48] [System] [12076*]:
     → "Obsidian fragment exchange rate: $7 fragment[/s] for $4 $0$0 . $8 fragment[/s] for $5 $0 . $9 fragment[/s] for $6 $0$3 ."
      0x42E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x42E2 [0x03] ExtData[1]->WorkLocal[21] = 1*
      0x42E7 [0x1A] CALL_SUBROUTINE(address=0x4619)
-     0x42EA [0x48] [System] [12075*]:
+     0x42EA [0x48] [System] [12076*]:
     → "Obsidian fragment exchange rate: $7 fragment[/s] for $4 $0$0 . $8 fragment[/s] for $5 $0 . $9 fragment[/s] for $6 $0$3 ."
      0x42ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x42EE [0x03] ExtData[1]->WorkLocal[21] = 2*
      0x42F3 [0x1A] CALL_SUBROUTINE(address=0x4619)
-     0x42F6 [0x48] [System] [12075*]:
+     0x42F6 [0x48] [System] [12076*]:
     → "Obsidian fragment exchange rate: $7 fragment[/s] for $4 $0$0 . $8 fragment[/s] for $5 $0 . $9 fragment[/s] for $6 $0$3 ."
      0x42F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x42FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12076*)
+     0x42FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12077*)
     → "Just trade me the stones you want to exchange when you feel like it. Don't expect any niceties from me, though."
      0x42FD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x42FE [0x01] GOTO 0x4301
      0x4301 [0x01] GOTO 0x4304
      0x4304 [0x01] GOTO 0x3E1F
      0x4307 [0x1B] RETURN
-     0x4308 [0x48] [System] [12358*]:
+     0x4308 [0x48] [System] [12359*]:
     → "How many would you like?"
      0x430B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x430C [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -7553,7 +7553,7 @@ SUBROUTINE_588D:
      0x4325 [0x03] Work_Zone_1700[25] = 0*
      0x432A [0x02] IF !(ExtData[1]->WorkLocal[26] == 0*) GOTO 0x4335
      0x4332 [0x01] GOTO 0x4374
-     0x4335 [0x24] CREATE_DIALOG(message_id=12359*, default_option=1*, option_flags=0*)
+     0x4335 [0x24] CREATE_DIALOG(message_id=12360*, default_option=1*, option_flags=0*)
     → "How many? ($0 [obsidian fragments/mweya plasm corpuscles/Mummers' medals]) [Exchange. ($1 [obsidian fragments/mweya plasm corpuscles/Mummers' medals] needed)/Let me think some more.]"
      0x433C [0x25] WAIT_DIALOG_SELECT()
      0x433D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4369
@@ -7719,7 +7719,7 @@ SUBROUTINE_588D:
      0x468B [0x1B] RETURN
      0x468C [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x468D [0x1E] EventEntity looks at LocalPlayer and starts talking
-     0x4692 [0x1D] PRINT_EVENT_MESSAGE(message_id=12077*)
+     0x4692 [0x1D] PRINT_EVENT_MESSAGE(message_id=12078*)
     → "You want to trade in $0? Get on with it, then."
      0x4695 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4696 [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -7727,7 +7727,7 @@ SUBROUTINE_588D:
      0x469C [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[7]
      0x46A1 [0x03] Work_Zone_1700[25] = 0*
      0x46A6 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x4724
-     0x46AE [0x24] CREATE_DIALOG(message_id=12078*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+     0x46AE [0x24] CREATE_DIALOG(message_id=12079*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Trade $2 $0 ? [No thanks./Trade for $4 [obsidian fragments/mweya plasm corpuscles/mummers' medals]./Exchange for $3 $1.]"
      0x46B5 [0x25] WAIT_DIALOG_SELECT()
      0x46B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x46CD
@@ -7735,7 +7735,7 @@ SUBROUTINE_588D:
      0x46C1 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=0*)
      0x46CA [0x01] GOTO 0x4721
      0x46CD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x46F7
-     0x46D5 [0x24] CREATE_DIALOG(message_id=12079*, default_option=1*, option_flags=0*)
+     0x46D5 [0x24] CREATE_DIALOG(message_id=12080*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? [Yes, please./I need some time to think.]"
      0x46DC [0x25] WAIT_DIALOG_SELECT()
      0x46DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x46F4
@@ -7744,7 +7744,7 @@ SUBROUTINE_588D:
      0x46F1 [0x01] GOTO 0x46F4
      0x46F4 [0x01] GOTO 0x4721
      0x46F7 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x4721
-     0x46FF [0x24] CREATE_DIALOG(message_id=12079*, default_option=1*, option_flags=0*)
+     0x46FF [0x24] CREATE_DIALOG(message_id=12080*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? [Yes, please./I need some time to think.]"
      0x4706 [0x25] WAIT_DIALOG_SELECT()
      0x4707 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x471E
@@ -7761,7 +7761,7 @@ SUBROUTINE_588D:
      0x4737 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[5]
      0x473C [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x4745 [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
-     0x474E [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
+     0x474E [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
     → "Got more mweya plasm than you know what to do with? Trade it in for some of my finestaru goods!"
      0x4751 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4752 [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -7769,7 +7769,7 @@ SUBROUTINE_588D:
      0x475D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x4762 [0x03] Work_Zone_1700[25] = 3*
      0x4767 [0x03] Work_Zone_1700[26] = 2*
-     0x476C [0x24] CREATE_DIALOG(message_id=12038*, default_option=ExtData[1]->WorkLocal[8], option_flags=12*)
+     0x476C [0x24] CREATE_DIALOG(message_id=12039*, default_option=ExtData[1]->WorkLocal[8], option_flags=12*)
     → "What will you do? ("[Bayld/Obs. Frag./Corpuscles]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm].]"
      0x4773 [0x25] WAIT_DIALOG_SELECT()
      0x4774 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4787
@@ -7784,7 +7784,7 @@ SUBROUTINE_588D:
      0x47A2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x488D
      0x47AA [0x05] ExtData[1]->WorkLocal[6] = 1
      0x47AD [0x06] ExtData[1]->WorkLocal[16] = 0
-     0x47B0 [0x24] CREATE_DIALOG(message_id=12261*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
+     0x47B0 [0x24] CREATE_DIALOG(message_id=12262*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
     → "Take a gander at what? [Nothing./Equipment./Materials.]"
      0x47B7 [0x25] WAIT_DIALOG_SELECT()
      0x47B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x47C3
@@ -7798,7 +7798,7 @@ SUBROUTINE_588D:
      0x47E7 [0x03] Work_Zone_1700[29] = 263*
      0x47EC [0x03] Work_Zone_1700[30] = 266*
      0x47F1 [0x03] Work_Zone_1700[31] = 267*
-     0x47F6 [0x24] CREATE_DIALOG(message_id=12259*, default_option=0*, option_flags=0*)
+     0x47F6 [0x24] CREATE_DIALOG(message_id=12260*, default_option=0*, option_flags=0*)
     → "What area is your equipment from? [Nowhere, now begone./$8./$8./$8./$8./$8./$8.]"
      0x47FD [0x25] WAIT_DIALOG_SELECT()
      0x47FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x480C
@@ -7831,10 +7831,10 @@ SUBROUTINE_588D:
      0x488A [0x01] GOTO 0x47A2
      0x488D [0x01] GOTO 0x48A3
      0x4890 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x48A3
-     0x4898 [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
+     0x4898 [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
     → "Mweya plasm corpuscles are crystallizations of an enigmatic substance that can only be obtained by colonizing the Ulbukan jungle-wungle."
      0x489B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x489C [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
+     0x489C [0x1D] PRINT_EVENT_MESSAGE(message_id=12088*)
     → "We're trying to develop-welop new materials from them, but we've yet to meetaru with any success."
      0x489F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x48A0 [0x01] GOTO 0x48A3
@@ -7848,7 +7848,7 @@ SUBROUTINE_588D:
      0x48BB [0x1A] CALL_SUBROUTINE(address=0x5048)
      0x48BE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x48C3 [0x03] Work_Zone_1700[25] = 1*
-     0x48C8 [0x24] CREATE_DIALOG(message_id=12030*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
+     0x48C8 [0x24] CREATE_DIALOG(message_id=12031*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? ([Obs. Frag./Corpuscles/MUM Medals]: $0) [None./$1. ($17 [fragments/cor./medals])/$2. ($18 [fragments/cor./medals])/$3. ($19 [fragments/cor./medals])/$4. ($20 [fragments/cor./medals])/$5. ($21 [fragments/cor./medals])/$6. ($22 [fragments/cor./medals])/$7. ($23 [fragments/cor./medals])/$8. ($24 [fragments/cor./medals])/$9. ($25 [fragments/cor./medals])/$10. ($26 [fragments/cor./medals])/$11. ($27 [fragments/cor./medals])/$12. ($28 [fragments/cor./medals])/$13. ($29 [fragments/cor./medals])/$14. ($30 [fragments/cor./medals])/$15. ($31 [fragments/cor./medals])/$16. ($ [fragments/cor./medals])/Previous page./Next page.]"
      0x48CF [0x25] WAIT_DIALOG_SELECT()
      0x48D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x48E1
@@ -7924,20 +7924,20 @@ SUBROUTINE_588D:
      0x4A61 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
      0x4A64 [0x02] IF !(ExtData[1]->WorkLocal[65] == 1*) GOTO 0x4A78
      0x4A6C [0x03] Work_Zone_1700[25] = 1*
-     0x4A71 [0x1D] PRINT_EVENT_MESSAGE(message_id=12036*)
+     0x4A71 [0x1D] PRINT_EVENT_MESSAGE(message_id=12037*)
     → "$1 can be redeemed for $2 [fragment/mweya plasm corpuscle/medal][/s]."
      0x4A74 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4A75 [0x01] GOTO 0x4A8B
      0x4A78 [0x03] Work_Zone_1700[25] = 1*
      0x4A7D [0x14] Work_Zone[4] *= ExtData[1]->WorkLocal[65]
      0x4A82 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[65]
-     0x4A87 [0x1D] PRINT_EVENT_MESSAGE(message_id=12265*)
+     0x4A87 [0x1D] PRINT_EVENT_MESSAGE(message_id=12266*)
     → "You wish to purchase $3 $0$0 ? Then I shall require $2 [fragment/mweya plasm corpuscle/medal/bayld clump][/s]."
      0x4A8A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4A8B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x4A8E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x4A93 [0x03] Work_Zone_1700[25] = 1*
-     0x4A98 [0x24] CREATE_DIALOG(message_id=12037*, default_option=1*, option_flags=0*)
+     0x4A98 [0x24] CREATE_DIALOG(message_id=12038*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? [Yes./No.]"
      0x4A9F [0x25] WAIT_DIALOG_SELECT()
      0x4AA0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4BD8
@@ -7984,7 +7984,7 @@ SUBROUTINE_588D:
      0x4BC6 [0x1A] CALL_SUBROUTINE(address=0x4CD3)
      0x4BC9 [0x01] GOTO 0x4BD5
      0x4BCC [0x03] Work_Zone[3] = 1*
-     0x4BD1 [0x48] [System] [12101*]:
+     0x4BD1 [0x48] [System] [12102*]:
     → "You do not have enough [obsidian fragments/mweya plasm corpuscles/mummers' medals]!"
      0x4BD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4BD5 [0x01] GOTO 0x4BE3
@@ -8009,7 +8009,7 @@ SUBROUTINE_588D:
      0x4C31 [0x03] Work_Zone_1700[3] = 11*
      0x4C36 [0x03] Work_Zone_1700[4] = 12*
      0x4C3B [0x03] ExtData[1]->WorkLocal[1] = 1*
-     0x4C40 [0x24] CREATE_DIALOG(message_id=12264*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+     0x4C40 [0x24] CREATE_DIALOG(message_id=12265*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "How many do you wish to receive? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12.]"
      0x4C47 [0x25] WAIT_DIALOG_SELECT()
      0x4C48 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4C53
@@ -8023,7 +8023,7 @@ SUBROUTINE_588D:
      0x4C72 [0x03] Work_Zone[6] = 99*
      0x4C77 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=31*, target=ExtData[1]->WorkLocal[1], source=4294967295*)
      0x4C80 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x4C87 [0x24] CREATE_DIALOG(message_id=12264*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+     0x4C87 [0x24] CREATE_DIALOG(message_id=12265*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "How many do you wish to receive? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12.]"
      0x4C8E [0x25] WAIT_DIALOG_SELECT()
      0x4C8F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x4C9F
@@ -8075,7 +8075,7 @@ SUBROUTINE_588D:
      0x4D77 [0x01] GOTO 0x4D54
      0x4D7A [0x02] IF !(ExtData[1]->WorkLocal[67] <= 0*) GOTO 0x4D8B
      0x4D82 [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[27]
-     0x4D87 [0x1D] PRINT_EVENT_MESSAGE(message_id=12260*)
+     0x4D87 [0x1D] PRINT_EVENT_MESSAGE(message_id=12261*)
     → "This $33 looks as if it can be engraved with a peculiar sort of arcane glyptic. It may behoove you to show this to the person in charge of such procedures."
      0x4D8A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4D8B [0x1B] RETURN
@@ -8260,14 +8260,14 @@ SUBROUTINE_588D:
      0x515F [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[5]
      0x5164 [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[13] (bits 0*-15*)
      0x516D [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[12] (bits 0*-3*)
-     0x5176 [0x1D] PRINT_EVENT_MESSAGE(message_id=12066*)
+     0x5176 [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Do you wish to have the equipment you wrested from the clutches of the continent's menaces bestowed with certain arcane glyptics? If not, your soul will forever be consumed with regret."
      0x5179 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x517A [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x54CB
      0x5182 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x5187 [0x03] Work_Zone_1700[25] = 1*
      0x518C [0x03] Work_Zone_1700[26] = 0*
-     0x5191 [0x24] CREATE_DIALOG(message_id=12038*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
+     0x5191 [0x24] CREATE_DIALOG(message_id=12039*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
     → "What will you do? ("[Bayld/Obs. Frag./Corpuscles]: $0) [Nothing./[Proceed with the exchange/Learn about augmentation/Proceed with the exchange/Proceed with the exchange]./[@/Check augmentable equipment/@/@]./[@/Check arcane glyptic materials/@/@]./Ask about [ergon tinctures/arcane glyptics/obsidian fragments/mweya plasm].]"
      0x5198 [0x25] WAIT_DIALOG_SELECT()
      0x5199 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x51AC
@@ -8275,7 +8275,7 @@ SUBROUTINE_588D:
      0x51A6 [0x05] ExtData[1]->WorkLocal[3] = 1
      0x51A9 [0x01] GOTO 0x54C8
      0x51AC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x51FF
-     0x51B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12223*)
+     0x51B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
     → "Should you seek salvation by enhancing your equipment through arcane glyptics, simply bequeath the requisite materials and equipment to me and I shall work my magic."
      0x51B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x51B8 [0x03] Work_Zone[3] = 500*
@@ -8290,13 +8290,13 @@ SUBROUTINE_588D:
      0x51E6 [0x02] IF !(ExtData[1]->WorkLocal[24] <= 0*) GOTO 0x51F8
      0x51EE [0x14] Work_Zone[3] *= 90*
      0x51F3 [0x15] Work_Zone[3] /= 100*
-     0x51F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12224*)
+     0x51F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12225*)
     → "No ordinary beings can perform the feats I accomplish even before breakfast, so there will of course be a slight charge for my services...$1 bayld, to be exact."
      0x51FB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x51FC [0x01] GOTO 0x54C8
      0x51FF [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x5404
      0x5207 [0x03] Work_Zone_1700[27] = 0*
-     0x520C [0x1D] PRINT_EVENT_MESSAGE(message_id=12229*)
+     0x520C [0x1D] PRINT_EVENT_MESSAGE(message_id=12230*)
     → "The following pieces of equipment can be #[engraved with arcane glyptics/transmuted]."
      0x520F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5210 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -8304,7 +8304,7 @@ SUBROUTINE_588D:
      0x5216 [0x06] ExtData[1]->WorkLocal[30] = 0
      0x5219 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x5401
      0x5221 [0x1A] CALL_SUBROUTINE(address=0x54CC)
-     0x5224 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x5224 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x522B [0x25] WAIT_DIALOG_SELECT()
      0x522C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x523A
@@ -8335,112 +8335,112 @@ SUBROUTINE_588D:
      0x52A9 [0x08] Work_Zone_1700[26] -= 28616*
      0x52AE [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
      0x52B1 [0x02] IF !(Work_Zone_1700[26] == 1*) GOTO 0x52C0
-     0x52B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12336*)
+     0x52B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12337*)
     → "Up for bashing some skulls? Well, you're in luck, because I can engrave your $33 with bonuses to strength, dexterity, accuracy, and critical hit damage."
      0x52BC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x52BD [0x01] GOTO 0x53FB
      0x52C0 [0x02] IF !(Work_Zone_1700[26] == 2*) GOTO 0x52CF
-     0x52C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12337*)
+     0x52C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12338*)
     → "Fists of Fury not quite furious enough? Then take a look at what bonuses I can engrave on your $33: strength, dexterity, Counter, and Subtle Blow."
      0x52CB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x52CC [0x01] GOTO 0x53FB
      0x52CF [0x02] IF !(Work_Zone_1700[26] == 3*) GOTO 0x52DE
-     0x52D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12338*)
+     0x52D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12339*)
     → "Topping up your comrades more your style? Then you'll probably want your $33 engraved with bonuses to magic accuracy, healing magic skill, enhancing magic skill, and Cure potency."
      0x52DA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x52DB [0x01] GOTO 0x53FB
      0x52DE [0x02] IF !(Work_Zone_1700[26] == 4*) GOTO 0x52ED
-     0x52E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12339*)
+     0x52E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12340*)
     → "If you're into blasting your enemies with magic, then you'll probably want me to engrave your $33 with enhancements to Magic Attack Bonus, Fast Cast, elemental magic skill, and dark magic skill."
      0x52E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x52EA [0x01] GOTO 0x53FB
      0x52ED [0x02] IF !(Work_Zone_1700[26] == 5*) GOTO 0x52FC
-     0x52F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12340*)
+     0x52F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12341*)
     → "The discerning red mage will surely prefer their $33 engraved with bonuses to magic accuracy, enfeebling magic skill, enhancing magic skill, and enhancing magic duration."
      0x52F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x52F9 [0x01] GOTO 0x53FB
      0x52FC [0x02] IF !(Work_Zone_1700[26] == 6*) GOTO 0x530B
-     0x5304 [0x1D] PRINT_EVENT_MESSAGE(message_id=12341*)
+     0x5304 [0x1D] PRINT_EVENT_MESSAGE(message_id=12342*)
     → "The more unscrupulous gil-nabbers will appreciate $33 engraved with dexterity, agility, Dual Wield, and critical hit damage."
      0x5307 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5308 [0x01] GOTO 0x53FB
      0x530B [0x02] IF !(Work_Zone_1700[26] == 7*) GOTO 0x531A
-     0x5313 [0x1D] PRINT_EVENT_MESSAGE(message_id=12342*)
+     0x5313 [0x1D] PRINT_EVENT_MESSAGE(message_id=12343*)
     → "If your calling is to protect your allies, you'll want your $33 engraved with bonuses to dexterity, vitality, enmity, and Phalanx."
      0x5316 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5317 [0x01] GOTO 0x53FB
      0x531A [0x02] IF !(Work_Zone_1700[26] == 8*) GOTO 0x5329
-     0x5322 [0x1D] PRINT_EVENT_MESSAGE(message_id=12343*)
+     0x5322 [0x1D] PRINT_EVENT_MESSAGE(message_id=12344*)
     → "The darkest among the dark will certainly desire $33 engraved with bonuses to attack, dark magic skill, weapon skill damage, and Drain and Aspir potency."
      0x5325 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5326 [0x01] GOTO 0x53FB
      0x5329 [0x02] IF !(Work_Zone_1700[26] == 9*) GOTO 0x5338
-     0x5331 [0x1D] PRINT_EVENT_MESSAGE(message_id=12344*)
+     0x5331 [0x1D] PRINT_EVENT_MESSAGE(message_id=12345*)
     → "Help your favorite companion become better than ever before with $33 engraved with enhancements to strength, dexterity, accuracy, pet damage resistance, and pet accuracy."
      0x5334 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5335 [0x01] GOTO 0x53FB
      0x5338 [0x02] IF !(Work_Zone_1700[26] == 10*) GOTO 0x5347
-     0x5340 [0x1D] PRINT_EVENT_MESSAGE(message_id=12345*)
+     0x5340 [0x1D] PRINT_EVENT_MESSAGE(message_id=12346*)
     → "Be safer than ever when supporting your allies with $33 engraved with HP, magic accuracy, decreased enmity, and decreased damage taken."
      0x5343 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5344 [0x01] GOTO 0x53FB
      0x5347 [0x02] IF !(Work_Zone_1700[26] == 11*) GOTO 0x5356
-     0x534F [0x1D] PRINT_EVENT_MESSAGE(message_id=12346*)
+     0x534F [0x1D] PRINT_EVENT_MESSAGE(message_id=12347*)
     → "Let your shots ring true with $33 engraved with strength, agility, Store TP, and Snapshot."
      0x5352 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5353 [0x01] GOTO 0x53FB
      0x5356 [0x02] IF !(Work_Zone_1700[26] == 12*) GOTO 0x5365
-     0x535E [0x1D] PRINT_EVENT_MESSAGE(message_id=12347*)
+     0x535E [0x1D] PRINT_EVENT_MESSAGE(message_id=12348*)
     → "Slice through your foes after you get your $33 engraved with strength, Store TP, Zanshin, and Meditate duration."
      0x5361 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5362 [0x01] GOTO 0x53FB
      0x5365 [0x02] IF !(Work_Zone_1700[26] == 13*) GOTO 0x5374
-     0x536D [0x1D] PRINT_EVENT_MESSAGE(message_id=12348*)
+     0x536D [0x1D] PRINT_EVENT_MESSAGE(message_id=12349*)
     → "Strike at your enemies from the shadows with $33 engraved with strength, dexterity, skillchain damage, and weapon skill damage."
      0x5370 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5371 [0x01] GOTO 0x53FB
      0x5374 [0x02] IF !(Work_Zone_1700[26] == 14*) GOTO 0x5383
-     0x537C [0x1D] PRINT_EVENT_MESSAGE(message_id=12349*)
+     0x537C [0x1D] PRINT_EVENT_MESSAGE(message_id=12350*)
     → "Leap to even greater heights when your $33 is engraved with enhancements to strength, weapon skill damage, wyvern damage resistance, and wyvern breath potency."
      0x537F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5380 [0x01] GOTO 0x53FB
      0x5383 [0x02] IF !(Work_Zone_1700[26] == 15*) GOTO 0x5392
-     0x538B [0x1D] PRINT_EVENT_MESSAGE(message_id=12350*)
+     0x538B [0x1D] PRINT_EVENT_MESSAGE(message_id=12351*)
     → "Need a stronger avatar? Then you'll surely appreciate $33 engraved with bonuses to summoning magic skill and Blood Pact damage, decreased Blood Pact recast time II, and increased avatar enmity."
      0x538E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x538F [0x01] GOTO 0x53FB
      0x5392 [0x02] IF !(Work_Zone_1700[26] == 16*) GOTO 0x53A1
-     0x539A [0x1D] PRINT_EVENT_MESSAGE(message_id=12351*)
+     0x539A [0x1D] PRINT_EVENT_MESSAGE(message_id=12352*)
     → "Feeling a little blue? Don't, because I can engrave your $33 with MP, dexterity, accuracy, and blue magic skill."
      0x539D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x539E [0x01] GOTO 0x53FB
      0x53A1 [0x02] IF !(Work_Zone_1700[26] == 17*) GOTO 0x53B0
-     0x53A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12352*)
+     0x53A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12353*)
     → "Get ready to roll the dice with $33 engraved with Magic Attack Bonus, decreased Phantom Roll recast delay, decreased enmity, and weapon skill damage."
      0x53AC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x53AD [0x01] GOTO 0x53FB
      0x53B0 [0x02] IF !(Work_Zone_1700[26] == 18*) GOTO 0x53BF
-     0x53B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12353*)
+     0x53B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12354*)
     → "Pull some strings once you get your $33 engraved with bonuses to strength, dexterity, Martial Arts, and a TP bonus for your automaton."
      0x53BB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x53BC [0x01] GOTO 0x53FB
      0x53BF [0x02] IF !(Work_Zone_1700[26] == 19*) GOTO 0x53CE
-     0x53C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12354*)
+     0x53C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12355*)
     → "Twist, twirl and sashay your way to victory with $33 engraved with bonuses to Store TP, Dual Wield, Reverse Flourish, and weapon skill damage."
      0x53CA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x53CB [0x01] GOTO 0x53FB
      0x53CE [0x02] IF !(Work_Zone_1700[26] == 20*) GOTO 0x53DD
-     0x53D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12355*)
+     0x53D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12356*)
     → "Put your book knowledge into practice with $33 engraved with bonuses to intelligence, mind, helix duration, and Regen potency."
      0x53D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x53DA [0x01] GOTO 0x53FB
      0x53DD [0x02] IF !(Work_Zone_1700[26] == 21*) GOTO 0x53EC
-     0x53E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12356*)
+     0x53E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12357*)
     → "Why are you looking so indi-gnant? Get your $33 engraved with enhancements to geomancy skill, indicolure duration, damage resistance, and luopan damage resistance today!"
      0x53E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x53E9 [0x01] GOTO 0x53FB
      0x53EC [0x02] IF !(Work_Zone_1700[26] == 22*) GOTO 0x53FB
-     0x53F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12357*)
+     0x53F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12358*)
     → "Make the elements bow to your will with $33 engraved with bonuses to Double Attack, enmity generation, Embolden, and damage resistance."
      0x53F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x53F8 [0x01] GOTO 0x53FB
@@ -8449,7 +8449,7 @@ SUBROUTINE_588D:
      0x5401 [0x01] GOTO 0x54C8
      0x5404 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x54B9
      0x540C [0x03] Work_Zone_1700[27] = 0*
-     0x5411 [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x5411 [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "The following materials must be procured to #[engrave equipment with arcane glyptics/perform transmutation]."
      0x5414 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5415 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -8457,7 +8457,7 @@ SUBROUTINE_588D:
      0x541B [0x06] ExtData[1]->WorkLocal[30] = 0
      0x541E [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x54B6
      0x5426 [0x1A] CALL_SUBROUTINE(address=0x556F)
-     0x5429 [0x24] CREATE_DIALOG(message_id=12230*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+     0x5429 [0x24] CREATE_DIALOG(message_id=12231*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "Which are you interested in? [None whatsoever./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
      0x5430 [0x25] WAIT_DIALOG_SELECT()
      0x5431 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x543F
@@ -8485,14 +8485,14 @@ SUBROUTINE_588D:
      0x549E [0x0C] ExtData[1]->WorkLocal[21]--
      0x54A1 [0x9D] Work_Zone_1700[25] = 0x6E95[ExtData[1]->WorkLocal[21]] // Read WORD
      0x54A9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
-     0x54AC [0x48] [System] [12243*]:
+     0x54AC [0x48] [System] [12244*]:
     → "$33."
      0x54AF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x54B0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x54B3 [0x01] GOTO 0x541E
      0x54B6 [0x01] GOTO 0x54C8
      0x54B9 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x54C8
-     0x54C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+     0x54C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12065*)
     → "What're arcane glyptics? They closely resemble what you Middle Landers call augments, but there are some slight differences."
      0x54C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x54C5 [0x01] GOTO 0x54C8
@@ -8599,7 +8599,7 @@ SUBROUTINE_588D:
      0x56C5 [0x15] Work_Zone[3] /= 100*
      0x56CA [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
      0x56CF [0x03] Work_Zone[5] = 0*
-     0x56D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
+     0x56D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "[Arcane glyptics/Arcane glyptic enhancement] for your $2 as long as you have $1 bayld on hand!"
      0x56D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x56D8 [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -8621,7 +8621,7 @@ SUBROUTINE_588D:
      0x573F [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[28])
      0x5742 [0x03] Work_Zone[3] = 0*
      0x5747 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x574C [0x48] [System] [12111*]:
+     0x574C [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x574F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5750 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -8629,7 +8629,7 @@ SUBROUTINE_588D:
      0x5756 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[53], buffer2=ExtData[1]->WorkLocal[54], buffer3=ExtData[1]->WorkLocal[55])
      0x5760 [0x03] Work_Zone[3] = 0*
      0x5765 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x576A [0x48] [System] [12111*]:
+     0x576A [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x576D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x576E [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -8638,7 +8638,7 @@ SUBROUTINE_588D:
      0x5783 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[56], buffer2=ExtData[1]->WorkLocal[57], buffer3=ExtData[1]->WorkLocal[58])
      0x578D [0x03] Work_Zone[3] = 1*
      0x5792 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x5797 [0x48] [System] [12111*]:
+     0x5797 [0x48] [System] [12112*]:
     → "The [current/post-engravement/post-enhancement/post-transmutation] attributes for $2 are as follows:"
      0x579A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x579B [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -8646,7 +8646,7 @@ SUBROUTINE_588D:
      0x57A8 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x5824
      0x57B0 [0x03] Work_Zone[3] = 0*
      0x57B5 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x57BA [0x48] [System] [12113*]:
+     0x57BA [0x48] [System] [12114*]:
     → "Are you sure you want to [keep the current attributes of/engrave new attributes upon] your $2?"
      0x57BD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x57BE [0x02] IF !(ExtData[1]->WorkLocal[60] == 0*) GOTO 0x57D5
@@ -8666,7 +8666,7 @@ SUBROUTINE_588D:
      0x5824 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x5889
      0x582C [0x03] Work_Zone[3] = 1*
      0x5831 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
-     0x5836 [0x48] [System] [12113*]:
+     0x5836 [0x48] [System] [12114*]:
     → "Are you sure you want to [keep the current attributes of/engrave new attributes upon] your $2?"
      0x5839 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x583A [0xD4] MAP_QUERY_WINDOW: Prepare buffer configuration B (buffer=[01 80 1C 00 38 00 39 00...])
@@ -10023,11 +10023,11 @@ SUBROUTINE_588D:
      0x6EE3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x6EE4 [0x1A] CALL_SUBROUTINE(address=0x6EFD)
      0x6EE7 [0x03] Work_Zone[2] = 2157*
-     0x6EEC [0x1D] PRINT_EVENT_MESSAGE(message_id=12360*)
+     0x6EEC [0x1D] PRINT_EVENT_MESSAGE(message_id=12361*)
     → "Excuse me, but I do not believe you have $6, do you?"
      0x6EEF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6EF0 [0x03] Work_Zone[2] = 2157*
-     0x6EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12361*)
+     0x6EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12362*)
     → "Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one."
      0x6EF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6EF9 [0x1A] CALL_SUBROUTINE(address=0x6FCE)

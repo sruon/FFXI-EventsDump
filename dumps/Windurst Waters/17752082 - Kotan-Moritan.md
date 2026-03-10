@@ -33,27 +33,27 @@
 |---------|-------------|-------------|
 |       0 | 0x0055      |          85 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1FF4      |        8180 |
-|       3 | 0x1FF5      |        8181 |
-|       4 | 0x1E0B      |        7691 |
-|       5 | 0x1E1F      |        7711 |
-|       6 | 0x202C      |        8236 |
-|       7 | 0x202D      |        8237 |
-|       8 | 0x204F      |        8271 |
-|       9 | 0x2050      |        8272 |
-|      10 | 0x25DB      |        9691 |
+|       2 | 0x1FF5      |        8181 |
+|       3 | 0x1FF6      |        8182 |
+|       4 | 0x1E0C      |        7692 |
+|       5 | 0x1E20      |        7712 |
+|       6 | 0x202D      |        8237 |
+|       7 | 0x202E      |        8238 |
+|       8 | 0x2050      |        8272 |
+|       9 | 0x2051      |        8273 |
+|      10 | 0x25DC      |        9692 |
 
 ## String References
 
-- **7691**: What's going on? The minister seems to be troubled... But the dimwit at the counter is half-asleep as usual.
-- **7711**: What's going on? The minister seems to be troubled... But the dimwit at the counter is half-asleep as usual.
-- **8180**: I'm going to read as many books as I can. With all that knowledge, I can become valedictorian of the School of Magic!
-- **8181**: Then when I graduate, I'll enter one of the ministries, work my way up to minister, then become a professor when I retire.
-- **8236**: A Hume named Orn? Why would we know that? If it doesn't appear in our exams, then it's not worth learning!
-- **8237**: You should ask adults such trivial questions. They have more time on their handy-wandies.
-- **8271**: Did you know...? They say that everyone in this world has at least one other person who looks exactly like them.
-- **8272**: So that means there's another Kotan-Moritan who looks exactly like me out there somewhere! Man, that's pretty cool when you think about it.
-- **9691**: What's going on? The minister seems to be troubled. But the dimwit at the counter is half asleep as usual.
+- **7692**: What's going on? The minister seems to be troubled... But the dimwit at the counter is half-asleep as usual.
+- **7712**: What's going on? The minister seems to be troubled... But the dimwit at the counter is half-asleep as usual.
+- **8181**: I'm going to read as many books as I can. With all that knowledge, I can become valedictorian of the School of Magic!
+- **8182**: Then when I graduate, I'll enter one of the ministries, work my way up to minister, then become a professor when I retire.
+- **8237**: A Hume named Orn? Why would we know that? If it doesn't appear in our exams, then it's not worth learning!
+- **8238**: You should ask adults such trivial questions. They have more time on their handy-wandies.
+- **8272**: Did you know...? They say that everyone in this world has at least one other person who looks exactly like them.
+- **8273**: So that means there's another Kotan-Moritan who looks exactly like me out there somewhere! Man, that's pretty cool when you think about it.
+- **9692**: What's going on? The minister seems to be troubled. But the dimwit at the counter is half asleep as usual.
 
 ## Events
 
@@ -178,10 +178,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8181*)
     → "I'm going to read as many books as I can. With all that knowledge, I can become valedictorian of the School of Magic!"
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8181*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
     → "Then when I graduate, I'll enter one of the ministries, work my way up to minister, then become a professor when I retire."
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x02)
@@ -214,7 +214,7 @@
   1: 0x0056 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0057 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0058 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x01)
-  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7691*)
+  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7692*)
     → "What's going on? The minister seems to be troubled... But the dimwit at the counter is half-asleep as usual."
   5: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0063 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x02)
@@ -248,7 +248,7 @@
   1: 0x0073 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0074 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0075 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x01)
-  4: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=7711*)
+  4: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=7712*)
     → "What's going on? The minister seems to be troubled... But the dimwit at the counter is half-asleep as usual."
   5: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0080 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x02)
@@ -282,10 +282,10 @@
   1: 0x0090 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0091 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0092 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x01)
-  4: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=8236*)
+  4: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
     → "A Hume named Orn? Why would we know that? If it doesn't appear in our exams, then it's not worth learning!"
   5: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
+  6: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
     → "You should ask adults such trivial questions. They have more time on their handy-wandies."
   7: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x02)
@@ -319,10 +319,10 @@
   1: 0x00B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x01)
-  4: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8271*)
+  4: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8272*)
     → "Did you know...? They say that everyone in this world has at least one other person who looks exactly like them."
   5: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8272*)
+  6: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8273*)
     → "So that means there's another Kotan-Moritan who looks exactly like me out there somewhere! Man, that's pretty cool when you think about it."
   7: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x02)
@@ -356,7 +356,7 @@
   1: 0x00D2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00D3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x01)
-  4: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9691*)
+  4: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9692*)
     → "What's going on? The minister seems to be troubled. But the dimwit at the counter is half asleep as usual."
   5: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kotan-Moritan (ID: 17752082/0x010EE012), tag_num=0x02)

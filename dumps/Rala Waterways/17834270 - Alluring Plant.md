@@ -36,18 +36,18 @@
 |      11 | 0x000F      |          15 |
 |      12 | 0x001E      |          30 |
 |      13 | 0x0001      |           1 |
-|      14 | 0x1EFB      |        7931 |
-|      15 | 0x1EFC      |        7932 |
-|      16 | 0x1EFD      |        7933 |
+|      14 | 0x1EFC      |        7932 |
+|      15 | 0x1EFD      |        7933 |
+|      16 | 0x1EFE      |        7934 |
 |      17 | 0x0028      |          40 |
-|      18 | 0x1EFE      |        7934 |
+|      18 | 0x1EFF      |        7935 |
 |      19 | 0x0066      |         102 |
 |      20 | 0x0032      |          50 |
 
 ## String References
 
-- **7931**: The leaves of this plant are [bulky/thin/bulky] and its fruit is covered with a [hard/hard/soft] shell.
-- **7932**: Pluck the fruit? [Yes./No.]
+- **7932**: The leaves of this plant are [bulky/thin/bulky] and its fruit is covered with a [hard/hard/soft] shell.
+- **7933**: Pluck the fruit? [Yes./No.]
 
 ## Events
 
@@ -128,10 +128,10 @@
  12: 0x0065 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x0076 [0x1C] WAIT(30* ticks)
  14: 0x0079 [0x03] Work_Zone[2] = 1*
- 15: 0x007E [0x48] [System] [7931*]:
+ 15: 0x007E [0x48] [System] [7932*]:
     → "The leaves of this plant are [bulky/thin/bulky] and its fruit is covered with a [hard/hard/soft] shell."
  16: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0082 [0x24] CREATE_DIALOG(message_id=7932*, default_option=0*, option_flags=0*)
+ 17: 0x0082 [0x24] CREATE_DIALOG(message_id=7933*, default_option=0*, option_flags=0*)
     → "Pluck the fruit? [Yes./No.]"
  18: 0x0089 [0x25] WAIT_DIALOG_SELECT()
  19: 0x008A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0107
@@ -140,13 +140,13 @@
  22: 0x009C [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=558*
  23: 0x00AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[558*, 0*]
  24: 0x00BC [0x4A] LocalPlayer looks at Chalvava (ID: 17834304/0x01102140)
- 25: 0x00C5 [0x2B] Chalvava (ID: 17834304/0x01102140) [7933*]:
+ 25: 0x00C5 [0x2B] Chalvava (ID: 17834304/0x01102140) [7934*]:
     → "Just who do you think you are, messing with someone's vegetables?"
  26: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00CD [0x52] END_LOAD_SCHEDULER: End scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=558*
  28: 0x00DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [LocalPlayer, LocalPlayer], work=[558*, 0*]
  29: 0x00ED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Chalvava (ID: 17834304/0x01102140), Chalvava (ID: 17834304/0x01102140)], work=40*
- 30: 0x00FC [0x2B] Chalvava (ID: 17834304/0x01102140) [7934*]:
+ 30: 0x00FC [0x2B] Chalvava (ID: 17834304/0x01102140) [7935*]:
     → "We've carefully grown them since they were mere seedlings! What gives you the right to lay so much as a finger on them?"
  31: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0104 [0x01] GOTO 0x0107

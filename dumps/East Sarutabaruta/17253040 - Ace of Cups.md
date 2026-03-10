@@ -56,17 +56,17 @@
 |       7 | 0x000D      |          13 |
 |       8 | 0x3F506     |      259334 |
 |       9 | 0xFFF939D5  |  4294523349 |
-|      10 | 0x1D12      |        7442 |
-|      11 | 0x1D17      |        7447 |
-|      12 | 0x1D1A      |        7450 |
-|      13 | 0x1D1C      |        7452 |
+|      10 | 0x1D13      |        7443 |
+|      11 | 0x1D18      |        7448 |
+|      12 | 0x1D1B      |        7451 |
+|      13 | 0x1D1D      |        7453 |
 
 ## String References
 
-- **7442**: Mana Orbs are Cardians' hearts!
-- **7447**: You too, adventurer! Hand over those Mana Orbs to us Cardians now!
-- **7450**: Well...?
-- **7452**: Is this all of them!?
+- **7443**: Mana Orbs are Cardians' hearts!
+- **7448**: You too, adventurer! Hand over those Mana Orbs to us Cardians now!
+- **7451**: Well...?
+- **7453**: Is this all of them!?
 
 ## Events
 
@@ -666,7 +666,7 @@
 #### Opcodes
 
 ```
-  0: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
+  0: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
     → "Mana Orbs are Cardians' hearts!"
   1: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0158 [0x00] END_REQSTACK()
@@ -691,7 +691,7 @@
 #### Opcodes
 
 ```
-  0: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+  0: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "You too, adventurer! Hand over those Mana Orbs to us Cardians now!"
   1: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x015D [0x00] END_REQSTACK()
@@ -717,7 +717,7 @@
 #### Opcodes
 
 ```
-  0: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
+  0: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
     → "Well...?"
   1: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0162 [0x00] END_REQSTACK()
@@ -742,7 +742,7 @@
 #### Opcodes
 
 ```
-  0: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+  0: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "Is this all of them!?"
   1: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0167 [0x00] END_REQSTACK()

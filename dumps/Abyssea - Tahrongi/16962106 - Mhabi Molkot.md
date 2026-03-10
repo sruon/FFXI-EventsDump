@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FCB      |        8139 |
-|       1 | 0x1FCC      |        8140 |
-|       2 | 0x1FCD      |        8141 |
+|       0 | 0x1FCC      |        8140 |
+|       1 | 0x1FCD      |        8141 |
+|       2 | 0x1FCE      |        8142 |
 
 ## String References
 
-- **8139**: You didn't see a drrreary 'Taru in a tunic 'round these parts, did ya?
-- **8140**: Always goin' on about rrresearch this, research that. When you can understand half a word he says, that is...
-- **8141**: Can't figure out those ministry types out for the life of me. I don't care what you'rrre studyin', it can't be more important than the lives of your friends! My Terrible Tigresses... I hope they're alrrright...
+- **8140**: You didn't see a drrreary 'Taru in a tunic 'round these parts, did ya?
+- **8141**: Always goin' on about rrresearch this, research that. When you can understand half a word he says, that is...
+- **8142**: Can't figure out those ministry types out for the life of me. I don't care what you'rrre studyin', it can't be more important than the lives of your friends! My Terrible Tigresses... I hope they're alrrright...
 
 ## Events
 
@@ -77,13 +77,13 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8139*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8140*)
     → "You didn't see a drrreary 'Taru in a tunic 'round these parts, did ya?"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8140*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8141*)
     → "Always goin' on about rrresearch this, research that. When you can understand half a word he says, that is..."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8141*)
+  7: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8142*)
     → "Can't figure out those ministry types out for the life of me. I don't care what you'rrre studyin', it can't be more important than the lives of your friends! My Terrible Tigresses... I hope they're alrrright..."
   8: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0014 [0x21] END_EVENT

@@ -26,14 +26,14 @@
 |       3 | 0x00EF      |         239 |
 |       4 | 0x00F6      |         246 |
 |       5 | 0x00FF      |         255 |
-|       6 | 0x1ECA      |        7882 |
-|       7 | 0x1ECB      |        7883 |
-|       8 | 0x1ECC      |        7884 |
-|       9 | 0x1ECD      |        7885 |
-|      10 | 0x1ECE      |        7886 |
-|      11 | 0x1ECF      |        7887 |
-|      12 | 0x1EC8      |        7880 |
-|      13 | 0x1EC9      |        7881 |
+|       6 | 0x1ECB      |        7883 |
+|       7 | 0x1ECC      |        7884 |
+|       8 | 0x1ECD      |        7885 |
+|       9 | 0x1ECE      |        7886 |
+|      10 | 0x1ECF      |        7887 |
+|      11 | 0x1ED0      |        7888 |
+|      12 | 0x1EC9      |        7881 |
+|      13 | 0x1ECA      |        7882 |
 |      14 | 0x1B4B      |        6987 |
 |      15 | 0x1B4C      |        6988 |
 |      16 | 0x0000      |           0 |
@@ -70,146 +70,146 @@
 |      47 | 0x1B68      |        7016 |
 |      48 | 0x1B51      |        6993 |
 |      49 | 0x03BE      |         958 |
-|      50 | 0x1F39      |        7993 |
-|      51 | 0x1F3A      |        7994 |
-|      52 | 0x1F3B      |        7995 |
-|      53 | 0x1F3C      |        7996 |
-|      54 | 0x1F3D      |        7997 |
-|      55 | 0x1F3E      |        7998 |
+|      50 | 0x1F3A      |        7994 |
+|      51 | 0x1F3B      |        7995 |
+|      52 | 0x1F3C      |        7996 |
+|      53 | 0x1F3D      |        7997 |
+|      54 | 0x1F3E      |        7998 |
+|      55 | 0x1F3F      |        7999 |
 |      56 | 0x0005      |           5 |
-|      57 | 0x1F41      |        8001 |
-|      58 | 0x1F42      |        8002 |
-|      59 | 0x1F43      |        8003 |
-|      60 | 0x1F40      |        8000 |
-|      61 | 0x1F44      |        8004 |
-|      62 | 0x1F3F      |        7999 |
+|      57 | 0x1F42      |        8002 |
+|      58 | 0x1F43      |        8003 |
+|      59 | 0x1F44      |        8004 |
+|      60 | 0x1F41      |        8001 |
+|      61 | 0x1F45      |        8005 |
+|      62 | 0x1F40      |        8000 |
 |      63 | 0x0014      |          20 |
-|      64 | 0x1F45      |        8005 |
-|      65 | 0x1F46      |        8006 |
-|      66 | 0x1F47      |        8007 |
+|      64 | 0x1F46      |        8006 |
+|      65 | 0x1F47      |        8007 |
+|      66 | 0x1F48      |        8008 |
 |      67 | 0x003C      |          60 |
-|      68 | 0x1F48      |        8008 |
-|      69 | 0x1F49      |        8009 |
-|      70 | 0x1F4A      |        8010 |
+|      68 | 0x1F49      |        8009 |
+|      69 | 0x1F4A      |        8010 |
+|      70 | 0x1F4B      |        8011 |
 |      71 | 0x00C8      |         200 |
-|      72 | 0x1F4B      |        8011 |
-|      73 | 0x1F4C      |        8012 |
-|      74 | 0x1F4E      |        8014 |
-|      75 | 0x1F4F      |        8015 |
-|      76 | 0x1F50      |        8016 |
+|      72 | 0x1F4C      |        8012 |
+|      73 | 0x1F4D      |        8013 |
+|      74 | 0x1F4F      |        8015 |
+|      75 | 0x1F50      |        8016 |
+|      76 | 0x1F51      |        8017 |
 |      77 | 0x03E8      |        1000 |
 |      78 | 0x00C9      |         201 |
-|      79 | 0x1F51      |        8017 |
-|      80 | 0x1F53      |        8019 |
-|      81 | 0x1F54      |        8020 |
+|      79 | 0x1F52      |        8018 |
+|      80 | 0x1F54      |        8020 |
+|      81 | 0x1F55      |        8021 |
 |      82 | 0x0004      |           4 |
-|      83 | 0x1F52      |        8018 |
+|      83 | 0x1F53      |        8019 |
 |      84 | 0x03BD      |         957 |
-|      85 | 0x1F18      |        7960 |
-|      86 | 0x1F19      |        7961 |
-|      87 | 0x1F1A      |        7962 |
-|      88 | 0x1F1B      |        7963 |
-|      89 | 0x1F1C      |        7964 |
-|      90 | 0x1F1D      |        7965 |
-|      91 | 0x1F1E      |        7966 |
-|      92 | 0x1F1F      |        7967 |
-|      93 | 0x1F22      |        7970 |
-|      94 | 0x1F21      |        7969 |
-|      95 | 0x1F20      |        7968 |
-|      96 | 0x1F23      |        7971 |
-|      97 | 0x1F24      |        7972 |
-|      98 | 0x1F25      |        7973 |
-|      99 | 0x1F26      |        7974 |
-|     100 | 0x1F27      |        7975 |
-|     101 | 0x1F28      |        7976 |
-|     102 | 0x1F29      |        7977 |
-|     103 | 0x1F2A      |        7978 |
-|     104 | 0x1F2B      |        7979 |
-|     105 | 0x1F2C      |        7980 |
-|     106 | 0x1F2D      |        7981 |
-|     107 | 0x1F2E      |        7982 |
-|     108 | 0x1F2F      |        7983 |
-|     109 | 0x1F31      |        7985 |
+|      85 | 0x1F19      |        7961 |
+|      86 | 0x1F1A      |        7962 |
+|      87 | 0x1F1B      |        7963 |
+|      88 | 0x1F1C      |        7964 |
+|      89 | 0x1F1D      |        7965 |
+|      90 | 0x1F1E      |        7966 |
+|      91 | 0x1F1F      |        7967 |
+|      92 | 0x1F20      |        7968 |
+|      93 | 0x1F23      |        7971 |
+|      94 | 0x1F22      |        7970 |
+|      95 | 0x1F21      |        7969 |
+|      96 | 0x1F24      |        7972 |
+|      97 | 0x1F25      |        7973 |
+|      98 | 0x1F26      |        7974 |
+|      99 | 0x1F27      |        7975 |
+|     100 | 0x1F28      |        7976 |
+|     101 | 0x1F29      |        7977 |
+|     102 | 0x1F2A      |        7978 |
+|     103 | 0x1F2B      |        7979 |
+|     104 | 0x1F2C      |        7980 |
+|     105 | 0x1F2D      |        7981 |
+|     106 | 0x1F2E      |        7982 |
+|     107 | 0x1F2F      |        7983 |
+|     108 | 0x1F30      |        7984 |
+|     109 | 0x1F32      |        7986 |
 |     110 | 0x07D0      |        2000 |
-|     111 | 0x1F32      |        7986 |
-|     112 | 0x1F35      |        7989 |
-|     113 | 0x1F36      |        7990 |
-|     114 | 0x1F33      |        7987 |
-|     115 | 0x1F37      |        7991 |
-|     116 | 0x1F38      |        7992 |
-|     117 | 0x1F34      |        7988 |
+|     111 | 0x1F33      |        7987 |
+|     112 | 0x1F36      |        7990 |
+|     113 | 0x1F37      |        7991 |
+|     114 | 0x1F34      |        7988 |
+|     115 | 0x1F38      |        7992 |
+|     116 | 0x1F39      |        7993 |
+|     117 | 0x1F35      |        7989 |
 |     118 | 0x03BC      |         956 |
-|     119 | 0x1EF2      |        7922 |
-|     120 | 0x1EF3      |        7923 |
-|     121 | 0x1EF4      |        7924 |
-|     122 | 0x1EF5      |        7925 |
-|     123 | 0x1EF6      |        7926 |
-|     124 | 0x1EF7      |        7927 |
-|     125 | 0x1EF9      |        7929 |
-|     126 | 0x1EF8      |        7928 |
-|     127 | 0x1EFA      |        7930 |
-|     128 | 0x1EFB      |        7931 |
-|     129 | 0x1EFC      |        7932 |
-|     130 | 0x1EFD      |        7933 |
-|     131 | 0x1EFE      |        7934 |
-|     132 | 0x1EFF      |        7935 |
-|     133 | 0x1F00      |        7936 |
-|     134 | 0x1F03      |        7939 |
-|     135 | 0x1F04      |        7940 |
-|     136 | 0x1F05      |        7941 |
-|     137 | 0x1F01      |        7937 |
-|     138 | 0x1F02      |        7938 |
-|     139 | 0x1F06      |        7942 |
-|     140 | 0x1F07      |        7943 |
-|     141 | 0x1F08      |        7944 |
-|     142 | 0x1F09      |        7945 |
-|     143 | 0x1F0A      |        7946 |
-|     144 | 0x1F0B      |        7947 |
-|     145 | 0x1F0C      |        7948 |
-|     146 | 0x1F0E      |        7950 |
-|     147 | 0x1F0F      |        7951 |
-|     148 | 0x1F10      |        7952 |
-|     149 | 0x1F11      |        7953 |
+|     119 | 0x1EF3      |        7923 |
+|     120 | 0x1EF4      |        7924 |
+|     121 | 0x1EF5      |        7925 |
+|     122 | 0x1EF6      |        7926 |
+|     123 | 0x1EF7      |        7927 |
+|     124 | 0x1EF8      |        7928 |
+|     125 | 0x1EFA      |        7930 |
+|     126 | 0x1EF9      |        7929 |
+|     127 | 0x1EFB      |        7931 |
+|     128 | 0x1EFC      |        7932 |
+|     129 | 0x1EFD      |        7933 |
+|     130 | 0x1EFE      |        7934 |
+|     131 | 0x1EFF      |        7935 |
+|     132 | 0x1F00      |        7936 |
+|     133 | 0x1F01      |        7937 |
+|     134 | 0x1F04      |        7940 |
+|     135 | 0x1F05      |        7941 |
+|     136 | 0x1F06      |        7942 |
+|     137 | 0x1F02      |        7938 |
+|     138 | 0x1F03      |        7939 |
+|     139 | 0x1F07      |        7943 |
+|     140 | 0x1F08      |        7944 |
+|     141 | 0x1F09      |        7945 |
+|     142 | 0x1F0A      |        7946 |
+|     143 | 0x1F0B      |        7947 |
+|     144 | 0x1F0C      |        7948 |
+|     145 | 0x1F0D      |        7949 |
+|     146 | 0x1F0F      |        7951 |
+|     147 | 0x1F10      |        7952 |
+|     148 | 0x1F11      |        7953 |
+|     149 | 0x1F12      |        7954 |
 |     150 | 0x0BB8      |        3000 |
-|     151 | 0x1F12      |        7954 |
-|     152 | 0x1F14      |        7956 |
-|     153 | 0x1F15      |        7957 |
-|     154 | 0x1F13      |        7955 |
-|     155 | 0x1F16      |        7958 |
-|     156 | 0x1F17      |        7959 |
+|     151 | 0x1F13      |        7955 |
+|     152 | 0x1F15      |        7957 |
+|     153 | 0x1F16      |        7958 |
+|     154 | 0x1F14      |        7956 |
+|     155 | 0x1F17      |        7959 |
+|     156 | 0x1F18      |        7960 |
 |     157 | 0x0303      |         771 |
-|     158 | 0x1ED1      |        7889 |
-|     159 | 0x1ED2      |        7890 |
-|     160 | 0x1ED3      |        7891 |
-|     161 | 0x1ED4      |        7892 |
-|     162 | 0x1ED5      |        7893 |
-|     163 | 0x1ED6      |        7894 |
-|     164 | 0x1ED7      |        7895 |
-|     165 | 0x1ED9      |        7897 |
-|     166 | 0x1ED8      |        7896 |
-|     167 | 0x1EDA      |        7898 |
-|     168 | 0x1EDB      |        7899 |
-|     169 | 0x1EDC      |        7900 |
-|     170 | 0x1EDD      |        7901 |
-|     171 | 0x1EDF      |        7903 |
-|     172 | 0x1EE1      |        7905 |
-|     173 | 0x1EE0      |        7904 |
-|     174 | 0x1EE2      |        7906 |
-|     175 | 0x1EE3      |        7907 |
-|     176 | 0x1EE4      |        7908 |
-|     177 | 0x1EE5      |        7909 |
-|     178 | 0x1EE6      |        7910 |
-|     179 | 0x1EE8      |        7912 |
-|     180 | 0x1EE9      |        7913 |
-|     181 | 0x1EEA      |        7914 |
+|     158 | 0x1ED2      |        7890 |
+|     159 | 0x1ED3      |        7891 |
+|     160 | 0x1ED4      |        7892 |
+|     161 | 0x1ED5      |        7893 |
+|     162 | 0x1ED6      |        7894 |
+|     163 | 0x1ED7      |        7895 |
+|     164 | 0x1ED8      |        7896 |
+|     165 | 0x1EDA      |        7898 |
+|     166 | 0x1ED9      |        7897 |
+|     167 | 0x1EDB      |        7899 |
+|     168 | 0x1EDC      |        7900 |
+|     169 | 0x1EDD      |        7901 |
+|     170 | 0x1EDE      |        7902 |
+|     171 | 0x1EE0      |        7904 |
+|     172 | 0x1EE2      |        7906 |
+|     173 | 0x1EE1      |        7905 |
+|     174 | 0x1EE3      |        7907 |
+|     175 | 0x1EE4      |        7908 |
+|     176 | 0x1EE5      |        7909 |
+|     177 | 0x1EE6      |        7910 |
+|     178 | 0x1EE7      |        7911 |
+|     179 | 0x1EE9      |        7913 |
+|     180 | 0x1EEA      |        7914 |
+|     181 | 0x1EEB      |        7915 |
 |     182 | 0x0FA0      |        4000 |
-|     183 | 0x1EEB      |        7915 |
-|     184 | 0x1EED      |        7917 |
-|     185 | 0x1EEE      |        7918 |
-|     186 | 0x1EEF      |        7919 |
-|     187 | 0x1EEC      |        7916 |
-|     188 | 0x1EF0      |        7920 |
-|     189 | 0x1EF1      |        7921 |
+|     183 | 0x1EEC      |        7916 |
+|     184 | 0x1EEE      |        7918 |
+|     185 | 0x1EEF      |        7919 |
+|     186 | 0x1EF0      |        7920 |
+|     187 | 0x1EED      |        7917 |
+|     188 | 0x1EF1      |        7921 |
+|     189 | 0x1EF2      |        7922 |
 |     190 | 0x0051      |          81 |
 
 ## String References
@@ -244,141 +244,141 @@
 - **7014**: And... Oh, yeah! You have to put your seeds and flowerpots in your Mog Safe beforrre you can use 'em!
 - **7015**: They need to be in therrre so your moogle can use his magic on 'em!
 - **7016**: Moogles are awesome!t
-- **7880**: The prrretty yellow rocks go round and round, Round and round, meow meow meow.t
-- **7881**: I want a rrrock that's nice and round, And a little yellow.t
-- **7882**: I wish that all of San d'Oria was full of pretty flowerrrs...
-- **7883**: ...I wonder if everrrybody knows about garrrdening.
-- **7884**: (Nobody knows the way to a girrrl's heart anymorrre...)
-- **7885**: (Now, if only somebody came along with one of those rrred beauties...)
-- **7886**: This is sooo cute...but members of the Star Onion Brrrigade are supposed to do only good deeds...but this is sooo cute.
-- **7887**: Meooow... Wouldn't it be grrreat if my whole house was made of flowerrrs?
-- **7889**: Reooow? You'rrre giving this to me?
-- **7890**: Meooow... But this...meooow...
-- **7891**: % looks a little confused.
-- **7892**: I only like prrretty flowerrrs and prrretty rocks. Don't need anything else.
-- **7893**: Prrretty yellow rocks! That's what I'm collecting!
-- **7894**: Wow! What a prrretty flowerrr! It smells sooo good!
-- **7895**: Wow! What a prrretty rock! It's sooo smooth!
-- **7896**: $3! I'm sooo happy! Purrrrrr...
-- **7897**: Now my room will be full of prrretty rocks and flowerrrs! Heh heh!
-- **7898**: %looks very happy.
-- **7899**: Now, all my collection needs is $3!
-- **7900**: Anyway, thanks, [misterrr/miss]t
-- **7901**: Meooow! This is the one! This is the one!
-- **7903**: This one is grrreat, too! You got all these forrr me?
-- **7904**: % looks really happy.
-- **7905**: % looks really, REALLY happy.
-- **7906**: You're the grrreatest!!
-- **7907**: I can't give you anything in returrrn, but I can tell you my secrrret!
-- **7908**: Come closerrr...
-- **7909**: (Meow meow meow meow...)
+- **7881**: The prrretty yellow rocks go round and round, Round and round, meow meow meow.t
+- **7882**: I want a rrrock that's nice and round, And a little yellow.t
+- **7883**: I wish that all of San d'Oria was full of pretty flowerrrs...
+- **7884**: ...I wonder if everrrybody knows about garrrdening.
+- **7885**: (Nobody knows the way to a girrrl's heart anymorrre...)
+- **7886**: (Now, if only somebody came along with one of those rrred beauties...)
+- **7887**: This is sooo cute...but members of the Star Onion Brrrigade are supposed to do only good deeds...but this is sooo cute.
+- **7888**: Meooow... Wouldn't it be grrreat if my whole house was made of flowerrrs?
+- **7890**: Reooow? You'rrre giving this to me?
+- **7891**: Meooow... But this...meooow...
+- **7892**: % looks a little confused.
+- **7893**: I only like prrretty flowerrrs and prrretty rocks. Don't need anything else.
+- **7894**: Prrretty yellow rocks! That's what I'm collecting!
+- **7895**: Wow! What a prrretty flowerrr! It smells sooo good!
+- **7896**: Wow! What a prrretty rock! It's sooo smooth!
+- **7897**: $3! I'm sooo happy! Purrrrrr...
+- **7898**: Now my room will be full of prrretty rocks and flowerrrs! Heh heh!
+- **7899**: %looks very happy.
+- **7900**: Now, all my collection needs is $3!
+- **7901**: Anyway, thanks, [misterrr/miss]t
+- **7902**: Meooow! This is the one! This is the one!
+- **7904**: This one is grrreat, too! You got all these forrr me?
+- **7905**: % looks really happy.
+- **7906**: % looks really, REALLY happy.
+- **7907**: You're the grrreatest!!
+- **7908**: I can't give you anything in returrrn, but I can tell you my secrrret!
+- **7909**: Come closerrr...
 - **7910**: (Meow meow meow meow...)
-- **7912**: Heh-heh...
-- **7913**: % looks extremely happy.
-- **7914**: Don't tell anybody I told you that! It'll be our little secrrret!
-- **7915**: Wow! Thanks! My house is filled with prrretty flowers!
-- **7916**: Wow! More yellow rocks! My house gets prrrettier every day!
-- **7917**: But my moogle, my moogle is rrreally upset. She says we don't have any more space in my house!
-- **7918**: "You have no more room, kupo!" Reooow... Give me a brrreak!
-- **7919**: So, you can have that back! I guess I'll just have to give up on it this time. (Sigh)
-- **7920**: Hee-hee. [Misterrr/Miss], I don't need this.
-- **7921**: I'd like to keep it, too, but I'm already out of space in my room...
-- **7922**: Meow? Is this for me?
-- **7923**: I'm happy, but...
-- **7924**: % looks a little confused.
-- **7925**: But what I rrreally want is a prrretty flower to put in my vase at home...
-- **7926**: Thanks for the offerrr, though, [misterrr/miss].
-- **7927**: Meow? A prrresent for me? Wow! Purrrrrrr...
-- **7928**: $3 prrretty flowerrrs for me? These will look grrreat in my room!
-- **7929**: With all these, I won't have to pick any flowerrrs here for my rrroom.
-- **7930**: I looove all kinds of flowerrrs. Especially prrretty $3!
-- **7931**: % looks very happy.
-- **7932**: Thank you, [misterrr/miss]!
-- **7933**: ...
-- **7934**: Yes?
-- **7935**: Do you have anything else to say? [Bye bye!/Don't I get anything else?/...]
-- **7936**: By\`e!t
-- **7937**: (I wonderrr what's wrong with [him/herrr]..?)
-- **7938**: (I alrrready said thank you...mew...)
-- **7939**: Umm...anything...umm...else?
-- **7940**: Three cheers for <Player>! Yeah! Yeah! Yeah!
-- **7941**: (I hope that was enough...)
-- **7942**: Is this really--Is this really? $3, forrr me? It's sooo prrretty!
-- **7943**: This is my favorrrite flowerrr in the whole wide worrrld! Purrrrrrr...
-- **7944**: % looks very, VERY happy.
-- **7945**: OK! I'll let you in on a little secrrret...
-- **7946**: % starts whispering something in your ear.
-- **7947**: (But you have to prrromise not to tell anybody...)
-- **7948**: iWhisper...meow...whisper)
-- **7950**: Heh-heh... Pretty cool, huh?
-- **7951**: % looks pleased with herself.
-- **7952**: Don't forrrget, you prrromised not to tell anybody! Not even the other memberrrs of the Star Onion Brigade!
-- **7953**: This is just between you and me!
-- **7954**: Thank yout Thank yout Thank yout
-- **7955**: Thank you for all the prrretty flowerrrs!t
-- **7956**: But I've rrrun out of vases to put them in! You can have this back.
-- **7957**: It's a prrresent from me to you!
-- **7958**: Flowerrrs...purrrrrr...
-- **7959**: % can't take her eyes off the flowers in front of her, and pays no attention to your gift.
-- **7960**: Meow? For me?
-- **7961**: ...
-- **7962**: You, you, you...
-- **7963**: You can't move the hearrrt of a lady with junk like this!
-- **7964**: You'll need something more--more exciting, more excellent, more extrrravagant! Something like flowerrrs...
-- **7965**: There aren't many people who can imprrress me.
-- **7966**: Herrre. I don't need this, [misterrr/miss].
-- **7967**: How beautiful! You really know the way to a lady's hearrrt.
-- **7968**: But this is just the basics. You've still got a ways to imprrress me!
-- **7969**: This tiny bouquet is cute, but you're still far from imprrressing me!
-- **7970**: And a full bouquet! You're starting to catch on, but anyone can brrring me this.
-- **7971**: % smiles slyly at you.
-- **7972**: If you really want to melt a girls' hearrrt, you should trrry $3.
-- **7973**: Well, thanks anyway for the flowerrrs! La la la la lat
-- **7974**: What's this...
-- **7975**: ...
-- **7976**: % looks very happy!
-- **7977**: This is it! The colorrr! The shape! The frrragrance! Purrrrr...
-- **7978**: I have to admit it. You rrreally know how to imprrress a girl.
-- **7979**: % checks the area before approaching you.
-- **7980**: (Um...I just, I just wanted to say...)
-- **7981**: (You can always come back to visit...if you ever have any extra flowerrrs...)
-- **7982**: (Oh yeah, and I'll teach you some of the back alleys...so you can get here easily...)
-- **7983**: (You just go down....)
-- **7985**: <Giggle> Thank you!
-- **7986**: You've rrreally touched my hearrrt.t
-- **7987**: Another one! You know that this is my favorrrite! Thank you!t
-- **7988**: Meow? Did you already forrrget the way to a girrrl's heart?
-- **7989**: If I took all the norrrmal gifts I got from my fans, I wouldn't have any room for the rrreally nice gifts.
-- **7990**: You can have this back!
-- **7991**: It's tough being adorrred by hundrrreds, but I guess I'll have to get used to it.
-- **7992**: You can have this flowerrr back.
-- **7993**: Meow? What's this?
-- **7994**: For me? Hmm...
-- **7995**: % does not look that excited.
-- **7996**: I'd rather have a flowerrr like the one in Queen Leaute's garrrden.
-- **7997**: Here, you can have this back.
-- **7998**: A flowerrr, for me? I have to show this to Mister Chalvatot!
-- **7999**: You know--you know--Mister Chalvatot is always rrreally happy when I bring him flowerrrs.t
-- **8000**: This little bouquet is just like the lovely bunch of flowers Mister Chalvatot gathered for me one time! Thank you so much!
-- **8001**: Someday--someday--I'm gonna be just like Princess Claidie! Chalvatot said if I take rrreal good care of my flowerrrs that I could!
-- **8002**: I'm gonna take these and plant them all around San d'Orrria! Thank you!!
-- **8003**: If I only had $3...
-- **8004**: If I ever get $3, I'm gonna plant it in Queen Leaute's garden!t
-- **8005**: Meooow! $3! For me? Yeah!
-- **8006**: Now--Now Queen Leaute's garden will be prrrettier than ever!
-- **8007**: % looks overwhelmingly pleased.
-- **8008**: You've been so nice. I wanna give you something to say thanks...
-- **8009**: % has a light bulb over her head.
-- **8010**: I got it! I got it! I'll tell you my secrrret!
-- **8011**: (Meow meow meow meow...)
+- **7911**: (Meow meow meow meow...)
+- **7913**: Heh-heh...
+- **7914**: % looks extremely happy.
+- **7915**: Don't tell anybody I told you that! It'll be our little secrrret!
+- **7916**: Wow! Thanks! My house is filled with prrretty flowers!
+- **7917**: Wow! More yellow rocks! My house gets prrrettier every day!
+- **7918**: But my moogle, my moogle is rrreally upset. She says we don't have any more space in my house!
+- **7919**: "You have no more room, kupo!" Reooow... Give me a brrreak!
+- **7920**: So, you can have that back! I guess I'll just have to give up on it this time. (Sigh)
+- **7921**: Hee-hee. [Misterrr/Miss], I don't need this.
+- **7922**: I'd like to keep it, too, but I'm already out of space in my room...
+- **7923**: Meow? Is this for me?
+- **7924**: I'm happy, but...
+- **7925**: % looks a little confused.
+- **7926**: But what I rrreally want is a prrretty flower to put in my vase at home...
+- **7927**: Thanks for the offerrr, though, [misterrr/miss].
+- **7928**: Meow? A prrresent for me? Wow! Purrrrrrr...
+- **7929**: $3 prrretty flowerrrs for me? These will look grrreat in my room!
+- **7930**: With all these, I won't have to pick any flowerrrs here for my rrroom.
+- **7931**: I looove all kinds of flowerrrs. Especially prrretty $3!
+- **7932**: % looks very happy.
+- **7933**: Thank you, [misterrr/miss]!
+- **7934**: ...
+- **7935**: Yes?
+- **7936**: Do you have anything else to say? [Bye bye!/Don't I get anything else?/...]
+- **7937**: By\`e!t
+- **7938**: (I wonderrr what's wrong with [him/herrr]..?)
+- **7939**: (I alrrready said thank you...mew...)
+- **7940**: Umm...anything...umm...else?
+- **7941**: Three cheers for <Player>! Yeah! Yeah! Yeah!
+- **7942**: (I hope that was enough...)
+- **7943**: Is this really--Is this really? $3, forrr me? It's sooo prrretty!
+- **7944**: This is my favorrrite flowerrr in the whole wide worrrld! Purrrrrrr...
+- **7945**: % looks very, VERY happy.
+- **7946**: OK! I'll let you in on a little secrrret...
+- **7947**: % starts whispering something in your ear.
+- **7948**: (But you have to prrromise not to tell anybody...)
+- **7949**: iWhisper...meow...whisper)
+- **7951**: Heh-heh... Pretty cool, huh?
+- **7952**: % looks pleased with herself.
+- **7953**: Don't forrrget, you prrromised not to tell anybody! Not even the other memberrrs of the Star Onion Brigade!
+- **7954**: This is just between you and me!
+- **7955**: Thank yout Thank yout Thank yout
+- **7956**: Thank you for all the prrretty flowerrrs!t
+- **7957**: But I've rrrun out of vases to put them in! You can have this back.
+- **7958**: It's a prrresent from me to you!
+- **7959**: Flowerrrs...purrrrrr...
+- **7960**: % can't take her eyes off the flowers in front of her, and pays no attention to your gift.
+- **7961**: Meow? For me?
+- **7962**: ...
+- **7963**: You, you, you...
+- **7964**: You can't move the hearrrt of a lady with junk like this!
+- **7965**: You'll need something more--more exciting, more excellent, more extrrravagant! Something like flowerrrs...
+- **7966**: There aren't many people who can imprrress me.
+- **7967**: Herrre. I don't need this, [misterrr/miss].
+- **7968**: How beautiful! You really know the way to a lady's hearrrt.
+- **7969**: But this is just the basics. You've still got a ways to imprrress me!
+- **7970**: This tiny bouquet is cute, but you're still far from imprrressing me!
+- **7971**: And a full bouquet! You're starting to catch on, but anyone can brrring me this.
+- **7972**: % smiles slyly at you.
+- **7973**: If you really want to melt a girls' hearrrt, you should trrry $3.
+- **7974**: Well, thanks anyway for the flowerrrs! La la la la lat
+- **7975**: What's this...
+- **7976**: ...
+- **7977**: % looks very happy!
+- **7978**: This is it! The colorrr! The shape! The frrragrance! Purrrrr...
+- **7979**: I have to admit it. You rrreally know how to imprrress a girl.
+- **7980**: % checks the area before approaching you.
+- **7981**: (Um...I just, I just wanted to say...)
+- **7982**: (You can always come back to visit...if you ever have any extra flowerrrs...)
+- **7983**: (Oh yeah, and I'll teach you some of the back alleys...so you can get here easily...)
+- **7984**: (You just go down....)
+- **7986**: <Giggle> Thank you!
+- **7987**: You've rrreally touched my hearrrt.t
+- **7988**: Another one! You know that this is my favorrrite! Thank you!t
+- **7989**: Meow? Did you already forrrget the way to a girrrl's heart?
+- **7990**: If I took all the norrrmal gifts I got from my fans, I wouldn't have any room for the rrreally nice gifts.
+- **7991**: You can have this back!
+- **7992**: It's tough being adorrred by hundrrreds, but I guess I'll have to get used to it.
+- **7993**: You can have this flowerrr back.
+- **7994**: Meow? What's this?
+- **7995**: For me? Hmm...
+- **7996**: % does not look that excited.
+- **7997**: I'd rather have a flowerrr like the one in Queen Leaute's garrrden.
+- **7998**: Here, you can have this back.
+- **7999**: A flowerrr, for me? I have to show this to Mister Chalvatot!
+- **8000**: You know--you know--Mister Chalvatot is always rrreally happy when I bring him flowerrrs.t
+- **8001**: This little bouquet is just like the lovely bunch of flowers Mister Chalvatot gathered for me one time! Thank you so much!
+- **8002**: Someday--someday--I'm gonna be just like Princess Claidie! Chalvatot said if I take rrreal good care of my flowerrrs that I could!
+- **8003**: I'm gonna take these and plant them all around San d'Orrria! Thank you!!
+- **8004**: If I only had $3...
+- **8005**: If I ever get $3, I'm gonna plant it in Queen Leaute's garden!t
+- **8006**: Meooow! $3! For me? Yeah!
+- **8007**: Now--Now Queen Leaute's garden will be prrrettier than ever!
+- **8008**: % looks overwhelmingly pleased.
+- **8009**: You've been so nice. I wanna give you something to say thanks...
+- **8010**: % has a light bulb over her head.
+- **8011**: I got it! I got it! I'll tell you my secrrret!
 - **8012**: (Meow meow meow meow...)
-- **8014**: But don't tell anyone, okay?
-- **8015**: % looks very happy.
-- **8016**: Secrett Secrett It's our little secret!t
-- **8017**: Another one? Another one? Forrr me? Yeah!
-- **8018**: Wow! I'll take this and plant it in the garden rrright now!
-- **8019**: ... Umm, but I don't have anything to give you in returrrn.
-- **8020**: I'm sorrry, but I can't take this. Thanks anyway! You will come and see the flowers I planted in the garden, though, won't you? Won't you?
+- **8013**: (Meow meow meow meow...)
+- **8015**: But don't tell anyone, okay?
+- **8016**: % looks very happy.
+- **8017**: Secrett Secrett It's our little secret!t
+- **8018**: Another one? Another one? Forrr me? Yeah!
+- **8019**: Wow! I'll take this and plant it in the garden rrright now!
+- **8020**: ... Umm, but I don't have anything to give you in returrrn.
+- **8021**: I'm sorrry, but I can't take this. Thanks anyway! You will come and see the flowers I planted in the garden, though, won't you? Won't you?
 
 ## Events
 
@@ -586,34 +586,34 @@ SUBROUTINE_0080:
  29: 0x0080 [0x02] IF !(ExtData[1]->WorkLocal[7] == 255*) GOTO 0x008B
  30: 0x0088 [0x01] GOTO 0x00D7
  31: 0x008B [0x02] IF !(ExtData[1]->WorkLocal[0] == 231*) GOTO 0x009E
- 32: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
+ 32: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
     → "I wish that all of San d'Oria was full of pretty flowerrrs..."
  33: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
+ 34: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
     → "...I wonder if everrrybody knows about garrrdening."
  35: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x009B [0x01] GOTO 0x00D7
  37: 0x009E [0x02] IF !(ExtData[1]->WorkLocal[0] == 236*) GOTO 0x00B1
- 38: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
+ 38: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
     → "(Nobody knows the way to a girrrl's heart anymorrre...)"
  39: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
+ 40: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
     → "(Now, if only somebody came along with one of those rrred beauties...)"
  41: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x00AE [0x01] GOTO 0x00D7
  43: 0x00B1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 239*) GOTO 0x00C4
- 44: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
+ 44: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7887*)
     → "This is sooo cute...but members of the Star Onion Brrrigade are supposed to do only good deeds...but this is sooo cute."
  45: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7887*)
+ 46: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7888*)
     → "Meooow... Wouldn't it be grrreat if my whole house was made of flowerrrs?"
  47: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x00C1 [0x01] GOTO 0x00D7
  49: 0x00C4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 246*) GOTO 0x00D7
- 50: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+ 50: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
     → "The prrretty yellow rocks go round and round, Round and round, meow meow meow.t"
  51: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
+ 52: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
     → "I want a rrrock that's nice and round, And a little yellow.t"
  53: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00D4 [0x01] GOTO 0x00D7
@@ -743,52 +743,52 @@ SUBROUTINE_01C0:
 136: 0x01C5 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
 137: 0x01CA [0x4A] EventEntity looks at LocalPlayer
 138: 0x01D3 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x01F4
-139: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
+139: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
     → "Meow? What's this?"
 140: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-141: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
+141: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
     → "For me? Hmm..."
 142: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x01E3 [0x48] [System] [7995*]:
+143: 0x01E3 [0x48] [System] [7996*]:
     → "% does not look that excited."
 144: 0x01E6 [0x1C] WAIT(120* ticks)
-145: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
+145: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
     → "I'd rather have a flowerrr like the one in Queen Leaute's garrrden."
 146: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-147: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
+147: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
     → "Here, you can have this back."
 148: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x01F1 [0x01] GOTO 0x02F3
 150: 0x01F4 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0238
-151: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
+151: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
     → "A flowerrr, for me? I have to show this to Mister Chalvatot!"
 152: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x0200 [0x1A] CALL_SUBROUTINE(address=0x0706)
 154: 0x0203 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x022D
 155: 0x020B [0x02] IF !(ExtData[1]->WorkLocal[6] <= 5*) GOTO 0x0222
-156: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
+156: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
     → "Someday--someday--I'm gonna be just like Princess Claidie! Chalvatot said if I take rrreal good care of my flowerrrs that I could!"
 157: 0x0216 [0x23] WAIT_FOR_DIALOG_INTERACTION
-158: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
+158: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=8003*)
     → "I'm gonna take these and plant them all around San d'Orrria! Thank you!!"
 159: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
-160: 0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=8003*)
+160: 0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
     → "If I only had $3..."
 161: 0x021E [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x021F [0x01] GOTO 0x022A
-163: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
+163: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
     → "This little bouquet is just like the lovely bunch of flowers Mister Chalvatot gathered for me one time! Thank you so much!"
 164: 0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
-165: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
+165: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
     → "If I ever get $3, I'm gonna plant it in Queen Leaute's garden!t"
 166: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_022A:
 167: 0x022A [0x01] GOTO 0x0235
-168: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
+168: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
     → "You know--you know--Mister Chalvatot is always rrreally happy when I bring him flowerrrs.t"
 169: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
-170: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
+170: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
     → "If I ever get $3, I'm gonna plant it in Queen Leaute's garden!t"
 171: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -797,69 +797,69 @@ SUBROUTINE_0235:
 173: 0x0238 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x02C5
 174: 0x0240 [0x1C] WAIT(20* ticks)
 175: 0x0243 [0x1A] CALL_SUBROUTINE(address=0x073B)
-176: 0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
+176: 0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
     → "Meooow! $3! For me? Yeah!"
 177: 0x0249 [0x23] WAIT_FOR_DIALOG_INTERACTION
-178: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
+178: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
     → "Now--Now Queen Leaute's garden will be prrrettier than ever!"
 179: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x024E [0x1A] CALL_SUBROUTINE(address=0x0706)
-181: 0x0251 [0x48] [System] [8007*]:
+181: 0x0251 [0x48] [System] [8008*]:
     → "% looks overwhelmingly pleased."
 182: 0x0254 [0x1C] WAIT(60* ticks)
-183: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
+183: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
     → "You've been so nice. I wanna give you something to say thanks..."
 184: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x025B [0x1A] CALL_SUBROUTINE(address=0x0770)
-186: 0x025E [0x48] [System] [8009*]:
+186: 0x025E [0x48] [System] [8010*]:
     → "% has a light bulb over her head."
 187: 0x0261 [0x1C] WAIT(120* ticks)
 188: 0x0264 [0x1A] CALL_SUBROUTINE(address=0x0776)
-189: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
+189: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
     → "I got it! I got it! I'll tell you my secrrret!"
 190: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x026B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 192: 0x027C [0x1C] WAIT(60* ticks)
-193: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
+193: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=8012*)
     → "(Meow meow meow meow...)"
 194: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
-195: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=8012*)
+195: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
     → "(Meow meow meow meow...)"
 196: 0x0286 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x0287 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 198: 0x0298 [0x1C] WAIT(60* ticks)
-199: 0x029B [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
+199: 0x029B [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
     → "But don't tell anyone, okay?"
 200: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x029F [0x1A] CALL_SUBROUTINE(address=0x0706)
-202: 0x02A2 [0x48] [System] [8015*]:
+202: 0x02A2 [0x48] [System] [8016*]:
     → "% looks very happy."
 203: 0x02A5 [0x1A] CALL_SUBROUTINE(address=0x0706)
-204: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
+204: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "Secrett Secrett It's our little secret!t"
 205: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x02AC [0x07] Work_Zone[1] += 1000*
 207: 0x02B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 208: 0x02C2 [0x01] GOTO 0x02F3
 209: 0x02C5 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x02DC
-210: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
+210: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
     → "Another one? Another one? Forrr me? Yeah!"
 211: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-212: 0x02D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
+212: 0x02D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
     → "... Umm, but I don't have anything to give you in returrrn."
 213: 0x02D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-214: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
+214: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
     → "I'm sorrry, but I can't take this. Thanks anyway! You will come and see the flowers I planted in the garden, though, won't you? Won't you?"
 215: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x02D9 [0x01] GOTO 0x02F3
 217: 0x02DC [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x02F3
-218: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
+218: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
     → "Wow! I'll take this and plant it in the garden rrright now!"
 219: 0x02E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-220: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
+220: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
     → "... Umm, but I don't have anything to give you in returrrn."
 221: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
-222: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
+222: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
     → "I'm sorrry, but I can't take this. Thanks anyway! You will come and see the flowers I planted in the garden, though, won't you? Won't you?"
 223: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x02F0 [0x01] GOTO 0x02F3
@@ -872,132 +872,132 @@ SUBROUTINE_02F4:
 227: 0x02F9 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
 228: 0x02FE [0x4A] EventEntity looks at LocalPlayer
 229: 0x0307 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0330
-230: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+230: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "Meow? For me?"
 231: 0x0312 [0x23] WAIT_FOR_DIALOG_INTERACTION
-232: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
+232: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
     → "..."
 233: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
-234: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+234: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "You, you, you..."
 235: 0x031A [0x23] WAIT_FOR_DIALOG_INTERACTION
-236: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
+236: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
     → "You can't move the hearrrt of a lady with junk like this!"
 237: 0x031E [0x1A] CALL_SUBROUTINE(address=0x0706)
-238: 0x0321 [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
+238: 0x0321 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
     → "You'll need something more--more exciting, more excellent, more extrrravagant! Something like flowerrrs..."
 239: 0x0324 [0x23] WAIT_FOR_DIALOG_INTERACTION
-240: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+240: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "There aren't many people who can imprrress me."
 241: 0x0328 [0x23] WAIT_FOR_DIALOG_INTERACTION
-242: 0x0329 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
+242: 0x0329 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
     → "Herrre. I don't need this, [misterrr/miss]."
 243: 0x032C [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x032D [0x01] GOTO 0x0430
 245: 0x0330 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x036F
-246: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+246: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
     → "How beautiful! You really know the way to a lady's hearrrt."
 247: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x033C [0x02] IF !(ExtData[1]->WorkLocal[6] <= 1*) GOTO 0x035A
 249: 0x0344 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 5*) GOTO 0x0353
-250: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
+250: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
     → "And a full bouquet! You're starting to catch on, but anyone can brrring me this."
 251: 0x034F [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x0350 [0x01] GOTO 0x0357
-253: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+253: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "This tiny bouquet is cute, but you're still far from imprrressing me!"
 254: 0x0356 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0357:
 255: 0x0357 [0x01] GOTO 0x035E
-256: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+256: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "But this is just the basics. You've still got a ways to imprrress me!"
 257: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_035E:
-258: 0x035E [0x48] [System] [7971*]:
+258: 0x035E [0x48] [System] [7972*]:
     → "% smiles slyly at you."
 259: 0x0361 [0x1C] WAIT(120* ticks)
-260: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
+260: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
     → "If you really want to melt a girls' hearrrt, you should trrry $3."
 261: 0x0367 [0x23] WAIT_FOR_DIALOG_INTERACTION
-262: 0x0368 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
+262: 0x0368 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
     → "Well, thanks anyway for the flowerrrs! La la la la lat"
 263: 0x036B [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x036C [0x01] GOTO 0x0430
 265: 0x036F [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x03E7
-266: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
+266: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
     → "What's this..."
 267: 0x037A [0x1A] CALL_SUBROUTINE(address=0x073B)
-268: 0x037D [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
+268: 0x037D [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
     → "..."
 269: 0x0380 [0x23] WAIT_FOR_DIALOG_INTERACTION
-270: 0x0381 [0x48] [System] [7976*]:
+270: 0x0381 [0x48] [System] [7977*]:
     → "% looks very happy!"
 271: 0x0384 [0x1A] CALL_SUBROUTINE(address=0x0706)
-272: 0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
+272: 0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
     → "This is it! The colorrr! The shape! The frrragrance! Purrrrr..."
 273: 0x038A [0x23] WAIT_FOR_DIALOG_INTERACTION
-274: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
+274: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
     → "I have to admit it. You rrreally know how to imprrress a girl."
 275: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
-276: 0x038F [0x48] [System] [7979*]:
+276: 0x038F [0x48] [System] [7980*]:
     → "% checks the area before approaching you."
 277: 0x0392 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 278: 0x03A3 [0x1C] WAIT(120* ticks)
-279: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
+279: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
     → "(Um...I just, I just wanted to say...)"
 280: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-281: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
+281: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
     → "(You can always come back to visit...if you ever have any extra flowerrrs...)"
 282: 0x03AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-283: 0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
+283: 0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
     → "(Oh yeah, and I'll teach you some of the back alleys...so you can get here easily...)"
 284: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-285: 0x03B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
+285: 0x03B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
     → "(You just go down....)"
 286: 0x03B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x03B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 288: 0x03C7 [0x1C] WAIT(60* ticks)
-289: 0x03CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+289: 0x03CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "<Giggle> Thank you!"
 290: 0x03CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x03CE [0x07] Work_Zone[1] += 2000*
 292: 0x03D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 293: 0x03E4 [0x01] GOTO 0x0430
 294: 0x03E7 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x03FE
-295: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
+295: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
     → "You've rrreally touched my hearrrt.t"
 296: 0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-297: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
+297: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
     → "If I took all the norrrmal gifts I got from my fans, I wouldn't have any room for the rrreally nice gifts."
 298: 0x03F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-299: 0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+299: 0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "You can have this back!"
 300: 0x03FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x03FB [0x01] GOTO 0x0430
 302: 0x03FE [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x0419
-303: 0x0406 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+303: 0x0406 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "Another one! You know that this is my favorrrite! Thank you!t"
 304: 0x0409 [0x23] WAIT_FOR_DIALOG_INTERACTION
-305: 0x040A [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
+305: 0x040A [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
     → "If I took all the norrrmal gifts I got from my fans, I wouldn't have any room for the rrreally nice gifts."
 306: 0x040D [0x23] WAIT_FOR_DIALOG_INTERACTION
-307: 0x040E [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+307: 0x040E [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "It's tough being adorrred by hundrrreds, but I guess I'll have to get used to it."
 308: 0x0411 [0x23] WAIT_FOR_DIALOG_INTERACTION
-309: 0x0412 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+309: 0x0412 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "You can have this flowerrr back."
 310: 0x0415 [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x0416 [0x01] GOTO 0x0430
 312: 0x0419 [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x0430
-313: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
+313: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
     → "Meow? Did you already forrrget the way to a girrrl's heart?"
 314: 0x0424 [0x23] WAIT_FOR_DIALOG_INTERACTION
-315: 0x0425 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+315: 0x0425 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "It's tough being adorrred by hundrrreds, but I guess I'll have to get used to it."
 316: 0x0428 [0x23] WAIT_FOR_DIALOG_INTERACTION
-317: 0x0429 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+317: 0x0429 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "You can have this back!"
 318: 0x042C [0x23] WAIT_FOR_DIALOG_INTERACTION
 319: 0x042D [0x01] GOTO 0x0430
@@ -1010,155 +1010,155 @@ SUBROUTINE_0431:
 322: 0x0436 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
 323: 0x043B [0x4A] EventEntity looks at LocalPlayer
 324: 0x0444 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0465
-325: 0x044C [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
+325: 0x044C [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
     → "Meow? Is this for me?"
 326: 0x044F [0x23] WAIT_FOR_DIALOG_INTERACTION
-327: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
+327: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
     → "I'm happy, but..."
 328: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
-329: 0x0454 [0x48] [System] [7924*]:
+329: 0x0454 [0x48] [System] [7925*]:
     → "% looks a little confused."
 330: 0x0457 [0x1C] WAIT(120* ticks)
-331: 0x045A [0x1D] PRINT_EVENT_MESSAGE(message_id=7925*)
+331: 0x045A [0x1D] PRINT_EVENT_MESSAGE(message_id=7926*)
     → "But what I rrreally want is a prrretty flower to put in my vase at home..."
 332: 0x045D [0x23] WAIT_FOR_DIALOG_INTERACTION
-333: 0x045E [0x1D] PRINT_EVENT_MESSAGE(message_id=7926*)
+333: 0x045E [0x1D] PRINT_EVENT_MESSAGE(message_id=7927*)
     → "Thanks for the offerrr, though, [misterrr/miss]."
 334: 0x0461 [0x23] WAIT_FOR_DIALOG_INTERACTION
 335: 0x0462 [0x01] GOTO 0x05AA
 336: 0x0465 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x04FA
-337: 0x046D [0x1D] PRINT_EVENT_MESSAGE(message_id=7927*)
+337: 0x046D [0x1D] PRINT_EVENT_MESSAGE(message_id=7928*)
     → "Meow? A prrresent for me? Wow! Purrrrrrr..."
 338: 0x0470 [0x23] WAIT_FOR_DIALOG_INTERACTION
 339: 0x0471 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 1*) GOTO 0x0496
 340: 0x0479 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 5*) GOTO 0x0488
-341: 0x0481 [0x1D] PRINT_EVENT_MESSAGE(message_id=7929*)
+341: 0x0481 [0x1D] PRINT_EVENT_MESSAGE(message_id=7930*)
     → "With all these, I won't have to pick any flowerrrs here for my rrroom."
 342: 0x0484 [0x23] WAIT_FOR_DIALOG_INTERACTION
 343: 0x0485 [0x01] GOTO 0x0496
 344: 0x0488 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[6]
-345: 0x048D [0x1D] PRINT_EVENT_MESSAGE(message_id=7928*)
+345: 0x048D [0x1D] PRINT_EVENT_MESSAGE(message_id=7929*)
     → "$3 prrretty flowerrrs for me? These will look grrreat in my room!"
 346: 0x0490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x0491 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
 
 SUBROUTINE_0496:
-348: 0x0496 [0x1D] PRINT_EVENT_MESSAGE(message_id=7930*)
+348: 0x0496 [0x1D] PRINT_EVENT_MESSAGE(message_id=7931*)
     → "I looove all kinds of flowerrrs. Especially prrretty $3!"
 349: 0x0499 [0x23] WAIT_FOR_DIALOG_INTERACTION
-350: 0x049A [0x48] [System] [7931*]:
+350: 0x049A [0x48] [System] [7932*]:
     → "% looks very happy."
 351: 0x049D [0x1C] WAIT(120* ticks)
-352: 0x04A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
+352: 0x04A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Thank you, [misterrr/miss]!"
 353: 0x04A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 354: 0x04A4 [0x1C] WAIT(60* ticks)
-355: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
+355: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
     → "..."
 356: 0x04AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-357: 0x04AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
+357: 0x04AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
     → "Yes?"
 358: 0x04AE [0x23] WAIT_FOR_DIALOG_INTERACTION
-359: 0x04AF [0x24] CREATE_DIALOG(message_id=7935*, default_option=0*, option_flags=0*)
+359: 0x04AF [0x24] CREATE_DIALOG(message_id=7936*, default_option=0*, option_flags=0*)
     → "Do you have anything else to say? [Bye bye!/Don't I get anything else?/...]"
 360: 0x04B6 [0x25] WAIT_DIALOG_SELECT()
 361: 0x04B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04C6
-362: 0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
+362: 0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
     → "By`e!t"
 363: 0x04C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x04C3 [0x01] GOTO 0x04F7
 365: 0x04C6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04E0
-366: 0x04CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+366: 0x04CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Umm...anything...umm...else?"
 367: 0x04D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-368: 0x04D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+368: 0x04D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "Three cheers for <Player>! Yeah! Yeah! Yeah!"
 369: 0x04D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 370: 0x04D6 [0x1A] CALL_SUBROUTINE(address=0x0706)
-371: 0x04D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
+371: 0x04D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
     → "(I hope that was enough...)"
 372: 0x04DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x04DD [0x01] GOTO 0x04F7
 374: 0x04E0 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x04F3
-375: 0x04E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
+375: 0x04E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
     → "(I wonderrr what's wrong with [him/herrr]..?)"
 376: 0x04EB [0x23] WAIT_FOR_DIALOG_INTERACTION
-377: 0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+377: 0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
     → "(I alrrready said thank you...mew...)"
 378: 0x04EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 379: 0x04F0 [0x01] GOTO 0x04F7
-380: 0x04F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
+380: 0x04F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
     → "By`e!t"
 381: 0x04F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F7:
 382: 0x04F7 [0x01] GOTO 0x05AA
 383: 0x04FA [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0572
-384: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+384: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "Is this really--Is this really? $3, forrr me? It's sooo prrretty!"
 385: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
-386: 0x0506 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
+386: 0x0506 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
     → "This is my favorrrite flowerrr in the whole wide worrrld! Purrrrrrr..."
 387: 0x0509 [0x23] WAIT_FOR_DIALOG_INTERACTION
-388: 0x050A [0x48] [System] [7944*]:
+388: 0x050A [0x48] [System] [7945*]:
     → "% looks very, VERY happy."
 389: 0x050D [0x1A] CALL_SUBROUTINE(address=0x0706)
-390: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
+390: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
     → "OK! I'll let you in on a little secrrret..."
 391: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 392: 0x0514 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-393: 0x0525 [0x48] [System] [7946*]:
+393: 0x0525 [0x48] [System] [7947*]:
     → "% starts whispering something in your ear."
 394: 0x0528 [0x1C] WAIT(120* ticks)
-395: 0x052B [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
+395: 0x052B [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
     → "(But you have to prrromise not to tell anybody...)"
 396: 0x052E [0x23] WAIT_FOR_DIALOG_INTERACTION
-397: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
+397: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
     → "iWhisper...meow...whisper)"
 398: 0x0532 [0x23] WAIT_FOR_DIALOG_INTERACTION
 399: 0x0533 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 400: 0x0544 [0x1C] WAIT(120* ticks)
-401: 0x0547 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+401: 0x0547 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
     → "Heh-heh... Pretty cool, huh?"
 402: 0x054A [0x23] WAIT_FOR_DIALOG_INTERACTION
-403: 0x054B [0x48] [System] [7951*]:
+403: 0x054B [0x48] [System] [7952*]:
     → "% looks pleased with herself."
 404: 0x054E [0x1C] WAIT(120* ticks)
-405: 0x0551 [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
+405: 0x0551 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
     → "Don't forrrget, you prrromised not to tell anybody! Not even the other memberrrs of the Star Onion Brigade!"
 406: 0x0554 [0x23] WAIT_FOR_DIALOG_INTERACTION
-407: 0x0555 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
+407: 0x0555 [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
     → "This is just between you and me!"
 408: 0x0558 [0x23] WAIT_FOR_DIALOG_INTERACTION
 409: 0x0559 [0x07] Work_Zone[1] += 3000*
 410: 0x055E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 411: 0x056F [0x01] GOTO 0x05AA
 412: 0x0572 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x0589
-413: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
+413: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
     → "Thank yout Thank yout Thank yout"
 414: 0x057D [0x23] WAIT_FOR_DIALOG_INTERACTION
-415: 0x057E [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
+415: 0x057E [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
     → "But I've rrrun out of vases to put them in! You can have this back."
 416: 0x0581 [0x23] WAIT_FOR_DIALOG_INTERACTION
-417: 0x0582 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+417: 0x0582 [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "It's a prrresent from me to you!"
 418: 0x0585 [0x23] WAIT_FOR_DIALOG_INTERACTION
 419: 0x0586 [0x01] GOTO 0x05AA
 420: 0x0589 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x05A0
-421: 0x0591 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+421: 0x0591 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "Thank you for all the prrretty flowerrrs!t"
 422: 0x0594 [0x23] WAIT_FOR_DIALOG_INTERACTION
-423: 0x0595 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
+423: 0x0595 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
     → "But I've rrrun out of vases to put them in! You can have this back."
 424: 0x0598 [0x23] WAIT_FOR_DIALOG_INTERACTION
-425: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+425: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "It's a prrresent from me to you!"
 426: 0x059C [0x23] WAIT_FOR_DIALOG_INTERACTION
 427: 0x059D [0x01] GOTO 0x05AA
-428: 0x05A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
+428: 0x05A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
     → "Flowerrrs...purrrrrr..."
 429: 0x05A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-430: 0x05A4 [0x48] [System] [7959*]:
+430: 0x05A4 [0x48] [System] [7960*]:
     → "% can't take her eyes off the flowers in front of her, and pays no attention to your gift."
 431: 0x05A7 [0x1C] WAIT(60* ticks)
 
@@ -1170,134 +1170,134 @@ SUBROUTINE_05AB:
 434: 0x05B0 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
 435: 0x05B5 [0x4A] EventEntity looks at LocalPlayer
 436: 0x05BE [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x05DF
-437: 0x05C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7889*)
+437: 0x05C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
     → "Reooow? You'rrre giving this to me?"
 438: 0x05C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-439: 0x05CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
+439: 0x05CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
     → "Meooow... But this...meooow..."
 440: 0x05CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-441: 0x05CE [0x48] [System] [7891*]:
+441: 0x05CE [0x48] [System] [7892*]:
     → "% looks a little confused."
 442: 0x05D1 [0x1C] WAIT(120* ticks)
-443: 0x05D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
+443: 0x05D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
     → "I only like prrretty flowerrrs and prrretty rocks. Don't need anything else."
 444: 0x05D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-445: 0x05D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
+445: 0x05D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
     → "Prrretty yellow rocks! That's what I'm collecting!"
 446: 0x05DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 447: 0x05DC [0x01] GOTO 0x0705
 448: 0x05DF [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0635
 449: 0x05E7 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x05F3
-450: 0x05EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
+450: 0x05EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
     → "Wow! What a prrretty flowerrr! It smells sooo good!"
 451: 0x05F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 452: 0x05F3 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x05FF
-453: 0x05FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
+453: 0x05FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
     → "Wow! What a prrretty rock! It's sooo smooth!"
 454: 0x05FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 455: 0x05FF [0x02] IF !(ExtData[1]->WorkLocal[6] <= 1*) GOTO 0x0624
 456: 0x0607 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 5*) GOTO 0x0616
-457: 0x060F [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
+457: 0x060F [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
     → "Now my room will be full of prrretty rocks and flowerrrs! Heh heh!"
 458: 0x0612 [0x23] WAIT_FOR_DIALOG_INTERACTION
 459: 0x0613 [0x01] GOTO 0x0624
 460: 0x0616 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[6]
-461: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
+461: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
     → "$3! I'm sooo happy! Purrrrrr..."
 462: 0x061E [0x23] WAIT_FOR_DIALOG_INTERACTION
 463: 0x061F [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
 
 SUBROUTINE_0624:
-464: 0x0624 [0x48] [System] [7898*]:
+464: 0x0624 [0x48] [System] [7899*]:
     → "%looks very happy."
 465: 0x0627 [0x1C] WAIT(120* ticks)
-466: 0x062A [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
+466: 0x062A [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
     → "Now, all my collection needs is $3!"
 467: 0x062D [0x23] WAIT_FOR_DIALOG_INTERACTION
-468: 0x062E [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
+468: 0x062E [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
     → "Anyway, thanks, [misterrr/miss]t"
 469: 0x0631 [0x23] WAIT_FOR_DIALOG_INTERACTION
 470: 0x0632 [0x01] GOTO 0x0705
 471: 0x0635 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x06BC
-472: 0x063D [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
+472: 0x063D [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "Meooow! This is the one! This is the one!"
 473: 0x0640 [0x23] WAIT_FOR_DIALOG_INTERACTION
 474: 0x0641 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 1*) GOTO 0x0653
-475: 0x0649 [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
+475: 0x0649 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
     → "This one is grrreat, too! You got all these forrr me?"
 476: 0x064C [0x23] WAIT_FOR_DIALOG_INTERACTION
-477: 0x064D [0x48] [System] [7905*]:
+477: 0x064D [0x48] [System] [7906*]:
     → "% looks really, REALLY happy."
 478: 0x0650 [0x01] GOTO 0x0656
-479: 0x0653 [0x48] [System] [7904*]:
+479: 0x0653 [0x48] [System] [7905*]:
     → "% looks really happy."
 
 SUBROUTINE_0656:
 480: 0x0656 [0x1A] CALL_SUBROUTINE(address=0x0706)
-481: 0x0659 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
+481: 0x0659 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
     → "You're the grrreatest!!"
 482: 0x065C [0x23] WAIT_FOR_DIALOG_INTERACTION
-483: 0x065D [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
+483: 0x065D [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
     → "I can't give you anything in returrrn, but I can tell you my secrrret!"
 484: 0x0660 [0x23] WAIT_FOR_DIALOG_INTERACTION
 485: 0x0661 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 486: 0x0672 [0x1C] WAIT(120* ticks)
-487: 0x0675 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
+487: 0x0675 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
     → "Come closerrr..."
 488: 0x0678 [0x23] WAIT_FOR_DIALOG_INTERACTION
-489: 0x0679 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
+489: 0x0679 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
     → "(Meow meow meow meow...)"
 490: 0x067C [0x23] WAIT_FOR_DIALOG_INTERACTION
-491: 0x067D [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+491: 0x067D [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "(Meow meow meow meow...)"
 492: 0x0680 [0x23] WAIT_FOR_DIALOG_INTERACTION
 493: 0x0681 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 494: 0x0692 [0x1C] WAIT(120* ticks)
-495: 0x0695 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+495: 0x0695 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "Heh-heh..."
 496: 0x0698 [0x23] WAIT_FOR_DIALOG_INTERACTION
-497: 0x0699 [0x48] [System] [7913*]:
+497: 0x0699 [0x48] [System] [7914*]:
     → "% looks extremely happy."
 498: 0x069C [0x1A] CALL_SUBROUTINE(address=0x0706)
-499: 0x069F [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+499: 0x069F [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "Don't tell anybody I told you that! It'll be our little secrrret!"
 500: 0x06A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 501: 0x06A3 [0x07] Work_Zone[1] += 4000*
 502: 0x06A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 503: 0x06B9 [0x01] GOTO 0x0705
 504: 0x06BC [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x06D7
-505: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+505: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "Wow! Thanks! My house is filled with prrretty flowers!"
 506: 0x06C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-507: 0x06C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
+507: 0x06C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
     → "But my moogle, my moogle is rrreally upset. She says we don't have any more space in my house!"
 508: 0x06CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-509: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+509: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → ""You have no more room, kupo!" Reooow... Give me a brrreak!"
 510: 0x06CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-511: 0x06D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
+511: 0x06D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
     → "So, you can have that back! I guess I'll just have to give up on it this time. (Sigh)"
 512: 0x06D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 513: 0x06D4 [0x01] GOTO 0x0705
 514: 0x06D7 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x06F2
-515: 0x06DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
+515: 0x06DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
     → "Wow! More yellow rocks! My house gets prrrettier every day!"
 516: 0x06E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-517: 0x06E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
+517: 0x06E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
     → "But my moogle, my moogle is rrreally upset. She says we don't have any more space in my house!"
 518: 0x06E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-519: 0x06E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+519: 0x06E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → ""You have no more room, kupo!" Reooow... Give me a brrreak!"
 520: 0x06EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-521: 0x06EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
+521: 0x06EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
     → "So, you can have that back! I guess I'll just have to give up on it this time. (Sigh)"
 522: 0x06EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 523: 0x06EF [0x01] GOTO 0x0705
 524: 0x06F2 [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x0705
-525: 0x06FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
+525: 0x06FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
     → "Hee-hee. [Misterrr/Miss], I don't need this."
 526: 0x06FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-527: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+527: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "I'd like to keep it, too, but I'm already out of space in my room..."
 528: 0x0701 [0x23] WAIT_FOR_DIALOG_INTERACTION
 529: 0x0702 [0x01] GOTO 0x0705

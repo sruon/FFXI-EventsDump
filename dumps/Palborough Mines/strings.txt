@@ -1,5 +1,5 @@
 # Strings for Palborough Mines
-# Total: 7660 strings
+# Total: 7661 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7329,335 +7329,336 @@
  7325: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7326: You receive $0 bayld!
  7327: Your chocobo refuses to partake of the $0.
- 7328: Canceled.
- 7329: It's closed.
- 7330: It's open.
- 7331: Pull lever? [Yes./No.]
- 7332: The lever is stuck.
- 7333: Nothing happens... Too many people on board?
- 7334: Boarding successful.
- 7335: Boarding failed.
- 7336: Stuck to the far raft.
- 7337: Stuck to the near raft.
- 7338: Error! return value = 0
- 7339: End phase.
- 7340: Pending phase.
- 7341: LinkDead phase.
- 7342: Zoning phase.
- 7343: Started to move raft.
- 7344: Zoning.
- 7345: Raft returning.
- 7346: You can board the raft.
- 7347: Default step.
- 7348: Activation step.
- 7349: Going step.
- 7350: Waiting step.
- 7351: Returning step.
- 7352: Now in RECT
- 7353: Debug event start
- 7354: Automatic movement mode.
- 7355: Ground On.
- 7356: Ground Off.
- 7357: Zone change failed. Zoning you to correct coordinates.
- 7358: Welcome to the Palborough Mines. You may teleport to different sections of the mines from here.
- 7359: Teleport where? [Raft docks./Mythril Refiner./Elevator./Old toolboxes./Cancel.]
- 7360: Welcome to the Palborough Mines. You may teleport to different mining points of the mines from here.
- 7361: Teleport to which mining point? [1F, near river (1,2)/1F, far end (0)"F, east (3)"F, west (4)"F (5,6)]
- 7362: Canceled.
- 7363: Please don't check this contraption yet.
- 7364: You should be able to mine mythril here.
- 7365: You might be able to mine mythril here.
- 7366: (dig...dig...dig...dig...)
- 7367: You will need a proper tool to dig here.
- 7368: Your $1 breaks!
- 7369: Your pickaxe didn't break!
- 7370: Failed to return $0.
- 7371: You find $1!
- 7372: You find $1, but your $2 breaks in the process.
- 7373: Your $1 breaks!
- 7374: You find nothing.
- 7375: Failed to add $0.
- 7376: You cannot carry any more items. Your inventory is full.
- 7377: Invalid returning value!
- 7378: You see flecks of a shiny material. It looks like they were once $0.
- 7379: You put in $1 $0 .
- 7380: No, that doesn't seem right. There must be something else you can put in.
- 7381: It's full.
- 7382: Error!
- 7383: Success!
- 7384: Pull the lever? [Yes./No.]
- 7385: You've activated the machine.
- 7386: You hear the sounds of metal hitting metal down below. Did the things you put in come out there?
- 7387: It might be best to go look downstairs.
- 7388: The machine seems to be working, but you cannot discern its purpose.
- 7389: You wonder what this handle does. You think you should be able to put something inside...
- 7390: Pull the lever? [Yes./No.]
- 7391: Something falls out of the machine!
- 7392: Nothing happens.
- 7393: You obtain $1 $0 !
- 7394: There seems to be more left in the machine, but you can't carry any more items.
- 7395: You see tools and boxes lying around. They look very old.
- 7396: You see an old iron box.
- 7397: Examine the iron box? [Yes./No.]
- 7398: You decide to leave it alone.
- 7399: You look inside the box. You see several toolboxes, still filled with tools.
- 7400: You find one with a name engraved on the cover. The name reads, "Vigilant Owl."
- 7401: Take the toolbox with you? [Yes./No.]
- 7402: You've obtained $3.
- 7403: x=$0,z=$1,y=$2
- 7404: You receive nothing from the moon rabbit...
- 7405: The moon rabbit has brought along a monster!
- 7406: You have to do something about those crazy trees, kupo!
- 7407: You're done fighting trees, kupo?
- 7408: 
+ 7328: Your wing skill improved to $0!
+ 7329: Canceled.
+ 7330: It's closed.
+ 7331: It's open.
+ 7332: Pull lever? [Yes./No.]
+ 7333: The lever is stuck.
+ 7334: Nothing happens... Too many people on board?
+ 7335: Boarding successful.
+ 7336: Boarding failed.
+ 7337: Stuck to the far raft.
+ 7338: Stuck to the near raft.
+ 7339: Error! return value = 0
+ 7340: End phase.
+ 7341: Pending phase.
+ 7342: LinkDead phase.
+ 7343: Zoning phase.
+ 7344: Started to move raft.
+ 7345: Zoning.
+ 7346: Raft returning.
+ 7347: You can board the raft.
+ 7348: Default step.
+ 7349: Activation step.
+ 7350: Going step.
+ 7351: Waiting step.
+ 7352: Returning step.
+ 7353: Now in RECT
+ 7354: Debug event start
+ 7355: Automatic movement mode.
+ 7356: Ground On.
+ 7357: Ground Off.
+ 7358: Zone change failed. Zoning you to correct coordinates.
+ 7359: Welcome to the Palborough Mines. You may teleport to different sections of the mines from here.
+ 7360: Teleport where? [Raft docks./Mythril Refiner./Elevator./Old toolboxes./Cancel.]
+ 7361: Welcome to the Palborough Mines. You may teleport to different mining points of the mines from here.
+ 7362: Teleport to which mining point? [1F, near river (1,2)/1F, far end (0)"F, east (3)"F, west (4)"F (5,6)]
+ 7363: Canceled.
+ 7364: Please don't check this contraption yet.
+ 7365: You should be able to mine mythril here.
+ 7366: You might be able to mine mythril here.
+ 7367: (dig...dig...dig...dig...)
+ 7368: You will need a proper tool to dig here.
+ 7369: Your $1 breaks!
+ 7370: Your pickaxe didn't break!
+ 7371: Failed to return $0.
+ 7372: You find $1!
+ 7373: You find $1, but your $2 breaks in the process.
+ 7374: Your $1 breaks!
+ 7375: You find nothing.
+ 7376: Failed to add $0.
+ 7377: You cannot carry any more items. Your inventory is full.
+ 7378: Invalid returning value!
+ 7379: You see flecks of a shiny material. It looks like they were once $0.
+ 7380: You put in $1 $0 .
+ 7381: No, that doesn't seem right. There must be something else you can put in.
+ 7382: It's full.
+ 7383: Error!
+ 7384: Success!
+ 7385: Pull the lever? [Yes./No.]
+ 7386: You've activated the machine.
+ 7387: You hear the sounds of metal hitting metal down below. Did the things you put in come out there?
+ 7388: It might be best to go look downstairs.
+ 7389: The machine seems to be working, but you cannot discern its purpose.
+ 7390: You wonder what this handle does. You think you should be able to put something inside...
+ 7391: Pull the lever? [Yes./No.]
+ 7392: Something falls out of the machine!
+ 7393: Nothing happens.
+ 7394: You obtain $1 $0 !
+ 7395: There seems to be more left in the machine, but you can't carry any more items.
+ 7396: You see tools and boxes lying around. They look very old.
+ 7397: You see an old iron box.
+ 7398: Examine the iron box? [Yes./No.]
+ 7399: You decide to leave it alone.
+ 7400: You look inside the box. You see several toolboxes, still filled with tools.
+ 7401: You find one with a name engraved on the cover. The name reads, "Vigilant Owl."
+ 7402: Take the toolbox with you? [Yes./No.]
+ 7403: You've obtained $3.
+ 7404: x=$0,z=$1,y=$2
+ 7405: You receive nothing from the moon rabbit...
+ 7406: The moon rabbit has brought along a monster!
+ 7407: You have to do something about those crazy trees, kupo!
+ 7408: You're done fighting trees, kupo?
  7409: 
  7410: 
  7411: 
  7412: 
  7413: 
  7414: 
- 7415: Mining is possible here if you have $0.
- 7416: Probability of loss = $3/10000.
- 7417: Your $7 breaks!
- 7418: You successfully dig up $0!
- 7419: You dig up $0, but your $7 breaks in the process.
- 7420: You are unable to mine anything.
- 7421: You cannot carry any more items. Your inventory is full.
- 7422: This chest is locked. It can be opened with $0.
- 7423: This chest is empty.
- 7424: Your inventory is full. You cannot carry any more items.
- 7425: You must be closer to the chest to open it.
- 7426: %0 opens the chest and finds $0.
- 7427: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7428: %0 obtains a key item, $6, from the chest.
- 7429: You obtain a key item, $6, from the chest.
- 7430: You unlock the chest!
- 7431: %0 fails to open the chest.
- 7432: The chest was trapped!
- 7433: You cannot open the chest when you are in a weakened state.
- 7434: The chest was a mimic!
- 7435: You cannot open the chest while participating in the moogle event.
- 7436: The chest was but an illusion...
- 7437: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7438: It's a Quadav egg.
- 7439: Touch the egg? [Yes./No.]
- 7440: Nothing happens...
- 7441: There is nothing out of the ordinary here.
- 7442: You can hear a strange voice... "Items, items, la la la la la`t"
- 7443: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7444: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7445: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7446: Now, listen close...
- 7447: Oh... Well, if that's the case, I'm outta here.
- 7448: The Goblin slipped away when you were not looking...
- 7449: You can hear a strange, raspy voice...
- 7450: I travel......hear lots... Hear...stories... Can tell...if...
- 7451: .........listen......
- 7452: Oh...... ...outta here.........
- 7453: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7454: What story would you like to be told? [On second thought, maybe later./Vegetable Vegetable Frustration(pt.1)./Vegetable Vegetable Frustration(pt.2)./Vegetable Vegetable Frustration(pt.3)./Cornelia's Call to Action(pt.1)./Cornelia's Call to Action(pt.2)./Cornelia's Call to Action(pt.3)./Cornelia's Call to Action(pt.4).]
- 7455: 
+ 7415: 
+ 7416: Mining is possible here if you have $0.
+ 7417: Probability of loss = $3/10000.
+ 7418: Your $7 breaks!
+ 7419: You successfully dig up $0!
+ 7420: You dig up $0, but your $7 breaks in the process.
+ 7421: You are unable to mine anything.
+ 7422: You cannot carry any more items. Your inventory is full.
+ 7423: This chest is locked. It can be opened with $0.
+ 7424: This chest is empty.
+ 7425: Your inventory is full. You cannot carry any more items.
+ 7426: You must be closer to the chest to open it.
+ 7427: %0 opens the chest and finds $0.
+ 7428: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7429: %0 obtains a key item, $6, from the chest.
+ 7430: You obtain a key item, $6, from the chest.
+ 7431: You unlock the chest!
+ 7432: %0 fails to open the chest.
+ 7433: The chest was trapped!
+ 7434: You cannot open the chest when you are in a weakened state.
+ 7435: The chest was a mimic!
+ 7436: You cannot open the chest while participating in the moogle event.
+ 7437: The chest was but an illusion...
+ 7438: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7439: It's a Quadav egg.
+ 7440: Touch the egg? [Yes./No.]
+ 7441: Nothing happens...
+ 7442: There is nothing out of the ordinary here.
+ 7443: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7444: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7445: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7446: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7447: Now, listen close...
+ 7448: Oh... Well, if that's the case, I'm outta here.
+ 7449: The Goblin slipped away when you were not looking...
+ 7450: You can hear a strange, raspy voice...
+ 7451: I travel......hear lots... Hear...stories... Can tell...if...
+ 7452: .........listen......
+ 7453: Oh...... ...outta here.........
+ 7454: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7455: What story would you like to be told? [On second thought, maybe later./Vegetable Vegetable Frustration(pt.1)./Vegetable Vegetable Frustration(pt.2)./Vegetable Vegetable Frustration(pt.3)./Cornelia's Call to Action(pt.1)./Cornelia's Call to Action(pt.2)./Cornelia's Call to Action(pt.3)./Cornelia's Call to Action(pt.4).]
  7456: 
  7457: 
- 7458: The cyclopean crystal is emitting a radiant glow.
- 7459: You successfully hew $0 [shard/shards] from the crystal!
- 7460: The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
- 7461: The crystal is glowing brighter than before...
- 7462: Put your back into it, kupo! I won't stand for slackers at my station!
- 7463: (Curse my ill luck working for this hovering ball of brutality...)
- 7464: Do you have something to say, kupo!?
- 7465: Eeep! J-just mumbling to myself, mister moogle, sir!
- 7466: Ah! It soothes my soul to see someone swathed in the celebratory spirit, kupo!
- 7467: <Player> apprises the moogle of the material shortage.
- 7468: Are you serious, kupo!? I'll wager my two wings that worthless weasel of a worker fled without delivering the ore!
- 7469: (Small wonder, you bulbous brute.)
- 7470: The moogle shoots a murderous glare at his hireling.
- 7471: Hmph, you can thank your lucky stars I have more pressing problems at hand.
- 7472: I'm sorry, adventurer, but I have a favor to ask of you. I need this ore taken to the moogle crafter posted by the Goldsmiths' Guild in Bastok, the quicker the bet--
- 7473: ...What do you think you're staring at, eh? Get back to work, you rotten rice ball thief!
- 7474: Eeep! Y-yes, sir, mister moogle! (Goddess get me outta here!)
- 7475: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7476: Set this as current home point? [Yes./No.]
- 7477: Home point set!
- 7478: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7479: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7480: You have registered a new home point! You are now able to teleport here from any other home point.
- 7481: You may teleport from here to any other home point you have registered.
- 7482: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7483: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7484: You have not yet registered any other home points, and thus are unable to teleport.
- 7485: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7486: There is no fee for teleporting to Home Point #$2 in $8.
- 7487: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7488: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7489: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7490: You may change the method of selecting the area of your desired home point to teleport to.
- 7491: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7492: You are now selecting by [region/expansion].
- 7493: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7494: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7495: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7496: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
- 7497: You see something glisten in a crack in the bedrock.
- 7498: What do you do? [Reach in for it./Bang on the rock./Think.]
- 7499: The crack is too tight for your hand to reach it.
- 7500: The rock doesn't budge.
- 7501: Your hand hurts.
- 7502: It looks like only explosives will get this crack open, but how to split the rock without destroying whatever is on the other side?
- 7503: It might be best to head back to Raibaht for advice.
- 7504: Wait! What are you doing!?
- 7505: Not there! That wall isn't safe!
- 7506: You managed to avoid a chain explosion, but failed to split the rock.
- 7507: Return to Midras for more explosives.
- 7508: Looks like the explosives were unscathed.
- 7509: <Phew> Are you alright!? What was that powder?
- 7510: Ah, excuse my manners. I'm Almid. Charmed, I'm sure.
- 7511: I don't think I've seen your face down here before.
- 7512: Welcome, newcomer. The name's Sirius. I'm heading development here in the mine.
- 7513: I gotta say, what with the way these tunnels snake and wind, it's a wonder you didn't stumble across more of those bombs. Blasting down in these unexplored tunnels is like dancing with Lady Luck. Glad to see you're still alive.
- 7514: Hey, that's some powder you're using. I've never seen the rock split that cleanly with such a small charge.
- 7515: I've been trying to develop something similar for some time. Maybe now I don't have to.
- 7516: That blast just saved us a lot of time and manpower. We can finally strike at the ore veins deep in rock.
- 7517: Still, had you set that bomb off with your charge, we wouldn't be having this conversation.
- 7518: Are you kidding? That thing could probably take out half the shaft. They'd shut down the mine for sure.
- 7519: And with that rosy thought in your head, let's get back to it, shall we?
- 7520: Right! With the time we're bound to save I think we can make an early day of it!
- 7521: A few more blasts and it's off to the Steaming Sheep for a double helping of $0!
- 7522: Your treat, Sirius!
- 7523: Hey, you trying to run my restaurant into the ground? My wife's gonna kill me!
- 7524: Return to Raibaht and report what you have witnessed.
- 7525: One or more of your party members do not meet the prerequisites for this battle.
- 7526: One or more of your party members are not in the appropriate staging zone.
- 7527: One or more of your party members is currently viewing a cutscene.
- 7528: DEBUG: PRINT ( [OFF/ON]
- 7529: DEBUG: SELF DESTRUCT ( [WIN/LOSE]
- 7530: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 7531: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 7532: You have returned to the field of battle.
- 7533: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 7534: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 7535: You have only $0 [second/seconds] (Earth time) remaining.
- 7536: Your time for this Confrontation is up...
- 7537: The monster fades before your eyes, a look of disappointment on its face.
- 7538: (Test message.)
- 7539: Enter the garrison? [Yes./No.]
- 7540: The $3 is ripped violently to pieces!
- 7541: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 7542: Hark! Our foe lurks thither. How wouldst thou proceed?
- 7543: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 7544: Our foe advances...may thine aim be true!
- 7545: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 7546: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 7547: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7548: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7549: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7550: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7551: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 7552: Greetings, traveler! How dost thou fare in thine adventures?
- 7553: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 7554: Dost thou find this enchantment to thy liking?
- 7555: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 7556: Splendid! May it serve thee well.
- 7557: %0 obtained $0!
- 7558: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 7559: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 7560: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 7561: Though it may fall short of thy expectations, pray accept it.
- 7562: Otherwise, we shall have no choice but to dispose of it.
- 7563: Many thanks for thine assistance!
- 7564: Pray accept this $0 as but a humble token of our gratitude.
- 7565: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 7566: $3f$3o$3b$3O$590643$3$3NM
- 7567: $3f$3o$3b$3O$201475X$3^$3243853
- 7568: @@
- 7569: Ah, it's you again. If you're here, that m-m-must m-m-mean that...
- 7570: I have to ask why you are here. If you don't have a good reason, you should not venture any further.
- 7571: How do you respond? [Who are you?/What are you doing here?/I'm investigating the Quadav's plans.]
- 7572: M-m-my name is Uran-Mafran. As you can see, I am a m-m-mage.
- 7573: I should be asking you that. Why are you here?
- 7574: I see... It appears the Republic of Bastok is just as bloodthirsty as the Kingdom of San d'Oria.
- 7575: Just recently, the Quadav appeared at the Zeruhn M-M-Mines in pursuit of three beastm-m-men.
- 7576: Those beastm-m-men go by the m-m-moniker of the Destiny Destroyers.
- 7577: They journeyed south from the Northlands, eventually arriving here at the Palborough M-M-Mines.
- 7578: And deep within the m-m-mines, they reached their destination in a room filled with Quadav eggs.
- 7579: Am-m-mongst all of the Quadav eggs, there was a special "egg" featuring an unusual pattern...
- 7580: It was broken open with that m-m-mighty sword.
- 7581: As a result, it let out powerful m-m-magic, which devoured all of the m-m-monsters in the area.
- 7582: It was determined to eat everything in its path.
- 7583: Naturally, the nearby Quadav eggs were consum-m-med as well.
- 7584: The Quadav were raging m-m-mad. They resolved to execute the m-m-monster as well as the three beastm-m-men responsible for the whole affair.
- 7585: Why was that egg here? How long was it here? Who brought it, and from where?
- 7586: Not even I know the answers to such questions, which is why I m-m-must ask the Quadav.
- 7587: Ah, that rem-m-minds me. You are an adventurer; I need your help. Of course, you will be com-m-mpensated for your trouble.
- 7588: I need you to find the mind-warped scorpion that lies up ahead and slay it for m-m-me.
- 7589: If you do, that could calm the Quadav's rage and allow us to talk to them. That will also m-m-make Bastok's request easier as well.
- 7590: Let's go, <Player>. The truth awaits us...
- 7591: Curse the Quadav... Those idiots really screwed things up!
- 7592: They've gone and made me mad! I don't care what they've got to say for themselves!
- 7593: I think I kinda figure something out. Person with strange marking brought egg...
- 7594: The Quadav aren't like the Orcs or the Yagudo. I didn't think they'd just throw away the egg.
- 7595: That's why we break open egg. Location for breaking egg not so good though...
- 7596: W-we should've talked to the Quadav first, and then broke the egg.
- 7597: Huh? Dazbog! It's a little late for that now!
- 7598: I-I'm sorry. I know we need to hurry, but...
- 7599: Yes, we need hurry. We also receive fan letter from land across the sea.
- 7600: A-anyway, everybody will be happy if we d-defeat the mind-warped scorpion?
- 7601: If we do, then we'll never have to worry about anything again!
- 7602: Um... That person seems to be s-staring at us...
- 7603: Huh!? Haven't we met [him/her] before!?
- 7604: Th-that's the one who defeated that Orc who was s-swallowed by the egg.
- 7605: In that case, maybe [he/she] can help with our other problem...
- 7606: [He/She]'s more than welcome to try.
- 7607: Hey, you! This one's all yours! Thanks!
- 7608: Wow! You did it! That amazing!
- 7609: Hurry up and finish it off!
- 7610: Eh? Who are you supposed to be?
- 7611: Nice job here. You can leave the rest to m-m-me.
- 7612: Huh!?
- 7613: What did you do!?
- 7614: Y-you're gathering the egg's power...
- 7615: Do you know how dangerous that is!? It's too powerful!
- 7616: Yes, it is quite dangerous. This is the power to give life. It can wreak m-m-much havoc.
- 7617: [We/I] know the true nature of this power.
- 7618: It is the same as the power of the terrestrial avatars. The power of a pure crystal...
- 7619: Wait, what? I thought he just showing off, but maybe he actually know his stuff?
- 7620: Hmm... Yes, you might be right.
- 7621: So, the power of the crystal is the power of life? That's why Chaos is...
- 7622: Hey, Goblin! What are you m-m-mumbling about!?
- 7623: Huh!?
- 7624: What did you m-m-mean by Chaos!?
- 7625: Hehehe... Don't pretend you don't know. We once fight together to reach Valhalla...
- 7626: Hmph! Like I would ever tell someone like you!
- 7627: Hahaha! Bark all you like. I'll get the inform-m-mation out of you eventually.
- 7628: Hm? What's this now?
- 7629: What?
- 7630: I could swear they come this way...
- 7631: Find them! Find them immediately!
- 7632: M-m-maybe we're better off just letting them swim for it...
- 7633: That Goblin and his com-m-mpanions didn't seem all that interested in this unchecked power.
- 7634: I can't give you this, but m-m-maybe this will suffice as a reward. I found it lying over there...
- 7635: Now then, you should hurry back and report this inform-m-mation to Bastok.
- 7636: You know everything that happened here at the Palborough M-M-Mines in regards to the Quadav and the egg, right?
- 7637: How do you respond? [Yes, of course./Not really...]
- 7638: What? Are you being serious with m-m-me right now?
- 7639: The Quadav weren't planning to use the egg and its immense power.
- 7640: However, that Goblin and his com-m-mpanions came along and recklessly broke open the egg.
- 7641: The egg's incredible power m-m-managed to take control of a nearby m-m-monster, causing it to run wild.
- 7642: Angered, the Quadav were ready to kill the Goblin and his friends, and chased them to the Zeruhn M-M-Mines.
- 7643: I think that about covers it. Of course, we don't have any real proof...
- 7644: If you can convey all of that, then m-m-maybe Bastok will see that they can still resolve this little m-m-matter.
- 7645: Although, if we prefer war with the Quadav, then I guess we could m-m-maybe just keep this to ourselves...
- 7646: The $1 has been left behind!
- 7647: Ooh... To remember...and be remembered...
- 7648: Ask, and you shall retrieve!
- 7649: Ah, it's you again. If you're here, that m-m-must m-m-mean that...
- 7650: This is no coincidence. Were you also led here by the Maelstrom Mage, Master Garazu-Horeizu?
- 7651: In that case, are you following m-m-me? Wait, don't tell m-m-me that you're immune to my m-m-magic like Ildy-Goldy is?
- 7652: In that case, are you following m-m-me? Wait, don't tell m-m-me that you're immune to my m-m-magic?
- 7653: No, it seems to be working okay...
- 7654: You're that adventurer that's crossed m-m-my path on num-m-merous occasions.
- 7655: Although, I suppose it's best to sit and observe until your intentions become clear... Or perhaps...
- 7656: You have been on the same path as m-m-me, albeit without any form of guidance...
- 7657: M-m-maybe we're better off just letting them swim for it...
- 7658: I have to ask why you are here. If you don't have a good reason, you should not venture any further.
- 7659: Ooh... Memory...complete...
+ 7458: 
+ 7459: The cyclopean crystal is emitting a radiant glow.
+ 7460: You successfully hew $0 [shard/shards] from the crystal!
+ 7461: The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
+ 7462: The crystal is glowing brighter than before...
+ 7463: Put your back into it, kupo! I won't stand for slackers at my station!
+ 7464: (Curse my ill luck working for this hovering ball of brutality...)
+ 7465: Do you have something to say, kupo!?
+ 7466: Eeep! J-just mumbling to myself, mister moogle, sir!
+ 7467: Ah! It soothes my soul to see someone swathed in the celebratory spirit, kupo!
+ 7468: <Player> apprises the moogle of the material shortage.
+ 7469: Are you serious, kupo!? I'll wager my two wings that worthless weasel of a worker fled without delivering the ore!
+ 7470: (Small wonder, you bulbous brute.)
+ 7471: The moogle shoots a murderous glare at his hireling.
+ 7472: Hmph, you can thank your lucky stars I have more pressing problems at hand.
+ 7473: I'm sorry, adventurer, but I have a favor to ask of you. I need this ore taken to the moogle crafter posted by the Goldsmiths' Guild in Bastok, the quicker the bet--
+ 7474: ...What do you think you're staring at, eh? Get back to work, you rotten rice ball thief!
+ 7475: Eeep! Y-yes, sir, mister moogle! (Goddess get me outta here!)
+ 7476: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7477: Set this as current home point? [Yes./No.]
+ 7478: Home point set!
+ 7479: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7480: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7481: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7482: You may teleport from here to any other home point you have registered.
+ 7483: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7484: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7485: You have not yet registered any other home points, and thus are unable to teleport.
+ 7486: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7487: There is no fee for teleporting to Home Point #$2 in $8.
+ 7488: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7489: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7490: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7491: You may change the method of selecting the area of your desired home point to teleport to.
+ 7492: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7493: You are now selecting by [region/expansion].
+ 7494: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7495: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7496: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7497: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7498: You see something glisten in a crack in the bedrock.
+ 7499: What do you do? [Reach in for it./Bang on the rock./Think.]
+ 7500: The crack is too tight for your hand to reach it.
+ 7501: The rock doesn't budge.
+ 7502: Your hand hurts.
+ 7503: It looks like only explosives will get this crack open, but how to split the rock without destroying whatever is on the other side?
+ 7504: It might be best to head back to Raibaht for advice.
+ 7505: Wait! What are you doing!?
+ 7506: Not there! That wall isn't safe!
+ 7507: You managed to avoid a chain explosion, but failed to split the rock.
+ 7508: Return to Midras for more explosives.
+ 7509: Looks like the explosives were unscathed.
+ 7510: <Phew> Are you alright!? What was that powder?
+ 7511: Ah, excuse my manners. I'm Almid. Charmed, I'm sure.
+ 7512: I don't think I've seen your face down here before.
+ 7513: Welcome, newcomer. The name's Sirius. I'm heading development here in the mine.
+ 7514: I gotta say, what with the way these tunnels snake and wind, it's a wonder you didn't stumble across more of those bombs. Blasting down in these unexplored tunnels is like dancing with Lady Luck. Glad to see you're still alive.
+ 7515: Hey, that's some powder you're using. I've never seen the rock split that cleanly with such a small charge.
+ 7516: I've been trying to develop something similar for some time. Maybe now I don't have to.
+ 7517: That blast just saved us a lot of time and manpower. We can finally strike at the ore veins deep in rock.
+ 7518: Still, had you set that bomb off with your charge, we wouldn't be having this conversation.
+ 7519: Are you kidding? That thing could probably take out half the shaft. They'd shut down the mine for sure.
+ 7520: And with that rosy thought in your head, let's get back to it, shall we?
+ 7521: Right! With the time we're bound to save I think we can make an early day of it!
+ 7522: A few more blasts and it's off to the Steaming Sheep for a double helping of $0!
+ 7523: Your treat, Sirius!
+ 7524: Hey, you trying to run my restaurant into the ground? My wife's gonna kill me!
+ 7525: Return to Raibaht and report what you have witnessed.
+ 7526: One or more of your party members do not meet the prerequisites for this battle.
+ 7527: One or more of your party members are not in the appropriate staging zone.
+ 7528: One or more of your party members is currently viewing a cutscene.
+ 7529: DEBUG: PRINT ( [OFF/ON]
+ 7530: DEBUG: SELF DESTRUCT ( [WIN/LOSE]
+ 7531: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 7532: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 7533: You have returned to the field of battle.
+ 7534: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 7535: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 7536: You have only $0 [second/seconds] (Earth time) remaining.
+ 7537: Your time for this Confrontation is up...
+ 7538: The monster fades before your eyes, a look of disappointment on its face.
+ 7539: (Test message.)
+ 7540: Enter the garrison? [Yes./No.]
+ 7541: The $3 is ripped violently to pieces!
+ 7542: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 7543: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 7544: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 7545: Our foe advances...may thine aim be true!
+ 7546: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 7547: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 7548: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7549: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7550: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7551: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7552: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 7553: Greetings, traveler! How dost thou fare in thine adventures?
+ 7554: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 7555: Dost thou find this enchantment to thy liking?
+ 7556: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 7557: Splendid! May it serve thee well.
+ 7558: %0 obtained $0!
+ 7559: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 7560: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 7561: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 7562: Though it may fall short of thy expectations, pray accept it.
+ 7563: Otherwise, we shall have no choice but to dispose of it.
+ 7564: Many thanks for thine assistance!
+ 7565: Pray accept this $0 as but a humble token of our gratitude.
+ 7566: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 7567: $3f$3o$3b$3O$590643$3$3NM
+ 7568: $3f$3o$3b$3O$201475X$3^$3243853
+ 7569: @@
+ 7570: Ah, it's you again. If you're here, that m-m-must m-m-mean that...
+ 7571: I have to ask why you are here. If you don't have a good reason, you should not venture any further.
+ 7572: How do you respond? [Who are you?/What are you doing here?/I'm investigating the Quadav's plans.]
+ 7573: M-m-my name is Uran-Mafran. As you can see, I am a m-m-mage.
+ 7574: I should be asking you that. Why are you here?
+ 7575: I see... It appears the Republic of Bastok is just as bloodthirsty as the Kingdom of San d'Oria.
+ 7576: Just recently, the Quadav appeared at the Zeruhn M-M-Mines in pursuit of three beastm-m-men.
+ 7577: Those beastm-m-men go by the m-m-moniker of the Destiny Destroyers.
+ 7578: They journeyed south from the Northlands, eventually arriving here at the Palborough M-M-Mines.
+ 7579: And deep within the m-m-mines, they reached their destination in a room filled with Quadav eggs.
+ 7580: Am-m-mongst all of the Quadav eggs, there was a special "egg" featuring an unusual pattern...
+ 7581: It was broken open with that m-m-mighty sword.
+ 7582: As a result, it let out powerful m-m-magic, which devoured all of the m-m-monsters in the area.
+ 7583: It was determined to eat everything in its path.
+ 7584: Naturally, the nearby Quadav eggs were consum-m-med as well.
+ 7585: The Quadav were raging m-m-mad. They resolved to execute the m-m-monster as well as the three beastm-m-men responsible for the whole affair.
+ 7586: Why was that egg here? How long was it here? Who brought it, and from where?
+ 7587: Not even I know the answers to such questions, which is why I m-m-must ask the Quadav.
+ 7588: Ah, that rem-m-minds me. You are an adventurer; I need your help. Of course, you will be com-m-mpensated for your trouble.
+ 7589: I need you to find the mind-warped scorpion that lies up ahead and slay it for m-m-me.
+ 7590: If you do, that could calm the Quadav's rage and allow us to talk to them. That will also m-m-make Bastok's request easier as well.
+ 7591: Let's go, <Player>. The truth awaits us...
+ 7592: Curse the Quadav... Those idiots really screwed things up!
+ 7593: They've gone and made me mad! I don't care what they've got to say for themselves!
+ 7594: I think I kinda figure something out. Person with strange marking brought egg...
+ 7595: The Quadav aren't like the Orcs or the Yagudo. I didn't think they'd just throw away the egg.
+ 7596: That's why we break open egg. Location for breaking egg not so good though...
+ 7597: W-we should've talked to the Quadav first, and then broke the egg.
+ 7598: Huh? Dazbog! It's a little late for that now!
+ 7599: I-I'm sorry. I know we need to hurry, but...
+ 7600: Yes, we need hurry. We also receive fan letter from land across the sea.
+ 7601: A-anyway, everybody will be happy if we d-defeat the mind-warped scorpion?
+ 7602: If we do, then we'll never have to worry about anything again!
+ 7603: Um... That person seems to be s-staring at us...
+ 7604: Huh!? Haven't we met [him/her] before!?
+ 7605: Th-that's the one who defeated that Orc who was s-swallowed by the egg.
+ 7606: In that case, maybe [he/she] can help with our other problem...
+ 7607: [He/She]'s more than welcome to try.
+ 7608: Hey, you! This one's all yours! Thanks!
+ 7609: Wow! You did it! That amazing!
+ 7610: Hurry up and finish it off!
+ 7611: Eh? Who are you supposed to be?
+ 7612: Nice job here. You can leave the rest to m-m-me.
+ 7613: Huh!?
+ 7614: What did you do!?
+ 7615: Y-you're gathering the egg's power...
+ 7616: Do you know how dangerous that is!? It's too powerful!
+ 7617: Yes, it is quite dangerous. This is the power to give life. It can wreak m-m-much havoc.
+ 7618: [We/I] know the true nature of this power.
+ 7619: It is the same as the power of the terrestrial avatars. The power of a pure crystal...
+ 7620: Wait, what? I thought he just showing off, but maybe he actually know his stuff?
+ 7621: Hmm... Yes, you might be right.
+ 7622: So, the power of the crystal is the power of life? That's why Chaos is...
+ 7623: Hey, Goblin! What are you m-m-mumbling about!?
+ 7624: Huh!?
+ 7625: What did you m-m-mean by Chaos!?
+ 7626: Hehehe... Don't pretend you don't know. We once fight together to reach Valhalla...
+ 7627: Hmph! Like I would ever tell someone like you!
+ 7628: Hahaha! Bark all you like. I'll get the inform-m-mation out of you eventually.
+ 7629: Hm? What's this now?
+ 7630: What?
+ 7631: I could swear they come this way...
+ 7632: Find them! Find them immediately!
+ 7633: M-m-maybe we're better off just letting them swim for it...
+ 7634: That Goblin and his com-m-mpanions didn't seem all that interested in this unchecked power.
+ 7635: I can't give you this, but m-m-maybe this will suffice as a reward. I found it lying over there...
+ 7636: Now then, you should hurry back and report this inform-m-mation to Bastok.
+ 7637: You know everything that happened here at the Palborough M-M-Mines in regards to the Quadav and the egg, right?
+ 7638: How do you respond? [Yes, of course./Not really...]
+ 7639: What? Are you being serious with m-m-me right now?
+ 7640: The Quadav weren't planning to use the egg and its immense power.
+ 7641: However, that Goblin and his com-m-mpanions came along and recklessly broke open the egg.
+ 7642: The egg's incredible power m-m-managed to take control of a nearby m-m-monster, causing it to run wild.
+ 7643: Angered, the Quadav were ready to kill the Goblin and his friends, and chased them to the Zeruhn M-M-Mines.
+ 7644: I think that about covers it. Of course, we don't have any real proof...
+ 7645: If you can convey all of that, then m-m-maybe Bastok will see that they can still resolve this little m-m-matter.
+ 7646: Although, if we prefer war with the Quadav, then I guess we could m-m-maybe just keep this to ourselves...
+ 7647: The $1 has been left behind!
+ 7648: Ooh... To remember...and be remembered...
+ 7649: Ask, and you shall retrieve!
+ 7650: Ah, it's you again. If you're here, that m-m-must m-m-mean that...
+ 7651: This is no coincidence. Were you also led here by the Maelstrom Mage, Master Garazu-Horeizu?
+ 7652: In that case, are you following m-m-me? Wait, don't tell m-m-me that you're immune to my m-m-magic like Ildy-Goldy is?
+ 7653: In that case, are you following m-m-me? Wait, don't tell m-m-me that you're immune to my m-m-magic?
+ 7654: No, it seems to be working okay...
+ 7655: You're that adventurer that's crossed m-m-my path on num-m-merous occasions.
+ 7656: Although, I suppose it's best to sit and observe until your intentions become clear... Or perhaps...
+ 7657: You have been on the same path as m-m-me, albeit without any form of guidance...
+ 7658: M-m-maybe we're better off just letting them swim for it...
+ 7659: I have to ask why you are here. If you don't have a good reason, you should not venture any further.
+ 7660: Ooh... Memory...complete...

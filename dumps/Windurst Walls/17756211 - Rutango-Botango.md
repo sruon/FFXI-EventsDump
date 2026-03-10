@@ -46,25 +46,25 @@
 |      10 | 0xFFFEB830  |  4294883376 |
 |      11 | 0x1CB47     |      117575 |
 |      12 | 0xFFFFE511  |  4294960401 |
-|      13 | 0x1ED8      |        7896 |
-|      14 | 0x1ED9      |        7897 |
-|      15 | 0x1C50      |        7248 |
-|      16 | 0x1C56      |        7254 |
-|      17 | 0x1C5C      |        7260 |
-|      18 | 0x1C61      |        7265 |
-|      19 | 0x1C62      |        7266 |
-|      20 | 0x1C63      |        7267 |
+|      13 | 0x1ED9      |        7897 |
+|      14 | 0x1EDA      |        7898 |
+|      15 | 0x1C51      |        7249 |
+|      16 | 0x1C57      |        7255 |
+|      17 | 0x1C5D      |        7261 |
+|      18 | 0x1C62      |        7266 |
+|      19 | 0x1C63      |        7267 |
+|      20 | 0x1C64      |        7268 |
 
 ## String References
 
-- **7248**: Oh, crumbs! The great, old teacher has lost his voice before he could deliver his famous public speech!
-- **7254**: Mister speaker! Please lap up as much of that honey as you can so it fixes your throat up! Then you can tell us more about the great summoner!
-- **7260**: Maybe...? Maybe his throat is completely cured!? Wow. Now, can you continue with your stories, sir?
-- **7265**: Hurts...?
-- **7266**: Oh, great teacher! Allow me to speak for you. I've memorized every word you've said...
-- **7267**: That we can now leave here in pieces...under the messed shadow of the Grated Star Tree...easel tanks to the great zero, Kalhua-Milkhua...!
-- **7896**: The great summoner Karaha-Baruha is the savior of Windurst. Just when we were completely surrounded by beastmen and faced certain doom, BAM!, he instantaneously blew them all away.
-- **7897**: If it weren't for him, we Windurstians would have all been goners! A summoner is really someone, huh?
+- **7249**: Oh, crumbs! The great, old teacher has lost his voice before he could deliver his famous public speech!
+- **7255**: Mister speaker! Please lap up as much of that honey as you can so it fixes your throat up! Then you can tell us more about the great summoner!
+- **7261**: Maybe...? Maybe his throat is completely cured!? Wow. Now, can you continue with your stories, sir?
+- **7266**: Hurts...?
+- **7267**: Oh, great teacher! Allow me to speak for you. I've memorized every word you've said...
+- **7268**: That we can now leave here in pieces...under the messed shadow of the Grated Star Tree...easel tanks to the great zero, Kalhua-Milkhua...!
+- **7897**: The great summoner Karaha-Baruha is the savior of Windurst. Just when we were completely surrounded by beastmen and faced certain doom, BAM!, he instantaneously blew them all away.
+- **7898**: If it weren't for him, we Windurstians would have all been goners! A summoner is really someone, huh?
 
 ## Events
 
@@ -258,10 +258,10 @@
   1: 0x0043 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0044 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0045 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x01)
-  4: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
+  4: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
     → "The great summoner Karaha-Baruha is the savior of Windurst. Just when we were completely surrounded by beastmen and faced certain doom, BAM!, he instantaneously blew them all away."
   5: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
+  6: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
     → "If it weren't for him, we Windurstians would have all been goners! A summoner is really someone, huh?"
   7: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0054 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x02)
@@ -316,7 +316,7 @@
   1: 0x0065 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0066 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0067 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x01)
-  4: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
+  4: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
     → "Oh, crumbs! The great, old teacher has lost his voice before he could deliver his famous public speech!"
   5: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0072 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x02)
@@ -350,7 +350,7 @@
   1: 0x0082 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0083 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0084 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x01)
-  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
+  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
     → "Mister speaker! Please lap up as much of that honey as you can so it fixes your throat up! Then you can tell us more about the great summoner!"
   5: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x02)
@@ -402,7 +402,7 @@
 
 ```
   0: 0x009B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x01)
-  1: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+  1: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
     → "Maybe...? Maybe his throat is completely cured!? Wow. Now, can you continue with your stories, sir?"
   2: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00A6 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x02)
@@ -431,7 +431,7 @@
 
 ```
   0: 0x00AE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x01)
-  1: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
+  1: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
     → "Hurts...?"
   2: 0x00B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00B9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x02)
@@ -460,13 +460,13 @@
 
 ```
   0: 0x00C1 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x01)
-  1: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
+  1: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
     → "Oh, great teacher! Allow me to speak for you. I've memorized every word you've said..."
   2: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00CC [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x00D1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x00D2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
+  6: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7268*)
     → "That we can now leave here in pieces...under the messed shadow of the Grated Star Tree...easel tanks to the great zero, Kalhua-Milkhua...!"
   7: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00D7 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rutango-Botango (ID: 17756211/0x010EF033), tag_num=0x02)

@@ -35,17 +35,17 @@
 |       0 | 0x005D      |          93 |
 |       1 | 0x0050      |          80 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x2CA4      |       11428 |
-|       4 | 0x2CBC      |       11452 |
-|       5 | 0x2CC5      |       11461 |
-|       6 | 0x2CE0      |       11488 |
+|       3 | 0x2CA5      |       11429 |
+|       4 | 0x2CBD      |       11453 |
+|       5 | 0x2CC6      |       11462 |
+|       6 | 0x2CE1      |       11489 |
 |       7 | 0x0000      |           0 |
 |       8 | 0xFFFF5E67  |  4294925927 |
 |       9 | 0xFFFD853D  |  4294804797 |
 |      10 | 0xFFFFFB8E  |  4294966158 |
 |      11 | 0x00B4      |         180 |
-|      12 | 0x2AED      |       10989 |
-|      13 | 0x2AEE      |       10990 |
+|      12 | 0x2AEE      |       10990 |
+|      13 | 0x2AEF      |       10991 |
 
 ## Events
 
@@ -207,7 +207,7 @@
 ```
   0: 0x0012 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0017 [0x1C] WAIT(30* ticks)
-  2: 0x001A [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [11428*]:
+  2: 0x001A [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [11429*]:
     → "Mama... Meeeooow..."
   3: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0022 [0x21] END_EVENT
@@ -237,7 +237,7 @@
   0: 0x0024 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0029 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x0B)
   2: 0x0030 [0x1C] WAIT(30* ticks)
-  3: 0x0033 [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [11452*]:
+  3: 0x0033 [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [11453*]:
     → "Oh pleeease, brrring me a shiny blue stone from Vunkerrrl Inlet!"
   4: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x003B [0x21] END_EVENT
@@ -268,7 +268,7 @@
   0: 0x003D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0042 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x0B)
   2: 0x0049 [0x1C] WAIT(30* ticks)
-  3: 0x004C [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [11461*]:
+  3: 0x004C [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [11462*]:
     → "Nehehe! It should be finished by tomorrow! Meow!"
   4: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0054 [0x21] END_EVENT
@@ -298,7 +298,7 @@
   0: 0x0056 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x005B [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x0B)
   2: 0x0062 [0x1C] WAIT(30* ticks)
-  3: 0x0065 [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [11488*]:
+  3: 0x0065 [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [11489*]:
     → "Thank you so much for brrringing me that shiny stone! I wonder if it is keeping Mama safe..."
   4: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x006D [0x21] END_EVENT
@@ -377,10 +377,10 @@
   0: 0x007F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0084 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x0B)
   2: 0x008B [0x1C] WAIT(30* ticks)
-  3: 0x008E [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [10989*]:
+  3: 0x008E [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [10990*]:
     → "Meeeooow... They say it's dangerrrous here, but I can't leave without my mama! Have you seen her anywhere, [mister/lady]?"
   4: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0096 [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [10990*]:
+  5: 0x0096 [0x2B] Kocco Ehllek (ID: 17162752/0x0105E200) [10991*]:
     → "Mama is big and strrrong, and loves me more than anyone in the whole wide world. I know she'll come back soon!"
   6: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x009E [0x21] END_EVENT

@@ -44,10 +44,10 @@
 |      17 | 0xC350      |       50000 |
 |      18 | 0x0064      |         100 |
 |      19 | 0x012C      |         300 |
-|      20 | 0x1EDB      |        7899 |
-|      21 | 0x1ECD      |        7885 |
-|      22 | 0x1ECE      |        7886 |
-|      23 | 0x1EDA      |        7898 |
+|      20 | 0x1EDC      |        7900 |
+|      21 | 0x1ECE      |        7886 |
+|      22 | 0x1ECF      |        7887 |
+|      23 | 0x1EDB      |        7899 |
 |      24 | 0x0007      |           7 |
 |      25 | 0x0008      |           8 |
 |      26 | 0x0009      |           9 |
@@ -71,8 +71,8 @@
 |      44 | 0x001B      |          27 |
 |      45 | 0x001C      |          28 |
 |      46 | 0x001D      |          29 |
-|      47 | 0x1ED8      |        7896 |
-|      48 | 0x1ED9      |        7897 |
+|      47 | 0x1ED9      |        7897 |
+|      48 | 0x1EDA      |        7898 |
 |      49 | 0x0063      |          99 |
 |      50 | 0x005A      |          90 |
 |      51 | 0x00C8      |         200 |
@@ -82,12 +82,12 @@
 
 ## String References
 
-- **7885**: Leaning in closely to the device, one can make out miniscule etchings that read, "Trade various crystals to this waypoint to receive kinetic units that may be used when you wish to warp to another locale."
-- **7886**: "Travelers may not possess more than $1 at a given time. Should someone trade an amount of crystals that would result in a surplus of kinetic units, those units will be lost to the aether."
-- **7896**: You will not be asked to confirm your choice of destination. Switching to simple teleporation mode.
-- **7897**: You will be asked to confirm your choice of destination. Returning to normal teleportation mode.
-- **7898**: Warp to your destination? [Yes./No.]
-- **7899**: Where will you go? (Kinetic Units: $3) [Nowhere, thanks./I'd rather read an explanation./Ru'Lude Gardens. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/West Ronfaure. ($5 unit[/s])/North Gustaberg. ($5 unit[/s])/West Sarutabaruta. ($5 unit[/s])/La Theine Plateau. ($5 unit[/s])/Konschtat Highlands. ($5 unit[/s])/Tahrongi Canyon. ($5 unit[/s])/Jugner Forest. ($5 unit[/s])/Pashhow Marshlands. ($5 unit[/s])/Meriphataud Mountains. ($5 unit[/s])/Attohwa Chasm. ($5 unit[/s])/Uleguerand Range. ($5 unit[/s])/Davoi. ($6 unit[/s])/Beadeaux. ($6 unit[/s])/Castle Oztroja. ($6 unit[/s])/Quicksand Caves. ($6 unit[/s])/Sea Serpent Grotto. ($6 unit[/s])/Temple of Uggalepih. ($6 unit[/s])/The Boyahda Tree. ($6 unit[/s])/Oldton Movalpolos. ($6 unit[/s])/Riverne - Site #B01. ($6 unit[/s])/Castle Zvahl Keep. ($6 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
+- **7886**: Leaning in closely to the device, one can make out miniscule etchings that read, "Trade various crystals to this waypoint to receive kinetic units that may be used when you wish to warp to another locale."
+- **7887**: "Travelers may not possess more than $1 at a given time. Should someone trade an amount of crystals that would result in a surplus of kinetic units, those units will be lost to the aether."
+- **7897**: You will not be asked to confirm your choice of destination. Switching to simple teleporation mode.
+- **7898**: You will be asked to confirm your choice of destination. Returning to normal teleportation mode.
+- **7899**: Warp to your destination? [Yes./No.]
+- **7900**: Where will you go? (Kinetic Units: $3) [Nowhere, thanks./I'd rather read an explanation./Ru'Lude Gardens. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/West Ronfaure. ($5 unit[/s])/North Gustaberg. ($5 unit[/s])/West Sarutabaruta. ($5 unit[/s])/La Theine Plateau. ($5 unit[/s])/Konschtat Highlands. ($5 unit[/s])/Tahrongi Canyon. ($5 unit[/s])/Jugner Forest. ($5 unit[/s])/Pashhow Marshlands. ($5 unit[/s])/Meriphataud Mountains. ($5 unit[/s])/Attohwa Chasm. ($5 unit[/s])/Uleguerand Range. ($5 unit[/s])/Davoi. ($6 unit[/s])/Beadeaux. ($6 unit[/s])/Castle Oztroja. ($6 unit[/s])/Quicksand Caves. ($6 unit[/s])/Sea Serpent Grotto. ($6 unit[/s])/Temple of Uggalepih. ($6 unit[/s])/The Boyahda Tree. ($6 unit[/s])/Oldton Movalpolos. ($6 unit[/s])/Riverne - Site #B01. ($6 unit[/s])/Castle Zvahl Keep. ($6 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
 
 ## Events
 
@@ -306,7 +306,7 @@ SUBROUTINE_00B7:
  34: 0x00C6 [0x03] Work_Zone[6] = 30*
  35: 0x00CB [0x03] Work_Zone[7] = 100*
  36: 0x00D0 [0x03] Work_Zone[8] = 300*
- 37: 0x00D5 [0x24] CREATE_DIALOG(message_id=7899*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 37: 0x00D5 [0x24] CREATE_DIALOG(message_id=7900*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Where will you go? (Kinetic Units: $3) [Nowhere, thanks./I'd rather read an explanation./Ru'Lude Gardens. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/West Ronfaure. ($5 unit[/s])/North Gustaberg. ($5 unit[/s])/West Sarutabaruta. ($5 unit[/s])/La Theine Plateau. ($5 unit[/s])/Konschtat Highlands. ($5 unit[/s])/Tahrongi Canyon. ($5 unit[/s])/Jugner Forest. ($5 unit[/s])/Pashhow Marshlands. ($5 unit[/s])/Meriphataud Mountains. ($5 unit[/s])/Attohwa Chasm. ($5 unit[/s])/Uleguerand Range. ($5 unit[/s])/Davoi. ($6 unit[/s])/Beadeaux. ($6 unit[/s])/Castle Oztroja. ($6 unit[/s])/Quicksand Caves. ($6 unit[/s])/Sea Serpent Grotto. ($6 unit[/s])/Temple of Uggalepih. ($6 unit[/s])/The Boyahda Tree. ($6 unit[/s])/Oldton Movalpolos. ($6 unit[/s])/Riverne - Site #B01. ($6 unit[/s])/Castle Zvahl Keep. ($6 unit[/s])/Decline destination confirmation./Accept destination confirmation.]"
  38: 0x00DC [0x25] WAIT_DIALOG_SELECT()
  39: 0x00DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00ED
@@ -320,7 +320,7 @@ SUBROUTINE_0141:
  45: 0x014C [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x015C
  46: 0x0154 [0x03] Work_Zone[1] = 5*
  47: 0x0159 [0x01] GOTO 0x0182
- 48: 0x015C [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+ 48: 0x015C [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
  49: 0x0163 [0x25] WAIT_DIALOG_SELECT()
  50: 0x0164 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0174
@@ -335,7 +335,7 @@ SUBROUTINE_0182:
  57: 0x018D [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x019D
  58: 0x0195 [0x03] Work_Zone[1] = 6*
  59: 0x019A [0x01] GOTO 0x01C3
- 60: 0x019D [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+ 60: 0x019D [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
  61: 0x01A4 [0x25] WAIT_DIALOG_SELECT()
  62: 0x01A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B5
@@ -350,7 +350,7 @@ SUBROUTINE_01C3:
  69: 0x01CE [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x01DE
  70: 0x01D6 [0x03] Work_Zone[1] = 7*
  71: 0x01DB [0x01] GOTO 0x0204
- 72: 0x01DE [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+ 72: 0x01DE [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
  73: 0x01E5 [0x25] WAIT_DIALOG_SELECT()
  74: 0x01E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F6
@@ -365,7 +365,7 @@ SUBROUTINE_0204:
  81: 0x020F [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x021F
  82: 0x0217 [0x03] Work_Zone[1] = 8*
  83: 0x021C [0x01] GOTO 0x0245
- 84: 0x021F [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+ 84: 0x021F [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
  85: 0x0226 [0x25] WAIT_DIALOG_SELECT()
  86: 0x0227 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0237
@@ -380,7 +380,7 @@ SUBROUTINE_0245:
  93: 0x0250 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0260
  94: 0x0258 [0x03] Work_Zone[1] = 9*
  95: 0x025D [0x01] GOTO 0x0286
- 96: 0x0260 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+ 96: 0x0260 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
  97: 0x0267 [0x25] WAIT_DIALOG_SELECT()
  98: 0x0268 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0278
@@ -395,7 +395,7 @@ SUBROUTINE_0286:
 105: 0x0291 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x02A1
 106: 0x0299 [0x03] Work_Zone[1] = 10*
 107: 0x029E [0x01] GOTO 0x02C7
-108: 0x02A1 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+108: 0x02A1 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 109: 0x02A8 [0x25] WAIT_DIALOG_SELECT()
 110: 0x02A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B9
@@ -410,7 +410,7 @@ SUBROUTINE_02C7:
 117: 0x02D2 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x02E2
 118: 0x02DA [0x03] Work_Zone[1] = 11*
 119: 0x02DF [0x01] GOTO 0x0308
-120: 0x02E2 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+120: 0x02E2 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 121: 0x02E9 [0x25] WAIT_DIALOG_SELECT()
 122: 0x02EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FA
@@ -425,7 +425,7 @@ SUBROUTINE_0308:
 129: 0x0313 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0323
 130: 0x031B [0x03] Work_Zone[1] = 12*
 131: 0x0320 [0x01] GOTO 0x0349
-132: 0x0323 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+132: 0x0323 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 133: 0x032A [0x25] WAIT_DIALOG_SELECT()
 134: 0x032B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x033B
@@ -440,7 +440,7 @@ SUBROUTINE_0349:
 141: 0x0354 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0364
 142: 0x035C [0x03] Work_Zone[1] = 13*
 143: 0x0361 [0x01] GOTO 0x038A
-144: 0x0364 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+144: 0x0364 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 145: 0x036B [0x25] WAIT_DIALOG_SELECT()
 146: 0x036C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x037C
@@ -455,7 +455,7 @@ SUBROUTINE_038A:
 153: 0x0395 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x03A5
 154: 0x039D [0x03] Work_Zone[1] = 14*
 155: 0x03A2 [0x01] GOTO 0x03CB
-156: 0x03A5 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+156: 0x03A5 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 157: 0x03AC [0x25] WAIT_DIALOG_SELECT()
 158: 0x03AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03BD
@@ -470,7 +470,7 @@ SUBROUTINE_03CB:
 165: 0x03D6 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x03E6
 166: 0x03DE [0x03] Work_Zone[1] = 15*
 167: 0x03E3 [0x01] GOTO 0x040C
-168: 0x03E6 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+168: 0x03E6 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 169: 0x03ED [0x25] WAIT_DIALOG_SELECT()
 170: 0x03EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03FE
@@ -485,7 +485,7 @@ SUBROUTINE_040C:
 177: 0x0417 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0427
 178: 0x041F [0x03] Work_Zone[1] = 16*
 179: 0x0424 [0x01] GOTO 0x044D
-180: 0x0427 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+180: 0x0427 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 181: 0x042E [0x25] WAIT_DIALOG_SELECT()
 182: 0x042F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x043F
@@ -500,7 +500,7 @@ SUBROUTINE_044D:
 189: 0x0458 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0468
 190: 0x0460 [0x03] Work_Zone[1] = 17*
 191: 0x0465 [0x01] GOTO 0x048E
-192: 0x0468 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+192: 0x0468 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 193: 0x046F [0x25] WAIT_DIALOG_SELECT()
 194: 0x0470 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0480
@@ -515,7 +515,7 @@ SUBROUTINE_048E:
 201: 0x0499 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x04A9
 202: 0x04A1 [0x03] Work_Zone[1] = 18*
 203: 0x04A6 [0x01] GOTO 0x04CF
-204: 0x04A9 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+204: 0x04A9 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 205: 0x04B0 [0x25] WAIT_DIALOG_SELECT()
 206: 0x04B1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04C1
@@ -530,7 +530,7 @@ SUBROUTINE_04CF:
 213: 0x04DA [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x04EA
 214: 0x04E2 [0x03] Work_Zone[1] = 19*
 215: 0x04E7 [0x01] GOTO 0x0510
-216: 0x04EA [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+216: 0x04EA [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 217: 0x04F1 [0x25] WAIT_DIALOG_SELECT()
 218: 0x04F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0502
@@ -545,7 +545,7 @@ SUBROUTINE_0510:
 225: 0x051B [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x052B
 226: 0x0523 [0x03] Work_Zone[1] = 20*
 227: 0x0528 [0x01] GOTO 0x0551
-228: 0x052B [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+228: 0x052B [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 229: 0x0532 [0x25] WAIT_DIALOG_SELECT()
 230: 0x0533 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0543
@@ -560,7 +560,7 @@ SUBROUTINE_0551:
 237: 0x055C [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x056C
 238: 0x0564 [0x03] Work_Zone[1] = 21*
 239: 0x0569 [0x01] GOTO 0x0592
-240: 0x056C [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+240: 0x056C [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 241: 0x0573 [0x25] WAIT_DIALOG_SELECT()
 242: 0x0574 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0584
@@ -575,7 +575,7 @@ SUBROUTINE_0592:
 249: 0x059D [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x05AD
 250: 0x05A5 [0x03] Work_Zone[1] = 22*
 251: 0x05AA [0x01] GOTO 0x05D3
-252: 0x05AD [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+252: 0x05AD [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 253: 0x05B4 [0x25] WAIT_DIALOG_SELECT()
 254: 0x05B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05C5
@@ -590,7 +590,7 @@ SUBROUTINE_05D3:
 261: 0x05DE [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x05EE
 262: 0x05E6 [0x03] Work_Zone[1] = 23*
 263: 0x05EB [0x01] GOTO 0x0614
-264: 0x05EE [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+264: 0x05EE [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 265: 0x05F5 [0x25] WAIT_DIALOG_SELECT()
 266: 0x05F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0606
@@ -605,7 +605,7 @@ SUBROUTINE_0614:
 273: 0x061F [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x062F
 274: 0x0627 [0x03] Work_Zone[1] = 24*
 275: 0x062C [0x01] GOTO 0x0655
-276: 0x062F [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+276: 0x062F [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 277: 0x0636 [0x25] WAIT_DIALOG_SELECT()
 278: 0x0637 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0647
@@ -620,7 +620,7 @@ SUBROUTINE_0655:
 285: 0x0660 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0670
 286: 0x0668 [0x03] Work_Zone[1] = 25*
 287: 0x066D [0x01] GOTO 0x0696
-288: 0x0670 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+288: 0x0670 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 289: 0x0677 [0x25] WAIT_DIALOG_SELECT()
 290: 0x0678 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0688
@@ -635,7 +635,7 @@ SUBROUTINE_0696:
 297: 0x06A1 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x06B1
 298: 0x06A9 [0x03] Work_Zone[1] = 26*
 299: 0x06AE [0x01] GOTO 0x06D7
-300: 0x06B1 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+300: 0x06B1 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 301: 0x06B8 [0x25] WAIT_DIALOG_SELECT()
 302: 0x06B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06C9
@@ -650,7 +650,7 @@ SUBROUTINE_06D7:
 309: 0x06E2 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x06F2
 310: 0x06EA [0x03] Work_Zone[1] = 27*
 311: 0x06EF [0x01] GOTO 0x0718
-312: 0x06F2 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+312: 0x06F2 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 313: 0x06F9 [0x25] WAIT_DIALOG_SELECT()
 314: 0x06FA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x070A
@@ -665,7 +665,7 @@ SUBROUTINE_0718:
 321: 0x0723 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0733
 322: 0x072B [0x03] Work_Zone[1] = 28*
 323: 0x0730 [0x01] GOTO 0x0759
-324: 0x0733 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+324: 0x0733 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 325: 0x073A [0x25] WAIT_DIALOG_SELECT()
 326: 0x073B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x074B
@@ -680,7 +680,7 @@ SUBROUTINE_0759:
 333: 0x0764 [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0774
 334: 0x076C [0x03] Work_Zone[1] = 29*
 335: 0x0771 [0x01] GOTO 0x079A
-336: 0x0774 [0x24] CREATE_DIALOG(message_id=7898*, default_option=1*, option_flags=0*)
+336: 0x0774 [0x24] CREATE_DIALOG(message_id=7899*, default_option=1*, option_flags=0*)
     → "Warp to your destination? [Yes./No.]"
 337: 0x077B [0x25] WAIT_DIALOG_SELECT()
 338: 0x077C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x078C
@@ -693,7 +693,7 @@ SUBROUTINE_079A:
 343: 0x079A [0x01] GOTO 0x07CF
 344: 0x079D [0x02] IF !(Work_Zone[0] == 28*) GOTO 0x07B6
 345: 0x07A5 [0x03] Work_Zone[1] = 2*
-346: 0x07AA [0x48] [System] [7896*]:
+346: 0x07AA [0x48] [System] [7897*]:
     → "You will not be asked to confirm your choice of destination. Switching to simple teleporation mode."
 347: 0x07AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x07AE [0x1A] CALL_SUBROUTINE(address=0x080B)

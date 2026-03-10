@@ -24,30 +24,30 @@
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0028      |          40 |
-|       4 | 0x18F4      |        6388 |
-|       5 | 0x18F5      |        6389 |
+|       4 | 0x18F5      |        6389 |
+|       5 | 0x18F6      |        6390 |
 |       6 | 0x0022      |          34 |
-|       7 | 0x18F6      |        6390 |
-|       8 | 0x18F7      |        6391 |
-|       9 | 0x18F8      |        6392 |
-|      10 | 0x1A7E      |        6782 |
-|      11 | 0x1A7F      |        6783 |
-|      12 | 0x1A80      |        6784 |
-|      13 | 0x1A81      |        6785 |
-|      14 | 0x1A82      |        6786 |
+|       7 | 0x18F7      |        6391 |
+|       8 | 0x18F8      |        6392 |
+|       9 | 0x18F9      |        6393 |
+|      10 | 0x1A7F      |        6783 |
+|      11 | 0x1A80      |        6784 |
+|      12 | 0x1A81      |        6785 |
+|      13 | 0x1A82      |        6786 |
+|      14 | 0x1A83      |        6787 |
 
 ## String References
 
-- **6388**: Hey, listen up! I saw something absolutely unberry-lievable! It was a Yagudo. Yes, a Yagudo! Do you know what I'm talking about? A Yagudo in town, of all places!
-- **6389**: Not only that, but he was sipper-sipping a cup of chai at the teahouse! Can you believe that? That kind of thing would never, ever happen in Windurst!
-- **6390**: I mean, that's like talky-walking into the Rarab Tail Hostelry one day and...boom! There's a Yagudo sitting in the corner eating his lunch with a little napkin on his lap! I mean, this is a Yagudo we're talking about here!
-- **6391**: My friends in Windurst are never gonna believe me when I tell them...
-- **6392**: If you stick around in this town long enough, I'm sure you'll see him yourself...a Yagudo tea aficionado! Now I've seen everything!
-- **6782**: Hey, listen up! I saw something absolutely unberry-lievable! It was a ghost! Yes, a spooky-creepy specter! I saw it just outside town!
-- **6783**: It looked like it wanted to drifty-wift right through the gates and start spookifying people. Can you believe that?
-- **6784**: And it kept jumble-mumbling something about "eframard" and "revenge." It must be one of those spiteful spirits bent on vengeance!
-- **6785**: Brrr! I wonder what "eframard" means... I'm kinda curious...but not curious enough to want to see that ghastly ghosty again!
-- **6786**: Maybe you'll meet it if you winder-wander outside! Spiteful spirits...brrr!
+- **6389**: Hey, listen up! I saw something absolutely unberry-lievable! It was a Yagudo. Yes, a Yagudo! Do you know what I'm talking about? A Yagudo in town, of all places!
+- **6390**: Not only that, but he was sipper-sipping a cup of chai at the teahouse! Can you believe that? That kind of thing would never, ever happen in Windurst!
+- **6391**: I mean, that's like talky-walking into the Rarab Tail Hostelry one day and...boom! There's a Yagudo sitting in the corner eating his lunch with a little napkin on his lap! I mean, this is a Yagudo we're talking about here!
+- **6392**: My friends in Windurst are never gonna believe me when I tell them...
+- **6393**: If you stick around in this town long enough, I'm sure you'll see him yourself...a Yagudo tea aficionado! Now I've seen everything!
+- **6783**: Hey, listen up! I saw something absolutely unberry-lievable! It was a ghost! Yes, a spooky-creepy specter! I saw it just outside town!
+- **6784**: It looked like it wanted to drifty-wift right through the gates and start spookifying people. Can you believe that?
+- **6785**: And it kept jumble-mumbling something about "eframard" and "revenge." It must be one of those spiteful spirits bent on vengeance!
+- **6786**: Brrr! I wonder what "eframard" means... I'm kinda curious...but not curious enough to want to see that ghastly ghosty again!
+- **6787**: Maybe you'll meet it if you winder-wander outside! Spiteful spirits...brrr!
 
 ## Events
 
@@ -107,40 +107,40 @@
   2: 0x0009 [0x13] ExtData[1]->WorkLocal[0] = rand() % 1*
   3: 0x000E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x005A
   4: 0x0016 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=6388*)
+  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=6389*)
     → "Hey, listen up! I saw something absolutely unberry-lievable! It was a Yagudo. Yes, a Yagudo! Do you know what I'm talking about? A Yagudo in town, of all places!"
   6: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=6389*)
+  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=6390*)
     → "Not only that, but he was sipper-sipping a cup of chai at the teahouse! Can you believe that? That kind of thing would never, ever happen in Windurst!"
   8: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=34*
- 10: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=6390*)
+ 10: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=6391*)
     → "I mean, that's like talky-walking into the Rarab Tail Hostelry one day and...boom! There's a Yagudo sitting in the corner eating his lunch with a little napkin on his lap! I mean, this is a Yagudo we're talking about here!"
  11: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6391*)
+ 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6392*)
     → "My friends in Windurst are never gonna believe me when I tell them..."
  13: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=6392*)
+ 14: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=6393*)
     → "If you stick around in this town long enough, I'm sure you'll see him yourself...a Yagudo tea aficionado! Now I've seen everything!"
  15: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0048 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=34*
  17: 0x0057 [0x01] GOTO 0x00A6
  18: 0x005A [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00A6
  19: 0x0062 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
- 20: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=6782*)
+ 20: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=6783*)
     → "Hey, listen up! I saw something absolutely unberry-lievable! It was a ghost! Yes, a spooky-creepy specter! I saw it just outside town!"
  21: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=6783*)
+ 22: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=6784*)
     → "It looked like it wanted to drifty-wift right through the gates and start spookifying people. Can you believe that?"
  23: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0079 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=34*
- 25: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=6784*)
+ 25: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=6785*)
     → "And it kept jumble-mumbling something about "eframard" and "revenge." It must be one of those spiteful spirits bent on vengeance!"
  26: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=6785*)
+ 27: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=6786*)
     → "Brrr! I wonder what "eframard" means... I'm kinda curious...but not curious enough to want to see that ghastly ghosty again!"
  28: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=6786*)
+ 29: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=6787*)
     → "Maybe you'll meet it if you winder-wander outside! Spiteful spirits...brrr!"
  30: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0094 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=34*

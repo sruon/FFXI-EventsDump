@@ -26,13 +26,13 @@
 |       3 | 0x0004      |           4 |
 |       4 | 0x0F24      |        3876 |
 |       5 | 0x0862      |        2146 |
-|       6 | 0x3200      |       12800 |
+|       6 | 0x3201      |       12801 |
 |       7 | 0x40000000  |  1073741824 |
 |       8 | 0x03E9      |        1001 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x044E      |        1102 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x3204      |       12804 |
+|      12 | 0x3205      |       12805 |
 |      13 | 0x03F1      |        1009 |
 |      14 | 0x03F2      |        1010 |
 |      15 | 0x03F3      |        1011 |
@@ -45,8 +45,8 @@
 
 ## String References
 
-- **12800**: What'll it be? [Peace out./Help an adventurer recover!/Receive $6./Get key items and titles./Receive 10,000 research marks./Receive a completed $0. /
-- **12804**: For what expedition rank? [Quit wasting my time./Adjunct./Assistant./Instructor./Associate Researcher./Researcher./??? /
+- **12801**: What'll it be? [Peace out./Help an adventurer recover!/Receive $6./Get key items and titles./Receive 10,000 research marks./Receive a completed $0. /
+- **12805**: For what expedition rank? [Quit wasting my time./Adjunct./Assistant./Instructor./Associate Researcher./Researcher./??? /
 
 ## Events
 
@@ -113,7 +113,7 @@
   3: 0x0015 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=4*, condition_work_offset=1*)
   4: 0x001C [0x03] Work_Zone[2] = 3876*
   5: 0x0021 [0x03] Work_Zone[3] = 2146*
-  6: 0x0026 [0x24] CREATE_DIALOG(message_id=12800*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+  6: 0x0026 [0x24] CREATE_DIALOG(message_id=12801*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What'll it be? [Peace out./Help an adventurer recover!/Receive $6./Get key items and titles./Receive 10,000 research marks./Receive a completed $0. /"
   7: 0x002D [0x25] WAIT_DIALOG_SELECT()
   8: 0x002E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
@@ -126,7 +126,7 @@
  15: 0x0056 [0x03] Work_Zone[1] = 1102*
  16: 0x005B [0x01] GOTO 0x0101
  17: 0x005E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00E1
- 18: 0x0066 [0x24] CREATE_DIALOG(message_id=12804*, default_option=0*, option_flags=0*)
+ 18: 0x0066 [0x24] CREATE_DIALOG(message_id=12805*, default_option=0*, option_flags=0*)
     → "For what expedition rank? [Quit wasting my time./Adjunct./Assistant./Instructor./Associate Researcher./Researcher./??? /"
  19: 0x006D [0x25] WAIT_DIALOG_SELECT()
  20: 0x006E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007E

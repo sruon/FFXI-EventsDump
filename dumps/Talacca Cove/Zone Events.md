@@ -47,24 +47,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1E1B      |        7707 |
-|       7 | 0x1E0E      |        7694 |
+|       6 | 0x1E1C      |        7708 |
+|       7 | 0x1E0F      |        7695 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1CA0      |        7328 |
+|      12 | 0x1CA1      |        7329 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1CAB      |        7339 |
-|      20 | 0x1CAC      |        7340 |
-|      21 | 0x1CAD      |        7341 |
-|      22 | 0x1CAE      |        7342 |
-|      23 | 0x1CD2      |        7378 |
+|      19 | 0x1CAC      |        7340 |
+|      20 | 0x1CAD      |        7341 |
+|      21 | 0x1CAE      |        7342 |
+|      22 | 0x1CAF      |        7343 |
+|      23 | 0x1CD3      |        7379 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -84,16 +84,16 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1E07      |        7687 |
-|      44 | 0x1E0C      |        7692 |
-|      45 | 0x1E0B      |        7691 |
+|      43 | 0x1E08      |        7688 |
+|      44 | 0x1E0D      |        7693 |
+|      45 | 0x1E0C      |        7692 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1E19      |        7705 |
-|      48 | 0x1E18      |        7704 |
+|      47 | 0x1E1A      |        7706 |
+|      48 | 0x1E19      |        7705 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1DF3      |        7667 |
+|      50 | 0x1DF4      |        7668 |
 |      51 | 0x008F      |         143 |
-|      52 | 0x1CA3      |        7331 |
+|      52 | 0x1CA4      |        7332 |
 |      53 | 0x00C9      |         201 |
 |      54 | 0x00B4      |         180 |
 |      55 | 0xFFF6C42B  |  4294362155 |
@@ -183,11 +183,11 @@
 |     139 | 0x8FE5      |       36837 |
 |     140 | 0x02A1      |         673 |
 |     141 | 0x0024      |          36 |
-|     142 | 0x1DF5      |        7669 |
-|     143 | 0x1DF4      |        7668 |
-|     144 | 0x1E17      |        7703 |
-|     145 | 0x1DF7      |        7671 |
-|     146 | 0x1DF6      |        7670 |
+|     142 | 0x1DF6      |        7670 |
+|     143 | 0x1DF5      |        7669 |
+|     144 | 0x1E18      |        7704 |
+|     145 | 0x1DF8      |        7672 |
+|     146 | 0x1DF7      |        7671 |
 |     147 | 0x4E1D      |       19997 |
 |     148 | 0x2DE77     |      188023 |
 |     149 | 0xFFFFFEA6  |  4294966950 |
@@ -203,15 +203,15 @@
 |     159 | 0x011F      |         287 |
 |     160 | 0x0078      |         120 |
 |     161 | 0x005A      |          90 |
-|     162 | 0x1EE1      |        7905 |
-|     163 | 0x1EE2      |        7906 |
-|     164 | 0x1EE3      |        7907 |
-|     165 | 0x1EE4      |        7908 |
-|     166 | 0x1EE5      |        7909 |
-|     167 | 0x1EE6      |        7910 |
-|     168 | 0x1EE7      |        7911 |
+|     162 | 0x1EE2      |        7906 |
+|     163 | 0x1EE3      |        7907 |
+|     164 | 0x1EE4      |        7908 |
+|     165 | 0x1EE5      |        7909 |
+|     166 | 0x1EE6      |        7910 |
+|     167 | 0x1EE7      |        7911 |
+|     168 | 0x1EE8      |        7912 |
 |     169 | 0x0043      |          67 |
-|     170 | 0x1EE8      |        7912 |
+|     170 | 0x1EE9      |        7913 |
 |     171 | 0x0046      |          70 |
 |     172 | 0x0023      |          35 |
 |     173 | 0x002E      |          46 |
@@ -224,21 +224,21 @@
 |     180 | 0xFFFD41EF  |  4294787567 |
 |     181 | 0x2648A     |      156810 |
 |     182 | 0x9533      |       38195 |
-|     183 | 0x1E96      |        7830 |
+|     183 | 0x1E97      |        7831 |
 |     184 | 0xFFFD4221  |  4294787617 |
 |     185 | 0x29DFA     |      171514 |
 |     186 | 0x9A1A      |       39450 |
 |     187 | 0x0BEA      |        3050 |
 |     188 | 0x034B      |         843 |
 |     189 | 0x034C      |         844 |
-|     190 | 0x1E97      |        7831 |
-|     191 | 0x1E98      |        7832 |
-|     192 | 0x1E9A      |        7834 |
-|     193 | 0x1E9B      |        7835 |
-|     194 | 0x1E9C      |        7836 |
-|     195 | 0x1E9D      |        7837 |
-|     196 | 0x1E9E      |        7838 |
-|     197 | 0x1E9F      |        7839 |
+|     190 | 0x1E98      |        7832 |
+|     191 | 0x1E99      |        7833 |
+|     192 | 0x1E9B      |        7835 |
+|     193 | 0x1E9C      |        7836 |
+|     194 | 0x1E9D      |        7837 |
+|     195 | 0x1E9E      |        7838 |
+|     196 | 0x1E9F      |        7839 |
+|     197 | 0x1EA0      |        7840 |
 |     198 | 0xFFFE793C  |  4294867260 |
 |     199 | 0xFFFEA2A7  |  4294877863 |
 |     200 | 0xFFFFE177  |  4294959479 |
@@ -261,31 +261,31 @@
 |     217 | 0x0BB2      |        2994 |
 |     218 | 0x0360      |         864 |
 |     219 | 0x011D      |         285 |
-|     220 | 0x1E7E      |        7806 |
-|     221 | 0x1E7F      |        7807 |
-|     222 | 0x1E80      |        7808 |
-|     223 | 0x1E81      |        7809 |
+|     220 | 0x1E7F      |        7807 |
+|     221 | 0x1E80      |        7808 |
+|     222 | 0x1E81      |        7809 |
+|     223 | 0x1E82      |        7810 |
 |     224 | 0xFFFD40EF  |  4294787311 |
 |     225 | 0x2653C     |      156988 |
 |     226 | 0x9581      |       38273 |
-|     227 | 0x1E82      |        7810 |
-|     228 | 0x1E83      |        7811 |
-|     229 | 0x1E84      |        7812 |
+|     227 | 0x1E83      |        7811 |
+|     228 | 0x1E84      |        7812 |
+|     229 | 0x1E85      |        7813 |
 |     230 | 0xFFFD4169  |  4294787433 |
 |     231 | 0x276A3     |      161443 |
 |     232 | 0x9798      |       38808 |
-|     233 | 0x1E85      |        7813 |
-|     234 | 0x1E87      |        7815 |
-|     235 | 0x1E88      |        7816 |
-|     236 | 0x1E89      |        7817 |
-|     237 | 0x1E8A      |        7818 |
-|     238 | 0x1E8B      |        7819 |
-|     239 | 0x1E8C      |        7820 |
+|     233 | 0x1E86      |        7814 |
+|     234 | 0x1E88      |        7816 |
+|     235 | 0x1E89      |        7817 |
+|     236 | 0x1E8A      |        7818 |
+|     237 | 0x1E8B      |        7819 |
+|     238 | 0x1E8C      |        7820 |
+|     239 | 0x1E8D      |        7821 |
 |     240 | 0x0362      |         866 |
-|     241 | 0x1E8D      |        7821 |
-|     242 | 0x1E8E      |        7822 |
-|     243 | 0x1E8F      |        7823 |
-|     244 | 0x1E90      |        7824 |
+|     241 | 0x1E8E      |        7822 |
+|     242 | 0x1E8F      |        7823 |
+|     243 | 0x1E90      |        7824 |
+|     244 | 0x1E91      |        7825 |
 |     245 | 0x0096      |         150 |
 |     246 | 0x4EFB      |       20219 |
 |     247 | 0x2C935     |      182581 |
@@ -296,8 +296,8 @@
 |     252 | 0xFFFFFE5F  |  4294966879 |
 |     253 | 0x0435      |        1077 |
 |     254 | 0x0401      |        1025 |
-|     255 | 0x1EE9      |        7913 |
-|     256 | 0x1EEA      |        7914 |
+|     255 | 0x1EEA      |        7914 |
+|     256 | 0x1EEB      |        7915 |
 |     257 | 0x00F0      |         240 |
 |     258 | 0x4C58      |       19544 |
 |     259 | 0x28E9F     |      167583 |
@@ -309,85 +309,85 @@
 |     265 | 0xFFFFFD37  |  4294966583 |
 |     266 | 0x00AD      |         173 |
 |     267 | 0x007C      |         124 |
-|     268 | 0x1EEB      |        7915 |
-|     269 | 0x1EEC      |        7916 |
-|     270 | 0x1EED      |        7917 |
-|     271 | 0x1EEE      |        7918 |
-|     272 | 0x1EEF      |        7919 |
-|     273 | 0x1EF0      |        7920 |
-|     274 | 0x1EF1      |        7921 |
-|     275 | 0x1EF2      |        7922 |
-|     276 | 0x1EF3      |        7923 |
-|     277 | 0x1EF4      |        7924 |
-|     278 | 0x1EF5      |        7925 |
-|     279 | 0x1EF6      |        7926 |
-|     280 | 0x1EF8      |        7928 |
-|     281 | 0x1EF9      |        7929 |
-|     282 | 0x1EFA      |        7930 |
-|     283 | 0x1EFB      |        7931 |
-|     284 | 0x1EF7      |        7927 |
-|     285 | 0x1EFC      |        7932 |
-|     286 | 0x1EFD      |        7933 |
-|     287 | 0x1EFE      |        7934 |
+|     268 | 0x1EEC      |        7916 |
+|     269 | 0x1EED      |        7917 |
+|     270 | 0x1EEE      |        7918 |
+|     271 | 0x1EEF      |        7919 |
+|     272 | 0x1EF0      |        7920 |
+|     273 | 0x1EF1      |        7921 |
+|     274 | 0x1EF2      |        7922 |
+|     275 | 0x1EF3      |        7923 |
+|     276 | 0x1EF4      |        7924 |
+|     277 | 0x1EF5      |        7925 |
+|     278 | 0x1EF6      |        7926 |
+|     279 | 0x1EF7      |        7927 |
+|     280 | 0x1EF9      |        7929 |
+|     281 | 0x1EFA      |        7930 |
+|     282 | 0x1EFB      |        7931 |
+|     283 | 0x1EFC      |        7932 |
+|     284 | 0x1EF8      |        7928 |
+|     285 | 0x1EFD      |        7933 |
+|     286 | 0x1EFE      |        7934 |
+|     287 | 0x1EFF      |        7935 |
 |     288 | 0x00FE      |         254 |
-|     289 | 0x1EFF      |        7935 |
-|     290 | 0x1F00      |        7936 |
+|     289 | 0x1F00      |        7936 |
+|     290 | 0x1F01      |        7937 |
 |     291 | 0x0402      |        1026 |
-|     292 | 0x1F01      |        7937 |
-|     293 | 0x1F02      |        7938 |
-|     294 | 0x1F03      |        7939 |
+|     292 | 0x1F02      |        7938 |
+|     293 | 0x1F03      |        7939 |
+|     294 | 0x1F04      |        7940 |
 |     295 | 0x0318      |         792 |
-|     296 | 0x1F04      |        7940 |
-|     297 | 0x1F05      |        7941 |
-|     298 | 0x1F06      |        7942 |
-|     299 | 0x1F07      |        7943 |
-|     300 | 0x1F08      |        7944 |
-|     301 | 0x1F09      |        7945 |
-|     302 | 0x1F0A      |        7946 |
-|     303 | 0x1F0B      |        7947 |
-|     304 | 0x1F0C      |        7948 |
-|     305 | 0x1F0D      |        7949 |
+|     296 | 0x1F05      |        7941 |
+|     297 | 0x1F06      |        7942 |
+|     298 | 0x1F07      |        7943 |
+|     299 | 0x1F08      |        7944 |
+|     300 | 0x1F09      |        7945 |
+|     301 | 0x1F0A      |        7946 |
+|     302 | 0x1F0B      |        7947 |
+|     303 | 0x1F0C      |        7948 |
+|     304 | 0x1F0D      |        7949 |
+|     305 | 0x1F0E      |        7950 |
 |     306 | 0x0BBA      |        3002 |
-|     307 | 0x1F0E      |        7950 |
-|     308 | 0x1F0F      |        7951 |
-|     309 | 0x1F10      |        7952 |
-|     310 | 0x1F11      |        7953 |
-|     311 | 0x1F12      |        7954 |
-|     312 | 0x1F13      |        7955 |
-|     313 | 0x1F14      |        7956 |
-|     314 | 0x1F15      |        7957 |
-|     315 | 0x1F16      |        7958 |
-|     316 | 0x1F17      |        7959 |
-|     317 | 0x1F18      |        7960 |
-|     318 | 0x1F19      |        7961 |
-|     319 | 0x1F1A      |        7962 |
-|     320 | 0x1F1B      |        7963 |
-|     321 | 0x1F1C      |        7964 |
-|     322 | 0x1F1D      |        7965 |
-|     323 | 0x1F1E      |        7966 |
-|     324 | 0x1F1F      |        7967 |
-|     325 | 0x1F20      |        7968 |
-|     326 | 0x1F21      |        7969 |
-|     327 | 0x1F22      |        7970 |
-|     328 | 0x1F23      |        7971 |
-|     329 | 0x1F24      |        7972 |
-|     330 | 0x1F25      |        7973 |
-|     331 | 0x1EA0      |        7840 |
+|     307 | 0x1F0F      |        7951 |
+|     308 | 0x1F10      |        7952 |
+|     309 | 0x1F11      |        7953 |
+|     310 | 0x1F12      |        7954 |
+|     311 | 0x1F13      |        7955 |
+|     312 | 0x1F14      |        7956 |
+|     313 | 0x1F15      |        7957 |
+|     314 | 0x1F16      |        7958 |
+|     315 | 0x1F17      |        7959 |
+|     316 | 0x1F18      |        7960 |
+|     317 | 0x1F19      |        7961 |
+|     318 | 0x1F1A      |        7962 |
+|     319 | 0x1F1B      |        7963 |
+|     320 | 0x1F1C      |        7964 |
+|     321 | 0x1F1D      |        7965 |
+|     322 | 0x1F1E      |        7966 |
+|     323 | 0x1F1F      |        7967 |
+|     324 | 0x1F20      |        7968 |
+|     325 | 0x1F21      |        7969 |
+|     326 | 0x1F22      |        7970 |
+|     327 | 0x1F23      |        7971 |
+|     328 | 0x1F24      |        7972 |
+|     329 | 0x1F25      |        7973 |
+|     330 | 0x1F26      |        7974 |
+|     331 | 0x1EA1      |        7841 |
 |     332 | 0x00A3      |         163 |
-|     333 | 0x1EA1      |        7841 |
-|     334 | 0x1EA2      |        7842 |
-|     335 | 0x1EA3      |        7843 |
-|     336 | 0x1EA4      |        7844 |
-|     337 | 0x1EA5      |        7845 |
-|     338 | 0x1EA6      |        7846 |
-|     339 | 0x1EA7      |        7847 |
-|     340 | 0x1EA8      |        7848 |
-|     341 | 0x1EA9      |        7849 |
-|     342 | 0x1EAA      |        7850 |
-|     343 | 0x1EAB      |        7851 |
-|     344 | 0x1EAC      |        7852 |
-|     345 | 0x1EAD      |        7853 |
-|     346 | 0x1EAE      |        7854 |
+|     333 | 0x1EA2      |        7842 |
+|     334 | 0x1EA3      |        7843 |
+|     335 | 0x1EA4      |        7844 |
+|     336 | 0x1EA5      |        7845 |
+|     337 | 0x1EA6      |        7846 |
+|     338 | 0x1EA7      |        7847 |
+|     339 | 0x1EA8      |        7848 |
+|     340 | 0x1EA9      |        7849 |
+|     341 | 0x1EAA      |        7850 |
+|     342 | 0x1EAB      |        7851 |
+|     343 | 0x1EAC      |        7852 |
+|     344 | 0x1EAD      |        7853 |
+|     345 | 0x1EAE      |        7854 |
+|     346 | 0x1EAF      |        7855 |
 |     347 | 0x00CC      |         204 |
 |     348 | 0x0028      |          40 |
 |     349 | 0xFFFD40FC  |  4294787324 |
@@ -398,12 +398,12 @@
 |     354 | 0x9A30      |       39472 |
 |     355 | 0x0B5D      |        2909 |
 |     356 | 0x00B8      |         184 |
-|     357 | 0x1E91      |        7825 |
-|     358 | 0x1E92      |        7826 |
-|     359 | 0x1E93      |        7827 |
-|     360 | 0x1E94      |        7828 |
-|     361 | 0x1E95      |        7829 |
-|     362 | 0x1CA1      |        7329 |
+|     357 | 0x1E92      |        7826 |
+|     358 | 0x1E93      |        7827 |
+|     359 | 0x1E94      |        7828 |
+|     360 | 0x1E95      |        7829 |
+|     361 | 0x1E96      |        7830 |
+|     362 | 0x1CA2      |        7330 |
 |     363 | 0x4DDC      |       19932 |
 |     364 | 0x1DB4B     |      121675 |
 |     365 | 0xFFFFE0C0  |  4294959296 |
@@ -425,99 +425,99 @@
 |     381 | 0x004D      |          77 |
 |     382 | 0x010A      |         266 |
 |     383 | 0x02E4      |         740 |
-|     384 | 0x1E33      |        7731 |
-|     385 | 0x1E34      |        7732 |
-|     386 | 0x1E35      |        7733 |
-|     387 | 0x1E36      |        7734 |
-|     388 | 0x1E37      |        7735 |
-|     389 | 0x1E38      |        7736 |
-|     390 | 0x1E39      |        7737 |
+|     384 | 0x1E34      |        7732 |
+|     385 | 0x1E35      |        7733 |
+|     386 | 0x1E36      |        7734 |
+|     387 | 0x1E37      |        7735 |
+|     388 | 0x1E38      |        7736 |
+|     389 | 0x1E39      |        7737 |
+|     390 | 0x1E3A      |        7738 |
 |     391 | 0x3005      |       12293 |
 |     392 | 0x2CE42     |      183874 |
 |     393 | 0xFFFFFC6F  |  4294966383 |
 |     394 | 0x002F      |          47 |
 |     395 | 0x034E      |         846 |
-|     396 | 0x1E3A      |        7738 |
-|     397 | 0x1E3B      |        7739 |
-|     398 | 0x1E3C      |        7740 |
-|     399 | 0x1E3D      |        7741 |
-|     400 | 0x1E3E      |        7742 |
-|     401 | 0x1E3F      |        7743 |
-|     402 | 0x1E40      |        7744 |
-|     403 | 0x1E41      |        7745 |
+|     396 | 0x1E3B      |        7739 |
+|     397 | 0x1E3C      |        7740 |
+|     398 | 0x1E3D      |        7741 |
+|     399 | 0x1E3E      |        7742 |
+|     400 | 0x1E3F      |        7743 |
+|     401 | 0x1E40      |        7744 |
+|     402 | 0x1E41      |        7745 |
+|     403 | 0x1E42      |        7746 |
 |     404 | 0x0136      |         310 |
-|     405 | 0x1E42      |        7746 |
+|     405 | 0x1E43      |        7747 |
 |     406 | 0x0032      |          50 |
 |     407 | 0x00DA      |         218 |
-|     408 | 0x1E43      |        7747 |
+|     408 | 0x1E44      |        7748 |
 |     409 | 0x0050      |          80 |
 |     410 | 0x004C      |          76 |
-|     411 | 0x1E44      |        7748 |
-|     412 | 0x1E45      |        7749 |
-|     413 | 0x1E46      |        7750 |
-|     414 | 0x1E47      |        7751 |
+|     411 | 0x1E45      |        7749 |
+|     412 | 0x1E46      |        7750 |
+|     413 | 0x1E47      |        7751 |
+|     414 | 0x1E48      |        7752 |
 |     415 | 0x002D      |          45 |
 |     416 | 0x0020      |          32 |
-|     417 | 0x1E48      |        7752 |
-|     418 | 0x1E49      |        7753 |
-|     419 | 0x1E4A      |        7754 |
-|     420 | 0x1E4B      |        7755 |
-|     421 | 0x1E4C      |        7756 |
-|     422 | 0x1E4D      |        7757 |
-|     423 | 0x1E4E      |        7758 |
+|     417 | 0x1E49      |        7753 |
+|     418 | 0x1E4A      |        7754 |
+|     419 | 0x1E4B      |        7755 |
+|     420 | 0x1E4C      |        7756 |
+|     421 | 0x1E4D      |        7757 |
+|     422 | 0x1E4E      |        7758 |
+|     423 | 0x1E4F      |        7759 |
 |     424 | 0x1915      |        6421 |
 |     425 | 0x2A83A     |      174138 |
 |     426 | 0xFFFFFE44  |  4294966852 |
-|     427 | 0x1E4F      |        7759 |
-|     428 | 0x1E50      |        7760 |
-|     429 | 0x1E51      |        7761 |
+|     427 | 0x1E50      |        7760 |
+|     428 | 0x1E51      |        7761 |
+|     429 | 0x1E52      |        7762 |
 |     430 | 0x00AA      |         170 |
 |     431 | 0x00B0      |         176 |
 |     432 | 0x007F      |         127 |
 |     433 | 0x0105      |         261 |
-|     434 | 0x1E52      |        7762 |
-|     435 | 0x1E53      |        7763 |
-|     436 | 0x1E54      |        7764 |
+|     434 | 0x1E53      |        7763 |
+|     435 | 0x1E54      |        7764 |
+|     436 | 0x1E55      |        7765 |
 |     437 | 0x4717      |       18199 |
 |     438 | 0x2BA9A     |      178842 |
 |     439 | 0xFFFFFE2D  |  4294966829 |
 |     440 | 0x03E8      |        1000 |
-|     441 | 0x1E55      |        7765 |
-|     442 | 0x1E56      |        7766 |
-|     443 | 0x1E57      |        7767 |
-|     444 | 0x1E58      |        7768 |
-|     445 | 0x1E5A      |        7770 |
-|     446 | 0x1E5B      |        7771 |
-|     447 | 0x1E5C      |        7772 |
-|     448 | 0x1E5D      |        7773 |
-|     449 | 0x1E5E      |        7774 |
-|     450 | 0x1E5F      |        7775 |
-|     451 | 0x1E60      |        7776 |
-|     452 | 0x1E61      |        7777 |
-|     453 | 0x1E62      |        7778 |
-|     454 | 0x1E63      |        7779 |
-|     455 | 0x1E64      |        7780 |
-|     456 | 0x1E65      |        7781 |
-|     457 | 0x1E66      |        7782 |
-|     458 | 0x1E68      |        7784 |
-|     459 | 0x1E69      |        7785 |
-|     460 | 0x1E6A      |        7786 |
-|     461 | 0x1E6B      |        7787 |
-|     462 | 0x1E6C      |        7788 |
-|     463 | 0x1E6F      |        7791 |
-|     464 | 0x1E6D      |        7789 |
-|     465 | 0x1E6E      |        7790 |
-|     466 | 0x1E71      |        7793 |
-|     467 | 0x1E72      |        7794 |
-|     468 | 0x1E73      |        7795 |
-|     469 | 0x1E74      |        7796 |
+|     441 | 0x1E56      |        7766 |
+|     442 | 0x1E57      |        7767 |
+|     443 | 0x1E58      |        7768 |
+|     444 | 0x1E59      |        7769 |
+|     445 | 0x1E5B      |        7771 |
+|     446 | 0x1E5C      |        7772 |
+|     447 | 0x1E5D      |        7773 |
+|     448 | 0x1E5E      |        7774 |
+|     449 | 0x1E5F      |        7775 |
+|     450 | 0x1E60      |        7776 |
+|     451 | 0x1E61      |        7777 |
+|     452 | 0x1E62      |        7778 |
+|     453 | 0x1E63      |        7779 |
+|     454 | 0x1E64      |        7780 |
+|     455 | 0x1E65      |        7781 |
+|     456 | 0x1E66      |        7782 |
+|     457 | 0x1E67      |        7783 |
+|     458 | 0x1E69      |        7785 |
+|     459 | 0x1E6A      |        7786 |
+|     460 | 0x1E6B      |        7787 |
+|     461 | 0x1E6C      |        7788 |
+|     462 | 0x1E6D      |        7789 |
+|     463 | 0x1E70      |        7792 |
+|     464 | 0x1E6E      |        7790 |
+|     465 | 0x1E6F      |        7791 |
+|     466 | 0x1E72      |        7794 |
+|     467 | 0x1E73      |        7795 |
+|     468 | 0x1E74      |        7796 |
+|     469 | 0x1E75      |        7797 |
 |     470 | 0x1575      |        5493 |
-|     471 | 0x1E75      |        7797 |
-|     472 | 0x1E76      |        7798 |
-|     473 | 0x1E77      |        7799 |
-|     474 | 0x1E78      |        7800 |
-|     475 | 0x1E79      |        7801 |
-|     476 | 0x1E7A      |        7802 |
+|     471 | 0x1E76      |        7798 |
+|     472 | 0x1E77      |        7799 |
+|     473 | 0x1E78      |        7800 |
+|     474 | 0x1E79      |        7801 |
+|     475 | 0x1E7A      |        7802 |
+|     476 | 0x1E7B      |        7803 |
 |     477 | 0x1529      |        5417 |
 |     478 | 0x2D102     |      184578 |
 |     479 | 0xFFFFFDD9  |  4294966745 |
@@ -526,12 +526,12 @@
 |     482 | 0xFFFDC811  |  4294821905 |
 |     483 | 0xFFFFE410  |  4294960144 |
 |     484 | 0x0A3D      |        2621 |
-|     485 | 0x1E2D      |        7725 |
-|     486 | 0x1E2E      |        7726 |
-|     487 | 0x1E30      |        7728 |
-|     488 | 0x1E31      |        7729 |
+|     485 | 0x1E2E      |        7726 |
+|     486 | 0x1E2F      |        7727 |
+|     487 | 0x1E31      |        7729 |
+|     488 | 0x1E32      |        7730 |
 |     489 | 0x084B      |        2123 |
-|     490 | 0x1E32      |        7730 |
+|     490 | 0x1E33      |        7731 |
 |     491 | 0x0168      |         360 |
 |     492 | 0x3CF7      |       15607 |
 |     493 | 0x2ED21     |      191777 |
@@ -554,37 +554,37 @@
 
 ## String References
 
-- **7328**: Enter the battlefield? [Enter./Decline.]
-- **7329**: Leave the battlefield? [Run away./Stay.]
-- **7331**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7339**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7329**: Enter the battlefield? [Enter./Decline.]
+- **7330**: Leave the battlefield? [Run away./Stay.]
+- **7332**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7340**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7341**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7342**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7378**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7667**: Skip the event? [Yes./No.]
-- **7668**: Battlefield clear time: $3 second[/s]!
-- **7669**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7670**: The current battlefield clear time record is $3 second[/s].
-- **7671**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7687**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7691**: That record is held by $5 adventurers, including %0!
-- **7692**: That record is held by %0!
-- **7694**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7703**: You have broken the clear time record for "[Call to Arms/Compliments to the Chef/Puppetmaster Blues/Breaking the Bonds of Fate/Legacy of the Lost/$26Legacy of the Lost/An Imperial Heist]"!
-- **7704**: The current battlefield clear time record for "[Call to Arms/Compliments to the Chef/Puppetmaster Blues/Breaking the Bonds of Fate/Legacy of the Lost/$26Legacy of the Lost/An Imperial Heist]" is $3 second[/s].
-- **7705**: The current battlefield clear time record for "[Call to Arms/Compliments to the Chef/Puppetmaster Blues/Breaking the Bonds of Fate/Legacy of the Lost/$26Legacy of the Lost/An Imperial Heist]" is $3 minute[/s] $2 second[/s].
-- **7707**: Which battlefield will you enter? [None./Call to Arms./Compliments to the Chef./Puppetmaster Blues./Breaking the Bonds of Fate./Legacy of the Lost./$26Legacy of the Lost./An Imperial Heist././././././././././././././././././././././././.]
-- **7830**: There appears to be an old automaton here. You can see an uncovered slot on its back.
-- **7831**: <Player> fits the automaton with the $3 and the $3.
-- **7832**: w...Booting...x
-- **7834**: wConfirming connection status... Impedance alteration in sector 3 detected... Proceeding...x
-- **7835**: wAutonomous system operation at 95...97...99...100%.x
-- **7836**: wSystem scan complete. Commencing startup.x
-- **7847**: Why were you victorious? [It was one-on-one./Shamarhaan wasn't here./My automaton is stronger.]
-- **7919**: Strike the final blow? [Gladly./I have questions...]
-- **7935**: Are you shaken? [To the core!/Not particularly...]
-- **7958**: Explain your circumstances? [Lay it on the table./Keep it to yourself.]
+- **7343**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7379**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7668**: Skip the event? [Yes./No.]
+- **7669**: Battlefield clear time: $3 second[/s]!
+- **7670**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7671**: The current battlefield clear time record is $3 second[/s].
+- **7672**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7688**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7692**: That record is held by $5 adventurers, including %0!
+- **7693**: That record is held by %0!
+- **7695**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7704**: You have broken the clear time record for "[Call to Arms/Compliments to the Chef/Puppetmaster Blues/Breaking the Bonds of Fate/Legacy of the Lost/$26Legacy of the Lost/An Imperial Heist]"!
+- **7705**: The current battlefield clear time record for "[Call to Arms/Compliments to the Chef/Puppetmaster Blues/Breaking the Bonds of Fate/Legacy of the Lost/$26Legacy of the Lost/An Imperial Heist]" is $3 second[/s].
+- **7706**: The current battlefield clear time record for "[Call to Arms/Compliments to the Chef/Puppetmaster Blues/Breaking the Bonds of Fate/Legacy of the Lost/$26Legacy of the Lost/An Imperial Heist]" is $3 minute[/s] $2 second[/s].
+- **7708**: Which battlefield will you enter? [None./Call to Arms./Compliments to the Chef./Puppetmaster Blues./Breaking the Bonds of Fate./Legacy of the Lost./$26Legacy of the Lost./An Imperial Heist././././././././././././././././././././././././.]
+- **7831**: There appears to be an old automaton here. You can see an uncovered slot on its back.
+- **7832**: <Player> fits the automaton with the $3 and the $3.
+- **7833**: w...Booting...x
+- **7835**: wConfirming connection status... Impedance alteration in sector 3 detected... Proceeding...x
+- **7836**: wAutonomous system operation at 95...97...99...100%.x
+- **7837**: wSystem scan complete. Commencing startup.x
+- **7848**: Why were you victorious? [It was one-on-one./Shamarhaan wasn't here./My automaton is stronger.]
+- **7920**: Strike the final blow? [Gladly./I have questions...]
+- **7936**: Are you shaken? [To the core!/Not particularly...]
+- **7959**: Explain your circumstances? [Lay it on the table./Keep it to yourself.]
 
 ## Events
 
@@ -799,7 +799,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7707*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7708*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Call to Arms./Compliments to the Chef./Puppetmaster Blues./Breaking the Bonds of Fate./Legacy of the Lost./$26Legacy of the Lost./An Imperial Heist././././././././././././././././././././././././.]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -812,7 +812,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x304C)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7694*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7695*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -838,7 +838,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0845)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7328*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -887,22 +887,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07E1
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7339*]:
+ 89: 0x0225 [0x48] [System] [7340*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7340*]:
+ 93: 0x0234 [0x48] [System] [7341*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7341*]:
+ 97: 0x0243 [0x48] [System] [7342*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7342*]:
+101: 0x0252 [0x48] [System] [7343*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -911,7 +911,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x07F8
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7687*]:
+105: 0x0469 [0x48] [System] [7688*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x07F8
@@ -923,24 +923,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7705*]:
+114: 0x04EA [0x48] [System] [7706*]:
     → "The current battlefield clear time record for "[Call to Arms/Compliments to the Chef/Puppetmaster Blues/Breaking the Bonds of Fate/Legacy of the Lost/$26Legacy of the Lost/An Imperial Heist]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7704*]:
+117: 0x04F1 [0x48] [System] [7705*]:
     → "The current battlefield clear time record for "[Call to Arms/Compliments to the Chef/Puppetmaster Blues/Breaking the Bonds of Fate/Legacy of the Lost/$26Legacy of the Lost/An Imperial Heist]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7692*]:
+120: 0x04FD [0x48] [System] [7693*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7691*]:
+126: 0x0511 [0x48] [System] [7692*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -956,7 +956,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7667*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7668*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -1096,7 +1096,7 @@ SUBROUTINE_07E1:
 263: 0x07E4 [0x02] IF !(0* == 1*) GOTO 0x07F1
 264: 0x07EC [0x03] ExtData[1]->WorkLocal[0] = 4*
 265: 0x07F1 [0x01] GOTO 0x01A4
-266: 0x07F4 [0x48] [System] [7331*]:
+266: 0x07F4 [0x48] [System] [7332*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1468,7 +1468,7 @@ SUBROUTINE_0C45:
  87: 0x0C50 [0x01] GOTO 0x0C6E
  88: 0x0C53 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D1E
  89: 0x0C5B [0x1C] WAIT(15* ticks)
- 90: 0x0C5E [0x24] CREATE_DIALOG(message_id=7667*, default_option=1*, option_flags=0*)
+ 90: 0x0C5E [0x24] CREATE_DIALOG(message_id=7668*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  91: 0x0C65 [0x25] WAIT_DIALOG_SELECT()
  92: 0x0C66 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D1E
@@ -1535,18 +1535,18 @@ SUBROUTINE_0D50:
 141: 0x0D89 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DA4
 142: 0x0D91 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 143: 0x0D98 [0x15] Work_Zone[5] /= 60*
-144: 0x0D9D [0x48] [System] [7669*]:
+144: 0x0D9D [0x48] [System] [7670*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 145: 0x0DA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0DA1 [0x01] GOTO 0x0DA8
-147: 0x0DA4 [0x48] [System] [7668*]:
+147: 0x0DA4 [0x48] [System] [7669*]:
     → "Battlefield clear time: $3 second[/s]!"
 148: 0x0DA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DA8:
 149: 0x0DA8 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DBC
 150: 0x0DB0 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-151: 0x0DB5 [0x48] [System] [7703*]:
+151: 0x0DB5 [0x48] [System] [7704*]:
     → "You have broken the clear time record for "[Call to Arms/Compliments to the Chef/Puppetmaster Blues/Breaking the Bonds of Fate/Legacy of the Lost/$26Legacy of the Lost/An Imperial Heist]"!"
 152: 0x0DB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x0DB9 [0x01] GOTO 0x0DE5
@@ -1554,12 +1554,12 @@ SUBROUTINE_0DA8:
 155: 0x0DC4 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 156: 0x0DC9 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 157: 0x0DD0 [0x15] Work_Zone[5] /= 60*
-158: 0x0DD5 [0x48] [System] [7671*]:
+158: 0x0DD5 [0x48] [System] [7672*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 159: 0x0DD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x0DD9 [0x01] GOTO 0x0DE5
 161: 0x0DDC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-162: 0x0DE1 [0x48] [System] [7670*]:
+162: 0x0DE1 [0x48] [System] [7671*]:
     → "The current battlefield clear time record is $3 second[/s]."
 163: 0x0DE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2288,7 +2288,7 @@ SUBROUTINE_0FBC:
 
 ```
 # Dead code (unreachable instructions):
-     0x1002 [0x24] CREATE_DIALOG(message_id=7328*, default_option=1*, option_flags=0*)
+     0x1002 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x1009 [0x25] WAIT_DIALOG_SELECT()
      0x100A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1018
@@ -2335,13 +2335,13 @@ SUBROUTINE_0FBC:
      0x1160 [0x1C] WAIT(180* ticks)
      0x1163 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1172 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x1183 [0x2B] Gessho (ID: 17010923/0x010390EB) [7905*]:
+     0x1183 [0x2B] Gessho (ID: 17010923/0x010390EB) [7906*]:
     → "!?"
      0x118A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x118B [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=287*
      0x119A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x11AB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "vson" with entities [Gessho (ID: 17010923/0x010390EB), Gessho (ID: 17010923/0x010390EB)], work=1024*
-     0x11BA [0x2B] Gessho (ID: 17010923/0x010390EB) [7906*]:
+     0x11BA [0x2B] Gessho (ID: 17010923/0x010390EB) [7907*]:
     → "I knew a Salaheem's Sentinel would be coming..."
      0x11C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11C2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "vsof" with entities [Gessho (ID: 17010923/0x010390EB), Gessho (ID: 17010923/0x010390EB)], work=1024*
@@ -2349,25 +2349,25 @@ SUBROUTINE_0FBC:
      0x11D4 [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=287*
      0x11E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x11F4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "vson" with entities [Gessho (ID: 17010923/0x010390EB), Gessho (ID: 17010923/0x010390EB)], work=1024*
-     0x1203 [0x2B] Gessho (ID: 17010923/0x010390EB) [7907*]:
+     0x1203 [0x2B] Gessho (ID: 17010923/0x010390EB) [7908*]:
     → "I only hoped it would not be you, <Player>. It truly is unfortunate."
      0x120A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x120B [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=287*
      0x121A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x122B [0x2B] Gessho (ID: 17010923/0x010390EB) [7908*]:
+     0x122B [0x2B] Gessho (ID: 17010923/0x010390EB) [7909*]:
     → "I have sincerely enjoyed our camaraderie during my mercenary career."
      0x1232 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1233 [0x2B] Gessho (ID: 17010923/0x010390EB) [7909*]:
+     0x1233 [0x2B] Gessho (ID: 17010923/0x010390EB) [7910*]:
     → "You have my utmost respect and gratitude."
      0x123A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x123B [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=287*
      0x124A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x125B [0x2B] Gessho (ID: 17010923/0x010390EB) [7910*]:
+     0x125B [0x2B] Gessho (ID: 17010923/0x010390EB) [7911*]:
     → "However, fate decrees that we meet as enemies this day."
      0x1262 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1263 [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1272 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x1283 [0x2B] Gessho (ID: 17010923/0x010390EB) [7911*]:
+     0x1283 [0x2B] Gessho (ID: 17010923/0x010390EB) [7912*]:
     → "No, nothing is certain anymore..."
      0x128A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x128B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "vsof" with entities [Gessho (ID: 17010923/0x010390EB), Gessho (ID: 17010923/0x010390EB)], work=1024*
@@ -2375,7 +2375,7 @@ SUBROUTINE_0FBC:
      0x12A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x12BA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "vs02" with entities [Gessho (ID: 17010923/0x010390EB), Gessho (ID: 17010923/0x010390EB)], work=1024*
      0x12C9 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [Gessho (ID: 17010923/0x010390EB), Gessho (ID: 17010923/0x010390EB)], work=[67*, 0*]
-     0x12DA [0x2B] Gessho (ID: 17010923/0x010390EB) [7912*]:
+     0x12DA [0x2B] Gessho (ID: 17010923/0x010390EB) [7913*]:
     → "Defend yourself!"
      0x12E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12E2 [0x1C] WAIT(90* ticks)
@@ -2432,7 +2432,7 @@ SUBROUTINE_0FBC:
      0x14CB [0x52] END_LOAD_SCHEDULER: End scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=185*
      0x14DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[185*, 0*]
      0x14EB [0x1C] WAIT(60* ticks)
-     0x14EE [0x48] [System] [7830*]:
+     0x14EE [0x48] [System] [7831*]:
     → "There appears to be an old automaton here. You can see an uncovered slot on its back."
      0x14F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14F2 [0x1C] WAIT(60* ticks)
@@ -2443,23 +2443,23 @@ SUBROUTINE_0FBC:
      0x1521 [0x1C] WAIT(60* ticks)
      0x1524 [0x03] Work_Zone[2] = 843*
      0x1529 [0x03] Work_Zone[3] = 844*
-     0x152E [0x48] [System] [7831*]:
+     0x152E [0x48] [System] [7832*]:
     → "<Player> fits the automaton with the $3 and the $3."
      0x1531 [0x1C] WAIT(120* ticks)
      0x1534 [0x52] END_LOAD_SCHEDULER: End scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=185*
      0x1543 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[185*, 0*]
      0x1554 [0x1C] WAIT(30* ticks)
-     0x1557 [0x48] [System] [7832*]:
+     0x1557 [0x48] [System] [7833*]:
     → "w...Booting...x"
      0x155A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x155B [0x48] [System] [7834*]:
+     0x155B [0x48] [System] [7835*]:
     → "wConfirming connection status... Impedance alteration in sector 3 detected... Proceeding...x"
      0x155E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x155F [0x48] [System] [7835*]:
+     0x155F [0x48] [System] [7836*]:
     → "wAutonomous system operation at 95...97...99...100%.x"
      0x1562 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1563 [0x1C] WAIT(30* ticks)
-     0x1566 [0x48] [System] [7836*]:
+     0x1566 [0x48] [System] [7837*]:
     → "wSystem scan complete. Commencing startup.x"
      0x1569 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x156A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2469,16 +2469,16 @@ SUBROUTINE_0FBC:
      0x15AA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pa02" with entities [Valkeng (ID: 17010919/0x010390E7), Valkeng (ID: 17010919/0x010390E7)]
      0x15B7 [0x52] END_LOAD_SCHEDULER: End scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=185*
      0x15C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=[185*, 0*]
-     0x15D7 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7837*]:
+     0x15D7 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7838*]:
     → "Confirming Assault mission orders..."
      0x15DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x15DF [0x2B] Valkeng (ID: 17010919/0x010390E7) [7838*]:
+     0x15DF [0x2B] Valkeng (ID: 17010919/0x010390E7) [7839*]:
     → "Mission Name Unspecified Objective: Destroy <Player>"
      0x15E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15E7 [0x4A] Valkeng (ID: 17010919/0x010390E7) looks at LocalPlayer
      0x15F0 [0x52] END_LOAD_SCHEDULER: End scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=185*
      0x15FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[185*, 0*]
-     0x1610 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7839*]:
+     0x1610 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7840*]:
     → "Target located. Executing mission."
      0x1617 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1618 [0x1C] WAIT(60* ticks)
@@ -2547,35 +2547,35 @@ SUBROUTINE_0FBC:
      0x1800 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
      0x1803 [0x1F] MOVE_ENTITY: EventEntity moves to X=-179.729*, Z=156.810*, Y=38.195*
      0x180B [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-     0x180D [0x2B] Qultada (ID: 17010902/0x010390D6) [7806*]:
+     0x180D [0x2B] Qultada (ID: 17010902/0x010390D6) [7807*]:
     → "Talacca Cove..."
      0x1814 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1815 [0x2B] Qultada (ID: 17010902/0x010390D6) [7807*]:
+     0x1815 [0x2B] Qultada (ID: 17010902/0x010390D6) [7808*]:
     → "You remember, don't you? This is the place where you first set out on your path as a corsair..."
      0x181C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x181D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x182E [0x52] END_LOAD_SCHEDULER: End scheduler "h000" with entities [LocalPlayer, LocalPlayer], work=285*
      0x183D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h002" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
      0x184E [0x1C] WAIT(60* ticks)
-     0x1851 [0x2B] Qultada (ID: 17010902/0x010390D6) [7808*]:
+     0x1851 [0x2B] Qultada (ID: 17010902/0x010390D6) [7809*]:
     → "When I first saw your eyes, the potential lying in them made me shiver..."
      0x1858 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1859 [0x1C] WAIT(60* ticks)
-     0x185C [0x2B] Qultada (ID: 17010902/0x010390D6) [7809*]:
+     0x185C [0x2B] Qultada (ID: 17010902/0x010390D6) [7810*]:
     → "And so, I made a wager that you would become what you are today. Do you remember?"
      0x1863 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1864 [0x52] END_LOAD_SCHEDULER: End scheduler "h002" with entities [LocalPlayer, LocalPlayer], work=285*
      0x1873 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-179.985*, z=156.988*, y=38.273*, direction=269.6°*
      0x187C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h001" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
      0x188D [0x1C] WAIT(60* ticks)
-     0x1890 [0x2B] Qultada (ID: 17010902/0x010390D6) [7810*]:
+     0x1890 [0x2B] Qultada (ID: 17010902/0x010390D6) [7811*]:
     → "I won the bet, didn't I, <Player>?"
      0x1897 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1898 [0x2B] Qultada (ID: 17010902/0x010390D6) [7811*]:
+     0x1898 [0x2B] Qultada (ID: 17010902/0x010390D6) [7812*]:
     → "At that time, I felt not only expectation...but anxiety, too."
      0x189F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18A0 [0x1C] WAIT(60* ticks)
-     0x18A3 [0x2B] Qultada (ID: 17010902/0x010390D6) [7812*]:
+     0x18A3 [0x2B] Qultada (ID: 17010902/0x010390D6) [7813*]:
     → "I felt..."
      0x18AA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18AB [0x52] END_LOAD_SCHEDULER: End scheduler "h001" with entities [LocalPlayer, LocalPlayer], work=285*
@@ -2583,17 +2583,17 @@ SUBROUTINE_0FBC:
      0x18CB [0x32] ExtData[1]->MainSpeed = 13* * 0.1
      0x18CE [0x1F] MOVE_ENTITY: EventEntity moves to X=-179.863*, Z=161.443*, Y=38.808*
      0x18D6 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-     0x18D8 [0x2B] Qultada (ID: 17010902/0x010390D6) [7813*]:
+     0x18D8 [0x2B] Qultada (ID: 17010902/0x010390D6) [7814*]:
     → "That someday, I might have to face off against this formidable [man/woman]."
      0x18DF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18E0 [0x1C] WAIT(60* ticks)
      0x18E3 [0x52] END_LOAD_SCHEDULER: End scheduler "h003" with entities [LocalPlayer, LocalPlayer], work=285*
      0x18F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h004" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
      0x1903 [0x1C] WAIT(30* ticks)
-     0x1906 [0x2B] Qultada (ID: 17010902/0x010390D6) [7815*]:
+     0x1906 [0x2B] Qultada (ID: 17010902/0x010390D6) [7816*]:
     → "Not only power... You have wagered your life many times..."
      0x190D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x190E [0x2B] Qultada (ID: 17010902/0x010390D6) [7816*]:
+     0x190E [0x2B] Qultada (ID: 17010902/0x010390D6) [7817*]:
     → "Your face clearly shows the resolution you have earned through your experiences."
      0x1915 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1916 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Qultada (ID: 17010902/0x010390D6)
@@ -2602,17 +2602,17 @@ SUBROUTINE_0FBC:
      0x1925 [0x52] END_LOAD_SCHEDULER: End scheduler "h004" with entities [LocalPlayer, LocalPlayer], work=285*
      0x1934 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h005" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
      0x1945 [0x1C] WAIT(60* ticks)
-     0x1948 [0x2B] Qultada (ID: 17010903/0x010390D7) [7817*]:
+     0x1948 [0x2B] Qultada (ID: 17010903/0x010390D7) [7818*]:
     → "People like you are the most fun to duel against..."
      0x194F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1950 [0x2B] Qultada (ID: 17010903/0x010390D7) [7818*]:
+     0x1950 [0x2B] Qultada (ID: 17010903/0x010390D7) [7819*]:
     → "Such battles make me nearly forget the Imperial hounds I have to deal with during the day..."
      0x1957 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1958 [0x2B] Qultada (ID: 17010903/0x010390D7) [7819*]:
+     0x1958 [0x2B] Qultada (ID: 17010903/0x010390D7) [7820*]:
     → "The tension and excitement of a true match...like walking on a tightrope..."
      0x195F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1960 [0x1C] WAIT(30* ticks)
-     0x1963 [0x2B] Qultada (ID: 17010903/0x010390D7) [7820*]:
+     0x1963 [0x2B] Qultada (ID: 17010903/0x010390D7) [7821*]:
     → "I love that feeling."
      0x196A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x196B [0x1C] WAIT(30* ticks)
@@ -2620,19 +2620,19 @@ SUBROUTINE_0FBC:
      0x197D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h006" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
      0x198E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "cr11" with entities [Qultada (ID: 17010903/0x010390D7), Qultada (ID: 17010903/0x010390D7)], work=866*
      0x199D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "cr11" with entities [Qultada (ID: 17010903/0x010390D7), Qultada (ID: 17010903/0x010390D7)]
-     0x19AA [0x2B] Qultada (ID: 17010903/0x010390D7) [7821*]:
+     0x19AA [0x2B] Qultada (ID: 17010903/0x010390D7) [7822*]:
     → "Let's decide the outcome of this game once and for all, <Player>."
      0x19B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19B2 [0x2B] Qultada (ID: 17010903/0x010390D7) [7822*]:
+     0x19B2 [0x2B] Qultada (ID: 17010903/0x010390D7) [7823*]:
     → "You need not hold back. Come at me with all your might."
      0x19B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19BA [0x1C] WAIT(30* ticks)
      0x19BD [0x52] END_LOAD_SCHEDULER: End scheduler "h006" with entities [LocalPlayer, LocalPlayer], work=285*
      0x19CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h008" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
-     0x19DD [0x2B] Qultada (ID: 17010903/0x010390D7) [7823*]:
+     0x19DD [0x2B] Qultada (ID: 17010903/0x010390D7) [7824*]:
     → "It is time..."
      0x19E4 [0x1C] WAIT(60* ticks)
-     0x19E7 [0x2B] Qultada (ID: 17010903/0x010390D7) [7824*]:
+     0x19E7 [0x2B] Qultada (ID: 17010903/0x010390D7) [7825*]:
     → "Let's play."
      0x19EE [0x1C] WAIT(150* ticks)
      0x19F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2695,7 +2695,7 @@ SUBROUTINE_0FBC:
      0x1BEA [0x01] GOTO 0x1BFE
      0x1BED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s207" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x1BFE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "lst0" with entities [Gessho (ID: 17010923/0x010390EB), Gessho (ID: 17010923/0x010390EB)], work=1025*
-     0x1C0D [0x2B] Gessho (ID: 17010923/0x010390EB) [7913*]:
+     0x1C0D [0x2B] Gessho (ID: 17010923/0x010390EB) [7914*]:
     → "I expected nothing less from you, <Player>..."
      0x1C14 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C15 [0x1C] WAIT(60* ticks)
@@ -2703,7 +2703,7 @@ SUBROUTINE_0FBC:
      0x1C27 [0x52] END_LOAD_SCHEDULER: End scheduler "s207" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1C36 [0x52] END_LOAD_SCHEDULER: End scheduler "s208" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1C45 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x1C56 [0x2B] Gessho (ID: 17010923/0x010390EB) [7914*]:
+     0x1C56 [0x2B] Gessho (ID: 17010923/0x010390EB) [7915*]:
     → "Yet I cannot... I cannot fail..."
      0x1C5D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C5E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "lst1" with entities [Gessho (ID: 17010923/0x010390EB), Gessho (ID: 17010923/0x010390EB)], work=1025*
@@ -2735,12 +2735,12 @@ SUBROUTINE_0FBC:
      0x1D41 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1D52 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
      0x1D61 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x1D70 [0x2B] Gessho (ID: 17010925/0x010390ED) [7915*]:
+     0x1D70 [0x2B] Gessho (ID: 17010925/0x010390ED) [7916*]:
     → "Ugh... I am defeated..."
      0x1D77 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D78 [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1D87 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x1D98 [0x2B] Gessho (ID: 17010925/0x010390ED) [7916*]:
+     0x1D98 [0x2B] Gessho (ID: 17010925/0x010390ED) [7917*]:
     → "But to fall to a warrior such as you, <Player>... I enter Death's hall without shame."
      0x1D9F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DA0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
@@ -2748,32 +2748,32 @@ SUBROUTINE_0FBC:
      0x1DB2 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1DC1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x1DD2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x1DE1 [0x2B] Gessho (ID: 17010925/0x010390ED) [7917*]:
+     0x1DE1 [0x2B] Gessho (ID: 17010925/0x010390ED) [7918*]:
     → "I ask a final mercy of you, <Player>."
      0x1DE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DE9 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1DF8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x1E09 [0x2B] Gessho (ID: 17010925/0x010390ED) [7918*]:
+     0x1E09 [0x2B] Gessho (ID: 17010925/0x010390ED) [7919*]:
     → "Will you strike the blow that sends me to the afterlife?"
      0x1E10 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E11 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
      0x1E20 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1E2F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x1E40 [0x1C] WAIT(60* ticks)
-     0x1E43 [0x24] CREATE_DIALOG(message_id=7919*, default_option=0*, option_flags=0*)
+     0x1E43 [0x24] CREATE_DIALOG(message_id=7920*, default_option=0*, option_flags=0*)
     → "Strike the final blow? [Gladly./I have questions...]"
      0x1E4A [0x25] WAIT_DIALOG_SELECT()
      0x1E4B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2007
      0x1E53 [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1E62 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x1E73 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x1E82 [0x2B] Gessho (ID: 17010925/0x010390ED) [7920*]:
+     0x1E82 [0x2B] Gessho (ID: 17010925/0x010390ED) [7921*]:
     → "You are honorable."
      0x1E89 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E8A [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1E99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x1EAA [0x1C] WAIT(60* ticks)
-     0x1EAD [0x2B] Gessho (ID: 17010925/0x010390ED) [7921*]:
+     0x1EAD [0x2B] Gessho (ID: 17010925/0x010390ED) [7922*]:
     → "May my soul return to the fields of my homeland."
      0x1EB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EB5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
@@ -2781,11 +2781,11 @@ SUBROUTINE_0FBC:
      0x1EC7 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1ED6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x1EE7 [0x1C] WAIT(60* ticks)
-     0x1EEA [0x2B] Gessho (ID: 17010925/0x010390ED) [7922*]:
+     0x1EEA [0x2B] Gessho (ID: 17010925/0x010390ED) [7923*]:
     → "..."
      0x1EF1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EF2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x1F01 [0x2B] Gessho (ID: 17010925/0x010390ED) [7923*]:
+     0x1F01 [0x2B] Gessho (ID: 17010925/0x010390ED) [7924*]:
     → "My tale has reached an end. I await my fate."
      0x1F08 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F09 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
@@ -2794,7 +2794,7 @@ SUBROUTINE_0FBC:
      0x1F22 [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1F31 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x1F42 [0x2A] GET_REQ_LEVEL(level=5, entity_id=LocalPlayer)
-     0x1F48 [0x2B] Gessho (ID: 17010925/0x010390ED) [7924*]:
+     0x1F48 [0x2B] Gessho (ID: 17010925/0x010390ED) [7925*]:
     → "..."
      0x1F4F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F50 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=287*
@@ -2806,12 +2806,12 @@ SUBROUTINE_0FBC:
      0x1F96 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1FA5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x1FB6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dge1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x1FC5 [0x2B] Gessho (ID: 17010925/0x010390ED) [7925*]:
+     0x1FC5 [0x2B] Gessho (ID: 17010925/0x010390ED) [7926*]:
     → "Why do you not strike?"
      0x1FCC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FCD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=287*
      0x1FDC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x1FED [0x2B] Gessho (ID: 17010925/0x010390ED) [7926*]:
+     0x1FED [0x2B] Gessho (ID: 17010925/0x010390ED) [7927*]:
     → "Do the questions in your mind so clamor for answers?"
      0x1FF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FF5 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=287*
@@ -2821,12 +2821,12 @@ SUBROUTINE_0FBC:
      0x201E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x202F [0x1C] WAIT(120* ticks)
      0x2032 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x2041 [0x2B] Gessho (ID: 17010925/0x010390ED) [7928*]:
+     0x2041 [0x2B] Gessho (ID: 17010925/0x010390ED) [7929*]:
     → "The defeated general speaks not of tactics."
      0x2048 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2049 [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2058 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x2069 [0x2B] Gessho (ID: 17010925/0x010390ED) [7929*]:
+     0x2069 [0x2B] Gessho (ID: 17010925/0x010390ED) [7930*]:
     → "No further words shall escape my beak."
      0x2070 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2071 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
@@ -2839,7 +2839,7 @@ SUBROUTINE_0FBC:
      0x20CE [0x1C] WAIT(180* ticks)
      0x20D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=287*
      0x20E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x20F1 [0x2B] Gessho (ID: 17010925/0x010390ED) [7924*]:
+     0x20F1 [0x2B] Gessho (ID: 17010925/0x010390ED) [7925*]:
     → "..."
      0x20F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20F9 [0x1C] WAIT(30* ticks)
@@ -2848,11 +2848,11 @@ SUBROUTINE_0FBC:
      0x211C [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x13)
      0x2123 [0x1C] WAIT(120* ticks)
      0x2126 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x2135 [0x2B] Gessho (ID: 17010925/0x010390ED) [7930*]:
+     0x2135 [0x2B] Gessho (ID: 17010925/0x010390ED) [7931*]:
     → "Hehehe. Your gentle spirit betrays you, mighty <Player>. You are as much a scholar as a soldier..."
      0x213C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x213D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dge1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x214C [0x2B] Gessho (ID: 17010925/0x010390ED) [7931*]:
+     0x214C [0x2B] Gessho (ID: 17010925/0x010390ED) [7932*]:
     → "Do the questions in your mind so clamor for answers?"
      0x2153 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2154 [0x2A] GET_REQ_LEVEL(level=5, entity_id=LocalPlayer)
@@ -2861,25 +2861,25 @@ SUBROUTINE_0FBC:
      0x216C [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
      0x2171 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2182 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dgt2" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x2191 [0x2B] Gessho (ID: 17010925/0x010390ED) [7927*]:
+     0x2191 [0x2B] Gessho (ID: 17010925/0x010390ED) [7928*]:
     → "It seems I must first clear the haze that surrounds my actions."
      0x2198 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2199 [0x2B] Gessho (ID: 17010925/0x010390ED) [7932*]:
+     0x2199 [0x2B] Gessho (ID: 17010925/0x010390ED) [7933*]:
     → "Hehehe... The Gessho you thought you knew is, in truth..."
      0x21A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21A1 [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=287*
      0x21B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x21C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dge2" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1027*
-     0x21D0 [0x2B] Gessho (ID: 17010925/0x010390ED) [7933*]:
+     0x21D0 [0x2B] Gessho (ID: 17010925/0x010390ED) [7934*]:
     → "...a Far Eastern spy!"
      0x21D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x21D8 [0x2B] Gessho (ID: 17010925/0x010390ED) [7922*]:
+     0x21D8 [0x2B] Gessho (ID: 17010925/0x010390ED) [7923*]:
     → "..."
      0x21DF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21E0 [0x52] END_LOAD_SCHEDULER: End scheduler "s049" with entities [LocalPlayer, LocalPlayer], work=287*
      0x21EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2200 [0x1C] WAIT(60* ticks)
-     0x2203 [0x2B] Gessho (ID: 17010925/0x010390ED) [7934*]:
+     0x2203 [0x2B] Gessho (ID: 17010925/0x010390ED) [7935*]:
     → "Are you shaken by my true identity?"
      0x220A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x220B [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=287*
@@ -2903,7 +2903,7 @@ SUBROUTINE_0FBC:
      0x22BF [0x01] GOTO 0x22D3
      0x22C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x22D3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sha0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=254*
-     0x22E2 [0x24] CREATE_DIALOG(message_id=7935*, default_option=0*, option_flags=0*)
+     0x22E2 [0x24] CREATE_DIALOG(message_id=7936*, default_option=0*, option_flags=0*)
     → "Are you shaken? [To the core!/Not particularly...]"
      0x22E9 [0x25] WAIT_DIALOG_SELECT()
      0x22EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x23A8
@@ -2917,12 +2917,12 @@ SUBROUTINE_0FBC:
      0x233D [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=287*
      0x234C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sha1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=254*
      0x235B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x236C [0x2B] Gessho (ID: 17010925/0x010390ED) [7936*]:
+     0x236C [0x2B] Gessho (ID: 17010925/0x010390ED) [7937*]:
     → "As well you should be."
      0x2373 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2374 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)]
      0x2381 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sry1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1026*
-     0x2390 [0x2B] Gessho (ID: 17010925/0x010390ED) [7937*]:
+     0x2390 [0x2B] Gessho (ID: 17010925/0x010390ED) [7938*]:
     → "We have always dealt in good faith--I apologize for the deception."
      0x2397 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2398 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sry1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)]
@@ -2938,10 +2938,10 @@ SUBROUTINE_0FBC:
      0x23FB [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=287*
      0x240A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x241B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sha1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=254*
-     0x242A [0x2B] Gessho (ID: 17010925/0x010390ED) [7938*]:
+     0x242A [0x2B] Gessho (ID: 17010925/0x010390ED) [7939*]:
     → "I must admit to some embarrassment. This guise was meant to be flawless."
      0x2431 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2432 [0x2B] Gessho (ID: 17010925/0x010390ED) [7939*]:
+     0x2432 [0x2B] Gessho (ID: 17010925/0x010390ED) [7940*]:
     → "It appears my espionage skills are not as developed as I had thought..."
      0x2439 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x243A [0x01] GOTO 0x243D
@@ -2952,123 +2952,123 @@ SUBROUTINE_0FBC:
      0x2455 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2464 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2475 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x2484 [0x2B] Gessho (ID: 17010925/0x010390ED) [7940*]:
+     0x2484 [0x2B] Gessho (ID: 17010925/0x010390ED) [7941*]:
     → "It was one year and several months past..."
      0x248B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x248C [0x2B] Gessho (ID: 17010925/0x010390ED) [7941*]:
+     0x248C [0x2B] Gessho (ID: 17010925/0x010390ED) [7942*]:
     → "I received my orders directly from the Mikado, and departed the islands of the East."
      0x2493 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2494 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
      0x24A3 [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [LocalPlayer, LocalPlayer], work=287*
      0x24B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s188" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x24C3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x24D2 [0x2B] Gessho (ID: 17010925/0x010390ED) [7942*]:
+     0x24D2 [0x2B] Gessho (ID: 17010925/0x010390ED) [7943*]:
     → "My prime concern was to ascertain the truth behind a report that the Empire was developing a strategy to break the stalemate on the frontline of the war, and to sabotage any such strategy found to exist."
      0x24D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x24DA [0x52] END_LOAD_SCHEDULER: End scheduler "s188" with entities [LocalPlayer, LocalPlayer], work=287*
      0x24E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x24FA [0x2B] Gessho (ID: 17010925/0x010390ED) [7943*]:
+     0x24FA [0x2B] Gessho (ID: 17010925/0x010390ED) [7944*]:
     → "Thinking the enemy of my enemy to be my friend, I forged an alliance with the fearsome beastmen of this region."
      0x2501 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2502 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
      0x2511 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2520 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s189" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2531 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x2540 [0x2B] Gessho (ID: 17010925/0x010390ED) [7944*]:
+     0x2540 [0x2B] Gessho (ID: 17010925/0x010390ED) [7945*]:
     → "But as ill fortune would have it, they knew little of the Empire's plans beyond the Astral Candescence and the role of the automatons..."
      0x2547 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2548 [0x2B] Gessho (ID: 17010925/0x010390ED) [7945*]:
+     0x2548 [0x2B] Gessho (ID: 17010925/0x010390ED) [7946*]:
     → "The beastmen of Aht Urhgan were as ferociously powerful as I had anticipated, but their methods were brutal and unsophisticated. There were few among them in which I could place my trust."
      0x254F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2550 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
      0x255F [0x52] END_LOAD_SCHEDULER: End scheduler "s189" with entities [LocalPlayer, LocalPlayer], work=287*
      0x256E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s190" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x257F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x258E [0x2B] Gessho (ID: 17010925/0x010390ED) [7946*]:
+     0x258E [0x2B] Gessho (ID: 17010925/0x010390ED) [7947*]:
     → "And their assaults on the innocent citizens of Al Zahbi were more than I could countenance..."
      0x2595 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2596 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
      0x25A5 [0x52] END_LOAD_SCHEDULER: End scheduler "s190" with entities [LocalPlayer, LocalPlayer], work=287*
      0x25B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x25C5 [0x27] REQ_SET(priority=0x05, entity_id=Gessho (ID: 17010925/0x010390ED), tag_num=0x02)
-     0x25CC [0x2B] Gessho (ID: 17010925/0x010390ED) [7947*]:
+     0x25CC [0x2B] Gessho (ID: 17010925/0x010390ED) [7948*]:
     → "I had to look elsewhere for allies."
      0x25D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x25D4 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Gessho (ID: 17010925/0x010390ED))
      0x25DA [0x4A] LocalPlayer looks at Gessho (ID: 17010925/0x010390ED)
-     0x25E3 [0x2B] Gessho (ID: 17010925/0x010390ED) [7948*]:
+     0x25E3 [0x2B] Gessho (ID: 17010925/0x010390ED) [7949*]:
     → "And I found one in the form of Admiral Luzaf, the leader of those abominations, and a being we have faced before in battle."
      0x25EA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x25EB [0x52] END_LOAD_SCHEDULER: End scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=287*
      0x25FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s191" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x260B [0x2B] Gessho (ID: 17010925/0x010390ED) [7949*]:
+     0x260B [0x2B] Gessho (ID: 17010925/0x010390ED) [7950*]:
     → "But I misspeak. The corsairs are not the abominations here."
      0x2612 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2613 [0x52] END_LOAD_SCHEDULER: End scheduler "s191" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2622 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2633 [0x4B] UPDATE_ENTITY_YAW(entity=Gessho (ID: 17010925/0x010390ED), yaw=16.5°*)
      0x263A [0x1C] WAIT(30* ticks)
-     0x263D [0x2B] Gessho (ID: 17010925/0x010390ED) [7950*]:
+     0x263D [0x2B] Gessho (ID: 17010925/0x010390ED) [7951*]:
     → "After an honest and extensive conversation with the admiral, I found him to be a most attentive and honorable man."
      0x2644 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2645 [0x52] END_LOAD_SCHEDULER: End scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2654 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2665 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x2674 [0x2B] Gessho (ID: 17010925/0x010390ED) [7951*]:
+     0x2674 [0x2B] Gessho (ID: 17010925/0x010390ED) [7952*]:
     → "Admiral Luzaf grasped my hand and said thus:"
      0x267B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x267C [0x2B] Gessho (ID: 17010925/0x010390ED) [7952*]:
+     0x267C [0x2B] Gessho (ID: 17010925/0x010390ED) [7953*]:
     → ""Let yesterday's quarrels be forgotten as we stand together against the might of the Empire.""
      0x2683 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2684 [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2693 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x26A4 [0x2B] Gessho (ID: 17010925/0x010390ED) [7953*]:
+     0x26A4 [0x2B] Gessho (ID: 17010925/0x010390ED) [7954*]:
     → "Through his diminutive vassal, Master Flit, Admiral Luzaf also promised a sizeable contribution from the recovered Ephramadian treasury to ease the suffering of my battered, war-torn homeland."
      0x26AB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x26AC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
      0x26BB [0x52] END_LOAD_SCHEDULER: End scheduler "s055" with entities [LocalPlayer, LocalPlayer], work=287*
      0x26CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s056" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x26DB [0x2B] Gessho (ID: 17010925/0x010390ED) [7954*]:
+     0x26DB [0x2B] Gessho (ID: 17010925/0x010390ED) [7955*]:
     → "Now his generous offer of aid shall never reach those shores..."
      0x26E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x26E3 [0x52] END_LOAD_SCHEDULER: End scheduler "s056" with entities [LocalPlayer, LocalPlayer], work=287*
      0x26F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s192" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2703 [0x4A] Gessho (ID: 17010925/0x010390ED) looks at LocalPlayer
-     0x270C [0x2B] Gessho (ID: 17010925/0x010390ED) [7955*]:
+     0x270C [0x2B] Gessho (ID: 17010925/0x010390ED) [7956*]:
     → "I have failed in my promise to Master Flit... The contents of the treasury shall fall into the hands of an Imperial agent."
      0x2713 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2714 [0x1C] WAIT(60* ticks)
      0x2717 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x2726 [0x2B] Gessho (ID: 17010925/0x010390ED) [7956*]:
+     0x2726 [0x2B] Gessho (ID: 17010925/0x010390ED) [7957*]:
     → "Ah, I do not hold any anger towards you, <Player>."
      0x272D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x272E [0x7B] Gessho (ID: 17010925/0x010390ED) stops talking
      0x2733 [0x52] END_LOAD_SCHEDULER: End scheduler "s192" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2742 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x2753 [0x2B] Gessho (ID: 17010925/0x010390ED) [7957*]:
+     0x2753 [0x2B] Gessho (ID: 17010925/0x010390ED) [7958*]:
     → "You have but acted out of love for your nation, and to protect those you care about. Is this not true?"
      0x275A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x275B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
      0x276A [0x52] END_LOAD_SCHEDULER: End scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2779 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x278A [0x03] ExtData[1]->WorkLocal[34] = 0*
-     0x278F [0x24] CREATE_DIALOG(message_id=7958*, default_option=0*, option_flags=ExtData[1]->WorkLocal[34])
+     0x278F [0x24] CREATE_DIALOG(message_id=7959*, default_option=0*, option_flags=ExtData[1]->WorkLocal[34])
     → "Explain your circumstances? [Lay it on the table./Keep it to yourself.]"
      0x2796 [0x25] WAIT_DIALOG_SELECT()
      0x2797 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x284F
      0x279F [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=287*
      0x27AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x27BF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x27CE [0x2B] Gessho (ID: 17010925/0x010390ED) [7959*]:
+     0x27CE [0x2B] Gessho (ID: 17010925/0x010390ED) [7960*]:
     → "I have revealed all."
      0x27D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x27D6 [0x52] END_LOAD_SCHEDULER: End scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=287*
      0x27E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x27F6 [0x2B] Gessho (ID: 17010925/0x010390ED) [7960*]:
+     0x27F6 [0x2B] Gessho (ID: 17010925/0x010390ED) [7961*]:
     → "And now there is something I wish to ask before my demise."
      0x27FD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x27FE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x280D [0x2B] Gessho (ID: 17010925/0x010390ED) [7961*]:
+     0x280D [0x2B] Gessho (ID: 17010925/0x010390ED) [7962*]:
     → "How were you able to uncover this cunningly concealed treasure?"
      0x2814 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2815 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
@@ -3085,23 +3085,23 @@ SUBROUTINE_0FBC:
      0x2892 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x28A3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
      0x28B2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=254*
-     0x28C1 [0x2B] Gessho (ID: 17010925/0x010390ED) [7962*]:
+     0x28C1 [0x2B] Gessho (ID: 17010925/0x010390ED) [7963*]:
     → "This is an unexpected turn of events."
      0x28C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x28C9 [0x2B] Gessho (ID: 17010925/0x010390ED) [7963*]:
+     0x28C9 [0x2B] Gessho (ID: 17010925/0x010390ED) [7964*]:
     → "While I am given leave to take this bounty, you, <Player>, are ordered to protect it."
      0x28D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x28D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=287*
      0x28E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x28F1 [0x2B] Gessho (ID: 17010925/0x010390ED) [7964*]:
+     0x28F1 [0x2B] Gessho (ID: 17010925/0x010390ED) [7965*]:
     → "I do not believe Admiral Luzaf would play us false... His passion and valor are no act."
      0x28F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x28F9 [0x2B] Gessho (ID: 17010925/0x010390ED) [7965*]:
+     0x28F9 [0x2B] Gessho (ID: 17010925/0x010390ED) [7966*]:
     → "That would leave the possibility that Master Flit acted under his own initiative."
      0x2900 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2901 [0x52] END_LOAD_SCHEDULER: End scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2910 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
-     0x2921 [0x2B] Gessho (ID: 17010925/0x010390ED) [7966*]:
+     0x2921 [0x2B] Gessho (ID: 17010925/0x010390ED) [7967*]:
     → "Why would he scheme to send you away from Luzaf's side, to presumably be slain by me...?"
      0x2928 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2929 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=254*
@@ -3109,34 +3109,34 @@ SUBROUTINE_0FBC:
      0x293B [0x52] END_LOAD_SCHEDULER: End scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=287*
      0x294A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x295B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sou0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=971*
-     0x296A [0x2B] Gessho (ID: 17010925/0x010390ED) [7967*]:
+     0x296A [0x2B] Gessho (ID: 17010925/0x010390ED) [7968*]:
     → "I believe I have the answer!"
      0x2971 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2972 [0x1C] WAIT(20* ticks)
      0x2975 [0x52] END_LOAD_SCHEDULER: End scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2984 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2995 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x29A4 [0x2B] Gessho (ID: 17010925/0x010390ED) [7968*]:
+     0x29A4 [0x2B] Gessho (ID: 17010925/0x010390ED) [7969*]:
     → "Luzaf's proposed journey to the Hazhalm Testing Grounds plays right into Master Flit's nasty little claws."
      0x29AB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x29AC [0x2B] Gessho (ID: 17010925/0x010390ED) [7969*]:
+     0x29AC [0x2B] Gessho (ID: 17010925/0x010390ED) [7970*]:
     → "With Lady Aphmau's guardian off on a fool's errand, there are none to prevent harm coming to her Imperial person."
      0x29B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x29B4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
      0x29C3 [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=287*
      0x29D2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s193" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x29E3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x29F2 [0x2B] Gessho (ID: 17010925/0x010390ED) [7970*]:
+     0x29F2 [0x2B] Gessho (ID: 17010925/0x010390ED) [7971*]:
     → "<Player>! As one who also walks in shadow, I could imagine such manipulation from an underworld being like Flit."
      0x29F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x29FA [0x2B] Gessho (ID: 17010925/0x010390ED) [7971*]:
+     0x29FA [0x2B] Gessho (ID: 17010925/0x010390ED) [7972*]:
     → "Your little master's life is in danger."
      0x2A01 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2A02 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
      0x2A11 [0x52] END_LOAD_SCHEDULER: End scheduler "s193" with entities [LocalPlayer, LocalPlayer], work=287*
      0x2A20 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s195" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2A31 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sry0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=1026*
-     0x2A40 [0x2B] Gessho (ID: 17010925/0x010390ED) [7972*]:
+     0x2A40 [0x2B] Gessho (ID: 17010925/0x010390ED) [7973*]:
     → "I swear to you by the heavens and the earth, I will not lay a talon on this treasure."
      0x2A47 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2A48 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sry0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)]
@@ -3144,7 +3144,7 @@ SUBROUTINE_0FBC:
      0x2A64 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=[287*, 0*]
      0x2A75 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=300*)
      0x2A7A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gessho (ID: 17010925/0x010390ED), Gessho (ID: 17010925/0x010390ED)], work=792*
-     0x2A89 [0x2B] Gessho (ID: 17010925/0x010390ED) [7973*]:
+     0x2A89 [0x2B] Gessho (ID: 17010925/0x010390ED) [7974*]:
     → "You must make all haste to Lady Aphmau's side! To Hazhalm!"
      0x2A90 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2A91 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3181,7 +3181,7 @@ SUBROUTINE_0FBC:
      0x2B65 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[185*, 0*]
      0x2B76 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x2B87 [0x1C] WAIT(60* ticks)
-     0x2B8A [0x2B] Valkeng (ID: 17010919/0x010390E7) [7840*]:
+     0x2B8A [0x2B] Valkeng (ID: 17010919/0x010390E7) [7841*]:
     → "Mission...failed... Loading voice data from memory... Playing..."
      0x2B91 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2B92 [0x1C] WAIT(60* ticks)
@@ -3190,30 +3190,30 @@ SUBROUTINE_0FBC:
      0x2BB5 [0x1C] WAIT(30* ticks)
      0x2BB8 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 163*
      0x2BBC [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 163*
-     0x2BC0 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7841*]:
+     0x2BC0 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7842*]:
     → "Ahem... Good day to you. This is Shamarhaan."
      0x2BC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2BC8 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7842*]:
+     0x2BC8 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7843*]:
     → "It would seem that you managed to defeat my automaton. Excellent work."
      0x2BCF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2BD0 [0x52] END_LOAD_SCHEDULER: End scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=185*
      0x2BDF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=[185*, 0*]
-     0x2BF0 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7843*]:
+     0x2BF0 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7844*]:
     → "This particular automaton commanded other combat automatons during battles between the Empire and the Undead Swarm."
      0x2BF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2BF8 [0x1C] WAIT(30* ticks)
-     0x2BFB [0x2B] Valkeng (ID: 17010919/0x010390E7) [7844*]:
+     0x2BFB [0x2B] Valkeng (ID: 17010919/0x010390E7) [7845*]:
     → "While it may look no different from any other automaton, it contains advanced technology, such as components from the Olduum civilization."
      0x2C02 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2C03 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7845*]:
+     0x2C03 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7846*]:
     → "Even though it is an old model, its combat abilities far surpass those of a regular automaton. I wouldn't expect anyone to be able to defeat it under normal circumstances."
      0x2C0A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2C0B [0x52] END_LOAD_SCHEDULER: End scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=185*
      0x2C1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z010" with entities [LocalPlayer, LocalPlayer], work=[185*, 0*]
-     0x2C2B [0x2B] Valkeng (ID: 17010919/0x010390E7) [7846*]:
+     0x2C2B [0x2B] Valkeng (ID: 17010919/0x010390E7) [7847*]:
     → "So, why do you think you were able to defeat this automaton?"
      0x2C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2C33 [0x24] CREATE_DIALOG(message_id=7847*, default_option=0*, option_flags=0*)
+     0x2C33 [0x24] CREATE_DIALOG(message_id=7848*, default_option=0*, option_flags=0*)
     → "Why were you victorious? [It was one-on-one./Shamarhaan wasn't here./My automaton is stronger.]"
      0x2C3A [0x25] WAIT_DIALOG_SELECT()
      0x2C3B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2C46
@@ -3221,24 +3221,24 @@ SUBROUTINE_0FBC:
      0x2C46 [0x52] END_LOAD_SCHEDULER: End scheduler "z010" with entities [LocalPlayer, LocalPlayer], work=185*
      0x2C55 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=[185*, 0*]
      0x2C66 [0x1C] WAIT(30* ticks)
-     0x2C69 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7848*]:
+     0x2C69 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7849*]:
     → "That's right."
      0x2C70 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2C71 [0x1C] WAIT(30* ticks)
-     0x2C74 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7849*]:
+     0x2C74 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7850*]:
     → "But in truth, there's no way for me to know how you answered... I can't hear you, after all."
      0x2C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2C7C [0x52] END_LOAD_SCHEDULER: End scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=185*
      0x2C8B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z012" with entities [LocalPlayer, LocalPlayer], work=[185*, 0*]
      0x2C9C [0x1C] WAIT(30* ticks)
-     0x2C9F [0x2B] Valkeng (ID: 17010919/0x010390E7) [7850*]:
+     0x2C9F [0x2B] Valkeng (ID: 17010919/0x010390E7) [7851*]:
     → "However, the fact that you succeeded proves that you already possess the most valuable thing a puppeteer can have."
      0x2CA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2CA7 [0x1C] WAIT(60* ticks)
-     0x2CAA [0x2B] Valkeng (ID: 17010919/0x010390E7) [7851*]:
+     0x2CAA [0x2B] Valkeng (ID: 17010919/0x010390E7) [7852*]:
     → "I will tell you what that is in person... You've come a long way..."
      0x2CB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2CB2 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7852*]:
+     0x2CB2 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7853*]:
     → "That's all I have to say for now..."
      0x2CB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2CBA [0x52] END_LOAD_SCHEDULER: End scheduler "z012" with entities [LocalPlayer, LocalPlayer], work=185*
@@ -3246,11 +3246,11 @@ SUBROUTINE_0FBC:
      0x2CDA [0x1C] WAIT(60* ticks)
      0x2CDD [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
      0x2CE1 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
-     0x2CE5 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7853*]:
+     0x2CE5 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7854*]:
     → "Oh, one last thing... This automaton is designed to self-destruct ten seconds after this voice playback ends..."
      0x2CEC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2CED [0x1C] WAIT(120* ticks)
-     0x2CF0 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7854*]:
+     0x2CF0 [0x2B] Valkeng (ID: 17010919/0x010390E7) [7855*]:
     → "<Beep>... End of message."
      0x2CF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2CF8 [0x52] END_LOAD_SCHEDULER: End scheduler "z013" with entities [LocalPlayer, LocalPlayer], work=185*
@@ -3296,29 +3296,29 @@ SUBROUTINE_0FBC:
      0x2E34 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h010" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
      0x2E45 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x2E56 [0x1C] WAIT(90* ticks)
-     0x2E59 [0x2B] Qultada (ID: 17010902/0x010390D6) [7825*]:
+     0x2E59 [0x2B] Qultada (ID: 17010902/0x010390D6) [7826*]:
     → "Impressive."
      0x2E60 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2E61 [0x1C] WAIT(60* ticks)
      0x2E64 [0x52] END_LOAD_SCHEDULER: End scheduler "h010" with entities [LocalPlayer, LocalPlayer], work=285*
      0x2E73 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h011" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
      0x2E84 [0x1C] WAIT(60* ticks)
-     0x2E87 [0x2B] Qultada (ID: 17010902/0x010390D6) [7826*]:
+     0x2E87 [0x2B] Qultada (ID: 17010902/0x010390D6) [7827*]:
     → "I am glad to have you as a member of my crew."
      0x2E8E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2E8F [0x2B] Qultada (ID: 17010902/0x010390D6) [7827*]:
+     0x2E8F [0x2B] Qultada (ID: 17010902/0x010390D6) [7828*]:
     → "I haven't played such an enjoyable game in years..."
      0x2E96 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2E97 [0x52] END_LOAD_SCHEDULER: End scheduler "h011" with entities [LocalPlayer, LocalPlayer], work=285*
      0x2EA6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h012" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
      0x2EB7 [0x1C] WAIT(60* ticks)
-     0x2EBA [0x2B] Qultada (ID: 17010902/0x010390D6) [7828*]:
+     0x2EBA [0x2B] Qultada (ID: 17010902/0x010390D6) [7829*]:
     → "With your good fortune, you could break the very bonds of fate. Soar high, Seagull."
      0x2EC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2EC2 [0x52] END_LOAD_SCHEDULER: End scheduler "h012" with entities [LocalPlayer, LocalPlayer], work=285*
      0x2ED1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "h013" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
      0x2EE2 [0x1C] WAIT(60* ticks)
-     0x2EE5 [0x2B] Qultada (ID: 17010902/0x010390D6) [7829*]:
+     0x2EE5 [0x2B] Qultada (ID: 17010902/0x010390D6) [7830*]:
     → "You have nothing to fear from those chained to the land. No one can defeat you, <Player>."
      0x2EEC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2EED [0x1C] WAIT(120* ticks)
@@ -3333,7 +3333,7 @@ SUBROUTINE_0FBC:
      0x2F30 [0x1C] WAIT(120* ticks)
      0x2F33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
      0x2F44 [0x1B] RETURN
-     0x2F45 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+     0x2F45 [0x24] CREATE_DIALOG(message_id=7330*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x2F4C [0x25] WAIT_DIALOG_SELECT()
      0x2F4D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2F5B
@@ -3797,10 +3797,10 @@ SUBROUTINE_0FBC:
  45: 0x330F [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=266*
  46: 0x331E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
  47: 0x332F [0x1C] WAIT(60* ticks)
- 48: 0x3332 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7731*]:
+ 48: 0x3332 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7732*]:
     → "Hey, that Galka looks just like the guy in the Seagull Phratrie..."
  49: 0x3339 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x333A [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7732*]:
+ 50: 0x333A [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7733*]:
     → "Wait a minute... That guy with him... It's an Imperial soldier from Whitegate!"
  51: 0x3341 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x3342 [0x1C] WAIT(60* ticks)
@@ -3811,11 +3811,11 @@ SUBROUTINE_0FBC:
  57: 0x336F [0x27] REQ_SET(priority=0x10, entity_id=Yazquhl (ID: 17010900/0x010390D4), tag_num=0x02)
  58: 0x3376 [0x1C] WAIT(120* ticks)
  59: 0x3379 [0x7C] Wasuhd (ID: 17010899/0x010390D3)->Render.Flags2 |= 0x01
- 60: 0x337F [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7733*]:
+ 60: 0x337F [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7734*]:
     → "I...I think that Galka is the one who has been leaking information about the Phratrie..."
  61: 0x3386 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x3387 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Yazquhl (ID: 17010900/0x010390D4), tag_num=0x03)
- 63: 0x338E [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7734*]:
+ 63: 0x338E [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7735*]:
     → "Come on, let's go get them and turn them in to Qultada!"
  64: 0x3395 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x3396 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=266*
@@ -3831,15 +3831,15 @@ SUBROUTINE_0FBC:
  75: 0x33F4 [0x79] Gowam (ID: 17010901/0x010390D5) looks at Wasuhd (ID: 17010899/0x010390D3) (Basic look)
  76: 0x33FE [0x79] Wasuhd (ID: 17010899/0x010390D3) looks at Yazquhl (ID: 17010900/0x010390D4) (Basic look)
  77: 0x3408 [0x1C] WAIT(60* ticks)
- 78: 0x340B [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7735*]:
+ 78: 0x340B [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7736*]:
     → "It looks like this pipsqueak's been snooping in on our conversation..."
  79: 0x3412 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x3413 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7736*]:
+ 80: 0x3413 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7737*]:
     → "A friend of yours, Gowam?"
  81: 0x341A [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x341B [0x79] Wasuhd (ID: 17010899/0x010390D3) looks at Gowam (ID: 17010901/0x010390D5) (Basic look)
  83: 0x3425 [0x1C] WAIT(60* ticks)
- 84: 0x3428 [0x2B] Gowam (ID: 17010901/0x010390D5) [7737*]:
+ 84: 0x3428 [0x2B] Gowam (ID: 17010901/0x010390D5) [7738*]:
     → "Well, this kid is the brother o' one of the corsairs, and the [man/woman] with him is apparently an adventurer."
  85: 0x342F [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x3430 [0x79] Wasuhd (ID: 17010899/0x010390D3) looks at Yazquhl (ID: 17010900/0x010390D4) (Basic look)
@@ -3882,46 +3882,46 @@ SUBROUTINE_0FBC:
 123: 0x356D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 124: 0x357E [0x7B] Yazquhl (ID: 17010900/0x010390D4) stops talking
 125: 0x3583 [0x1C] WAIT(60* ticks)
-126: 0x3586 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7738*]:
+126: 0x3586 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7739*]:
     → "Kid, you've got your whole life ahead of you. Don't throw it away mingling with the likes of the corsairs."
 127: 0x358D [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x358E [0x1C] WAIT(30* ticks)
-129: 0x3591 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7739*]:
+129: 0x3591 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7740*]:
     → "What am I saying? You've already ruined it all by being too nosy..."
 130: 0x3598 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x3599 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "0010" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 132: 0x35AA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "cr01" with entities [Yazquhl (ID: 17010900/0x010390D4), Yazquhl (ID: 17010900/0x010390D4)], work=846*
 133: 0x35B9 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "cr01" with entities [Yazquhl (ID: 17010900/0x010390D4), Yazquhl (ID: 17010900/0x010390D4)]
-134: 0x35C6 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7740*]:
+134: 0x35C6 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7741*]:
     → "Your life is going to be cut short here either way."
 135: 0x35CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x35CE [0x1C] WAIT(60* ticks)
 137: 0x35D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=266*
 138: 0x35E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-139: 0x35F1 [0x2B] Gowam (ID: 17010901/0x010390D5) [7741*]:
+139: 0x35F1 [0x2B] Gowam (ID: 17010901/0x010390D5) [7742*]:
     → "There's no point in resisting. You'll be able t' meet your brother soon."
 140: 0x35F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x35F9 [0x1C] WAIT(60* ticks)
-142: 0x35FC [0x2B] Gowam (ID: 17010901/0x010390D5) [7742*]:
+142: 0x35FC [0x2B] Gowam (ID: 17010901/0x010390D5) [7743*]:
     → "The corsairs are already headed into a trap, thanks t' the false information I gave them. The Seagull Phratrie is a lost cause."
 143: 0x3603 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x3604 [0x79] Wasuhd (ID: 17010899/0x010390D3) looks at Gowam (ID: 17010901/0x010390D5) (Basic look)
 145: 0x360E [0x1C] WAIT(60* ticks)
 146: 0x3611 [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=266*
 147: 0x3620 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-148: 0x3631 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7743*]:
+148: 0x3631 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7744*]:
     → "You're a bad man! Why would you do such a thing?"
 149: 0x3638 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x3639 [0x1C] WAIT(60* ticks)
 151: 0x363C [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=266*
 152: 0x364B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-153: 0x365C [0x2B] Gowam (ID: 17010901/0x010390D5) [7744*]:
+153: 0x365C [0x2B] Gowam (ID: 17010901/0x010390D5) [7745*]:
     → "I used t' be a Bastore Sea pirate. I've got no obligation or empathy for the corsairs. I just go where my nose for profit leads me."
 154: 0x3663 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x3664 [0x1C] WAIT(60* ticks)
 156: 0x3667 [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=266*
 157: 0x3676 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-158: 0x3687 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7745*]:
+158: 0x3687 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7746*]:
     → "That's enough talk."
 159: 0x368E [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x368F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "4038" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
@@ -3931,7 +3931,7 @@ SUBROUTINE_0FBC:
 164: 0x36C2 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x0B)
 165: 0x36C9 [0x27] REQ_SET(priority=0x10, entity_id=Yazquhl (ID: 17010900/0x010390D4), tag_num=0x05)
 166: 0x36D0 [0x1C] WAIT(310* ticks)
-167: 0x36D3 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7746*]:
+167: 0x36D3 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7747*]:
     → "Your time has come, kid. Just remember--if you want to blame someone for your misfortune, then lay it on the corsairs."
 168: 0x36DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x36DB [0x2A] GET_REQ_LEVEL(level=16, entity_id=Yazquhl (ID: 17010900/0x010390D4))
@@ -3952,7 +3952,7 @@ SUBROUTINE_0FBC:
 184: 0x3776 [0x1C] WAIT(50* ticks)
 185: 0x3779 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [Unnamed NPC (ID: 17010916/0x010390E4), Unnamed NPC (ID: 17010916/0x010390E4)], work=[217*, 0*]
 186: 0x378A [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [Unnamed NPC (ID: 17010917/0x010390E5), Unnamed NPC (ID: 17010917/0x010390E5)], work=[218*, 0*]
-187: 0x379B [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7747*]:
+187: 0x379B [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7748*]:
     → "What the hell!?"
 188: 0x37A2 [0x1C] WAIT(80* ticks)
 189: 0x37A5 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Qultada (ID: 17010902/0x010390D6))
@@ -3968,7 +3968,7 @@ SUBROUTINE_0FBC:
 199: 0x3811 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 200: 0x3822 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sit0" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)], work=76*
 201: 0x3831 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sit0" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)]
-202: 0x383E [0x2B] Qultada (ID: 17010902/0x010390D6) [7748*]:
+202: 0x383E [0x2B] Qultada (ID: 17010902/0x010390D6) [7749*]:
     → "Hmph. I have never come across such a reckless child."
 203: 0x3845 [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x3846 [0x7B] Wasuhd (ID: 17010899/0x010390D3) stops talking
@@ -3977,7 +3977,7 @@ SUBROUTINE_0FBC:
 207: 0x385D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 208: 0x386E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sit1" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)], work=76*
 209: 0x387D [0x4A] Gowam (ID: 17010901/0x010390D5) looks at Qultada (ID: 17010902/0x010390D6)
-210: 0x3886 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7749*]:
+210: 0x3886 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7750*]:
     → "Qultada!"
 211: 0x388D [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x388E [0x1C] WAIT(90* ticks)
@@ -3987,10 +3987,10 @@ SUBROUTINE_0FBC:
 216: 0x38B7 [0x1C] WAIT(3* ticks)
 217: 0x38BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 218: 0x38CB [0x27] REQ_SET(priority=0x10, entity_id=Gowam (ID: 17010901/0x010390D5), tag_num=0x04)
-219: 0x38D2 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7750*]:
+219: 0x38D2 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7751*]:
     → "What is the meaning of this, Gowam?"
 220: 0x38D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-221: 0x38DA [0x2B] Gowam (ID: 17010901/0x010390D5) [7751*]:
+221: 0x38DA [0x2B] Gowam (ID: 17010901/0x010390D5) [7752*]:
     → "What are you doing here? You were supposed to be chasing after the Immortals!"
 222: 0x38E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x38E2 [0x1C] WAIT(45* ticks)
@@ -4004,21 +4004,21 @@ SUBROUTINE_0FBC:
 231: 0x392A [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 184*
 232: 0x392E [0x9A] WAIT_MUSIC_SERVER()
 233: 0x392F [0x1C] WAIT(60* ticks)
-234: 0x3932 [0x2B] Qultada (ID: 17010902/0x010390D6) [7752*]:
+234: 0x3932 [0x2B] Qultada (ID: 17010902/0x010390D6) [7753*]:
     → "Why, Gowam, you should know that the most fundamental principle of any game is to know your opponent."
 235: 0x3939 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x393A [0x1C] WAIT(120* ticks)
 237: 0x393D [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=266*
 238: 0x394C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 239: 0x395D [0x1C] WAIT(60* ticks)
-240: 0x3960 [0x2B] Qultada (ID: 17010902/0x010390D6) [7753*]:
+240: 0x3960 [0x2B] Qultada (ID: 17010902/0x010390D6) [7754*]:
     → "I don't know how much gil this gentleman has promised you, but your greed doesn't say much for the pirates of the Bastore."
 241: 0x3967 [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x3968 [0x1C] WAIT(60* ticks)
 243: 0x396B [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=266*
 244: 0x397A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [Gowam (ID: 17010901/0x010390D5), Gowam (ID: 17010901/0x010390D5)], work=60*
 245: 0x3989 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-246: 0x399A [0x2B] Gowam (ID: 17010901/0x010390D5) [7754*]:
+246: 0x399A [0x2B] Gowam (ID: 17010901/0x010390D5) [7755*]:
     → "Why, you..."
 247: 0x39A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x39A2 [0x1C] WAIT(60* ticks)
@@ -4029,20 +4029,20 @@ SUBROUTINE_0FBC:
 253: 0x39CD [0x6B] STOP_AND_IDLE: Gowam (ID: 17010901/0x010390D5) stops current action and resets to idle (animation="idl0")
 254: 0x39D6 [0x79] Yazquhl (ID: 17010900/0x010390D4) looks at Qultada (ID: 17010902/0x010390D6) (Basic look)
 255: 0x39E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-256: 0x39F1 [0x2B] Qultada (ID: 17010902/0x010390D6) [7755*]:
+256: 0x39F1 [0x2B] Qultada (ID: 17010902/0x010390D6) [7756*]:
     → "Oh, I wouldn't move if I were you. You see, I set explosives around you while you were bragging about your exploits."
 257: 0x39F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 258: 0x39F9 [0x1C] WAIT(60* ticks)
-259: 0x39FC [0x2B] Qultada (ID: 17010902/0x010390D6) [7756*]:
+259: 0x39FC [0x2B] Qultada (ID: 17010902/0x010390D6) [7757*]:
     → "All I have to do is ignite the fuse with a blast from my gun, and... Boom. It's over."
 260: 0x3A03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x3A04 [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=266*
 262: 0x3A13 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-263: 0x3A24 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7757*]:
+263: 0x3A24 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7758*]:
     → "How the hell did you...?"
 264: 0x3A2B [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x3A2C [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x09)
-266: 0x3A33 [0x2B] Qultada (ID: 17010902/0x010390D6) [7758*]:
+266: 0x3A33 [0x2B] Qultada (ID: 17010902/0x010390D6) [7759*]:
     → "Better luck next time."
 267: 0x3A3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 268: 0x3A3B [0x27] REQ_SET(priority=0x10, entity_id=Wasuhd (ID: 17010899/0x010390D3), tag_num=0x0D)
@@ -4052,18 +4052,18 @@ SUBROUTINE_0FBC:
 272: 0x3A50 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
 273: 0x3A52 [0x1E] EventEntity looks at Yazquhl (ID: 17010900/0x010390D4) and starts talking
 274: 0x3A57 [0x1C] WAIT(120* ticks)
-275: 0x3A5A [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7759*]:
+275: 0x3A5A [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7760*]:
     → "Dammit..."
 276: 0x3A61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 277: 0x3A62 [0x1C] WAIT(60* ticks)
 278: 0x3A65 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=266*
 279: 0x3A74 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-280: 0x3A85 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7760*]:
+280: 0x3A85 [0x2B] Yazquhl (ID: 17010900/0x010390D4) [7761*]:
     → "We'll finish this later, corsair!"
 281: 0x3A8C [0x1C] WAIT(60* ticks)
 282: 0x3A8F [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=266*
 283: 0x3A9E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-284: 0x3AAF [0x2B] Gowam (ID: 17010901/0x010390D5) [7761*]:
+284: 0x3AAF [0x2B] Gowam (ID: 17010901/0x010390D5) [7762*]:
     → "Don't think we'll let you off so easily!"
 285: 0x3AB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x3AB7 [0x1C] WAIT(45* ticks)
@@ -4102,13 +4102,13 @@ SUBROUTINE_0FBC:
 319: 0x3BDF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std1" with entities [Zweeha (ID: 17010905/0x010390D9), Zweeha (ID: 17010905/0x010390D9)], work=32*
 320: 0x3BEE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 321: 0x3BFF [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Zweeha (ID: 17010905/0x010390D9), tag_num=0x02)
-322: 0x3C06 [0x2B] Zweeha (ID: 17010905/0x010390D9) [7762*]:
+322: 0x3C06 [0x2B] Zweeha (ID: 17010905/0x010390D9) [7763*]:
     → "You're going to let them get away?"
 323: 0x3C0D [0x23] WAIT_FOR_DIALOG_INTERACTION
-324: 0x3C0E [0x2B] Qultada (ID: 17010902/0x010390D6) [7763*]:
+324: 0x3C0E [0x2B] Qultada (ID: 17010902/0x010390D6) [7764*]:
     → "That's fine. I didn't come to fight them anyway."
 325: 0x3C15 [0x23] WAIT_FOR_DIALOG_INTERACTION
-326: 0x3C16 [0x2B] Zweeha (ID: 17010905/0x010390D9) [7764*]:
+326: 0x3C16 [0x2B] Zweeha (ID: 17010905/0x010390D9) [7765*]:
     → "Such naivety. This is why I don't like kids."
 327: 0x3C1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x3C1E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std0" with entities [Zweeha (ID: 17010905/0x010390D9), Zweeha (ID: 17010905/0x010390D9)], work=32*
@@ -4144,14 +4144,14 @@ SUBROUTINE_0FBC:
 358: 0x3D34 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 359: 0x3D45 [0x7B] Wasuhd (ID: 17010899/0x010390D3) stops talking
 360: 0x3D4A [0x1C] WAIT(120* ticks)
-361: 0x3D4D [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7765*]:
+361: 0x3D4D [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7766*]:
     → "Oh yeah! I almost forgot..."
 362: 0x3D54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 363: 0x3D55 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)], work=77*
 364: 0x3D64 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)]
 365: 0x3D71 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=266*
 366: 0x3D80 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-367: 0x3D91 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7766*]:
+367: 0x3D91 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7767*]:
     → "Look what we found!"
 368: 0x3D98 [0x23] WAIT_FOR_DIALOG_INTERACTION
 369: 0x3D99 [0x1C] WAIT(90* ticks)
@@ -4160,7 +4160,7 @@ SUBROUTINE_0FBC:
 372: 0x3DBC [0x1C] WAIT(10* ticks)
 373: 0x3DBF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)], work=77*
 374: 0x3DCE [0x1C] WAIT(60* ticks)
-375: 0x3DD1 [0x2B] Qultada (ID: 17010904/0x010390D8) [7767*]:
+375: 0x3DD1 [0x2B] Qultada (ID: 17010904/0x010390D8) [7768*]:
     → "You're Mutihb's brother Wasuhd, right? And this [gentleman/lady] here...an adventurer, correct?"
 376: 0x3DD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x3DD9 [0x79] Qultada (ID: 17010902/0x010390D6) looks at LocalPlayer (Basic look)
@@ -4171,20 +4171,20 @@ SUBROUTINE_0FBC:
 382: 0x3E05 [0x79] Qultada (ID: 17010904/0x010390D8) looks at LocalPlayer (Basic look)
 383: 0x3E0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 384: 0x3E20 [0x79] Qultada (ID: 17010904/0x010390D8) looks at Wasuhd (ID: 17010899/0x010390D3) (Basic look)
-385: 0x3E2A [0x2B] Qultada (ID: 17010904/0x010390D8) [7768*]:
+385: 0x3E2A [0x2B] Qultada (ID: 17010904/0x010390D8) [7769*]:
     → "Excellent work, both of you."
 386: 0x3E31 [0x23] WAIT_FOR_DIALOG_INTERACTION
 387: 0x3E32 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tre0" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)], work=77*
 388: 0x3E41 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tre0" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)]
-389: 0x3E4E [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7770*]:
+389: 0x3E4E [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7771*]:
     → "Um, um...sir? I would really, really like to become a corsair... Can I?"
 390: 0x3E55 [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x3E56 [0x1C] WAIT(60* ticks)
-392: 0x3E59 [0x2B] Qultada (ID: 17010904/0x010390D8) [7771*]:
+392: 0x3E59 [0x2B] Qultada (ID: 17010904/0x010390D8) [7772*]:
     → "Of course you can."
 393: 0x3E60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 394: 0x3E61 [0x27] REQ_SET(priority=0x10, entity_id=Qultada (ID: 17010904/0x010390D8), tag_num=0x02)
-395: 0x3E68 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7772*]:
+395: 0x3E68 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7773*]:
     → "All right!"
 396: 0x3E6F [0x23] WAIT_FOR_DIALOG_INTERACTION
 397: 0x3E70 [0x27] REQ_SET(priority=0x10, entity_id=Wasuhd (ID: 17010899/0x010390D3), tag_num=0x0E)
@@ -4193,76 +4193,76 @@ SUBROUTINE_0FBC:
 400: 0x3E89 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 401: 0x3E9A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Qultada (ID: 17010904/0x010390D8), Qultada (ID: 17010904/0x010390D8)], work=29*
 402: 0x3EA9 [0x1C] WAIT(30* ticks)
-403: 0x3EAC [0x2B] Qultada (ID: 17010904/0x010390D8) [7773*]:
+403: 0x3EAC [0x2B] Qultada (ID: 17010904/0x010390D8) [7774*]:
     → "Okay, Wasuhd. I've got a top secret mission for you. Listen closely, now!"
 404: 0x3EB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 405: 0x3EB4 [0x79] Wasuhd (ID: 17010899/0x010390D3) looks at Qultada (ID: 17010904/0x010390D8) (Basic look)
-406: 0x3EBE [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7774*]:
+406: 0x3EBE [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7775*]:
     → "Y-yes, sir!"
 407: 0x3EC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-408: 0x3EC6 [0x2B] Qultada (ID: 17010904/0x010390D8) [7775*]:
+408: 0x3EC6 [0x2B] Qultada (ID: 17010904/0x010390D8) [7776*]:
     → "You are to infiltrate Al Zahbi and wait until further notice!"
 409: 0x3ECD [0x23] WAIT_FOR_DIALOG_INTERACTION
 410: 0x3ECE [0x52] END_LOAD_SCHEDULER: End scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=266*
 411: 0x3EDD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 412: 0x3EEE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Qultada (ID: 17010904/0x010390D8), Qultada (ID: 17010904/0x010390D8)], work=29*
-413: 0x3EFD [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7776*]:
+413: 0x3EFD [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7777*]:
     → "Whaaat!?"
 414: 0x3F04 [0x23] WAIT_FOR_DIALOG_INTERACTION
 415: 0x3F05 [0x1C] WAIT(10* ticks)
 416: 0x3F08 [0x4E] SET_ENTITY_HIDE_FLAG: Show Zweeha (ID: 17010905/0x010390D9)
 417: 0x3F0E [0x6B] STOP_AND_IDLE: Zweeha (ID: 17010905/0x010390D9) stops current action and resets to idle (animation="idl0")
-418: 0x3F17 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7777*]:
+418: 0x3F17 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7778*]:
     → "But that's boring! I wanna throw smoke bombs and stuff, too!"
 419: 0x3F1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 420: 0x3F1F [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=266*
 421: 0x3F2E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 422: 0x3F3F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Qultada (ID: 17010904/0x010390D8), Qultada (ID: 17010904/0x010390D8)], work=29*
-423: 0x3F4E [0x2B] Qultada (ID: 17010904/0x010390D8) [7778*]:
+423: 0x3F4E [0x2B] Qultada (ID: 17010904/0x010390D8) [7779*]:
     → "You don't get it, do you? You've got the most important job of all..."
 424: 0x3F55 [0x23] WAIT_FOR_DIALOG_INTERACTION
 425: 0x3F56 [0x1C] WAIT(60* ticks)
-426: 0x3F59 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7779*]:
+426: 0x3F59 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7780*]:
     → "Really...?"
 427: 0x3F60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 428: 0x3F61 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Qultada (ID: 17010904/0x010390D8), Qultada (ID: 17010904/0x010390D8)], work=29*
 429: 0x3F70 [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [LocalPlayer, LocalPlayer], work=266*
 430: 0x3F7F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-431: 0x3F90 [0x2B] Qultada (ID: 17010904/0x010390D8) [7780*]:
+431: 0x3F90 [0x2B] Qultada (ID: 17010904/0x010390D8) [7781*]:
     → "We are wanted by the Empire. We cannot simply go striding about in broad daylight."
 432: 0x3F97 [0x23] WAIT_FOR_DIALOG_INTERACTION
 433: 0x3F98 [0x1C] WAIT(60* ticks)
 434: 0x3F9B [0x6E] Qultada (ID: 17010904/0x010390D8) uses emote 22*
 435: 0x3FA2 [0x99] Wait for Qultada (ID: 17010904/0x010390D8) animation to complete
-436: 0x3FA7 [0x2B] Qultada (ID: 17010904/0x010390D8) [7781*]:
+436: 0x3FA7 [0x2B] Qultada (ID: 17010904/0x010390D8) [7782*]:
     → "And taking up residence in town is out of the question for us."
 437: 0x3FAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 438: 0x3FAF [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=266*
 439: 0x3FBE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 440: 0x3FCF [0x1C] WAIT(60* ticks)
 441: 0x3FD2 [0x79] Qultada (ID: 17010904/0x010390D8) looks at Wasuhd (ID: 17010899/0x010390D3) (Basic look)
-442: 0x3FDC [0x2B] Qultada (ID: 17010904/0x010390D8) [7782*]:
+442: 0x3FDC [0x2B] Qultada (ID: 17010904/0x010390D8) [7783*]:
     → "But you... You can stay in Al Zahbi and gather intelligence for us at all times. There is no job more valuable!"
 443: 0x3FE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-444: 0x3FE4 [0x2B] Qultada (ID: 17010904/0x010390D8) [7784*]:
+444: 0x3FE4 [0x2B] Qultada (ID: 17010904/0x010390D8) [7785*]:
     → "This is a mission of great consequence, and you are the only man for the job!"
 445: 0x3FEB [0x23] WAIT_FOR_DIALOG_INTERACTION
 446: 0x3FEC [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=266*
 447: 0x3FFB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 448: 0x400C [0x27] REQ_SET(priority=0x10, entity_id=Wasuhd (ID: 17010899/0x010390D3), tag_num=0x0F)
-449: 0x4013 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7785*]:
+449: 0x4013 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7786*]:
     → "Y-yes, sir!"
 450: 0x401A [0x23] WAIT_FOR_DIALOG_INTERACTION
 451: 0x401B [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=266*
 452: 0x402A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
-453: 0x403B [0x2B] Qultada (ID: 17010904/0x010390D8) [7786*]:
+453: 0x403B [0x2B] Qultada (ID: 17010904/0x010390D8) [7787*]:
     → "And during the day, corsairs require extensive training."
 454: 0x4042 [0x23] WAIT_FOR_DIALOG_INTERACTION
-455: 0x4043 [0x2B] Qultada (ID: 17010904/0x010390D8) [7787*]:
+455: 0x4043 [0x2B] Qultada (ID: 17010904/0x010390D8) [7788*]:
     → "So I want you to throw your energy into helping your father and building your strength."
 456: 0x404A [0x23] WAIT_FOR_DIALOG_INTERACTION
 457: 0x404B [0x27] REQ_SET(priority=0x10, entity_id=Wasuhd (ID: 17010899/0x010390D3), tag_num=0x10)
-458: 0x4052 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7788*]:
+458: 0x4052 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7789*]:
     → "Yes, sir!"
 459: 0x4059 [0x23] WAIT_FOR_DIALOG_INTERACTION
 460: 0x405A [0x6E] Zweeha (ID: 17010905/0x010390D9) uses emote 4*
@@ -4284,14 +4284,14 @@ SUBROUTINE_0FBC:
 476: 0x40EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 477: 0x40FD [0x1C] WAIT(60* ticks)
 478: 0x4100 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x4113
-479: 0x4108 [0x2B] Qultada (ID: 17010904/0x010390D8) [7791*]:
+479: 0x4108 [0x2B] Qultada (ID: 17010904/0x010390D8) [7792*]:
     → "Now for you... You are an adventurer from the Middle Lands, correct? That means you've crossed the seas of Vana'diel to reach this place..."
 480: 0x410F [0x23] WAIT_FOR_DIALOG_INTERACTION
 481: 0x4110 [0x01] GOTO 0x4123
-482: 0x4113 [0x2B] Qultada (ID: 17010904/0x010390D8) [7789*]:
+482: 0x4113 [0x2B] Qultada (ID: 17010904/0x010390D8) [7790*]:
     → "Now for you...an adventurer from the Middle Lands, and now a mercenary of the Empire..."
 483: 0x411A [0x23] WAIT_FOR_DIALOG_INTERACTION
-484: 0x411B [0x2B] Qultada (ID: 17010904/0x010390D8) [7790*]:
+484: 0x411B [0x2B] Qultada (ID: 17010904/0x010390D8) [7791*]:
     → "Still, there is something different about you."
 485: 0x4122 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4302,12 +4302,12 @@ SUBROUTINE_4123:
 489: 0x413E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 490: 0x414F [0x79] Zweeha (ID: 17010905/0x010390D9) looks at Qultada (ID: 17010904/0x010390D8) (Basic look)
 491: 0x4159 [0x1C] WAIT(30* ticks)
-492: 0x415C [0x2B] Zweeha (ID: 17010905/0x010390D9) [7793*]:
+492: 0x415C [0x2B] Zweeha (ID: 17010905/0x010390D9) [7794*]:
     → "I am opposed, Qultada. Have we not already seen the effects of admitting outsiders?"
 493: 0x4163 [0x23] WAIT_FOR_DIALOG_INTERACTION
 494: 0x4164 [0x1C] WAIT(30* ticks)
 495: 0x4167 [0x79] Qultada (ID: 17010904/0x010390D8) looks at Zweeha (ID: 17010905/0x010390D9) (Basic look)
-496: 0x4171 [0x2B] Qultada (ID: 17010904/0x010390D8) [7794*]:
+496: 0x4171 [0x2B] Qultada (ID: 17010904/0x010390D8) [7795*]:
     → "You cannot say that for everyone, though. I am going to go with my intuition in this case... Can you not feel the workings of providence?"
 497: 0x4178 [0x23] WAIT_FOR_DIALOG_INTERACTION
 498: 0x4179 [0x1C] WAIT(60* ticks)
@@ -4318,25 +4318,25 @@ SUBROUTINE_4123:
 503: 0x419B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 504: 0x41AC [0x79] Qultada (ID: 17010904/0x010390D8) looks at LocalPlayer (Basic look)
 505: 0x41B6 [0x1C] WAIT(60* ticks)
-506: 0x41B9 [0x2B] Qultada (ID: 17010904/0x010390D8) [7795*]:
+506: 0x41B9 [0x2B] Qultada (ID: 17010904/0x010390D8) [7796*]:
     → "Oh, yes. Please accept this."
 507: 0x41C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 508: 0x41C1 [0x1C] WAIT(60* ticks)
-509: 0x41C4 [0x2B] Qultada (ID: 17010904/0x010390D8) [7796*]:
+509: 0x41C4 [0x2B] Qultada (ID: 17010904/0x010390D8) [7797*]:
     → "With this, no one will doubt that you are a corsair."
 510: 0x41CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 511: 0x41CC [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=266*
 512: 0x41DB [0x03] Work_Zone[2] = 5493*
 513: 0x41E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 514: 0x41F1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Qultada (ID: 17010904/0x010390D8), Qultada (ID: 17010904/0x010390D8)], work=29*
-515: 0x4200 [0x2B] Qultada (ID: 17010904/0x010390D8) [7797*]:
+515: 0x4200 [0x2B] Qultada (ID: 17010904/0x010390D8) [7798*]:
     → "These are no mere dice. Sometimes you'll find that there's nothing better than entrusting your fate to Lady Luck."
 516: 0x4207 [0x23] WAIT_FOR_DIALOG_INTERACTION
-517: 0x4208 [0x2B] Qultada (ID: 17010904/0x010390D8) [7798*]:
+517: 0x4208 [0x2B] Qultada (ID: 17010904/0x010390D8) [7799*]:
     → "This $0 only holds answers for you."
 518: 0x420F [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x4210 [0x1C] WAIT(60* ticks)
-520: 0x4213 [0x2B] Qultada (ID: 17010904/0x010390D8) [7799*]:
+520: 0x4213 [0x2B] Qultada (ID: 17010904/0x010390D8) [7800*]:
     → "However, there are other dice that are very different."
 521: 0x421A [0x23] WAIT_FOR_DIALOG_INTERACTION
 522: 0x421B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Qultada (ID: 17010904/0x010390D8), Qultada (ID: 17010904/0x010390D8)], work=29*
@@ -4344,18 +4344,18 @@ SUBROUTINE_4123:
 524: 0x422D [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=266*
 525: 0x423C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 526: 0x424D [0x1C] WAIT(60* ticks)
-527: 0x4250 [0x2B] Qultada (ID: 17010904/0x010390D8) [7800*]:
+527: 0x4250 [0x2B] Qultada (ID: 17010904/0x010390D8) [7801*]:
     → "Find them. Only then will you understand the true spirit of the corsair."
 528: 0x4257 [0x23] WAIT_FOR_DIALOG_INTERACTION
 529: 0x4258 [0x27] REQ_SET(priority=0x10, entity_id=Qultada (ID: 17010904/0x010390D8), tag_num=0x03)
-530: 0x425F [0x2B] Qultada (ID: 17010904/0x010390D8) [7801*]:
+530: 0x425F [0x2B] Qultada (ID: 17010904/0x010390D8) [7802*]:
     → "Practice, and grow strong. I look forward to seeing what becomes of you."
 531: 0x4266 [0x23] WAIT_FOR_DIALOG_INTERACTION
 532: 0x4267 [0x1C] WAIT(60* ticks)
 533: 0x426A [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=266*
 534: 0x4279 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
 535: 0x428A [0x1C] WAIT(60* ticks)
-536: 0x428D [0x2B] Qultada (ID: 17010904/0x010390D8) [7802*]:
+536: 0x428D [0x2B] Qultada (ID: 17010904/0x010390D8) [7803*]:
     → "Will I hit the jackpot or end up with snake eyes? I feel I've finally found a risk worth taking..."
 537: 0x4294 [0x23] WAIT_FOR_DIALOG_INTERACTION
 538: 0x4295 [0x27] REQ_SET(priority=0x10, entity_id=Qultada (ID: 17010904/0x010390D8), tag_num=0x04)
@@ -4633,21 +4633,21 @@ SUBROUTINE_4123:
  20: 0x447A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
  21: 0x448B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x449C [0x1C] WAIT(200* ticks)
- 23: 0x449F [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7725*]:
+ 23: 0x449F [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7726*]:
     → "All right!"
  24: 0x44A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x44A7 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7726*]:
+ 25: 0x44A7 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7727*]:
     → "Hey, check this out!"
  26: 0x44AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x44AF [0x1C] WAIT(90* ticks)
  28: 0x44B2 [0x52] END_LOAD_SCHEDULER: End scheduler "s100" with entities [LocalPlayer, LocalPlayer], work=266*
  29: 0x44C1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s101" with entities [LocalPlayer, LocalPlayer], work=[266*, 0*]
  30: 0x44D2 [0x7B] Wasuhd (ID: 17010899/0x010390D3) stops talking
- 31: 0x44D7 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7728*]:
+ 31: 0x44D7 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7729*]:
     → "When I become a corsair, I can go look for Mutihb all by myself when he decides to run off again!"
  32: 0x44DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x44DF [0x1C] WAIT(90* ticks)
- 34: 0x44E2 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7729*]:
+ 34: 0x44E2 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7730*]:
     → "Huh? What was that...?"
  35: 0x44E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x44EA [0x1C] WAIT(45* ticks)
@@ -4664,7 +4664,7 @@ SUBROUTINE_4123:
  47: 0x4547 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "won2" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)]
  48: 0x4554 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std2" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)], work=77*
  49: 0x4563 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "std2" with entities [Wasuhd (ID: 17010899/0x010390D3), Wasuhd (ID: 17010899/0x010390D3)]
- 50: 0x4570 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7730*]:
+ 50: 0x4570 [0x2B] Wasuhd (ID: 17010899/0x010390D3) [7731*]:
     → "I thought I heard a voice coming from over there..."
  51: 0x4577 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x4578 [0x1C] WAIT(360* ticks)

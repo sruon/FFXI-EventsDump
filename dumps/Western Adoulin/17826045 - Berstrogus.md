@@ -22,15 +22,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x262F      |        9775 |
-|       2 | 0x2630      |        9776 |
-|       3 | 0x2631      |        9777 |
+|       1 | 0x2630      |        9776 |
+|       2 | 0x2631      |        9777 |
+|       3 | 0x2632      |        9778 |
 
 ## String References
 
-- **9775**: Why, you're not even registered as a pioneer!?
-- **9776**: Pay a visit to Brenton so he can help you start walking the path to fame and fortune. Coincidentally, he's in the building right across from me.
-- **9777**: Pioneers have certainly made a lot of headway recently. Your role in the colonization movement has expanded, and you're more trusted than ever. I don't know exactly how that affects you personally, but I'm sure someone at the various coalitions would.
+- **9776**: Why, you're not even registered as a pioneer!?
+- **9777**: Pay a visit to Brenton so he can help you start walking the path to fame and fortune. Coincidentally, he's in the building right across from me.
+- **9778**: Pioneers have certainly made a lot of headway recently. Your role in the colonization movement has expanded, and you're more trusted than ever. I don't know exactly how that affects you personally, but I'm sure someone at the various coalitions would.
 
 ## Events
 
@@ -81,10 +81,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9775*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9776*)
     → "Why, you're not even registered as a pioneer!?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9776*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9777*)
     → "Pay a visit to Brenton so he can help you start walking the path to fame and fortune. Coincidentally, he's in the building right across from me."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [EventEntity, EventEntity], work=0*
@@ -117,7 +117,7 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
-  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=9777*)
+  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=9778*)
     → "Pioneers have certainly made a lot of headway recently. Your role in the colonization movement has expanded, and you're more trusted than ever. I don't know exactly how that affects you personally, but I'm sure someone at the various coalitions would."
   5: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [EventEntity, EventEntity], work=0*

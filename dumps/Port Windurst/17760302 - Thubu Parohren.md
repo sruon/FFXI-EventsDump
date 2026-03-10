@@ -31,50 +31,50 @@
 |       2 | 0x0000      |           0 |
 |       3 | 0x006E      |         110 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x2E00      |       11776 |
+|       5 | 0x2E01      |       11777 |
 |       6 | 0x0064      |         100 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x16B9      |        5817 |
 |       9 | 0x4262      |       16994 |
-|      10 | 0x2E48      |       11848 |
-|      11 | 0x2E49      |       11849 |
+|      10 | 0x2E49      |       11849 |
+|      11 | 0x2E4A      |       11850 |
 |      12 | 0x07BB      |        1979 |
-|      13 | 0x2E46      |       11846 |
-|      14 | 0x2E47      |       11847 |
+|      13 | 0x2E47      |       11847 |
+|      14 | 0x2E48      |       11848 |
 |      15 | 0x0003      |           3 |
-|      16 | 0x2E45      |       11845 |
-|      17 | 0x2E43      |       11843 |
-|      18 | 0x2E40      |       11840 |
-|      19 | 0x2E41      |       11841 |
-|      20 | 0x2E42      |       11842 |
-|      21 | 0x2E44      |       11844 |
+|      16 | 0x2E46      |       11846 |
+|      17 | 0x2E44      |       11844 |
+|      18 | 0x2E41      |       11841 |
+|      19 | 0x2E42      |       11842 |
+|      20 | 0x2E43      |       11843 |
+|      21 | 0x2E45      |       11845 |
 |      22 | 0x000B      |          11 |
 |      23 | 0x000C      |          12 |
 |      24 | 0x000D      |          13 |
 |      25 | 0x0004      |           4 |
-|      26 | 0x2E02      |       11778 |
-|      27 | 0x2E03      |       11779 |
-|      28 | 0x2E01      |       11777 |
-|      29 | 0x2DF9      |       11769 |
-|      30 | 0x2DBF      |       11711 |
-|      31 | 0x2DFB      |       11771 |
-|      32 | 0x2DFC      |       11772 |
-|      33 | 0x2DFD      |       11773 |
-|      34 | 0x2DFE      |       11774 |
-|      35 | 0x2DFF      |       11775 |
-|      36 | 0x2DFA      |       11770 |
-|      37 | 0x2E04      |       11780 |
+|      26 | 0x2E03      |       11779 |
+|      27 | 0x2E04      |       11780 |
+|      28 | 0x2E02      |       11778 |
+|      29 | 0x2DFA      |       11770 |
+|      30 | 0x2DC0      |       11712 |
+|      31 | 0x2DFC      |       11772 |
+|      32 | 0x2DFD      |       11773 |
+|      33 | 0x2DFE      |       11774 |
+|      34 | 0x2DFF      |       11775 |
+|      35 | 0x2E00      |       11776 |
+|      36 | 0x2DFB      |       11771 |
+|      37 | 0x2E05      |       11781 |
 |      38 | 0x0006      |           6 |
 |      39 | 0x0005      |           5 |
-|      40 | 0x2E05      |       11781 |
+|      40 | 0x2E06      |       11782 |
 |      41 | 0x0007      |           7 |
-|      42 | 0x2E06      |       11782 |
+|      42 | 0x2E07      |       11783 |
 |      43 | 0x0008      |           8 |
-|      44 | 0x2E07      |       11783 |
-|      45 | 0x2E08      |       11784 |
-|      46 | 0x2E4A      |       11850 |
+|      44 | 0x2E08      |       11784 |
+|      45 | 0x2E09      |       11785 |
+|      46 | 0x2E4B      |       11851 |
 |      47 | 0x00C9      |         201 |
-|      48 | 0x2DC2      |       11714 |
+|      48 | 0x2DC3      |       11715 |
 |      49 | 0xFFFD3380  |  4294783872 |
 |      50 | 0x10A1D     |       68125 |
 |      51 | 0xFFFFF4ED  |  4294964461 |
@@ -86,35 +86,35 @@
 
 ## String References
 
-- **11711**: Join the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild? [Sign up./That's not why you're here.]
-- **11714**: You are now recognized as [an amateur/a recruit/an initiate/a novice/an apprentice/a journeyman/a craftsman/an artisan/an adept/a veteran/an expert/an authority/a luminary/a master/a grandmaster/a legend] of the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.
-- **11769**: Who do ya think ya arrre, comin' up here in our space? This is the Fishermen's Guild, so if you're not gonna buy any fish, then get the hell outta herrre.
-- **11770**: Didn't I say get the hell outta herrre? Unless you wanna be sliced up and used as bait.
-- **11771**: Hah hah! Adventurer, arrre we? I woulda been one too, if I didn't have to take overrr the guild after me pappy died.
-- **11772**: We here ain't like those other fancy guilds. We don't use crystals and we don't make anything, but we support those who worrrk hard makin' their livin' by catchin' fish!
-- **11773**: Sellin' rods n' bait, passin' on info about the hottest fishin' spots--that's how we put dinnerrr on the table!
-- **11774**: Oh yeah, and if ya brrring in your catch, we'll even measurrre it n' weigh it for ya.
-- **11775**: Ya need any more info, ya just ask me guild mates!
-- **11776**: I once heard from me pappy that the worrrld was over eighty percent ocean. Ya know what that means? That means there's a helluva lotta fish to catch out therrre!
-- **11777**: Ya brrring in another big catch? If ya did, show it to me mates. We're all waitin' for another recorrrd-breakerrr!
-- **11778**: Are ya ready to try your luck at somethin' a little biggerrr? Go out and catch me $0.
-- **11779**: Brrring one back, and I'll give ya a new fisherman title. How 'bout that?
-- **11780**: ... Mmm, looks mighty delicious! I think you're rrready for the title of [amateur/recruit/initiate/novice/apprentice]. If ya got the rocks, ya might wanna try ferrrry fishing.
-- **11781**: ... Mmm mmm! This one looks even more delicious than the last! How does the title of [journeyman/craftsman] sound? Maybe it's time ya test your skills on somethin' a little biggerrr...
-- **11782**: ... Damn, that's one big fish! You're worthy of the title of artisan. All the other fisherrrmen are startin' to talk about ya like ya was some legend!
-- **11783**: Unbelievable! This is the biggest f... Well, all I have t' say is, ya catch the legends that otherrr people only talk about!
-- **11784**: Ya can't be serious!? How in blazes did ya even get this thing out of the waterrr? I'm awarding ya the status of veteran, but to tell the truth I think you've got a few things to teach me about fishin'!
-- **11840**: As [a veteran/an expert/an authority/a luminary/a master] among anglers, I rrreckon you're on the lookout for a new challenge. Well, today's your lucky day, 'cause I've got a fish story that should be rrright up your alley.
-- **11841**: Interested? [I sure am!/Not really...]
-- **11842**: I knew it! Nothin' gets a fisherman's blood pumping like tales of legendary leviathans just waitin' to be hooked on your lurrre. So let's get rrright to business: head over to Fennella and get yourself a copy of $6.
-- **11843**: You'll have to bait her with some guild points in exchange, but that's nothing you can't reel in, rrright?
-- **11844**: So be it, but if you have a change of hearrrt, you'll want to come back quickly. There may be other fish in the sea, but with all the ardent anglers in the realm, they won't last long!
-- **11845**: Let's get rrright to business: head over to Fennella and get yourself a copy of $6.
-- **11846**: Read over $6, did you? So here's the deal: succeed in reeling in one of the rare specimens in its pages, and I'll give you a well-deserved prrromotion.
-- **11847**: Oh, let's see... $2 should do the trick. We haven't got much to go on, but according to $6...
-- **11848**: Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3.
-- **11849**: That's all we've got, but I'm sure you've caught more with less. May the seas smile upon you!
-- **11850**: What the...! Why, this beast is big enough to swallow the both of us whole! I have no idea how you did it, but what I do know is that you're more than worthy of being called an expert. Your catch will be the talk of every dock and pier in the rrrealm before long!
+- **11712**: Join the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild? [Sign up./That's not why you're here.]
+- **11715**: You are now recognized as [an amateur/a recruit/an initiate/a novice/an apprentice/a journeyman/a craftsman/an artisan/an adept/a veteran/an expert/an authority/a luminary/a master/a grandmaster/a legend] of the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.
+- **11770**: Who do ya think ya arrre, comin' up here in our space? This is the Fishermen's Guild, so if you're not gonna buy any fish, then get the hell outta herrre.
+- **11771**: Didn't I say get the hell outta herrre? Unless you wanna be sliced up and used as bait.
+- **11772**: Hah hah! Adventurer, arrre we? I woulda been one too, if I didn't have to take overrr the guild after me pappy died.
+- **11773**: We here ain't like those other fancy guilds. We don't use crystals and we don't make anything, but we support those who worrrk hard makin' their livin' by catchin' fish!
+- **11774**: Sellin' rods n' bait, passin' on info about the hottest fishin' spots--that's how we put dinnerrr on the table!
+- **11775**: Oh yeah, and if ya brrring in your catch, we'll even measurrre it n' weigh it for ya.
+- **11776**: Ya need any more info, ya just ask me guild mates!
+- **11777**: I once heard from me pappy that the worrrld was over eighty percent ocean. Ya know what that means? That means there's a helluva lotta fish to catch out therrre!
+- **11778**: Ya brrring in another big catch? If ya did, show it to me mates. We're all waitin' for another recorrrd-breakerrr!
+- **11779**: Are ya ready to try your luck at somethin' a little biggerrr? Go out and catch me $0.
+- **11780**: Brrring one back, and I'll give ya a new fisherman title. How 'bout that?
+- **11781**: ... Mmm, looks mighty delicious! I think you're rrready for the title of [amateur/recruit/initiate/novice/apprentice]. If ya got the rocks, ya might wanna try ferrrry fishing.
+- **11782**: ... Mmm mmm! This one looks even more delicious than the last! How does the title of [journeyman/craftsman] sound? Maybe it's time ya test your skills on somethin' a little biggerrr...
+- **11783**: ... Damn, that's one big fish! You're worthy of the title of artisan. All the other fisherrrmen are startin' to talk about ya like ya was some legend!
+- **11784**: Unbelievable! This is the biggest f... Well, all I have t' say is, ya catch the legends that otherrr people only talk about!
+- **11785**: Ya can't be serious!? How in blazes did ya even get this thing out of the waterrr? I'm awarding ya the status of veteran, but to tell the truth I think you've got a few things to teach me about fishin'!
+- **11841**: As [a veteran/an expert/an authority/a luminary/a master] among anglers, I rrreckon you're on the lookout for a new challenge. Well, today's your lucky day, 'cause I've got a fish story that should be rrright up your alley.
+- **11842**: Interested? [I sure am!/Not really...]
+- **11843**: I knew it! Nothin' gets a fisherman's blood pumping like tales of legendary leviathans just waitin' to be hooked on your lurrre. So let's get rrright to business: head over to Fennella and get yourself a copy of $6.
+- **11844**: You'll have to bait her with some guild points in exchange, but that's nothing you can't reel in, rrright?
+- **11845**: So be it, but if you have a change of hearrrt, you'll want to come back quickly. There may be other fish in the sea, but with all the ardent anglers in the realm, they won't last long!
+- **11846**: Let's get rrright to business: head over to Fennella and get yourself a copy of $6.
+- **11847**: Read over $6, did you? So here's the deal: succeed in reeling in one of the rare specimens in its pages, and I'll give you a well-deserved prrromotion.
+- **11848**: Oh, let's see... $2 should do the trick. We haven't got much to go on, but according to $6...
+- **11849**: Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3.
+- **11850**: That's all we've got, but I'm sure you've caught more with less. May the seas smile upon you!
+- **11851**: What the...! Why, this beast is big enough to swallow the both of us whole! I have no idea how you did it, but what I do know is that you're more than worthy of being called an expert. Your catch will be the talk of every dock and pier in the rrrealm before long!
 
 ## Events
 
@@ -216,7 +216,7 @@
   6: 0x0030 [0x07] Work_Zone[3] += 2*
   7: 0x0035 [0x02] IF !(Work_Zone[3] >= Work_Zone[4]) GOTO 0x004A
   8: 0x003D [0x1A] CALL_SUBROUTINE(address=0x03C3)
-  9: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=11776*)
+  9: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=11777*)
     → "I once heard from me pappy that the worrrld was over eighty percent ocean. Ya know what that means? That means there's a helluva lotta fish to catch out therrre!"
  10: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0044 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -228,10 +228,10 @@
  17: 0x006A [0x1A] CALL_SUBROUTINE(address=0x03C3)
  18: 0x006D [0x03] Work_Zone[4] = 5817*
  19: 0x0072 [0x03] Work_Zone[5] = 16994*
- 20: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
+ 20: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
     → "Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3."
  21: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
+ 22: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=11850*)
     → "That's all we've got, but I'm sure you've caught more with less. May the seas smile upon you!"
  23: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x007F [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -239,20 +239,20 @@
  26: 0x0085 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  27: 0x0086 [0x1A] CALL_SUBROUTINE(address=0x03C3)
  28: 0x0089 [0x03] Work_Zone[3] = 1979*
- 29: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=11846*)
+ 29: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=11847*)
     → "Read over $6, did you? So here's the deal: succeed in reeling in one of the rare specimens in its pages, and I'll give you a well-deserved prrromotion."
  30: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0092 [0x03] Work_Zone[3] = 1979*
  32: 0x0097 [0x03] Work_Zone[4] = 5817*
- 33: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=11847*)
+ 33: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
     → "Oh, let's see... $2 should do the trick. We haven't got much to go on, but according to $6..."
  34: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00A0 [0x03] Work_Zone[4] = 5817*
  36: 0x00A5 [0x03] Work_Zone[5] = 16994*
- 37: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
+ 37: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
     → "Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3."
  38: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
+ 39: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11850*)
     → "That's all we've got, but I'm sure you've caught more with less. May the seas smile upon you!"
  40: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00B2 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -263,10 +263,10 @@ SUBROUTINE_00BB:
  44: 0x00BB [0x01] GOTO 0x00D1
  45: 0x00BE [0x1A] CALL_SUBROUTINE(address=0x03C3)
  46: 0x00C1 [0x03] Work_Zone[3] = 1979*
- 47: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11845*)
+ 47: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11846*)
     → "Let's get rrright to business: head over to Fennella and get yourself a copy of $6."
  48: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=11843*)
+ 49: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=11844*)
     → "You'll have to bait her with some guild points in exchange, but that's nothing you can't reel in, rrright?"
  50: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00CE [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -275,21 +275,21 @@ SUBROUTINE_00D1:
  52: 0x00D1 [0x01] GOTO 0x0125
  53: 0x00D4 [0x03] Work_Zone[2] = 0*
  54: 0x00D9 [0x1A] CALL_SUBROUTINE(address=0x03C3)
- 55: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=11840*)
+ 55: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=11841*)
     → "As [a veteran/an expert/an authority/a luminary/a master] among anglers, I rrreckon you're on the lookout for a new challenge. Well, today's your lucky day, 'cause I've got a fish story that should be rrright up your alley."
  56: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x00E0 [0x1A] CALL_SUBROUTINE(address=0x03D5)
- 58: 0x00E3 [0x24] CREATE_DIALOG(message_id=11841*, default_option=0*, option_flags=0*)
+ 58: 0x00E3 [0x24] CREATE_DIALOG(message_id=11842*, default_option=0*, option_flags=0*)
     → "Interested? [I sure am!/Not really...]"
  59: 0x00EA [0x25] WAIT_DIALOG_SELECT()
  60: 0x00EB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0110
  61: 0x00F3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  62: 0x00F4 [0x03] Work_Zone[3] = 1979*
  63: 0x00F9 [0x1A] CALL_SUBROUTINE(address=0x03C3)
- 64: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11842*)
+ 64: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11843*)
     → "I knew it! Nothin' gets a fisherman's blood pumping like tales of legendary leviathans just waitin' to be hooked on your lurrre. So let's get rrright to business: head over to Fennella and get yourself a copy of $6."
  65: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=11843*)
+ 66: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=11844*)
     → "You'll have to bait her with some guild points in exchange, but that's nothing you can't reel in, rrright?"
  67: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0104 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -298,7 +298,7 @@ SUBROUTINE_00D1:
  71: 0x010D [0x01] GOTO 0x0125
  72: 0x0110 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0125
  73: 0x0118 [0x1A] CALL_SUBROUTINE(address=0x03C3)
- 74: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=11844*)
+ 74: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=11845*)
     → "So be it, but if you have a change of hearrrt, you'll want to come back quickly. There may be other fish in the sea, but with all the ardent anglers in the realm, they won't last long!"
  75: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x011F [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -314,7 +314,7 @@ SUBROUTINE_0125:
  84: 0x0150 [0x03] Work_Zone[4] = 11*
  85: 0x0155 [0x03] Work_Zone[5] = 11*
  86: 0x015A [0x1A] CALL_SUBROUTINE(address=0x03C3)
- 87: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
+ 87: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
     → "Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3."
  88: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0161 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -323,7 +323,7 @@ SUBROUTINE_0125:
  92: 0x016F [0x03] Work_Zone[4] = 12*
  93: 0x0174 [0x03] Work_Zone[5] = 12*
  94: 0x0179 [0x1A] CALL_SUBROUTINE(address=0x03C3)
- 95: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
+ 95: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
     → "Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3."
  96: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x0180 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -332,7 +332,7 @@ SUBROUTINE_0125:
 100: 0x018E [0x03] Work_Zone[4] = 13*
 101: 0x0193 [0x03] Work_Zone[5] = 13*
 102: 0x0198 [0x1A] CALL_SUBROUTINE(address=0x03C3)
-103: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
+103: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
     → "Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3."
 104: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x019F [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -340,7 +340,7 @@ SUBROUTINE_0125:
 
 SUBROUTINE_01A5:
 107: 0x01A5 [0x1A] CALL_SUBROUTINE(address=0x03C3)
-108: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
+108: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11850*)
     → "That's all we've got, but I'm sure you've caught more with less. May the seas smile upon you!"
 109: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x01AC [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -356,11 +356,11 @@ SUBROUTINE_01B5:
 116: 0x01C5 [0x08] Work_Zone[2] -= 100*
 117: 0x01CA [0x15] Work_Zone[2] /= 10*
 118: 0x01CF [0x1A] CALL_SUBROUTINE(address=0x03C3)
-119: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11840*)
+119: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11841*)
     → "As [a veteran/an expert/an authority/a luminary/a master] among anglers, I rrreckon you're on the lookout for a new challenge. Well, today's your lucky day, 'cause I've got a fish story that should be rrright up your alley."
 120: 0x01D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x01D6 [0x1A] CALL_SUBROUTINE(address=0x03D5)
-122: 0x01D9 [0x24] CREATE_DIALOG(message_id=11841*, default_option=0*, option_flags=0*)
+122: 0x01D9 [0x24] CREATE_DIALOG(message_id=11842*, default_option=0*, option_flags=0*)
     → "Interested? [I sure am!/Not really...]"
 123: 0x01E0 [0x25] WAIT_DIALOG_SELECT()
 124: 0x01E1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0284
@@ -369,12 +369,12 @@ SUBROUTINE_01B5:
 127: 0x01F2 [0x1A] CALL_SUBROUTINE(address=0x03C3)
 128: 0x01F5 [0x03] Work_Zone[3] = 1979*
 129: 0x01FA [0x03] Work_Zone[4] = 11*
-130: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11847*)
+130: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
     → "Oh, let's see... $2 should do the trick. We haven't got much to go on, but according to $6..."
 131: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x0203 [0x03] Work_Zone[4] = 11*
 133: 0x0208 [0x03] Work_Zone[5] = 11*
-134: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
+134: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
     → "Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3."
 135: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0211 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -383,12 +383,12 @@ SUBROUTINE_01B5:
 139: 0x021F [0x1A] CALL_SUBROUTINE(address=0x03C3)
 140: 0x0222 [0x03] Work_Zone[3] = 1979*
 141: 0x0227 [0x03] Work_Zone[4] = 12*
-142: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=11847*)
+142: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
     → "Oh, let's see... $2 should do the trick. We haven't got much to go on, but according to $6..."
 143: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x0230 [0x03] Work_Zone[4] = 12*
 145: 0x0235 [0x03] Work_Zone[5] = 12*
-146: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
+146: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
     → "Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3."
 147: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x023E [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -397,12 +397,12 @@ SUBROUTINE_01B5:
 151: 0x024C [0x1A] CALL_SUBROUTINE(address=0x03C3)
 152: 0x024F [0x03] Work_Zone[3] = 1979*
 153: 0x0254 [0x03] Work_Zone[4] = 13*
-154: 0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=11847*)
+154: 0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
     → "Oh, let's see... $2 should do the trick. We haven't got much to go on, but according to $6..."
 155: 0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x025D [0x03] Work_Zone[4] = 13*
 157: 0x0262 [0x03] Work_Zone[5] = 13*
-158: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
+158: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
     → "Ah yes! It claims that the $2 can be found in the Bastorrre Sea and prefers to feast on $3."
 159: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x026B [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -410,7 +410,7 @@ SUBROUTINE_01B5:
 
 SUBROUTINE_0271:
 162: 0x0271 [0x1A] CALL_SUBROUTINE(address=0x03C3)
-163: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
+163: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=11850*)
     → "That's all we've got, but I'm sure you've caught more with less. May the seas smile upon you!"
 164: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x0278 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -419,7 +419,7 @@ SUBROUTINE_0271:
 168: 0x0281 [0x01] GOTO 0x0299
 169: 0x0284 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0299
 170: 0x028C [0x1A] CALL_SUBROUTINE(address=0x03C3)
-171: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=11844*)
+171: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=11845*)
     → "So be it, but if you have a change of hearrrt, you'll want to come back quickly. There may be other fish in the sea, but with all the ardent anglers in the realm, they won't last long!"
 172: 0x0292 [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x0293 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -431,10 +431,10 @@ SUBROUTINE_0299:
 SUBROUTINE_029C:
 176: 0x029C [0x01] GOTO 0x02AD
 177: 0x029F [0x1A] CALL_SUBROUTINE(address=0x03C3)
-178: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11778*)
+178: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11779*)
     → "Are ya ready to try your luck at somethin' a little biggerrr? Go out and catch me $0."
 179: 0x02A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-180: 0x02A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11779*)
+180: 0x02A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11780*)
     → "Brrring one back, and I'll give ya a new fisherman title. How 'bout that?"
 181: 0x02A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x02AA [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -442,7 +442,7 @@ SUBROUTINE_029C:
 SUBROUTINE_02AD:
 183: 0x02AD [0x01] GOTO 0x02BA
 184: 0x02B0 [0x1A] CALL_SUBROUTINE(address=0x03C3)
-185: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11777*)
+185: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11778*)
     → "Ya brrring in another big catch? If ya did, show it to me mates. We're all waitin' for another recorrrd-breakerrr!"
 186: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x02B7 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -450,35 +450,35 @@ SUBROUTINE_02AD:
 SUBROUTINE_02BA:
 188: 0x02BA [0x01] GOTO 0x030D
 189: 0x02BD [0x03] Work_Zone[8] = 0*
-190: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11769*)
+190: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11770*)
     → "Who do ya think ya arrre, comin' up here in our space? This is the Fishermen's Guild, so if you're not gonna buy any fish, then get the hell outta herrre."
 191: 0x02C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-192: 0x02C6 [0x24] CREATE_DIALOG(message_id=11711*, default_option=0*, option_flags=0*)
+192: 0x02C6 [0x24] CREATE_DIALOG(message_id=11712*, default_option=0*, option_flags=0*)
     → "Join the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild? [Sign up./That's not why you're here.]"
 193: 0x02CD [0x25] WAIT_DIALOG_SELECT()
 194: 0x02CE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02F8
 195: 0x02D6 [0x1A] CALL_SUBROUTINE(address=0x03C3)
-196: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11771*)
+196: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11772*)
     → "Hah hah! Adventurer, arrre we? I woulda been one too, if I didn't have to take overrr the guild after me pappy died."
 197: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-198: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11772*)
+198: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11773*)
     → "We here ain't like those other fancy guilds. We don't use crystals and we don't make anything, but we support those who worrrk hard makin' their livin' by catchin' fish!"
 199: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-200: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11773*)
+200: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11774*)
     → "Sellin' rods n' bait, passin' on info about the hottest fishin' spots--that's how we put dinnerrr on the table!"
 201: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-202: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11774*)
+202: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11775*)
     → "Oh yeah, and if ya brrring in your catch, we'll even measurrre it n' weigh it for ya."
 203: 0x02E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x02E9 [0x1A] CALL_SUBROUTINE(address=0x03D5)
-205: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=11775*)
+205: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=11776*)
     → "Ya need any more info, ya just ask me guild mates!"
 206: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x02F0 [0x03] Work_Zone[1] = 1*
 208: 0x02F5 [0x01] GOTO 0x030D
 209: 0x02F8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x030D
 210: 0x0300 [0x1A] CALL_SUBROUTINE(address=0x03C3)
-211: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=11770*)
+211: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=11771*)
     → "Didn't I say get the hell outta herrre? Unless you wanna be sliced up and used as bait."
 212: 0x0306 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x0307 [0x1A] CALL_SUBROUTINE(address=0x03D5)
@@ -525,32 +525,32 @@ SUBROUTINE_030D:
   5: 0x0322 [0x03] Work_Zone[6] = 0*
   6: 0x0327 [0x03] Work_Zone[9] = Work_Zone[6]
   7: 0x032C [0x02] IF !(Work_Zone[9] > 4*) GOTO 0x033B
-  8: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=11780*)
+  8: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=11781*)
     → "... Mmm, looks mighty delicious! I think you're rrready for the title of [amateur/recruit/initiate/novice/apprentice]. If ya got the rocks, ya might wanna try ferrrry fishing."
   9: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0338 [0x01] GOTO 0x0380
  11: 0x033B [0x02] IF !(Work_Zone[9] > 6*) GOTO 0x034F
  12: 0x0343 [0x08] Work_Zone[9] -= 5*
- 13: 0x0348 [0x1D] PRINT_EVENT_MESSAGE(message_id=11781*)
+ 13: 0x0348 [0x1D] PRINT_EVENT_MESSAGE(message_id=11782*)
     → "... Mmm mmm! This one looks even more delicious than the last! How does the title of [journeyman/craftsman] sound? Maybe it's time ya test your skills on somethin' a little biggerrr..."
  14: 0x034B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x034C [0x01] GOTO 0x0380
  16: 0x034F [0x02] IF !(Work_Zone[9] > 7*) GOTO 0x035E
- 17: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=11782*)
+ 17: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=11783*)
     → "... Damn, that's one big fish! You're worthy of the title of artisan. All the other fisherrrmen are startin' to talk about ya like ya was some legend!"
  18: 0x035A [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x035B [0x01] GOTO 0x0380
  20: 0x035E [0x02] IF !(Work_Zone[9] > 8*) GOTO 0x036D
- 21: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=11783*)
+ 21: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=11784*)
     → "Unbelievable! This is the biggest f... Well, all I have t' say is, ya catch the legends that otherrr people only talk about!"
  22: 0x0369 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x036A [0x01] GOTO 0x0380
  24: 0x036D [0x02] IF !(Work_Zone[9] > 9*) GOTO 0x037C
- 25: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=11784*)
+ 25: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=11785*)
     → "Ya can't be serious!? How in blazes did ya even get this thing out of the waterrr? I'm awarding ya the status of veteran, but to tell the truth I think you've got a few things to teach me about fishin'!"
  26: 0x0378 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0379 [0x01] GOTO 0x0380
- 28: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=11850*)
+ 28: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=11851*)
     → "What the...! Why, this beast is big enough to swallow the both of us whole! I have no idea how you did it, but what I do know is that you're more than worthy of being called an expert. Your catch will be the talk of every dock and pier in the rrrealm before long!"
  29: 0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -558,7 +558,7 @@ SUBROUTINE_0380:
  30: 0x0380 [0x1A] CALL_SUBROUTINE(address=0x03D5)
  31: 0x0383 [0x03] Work_Zone[8] = 0*
  32: 0x0388 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 33: 0x0399 [0x48] [System] [11714*]:
+ 33: 0x0399 [0x48] [System] [11715*]:
     → "You are now recognized as [an amateur/a recruit/an initiate/a novice/an apprentice/a journeyman/a craftsman/an artisan/an adept/a veteran/an expert/an authority/a luminary/a master/a grandmaster/a legend] of the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild."
  34: 0x039C [0x21] END_EVENT
  35: 0x039D [0x00] END_REQSTACK()

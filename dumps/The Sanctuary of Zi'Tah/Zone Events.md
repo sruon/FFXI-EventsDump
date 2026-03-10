@@ -51,67 +51,67 @@
 |      11 | 0x0011      |          17 |
 |      12 | 0x0001      |           1 |
 |      13 | 0x0028      |          40 |
-|      14 | 0x1E82      |        7810 |
-|      15 | 0x1E83      |        7811 |
+|      14 | 0x1E83      |        7811 |
+|      15 | 0x1E84      |        7812 |
 |      16 | 0x0064      |         100 |
 |      17 | 0x0096      |         150 |
 |      18 | 0x0009      |           9 |
-|      19 | 0x1E84      |        7812 |
+|      19 | 0x1E85      |        7813 |
 |      20 | 0x0032      |          50 |
-|      21 | 0x1E85      |        7813 |
-|      22 | 0x1E86      |        7814 |
-|      23 | 0x1E87      |        7815 |
+|      21 | 0x1E86      |        7814 |
+|      22 | 0x1E87      |        7815 |
+|      23 | 0x1E88      |        7816 |
 |      24 | 0x008C      |         140 |
-|      25 | 0x1E88      |        7816 |
-|      26 | 0x1E89      |        7817 |
-|      27 | 0x1E8A      |        7818 |
+|      25 | 0x1E89      |        7817 |
+|      26 | 0x1E8A      |        7818 |
+|      27 | 0x1E8B      |        7819 |
 |      28 | 0x0046      |          70 |
-|      29 | 0x1E8B      |        7819 |
-|      30 | 0x1E8C      |        7820 |
-|      31 | 0x1E8D      |        7821 |
+|      29 | 0x1E8C      |        7820 |
+|      30 | 0x1E8D      |        7821 |
+|      31 | 0x1E8E      |        7822 |
 |      32 | 0x007C      |         124 |
 |      33 | 0x003C      |          60 |
-|      34 | 0x1E8E      |        7822 |
+|      34 | 0x1E8F      |        7823 |
 |      35 | 0x001E      |          30 |
-|      36 | 0x1E8F      |        7823 |
+|      36 | 0x1E90      |        7824 |
 |      37 | 0x0050      |          80 |
 |      38 | 0x000A      |          10 |
-|      39 | 0x1E90      |        7824 |
-|      40 | 0x1E91      |        7825 |
+|      39 | 0x1E91      |        7825 |
+|      40 | 0x1E92      |        7826 |
 |      41 | 0x000B      |          11 |
-|      42 | 0x1E92      |        7826 |
-|      43 | 0x1E93      |        7827 |
+|      42 | 0x1E93      |        7827 |
+|      43 | 0x1E94      |        7828 |
 |      44 | 0x0002      |           2 |
-|      45 | 0x1E94      |        7828 |
-|      46 | 0x1E95      |        7829 |
-|      47 | 0x1E96      |        7830 |
-|      48 | 0x1E97      |        7831 |
-|      49 | 0x1E98      |        7832 |
-|      50 | 0x1E99      |        7833 |
-|      51 | 0x1E9A      |        7834 |
-|      52 | 0x1E9B      |        7835 |
-|      53 | 0x1E9C      |        7836 |
-|      54 | 0x1E9D      |        7837 |
-|      55 | 0x1E9E      |        7838 |
-|      56 | 0x1E9F      |        7839 |
-|      57 | 0x1EA0      |        7840 |
-|      58 | 0x1EA1      |        7841 |
+|      45 | 0x1E95      |        7829 |
+|      46 | 0x1E96      |        7830 |
+|      47 | 0x1E97      |        7831 |
+|      48 | 0x1E98      |        7832 |
+|      49 | 0x1E99      |        7833 |
+|      50 | 0x1E9A      |        7834 |
+|      51 | 0x1E9B      |        7835 |
+|      52 | 0x1E9C      |        7836 |
+|      53 | 0x1E9D      |        7837 |
+|      54 | 0x1E9E      |        7838 |
+|      55 | 0x1E9F      |        7839 |
+|      56 | 0x1EA0      |        7840 |
+|      57 | 0x1EA1      |        7841 |
+|      58 | 0x1EA2      |        7842 |
 |      59 | 0x0014      |          20 |
-|      60 | 0x1EA2      |        7842 |
-|      61 | 0x1EA3      |        7843 |
-|      62 | 0x1EA4      |        7844 |
+|      60 | 0x1EA3      |        7843 |
+|      61 | 0x1EA4      |        7844 |
+|      62 | 0x1EA5      |        7845 |
 |      63 | 0x005A      |          90 |
-|      64 | 0x1EA5      |        7845 |
-|      65 | 0x1EA6      |        7846 |
-|      66 | 0x1EA7      |        7847 |
+|      64 | 0x1EA6      |        7846 |
+|      65 | 0x1EA7      |        7847 |
+|      66 | 0x1EA8      |        7848 |
 |      67 | 0x0082      |         130 |
-|      68 | 0x1EA8      |        7848 |
-|      69 | 0x1EA9      |        7849 |
+|      68 | 0x1EA9      |        7849 |
+|      69 | 0x1EAA      |        7850 |
 |      70 | 0x0104      |         260 |
-|      71 | 0x1EAA      |        7850 |
-|      72 | 0x1EAB      |        7851 |
-|      73 | 0x1EAC      |        7852 |
-|      74 | 0x1EAD      |        7853 |
+|      71 | 0x1EAB      |        7851 |
+|      72 | 0x1EAC      |        7852 |
+|      73 | 0x1EAD      |        7853 |
+|      74 | 0x1EAE      |        7854 |
 |      75 | 0x00AA      |         170 |
 |      76 | 0x00C9      |         201 |
 |      77 | 0x00BE      |         190 |
@@ -369,10 +369,10 @@
   9: 0x0040 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273397/0x01079235), tag_num=0x02)
  10: 0x0047 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273397/0x01079235))
  11: 0x004D [0x1C] WAIT(40* ticks)
- 12: 0x0050 [0x2B] Carmelo (ID: 17273397/0x01079235) [7810*]:
+ 12: 0x0050 [0x2B] Carmelo (ID: 17273397/0x01079235) [7811*]:
     → "I apologize. But...I could not stop thinking about the song."
  13: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0058 [0x2B] Carmelo (ID: 17273397/0x01079235) [7811*]:
+ 14: 0x0058 [0x2B] Carmelo (ID: 17273397/0x01079235) [7812*]:
     → "Before you bury it...may I sing it one last time?"
  15: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0060 [0x1C] WAIT(100* ticks)
@@ -381,19 +381,19 @@
  19: 0x0070 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
  20: 0x0081 [0x1C] WAIT(150* ticks)
  21: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=9*
- 22: 0x0093 [0x2B] Carmelo (ID: 17273397/0x01079235) [7812*]:
+ 22: 0x0093 [0x2B] Carmelo (ID: 17273397/0x01079235) [7813*]:
     → "The earth does bloom with the fragrance of life, The sweet wind awakens us from our strife;"
  23: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x009B [0x1C] WAIT(50* ticks)
- 25: 0x009E [0x2B] Carmelo (ID: 17273397/0x01079235) [7813*]:
+ 25: 0x009E [0x2B] Carmelo (ID: 17273397/0x01079235) [7814*]:
     → "A miracle rides upon a gust of fate In tune with destiny, my true love awaits"
  26: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00A6 [0x1C] WAIT(50* ticks)
- 28: 0x00A9 [0x2B] Carmelo (ID: 17273397/0x01079235) [7814*]:
+ 28: 0x00A9 [0x2B] Carmelo (ID: 17273397/0x01079235) [7815*]:
     → "The grace of the gods brings warmth to the lands And thus breathes life into its timeless sands"
  29: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00B1 [0x1C] WAIT(50* ticks)
- 31: 0x00B4 [0x2B] Carmelo (ID: 17273397/0x01079235) [7815*]:
+ 31: 0x00B4 [0x2B] Carmelo (ID: 17273397/0x01079235) [7816*]:
     → "Miracles rain down from the heavens above And bestow their fine blessing unto my love."
  32: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00BC [0x1C] WAIT(50* ticks)
@@ -402,28 +402,28 @@
  36: 0x00D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=240*
  37: 0x00E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
  38: 0x00F1 [0x1C] WAIT(140* ticks)
- 39: 0x00F4 [0x2B] Carmelo (ID: 17273397/0x01079235) [7816*]:
+ 39: 0x00F4 [0x2B] Carmelo (ID: 17273397/0x01079235) [7817*]:
     → "My travels with Dariah once brought us here..."
  40: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x00FC [0x2B] Carmelo (ID: 17273397/0x01079235) [7817*]:
+ 41: 0x00FC [0x2B] Carmelo (ID: 17273397/0x01079235) [7818*]:
     → "I can still remember that day. The landscape..."
  42: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0104 [0x2B] Carmelo (ID: 17273397/0x01079235) [7818*]:
+ 43: 0x0104 [0x2B] Carmelo (ID: 17273397/0x01079235) [7819*]:
     → "The soft rustle of the leaves... The rays of light, piercing the darkness of the towering trees... The wind on our cheeks..."
  44: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x010C [0x1C] WAIT(70* ticks)
  46: 0x010F [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
- 47: 0x0114 [0x2B] Carmelo (ID: 17273397/0x01079235) [7819*]:
+ 47: 0x0114 [0x2B] Carmelo (ID: 17273397/0x01079235) [7820*]:
     → "But that has all changed. That which remains in my heart is nothing but a memory...and that is all it will ever be."
  48: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x011C [0x1C] WAIT(40* ticks)
- 50: 0x011F [0x2B] Carmelo (ID: 17273397/0x01079235) [7820*]:
+ 50: 0x011F [0x2B] Carmelo (ID: 17273397/0x01079235) [7821*]:
     → "The sands of time never stop flowing. Not for me...or anyone."
  51: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0127 [0x1C] WAIT(140* ticks)
  53: 0x012A [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273398/0x01079236), tag_num=0x01)
  54: 0x0131 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Dariah (ID: 17273398/0x01079236))
- 55: 0x0137 [0x2B] Dariah (ID: 17273398/0x01079236) [7821*]:
+ 55: 0x0137 [0x2B] Dariah (ID: 17273398/0x01079236) [7822*]:
     → "That is what I've been trying to tell you."
  56: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x013F [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 124*
@@ -432,14 +432,14 @@
  60: 0x0156 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
  61: 0x0167 [0x4A] Carmelo (ID: 17273397/0x01079235) looks at Dariah (ID: 17273398/0x01079236)
  62: 0x0170 [0x1C] WAIT(60* ticks)
- 63: 0x0173 [0x2B] Dariah (ID: 17273398/0x01079236) [7822*]:
+ 63: 0x0173 [0x2B] Dariah (ID: 17273398/0x01079236) [7823*]:
     → "That's why we have to make the most of what we are now. Even if that means facing hard times."
  64: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x017B [0x1C] WAIT(70* ticks)
  66: 0x017E [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273398/0x01079236), tag_num=0x02)
  67: 0x0185 [0x1C] WAIT(30* ticks)
  68: 0x0188 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
- 69: 0x0199 [0x2B] Carmelo (ID: 17273397/0x01079235) [7823*]:
+ 69: 0x0199 [0x2B] Carmelo (ID: 17273397/0x01079235) [7824*]:
     → "Dariah!?"
  70: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x01A1 [0x1C] WAIT(80* ticks)
@@ -450,67 +450,67 @@
  76: 0x01D0 [0x4A] Carmelo (ID: 17273397/0x01079235) looks at Dariah (ID: 17273398/0x01079236)
  77: 0x01D9 [0x1C] WAIT(140* ticks)
  78: 0x01DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=10*
- 79: 0x01EB [0x2B] Dariah (ID: 17273398/0x01079236) [7824*]:
+ 79: 0x01EB [0x2B] Dariah (ID: 17273398/0x01079236) [7825*]:
     → "How many years have passed since we last met...?"
  80: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x01F3 [0x2B] Dariah (ID: 17273398/0x01079236) [7825*]:
+ 81: 0x01F3 [0x2B] Dariah (ID: 17273398/0x01079236) [7826*]:
     → "I heard from Gueravrel about what he made you do. I apologize for his foolishness."
  82: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x01FB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
- 84: 0x020A [0x2B] Dariah (ID: 17273398/0x01079236) [7826*]:
+ 84: 0x020A [0x2B] Dariah (ID: 17273398/0x01079236) [7827*]:
     → "But, here you are."
  85: 0x0211 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x0212 [0x2B] Dariah (ID: 17273398/0x01079236) [7827*]:
+ 86: 0x0212 [0x2B] Dariah (ID: 17273398/0x01079236) [7828*]:
     → "I knew that you would try hiding the song away from the rest of the world."
  87: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x021A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld0" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=2*
- 89: 0x0229 [0x2B] Carmelo (ID: 17273397/0x01079235) [7828*]:
+ 89: 0x0229 [0x2B] Carmelo (ID: 17273397/0x01079235) [7829*]:
     → "..."
  90: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0231 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt1" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
- 92: 0x0240 [0x2B] Dariah (ID: 17273398/0x01079236) [7829*]:
+ 92: 0x0240 [0x2B] Dariah (ID: 17273398/0x01079236) [7830*]:
     → "It is a lovely melody. It takes me back to the time we traveled through these parts so many years ago."
  93: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0248 [0x2B] Carmelo (ID: 17273397/0x01079235) [7830*]:
+ 94: 0x0248 [0x2B] Carmelo (ID: 17273397/0x01079235) [7831*]:
     → "Dariah... I..."
  95: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x0250 [0x2B] Carmelo (ID: 17273397/0x01079235) [7831*]:
+ 96: 0x0250 [0x2B] Carmelo (ID: 17273397/0x01079235) [7832*]:
     → "Not a day has gone by that I did not think of you."
  97: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0258 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld1" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=2*
  99: 0x0267 [0x1C] WAIT(40* ticks)
-100: 0x026A [0x2B] Carmelo (ID: 17273397/0x01079235) [7832*]:
+100: 0x026A [0x2B] Carmelo (ID: 17273397/0x01079235) [7833*]:
     → "But I have changed. Your words and the words of this adventurer have transformed me into a new man."
 101: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0272 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
-103: 0x0281 [0x2B] Dariah (ID: 17273398/0x01079236) [7833*]:
+103: 0x0281 [0x2B] Dariah (ID: 17273398/0x01079236) [7834*]:
     → "Carmelo..."
 104: 0x0288 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0289 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273397/0x01079235), tag_num=0x04)
 106: 0x0290 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273397/0x01079235))
 107: 0x0296 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 108: 0x02A7 [0x1C] WAIT(40* ticks)
-109: 0x02AA [0x2B] Carmelo (ID: 17273397/0x01079235) [7834*]:
+109: 0x02AA [0x2B] Carmelo (ID: 17273397/0x01079235) [7835*]:
     → "I've come to realize that even though we may be apart, you and I both breathe the same air...tread the same soil."
 110: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x02B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt1" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
 112: 0x02C1 [0x1C] WAIT(50* ticks)
-113: 0x02C4 [0x2B] Carmelo (ID: 17273397/0x01079235) [7835*]:
+113: 0x02C4 [0x2B] Carmelo (ID: 17273397/0x01079235) [7836*]:
     → "We must do our best to treasure the short amount of time we have been given on Vana'diel."
 114: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x02CC [0x1C] WAIT(50* ticks)
-116: 0x02CF [0x2B] Carmelo (ID: 17273397/0x01079235) [7836*]:
+116: 0x02CF [0x2B] Carmelo (ID: 17273397/0x01079235) [7837*]:
     → "The time I spent with you... That is my treasure."
 117: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x02D7 [0x1C] WAIT(60* ticks)
-119: 0x02DA [0x2B] Carmelo (ID: 17273397/0x01079235) [7837*]:
+119: 0x02DA [0x2B] Carmelo (ID: 17273397/0x01079235) [7838*]:
     → "However, I know that many treasures await me still."
 120: 0x02E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x02E2 [0x2B] Carmelo (ID: 17273397/0x01079235) [7838*]:
+121: 0x02E2 [0x2B] Carmelo (ID: 17273397/0x01079235) [7839*]:
     → "I now know that I must not live my life within my memories. I must set out and make memories anew."
 122: 0x02E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x02EA [0x1C] WAIT(40* ticks)
-124: 0x02ED [0x2B] Carmelo (ID: 17273397/0x01079235) [7839*]:
+124: 0x02ED [0x2B] Carmelo (ID: 17273397/0x01079235) [7840*]:
     → "I am ready to wind the hands of my clock once again, so that one day, our hands may meet again."
 125: 0x02F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x02F5 [0x1C] WAIT(40* ticks)
@@ -518,38 +518,38 @@
 128: 0x0301 [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=240*
 129: 0x0310 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 130: 0x0321 [0x1C] WAIT(80* ticks)
-131: 0x0324 [0x2B] Dariah (ID: 17273398/0x01079236) [7840*]:
+131: 0x0324 [0x2B] Dariah (ID: 17273398/0x01079236) [7841*]:
     → "Carmelo... Thank you."
 132: 0x032B [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x032C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "unz0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
-134: 0x033B [0x2B] Dariah (ID: 17273398/0x01079236) [7841*]:
+134: 0x033B [0x2B] Dariah (ID: 17273398/0x01079236) [7842*]:
     → "You finally understand what I tried to tell you long ago."
 135: 0x0342 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0343 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=240*
 137: 0x0352 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 138: 0x0363 [0x1C] WAIT(20* ticks)
-139: 0x0366 [0x2B] Dariah (ID: 17273398/0x01079236) [7842*]:
+139: 0x0366 [0x2B] Dariah (ID: 17273398/0x01079236) [7843*]:
     → "I have not forgotten the time we spent together. Those memories are my treasure as well."
 140: 0x036D [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x036E [0x1C] WAIT(40* ticks)
-142: 0x0371 [0x2B] Dariah (ID: 17273398/0x01079236) [7843*]:
+142: 0x0371 [0x2B] Dariah (ID: 17273398/0x01079236) [7844*]:
     → "I think that we adventurers are not meant to settle down in one place."
 143: 0x0378 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x0379 [0x1C] WAIT(70* ticks)
-145: 0x037C [0x2B] Dariah (ID: 17273398/0x01079236) [7844*]:
+145: 0x037C [0x2B] Dariah (ID: 17273398/0x01079236) [7845*]:
     → "The time we share drives us to continue on in this vast world. That is why..."
 146: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x0384 [0x1C] WAIT(90* ticks)
-148: 0x0387 [0x2B] Dariah (ID: 17273398/0x01079236) [7845*]:
+148: 0x0387 [0x2B] Dariah (ID: 17273398/0x01079236) [7846*]:
     → "...I look forward to the day..."
 149: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x038F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=19*
-151: 0x039E [0x2B] Dariah (ID: 17273398/0x01079236) [7846*]:
+151: 0x039E [0x2B] Dariah (ID: 17273398/0x01079236) [7847*]:
     → "...when the hands of our clocks come together once again."
 152: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x03A6 [0x1C] WAIT(90* ticks)
 154: 0x03A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=0*
-155: 0x03B8 [0x2B] Carmelo (ID: 17273397/0x01079235) [7847*]:
+155: 0x03B8 [0x2B] Carmelo (ID: 17273397/0x01079235) [7848*]:
     → "And I will be waiting, Dariah. When you see me again, I will be a new man."
 156: 0x03BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x03C0 [0x1C] WAIT(100* ticks)
@@ -560,7 +560,7 @@
 162: 0x03F7 [0x1C] WAIT(100* ticks)
 163: 0x03FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=19*
 164: 0x0409 [0x1C] WAIT(130* ticks)
-165: 0x040C [0x2B] Dariah (ID: 17273398/0x01079236) [7848*]:
+165: 0x040C [0x2B] Dariah (ID: 17273398/0x01079236) [7849*]:
     → "Carmelo. There is one thing I want you to know."
 166: 0x0413 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0414 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
@@ -573,11 +573,11 @@
 174: 0x0455 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Dariah (ID: 17273398/0x01079236))
 175: 0x045B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 176: 0x046C [0x1C] WAIT(50* ticks)
-177: 0x046F [0x2B] Dariah (ID: 17273398/0x01079236) [7833*]:
+177: 0x046F [0x2B] Dariah (ID: 17273398/0x01079236) [7834*]:
     → "Carmelo..."
 178: 0x0476 [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0477 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=240*
-180: 0x0486 [0x2B] Dariah (ID: 17273398/0x01079236) [7849*]:
+180: 0x0486 [0x2B] Dariah (ID: 17273398/0x01079236) [7850*]:
     → "No matter how far apart we may be, my heart will always be with you."
 181: 0x048D [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x048E [0x1C] WAIT(100* ticks)
@@ -585,13 +585,13 @@
 184: 0x0498 [0x1C] WAIT(260* ticks)
 185: 0x049B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 186: 0x04AC [0x1C] WAIT(70* ticks)
-187: 0x04AF [0x2B] Carmelo (ID: 17273397/0x01079235) [7850*]:
+187: 0x04AF [0x2B] Carmelo (ID: 17273397/0x01079235) [7851*]:
     → "Dariah..."
 188: 0x04B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x04B7 [0x7B] Carmelo (ID: 17273397/0x01079235) stops talking
 190: 0x04BC [0x1C] WAIT(70* ticks)
 191: 0x04BF [0x7C] Carmelo (ID: 17273397/0x01079235)->Render.Flags2 |= 0x00
-192: 0x04C5 [0x2B] Carmelo (ID: 17273397/0x01079235) [7828*]:
+192: 0x04C5 [0x2B] Carmelo (ID: 17273397/0x01079235) [7829*]:
     → "..."
 193: 0x04CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x04CD [0x1C] WAIT(100* ticks)
@@ -601,10 +601,10 @@
 198: 0x04E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 199: 0x04F1 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273397/0x01079235))
 200: 0x04F7 [0x1C] WAIT(80* ticks)
-201: 0x04FA [0x2B] Carmelo (ID: 17273397/0x01079235) [7851*]:
+201: 0x04FA [0x2B] Carmelo (ID: 17273397/0x01079235) [7852*]:
     → "I...I do not know how to thank you. You have brought me so much."
 202: 0x0501 [0x23] WAIT_FOR_DIALOG_INTERACTION
-203: 0x0502 [0x2B] Carmelo (ID: 17273397/0x01079235) [7852*]:
+203: 0x0502 [0x2B] Carmelo (ID: 17273397/0x01079235) [7853*]:
     → "It is not much, but please take this as a measure of my gratitude."
 204: 0x0509 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x050A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=0*
@@ -612,7 +612,7 @@
 207: 0x051C [0x4A] Carmelo (ID: 17273397/0x01079235) looks at Dariah (ID: 17273398/0x01079236)
 208: 0x0525 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=0*
 209: 0x0534 [0x1C] WAIT(100* ticks)
-210: 0x0537 [0x2B] Carmelo (ID: 17273397/0x01079235) [7853*]:
+210: 0x0537 [0x2B] Carmelo (ID: 17273397/0x01079235) [7854*]:
     → "Now I shall head back to Bastok...and the new life that awaits."
 211: 0x053E [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x053F [0x1C] WAIT(70* ticks)

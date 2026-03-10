@@ -20,26 +20,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x272A      |       10026 |
+|       0 | 0x272B      |       10027 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x272C      |       10028 |
+|       2 | 0x272D      |       10029 |
 |       3 | 0x00C8      |         200 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x003C      |          60 |
 |       6 | 0x0003      |           3 |
 |       7 | 0x00D3      |         211 |
-|       8 | 0x272D      |       10029 |
+|       8 | 0x272E      |       10030 |
 |       9 | 0x0096      |         150 |
-|      10 | 0x272E      |       10030 |
-|      11 | 0x272F      |       10031 |
+|      10 | 0x272F      |       10031 |
+|      11 | 0x2730      |       10032 |
 |      12 | 0x0064      |         100 |
-|      13 | 0x272B      |       10027 |
+|      13 | 0x272C      |       10028 |
 
 ## String References
 
-- **10026**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
-- **10027**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
-- **10028**: YOU ARE RIGHT!
+- **10027**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
+- **10028**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
+- **10029**: YOU ARE RIGHT!
 
 ## Events
 
@@ -100,7 +100,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [10026*]:
+  1: 0x0002 [0x48] [System] [10027*]:
     → "ARE YOU READY FOR THE QUIZ DE VANA'DIEL?"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x13] ExtData[1]->WorkLocal[3] = rand() % 1*
@@ -115,7 +115,7 @@
 # Dead code (unreachable instructions):
      0x000F [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x0010 [0x46] CAMERA_CONTROL: Disable user control
-     0x0012 [0x48] [System] [10028*]:
+     0x0012 [0x48] [System] [10029*]:
     → "YOU ARE RIGHT!"
      0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0016 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -129,19 +129,19 @@
      0x0049 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
      0x004E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
      0x005F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-     0x0070 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10029*]:
+     0x0070 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10030*]:
     → "HOWDY, CONTESTANTS! I'LL BE YOUR HOST, WINK. HOW CAN I HELP YOU?"
      0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0078 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x0089 [0x1C] WAIT(150* ticks)
-     0x008C [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10030*]:
+     0x008C [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10031*]:
     → "SEARCHING FOR $6... SEARCHING FOR $6..."
      0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0094 [0x1C] WAIT(150* ticks)
      0x0097 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=211*
      0x00A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x00B7 [0x1C] WAIT(60* ticks)
-     0x00BA [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10031*]:
+     0x00BA [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10032*]:
     → "SORRY, CONTESTANT! THERE IS NO $3 HERE! BUT THANK YOU FOR PLAYING QUIZ DE VANA'DIEL!!!"
      0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -151,7 +151,7 @@
      0x00DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x00EE [0x1B] RETURN
      0x00EF [0x03] Work_Zone[1] = 0*
-     0x00F4 [0x48] [System] [10027*]:
+     0x00F4 [0x48] [System] [10028*]:
     → "THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!"
      0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00F8 [0x1B] RETURN

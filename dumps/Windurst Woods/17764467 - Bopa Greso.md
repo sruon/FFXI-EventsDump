@@ -49,24 +49,24 @@
 |       0 | 0x0167      |         359 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0165      |         357 |
-|       3 | 0x1DAB      |        7595 |
-|       4 | 0x1DAC      |        7596 |
-|       5 | 0x1DB8      |        7608 |
-|       6 | 0x1DB9      |        7609 |
-|       7 | 0x1DC3      |        7619 |
-|       8 | 0x1DC4      |        7620 |
-|       9 | 0x1DD5      |        7637 |
-|      10 | 0x1DD6      |        7638 |
-|      11 | 0x20FB      |        8443 |
-|      12 | 0x20FC      |        8444 |
-|      13 | 0x1E9B      |        7835 |
-|      14 | 0x1E9C      |        7836 |
-|      15 | 0x1EA4      |        7844 |
-|      16 | 0x1EA7      |        7847 |
-|      17 | 0x1EA8      |        7848 |
-|      18 | 0x2279      |        8825 |
-|      19 | 0x227D      |        8829 |
-|      20 | 0x227E      |        8830 |
+|       3 | 0x1DAC      |        7596 |
+|       4 | 0x1DAD      |        7597 |
+|       5 | 0x1DB9      |        7609 |
+|       6 | 0x1DBA      |        7610 |
+|       7 | 0x1DC4      |        7620 |
+|       8 | 0x1DC5      |        7621 |
+|       9 | 0x1DD6      |        7638 |
+|      10 | 0x1DD7      |        7639 |
+|      11 | 0x20FC      |        8444 |
+|      12 | 0x20FD      |        8445 |
+|      13 | 0x1E9C      |        7836 |
+|      14 | 0x1E9D      |        7837 |
+|      15 | 0x1EA5      |        7845 |
+|      16 | 0x1EA8      |        7848 |
+|      17 | 0x1EA9      |        7849 |
+|      18 | 0x227A      |        8826 |
+|      19 | 0x227E      |        8830 |
+|      20 | 0x227F      |        8831 |
 |      21 | 0xDE67      |       56935 |
 |      22 | 0x3A522     |      238882 |
 |      23 | 0xFFFFEC4D  |  4294962253 |
@@ -75,47 +75,47 @@
 |      26 | 0xF2F8      |       62200 |
 |      27 | 0x3A78C     |      239500 |
 |      28 | 0xFFFFED72  |  4294962546 |
-|      29 | 0x229A      |        8858 |
-|      30 | 0x229F      |        8863 |
-|      31 | 0x22A0      |        8864 |
-|      32 | 0x22A8      |        8872 |
-|      33 | 0x22B5      |        8885 |
-|      34 | 0x22B6      |        8886 |
-|      35 | 0x22C1      |        8897 |
-|      36 | 0x22C2      |        8898 |
-|      37 | 0x22D0      |        8912 |
-|      38 | 0x22D3      |        8915 |
+|      29 | 0x229B      |        8859 |
+|      30 | 0x22A0      |        8864 |
+|      31 | 0x22A1      |        8865 |
+|      32 | 0x22A9      |        8873 |
+|      33 | 0x22B6      |        8886 |
+|      34 | 0x22B7      |        8887 |
+|      35 | 0x22C2      |        8898 |
+|      36 | 0x22C3      |        8899 |
+|      37 | 0x22D1      |        8913 |
+|      38 | 0x22D4      |        8916 |
 
 ## String References
 
-- **7595**: Heh-heh-heh... I wouldn't wander around this area unless you have good reason to... It could be dangerrrous!
-- **7596**: Haven't you ever heard the name of "Nanaa Mihgo"? Well, this is herrr house!
-- **7608**: What? You want to make frrriends with Nanaa Mihgo? Well, you've got no chance of that right now, have you?
-- **7609**: If you want to run with the top cat, you'll have to be the right kind of rogue firrrst!
-- **7619**: $1 are illegal contraband, so they naturally fetch a high price through the properrr channels.
-- **7620**: So curious little catspaws like you are more than welcome! With your help, we'll make a killing!
-- **7637**: Well, if we've only learned one thing, it's this--it's farrr better to set our sights on the travelers in the port area.
-- **7638**: The travelers in Windurst Woods are all merchants who keep their guard up, or the occasional idiot who carries around a strange rock as if it's a precious jewel. Not worth the efforrrt, is it?
-- **7835**: You also want that book we found, don't you? Then you'll be needing something to trade the top cat with!
-- **7836**: Heh-heh-heh... We don't deal in cold, hard gil, you know? We much preferrr small and pretty valuables...
-- **7844**: I'm surprrrised you were able to find what we wanted. Now I can harrrdly wait to join the top cat in making the deal with you. Heh-heh-heh...
-- **7847**: Some Carrrdians were carrying several larrrge boxes out of the Priming Gate in Windurst Walls.
-- **7848**: It was fun pulling a swift one on them, but it wasn't worrrth the trouble. Don't you darrre say crime doesn't pay!
-- **8443**: You did put the you-know-what into a metal box and sink it in the sea as we were told to, didn't you?
-- **8444**: You've got a cat's chance in hell of getting me to steal something like that again! Next time, you do the stealing, and I do the sinking, okay?
-- **8825**: The Tenshodo is one of the biggest dealers of merchandise in all of Vana'diel. An adventurer like you has surely heard of it.
-- **8829**: You don't hearrr the name Atarefaunet around these parts that often. I heard that he was pretty famous in the west, though.
-- **8830**: At the time, Atarefaunet's band was loaded with the best of the best. They say that some of the memberrrs were even professional killers, so you had better watch your back.
-- **8858**: We tailed them to their hideouts. Herrre, I wrote the locations down for you.
-- **8863**: From what I saw, to meet with the member in the Goblin store in Jeuno, you have to try your hand at a game of chance.
-- **8864**: Esca was furrrious at being forced to play over and over just because of her bad luck. Are you feeling lucky?
-- **8872**: We had our troubles, too. The member I went after told me, "Thieves need to be fleet on their feet." I had to chase that villain around for hourrrs.
-- **8885**: Vauderame is a man of many secrets.
-- **8886**: Nobody really knows his background, and he loses us every time we try to tail him. There's something dangerous about that man.
-- **8897**: Vauderame is a very mysterrrious character. He's been in the Tenshodo for ten years, quietly building up his current standing.
-- **8898**: I get the sense that he's made a deliberrrate effort to rrreach a position that allows him to move freely while keeping a low profile.
-- **8912**: Atarefaunet's band is rumored to contain prrrofessional killers, so keep on your toes and keep out of sight. They're a dangerrrous bunch.
-- **8915**: When I checked at the Tenshodo, Vauderame was nowhere to be found. It's like he just popped out of existence...
+- **7596**: Heh-heh-heh... I wouldn't wander around this area unless you have good reason to... It could be dangerrrous!
+- **7597**: Haven't you ever heard the name of "Nanaa Mihgo"? Well, this is herrr house!
+- **7609**: What? You want to make frrriends with Nanaa Mihgo? Well, you've got no chance of that right now, have you?
+- **7610**: If you want to run with the top cat, you'll have to be the right kind of rogue firrrst!
+- **7620**: $1 are illegal contraband, so they naturally fetch a high price through the properrr channels.
+- **7621**: So curious little catspaws like you are more than welcome! With your help, we'll make a killing!
+- **7638**: Well, if we've only learned one thing, it's this--it's farrr better to set our sights on the travelers in the port area.
+- **7639**: The travelers in Windurst Woods are all merchants who keep their guard up, or the occasional idiot who carries around a strange rock as if it's a precious jewel. Not worth the efforrrt, is it?
+- **7836**: You also want that book we found, don't you? Then you'll be needing something to trade the top cat with!
+- **7837**: Heh-heh-heh... We don't deal in cold, hard gil, you know? We much preferrr small and pretty valuables...
+- **7845**: I'm surprrrised you were able to find what we wanted. Now I can harrrdly wait to join the top cat in making the deal with you. Heh-heh-heh...
+- **7848**: Some Carrrdians were carrying several larrrge boxes out of the Priming Gate in Windurst Walls.
+- **7849**: It was fun pulling a swift one on them, but it wasn't worrrth the trouble. Don't you darrre say crime doesn't pay!
+- **8444**: You did put the you-know-what into a metal box and sink it in the sea as we were told to, didn't you?
+- **8445**: You've got a cat's chance in hell of getting me to steal something like that again! Next time, you do the stealing, and I do the sinking, okay?
+- **8826**: The Tenshodo is one of the biggest dealers of merchandise in all of Vana'diel. An adventurer like you has surely heard of it.
+- **8830**: You don't hearrr the name Atarefaunet around these parts that often. I heard that he was pretty famous in the west, though.
+- **8831**: At the time, Atarefaunet's band was loaded with the best of the best. They say that some of the memberrrs were even professional killers, so you had better watch your back.
+- **8859**: We tailed them to their hideouts. Herrre, I wrote the locations down for you.
+- **8864**: From what I saw, to meet with the member in the Goblin store in Jeuno, you have to try your hand at a game of chance.
+- **8865**: Esca was furrrious at being forced to play over and over just because of her bad luck. Are you feeling lucky?
+- **8873**: We had our troubles, too. The member I went after told me, "Thieves need to be fleet on their feet." I had to chase that villain around for hourrrs.
+- **8886**: Vauderame is a man of many secrets.
+- **8887**: Nobody really knows his background, and he loses us every time we try to tail him. There's something dangerous about that man.
+- **8898**: Vauderame is a very mysterrrious character. He's been in the Tenshodo for ten years, quietly building up his current standing.
+- **8899**: I get the sense that he's made a deliberrrate effort to rrreach a position that allows him to move freely while keeping a low profile.
+- **8913**: Atarefaunet's band is rumored to contain prrrofessional killers, so keep on your toes and keep out of sight. They're a dangerrrous bunch.
+- **8916**: When I checked at the Tenshodo, Vauderame was nowhere to be found. It's like he just popped out of existence...
 
 ## Events
 
@@ -288,10 +288,10 @@
   1: 0x0053 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0054 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0055 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
+  4: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
     → "Heh-heh-heh... I wouldn't wander around this area unless you have good reason to... It could be dangerrrous!"
   5: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
+  6: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
     → "Haven't you ever heard the name of "Nanaa Mihgo"? Well, this is herrr house!"
   7: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0064 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -325,10 +325,10 @@
   1: 0x0074 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0075 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0076 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
+  4: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
     → "What? You want to make frrriends with Nanaa Mihgo? Well, you've got no chance of that right now, have you?"
   5: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
+  6: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
     → "If you want to run with the top cat, you'll have to be the right kind of rogue firrrst!"
   7: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0085 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -362,10 +362,10 @@
   1: 0x0095 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0096 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0097 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
+  4: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
     → "$1 are illegal contraband, so they naturally fetch a high price through the properrr channels."
   5: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
+  6: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
     → "So curious little catspaws like you are more than welcome! With your help, we'll make a killing!"
   7: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -399,10 +399,10 @@
   1: 0x00B6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7637*)
+  4: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7638*)
     → "Well, if we've only learned one thing, it's this--it's farrr better to set our sights on the travelers in the port area."
   5: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7638*)
+  6: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7639*)
     → "The travelers in Windurst Woods are all merchants who keep their guard up, or the occasional idiot who carries around a strange rock as if it's a precious jewel. Not worth the efforrrt, is it?"
   7: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -436,10 +436,10 @@
   1: 0x00D7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00D8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
+  4: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8444*)
     → "You did put the you-know-what into a metal box and sink it in the sea as we were told to, didn't you?"
   5: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8444*)
+  6: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8445*)
     → "You've got a cat's chance in hell of getting me to steal something like that again! Next time, you do the stealing, and I do the sinking, okay?"
   7: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -473,10 +473,10 @@
   1: 0x00F8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+  4: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
     → "You also want that book we found, don't you? Then you'll be needing something to trade the top cat with!"
   5: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+  6: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "Heh-heh-heh... We don't deal in cold, hard gil, you know? We much preferrr small and pretty valuables..."
   7: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0109 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -510,7 +510,7 @@
   1: 0x0119 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x011A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x011B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
+  4: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
     → "I'm surprrrised you were able to find what we wanted. Now I can harrrdly wait to join the top cat in making the deal with you. Heh-heh-heh..."
   5: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0126 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -544,10 +544,10 @@
   1: 0x0136 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0137 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0138 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
+  4: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=7848*)
     → "Some Carrrdians were carrying several larrrge boxes out of the Priming Gate in Windurst Walls."
   5: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7848*)
+  6: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
     → "It was fun pulling a swift one on them, but it wasn't worrrth the trouble. Don't you darrre say crime doesn't pay!"
   7: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0147 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -580,7 +580,7 @@
   1: 0x0157 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0158 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0159 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8825*)
+  4: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8826*)
     → "The Tenshodo is one of the biggest dealers of merchandise in all of Vana'diel. An adventurer like you has surely heard of it."
   5: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0164 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -614,10 +614,10 @@
   1: 0x0174 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0175 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0176 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8829*)
+  4: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8830*)
     → "You don't hearrr the name Atarefaunet around these parts that often. I heard that he was pretty famous in the west, though."
   5: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=8830*)
+  6: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=8831*)
     → "At the time, Atarefaunet's band was loaded with the best of the best. They say that some of the memberrrs were even professional killers, so you had better watch your back."
   7: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0185 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x05)
@@ -719,7 +719,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8858*)
+  0: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8859*)
     → "We tailed them to their hideouts. Herrre, I wrote the locations down for you."
   1: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B4 [0x00] END_REQSTACK()
@@ -748,10 +748,10 @@
   0: 0x01B5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01BB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8863*)
+  3: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8864*)
     → "From what I saw, to meet with the member in the Goblin store in Jeuno, you have to try your hand at a game of chance."
   4: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8864*)
+  5: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8865*)
     → "Esca was furrrious at being forced to play over and over just because of her bad luck. Are you feeling lucky?"
   6: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01C4 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -782,7 +782,7 @@
   0: 0x01C8 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01CD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01CE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8872*)
+  3: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8873*)
     → "We had our troubles, too. The member I went after told me, "Thieves need to be fleet on their feet." I had to chase that villain around for hourrrs."
   4: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01D3 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -855,10 +855,10 @@
 
 ```
   0: 0x01D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  1: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8885*)
+  1: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8886*)
     → "Vauderame is a man of many secrets."
   2: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8886*)
+  3: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8887*)
     → "Nobody really knows his background, and he loses us every time we try to tail him. There's something dangerous about that man."
   4: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x02)
@@ -890,10 +890,10 @@
   1: 0x01F5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8897*)
+  4: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8898*)
     → "Vauderame is a very mysterrrious character. He's been in the Tenshodo for ten years, quietly building up his current standing."
   5: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=8898*)
+  6: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=8899*)
     → "I get the sense that he's made a deliberrrate effort to rrreach a position that allows him to move freely while keeping a low profile."
   7: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0206 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x02)
@@ -926,7 +926,7 @@
   1: 0x0216 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0217 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0218 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+  4: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
     → "Atarefaunet's band is rumored to contain prrrofessional killers, so keep on your toes and keep out of sight. They're a dangerrrous bunch."
   5: 0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0223 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x02)
@@ -960,7 +960,7 @@
   1: 0x0233 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0234 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0235 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x01)
-  4: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
+  4: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=8916*)
     → "When I checked at the Tenshodo, Vauderame was nowhere to be found. It's like he just popped out of existence..."
   5: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0240 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x02)

@@ -28,28 +28,28 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x28B1      |       10417 |
-|       1 | 0x28B2      |       10418 |
-|       2 | 0x28B3      |       10419 |
+|       0 | 0x28B2      |       10418 |
+|       1 | 0x28B3      |       10419 |
+|       2 | 0x28B4      |       10420 |
 |       3 | 0x0014      |          20 |
-|       4 | 0x28B4      |       10420 |
-|       5 | 0x28B5      |       10421 |
-|       6 | 0x28B6      |       10422 |
-|       7 | 0x28B7      |       10423 |
-|       8 | 0x28B8      |       10424 |
-|       9 | 0x28B9      |       10425 |
-|      10 | 0x28BA      |       10426 |
-|      11 | 0x28BB      |       10427 |
-|      12 | 0x28BC      |       10428 |
-|      13 | 0x28BD      |       10429 |
-|      14 | 0x28BE      |       10430 |
-|      15 | 0x28BF      |       10431 |
-|      16 | 0x28C0      |       10432 |
-|      17 | 0x28C1      |       10433 |
-|      18 | 0x28C2      |       10434 |
-|      19 | 0x28C3      |       10435 |
+|       4 | 0x28B5      |       10421 |
+|       5 | 0x28B6      |       10422 |
+|       6 | 0x28B7      |       10423 |
+|       7 | 0x28B8      |       10424 |
+|       8 | 0x28B9      |       10425 |
+|       9 | 0x28BA      |       10426 |
+|      10 | 0x28BB      |       10427 |
+|      11 | 0x28BC      |       10428 |
+|      12 | 0x28BD      |       10429 |
+|      13 | 0x28BE      |       10430 |
+|      14 | 0x28BF      |       10431 |
+|      15 | 0x28C0      |       10432 |
+|      16 | 0x28C1      |       10433 |
+|      17 | 0x28C2      |       10434 |
+|      18 | 0x28C3      |       10435 |
+|      19 | 0x28C4      |       10436 |
 |      20 | 0x0015      |          21 |
-|      21 | 0x28C4      |       10436 |
+|      21 | 0x28C5      |       10437 |
 |      22 | 0x0000      |           0 |
 |      23 | 0x000A      |          10 |
 |      24 | 0x001E      |          30 |
@@ -63,26 +63,26 @@
 
 ## String References
 
-- **10417**: Who tha hell are you? <Player>? Never heard of ya. How am I supposed to remember the name of one puny ant when there's millions of ya swarmin' around?
-- **10418**: Do a little work around here, and there might be somebody that'll remember your ugly face...no guarantees, though.
-- **10419**: Ya gotta get people t'trust ya. Once people do, you'll start makin' a name fer yerself 'round here.
-- **10420**: <Player>? I mighta hearda somebody that went by that name, but I meets a lot of people in me line of work.
-- **10421**: Don't look so upset there, matey. It takes a lot t'get people t'remember ya. It all starts with trust!
-- **10422**: Yer an adventurer, go an' help people out. Little by little, they'll begin t'trust ya, but don't expect anythin' right away.
-- **10423**: Wait a minute, I remember you...Mich...no...<Player>, right?
-- **10424**: Ya see, do a little work, and people start recognizin' ya. Keep up tha good work!
-- **10425**: Well, if it isn't <Player>. Hear yer name lots 'round these parts lately. Why, I remembers when you was nothin' but a measly insect.
-- **10426**: Thanks t'me advice, you're doin' quite well here in Norg.
-- **10427**: Oh, <Player>. I was just talkin' to me mateys about ya the other day.
-- **10428**: Nothin' bad, of course. They had all heard about yer deeds fer Norg. Some are even startin' t'think that maybe all you adventurers ain't so bad after all.
-- **10429**: <Player>! There's hardly a soul in Norg that doesn't know yer bloody name.
-- **10430**: Oh, sorry 'bout that. Me mum never did teach me no manners. I'll watch me damn mouth...I mean, I'll watch me mouth from now on.
-- **10431**: <Player>...[Mister/Miss] <Player>. You've become quite the household name 'round Norg.
-- **10432**: All me mateys keep askin' me if I can introduce them to ya. You've made quite a reputation for yerself!
-- **10433**: Lookin' at ya gets me thinkin' like I should leave tha life on the open sea, and become an adventurer!
-- **10434**: [Mister/Miss] <Player>! There's already rumors of yer last adventure goin' 'round Norg. You're startin' t'become some sorta legend!
-- **10435**: [Lord/Lady] <Player>! Next t'our leader, Gilgamesh, yer the most famous person in all'a Norg! Some of me mateys are even callin' ya a hero!
-- **10436**: May the light of the Dawn Goddess shine down upon ya in all yer journeys 'round Vana'diel!
+- **10418**: Who tha hell are you? <Player>? Never heard of ya. How am I supposed to remember the name of one puny ant when there's millions of ya swarmin' around?
+- **10419**: Do a little work around here, and there might be somebody that'll remember your ugly face...no guarantees, though.
+- **10420**: Ya gotta get people t'trust ya. Once people do, you'll start makin' a name fer yerself 'round here.
+- **10421**: <Player>? I mighta hearda somebody that went by that name, but I meets a lot of people in me line of work.
+- **10422**: Don't look so upset there, matey. It takes a lot t'get people t'remember ya. It all starts with trust!
+- **10423**: Yer an adventurer, go an' help people out. Little by little, they'll begin t'trust ya, but don't expect anythin' right away.
+- **10424**: Wait a minute, I remember you...Mich...no...<Player>, right?
+- **10425**: Ya see, do a little work, and people start recognizin' ya. Keep up tha good work!
+- **10426**: Well, if it isn't <Player>. Hear yer name lots 'round these parts lately. Why, I remembers when you was nothin' but a measly insect.
+- **10427**: Thanks t'me advice, you're doin' quite well here in Norg.
+- **10428**: Oh, <Player>. I was just talkin' to me mateys about ya the other day.
+- **10429**: Nothin' bad, of course. They had all heard about yer deeds fer Norg. Some are even startin' t'think that maybe all you adventurers ain't so bad after all.
+- **10430**: <Player>! There's hardly a soul in Norg that doesn't know yer bloody name.
+- **10431**: Oh, sorry 'bout that. Me mum never did teach me no manners. I'll watch me damn mouth...I mean, I'll watch me mouth from now on.
+- **10432**: <Player>...[Mister/Miss] <Player>. You've become quite the household name 'round Norg.
+- **10433**: All me mateys keep askin' me if I can introduce them to ya. You've made quite a reputation for yerself!
+- **10434**: Lookin' at ya gets me thinkin' like I should leave tha life on the open sea, and become an adventurer!
+- **10435**: [Mister/Miss] <Player>! There's already rumors of yer last adventure goin' 'round Norg. You're startin' t'become some sorta legend!
+- **10436**: [Lord/Lady] <Player>! Next t'our leader, Gilgamesh, yer the most famous person in all'a Norg! Some of me mateys are even callin' ya a hero!
+- **10437**: May the light of the Dawn Goddess shine down upon ya in all yer journeys 'round Vana'diel!
 
 ## Events
 
@@ -129,14 +129,14 @@
 
 ```
   0: 0x0001 [0x1A] CALL_SUBROUTINE(address=0x00D1)
-  1: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=10417*)
+  1: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=10418*)
     → "Who tha hell are you? <Player>? Never heard of ya. How am I supposed to remember the name of one puny ant when there's millions of ya swarmin' around?"
   2: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0008 [0x1A] CALL_SUBROUTINE(address=0x010F)
-  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10418*)
+  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10419*)
     → "Do a little work around here, and there might be somebody that'll remember your ugly face...no guarantees, though."
   5: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=10419*)
+  6: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=10420*)
     → "Ya gotta get people t'trust ya. Once people do, you'll start makin' a name fer yerself 'round here."
   7: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0013 [0x21] END_EVENT
@@ -168,16 +168,16 @@
 ```
   0: 0x0015 [0x1A] CALL_SUBROUTINE(address=0x00D1)
   1: 0x0018 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  2: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=10420*)
+  2: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=10421*)
     → "<Player>? I mighta hearda somebody that went by that name, but I meets a lot of people in me line of work."
   3: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x002B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
   5: 0x003A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
   6: 0x0047 [0x1A] CALL_SUBROUTINE(address=0x010F)
-  7: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=10421*)
+  7: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=10422*)
     → "Don't look so upset there, matey. It takes a lot t'get people t'remember ya. It all starts with trust!"
   8: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=10422*)
+  9: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=10423*)
     → "Yer an adventurer, go an' help people out. Little by little, they'll begin t'trust ya, but don't expect anythin' right away."
  10: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0052 [0x21] END_EVENT
@@ -205,10 +205,10 @@
 
 ```
   0: 0x0054 [0x1A] CALL_SUBROUTINE(address=0x00D1)
-  1: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=10423*)
+  1: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=10424*)
     → "Wait a minute, I remember you...Mich...no...<Player>, right?"
   2: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=10424*)
+  3: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=10425*)
     → "Ya see, do a little work, and people start recognizin' ya. Keep up tha good work!"
   4: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x005F [0x21] END_EVENT
@@ -237,10 +237,10 @@
 ```
   0: 0x0061 [0x1A] CALL_SUBROUTINE(address=0x00D1)
   1: 0x0064 [0x1A] CALL_SUBROUTINE(address=0x010F)
-  2: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=10425*)
+  2: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=10426*)
     → "Well, if it isn't <Player>. Hear yer name lots 'round these parts lately. Why, I remembers when you was nothin' but a measly insect."
   3: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=10426*)
+  4: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=10427*)
     → "Thanks t'me advice, you're doin' quite well here in Norg."
   5: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x006F [0x21] END_EVENT
@@ -267,10 +267,10 @@
 
 ```
   0: 0x0071 [0x1A] CALL_SUBROUTINE(address=0x00D1)
-  1: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=10427*)
+  1: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=10428*)
     → "Oh, <Player>. I was just talkin' to me mateys about ya the other day."
   2: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=10428*)
+  3: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=10429*)
     → "Nothin' bad, of course. They had all heard about yer deeds fer Norg. Some are even startin' t'think that maybe all you adventurers ain't so bad after all."
   4: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x007C [0x21] END_EVENT
@@ -298,10 +298,10 @@
 
 ```
   0: 0x007E [0x1A] CALL_SUBROUTINE(address=0x00D1)
-  1: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=10429*)
+  1: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=10430*)
     → "<Player>! There's hardly a soul in Norg that doesn't know yer bloody name."
   2: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=10430*)
+  3: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=10431*)
     → "Oh, sorry 'bout that. Me mum never did teach me no manners. I'll watch me damn mouth...I mean, I'll watch me mouth from now on."
   4: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0089 [0x21] END_EVENT
@@ -329,14 +329,14 @@
 
 ```
   0: 0x008B [0x1A] CALL_SUBROUTINE(address=0x00D1)
-  1: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=10431*)
+  1: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=10432*)
     → "<Player>...[Mister/Miss] <Player>. You've become quite the household name 'round Norg."
   2: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0092 [0x1A] CALL_SUBROUTINE(address=0x010F)
-  4: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=10432*)
+  4: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=10433*)
     → "All me mateys keep askin' me if I can introduce them to ya. You've made quite a reputation for yerself!"
   5: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=10433*)
+  6: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=10434*)
     → "Lookin' at ya gets me thinkin' like I should leave tha life on the open sea, and become an adventurer!"
   7: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x009D [0x21] END_EVENT
@@ -364,7 +364,7 @@
 
 ```
   0: 0x009F [0x1A] CALL_SUBROUTINE(address=0x00D1)
-  1: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10434*)
+  1: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10435*)
     → "[Mister/Miss] <Player>! There's already rumors of yer last adventure goin' 'round Norg. You're startin' t'become some sorta legend!"
   2: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00A6 [0x21] END_EVENT
@@ -407,11 +407,11 @@
 
 ```
   0: 0x00A8 [0x1A] CALL_SUBROUTINE(address=0x00D1)
-  1: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10435*)
+  1: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10436*)
     → "[Lord/Lady] <Player>! Next t'our leader, Gilgamesh, yer the most famous person in all'a Norg! Some of me mateys are even callin' ya a hero!"
   2: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl00" with entities [EventEntity, EventEntity], work=21*
-  4: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10436*)
+  4: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10437*)
     → "May the light of the Dawn Goddess shine down upon ya in all yer journeys 'round Vana'diel!"
   5: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00C2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl00" with entities [EventEntity, EventEntity]

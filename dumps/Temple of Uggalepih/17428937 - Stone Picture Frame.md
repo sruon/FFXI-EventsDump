@@ -23,29 +23,29 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CD9      |        7385 |
+|       0 | 0x1CDA      |        7386 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x003C      |          60 |
 |       4 | 0x0013      |          19 |
-|       5 | 0x1CDA      |        7386 |
+|       5 | 0x1CDB      |        7387 |
 |       6 | 0x0064      |         100 |
 |       7 | 0x00EA      |         234 |
 |       8 | 0x0014      |          20 |
 |       9 | 0x0078      |         120 |
-|      10 | 0x1CD7      |        7383 |
-|      11 | 0x1CD8      |        7384 |
+|      10 | 0x1CD8      |        7384 |
+|      11 | 0x1CD9      |        7385 |
 |      12 | 0x00C9      |         201 |
 |      13 | 0x0001      |           1 |
-|      14 | 0x1CD6      |        7382 |
+|      14 | 0x1CD7      |        7383 |
 
 ## String References
 
-- **7382**: You take one last, long look at the painting.
-- **7383**: A hideous voice rings in your ears...
-- **7384**: (That abomination has no place in my gallery!)
-- **7385**: Hang $3 on the wall? [Yes./Not yet.]
-- **7386**: You place $3 in the frame.
+- **7383**: You take one last, long look at the painting.
+- **7384**: A hideous voice rings in your ears...
+- **7385**: (That abomination has no place in my gallery!)
+- **7386**: Hang $3 on the wall? [Yes./Not yet.]
+- **7387**: You place $3 in the frame.
 
 ## Events
 
@@ -104,7 +104,7 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0004 [0x24] CREATE_DIALOG(message_id=7385*, default_option=0*, option_flags=0*)
+  2: 0x0004 [0x24] CREATE_DIALOG(message_id=7386*, default_option=0*, option_flags=0*)
     → "Hang $3 on the wall? [Yes./Not yet.]"
   3: 0x000B [0x25] WAIT_DIALOG_SELECT()
   4: 0x000C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BE
@@ -115,7 +115,7 @@
   9: 0x002B [0x1C] WAIT(60* ticks)
  10: 0x002E [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
  11: 0x0034 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
- 12: 0x0037 [0x48] [System] [7386*]:
+ 12: 0x0037 [0x48] [System] [7387*]:
     → "You place $3 in the frame."
  13: 0x003A [0x1C] WAIT(100* ticks)
  14: 0x003D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "art0" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
@@ -123,10 +123,10 @@
  16: 0x0051 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "s000" with entities [EventEntity, EventEntity]
  17: 0x005E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  18: 0x006F [0x1C] WAIT(120* ticks)
- 19: 0x0072 [0x48] [System] [7383*]:
+ 19: 0x0072 [0x48] [System] [7384*]:
     → "A hideous voice rings in your ears..."
  20: 0x0075 [0x1C] WAIT(60* ticks)
- 21: 0x0078 [0x48] [System] [7384*]:
+ 21: 0x0078 [0x48] [System] [7385*]:
     → "(That abomination has no place in my gallery!)"
  22: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x007C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -180,7 +180,7 @@ SUBROUTINE_00C9:
 ```
   0: 0x00CD [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x00CF [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x00D0 [0x24] CREATE_DIALOG(message_id=7385*, default_option=0*, option_flags=0*)
+  2: 0x00D0 [0x24] CREATE_DIALOG(message_id=7386*, default_option=0*, option_flags=0*)
     → "Hang $3 on the wall? [Yes./Not yet.]"
   3: 0x00D7 [0x25] WAIT_DIALOG_SELECT()
   4: 0x00D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018A
@@ -191,7 +191,7 @@ SUBROUTINE_00C9:
   9: 0x00F7 [0x1C] WAIT(60* ticks)
  10: 0x00FA [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
  11: 0x0100 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
- 12: 0x0103 [0x48] [System] [7386*]:
+ 12: 0x0103 [0x48] [System] [7387*]:
     → "You place $3 in the frame."
  13: 0x0106 [0x1C] WAIT(100* ticks)
  14: 0x0109 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "art0" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
@@ -199,10 +199,10 @@ SUBROUTINE_00C9:
  16: 0x011D [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "s000" with entities [EventEntity, EventEntity]
  17: 0x012A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  18: 0x013B [0x1C] WAIT(120* ticks)
- 19: 0x013E [0x48] [System] [7383*]:
+ 19: 0x013E [0x48] [System] [7384*]:
     → "A hideous voice rings in your ears..."
  20: 0x0141 [0x1C] WAIT(60* ticks)
- 21: 0x0144 [0x48] [System] [7384*]:
+ 21: 0x0144 [0x48] [System] [7385*]:
     → "(That abomination has no place in my gallery!)"
  22: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0148 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -256,7 +256,7 @@ SUBROUTINE_0195:
 ```
   0: 0x0199 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x019B [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x019C [0x24] CREATE_DIALOG(message_id=7385*, default_option=0*, option_flags=0*)
+  2: 0x019C [0x24] CREATE_DIALOG(message_id=7386*, default_option=0*, option_flags=0*)
     → "Hang $3 on the wall? [Yes./Not yet.]"
   3: 0x01A3 [0x25] WAIT_DIALOG_SELECT()
   4: 0x01A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0252
@@ -267,7 +267,7 @@ SUBROUTINE_0195:
   9: 0x01C3 [0x1C] WAIT(60* ticks)
  10: 0x01C6 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
  11: 0x01CC [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
- 12: 0x01CF [0x48] [System] [7386*]:
+ 12: 0x01CF [0x48] [System] [7387*]:
     → "You place $3 in the frame."
  13: 0x01D2 [0x1C] WAIT(100* ticks)
  14: 0x01D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "art0" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
@@ -275,7 +275,7 @@ SUBROUTINE_0195:
  16: 0x01E9 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "s000" with entities [EventEntity, EventEntity]
  17: 0x01F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  18: 0x0207 [0x1C] WAIT(120* ticks)
- 19: 0x020A [0x48] [System] [7382*]:
+ 19: 0x020A [0x48] [System] [7383*]:
     → "You take one last, long look at the painting."
  20: 0x020D [0x1C] WAIT(120* ticks)
  21: 0x0210 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -328,7 +328,7 @@ SUBROUTINE_025D:
 ```
   0: 0x0261 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0263 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0264 [0x24] CREATE_DIALOG(message_id=7385*, default_option=0*, option_flags=0*)
+  2: 0x0264 [0x24] CREATE_DIALOG(message_id=7386*, default_option=0*, option_flags=0*)
     → "Hang $3 on the wall? [Yes./Not yet.]"
   3: 0x026B [0x25] WAIT_DIALOG_SELECT()
   4: 0x026C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x031A
@@ -339,7 +339,7 @@ SUBROUTINE_025D:
   9: 0x028B [0x1C] WAIT(60* ticks)
  10: 0x028E [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
  11: 0x0294 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
- 12: 0x0297 [0x48] [System] [7386*]:
+ 12: 0x0297 [0x48] [System] [7387*]:
     → "You place $3 in the frame."
  13: 0x029A [0x1C] WAIT(100* ticks)
  14: 0x029D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "art0" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
@@ -347,7 +347,7 @@ SUBROUTINE_025D:
  16: 0x02B1 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "s000" with entities [EventEntity, EventEntity]
  17: 0x02BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  18: 0x02CF [0x1C] WAIT(120* ticks)
- 19: 0x02D2 [0x48] [System] [7382*]:
+ 19: 0x02D2 [0x48] [System] [7383*]:
     → "You take one last, long look at the painting."
  20: 0x02D5 [0x1C] WAIT(120* ticks)
  21: 0x02D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

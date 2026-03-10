@@ -50,9 +50,9 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0029      |          41 |
-|       3 | 0x1F6B      |        8043 |
+|       3 | 0x1F6C      |        8044 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1F6C      |        8044 |
+|       5 | 0x1F6D      |        8045 |
 |       6 | 0x5A03C     |      368700 |
 |       7 | 0x2BD9F     |      179615 |
 |       8 | 0x0169      |         361 |
@@ -74,8 +74,8 @@
 
 ## String References
 
-- **8043**: My heartaru goes out to all you pioneers. As if the dangers of the jungle weren't enough, you've also got to contend with the foul beasts within. It's a position I certainly do not envy-wenvy.
-- **8044**: A warm smile and a pataru on the back is all I am able to provide, but Elmric at the south side of tent-went may be able to give you more.
+- **8044**: My heartaru goes out to all you pioneers. As if the dangers of the jungle weren't enough, you've also got to contend with the foul beasts within. It's a position I certainly do not envy-wenvy.
+- **8045**: A warm smile and a pataru on the back is all I am able to provide, but Elmric at the south side of tent-went may be able to give you more.
 
 ## Events
 
@@ -632,11 +632,11 @@
   1: 0x0140 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0141 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0142 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
+  4: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=8044*)
     → "My heartaru goes out to all you pioneers. As if the dangers of the jungle weren't enough, you've also got to contend with the foul beasts within. It's a position I certainly do not envy-wenvy."
   5: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0155 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0161
-  7: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=8044*)
+  7: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=8045*)
     → "A warm smile and a pataru on the back is all I am able to provide, but Elmric at the south side of tent-went may be able to give you more."
   8: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0161 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

@@ -22,18 +22,18 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0006      |           6 |
-|       1 | 0x1C44      |        7236 |
+|       1 | 0x1C45      |        7237 |
 |       2 | 0x0002      |           2 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1D01      |        7425 |
-|       5 | 0x1D03      |        7427 |
+|       4 | 0x1D02      |        7426 |
+|       5 | 0x1D04      |        7428 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x005A      |          90 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x008C      |         140 |
 |      10 | 0x000F      |          15 |
 |      11 | 0x000A      |          10 |
-|      12 | 0x1C75      |        7285 |
+|      12 | 0x1C76      |        7286 |
 |      13 | 0x40000000  |  1073741824 |
 |      14 | 0x0010      |          16 |
 |      15 | 0x0003      |           3 |
@@ -47,47 +47,47 @@
 |      23 | 0x000D      |          13 |
 |      24 | 0x000E      |          14 |
 |      25 | 0x0011      |          17 |
-|      26 | 0x1C76      |        7286 |
-|      27 | 0x1D39      |        7481 |
-|      28 | 0x1D04      |        7428 |
-|      29 | 0x1C49      |        7241 |
-|      30 | 0x1C6F      |        7279 |
-|      31 | 0x1C4D      |        7245 |
-|      32 | 0x1C4C      |        7244 |
-|      33 | 0x1C4B      |        7243 |
-|      34 | 0x1C4A      |        7242 |
-|      35 | 0x1D05      |        7429 |
-|      36 | 0x1D00      |        7424 |
-|      37 | 0x2E64      |       11876 |
-|      38 | 0x2E8F      |       11919 |
-|      39 | 0x2E90      |       11920 |
-|      40 | 0x2E77      |       11895 |
-|      41 | 0x2E78      |       11896 |
-|      42 | 0x2E79      |       11897 |
+|      26 | 0x1C77      |        7287 |
+|      27 | 0x1D3A      |        7482 |
+|      28 | 0x1D05      |        7429 |
+|      29 | 0x1C4A      |        7242 |
+|      30 | 0x1C70      |        7280 |
+|      31 | 0x1C4E      |        7246 |
+|      32 | 0x1C4D      |        7245 |
+|      33 | 0x1C4C      |        7244 |
+|      34 | 0x1C4B      |        7243 |
+|      35 | 0x1D06      |        7430 |
+|      36 | 0x1D01      |        7425 |
+|      37 | 0x2E6E      |       11886 |
+|      38 | 0x2E99      |       11929 |
+|      39 | 0x2E9A      |       11930 |
+|      40 | 0x2E81      |       11905 |
+|      41 | 0x2E82      |       11906 |
+|      42 | 0x2E83      |       11907 |
 
 ## String References
 
-- **7236**: Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]
-- **7241**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
-- **7242**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
-- **7243**: $4 x $0 $5 x $0$0 $6 x $0
-- **7244**: $4 x $0 $5 x $0$0
-- **7245**: $4 x $0
-- **7279**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
-- **7285**: Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran./Expert./Authority./Luminary./Master./Grandmaster.]
-- **7286**: Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]
-- **7424**: Please, [sir/ma'am], I don't know much. Talk to the guildmasterrr, Peshi Yohnts.
-- **7425**: I'm sorrrry, [sir/ma'am], but there is nothing more I can do for you.
-- **7427**: I'll do my best, [sir/ma'am], but I cannot guarantee anything... Please don't get upset...
-- **7428**: You probably can make one already, but how about $0? You will need...
-- **7429**: Take care when working with bones... They often break when least expected...
-- **7481**: The synthesis items for that rank are still beyond your skill, I'm afraid.
-- **11876**: Ask if this person is the chick's owner? [Yes./No.]
-- **11895**: You've got my chocobo, eh?
-- **11896**: Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee.
-- **11897**: Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!
-- **11919**: You say you've got my chocobo, eh?
-- **11920**: You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!
+- **7237**: Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]
+- **7242**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
+- **7243**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
+- **7244**: $4 x $0 $5 x $0$0 $6 x $0
+- **7245**: $4 x $0 $5 x $0$0
+- **7246**: $4 x $0
+- **7280**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
+- **7286**: Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran./Expert./Authority./Luminary./Master./Grandmaster.]
+- **7287**: Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]
+- **7425**: Please, [sir/ma'am], I don't know much. Talk to the guildmasterrr, Peshi Yohnts.
+- **7426**: I'm sorrrry, [sir/ma'am], but there is nothing more I can do for you.
+- **7428**: I'll do my best, [sir/ma'am], but I cannot guarantee anything... Please don't get upset...
+- **7429**: You probably can make one already, but how about $0? You will need...
+- **7430**: Take care when working with bones... They often break when least expected...
+- **7482**: The synthesis items for that rank are still beyond your skill, I'm afraid.
+- **11886**: Ask if this person is the chick's owner? [Yes./No.]
+- **11905**: You've got my chocobo, eh?
+- **11906**: Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee.
+- **11907**: Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!
+- **11929**: You say you've got my chocobo, eh?
+- **11930**: You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!
 
 ## Events
 
@@ -185,16 +185,16 @@
 
 ```
   0: 0x0001 [0x3E] IF !(Work_Zone[5] bit 6*) GOTO 0x0347
-  1: 0x0008 [0x24] CREATE_DIALOG(message_id=7236*, default_option=2*, option_flags=0*)
+  1: 0x0008 [0x24] CREATE_DIALOG(message_id=7237*, default_option=2*, option_flags=0*)
     → "Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]"
   2: 0x000F [0x25] WAIT_DIALOG_SELECT()
   3: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0059
   4: 0x0018 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0027
-  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "I'm sorrrry, [sir/ma'am], but there is nothing more I can do for you."
   6: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0024 [0x01] GOTO 0x0056
-  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
+  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "I'll do my best, [sir/ma'am], but I cannot guarantee anything... Please don't get upset..."
   9: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002B [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -226,7 +226,7 @@ SUBROUTINE_0092:
  30: 0x00A2 [0x01] GOTO 0x007D
 
 SUBROUTINE_00A5:
- 31: 0x00A5 [0x24] CREATE_DIALOG(message_id=7285*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 31: 0x00A5 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran./Expert./Authority./Luminary./Master./Grandmaster.]"
  32: 0x00AC [0x25] WAIT_DIALOG_SELECT()
  33: 0x00AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BF
@@ -279,7 +279,7 @@ SUBROUTINE_00D1:
  76: 0x01CC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=16*, condition_work_offset=1*)
  77: 0x01D3 [0x02] IF !(Work_Zone_1700[8] == 0*) GOTO 0x01E2
  78: 0x01DB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=17*, condition_work_offset=1*)
- 79: 0x01E2 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 79: 0x01E2 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]"
  80: 0x01E9 [0x25] WAIT_DIALOG_SELECT()
  81: 0x01EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FC
@@ -296,13 +296,13 @@ SUBROUTINE_0214:
 
 SUBROUTINE_022D:
  90: 0x022D [0x02] IF !(Work_Zone[64] == 0*) GOTO 0x023B
- 91: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
+ 91: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
     → "The synthesis items for that rank are still beyond your skill, I'm afraid."
  92: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0239 [0x21] END_EVENT
  94: 0x023A [0x00] END_REQSTACK()
  95: 0x023B [0x03] Work_Zone[2] = Work_Zone[64]
- 96: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
+ 96: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
     → "You probably can make one already, but how about $0? You will need..."
  97: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0244 [0x03] Work_Zone[8] = 6*
@@ -312,11 +312,11 @@ SUBROUTINE_022D:
 102: 0x0258 [0x03] Work_Zone[6] = Work_Zone[68]
 103: 0x025D [0x03] Work_Zone[7] = Work_Zone[85]
 104: 0x0262 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0271
-105: 0x026A [0x48] [System] [7241*]:
+105: 0x026A [0x48] [System] [7242*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
 106: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x026E [0x01] GOTO 0x0275
-108: 0x0271 [0x48] [System] [7279*]:
+108: 0x0271 [0x48] [System] [7280*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
 109: 0x0274 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -330,21 +330,21 @@ SUBROUTINE_0275:
 116: 0x0293 [0x03] Work_Zone[8] = Work_Zone[79]
 117: 0x0298 [0x03] Work_Zone[9] = Work_Zone[80]
 118: 0x029D [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x02AC
-119: 0x02A5 [0x48] [System] [7245*]:
+119: 0x02A5 [0x48] [System] [7246*]:
     → "$4 x $0"
 120: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x02A9 [0x01] GOTO 0x0332
 122: 0x02AC [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x02BB
-123: 0x02B4 [0x48] [System] [7244*]:
+123: 0x02B4 [0x48] [System] [7245*]:
     → "$4 x $0 $5 x $0$0"
 124: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x02B8 [0x01] GOTO 0x0332
 126: 0x02BB [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x02CA
-127: 0x02C3 [0x48] [System] [7243*]:
+127: 0x02C3 [0x48] [System] [7244*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 128: 0x02C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x02C7 [0x01] GOTO 0x0332
-130: 0x02CA [0x48] [System] [7242*]:
+130: 0x02CA [0x48] [System] [7243*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 131: 0x02CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x02CE [0x03] Work_Zone[2] = Work_Zone[73]
@@ -358,26 +358,26 @@ SUBROUTINE_0275:
 140: 0x02F6 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0301
 141: 0x02FE [0x01] GOTO 0x0332
 142: 0x0301 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0310
-143: 0x0309 [0x48] [System] [7245*]:
+143: 0x0309 [0x48] [System] [7246*]:
     → "$4 x $0"
 144: 0x030C [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x030D [0x01] GOTO 0x0332
 146: 0x0310 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x031F
-147: 0x0318 [0x48] [System] [7244*]:
+147: 0x0318 [0x48] [System] [7245*]:
     → "$4 x $0 $5 x $0$0"
 148: 0x031B [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x031C [0x01] GOTO 0x0332
 150: 0x031F [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x032E
-151: 0x0327 [0x48] [System] [7243*]:
+151: 0x0327 [0x48] [System] [7244*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 152: 0x032A [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x032B [0x01] GOTO 0x0332
-154: 0x032E [0x48] [System] [7242*]:
+154: 0x032E [0x48] [System] [7243*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 155: 0x0331 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0332:
-156: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
+156: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
     → "Take care when working with bones... They often break when least expected..."
 157: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x0336 [0x01] GOTO 0x0344
@@ -386,7 +386,7 @@ SUBROUTINE_0332:
 
 SUBROUTINE_0344:
 161: 0x0344 [0x01] GOTO 0x034B
-162: 0x0347 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+162: 0x0347 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "Please, [sir/ma'am], I don't know much. Talk to the guildmasterrr, Peshi Yohnts."
 163: 0x034A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -492,16 +492,16 @@ SUBROUTINE_034B:
   0: 0x034D [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x034E [0x03] Work_Zone[1] = 0*
   2: 0x0353 [0x3E] IF !(Work_Zone[5] bit 6*) GOTO 0x071B
-  3: 0x035A [0x24] CREATE_DIALOG(message_id=7236*, default_option=2*, option_flags=0*)
+  3: 0x035A [0x24] CREATE_DIALOG(message_id=7237*, default_option=2*, option_flags=0*)
     → "Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]"
   4: 0x0361 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0362 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AD
   6: 0x036A [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0379
-  7: 0x0372 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+  7: 0x0372 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "I'm sorrrry, [sir/ma'am], but there is nothing more I can do for you."
   8: 0x0375 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0376 [0x01] GOTO 0x03AA
- 10: 0x0379 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
+ 10: 0x0379 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "I'll do my best, [sir/ma'am], but I cannot guarantee anything... Please don't get upset..."
  11: 0x037C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x037D [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -533,11 +533,11 @@ SUBROUTINE_03E6:
  32: 0x03F6 [0x01] GOTO 0x03D1
 
 SUBROUTINE_03F9:
- 33: 0x03F9 [0x24] CREATE_DIALOG(message_id=7285*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 33: 0x03F9 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran./Expert./Authority./Luminary./Master./Grandmaster.]"
  34: 0x0400 [0x25] WAIT_DIALOG_SELECT()
  35: 0x0401 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0458
- 36: 0x0409 [0x24] CREATE_DIALOG(message_id=11876*, default_option=1*, option_flags=0*)
+ 36: 0x0409 [0x24] CREATE_DIALOG(message_id=11886*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
  37: 0x0410 [0x25] WAIT_DIALOG_SELECT()
  38: 0x0411 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0448
@@ -545,20 +545,20 @@ SUBROUTINE_03F9:
  40: 0x0420 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  41: 0x0422 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  42: 0x0424 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0437
- 43: 0x042C [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
+ 43: 0x042C [0x1D] PRINT_EVENT_MESSAGE(message_id=11929*)
     → "You say you've got my chocobo, eh?"
  44: 0x042F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
+ 45: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=11930*)
     → "You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!"
  46: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0434 [0x01] GOTO 0x0443
- 48: 0x0437 [0x1D] PRINT_EVENT_MESSAGE(message_id=11895*)
+ 48: 0x0437 [0x1D] PRINT_EVENT_MESSAGE(message_id=11905*)
     → "You've got my chocobo, eh?"
  49: 0x043A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x043B [0x1D] PRINT_EVENT_MESSAGE(message_id=11896*)
+ 50: 0x043B [0x1D] PRINT_EVENT_MESSAGE(message_id=11906*)
     → "Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee."
  51: 0x043E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=11897*)
+ 52: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=11907*)
     → "Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!"
  53: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -614,11 +614,11 @@ SUBROUTINE_046A:
  96: 0x0565 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=16*, condition_work_offset=1*)
  97: 0x056C [0x02] IF !(Work_Zone_1700[8] == 0*) GOTO 0x057B
  98: 0x0574 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=17*, condition_work_offset=1*)
- 99: 0x057B [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 99: 0x057B [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]"
 100: 0x0582 [0x25] WAIT_DIALOG_SELECT()
 101: 0x0583 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05DA
-102: 0x058B [0x24] CREATE_DIALOG(message_id=11876*, default_option=1*, option_flags=0*)
+102: 0x058B [0x24] CREATE_DIALOG(message_id=11886*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
 103: 0x0592 [0x25] WAIT_DIALOG_SELECT()
 104: 0x0593 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05CA
@@ -626,20 +626,20 @@ SUBROUTINE_046A:
 106: 0x05A2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 107: 0x05A4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 108: 0x05A6 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x05B9
-109: 0x05AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
+109: 0x05AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11929*)
     → "You say you've got my chocobo, eh?"
 110: 0x05B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x05B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
+111: 0x05B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11930*)
     → "You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!"
 112: 0x05B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x05B6 [0x01] GOTO 0x05C5
-114: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11895*)
+114: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11905*)
     → "You've got my chocobo, eh?"
 115: 0x05BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=11896*)
+116: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=11906*)
     → "Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee."
 117: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-118: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11897*)
+118: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11907*)
     → "Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!"
 119: 0x05C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -663,12 +663,12 @@ SUBROUTINE_05F2:
 
 SUBROUTINE_060B:
 132: 0x060B [0x02] IF !(Work_Zone[64] == 0*) GOTO 0x061A
-133: 0x0613 [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
+133: 0x0613 [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
     → "The synthesis items for that rank are still beyond your skill, I'm afraid."
 134: 0x0616 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x0617 [0x01] GOTO 0x0715
 136: 0x061A [0x03] Work_Zone[2] = Work_Zone[64]
-137: 0x061F [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
+137: 0x061F [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
     → "You probably can make one already, but how about $0? You will need..."
 138: 0x0622 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0623 [0x03] Work_Zone[8] = 6*
@@ -678,11 +678,11 @@ SUBROUTINE_060B:
 143: 0x0637 [0x03] Work_Zone[6] = Work_Zone[68]
 144: 0x063C [0x03] Work_Zone[7] = Work_Zone[85]
 145: 0x0641 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0650
-146: 0x0649 [0x48] [System] [7241*]:
+146: 0x0649 [0x48] [System] [7242*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
 147: 0x064C [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x064D [0x01] GOTO 0x0654
-149: 0x0650 [0x48] [System] [7279*]:
+149: 0x0650 [0x48] [System] [7280*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
 150: 0x0653 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -696,21 +696,21 @@ SUBROUTINE_0654:
 157: 0x0672 [0x03] Work_Zone[8] = Work_Zone[79]
 158: 0x0677 [0x03] Work_Zone[9] = Work_Zone[80]
 159: 0x067C [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x068B
-160: 0x0684 [0x48] [System] [7245*]:
+160: 0x0684 [0x48] [System] [7246*]:
     → "$4 x $0"
 161: 0x0687 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x0688 [0x01] GOTO 0x0711
 163: 0x068B [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x069A
-164: 0x0693 [0x48] [System] [7244*]:
+164: 0x0693 [0x48] [System] [7245*]:
     → "$4 x $0 $5 x $0$0"
 165: 0x0696 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0697 [0x01] GOTO 0x0711
 167: 0x069A [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x06A9
-168: 0x06A2 [0x48] [System] [7243*]:
+168: 0x06A2 [0x48] [System] [7244*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 169: 0x06A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x06A6 [0x01] GOTO 0x0711
-171: 0x06A9 [0x48] [System] [7242*]:
+171: 0x06A9 [0x48] [System] [7243*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 172: 0x06AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x06AD [0x03] Work_Zone[2] = Work_Zone[73]
@@ -724,26 +724,26 @@ SUBROUTINE_0654:
 181: 0x06D5 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x06E0
 182: 0x06DD [0x01] GOTO 0x0711
 183: 0x06E0 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x06EF
-184: 0x06E8 [0x48] [System] [7245*]:
+184: 0x06E8 [0x48] [System] [7246*]:
     → "$4 x $0"
 185: 0x06EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x06EC [0x01] GOTO 0x0711
 187: 0x06EF [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x06FE
-188: 0x06F7 [0x48] [System] [7244*]:
+188: 0x06F7 [0x48] [System] [7245*]:
     → "$4 x $0 $5 x $0$0"
 189: 0x06FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x06FB [0x01] GOTO 0x0711
 191: 0x06FE [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x070D
-192: 0x0706 [0x48] [System] [7243*]:
+192: 0x0706 [0x48] [System] [7244*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 193: 0x0709 [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x070A [0x01] GOTO 0x0711
-195: 0x070D [0x48] [System] [7242*]:
+195: 0x070D [0x48] [System] [7243*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 196: 0x0710 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0711:
-197: 0x0711 [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
+197: 0x0711 [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
     → "Take care when working with bones... They often break when least expected..."
 198: 0x0714 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -752,12 +752,12 @@ SUBROUTINE_0715:
 
 SUBROUTINE_0718:
 200: 0x0718 [0x01] GOTO 0x071F
-201: 0x071B [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+201: 0x071B [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "Please, [sir/ma'am], I don't know much. Talk to the guildmasterrr, Peshi Yohnts."
 202: 0x071E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_071F:
-203: 0x071F [0x24] CREATE_DIALOG(message_id=11876*, default_option=1*, option_flags=0*)
+203: 0x071F [0x24] CREATE_DIALOG(message_id=11886*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
 204: 0x0726 [0x25] WAIT_DIALOG_SELECT()
 205: 0x0727 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x075C
@@ -765,20 +765,20 @@ SUBROUTINE_071F:
 207: 0x0736 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 208: 0x0738 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 209: 0x073A [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x074D
-210: 0x0742 [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
+210: 0x0742 [0x1D] PRINT_EVENT_MESSAGE(message_id=11929*)
     → "You say you've got my chocobo, eh?"
 211: 0x0745 [0x23] WAIT_FOR_DIALOG_INTERACTION
-212: 0x0746 [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
+212: 0x0746 [0x1D] PRINT_EVENT_MESSAGE(message_id=11930*)
     → "You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!"
 213: 0x0749 [0x23] WAIT_FOR_DIALOG_INTERACTION
 214: 0x074A [0x01] GOTO 0x0759
-215: 0x074D [0x1D] PRINT_EVENT_MESSAGE(message_id=11895*)
+215: 0x074D [0x1D] PRINT_EVENT_MESSAGE(message_id=11905*)
     → "You've got my chocobo, eh?"
 216: 0x0750 [0x23] WAIT_FOR_DIALOG_INTERACTION
-217: 0x0751 [0x1D] PRINT_EVENT_MESSAGE(message_id=11896*)
+217: 0x0751 [0x1D] PRINT_EVENT_MESSAGE(message_id=11906*)
     → "Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee."
 218: 0x0754 [0x23] WAIT_FOR_DIALOG_INTERACTION
-219: 0x0755 [0x1D] PRINT_EVENT_MESSAGE(message_id=11897*)
+219: 0x0755 [0x1D] PRINT_EVENT_MESSAGE(message_id=11907*)
     → "Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!"
 220: 0x0758 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

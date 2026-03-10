@@ -189,12 +189,12 @@
 |       6 | 0x0161      |         353 |
 |       7 | 0x01AF      |         431 |
 |       8 | 0x01B0      |         432 |
-|       9 | 0x1FE9      |        8169 |
-|      10 | 0x1FEA      |        8170 |
-|      11 | 0x1FF8      |        8184 |
-|      12 | 0x1FF9      |        8185 |
-|      13 | 0x1FFA      |        8186 |
-|      14 | 0x1FFB      |        8187 |
+|       9 | 0x1FEA      |        8170 |
+|      10 | 0x1FEB      |        8171 |
+|      11 | 0x1FF9      |        8185 |
+|      12 | 0x1FFA      |        8186 |
+|      13 | 0x1FFB      |        8187 |
+|      14 | 0x1FFC      |        8188 |
 |      15 | 0x00C8      |         200 |
 |      16 | 0x0000      |           0 |
 |      17 | 0x003C      |          60 |
@@ -203,16 +203,16 @@
 |      20 | 0x007B      |         123 |
 |      21 | 0x0064      |         100 |
 |      22 | 0x008A      |         138 |
-|      23 | 0x1DEE      |        7662 |
+|      23 | 0x1DEF      |        7663 |
 |      24 | 0x03E8      |        1000 |
 |      25 | 0x0008      |           8 |
 |      26 | 0x0078      |         120 |
-|      27 | 0x1DF3      |        7667 |
-|      28 | 0x1DF4      |        7668 |
-|      29 | 0x1DF5      |        7669 |
-|      30 | 0x1DF6      |        7670 |
-|      31 | 0x1DF9      |        7673 |
-|      32 | 0x1DFA      |        7674 |
+|      27 | 0x1DF4      |        7668 |
+|      28 | 0x1DF5      |        7669 |
+|      29 | 0x1DF6      |        7670 |
+|      30 | 0x1DF7      |        7671 |
+|      31 | 0x1DFA      |        7674 |
+|      32 | 0x1DFB      |        7675 |
 |      33 | 0x012C      |         300 |
 |      34 | 0x0097      |         151 |
 |      35 | 0x007F      |         127 |
@@ -227,145 +227,145 @@
 |      44 | 0xFFFF9009  |  4294938633 |
 |      45 | 0x197EA     |      104426 |
 |      46 | 0xFFFFEB7E  |  4294962046 |
-|      47 | 0x1DED      |        7661 |
-|      48 | 0x1DEF      |        7663 |
-|      49 | 0x1DF0      |        7664 |
-|      50 | 0x1DF1      |        7665 |
-|      51 | 0x1DF2      |        7666 |
-|      52 | 0x1DF7      |        7671 |
-|      53 | 0x1DF8      |        7672 |
-|      54 | 0x1DFB      |        7675 |
-|      55 | 0x1DFC      |        7676 |
-|      56 | 0x1DFD      |        7677 |
-|      57 | 0x1DFE      |        7678 |
-|      58 | 0x1DFF      |        7679 |
-|      59 | 0x1E00      |        7680 |
-|      60 | 0x1E01      |        7681 |
-|      61 | 0x1E0F      |        7695 |
-|      62 | 0x1E13      |        7699 |
+|      47 | 0x1DEE      |        7662 |
+|      48 | 0x1DF0      |        7664 |
+|      49 | 0x1DF1      |        7665 |
+|      50 | 0x1DF2      |        7666 |
+|      51 | 0x1DF3      |        7667 |
+|      52 | 0x1DF8      |        7672 |
+|      53 | 0x1DF9      |        7673 |
+|      54 | 0x1DFC      |        7676 |
+|      55 | 0x1DFD      |        7677 |
+|      56 | 0x1DFE      |        7678 |
+|      57 | 0x1DFF      |        7679 |
+|      58 | 0x1E00      |        7680 |
+|      59 | 0x1E01      |        7681 |
+|      60 | 0x1E02      |        7682 |
+|      61 | 0x1E10      |        7696 |
+|      62 | 0x1E14      |        7700 |
 |      63 | 0x00C9      |         201 |
-|      64 | 0x1E0E      |        7694 |
-|      65 | 0x1E10      |        7696 |
-|      66 | 0x1E11      |        7697 |
-|      67 | 0x1E12      |        7698 |
-|      68 | 0x1E14      |        7700 |
-|      69 | 0x1E15      |        7701 |
-|      70 | 0x1E16      |        7702 |
-|      71 | 0x2018      |        8216 |
+|      64 | 0x1E0F      |        7695 |
+|      65 | 0x1E11      |        7697 |
+|      66 | 0x1E12      |        7698 |
+|      67 | 0x1E13      |        7699 |
+|      68 | 0x1E15      |        7701 |
+|      69 | 0x1E16      |        7702 |
+|      70 | 0x1E17      |        7703 |
+|      71 | 0x2019      |        8217 |
 |      72 | 0xFFFF9F2A  |  4294942506 |
 |      73 | 0x1A12F     |      106799 |
 |      74 | 0xFFFF9CC7  |  4294941895 |
 |      75 | 0x18FD2     |      102354 |
 |      76 | 0xFFFF9D4B  |  4294942027 |
 |      77 | 0x19909     |      104713 |
-|      78 | 0x2016      |        8214 |
-|      79 | 0x2017      |        8215 |
-|      80 | 0x2019      |        8217 |
-|      81 | 0x201A      |        8218 |
-|      82 | 0x201C      |        8220 |
-|      83 | 0x201D      |        8221 |
-|      84 | 0x201E      |        8222 |
-|      85 | 0x201F      |        8223 |
-|      86 | 0x2020      |        8224 |
-|      87 | 0x2021      |        8225 |
-|      88 | 0x2022      |        8226 |
-|      89 | 0x2023      |        8227 |
-|      90 | 0x2024      |        8228 |
-|      91 | 0x2046      |        8262 |
-|      92 | 0x1CE0      |        7392 |
-|      93 | 0x1CE1      |        7393 |
-|      94 | 0x2047      |        8263 |
-|      95 | 0x2048      |        8264 |
-|      96 | 0x205A      |        8282 |
-|      97 | 0x205B      |        8283 |
-|      98 | 0x259D      |        9629 |
-|      99 | 0x259E      |        9630 |
+|      78 | 0x2017      |        8215 |
+|      79 | 0x2018      |        8216 |
+|      80 | 0x201A      |        8218 |
+|      81 | 0x201B      |        8219 |
+|      82 | 0x201D      |        8221 |
+|      83 | 0x201E      |        8222 |
+|      84 | 0x201F      |        8223 |
+|      85 | 0x2020      |        8224 |
+|      86 | 0x2021      |        8225 |
+|      87 | 0x2022      |        8226 |
+|      88 | 0x2023      |        8227 |
+|      89 | 0x2024      |        8228 |
+|      90 | 0x2025      |        8229 |
+|      91 | 0x2047      |        8263 |
+|      92 | 0x1CE1      |        7393 |
+|      93 | 0x1CE2      |        7394 |
+|      94 | 0x2048      |        8264 |
+|      95 | 0x2049      |        8265 |
+|      96 | 0x205B      |        8283 |
+|      97 | 0x205C      |        8284 |
+|      98 | 0x259E      |        9630 |
+|      99 | 0x259F      |        9631 |
 |     100 | 0xFFFF94EC  |  4294939884 |
 |     101 | 0x18713     |      100115 |
 |     102 | 0xFFFF99E7  |  4294941159 |
 |     103 | 0x1903B     |      102459 |
 |     104 | 0x0C82      |        3202 |
-|     105 | 0x25B7      |        9655 |
-|     106 | 0x25B8      |        9656 |
+|     105 | 0x25B8      |        9656 |
+|     106 | 0x25B9      |        9657 |
 |     107 | 0x00D3      |         211 |
-|     108 | 0x25B9      |        9657 |
-|     109 | 0x25BA      |        9658 |
-|     110 | 0x25BB      |        9659 |
+|     108 | 0x25BA      |        9658 |
+|     109 | 0x25BB      |        9659 |
+|     110 | 0x25BC      |        9660 |
 |     111 | 0x0032      |          50 |
-|     112 | 0x25BC      |        9660 |
-|     113 | 0x25BD      |        9661 |
-|     114 | 0x25BE      |        9662 |
-|     115 | 0x25BF      |        9663 |
-|     116 | 0x25C0      |        9664 |
-|     117 | 0x25C1      |        9665 |
-|     118 | 0x25C2      |        9666 |
-|     119 | 0x25C3      |        9667 |
+|     112 | 0x25BD      |        9661 |
+|     113 | 0x25BE      |        9662 |
+|     114 | 0x25BF      |        9663 |
+|     115 | 0x25C0      |        9664 |
+|     116 | 0x25C1      |        9665 |
+|     117 | 0x25C2      |        9666 |
+|     118 | 0x25C3      |        9667 |
+|     119 | 0x25C4      |        9668 |
 |     120 | 0x00F2      |         242 |
 |     121 | 0x000C      |          12 |
 |     122 | 0x01AC      |         428 |
 |     123 | 0x0068      |         104 |
-|     124 | 0x25C4      |        9668 |
-|     125 | 0x25C5      |        9669 |
-|     126 | 0x25C6      |        9670 |
-|     127 | 0x25C7      |        9671 |
+|     124 | 0x25C5      |        9669 |
+|     125 | 0x25C6      |        9670 |
+|     126 | 0x25C7      |        9671 |
+|     127 | 0x25C8      |        9672 |
 |     128 | 0x00A9      |         169 |
 |     129 | 0x000F      |          15 |
 |     130 | 0x0048      |          72 |
-|     131 | 0x25C8      |        9672 |
-|     132 | 0x25C9      |        9673 |
-|     133 | 0x25CA      |        9674 |
-|     134 | 0x25CB      |        9675 |
-|     135 | 0x25CC      |        9676 |
+|     131 | 0x25C9      |        9673 |
+|     132 | 0x25CA      |        9674 |
+|     133 | 0x25CB      |        9675 |
+|     134 | 0x25CC      |        9676 |
+|     135 | 0x25CD      |        9677 |
 |     136 | 0x00EE      |         238 |
-|     137 | 0x25CD      |        9677 |
-|     138 | 0x25CE      |        9678 |
-|     139 | 0x25CF      |        9679 |
-|     140 | 0x25D0      |        9680 |
-|     141 | 0x25D1      |        9681 |
-|     142 | 0x25DE      |        9694 |
-|     143 | 0x25DF      |        9695 |
+|     137 | 0x25CE      |        9678 |
+|     138 | 0x25CF      |        9679 |
+|     139 | 0x25D0      |        9680 |
+|     140 | 0x25D1      |        9681 |
+|     141 | 0x25D2      |        9682 |
+|     142 | 0x25DF      |        9695 |
+|     143 | 0x25E0      |        9696 |
 |     144 | 0x00A0      |         160 |
-|     145 | 0x25E0      |        9696 |
-|     146 | 0x25E1      |        9697 |
-|     147 | 0x25E2      |        9698 |
-|     148 | 0x25E3      |        9699 |
+|     145 | 0x25E1      |        9697 |
+|     146 | 0x25E2      |        9698 |
+|     147 | 0x25E3      |        9699 |
+|     148 | 0x25E4      |        9700 |
 |     149 | 0x074E      |        1870 |
-|     150 | 0x25E4      |        9700 |
-|     151 | 0x25E5      |        9701 |
-|     152 | 0x25E6      |        9702 |
-|     153 | 0x25E7      |        9703 |
+|     150 | 0x25E5      |        9701 |
+|     151 | 0x25E6      |        9702 |
+|     152 | 0x25E7      |        9703 |
+|     153 | 0x25E8      |        9704 |
 |     154 | 0x0028      |          40 |
 |     155 | 0xFFFF9C4F  |  4294941775 |
 |     156 | 0x18D72     |      101746 |
-|     157 | 0x26D0      |        9936 |
-|     158 | 0x26D1      |        9937 |
-|     159 | 0x26D2      |        9938 |
-|     160 | 0x26D3      |        9939 |
-|     161 | 0x26D4      |        9940 |
-|     162 | 0x26D5      |        9941 |
-|     163 | 0x26D6      |        9942 |
-|     164 | 0x26D7      |        9943 |
-|     165 | 0x26D8      |        9944 |
-|     166 | 0x26D9      |        9945 |
+|     157 | 0x26D1      |        9937 |
+|     158 | 0x26D2      |        9938 |
+|     159 | 0x26D3      |        9939 |
+|     160 | 0x26D4      |        9940 |
+|     161 | 0x26D5      |        9941 |
+|     162 | 0x26D6      |        9942 |
+|     163 | 0x26D7      |        9943 |
+|     164 | 0x26D8      |        9944 |
+|     165 | 0x26D9      |        9945 |
+|     166 | 0x26DA      |        9946 |
 |     167 | 0x000A      |          10 |
-|     168 | 0x26DA      |        9946 |
-|     169 | 0x26DB      |        9947 |
-|     170 | 0x26DC      |        9948 |
-|     171 | 0x26DD      |        9949 |
-|     172 | 0x26DF      |        9951 |
-|     173 | 0x26DE      |        9950 |
-|     174 | 0x26E0      |        9952 |
-|     175 | 0x26E1      |        9953 |
-|     176 | 0x26E2      |        9954 |
-|     177 | 0x26E3      |        9955 |
-|     178 | 0x26E4      |        9956 |
-|     179 | 0x26E5      |        9957 |
-|     180 | 0x26E6      |        9958 |
-|     181 | 0x26E7      |        9959 |
-|     182 | 0x26E8      |        9960 |
-|     183 | 0x276F      |       10095 |
-|     184 | 0x2770      |       10096 |
-|     185 | 0x2771      |       10097 |
+|     168 | 0x26DB      |        9947 |
+|     169 | 0x26DC      |        9948 |
+|     170 | 0x26DD      |        9949 |
+|     171 | 0x26DE      |        9950 |
+|     172 | 0x26E0      |        9952 |
+|     173 | 0x26DF      |        9951 |
+|     174 | 0x26E1      |        9953 |
+|     175 | 0x26E2      |        9954 |
+|     176 | 0x26E3      |        9955 |
+|     177 | 0x26E4      |        9956 |
+|     178 | 0x26E5      |        9957 |
+|     179 | 0x26E6      |        9958 |
+|     180 | 0x26E7      |        9959 |
+|     181 | 0x26E8      |        9960 |
+|     182 | 0x26E9      |        9961 |
+|     183 | 0x2770      |       10096 |
+|     184 | 0x2771      |       10097 |
+|     185 | 0x2772      |       10098 |
 |     186 | 0xFFFFA3C3  |  4294943683 |
 |     187 | 0x194EB     |      103659 |
 |     188 | 0x02F8      |         760 |
@@ -373,9 +373,9 @@
 |     190 | 0x18C18     |      101400 |
 |     191 | 0x19000     |      102400 |
 |     192 | 0x18830     |      100400 |
-|     193 | 0x2931      |       10545 |
-|     194 | 0x2968      |       10600 |
-|     195 | 0x2969      |       10601 |
+|     193 | 0x2932      |       10546 |
+|     194 | 0x2969      |       10601 |
+|     195 | 0x296A      |       10602 |
 |     196 | 0xFFFF953C  |  4294939964 |
 |     197 | 0x192BF     |      103103 |
 |     198 | 0xFFFF95AD  |  4294940077 |
@@ -395,127 +395,127 @@
 
 ## String References
 
-- **7392**: Hrmmmm...!? Nice hat... Shame it doesn't suit you, though.
-- **7393**: Hrmm... Maybe it'll suit me? As I always say... If the hat fits, wear it!
-- **7661**: Hrm. Hrmmm... Hrrrmmmmmm...hrm!
-- **7662**: ...Hrm!? Sorry about that. I was just thinking...
-- **7663**: I'm facing my first crisis since taking over as Minister of the Optistery here...
-- **7664**: .........Hrm? By the way, who in my stars are you? Wha-wha-what? You're the adventurer sent here to help from the gatehouse?
-- **7665**: ......Hrmmmm? Oh, so you're the adventurer sent here to help from the gatehouse, huh?
-- **7666**: Well then, let me explain. Hrmmm...... Where do I start?
-- **7671**: But the restricted books section is another matter.
-- **7672**: Restricted books are never allowed to be taken out of the Library of Magic, and are normally sealed away in a special room.
-- **7673**: Manuscripts, life-threateningly dangerous to those weak in magical power...
-- **7675**: All of which are writings that, if taken outside, would cause great calamity. However, one very important book disappeared during the war twenty years ago, and has never been seen since.
-- **7676**: But recently, I received word that said book had fallen into the dirty paws of that outrageous Mithran Cat Burglar who inhabits Windurst Woods.
-- **7677**: Although the source of this information is dubious, the possibility that she has that book is a matter of great consequence.
-- **7678**: That's where you come in... I want you to go meet that so-called "Cat Burglar" and confirm whether or not she possesses any of our restricted books.
-- **7679**: The Optistery must retrieve any restricted books back as soon as possible, and at any cost. We are counting on you!
-- **7680**: Hrmmm...... I wonder if that so-called Mithran "Cat Burglar" really has one of our restricted books.
-- **7681**: If it is true, it's a gravely dangerous situation. Anyone with weak magical powers would be killed the second they opened such a book!
-- **7694**: Hrmm!? Oh, you're finally back!
-- **7695**: How did it go? Did that so-called Mithran "Cat Burglar" really have her paws on one of our restricted books?
-- **7696**: ...Wha-wha-wha-what!? Preposterous! The Book of the Gods...!? No...! The time for the Book of the Gods to lose its magic has come...!? Wha...!?
-- **7697**: It's said that when the Book of the Gods loses its magic power and returns to blank pages, the shadows of destruction will set upon our world...
-- **7698**: Hrm! Really, how could such a fearful thing ever happen!?
-- **7699**: Ajido-Marujido! I bet you wanted the Book of the Gods so badly that you came up with this preposterous lie. Hrmmm...
-- **7700**: Don't you worry about Ajido-Marujido! I'll report him to the Star Sibyl myself.
-- **7701**: And as for you, adventurer. I must warn you to forget this ever happened! You understand?
-- **7702**: Hrmmmm! You must not frighten the others with rumors that the Book of the Gods has gone blank. Forget everything that happened. You understand?
-- **8169**: Hrmm. Hey you! What are you doing there?
-- **8170**: You look like an adventurer or some other riff-raff. It doesn't seem like you'd have any business with our distinguished Library of Magic!
-- **8184**: Hrrrrm... That can't be it... Then again... Hr-hr-hr-hrmm...
-- **8185**: Hrm! Hey, you're the adventurer from the other day! I don't believe it! I don't believe a word anyone says!
-- **8186**: Hr-hr-hr-hrmm... Thanks to some adventurer somewhere, I was able to awaken from an inescapable nightmare.
-- **8187**: The resurrection of the Shadow Lord and the Book of the Gods losing its magic... Those things couldn't possibly happen. It was all but a dream...
-- **8214**: Hrmm. Hey you! What are you doing there?
-- **8215**: Hrmm!? Just a second... I could use you. Would you be willing to do a little chore for me in return for some money?
-- **8216**: Take on the chore? [Accept./Decline.]
-- **8217**: You don't need the cash? Hah! Just goes to show you can't judge a book by its cover, then... Anyway, I'm busy, so off with you!
-- **8218**: Good! First, let me explain a bit about our distinguished library.
-- **8220**: This library's official name is the Federal Book Repository for Magical Knowledge and Research...
-- **8221**: Also known as the Book Repository of General Knowledges. It is under the jurisdiction of the Optistery, the ministry that forbids the loss of knowledge.
-- **8222**: Under the strict supervision of successive ministers, our Optistery has protected the knowledge stored here with a system that doesn't allow even a baby ant to go unaccounted for.
-- **8223**: For instance, the diary that disappears into blank pages after three days, or the housekeeping account book that's so red, it makes your eyes weep.
-- **8224**: Once a book or scroll is placed in our care, we will never allow its content to be lost.
-- **8225**: Hrmm... However...several misfortunes have thrown the wheels of fate into disorder.
-- **8226**: We want you to hunt down those books that have suffered such a sad fate, and bring them back to us.
-- **8227**: Ask the librarian at the counter, Furakku-Norakku, for the details. We're counting on you, the savior of knowledge!
-- **8228**: Hrm? Wha-wha-what's wrong? Are you fulfilling your role as the savior of knowledge?
-- **8262**: Hrm. I hear another book crying somewhere... Hrrrmmmmmm...
-- **8263**: If your journeys seem to have lost purpose of late, why not help out my ministry in your capacity as the "savior of knowledge" again?
-- **8264**: Help out the library again? [Listen to offer./Don't.]
-- **8282**: Hae Jakkya from Windurst Woods' auction house? I remember now... She's a regular here. Never had a late book in her life.
-- **8283**: If only all the Mithra were as diligent as she is. But don't get me started with my grumblings...
-- **9629**: Looks like Ajido-Marujido has finally been restrained by the Sibyl Guards!
-- **9630**: Has his search for power blinded his judgmentaru? How dare he set foot in the Full Moon Fountain, sacred-wacred place of our beloved Star Sibyl!
-- **9655**: Hrm. Hrmmm... Hrrrmmmmmm...hrm!
-- **9656**: ...Hrm!? Aren'taru you the adventurer who completed my last mission?
-- **9657**: Heh-heh-heh... Actually, the mission I issued to the gatehouse was justaru a cover-up.
-- **9658**: Since the incidentaru with Ajido-Marujido, the Sibyl Guards have been paying too much attention to the mission statements...
-- **9660**: The Book of the Gods... We had no idea of its location for all those years after the war. That was the tome you recovered for us from the dastard-wastardly Cat Burglar.
-- **9661**: Ajido-Marujido then swiped the book, and delivered it to the Star Sibyl himself.
-- **9662**: Then a few days ago... The Star Sibyl summoned me to Heavens Tower and handed the Book of the Gods over to me.
-- **9663**: I was ordered to never letaru that tome see the light of day again.
-- **9664**: ...Hrmmm... That's what the Star Sibyl ordered, so I mustaru obey! But I...that is something I just cannot do!
-- **9665**: The pages of the Book of the Gods are blank! I cannot turn my eyes from the truth. As the name of the Optistery suggestarus, we are the eyes of Windurst!
-- **9666**: If I ignore the truth before me, how can I call myself the Minister of the Optistery?
-- **9667**: Here is the deal. What I am aboutaru to tell you must be in the strictest-wictest of confidence. You mustn'taru leak a word of it to anyone.
-- **9668**: When I was still justaru a student, I heard about the Book of the Gods from the minister at the time...Minister Karaha-Baruha.
-- **9669**: The Book of the Gods refers to the "True History" written by the first Star Sibyl for the benefitaru of the Star Sibyls that would succeed her.
-- **9670**: The truth contained in this book can be extremely-wemely dangerous, and it has been passed down through generations of Ministers.
-- **9671**: Consequentaruly, the Book of the Gods is sealed by powerful spells. This seal can only be broken through the expenditure of huge amountarus of magic while employing the "Diza Star" that hangs from the neck of the Star Sibyl.
-- **9672**: ...I don'taru know how he did it, but Minister Karaha-Baruha managed to obtain the Star Sibyl's permission to open the Book of the Gods.
-- **9673**: To breach the seal on the tome, the minister utilized the power of the Horutoto Ruins' magical towers...
-- **9674**: ...And from the Book of the Gods, he learned a certain truth. This truth was indeed a dangerous thing.
-- **9675**: Karaha-Baruha carried outaru his research in a laboratory hidden within Toraimarai Canal...
-- **9676**: You mightaru call this laboratory the sixth ministry of Windurst. ...The Animastery...
-- **9677**: Adventurer, find that ministry. If you enter the Animastery, you may find something from Minister Karaha-Baruha's research.
-- **9678**: We mustaru discover the reason why the writings contained in this tome have vanished.
-- **9679**: Ah yes, I mustaru give you this. You should be able to enter the Animastery using this ring. It is the $3. Try your bestaru not to lose it.
-- **9680**: Go to Toraimarai Canal and find the Animastery. There you may find the remnantarus of Minister Karaha-Baruha's research.
-- **9681**: ...Hrmmm! Ah yes, don't go losing that $3! I'm trusting you to take good care of it!
-- **9694**: Hrm!? Oh, you finally made it back.
-- **9695**: How did it go!? Did you find anything!?
-- **9696**: Wh-wh-wh-wh-what!!! The Star Sibyl was there!?
-- **9697**: Oh, my goodly Goddess... Charges could be brought against me... If they throw me in the Dark Dungeon, all is lostaru!
-- **9698**: Hrm, adventurer! My life is in your hands. Take this and keep it safe.
-- **9699**: I-i-if I am imprisoned in the Dark Dungeon, take it to the Star Sibyl and use it to secure my freedom.
-- **9700**: Hrmmm! This is not blackmail. ...This is negotiation! Yes, you will negotiate my freedom with the Star Sibyl!
-- **9701**: Don't breathey-weathe a word of this to anyone! Now quickly, get yourself away from here!
-- **9702**: I-i-if I am imprisoned in the Dark Dungeon, take it to the Star Sibyl and use it to secure my freedom.
-- **9703**: Hrmmm! This is not blackmail. ...This is negotiation! Yes, you will negotiate my freedom with the Star Sibyl!
-- **9936**: Hrmm! What!? There's no reason for me to feel guilty! I have absolutaruly no intention of defying the will of the Star Sibyl!
-- **9937**: ...? What was that? You want me to lend you my $3 again?
-- **9938**: Hrmm, I know what you're up to! You want to go back to the Animastery, don't you!?
-- **9939**: There's no more reason for you to go there. In factaru, you really shouldn't. How would you talk yourself out of trouble-wouble if you happened to run into the Star Sibyl again?
-- **9940**: ...Hrmm! What's that!? That's not the reason? You mean to break Ajido-Marujido out of the Dark Dungeon using my $3!?
-- **9941**: ...Hmmm... The Dark Dungeon, huh? They say that the Dark Dungeon drains a person's magical power, eventually killing them...
-- **9942**: I doubtaru the Star Sibyl really intends to rob-wob Ajido-Marujido of his life. But she may be angry enough to rob him of his life as a mage.
-- **9943**: Hrmm!? There was once a similar tragedy...I seem to recall... Now...who was that...?
-- **9944**: ...In any case, I have not the slightest-wightest interest in doing anything that would benefitaru Ajido-Marujido. If you're looking for help from me, you've come to the wrong place. Now, get out of here!
-- **9945**: ...!? Hrm? Just a momentaru...?
-- **9946**: It can't be... Hrmm... That power I feel coming from you...
-- **9947**: The magic has returned to the blank tome! It's a miracle...! This will mean the salvation of Windurst!
-- **9948**: ...What!? You intend to have Ajido-Marujido read the book!? Don'taru be a fool! If you want someone to read it, then give it to me. I can...!
-- **9949**: Great Goddess! I cannot... This is beyond my strength... I may be able to open it if I had the Diza Star of the Star Sibyl...
-- **9950**: Hrmm... A wily wizard of Ajido-Marujido's power should be able to withstand this magic...
-- **9951**: ......
-- **9952**: ...I admit defeataru!
-- **9953**: But if I help you get this book to Ajido-Marujido, you mustaru tell me what knowledge its pages contain.
-- **9954**: I mustaru know the dangerous truth learned by Minister Karaha-Baruha.
-- **9955**: Here, take my $3. Return it to me as soon as your task is complete!
-- **9956**: Hrm! Are we clear? Once you have Ajido-Marujido read the Book of the Gods, you mustaru tell me what knowledge is contained within.
-- **9957**: Return my $3 as soon as your task is complete!
-- **9958**: Where have you been? Did Ajido-Marujido get the book open!?
-- **9959**: ...Hrmm, he's fallen into a coma, has he...? He must've been drawn into the "World of the Book."
-- **9960**: If he manages to return to consciousness, he will have all the knowledge contained within the Book of the Gods. ...If he makes it back, that is.
-- **10095**: I've been waiting for you! Have you seen Ajido-Marujido? I justaru can't seem to get hold of him.
-- **10096**: It's unthink-winkable that the Minister of the Orastery should know the secrets of the Book of the Gods while the Minister of the Optistery wallows in ignorance!
-- **10097**: My position demands I gain the knowledge contained within that tome! I'll take this directaruly to the Star Sibyl!
-- **10545**: Hrm. Hrmmm... Hrrrmmmmmm...hrm!
-- **10600**: Kuluu, Zilart, Bahamut... Those are all names found in my dustiest and mustiest of tomes--and those tomes say that all three perished long, long ago!
-- **10601**: I'm not going to believe any of this rubbly rubbish unless someone brings one of those Zilart here before my eyes!
+- **7393**: Hrmmmm...!? Nice hat... Shame it doesn't suit you, though.
+- **7394**: Hrmm... Maybe it'll suit me? As I always say... If the hat fits, wear it!
+- **7662**: Hrm. Hrmmm... Hrrrmmmmmm...hrm!
+- **7663**: ...Hrm!? Sorry about that. I was just thinking...
+- **7664**: I'm facing my first crisis since taking over as Minister of the Optistery here...
+- **7665**: .........Hrm? By the way, who in my stars are you? Wha-wha-what? You're the adventurer sent here to help from the gatehouse?
+- **7666**: ......Hrmmmm? Oh, so you're the adventurer sent here to help from the gatehouse, huh?
+- **7667**: Well then, let me explain. Hrmmm...... Where do I start?
+- **7672**: But the restricted books section is another matter.
+- **7673**: Restricted books are never allowed to be taken out of the Library of Magic, and are normally sealed away in a special room.
+- **7674**: Manuscripts, life-threateningly dangerous to those weak in magical power...
+- **7676**: All of which are writings that, if taken outside, would cause great calamity. However, one very important book disappeared during the war twenty years ago, and has never been seen since.
+- **7677**: But recently, I received word that said book had fallen into the dirty paws of that outrageous Mithran Cat Burglar who inhabits Windurst Woods.
+- **7678**: Although the source of this information is dubious, the possibility that she has that book is a matter of great consequence.
+- **7679**: That's where you come in... I want you to go meet that so-called "Cat Burglar" and confirm whether or not she possesses any of our restricted books.
+- **7680**: The Optistery must retrieve any restricted books back as soon as possible, and at any cost. We are counting on you!
+- **7681**: Hrmmm...... I wonder if that so-called Mithran "Cat Burglar" really has one of our restricted books.
+- **7682**: If it is true, it's a gravely dangerous situation. Anyone with weak magical powers would be killed the second they opened such a book!
+- **7695**: Hrmm!? Oh, you're finally back!
+- **7696**: How did it go? Did that so-called Mithran "Cat Burglar" really have her paws on one of our restricted books?
+- **7697**: ...Wha-wha-wha-what!? Preposterous! The Book of the Gods...!? No...! The time for the Book of the Gods to lose its magic has come...!? Wha...!?
+- **7698**: It's said that when the Book of the Gods loses its magic power and returns to blank pages, the shadows of destruction will set upon our world...
+- **7699**: Hrm! Really, how could such a fearful thing ever happen!?
+- **7700**: Ajido-Marujido! I bet you wanted the Book of the Gods so badly that you came up with this preposterous lie. Hrmmm...
+- **7701**: Don't you worry about Ajido-Marujido! I'll report him to the Star Sibyl myself.
+- **7702**: And as for you, adventurer. I must warn you to forget this ever happened! You understand?
+- **7703**: Hrmmmm! You must not frighten the others with rumors that the Book of the Gods has gone blank. Forget everything that happened. You understand?
+- **8170**: Hrmm. Hey you! What are you doing there?
+- **8171**: You look like an adventurer or some other riff-raff. It doesn't seem like you'd have any business with our distinguished Library of Magic!
+- **8185**: Hrrrrm... That can't be it... Then again... Hr-hr-hr-hrmm...
+- **8186**: Hrm! Hey, you're the adventurer from the other day! I don't believe it! I don't believe a word anyone says!
+- **8187**: Hr-hr-hr-hrmm... Thanks to some adventurer somewhere, I was able to awaken from an inescapable nightmare.
+- **8188**: The resurrection of the Shadow Lord and the Book of the Gods losing its magic... Those things couldn't possibly happen. It was all but a dream...
+- **8215**: Hrmm. Hey you! What are you doing there?
+- **8216**: Hrmm!? Just a second... I could use you. Would you be willing to do a little chore for me in return for some money?
+- **8217**: Take on the chore? [Accept./Decline.]
+- **8218**: You don't need the cash? Hah! Just goes to show you can't judge a book by its cover, then... Anyway, I'm busy, so off with you!
+- **8219**: Good! First, let me explain a bit about our distinguished library.
+- **8221**: This library's official name is the Federal Book Repository for Magical Knowledge and Research...
+- **8222**: Also known as the Book Repository of General Knowledges. It is under the jurisdiction of the Optistery, the ministry that forbids the loss of knowledge.
+- **8223**: Under the strict supervision of successive ministers, our Optistery has protected the knowledge stored here with a system that doesn't allow even a baby ant to go unaccounted for.
+- **8224**: For instance, the diary that disappears into blank pages after three days, or the housekeeping account book that's so red, it makes your eyes weep.
+- **8225**: Once a book or scroll is placed in our care, we will never allow its content to be lost.
+- **8226**: Hrmm... However...several misfortunes have thrown the wheels of fate into disorder.
+- **8227**: We want you to hunt down those books that have suffered such a sad fate, and bring them back to us.
+- **8228**: Ask the librarian at the counter, Furakku-Norakku, for the details. We're counting on you, the savior of knowledge!
+- **8229**: Hrm? Wha-wha-what's wrong? Are you fulfilling your role as the savior of knowledge?
+- **8263**: Hrm. I hear another book crying somewhere... Hrrrmmmmmm...
+- **8264**: If your journeys seem to have lost purpose of late, why not help out my ministry in your capacity as the "savior of knowledge" again?
+- **8265**: Help out the library again? [Listen to offer./Don't.]
+- **8283**: Hae Jakkya from Windurst Woods' auction house? I remember now... She's a regular here. Never had a late book in her life.
+- **8284**: If only all the Mithra were as diligent as she is. But don't get me started with my grumblings...
+- **9630**: Looks like Ajido-Marujido has finally been restrained by the Sibyl Guards!
+- **9631**: Has his search for power blinded his judgmentaru? How dare he set foot in the Full Moon Fountain, sacred-wacred place of our beloved Star Sibyl!
+- **9656**: Hrm. Hrmmm... Hrrrmmmmmm...hrm!
+- **9657**: ...Hrm!? Aren'taru you the adventurer who completed my last mission?
+- **9658**: Heh-heh-heh... Actually, the mission I issued to the gatehouse was justaru a cover-up.
+- **9659**: Since the incidentaru with Ajido-Marujido, the Sibyl Guards have been paying too much attention to the mission statements...
+- **9661**: The Book of the Gods... We had no idea of its location for all those years after the war. That was the tome you recovered for us from the dastard-wastardly Cat Burglar.
+- **9662**: Ajido-Marujido then swiped the book, and delivered it to the Star Sibyl himself.
+- **9663**: Then a few days ago... The Star Sibyl summoned me to Heavens Tower and handed the Book of the Gods over to me.
+- **9664**: I was ordered to never letaru that tome see the light of day again.
+- **9665**: ...Hrmmm... That's what the Star Sibyl ordered, so I mustaru obey! But I...that is something I just cannot do!
+- **9666**: The pages of the Book of the Gods are blank! I cannot turn my eyes from the truth. As the name of the Optistery suggestarus, we are the eyes of Windurst!
+- **9667**: If I ignore the truth before me, how can I call myself the Minister of the Optistery?
+- **9668**: Here is the deal. What I am aboutaru to tell you must be in the strictest-wictest of confidence. You mustn'taru leak a word of it to anyone.
+- **9669**: When I was still justaru a student, I heard about the Book of the Gods from the minister at the time...Minister Karaha-Baruha.
+- **9670**: The Book of the Gods refers to the "True History" written by the first Star Sibyl for the benefitaru of the Star Sibyls that would succeed her.
+- **9671**: The truth contained in this book can be extremely-wemely dangerous, and it has been passed down through generations of Ministers.
+- **9672**: Consequentaruly, the Book of the Gods is sealed by powerful spells. This seal can only be broken through the expenditure of huge amountarus of magic while employing the "Diza Star" that hangs from the neck of the Star Sibyl.
+- **9673**: ...I don'taru know how he did it, but Minister Karaha-Baruha managed to obtain the Star Sibyl's permission to open the Book of the Gods.
+- **9674**: To breach the seal on the tome, the minister utilized the power of the Horutoto Ruins' magical towers...
+- **9675**: ...And from the Book of the Gods, he learned a certain truth. This truth was indeed a dangerous thing.
+- **9676**: Karaha-Baruha carried outaru his research in a laboratory hidden within Toraimarai Canal...
+- **9677**: You mightaru call this laboratory the sixth ministry of Windurst. ...The Animastery...
+- **9678**: Adventurer, find that ministry. If you enter the Animastery, you may find something from Minister Karaha-Baruha's research.
+- **9679**: We mustaru discover the reason why the writings contained in this tome have vanished.
+- **9680**: Ah yes, I mustaru give you this. You should be able to enter the Animastery using this ring. It is the $3. Try your bestaru not to lose it.
+- **9681**: Go to Toraimarai Canal and find the Animastery. There you may find the remnantarus of Minister Karaha-Baruha's research.
+- **9682**: ...Hrmmm! Ah yes, don't go losing that $3! I'm trusting you to take good care of it!
+- **9695**: Hrm!? Oh, you finally made it back.
+- **9696**: How did it go!? Did you find anything!?
+- **9697**: Wh-wh-wh-wh-what!!! The Star Sibyl was there!?
+- **9698**: Oh, my goodly Goddess... Charges could be brought against me... If they throw me in the Dark Dungeon, all is lostaru!
+- **9699**: Hrm, adventurer! My life is in your hands. Take this and keep it safe.
+- **9700**: I-i-if I am imprisoned in the Dark Dungeon, take it to the Star Sibyl and use it to secure my freedom.
+- **9701**: Hrmmm! This is not blackmail. ...This is negotiation! Yes, you will negotiate my freedom with the Star Sibyl!
+- **9702**: Don't breathey-weathe a word of this to anyone! Now quickly, get yourself away from here!
+- **9703**: I-i-if I am imprisoned in the Dark Dungeon, take it to the Star Sibyl and use it to secure my freedom.
+- **9704**: Hrmmm! This is not blackmail. ...This is negotiation! Yes, you will negotiate my freedom with the Star Sibyl!
+- **9937**: Hrmm! What!? There's no reason for me to feel guilty! I have absolutaruly no intention of defying the will of the Star Sibyl!
+- **9938**: ...? What was that? You want me to lend you my $3 again?
+- **9939**: Hrmm, I know what you're up to! You want to go back to the Animastery, don't you!?
+- **9940**: There's no more reason for you to go there. In factaru, you really shouldn't. How would you talk yourself out of trouble-wouble if you happened to run into the Star Sibyl again?
+- **9941**: ...Hrmm! What's that!? That's not the reason? You mean to break Ajido-Marujido out of the Dark Dungeon using my $3!?
+- **9942**: ...Hmmm... The Dark Dungeon, huh? They say that the Dark Dungeon drains a person's magical power, eventually killing them...
+- **9943**: I doubtaru the Star Sibyl really intends to rob-wob Ajido-Marujido of his life. But she may be angry enough to rob him of his life as a mage.
+- **9944**: Hrmm!? There was once a similar tragedy...I seem to recall... Now...who was that...?
+- **9945**: ...In any case, I have not the slightest-wightest interest in doing anything that would benefitaru Ajido-Marujido. If you're looking for help from me, you've come to the wrong place. Now, get out of here!
+- **9946**: ...!? Hrm? Just a momentaru...?
+- **9947**: It can't be... Hrmm... That power I feel coming from you...
+- **9948**: The magic has returned to the blank tome! It's a miracle...! This will mean the salvation of Windurst!
+- **9949**: ...What!? You intend to have Ajido-Marujido read the book!? Don'taru be a fool! If you want someone to read it, then give it to me. I can...!
+- **9950**: Great Goddess! I cannot... This is beyond my strength... I may be able to open it if I had the Diza Star of the Star Sibyl...
+- **9951**: Hrmm... A wily wizard of Ajido-Marujido's power should be able to withstand this magic...
+- **9952**: ......
+- **9953**: ...I admit defeataru!
+- **9954**: But if I help you get this book to Ajido-Marujido, you mustaru tell me what knowledge its pages contain.
+- **9955**: I mustaru know the dangerous truth learned by Minister Karaha-Baruha.
+- **9956**: Here, take my $3. Return it to me as soon as your task is complete!
+- **9957**: Hrm! Are we clear? Once you have Ajido-Marujido read the Book of the Gods, you mustaru tell me what knowledge is contained within.
+- **9958**: Return my $3 as soon as your task is complete!
+- **9959**: Where have you been? Did Ajido-Marujido get the book open!?
+- **9960**: ...Hrmm, he's fallen into a coma, has he...? He must've been drawn into the "World of the Book."
+- **9961**: If he manages to return to consciousness, he will have all the knowledge contained within the Book of the Gods. ...If he makes it back, that is.
+- **10096**: I've been waiting for you! Have you seen Ajido-Marujido? I justaru can't seem to get hold of him.
+- **10097**: It's unthink-winkable that the Minister of the Orastery should know the secrets of the Book of the Gods while the Minister of the Optistery wallows in ignorance!
+- **10098**: My position demands I gain the knowledge contained within that tome! I'll take this directaruly to the Star Sibyl!
+- **10546**: Hrm. Hrmmm... Hrrrmmmmmm...hrm!
+- **10601**: Kuluu, Zilart, Bahamut... Those are all names found in my dustiest and mustiest of tomes--and those tomes say that all three perished long, long ago!
+- **10602**: I'm not going to believe any of this rubbly rubbish unless someone brings one of those Zilart here before my eyes!
 
 ## Events
 
@@ -2378,10 +2378,10 @@
   1: 0x04C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  4: 0x04CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8169*)
+  4: 0x04CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8170*)
     → "Hrmm. Hey you! What are you doing there?"
   5: 0x04CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8170*)
+  6: 0x04CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
     → "You look like an adventurer or some other riff-raff. It doesn't seem like you'd have any business with our distinguished Library of Magic!"
   7: 0x04D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -2414,7 +2414,7 @@
 
 ```
   0: 0x04DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
-  1: 0x04E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+  1: 0x04E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "Hrrrrm... That can't be it... Then again... Hr-hr-hr-hrmm..."
   2: 0x04E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
@@ -2425,7 +2425,7 @@
   8: 0x0503 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   9: 0x0504 [0x1C] WAIT(30* ticks)
  10: 0x0507 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
- 11: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
+ 11: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
     → "Hrm! Hey, you're the adventurer from the other day! I don't believe it! I don't believe a word anyone says!"
  12: 0x0511 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0512 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -2458,7 +2458,7 @@
 
 ```
   0: 0x051D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
-  1: 0x0524 [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
+  1: 0x0524 [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
     → "Hr-hr-hr-hrmm... Thanks to some adventurer somewhere, I was able to awaken from an inescapable nightmare."
   2: 0x0527 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0528 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
@@ -2469,7 +2469,7 @@
   8: 0x0543 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   9: 0x0544 [0x1C] WAIT(30* ticks)
  10: 0x0547 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
- 11: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
+ 11: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=8188*)
     → "The resurrection of the Shadow Lord and the Book of the Gods losing its magic... Those things couldn't possibly happen. It was all but a dream..."
  12: 0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0552 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -2568,7 +2568,7 @@
  19: 0x05D4 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
  20: 0x05DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[138*, 0*]
  21: 0x05EB [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x51)
- 22: 0x05F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7662*)
+ 22: 0x05F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
     → "...Hrm!? Sorry about that. I was just thinking..."
  23: 0x05F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x05F6 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
@@ -2596,18 +2596,18 @@ SUBROUTINE_0660:
  44: 0x06BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[138*, 0*]
  45: 0x06CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  46: 0x06DC [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x53)
- 47: 0x06E3 [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7667*]:
+ 47: 0x06E3 [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7668*]:
     → "Firstly, do you know the role of the Optistery's Library of Magic?"
  48: 0x06EA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x06EB [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7668*]:
+ 49: 0x06EB [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7669*]:
     → "This is a repository for the storage and preservation of innumerable scrolls and books, from ages long past right up to the present."
  50: 0x06F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x06F3 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=138*
  52: 0x0702 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[138*, 0*]
- 53: 0x0713 [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7669*]:
+ 53: 0x0713 [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7670*]:
     → "The most important role of our librarians is to consign our entrusted writings to posterity, without ever losing a single one of them."
  54: 0x071A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x071B [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7670*]:
+ 55: 0x071B [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7671*]:
     → "Why, even during that terrible war twenty years ago, we were able to protect almost all of the books."
  56: 0x0722 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0723 [0x4A] LocalPlayer looks at Tosuka-Porika (ID: 17752080/0x010EE010)
@@ -2624,10 +2624,10 @@ SUBROUTINE_0660:
  68: 0x078B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[138*, 0*]
  69: 0x079C [0x7B] Tosuka-Porika (ID: 17752080/0x010EE010) stops talking
  70: 0x07A1 [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x52)
- 71: 0x07A8 [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7673*]:
+ 71: 0x07A8 [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7674*]:
     → "Manuscripts, life-threateningly dangerous to those weak in magical power..."
  72: 0x07AF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x07B0 [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7674*]:
+ 73: 0x07B0 [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [7675*]:
     → "Books of the dark arts, not to be viewed by mortal eyes... Ancient scrolls not even the Minister of the Optistery is allowed to open..."
  74: 0x07B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x07B8 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
@@ -2820,7 +2820,7 @@ SUBROUTINE_080A:
 
 ```
   0: 0x08CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  1: 0x08D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7661*)
+  1: 0x08D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7662*)
     → "Hrm. Hrmmm... Hrrrmmmmmm...hrm!"
   2: 0x08D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -2847,7 +2847,7 @@ SUBROUTINE_080A:
 #### Opcodes
 
 ```
-  0: 0x08DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7662*)
+  0: 0x08DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
     → "...Hrm!? Sorry about that. I was just thinking..."
   1: 0x08E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x08E3 [0x00] END_REQSTACK()
@@ -2872,7 +2872,7 @@ SUBROUTINE_080A:
 #### Opcodes
 
 ```
-  0: 0x08E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
+  0: 0x08E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7664*)
     → "I'm facing my first crisis since taking over as Minister of the Optistery here..."
   1: 0x08E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x08E8 [0x00] END_REQSTACK()
@@ -2899,7 +2899,7 @@ SUBROUTINE_080A:
 
 ```
   0: 0x08E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  1: 0x08F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7664*)
+  1: 0x08F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7665*)
     → ".........Hrm? By the way, who in my stars are you? Wha-wha-what? You're the adventurer sent here to help from the gatehouse?"
   2: 0x08F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -2926,7 +2926,7 @@ SUBROUTINE_080A:
 #### Opcodes
 
 ```
-  0: 0x08FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7665*)
+  0: 0x08FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
     → "......Hrmmmm? Oh, so you're the adventurer sent here to help from the gatehouse, huh?"
   1: 0x08FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0900 [0x00] END_REQSTACK()
@@ -2953,7 +2953,7 @@ SUBROUTINE_080A:
 
 ```
   0: 0x0901 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
-  1: 0x0908 [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
+  1: 0x0908 [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
     → "Well then, let me explain. Hrmmm...... Where do I start?"
   2: 0x090B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x090C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
@@ -3003,10 +3003,10 @@ SUBROUTINE_080A:
 #### Opcodes
 
 ```
-  0: 0x091C [0x1D] PRINT_EVENT_MESSAGE(message_id=7671*)
+  0: 0x091C [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
     → "But the restricted books section is another matter."
   1: 0x091F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0920 [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
+  2: 0x0920 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
     → "Restricted books are never allowed to be taken out of the Library of Magic, and are normally sealed away in a special room."
   3: 0x0923 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0924 [0x00] END_REQSTACK()
@@ -3031,7 +3031,7 @@ SUBROUTINE_080A:
 #### Opcodes
 
 ```
-  0: 0x0925 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
+  0: 0x0925 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
     → "Manuscripts, life-threateningly dangerous to those weak in magical power..."
   1: 0x0928 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0929 [0x00] END_REQSTACK()
@@ -3059,7 +3059,7 @@ SUBROUTINE_080A:
 
 ```
   0: 0x092A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
-  1: 0x0931 [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
+  1: 0x0931 [0x1D] PRINT_EVENT_MESSAGE(message_id=7676*)
     → "All of which are writings that, if taken outside, would cause great calamity. However, one very important book disappeared during the war twenty years ago, and has never been seen since."
   2: 0x0934 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0935 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
@@ -3089,7 +3089,7 @@ SUBROUTINE_080A:
 
 ```
   0: 0x094B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  1: 0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=7676*)
+  1: 0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=7677*)
     → "But recently, I received word that said book had fallen into the dirty paws of that outrageous Mithran Cat Burglar who inhabits Windurst Woods."
   2: 0x0955 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0956 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -3119,15 +3119,15 @@ SUBROUTINE_080A:
 
 ```
   0: 0x095E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x41)
-  1: 0x0965 [0x1D] PRINT_EVENT_MESSAGE(message_id=7677*)
+  1: 0x0965 [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
     → "Although the source of this information is dubious, the possibility that she has that book is a matter of great consequence."
   2: 0x0968 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0969 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x42)
   4: 0x0970 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  5: 0x0977 [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+  5: 0x0977 [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "That's where you come in... I want you to go meet that so-called "Cat Burglar" and confirm whether or not she possesses any of our restricted books."
   6: 0x097A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x097B [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
+  7: 0x097B [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
     → "The Optistery must retrieve any restricted books back as soon as possible, and at any cost. We are counting on you!"
   8: 0x097E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x097F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -3159,10 +3159,10 @@ SUBROUTINE_080A:
   1: 0x098C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x098D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x098E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  4: 0x0995 [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
+  4: 0x0995 [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
     → "Hrmmm...... I wonder if that so-called Mithran "Cat Burglar" really has one of our restricted books."
   5: 0x0998 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0999 [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
+  6: 0x0999 [0x1D] PRINT_EVENT_MESSAGE(message_id=7682*)
     → "If it is true, it's a gravely dangerous situation. Anyone with weak magical powers would be killed the second they opened such a book!"
   7: 0x099C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x099D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -3243,7 +3243,7 @@ SUBROUTINE_0A1B:
  17: 0x0A1B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  18: 0x0A2C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x63)
  19: 0x0A33 [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x52)
- 20: 0x0A3A [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
+ 20: 0x0A3A [0x1D] PRINT_EVENT_MESSAGE(message_id=7696*)
     → "How did it go? Did that so-called Mithran "Cat Burglar" really have her paws on one of our restricted books?"
  21: 0x0A3D [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0A3E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
@@ -3267,7 +3267,7 @@ SUBROUTINE_0A1B:
  40: 0x0ADD [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x66)
  41: 0x0AE4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[138*, 0*]
  42: 0x0AF5 [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x54)
- 43: 0x0AFC [0x1D] PRINT_EVENT_MESSAGE(message_id=7699*)
+ 43: 0x0AFC [0x1D] PRINT_EVENT_MESSAGE(message_id=7700*)
     → "Ajido-Marujido! I bet you wanted the Book of the Gods so badly that you came up with this preposterous lie. Hrmmm..."
  44: 0x0AFF [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0B00 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
@@ -3317,7 +3317,7 @@ SUBROUTINE_0B33:
 
 ```
   0: 0x0B9A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  1: 0x0BA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
+  1: 0x0BA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
     → "Hrmm!? Oh, you're finally back!"
   2: 0x0BA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0BA5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -3345,7 +3345,7 @@ SUBROUTINE_0B33:
 
 ```
   0: 0x0BAD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x12)
-  1: 0x0BB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7696*)
+  1: 0x0BB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7697*)
     → "...Wha-wha-wha-what!? Preposterous! The Book of the Gods...!? No...! The time for the Book of the Gods to lose its magic has come...!? Wha...!?"
   2: 0x0BB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0BB8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x13)
@@ -3374,7 +3374,7 @@ SUBROUTINE_0B33:
 
 ```
   0: 0x0BC0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
-  1: 0x0BC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7697*)
+  1: 0x0BC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7698*)
     → "It's said that when the Book of the Gods loses its magic power and returns to blank pages, the shadows of destruction will set upon our world..."
   2: 0x0BCA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0BCB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
@@ -3404,7 +3404,7 @@ SUBROUTINE_0B33:
 
 ```
   0: 0x0BE1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  1: 0x0BE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7698*)
+  1: 0x0BE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7699*)
     → "Hrm! Really, how could such a fearful thing ever happen!?"
   2: 0x0BEB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0BEC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -3430,7 +3430,7 @@ SUBROUTINE_0B33:
 #### Opcodes
 
 ```
-  0: 0x0BF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7699*)
+  0: 0x0BF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7700*)
     → "Ajido-Marujido! I bet you wanted the Book of the Gods so badly that you came up with this preposterous lie. Hrmmm..."
   1: 0x0BF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0BF8 [0x00] END_REQSTACK()
@@ -3458,12 +3458,12 @@ SUBROUTINE_0B33:
 
 ```
   0: 0x0BF9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  1: 0x0C00 [0x1D] PRINT_EVENT_MESSAGE(message_id=7700*)
+  1: 0x0C00 [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
     → "Don't you worry about Ajido-Marujido! I'll report him to the Star Sibyl myself."
   2: 0x0C03 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0C04 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
   4: 0x0C0B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x43)
-  5: 0x0C12 [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
+  5: 0x0C12 [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
     → "And as for you, adventurer. I must warn you to forget this ever happened! You understand?"
   6: 0x0C15 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0C16 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x44)
@@ -3495,7 +3495,7 @@ SUBROUTINE_0B33:
   1: 0x0C23 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0C24 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0C25 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  4: 0x0C2C [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
+  4: 0x0C2C [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
     → "Hrmmmm! You must not frighten the others with rumors that the Book of the Gods has gone blank. Forget everything that happened. You understand?"
   5: 0x0C2F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0C30 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x47)
@@ -3539,7 +3539,7 @@ SUBROUTINE_0B33:
   3: 0x0C42 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
   4: 0x0C49 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x6E)
   5: 0x0C50 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
-  6: 0x0C57 [0x24] CREATE_DIALOG(message_id=8216*, default_option=0*, option_flags=0*)
+  6: 0x0C57 [0x24] CREATE_DIALOG(message_id=8217*, default_option=0*, option_flags=0*)
     → "Take on the chore? [Accept./Decline.]"
   7: 0x0C5E [0x25] WAIT_DIALOG_SELECT()
   8: 0x0C5F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CB7
@@ -3666,11 +3666,11 @@ SUBROUTINE_0CCE:
 #### Opcodes
 
 ```
-  0: 0x0CF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8214*)
+  0: 0x0CF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8215*)
     → "Hrmm. Hey you! What are you doing there?"
   1: 0x0CFC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0CFD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  3: 0x0D04 [0x1D] PRINT_EVENT_MESSAGE(message_id=8215*)
+  3: 0x0D04 [0x1D] PRINT_EVENT_MESSAGE(message_id=8216*)
     → "Hrmm!? Just a second... I could use you. Would you be willing to do a little chore for me in return for some money?"
   4: 0x0D07 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0D08 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -3698,7 +3698,7 @@ SUBROUTINE_0CCE:
 
 ```
   0: 0x0D10 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  1: 0x0D17 [0x1D] PRINT_EVENT_MESSAGE(message_id=8217*)
+  1: 0x0D17 [0x1D] PRINT_EVENT_MESSAGE(message_id=8218*)
     → "You don't need the cash? Hah! Just goes to show you can't judge a book by its cover, then... Anyway, I'm busy, so off with you!"
   2: 0x0D1A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D1B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -3727,7 +3727,7 @@ SUBROUTINE_0CCE:
 
 ```
   0: 0x0D23 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
-  1: 0x0D2A [0x1D] PRINT_EVENT_MESSAGE(message_id=8218*)
+  1: 0x0D2A [0x1D] PRINT_EVENT_MESSAGE(message_id=8219*)
     → "Good! First, let me explain a bit about our distinguished library."
   2: 0x0D2D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D2E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
@@ -3757,10 +3757,10 @@ SUBROUTINE_0CCE:
 
 ```
   0: 0x0D44 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  1: 0x0D4B [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
+  1: 0x0D4B [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
     → "This library's official name is the Federal Book Repository for Magical Knowledge and Research..."
   2: 0x0D4E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0D4F [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
+  3: 0x0D4F [0x1D] PRINT_EVENT_MESSAGE(message_id=8222*)
     → "Also known as the Book Repository of General Knowledges. It is under the jurisdiction of the Optistery, the ministry that forbids the loss of knowledge."
   4: 0x0D52 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0D53 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -3789,10 +3789,10 @@ SUBROUTINE_0CCE:
 
 ```
   0: 0x0D5B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x14)
-  1: 0x0D62 [0x1D] PRINT_EVENT_MESSAGE(message_id=8222*)
+  1: 0x0D62 [0x1D] PRINT_EVENT_MESSAGE(message_id=8223*)
     → "Under the strict supervision of successive ministers, our Optistery has protected the knowledge stored here with a system that doesn't allow even a baby ant to go unaccounted for."
   2: 0x0D65 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0D66 [0x1D] PRINT_EVENT_MESSAGE(message_id=8223*)
+  3: 0x0D66 [0x1D] PRINT_EVENT_MESSAGE(message_id=8224*)
     → "For instance, the diary that disappears into blank pages after three days, or the housekeeping account book that's so red, it makes your eyes weep."
   4: 0x0D69 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0D6A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x15)
@@ -3820,7 +3820,7 @@ SUBROUTINE_0CCE:
 
 ```
   0: 0x0D72 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x41)
-  1: 0x0D79 [0x1D] PRINT_EVENT_MESSAGE(message_id=8224*)
+  1: 0x0D79 [0x1D] PRINT_EVENT_MESSAGE(message_id=8225*)
     → "Once a book or scroll is placed in our care, we will never allow its content to be lost."
   2: 0x0D7C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D7D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x42)
@@ -3848,11 +3848,11 @@ SUBROUTINE_0CCE:
 
 ```
   0: 0x0D85 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  1: 0x0D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=8225*)
+  1: 0x0D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=8226*)
     → "Hrmm... However...several misfortunes have thrown the wheels of fate into disorder."
   2: 0x0D8F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D90 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
-  4: 0x0D97 [0x1D] PRINT_EVENT_MESSAGE(message_id=8226*)
+  4: 0x0D97 [0x1D] PRINT_EVENT_MESSAGE(message_id=8227*)
     → "We want you to hunt down those books that have suffered such a sad fate, and bring them back to us."
   5: 0x0D9A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0D9B [0x00] END_REQSTACK()
@@ -3879,7 +3879,7 @@ SUBROUTINE_0CCE:
 
 ```
   0: 0x0D9C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  1: 0x0DA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8227*)
+  1: 0x0DA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
     → "Ask the librarian at the counter, Furakku-Norakku, for the details. We're counting on you, the savior of knowledge!"
   2: 0x0DA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0DA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -3911,7 +3911,7 @@ SUBROUTINE_0CCE:
   1: 0x0DB4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0DB5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0DB6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  4: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+  4: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Hrm? Wha-wha-what's wrong? Are you fulfilling your role as the savior of knowledge?"
   5: 0x0DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0DC1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -3945,7 +3945,7 @@ SUBROUTINE_0CCE:
   1: 0x0DD1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0DD2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0DD3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  4: 0x0DDA [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
+  4: 0x0DDA [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
     → "Hrm. I hear another book crying somewhere... Hrrrmmmmmm..."
   5: 0x0DDD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0DDE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -3979,10 +3979,10 @@ SUBROUTINE_0CCE:
   1: 0x0DEE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0DEF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0DF0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  4: 0x0DF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7392*)
+  4: 0x0DF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7393*)
     → "Hrmmmm...!? Nice hat... Shame it doesn't suit you, though."
   5: 0x0DFA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0DFB [0x1D] PRINT_EVENT_MESSAGE(message_id=7393*)
+  6: 0x0DFB [0x1D] PRINT_EVENT_MESSAGE(message_id=7394*)
     → "Hrmm... Maybe it'll suit me? As I always say... If the hat fits, wear it!"
   7: 0x0DFE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0DFF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -4019,11 +4019,11 @@ SUBROUTINE_0CCE:
   1: 0x0E0F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0E10 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0E11 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  4: 0x0E18 [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
+  4: 0x0E18 [0x1D] PRINT_EVENT_MESSAGE(message_id=8264*)
     → "If your journeys seem to have lost purpose of late, why not help out my ministry in your capacity as the "savior of knowledge" again?"
   5: 0x0E1B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0E1C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
-  7: 0x0E23 [0x24] CREATE_DIALOG(message_id=8264*, default_option=0*, option_flags=0*)
+  7: 0x0E23 [0x24] CREATE_DIALOG(message_id=8265*, default_option=0*, option_flags=0*)
     → "Help out the library again? [Listen to offer./Don't.]"
   8: 0x0E2A [0x25] WAIT_DIALOG_SELECT()
   9: 0x0E2B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E42
@@ -4066,7 +4066,7 @@ SUBROUTINE_0E59:
   1: 0x0E62 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0E63 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0E64 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  4: 0x0E6B [0x1D] PRINT_EVENT_MESSAGE(message_id=8227*)
+  4: 0x0E6B [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
     → "Ask the librarian at the counter, Furakku-Norakku, for the details. We're counting on you, the savior of knowledge!"
   5: 0x0E6E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0E6F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -4100,10 +4100,10 @@ SUBROUTINE_0E59:
   1: 0x0E7F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0E80 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0E81 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  4: 0x0E88 [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
+  4: 0x0E88 [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
     → "Hae Jakkya from Windurst Woods' auction house? I remember now... She's a regular here. Never had a late book in her life."
   5: 0x0E8B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0E8C [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
+  6: 0x0E8C [0x1D] PRINT_EVENT_MESSAGE(message_id=8284*)
     → "If only all the Mithra were as diligent as she is. But don't get me started with my grumblings..."
   7: 0x0E8F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0E90 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -4138,12 +4138,12 @@ SUBROUTINE_0E59:
   1: 0x0EA0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0EA1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0EA2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x41)
-  4: 0x0EA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9629*)
+  4: 0x0EA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9630*)
     → "Looks like Ajido-Marujido has finally been restrained by the Sibyl Guards!"
   5: 0x0EAC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0EAD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x42)
   7: 0x0EB4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x41)
-  8: 0x0EBB [0x1D] PRINT_EVENT_MESSAGE(message_id=9630*)
+  8: 0x0EBB [0x1D] PRINT_EVENT_MESSAGE(message_id=9631*)
     → "Has his search for power blinded his judgmentaru? How dare he set foot in the Full Moon Fountain, sacred-wacred place of our beloved Star Sibyl!"
   9: 0x0EBE [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0EBF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x42)
@@ -4355,7 +4355,7 @@ SUBROUTINE_0E59:
  15: 0x0F3D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[138*, 0*]
  16: 0x0F4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  17: 0x0F5F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
- 18: 0x0F66 [0x1D] PRINT_EVENT_MESSAGE(message_id=9655*)
+ 18: 0x0F66 [0x1D] PRINT_EVENT_MESSAGE(message_id=9656*)
     → "Hrm. Hrmmm... Hrrrmmmmmm...hrm!"
  19: 0x0F69 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0F6A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -4370,43 +4370,43 @@ SUBROUTINE_0E59:
 
 SUBROUTINE_0FB3:
  29: 0x0FB3 [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x51)
- 30: 0x0FBA [0x1D] PRINT_EVENT_MESSAGE(message_id=9656*)
+ 30: 0x0FBA [0x1D] PRINT_EVENT_MESSAGE(message_id=9657*)
     → "...Hrm!? Aren'taru you the adventurer who completed my last mission?"
  31: 0x0FBD [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0FBE [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
  33: 0x0FC4 [0x4A] LocalPlayer looks at Tosuka-Porika (ID: 17752080/0x010EE010)
  34: 0x0FCD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[211*, 0*]
  35: 0x0FDE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
- 36: 0x0FE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9657*)
+ 36: 0x0FE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9658*)
     → "Heh-heh-heh... Actually, the mission I issued to the gatehouse was justaru a cover-up."
  37: 0x0FE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0FE9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
  39: 0x0FF0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x23)
- 40: 0x0FF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9658*)
+ 40: 0x0FF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9659*)
     → "Since the incidentaru with Ajido-Marujido, the Sibyl Guards have been paying too much attention to the mission statements..."
  41: 0x0FFA [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0FFB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x24)
  43: 0x1002 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[211*, 0*]
  44: 0x1013 [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x7D)
- 45: 0x101A [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [9659*]:
+ 45: 0x101A [0x2B] Tosuka-Porika (ID: 17752080/0x010EE010) [9660*]:
     → "...Rightaru, down to business. Do you remember the mission I issued last time?"
  46: 0x1021 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x1022 [0x1C] WAIT(50* ticks)
  48: 0x1025 [0x4A] LocalPlayer looks at Tosuka-Porika (ID: 17752080/0x010EE010)
  49: 0x102E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
- 50: 0x1034 [0x1D] PRINT_EVENT_MESSAGE(message_id=9660*)
+ 50: 0x1034 [0x1D] PRINT_EVENT_MESSAGE(message_id=9661*)
     → "The Book of the Gods... We had no idea of its location for all those years after the war. That was the tome you recovered for us from the dastard-wastardly Cat Burglar."
  51: 0x1037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x1038 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=211*
  53: 0x1047 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  54: 0x1058 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[211*, 0*]
  55: 0x1069 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
- 56: 0x1070 [0x1D] PRINT_EVENT_MESSAGE(message_id=9661*)
+ 56: 0x1070 [0x1D] PRINT_EVENT_MESSAGE(message_id=9662*)
     → "Ajido-Marujido then swiped the book, and delivered it to the Star Sibyl himself."
  57: 0x1073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1074 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
  59: 0x107B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x23)
- 60: 0x1082 [0x1D] PRINT_EVENT_MESSAGE(message_id=9662*)
+ 60: 0x1082 [0x1D] PRINT_EVENT_MESSAGE(message_id=9663*)
     → "Then a few days ago... The Star Sibyl summoned me to Heavens Tower and handed the Book of the Gods over to me."
  61: 0x1085 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x1086 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x24)
@@ -4415,21 +4415,21 @@ SUBROUTINE_0FB3:
  65: 0x1097 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tosuka-Porika (ID: 17752080/0x010EE010) Render.Flags0 and Render.Flags3 conditions are met
  66: 0x109C [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=211*
  67: 0x10AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[211*, 0*]
- 68: 0x10BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9663*)
+ 68: 0x10BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
     → "I was ordered to never letaru that tome see the light of day again."
  69: 0x10BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x10C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
- 71: 0x10C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+ 71: 0x10C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9665*)
     → "...Hrmmm... That's what the Star Sibyl ordered, so I mustaru obey! But I...that is something I just cannot do!"
  72: 0x10CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x10CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
  74: 0x10D2 [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=211*
  75: 0x10E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  76: 0x10F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[211*, 0*]
- 77: 0x1103 [0x1D] PRINT_EVENT_MESSAGE(message_id=9665*)
+ 77: 0x1103 [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "The pages of the Book of the Gods are blank! I cannot turn my eyes from the truth. As the name of the Optistery suggestarus, we are the eyes of Windurst!"
  78: 0x1106 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x1107 [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
+ 79: 0x1107 [0x1D] PRINT_EVENT_MESSAGE(message_id=9667*)
     → "If I ignore the truth before me, how can I call myself the Minister of the Optistery?"
  80: 0x110A [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x110B [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=211*
@@ -4440,7 +4440,7 @@ SUBROUTINE_0FB3:
 
 SUBROUTINE_1147:
  86: 0x1147 [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x7E)
- 87: 0x114E [0x1D] PRINT_EVENT_MESSAGE(message_id=9667*)
+ 87: 0x114E [0x1D] PRINT_EVENT_MESSAGE(message_id=9668*)
     → "Here is the deal. What I am aboutaru to tell you must be in the strictest-wictest of confidence. You mustn'taru leak a word of it to anyone."
  88: 0x1151 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x1152 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
@@ -4466,22 +4466,22 @@ SUBROUTINE_119A:
 107: 0x11C6 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 104*
 108: 0x11CA [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
 109: 0x11CF [0x1C] WAIT(100* ticks)
-110: 0x11D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9668*)
+110: 0x11D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9669*)
     → "When I was still justaru a student, I heard about the Book of the Gods from the minister at the time...Minister Karaha-Baruha."
 111: 0x11D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x11D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [EventEntity, EventEntity], work=[211*, 0*]
 113: 0x11E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-114: 0x11F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9669*)
+114: 0x11F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
     → "The Book of the Gods refers to the "True History" written by the first Star Sibyl for the benefitaru of the Star Sibyls that would succeed her."
 115: 0x11FB [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x11FC [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
+116: 0x11FC [0x1D] PRINT_EVENT_MESSAGE(message_id=9671*)
     → "The truth contained in this book can be extremely-wemely dangerous, and it has been passed down through generations of Ministers."
 117: 0x11FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x1200 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=211*
 119: 0x120F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 120: 0x1220 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[211*, 0*]
 121: 0x1231 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17752265/0x010EE0C9), tag_num=0x01)
-122: 0x1238 [0x1D] PRINT_EVENT_MESSAGE(message_id=9671*)
+122: 0x1238 [0x1D] PRINT_EVENT_MESSAGE(message_id=9672*)
     → "Consequentaruly, the Book of the Gods is sealed by powerful spells. This seal can only be broken through the expenditure of huge amountarus of magic while employing the "Diza Star" that hangs from the neck of the Star Sibyl."
 123: 0x123B [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x123C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4500,24 +4500,24 @@ SUBROUTINE_119A:
 137: 0x128B [0x27] REQ_SET(priority=0x0B, entity_id=Star Sibyl (ID: 17752265/0x010EE0C9), tag_num=0x05)
 138: 0x1292 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 139: 0x12A3 [0x27] REQ_SET(priority=0x0B, entity_id=Karaha-Baruha (ID: 17752266/0x010EE0CA), tag_num=0x02)
-140: 0x12AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9672*)
+140: 0x12AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9673*)
     → "...I don'taru know how he did it, but Minister Karaha-Baruha managed to obtain the Star Sibyl's permission to open the Book of the Gods."
 141: 0x12AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-142: 0x12AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9673*)
+142: 0x12AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9674*)
     → "To breach the seal on the tome, the minister utilized the power of the Horutoto Ruins' magical towers..."
 143: 0x12B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x12B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9674*)
+144: 0x12B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9675*)
     → "...And from the Book of the Gods, he learned a certain truth. This truth was indeed a dangerous thing."
 145: 0x12B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x12B6 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17752265/0x010EE0C9))
 147: 0x12BC [0x27] REQ_SET(priority=0x0B, entity_id=Star Sibyl (ID: 17752265/0x010EE0C9), tag_num=0x06)
-148: 0x12C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9675*)
+148: 0x12C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9676*)
     → "Karaha-Baruha carried outaru his research in a laboratory hidden within Toraimarai Canal..."
 149: 0x12C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x12C7 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17752265/0x010EE0C9))
 151: 0x12CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[211*, 0*]
 152: 0x12DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-153: 0x12EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9676*)
+153: 0x12EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9677*)
     → "You mightaru call this laboratory the sixth ministry of Windurst. ...The Animastery..."
 154: 0x12F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x12F3 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -4547,7 +4547,7 @@ SUBROUTINE_119A:
 179: 0x137B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 180: 0x1380 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[211*, 0*]
 181: 0x1391 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-182: 0x13A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9677*)
+182: 0x13A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9678*)
     → "Adventurer, find that ministry. If you enter the Animastery, you may find something from Minister Karaha-Baruha's research."
 183: 0x13A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x13A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -4555,14 +4555,14 @@ SUBROUTINE_119A:
 186: 0x13BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 187: 0x13CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [EventEntity, EventEntity], work=[211*, 0*]
 188: 0x13DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x41)
-189: 0x13E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9678*)
+189: 0x13E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9679*)
     → "We mustaru discover the reason why the writings contained in this tome have vanished."
 190: 0x13E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x13E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x42)
 192: 0x13F0 [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [EventEntity, EventEntity], work=211*
 193: 0x13FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[211*, 0*]
 194: 0x1410 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x45)
-195: 0x1417 [0x1D] PRINT_EVENT_MESSAGE(message_id=9679*)
+195: 0x1417 [0x1D] PRINT_EVENT_MESSAGE(message_id=9680*)
     → "Ah yes, I mustaru give you this. You should be able to enter the Animastery using this ring. It is the $3. Try your bestaru not to lose it."
 196: 0x141A [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x141B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x46)
@@ -4606,12 +4606,12 @@ SUBROUTINE_119A:
   1: 0x1476 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1477 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1478 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  4: 0x147F [0x1D] PRINT_EVENT_MESSAGE(message_id=9680*)
+  4: 0x147F [0x1D] PRINT_EVENT_MESSAGE(message_id=9681*)
     → "Go to Toraimarai Canal and find the Animastery. There you may find the remnantarus of Minister Karaha-Baruha's research."
   5: 0x1482 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1483 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
   7: 0x148A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  8: 0x1491 [0x1D] PRINT_EVENT_MESSAGE(message_id=9681*)
+  8: 0x1491 [0x1D] PRINT_EVENT_MESSAGE(message_id=9682*)
     → "...Hrmmm! Ah yes, don't go losing that $3! I'm trusting you to take good care of it!"
   9: 0x1494 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1495 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -4697,14 +4697,14 @@ SUBROUTINE_119A:
  16: 0x14E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[211*, 0*]
  17: 0x14F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  18: 0x1507 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
- 19: 0x150E [0x1D] PRINT_EVENT_MESSAGE(message_id=9694*)
+ 19: 0x150E [0x1D] PRINT_EVENT_MESSAGE(message_id=9695*)
     → "Hrm!? Oh, you finally made it back."
  20: 0x1511 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x1512 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
  22: 0x1519 [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=211*
  23: 0x1528 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[211*, 0*]
  24: 0x1539 [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x51)
- 25: 0x1540 [0x1D] PRINT_EVENT_MESSAGE(message_id=9695*)
+ 25: 0x1540 [0x1D] PRINT_EVENT_MESSAGE(message_id=9696*)
     → "How did it go!? Did you find anything!?"
  26: 0x1543 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x1544 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
@@ -4715,14 +4715,14 @@ SUBROUTINE_119A:
  32: 0x1576 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[211*, 0*]
  33: 0x1587 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  34: 0x1598 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x12)
- 35: 0x159F [0x1D] PRINT_EVENT_MESSAGE(message_id=9696*)
+ 35: 0x159F [0x1D] PRINT_EVENT_MESSAGE(message_id=9697*)
     → "Wh-wh-wh-wh-what!!! The Star Sibyl was there!?"
  36: 0x15A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x15A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x13)
  38: 0x15AA [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=211*
  39: 0x15B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [EventEntity, EventEntity], work=[211*, 0*]
  40: 0x15CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x10)
- 41: 0x15D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9697*)
+ 41: 0x15D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9698*)
     → "Oh, my goodly Goddess... Charges could be brought against me... If they throw me in the Dark Dungeon, all is lostaru!"
  42: 0x15D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x15D5 [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [EventEntity, EventEntity], work=211*
@@ -4734,12 +4734,12 @@ SUBROUTINE_119A:
 SUBROUTINE_1611:
  48: 0x1611 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x11)
  49: 0x1618 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x45)
- 50: 0x161F [0x1D] PRINT_EVENT_MESSAGE(message_id=9698*)
+ 50: 0x161F [0x1D] PRINT_EVENT_MESSAGE(message_id=9699*)
     → "Hrm, adventurer! My life is in your hands. Take this and keep it safe."
  51: 0x1622 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x1623 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x46)
  53: 0x162A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x41)
- 54: 0x1631 [0x1D] PRINT_EVENT_MESSAGE(message_id=9699*)
+ 54: 0x1631 [0x1D] PRINT_EVENT_MESSAGE(message_id=9700*)
     → "I-i-if I am imprisoned in the Dark Dungeon, take it to the Star Sibyl and use it to secure my freedom."
  55: 0x1634 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x1635 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x42)
@@ -4754,7 +4754,7 @@ SUBROUTINE_1665:
  63: 0x167D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  64: 0x167E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tosuka-Porika (ID: 17752080/0x010EE010) Render.Flags0 and Render.Flags3 conditions are met
  65: 0x1683 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
- 66: 0x168A [0x1D] PRINT_EVENT_MESSAGE(message_id=9700*)
+ 66: 0x168A [0x1D] PRINT_EVENT_MESSAGE(message_id=9701*)
     → "Hrmmm! This is not blackmail. ...This is negotiation! Yes, you will negotiate my freedom with the Star Sibyl!"
  67: 0x168D [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x168E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -4762,7 +4762,7 @@ SUBROUTINE_1665:
  70: 0x169E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  71: 0x169F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tosuka-Porika (ID: 17752080/0x010EE010) Render.Flags0 and Render.Flags3 conditions are met
  72: 0x16A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x43)
- 73: 0x16AB [0x1D] PRINT_EVENT_MESSAGE(message_id=9701*)
+ 73: 0x16AB [0x1D] PRINT_EVENT_MESSAGE(message_id=9702*)
     → "Don't breathey-weathe a word of this to anyone! Now quickly, get yourself away from here!"
  74: 0x16AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x16AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x44)
@@ -4807,11 +4807,11 @@ SUBROUTINE_1665:
   1: 0x171B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x171C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x171D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  4: 0x1724 [0x1D] PRINT_EVENT_MESSAGE(message_id=9702*)
+  4: 0x1724 [0x1D] PRINT_EVENT_MESSAGE(message_id=9703*)
     → "I-i-if I am imprisoned in the Dark Dungeon, take it to the Star Sibyl and use it to secure my freedom."
   5: 0x1727 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1728 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
-  7: 0x172F [0x1D] PRINT_EVENT_MESSAGE(message_id=9703*)
+  7: 0x172F [0x1D] PRINT_EVENT_MESSAGE(message_id=9704*)
     → "Hrmmm! This is not blackmail. ...This is negotiation! Yes, you will negotiate my freedom with the Star Sibyl!"
   8: 0x1732 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1733 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4972,7 +4972,7 @@ SUBROUTINE_1665:
  17: 0x1798 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [EventEntity, EventEntity], work=[211*, 0*]
  18: 0x17A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  19: 0x17BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
- 20: 0x17C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9936*)
+ 20: 0x17C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9937*)
     → "Hrmm! What!? There's no reason for me to feel guilty! I have absolutaruly no intention of defying the will of the Star Sibyl!"
  21: 0x17C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x17C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
@@ -4980,7 +4980,7 @@ SUBROUTINE_1665:
  24: 0x17DB [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
  25: 0x17E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s079" with entities [EventEntity, EventEntity], work=[211*, 0*]
  26: 0x17F2 [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x51)
- 27: 0x17F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9937*)
+ 27: 0x17F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9938*)
     → "...? What was that? You want me to lend you my $3 again?"
  28: 0x17FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x17FD [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
@@ -4988,13 +4988,13 @@ SUBROUTINE_1665:
  31: 0x180C [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [EventEntity, EventEntity], work=211*
  32: 0x181B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[211*, 0*]
  33: 0x182C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
- 34: 0x1833 [0x1D] PRINT_EVENT_MESSAGE(message_id=9938*)
+ 34: 0x1833 [0x1D] PRINT_EVENT_MESSAGE(message_id=9939*)
     → "Hrmm, I know what you're up to! You want to go back to the Animastery, don't you!?"
  35: 0x1836 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x1837 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
  37: 0x183E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[211*, 0*]
  38: 0x184F [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x7D)
- 39: 0x1856 [0x1D] PRINT_EVENT_MESSAGE(message_id=9939*)
+ 39: 0x1856 [0x1D] PRINT_EVENT_MESSAGE(message_id=9940*)
     → "There's no more reason for you to go there. In factaru, you really shouldn't. How would you talk yourself out of trouble-wouble if you happened to run into the Star Sibyl again?"
  40: 0x1859 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x185A [0x1C] WAIT(50* ticks)
@@ -5007,17 +5007,17 @@ SUBROUTINE_1665:
  48: 0x18A6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  49: 0x18A7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tosuka-Porika (ID: 17752080/0x010EE010) Render.Flags0 and Render.Flags3 conditions are met
  50: 0x18AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
- 51: 0x18B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9940*)
+ 51: 0x18B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9941*)
     → "...Hrmm! What's that!? That's not the reason? You mean to break Ajido-Marujido out of the Dark Dungeon using my $3!?"
  52: 0x18B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x18B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
  54: 0x18BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
- 55: 0x18C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9941*)
+ 55: 0x18C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9942*)
     → "...Hmmm... The Dark Dungeon, huh? They say that the Dark Dungeon drains a person's magical power, eventually killing them..."
  56: 0x18C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x18C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
  58: 0x18D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x23)
- 59: 0x18D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9942*)
+ 59: 0x18D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9943*)
     → "I doubtaru the Star Sibyl really intends to rob-wob Ajido-Marujido of his life. But she may be angry enough to rob him of his life as a mage."
  60: 0x18DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x18DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x24)
@@ -5027,7 +5027,7 @@ SUBROUTINE_1665:
  65: 0x1905 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=211*
  66: 0x1914 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[211*, 0*]
  67: 0x1925 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 68: 0x1936 [0x1D] PRINT_EVENT_MESSAGE(message_id=9943*)
+ 68: 0x1936 [0x1D] PRINT_EVENT_MESSAGE(message_id=9944*)
     → "Hrmm!? There was once a similar tragedy...I seem to recall... Now...who was that...?"
  69: 0x1939 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x193A [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=211*
@@ -5039,7 +5039,7 @@ SUBROUTINE_1665:
 
 SUBROUTINE_1987:
  76: 0x1987 [0x27] REQ_SET(priority=0x0B, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x7E)
- 77: 0x198E [0x1D] PRINT_EVENT_MESSAGE(message_id=9944*)
+ 77: 0x198E [0x1D] PRINT_EVENT_MESSAGE(message_id=9945*)
     → "...In any case, I have not the slightest-wightest interest in doing anything that would benefitaru Ajido-Marujido. If you're looking for help from me, you've come to the wrong place. Now, get out of here!"
  78: 0x1991 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x1992 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010))
@@ -5067,7 +5067,7 @@ SUBROUTINE_19C1:
  99: 0x1A1D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 100: 0x1A1E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 101: 0x1A1F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-102: 0x1A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9945*)
+102: 0x1A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9946*)
     → "...!? Hrm? Just a momentaru...?"
 103: 0x1A29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x1A2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -5076,7 +5076,7 @@ SUBROUTINE_19C1:
 107: 0x1A41 [0x1C] WAIT(10* ticks)
 108: 0x1A44 [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [EventEntity, EventEntity], work=211*
 109: 0x1A53 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[211*, 0*]
-110: 0x1A64 [0x1D] PRINT_EVENT_MESSAGE(message_id=9946*)
+110: 0x1A64 [0x1D] PRINT_EVENT_MESSAGE(message_id=9947*)
     → "It can't be... Hrmm... That power I feel coming from you..."
 111: 0x1A67 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x1A68 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=300*)
@@ -5090,7 +5090,7 @@ SUBROUTINE_19C1:
 120: 0x1AB0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 121: 0x1AC1 [0x1C] WAIT(100* ticks)
 122: 0x1AC4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x12)
-123: 0x1ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=9947*)
+123: 0x1ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=9948*)
     → "The magic has returned to the blank tome! It's a miracle...! This will mean the salvation of Windurst!"
 124: 0x1ACE [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x1ACF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x13)
@@ -5102,7 +5102,7 @@ SUBROUTINE_19C1:
 
 SUBROUTINE_1B12:
 131: 0x1B12 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-132: 0x1B19 [0x1D] PRINT_EVENT_MESSAGE(message_id=9948*)
+132: 0x1B19 [0x1D] PRINT_EVENT_MESSAGE(message_id=9949*)
     → "...What!? You intend to have Ajido-Marujido read the book!? Don'taru be a fool! If you want someone to read it, then give it to me. I can...!"
 133: 0x1B1C [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x1B1D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
@@ -5122,15 +5122,15 @@ SUBROUTINE_1B4D:
 146: 0x1B94 [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [EventEntity, EventEntity], work=211*
 147: 0x1BA3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [EventEntity, EventEntity], work=[211*, 0*]
 148: 0x1BB4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-149: 0x1BC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9949*)
+149: 0x1BC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9950*)
     → "Great Goddess! I cannot... This is beyond my strength... I may be able to open it if I had the Diza Star of the Star Sibyl..."
 150: 0x1BC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x1BC9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 152: 0x1BDA [0x1C] WAIT(120* ticks)
-153: 0x1BDD [0x1D] PRINT_EVENT_MESSAGE(message_id=9951*)
+153: 0x1BDD [0x1D] PRINT_EVENT_MESSAGE(message_id=9952*)
     → "......"
 154: 0x1BE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-155: 0x1BE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9950*)
+155: 0x1BE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9951*)
     → "Hrmm... A wily wizard of Ajido-Marujido's power should be able to withstand this magic..."
 156: 0x1BE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x1BE5 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=200*)
@@ -5140,22 +5140,22 @@ SUBROUTINE_1B4D:
 161: 0x1C07 [0x1C] WAIT(60* ticks)
 162: 0x1C0A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s085" with entities [EventEntity, EventEntity], work=[211*, 0*]
 163: 0x1C1B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-164: 0x1C2C [0x1D] PRINT_EVENT_MESSAGE(message_id=9952*)
+164: 0x1C2C [0x1D] PRINT_EVENT_MESSAGE(message_id=9953*)
     → "...I admit defeataru!"
 165: 0x1C2F [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x1C30 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x11)
-167: 0x1C37 [0x1D] PRINT_EVENT_MESSAGE(message_id=9953*)
+167: 0x1C37 [0x1D] PRINT_EVENT_MESSAGE(message_id=9954*)
     → "But if I help you get this book to Ajido-Marujido, you mustaru tell me what knowledge its pages contain."
 168: 0x1C3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x1C3B [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [EventEntity, EventEntity], work=211*
 170: 0x1C4A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [EventEntity, EventEntity], work=[211*, 0*]
 171: 0x1C5B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x43)
-172: 0x1C62 [0x1D] PRINT_EVENT_MESSAGE(message_id=9954*)
+172: 0x1C62 [0x1D] PRINT_EVENT_MESSAGE(message_id=9955*)
     → "I mustaru know the dangerous truth learned by Minister Karaha-Baruha."
 173: 0x1C65 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x1C66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x44)
 175: 0x1C6D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x45)
-176: 0x1C74 [0x1D] PRINT_EVENT_MESSAGE(message_id=9955*)
+176: 0x1C74 [0x1D] PRINT_EVENT_MESSAGE(message_id=9956*)
     → "Here, take my $3. Return it to me as soon as your task is complete!"
 177: 0x1C77 [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x1C78 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x46)
@@ -5199,11 +5199,11 @@ SUBROUTINE_1B4D:
   1: 0x1CD3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1CD4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1CD5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  4: 0x1CDC [0x1D] PRINT_EVENT_MESSAGE(message_id=9956*)
+  4: 0x1CDC [0x1D] PRINT_EVENT_MESSAGE(message_id=9957*)
     → "Hrm! Are we clear? Once you have Ajido-Marujido read the Book of the Gods, you mustaru tell me what knowledge is contained within."
   5: 0x1CDF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1CE0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
-  7: 0x1CE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9957*)
+  7: 0x1CE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9958*)
     → "Return my $3 as soon as your task is complete!"
   8: 0x1CEA [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1CEB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -5238,17 +5238,17 @@ SUBROUTINE_1B4D:
   1: 0x1CF4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1CF5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1CF6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  4: 0x1CFD [0x1D] PRINT_EVENT_MESSAGE(message_id=9958*)
+  4: 0x1CFD [0x1D] PRINT_EVENT_MESSAGE(message_id=9959*)
     → "Where have you been? Did Ajido-Marujido get the book open!?"
   5: 0x1D00 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1D01 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
   7: 0x1D08 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x21)
-  8: 0x1D0F [0x1D] PRINT_EVENT_MESSAGE(message_id=9959*)
+  8: 0x1D0F [0x1D] PRINT_EVENT_MESSAGE(message_id=9960*)
     → "...Hrmm, he's fallen into a coma, has he...? He must've been drawn into the "World of the Book.""
   9: 0x1D12 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1D13 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x22)
  11: 0x1D1A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x23)
- 12: 0x1D21 [0x1D] PRINT_EVENT_MESSAGE(message_id=9960*)
+ 12: 0x1D21 [0x1D] PRINT_EVENT_MESSAGE(message_id=9961*)
     → "If he manages to return to consciousness, he will have all the knowledge contained within the Book of the Gods. ...If he makes it back, that is."
  13: 0x1D24 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1D25 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x24)
@@ -5284,17 +5284,17 @@ SUBROUTINE_1B4D:
   1: 0x1D35 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1D36 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1D37 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  4: 0x1D3E [0x1D] PRINT_EVENT_MESSAGE(message_id=10095*)
+  4: 0x1D3E [0x1D] PRINT_EVENT_MESSAGE(message_id=10096*)
     → "I've been waiting for you! Have you seen Ajido-Marujido? I justaru can't seem to get hold of him."
   5: 0x1D41 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1D42 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
   7: 0x1D49 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x01)
-  8: 0x1D50 [0x1D] PRINT_EVENT_MESSAGE(message_id=10096*)
+  8: 0x1D50 [0x1D] PRINT_EVENT_MESSAGE(message_id=10097*)
     → "It's unthink-winkable that the Minister of the Orastery should know the secrets of the Book of the Gods while the Minister of the Optistery wallows in ignorance!"
   9: 0x1D53 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1D54 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x02)
  11: 0x1D5B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x41)
- 12: 0x1D62 [0x1D] PRINT_EVENT_MESSAGE(message_id=10097*)
+ 12: 0x1D62 [0x1D] PRINT_EVENT_MESSAGE(message_id=10098*)
     → "My position demands I gain the knowledge contained within that tome! I'll take this directaruly to the Star Sibyl!"
  13: 0x1D65 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1D66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x42)
@@ -5488,17 +5488,17 @@ SUBROUTINE_1B4D:
   1: 0x1DD2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1DD3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1DD4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x27)
-  4: 0x1DDB [0x1D] PRINT_EVENT_MESSAGE(message_id=10545*)
+  4: 0x1DDB [0x1D] PRINT_EVENT_MESSAGE(message_id=10546*)
     → "Hrm. Hrmmm... Hrrrmmmmmm...hrm!"
   5: 0x1DDE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1DDF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x28)
   7: 0x1DE6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x41)
-  8: 0x1DED [0x1D] PRINT_EVENT_MESSAGE(message_id=10600*)
+  8: 0x1DED [0x1D] PRINT_EVENT_MESSAGE(message_id=10601*)
     → "Kuluu, Zilart, Bahamut... Those are all names found in my dustiest and mustiest of tomes--and those tomes say that all three perished long, long ago!"
   9: 0x1DF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1DF1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x42)
  11: 0x1DF8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x0A)
- 12: 0x1DFF [0x1D] PRINT_EVENT_MESSAGE(message_id=10601*)
+ 12: 0x1DFF [0x1D] PRINT_EVENT_MESSAGE(message_id=10602*)
     → "I'm not going to believe any of this rubbly rubbish unless someone brings one of those Zilart here before my eyes!"
  13: 0x1E02 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1E03 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tosuka-Porika (ID: 17752080/0x010EE010), tag_num=0x0B)

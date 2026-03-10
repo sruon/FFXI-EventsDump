@@ -123,20 +123,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1CFF      |        7423 |
-|       2 | 0x1D00      |        7424 |
-|       3 | 0x1D01      |        7425 |
-|       4 | 0x1D02      |        7426 |
-|       5 | 0x1D03      |        7427 |
-|       6 | 0x1D04      |        7428 |
-|       7 | 0x1D05      |        7429 |
-|       8 | 0x1D06      |        7430 |
-|       9 | 0x1D07      |        7431 |
+|       1 | 0x1D00      |        7424 |
+|       2 | 0x1D01      |        7425 |
+|       3 | 0x1D02      |        7426 |
+|       4 | 0x1D03      |        7427 |
+|       5 | 0x1D04      |        7428 |
+|       6 | 0x1D05      |        7429 |
+|       7 | 0x1D06      |        7430 |
+|       8 | 0x1D07      |        7431 |
+|       9 | 0x1D08      |        7432 |
 |      10 | 0x000A      |          10 |
-|      11 | 0x1D08      |        7432 |
-|      12 | 0x1D09      |        7433 |
-|      13 | 0x1F7B      |        8059 |
-|      14 | 0x1F7C      |        8060 |
+|      11 | 0x1D09      |        7433 |
+|      12 | 0x1D0A      |        7434 |
+|      13 | 0x1F7C      |        8060 |
+|      14 | 0x1F7D      |        8061 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x000C      |          12 |
 |      17 | 0xFFFED6C4  |  4294891204 |
@@ -240,10 +240,10 @@
 
 ## String References
 
-- **7432**: So now you're one of us, huh? Well, may we bring much harmony to this world!
-- **7433**: What? You could be such a fine bard! What are you thinking? We could bring so much harmony to this world!
-- **8059**: Huh? The bard interred inside Eldieme? Yeah, he was executed in San d'Oria for committing a serious crime!
-- **8060**: So you're off to pray at his grave, huh? Be careful! You never know what evil lurks in those halls!
+- **7433**: So now you're one of us, huh? Well, may we bring much harmony to this world!
+- **7434**: What? You could be such a fine bard! What are you thinking? We could bring so much harmony to this world!
+- **8060**: Huh? The bard interred inside Eldieme? Yeah, he was executed in San d'Oria for committing a serious crime!
+- **8061**: So you're off to pray at his grave, huh? Be careful! You never know what evil lurks in those halls!
 
 ## Events
 
@@ -295,10 +295,10 @@
   2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0019 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7423*]:
+  5: 0x0019 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7424*]:
     → "Looks like his girlfriend dumped him. He probably doesn't want to talk right now. Best leave him be."
   6: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0021 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7424*]:
+  7: 0x0021 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7425*]:
     → "Nothing's more pathetic than a broken-hearted man."
   8: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0029 [0x21] END_EVENT
@@ -332,13 +332,13 @@
   2: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0043 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7425*]:
+  5: 0x0043 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7426*]:
     → "He's forgotten why he took up the lute in the first place. Well, it's something we all have to face some time or another."
   6: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x004B [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7426*]:
+  7: 0x004B [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7427*]:
     → "Some men give up and turn back. But most find a way over it, while some are strong enough to bust right through. That's when you finally become someone."
   8: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0053 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7427*]:
+  9: 0x0053 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7428*]:
     → "He's at his own crossroads. He has to figure it out for himself."
  10: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x005B [0x21] END_EVENT
@@ -373,16 +373,16 @@
   2: 0x0064 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0065 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0066 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0075 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7428*]:
+  5: 0x0075 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7429*]:
     → "Have you heard of Lewenhart?"
   6: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x007D [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7429*]:
+  7: 0x007D [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7430*]:
     → "Everywhere he goes, fantastic melodies follow. He is the bard for all bards, a legend among our kind."
   8: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0085 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7430*]:
+  9: 0x0085 [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7431*]:
     → "He should still be wandering somewhere out there, but nobody has seen him for ages."
  10: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x008D [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7431*]:
+ 11: 0x008D [0x2B] Mataligeat (ID: 17780765/0x010F501D) [7432*]:
     → "Someone of his stature could easily settle down and live quite comfortably. Perhaps he'll keep wandering his whole life. Who knows what thoughts such a creative mind entertains?"
  12: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0095 [0x21] END_EVENT
@@ -417,11 +417,11 @@
   3: 0x009F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
   5: 0x00AF [0x02] IF !(LocalPlayer->JobId == 10*) GOTO 0x00BE
-  6: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
+  6: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
     → "So now you're one of us, huh? Well, may we bring much harmony to this world!"
   7: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00BB [0x01] GOTO 0x00C2
-  9: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
+  9: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
     → "What? You could be such a fine bard! What are you thinking? We could bring so much harmony to this world!"
  10: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -456,10 +456,10 @@ SUBROUTINE_00C2:
   2: 0x00CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
+  5: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
     → "Huh? The bard interred inside Eldieme? Yeah, he was executed in San d'Oria for committing a serious crime!"
   6: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
+  7: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8061*)
     → "So you're off to pray at his grave, huh? Be careful! You never know what evil lurks in those halls!"
   8: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00E4 [0x21] END_EVENT

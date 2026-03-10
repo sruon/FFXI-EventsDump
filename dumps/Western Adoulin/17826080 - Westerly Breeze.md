@@ -45,122 +45,122 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
-|       1 | 0x2674      |        9844 |
-|       2 | 0x2675      |        9845 |
+|       1 | 0x2675      |        9845 |
+|       2 | 0x2676      |        9846 |
 |       3 | 0x11F0      |        4592 |
-|       4 | 0x1EE4      |        7908 |
-|       5 | 0x1EE5      |        7909 |
-|       6 | 0x1EE6      |        7910 |
-|       7 | 0x1EE7      |        7911 |
-|       8 | 0x1EE8      |        7912 |
-|       9 | 0x1EE9      |        7913 |
-|      10 | 0x1EEA      |        7914 |
-|      11 | 0x1EEB      |        7915 |
-|      12 | 0x1EEC      |        7916 |
-|      13 | 0x1EED      |        7917 |
-|      14 | 0x1EEE      |        7918 |
-|      15 | 0x1EEF      |        7919 |
+|       4 | 0x1EE5      |        7909 |
+|       5 | 0x1EE6      |        7910 |
+|       6 | 0x1EE7      |        7911 |
+|       7 | 0x1EE8      |        7912 |
+|       8 | 0x1EE9      |        7913 |
+|       9 | 0x1EEA      |        7914 |
+|      10 | 0x1EEB      |        7915 |
+|      11 | 0x1EEC      |        7916 |
+|      12 | 0x1EED      |        7917 |
+|      13 | 0x1EEE      |        7918 |
+|      14 | 0x1EEF      |        7919 |
+|      15 | 0x1EF0      |        7920 |
 |      16 | 0x00C9      |         201 |
 |      17 | 0x0000      |           0 |
-|      18 | 0x1EF0      |        7920 |
-|      19 | 0x1EF1      |        7921 |
-|      20 | 0x1F4C      |        8012 |
-|      21 | 0x1F4D      |        8013 |
-|      22 | 0x1F4E      |        8014 |
-|      23 | 0x1F4F      |        8015 |
-|      24 | 0x1F50      |        8016 |
-|      25 | 0x1F51      |        8017 |
+|      18 | 0x1EF1      |        7921 |
+|      19 | 0x1EF2      |        7922 |
+|      20 | 0x1F4D      |        8013 |
+|      21 | 0x1F4E      |        8014 |
+|      22 | 0x1F4F      |        8015 |
+|      23 | 0x1F50      |        8016 |
+|      24 | 0x1F51      |        8017 |
+|      25 | 0x1F52      |        8018 |
 |      26 | 0x11BD      |        4541 |
-|      27 | 0x1F52      |        8018 |
-|      28 | 0x1F53      |        8019 |
-|      29 | 0x1F54      |        8020 |
-|      30 | 0x1F55      |        8021 |
-|      31 | 0x1F56      |        8022 |
-|      32 | 0x1F57      |        8023 |
-|      33 | 0x1F58      |        8024 |
-|      34 | 0x1F59      |        8025 |
-|      35 | 0x1F5A      |        8026 |
-|      36 | 0x1F5B      |        8027 |
-|      37 | 0x1F5C      |        8028 |
-|      38 | 0x1F5D      |        8029 |
-|      39 | 0x1F5E      |        8030 |
-|      40 | 0x1F5F      |        8031 |
-|      41 | 0x1F60      |        8032 |
-|      42 | 0x1F61      |        8033 |
-|      43 | 0x1F62      |        8034 |
-|      44 | 0x1F63      |        8035 |
-|      45 | 0x1F64      |        8036 |
-|      46 | 0x1F65      |        8037 |
-|      47 | 0x1F66      |        8038 |
-|      48 | 0x1F69      |        8041 |
-|      49 | 0x1F6A      |        8042 |
-|      50 | 0x1F67      |        8039 |
-|      51 | 0x1F68      |        8040 |
-|      52 | 0x28BD      |       10429 |
+|      27 | 0x1F53      |        8019 |
+|      28 | 0x1F54      |        8020 |
+|      29 | 0x1F55      |        8021 |
+|      30 | 0x1F56      |        8022 |
+|      31 | 0x1F57      |        8023 |
+|      32 | 0x1F58      |        8024 |
+|      33 | 0x1F59      |        8025 |
+|      34 | 0x1F5A      |        8026 |
+|      35 | 0x1F5B      |        8027 |
+|      36 | 0x1F5C      |        8028 |
+|      37 | 0x1F5D      |        8029 |
+|      38 | 0x1F5E      |        8030 |
+|      39 | 0x1F5F      |        8031 |
+|      40 | 0x1F60      |        8032 |
+|      41 | 0x1F61      |        8033 |
+|      42 | 0x1F62      |        8034 |
+|      43 | 0x1F63      |        8035 |
+|      44 | 0x1F64      |        8036 |
+|      45 | 0x1F65      |        8037 |
+|      46 | 0x1F66      |        8038 |
+|      47 | 0x1F67      |        8039 |
+|      48 | 0x1F6A      |        8042 |
+|      49 | 0x1F6B      |        8043 |
+|      50 | 0x1F68      |        8040 |
+|      51 | 0x1F69      |        8041 |
+|      52 | 0x28BE      |       10430 |
 |      53 | 0x0001      |           1 |
 |      54 | 0x11B6      |        4534 |
-|      55 | 0x28BE      |       10430 |
+|      55 | 0x28BF      |       10431 |
 |      56 | 0x005A      |          90 |
-|      57 | 0x28C0      |       10432 |
+|      57 | 0x28C1      |       10433 |
 |      58 | 0x1189      |        4489 |
-|      59 | 0x28BF      |       10431 |
+|      59 | 0x28C0      |       10432 |
 |      60 | 0x0096      |         150 |
-|      61 | 0x28C1      |       10433 |
+|      61 | 0x28C2      |       10434 |
 
 ## String References
 
-- **7908**: <Sigh> They like to run you ragged at the waterfront warehouse.
-- **7909**: How am I supposed to work when they won't let me eat!?
-- **7910**: I'm so hungry...but I'm sick of Adoulinian food. It tastes like acuex toxin. I deserve something from the Middle Lands for all my hard work.
-- **7911**: Aha! I remember some guy who came back from the Middle Lands was talking about $0!
-- **7912**: That's what I want! Can you get it for me? If I can eat it now before it's widely imported, I can say I liked it before it was popular!
-- **7913**: Hurry up! I won't be able to move a single step until you bring me $0.
-- **7914**: Yeeeeeeeeeeees! You got $0 for me! After all this time, I finally have $0!
-- **7915**: <Sniff, sniff>... What a delightful smell... I can already imagine a matronly figure in an apron slaving over a hot batch of it while the warm Quon sun shines through the window!
-- **7916**: <Gulp>... This's the tastiest thing that's ever passed my lips!
-- **7917**: The flavor's so simple...but it also has a mellow backing. All my anger has completely disappeared... I love my job!
-- **7918**: This single bowl of soup has given me a zest for life! It's even made me nostalgic for Adoulinian food!
-- **7919**: Speaking of which...if you want a good Ulbukan restaurant, head out of Platea Triumphus towards Big Bridge. I heartily recommend it.
-- **7920**: Hey, this isn't $0 at all... No use letting good food go to waste, though.
-- **7921**: This isn't half bad! But bring me $0 next time, okay?
-- **8012**: Thanks for that $0 earlier.
-- **8013**: Phew, my throat sure is dry, though...
-- **8014**: Hey, hey, hey! Don't be like that! We're the bestest of all friends for eternity, remember?
-- **8015**: And since you're such a good friend, I know you'll want to surprise me. Get me a drink made from something that'll knock my tunic off!
-- **8016**: I can't wait to get my liquid gift. You're such a good friend, <Player>.
-- **8017**: Hey, I thought you were going to surprise me with a drink. I'm going to shrivel into a skeleton if you don't hurry up!
-- **8018**: Yeeeeeeeees! Such an...<gulp>...intense aroma... So this is the fabled $0...
-- **8019**: If this is made by Goblins...I best prepare my stomach...
-- **8020**: Ew...it smells like raw fish! But...I asked for it...so here goes nothing!
-- **8021**: <Glug>...<gluk>...<gulp>... Bleeeeeech, it tastes like bilge water! Get it away from me!
-- **8022**: My tongue's coated in it. Yuck, I feel it crawling down my throat! Oh no, I can even smell it when I open my mouth!
-- **8023**: Haaah...haaah...haaah... I don't think you want to drink that. Instead, try the caf<Player>i across Big Bridge in one of Eastern Adoulin's plazas.
-- **8024**: It's too hoity-toity for my tastes, but I just may have to go there anyway... I need to cleanse my palate.
-- **8025**: This isn't much of a surprise. It's so...normal.
-- **8026**: Hey, this is kind of tasty! Too bad it's not what I'm looking for. You'll need to bring me something else, buddy.
-- **8027**: We've shared so many memories together, haven't we? Like the time you gave me that $0. I had to curl up on the ground for hours before I stopped feeling sick.
-- **8028**: But anyway... The little chocobo who told me about $0 recently chirped to me about a pink beverage.
-- **8029**: Apparently the liquid inside is heretical or something, and bizarre stuff happens to your body when you drink it!
-- **8030**: I've gotta have one! I must experience its effects firsthand!
-- **8031**: Ha, nice try. That face won't work on me. I've seen it too many times already.
-- **8032**: Make sure it's the pink one that's sparkling. Sparkling and pink, okay? Okay!
-- **8033**: If you don't get me that sparkling pink drink, I'm gonna go tear you limb from limb like a Velkk marauder, buddy.
-- **8034**: Yeeeeeeeees! It's pink...it's sparkly...it's <gulp> exactly what I asked for!
-- **8035**: <Glug>...hm? ...It goes down smoother than pugil roe! Oh, and there's the slightest bite to it that brings out its sweetness. I love it!
-- **8036**: Ack! By the founder king, the pain consumes my soul! Altana, forgive me my trespasses...!
-- **8037**: So the rumors were true! It is cursed! ...<Player>, when will my body stop shaking?
-- **8038**: Maybe getting back to work will make me forget how disgusting I feel...
-- **8039**: This isn't very pink and doesn't sparkle...but oh well.
-- **8040**: Not bad! Next time, bring me a sparkling pink one, friend of friends. And make it snappy!
-- **8041**: Hey, this is the same drink from before! Fool me once, shame on me. Fool me twice...well, you're not gonna fool me twice!
-- **8042**: I want the one that's pink and sparkling! Pink and shiny, I say!
-- **9844**: There's a good reason Velkk are known as the Eventide Savages. They've been trying to raze our sacred city for as long as I remember!
-- **9845**: I don't care what that old tome in the library says! This is our city now, and the Velkk can't have it back!
-- **10429**: Yes? Oh? Is this for me?
-- **10430**: How'd you ever know that I was craving $0?
-- **10431**: Ahhh... Yes, that hits the spot!
-- **10432**: Aaall right! I feel ready to take on anything that comes my way!
-- **10433**: You're a real pal! C'mon--a little something for your trouble.
+- **7909**: <Sigh> They like to run you ragged at the waterfront warehouse.
+- **7910**: How am I supposed to work when they won't let me eat!?
+- **7911**: I'm so hungry...but I'm sick of Adoulinian food. It tastes like acuex toxin. I deserve something from the Middle Lands for all my hard work.
+- **7912**: Aha! I remember some guy who came back from the Middle Lands was talking about $0!
+- **7913**: That's what I want! Can you get it for me? If I can eat it now before it's widely imported, I can say I liked it before it was popular!
+- **7914**: Hurry up! I won't be able to move a single step until you bring me $0.
+- **7915**: Yeeeeeeeeeeees! You got $0 for me! After all this time, I finally have $0!
+- **7916**: <Sniff, sniff>... What a delightful smell... I can already imagine a matronly figure in an apron slaving over a hot batch of it while the warm Quon sun shines through the window!
+- **7917**: <Gulp>... This's the tastiest thing that's ever passed my lips!
+- **7918**: The flavor's so simple...but it also has a mellow backing. All my anger has completely disappeared... I love my job!
+- **7919**: This single bowl of soup has given me a zest for life! It's even made me nostalgic for Adoulinian food!
+- **7920**: Speaking of which...if you want a good Ulbukan restaurant, head out of Platea Triumphus towards Big Bridge. I heartily recommend it.
+- **7921**: Hey, this isn't $0 at all... No use letting good food go to waste, though.
+- **7922**: This isn't half bad! But bring me $0 next time, okay?
+- **8013**: Thanks for that $0 earlier.
+- **8014**: Phew, my throat sure is dry, though...
+- **8015**: Hey, hey, hey! Don't be like that! We're the bestest of all friends for eternity, remember?
+- **8016**: And since you're such a good friend, I know you'll want to surprise me. Get me a drink made from something that'll knock my tunic off!
+- **8017**: I can't wait to get my liquid gift. You're such a good friend, <Player>.
+- **8018**: Hey, I thought you were going to surprise me with a drink. I'm going to shrivel into a skeleton if you don't hurry up!
+- **8019**: Yeeeeeeeees! Such an...<gulp>...intense aroma... So this is the fabled $0...
+- **8020**: If this is made by Goblins...I best prepare my stomach...
+- **8021**: Ew...it smells like raw fish! But...I asked for it...so here goes nothing!
+- **8022**: <Glug>...<gluk>...<gulp>... Bleeeeeech, it tastes like bilge water! Get it away from me!
+- **8023**: My tongue's coated in it. Yuck, I feel it crawling down my throat! Oh no, I can even smell it when I open my mouth!
+- **8024**: Haaah...haaah...haaah... I don't think you want to drink that. Instead, try the caf<Player>i across Big Bridge in one of Eastern Adoulin's plazas.
+- **8025**: It's too hoity-toity for my tastes, but I just may have to go there anyway... I need to cleanse my palate.
+- **8026**: This isn't much of a surprise. It's so...normal.
+- **8027**: Hey, this is kind of tasty! Too bad it's not what I'm looking for. You'll need to bring me something else, buddy.
+- **8028**: We've shared so many memories together, haven't we? Like the time you gave me that $0. I had to curl up on the ground for hours before I stopped feeling sick.
+- **8029**: But anyway... The little chocobo who told me about $0 recently chirped to me about a pink beverage.
+- **8030**: Apparently the liquid inside is heretical or something, and bizarre stuff happens to your body when you drink it!
+- **8031**: I've gotta have one! I must experience its effects firsthand!
+- **8032**: Ha, nice try. That face won't work on me. I've seen it too many times already.
+- **8033**: Make sure it's the pink one that's sparkling. Sparkling and pink, okay? Okay!
+- **8034**: If you don't get me that sparkling pink drink, I'm gonna go tear you limb from limb like a Velkk marauder, buddy.
+- **8035**: Yeeeeeeeees! It's pink...it's sparkly...it's <gulp> exactly what I asked for!
+- **8036**: <Glug>...hm? ...It goes down smoother than pugil roe! Oh, and there's the slightest bite to it that brings out its sweetness. I love it!
+- **8037**: Ack! By the founder king, the pain consumes my soul! Altana, forgive me my trespasses...!
+- **8038**: So the rumors were true! It is cursed! ...<Player>, when will my body stop shaking?
+- **8039**: Maybe getting back to work will make me forget how disgusting I feel...
+- **8040**: This isn't very pink and doesn't sparkle...but oh well.
+- **8041**: Not bad! Next time, bring me a sparkling pink one, friend of friends. And make it snappy!
+- **8042**: Hey, this is the same drink from before! Fool me once, shame on me. Fool me twice...well, you're not gonna fool me twice!
+- **8043**: I want the one that's pink and sparkling! Pink and shiny, I say!
+- **9845**: There's a good reason Velkk are known as the Eventide Savages. They've been trying to raze our sacred city for as long as I remember!
+- **9846**: I don't care what that old tome in the library says! This is our city now, and the Velkk can't have it back!
+- **10430**: Yes? Oh? Is this for me?
+- **10431**: How'd you ever know that I was craving $0?
+- **10432**: Ahhh... Yes, that hits the spot!
+- **10433**: Aaall right! I feel ready to take on anything that comes my way!
+- **10434**: You're a real pal! C'mon--a little something for your trouble.
 
 ## Events
 
@@ -211,10 +211,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9844*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9845*)
     → "There's a good reason Velkk are known as the Eventide Savages. They've been trying to raze our sacred city for as long as I remember!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9845*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9846*)
     → "I don't care what that old tome in the library says! This is our city now, and the Velkk can't have it back!"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -251,19 +251,19 @@
   3: 0x0037 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
   5: 0x0047 [0x03] Work_Zone[2] = 4592*
-  6: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
+  6: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
     → "<Sigh> They like to run you ragged at the waterfront warehouse."
   7: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
+  8: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
     → "How am I supposed to work when they won't let me eat!?"
   9: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+ 10: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "I'm so hungry...but I'm sick of Adoulinian food. It tastes like acuex toxin. I deserve something from the Middle Lands for all my hard work."
  11: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+ 12: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "Aha! I remember some guy who came back from the Middle Lands was talking about $0!"
  13: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+ 14: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "That's what I want! Can you get it for me? If I can eat it now before it's widely imported, I can say I liked it before it was popular!"
  15: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0060 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -299,7 +299,7 @@
   2: 0x0078 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0079 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
   4: 0x0088 [0x03] Work_Zone[2] = 4592*
-  5: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+  5: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "Hurry up! I won't be able to move a single step until you bring me $0."
   6: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0091 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -337,23 +337,23 @@
   3: 0x00A9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00AA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
   5: 0x00B9 [0x03] Work_Zone[2] = 4592*
-  6: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+  6: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "Yeeeeeeeeeeees! You got $0 for me! After all this time, I finally have $0!"
   7: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+  8: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "<Sniff, sniff>... What a delightful smell... I can already imagine a matronly figure in an apron slaving over a hot batch of it while the warm Quon sun shines through the window!"
   9: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
+ 10: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
     → "<Gulp>... This's the tastiest thing that's ever passed my lips!"
  11: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
+ 12: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
     → "The flavor's so simple...but it also has a mellow backing. All my anger has completely disappeared... I love my job!"
  13: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00CE [0x03] Work_Zone[2] = 4592*
- 15: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+ 15: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → "This single bowl of soup has given me a zest for life! It's even made me nostalgic for Adoulinian food!"
  16: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
+ 17: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
     → "Speaking of which...if you want a good Ulbukan restaurant, head out of Platea Triumphus towards Big Bridge. I heartily recommend it."
  18: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -391,10 +391,10 @@
   3: 0x0104 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0105 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
   5: 0x0114 [0x03] Work_Zone[2] = 4592*
-  6: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
+  6: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
     → "Hey, this isn't $0 at all... No use letting good food go to waste, though."
   7: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+  8: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "This isn't half bad! But bring me $0 next time, okay?"
   9: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0121 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -432,19 +432,19 @@
   3: 0x013A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x013B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
   5: 0x014A [0x03] Work_Zone[2] = 4592*
-  6: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=8012*)
+  6: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
     → "Thanks for that $0 earlier."
   7: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
+  8: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
     → "Phew, my throat sure is dry, though..."
   9: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
+ 10: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
     → "Hey, hey, hey! Don't be like that! We're the bestest of all friends for eternity, remember?"
  11: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x015B [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
+ 12: 0x015B [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
     → "And since you're such a good friend, I know you'll want to surprise me. Get me a drink made from something that'll knock my tunic off!"
  13: 0x015E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
+ 14: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "I can't wait to get my liquid gift. You're such a good friend, <Player>."
  15: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0163 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -478,7 +478,7 @@
   1: 0x017A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x017B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x017C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
-  4: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
+  4: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
     → "Hey, I thought you were going to surprise me with a drink. I'm going to shrivel into a skeleton if you don't hurry up!"
   5: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x018F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -516,25 +516,25 @@
   3: 0x01A7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01A8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
   5: 0x01B7 [0x03] Work_Zone[2] = 4541*
-  6: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
+  6: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
     → "Yeeeeeeeees! Such an...<gulp>...intense aroma... So this is the fabled $0..."
   7: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
+  8: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
     → "If this is made by Goblins...I best prepare my stomach..."
   9: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
+ 10: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
     → "Ew...it smells like raw fish! But...I asked for it...so here goes nothing!"
  11: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
+ 12: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
     → "<Glug>...<gluk>...<gulp>... Bleeeeeech, it tastes like bilge water! Get it away from me!"
  13: 0x01CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
+ 14: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
     → "My tongue's coated in it. Yuck, I feel it crawling down my throat! Oh no, I can even smell it when I open my mouth!"
  15: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
+ 16: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8024*)
     → "Haaah...haaah...haaah... I don't think you want to drink that. Instead, try the caf<Player>i across Big Bridge in one of Eastern Adoulin's plazas."
  17: 0x01D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8024*)
+ 18: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8025*)
     → "It's too hoity-toity for my tastes, but I just may have to go there anyway... I need to cleanse my palate."
  19: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x01D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -570,10 +570,10 @@
   2: 0x0200 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0201 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0202 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
-  5: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8025*)
+  5: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
     → "This isn't much of a surprise. It's so...normal."
   6: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
+  7: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
     → "Hey, this is kind of tasty! Too bad it's not what I'm looking for. You'll need to bring me something else, buddy."
   8: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0219 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -611,23 +611,23 @@
   3: 0x0231 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0232 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
   5: 0x0241 [0x03] Work_Zone[2] = 4541*
-  6: 0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
+  6: 0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
     → "We've shared so many memories together, haven't we? Like the time you gave me that $0. I had to curl up on the ground for hours before I stopped feeling sick."
   7: 0x0249 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x024A [0x03] Work_Zone[2] = 4592*
-  9: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
+  9: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
     → "But anyway... The little chocobo who told me about $0 recently chirped to me about a pink beverage."
  10: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
+ 11: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=8030*)
     → "Apparently the liquid inside is heretical or something, and bizarre stuff happens to your body when you drink it!"
  12: 0x0256 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=8030*)
+ 13: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
     → "I've gotta have one! I must experience its effects firsthand!"
  14: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
+ 15: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=8032*)
     → "Ha, nice try. That face won't work on me. I've seen it too many times already."
  16: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=8032*)
+ 17: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=8033*)
     → "Make sure it's the pink one that's sparkling. Sparkling and pink, okay? Okay!"
  18: 0x0262 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0263 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -660,7 +660,7 @@
   1: 0x0279 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x027A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x027B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
-  4: 0x028A [0x1D] PRINT_EVENT_MESSAGE(message_id=8033*)
+  4: 0x028A [0x1D] PRINT_EVENT_MESSAGE(message_id=8034*)
     → "If you don't get me that sparkling pink drink, I'm gonna go tear you limb from limb like a Velkk marauder, buddy."
   5: 0x028D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x028E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -697,19 +697,19 @@
   2: 0x02A5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x02A6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x02A7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
-  5: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8034*)
+  5: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8035*)
     → "Yeeeeeeeees! It's pink...it's sparkly...it's <gulp> exactly what I asked for!"
   6: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8035*)
+  7: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
     → "<Glug>...hm? ...It goes down smoother than pugil roe! Oh, and there's the slightest bite to it that brings out its sweetness. I love it!"
   8: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x02BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
+  9: 0x02BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
     → "Ack! By the founder king, the pain consumes my soul! Altana, forgive me my trespasses...!"
  10: 0x02C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
+ 11: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
     → "So the rumors were true! It is cursed! ...<Player>, when will my body stop shaking?"
  12: 0x02C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x02C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
+ 13: 0x02C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
     → "Maybe getting back to work will make me forget how disgusting I feel..."
  14: 0x02C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x02CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -745,10 +745,10 @@
   2: 0x02F2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x02F3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x02F4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
-  5: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
+  5: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=8042*)
     → "Hey, this is the same drink from before! Fool me once, shame on me. Fool me twice...well, you're not gonna fool me twice!"
   6: 0x0306 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=8042*)
+  7: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
     → "I want the one that's pink and sparkling! Pink and shiny, I say!"
   8: 0x030A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x030B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -783,10 +783,10 @@
   2: 0x0322 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0323 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0324 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [EventEntity, EventEntity], work=60*
-  5: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
+  5: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
     → "This isn't very pink and doesn't sparkle...but oh well."
   6: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0337 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
+  7: 0x0337 [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
     → "Not bad! Next time, bring me a sparkling pink one, friend of friends. And make it snappy!"
   8: 0x033A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x033B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -1007,32 +1007,32 @@
   3: 0x035F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0360 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0361 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  6: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=10429*)
+  6: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=10430*)
     → "Yes? Oh? Is this for me?"
   7: 0x0373 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0374 [0x02] IF !(Work_Zone[1] == 1*) GOTO 0x03BC
   9: 0x037C [0x03] Work_Zone[2] = 4534*
- 10: 0x0381 [0x1D] PRINT_EVENT_MESSAGE(message_id=10430*)
+ 10: 0x0381 [0x1D] PRINT_EVENT_MESSAGE(message_id=10431*)
     → "How'd you ever know that I was craving $0?"
  11: 0x0384 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0385 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
  13: 0x0394 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [EventEntity, EventEntity], work=60*
  14: 0x03A3 [0x03] Work_Zone_1700[0] = 90*
  15: 0x03A8 [0x27] REQ_SET(priority=0x10, entity_id=Mischief Marker (ID: 17826009/0x011000D9), tag_num=0x0A)
- 16: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=10432*)
+ 16: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=10433*)
     → "Aaall right! I feel ready to take on anything that comes my way!"
  17: 0x03B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x03B3 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Mischief Marker (ID: 17826009/0x011000D9))
  19: 0x03B9 [0x01] GOTO 0x03F9
  20: 0x03BC [0x03] Work_Zone[2] = 4489*
- 21: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10430*)
+ 21: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10431*)
     → "How'd you ever know that I was craving $0?"
  22: 0x03C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x03C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
  24: 0x03D4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [EventEntity, EventEntity], work=60*
  25: 0x03E3 [0x03] Work_Zone_1700[0] = 90*
  26: 0x03E8 [0x27] REQ_SET(priority=0x10, entity_id=Mischief Marker (ID: 17826009/0x011000D9), tag_num=0x0A)
- 27: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10431*)
+ 27: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10432*)
     → "Ahhh... Yes, that hits the spot!"
  28: 0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x03F3 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Mischief Marker (ID: 17826009/0x011000D9))
@@ -1041,7 +1041,7 @@ SUBROUTINE_03F9:
  30: 0x03F9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=60*
  31: 0x0408 [0x03] Work_Zone_1700[0] = 150*
  32: 0x040D [0x27] REQ_SET(priority=0x10, entity_id=Mischief Marker (ID: 17826009/0x011000D9), tag_num=0x0A)
- 33: 0x0414 [0x1D] PRINT_EVENT_MESSAGE(message_id=10433*)
+ 33: 0x0414 [0x1D] PRINT_EVENT_MESSAGE(message_id=10434*)
     → "You're a real pal! C'mon--a little something for your trouble."
  34: 0x0417 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0418 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Mischief Marker (ID: 17826009/0x011000D9))

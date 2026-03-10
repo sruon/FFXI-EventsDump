@@ -133,7 +133,7 @@
 |      80 | 0x00C8      |         200 |
 |      81 | 0x1DF1      |        7665 |
 |      82 | 0x005A      |          90 |
-|      83 | 0x1ED1      |        7889 |
+|      83 | 0x1ED2      |        7890 |
 |      84 | 0x00EA      |         234 |
 |      85 | 0x0003      |           3 |
 |      86 | 0x0013      |          19 |
@@ -152,7 +152,7 @@
 ## String References
 
 - **7665**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
-- **7889**: The sandworm swallows you whole!
+- **7890**: The sandworm swallows you whole!
 
 ## Events
 
@@ -1050,7 +1050,7 @@ SUBROUTINE_00B0:
 
 ```
   0: 0x0386 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0387 [0x48] [System] [7889*]:
+  1: 0x0387 [0x48] [System] [7890*]:
     → "The sandworm swallows you whole!"
   2: 0x038A [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
   3: 0x039B [0x1C] WAIT(60* ticks)

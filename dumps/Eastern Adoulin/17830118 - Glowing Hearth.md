@@ -26,22 +26,22 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x28EC      |       10476 |
+|       0 | 0x28ED      |       10477 |
 |       1 | 0x000D      |          13 |
 |       2 | 0xFFFF57C2  |  4294924226 |
 |       3 | 0xD175      |       53621 |
 |       4 | 0xFFFFFF6C  |  4294967148 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x28ED      |       10477 |
-|       7 | 0x28F0      |       10480 |
+|       6 | 0x28EE      |       10478 |
+|       7 | 0x28F1      |       10481 |
 |       8 | 0x00C8      |         200 |
 |       9 | 0x0001      |           1 |
 
 ## String References
 
-- **10476**: Get lost, commoner.
-- **10477**: ...Welcome to the Silver Knife.
-- **10480**: Enter the premises? [Of course, it's my right./No, it's not worth my attention.]
+- **10477**: Get lost, commoner.
+- **10478**: ...Welcome to the Silver Knife.
+- **10481**: Enter the premises? [Of course, it's my right./No, it's not worth my attention.]
 
 ## Events
 
@@ -89,7 +89,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10476*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10477*)
     → "Get lost, commoner."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -242,10 +242,10 @@
   1: 0x002D [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10477*)
+  4: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10478*)
     → "...Welcome to the Silver Knife."
   5: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0038 [0x24] CREATE_DIALOG(message_id=10480*, default_option=0*, option_flags=0*)
+  6: 0x0038 [0x24] CREATE_DIALOG(message_id=10481*, default_option=0*, option_flags=0*)
     → "Enter the premises? [Of course, it's my right./No, it's not worth my attention.]"
   7: 0x003F [0x25] WAIT_DIALOG_SELECT()
   8: 0x0040 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0072

@@ -25,9 +25,9 @@
 |       0 | 0xFFFF1E2B  |  4294909483 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0008      |           8 |
-|       3 | 0x1BB0      |        7088 |
-|       4 | 0x1BB2      |        7090 |
-|       5 | 0x1BB3      |        7091 |
+|       3 | 0x1BB1      |        7089 |
+|       4 | 0x1BB3      |        7091 |
+|       5 | 0x1BB4      |        7092 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0092      |         146 |
@@ -36,12 +36,12 @@
 |      11 | 0xFFFF1878  |  4294908024 |
 |      12 | 0x1F41      |        8001 |
 |      13 | 0x045D      |        1117 |
-|      14 | 0x1BC4      |        7108 |
-|      15 | 0x1BB1      |        7089 |
+|      14 | 0x1BC5      |        7109 |
+|      15 | 0x1BB2      |        7090 |
 
 ## String References
 
-- **7091**: Pay $7 gil and head through? [Yes./No.]
+- **7092**: Pay $7 gil and head through? [Yes./No.]
 
 ## Events
 
@@ -94,7 +94,7 @@
   2: 0x0014 [0x03] Work_Zone[2] = 200*
   3: 0x0019 [0x03] Work_Zone[3] = 8*
   4: 0x001E [0x4A] Zedduva (ID: 17784853/0x010F6015) looks at LocalPlayer
-  5: 0x0027 [0x2B] Zedduva (ID: 17784853/0x010F6015) [7088*]:
+  5: 0x0027 [0x2B] Zedduva (ID: 17784853/0x010F6015) [7089*]:
     → "This leads to departures. You'll need $6 and $0 gil to board."
   6: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002F [0x01] GOTO 0x0035
@@ -138,10 +138,10 @@ SUBROUTINE_0035:
   1: 0x0042 [0x02] IF !(ExtData[1]->WorkLocal[2] <= 4294909483*) GOTO 0x00CC
   2: 0x004A [0x03] Work_Zone[9] = 200*
   3: 0x004F [0x4A] Zedduva (ID: 17784853/0x010F6015) looks at LocalPlayer
-  4: 0x0058 [0x2B] Zedduva (ID: 17784853/0x010F6015) [7090*]:
+  4: 0x0058 [0x2B] Zedduva (ID: 17784853/0x010F6015) [7091*]:
     → "This leads to departures. You'll need $7 gil to board a flight."
   5: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0060 [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
+  6: 0x0060 [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
     → "Pay $7 gil and head through? [Yes./No.]"
   7: 0x0067 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0068 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C9
@@ -194,7 +194,7 @@ SUBROUTINE_00CF:
   0: 0x00D1 [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
   1: 0x00DC [0x02] IF !(ExtData[1]->WorkLocal[2] <= 4294909483*) GOTO 0x00F8
   2: 0x00E4 [0x4A] Zedduva (ID: 17784853/0x010F6015) looks at LocalPlayer
-  3: 0x00ED [0x2B] Zedduva (ID: 17784853/0x010F6015) [7108*]:
+  3: 0x00ED [0x2B] Zedduva (ID: 17784853/0x010F6015) [7109*]:
     → "I'm sorry, but your boarding rights have been temporarily revoked. Have a nice day."
   4: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00F5 [0x01] GOTO 0x00FB
@@ -206,7 +206,7 @@ SUBROUTINE_00FB:
 
 SUBROUTINE_00FD:
   9: 0x00FD [0x4A] Gatita (ID: 17784852/0x010F6014) looks at LocalPlayer
- 10: 0x0106 [0x2B] Gatita (ID: 17784852/0x010F6014) [7089*]:
+ 10: 0x0106 [0x2B] Gatita (ID: 17784852/0x010F6014) [7090*]:
     → "This is the departures exit. You can't go out this way. Try the next door, please."
  11: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x010E [0x1B] RETURN

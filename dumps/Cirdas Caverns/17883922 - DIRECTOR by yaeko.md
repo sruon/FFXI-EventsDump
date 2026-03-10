@@ -26,45 +26,45 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x0013      |          19 |
 |       3 | 0x0296      |         662 |
-|       4 | 0x1E7C      |        7804 |
+|       4 | 0x1E7D      |        7805 |
 |       5 | 0x0046      |          70 |
 |       6 | 0x0028      |          40 |
 |       7 | 0x000A      |          10 |
-|       8 | 0x1E7D      |        7805 |
-|       9 | 0x1E7E      |        7806 |
-|      10 | 0x1E7F      |        7807 |
-|      11 | 0x1E80      |        7808 |
-|      12 | 0x1E81      |        7809 |
+|       8 | 0x1E7E      |        7806 |
+|       9 | 0x1E7F      |        7807 |
+|      10 | 0x1E80      |        7808 |
+|      11 | 0x1E81      |        7809 |
+|      12 | 0x1E82      |        7810 |
 |      13 | 0x005A      |          90 |
 |      14 | 0x0064      |         100 |
 |      15 | 0x0078      |         120 |
-|      16 | 0x1E82      |        7810 |
-|      17 | 0x1E83      |        7811 |
-|      18 | 0x1E84      |        7812 |
-|      19 | 0x1E85      |        7813 |
-|      20 | 0x1E86      |        7814 |
-|      21 | 0x1E87      |        7815 |
+|      16 | 0x1E83      |        7811 |
+|      17 | 0x1E84      |        7812 |
+|      18 | 0x1E85      |        7813 |
+|      19 | 0x1E86      |        7814 |
+|      20 | 0x1E87      |        7815 |
+|      21 | 0x1E88      |        7816 |
 |      22 | 0x001E      |          30 |
-|      23 | 0x1E88      |        7816 |
+|      23 | 0x1E89      |        7817 |
 |      24 | 0x0050      |          80 |
-|      25 | 0x1E89      |        7817 |
-|      26 | 0x1E8A      |        7818 |
-|      27 | 0x1E8B      |        7819 |
-|      28 | 0x1E8C      |        7820 |
-|      29 | 0x1E8D      |        7821 |
-|      30 | 0x1E8E      |        7822 |
-|      31 | 0x1E8F      |        7823 |
-|      32 | 0x1E90      |        7824 |
+|      25 | 0x1E8A      |        7818 |
+|      26 | 0x1E8B      |        7819 |
+|      27 | 0x1E8C      |        7820 |
+|      28 | 0x1E8D      |        7821 |
+|      29 | 0x1E8E      |        7822 |
+|      30 | 0x1E8F      |        7823 |
+|      31 | 0x1E90      |        7824 |
+|      32 | 0x1E91      |        7825 |
 |      33 | 0x003C      |          60 |
-|      34 | 0x1E91      |        7825 |
-|      35 | 0x1E92      |        7826 |
+|      34 | 0x1E92      |        7826 |
+|      35 | 0x1E93      |        7827 |
 |      36 | 0x0005      |           5 |
 |      37 | 0x0006      |           6 |
-|      38 | 0x1E93      |        7827 |
-|      39 | 0x1E94      |        7828 |
-|      40 | 0x1E95      |        7829 |
+|      38 | 0x1E94      |        7828 |
+|      39 | 0x1E95      |        7829 |
+|      40 | 0x1E96      |        7830 |
 |      41 | 0x008C      |         140 |
-|      42 | 0x1E96      |        7830 |
+|      42 | 0x1E97      |        7831 |
 |      43 | 0x0032      |          50 |
 |      44 | 0x0003      |           3 |
 |      45 | 0x0008      |           8 |
@@ -74,22 +74,22 @@
 |      49 | 0x007F      |         127 |
 |      50 | 0x0001      |           1 |
 |      51 | 0x009D      |         157 |
-|      52 | 0x1E97      |        7831 |
-|      53 | 0x1E98      |        7832 |
-|      54 | 0x1E99      |        7833 |
-|      55 | 0x1E9A      |        7834 |
-|      56 | 0x1E9B      |        7835 |
-|      57 | 0x1E9C      |        7836 |
-|      58 | 0x1E9D      |        7837 |
-|      59 | 0x1E9E      |        7838 |
-|      60 | 0x1E9F      |        7839 |
-|      61 | 0x1EA0      |        7840 |
-|      62 | 0x1EA1      |        7841 |
-|      63 | 0x1EA2      |        7842 |
-|      64 | 0x1EA3      |        7843 |
-|      65 | 0x1EA4      |        7844 |
-|      66 | 0x1EA5      |        7845 |
-|      67 | 0x1EA6      |        7846 |
+|      52 | 0x1E98      |        7832 |
+|      53 | 0x1E99      |        7833 |
+|      54 | 0x1E9A      |        7834 |
+|      55 | 0x1E9B      |        7835 |
+|      56 | 0x1E9C      |        7836 |
+|      57 | 0x1E9D      |        7837 |
+|      58 | 0x1E9E      |        7838 |
+|      59 | 0x1E9F      |        7839 |
+|      60 | 0x1EA0      |        7840 |
+|      61 | 0x1EA1      |        7841 |
+|      62 | 0x1EA2      |        7842 |
+|      63 | 0x1EA3      |        7843 |
+|      64 | 0x1EA4      |        7844 |
+|      65 | 0x1EA5      |        7845 |
+|      66 | 0x1EA6      |        7846 |
+|      67 | 0x1EA7      |        7847 |
 |      68 | 0x012C      |         300 |
 |      69 | 0x003D      |          61 |
 |      70 | 0x6FFE0     |      458720 |
@@ -97,38 +97,38 @@
 |      72 | 0x283C      |       10300 |
 |      73 | 0x00A2      |         162 |
 |      74 | 0x00B4      |         180 |
-|      75 | 0x1EA7      |        7847 |
-|      76 | 0x1EA8      |        7848 |
-|      77 | 0x1EA9      |        7849 |
-|      78 | 0x1EAA      |        7850 |
-|      79 | 0x1EAB      |        7851 |
-|      80 | 0x1EAC      |        7852 |
+|      75 | 0x1EA8      |        7848 |
+|      76 | 0x1EA9      |        7849 |
+|      77 | 0x1EAA      |        7850 |
+|      78 | 0x1EAB      |        7851 |
+|      79 | 0x1EAC      |        7852 |
+|      80 | 0x1EAD      |        7853 |
 |      81 | 0x0002      |           2 |
 |      82 | 0x0007      |           7 |
-|      83 | 0x1EAD      |        7853 |
-|      84 | 0x1EAE      |        7854 |
-|      85 | 0x1EAF      |        7855 |
+|      83 | 0x1EAE      |        7854 |
+|      84 | 0x1EAF      |        7855 |
+|      85 | 0x1EB0      |        7856 |
 |      86 | 0x07E8      |        2024 |
-|      87 | 0x1EB0      |        7856 |
-|      88 | 0x1EB1      |        7857 |
+|      87 | 0x1EB1      |        7857 |
+|      88 | 0x1EB2      |        7858 |
 
 ## String References
 
-- **7831**: <Oh ho ho, how long hath it been since we have seen one of Zacariah's blood?>
-- **7832**: <We know that geomancers, who master indicolure magic and purify the lifestream, offer thy shells to the land here.>
-- **7834**: <Then tell us, blood of Zacariah. Why is the lifestream volatile and disrupted elsewhere, yet not here? Are there those who do not believe Zacariah?>
-- **7836**: <...>
-- **7840**: <Blood of Zacariah, thou dost deign to understand us, but thou dost not.>
-- **7841**: <Our anger is not the source of thine anguish. It is all the geomancers themselves.>
-- **7842**: <Thine awe of nature has turned to a fear of destroying it, and thy ringing bells have actualized it as a Communion.>
-- **7844**: <A Communion is a pact with nature. It represents thy will of how things should be, not how they are.>
-- **7845**: <Dear child, thy bell, too, doth shake in apprehension.>
-- **7846**: <Yet thy bell rings true. We shall respect thy Communion and make thee part of the lifestream!>
-- **7849**: <Dost thou believe thou canst ring this most sacred of bells?>
-- **7850**: <And what if thou were to succeed? What wouldst thy pact be?>
-- **7851**: <Come, geomancer! Let thy Communion be heard throughout Adoulin!>
-- **7852**: What pact will you swear? [To bring harmony to nature in Adoulin./To protect Adoulin's natural environment./To do everything possible to save nature.]
-- **7853**: <The bell doth ring. We shall respect thy Communion!>
+- **7832**: <Oh ho ho, how long hath it been since we have seen one of Zacariah's blood?>
+- **7833**: <We know that geomancers, who master indicolure magic and purify the lifestream, offer thy shells to the land here.>
+- **7835**: <Then tell us, blood of Zacariah. Why is the lifestream volatile and disrupted elsewhere, yet not here? Are there those who do not believe Zacariah?>
+- **7837**: <...>
+- **7841**: <Blood of Zacariah, thou dost deign to understand us, but thou dost not.>
+- **7842**: <Our anger is not the source of thine anguish. It is all the geomancers themselves.>
+- **7843**: <Thine awe of nature has turned to a fear of destroying it, and thy ringing bells have actualized it as a Communion.>
+- **7845**: <A Communion is a pact with nature. It represents thy will of how things should be, not how they are.>
+- **7846**: <Dear child, thy bell, too, doth shake in apprehension.>
+- **7847**: <Yet thy bell rings true. We shall respect thy Communion and make thee part of the lifestream!>
+- **7850**: <Dost thou believe thou canst ring this most sacred of bells?>
+- **7851**: <And what if thou were to succeed? What wouldst thy pact be?>
+- **7852**: <Come, geomancer! Let thy Communion be heard throughout Adoulin!>
+- **7853**: What pact will you swear? [To bring harmony to nature in Adoulin./To protect Adoulin's natural environment./To do everything possible to save nature.]
+- **7854**: <The bell doth ring. We shall respect thy Communion!>
 
 ## Events
 
@@ -265,7 +265,7 @@
  14: 0x0075 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  15: 0x0084 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17883923/0x0110E313))
  16: 0x008A [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x45)
- 17: 0x0091 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7804*]:
+ 17: 0x0091 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7805*]:
     → "<Player>! Oh, I'm so glad you decided to come!"
  18: 0x0098 [0x1C] WAIT(70* ticks)
  19: 0x009B [0x1C] WAIT(40* ticks)
@@ -280,10 +280,10 @@
  28: 0x00D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x01)
  29: 0x00DE [0x52] END_LOAD_SCHEDULER: End scheduler "s130" with entities [LocalPlayer, LocalPlayer], work=662*
  30: 0x00ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s131" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
- 31: 0x00FE [0x2B] Sylvie (ID: 17883923/0x0110E313) [7805*]:
+ 31: 0x00FE [0x2B] Sylvie (ID: 17883923/0x0110E313) [7806*]:
     → "The spirits of my ancestors are always watching over me from this place...I think."
  32: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0106 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7806*]:
+ 33: 0x0106 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7807*]:
     → "But it's still really scary to come here by myself, you know?"
  34: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x010E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x02)
@@ -293,18 +293,18 @@
  39: 0x013C [0x79] Sylvie (ID: 17883923/0x0110E313) looks at Overgrown Grave (ID: 17883924/0x0110E314) (Basic look)
  40: 0x0146 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x04)
  41: 0x014D [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x46)
- 42: 0x0154 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7807*]:
+ 42: 0x0154 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7808*]:
     → "Somehow, I made it here in one piece, so it's time to ring the bell and begin the ceremony!"
  43: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x015C [0x79] Sylvie (ID: 17883923/0x0110E313) looks at LocalPlayer (Basic look)
- 45: 0x0166 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7808*]:
+ 45: 0x0166 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7809*]:
     → "Won't you come pray with me, <Player>?"
  46: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x016E [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17883923/0x0110E313))
  48: 0x0174 [0x52] END_LOAD_SCHEDULER: End scheduler "s133" with entities [LocalPlayer, LocalPlayer], work=662*
  49: 0x0183 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s134" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
  50: 0x0194 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cage" with entities [Sylvie (ID: 17883923/0x0110E313), Sylvie (ID: 17883923/0x0110E313)]
- 51: 0x01A1 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7809*]:
+ 51: 0x01A1 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7810*]:
     → "Daddy, may the lifestream keep you snug in its warm embrace. May you become one with nature, and may she always keep you safe."
  52: 0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x01A9 [0x1C] WAIT(200* ticks)
@@ -324,44 +324,44 @@
  67: 0x0213 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s135" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
  68: 0x0224 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  69: 0x0235 [0x1C] WAIT(120* ticks)
- 70: 0x0238 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7810*]:
+ 70: 0x0238 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7811*]:
     → "The ceremony has been completed, now that I've buried the stones you gathered for me."
  71: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0240 [0x52] END_LOAD_SCHEDULER: End scheduler "s135" with entities [LocalPlayer, LocalPlayer], work=662*
  73: 0x024F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s136" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
  74: 0x0260 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x2C)
- 75: 0x0267 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7811*]:
+ 75: 0x0267 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7812*]:
     → "<Player>, do you remember how Lhaiso rang her bell and called forth the Communion?"
  76: 0x026E [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x026F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x2D)
  78: 0x0276 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x2E)
- 79: 0x027D [0x2B] Sylvie (ID: 17883923/0x0110E313) [7812*]:
+ 79: 0x027D [0x2B] Sylvie (ID: 17883923/0x0110E313) [7813*]:
     → "I think the way my bloodline rings our bells to send off the dead is pretty similar."
  80: 0x0284 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0285 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x2F)
  82: 0x028C [0x52] END_LOAD_SCHEDULER: End scheduler "s136" with entities [LocalPlayer, LocalPlayer], work=662*
  83: 0x029B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s137" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
  84: 0x02AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x10)
- 85: 0x02B3 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7813*]:
+ 85: 0x02B3 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7814*]:
     → "It's been said that though our spirits rise into the sky when we die, a geomancer's flesh returns to the ground and becomes part of the lifestream."
  86: 0x02BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x02BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x11)
  88: 0x02C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x14)
- 89: 0x02C9 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7814*]:
+ 89: 0x02C9 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7815*]:
     → "The more we train to use the lifestream, the more we aid nature in all her forms. And now that Daddy is part of the lifestream, he is watching over us all."
  90: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x02D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x15)
  92: 0x02D8 [0x7B] Sylvie (ID: 17883923/0x0110E313) stops talking
  93: 0x02DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x12)
  94: 0x02E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x13)
- 95: 0x02EB [0x2B] Sylvie (ID: 17883923/0x0110E313) [7815*]:
+ 95: 0x02EB [0x2B] Sylvie (ID: 17883923/0x0110E313) [7816*]:
     → "But this is a belief held only by the descendants of Zacariah, and other geomancers don't lend an ear to our concerns..."
  96: 0x02F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x02F3 [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x48)
  98: 0x02FA [0x1C] WAIT(30* ticks)
  99: 0x02FD [0x52] END_LOAD_SCHEDULER: End scheduler "s137" with entities [LocalPlayer, LocalPlayer], work=662*
 100: 0x030C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s138" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
-101: 0x031D [0x2B] Sylvie (ID: 17883923/0x0110E313) [7816*]:
+101: 0x031D [0x2B] Sylvie (ID: 17883923/0x0110E313) [7817*]:
     → "Look over there, <Player>. That's the grave of my ancestor, Zacariah."
 102: 0x0324 [0x1C] WAIT(80* ticks)
 103: 0x0327 [0x52] END_LOAD_SCHEDULER: End scheduler "s138" with entities [LocalPlayer, LocalPlayer], work=662*
@@ -370,7 +370,7 @@
 106: 0x034D [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x034E [0x4A] LocalPlayer looks at Sylvie (ID: 17883923/0x0110E313)
 108: 0x0357 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x18)
-109: 0x035E [0x2B] Sylvie (ID: 17883923/0x0110E313) [7817*]:
+109: 0x035E [0x2B] Sylvie (ID: 17883923/0x0110E313) [7818*]:
     → "He was one of the five disciples of Sih Renaye--and his grave is the only one left standing."
 110: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x0366 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x19)
@@ -378,11 +378,11 @@
 113: 0x036E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 114: 0x0373 [0x52] END_LOAD_SCHEDULER: End scheduler "s139" with entities [LocalPlayer, LocalPlayer], work=662*
 115: 0x0382 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s140" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
-116: 0x0393 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7818*]:
+116: 0x0393 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7819*]:
     → "The legends state the other four were chosen by the higher power, and their corporeal forms vanished from Vana'diel."
 117: 0x039A [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x039B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x1A)
-119: 0x03A2 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7819*]:
+119: 0x03A2 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7820*]:
     → "But Zacariah was not, so he was left in this land, cold and alone."
 120: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x03AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x1B)
@@ -391,28 +391,28 @@
 124: 0x03D1 [0x4A] Sylvie (ID: 17883923/0x0110E313) looks at LocalPlayer
 125: 0x03DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 126: 0x03DB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Sylvie (ID: 17883923/0x0110E313) Render.Flags0 and Render.Flags3 conditions are met
-127: 0x03E0 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7820*]:
+127: 0x03E0 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7821*]:
     → "Many people say that this is because Zacariah was a traitor."
 128: 0x03E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x03E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x01)
-130: 0x03EF [0x2B] Sylvie (ID: 17883923/0x0110E313) [7821*]:
+130: 0x03EF [0x2B] Sylvie (ID: 17883923/0x0110E313) [7822*]:
     → "But, I mean, no one knows for sure, right?"
 131: 0x03F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x03F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x02)
 133: 0x03FE [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x4B)
-134: 0x0405 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7822*]:
+134: 0x0405 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7823*]:
     → "At least Lhaiso was kind enough to listen to me."
 135: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x040D [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17883923/0x0110E313))
 137: 0x0413 [0x52] END_LOAD_SCHEDULER: End scheduler "s141" with entities [LocalPlayer, LocalPlayer], work=662*
 138: 0x0422 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s142" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 139: 0x0433 [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x49)
-140: 0x043A [0x2B] Sylvie (ID: 17883923/0x0110E313) [7823*]:
+140: 0x043A [0x2B] Sylvie (ID: 17883923/0x0110E313) [7824*]:
     → "Oh--I totally forgot! She gave me a message for you."
 141: 0x0441 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0442 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17883923/0x0110E313))
 143: 0x0448 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x01)
-144: 0x044F [0x2B] Sylvie (ID: 17883923/0x0110E313) [7824*]:
+144: 0x044F [0x2B] Sylvie (ID: 17883923/0x0110E313) [7825*]:
     → "She wants you to see her at the Order of Renaye in Eastern Adoulin. (Oh, Sylvie, you went and forgot something important again--!)"
 145: 0x0456 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0457 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x02)
@@ -601,12 +601,12 @@
  28: 0x0591 [0x52] END_LOAD_SCHEDULER: End scheduler "s250" with entities [LocalPlayer, LocalPlayer], work=662*
  29: 0x05A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s251" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
  30: 0x05B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0A)
- 31: 0x05B8 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7825*]:
+ 31: 0x05B8 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7826*]:
     → "<Player>, do you remember what we talked about the last time we were here?"
  32: 0x05BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x05C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0B)
  34: 0x05C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0E)
- 35: 0x05CE [0x2B] Sylvie (ID: 17883923/0x0110E313) [7826*]:
+ 35: 0x05CE [0x2B] Sylvie (ID: 17883923/0x0110E313) [7827*]:
     → "You know--what Zacariah's descendants believe about geomancers returning to the earth and becoming part of the lifestream after having understood the intricacies of nature."
  36: 0x05D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x05D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0F)
@@ -621,7 +621,7 @@
  46: 0x062B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s264" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 
 SUBROUTINE_063C:
- 47: 0x063C [0x2B] Sylvie (ID: 17883923/0x0110E313) [7827*]:
+ 47: 0x063C [0x2B] Sylvie (ID: 17883923/0x0110E313) [7828*]:
     → "I think that's the reason why Zacariah, who was branded a traitor, was buried here in the caverns."
  48: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0644 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0D)
@@ -637,7 +637,7 @@ SUBROUTINE_068E:
  57: 0x068E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s252" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
  58: 0x069F [0x7B] Sylvie (ID: 17883923/0x0110E313) stops talking
  59: 0x06A4 [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x46)
- 60: 0x06AB [0x2B] Sylvie (ID: 17883923/0x0110E313) [7828*]:
+ 60: 0x06AB [0x2B] Sylvie (ID: 17883923/0x0110E313) [7829*]:
     → "And likely the reason many of my family chose this as their final resting place as well."
  61: 0x06B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x06B3 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17883923/0x0110E313))
@@ -646,7 +646,7 @@ SUBROUTINE_068E:
  65: 0x06D9 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
  66: 0x06DE [0x1C] WAIT(40* ticks)
  67: 0x06E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x3C)
- 68: 0x06E8 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7829*]:
+ 68: 0x06E8 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7830*]:
     → "...You ready to try this, <Player>? Let's hope that my ancestors help us to ring the bell."
  69: 0x06EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x06F0 [0x52] END_LOAD_SCHEDULER: End scheduler "s253" with entities [LocalPlayer, LocalPlayer], work=662*
@@ -661,7 +661,7 @@ SUBROUTINE_068E:
 SUBROUTINE_0748:
  78: 0x0748 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cage" with entities [Sylvie (ID: 17883923/0x0110E313), Sylvie (ID: 17883923/0x0110E313)]
  79: 0x0755 [0x1C] WAIT(140* ticks)
- 80: 0x0758 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7830*]:
+ 80: 0x0758 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7831*]:
     → "C'mon, <Player>! Ring the bell!"
  81: 0x075F [0x1C] WAIT(100* ticks)
  82: 0x0762 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "cage" with entities [Sylvie (ID: 17883923/0x0110E313), Sylvie (ID: 17883923/0x0110E313)]
@@ -725,7 +725,7 @@ SUBROUTINE_091B:
 136: 0x094D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s255" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 137: 0x095E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 138: 0x096F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
-139: 0x097E [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
+139: 0x097E [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
     → "<Oh ho ho, how long hath it been since we have seen one of Zacariah's blood?>"
 140: 0x0981 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x0982 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x0A)
@@ -737,44 +737,44 @@ SUBROUTINE_091B:
 147: 0x09A2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 148: 0x09A7 [0x52] END_LOAD_SCHEDULER: End scheduler "s255" with entities [LocalPlayer, LocalPlayer], work=662*
 149: 0x09B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s256" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
-150: 0x09C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
+150: 0x09C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
     → "<We know that geomancers, who master indicolure magic and purify the lifestream, offer thy shells to the land here.>"
 151: 0x09CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x09CB [0x52] END_LOAD_SCHEDULER: End scheduler "s256" with entities [LocalPlayer, LocalPlayer], work=662*
 153: 0x09DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s265" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 154: 0x09EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x01)
-155: 0x09F2 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7833*]:
+155: 0x09F2 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7834*]:
     → "Th-that's right, great higher power...sir? We've done as our tradition tells us."
 156: 0x09F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x09FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x02)
 158: 0x0A01 [0x52] END_LOAD_SCHEDULER: End scheduler "s265" with entities [LocalPlayer, LocalPlayer], work=662*
 159: 0x0A10 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s257" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 160: 0x0A21 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x03)
-161: 0x0A28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
+161: 0x0A28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
     → "<Then tell us, blood of Zacariah. Why is the lifestream volatile and disrupted elsewhere, yet not here? Are there those who do not believe Zacariah?>"
 162: 0x0A2B [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0A2C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x04)
 164: 0x0A33 [0x7B] Sylvie (ID: 17883923/0x0110E313) stops talking
 165: 0x0A38 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x2C)
-166: 0x0A3F [0x2B] Sylvie (ID: 17883923/0x0110E313) [7835*]:
+166: 0x0A3F [0x2B] Sylvie (ID: 17883923/0x0110E313) [7836*]:
     → "W-well...Zacariah is believed to be a traitor. We do what we can, but..."
 167: 0x0A46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0A47 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x2D)
 169: 0x0A4E [0x52] END_LOAD_SCHEDULER: End scheduler "s257" with entities [LocalPlayer, LocalPlayer], work=662*
 170: 0x0A5D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s260" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
-171: 0x0A6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+171: 0x0A6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "<...>"
 172: 0x0A71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x0A72 [0x52] END_LOAD_SCHEDULER: End scheduler "s260" with entities [LocalPlayer, LocalPlayer], work=662*
 174: 0x0A81 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s258" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 175: 0x0A92 [0x79] Sylvie (ID: 17883923/0x0110E313) looks at ??? (ID: 17883925/0x0110E315) (Basic look)
 176: 0x0A9C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x2E)
-177: 0x0AA3 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7837*]:
+177: 0x0AA3 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7838*]:
     → "I just know th-that Daddy's death can help bring the other geomancers around! If we can get them to agree, then we can help bring harmony to nature!"
 178: 0x0AAA [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0AAB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x2F)
 180: 0x0AB2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0A)
-181: 0x0AB9 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7838*]:
+181: 0x0AB9 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7839*]:
     → "So please, stop harming the other g-geomancers and save Lhaiso!"
 182: 0x0AC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x0AC1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0B)
@@ -782,7 +782,7 @@ SUBROUTINE_091B:
 185: 0x0AD7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s266" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 186: 0x0AE8 [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x0B)
 187: 0x0AEF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0E)
-188: 0x0AF6 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7839*]:
+188: 0x0AF6 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7840*]:
     → "If it'll help, I'm ready to become p-part of the lifestream right now!"
 189: 0x0AFD [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x0AFE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0F)
@@ -791,36 +791,36 @@ SUBROUTINE_091B:
 193: 0x0B1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s259" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 194: 0x0B2B [0x79] LocalPlayer looks at ??? (ID: 17883925/0x0110E315) (Basic look)
 195: 0x0B35 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0C)
-196: 0x0B3C [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
+196: 0x0B3C [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
     → "<Blood of Zacariah, thou dost deign to understand us, but thou dost not.>"
 197: 0x0B3F [0x23] WAIT_FOR_DIALOG_INTERACTION
-198: 0x0B40 [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+198: 0x0B40 [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "<Our anger is not the source of thine anguish. It is all the geomancers themselves.>"
 199: 0x0B43 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x0B44 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x0D)
 201: 0x0B4B [0x52] END_LOAD_SCHEDULER: End scheduler "s259" with entities [LocalPlayer, LocalPlayer], work=662*
 202: 0x0B5A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s261" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
-203: 0x0B6B [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+203: 0x0B6B [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "<Thine awe of nature has turned to a fear of destroying it, and thy ringing bells have actualized it as a Communion.>"
 204: 0x0B6E [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x0B6F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x18)
-206: 0x0B76 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7843*]:
+206: 0x0B76 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7844*]:
     → "I-I don't think I understand..."
 207: 0x0B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0B7E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x19)
 209: 0x0B85 [0x52] END_LOAD_SCHEDULER: End scheduler "s261" with entities [LocalPlayer, LocalPlayer], work=662*
 210: 0x0B94 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s262" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
-211: 0x0BA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
+211: 0x0BA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
     → "<A Communion is a pact with nature. It represents thy will of how things should be, not how they are.>"
 212: 0x0BA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-213: 0x0BA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
+213: 0x0BA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7846*)
     → "<Dear child, thy bell, too, doth shake in apprehension.>"
 214: 0x0BAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x0BAD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x1A)
 216: 0x0BB4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x1B)
 217: 0x0BBB [0x52] END_LOAD_SCHEDULER: End scheduler "s262" with entities [LocalPlayer, LocalPlayer], work=662*
 218: 0x0BCA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s263" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
-219: 0x0BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=7846*)
+219: 0x0BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
     → "<Yet thy bell rings true. We shall respect thy Communion and make thee part of the lifestream!>"
 220: 0x0BDE [0x1C] WAIT(300* ticks)
 221: 0x0BE1 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -1053,7 +1053,7 @@ SUBROUTINE_091B:
  46: 0x0DFF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s274" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
  47: 0x0E10 [0x7B] Sylvie (ID: 17883923/0x0110E313) stops talking
  48: 0x0E15 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x24)
- 49: 0x0E1C [0x2B] Sylvie (ID: 17883923/0x0110E313) [7847*]:
+ 49: 0x0E1C [0x2B] Sylvie (ID: 17883923/0x0110E313) [7848*]:
     → "What is this terrible energy? <Player>...I-I can't...my fear is...too great!"
  50: 0x0E23 [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
  51: 0x0E29 [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x0B)
@@ -1062,7 +1062,7 @@ SUBROUTINE_091B:
  54: 0x0E38 [0x52] END_LOAD_SCHEDULER: End scheduler "s272" with entities [LocalPlayer, LocalPlayer], work=662*
  55: 0x0E47 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s288" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
  56: 0x0E58 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x26)
- 57: 0x0E5F [0x2B] Sylvie (ID: 17883923/0x0110E313) [7848*]:
+ 57: 0x0E5F [0x2B] Sylvie (ID: 17883923/0x0110E313) [7849*]:
     → "Please, the...the higher power...stop my Communion..."
  58: 0x0E66 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0E67 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x27)
@@ -1081,7 +1081,7 @@ SUBROUTINE_091B:
  72: 0x0EE3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s275" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
  73: 0x0EF4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17883925/0x0110E315), tag_num=0x0D)
  74: 0x0EFB [0x1C] WAIT(30* ticks)
- 75: 0x0EFE [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
+ 75: 0x0EFE [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
     → "<Dost thou believe thou canst ring this most sacred of bells?>"
  76: 0x0F01 [0x1C] WAIT(30* ticks)
  77: 0x0F04 [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=0.0°*)
@@ -1103,7 +1103,7 @@ SUBROUTINE_091B:
  93: 0x0F95 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s293" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 
 SUBROUTINE_0FA6:
- 94: 0x0FA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
+ 94: 0x0FA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
     → "<And what if thou were to succeed? What wouldst thy pact be?>"
  95: 0x0FA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0FAA [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x0FC4
@@ -1125,7 +1125,7 @@ SUBROUTINE_1021:
 110: 0x1032 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17883925/0x0110E315), tag_num=0x0E)
 111: 0x1039 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
 112: 0x103E [0x4A] LocalPlayer looks at ??? (ID: 17883925/0x0110E315)
-113: 0x1047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
+113: 0x1047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
     → "<Come, geomancer! Let thy Communion be heard throughout Adoulin!>"
 114: 0x104A [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x104B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1133,7 +1133,7 @@ SUBROUTINE_1021:
 117: 0x1051 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 118: 0x1062 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
 119: 0x1071 [0x52] END_LOAD_SCHEDULER: End scheduler "s277" with entities [LocalPlayer, LocalPlayer], work=662*
-120: 0x1080 [0x24] CREATE_DIALOG(message_id=7852*, default_option=0*, option_flags=0*)
+120: 0x1080 [0x24] CREATE_DIALOG(message_id=7853*, default_option=0*, option_flags=0*)
     → "What pact will you swear? [To bring harmony to nature in Adoulin./To protect Adoulin's natural environment./To do everything possible to save nature.]"
 121: 0x1087 [0x25] WAIT_DIALOG_SELECT()
 122: 0x1088 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1098
@@ -1177,7 +1177,7 @@ SUBROUTINE_11B7:
 154: 0x11B7 [0x1C] WAIT(180* ticks)
 155: 0x11BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se03" with entities [??? (ID: 17883926/0x0110E316), ??? (ID: 17883926/0x0110E316)], work=[662*, 0*]
 156: 0x11CB [0x1C] WAIT(60* ticks)
-157: 0x11CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
+157: 0x11CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
     → "<The bell doth ring. We shall respect thy Communion!>"
 158: 0x11D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x11D2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
@@ -1207,7 +1207,7 @@ SUBROUTINE_11B7:
 183: 0x1282 [0x52] END_LOAD_SCHEDULER: End scheduler "s284" with entities [LocalPlayer, LocalPlayer], work=662*
 184: 0x1291 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s278" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
 185: 0x12A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x18)
-186: 0x12A9 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7854*]:
+186: 0x12A9 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7855*]:
     → "<Player>...! This is awestupendomentous! I never imagined words could have such power!"
 187: 0x12B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x12B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x19)
@@ -1222,7 +1222,7 @@ SUBROUTINE_11B7:
 
 SUBROUTINE_1310:
 197: 0x1310 [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x51)
-198: 0x1317 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7855*]:
+198: 0x1317 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7856*]:
     → "And I feel...I feel wonderful! It's all thanks to you!"
 199: 0x131E [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x131F [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17883923/0x0110E313))
@@ -1241,7 +1241,7 @@ SUBROUTINE_1368:
 211: 0x1381 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Sylvie (ID: 17883923/0x0110E313) Render.Flags0 and Render.Flags3 conditions are met
 212: 0x1386 [0x52] END_LOAD_SCHEDULER: End scheduler "s279" with entities [LocalPlayer, LocalPlayer], work=662*
 213: 0x1395 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s286" with entities [LocalPlayer, LocalPlayer], work=[662*, 0*]
-214: 0x13A6 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7856*]:
+214: 0x13A6 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7857*]:
     → "And, of course, to Daddy...and my ancestors."
 215: 0x13AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x13AE [0x52] END_LOAD_SCHEDULER: End scheduler "s286" with entities [LocalPlayer, LocalPlayer], work=662*
@@ -1261,7 +1261,7 @@ SUBROUTINE_1422:
 228: 0x142B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 229: 0x142C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Sylvie (ID: 17883923/0x0110E313) Render.Flags0 and Render.Flags3 conditions are met
 230: 0x1431 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x01)
-231: 0x1438 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7857*]:
+231: 0x1438 [0x2B] Sylvie (ID: 17883923/0x0110E313) [7858*]:
     → "Let's go back to Adoulin Waterfront. I think we have a lot to talk about."
 232: 0x143F [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x1440 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17883923/0x0110E313), tag_num=0x02)

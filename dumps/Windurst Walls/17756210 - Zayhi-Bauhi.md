@@ -36,39 +36,39 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x1EDB      |        7899 |
-|       2 | 0x1EDC      |        7900 |
-|       3 | 0x1C4A      |        7242 |
-|       4 | 0x1C4B      |        7243 |
-|       5 | 0x1C4E      |        7246 |
-|       6 | 0x1C4F      |        7247 |
-|       7 | 0x1C55      |        7253 |
-|       8 | 0x1C58      |        7256 |
-|       9 | 0x1C59      |        7257 |
+|       1 | 0x1EDC      |        7900 |
+|       2 | 0x1EDD      |        7901 |
+|       3 | 0x1C4B      |        7243 |
+|       4 | 0x1C4C      |        7244 |
+|       5 | 0x1C4F      |        7247 |
+|       6 | 0x1C50      |        7248 |
+|       7 | 0x1C56      |        7254 |
+|       8 | 0x1C59      |        7257 |
+|       9 | 0x1C5A      |        7258 |
 |      10 | 0x00C9      |         201 |
 |      11 | 0x0000      |           0 |
-|      12 | 0x1C5A      |        7258 |
-|      13 | 0x1C5D      |        7261 |
-|      14 | 0x1C5E      |        7262 |
-|      15 | 0x1C5F      |        7263 |
-|      16 | 0x1C65      |        7269 |
+|      12 | 0x1C5B      |        7259 |
+|      13 | 0x1C5E      |        7262 |
+|      14 | 0x1C5F      |        7263 |
+|      15 | 0x1C60      |        7264 |
+|      16 | 0x1C66      |        7270 |
 
 ## String References
 
-- **7242**: That we can now live here in peace...under the blessed shadow of the Great Star Tree...is all thanks to the great hero, Karaha-Baruha...!
-- **7243**: Let the name of the great hero, Karaha-Baruha, not be forgotten! May we exalt the name of Karaha-Baruha on high!
-- **7246**: Ha-hummm...we...arrrk...owe...our... <Cough>...peace...Hrmmm... A-hrmmm! <Cough> A-hrr-hrr-hrr-hrrmmm...!
-- **7247**: Ha-hrr-hrr-hrrmmm...! A-hrr-hrr-hrr-hrr-hurrummm...!?
-- **7253**: Ack...<cough!?> What's... A-hrmmm! this...? A-hrr-hrr-hrr-hrrmmm...!
-- **7256**: A-ha! Ha-hrrmmm... That's a... A-hrr-hrrmmm little better...A-hrr-hrr-hurrummm. Quick! <Cough> Need more honey! A-hrr-hrr-hrr-hrrmmm!
-- **7257**: A-hrrmmm. Feels like it's getting a lot better! But there's still some irritation... A-hrr-hrr-hrr-hrrmmm. See! <Hack>
-- **7258**: Oh......
-- **7261**: ......
-- **7262**: My...tooth...
-- **7263**: ...hurths...!
-- **7269**: ...... Ouch...! My tooth hurths... Oo\`hhwww...
-- **7899**: That we can now live here in peace...under the blessed shadow of the Great Star Tree...is all thanks to the great hero, Karaha-Baruha...!
-- **7900**: Let the name of the great hero, Karaha-Baruha, not be forgotten! May we exalt the name of Karaha-Baruha on high!
+- **7243**: That we can now live here in peace...under the blessed shadow of the Great Star Tree...is all thanks to the great hero, Karaha-Baruha...!
+- **7244**: Let the name of the great hero, Karaha-Baruha, not be forgotten! May we exalt the name of Karaha-Baruha on high!
+- **7247**: Ha-hummm...we...arrrk...owe...our... <Cough>...peace...Hrmmm... A-hrmmm! <Cough> A-hrr-hrr-hrr-hrrmmm...!
+- **7248**: Ha-hrr-hrr-hrrmmm...! A-hrr-hrr-hrr-hrr-hurrummm...!?
+- **7254**: Ack...<cough!?> What's... A-hrmmm! this...? A-hrr-hrr-hrr-hrrmmm...!
+- **7257**: A-ha! Ha-hrrmmm... That's a... A-hrr-hrrmmm little better...A-hrr-hrr-hurrummm. Quick! <Cough> Need more honey! A-hrr-hrr-hrr-hrrmmm!
+- **7258**: A-hrrmmm. Feels like it's getting a lot better! But there's still some irritation... A-hrr-hrr-hrr-hrrmmm. See! <Hack>
+- **7259**: Oh......
+- **7262**: ......
+- **7263**: My...tooth...
+- **7264**: ...hurths...!
+- **7270**: ...... Ouch...! My tooth hurths... Oo\`hhwww...
+- **7900**: That we can now live here in peace...under the blessed shadow of the Great Star Tree...is all thanks to the great hero, Karaha-Baruha...!
+- **7901**: Let the name of the great hero, Karaha-Baruha, not be forgotten! May we exalt the name of Karaha-Baruha on high!
 
 ## Events
 
@@ -164,10 +164,10 @@
   0: 0x0017 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x001C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x001D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
+  3: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
     → "That we can now live here in peace...under the blessed shadow of the Great Star Tree...is all thanks to the great hero, Karaha-Baruha...!"
   4: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
+  5: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
     → "Let the name of the great hero, Karaha-Baruha, not be forgotten! May we exalt the name of Karaha-Baruha on high!"
   6: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0026 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -198,10 +198,10 @@
   0: 0x002A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0030 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
+  3: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
     → "That we can now live here in peace...under the blessed shadow of the Great Star Tree...is all thanks to the great hero, Karaha-Baruha...!"
   4: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "Let the name of the great hero, Karaha-Baruha, not be forgotten! May we exalt the name of Karaha-Baruha on high!"
   6: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0039 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -255,10 +255,10 @@
 #### Opcodes
 
 ```
-  0: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
+  0: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
     → "Ha-hummm...we...arrrk...owe...our... <Cough>...peace...Hrmmm... A-hrmmm! <Cough> A-hrr-hrr-hrr-hrrmmm...!"
   1: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+  2: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
     → "Ha-hrr-hrr-hrrmmm...! A-hrr-hrr-hrr-hrr-hurrummm...!?"
   3: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0050 [0x00] END_REQSTACK()
@@ -288,7 +288,7 @@
   1: 0x0056 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0057 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0058 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x01)
-  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
     → "Ha-hrr-hrr-hrrmmm...! A-hrr-hrr-hrr-hrr-hurrummm...!?"
   5: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0063 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x02)
@@ -323,7 +323,7 @@
   2: 0x0074 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0075 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0076 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x01)
-  5: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+  5: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "Ack...<cough!?> What's... A-hrmmm! this...? A-hrr-hrr-hrr-hrrmmm...!"
   6: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0081 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x02)
@@ -358,7 +358,7 @@
   2: 0x0092 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0093 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0094 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x01)
-  5: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+  5: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "A-ha! Ha-hrrmmm... That's a... A-hrr-hrrmmm little better...A-hrr-hrr-hurrummm. Quick! <Cough> Need more honey! A-hrr-hrr-hrr-hrrmmm!"
   6: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x009F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x02)
@@ -393,7 +393,7 @@
   2: 0x00B0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00B1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00B2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x01)
-  5: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+  5: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "A-hrrmmm. Feels like it's getting a lot better! But there's still some irritation... A-hrr-hrr-hrr-hrrmmm. See! <Hack>"
   6: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00BD [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x02)
@@ -467,7 +467,7 @@
 
 ```
   0: 0x0120 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x01)
-  1: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
+  1: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → "Oh......"
   2: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x012B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x02)
@@ -493,7 +493,7 @@
 #### Opcodes
 
 ```
-  0: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
+  0: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "......"
   1: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0137 [0x00] END_REQSTACK()
@@ -518,7 +518,7 @@
 #### Opcodes
 
 ```
-  0: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
+  0: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
     → "My...tooth..."
   1: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x013C [0x00] END_REQSTACK()
@@ -544,7 +544,7 @@
 #### Opcodes
 
 ```
-  0: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+  0: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
     → "...hurths...!"
   1: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0141 [0x00] END_REQSTACK()
@@ -574,7 +574,7 @@
   1: 0x0147 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0148 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0149 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x01)
-  4: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
+  4: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
     → "...... Ouch...! My tooth hurths... Oo`hhwww..."
   5: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0154 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zayhi-Bauhi (ID: 17756210/0x010EF032), tag_num=0x02)

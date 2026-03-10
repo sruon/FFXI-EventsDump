@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA5      |        7333 |
+|       0 | 0x1CA6      |        7334 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x007A      |         122 |
@@ -28,7 +28,7 @@
 
 ## String References
 
-- **7333**: Teleport to [Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]? [Yes./No.]
+- **7334**: Teleport to [Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]? [Yes./No.]
 
 ## Events
 
@@ -80,7 +80,7 @@
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x000A [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
+  4: 0x000A [0x24] CREATE_DIALOG(message_id=7334*, default_option=1*, option_flags=0*)
     → "Teleport to [Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]? [Yes./No.]"
   5: 0x0011 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0012 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0036

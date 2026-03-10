@@ -22,24 +22,24 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1F20      |        7968 |
-|       2 | 0x1F21      |        7969 |
+|       1 | 0x1F21      |        7969 |
+|       2 | 0x1F22      |        7970 |
 |       3 | 0x0000      |           0 |
 |       4 | 0xFFFFFFFB  |  4294967291 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x1F22      |        7970 |
+|       6 | 0x1F23      |        7971 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x1F23      |        7971 |
+|       8 | 0x1F24      |        7972 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x1F24      |        7972 |
+|      10 | 0x1F25      |        7973 |
 
 ## String References
 
-- **7968**: Know your way around Port San d'Oria? Perhaps my map may be of service.
-- **7969**: Look at the map? [Yes./No.]
-- **7970**: Lufet Lake occupies half of Port San d'Oria. The travel agency and a pub lie at the north end of the wharf, and the auction house and cargo rooms at the south.
-- **7971**: Head southeast for the Magicmart and residential area, or southwest for Laborman's Way in Northern San d'Oria.
-- **7972**: As you wish.
+- **7969**: Know your way around Port San d'Oria? Perhaps my map may be of service.
+- **7970**: Look at the map? [Yes./No.]
+- **7971**: Lufet Lake occupies half of Port San d'Oria. The travel agency and a pub lie at the north end of the wharf, and the auction house and cargo rooms at the south.
+- **7972**: Head southeast for the Magicmart and residential area, or southwest for Laborman's Way in Northern San d'Oria.
+- **7973**: As you wish.
 
 ## Events
 
@@ -117,20 +117,20 @@
   1: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "Know your way around Port San d'Oria? Perhaps my map may be of service."
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  7: 0x0021 [0x24] CREATE_DIALOG(message_id=7969*, default_option=0*, option_flags=0*)
+  7: 0x0021 [0x24] CREATE_DIALOG(message_id=7970*, default_option=0*, option_flags=0*)
     → "Look at the map? [Yes./No.]"
   8: 0x0028 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0029 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004B
  10: 0x0031 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=4294967291*, properties=2*)
- 11: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
+ 11: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
     → "Lufet Lake occupies half of Port San d'Oria. The travel agency and a pub lie at the north end of the wharf, and the auction house and cargo rooms at the south."
  12: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x003A [0x1C] WAIT(30* ticks)
- 14: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
+ 14: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
     → "Head southeast for the Magicmart and residential area, or southwest for Laborman's Way in Northern San d'Oria."
  15: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0041 [0x1C] WAIT(30* ticks)
@@ -139,7 +139,7 @@
  19: 0x0048 [0x01] GOTO 0x0071
  20: 0x004B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0071
  21: 0x0053 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 22: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
+ 22: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
     → "As you wish."
  23: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0066 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

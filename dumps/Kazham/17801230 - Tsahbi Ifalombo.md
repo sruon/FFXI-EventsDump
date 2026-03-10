@@ -25,15 +25,15 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x272B      |       10027 |
-|       3 | 0x272C      |       10028 |
-|       4 | 0x287C      |       10364 |
+|       2 | 0x272C      |       10028 |
+|       3 | 0x272D      |       10029 |
+|       4 | 0x287D      |       10365 |
 
 ## String References
 
-- **10027**: Adventurer, are you? Well, why don't you trrry your luck in Ifrit's Cauldron?
-- **10028**: You can't say you've been to Yuhtunga unless you've seen the volcano!
-- **10364**: When was the last time you took a bath therrre, adventurer? Eh?
+- **10028**: Adventurer, are you? Well, why don't you trrry your luck in Ifrit's Cauldron?
+- **10029**: You can't say you've been to Yuhtunga unless you've seen the volcano!
+- **10365**: When was the last time you took a bath therrre, adventurer? Eh?
 
 ## Events
 
@@ -132,10 +132,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsahbi Ifalombo (ID: 17801230/0x010FA00E), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10027*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10028*)
     → "Adventurer, are you? Well, why don't you trrry your luck in Ifrit's Cauldron?"
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10028*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10029*)
     → "You can't say you've been to Yuhtunga unless you've seen the volcano!"
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsahbi Ifalombo (ID: 17801230/0x010FA00E), tag_num=0x02)
@@ -169,7 +169,7 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsahbi Ifalombo (ID: 17801230/0x010FA00E), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10364*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10365*)
     → "When was the last time you took a bath therrre, adventurer? Eh?"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsahbi Ifalombo (ID: 17801230/0x010FA00E), tag_num=0x02)

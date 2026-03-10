@@ -25,11 +25,11 @@
 |       2 | 0x0000      |           0 |
 |       3 | 0x003C      |          60 |
 |       4 | 0x00E5      |         229 |
-|       5 | 0x1CE2      |        7394 |
+|       5 | 0x1CE3      |        7395 |
 
 ## String References
 
-- **7394**: You throw in $6 and give a moment of silence for the spirits of the beasts.
+- **7395**: You throw in $6 and give a moment of silence for the spirits of the beasts.
 
 ## Events
 
@@ -96,7 +96,7 @@
  11: 0x0051 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "res0" with entities [LocalPlayer, LocalPlayer]
  12: 0x005E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "res0" with entities [LocalPlayer, LocalPlayer]
  13: 0x006B [0x03] Work_Zone[2] = 229*
- 14: 0x0070 [0x48] [System] [7394*]:
+ 14: 0x0070 [0x48] [System] [7395*]:
     → "You throw in $6 and give a moment of silence for the spirits of the beasts."
  15: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0074 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "res2" with entities [LocalPlayer, LocalPlayer]

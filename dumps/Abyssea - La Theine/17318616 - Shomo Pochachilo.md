@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E97      |        7831 |
-|       1 | 0x1E98      |        7832 |
+|       0 | 0x1E98      |        7832 |
+|       1 | 0x1E99      |        7833 |
 
 ## String References
 
-- **7831**: Welcome, frrriend, to the central encampment, serviced by veridical conflux number fourrr. With the dependable LT-05 Martello buttressing the resistance effort, peace is rrrelatively well preserved in this area.
-- **7832**: The ravine-grrraven landscape of La Theine puts me in mind of my homeland... Oh, how I long for those bygone--what? Otherrr conflux locations, you ask? One's located near to a valley east of here, I believe.
+- **7832**: Welcome, frrriend, to the central encampment, serviced by veridical conflux number fourrr. With the dependable LT-05 Martello buttressing the resistance effort, peace is rrrelatively well preserved in this area.
+- **7833**: The ravine-grrraven landscape of La Theine puts me in mind of my homeland... Oh, how I long for those bygone--what? Otherrr conflux locations, you ask? One's located near to a valley east of here, I believe.
 
 ## Events
 
@@ -75,10 +75,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
     → "Welcome, frrriend, to the central encampment, serviced by veridical conflux number fourrr. With the dependable LT-05 Martello buttressing the resistance effort, peace is rrrelatively well preserved in this area."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
     → "The ravine-grrraven landscape of La Theine puts me in mind of my homeland... Oh, how I long for those bygone--what? Otherrr conflux locations, you ask? One's located near to a valley east of here, I believe."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x21] END_EVENT

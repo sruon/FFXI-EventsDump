@@ -27,13 +27,13 @@
 |       2 | 0x0013      |          19 |
 |       3 | 0x0064      |         100 |
 |       4 | 0x029B      |         667 |
-|       5 | 0x1E67      |        7783 |
+|       5 | 0x1E68      |        7784 |
 |       6 | 0x00BF      |         191 |
 |       7 | 0x0078      |         120 |
 |       8 | 0x00B4      |         180 |
 |       9 | 0x0028      |          40 |
-|      10 | 0x1E69      |        7785 |
-|      11 | 0x1E6A      |        7786 |
+|      10 | 0x1E6A      |        7786 |
+|      11 | 0x1E6B      |        7787 |
 |      12 | 0x0032      |          50 |
 |      13 | 0x001E      |          30 |
 |      14 | 0x009F      |         159 |
@@ -43,104 +43,104 @@
 |      18 | 0xFFFBD273  |  4294693491 |
 |      19 | 0x9E18      |       40472 |
 |      20 | 0x0A3E      |        2622 |
-|      21 | 0x1E68      |        7784 |
+|      21 | 0x1E69      |        7785 |
 |      22 | 0x005A      |          90 |
-|      23 | 0x1E6B      |        7787 |
+|      23 | 0x1E6C      |        7788 |
 |      24 | 0x0548      |        1352 |
-|      25 | 0x1E6C      |        7788 |
+|      25 | 0x1E6D      |        7789 |
 |      26 | 0x003C      |          60 |
 |      27 | 0x0990      |        2448 |
-|      28 | 0x1E6D      |        7789 |
-|      29 | 0x1E6E      |        7790 |
+|      28 | 0x1E6E      |        7790 |
+|      29 | 0x1E6F      |        7791 |
 |      30 | 0x0005      |           5 |
 |      31 | 0x0006      |           6 |
-|      32 | 0x1E6F      |        7791 |
-|      33 | 0x1E70      |        7792 |
-|      34 | 0x1E72      |        7794 |
-|      35 | 0x1E73      |        7795 |
-|      36 | 0x1E74      |        7796 |
-|      37 | 0x1E75      |        7797 |
+|      32 | 0x1E70      |        7792 |
+|      33 | 0x1E71      |        7793 |
+|      34 | 0x1E73      |        7795 |
+|      35 | 0x1E74      |        7796 |
+|      36 | 0x1E75      |        7797 |
+|      37 | 0x1E76      |        7798 |
 |      38 | 0x0002      |           2 |
-|      39 | 0x1E71      |        7793 |
+|      39 | 0x1E72      |        7794 |
 |      40 | 0x00C9      |         201 |
 |      41 | 0x0048      |          72 |
 |      42 | 0x00A3      |         163 |
 |      43 | 0x02AA      |         682 |
 |      44 | 0x0008      |           8 |
-|      45 | 0x1E78      |        7800 |
-|      46 | 0x1E79      |        7801 |
+|      45 | 0x1E79      |        7801 |
+|      46 | 0x1E7A      |        7802 |
 |      47 | 0x000A      |          10 |
-|      48 | 0x1E7A      |        7802 |
-|      49 | 0x1E7B      |        7803 |
-|      50 | 0x1E7C      |        7804 |
-|      51 | 0x1E7D      |        7805 |
-|      52 | 0x1E7E      |        7806 |
-|      53 | 0x1E7F      |        7807 |
-|      54 | 0x1E80      |        7808 |
-|      55 | 0x1E81      |        7809 |
-|      56 | 0x1E82      |        7810 |
-|      57 | 0x1E83      |        7811 |
-|      58 | 0x1E84      |        7812 |
-|      59 | 0x1E85      |        7813 |
-|      60 | 0x1E86      |        7814 |
-|      61 | 0x1E87      |        7815 |
-|      62 | 0x1E88      |        7816 |
-|      63 | 0x1E89      |        7817 |
-|      64 | 0x1E8A      |        7818 |
+|      48 | 0x1E7B      |        7803 |
+|      49 | 0x1E7C      |        7804 |
+|      50 | 0x1E7D      |        7805 |
+|      51 | 0x1E7E      |        7806 |
+|      52 | 0x1E7F      |        7807 |
+|      53 | 0x1E80      |        7808 |
+|      54 | 0x1E81      |        7809 |
+|      55 | 0x1E82      |        7810 |
+|      56 | 0x1E83      |        7811 |
+|      57 | 0x1E84      |        7812 |
+|      58 | 0x1E85      |        7813 |
+|      59 | 0x1E86      |        7814 |
+|      60 | 0x1E87      |        7815 |
+|      61 | 0x1E88      |        7816 |
+|      62 | 0x1E89      |        7817 |
+|      63 | 0x1E8A      |        7818 |
+|      64 | 0x1E8B      |        7819 |
 |      65 | 0x0014      |          20 |
 |      66 | 0x0003      |           3 |
-|      67 | 0x1E8B      |        7819 |
-|      68 | 0x1E8C      |        7820 |
-|      69 | 0x1E8D      |        7821 |
-|      70 | 0x1E8F      |        7823 |
-|      71 | 0x1E90      |        7824 |
-|      72 | 0x1E91      |        7825 |
-|      73 | 0x1E92      |        7826 |
-|      74 | 0x1E93      |        7827 |
-|      75 | 0x1E94      |        7828 |
+|      67 | 0x1E8C      |        7820 |
+|      68 | 0x1E8D      |        7821 |
+|      69 | 0x1E8E      |        7822 |
+|      70 | 0x1E90      |        7824 |
+|      71 | 0x1E91      |        7825 |
+|      72 | 0x1E92      |        7826 |
+|      73 | 0x1E93      |        7827 |
+|      74 | 0x1E94      |        7828 |
+|      75 | 0x1E95      |        7829 |
 |      76 | 0x0AC3      |        2755 |
-|      77 | 0x1E95      |        7829 |
-|      78 | 0x1E96      |        7830 |
-|      79 | 0x1E97      |        7831 |
-|      80 | 0x1E8E      |        7822 |
-|      81 | 0x1E9B      |        7835 |
-|      82 | 0x1E9C      |        7836 |
+|      77 | 0x1E96      |        7830 |
+|      78 | 0x1E97      |        7831 |
+|      79 | 0x1E98      |        7832 |
+|      80 | 0x1E8F      |        7823 |
+|      81 | 0x1E9C      |        7836 |
+|      82 | 0x1E9D      |        7837 |
 |      83 | 0x1128      |        4392 |
-|      84 | 0x1E9D      |        7837 |
+|      84 | 0x1E9E      |        7838 |
 |      85 | 0x1174      |        4468 |
-|      86 | 0x1E9E      |        7838 |
-|      87 | 0x1E9F      |        7839 |
-|      88 | 0x1EA0      |        7840 |
-|      89 | 0x1EA1      |        7841 |
-|      90 | 0x1EA2      |        7842 |
-|      91 | 0x1EA3      |        7843 |
-|      92 | 0x1EA4      |        7844 |
-|      93 | 0x1EA5      |        7845 |
-|      94 | 0x1EA6      |        7846 |
-|      95 | 0x1EA7      |        7847 |
-|      96 | 0x1EA8      |        7848 |
-|      97 | 0x1EA9      |        7849 |
-|      98 | 0x1EAA      |        7850 |
-|      99 | 0x1EAB      |        7851 |
-|     100 | 0x1EAC      |        7852 |
-|     101 | 0x1EAD      |        7853 |
-|     102 | 0x1EAE      |        7854 |
-|     103 | 0x1EAF      |        7855 |
-|     104 | 0x1EB0      |        7856 |
-|     105 | 0x1EB1      |        7857 |
+|      86 | 0x1E9F      |        7839 |
+|      87 | 0x1EA0      |        7840 |
+|      88 | 0x1EA1      |        7841 |
+|      89 | 0x1EA2      |        7842 |
+|      90 | 0x1EA3      |        7843 |
+|      91 | 0x1EA4      |        7844 |
+|      92 | 0x1EA5      |        7845 |
+|      93 | 0x1EA6      |        7846 |
+|      94 | 0x1EA7      |        7847 |
+|      95 | 0x1EA8      |        7848 |
+|      96 | 0x1EA9      |        7849 |
+|      97 | 0x1EAA      |        7850 |
+|      98 | 0x1EAB      |        7851 |
+|      99 | 0x1EAC      |        7852 |
+|     100 | 0x1EAD      |        7853 |
+|     101 | 0x1EAE      |        7854 |
+|     102 | 0x1EAF      |        7855 |
+|     103 | 0x1EB0      |        7856 |
+|     104 | 0x1EB1      |        7857 |
+|     105 | 0x1EB2      |        7858 |
 |     106 | 0x0007      |           7 |
-|     107 | 0x1EB2      |        7858 |
-|     108 | 0x1EB3      |        7859 |
-|     109 | 0x1EB4      |        7860 |
-|     110 | 0x1EB5      |        7861 |
-|     111 | 0x1EB6      |        7862 |
-|     112 | 0x1EB7      |        7863 |
+|     107 | 0x1EB3      |        7859 |
+|     108 | 0x1EB4      |        7860 |
+|     109 | 0x1EB5      |        7861 |
+|     110 | 0x1EB6      |        7862 |
+|     111 | 0x1EB7      |        7863 |
+|     112 | 0x1EB8      |        7864 |
 
 ## String References
 
-- **7784**: 
-- **7792**: What's your conclusion? [I think I've got it./Let's run that over again.]
-- **7821**: Pick your poison. [Help him out./Let him languish.]
+- **7785**: 
+- **7793**: What's your conclusion? [I think I've got it./Let's run that over again.]
+- **7822**: Pick your poison. [Help him out./Let him languish.]
 
 ## Events
 
@@ -305,7 +305,7 @@
  12: 0x0056 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
  13: 0x0067 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  14: 0x0078 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 15: 0x0087 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7783*]:
+ 15: 0x0087 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7784*]:
     → "(I must c-confess that I thought the desolate drifts would get the better of you. Congratulations on making it back in one piece.)"
  16: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x008F [0x52] END_LOAD_SCHEDULER: End scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=667*
@@ -318,10 +318,10 @@
  24: 0x00E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
  25: 0x00F7 [0x27] REQ_SET(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x0E)
  26: 0x00FE [0x1C] WAIT(40* ticks)
- 27: 0x0101 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7785*]:
+ 27: 0x0101 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7786*]:
     → "(And h-here you are. Your very own $3.)"
  28: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0109 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7786*]:
+ 29: 0x0109 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7787*]:
     → "(I shall accompany you to an ice w-wall. That much energy I can spare, as long as you're not that cursed Taru.)"
  30: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0111 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Traiffeaux (ID: 17871210/0x0110B16A))
@@ -346,7 +346,7 @@
  50: 0x01A3 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=113.805*, z=-273.805*, y=40.472*, direction=230.4°*
  51: 0x01AC [0x80] LOAD_WAIT(entity=Traiffeaux (ID: 17871210/0x0110B16A))
  52: 0x01B1 [0x80] LOAD_WAIT(entity=LocalPlayer)
- 53: 0x01B6 [0x48] [System] [7784*]:
+ 53: 0x01B6 [0x48] [System] [7785*]:
     → ""
  54: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x01BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
@@ -361,14 +361,14 @@
  64: 0x021F [0x2A] GET_REQ_LEVEL(level=8, entity_id=Traiffeaux (ID: 17871210/0x0110B16A))
  65: 0x0225 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=667*
  66: 0x0234 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
- 67: 0x0245 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7787*]:
+ 67: 0x0245 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7788*]:
     → "(Y-yes. This one should do nicely.)"
  68: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x024D [0x79] Traiffeaux (ID: 17871210/0x0110B16A) looks at LocalPlayer (Basic look)
  70: 0x0257 [0x4B] UPDATE_ENTITY_YAW(entity=Traiffeaux (ID: 17871210/0x0110B16A), yaw=7.4°*)
  71: 0x025E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  72: 0x025F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Traiffeaux (ID: 17871210/0x0110B16A) Render.Flags0 and Render.Flags3 conditions are met
- 73: 0x0264 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7788*]:
+ 73: 0x0264 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7789*]:
     → "(I shall tap on the ice while you l-listen to the sounds with your $3.)"
  74: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x026C [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
@@ -382,7 +382,7 @@
  83: 0x02AD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  84: 0x02AE [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Traiffeaux (ID: 17871210/0x0110B16A) Render.Flags0 and Render.Flags3 conditions are met
  85: 0x02B3 [0x27] REQ_SET(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x10)
- 86: 0x02BA [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7789*]:
+ 86: 0x02BA [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7790*]:
     → "(Are you ready? First, I will thump an a-area that is not the eye.)"
  87: 0x02C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x02C2 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Traiffeaux (ID: 17871210/0x0110B16A))
@@ -399,7 +399,7 @@
  99: 0x0329 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
 100: 0x033A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 101: 0x034B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-102: 0x035A [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7790*]:
+102: 0x035A [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7791*]:
     → "(...And now, the eye itself.)"
 103: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x0362 [0x27] REQ_SET(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x0F)
@@ -425,7 +425,7 @@
 SUBROUTINE_041B:
 123: 0x041B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 124: 0x042C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-125: 0x043B [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7791*]:
+125: 0x043B [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7792*]:
     → "(Could you t-tell the difference?)"
 126: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0443 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x045D
@@ -437,17 +437,17 @@ SUBROUTINE_041B:
 133: 0x0477 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=667*
 
 SUBROUTINE_0486:
-134: 0x0486 [0x24] CREATE_DIALOG(message_id=7792*, default_option=0*, option_flags=0*)
+134: 0x0486 [0x24] CREATE_DIALOG(message_id=7793*, default_option=0*, option_flags=0*)
     → "What's your conclusion? [I think I've got it./Let's run that over again.]"
 135: 0x048D [0x25] WAIT_DIALOG_SELECT()
 136: 0x048E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05A1
 137: 0x0496 [0x03] Work_Zone[1] = 1*
 138: 0x049B [0x05] ExtData[1]->WorkLocal[0] = 1
 139: 0x049E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
-140: 0x04AF [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7794*]:
+140: 0x04AF [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7795*]:
     → "(That is all the help I am able to p-provide. You should now be able to break such walls by striking at the eye.)"
 141: 0x04B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-142: 0x04B7 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7795*]:
+142: 0x04B7 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7796*]:
     → "(L-let us return so we may warm our frigid bodies.)"
 143: 0x04BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x04BF [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=667*
@@ -455,7 +455,7 @@ SUBROUTINE_0486:
 146: 0x04DF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
 147: 0x04EE [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
 148: 0x04F3 [0x1C] WAIT(90* ticks)
-149: 0x04F6 [0x48] [System] [7784*]:
+149: 0x04F6 [0x48] [System] [7785*]:
     → ""
 150: 0x04F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x04FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x0B)
@@ -471,10 +471,10 @@ SUBROUTINE_0486:
 161: 0x055C [0x1C] WAIT(60* ticks)
 162: 0x055F [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=667*
 163: 0x056E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
-164: 0x057F [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7796*]:
+164: 0x057F [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7797*]:
     → "(Knowing the location of the eye is only the f-first step. Breaking the wall requires immense physical fortitude.)"
 165: 0x0586 [0x23] WAIT_FOR_DIALOG_INTERACTION
-166: 0x0587 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7797*]:
+166: 0x0587 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7798*]:
     → "(Yet you have come this far. I am c-confident that you will see this task to its natural conclusion.)"
 167: 0x058E [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x058F [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=667*
@@ -487,7 +487,7 @@ SUBROUTINE_0486:
 175: 0x05CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 176: 0x05CC [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Traiffeaux (ID: 17871210/0x0110B16A) Render.Flags0 and Render.Flags3 conditions are met
 177: 0x05D1 [0x27] REQ_SET(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x10)
-178: 0x05D8 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7793*]:
+178: 0x05D8 [0x2B] Traiffeaux (ID: 17871210/0x0110B16A) [7794*]:
     → "(Understood. Let me tap on a s-section that is not the eye.)"
 179: 0x05DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x05E0 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Traiffeaux (ID: 17871210/0x0110B16A))
@@ -811,11 +811,11 @@ SUBROUTINE_0789:
  35: 0x0789 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  36: 0x079A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  37: 0x07A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x06)
- 38: 0x07B0 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7800*]:
+ 38: 0x07B0 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7801*]:
     → "Are you...a pioneer? All the way out here? Boy, the coalition sure is expanding-wanding fast!"
  39: 0x07B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x07B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x07)
- 41: 0x07BF [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7801*]:
+ 41: 0x07BF [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7802*]:
     → "Brrrrrrrrr..."
  42: 0x07C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x07C7 [0x79] Peppe-Aleppe (ID: 17871211/0x0110B16B) looks at Orsa-Porsa (ID: 17871212/0x0110B16C) (Basic look)
@@ -866,7 +866,7 @@ SUBROUTINE_0911:
  82: 0x092E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  83: 0x092F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  84: 0x0934 [0x1C] WAIT(90* ticks)
- 85: 0x0937 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7802*]:
+ 85: 0x0937 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7803*]:
     → "<Shiver> My toes are going to freeze off and break into little bitarus!"
  86: 0x093E [0x2A] GET_REQ_LEVEL(level=8, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C))
  87: 0x0944 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -883,7 +883,7 @@ SUBROUTINE_0911:
 
 SUBROUTINE_09A3:
  98: 0x09A3 [0x27] REQ_SET(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x2E)
- 99: 0x09AA [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7803*]:
+ 99: 0x09AA [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7804*]:
     → "Orsa-Porsa!? Why are you here instead of bathing in the Morimar Basaltaru Fields hot springs?"
 100: 0x09B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x09B2 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B))
@@ -915,25 +915,25 @@ SUBROUTINE_0A29:
 125: 0x0A99 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x10)
 126: 0x0AA0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x11)
 127: 0x0AA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x04)
-128: 0x0AAE [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7804*]:
+128: 0x0AAE [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7805*]:
     → "Aha. They sentaru you to do some research over here."
 129: 0x0AB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0AB6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x05)
 131: 0x0ABD [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=682*
 132: 0x0ACC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 133: 0x0ADD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x0F)
-134: 0x0AE4 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7805*]:
+134: 0x0AE4 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7806*]:
     → "Correctaru. Just research. Unlike you, I haven't been shoved off to this Altana-forsaken wasteland because I couldn't keep my mouth shut."
 135: 0x0AEB [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0AEC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x10)
 137: 0x0AF3 [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=682*
 138: 0x0B02 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 139: 0x0B13 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x16)
-140: 0x0B1A [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7806*]:
+140: 0x0B1A [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7807*]:
     → "M-mouth shut!? Whaddaya mean?"
 141: 0x0B21 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0B22 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x07)
-143: 0x0B29 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7807*]:
+143: 0x0B29 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7808*]:
     → "Wha--!? You always were oblivious to a faultaru, but this is too much!"
 144: 0x0B30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x0B31 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x08)
@@ -942,14 +942,14 @@ SUBROUTINE_0A29:
 148: 0x0B4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 149: 0x0B5F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x18)
 150: 0x0B66 [0x27] REQ_SET(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x4D)
-151: 0x0B6D [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7808*]:
+151: 0x0B6D [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7809*]:
     → "Don't you remember how you threw yourself at that dainty-wainty little tart at the Inventors' Coalition?"
 152: 0x0B74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x0B75 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x19)
 154: 0x0B7C [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=682*
 155: 0x0B8B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 156: 0x0B9C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1A)
-157: 0x0BA3 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7809*]:
+157: 0x0BA3 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7810*]:
     → "I tried to warn you, but noooooo. You just had to send her that "handpicked" bouquet of flowers that you probably found wiltaruing in Foret de Hennetiel."
 158: 0x0BAA [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0BAB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1B)
@@ -957,7 +957,7 @@ SUBROUTINE_0A29:
 161: 0x0BB8 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=682*
 162: 0x0BC7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 163: 0x0BD8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0A)
-164: 0x0BDF [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7810*]:
+164: 0x0BDF [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7811*]:
     → "I-I nearly threw my back out looking for only the prettiest-wittiest henneblooms I could find! She's my dream girl, and I would do anything for her!"
 165: 0x0BE6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x05)
 166: 0x0BED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x06)
@@ -972,7 +972,7 @@ SUBROUTINE_0A29:
 175: 0x0C28 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 176: 0x0C39 [0x27] REQ_SET(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x03)
 177: 0x0C40 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x01)
-178: 0x0C47 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7811*]:
+178: 0x0C47 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7812*]:
     → "If she were just any old technician, you might have gotten away with a slap on the wristaru--but she was Amchuchu's hairdresser's sister! You know how the maester can be."
 179: 0x0C4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x0C4F [0x27] REQ_SET(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x02)
@@ -981,7 +981,7 @@ SUBROUTINE_0A29:
 183: 0x0C62 [0x4A] Peppe-Aleppe (ID: 17871211/0x0110B16B) looks at Orsa-Porsa (ID: 17871212/0x0110B16C)
 184: 0x0C6B [0x4A] LocalPlayer looks at Orsa-Porsa (ID: 17871212/0x0110B16C)
 185: 0x0C74 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x0B)
-186: 0x0C7B [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7812*]:
+186: 0x0C7B [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7813*]:
     → "Aaaaaand that's why you got forced out of the city, doomed to spend the rest of your days playing footsie with cicatricose raaz."
 187: 0x0C82 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x0C83 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x0C)
@@ -992,22 +992,22 @@ SUBROUTINE_0A29:
 193: 0x0C96 [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=682*
 194: 0x0CA5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 195: 0x0CB6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0A)
-196: 0x0CBD [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7813*]:
+196: 0x0CBD [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7814*]:
     → "Y-you mean I'll never go back to Adoulin ever-wever again!? Oh no no no! What can I do?"
 197: 0x0CC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x0CC5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0B)
 199: 0x0CCC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x09)
-200: 0x0CD3 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7814*]:
+200: 0x0CD3 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7815*]:
     → "How am I supposed to know? Maybe if you became an expert pioneer, our maester would change her mind...but don't countaru on it."
 201: 0x0CDA [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x0CDB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x0A)
 203: 0x0CE2 [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=682*
 204: 0x0CF1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
-205: 0x0D02 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7815*]:
+205: 0x0D02 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7816*]:
     → "That's easy for you to say! Morimar is a lot closer to the city, plus you get to relax in the hot springs! The only remotely warm thing to bathe in around here is the slobber of some horrible beast!"
 206: 0x0D09 [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x0D0A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x03)
-208: 0x0D11 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7816*]:
+208: 0x0D11 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7817*]:
     → "Hmm... Well, maybe you'll have to become an inventor who can wow Amchuchu into submission!"
 209: 0x0D18 [0x1C] WAIT(30* ticks)
 210: 0x0D1B [0x27] REQ_SET(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x03)
@@ -1019,7 +1019,7 @@ SUBROUTINE_0A29:
 216: 0x0D50 [0x79] LocalPlayer looks at Peppe-Aleppe (ID: 17871211/0x0110B16B) (Basic look)
 217: 0x0D5A [0x1C] WAIT(30* ticks)
 218: 0x0D5D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0A)
-219: 0x0D64 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7817*]:
+219: 0x0D64 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7818*]:
     → "But I've never been big on brains! It's all I can do to keep from getting expelled-welled from the coalition!"
 220: 0x0D6B [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x0D6C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0B)
@@ -1037,7 +1037,7 @@ SUBROUTINE_0DCB:
 231: 0x0DD2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x06)
 232: 0x0DD9 [0x79] LocalPlayer looks at Orsa-Porsa (ID: 17871212/0x0110B16C) (Basic look)
 233: 0x0DE3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x17)
-234: 0x0DEA [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7818*]:
+234: 0x0DEA [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7819*]:
     → "Look around you. You've already got one footaru in the grave."
 235: 0x0DF1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x0DF2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x03)
@@ -1074,7 +1074,7 @@ SUBROUTINE_0E69:
 
 SUBROUTINE_0EEA:
 265: 0x0EEA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x04)
-266: 0x0EF1 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7819*]:
+266: 0x0EF1 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7820*]:
     → "Wait--[Mr./Ms.] Pioneer!"
 267: 0x0EF8 [0x1C] WAIT(20* ticks)
 268: 0x0EFB [0x4A] LocalPlayer looks at Peppe-Aleppe (ID: 17871211/0x0110B16B)
@@ -1108,7 +1108,7 @@ SUBROUTINE_0FD3:
 292: 0x0FD3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 293: 0x0FD4 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 294: 0x0FD9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1C)
-295: 0x0FE0 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7820*]:
+295: 0x0FE0 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7821*]:
     → "They made you come all the way out here too, right? Maybe if we put our noggins together, they'll letaru us both go back!"
 296: 0x0FE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 297: 0x0FE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1D)
@@ -1121,19 +1121,19 @@ SUBROUTINE_0FD3:
 304: 0x1023 [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=682*
 
 SUBROUTINE_1032:
-305: 0x1032 [0x24] CREATE_DIALOG(message_id=7821*, default_option=0*, option_flags=0*)
+305: 0x1032 [0x24] CREATE_DIALOG(message_id=7822*, default_option=0*, option_flags=0*)
     → "Pick your poison. [Help him out./Let him languish.]"
 306: 0x1039 [0x25] WAIT_DIALOG_SELECT()
 307: 0x103A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14C1
 308: 0x1042 [0x03] Work_Zone[1] = 2*
 309: 0x1047 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 310: 0x1058 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0C)
-311: 0x105F [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7823*]:
+311: 0x105F [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7824*]:
     → "Hooray!!!"
 312: 0x1066 [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x1067 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0D)
 314: 0x106E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x06)
-315: 0x1075 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7824*]:
+315: 0x1075 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7825*]:
     → "Okay, so...get to thinking!"
 316: 0x107C [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x107D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x07)
@@ -1164,7 +1164,7 @@ SUBROUTINE_1032:
 SUBROUTINE_1169:
 341: 0x1169 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1C)
 342: 0x1170 [0x1C] WAIT(30* ticks)
-343: 0x1173 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7825*]:
+343: 0x1173 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7826*]:
     → "Still nothing-wothing!? Orsa-Porsa, stop standing there like a tree stump and help me!"
 344: 0x117A [0x23] WAIT_FOR_DIALOG_INTERACTION
 345: 0x117B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1D)
@@ -1184,10 +1184,10 @@ SUBROUTINE_1169:
 SUBROUTINE_11EE:
 358: 0x11EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 359: 0x11FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x2C)
-360: 0x1206 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7826*]:
+360: 0x1206 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7827*]:
     → "Wh-what do you expect me to do!? All the goo has frozen in my nose, and the icicle-wicicles on my eyelids are stabbing my cheeks!"
 361: 0x120D [0x23] WAIT_FOR_DIALOG_INTERACTION
-362: 0x120E [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7827*]:
+362: 0x120E [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7828*]:
     → "<Chatter> I-I guess just find something we might be able to use, and think from there? Maybe something that'll help me with my research too!"
 363: 0x1215 [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x1216 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x2D)
@@ -1202,7 +1202,7 @@ SUBROUTINE_11EE:
 
 SUBROUTINE_1275:
 373: 0x1275 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1E)
-374: 0x127C [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7828*]:
+374: 0x127C [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7829*]:
     → "<Sigh> All right. Let's see... First, for our pioneer friend-wend..."
 375: 0x1283 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1F)
 376: 0x128A [0x79] Peppe-Aleppe (ID: 17871211/0x0110B16B) looks at LocalPlayer (Basic look)
@@ -1225,12 +1225,12 @@ SUBROUTINE_1302:
 391: 0x1302 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 392: 0x1313 [0x03] Work_Zone[3] = 2755*
 393: 0x1318 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x0B)
-394: 0x131F [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7829*]:
+394: 0x131F [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7830*]:
     → "Slap around some ruszors and bring us one $1!"
 395: 0x1326 [0x23] WAIT_FOR_DIALOG_INTERACTION
 396: 0x1327 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x0C)
 397: 0x132E [0x4A] Peppe-Aleppe (ID: 17871211/0x0110B16B) looks at Orsa-Porsa (ID: 17871212/0x0110B16C)
-398: 0x1337 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7830*]:
+398: 0x1337 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7831*]:
     → "That would be perfectaru! In the meantime, I'll do some running-wunning around, both to get my blood pumping and to see if I can <sniff> find anything."
 399: 0x133E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x11)
 400: 0x1345 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x12)
@@ -1262,7 +1262,7 @@ SUBROUTINE_13FC:
 424: 0x1403 [0x4A] Peppe-Aleppe (ID: 17871211/0x0110B16B) looks at LocalPlayer
 425: 0x140C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 426: 0x140D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Peppe-Aleppe (ID: 17871211/0x0110B16B) Render.Flags0 and Render.Flags3 conditions are met
-427: 0x1412 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7831*]:
+427: 0x1412 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7832*]:
     → "...He'd better come back... Okay, while you two are off, I'll put my thinking cap-wap on!"
 428: 0x1419 [0x1C] WAIT(30* ticks)
 429: 0x141C [0x79] LocalPlayer looks at Peppe-Aleppe (ID: 17871211/0x0110B16B) (Basic look)
@@ -1289,7 +1289,7 @@ SUBROUTINE_14BE:
 448: 0x14C9 [0x03] Work_Zone[1] = 1*
 449: 0x14CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 450: 0x14DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0A)
-451: 0x14E6 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7822*]:
+451: 0x14E6 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7823*]:
     → "Waaaaaah! I'll never see home again!"
 452: 0x14ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 453: 0x14EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0B)
@@ -1536,7 +1536,7 @@ SUBROUTINE_1641:
  33: 0x1641 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  34: 0x1652 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  35: 0x1661 [0x03] Work_Zone[3] = 2755*
- 36: 0x1666 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7835*]:
+ 36: 0x1666 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7836*]:
     → "You returned in one piece! And what's more, you broughtaru back $1!"
  37: 0x166D [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x166E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x23)
@@ -1559,7 +1559,7 @@ SUBROUTINE_16D2:
 
 SUBROUTINE_16FF:
  53: 0x16FF [0x27] REQ_SET(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x2E)
- 54: 0x1706 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7836*]:
+ 54: 0x1706 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7837*]:
     → "While you were gone, I thought of something that'll knock-wock Amchuchu's socks off for sure!"
  55: 0x170D [0x2A] GET_REQ_LEVEL(level=8, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B))
  56: 0x1713 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x06)
@@ -1572,7 +1572,7 @@ SUBROUTINE_16FF:
 SUBROUTINE_1744:
  62: 0x1744 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
  63: 0x1755 [0x03] Work_Zone[4] = 4392*
- 64: 0x175A [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7837*]:
+ 64: 0x175A [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7838*]:
     → "We'll use the cold to our advantage! Just flash-freeze $2, pack 'em up, and send 'em to balmy Adoulin for a dessertaru that will bring a smile to even the most dour Galka's face!"
  65: 0x1761 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x1762 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x07)
@@ -1580,7 +1580,7 @@ SUBROUTINE_1744:
  68: 0x1778 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
  69: 0x1789 [0x4A] LocalPlayer looks at Peppe-Aleppe (ID: 17871211/0x0110B16B)
  70: 0x1792 [0x03] Work_Zone[5] = 4468*
- 71: 0x1797 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7838*]:
+ 71: 0x1797 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7839*]:
     → "But there's more! If you do the same to $3, we can make hammers from them for whacking even the most stubborn of nails! Isn't that great, Orsa-Porsa!?"
  72: 0x179E [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x179F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1605,7 +1605,7 @@ SUBROUTINE_1835:
  90: 0x183C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x09)
  91: 0x1843 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x33)
  92: 0x184A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x04)
- 93: 0x1851 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7839*]:
+ 93: 0x1851 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7840*]:
     → "Uh...Orsa-Porsa...?"
  94: 0x1858 [0x1C] WAIT(30* ticks)
  95: 0x185B [0x4A] LocalPlayer looks at Orsa-Porsa (ID: 17871212/0x0110B16C)
@@ -1656,7 +1656,7 @@ SUBROUTINE_18E9:
 138: 0x199D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 139: 0x19AE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
 140: 0x19BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1E)
-141: 0x19C4 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7840*]:
+141: 0x19C4 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7841*]:
     → "Oh dear...a Tarutaru popsicle. All those months stationed in the basaltaru fields must have weakened your constitution."
 142: 0x19CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x19CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1F)
@@ -1669,19 +1669,19 @@ SUBROUTINE_18E9:
 150: 0x1A09 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 151: 0x1A0A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Orsa-Porsa (ID: 17871212/0x0110B16C) Render.Flags0 and Render.Flags3 conditions are met
 152: 0x1A0F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x2C)
-153: 0x1A16 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7841*]:
+153: 0x1A16 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7842*]:
     → "How can you just stand there without shattering into a million icy shards!? I don't care how many layer-wayers you're wearing! It's physiologically impossible!!!"
 154: 0x1A1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x1A1E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x2D)
 156: 0x1A25 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x16)
-157: 0x1A2C [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7842*]:
+157: 0x1A2C [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7843*]:
     → "Oh-oh! That's rightaru! I forgot to give you some of my special oil!"
 158: 0x1A33 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x1A34 [0x52] END_LOAD_SCHEDULER: End scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=682*
 160: 0x1A43 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 161: 0x1A54 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x34)
 162: 0x1A5B [0x1C] WAIT(30* ticks)
-163: 0x1A5E [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7843*]:
+163: 0x1A5E [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7844*]:
     → "Special oil...?"
 164: 0x1A65 [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x1A66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x17)
@@ -1690,11 +1690,11 @@ SUBROUTINE_18E9:
 168: 0x1A7B [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=682*
 169: 0x1A8A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 170: 0x1A9B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x01)
-171: 0x1AA2 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7844*]:
+171: 0x1AA2 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7845*]:
     → "You're here to research the fauna, so let me help. Don't you think it's odd that ruszors are able to plunge-wunge into the frigid ponds of Kamihr and pop right back out as if it were a lovely spring day?"
 172: 0x1AA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x1AAA [0x03] Work_Zone[3] = 2755*
-174: 0x1AAF [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7845*]:
+174: 0x1AAF [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7846*]:
     → "I've spent some time analyzing $1, and I stumble-wumbled on something interesting. See how sticky the underside is?"
 175: 0x1AB6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x02)
 176: 0x1ABD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x22)
@@ -1717,7 +1717,7 @@ SUBROUTINE_18E9:
 SUBROUTINE_1B4E:
 192: 0x1B4E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x03)
 193: 0x1B55 [0x1C] WAIT(40* ticks)
-194: 0x1B58 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7846*]:
+194: 0x1B58 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7847*]:
     → "So you're using this oil..."
 195: 0x1B5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x1B60 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x04)
@@ -1725,7 +1725,7 @@ SUBROUTINE_1B4E:
 198: 0x1B6E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x1B)
 199: 0x1B75 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x05)
 200: 0x1B7C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x04)
-201: 0x1B83 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7847*]:
+201: 0x1B83 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7848*]:
     → "No, no! If you slather it on like skin lotion, you'll break out into a terrible rash-wash."
 202: 0x1B8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x1B8B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x05)
@@ -1745,13 +1745,13 @@ SUBROUTINE_1BF6:
 215: 0x1BF6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 216: 0x1C07 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x0B)
 217: 0x1C0E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x22)
-218: 0x1C15 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7848*]:
+218: 0x1C15 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7849*]:
     → "I speak from experience. But I developed a method for treataruing the oil so that it's usable by people!"
 219: 0x1C1C [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x1C1D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x23)
 221: 0x1C24 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x0C)
 222: 0x1C2B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x07)
-223: 0x1C32 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7849*]:
+223: 0x1C32 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7850*]:
     → "Ooooooh! Peppe-Aleppe, you've chanced-wanced upon something great!"
 224: 0x1C39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x1C3A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x08)
@@ -1759,17 +1759,17 @@ SUBROUTINE_1BF6:
 227: 0x1C48 [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=682*
 228: 0x1C57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 229: 0x1C68 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x06)
-230: 0x1C6F [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7850*]:
+230: 0x1C6F [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7851*]:
     → "And it does more than keep you warm! Have you ever been buffeted by the gusty masses that dot the drifts? It'll keep you safe from those, too!"
 231: 0x1C76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 232: 0x1C77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x07)
 233: 0x1C7E [0x27] REQ_SET(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x30)
-234: 0x1C85 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7851*]:
+234: 0x1C85 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7852*]:
     → "And here you were, saying you couldn't inventaru anything!"
 235: 0x1C8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x1C8D [0x2A] GET_REQ_LEVEL(level=8, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C))
 237: 0x1C93 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x0F)
-238: 0x1C9A [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7852*]:
+238: 0x1C9A [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7853*]:
     → "The pioneers will love this, and I won't have to freeze my bum off! It's killing two colibri with one stone-wone!"
 239: 0x1CA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x1CA2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x10)
@@ -1779,27 +1779,27 @@ SUBROUTINE_1BF6:
 244: 0x1CC6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 245: 0x1CD7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x24)
 246: 0x1CDE [0x1C] WAIT(30* ticks)
-247: 0x1CE1 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7853*]:
+247: 0x1CE1 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7854*]:
     → "Maybe Amchuchu will adore it, so I can go back to Adoulin and finally be with the apple-wapple of my eye--the lovely Shipilolo!"
 248: 0x1CE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x1CE9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x25)
 250: 0x1CF0 [0x1C] WAIT(30* ticks)
-251: 0x1CF3 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7854*]:
+251: 0x1CF3 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7855*]:
     → "Yeaaaaaah, I don't think that'll happen-wappen."
 252: 0x1CFA [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x1CFB [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=682*
 254: 0x1D0A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 255: 0x1D1B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x26)
-256: 0x1D22 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7855*]:
+256: 0x1D22 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7856*]:
     → "<Wince>"
 257: 0x1D29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 258: 0x1D2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x27)
 259: 0x1D31 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x01)
-260: 0x1D38 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7856*]:
+260: 0x1D38 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7857*]:
     → "But I'll put in a good word with Amchuchu for you. Maybe that'll bring-wing her around."
 261: 0x1D3F [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x1D40 [0x79] Peppe-Aleppe (ID: 17871211/0x0110B16B) looks at LocalPlayer (Basic look)
-263: 0x1D4A [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7857*]:
+263: 0x1D4A [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7858*]:
     → "You should give some of that oil to our pioneer friend. There's no such thing as bad publicity-wicity!"
 264: 0x1D51 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x1D52 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x02)
@@ -1811,14 +1811,14 @@ SUBROUTINE_1BF6:
 271: 0x1D81 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 272: 0x1D92 [0x4A] Orsa-Porsa (ID: 17871212/0x0110B16C) looks at LocalPlayer
 273: 0x1D9B [0x27] REQ_SET(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x32)
-274: 0x1DA2 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7858*]:
+274: 0x1DA2 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7859*]:
     → "Good idea! Here you go, [Mr./Ms.] Pioneer!"
 275: 0x1DA9 [0x1C] WAIT(60* ticks)
 276: 0x1DAC [0x4A] LocalPlayer looks at Peppe-Aleppe (ID: 17871211/0x0110B16B)
 277: 0x1DB5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 278: 0x1DB6 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 279: 0x1DBB [0x23] WAIT_FOR_DIALOG_INTERACTION
-280: 0x1DBC [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7859*]:
+280: 0x1DBC [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7860*]:
     → "Let me show you how it works. You put the oil on your skin-win or else you get..."
 281: 0x1DC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x1DC4 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B))
@@ -1833,7 +1833,7 @@ SUBROUTINE_1BF6:
 291: 0x1E0E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Peppe-Aleppe (ID: 17871211/0x0110B16B) Render.Flags0 and Render.Flags3 conditions are met
 292: 0x1E13 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=682*
 293: 0x1E22 [0x7B] Orsa-Porsa (ID: 17871212/0x0110B16C) stops talking
-294: 0x1E27 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7860*]:
+294: 0x1E27 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7861*]:
     → "Gehehehe! That tickles! Gehehe!"
 295: 0x1E2E [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x1E2F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x33)
@@ -1853,7 +1853,7 @@ SUBROUTINE_1E97:
 308: 0x1EA8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
 309: 0x1EB7 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B))
 310: 0x1EBD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0C)
-311: 0x1EC4 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7861*]:
+311: 0x1EC4 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7862*]:
     → "Those shivering gusts'll be no more than a harmless breeze-weeze now!"
 312: 0x1ECB [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x1ECC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0D)
@@ -1869,13 +1869,13 @@ SUBROUTINE_1F16:
 321: 0x1F16 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=[682*, 0*]
 322: 0x1F27 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x39)
 323: 0x1F2E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x04)
-324: 0x1F35 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7862*]:
+324: 0x1F35 [0x2B] Peppe-Aleppe (ID: 17871211/0x0110B16B) [7863*]:
     → "There's one itsy-bitsy favor I'd like to ask in return. Tell all your pioneer friend-wends and everyone in Adoulin what a spectacular, indispensable person I am!"
 325: 0x1F3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x1F3D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x05)
 327: 0x1F44 [0x79] Peppe-Aleppe (ID: 17871211/0x0110B16B) looks at Orsa-Porsa (ID: 17871212/0x0110B16C) (Basic look)
 328: 0x1F4E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17871212/0x0110B16C), tag_num=0x11)
-329: 0x1F55 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7863*]:
+329: 0x1F55 [0x2B] Orsa-Porsa (ID: 17871212/0x0110B16C) [7864*]:
     → "As for me, I'm gonna finish up my work here so I can skittaru back to Morimar Basalt Fields and take a nice, hot dip!"
 330: 0x1F5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 331: 0x1F5D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

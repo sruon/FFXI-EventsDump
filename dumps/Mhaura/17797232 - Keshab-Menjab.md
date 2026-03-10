@@ -25,30 +25,30 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x1D9C      |        7580 |
-|       2 | 0x1D9D      |        7581 |
-|       3 | 0x1D9E      |        7582 |
-|       4 | 0x1D9F      |        7583 |
-|       5 | 0x1DA0      |        7584 |
+|       1 | 0x1D9D      |        7581 |
+|       2 | 0x1D9E      |        7582 |
+|       3 | 0x1D9F      |        7583 |
+|       4 | 0x1DA0      |        7584 |
+|       5 | 0x1DA1      |        7585 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x000B      |          11 |
-|       9 | 0x1DA2      |        7586 |
-|      10 | 0x1DA3      |        7587 |
-|      11 | 0x1DA4      |        7588 |
-|      12 | 0x1DA5      |        7589 |
-|      13 | 0x1DA1      |        7585 |
-|      14 | 0x1D9B      |        7579 |
-|      15 | 0x1DA6      |        7590 |
-|      16 | 0x1DA7      |        7591 |
+|       9 | 0x1DA3      |        7587 |
+|      10 | 0x1DA4      |        7588 |
+|      11 | 0x1DA5      |        7589 |
+|      12 | 0x1DA6      |        7590 |
+|      13 | 0x1DA2      |        7586 |
+|      14 | 0x1D9C      |        7580 |
+|      15 | 0x1DA7      |        7591 |
+|      16 | 0x1DA8      |        7592 |
 |      17 | 0x0006      |           6 |
-|      18 | 0x1DA8      |        7592 |
+|      18 | 0x1DA9      |        7593 |
 |      19 | 0x0007      |           7 |
-|      20 | 0x1DA9      |        7593 |
-|      21 | 0x1DAA      |        7594 |
-|      22 | 0x1DAB      |        7595 |
+|      20 | 0x1DAA      |        7594 |
+|      21 | 0x1DAB      |        7595 |
+|      22 | 0x1DAC      |        7596 |
 |      23 | 0x0009      |           9 |
-|      24 | 0x1DAC      |        7596 |
+|      24 | 0x1DAD      |        7597 |
 |      25 | 0x0002      |           2 |
 |      26 | 0x0013      |          19 |
 |      27 | 0x0003      |           3 |
@@ -60,34 +60,34 @@
 |      33 | 0x003B      |          59 |
 |      34 | 0x0008      |           8 |
 |      35 | 0x0045      |          69 |
-|      36 | 0x1DAD      |        7597 |
-|      37 | 0x1DAE      |        7598 |
-|      38 | 0x1DAF      |        7599 |
+|      36 | 0x1DAE      |        7598 |
+|      37 | 0x1DAF      |        7599 |
+|      38 | 0x1DB0      |        7600 |
 |      39 | 0x00C9      |         201 |
 
 ## String References
 
-- **7579**: You know what I don't under-blunder-stand? You'd think a port town like this would be over-grover-flowing with fresher-fishermen (and women). I guess I'm just not trying hard enough...
-- **7580**: Broken ro\`ds! Broken ro\`ds! You break 'em, I'll buy 'em!
-- **7581**: The Flushy-Fishermen's Guild has started a nifty-spifty new rod recycling service.
-- **7582**: We buy up broken rods from frothy-fisher[men/women] like you, repair them, and sell them back to adventurers traveling about Bibiki-Squeaky Bay.
-- **7583**: How about it? Would you like to help us out?
-- **7584**: Recycle your rods? [I'm game./Keep your hands off my rods.]
-- **7585**: Well, if you ever have a change of hippity-heart, you know where I'll be!
-- **7586**: That's the spirit! Now get out there and start snip-snappin' some poles. I'll be waiting here for you!
-- **7587**: Oh, and one more thing...
-- **7588**: I just joined the Fussy-Fishermen's Guild and am not quite that good at repairing rods yet (my wood-waddly-working skill's only 16). I still have a lot of trouble fixing the ones with the teeny-tiny little cracks in them.
-- **7589**: If possible, I'd appreciate it if the poles you bring back were busted clean in two. Thanks, mate-aru!
-- **7590**: Recently I've been receiving a lot of crabby complaints about how my recycled rods break really easily. I wonder if I'm doing anything wrong when repairing them...
-- **7591**: If you have the time, do you think you could travel to Bibiki Bay and try to find one of my recycled rods? I have to get to the bare-bottom of this if I want to keep my busy-business going.
-- **7592**: No no no no no... This would be way too darn difficult for me to repair. I can only fix rods that have been snippity-snapped clean in two.
-- **7593**: Oh! What a clean break! Even I can fix this guy!
-- **7594**: Hm? Huh? What?
-- **7595**: It looks like some-biddy-body's put a little crickity-crack in this rod to make it easier to brickity-break. You didn't do this, did you?
-- **7596**: You explain the details of where you obtained the rod.
-- **7597**: You found it on Purgonorgo Isle? Hmmm... This is not good...
-- **7598**: If somebody's trying to pull a fast one on the Flubby-Fishermen's Guild's verily-valued customers, our guildmaster's going to have a cat fit. Heads will roll, let me tell you!
-- **7599**: Anyway, thanks for bringing back the rod. Here's your reward. I'll report the dittily-details of this matter to the guild.
+- **7580**: You know what I don't under-blunder-stand? You'd think a port town like this would be over-grover-flowing with fresher-fishermen (and women). I guess I'm just not trying hard enough...
+- **7581**: Broken ro\`ds! Broken ro\`ds! You break 'em, I'll buy 'em!
+- **7582**: The Flushy-Fishermen's Guild has started a nifty-spifty new rod recycling service.
+- **7583**: We buy up broken rods from frothy-fisher[men/women] like you, repair them, and sell them back to adventurers traveling about Bibiki-Squeaky Bay.
+- **7584**: How about it? Would you like to help us out?
+- **7585**: Recycle your rods? [I'm game./Keep your hands off my rods.]
+- **7586**: Well, if you ever have a change of hippity-heart, you know where I'll be!
+- **7587**: That's the spirit! Now get out there and start snip-snappin' some poles. I'll be waiting here for you!
+- **7588**: Oh, and one more thing...
+- **7589**: I just joined the Fussy-Fishermen's Guild and am not quite that good at repairing rods yet (my wood-waddly-working skill's only 16). I still have a lot of trouble fixing the ones with the teeny-tiny little cracks in them.
+- **7590**: If possible, I'd appreciate it if the poles you bring back were busted clean in two. Thanks, mate-aru!
+- **7591**: Recently I've been receiving a lot of crabby complaints about how my recycled rods break really easily. I wonder if I'm doing anything wrong when repairing them...
+- **7592**: If you have the time, do you think you could travel to Bibiki Bay and try to find one of my recycled rods? I have to get to the bare-bottom of this if I want to keep my busy-business going.
+- **7593**: No no no no no... This would be way too darn difficult for me to repair. I can only fix rods that have been snippity-snapped clean in two.
+- **7594**: Oh! What a clean break! Even I can fix this guy!
+- **7595**: Hm? Huh? What?
+- **7596**: It looks like some-biddy-body's put a little crickity-crack in this rod to make it easier to brickity-break. You didn't do this, did you?
+- **7597**: You explain the details of where you obtained the rod.
+- **7598**: You found it on Purgonorgo Isle? Hmmm... This is not good...
+- **7599**: If somebody's trying to pull a fast one on the Flubby-Fishermen's Guild's verily-valued customers, our guildmaster's going to have a cat fit. Heads will roll, let me tell you!
+- **7600**: Anyway, thanks for bringing back the rod. Here's your reward. I'll report the dittily-details of this matter to the guild.
 
 ## Events
 
@@ -142,45 +142,45 @@
 
 ```
   0: 0x0001 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7580*)
+  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7581*)
     → "Broken ro`ds! Broken ro`ds! You break 'em, I'll buy 'em!"
   2: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0014 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
   4: 0x0021 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
   5: 0x0030 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
   6: 0x003D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  7: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7581*)
+  7: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
     → "The Flushy-Fishermen's Guild has started a nifty-spifty new rod recycling service."
   8: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
+  9: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
     → "We buy up broken rods from frothy-fisher[men/women] like you, repair them, and sell them back to adventurers traveling about Bibiki-Squeaky Bay."
  10: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
+ 11: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
     → "How about it? Would you like to help us out?"
  12: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x004E [0x24] CREATE_DIALOG(message_id=7584*, default_option=1*, option_flags=0*)
+ 13: 0x004E [0x24] CREATE_DIALOG(message_id=7585*, default_option=1*, option_flags=0*)
     → "Recycle your rods? [I'm game./Keep your hands off my rods.]"
  14: 0x0055 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0056 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0083
  16: 0x005E [0x42] SET_CLI_EVENT_CANCEL_DATA()
  17: 0x005F [0x6E] EventEntity uses emote 11*
  18: 0x0066 [0x99] Wait for EventEntity animation to complete
- 19: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7586*)
+ 19: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7587*)
     → "That's the spirit! Now get out there and start snip-snappin' some poles. I'll be waiting here for you!"
  20: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=7587*)
+ 21: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
     → "Oh, and one more thing..."
  22: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
+ 23: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=7589*)
     → "I just joined the Fussy-Fishermen's Guild and am not quite that good at repairing rods yet (my wood-waddly-working skill's only 16). I still have a lot of trouble fixing the ones with the teeny-tiny little cracks in them."
  24: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7589*)
+ 25: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7590*)
     → "If possible, I'd appreciate it if the poles you bring back were busted clean in two. Thanks, mate-aru!"
  26: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x007B [0x03] Work_Zone[1] = 1*
  28: 0x0080 [0x01] GOTO 0x0092
  29: 0x0083 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0092
- 30: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7585*)
+ 30: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7586*)
     → "Well, if you ever have a change of hippity-heart, you know where I'll be!"
  31: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x008F [0x01] GOTO 0x0092
@@ -210,7 +210,7 @@ SUBROUTINE_0092:
 
 ```
   0: 0x0094 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
+  1: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7580*)
     → "You know what I don't under-blunder-stand? You'd think a port town like this would be over-grover-flowing with fresher-fishermen (and women). I guess I'm just not trying hard enough..."
   2: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x009D [0x21] END_EVENT
@@ -238,10 +238,10 @@ SUBROUTINE_0092:
 
 ```
   0: 0x009F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7590*)
+  1: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7591*)
     → "Recently I've been receiving a lot of crabby complaints about how my recycled rods break really easily. I wonder if I'm doing anything wrong when repairing them..."
   2: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7591*)
+  3: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
     → "If you have the time, do you think you could travel to Bibiki Bay and try to find one of my recycled rods? I have to get to the bare-bottom of this if I want to keep my busy-business going."
   4: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00AC [0x21] END_EVENT
@@ -274,7 +274,7 @@ SUBROUTINE_0092:
   2: 0x00B4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B5 [0x6E] EventEntity uses emote 6*
   4: 0x00BC [0x99] Wait for EventEntity animation to complete
-  5: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+  5: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
     → "No no no no no... This would be way too darn difficult for me to repair. I can only fix rods that have been snippity-snapped clean in two."
   6: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00C5 [0x21] END_EVENT
@@ -357,14 +357,14 @@ SUBROUTINE_0092:
   3: 0x00CE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00CF [0x6E] EventEntity uses emote 7*
   5: 0x00D6 [0x99] Wait for EventEntity animation to complete
-  6: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
+  6: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "Oh! What a clean break! Even I can fix this guy!"
   7: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  9: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
+  9: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "Hm? Huh? What?"
  10: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
+ 11: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
     → "It looks like some-biddy-body's put a little crickity-crack in this rod to make it easier to brickity-break. You didn't do this, did you?"
  12: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00F6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
@@ -375,56 +375,56 @@ SUBROUTINE_0092:
  18: 0x0129 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  19: 0x012E [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0178
  20: 0x0136 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [LocalPlayer, LocalPlayer], work=9*
- 21: 0x0145 [0x49] LocalPlayer (No speaker name) [7596*]:
+ 21: 0x0145 [0x49] LocalPlayer (No speaker name) [7597*]:
  22: 0x014C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [LocalPlayer, LocalPlayer]
  23: 0x0159 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [LocalPlayer, LocalPlayer], work=9*
  24: 0x0168 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkl1" with entities [LocalPlayer, LocalPlayer]
  25: 0x0175 [0x01] GOTO 0x037E
  26: 0x0178 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x01C2
  27: 0x0180 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [LocalPlayer, LocalPlayer], work=19*
- 28: 0x018F [0x49] EventEntity (No speaker name) [7596*]:
+ 28: 0x018F [0x49] EventEntity (No speaker name) [7597*]:
  29: 0x0196 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [LocalPlayer, LocalPlayer]
  30: 0x01A3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [LocalPlayer, LocalPlayer], work=19*
  31: 0x01B2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkl1" with entities [LocalPlayer, LocalPlayer]
  32: 0x01BF [0x01] GOTO 0x037E
  33: 0x01C2 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x020C
  34: 0x01CA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [LocalPlayer, LocalPlayer], work=29*
- 35: 0x01D9 [0x49] EventEntity (No speaker name) [7596*]:
+ 35: 0x01D9 [0x49] EventEntity (No speaker name) [7597*]:
  36: 0x01E0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [LocalPlayer, LocalPlayer]
  37: 0x01ED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [LocalPlayer, LocalPlayer], work=29*
  38: 0x01FC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkl1" with entities [LocalPlayer, LocalPlayer]
  39: 0x0209 [0x01] GOTO 0x037E
  40: 0x020C [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0256
  41: 0x0214 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [LocalPlayer, LocalPlayer], work=39*
- 42: 0x0223 [0x49] EventEntity (No speaker name) [7596*]:
+ 42: 0x0223 [0x49] EventEntity (No speaker name) [7597*]:
  43: 0x022A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [LocalPlayer, LocalPlayer]
  44: 0x0237 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [LocalPlayer, LocalPlayer], work=39*
  45: 0x0246 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkl1" with entities [LocalPlayer, LocalPlayer]
  46: 0x0253 [0x01] GOTO 0x037E
  47: 0x0256 [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x02A0
  48: 0x025E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [LocalPlayer, LocalPlayer], work=49*
- 49: 0x026D [0x49] EventEntity (No speaker name) [7596*]:
+ 49: 0x026D [0x49] EventEntity (No speaker name) [7597*]:
  50: 0x0274 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [LocalPlayer, LocalPlayer]
  51: 0x0281 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [LocalPlayer, LocalPlayer], work=49*
  52: 0x0290 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkl1" with entities [LocalPlayer, LocalPlayer]
  53: 0x029D [0x01] GOTO 0x037E
  54: 0x02A0 [0x02] IF !(Work_Zone[2] == 6*) GOTO 0x02EA
  55: 0x02A8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [LocalPlayer, LocalPlayer], work=49*
- 56: 0x02B7 [0x49] EventEntity (No speaker name) [7596*]:
+ 56: 0x02B7 [0x49] EventEntity (No speaker name) [7597*]:
  57: 0x02BE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [LocalPlayer, LocalPlayer]
  58: 0x02CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [LocalPlayer, LocalPlayer], work=49*
  59: 0x02DA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkl1" with entities [LocalPlayer, LocalPlayer]
  60: 0x02E7 [0x01] GOTO 0x037E
  61: 0x02EA [0x02] IF !(Work_Zone[2] == 7*) GOTO 0x0334
  62: 0x02F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [LocalPlayer, LocalPlayer], work=59*
- 63: 0x0301 [0x49] EventEntity (No speaker name) [7596*]:
+ 63: 0x0301 [0x49] EventEntity (No speaker name) [7597*]:
  64: 0x0308 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [LocalPlayer, LocalPlayer]
  65: 0x0315 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [LocalPlayer, LocalPlayer], work=59*
  66: 0x0324 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkl1" with entities [LocalPlayer, LocalPlayer]
  67: 0x0331 [0x01] GOTO 0x037E
  68: 0x0334 [0x02] IF !(Work_Zone[2] == 8*) GOTO 0x037E
  69: 0x033C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [LocalPlayer, LocalPlayer], work=69*
- 70: 0x034B [0x49] EventEntity (No speaker name) [7596*]:
+ 70: 0x034B [0x49] EventEntity (No speaker name) [7597*]:
  71: 0x0352 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [LocalPlayer, LocalPlayer]
  72: 0x035F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [LocalPlayer, LocalPlayer], work=69*
  73: 0x036E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkl1" with entities [LocalPlayer, LocalPlayer]
@@ -433,16 +433,16 @@ SUBROUTINE_0092:
 SUBROUTINE_037E:
  75: 0x037E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
  76: 0x038D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
- 77: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
+ 77: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
     → "You found it on Purgonorgo Isle? Hmmm... This is not good..."
  78: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x039E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
  80: 0x03AD [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
- 81: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
+ 81: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
     → "If somebody's trying to pull a fast one on the Flubby-Fishermen's Guild's verily-valued customers, our guildmaster's going to have a cat fit. Heads will roll, let me tell you!"
  82: 0x03BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x03BE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [EventEntity, EventEntity], work=40*
- 84: 0x03CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
+ 84: 0x03CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7600*)
     → "Anyway, thanks for bringing back the rod. Here's your reward. I'll report the dittily-details of this matter to the guild."
  85: 0x03D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x03D1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [EventEntity, EventEntity]

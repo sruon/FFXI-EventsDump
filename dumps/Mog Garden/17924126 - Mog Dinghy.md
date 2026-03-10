@@ -53,7 +53,7 @@
 |       2 | 0x0001      |           1 |
 |       3 | 0x0004      |           4 |
 |       4 | 0x0005      |           5 |
-|       5 | 0x1CA2      |        7330 |
+|       5 | 0x1CA3      |        7331 |
 |       6 | 0x40000000  |  1073741824 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x0002      |           2 |
@@ -98,7 +98,7 @@
 
 ## String References
 
-- **7330**: Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]
+- **7331**: Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]
 
 ## Events
 
@@ -551,7 +551,7 @@ SUBROUTINE_0015:
 
 SUBROUTINE_0026:
   7: 0x0026 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=5*, condition_work_offset=1*)
-  8: 0x002D [0x24] CREATE_DIALOG(message_id=7330*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+  8: 0x002D [0x24] CREATE_DIALOG(message_id=7331*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]"
   9: 0x0034 [0x25] WAIT_DIALOG_SELECT()
  10: 0x0035 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0045

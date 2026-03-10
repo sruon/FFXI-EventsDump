@@ -379,8 +379,8 @@
 |     162 | 0x00EF      |         239 |
 |     163 | 0x0002      |           2 |
 |     164 | 0x00F3      |         243 |
-|     165 | 0x3E36      |       15926 |
-|     166 | 0x3E5C      |       15964 |
+|     165 | 0x3E54      |       15956 |
+|     166 | 0x3E7A      |       15994 |
 |     167 | 0xFFFF8C85  |  4294937733 |
 |     168 | 0x103B3     |       66483 |
 |     169 | 0x09BD      |        2493 |
@@ -1023,8 +1023,8 @@
 - **9994**: Enter the residential area? [Yes./No.]
 - **11175**: Join forces with Jeuno? [Yes./No.]
 - **11181**: Is it true? [Yes./No.]
-- **15926**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-- **15964**: Your $3 fills with sand.
+- **15956**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **15994**: Your $3 fills with sand.
 
 ## Events
 
@@ -2829,9 +2829,9 @@
  13: 0x1268 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_126D:
- 14: 0x126D [0x48] [System] [15926*]:
+ 14: 0x126D [0x48] [System] [15956*]:
     → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
- 15: 0x1270 [0x48] [System] [15964*]:
+ 15: 0x1270 [0x48] [System] [15994*]:
     → "Your $3 fills with sand."
  16: 0x1273 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x1284 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
@@ -9349,26 +9349,26 @@ SUBROUTINE_4863:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 4BD0:             02 87 7F 94  80 80 FF 4B 5F 04 0C 83      .......K_...
 4BE0: F0 FF FF 7F F0 FF FF 7F  6B 69 7A 30 5F 03 0D 83  ........kiz0_...
-4BF0: 3D 31 0F 01 3D 31 0F 01  68 6D 6D 30 01 2C 4D 02  =1..=1..hmm0.,M.
+4BF0: 3E 31 0F 01 3E 31 0F 01  68 6D 6D 30 01 2C 4D 02  >1..>1..hmm0.,M.
 4C00: 87 7F A3 80 80 2A 4C 5F  04 0E 83 F0 FF FF 7F F0  .....*L_........
-4C10: FF FF 7F 6B 69 7A 30 5F  03 0D 83 3D 31 0F 01 3D  ...kiz0_...=1..=
+4C10: FF FF 7F 6B 69 7A 30 5F  03 0D 83 3E 31 0F 01 3E  ...kiz0_...>1..>
 4C20: 31 0F 01 68 66 6D 30 01  2C 4D 02 87 7F 04 80 80  1..hfm0.,M......
 4C30: 55 4C 5F 04 DE 80 F0 FF  FF 7F F0 FF FF 7F 6B 69  UL_...........ki
-4C40: 7A 30 5F 03 0D 83 3D 31  0F 01 3D 31 0F 01 65 6D  z0_...=1..=1..em
+4C40: 7A 30 5F 03 0D 83 3E 31  0F 01 3E 31 0F 01 65 6D  z0_...>1..>1..em
 4C50: 6D 30 01 2C 4D 02 87 7F  FA 82 80 80 4C 5F 04 0F  m0.,M.......L_..
 4C60: 83 F0 FF FF 7F F0 FF FF  7F 6B 69 7A 30 5F 03 0D  .........kiz0_..
-4C70: 83 3D 31 0F 01 3D 31 0F  01 65 66 6D 30 01 2C 4D  .=1..=1..efm0.,M
+4C70: 83 3E 31 0F 01 3E 31 0F  01 65 66 6D 30 01 2C 4D  .>1..>1..efm0.,M
 4C80: 02 87 7F D8 80 80 AB 4C  5F 04 10 83 F0 FF FF 7F  .......L_.......
-4C90: F0 FF FF 7F 6B 69 7A 30  5F 03 0D 83 3D 31 0F 01  ....kiz0_...=1..
-4CA0: 3D 31 0F 01 74 6D 61 30  01 2C 4D 02 87 7F 6D 82  =1..tma0.,M...m.
+4C90: F0 FF FF 7F 6B 69 7A 30  5F 03 0D 83 3E 31 0F 01  ....kiz0_...>1..
+4CA0: 3E 31 0F 01 74 6D 61 30  01 2C 4D 02 87 7F 6D 82  >1..tma0.,M...m.
 4CB0: 80 D6 4C 5F 04 10 83 F0  FF FF 7F F0 FF FF 7F 6B  ..L_...........k
-4CC0: 69 7A 30 5F 03 0D 83 3D  31 0F 01 3D 31 0F 01 74  iz0_...=1..=1..t
+4CC0: 69 7A 30 5F 03 0D 83 3E  31 0F 01 3E 31 0F 01 74  iz0_...>1..>1..t
 4CD0: 6D 61 30 01 2C 4D 02 87  7F 5B 81 80 01 4D 5F 04  ma0.,M...[...M_.
 4CE0: 11 83 F0 FF FF 7F F0 FF  FF 7F 6B 69 7A 30 5F 03  ..........kiz0_.
-4CF0: 0D 83 3D 31 0F 01 3D 31  0F 01 6D 6D 61 30 01 2C  ..=1..=1..mma0.,
+4CF0: 0D 83 3E 31 0F 01 3E 31  0F 01 6D 6D 61 30 01 2C  ..>1..>1..mma0.,
 4D00: 4D 02 87 7F 89 82 80 2C  4D 5F 04 58 81 F0 FF FF  M......,M_.X....
-4D10: 7F F0 FF FF 7F 6B 69 7A  30 5F 03 0D 83 3D 31 0F  .....kiz0_...=1.
-4D20: 01 3D 31 0F 01 67 6D 61  30 01 2C 4D 00           .=1..gma0.,M.   
+4D10: 7F F0 FF FF 7F 6B 69 7A  30 5F 03 0D 83 3E 31 0F  .....kiz0_...>1.
+4D20: 01 3E 31 0F 01 67 6D 61  30 01 2C 4D 00           .>1..gma0.,M.   
 ```
 
 #### Opcodes
@@ -9376,35 +9376,35 @@ SUBROUTINE_4863:
 ```
   0: 0x4BD4 [0x02] IF !(LocalPlayer->Race == 1*) GOTO 0x4BFF
   1: 0x4BDC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=141*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz0")
-  2: 0x4BEC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="hmm0")
+  2: 0x4BEC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="hmm0")
   3: 0x4BFC [0x01] GOTO 0x4D2C
   4: 0x4BFF [0x02] IF !(LocalPlayer->Race == 2*) GOTO 0x4C2A
   5: 0x4C07 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=151*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz0")
-  6: 0x4C17 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="hfm0")
+  6: 0x4C17 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="hfm0")
   7: 0x4C27 [0x01] GOTO 0x4D2C
   8: 0x4C2A [0x02] IF !(LocalPlayer->Race == 3*) GOTO 0x4C55
   9: 0x4C32 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=161*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz0")
- 10: 0x4C42 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="emm0")
+ 10: 0x4C42 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="emm0")
  11: 0x4C52 [0x01] GOTO 0x4D2C
  12: 0x4C55 [0x02] IF !(LocalPlayer->Race == 4*) GOTO 0x4C80
  13: 0x4C5D [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=171*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz0")
- 14: 0x4C6D [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="efm0")
+ 14: 0x4C6D [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="efm0")
  15: 0x4C7D [0x01] GOTO 0x4D2C
  16: 0x4C80 [0x02] IF !(LocalPlayer->Race == 5*) GOTO 0x4CAB
  17: 0x4C88 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz0")
- 18: 0x4C98 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="tma0")
+ 18: 0x4C98 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="tma0")
  19: 0x4CA8 [0x01] GOTO 0x4D2C
  20: 0x4CAB [0x02] IF !(LocalPlayer->Race == 6*) GOTO 0x4CD6
  21: 0x4CB3 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz0")
- 22: 0x4CC3 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="tma0")
+ 22: 0x4CC3 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="tma0")
  23: 0x4CD3 [0x01] GOTO 0x4D2C
  24: 0x4CD6 [0x02] IF !(LocalPlayer->Race == 7*) GOTO 0x4D01
  25: 0x4CDE [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=191*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz0")
- 26: 0x4CEE [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="mma0")
+ 26: 0x4CEE [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="mma0")
  27: 0x4CFE [0x01] GOTO 0x4D2C
  28: 0x4D01 [0x02] IF !(LocalPlayer->Race == 8*) GOTO 0x4D2C
  29: 0x4D09 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=201*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz0")
- 30: 0x4D19 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="gma0")
+ 30: 0x4D19 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="gma0")
  31: 0x4D29 [0x01] GOTO 0x4D2C
 
 SUBROUTINE_4D2C:
@@ -9426,26 +9426,26 @@ SUBROUTINE_4D2C:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 4D20:                                         02 87 7F               ...
 4D30: 94 80 80 58 4D 5F 04 0C  83 F0 FF FF 7F F0 FF FF  ...XM_..........
-4D40: 7F 6B 69 7A 31 5F 03 0D  83 3D 31 0F 01 3D 31 0F  .kiz1_...=1..=1.
+4D40: 7F 6B 69 7A 31 5F 03 0D  83 3E 31 0F 01 3E 31 0F  .kiz1_...>1..>1.
 4D50: 01 68 6D 6D 31 01 85 4E  02 87 7F A3 80 80 83 4D  .hmm1..N.......M
 4D60: 5F 04 0E 83 F0 FF FF 7F  F0 FF FF 7F 6B 69 7A 31  _...........kiz1
-4D70: 5F 03 0D 83 3D 31 0F 01  3D 31 0F 01 68 66 6D 31  _...=1..=1..hfm1
+4D70: 5F 03 0D 83 3E 31 0F 01  3E 31 0F 01 68 66 6D 31  _...>1..>1..hfm1
 4D80: 01 85 4E 02 87 7F 04 80  80 AE 4D 5F 04 DE 80 F0  ..N.......M_....
-4D90: FF FF 7F F0 FF FF 7F 6B  69 7A 31 5F 03 0D 83 3D  .......kiz1_...=
-4DA0: 31 0F 01 3D 31 0F 01 65  6D 6D 31 01 85 4E 02 87  1..=1..emm1..N..
+4D90: FF FF 7F F0 FF FF 7F 6B  69 7A 31 5F 03 0D 83 3E  .......kiz1_...>
+4DA0: 31 0F 01 3E 31 0F 01 65  6D 6D 31 01 85 4E 02 87  1..>1..emm1..N..
 4DB0: 7F FA 82 80 D9 4D 5F 04  0F 83 F0 FF FF 7F F0 FF  .....M_.........
-4DC0: FF 7F 6B 69 7A 31 5F 03  0D 83 3D 31 0F 01 3D 31  ..kiz1_...=1..=1
+4DC0: FF 7F 6B 69 7A 31 5F 03  0D 83 3E 31 0F 01 3E 31  ..kiz1_...>1..>1
 4DD0: 0F 01 65 66 6D 31 01 85  4E 02 87 7F D8 80 80 04  ..efm1..N.......
 4DE0: 4E 5F 04 10 83 F0 FF FF  7F F0 FF FF 7F 6B 69 7A  N_...........kiz
-4DF0: 31 5F 03 0D 83 3D 31 0F  01 3D 31 0F 01 74 6D 61  1_...=1..=1..tma
+4DF0: 31 5F 03 0D 83 3E 31 0F  01 3E 31 0F 01 74 6D 61  1_...>1..>1..tma
 4E00: 31 01 85 4E 02 87 7F 6D  82 80 2F 4E 5F 04 10 83  1..N...m../N_...
 4E10: F0 FF FF 7F F0 FF FF 7F  6B 69 7A 31 5F 03 0D 83  ........kiz1_...
-4E20: 3D 31 0F 01 3D 31 0F 01  74 6D 61 31 01 85 4E 02  =1..=1..tma1..N.
+4E20: 3E 31 0F 01 3E 31 0F 01  74 6D 61 31 01 85 4E 02  >1..>1..tma1..N.
 4E30: 87 7F 5B 81 80 5A 4E 5F  04 11 83 F0 FF FF 7F F0  ..[..ZN_........
-4E40: FF FF 7F 6B 69 7A 31 5F  03 0D 83 3D 31 0F 01 3D  ...kiz1_...=1..=
+4E40: FF FF 7F 6B 69 7A 31 5F  03 0D 83 3E 31 0F 01 3E  ...kiz1_...>1..>
 4E50: 31 0F 01 6D 6D 61 31 01  85 4E 02 87 7F 89 82 80  1..mma1..N......
 4E60: 85 4E 5F 04 58 81 F0 FF  FF 7F F0 FF FF 7F 6B 69  .N_.X.........ki
-4E70: 7A 31 5F 03 0D 83 3D 31  0F 01 3D 31 0F 01 67 6D  z1_...=1..=1..gm
+4E70: 7A 31 5F 03 0D 83 3E 31  0F 01 3E 31 0F 01 67 6D  z1_...>1..>1..gm
 4E80: 61 31 01 85 4E 00                                 a1..N.          
 ```
 
@@ -9454,35 +9454,35 @@ SUBROUTINE_4D2C:
 ```
   0: 0x4D2D [0x02] IF !(LocalPlayer->Race == 1*) GOTO 0x4D58
   1: 0x4D35 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=141*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz1")
-  2: 0x4D45 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="hmm1")
+  2: 0x4D45 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="hmm1")
   3: 0x4D55 [0x01] GOTO 0x4E85
   4: 0x4D58 [0x02] IF !(LocalPlayer->Race == 2*) GOTO 0x4D83
   5: 0x4D60 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=151*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz1")
-  6: 0x4D70 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="hfm1")
+  6: 0x4D70 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="hfm1")
   7: 0x4D80 [0x01] GOTO 0x4E85
   8: 0x4D83 [0x02] IF !(LocalPlayer->Race == 3*) GOTO 0x4DAE
   9: 0x4D8B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=161*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz1")
- 10: 0x4D9B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="emm1")
+ 10: 0x4D9B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="emm1")
  11: 0x4DAB [0x01] GOTO 0x4E85
  12: 0x4DAE [0x02] IF !(LocalPlayer->Race == 4*) GOTO 0x4DD9
  13: 0x4DB6 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=171*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz1")
- 14: 0x4DC6 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="efm1")
+ 14: 0x4DC6 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="efm1")
  15: 0x4DD6 [0x01] GOTO 0x4E85
  16: 0x4DD9 [0x02] IF !(LocalPlayer->Race == 5*) GOTO 0x4E04
  17: 0x4DE1 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz1")
- 18: 0x4DF1 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="tma1")
+ 18: 0x4DF1 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="tma1")
  19: 0x4E01 [0x01] GOTO 0x4E85
  20: 0x4E04 [0x02] IF !(LocalPlayer->Race == 6*) GOTO 0x4E2F
  21: 0x4E0C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz1")
- 22: 0x4E1C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="tma1")
+ 22: 0x4E1C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="tma1")
  23: 0x4E2C [0x01] GOTO 0x4E85
  24: 0x4E2F [0x02] IF !(LocalPlayer->Race == 7*) GOTO 0x4E5A
  25: 0x4E37 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=191*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz1")
- 26: 0x4E47 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="mma1")
+ 26: 0x4E47 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="mma1")
  27: 0x4E57 [0x01] GOTO 0x4E85
  28: 0x4E5A [0x02] IF !(LocalPlayer->Race == 8*) GOTO 0x4E85
  29: 0x4E62 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=201*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz1")
- 30: 0x4E72 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772861/0x010F313D), entity2=??? (ID: 17772861/0x010F313D), string="gma1")
+ 30: 0x4E72 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=??? (ID: 17772862/0x010F313E), entity2=??? (ID: 17772862/0x010F313E), string="gma1")
  31: 0x4E82 [0x01] GOTO 0x4E85
 
 SUBROUTINE_4E85:

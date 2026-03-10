@@ -23,20 +23,20 @@
 |       0 | 0x002A      |          42 |
 |       1 | 0x03FC      |        1020 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D03      |        7427 |
+|       3 | 0x1D04      |        7428 |
 |       4 | 0xFFFFFCF8  |  4294966520 |
-|       5 | 0x1D01      |        7425 |
-|       6 | 0x1D00      |        7424 |
-|       7 | 0x1D02      |        7426 |
-|       8 | 0x1D04      |        7428 |
+|       5 | 0x1D02      |        7426 |
+|       6 | 0x1D01      |        7425 |
+|       7 | 0x1D03      |        7427 |
+|       8 | 0x1D05      |        7429 |
 
 ## String References
 
-- **7424**: Your $7 breaks!
-- **7425**: You successfully harvest $0!
-- **7426**: You harvest $0, but your $7 breaks.
-- **7427**: You are unable to harvest anything.
-- **7428**: You cannot carry any more items. Your inventory is full.
+- **7425**: Your $7 breaks!
+- **7426**: You successfully harvest $0!
+- **7427**: You harvest $0, but your $7 breaks.
+- **7428**: You are unable to harvest anything.
+- **7429**: You cannot carry any more items. Your inventory is full.
 
 ## Events
 
@@ -93,27 +93,27 @@
   4: 0x0013 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0055
   5: 0x001B [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0041
   6: 0x0023 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0031
-  7: 0x002B [0x48] [System] [7427*]:
+  7: 0x002B [0x48] [System] [7428*]:
     → "You are unable to harvest anything."
   8: 0x002E [0x01] GOTO 0x003E
   9: 0x0031 [0x02] IF !(Work_Zone[2] == 4294966520*) GOTO 0x003B
  10: 0x0039 [0x21] END_EVENT
  11: 0x003A [0x00] END_REQSTACK()
- 12: 0x003B [0x48] [System] [7425*]:
+ 12: 0x003B [0x48] [System] [7426*]:
     → "You successfully harvest $0!"
 
 SUBROUTINE_003E:
  13: 0x003E [0x01] GOTO 0x0052
  14: 0x0041 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x004F
- 15: 0x0049 [0x48] [System] [7424*]:
+ 15: 0x0049 [0x48] [System] [7425*]:
     → "Your $7 breaks!"
  16: 0x004C [0x01] GOTO 0x0052
- 17: 0x004F [0x48] [System] [7426*]:
+ 17: 0x004F [0x48] [System] [7427*]:
     → "You harvest $0, but your $7 breaks."
 
 SUBROUTINE_0052:
  18: 0x0052 [0x01] GOTO 0x0058
- 19: 0x0055 [0x48] [System] [7428*]:
+ 19: 0x0055 [0x48] [System] [7429*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_0058:

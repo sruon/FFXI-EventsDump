@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2289      |        8841 |
-|       3 | 0x228A      |        8842 |
+|       2 | 0x228A      |        8842 |
+|       3 | 0x228B      |        8843 |
 
 ## String References
 
-- **8841**: My daughter's in the School of Magic. She spends her days working hard at her studies there.
-- **8842**: Does she realize her daddy-waddy is here on this hill every day worrying about her? Is she eating her lunchy-wunchy properly? Is she being teased by the class bully-wully?
+- **8842**: My daughter's in the School of Magic. She spends her days working hard at her studies there.
+- **8843**: Does she realize her daddy-waddy is here on this hill every day worrying about her? Is she eating her lunchy-wunchy properly? Is she being teased by the class bully-wully?
 
 ## Events
 
@@ -157,10 +157,10 @@
   2: 0x003B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x003D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shataru-Potaru (ID: 17752187/0x010EE07B), tag_num=0x01)
-  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8841*)
+  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8842*)
     → "My daughter's in the School of Magic. She spends her days working hard at her studies there."
   6: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8842*)
+  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8843*)
     → "Does she realize her daddy-waddy is here on this hill every day worrying about her? Is she eating her lunchy-wunchy properly? Is she being teased by the class bully-wully?"
   8: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x004C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shataru-Potaru (ID: 17752187/0x010EE07B), tag_num=0x02)

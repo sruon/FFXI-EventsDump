@@ -35,15 +35,15 @@
 |       6 | 0xFFFF5C6A  |  4294925418 |
 |       7 | 0xFFFF67E3  |  4294928355 |
 |       8 | 0x0014      |          20 |
-|       9 | 0x1EDF      |        7903 |
+|       9 | 0x1EE0      |        7904 |
 |      10 | 0x001E      |          30 |
-|      11 | 0x1EE0      |        7904 |
+|      11 | 0x1EE1      |        7905 |
 |      12 | 0x003C      |          60 |
 
 ## String References
 
-- **7903**: It seems everyone is worried about the Orcs these days. Something's going on, that's for certain!
-- **7904**: It's about time we marched on their camps, I say. We've put up with those Orcs long enough! We Elvaan must put them back in their place.
+- **7904**: It seems everyone is worried about the Orcs these days. Something's going on, that's for certain!
+- **7905**: It's about time we marched on their camps, I say. We've put up with those Orcs long enough! We Elvaan must put them back in their place.
 
 ## Events
 
@@ -224,11 +224,11 @@
   1: 0x008F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0090 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0091 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
+  4: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
     → "It seems everyone is worried about the Orcs these days. Something's going on, that's for certain!"
   5: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A4 [0x1C] WAIT(30* ticks)
-  7: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
+  7: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
     → "It's about time we marched on their camps, I say. We've put up with those Orcs long enough! We Elvaan must put them back in their place."
   8: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00AB [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

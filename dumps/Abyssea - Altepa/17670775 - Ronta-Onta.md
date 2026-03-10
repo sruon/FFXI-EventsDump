@@ -20,14 +20,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x206A      |        8298 |
+|       0 | 0x206B      |        8299 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x206B      |        8299 |
+|       2 | 0x206C      |        8300 |
 
 ## String References
 
-- **8298**: Owzie-wowzie! Don't make me talk. I hurt all over!
-- **8299**: Still, I'm glad to see you alive and kicking-wicking. Have you heard about my friend? I do hope he's okay too...
+- **8299**: Owzie-wowzie! Don't make me talk. I hurt all over!
+- **8300**: Still, I'm glad to see you alive and kicking-wicking. Have you heard about my friend? I do hope he's okay too...
 
 ## Events
 
@@ -73,12 +73,12 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8299*)
     → "Owzie-wowzie! Don't make me talk. I hurt all over!"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x000A [0x1C] WAIT(20* ticks)
-  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8299*)
+  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8300*)
     → "Still, I'm glad to see you alive and kicking-wicking. Have you heard about my friend? I do hope he's okay too..."
   5: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0011 [0x21] END_EVENT

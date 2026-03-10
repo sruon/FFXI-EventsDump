@@ -21,23 +21,23 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1ED7      |        7895 |
+|       0 | 0x1ED8      |        7896 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x1EE3      |        7907 |
-|       3 | 0x1EE4      |        7908 |
-|       4 | 0x1EE5      |        7909 |
+|       2 | 0x1EE4      |        7908 |
+|       3 | 0x1EE5      |        7909 |
+|       4 | 0x1EE6      |        7910 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x1EE6      |        7910 |
-|       7 | 0x1EE7      |        7911 |
+|       6 | 0x1EE7      |        7911 |
+|       7 | 0x1EE8      |        7912 |
 |       8 | 0x0028      |          40 |
-|       9 | 0x1EE8      |        7912 |
-|      10 | 0x1EE9      |        7913 |
+|       9 | 0x1EE9      |        7913 |
+|      10 | 0x1EEA      |        7914 |
 |      11 | 0x0032      |          50 |
-|      12 | 0x1EEA      |        7914 |
-|      13 | 0x1EEB      |        7915 |
+|      12 | 0x1EEB      |        7915 |
+|      13 | 0x1EEC      |        7916 |
 |      14 | 0x004B      |          75 |
-|      15 | 0x1EEC      |        7916 |
-|      16 | 0x1EED      |        7917 |
+|      15 | 0x1EED      |        7917 |
+|      16 | 0x1EEE      |        7918 |
 |      17 | 0x0000      |           0 |
 |      18 | 0x0003      |           3 |
 |      19 | 0x0004      |           4 |
@@ -495,18 +495,18 @@
 - **7374**: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.
 - **7375**: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.
 - **7378**: I am Jeunoan Ducal Guard, %. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.
-- **7895**: What!? A surprise attack by the beastmen!? And today, of all days...
-- **7907**: In a few moments, a new batch of legionary recruits will be enlisted to the Republican Army and dispatched here to the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
-- **7908**: However, within their ranks are future scientists and craftsmen. Their deaths would be a great loss for the future of our nation.
-- **7909**: We must ensure their safety, but we also must be careful not to prevent them from fulfilling their duties. The Republic is counting on your assistance!
-- **7910**: In a matter of minutes, a group of mariners will be arriving at our outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] for self-defense training.
-- **7911**: We must provide them with battle experience, but we also must ensure their safety. The Republic is counting on your assistance!
-- **7912**: My sources indicate that a party of Gold Musketeers carrying supplies is approaching the outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
-- **7913**: These soldiers are the best of the best, and more than likely will not require any assistance in the event of an attack. However, if anything were to happen to them...
-- **7914**: Later today, a group of high-ranking officials from Strategic Command will be arriving here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to prepare for Bastok's next campaign against the beastmen.
-- **7915**: If anything were to happen to the commanders, you and I would both be court-martialed! The Republic is counting on your assistance!
-- **7916**: I have just received word that a group of ambassadors from the Federation of Windurst is en route to this outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to observe what measures Bastok has undertaken to maintain stability in the regions under Republican control.
-- **7917**: If the attach<Player>is were to be injured on this occasion, the damage suffered to our nations' relationship would be irreparable. The Republic is counting on your assistance!
+- **7896**: What!? A surprise attack by the beastmen!? And today, of all days...
+- **7908**: In a few moments, a new batch of legionary recruits will be enlisted to the Republican Army and dispatched here to the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
+- **7909**: However, within their ranks are future scientists and craftsmen. Their deaths would be a great loss for the future of our nation.
+- **7910**: We must ensure their safety, but we also must be careful not to prevent them from fulfilling their duties. The Republic is counting on your assistance!
+- **7911**: In a matter of minutes, a group of mariners will be arriving at our outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] for self-defense training.
+- **7912**: We must provide them with battle experience, but we also must ensure their safety. The Republic is counting on your assistance!
+- **7913**: My sources indicate that a party of Gold Musketeers carrying supplies is approaching the outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
+- **7914**: These soldiers are the best of the best, and more than likely will not require any assistance in the event of an attack. However, if anything were to happen to them...
+- **7915**: Later today, a group of high-ranking officials from Strategic Command will be arriving here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to prepare for Bastok's next campaign against the beastmen.
+- **7916**: If anything were to happen to the commanders, you and I would both be court-martialed! The Republic is counting on your assistance!
+- **7917**: I have just received word that a group of ambassadors from the Federation of Windurst is en route to this outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to observe what measures Bastok has undertaken to maintain stability in the regions under Republican control.
+- **7918**: If the attach<Player>is were to be injured on this occasion, the damage suffered to our nations' relationship would be irreparable. The Republic is counting on your assistance!
 
 ## Events
 
@@ -1435,49 +1435,49 @@
 ```
   0: 0x0005 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0006 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
     → "What!? A surprise attack by the beastmen!? And today, of all days..."
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000F [0x02] IF !(Work_Zone[5] == 20*) GOTO 0x0026
-  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
+  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
     → "In a few moments, a new batch of legionary recruits will be enlisted to the Republican Army and dispatched here to the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands]."
   6: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
+  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
     → "However, within their ranks are future scientists and craftsmen. Their deaths would be a great loss for the future of our nation."
   8: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
+  9: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
     → "We must ensure their safety, but we also must be careful not to prevent them from fulfilling their duties. The Republic is counting on your assistance!"
  10: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0023 [0x01] GOTO 0x0072
  12: 0x0026 [0x02] IF !(Work_Zone[5] == 30*) GOTO 0x0039
- 13: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+ 13: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "In a matter of minutes, a group of mariners will be arriving at our outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] for self-defense training."
  14: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+ 15: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "We must provide them with battle experience, but we also must ensure their safety. The Republic is counting on your assistance!"
  16: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0036 [0x01] GOTO 0x0072
  18: 0x0039 [0x02] IF !(Work_Zone[5] == 40*) GOTO 0x004C
- 19: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+ 19: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "My sources indicate that a party of Gold Musketeers carrying supplies is approaching the outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands]."
  20: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+ 21: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "These soldiers are the best of the best, and more than likely will not require any assistance in the event of an attack. However, if anything were to happen to them..."
  22: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0049 [0x01] GOTO 0x0072
  24: 0x004C [0x02] IF !(Work_Zone[5] == 50*) GOTO 0x005F
- 25: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+ 25: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "Later today, a group of high-ranking officials from Strategic Command will be arriving here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to prepare for Bastok's next campaign against the beastmen."
  26: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+ 27: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "If anything were to happen to the commanders, you and I would both be court-martialed! The Republic is counting on your assistance!"
  28: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x005C [0x01] GOTO 0x0072
  30: 0x005F [0x02] IF !(Work_Zone[5] == 75*) GOTO 0x0072
- 31: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
+ 31: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
     → "I have just received word that a group of ambassadors from the Federation of Windurst is en route to this outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to observe what measures Bastok has undertaken to maintain stability in the regions under Republican control."
  32: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
+ 33: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
     → "If the attach<Player>is were to be injured on this occasion, the damage suffered to our nations' relationship would be irreparable. The Republic is counting on your assistance!"
  34: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x006F [0x01] GOTO 0x0072

@@ -23,13 +23,13 @@
 |       0 | 0x0090      |         144 |
 |       1 | 0x003C      |          60 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1255      |        4693 |
-|       4 | 0x1254      |        4692 |
+|       3 | 0x1256      |        4694 |
+|       4 | 0x1255      |        4693 |
 
 ## String References
 
-- **4692**: The ship bound for Nashmau will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
-- **4693**: The ship bound for Nashmau is now [arriving/departing].
+- **4693**: The ship bound for Nashmau will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+- **4694**: The ship bound for Nashmau is now [arriving/departing].
 
 ## Events
 
@@ -81,11 +81,11 @@
   2: 0x000B [0x15] Work_Zone[4] /= 144*
   3: 0x0010 [0x15] Work_Zone[2] /= 60*
   4: 0x0015 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0024
-  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=4693*)
+  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=4694*)
     → "The ship bound for Nashmau is now [arriving/departing]."
   6: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0021 [0x01] GOTO 0x0028
-  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=4692*)
+  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=4693*)
     → "The ship bound for Nashmau will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time)."
   9: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

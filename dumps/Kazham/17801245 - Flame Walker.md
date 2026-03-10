@@ -23,8 +23,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x270C      |        9996 |
-|       1 | 0x270D      |        9997 |
+|       0 | 0x270D      |        9997 |
+|       1 | 0x270E      |        9998 |
 |       2 | 0xFFFFB472  |  4294947954 |
 |       3 | 0xFFFFCF2F  |  4294954799 |
 |       4 | 0xFFFFF061  |  4294963297 |
@@ -32,8 +32,8 @@
 
 ## String References
 
-- **9996**: You want to enter Kazham? Look at the sign, buddy. This is the departures gate. The arrivals gate is on the other side.
-- **9997**: Pay your boarding fee to Bhoyu Halpatacco at the counter there.
+- **9997**: You want to enter Kazham? Look at the sign, buddy. This is the departures gate. The arrivals gate is on the other side.
+- **9998**: Pay your boarding fee to Bhoyu Halpatacco at the counter there.
 
 ## Events
 
@@ -81,7 +81,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9996*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9997*)
     → "You want to enter Kazham? Look at the sign, buddy. This is the departures gate. The arrivals gate is on the other side."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -111,7 +111,7 @@
   0: 0x0010 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0015 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0016 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9997*)
+  3: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9998*)
     → "Pay your boarding fee to Bhoyu Halpatacco at the counter there."
   4: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

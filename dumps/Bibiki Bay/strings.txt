@@ -1,5 +1,5 @@
 # Strings for Bibiki Bay
-# Total: 8683 strings
+# Total: 8684 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7385,1302 +7385,1303 @@
  7381: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7382: You receive $0 bayld!
  7383: Your chocobo refuses to partake of the $0.
- 7384: <Clunk-clunk>...
- 7385: A piece of paper slips out from the warmachine and flutters to the ground.
- 7386: mes1
- 7387: <Clunk-clunk>...
- 7388: The machine has noticed something behind you...
- 7389: <Clunk-clunk>... <Whirl-whizz>...!
- 7390: So, <Player>. You came even after I specifically requested that you entrust this matter to me.
- 7391: I suppose it is your prerogative as an adventurer to poke your nose into other people's business...
- 7392: However, you really are too forgiving.
- 7393: Those who find enjoyment in the humiliation of others need to feel the sting of regret for their actions.
- 7394: Look at what you've done to my warmachine! After all I went through to get my hands on one...
- 7395: You're so mean!
- 7396: You're so terrible!
- 7397: You're so ugly!
- 7398: You waste your time speaking through these mandragoras.
- 7399: Are you listening, Vukki-Chebukki!?
- 7400: I am Louverance N Mistalle, representative of the San d'Orian Cathedral! Show yourself immediately!
- 7401: Well, well. I never really believed you met your end in San d'Oria...
- 7402: I could never forget the cuts of that blade. You won't fool me.
- 7403: Throw down your sword.
- 7404: One false move and that bird'll be on a direct flight to the Chateau d'Oraguille. It carries a note for the Royal Knights--one that informs them of your survival.
- 7405: Ha! Still prepared for the worst, as always. Your cowardice has worsened with age.
- 7406: But perhaps you didn't hear me clearly. I am Louverance N Mistalle.
- 7407: Even with the assassination of Francmage, the family of Mistalle still retains honor among the knightly orders.
- 7408: With that family name at my disposal, your trivial note will amount to nothing. I tire of your games, Vukki-Chebukki.
- 7409: Why would the scion of such a noble marquis family act in this way?
- 7410: Did you argue that honor alone will not fill a hungry belly?
- 7411: That is the kind of reasoning I would expect from a Tarutaru with no understanding of the term "honor."
- 7412: It is the complete opposite. I have chosen to use my influence to see that justice is done.
- 7413: To see justice done?
- 7414: Your notion of justice should have been erased years ago, along with the destruction of Tavnazia...
- 7415: It is true that even now, twenty years after the war, the ruins of the Marquisate still crawl with the remnants of the beastman army.
- 7416: However, the wards erected around the Sacrarium by Cardinal Mildaurion sheltered the underground delivery tunnels from invasion...
- 7417: I have discovered that the safehold built within those tunnels harbors the refugees of Tavnazia.
- 7418: Refugees? Are you certain!?
- 7419: If you had not chosen to waste your time here lamenting the past, this revelation would have reached you as well.
- 7420: The refugees of Tavnazia have already presented their plight to Jeuno and asked for a member of the government to visit Tavnazia.
- 7421: Jeuno...?
- 7422: A government official immediately entered the safehold under this pretense of aid.
- 7423: Without the knowledge of the Tavnazian survivors, he proceeded to rifle through the contents of the Sacrarium.
- 7424: Huh. But this is great news. At least the inhabitants of the Marquisate weren't completely obliterated.
- 7425: Those trinkets of the past have no use for anyone. Jeuno can take anything they want if the refugees are to be saved.
- 7426: But can it truly be said that the people of Tavnazia will be rescued?
- 7427: You lost a wife and children in that war. Everyone who survived that travesty lost something or someone dear to them. Their spirits have suffered a terrible blow...
- 7428: They have spent years cowering from the shadows of horrors that lurk beyond the walls of the safehold.
- 7429: And those responsible for the current state of the Marquisate have all but forgotten its existence, living in blissful ignorance.
- 7430: ...
- 7431: These very same villains are soon to be the recipients of tears of gratitude from the very people they condemned to misery.
- 7432: Do you mean to simply stand by and watch this injustice unfold, even though the truth weeps silently in your heart?
- 7433: What else would you have me do!? Surely you don't intend to tell them what really happened...!?
- 7434: Yes. That is exactly what I propose. I will shed light upon the dark purpose of the allied army, hidden behind the confusion of the Great War.
- 7435: I will also call for assistance in the restoration of the nation of Tavnazia.
- 7436: Wh-what!?
- 7437: You can't possibly do this alone!
- 7438: Hahaha... It is the realization of that very fact that prompted my return.
- 7439: I already control the successor to the Tavnazian Marquisate. Preparations to receive funds and troops from a certain wealthy family are also well underway.
- 7440: This wealthy family is willing to pour its resources into recovering the knowledge and relics that have been collected over the years by the Tavnazian Cathedral.
- 7441: However, these relics have all been taken by Cardinal Mildaurion, and her present whereabouts are unknown...
- 7442: That is why I have come to request information from you.
- 7443: I wish to visit the source of this bounty. I need to know the way to the city of Al'Taieu.
- 7444: Along with several others, you were on a secret mission from the cathedral to find the path to the celestial capital, were you not?
- 7445: Th-that may be so! But we were never able to discover a way to Al'Taieu!
- 7446: Then why, my little friend, did the Tavnazian Cathedral call upon me to silence you?
- 7447: You must have discovered something.
- 7448: Now choose! Will you keep your silence, or keep your life!?
- 7449: Wait, wait! I'll tell you!
- 7450: We discovered that the way to Al'Taieu opens once every one hundred years. That's all we found, I swear!
- 7451: Once in a hundred years...?
- 7452: That's everything I know. Time for me to leave!
- 7453: !?
- 7454: My, my. He does move fast for such a diminutive chap. Never mind, I have the information I came for.
- 7455: The stone statue I saw in the Mimeo Mirror is the statue of Promathia--the one kept in the reliquiarium of the Tavnazian Cathedral.
- 7456: Could this statue also be a relic from Al'Taieu? Which would mean that the professor from Windurst...
- 7457: There is nothing out of the ordinary here.
- 7458: It was a trap!
- 7459: You are not alone!
- 7460: There is nothing out of the ordinary here.
- 7461: You can hear a strange voice... "Items, items, la la la la la`t"
- 7462: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7463: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7464: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7465: Now, listen close...
- 7466: Oh... Well, if that's the case, I'm outta here.
- 7467: The Goblin slipped away when you were not looking...
- 7468: You can hear a strange, raspy voice...
- 7469: I travel......hear lots... Hear...stories... Can tell...if...
- 7470: .........listen......
- 7471: Oh...... ...outta here.........
- 7472: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7473: What story would you like to be told? [On second thought, maybe later./Partners Without Fame(pt.1)./One Good Deed?/The Search for Goldmane(pt.1)./The Search for Goldmane(pt.2)./Calm Before the Storm./A Meteoric Reunion.]
- 7474: 
+ 7384: Your wing skill improved to $0!
+ 7385: <Clunk-clunk>...
+ 7386: A piece of paper slips out from the warmachine and flutters to the ground.
+ 7387: mes1
+ 7388: <Clunk-clunk>...
+ 7389: The machine has noticed something behind you...
+ 7390: <Clunk-clunk>... <Whirl-whizz>...!
+ 7391: So, <Player>. You came even after I specifically requested that you entrust this matter to me.
+ 7392: I suppose it is your prerogative as an adventurer to poke your nose into other people's business...
+ 7393: However, you really are too forgiving.
+ 7394: Those who find enjoyment in the humiliation of others need to feel the sting of regret for their actions.
+ 7395: Look at what you've done to my warmachine! After all I went through to get my hands on one...
+ 7396: You're so mean!
+ 7397: You're so terrible!
+ 7398: You're so ugly!
+ 7399: You waste your time speaking through these mandragoras.
+ 7400: Are you listening, Vukki-Chebukki!?
+ 7401: I am Louverance N Mistalle, representative of the San d'Orian Cathedral! Show yourself immediately!
+ 7402: Well, well. I never really believed you met your end in San d'Oria...
+ 7403: I could never forget the cuts of that blade. You won't fool me.
+ 7404: Throw down your sword.
+ 7405: One false move and that bird'll be on a direct flight to the Chateau d'Oraguille. It carries a note for the Royal Knights--one that informs them of your survival.
+ 7406: Ha! Still prepared for the worst, as always. Your cowardice has worsened with age.
+ 7407: But perhaps you didn't hear me clearly. I am Louverance N Mistalle.
+ 7408: Even with the assassination of Francmage, the family of Mistalle still retains honor among the knightly orders.
+ 7409: With that family name at my disposal, your trivial note will amount to nothing. I tire of your games, Vukki-Chebukki.
+ 7410: Why would the scion of such a noble marquis family act in this way?
+ 7411: Did you argue that honor alone will not fill a hungry belly?
+ 7412: That is the kind of reasoning I would expect from a Tarutaru with no understanding of the term "honor."
+ 7413: It is the complete opposite. I have chosen to use my influence to see that justice is done.
+ 7414: To see justice done?
+ 7415: Your notion of justice should have been erased years ago, along with the destruction of Tavnazia...
+ 7416: It is true that even now, twenty years after the war, the ruins of the Marquisate still crawl with the remnants of the beastman army.
+ 7417: However, the wards erected around the Sacrarium by Cardinal Mildaurion sheltered the underground delivery tunnels from invasion...
+ 7418: I have discovered that the safehold built within those tunnels harbors the refugees of Tavnazia.
+ 7419: Refugees? Are you certain!?
+ 7420: If you had not chosen to waste your time here lamenting the past, this revelation would have reached you as well.
+ 7421: The refugees of Tavnazia have already presented their plight to Jeuno and asked for a member of the government to visit Tavnazia.
+ 7422: Jeuno...?
+ 7423: A government official immediately entered the safehold under this pretense of aid.
+ 7424: Without the knowledge of the Tavnazian survivors, he proceeded to rifle through the contents of the Sacrarium.
+ 7425: Huh. But this is great news. At least the inhabitants of the Marquisate weren't completely obliterated.
+ 7426: Those trinkets of the past have no use for anyone. Jeuno can take anything they want if the refugees are to be saved.
+ 7427: But can it truly be said that the people of Tavnazia will be rescued?
+ 7428: You lost a wife and children in that war. Everyone who survived that travesty lost something or someone dear to them. Their spirits have suffered a terrible blow...
+ 7429: They have spent years cowering from the shadows of horrors that lurk beyond the walls of the safehold.
+ 7430: And those responsible for the current state of the Marquisate have all but forgotten its existence, living in blissful ignorance.
+ 7431: ...
+ 7432: These very same villains are soon to be the recipients of tears of gratitude from the very people they condemned to misery.
+ 7433: Do you mean to simply stand by and watch this injustice unfold, even though the truth weeps silently in your heart?
+ 7434: What else would you have me do!? Surely you don't intend to tell them what really happened...!?
+ 7435: Yes. That is exactly what I propose. I will shed light upon the dark purpose of the allied army, hidden behind the confusion of the Great War.
+ 7436: I will also call for assistance in the restoration of the nation of Tavnazia.
+ 7437: Wh-what!?
+ 7438: You can't possibly do this alone!
+ 7439: Hahaha... It is the realization of that very fact that prompted my return.
+ 7440: I already control the successor to the Tavnazian Marquisate. Preparations to receive funds and troops from a certain wealthy family are also well underway.
+ 7441: This wealthy family is willing to pour its resources into recovering the knowledge and relics that have been collected over the years by the Tavnazian Cathedral.
+ 7442: However, these relics have all been taken by Cardinal Mildaurion, and her present whereabouts are unknown...
+ 7443: That is why I have come to request information from you.
+ 7444: I wish to visit the source of this bounty. I need to know the way to the city of Al'Taieu.
+ 7445: Along with several others, you were on a secret mission from the cathedral to find the path to the celestial capital, were you not?
+ 7446: Th-that may be so! But we were never able to discover a way to Al'Taieu!
+ 7447: Then why, my little friend, did the Tavnazian Cathedral call upon me to silence you?
+ 7448: You must have discovered something.
+ 7449: Now choose! Will you keep your silence, or keep your life!?
+ 7450: Wait, wait! I'll tell you!
+ 7451: We discovered that the way to Al'Taieu opens once every one hundred years. That's all we found, I swear!
+ 7452: Once in a hundred years...?
+ 7453: That's everything I know. Time for me to leave!
+ 7454: !?
+ 7455: My, my. He does move fast for such a diminutive chap. Never mind, I have the information I came for.
+ 7456: The stone statue I saw in the Mimeo Mirror is the statue of Promathia--the one kept in the reliquiarium of the Tavnazian Cathedral.
+ 7457: Could this statue also be a relic from Al'Taieu? Which would mean that the professor from Windurst...
+ 7458: There is nothing out of the ordinary here.
+ 7459: It was a trap!
+ 7460: You are not alone!
+ 7461: There is nothing out of the ordinary here.
+ 7462: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7463: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7464: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7465: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7466: Now, listen close...
+ 7467: Oh... Well, if that's the case, I'm outta here.
+ 7468: The Goblin slipped away when you were not looking...
+ 7469: You can hear a strange, raspy voice...
+ 7470: I travel......hear lots... Hear...stories... Can tell...if...
+ 7471: .........listen......
+ 7472: Oh...... ...outta here.........
+ 7473: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7474: What story would you like to be told? [On second thought, maybe later./Partners Without Fame(pt.1)./One Good Deed?/The Search for Goldmane(pt.1)./The Search for Goldmane(pt.2)./Calm Before the Storm./A Meteoric Reunion.]
  7475: 
  7476: 
- 7477: Welcome to Sunset Docks!
- 7478: Enjoy a sightseeing tour of Bibiki Bay, an initiative of the Fishermen's Guild!
- 7479: How may I help you?
- 7480: What do you want to do? [Nothing in particular./Buy a ticket./Ask about the tours.]
- 7481: Tickets for the manaclipper are $2 gil.
- 7482: Buy a ticket? [Yes./No.]
- 7483: Thank you, [sir/ma'am]! Have a wonderrrful trip!
- 7484: I'm sorry, [sir/ma'am]. You don't have enough gil to purrrchase a ticket.
- 7485: Tickets are limited to one per passenger. You have already purrrchased a ticket, [sir/ma'am].
- 7486: Which tour do you wish to have explained?
- 7487: Choose a tour: [Dhalmel Rock tour./Maliyakaleya Reef tour./Purgonorgo Isle tour.]
- 7488: The Dhalmel Rrrock tour takes a gentle, southerly course along the western coastline.
- 7489: You can see the majestic pillars of rrrock towering above the surf, and watch the waves crrrash against Washboard Wake while enjoying the refrrreshing sea breeze.
- 7490: The manaclipper turns to pass through the legs of Dhalmel Rrrock before making its way back to Sunset Docks. This is the most rrrelaxing of the tours.
- 7491: This tour takes you on an easterly course past the menacing Seawolf Swirrrl as it rounds the cape of Mhaura.
- 7492: The stunning Maliyakaleya Reef is the highlight of the trip, home to a menagerrrie of colorful sea life to tempt your fishing line.
- 7493: After passing through the rrreef, the manaclipper makes its way back to Sunset Docks to complete this brrreathtakingly beautiful tour.
- 7494: The manaclipper leaves here from Sunset Docks on a southeasterly course.
- 7495: This tour provides a safe and pleasant rrride to the tropical paradise of Purgonorgo Isle.
- 7496: Manaclippers arrive rrregularly to ferry passengers back to Sunset Docks, so there's no need to worry about time. Sit back, rrrelax, and enjoy a long, lazy stay on this beautiful island.
- 7497: Is there anything else I can help you with?
- 7498: The manaclipper has arrived. Please purrrchase a ticket prior to boarding.
- 7499: The manaclipper is about to depart. Please prrresent your ticket for collection.
- 7500: If you wish to board the manaclipper, please purrrchase a ticket from the vendor by the docks.
- 7501: You were refused passage for failing to present $6!
- 7502: The manaclipper has arrived.
- 7503: The manaclipper is about to depart.
- 7504: Tickets for the manaclipper are $2 gil. Multi-tickets, which allow you to rrride ten times, can be purrrchased for a mere $5 gil.
- 7505: Which would you like? [6 ($2 gil)./$6 ($5 gil)./Nothing today.]
- 7506: You cannot buy morrre than one $3. Use the one you have now to ride the next ship.
- 7507: Your $3 is valid for $4 more [trip/trips].
- 7508: You do not need to purrrchase a new ticket at this time.
- 7509: If you want, you can purrrchase a new one for $5 gil.
- 7510: Purrrchase a new multi-ticket? [Yes ($5 gil)./No.]
- 7511: You use your $3. ($2 trip[/s] remaining)
- 7512: You use up your $3.
- 7513: $1 ticket[/s] [was/were] added to your $3.
- 7514: Earn a fortune working on a lazy trrropical island.t
- 7515: ...Or at least that's what the brrrochure said.
- 7516: All I do is lug heavy boxes around all day, and get ignored by tourrrists.
- 7517: Goldmane? I've never heard that name, but there's a blonde Elvaan who's always hanging arrround the boat on the west side of the island.
- 7518: You know, a Hume girl and her moogle friend just asked me the same question. Must be some new tourrrist attrrraction...
- 7519: There is a boat washed up on the shore...
- 7520: You suddenly find yourself fighting for your life!
- 7521: You see no sign of anyone around...
- 7522: What have you done to Sanctia, kupopo!
- 7523: Only death awaits those who come in search of Goldmane.
- 7524: Another uninvited guest? Much blood will stain the sands this day...
- 7525: Oh, thank the Great Moogle! You defeated that horrible man, kupopo!
- 7526: But where did the villain disappear to? Did he flee from you, kupopo?
- 7527: I guess we're safe, then! A weird-looking Tarutaru helped Sanctia up, and carried her over there, kupopo!
- 7528: I don't have any medicine to treat her wounds. You wouldn't happen to have any, would you, kupopo?
- 7529: Sanctia! <Player> was carrying medicine for your injuries. It was in the package that your father sent, kupopo!
- 7530: The package from my father...?
- 7531: Urrr... I've made a mess of everything. Please forgive me for all this trouble, <Player>.
- 7532: Are you feeling okay, kupopo?
- 7533: Much better now, thanks.
- 7534: Wow, that Goldmane is ready for anything... I guess he has been hiding here for twenty years.
- 7535: But next time, I'm gonna make him listen to what I have to say...
- 7536: You're not seriously thinking of going back there!? That bounty hunter goes too far, kupopo!
- 7537: Anyone who would be this vicious to a defenseless girl is just cold-hearted and...
- 7538: Mean!
- 7539: Terrible!
- 7540: Ugly!
- 7541: Exactly! You don't need to learn anything from someone like that, kupopo!
- 7542: My plan is set. I will become the best apprentice Goldmane ever had, and together we'll collect the bounties on the last members of Atarefaunet's Band!
- 7543: If that's your goal, then you've already achieved it.
- 7544: Huh?
- 7545: Didn't you know? The man you just defeated was a member of Atarefaunet's Band.
- 7546: He was...?
- 7547: He's gone for good, kupopo!?
- 7548: That blonde Elvaan was a brutal killer called Rohemolipaud.
- 7549: Looks like Atarefaunet's Band has finally found me. Rohemolipaud was probably watching to see I didn't leave the island.
- 7550: Which would mean...
- 7551: You're the legendary Goldmane!?
- 7552: But wait a minute! This Tarutaru doesn't look anything like a "Goldmane" to me, kupopo!
- 7553: Maybe the sea breeze has softened him up a little...?
- 7554: Who are you calling soft!? My nickname comes from the golden down on the neck of my old chocobo, Silver Comet.
- 7555: You see, when I jumped into the saddle you couldn't see me for the feathers...
- 7556: I'm still not convinced, kupopo.
- 7557: That's beside the point! I've given up the bounty hunter business. You've taken out the bad guy and it's time for you to leave.
- 7558: Wait! You have to make me your appre--ow, ow, ow...
- 7559: Take it easy. The wound has not fully healed yet.
- 7560: And if you're thinking of becoming a bounty hunter, you better get used to scratches like that. Usually, the injuries are much worse...
- 7561: You could end up losing your family, like I did.
- 7562: Are these your children in this picture?
- 7563: Where did you get that!?
- 7564: My beautiful kids... My lovely wife...
- 7565: Twenty years ago when Tavnazia was shrouded in the smoke and flames of war, I was chasing after Atarefaunet with my partner, Ismenios.
- 7566: All that chaos and confusion provided the perfect chance to catch him off guard.
- 7567: If I had been thinking straight, I would have realized that my wife and our three small children had no way to escape the battlefield our homeland had become.
- 7568: I was heaped with praise for the capture of Atarefaunet, and enough gil to buy this entire island. But the cost was too great.
- 7569: You have a loving family that cared enough to send you medicine and a personal bodyguard. You don't want to become a despicable mercenary bounty hunter.
- 7570: Try taking the path of the adventurer. Live for the sake of others, and the rewards that accompany their gratitude will eventually bring you both material and spiritual wealth.
- 7571: Let me get you started. Here's a reward for protecting me from one of the members of Atarefaunet's Band.
- 7572: I've never seen a weapon like this before...or so much money!
- 7573: Make sure you share that with <Player>!
- 7574: Even half that amount will go a long way to paying back your father's loans, kupopo!
- 7575: Okay, I guess <Player> deserves it.
- 7576: Thank y--hey! He's gone!
- 7577: He's awfully fast for such a little fellow, kupopo...
- 7578: Oh well. I guess I don't have what it takes to become a bounty hunter.
- 7579: So you've finally given up on that crazy idea, kupopo?
- 7580: Yep! I'm gonna be an adventurer instead! <Player>, you have to make me your apprentice!
- 7581: Kupopo!?
- 7582: Accept Sanctia as your apprentice? [I could use an extra hand./You've got to be kidding me...]
- 7583: Yay! Thank you, <Player>!
- 7584: As my teacher, you should head back to Rabao and let Zoriboh and my father know that you're gonna take care of me. Oh, and please take this money with you.
- 7585: Me and my moogle are off to find high adventure!
- 7586: You're no fun!
- 7587: Fine, please go back and give Zoriboh and my father a message:
- 7588: I'm making this moogle my teacher and heading off to find high adventure!
- 7589: What did I do to deserve this, kupopo?
- 7590: Sanctia! Wait for me, kupopo!
- 7591: This time I let you walk away with your miserable life...
- 7592: You dispatched that creature for me? Not what you expected to find, I'd imagine.
- 7593: It slithered up while I was looking for ore, but I let it get away from me.
- 7594: I'm not physiologically predisposed to dealing with squishy, slimy things like that. I'm glad you came along...
- 7595: Hm? Cid has called us back from material hunting?
- 7596: So, the battle with the Keeper of the Apocalypse is nigh.
- 7597: No mention is made of the Twilight God in Mithran legend.
- 7598: Is our enemy so dreadful that his name was withheld from the history books? Or is it because...?
- 7599: Well, well! You sound defeated before you've even begun, kitten pie.
- 7600: Yeah, buck up, Sis! I've been honing my skills to perrrfection. With the thrrree of us together, the keeper won't stand a chance!
- 7601: Shikaree Y. Shikaree X.
- 7602: I can't allow you to accompany me.
- 7603: Huh!?
- 7604: What do you mean, sugar?
- 7605: We traveled to this continent with three distinct objectives:
- 7606: The subduing of the wyrms that threaten the world with destruction; to learn more of the sleeping gods--they who hold the power to obliterate the Emptiness; to discover the location of Mildaurion--she who knows the method for waking those deities.
- 7607: But I have learned this on our journey:
- 7608: All paths lead to the Keeper of the Apocalypse. All sins can be placed at the feet of Promathia.
- 7609: The Twilight God. The deity responsible for thrusting the world into conflict.
- 7610: If conflict can be defined as fighting, then we sin hunters understand the meaning of this curse better than anyone.
- 7611: The reason we fight... For faith, justice, courage, hope...
- 7612: For that irreplaceable quality which defines our existence...
- 7613: That would be...
- 7614: You can't mean...
- 7615: The sin of Promathia may have been to make us what we are. And so the act of judging that sin would be a crime unto itself.
- 7616: I must make certain of this matter. I have long considered the possibility among this companionship, and so might survive the consequences if it turns out to be true.
- 7617: You are not to take up the burden of my agony. Your duty is to protect the homeland. Never forget that.
- 7618: Continue on your mission. I leave the matter of the wyrms and the sleeping gods to you.
- 7619: ...
- 7620: You never change, Sister dear. Always taking the sweetest parrrts for yourself...
- 7621: Sis! Make sure you come back to us! Until the day I surpass your skill, you're the image I strrrive for!
- 7622: Good hunting.
- 7623: Now, <Player>. There is one thing that I'd like you to know.
- 7624: My rrreal name is Mhag.
- 7625: Remember that for when I die not as a sin hunter, but as a simple Mithran woman.
- 7626: I'll meet you back in Cid's laboratory.
- 7627: The flag for meeting the Mithra has gone up.
- 7628: You don't see anything...
- 7629: There is nothing left of interest here.
- 7630: Innumerable shrimp shells are floating in the water here.
- 7631: The $0 begins skimming quietly across the surface of the water. ...What's this!? An enormous creature is chasing after it from below!!!
- 7632: Nothing happens.
- 7633: A little while back, the Fishermen's Guild's ship party was crashed by a trio of wandering comedians.
- 7634: But they were so boring, me mates preferred to pitch themselves over the side than listen to another joyless joke!
- 7635: We figured we'd be doin' Vana'diel a favor if we just marooned those jesters on an island.
- 7636: This was no deserted island, ye understand. This was Purgonorgo Island in Bibiki Bay. There's a mighty strange character living there who don't take orders from no one.
- 7637: This was no deserted island, ye understand. This was Purgonorgo Island in Bibiki Bay. Those humorless hucksters can earn a livin' entertainin' the sole inhabitant.
- 7638: That stubborn seadog should be sufferin' their puerile puns as we speak! Gwahahahaha!
- 7639: ...
- 7640: Nothing happens.
- 7641: Oh! It's <Player>!
- 7642: An untested audience!
- 7643: We'll give you some candy if you stay and listen to our performance!
- 7644: Welcome to the Chebukki Show!
- 7645: Hey, did you hear? We toppled a titanic terror and saved the world!
- 7646: All in a day's work, you might say.
- 7647: Of course, it wasn't easy pretending to be under our enemy's control so we could take him by surprise.
- 7648: Makki, you were mak-nificent!
- 7649: Kukki, you were too kooky!
- 7650: I think it's about time I exited stage left...
- 7651: But listen to this!
- 7652: An adventurer called <Player> thinks that [he/she] stole the show!
- 7653: Can you believe that!
- 7654: [He's/She's] so mean!
- 7655: [He's/She's] so terrible!
- 7656: [He's/She's] so ugly!
- 7657: Yahahahaha!
- 7658: Mwahahahaha!
- 7659: Nyahahahaha!
- 7660: Laugh at their performance? [I guess.../Are you kidding me...?]
- 7661: Hey! Stop right there! Are you laughing at us!?
- 7662: Hey! Why aren't you laughing? How rude!
- 7663: It's time we showed our artistic temperament!
- 7664: Meee!
- 7665: Teee!
- 7666: Ooor!
- 7667: Where did these striplings learn such powerful magic?
- 7668: What hell did you assassins spawn from!?
- 7669: Spawn!?
- 7670: Assassins!?
- 7671: How rude! We're the stars of the Chebukki Show!
- 7672: I don't care if you're the king of San d'Oria's royal bedmakers! Your magic won't work on me!
- 7673: My wife blasted me with Meteor so many times, I don't even feel it anymore!
- 7674: You're way out of your league! Bring it on, you horrific harlequins!
- 7675: Then how about tasting the Meteor our mom used to make!
- 7676: Let him have it!
- 7677: Meeeeee!
- 7678: Teeeeee!
- 7679: Oooooor!
- 7680: I think we overdid it again...
- 7681: Well, he asked for it.
- 7682: We sure showed him who's boss!
- 7683: Uuugh!
- 7684: Oooh!
- 7685: Oooh!?
- 7686: The Chebukki Show...? The Meteor your mom used...?
- 7687: Could it be? My darling children!? Makki, Kukki, and Cherukiki!?
- 7688: Does this mean...!?
- 7689: Could it be...!?
- 7690: This weird guy is...!?
- 7691: Your father!
- 7692: Daddy!
- 7693: Dad!
- 7694: Father!
- 7695: Hey, what about me!
- 7696: There, there. You must have been so lonely out there on your own.
- 7697: From now on, you'll live here with me. I'll never let you go again.
- 7698: Daddy!
- 7699: Dad!
- 7700: Father!
- 7701: This is just wonderful. But wait... One thing is not quite right!
- 7702: I've always dreamed that you would call me "Papa." Can you do that for me?
- 7703: Papa!
+ 7477: 
+ 7478: Welcome to Sunset Docks!
+ 7479: Enjoy a sightseeing tour of Bibiki Bay, an initiative of the Fishermen's Guild!
+ 7480: How may I help you?
+ 7481: What do you want to do? [Nothing in particular./Buy a ticket./Ask about the tours.]
+ 7482: Tickets for the manaclipper are $2 gil.
+ 7483: Buy a ticket? [Yes./No.]
+ 7484: Thank you, [sir/ma'am]! Have a wonderrrful trip!
+ 7485: I'm sorry, [sir/ma'am]. You don't have enough gil to purrrchase a ticket.
+ 7486: Tickets are limited to one per passenger. You have already purrrchased a ticket, [sir/ma'am].
+ 7487: Which tour do you wish to have explained?
+ 7488: Choose a tour: [Dhalmel Rock tour./Maliyakaleya Reef tour./Purgonorgo Isle tour.]
+ 7489: The Dhalmel Rrrock tour takes a gentle, southerly course along the western coastline.
+ 7490: You can see the majestic pillars of rrrock towering above the surf, and watch the waves crrrash against Washboard Wake while enjoying the refrrreshing sea breeze.
+ 7491: The manaclipper turns to pass through the legs of Dhalmel Rrrock before making its way back to Sunset Docks. This is the most rrrelaxing of the tours.
+ 7492: This tour takes you on an easterly course past the menacing Seawolf Swirrrl as it rounds the cape of Mhaura.
+ 7493: The stunning Maliyakaleya Reef is the highlight of the trip, home to a menagerrrie of colorful sea life to tempt your fishing line.
+ 7494: After passing through the rrreef, the manaclipper makes its way back to Sunset Docks to complete this brrreathtakingly beautiful tour.
+ 7495: The manaclipper leaves here from Sunset Docks on a southeasterly course.
+ 7496: This tour provides a safe and pleasant rrride to the tropical paradise of Purgonorgo Isle.
+ 7497: Manaclippers arrive rrregularly to ferry passengers back to Sunset Docks, so there's no need to worry about time. Sit back, rrrelax, and enjoy a long, lazy stay on this beautiful island.
+ 7498: Is there anything else I can help you with?
+ 7499: The manaclipper has arrived. Please purrrchase a ticket prior to boarding.
+ 7500: The manaclipper is about to depart. Please prrresent your ticket for collection.
+ 7501: If you wish to board the manaclipper, please purrrchase a ticket from the vendor by the docks.
+ 7502: You were refused passage for failing to present $6!
+ 7503: The manaclipper has arrived.
+ 7504: The manaclipper is about to depart.
+ 7505: Tickets for the manaclipper are $2 gil. Multi-tickets, which allow you to rrride ten times, can be purrrchased for a mere $5 gil.
+ 7506: Which would you like? [6 ($2 gil)./$6 ($5 gil)./Nothing today.]
+ 7507: You cannot buy morrre than one $3. Use the one you have now to ride the next ship.
+ 7508: Your $3 is valid for $4 more [trip/trips].
+ 7509: You do not need to purrrchase a new ticket at this time.
+ 7510: If you want, you can purrrchase a new one for $5 gil.
+ 7511: Purrrchase a new multi-ticket? [Yes ($5 gil)./No.]
+ 7512: You use your $3. ($2 trip[/s] remaining)
+ 7513: You use up your $3.
+ 7514: $1 ticket[/s] [was/were] added to your $3.
+ 7515: Earn a fortune working on a lazy trrropical island.t
+ 7516: ...Or at least that's what the brrrochure said.
+ 7517: All I do is lug heavy boxes around all day, and get ignored by tourrrists.
+ 7518: Goldmane? I've never heard that name, but there's a blonde Elvaan who's always hanging arrround the boat on the west side of the island.
+ 7519: You know, a Hume girl and her moogle friend just asked me the same question. Must be some new tourrrist attrrraction...
+ 7520: There is a boat washed up on the shore...
+ 7521: You suddenly find yourself fighting for your life!
+ 7522: You see no sign of anyone around...
+ 7523: What have you done to Sanctia, kupopo!
+ 7524: Only death awaits those who come in search of Goldmane.
+ 7525: Another uninvited guest? Much blood will stain the sands this day...
+ 7526: Oh, thank the Great Moogle! You defeated that horrible man, kupopo!
+ 7527: But where did the villain disappear to? Did he flee from you, kupopo?
+ 7528: I guess we're safe, then! A weird-looking Tarutaru helped Sanctia up, and carried her over there, kupopo!
+ 7529: I don't have any medicine to treat her wounds. You wouldn't happen to have any, would you, kupopo?
+ 7530: Sanctia! <Player> was carrying medicine for your injuries. It was in the package that your father sent, kupopo!
+ 7531: The package from my father...?
+ 7532: Urrr... I've made a mess of everything. Please forgive me for all this trouble, <Player>.
+ 7533: Are you feeling okay, kupopo?
+ 7534: Much better now, thanks.
+ 7535: Wow, that Goldmane is ready for anything... I guess he has been hiding here for twenty years.
+ 7536: But next time, I'm gonna make him listen to what I have to say...
+ 7537: You're not seriously thinking of going back there!? That bounty hunter goes too far, kupopo!
+ 7538: Anyone who would be this vicious to a defenseless girl is just cold-hearted and...
+ 7539: Mean!
+ 7540: Terrible!
+ 7541: Ugly!
+ 7542: Exactly! You don't need to learn anything from someone like that, kupopo!
+ 7543: My plan is set. I will become the best apprentice Goldmane ever had, and together we'll collect the bounties on the last members of Atarefaunet's Band!
+ 7544: If that's your goal, then you've already achieved it.
+ 7545: Huh?
+ 7546: Didn't you know? The man you just defeated was a member of Atarefaunet's Band.
+ 7547: He was...?
+ 7548: He's gone for good, kupopo!?
+ 7549: That blonde Elvaan was a brutal killer called Rohemolipaud.
+ 7550: Looks like Atarefaunet's Band has finally found me. Rohemolipaud was probably watching to see I didn't leave the island.
+ 7551: Which would mean...
+ 7552: You're the legendary Goldmane!?
+ 7553: But wait a minute! This Tarutaru doesn't look anything like a "Goldmane" to me, kupopo!
+ 7554: Maybe the sea breeze has softened him up a little...?
+ 7555: Who are you calling soft!? My nickname comes from the golden down on the neck of my old chocobo, Silver Comet.
+ 7556: You see, when I jumped into the saddle you couldn't see me for the feathers...
+ 7557: I'm still not convinced, kupopo.
+ 7558: That's beside the point! I've given up the bounty hunter business. You've taken out the bad guy and it's time for you to leave.
+ 7559: Wait! You have to make me your appre--ow, ow, ow...
+ 7560: Take it easy. The wound has not fully healed yet.
+ 7561: And if you're thinking of becoming a bounty hunter, you better get used to scratches like that. Usually, the injuries are much worse...
+ 7562: You could end up losing your family, like I did.
+ 7563: Are these your children in this picture?
+ 7564: Where did you get that!?
+ 7565: My beautiful kids... My lovely wife...
+ 7566: Twenty years ago when Tavnazia was shrouded in the smoke and flames of war, I was chasing after Atarefaunet with my partner, Ismenios.
+ 7567: All that chaos and confusion provided the perfect chance to catch him off guard.
+ 7568: If I had been thinking straight, I would have realized that my wife and our three small children had no way to escape the battlefield our homeland had become.
+ 7569: I was heaped with praise for the capture of Atarefaunet, and enough gil to buy this entire island. But the cost was too great.
+ 7570: You have a loving family that cared enough to send you medicine and a personal bodyguard. You don't want to become a despicable mercenary bounty hunter.
+ 7571: Try taking the path of the adventurer. Live for the sake of others, and the rewards that accompany their gratitude will eventually bring you both material and spiritual wealth.
+ 7572: Let me get you started. Here's a reward for protecting me from one of the members of Atarefaunet's Band.
+ 7573: I've never seen a weapon like this before...or so much money!
+ 7574: Make sure you share that with <Player>!
+ 7575: Even half that amount will go a long way to paying back your father's loans, kupopo!
+ 7576: Okay, I guess <Player> deserves it.
+ 7577: Thank y--hey! He's gone!
+ 7578: He's awfully fast for such a little fellow, kupopo...
+ 7579: Oh well. I guess I don't have what it takes to become a bounty hunter.
+ 7580: So you've finally given up on that crazy idea, kupopo?
+ 7581: Yep! I'm gonna be an adventurer instead! <Player>, you have to make me your apprentice!
+ 7582: Kupopo!?
+ 7583: Accept Sanctia as your apprentice? [I could use an extra hand./You've got to be kidding me...]
+ 7584: Yay! Thank you, <Player>!
+ 7585: As my teacher, you should head back to Rabao and let Zoriboh and my father know that you're gonna take care of me. Oh, and please take this money with you.
+ 7586: Me and my moogle are off to find high adventure!
+ 7587: You're no fun!
+ 7588: Fine, please go back and give Zoriboh and my father a message:
+ 7589: I'm making this moogle my teacher and heading off to find high adventure!
+ 7590: What did I do to deserve this, kupopo?
+ 7591: Sanctia! Wait for me, kupopo!
+ 7592: This time I let you walk away with your miserable life...
+ 7593: You dispatched that creature for me? Not what you expected to find, I'd imagine.
+ 7594: It slithered up while I was looking for ore, but I let it get away from me.
+ 7595: I'm not physiologically predisposed to dealing with squishy, slimy things like that. I'm glad you came along...
+ 7596: Hm? Cid has called us back from material hunting?
+ 7597: So, the battle with the Keeper of the Apocalypse is nigh.
+ 7598: No mention is made of the Twilight God in Mithran legend.
+ 7599: Is our enemy so dreadful that his name was withheld from the history books? Or is it because...?
+ 7600: Well, well! You sound defeated before you've even begun, kitten pie.
+ 7601: Yeah, buck up, Sis! I've been honing my skills to perrrfection. With the thrrree of us together, the keeper won't stand a chance!
+ 7602: Shikaree Y. Shikaree X.
+ 7603: I can't allow you to accompany me.
+ 7604: Huh!?
+ 7605: What do you mean, sugar?
+ 7606: We traveled to this continent with three distinct objectives:
+ 7607: The subduing of the wyrms that threaten the world with destruction; to learn more of the sleeping gods--they who hold the power to obliterate the Emptiness; to discover the location of Mildaurion--she who knows the method for waking those deities.
+ 7608: But I have learned this on our journey:
+ 7609: All paths lead to the Keeper of the Apocalypse. All sins can be placed at the feet of Promathia.
+ 7610: The Twilight God. The deity responsible for thrusting the world into conflict.
+ 7611: If conflict can be defined as fighting, then we sin hunters understand the meaning of this curse better than anyone.
+ 7612: The reason we fight... For faith, justice, courage, hope...
+ 7613: For that irreplaceable quality which defines our existence...
+ 7614: That would be...
+ 7615: You can't mean...
+ 7616: The sin of Promathia may have been to make us what we are. And so the act of judging that sin would be a crime unto itself.
+ 7617: I must make certain of this matter. I have long considered the possibility among this companionship, and so might survive the consequences if it turns out to be true.
+ 7618: You are not to take up the burden of my agony. Your duty is to protect the homeland. Never forget that.
+ 7619: Continue on your mission. I leave the matter of the wyrms and the sleeping gods to you.
+ 7620: ...
+ 7621: You never change, Sister dear. Always taking the sweetest parrrts for yourself...
+ 7622: Sis! Make sure you come back to us! Until the day I surpass your skill, you're the image I strrrive for!
+ 7623: Good hunting.
+ 7624: Now, <Player>. There is one thing that I'd like you to know.
+ 7625: My rrreal name is Mhag.
+ 7626: Remember that for when I die not as a sin hunter, but as a simple Mithran woman.
+ 7627: I'll meet you back in Cid's laboratory.
+ 7628: The flag for meeting the Mithra has gone up.
+ 7629: You don't see anything...
+ 7630: There is nothing left of interest here.
+ 7631: Innumerable shrimp shells are floating in the water here.
+ 7632: The $0 begins skimming quietly across the surface of the water. ...What's this!? An enormous creature is chasing after it from below!!!
+ 7633: Nothing happens.
+ 7634: A little while back, the Fishermen's Guild's ship party was crashed by a trio of wandering comedians.
+ 7635: But they were so boring, me mates preferred to pitch themselves over the side than listen to another joyless joke!
+ 7636: We figured we'd be doin' Vana'diel a favor if we just marooned those jesters on an island.
+ 7637: This was no deserted island, ye understand. This was Purgonorgo Island in Bibiki Bay. There's a mighty strange character living there who don't take orders from no one.
+ 7638: This was no deserted island, ye understand. This was Purgonorgo Island in Bibiki Bay. Those humorless hucksters can earn a livin' entertainin' the sole inhabitant.
+ 7639: That stubborn seadog should be sufferin' their puerile puns as we speak! Gwahahahaha!
+ 7640: ...
+ 7641: Nothing happens.
+ 7642: Oh! It's <Player>!
+ 7643: An untested audience!
+ 7644: We'll give you some candy if you stay and listen to our performance!
+ 7645: Welcome to the Chebukki Show!
+ 7646: Hey, did you hear? We toppled a titanic terror and saved the world!
+ 7647: All in a day's work, you might say.
+ 7648: Of course, it wasn't easy pretending to be under our enemy's control so we could take him by surprise.
+ 7649: Makki, you were mak-nificent!
+ 7650: Kukki, you were too kooky!
+ 7651: I think it's about time I exited stage left...
+ 7652: But listen to this!
+ 7653: An adventurer called <Player> thinks that [he/she] stole the show!
+ 7654: Can you believe that!
+ 7655: [He's/She's] so mean!
+ 7656: [He's/She's] so terrible!
+ 7657: [He's/She's] so ugly!
+ 7658: Yahahahaha!
+ 7659: Mwahahahaha!
+ 7660: Nyahahahaha!
+ 7661: Laugh at their performance? [I guess.../Are you kidding me...?]
+ 7662: Hey! Stop right there! Are you laughing at us!?
+ 7663: Hey! Why aren't you laughing? How rude!
+ 7664: It's time we showed our artistic temperament!
+ 7665: Meee!
+ 7666: Teee!
+ 7667: Ooor!
+ 7668: Where did these striplings learn such powerful magic?
+ 7669: What hell did you assassins spawn from!?
+ 7670: Spawn!?
+ 7671: Assassins!?
+ 7672: How rude! We're the stars of the Chebukki Show!
+ 7673: I don't care if you're the king of San d'Oria's royal bedmakers! Your magic won't work on me!
+ 7674: My wife blasted me with Meteor so many times, I don't even feel it anymore!
+ 7675: You're way out of your league! Bring it on, you horrific harlequins!
+ 7676: Then how about tasting the Meteor our mom used to make!
+ 7677: Let him have it!
+ 7678: Meeeeee!
+ 7679: Teeeeee!
+ 7680: Oooooor!
+ 7681: I think we overdid it again...
+ 7682: Well, he asked for it.
+ 7683: We sure showed him who's boss!
+ 7684: Uuugh!
+ 7685: Oooh!
+ 7686: Oooh!?
+ 7687: The Chebukki Show...? The Meteor your mom used...?
+ 7688: Could it be? My darling children!? Makki, Kukki, and Cherukiki!?
+ 7689: Does this mean...!?
+ 7690: Could it be...!?
+ 7691: This weird guy is...!?
+ 7692: Your father!
+ 7693: Daddy!
+ 7694: Dad!
+ 7695: Father!
+ 7696: Hey, what about me!
+ 7697: There, there. You must have been so lonely out there on your own.
+ 7698: From now on, you'll live here with me. I'll never let you go again.
+ 7699: Daddy!
+ 7700: Dad!
+ 7701: Father!
+ 7702: This is just wonderful. But wait... One thing is not quite right!
+ 7703: I've always dreamed that you would call me "Papa." Can you do that for me?
  7704: Papa!
- 7705: Papapaaa!
- 7706: You'll have to excuse this outburst of emotion. Even ex-bounty hunters have their soft spots, you know.
- 7707: I mean to live out the rest of my life with my children, happy and safe. For the moment, we'll be staying here on the island.
- 7708: As you know, I'm a target for some pretty nasty characters. They could come after me again at any time.
- 7709: When that time comes, I may need your help.
- 7710: But there's something more important that needs to be said.
- 7711: Children. We should show our appreciation to this adventurer for bringing us together.
- 7712: Let me hear you say "thank you."
- 7713: Thanks, [Mr. Meanie/Miss Meanie]!
- 7714: Thanks, [Mr. Terrible/Miss Terrible]!
- 7715: Thanks, [Mr. Ugly/Miss Ugly]!
- 7716: What!?
- 7717: Kids. Who knows where they pick these things up...?
- 7718: ...Thank you, <Player>.
- 7719: Quitting the bounty hunter life allowed me to live this long and witness such incredible miracles.
- 7720: You've helped our poor girl find her way home! I don't know how to thank you!
- 7721: And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!
- 7722: Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!
- 7723: Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!
- 7724: Time elapsed: $0 [hour/hours] (Vana'diel time) $1 [minute/minutes] and $2 [second/seconds] (Earth time)
- 7725: You cannot obtain the $0. Come back to the chocobo stables after sorting your inventory.
- 7726: Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!
- 7727: You are too far away to participate in the Voidwatch operation.
- 7728: You are currently engaged elsewhere and cannot participate in the Voidwatch operation.
- 7729: You are unconscious and cannot participate in the Voidwatch operation.
- 7730: You do not fulfill the requirements to participate in the Voidwatch operation.
- 7731: <Player> gains clearance to participate in the Voidwatch operation. One $3 expended.
- 7732: <Player> gains clearance to participate in the Voidwatch operation. 3 not expended. (Spoils will be subject to limits.)
- 7733: <Player> gains clearance to participate in the Voidwatch operation. Unused $3 carried over.
- 7734: You have ventured too far from the field of battle. You will be automatically relieved of Voidwatcher status if you do not return.
- 7735: You have ventured too far from the field of battle. Voidwatcher status revoked.
- 7736: You have returned to the field of battle.
- 7737: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 7738: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 7739: You have only $0 [second/seconds] (Earth time) remaining.
- 7740: Your time for this battle is up...
- 7741: The monster fades before your eyes, a look of disappointment on its face.
- 7742: Temporary item: $0 is available for use!
- 7743: All temporary items are recharged!
- 7744: You feel a mysterious energy seeping forth from an unknown source...
- 7745: The $3 resonates with the $3. You may commence the Voidwatch operation at will.
- 7746: A Voidwatch operation could be initiated if only you had $6 and $6...
- 7747: However, your presence does not seem to elicit a reaction.
- 7748: What will you do? [Nothing./Initiate Voidwatch operation./View alignment values./Examine atmacite./Read up on the Voidwatch.]
- 7749: Use $6? [Yes./No.]
- 7750: You do not possess the $3 necessary to initiate a Voidwatch operation here.
- 7751: A fiend materializes from the planar rift!
- 7752: Current Spectral Alignment Blue: +$0% (reward quantity) Red: +$1% (reward quality)
- 7753: Yellow: +$0% (experience yield) Green: +$1% (cruor yield)
- 7754: Alignment bonuses granted by ascent items will be added to the final value.
- 7755: You can infuse up to $0 atmacite at this time.
- 7756: What will you do? [Nothing for now./Infused: $3 (Lv.$1)/Infused: $3 (Lv.$3)/Infused: $3 (Lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]
- 7757: Infuse which atmacite? (Cruor: $24) [None for now./3 (Lv.$1)/$3 (Lv.$3)/$3 (Lv.$5)/$3 (Lv.$7)/$3 (Lv.$9)/$3 (Lv.$11)/$3 (Lv.$13)/$3 (Lv.$15)/$3 (Lv.$17)/$3 (Lv.$19)/$3 (Lv.$21)/$3 (Lv.$23)/Previous page./Next page.]
- 7758: The $3 (Lv.$1) bestows the following bonuses:
- 7759: Infusing the $3 (Lv.$1) requires $2 cruor.
- 7760: Infuse $3 (Lv.$1)? [Yes./No.]
- 7761: Replace $3 (Lv.$1)? [Yes./No.]
- 7762: <Player> expends $2 cruor and is now infused with $6 (Lv.$1)!
- 7763: [Infuse/Purge] which atmacite? [None for now./$3 (Lv.$2)/$3 (Lv.$4)/$3 (Lv.$6)]
- 7764: Purge $3 (Lv.$1)? [Yes./No.]
- 7765: <Player> purges the $3 (Lv.$1), infusing $6 (Lv.$3) in its place. (Cruor expended: $4)
- 7766: Purge $3 (Lv.$1)? [Yes./No.]
- 7767: <Player> has been purged of the $3 (Lv.$1).
- 7768: You do not have enough cruor.
- 7769: The atmacite could not be infused...
- 7770: The atmacite could not be purged...
- 7771: You do not possess any atmacite capable of enrichment.
- 7772: Enrich which atmacite? (Cruor: $$) [None for now./3 (Lv.$1): $2/$3 (Lv.$4): $5/$3 (Lv.$7): $8/$3 (Lv.$10): $11/$3 (Lv.$13): $14/$3 (Lv.$16): $17/$3 (Lv.$19): $20/$3 (Lv.$22): $23/$3 (Lv.$25): $26/$3 (Lv.$28): $29/$3 (Lv.$31): $ /$3 (Lv.$"): $#/Previous page./Next page.]
- 7773: Enriching the $3 will produce the following:
- 7774: Enriching the $3 from level $1 to level $2 requires $3 cruor.
- 7775: Enrich $3? [Yes./No.]
- 7776: Your $3 has been enriched to level $2! (Cruor expended: $0)
- 7777: The $3 has been enriched to its maximum level!
- 7778: The atmacite's enrichment level failed to rise...
- 7779: Read up on what? [Nothing for now./Voidwatch Ops./How to participate./5./Stratum abyssite./Alignment./Atmacite./Periapt.]
- 7780: The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called "Voidwalkers." Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos.
- 7781: Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized. This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched.
- 7782: Such efforts to stem the rise of Voidwalkers, collectively dubbed "Voidwatch Operations," or "Ops" for short, take place in the vicinity of planar rifts--weak points in the fabric of space.
- 7783: A single person may initiate a Voidwatch operation, at which time "Voidwatcher" status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker.
- 7784: Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status.
- 7785: Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world. Such is the arduous nature of transdimensional encounters.
- 7786: Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift.
- 7787: Only one person needs to be in possession of these objects for all party and alliance members to participate.
- 7788: However, there exists a number of participation conditions that must be observed.
- 7789: When an operation commences, a single voidstone will be expended for all who possess it. These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle.
- 7790: Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain.
- 7791: The "voidstone" is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible.
- 7792: Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation. Those without one, however, will find their spoils limited in both quantity and quality.
- 7793: As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory.
- 7794: Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals.
- 7795: Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts.
- 7796: After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined.
- 7797: Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development.
- 7798: Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum.
- 7799: While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers.
- 7800: Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as "ascent items."
- 7801: Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation.
- 7802: Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items.
- 7803: Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage.
- 7804: Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected.
- 7805: The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield.
- 7806: The precise workings of each light can be reviewed when examining your current alignment values.
- 7807: Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils.
- 7808: Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle.
- 7809: Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts. By infusing atmacite to one's body using $6, it is possible to enhance one's battle prowess.
- 7810: Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation.
- 7811: Atmacite is resilient and will not be expended in the infusion process.
- 7812: Furthermore, infused atmacite will remain in place until voluntarily purged.
- 7813: As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time.
- 7814: Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite.
- 7815: Atmacite can be enriched in stages to a maximum of level $0.
- 7816: All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death.
- 7817: Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune.
- 7818: Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy.
- 7819: Although their acquisition can only be described as arduous, the benefits make them well worth the effort.
- 7820: <Player> expends $0 and increases [blue/red/yellow/green] spectral alignment by $2%! Current value: +$3%
+ 7705: Papa!
+ 7706: Papapaaa!
+ 7707: You'll have to excuse this outburst of emotion. Even ex-bounty hunters have their soft spots, you know.
+ 7708: I mean to live out the rest of my life with my children, happy and safe. For the moment, we'll be staying here on the island.
+ 7709: As you know, I'm a target for some pretty nasty characters. They could come after me again at any time.
+ 7710: When that time comes, I may need your help.
+ 7711: But there's something more important that needs to be said.
+ 7712: Children. We should show our appreciation to this adventurer for bringing us together.
+ 7713: Let me hear you say "thank you."
+ 7714: Thanks, [Mr. Meanie/Miss Meanie]!
+ 7715: Thanks, [Mr. Terrible/Miss Terrible]!
+ 7716: Thanks, [Mr. Ugly/Miss Ugly]!
+ 7717: What!?
+ 7718: Kids. Who knows where they pick these things up...?
+ 7719: ...Thank you, <Player>.
+ 7720: Quitting the bounty hunter life allowed me to live this long and witness such incredible miracles.
+ 7721: You've helped our poor girl find her way home! I don't know how to thank you!
+ 7722: And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!
+ 7723: Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!
+ 7724: Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!
+ 7725: Time elapsed: $0 [hour/hours] (Vana'diel time) $1 [minute/minutes] and $2 [second/seconds] (Earth time)
+ 7726: You cannot obtain the $0. Come back to the chocobo stables after sorting your inventory.
+ 7727: Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!
+ 7728: You are too far away to participate in the Voidwatch operation.
+ 7729: You are currently engaged elsewhere and cannot participate in the Voidwatch operation.
+ 7730: You are unconscious and cannot participate in the Voidwatch operation.
+ 7731: You do not fulfill the requirements to participate in the Voidwatch operation.
+ 7732: <Player> gains clearance to participate in the Voidwatch operation. One $3 expended.
+ 7733: <Player> gains clearance to participate in the Voidwatch operation. 3 not expended. (Spoils will be subject to limits.)
+ 7734: <Player> gains clearance to participate in the Voidwatch operation. Unused $3 carried over.
+ 7735: You have ventured too far from the field of battle. You will be automatically relieved of Voidwatcher status if you do not return.
+ 7736: You have ventured too far from the field of battle. Voidwatcher status revoked.
+ 7737: You have returned to the field of battle.
+ 7738: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 7739: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 7740: You have only $0 [second/seconds] (Earth time) remaining.
+ 7741: Your time for this battle is up...
+ 7742: The monster fades before your eyes, a look of disappointment on its face.
+ 7743: Temporary item: $0 is available for use!
+ 7744: All temporary items are recharged!
+ 7745: You feel a mysterious energy seeping forth from an unknown source...
+ 7746: The $3 resonates with the $3. You may commence the Voidwatch operation at will.
+ 7747: A Voidwatch operation could be initiated if only you had $6 and $6...
+ 7748: However, your presence does not seem to elicit a reaction.
+ 7749: What will you do? [Nothing./Initiate Voidwatch operation./View alignment values./Examine atmacite./Read up on the Voidwatch.]
+ 7750: Use $6? [Yes./No.]
+ 7751: You do not possess the $3 necessary to initiate a Voidwatch operation here.
+ 7752: A fiend materializes from the planar rift!
+ 7753: Current Spectral Alignment Blue: +$0% (reward quantity) Red: +$1% (reward quality)
+ 7754: Yellow: +$0% (experience yield) Green: +$1% (cruor yield)
+ 7755: Alignment bonuses granted by ascent items will be added to the final value.
+ 7756: You can infuse up to $0 atmacite at this time.
+ 7757: What will you do? [Nothing for now./Infused: $3 (Lv.$1)/Infused: $3 (Lv.$3)/Infused: $3 (Lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]
+ 7758: Infuse which atmacite? (Cruor: $24) [None for now./3 (Lv.$1)/$3 (Lv.$3)/$3 (Lv.$5)/$3 (Lv.$7)/$3 (Lv.$9)/$3 (Lv.$11)/$3 (Lv.$13)/$3 (Lv.$15)/$3 (Lv.$17)/$3 (Lv.$19)/$3 (Lv.$21)/$3 (Lv.$23)/Previous page./Next page.]
+ 7759: The $3 (Lv.$1) bestows the following bonuses:
+ 7760: Infusing the $3 (Lv.$1) requires $2 cruor.
+ 7761: Infuse $3 (Lv.$1)? [Yes./No.]
+ 7762: Replace $3 (Lv.$1)? [Yes./No.]
+ 7763: <Player> expends $2 cruor and is now infused with $6 (Lv.$1)!
+ 7764: [Infuse/Purge] which atmacite? [None for now./$3 (Lv.$2)/$3 (Lv.$4)/$3 (Lv.$6)]
+ 7765: Purge $3 (Lv.$1)? [Yes./No.]
+ 7766: <Player> purges the $3 (Lv.$1), infusing $6 (Lv.$3) in its place. (Cruor expended: $4)
+ 7767: Purge $3 (Lv.$1)? [Yes./No.]
+ 7768: <Player> has been purged of the $3 (Lv.$1).
+ 7769: You do not have enough cruor.
+ 7770: The atmacite could not be infused...
+ 7771: The atmacite could not be purged...
+ 7772: You do not possess any atmacite capable of enrichment.
+ 7773: Enrich which atmacite? (Cruor: $$) [None for now./3 (Lv.$1): $2/$3 (Lv.$4): $5/$3 (Lv.$7): $8/$3 (Lv.$10): $11/$3 (Lv.$13): $14/$3 (Lv.$16): $17/$3 (Lv.$19): $20/$3 (Lv.$22): $23/$3 (Lv.$25): $26/$3 (Lv.$28): $29/$3 (Lv.$31): $ /$3 (Lv.$"): $#/Previous page./Next page.]
+ 7774: Enriching the $3 will produce the following:
+ 7775: Enriching the $3 from level $1 to level $2 requires $3 cruor.
+ 7776: Enrich $3? [Yes./No.]
+ 7777: Your $3 has been enriched to level $2! (Cruor expended: $0)
+ 7778: The $3 has been enriched to its maximum level!
+ 7779: The atmacite's enrichment level failed to rise...
+ 7780: Read up on what? [Nothing for now./Voidwatch Ops./How to participate./5./Stratum abyssite./Alignment./Atmacite./Periapt.]
+ 7781: The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called "Voidwalkers." Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos.
+ 7782: Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized. This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched.
+ 7783: Such efforts to stem the rise of Voidwalkers, collectively dubbed "Voidwatch Operations," or "Ops" for short, take place in the vicinity of planar rifts--weak points in the fabric of space.
+ 7784: A single person may initiate a Voidwatch operation, at which time "Voidwatcher" status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker.
+ 7785: Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status.
+ 7786: Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world. Such is the arduous nature of transdimensional encounters.
+ 7787: Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift.
+ 7788: Only one person needs to be in possession of these objects for all party and alliance members to participate.
+ 7789: However, there exists a number of participation conditions that must be observed.
+ 7790: When an operation commences, a single voidstone will be expended for all who possess it. These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle.
+ 7791: Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain.
+ 7792: The "voidstone" is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible.
+ 7793: Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation. Those without one, however, will find their spoils limited in both quantity and quality.
+ 7794: As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory.
+ 7795: Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals.
+ 7796: Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts.
+ 7797: After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined.
+ 7798: Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development.
+ 7799: Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum.
+ 7800: While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers.
+ 7801: Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as "ascent items."
+ 7802: Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation.
+ 7803: Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items.
+ 7804: Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage.
+ 7805: Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected.
+ 7806: The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield.
+ 7807: The precise workings of each light can be reviewed when examining your current alignment values.
+ 7808: Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils.
+ 7809: Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle.
+ 7810: Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts. By infusing atmacite to one's body using $6, it is possible to enhance one's battle prowess.
+ 7811: Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation.
+ 7812: Atmacite is resilient and will not be expended in the infusion process.
+ 7813: Furthermore, infused atmacite will remain in place until voluntarily purged.
+ 7814: As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time.
+ 7815: Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite.
+ 7816: Atmacite can be enriched in stages to a maximum of level $0.
+ 7817: All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death.
+ 7818: Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune.
+ 7819: Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy.
+ 7820: Although their acquisition can only be described as arduous, the benefits make them well worth the effort.
  7821: <Player> expends $0 and increases [blue/red/yellow/green] spectral alignment by $2%! Current value: +$3%
- 7822: [Blue/Red/Yellow/Green] spectral alignment cannot be further raised with $1. Current value: +$2%
- 7823: The $1 increases [blue/red/yellow/green] spectral alignment to its maximum value.
- 7824: The $1 increase [blue/red/yellow/green] spectral alignment to its maximum value.
- 7825: <Player>'s Treasure Hunter skill increases alignment by $0% across the spectrum!
- 7826: Yellow: $0% (+$1%) Green: $2% (+$3%)
- 7827: White: $0%
- 7828: Final Spectral Alignment Blue: $0% (+$1%) Red: $2% (+$3%)
- 7829: You are not eligible for spoils.
- 7830: You have obtained all spoils.
- 7831: <Player> obtains $0 cruor. (Total: $1)
- 7832: Obtain this item?
- 7833: Obtain the $0? [Yes./No.]
- 7834: <Player> obtains the $0!
- 7835: <Player> obtains the $3!
- 7836: Which item will you obtain? [None of them./#./$1./$2./$3./$4./$5./$6./$7./Relinquish all./Obtain all.]
- 7837: The treasure chest had already disappeared.
- 7838: Relinquish all reward items? [Yes, relinquish./On second thought...]
- 7839: All reward items have been relinquished.
- 7840: Your attack staggers the fiend! Alignment level increases! Blue: $0% Red: $1% Yellow: $2% Green: $4% White: $3%
- 7841: Your attack staggers the fiend! Maximum alignment reached! Blue: $0% Red: $1% Yellow: $2% Green: $4% White: $3%
- 7842: %0's attack devastates the fiend!
- 7843: Alignment level increases! [Blue/Red]: $2% (+$1%)
- 7844: [Blue/Red] alignment reaches maximum! [Blue/Red]: $2%
- 7845: Yellow: $2% (+$1%) Green: $2% (+$1%)
- 7846: Yellow and green alignments reach maximum! Yellow: $2% Green: $2%
- 7847: White: $2% (+$1%)
- 7848: White alignment reaches maximum! White: $2%
- 7849: The fiend appears [/highly /extremely ]vulnerable to [/hand-to-hand/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery/marksmanship/pet/automaton/avatar/wyvern] [weapon skills/special attacks/blood pacts]!
- 7850: The fiend appears [/highly /extremely ]vulnerable to [/warrior/monk/white mage/black mage/red mage/thief/paladin/dark knight/beastmaster/bard/ranger/samurai/ninja/dragoon/summoner/blue mage/corsair/puppetmaster/dancer/scholar] abilities!
- 7851: The fiend appears [/highly /extremely ]vulnerable to [/fire elemental /ice elemental /wind elemental /earth elemental /lightning elemental /water elemental /light elemental /darkness elemental ]magic!
- 7852: The fiend appears [/highly /extremely ]vulnerable to [/fire elemental /ice elemental /wind elemental /earth elemental /lightning elemental /water elemental /light elemental /darkness elemental ][/white magic/black magic//ninjutsu/bard songs/blue magic]!
- 7853: The fiend appears [/highly /extremely ]vulnerable to [/fire elemental /ice elemental /wind elemental /earth elemental /lightning elemental /water elemental /light elemental /darkness elemental ][blood pacts/wyvern abilities]!
- 7854: The fiend appears [/highly /extremely ]vulnerable to pet special attacks!
- 7855: The fiend appears [/highly /extremely ]vulnerable to automaton special attacks!
- 7856: Your alignment has reached maximum level across the spectrum. You are perfectly aligned with your foe!
- 7857: The aura of your foe suddenly changes!
- 7858: Synchronic blitz commences! Assail the fiend with all your strength!
- 7859: Synchronic blitz complete.
- 7860: Alignment increases by $0% across the spectrum!
- 7861: Blue: $0% / Red: $1% Yellow: $2% / Green: $2%
- 7862: White: $0%
- 7863: A surge of extradimensional power courses through your veins! Spare the fiend no mercy!
- 7864: Alignment surge extended! ($0-chain).
- 7865: The surge of extradimensional power has left your body...
- 7866: Which item will you obtain? [None of them./[/$0./$1./$2./$3./$4./$5./$6./$7./Relinquish all./Obtain all.]
- 7867: Obtain the $0? [Yes./No./Obtain as pulse cell.]
- 7868: One or more of the items you are about to obtain can be converted into pulse cells.
- 7869: Obtained $1 $3 by expending $1 $0 .
- 7870: Obtained $1 $5 by expending $1 $0 .
- 7871: You cannot obtain any more $5.
- 7872: Use $6? [Yes, use with $5./Yes./No.]
- 7873: How many $5 will you use? [None./One./Two./Three./Four./Five.]
- 7874: You have done a[ passable/ decent/ very good/n incredible/ masterful/n unbelievable/ deific] job at weakening the fiend!
- 7875: DEBUG: [WS/WS/MG/WS][Minor/Major/Extreme] weakness: [WS/AB/MG/SM]/$3
- 7876: 0 1
- 7877: MND+1 Enmity-1
- 7878: MND+2 Enmity-2
- 7879: MND+3 Enmity-3
- 7880: MND+4 Enmity-4
- 7881: MND+5 Enmity-5 Sphere: "Refresh"+1
- 7882: MND+6 Enmity-6 Sphere: "Refresh"+1
- 7883: MND+7 Enmity-7 Sphere: "Refresh"+1
- 7884: MND+8 Enmity-8 Sphere: "Refresh"+1
- 7885: MND+9 Enmity-9 Sphere: "Refresh"+1
- 7886: MND+10 Enmity-10 Sphere: "Refresh"+1
- 7887: MND+11 Enmity-11 Sphere: "Refresh"+2
- 7888: MND+12 Enmity-12 Sphere: "Refresh"+2
- 7889: MND+13 Enmity-13 Sphere: "Refresh"+2
- 7890: MND+14 Enmity-14 Sphere: "Refresh"+2
- 7891: MND+15 Enmity-15 Sphere: "Refresh"+2
- 7892: STR+1 Accuracy+1 Physical damage taken -1%
- 7893: STR+2 Accuracy+1 Physical damage taken -1%
- 7894: STR+3 Accuracy+1 Physical damage taken -1%
- 7895: STR+4 Accuracy+2 Physical damage taken -2%
- 7896: STR+5 Accuracy+2 Physical damage taken -2%
- 7897: STR+6 Accuracy+2 Physical damage taken -2%
- 7898: STR+7 Accuracy+3 Physical damage taken -3%
- 7899: STR+8 Accuracy+3 Physical damage taken -3%
- 7900: STR+9 Accuracy+3 Physical damage taken -3%
- 7901: STR+10 Accuracy+4 Physical damage taken -4%
- 7902: STR+11 Accuracy+4 Physical damage taken -4%
- 7903: STR+12 Accuracy+4 Physical damage taken -4%
- 7904: STR+13 Accuracy+5 Physical damage taken -5%
- 7905: STR+14 Accuracy+5 Physical damage taken -5%
- 7906: STR+15 Accuracy+5 Physical damage taken -5%
- 7907: HP+1% STR+1 INT+1
- 7908: HP+1% STR+1 INT+2
- 7909: HP+1% STR+1 INT+3
- 7910: HP+2% STR+2 INT+4
- 7911: HP+2% STR+2 INT+5 "Double Attack"+1%
- 7912: HP+2% STR+2 INT+6 "Double Attack"+1%
- 7913: HP+3% STR+3 INT+7 "Double Attack"+1%
- 7914: HP+3% STR+3 INT+8 "Double Attack"+1%
- 7915: HP+3% STR+3 INT+9 "Double Attack"+1%
- 7916: HP+4% STR+4 INT+10 "Double Attack"+2%
- 7917: HP+4% STR+4 INT+11 "Double Attack"+2%
- 7918: HP+4% STR+4 INT+12 "Double Attack"+2%
- 7919: HP+5% STR+5 INT+13 "Double Attack"+2%
- 7920: HP+5% STR+5 INT+14 "Double Attack"+2%
- 7921: HP+5% STR+5 INT+15 "Double Attack"+3%
- 7922: DEX+1 AGI+1 Spell interruption rate down 2%
- 7923: DEX+1 AGI+2 Spell interruption rate down 4%
- 7924: DEX+1 AGI+3 Spell interruption rate down 6%
- 7925: DEX+2 AGI+4 Spell interruption rate down 8%
- 7926: DEX+2 AGI+5 Spell interruption rate down 10%
- 7927: DEX+2 AGI+6 Spell interruption rate down 12%
- 7928: DEX+3 AGI+7 Spell interruption rate down 14%
- 7929: DEX+3 AGI+8 Spell interruption rate down 16%
- 7930: DEX+3 AGI+9 Spell interruption rate down 18%
- 7931: DEX+4 AGI+10 Spell interruption rate down 20%
- 7932: DEX+4 AGI+11 Spell interruption rate down 22%
- 7933: DEX+4 AGI+12 Spell interruption rate down 24%
- 7934: DEX+5 AGI+13 Spell interruption rate down 26%
- 7935: DEX+4 AGI+10 Spell interruption rate down 28%
- 7936: DEX+5 AGI+15 Spell interruption rate down 30%
- 7937: DEX+1 Attack+1 Ranged Attack+1
- 7938: DEX+2 Attack+2 Ranged Attack+2
- 7939: DEX+3 Attack+3 Ranged Attack+3
- 7940: DEX+4 Attack+4 Ranged Attack+4
- 7941: DEX+5 Attack+5 Ranged Attack+5
- 7942: DEX+6 Attack+6 Ranged Attack+6
- 7943: DEX+7 Attack+7 Ranged Attack+7
- 7944: DEX+8 Attack+8 Ranged Attack+8
- 7945: DEX+9 Attack+9 Ranged Attack+9
- 7946: DEX+10 Attack+10 Ranged Attack+10
- 7947: DEX+11 Attack+11 Ranged Attack+11
- 7948: DEX+12 Attack+12 Ranged Attack+12
- 7949: DEX+13 Attack+13 Ranged Attack+13
- 7950: DEX+14 Attack+14 Ranged Attack+14
- 7951: DEX+15 Attack+15 Ranged Attack+15
- 7952: MP+1% CHR+1 Magic Accuracy+1
- 7953: MP+1% CHR+2 Magic Accuracy+1
- 7954: MP+2% CHR+3 Magic Accuracy+1
- 7955: MP+2% CHR+4 Magic Accuracy+2
- 7956: MP+3% CHR+5 Magic Accuracy+2 Sphere "Regen"+1
- 7957: MP+3% CHR+6 Magic Accuracy+2 Sphere "Regen"+1
- 7958: MP+4% CHR+7 Magic Accuracy+3 Sphere "Regen"+1
- 7959: MP+4% CHR+8 Magic Accuracy+3 Sphere "Regen"+1
- 7960: MP+5% CHR+9 Magic Accuracy+3 Sphere "Regen"+2
- 7961: MP+5% CHR+10 Magic Accuracy+4 Sphere "Regen"+2
- 7962: MP+6% CHR+11 Magic Accuracy+4 Sphere "Regen"+2
- 7963: MP+7% CHR+12 Magic Accuracy+4 Sphere "Regen"+2
- 7964: MP+8% CHR+13 Magic Accuracy+5 Sphere "Regen"+3
- 7965: MP+9% CHR+14 Magic Accuracy+5 Sphere "Regen"+3
- 7966: MP+10% CHR+15 Magic Accuracy+5 Sphere "Regen"+3
- 7967: MP+5 "Magic Atk. Bonus"+1 Enhances "Fast Cast" effect +1
- 7968: MP+10 "Magic Atk. Bonus"+2 Enhances "Fast Cast" effect +1
- 7969: MP+15 "Magic Atk. Bonus"+3 Enhances "Fast Cast" effect +1
- 7970: MP+20 "Magic Atk. Bonus"+4 Enhances "Fast Cast" effect +1
- 7971: MP+25 "Magic Atk. Bonus"+5 Enhances "Fast Cast" effect +1
- 7972: MP+30 "Magic Atk. Bonus"+6 Enhances "Fast Cast" effect +2
- 7973: MP+35 "Magic Atk. Bonus"+7 Enhances "Fast Cast" effect +2
- 7974: MP+40 "Magic Atk. Bonus"+8 Enhances "Fast Cast" effect +2
- 7975: MP+45 "Magic Atk. Bonus"+9 Enhances "Fast Cast" effect +2
- 7976: MP+50 "Magic Atk. Bonus"+10 Enhances "Fast Cast" effect +2
- 7977: MP+60 "Magic Atk. Bonus"+11 Enhances "Fast Cast" effect +3
- 7978: MP+70 "Magic Atk. Bonus"+12 Enhances "Fast Cast" effect +3
- 7979: MP+80 "Magic Atk. Bonus"+13 Enhances "Fast Cast" effect +3
- 7980: MP+90 "Magic Atk. Bonus"+14 Enhances "Fast Cast" effect +3
- 7981: MP+100 "Magic Atk. Bonus"+15 Enhances "Fast Cast" effect +3
- 7982: DEF:+2 HP+5 DEX+1
- 7983: DEF:+4 HP+10 DEX+1
- 7984: DEF:+6 HP+15 DEX+1
- 7985: DEF:+8 HP+20 DEX+2
- 7986: DEF:+10 HP+25 DEX+2
- 7987: DEF:+12 HP+30 DEX+2
- 7988: DEF:+14 HP+35 DEX+3
- 7989: DEF:+16 HP+40 DEX+3
- 7990: DEF:+18 HP+45 DEX+3
- 7991: DEF:+20 HP+50 DEX+4
- 7992: DEF:+22 HP+60 DEX+4
- 7993: DEF:+24 HP+70 DEX+4
- 7994: DEF:+26 HP+80 DEX+5
- 7995: DEF:+28 HP+90 DEX+5
- 7996: DEF:+30 HP+100 DEX+5
- 7997: HP+1% "Magic Def. Bonus"+1 "Save TP"+20
- 7998: HP+1% "Magic Def. Bonus"+1 "Save TP"+40
- 7999: HP+2% "Magic Def. Bonus"+2 "Save TP"+60
- 8000: HP+2% "Magic Def. Bonus"+2 "Save TP"+80
- 8001: HP+3% All attributes +1 "Magic Def. Bonus"+3 "Save TP"+100
- 8002: HP+3% All attributes +1 "Magic Def. Bonus"+3 "Save TP"+120
- 8003: HP+4% All attributes +1 "Magic Def. Bonus"+4 "Save TP"+140
- 8004: HP+5% All attributes +1 "Magic Def. Bonus"+5 "Save TP"+160
- 8005: HP+5% All attributes +1 "Magic Def. Bonus"+5 "Save TP"+180
- 8006: HP+5% All attributes +1 "Magic Def. Bonus"+5 "Save TP"+200
- 8007: HP+6% All attributes +2 "Magic Def. Bonus"+6 "Save TP"+200
- 8008: HP+7% All attributes +2 "Magic Def. Bonus"+7 "Save TP"+200
- 8009: HP+8% All attributes +2 "Magic Def. Bonus"+8 "Save TP"+200
- 8010: HP+9% All attributes +2 "Magic Def. Bonus"+9 "Save TP"+200
- 8011: HP+10% All attributes +3 "Magic Def. Bonus"+10 "Save TP"+200
- 8012: STR+1 AGI+1 Accuracy+1
+ 7822: <Player> expends $0 and increases [blue/red/yellow/green] spectral alignment by $2%! Current value: +$3%
+ 7823: [Blue/Red/Yellow/Green] spectral alignment cannot be further raised with $1. Current value: +$2%
+ 7824: The $1 increases [blue/red/yellow/green] spectral alignment to its maximum value.
+ 7825: The $1 increase [blue/red/yellow/green] spectral alignment to its maximum value.
+ 7826: <Player>'s Treasure Hunter skill increases alignment by $0% across the spectrum!
+ 7827: Yellow: $0% (+$1%) Green: $2% (+$3%)
+ 7828: White: $0%
+ 7829: Final Spectral Alignment Blue: $0% (+$1%) Red: $2% (+$3%)
+ 7830: You are not eligible for spoils.
+ 7831: You have obtained all spoils.
+ 7832: <Player> obtains $0 cruor. (Total: $1)
+ 7833: Obtain this item?
+ 7834: Obtain the $0? [Yes./No.]
+ 7835: <Player> obtains the $0!
+ 7836: <Player> obtains the $3!
+ 7837: Which item will you obtain? [None of them./#./$1./$2./$3./$4./$5./$6./$7./Relinquish all./Obtain all.]
+ 7838: The treasure chest had already disappeared.
+ 7839: Relinquish all reward items? [Yes, relinquish./On second thought...]
+ 7840: All reward items have been relinquished.
+ 7841: Your attack staggers the fiend! Alignment level increases! Blue: $0% Red: $1% Yellow: $2% Green: $4% White: $3%
+ 7842: Your attack staggers the fiend! Maximum alignment reached! Blue: $0% Red: $1% Yellow: $2% Green: $4% White: $3%
+ 7843: %0's attack devastates the fiend!
+ 7844: Alignment level increases! [Blue/Red]: $2% (+$1%)
+ 7845: [Blue/Red] alignment reaches maximum! [Blue/Red]: $2%
+ 7846: Yellow: $2% (+$1%) Green: $2% (+$1%)
+ 7847: Yellow and green alignments reach maximum! Yellow: $2% Green: $2%
+ 7848: White: $2% (+$1%)
+ 7849: White alignment reaches maximum! White: $2%
+ 7850: The fiend appears [/highly /extremely ]vulnerable to [/hand-to-hand/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery/marksmanship/pet/automaton/avatar/wyvern] [weapon skills/special attacks/blood pacts]!
+ 7851: The fiend appears [/highly /extremely ]vulnerable to [/warrior/monk/white mage/black mage/red mage/thief/paladin/dark knight/beastmaster/bard/ranger/samurai/ninja/dragoon/summoner/blue mage/corsair/puppetmaster/dancer/scholar] abilities!
+ 7852: The fiend appears [/highly /extremely ]vulnerable to [/fire elemental /ice elemental /wind elemental /earth elemental /lightning elemental /water elemental /light elemental /darkness elemental ]magic!
+ 7853: The fiend appears [/highly /extremely ]vulnerable to [/fire elemental /ice elemental /wind elemental /earth elemental /lightning elemental /water elemental /light elemental /darkness elemental ][/white magic/black magic//ninjutsu/bard songs/blue magic]!
+ 7854: The fiend appears [/highly /extremely ]vulnerable to [/fire elemental /ice elemental /wind elemental /earth elemental /lightning elemental /water elemental /light elemental /darkness elemental ][blood pacts/wyvern abilities]!
+ 7855: The fiend appears [/highly /extremely ]vulnerable to pet special attacks!
+ 7856: The fiend appears [/highly /extremely ]vulnerable to automaton special attacks!
+ 7857: Your alignment has reached maximum level across the spectrum. You are perfectly aligned with your foe!
+ 7858: The aura of your foe suddenly changes!
+ 7859: Synchronic blitz commences! Assail the fiend with all your strength!
+ 7860: Synchronic blitz complete.
+ 7861: Alignment increases by $0% across the spectrum!
+ 7862: Blue: $0% / Red: $1% Yellow: $2% / Green: $2%
+ 7863: White: $0%
+ 7864: A surge of extradimensional power courses through your veins! Spare the fiend no mercy!
+ 7865: Alignment surge extended! ($0-chain).
+ 7866: The surge of extradimensional power has left your body...
+ 7867: Which item will you obtain? [None of them./[/$0./$1./$2./$3./$4./$5./$6./$7./Relinquish all./Obtain all.]
+ 7868: Obtain the $0? [Yes./No./Obtain as pulse cell.]
+ 7869: One or more of the items you are about to obtain can be converted into pulse cells.
+ 7870: Obtained $1 $3 by expending $1 $0 .
+ 7871: Obtained $1 $5 by expending $1 $0 .
+ 7872: You cannot obtain any more $5.
+ 7873: Use $6? [Yes, use with $5./Yes./No.]
+ 7874: How many $5 will you use? [None./One./Two./Three./Four./Five.]
+ 7875: You have done a[ passable/ decent/ very good/n incredible/ masterful/n unbelievable/ deific] job at weakening the fiend!
+ 7876: DEBUG: [WS/WS/MG/WS][Minor/Major/Extreme] weakness: [WS/AB/MG/SM]/$3
+ 7877: 0 1
+ 7878: MND+1 Enmity-1
+ 7879: MND+2 Enmity-2
+ 7880: MND+3 Enmity-3
+ 7881: MND+4 Enmity-4
+ 7882: MND+5 Enmity-5 Sphere: "Refresh"+1
+ 7883: MND+6 Enmity-6 Sphere: "Refresh"+1
+ 7884: MND+7 Enmity-7 Sphere: "Refresh"+1
+ 7885: MND+8 Enmity-8 Sphere: "Refresh"+1
+ 7886: MND+9 Enmity-9 Sphere: "Refresh"+1
+ 7887: MND+10 Enmity-10 Sphere: "Refresh"+1
+ 7888: MND+11 Enmity-11 Sphere: "Refresh"+2
+ 7889: MND+12 Enmity-12 Sphere: "Refresh"+2
+ 7890: MND+13 Enmity-13 Sphere: "Refresh"+2
+ 7891: MND+14 Enmity-14 Sphere: "Refresh"+2
+ 7892: MND+15 Enmity-15 Sphere: "Refresh"+2
+ 7893: STR+1 Accuracy+1 Physical damage taken -1%
+ 7894: STR+2 Accuracy+1 Physical damage taken -1%
+ 7895: STR+3 Accuracy+1 Physical damage taken -1%
+ 7896: STR+4 Accuracy+2 Physical damage taken -2%
+ 7897: STR+5 Accuracy+2 Physical damage taken -2%
+ 7898: STR+6 Accuracy+2 Physical damage taken -2%
+ 7899: STR+7 Accuracy+3 Physical damage taken -3%
+ 7900: STR+8 Accuracy+3 Physical damage taken -3%
+ 7901: STR+9 Accuracy+3 Physical damage taken -3%
+ 7902: STR+10 Accuracy+4 Physical damage taken -4%
+ 7903: STR+11 Accuracy+4 Physical damage taken -4%
+ 7904: STR+12 Accuracy+4 Physical damage taken -4%
+ 7905: STR+13 Accuracy+5 Physical damage taken -5%
+ 7906: STR+14 Accuracy+5 Physical damage taken -5%
+ 7907: STR+15 Accuracy+5 Physical damage taken -5%
+ 7908: HP+1% STR+1 INT+1
+ 7909: HP+1% STR+1 INT+2
+ 7910: HP+1% STR+1 INT+3
+ 7911: HP+2% STR+2 INT+4
+ 7912: HP+2% STR+2 INT+5 "Double Attack"+1%
+ 7913: HP+2% STR+2 INT+6 "Double Attack"+1%
+ 7914: HP+3% STR+3 INT+7 "Double Attack"+1%
+ 7915: HP+3% STR+3 INT+8 "Double Attack"+1%
+ 7916: HP+3% STR+3 INT+9 "Double Attack"+1%
+ 7917: HP+4% STR+4 INT+10 "Double Attack"+2%
+ 7918: HP+4% STR+4 INT+11 "Double Attack"+2%
+ 7919: HP+4% STR+4 INT+12 "Double Attack"+2%
+ 7920: HP+5% STR+5 INT+13 "Double Attack"+2%
+ 7921: HP+5% STR+5 INT+14 "Double Attack"+2%
+ 7922: HP+5% STR+5 INT+15 "Double Attack"+3%
+ 7923: DEX+1 AGI+1 Spell interruption rate down 2%
+ 7924: DEX+1 AGI+2 Spell interruption rate down 4%
+ 7925: DEX+1 AGI+3 Spell interruption rate down 6%
+ 7926: DEX+2 AGI+4 Spell interruption rate down 8%
+ 7927: DEX+2 AGI+5 Spell interruption rate down 10%
+ 7928: DEX+2 AGI+6 Spell interruption rate down 12%
+ 7929: DEX+3 AGI+7 Spell interruption rate down 14%
+ 7930: DEX+3 AGI+8 Spell interruption rate down 16%
+ 7931: DEX+3 AGI+9 Spell interruption rate down 18%
+ 7932: DEX+4 AGI+10 Spell interruption rate down 20%
+ 7933: DEX+4 AGI+11 Spell interruption rate down 22%
+ 7934: DEX+4 AGI+12 Spell interruption rate down 24%
+ 7935: DEX+5 AGI+13 Spell interruption rate down 26%
+ 7936: DEX+4 AGI+10 Spell interruption rate down 28%
+ 7937: DEX+5 AGI+15 Spell interruption rate down 30%
+ 7938: DEX+1 Attack+1 Ranged Attack+1
+ 7939: DEX+2 Attack+2 Ranged Attack+2
+ 7940: DEX+3 Attack+3 Ranged Attack+3
+ 7941: DEX+4 Attack+4 Ranged Attack+4
+ 7942: DEX+5 Attack+5 Ranged Attack+5
+ 7943: DEX+6 Attack+6 Ranged Attack+6
+ 7944: DEX+7 Attack+7 Ranged Attack+7
+ 7945: DEX+8 Attack+8 Ranged Attack+8
+ 7946: DEX+9 Attack+9 Ranged Attack+9
+ 7947: DEX+10 Attack+10 Ranged Attack+10
+ 7948: DEX+11 Attack+11 Ranged Attack+11
+ 7949: DEX+12 Attack+12 Ranged Attack+12
+ 7950: DEX+13 Attack+13 Ranged Attack+13
+ 7951: DEX+14 Attack+14 Ranged Attack+14
+ 7952: DEX+15 Attack+15 Ranged Attack+15
+ 7953: MP+1% CHR+1 Magic Accuracy+1
+ 7954: MP+1% CHR+2 Magic Accuracy+1
+ 7955: MP+2% CHR+3 Magic Accuracy+1
+ 7956: MP+2% CHR+4 Magic Accuracy+2
+ 7957: MP+3% CHR+5 Magic Accuracy+2 Sphere "Regen"+1
+ 7958: MP+3% CHR+6 Magic Accuracy+2 Sphere "Regen"+1
+ 7959: MP+4% CHR+7 Magic Accuracy+3 Sphere "Regen"+1
+ 7960: MP+4% CHR+8 Magic Accuracy+3 Sphere "Regen"+1
+ 7961: MP+5% CHR+9 Magic Accuracy+3 Sphere "Regen"+2
+ 7962: MP+5% CHR+10 Magic Accuracy+4 Sphere "Regen"+2
+ 7963: MP+6% CHR+11 Magic Accuracy+4 Sphere "Regen"+2
+ 7964: MP+7% CHR+12 Magic Accuracy+4 Sphere "Regen"+2
+ 7965: MP+8% CHR+13 Magic Accuracy+5 Sphere "Regen"+3
+ 7966: MP+9% CHR+14 Magic Accuracy+5 Sphere "Regen"+3
+ 7967: MP+10% CHR+15 Magic Accuracy+5 Sphere "Regen"+3
+ 7968: MP+5 "Magic Atk. Bonus"+1 Enhances "Fast Cast" effect +1
+ 7969: MP+10 "Magic Atk. Bonus"+2 Enhances "Fast Cast" effect +1
+ 7970: MP+15 "Magic Atk. Bonus"+3 Enhances "Fast Cast" effect +1
+ 7971: MP+20 "Magic Atk. Bonus"+4 Enhances "Fast Cast" effect +1
+ 7972: MP+25 "Magic Atk. Bonus"+5 Enhances "Fast Cast" effect +1
+ 7973: MP+30 "Magic Atk. Bonus"+6 Enhances "Fast Cast" effect +2
+ 7974: MP+35 "Magic Atk. Bonus"+7 Enhances "Fast Cast" effect +2
+ 7975: MP+40 "Magic Atk. Bonus"+8 Enhances "Fast Cast" effect +2
+ 7976: MP+45 "Magic Atk. Bonus"+9 Enhances "Fast Cast" effect +2
+ 7977: MP+50 "Magic Atk. Bonus"+10 Enhances "Fast Cast" effect +2
+ 7978: MP+60 "Magic Atk. Bonus"+11 Enhances "Fast Cast" effect +3
+ 7979: MP+70 "Magic Atk. Bonus"+12 Enhances "Fast Cast" effect +3
+ 7980: MP+80 "Magic Atk. Bonus"+13 Enhances "Fast Cast" effect +3
+ 7981: MP+90 "Magic Atk. Bonus"+14 Enhances "Fast Cast" effect +3
+ 7982: MP+100 "Magic Atk. Bonus"+15 Enhances "Fast Cast" effect +3
+ 7983: DEF:+2 HP+5 DEX+1
+ 7984: DEF:+4 HP+10 DEX+1
+ 7985: DEF:+6 HP+15 DEX+1
+ 7986: DEF:+8 HP+20 DEX+2
+ 7987: DEF:+10 HP+25 DEX+2
+ 7988: DEF:+12 HP+30 DEX+2
+ 7989: DEF:+14 HP+35 DEX+3
+ 7990: DEF:+16 HP+40 DEX+3
+ 7991: DEF:+18 HP+45 DEX+3
+ 7992: DEF:+20 HP+50 DEX+4
+ 7993: DEF:+22 HP+60 DEX+4
+ 7994: DEF:+24 HP+70 DEX+4
+ 7995: DEF:+26 HP+80 DEX+5
+ 7996: DEF:+28 HP+90 DEX+5
+ 7997: DEF:+30 HP+100 DEX+5
+ 7998: HP+1% "Magic Def. Bonus"+1 "Save TP"+20
+ 7999: HP+1% "Magic Def. Bonus"+1 "Save TP"+40
+ 8000: HP+2% "Magic Def. Bonus"+2 "Save TP"+60
+ 8001: HP+2% "Magic Def. Bonus"+2 "Save TP"+80
+ 8002: HP+3% All attributes +1 "Magic Def. Bonus"+3 "Save TP"+100
+ 8003: HP+3% All attributes +1 "Magic Def. Bonus"+3 "Save TP"+120
+ 8004: HP+4% All attributes +1 "Magic Def. Bonus"+4 "Save TP"+140
+ 8005: HP+5% All attributes +1 "Magic Def. Bonus"+5 "Save TP"+160
+ 8006: HP+5% All attributes +1 "Magic Def. Bonus"+5 "Save TP"+180
+ 8007: HP+5% All attributes +1 "Magic Def. Bonus"+5 "Save TP"+200
+ 8008: HP+6% All attributes +2 "Magic Def. Bonus"+6 "Save TP"+200
+ 8009: HP+7% All attributes +2 "Magic Def. Bonus"+7 "Save TP"+200
+ 8010: HP+8% All attributes +2 "Magic Def. Bonus"+8 "Save TP"+200
+ 8011: HP+9% All attributes +2 "Magic Def. Bonus"+9 "Save TP"+200
+ 8012: HP+10% All attributes +3 "Magic Def. Bonus"+10 "Save TP"+200
  8013: STR+1 AGI+1 Accuracy+1
- 8014: STR+1 AGI+1 Accuracy+2
- 8015: STR+2 AGI+2 Accuracy+2
- 8016: STR+2 AGI+2 Accuracy+3 "Regain"+10
+ 8014: STR+1 AGI+1 Accuracy+1
+ 8015: STR+1 AGI+1 Accuracy+2
+ 8016: STR+2 AGI+2 Accuracy+2
  8017: STR+2 AGI+2 Accuracy+3 "Regain"+10
- 8018: STR+3 AGI+3 Accuracy+4 "Regain"+10
+ 8018: STR+2 AGI+2 Accuracy+3 "Regain"+10
  8019: STR+3 AGI+3 Accuracy+4 "Regain"+10
- 8020: STR+3 AGI+3 Accuracy+5 "Regain"+10
- 8021: STR+4 AGI+4 Accuracy+5 "Regain"+20
- 8022: STR+4 AGI+4 Accuracy+6 "Regain"+20
- 8023: STR+4 AGI+4 Accuracy+7 "Regain"+20
- 8024: STR+5 AGI+5 Accuracy+8 "Regain"+20
- 8025: STR+5 AGI+5 Accuracy+9 "Regain"+20
- 8026: STR+5 AGI+5 Accuracy+10 "Regain"+30
- 8027: INT+1 Ranged Attack+1 Ranged Accuracy+1 Magic burst damage+2
- 8028: INT+1 Ranged Attack+1 Ranged Accuracy+2 Magic burst damage+4
- 8029: INT+2 Ranged Attack+1 Ranged Accuracy+3 Magic burst damage+6
- 8030: INT+2 Ranged Attack+2 Ranged Accuracy+4 Magic burst damage+8
- 8031: INT+3 Ranged Attack+2 Ranged Accuracy+5 Magic burst damage+10
- 8032: INT+3 Ranged Attack+2 Ranged Accuracy+6 Magic burst damage+12
- 8033: INT+4 Ranged Attack+3 Ranged Accuracy+7 Magic burst damage+14
- 8034: INT+4 Ranged Attack+3 Ranged Accuracy+8 Magic burst damage+16
- 8035: INT+5 Ranged Attack+3 Ranged Accuracy+9 Magic burst damage+18
- 8036: INT+5 Ranged Attack+4 Ranged Accuracy+10 Magic burst damage+20
- 8037: INT+6 Ranged Attack+4 Ranged Accuracy+11 Magic burst damage+22
- 8038: INT+7 Ranged Attack+4 Ranged Accuracy+12 Magic burst damage+24
- 8039: INT+8 Ranged Attack+5 Ranged Accuracy+14 Magic burst damage+26
- 8040: INT+9 Ranged Attack+5 Ranged Accuracy+14 Magic burst damage+28
- 8041: INT+10 Ranged Attack+5 Ranged Accuracy+15 Magic burst damage+30
- 8042: MND+1 "Subtle Blow"+1 TP Bonus +50 Haste +1%
- 8043: MND+1 "Subtle Blow"+1 TP Bonus +100 Haste +1%
- 8044: MND+1 "Subtle Blow"+2 TP Bonus +150 Haste +1%
- 8045: MND+2 "Subtle Blow"+2 TP Bonus +200 Haste +1%
- 8046: MND+2 "Subtle Blow"+3 TP Bonus +250 Haste +1%
- 8047: MND+2 "Subtle Blow"+3 TP Bonus +300 Haste +2%
- 8048: MND+3 "Subtle Blow"+4 TP Bonus +350 Haste +2%
- 8049: MND+3 "Subtle Blow"+4 TP Bonus +400 Haste +2%
- 8050: MND+3 "Subtle Blow"+5 TP Bonus +450 Haste +2%
- 8051: MND+4 "Subtle Blow"+5 TP Bonus +500 Haste +2%
- 8052: MND+4 "Subtle Blow"+6 TP Bonus +500 Haste +3%
- 8053: MND+4 "Subtle Blow"+7 TP Bonus +500 Haste +3%
- 8054: MND+5 "Subtle Blow"+8 TP Bonus +500 Haste +3%
- 8055: MND+5 "Subtle Blow"+9 TP Bonus +500 Haste +3%
- 8056: MND+5 "Subtle Blow"+10 TP Bonus +500 Haste +3%
- 8057: MP+1% AGI+1 "Magic Atk. Bonus"+1
+ 8020: STR+3 AGI+3 Accuracy+4 "Regain"+10
+ 8021: STR+3 AGI+3 Accuracy+5 "Regain"+10
+ 8022: STR+4 AGI+4 Accuracy+5 "Regain"+20
+ 8023: STR+4 AGI+4 Accuracy+6 "Regain"+20
+ 8024: STR+4 AGI+4 Accuracy+7 "Regain"+20
+ 8025: STR+5 AGI+5 Accuracy+8 "Regain"+20
+ 8026: STR+5 AGI+5 Accuracy+9 "Regain"+20
+ 8027: STR+5 AGI+5 Accuracy+10 "Regain"+30
+ 8028: INT+1 Ranged Attack+1 Ranged Accuracy+1 Magic burst damage+2
+ 8029: INT+1 Ranged Attack+1 Ranged Accuracy+2 Magic burst damage+4
+ 8030: INT+2 Ranged Attack+1 Ranged Accuracy+3 Magic burst damage+6
+ 8031: INT+2 Ranged Attack+2 Ranged Accuracy+4 Magic burst damage+8
+ 8032: INT+3 Ranged Attack+2 Ranged Accuracy+5 Magic burst damage+10
+ 8033: INT+3 Ranged Attack+2 Ranged Accuracy+6 Magic burst damage+12
+ 8034: INT+4 Ranged Attack+3 Ranged Accuracy+7 Magic burst damage+14
+ 8035: INT+4 Ranged Attack+3 Ranged Accuracy+8 Magic burst damage+16
+ 8036: INT+5 Ranged Attack+3 Ranged Accuracy+9 Magic burst damage+18
+ 8037: INT+5 Ranged Attack+4 Ranged Accuracy+10 Magic burst damage+20
+ 8038: INT+6 Ranged Attack+4 Ranged Accuracy+11 Magic burst damage+22
+ 8039: INT+7 Ranged Attack+4 Ranged Accuracy+12 Magic burst damage+24
+ 8040: INT+8 Ranged Attack+5 Ranged Accuracy+14 Magic burst damage+26
+ 8041: INT+9 Ranged Attack+5 Ranged Accuracy+14 Magic burst damage+28
+ 8042: INT+10 Ranged Attack+5 Ranged Accuracy+15 Magic burst damage+30
+ 8043: MND+1 "Subtle Blow"+1 TP Bonus +50 Haste +1%
+ 8044: MND+1 "Subtle Blow"+1 TP Bonus +100 Haste +1%
+ 8045: MND+1 "Subtle Blow"+2 TP Bonus +150 Haste +1%
+ 8046: MND+2 "Subtle Blow"+2 TP Bonus +200 Haste +1%
+ 8047: MND+2 "Subtle Blow"+3 TP Bonus +250 Haste +1%
+ 8048: MND+2 "Subtle Blow"+3 TP Bonus +300 Haste +2%
+ 8049: MND+3 "Subtle Blow"+4 TP Bonus +350 Haste +2%
+ 8050: MND+3 "Subtle Blow"+4 TP Bonus +400 Haste +2%
+ 8051: MND+3 "Subtle Blow"+5 TP Bonus +450 Haste +2%
+ 8052: MND+4 "Subtle Blow"+5 TP Bonus +500 Haste +2%
+ 8053: MND+4 "Subtle Blow"+6 TP Bonus +500 Haste +3%
+ 8054: MND+4 "Subtle Blow"+7 TP Bonus +500 Haste +3%
+ 8055: MND+5 "Subtle Blow"+8 TP Bonus +500 Haste +3%
+ 8056: MND+5 "Subtle Blow"+9 TP Bonus +500 Haste +3%
+ 8057: MND+5 "Subtle Blow"+10 TP Bonus +500 Haste +3%
  8058: MP+1% AGI+1 "Magic Atk. Bonus"+1
- 8059: MP+1% AGI+1 "Magic Atk. Bonus"+2
- 8060: MP+2% AGI+2 "Magic Atk. Bonus"+2
- 8061: MP+2% AGI+2 "Magic Atk. Bonus"+3
+ 8059: MP+1% AGI+1 "Magic Atk. Bonus"+1
+ 8060: MP+1% AGI+1 "Magic Atk. Bonus"+2
+ 8061: MP+2% AGI+2 "Magic Atk. Bonus"+2
  8062: MP+2% AGI+2 "Magic Atk. Bonus"+3
- 8063: MP+3% AGI+3 "Magic Atk. Bonus"+4
+ 8063: MP+2% AGI+2 "Magic Atk. Bonus"+3
  8064: MP+3% AGI+3 "Magic Atk. Bonus"+4
- 8065: MP+3% AGI+3 "Magic Atk. Bonus"+5
- 8066: MP+4% AGI+4 "Magic Atk. Bonus"+5
- 8067: MP+4% AGI+4 "Magic Atk. Bonus"+6
- 8068: MP+4% AGI+4 "Magic Atk. Bonus"+7
- 8069: MP+5% AGI+5 "Magic Atk. Bonus"+8
- 8070: MP+5% AGI+5 "Magic Atk. Bonus"+9
- 8071: MP+5% AGI+5 "Magic Atk. Bonus"+10
- 8072: MND+1 Enhances "Fast Cast" effect +1 "Snapshot"+1
- 8073: MND+2 Enhances "Fast Cast" effect +1 "Snapshot"+1
- 8074: MND+3 Enhances "Fast Cast" effect +1 "Snapshot"+1
- 8075: MND+4 Enhances "Fast Cast" effect +2 "Snapshot"+2
- 8076: MND+5 Enhances "Fast Cast" effect +2 "Snapshot"+2
- 8077: MND+6 Enhances "Fast Cast" effect +2 "Snapshot"+2
- 8078: MND+7 Enhances "Fast Cast" effect +3 "Snapshot"+3
- 8079: MND+8 Enhances "Fast Cast" effect +3 "Snapshot"+3
- 8080: MND+9 Enhances "Fast Cast" effect +3 "Snapshot"+3
- 8081: MND+10 Enhances "Fast Cast" effect +4 "Snapshot"+4
- 8082: MND+11 Enhances "Fast Cast" effect +4 "Snapshot"+4
- 8083: MND+12 Enhances "Fast Cast" effect +4 "Snapshot"+4
- 8084: MND+13 Enhances "Fast Cast" effect +5 "Snapshot"+5
- 8085: MND+14 Enhances "Fast Cast" effect +5 "Snapshot"+5
- 8086: MND+15 Enhances "Fast Cast" effect +5 "Snapshot"+5
- 8087: VIT+1 INT+1 Magic damage taken -1%
+ 8065: MP+3% AGI+3 "Magic Atk. Bonus"+4
+ 8066: MP+3% AGI+3 "Magic Atk. Bonus"+5
+ 8067: MP+4% AGI+4 "Magic Atk. Bonus"+5
+ 8068: MP+4% AGI+4 "Magic Atk. Bonus"+6
+ 8069: MP+4% AGI+4 "Magic Atk. Bonus"+7
+ 8070: MP+5% AGI+5 "Magic Atk. Bonus"+8
+ 8071: MP+5% AGI+5 "Magic Atk. Bonus"+9
+ 8072: MP+5% AGI+5 "Magic Atk. Bonus"+10
+ 8073: MND+1 Enhances "Fast Cast" effect +1 "Snapshot"+1
+ 8074: MND+2 Enhances "Fast Cast" effect +1 "Snapshot"+1
+ 8075: MND+3 Enhances "Fast Cast" effect +1 "Snapshot"+1
+ 8076: MND+4 Enhances "Fast Cast" effect +2 "Snapshot"+2
+ 8077: MND+5 Enhances "Fast Cast" effect +2 "Snapshot"+2
+ 8078: MND+6 Enhances "Fast Cast" effect +2 "Snapshot"+2
+ 8079: MND+7 Enhances "Fast Cast" effect +3 "Snapshot"+3
+ 8080: MND+8 Enhances "Fast Cast" effect +3 "Snapshot"+3
+ 8081: MND+9 Enhances "Fast Cast" effect +3 "Snapshot"+3
+ 8082: MND+10 Enhances "Fast Cast" effect +4 "Snapshot"+4
+ 8083: MND+11 Enhances "Fast Cast" effect +4 "Snapshot"+4
+ 8084: MND+12 Enhances "Fast Cast" effect +4 "Snapshot"+4
+ 8085: MND+13 Enhances "Fast Cast" effect +5 "Snapshot"+5
+ 8086: MND+14 Enhances "Fast Cast" effect +5 "Snapshot"+5
+ 8087: MND+15 Enhances "Fast Cast" effect +5 "Snapshot"+5
  8088: VIT+1 INT+1 Magic damage taken -1%
- 8089: VIT+2 INT+1 Magic damage taken -1%
- 8090: VIT+2 INT+2 Magic damage taken -2%
- 8091: VIT+3 INT+2 Magic damage taken -2%
+ 8089: VIT+1 INT+1 Magic damage taken -1%
+ 8090: VIT+2 INT+1 Magic damage taken -1%
+ 8091: VIT+2 INT+2 Magic damage taken -2%
  8092: VIT+3 INT+2 Magic damage taken -2%
- 8093: VIT+4 INT+3 Magic damage taken -3%
+ 8093: VIT+3 INT+2 Magic damage taken -2%
  8094: VIT+4 INT+3 Magic damage taken -3%
- 8095: VIT+5 INT+3 Magic damage taken -3%
- 8096: VIT+5 INT+4 Magic damage taken -4%
- 8097: VIT+6 INT+4 Magic damage taken -4%
- 8098: VIT+7 INT+4 Magic damage taken -4%
- 8099: VIT+8 INT+5 Magic damage taken -5%
- 8100: VIT+9 INT+5 Magic damage taken -5%
- 8101: VIT+10 INT+5 Magic damage taken -5%
- 8102: Enmity+1 VIT+1 "Store TP"+1
- 8103: Enmity+2 VIT+2 "Store TP"+2
- 8104: Enmity+3 VIT+3 "Store TP"+3
- 8105: Enmity+4 VIT+4 "Store TP"+4
- 8106: Enmity+5 VIT+5 "Store TP"+5 "Double Attack"+1%
- 8107: Enmity+6 VIT+6 "Store TP"+6 "Double Attack"+1%
- 8108: Enmity+7 VIT+7 "Store TP"+7 "Double Attack"+1%
- 8109: Enmity+8 VIT+8 "Store TP"+8 "Double Attack"+1%
- 8110: Enmity+9 VIT+9 "Store TP"+9 "Double Attack"+1%
- 8111: Enmity+10 VIT+10 "Store TP"+10 "Double Attack"+2%
- 8112: Enmity+11 VIT+11 "Store TP"+11 "Double Attack"+2%
- 8113: Enmity+12 VIT+12 "Store TP"+12 "Double Attack"+2%
- 8114: Enmity+13 VIT+13 "Store TP"+13 "Double Attack"+2%
- 8115: Enmity+14 VIT+14 "Store TP"+14 "Double Attack"+2%
- 8116: Enmity+15 VIT+15 "Store TP"+15 "Double Attack"+3%
- 8117: MND+1 Ranged Accuracy+1 "Waltz" potency +2% Song casting time -1%
- 8118: MND+1 Ranged Accuracy+1 "Waltz" potency +4% Song casting time -1%
- 8119: MND+1 Ranged Accuracy+2 "Waltz" potency +6% Song casting time -1%
- 8120: MND+2 Ranged Accuracy+2 "Waltz" potency +8% Song casting time -2%
- 8121: MND+2 Ranged Accuracy+3 "Waltz" potency +10% Song casting time -2%
- 8122: MND+2 Ranged Accuracy+3 "Waltz" potency +12% Song casting time -2%
- 8123: MND+3 Ranged Accuracy+4 "Waltz" potency +14% Song casting time -3%
- 8124: MND+3 Ranged Accuracy+4 "Waltz" potency +16% Song casting time -3%
- 8125: MND+3 Ranged Accuracy+5 "Waltz" potency +18% Song casting time -3%
- 8126: MND+4 Ranged Accuracy+5 "Waltz" potency +20% Song casting time -4%
- 8127: MND+4 Ranged Accuracy+6 "Waltz" potency +22% Song casting time -4%
- 8128: MND+4 Ranged Accuracy+7 "Waltz" potency +24% Song casting time -4%
- 8129: MND+5 Ranged Accuracy+8 "Waltz" potency +26% Song casting time -5%
- 8130: MND+5 Ranged Accuracy+9 "Waltz" potency +28% Song casting time -5%
- 8131: MND+5 Ranged Accuracy+10 "Waltz" potency +30% Song casting time -5%
- 8132: HP+1% VIT+1 Skillchain damage +2%
- 8133: HP+1% VIT+1 Skillchain damage +4%
- 8134: HP+1% VIT+1 Skillchain damage +6%
- 8135: HP+2% VIT+2 Skillchain damage +8%
- 8136: HP+2% VIT+2 Skillchain damage +10%
- 8137: HP+2% VIT+2 Skillchain damage +12%
- 8138: HP+3% VIT+3 Skillchain damage +14%
- 8139: HP+3% VIT+3 Skillchain damage +16% Sphere: "Regain"+10
- 8140: HP+3% VIT+3 Skillchain damage +18% Sphere: "Regain"+10
- 8141: HP+4% VIT+4 Skillchain damage +20% Sphere: "Regain"+10
- 8142: HP+4% VIT+4 Skillchain damage +22% Sphere: "Regain"+10
- 8143: HP+4% VIT+4 Skillchain damage +24% Sphere: "Regain"+10
- 8144: HP+5% VIT+5 Skillchain damage +26% Sphere: "Regain"+10
- 8145: HP+5% VIT+5 Skillchain damage +28% Sphere: "Regain"+10
- 8146: HP+5% VIT+5 Skillchain damage +30% Sphere: "Regain"+20
- 8147: DEX+1 Accuracy+1 Lightning elemental attack+1 <LTG>+5
- 8148: DEX+1 Accuracy+2 Lightning elemental attack+2 <LTG>+10
- 8149: DEX+2 Accuracy+3 Lightning elemental attack+3 <LTG>+15
- 8150: DEX+2 Accuracy+4 Lightning elemental attack+4 <LTG>+20
- 8151: DEX+3 Accuracy+5 Lightning elemental attack+5 <LTG>+25
- 8152: DEX+3 Accuracy+6 Lightning elemental attack+6 <LTG>+30
- 8153: DEX+4 Accuracy+7 Lightning elemental attack+7 <LTG>+35
- 8154: DEX+4 Accuracy+8 Lightning elemental attack+8 <LTG>+40
- 8155: DEX+5 Accuracy+9 Lightning elemental attack+9 <LTG>+45
- 8156: DEX+5 Accuracy+10 Lightning elemental attack+10 <LTG>+50
- 8157: DEX+6 Accuracy+11 Lightning elemental attack+11 <LTG>+60
- 8158: DEX+7 Accuracy+12 Lightning elemental attack+12 <LTG>+70
- 8159: DEX+8 Accuracy+13 Lightning elemental attack+13 <LTG>+80
- 8160: DEX+9 Accuracy+14 Lightning elemental attack+14 <LTG>+90
- 8161: DEX+10 Accuracy+15 Lightning elemental attack+15 <LTG>+100
- 8162: STR+1 AGI+1 Fire elemental attack+1 <FIR>+5
- 8163: STR+1 AGI+1 Fire elemental attack+2 <FIR>+10
- 8164: STR+2 AGI+2 Fire elemental attack+3 <FIR>+15
- 8165: STR+2 AGI+2 Fire elemental attack+4 <FIR>+20
- 8166: STR+3 AGI+3 Fire elemental attack+5 <FIR>+25
- 8167: STR+3 AGI+3 Fire elemental attack+6 <FIR>+30
- 8168: STR+4 AGI+4 Fire elemental attack+7 <FIR>+35
- 8169: STR+4 AGI+4 Fire elemental attack+8 <FIR>+40
- 8170: STR+5 AGI+5 Fire elemental attack+9 <FIR>+45
- 8171: STR+5 AGI+5 Fire elemental attack+10 <FIR>+50
- 8172: STR+6 AGI+6 Fire elemental attack+11 <FIR>+60
- 8173: STR+7 AGI+7 Fire elemental attack+12 <FIR>+70
- 8174: STR+8 AGI+8 Fire elemental attack+13 <FIR>+80
- 8175: STR+9 AGI+9 Fire elemental attack+14 <FIR>+90
- 8176: STR+10 AGI+10 Fire elemental attack+15 <FIR>+100
- 8177: HP+5 Breath damage taken -1% <ERT>+5 <WTR>+5
- 8178: HP+10 Breath damage taken -1% <ERT>+10 <WTR>+10
- 8179: HP+15 Breath damage taken -1% <ERT>+15 <WTR>+15
- 8180: HP+20 Breath damage taken -2% <ERT>+20 <WTR>+20
- 8181: HP+25 Breath damage taken -2% <ERT>+25 <WTR>+25
- 8182: HP+30 Breath damage taken -2% <ERT>+30 <WTR>+30
- 8183: HP+35 Breath damage taken -3% <ERT>+35 <WTR>+35
- 8184: HP+40 Breath damage taken -3% <ERT>+40 <WTR>+40
- 8185: HP+45 Breath damage taken -3% <ERT>+45 <WTR>+45
- 8186: HP+50 Breath damage taken -4% <ERT>+50 <WTR>+50
- 8187: HP+60 Breath damage taken -4% <ERT>+60 <WTR>+60
- 8188: HP+70 Breath damage taken -4% <ERT>+70 <WTR>+70
- 8189: HP+80 Breath damage taken -5% <ERT>+80 <WTR>+80
- 8190: HP+90 Breath damage taken -5% <ERT>+90 <WTR>+90
- 8191: HP+100 Breath damage taken -5% <ERT>+100 <WTR>+100
- 8192: HP+1% All attributes +1 Accuracy+1 Haste+1%
- 8193: HP+1% All attributes +2 Accuracy+1 Haste+1%
- 8194: HP+2% All attributes +3 Accuracy+1 Haste+1%
- 8195: HP+2% All attributes +4 Accuracy+2 Haste+2%
- 8196: HP+3% All attributes +5 Accuracy+2 Haste+2%
- 8197: HP+3% All attributes +6 Accuracy+2 Haste+2%
- 8198: HP+4% All attributes +7 Accuracy+3 Haste+3%
- 8199: HP+4% All attributes +8 Accuracy+3 Haste+3%
- 8200: HP+5% All attributes +9 Accuracy+3 Haste+3%
- 8201: HP+5% All attributes +10 Accuracy+4 Haste+4%
- 8202: HP+6% All attributes +11 Accuracy+4 Haste+4%
- 8203: HP+7% All attributes +12 Accuracy+4 Haste+4%
- 8204: HP+8% All attributes +13 Accuracy+5 Haste+5%
- 8205: HP+9% All attributes +14 Accuracy+5 Haste+5%
- 8206: HP+10% All attributes +15 Accuracy+5 Haste+5%
- 8207: Damage taken -1% "Magic Atk. Bonus"+1 Magic Accuracy+1 Enmity-1
- 8208: Damage taken -1% "Magic Atk. Bonus"+1 Magic Accuracy+2 Enmity-1
- 8209: Damage taken -2% "Magic Atk. Bonus"+2 Magic Accuracy+3 Enmity-2
+ 8095: VIT+4 INT+3 Magic damage taken -3%
+ 8096: VIT+5 INT+3 Magic damage taken -3%
+ 8097: VIT+5 INT+4 Magic damage taken -4%
+ 8098: VIT+6 INT+4 Magic damage taken -4%
+ 8099: VIT+7 INT+4 Magic damage taken -4%
+ 8100: VIT+8 INT+5 Magic damage taken -5%
+ 8101: VIT+9 INT+5 Magic damage taken -5%
+ 8102: VIT+10 INT+5 Magic damage taken -5%
+ 8103: Enmity+1 VIT+1 "Store TP"+1
+ 8104: Enmity+2 VIT+2 "Store TP"+2
+ 8105: Enmity+3 VIT+3 "Store TP"+3
+ 8106: Enmity+4 VIT+4 "Store TP"+4
+ 8107: Enmity+5 VIT+5 "Store TP"+5 "Double Attack"+1%
+ 8108: Enmity+6 VIT+6 "Store TP"+6 "Double Attack"+1%
+ 8109: Enmity+7 VIT+7 "Store TP"+7 "Double Attack"+1%
+ 8110: Enmity+8 VIT+8 "Store TP"+8 "Double Attack"+1%
+ 8111: Enmity+9 VIT+9 "Store TP"+9 "Double Attack"+1%
+ 8112: Enmity+10 VIT+10 "Store TP"+10 "Double Attack"+2%
+ 8113: Enmity+11 VIT+11 "Store TP"+11 "Double Attack"+2%
+ 8114: Enmity+12 VIT+12 "Store TP"+12 "Double Attack"+2%
+ 8115: Enmity+13 VIT+13 "Store TP"+13 "Double Attack"+2%
+ 8116: Enmity+14 VIT+14 "Store TP"+14 "Double Attack"+2%
+ 8117: Enmity+15 VIT+15 "Store TP"+15 "Double Attack"+3%
+ 8118: MND+1 Ranged Accuracy+1 "Waltz" potency +2% Song casting time -1%
+ 8119: MND+1 Ranged Accuracy+1 "Waltz" potency +4% Song casting time -1%
+ 8120: MND+1 Ranged Accuracy+2 "Waltz" potency +6% Song casting time -1%
+ 8121: MND+2 Ranged Accuracy+2 "Waltz" potency +8% Song casting time -2%
+ 8122: MND+2 Ranged Accuracy+3 "Waltz" potency +10% Song casting time -2%
+ 8123: MND+2 Ranged Accuracy+3 "Waltz" potency +12% Song casting time -2%
+ 8124: MND+3 Ranged Accuracy+4 "Waltz" potency +14% Song casting time -3%
+ 8125: MND+3 Ranged Accuracy+4 "Waltz" potency +16% Song casting time -3%
+ 8126: MND+3 Ranged Accuracy+5 "Waltz" potency +18% Song casting time -3%
+ 8127: MND+4 Ranged Accuracy+5 "Waltz" potency +20% Song casting time -4%
+ 8128: MND+4 Ranged Accuracy+6 "Waltz" potency +22% Song casting time -4%
+ 8129: MND+4 Ranged Accuracy+7 "Waltz" potency +24% Song casting time -4%
+ 8130: MND+5 Ranged Accuracy+8 "Waltz" potency +26% Song casting time -5%
+ 8131: MND+5 Ranged Accuracy+9 "Waltz" potency +28% Song casting time -5%
+ 8132: MND+5 Ranged Accuracy+10 "Waltz" potency +30% Song casting time -5%
+ 8133: HP+1% VIT+1 Skillchain damage +2%
+ 8134: HP+1% VIT+1 Skillchain damage +4%
+ 8135: HP+1% VIT+1 Skillchain damage +6%
+ 8136: HP+2% VIT+2 Skillchain damage +8%
+ 8137: HP+2% VIT+2 Skillchain damage +10%
+ 8138: HP+2% VIT+2 Skillchain damage +12%
+ 8139: HP+3% VIT+3 Skillchain damage +14%
+ 8140: HP+3% VIT+3 Skillchain damage +16% Sphere: "Regain"+10
+ 8141: HP+3% VIT+3 Skillchain damage +18% Sphere: "Regain"+10
+ 8142: HP+4% VIT+4 Skillchain damage +20% Sphere: "Regain"+10
+ 8143: HP+4% VIT+4 Skillchain damage +22% Sphere: "Regain"+10
+ 8144: HP+4% VIT+4 Skillchain damage +24% Sphere: "Regain"+10
+ 8145: HP+5% VIT+5 Skillchain damage +26% Sphere: "Regain"+10
+ 8146: HP+5% VIT+5 Skillchain damage +28% Sphere: "Regain"+10
+ 8147: HP+5% VIT+5 Skillchain damage +30% Sphere: "Regain"+20
+ 8148: DEX+1 Accuracy+1 Lightning elemental attack+1 <LTG>+5
+ 8149: DEX+1 Accuracy+2 Lightning elemental attack+2 <LTG>+10
+ 8150: DEX+2 Accuracy+3 Lightning elemental attack+3 <LTG>+15
+ 8151: DEX+2 Accuracy+4 Lightning elemental attack+4 <LTG>+20
+ 8152: DEX+3 Accuracy+5 Lightning elemental attack+5 <LTG>+25
+ 8153: DEX+3 Accuracy+6 Lightning elemental attack+6 <LTG>+30
+ 8154: DEX+4 Accuracy+7 Lightning elemental attack+7 <LTG>+35
+ 8155: DEX+4 Accuracy+8 Lightning elemental attack+8 <LTG>+40
+ 8156: DEX+5 Accuracy+9 Lightning elemental attack+9 <LTG>+45
+ 8157: DEX+5 Accuracy+10 Lightning elemental attack+10 <LTG>+50
+ 8158: DEX+6 Accuracy+11 Lightning elemental attack+11 <LTG>+60
+ 8159: DEX+7 Accuracy+12 Lightning elemental attack+12 <LTG>+70
+ 8160: DEX+8 Accuracy+13 Lightning elemental attack+13 <LTG>+80
+ 8161: DEX+9 Accuracy+14 Lightning elemental attack+14 <LTG>+90
+ 8162: DEX+10 Accuracy+15 Lightning elemental attack+15 <LTG>+100
+ 8163: STR+1 AGI+1 Fire elemental attack+1 <FIR>+5
+ 8164: STR+1 AGI+1 Fire elemental attack+2 <FIR>+10
+ 8165: STR+2 AGI+2 Fire elemental attack+3 <FIR>+15
+ 8166: STR+2 AGI+2 Fire elemental attack+4 <FIR>+20
+ 8167: STR+3 AGI+3 Fire elemental attack+5 <FIR>+25
+ 8168: STR+3 AGI+3 Fire elemental attack+6 <FIR>+30
+ 8169: STR+4 AGI+4 Fire elemental attack+7 <FIR>+35
+ 8170: STR+4 AGI+4 Fire elemental attack+8 <FIR>+40
+ 8171: STR+5 AGI+5 Fire elemental attack+9 <FIR>+45
+ 8172: STR+5 AGI+5 Fire elemental attack+10 <FIR>+50
+ 8173: STR+6 AGI+6 Fire elemental attack+11 <FIR>+60
+ 8174: STR+7 AGI+7 Fire elemental attack+12 <FIR>+70
+ 8175: STR+8 AGI+8 Fire elemental attack+13 <FIR>+80
+ 8176: STR+9 AGI+9 Fire elemental attack+14 <FIR>+90
+ 8177: STR+10 AGI+10 Fire elemental attack+15 <FIR>+100
+ 8178: HP+5 Breath damage taken -1% <ERT>+5 <WTR>+5
+ 8179: HP+10 Breath damage taken -1% <ERT>+10 <WTR>+10
+ 8180: HP+15 Breath damage taken -1% <ERT>+15 <WTR>+15
+ 8181: HP+20 Breath damage taken -2% <ERT>+20 <WTR>+20
+ 8182: HP+25 Breath damage taken -2% <ERT>+25 <WTR>+25
+ 8183: HP+30 Breath damage taken -2% <ERT>+30 <WTR>+30
+ 8184: HP+35 Breath damage taken -3% <ERT>+35 <WTR>+35
+ 8185: HP+40 Breath damage taken -3% <ERT>+40 <WTR>+40
+ 8186: HP+45 Breath damage taken -3% <ERT>+45 <WTR>+45
+ 8187: HP+50 Breath damage taken -4% <ERT>+50 <WTR>+50
+ 8188: HP+60 Breath damage taken -4% <ERT>+60 <WTR>+60
+ 8189: HP+70 Breath damage taken -4% <ERT>+70 <WTR>+70
+ 8190: HP+80 Breath damage taken -5% <ERT>+80 <WTR>+80
+ 8191: HP+90 Breath damage taken -5% <ERT>+90 <WTR>+90
+ 8192: HP+100 Breath damage taken -5% <ERT>+100 <WTR>+100
+ 8193: HP+1% All attributes +1 Accuracy+1 Haste+1%
+ 8194: HP+1% All attributes +2 Accuracy+1 Haste+1%
+ 8195: HP+2% All attributes +3 Accuracy+1 Haste+1%
+ 8196: HP+2% All attributes +4 Accuracy+2 Haste+2%
+ 8197: HP+3% All attributes +5 Accuracy+2 Haste+2%
+ 8198: HP+3% All attributes +6 Accuracy+2 Haste+2%
+ 8199: HP+4% All attributes +7 Accuracy+3 Haste+3%
+ 8200: HP+4% All attributes +8 Accuracy+3 Haste+3%
+ 8201: HP+5% All attributes +9 Accuracy+3 Haste+3%
+ 8202: HP+5% All attributes +10 Accuracy+4 Haste+4%
+ 8203: HP+6% All attributes +11 Accuracy+4 Haste+4%
+ 8204: HP+7% All attributes +12 Accuracy+4 Haste+4%
+ 8205: HP+8% All attributes +13 Accuracy+5 Haste+5%
+ 8206: HP+9% All attributes +14 Accuracy+5 Haste+5%
+ 8207: HP+10% All attributes +15 Accuracy+5 Haste+5%
+ 8208: Damage taken -1% "Magic Atk. Bonus"+1 Magic Accuracy+1 Enmity-1
+ 8209: Damage taken -1% "Magic Atk. Bonus"+1 Magic Accuracy+2 Enmity-1
  8210: Damage taken -2% "Magic Atk. Bonus"+2 Magic Accuracy+3 Enmity-2
- 8211: Damage taken -3% "Magic Atk. Bonus"+3 Magic Accuracy+5 Enmity-3
- 8212: Damage taken -3% "Magic Atk. Bonus"+3 Magic Accuracy+6 Enmity-3
- 8213: Damage taken -4% "Magic Atk. Bonus"+4 Magic Accuracy+7 Enmity-4
- 8214: Damage taken -4% "Magic Atk. Bonus"+4 Magic Accuracy+8 Enmity-4
- 8215: Damage taken -5% "Magic Atk. Bonus"+5 Magic Accuracy+9 Enmity-5
- 8216: Damage taken -5% "Magic Atk. Bonus"+5 Magic Accuracy+10 Enmity-5
- 8217: Damage taken -6% "Magic Atk. Bonus"+6 Magic Accuracy+11 Enmity-6
- 8218: Damage taken -7% "Magic Atk. Bonus"+7 Magic Accuracy+12 Enmity-7
- 8219: Damage taken -8% "Magic Atk. Bonus"+8 Magic Accuracy+13 Enmity-8
- 8220: Damage taken -9% "Magic Atk. Bonus"+9 Magic Accuracy+14 Enmity-9
- 8221: Damage taken -10% "Magic Atk. Bonus"+10 Magic Accuracy+15 Enmity-10
- 8222: Attack-5 "Subtle Blow"+1 Haste+1% "Double Attack"+1%
- 8223: Attack-10 "Subtle Blow"+2 Haste+1% "Double Attack"+1%
- 8224: Attack-15 "Subtle Blow"+3 Haste+2% "Double Attack"+1%
- 8225: Attack-20 "Subtle Blow"+4 Haste+2% "Double Attack"+2%
- 8226: Attack-25 "Subtle Blow"+5 Haste+3% "Double Attack"+2%
- 8227: Attack-30 "Subtle Blow"+6 Haste+3% "Double Attack"+2%
- 8228: Attack-35 "Subtle Blow"+7 Haste+4% "Double Attack"+3%
- 8229: Attack-40 "Subtle Blow"+8 Haste+4% "Double Attack"+3%
- 8230: Attack-45 "Subtle Blow"+9 Haste+5% "Double Attack"+3%
- 8231: Attack-50 "Subtle Blow"+10 Haste+5% "Double Attack"+4%
- 8232: Attack-60 "Subtle Blow"+12 Haste+6% "Double Attack"+4%
- 8233: Attack-70 "Subtle Blow"+14 Haste+7% "Double Attack"+4%
- 8234: Attack-80 "Subtle Blow"+16 Haste+8% "Double Attack"+5%
- 8235: Attack-90 "Subtle Blow"+18 Haste+9% "Double Attack"+5%
- 8236: Attack-100 "Subtle Blow"+20 Haste+10% "Double Attack"+5%
- 8237: STR+1 "Magic Attack Bonus"+1 "Slow"+1% Addle+1%
- 8238: STR+2 "Magic Attack Bonus"+2 "Slow"+2% Addle+2%
- 8239: STR+3 "Magic Attack Bonus"+3 "Slow"+3% Addle+3%
- 8240: STR+4 "Magic Attack Bonus"+4 "Slow"+4% Addle+4%
- 8241: STR+5 "Magic Attack Bonus"+5 "Slow"+5% Addle+5%
- 8242: STR+6 "Magic Attack Bonus"+6 "Slow"+6% Addle+6%
- 8243: STR+7 "Magic Attack Bonus"+7 "Slow"+7% Addle+7%
- 8244: STR+8 "Magic Attack Bonus"+8 "Slow"+8% Addle+8%
- 8245: STR+9 "Magic Attack Bonus"+9 "Slow"+9% Addle+9%
- 8246: STR+10 "Magic Attack Bonus"+10 "Slow"+10% Addle+10%
- 8247: STR+12 "Magic Attack Bonus"+12 "Slow"+11% Addle+11%
- 8248: STR+14 "Magic Attack Bonus"+14 "Slow"+12% Addle+12%
- 8249: STR+16 "Magic Attack Bonus"+16 "Slow"+13% Addle+13%
- 8250: STR+18 "Magic Attack Bonus"+18 "Slow"+14% Addle+14%
- 8251: STR+20 "Magic Attack Bonus"+20 "Slow"+15% Addle+15%
- 8252: HP+1% MND+1 "Magic Defense Bonus"+1 "Cure" potency +1%
- 8253: HP+1% MND+1 "Magic Defense Bonus"+1 "Cure" potency +2%
- 8254: HP+1% MND+1 "Magic Defense Bonus"+2 "Cure" potency +3%
- 8255: HP+2% MND+2 "Magic Defense Bonus"+2 "Cure" potency +4%
- 8256: HP+2% MND+2 "Magic Defense Bonus"+3 "Cure" potency +5%
- 8257: HP+2% MND+2 "Magic Defense Bonus"+3 "Cure" potency +6%
- 8258: HP+3% MND+3 "Magic Defense Bonus"+4 "Cure" potency +7%
- 8259: HP+3% MND+3 "Magic Defense Bonus"+4 "Cure" potency +8%
- 8260: HP+3% MND+3 "Magic Defense Bonus"+5 "Cure" potency +9%
- 8261: HP+4% MND+4 "Magic Defense Bonus"+5 "Cure" potency +10%
- 8262: HP+4% MND+4 "Magic Defense Bonus"+6 "Cure" potency +11%
- 8263: HP+4% MND+4 "Magic Defense Bonus"+7 "Cure" potency +12%
- 8264: HP+5% MND+5 "Magic Defense Bonus"+8 "Cure" potency +13%
- 8265: HP+5% MND+5 "Magic Defense Bonus"+9 "Cure" potency +14%
- 8266: HP+5% MND+5 "Magic Defense Bonus"+10 "Cure" potency +15%
- 8267: DEF+5 STR+1 VIT+1 Damage taken -1%
- 8268: DEF+10 STR+1 VIT+1 Damage taken -1%
- 8269: DEF+15 STR+1 VIT+1 Damage taken -1%
- 8270: DEF+20 STR+1 VIT+1 Damage taken -1%
- 8271: DEF+25 STR+1 VIT+1 Damage taken -1%
- 8272: DEF+30 STR+2 VIT+2 Damage taken -2%
- 8273: DEF+35 STR+2 VIT+2 Damage taken -2%
- 8274: DEF+40 STR+2 VIT+2 Damage taken -2%
- 8275: DEF+45 STR+2 VIT+2 Damage taken -2%
- 8276: DEF+50 STR+3 VIT+3 Damage taken -2%
- 8277: DEF+60 STR+3 VIT+3 Damage taken -3%
- 8278: DEF+70 STR+3 VIT+3 Damage taken -3%
- 8279: DEF+80 STR+4 VIT+4 Damage taken -3%
- 8280: DEF+90 STR+4 VIT+4 Damage taken -3%
- 8281: DEF+100 STR+5 VIT+5 Damage taken -3%
- 8282: All attributes +1 Enmity-2 Enhances "Resist Charm" effect +1 Enhances "Resist Amnesia" effect +1
- 8283: All attributes +1 Enmity-4 Enhances "Resist Charm" effect +2 Enhances "Resist Amnesia" effect +2
- 8284: All attributes +1 Enmity-6 Enhances "Resist Charm" effect +3 Enhances "Resist Amnesia" effect +3
- 8285: All attributes +2 Enmity-8 Enhances "Resist Charm" effect +4 Enhances "Resist Amnesia" effect +4
- 8286: All attributes +2 Enmity-10 Enhances "Resist Charm" effect +5 Enhances "Resist Amnesia" effect +5
- 8287: All attributes +2 Enmity-12 Enhances "Resist Charm" effect +6 Enhances "Resist Amnesia" effect +6
- 8288: All attributes +3 Enmity-14 Enhances "Resist Charm" effect +7 Enhances "Resist Amnesia" effect +7
- 8289: All attributes +3 Enmity-16 Enhances "Resist Charm" effect +8 Enhances "Resist Amnesia" effect +8
- 8290: All attributes +3 Enmity-18 Enhances "Resist Charm" effect +9 Enhances "Resist Amnesia" effect +9
- 8291: All attributes +4 Enmity-20 Enhances "Resist Charm" effect +10 Enhances "Resist Amnesia" effect +10
- 8292: All attributes +4 Enmity-22 Enhances "Resist Charm" effect +13 Enhances "Resist Amnesia" effect +13
- 8293: All attributes +4 Enmity-24 Enhances "Resist Charm" effect +16 Enhances "Resist Amnesia" effect +16
- 8294: All attributes +5 Enmity-26 Enhances "Resist Charm" effect +19 Enhances "Resist Amnesia" effect +19
- 8295: All attributes +5 Enmity-28 Enhances "Resist Charm" effect +22 Enhances "Resist Amnesia" effect +22
- 8296: All attributes +8 Enmity-30 Enhances "Resist Charm" effect +25 Enhances "Resist Amnesia" effect +25
- 8297: All attributes +1 Enmity+2 Enhances "Resist Charm" effect +1 Enhances "Resist Amnesia" effect +1
- 8298: All attributes +1 Enmity+4 Enhances "Resist Charm" effect +2 Enhances "Resist Amnesia" effect +2
- 8299: All attributes +1 Enmity+6 Enhances "Resist Charm" effect +3 Enhances "Resist Amnesia" effect +3
- 8300: All attributes +2 Enmity+8 Enhances "Resist Charm" effect +4 Enhances "Resist Amnesia" effect +4
- 8301: All attributes +2 Enmity+10 Enhances "Resist Charm" effect +5 Enhances "Resist Amnesia" effect +5
- 8302: All attributes +2 Enmity+12 Enhances "Resist Charm" effect +6 Enhances "Resist Amnesia" effect +6
- 8303: All attributes +3 Enmity+14 Enhances "Resist Charm" effect +7 Enhances "Resist Amnesia" effect +7
- 8304: All attributes +3 Enmity+16 Enhances "Resist Charm" effect +8 Enhances "Resist Amnesia" effect +8
- 8305: All attributes +3 Enmity+18 Enhances "Resist Charm" effect +9 Enhances "Resist Amnesia" effect +9
- 8306: All attributes +4 Enmity+20 Enhances "Resist Charm" effect +10 Enhances "Resist Amnesia" effect +10
- 8307: All attributes +4 Enmity+22 Enhances "Resist Charm" effect +13 Enhances "Resist Amnesia" effect +13
- 8308: All attributes +4 Enmity+24 Enhances "Resist Charm" effect +16 Enhances "Resist Amnesia" effect +16
- 8309: All attributes +5 Enmity+26 Enhances "Resist Charm" effect +19 Enhances "Resist Amnesia" effect +19
- 8310: All attributes +5 Enmity+28 Enhances "Resist Charm" effect +22 Enhances "Resist Amnesia" effect +22
- 8311: All attributes +5 Enmity+30 Enhances "Resist Charm" effect +25 Enhances "Resist Amnesia" effect +25
- 8312: Damage taken -1%
+ 8211: Damage taken -2% "Magic Atk. Bonus"+2 Magic Accuracy+3 Enmity-2
+ 8212: Damage taken -3% "Magic Atk. Bonus"+3 Magic Accuracy+5 Enmity-3
+ 8213: Damage taken -3% "Magic Atk. Bonus"+3 Magic Accuracy+6 Enmity-3
+ 8214: Damage taken -4% "Magic Atk. Bonus"+4 Magic Accuracy+7 Enmity-4
+ 8215: Damage taken -4% "Magic Atk. Bonus"+4 Magic Accuracy+8 Enmity-4
+ 8216: Damage taken -5% "Magic Atk. Bonus"+5 Magic Accuracy+9 Enmity-5
+ 8217: Damage taken -5% "Magic Atk. Bonus"+5 Magic Accuracy+10 Enmity-5
+ 8218: Damage taken -6% "Magic Atk. Bonus"+6 Magic Accuracy+11 Enmity-6
+ 8219: Damage taken -7% "Magic Atk. Bonus"+7 Magic Accuracy+12 Enmity-7
+ 8220: Damage taken -8% "Magic Atk. Bonus"+8 Magic Accuracy+13 Enmity-8
+ 8221: Damage taken -9% "Magic Atk. Bonus"+9 Magic Accuracy+14 Enmity-9
+ 8222: Damage taken -10% "Magic Atk. Bonus"+10 Magic Accuracy+15 Enmity-10
+ 8223: Attack-5 "Subtle Blow"+1 Haste+1% "Double Attack"+1%
+ 8224: Attack-10 "Subtle Blow"+2 Haste+1% "Double Attack"+1%
+ 8225: Attack-15 "Subtle Blow"+3 Haste+2% "Double Attack"+1%
+ 8226: Attack-20 "Subtle Blow"+4 Haste+2% "Double Attack"+2%
+ 8227: Attack-25 "Subtle Blow"+5 Haste+3% "Double Attack"+2%
+ 8228: Attack-30 "Subtle Blow"+6 Haste+3% "Double Attack"+2%
+ 8229: Attack-35 "Subtle Blow"+7 Haste+4% "Double Attack"+3%
+ 8230: Attack-40 "Subtle Blow"+8 Haste+4% "Double Attack"+3%
+ 8231: Attack-45 "Subtle Blow"+9 Haste+5% "Double Attack"+3%
+ 8232: Attack-50 "Subtle Blow"+10 Haste+5% "Double Attack"+4%
+ 8233: Attack-60 "Subtle Blow"+12 Haste+6% "Double Attack"+4%
+ 8234: Attack-70 "Subtle Blow"+14 Haste+7% "Double Attack"+4%
+ 8235: Attack-80 "Subtle Blow"+16 Haste+8% "Double Attack"+5%
+ 8236: Attack-90 "Subtle Blow"+18 Haste+9% "Double Attack"+5%
+ 8237: Attack-100 "Subtle Blow"+20 Haste+10% "Double Attack"+5%
+ 8238: STR+1 "Magic Attack Bonus"+1 "Slow"+1% Addle+1%
+ 8239: STR+2 "Magic Attack Bonus"+2 "Slow"+2% Addle+2%
+ 8240: STR+3 "Magic Attack Bonus"+3 "Slow"+3% Addle+3%
+ 8241: STR+4 "Magic Attack Bonus"+4 "Slow"+4% Addle+4%
+ 8242: STR+5 "Magic Attack Bonus"+5 "Slow"+5% Addle+5%
+ 8243: STR+6 "Magic Attack Bonus"+6 "Slow"+6% Addle+6%
+ 8244: STR+7 "Magic Attack Bonus"+7 "Slow"+7% Addle+7%
+ 8245: STR+8 "Magic Attack Bonus"+8 "Slow"+8% Addle+8%
+ 8246: STR+9 "Magic Attack Bonus"+9 "Slow"+9% Addle+9%
+ 8247: STR+10 "Magic Attack Bonus"+10 "Slow"+10% Addle+10%
+ 8248: STR+12 "Magic Attack Bonus"+12 "Slow"+11% Addle+11%
+ 8249: STR+14 "Magic Attack Bonus"+14 "Slow"+12% Addle+12%
+ 8250: STR+16 "Magic Attack Bonus"+16 "Slow"+13% Addle+13%
+ 8251: STR+18 "Magic Attack Bonus"+18 "Slow"+14% Addle+14%
+ 8252: STR+20 "Magic Attack Bonus"+20 "Slow"+15% Addle+15%
+ 8253: HP+1% MND+1 "Magic Defense Bonus"+1 "Cure" potency +1%
+ 8254: HP+1% MND+1 "Magic Defense Bonus"+1 "Cure" potency +2%
+ 8255: HP+1% MND+1 "Magic Defense Bonus"+2 "Cure" potency +3%
+ 8256: HP+2% MND+2 "Magic Defense Bonus"+2 "Cure" potency +4%
+ 8257: HP+2% MND+2 "Magic Defense Bonus"+3 "Cure" potency +5%
+ 8258: HP+2% MND+2 "Magic Defense Bonus"+3 "Cure" potency +6%
+ 8259: HP+3% MND+3 "Magic Defense Bonus"+4 "Cure" potency +7%
+ 8260: HP+3% MND+3 "Magic Defense Bonus"+4 "Cure" potency +8%
+ 8261: HP+3% MND+3 "Magic Defense Bonus"+5 "Cure" potency +9%
+ 8262: HP+4% MND+4 "Magic Defense Bonus"+5 "Cure" potency +10%
+ 8263: HP+4% MND+4 "Magic Defense Bonus"+6 "Cure" potency +11%
+ 8264: HP+4% MND+4 "Magic Defense Bonus"+7 "Cure" potency +12%
+ 8265: HP+5% MND+5 "Magic Defense Bonus"+8 "Cure" potency +13%
+ 8266: HP+5% MND+5 "Magic Defense Bonus"+9 "Cure" potency +14%
+ 8267: HP+5% MND+5 "Magic Defense Bonus"+10 "Cure" potency +15%
+ 8268: DEF+5 STR+1 VIT+1 Damage taken -1%
+ 8269: DEF+10 STR+1 VIT+1 Damage taken -1%
+ 8270: DEF+15 STR+1 VIT+1 Damage taken -1%
+ 8271: DEF+20 STR+1 VIT+1 Damage taken -1%
+ 8272: DEF+25 STR+1 VIT+1 Damage taken -1%
+ 8273: DEF+30 STR+2 VIT+2 Damage taken -2%
+ 8274: DEF+35 STR+2 VIT+2 Damage taken -2%
+ 8275: DEF+40 STR+2 VIT+2 Damage taken -2%
+ 8276: DEF+45 STR+2 VIT+2 Damage taken -2%
+ 8277: DEF+50 STR+3 VIT+3 Damage taken -2%
+ 8278: DEF+60 STR+3 VIT+3 Damage taken -3%
+ 8279: DEF+70 STR+3 VIT+3 Damage taken -3%
+ 8280: DEF+80 STR+4 VIT+4 Damage taken -3%
+ 8281: DEF+90 STR+4 VIT+4 Damage taken -3%
+ 8282: DEF+100 STR+5 VIT+5 Damage taken -3%
+ 8283: All attributes +1 Enmity-2 Enhances "Resist Charm" effect +1 Enhances "Resist Amnesia" effect +1
+ 8284: All attributes +1 Enmity-4 Enhances "Resist Charm" effect +2 Enhances "Resist Amnesia" effect +2
+ 8285: All attributes +1 Enmity-6 Enhances "Resist Charm" effect +3 Enhances "Resist Amnesia" effect +3
+ 8286: All attributes +2 Enmity-8 Enhances "Resist Charm" effect +4 Enhances "Resist Amnesia" effect +4
+ 8287: All attributes +2 Enmity-10 Enhances "Resist Charm" effect +5 Enhances "Resist Amnesia" effect +5
+ 8288: All attributes +2 Enmity-12 Enhances "Resist Charm" effect +6 Enhances "Resist Amnesia" effect +6
+ 8289: All attributes +3 Enmity-14 Enhances "Resist Charm" effect +7 Enhances "Resist Amnesia" effect +7
+ 8290: All attributes +3 Enmity-16 Enhances "Resist Charm" effect +8 Enhances "Resist Amnesia" effect +8
+ 8291: All attributes +3 Enmity-18 Enhances "Resist Charm" effect +9 Enhances "Resist Amnesia" effect +9
+ 8292: All attributes +4 Enmity-20 Enhances "Resist Charm" effect +10 Enhances "Resist Amnesia" effect +10
+ 8293: All attributes +4 Enmity-22 Enhances "Resist Charm" effect +13 Enhances "Resist Amnesia" effect +13
+ 8294: All attributes +4 Enmity-24 Enhances "Resist Charm" effect +16 Enhances "Resist Amnesia" effect +16
+ 8295: All attributes +5 Enmity-26 Enhances "Resist Charm" effect +19 Enhances "Resist Amnesia" effect +19
+ 8296: All attributes +5 Enmity-28 Enhances "Resist Charm" effect +22 Enhances "Resist Amnesia" effect +22
+ 8297: All attributes +8 Enmity-30 Enhances "Resist Charm" effect +25 Enhances "Resist Amnesia" effect +25
+ 8298: All attributes +1 Enmity+2 Enhances "Resist Charm" effect +1 Enhances "Resist Amnesia" effect +1
+ 8299: All attributes +1 Enmity+4 Enhances "Resist Charm" effect +2 Enhances "Resist Amnesia" effect +2
+ 8300: All attributes +1 Enmity+6 Enhances "Resist Charm" effect +3 Enhances "Resist Amnesia" effect +3
+ 8301: All attributes +2 Enmity+8 Enhances "Resist Charm" effect +4 Enhances "Resist Amnesia" effect +4
+ 8302: All attributes +2 Enmity+10 Enhances "Resist Charm" effect +5 Enhances "Resist Amnesia" effect +5
+ 8303: All attributes +2 Enmity+12 Enhances "Resist Charm" effect +6 Enhances "Resist Amnesia" effect +6
+ 8304: All attributes +3 Enmity+14 Enhances "Resist Charm" effect +7 Enhances "Resist Amnesia" effect +7
+ 8305: All attributes +3 Enmity+16 Enhances "Resist Charm" effect +8 Enhances "Resist Amnesia" effect +8
+ 8306: All attributes +3 Enmity+18 Enhances "Resist Charm" effect +9 Enhances "Resist Amnesia" effect +9
+ 8307: All attributes +4 Enmity+20 Enhances "Resist Charm" effect +10 Enhances "Resist Amnesia" effect +10
+ 8308: All attributes +4 Enmity+22 Enhances "Resist Charm" effect +13 Enhances "Resist Amnesia" effect +13
+ 8309: All attributes +4 Enmity+24 Enhances "Resist Charm" effect +16 Enhances "Resist Amnesia" effect +16
+ 8310: All attributes +5 Enmity+26 Enhances "Resist Charm" effect +19 Enhances "Resist Amnesia" effect +19
+ 8311: All attributes +5 Enmity+28 Enhances "Resist Charm" effect +22 Enhances "Resist Amnesia" effect +22
+ 8312: All attributes +5 Enmity+30 Enhances "Resist Charm" effect +25 Enhances "Resist Amnesia" effect +25
  8313: Damage taken -1%
- 8314: Damage taken -2%
+ 8314: Damage taken -1%
  8315: Damage taken -2%
- 8316: Damage taken -3%
+ 8316: Damage taken -2%
  8317: Damage taken -3%
- 8318: Damage taken -4%
+ 8318: Damage taken -3%
  8319: Damage taken -4%
- 8320: Damage taken -5%
- 8321: Damage taken -5% Occasionally negates MP cost Auto-Reraise
- 8322: Damage taken -6% Occasionally negates MP cost Auto-Reraise
- 8323: Damage taken -7% Occasionally negates MP cost Auto-Reraise
- 8324: Damage taken -8% Occasionally negates MP cost Auto-Reraise
- 8325: Damage taken -9% Occasionally negates MP cost Auto-Reraise
- 8326: Damage taken -10% Occasionally negates MP cost Auto-Reraise Sphere: Reraise
- 8327: INT+5 Magic Accuracy+5 TP Bonus +50
- 8328: INT+5 Magic Accuracy+5 TP Bonus +100
- 8329: INT+5 Magic Accuracy+5 TP Bonus +150
- 8330: INT+6 Magic Accuracy+6 TP Bonus +200
- 8331: INT+6 Magic Accuracy+6 TP Bonus +250
- 8332: INT+6 Magic Accuracy+6 TP Bonus +300
- 8333: INT+7 Magic Accuracy+7 TP Bonus +350
- 8334: INT+7 Magic Accuracy+7 TP Bonus +400
- 8335: INT+7 Magic Accuracy+7 TP Bonus +450
- 8336: INT+8 Magic Accuracy+8 TP Bonus +500
+ 8320: Damage taken -4%
+ 8321: Damage taken -5%
+ 8322: Damage taken -5% Occasionally negates MP cost Auto-Reraise
+ 8323: Damage taken -6% Occasionally negates MP cost Auto-Reraise
+ 8324: Damage taken -7% Occasionally negates MP cost Auto-Reraise
+ 8325: Damage taken -8% Occasionally negates MP cost Auto-Reraise
+ 8326: Damage taken -9% Occasionally negates MP cost Auto-Reraise
+ 8327: Damage taken -10% Occasionally negates MP cost Auto-Reraise Sphere: Reraise
+ 8328: INT+5 Magic Accuracy+5 TP Bonus +50
+ 8329: INT+5 Magic Accuracy+5 TP Bonus +100
+ 8330: INT+5 Magic Accuracy+5 TP Bonus +150
+ 8331: INT+6 Magic Accuracy+6 TP Bonus +200
+ 8332: INT+6 Magic Accuracy+6 TP Bonus +250
+ 8333: INT+6 Magic Accuracy+6 TP Bonus +300
+ 8334: INT+7 Magic Accuracy+7 TP Bonus +350
+ 8335: INT+7 Magic Accuracy+7 TP Bonus +400
+ 8336: INT+7 Magic Accuracy+7 TP Bonus +450
  8337: INT+8 Magic Accuracy+8 TP Bonus +500
  8338: INT+8 Magic Accuracy+8 TP Bonus +500
- 8339: INT+9 Magic Accuracy+9 TP Bonus +500
+ 8339: INT+8 Magic Accuracy+8 TP Bonus +500
  8340: INT+9 Magic Accuracy+9 TP Bonus +500
- 8341: INT+10 Magic Accuracy+10 TP Bonus +500
- 8342: DEX+5 VIT+5
+ 8341: INT+9 Magic Accuracy+9 TP Bonus +500
+ 8342: INT+10 Magic Accuracy+10 TP Bonus +500
  8343: DEX+5 VIT+5
  8344: DEX+5 VIT+5
- 8345: DEX+6 VIT+6
+ 8345: DEX+5 VIT+5
  8346: DEX+6 VIT+6
  8347: DEX+6 VIT+6
- 8348: DEX+7 VIT+7
+ 8348: DEX+6 VIT+6
  8349: DEX+7 VIT+7
  8350: DEX+7 VIT+7
- 8351: DEX+8 VIT+8 "Regain"+10
+ 8351: DEX+7 VIT+7
  8352: DEX+8 VIT+8 "Regain"+10
  8353: DEX+8 VIT+8 "Regain"+10
- 8354: DEX+9 VIT+9 "Regain"+10
+ 8354: DEX+8 VIT+8 "Regain"+10
  8355: DEX+9 VIT+9 "Regain"+10
- 8356: DEX+10 VIT+10 "Regain"+10
- 8357: DEF+10 "Magic Defense Bonus"+5 "Ice Attack Bonus"+1
- 8358: DEF+10 "Magic Defense Bonus"+5 "Ice Attack Bonus"+2
- 8359: DEF+10 "Magic Defense Bonus"+5 "Ice Attack Bonus"+3
- 8360: DEF+12 "Magic Defense Bonus"+6 "Ice Attack Bonus"+4
- 8361: DEF+12 "Magic Defense Bonus"+6 "Ice Attack Bonus"+5
- 8362: DEF+12 "Magic Defense Bonus"+6 "Ice Attack Bonus"+6
- 8363: DEF+14 "Magic Defense Bonus"+7 "Ice Attack Bonus"+7
- 8364: DEF+14 "Magic Defense Bonus"+7 "Ice Attack Bonus"+8
- 8365: DEF+14 "Magic Defense Bonus"+7 "Ice Attack Bonus"+9
- 8366: DEF+16 "Magic Defense Bonus"+8 "Ice Attack Bonus"+10
- 8367: DEF+16 "Magic Defense Bonus"+8 "Ice Attack Bonus"+11
- 8368: DEF+16 "Magic Defense Bonus"+8 "Ice Attack Bonus"+12
- 8369: DEF+18 "Magic Defense Bonus"+9 "Ice Attack Bonus"+13
- 8370: DEF+18 "Magic Defense Bonus"+9 "Ice Attack Bonus"+14
- 8371: DEF+20 "Magic Defense Bonus"+10 "Ice Attack Bonus"+15
- 8372: Enhances "Fast Cast" effect +1 Depending on day: Enhances elemental magic +5 Depending on day: Magic Accuracy+10
+ 8356: DEX+9 VIT+9 "Regain"+10
+ 8357: DEX+10 VIT+10 "Regain"+10
+ 8358: DEF+10 "Magic Defense Bonus"+5 "Ice Attack Bonus"+1
+ 8359: DEF+10 "Magic Defense Bonus"+5 "Ice Attack Bonus"+2
+ 8360: DEF+10 "Magic Defense Bonus"+5 "Ice Attack Bonus"+3
+ 8361: DEF+12 "Magic Defense Bonus"+6 "Ice Attack Bonus"+4
+ 8362: DEF+12 "Magic Defense Bonus"+6 "Ice Attack Bonus"+5
+ 8363: DEF+12 "Magic Defense Bonus"+6 "Ice Attack Bonus"+6
+ 8364: DEF+14 "Magic Defense Bonus"+7 "Ice Attack Bonus"+7
+ 8365: DEF+14 "Magic Defense Bonus"+7 "Ice Attack Bonus"+8
+ 8366: DEF+14 "Magic Defense Bonus"+7 "Ice Attack Bonus"+9
+ 8367: DEF+16 "Magic Defense Bonus"+8 "Ice Attack Bonus"+10
+ 8368: DEF+16 "Magic Defense Bonus"+8 "Ice Attack Bonus"+11
+ 8369: DEF+16 "Magic Defense Bonus"+8 "Ice Attack Bonus"+12
+ 8370: DEF+18 "Magic Defense Bonus"+9 "Ice Attack Bonus"+13
+ 8371: DEF+18 "Magic Defense Bonus"+9 "Ice Attack Bonus"+14
+ 8372: DEF+20 "Magic Defense Bonus"+10 "Ice Attack Bonus"+15
  8373: Enhances "Fast Cast" effect +1 Depending on day: Enhances elemental magic +5 Depending on day: Magic Accuracy+10
- 8374: Enhances "Fast Cast" effect +2 Depending on day: Enhances elemental magic +5 Depending on day: Magic Accuracy+10
- 8375: Enhances "Fast Cast" effect +2 Depending on day: Enhances elemental magic +6 Depending on day: Magic Accuracy+12
- 8376: Enhances "Fast Cast" effect +3 Depending on day: Enhances elemental magic +6 Depending on day: Magic Accuracy+12
+ 8374: Enhances "Fast Cast" effect +1 Depending on day: Enhances elemental magic +5 Depending on day: Magic Accuracy+10
+ 8375: Enhances "Fast Cast" effect +2 Depending on day: Enhances elemental magic +5 Depending on day: Magic Accuracy+10
+ 8376: Enhances "Fast Cast" effect +2 Depending on day: Enhances elemental magic +6 Depending on day: Magic Accuracy+12
  8377: Enhances "Fast Cast" effect +3 Depending on day: Enhances elemental magic +6 Depending on day: Magic Accuracy+12
- 8378: Enhances "Fast Cast" effect +4 Depending on day: Enhances elemental magic +7 Depending on day: Magic Accuracy+14
+ 8378: Enhances "Fast Cast" effect +3 Depending on day: Enhances elemental magic +6 Depending on day: Magic Accuracy+12
  8379: Enhances "Fast Cast" effect +4 Depending on day: Enhances elemental magic +7 Depending on day: Magic Accuracy+14
- 8380: Enhances "Fast Cast" effect +5 Depending on day: Enhances elemental magic +7 Depending on day: Magic Accuracy+14
- 8381: Enhances "Fast Cast" effect +5 Depending on day: Enhances elemental magic +8 Depending on day: Magic Accuracy+16
- 8382: Enhances "Fast Cast" effect +6 Depending on day: Enhances elemental magic +8 Depending on day: Magic Accuracy+16
+ 8380: Enhances "Fast Cast" effect +4 Depending on day: Enhances elemental magic +7 Depending on day: Magic Accuracy+14
+ 8381: Enhances "Fast Cast" effect +5 Depending on day: Enhances elemental magic +7 Depending on day: Magic Accuracy+14
+ 8382: Enhances "Fast Cast" effect +5 Depending on day: Enhances elemental magic +8 Depending on day: Magic Accuracy+16
  8383: Enhances "Fast Cast" effect +6 Depending on day: Enhances elemental magic +8 Depending on day: Magic Accuracy+16
- 8384: Enhances "Fast Cast" effect +7 Depending on day: Enhances elemental magic +9 Depending on day: Magic Accuracy+18
+ 8384: Enhances "Fast Cast" effect +6 Depending on day: Enhances elemental magic +8 Depending on day: Magic Accuracy+16
  8385: Enhances "Fast Cast" effect +7 Depending on day: Enhances elemental magic +9 Depending on day: Magic Accuracy+18
- 8386: Enhances "Fast Cast" effect +8 Depending on day: Enhances elemental magic +10 Depending on day: Magic Accuracy+20
- 8387: HP+10% STR+10 "Water Attack Bonus"+1
- 8388: HP+10% STR+10 "Water Attack Bonus"+2
- 8389: HP+10% STR+10 "Water Attack Bonus"+3
- 8390: HP+11% STR+11 "Water Attack Bonus"+4
- 8391: HP+11% STR+11 "Water Attack Bonus"+5
- 8392: HP+11% STR+11 "Water Attack Bonus"+6
- 8393: HP+12% STR+12 "Water Attack Bonus"+7
- 8394: HP+12% STR+12 "Water Attack Bonus"+8 Sphere: "Double Attack"+1%
- 8395: HP+12% STR+12 "Water Attack Bonus"+9 Sphere: "Double Attack"+1%
- 8396: HP+13% STR+13 "Water Attack Bonus"+10 Sphere: "Double Attack"+1%
- 8397: HP+13% STR+13 "Water Attack Bonus"+11 Sphere: "Double Attack"+1%
- 8398: HP+13% STR+13 "Water Attack Bonus"+12 Sphere: "Double Attack"+1%
- 8399: HP+14% STR+14 "Water Attack Bonus"+13 Sphere: "Double Attack"+1%
- 8400: HP+14% STR+14 "Water Attack Bonus"+14 Sphere: "Double Attack"+1%
- 8401: HP+15% STR+15 "Water Attack Bonus"+15 Sphere: "Double Attack"+2%
- 8402: HP+100 AGI+5 "Double Attack"+1%
- 8403: HP+105 AGI+5 "Double Attack"+1%
- 8404: HP+110 AGI+5 "Double Attack"+1%
- 8405: HP+115 AGI+6 "Double Attack"+1%
- 8406: HP+120 AGI+6 "Double Attack"+1%
- 8407: HP+125 AGI+6 "Double Attack"+2%
- 8408: HP+130 AGI+7 "Double Attack"+2%
- 8409: HP+135 AGI+7 "Double Attack"+2%
- 8410: HP+140 AGI+7 "Double Attack"+2%
- 8411: HP+150 AGI+8 "Double Attack"+2%
- 8412: HP+160 AGI+8 "Double Attack"+3%
- 8413: HP+170 AGI+8 "Double Attack"+3%
- 8414: HP+180 AGI+9 "Double Attack"+3%
- 8415: HP+190 AGI+9 "Double Attack"+3%
- 8416: HP+200 AGI+10 "Double Attack"+3%
- 8417: MP+100 MND+5 Enhances "Resist Silence" effect +1
- 8418: MP+105 MND+5 Enhances "Resist Silence" effect +2
- 8419: MP+115 MND+5 Enhances "Resist Silence" effect +3
- 8420: MP+115 MND+6 Enhances "Resist Silence" effect +4
- 8421: MP+120 MND+6 Enhances "Resist Silence" effect +5
- 8422: MP+125 MND+6 Enhances "Resist Silence" effect +6
- 8423: MP+130 MND+7 Enhances "Resist Silence" effect +7
- 8424: MP+135 MND+7 Enhances "Resist Silence" effect +8
- 8425: MP+140 MND+7 Enhances "Resist Silence" effect +9
- 8426: MP+150 MND+8 Enhances "Resist Silence" effect +10
- 8427: MP+160 MND+8 Enhances "Resist Silence" effect +13
- 8428: MP+170 MND+8 Enhances "Resist Silence" effect +16
- 8429: MP+180 MND+9 Enhances "Resist Silence" effect +19
- 8430: MP+190 MND+9 Enhances "Resist Silence" effect +22
- 8431: MP+200 MND+10 Enhances "Resist Silence" effect +25
- 8432: "Subtle Blow"+5 CHR+5 "Triple Attack"+1%
+ 8386: Enhances "Fast Cast" effect +7 Depending on day: Enhances elemental magic +9 Depending on day: Magic Accuracy+18
+ 8387: Enhances "Fast Cast" effect +8 Depending on day: Enhances elemental magic +10 Depending on day: Magic Accuracy+20
+ 8388: HP+10% STR+10 "Water Attack Bonus"+1
+ 8389: HP+10% STR+10 "Water Attack Bonus"+2
+ 8390: HP+10% STR+10 "Water Attack Bonus"+3
+ 8391: HP+11% STR+11 "Water Attack Bonus"+4
+ 8392: HP+11% STR+11 "Water Attack Bonus"+5
+ 8393: HP+11% STR+11 "Water Attack Bonus"+6
+ 8394: HP+12% STR+12 "Water Attack Bonus"+7
+ 8395: HP+12% STR+12 "Water Attack Bonus"+8 Sphere: "Double Attack"+1%
+ 8396: HP+12% STR+12 "Water Attack Bonus"+9 Sphere: "Double Attack"+1%
+ 8397: HP+13% STR+13 "Water Attack Bonus"+10 Sphere: "Double Attack"+1%
+ 8398: HP+13% STR+13 "Water Attack Bonus"+11 Sphere: "Double Attack"+1%
+ 8399: HP+13% STR+13 "Water Attack Bonus"+12 Sphere: "Double Attack"+1%
+ 8400: HP+14% STR+14 "Water Attack Bonus"+13 Sphere: "Double Attack"+1%
+ 8401: HP+14% STR+14 "Water Attack Bonus"+14 Sphere: "Double Attack"+1%
+ 8402: HP+15% STR+15 "Water Attack Bonus"+15 Sphere: "Double Attack"+2%
+ 8403: HP+100 AGI+5 "Double Attack"+1%
+ 8404: HP+105 AGI+5 "Double Attack"+1%
+ 8405: HP+110 AGI+5 "Double Attack"+1%
+ 8406: HP+115 AGI+6 "Double Attack"+1%
+ 8407: HP+120 AGI+6 "Double Attack"+1%
+ 8408: HP+125 AGI+6 "Double Attack"+2%
+ 8409: HP+130 AGI+7 "Double Attack"+2%
+ 8410: HP+135 AGI+7 "Double Attack"+2%
+ 8411: HP+140 AGI+7 "Double Attack"+2%
+ 8412: HP+150 AGI+8 "Double Attack"+2%
+ 8413: HP+160 AGI+8 "Double Attack"+3%
+ 8414: HP+170 AGI+8 "Double Attack"+3%
+ 8415: HP+180 AGI+9 "Double Attack"+3%
+ 8416: HP+190 AGI+9 "Double Attack"+3%
+ 8417: HP+200 AGI+10 "Double Attack"+3%
+ 8418: MP+100 MND+5 Enhances "Resist Silence" effect +1
+ 8419: MP+105 MND+5 Enhances "Resist Silence" effect +2
+ 8420: MP+115 MND+5 Enhances "Resist Silence" effect +3
+ 8421: MP+115 MND+6 Enhances "Resist Silence" effect +4
+ 8422: MP+120 MND+6 Enhances "Resist Silence" effect +5
+ 8423: MP+125 MND+6 Enhances "Resist Silence" effect +6
+ 8424: MP+130 MND+7 Enhances "Resist Silence" effect +7
+ 8425: MP+135 MND+7 Enhances "Resist Silence" effect +8
+ 8426: MP+140 MND+7 Enhances "Resist Silence" effect +9
+ 8427: MP+150 MND+8 Enhances "Resist Silence" effect +10
+ 8428: MP+160 MND+8 Enhances "Resist Silence" effect +13
+ 8429: MP+170 MND+8 Enhances "Resist Silence" effect +16
+ 8430: MP+180 MND+9 Enhances "Resist Silence" effect +19
+ 8431: MP+190 MND+9 Enhances "Resist Silence" effect +22
+ 8432: MP+200 MND+10 Enhances "Resist Silence" effect +25
  8433: "Subtle Blow"+5 CHR+5 "Triple Attack"+1%
  8434: "Subtle Blow"+5 CHR+5 "Triple Attack"+1%
- 8435: "Subtle Blow"+6 CHR+6 "Triple Attack"+1%
+ 8435: "Subtle Blow"+5 CHR+5 "Triple Attack"+1%
  8436: "Subtle Blow"+6 CHR+6 "Triple Attack"+1%
- 8437: "Subtle Blow"+6 CHR+6 "Triple Attack"+2%
- 8438: "Subtle Blow"+7 CHR+7 "Triple Attack"+2%
+ 8437: "Subtle Blow"+6 CHR+6 "Triple Attack"+1%
+ 8438: "Subtle Blow"+6 CHR+6 "Triple Attack"+2%
  8439: "Subtle Blow"+7 CHR+7 "Triple Attack"+2%
  8440: "Subtle Blow"+7 CHR+7 "Triple Attack"+2%
- 8441: "Subtle Blow"+8 CHR+8 "Triple Attack"+2%
- 8442: "Subtle Blow"+8 CHR+8 "Triple Attack"+3%
+ 8441: "Subtle Blow"+7 CHR+7 "Triple Attack"+2%
+ 8442: "Subtle Blow"+8 CHR+8 "Triple Attack"+2%
  8443: "Subtle Blow"+8 CHR+8 "Triple Attack"+3%
- 8444: "Subtle Blow"+9 CHR+9 "Triple Attack"+3%
+ 8444: "Subtle Blow"+8 CHR+8 "Triple Attack"+3%
  8445: "Subtle Blow"+9 CHR+9 "Triple Attack"+3%
- 8446: "Subtle Blow"+10 CHR+10 "Triple Attack"+3%
- 8447: INT+5 "Magic Attack Bonus"+5 Magic Accuracy+1
+ 8446: "Subtle Blow"+9 CHR+9 "Triple Attack"+3%
+ 8447: "Subtle Blow"+10 CHR+10 "Triple Attack"+3%
  8448: INT+5 "Magic Attack Bonus"+5 Magic Accuracy+1
  8449: INT+5 "Magic Attack Bonus"+5 Magic Accuracy+1
- 8450: INT+6 "Magic Attack Bonus"+6 Magic Accuracy+2
+ 8450: INT+5 "Magic Attack Bonus"+5 Magic Accuracy+1
  8451: INT+6 "Magic Attack Bonus"+6 Magic Accuracy+2
  8452: INT+6 "Magic Attack Bonus"+6 Magic Accuracy+2
- 8453: INT+7 "Magic Attack Bonus"+7 Magic Accuracy+3
+ 8453: INT+6 "Magic Attack Bonus"+6 Magic Accuracy+2
  8454: INT+7 "Magic Attack Bonus"+7 Magic Accuracy+3
  8455: INT+7 "Magic Attack Bonus"+7 Magic Accuracy+3
- 8456: INT+8 "Magic Attack Bonus"+8 Magic Accuracy+4
+ 8456: INT+7 "Magic Attack Bonus"+7 Magic Accuracy+3
  8457: INT+8 "Magic Attack Bonus"+8 Magic Accuracy+4
  8458: INT+8 "Magic Attack Bonus"+8 Magic Accuracy+4
- 8459: INT+9 "Magic Attack Bonus"+9 Magic Accuracy+5
+ 8459: INT+8 "Magic Attack Bonus"+8 Magic Accuracy+4
  8460: INT+9 "Magic Attack Bonus"+9 Magic Accuracy+5
- 8461: INT+10 "Magic Attack Bonus"+10 Magic Accuracy+5
- 8462: MP+10% Enhances "Refresh" effect +3 "Earth Attack Bonus"+1
- 8463: MP+10% Enhances "Refresh" effect +3 "Earth Attack Bonus"+2
- 8464: MP+10% Enhances "Refresh" effect +3 "Earth Attack Bonus"+3
- 8465: MP+11% Enhances "Refresh" effect +3 "Earth Attack Bonus"+4
- 8466: MP+11% Enhances "Refresh" effect +4 "Earth Attack Bonus"+5
- 8467: MP+11% Enhances "Refresh" effect +4 "Earth Attack Bonus"+6
- 8468: MP+12% Enhances "Refresh" effect +4 "Earth Attack Bonus"+7
- 8469: MP+12% Enhances "Refresh" effect +4 "Earth Attack Bonus"+8 Sphere: "Magic Attack Bonus"+1
- 8470: MP+12% Enhances "Refresh" effect +4 "Earth Attack Bonus"+9 Sphere: "Magic Attack Bonus"+1
- 8471: MP+13% Enhances "Refresh" effect +4 "Earth Attack Bonus"+10 Sphere: "Magic Attack Bonus"+1
- 8472: MP+13% Enhances "Refresh" effect +5 "Earth Attack Bonus"+11 Sphere: "Magic Attack Bonus"+1
- 8473: MP+13% Enhances "Refresh" effect +5 "Earth Attack Bonus"+12 Sphere: "Magic Attack Bonus"+1
- 8474: MP+14% Enhances "Refresh" effect +5 "Earth Attack Bonus"+13 Sphere: "Magic Attack Bonus"+1
- 8475: MP+14% Enhances "Refresh" effect +5 "Earth Attack Bonus"+14 Sphere: "Magic Attack Bonus"+1
- 8476: MP+15% Enhances "Refresh" effect +5 "Earth Attack Bonus"+15 Sphere: "Magic Attack Bonus"+2
- 8477: 41 1
- 8478: 41 2
- 8479: 41 3
- 8480: 41 4
- 8481: 41 5
- 8482: 41 6
- 8483: 41 7
- 8484: 41 8
- 8485: 41 9
- 8486: 41 10
- 8487: 41 11
- 8488: 41 12
- 8489: 41 13
- 8490: 41 14
- 8491: 41 15
- 8492: 42 1
- 8493: 42 2
- 8494: 42 3
- 8495: 42 4
- 8496: 42 5
- 8497: 42 6
- 8498: 42 7
- 8499: 42 8
- 8500: 42 9
- 8501: 42 10
- 8502: 42 11
- 8503: 42 12
- 8504: 42 13
- 8505: 42 14
- 8506: 42 15
- 8507: 43 1
- 8508: 43 2
- 8509: 43 3
- 8510: 43 4
- 8511: 43 5
- 8512: 43 6
- 8513: 43 7
- 8514: 43 8
- 8515: 43 9
- 8516: 43 10
- 8517: 43 11
- 8518: 43 12
- 8519: 43 13
- 8520: 43 14
- 8521: 43 15
- 8522: 44 1
- 8523: 44 2
- 8524: 44 3
- 8525: 44 4
- 8526: 44 5
- 8527: 44 6
- 8528: 44 7
- 8529: 44 8
- 8530: 44 9
- 8531: 44 10
- 8532: 44 11
- 8533: 44 12
- 8534: 44 13
- 8535: 44 14
- 8536: 44 15
- 8537: 45 1
- 8538: 45 2
- 8539: 45 3
- 8540: 45 4
- 8541: 45 5
- 8542: 45 6
- 8543: 45 7
- 8544: 45 8
- 8545: 45 9
- 8546: 45 10
- 8547: 45 11
- 8548: 45 12
- 8549: 45 13
- 8550: 45 14
- 8551: 45 15
- 8552: 46 1
- 8553: 46 2
- 8554: 46 3
- 8555: 46 4
- 8556: 46 5
- 8557: 46 6
- 8558: 46 7
- 8559: 46 8
- 8560: 46 9
- 8561: 46 10
- 8562: 46 11
- 8563: 46 12
- 8564: 46 13
- 8565: 46 14
- 8566: 46 15
- 8567: 47 1
- 8568: 47 2
- 8569: 47 3
- 8570: 47 4
- 8571: 47 5
- 8572: 47 6
- 8573: 47 7
- 8574: 47 8
- 8575: 47 9
- 8576: 47 10
- 8577: 47 11
- 8578: 47 12
- 8579: 47 13
- 8580: 47 14
- 8581: 47 15
- 8582: 48 1
- 8583: 48 2
- 8584: 48 3
- 8585: 48 4
- 8586: 48 5
- 8587: 48 6
- 8588: 48 7
- 8589: 48 8
- 8590: 48 9
- 8591: 48 10
- 8592: 48 11
- 8593: 48 12
- 8594: 48 13
- 8595: 48 14
- 8596: 48 15
- 8597: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 8598: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 8599: You have returned to the field of battle.
- 8600: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 8601: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 8602: You have only $0 [second/seconds] (Earth time) remaining.
- 8603: Your time for this Confrontation is up...
- 8604: The monster fades before your eyes, a look of disappointment on its face.
- 8605: (Test message.)
- 8606: Enter the garrison? [Yes./No.]
- 8607: The $3 is ripped violently to pieces!
- 8608: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 8609: Hark! Our foe lurks thither. How wouldst thou proceed?
- 8610: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 8611: Our foe advances...may thine aim be true!
- 8612: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 8613: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 8614: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 8615: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 8616: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 8617: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 8618: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 8619: Greetings, traveler! How dost thou fare in thine adventures?
- 8620: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 8621: Dost thou find this enchantment to thy liking?
- 8622: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 8623: Splendid! May it serve thee well.
- 8624: %0 obtained $0!
- 8625: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 8626: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 8627: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 8628: Though it may fall short of thy expectations, pray accept it.
- 8629: Otherwise, we shall have no choice but to dispose of it.
- 8630: Many thanks for thine assistance!
- 8631: Pray accept this $0 as but a humble token of our gratitude.
- 8632: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 8633: $3f$3o$3b$3O$590643$3$3NM
- 8634: $3f$3o$3b$3O$201475X$3^$3243853
- 8635: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
- 8636: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
- 8637: Accept the appropriate Unity: Wanted objective from the Records of Eminence list.
- 8638: You are not the party leader.
- 8639: Some members of your party/alliance are not in the appropriate staging zone.
- 8640: You must have at least $0 people in your party/alliance to participate.
- 8641: One or more party/alliance members have not accepted the objective for $0.
- 8642: One or more party/alliance members do not have the required $0 Unity accolade[/s] to join the fray.
- 8643: One or more party/alliance members have not yet received their additional rewards for completing $0.
- 8644: Unable to commence Wanted battle
- 8645: One or more party/alliance members has a fellow active.
- 8646: One or more party/alliance members has an alter ego active.
- 8647: One or more party/alliance members is already participating in other content.
- 8648: One or more party/alliance members is currently viewing a cut scene.
- 8649: $0 has been removed. Reselect the objective and try again.
- 8650: All party members have been knocked out. Leaving the Wanted battle in $0 minute[/s].
- 8651: Your party leader is attempting to commence a Wanted battle.
- 8652: Your party leader is attempting to commence a Wanted battle. You do not have the objective set, so your rewards will be limited.
- 8653: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
- 8654: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
- 8655: No one in your party has set the appropriate Records of Eminence objective.
- 8656: $0 will be active the next time you join this battle.
- 8657: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 8658: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 8659: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 8660: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 8661: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
- 8662: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
- 8663: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
- 8664: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 8665: It will cost $2 gil to teleport to $8. ($3 gil on hand)
- 8666: All mog tablets have currently been found, so you may teleport to $8 at no charge.
- 8667: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 8668: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
- 8669: You do not have enough tabs.
- 8670: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
- 8671: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
- 8672: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
- 8673: Accept the reward? [Yes, please./No, thanks.]
- 8674: You may change the way you select areas listed in "Teleportation Assistance."
- 8675: Any changes to make? [Keep course./Select by region./Select by content.]
- 8676: Area selection will now be made by [region/content].
- 8677: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
- 8678: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 8679: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
- 8680: $8 has been [added to your list of favorites/removed from your list of favorites].
- 8681: Your list of favorites is full. You must remove an existing entry to add new ones.
- 8682: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+ 8461: INT+9 "Magic Attack Bonus"+9 Magic Accuracy+5
+ 8462: INT+10 "Magic Attack Bonus"+10 Magic Accuracy+5
+ 8463: MP+10% Enhances "Refresh" effect +3 "Earth Attack Bonus"+1
+ 8464: MP+10% Enhances "Refresh" effect +3 "Earth Attack Bonus"+2
+ 8465: MP+10% Enhances "Refresh" effect +3 "Earth Attack Bonus"+3
+ 8466: MP+11% Enhances "Refresh" effect +3 "Earth Attack Bonus"+4
+ 8467: MP+11% Enhances "Refresh" effect +4 "Earth Attack Bonus"+5
+ 8468: MP+11% Enhances "Refresh" effect +4 "Earth Attack Bonus"+6
+ 8469: MP+12% Enhances "Refresh" effect +4 "Earth Attack Bonus"+7
+ 8470: MP+12% Enhances "Refresh" effect +4 "Earth Attack Bonus"+8 Sphere: "Magic Attack Bonus"+1
+ 8471: MP+12% Enhances "Refresh" effect +4 "Earth Attack Bonus"+9 Sphere: "Magic Attack Bonus"+1
+ 8472: MP+13% Enhances "Refresh" effect +4 "Earth Attack Bonus"+10 Sphere: "Magic Attack Bonus"+1
+ 8473: MP+13% Enhances "Refresh" effect +5 "Earth Attack Bonus"+11 Sphere: "Magic Attack Bonus"+1
+ 8474: MP+13% Enhances "Refresh" effect +5 "Earth Attack Bonus"+12 Sphere: "Magic Attack Bonus"+1
+ 8475: MP+14% Enhances "Refresh" effect +5 "Earth Attack Bonus"+13 Sphere: "Magic Attack Bonus"+1
+ 8476: MP+14% Enhances "Refresh" effect +5 "Earth Attack Bonus"+14 Sphere: "Magic Attack Bonus"+1
+ 8477: MP+15% Enhances "Refresh" effect +5 "Earth Attack Bonus"+15 Sphere: "Magic Attack Bonus"+2
+ 8478: 41 1
+ 8479: 41 2
+ 8480: 41 3
+ 8481: 41 4
+ 8482: 41 5
+ 8483: 41 6
+ 8484: 41 7
+ 8485: 41 8
+ 8486: 41 9
+ 8487: 41 10
+ 8488: 41 11
+ 8489: 41 12
+ 8490: 41 13
+ 8491: 41 14
+ 8492: 41 15
+ 8493: 42 1
+ 8494: 42 2
+ 8495: 42 3
+ 8496: 42 4
+ 8497: 42 5
+ 8498: 42 6
+ 8499: 42 7
+ 8500: 42 8
+ 8501: 42 9
+ 8502: 42 10
+ 8503: 42 11
+ 8504: 42 12
+ 8505: 42 13
+ 8506: 42 14
+ 8507: 42 15
+ 8508: 43 1
+ 8509: 43 2
+ 8510: 43 3
+ 8511: 43 4
+ 8512: 43 5
+ 8513: 43 6
+ 8514: 43 7
+ 8515: 43 8
+ 8516: 43 9
+ 8517: 43 10
+ 8518: 43 11
+ 8519: 43 12
+ 8520: 43 13
+ 8521: 43 14
+ 8522: 43 15
+ 8523: 44 1
+ 8524: 44 2
+ 8525: 44 3
+ 8526: 44 4
+ 8527: 44 5
+ 8528: 44 6
+ 8529: 44 7
+ 8530: 44 8
+ 8531: 44 9
+ 8532: 44 10
+ 8533: 44 11
+ 8534: 44 12
+ 8535: 44 13
+ 8536: 44 14
+ 8537: 44 15
+ 8538: 45 1
+ 8539: 45 2
+ 8540: 45 3
+ 8541: 45 4
+ 8542: 45 5
+ 8543: 45 6
+ 8544: 45 7
+ 8545: 45 8
+ 8546: 45 9
+ 8547: 45 10
+ 8548: 45 11
+ 8549: 45 12
+ 8550: 45 13
+ 8551: 45 14
+ 8552: 45 15
+ 8553: 46 1
+ 8554: 46 2
+ 8555: 46 3
+ 8556: 46 4
+ 8557: 46 5
+ 8558: 46 6
+ 8559: 46 7
+ 8560: 46 8
+ 8561: 46 9
+ 8562: 46 10
+ 8563: 46 11
+ 8564: 46 12
+ 8565: 46 13
+ 8566: 46 14
+ 8567: 46 15
+ 8568: 47 1
+ 8569: 47 2
+ 8570: 47 3
+ 8571: 47 4
+ 8572: 47 5
+ 8573: 47 6
+ 8574: 47 7
+ 8575: 47 8
+ 8576: 47 9
+ 8577: 47 10
+ 8578: 47 11
+ 8579: 47 12
+ 8580: 47 13
+ 8581: 47 14
+ 8582: 47 15
+ 8583: 48 1
+ 8584: 48 2
+ 8585: 48 3
+ 8586: 48 4
+ 8587: 48 5
+ 8588: 48 6
+ 8589: 48 7
+ 8590: 48 8
+ 8591: 48 9
+ 8592: 48 10
+ 8593: 48 11
+ 8594: 48 12
+ 8595: 48 13
+ 8596: 48 14
+ 8597: 48 15
+ 8598: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 8599: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 8600: You have returned to the field of battle.
+ 8601: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 8602: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 8603: You have only $0 [second/seconds] (Earth time) remaining.
+ 8604: Your time for this Confrontation is up...
+ 8605: The monster fades before your eyes, a look of disappointment on its face.
+ 8606: (Test message.)
+ 8607: Enter the garrison? [Yes./No.]
+ 8608: The $3 is ripped violently to pieces!
+ 8609: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 8610: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 8611: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 8612: Our foe advances...may thine aim be true!
+ 8613: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 8614: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 8615: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 8616: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 8617: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 8618: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 8619: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 8620: Greetings, traveler! How dost thou fare in thine adventures?
+ 8621: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 8622: Dost thou find this enchantment to thy liking?
+ 8623: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 8624: Splendid! May it serve thee well.
+ 8625: %0 obtained $0!
+ 8626: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 8627: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 8628: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 8629: Though it may fall short of thy expectations, pray accept it.
+ 8630: Otherwise, we shall have no choice but to dispose of it.
+ 8631: Many thanks for thine assistance!
+ 8632: Pray accept this $0 as but a humble token of our gratitude.
+ 8633: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 8634: $3f$3o$3b$3O$590643$3$3NM
+ 8635: $3f$3o$3b$3O$201475X$3^$3243853
+ 8636: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
+ 8637: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
+ 8638: Accept the appropriate Unity: Wanted objective from the Records of Eminence list.
+ 8639: You are not the party leader.
+ 8640: Some members of your party/alliance are not in the appropriate staging zone.
+ 8641: You must have at least $0 people in your party/alliance to participate.
+ 8642: One or more party/alliance members have not accepted the objective for $0.
+ 8643: One or more party/alliance members do not have the required $0 Unity accolade[/s] to join the fray.
+ 8644: One or more party/alliance members have not yet received their additional rewards for completing $0.
+ 8645: Unable to commence Wanted battle
+ 8646: One or more party/alliance members has a fellow active.
+ 8647: One or more party/alliance members has an alter ego active.
+ 8648: One or more party/alliance members is already participating in other content.
+ 8649: One or more party/alliance members is currently viewing a cut scene.
+ 8650: $0 has been removed. Reselect the objective and try again.
+ 8651: All party members have been knocked out. Leaving the Wanted battle in $0 minute[/s].
+ 8652: Your party leader is attempting to commence a Wanted battle.
+ 8653: Your party leader is attempting to commence a Wanted battle. You do not have the objective set, so your rewards will be limited.
+ 8654: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
+ 8655: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 8656: No one in your party has set the appropriate Records of Eminence objective.
+ 8657: $0 will be active the next time you join this battle.
+ 8658: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 8659: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 8660: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 8661: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 8662: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+ 8663: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+ 8664: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+ 8665: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 8666: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+ 8667: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+ 8668: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+ 8669: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 8670: You do not have enough tabs.
+ 8671: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+ 8672: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+ 8673: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+ 8674: Accept the reward? [Yes, please./No, thanks.]
+ 8675: You may change the way you select areas listed in "Teleportation Assistance."
+ 8676: Any changes to make? [Keep course./Select by region./Select by content.]
+ 8677: Area selection will now be made by [region/content].
+ 8678: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+ 8679: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 8680: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+ 8681: $8 has been [added to your list of favorites/removed from your list of favorites].
+ 8682: Your list of favorites is full. You must remove an existing entry to add new ones.
+ 8683: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]

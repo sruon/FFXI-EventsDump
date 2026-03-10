@@ -23,10 +23,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0041      |          65 |
-|       1 | 0x290C      |       10508 |
+|       1 | 0x290D      |       10509 |
 |       2 | 0x003C      |          60 |
-|       3 | 0x290D      |       10509 |
-|       4 | 0x290E      |       10510 |
+|       3 | 0x290E      |       10510 |
+|       4 | 0x290F      |       10511 |
 |       5 | 0x0028      |          40 |
 |       6 | 0xFFFEC1B2  |  4294885810 |
 |       7 | 0x282D      |       10285 |
@@ -36,9 +36,9 @@
 
 ## String References
 
-- **10508**: I saw someone slinking through the alleyways the other night. I could only describe him as a "shady gent."
-- **10509**: Odd, I know. When I asked my superior about it, he told me people have spotted a guy fitting that description for years!
-- **10510**: I h-h-hope it's not a ghost! I'm d-d-deathly afraid of ghosts! I can barely take a step without getting Galkabumps anymore.
+- **10509**: I saw someone slinking through the alleyways the other night. I could only describe him as a "shady gent."
+- **10510**: Odd, I know. When I asked my superior about it, he told me people have spotted a guy fitting that description for years!
+- **10511**: I h-h-hope it's not a ghost! I'm d-d-deathly afraid of ghosts! I can barely take a step without getting Galkabumps anymore.
 
 ## Events
 
@@ -91,15 +91,15 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10508*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10509*)
     → "I saw someone slinking through the alleyways the other night. I could only describe him as a "shady gent.""
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
   7: 0x002A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=60*
-  8: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=10509*)
+  8: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=10510*)
     → "Odd, I know. When I asked my superior about it, he told me people have spotted a guy fitting that description for years!"
   9: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=10510*)
+ 10: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=10511*)
     → "I h-h-hope it's not a ghost! I'm d-d-deathly afraid of ghosts! I can barely take a step without getting Galkabumps anymore."
  11: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0041 [0x21] END_EVENT

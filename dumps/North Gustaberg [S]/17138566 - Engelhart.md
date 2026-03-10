@@ -22,13 +22,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FA7      |        8103 |
-|       1 | 0x1FA8      |        8104 |
+|       0 | 0x1FA8      |        8104 |
+|       1 | 0x1FA9      |        8105 |
 
 ## String References
 
-- **8103**: With you at our side, and bonds of friendship stronger than mythril as our strength, there is no storm our Republic cannot weather.
-- **8104**: Together, let us forge our future. A future as bright as the brightest dawn...
+- **8104**: With you at our side, and bonds of friendship stronger than mythril as our strength, there is no storm our Republic cannot weather.
+- **8105**: Together, let us forge our future. A future as bright as the brightest dawn...
 
 ## Events
 
@@ -96,7 +96,7 @@
 #### Opcodes
 
 ```
-  0: 0x0008 [0x48] [System] [8103*]:
+  0: 0x0008 [0x48] [System] [8104*]:
     → "With you at our side, and bonds of friendship stronger than mythril as our strength, there is no storm our Republic cannot weather."
   1: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -123,7 +123,7 @@
 #### Opcodes
 
 ```
-  0: 0x000E [0x48] [System] [8104*]:
+  0: 0x000E [0x48] [System] [8105*]:
     → "Together, let us forge our future. A future as bright as the brightest dawn..."
   1: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION

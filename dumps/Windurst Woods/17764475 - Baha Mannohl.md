@@ -37,13 +37,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2045      |        8261 |
-|       3 | 0x2046      |        8262 |
+|       2 | 0x2046      |        8262 |
+|       3 | 0x2047      |        8263 |
 
 ## String References
 
-- **8261**: I brought my daughterrr here to meet the tribal chieftainness, and have herrr highness see just how the child is grrrowing.
-- **8262**: The chieftainness inculcated my daughter on the Mithra spirit--the teachings of a people in harrrmony with naturrre. This is just as my motherrr had done forrr me.
+- **8262**: I brought my daughterrr here to meet the tribal chieftainness, and have herrr highness see just how the child is grrrowing.
+- **8263**: The chieftainness inculcated my daughter on the Mithra spirit--the teachings of a people in harrrmony with naturrre. This is just as my motherrr had done forrr me.
 
 ## Events
 
@@ -167,10 +167,10 @@
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baha Mannohl (ID: 17764475/0x010F107B), tag_num=0x01)
-  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8261*)
+  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
     → "I brought my daughterrr here to meet the tribal chieftainness, and have herrr highness see just how the child is grrrowing."
   5: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
+  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
     → "The chieftainness inculcated my daughter on the Mithra spirit--the teachings of a people in harrrmony with naturrre. This is just as my motherrr had done forrr me."
   7: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0039 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baha Mannohl (ID: 17764475/0x010F107B), tag_num=0x02)

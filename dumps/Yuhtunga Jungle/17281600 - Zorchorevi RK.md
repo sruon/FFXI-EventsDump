@@ -21,23 +21,23 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E74      |        7796 |
+|       0 | 0x1E75      |        7797 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x1E75      |        7797 |
-|       3 | 0x1E76      |        7798 |
-|       4 | 0x1E77      |        7799 |
+|       2 | 0x1E76      |        7798 |
+|       3 | 0x1E77      |        7799 |
+|       4 | 0x1E78      |        7800 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x1E78      |        7800 |
-|       7 | 0x1E79      |        7801 |
+|       6 | 0x1E79      |        7801 |
+|       7 | 0x1E7A      |        7802 |
 |       8 | 0x0028      |          40 |
-|       9 | 0x1E7A      |        7802 |
-|      10 | 0x1E7B      |        7803 |
+|       9 | 0x1E7B      |        7803 |
+|      10 | 0x1E7C      |        7804 |
 |      11 | 0x0032      |          50 |
-|      12 | 0x1E7C      |        7804 |
-|      13 | 0x1E7D      |        7805 |
+|      12 | 0x1E7D      |        7805 |
+|      13 | 0x1E7E      |        7806 |
 |      14 | 0x004B      |          75 |
-|      15 | 0x1E7E      |        7806 |
-|      16 | 0x1E7F      |        7807 |
+|      15 | 0x1E7F      |        7807 |
+|      16 | 0x1E80      |        7808 |
 |      17 | 0x0000      |           0 |
 |      18 | 0x0003      |           3 |
 |      19 | 0x0004      |           4 |
@@ -495,18 +495,18 @@
 - **7374**: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.
 - **7375**: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.
 - **7378**: I am Jeunoan Ducal Guard, %. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.
-- **7796**: What!? A surprise attack by the beastmen!? And today, of all days...
-- **7797**: In a matter of hours, a handful of new squires will be joining our ranks here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
-- **7798**: These young patricians are quite spirited, but they lack valuable battle experience.
-- **7799**: While we need be cautious not to disgrace their family names, we cannot let them fall in battle. We request your assistance in protecting the future of San d'Oria!
-- **7800**: It will not be long before a caravan of traders in search of new trade routes arrives here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
-- **7801**: If they were to be injured by the enemy, the economy of San d'Oria could fall into chaos. We request your assistance in protecting the prosperity of our kingdom!
-- **7802**: A group of Temple Knights is en route to this outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to observe our daily work.
-- **7803**: Ah, but perhaps this could be a perfect chance to show those pampered sissies that being a true knight comprises more than just chasing about shoplifters and sweeping the chateau gardens. However, no matter how much of a grudge we may hold, we cannot let our Elvaan brothers and sisters fall in battle. Understood?
-- **7804**: In a matter of moments, members of the Royal Guards will be arriving here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to prepare us for our next campaign against the beastmen.
-- **7805**: If the fiends are conniving a surprise attack, I expect you to do your best in assuring that no disgrace will be brought upon the guards' names, as well as preventing any unnecessary bloodshed.
-- **7806**: Today, our outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] is blessed with the honor of welcoming an ambassador from the fine Republic of Bastok.
-- **7807**: If anything were to happen to our guest, it could transpire into war between our two nations. I expect you to protect the attach<Player>i with your very life!
+- **7797**: What!? A surprise attack by the beastmen!? And today, of all days...
+- **7798**: In a matter of hours, a handful of new squires will be joining our ranks here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
+- **7799**: These young patricians are quite spirited, but they lack valuable battle experience.
+- **7800**: While we need be cautious not to disgrace their family names, we cannot let them fall in battle. We request your assistance in protecting the future of San d'Oria!
+- **7801**: It will not be long before a caravan of traders in search of new trade routes arrives here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands].
+- **7802**: If they were to be injured by the enemy, the economy of San d'Oria could fall into chaos. We request your assistance in protecting the prosperity of our kingdom!
+- **7803**: A group of Temple Knights is en route to this outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to observe our daily work.
+- **7804**: Ah, but perhaps this could be a perfect chance to show those pampered sissies that being a true knight comprises more than just chasing about shoplifters and sweeping the chateau gardens. However, no matter how much of a grudge we may hold, we cannot let our Elvaan brothers and sisters fall in battle. Understood?
+- **7805**: In a matter of moments, members of the Royal Guards will be arriving here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to prepare us for our next campaign against the beastmen.
+- **7806**: If the fiends are conniving a surprise attack, I expect you to do your best in assuring that no disgrace will be brought upon the guards' names, as well as preventing any unnecessary bloodshed.
+- **7807**: Today, our outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] is blessed with the honor of welcoming an ambassador from the fine Republic of Bastok.
+- **7808**: If anything were to happen to our guest, it could transpire into war between our two nations. I expect you to protect the attach<Player>i with your very life!
 
 ## Events
 
@@ -1435,49 +1435,49 @@
 ```
   0: 0x0005 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0006 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
     → "What!? A surprise attack by the beastmen!? And today, of all days..."
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000F [0x02] IF !(Work_Zone[5] == 20*) GOTO 0x0026
-  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
+  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
     → "In a matter of hours, a handful of new squires will be joining our ranks here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands]."
   6: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
+  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
     → "These young patricians are quite spirited, but they lack valuable battle experience."
   8: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
+  9: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
     → "While we need be cautious not to disgrace their family names, we cannot let them fall in battle. We request your assistance in protecting the future of San d'Oria!"
  10: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0023 [0x01] GOTO 0x0072
  12: 0x0026 [0x02] IF !(Work_Zone[5] == 30*) GOTO 0x0039
- 13: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
+ 13: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
     → "It will not be long before a caravan of traders in search of new trade routes arrives here at the outpost in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands]."
  14: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
+ 15: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
     → "If they were to be injured by the enemy, the economy of San d'Oria could fall into chaos. We request your assistance in protecting the prosperity of our kingdom!"
  16: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0036 [0x01] GOTO 0x0072
  18: 0x0039 [0x02] IF !(Work_Zone[5] == 40*) GOTO 0x004C
- 19: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
+ 19: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
     → "A group of Temple Knights is en route to this outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to observe our daily work."
  20: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
+ 21: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
     → "Ah, but perhaps this could be a perfect chance to show those pampered sissies that being a true knight comprises more than just chasing about shoplifters and sweeping the chateau gardens. However, no matter how much of a grudge we may hold, we cannot let our Elvaan brothers and sisters fall in battle. Understood?"
  22: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0049 [0x01] GOTO 0x0072
  24: 0x004C [0x02] IF !(Work_Zone[5] == 50*) GOTO 0x005F
- 25: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
+ 25: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
     → "In a matter of moments, members of the Royal Guards will be arriving here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] to prepare us for our next campaign against the beastmen."
  26: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
+ 27: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
     → "If the fiends are conniving a surprise attack, I expect you to do your best in assuring that no disgrace will be brought upon the guards' names, as well as preventing any unnecessary bloodshed."
  28: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x005C [0x01] GOTO 0x0072
  30: 0x005F [0x02] IF !(Work_Zone[5] == 75*) GOTO 0x0072
- 31: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
+ 31: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
     → "Today, our outpost here in [Ronfaure/Gustaberg/Sarutabaruta/Zulkheim/Norvallen/Derfland/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands] is blessed with the honor of welcoming an ambassador from the fine Republic of Bastok."
  32: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
+ 33: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7808*)
     → "If anything were to happen to our guest, it could transpire into war between our two nations. I expect you to protect the attach<Player>i with your very life!"
  34: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x006F [0x01] GOTO 0x0072

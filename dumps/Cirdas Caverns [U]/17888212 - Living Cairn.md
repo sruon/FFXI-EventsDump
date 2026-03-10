@@ -21,15 +21,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CFF      |        7423 |
+|       0 | 0x1D00      |        7424 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D00      |        7424 |
+|       3 | 0x1D01      |        7425 |
 
 ## String References
 
-- **7423**: Teleport to the next location? [Proceed./Not yet.]
-- **7424**: Teleport to which area? [None./1."."./4./5./6./7./8./9./10.]
+- **7424**: Teleport to the next location? [Proceed./Not yet.]
+- **7425**: Teleport to which area? [None./1."."./4./5./6./7./8./9./10.]
 
 ## Events
 
@@ -76,7 +76,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7423*, default_option=1*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7424*, default_option=1*, option_flags=0*)
     → "Teleport to the next location? [Proceed./Not yet.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019
@@ -112,7 +112,7 @@ SUBROUTINE_0029:
 #### Opcodes
 
 ```
-  0: 0x002B [0x24] CREATE_DIALOG(message_id=7424*, default_option=0*, option_flags=0*)
+  0: 0x002B [0x24] CREATE_DIALOG(message_id=7425*, default_option=0*, option_flags=0*)
     → "Teleport to which area? [None./1."."./4./5./6./7./8./9./10.]"
   1: 0x0032 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0033 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0043

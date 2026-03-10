@@ -27,7 +27,7 @@
 |       2 | 0x0000      |           0 |
 |       3 | 0x003C      |          60 |
 |       4 | 0x001E      |          30 |
-|       5 | 0x1E3F      |        7743 |
+|       5 | 0x1E40      |        7744 |
 |       6 | 0x0027      |          39 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x007C      |         124 |
@@ -38,15 +38,15 @@
 |      13 | 0xFFFFF1EF  |  4294963695 |
 |      14 | 0x03FA      |        1018 |
 |      15 | 0x0005      |           5 |
-|      16 | 0x1E73      |        7795 |
-|      17 | 0x1E74      |        7796 |
-|      18 | 0x1E75      |        7797 |
-|      19 | 0x1E78      |        7800 |
-|      20 | 0x1E76      |        7798 |
+|      16 | 0x1E74      |        7796 |
+|      17 | 0x1E75      |        7797 |
+|      18 | 0x1E76      |        7798 |
+|      19 | 0x1E79      |        7801 |
+|      20 | 0x1E77      |        7799 |
 
 ## String References
 
-- **7743**: You dig up a strange wooden casket!
+- **7744**: You dig up a strange wooden casket!
 
 ## Events
 
@@ -128,7 +128,7 @@
   6: 0x0025 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Casket (ID: 17285687/0x0107C237), tag_num=0x02)
   7: 0x002C [0x1C] WAIT(30* ticks)
   8: 0x002F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  9: 0x0040 [0x48] [System] [7743*]:
+  9: 0x0040 [0x48] [System] [7744*]:
     → "You dig up a strange wooden casket!"
  10: 0x0043 [0x1C] WAIT(60* ticks)
  11: 0x0046 [0x6E] LocalPlayer uses emote 39*
@@ -213,10 +213,10 @@
  16: 0x00D5 [0x4A] Kiteh Nanjyea (ID: 17285698/0x0107C242) looks at LocalPlayer
  17: 0x00DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s104" with entities [EventEntity, EventEntity], work=[5*, 0*]
  18: 0x00EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x0100 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7795*]:
+ 19: 0x0100 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7796*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0108 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7796*]:
+ 21: 0x0108 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7797*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  22: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0110 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0153
@@ -227,11 +227,11 @@
  28: 0x012C [0x15] Work_Zone[6] /= 60*
  29: 0x0131 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  30: 0x0138 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x014B
- 31: 0x0140 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7797*]:
+ 31: 0x0140 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7798*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  32: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0148 [0x01] GOTO 0x0153
- 34: 0x014B [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7800*]:
+ 34: 0x014B [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7801*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  35: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -252,11 +252,11 @@ SUBROUTINE_0153:
 # Dead code (unreachable instructions):
      0x01A8 [0x4A] Kiteh Nanjyea (ID: 17285698/0x0107C242) looks at LocalPlayer
      0x01B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-     0x01C2 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7795*]:
+     0x01C2 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7796*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
      0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01CA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kiteh Nanjyea (ID: 17285698/0x0107C242), Kiteh Nanjyea (ID: 17285698/0x0107C242)], work=30*
-     0x01D9 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7796*]:
+     0x01D9 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7797*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
      0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01E1 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0233
@@ -268,15 +268,15 @@ SUBROUTINE_0153:
      0x020C [0x15] Work_Zone[6] /= 60*
      0x0211 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
      0x0218 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x022B
-     0x0220 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7797*]:
+     0x0220 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7798*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
      0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0228 [0x01] GOTO 0x0233
-     0x022B [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7800*]:
+     0x022B [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7801*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
      0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0233 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Kiteh Nanjyea (ID: 17285698/0x0107C242), Kiteh Nanjyea (ID: 17285698/0x0107C242)], work=30*
-     0x0242 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7798*]:
+     0x0242 [0x2B] Kiteh Nanjyea (ID: 17285698/0x0107C242) [7799*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
      0x0249 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x024A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

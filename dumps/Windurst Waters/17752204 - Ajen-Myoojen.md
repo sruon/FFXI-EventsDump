@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1EFC      |        7932 |
-|       3 | 0x1EFD      |        7933 |
+|       2 | 0x1EFD      |        7933 |
+|       3 | 0x1EFE      |        7934 |
 
 ## String References
 
-- **7932**: Whoa! Hold on there! Are you properly equipped to head outside?
-- **7933**: Just holding armor and weapons in your inventory is useless. You first have to equip these items to wear them properly. You understand?
+- **7933**: Whoa! Hold on there! Are you properly equipped to head outside?
+- **7934**: Just holding armor and weapons in your inventory is useless. You first have to equip these items to wear them properly. You understand?
 
 ## Events
 
@@ -156,10 +156,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajen-Myoojen (ID: 17752204/0x010EE08C), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Whoa! Hold on there! Are you properly equipped to head outside?"
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
     → "Just holding armor and weapons in your inventory is useless. You first have to equip these items to wear them properly. You understand?"
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajen-Myoojen (ID: 17752204/0x010EE08C), tag_num=0x02)

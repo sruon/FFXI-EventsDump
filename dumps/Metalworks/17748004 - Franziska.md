@@ -28,7 +28,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x1F20      |        7968 |
-|       1 | 0x22BE      |        8894 |
+|       1 | 0x22BF      |        8895 |
 |       2 | 0x1BFF5     |      114677 |
 |       3 | 0xFFFFD9D9  |  4294957529 |
 |       4 | 0xFFFFB136  |  4294947126 |
@@ -41,13 +41,13 @@
 |      11 | 0x0000      |           0 |
 |      12 | 0x0078      |         120 |
 |      13 | 0xFFFFDAD8  |  4294957784 |
-|      14 | 0x222D      |        8749 |
+|      14 | 0x222E      |        8750 |
 
 ## String References
 
 - **7968**: Lady Cornelia is not here at the moment. I hope she doesn't stay out too late...
-- **8749**: Lady Cornelia has locked herself in her room and will not come out...
-- **8894**: Recently, Lady Cornelia has taken up an interest in her studies. However, how long this will last, I do not know...
+- **8750**: Lady Cornelia has locked herself in her room and will not come out...
+- **8895**: Recently, Lady Cornelia has taken up an interest in her studies. However, how long this will last, I do not know...
 
 ## Events
 
@@ -121,7 +121,7 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=8894*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=8895*)
     → "Recently, Lady Cornelia has taken up an interest in her studies. However, how long this will last, I do not know..."
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0015 [0x21] END_EVENT
@@ -284,7 +284,7 @@
 
 ```
   0: 0x0081 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=8749*)
+  1: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=8750*)
     → "Lady Cornelia has locked herself in her room and will not come out..."
   2: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x008A [0x21] END_EVENT

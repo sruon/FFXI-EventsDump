@@ -31,10 +31,10 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x29BC      |       10684 |
-|       1 | 0x29BF      |       10687 |
+|       0 | 0x29BD      |       10685 |
+|       1 | 0x29C0      |       10688 |
 |       2 | 0x0006      |           6 |
-|       3 | 0x29C0      |       10688 |
+|       3 | 0x29C1      |       10689 |
 |       4 | 0x1BED      |        7149 |
 |       5 | 0x1BEE      |        7150 |
 |       6 | 0x1BEF      |        7151 |
@@ -481,9 +481,9 @@
 - **7126**: What shall you ask? [About the coming Ballista matches./About the Ballista schedule./About Ballista Earrings./About the rules of Ballista./Nothing at the moment.]
 - **7266**: Ask for an earring? [Yes./No.]
 - **7276**: Return the earring? [Yes./Not yet.]
-- **10684**: <Player>'s badge flashes brightly.
-- **10687**: Look sharp, maggot! Huh? What's that medal you've got there? You an officer dispatched from some foreign land, squirt? Well!?
-- **10688**: You're not? Well, how the hell am I supposed to know!?
+- **10685**: <Player>'s badge flashes brightly.
+- **10688**: Look sharp, maggot! Huh? What's that medal you've got there? You an officer dispatched from some foreign land, squirt? Well!?
+- **10689**: You're not? Well, how the hell am I supposed to know!?
 
 ## Events
 
@@ -530,15 +530,15 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [10684*]:
+  1: 0x0002 [0x48] [System] [10685*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0005 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10687*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10688*)
     → "Look sharp, maggot! Huh? What's that medal you've got there? You an officer dispatched from some foreign land, squirt? Well!?"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x6E] Invincible Shield (ID: 17748094/0x010ED07E) uses emote 6*
   6: 0x0015 [0x99] Wait for Invincible Shield (ID: 17748094/0x010ED07E) animation to complete
-  7: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=10688*)
+  7: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=10689*)
     → "You're not? Well, how the hell am I supposed to know!?"
   8: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001E [0x21] END_EVENT

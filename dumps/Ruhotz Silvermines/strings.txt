@@ -1,5 +1,5 @@
 # Strings for Ruhotz Silvermines
-# Total: 7565 strings
+# Total: 7566 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7166,94 +7166,94 @@
  7162: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
  7163: You receive $0 bayld!
  7164: Your chocobo refuses to partake of the $0.
- 7165: You have $0 [minute/minutes] (Earth time) to complete your objectives.
- 7166: Time remaining: $0 [minute/minutes] (Earth time).
- 7167: Time remaining: $0 [second/seconds] (Earth time).
- 7168: All party members have fallen in battle. Exiting in $0 [minute/minutes].
- 7169: The operation has failed.
- 7170: Tallying conquest results...
- 7171: Conquest results tallied.
- 7172: This region is currently under San d'Orian control.
- 7173: This region is currently under Bastokan control.
- 7174: This region is currently under Windurstian control.
- 7175: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7176: This region is currently neutral.
- 7177: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7178: All three nations are tied for first place.
- 7179: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7180: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7181: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7182: All three nations are tied for first place.
- 7183: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7184: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7185: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7186: All three nations are tied for first place.
- 7187: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7188: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7189: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7190: All three nations are tied for first place.
- 7191: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7192: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7193: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7194: Global balance of power: All three nations are tied for first place.
- 7195: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7196: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7197: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7198: All three nations are tied for first place.
- 7199: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7200: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7201: Conquest update: This region is currently neutral.
- 7202: Conquest update: This region is currently under San d'Orian control.
- 7203: Conquest update: This region is currently under Bastokan control.
- 7204: Conquest update: This region is currently under Windurstian control.
- 7205: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7206: All three nations are at a deadlock.
- 7207: The beastmen are on the rise.
- 7208: Regional influence: San d'Oria - Dominant
- 7209: Regional influence: San d'Oria - Major
- 7210: Regional influence: San d'Oria - Minor
- 7211: Regional influence: San d'Oria - Minimal
- 7212: Bastok - Dominant
- 7213: Bastok - Major
- 7214: Bastok - Minor
- 7215: Bastok - Minimal
- 7216: Windurst - Dominant
- 7217: Windurst - Major
- 7218: Windurst - Minor
- 7219: Windurst - Minimal
- 7220: Bastok and Windurst have formed an alliance.
- 7221: San d'Oria and Windurst have formed an alliance.
- 7222: San d'Oria and Bastok have formed an alliance.
- 7223: Bastok and Windurst are currently allies.
- 7224: San d'Oria and Windurst are currently allies.
- 7225: San d'Oria and Bastok are currently allies.
- 7226: $10$P11.$17F$0 $P14;$P12hF$1
- 7227: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7228: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7229: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7230: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7231: The beastmen are gaining power.
- 7232: San d'Oria's regional control is now 10% closer to the first place country's!
- 7233: Bastok's regional control is now 10% closer to the first place country's!
- 7234: Windurst's regional control are now 10% closer to the first place country's!
- 7235: San d'Oria's region points have increased!
- 7236: Bastok's region points have increased!
- 7237: Windurst's region points have increased!
- 7238: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7239: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7240: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7241: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7242: A Bastokan Expeditionary Force has been dispatched to this area.
- 7243: A Windurstian Expeditionary Force has been dispatched to this area.
- 7244: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7245: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7246: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7247: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7248: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7249: There was a curse on the beastmen's banner!
- 7250: The curse of the beastmen's banner has been lifted!
- 7251: There is a beastmen's banner.
- 7252: @
+ 7165: Your wing skill improved to $0!
+ 7166: You have $0 [minute/minutes] (Earth time) to complete your objectives.
+ 7167: Time remaining: $0 [minute/minutes] (Earth time).
+ 7168: Time remaining: $0 [second/seconds] (Earth time).
+ 7169: All party members have fallen in battle. Exiting in $0 [minute/minutes].
+ 7170: The operation has failed.
+ 7171: Tallying conquest results...
+ 7172: Conquest results tallied.
+ 7173: This region is currently under San d'Orian control.
+ 7174: This region is currently under Bastokan control.
+ 7175: This region is currently under Windurstian control.
+ 7176: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7177: This region is currently neutral.
+ 7178: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7179: All three nations are tied for first place.
+ 7180: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7181: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7182: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7183: All three nations are tied for first place.
+ 7184: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7185: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7186: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7187: All three nations are tied for first place.
+ 7188: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7189: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7190: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7191: All three nations are tied for first place.
+ 7192: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7193: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7194: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7195: Global balance of power: All three nations are tied for first place.
+ 7196: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7197: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7198: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7199: All three nations are tied for first place.
+ 7200: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7201: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7202: Conquest update: This region is currently neutral.
+ 7203: Conquest update: This region is currently under San d'Orian control.
+ 7204: Conquest update: This region is currently under Bastokan control.
+ 7205: Conquest update: This region is currently under Windurstian control.
+ 7206: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7207: All three nations are at a deadlock.
+ 7208: The beastmen are on the rise.
+ 7209: Regional influence: San d'Oria - Dominant
+ 7210: Regional influence: San d'Oria - Major
+ 7211: Regional influence: San d'Oria - Minor
+ 7212: Regional influence: San d'Oria - Minimal
+ 7213: Bastok - Dominant
+ 7214: Bastok - Major
+ 7215: Bastok - Minor
+ 7216: Bastok - Minimal
+ 7217: Windurst - Dominant
+ 7218: Windurst - Major
+ 7219: Windurst - Minor
+ 7220: Windurst - Minimal
+ 7221: Bastok and Windurst have formed an alliance.
+ 7222: San d'Oria and Windurst have formed an alliance.
+ 7223: San d'Oria and Bastok have formed an alliance.
+ 7224: Bastok and Windurst are currently allies.
+ 7225: San d'Oria and Windurst are currently allies.
+ 7226: San d'Oria and Bastok are currently allies.
+ 7227: $10$P11.$17F$0 $P14;$P12hF$1
+ 7228: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7229: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7230: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7231: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7232: The beastmen are gaining power.
+ 7233: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7234: Bastok's regional control is now 10% closer to the first place country's!
+ 7235: Windurst's regional control are now 10% closer to the first place country's!
+ 7236: San d'Oria's region points have increased!
+ 7237: Bastok's region points have increased!
+ 7238: Windurst's region points have increased!
+ 7239: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7240: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7241: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7242: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7243: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7244: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7245: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7246: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7247: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7248: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7249: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7250: There was a curse on the beastmen's banner!
+ 7251: The curse of the beastmen's banner has been lifted!
+ 7252: There is a beastmen's banner.
  7253: @
  7254: @
  7255: @
@@ -7328,241 +7328,242 @@
  7324: @
  7325: @
  7326: @
- 7327: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7328: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7329: Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? [Yes./No.]
- 7330: %0 obtains the temporary item: $0!
- 7331: Obtained temporary item: $0!
- 7332: %0 obtains $0!
- 7333: Main Weapon/Sub-Weapon restriction removed.
- 7334: Head/Neck equipment restriction removed.
- 7335: Body equipment restriction removed.
- 7336: Hands equipment restriction removed.
- 7337: Legs/Feet equipment restriction removed.
- 7338: Back/Waist equipment restriction removed.
- 7339: Ranged Weapon/Ammo restriction removed.
- 7340: Earrings/Rings restriction removed.
- 7341: Support Job restriction removed.
- 7342: Job Abilities restriction removed.
- 7343: Spellcasting restriction removed.
- 7344: STR Down removed.
- 7345: DEX Down removed.
- 7346: VIT Down removed.
- 7347: AGI Down removed.
- 7348: INT Down removed.
- 7349: MND Down removed.
- 7350: CHR Down removed.
- 7351: Max HP Down removed.
- 7352: Max MP Down removed.
- 7353: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
- 7354: Obtained temporary item: $0!
- 7355: You already have that temporary item.
- 7356: You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
- 7357: Travel to the next floor? [Not yet./Exit the Assault area./Travel to the next floor./Travel to the floor on the right./Travel to the floor on the left./Travel to Floor $1./Travel to Floor ???.]
- 7358: Floor $0 objective complete. Rune of Transfer activated.
- 7359: Activate the lamp? [Yes./Yes./No.]
- 7360: The certification code for all party members is required to activate this lamp. Your certification code has been registered.
- 7361: Your certification code has been registered.
- 7362: This lamp has already been activated.
- 7363: This lamp cannot be activated unless all other lamps are activated at the same time.
- 7364: All lamps on this floor are activated, but some other action appears to be necessary in order to activate the Rune of Transfer.
- 7365: It appears you cannot activate this lamp for some time...
- 7366: Apparently, this lamp must be activated in a specific order...
- 7367: Not all lights have been activated...
- 7368: Confirming operation procedure...
- 7369: The Rune of Transfer has already been activated.
- 7370: Objective: Eliminate enemy leader.
+ 7327: @
+ 7328: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7329: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7330: Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? [Yes./No.]
+ 7331: %0 obtains the temporary item: $0!
+ 7332: Obtained temporary item: $0!
+ 7333: %0 obtains $0!
+ 7334: Main Weapon/Sub-Weapon restriction removed.
+ 7335: Head/Neck equipment restriction removed.
+ 7336: Body equipment restriction removed.
+ 7337: Hands equipment restriction removed.
+ 7338: Legs/Feet equipment restriction removed.
+ 7339: Back/Waist equipment restriction removed.
+ 7340: Ranged Weapon/Ammo restriction removed.
+ 7341: Earrings/Rings restriction removed.
+ 7342: Support Job restriction removed.
+ 7343: Job Abilities restriction removed.
+ 7344: Spellcasting restriction removed.
+ 7345: STR Down removed.
+ 7346: DEX Down removed.
+ 7347: VIT Down removed.
+ 7348: AGI Down removed.
+ 7349: INT Down removed.
+ 7350: MND Down removed.
+ 7351: CHR Down removed.
+ 7352: Max HP Down removed.
+ 7353: Max MP Down removed.
+ 7354: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
+ 7355: Obtained temporary item: $0!
+ 7356: You already have that temporary item.
+ 7357: You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
+ 7358: Travel to the next floor? [Not yet./Exit the Assault area./Travel to the next floor./Travel to the floor on the right./Travel to the floor on the left./Travel to Floor $1./Travel to Floor ???.]
+ 7359: Floor $0 objective complete. Rune of Transfer activated.
+ 7360: Activate the lamp? [Yes./Yes./No.]
+ 7361: The certification code for all party members is required to activate this lamp. Your certification code has been registered.
+ 7362: Your certification code has been registered.
+ 7363: This lamp has already been activated.
+ 7364: This lamp cannot be activated unless all other lamps are activated at the same time.
+ 7365: All lamps on this floor are activated, but some other action appears to be necessary in order to activate the Rune of Transfer.
+ 7366: It appears you cannot activate this lamp for some time...
+ 7367: Apparently, this lamp must be activated in a specific order...
+ 7368: Not all lights have been activated...
+ 7369: Confirming operation procedure...
+ 7370: The Rune of Transfer has already been activated.
  7371: Objective: Eliminate enemy leader.
- 7372: Objective: Eliminate specified enemies.
- 7373: Objective: Activate all lamps.
- 7374: Objective: Eliminate specified enemy.
- 7375: Objective: Eliminate all enemies.
- 7376: Avoid discovery by archaic gears!
- 7377: Do not destroy archaic gears!
- 7378: Time limit has been reduced by $0 [minute/minutes].
- 7379: Security field malfunction.
- 7380: Potential token reward reduced.
- 7381: Job ability restriction has been removed.
- 7382: Job abilities are restricted.
- 7383: Weapon skill restriction has been removed.
- 7384: Weapon skills are restricted.
- 7385: White magic restriction has been removed.
- 7386: White magic is restricted.
- 7387: Black magic restriction has been removed.
- 7388: Black magic is restricted.
- 7389: Song restriction has been removed.
- 7390: Songs are restricted.
- 7391: Ninjutsu restriction has been removed.
- 7392: Ninjutsu is restricted.
- 7393: Summon magic restriction has been removed.
- 7394: Summon magic is restricted.
- 7395: Blue magic restriction has been removed.
- 7396: Blue magic is restricted.
- 7397: Attack Speed Down removed.
- 7398: Afflicted by Attack Speed Down.
- 7399: Casting Speed Down removed.
- 7400: Afflicted by Casting Speed Down.
- 7401: STR Down removed.
- 7402: Afflicted by STR Down.
- 7403: DEX Down removed.
- 7404: Afflicted by DEX Down.
- 7405: VIT Down removed.
- 7406: Afflicted by VIT Down.
- 7407: AGI Down removed.
- 7408: Afflicted by AGI Down.
- 7409: INT Down removed.
- 7410: Afflicted by INT Down.
- 7411: MND Down removed.
- 7412: Afflicted by MND Down.
- 7413: CHR Down removed.
- 7414: Afflicted by CHR Down.
- 7415: Regain removed.
- 7416: Received Regain effect.
- 7417: Regen removed.
- 7418: Received Regen effect.
- 7419: Refresh removed.
- 7420: Received Refresh effect.
- 7421: Flurry removed.
- 7422: Received Flurry effect.
- 7423: Concentration removed.
- 7424: Received Concentration effect.
- 7425: STR Boost removed.
- 7426: Received STR Boost.
- 7427: DEX Boost removed.
- 7428: Received DEX Boost.
- 7429: VIT Boost removed.
- 7430: Received VIT Boost.
- 7431: AGI Boost removed.
- 7432: Received AGI Boost.
- 7433: INT Boost removed.
- 7434: Received INT Boost.
- 7435: MND Boost removed.
- 7436: Received MND Boost.
- 7437: CHR Boost removed.
- 7438: Received CHR Boost.
- 7439: The data on the $3 will be reset when you complete the objective of the next floor.
- 7440: Do you really want to exit? [Yes./No.]
- 7441: You now possess $1 part[/s] of $6.
- 7442: You have acquired all necessary parts and completed $6.
- 7443: You already possess $6. Unable to obtain additional parts.
- 7444: You could not obtain $6 because you already have one in your possession.
- 7445: Your time limit for this battle has been extended by $0 minute[/s] (Earth time).
- 7446: You already possess $0 and cannot obtain another.
- 7447: You are carrying a full load of temporary items and cannot obtain any more.
- 7448: Main Weapon/Sub-Weapon restriction removed for %0.
- 7449: Head/Neck equipment restriction removed for %0.
- 7450: Body equipment restriction removed for %0.
- 7451: Hand equipment restriction removed for %0.
- 7452: Leg/Foot equipment restriction removed for %0.
- 7453: Back/Waist equipment restriction removed for %0.
- 7454: Ranged Weapon/Ammo restriction removed for %0.
- 7455: Earrings/Rings restriction removed for %0.
- 7456: Support Job restriction removed for %0.
- 7457: Job Abilities restriction removed for %0.
- 7458: Spellcasting restriction removed for %0.
- 7459: STR Down removed for %0.
- 7460: DEX Down removed for %0.
- 7461: VIT Down removed for %0.
- 7462: AGI Down removed for %0.
- 7463: INT Down removed for %0.
- 7464: MND Down removed for %0.
- 7465: CHR Down removed for %0.
- 7466: Max HP Down removed for %0.
- 7467: Max MP Down removed for %0.
- 7468: The enemy is upon us! Take cover!
- 7469: Leave the area? [Yes./No.]
- 7470: The legionnaire seems unfocused...
- 7471: The legionnaire has begun training harder!
- 7472: The legionnaire is fighting with vigor!
- 7473: The legionnaire seems better conditioned! The training session was a success!
- 7474: This training session has ended in failure...
- 7475: Operation complete.
- 7476: Unable to complete operation.
- 7477: Current war results.
- 7478: Soldiers: $0.
- 7479: Enlistees: $1.
- 7480: Officers: $2.
- 7481: So many casualties... I only pray the situation does not grow even dire still!
- 7482: Give the physician orders. [Commence healing, stat!/Specify healing methods./Offer moral support./Rest and recover./Issue no orders.]
- 7483: Prescribe what type of treatment? [Cures and physical healing./Status ailment recovery.]
- 7484: Very well!
- 7485: Prioritizing physical healing of traumatic injuries!
- 7486: Prioritizing rehabilitation of status ailments!
- 7487: A-are you sure? I suppose I could spare just a few moments...
- 7488: I feel good as new! Back to work!
- 7489: I've got quite a bit of juice left in me!
- 7490: I appreciate your support. Though...actions do speak louder than words.
- 7491: Could you pipe down for just a second? A moogle couldn't even concentrate in all this ruckus!
- 7492: I'm not sure I'm cut out for this...
- 7493: Perhaps... I can go on a bit longer...
- 7494: I-I can't...c-cast anymore!
- 7495: You go too fast! A moment, please!
- 7496: Owww! Is there no end to the pain!?
- 7497: Oh Goddess, please, not again... It huuuurts...
- 7498: I can't take it anymore! Make it stooop!
- 7499: P-please... Is there a d-doctor...in th-the...
- 7500: <Groan>... <Moan>...
- 7501: P-p-poisoned... C-c-can't b-b-breathe...
- 7502: You must help me! I can't move my arms or legs!
- 7503: I owe you my life. Many thanks!
- 7504: $P13|$:$30L$P10l$20M$P10lB
- 7505: Ambassador Dieuler!
- 7506: Where did you come from...?
- 7507: Explanations will have to wait. To arms!
- 7508: Have you made your peace with the Goddess?
- 7509: Inconceivable! The student has become...the master...
- 7510: You unlearnt sprat! Excessive studies are hampering your progress! Ahahaha!
- 7511: Let us see your answer to this!
- 7512: Prepare to receive the true teaching!
- 7513: Impressive. Most impressive. Perhaps I have been too easy on you up to now...
- 7514: Ugh... A painful lesson...
- 7515: The intelligence provided by Zeid makes no mention of potential stockpile locations. But deducing from the layout of these mines, one of the siege turrets should be hidden...
- 7516: ...Somewhere in this direction!
- 7517: Ignis powder is an extremely volatile substance, and thus must be handled with maximum caution. Now, [mister/miss] assistant detective, if you could keep those party-crashers entertained?
- 7518: Your systematic dispatching of the enemy was most impressive! But no time for pleasantries--let's keep moving.
- 7519: Unless you're keen on going out prematurely with a truly enormous bang...please keep those turtles a good sword's length away from me!
- 7520: Oh, you've already eliminated them all? Awww, and I was intending to have you test the explosive strength of ignis powder... Oh well, perhaps some other time.
- 7521: W-we're overwhelmed! Save me, Nick!
- 7522: Th-thank you... But, if only Nick had come, it would have been so much more romant-- Um, I mean, c-carry on!
- 7523: Hmm... Assuming that an entire Quadav battalion is stationed here within these mines, I would estimate their remaining military presence to be... Ulp...a helluva lot!
- 7524: Everything is proceeding according to my calculations! The end is in sight!
- 7525: The siege turret is within the vicinity! A little more perseverance will see us through!
- 7526: Once again, you are to be commended on your fine work. Now, let's celebrate this monumental discovery...with fireworks!
- 7527: Owww! Some assistance over here, please!? Hmph, if only I wasn't burdened with the ignis powder, I'd give them a piece of my mind...
- 7528: I-if...only I had partnered with...Nick... <Sob>...
- 7529: $0 [second/seconds] to Swarm infestation!
- 7530: $0 [second/seconds] remaining. The Swarm has breached the third stratum!
- 7531: $0.
- 7532: Contact made!
- 7533: The Swarm has withdrawn!
- 7534: $0 [minute/minutes] to Swarm withdrawal.
- 7535: $0 [second/seconds] to Swarm withdrawal.
- 7536: %0 earns $1 [point/points].
- 7537: Swarm chain #$2! %0 earns $1 [point/points].
- 7538: A mysterious, glittering dust envelops %0!
- 7539: The glittering dust's effect has worn off %0.
- 7540: %0's performance statistics: Rank: $2. Points: $1.
- 7541: Highest Swarm chain: $0.
- 7542: Team total: $0 points.
- 7543: The Swarm has been exterminated!
- 7544: You have been Swarmed. Mission failed...
- 7545: Without further ado...it's show time!
- 7546: N-no... The show...must go on... Forgive me...<Player>...
- 7547: Hehehehe... The climax of the performance draws near!
- 7548: Every rose has its thorns!
- 7549: Do I have your attention yet?
- 7550: Feel the sting of the Moonshade Butterfly!
- 7551: Ol<Player>i! Go and wreak havoc, people! Troupe Mayakov style!
- 7552: Care for a waltz?
- 7553: All eyes on center stage for the grand finale!
- 7554: Nyaaargh! Li-Lilith... It wasn't supposed to...end this way...
- 7555: You'll make a fine scratching post! A little stress relief!
- 7556: This little kitty went to bed`t
- 7557: Look deep into my eyes! Discover your fate within!
- 7558: Nyahahaha! The power of the Goddess is mine to command! At my beck and call!
- 7559: Who'll be the unlucky one, hrmm? Forsaken by fate?
- 7560: Who'll be the lucky one, hrmm? Favored by fortune?
- 7561: My, my, I'm positively over-entertained! We mustn't overdo a good thing. Atomos! Come!
- 7562: Nyahahaha! Atomos! Come!
- 7563: GraAaAaaaAAaaAgh!
+ 7372: Objective: Eliminate enemy leader.
+ 7373: Objective: Eliminate specified enemies.
+ 7374: Objective: Activate all lamps.
+ 7375: Objective: Eliminate specified enemy.
+ 7376: Objective: Eliminate all enemies.
+ 7377: Avoid discovery by archaic gears!
+ 7378: Do not destroy archaic gears!
+ 7379: Time limit has been reduced by $0 [minute/minutes].
+ 7380: Security field malfunction.
+ 7381: Potential token reward reduced.
+ 7382: Job ability restriction has been removed.
+ 7383: Job abilities are restricted.
+ 7384: Weapon skill restriction has been removed.
+ 7385: Weapon skills are restricted.
+ 7386: White magic restriction has been removed.
+ 7387: White magic is restricted.
+ 7388: Black magic restriction has been removed.
+ 7389: Black magic is restricted.
+ 7390: Song restriction has been removed.
+ 7391: Songs are restricted.
+ 7392: Ninjutsu restriction has been removed.
+ 7393: Ninjutsu is restricted.
+ 7394: Summon magic restriction has been removed.
+ 7395: Summon magic is restricted.
+ 7396: Blue magic restriction has been removed.
+ 7397: Blue magic is restricted.
+ 7398: Attack Speed Down removed.
+ 7399: Afflicted by Attack Speed Down.
+ 7400: Casting Speed Down removed.
+ 7401: Afflicted by Casting Speed Down.
+ 7402: STR Down removed.
+ 7403: Afflicted by STR Down.
+ 7404: DEX Down removed.
+ 7405: Afflicted by DEX Down.
+ 7406: VIT Down removed.
+ 7407: Afflicted by VIT Down.
+ 7408: AGI Down removed.
+ 7409: Afflicted by AGI Down.
+ 7410: INT Down removed.
+ 7411: Afflicted by INT Down.
+ 7412: MND Down removed.
+ 7413: Afflicted by MND Down.
+ 7414: CHR Down removed.
+ 7415: Afflicted by CHR Down.
+ 7416: Regain removed.
+ 7417: Received Regain effect.
+ 7418: Regen removed.
+ 7419: Received Regen effect.
+ 7420: Refresh removed.
+ 7421: Received Refresh effect.
+ 7422: Flurry removed.
+ 7423: Received Flurry effect.
+ 7424: Concentration removed.
+ 7425: Received Concentration effect.
+ 7426: STR Boost removed.
+ 7427: Received STR Boost.
+ 7428: DEX Boost removed.
+ 7429: Received DEX Boost.
+ 7430: VIT Boost removed.
+ 7431: Received VIT Boost.
+ 7432: AGI Boost removed.
+ 7433: Received AGI Boost.
+ 7434: INT Boost removed.
+ 7435: Received INT Boost.
+ 7436: MND Boost removed.
+ 7437: Received MND Boost.
+ 7438: CHR Boost removed.
+ 7439: Received CHR Boost.
+ 7440: The data on the $3 will be reset when you complete the objective of the next floor.
+ 7441: Do you really want to exit? [Yes./No.]
+ 7442: You now possess $1 part[/s] of $6.
+ 7443: You have acquired all necessary parts and completed $6.
+ 7444: You already possess $6. Unable to obtain additional parts.
+ 7445: You could not obtain $6 because you already have one in your possession.
+ 7446: Your time limit for this battle has been extended by $0 minute[/s] (Earth time).
+ 7447: You already possess $0 and cannot obtain another.
+ 7448: You are carrying a full load of temporary items and cannot obtain any more.
+ 7449: Main Weapon/Sub-Weapon restriction removed for %0.
+ 7450: Head/Neck equipment restriction removed for %0.
+ 7451: Body equipment restriction removed for %0.
+ 7452: Hand equipment restriction removed for %0.
+ 7453: Leg/Foot equipment restriction removed for %0.
+ 7454: Back/Waist equipment restriction removed for %0.
+ 7455: Ranged Weapon/Ammo restriction removed for %0.
+ 7456: Earrings/Rings restriction removed for %0.
+ 7457: Support Job restriction removed for %0.
+ 7458: Job Abilities restriction removed for %0.
+ 7459: Spellcasting restriction removed for %0.
+ 7460: STR Down removed for %0.
+ 7461: DEX Down removed for %0.
+ 7462: VIT Down removed for %0.
+ 7463: AGI Down removed for %0.
+ 7464: INT Down removed for %0.
+ 7465: MND Down removed for %0.
+ 7466: CHR Down removed for %0.
+ 7467: Max HP Down removed for %0.
+ 7468: Max MP Down removed for %0.
+ 7469: The enemy is upon us! Take cover!
+ 7470: Leave the area? [Yes./No.]
+ 7471: The legionnaire seems unfocused...
+ 7472: The legionnaire has begun training harder!
+ 7473: The legionnaire is fighting with vigor!
+ 7474: The legionnaire seems better conditioned! The training session was a success!
+ 7475: This training session has ended in failure...
+ 7476: Operation complete.
+ 7477: Unable to complete operation.
+ 7478: Current war results.
+ 7479: Soldiers: $0.
+ 7480: Enlistees: $1.
+ 7481: Officers: $2.
+ 7482: So many casualties... I only pray the situation does not grow even dire still!
+ 7483: Give the physician orders. [Commence healing, stat!/Specify healing methods./Offer moral support./Rest and recover./Issue no orders.]
+ 7484: Prescribe what type of treatment? [Cures and physical healing./Status ailment recovery.]
+ 7485: Very well!
+ 7486: Prioritizing physical healing of traumatic injuries!
+ 7487: Prioritizing rehabilitation of status ailments!
+ 7488: A-are you sure? I suppose I could spare just a few moments...
+ 7489: I feel good as new! Back to work!
+ 7490: I've got quite a bit of juice left in me!
+ 7491: I appreciate your support. Though...actions do speak louder than words.
+ 7492: Could you pipe down for just a second? A moogle couldn't even concentrate in all this ruckus!
+ 7493: I'm not sure I'm cut out for this...
+ 7494: Perhaps... I can go on a bit longer...
+ 7495: I-I can't...c-cast anymore!
+ 7496: You go too fast! A moment, please!
+ 7497: Owww! Is there no end to the pain!?
+ 7498: Oh Goddess, please, not again... It huuuurts...
+ 7499: I can't take it anymore! Make it stooop!
+ 7500: P-please... Is there a d-doctor...in th-the...
+ 7501: <Groan>... <Moan>...
+ 7502: P-p-poisoned... C-c-can't b-b-breathe...
+ 7503: You must help me! I can't move my arms or legs!
+ 7504: I owe you my life. Many thanks!
+ 7505: $P13|$:$30L$P10l$20M$P10lB
+ 7506: Ambassador Dieuler!
+ 7507: Where did you come from...?
+ 7508: Explanations will have to wait. To arms!
+ 7509: Have you made your peace with the Goddess?
+ 7510: Inconceivable! The student has become...the master...
+ 7511: You unlearnt sprat! Excessive studies are hampering your progress! Ahahaha!
+ 7512: Let us see your answer to this!
+ 7513: Prepare to receive the true teaching!
+ 7514: Impressive. Most impressive. Perhaps I have been too easy on you up to now...
+ 7515: Ugh... A painful lesson...
+ 7516: The intelligence provided by Zeid makes no mention of potential stockpile locations. But deducing from the layout of these mines, one of the siege turrets should be hidden...
+ 7517: ...Somewhere in this direction!
+ 7518: Ignis powder is an extremely volatile substance, and thus must be handled with maximum caution. Now, [mister/miss] assistant detective, if you could keep those party-crashers entertained?
+ 7519: Your systematic dispatching of the enemy was most impressive! But no time for pleasantries--let's keep moving.
+ 7520: Unless you're keen on going out prematurely with a truly enormous bang...please keep those turtles a good sword's length away from me!
+ 7521: Oh, you've already eliminated them all? Awww, and I was intending to have you test the explosive strength of ignis powder... Oh well, perhaps some other time.
+ 7522: W-we're overwhelmed! Save me, Nick!
+ 7523: Th-thank you... But, if only Nick had come, it would have been so much more romant-- Um, I mean, c-carry on!
+ 7524: Hmm... Assuming that an entire Quadav battalion is stationed here within these mines, I would estimate their remaining military presence to be... Ulp...a helluva lot!
+ 7525: Everything is proceeding according to my calculations! The end is in sight!
+ 7526: The siege turret is within the vicinity! A little more perseverance will see us through!
+ 7527: Once again, you are to be commended on your fine work. Now, let's celebrate this monumental discovery...with fireworks!
+ 7528: Owww! Some assistance over here, please!? Hmph, if only I wasn't burdened with the ignis powder, I'd give them a piece of my mind...
+ 7529: I-if...only I had partnered with...Nick... <Sob>...
+ 7530: $0 [second/seconds] to Swarm infestation!
+ 7531: $0 [second/seconds] remaining. The Swarm has breached the third stratum!
+ 7532: $0.
+ 7533: Contact made!
+ 7534: The Swarm has withdrawn!
+ 7535: $0 [minute/minutes] to Swarm withdrawal.
+ 7536: $0 [second/seconds] to Swarm withdrawal.
+ 7537: %0 earns $1 [point/points].
+ 7538: Swarm chain #$2! %0 earns $1 [point/points].
+ 7539: A mysterious, glittering dust envelops %0!
+ 7540: The glittering dust's effect has worn off %0.
+ 7541: %0's performance statistics: Rank: $2. Points: $1.
+ 7542: Highest Swarm chain: $0.
+ 7543: Team total: $0 points.
+ 7544: The Swarm has been exterminated!
+ 7545: You have been Swarmed. Mission failed...
+ 7546: Without further ado...it's show time!
+ 7547: N-no... The show...must go on... Forgive me...<Player>...
+ 7548: Hehehehe... The climax of the performance draws near!
+ 7549: Every rose has its thorns!
+ 7550: Do I have your attention yet?
+ 7551: Feel the sting of the Moonshade Butterfly!
+ 7552: Ol<Player>i! Go and wreak havoc, people! Troupe Mayakov style!
+ 7553: Care for a waltz?
+ 7554: All eyes on center stage for the grand finale!
+ 7555: Nyaaargh! Li-Lilith... It wasn't supposed to...end this way...
+ 7556: You'll make a fine scratching post! A little stress relief!
+ 7557: This little kitty went to bed`t
+ 7558: Look deep into my eyes! Discover your fate within!
+ 7559: Nyahahaha! The power of the Goddess is mine to command! At my beck and call!
+ 7560: Who'll be the unlucky one, hrmm? Forsaken by fate?
+ 7561: Who'll be the lucky one, hrmm? Favored by fortune?
+ 7562: My, my, I'm positively over-entertained! We mustn't overdo a good thing. Atomos! Come!
+ 7563: Nyahahaha! Atomos! Come!
  7564: GraAaAaaaAAaaAgh!
+ 7565: GraAaAaaaAAaaAgh!

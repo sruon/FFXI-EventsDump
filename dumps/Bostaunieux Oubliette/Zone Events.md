@@ -41,69 +41,69 @@
 |      10 | 0x4199      |       16793 |
 |      11 | 0x0158      |         344 |
 |      12 | 0x0159      |         345 |
-|      13 | 0x1CEB      |        7403 |
+|      13 | 0x1CEC      |        7404 |
 |      14 | 0x001E      |          30 |
-|      15 | 0x1CEC      |        7404 |
-|      16 | 0x1CED      |        7405 |
-|      17 | 0x1CEE      |        7406 |
+|      15 | 0x1CED      |        7405 |
+|      16 | 0x1CEE      |        7406 |
+|      17 | 0x1CEF      |        7407 |
 |      18 | 0x0402      |        1026 |
 |      19 | 0x000F      |          15 |
-|      20 | 0x1CEF      |        7407 |
-|      21 | 0x1CF0      |        7408 |
-|      22 | 0x1CF1      |        7409 |
-|      23 | 0x1CF2      |        7410 |
-|      24 | 0x1CF3      |        7411 |
-|      25 | 0x1CF5      |        7413 |
-|      26 | 0x1CF6      |        7414 |
+|      20 | 0x1CF0      |        7408 |
+|      21 | 0x1CF1      |        7409 |
+|      22 | 0x1CF2      |        7410 |
+|      23 | 0x1CF3      |        7411 |
+|      24 | 0x1CF4      |        7412 |
+|      25 | 0x1CF6      |        7414 |
+|      26 | 0x1CF7      |        7415 |
 |      27 | 0x005A      |          90 |
 |      28 | 0x00A3      |         163 |
 |      29 | 0x0002      |           2 |
-|      30 | 0x1CF7      |        7415 |
-|      31 | 0x1CF8      |        7416 |
-|      32 | 0x1CF9      |        7417 |
-|      33 | 0x1CFA      |        7418 |
-|      34 | 0x1CFB      |        7419 |
-|      35 | 0x1CFC      |        7420 |
+|      30 | 0x1CF8      |        7416 |
+|      31 | 0x1CF9      |        7417 |
+|      32 | 0x1CFA      |        7418 |
+|      33 | 0x1CFB      |        7419 |
+|      34 | 0x1CFC      |        7420 |
+|      35 | 0x1CFD      |        7421 |
 |      36 | 0x01F4      |         500 |
 |      37 | 0x003C      |          60 |
-|      38 | 0x1CFD      |        7421 |
+|      38 | 0x1CFE      |        7422 |
 |      39 | 0x000A      |          10 |
-|      40 | 0x1CFE      |        7422 |
-|      41 | 0x1CFF      |        7423 |
+|      40 | 0x1CFF      |        7423 |
+|      41 | 0x1D00      |        7424 |
 |      42 | 0x009D      |         157 |
-|      43 | 0x1D00      |        7424 |
-|      44 | 0x1D01      |        7425 |
+|      43 | 0x1D01      |        7425 |
+|      44 | 0x1D02      |        7426 |
 |      45 | 0x0014      |          20 |
-|      46 | 0x1D02      |        7426 |
-|      47 | 0x1D03      |        7427 |
+|      46 | 0x1D03      |        7427 |
+|      47 | 0x1D04      |        7428 |
 |      48 | 0x07EB      |        2027 |
-|      49 | 0x1D04      |        7428 |
-|      50 | 0x1D05      |        7429 |
-|      51 | 0x1D06      |        7430 |
-|      52 | 0x1D07      |        7431 |
-|      53 | 0x1D08      |        7432 |
-|      54 | 0x1D09      |        7433 |
+|      49 | 0x1D05      |        7429 |
+|      50 | 0x1D06      |        7430 |
+|      51 | 0x1D07      |        7431 |
+|      52 | 0x1D08      |        7432 |
+|      53 | 0x1D09      |        7433 |
+|      54 | 0x1D0A      |        7434 |
 |      55 | 0x00B4      |         180 |
-|      56 | 0x1D0A      |        7434 |
-|      57 | 0x1D0B      |        7435 |
-|      58 | 0x1D0C      |        7436 |
+|      56 | 0x1D0B      |        7435 |
+|      57 | 0x1D0C      |        7436 |
+|      58 | 0x1D0D      |        7437 |
 |      59 | 0x00F0      |         240 |
 |      60 | 0x00C9      |         201 |
-|      61 | 0x1CDA      |        7386 |
-|      62 | 0x1CDB      |        7387 |
-|      63 | 0x1CDC      |        7388 |
-|      64 | 0x1CDD      |        7389 |
-|      65 | 0x1CDE      |        7390 |
-|      66 | 0x1CDF      |        7391 |
-|      67 | 0x1CE0      |        7392 |
+|      61 | 0x1CDB      |        7387 |
+|      62 | 0x1CDC      |        7388 |
+|      63 | 0x1CDD      |        7389 |
+|      64 | 0x1CDE      |        7390 |
+|      65 | 0x1CDF      |        7391 |
+|      66 | 0x1CE0      |        7392 |
+|      67 | 0x1CE1      |        7393 |
 |      68 | 0x0043      |          67 |
 |      69 | 0x11E45     |       73285 |
 |      70 | 0x4C53      |       19539 |
 |      71 | 0xFFFFA240  |  4294943296 |
 |      72 | 0x0FA7      |        4007 |
-|      73 | 0x1CA3      |        7331 |
-|      74 | 0x1CA4      |        7332 |
-|      75 | 0x1CA5      |        7333 |
+|      73 | 0x1CA4      |        7332 |
+|      74 | 0x1CA5      |        7333 |
+|      75 | 0x1CA6      |        7334 |
 |      76 | 0xFFFFB670  |  4294948464 |
 |      77 | 0x4E0E      |       19982 |
 |      78 | 0x0482      |        1154 |
@@ -122,8 +122,8 @@
 
 ## String References
 
-- **7333**: What will you do? [Open the lid and enter./Stay up here for now.]
-- **7389**: What say you? [I'll take a swing at it./I haven't the time right now.]
+- **7334**: What will you do? [Open the lid and enter./Stay up here for now.]
+- **7390**: What say you? [I'll take a swing at it./I haven't the time right now.]
 
 ## Events
 
@@ -255,21 +255,21 @@
  15: 0x008D [0x03] Work_Zone[2] = 16793*
  16: 0x0092 [0x03] Work_Zone[3] = 344*
  17: 0x0097 [0x03] Work_Zone[4] = 345*
- 18: 0x009C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7403*]:
+ 18: 0x009C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7404*]:
     → "You have done splendidly. However, there is still one thing that remains to be done."
  19: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00A4 [0x7B] Novalmauge (ID: 17461511/0x010A7107) stops talking
  21: 0x00A9 [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x13)
  22: 0x00B0 [0x1C] WAIT(30* ticks)
- 23: 0x00B3 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7404*]:
+ 23: 0x00B3 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7405*]:
     → "Ugh..."
  24: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00BB [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x14)
- 26: 0x00C2 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7405*]:
+ 26: 0x00C2 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7406*]:
     → "You must excuse me. My supply of medicine has run dry and I'm not in the best of shape these days."
  27: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00CA [0x2A] GET_REQ_LEVEL(level=3, entity_id=Novalmauge (ID: 17461511/0x010A7107))
- 29: 0x00D0 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7406*]:
+ 29: 0x00D0 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7407*]:
     → "What caused my condition, you ask?"
  30: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00D8 [0x4B] UPDATE_ENTITY_YAW(entity=Novalmauge (ID: 17461511/0x010A7107), yaw=5.6°*)
@@ -278,24 +278,24 @@
  34: 0x00F3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=53*
  35: 0x0102 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  36: 0x0103 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Novalmauge (ID: 17461511/0x010A7107) Render.Flags0 and Render.Flags3 conditions are met
- 37: 0x0108 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7407*]:
+ 37: 0x0108 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7408*]:
     → "I was once forced to undergo battle training in a certain place. It was there I was given a potion to drink that reduced me to this pitiful state..."
  38: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0110 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7408*]:
+ 39: 0x0110 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7409*]:
     → "I spent days on end in blackness, on the brink of losing my very sense of self. I finally managed to crawl out of that darkness with my sanity intact, but my companions are still..."
  40: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0118 [0x4A] Novalmauge (ID: 17461511/0x010A7107) looks at LocalPlayer
  42: 0x0121 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  43: 0x0122 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Novalmauge (ID: 17461511/0x010A7107) Render.Flags0 and Render.Flags3 conditions are met
  44: 0x0127 [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x11)
- 45: 0x012E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7409*]:
+ 45: 0x012E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7410*]:
     → "Enough of this talk. Your final trial awaits you. If this test is not completed, your effort until this point will have been for naught."
  46: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x0136 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7410*]:
+ 47: 0x0136 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7411*]:
     → "Journey to the Den of Rancor with this $3 and obtain the $3. When you have bound the evil in the scythe, your exertions will be at an end."
  48: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x013E [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x12)
- 50: 0x0145 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7411*]:
+ 50: 0x0145 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7412*]:
     → "I will hold the $0 here for your return. My prayers go with you..."
  51: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x014D [0x2A] GET_REQ_LEVEL(level=3, entity_id=Novalmauge (ID: 17461511/0x010A7107))
@@ -405,12 +405,12 @@
  10: 0x01DE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x004" with entities [LocalPlayer, LocalPlayer], work=53*
  11: 0x01ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  12: 0x01FE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 13: 0x020D [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7413*]:
+ 13: 0x020D [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7414*]:
     → "I knew you would return victorious. Another soul...ah, another scythe has been freed from its curse. You have my gratitude."
  14: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0215 [0x1C] WAIT(30* ticks)
  16: 0x0218 [0x4E] SET_ENTITY_HIDE_FLAG: Show Brugaire (ID: 17461560/0x010A7138)
- 17: 0x021E [0x2B] Brugaire (ID: 17461560/0x010A7138) [7414*]:
+ 17: 0x021E [0x2B] Brugaire (ID: 17461560/0x010A7138) [7415*]:
     → "Novalmauge, here's that oversized scythe of yours, freshly sharpened."
  18: 0x0225 [0x1C] WAIT(90* ticks)
  19: 0x0228 [0x4A] Novalmauge (ID: 17461511/0x010A7107) looks at Brugaire (ID: 17461560/0x010A7138)
@@ -426,40 +426,40 @@
  29: 0x0264 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=53*
  30: 0x0273 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Brugaire (ID: 17461560/0x010A7138))
  31: 0x0279 [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x11)
- 32: 0x0280 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7415*]:
+ 32: 0x0280 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7416*]:
     → "Thank you, Brugaire. Here is your usual fee."
  33: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0288 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x12)
  35: 0x028F [0x27] REQ_SET(priority=0x03, entity_id=Brugaire (ID: 17461560/0x010A7138), tag_num=0x04)
- 36: 0x0296 [0x2B] Brugaire (ID: 17461560/0x010A7138) [7416*]:
+ 36: 0x0296 [0x2B] Brugaire (ID: 17461560/0x010A7138) [7417*]:
     → "As long as I get my money I don't much care, but what the hell are you doing with this thing? I've never seen anyone blunt a blade so quickly."
  37: 0x029D [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x029E [0x2A] GET_REQ_LEVEL(level=3, entity_id=Brugaire (ID: 17461560/0x010A7138))
  39: 0x02A4 [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x13)
- 40: 0x02AB [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7417*]:
+ 40: 0x02AB [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7418*]:
     → "I was under the impression that the Brugaire Consortium respected the privacy of its customers. Was I mistaken?"
  41: 0x02B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x02B3 [0x27] REQ_SET(priority=0x03, entity_id=Brugaire (ID: 17461560/0x010A7138), tag_num=0x09)
  43: 0x02BA [0x1C] WAIT(15* ticks)
  44: 0x02BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=[53*, 0*]
- 45: 0x02CE [0x2B] Brugaire (ID: 17461560/0x010A7138) [7418*]:
+ 45: 0x02CE [0x2B] Brugaire (ID: 17461560/0x010A7138) [7419*]:
     → "Good grief, man. I'm not trying to grill you, I was just curious."
  46: 0x02D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x02D6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=53*
  48: 0x02E5 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Brugaire (ID: 17461560/0x010A7138))
  49: 0x02EB [0x27] REQ_SET(priority=0x03, entity_id=Brugaire (ID: 17461560/0x010A7138), tag_num=0x05)
- 50: 0x02F2 [0x2B] Brugaire (ID: 17461560/0x010A7138) [7419*]:
+ 50: 0x02F2 [0x2B] Brugaire (ID: 17461560/0x010A7138) [7420*]:
     → "Well, I don't want to invade your privacy any longer, so I'll just get out of here, shall I? You oughta give a little thought to your reputation outside of your little world here. You're not exactly Mister Popular up in town."
  51: 0x02F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x02FA [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Brugaire (ID: 17461560/0x010A7138), tag_num=0x06)
- 53: 0x0301 [0x2B] Brugaire (ID: 17461560/0x010A7138) [7420*]:
+ 53: 0x0301 [0x2B] Brugaire (ID: 17461560/0x010A7138) [7421*]:
     → "I'll be seeing you."
  54: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0309 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=500*)
  56: 0x030E [0x27] REQ_SET(priority=0x03, entity_id=Brugaire (ID: 17461560/0x010A7138), tag_num=0x03)
  57: 0x0315 [0x1C] WAIT(60* ticks)
  58: 0x0318 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x14)
- 59: 0x031F [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7421*]:
+ 59: 0x031F [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7422*]:
     → "..."
  60: 0x0326 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0327 [0x1C] WAIT(60* ticks)
@@ -470,30 +470,30 @@
  66: 0x0356 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  67: 0x0357 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Novalmauge (ID: 17461511/0x010A7107) Render.Flags0 and Render.Flags3 conditions are met
  68: 0x035C [0x4A] LocalPlayer looks at Novalmauge (ID: 17461511/0x010A7107)
- 69: 0x0365 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7422*]:
+ 69: 0x0365 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7423*]:
     → "I feel I can tell you the truth of my situation."
  70: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x036D [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7423*]:
+ 71: 0x036D [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7424*]:
     → "Do you remember how I spoke of being forced to undergo battle training at a certain place?"
  72: 0x0374 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0375 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 157*
  74: 0x0379 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 157*
  75: 0x037D [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x13)
- 76: 0x0384 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7424*]:
+ 76: 0x0384 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7425*]:
     → "The ones that captured me were shadows. Surely you have seen them? Those undead creatures that resemble Elvaan?"
  77: 0x038B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x038C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7425*]:
+ 78: 0x038C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7426*]:
     → "They kidnap young children, who are made to drink a vile potion while learning the arts of war. Eventually the children become shadows themselves. That is how they increase their numbers."
  79: 0x0393 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0394 [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x14)
  81: 0x039B [0x1C] WAIT(20* ticks)
  82: 0x039E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=[53*, 0*]
  83: 0x03AF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=53*
- 84: 0x03BE [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7426*]:
+ 84: 0x03BE [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7427*]:
     → "Have you heard the tales of Elvaan children disappearing from the Kingdom? This is the work of the shadows."
  85: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x03C6 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Novalmauge (ID: 17461511/0x010A7107))
- 87: 0x03CC [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7427*]:
+ 87: 0x03CC [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7428*]:
     → "Hard to believe? I know it to be true, for I was one of those children..."
  88: 0x03D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x03D4 [0x4B] UPDATE_ENTITY_YAW(entity=Novalmauge (ID: 17461511/0x010A7107), yaw=11.1°*)
@@ -501,11 +501,11 @@
  91: 0x03DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=[53*, 0*]
  92: 0x03EF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  93: 0x03F0 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Novalmauge (ID: 17461511/0x010A7107) Render.Flags0 and Render.Flags3 conditions are met
- 94: 0x03F5 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7428*]:
+ 94: 0x03F5 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7429*]:
     → "The shadows that roam the darkness today were once my friends, abducted as I was. When the transformation into shadow is complete, all sense of self is lost. My companions no longer recognize me."
  95: 0x03FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x03FD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=53*
- 97: 0x040C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7429*]:
+ 97: 0x040C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7430*]:
     → "To release their souls from damnation, I shun the sun's rays and hunt shadows in this perpetual night. This scythe is their salvation."
  98: 0x0413 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0414 [0x1C] WAIT(30* ticks)
@@ -514,10 +514,10 @@
 102: 0x0421 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=[53*, 0*]
 103: 0x0432 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=53*
 104: 0x0441 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Novalmauge (ID: 17461511/0x010A7107))
-105: 0x0447 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7430*]:
+105: 0x0447 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7431*]:
     → "I escaped that blackest night once, only to find a deeper kind of darkness waiting for me in the form of despair. Perhaps this is my penance for being the sole survivor."
 106: 0x044E [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x044F [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7431*]:
+107: 0x044F [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7432*]:
     → "I cannot blame people for thinking I am some kind of vampire. I see my own actions as monstrous."
 108: 0x0456 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0457 [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x15)
@@ -525,12 +525,12 @@
 111: 0x0461 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x008" with entities [LocalPlayer, LocalPlayer], work=[53*, 0*]
 112: 0x0472 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x008" with entities [LocalPlayer, LocalPlayer], work=53*
 113: 0x0481 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Novalmauge (ID: 17461511/0x010A7107))
-114: 0x0487 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7432*]:
+114: 0x0487 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7433*]:
     → "But I care not for other people's opinions; I merely do what I must. To grant their souls peace by my own hand...I owe my companions that, at least."
 115: 0x048E [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x048F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x00a" with entities [LocalPlayer, LocalPlayer], work=[53*, 0*]
 117: 0x04A0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x00a" with entities [LocalPlayer, LocalPlayer], work=53*
-118: 0x04AF [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7433*]:
+118: 0x04AF [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7434*]:
     → "Forgive me, my friends..."
 119: 0x04B6 [0x1C] WAIT(180* ticks)
 120: 0x04B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -538,7 +538,7 @@
 122: 0x04C1 [0x1C] WAIT(30* ticks)
 123: 0x04C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x00b" with entities [LocalPlayer, LocalPlayer], work=[53*, 0*]
 124: 0x04D5 [0x1C] WAIT(30* ticks)
-125: 0x04D8 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7434*]:
+125: 0x04D8 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7435*]:
     → "My entire existence is here in the darkness."
 126: 0x04DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x04E0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x00b" with entities [LocalPlayer, LocalPlayer], work=53*
@@ -549,11 +549,11 @@
 132: 0x0515 [0x4A] Novalmauge (ID: 17461511/0x010A7107) looks at LocalPlayer
 133: 0x051E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 134: 0x051F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Novalmauge (ID: 17461511/0x010A7107) Render.Flags0 and Render.Flags3 conditions are met
-135: 0x0524 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7435*]:
+135: 0x0524 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7436*]:
     → "Whenever you release the soul of a shadow, I ask that you whisper a prayer for them:"
 136: 0x052B [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x052C [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x11)
-138: 0x0533 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7436*]:
+138: 0x0533 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7437*]:
     → ""May your next life be bathed in bless<Player>hd light...""
 139: 0x053A [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x053B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=240*)
@@ -627,37 +627,37 @@
  13: 0x05FD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  14: 0x060E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  15: 0x061D [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x13)
- 16: 0x0624 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7386*]:
+ 16: 0x0624 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7387*]:
     → "You are also a wielder of the scythe? And quite a skilled one, I dare say. Though it may not appear likely, I, too, have some small ability with that weapon. I actually have quite a collection of scythes."
  17: 0x062B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x062C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7387*]:
+ 18: 0x062C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7388*]:
     → "One of the scythes I possess has a decidedly ominous aura. "Cursed" is the only way I can describe it. A perfectly sane person who takes up this scythe begins to act in the most unusual manner..."
  19: 0x0633 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0634 [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x14)
  21: 0x063B [0x1C] WAIT(20* ticks)
  22: 0x063E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x000" with entities [LocalPlayer, LocalPlayer], work=[53*, 0*]
  23: 0x064F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x000" with entities [LocalPlayer, LocalPlayer], work=53*
- 24: 0x065E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7388*]:
+ 24: 0x065E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7389*]:
     → "It is said, however, that if the curse on the scythe can be overcome by the heat of many battles, the wielder gains the knowledge of a new weapon technique. What say you? Are you up to the challenge?"
  25: 0x0665 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0666 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Novalmauge (ID: 17461511/0x010A7107))
  27: 0x066C [0x06] Work_Zone[1] = 0
- 28: 0x066F [0x24] CREATE_DIALOG(message_id=7389*, default_option=1*, option_flags=0*)
+ 28: 0x066F [0x24] CREATE_DIALOG(message_id=7390*, default_option=1*, option_flags=0*)
     → "What say you? [I'll take a swing at it./I haven't the time right now.]"
  29: 0x0676 [0x25] WAIT_DIALOG_SELECT()
  30: 0x0677 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06A5
  31: 0x067F [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x11)
- 32: 0x0686 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7390*]:
+ 32: 0x0686 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7391*]:
     → "Excellent. Here is the weapon. When the curse has been lifted, the scythe will lose its power. Bring it back to me when this happens and I will see if the blight has truly been cleansed."
  33: 0x068D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x068E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7391*]:
+ 34: 0x068E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7392*]:
     → "Take care not to lose yourself to the curse..."
  35: 0x0695 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0696 [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x12)
  37: 0x069D [0x03] Work_Zone[1] = 1*
  38: 0x06A2 [0x01] GOTO 0x06B8
  39: 0x06A5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x06B8
- 40: 0x06AD [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7392*]:
+ 40: 0x06AD [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7393*]:
     → "If that's the case, perhaps it would be better if you forgot we ever had this conversation..."
  41: 0x06B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x06B5 [0x01] GOTO 0x06B8
@@ -806,13 +806,13 @@ SUBROUTINE_06B8:
   0: 0x072D [0x4A] Couchatorage (ID: 17461515/0x010A710B) looks at LocalPlayer
   1: 0x0736 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0737 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Couchatorage (ID: 17461515/0x010A710B) Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x073C [0x2B] Couchatorage (ID: 17461515/0x010A710B) [7331*]:
+  3: 0x073C [0x2B] Couchatorage (ID: 17461515/0x010A710B) [7332*]:
     → "In past times, it was said that nobles accused of treason were thrown down there. They would wander for days through the maze of sewer tunnels, until they would finally collapse from starvation."
   4: 0x0743 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0744 [0x2B] Couchatorage (ID: 17461515/0x010A710B) [7332*]:
+  5: 0x0744 [0x2B] Couchatorage (ID: 17461515/0x010A710B) [7333*]:
     → "Now terrible beasts prowl through the darkness. If you have the courage, you may enter."
   6: 0x074B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x074C [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
+  7: 0x074C [0x24] CREATE_DIALOG(message_id=7334*, default_option=1*, option_flags=0*)
     → "What will you do? [Open the lid and enter./Stay up here for now.]"
   8: 0x0753 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0754 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08EA

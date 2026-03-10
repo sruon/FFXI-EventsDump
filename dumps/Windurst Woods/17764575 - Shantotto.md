@@ -73,42 +73,42 @@
 |       9 | 0x0026      |          38 |
 |      10 | 0xFFFC8231  |  4294738481 |
 |      11 | 0x17A55     |       96853 |
-|      12 | 0x2515      |        9493 |
-|      13 | 0x2516      |        9494 |
-|      14 | 0x2517      |        9495 |
-|      15 | 0x2518      |        9496 |
-|      16 | 0x251A      |        9498 |
-|      17 | 0x251B      |        9499 |
-|      18 | 0x251D      |        9501 |
-|      19 | 0x251F      |        9503 |
-|      20 | 0x2520      |        9504 |
-|      21 | 0x2521      |        9505 |
-|      22 | 0x2523      |        9507 |
-|      23 | 0x2524      |        9508 |
-|      24 | 0x2525      |        9509 |
-|      25 | 0x2527      |        9511 |
-|      26 | 0x2529      |        9513 |
-|      27 | 0x252C      |        9516 |
-|      28 | 0x252D      |        9517 |
-|      29 | 0x252E      |        9518 |
+|      12 | 0x2516      |        9494 |
+|      13 | 0x2517      |        9495 |
+|      14 | 0x2518      |        9496 |
+|      15 | 0x2519      |        9497 |
+|      16 | 0x251B      |        9499 |
+|      17 | 0x251C      |        9500 |
+|      18 | 0x251E      |        9502 |
+|      19 | 0x2520      |        9504 |
+|      20 | 0x2521      |        9505 |
+|      21 | 0x2522      |        9506 |
+|      22 | 0x2524      |        9508 |
+|      23 | 0x2525      |        9509 |
+|      24 | 0x2526      |        9510 |
+|      25 | 0x2528      |        9512 |
+|      26 | 0x252A      |        9514 |
+|      27 | 0x252D      |        9517 |
+|      28 | 0x252E      |        9518 |
+|      29 | 0x252F      |        9519 |
 
 ## String References
 
-- **9496**: Give it up, Apururu. That seal is beyond you.
-- **9498**: I heard you were sneaking around, asking people about the Dark Dungeon. Why don't you just stand at the top of Heavens Tower and yell, "I'm going to break my brother out of jail. Arrest me, someone!"
-- **9499**: How imprudent. And you were always such a bright student.
-- **9501**: I understand how you feel. I don't want to lose him either. Especially after all the trouble I've gone through to raise a tough-as-nails, wicked-wand-wielding, savage-spell-slinging wizard to take over as Orastery minister...
-- **9503**: This door, as you've discovered, can be opened by the power of the stars and the moon. Everything in the Horutoto Ruins is governed by this power.
-- **9504**: However, the magic sealing these doors was weakened when several of the towers were severely damaged during the Great War.
-- **9505**: And so up until now, these doors could have been opened with a single minister's ring--no need for a charm created by Heavens Tower, like before.
-- **9507**: Haven't you figured it out? What does that head of yours contain? You would have realized it by now if you were using that melon you call a brain.
-- **9508**: If you'll recall, Ajido-Marujido restored the power of the ruins, my dear dumpling. Now, you are no longer able to open the doors by using just a single ring.
-- **9509**: Ohoho, such stupidity!
-- **9511**: ...Ah, forgive my amusement. I didn't come just to laugh at you. I have a brilliant idea to help your brother through.
-- **9513**: Ohoho! You must gather the rings of the five ministers. Yes, yes. It is a chore. But, using their combined power, you should be able to dispel the seal on the door.
-- **9516**: You'd better not. Ah, and there's one more thing you'd better not forget. Don't think of going after the rings yourself. It would be something you'd regret.
-- **9517**: Leave it to an adventurer who's capable. Do you know <Player>? [He's/She's] very useful and usable.
-- **9518**: It almost boggles the mind how eager [he/she] is to stick [his/her] nose into some dangerous squeeze. There's no reason not to take advantage of <Player>'s natural tendencies.
+- **9497**: Give it up, Apururu. That seal is beyond you.
+- **9499**: I heard you were sneaking around, asking people about the Dark Dungeon. Why don't you just stand at the top of Heavens Tower and yell, "I'm going to break my brother out of jail. Arrest me, someone!"
+- **9500**: How imprudent. And you were always such a bright student.
+- **9502**: I understand how you feel. I don't want to lose him either. Especially after all the trouble I've gone through to raise a tough-as-nails, wicked-wand-wielding, savage-spell-slinging wizard to take over as Orastery minister...
+- **9504**: This door, as you've discovered, can be opened by the power of the stars and the moon. Everything in the Horutoto Ruins is governed by this power.
+- **9505**: However, the magic sealing these doors was weakened when several of the towers were severely damaged during the Great War.
+- **9506**: And so up until now, these doors could have been opened with a single minister's ring--no need for a charm created by Heavens Tower, like before.
+- **9508**: Haven't you figured it out? What does that head of yours contain? You would have realized it by now if you were using that melon you call a brain.
+- **9509**: If you'll recall, Ajido-Marujido restored the power of the ruins, my dear dumpling. Now, you are no longer able to open the doors by using just a single ring.
+- **9510**: Ohoho, such stupidity!
+- **9512**: ...Ah, forgive my amusement. I didn't come just to laugh at you. I have a brilliant idea to help your brother through.
+- **9514**: Ohoho! You must gather the rings of the five ministers. Yes, yes. It is a chore. But, using their combined power, you should be able to dispel the seal on the door.
+- **9517**: You'd better not. Ah, and there's one more thing you'd better not forget. Don't think of going after the rings yourself. It would be something you'd regret.
+- **9518**: Leave it to an adventurer who's capable. Do you know <Player>? [He's/She's] very useful and usable.
+- **9519**: It almost boggles the mind how eager [he/she] is to stick [his/her] nose into some dangerous squeeze. There's no reason not to take advantage of <Player>'s natural tendencies.
 
 ## Events
 
@@ -763,7 +763,7 @@
 #### Opcodes
 
 ```
-  0: 0x016D [0x2B] Apururu (ID: 17764372/0x010F1014) [9493*]:
+  0: 0x016D [0x2B] Apururu (ID: 17764372/0x010F1014) [9494*]:
     → "The chambers that lie beneath the central tower are sealed with the power of the stars and the moon. This means that the doors to those chambers can only be opened with an item imbued with that same power."
   1: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0175 [0x00] END_REQSTACK()
@@ -788,7 +788,7 @@
 #### Opcodes
 
 ```
-  0: 0x0176 [0x2B] Apururu (ID: 17764372/0x010F1014) [9494*]:
+  0: 0x0176 [0x2B] Apururu (ID: 17764372/0x010F1014) [9495*]:
     → "The rings carry-warried by the ministers are such items. Every time a minister is appointed, a ring is made and presented to the new minister by Heavens Tower."
   1: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017E [0x00] END_REQSTACK()
@@ -814,7 +814,7 @@
 #### Opcodes
 
 ```
-  0: 0x017F [0x2B] Apururu (ID: 17764372/0x010F1014) [9495*]:
+  0: 0x017F [0x2B] Apururu (ID: 17764372/0x010F1014) [9496*]:
     → "After learning this, I took the $3 and set off for the Dark Dungeon..."
   1: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0187 [0x00] END_REQSTACK()
@@ -839,7 +839,7 @@
 #### Opcodes
 
 ```
-  0: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=9496*)
+  0: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=9497*)
     → "Give it up, Apururu. That seal is beyond you."
   1: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x018C [0x00] END_REQSTACK()
@@ -868,12 +868,12 @@
 
 ```
   0: 0x018D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17764575/0x010F10DF), tag_num=0x0F)
-  1: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=9498*)
+  1: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=9499*)
     → "I heard you were sneaking around, asking people about the Dark Dungeon. Why don't you just stand at the top of Heavens Tower and yell, "I'm going to break my brother out of jail. Arrest me, someone!""
   2: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0198 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17764575/0x010F10DF), tag_num=0x10)
   4: 0x019F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17764575/0x010F10DF), tag_num=0x0D)
-  5: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9499*)
+  5: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9500*)
     → "How imprudent. And you were always such a bright student."
   6: 0x01A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17764575/0x010F10DF), tag_num=0x0E)
@@ -899,7 +899,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9501*)
+  0: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9502*)
     → "I understand how you feel. I don't want to lose him either. Especially after all the trouble I've gone through to raise a tough-as-nails, wicked-wand-wielding, savage-spell-slinging wizard to take over as Orastery minister..."
   1: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B6 [0x00] END_REQSTACK()
@@ -924,7 +924,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9503*)
+  0: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9504*)
     → "This door, as you've discovered, can be opened by the power of the stars and the moon. Everything in the Horutoto Ruins is governed by this power."
   1: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01BB [0x00] END_REQSTACK()
@@ -950,7 +950,7 @@
 #### Opcodes
 
 ```
-  0: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9504*)
+  0: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9505*)
     → "However, the magic sealing these doors was weakened when several of the towers were severely damaged during the Great War."
   1: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01C0 [0x00] END_REQSTACK()
@@ -975,7 +975,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9505*)
+  0: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9506*)
     → "And so up until now, these doors could have been opened with a single minister's ring--no need for a charm created by Heavens Tower, like before."
   1: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01C5 [0x00] END_REQSTACK()
@@ -1000,7 +1000,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9507*)
+  0: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9508*)
     → "Haven't you figured it out? What does that head of yours contain? You would have realized it by now if you were using that melon you call a brain."
   1: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01CA [0x00] END_REQSTACK()
@@ -1025,7 +1025,7 @@
 #### Opcodes
 
 ```
-  0: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9508*)
+  0: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9509*)
     → "If you'll recall, Ajido-Marujido restored the power of the ruins, my dear dumpling. Now, you are no longer able to open the doors by using just a single ring."
   1: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01CF [0x00] END_REQSTACK()
@@ -1050,7 +1050,7 @@
 #### Opcodes
 
 ```
-  0: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9509*)
+  0: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9510*)
     → "Ohoho, such stupidity!"
   1: 0x01D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01D4 [0x00] END_REQSTACK()
@@ -1075,7 +1075,7 @@
 #### Opcodes
 
 ```
-  0: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9511*)
+  0: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9512*)
     → "...Ah, forgive my amusement. I didn't come just to laugh at you. I have a brilliant idea to help your brother through."
   1: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01D9 [0x00] END_REQSTACK()
@@ -1100,7 +1100,7 @@
 #### Opcodes
 
 ```
-  0: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9513*)
+  0: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9514*)
     → "Ohoho! You must gather the rings of the five ministers. Yes, yes. It is a chore. But, using their combined power, you should be able to dispel the seal on the door."
   1: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01DE [0x00] END_REQSTACK()
@@ -1126,7 +1126,7 @@
 #### Opcodes
 
 ```
-  0: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9516*)
+  0: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9517*)
     → "You'd better not. Ah, and there's one more thing you'd better not forget. Don't think of going after the rings yourself. It would be something you'd regret."
   1: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E3 [0x00] END_REQSTACK()
@@ -1151,7 +1151,7 @@
 #### Opcodes
 
 ```
-  0: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9517*)
+  0: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9518*)
     → "Leave it to an adventurer who's capable. Do you know <Player>? [He's/She's] very useful and usable."
   1: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E8 [0x00] END_REQSTACK()
@@ -1176,7 +1176,7 @@
 #### Opcodes
 
 ```
-  0: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9518*)
+  0: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9519*)
     → "It almost boggles the mind how eager [he/she] is to stick [his/her] nose into some dangerous squeeze. There's no reason not to take advantage of <Player>'s natural tendencies."
   1: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01ED [0x00] END_REQSTACK()

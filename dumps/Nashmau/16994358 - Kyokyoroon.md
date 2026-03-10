@@ -31,12 +31,12 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x293A      |       10554 |
+|       0 | 0x293B      |       10555 |
 |       1 | 0x034B      |         843 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x293B      |       10555 |
-|       4 | 0x293C      |       10556 |
-|       5 | 0x293D      |       10557 |
+|       3 | 0x293C      |       10556 |
+|       4 | 0x293D      |       10557 |
+|       5 | 0x293E      |       10558 |
 |       6 | 0xFFFFB8CC  |  4294949068 |
 |       7 | 0xFFFF5874  |  4294924404 |
 |       8 | 0x0000      |           0 |
@@ -54,19 +54,19 @@
 |      20 | 0x000B      |          11 |
 |      21 | 0x06D3      |        1747 |
 |      22 | 0xFFFF6AF5  |  4294929141 |
-|      23 | 0x2D5A      |       11610 |
-|      24 | 0x2D5B      |       11611 |
-|      25 | 0x2D6F      |       11631 |
+|      23 | 0x2D5B      |       11611 |
+|      24 | 0x2D5C      |       11612 |
+|      25 | 0x2D70      |       11632 |
 
 ## String References
 
-- **10554**: Hohoho? Yooo come from Al Zaaahbi? Hohoho? Kyokyoroon tell you goood seeecret!
-- **10555**: Seeecret about "alzadal"? Yooo know about alzadal?
-- **10556**: An alzadal float hiiigh in sky and shiiine like pretty stone.
-- **10557**: High in sky? Shine? Maybe a staaar? Romantic, no? Hohoho?
-- **11610**: Kyokyoroon have must hurry to boat dock place!
-- **11611**: Kyokyoroon seee if perfect plan work, ya?
-- **11631**: Tarooo babeee really gone...
+- **10555**: Hohoho? Yooo come from Al Zaaahbi? Hohoho? Kyokyoroon tell you goood seeecret!
+- **10556**: Seeecret about "alzadal"? Yooo know about alzadal?
+- **10557**: An alzadal float hiiigh in sky and shiiine like pretty stone.
+- **10558**: High in sky? Shine? Maybe a staaar? Romantic, no? Hohoho?
+- **11611**: Kyokyoroon have must hurry to boat dock place!
+- **11612**: Kyokyoroon seee if perfect plan work, ya?
+- **11632**: Tarooo babeee really gone...
 
 ## Events
 
@@ -115,18 +115,18 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10554*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10555*)
     → "Hohoho? Yooo come from Al Zaaahbi? Hohoho? Kyokyoroon tell you goood seeecret!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=843*
   4: 0x0019 [0x1C] WAIT(30* ticks)
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=10555*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=10556*)
     → "Seeecret about "alzadal"? Yooo know about alzadal?"
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=10556*)
+  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=10557*)
     → "An alzadal float hiiigh in sky and shiiine like pretty stone."
   8: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=10557*)
+  9: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=10558*)
     → "High in sky? Shine? Maybe a staaar? Romantic, no? Hohoho?"
  10: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0028 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=843*
@@ -377,10 +377,10 @@
 
 ```
   0: 0x009E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11610*)
+  1: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11611*)
     → "Kyokyoroon have must hurry to boat dock place!"
   2: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11611*)
+  3: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11612*)
     → "Kyokyoroon seee if perfect plan work, ya?"
   4: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00AB [0x21] END_EVENT
@@ -408,7 +408,7 @@
 
 ```
   0: 0x00AD [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11631*)
+  1: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11632*)
     → "Tarooo babeee really gone..."
   2: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00B6 [0x21] END_EVENT

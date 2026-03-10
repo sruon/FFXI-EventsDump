@@ -20,16 +20,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DA8      |        7592 |
-|       1 | 0x1DA9      |        7593 |
+|       0 | 0x1DA9      |        7593 |
+|       1 | 0x1DAA      |        7594 |
 |       2 | 0x0002      |           2 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
 
 ## String References
 
-- **7592**: What yooo want?
-- **7593**: Want yooo want? [To capture yooo./To question yooo./Nooothing at all.]
+- **7593**: What yooo want?
+- **7594**: Want yooo want? [To capture yooo./To question yooo./Nooothing at all.]
 
 ## Events
 
@@ -80,10 +80,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
     → "What yooo want?"
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000C [0x24] CREATE_DIALOG(message_id=7593*, default_option=2*, option_flags=0*)
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7594*, default_option=2*, option_flags=0*)
     → "Want yooo want? [To capture yooo./To question yooo./Nooothing at all.]"
   5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0029

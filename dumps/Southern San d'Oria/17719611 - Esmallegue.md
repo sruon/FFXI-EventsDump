@@ -22,13 +22,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001D      |          29 |
-|       1 | 0x3455      |       13397 |
-|       2 | 0x3456      |       13398 |
-|       3 | 0x3457      |       13399 |
-|       4 | 0x3458      |       13400 |
-|       5 | 0x3459      |       13401 |
-|       6 | 0x348C      |       13452 |
-|       7 | 0x348D      |       13453 |
+|       1 | 0x345E      |       13406 |
+|       2 | 0x345F      |       13407 |
+|       3 | 0x3460      |       13408 |
+|       4 | 0x3461      |       13409 |
+|       5 | 0x3462      |       13410 |
+|       6 | 0x3495      |       13461 |
+|       7 | 0x3496      |       13462 |
 
 ## Events
 
@@ -80,19 +80,19 @@
 ```
   0: 0x0001 [0x4A] Esmallegue (ID: 17719611/0x010E613B) looks at LocalPlayer
   1: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=29*
-  2: 0x0019 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13397*]:
+  2: 0x0019 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13406*]:
     → "Greetings, adventurer. San d'Oria is grateful for your services. I am Royal Squire Esmallegue."
   3: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0021 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13398*]:
+  4: 0x0021 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13407*]:
     → "Grand Knight Depardal has left his post as sentry in the Outlands. For now he has been enlisted as a member of the city's defense force."
   5: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0029 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13399*]:
+  6: 0x0029 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13408*]:
     → "As I'm sure you are already aware, San d'Oria's military is divided into two branches, the Royal Knights and the Temple Knights."
   7: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0031 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13400*]:
+  8: 0x0031 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13409*]:
     → "In times of peace, we Royal Knights are charged with the defense of the nation, while the Temple Knights are responsible for maintaining the public order. However, in times of war the Temple Knights are given the role of supervising our ranks."
   9: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0039 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13401*]:
+ 10: 0x0039 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13410*]:
     → "Unfortunately, this is a source of some conflict. Despite being united under one kingdom, there is strong sense of rivalry between the two armies. It has been said that during the Great War there were many areas of contention between us."
  11: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0041 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [EventEntity, EventEntity], work=29*
@@ -124,10 +124,10 @@
 ```
   0: 0x0052 [0x4A] Esmallegue (ID: 17719611/0x010E613B) looks at LocalPlayer
   1: 0x005B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=29*
-  2: 0x006A [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13452*]:
+  2: 0x006A [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13461*]:
     → "You there, adventurer! I wonder have you heard of the so-called "Cavernous Maws"? That is what many are calling the strange stone effigies appearing throughout Vana'diel."
   3: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0072 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13453*]:
+  4: 0x0072 [0x2B] Esmallegue (ID: 17719611/0x010E613B) [13462*]:
     → "I don't know if it's true or not, but some say that it was the wicked rituals of Orcish mesmerizers on the stones that caused them to assume that wretched form."
   5: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x007A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [EventEntity, EventEntity], work=29*

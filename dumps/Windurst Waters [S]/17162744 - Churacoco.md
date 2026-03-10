@@ -21,10 +21,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2AD3      |       10963 |
-|       2 | 0x2AD4      |       10964 |
+|       1 | 0x2AD4      |       10964 |
+|       2 | 0x2AD5      |       10965 |
 |       3 | 0x000B      |          11 |
-|       4 | 0x2AD5      |       10965 |
+|       4 | 0x2AD6      |       10966 |
 
 ## Events
 
@@ -74,15 +74,15 @@
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
-  2: 0x000D [0x2B] EventEntity [10963*]:
+  2: 0x000D [0x2B] EventEntity [10964*]:
     → "Adventurer, do you know Warlock Warlord Robel-Akbel? I was able to catch only a glimpse of him at the most recent battle."
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0015 [0x2B] EventEntity [10964*]:
+  4: 0x0015 [0x2B] EventEntity [10965*]:
     → "He was wielding the most powerful magic I have ever seen! He felled some one hundred Yagudo in the blink of an eye!"
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x6E] EventEntity uses emote 11*
   7: 0x0024 [0x99] Wait for EventEntity animation to complete
-  8: 0x0029 [0x2B] EventEntity [10965*]:
+  8: 0x0029 [0x2B] EventEntity [10966*]:
     → "I'd give anything to be that powerful..."
   9: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0031 [0x21] END_EVENT

@@ -60,93 +60,93 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0029      |          41 |
-|       3 | 0x1FEB      |        8171 |
-|       4 | 0x1FEC      |        8172 |
-|       5 | 0x1E09      |        7689 |
-|       6 | 0x1E0A      |        7690 |
-|       7 | 0x1E1D      |        7709 |
-|       8 | 0x1E1E      |        7710 |
-|       9 | 0x2025      |        8229 |
-|      10 | 0x2026      |        8230 |
-|      11 | 0x2027      |        8231 |
-|      12 | 0x2028      |        8232 |
-|      13 | 0x2029      |        8233 |
-|      14 | 0x202A      |        8234 |
-|      15 | 0x202B      |        8235 |
-|      16 | 0x203B      |        8251 |
-|      17 | 0x203C      |        8252 |
-|      18 | 0x203D      |        8253 |
+|       3 | 0x1FEC      |        8172 |
+|       4 | 0x1FED      |        8173 |
+|       5 | 0x1E0A      |        7690 |
+|       6 | 0x1E0B      |        7691 |
+|       7 | 0x1E1E      |        7710 |
+|       8 | 0x1E1F      |        7711 |
+|       9 | 0x2026      |        8230 |
+|      10 | 0x2027      |        8231 |
+|      11 | 0x2028      |        8232 |
+|      12 | 0x2029      |        8233 |
+|      13 | 0x202A      |        8234 |
+|      14 | 0x202B      |        8235 |
+|      15 | 0x202C      |        8236 |
+|      16 | 0x203C      |        8252 |
+|      17 | 0x203D      |        8253 |
+|      18 | 0x203E      |        8254 |
 |      19 | 0x00C9      |         201 |
 |      20 | 0x0000      |           0 |
-|      21 | 0x2042      |        8258 |
-|      22 | 0x2043      |        8259 |
-|      23 | 0x2044      |        8260 |
-|      24 | 0x2045      |        8261 |
-|      25 | 0x2049      |        8265 |
-|      26 | 0x204A      |        8266 |
-|      27 | 0x204B      |        8267 |
-|      28 | 0x204C      |        8268 |
-|      29 | 0x204D      |        8269 |
-|      30 | 0x2053      |        8275 |
-|      31 | 0x2054      |        8276 |
-|      32 | 0x2055      |        8277 |
-|      33 | 0x2056      |        8278 |
-|      34 | 0x2057      |        8279 |
-|      35 | 0x2058      |        8280 |
-|      36 | 0x2059      |        8281 |
-|      37 | 0x25D8      |        9688 |
-|      38 | 0x25D9      |        9689 |
-|      39 | 0x25DA      |        9690 |
-|      40 | 0x273C      |       10044 |
-|      41 | 0x273D      |       10045 |
-|      42 | 0x273E      |       10046 |
-|      43 | 0x273F      |       10047 |
-|      44 | 0x2740      |       10048 |
-|      45 | 0x2741      |       10049 |
+|      21 | 0x2043      |        8259 |
+|      22 | 0x2044      |        8260 |
+|      23 | 0x2045      |        8261 |
+|      24 | 0x2046      |        8262 |
+|      25 | 0x204A      |        8266 |
+|      26 | 0x204B      |        8267 |
+|      27 | 0x204C      |        8268 |
+|      28 | 0x204D      |        8269 |
+|      29 | 0x204E      |        8270 |
+|      30 | 0x2054      |        8276 |
+|      31 | 0x2055      |        8277 |
+|      32 | 0x2056      |        8278 |
+|      33 | 0x2057      |        8279 |
+|      34 | 0x2058      |        8280 |
+|      35 | 0x2059      |        8281 |
+|      36 | 0x205A      |        8282 |
+|      37 | 0x25D9      |        9689 |
+|      38 | 0x25DA      |        9690 |
+|      39 | 0x25DB      |        9691 |
+|      40 | 0x273D      |       10045 |
+|      41 | 0x273E      |       10046 |
+|      42 | 0x273F      |       10047 |
+|      43 | 0x2740      |       10048 |
+|      44 | 0x2741      |       10049 |
+|      45 | 0x2742      |       10050 |
 
 ## String References
 
-- **7689**: ...Huah? What's that you say...? Oh, yeah, the restricted book that was lost twenty years back...?
-- **7690**: Yeah, it sounds like a lot of trouble. So much of a hurry-scurry, I can hardly sleep...
-- **7709**: ...Huah? What's that you say...? Book of the Gods?
-- **7710**: I prefer a nooks of the nods myself... Leave me alone... ZZZzzz...
-- **8171**: Huah...? Say what...? This is the Library of Magic. If you make too much noise, we'll kick you out, so look around quietly!
-- **8172**: Oh, and be warned. If layfolk such as you go around opening books at random, you could find yourself in more trouble than you bargained for. Huah...! ZZZzzz...
-- **8229**: Huh...? Savior of knowledge?
-- **8230**: Oh...you mean the overdue book collector's job, right? Great. We need all the help we can get.
-- **8231**: Let me see... This week, the following book is overdue...
-- **8232**: Some Hume named Orn still has the book $3 out on loan.
-- **8233**: First, ask around town to track the borrower down, hand him this card, get the book from him, and return it to me here.
-- **8234**: Well, good luck. Phew... That's one less chore to do.
-- **8235**: Huh? You forgot? You're supposed to be getting the overdue book, $3, back from a Hume named Orn.
-- **8251**: Huah...! What to do when you lose one of our books?
-- **8252**: If that's the case, you've just lost an important national treasure! You can't just pay money to get out of it. You'll be sent to scary-wary prison! Just the thought gives me the shiver-wivers...
-- **8253**: Anyway, you shouldn't be asking that. Hurry up and get $6 back off of him. I sure hope he hasn't lost it...!
-- **8258**: Huaaah...? Oh, you got our overdue library book back?
-- **8259**: Ah, but look at the poor thingy-wingy. It's been all ripped up and dirtied. I wonder what hideously hideous thing happened to it?
-- **8260**: Here you go... This is for your troubles. Let's do this again sometime! The pleasure was mine, entirely...
-- **8261**: Let's do the lost book retrieval again sometime, eh? Sorry, at the moment I'm all booked out! Huaaah... ZZZzzz...
-- **8265**: Let me see... Oh yeah... This week we have the following unreturned book...
-- **8266**: Hae Jakkya from the Windurst Woods auction house.
-- **8267**: She's still got the book $3 out on loan. Erch... That's one of those hot and steamy, mushy and slushy, love romance novels.
-- **8268**: Huh? You forgot? It's Hae Jakkya, who runs the auction house in The Windurst Woods.
-- **8269**: She's got a romance novel out called $3 that is now overdue. Please get it back for us, okay?
-- **8275**: Huh? What do you mean, she says she didn't borrow it? It says so right here...
-- **8276**: But come to think of it, she doesn't seem the type to borrow such a tacky book. This is strange.
-- **8277**: But look, it says Hae Jakhya right here on the borrower's card...
-- **8278**: Huaaaah...? You found that overdue book?
-- **8279**: Huh? Someone with almost the exact same name had it out on loan? Hm... Same diff...
-- **8280**: Anyway, here's your payment, bucko. See you around next time, I s'pose...
-- **8281**: I'll talk to you next time we have an unreturned book to fetch. Till then... Huaaah... ZZZzzz...
-- **9688**: ...Phewaaah...? Huh? You found an old $3?
-- **9689**: ...That looks like the ring that belonged to our previous minister, Karaha-Baruha. It was lost during the trouble-woubles of the Great War. But somebody was wearing it, rightaru?
-- **9690**: ...Huaaah...? We're in the middle of cleaning out the book vault, so no borrowing today. Terribly sorry.
-- **10044**: Huaaah... You want to know about Uran-Mafran...?
-- **10045**: I remember him. Yes, I remember him very well.
-- **10046**: Hmmm... So they finally found him, huh? I'm surprised he was still alive.
-- **10047**: But besides that, how is Ildy-Goldy doing? He was in terrible-werrible shape after that Dark Dungeon incident...
-- **10048**: I'll never forget when we all went to see him and heard that no magic or item could ever cure him...
-- **10049**: I wonder if the reason Uran-Mafran left was to search for a way to cure Ildy-Goldy...?
+- **7690**: ...Huah? What's that you say...? Oh, yeah, the restricted book that was lost twenty years back...?
+- **7691**: Yeah, it sounds like a lot of trouble. So much of a hurry-scurry, I can hardly sleep...
+- **7710**: ...Huah? What's that you say...? Book of the Gods?
+- **7711**: I prefer a nooks of the nods myself... Leave me alone... ZZZzzz...
+- **8172**: Huah...? Say what...? This is the Library of Magic. If you make too much noise, we'll kick you out, so look around quietly!
+- **8173**: Oh, and be warned. If layfolk such as you go around opening books at random, you could find yourself in more trouble than you bargained for. Huah...! ZZZzzz...
+- **8230**: Huh...? Savior of knowledge?
+- **8231**: Oh...you mean the overdue book collector's job, right? Great. We need all the help we can get.
+- **8232**: Let me see... This week, the following book is overdue...
+- **8233**: Some Hume named Orn still has the book $3 out on loan.
+- **8234**: First, ask around town to track the borrower down, hand him this card, get the book from him, and return it to me here.
+- **8235**: Well, good luck. Phew... That's one less chore to do.
+- **8236**: Huh? You forgot? You're supposed to be getting the overdue book, $3, back from a Hume named Orn.
+- **8252**: Huah...! What to do when you lose one of our books?
+- **8253**: If that's the case, you've just lost an important national treasure! You can't just pay money to get out of it. You'll be sent to scary-wary prison! Just the thought gives me the shiver-wivers...
+- **8254**: Anyway, you shouldn't be asking that. Hurry up and get $6 back off of him. I sure hope he hasn't lost it...!
+- **8259**: Huaaah...? Oh, you got our overdue library book back?
+- **8260**: Ah, but look at the poor thingy-wingy. It's been all ripped up and dirtied. I wonder what hideously hideous thing happened to it?
+- **8261**: Here you go... This is for your troubles. Let's do this again sometime! The pleasure was mine, entirely...
+- **8262**: Let's do the lost book retrieval again sometime, eh? Sorry, at the moment I'm all booked out! Huaaah... ZZZzzz...
+- **8266**: Let me see... Oh yeah... This week we have the following unreturned book...
+- **8267**: Hae Jakkya from the Windurst Woods auction house.
+- **8268**: She's still got the book $3 out on loan. Erch... That's one of those hot and steamy, mushy and slushy, love romance novels.
+- **8269**: Huh? You forgot? It's Hae Jakkya, who runs the auction house in The Windurst Woods.
+- **8270**: She's got a romance novel out called $3 that is now overdue. Please get it back for us, okay?
+- **8276**: Huh? What do you mean, she says she didn't borrow it? It says so right here...
+- **8277**: But come to think of it, she doesn't seem the type to borrow such a tacky book. This is strange.
+- **8278**: But look, it says Hae Jakhya right here on the borrower's card...
+- **8279**: Huaaaah...? You found that overdue book?
+- **8280**: Huh? Someone with almost the exact same name had it out on loan? Hm... Same diff...
+- **8281**: Anyway, here's your payment, bucko. See you around next time, I s'pose...
+- **8282**: I'll talk to you next time we have an unreturned book to fetch. Till then... Huaaah... ZZZzzz...
+- **9689**: ...Phewaaah...? Huh? You found an old $3?
+- **9690**: ...That looks like the ring that belonged to our previous minister, Karaha-Baruha. It was lost during the trouble-woubles of the Great War. But somebody was wearing it, rightaru?
+- **9691**: ...Huaaah...? We're in the middle of cleaning out the book vault, so no borrowing today. Terribly sorry.
+- **10045**: Huaaah... You want to know about Uran-Mafran...?
+- **10046**: I remember him. Yes, I remember him very well.
+- **10047**: Hmmm... So they finally found him, huh? I'm surprised he was still alive.
+- **10048**: But besides that, how is Ildy-Goldy doing? He was in terrible-werrible shape after that Dark Dungeon incident...
+- **10049**: I'll never forget when we all went to see him and heard that no magic or item could ever cure him...
+- **10050**: I wonder if the reason Uran-Mafran left was to search for a way to cure Ildy-Goldy...?
 
 ## Events
 
@@ -463,11 +463,11 @@
   1: 0x00AD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00AE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  4: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
+  4: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
     → "Huah...? Say what...? This is the Library of Magic. If you make too much noise, we'll kick you out, so look around quietly!"
   5: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x08)
-  7: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
+  7: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
     → "Oh, and be warned. If layfolk such as you go around opening books at random, you could find yourself in more trouble than you bargained for. Huah...! ZZZzzz..."
   8: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00C5 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -500,11 +500,11 @@
   1: 0x00CE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00CF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  4: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
+  4: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
     → "...Huah? What's that you say...? Oh, yeah, the restricted book that was lost twenty years back...?"
   5: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x08)
-  7: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
+  7: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7691*)
     → "Yeah, it sounds like a lot of trouble. So much of a hurry-scurry, I can hardly sleep..."
   8: 0x00E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00E6 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -537,11 +537,11 @@
   1: 0x00EF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  4: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
+  4: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7710*)
     → "...Huah? What's that you say...? Book of the Gods?"
   5: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x08)
-  7: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=7710*)
+  7: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=7711*)
     → "I prefer a nooks of the nods myself... Leave me alone... ZZZzzz..."
   8: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0107 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -603,11 +603,11 @@
 
 ```
   0: 0x012B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  1: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
+  1: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=8230*)
     → "Huh...? Savior of knowledge?"
   2: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0136 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x08)
-  4: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=8230*)
+  4: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
     → "Oh...you mean the overdue book collector's job, right? Great. We need all the help we can get."
   5: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0141 [0x00] END_REQSTACK()
@@ -634,10 +634,10 @@
 
 ```
   0: 0x0142 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x01)
-  1: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
+  1: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
     → "Let me see... This week, the following book is overdue..."
   2: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
+  3: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=8233*)
     → "Some Hume named Orn still has the book $3 out on loan."
   4: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0151 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x02)
@@ -666,12 +666,12 @@
 
 ```
   0: 0x0159 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x01)
-  1: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8233*)
+  1: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8234*)
     → "First, ask around town to track the borrower down, hand him this card, get the book from him, and return it to me here."
   2: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0164 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x02)
   4: 0x016B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  5: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=8234*)
+  5: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=8235*)
     → "Well, good luck. Phew... That's one less chore to do."
   6: 0x0175 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0176 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x08)
@@ -703,7 +703,7 @@
   1: 0x0183 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0184 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0185 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x01)
-  4: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=8235*)
+  4: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=8236*)
     → "Huh? You forgot? You're supposed to be getting the overdue book, $3, back from a Hume named Orn."
   5: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0190 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x02)
@@ -738,15 +738,15 @@
   1: 0x01A0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01A1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  4: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8251*)
+  4: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8252*)
     → "Huah...! What to do when you lose one of our books?"
   5: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x08)
-  7: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8252*)
+  7: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8253*)
     → "If that's the case, you've just lost an important national treasure! You can't just pay money to get out of it. You'll be sent to scary-wary prison! Just the thought gives me the shiver-wivers..."
   8: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x01)
- 10: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8253*)
+ 10: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8254*)
     → "Anyway, you shouldn't be asking that. Hurry up and get $6 back off of him. I sure hope he hasn't lost it...!"
  11: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x02)
@@ -812,11 +812,11 @@
 
 ```
   0: 0x01FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  1: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=8258*)
+  1: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=8259*)
     → "Huaaah...? Oh, you got our overdue library book back?"
   2: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0206 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x08)
-  4: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=8259*)
+  4: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=8260*)
     → "Ah, but look at the poor thingy-wingy. It's been all ripped up and dirtied. I wonder what hideously hideous thing happened to it?"
   5: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0211 [0x00] END_REQSTACK()
@@ -843,7 +843,7 @@
 
 ```
   0: 0x0212 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x09)
-  1: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8260*)
+  1: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8261*)
     → "Here you go... This is for your troubles. Let's do this again sometime! The pleasure was mine, entirely..."
   2: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x021D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x0A)
@@ -875,7 +875,7 @@
   1: 0x022A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x022B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x022C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  4: 0x0233 [0x1D] PRINT_EVENT_MESSAGE(message_id=8261*)
+  4: 0x0233 [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
     → "Let's do the lost book retrieval again sometime, eh? Sorry, at the moment I'm all booked out! Huaaah... ZZZzzz..."
   5: 0x0236 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0237 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x0B)
@@ -938,17 +938,17 @@
 
 ```
   0: 0x025B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x03)
-  1: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
+  1: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
     → "Let me see... Oh yeah... This week we have the following unreturned book..."
   2: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0266 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x04)
   4: 0x026D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x05)
-  5: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
+  5: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=8267*)
     → "Hae Jakkya from the Windurst Woods auction house."
   6: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0278 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x06)
   8: 0x027F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x01)
-  9: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=8267*)
+  9: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=8268*)
     → "She's still got the book $3 out on loan. Erch... That's one of those hot and steamy, mushy and slushy, love romance novels."
  10: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x028A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x02)
@@ -980,10 +980,10 @@
   1: 0x0297 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0298 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0299 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x01)
-  4: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8268*)
+  4: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8269*)
     → "Huh? You forgot? It's Hae Jakkya, who runs the auction house in The Windurst Woods."
   5: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8269*)
+  6: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8270*)
     → "She's got a romance novel out called $3 that is now overdue. Please get it back for us, okay?"
   7: 0x02A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x02)
@@ -1017,13 +1017,13 @@
   1: 0x02B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  4: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8275*)
+  4: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8276*)
     → "Huh? What do you mean, she says she didn't borrow it? It says so right here..."
   5: 0x02C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8276*)
+  6: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8277*)
     → "But come to think of it, she doesn't seem the type to borrow such a tacky book. This is strange."
   7: 0x02C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8277*)
+  8: 0x02C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
     → "But look, it says Hae Jakhya right here on the borrower's card..."
   9: 0x02CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x0B)
@@ -1088,10 +1088,10 @@
 
 ```
   0: 0x0305 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  1: 0x030C [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
+  1: 0x030C [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
     → "Huaaaah...? You found that overdue book?"
   2: 0x030F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
+  3: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
     → "Huh? Someone with almost the exact same name had it out on loan? Hm... Same diff..."
   4: 0x0313 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0314 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x0B)
@@ -1119,7 +1119,7 @@
 
 ```
   0: 0x031C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x09)
-  1: 0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
+  1: 0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
     → "Anyway, here's your payment, bucko. See you around next time, I s'pose..."
   2: 0x0326 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0327 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x0A)
@@ -1151,7 +1151,7 @@
   1: 0x0334 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0335 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0336 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  4: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
+  4: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
     → "I'll talk to you next time we have an unreturned book to fetch. Till then... Huaaah... ZZZzzz..."
   5: 0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0341 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x0B)
@@ -1185,10 +1185,10 @@
   1: 0x0351 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0352 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0353 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  4: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=9688*)
+  4: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=9689*)
     → "...Phewaaah...? Huh? You found an old $3?"
   5: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=9689*)
+  6: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=9690*)
     → "...That looks like the ring that belonged to our previous minister, Karaha-Baruha. It was lost during the trouble-woubles of the Great War. But somebody was wearing it, rightaru?"
   7: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0362 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x0B)
@@ -1222,7 +1222,7 @@
   1: 0x0372 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0373 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0374 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  4: 0x037B [0x1D] PRINT_EVENT_MESSAGE(message_id=9690*)
+  4: 0x037B [0x1D] PRINT_EVENT_MESSAGE(message_id=9691*)
     → "...Huaaah...? We're in the middle of cleaning out the book vault, so no borrowing today. Terribly sorry."
   5: 0x037E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x037F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x0B)
@@ -1262,30 +1262,30 @@
   2: 0x0390 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0391 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0392 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x07)
-  5: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=10044*)
+  5: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=10045*)
     → "Huaaah... You want to know about Uran-Mafran...?"
   6: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x039D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x0B)
   8: 0x03A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x01)
-  9: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10045*)
+  9: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10046*)
     → "I remember him. Yes, I remember him very well."
  10: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x03AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x02)
  12: 0x03B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x03)
- 13: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10046*)
+ 13: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10047*)
     → "Hmmm... So they finally found him, huh? I'm surprised he was still alive."
  14: 0x03C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x03C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x04)
  16: 0x03C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x05)
- 17: 0x03CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10047*)
+ 17: 0x03CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10048*)
     → "But besides that, how is Ildy-Goldy doing? He was in terrible-werrible shape after that Dark Dungeon incident..."
  18: 0x03D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x03D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x06)
  20: 0x03DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x01)
- 21: 0x03E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10048*)
+ 21: 0x03E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10049*)
     → "I'll never forget when we all went to see him and heard that no magic or item could ever cure him..."
  22: 0x03E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x03E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10049*)
+ 23: 0x03E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10050*)
     → "I wonder if the reason Uran-Mafran left was to search for a way to cure Ildy-Goldy...?"
  24: 0x03E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x03E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Furakku-Norakku (ID: 17752081/0x010EE011), tag_num=0x02)

@@ -239,8 +239,8 @@
 |      12 | 0x0228      |         552 |
 |      13 | 0x02EC      |         748 |
 |      14 | 0x0A57      |        2647 |
-|      15 | 0x2050      |        8272 |
-|      16 | 0x2051      |        8273 |
+|      15 | 0x2051      |        8273 |
+|      16 | 0x2052      |        8274 |
 |      17 | 0xFFFFEC83  |  4294962307 |
 |      18 | 0x218A      |        8586 |
 |      19 | 0x014E      |         334 |
@@ -255,10 +255,10 @@
 |      28 | 0xFFFFEDAA  |  4294962602 |
 |      29 | 0xFFFFDEDE  |  4294958814 |
 |      30 | 0x02C8      |         712 |
-|      31 | 0x2085      |        8325 |
-|      32 | 0x2086      |        8326 |
-|      33 | 0x2087      |        8327 |
-|      34 | 0x2088      |        8328 |
+|      31 | 0x2086      |        8326 |
+|      32 | 0x2087      |        8327 |
+|      33 | 0x2088      |        8328 |
+|      34 | 0x2089      |        8329 |
 |      35 | 0x56F47     |      356167 |
 |      36 | 0xFFF78BEF  |  4294413295 |
 |      37 | 0xFFFFF313  |  4294963987 |
@@ -273,9 +273,9 @@
 |      46 | 0x2C85      |       11397 |
 |      47 | 0xFFFFB350  |  4294947664 |
 |      48 | 0x0215      |         533 |
-|      49 | 0x20E2      |        8418 |
+|      49 | 0x20E3      |        8419 |
 |      50 | 0x1178      |        4472 |
-|      51 | 0x20E3      |        8419 |
+|      51 | 0x20E4      |        8420 |
 |      52 | 0x0000      |           0 |
 |      53 | 0x0400      |        1024 |
 |      54 | 0x2D9E      |       11678 |
@@ -299,10 +299,10 @@
 |      72 | 0xFFFFCC92  |  4294954130 |
 |      73 | 0x035D      |         861 |
 |      74 | 0x0D44      |        3396 |
-|      75 | 0x2130      |        8496 |
-|      76 | 0x2131      |        8497 |
-|      77 | 0x2132      |        8498 |
-|      78 | 0x2133      |        8499 |
+|      75 | 0x2131      |        8497 |
+|      76 | 0x2132      |        8498 |
+|      77 | 0x2133      |        8499 |
+|      78 | 0x2134      |        8500 |
 |      79 | 0x57BB5     |      359349 |
 |      80 | 0xFFF78EFF  |  4294414079 |
 |      81 | 0xFFFFF344  |  4294964036 |
@@ -341,26 +341,26 @@
 |     114 | 0x0093      |         147 |
 |     115 | 0x0094      |         148 |
 |     116 | 0x0A56      |        2646 |
-|     117 | 0x1DCE      |        7630 |
-|     118 | 0x1DCF      |        7631 |
-|     119 | 0x1DDA      |        7642 |
-|     120 | 0x1DDB      |        7643 |
+|     117 | 0x1DCF      |        7631 |
+|     118 | 0x1DD0      |        7632 |
+|     119 | 0x1DDB      |        7643 |
+|     120 | 0x1DDC      |        7644 |
 |     121 | 0x4390      |       17296 |
-|     122 | 0x1DE3      |        7651 |
-|     123 | 0x1DE4      |        7652 |
-|     124 | 0x1DEB      |        7659 |
-|     125 | 0x1DEC      |        7660 |
-|     126 | 0x1DF6      |        7670 |
-|     127 | 0x1DF7      |        7671 |
-|     128 | 0x1DF8      |        7672 |
-|     129 | 0x1E07      |        7687 |
-|     130 | 0x1E08      |        7688 |
-|     131 | 0x1E0D      |        7693 |
-|     132 | 0x1E0E      |        7694 |
+|     122 | 0x1DE4      |        7652 |
+|     123 | 0x1DE5      |        7653 |
+|     124 | 0x1DEC      |        7660 |
+|     125 | 0x1DED      |        7661 |
+|     126 | 0x1DF7      |        7671 |
+|     127 | 0x1DF8      |        7672 |
+|     128 | 0x1DF9      |        7673 |
+|     129 | 0x1E08      |        7688 |
+|     130 | 0x1E09      |        7689 |
+|     131 | 0x1E0E      |        7694 |
+|     132 | 0x1E0F      |        7695 |
 |     133 | 0x0026      |          38 |
 |     134 | 0xFFFFFB91  |  4294966161 |
 |     135 | 0xFFFFF094  |  4294963348 |
-|     136 | 0x1DCC      |        7628 |
+|     136 | 0x1DCD      |        7629 |
 |     137 | 0x04F6      |        1270 |
 |     138 | 0x0703      |        1795 |
 |     139 | 0x00CD      |         205 |
@@ -372,7 +372,7 @@
 |     145 | 0x09FB      |        2555 |
 |     146 | 0x019B      |         411 |
 |     147 | 0x07FE      |        2046 |
-|     148 | 0x1DE1      |        7649 |
+|     148 | 0x1DE2      |        7650 |
 |     149 | 0x13B1      |        5041 |
 |     150 | 0x3104      |       12548 |
 |     151 | 0xFFFFFE1F  |  4294966815 |
@@ -417,59 +417,59 @@
 |     190 | 0x002A      |          42 |
 |     191 | 0x002B      |          43 |
 |     192 | 0x002C      |          44 |
-|     193 | 0x1E68      |        7784 |
-|     194 | 0x1E69      |        7785 |
-|     195 | 0x1E6A      |        7786 |
-|     196 | 0x1E6B      |        7787 |
-|     197 | 0x1E6C      |        7788 |
-|     198 | 0x1E6D      |        7789 |
-|     199 | 0x1E6E      |        7790 |
-|     200 | 0x1E6F      |        7791 |
-|     201 | 0x1E70      |        7792 |
-|     202 | 0x1E71      |        7793 |
-|     203 | 0x1E72      |        7794 |
-|     204 | 0x1E73      |        7795 |
-|     205 | 0x1E74      |        7796 |
-|     206 | 0x1E75      |        7797 |
+|     193 | 0x1E69      |        7785 |
+|     194 | 0x1E6A      |        7786 |
+|     195 | 0x1E6B      |        7787 |
+|     196 | 0x1E6C      |        7788 |
+|     197 | 0x1E6D      |        7789 |
+|     198 | 0x1E6E      |        7790 |
+|     199 | 0x1E6F      |        7791 |
+|     200 | 0x1E70      |        7792 |
+|     201 | 0x1E71      |        7793 |
+|     202 | 0x1E72      |        7794 |
+|     203 | 0x1E73      |        7795 |
+|     204 | 0x1E74      |        7796 |
+|     205 | 0x1E75      |        7797 |
+|     206 | 0x1E76      |        7798 |
 |     207 | 0x00C9      |         201 |
-|     208 | 0x1E76      |        7798 |
-|     209 | 0x1E77      |        7799 |
-|     210 | 0x1E78      |        7800 |
-|     211 | 0x1E79      |        7801 |
-|     212 | 0x1E7A      |        7802 |
-|     213 | 0x1E7B      |        7803 |
-|     214 | 0x1E7C      |        7804 |
-|     215 | 0x1E7D      |        7805 |
-|     216 | 0x1E7E      |        7806 |
-|     217 | 0x1E7F      |        7807 |
-|     218 | 0x1E80      |        7808 |
-|     219 | 0x1E81      |        7809 |
-|     220 | 0x1E82      |        7810 |
-|     221 | 0x1E83      |        7811 |
-|     222 | 0x1E84      |        7812 |
+|     208 | 0x1E77      |        7799 |
+|     209 | 0x1E78      |        7800 |
+|     210 | 0x1E79      |        7801 |
+|     211 | 0x1E7A      |        7802 |
+|     212 | 0x1E7B      |        7803 |
+|     213 | 0x1E7C      |        7804 |
+|     214 | 0x1E7D      |        7805 |
+|     215 | 0x1E7E      |        7806 |
+|     216 | 0x1E7F      |        7807 |
+|     217 | 0x1E80      |        7808 |
+|     218 | 0x1E81      |        7809 |
+|     219 | 0x1E82      |        7810 |
+|     220 | 0x1E83      |        7811 |
+|     221 | 0x1E84      |        7812 |
+|     222 | 0x1E85      |        7813 |
 |     223 | 0x003C      |          60 |
-|     224 | 0x1E85      |        7813 |
-|     225 | 0x1E86      |        7814 |
-|     226 | 0x1E87      |        7815 |
-|     227 | 0x1E88      |        7816 |
-|     228 | 0x1E89      |        7817 |
-|     229 | 0x1E8A      |        7818 |
-|     230 | 0x1E8B      |        7819 |
-|     231 | 0x1E8C      |        7820 |
-|     232 | 0x1E8D      |        7821 |
-|     233 | 0x1E8E      |        7822 |
-|     234 | 0x1E8F      |        7823 |
+|     224 | 0x1E86      |        7814 |
+|     225 | 0x1E87      |        7815 |
+|     226 | 0x1E88      |        7816 |
+|     227 | 0x1E89      |        7817 |
+|     228 | 0x1E8A      |        7818 |
+|     229 | 0x1E8B      |        7819 |
+|     230 | 0x1E8C      |        7820 |
+|     231 | 0x1E8D      |        7821 |
+|     232 | 0x1E8E      |        7822 |
+|     233 | 0x1E8F      |        7823 |
+|     234 | 0x1E90      |        7824 |
 |     235 | 0x16B2      |        5810 |
 |     236 | 0x1760      |        5984 |
 |     237 | 0x15BE      |        5566 |
-|     238 | 0x1E90      |        7824 |
-|     239 | 0x1E91      |        7825 |
-|     240 | 0x1E92      |        7826 |
-|     241 | 0x1E93      |        7827 |
-|     242 | 0x1E94      |        7828 |
-|     243 | 0x1E95      |        7829 |
-|     244 | 0x1E96      |        7830 |
-|     245 | 0x1E97      |        7831 |
+|     238 | 0x1E91      |        7825 |
+|     239 | 0x1E92      |        7826 |
+|     240 | 0x1E93      |        7827 |
+|     241 | 0x1E94      |        7828 |
+|     242 | 0x1E95      |        7829 |
+|     243 | 0x1E96      |        7830 |
+|     244 | 0x1E97      |        7831 |
+|     245 | 0x1E98      |        7832 |
 |     246 | 0x2D83      |       11651 |
 |     247 | 0xFFFFD08E  |  4294955150 |
 |     248 | 0x0288      |         648 |
@@ -498,20 +498,20 @@
 |     271 | 0x0005      |           5 |
 |     272 | 0xFFFFE7ED  |  4294961133 |
 |     273 | 0xFFFFC519  |  4294952217 |
-|     274 | 0x1EC3      |        7875 |
-|     275 | 0x1EC4      |        7876 |
-|     276 | 0x1EC5      |        7877 |
-|     277 | 0x1EC6      |        7878 |
-|     278 | 0x1EC7      |        7879 |
-|     279 | 0x1EC8      |        7880 |
+|     274 | 0x1EC4      |        7876 |
+|     275 | 0x1EC5      |        7877 |
+|     276 | 0x1EC6      |        7878 |
+|     277 | 0x1EC7      |        7879 |
+|     278 | 0x1EC8      |        7880 |
+|     279 | 0x1EC9      |        7881 |
 |     280 | 0x51AD      |       20909 |
-|     281 | 0x1EC9      |        7881 |
-|     282 | 0x1ECA      |        7882 |
-|     283 | 0x1ECB      |        7883 |
-|     284 | 0x1EF3      |        7923 |
+|     281 | 0x1ECA      |        7882 |
+|     282 | 0x1ECB      |        7883 |
+|     283 | 0x1ECC      |        7884 |
+|     284 | 0x1EF4      |        7924 |
 |     285 | 0x023E      |         574 |
 |     286 | 0x01F7      |         503 |
-|     287 | 0x1EF4      |        7924 |
+|     287 | 0x1EF5      |        7925 |
 |     288 | 0x1A42      |        6722 |
 |     289 | 0x2300      |        8960 |
 |     290 | 0xFFFFFFD3  |  4294967251 |
@@ -519,8 +519,8 @@
 |     292 | 0x2433      |        9267 |
 |     293 | 0xFFFFFFAB  |  4294967211 |
 |     294 | 0x0FAB      |        4011 |
-|     295 | 0x1F13      |        7955 |
-|     296 | 0x1F14      |        7956 |
+|     295 | 0x1F14      |        7956 |
+|     296 | 0x1F15      |        7957 |
 |     297 | 0xFFFFEC66  |  4294962278 |
 |     298 | 0xFFFFEC2B  |  4294962219 |
 |     299 | 0x01FE      |         510 |
@@ -535,8 +535,8 @@
 |     308 | 0x426E      |       17006 |
 |     309 | 0x1653      |        5715 |
 |     310 | 0x03AE      |         942 |
-|     311 | 0x1F83      |        8067 |
-|     312 | 0x1F84      |        8068 |
+|     311 | 0x1F84      |        8068 |
+|     312 | 0x1F85      |        8069 |
 |     313 | 0xFFFFFDA2  |  4294966690 |
 |     314 | 0x068B      |        1675 |
 |     315 | 0x00FC      |         252 |
@@ -551,68 +551,68 @@
 |     324 | 0x0007      |           7 |
 |     325 | 0x0008      |           8 |
 |     326 | 0x000F      |          15 |
-|     327 | 0x1D0A      |        7434 |
-|     328 | 0x1D0B      |        7435 |
-|     329 | 0x1D0C      |        7436 |
+|     327 | 0x1D0B      |        7435 |
+|     328 | 0x1D0C      |        7436 |
+|     329 | 0x1D0D      |        7437 |
 |     330 | 0xFFF00FF   |   268370175 |
 |     331 | 0x0003      |           3 |
 |     332 | 0x000E      |          14 |
 |     333 | 0x000C      |          12 |
-|     334 | 0x1D0D      |        7437 |
+|     334 | 0x1D0E      |        7438 |
 |     335 | 0xFFE00FF   |   268304639 |
 |     336 | 0xFFA00FF   |   268042495 |
 |     337 | 0x0002      |           2 |
 |     338 | 0xFF800FF   |   267911423 |
 |     339 | 0xFF900FF   |   267976959 |
-|     340 | 0x1D6F      |        7535 |
-|     341 | 0x1D30      |        7472 |
+|     340 | 0x1D70      |        7536 |
+|     341 | 0x1D31      |        7473 |
 |     342 | 0x001B      |          27 |
 |     343 | 0x15180     |       86400 |
 |     344 | 0xFFFFFFFF  |  4294967295 |
-|     345 | 0x1D31      |        7473 |
-|     346 | 0x1D32      |        7474 |
-|     347 | 0x1D33      |        7475 |
-|     348 | 0x1D2B      |        7467 |
-|     349 | 0x1D2C      |        7468 |
-|     350 | 0x1D2D      |        7469 |
-|     351 | 0x1D2E      |        7470 |
+|     345 | 0x1D32      |        7474 |
+|     346 | 0x1D33      |        7475 |
+|     347 | 0x1D34      |        7476 |
+|     348 | 0x1D2C      |        7468 |
+|     349 | 0x1D2D      |        7469 |
+|     350 | 0x1D2E      |        7470 |
+|     351 | 0x1D2F      |        7471 |
 |     352 | 0x001F      |          31 |
-|     353 | 0x1D2F      |        7471 |
+|     353 | 0x1D30      |        7472 |
 |     354 | 0x0030      |          48 |
-|     355 | 0x1D0E      |        7438 |
+|     355 | 0x1D0F      |        7439 |
 |     356 | 0x095E      |        2398 |
-|     357 | 0x1D0F      |        7439 |
-|     358 | 0x1D10      |        7440 |
-|     359 | 0x1D11      |        7441 |
-|     360 | 0x1D12      |        7442 |
-|     361 | 0x1D17      |        7447 |
-|     362 | 0x1D20      |        7456 |
+|     357 | 0x1D10      |        7440 |
+|     358 | 0x1D11      |        7441 |
+|     359 | 0x1D12      |        7442 |
+|     360 | 0x1D13      |        7443 |
+|     361 | 0x1D18      |        7448 |
+|     362 | 0x1D1F      |        7455 |
 |     363 | 0x1D21      |        7457 |
-|     364 | 0x0031      |          49 |
-|     365 | 0x00C8      |         200 |
-|     366 | 0x001E      |          30 |
-|     367 | 0x007F      |         127 |
-|     368 | 0x1D23      |        7459 |
-|     369 | 0x0032      |          50 |
-|     370 | 0x0033      |          51 |
-|     371 | 0x0994      |        2452 |
-|     372 | 0x1D13      |        7443 |
-|     373 | 0x1D19      |        7449 |
-|     374 | 0x1D1F      |        7455 |
-|     375 | 0x1D22      |        7458 |
-|     376 | 0x0034      |          52 |
-|     377 | 0x1D18      |        7448 |
-|     378 | 0x1D24      |        7460 |
+|     364 | 0x1D22      |        7458 |
+|     365 | 0x0031      |          49 |
+|     366 | 0x00C8      |         200 |
+|     367 | 0x001E      |          30 |
+|     368 | 0x007F      |         127 |
+|     369 | 0x1D24      |        7460 |
+|     370 | 0x0032      |          50 |
+|     371 | 0x0033      |          51 |
+|     372 | 0x0994      |        2452 |
+|     373 | 0x1D14      |        7444 |
+|     374 | 0x1D1A      |        7450 |
+|     375 | 0x1D20      |        7456 |
+|     376 | 0x1D23      |        7459 |
+|     377 | 0x0034      |          52 |
+|     378 | 0x1D19      |        7449 |
 |     379 | 0x1D25      |        7461 |
-|     380 | 0x003F      |          63 |
-|     381 | 0x003B      |          59 |
-|     382 | 0x0040      |          64 |
-|     383 | 0x0041      |          65 |
-|     384 | 0x0F96      |        3990 |
-|     385 | 0x0FA5      |        4005 |
-|     386 | 0x0FAA      |        4010 |
-|     387 | 0x1D14      |        7444 |
-|     388 | 0x1D1D      |        7453 |
+|     380 | 0x1D26      |        7462 |
+|     381 | 0x003F      |          63 |
+|     382 | 0x003B      |          59 |
+|     383 | 0x0040      |          64 |
+|     384 | 0x0041      |          65 |
+|     385 | 0x0F96      |        3990 |
+|     386 | 0x0FA5      |        4005 |
+|     387 | 0x0FAA      |        4010 |
+|     388 | 0x1D15      |        7445 |
 |     389 | 0x0035      |          53 |
 |     390 | 0x0036      |          54 |
 |     391 | 0x0037      |          55 |
@@ -621,88 +621,88 @@
 |     394 | 0x0FA0      |        4000 |
 |     395 | 0x0BFD      |        3069 |
 |     396 | 0x0006      |           6 |
-|     397 | 0x1D15      |        7445 |
-|     398 | 0x1D1A      |        7450 |
+|     397 | 0x1D16      |        7446 |
+|     398 | 0x1D1B      |        7451 |
 |     399 | 0x003A      |          58 |
 |     400 | 0x0038      |          56 |
 |     401 | 0x0039      |          57 |
-|     402 | 0x1D1B      |        7451 |
-|     403 | 0x1D1C      |        7452 |
+|     402 | 0x1D1C      |        7452 |
+|     403 | 0x1D1D      |        7453 |
 |     404 | 0x004F      |          79 |
 |     405 | 0x6CE7      |       27879 |
 |     406 | 0x6CE8      |       27880 |
-|     407 | 0x1D16      |        7446 |
+|     407 | 0x1D17      |        7447 |
 |     408 | 0x0042      |          66 |
-|     409 | 0x1D26      |        7462 |
-|     410 | 0x1D27      |        7463 |
-|     411 | 0x1D28      |        7464 |
-|     412 | 0x1D29      |        7465 |
-|     413 | 0x1D2A      |        7466 |
-|     414 | 0x1D3F      |        7487 |
-|     415 | 0x1D40      |        7488 |
-|     416 | 0x1D41      |        7489 |
-|     417 | 0x1D42      |        7490 |
-|     418 | 0x1D43      |        7491 |
-|     419 | 0x1D44      |        7492 |
-|     420 | 0x1D45      |        7493 |
-|     421 | 0x1D46      |        7494 |
-|     422 | 0x1D47      |        7495 |
-|     423 | 0x1D48      |        7496 |
-|     424 | 0x1D49      |        7497 |
-|     425 | 0x1D4A      |        7498 |
-|     426 | 0x1D4B      |        7499 |
-|     427 | 0x1D4C      |        7500 |
-|     428 | 0x1D4D      |        7501 |
-|     429 | 0x1D4E      |        7502 |
-|     430 | 0x1D4F      |        7503 |
-|     431 | 0x1D50      |        7504 |
-|     432 | 0x1D51      |        7505 |
-|     433 | 0x1D52      |        7506 |
-|     434 | 0x1D53      |        7507 |
-|     435 | 0x1D54      |        7508 |
-|     436 | 0x1D55      |        7509 |
-|     437 | 0x1D56      |        7510 |
-|     438 | 0x1D57      |        7511 |
-|     439 | 0x1D58      |        7512 |
-|     440 | 0x1D59      |        7513 |
-|     441 | 0x1D5A      |        7514 |
-|     442 | 0x1D5B      |        7515 |
-|     443 | 0x1D79      |        7545 |
+|     409 | 0x1D27      |        7463 |
+|     410 | 0x1D28      |        7464 |
+|     411 | 0x1D29      |        7465 |
+|     412 | 0x1D2A      |        7466 |
+|     413 | 0x1D2B      |        7467 |
+|     414 | 0x1D40      |        7488 |
+|     415 | 0x1D41      |        7489 |
+|     416 | 0x1D42      |        7490 |
+|     417 | 0x1D43      |        7491 |
+|     418 | 0x1D44      |        7492 |
+|     419 | 0x1D45      |        7493 |
+|     420 | 0x1D46      |        7494 |
+|     421 | 0x1D47      |        7495 |
+|     422 | 0x1D48      |        7496 |
+|     423 | 0x1D49      |        7497 |
+|     424 | 0x1D4A      |        7498 |
+|     425 | 0x1D4B      |        7499 |
+|     426 | 0x1D4C      |        7500 |
+|     427 | 0x1D4D      |        7501 |
+|     428 | 0x1D4E      |        7502 |
+|     429 | 0x1D4F      |        7503 |
+|     430 | 0x1D50      |        7504 |
+|     431 | 0x1D51      |        7505 |
+|     432 | 0x1D52      |        7506 |
+|     433 | 0x1D53      |        7507 |
+|     434 | 0x1D54      |        7508 |
+|     435 | 0x1D55      |        7509 |
+|     436 | 0x1D56      |        7510 |
+|     437 | 0x1D57      |        7511 |
+|     438 | 0x1D58      |        7512 |
+|     439 | 0x1D59      |        7513 |
+|     440 | 0x1D5A      |        7514 |
+|     441 | 0x1D5B      |        7515 |
+|     442 | 0x1D5C      |        7516 |
+|     443 | 0x1D7A      |        7546 |
 |     444 | 0x0050      |          80 |
 |     445 | 0x0010      |          16 |
-|     446 | 0x1D7A      |        7546 |
-|     447 | 0x1D7B      |        7547 |
-|     448 | 0x1D7D      |        7549 |
-|     449 | 0x1D7E      |        7550 |
-|     450 | 0x1CA2      |        7330 |
+|     446 | 0x1D7B      |        7547 |
+|     447 | 0x1D7C      |        7548 |
+|     448 | 0x1D7E      |        7550 |
+|     449 | 0x1D7F      |        7551 |
+|     450 | 0x1CA3      |        7331 |
 |     451 | 0x40000000  |  1073741824 |
 |     452 | 0xFFB00FF   |   268108031 |
 |     453 | 0xFFD00FF   |   268239103 |
 |     454 | 0xFFC00FF   |   268173567 |
-|     455 | 0x1D34      |        7476 |
+|     455 | 0x1D35      |        7477 |
 |     456 | 0x2710      |       10000 |
-|     457 | 0x1D35      |        7477 |
-|     458 | 0x1D36      |        7478 |
-|     459 | 0x1D37      |        7479 |
+|     457 | 0x1D36      |        7478 |
+|     458 | 0x1D37      |        7479 |
+|     459 | 0x1D38      |        7480 |
 |     460 | 0x001C      |          28 |
 |     461 | 0x001D      |          29 |
-|     462 | 0x1D3A      |        7482 |
+|     462 | 0x1D3B      |        7483 |
 |     463 | 0x18FC      |        6396 |
-|     464 | 0x1D38      |        7480 |
-|     465 | 0x1D39      |        7481 |
+|     464 | 0x1D39      |        7481 |
+|     465 | 0x1D3A      |        7482 |
 |     466 | 0x0023      |          35 |
 |     467 | 0x0024      |          36 |
 |     468 | 0x0025      |          37 |
 |     469 | 0x0FD0      |        4048 |
 |     470 | 0x0FD1      |        4049 |
 |     471 | 0x0FD2      |        4050 |
-|     472 | 0x1D3B      |        7483 |
-|     473 | 0x1D3C      |        7484 |
-|     474 | 0x1D3D      |        7485 |
+|     472 | 0x1D3C      |        7484 |
+|     473 | 0x1D3D      |        7485 |
+|     474 | 0x1D3E      |        7486 |
 |     475 | 0x002D      |          45 |
 |     476 | 0x002E      |          46 |
 |     477 | 0x002F      |          47 |
-|     478 | 0x1D3E      |        7486 |
+|     478 | 0x1D3F      |        7487 |
 |     479 | 0x001A      |          26 |
 |     480 | 0x0012      |          18 |
 |     481 | 0x0013      |          19 |
@@ -729,185 +729,185 @@
 ## String References
 
 - **6396**: You do not have enough gil.
-- **7330**: Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]
-- **7434**: Whatever would you want from a woolly monster like me, kupo?
-- **7435**: What do you want to do? [Look into my Mog House./Buy or sell things!/Check on my assistants./Check on my shining stars./Learn about the garden./Head elsewhere./Nothing.]
-- **7436**: Understood to the utmost, kupo!
-- **7437**: Choose wisely. [Goods and rank one and two creatures./Rank three creatures./Rank four creatures./Rank five through seven creatures./Nothing for now.]
-- **7438**: What will you do? [Check star count./Exchange stars./...Stars? What?/Go back.]
-- **7439**: I see $2 star[/s] scintillating inside your $3, kupo.
-- **7440**: Your word is my warrant, [master/mistress]. Select a stunning specimen from one of these lovely lists and procure your prize, kupo.
-- **7441**: Exchange how many? (Stars: $0) [One./Five./Ten./Fifteen./Thirty./None. Go back.]
-- **7442**: Which one? [Trip to San d'Oria./Trip to Bastok./Trip to Windurst./None. Go back.]
-- **7443**: Which one? [3./One week of work from Kuyin./One week of work from Susuroon./One week of work from Yeestog./None. Go back.]
-- **7444**: Which one? [#./$1./$2./None. Go back.]
-- **7445**: Which one? [3./$1./$2./$3./None. Go back.]
-- **7446**: Which one? [#./None. Go back.]
-- **7447**: I'll launch you ludicrous lengths to [San d'Oria/Bastok/Windurst] with mysterious moogle magic, kupo!
-- **7448**: [Kuyin Hathdenna/Susuroon/Yeestog] will be willing to work wonders for one week in your Mog Garden, for five shining stars per week, kupo! Just tell me how long you want.
-- **7449**: With this $3, you can store a gratuitous amount of gil in your garden, kupo!
-- **7450**: The $3...um...well...kind of calls crabs to the coast, kupo. There's not much more to say.
-- **7451**: Maybe I'll scribble a sentence or two to that lovely ephemeral moogle, kupo!
-- **7452**: Let's do it! I'll explain everything and woo him with wondrous tales of our exploits here!
-- **7453**: Now all that's left is for you to receive your rightful remuneration, kupo.
-- **7454**: Are you delighted with your decision, kupo?
-- **7455**: Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]
-- **7456**: Get launched ludicrous lengths? [Lovely idea!/Loathsome idea.]
-- **7457**: Happy trails, kupo!
-- **7458**: Here you go. I hope you adore your amazing award, kupo.
-- **7459**: Shucks, it seems you're sans sufficient starshine savings, kupo.
-- **7460**: Your amazing assistant will attend you garden for that long for a cost of $2 shining stars.
-- **7461**: Is $1 week[/s] correct? [Perfect!/Hold on.]
-- **7462**: You remember the $3, that resplendent rig I remitted to you on your inaugural visit, kupo?
-- **7463**: Well, the stars that scintillate inside earn energy just from coming in close proximity to the master moogle who made the device, kupo.
-- **7464**: In other words, nudging near me with your $3 nets you a star once every Earth day, kupo.
-- **7465**: I can ply that powerful patina into palpable products for your pleasure as long as you expend the energy of a certain slew of stars, kupo.
-- **7466**: However, I can only manifest matter that matters to your Mog Garden. Sorry, kupo.
-- **7467**: What about this assistant? [Employ./Dismiss./Go back.]
-- **7468**: Even the most agreeable assistant requires recompense, kupo! I'll inform you when their contract is about to close.
-- **7469**: Enter how many days in advance (Earth time) you wish to be notified of impending contract expiration.
-- **7470**: Current notification: [Always/7 days in advance/6 days in advance/5 days in advance/4 days in advance/3 days in advance/2 days in advance/1 day in advance/None]. [Always notify me./Notify me 7 days in advance./Notify me 6 days in advance./Notify me 5 days in advance./Notify me 4 days in advance./Notify me 3 days in advance./Notify me 2 days in advance./Notify me 1 day in advance./Never notify me./Back.]
-- **7471**: You will now [always be notified of your assistant's contract expiration/be notified of your assistant's contract expiration 7 days in advance/be notified of your assistant's contract expiration 6 days in advance/be notified of your assistant's contract expiration 5 days in advance/be notified of your assistant's contract expiration 4 days in advance/be notified of your assistant's contract expiration 3 days in advance/be notified of your assistant's contract expiration 2 days in advance/be notified of your assistant's contract expiration 1 day in advance/never be notified of you assistant's contract expiration].
-- **7472**: Which ardently allegiant assistant, kupo?
-- **7473**: Which ardently allegiant assistant? [Kuyin Hathdenna.[/ (Employed)]/Susuroon.[/ (Employed)]/Yeestog.[/ (Employed)]/Set contract expiration notification./Go back.]
-- **7474**: [Kuyin Hathdenna/Susuroon/Yeestog] has yet to consent to a contract, and is thus free as a frolicking fairy, kupo.
-- **7475**: [Kuyin Hathdenna/Susuroon/Yeestog] can still toil tirelessly for a total of $1 day[/s], kupo.
-- **7476**: Hire this helper? If you've already contracted this critter, you can extend the length of their labor. Remember, the regular range of such records is one week (Earth time), kupo.
-- **7477**: [Kuyin Hathdenna/Susuroon/Yeestog] for $2 week[/s], kupo? Then that means you wish to win over this workhorse with a $1-day contract costing $3 gil?
-- **7478**: [Kuyin Hathdenna/Susuroon/Yeestog] for $2 week[/s], kupo? That means you'll extend [her/his/his] contract for $5 day[/s] on top of the $4 remaining, to make a new $1-day contract costing $3 gil.
-- **7479**: Is this sufficient? [Yes! Seal the deal!/No. Let me think it over.]
-- **7480**: Cancel your contract with [Kuyin Hathdenna/Susuroon/Yeestog]!? Fine, but you won't get back the gil you gave to hire [her/him/him], kupo.
-- **7481**: Cancel the contract? [Without a doubt./Let me think it over.]
-- **7482**: Contract: complete! ...For all plans and purposes. Let me deal with the dirty detail drudgery, kupo.
-- **7483**: Kupopopo, $1? This is sure to tickle [Kuyin Hathdenna/Susuroon/Yeestog]'s toes!
-- **7484**: Now, bequeathing this bauble to me will allow your assistant to aid you for $2 day[/s]. Is that alright, kupo?
-- **7485**: Is that alright? [You know it, poet!/Hmmm, let me think it over.]
-- **7486**: My apologies, but a plethora of problems have proliferated, kupo! Take this back and turn it in at another time.
-- **7487**: What do you want to know about? [This island./Provisions./The furrows./The grove and mineral vein./The two nets./Other items of note./Tidbits of information./Go back.]
-- **7488**: This's one of many isolated islands spurting from the Senroh Sea, kupo! It harbors such an overabundance of organic objects that it's acquired the appellation of "nature's treasure trove."
-- **7489**: Conferred upon colonization collaborators by Adoulin's administrative authorities, these parcels provide services similar to those of the MHMU's Mog Houses, kupo.
-- **7490**: And of these ostensibly innumerable islands, each gets sliced into sections and managed by moogles, which gives rise to their name: "Mog Gardens"!
-- **7491**: Should ennui envelop your entirety and you actually wish to vacate this veritable vacationland, shove off in the Mog Dinghy anchored near the shore. It sets sail to either Eastern or Western Adoulin, kupo.
-- **7492**: All the fodder you forage in this forest is yours to freely fritter away or store safely, kupo.
-- **7493**: But that means you'll be teleporting time and time again to take trinkets to your Mog House, you moan? Oh ho ho, that's simply not so, kupo!
-- **7494**: Your Mog Safe is miraculously manageable from here. Plus, you can draw doodads from your Delivery Box like a dream! Just inform me of your intentions or manipulate the main menu yourself to carouse at your convenience, kupo.
-- **7495**: It may be exposed to the elements, but this area is astonishingly analogous to your Mog House--both in function and the fact that it's free of charge!
-- **7496**: Plant seeds in garden furrows to cultivate crops conducive to your current lifestyle. Unlike gardening in your Mog House, however, they don't wither and waste away when you're not watching, kupo.
-- **7497**: The time it takes to reap your rewards differs depending on the specimen of seed you plant. If you're ever at a loss for how long gestation lasts, ask to "Inspect the garden," and all your anxieties will abate.
-- **7498**: As your garden grows in rank, you can claim higher quality crops with the same seeds, kupo. The number of furrows will also fill out finely so you can sprout up to three seeds.
-- **7499**: Furnishing your furrows with fertilizer exerts an extra effect on your harvest. Beware, though, because the benefit breaks down after you reap returns, kupo.
-- **7500**: Finally, if a fine-furred follower fortuitously fiddles with your furrows, it'll benefit your bounty in a different way from flinging fertilizer on your fields!
-- **7501**: Where can you log, harvest, and mine...without needing to tinker with tools? The interior of this island, of course, kupo!
-- **7502**: The arboreal grove ladles out logs like with logging and gives out grasses as with harvesting.
-- **7503**: Then the mineral vein embedded in a bulky bit of bedrock offers ore for its owners, much in the same manner as mining, kupo.
-- **7504**: No need to trade in tools--the MHMU will supply special ones for you! Mine and harvest until you lose your lucidity and descend into delirium, kupo.
-- **7505**: The higher their ranks rise, the more places you can procure provisions from...thus powering up your productivity!
-- **7506**: Set certain fertilizers on roots or let loose liquids upon the boulder to see some delightful developments. Furthermore, assigning an able-bodied assistant to service these spaces grants greater gratuities to your garden, kupo.
-- **7507**: We've set two nets for you, which may each be brought up only once per day (Earth time), kupo.
-- **7508**: Sitting silently in the surf is the coastal fishing net, which seizes prey from the sea.
-- **7509**: Lounging in the lakelet is the pond dredger, which drags up freshwater fish.
-- **7510**: Both benefit from being baited with different bits, so watch which you use where, kupo.
-- **7511**: Mayhaps mentioning multiple measures of caution really is relevant, kupo...
-- **7512**: Can't carry any more commodities? Then burrow into your bag and sort out enough space to put them all in, kupo.
-- **7513**: Your yield gets yanked away by the evil aether if you leave it all and depart via dinghy. In addition, you can't collect any more curios if you don't have an open inventory, so don't forget to free up a fitting amount of room, kupo.
-- **7514**: Oh, yes. Exceptional erudition is the elementary step in enhancing the ranks of your resources. Where do you obtain this innovative insight, you inquire? Tomes tucked tightly into the shelves of the Pioneers' Coalition, kupo.
-- **7515**: Well, that's all the caution I can conjure under these conditions, kupo.
-- **7535**: You cannot perform that action while your Mog Garden is open to visitors.
-- **7545**: Permit me to tell you tales of your exciting exploits here, kupo!
-- **7546**: You have visited a total of $0 day[/s]. You have gathered from your furrow $1 time[/s]. You have gathered from your grove $2 time[/s]. You have gathered from veins $3 time[/s].
-- **7547**: You have fished from the pond $0 time[/s]. You have fished from the coast $1 time[/s].
-- **7549**: You have cared for creatures $0 time[/s]. You have successfully reared $1 creature[/s]. You have freed $2 creature[/s]. $3 creature[/s] [has/have] passed on.
-- **7550**: Your Mog Garden is [extraordinarily/quite/somewhat/slightly/marginally] peaceful.
-- **7630**: Back in your Mog House, I bet gardening was a chore. Here, however, it's a delightful diversion from the wild and woolly world outside.
-- **7631**: Simply stick your snout in that basket over there, and declare your discoveries to me.
-- **7642**: Examine the earth-rupturing roots to reveal riveting rewards!
-- **7643**: Well, maybe not "riveting," but rewards nonetheless, kupo. Either way, take some time to talk to me when you're done.
-- **7651**: A rotten reprobate's been running around like a rogue in the Mog Garden, kupo.
-- **7652**: To stop this sorry sod, we'll need $3 from that bulky boulder beyond. Once you get it, make me aware and we'll go from there.
-- **7659**: Nurse the netting out of the swelling spring to see if that evil entity got entangled in it.
-- **7660**: Should you find fishy fragments--or anything at all--apprise me as soon as you're able, kupo.
-- **7670**: It's detestable, deplorable, despicable even! No one pillages this paradise from perimeter to pole and gets away with it, kupo!
-- **7671**: What was that? Poles and perimeters aren't perfectly paired, and this profligate isn't pillaging per se, kupo?
-- **7672**: No matter, just nudge the netting that's sitting near the sandy shore and come calling when you've finished.
-- **7687**: Eleven energetic exclamations! The enemy has been eliminated, kupo! Peace prevails in our part of the province!
-- **7688**: Plant the precious seed I presented you and proclaim your progress to me when you're finished, kupo.
-- **7693**: Wonders from worlds beyond are wont to wash up on these shores.
-- **7694**: Could you be so kind as to creep up to the coast and catch a glimpse of what drifted down here? You never know, it might turn out to contribute to the colonization of the continent, kupo.
-- **7784**: How have you adjusted to governing these garden grounds, kupo?
-- **7785**: We moogles across the Adoulin archipelago all agree that carrying out your commands is a piece of copse candy, kupo!
-- **7786**: By the bye, did I neglect to notify you that an ancient associate of mine--Monsieur Kupont--shall arrive anon? I swear, I can see the foretold fun flowing from my fur already!
-- **7787**: You've been a caring commander to me, so how about I weave a wall's worth of worshiping words adorned by ardent acclaim when I introduce you, kupo?
-- **7788**: This is all predicated upon your prominent partnership in my plan, however. My floating friend fancies collecting the carcasses of crustaceans from all the places he patrons.
-- **7789**: Should a rare representative of deep-sea denizens reveal itself to you on the banks of the beach, please pick it up and place it in my paws, kupo.
-- **7790**: I simply can't wait for my friend to flap his furry physique over here. Oh, the terrific times we'll have together...
-- **7791**: I'd love to secure a striking specimen of a shell for him so he could have proof of his peregrinations, kupo.
-- **7792**: If you could wade through what washes up on shore and find a fitting figure of one, I would be...dare I say it...shell-shocked.
-- **7793**: This relic is...not just resplendent and rare, but ravishing too, kupo!
-- **7794**: I'm certain my sidekick will shudder at its shape and cry over its contours, kupo. There's one obstacle, though. This isn't a shell, but a breathing being.
-- **7795**: <Ahmph>
-- **7796**: <Munch> <munch> <munch>...
-- **7797**: Decadently delicious, kupo. The taste even triples with the turbulence of it trying to trek out of my tummy.
-- **7798**: <Grrrg> <grrrg>... The pain...it pierces the provenance of my puffy paunch, kupo.
-- **7799**: Now I know to never judge a shellfish by its sheen... That crustacean you captured may not have shown much intransigence in my innards initially, but now it's incapacitated me, kupo.
-- **7800**: On top of it all, an impromptu incident's mutilating my mind like a mauling from a mighty mace, kupooo...
-- **7801**: My amiable associate announced that he's coming with a companion of his own...
-- **7802**: That's all well and good, but his consort's the most terrifically terrifying tyrant of all time, kupo! Even the moogle's name is tyrannical--Kupivolo!
-- **7803**: Me, twitch and tremble like a twittering twitherym? For shame, kupo! I fear not for my fate at all!
-- **7804**: My only concern is for the good of this great garden. Ohhh...now a biting blizzard blows inside my bosom in anticipation of the apocalypse accompanying his arrival.
-- **7805**: In this condition, it's impossible for me to investigate the island for interesting items with which to placate his pernicious passions. Therefore, I entreat you to explore these environs and acquire an astonishing article, kupo!
-- **7806**: As for its form, however, I haven't even a hypothesis. I do have the utmost confidence in your capacity to come up with a compelling curio, though!
-- **7807**: My tummy's taken a turn for the treacherous, so I must ask for assistance, kupo.
-- **7808**: Discover a desirable doohickey that'll trump the tyrannical tendencies of my companion's cohort.
-- **7809**: As for its form, however, I haven't even a hypothesis. I do have the utmost confidence in your capacity to come up with a compelling curio, though!
-- **7810**: Why, this is...! I've finally found the fix for this firestorm!
-- **7811**: Hypnosis will heal my headache and stave off our slaughter, kupo.
-- **7812**: If we hypnotize him into thinking you and I are invincible, he'll surely shun his shenanigans. Then we can smack that smug smirk right off--
-- **7813**: By Altana's ancient affection, I could never consent to such cruel carnage, kupo! Moogles are a peaceful people who provide their powers for the forces of fairness only.
-- **7814**: Though hypnosis is indeed held in high esteem by humanity... A persuasive proposition if I've ever heard one.
-- **7815**: Well now, off to practice my new profession. If I can't cross coasts to learn hypnosis, then I'll commit to commencing a correspondence course, kupo!
-- **7816**: So, so sleepy...and it's all caused by that correspondence course in hypnotic hijinks, kupo.
-- **7817**: I tried out something that my tutorial tome termed "Hysterical Hypnosis for the Hoi Polloi," but ended up sinking into slumber myself, kupo.
-- **7818**: Thus, I disclosed my displeasure at the cruddy curriculum in a bitter billet to my terrible teacher.
-- **7819**: Interestingly, I ascertained that the professor I persecuted was none other than my bosom buddy, the Great Kupellion. It's a small world, indeed, kupo.
-- **7820**: After that, we got to gabbing about the vile and villainous Kupivolo. Once I had espoused my extreme enmity regarding that hellion's horrific horseplay, Kupellion decided to drop by this Mog Garden, kupo.
-- **7821**: With the Great Kupellion here, he can mitigate the madness of the maelstrom that is Kupivolo by hypnotizing him.
-- **7822**: Then we'll be ready to raise the roof and revel in rambunctiousness! We'll be singing, "Who let the moogles out? (Kupo, kupo.)"
-- **7823**: What a grand ol' gala it'll be! And we'd like you to help[ us prepare for the party/, seeing as you're so perfectly proficient at courting capable companions], kupo.
-- **7824**: To kick off this commemorative carnival, we'll need you to pluck $1 from the pond and filch both $2 and $3 from the furrows, kupo.
-- **7825**: I can't wait for the wondrous and wild wassailing when we all meet, kupo! [Well, it's time to tackle the technicalities./If only I could participate in the planning, too.]
-- **7826**: To kick off this commemorative carnival, we'll need you to pluck $1 from the pond and filch both $2 and $3 from the furrows, kupo.
-- **7827**: Thirty thousand thanks be to thee, kupo! I could opine for hours on the opulence of your overt kindness, kupo.
-- **7828**: I've gathered a garrison of goods, myself. It'll all be worth it when we get to gaze upon the elated expressions of everyone involved, kupo.
-- **7829**: The troops are trekking towards Adoulin as I articulate this very assertion. They should disembark in a day or so, kupo.
+- **7331**: Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]
+- **7435**: Whatever would you want from a woolly monster like me, kupo?
+- **7436**: What do you want to do? [Look into my Mog House./Buy or sell things!/Check on my assistants./Check on my shining stars./Learn about the garden./Head elsewhere./Nothing.]
+- **7437**: Understood to the utmost, kupo!
+- **7438**: Choose wisely. [Goods and rank one and two creatures./Rank three creatures./Rank four creatures./Rank five through seven creatures./Nothing for now.]
+- **7439**: What will you do? [Check star count./Exchange stars./...Stars? What?/Go back.]
+- **7440**: I see $2 star[/s] scintillating inside your $3, kupo.
+- **7441**: Your word is my warrant, [master/mistress]. Select a stunning specimen from one of these lovely lists and procure your prize, kupo.
+- **7442**: Exchange how many? (Stars: $0) [One./Five./Ten./Fifteen./Thirty./None. Go back.]
+- **7443**: Which one? [Trip to San d'Oria./Trip to Bastok./Trip to Windurst./None. Go back.]
+- **7444**: Which one? [3./One week of work from Kuyin./One week of work from Susuroon./One week of work from Yeestog./None. Go back.]
+- **7445**: Which one? [#./$1./$2./None. Go back.]
+- **7446**: Which one? [3./$1./$2./$3./None. Go back.]
+- **7447**: Which one? [#./None. Go back.]
+- **7448**: I'll launch you ludicrous lengths to [San d'Oria/Bastok/Windurst] with mysterious moogle magic, kupo!
+- **7449**: [Kuyin Hathdenna/Susuroon/Yeestog] will be willing to work wonders for one week in your Mog Garden, for five shining stars per week, kupo! Just tell me how long you want.
+- **7450**: With this $3, you can store a gratuitous amount of gil in your garden, kupo!
+- **7451**: The $3...um...well...kind of calls crabs to the coast, kupo. There's not much more to say.
+- **7452**: Maybe I'll scribble a sentence or two to that lovely ephemeral moogle, kupo!
+- **7453**: Let's do it! I'll explain everything and woo him with wondrous tales of our exploits here!
+- **7454**: Now all that's left is for you to receive your rightful remuneration, kupo.
+- **7455**: Are you delighted with your decision, kupo?
+- **7456**: Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]
+- **7457**: Get launched ludicrous lengths? [Lovely idea!/Loathsome idea.]
+- **7458**: Happy trails, kupo!
+- **7459**: Here you go. I hope you adore your amazing award, kupo.
+- **7460**: Shucks, it seems you're sans sufficient starshine savings, kupo.
+- **7461**: Your amazing assistant will attend you garden for that long for a cost of $2 shining stars.
+- **7462**: Is $1 week[/s] correct? [Perfect!/Hold on.]
+- **7463**: You remember the $3, that resplendent rig I remitted to you on your inaugural visit, kupo?
+- **7464**: Well, the stars that scintillate inside earn energy just from coming in close proximity to the master moogle who made the device, kupo.
+- **7465**: In other words, nudging near me with your $3 nets you a star once every Earth day, kupo.
+- **7466**: I can ply that powerful patina into palpable products for your pleasure as long as you expend the energy of a certain slew of stars, kupo.
+- **7467**: However, I can only manifest matter that matters to your Mog Garden. Sorry, kupo.
+- **7468**: What about this assistant? [Employ./Dismiss./Go back.]
+- **7469**: Even the most agreeable assistant requires recompense, kupo! I'll inform you when their contract is about to close.
+- **7470**: Enter how many days in advance (Earth time) you wish to be notified of impending contract expiration.
+- **7471**: Current notification: [Always/7 days in advance/6 days in advance/5 days in advance/4 days in advance/3 days in advance/2 days in advance/1 day in advance/None]. [Always notify me./Notify me 7 days in advance./Notify me 6 days in advance./Notify me 5 days in advance./Notify me 4 days in advance./Notify me 3 days in advance./Notify me 2 days in advance./Notify me 1 day in advance./Never notify me./Back.]
+- **7472**: You will now [always be notified of your assistant's contract expiration/be notified of your assistant's contract expiration 7 days in advance/be notified of your assistant's contract expiration 6 days in advance/be notified of your assistant's contract expiration 5 days in advance/be notified of your assistant's contract expiration 4 days in advance/be notified of your assistant's contract expiration 3 days in advance/be notified of your assistant's contract expiration 2 days in advance/be notified of your assistant's contract expiration 1 day in advance/never be notified of you assistant's contract expiration].
+- **7473**: Which ardently allegiant assistant, kupo?
+- **7474**: Which ardently allegiant assistant? [Kuyin Hathdenna.[/ (Employed)]/Susuroon.[/ (Employed)]/Yeestog.[/ (Employed)]/Set contract expiration notification./Go back.]
+- **7475**: [Kuyin Hathdenna/Susuroon/Yeestog] has yet to consent to a contract, and is thus free as a frolicking fairy, kupo.
+- **7476**: [Kuyin Hathdenna/Susuroon/Yeestog] can still toil tirelessly for a total of $1 day[/s], kupo.
+- **7477**: Hire this helper? If you've already contracted this critter, you can extend the length of their labor. Remember, the regular range of such records is one week (Earth time), kupo.
+- **7478**: [Kuyin Hathdenna/Susuroon/Yeestog] for $2 week[/s], kupo? Then that means you wish to win over this workhorse with a $1-day contract costing $3 gil?
+- **7479**: [Kuyin Hathdenna/Susuroon/Yeestog] for $2 week[/s], kupo? That means you'll extend [her/his/his] contract for $5 day[/s] on top of the $4 remaining, to make a new $1-day contract costing $3 gil.
+- **7480**: Is this sufficient? [Yes! Seal the deal!/No. Let me think it over.]
+- **7481**: Cancel your contract with [Kuyin Hathdenna/Susuroon/Yeestog]!? Fine, but you won't get back the gil you gave to hire [her/him/him], kupo.
+- **7482**: Cancel the contract? [Without a doubt./Let me think it over.]
+- **7483**: Contract: complete! ...For all plans and purposes. Let me deal with the dirty detail drudgery, kupo.
+- **7484**: Kupopopo, $1? This is sure to tickle [Kuyin Hathdenna/Susuroon/Yeestog]'s toes!
+- **7485**: Now, bequeathing this bauble to me will allow your assistant to aid you for $2 day[/s]. Is that alright, kupo?
+- **7486**: Is that alright? [You know it, poet!/Hmmm, let me think it over.]
+- **7487**: My apologies, but a plethora of problems have proliferated, kupo! Take this back and turn it in at another time.
+- **7488**: What do you want to know about? [This island./Provisions./The furrows./The grove and mineral vein./The two nets./Other items of note./Tidbits of information./Go back.]
+- **7489**: This's one of many isolated islands spurting from the Senroh Sea, kupo! It harbors such an overabundance of organic objects that it's acquired the appellation of "nature's treasure trove."
+- **7490**: Conferred upon colonization collaborators by Adoulin's administrative authorities, these parcels provide services similar to those of the MHMU's Mog Houses, kupo.
+- **7491**: And of these ostensibly innumerable islands, each gets sliced into sections and managed by moogles, which gives rise to their name: "Mog Gardens"!
+- **7492**: Should ennui envelop your entirety and you actually wish to vacate this veritable vacationland, shove off in the Mog Dinghy anchored near the shore. It sets sail to either Eastern or Western Adoulin, kupo.
+- **7493**: All the fodder you forage in this forest is yours to freely fritter away or store safely, kupo.
+- **7494**: But that means you'll be teleporting time and time again to take trinkets to your Mog House, you moan? Oh ho ho, that's simply not so, kupo!
+- **7495**: Your Mog Safe is miraculously manageable from here. Plus, you can draw doodads from your Delivery Box like a dream! Just inform me of your intentions or manipulate the main menu yourself to carouse at your convenience, kupo.
+- **7496**: It may be exposed to the elements, but this area is astonishingly analogous to your Mog House--both in function and the fact that it's free of charge!
+- **7497**: Plant seeds in garden furrows to cultivate crops conducive to your current lifestyle. Unlike gardening in your Mog House, however, they don't wither and waste away when you're not watching, kupo.
+- **7498**: The time it takes to reap your rewards differs depending on the specimen of seed you plant. If you're ever at a loss for how long gestation lasts, ask to "Inspect the garden," and all your anxieties will abate.
+- **7499**: As your garden grows in rank, you can claim higher quality crops with the same seeds, kupo. The number of furrows will also fill out finely so you can sprout up to three seeds.
+- **7500**: Furnishing your furrows with fertilizer exerts an extra effect on your harvest. Beware, though, because the benefit breaks down after you reap returns, kupo.
+- **7501**: Finally, if a fine-furred follower fortuitously fiddles with your furrows, it'll benefit your bounty in a different way from flinging fertilizer on your fields!
+- **7502**: Where can you log, harvest, and mine...without needing to tinker with tools? The interior of this island, of course, kupo!
+- **7503**: The arboreal grove ladles out logs like with logging and gives out grasses as with harvesting.
+- **7504**: Then the mineral vein embedded in a bulky bit of bedrock offers ore for its owners, much in the same manner as mining, kupo.
+- **7505**: No need to trade in tools--the MHMU will supply special ones for you! Mine and harvest until you lose your lucidity and descend into delirium, kupo.
+- **7506**: The higher their ranks rise, the more places you can procure provisions from...thus powering up your productivity!
+- **7507**: Set certain fertilizers on roots or let loose liquids upon the boulder to see some delightful developments. Furthermore, assigning an able-bodied assistant to service these spaces grants greater gratuities to your garden, kupo.
+- **7508**: We've set two nets for you, which may each be brought up only once per day (Earth time), kupo.
+- **7509**: Sitting silently in the surf is the coastal fishing net, which seizes prey from the sea.
+- **7510**: Lounging in the lakelet is the pond dredger, which drags up freshwater fish.
+- **7511**: Both benefit from being baited with different bits, so watch which you use where, kupo.
+- **7512**: Mayhaps mentioning multiple measures of caution really is relevant, kupo...
+- **7513**: Can't carry any more commodities? Then burrow into your bag and sort out enough space to put them all in, kupo.
+- **7514**: Your yield gets yanked away by the evil aether if you leave it all and depart via dinghy. In addition, you can't collect any more curios if you don't have an open inventory, so don't forget to free up a fitting amount of room, kupo.
+- **7515**: Oh, yes. Exceptional erudition is the elementary step in enhancing the ranks of your resources. Where do you obtain this innovative insight, you inquire? Tomes tucked tightly into the shelves of the Pioneers' Coalition, kupo.
+- **7516**: Well, that's all the caution I can conjure under these conditions, kupo.
+- **7536**: You cannot perform that action while your Mog Garden is open to visitors.
+- **7546**: Permit me to tell you tales of your exciting exploits here, kupo!
+- **7547**: You have visited a total of $0 day[/s]. You have gathered from your furrow $1 time[/s]. You have gathered from your grove $2 time[/s]. You have gathered from veins $3 time[/s].
+- **7548**: You have fished from the pond $0 time[/s]. You have fished from the coast $1 time[/s].
+- **7550**: You have cared for creatures $0 time[/s]. You have successfully reared $1 creature[/s]. You have freed $2 creature[/s]. $3 creature[/s] [has/have] passed on.
+- **7551**: Your Mog Garden is [extraordinarily/quite/somewhat/slightly/marginally] peaceful.
+- **7631**: Back in your Mog House, I bet gardening was a chore. Here, however, it's a delightful diversion from the wild and woolly world outside.
+- **7632**: Simply stick your snout in that basket over there, and declare your discoveries to me.
+- **7643**: Examine the earth-rupturing roots to reveal riveting rewards!
+- **7644**: Well, maybe not "riveting," but rewards nonetheless, kupo. Either way, take some time to talk to me when you're done.
+- **7652**: A rotten reprobate's been running around like a rogue in the Mog Garden, kupo.
+- **7653**: To stop this sorry sod, we'll need $3 from that bulky boulder beyond. Once you get it, make me aware and we'll go from there.
+- **7660**: Nurse the netting out of the swelling spring to see if that evil entity got entangled in it.
+- **7661**: Should you find fishy fragments--or anything at all--apprise me as soon as you're able, kupo.
+- **7671**: It's detestable, deplorable, despicable even! No one pillages this paradise from perimeter to pole and gets away with it, kupo!
+- **7672**: What was that? Poles and perimeters aren't perfectly paired, and this profligate isn't pillaging per se, kupo?
+- **7673**: No matter, just nudge the netting that's sitting near the sandy shore and come calling when you've finished.
+- **7688**: Eleven energetic exclamations! The enemy has been eliminated, kupo! Peace prevails in our part of the province!
+- **7689**: Plant the precious seed I presented you and proclaim your progress to me when you're finished, kupo.
+- **7694**: Wonders from worlds beyond are wont to wash up on these shores.
+- **7695**: Could you be so kind as to creep up to the coast and catch a glimpse of what drifted down here? You never know, it might turn out to contribute to the colonization of the continent, kupo.
+- **7785**: How have you adjusted to governing these garden grounds, kupo?
+- **7786**: We moogles across the Adoulin archipelago all agree that carrying out your commands is a piece of copse candy, kupo!
+- **7787**: By the bye, did I neglect to notify you that an ancient associate of mine--Monsieur Kupont--shall arrive anon? I swear, I can see the foretold fun flowing from my fur already!
+- **7788**: You've been a caring commander to me, so how about I weave a wall's worth of worshiping words adorned by ardent acclaim when I introduce you, kupo?
+- **7789**: This is all predicated upon your prominent partnership in my plan, however. My floating friend fancies collecting the carcasses of crustaceans from all the places he patrons.
+- **7790**: Should a rare representative of deep-sea denizens reveal itself to you on the banks of the beach, please pick it up and place it in my paws, kupo.
+- **7791**: I simply can't wait for my friend to flap his furry physique over here. Oh, the terrific times we'll have together...
+- **7792**: I'd love to secure a striking specimen of a shell for him so he could have proof of his peregrinations, kupo.
+- **7793**: If you could wade through what washes up on shore and find a fitting figure of one, I would be...dare I say it...shell-shocked.
+- **7794**: This relic is...not just resplendent and rare, but ravishing too, kupo!
+- **7795**: I'm certain my sidekick will shudder at its shape and cry over its contours, kupo. There's one obstacle, though. This isn't a shell, but a breathing being.
+- **7796**: <Ahmph>
+- **7797**: <Munch> <munch> <munch>...
+- **7798**: Decadently delicious, kupo. The taste even triples with the turbulence of it trying to trek out of my tummy.
+- **7799**: <Grrrg> <grrrg>... The pain...it pierces the provenance of my puffy paunch, kupo.
+- **7800**: Now I know to never judge a shellfish by its sheen... That crustacean you captured may not have shown much intransigence in my innards initially, but now it's incapacitated me, kupo.
+- **7801**: On top of it all, an impromptu incident's mutilating my mind like a mauling from a mighty mace, kupooo...
+- **7802**: My amiable associate announced that he's coming with a companion of his own...
+- **7803**: That's all well and good, but his consort's the most terrifically terrifying tyrant of all time, kupo! Even the moogle's name is tyrannical--Kupivolo!
+- **7804**: Me, twitch and tremble like a twittering twitherym? For shame, kupo! I fear not for my fate at all!
+- **7805**: My only concern is for the good of this great garden. Ohhh...now a biting blizzard blows inside my bosom in anticipation of the apocalypse accompanying his arrival.
+- **7806**: In this condition, it's impossible for me to investigate the island for interesting items with which to placate his pernicious passions. Therefore, I entreat you to explore these environs and acquire an astonishing article, kupo!
+- **7807**: As for its form, however, I haven't even a hypothesis. I do have the utmost confidence in your capacity to come up with a compelling curio, though!
+- **7808**: My tummy's taken a turn for the treacherous, so I must ask for assistance, kupo.
+- **7809**: Discover a desirable doohickey that'll trump the tyrannical tendencies of my companion's cohort.
+- **7810**: As for its form, however, I haven't even a hypothesis. I do have the utmost confidence in your capacity to come up with a compelling curio, though!
+- **7811**: Why, this is...! I've finally found the fix for this firestorm!
+- **7812**: Hypnosis will heal my headache and stave off our slaughter, kupo.
+- **7813**: If we hypnotize him into thinking you and I are invincible, he'll surely shun his shenanigans. Then we can smack that smug smirk right off--
+- **7814**: By Altana's ancient affection, I could never consent to such cruel carnage, kupo! Moogles are a peaceful people who provide their powers for the forces of fairness only.
+- **7815**: Though hypnosis is indeed held in high esteem by humanity... A persuasive proposition if I've ever heard one.
+- **7816**: Well now, off to practice my new profession. If I can't cross coasts to learn hypnosis, then I'll commit to commencing a correspondence course, kupo!
+- **7817**: So, so sleepy...and it's all caused by that correspondence course in hypnotic hijinks, kupo.
+- **7818**: I tried out something that my tutorial tome termed "Hysterical Hypnosis for the Hoi Polloi," but ended up sinking into slumber myself, kupo.
+- **7819**: Thus, I disclosed my displeasure at the cruddy curriculum in a bitter billet to my terrible teacher.
+- **7820**: Interestingly, I ascertained that the professor I persecuted was none other than my bosom buddy, the Great Kupellion. It's a small world, indeed, kupo.
+- **7821**: After that, we got to gabbing about the vile and villainous Kupivolo. Once I had espoused my extreme enmity regarding that hellion's horrific horseplay, Kupellion decided to drop by this Mog Garden, kupo.
+- **7822**: With the Great Kupellion here, he can mitigate the madness of the maelstrom that is Kupivolo by hypnotizing him.
+- **7823**: Then we'll be ready to raise the roof and revel in rambunctiousness! We'll be singing, "Who let the moogles out? (Kupo, kupo.)"
+- **7824**: What a grand ol' gala it'll be! And we'd like you to help[ us prepare for the party/, seeing as you're so perfectly proficient at courting capable companions], kupo.
+- **7825**: To kick off this commemorative carnival, we'll need you to pluck $1 from the pond and filch both $2 and $3 from the furrows, kupo.
+- **7826**: I can't wait for the wondrous and wild wassailing when we all meet, kupo! [Well, it's time to tackle the technicalities./If only I could participate in the planning, too.]
+- **7827**: To kick off this commemorative carnival, we'll need you to pluck $1 from the pond and filch both $2 and $3 from the furrows, kupo.
+- **7828**: Thirty thousand thanks be to thee, kupo! I could opine for hours on the opulence of your overt kindness, kupo.
+- **7829**: I've gathered a garrison of goods, myself. It'll all be worth it when we get to gaze upon the elated expressions of everyone involved, kupo.
 - **7830**: The troops are trekking towards Adoulin as I articulate this very assertion. They should disembark in a day or so, kupo.
-- **7831**: Entrust us with the excess exercises in expectancy. You've already laden yourself with loads more than the lion's share, kupo.
-- **7875**: What happened, kupo?
-- **7876**: Did the hypnosis fail to fix Kupivolo's foul frame of mind? Did he damage this domain and drive away our dear guests?
-- **7877**: Did the hypnosis work? [You bet./Well, you know...]
-- **7878**: It did!? So, everyone enjoyed the event so excessively that they lost themselves and wandered away?
-- **7879**: What fraudulent friends, kupo. At least you were kind enough to come clomping back to me, <Player>.
-- **7880**: I remember rather little from that rowdy reception, but I do know the Great Kupellion left this behind, kupo.
-- **7881**: I'm particularly partial to $1, but I'll pass it on as a present for powering through professionally. Prior to parting, Kupellion mentioned that this was "compensation for conferring the compendium upon a compatriot," kupo.
-- **7882**: I wonder what in the world he was warbling about. My worthless workbook on hypnosis, kupo?
-- **7883**: That must be it. Oh, how caring and conscientious a consort Kupellion is, kupo!
-- **7923**: Grow some crab chow and show those strange girls what a green thumb really means!
-- **7924**: Sow the $2 into the ground and apply the $1 to help it grow, kupo!
-- **7955**: I require $1 so that the plants grow straight and strong, kupo!
-- **7956**: If a way to a man's heart is through his stomach, then the way to a woman's is through flowers!
-- **8067**: The MHMU needs $1 filched from the fishing net, $2 plucked from the pond, and $3 veiled within veins, kupo.
-- **8068**: If we don't get them, the wibbly wobbly woozies will continue to whittle away at our wisemen's wits, kupo!
-- **8272**: Give one $1 to Chacharoon and holler that you need help harvesting such a hearty haul, kupo.
-- **8273**: Additionally, I'll let you know that Chacharoon favors friends that are awe-inspiring adventurers at the apex of their accomplishments.
-- **8325**: Before consoling Chacharoon, I insist you set sail for your home nation.
-- **8326**: Once there, tap into the tenets of Trust. Only then will you be able to truly tackle the trepidations that terrorize Susuroon.
-- **8327**: Head for the hills and console Chacharoon!
-- **8328**: Bring your butt to the boat and take the tiny trail to the top. Stare in stupefied silence at the ravishing refurbishment of the range!
-- **8418**: I will prepare an appropriate moogle soup to aid this afflicted adamantoise, kupo.
-- **8419**: Bring me twelve $1 so that I can brew the best bisque to tend to our tepid tortoise.
-- **8496**: Getting a fourth creature into our rearing grounds is bound to be a fearsome feat.
-- **8497**: Could you please help poor Chacharoon keep up with inventory before he gets buried under a mound of monster manure?
-- **8498**: Head to the Goblins' shop in Lower Jeuno for supplies. We're counting on you, kupo!
-- **8499**: Superb! You've returned with the supplies! Just drop them off in the rearing grounds out back, kupo.
+- **7831**: The troops are trekking towards Adoulin as I articulate this very assertion. They should disembark in a day or so, kupo.
+- **7832**: Entrust us with the excess exercises in expectancy. You've already laden yourself with loads more than the lion's share, kupo.
+- **7876**: What happened, kupo?
+- **7877**: Did the hypnosis fail to fix Kupivolo's foul frame of mind? Did he damage this domain and drive away our dear guests?
+- **7878**: Did the hypnosis work? [You bet./Well, you know...]
+- **7879**: It did!? So, everyone enjoyed the event so excessively that they lost themselves and wandered away?
+- **7880**: What fraudulent friends, kupo. At least you were kind enough to come clomping back to me, <Player>.
+- **7881**: I remember rather little from that rowdy reception, but I do know the Great Kupellion left this behind, kupo.
+- **7882**: I'm particularly partial to $1, but I'll pass it on as a present for powering through professionally. Prior to parting, Kupellion mentioned that this was "compensation for conferring the compendium upon a compatriot," kupo.
+- **7883**: I wonder what in the world he was warbling about. My worthless workbook on hypnosis, kupo?
+- **7884**: That must be it. Oh, how caring and conscientious a consort Kupellion is, kupo!
+- **7924**: Grow some crab chow and show those strange girls what a green thumb really means!
+- **7925**: Sow the $2 into the ground and apply the $1 to help it grow, kupo!
+- **7956**: I require $1 so that the plants grow straight and strong, kupo!
+- **7957**: If a way to a man's heart is through his stomach, then the way to a woman's is through flowers!
+- **8068**: The MHMU needs $1 filched from the fishing net, $2 plucked from the pond, and $3 veiled within veins, kupo.
+- **8069**: If we don't get them, the wibbly wobbly woozies will continue to whittle away at our wisemen's wits, kupo!
+- **8273**: Give one $1 to Chacharoon and holler that you need help harvesting such a hearty haul, kupo.
+- **8274**: Additionally, I'll let you know that Chacharoon favors friends that are awe-inspiring adventurers at the apex of their accomplishments.
+- **8326**: Before consoling Chacharoon, I insist you set sail for your home nation.
+- **8327**: Once there, tap into the tenets of Trust. Only then will you be able to truly tackle the trepidations that terrorize Susuroon.
+- **8328**: Head for the hills and console Chacharoon!
+- **8329**: Bring your butt to the boat and take the tiny trail to the top. Stare in stupefied silence at the ravishing refurbishment of the range!
+- **8419**: I will prepare an appropriate moogle soup to aid this afflicted adamantoise, kupo.
+- **8420**: Bring me twelve $1 so that I can brew the best bisque to tend to our tepid tortoise.
+- **8497**: Getting a fourth creature into our rearing grounds is bound to be a fearsome feat.
+- **8498**: Could you please help poor Chacharoon keep up with inventory before he gets buried under a mound of monster manure?
+- **8499**: Head to the Goblins' shop in Lower Jeuno for supplies. We're counting on you, kupo!
+- **8500**: Superb! You've returned with the supplies! Just drop them off in the rearing grounds out back, kupo.
 
 ## Events
 
@@ -1064,11 +1064,11 @@
   2: 0x0042 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0043 [0x03] Work_Zone[3] = 748*
   4: 0x0048 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
-  5: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=8272*)
+  5: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=8273*)
     → "Give one $1 to Chacharoon and holler that you need help harvesting such a hearty haul, kupo."
   6: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x005B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
-  8: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=8273*)
+  8: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=8274*)
     → "Additionally, I'll let you know that Chacharoon favors friends that are awe-inspiring adventurers at the apex of their accomplishments."
   9: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x006E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1245,11 +1245,11 @@
   1: 0x00A9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00AA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00AB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
-  4: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8325*)
+  4: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
     → "Before consoling Chacharoon, I insist you set sail for your home nation."
   5: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00BE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
-  7: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
+  7: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
     → "Once there, tap into the tenets of Trust. Only then will you be able to truly tackle the trepidations that terrorize Susuroon."
   8: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00D1 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1283,11 +1283,11 @@
   1: 0x00DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00DC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
-  4: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
+  4: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
     → "Head for the hills and console Chacharoon!"
   5: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00EF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
-  7: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
+  7: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
     → "Bring your butt to the boat and take the tiny trail to the top. Stare in stupefied silence at the ravishing refurbishment of the range!"
   8: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0102 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1461,12 +1461,12 @@
   1: 0x0139 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x013A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x013B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
-  4: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8418*)
+  4: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8419*)
     → "I will prepare an appropriate moogle soup to aid this afflicted adamantoise, kupo."
   5: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x014E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
   7: 0x015D [0x03] Work_Zone[3] = 4472*
-  8: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=8419*)
+  8: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=8420*)
     → "Bring me twelve $1 so that I can brew the best bisque to tend to our tepid tortoise."
   9: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0166 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1724,14 +1724,14 @@
   1: 0x01E0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01E1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01E2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
-  4: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8496*)
+  4: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8497*)
     → "Getting a fourth creature into our rearing grounds is bound to be a fearsome feat."
   5: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8497*)
+  6: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8498*)
     → "Could you please help poor Chacharoon keep up with inventory before he gets buried under a mound of monster manure?"
   7: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01F9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
-  9: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=8498*)
+  9: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=8499*)
     → "Head to the Goblins' shop in Lower Jeuno for supplies. We're counting on you, kupo!"
  10: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x020C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1764,7 +1764,7 @@
   1: 0x0215 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0216 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0217 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
-  4: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=8499*)
+  4: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=8500*)
     → "Superb! You've returned with the supplies! Just drop them off in the rearing grounds out back, kupo."
   5: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x022A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
@@ -3781,10 +3781,10 @@
   2: 0x0861 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0862 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   4: 0x0873 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2636*
-  5: 0x0882 [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
+  5: 0x0882 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
     → "Back in your Mog House, I bet gardening was a chore. Here, however, it's a delightful diversion from the wild and woolly world outside."
   6: 0x0885 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0886 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
+  7: 0x0886 [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
     → "Simply stick your snout in that basket over there, and declare your discoveries to me."
   8: 0x0889 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x088A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
@@ -3819,10 +3819,10 @@
   1: 0x08A2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x08A3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x08A4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [EventEntity, EventEntity], work=2647*
-  4: 0x08B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7642*)
+  4: 0x08B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
     → "Examine the earth-rupturing roots to reveal riveting rewards!"
   5: 0x08B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x08B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
+  6: 0x08B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7644*)
     → "Well, maybe not "riveting," but rewards nonetheless, kupo. Either way, take some time to talk to me when you're done."
   7: 0x08BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x08BB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pnt0" with entities [EventEntity, EventEntity]
@@ -3859,10 +3859,10 @@
   2: 0x08D2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x08D3 [0x03] Work_Zone[5] = 17296*
   4: 0x08D8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
-  5: 0x08E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7651*)
+  5: 0x08E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7652*)
     → "A rotten reprobate's been running around like a rogue in the Mog Garden, kupo."
   6: 0x08EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x08EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7652*)
+  7: 0x08EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7653*)
     → "To stop this sorry sod, we'll need $3 from that bulky boulder beyond. Once you get it, make me aware and we'll go from there."
   8: 0x08EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x08EF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
@@ -3896,10 +3896,10 @@
   1: 0x0907 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0908 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0909 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnc0" with entities [EventEntity, EventEntity], work=2636*
-  4: 0x0918 [0x1D] PRINT_EVENT_MESSAGE(message_id=7659*)
+  4: 0x0918 [0x1D] PRINT_EVENT_MESSAGE(message_id=7660*)
     → "Nurse the netting out of the swelling spring to see if that evil entity got entangled in it."
   5: 0x091B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x091C [0x1D] PRINT_EVENT_MESSAGE(message_id=7660*)
+  6: 0x091C [0x1D] PRINT_EVENT_MESSAGE(message_id=7661*)
     → "Should you find fishy fragments--or anything at all--apprise me as soon as you're able, kupo."
   7: 0x091F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0920 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3936,15 +3936,15 @@
   2: 0x092A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x092B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   4: 0x093C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [EventEntity, EventEntity], work=2647*
-  5: 0x094B [0x1D] PRINT_EVENT_MESSAGE(message_id=7670*)
+  5: 0x094B [0x1D] PRINT_EVENT_MESSAGE(message_id=7671*)
     → "It's detestable, deplorable, despicable even! No one pillages this paradise from perimeter to pole and gets away with it, kupo!"
   6: 0x094E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x094F [0x1D] PRINT_EVENT_MESSAGE(message_id=7671*)
+  7: 0x094F [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
     → "What was that? Poles and perimeters aren't perfectly paired, and this profligate isn't pillaging per se, kupo?"
   8: 0x0952 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0953 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ang0" with entities [EventEntity, EventEntity]
  10: 0x0960 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [EventEntity, EventEntity], work=2647*
- 11: 0x096F [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
+ 11: 0x096F [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
     → "No matter, just nudge the netting that's sitting near the sandy shore and come calling when you've finished."
  12: 0x0972 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0973 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3980,13 +3980,13 @@
   1: 0x097C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x097D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x097E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes1" with entities [EventEntity, EventEntity], work=2642*
-  4: 0x098D [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
+  4: 0x098D [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
     → "Eleven energetic exclamations! The enemy has been eliminated, kupo! Peace prevails in our part of the province!"
   5: 0x0990 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0991 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "yes1" with entities [EventEntity, EventEntity]
   7: 0x099E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   8: 0x09AF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksu0" with entities [EventEntity, EventEntity], work=2643*
-  9: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
+  9: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
     → "Plant the precious seed I presented you and proclaim your progress to me when you're finished, kupo."
  10: 0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x09C2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4022,10 +4022,10 @@
   2: 0x09CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x09CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   4: 0x09DE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2636*
-  5: 0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
+  5: 0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
     → "Wonders from worlds beyond are wont to wash up on these shores."
   6: 0x09F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x09F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
+  7: 0x09F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
     → "Could you be so kind as to creep up to the coast and catch a glimpse of what drifted down here? You never know, it might turn out to contribute to the colonization of the continent, kupo."
   8: 0x09F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x09F5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
@@ -4148,7 +4148,7 @@
 #### Opcodes
 
 ```
-  0: 0x0A20 [0x2B] Green Thumb Moogle (ID: 17924125/0x0111801D) [7628*]:
+  0: 0x0A20 [0x2B] Green Thumb Moogle (ID: 17924125/0x0111801D) [7629*]:
     → "We begin with the bare basics. Let's get going on grasping that grandiose garden of yours."
   1: 0x0A27 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0A28 [0x00] END_REQSTACK()
@@ -4292,7 +4292,7 @@
 #### Opcodes
 
 ```
-  0: 0x0A4F [0x2B] Green Thumb Moogle (ID: 17924125/0x0111801D) [7649*]:
+  0: 0x0A4F [0x2B] Green Thumb Moogle (ID: 17924125/0x0111801D) [7650*]:
     → "We must take up arms against this anonymous assailant before he can spread his tenebrous tendrils any further. Make haste and cleave that crag in twain to obtain $3, kupo!"
   1: 0x0A56 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0A57 [0x00] END_REQSTACK()
@@ -4938,31 +4938,31 @@
   1: 0x0B51 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0B56 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0B57 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0B58 [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
+  4: 0x0B58 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
     → "How have you adjusted to governing these garden grounds, kupo?"
   5: 0x0B5B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B5C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   7: 0x0B6D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=2636*
-  8: 0x0B7C [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+  8: 0x0B7C [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
     → "We moogles across the Adoulin archipelago all agree that carrying out your commands is a piece of copse candy, kupo!"
   9: 0x0B7F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B80 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hap0" with entities [EventEntity, EventEntity]
- 11: 0x0B8D [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
+ 11: 0x0B8D [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
     → "By the bye, did I neglect to notify you that an ancient associate of mine--Monsieur Kupont--shall arrive anon? I swear, I can see the foretold fun flowing from my fur already!"
  12: 0x0B90 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0B91 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
  14: 0x0BA0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "std0" with entities [EventEntity, EventEntity]
  15: 0x0BAD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [EventEntity, EventEntity], work=2647*
- 16: 0x0BBC [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
+ 16: 0x0BBC [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
     → "You've been a caring commander to me, so how about I weave a wall's worth of worshiping words adorned by ardent acclaim when I introduce you, kupo?"
  17: 0x0BBF [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0BC0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pnt0" with entities [EventEntity, EventEntity]
  19: 0x0BCD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
  20: 0x0BDE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2636*
- 21: 0x0BED [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
+ 21: 0x0BED [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
     → "This is all predicated upon your prominent partnership in my plan, however. My floating friend fancies collecting the carcasses of crustaceans from all the places he patrons."
  22: 0x0BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0BF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
+ 23: 0x0BF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
     → "Should a rare representative of deep-sea denizens reveal itself to you on the banks of the beach, please pick it up and place it in my paws, kupo."
  24: 0x0BF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0BF5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
@@ -5000,15 +5000,15 @@
   2: 0x0C0E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0C0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   4: 0x0C20 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=2636*
-  5: 0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
+  5: 0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
     → "I simply can't wait for my friend to flap his furry physique over here. Oh, the terrific times we'll have together..."
   6: 0x0C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0C33 [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
+  7: 0x0C33 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
     → "I'd love to secure a striking specimen of a shell for him so he could have proof of his peregrinations, kupo."
   8: 0x0C36 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0C37 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
  10: 0x0C46 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "std0" with entities [EventEntity, EventEntity]
- 11: 0x0C53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
+ 11: 0x0C53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
     → "If you could wade through what washes up on shore and find a fitting figure of one, I would be...dare I say it...shell-shocked."
  12: 0x0C56 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0C57 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -5057,28 +5057,28 @@
   4: 0x0C63 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=2755*
   5: 0x0C72 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
   6: 0x0C7F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "oji0" with entities [EventEntity, EventEntity], work=2642*
-  7: 0x0C8E [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
+  7: 0x0C8E [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
     → "This relic is...not just resplendent and rare, but ravishing too, kupo!"
   8: 0x0C91 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0C92 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "oji0" with entities [EventEntity, EventEntity]
  10: 0x0C9F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
  11: 0x0CB0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksu0" with entities [EventEntity, EventEntity], work=2643*
- 12: 0x0CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+ 12: 0x0CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "I'm certain my sidekick will shudder at its shape and cry over its contours, kupo. There's one obstacle, though. This isn't a shell, but a breathing being."
  13: 0x0CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0CC3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ksu0" with entities [EventEntity, EventEntity]
  15: 0x0CD0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes1" with entities [EventEntity, EventEntity], work=2642*
- 16: 0x0CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+ 16: 0x0CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "<Ahmph>"
  17: 0x0CE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0CE3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "yes1" with entities [EventEntity, EventEntity]
  19: 0x0CF0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "lup0" with entities [EventEntity, EventEntity], work=2642*
- 20: 0x0CFF [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
+ 20: 0x0CFF [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
     → "<Munch> <munch> <munch>..."
  21: 0x0D02 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0D03 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "lup0" with entities [EventEntity, EventEntity]
  23: 0x0D10 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "lup1" with entities [EventEntity, EventEntity], work=2642*
- 24: 0x0D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
+ 24: 0x0D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
     → "Decadently delicious, kupo. The taste even triples with the turbulence of it trying to trek out of my tummy."
  25: 0x0D22 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0D23 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "lup1" with entities [EventEntity, EventEntity]
@@ -5126,41 +5126,41 @@
   2: 0x0D4B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0D4C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0D4D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bru0" with entities [EventEntity, EventEntity], work=2634*
-  5: 0x0D5C [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
+  5: 0x0D5C [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
     → "<Grrrg> <grrrg>... The pain...it pierces the provenance of my puffy paunch, kupo."
   6: 0x0D5F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0D60 [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
+  7: 0x0D60 [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
     → "Now I know to never judge a shellfish by its sheen... That crustacean you captured may not have shown much intransigence in my innards initially, but now it's incapacitated me, kupo."
   8: 0x0D63 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0D64 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bru0" with entities [EventEntity, EventEntity]
  10: 0x0D71 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
  11: 0x0D82 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gak0" with entities [EventEntity, EventEntity], work=2643*
- 12: 0x0D91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
+ 12: 0x0D91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
     → "On top of it all, an impromptu incident's mutilating my mind like a mauling from a mighty mace, kupooo..."
  13: 0x0D94 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0D95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
+ 14: 0x0D95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
     → "My amiable associate announced that he's coming with a companion of his own..."
  15: 0x0D98 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0D99 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gak1" with entities [EventEntity, EventEntity], work=2643*
  17: 0x0DA8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gak1" with entities [EventEntity, EventEntity]
  18: 0x0DB5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnc0" with entities [EventEntity, EventEntity], work=2636*
- 19: 0x0DC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
+ 19: 0x0DC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
     → "That's all well and good, but his consort's the most terrifically terrifying tyrant of all time, kupo! Even the moogle's name is tyrannical--Kupivolo!"
  20: 0x0DC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0DC8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pnc0" with entities [EventEntity, EventEntity]
  22: 0x0DD5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bru0" with entities [EventEntity, EventEntity], work=2634*
- 23: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
+ 23: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
     → "Me, twitch and tremble like a twittering twitherym? For shame, kupo! I fear not for my fate at all!"
  24: 0x0DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0DE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
+ 25: 0x0DE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
     → "My only concern is for the good of this great garden. Ohhh...now a biting blizzard blows inside my bosom in anticipation of the apocalypse accompanying his arrival."
  26: 0x0DEB [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0DEC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bru0" with entities [EventEntity, EventEntity]
  28: 0x0DF9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
- 29: 0x0E08 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
+ 29: 0x0E08 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
     → "In this condition, it's impossible for me to investigate the island for interesting items with which to placate his pernicious passions. Therefore, I entreat you to explore these environs and acquire an astonishing article, kupo!"
  30: 0x0E0B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0E0C [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
+ 31: 0x0E0C [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
     → "As for its form, however, I haven't even a hypothesis. I do have the utmost confidence in your capacity to come up with a compelling curio, though!"
  32: 0x0E0F [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0E10 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
@@ -5195,13 +5195,13 @@
   1: 0x0E28 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0E29 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0E2A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bru0" with entities [EventEntity, EventEntity], work=2634*
-  4: 0x0E39 [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
+  4: 0x0E39 [0x1D] PRINT_EVENT_MESSAGE(message_id=7808*)
     → "My tummy's taken a turn for the treacherous, so I must ask for assistance, kupo."
   5: 0x0E3C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0E3D [0x1D] PRINT_EVENT_MESSAGE(message_id=7808*)
+  6: 0x0E3D [0x1D] PRINT_EVENT_MESSAGE(message_id=7809*)
     → "Discover a desirable doohickey that'll trump the tyrannical tendencies of my companion's cohort."
   7: 0x0E40 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0E41 [0x1D] PRINT_EVENT_MESSAGE(message_id=7809*)
+  8: 0x0E41 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
     → "As for its form, however, I haven't even a hypothesis. I do have the utmost confidence in your capacity to come up with a compelling curio, though!"
   9: 0x0E44 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0E45 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bru0" with entities [EventEntity, EventEntity]
@@ -5254,35 +5254,35 @@
   4: 0x0E5E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=2755*
   5: 0x0E6D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
   6: 0x0E7A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes1" with entities [EventEntity, EventEntity], work=2642*
-  7: 0x0E89 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+  7: 0x0E89 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
     → "Why, this is...! I've finally found the fix for this firestorm!"
   8: 0x0E8C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0E8D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "yes1" with entities [EventEntity, EventEntity]
  10: 0x0E9A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
  11: 0x0EAB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksu0" with entities [EventEntity, EventEntity], work=2643*
- 12: 0x0EBA [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+ 12: 0x0EBA [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "Hypnosis will heal my headache and stave off our slaughter, kupo."
  13: 0x0EBD [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0EBE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ksu0" with entities [EventEntity, EventEntity]
  15: 0x0ECB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
  16: 0x0EDC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kru0" with entities [EventEntity, EventEntity], work=2636*
- 17: 0x0EEB [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
+ 17: 0x0EEB [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
     → "If we hypnotize him into thinking you and I are invincible, he'll surely shun his shenanigans. Then we can smack that smug smirk right off--"
  18: 0x0EEE [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0EEF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kru0" with entities [EventEntity, EventEntity]
  20: 0x0EFC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
  21: 0x0F0B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "std0" with entities [EventEntity, EventEntity]
  22: 0x0F18 [0x1C] WAIT(60* ticks)
- 23: 0x0F1B [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
+ 23: 0x0F1B [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
     → "By Altana's ancient affection, I could never consent to such cruel carnage, kupo! Moogles are a peaceful people who provide their powers for the forces of fairness only."
  24: 0x0F1E [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0F1F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
- 26: 0x0F2E [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
+ 26: 0x0F2E [0x1D] PRINT_EVENT_MESSAGE(message_id=7815*)
     → "Though hypnosis is indeed held in high esteem by humanity... A persuasive proposition if I've ever heard one."
  27: 0x0F31 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0F32 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thb0" with entities [EventEntity, EventEntity]
  29: 0x0F3F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
- 30: 0x0F4E [0x1D] PRINT_EVENT_MESSAGE(message_id=7815*)
+ 30: 0x0F4E [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
     → "Well now, off to practice my new profession. If I can't cross coasts to learn hypnosis, then I'll commit to commencing a correspondence course, kupo!"
  31: 0x0F51 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0F52 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thb1" with entities [EventEntity, EventEntity]
@@ -5334,47 +5334,47 @@
   2: 0x0F7A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0F7B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0F7C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gak0" with entities [EventEntity, EventEntity], work=2643*
-  5: 0x0F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
+  5: 0x0F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
     → "So, so sleepy...and it's all caused by that correspondence course in hypnotic hijinks, kupo."
   6: 0x0F8E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0F8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
+  7: 0x0F8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
     → "I tried out something that my tutorial tome termed "Hysterical Hypnosis for the Hoi Polloi," but ended up sinking into slumber myself, kupo."
   8: 0x0F92 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0F93 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gak1" with entities [EventEntity, EventEntity], work=2643*
  10: 0x0FA2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gak1" with entities [EventEntity, EventEntity]
  11: 0x0FAF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
  12: 0x0FC0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bru0" with entities [EventEntity, EventEntity], work=2634*
- 13: 0x0FCF [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
+ 13: 0x0FCF [0x1D] PRINT_EVENT_MESSAGE(message_id=7819*)
     → "Thus, I disclosed my displeasure at the cruddy curriculum in a bitter billet to my terrible teacher."
  14: 0x0FD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0FD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7819*)
+ 15: 0x0FD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7820*)
     → "Interestingly, I ascertained that the professor I persecuted was none other than my bosom buddy, the Great Kupellion. It's a small world, indeed, kupo."
  16: 0x0FD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0FD7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bru0" with entities [EventEntity, EventEntity]
  18: 0x0FE4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [EventEntity, EventEntity], work=2647*
- 19: 0x0FF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7820*)
+ 19: 0x0FF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
     → "After that, we got to gabbing about the vile and villainous Kupivolo. Once I had espoused my extreme enmity regarding that hellion's horrific horseplay, Kupellion decided to drop by this Mog Garden, kupo."
  20: 0x0FF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0FF7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pnt0" with entities [EventEntity, EventEntity]
  22: 0x1004 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes1" with entities [EventEntity, EventEntity], work=2642*
- 23: 0x1013 [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
+ 23: 0x1013 [0x1D] PRINT_EVENT_MESSAGE(message_id=7822*)
     → "With the Great Kupellion here, he can mitigate the madness of the maelstrom that is Kupivolo by hypnotizing him."
  24: 0x1016 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x1017 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "yes1" with entities [EventEntity, EventEntity]
  26: 0x1024 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
  27: 0x1035 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksu0" with entities [EventEntity, EventEntity], work=2643*
- 28: 0x1044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7822*)
+ 28: 0x1044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7823*)
     → "Then we'll be ready to raise the roof and revel in rambunctiousness! We'll be singing, "Who let the moogles out? (Kupo, kupo.)""
  29: 0x1047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x1048 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ksu0" with entities [EventEntity, EventEntity]
  31: 0x1055 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=2636*
- 32: 0x1064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7823*)
+ 32: 0x1064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7824*)
     → "What a grand ol' gala it'll be! And we'd like you to help[ us prepare for the party/, seeing as you're so perfectly proficient at courting capable companions], kupo."
  33: 0x1067 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x1068 [0x03] Work_Zone[3] = 5810*
  35: 0x106D [0x03] Work_Zone[4] = 5984*
  36: 0x1072 [0x03] Work_Zone[5] = 5566*
- 37: 0x1077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7824*)
+ 37: 0x1077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
     → "To kick off this commemorative carnival, we'll need you to pluck $1 from the pond and filch both $2 and $3 from the furrows, kupo."
  38: 0x107A [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x107B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
@@ -5415,11 +5415,11 @@
   4: 0x10A7 [0x03] Work_Zone[4] = 5984*
   5: 0x10AC [0x03] Work_Zone[5] = 5566*
   6: 0x10B1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=2636*
-  7: 0x10C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+  7: 0x10C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7826*)
     → "I can't wait for the wondrous and wild wassailing when we all meet, kupo! [Well, it's time to tackle the technicalities./If only I could participate in the planning, too.]"
   8: 0x10C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x10C4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
- 10: 0x10D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7826*)
+ 10: 0x10D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "To kick off this commemorative carnival, we'll need you to pluck $1 from the pond and filch both $2 and $3 from the furrows, kupo."
  11: 0x10D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x10D7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "std0" with entities [EventEntity, EventEntity]
@@ -5458,16 +5458,16 @@
   2: 0x10EE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x10EF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x10F0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "oji0" with entities [EventEntity, EventEntity], work=2642*
-  5: 0x10FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
+  5: 0x10FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7828*)
     → "Thirty thousand thanks be to thee, kupo! I could opine for hours on the opulence of your overt kindness, kupo."
   6: 0x1102 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1103 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "oji0" with entities [EventEntity, EventEntity]
   8: 0x1110 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   9: 0x1121 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2636*
- 10: 0x1130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7828*)
+ 10: 0x1130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
     → "I've gathered a garrison of goods, myself. It'll all be worth it when we get to gaze upon the elated expressions of everyone involved, kupo."
  11: 0x1133 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x1134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
+ 12: 0x1134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
     → "The troops are trekking towards Adoulin as I articulate this very assertion. They should disembark in a day or so, kupo."
  13: 0x1137 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1138 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
@@ -5504,10 +5504,10 @@
   2: 0x1151 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1152 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   4: 0x1163 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2636*
-  5: 0x1172 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
+  5: 0x1172 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
     → "The troops are trekking towards Adoulin as I articulate this very assertion. They should disembark in a day or so, kupo."
   6: 0x1175 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x1176 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
+  7: 0x1176 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
     → "Entrust us with the excess exercises in expectancy. You've already laden yourself with loads more than the lion's share, kupo."
   8: 0x1179 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x117A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [EventEntity, EventEntity], work=2636*
@@ -5796,30 +5796,30 @@
   3: 0x1211 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x1212 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   5: 0x1223 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gak0" with entities [EventEntity, EventEntity], work=2643*
-  6: 0x1232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7875*)
+  6: 0x1232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7876*)
     → "What happened, kupo?"
   7: 0x1235 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1236 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gak1" with entities [EventEntity, EventEntity], work=2643*
   9: 0x1245 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gak1" with entities [EventEntity, EventEntity]
  10: 0x1252 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kyo0" with entities [EventEntity, EventEntity], work=2642*
- 11: 0x1261 [0x1D] PRINT_EVENT_MESSAGE(message_id=7876*)
+ 11: 0x1261 [0x1D] PRINT_EVENT_MESSAGE(message_id=7877*)
     → "Did the hypnosis fail to fix Kupivolo's foul frame of mind? Did he damage this domain and drive away our dear guests?"
  12: 0x1264 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x1265 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kyo0" with entities [EventEntity, EventEntity]
- 14: 0x1272 [0x24] CREATE_DIALOG(message_id=7877*, default_option=0*, option_flags=0*)
+ 14: 0x1272 [0x24] CREATE_DIALOG(message_id=7878*, default_option=0*, option_flags=0*)
     → "Did the hypnosis work? [You bet./Well, you know...]"
  15: 0x1279 [0x25] WAIT_DIALOG_SELECT()
  16: 0x127A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12B6
  17: 0x1282 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
  18: 0x1293 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksu0" with entities [EventEntity, EventEntity], work=2643*
- 19: 0x12A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
+ 19: 0x12A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
     → "It did!? So, everyone enjoyed the event so excessively that they lost themselves and wandered away?"
  20: 0x12A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x12A6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ksu0" with entities [EventEntity, EventEntity]
  22: 0x12B3 [0x01] GOTO 0x12E1
  23: 0x12B6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x12E1
  24: 0x12BE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnc0" with entities [EventEntity, EventEntity], work=2634*
- 25: 0x12CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
+ 25: 0x12CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
     → "What fraudulent friends, kupo. At least you were kind enough to come clomping back to me, <Player>."
  26: 0x12D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x12D1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pnc0" with entities [EventEntity, EventEntity]
@@ -5827,24 +5827,24 @@
 
 SUBROUTINE_12E1:
  29: 0x12E1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [EventEntity, EventEntity], work=2647*
- 30: 0x12F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+ 30: 0x12F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
     → "I remember rather little from that rowdy reception, but I do know the Great Kupellion left this behind, kupo."
  31: 0x12F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x12F4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
  33: 0x1303 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thb1" with entities [EventEntity, EventEntity]
  34: 0x1310 [0x03] Work_Zone[3] = 20909*
  35: 0x1315 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=2755*
- 36: 0x1324 [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
+ 36: 0x1324 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
     → "I'm particularly partial to $1, but I'll pass it on as a present for powering through professionally. Prior to parting, Kupellion mentioned that this was "compensation for conferring the compendium upon a compatriot," kupo."
  37: 0x1327 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x1328 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 39: 0x1335 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
+ 39: 0x1335 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
     → "I wonder what in the world he was warbling about. My worthless workbook on hypnosis, kupo?"
  40: 0x1338 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x1339 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
  42: 0x134A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksu0" with entities [EventEntity, EventEntity], work=2643*
  43: 0x1359 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ksu0" with entities [EventEntity, EventEntity]
- 44: 0x1366 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
+ 44: 0x1366 [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
     → "That must be it. Oh, how caring and conscientious a consort Kupellion is, kupo!"
  45: 0x1369 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x136A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -5883,12 +5883,12 @@ SUBROUTINE_12E1:
   2: 0x1385 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1386 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   4: 0x1397 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksu0" with entities [EventEntity, EventEntity], work=2643*
-  5: 0x13A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
+  5: 0x13A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
     → "Grow some crab chow and show those strange girls what a green thumb really means!"
   6: 0x13A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x13AA [0x03] Work_Zone[4] = 574*
   8: 0x13AF [0x03] Work_Zone[3] = 503*
-  9: 0x13B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
+  9: 0x13B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7925*)
     → "Sow the $2 into the ground and apply the $1 to help it grow, kupo!"
  10: 0x13B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x13B8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ksu0" with entities [EventEntity, EventEntity]
@@ -6046,10 +6046,10 @@ SUBROUTINE_12E1:
   3: 0x13FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[188*, 0*]
   4: 0x140F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksu0" with entities [EventEntity, EventEntity], work=2643*
   5: 0x141E [0x03] Work_Zone[3] = 4011*
-  6: 0x1423 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+  6: 0x1423 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "I require $1 so that the plants grow straight and strong, kupo!"
   7: 0x1426 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x1427 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
+  8: 0x1427 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
     → "If a way to a man's heart is through his stomach, then the way to a woman's is through flowers!"
   9: 0x142A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x142B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ksu0" with entities [EventEntity, EventEntity]
@@ -6232,11 +6232,11 @@ SUBROUTINE_12E1:
   4: 0x1493 [0x03] Work_Zone[3] = 17006*
   5: 0x1498 [0x03] Work_Zone[4] = 5715*
   6: 0x149D [0x03] Work_Zone[5] = 942*
-  7: 0x14A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8067*)
+  7: 0x14A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8068*)
     → "The MHMU needs $1 filched from the fishing net, $2 plucked from the pond, and $3 veiled within veins, kupo."
   8: 0x14A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x14A6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [EventEntity, EventEntity], work=2647*
- 10: 0x14B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8068*)
+ 10: 0x14B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8069*)
     → "If we don't get them, the wibbly wobbly woozies will continue to whittle away at our wisemen's wits, kupo!"
  11: 0x14B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x14B9 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -6585,101 +6585,101 @@ SUBROUTINE_12E1:
 1930: 34 80 25 02 00 10 34 80  00 F4 1A 0B 00 00 02 00  4.%...4.........
 1940: 00 4B 81 02 F1 1A 24 68  81 34 80 34 80 25 02 00  .K....$h.4.4.%..
 1950: 10 34 80 00 D4 19 03 02  10 34 80 1D 69 81 23 1D  .4.......4..i.#.
-1960: 40 81 23 24 6A 81 67 80  34 80 25 02 00 10 34 80  @.#$j.g.4.%...4.
-1970: 00 C6 19 02 0E 00 67 80  04 BA 19 42 1D 6B 81 23  ......g....B.k.#
-1980: 03 01 10 6C 81 43 00 43  01 02 02 10 67 80 00 AD  ...l.C.C....g...
-1990: 19 03 00 00 34 80 45 6D  81 F0 FF FF 7F F0 FF FF  ....4.Em........
-19A0: 7F 66 64 6F 31 34 80 1C  6E 81 01 B7 19 03 01 10  .fdo14..n.......
-19B0: 6F 81 03 00 00 34 80 01  C3 19 1D 70 81 23 03 00  o....4.....p.#..
+1960: 6A 81 23 24 6B 81 67 80  34 80 25 02 00 10 34 80  j.#$k.g.4.%...4.
+1970: 00 C6 19 02 0E 00 67 80  04 BA 19 42 1D 6C 81 23  ......g....B.l.#
+1980: 03 01 10 6D 81 43 00 43  01 02 02 10 67 80 00 AD  ...m.C.C....g...
+1990: 19 03 00 00 34 80 45 6E  81 F0 FF FF 7F F0 FF FF  ....4.En........
+19A0: 7F 66 64 6F 31 34 80 1C  6F 81 01 B7 19 03 01 10  .fdo14..o.......
+19B0: 70 81 03 00 00 34 80 01  C3 19 1D 71 81 23 03 00  p....4.....q.#..
 19C0: 00 34 80 01 D1 19 02 00  10 67 80 00 D1 19 01 D1  .4.......g......
 19D0: 19 01 EE 1A 02 00 10 67  80 00 5A 1A 03 02 10 67  .......g..Z....g
-19E0: 80 1D 69 81 23 1D 40 81  23 24 6A 81 67 80 34 80  ..i.#.@.#$j.g.4.
+19E0: 80 1D 69 81 23 1D 6A 81  23 24 6B 81 67 80 34 80  ..i.#.j.#$k.g.4.
 19F0: 25 02 00 10 34 80 00 4C  1A 02 0E 00 67 80 04 40  %...4..L....g..@
-1A00: 1A 42 1D 6B 81 23 03 01  10 71 81 43 00 43 01 02  .B.k.#...q.C.C..
-1A10: 02 10 67 80 00 33 1A 03  00 00 34 80 45 6D 81 F0  ..g..3....4.Em..
-1A20: FF FF 7F F0 FF FF 7F 66  64 6F 31 34 80 1C 6E 81  .......fdo14..n.
-1A30: 01 3D 1A 03 01 10 6F 81  03 00 00 34 80 01 49 1A  .=....o....4..I.
-1A40: 1D 70 81 23 03 00 00 34  80 01 57 1A 02 00 10 67  .p.#...4..W....g
+1A00: 1A 42 1D 6C 81 23 03 01  10 72 81 43 00 43 01 02  .B.l.#...r.C.C..
+1A10: 02 10 67 80 00 33 1A 03  00 00 34 80 45 6E 81 F0  ..g..3....4.En..
+1A20: FF FF 7F F0 FF FF 7F 66  64 6F 31 34 80 1C 6F 81  .......fdo14..o.
+1A30: 01 3D 1A 03 01 10 70 81  03 00 00 34 80 01 49 1A  .=....p....4..I.
+1A40: 1D 71 81 23 03 00 00 34  80 01 57 1A 02 00 10 67  .q.#...4..W....g
 1A50: 80 00 57 1A 01 57 1A 01  EE 1A 02 00 10 51 81 00  ..W..W.......Q..
-1A60: E0 1A 03 02 10 51 81 1D  69 81 23 1D 40 81 23 24  .....Q..i.#.@.#$
-1A70: 6A 81 67 80 34 80 25 02  00 10 34 80 00 D2 1A 02  j.g.4.%...4.....
-1A80: 0E 00 67 80 04 C6 1A 42  1D 6B 81 23 03 01 10 72  ..g....B.k.#...r
+1A60: E0 1A 03 02 10 51 81 1D  69 81 23 1D 6A 81 23 24  .....Q..i.#.j.#$
+1A70: 6B 81 67 80 34 80 25 02  00 10 34 80 00 D2 1A 02  k.g.4.%...4.....
+1A80: 0E 00 67 80 04 C6 1A 42  1D 6C 81 23 03 01 10 73  ..g....B.l.#...s
 1A90: 81 43 00 43 01 02 02 10  67 80 00 B9 1A 03 00 00  .C.C....g.......
-1AA0: 34 80 45 6D 81 F0 FF FF  7F F0 FF FF 7F 66 64 6F  4.Em.........fdo
-1AB0: 31 34 80 1C 6E 81 01 C3  1A 03 01 10 6F 81 03 00  14..n.......o...
-1AC0: 00 34 80 01 CF 1A 1D 70  81 23 03 00 00 34 80 01  .4.....p.#...4..
+1AA0: 34 80 45 6E 81 F0 FF FF  7F F0 FF FF 7F 66 64 6F  4.En.........fdo
+1AB0: 31 34 80 1C 6F 81 01 C3  1A 03 01 10 70 81 03 00  14..o.......p...
+1AC0: 00 34 80 01 CF 1A 1D 71  81 23 03 00 00 34 80 01  .4.....q.#...4..
 1AD0: DD 1A 02 00 10 67 80 00  DD 1A 01 DD 1A 01 EE 1A  .....g..........
 1AE0: 02 00 10 4B 81 00 EE 1A  0C 00 00 01 EE 1A 01 3E  ...K...........>
 1AF0: 19 01 53 22 02 00 10 67  80 00 27 1E 0B 00 00 02  ..S"...g..'.....
-1B00: 00 00 4B 81 02 24 1E 03  02 10 73 81 06 10 00 3E  ..K..$....s....>
+1B00: 00 00 4B 81 02 24 1E 03  02 10 74 81 06 10 00 3E  ..K..$....t....>
 1B10: 0F 00 34 80 1B 1B 03 10  00 67 80 3E 0F 00 51 81  ..4......g.>..Q.
 1B20: 2C 1B 03 11 00 51 81 0E  10 00 11 00 3E 0F 00 4B  ,....Q......>..K
 1B30: 81 3D 1B 03 11 00 43 81  0E 10 00 11 00 3E 0F 00  .=....C......>..
-1B40: 43 81 4E 1B 03 11 00 45  81 0E 10 00 11 00 24 74  C.N....E......$t
-1B50: 81 34 80 10 00 25 02 00  10 34 80 00 D6 1B 1D 75  .4...%...4.....u
-1B60: 81 23 1D 40 81 23 24 76  81 67 80 34 80 25 02 00  .#.@.#$v.g.4.%..
+1B40: 43 81 4E 1B 03 11 00 45  81 0E 10 00 11 00 24 75  C.N....E......$u
+1B50: 81 34 80 10 00 25 02 00  10 34 80 00 D6 1B 1D 76  .4...%...4.....v
+1B60: 81 23 1D 6A 81 23 24 77  81 67 80 34 80 25 02 00  .#.j.#$w.g.4.%..
 1B70: 10 34 80 00 C8 1B 02 0E  00 0F 81 04 BC 1B 42 1D  .4............B.
-1B80: 77 81 23 03 01 10 78 81  43 00 43 01 45 6D 81 F0  w.#...x.C.C.Em..
+1B80: 78 81 23 03 01 10 79 81  43 00 43 01 45 6E 81 F0  x.#...y.C.C.En..
 1B90: FF FF 7F F0 FF FF 7F 66  64 6F 31 34 80 1A 7F 28  .......fdo14...(
-1BA0: 1C DF 80 45 6D 81 F0 FF  FF 7F F0 FF FF 7F 66 64  ...Em.........fd
-1BB0: 69 32 34 80 03 00 00 34  80 01 C5 1B 1D 70 81 23  i24....4.....p.#
+1BA0: 1C DF 80 45 6E 81 F0 FF  FF 7F F0 FF FF 7F 66 64  ...En.........fd
+1BB0: 69 32 34 80 03 00 00 34  80 01 C5 1B 1D 71 81 23  i24....4.....q.#
 1BC0: 03 00 00 34 80 01 D3 1B  02 00 10 67 80 00 D3 1B  ...4.......g....
 1BD0: 01 D3 1B 01 21 1E 02 00  10 67 80 00 95 1C 03 02  ....!....g......
-1BE0: 10 34 80 1D 79 81 23 71  12 67 80 67 80 71 13 09  .4..y.#q.g.g.q..
+1BE0: 10 34 80 1D 7A 81 23 71  12 67 80 67 80 71 13 09  .4..z.#q.g.g.q..
 1BF0: 00 02 09 00 34 80 02 92  1C 03 03 10 09 00 03 04  ....4...........
-1C00: 10 09 00 14 04 10 0F 81  1D 7A 81 23 24 7B 81 67  .........z.#${.g
+1C00: 10 09 00 14 04 10 0F 81  1D 7B 81 23 24 7C 81 67  .........{.#$|.g
 1C10: 80 34 80 25 02 00 10 34  80 00 84 1C 02 0E 00 04  .4.%...4........
-1C20: 10 04 78 1C 42 1D 77 81  23 03 01 10 7C 81 40 45  ..x.B.w.#...|.@E
+1C20: 10 04 78 1C 42 1D 78 81  23 03 01 10 7D 81 40 45  ..x.B.x.#...}.@E
 1C30: 81 60 81 01 10 09 00 43  00 43 01 02 02 10 34 80  .`.....C.C....4.
-1C40: 01 70 1C 45 6D 81 F0 FF  FF 7F F0 FF FF 7F 66 64  .p.Em.........fd
-1C50: 6F 31 34 80 1A 7F 28 1C  DF 80 45 6D 81 F0 FF FF  o14...(...Em....
-1C60: 7F F0 FF FF 7F 66 64 69  32 34 80 03 01 10 7D 81  .....fdi24....}.
-1C70: 03 00 00 34 80 01 81 1C  1D 70 81 23 03 00 00 34  ...4.....p.#...4
+1C40: 01 70 1C 45 6E 81 F0 FF  FF 7F F0 FF FF 7F 66 64  .p.En.........fd
+1C50: 6F 31 34 80 1A 7F 28 1C  DF 80 45 6E 81 F0 FF FF  o14...(...En....
+1C60: 7F F0 FF FF 7F 66 64 69  32 34 80 03 01 10 7E 81  .....fdi24....~.
+1C70: 03 00 00 34 80 01 81 1C  1D 71 81 23 03 00 00 34  ...4.....q.#...4
 1C80: 80 01 8F 1C 02 00 10 67  80 00 8F 1C 01 8F 1C 01  .......g........
 1C90: 92 1C 01 21 1E 02 00 10  51 81 00 54 1D 03 02 10  ...!....Q..T....
-1CA0: 67 80 1D 79 81 23 71 12  67 80 67 80 71 13 09 00  g..y.#q.g.g.q...
+1CA0: 67 80 1D 7A 81 23 71 12  67 80 67 80 71 13 09 00  g..z.#q.g.g.q...
 1CB0: 02 09 00 34 80 02 51 1D  03 03 10 09 00 03 04 10  ...4..Q.........
-1CC0: 09 00 14 04 10 0F 81 1D  7A 81 23 24 7B 81 67 80  ........z.#${.g.
+1CC0: 09 00 14 04 10 0F 81 1D  7B 81 23 24 7C 81 67 80  ........{.#$|.g.
 1CD0: 34 80 25 02 00 10 34 80  00 43 1D 02 0E 00 04 10  4.%...4..C......
-1CE0: 04 37 1D 42 1D 77 81 23  03 01 10 7E 81 40 45 81  .7.B.w.#...~.@E.
+1CE0: 04 37 1D 42 1D 78 81 23  03 01 10 7F 81 40 45 81  .7.B.x.#.....@E.
 1CF0: 60 81 01 10 09 00 43 00  43 01 02 02 10 34 80 01  `.....C.C....4..
-1D00: 2F 1D 45 6D 81 F0 FF FF  7F F0 FF FF 7F 66 64 6F  /.Em.........fdo
-1D10: 31 34 80 1A 7F 28 1C DF  80 45 6D 81 F0 FF FF 7F  14...(...Em.....
-1D20: F0 FF FF 7F 66 64 69 32  34 80 03 01 10 7D 81 03  ....fdi24....}..
-1D30: 00 00 34 80 01 40 1D 1D  70 81 23 03 00 00 34 80  ..4..@..p.#...4.
+1D00: 2F 1D 45 6E 81 F0 FF FF  7F F0 FF FF 7F 66 64 6F  /.En.........fdo
+1D10: 31 34 80 1A 7F 28 1C DF  80 45 6E 81 F0 FF FF 7F  14...(...En.....
+1D20: F0 FF FF 7F 66 64 69 32  34 80 03 01 10 7E 81 03  ....fdi24....~..
+1D30: 00 00 34 80 01 40 1D 1D  71 81 23 03 00 00 34 80  ..4..@..q.#...4.
 1D40: 01 4E 1D 02 00 10 67 80  00 4E 1D 01 4E 1D 01 51  .N....g..N..N..Q
 1D50: 1D 01 21 1E 02 00 10 4B  81 00 13 1E 03 02 10 51  ..!....K.......Q
-1D60: 81 1D 79 81 23 71 12 67  80 67 80 71 13 09 00 02  ..y.#q.g.g.q....
+1D60: 81 1D 7A 81 23 71 12 67  80 67 80 71 13 09 00 02  ..z.#q.g.g.q....
 1D70: 09 00 34 80 02 10 1E 03  03 10 09 00 03 04 10 09  ..4.............
-1D80: 00 14 04 10 0F 81 1D 7A  81 23 24 7B 81 67 80 34  .......z.#${.g.4
+1D80: 00 14 04 10 0F 81 1D 7B  81 23 24 7C 81 67 80 34  .......{.#$|.g.4
 1D90: 80 25 02 00 10 34 80 00  02 1E 02 0E 00 04 10 04  .%...4..........
-1DA0: F6 1D 42 1D 77 81 23 03  01 10 7F 81 40 45 81 60  ..B.w.#.....@E.`
+1DA0: F6 1D 42 1D 78 81 23 03  01 10 80 81 40 45 81 60  ..B.x.#.....@E.`
 1DB0: 81 01 10 09 00 43 00 43  01 02 02 10 34 80 01 EE  .....C.C....4...
-1DC0: 1D 45 6D 81 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .Em.........fdo1
-1DD0: 34 80 1A 7F 28 1C DF 80  45 6D 81 F0 FF FF 7F F0  4...(...Em......
-1DE0: FF FF 7F 66 64 69 32 34  80 03 01 10 7D 81 03 00  ...fdi24....}...
-1DF0: 00 34 80 01 FF 1D 1D 70  81 23 03 00 00 34 80 01  .4.....p.#...4..
+1DC0: 1D 45 6E 81 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .En.........fdo1
+1DD0: 34 80 1A 7F 28 1C DF 80  45 6E 81 F0 FF FF 7F F0  4...(...En......
+1DE0: FF FF 7F 66 64 69 32 34  80 03 01 10 7E 81 03 00  ...fdi24....~...
+1DF0: 00 34 80 01 FF 1D 1D 71  81 23 03 00 00 34 80 01  .4.....q.#...4..
 1E00: 0D 1E 02 00 10 67 80 00  0D 1E 01 0D 1E 01 10 1E  .....g..........
 1E10: 01 21 1E 02 00 10 43 81  00 21 1E 0C 00 00 01 21  .!....C..!.....!
 1E20: 1E 01 FF 1A 01 53 22 02  00 10 51 81 00 73 1F 0B  .....S"...Q..s..
-1E30: 00 00 02 00 00 4B 81 02  70 1F 03 02 10 80 81 03  .....K..p.......
-1E40: 03 10 81 81 03 04 10 82  81 24 83 81 34 80 34 80  .........$..4.4.
-1E50: 25 02 00 10 34 80 00 AB  1E 1D 84 81 23 93 80 81  %...4.......#...
-1E60: 1D 40 81 23 93 34 80 24  76 81 67 80 34 80 25 02  .@.#.4.$v.g.4.%.
+1E30: 00 00 02 00 00 4B 81 02  70 1F 03 02 10 81 81 03  .....K..p.......
+1E40: 03 10 82 81 03 04 10 83  81 24 84 81 34 80 34 80  .........$..4.4.
+1E50: 25 02 00 10 34 80 00 AB  1E 1D 40 81 23 93 81 81  %...4.....@.#...
+1E60: 1D 6A 81 23 93 34 80 24  77 81 67 80 34 80 25 02  .j.#.4.$w.g.4.%.
 1E70: 00 10 34 80 00 9D 1E 02  0E 00 04 80 04 91 1E 42  ..4............B
-1E80: 1D 77 81 23 03 01 10 85  81 03 00 00 34 80 01 9A  .w.#........4...
-1E90: 1E 1D 70 81 23 03 00 00  34 80 01 A8 1E 02 00 10  ..p.#...4.......
+1E80: 1D 78 81 23 03 01 10 85  81 03 00 00 34 80 01 9A  .x.#........4...
+1E90: 1E 1D 71 81 23 03 00 00  34 80 01 A8 1E 02 00 10  ..q.#...4.......
 1EA0: 67 80 00 A8 1E 01 A8 1E  01 6D 1F 02 00 10 67 80  g........m....g.
-1EB0: 00 05 1F 1D 84 81 23 93  81 81 1D 40 81 23 93 34  ......#....@.#.4
-1EC0: 80 24 76 81 67 80 34 80  25 02 00 10 34 80 00 F7  .$v.g.4.%...4...
-1ED0: 1E 02 0E 00 04 80 04 EB  1E 42 1D 77 81 23 03 01  .........B.w.#..
-1EE0: 10 86 81 03 00 00 34 80  01 F4 1E 1D 70 81 23 03  ......4.....p.#.
+1EB0: 00 05 1F 1D 40 81 23 93  82 81 1D 6A 81 23 93 34  ....@.#....j.#.4
+1EC0: 80 24 77 81 67 80 34 80  25 02 00 10 34 80 00 F7  .$w.g.4.%...4...
+1ED0: 1E 02 0E 00 04 80 04 EB  1E 42 1D 78 81 23 03 01  .........B.x.#..
+1EE0: 10 86 81 03 00 00 34 80  01 F4 1E 1D 71 81 23 03  ......4.....q.#.
 1EF0: 00 00 34 80 01 02 1F 02  00 10 67 80 00 02 1F 01  ..4.......g.....
-1F00: 02 1F 01 6D 1F 02 00 10  51 81 00 5F 1F 1D 84 81  ...m....Q.._....
-1F10: 23 93 82 81 1D 40 81 23  93 34 80 24 76 81 67 80  #....@.#.4.$v.g.
+1F00: 02 1F 01 6D 1F 02 00 10  51 81 00 5F 1F 1D 40 81  ...m....Q.._..@.
+1F10: 23 93 83 81 1D 6A 81 23  93 34 80 24 77 81 67 80  #....j.#.4.$w.g.
 1F20: 34 80 25 02 00 10 34 80  00 51 1F 02 0E 00 04 80  4.%...4..Q......
-1F30: 04 45 1F 42 1D 77 81 23  03 01 10 87 81 03 00 00  .E.B.w.#........
-1F40: 34 80 01 4E 1F 1D 70 81  23 03 00 00 34 80 01 5C  4..N..p.#...4..\
+1F30: 04 45 1F 42 1D 78 81 23  03 01 10 87 81 03 00 00  .E.B.x.#........
+1F40: 34 80 01 4E 1F 1D 71 81  23 03 00 00 34 80 01 5C  4..N..q.#...4..\
 1F50: 1F 02 00 10 67 80 00 5C  1F 01 5C 1F 01 6D 1F 02  ....g..\..\..m..
 1F60: 00 10 4B 81 00 6D 1F 0C  00 00 01 6D 1F 01 32 1E  ..K..m.....m..2.
 1F70: 01 53 22 02 00 10 4B 81  00 8A 21 0B 00 00 02 00  .S"...K...!.....
@@ -6687,32 +6687,32 @@ SUBROUTINE_12E1:
 1F90: 03 04 10 8A 81 03 05 10  8B 81 06 10 00 3E 0F 00  .............>..
 1FA0: 67 80 A9 1F 03 10 00 67  80 3E 0F 00 8C 81 BA 1F  g......g.>......
 1FB0: 03 11 00 45 81 0E 10 00  11 00 24 8D 81 34 80 10  ...E......$..4..
-1FC0: 00 25 02 00 10 34 80 00  42 20 1D 8E 81 23 1D 40  .%...4..B ...#.@
-1FD0: 81 23 24 76 81 67 80 34  80 25 02 00 10 34 80 00  .#$v.g.4.%...4..
-1FE0: 34 20 02 0E 00 46 81 04  28 20 42 1D 77 81 23 03  4 ...F..( B.w.#.
-1FF0: 01 10 8F 81 43 00 43 01  45 6D 81 F0 FF FF 7F F0  ....C.C.Em......
+1FC0: 00 25 02 00 10 34 80 00  42 20 1D 8E 81 23 1D 6A  .%...4..B ...#.j
+1FD0: 81 23 24 77 81 67 80 34  80 25 02 00 10 34 80 00  .#$w.g.4.%...4..
+1FE0: 34 20 02 0E 00 46 81 04  28 20 42 1D 78 81 23 03  4 ...F..( B.x.#.
+1FF0: 01 10 8F 81 43 00 43 01  45 6E 81 F0 FF FF 7F F0  ....C.C.En......
 2000: FF FF 7F 66 64 6F 31 34  80 1A 7F 28 1C DF 80 45  ...fdo14...(...E
-2010: 6D 81 F0 FF FF 7F F0 FF  FF 7F 66 64 69 32 34 80  m.........fdi24.
-2020: 03 00 00 34 80 01 31 20  1D 70 81 23 03 00 00 34  ...4..1 .p.#...4
+2010: 6E 81 F0 FF FF 7F F0 FF  FF 7F 66 64 69 32 34 80  n.........fdi24.
+2020: 03 00 00 34 80 01 31 20  1D 71 81 23 03 00 00 34  ...4..1 .q.#...4
 2030: 80 01 3F 20 02 00 10 67  80 00 3F 20 01 3F 20 01  ..? ...g..? .? .
-2040: 84 21 02 00 10 67 80 00  9C 20 1D 84 81 23 93 89  .!...g... ...#..
-2050: 81 1D 40 81 23 93 34 80  24 76 81 67 80 34 80 25  ..@.#.4.$v.g.4.%
+2040: 84 21 02 00 10 67 80 00  9C 20 1D 40 81 23 93 89  .!...g... .@.#..
+2050: 81 1D 6A 81 23 93 34 80  24 77 81 67 80 34 80 25  ..j.#.4.$w.g.4.%
 2060: 02 00 10 34 80 00 8E 20  02 0E 00 46 81 04 82 20  ...4... ...F... 
-2070: 42 1D 77 81 23 03 01 10  90 81 03 00 00 34 80 01  B.w.#........4..
-2080: 8B 20 1D 70 81 23 03 00  00 34 80 01 99 20 02 00  . .p.#...4... ..
+2070: 42 1D 78 81 23 03 01 10  90 81 03 00 00 34 80 01  B.x.#........4..
+2080: 8B 20 1D 71 81 23 03 00  00 34 80 01 99 20 02 00  . .q.#...4... ..
 2090: 10 67 80 00 99 20 01 99  20 01 84 21 02 00 10 51  .g... .. ..!...Q
-20A0: 81 00 F6 20 1D 84 81 23  93 8A 81 1D 40 81 23 93  ... ...#....@.#.
-20B0: 34 80 24 76 81 67 80 34  80 25 02 00 10 34 80 00  4.$v.g.4.%...4..
-20C0: E8 20 02 0E 00 46 81 04  DC 20 42 1D 77 81 23 03  . ...F... B.w.#.
-20D0: 01 10 91 81 03 00 00 34  80 01 E5 20 1D 70 81 23  .......4... .p.#
+20A0: 81 00 F6 20 1D 40 81 23  93 8A 81 1D 6A 81 23 93  ... .@.#....j.#.
+20B0: 34 80 24 77 81 67 80 34  80 25 02 00 10 34 80 00  4.$w.g.4.%...4..
+20C0: E8 20 02 0E 00 46 81 04  DC 20 42 1D 78 81 23 03  . ...F... B.x.#.
+20D0: 01 10 91 81 03 00 00 34  80 01 E5 20 1D 71 81 23  .......4... .q.#
 20E0: 03 00 00 34 80 01 F3 20  02 00 10 67 80 00 F3 20  ...4... ...g... 
 20F0: 01 F3 20 01 84 21 02 00  10 4B 81 00 76 21 1D 92  .. ..!...K..v!..
-2100: 81 23 1D 40 81 23 24 76  81 67 80 34 80 25 02 00  .#.@.#$v.g.4.%..
+2100: 81 23 1D 6A 81 23 24 77  81 67 80 34 80 25 02 00  .#.j.#$w.g.4.%..
 2110: 10 34 80 00 68 21 02 0E  00 46 81 04 5C 21 42 1D  .4..h!...F..\!B.
-2120: 93 81 23 03 01 10 94 81  43 00 43 01 45 6D 81 F0  ..#.....C.C.Em..
+2120: 93 81 23 03 01 10 94 81  43 00 43 01 45 6E 81 F0  ..#.....C.C.En..
 2130: FF FF 7F F0 FF FF 7F 66  64 6F 31 34 80 1A 7F 28  .......fdo14...(
-2140: 1C DF 80 45 6D 81 F0 FF  FF 7F F0 FF FF 7F 66 64  ...Em.........fd
-2150: 69 32 34 80 03 00 00 34  80 01 65 21 1D 70 81 23  i24....4..e!.p.#
+2140: 1C DF 80 45 6E 81 F0 FF  FF 7F F0 FF FF 7F 66 64  ...En.........fd
+2150: 69 32 34 80 03 00 00 34  80 01 65 21 1D 71 81 23  i24....4..e!.q.#
 2160: 03 00 00 34 80 01 73 21  02 00 10 67 80 00 73 21  ...4..s!...g..s!
 2170: 01 73 21 01 84 21 02 00  10 43 81 00 84 21 0C 00  .s!..!...C...!..
 2180: 00 01 84 21 01 7E 1F 01  53 22 02 00 10 43 81 00  ...!.~..S"...C..
@@ -6720,11 +6720,11 @@ SUBROUTINE_12E1:
 21A0: 34 80 01 AD 21 03 02 10  95 81 01 B2 21 03 02 10  4...!.......!...
 21B0: 96 81 06 10 00 3E 0F 00  0F 81 C1 21 03 10 00 67  .....>.....!...g
 21C0: 80 24 97 81 34 80 10 00  25 02 00 10 34 80 00 31  .$..4...%...4..1
-21D0: 22 1D 84 81 23 02 8B 7F  34 80 01 E3 21 93 95 81  "...#...4...!...
-21E0: 01 E6 21 93 96 81 1D 40  81 23 93 34 80 24 76 81  ..!....@.#.4.$v.
+21D0: 22 1D 40 81 23 02 8B 7F  34 80 01 E3 21 93 95 81  ".@.#...4...!...
+21E0: 01 E6 21 93 96 81 1D 6A  81 23 93 34 80 24 77 81  ..!....j.#.4.$w.
 21F0: 67 80 34 80 25 02 00 10  34 80 00 23 22 02 0E 00  g.4.%...4..#"...
-2200: 6E 81 04 17 22 42 1D 77  81 23 03 01 10 98 81 03  n..."B.w.#......
-2210: 00 00 34 80 01 20 22 1D  70 81 23 03 00 00 34 80  ..4.. ".p.#...4.
+2200: 6F 81 04 17 22 42 1D 78  81 23 03 01 10 98 81 03  o..."B.x.#......
+2210: 00 00 34 80 01 20 22 1D  71 81 23 03 00 00 34 80  ..4.. ".q.#...4.
 2220: 01 2E 22 02 00 10 67 80  00 2E 22 01 2E 22 01 3F  .."...g..."..".?
 2230: 22 02 00 10 67 80 00 3F  22 0C 00 00 01 3F 22 01  "...g..?"....?".
 2240: 95 21 01 53 22 02 00 10  0F 81 00 53 22 0C 00 00  .!.S"......S"...
@@ -6757,7 +6757,7 @@ SUBROUTINE_12E1:
 23F0: 03 10 41 BD 81 60 81 07  10 05 10 08 04 10 05 10  ..A..`..........
 2400: 48 C0 81 23 41 8C 81 46  81 0D 00 02 10 0C 02 10  H..#A..F........
 2410: 02 02 10 34 80 03 1D 24  03 02 10 34 80 15 02 10  ...4...$...4....
-2420: 6D 81 02 02 10 0F 81 04  32 24 03 02 10 43 81 01  m.......2$...C..
+2420: 6E 81 02 02 10 0F 81 04  32 24 03 02 10 43 81 01  n.......2$...C..
 2430: 3F 24 02 02 10 34 80 03  3F 24 03 02 10 34 80 48  ?$...4..?$...4.H
 2440: C1 81 23 01 54 24 02 00  10 44 81 00 54 24 0C 00  ..#.T$...D..T$..
 2450: 00 01 54 24 01 9C 22 01  3A 25 02 00 10 0F 81 00  ..T$..".:%......
@@ -6766,11 +6766,11 @@ SUBROUTINE_12E1:
 2480: 3C 02 10 43 81 67 80 3C  02 10 0F 81 67 80 24 C2  <..C.g.<....g.$.
 2490: 81 34 80 02 10 25 02 00  10 34 80 00 A9 24 03 01  .4...%...4...$..
 24A0: 10 C3 81 0C 00 00 01 34  25 02 00 10 67 80 00 CD  .......4%...g...
-24B0: 24 03 01 10 C4 81 45 6D  81 F0 FF FF 7F F0 FF FF  $.....Em........
+24B0: 24 03 01 10 C4 81 45 6E  81 F0 FF FF 7F F0 FF FF  $.....En........
 24C0: 7F 66 64 6F 31 34 80 0C  00 00 01 34 25 02 00 10  .fdo14.....4%...
-24D0: 51 81 00 F1 24 03 01 10  C5 81 45 6D 81 F0 FF FF  Q...$.....Em....
+24D0: 51 81 00 F1 24 03 01 10  C5 81 45 6E 81 F0 FF FF  Q...$.....En....
 24E0: 7F F0 FF FF 7F 66 64 6F  31 34 80 06 00 00 01 34  .....fdo14.....4
-24F0: 25 02 00 10 4B 81 00 15  25 03 01 10 C6 81 45 6D  %...K...%.....Em
+24F0: 25 02 00 10 4B 81 00 15  25 03 01 10 C6 81 45 6E  %...K...%.....En
 2500: 81 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 34 80 06  .........fdo14..
 2510: 00 00 01 34 25 02 00 10  43 81 00 26 25 1A 28 3F  ...4%...C..&%.(?
 2520: 06 00 00 01 34 25 02 00  10 0F 81 00 34 25 06 00  ....4%......4%..
@@ -6792,11 +6792,11 @@ SUBROUTINE_12E1:
 2620: 81 34 80 34 80 25 02 00  10 34 80 00 B0 26 02 08  .4.4.%...4...&..
 2630: 00 34 80 80 3E 26 03 01  10 CC 81 01 5E 26 02 08  .4..>&......^&..
 2640: 00 67 80 80 4E 26 03 01  10 CD 81 01 5E 26 02 08  .g..N&......^&..
-2650: 00 51 81 80 5E 26 03 01  10 6E 81 01 5E 26 40 45  .Q..^&...n..^&@E
+2650: 00 51 81 80 5E 26 03 01  10 6F 81 01 5E 26 40 45  .Q..^&...o..^&@E
 2660: 81 60 81 01 10 09 00 43  00 43 01 02 02 10 34 80  .`.....C.C....4.
-2670: 01 A7 26 1D CE 81 23 42  45 6D 81 F0 FF FF 7F F0  ..&...#BEm......
+2670: 01 A7 26 1D CE 81 23 42  45 6E 81 F0 FF FF 7F F0  ..&...#BEn......
 2680: FF FF 7F 66 64 6F 31 34  80 1A 7F 28 1C DF 80 45  ...fdo14...(...E
-2690: 6D 81 F0 FF FF 7F F0 FF  FF 7F 66 64 69 31 34 80  m.........fdi14.
+2690: 6E 81 F0 FF FF 7F F0 FF  FF 7F 66 64 69 31 34 80  n.........fdi14.
 26A0: 06 00 00 1B 01 AD 26 48  CF 81 23 2E 1B 01 BD 26  ......&H..#....&
 26B0: 02 00 10 67 80 00 BD 26  2E 1B 01 BD 26 01 C1 26  ...g...&....&..&
 26C0: 1B 01 C5 26 1B 1B 03 02  10 08 00 1D D0 81 23 42  ...&..........#B
@@ -6804,9 +6804,9 @@ SUBROUTINE_12E1:
 26E0: 02 08 00 34 80 80 F0 26  03 01 10 D2 81 01 10 27  ...4...&.......'
 26F0: 02 08 00 67 80 80 00 27  03 01 10 D3 81 01 10 27  ...g...'.......'
 2700: 02 08 00 51 81 80 10 27  03 01 10 D4 81 01 10 27  ...Q...'.......'
-2710: 43 00 43 01 1D CE 81 23  42 45 6D 81 F0 FF FF 7F  C.C....#BEm.....
+2710: 43 00 43 01 1D CE 81 23  42 45 6E 81 F0 FF FF 7F  C.C....#BEn.....
 2720: F0 FF FF 7F 66 64 6F 31  34 80 1A 7F 28 1C DF 80  ....fdo14...(...
-2730: 45 6D 81 F0 FF FF 7F F0  FF FF 7F 66 64 69 31 34  Em.........fdi14
+2730: 45 6E 81 F0 FF FF 7F F0  FF FF 7F 66 64 69 31 34  En.........fdi14
 2740: 80 06 00 00 01 53 27 02  00 10 67 80 00 53 27 2E  .....S'...g..S'.
 2750: 01 53 27 1B                                       .S'.            
 ```
@@ -6824,18 +6824,18 @@ SUBROUTINE_12E1:
   7: 0x1528 [0x06] ExtData[1]->WorkLocal[2] = 0
 
 SUBROUTINE_152B:
-  8: 0x152B [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
+  8: 0x152B [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
     → "Whatever would you want from a woolly monster like me, kupo?"
   9: 0x152E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x152F [0x03] ExtData[1]->WorkLocal[0] = 1*
 
 SUBROUTINE_1534:
  11: 0x1534 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x253D
- 12: 0x153C [0x24] CREATE_DIALOG(message_id=7435*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 12: 0x153C [0x24] CREATE_DIALOG(message_id=7436*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What do you want to do? [Look into my Mog House./Buy or sell things!/Check on my assistants./Check on my shining stars./Learn about the garden./Head elsewhere./Nothing.]"
  13: 0x1543 [0x25] WAIT_DIALOG_SELECT()
  14: 0x1544 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x155B
- 15: 0x154C [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+ 15: 0x154C [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "Understood to the utmost, kupo!"
  16: 0x154F [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1550 [0x03] Work_Zone[1] = 268370175*
@@ -6854,7 +6854,7 @@ SUBROUTINE_1534:
  30: 0x1593 [0x06] Work_Zone[2] = 0
 
 SUBROUTINE_1596:
- 31: 0x1596 [0x24] CREATE_DIALOG(message_id=7437*, default_option=0*, option_flags=Work_Zone[2])
+ 31: 0x1596 [0x24] CREATE_DIALOG(message_id=7438*, default_option=0*, option_flags=Work_Zone[2])
     → "Choose wisely. [Goods and rank one and two creatures./Rank three creatures./Rank four creatures./Rank five through seven creatures./Nothing for now.]"
  32: 0x159D [0x25] WAIT_DIALOG_SELECT()
  33: 0x159E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15B1
@@ -6878,14 +6878,14 @@ SUBROUTINE_15EA:
  49: 0x15EA [0x01] GOTO 0x253A
  50: 0x15ED [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x18C8
  51: 0x15F5 [0x02] IF !(ExtData[1]->WorkLocal[18] == 0*) GOTO 0x1603
- 52: 0x15FD [0x48] [System] [7535*]:
+ 52: 0x15FD [0x48] [System] [7536*]:
     → "You cannot perform that action while your Mog Garden is open to visitors."
  53: 0x1600 [0x01] GOTO 0x18C5
  54: 0x1603 [0x0B] ExtData[1]->WorkLocal[0]++
 
 SUBROUTINE_1606:
  55: 0x1606 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 1*) GOTO 0x18C5
- 56: 0x160E [0x1D] PRINT_EVENT_MESSAGE(message_id=7472*)
+ 56: 0x160E [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
     → "Which ardently allegiant assistant, kupo?"
  57: 0x1611 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1612 [0x03] Work_Zone[1] = 27*
@@ -6942,26 +6942,26 @@ SUBROUTINE_16F1:
 105: 0x170F [0x06] Work_Zone_1700[2] = 0
 
 SUBROUTINE_1712:
-106: 0x1712 [0x24] CREATE_DIALOG(message_id=7473*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+106: 0x1712 [0x24] CREATE_DIALOG(message_id=7474*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Which ardently allegiant assistant? [Kuyin Hathdenna.[/ (Employed)]/Susuroon.[/ (Employed)]/Yeestog.[/ (Employed)]/Set contract expiration notification./Go back.]"
 107: 0x1719 [0x25] WAIT_DIALOG_SELECT()
 108: 0x171A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1780
 109: 0x1722 [0x03] ExtData[1]->WorkLocal[8] = 0*
 110: 0x1727 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
 111: 0x172C [0x02] IF !(Work_Zone_1700[0] == 0*) GOTO 0x1740
-112: 0x1734 [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
+112: 0x1734 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] has yet to consent to a contract, and is thus free as a frolicking fairy, kupo."
 113: 0x1737 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x1738 [0x03] Work_Zone[2] = 2*
 115: 0x173D [0x01] GOTO 0x174E
 116: 0x1740 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
-117: 0x1745 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
+117: 0x1745 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] can still toil tirelessly for a total of $1 day[/s], kupo."
 118: 0x1748 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x1749 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_174E:
-120: 0x174E [0x24] CREATE_DIALOG(message_id=7467*, default_option=0*, option_flags=Work_Zone[2])
+120: 0x174E [0x24] CREATE_DIALOG(message_id=7468*, default_option=0*, option_flags=Work_Zone[2])
     → "What about this assistant? [Employ./Dismiss./Go back.]"
 121: 0x1755 [0x25] WAIT_DIALOG_SELECT()
 122: 0x1756 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1764
@@ -6979,19 +6979,19 @@ SUBROUTINE_177D:
 132: 0x1788 [0x03] ExtData[1]->WorkLocal[8] = 1*
 133: 0x178D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
 134: 0x1792 [0x02] IF !(Work_Zone_1700[1] == 0*) GOTO 0x17A6
-135: 0x179A [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
+135: 0x179A [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] has yet to consent to a contract, and is thus free as a frolicking fairy, kupo."
 136: 0x179D [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x179E [0x03] Work_Zone[2] = 2*
 138: 0x17A3 [0x01] GOTO 0x17B4
 139: 0x17A6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
-140: 0x17AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
+140: 0x17AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] can still toil tirelessly for a total of $1 day[/s], kupo."
 141: 0x17AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x17AF [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_17B4:
-143: 0x17B4 [0x24] CREATE_DIALOG(message_id=7467*, default_option=0*, option_flags=Work_Zone[2])
+143: 0x17B4 [0x24] CREATE_DIALOG(message_id=7468*, default_option=0*, option_flags=Work_Zone[2])
     → "What about this assistant? [Employ./Dismiss./Go back.]"
 144: 0x17BB [0x25] WAIT_DIALOG_SELECT()
 145: 0x17BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17CA
@@ -7009,19 +7009,19 @@ SUBROUTINE_17E3:
 155: 0x17EE [0x03] ExtData[1]->WorkLocal[8] = 2*
 156: 0x17F3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
 157: 0x17F8 [0x02] IF !(Work_Zone_1700[2] == 0*) GOTO 0x180C
-158: 0x1800 [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
+158: 0x1800 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] has yet to consent to a contract, and is thus free as a frolicking fairy, kupo."
 159: 0x1803 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x1804 [0x03] Work_Zone[2] = 2*
 161: 0x1809 [0x01] GOTO 0x181A
 162: 0x180C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
-163: 0x1811 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
+163: 0x1811 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] can still toil tirelessly for a total of $1 day[/s], kupo."
 164: 0x1814 [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x1815 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_181A:
-166: 0x181A [0x24] CREATE_DIALOG(message_id=7467*, default_option=0*, option_flags=Work_Zone[2])
+166: 0x181A [0x24] CREATE_DIALOG(message_id=7468*, default_option=0*, option_flags=Work_Zone[2])
     → "What about this assistant? [Employ./Dismiss./Go back.]"
 167: 0x1821 [0x25] WAIT_DIALOG_SELECT()
 168: 0x1822 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1830
@@ -7036,13 +7036,13 @@ SUBROUTINE_181A:
 SUBROUTINE_1849:
 176: 0x1849 [0x01] GOTO 0x18C2
 177: 0x184C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x18B4
-178: 0x1854 [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
+178: 0x1854 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
     → "Even the most agreeable assistant requires recompense, kupo! I'll inform you when their contract is about to close."
 179: 0x1857 [0x23] WAIT_FOR_DIALOG_INTERACTION
-180: 0x1858 [0x48] [System] [7469*]:
+180: 0x1858 [0x48] [System] [7470*]:
     → "Enter how many days in advance (Earth time) you wish to be notified of impending contract expiration."
 181: 0x185B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
-182: 0x1860 [0x24] CREATE_DIALOG(message_id=7470*, default_option=ExtData[1]->WorkLocal[10], option_flags=0*)
+182: 0x1860 [0x24] CREATE_DIALOG(message_id=7471*, default_option=ExtData[1]->WorkLocal[10], option_flags=0*)
     → "Current notification: [Always/7 days in advance/6 days in advance/5 days in advance/4 days in advance/3 days in advance/2 days in advance/1 day in advance/None]. [Always notify me./Notify me 7 days in advance./Notify me 6 days in advance./Notify me 5 days in advance./Notify me 4 days in advance./Notify me 3 days in advance./Notify me 2 days in advance./Notify me 1 day in advance./Never notify me./Back.]"
 183: 0x1867 [0x25] WAIT_DIALOG_SELECT()
 184: 0x1868 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1873
@@ -7057,7 +7057,7 @@ SUBROUTINE_1873:
 191: 0x1896 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 192: 0x1898 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 193: 0x189A [0x02] IF !(Work_Zone[2] < 0*) GOTO 0x18AE
-194: 0x18A2 [0x48] [System] [7471*]:
+194: 0x18A2 [0x48] [System] [7472*]:
     → "You will now [always be notified of your assistant's contract expiration/be notified of your assistant's contract expiration 7 days in advance/be notified of your assistant's contract expiration 6 days in advance/be notified of your assistant's contract expiration 5 days in advance/be notified of your assistant's contract expiration 4 days in advance/be notified of your assistant's contract expiration 3 days in advance/be notified of your assistant's contract expiration 2 days in advance/be notified of your assistant's contract expiration 1 day in advance/never be notified of you assistant's contract expiration]."
 195: 0x18A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x18A6 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[2]
@@ -7087,18 +7087,18 @@ SUBROUTINE_18C5:
 
 SUBROUTINE_18E6:
 212: 0x18E6 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 1*) GOTO 0x228E
-213: 0x18EE [0x24] CREATE_DIALOG(message_id=7438*, default_option=0*, option_flags=0*)
+213: 0x18EE [0x24] CREATE_DIALOG(message_id=7439*, default_option=0*, option_flags=0*)
     → "What will you do? [Check star count./Exchange stars./...Stars? What?/Go back.]"
 214: 0x18F5 [0x25] WAIT_DIALOG_SELECT()
 215: 0x18F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x190F
 216: 0x18FE [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[14]
 217: 0x1903 [0x03] Work_Zone[2] = 2398*
-218: 0x1908 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
+218: 0x1908 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
     → "I see $2 star[/s] scintillating inside your $3, kupo."
 219: 0x190B [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x190C [0x01] GOTO 0x228B
 221: 0x190F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x2259
-222: 0x1917 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
+222: 0x1917 [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
     → "Your word is my warrant, [master/mistress]. Select a stunning specimen from one of these lovely lists and procure your prize, kupo."
 223: 0x191A [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x191B [0x0B] ExtData[1]->WorkLocal[0]++
@@ -7106,7 +7106,7 @@ SUBROUTINE_18E6:
 SUBROUTINE_191E:
 225: 0x191E [0x02] IF !(ExtData[1]->WorkLocal[0] <= 2*) GOTO 0x2256
 226: 0x1926 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-227: 0x192B [0x24] CREATE_DIALOG(message_id=7441*, default_option=0*, option_flags=0*)
+227: 0x192B [0x24] CREATE_DIALOG(message_id=7442*, default_option=0*, option_flags=0*)
     → "Exchange how many? (Stars: $0) [One./Five./Ten./Fifteen./Thirty./None. Go back.]"
 228: 0x1932 [0x25] WAIT_DIALOG_SELECT()
 229: 0x1933 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1AF4
@@ -7114,24 +7114,24 @@ SUBROUTINE_191E:
 
 SUBROUTINE_193E:
 231: 0x193E [0x02] IF !(ExtData[1]->WorkLocal[0] <= 3*) GOTO 0x1AF1
-232: 0x1946 [0x24] CREATE_DIALOG(message_id=7442*, default_option=0*, option_flags=0*)
+232: 0x1946 [0x24] CREATE_DIALOG(message_id=7443*, default_option=0*, option_flags=0*)
     → "Which one? [Trip to San d'Oria./Trip to Bastok./Trip to Windurst./None. Go back.]"
 233: 0x194D [0x25] WAIT_DIALOG_SELECT()
 234: 0x194E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19D4
 235: 0x1956 [0x03] Work_Zone[2] = 0*
-236: 0x195B [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+236: 0x195B [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "I'll launch you ludicrous lengths to [San d'Oria/Bastok/Windurst] with mysterious moogle magic, kupo!"
 237: 0x195E [0x23] WAIT_FOR_DIALOG_INTERACTION
-238: 0x195F [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+238: 0x195F [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 239: 0x1962 [0x23] WAIT_FOR_DIALOG_INTERACTION
-240: 0x1963 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
+240: 0x1963 [0x24] CREATE_DIALOG(message_id=7457*, default_option=1*, option_flags=0*)
     → "Get launched ludicrous lengths? [Lovely idea!/Loathsome idea.]"
 241: 0x196A [0x25] WAIT_DIALOG_SELECT()
 242: 0x196B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19C6
 243: 0x1973 [0x02] IF !(ExtData[1]->WorkLocal[14] < 1*) GOTO 0x19BA
 244: 0x197B [0x42] SET_CLI_EVENT_CANCEL_DATA()
-245: 0x197C [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
+245: 0x197C [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
     → "Happy trails, kupo!"
 246: 0x197F [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x1980 [0x03] Work_Zone[1] = 49*
@@ -7147,7 +7147,7 @@ SUBROUTINE_193E:
 
 SUBROUTINE_19B7:
 257: 0x19B7 [0x01] GOTO 0x19C3
-258: 0x19BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+258: 0x19BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 259: 0x19BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x19BE [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7161,19 +7161,19 @@ SUBROUTINE_19D1:
 264: 0x19D1 [0x01] GOTO 0x1AEE
 265: 0x19D4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1A5A
 266: 0x19DC [0x03] Work_Zone[2] = 1*
-267: 0x19E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+267: 0x19E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "I'll launch you ludicrous lengths to [San d'Oria/Bastok/Windurst] with mysterious moogle magic, kupo!"
 268: 0x19E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-269: 0x19E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+269: 0x19E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 270: 0x19E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-271: 0x19E9 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
+271: 0x19E9 [0x24] CREATE_DIALOG(message_id=7457*, default_option=1*, option_flags=0*)
     → "Get launched ludicrous lengths? [Lovely idea!/Loathsome idea.]"
 272: 0x19F0 [0x25] WAIT_DIALOG_SELECT()
 273: 0x19F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A4C
 274: 0x19F9 [0x02] IF !(ExtData[1]->WorkLocal[14] < 1*) GOTO 0x1A40
 275: 0x1A01 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-276: 0x1A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
+276: 0x1A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
     → "Happy trails, kupo!"
 277: 0x1A05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x1A06 [0x03] Work_Zone[1] = 50*
@@ -7189,7 +7189,7 @@ SUBROUTINE_19D1:
 
 SUBROUTINE_1A3D:
 288: 0x1A3D [0x01] GOTO 0x1A49
-289: 0x1A40 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+289: 0x1A40 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 290: 0x1A43 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x1A44 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7203,19 +7203,19 @@ SUBROUTINE_1A57:
 295: 0x1A57 [0x01] GOTO 0x1AEE
 296: 0x1A5A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1AE0
 297: 0x1A62 [0x03] Work_Zone[2] = 2*
-298: 0x1A67 [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+298: 0x1A67 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "I'll launch you ludicrous lengths to [San d'Oria/Bastok/Windurst] with mysterious moogle magic, kupo!"
 299: 0x1A6A [0x23] WAIT_FOR_DIALOG_INTERACTION
-300: 0x1A6B [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+300: 0x1A6B [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 301: 0x1A6E [0x23] WAIT_FOR_DIALOG_INTERACTION
-302: 0x1A6F [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
+302: 0x1A6F [0x24] CREATE_DIALOG(message_id=7457*, default_option=1*, option_flags=0*)
     → "Get launched ludicrous lengths? [Lovely idea!/Loathsome idea.]"
 303: 0x1A76 [0x25] WAIT_DIALOG_SELECT()
 304: 0x1A77 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1AD2
 305: 0x1A7F [0x02] IF !(ExtData[1]->WorkLocal[14] < 1*) GOTO 0x1AC6
 306: 0x1A87 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-307: 0x1A88 [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
+307: 0x1A88 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
     → "Happy trails, kupo!"
 308: 0x1A8B [0x23] WAIT_FOR_DIALOG_INTERACTION
 309: 0x1A8C [0x03] Work_Zone[1] = 51*
@@ -7231,7 +7231,7 @@ SUBROUTINE_1A57:
 
 SUBROUTINE_1AC3:
 319: 0x1AC3 [0x01] GOTO 0x1ACF
-320: 0x1AC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+320: 0x1AC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 321: 0x1AC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x1ACA [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7268,23 +7268,23 @@ SUBROUTINE_1AFF:
 345: 0x1B3D [0x3E] IF !(ExtData[1]->WorkLocal[15] bit 4*) GOTO 0x1B4E
 346: 0x1B44 [0x03] ExtData[1]->WorkLocal[17] = 8*
 347: 0x1B49 [0x0E] ExtData[1]->WorkLocal[16] |= ExtData[1]->WorkLocal[17]
-348: 0x1B4E [0x24] CREATE_DIALOG(message_id=7443*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+348: 0x1B4E [0x24] CREATE_DIALOG(message_id=7444*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "Which one? [3./One week of work from Kuyin./One week of work from Susuroon./One week of work from Yeestog./None. Go back.]"
 349: 0x1B55 [0x25] WAIT_DIALOG_SELECT()
 350: 0x1B56 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BD6
-351: 0x1B5E [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
+351: 0x1B5E [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "With this $3, you can store a gratuitous amount of gil in your garden, kupo!"
 352: 0x1B61 [0x23] WAIT_FOR_DIALOG_INTERACTION
-353: 0x1B62 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+353: 0x1B62 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 354: 0x1B65 [0x23] WAIT_FOR_DIALOG_INTERACTION
-355: 0x1B66 [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
+355: 0x1B66 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]"
 356: 0x1B6D [0x25] WAIT_DIALOG_SELECT()
 357: 0x1B6E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BC8
 358: 0x1B76 [0x02] IF !(ExtData[1]->WorkLocal[14] < 5*) GOTO 0x1BBC
 359: 0x1B7E [0x42] SET_CLI_EVENT_CANCEL_DATA()
-360: 0x1B7F [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+360: 0x1B7F [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 361: 0x1B82 [0x23] WAIT_FOR_DIALOG_INTERACTION
 362: 0x1B83 [0x03] Work_Zone[1] = 52*
@@ -7296,7 +7296,7 @@ SUBROUTINE_1AFF:
 368: 0x1BA3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 369: 0x1BB4 [0x03] ExtData[1]->WorkLocal[0] = 0*
 370: 0x1BB9 [0x01] GOTO 0x1BC5
-371: 0x1BBC [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+371: 0x1BBC [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 372: 0x1BBF [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x1BC0 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7310,7 +7310,7 @@ SUBROUTINE_1BD3:
 377: 0x1BD3 [0x01] GOTO 0x1E21
 378: 0x1BD6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1C95
 379: 0x1BDE [0x03] Work_Zone[2] = 0*
-380: 0x1BE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+380: 0x1BE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] will be willing to work wonders for one week in your Mog Garden, for five shining stars per week, kupo! Just tell me how long you want."
 381: 0x1BE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 382: 0x1BE7 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 1*])
@@ -7319,16 +7319,16 @@ SUBROUTINE_1BD3:
 385: 0x1BF9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 386: 0x1BFE [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[9]
 387: 0x1C03 [0x14] Work_Zone[4] *= 5*
-388: 0x1C08 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+388: 0x1C08 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "Your amazing assistant will attend you garden for that long for a cost of $2 shining stars."
 389: 0x1C0B [0x23] WAIT_FOR_DIALOG_INTERACTION
-390: 0x1C0C [0x24] CREATE_DIALOG(message_id=7461*, default_option=1*, option_flags=0*)
+390: 0x1C0C [0x24] CREATE_DIALOG(message_id=7462*, default_option=1*, option_flags=0*)
     → "Is $1 week[/s] correct? [Perfect!/Hold on.]"
 391: 0x1C13 [0x25] WAIT_DIALOG_SELECT()
 392: 0x1C14 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C84
 393: 0x1C1C [0x02] IF !(ExtData[1]->WorkLocal[14] < Work_Zone[4]) GOTO 0x1C78
 394: 0x1C24 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-395: 0x1C25 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+395: 0x1C25 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 396: 0x1C28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 397: 0x1C29 [0x03] Work_Zone[1] = 63*
@@ -7343,7 +7343,7 @@ SUBROUTINE_1BD3:
 406: 0x1C6B [0x03] Work_Zone[1] = 59*
 407: 0x1C70 [0x03] ExtData[1]->WorkLocal[0] = 0*
 408: 0x1C75 [0x01] GOTO 0x1C81
-409: 0x1C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+409: 0x1C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 410: 0x1C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 411: 0x1C7C [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7360,7 +7360,7 @@ SUBROUTINE_1C92:
 416: 0x1C92 [0x01] GOTO 0x1E21
 417: 0x1C95 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1D54
 418: 0x1C9D [0x03] Work_Zone[2] = 1*
-419: 0x1CA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+419: 0x1CA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] will be willing to work wonders for one week in your Mog Garden, for five shining stars per week, kupo! Just tell me how long you want."
 420: 0x1CA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x1CA6 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 1*])
@@ -7369,16 +7369,16 @@ SUBROUTINE_1C92:
 424: 0x1CB8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 425: 0x1CBD [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[9]
 426: 0x1CC2 [0x14] Work_Zone[4] *= 5*
-427: 0x1CC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+427: 0x1CC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "Your amazing assistant will attend you garden for that long for a cost of $2 shining stars."
 428: 0x1CCA [0x23] WAIT_FOR_DIALOG_INTERACTION
-429: 0x1CCB [0x24] CREATE_DIALOG(message_id=7461*, default_option=1*, option_flags=0*)
+429: 0x1CCB [0x24] CREATE_DIALOG(message_id=7462*, default_option=1*, option_flags=0*)
     → "Is $1 week[/s] correct? [Perfect!/Hold on.]"
 430: 0x1CD2 [0x25] WAIT_DIALOG_SELECT()
 431: 0x1CD3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D43
 432: 0x1CDB [0x02] IF !(ExtData[1]->WorkLocal[14] < Work_Zone[4]) GOTO 0x1D37
 433: 0x1CE3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-434: 0x1CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+434: 0x1CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 435: 0x1CE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 436: 0x1CE8 [0x03] Work_Zone[1] = 64*
@@ -7393,7 +7393,7 @@ SUBROUTINE_1C92:
 445: 0x1D2A [0x03] Work_Zone[1] = 59*
 446: 0x1D2F [0x03] ExtData[1]->WorkLocal[0] = 0*
 447: 0x1D34 [0x01] GOTO 0x1D40
-448: 0x1D37 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+448: 0x1D37 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 449: 0x1D3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 450: 0x1D3B [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7410,7 +7410,7 @@ SUBROUTINE_1D51:
 455: 0x1D51 [0x01] GOTO 0x1E21
 456: 0x1D54 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1E13
 457: 0x1D5C [0x03] Work_Zone[2] = 2*
-458: 0x1D61 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+458: 0x1D61 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] will be willing to work wonders for one week in your Mog Garden, for five shining stars per week, kupo! Just tell me how long you want."
 459: 0x1D64 [0x23] WAIT_FOR_DIALOG_INTERACTION
 460: 0x1D65 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 1*])
@@ -7419,16 +7419,16 @@ SUBROUTINE_1D51:
 463: 0x1D77 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 464: 0x1D7C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[9]
 465: 0x1D81 [0x14] Work_Zone[4] *= 5*
-466: 0x1D86 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+466: 0x1D86 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "Your amazing assistant will attend you garden for that long for a cost of $2 shining stars."
 467: 0x1D89 [0x23] WAIT_FOR_DIALOG_INTERACTION
-468: 0x1D8A [0x24] CREATE_DIALOG(message_id=7461*, default_option=1*, option_flags=0*)
+468: 0x1D8A [0x24] CREATE_DIALOG(message_id=7462*, default_option=1*, option_flags=0*)
     → "Is $1 week[/s] correct? [Perfect!/Hold on.]"
 469: 0x1D91 [0x25] WAIT_DIALOG_SELECT()
 470: 0x1D92 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E02
 471: 0x1D9A [0x02] IF !(ExtData[1]->WorkLocal[14] < Work_Zone[4]) GOTO 0x1DF6
 472: 0x1DA2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-473: 0x1DA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+473: 0x1DA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 474: 0x1DA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 475: 0x1DA7 [0x03] Work_Zone[1] = 65*
@@ -7443,7 +7443,7 @@ SUBROUTINE_1D51:
 484: 0x1DE9 [0x03] Work_Zone[1] = 59*
 485: 0x1DEE [0x03] ExtData[1]->WorkLocal[0] = 0*
 486: 0x1DF3 [0x01] GOTO 0x1DFF
-487: 0x1DF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+487: 0x1DF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 488: 0x1DF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 489: 0x1DFA [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7473,31 +7473,31 @@ SUBROUTINE_1E32:
 503: 0x1E3A [0x03] Work_Zone[2] = 3990*
 504: 0x1E3F [0x03] Work_Zone[3] = 4005*
 505: 0x1E44 [0x03] Work_Zone[4] = 4010*
-506: 0x1E49 [0x24] CREATE_DIALOG(message_id=7444*, default_option=0*, option_flags=0*)
+506: 0x1E49 [0x24] CREATE_DIALOG(message_id=7445*, default_option=0*, option_flags=0*)
     → "Which one? [#./$1./$2./None. Go back.]"
 507: 0x1E50 [0x25] WAIT_DIALOG_SELECT()
 508: 0x1E51 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EAB
-509: 0x1E59 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+509: 0x1E59 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Now all that's left is for you to receive your rightful remuneration, kupo."
 510: 0x1E5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 511: 0x1E5D [0x93] DISPLAY_ITEM_INFO(item_id=3990*)
-512: 0x1E60 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+512: 0x1E60 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 513: 0x1E63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 514: 0x1E64 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-515: 0x1E67 [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
+515: 0x1E67 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]"
 516: 0x1E6E [0x25] WAIT_DIALOG_SELECT()
 517: 0x1E6F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E9D
 518: 0x1E77 [0x02] IF !(ExtData[1]->WorkLocal[14] < 10*) GOTO 0x1E91
 519: 0x1E7F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-520: 0x1E80 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+520: 0x1E80 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 521: 0x1E83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 522: 0x1E84 [0x03] Work_Zone[1] = 53*
 523: 0x1E89 [0x03] ExtData[1]->WorkLocal[0] = 0*
 524: 0x1E8E [0x01] GOTO 0x1E9A
-525: 0x1E91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+525: 0x1E91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 526: 0x1E94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 527: 0x1E95 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7510,27 +7510,27 @@ SUBROUTINE_1E9A:
 SUBROUTINE_1EA8:
 531: 0x1EA8 [0x01] GOTO 0x1F6D
 532: 0x1EAB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1F05
-533: 0x1EB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+533: 0x1EB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Now all that's left is for you to receive your rightful remuneration, kupo."
 534: 0x1EB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 535: 0x1EB7 [0x93] DISPLAY_ITEM_INFO(item_id=4005*)
-536: 0x1EBA [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+536: 0x1EBA [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 537: 0x1EBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 538: 0x1EBE [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-539: 0x1EC1 [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
+539: 0x1EC1 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]"
 540: 0x1EC8 [0x25] WAIT_DIALOG_SELECT()
 541: 0x1EC9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EF7
 542: 0x1ED1 [0x02] IF !(ExtData[1]->WorkLocal[14] < 10*) GOTO 0x1EEB
 543: 0x1ED9 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-544: 0x1EDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+544: 0x1EDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 545: 0x1EDD [0x23] WAIT_FOR_DIALOG_INTERACTION
 546: 0x1EDE [0x03] Work_Zone[1] = 54*
 547: 0x1EE3 [0x03] ExtData[1]->WorkLocal[0] = 0*
 548: 0x1EE8 [0x01] GOTO 0x1EF4
-549: 0x1EEB [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+549: 0x1EEB [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 550: 0x1EEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 551: 0x1EEF [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7543,27 +7543,27 @@ SUBROUTINE_1EF4:
 SUBROUTINE_1F02:
 555: 0x1F02 [0x01] GOTO 0x1F6D
 556: 0x1F05 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1F5F
-557: 0x1F0D [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+557: 0x1F0D [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Now all that's left is for you to receive your rightful remuneration, kupo."
 558: 0x1F10 [0x23] WAIT_FOR_DIALOG_INTERACTION
 559: 0x1F11 [0x93] DISPLAY_ITEM_INFO(item_id=4010*)
-560: 0x1F14 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+560: 0x1F14 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 561: 0x1F17 [0x23] WAIT_FOR_DIALOG_INTERACTION
 562: 0x1F18 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-563: 0x1F1B [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
+563: 0x1F1B [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]"
 564: 0x1F22 [0x25] WAIT_DIALOG_SELECT()
 565: 0x1F23 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F51
 566: 0x1F2B [0x02] IF !(ExtData[1]->WorkLocal[14] < 10*) GOTO 0x1F45
 567: 0x1F33 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-568: 0x1F34 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+568: 0x1F34 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 569: 0x1F37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 570: 0x1F38 [0x03] Work_Zone[1] = 55*
 571: 0x1F3D [0x03] ExtData[1]->WorkLocal[0] = 0*
 572: 0x1F42 [0x01] GOTO 0x1F4E
-573: 0x1F45 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+573: 0x1F45 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 574: 0x1F48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 575: 0x1F49 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7597,23 +7597,23 @@ SUBROUTINE_1F7E:
 595: 0x1FA9 [0x3E] IF !(ExtData[1]->WorkLocal[15] bit 6*) GOTO 0x1FBA
 596: 0x1FB0 [0x03] ExtData[1]->WorkLocal[17] = 8*
 597: 0x1FB5 [0x0E] ExtData[1]->WorkLocal[16] |= ExtData[1]->WorkLocal[17]
-598: 0x1FBA [0x24] CREATE_DIALOG(message_id=7445*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+598: 0x1FBA [0x24] CREATE_DIALOG(message_id=7446*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "Which one? [3./$1./$2./$3./None. Go back.]"
 599: 0x1FC1 [0x25] WAIT_DIALOG_SELECT()
 600: 0x1FC2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2042
-601: 0x1FCA [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
+601: 0x1FCA [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
     → "The $3...um...well...kind of calls crabs to the coast, kupo. There's not much more to say."
 602: 0x1FCD [0x23] WAIT_FOR_DIALOG_INTERACTION
-603: 0x1FCE [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+603: 0x1FCE [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 604: 0x1FD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-605: 0x1FD2 [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
+605: 0x1FD2 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]"
 606: 0x1FD9 [0x25] WAIT_DIALOG_SELECT()
 607: 0x1FDA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2034
 608: 0x1FE2 [0x02] IF !(ExtData[1]->WorkLocal[14] < 15*) GOTO 0x2028
 609: 0x1FEA [0x42] SET_CLI_EVENT_CANCEL_DATA()
-610: 0x1FEB [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+610: 0x1FEB [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 611: 0x1FEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 612: 0x1FEF [0x03] Work_Zone[1] = 58*
@@ -7625,7 +7625,7 @@ SUBROUTINE_1F7E:
 618: 0x200F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 619: 0x2020 [0x03] ExtData[1]->WorkLocal[0] = 0*
 620: 0x2025 [0x01] GOTO 0x2031
-621: 0x2028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+621: 0x2028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 622: 0x202B [0x23] WAIT_FOR_DIALOG_INTERACTION
 623: 0x202C [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7638,27 +7638,27 @@ SUBROUTINE_2031:
 SUBROUTINE_203F:
 627: 0x203F [0x01] GOTO 0x2184
 628: 0x2042 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x209C
-629: 0x204A [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+629: 0x204A [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Now all that's left is for you to receive your rightful remuneration, kupo."
 630: 0x204D [0x23] WAIT_FOR_DIALOG_INTERACTION
 631: 0x204E [0x93] DISPLAY_ITEM_INFO(item_id=3995*)
-632: 0x2051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+632: 0x2051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 633: 0x2054 [0x23] WAIT_FOR_DIALOG_INTERACTION
 634: 0x2055 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-635: 0x2058 [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
+635: 0x2058 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]"
 636: 0x205F [0x25] WAIT_DIALOG_SELECT()
 637: 0x2060 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x208E
 638: 0x2068 [0x02] IF !(ExtData[1]->WorkLocal[14] < 15*) GOTO 0x2082
 639: 0x2070 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-640: 0x2071 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+640: 0x2071 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 641: 0x2074 [0x23] WAIT_FOR_DIALOG_INTERACTION
 642: 0x2075 [0x03] Work_Zone[1] = 56*
 643: 0x207A [0x03] ExtData[1]->WorkLocal[0] = 0*
 644: 0x207F [0x01] GOTO 0x208B
-645: 0x2082 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+645: 0x2082 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 646: 0x2085 [0x23] WAIT_FOR_DIALOG_INTERACTION
 647: 0x2086 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7671,27 +7671,27 @@ SUBROUTINE_208B:
 SUBROUTINE_2099:
 651: 0x2099 [0x01] GOTO 0x2184
 652: 0x209C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x20F6
-653: 0x20A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+653: 0x20A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Now all that's left is for you to receive your rightful remuneration, kupo."
 654: 0x20A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 655: 0x20A8 [0x93] DISPLAY_ITEM_INFO(item_id=4000*)
-656: 0x20AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+656: 0x20AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 657: 0x20AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 658: 0x20AF [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-659: 0x20B2 [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
+659: 0x20B2 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]"
 660: 0x20B9 [0x25] WAIT_DIALOG_SELECT()
 661: 0x20BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20E8
 662: 0x20C2 [0x02] IF !(ExtData[1]->WorkLocal[14] < 15*) GOTO 0x20DC
 663: 0x20CA [0x42] SET_CLI_EVENT_CANCEL_DATA()
-664: 0x20CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+664: 0x20CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 665: 0x20CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 666: 0x20CF [0x03] Work_Zone[1] = 57*
 667: 0x20D4 [0x03] ExtData[1]->WorkLocal[0] = 0*
 668: 0x20D9 [0x01] GOTO 0x20E5
-669: 0x20DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+669: 0x20DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 670: 0x20DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 671: 0x20E0 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7704,19 +7704,19 @@ SUBROUTINE_20E5:
 SUBROUTINE_20F3:
 675: 0x20F3 [0x01] GOTO 0x2184
 676: 0x20F6 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x2176
-677: 0x20FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
+677: 0x20FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
     → "Maybe I'll scribble a sentence or two to that lovely ephemeral moogle, kupo!"
 678: 0x2101 [0x23] WAIT_FOR_DIALOG_INTERACTION
-679: 0x2102 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+679: 0x2102 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 680: 0x2105 [0x23] WAIT_FOR_DIALOG_INTERACTION
-681: 0x2106 [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
+681: 0x2106 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]"
 682: 0x210D [0x25] WAIT_DIALOG_SELECT()
 683: 0x210E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2168
 684: 0x2116 [0x02] IF !(ExtData[1]->WorkLocal[14] < 15*) GOTO 0x215C
 685: 0x211E [0x42] SET_CLI_EVENT_CANCEL_DATA()
-686: 0x211F [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+686: 0x211F [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "Let's do it! I'll explain everything and woo him with wondrous tales of our exploits here!"
 687: 0x2122 [0x23] WAIT_FOR_DIALOG_INTERACTION
 688: 0x2123 [0x03] Work_Zone[1] = 79*
@@ -7728,7 +7728,7 @@ SUBROUTINE_20F3:
 694: 0x2143 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 695: 0x2154 [0x03] ExtData[1]->WorkLocal[0] = 0*
 696: 0x2159 [0x01] GOTO 0x2165
-697: 0x215C [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+697: 0x215C [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 698: 0x215F [0x23] WAIT_FOR_DIALOG_INTERACTION
 699: 0x2160 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7761,11 +7761,11 @@ SUBROUTINE_21B2:
 716: 0x21B2 [0x06] ExtData[1]->WorkLocal[16] = 0
 717: 0x21B5 [0x3E] IF !(ExtData[1]->WorkLocal[15] bit 5*) GOTO 0x21C1
 718: 0x21BC [0x03] ExtData[1]->WorkLocal[16] = 1*
-719: 0x21C1 [0x24] CREATE_DIALOG(message_id=7446*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+719: 0x21C1 [0x24] CREATE_DIALOG(message_id=7447*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "Which one? [#./None. Go back.]"
 720: 0x21C8 [0x25] WAIT_DIALOG_SELECT()
 721: 0x21C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2231
-722: 0x21D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+722: 0x21D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Now all that's left is for you to receive your rightful remuneration, kupo."
 723: 0x21D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 724: 0x21D5 [0x02] IF !((LocalPlayer->Render.Flags01 >> 25) & 1 == 0*) GOTO 0x21E3
@@ -7774,23 +7774,23 @@ SUBROUTINE_21B2:
 727: 0x21E3 [0x93] DISPLAY_ITEM_INFO(item_id=27880*)
 
 SUBROUTINE_21E6:
-728: 0x21E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+728: 0x21E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Are you delighted with your decision, kupo?"
 729: 0x21E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 730: 0x21EA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-731: 0x21ED [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
+731: 0x21ED [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "Are you delighted with your decision? [Yes! Gimme, gimme, gimme!/Not at all.]"
 732: 0x21F4 [0x25] WAIT_DIALOG_SELECT()
 733: 0x21F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2223
 734: 0x21FD [0x02] IF !(ExtData[1]->WorkLocal[14] < 30*) GOTO 0x2217
 735: 0x2205 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-736: 0x2206 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+736: 0x2206 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Here you go. I hope you adore your amazing award, kupo."
 737: 0x2209 [0x23] WAIT_FOR_DIALOG_INTERACTION
 738: 0x220A [0x03] Work_Zone[1] = 66*
 739: 0x220F [0x03] ExtData[1]->WorkLocal[0] = 0*
 740: 0x2214 [0x01] GOTO 0x2220
-741: 0x2217 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+741: 0x2217 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Shucks, it seems you're sans sufficient starshine savings, kupo."
 742: 0x221A [0x23] WAIT_FOR_DIALOG_INTERACTION
 743: 0x221B [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -7818,19 +7818,19 @@ SUBROUTINE_2253:
 757: 0x2256 [0x01] GOTO 0x228B
 758: 0x2259 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x227D
 759: 0x2261 [0x03] Work_Zone[2] = 2398*
-760: 0x2266 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
+760: 0x2266 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
     → "You remember the $3, that resplendent rig I remitted to you on your inaugural visit, kupo?"
 761: 0x2269 [0x23] WAIT_FOR_DIALOG_INTERACTION
-762: 0x226A [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
+762: 0x226A [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
     → "Well, the stars that scintillate inside earn energy just from coming in close proximity to the master moogle who made the device, kupo."
 763: 0x226D [0x23] WAIT_FOR_DIALOG_INTERACTION
-764: 0x226E [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
+764: 0x226E [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
     → "In other words, nudging near me with your $3 nets you a star once every Earth day, kupo."
 765: 0x2271 [0x23] WAIT_FOR_DIALOG_INTERACTION
-766: 0x2272 [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
+766: 0x2272 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
     → "I can ply that powerful patina into palpable products for your pleasure as long as you expend the energy of a certain slew of stars, kupo."
 767: 0x2275 [0x23] WAIT_FOR_DIALOG_INTERACTION
-768: 0x2276 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
+768: 0x2276 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
     → "However, I can only manifest matter that matters to your Mog Garden. Sorry, kupo."
 769: 0x2279 [0x23] WAIT_FOR_DIALOG_INTERACTION
 770: 0x227A [0x01] GOTO 0x228B
@@ -7846,107 +7846,107 @@ SUBROUTINE_228B:
 
 SUBROUTINE_229C:
 778: 0x229C [0x02] IF !(ExtData[1]->WorkLocal[0] <= 1*) GOTO 0x2457
-779: 0x22A4 [0x24] CREATE_DIALOG(message_id=7487*, default_option=0*, option_flags=0*)
+779: 0x22A4 [0x24] CREATE_DIALOG(message_id=7488*, default_option=0*, option_flags=0*)
     → "What do you want to know about? [This island./Provisions./The furrows./The grove and mineral vein./The two nets./Other items of note./Tidbits of information./Go back.]"
 780: 0x22AB [0x25] WAIT_DIALOG_SELECT()
 781: 0x22AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x22C7
-782: 0x22B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7488*)
+782: 0x22B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
     → "This's one of many isolated islands spurting from the Senroh Sea, kupo! It harbors such an overabundance of organic objects that it's acquired the appellation of "nature's treasure trove.""
 783: 0x22B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-784: 0x22B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
+784: 0x22B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7490*)
     → "Conferred upon colonization collaborators by Adoulin's administrative authorities, these parcels provide services similar to those of the MHMU's Mog Houses, kupo."
 785: 0x22BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-786: 0x22BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7490*)
+786: 0x22BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
     → "And of these ostensibly innumerable islands, each gets sliced into sections and managed by moogles, which gives rise to their name: "Mog Gardens"!"
 787: 0x22BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-788: 0x22C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
+788: 0x22C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7492*)
     → "Should ennui envelop your entirety and you actually wish to vacate this veritable vacationland, shove off in the Mog Dinghy anchored near the shore. It sets sail to either Eastern or Western Adoulin, kupo."
 789: 0x22C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 790: 0x22C4 [0x01] GOTO 0x2454
 791: 0x22C7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x22E2
-792: 0x22CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7492*)
+792: 0x22CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7493*)
     → "All the fodder you forage in this forest is yours to freely fritter away or store safely, kupo."
 793: 0x22D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-794: 0x22D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7493*)
+794: 0x22D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7494*)
     → "But that means you'll be teleporting time and time again to take trinkets to your Mog House, you moan? Oh ho ho, that's simply not so, kupo!"
 795: 0x22D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-796: 0x22D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7494*)
+796: 0x22D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7495*)
     → "Your Mog Safe is miraculously manageable from here. Plus, you can draw doodads from your Delivery Box like a dream! Just inform me of your intentions or manipulate the main menu yourself to carouse at your convenience, kupo."
 797: 0x22DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-798: 0x22DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7495*)
+798: 0x22DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7496*)
     → "It may be exposed to the elements, but this area is astonishingly analogous to your Mog House--both in function and the fact that it's free of charge!"
 799: 0x22DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 800: 0x22DF [0x01] GOTO 0x2454
 801: 0x22E2 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x2301
-802: 0x22EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7496*)
+802: 0x22EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7497*)
     → "Plant seeds in garden furrows to cultivate crops conducive to your current lifestyle. Unlike gardening in your Mog House, however, they don't wither and waste away when you're not watching, kupo."
 803: 0x22ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-804: 0x22EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7497*)
+804: 0x22EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7498*)
     → "The time it takes to reap your rewards differs depending on the specimen of seed you plant. If you're ever at a loss for how long gestation lasts, ask to "Inspect the garden," and all your anxieties will abate."
 805: 0x22F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-806: 0x22F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7498*)
+806: 0x22F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7499*)
     → "As your garden grows in rank, you can claim higher quality crops with the same seeds, kupo. The number of furrows will also fill out finely so you can sprout up to three seeds."
 807: 0x22F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-808: 0x22F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7499*)
+808: 0x22F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
     → "Furnishing your furrows with fertilizer exerts an extra effect on your harvest. Beware, though, because the benefit breaks down after you reap returns, kupo."
 809: 0x22F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-810: 0x22FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
+810: 0x22FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7501*)
     → "Finally, if a fine-furred follower fortuitously fiddles with your furrows, it'll benefit your bounty in a different way from flinging fertilizer on your fields!"
 811: 0x22FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 812: 0x22FE [0x01] GOTO 0x2454
 813: 0x2301 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x2324
-814: 0x2309 [0x1D] PRINT_EVENT_MESSAGE(message_id=7501*)
+814: 0x2309 [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
     → "Where can you log, harvest, and mine...without needing to tinker with tools? The interior of this island, of course, kupo!"
 815: 0x230C [0x23] WAIT_FOR_DIALOG_INTERACTION
-816: 0x230D [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
+816: 0x230D [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
     → "The arboreal grove ladles out logs like with logging and gives out grasses as with harvesting."
 817: 0x2310 [0x23] WAIT_FOR_DIALOG_INTERACTION
-818: 0x2311 [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
+818: 0x2311 [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
     → "Then the mineral vein embedded in a bulky bit of bedrock offers ore for its owners, much in the same manner as mining, kupo."
 819: 0x2314 [0x23] WAIT_FOR_DIALOG_INTERACTION
-820: 0x2315 [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
+820: 0x2315 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
     → "No need to trade in tools--the MHMU will supply special ones for you! Mine and harvest until you lose your lucidity and descend into delirium, kupo."
 821: 0x2318 [0x23] WAIT_FOR_DIALOG_INTERACTION
-822: 0x2319 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
+822: 0x2319 [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
     → "The higher their ranks rise, the more places you can procure provisions from...thus powering up your productivity!"
 823: 0x231C [0x23] WAIT_FOR_DIALOG_INTERACTION
-824: 0x231D [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
+824: 0x231D [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
     → "Set certain fertilizers on roots or let loose liquids upon the boulder to see some delightful developments. Furthermore, assigning an able-bodied assistant to service these spaces grants greater gratuities to your garden, kupo."
 825: 0x2320 [0x23] WAIT_FOR_DIALOG_INTERACTION
 826: 0x2321 [0x01] GOTO 0x2454
 827: 0x2324 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x233F
-828: 0x232C [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
+828: 0x232C [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
     → "We've set two nets for you, which may each be brought up only once per day (Earth time), kupo."
 829: 0x232F [0x23] WAIT_FOR_DIALOG_INTERACTION
-830: 0x2330 [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
+830: 0x2330 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
     → "Sitting silently in the surf is the coastal fishing net, which seizes prey from the sea."
 831: 0x2333 [0x23] WAIT_FOR_DIALOG_INTERACTION
-832: 0x2334 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
+832: 0x2334 [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
     → "Lounging in the lakelet is the pond dredger, which drags up freshwater fish."
 833: 0x2337 [0x23] WAIT_FOR_DIALOG_INTERACTION
-834: 0x2338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
+834: 0x2338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7511*)
     → "Both benefit from being baited with different bits, so watch which you use where, kupo."
 835: 0x233B [0x23] WAIT_FOR_DIALOG_INTERACTION
 836: 0x233C [0x01] GOTO 0x2454
 837: 0x233F [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x235E
-838: 0x2347 [0x1D] PRINT_EVENT_MESSAGE(message_id=7511*)
+838: 0x2347 [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
     → "Mayhaps mentioning multiple measures of caution really is relevant, kupo..."
 839: 0x234A [0x23] WAIT_FOR_DIALOG_INTERACTION
-840: 0x234B [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
+840: 0x234B [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
     → "Can't carry any more commodities? Then burrow into your bag and sort out enough space to put them all in, kupo."
 841: 0x234E [0x23] WAIT_FOR_DIALOG_INTERACTION
-842: 0x234F [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
+842: 0x234F [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
     → "Your yield gets yanked away by the evil aether if you leave it all and depart via dinghy. In addition, you can't collect any more curios if you don't have an open inventory, so don't forget to free up a fitting amount of room, kupo."
 843: 0x2352 [0x23] WAIT_FOR_DIALOG_INTERACTION
-844: 0x2353 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+844: 0x2353 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
     → "Oh, yes. Exceptional erudition is the elementary step in enhancing the ranks of your resources. Where do you obtain this innovative insight, you inquire? Tomes tucked tightly into the shelves of the Pioneers' Coalition, kupo."
 845: 0x2356 [0x23] WAIT_FOR_DIALOG_INTERACTION
-846: 0x2357 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
+846: 0x2357 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
     → "Well, that's all the caution I can conjure under these conditions, kupo."
 847: 0x235A [0x23] WAIT_FOR_DIALOG_INTERACTION
 848: 0x235B [0x01] GOTO 0x2454
 849: 0x235E [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x2446
-850: 0x2366 [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
+850: 0x2366 [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
     → "Permit me to tell you tales of your exciting exploits here, kupo!"
 851: 0x2369 [0x23] WAIT_FOR_DIALOG_INTERACTION
 852: 0x236A [0x03] Work_Zone[1] = 80*
@@ -7961,12 +7961,12 @@ SUBROUTINE_229C:
 861: 0x2395 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[9] (bits 0*-15*)
 862: 0x239E [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[9] (bits 16*-31*)
 863: 0x23A7 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[10] (bits 0*-15*)
-864: 0x23B0 [0x48] [System] [7546*]:
+864: 0x23B0 [0x48] [System] [7547*]:
     → "You have visited a total of $0 day[/s]. You have gathered from your furrow $1 time[/s]. You have gathered from your grove $2 time[/s]. You have gathered from veins $3 time[/s]."
 865: 0x23B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 866: 0x23B4 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[10] (bits 16*-31*)
 867: 0x23BD [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[11] (bits 0*-15*)
-868: 0x23C6 [0x48] [System] [7547*]:
+868: 0x23C6 [0x48] [System] [7548*]:
     → "You have fished from the pond $0 time[/s]. You have fished from the coast $1 time[/s]."
 869: 0x23C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 870: 0x23CA [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[13] (bits 0*-3*)
@@ -7976,7 +7976,7 @@ SUBROUTINE_229C:
 874: 0x23ED [0x03] Work_Zone[4] = Work_Zone[3]
 875: 0x23F2 [0x41] Work_Zone[5] = Work_Zone[7] (bits 16*-31*)
 876: 0x23FB [0x08] Work_Zone[4] -= Work_Zone[5]
-877: 0x2400 [0x48] [System] [7549*]:
+877: 0x2400 [0x48] [System] [7550*]:
     → "You have cared for creatures $0 time[/s]. You have successfully reared $1 creature[/s]. You have freed $2 creature[/s]. $3 creature[/s] [has/have] passed on."
 878: 0x2403 [0x23] WAIT_FOR_DIALOG_INTERACTION
 879: 0x2404 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[13] (bits 6*-15*)
@@ -7991,7 +7991,7 @@ SUBROUTINE_229C:
 888: 0x243A [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_243F:
-889: 0x243F [0x48] [System] [7550*]:
+889: 0x243F [0x48] [System] [7551*]:
     → "Your Mog Garden is [extraordinarily/quite/somewhat/slightly/marginally] peaceful."
 890: 0x2442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 891: 0x2443 [0x01] GOTO 0x2454
@@ -8015,7 +8015,7 @@ SUBROUTINE_2476:
 
 SUBROUTINE_2487:
 905: 0x2487 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=5*, condition_work_offset=1*)
-906: 0x248E [0x24] CREATE_DIALOG(message_id=7330*, default_option=0*, option_flags=Work_Zone[2])
+906: 0x248E [0x24] CREATE_DIALOG(message_id=7331*, default_option=0*, option_flags=Work_Zone[2])
     → "Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]"
 907: 0x2495 [0x25] WAIT_DIALOG_SELECT()
 908: 0x2496 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x24A9
@@ -8055,7 +8055,7 @@ SUBROUTINE_253A:
 938: 0x253E [0x00] END_REQSTACK()
 
 SUBROUTINE_253F:
-939: 0x253F [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
+939: 0x253F [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
     → "Hire this helper? If you've already contracted this critter, you can extend the length of their labor. Remember, the regular range of such records is one week (Earth time), kupo."
 940: 0x2542 [0x23] WAIT_FOR_DIALOG_INTERACTION
 941: 0x2543 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 1*])
@@ -8099,17 +8099,17 @@ SUBROUTINE_253F:
 SUBROUTINE_2605:
 978: 0x2605 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
 979: 0x260A [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x2619
-980: 0x2612 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
+980: 0x2612 [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] for $2 week[/s], kupo? Then that means you wish to win over this workhorse with a $1-day contract costing $3 gil?"
 981: 0x2615 [0x23] WAIT_FOR_DIALOG_INTERACTION
 982: 0x2616 [0x01] GOTO 0x261D
-983: 0x2619 [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
+983: 0x2619 [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
     → "[Kuyin Hathdenna/Susuroon/Yeestog] for $2 week[/s], kupo? That means you'll extend [her/his/his] contract for $5 day[/s] on top of the $4 remaining, to make a new $1-day contract costing $3 gil."
 984: 0x261C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_261D:
 985: 0x261D [0x42] SET_CLI_EVENT_CANCEL_DATA()
-986: 0x261E [0x24] CREATE_DIALOG(message_id=7479*, default_option=0*, option_flags=0*)
+986: 0x261E [0x24] CREATE_DIALOG(message_id=7480*, default_option=0*, option_flags=0*)
     → "Is this sufficient? [Yes! Seal the deal!/No. Let me think it over.]"
 987: 0x2625 [0x25] WAIT_DIALOG_SELECT()
 988: 0x2626 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x26B0
@@ -8128,7 +8128,7 @@ SUBROUTINE_265E:
 999: 0x2667 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 1000: 0x2669 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 1001: 0x266B [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x26A7
-1002: 0x2673 [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
+1002: 0x2673 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
     → "Contract: complete! ...For all plans and purposes. Let me deal with the dirty detail drudgery, kupo."
 1003: 0x2676 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1004: 0x2677 [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -8152,11 +8152,11 @@ SUBROUTINE_26C5:
 
 SUBROUTINE_26C6:
 1016: 0x26C6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
-1017: 0x26CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
+1017: 0x26CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
     → "Cancel your contract with [Kuyin Hathdenna/Susuroon/Yeestog]!? Fine, but you won't get back the gil you gave to hire [her/him/him], kupo."
 1018: 0x26CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1019: 0x26CF [0x42] SET_CLI_EVENT_CANCEL_DATA()
-1020: 0x26D0 [0x24] CREATE_DIALOG(message_id=7481*, default_option=1*, option_flags=0*)
+1020: 0x26D0 [0x24] CREATE_DIALOG(message_id=7482*, default_option=1*, option_flags=0*)
     → "Cancel the contract? [Without a doubt./Let me think it over.]"
 1021: 0x26D7 [0x25] WAIT_DIALOG_SELECT()
 1022: 0x26D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2747
@@ -8173,7 +8173,7 @@ SUBROUTINE_26C6:
 SUBROUTINE_2710:
 1032: 0x2710 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 1033: 0x2712 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-1034: 0x2714 [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
+1034: 0x2714 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
     → "Contract: complete! ...For all plans and purposes. Let me deal with the dirty detail drudgery, kupo."
 1035: 0x2717 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1036: 0x2718 [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -8227,9 +8227,9 @@ SUBROUTINE_2753:
 2800: 01 10 DC 81 40 45 81 60  81 01 10 17 00 01 29 28  ....@E.`......)(
 2810: 02 08 00 51 81 80 29 28  03 01 10 DD 81 40 45 81  ...Q..)(.....@E.
 2820: 60 81 01 10 17 00 01 29  28 43 00 43 01 02 02 10  `......)(C.C....
-2830: 34 80 01 67 28 1D CE 81  23 45 6D 81 F0 FF FF 7F  4..g(...#Em.....
+2830: 34 80 01 67 28 1D CE 81  23 45 6E 81 F0 FF FF 7F  4..g(...#En.....
 2840: F0 FF FF 7F 66 64 6F 31  34 80 1A 7F 28 1C DF 80  ....fdo14...(...
-2850: 45 6D 81 F0 FF FF 7F F0  FF FF 7F 66 64 69 31 34  Em.........fdi14
+2850: 45 6E 81 F0 FF FF 7F F0  FF FF 7F 66 64 69 31 34  En.........fdi14
 2860: 80 06 00 00 01 71 28 1D  DE 81 23 2E 03 01 10 C3  .....q(...#.....
 2870: 81 01 79 28 03 01 10 C3  81 21 00                 ..y(.....!.     
 ```
@@ -8261,13 +8261,13 @@ SUBROUTINE_2753:
 SUBROUTINE_27BB:
  20: 0x27BB [0x1E] EventEntity looks at LocalPlayer and starts talking
  21: 0x27C0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[22]
- 22: 0x27C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
+ 22: 0x27C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
     → "Kupopopo, $1? This is sure to tickle [Kuyin Hathdenna/Susuroon/Yeestog]'s toes!"
  23: 0x27C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x27C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+ 24: 0x27C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
     → "Now, bequeathing this bauble to me will allow your assistant to aid you for $2 day[/s]. Is that alright, kupo?"
  25: 0x27CC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x27CD [0x24] CREATE_DIALOG(message_id=7485*, default_option=0*, option_flags=0*)
+ 26: 0x27CD [0x24] CREATE_DIALOG(message_id=7486*, default_option=0*, option_flags=0*)
     → "Is that alright? [You know it, poet!/Hmmm, let me think it over.]"
  27: 0x27D4 [0x25] WAIT_DIALOG_SELECT()
  28: 0x27D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2874
@@ -8289,7 +8289,7 @@ SUBROUTINE_2829:
  42: 0x2829 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  43: 0x282B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  44: 0x282D [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x2867
- 45: 0x2835 [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
+ 45: 0x2835 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
     → "Contract: complete! ...For all plans and purposes. Let me deal with the dirty detail drudgery, kupo."
  46: 0x2838 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x2839 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -8298,7 +8298,7 @@ SUBROUTINE_2829:
  50: 0x2850 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  51: 0x2861 [0x06] ExtData[1]->WorkLocal[0] = 0
  52: 0x2864 [0x01] GOTO 0x2871
- 53: 0x2867 [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
+ 53: 0x2867 [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
     → "My apologies, but a plethora of problems have proliferated, kupo! Take this back and turn it in at another time."
  54: 0x286A [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x286B [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
@@ -8542,7 +8542,7 @@ SUBROUTINE_2879:
 31A0: 3D 00 11 4D 81 67 80 3C  00 11 09 80 67 80 01 F6  =..M.g.<....g...
 31B0: 31 02 18 00 43 81 80 CA  31 3C 00 11 4D 81 67 80  1...C...1<..M.g.
 31C0: 3D 00 11 09 80 67 80 01  F6 31 13 18 00 EA 81 02  =....g...1......
-31D0: 18 00 71 81 03 E8 31 3D  00 11 4D 81 67 80 3C 00  ..q...1=..M.g.<.
+31D0: 18 00 72 81 03 E8 31 3D  00 11 4D 81 67 80 3C 00  ..r...1=..M.g.<.
 31E0: 11 09 80 67 80 01 F6 31  3C 00 11 4D 81 67 80 3D  ...g...1<..M.g.=
 31F0: 00 11 09 80 67 80 01 07  32 3D 00 11 4D 81 67 80  ....g...2=..M.g.
 3200: 3D 00 11 09 80 67 80 3E  08 11 4D 81 78 32 41 09  =....g.>..M.x2A.
@@ -8550,7 +8550,7 @@ SUBROUTINE_2879:
 3220: 00 11 4C 81 67 80 3D 00  11 46 81 67 80 01 75 32  ..L.g.=..F.g..u2
 3230: 02 18 00 0F 81 80 49 32  3D 00 11 4C 81 67 80 3C  ......I2=..L.g.<
 3240: 00 11 46 81 67 80 01 75  32 13 18 00 EA 81 02 18  ..F.g..u2.......
-3250: 00 71 81 03 67 32 3C 00  11 4C 81 67 80 3D 00 11  .q..g2<..L.g.=..
+3250: 00 72 81 03 67 32 3C 00  11 4C 81 67 80 3D 00 11  .r..g2<..L.g.=..
 3260: 46 81 67 80 01 75 32 3D  00 11 4C 81 67 80 3C 00  F.g..u2=..L.g.<.
 3270: 11 46 81 67 80 01 86 32  3D 00 11 4C 81 67 80 3D  .F.g...2=..L.g.=
 3280: 00 11 46 81 67 80 3E 08  11 BD 81 F7 32 41 E9 81  ..F.g.>.....2A..
@@ -8558,7 +8558,7 @@ SUBROUTINE_2879:
 32A0: 11 BD 81 67 80 3D 00 11  E9 81 67 80 01 F4 32 02  ...g.=....g...2.
 32B0: 18 00 51 81 80 C8 32 3D  00 11 BD 81 67 80 3C 00  ..Q...2=....g.<.
 32C0: 11 E9 81 67 80 01 F4 32  13 18 00 EA 81 02 18 00  ...g...2........
-32D0: 71 81 03 E6 32 3C 00 11  BD 81 67 80 3D 00 11 E9  q...2<....g.=...
+32D0: 72 81 03 E6 32 3C 00 11  BD 81 67 80 3D 00 11 E9  r...2<....g.=...
 32E0: 81 67 80 01 F4 32 3D 00  11 BD 81 67 80 3C 00 11  .g...2=....g.<..
 32F0: E9 81 67 80 01 05 33 3D  00 11 BD 81 67 80 3D 00  ..g...3=....g.=.
 3300: 11 E9 81 67 80 1B 02 18  00 34 80 80 3B 33 3D 00  ...g.....4..;3=.
@@ -8751,17 +8751,17 @@ SUBROUTINE_2879:
 3EB0: 48 80 11 01 02 27 80 49  80 11 01 02 29 80 4A 80  H....'.I....).J.
 3EC0: 11 01 02 27 80 4B 80 11  01 02 27 80 4C 80 11 01  ...'.K....'.L...
 3ED0: 02 27 80 4D 80 11 01 02  29 80 4E 80 11 01 02 1B  .'.M....).N.....
-3EE0: 42 45 6D 81 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 30  BEm.........fdo0
-3EF0: 34 80 55 6D 81 F0 FF FF  7F F0 FF FF 7F 66 64 6F  4.Um.........fdo
-3F00: 30 1A 6A 3C 1A 7F 28 45  6D 81 F0 FF FF 7F F0 FF  0.j<..(Em.......
-3F10: FF 7F 66 64 69 30 34 80  55 6D 81 F0 FF FF 7F F0  ..fdi04.Um......
-3F20: FF FF 7F 66 64 69 30 1B  42 45 6D 81 F0 FF FF 7F  ...fdi0.BEm.....
-3F30: F0 FF FF 7F 66 64 6F 30  34 80 55 6D 81 F0 FF FF  ....fdo04.Um....
+3EE0: 42 45 6E 81 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 30  BEn.........fdo0
+3EF0: 34 80 55 6E 81 F0 FF FF  7F F0 FF FF 7F 66 64 6F  4.Un.........fdo
+3F00: 30 1A 6A 3C 1A 7F 28 45  6E 81 F0 FF FF 7F F0 FF  0.j<..(En.......
+3F10: FF 7F 66 64 69 30 34 80  55 6E 81 F0 FF FF 7F F0  ..fdi04.Un......
+3F20: FF FF 7F 66 64 69 30 1B  42 45 6E 81 F0 FF FF 7F  ...fdi0.BEn.....
+3F30: F0 FF FF 7F 66 64 6F 30  34 80 55 6E 81 F0 FF FF  ....fdo04.Un....
 3F40: 7F F0 FF FF 7F 66 64 6F  30 03 01 10 F0 81 47 00  .....fdo0.....G.
 3F50: F1 81 F2 81 F3 81 F4 81  47 01 02 02 10 34 80 00  ........G....4..
 3F60: 77 3F 1A B9 30 1A 62 30  1A 70 30 1A 7E 30 1A 8C  w?..0.b0.p0.~0..
-3F70: 30 1A 1E 2F 01 77 3F 45  6D 81 F0 FF FF 7F F0 FF  0../.w?Em.......
-3F80: FF 7F 66 64 69 30 34 80  55 6D 81 F0 FF FF 7F F0  ..fdi04.Um......
+3F70: 30 1A 1E 2F 01 77 3F 45  6E 81 F0 FF FF 7F F0 FF  0../.w?En.......
+3F80: FF 7F 66 64 69 30 34 80  55 6E 81 F0 FF FF 7F F0  ..fdi04.Un......
 3F90: FF FF 7F 66 64 69 30 1B  1A 01 40 02 18 00 34 80  ...fdi0...@...4.
 3FA0: 01 A4 3F 1B 3C 00 11 02  10 67 80 1A 7F 28 1B 1A  ..?.<....g...(..
 3FB0: 01 40 02 18 00 34 80 01  BB 3F 1B 3D 00 11 02 10  .@...4...?.=....

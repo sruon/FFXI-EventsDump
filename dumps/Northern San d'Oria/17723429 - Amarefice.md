@@ -42,7 +42,7 @@
 |      14 | 0x1B53      |        6995 |
 |      15 | 0x1B9F      |        7071 |
 |      16 | 0x1B9A      |        7066 |
-|      17 | 0x2CFB      |       11515 |
+|      17 | 0x2CFC      |       11516 |
 
 ## String References
 
@@ -58,7 +58,7 @@
 - **7069**: There we are. Now close yer eyes...
 - **7070**: An adventurer like ye would be best off wit' $0. Ah make it wit these...
 - **7071**: If ye want tae make somethin' fancy, ask Ulycille. Anything else, ask me. But bide away from Ramua. She makes too mannae mistakes.
-- **11515**: An adventurer, are you? This is one of the finest workshops in the land. Of course, much depends on you.
+- **11516**: An adventurer, are you? This is one of the finest workshops in the land. Of course, much depends on you.
 
 ## Events
 
@@ -264,7 +264,7 @@ SUBROUTINE_017B:
 #### Opcodes
 
 ```
-  0: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
+  0: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
     → "An adventurer, are you? This is one of the finest workshops in the land. Of course, much depends on you."
   1: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0181 [0x21] END_EVENT

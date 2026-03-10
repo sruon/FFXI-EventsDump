@@ -74,18 +74,18 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x0029      |          41 |
 |       3 | 0x002A      |          42 |
-|       4 | 0x1E44      |        7748 |
-|       5 | 0x1E45      |        7749 |
-|       6 | 0x1E48      |        7752 |
-|       7 | 0x1E49      |        7753 |
-|       8 | 0x1E4A      |        7754 |
-|       9 | 0x1E4B      |        7755 |
+|       4 | 0x1E45      |        7749 |
+|       5 | 0x1E46      |        7750 |
+|       6 | 0x1E49      |        7753 |
+|       7 | 0x1E4A      |        7754 |
+|       8 | 0x1E4B      |        7755 |
+|       9 | 0x1E4C      |        7756 |
 |      10 | 0x0AC3      |        2755 |
-|      11 | 0x1E98      |        7832 |
-|      12 | 0x1E99      |        7833 |
-|      13 | 0x1E9A      |        7834 |
-|      14 | 0x1EB8      |        7864 |
-|      15 | 0x1EB9      |        7865 |
+|      11 | 0x1E99      |        7833 |
+|      12 | 0x1E9A      |        7834 |
+|      13 | 0x1E9B      |        7835 |
+|      14 | 0x1EB9      |        7865 |
+|      15 | 0x1EBA      |        7866 |
 |      16 | 0x000D      |          13 |
 |      17 | 0x691CE     |      430542 |
 |      18 | 0xFFFBA605  |  4294682117 |
@@ -110,17 +110,17 @@
 
 ## String References
 
-- **7748**: It's f-freezing-weezing out here! Why are we colonizing such a terrible place?
-- **7749**: I suppose I'm bettaru off than most, though, given that I'm both small and compact...
-- **7752**: When I said that we should put c-c-colonization on icey-wice, this isn't what I had in mind! Brrr...
-- **7753**: The terrain is rugged enough on its own, with all these tuftarus of snow...but ice walls blocking our progress? It's t-too much!
-- **7754**: Thankfully, my geomancer friend Traiffeaux can crush them into a fine powder!
-- **7755**: I say "thankfully," but he's been babbling like a baby for the pastaru I-don't-know-how-many hours.
-- **7832**: Orsa-Porsa wanted you to get one $1. I have a suspicion he's more interested in his surveys than actually helping-welping me out...
-- **7833**: But even if he's not, I'm no inventaru! Maybe I could make some kind of shovel to break down those thick walls of ice...
-- **7834**: Hmm...that wouldn't work, though, because Traiffeaux's already found-wound some geomantic way to get around those...hmm...
-- **7864**: Did you see the way Orsa-Porsa danced-wanced out of here? We gave him a new lease on life!
-- **7865**: Mind over mattaru. It's just as cold as before, but if the oil makes him happy, then that's great!
+- **7749**: It's f-freezing-weezing out here! Why are we colonizing such a terrible place?
+- **7750**: I suppose I'm bettaru off than most, though, given that I'm both small and compact...
+- **7753**: When I said that we should put c-c-colonization on icey-wice, this isn't what I had in mind! Brrr...
+- **7754**: The terrain is rugged enough on its own, with all these tuftarus of snow...but ice walls blocking our progress? It's t-too much!
+- **7755**: Thankfully, my geomancer friend Traiffeaux can crush them into a fine powder!
+- **7756**: I say "thankfully," but he's been babbling like a baby for the pastaru I-don't-know-how-many hours.
+- **7833**: Orsa-Porsa wanted you to get one $1. I have a suspicion he's more interested in his surveys than actually helping-welping me out...
+- **7834**: But even if he's not, I'm no inventaru! Maybe I could make some kind of shovel to break down those thick walls of ice...
+- **7835**: Hmm...that wouldn't work, though, because Traiffeaux's already found-wound some geomantic way to get around those...hmm...
+- **7865**: Did you see the way Orsa-Porsa danced-wanced out of here? We gave him a new lease on life!
+- **7866**: Mind over mattaru. It's just as cold as before, but if the oil makes him happy, then that's great!
 
 ## Events
 
@@ -1106,10 +1106,10 @@
   1: 0x024E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x024F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0250 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x12)
-  4: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
+  4: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
     → "It's f-freezing-weezing out here! Why are we colonizing such a terrible place?"
   5: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
+  6: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
     → "I suppose I'm bettaru off than most, though, given that I'm both small and compact..."
   7: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x025F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x13)
@@ -1146,10 +1146,10 @@
   1: 0x026F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0270 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0271 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x12)
-  4: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7752*)
+  4: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7753*)
     → "When I said that we should put c-c-colonization on icey-wice, this isn't what I had in mind! Brrr..."
   5: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=7753*)
+  6: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=7754*)
     → "The terrain is rugged enough on its own, with all these tuftarus of snow...but ice walls blocking our progress? It's t-too much!"
   7: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0280 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x13)
@@ -1159,11 +1159,11 @@
  12: 0x029A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  13: 0x029B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  14: 0x029C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x04)
- 15: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7754*)
+ 15: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7755*)
     → "Thankfully, my geomancer friend Traiffeaux can crush them into a fine powder!"
  16: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x02A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x05)
- 18: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7755*)
+ 18: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7756*)
     → "I say "thankfully," but he's been babbling like a baby for the pastaru I-don't-know-how-many hours."
  19: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x02B2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1242,15 +1242,15 @@
   2: 0x02BE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0E)
   4: 0x02C6 [0x03] Work_Zone[3] = 2755*
-  5: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
+  5: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
     → "Orsa-Porsa wanted you to get one $1. I have a suspicion he's more interested in his surveys than actually helping-welping me out..."
   6: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
+  7: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
     → "But even if he's not, I'm no inventaru! Maybe I could make some kind of shovel to break down those thick walls of ice..."
   8: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x02D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x0F)
  10: 0x02DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x10)
- 11: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
+ 11: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
     → "Hmm...that wouldn't work, though, because Traiffeaux's already found-wound some geomantic way to get around those...hmm..."
  12: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x02E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x11)
@@ -1284,10 +1284,10 @@
   1: 0x02F5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02F6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x01)
-  4: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
+  4: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
     → "Did you see the way Orsa-Porsa danced-wanced out of here? We gave him a new lease on life!"
   5: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0302 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+  6: 0x0302 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "Mind over mattaru. It's just as cold as before, but if the oil makes him happy, then that's great!"
   7: 0x0305 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0306 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Peppe-Aleppe (ID: 17871211/0x0110B16B), tag_num=0x02)

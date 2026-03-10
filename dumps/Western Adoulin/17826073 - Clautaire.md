@@ -34,8 +34,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x004B      |          75 |
-|       1 | 0x2698      |        9880 |
-|       2 | 0x2699      |        9881 |
+|       1 | 0x2699      |        9881 |
+|       2 | 0x269A      |        9882 |
 |       3 | 0x005A      |          90 |
 |       4 | 0x001E      |          30 |
 |       5 | 0x0028      |          40 |
@@ -51,20 +51,20 @@
 |      15 | 0xFFFF3CB0  |  4294917296 |
 |      16 | 0xFFFFB7C4  |  4294948804 |
 |      17 | 0xFFFFBE60  |  4294950496 |
-|      18 | 0x1FBB      |        8123 |
-|      19 | 0x1FBC      |        8124 |
-|      20 | 0x1FBD      |        8125 |
-|      21 | 0x1FBE      |        8126 |
+|      18 | 0x1FBC      |        8124 |
+|      19 | 0x1FBD      |        8125 |
+|      20 | 0x1FBE      |        8126 |
+|      21 | 0x1FBF      |        8127 |
 |      22 | 0x0950      |        2384 |
-|      23 | 0x1FBF      |        8127 |
-|      24 | 0x1FC0      |        8128 |
-|      25 | 0x1FC1      |        8129 |
-|      26 | 0x1FC2      |        8130 |
-|      27 | 0x1FC3      |        8131 |
-|      28 | 0x1FC4      |        8132 |
-|      29 | 0x1FC5      |        8133 |
-|      30 | 0x1FC6      |        8134 |
-|      31 | 0x1FC7      |        8135 |
+|      23 | 0x1FC0      |        8128 |
+|      24 | 0x1FC1      |        8129 |
+|      25 | 0x1FC2      |        8130 |
+|      26 | 0x1FC3      |        8131 |
+|      27 | 0x1FC4      |        8132 |
+|      28 | 0x1FC5      |        8133 |
+|      29 | 0x1FC6      |        8134 |
+|      30 | 0x1FC7      |        8135 |
+|      31 | 0x1FC8      |        8136 |
 |      32 | 0x00C9      |         201 |
 |      33 | 0x6F54      |       28500 |
 |      34 | 0xFFFFAAD8  |  4294945496 |
@@ -73,21 +73,21 @@
 
 ## String References
 
-- **8123**: Excuse me, [mister/ma'am]--is that a Fantastic Adoulin Imperial Liberators badge I see?
-- **8124**: I'm Clautaire! I just joined the Liberators a couple days ago!
-- **8125**: I wanna be a pioneer just like you someday, but my parents say I have to go to school first to learn more about the world.
-- **8126**: For one of my class projects I'm studying about Adoulin's soil quality. Sounds fun, doesn't it?
-- **8127**: But it's not easy. I need $6, but I can't get hold of one myself...
-- **8128**: But if you're a pioneer, it must be really easy for you, right? I'd be super happy if you could get one for me.
-- **8129**: All I need is $6. Please?
-- **8130**: You've brought me the $3! Great!
-- **8131**: You pioneers are great! Now I'll ace my project for sure!
-- **8132**: I go to a school established by the Order of Renaye and run by the minister of education. Because it's run by the city, it's free to everyone!
-- **8133**: There are many poor families like mine, so I think it's great that we're able to study at such a wonderful place!
-- **8134**: When I grow up and become a pioneer, I'll be able to help my mother live a better life.
-- **8135**: I can't offer you too much, but maybe you'll find this useful? Either way, thank you so much for helping me!
-- **9880**: My mother says that pioneers must have brains as well as brawn.
-- **9881**: I wish to study hard and become a great pioneer soon! Then maybe I can let her take a break from working so often.
+- **8124**: Excuse me, [mister/ma'am]--is that a Fantastic Adoulin Imperial Liberators badge I see?
+- **8125**: I'm Clautaire! I just joined the Liberators a couple days ago!
+- **8126**: I wanna be a pioneer just like you someday, but my parents say I have to go to school first to learn more about the world.
+- **8127**: For one of my class projects I'm studying about Adoulin's soil quality. Sounds fun, doesn't it?
+- **8128**: But it's not easy. I need $6, but I can't get hold of one myself...
+- **8129**: But if you're a pioneer, it must be really easy for you, right? I'd be super happy if you could get one for me.
+- **8130**: All I need is $6. Please?
+- **8131**: You've brought me the $3! Great!
+- **8132**: You pioneers are great! Now I'll ace my project for sure!
+- **8133**: I go to a school established by the Order of Renaye and run by the minister of education. Because it's run by the city, it's free to everyone!
+- **8134**: There are many poor families like mine, so I think it's great that we're able to study at such a wonderful place!
+- **8135**: When I grow up and become a pioneer, I'll be able to help my mother live a better life.
+- **8136**: I can't offer you too much, but maybe you'll find this useful? Either way, thank you so much for helping me!
+- **9881**: My mother says that pioneers must have brains as well as brawn.
+- **9882**: I wish to study hard and become a great pioneer soon! Then maybe I can let her take a break from working so often.
 
 ## Events
 
@@ -138,10 +138,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9880*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9881*)
     → "My mother says that pioneers must have brains as well as brawn."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9881*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9882*)
     → "I wish to study hard and become a great pioneer soon! Then maybe I can let her take a break from working so often."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=75*
@@ -367,23 +367,23 @@
   2: 0x00B2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00B3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00B4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
-  5: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+  5: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "Excuse me, [mister/ma'am]--is that a Fantastic Adoulin Imperial Liberators badge I see?"
   6: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+  7: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "I'm Clautaire! I just joined the Liberators a couple days ago!"
   8: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+  9: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "I wanna be a pioneer just like you someday, but my parents say I have to go to school first to learn more about the world."
  10: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
+ 11: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
     → "For one of my class projects I'm studying about Adoulin's soil quality. Sounds fun, doesn't it?"
  12: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00D3 [0x03] Work_Zone[2] = 2384*
- 14: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
+ 14: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
     → "But it's not easy. I need $6, but I can't get hold of one myself..."
  15: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+ 16: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "But if you're a pioneer, it must be really easy for you, right? I'd be super happy if you could get one for me."
  17: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=75*
@@ -419,7 +419,7 @@
   2: 0x00FC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00FD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
   4: 0x010C [0x03] Work_Zone[2] = 2384*
-  5: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+  5: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "All I need is $6. Please?"
   6: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0115 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=75*
@@ -458,23 +458,23 @@
   3: 0x012D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x012E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
   5: 0x013D [0x03] Work_Zone[2] = 2384*
-  6: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
+  6: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
     → "You've brought me the $3! Great!"
   7: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
+  8: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
     → "You pioneers are great! Now I'll ace my project for sure!"
   9: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
+ 10: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
     → "I go to a school established by the Order of Renaye and run by the minister of education. Because it's run by the city, it's free to everyone!"
  11: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+ 12: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "There are many poor families like mine, so I think it's great that we're able to study at such a wonderful place!"
  13: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
+ 14: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
     → "When I grow up and become a pioneer, I'll be able to help my mother live a better life."
  15: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0156 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=75*
- 17: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
+ 17: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
     → "I can't offer you too much, but maybe you'll find this useful? Either way, thank you so much for helping me!"
  18: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0169 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]

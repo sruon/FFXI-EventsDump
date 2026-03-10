@@ -102,14 +102,14 @@
 |       2 | 0x0015      |          21 |
 |       3 | 0x001B      |          27 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x2809      |       10249 |
-|       6 | 0x280A      |       10250 |
-|       7 | 0x280B      |       10251 |
-|       8 | 0x280C      |       10252 |
-|       9 | 0x280D      |       10253 |
-|      10 | 0x280E      |       10254 |
-|      11 | 0x280F      |       10255 |
-|      12 | 0x2810      |       10256 |
+|       5 | 0x280A      |       10250 |
+|       6 | 0x280B      |       10251 |
+|       7 | 0x280C      |       10252 |
+|       8 | 0x280D      |       10253 |
+|       9 | 0x280E      |       10254 |
+|      10 | 0x280F      |       10255 |
+|      11 | 0x2810      |       10256 |
+|      12 | 0x2811      |       10257 |
 |      13 | 0xFFFFB525  |  4294948133 |
 |      14 | 0x15824     |       88100 |
 |      15 | 0x067E      |        1662 |
@@ -133,13 +133,13 @@
 |      33 | 0x007F      |         127 |
 |      34 | 0x0001      |           1 |
 |      35 | 0x0096      |         150 |
-|      36 | 0x2811      |       10257 |
+|      36 | 0x2812      |       10258 |
 |      37 | 0x0078      |         120 |
-|      38 | 0x2812      |       10258 |
+|      38 | 0x2813      |       10259 |
 |      39 | 0x0005      |           5 |
 |      40 | 0x0006      |           6 |
-|      41 | 0x2813      |       10259 |
-|      42 | 0x281A      |       10266 |
+|      41 | 0x2814      |       10260 |
+|      42 | 0x281B      |       10267 |
 |      43 | 0x0002      |           2 |
 |      44 | 0x0087      |         135 |
 |      45 | 0x003C      |          60 |
@@ -148,161 +148,161 @@
 |      48 | 0x0064      |         100 |
 |      49 | 0x0154      |         340 |
 |      50 | 0x00FA      |         250 |
-|      51 | 0x2814      |       10260 |
-|      52 | 0x2815      |       10261 |
-|      53 | 0x2816      |       10262 |
-|      54 | 0x2817      |       10263 |
-|      55 | 0x2818      |       10264 |
-|      56 | 0x2819      |       10265 |
-|      57 | 0x281B      |       10267 |
-|      58 | 0x281D      |       10269 |
-|      59 | 0x281E      |       10270 |
-|      60 | 0x281F      |       10271 |
-|      61 | 0x2820      |       10272 |
-|      62 | 0x2821      |       10273 |
-|      63 | 0x2822      |       10274 |
-|      64 | 0x2823      |       10275 |
-|      65 | 0x2824      |       10276 |
-|      66 | 0x2825      |       10277 |
-|      67 | 0x2826      |       10278 |
-|      68 | 0x2827      |       10279 |
-|      69 | 0x282C      |       10284 |
+|      51 | 0x2815      |       10261 |
+|      52 | 0x2816      |       10262 |
+|      53 | 0x2817      |       10263 |
+|      54 | 0x2818      |       10264 |
+|      55 | 0x2819      |       10265 |
+|      56 | 0x281A      |       10266 |
+|      57 | 0x281C      |       10268 |
+|      58 | 0x281E      |       10270 |
+|      59 | 0x281F      |       10271 |
+|      60 | 0x2820      |       10272 |
+|      61 | 0x2821      |       10273 |
+|      62 | 0x2822      |       10274 |
+|      63 | 0x2823      |       10275 |
+|      64 | 0x2824      |       10276 |
+|      65 | 0x2825      |       10277 |
+|      66 | 0x2826      |       10278 |
+|      67 | 0x2827      |       10279 |
+|      68 | 0x2828      |       10280 |
+|      69 | 0x282D      |       10285 |
 |      70 | 0x00C9      |         201 |
-|      71 | 0x2828      |       10280 |
-|      72 | 0x2829      |       10281 |
-|      73 | 0x282A      |       10282 |
-|      74 | 0x282B      |       10283 |
-|      75 | 0x282D      |       10285 |
-|      76 | 0x282E      |       10286 |
-|      77 | 0x282F      |       10287 |
-|      78 | 0x2830      |       10288 |
-|      79 | 0x2831      |       10289 |
-|      80 | 0x2832      |       10290 |
-|      81 | 0x2835      |       10293 |
-|      82 | 0x2838      |       10296 |
+|      71 | 0x2829      |       10281 |
+|      72 | 0x282A      |       10282 |
+|      73 | 0x282B      |       10283 |
+|      74 | 0x282C      |       10284 |
+|      75 | 0x282E      |       10286 |
+|      76 | 0x282F      |       10287 |
+|      77 | 0x2830      |       10288 |
+|      78 | 0x2831      |       10289 |
+|      79 | 0x2832      |       10290 |
+|      80 | 0x2833      |       10291 |
+|      81 | 0x2836      |       10294 |
+|      82 | 0x2839      |       10297 |
 |      83 | 0x00B0      |         176 |
 |      84 | 0x0028      |          40 |
 |      85 | 0x000A      |          10 |
-|      86 | 0x283F      |       10303 |
-|      87 | 0x2844      |       10308 |
-|      88 | 0x2833      |       10291 |
-|      89 | 0x2834      |       10292 |
-|      90 | 0x2836      |       10294 |
-|      91 | 0x2837      |       10295 |
-|      92 | 0x2839      |       10297 |
-|      93 | 0x283A      |       10298 |
-|      94 | 0x283B      |       10299 |
-|      95 | 0x283C      |       10300 |
-|      96 | 0x283D      |       10301 |
-|      97 | 0x283E      |       10302 |
-|      98 | 0x2840      |       10304 |
-|      99 | 0x2841      |       10305 |
-|     100 | 0x2842      |       10306 |
-|     101 | 0x2843      |       10307 |
-|     102 | 0x2845      |       10309 |
-|     103 | 0x2846      |       10310 |
-|     104 | 0x2847      |       10311 |
-|     105 | 0x2848      |       10312 |
-|     106 | 0x2849      |       10313 |
-|     107 | 0x284A      |       10314 |
-|     108 | 0x284B      |       10315 |
-|     109 | 0x284C      |       10316 |
-|     110 | 0x284D      |       10317 |
-|     111 | 0x284E      |       10318 |
-|     112 | 0x2851      |       10321 |
-|     113 | 0x2852      |       10322 |
-|     114 | 0x2853      |       10323 |
-|     115 | 0x2854      |       10324 |
-|     116 | 0x2855      |       10325 |
-|     117 | 0x2856      |       10326 |
-|     118 | 0x2A20      |       10784 |
-|     119 | 0x2A21      |       10785 |
-|     120 | 0x2A26      |       10790 |
-|     121 | 0x2A2B      |       10795 |
-|     122 | 0x2A2A      |       10794 |
+|      86 | 0x2840      |       10304 |
+|      87 | 0x2845      |       10309 |
+|      88 | 0x2834      |       10292 |
+|      89 | 0x2835      |       10293 |
+|      90 | 0x2837      |       10295 |
+|      91 | 0x2838      |       10296 |
+|      92 | 0x283A      |       10298 |
+|      93 | 0x283B      |       10299 |
+|      94 | 0x283C      |       10300 |
+|      95 | 0x283D      |       10301 |
+|      96 | 0x283E      |       10302 |
+|      97 | 0x283F      |       10303 |
+|      98 | 0x2841      |       10305 |
+|      99 | 0x2842      |       10306 |
+|     100 | 0x2843      |       10307 |
+|     101 | 0x2844      |       10308 |
+|     102 | 0x2846      |       10310 |
+|     103 | 0x2847      |       10311 |
+|     104 | 0x2848      |       10312 |
+|     105 | 0x2849      |       10313 |
+|     106 | 0x284A      |       10314 |
+|     107 | 0x284B      |       10315 |
+|     108 | 0x284C      |       10316 |
+|     109 | 0x284D      |       10317 |
+|     110 | 0x284E      |       10318 |
+|     111 | 0x284F      |       10319 |
+|     112 | 0x2852      |       10322 |
+|     113 | 0x2853      |       10323 |
+|     114 | 0x2854      |       10324 |
+|     115 | 0x2855      |       10325 |
+|     116 | 0x2856      |       10326 |
+|     117 | 0x2857      |       10327 |
+|     118 | 0x2A21      |       10785 |
+|     119 | 0x2A22      |       10786 |
+|     120 | 0x2A27      |       10791 |
+|     121 | 0x2A2C      |       10796 |
+|     122 | 0x2A2B      |       10795 |
 
 ## String References
 
-- **10249**: Beautiful maiden! Never did I dream that such a vision of loveliness would bedazzle mine eye in this Goddess-forsaken land!
-- **10250**: Let me introduce myself. My name is Magriffon. I wish I could tell you more, but I'm here on a top-secret mission of national importance.
-- **10251**: However, I cannot ignore a lady in need of assistance. If you ever need anything in this uncivilized wilderness, I would be honored to lend you my hand.
-- **10252**: I would show no mercy to the beast that even pondered laying a finger on your beautiful skin.
-- **10253**: Oh, why if it isn't a robust looking adventurer. I applaud you on what must have been a long journey to this uncivilized wilderness.
-- **10254**: Let me introduce myself. My name is Magriffon. I have been stationed in Kazham for several years on a top-secret mission of national importance.
-- **10255**: During that time, I have come to know the island fairly well. If there is anything I can assist you with, do not hesitate to ask.
-- **10256**: Many dangers lurk behind the beauty of the jungle. Take care when traveling alone.
-- **10257**: <Sigh>
-- **10258**: <Si\`gh>
-- **10259**: ...
-- **10260**: Like a beam of sunlight through the parting clouds, your smile warms my heart in my time of anguish.
-- **10261**: No, no. There is no need to worry about me. I will be fine...
-- **10262**: Oh, my beautiful <Player>! I knew from the moment I saw you that we were connected. I feel that only one such as you could understand what is troubling me.
-- **10263**: Why, if it is not the robust adventurer who stopped by the other day. You adventurers and your carefree spirits... Warms my heart in my time of anguish.
-- **10264**: No, no. There is no need to worry about me. I will be fine...
-- **10265**: I knew from the moment we first met that you were different from the others. I feel that only an honest, strong, and brave adventurer like yourself could understand what is troubling me.
-- **10266**: Lend Magriffon your ear? [Of course! What a gentleman!/Something's fishy...]
-- **10267**: Yes... A few days ago I was walking through the Yuhtunga Jungle.
-- **10269**: And then, out of thin air, appeared a group of these furry little beasts. I think the natives refer to them as Opo-opos.
-- **10270**: They told me that due to the recent influx of adventurers, the jungle was ravaged and their food supply was dwindling.
-- **10271**: I shed tears of pity at their sad, sad story. I felt as if I was obligated to pay for the atrocities that my fellow adventurers had committed. So, I proceeded in giving them all my belongings as a sign of peace.
-- **10272**: However, after I had returned from my journey, I realized that I had made an error in judgment. Within the bag that I had given the Opo-opos was my purse, containing all my gil...
-- **10273**: My fair <Player>. I haven't eaten a decent meal in three days, and the proprietor of this inn is threatening to throw me out if I do not pay her fee...
-- **10274**: However, deep down in my heart I do not regret what I have done for those poor beasts, and I would do the same again in a heartbeat.
-- **10275**: <Player>, my friend. I haven't eaten a decent meal in three days, and the proprietor of this inn is threatening to throw me out if I do not pay her fee...
-- **10276**: However, deep down in my heart I do not regret what I have done for those poor beasts, and I would do the same again in a heartbeat.
-- **10277**: I only regret that I was unable to fulfill my duty to my country!
-- **10278**: If I only had $1 gil... Yes, $1 gil. Then I could complete my mission, and I could save all those children...
-- **10279**: If I only had $1 gil, then I could complete my mission.
-- **10280**: It's a miracle! The Dawn Goddess has shone her light down upon me!
-- **10281**: <Player>! Your beauty comes second only to your generosity. I thank Altana for allowing our paths to cross.
-- **10282**: Your strength and bravery are matched only by your generosity and nobleness. I am proud to call <Player> a friend and an acquaintance.
-- **10283**: And now I can complete my mission.
-- **10284**: I promise you, [my friend/my sweet], that I will never forget your kindness, and I swear I will someday repay you for what you have done for me.
-- **10285**: Now I can complete my top-secret mission.
-- **10286**: I promise you, [my friend/my sweet], that I will never forget your kindness, and I swear I will someday repay you for what you have done for me.
-- **10287**: Ah, if it isn't [my dear friend/my darling,] <Player>. Are you off on another adventure for some poor soul? Remember that the more you give, the more you will get in return. This is the way the world works.
-- **10288**: This can be said of my encounter with those poor Opo-opos.
-- **10289**: Yes, they did walk off with [my beloved furnishing/one of my cards/the strange sand I found on one of my journeys/my pet frog/my belongings], but if it was not for that fateful day, I would have never met you and been graced by your [courage/beauty].
-- **10290**: A miracle it is! A miracle!
-- **10291**: If it isn't my [friend,/darling] <Player>! How fare your perilous adventures?
-- **10292**: Ah, yes. I have a piece of information that you might be interested in. Have you ever been to a place called Norg?
-- **10293**: Have you been there? [Yes./No.]
-- **10294**: You have? Then you must already know...
-- **10295**: You have not? Well, it is good that you came to me before you wandered in there unknowing. That place will make the hair on the back of your neck stand on end.
-- **10296**: Norg is a haven for the pirates that bring terror to all who travel the Bastore Sea.
-- **10297**: The other day, I was exploring the cave that is said to lead to their hideout...
-- **10298**: ...when I thought I heard a faint scream. I could not ignore this cry for help, and continued in the direction of the voice.
-- **10299**: That is when I saw her running towards me--a noble-looking woman in a bright green dress.
-- **10300**: She appeared to have been running for quite a distance. When she caught her breath she told me the following:
-- **10301**: "I am trying to escape from those evil men in Norg, but I think they are right behind me. Run, before they catch you talking with me."
-- **10302**: However, as you know, my conscience would not allow me to do such a selfish act.
-- **10303**: I moved in front of the mysterious woman and struck down her pursuers. Once I had handled every last one of them, I escorted the lady back to Kazham.
-- **10304**: I nursed her until she regained enough of her strength to return to her homeland of Jeuno.
-- **10305**: But before she parted, she presented me with this $3...
-- **10306**: However, I am on a top-secret mission for my country. I have no need of pirate treasure. As long as I have enough gil to pay for my room here at this fine establishment...
-- **10307**: An adventurer, such as yourself, could make better use of this map than I. What do you say? Would you be willing to exchange this map for a small amount of gil?
-- **10308**: "Exchange" gil for the map? [Yes./Not today.]
-- **10309**: Blessed again I am by the kindness of my [dear friend,/sweet] <Player>! A mere $4 gil should be sufficient for me to continue my crucial mission...
-- **10310**: I will exchange with you the $3 that I received in Norg for a mere $5 gil.
-- **10311**: What? You say that I must be crazy to give up a chance at a fortune for a small handful of gil? [My dear friend/My sweet], I am on a top-secret mission for my country. I have no need of pirate's treasure. As long as I have enough gil to pay for my room here at this fine establishment...
-- **10312**: Oh! You have made a noble decision. I am, once again, in your debt.
-- **10313**: The woman I saved... She risked her life to escape from Norg with this important $3.
-- **10314**: But there is only one way for you to truly realize the danger she faced. And that is finding out what is hidden at the end of this map.
-- **10315**: I hope whatever you find helps you fulfill your dreams. I wish only the best for my dear <Player>.
-- **10316**: Helping others when they face peril. Just as I helped that woman, you have helped me. Your actions reflect the true definition of chivalry!
-- **10317**: You have made a noble decision. I am, once again, in your debt. I hope whatever you find at the end of that map helps you fulfill your dreams.
-- **10318**: From what I can tell, the treasure is more than likely the long-lost... No, it could not be...
-- **10321**: You've found $1? Now whatever could you be speaking of?
-- **10322**: A-ah, yes! The $3! I see, I see. So the treasure was the rare $1. You are very lucky.
-- **10323**: That particular item can be sold for quite a nice profit at most shops.
-- **10324**: No, no. I need no thanks. May fortune shine upon all your journeys, [my friend/my sweet]!
-- **10325**: $1 can be sold for quite a nice profit at most shops.
-- **10326**: No, no. I need no thanks. May fortune shine upon all your journeys, [my friend/my sweet]!
-- **10784**: I shall take up their cause! I, Magriffon, shall build a bridge between the Moblins and the world of people.
-- **10785**: However... The plan I am about to tell you is of a delicate and daring nature, and will require a dose of phenomenal luck.
-- **10790**: With this $3 by your side, [my intoxicating flower/my resourceful hero], astounding fortune will be yours! I will let you purchase this wondrous treasure for a mere $2 gil!
-- **10794**: Hahaha! May dazzling fortune smile upon thee, my [reason for breathing/daring adventurer]!
-- **10795**: Let us overcome all obstacles that stand between us and the completion of our duty!
+- **10250**: Beautiful maiden! Never did I dream that such a vision of loveliness would bedazzle mine eye in this Goddess-forsaken land!
+- **10251**: Let me introduce myself. My name is Magriffon. I wish I could tell you more, but I'm here on a top-secret mission of national importance.
+- **10252**: However, I cannot ignore a lady in need of assistance. If you ever need anything in this uncivilized wilderness, I would be honored to lend you my hand.
+- **10253**: I would show no mercy to the beast that even pondered laying a finger on your beautiful skin.
+- **10254**: Oh, why if it isn't a robust looking adventurer. I applaud you on what must have been a long journey to this uncivilized wilderness.
+- **10255**: Let me introduce myself. My name is Magriffon. I have been stationed in Kazham for several years on a top-secret mission of national importance.
+- **10256**: During that time, I have come to know the island fairly well. If there is anything I can assist you with, do not hesitate to ask.
+- **10257**: Many dangers lurk behind the beauty of the jungle. Take care when traveling alone.
+- **10258**: <Sigh>
+- **10259**: <Si\`gh>
+- **10260**: ...
+- **10261**: Like a beam of sunlight through the parting clouds, your smile warms my heart in my time of anguish.
+- **10262**: No, no. There is no need to worry about me. I will be fine...
+- **10263**: Oh, my beautiful <Player>! I knew from the moment I saw you that we were connected. I feel that only one such as you could understand what is troubling me.
+- **10264**: Why, if it is not the robust adventurer who stopped by the other day. You adventurers and your carefree spirits... Warms my heart in my time of anguish.
+- **10265**: No, no. There is no need to worry about me. I will be fine...
+- **10266**: I knew from the moment we first met that you were different from the others. I feel that only an honest, strong, and brave adventurer like yourself could understand what is troubling me.
+- **10267**: Lend Magriffon your ear? [Of course! What a gentleman!/Something's fishy...]
+- **10268**: Yes... A few days ago I was walking through the Yuhtunga Jungle.
+- **10270**: And then, out of thin air, appeared a group of these furry little beasts. I think the natives refer to them as Opo-opos.
+- **10271**: They told me that due to the recent influx of adventurers, the jungle was ravaged and their food supply was dwindling.
+- **10272**: I shed tears of pity at their sad, sad story. I felt as if I was obligated to pay for the atrocities that my fellow adventurers had committed. So, I proceeded in giving them all my belongings as a sign of peace.
+- **10273**: However, after I had returned from my journey, I realized that I had made an error in judgment. Within the bag that I had given the Opo-opos was my purse, containing all my gil...
+- **10274**: My fair <Player>. I haven't eaten a decent meal in three days, and the proprietor of this inn is threatening to throw me out if I do not pay her fee...
+- **10275**: However, deep down in my heart I do not regret what I have done for those poor beasts, and I would do the same again in a heartbeat.
+- **10276**: <Player>, my friend. I haven't eaten a decent meal in three days, and the proprietor of this inn is threatening to throw me out if I do not pay her fee...
+- **10277**: However, deep down in my heart I do not regret what I have done for those poor beasts, and I would do the same again in a heartbeat.
+- **10278**: I only regret that I was unable to fulfill my duty to my country!
+- **10279**: If I only had $1 gil... Yes, $1 gil. Then I could complete my mission, and I could save all those children...
+- **10280**: If I only had $1 gil, then I could complete my mission.
+- **10281**: It's a miracle! The Dawn Goddess has shone her light down upon me!
+- **10282**: <Player>! Your beauty comes second only to your generosity. I thank Altana for allowing our paths to cross.
+- **10283**: Your strength and bravery are matched only by your generosity and nobleness. I am proud to call <Player> a friend and an acquaintance.
+- **10284**: And now I can complete my mission.
+- **10285**: I promise you, [my friend/my sweet], that I will never forget your kindness, and I swear I will someday repay you for what you have done for me.
+- **10286**: Now I can complete my top-secret mission.
+- **10287**: I promise you, [my friend/my sweet], that I will never forget your kindness, and I swear I will someday repay you for what you have done for me.
+- **10288**: Ah, if it isn't [my dear friend/my darling,] <Player>. Are you off on another adventure for some poor soul? Remember that the more you give, the more you will get in return. This is the way the world works.
+- **10289**: This can be said of my encounter with those poor Opo-opos.
+- **10290**: Yes, they did walk off with [my beloved furnishing/one of my cards/the strange sand I found on one of my journeys/my pet frog/my belongings], but if it was not for that fateful day, I would have never met you and been graced by your [courage/beauty].
+- **10291**: A miracle it is! A miracle!
+- **10292**: If it isn't my [friend,/darling] <Player>! How fare your perilous adventures?
+- **10293**: Ah, yes. I have a piece of information that you might be interested in. Have you ever been to a place called Norg?
+- **10294**: Have you been there? [Yes./No.]
+- **10295**: You have? Then you must already know...
+- **10296**: You have not? Well, it is good that you came to me before you wandered in there unknowing. That place will make the hair on the back of your neck stand on end.
+- **10297**: Norg is a haven for the pirates that bring terror to all who travel the Bastore Sea.
+- **10298**: The other day, I was exploring the cave that is said to lead to their hideout...
+- **10299**: ...when I thought I heard a faint scream. I could not ignore this cry for help, and continued in the direction of the voice.
+- **10300**: That is when I saw her running towards me--a noble-looking woman in a bright green dress.
+- **10301**: She appeared to have been running for quite a distance. When she caught her breath she told me the following:
+- **10302**: "I am trying to escape from those evil men in Norg, but I think they are right behind me. Run, before they catch you talking with me."
+- **10303**: However, as you know, my conscience would not allow me to do such a selfish act.
+- **10304**: I moved in front of the mysterious woman and struck down her pursuers. Once I had handled every last one of them, I escorted the lady back to Kazham.
+- **10305**: I nursed her until she regained enough of her strength to return to her homeland of Jeuno.
+- **10306**: But before she parted, she presented me with this $3...
+- **10307**: However, I am on a top-secret mission for my country. I have no need of pirate treasure. As long as I have enough gil to pay for my room here at this fine establishment...
+- **10308**: An adventurer, such as yourself, could make better use of this map than I. What do you say? Would you be willing to exchange this map for a small amount of gil?
+- **10309**: "Exchange" gil for the map? [Yes./Not today.]
+- **10310**: Blessed again I am by the kindness of my [dear friend,/sweet] <Player>! A mere $4 gil should be sufficient for me to continue my crucial mission...
+- **10311**: I will exchange with you the $3 that I received in Norg for a mere $5 gil.
+- **10312**: What? You say that I must be crazy to give up a chance at a fortune for a small handful of gil? [My dear friend/My sweet], I am on a top-secret mission for my country. I have no need of pirate's treasure. As long as I have enough gil to pay for my room here at this fine establishment...
+- **10313**: Oh! You have made a noble decision. I am, once again, in your debt.
+- **10314**: The woman I saved... She risked her life to escape from Norg with this important $3.
+- **10315**: But there is only one way for you to truly realize the danger she faced. And that is finding out what is hidden at the end of this map.
+- **10316**: I hope whatever you find helps you fulfill your dreams. I wish only the best for my dear <Player>.
+- **10317**: Helping others when they face peril. Just as I helped that woman, you have helped me. Your actions reflect the true definition of chivalry!
+- **10318**: You have made a noble decision. I am, once again, in your debt. I hope whatever you find at the end of that map helps you fulfill your dreams.
+- **10319**: From what I can tell, the treasure is more than likely the long-lost... No, it could not be...
+- **10322**: You've found $1? Now whatever could you be speaking of?
+- **10323**: A-ah, yes! The $3! I see, I see. So the treasure was the rare $1. You are very lucky.
+- **10324**: That particular item can be sold for quite a nice profit at most shops.
+- **10325**: No, no. I need no thanks. May fortune shine upon all your journeys, [my friend/my sweet]!
+- **10326**: $1 can be sold for quite a nice profit at most shops.
+- **10327**: No, no. I need no thanks. May fortune shine upon all your journeys, [my friend/my sweet]!
+- **10785**: I shall take up their cause! I, Magriffon, shall build a bridge between the Moblins and the world of people.
+- **10786**: However... The plan I am about to tell you is of a delicate and daring nature, and will require a dose of phenomenal luck.
+- **10791**: With this $3 by your side, [my intoxicating flower/my resourceful hero], astounding fortune will be yours! I will let you purchase this wondrous treasure for a mere $2 gil!
+- **10795**: Hahaha! May dazzling fortune smile upon thee, my [reason for breathing/daring adventurer]!
+- **10796**: Let us overcome all obstacles that stand between us and the completion of our duty!
 
 ## Events
 
@@ -865,37 +865,37 @@
   3: 0x0145 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
   4: 0x014C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0191
   5: 0x0154 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x14)
-  6: 0x015B [0x1D] PRINT_EVENT_MESSAGE(message_id=10249*)
+  6: 0x015B [0x1D] PRINT_EVENT_MESSAGE(message_id=10250*)
     → "Beautiful maiden! Never did I dream that such a vision of loveliness would bedazzle mine eye in this Goddess-forsaken land!"
   7: 0x015E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x015F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x15)
-  9: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=10250*)
+  9: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=10251*)
     → "Let me introduce myself. My name is Magriffon. I wish I could tell you more, but I'm here on a top-secret mission of national importance."
  10: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x016A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x01)
- 12: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=10251*)
+ 12: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=10252*)
     → "However, I cannot ignore a lady in need of assistance. If you ever need anything in this uncivilized wilderness, I would be honored to lend you my hand."
  13: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0175 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x02)
  15: 0x017C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x14)
- 16: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=10252*)
+ 16: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=10253*)
     → "I would show no mercy to the beast that even pondered laying a finger on your beautiful skin."
  17: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0187 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x15)
  19: 0x018E [0x01] GOTO 0x01BD
  20: 0x0191 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x14)
- 21: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=10253*)
+ 21: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=10254*)
     → "Oh, why if it isn't a robust looking adventurer. I applaud you on what must have been a long journey to this uncivilized wilderness."
  22: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=10254*)
+ 23: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=10255*)
     → "Let me introduce myself. My name is Magriffon. I have been stationed in Kazham for several years on a top-secret mission of national importance."
  24: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x01A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x15)
- 26: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10255*)
+ 26: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10256*)
     → "During that time, I have come to know the island fairly well. If there is anything I can assist you with, do not hesitate to ask."
  27: 0x01AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x01AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x01)
- 29: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10256*)
+ 29: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10257*)
     → "Many dangers lurk behind the beauty of the jungle. Take care when traveling alone."
  30: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x01B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x02)
@@ -1122,14 +1122,14 @@ SUBROUTINE_01BD:
  26: 0x0267 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  27: 0x0278 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  28: 0x0289 [0x1C] WAIT(200* ticks)
- 29: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=10257*)
+ 29: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
     → "<Sigh>"
  30: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0290 [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=150*
  32: 0x029F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  33: 0x02B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  34: 0x02C1 [0x1C] WAIT(120* ticks)
- 35: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
+ 35: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10259*)
     → "<Si`gh>"
  36: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x02C8 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=150*
@@ -1145,7 +1145,7 @@ SUBROUTINE_01BD:
 SUBROUTINE_0331:
  46: 0x0331 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x05)
  47: 0x0338 [0x7C] EventEntity->Render.Flags2 |= 0x00
- 48: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=10259*)
+ 48: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=10260*)
     → "..."
  49: 0x0341 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0342 [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -1204,7 +1204,7 @@ SUBROUTINE_04A5:
  95: 0x04D9 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=150*
 
 SUBROUTINE_04E8:
- 96: 0x04E8 [0x24] CREATE_DIALOG(message_id=10266*, default_option=0*, option_flags=0*)
+ 96: 0x04E8 [0x24] CREATE_DIALOG(message_id=10267*, default_option=0*, option_flags=0*)
     → "Lend Magriffon your ear? [Of course! What a gentleman!/Something's fishy...]"
  97: 0x04EF [0x25] WAIT_DIALOG_SELECT()
  98: 0x04F0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0500
@@ -1384,7 +1384,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0929 [0x1D] PRINT_EVENT_MESSAGE(message_id=10260*)
+  0: 0x0929 [0x1D] PRINT_EVENT_MESSAGE(message_id=10261*)
     → "Like a beam of sunlight through the parting clouds, your smile warms my heart in my time of anguish."
   1: 0x092C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x092D [0x00] END_REQSTACK()
@@ -1410,7 +1410,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x092E [0x1D] PRINT_EVENT_MESSAGE(message_id=10261*)
+  0: 0x092E [0x1D] PRINT_EVENT_MESSAGE(message_id=10262*)
     → "No, no. There is no need to worry about me. I will be fine..."
   1: 0x0931 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0932 [0x00] END_REQSTACK()
@@ -1435,7 +1435,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0933 [0x1D] PRINT_EVENT_MESSAGE(message_id=10262*)
+  0: 0x0933 [0x1D] PRINT_EVENT_MESSAGE(message_id=10263*)
     → "Oh, my beautiful <Player>! I knew from the moment I saw you that we were connected. I feel that only one such as you could understand what is troubling me."
   1: 0x0936 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0937 [0x00] END_REQSTACK()
@@ -1460,7 +1460,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0938 [0x1D] PRINT_EVENT_MESSAGE(message_id=10263*)
+  0: 0x0938 [0x1D] PRINT_EVENT_MESSAGE(message_id=10264*)
     → "Why, if it is not the robust adventurer who stopped by the other day. You adventurers and your carefree spirits... Warms my heart in my time of anguish."
   1: 0x093B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x093C [0x00] END_REQSTACK()
@@ -1486,7 +1486,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x093D [0x1D] PRINT_EVENT_MESSAGE(message_id=10264*)
+  0: 0x093D [0x1D] PRINT_EVENT_MESSAGE(message_id=10265*)
     → "No, no. There is no need to worry about me. I will be fine..."
   1: 0x0940 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0941 [0x00] END_REQSTACK()
@@ -1511,7 +1511,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0942 [0x1D] PRINT_EVENT_MESSAGE(message_id=10265*)
+  0: 0x0942 [0x1D] PRINT_EVENT_MESSAGE(message_id=10266*)
     → "I knew from the moment we first met that you were different from the others. I feel that only an honest, strong, and brave adventurer like yourself could understand what is troubling me."
   1: 0x0945 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0946 [0x00] END_REQSTACK()
@@ -1536,7 +1536,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0947 [0x1D] PRINT_EVENT_MESSAGE(message_id=10267*)
+  0: 0x0947 [0x1D] PRINT_EVENT_MESSAGE(message_id=10268*)
     → "Yes... A few days ago I was walking through the Yuhtunga Jungle."
   1: 0x094A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x094B [0x00] END_REQSTACK()
@@ -1562,7 +1562,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x094C [0x1D] PRINT_EVENT_MESSAGE(message_id=10269*)
+  0: 0x094C [0x1D] PRINT_EVENT_MESSAGE(message_id=10270*)
     → "And then, out of thin air, appeared a group of these furry little beasts. I think the natives refer to them as Opo-opos."
   1: 0x094F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0950 [0x00] END_REQSTACK()
@@ -1587,7 +1587,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0951 [0x1D] PRINT_EVENT_MESSAGE(message_id=10270*)
+  0: 0x0951 [0x1D] PRINT_EVENT_MESSAGE(message_id=10271*)
     → "They told me that due to the recent influx of adventurers, the jungle was ravaged and their food supply was dwindling."
   1: 0x0954 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0955 [0x00] END_REQSTACK()
@@ -1612,7 +1612,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0956 [0x1D] PRINT_EVENT_MESSAGE(message_id=10271*)
+  0: 0x0956 [0x1D] PRINT_EVENT_MESSAGE(message_id=10272*)
     → "I shed tears of pity at their sad, sad story. I felt as if I was obligated to pay for the atrocities that my fellow adventurers had committed. So, I proceeded in giving them all my belongings as a sign of peace."
   1: 0x0959 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x095A [0x00] END_REQSTACK()
@@ -1637,7 +1637,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x095B [0x1D] PRINT_EVENT_MESSAGE(message_id=10272*)
+  0: 0x095B [0x1D] PRINT_EVENT_MESSAGE(message_id=10273*)
     → "However, after I had returned from my journey, I realized that I had made an error in judgment. Within the bag that I had given the Opo-opos was my purse, containing all my gil..."
   1: 0x095E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x095F [0x00] END_REQSTACK()
@@ -1662,10 +1662,10 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0960 [0x1D] PRINT_EVENT_MESSAGE(message_id=10273*)
+  0: 0x0960 [0x1D] PRINT_EVENT_MESSAGE(message_id=10274*)
     → "My fair <Player>. I haven't eaten a decent meal in three days, and the proprietor of this inn is threatening to throw me out if I do not pay her fee..."
   1: 0x0963 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=10274*)
+  2: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=10275*)
     → "However, deep down in my heart I do not regret what I have done for those poor beasts, and I would do the same again in a heartbeat."
   3: 0x0967 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0968 [0x00] END_REQSTACK()
@@ -1691,10 +1691,10 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0969 [0x1D] PRINT_EVENT_MESSAGE(message_id=10275*)
+  0: 0x0969 [0x1D] PRINT_EVENT_MESSAGE(message_id=10276*)
     → "<Player>, my friend. I haven't eaten a decent meal in three days, and the proprietor of this inn is threatening to throw me out if I do not pay her fee..."
   1: 0x096C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x096D [0x1D] PRINT_EVENT_MESSAGE(message_id=10276*)
+  2: 0x096D [0x1D] PRINT_EVENT_MESSAGE(message_id=10277*)
     → "However, deep down in my heart I do not regret what I have done for those poor beasts, and I would do the same again in a heartbeat."
   3: 0x0970 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0971 [0x00] END_REQSTACK()
@@ -1719,7 +1719,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0972 [0x1D] PRINT_EVENT_MESSAGE(message_id=10277*)
+  0: 0x0972 [0x1D] PRINT_EVENT_MESSAGE(message_id=10278*)
     → "I only regret that I was unable to fulfill my duty to my country!"
   1: 0x0975 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0976 [0x00] END_REQSTACK()
@@ -1744,7 +1744,7 @@ SUBROUTINE_086B:
 #### Opcodes
 
 ```
-  0: 0x0977 [0x1D] PRINT_EVENT_MESSAGE(message_id=10278*)
+  0: 0x0977 [0x1D] PRINT_EVENT_MESSAGE(message_id=10279*)
     → "If I only had $1 gil... Yes, $1 gil. Then I could complete my mission, and I could save all those children..."
   1: 0x097A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x097B [0x00] END_REQSTACK()
@@ -1776,7 +1776,7 @@ SUBROUTINE_086B:
   1: 0x0981 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0982 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0983 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x03)
-  4: 0x098A [0x1D] PRINT_EVENT_MESSAGE(message_id=10279*)
+  4: 0x098A [0x1D] PRINT_EVENT_MESSAGE(message_id=10280*)
     → "If I only had $1 gil, then I could complete my mission."
   5: 0x098D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x098E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x04)
@@ -1894,7 +1894,7 @@ SUBROUTINE_0B00:
  49: 0x0B11 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x01)
  50: 0x0B18 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x2E)
  51: 0x0B1F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x02)
- 52: 0x0B26 [0x1D] PRINT_EVENT_MESSAGE(message_id=10284*)
+ 52: 0x0B26 [0x1D] PRINT_EVENT_MESSAGE(message_id=10285*)
     → "I promise you, [my friend/my sweet], that I will never forget your kindness, and I swear I will someday repay you for what you have done for me."
  53: 0x0B29 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0B2A [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -1932,7 +1932,7 @@ SUBROUTINE_0B00:
 #### Opcodes
 
 ```
-  0: 0x0B8A [0x1D] PRINT_EVENT_MESSAGE(message_id=10280*)
+  0: 0x0B8A [0x1D] PRINT_EVENT_MESSAGE(message_id=10281*)
     → "It's a miracle! The Dawn Goddess has shone her light down upon me!"
   1: 0x0B8D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B8E [0x00] END_REQSTACK()
@@ -1958,7 +1958,7 @@ SUBROUTINE_0B00:
 #### Opcodes
 
 ```
-  0: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=10281*)
+  0: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=10282*)
     → "<Player>! Your beauty comes second only to your generosity. I thank Altana for allowing our paths to cross."
   1: 0x0B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B93 [0x00] END_REQSTACK()
@@ -1983,7 +1983,7 @@ SUBROUTINE_0B00:
 #### Opcodes
 
 ```
-  0: 0x0B94 [0x1D] PRINT_EVENT_MESSAGE(message_id=10282*)
+  0: 0x0B94 [0x1D] PRINT_EVENT_MESSAGE(message_id=10283*)
     → "Your strength and bravery are matched only by your generosity and nobleness. I am proud to call <Player> a friend and an acquaintance."
   1: 0x0B97 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B98 [0x00] END_REQSTACK()
@@ -2008,7 +2008,7 @@ SUBROUTINE_0B00:
 #### Opcodes
 
 ```
-  0: 0x0B99 [0x1D] PRINT_EVENT_MESSAGE(message_id=10283*)
+  0: 0x0B99 [0x1D] PRINT_EVENT_MESSAGE(message_id=10284*)
     → "And now I can complete my mission."
   1: 0x0B9C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B9D [0x00] END_REQSTACK()
@@ -2041,10 +2041,10 @@ SUBROUTINE_0B00:
   2: 0x0BA4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0BA5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
   4: 0x0BAC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x14)
-  5: 0x0BB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10285*)
+  5: 0x0BB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10286*)
     → "Now I can complete my top-secret mission."
   6: 0x0BB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0BB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10286*)
+  7: 0x0BB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10287*)
     → "I promise you, [my friend/my sweet], that I will never forget your kindness, and I swear I will someday repay you for what you have done for me."
   8: 0x0BBA [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0BBB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x15)
@@ -2082,21 +2082,21 @@ SUBROUTINE_0B00:
   2: 0x0BCC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0BCD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
   4: 0x0BD4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x14)
-  5: 0x0BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=10287*)
+  5: 0x0BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=10288*)
     → "Ah, if it isn't [my dear friend/my darling,] <Player>. Are you off on another adventure for some poor soul? Remember that the more you give, the more you will get in return. This is the way the world works."
   6: 0x0BDE [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0BDF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x15)
   8: 0x0BE6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x01)
-  9: 0x0BED [0x1D] PRINT_EVENT_MESSAGE(message_id=10288*)
+  9: 0x0BED [0x1D] PRINT_EVENT_MESSAGE(message_id=10289*)
     → "This can be said of my encounter with those poor Opo-opos."
  10: 0x0BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0BF1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x02)
  12: 0x0BF8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x11)
- 13: 0x0BFF [0x1D] PRINT_EVENT_MESSAGE(message_id=10289*)
+ 13: 0x0BFF [0x1D] PRINT_EVENT_MESSAGE(message_id=10290*)
     → "Yes, they did walk off with [my beloved furnishing/one of my cards/the strange sand I found on one of my journeys/my pet frog/my belongings], but if it was not for that fateful day, I would have never met you and been graced by your [courage/beauty]."
  14: 0x0C02 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0C03 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x12)
- 16: 0x0C0A [0x1D] PRINT_EVENT_MESSAGE(message_id=10290*)
+ 16: 0x0C0A [0x1D] PRINT_EVENT_MESSAGE(message_id=10291*)
     → "A miracle it is! A miracle!"
  17: 0x0C0D [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0C0E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2255,14 +2255,14 @@ SUBROUTINE_0B00:
  26: 0x0C96 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  27: 0x0CA7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  28: 0x0CB8 [0x1C] WAIT(200* ticks)
- 29: 0x0CBB [0x1D] PRINT_EVENT_MESSAGE(message_id=10257*)
+ 29: 0x0CBB [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
     → "<Sigh>"
  30: 0x0CBE [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0CBF [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=150*
  32: 0x0CCE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  33: 0x0CDF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  34: 0x0CF0 [0x1C] WAIT(120* ticks)
- 35: 0x0CF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
+ 35: 0x0CF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10259*)
     → "<Si`gh>"
  36: 0x0CF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0CF7 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=150*
@@ -2278,7 +2278,7 @@ SUBROUTINE_0B00:
 SUBROUTINE_0D60:
  46: 0x0D60 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x05)
  47: 0x0D67 [0x7C] EventEntity->Render.Flags2 |= 0x00
- 48: 0x0D6D [0x1D] PRINT_EVENT_MESSAGE(message_id=10259*)
+ 48: 0x0D6D [0x1D] PRINT_EVENT_MESSAGE(message_id=10260*)
     → "..."
  49: 0x0D70 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0D71 [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -2321,7 +2321,7 @@ SUBROUTINE_0E4E:
  83: 0x0E97 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=150*
 
 SUBROUTINE_0EA6:
- 84: 0x0EA6 [0x24] CREATE_DIALOG(message_id=10293*, default_option=1*, option_flags=0*)
+ 84: 0x0EA6 [0x24] CREATE_DIALOG(message_id=10294*, default_option=1*, option_flags=0*)
     → "Have you been there? [Yes./No.]"
  85: 0x0EAD [0x25] WAIT_DIALOG_SELECT()
  86: 0x0EAE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0ED8
@@ -2336,7 +2336,7 @@ SUBROUTINE_0EA6:
  95: 0x0EFF [0x01] GOTO 0x0F02
 
 SUBROUTINE_0F02:
- 96: 0x0F02 [0x1D] PRINT_EVENT_MESSAGE(message_id=10296*)
+ 96: 0x0F02 [0x1D] PRINT_EVENT_MESSAGE(message_id=10297*)
     → "Norg is a haven for the pirates that bring terror to all who travel the Bastore Sea."
  97: 0x0F05 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0F06 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=150*
@@ -2393,7 +2393,7 @@ SUBROUTINE_0F02:
 149: 0x107F [0x52] END_LOAD_SCHEDULER: End scheduler "s049" with entities [LocalPlayer, LocalPlayer], work=150*
 150: 0x108E [0x27] REQ_SET(priority=0x08, entity_id=Kihujin (ID: 17801269/0x010FA035), tag_num=0x0B)
 151: 0x1095 [0x27] REQ_SET(priority=0x0B, entity_id=Magriffon (ID: 17801268/0x010FA034), tag_num=0x0B)
-152: 0x109C [0x2B] Magriffon (ID: 17801262/0x010FA02E) [10303*]:
+152: 0x109C [0x2B] Magriffon (ID: 17801262/0x010FA02E) [10304*]:
     → "I moved in front of the mysterious woman and struck down her pursuers. Once I had handled every last one of them, I escorted the lady back to Kazham."
 153: 0x10A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x10A4 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Magriffon (ID: 17801268/0x010FA034))
@@ -2432,7 +2432,7 @@ SUBROUTINE_0F02:
 187: 0x1198 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x01)
 188: 0x119F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x40)
 189: 0x11A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x02)
-190: 0x11AD [0x24] CREATE_DIALOG(message_id=10308*, default_option=0*, option_flags=0*)
+190: 0x11AD [0x24] CREATE_DIALOG(message_id=10309*, default_option=0*, option_flags=0*)
     → ""Exchange" gil for the map? [Yes./Not today.]"
 191: 0x11B4 [0x25] WAIT_DIALOG_SELECT()
 192: 0x11B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11EC
@@ -2498,7 +2498,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x128B [0x1D] PRINT_EVENT_MESSAGE(message_id=10291*)
+  0: 0x128B [0x1D] PRINT_EVENT_MESSAGE(message_id=10292*)
     → "If it isn't my [friend,/darling] <Player>! How fare your perilous adventures?"
   1: 0x128E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x128F [0x00] END_REQSTACK()
@@ -2523,7 +2523,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x1290 [0x1D] PRINT_EVENT_MESSAGE(message_id=10292*)
+  0: 0x1290 [0x1D] PRINT_EVENT_MESSAGE(message_id=10293*)
     → "Ah, yes. I have a piece of information that you might be interested in. Have you ever been to a place called Norg?"
   1: 0x1293 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1294 [0x00] END_REQSTACK()
@@ -2548,7 +2548,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x1295 [0x1D] PRINT_EVENT_MESSAGE(message_id=10294*)
+  0: 0x1295 [0x1D] PRINT_EVENT_MESSAGE(message_id=10295*)
     → "You have? Then you must already know..."
   1: 0x1298 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1299 [0x00] END_REQSTACK()
@@ -2573,7 +2573,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x129A [0x1D] PRINT_EVENT_MESSAGE(message_id=10295*)
+  0: 0x129A [0x1D] PRINT_EVENT_MESSAGE(message_id=10296*)
     → "You have not? Well, it is good that you came to me before you wandered in there unknowing. That place will make the hair on the back of your neck stand on end."
   1: 0x129D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x129E [0x00] END_REQSTACK()
@@ -2599,7 +2599,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x129F [0x1D] PRINT_EVENT_MESSAGE(message_id=10297*)
+  0: 0x129F [0x1D] PRINT_EVENT_MESSAGE(message_id=10298*)
     → "The other day, I was exploring the cave that is said to lead to their hideout..."
   1: 0x12A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12A3 [0x00] END_REQSTACK()
@@ -2624,7 +2624,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10298*)
+  0: 0x12A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10299*)
     → "...when I thought I heard a faint scream. I could not ignore this cry for help, and continued in the direction of the voice."
   1: 0x12A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12A8 [0x00] END_REQSTACK()
@@ -2649,7 +2649,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10299*)
+  0: 0x12A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10300*)
     → "That is when I saw her running towards me--a noble-looking woman in a bright green dress."
   1: 0x12AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12AD [0x00] END_REQSTACK()
@@ -2675,7 +2675,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10300*)
+  0: 0x12AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10301*)
     → "She appeared to have been running for quite a distance. When she caught her breath she told me the following:"
   1: 0x12B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12B2 [0x00] END_REQSTACK()
@@ -2700,7 +2700,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10301*)
+  0: 0x12B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10302*)
     → ""I am trying to escape from those evil men in Norg, but I think they are right behind me. Run, before they catch you talking with me.""
   1: 0x12B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12B7 [0x00] END_REQSTACK()
@@ -2725,7 +2725,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10302*)
+  0: 0x12B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10303*)
     → "However, as you know, my conscience would not allow me to do such a selfish act."
   1: 0x12BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12BC [0x00] END_REQSTACK()
@@ -2751,7 +2751,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10303*)
+  0: 0x12BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10304*)
     → "I moved in front of the mysterious woman and struck down her pursuers. Once I had handled every last one of them, I escorted the lady back to Kazham."
   1: 0x12C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12C1 [0x00] END_REQSTACK()
@@ -2776,7 +2776,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10304*)
+  0: 0x12C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10305*)
     → "I nursed her until she regained enough of her strength to return to her homeland of Jeuno."
   1: 0x12C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12C6 [0x00] END_REQSTACK()
@@ -2801,7 +2801,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10305*)
+  0: 0x12C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10306*)
     → "But before she parted, she presented me with this $3..."
   1: 0x12CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12CB [0x00] END_REQSTACK()
@@ -2827,7 +2827,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10306*)
+  0: 0x12CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10307*)
     → "However, I am on a top-secret mission for my country. I have no need of pirate treasure. As long as I have enough gil to pay for my room here at this fine establishment..."
   1: 0x12CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12D0 [0x00] END_REQSTACK()
@@ -2852,7 +2852,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10307*)
+  0: 0x12D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10308*)
     → "An adventurer, such as yourself, could make better use of this map than I. What do you say? Would you be willing to exchange this map for a small amount of gil?"
   1: 0x12D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12D5 [0x00] END_REQSTACK()
@@ -2877,7 +2877,7 @@ SUBROUTINE_123C:
 #### Opcodes
 
 ```
-  0: 0x12D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10309*)
+  0: 0x12D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10310*)
     → "Blessed again I am by the kindness of my [dear friend,/sweet] <Player>! A mere $4 gil should be sufficient for me to continue my crucial mission..."
   1: 0x12D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12DA [0x00] END_REQSTACK()
@@ -2911,12 +2911,12 @@ SUBROUTINE_123C:
   2: 0x12E1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x12E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
   4: 0x12E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x14)
-  5: 0x12F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10310*)
+  5: 0x12F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10311*)
     → "I will exchange with you the $3 that I received in Norg for a mere $5 gil."
   6: 0x12F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x12F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x15)
   8: 0x12FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x01)
-  9: 0x1302 [0x1D] PRINT_EVENT_MESSAGE(message_id=10311*)
+  9: 0x1302 [0x1D] PRINT_EVENT_MESSAGE(message_id=10312*)
     → "What? You say that I must be crazy to give up a chance at a fortune for a small handful of gil? [My dear friend/My sweet], I am on a top-secret mission for my country. I have no need of pirate's treasure. As long as I have enough gil to pay for my room here at this fine establishment..."
  10: 0x1305 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1306 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x02)
@@ -2956,27 +2956,27 @@ SUBROUTINE_123C:
   3: 0x1318 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x1319 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
   5: 0x1320 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x07)
-  6: 0x1327 [0x1D] PRINT_EVENT_MESSAGE(message_id=10312*)
+  6: 0x1327 [0x1D] PRINT_EVENT_MESSAGE(message_id=10313*)
     → "Oh! You have made a noble decision. I am, once again, in your debt."
   7: 0x132A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x132B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x08)
   9: 0x1332 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x03)
- 10: 0x1339 [0x1D] PRINT_EVENT_MESSAGE(message_id=10313*)
+ 10: 0x1339 [0x1D] PRINT_EVENT_MESSAGE(message_id=10314*)
     → "The woman I saved... She risked her life to escape from Norg with this important $3."
  11: 0x133C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x133D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x04)
  13: 0x1344 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x05)
- 14: 0x134B [0x1D] PRINT_EVENT_MESSAGE(message_id=10314*)
+ 14: 0x134B [0x1D] PRINT_EVENT_MESSAGE(message_id=10315*)
     → "But there is only one way for you to truly realize the danger she faced. And that is finding out what is hidden at the end of this map."
  15: 0x134E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x134F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x06)
  17: 0x1356 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x01)
  18: 0x135D [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x136C
- 19: 0x1365 [0x1D] PRINT_EVENT_MESSAGE(message_id=10315*)
+ 19: 0x1365 [0x1D] PRINT_EVENT_MESSAGE(message_id=10316*)
     → "I hope whatever you find helps you fulfill your dreams. I wish only the best for my dear <Player>."
  20: 0x1368 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x1369 [0x01] GOTO 0x1370
- 22: 0x136C [0x1D] PRINT_EVENT_MESSAGE(message_id=10316*)
+ 22: 0x136C [0x1D] PRINT_EVENT_MESSAGE(message_id=10317*)
     → "Helping others when they face peril. Just as I helped that woman, you have helped me. Your actions reflect the true definition of chivalry!"
  23: 0x136F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3013,11 +3013,11 @@ SUBROUTINE_1370:
   1: 0x1380 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1381 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1382 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
-  4: 0x1389 [0x1D] PRINT_EVENT_MESSAGE(message_id=10317*)
+  4: 0x1389 [0x1D] PRINT_EVENT_MESSAGE(message_id=10318*)
     → "You have made a noble decision. I am, once again, in your debt. I hope whatever you find at the end of that map helps you fulfill your dreams."
   5: 0x138C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x138D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x01)
-  7: 0x1394 [0x1D] PRINT_EVENT_MESSAGE(message_id=10318*)
+  7: 0x1394 [0x1D] PRINT_EVENT_MESSAGE(message_id=10319*)
     → "From what I can tell, the treasure is more than likely the long-lost... No, it could not be..."
   8: 0x1397 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1398 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x02)
@@ -3183,7 +3183,7 @@ SUBROUTINE_15A8:
 #### Opcodes
 
 ```
-  0: 0x15E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10321*)
+  0: 0x15E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10322*)
     → "You've found $1? Now whatever could you be speaking of?"
   1: 0x15E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x15E4 [0x00] END_REQSTACK()
@@ -3208,7 +3208,7 @@ SUBROUTINE_15A8:
 #### Opcodes
 
 ```
-  0: 0x15E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10322*)
+  0: 0x15E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
     → "A-ah, yes! The $3! I see, I see. So the treasure was the rare $1. You are very lucky."
   1: 0x15E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x15E9 [0x00] END_REQSTACK()
@@ -3234,10 +3234,10 @@ SUBROUTINE_15A8:
 #### Opcodes
 
 ```
-  0: 0x15EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
+  0: 0x15EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10324*)
     → "That particular item can be sold for quite a nice profit at most shops."
   1: 0x15ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x15EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10324*)
+  2: 0x15EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10325*)
     → "No, no. I need no thanks. May fortune shine upon all your journeys, [my friend/my sweet]!"
   3: 0x15F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x15F2 [0x00] END_REQSTACK()
@@ -3267,10 +3267,10 @@ SUBROUTINE_15A8:
   1: 0x15F8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x15F9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x15FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
-  4: 0x1601 [0x1D] PRINT_EVENT_MESSAGE(message_id=10325*)
+  4: 0x1601 [0x1D] PRINT_EVENT_MESSAGE(message_id=10326*)
     → "$1 can be sold for quite a nice profit at most shops."
   5: 0x1604 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1605 [0x1D] PRINT_EVENT_MESSAGE(message_id=10326*)
+  6: 0x1605 [0x1D] PRINT_EVENT_MESSAGE(message_id=10327*)
     → "No, no. I need no thanks. May fortune shine upon all your journeys, [my friend/my sweet]!"
   7: 0x1608 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1609 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3373,16 +3373,16 @@ SUBROUTINE_15A8:
   1: 0x161E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x161F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1620 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
-  4: 0x1627 [0x1D] PRINT_EVENT_MESSAGE(message_id=10784*)
+  4: 0x1627 [0x1D] PRINT_EVENT_MESSAGE(message_id=10785*)
     → "I shall take up their cause! I, Magriffon, shall build a bridge between the Moblins and the world of people."
   5: 0x162A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x162B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x03)
-  7: 0x1632 [0x1D] PRINT_EVENT_MESSAGE(message_id=10785*)
+  7: 0x1632 [0x1D] PRINT_EVENT_MESSAGE(message_id=10786*)
     → "However... The plan I am about to tell you is of a delicate and daring nature, and will require a dose of phenomenal luck."
   8: 0x1635 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1636 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x04)
  10: 0x163D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x05)
- 11: 0x1644 [0x1D] PRINT_EVENT_MESSAGE(message_id=10790*)
+ 11: 0x1644 [0x1D] PRINT_EVENT_MESSAGE(message_id=10791*)
     → "With this $3 by your side, [my intoxicating flower/my resourceful hero], astounding fortune will be yours! I will let you purchase this wondrous treasure for a mere $2 gil!"
  12: 0x1647 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x1648 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x06)
@@ -3417,10 +3417,10 @@ SUBROUTINE_15A8:
   2: 0x1659 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x165A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
   4: 0x1661 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x01)
-  5: 0x1668 [0x1D] PRINT_EVENT_MESSAGE(message_id=10795*)
+  5: 0x1668 [0x1D] PRINT_EVENT_MESSAGE(message_id=10796*)
     → "Let us overcome all obstacles that stand between us and the completion of our duty!"
   6: 0x166B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x166C [0x1D] PRINT_EVENT_MESSAGE(message_id=10794*)
+  7: 0x166C [0x1D] PRINT_EVENT_MESSAGE(message_id=10795*)
     → "Hahaha! May dazzling fortune smile upon thee, my [reason for breathing/daring adventurer]!"
   8: 0x166F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1670 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Magriffon (ID: 17801262/0x010FA02E), tag_num=0x02)

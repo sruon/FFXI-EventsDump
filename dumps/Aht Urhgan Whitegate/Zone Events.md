@@ -326,10 +326,10 @@
 |      50 | 0x00B7      |         183 |
 |      51 | 0x003C      |          60 |
 |      52 | 0x012C      |         300 |
-|      53 | 0x11F5      |        4597 |
-|      54 | 0x11F6      |        4598 |
+|      53 | 0x11F6      |        4598 |
+|      54 | 0x11F7      |        4599 |
 |      55 | 0x0064      |         100 |
-|      56 | 0x11F7      |        4599 |
+|      56 | 0x11F8      |        4600 |
 |      57 | 0x0032      |          50 |
 |      58 | 0xFFFFF5D8  |  4294964696 |
 |      59 | 0xFFFFFEF3  |  4294967027 |
@@ -608,229 +608,229 @@
 |     332 | 0xFFFE5288  |  4294857352 |
 |     333 | 0xFFFEFFA5  |  4294901669 |
 |     334 | 0x092B      |        2347 |
-|     335 | 0x1348      |        4936 |
+|     335 | 0x1349      |        4937 |
 |     336 | 0x004B      |          75 |
-|     337 | 0x1349      |        4937 |
-|     338 | 0x134A      |        4938 |
-|     339 | 0x134C      |        4940 |
-|     340 | 0x134D      |        4941 |
+|     337 | 0x134A      |        4938 |
+|     338 | 0x134B      |        4939 |
+|     339 | 0x134D      |        4941 |
+|     340 | 0x134E      |        4942 |
 |     341 | 0x0426      |        1062 |
 |     342 | 0x0025      |          37 |
-|     343 | 0x134E      |        4942 |
-|     344 | 0x134F      |        4943 |
-|     345 | 0x1350      |        4944 |
-|     346 | 0x1351      |        4945 |
-|     347 | 0x1352      |        4946 |
-|     348 | 0x134B      |        4939 |
+|     343 | 0x134F      |        4943 |
+|     344 | 0x1350      |        4944 |
+|     345 | 0x1351      |        4945 |
+|     346 | 0x1352      |        4946 |
+|     347 | 0x1353      |        4947 |
+|     348 | 0x134C      |        4940 |
 |     349 | 0xFFFE5B5A  |  4294859610 |
 |     350 | 0xFFFF05EE  |  4294903278 |
 |     351 | 0x06F7      |        1783 |
-|     352 | 0x1369      |        4969 |
+|     352 | 0x136A      |        4970 |
 |     353 | 0x00FD      |         253 |
 |     354 | 0x02A2      |         674 |
 |     355 | 0x00B4      |         180 |
 |     356 | 0x005A      |          90 |
-|     357 | 0x136A      |        4970 |
+|     357 | 0x136B      |        4971 |
 |     358 | 0x00A3      |         163 |
-|     359 | 0x136B      |        4971 |
-|     360 | 0x136C      |        4972 |
-|     361 | 0x136D      |        4973 |
+|     359 | 0x136C      |        4972 |
+|     360 | 0x136D      |        4973 |
+|     361 | 0x136E      |        4974 |
 |     362 | 0x04CB      |        1227 |
-|     363 | 0x136E      |        4974 |
-|     364 | 0x136F      |        4975 |
-|     365 | 0x1370      |        4976 |
-|     366 | 0x1371      |        4977 |
+|     363 | 0x136F      |        4975 |
+|     364 | 0x1370      |        4976 |
+|     365 | 0x1371      |        4977 |
+|     366 | 0x1372      |        4978 |
 |     367 | 0x00AA      |         170 |
 |     368 | 0x00FF      |         255 |
-|     369 | 0x1372      |        4978 |
-|     370 | 0x1373      |        4979 |
-|     371 | 0x1374      |        4980 |
-|     372 | 0x1375      |        4981 |
-|     373 | 0x1376      |        4982 |
-|     374 | 0x1377      |        4983 |
-|     375 | 0x1378      |        4984 |
-|     376 | 0x1379      |        4985 |
+|     369 | 0x1373      |        4979 |
+|     370 | 0x1374      |        4980 |
+|     371 | 0x1375      |        4981 |
+|     372 | 0x1376      |        4982 |
+|     373 | 0x1377      |        4983 |
+|     374 | 0x1378      |        4984 |
+|     375 | 0x1379      |        4985 |
+|     376 | 0x137A      |        4986 |
 |     377 | 0x00FE      |         254 |
-|     378 | 0x137A      |        4986 |
+|     378 | 0x137B      |        4987 |
 |     379 | 0x00B2      |         178 |
 |     380 | 0xFFFE923B  |  4294873659 |
 |     381 | 0x11EB      |        4587 |
 |     382 | 0x0EDB      |        3803 |
 |     383 | 0x0008      |           8 |
-|     384 | 0x137E      |        4990 |
-|     385 | 0x137F      |        4991 |
-|     386 | 0x1380      |        4992 |
-|     387 | 0x1381      |        4993 |
-|     388 | 0x1382      |        4994 |
-|     389 | 0x1383      |        4995 |
-|     390 | 0x1384      |        4996 |
+|     384 | 0x137F      |        4991 |
+|     385 | 0x1380      |        4992 |
+|     386 | 0x1381      |        4993 |
+|     387 | 0x1382      |        4994 |
+|     388 | 0x1383      |        4995 |
+|     389 | 0x1384      |        4996 |
+|     390 | 0x1385      |        4997 |
 |     391 | 0x0304      |         772 |
-|     392 | 0x1385      |        4997 |
-|     393 | 0x1386      |        4998 |
-|     394 | 0x1387      |        4999 |
-|     395 | 0x1388      |        5000 |
-|     396 | 0x1389      |        5001 |
-|     397 | 0x138A      |        5002 |
-|     398 | 0x138B      |        5003 |
+|     392 | 0x1386      |        4998 |
+|     393 | 0x1387      |        4999 |
+|     394 | 0x1388      |        5000 |
+|     395 | 0x1389      |        5001 |
+|     396 | 0x138A      |        5002 |
+|     397 | 0x138B      |        5003 |
+|     398 | 0x138C      |        5004 |
 |     399 | 0x040B      |        1035 |
-|     400 | 0x138C      |        5004 |
-|     401 | 0x138D      |        5005 |
-|     402 | 0x138E      |        5006 |
-|     403 | 0x138F      |        5007 |
-|     404 | 0x1390      |        5008 |
-|     405 | 0x1391      |        5009 |
+|     400 | 0x138D      |        5005 |
+|     401 | 0x138E      |        5006 |
+|     402 | 0x138F      |        5007 |
+|     403 | 0x1390      |        5008 |
+|     404 | 0x1391      |        5009 |
+|     405 | 0x1392      |        5010 |
 |     406 | 0xFFFFC696  |  4294952598 |
 |     407 | 0x18E76     |      102006 |
 |     408 | 0x0ECA      |        3786 |
-|     409 | 0x1393      |        5011 |
+|     409 | 0x1394      |        5012 |
 |     410 | 0x0BDF      |        3039 |
-|     411 | 0x1394      |        5012 |
+|     411 | 0x1395      |        5013 |
 |     412 | 0x0034      |          52 |
-|     413 | 0x1395      |        5013 |
-|     414 | 0x1396      |        5014 |
-|     415 | 0x1397      |        5015 |
-|     416 | 0x1398      |        5016 |
-|     417 | 0x139C      |        5020 |
-|     418 | 0x139D      |        5021 |
-|     419 | 0x139E      |        5022 |
+|     413 | 0x1396      |        5014 |
+|     414 | 0x1397      |        5015 |
+|     415 | 0x1398      |        5016 |
+|     416 | 0x1399      |        5017 |
+|     417 | 0x139D      |        5021 |
+|     418 | 0x139E      |        5022 |
+|     419 | 0x139F      |        5023 |
 |     420 | 0xFFFE9A55  |  4294875733 |
 |     421 | 0x0E35      |        3637 |
-|     422 | 0x13A0      |        5024 |
-|     423 | 0x13A1      |        5025 |
-|     424 | 0x13A2      |        5026 |
-|     425 | 0x13A3      |        5027 |
-|     426 | 0x13A4      |        5028 |
+|     422 | 0x13A1      |        5025 |
+|     423 | 0x13A2      |        5026 |
+|     424 | 0x13A3      |        5027 |
+|     425 | 0x13A4      |        5028 |
+|     426 | 0x13A5      |        5029 |
 |     427 | 0x0037      |          55 |
-|     428 | 0x13A5      |        5029 |
-|     429 | 0x13A6      |        5030 |
-|     430 | 0x13A7      |        5031 |
+|     428 | 0x13A6      |        5030 |
+|     429 | 0x13A7      |        5031 |
+|     430 | 0x13A8      |        5032 |
 |     431 | 0x0030      |          48 |
-|     432 | 0x13A8      |        5032 |
-|     433 | 0x13A9      |        5033 |
-|     434 | 0x13AA      |        5034 |
-|     435 | 0x13AB      |        5035 |
-|     436 | 0x13AC      |        5036 |
-|     437 | 0x13AD      |        5037 |
-|     438 | 0x13AE      |        5038 |
-|     439 | 0x13AF      |        5039 |
-|     440 | 0x13B0      |        5040 |
-|     441 | 0x13B1      |        5041 |
-|     442 | 0x13B2      |        5042 |
+|     432 | 0x13A9      |        5033 |
+|     433 | 0x13AA      |        5034 |
+|     434 | 0x13AB      |        5035 |
+|     435 | 0x13AC      |        5036 |
+|     436 | 0x13AD      |        5037 |
+|     437 | 0x13AE      |        5038 |
+|     438 | 0x13AF      |        5039 |
+|     439 | 0x13B0      |        5040 |
+|     440 | 0x13B1      |        5041 |
+|     441 | 0x13B2      |        5042 |
+|     442 | 0x13B3      |        5043 |
 |     443 | 0x0044      |          68 |
-|     444 | 0x13B3      |        5043 |
-|     445 | 0x13B4      |        5044 |
-|     446 | 0x13B5      |        5045 |
-|     447 | 0x13B6      |        5046 |
+|     444 | 0x13B4      |        5044 |
+|     445 | 0x13B5      |        5045 |
+|     446 | 0x13B6      |        5046 |
+|     447 | 0x13B7      |        5047 |
 |     448 | 0x040D      |        1037 |
-|     449 | 0x13B7      |        5047 |
-|     450 | 0x13B8      |        5048 |
+|     449 | 0x13B8      |        5048 |
+|     450 | 0x13B9      |        5049 |
 |     451 | 0x0039      |          57 |
-|     452 | 0x13B9      |        5049 |
-|     453 | 0x13BA      |        5050 |
-|     454 | 0x13BB      |        5051 |
-|     455 | 0x13BC      |        5052 |
-|     456 | 0x13BD      |        5053 |
+|     452 | 0x13BA      |        5050 |
+|     453 | 0x13BB      |        5051 |
+|     454 | 0x13BC      |        5052 |
+|     455 | 0x13BD      |        5053 |
+|     456 | 0x13BE      |        5054 |
 |     457 | 0x0096      |         150 |
-|     458 | 0x13BE      |        5054 |
+|     458 | 0x13BF      |        5055 |
 |     459 | 0x03A1      |         929 |
-|     460 | 0x13BF      |        5055 |
+|     460 | 0x13C0      |        5056 |
 |     461 | 0xEB85      |       60293 |
 |     462 | 0xFFFEFCA1  |  4294900897 |
 |     463 | 0x0167      |         359 |
 |     464 | 0x007F      |         127 |
-|     465 | 0x13C2      |        5058 |
-|     466 | 0x13C3      |        5059 |
-|     467 | 0x13C4      |        5060 |
+|     465 | 0x13C3      |        5059 |
+|     466 | 0x13C4      |        5060 |
+|     467 | 0x13C5      |        5061 |
 |     468 | 0x03B0      |         944 |
 |     469 | 0x05EF      |        1519 |
-|     470 | 0x13C5      |        5061 |
-|     471 | 0x13C6      |        5062 |
-|     472 | 0x13C7      |        5063 |
-|     473 | 0x13C8      |        5064 |
-|     474 | 0x13C9      |        5065 |
-|     475 | 0x13CA      |        5066 |
-|     476 | 0x13CB      |        5067 |
-|     477 | 0x13CC      |        5068 |
-|     478 | 0x13CD      |        5069 |
-|     479 | 0x13CE      |        5070 |
-|     480 | 0x13CF      |        5071 |
+|     470 | 0x13C6      |        5062 |
+|     471 | 0x13C7      |        5063 |
+|     472 | 0x13C8      |        5064 |
+|     473 | 0x13C9      |        5065 |
+|     474 | 0x13CA      |        5066 |
+|     475 | 0x13CB      |        5067 |
+|     476 | 0x13CC      |        5068 |
+|     477 | 0x13CD      |        5069 |
+|     478 | 0x13CE      |        5070 |
+|     479 | 0x13CF      |        5071 |
+|     480 | 0x13D0      |        5072 |
 |     481 | 0x000F      |          15 |
-|     482 | 0x13D0      |        5072 |
-|     483 | 0x13D1      |        5073 |
-|     484 | 0x13D2      |        5074 |
-|     485 | 0x13D3      |        5075 |
-|     486 | 0x13D4      |        5076 |
+|     482 | 0x13D1      |        5073 |
+|     483 | 0x13D2      |        5074 |
+|     484 | 0x13D3      |        5075 |
+|     485 | 0x13D4      |        5076 |
+|     486 | 0x13D5      |        5077 |
 |     487 | 0x007C      |         124 |
-|     488 | 0x13D6      |        5078 |
-|     489 | 0x13D7      |        5079 |
-|     490 | 0x13D8      |        5080 |
-|     491 | 0x13D9      |        5081 |
-|     492 | 0x13DA      |        5082 |
-|     493 | 0x13DB      |        5083 |
-|     494 | 0x13DC      |        5084 |
-|     495 | 0x13DD      |        5085 |
-|     496 | 0x13DE      |        5086 |
-|     497 | 0x13DF      |        5087 |
-|     498 | 0x13E0      |        5088 |
-|     499 | 0x13E1      |        5089 |
-|     500 | 0x13E2      |        5090 |
-|     501 | 0x13E3      |        5091 |
-|     502 | 0x13E4      |        5092 |
-|     503 | 0x13E5      |        5093 |
-|     504 | 0x13E6      |        5094 |
-|     505 | 0x13E7      |        5095 |
-|     506 | 0x13E8      |        5096 |
-|     507 | 0x13E9      |        5097 |
-|     508 | 0x13EA      |        5098 |
+|     488 | 0x13D7      |        5079 |
+|     489 | 0x13D8      |        5080 |
+|     490 | 0x13D9      |        5081 |
+|     491 | 0x13DA      |        5082 |
+|     492 | 0x13DB      |        5083 |
+|     493 | 0x13DC      |        5084 |
+|     494 | 0x13DD      |        5085 |
+|     495 | 0x13DE      |        5086 |
+|     496 | 0x13DF      |        5087 |
+|     497 | 0x13E0      |        5088 |
+|     498 | 0x13E1      |        5089 |
+|     499 | 0x13E2      |        5090 |
+|     500 | 0x13E3      |        5091 |
+|     501 | 0x13E4      |        5092 |
+|     502 | 0x13E5      |        5093 |
+|     503 | 0x13E6      |        5094 |
+|     504 | 0x13E7      |        5095 |
+|     505 | 0x13E8      |        5096 |
+|     506 | 0x13E9      |        5097 |
+|     507 | 0x13EA      |        5098 |
+|     508 | 0x13EB      |        5099 |
 |     509 | 0x001A      |          26 |
-|     510 | 0x13EB      |        5099 |
-|     511 | 0x13EC      |        5100 |
+|     510 | 0x13EC      |        5100 |
+|     511 | 0x13ED      |        5101 |
 |     512 | 0xFFFE9CE4  |  4294876388 |
 |     513 | 0x1195      |        4501 |
 |     514 | 0x0ECD      |        3789 |
-|     515 | 0x13EE      |        5102 |
-|     516 | 0x13EF      |        5103 |
-|     517 | 0x13F0      |        5104 |
-|     518 | 0x13F1      |        5105 |
+|     515 | 0x13EF      |        5103 |
+|     516 | 0x13F0      |        5104 |
+|     517 | 0x13F1      |        5105 |
+|     518 | 0x13F2      |        5106 |
 |     519 | 0xFFFFC5B6  |  4294952374 |
 |     520 | 0x18D9C     |      101788 |
 |     521 | 0x0E26      |        3622 |
 |     522 | 0x010B      |         267 |
-|     523 | 0x144C      |        5196 |
-|     524 | 0x144D      |        5197 |
-|     525 | 0x144E      |        5198 |
+|     523 | 0x144D      |        5197 |
+|     524 | 0x144E      |        5198 |
+|     525 | 0x144F      |        5199 |
 |     526 | 0x0027      |          39 |
-|     527 | 0x144F      |        5199 |
-|     528 | 0x1450      |        5200 |
-|     529 | 0x1451      |        5201 |
-|     530 | 0x1452      |        5202 |
-|     531 | 0x1453      |        5203 |
-|     532 | 0x1454      |        5204 |
-|     533 | 0x1455      |        5205 |
-|     534 | 0x1456      |        5206 |
-|     535 | 0x1457      |        5207 |
-|     536 | 0x1458      |        5208 |
-|     537 | 0x1459      |        5209 |
-|     538 | 0x145A      |        5210 |
-|     539 | 0x145B      |        5211 |
-|     540 | 0x145C      |        5212 |
-|     541 | 0x145D      |        5213 |
-|     542 | 0x145E      |        5214 |
-|     543 | 0x145F      |        5215 |
-|     544 | 0x1460      |        5216 |
-|     545 | 0x1462      |        5218 |
+|     527 | 0x1450      |        5200 |
+|     528 | 0x1451      |        5201 |
+|     529 | 0x1452      |        5202 |
+|     530 | 0x1453      |        5203 |
+|     531 | 0x1454      |        5204 |
+|     532 | 0x1455      |        5205 |
+|     533 | 0x1456      |        5206 |
+|     534 | 0x1457      |        5207 |
+|     535 | 0x1458      |        5208 |
+|     536 | 0x1459      |        5209 |
+|     537 | 0x145A      |        5210 |
+|     538 | 0x145B      |        5211 |
+|     539 | 0x145C      |        5212 |
+|     540 | 0x145D      |        5213 |
+|     541 | 0x145E      |        5214 |
+|     542 | 0x145F      |        5215 |
+|     543 | 0x1460      |        5216 |
+|     544 | 0x1461      |        5217 |
+|     545 | 0x1463      |        5219 |
 |     546 | 0x001F      |          31 |
 |     547 | 0x00E4      |         228 |
-|     548 | 0x1463      |        5219 |
-|     549 | 0x1464      |        5220 |
-|     550 | 0x1465      |        5221 |
+|     548 | 0x1464      |        5220 |
+|     549 | 0x1465      |        5221 |
+|     550 | 0x1466      |        5222 |
 |     551 | 0x0033      |          51 |
-|     552 | 0x1466      |        5222 |
-|     553 | 0x1467      |        5223 |
-|     554 | 0x1468      |        5224 |
+|     552 | 0x1467      |        5223 |
+|     553 | 0x1468      |        5224 |
+|     554 | 0x1469      |        5225 |
 |     555 | 0x0035      |          53 |
-|     556 | 0x1469      |        5225 |
-|     557 | 0x146A      |        5226 |
+|     556 | 0x146A      |        5226 |
+|     557 | 0x146B      |        5227 |
 |     558 | 0x17236     |       94774 |
 |     559 | 0xFFFF99C2  |  4294941122 |
 |     560 | 0x014C      |         332 |
@@ -1042,7 +1042,7 @@
 |     766 | 0x0A6B      |        2667 |
 |     767 | 0x14663     |       83555 |
 |     768 | 0x09DE      |        2526 |
-|     769 | 0x260A      |        9738 |
+|     769 | 0x260B      |        9739 |
 |     770 | 0x1AFF5     |      110581 |
 |     771 | 0xFFFF05B1  |  4294903217 |
 |     772 | 0x1C71C     |      116508 |
@@ -1083,15 +1083,15 @@
 
 ## String References
 
-- **4598**: DEBUG: Press a button to open the door.
-- **4599**: DEBUG: Press a button to close the door.
-- **4938**: Do you promise? [You have my word./To a kid? Ha!]
-- **5048**: Help her out? [.../I have a dental appointment.]
-- **5209**: Challenge her to a game? [I'll give it a roll./No way.]
-- **5215**: What will you wager? [Love./Dreams./Hope.]
-- **5218**: Yadhiwa readies Dice Roll.
-- **5219**: Yadhiwa rolls a 999!
-- **9738**: Leave the hostel? [Yes./Not yet.]
+- **4599**: DEBUG: Press a button to open the door.
+- **4600**: DEBUG: Press a button to close the door.
+- **4939**: Do you promise? [You have my word./To a kid? Ha!]
+- **5049**: Help her out? [.../I have a dental appointment.]
+- **5210**: Challenge her to a game? [I'll give it a roll./No way.]
+- **5216**: What will you wager? [Love./Dreams./Hope.]
+- **5219**: Yadhiwa readies Dice Roll.
+- **5220**: Yadhiwa rolls a 999!
+- **9739**: Leave the hostel? [Yes./Not yet.]
 
 ## Events
 
@@ -1755,15 +1755,15 @@ SUBROUTINE_03D2:
   9: 0x045C [0x1C] WAIT(60* ticks)
  10: 0x045F [0x1A] CALL_SUBROUTINE(address=0x4077)
  11: 0x0462 [0x1C] WAIT(300* ticks)
- 12: 0x0465 [0x2B] Imperial Whitegate (ID: 16982081/0x01032041) [4597*]:
+ 12: 0x0465 [0x2B] Imperial Whitegate (ID: 16982081/0x01032041) [4598*]:
     → "Welcome to the audience chamber."
  13: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x046D [0x48] [System] [4598*]:
+ 14: 0x046D [0x48] [System] [4599*]:
     → "DEBUG: Press a button to open the door."
  15: 0x0470 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0471 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Door (ID: 16982082/0x01032042), tag_num=0x02)
  17: 0x0478 [0x1C] WAIT(100* ticks)
- 18: 0x047B [0x48] [System] [4599*]:
+ 18: 0x047B [0x48] [System] [4600*]:
     → "DEBUG: Press a button to close the door."
  19: 0x047E [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x047F [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Door (ID: 16982082/0x01032042), tag_num=0x03)
@@ -4939,27 +4939,27 @@ SUBROUTINE_06B3:
  14: 0x0D99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x0DAA [0x4A] Hadahda (ID: 16982312/0x01032128) looks at LocalPlayer
  16: 0x0DB3 [0x1C] WAIT(60* ticks)
- 17: 0x0DB6 [0x2B] Hadahda (ID: 16982312/0x01032128) [4936*]:
+ 17: 0x0DB6 [0x2B] Hadahda (ID: 16982312/0x01032128) [4937*]:
     → "Hey, think you could help me out?"
  18: 0x0DBD [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0DBE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hadahda (ID: 16982312/0x01032128), Hadahda (ID: 16982312/0x01032128)], work=75*
- 20: 0x0DCD [0x2B] Hadahda (ID: 16982312/0x01032128) [4937*]:
+ 20: 0x0DCD [0x2B] Hadahda (ID: 16982312/0x01032128) [4938*]:
     → "You wanna know what I want? I'll tell you on one condition. You have to promise me you'll help!"
  21: 0x0DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0DD5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Hadahda (ID: 16982312/0x01032128), Hadahda (ID: 16982312/0x01032128)], work=75*
- 23: 0x0DE4 [0x24] CREATE_DIALOG(message_id=4938*, default_option=0*, option_flags=0*)
+ 23: 0x0DE4 [0x24] CREATE_DIALOG(message_id=4939*, default_option=0*, option_flags=0*)
     → "Do you promise? [You have my word./To a kid? Ha!]"
  24: 0x0DEB [0x25] WAIT_DIALOG_SELECT()
  25: 0x0DEC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F38
  26: 0x0DF4 [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [EventEntity, EventEntity], work=199*
  27: 0x0E03 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [EventEntity, EventEntity], work=[199*, 0*]
- 28: 0x0E14 [0x2B] Hadahda (ID: 16982312/0x01032128) [4940*]:
+ 28: 0x0E14 [0x2B] Hadahda (ID: 16982312/0x01032128) [4941*]:
     → "Heh heh heh... Actually, I'm no ordinary kid. I'm a thief, first class!"
  29: 0x0E1B [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0E1C [0x52] END_LOAD_SCHEDULER: End scheduler "s074" with entities [EventEntity, EventEntity], work=199*
  31: 0x0E2B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [EventEntity, EventEntity], work=[199*, 0*]
  32: 0x0E3C [0x4A] Hadahda (ID: 16982312/0x01032128) looks at Mushayra (ID: 16982313/0x01032129)
- 33: 0x0E45 [0x2B] Hadahda (ID: 16982312/0x01032128) [4941*]:
+ 33: 0x0E45 [0x2B] Hadahda (ID: 16982312/0x01032128) [4942*]:
     → "(Ack! Don't say anything!)"
  34: 0x0E4C [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0E4D [0x52] END_LOAD_SCHEDULER: End scheduler "s073" with entities [EventEntity, EventEntity], work=199*
@@ -4976,24 +4976,24 @@ SUBROUTINE_06B3:
  46: 0x0EA8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [EventEntity, EventEntity], work=[199*, 0*]
  47: 0x0EB9 [0x1C] WAIT(60* ticks)
  48: 0x0EBC [0x4A] Hadahda (ID: 16982312/0x01032128) looks at LocalPlayer
- 49: 0x0EC5 [0x2B] Hadahda (ID: 16982312/0x01032128) [4942*]:
+ 49: 0x0EC5 [0x2B] Hadahda (ID: 16982312/0x01032128) [4943*]:
     → "Whew, that was close. It's pretty hard keeping my true identity secret."
  50: 0x0ECC [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0ECD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hadahda (ID: 16982312/0x01032128), Hadahda (ID: 16982312/0x01032128)], work=75*
- 52: 0x0EDC [0x2B] Hadahda (ID: 16982312/0x01032128) [4943*]:
+ 52: 0x0EDC [0x2B] Hadahda (ID: 16982312/0x01032128) [4944*]:
     → "Oh yeah, I was going to ask you to help me. You see, I want to make something that would be really, really important to me!"
  53: 0x0EE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0EE4 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
- 55: 0x0EE9 [0x2B] Hadahda (ID: 16982312/0x01032128) [4944*]:
+ 55: 0x0EE9 [0x2B] Hadahda (ID: 16982312/0x01032128) [4945*]:
     → "And I need you to find some pieces of paper with letters on them so I can make it!"
  56: 0x0EF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0EF1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Hadahda (ID: 16982312/0x01032128), Hadahda (ID: 16982312/0x01032128)], work=75*
  58: 0x0F00 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [EventEntity, EventEntity], work=199*
  59: 0x0F0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [EventEntity, EventEntity], work=[199*, 0*]
- 60: 0x0F20 [0x2B] Hadahda (ID: 16982312/0x01032128) [4945*]:
+ 60: 0x0F20 [0x2B] Hadahda (ID: 16982312/0x01032128) [4946*]:
     → "You have to collect 7 letters in all--one each of M, U, and T, and two each of A and D."
  61: 0x0F27 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x0F28 [0x2B] Hadahda (ID: 16982312/0x01032128) [4946*]:
+ 62: 0x0F28 [0x2B] Hadahda (ID: 16982312/0x01032128) [4947*]:
     → "If you ask around, I'm sure you'll be able to find them all. Good luck!"
  63: 0x0F2F [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0F30 [0x03] Work_Zone[1] = 1*
@@ -5001,7 +5001,7 @@ SUBROUTINE_06B3:
  66: 0x0F38 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0F6B
  67: 0x0F40 [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [EventEntity, EventEntity], work=199*
  68: 0x0F4F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [EventEntity, EventEntity], work=[199*, 0*]
- 69: 0x0F60 [0x2B] Hadahda (ID: 16982312/0x01032128) [4939*]:
+ 69: 0x0F60 [0x2B] Hadahda (ID: 16982312/0x01032128) [4940*]:
     → "I'm not gonna tell you then, you big meanie!"
  70: 0x0F67 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0F68 [0x01] GOTO 0x0F6B
@@ -5145,7 +5145,7 @@ SUBROUTINE_0F6B:
  15: 0x1037 [0x4A] Hadahda (ID: 16982312/0x01032128) looks at LocalPlayer
  16: 0x1040 [0x1C] WAIT(30* ticks)
  17: 0x1043 [0x1E] EventEntity looks at Hadahda (ID: 16982312/0x01032128) and starts talking
- 18: 0x1048 [0x2B] Hadahda (ID: 16982312/0x01032128) [4969*]:
+ 18: 0x1048 [0x2B] Hadahda (ID: 16982312/0x01032128) [4970*]:
     → "Wow, you really found them all!"
  19: 0x104F [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x1050 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s078" with entities [EventEntity, EventEntity], work=199*
@@ -5155,7 +5155,7 @@ SUBROUTINE_0F6B:
  24: 0x1074 [0x1C] WAIT(30* ticks)
  25: 0x1077 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [EventEntity, EventEntity], work=[253*, 0*]
  26: 0x1088 [0x4B] UPDATE_ENTITY_YAW(entity=Hadahda (ID: 16982312/0x01032128), yaw=3.7°*)
- 27: 0x108F [0x2B] Hadahda (ID: 16982312/0x01032128) [4941*]:
+ 27: 0x108F [0x2B] Hadahda (ID: 16982312/0x01032128) [4942*]:
     → "(Ack! Don't say anything!)"
  28: 0x1096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x1097 [0x52] END_LOAD_SCHEDULER: End scheduler "s086" with entities [EventEntity, EventEntity], work=253*
@@ -5169,7 +5169,7 @@ SUBROUTINE_0F6B:
  37: 0x10F1 [0x4A] Hadahda (ID: 16982312/0x01032128) looks at Mushayra (ID: 16982313/0x01032129)
  38: 0x10FA [0x1C] WAIT(90* ticks)
  39: 0x10FD [0x79] LocalPlayer looks at Hadahda (ID: 16982312/0x01032128) (Basic look)
- 40: 0x1107 [0x2B] Hadahda (ID: 16982312/0x01032128) [4970*]:
+ 40: 0x1107 [0x2B] Hadahda (ID: 16982312/0x01032128) [4971*]:
     → "Whew, I thought we were done for that time! I better hurry and make this..."
  41: 0x110E [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x110F [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -5184,7 +5184,7 @@ SUBROUTINE_0F6B:
  51: 0x1162 [0x1C] WAIT(30* ticks)
  52: 0x1165 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  53: 0x1176 [0x1C] WAIT(30* ticks)
- 54: 0x1179 [0x2B] Hadahda (ID: 16982312/0x01032128) [4971*]:
+ 54: 0x1179 [0x2B] Hadahda (ID: 16982312/0x01032128) [4972*]:
     → "It's done! And now it's showtime!"
  55: 0x1180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x1181 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=253*
@@ -5199,32 +5199,32 @@ SUBROUTINE_0F6B:
  65: 0x11D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[253*, 0*]
  66: 0x11E7 [0x2A] GET_REQ_LEVEL(level=20, entity_id=Mushayra (ID: 16982313/0x01032129))
  67: 0x11ED [0x4A] LocalPlayer looks at Mushayra (ID: 16982313/0x01032129)
- 68: 0x11F6 [0x2B] Mushayra (ID: 16982313/0x01032129) [4972*]:
+ 68: 0x11F6 [0x2B] Mushayra (ID: 16982313/0x01032129) [4973*]:
     → "!!!"
  69: 0x11FD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x11FE [0x2B] Mushayra (ID: 16982313/0x01032129) [4973*]:
+ 70: 0x11FE [0x2B] Mushayra (ID: 16982313/0x01032129) [4974*]:
     → "Where did the dessert go that I just made!?"
  71: 0x1205 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x1206 [0x4B] UPDATE_ENTITY_YAW(entity=Mushayra (ID: 16982313/0x01032129), yaw=6.7°*)
  73: 0x120D [0x1C] WAIT(120* ticks)
- 74: 0x1210 [0x2B] Mushayra (ID: 16982313/0x01032129) [4974*]:
+ 74: 0x1210 [0x2B] Mushayra (ID: 16982313/0x01032129) [4975*]:
     → "What's this card doing here...?"
  75: 0x1217 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x1218 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=253*
  77: 0x1227 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[253*, 0*]
  78: 0x1238 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mushayra (ID: 16982313/0x01032129), Mushayra (ID: 16982313/0x01032129)], work=70*
- 79: 0x1247 [0x2B] Mushayra (ID: 16982313/0x01032129) [4975*]:
+ 79: 0x1247 [0x2B] Mushayra (ID: 16982313/0x01032129) [4976*]:
     → ""M A u d A D t"?"
  80: 0x124E [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x124F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [Mushayra (ID: 16982313/0x01032129), Mushayra (ID: 16982313/0x01032129)], work=70*
- 82: 0x125E [0x2B] Mushayra (ID: 16982313/0x01032129) [4976*]:
+ 82: 0x125E [0x2B] Mushayra (ID: 16982313/0x01032129) [4977*]:
     → "I'm going to give that greedy little Galka a piece of my mind!"
  83: 0x1265 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x1266 [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=253*
  85: 0x1275 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[253*, 0*]
  86: 0x1286 [0x29] REQ_SET_WAIT(priority=0x14, entity_id=Mushayra (ID: 16982313/0x01032129), tag_num=0x06)
  87: 0x128D [0x79] LocalPlayer looks at Mushayra (ID: 16982313/0x01032129) (Basic look)
- 88: 0x1297 [0x2B] Mushayra (ID: 16982313/0x01032129) [4977*]:
+ 88: 0x1297 [0x2B] Mushayra (ID: 16982313/0x01032129) [4978*]:
     → "...Or so you'd like to hear, right? Hadahda!"
  89: 0x129E [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x129F [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=253*
@@ -5235,14 +5235,14 @@ SUBROUTINE_0F6B:
  95: 0x12D1 [0x27] REQ_SET(priority=0x05, entity_id=Hadahda (ID: 16982312/0x01032128), tag_num=0x06)
  96: 0x12D8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s005" with entities [EventEntity, EventEntity], work=253*
  97: 0x12E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[255*, 0*]
- 98: 0x12F8 [0x2B] Hadahda (ID: 16982312/0x01032128) [4978*]:
+ 98: 0x12F8 [0x2B] Hadahda (ID: 16982312/0x01032128) [4979*]:
     → "!!!"
  99: 0x12FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x1300 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=255*
 101: 0x130F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[253*, 0*]
 102: 0x1320 [0x7C] Hadahda (ID: 16982312/0x01032128)->Render.Flags2 |= 0x01
 103: 0x1326 [0x4A] Mushayra (ID: 16982313/0x01032129) looks at Hadahda (ID: 16982312/0x01032128)
-104: 0x132F [0x2B] Mushayra (ID: 16982313/0x01032129) [4979*]:
+104: 0x132F [0x2B] Mushayra (ID: 16982313/0x01032129) [4980*]:
     → "I know you're there! You better be out here by the time I count to three! One, two..."
 105: 0x1336 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x1337 [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=253*
@@ -5251,7 +5251,7 @@ SUBROUTINE_0F6B:
 109: 0x135E [0x4A] Hadahda (ID: 16982312/0x01032128) looks at Mushayra (ID: 16982313/0x01032129)
 110: 0x1367 [0x1C] WAIT(30* ticks)
 111: 0x136A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hadahda (ID: 16982312/0x01032128), Hadahda (ID: 16982312/0x01032128)], work=75*
-112: 0x1379 [0x2B] Hadahda (ID: 16982312/0x01032128) [4980*]:
+112: 0x1379 [0x2B] Hadahda (ID: 16982312/0x01032128) [4981*]:
     → "It wasn't me! It was Maudadt! He's one bad apple!"
 113: 0x1380 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x1381 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=253*
@@ -5259,17 +5259,17 @@ SUBROUTINE_0F6B:
 116: 0x13A1 [0x27] REQ_SET(priority=0x19, entity_id=Mushayra (ID: 16982313/0x01032129), tag_num=0x07)
 117: 0x13A8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Hadahda (ID: 16982312/0x01032128), Hadahda (ID: 16982312/0x01032128)], work=75*
 118: 0x13B7 [0x4A] LocalPlayer looks at Mushayra (ID: 16982313/0x01032129)
-119: 0x13C0 [0x2B] Mushayra (ID: 16982313/0x01032129) [4981*]:
+119: 0x13C0 [0x2B] Mushayra (ID: 16982313/0x01032129) [4982*]:
     → "Don't you lie to me, young man! Have you been pretending to be a thief again? That dish was for the customers!"
 120: 0x13C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x13C8 [0x2A] GET_REQ_LEVEL(level=25, entity_id=Mushayra (ID: 16982313/0x01032129))
 122: 0x13CE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hadahda (ID: 16982312/0x01032128), Hadahda (ID: 16982312/0x01032128)], work=75*
-123: 0x13DD [0x2B] Hadahda (ID: 16982312/0x01032128) [4982*]:
+123: 0x13DD [0x2B] Hadahda (ID: 16982312/0x01032128) [4983*]:
     → "B-but...!"
 124: 0x13E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x13E5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Hadahda (ID: 16982312/0x01032128), Hadahda (ID: 16982312/0x01032128)], work=75*
 126: 0x13F4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mushayra (ID: 16982313/0x01032129), Mushayra (ID: 16982313/0x01032129)], work=70*
-127: 0x1403 [0x2B] Mushayra (ID: 16982313/0x01032129) [4983*]:
+127: 0x1403 [0x2B] Mushayra (ID: 16982313/0x01032129) [4984*]:
     → "I had a snack prepared especially for you, but you're not getting any now!"
 128: 0x140A [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x140B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [Mushayra (ID: 16982313/0x01032129), Mushayra (ID: 16982313/0x01032129)], work=70*
@@ -5277,13 +5277,13 @@ SUBROUTINE_0F6B:
 131: 0x1421 [0x1C] WAIT(30* ticks)
 132: 0x1424 [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [EventEntity, EventEntity], work=253*
 133: 0x1433 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [EventEntity, EventEntity], work=[253*, 0*]
-134: 0x1444 [0x2B] Hadahda (ID: 16982312/0x01032128) [4984*]:
+134: 0x1444 [0x2B] Hadahda (ID: 16982312/0x01032128) [4985*]:
     → "What? How could you be so mean!?"
 135: 0x144B [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x144C [0x4A] Mushayra (ID: 16982313/0x01032129) looks at LocalPlayer
 137: 0x1455 [0x1C] WAIT(60* ticks)
 138: 0x1458 [0x4A] LocalPlayer looks at Mushayra (ID: 16982313/0x01032129)
-139: 0x1461 [0x2B] Mushayra (ID: 16982313/0x01032129) [4985*]:
+139: 0x1461 [0x2B] Mushayra (ID: 16982313/0x01032129) [4986*]:
     → "Sorry for all the trouble. Please ignore Hadahda the next time he asks you to do something."
 140: 0x1468 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x1469 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=253*
@@ -5300,7 +5300,7 @@ SUBROUTINE_14C1:
 150: 0x14D0 [0x1C] WAIT(120* ticks)
 151: 0x14D3 [0x4A] Hadahda (ID: 16982312/0x01032128) looks at LocalPlayer
 152: 0x14DC [0x1C] WAIT(120* ticks)
-153: 0x14DF [0x2B] Hadahda (ID: 16982312/0x01032128) [4986*]:
+153: 0x14DF [0x2B] Hadahda (ID: 16982312/0x01032128) [4987*]:
     → "I wanted a snack..."
 154: 0x14E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x14E7 [0x79] LocalPlayer looks at Hadahda (ID: 16982312/0x01032128) (Basic look)
@@ -5455,20 +5455,20 @@ SUBROUTINE_14C1:
  35: 0x165E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  36: 0x166F [0x1C] WAIT(30* ticks)
  37: 0x1672 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=8*
- 38: 0x1681 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4990*]:
+ 38: 0x1681 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4991*]:
     → "Alrrright, guys, I'm counting on you!t"
  39: 0x1688 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x1689 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Bashraf (ID: 16982320/0x01032130), Bashraf (ID: 16982320/0x01032130)], work=0*
- 41: 0x1698 [0x2B] Bashraf (ID: 16982320/0x01032130) [4991*]:
+ 41: 0x1698 [0x2B] Bashraf (ID: 16982320/0x01032130) [4992*]:
     → "You can relax, 'cause Bashraf's on the job!"
  42: 0x169F [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x16A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Bashraf (ID: 16982320/0x01032130), Bashraf (ID: 16982320/0x01032130)], work=0*
  44: 0x16AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ksk0" with entities [Foudeel (ID: 16982321/0x01032131), Foudeel (ID: 16982321/0x01032131)], work=2*
- 45: 0x16BE [0x2B] Foudeel (ID: 16982321/0x01032131) [4992*]:
+ 45: 0x16BE [0x2B] Foudeel (ID: 16982321/0x01032131) [4993*]:
     → "We're on our way!"
  46: 0x16C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x16C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Wahboud (ID: 16982322/0x01032132), Wahboud (ID: 16982322/0x01032132)], work=0*
- 48: 0x16D5 [0x2B] Wahboud (ID: 16982322/0x01032132) [4993*]:
+ 48: 0x16D5 [0x2B] Wahboud (ID: 16982322/0x01032132) [4994*]:
     → "We'll have it back here before you can say "stampeding dhalmel"!"
  49: 0x16DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x16DD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten1" with entities [Wahboud (ID: 16982322/0x01032132), Wahboud (ID: 16982322/0x01032132)], work=0*
@@ -5485,7 +5485,7 @@ SUBROUTINE_14C1:
  61: 0x1733 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Foudeel (ID: 16982321/0x01032131)
  62: 0x1739 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Wahboud (ID: 16982322/0x01032132)
  63: 0x173F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=50*
- 64: 0x174E [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4994*]:
+ 64: 0x174E [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4995*]:
     → "Ah, I forgot! I need one more thing..."
  65: 0x1755 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x1756 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=50*
@@ -5495,72 +5495,72 @@ SUBROUTINE_14C1:
  70: 0x1772 [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=253*
  71: 0x1781 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[253*, 0*]
  72: 0x1792 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F))
- 73: 0x1798 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4995*]:
+ 73: 0x1798 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4996*]:
     → "Hey you over therrre, won't you lend a girl a hand?"
  74: 0x179F [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x17A0 [0x4A] Zabahf (ID: 16982316/0x0103212C) looks at Tehf Kimasnahya (ID: 16982319/0x0103212F)
  76: 0x17A9 [0x1C] WAIT(30* ticks)
- 77: 0x17AC [0x2B] Zabahf (ID: 16982316/0x0103212C) [4996*]:
+ 77: 0x17AC [0x2B] Zabahf (ID: 16982316/0x0103212C) [4997*]:
     → "M-me? What do you want?"
  78: 0x17B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x17B4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=50*
  80: 0x17C3 [0x03] Work_Zone[2] = 772*
- 81: 0x17C8 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4997*]:
+ 81: 0x17C8 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4998*]:
     → "I want to make something, but I need $6. You wouldn't keep a poor girl waiting, would you?"
  82: 0x17CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x17D0 [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [EventEntity, EventEntity], work=253*
  84: 0x17DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[253*, 0*]
  85: 0x17F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=50*
- 86: 0x17FF [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4998*]:
+ 86: 0x17FF [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4999*]:
     → "Don't ask me what I'm going to use it for, though. It's a secrrret."
  87: 0x1806 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x1807 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [4999*]:
+ 88: 0x1807 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5000*]:
     → "Anyway, the $3 is worth a lot to me..."
  89: 0x180E [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x180F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  91: 0x1820 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=253*
  92: 0x182F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[253*, 0*]
- 93: 0x1840 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5000*]:
+ 93: 0x1840 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5001*]:
     → "I rrrecently found out that Ekhu Pesshyadha has one, but I've begged and I've pleaded and she still won't hand it over."
  94: 0x1847 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x1848 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s014" with entities [EventEntity, EventEntity], work=253*
  96: 0x1857 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  97: 0x1868 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[199*, 0*]
  98: 0x1879 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=8*
- 99: 0x1888 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5001*]:
+ 99: 0x1888 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5002*]:
     → "I would be ever so happy if you would go get it from her for me.t"
 100: 0x188F [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x1890 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=27*
 102: 0x189F [0x1C] WAIT(30* ticks)
 103: 0x18A2 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=199*
 104: 0x18B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[254*, 0*]
-105: 0x18C2 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5002*]:
+105: 0x18C2 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5003*]:
     → "Wh-why me?"
 106: 0x18C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x18CA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=29*
 108: 0x18D9 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=254*
 109: 0x18E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [EventEntity, EventEntity], work=[253*, 0*]
-110: 0x18F9 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5003*]:
+110: 0x18F9 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5004*]:
     → "Because you have such a way with women, of course!"
 111: 0x1900 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x1901 [0x4B] UPDATE_ENTITY_YAW(entity=Tehf Kimasnahya (ID: 16982319/0x0103212F), yaw=5.7°*)
 113: 0x1908 [0x1C] WAIT(30* ticks)
-114: 0x190B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5004*]:
+114: 0x190B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5005*]:
     → "She seems to hate me for some reason..."
 115: 0x1912 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x1913 [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [EventEntity, EventEntity], work=253*
 117: 0x1922 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [EventEntity, EventEntity], work=[253*, 0*]
 118: 0x1933 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
-119: 0x1942 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5005*]:
+119: 0x1942 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5006*]:
     → "I...I think that you should solve that problem yourself!"
 120: 0x1949 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x194A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
 122: 0x1959 [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Zabahf (ID: 16982316/0x0103212C)
-123: 0x1962 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5006*]:
+123: 0x1962 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5007*]:
     → "Oh. I see how it is."
 124: 0x1969 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x196A [0x27] REQ_SET(priority=0x05, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F), tag_num=0x03)
-126: 0x1971 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5007*]:
+126: 0x1971 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5008*]:
     → "<Sigh>..."
 127: 0x1978 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x1979 [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [EventEntity, EventEntity], work=253*
@@ -5568,7 +5568,7 @@ SUBROUTINE_14C1:
 130: 0x1999 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F))
 131: 0x199F [0x4A] LocalPlayer looks at Tehf Kimasnahya (ID: 16982319/0x0103212F)
 132: 0x19A8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=8*
-133: 0x19B7 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5008*]:
+133: 0x19B7 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5009*]:
     → "You'll help me, won't you? Such a nice-looking person wouldn't let me down.t"
 134: 0x19BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x19BF [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F), tag_num=0x04)
@@ -5576,7 +5576,7 @@ SUBROUTINE_14C1:
 137: 0x19CF [0x1C] WAIT(30* ticks)
 138: 0x19D2 [0x79] LocalPlayer looks at Zabahf (ID: 16982316/0x0103212C) (Basic look)
 139: 0x19DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
-140: 0x19EB [0x2B] Zabahf (ID: 16982316/0x0103212C) [5009*]:
+140: 0x19EB [0x2B] Zabahf (ID: 16982316/0x0103212C) [5010*]:
     → "Just a bit of personal advice, [sir/ma'am]. Everyone is completely enamored of that girl, but she uses everybody for her personal gain. I would stay away if I were you."
 141: 0x19F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x19F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -5654,30 +5654,30 @@ SUBROUTINE_14C1:
  13: 0x1AAD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  14: 0x1ABE [0x1C] WAIT(60* ticks)
  15: 0x1AC1 [0x03] Work_Zone[2] = 772*
- 16: 0x1AC6 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5011*]:
+ 16: 0x1AC6 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5012*]:
     → "You want my $3? Tehf sent you, didn't she? She never gives up, does she?"
  17: 0x1ACD [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1ACE [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=253*
  19: 0x1ADD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[253*, 0*]
  20: 0x1AEE [0x4B] UPDATE_ENTITY_YAW(entity=Ekhu Pesshyadha (ID: 16982314/0x0103212A), yaw=16.7°*)
- 21: 0x1AF5 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5012*]:
+ 21: 0x1AF5 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5013*]:
     → "But that's just too bad. I'll never let her get her paws on my stuff. That kind of girl makes me feel like scrrratching something."
  22: 0x1AFC [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x1AFD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=52*
- 24: 0x1B0C [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5013*]:
+ 24: 0x1B0C [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5014*]:
     → "What do guys see in her, anyway? The guy who came bugging me last time was my type, too!"
  25: 0x1B13 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x1B14 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=253*
  27: 0x1B23 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[254*, 0*]
  28: 0x1B34 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=8*
- 29: 0x1B43 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5014*]:
+ 29: 0x1B43 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5015*]:
     → "How could a cutie like that be interrrested in such a brat!?"
  30: 0x1B4A [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x1B4B [0x1C] WAIT(60* ticks)
  32: 0x1B4E [0x4A] Ekhu Pesshyadha (ID: 16982314/0x0103212A) looks at LocalPlayer
  33: 0x1B57 [0x1C] WAIT(60* ticks)
  34: 0x1B5A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=50*
- 35: 0x1B69 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5015*]:
+ 35: 0x1B69 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5016*]:
     → "But still, if he came back asking for the vial again, I don't think I could rrresist any longer..."
  36: 0x1B70 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x1B71 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=50*
@@ -5685,7 +5685,7 @@ SUBROUTINE_14C1:
  39: 0x1B83 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=254*
  40: 0x1B92 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[253*, 0*]
  41: 0x1BA3 [0x4B] UPDATE_ENTITY_YAW(entity=Ekhu Pesshyadha (ID: 16982314/0x0103212A), yaw=16.7°*)
- 42: 0x1BAA [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5016*]:
+ 42: 0x1BAA [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5017*]:
     → "His outfit's gleaming embellishments rrreally brought out his dashing Elvaan looks... I wish I could find out more about him..."
  43: 0x1BB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x1BB2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -5758,14 +5758,14 @@ SUBROUTINE_14C1:
  17: 0x1C79 [0x4A] Ekhu Pesshyadha (ID: 16982314/0x0103212A) looks at Zabahf (ID: 16982316/0x0103212C)
  18: 0x1C82 [0x1C] WAIT(30* ticks)
  19: 0x1C85 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=8*
- 20: 0x1C94 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5020*]:
+ 20: 0x1C94 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5021*]:
     → "Oh! It's him!"
  21: 0x1C9B [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x1C9C [0x4A] Ekhu Pesshyadha (ID: 16982314/0x0103212A) looks at LocalPlayer
  23: 0x1CA5 [0x1C] WAIT(30* ticks)
  24: 0x1CA8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=50*
  25: 0x1CB7 [0x03] Work_Zone[2] = 772*
- 26: 0x1CBC [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5021*]:
+ 26: 0x1CBC [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5022*]:
     → "Hee hee, nice work. You can have the $3 now!"
  27: 0x1CC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x1CC4 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=253*
@@ -5774,7 +5774,7 @@ SUBROUTINE_14C1:
  31: 0x1CED [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Ekhu Pesshyadha (ID: 16982314/0x0103212A), tag_num=0x06)
  32: 0x1CF4 [0x4A] Ekhu Pesshyadha (ID: 16982314/0x0103212A) looks at LocalPlayer
  33: 0x1CFD [0x1C] WAIT(30* ticks)
- 34: 0x1D00 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5022*]:
+ 34: 0x1D00 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5023*]:
     → "What are you waiting arrround for? Get out of here so we can be alone!t"
  35: 0x1D07 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x1D08 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -5806,7 +5806,7 @@ SUBROUTINE_14C1:
 1D70: 46 01 38 4B 81 92 01 2A  21 03 01 92 01 2C 21 03  F.8K...*!....,!.
 1D80: 01 92 01 2F 21 03 01 92  01 49 20 03 01 92 01 4A  .../!....I ....J
 1D90: 20 03 01 92 01 4B 20 03  01 29 05 2C 21 03 01 09   ....K ..).,!...
-1DA0: 29 05 2A 21 03 01 09 37  A4 81 8C 81 06 80 A5 81  ).*!...7........
+1DA0: 29 05 2A 21 03 01 09 37  A4 81 8B 81 06 80 A5 81  ).*!...7........
 1DB0: 80 F8 FF FF 7F 80 2F 21  03 01 1E 2F 21 03 01 4A  ....../!.../!..J
 1DC0: 2F 21 03 01 F0 FF FF 7F  4A 2C 21 03 01 F0 FF FF  /!......J,!.....
 1DD0: 7F 4A 2A 21 03 01 F0 FF  FF 7F 79 00 49 20 03 01  .J*!......y.I ..
@@ -5976,10 +5976,10 @@ SUBROUTINE_14C1:
  24: 0x1E09 [0x1C] WAIT(60* ticks)
  25: 0x1E0C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=8*
  26: 0x1E1B [0x03] Work_Zone[2] = 772*
- 27: 0x1E20 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5024*]:
+ 27: 0x1E20 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5025*]:
     → "Oh! You got the $3 for me! How sweet! Why, thank you!t"
  28: 0x1E27 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x1E28 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5025*]:
+ 29: 0x1E28 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5026*]:
     → "And since you're sooo sweet, I have one more thing to ask of you, too!"
  30: 0x1E2F [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x1E30 [0x27] REQ_SET(priority=0x0A, entity_id=Zabahf (ID: 16982316/0x0103212C), tag_num=0x0A)
@@ -5987,24 +5987,24 @@ SUBROUTINE_14C1:
  33: 0x1E3E [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=253*
  34: 0x1E4D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[253*, 0*]
  35: 0x1E5E [0x79] LocalPlayer looks at Zabahf (ID: 16982316/0x0103212C) (Basic look)
- 36: 0x1E68 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5026*]:
+ 36: 0x1E68 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5027*]:
     → "I warned you! You shall never escape her now."
  37: 0x1E6F [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x1E70 [0x4A] Ekhu Pesshyadha (ID: 16982314/0x0103212A) looks at Tehf Kimasnahya (ID: 16982319/0x0103212F)
  39: 0x1E79 [0x4A] Zabahf (ID: 16982316/0x0103212C) looks at Tehf Kimasnahya (ID: 16982319/0x0103212F)
  40: 0x1E82 [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Zabahf (ID: 16982316/0x0103212C)
- 41: 0x1E8B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5027*]:
+ 41: 0x1E8B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5028*]:
     → "What are you muttering about over there? You've been awfully rrrude to me lately! Why are you always hanging around here, anyway?"
  42: 0x1E92 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x1E93 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [EventEntity, EventEntity], work=253*
  44: 0x1EA2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [EventEntity, EventEntity], work=[199*, 0*]
  45: 0x1EB3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
- 46: 0x1EC2 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5028*]:
+ 46: 0x1EC2 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5029*]:
     → "What do you mean, why am I always hanging around here? I would like to inquire of you the very same thing!"
  47: 0x1EC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x1ECA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
  49: 0x1ED9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=55*
- 50: 0x1EE8 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5029*]:
+ 50: 0x1EE8 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5030*]:
     → "My, my, what an ego."
  51: 0x1EEF [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x1EF0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=55*
@@ -6012,29 +6012,29 @@ SUBROUTINE_14C1:
  54: 0x1F0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [EventEntity, EventEntity], work=[253*, 0*]
  55: 0x1F1F [0x27] REQ_SET(priority=0x05, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F), tag_num=0x07)
  56: 0x1F26 [0x03] Work_Zone[2] = 772*
- 57: 0x1F2B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5030*]:
+ 57: 0x1F2B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5031*]:
     → "Oh look, if it isn't Ekhu. I'm rrreally enjoying the $3, you know."
  58: 0x1F32 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x1F33 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=52*
- 60: 0x1F42 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5031*]:
+ 60: 0x1F42 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5032*]:
     → "That's okay. I don't need it anymore. Thanks to that vial, I found someone much better than Fernan."
  61: 0x1F49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x1F4A [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [EventEntity, EventEntity], work=253*
  63: 0x1F59 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [EventEntity, EventEntity], work=[253*, 0*]
  64: 0x1F6A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=48*
- 65: 0x1F79 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5032*]:
+ 65: 0x1F79 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5033*]:
     → "Oho, this guy? I see you have broad tastes..."
  66: 0x1F80 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x1F81 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [EventEntity, EventEntity], work=253*
  68: 0x1F90 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[253*, 0*]
  69: 0x1FA1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=50*
- 70: 0x1FB0 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5033*]:
+ 70: 0x1FB0 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5034*]:
     → "Thanks to you, we rrreally hit it off!"
  71: 0x1FB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x1FB8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=50*
  73: 0x1FC7 [0x1C] WAIT(60* ticks)
  74: 0x1FCA [0x4A] Ekhu Pesshyadha (ID: 16982314/0x0103212A) looks at Zabahf (ID: 16982316/0x0103212C)
- 75: 0x1FD3 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5034*]:
+ 75: 0x1FD3 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5035*]:
     → "See you later.t"
  76: 0x1FDA [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x1FDB [0x4A] Zabahf (ID: 16982316/0x0103212C) looks at Ekhu Pesshyadha (ID: 16982314/0x0103212A)
@@ -6044,20 +6044,20 @@ SUBROUTINE_14C1:
  81: 0x1FF1 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=253*
  82: 0x2000 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [EventEntity, EventEntity], work=[253*, 0*]
  83: 0x2011 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=8*
- 84: 0x2020 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5035*]:
+ 84: 0x2020 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5036*]:
     → "She came here just to show off her stupid boyfriend. That kind of girl makes me feel like scrrratching something."
  85: 0x2027 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x2028 [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [EventEntity, EventEntity], work=253*
  87: 0x2037 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[254*, 0*]
  88: 0x2048 [0x4A] Zabahf (ID: 16982316/0x0103212C) looks at Tehf Kimasnahya (ID: 16982319/0x0103212F)
  89: 0x2051 [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Zabahf (ID: 16982316/0x0103212C)
- 90: 0x205A [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5036*]:
+ 90: 0x205A [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5037*]:
     → "And then there's you. Just what do you want with me, anyway? I wish you'd leave me alone!"
  91: 0x2061 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x2062 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=254*
  93: 0x2071 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [EventEntity, EventEntity], work=[253*, 0*]
  94: 0x2082 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
- 95: 0x2091 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5037*]:
+ 95: 0x2091 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5038*]:
     → "What makes you think I would want to be around you, anyway?"
  96: 0x2098 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x2099 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
@@ -6069,7 +6069,7 @@ SUBROUTINE_14C1:
 103: 0x20C4 [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [EventEntity, EventEntity], work=253*
 104: 0x20D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[253*, 0*]
 105: 0x20E4 [0x1C] WAIT(60* ticks)
-106: 0x20E7 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5038*]:
+106: 0x20E7 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5039*]:
     → "What a jerk!"
 107: 0x20EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x20EF [0x2A] GET_REQ_LEVEL(level=5, entity_id=Zabahf (ID: 16982316/0x0103212C))
@@ -6077,29 +6077,29 @@ SUBROUTINE_14C1:
 110: 0x20FB [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [EventEntity, EventEntity], work=253*
 111: 0x210A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[253*, 0*]
 112: 0x211B [0x27] REQ_SET(priority=0x05, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F), tag_num=0x08)
-113: 0x2122 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5039*]:
+113: 0x2122 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5040*]:
     → "Our conversation went rather off-topic. Sorry about that."
 114: 0x2129 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x212A [0x2A] GET_REQ_LEVEL(level=5, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F))
 116: 0x2130 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=50*
-117: 0x213F [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5040*]:
+117: 0x213F [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5041*]:
     → "Oh yeah, I wanted you to brrring something to me. It's also for something I want to make..."
 118: 0x2146 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x2147 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=50*
 120: 0x2156 [0x1C] WAIT(60* ticks)
 121: 0x2159 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=8*
-122: 0x2168 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5041*]:
+122: 0x2168 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5042*]:
     → "I guess I might as well tell you what it is.t"
 123: 0x216F [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x2170 [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [EventEntity, EventEntity], work=253*
 125: 0x217F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[253*, 0*]
 126: 0x2190 [0x27] REQ_SET(priority=0x05, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F), tag_num=0x09)
-127: 0x2197 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5042*]:
+127: 0x2197 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5043*]:
     → "Are you ready? You can't tell anyone, now."
 128: 0x219E [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x219F [0x2A] GET_REQ_LEVEL(level=5, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F))
 130: 0x21A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=68*
-131: 0x21B4 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5043*]:
+131: 0x21B4 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5044*]:
     → "You see, I'm a rrreally materialistic person."
 132: 0x21BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x21BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -6132,12 +6132,12 @@ SUBROUTINE_14C1:
 160: 0x22A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 161: 0x22B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "rgb0" with entities [EventEntity, EventEntity], work=[253*, 0*]
 162: 0x22C2 [0x1C] WAIT(60* ticks)
-163: 0x22C5 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5044*]:
+163: 0x22C5 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5045*]:
     → "But some time ago, I met an old lady in town who said she could make a potion to cure me of my desires."
 164: 0x22CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x22CD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Adahva (ID: 16982323/0x01032133), Adahva (ID: 16982323/0x01032133)], work=60*
 166: 0x22DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=8*
-167: 0x22EB [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5045*]:
+167: 0x22EB [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5046*]:
     → "I was sooo surprised!"
 168: 0x22F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x22F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -6154,7 +6154,7 @@ SUBROUTINE_14C1:
 180: 0x2372 [0x27] REQ_SET(priority=0x05, entity_id=Bashraf (ID: 16982320/0x01032130), tag_num=0x05)
 181: 0x2379 [0x1C] WAIT(30* ticks)
 182: 0x237C [0x27] REQ_SET(priority=0x05, entity_id=Foudeel (ID: 16982321/0x01032131), tag_num=0x05)
-183: 0x2383 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5046*]:
+183: 0x2383 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5047*]:
     → "But the potion is rrreally hard to make and uses a lot of ingredients. That's why I have to ask for help to find everything."
 184: 0x238A [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x238B [0x2A] GET_REQ_LEVEL(level=5, entity_id=Wahboud (ID: 16982322/0x01032132))
@@ -6184,10 +6184,10 @@ SUBROUTINE_14C1:
 209: 0x2442 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 210: 0x2453 [0x1C] WAIT(60* ticks)
 211: 0x2456 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=8*
-212: 0x2465 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5047*]:
+212: 0x2465 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5048*]:
     → "Do you think you could help me find the rrrest of the ingredients? Pretty please?"
 213: 0x246C [0x23] WAIT_FOR_DIALOG_INTERACTION
-214: 0x246D [0x24] CREATE_DIALOG(message_id=5048*, default_option=0*, option_flags=0*)
+214: 0x246D [0x24] CREATE_DIALOG(message_id=5049*, default_option=0*, option_flags=0*)
     → "Help her out? [.../I have a dental appointment.]"
 215: 0x2474 [0x25] WAIT_DIALOG_SELECT()
 216: 0x2475 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2480
@@ -6198,18 +6198,18 @@ SUBROUTINE_14C1:
 SUBROUTINE_248B:
 220: 0x248B [0x1C] WAIT(60* ticks)
 221: 0x248E [0x4B] UPDATE_ENTITY_YAW(entity=Tehf Kimasnahya (ID: 16982319/0x0103212F), yaw=0.3°*)
-222: 0x2495 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5049*]:
+222: 0x2495 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5050*]:
     → "Oh...and I really thought you'd help me, too..."
 223: 0x249C [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x249D [0x27] REQ_SET(priority=0x05, entity_id=Zabahf (ID: 16982316/0x0103212C), tag_num=0x0C)
 225: 0x24A4 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [EventEntity, EventEntity], work=253*
 226: 0x24B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [EventEntity, EventEntity], work=[253*, 0*]
 227: 0x24C4 [0x79] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Zabahf (ID: 16982316/0x0103212C) (Basic look)
-228: 0x24CE [0x2B] Zabahf (ID: 16982316/0x0103212C) [5050*]:
+228: 0x24CE [0x2B] Zabahf (ID: 16982316/0x0103212C) [5051*]:
     → "Fine. If that is the case, I will get them for you."
 229: 0x24D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x24D6 [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Zabahf (ID: 16982316/0x0103212C)
-231: 0x24DF [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5051*]:
+231: 0x24DF [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5052*]:
     → "You're still here? What an interesting turn of events."
 232: 0x24E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x24E7 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Zabahf (ID: 16982316/0x0103212C))
@@ -6218,14 +6218,14 @@ SUBROUTINE_248B:
 236: 0x24FC [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [EventEntity, EventEntity], work=253*
 237: 0x250B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[254*, 0*]
 238: 0x251C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
-239: 0x252B [0x2B] Zabahf (ID: 16982316/0x0103212C) [5052*]:
+239: 0x252B [0x2B] Zabahf (ID: 16982316/0x0103212C) [5053*]:
     → "We must fix that foul personality of yours quickly before everyone suffers."
 240: 0x2532 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x2533 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
 242: 0x2542 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=254*
 243: 0x2551 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[253*, 0*]
 244: 0x2562 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=8*
-245: 0x2571 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5053*]:
+245: 0x2571 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5054*]:
     → "Okay, that was totally uncalled for! I don't need any of your help!"
 246: 0x2578 [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x2579 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=21*
@@ -6235,7 +6235,7 @@ SUBROUTINE_248B:
 251: 0x2595 [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [EventEntity, EventEntity], work=253*
 252: 0x25A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [EventEntity, EventEntity], work=[253*, 0*]
 253: 0x25B5 [0x1C] WAIT(60* ticks)
-254: 0x25B8 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5054*]:
+254: 0x25B8 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5055*]:
     → "Finally he's gone. What a complete jerk!"
 255: 0x25BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x25C0 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Zabahf (ID: 16982316/0x0103212C))
@@ -6243,7 +6243,7 @@ SUBROUTINE_248B:
 258: 0x25D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [EventEntity, EventEntity], work=[199*, 0*]
 259: 0x25E6 [0x4B] UPDATE_ENTITY_YAW(entity=Tehf Kimasnahya (ID: 16982319/0x0103212F), yaw=5.1°*)
 260: 0x25ED [0x1C] WAIT(60* ticks)
-261: 0x25F0 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5055*]:
+261: 0x25F0 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5056*]:
     → "I wonder how the old lady is coming along with that potion..."
 262: 0x25F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x25F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -6383,10 +6383,10 @@ SUBROUTINE_248B:
  22: 0x26D4 [0x1C] WAIT(60* ticks)
  23: 0x26D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  24: 0x26E8 [0x1C] WAIT(60* ticks)
- 25: 0x26EB [0x2B] Adahva (ID: 16982323/0x01032133) [5058*]:
+ 25: 0x26EB [0x2B] Adahva (ID: 16982323/0x01032133) [5059*]:
     → "Kyahaha! Look at how much I have now! And I bet I can squeeze even more out of her!"
  26: 0x26F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x26F3 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5059*]:
+ 27: 0x26F3 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5060*]:
     → "I knew something fishy was going on."
  28: 0x26FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x26FB [0x4A] Adahva (ID: 16982323/0x01032133) looks at Zabahf (ID: 16982316/0x0103212C)
@@ -6395,7 +6395,7 @@ SUBROUTINE_248B:
  32: 0x270E [0x1C] WAIT(120* ticks)
  33: 0x2711 [0x4A] Adahva (ID: 16982323/0x01032133) looks at LocalPlayer
  34: 0x271A [0x1C] WAIT(60* ticks)
- 35: 0x271D [0x2B] Adahva (ID: 16982323/0x01032133) [5060*]:
+ 35: 0x271D [0x2B] Adahva (ID: 16982323/0x01032133) [5061*]:
     → "What are you doing here!?"
  36: 0x2724 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x2725 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Zabahf (ID: 16982316/0x0103212C))
@@ -6405,40 +6405,40 @@ SUBROUTINE_248B:
  41: 0x274E [0x03] Work_Zone[2] = 944*
  42: 0x2753 [0x03] Work_Zone[3] = 1519*
  43: 0x2758 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
- 44: 0x2767 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5061*]:
+ 44: 0x2767 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5062*]:
     → "So this is how you make the potion... Mix some $1 with a few $0, and..."
  45: 0x276E [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x276F [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [EventEntity, EventEntity], work=253*
  47: 0x277E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [EventEntity, EventEntity], work=[253*, 0*]
  48: 0x278F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
  49: 0x279E [0x4A] Adahva (ID: 16982323/0x01032133) looks at Zabahf (ID: 16982316/0x0103212C)
- 50: 0x27A7 [0x2B] Adahva (ID: 16982323/0x01032133) [5062*]:
+ 50: 0x27A7 [0x2B] Adahva (ID: 16982323/0x01032133) [5063*]:
     → "Hey, get out of that! That's not for you to see!"
  51: 0x27AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x27AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
- 53: 0x27BE [0x2B] Zabahf (ID: 16982316/0x0103212C) [5063*]:
+ 53: 0x27BE [0x2B] Zabahf (ID: 16982316/0x0103212C) [5064*]:
     → "Odd... I could swear I have seen this recipe somewhere before."
  54: 0x27C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x27C6 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=253*
  56: 0x27D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [EventEntity, EventEntity], work=[253*, 0*]
  57: 0x27E6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Adahva (ID: 16982323/0x01032133), Adahva (ID: 16982323/0x01032133)], work=60*
- 58: 0x27F5 [0x2B] Adahva (ID: 16982323/0x01032133) [5064*]:
+ 58: 0x27F5 [0x2B] Adahva (ID: 16982323/0x01032133) [5065*]:
     → "You must be mistaken! That's an original!"
  59: 0x27FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x27FD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Adahva (ID: 16982323/0x01032133), Adahva (ID: 16982323/0x01032133)], work=60*
  61: 0x280C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
- 62: 0x281B [0x2B] Zabahf (ID: 16982316/0x0103212C) [5065*]:
+ 62: 0x281B [0x2B] Zabahf (ID: 16982316/0x0103212C) [5066*]:
     → "I will believe that after I have researched it for myself."
  63: 0x2822 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x2823 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=253*
  65: 0x2832 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [EventEntity, EventEntity], work=[253*, 0*]
- 66: 0x2843 [0x2B] Adahva (ID: 16982323/0x01032133) [5066*]:
+ 66: 0x2843 [0x2B] Adahva (ID: 16982323/0x01032133) [5067*]:
     → "Are you calling me a liar?"
  67: 0x284A [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x284B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=27*
  69: 0x285A [0x52] END_LOAD_SCHEDULER: End scheduler "s087" with entities [EventEntity, EventEntity], work=253*
  70: 0x2869 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[253*, 0*]
- 71: 0x287A [0x2B] Zabahf (ID: 16982316/0x0103212C) [5067*]:
+ 71: 0x287A [0x2B] Zabahf (ID: 16982316/0x0103212C) [5068*]:
     → "I do not know what you are planning, but you had better stop taking advantage of Tehf. That is all I have to say to you."
  72: 0x2881 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x2882 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=27*
@@ -6448,34 +6448,34 @@ SUBROUTINE_248B:
  77: 0x28B4 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=253*
  78: 0x28C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[253*, 0*]
  79: 0x28D4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ski0" with entities [Adahva (ID: 16982323/0x01032133), Adahva (ID: 16982323/0x01032133)], work=60*
- 80: 0x28E3 [0x2B] Adahva (ID: 16982323/0x01032133) [5068*]:
+ 80: 0x28E3 [0x2B] Adahva (ID: 16982323/0x01032133) [5069*]:
     → "Ohoho! This is rich!"
  81: 0x28EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x28EB [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [EventEntity, EventEntity], work=253*
  83: 0x28FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[253*, 0*]
  84: 0x290B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ika0" with entities [Adahva (ID: 16982323/0x01032133), Adahva (ID: 16982323/0x01032133)], work=60*
- 85: 0x291A [0x2B] Adahva (ID: 16982323/0x01032133) [5069*]:
+ 85: 0x291A [0x2B] Adahva (ID: 16982323/0x01032133) [5070*]:
     → "Do you realize how many people she's taken advantage of? You're one of them!"
  86: 0x2921 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x2922 [0x2B] Adahva (ID: 16982323/0x01032133) [5070*]:
+ 87: 0x2922 [0x2B] Adahva (ID: 16982323/0x01032133) [5071*]:
     → "She uses people to get whatever she wants, and even that doesn't satisfy her!"
  88: 0x2929 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x292A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ika1" with entities [Adahva (ID: 16982323/0x01032133), Adahva (ID: 16982323/0x01032133)], work=60*
- 90: 0x2939 [0x2B] Adahva (ID: 16982323/0x01032133) [5071*]:
+ 90: 0x2939 [0x2B] Adahva (ID: 16982323/0x01032133) [5072*]:
     → "You can't cure a spoiled brat. And she's a fool on top of that."
  91: 0x2940 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x2941 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Adahva (ID: 16982323/0x01032133), Adahva (ID: 16982323/0x01032133)], work=60*
  93: 0x2950 [0x1C] WAIT(15* ticks)
  94: 0x2953 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=253*
  95: 0x2962 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [EventEntity, EventEntity], work=[199*, 0*]
- 96: 0x2973 [0x2B] Adahva (ID: 16982323/0x01032133) [5072*]:
+ 96: 0x2973 [0x2B] Adahva (ID: 16982323/0x01032133) [5073*]:
     → "No one can help her. But I see nothing wrong with clinging to an unrealistic shred of hope."
  97: 0x297A [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x297B [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F), tag_num=0x0E)
  99: 0x2982 [0x52] END_LOAD_SCHEDULER: End scheduler "s087" with entities [EventEntity, EventEntity], work=199*
 100: 0x2991 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[253*, 0*]
 101: 0x29A2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Adahva (ID: 16982323/0x01032133), Adahva (ID: 16982323/0x01032133)], work=60*
-102: 0x29B1 [0x2B] Adahva (ID: 16982323/0x01032133) [5073*]:
+102: 0x29B1 [0x2B] Adahva (ID: 16982323/0x01032133) [5074*]:
     → "Ehehe. Speak of the devil."
 103: 0x29B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x29B9 [0x4A] Zabahf (ID: 16982316/0x0103212C) looks at Tehf Kimasnahya (ID: 16982319/0x0103212F)
@@ -6483,7 +6483,7 @@ SUBROUTINE_248B:
 106: 0x29C5 [0x27] REQ_SET(priority=0x05, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F), tag_num=0x0F)
 107: 0x29CC [0x1C] WAIT(120* ticks)
 108: 0x29CF [0x27] REQ_SET(priority=0x05, entity_id=Zabahf (ID: 16982316/0x0103212C), tag_num=0x11)
-109: 0x29D6 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5074*]:
+109: 0x29D6 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5075*]:
     → "Tehf! Come back!"
 110: 0x29DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x29DE [0x2A] GET_REQ_LEVEL(level=5, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F))
@@ -6499,7 +6499,7 @@ SUBROUTINE_248B:
 121: 0x2A37 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s085" with entities [EventEntity, EventEntity], work=[199*, 0*]
 122: 0x2A48 [0x7C] Ekhu Pesshyadha (ID: 16982314/0x0103212A)->Render.Flags2 |= 0x00
 123: 0x2A4E [0x1C] WAIT(30* ticks)
-124: 0x2A51 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5075*]:
+124: 0x2A51 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5076*]:
     → "Huh?"
 125: 0x2A58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x2A59 [0x1C] WAIT(30* ticks)
@@ -6519,7 +6519,7 @@ SUBROUTINE_248B:
 140: 0x2ACF [0x52] END_LOAD_SCHEDULER: End scheduler "s086" with entities [EventEntity, EventEntity], work=199*
 141: 0x2ADE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[254*, 0*]
 142: 0x2AEF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=8*
-143: 0x2AFE [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5076*]:
+143: 0x2AFE [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5077*]:
     → "Just what was that all about!?"
 144: 0x2B05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x2B06 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -6690,16 +6690,16 @@ SUBROUTINE_248B:
  39: 0x2C73 [0x1C] WAIT(60* ticks)
  40: 0x2C76 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  41: 0x2C87 [0x1C] WAIT(60* ticks)
- 42: 0x2C8A [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5078*]:
+ 42: 0x2C8A [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5079*]:
     → "That old lady tricked me after all. Are you satisfied now?"
  43: 0x2C91 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x2C92 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
- 45: 0x2CA1 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5079*]:
+ 45: 0x2CA1 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5080*]:
     → "Maybe."
  46: 0x2CA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x2CA9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
  48: 0x2CB8 [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Zabahf (ID: 16982316/0x0103212C)
- 49: 0x2CC1 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5080*]:
+ 49: 0x2CC1 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5081*]:
     → "Just...get out of my sight..."
  50: 0x2CC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x2CC9 [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Foudeel (ID: 16982321/0x01032131)
@@ -6713,28 +6713,28 @@ SUBROUTINE_248B:
  59: 0x2D0D [0x2A] GET_REQ_LEVEL(level=5, entity_id=Bashraf (ID: 16982320/0x01032130))
  60: 0x2D13 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Foudeel (ID: 16982321/0x01032131))
  61: 0x2D19 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Wahboud (ID: 16982322/0x01032132))
- 62: 0x2D1F [0x2B] Bashraf (ID: 16982320/0x01032130) [5081*]:
+ 62: 0x2D1F [0x2B] Bashraf (ID: 16982320/0x01032130) [5082*]:
     → "I am back with the item you requested!"
  63: 0x2D26 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x2D27 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [EventEntity, EventEntity], work=253*
  65: 0x2D36 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[254*, 0*]
- 66: 0x2D47 [0x2B] Foudeel (ID: 16982321/0x01032131) [5082*]:
+ 66: 0x2D47 [0x2B] Foudeel (ID: 16982321/0x01032131) [5083*]:
     → "Along with brave Foudeel!"
  67: 0x2D4E [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x2D4F [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=254*
  69: 0x2D5E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[254*, 0*]
  70: 0x2D6F [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Wahboud (ID: 16982322/0x01032132)
- 71: 0x2D78 [0x2B] Wahboud (ID: 16982322/0x01032132) [5083*]:
+ 71: 0x2D78 [0x2B] Wahboud (ID: 16982322/0x01032132) [5084*]:
     → "And your hero, Wahboud!"
  72: 0x2D7F [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x2D80 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=254*
  74: 0x2D8F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[254*, 0*]
  75: 0x2DA0 [0x79] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Foudeel (ID: 16982321/0x01032131) (Basic look)
- 76: 0x2DAA [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5084*]:
+ 76: 0x2DAA [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5085*]:
     → "Thank you so much, everyone."
  77: 0x2DB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x2DB2 [0x4B] UPDATE_ENTITY_YAW(entity=Tehf Kimasnahya (ID: 16982319/0x0103212F), yaw=5.1°*)
- 79: 0x2DB9 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5085*]:
+ 79: 0x2DB9 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5086*]:
     → "But I don't need the items anymore... I'm really sorry..."
  80: 0x2DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x2DC1 [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=254*
@@ -6742,18 +6742,18 @@ SUBROUTINE_248B:
  83: 0x2DE1 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Bashraf (ID: 16982320/0x01032130))
  84: 0x2DE7 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Foudeel (ID: 16982321/0x01032131))
  85: 0x2DED [0x2A] GET_REQ_LEVEL(level=5, entity_id=Wahboud (ID: 16982322/0x01032132))
- 86: 0x2DF3 [0x2B] Bashraf (ID: 16982320/0x01032130) [5086*]:
+ 86: 0x2DF3 [0x2B] Bashraf (ID: 16982320/0x01032130) [5087*]:
     → "What a pity..."
  87: 0x2DFA [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x2DFB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Foudeel (ID: 16982321/0x01032131), Foudeel (ID: 16982321/0x01032131)], work=0*
- 89: 0x2E0A [0x2B] Foudeel (ID: 16982321/0x01032131) [5087*]:
+ 89: 0x2E0A [0x2B] Foudeel (ID: 16982321/0x01032131) [5088*]:
     → "Even though we worked so hard to bring them to you?"
  90: 0x2E11 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x2E12 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten1" with entities [Foudeel (ID: 16982321/0x01032131), Foudeel (ID: 16982321/0x01032131)], work=0*
  92: 0x2E21 [0x4A] Wahboud (ID: 16982322/0x01032132) looks at Foudeel (ID: 16982321/0x01032131)
  93: 0x2E2A [0x1C] WAIT(30* ticks)
  94: 0x2E2D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Wahboud (ID: 16982322/0x01032132), Wahboud (ID: 16982322/0x01032132)], work=0*
- 95: 0x2E3C [0x2B] Wahboud (ID: 16982322/0x01032132) [5088*]:
+ 95: 0x2E3C [0x2B] Wahboud (ID: 16982322/0x01032132) [5089*]:
     → "Let's go do something more interesting, shall we?"
  96: 0x2E43 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x2E44 [0x27] REQ_SET(priority=0x05, entity_id=Wahboud (ID: 16982322/0x01032132), tag_num=0x09)
@@ -6768,7 +6768,7 @@ SUBROUTINE_248B:
 106: 0x2E8C [0x1C] WAIT(120* ticks)
 107: 0x2E8F [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Zabahf (ID: 16982316/0x0103212C)
 108: 0x2E98 [0x1C] WAIT(60* ticks)
-109: 0x2E9B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5089*]:
+109: 0x2E9B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5090*]:
     → "What are you looking at? Get lost."
 110: 0x2EA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x2EA3 [0x1C] WAIT(30* ticks)
@@ -6782,54 +6782,54 @@ SUBROUTINE_248B:
 119: 0x2EE5 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Foudeel (ID: 16982321/0x01032131)
 120: 0x2EEB [0x4E] SET_ENTITY_HIDE_FLAG: Hide Wahboud (ID: 16982322/0x01032132)
 121: 0x2EF1 [0x1C] WAIT(120* ticks)
-122: 0x2EF4 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5090*]:
+122: 0x2EF4 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5091*]:
     → "Everything I've done seems so meaningless now. I've been looking entirely in the wrong place for what I really want."
 123: 0x2EFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x2EFC [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=254*
 125: 0x2F0B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[253*, 0*]
 126: 0x2F1C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=52*
-127: 0x2F2B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5091*]:
+127: 0x2F2B [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5092*]:
     → "But you knew that already, and that makes me feel like scrrratching something."
 128: 0x2F32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x2F33 [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Zabahf (ID: 16982316/0x0103212C)
 130: 0x2F3C [0x1C] WAIT(60* ticks)
-131: 0x2F3F [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5092*]:
+131: 0x2F3F [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5093*]:
     → "But I'm glad you told off that mean old lady. ...Thank you."
 132: 0x2F46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x2F47 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=21*
-134: 0x2F56 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5093*]:
+134: 0x2F56 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5094*]:
     → "I was not doing it for you."
 135: 0x2F5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x2F5E [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=253*
 137: 0x2F6D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [EventEntity, EventEntity], work=[253*, 0*]
 138: 0x2F7E [0x4B] UPDATE_ENTITY_YAW(entity=Tehf Kimasnahya (ID: 16982319/0x0103212F), yaw=5.1°*)
-139: 0x2F85 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5006*]:
+139: 0x2F85 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5007*]:
     → "Oh. I see how it is."
 140: 0x2F8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x2F8D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=27*
-142: 0x2F9C [0x2B] Zabahf (ID: 16982316/0x0103212C) [5094*]:
+142: 0x2F9C [0x2B] Zabahf (ID: 16982316/0x0103212C) [5095*]:
     → "Um..."
 143: 0x2FA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x2FA4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=27*
 145: 0x2FB3 [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [EventEntity, EventEntity], work=253*
 146: 0x2FC2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[254*, 0*]
-147: 0x2FD3 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5095*]:
+147: 0x2FD3 [0x2B] Zabahf (ID: 16982316/0x0103212C) [5096*]:
     → "I think I need a potion too, so I can express my feelings more clearly."
 148: 0x2FDA [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x2FDB [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=254*
 150: 0x2FEA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [EventEntity, EventEntity], work=[253*, 0*]
 151: 0x2FFB [0x4A] Tehf Kimasnahya (ID: 16982319/0x0103212F) looks at Zabahf (ID: 16982316/0x0103212C)
-152: 0x3004 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5096*]:
+152: 0x3004 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5097*]:
     → "What?"
 153: 0x300B [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x300C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
-155: 0x301B [0x2B] Zabahf (ID: 16982316/0x0103212C) [5097*]:
+155: 0x301B [0x2B] Zabahf (ID: 16982316/0x0103212C) [5098*]:
     → "N-nothing. You must be hearing things."
 156: 0x3022 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x3023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zabahf (ID: 16982316/0x0103212C), Zabahf (ID: 16982316/0x0103212C)], work=20*
 158: 0x3032 [0x4B] UPDATE_ENTITY_YAW(entity=Tehf Kimasnahya (ID: 16982319/0x0103212F), yaw=5.1°*)
 159: 0x3039 [0x1C] WAIT(120* ticks)
-160: 0x303C [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5098*]:
+160: 0x303C [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5099*]:
     → "...Weirdo."
 161: 0x3043 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x3044 [0x6E] LocalPlayer uses emote 26*
@@ -6837,13 +6837,13 @@ SUBROUTINE_248B:
 164: 0x3050 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s052" with entities [EventEntity, EventEntity], work=253*
 165: 0x305F [0x1C] WAIT(60* ticks)
 166: 0x3062 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[254*, 0*]
-167: 0x3073 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5099*]:
+167: 0x3073 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5100*]:
     → "What is up with those two, anyway? I knew it all along..."
 168: 0x307A [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x307B [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [EventEntity, EventEntity], work=254*
 170: 0x308A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [EventEntity, EventEntity], work=[253*, 0*]
 171: 0x309B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=52*
-172: 0x30AA [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5100*]:
+172: 0x30AA [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5101*]:
     → "Oh well. If I don't help them out, who will?"
 173: 0x30B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x30B2 [0x27] REQ_SET(priority=0x05, entity_id=Ekhu Pesshyadha (ID: 16982314/0x0103212A), tag_num=0x11)
@@ -6944,7 +6944,7 @@ SUBROUTINE_248B:
  16: 0x3195 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  17: 0x31A6 [0x1C] WAIT(30* ticks)
  18: 0x31A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=50*
- 19: 0x31B8 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5102*]:
+ 19: 0x31B8 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5103*]:
     → "Thanks for helping me out earlier! The two of us just got back from Bibiki Bay."
  20: 0x31BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x31C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -6963,7 +6963,7 @@ SUBROUTINE_248B:
  34: 0x324C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "rgb0" with entities [EventEntity, EventEntity], work=[253*, 0*]
  35: 0x325D [0x27] REQ_SET(priority=0x05, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F), tag_num=0x15)
  36: 0x3264 [0x1C] WAIT(120* ticks)
- 37: 0x3267 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5103*]:
+ 37: 0x3267 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5104*]:
     → "Actually, I hearrrd Ekhu talking about how beautiful it is there, so I just had to go see it for myself."
  38: 0x326E [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x326F [0x2A] GET_REQ_LEVEL(level=5, entity_id=Tehf Kimasnahya (ID: 16982319/0x0103212F))
@@ -6988,13 +6988,13 @@ SUBROUTINE_248B:
  58: 0x331F [0x1C] WAIT(60* ticks)
  59: 0x3322 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  60: 0x3333 [0x1C] WAIT(60* ticks)
- 61: 0x3336 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5104*]:
+ 61: 0x3336 [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5105*]:
     → "I just brought Zabahf along as my bodyguard, but it was pretty fun!"
  62: 0x333D [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x333E [0x52] END_LOAD_SCHEDULER: End scheduler "s057" with entities [EventEntity, EventEntity], work=253*
  64: 0x334D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[255*, 0*]
  65: 0x335E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Tehf Kimasnahya (ID: 16982319/0x0103212F), Tehf Kimasnahya (ID: 16982319/0x0103212F)], work=50*
- 66: 0x336D [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5105*]:
+ 66: 0x336D [0x2B] Tehf Kimasnahya (ID: 16982319/0x0103212F) [5106*]:
     → "Let me give this to you in apprrreciation for all you've done."
  67: 0x3374 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x3375 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -7137,7 +7137,7 @@ SUBROUTINE_248B:
  16: 0x343C [0x1C] WAIT(30* ticks)
  17: 0x343F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  18: 0x3450 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x3461 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5196*]:
+ 19: 0x3461 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5197*]:
     → "Eh? You say you're looking for a rrrisk-taker by the name of Yadhiwa? Hmmm... I saw her around here just a moment ago..."
  20: 0x3468 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x3469 [0x1C] WAIT(60* ticks)
@@ -7146,11 +7146,11 @@ SUBROUTINE_248B:
  24: 0x348C [0x79] Ekhu Pesshyadha (ID: 16982314/0x0103212A) looks at Yadhiwa (ID: 16982414/0x0103218E) (Basic look)
  25: 0x3496 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Yadhiwa (ID: 16982414/0x0103218E), tag_num=0x07)
  26: 0x349D [0x1C] WAIT(60* ticks)
- 27: 0x34A0 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5197*]:
+ 27: 0x34A0 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5198*]:
     → "Who're you?"
  28: 0x34A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x34A8 [0x4A] LocalPlayer looks at Yadhiwa (ID: 16982414/0x0103218E)
- 30: 0x34B1 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5198*]:
+ 30: 0x34B1 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5199*]:
     → "Awww, Balajaha wants his money back?"
  31: 0x34B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x34B9 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=267*
@@ -7159,29 +7159,29 @@ SUBROUTINE_248B:
  35: 0x34E0 [0x1C] WAIT(10* ticks)
  36: 0x34E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=39*
  37: 0x34F2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)]
- 38: 0x34FF [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5199*]:
+ 38: 0x34FF [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5200*]:
     → "(Grrr, he noticed more quickly than I expected...)"
  39: 0x3506 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x3507 [0x1C] WAIT(60* ticks)
  41: 0x350A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=39*
  42: 0x3519 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)]
  43: 0x3526 [0x4A] Yadhiwa (ID: 16982414/0x0103218E) looks at LocalPlayer
- 44: 0x352F [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5200*]:
+ 44: 0x352F [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5201*]:
     → "If you ask me, he has no room to talk after his willful display of ignorance."
  45: 0x3536 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x3537 [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=267*
  47: 0x3546 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  48: 0x3557 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=39*
- 49: 0x3566 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5201*]:
+ 49: 0x3566 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5202*]:
     → "And he thinks he can just send a buddy to fetch it back and I'll just hand it over with a smile on my face? Is his intelligence dropping by the minute?"
  50: 0x356D [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x356E [0x1C] WAIT(60* ticks)
- 52: 0x3571 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5202*]:
+ 52: 0x3571 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5203*]:
     → "You've gotta deal with me before I'll even give you a glimpse of the gold."
  53: 0x3578 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x3579 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=267*
  55: 0x3588 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
- 56: 0x3599 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5203*]:
+ 56: 0x3599 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5204*]:
     → "I'm sure you're prepared, though, right?"
  57: 0x35A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x35A1 [0x1C] WAIT(60* ticks)
@@ -7189,19 +7189,19 @@ SUBROUTINE_248B:
  60: 0x35B3 [0x52] END_LOAD_SCHEDULER: End scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=267*
  61: 0x35C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  62: 0x35D3 [0x1C] WAIT(120* ticks)
- 63: 0x35D6 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5204*]:
+ 63: 0x35D6 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5205*]:
     → "Of course, it's going to be no cakewalk."
  64: 0x35DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x35DE [0x27] REQ_SET(priority=0x10, entity_id=Yadhiwa (ID: 16982414/0x0103218E), tag_num=0x09)
  66: 0x35E5 [0x1C] WAIT(90* ticks)
- 67: 0x35E8 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5205*]:
+ 67: 0x35E8 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5206*]:
     → "You've gotta show that you're serious about helping out your naive friend."
  68: 0x35EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x35F0 [0x1C] WAIT(60* ticks)
  70: 0x35F3 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=267*
  71: 0x3602 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  72: 0x3613 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=39*
- 73: 0x3622 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5206*]:
+ 73: 0x3622 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5207*]:
     → "And you can do so by providing me with one million gil!"
  74: 0x3629 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x362A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=39*
@@ -7209,7 +7209,7 @@ SUBROUTINE_248B:
  77: 0x3646 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [LocalPlayer, LocalPlayer], work=267*
  78: 0x3655 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  79: 0x3666 [0x27] REQ_SET(priority=0x10, entity_id=Ekhu Pesshyadha (ID: 16982314/0x0103212A), tag_num=0x18)
- 80: 0x366D [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5207*]:
+ 80: 0x366D [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5208*]:
     → "Oh? You can't do that? Hmph. You're no fun."
  81: 0x3674 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x3675 [0x6E] Yadhiwa (ID: 16982414/0x0103218E) uses emote 26*
@@ -7217,18 +7217,18 @@ SUBROUTINE_248B:
  84: 0x3681 [0x1C] WAIT(90* ticks)
  85: 0x3684 [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=267*
  86: 0x3693 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
- 87: 0x36A4 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5208*]:
+ 87: 0x36A4 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5209*]:
     → "Then it'll have to be the dice, won't it?"
  88: 0x36AB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x36AC [0x24] CREATE_DIALOG(message_id=5209*, default_option=0*, option_flags=0*)
+ 89: 0x36AC [0x24] CREATE_DIALOG(message_id=5210*, default_option=0*, option_flags=0*)
     → "Challenge her to a game? [I'll give it a roll./No way.]"
  90: 0x36B3 [0x25] WAIT_DIALOG_SELECT()
  91: 0x36B4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x36F3
  92: 0x36BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=39*
- 93: 0x36CB [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5210*]:
+ 93: 0x36CB [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5211*]:
     → "What? You came all this way looking for me and you don't even want to try? You don't mind going back empty-handed then, eh?"
  94: 0x36D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x36D3 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5211*]:
+ 95: 0x36D3 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5212*]:
     → "Adventurers aren't all they're cracked up to be, are they? Or do you want to prove me wrong?"
  96: 0x36DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x36DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=39*
@@ -7238,20 +7238,20 @@ SUBROUTINE_248B:
 SUBROUTINE_36F3:
 100: 0x36F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 101: 0x3704 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=39*
-102: 0x3713 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5212*]:
+102: 0x3713 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5213*]:
     → "All right then, let's get down to business."
 103: 0x371A [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x371B [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5213*]:
+104: 0x371B [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5214*]:
     → "The rules are simple: Odd number, I win. Even number, you win."
 105: 0x3722 [0x23] WAIT_FOR_DIALOG_INTERACTION
-106: 0x3723 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5214*]:
+106: 0x3723 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5215*]:
     → "All right, now to decide the wager. What do you have on ya that's valuable to you?"
 107: 0x372A [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x372B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=39*
 109: 0x373A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 110: 0x374B [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [LocalPlayer, LocalPlayer], work=267*
 111: 0x375A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
-112: 0x376B [0x24] CREATE_DIALOG(message_id=5215*, default_option=0*, option_flags=0*)
+112: 0x376B [0x24] CREATE_DIALOG(message_id=5216*, default_option=0*, option_flags=0*)
     → "What will you wager? [Love./Dreams./Hope.]"
 113: 0x3772 [0x25] WAIT_DIALOG_SELECT()
 114: 0x3773 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3788
@@ -7269,29 +7269,29 @@ SUBROUTINE_36F3:
 
 SUBROUTINE_37B2:
 126: 0x37B2 [0x1C] WAIT(90* ticks)
-127: 0x37B5 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5216*]:
+127: 0x37B5 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5217*]:
     → "Psh, I don't want any of that. Don't you have anything better?"
 128: 0x37BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x37BD [0x52] END_LOAD_SCHEDULER: End scheduler "s082" with entities [LocalPlayer, LocalPlayer], work=267*
 130: 0x37CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 131: 0x37DD [0x27] REQ_SET(priority=0x10, entity_id=Yadhiwa (ID: 16982414/0x0103218E), tag_num=0x0A)
-132: 0x37E4 [0x48] [System] [5218*]:
+132: 0x37E4 [0x48] [System] [5219*]:
     → "Yadhiwa readies Dice Roll."
 133: 0x37E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dai0" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=31*
 134: 0x37F6 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=[228*, 0*]
 135: 0x3807 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dai0" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)]
-136: 0x3814 [0x48] [System] [5219*]:
+136: 0x3814 [0x48] [System] [5220*]:
     → "Yadhiwa rolls a 999!"
 137: 0x3817 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dai1" with entities [Yadhiwa (ID: 16982414/0x0103218E), Yadhiwa (ID: 16982414/0x0103218E)], work=31*
 138: 0x3826 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=267*
 139: 0x3835 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
-140: 0x3846 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5220*]:
+140: 0x3846 [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5221*]:
     → "Ha ha ha, your [/love is/dreams are/hope is] mine!"
 141: 0x384D [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x384E [0x6E] Yadhiwa (ID: 16982414/0x0103218E) uses emote 8*
 143: 0x3855 [0x99] Wait for Yadhiwa (ID: 16982414/0x0103218E) animation to complete
 144: 0x385A [0x1C] WAIT(60* ticks)
-145: 0x385D [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5221*]:
+145: 0x385D [0x2B] Yadhiwa (ID: 16982414/0x0103218E) [5222*]:
     → "So long, fool!"
 146: 0x3864 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x3865 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Yadhiwa (ID: 16982414/0x0103218E), tag_num=0x0B)
@@ -7302,23 +7302,23 @@ SUBROUTINE_37B2:
 152: 0x3895 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 153: 0x38A6 [0x1C] WAIT(60* ticks)
 154: 0x38A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=51*
-155: 0x38B8 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5222*]:
+155: 0x38B8 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5223*]:
     → "I saw most of what happened... Yadhiwa's always like that."
 156: 0x38BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-157: 0x38C0 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5223*]:
+157: 0x38C0 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5224*]:
     → "There's always someone after her, but she manages to wrrriggle her way out of it."
 158: 0x38C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-159: 0x38C8 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5224*]:
+159: 0x38C8 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5225*]:
     → "I wonder why she starrrted cheating people out of their gold. If she were a bit nicer, people would probably even consider her beautiful..."
 160: 0x38CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x38D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=51*
 162: 0x38DF [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=267*
 163: 0x38EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 164: 0x38FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=53*
-165: 0x390E [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5225*]:
+165: 0x390E [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5226*]:
     → "So, are you still going to go after Yadhiwa?"
 166: 0x3915 [0x23] WAIT_FOR_DIALOG_INTERACTION
-167: 0x3916 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5226*]:
+167: 0x3916 [0x2B] Ekhu Pesshyadha (ID: 16982314/0x0103212A) [5227*]:
     → "She looked like she was headed for Nashmau. If you'rrre quick, you may be able to catch her there."
 168: 0x391D [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x391E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc1" with entities [Ekhu Pesshyadha (ID: 16982314/0x0103212A), Ekhu Pesshyadha (ID: 16982314/0x0103212A)], work=53*
@@ -9791,7 +9791,7 @@ SUBROUTINE_37B2:
 #### Opcodes
 
 ```
-  0: 0x40A1 [0x24] CREATE_DIALOG(message_id=9738*, default_option=1*, option_flags=0*)
+  0: 0x40A1 [0x24] CREATE_DIALOG(message_id=9739*, default_option=1*, option_flags=0*)
     → "Leave the hostel? [Yes./Not yet.]"
   1: 0x40A8 [0x25] WAIT_DIALOG_SELECT()
   2: 0x40A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x40C5

@@ -24,15 +24,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1CE8      |        7400 |
+|       1 | 0x1CE9      |        7401 |
 |       2 | 0x40000000  |  1073741824 |
-|       3 | 0x1CE5      |        7397 |
-|       4 | 0x1CE6      |        7398 |
-|       5 | 0x1CE7      |        7399 |
+|       3 | 0x1CE6      |        7398 |
+|       4 | 0x1CE7      |        7399 |
+|       5 | 0x1CE8      |        7400 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x1CED      |        7405 |
-|       8 | 0x1CEB      |        7403 |
-|       9 | 0x1CE2      |        7394 |
+|       7 | 0x1CEE      |        7406 |
+|       8 | 0x1CEC      |        7404 |
+|       9 | 0x1CE3      |        7395 |
 |      10 | 0x003C      |          60 |
 |      11 | 0x00C8      |         200 |
 |      12 | 0x0017      |          23 |
@@ -48,13 +48,13 @@
 
 ## String References
 
-- **7394**: Raise the net? [Yes./No.]
-- **7397**: You have already baited the net with $1. Use $0 instead?
-- **7398**: Use $0? [Yes./No.]
-- **7399**: You baited the net with $0.
-- **7400**: You cannot use that here.
-- **7403**: $1 is being used as bait.
-- **7405**: This net is rank $0.
+- **7395**: Raise the net? [Yes./No.]
+- **7398**: You have already baited the net with $1. Use $0 instead?
+- **7399**: Use $0? [Yes./No.]
+- **7400**: You baited the net with $0.
+- **7401**: You cannot use that here.
+- **7404**: $1 is being used as bait.
+- **7406**: This net is rank $0.
 
 ## Events
 
@@ -127,22 +127,22 @@
 
 ```
   0: 0x0002 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0016
-  1: 0x000A [0x48] [System] [7400*]:
+  1: 0x000A [0x48] [System] [7401*]:
     → "You cannot use that here."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000E [0x03] Work_Zone[1] = 1073741824*
   4: 0x0013 [0x01] GOTO 0x005C
   5: 0x0016 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0052
-  6: 0x001E [0x48] [System] [7397*]:
+  6: 0x001E [0x48] [System] [7398*]:
     → "You have already baited the net with $1. Use $0 instead?"
   7: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0022 [0x24] CREATE_DIALOG(message_id=7398*, default_option=0*, option_flags=0*)
+  8: 0x0022 [0x24] CREATE_DIALOG(message_id=7399*, default_option=0*, option_flags=0*)
     → "Use $0? [Yes./No.]"
   9: 0x0029 [0x25] WAIT_DIALOG_SELECT()
  10: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003F
  11: 0x0032 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  12: 0x0033 [0x03] Work_Zone[1] = 0*
- 13: 0x0038 [0x48] [System] [7399*]:
+ 13: 0x0038 [0x48] [System] [7400*]:
     → "You baited the net with $0."
  14: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x003C [0x01] GOTO 0x004F
@@ -153,7 +153,7 @@
 SUBROUTINE_004F:
  19: 0x004F [0x01] GOTO 0x005C
  20: 0x0052 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 21: 0x0053 [0x48] [System] [7399*]:
+ 21: 0x0053 [0x48] [System] [7400*]:
     → "You baited the net with $0."
  22: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0057 [0x03] Work_Zone[1] = 0*
@@ -203,14 +203,14 @@ SUBROUTINE_005C:
 
 ```
   0: 0x005E [0x4A] LocalPlayer looks at EventEntity
-  1: 0x0067 [0x48] [System] [7405*]:
+  1: 0x0067 [0x48] [System] [7406*]:
     → "This net is rank $0."
   2: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x006B [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0077
-  4: 0x0073 [0x48] [System] [7403*]:
+  4: 0x0073 [0x48] [System] [7404*]:
     → "$1 is being used as bait."
   5: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0077 [0x24] CREATE_DIALOG(message_id=7394*, default_option=0*, option_flags=0*)
+  6: 0x0077 [0x24] CREATE_DIALOG(message_id=7395*, default_option=0*, option_flags=0*)
     → "Raise the net? [Yes./No.]"
   7: 0x007E [0x25] WAIT_DIALOG_SELECT()
   8: 0x007F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x008F

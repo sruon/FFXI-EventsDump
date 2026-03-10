@@ -24,7 +24,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2726      |       10022 |
+|       0 | 0x2727      |       10023 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x000A      |          10 |
 |       3 | 0x0014      |          20 |
@@ -39,7 +39,7 @@
 
 ## String References
 
-- **10022**: After going through all the trouble of drawing up the water for the oasis, the pioneers of this place stocked it with fish. You can't argue with that kind of thoroughness, hehehe.
+- **10023**: After going through all the trouble of drawing up the water for the oasis, the pioneers of this place stocked it with fish. You can't argue with that kind of thoroughness, hehehe.
 
 ## Events
 
@@ -98,7 +98,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=10022*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=10023*)
     → "After going through all the trouble of drawing up the water for the oasis, the pioneers of this place stocked it with fish. You can't argue with that kind of thoroughness, hehehe."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT

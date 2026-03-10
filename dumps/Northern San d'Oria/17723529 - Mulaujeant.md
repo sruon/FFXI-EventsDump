@@ -52,40 +52,40 @@
 |       0 | 0x0014      |          20 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0015      |          21 |
-|       3 | 0x2F2C      |       12076 |
+|       3 | 0x2F2D      |       12077 |
 |       4 | 0x00C8      |         200 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0078      |         120 |
-|       7 | 0x2F2D      |       12077 |
-|       8 | 0x2F2E      |       12078 |
-|       9 | 0x2F2F      |       12079 |
-|      10 | 0x2F30      |       12080 |
-|      11 | 0x2F31      |       12081 |
-|      12 | 0x2F32      |       12082 |
-|      13 | 0x2F33      |       12083 |
-|      14 | 0x2F34      |       12084 |
-|      15 | 0x2F35      |       12085 |
-|      16 | 0x2F36      |       12086 |
-|      17 | 0x2F37      |       12087 |
-|      18 | 0x2F38      |       12088 |
-|      19 | 0x2F39      |       12089 |
+|       7 | 0x2F2E      |       12078 |
+|       8 | 0x2F2F      |       12079 |
+|       9 | 0x2F30      |       12080 |
+|      10 | 0x2F31      |       12081 |
+|      11 | 0x2F32      |       12082 |
+|      12 | 0x2F33      |       12083 |
+|      13 | 0x2F34      |       12084 |
+|      14 | 0x2F35      |       12085 |
+|      15 | 0x2F36      |       12086 |
+|      16 | 0x2F37      |       12087 |
+|      17 | 0x2F38      |       12088 |
+|      18 | 0x2F39      |       12089 |
+|      19 | 0x2F3A      |       12090 |
 
 ## String References
 
-- **12076**: If you seek the Blackmiths' Guild, you will find it right down those stairs. Take your time. You wouldn't want to fall, now, would you?
-- **12077**: Hm? You want me to read this letter?
-- **12078**: My, what a predicament he has got himself into.
-- **12079**: I wondered why I had not seen much of my friend Rauteinot these days, but to think he was traveling around Kazham...
-- **12080**: This $1 that he has also sent... Very interesting, it is. It is perfect for carving a statue of the Goddess.
-- **12081**: With Rauteinot out in the wilderness risking his life for the cathedral, trying my hand at this statue is the least I could do.
-- **12082**: Then let us waste not time and carve a statue worthy of the Goddess.
-- **12083**: Patience! Patience! Even one such as I needs time to carve a statue worthy of Altana.
-- **12084**: Patience! Patience! Patience is what guided me to carve such a beautiful statue.
-- **12085**: However, I still cannot see how me making this sculpture can be of any assistance to my friend Rauteinot...
-- **12086**: Here. I entrust this statue to you.
-- **12087**: I know not whether you believe in the Goddess of the Dawn, but I trust you will handle her image carefully.
+- **12077**: If you seek the Blackmiths' Guild, you will find it right down those stairs. Take your time. You wouldn't want to fall, now, would you?
+- **12078**: Hm? You want me to read this letter?
+- **12079**: My, what a predicament he has got himself into.
+- **12080**: I wondered why I had not seen much of my friend Rauteinot these days, but to think he was traveling around Kazham...
+- **12081**: This $1 that he has also sent... Very interesting, it is. It is perfect for carving a statue of the Goddess.
+- **12082**: With Rauteinot out in the wilderness risking his life for the cathedral, trying my hand at this statue is the least I could do.
+- **12083**: Then let us waste not time and carve a statue worthy of the Goddess.
+- **12084**: Patience! Patience! Even one such as I needs time to carve a statue worthy of Altana.
+- **12085**: Patience! Patience! Patience is what guided me to carve such a beautiful statue.
+- **12086**: However, I still cannot see how me making this sculpture can be of any assistance to my friend Rauteinot...
+- **12087**: Here. I entrust this statue to you.
 - **12088**: I know not whether you believe in the Goddess of the Dawn, but I trust you will handle her image carefully.
-- **12089**: But how can carving some sculpture possibly help Rauteinot?
+- **12089**: I know not whether you believe in the Goddess of the Dawn, but I trust you will handle her image carefully.
+- **12090**: But how can carving some sculpture possibly help Rauteinot?
 
 ## Events
 
@@ -498,7 +498,7 @@
   1: 0x00E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00EA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mulaujeant (ID: 17723529/0x010E7089), tag_num=0x01)
-  4: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12076*)
+  4: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12077*)
     → "If you seek the Blackmiths' Guild, you will find it right down those stairs. Take your time. You wouldn't want to fall, now, would you?"
   5: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mulaujeant (ID: 17723529/0x010E7089), tag_num=0x02)
@@ -583,7 +583,7 @@
 #### Opcodes
 
 ```
-  0: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=12077*)
+  0: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=12078*)
     → "Hm? You want me to read this letter?"
   1: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01A1 [0x00] END_REQSTACK()
@@ -608,7 +608,7 @@
 #### Opcodes
 
 ```
-  0: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12078*)
+  0: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12079*)
     → "My, what a predicament he has got himself into."
   1: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01A6 [0x00] END_REQSTACK()
@@ -633,7 +633,7 @@
 #### Opcodes
 
 ```
-  0: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12079*)
+  0: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12080*)
     → "I wondered why I had not seen much of my friend Rauteinot these days, but to think he was traveling around Kazham..."
   1: 0x01AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01AB [0x00] END_REQSTACK()
@@ -659,7 +659,7 @@
 #### Opcodes
 
 ```
-  0: 0x01AC [0x1D] PRINT_EVENT_MESSAGE(message_id=12080*)
+  0: 0x01AC [0x1D] PRINT_EVENT_MESSAGE(message_id=12081*)
     → "This $1 that he has also sent... Very interesting, it is. It is perfect for carving a statue of the Goddess."
   1: 0x01AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B0 [0x00] END_REQSTACK()
@@ -684,7 +684,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12081*)
+  0: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
     → "With Rauteinot out in the wilderness risking his life for the cathedral, trying my hand at this statue is the least I could do."
   1: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B5 [0x00] END_REQSTACK()
@@ -709,7 +709,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
+  0: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
     → "Then let us waste not time and carve a statue worthy of the Goddess."
   1: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01BA [0x00] END_REQSTACK()
@@ -740,7 +740,7 @@
   1: 0x01C0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01C1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mulaujeant (ID: 17723529/0x010E7089), tag_num=0x01)
-  4: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
+  4: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
     → "Patience! Patience! Even one such as I needs time to carve a statue worthy of Altana."
   5: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01CD [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -809,7 +809,7 @@
 #### Opcodes
 
 ```
-  0: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
+  0: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
     → "Patience! Patience! Patience is what guided me to carve such a beautiful statue."
   1: 0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0226 [0x00] END_REQSTACK()
@@ -834,7 +834,7 @@
 #### Opcodes
 
 ```
-  0: 0x0227 [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
+  0: 0x0227 [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
     → "However, I still cannot see how me making this sculpture can be of any assistance to my friend Rauteinot..."
   1: 0x022A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x022B [0x00] END_REQSTACK()
@@ -860,7 +860,7 @@
 #### Opcodes
 
 ```
-  0: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
+  0: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
     → "Here. I entrust this statue to you."
   1: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0230 [0x00] END_REQSTACK()
@@ -885,7 +885,7 @@
 #### Opcodes
 
 ```
-  0: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
+  0: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=12088*)
     → "I know not whether you believe in the Goddess of the Dawn, but I trust you will handle her image carefully."
   1: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0235 [0x00] END_REQSTACK()
@@ -916,10 +916,10 @@
   1: 0x023B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x023C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x023D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mulaujeant (ID: 17723529/0x010E7089), tag_num=0x01)
-  4: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=12088*)
+  4: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
     → "I know not whether you believe in the Goddess of the Dawn, but I trust you will handle her image carefully."
   5: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
+  6: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=12090*)
     → "But how can carving some sculpture possibly help Rauteinot?"
   7: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x024C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mulaujeant (ID: 17723529/0x010E7089), tag_num=0x02)

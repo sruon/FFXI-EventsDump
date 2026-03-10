@@ -20,9 +20,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FCB      |        8139 |
+|       0 | 0x1FCC      |        8140 |
 |       1 | 0x001A      |          26 |
-|       2 | 0x1FCC      |        8140 |
+|       2 | 0x1FCD      |        8141 |
 
 ## Events
 
@@ -70,12 +70,12 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x2B] EventEntity [8139*]:
+  1: 0x0006 [0x2B] EventEntity [8140*]:
     → "Identify yourself! We are at war. You never know who might be a beastman spy."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000E [0x6E] EventEntity uses emote 26*
   4: 0x0015 [0x99] Wait for EventEntity animation to complete
-  5: 0x001A [0x2B] EventEntity [8140*]:
+  5: 0x001A [0x2B] EventEntity [8141*]:
     → "It would be one thing if we had only the Yagudo to worry about. But rumor has it that even fouler beastmen are brooding in the north..."
   6: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0022 [0x21] END_EVENT

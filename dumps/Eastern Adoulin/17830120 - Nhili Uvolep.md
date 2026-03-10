@@ -78,84 +78,84 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0037      |          55 |
-|       1 | 0x2B64      |       11108 |
+|       1 | 0x2B65      |       11109 |
 |       2 | 0x002D      |          45 |
 |       3 | 0x00C8      |         200 |
 |       4 | 0xFFFFFED4  |  4294966996 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0A15      |        2581 |
-|       7 | 0x2B65      |       11109 |
+|       7 | 0x2B66      |       11110 |
 |       8 | 0x0096      |         150 |
 |       9 | 0x0050      |          80 |
-|      10 | 0x2B66      |       11110 |
-|      11 | 0x2B67      |       11111 |
+|      10 | 0x2B67      |       11111 |
+|      11 | 0x2B68      |       11112 |
 |      12 | 0x001E      |          30 |
 |      13 | 0x0001      |           1 |
-|      14 | 0x2ABF      |       10943 |
-|      15 | 0x2AB6      |       10934 |
-|      16 | 0x2AB7      |       10935 |
+|      14 | 0x2AC0      |       10944 |
+|      15 | 0x2AB7      |       10935 |
+|      16 | 0x2AB8      |       10936 |
 |      17 | 0x0016      |          22 |
 |      18 | 0x0064      |         100 |
 |      19 | 0x001D      |          29 |
-|      20 | 0x2AB8      |       10936 |
+|      20 | 0x2AB9      |       10937 |
 |      21 | 0x005A      |          90 |
-|      22 | 0x2AB9      |       10937 |
-|      23 | 0x2ABA      |       10938 |
-|      24 | 0x2ABB      |       10939 |
-|      25 | 0x2ABC      |       10940 |
+|      22 | 0x2ABA      |       10938 |
+|      23 | 0x2ABB      |       10939 |
+|      24 | 0x2ABC      |       10940 |
+|      25 | 0x2ABD      |       10941 |
 |      26 | 0x0008      |           8 |
-|      27 | 0x2AC0      |       10944 |
-|      28 | 0x2AC1      |       10945 |
+|      27 | 0x2AC1      |       10945 |
+|      28 | 0x2AC2      |       10946 |
 |      29 | 0x0023      |          35 |
-|      30 | 0x2ABD      |       10941 |
-|      31 | 0x2ABE      |       10942 |
+|      30 | 0x2ABE      |       10942 |
+|      31 | 0x2ABF      |       10943 |
 |      32 | 0x0078      |         120 |
 |      33 | 0x0032      |          50 |
-|      34 | 0x2AC2      |       10946 |
-|      35 | 0x2AC3      |       10947 |
-|      36 | 0x2AC9      |       10953 |
+|      34 | 0x2AC3      |       10947 |
+|      35 | 0x2AC4      |       10948 |
+|      36 | 0x2ACA      |       10954 |
 |      37 | 0x524A      |       21066 |
-|      38 | 0x2ACA      |       10954 |
-|      39 | 0x2ACB      |       10955 |
-|      40 | 0x2ACC      |       10956 |
-|      41 | 0x2ACD      |       10957 |
+|      38 | 0x2ACB      |       10955 |
+|      39 | 0x2ACC      |       10956 |
+|      40 | 0x2ACD      |       10957 |
+|      41 | 0x2ACE      |       10958 |
 |      42 | 0x0002      |           2 |
-|      43 | 0x2ACE      |       10958 |
-|      44 | 0x2ACF      |       10959 |
-|      45 | 0x2AD1      |       10961 |
-|      46 | 0x2AD2      |       10962 |
-|      47 | 0x2AD0      |       10960 |
-|      48 | 0x2AC5      |       10949 |
-|      49 | 0x2AC6      |       10950 |
+|      43 | 0x2ACF      |       10959 |
+|      44 | 0x2AD0      |       10960 |
+|      45 | 0x2AD2      |       10962 |
+|      46 | 0x2AD3      |       10963 |
+|      47 | 0x2AD1      |       10961 |
+|      48 | 0x2AC6      |       10950 |
+|      49 | 0x2AC7      |       10951 |
 |      50 | 0x0003      |           3 |
-|      51 | 0x2AC7      |       10951 |
-|      52 | 0x2AC4      |       10948 |
-|      53 | 0x2AC8      |       10952 |
-|      54 | 0x2A5F      |       10847 |
-|      55 | 0x2A60      |       10848 |
-|      56 | 0x2A5C      |       10844 |
-|      57 | 0x2A5D      |       10845 |
-|      58 | 0x2A5E      |       10846 |
-|      59 | 0x2A61      |       10849 |
-|      60 | 0x2A62      |       10850 |
-|      61 | 0x2A49      |       10825 |
-|      62 | 0x2A42      |       10818 |
-|      63 | 0x2A43      |       10819 |
-|      64 | 0x2A44      |       10820 |
-|      65 | 0x2A45      |       10821 |
-|      66 | 0x2A46      |       10822 |
-|      67 | 0x2A47      |       10823 |
-|      68 | 0x2A48      |       10824 |
-|      69 | 0x2A3A      |       10810 |
-|      70 | 0x2A3B      |       10811 |
-|      71 | 0x2A38      |       10808 |
-|      72 | 0x2A39      |       10809 |
-|      73 | 0x2A3C      |       10812 |
-|      74 | 0x2A3D      |       10813 |
-|      75 | 0x2A3F      |       10815 |
-|      76 | 0x2A40      |       10816 |
-|      77 | 0x2A41      |       10817 |
-|      78 | 0x2A3E      |       10814 |
+|      51 | 0x2AC8      |       10952 |
+|      52 | 0x2AC5      |       10949 |
+|      53 | 0x2AC9      |       10953 |
+|      54 | 0x2A60      |       10848 |
+|      55 | 0x2A61      |       10849 |
+|      56 | 0x2A5D      |       10845 |
+|      57 | 0x2A5E      |       10846 |
+|      58 | 0x2A5F      |       10847 |
+|      59 | 0x2A62      |       10850 |
+|      60 | 0x2A63      |       10851 |
+|      61 | 0x2A4A      |       10826 |
+|      62 | 0x2A43      |       10819 |
+|      63 | 0x2A44      |       10820 |
+|      64 | 0x2A45      |       10821 |
+|      65 | 0x2A46      |       10822 |
+|      66 | 0x2A47      |       10823 |
+|      67 | 0x2A48      |       10824 |
+|      68 | 0x2A49      |       10825 |
+|      69 | 0x2A3B      |       10811 |
+|      70 | 0x2A3C      |       10812 |
+|      71 | 0x2A39      |       10809 |
+|      72 | 0x2A3A      |       10810 |
+|      73 | 0x2A3D      |       10813 |
+|      74 | 0x2A3E      |       10814 |
+|      75 | 0x2A40      |       10816 |
+|      76 | 0x2A41      |       10817 |
+|      77 | 0x2A42      |       10818 |
+|      78 | 0x2A3F      |       10815 |
 |      79 | 0x0C1C      |        3100 |
 |      80 | 0x00FA      |         250 |
 |      81 | 0x000D      |          13 |
@@ -163,116 +163,116 @@
 |      83 | 0xFFFFE17C  |  4294959484 |
 |      84 | 0x003C      |          60 |
 |      85 | 0x09D1      |        2513 |
-|      86 | 0x359E      |       13726 |
+|      86 | 0x359F      |       13727 |
 |      87 | 0x0034      |          52 |
 |      88 | 0x0035      |          53 |
-|      89 | 0x2908      |       10504 |
-|      90 | 0x2909      |       10505 |
-|      91 | 0x1ED9      |        7897 |
-|      92 | 0x1EDA      |        7898 |
-|      93 | 0x1EDB      |        7899 |
-|      94 | 0x1EDC      |        7900 |
-|      95 | 0x1EDD      |        7901 |
-|      96 | 0x1EDE      |        7902 |
-|      97 | 0x1EDF      |        7903 |
-|      98 | 0x1FB8      |        8120 |
-|      99 | 0x1FB9      |        8121 |
+|      89 | 0x2909      |       10505 |
+|      90 | 0x290A      |       10506 |
+|      91 | 0x1EDA      |        7898 |
+|      92 | 0x1EDB      |        7899 |
+|      93 | 0x1EDC      |        7900 |
+|      94 | 0x1EDD      |        7901 |
+|      95 | 0x1EDE      |        7902 |
+|      96 | 0x1EDF      |        7903 |
+|      97 | 0x1EE0      |        7904 |
+|      98 | 0x1FB9      |        8121 |
+|      99 | 0x1FBA      |        8122 |
 |     100 | 0x5CA6      |       23718 |
 |     101 | 0x81C5      |       33221 |
 |     102 | 0xFFFFA97C  |  4294945148 |
-|     103 | 0x295B      |       10587 |
-|     104 | 0x295C      |       10588 |
-|     105 | 0x295D      |       10589 |
-|     106 | 0x295E      |       10590 |
-|     107 | 0x295F      |       10591 |
-|     108 | 0x2977      |       10615 |
-|     109 | 0x299D      |       10653 |
-|     110 | 0x299E      |       10654 |
-|     111 | 0x299F      |       10655 |
-|     112 | 0x29A0      |       10656 |
+|     103 | 0x295C      |       10588 |
+|     104 | 0x295D      |       10589 |
+|     105 | 0x295E      |       10590 |
+|     106 | 0x295F      |       10591 |
+|     107 | 0x2960      |       10592 |
+|     108 | 0x2978      |       10616 |
+|     109 | 0x299E      |       10654 |
+|     110 | 0x299F      |       10655 |
+|     111 | 0x29A0      |       10656 |
+|     112 | 0x29A1      |       10657 |
 
 ## String References
 
-- **7897**: I suppose you have business with Ikhi Askamot, ministerrr of education?
-- **7898**: Making the rrrounds tooth and claw, are you?
-- **7899**: There's been no suspicious activity in this parrrt of town.
-- **7900**: Hmm? The minister?
-- **7901**: I'm afrrraid she's not in at the moment. One of the other ministers has their paws on her.
-- **7902**: Easterrrn Adoulin is always busy with the ministers coming and going from their residences. You'd be hard-pressed to catch one of them in their homes.
-- **7903**: Guarding a minister's mansion may not be very glorrrious, but we take pride in it nonetheless!
-- **8120**: Worrrking for the library, are you? Well, let me see what you've got for me.
-- **8121**: ...There's something new about Ikhi Askamot that's not listed in the file. Herrre, let me add it for you. Enjoy.
-- **10504**: You're damn right this estate belongs to an important person! Just look, it's purrrched upon a hill that overlooks Eastern Adoulin!
-- **10505**: This grrrand abode is actually the home of Ikhi Askamot, our minister of education. She's famous not only for her political role, but also because many claim she's the rrreincarnation of legendary geomancer Sih Renaye.
-- **10587**: Sylvie's quite brrrash to head to Morimar Basalt Fields all by her lonesome. It would be terrible if some ill fate were to befall her, too.
-- **10588**: Lhaiso has ordered you to go find her fatherrr, Hostenn. Her wishes must be respected.
-- **10589**: And if you are a pioneerrr, you must be intimately familiar with the area. The frontier station there can surely update you on the situation.
-- **10590**: Other members of the orderrr have told me that even though the great Lhaiso herself went to help Hostenn, he was unable to be saved.
-- **10591**: Despite being of the Zacariah lineage, he was a geomancer of the highest caliberrr. He shall be missed.
-- **10615**: The great Lhaiso's condition grows increasingly grrrave by the day. I cannot help but harbor a dark sense of foreboding.
-- **10653**: The mages from the Order of Janniston have rrrequested that Lhaiso be left to her slumber.
-- **10654**: This is the first time in ages that such a trrragedy has befallen us. I hope everything will be all right.
-- **10655**: Lhaiso has rrreturned to us!
-- **10656**: Your brrravery has truly touched us all. The entire order owes you a debt of gratitude.
-- **10808**: <Player>! How wonderrrful to see you here! The entire order remains in your debt after all you did to help Sylvie and Lhaiso.
-- **10809**: In fact, your coming could not have been at a more forrrtuitous time. I recently stopped by Celennia Memorial Library and chanced upon a volume of much import.
-- **10810**: It references certain "forces of darkness" that existed ages ago, with rrruins remaining somewhere in the Dho Gates.
-- **10811**: I've neverrr been one to give in to fables that easily, but "forces of darkness"? It certainly gives one pause.
-- **10812**: Could I perhaps trrrouble you to investigate this matter in my stead?
-- **10813**: Will you assist Nhili? [Of course./I've done enough for your order.]
-- **10814**: How unfortunate. Purrrhaps I should ask another.
-- **10815**: You have my grrratitude--though exploration is its own reward.
-- **10816**: I would go myself, but...I couldn't possibly tearrr myself away from here to go someplace so scar--far away.
-- **10817**: After all, someone must prrrevent the uncouth from bothering Ikhi or Lhaiso.
-- **10818**: A...handbell?
-- **10819**: I see. But why would this be sitting in the inner rrrecesses of Dho Gates?
-- **10820**: Was it something lost to the ages, or left there deliberrrately? This requires further study in the library.
-- **10821**: You may keep the bell in the meantime. Its unique forrrm and metallic composition are enough for me to go on.
-- **10822**: And I'm not saying that because it looks...crrreepy. Because it doesn't.
-- **10823**: My memory is near flawless, and thus I do not rrrequire it to be on hand.
-- **10824**: I have but one condition--do not sell it to some unsavory peddler or toss it away like last week's leftover brrread.
-- **10825**: And please, be carrreful should you happen upon a Mithra claiming to be from Zhwa. She'd do anything to get her paws on something so valuable.
-- **10844**: Why, hello again, <Player>! Rrremember how I was going to research the bell you found? Well, you see...
-- **10845**: Oh my! You cerrrtainly did gussy it up while I was knee-deep in books from the historical archives.
-- **10846**: This crrrest is utterly fascinating. Could it be from the age of...? Ah, but forgive me. You didn't come to hear a treatise on ancient symbols.
-- **10847**: You mentioned you found it buried beneath some rrrubble in Dho Gates, no? Then perhaps it is a relic of a battle in years gone by that happened there many centuries past.
-- **10848**: Of course, no records of such bloodshed exist...so I had to rely on more esoterrric sources. A book of fables, to be precise. But the details seem to fit.
-- **10849**: Do you suppose the spirits of the fallen rrreside within its metallic shell? Ugh...my head is beginning to swim.
-- **10850**: I need to take a brief rrrespite...should you desire to learn more, I wish you Goddess-speed.
-- **10934**: <Player>! You could not have come at a more opporrrtune time!
-- **10935**: Are you perchance a wandering geomancer? You could not have come at a more opporrrtune time!
-- **10936**: "What time might that be?" Ahh...forrrget I said anything.
-- **10937**: Would you be interested in furrrthering your geomantic training? Or rather, in unleashing your true potential?
-- **10938**: The Order of Renaye houses a varrriety of artifacts within our hold, but chief among them is a line of enigmatic wands that initiates train with to amplify the energies of the lifestream in new ways.
-- **10939**: Would you like to experience this powerrr for yourself?
-- **10940**: Learn more about geomantic mysteries? [I'd love to!/I'm a bit busy right now...]
-- **10941**: A-and after we've come this far together... How unforrrtunate.
-- **10942**: B-but you seemed so reliable... How unforrrtunate.
-- **10943**: <Player>! Have you rrreconsidered my offer? After all, the lifestream waits for no [man/woman]!
-- **10944**: Wonderrrful!
+- **7898**: I suppose you have business with Ikhi Askamot, ministerrr of education?
+- **7899**: Making the rrrounds tooth and claw, are you?
+- **7900**: There's been no suspicious activity in this parrrt of town.
+- **7901**: Hmm? The minister?
+- **7902**: I'm afrrraid she's not in at the moment. One of the other ministers has their paws on her.
+- **7903**: Easterrrn Adoulin is always busy with the ministers coming and going from their residences. You'd be hard-pressed to catch one of them in their homes.
+- **7904**: Guarding a minister's mansion may not be very glorrrious, but we take pride in it nonetheless!
+- **8121**: Worrrking for the library, are you? Well, let me see what you've got for me.
+- **8122**: ...There's something new about Ikhi Askamot that's not listed in the file. Herrre, let me add it for you. Enjoy.
+- **10505**: You're damn right this estate belongs to an important person! Just look, it's purrrched upon a hill that overlooks Eastern Adoulin!
+- **10506**: This grrrand abode is actually the home of Ikhi Askamot, our minister of education. She's famous not only for her political role, but also because many claim she's the rrreincarnation of legendary geomancer Sih Renaye.
+- **10588**: Sylvie's quite brrrash to head to Morimar Basalt Fields all by her lonesome. It would be terrible if some ill fate were to befall her, too.
+- **10589**: Lhaiso has ordered you to go find her fatherrr, Hostenn. Her wishes must be respected.
+- **10590**: And if you are a pioneerrr, you must be intimately familiar with the area. The frontier station there can surely update you on the situation.
+- **10591**: Other members of the orderrr have told me that even though the great Lhaiso herself went to help Hostenn, he was unable to be saved.
+- **10592**: Despite being of the Zacariah lineage, he was a geomancer of the highest caliberrr. He shall be missed.
+- **10616**: The great Lhaiso's condition grows increasingly grrrave by the day. I cannot help but harbor a dark sense of foreboding.
+- **10654**: The mages from the Order of Janniston have rrrequested that Lhaiso be left to her slumber.
+- **10655**: This is the first time in ages that such a trrragedy has befallen us. I hope everything will be all right.
+- **10656**: Lhaiso has rrreturned to us!
+- **10657**: Your brrravery has truly touched us all. The entire order owes you a debt of gratitude.
+- **10809**: <Player>! How wonderrrful to see you here! The entire order remains in your debt after all you did to help Sylvie and Lhaiso.
+- **10810**: In fact, your coming could not have been at a more forrrtuitous time. I recently stopped by Celennia Memorial Library and chanced upon a volume of much import.
+- **10811**: It references certain "forces of darkness" that existed ages ago, with rrruins remaining somewhere in the Dho Gates.
+- **10812**: I've neverrr been one to give in to fables that easily, but "forces of darkness"? It certainly gives one pause.
+- **10813**: Could I perhaps trrrouble you to investigate this matter in my stead?
+- **10814**: Will you assist Nhili? [Of course./I've done enough for your order.]
+- **10815**: How unfortunate. Purrrhaps I should ask another.
+- **10816**: You have my grrratitude--though exploration is its own reward.
+- **10817**: I would go myself, but...I couldn't possibly tearrr myself away from here to go someplace so scar--far away.
+- **10818**: After all, someone must prrrevent the uncouth from bothering Ikhi or Lhaiso.
+- **10819**: A...handbell?
+- **10820**: I see. But why would this be sitting in the inner rrrecesses of Dho Gates?
+- **10821**: Was it something lost to the ages, or left there deliberrrately? This requires further study in the library.
+- **10822**: You may keep the bell in the meantime. Its unique forrrm and metallic composition are enough for me to go on.
+- **10823**: And I'm not saying that because it looks...crrreepy. Because it doesn't.
+- **10824**: My memory is near flawless, and thus I do not rrrequire it to be on hand.
+- **10825**: I have but one condition--do not sell it to some unsavory peddler or toss it away like last week's leftover brrread.
+- **10826**: And please, be carrreful should you happen upon a Mithra claiming to be from Zhwa. She'd do anything to get her paws on something so valuable.
+- **10845**: Why, hello again, <Player>! Rrremember how I was going to research the bell you found? Well, you see...
+- **10846**: Oh my! You cerrrtainly did gussy it up while I was knee-deep in books from the historical archives.
+- **10847**: This crrrest is utterly fascinating. Could it be from the age of...? Ah, but forgive me. You didn't come to hear a treatise on ancient symbols.
+- **10848**: You mentioned you found it buried beneath some rrrubble in Dho Gates, no? Then perhaps it is a relic of a battle in years gone by that happened there many centuries past.
+- **10849**: Of course, no records of such bloodshed exist...so I had to rely on more esoterrric sources. A book of fables, to be precise. But the details seem to fit.
+- **10850**: Do you suppose the spirits of the fallen rrreside within its metallic shell? Ugh...my head is beginning to swim.
+- **10851**: I need to take a brief rrrespite...should you desire to learn more, I wish you Goddess-speed.
+- **10935**: <Player>! You could not have come at a more opporrrtune time!
+- **10936**: Are you perchance a wandering geomancer? You could not have come at a more opporrrtune time!
+- **10937**: "What time might that be?" Ahh...forrrget I said anything.
+- **10938**: Would you be interested in furrrthering your geomantic training? Or rather, in unleashing your true potential?
+- **10939**: The Order of Renaye houses a varrriety of artifacts within our hold, but chief among them is a line of enigmatic wands that initiates train with to amplify the energies of the lifestream in new ways.
+- **10940**: Would you like to experience this powerrr for yourself?
+- **10941**: Learn more about geomantic mysteries? [I'd love to!/I'm a bit busy right now...]
+- **10942**: A-and after we've come this far together... How unforrrtunate.
+- **10943**: B-but you seemed so reliable... How unforrrtunate.
+- **10944**: <Player>! Have you rrreconsidered my offer? After all, the lifestream waits for no [man/woman]!
 - **10945**: Wonderrrful!
-- **10946**: Then I bid you wield this wand and execute weapon skills upon your foes. The more the better!
-- **10947**: Report back and trade me the weapon should you learrrn anything new.
-- **10948**: Mayhap my instructions were unclear. You need to actually use weapon skills. Have you been leaving this heirloom to rrrot in your bags?
-- **10949**: Aha! I can feel a faint aura resonating within its slender frrrame.
-- **10950**: Yes...the haft is noticeably tingling. I'd say you'rrre halfway there!
-- **10951**: Amazing! The enerrrgies, once latent, are wholly palpable!
-- **10952**: Purrrform more weapon skills, and I'm sure something amazing will happen!
-- **10953**: A pleasurrre, as always. How fare your adventures with the wand I lent you?
-- **10954**: How are you finding the wand? [I've nothing to report./I've lost my $1./I'm not interested anymore.]
-- **10955**: Y-you what!?
-- **10956**: I lectured you on the import and symbolism of this task, and you went and threw it in the trrrash!? <Sigh>... Let me get you a new one.
-- **10957**: All the work with the old one has gone to waste...so it's back to squarrre one for you!
-- **10958**: N-not interested!? Then all your efforrrts will have been for naught! Are you absolutely sure?
-- **10959**: Really abandon Nhili's task? [Yes. I have no time for this./No. I'd like to reconsider.]
-- **10960**: Oh, by the lifestream! If a Mithrrra has nine lives, then you just took away three of them!
-- **10961**: O-oh no... I can't stop you, but...I'm rather disappointed.
-- **10962**: Don't worry about rrreturning your $0. We've got plenty in stock.
-- **11108**: What? You want me to apprrraise a painting? An odd request, for sure, but I think I'm up to it.
-- **11109**: Nhili Uvolep stares at the painting $3 with a discerning eye.
-- **11110**: Sorry, but you got the fur pulled over your eyes. It's an incontrrrovertible fake.
-- **11111**: If only it were rrreal, you'd be set for life.
-- **13726**: Should you come across $6 in your travels, bring it to Wescolina in Western Adoulin. If anyone can rrreplicate that attire, she can.
+- **10946**: Wonderrrful!
+- **10947**: Then I bid you wield this wand and execute weapon skills upon your foes. The more the better!
+- **10948**: Report back and trade me the weapon should you learrrn anything new.
+- **10949**: Mayhap my instructions were unclear. You need to actually use weapon skills. Have you been leaving this heirloom to rrrot in your bags?
+- **10950**: Aha! I can feel a faint aura resonating within its slender frrrame.
+- **10951**: Yes...the haft is noticeably tingling. I'd say you'rrre halfway there!
+- **10952**: Amazing! The enerrrgies, once latent, are wholly palpable!
+- **10953**: Purrrform more weapon skills, and I'm sure something amazing will happen!
+- **10954**: A pleasurrre, as always. How fare your adventures with the wand I lent you?
+- **10955**: How are you finding the wand? [I've nothing to report./I've lost my $1./I'm not interested anymore.]
+- **10956**: Y-you what!?
+- **10957**: I lectured you on the import and symbolism of this task, and you went and threw it in the trrrash!? <Sigh>... Let me get you a new one.
+- **10958**: All the work with the old one has gone to waste...so it's back to squarrre one for you!
+- **10959**: N-not interested!? Then all your efforrrts will have been for naught! Are you absolutely sure?
+- **10960**: Really abandon Nhili's task? [Yes. I have no time for this./No. I'd like to reconsider.]
+- **10961**: Oh, by the lifestream! If a Mithrrra has nine lives, then you just took away three of them!
+- **10962**: O-oh no... I can't stop you, but...I'm rather disappointed.
+- **10963**: Don't worry about rrreturning your $0. We've got plenty in stock.
+- **11109**: What? You want me to apprrraise a painting? An odd request, for sure, but I think I'm up to it.
+- **11110**: Nhili Uvolep stares at the painting $3 with a discerning eye.
+- **11111**: Sorry, but you got the fur pulled over your eyes. It's an incontrrrovertible fake.
+- **11112**: If only it were rrreal, you'd be set for life.
+- **13727**: Should you come across $6 in your travels, bring it to Wescolina in Western Adoulin. If anyone can rrreplicate that attire, she can.
 
 ## Events
 
@@ -336,7 +336,7 @@
   5: 0x0012 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0013 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0018 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=11108*)
+  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=11109*)
     → "What? You want me to apprrraise a painting? An odd request, for sure, but I think I'm up to it."
   9: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -345,7 +345,7 @@
  13: 0x004A [0x59] UPDATE_ENTITY_DATA: Set EventEntity turn speed head = 200*
  14: 0x0052 [0x79] EventEntity looks at Unknown NPC (ID: 2147844100/0x80058004) (Direct axis set)
  15: 0x005C [0x03] Work_Zone[2] = 2581*
- 16: 0x0061 [0x48] [System] [11109*]:
+ 16: 0x0061 [0x48] [System] [11110*]:
     → "Nhili Uvolep stares at the painting $3 with a discerning eye."
  17: 0x0064 [0x1C] WAIT(150* ticks)
  18: 0x0067 [0x59] UPDATE_ENTITY_DATA: Set EventEntity turn speed head = 200*
@@ -353,10 +353,10 @@
  20: 0x0079 [0x1C] WAIT(80* ticks)
  21: 0x007C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
  22: 0x008B [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x62)
- 23: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=11110*)
+ 23: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=11111*)
     → "Sorry, but you got the fur pulled over your eyes. It's an incontrrrovertible fake."
  24: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=11111*)
+ 25: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=11112*)
     → "If only it were rrreal, you'd be set for life."
  26: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x009A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -423,18 +423,18 @@
   8: 0x00D7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   9: 0x00DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
  10: 0x00EB [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0116
- 11: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10943*)
+ 11: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10944*)
     → "<Player>! Have you rrreconsidered my offer? After all, the lifestream waits for no [man/woman]!"
  12: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00F7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  14: 0x0104 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
  15: 0x0113 [0x01] GOTO 0x01AB
  16: 0x0116 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0125
- 17: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=10934*)
+ 17: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=10935*)
     → "<Player>! You could not have come at a more opporrrtune time!"
  18: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0122 [0x01] GOTO 0x0129
- 20: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=10935*)
+ 20: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=10936*)
     → "Are you perchance a wandering geomancer? You could not have come at a more opporrrtune time!"
  21: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -447,18 +447,18 @@ SUBROUTINE_0129:
  27: 0x0154 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  28: 0x0161 [0x6E] Nhili Uvolep (ID: 17830120/0x011010E8) uses emote 29*
  29: 0x0168 [0x99] Wait for Nhili Uvolep (ID: 17830120/0x011010E8) animation to complete
- 30: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=10936*)
+ 30: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=10937*)
     → ""What time might that be?" Ahh...forrrget I said anything."
  31: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0171 [0x1C] WAIT(90* ticks)
- 33: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=10937*)
+ 33: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=10938*)
     → "Would you be interested in furrrthering your geomantic training? Or rather, in unleashing your true potential?"
  34: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0178 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
- 36: 0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=10938*)
+ 36: 0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=10939*)
     → "The Order of Renaye houses a varrriety of artifacts within our hold, but chief among them is a line of enigmatic wands that initiates train with to amplify the energies of the lifestream in new ways."
  37: 0x018A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=10939*)
+ 38: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=10940*)
     → "Would you like to experience this powerrr for yourself?"
  39: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x018F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -466,7 +466,7 @@ SUBROUTINE_0129:
 
 SUBROUTINE_01AB:
  42: 0x01AB [0x06] Work_Zone[1] = 0
- 43: 0x01AE [0x24] CREATE_DIALOG(message_id=10940*, default_option=0*, option_flags=0*)
+ 43: 0x01AE [0x24] CREATE_DIALOG(message_id=10941*, default_option=0*, option_flags=0*)
     → "Learn more about geomantic mysteries? [I'd love to!/I'm a bit busy right now...]"
  44: 0x01B5 [0x25] WAIT_DIALOG_SELECT()
  45: 0x01B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0201
@@ -474,11 +474,11 @@ SUBROUTINE_01AB:
  47: 0x01CB [0x42] SET_CLI_EVENT_CANCEL_DATA()
  48: 0x01CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
  49: 0x01DB [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x01EA
- 50: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10944*)
+ 50: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10945*)
     → "Wonderrrful!"
  51: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x01E7 [0x01] GOTO 0x01EE
- 53: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10945*)
+ 53: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10946*)
     → "Wonderrrful!"
  54: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -491,11 +491,11 @@ SUBROUTINE_01EE:
  60: 0x0216 [0x6E] Nhili Uvolep (ID: 17830120/0x011010E8) uses emote 35*
  61: 0x021D [0x99] Wait for Nhili Uvolep (ID: 17830120/0x011010E8) animation to complete
  62: 0x0222 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0231
- 63: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=10941*)
+ 63: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=10942*)
     → "A-and after we've come this far together... How unforrrtunate."
  64: 0x022D [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x022E [0x01] GOTO 0x0235
- 66: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=10942*)
+ 66: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=10943*)
     → "B-but you seemed so reliable... How unforrrtunate."
  67: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -506,10 +506,10 @@ SUBROUTINE_0235:
 
 SUBROUTINE_023D:
  71: 0x023D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
- 72: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=10946*)
+ 72: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=10947*)
     → "Then I bid you wield this wand and execute weapon skills upon your foes. The more the better!"
  73: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=10947*)
+ 74: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=10948*)
     → "Report back and trade me the weapon should you learrrn anything new."
  75: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0254 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -576,14 +576,14 @@ SUBROUTINE_023D:
   5: 0x027D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x027E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0283 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  8: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=10953*)
+  8: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=10954*)
     → "A pleasurrre, as always. How fare your adventures with the wand I lent you?"
   9: 0x0295 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0296 [0x06] Work_Zone[1] = 0
  11: 0x0299 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x02A8
  12: 0x02A1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=1*, condition_work_offset=1*)
  13: 0x02A8 [0x03] Work_Zone[2] = 21066*
- 14: 0x02AD [0x24] CREATE_DIALOG(message_id=10954*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 14: 0x02AD [0x24] CREATE_DIALOG(message_id=10955*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "How are you finding the wand? [I've nothing to report./I've lost my $1./I'm not interested anymore.]"
  15: 0x02B4 [0x25] WAIT_DIALOG_SELECT()
  16: 0x02B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02C0
@@ -593,16 +593,16 @@ SUBROUTINE_023D:
  20: 0x02D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
  21: 0x02E4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  22: 0x02E5 [0x03] Work_Zone[2] = 21066*
- 23: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10955*)
+ 23: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10956*)
     → "Y-you what!?"
  24: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x02EE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  26: 0x02FB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
- 27: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=10956*)
+ 27: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=10957*)
     → "I lectured you on the import and symbolism of this task, and you went and threw it in the trrrash!? <Sigh>... Let me get you a new one."
  28: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x030E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 30: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=10957*)
+ 30: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=10958*)
     → "All the work with the old one has gone to waste...so it's back to squarrre one for you!"
  31: 0x031E [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x031F [0x03] Work_Zone[1] = 1*
@@ -612,21 +612,21 @@ SUBROUTINE_023D:
  36: 0x033C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
  37: 0x034B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  38: 0x0358 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [EventEntity, EventEntity], work=8*
- 39: 0x0367 [0x1D] PRINT_EVENT_MESSAGE(message_id=10958*)
+ 39: 0x0367 [0x1D] PRINT_EVENT_MESSAGE(message_id=10959*)
     → "N-not interested!? Then all your efforrrts will have been for naught! Are you absolutely sure?"
  40: 0x036A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x036B [0x24] CREATE_DIALOG(message_id=10959*, default_option=1*, option_flags=0*)
+ 41: 0x036B [0x24] CREATE_DIALOG(message_id=10960*, default_option=1*, option_flags=0*)
     → "Really abandon Nhili's task? [Yes. I have no time for this./No. I'd like to reconsider.]"
  42: 0x0372 [0x25] WAIT_DIALOG_SELECT()
  43: 0x0373 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03CC
  44: 0x037B [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 45: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=10961*)
+ 45: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=10962*)
     → "O-oh no... I can't stop you, but...I'm rather disappointed."
  46: 0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0380 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "aww0" with entities [EventEntity, EventEntity]
  48: 0x038D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
  49: 0x039C [0x03] Work_Zone[2] = 21066*
- 50: 0x03A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10962*)
+ 50: 0x03A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10963*)
     → "Don't worry about rrreturning your $0. We've got plenty in stock."
  51: 0x03A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x03A5 [0x03] Work_Zone[1] = 2*
@@ -635,7 +635,7 @@ SUBROUTINE_023D:
  55: 0x03C6 [0x1C] WAIT(30* ticks)
  56: 0x03C9 [0x01] GOTO 0x03E8
  57: 0x03CC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03E8
- 58: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10960*)
+ 58: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10961*)
     → "Oh, by the lifestream! If a Mithrrra has nine lives, then you just took away three of them!"
  59: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x03D8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "aww0" with entities [EventEntity, EventEntity]
@@ -692,7 +692,7 @@ SUBROUTINE_03EB:
   6: 0x0403 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0408 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0442
   8: 0x0410 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  9: 0x041F [0x1D] PRINT_EVENT_MESSAGE(message_id=10949*)
+  9: 0x041F [0x1D] PRINT_EVENT_MESSAGE(message_id=10950*)
     → "Aha! I can feel a faint aura resonating within its slender frrrame."
  10: 0x0422 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0423 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -700,7 +700,7 @@ SUBROUTINE_03EB:
  13: 0x043F [0x01] GOTO 0x04C9
  14: 0x0442 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x047C
  15: 0x044A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
- 16: 0x0459 [0x1D] PRINT_EVENT_MESSAGE(message_id=10950*)
+ 16: 0x0459 [0x1D] PRINT_EVENT_MESSAGE(message_id=10951*)
     → "Yes...the haft is noticeably tingling. I'd say you'rrre halfway there!"
  17: 0x045C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x045D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -708,19 +708,19 @@ SUBROUTINE_03EB:
  20: 0x0479 [0x01] GOTO 0x04C9
  21: 0x047C [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x049A
  22: 0x0484 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
- 23: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=10951*)
+ 23: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=10952*)
     → "Amazing! The enerrrgies, once latent, are wholly palpable!"
  24: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0497 [0x01] GOTO 0x04C9
  26: 0x049A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
- 27: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10948*)
+ 27: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10949*)
     → "Mayhap my instructions were unclear. You need to actually use weapon skills. Have you been leaving this heirloom to rrrot in your bags?"
  28: 0x04AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x04AD [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  30: 0x04BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
 
 SUBROUTINE_04C9:
- 31: 0x04C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10952*)
+ 31: 0x04C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10953*)
     → "Purrrform more weapon skills, and I'm sure something amazing will happen!"
  32: 0x04CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x04CD [0x1C] WAIT(30* ticks)
@@ -803,10 +803,10 @@ SUBROUTINE_04C9:
   4: 0x04E4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x04E5 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x04EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  7: 0x04F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10847*)
+  7: 0x04F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
     → "You mentioned you found it buried beneath some rrrubble in Dho Gates, no? Then perhaps it is a relic of a battle in years gone by that happened there many centuries past."
   8: 0x04FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x04FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
+  9: 0x04FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
     → "Of course, no records of such bloodshed exist...so I had to rely on more esoterrric sources. A book of fables, to be precise. But the details seem to fit."
  10: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0501 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -854,33 +854,33 @@ SUBROUTINE_04C9:
   5: 0x0533 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0534 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0539 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  8: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=10844*)
+  8: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=10845*)
     → "Why, hello again, <Player>! Rrremember how I was going to research the bell you found? Well, you see..."
   9: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x054C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  11: 0x0559 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
- 12: 0x0568 [0x1D] PRINT_EVENT_MESSAGE(message_id=10845*)
+ 12: 0x0568 [0x1D] PRINT_EVENT_MESSAGE(message_id=10846*)
     → "Oh my! You cerrrtainly did gussy it up while I was knee-deep in books from the historical archives."
  13: 0x056B [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x056C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk2" with entities [EventEntity, EventEntity]
  15: 0x0579 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
- 16: 0x0588 [0x1D] PRINT_EVENT_MESSAGE(message_id=10846*)
+ 16: 0x0588 [0x1D] PRINT_EVENT_MESSAGE(message_id=10847*)
     → "This crrrest is utterly fascinating. Could it be from the age of...? Ah, but forgive me. You didn't come to hear a treatise on ancient symbols."
  17: 0x058B [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x058C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ure0" with entities [EventEntity, EventEntity]
  19: 0x0599 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
- 20: 0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10847*)
+ 20: 0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
     → "You mentioned you found it buried beneath some rrrubble in Dho Gates, no? Then perhaps it is a relic of a battle in years gone by that happened there many centuries past."
  21: 0x05AB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
+ 22: 0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
     → "Of course, no records of such bloodshed exist...so I had to rely on more esoterrric sources. A book of fables, to be precise. But the details seem to fit."
  23: 0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x05B0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  25: 0x05BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
- 26: 0x05CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
+ 26: 0x05CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10850*)
     → "Do you suppose the spirits of the fallen rrreside within its metallic shell? Ugh...my head is beginning to swim."
  27: 0x05CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10850*)
+ 28: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10851*)
     → "I need to take a brief rrrespite...should you desire to learn more, I wish you Goddess-speed."
  29: 0x05D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x05D4 [0x21] END_EVENT
@@ -917,7 +917,7 @@ SUBROUTINE_04C9:
   4: 0x05E6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x05E7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x05EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  7: 0x05FB [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
+  7: 0x05FB [0x1D] PRINT_EVENT_MESSAGE(message_id=10826*)
     → "And please, be carrreful should you happen upon a Mithra claiming to be from Zhwa. She'd do anything to get her paws on something so valuable."
   8: 0x05FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x05FF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -970,40 +970,40 @@ SUBROUTINE_04C9:
   5: 0x0631 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0632 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0637 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  8: 0x0646 [0x1D] PRINT_EVENT_MESSAGE(message_id=10818*)
+  8: 0x0646 [0x1D] PRINT_EVENT_MESSAGE(message_id=10819*)
     → "A...handbell?"
   9: 0x0649 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x064A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  11: 0x0657 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
  12: 0x0666 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x17)
  13: 0x066D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
- 14: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=10819*)
+ 14: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
     → "I see. But why would this be sitting in the inner rrrecesses of Dho Gates?"
  15: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0680 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
  17: 0x068D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 18: 0x069C [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
+ 18: 0x069C [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
     → "Was it something lost to the ages, or left there deliberrrately? This requires further study in the library."
  19: 0x069F [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x06A0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
- 21: 0x06AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
+ 21: 0x06AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
     → "You may keep the bell in the meantime. Its unique forrrm and metallic composition are enough for me to go on."
  22: 0x06B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x06B1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 24: 0x06C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
+ 24: 0x06C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10823*)
     → "And I'm not saying that because it looks...crrreepy. Because it doesn't."
  25: 0x06C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x06C4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  27: 0x06D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
- 28: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10823*)
+ 28: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10824*)
     → "My memory is near flawless, and thus I do not rrrequire it to be on hand."
  29: 0x06E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x06E4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk2" with entities [EventEntity, EventEntity]
  31: 0x06F1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
- 32: 0x0700 [0x1D] PRINT_EVENT_MESSAGE(message_id=10824*)
+ 32: 0x0700 [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
     → "I have but one condition--do not sell it to some unsavory peddler or toss it away like last week's leftover brrread."
  33: 0x0703 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0704 [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
+ 34: 0x0704 [0x1D] PRINT_EVENT_MESSAGE(message_id=10826*)
     → "And please, be carrreful should you happen upon a Mithra claiming to be from Zhwa. She'd do anything to get her paws on something so valuable."
  35: 0x0707 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0708 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -1044,10 +1044,10 @@ SUBROUTINE_04C9:
   4: 0x0739 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x073A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x073F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  7: 0x074E [0x1D] PRINT_EVENT_MESSAGE(message_id=10810*)
+  7: 0x074E [0x1D] PRINT_EVENT_MESSAGE(message_id=10811*)
     → "It references certain "forces of darkness" that existed ages ago, with rrruins remaining somewhere in the Dho Gates."
   8: 0x0751 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0752 [0x1D] PRINT_EVENT_MESSAGE(message_id=10811*)
+  9: 0x0752 [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
     → "I've neverrr been one to give in to fables that easily, but "forces of darkness"? It certainly gives one pause."
  10: 0x0755 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0756 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -1103,43 +1103,43 @@ SUBROUTINE_04C9:
   5: 0x078A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x078B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0790 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  8: 0x079F [0x1D] PRINT_EVENT_MESSAGE(message_id=10808*)
+  8: 0x079F [0x1D] PRINT_EVENT_MESSAGE(message_id=10809*)
     → "<Player>! How wonderrrful to see you here! The entire order remains in your debt after all you did to help Sylvie and Lhaiso."
   9: 0x07A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x07A3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  11: 0x07B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
- 12: 0x07BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10809*)
+ 12: 0x07BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10810*)
     → "In fact, your coming could not have been at a more forrrtuitous time. I recently stopped by Celennia Memorial Library and chanced upon a volume of much import."
  13: 0x07C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x07C3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  15: 0x07D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 16: 0x07DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10810*)
+ 16: 0x07DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10811*)
     → "It references certain "forces of darkness" that existed ages ago, with rrruins remaining somewhere in the Dho Gates."
  17: 0x07E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x07E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10811*)
+ 18: 0x07E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
     → "I've neverrr been one to give in to fables that easily, but "forces of darkness"? It certainly gives one pause."
  19: 0x07E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x07E7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  21: 0x07F4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
- 22: 0x0803 [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
+ 22: 0x0803 [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
     → "Could I perhaps trrrouble you to investigate this matter in my stead?"
  23: 0x0806 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0807 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk2" with entities [EventEntity, EventEntity]
- 25: 0x0814 [0x24] CREATE_DIALOG(message_id=10813*, default_option=0*, option_flags=0*)
+ 25: 0x0814 [0x24] CREATE_DIALOG(message_id=10814*, default_option=0*, option_flags=0*)
     → "Will you assist Nhili? [Of course./I've done enough for your order.]"
  26: 0x081B [0x25] WAIT_DIALOG_SELECT()
  27: 0x081C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x086F
  28: 0x0824 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  29: 0x0825 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
- 30: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
+ 30: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
     → "You have my grrratitude--though exploration is its own reward."
  31: 0x0837 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0838 [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
+ 32: 0x0838 [0x1D] PRINT_EVENT_MESSAGE(message_id=10817*)
     → "I would go myself, but...I couldn't possibly tearrr myself away from here to go someplace so scar--far away."
  33: 0x083B [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x083C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ure0" with entities [EventEntity, EventEntity]
  35: 0x0849 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
- 36: 0x0858 [0x1D] PRINT_EVENT_MESSAGE(message_id=10817*)
+ 36: 0x0858 [0x1D] PRINT_EVENT_MESSAGE(message_id=10818*)
     → "After all, someone must prrrevent the uncouth from bothering Ikhi or Lhaiso."
  37: 0x085B [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x085C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -1147,7 +1147,7 @@ SUBROUTINE_04C9:
  40: 0x086C [0x01] GOTO 0x089A
  41: 0x086F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x089A
  42: 0x0877 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
- 43: 0x0886 [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
+ 43: 0x0886 [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
     → "How unfortunate. Purrrhaps I should ask another."
  44: 0x0889 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x088A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -1336,7 +1336,7 @@ SUBROUTINE_089A:
   2: 0x096B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x096C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
   4: 0x097B [0x03] Work_Zone[2] = 2513*
-  5: 0x0980 [0x1D] PRINT_EVENT_MESSAGE(message_id=13726*)
+  5: 0x0980 [0x1D] PRINT_EVENT_MESSAGE(message_id=13727*)
     → "Should you come across $6 in your travels, bring it to Wescolina in Western Adoulin. If anyone can rrreplicate that attire, she can."
   6: 0x0983 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0984 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -2043,10 +2043,10 @@ SUBROUTINE_089A:
   1: 0x0B50 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B51 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B52 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x0B61 [0x1D] PRINT_EVENT_MESSAGE(message_id=10504*)
+  4: 0x0B61 [0x1D] PRINT_EVENT_MESSAGE(message_id=10505*)
     → "You're damn right this estate belongs to an important person! Just look, it's purrrched upon a hill that overlooks Eastern Adoulin!"
   5: 0x0B64 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0B65 [0x1D] PRINT_EVENT_MESSAGE(message_id=10505*)
+  6: 0x0B65 [0x1D] PRINT_EVENT_MESSAGE(message_id=10506*)
     → "This grrrand abode is actually the home of Ikhi Askamot, our minister of education. She's famous not only for her political role, but also because many claim she's the rrreincarnation of legendary geomancer Sih Renaye."
   7: 0x0B68 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0B69 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
@@ -2082,25 +2082,25 @@ SUBROUTINE_089A:
   2: 0x0B80 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0B81 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0B82 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  5: 0x0B91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
+  5: 0x0B91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
     → "I suppose you have business with Ikhi Askamot, ministerrr of education?"
   6: 0x0B94 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0B95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
+  7: 0x0B95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
     → "Making the rrrounds tooth and claw, are you?"
   8: 0x0B98 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0B99 [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
+  9: 0x0B99 [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
     → "There's been no suspicious activity in this parrrt of town."
  10: 0x0B9C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0B9D [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
+ 11: 0x0B9D [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
     → "Hmm? The minister?"
  12: 0x0BA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0BA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
+ 13: 0x0BA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "I'm afrrraid she's not in at the moment. One of the other ministers has their paws on her."
  14: 0x0BA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0BA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
+ 15: 0x0BA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
     → "Easterrrn Adoulin is always busy with the ministers coming and going from their residences. You'd be hard-pressed to catch one of them in their homes."
  16: 0x0BA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0BA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
+ 17: 0x0BA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
     → "Guarding a minister's mansion may not be very glorrrious, but we take pride in it nonetheless!"
  18: 0x0BAC [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0BAD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
@@ -2135,10 +2135,10 @@ SUBROUTINE_089A:
   2: 0x0BC4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0BC5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0BC6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  5: 0x0BD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
+  5: 0x0BD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
     → "Worrrking for the library, are you? Well, let me see what you've got for me."
   6: 0x0BD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
+  7: 0x0BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
     → "...There's something new about Ikhi Askamot that's not listed in the file. Herrre, let me add it for you. Enjoy."
   8: 0x0BDC [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0BDD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
@@ -2221,13 +2221,13 @@ SUBROUTINE_089A:
   1: 0x0C02 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0C03 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0C04 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x0C13 [0x1D] PRINT_EVENT_MESSAGE(message_id=10587*)
+  4: 0x0C13 [0x1D] PRINT_EVENT_MESSAGE(message_id=10588*)
     → "Sylvie's quite brrrash to head to Morimar Basalt Fields all by her lonesome. It would be terrible if some ill fate were to befall her, too."
   5: 0x0C16 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0C17 [0x1D] PRINT_EVENT_MESSAGE(message_id=10588*)
+  6: 0x0C17 [0x1D] PRINT_EVENT_MESSAGE(message_id=10589*)
     → "Lhaiso has ordered you to go find her fatherrr, Hostenn. Her wishes must be respected."
   7: 0x0C1A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0C1B [0x1D] PRINT_EVENT_MESSAGE(message_id=10589*)
+  8: 0x0C1B [0x1D] PRINT_EVENT_MESSAGE(message_id=10590*)
     → "And if you are a pioneerrr, you must be intimately familiar with the area. The frontier station there can surely update you on the situation."
   9: 0x0C1E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0C1F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
@@ -2262,10 +2262,10 @@ SUBROUTINE_089A:
   1: 0x0C37 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0C38 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0C39 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x0C48 [0x1D] PRINT_EVENT_MESSAGE(message_id=10590*)
+  4: 0x0C48 [0x1D] PRINT_EVENT_MESSAGE(message_id=10591*)
     → "Other members of the orderrr have told me that even though the great Lhaiso herself went to help Hostenn, he was unable to be saved."
   5: 0x0C4B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0C4C [0x1D] PRINT_EVENT_MESSAGE(message_id=10591*)
+  6: 0x0C4C [0x1D] PRINT_EVENT_MESSAGE(message_id=10592*)
     → "Despite being of the Zacariah lineage, he was a geomancer of the highest caliberrr. He shall be missed."
   7: 0x0C4F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0C50 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
@@ -2322,7 +2322,7 @@ SUBROUTINE_089A:
   1: 0x0C69 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0C6A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0C6B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x0C7A [0x1D] PRINT_EVENT_MESSAGE(message_id=10615*)
+  4: 0x0C7A [0x1D] PRINT_EVENT_MESSAGE(message_id=10616*)
     → "The great Lhaiso's condition grows increasingly grrrave by the day. I cannot help but harbor a dark sense of foreboding."
   5: 0x0C7D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0C7E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
@@ -2379,10 +2379,10 @@ SUBROUTINE_089A:
   1: 0x0C97 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0C98 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0C99 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x0CA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10653*)
+  4: 0x0CA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10654*)
     → "The mages from the Order of Janniston have rrrequested that Lhaiso be left to her slumber."
   5: 0x0CAB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0CAC [0x1D] PRINT_EVENT_MESSAGE(message_id=10654*)
+  6: 0x0CAC [0x1D] PRINT_EVENT_MESSAGE(message_id=10655*)
     → "This is the first time in ages that such a trrragedy has befallen us. I hope everything will be all right."
   7: 0x0CAF [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0CB0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
@@ -2417,10 +2417,10 @@ SUBROUTINE_089A:
   1: 0x0CC8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0CC9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0CCA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x0CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10655*)
+  4: 0x0CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10656*)
     → "Lhaiso has rrreturned to us!"
   5: 0x0CDC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0CDD [0x1D] PRINT_EVENT_MESSAGE(message_id=10656*)
+  6: 0x0CDD [0x1D] PRINT_EVENT_MESSAGE(message_id=10657*)
     → "Your brrravery has truly touched us all. The entire order owes you a debt of gratitude."
   7: 0x0CE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0CE1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*

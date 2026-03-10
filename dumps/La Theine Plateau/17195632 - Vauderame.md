@@ -72,35 +72,35 @@
 |      13 | 0x000F      |          15 |
 |      14 | 0x0000      |           0 |
 |      15 | 0x0064      |         100 |
-|      16 | 0x1D5C      |        7516 |
-|      17 | 0x1D61      |        7521 |
-|      18 | 0x1D62      |        7522 |
-|      19 | 0x1D64      |        7524 |
-|      20 | 0x1D65      |        7525 |
-|      21 | 0x1D6A      |        7530 |
-|      22 | 0x1D6B      |        7531 |
-|      23 | 0x1D6E      |        7534 |
-|      24 | 0x1D6F      |        7535 |
-|      25 | 0x1D74      |        7540 |
-|      26 | 0x1D75      |        7541 |
-|      27 | 0x1D77      |        7543 |
-|      28 | 0x1D79      |        7545 |
+|      16 | 0x1D5D      |        7517 |
+|      17 | 0x1D62      |        7522 |
+|      18 | 0x1D63      |        7523 |
+|      19 | 0x1D65      |        7525 |
+|      20 | 0x1D66      |        7526 |
+|      21 | 0x1D6B      |        7531 |
+|      22 | 0x1D6C      |        7532 |
+|      23 | 0x1D6F      |        7535 |
+|      24 | 0x1D70      |        7536 |
+|      25 | 0x1D75      |        7541 |
+|      26 | 0x1D76      |        7542 |
+|      27 | 0x1D78      |        7544 |
+|      28 | 0x1D7A      |        7546 |
 
 ## String References
 
-- **7516**: Well, well. It seems we have some uninvited guests...
-- **7521**: Wait, I know these people. They helped me with a little task at the Tenshodo.
-- **7522**: I thought this might happen, but... For the two of you to make it this far, it would seem that not all thieves are totally incompetent these days.
-- **7524**: Of course. This is Nanaa Mihgo of Windurst, and <Player>, an adventurer [of San d'Oria/of Bastok/also of Windurst].
-- **7525**: Linzaza, you mentioned someone asked for your signature again. I'm assuming that that someone is standing before you now.
-- **7530**: You forget, Kanika. Atarefaunet's band is no more. We are now known as Vauderame's Knights.
-- **7531**: I waited twenty years for the former Marquis to remember everything. All that is left is to restore the glory of our lost kingdom.
-- **7534**: Not one of you has changed, even after all these years. Luckily, I was prepared for this.
-- **7535**: ...Take care of it.
-- **7540**: Mithra might seem wild and free, but they are deeply tied to one another. If we kill this one now, others will come looking for revenge. They will chase us to the ends of Vana'diel.
-- **7541**: Then there is this adventurer. [He/She] looks like someone I did away with in another time...
-- **7543**: ...Perhaps you're right. A foothold into the country I have spent twenty years restoring... Maybe my ego demands a witness to all that I have accomplished.
-- **7545**: I will join you as soon as I can. Let us meet again in a newborn country...
+- **7517**: Well, well. It seems we have some uninvited guests...
+- **7522**: Wait, I know these people. They helped me with a little task at the Tenshodo.
+- **7523**: I thought this might happen, but... For the two of you to make it this far, it would seem that not all thieves are totally incompetent these days.
+- **7525**: Of course. This is Nanaa Mihgo of Windurst, and <Player>, an adventurer [of San d'Oria/of Bastok/also of Windurst].
+- **7526**: Linzaza, you mentioned someone asked for your signature again. I'm assuming that that someone is standing before you now.
+- **7531**: You forget, Kanika. Atarefaunet's band is no more. We are now known as Vauderame's Knights.
+- **7532**: I waited twenty years for the former Marquis to remember everything. All that is left is to restore the glory of our lost kingdom.
+- **7535**: Not one of you has changed, even after all these years. Luckily, I was prepared for this.
+- **7536**: ...Take care of it.
+- **7541**: Mithra might seem wild and free, but they are deeply tied to one another. If we kill this one now, others will come looking for revenge. They will chase us to the ends of Vana'diel.
+- **7542**: Then there is this adventurer. [He/She] looks like someone I did away with in another time...
+- **7544**: ...Perhaps you're right. A foothold into the country I have spent twenty years restoring... Maybe my ego demands a witness to all that I have accomplished.
+- **7546**: I will join you as soon as I can. Let us meet again in a newborn country...
 
 ## Events
 
@@ -730,7 +730,7 @@
 #### Opcodes
 
 ```
-  0: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  0: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
     → "Well, well. It seems we have some uninvited guests..."
   1: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0181 [0x00] END_REQSTACK()
@@ -755,7 +755,7 @@
 #### Opcodes
 
 ```
-  0: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
+  0: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
     → "Wait, I know these people. They helped me with a little task at the Tenshodo."
   1: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0186 [0x00] END_REQSTACK()
@@ -780,7 +780,7 @@
 #### Opcodes
 
 ```
-  0: 0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
+  0: 0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
     → "I thought this might happen, but... For the two of you to make it this far, it would seem that not all thieves are totally incompetent these days."
   1: 0x018A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x018B [0x00] END_REQSTACK()
@@ -806,7 +806,7 @@
 #### Opcodes
 
 ```
-  0: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  0: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "Of course. This is Nanaa Mihgo of Windurst, and <Player>, an adventurer [of San d'Oria/of Bastok/also of Windurst]."
   1: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0190 [0x00] END_REQSTACK()
@@ -831,7 +831,7 @@
 #### Opcodes
 
 ```
-  0: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+  0: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "Linzaza, you mentioned someone asked for your signature again. I'm assuming that that someone is standing before you now."
   1: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0195 [0x00] END_REQSTACK()
@@ -856,7 +856,7 @@
 #### Opcodes
 
 ```
-  0: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
+  0: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "You forget, Kanika. Atarefaunet's band is no more. We are now known as Vauderame's Knights."
   1: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x019A [0x00] END_REQSTACK()
@@ -883,7 +883,7 @@
 
 ```
   0: 0x019B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17195632/0x01066270), tag_num=0x01)
-  1: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+  1: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
     → "I waited twenty years for the former Marquis to remember everything. All that is left is to restore the glory of our lost kingdom."
   2: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17195632/0x01066270), tag_num=0x02)
@@ -910,7 +910,7 @@
 #### Opcodes
 
 ```
-  0: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
+  0: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "Not one of you has changed, even after all these years. Luckily, I was prepared for this."
   1: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B2 [0x00] END_REQSTACK()
@@ -937,7 +937,7 @@
 
 ```
   0: 0x01B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17195632/0x01066270), tag_num=0x01)
-  1: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
+  1: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
     → "...Take care of it."
   2: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17195632/0x01066270), tag_num=0x02)
@@ -963,7 +963,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
+  0: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
     → "Mithra might seem wild and free, but they are deeply tied to one another. If we kill this one now, others will come looking for revenge. They will chase us to the ends of Vana'diel."
   1: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01CA [0x00] END_REQSTACK()
@@ -988,7 +988,7 @@
 #### Opcodes
 
 ```
-  0: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
+  0: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7542*)
     → "Then there is this adventurer. [He/She] looks like someone I did away with in another time..."
   1: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01CF [0x00] END_REQSTACK()
@@ -1013,7 +1013,7 @@
 #### Opcodes
 
 ```
-  0: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
+  0: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
     → "...Perhaps you're right. A foothold into the country I have spent twenty years restoring... Maybe my ego demands a witness to all that I have accomplished."
   1: 0x01D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01D4 [0x00] END_REQSTACK()
@@ -1038,7 +1038,7 @@
 #### Opcodes
 
 ```
-  0: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
+  0: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
     → "I will join you as soon as I can. Let us meet again in a newborn country..."
   1: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01D9 [0x00] END_REQSTACK()

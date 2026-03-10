@@ -23,8 +23,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2CEE      |       11502 |
-|       1 | 0x2CEF      |       11503 |
+|       0 | 0x2CEF      |       11503 |
+|       1 | 0x2CF0      |       11504 |
 |       2 | 0xFFFEED9C  |  4294897052 |
 |       3 | 0xFFFFEEA9  |  4294962857 |
 |       4 | 0xFFFFF128  |  4294963496 |
@@ -36,8 +36,8 @@
 
 ## String References
 
-- **11502**: Nice taru meet you! My name is Kogri-Nargri. I just started working for Chamama!
-- **11503**: 20 years ago, there was a terrible fire that burned the Rarab Tail's roof right off. I'm glad I wasn'taru around when that happened!
+- **11503**: Nice taru meet you! My name is Kogri-Nargri. I just started working for Chamama!
+- **11504**: 20 years ago, there was a terrible fire that burned the Rarab Tail's roof right off. I'm glad I wasn'taru around when that happened!
 
 ## Events
 
@@ -83,10 +83,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
     → "Nice taru meet you! My name is Kogri-Nargri. I just started working for Chamama!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
     → "20 years ago, there was a terrible fire that burned the Rarab Tail's roof right off. I'm glad I wasn'taru around when that happened!"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT

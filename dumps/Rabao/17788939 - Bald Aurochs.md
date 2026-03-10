@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x273B      |       10043 |
-|       1 | 0x273C      |       10044 |
+|       0 | 0x273C      |       10044 |
+|       1 | 0x273D      |       10045 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x000A      |          10 |
 |       4 | 0x0014      |          20 |
@@ -36,8 +36,8 @@
 
 ## String References
 
-- **10043**: A little further north of here is the Rabao oasis. It's not much, but there are goods for sale in the tents.
-- **10044**: Outside of Rabao, the desert stretches for as far as the eye can see. Rabao is the only place to gather supplies for your journey and acts as a waypoint for adventurers. It's important for us to work together out here.
+- **10044**: A little further north of here is the Rabao oasis. It's not much, but there are goods for sale in the tents.
+- **10045**: Outside of Rabao, the desert stretches for as far as the eye can see. Rabao is the only place to gather supplies for your journey and acts as a waypoint for adventurers. It's important for us to work together out here.
 
 ## Events
 
@@ -98,10 +98,10 @@
 ```
   0: 0x0001 [0x1A] CALL_SUBROUTINE(address=0x0011)
   1: 0x0004 [0x1A] CALL_SUBROUTINE(address=0x008F)
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10043*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10044*)
     → "A little further north of here is the Rabao oasis. It's not much, but there are goods for sale in the tents."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10044*)
+  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10045*)
     → "Outside of Rabao, the desert stretches for as far as the eye can see. Rabao is the only place to gather supplies for your journey and acts as a waypoint for adventurers. It's important for us to work together out here."
   5: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000F [0x21] END_EVENT

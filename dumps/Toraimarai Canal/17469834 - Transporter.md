@@ -20,20 +20,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D20      |        7456 |
-|       1 | 0x1D21      |        7457 |
+|       0 | 0x1D21      |        7457 |
+|       1 | 0x1D22      |        7458 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x00C8      |         200 |
 |       5 | 0x003C      |          60 |
-|       6 | 0x1D22      |        7458 |
+|       6 | 0x1D23      |        7459 |
 |       7 | 0x0002      |           2 |
 
 ## String References
 
-- **7456**: A gentle voice whispers: "I will guide you to the first floor of Heavens Tower."
-- **7457**: Warp to the first floor of Heavens Tower? [Yes./No.]
-- **7458**: Are you sure you're finished here? [Return to Heavens Tower./Keep looking around.]
+- **7457**: A gentle voice whispers: "I will guide you to the first floor of Heavens Tower."
+- **7458**: Warp to the first floor of Heavens Tower? [Yes./No.]
+- **7459**: Are you sure you're finished here? [Return to Heavens Tower./Keep looking around.]
 
 ## Events
 
@@ -91,10 +91,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0004 [0x48] [System] [7456*]:
+  2: 0x0004 [0x48] [System] [7457*]:
     → "A gentle voice whispers: "I will guide you to the first floor of Heavens Tower.""
   3: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0008 [0x24] CREATE_DIALOG(message_id=7457*, default_option=1*, option_flags=0*)
+  4: 0x0008 [0x24] CREATE_DIALOG(message_id=7458*, default_option=1*, option_flags=0*)
     → "Warp to the first floor of Heavens Tower? [Yes./No.]"
   5: 0x000F [0x25] WAIT_DIALOG_SELECT()
   6: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A5
@@ -106,7 +106,7 @@
  12: 0x003A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x004B [0x1C] WAIT(60* ticks)
  14: 0x004E [0x01] GOTO 0x00A2
- 15: 0x0051 [0x24] CREATE_DIALOG(message_id=7458*, default_option=1*, option_flags=0*)
+ 15: 0x0051 [0x24] CREATE_DIALOG(message_id=7459*, default_option=1*, option_flags=0*)
     → "Are you sure you're finished here? [Return to Heavens Tower./Keep looking around.]"
  16: 0x0058 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0059 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0092

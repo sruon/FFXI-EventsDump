@@ -22,11 +22,11 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x001A      |          26 |
-|       2 | 0x1D66      |        7526 |
-|       3 | 0x1D67      |        7527 |
+|       2 | 0x1D67      |        7527 |
+|       3 | 0x1D68      |        7528 |
 |       4 | 0x40000000  |  1073741824 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1D68      |        7528 |
+|       6 | 0x1D69      |        7529 |
 |       7 | 0x000B      |          11 |
 |       8 | 0x003C      |          60 |
 |       9 | 0x0002      |           2 |
@@ -42,21 +42,21 @@
 |      19 | 0x0007      |           7 |
 |      20 | 0x0024      |          36 |
 |      21 | 0x0008      |           8 |
-|      22 | 0x1D69      |        7529 |
-|      23 | 0x1D6C      |        7532 |
+|      22 | 0x1D6A      |        7530 |
+|      23 | 0x1D6D      |        7533 |
 |      24 | 0x0020      |          32 |
-|      25 | 0x1D6A      |        7530 |
-|      26 | 0x1D6B      |        7531 |
+|      25 | 0x1D6B      |        7531 |
+|      26 | 0x1D6C      |        7532 |
 
 ## String References
 
-- **7526**: It's so tough constructing frontier stations. It's always "build, build, build," and "scrounge, scrounge, scrounge." All I want is a little break from the monotony of it all.
-- **7527**: It's so tough maintaining a frontier station. I'm always fending off bloodthirsty hellions and scrounging for provisions. All I want is a little break from the monotony of it all.
-- **7528**: What will you do? [Look pleased./Cry a river./Act surprised./Rue your life./Cheer./Pretend to be flustered./Blush like a maiden./Rally the troops./Nothing for now.]
-- **7529**: Ahahaha! Of all the things to pull, I never thought you'd do that! I had no idea that was coming.
-- **7530**: Um...is something the matter with you? Maybe you should see a physician...
-- **7531**: Approaching from that direction [might not have been very effective/was probably the right thing to do.]. As for your gag, [it wasn't with the times/it was right on the mark].
-- **7532**: You don't know how much I needed something like that. Thank you.
+- **7527**: It's so tough constructing frontier stations. It's always "build, build, build," and "scrounge, scrounge, scrounge." All I want is a little break from the monotony of it all.
+- **7528**: It's so tough maintaining a frontier station. I'm always fending off bloodthirsty hellions and scrounging for provisions. All I want is a little break from the monotony of it all.
+- **7529**: What will you do? [Look pleased./Cry a river./Act surprised./Rue your life./Cheer./Pretend to be flustered./Blush like a maiden./Rally the troops./Nothing for now.]
+- **7530**: Ahahaha! Of all the things to pull, I never thought you'd do that! I had no idea that was coming.
+- **7531**: Um...is something the matter with you? Maybe you should see a physician...
+- **7532**: Approaching from that direction [might not have been very effective/was probably the right thing to do.]. As for your gag, [it wasn't with the times/it was right on the mark].
+- **7533**: You don't know how much I needed something like that. Thank you.
 
 ## Events
 
@@ -163,13 +163,13 @@
  10: 0x002E [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0049
  11: 0x0036 [0x6E] EventEntity uses emote 26*
  12: 0x003D [0x99] Wait for EventEntity animation to complete
- 13: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+ 13: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "It's so tough constructing frontier stations. It's always "build, build, build," and "scrounge, scrounge, scrounge." All I want is a little break from the monotony of it all."
  14: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0046 [0x01] GOTO 0x0059
  16: 0x0049 [0x6E] EventEntity uses emote 26*
  17: 0x0050 [0x99] Wait for EventEntity animation to complete
- 18: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+ 18: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "It's so tough maintaining a frontier station. I'm always fending off bloodthirsty hellions and scrounging for provisions. All I want is a little break from the monotony of it all."
  19: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -179,10 +179,10 @@ SUBROUTINE_0059:
  22: 0x0061 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x02F7
  23: 0x0069 [0x6E] EventEntity uses emote 26*
  24: 0x0070 [0x99] Wait for EventEntity animation to complete
- 25: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+ 25: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "It's so tough maintaining a frontier station. I'm always fending off bloodthirsty hellions and scrounging for provisions. All I want is a little break from the monotony of it all."
  26: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0079 [0x24] CREATE_DIALOG(message_id=7528*, default_option=0*, option_flags=0*)
+ 27: 0x0079 [0x24] CREATE_DIALOG(message_id=7529*, default_option=0*, option_flags=0*)
     → "What will you do? [Look pleased./Cry a river./Act surprised./Rue your life./Cheer./Pretend to be flustered./Blush like a maiden./Rally the troops./Nothing for now.]"
  28: 0x0080 [0x25] WAIT_DIALOG_SELECT()
  29: 0x0081 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BD
@@ -297,12 +297,12 @@ SUBROUTINE_0271:
 120: 0x0271 [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x02A1
 121: 0x0279 [0x6E] EventEntity uses emote 4*
 122: 0x0280 [0x99] Wait for EventEntity animation to complete
-123: 0x0285 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+123: 0x0285 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
     → "Ahahaha! Of all the things to pull, I never thought you'd do that! I had no idea that was coming."
 124: 0x0288 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0289 [0x6E] EventEntity uses emote 7*
 126: 0x0290 [0x99] Wait for EventEntity animation to complete
-127: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+127: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "You don't know how much I needed something like that. Thank you."
 128: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0299 [0x03] Work_Zone[1] = 1*
@@ -312,7 +312,7 @@ SUBROUTINE_0271:
 133: 0x02AE [0x01] GOTO 0x02F4
 134: 0x02B1 [0x6E] EventEntity uses emote 32*
 135: 0x02B8 [0x99] Wait for EventEntity animation to complete
-136: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
+136: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "Um...is something the matter with you? Maybe you should see a physician..."
 137: 0x02C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x02C1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x02D1
@@ -327,7 +327,7 @@ SUBROUTINE_02D6:
 145: 0x02E6 [0x03] Work_Zone[3] = 0*
 
 SUBROUTINE_02EB:
-146: 0x02EB [0x48] [System] [7531*]:
+146: 0x02EB [0x48] [System] [7532*]:
     → "Approaching from that direction [might not have been very effective/was probably the right thing to do.]. As for your gag, [it wasn't with the times/it was right on the mark]."
 147: 0x02EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x02EF [0x03] Work_Zone[1] = 1073741824*
@@ -337,7 +337,7 @@ SUBROUTINE_02F4:
 150: 0x02F7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0317
 151: 0x02FF [0x6E] EventEntity uses emote 7*
 152: 0x0306 [0x99] Wait for EventEntity animation to complete
-153: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+153: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "You don't know how much I needed something like that. Thank you."
 154: 0x030E [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x030F [0x03] Work_Zone[1] = 1073741824*
