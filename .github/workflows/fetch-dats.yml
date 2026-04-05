@@ -1,0 +1,62 @@
+name: Sync and Dump
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '47 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-parse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install -e .
+
+      - name: Extract DAT paths from zones.yaml
+        run: |
+          python3 -c "
+          import yaml
+          with open('data/zones.yaml') as f:
+              data = yaml.safe_load(f)
+          seen = set()
+          for zone in data['zones']:
+              for path in zone.get('files', {}).values():
+                  if path not in seen:
+                      seen.add(path)
+                      print(path)
+          " > ffxi-files.txt
+          echo "$(wc -l < ffxi-files.txt) files to fetch"
+
+      - uses: sruon/ffxi-fetch-action@v1
+        id: ffxi
+        with:
+          files-from: ffxi-files.txt
+          output-dir: dat
+        env:
+          BUCKET_KEY_ID: ${{ secrets.BUCKET_KEY_ID }}
+          BUCKET_APP_KEY: ${{ secrets.BUCKET_APP_KEY }}
+
+      - name: Run parser
+        env:
+          FFXI_PATH: dat
+        run: python3 dump_opcodes.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dumps/
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "${{ steps.ffxi.outputs.version }} Version Update"
+            git push
+          fi

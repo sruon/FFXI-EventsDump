@@ -4,7 +4,7 @@
 
 | Field            | Value                            |
 |------------------|----------------------------------|
-| Zone             | Ship bound for Selbina (ID: 220) |
+| Zone             | Ship bound for Selbina (ID: 227) |
 | Block Size       | 172 bytes                        |
 | Total Events     | 5                                |
 | References Count | 4                                |

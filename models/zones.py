@@ -2,6 +2,7 @@
 https://github.com/atom0s/XiEvents/blob/main/Event%20DAT%20Files.md
 """
 
+import os
 from dataclasses import dataclass
 from pathlib import Path
 from typing import ClassVar, Self
@@ -82,14 +83,14 @@ class Zone:
 
     def get_strings_na(self, ffxi_path: str = None):
         if ffxi_path is None:
-            ffxi_path = "C:\\Program Files (x86)\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\"
+            ffxi_path = os.environ.get("FFXI_PATH", "C:\\Program Files (x86)\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\")
 
         string_file_path = Path(ffxi_path) / self.files.strings_na
         return StringDatParser.parse_file_english(string_file_path)
 
     def get_strings_jp(self, ffxi_path: str = None):
         if ffxi_path is None:
-            ffxi_path = "C:\\Program Files (x86)\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\"
+            ffxi_path = os.environ.get("FFXI_PATH", "C:\\Program Files (x86)\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\")
 
         string_file_path = Path(ffxi_path) / self.files.strings_jp
         return StringDatParser.parse_file_japanese(string_file_path)

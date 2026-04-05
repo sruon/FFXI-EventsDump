@@ -22,7 +22,7 @@ class EventDumper:
     def __init__(self) -> None:
         self.env = Environment(loader=FileSystemLoader("templates"), trim_blocks=True, lstrip_blocks=True)
         self.opcode_parser = EventCodeParser(use_control_flow=True)
-        self.ffxi_path = Path("C:\\Program Files (x86)\\PlayOnline\\SquareEnix\\FINAL FANTASY XI")
+        self.ffxi_path = Path(os.environ.get("FFXI_PATH", "C:\\Program Files (x86)\\PlayOnline\\SquareEnix\\FINAL FANTASY XI"))
 
     def format_hex_dump(self, data: bytes, start_addr: int = 0) -> list[str]:
         """Format data as hex dump."""
