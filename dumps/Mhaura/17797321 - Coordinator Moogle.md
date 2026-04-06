@@ -111,7 +111,7 @@
 - **8409**: The number of plaudits you have earned will be reset once a given round of Vana'Bout has concluded, so make sure you grab your goodies in that time period!
 - **8410**: The currently available Vana'Bout Records of Eminence objectives can be viewed from the Vana'Bout section of the Records of Eminence objectives menu.
 - **8411**: No special objectives are available at present. Stay tuned for the next event, kupo!
-- **8412**: Personal Rewards: ($6 pl.) [Limit: $3+ plaudits.@/Gold: $4+ plaudits.@/Silve: $5+ plaudits.@/Back.]
+- **8412**: Personal Rewards: ($6 pl.) [Limit: $3+ plaudits.@/Gold: $4+ plaudits.@/Silver: $5+ plaudits.@/Back.]
 - **8413**: The amount of [/exemplar points/experience points/job points] you earn from plaudits will change.
 - **8416**: Receiving this reward will render you unable to receive another reward from this category.
 - **8417**: Receive $10 deeds? [Yes./No.]
@@ -566,7 +566,7 @@ SUBROUTINE_0287:
 143: 0x0299 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[38]
 144: 0x029E [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[5]
 145: 0x02A3 [0x24] CREATE_DIALOG(message_id=8412*, default_option=ExtData[1]->WorkLocal[44], option_flags=0*)
-    → "Personal Rewards: ($6 pl.) [Limit: $3+ plaudits.@/Gold: $4+ plaudits.@/Silve: $5+ plaudits.@/Back.]"
+    → "Personal Rewards: ($6 pl.) [Limit: $3+ plaudits.@/Gold: $4+ plaudits.@/Silver: $5+ plaudits.@/Back.]"
 146: 0x02AA [0x25] WAIT_DIALOG_SELECT()
 147: 0x02AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0401
 148: 0x02B3 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[36]) GOTO 0x02C3

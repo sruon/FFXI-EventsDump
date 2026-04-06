@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x368E      |       13966 |
+|       0 | 0x36E4      |       14052 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0200      |         512 |
 |       3 | 0x002D      |          45 |
@@ -71,9 +71,9 @@
 |      48 | 0x002C      |          44 |
 |      49 | 0x002E      |          46 |
 |      50 | 0x002F      |          47 |
-|      51 | 0x368F      |       13967 |
-|      52 | 0x3690      |       13968 |
-|      53 | 0x3691      |       13969 |
+|      51 | 0x36E5      |       14053 |
+|      52 | 0x36E6      |       14054 |
+|      53 | 0x36E7      |       14055 |
 |      54 | 0x0078      |         120 |
 |      55 | 0x2C5B      |       11355 |
 |      56 | 0x3FFA      |       16378 |
@@ -131,8 +131,8 @@
 
 ## String References
 
-- **13966**: You see the following words scrawled upon the lid: "Free to take."
-- **13968**: You pull out $0 for closer inspection.
+- **14052**: You see the following words scrawled upon the lid: "Free to take."
+- **14054**: You pull out $0 for closer inspection.
 
 ## Events
 
@@ -278,7 +278,7 @@
 ```
   0: 0x0001 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x01 - Toggle Render.Flags0 bit 29)
   1: 0x0003 [0x06] ExtData[1]->WorkLocal[1] = 0
-  2: 0x0006 [0x48] [System] [13966*]:
+  2: 0x0006 [0x48] [System] [14052*]:
     → "You see the following words scrawled upon the lid: "Free to take.""
   3: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000A [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -461,7 +461,7 @@ SUBROUTINE_0568:
      0x0513 [0x01] GOTO 0x0520
      0x0516 [0x9D] IF (0x0579) ExtData[1]->WorkLocal[2] = Work_Zone[2] // extra=0x8003
      0x0520 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0523 [0x48] [System] [13968*]:
+     0x0523 [0x48] [System] [14054*]:
     → "You pull out $0 for closer inspection."
      0x0526 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0527 [0x93] DISPLAY_ITEM_INFO(item_id=0*)

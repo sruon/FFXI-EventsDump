@@ -737,7 +737,7 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0150:    32 29 80 1F 00 2A 80  2B 80 2C 80 1F 01 1E AB   2)...*.+.,.....
+0150:    32 29 80 1F 00 2A 80  2B 80 2C 80 1F 01 1E AF   2)...*.+.,.....
 0160: 41 03 01 00                                       A...            
 ```
 
@@ -747,7 +747,7 @@
   0: 0x0151 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0154 [0x1F] MOVE_ENTITY: EventEntity moves to X=465.682*, Z=258.328*, Y=-13.959*
   2: 0x015C [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x015E [0x1E] EventEntity looks at Alcander (ID: 16990635/0x010341AB) and starts talking
+  3: 0x015E [0x1E] EventEntity looks at Alcander (ID: 16990639/0x010341AF) and starts talking
   4: 0x0163 [0x00] END_REQSTACK()
 ```
 
@@ -765,7 +765,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0160:             32 29 80 1F  00 2D 80 2E 80 2F 80 1F      2)...-.../..
-0170: 01 1E AD 41 03 01 1C 05  80 00                    ...A......      
+0170: 01 1E B1 41 03 01 1C 05  80 00                    ...A......      
 ```
 
 #### Opcodes
@@ -774,7 +774,7 @@
   0: 0x0164 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0167 [0x1F] MOVE_ENTITY: EventEntity moves to X=463.870*, Z=258.058*, Y=-14.439*
   2: 0x016F [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0171 [0x1E] EventEntity looks at Unnamed NPC (ID: 16990637/0x010341AD) and starts talking
+  3: 0x0171 [0x1E] EventEntity looks at Unnamed NPC (ID: 16990641/0x010341B1) and starts talking
   4: 0x0176 [0x1C] WAIT(60* ticks)
   5: 0x0179 [0x00] END_REQSTACK()
 ```

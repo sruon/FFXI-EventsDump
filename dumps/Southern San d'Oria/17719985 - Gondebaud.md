@@ -63,52 +63,52 @@
 |       2 | 0x001A      |          26 |
 |       3 | 0x001B      |          27 |
 |       4 | 0x001D      |          29 |
-|       5 | 0x3CAB      |       15531 |
+|       5 | 0x3D01      |       15617 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x3CA9      |       15529 |
-|       8 | 0x3CAA      |       15530 |
-|       9 | 0x3CAC      |       15532 |
+|       7 | 0x3CFF      |       15615 |
+|       8 | 0x3D00      |       15616 |
+|       9 | 0x3D02      |       15618 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x3CAD      |       15533 |
-|      12 | 0x3CAE      |       15534 |
-|      13 | 0x3CAF      |       15535 |
-|      14 | 0x3CB0      |       15536 |
-|      15 | 0x3CB1      |       15537 |
-|      16 | 0x3CB3      |       15539 |
-|      17 | 0x3CB4      |       15540 |
-|      18 | 0x3CB5      |       15541 |
-|      19 | 0x3CB6      |       15542 |
-|      20 | 0x3CB7      |       15543 |
-|      21 | 0x3CB8      |       15544 |
-|      22 | 0x3CB9      |       15545 |
-|      23 | 0x3CBB      |       15547 |
-|      24 | 0x3CBC      |       15548 |
-|      25 | 0x3CBD      |       15549 |
-|      26 | 0x3CBE      |       15550 |
+|      11 | 0x3D03      |       15619 |
+|      12 | 0x3D04      |       15620 |
+|      13 | 0x3D05      |       15621 |
+|      14 | 0x3D06      |       15622 |
+|      15 | 0x3D07      |       15623 |
+|      16 | 0x3D09      |       15625 |
+|      17 | 0x3D0A      |       15626 |
+|      18 | 0x3D0B      |       15627 |
+|      19 | 0x3D0C      |       15628 |
+|      20 | 0x3D0D      |       15629 |
+|      21 | 0x3D0E      |       15630 |
+|      22 | 0x3D0F      |       15631 |
+|      23 | 0x3D11      |       15633 |
+|      24 | 0x3D12      |       15634 |
+|      25 | 0x3D13      |       15635 |
+|      26 | 0x3D14      |       15636 |
 |      27 | 0x0002      |           2 |
-|      28 | 0x3CBA      |       15546 |
-|      29 | 0x3CB2      |       15538 |
-|      30 | 0x3CBF      |       15551 |
+|      28 | 0x3D10      |       15632 |
+|      29 | 0x3D08      |       15624 |
+|      30 | 0x3D15      |       15637 |
 |      31 | 0x000C      |          12 |
-|      32 | 0x3CC0      |       15552 |
-|      33 | 0x3CC1      |       15553 |
-|      34 | 0x3CC2      |       15554 |
-|      35 | 0x3CC3      |       15555 |
-|      36 | 0x3CC4      |       15556 |
-|      37 | 0x3CC5      |       15557 |
-|      38 | 0x3CC6      |       15558 |
-|      39 | 0x3CC7      |       15559 |
-|      40 | 0x3CC8      |       15560 |
-|      41 | 0x3CC9      |       15561 |
-|      42 | 0x3CCA      |       15562 |
-|      43 | 0x3CCB      |       15563 |
-|      44 | 0x3CCC      |       15564 |
-|      45 | 0x3CCD      |       15565 |
-|      46 | 0x3CCE      |       15566 |
-|      47 | 0x3CCF      |       15567 |
+|      32 | 0x3D16      |       15638 |
+|      33 | 0x3D17      |       15639 |
+|      34 | 0x3D18      |       15640 |
+|      35 | 0x3D19      |       15641 |
+|      36 | 0x3D1A      |       15642 |
+|      37 | 0x3D1B      |       15643 |
+|      38 | 0x3D1C      |       15644 |
+|      39 | 0x3D1D      |       15645 |
+|      40 | 0x3D1E      |       15646 |
+|      41 | 0x3D1F      |       15647 |
+|      42 | 0x3D20      |       15648 |
+|      43 | 0x3D21      |       15649 |
+|      44 | 0x3D22      |       15650 |
+|      45 | 0x3D23      |       15651 |
+|      46 | 0x3D24      |       15652 |
+|      47 | 0x3D25      |       15653 |
 |      48 | 0x0003      |           3 |
-|      49 | 0x3CD2      |       15570 |
-|      50 | 0x3CD0      |       15568 |
+|      49 | 0x3D28      |       15656 |
+|      50 | 0x3D26      |       15654 |
 |      51 | 0x0004      |           4 |
 |      52 | 0x0005      |           5 |
 |      53 | 0x0006      |           6 |
@@ -124,48 +124,48 @@
 |      63 | 0x0010      |          16 |
 |      64 | 0x0011      |          17 |
 |      65 | 0x0012      |          18 |
-|      66 | 0x3CD1      |       15569 |
-|      67 | 0x3CD3      |       15571 |
-|      68 | 0x3CD4      |       15572 |
-|      69 | 0x3CD5      |       15573 |
-|      70 | 0x3CE0      |       15584 |
-|      71 | 0x3CD6      |       15574 |
-|      72 | 0x3CD7      |       15575 |
-|      73 | 0x3CD8      |       15576 |
-|      74 | 0x3CD9      |       15577 |
-|      75 | 0x3CE1      |       15585 |
-|      76 | 0x3CE2      |       15586 |
+|      66 | 0x3D27      |       15655 |
+|      67 | 0x3D29      |       15657 |
+|      68 | 0x3D2A      |       15658 |
+|      69 | 0x3D2B      |       15659 |
+|      70 | 0x3D36      |       15670 |
+|      71 | 0x3D2C      |       15660 |
+|      72 | 0x3D2D      |       15661 |
+|      73 | 0x3D2E      |       15662 |
+|      74 | 0x3D2F      |       15663 |
+|      75 | 0x3D37      |       15671 |
+|      76 | 0x3D38      |       15672 |
 |      77 | 0x00C8      |         200 |
 |      78 | 0x003C      |          60 |
 |      79 | 0x00AE      |         174 |
 |      80 | 0x00B0      |         176 |
 |      81 | 0x012C      |         300 |
-|      82 | 0x3CE3      |       15587 |
-|      83 | 0x3CE4      |       15588 |
+|      82 | 0x3D39      |       15673 |
+|      83 | 0x3D3A      |       15674 |
 |      84 | 0x00C9      |         201 |
-|      85 | 0x3CDA      |       15578 |
-|      86 | 0x3CDB      |       15579 |
-|      87 | 0x3CDC      |       15580 |
-|      88 | 0x3CDD      |       15581 |
+|      85 | 0x3D30      |       15664 |
+|      86 | 0x3D31      |       15665 |
+|      87 | 0x3D32      |       15666 |
+|      88 | 0x3D33      |       15667 |
 |      89 | 0x1DB7B     |      121723 |
 |      90 | 0x16C10     |       93200 |
 |      91 | 0x0FF8      |        4088 |
 |      92 | 0x0065      |         101 |
 |      93 | 0x005A      |          90 |
 |      94 | 0x001E      |          30 |
-|      95 | 0x3CDE      |       15582 |
-|      96 | 0x3CDF      |       15583 |
+|      95 | 0x3D34      |       15668 |
+|      96 | 0x3D35      |       15669 |
 |      97 | 0x0078      |         120 |
-|      98 | 0x3CE7      |       15591 |
-|      99 | 0x3CE8      |       15592 |
-|     100 | 0x3CE9      |       15593 |
-|     101 | 0x3CEA      |       15594 |
-|     102 | 0x3CEB      |       15595 |
-|     103 | 0x3CEC      |       15596 |
-|     104 | 0x3CED      |       15597 |
-|     105 | 0x3CEE      |       15598 |
-|     106 | 0x3CE5      |       15589 |
-|     107 | 0x3CE6      |       15590 |
+|      98 | 0x3D3D      |       15677 |
+|      99 | 0x3D3E      |       15678 |
+|     100 | 0x3D3F      |       15679 |
+|     101 | 0x3D40      |       15680 |
+|     102 | 0x3D41      |       15681 |
+|     103 | 0x3D42      |       15682 |
+|     104 | 0x3D43      |       15683 |
+|     105 | 0x3D44      |       15684 |
+|     106 | 0x3D3B      |       15675 |
+|     107 | 0x3D3C      |       15676 |
 |     108 | 0x06C3      |        1731 |
 |     109 | 0x2396D     |      145773 |
 |     110 | 0xFFFCCBB0  |  4294757296 |
@@ -204,76 +204,76 @@
 
 ## String References
 
-- **15529**: Hail, friend! No need to be so fleet of foot. Come, let me impart upon you a tantalizing morsel of information.
-- **15530**: A [freshly hatched/well-traveled/high-class] adventurer such as yourself could surely appreciate the offer I am about to lay forth for your consideration.
-- **15531**: I, Gondebaud, am an esteemed member of the storied Jeuno Institute of Magical Studies.
-- **15532**: Mayhap I am repeating what you already know, but Jeuno is a grand city far to the southeast of here that connects the Quon and Mindartia continents.
-- **15533**: The leading council has bid me come to this fair land of San d'Oria with a most sacred mission.
-- **15534**: Several moons past, our famed institute held a lavish symposium at which we made privy to the public information about a new form of magic.
-- **15535**: These new forms of incantations, which we call "Trust," would prove a mighty boon to adventurers of your caliber.
-- **15536**: A bevy of new experiences await should you choose to participate in this grand experiment. Will you embark on a journey to this fresh new world?
-- **15537**: Participate in the experiment? [I'd love to./I'm not sure it's for me.]
-- **15538**: You leave my jaw so agape that I fear my dentures are starting to slip!
-- **15539**: How fortuitous! I swear by every gray hair on this head that you will not regret it! Your first task is to head to the city gates in Northern San d'Oria.
-- **15540**: There you will find someone engaged in the running of "Ballista," a type of mock skirmish. Some call him by the moniker of "the grand hero of San d'Oria."
-- **15541**: As you have already surmised, experimental magic may have unknown effects on the world, so he is very careful to ensure the safety of everyone involved.
-- **15542**: In fact, he is so dedicated to this goal that he himself stepped up as the nation's first participant in the program.
-- **15543**: The two other grand nations--Bastok and Windurst--have also seen others step up to try their hand at this wonderful manifestation of the arcane.
-- **15544**: But we will leave those journeys for a later date. Your first step starts here, in San d'Oria, where you will garner the services of one of Vana'diel's most storied heroes.
-- **15545**: Participate here in San d'Oria? [Yes./No.]
-- **15546**: As I previously alluded to, there are more like me stationed in the other nations. They will guide you in much the same way, so please--lend an ear when you travel abroad.
-- **15547**: Stupendous! Under my expert tutelage here in San d'Oria, you will surely grasp the basics of Trust in no time!
-- **15548**: Take this letter of introduction with you and head to Ranperre Gate in Northern San d'Oria.
-- **15549**: To get to Northern San d'Oria, you must first head west of here, then north toward Victory Square.
-- **15550**: After reaching Northern San d'Oria, you are to make for Ranperre Gate. Once there, seek out Excenmille--and pray do not affront him in any fashion. The words of a hero such as he carry unmatched weight in this land.
-- **15551**: Do you require an explanation as to what Trust is?
-- **15552**: Inquire about what? [What Trust is./What happens when one uses Trust./How to learn new Trust spells./Whereabouts of Trust participants./Nothing at the moment.]
-- **15553**: Trust is a new series of magical incantations woven into being by the Jeuno Institute of Magical Studies, announced at our recent symposium.
-- **15554**: Mayhaps the term "incantations" is a trifle misleading. Rather than draw upon aetheric manipulation, Trust taps into the spiritual connection between those bound by [fraternal/sororal] love.
-- **15555**: To lead you to my explanation's logical conclusion, I'll say this magic can be utilized regardless of its wielder's vocation. Both simple and profitable.
-- **15556**: As the technique is reliant upon the connection between two souls, interference by a profusion of souls, such as in cities, renders the technique unusable.
-- **15557**: Using Trust magic enables the caster to call forth alter egos of those with whom [he/she] has formed bonds of friendship and trust.
-- **15558**: As this technique utilizes the resonance between two kindred spirits, the alter ego which manifests always matches the caster, be they weak or strong.
-- **15559**: Journeys are much more satisfying when you have a companion, don't you think? The alter ego you summon will fight bravely by your side, but you will be unable to present them with detailed tactical orders.
-- **15560**: If you wish to return the alter ego from whence it came, you only need speak to it and express your desire. A bittersweet moment, to be sure.
-- **15561**: Alter egos suffer wounds just like you and I, and if one falls in battle, it will wink out of existence. To watch one so dear fade away...it brings a tear to your eye, does it not?
-- **15562**: Yet fret not, my disciple! After just a short while you will be able to bring it back to the world once more. Your sadness will be but whispers on the wind.
-- **15563**: Bringing forth an alter ego is not a simple process. You must first forge intangible bonds with those whose aid you wish to enlist.
-- **15564**: Carefully cultivate trust and respect between yourself and a practitioner, as this technique cannot work unless the bonds between you be surer than steel.
-- **15565**: Know you the adage "opposites attract"? Assuredly, such is not the case here. Storied personages have little time for those whose deeds are not sung as widely as their own.
-- **15566**: But all I have just told you can be circumvented, as research into new methods of calling forth alter egos has been ongoing. It is possible to summon one without having so much as met the person.
-- **15567**: As you can imagine, this requires a bit of tinkering with the aether, but it is indeed possible. All I require is the appropriate scroll.
-- **15568**: Do you wish to drink from the font of knowledge?
-- **15569**: [Excenmille/Naji/Kupipi/Curilla/Ayame/Nanaa Mihgo/Trion/Volker/Ajido-Marujido/Iron Eater/Prishe/Ulmia/Shikaree Z/Cherukiki/Gadalar/Zazarg/Nashmeira/Gessho/Ingrid/Maat/Arciela/Chacharoon] can be found in [San d'Oria/Bastok/Windurst/Jeuno/Tavnazia/Aht Urhgan/Adoulin/the Mod Gardens].
-- **15570**: My well has run dry. There is nothing more I can proffer you.
-- **15571**: Oh ho! You've got $3 on hand, do you?
-- **15572**: Funny story, that. They are also involved in the Trust initiative.
-- **15573**: I must bow my head in appreciation for all that you and your ilk have done for us. From the bottom of my heart, thank you.
-- **15574**: I am more than pleased to report that your activities on our behalf have aided the institute in posting never-before-seen results.
-- **15575**: Always cherish the bonds you have formed with that person, for such resilient ties take years--decades!--to form.
-- **15576**: May your trust and friendship blossom into the envy of all!
-- **15577**: Wh-who? This old mind does not work like it used to, for I know not one whit about that person.
-- **15578**: Bah! What exactly am I supposed to do with this pile of nonsense?
-- **15579**: But lest you think otherwise, it is the parchment to blame. Some strange energy prevents it from being properly read.
-- **15580**: You cannot read this cipher due to an event occurring in Rhapsodies of Vana'diel.
-- **15581**: Even I cannot tell who this cipher is supposed to call. Let me get out my reading glasses and take a gander, hmm?
-- **15582**: Oho! A strange apparition, you say?
-- **15583**: Glad I could help you reach even greater heights. May you enjoy many bright years with your new companion.
-- **15584**: Though I perhaps should not share this information with one not of the institute, lately we have been pushing the limits of the Trust initiative beyond just the five races.
-- **15585**: Let us get down to business, you say? Use these newfound powers?
-- **15586**: Then we shall commune together. Close your eyes, and let the powers of trust, friendship, and [brotherly/sisterly] love fill every ilm of your body.
-- **15587**: A marvelous spectacle, if I do say so myself!
-- **15588**: Now you owe me not one, but two! Tohoho, how great it is to have the upper hand!
-- **15589**: You know about this all-important Trust initiative already? Rumors truly do spread like wildfire on a dry summer day.
-- **15590**: Whether my compatriots in Bastok or Windurst informed you is of little consequence. What matters most is that you are here--and wish to engage in the trials we San d'Orians can offer.
-- **15591**: Oh ho! Is that $3 you have there mayhap?
-- **15592**: Doctor Monberaux is a doctor of much renown throughout Jeuno. I have been meaning to have him take a look at my creaky old back.
-- **15593**: By the by, when we spoke with him about helping us with our Trust magic, he asked if his friend could join too.
-- **15594**: It seems his friend Wolf-something is quite popular with ladies of a certain age such as Ilumida. He received quite a glowing recommendation.
-- **15595**: Unfortunately, things ended up being a bit complicated. No, it was not like anybody was jealous of him or anything.
-- **15596**: Now, where was I... Oh yes, we were talking about Doctor Monberaux. Close your eyes, and let the powers of trust, friendship, and [brotherly/sisterly] love fill every ilm of your body.
-- **15597**: A marvelous spectacle, if I do say so myself!
-- **15598**: Now you owe me not one, but two! Tohoho, how great it is to have the upper hand!
+- **15615**: Hail, friend! No need to be so fleet of foot. Come, let me impart upon you a tantalizing morsel of information.
+- **15616**: A [freshly hatched/well-traveled/high-class] adventurer such as yourself could surely appreciate the offer I am about to lay forth for your consideration.
+- **15617**: I, Gondebaud, am an esteemed member of the storied Jeuno Institute of Magical Studies.
+- **15618**: Mayhap I am repeating what you already know, but Jeuno is a grand city far to the southeast of here that connects the Quon and Mindartia continents.
+- **15619**: The leading council has bid me come to this fair land of San d'Oria with a most sacred mission.
+- **15620**: Several moons past, our famed institute held a lavish symposium at which we made privy to the public information about a new form of magic.
+- **15621**: These new forms of incantations, which we call "Trust," would prove a mighty boon to adventurers of your caliber.
+- **15622**: A bevy of new experiences await should you choose to participate in this grand experiment. Will you embark on a journey to this fresh new world?
+- **15623**: Participate in the experiment? [I'd love to./I'm not sure it's for me.]
+- **15624**: You leave my jaw so agape that I fear my dentures are starting to slip!
+- **15625**: How fortuitous! I swear by every gray hair on this head that you will not regret it! Your first task is to head to the city gates in Northern San d'Oria.
+- **15626**: There you will find someone engaged in the running of "Ballista," a type of mock skirmish. Some call him by the moniker of "the grand hero of San d'Oria."
+- **15627**: As you have already surmised, experimental magic may have unknown effects on the world, so he is very careful to ensure the safety of everyone involved.
+- **15628**: In fact, he is so dedicated to this goal that he himself stepped up as the nation's first participant in the program.
+- **15629**: The two other grand nations--Bastok and Windurst--have also seen others step up to try their hand at this wonderful manifestation of the arcane.
+- **15630**: But we will leave those journeys for a later date. Your first step starts here, in San d'Oria, where you will garner the services of one of Vana'diel's most storied heroes.
+- **15631**: Participate here in San d'Oria? [Yes./No.]
+- **15632**: As I previously alluded to, there are more like me stationed in the other nations. They will guide you in much the same way, so please--lend an ear when you travel abroad.
+- **15633**: Stupendous! Under my expert tutelage here in San d'Oria, you will surely grasp the basics of Trust in no time!
+- **15634**: Take this letter of introduction with you and head to Ranperre Gate in Northern San d'Oria.
+- **15635**: To get to Northern San d'Oria, you must first head west of here, then north toward Victory Square.
+- **15636**: After reaching Northern San d'Oria, you are to make for Ranperre Gate. Once there, seek out Excenmille--and pray do not affront him in any fashion. The words of a hero such as he carry unmatched weight in this land.
+- **15637**: Do you require an explanation as to what Trust is?
+- **15638**: Inquire about what? [What Trust is./What happens when one uses Trust./How to learn new Trust spells./Whereabouts of Trust participants./Nothing at the moment.]
+- **15639**: Trust is a new series of magical incantations woven into being by the Jeuno Institute of Magical Studies, announced at our recent symposium.
+- **15640**: Mayhaps the term "incantations" is a trifle misleading. Rather than draw upon aetheric manipulation, Trust taps into the spiritual connection between those bound by [fraternal/sororal] love.
+- **15641**: To lead you to my explanation's logical conclusion, I'll say this magic can be utilized regardless of its wielder's vocation. Both simple and profitable.
+- **15642**: As the technique is reliant upon the connection between two souls, interference by a profusion of souls, such as in cities, renders the technique unusable.
+- **15643**: Using Trust magic enables the caster to call forth alter egos of those with whom [he/she] has formed bonds of friendship and trust.
+- **15644**: As this technique utilizes the resonance between two kindred spirits, the alter ego which manifests always matches the caster, be they weak or strong.
+- **15645**: Journeys are much more satisfying when you have a companion, don't you think? The alter ego you summon will fight bravely by your side, but you will be unable to present them with detailed tactical orders.
+- **15646**: If you wish to return the alter ego from whence it came, you only need speak to it and express your desire. A bittersweet moment, to be sure.
+- **15647**: Alter egos suffer wounds just like you and I, and if one falls in battle, it will wink out of existence. To watch one so dear fade away...it brings a tear to your eye, does it not?
+- **15648**: Yet fret not, my disciple! After just a short while you will be able to bring it back to the world once more. Your sadness will be but whispers on the wind.
+- **15649**: Bringing forth an alter ego is not a simple process. You must first forge intangible bonds with those whose aid you wish to enlist.
+- **15650**: Carefully cultivate trust and respect between yourself and a practitioner, as this technique cannot work unless the bonds between you be surer than steel.
+- **15651**: Know you the adage "opposites attract"? Assuredly, such is not the case here. Storied personages have little time for those whose deeds are not sung as widely as their own.
+- **15652**: But all I have just told you can be circumvented, as research into new methods of calling forth alter egos has been ongoing. It is possible to summon one without having so much as met the person.
+- **15653**: As you can imagine, this requires a bit of tinkering with the aether, but it is indeed possible. All I require is the appropriate scroll.
+- **15654**: Do you wish to drink from the font of knowledge?
+- **15655**: [Excenmille/Naji/Kupipi/Curilla/Ayame/Nanaa Mihgo/Trion/Volker/Ajido-Marujido/Iron Eater/Prishe/Ulmia/Shikaree Z/Cherukiki/Gadalar/Zazarg/Nashmeira/Gessho/Ingrid/Maat/Arciela/Chacharoon] can be found in [San d'Oria/Bastok/Windurst/Jeuno/Tavnazia/Aht Urhgan/Adoulin/the Mod Gardens].
+- **15656**: My well has run dry. There is nothing more I can proffer you.
+- **15657**: Oh ho! You've got $3 on hand, do you?
+- **15658**: Funny story, that. They are also involved in the Trust initiative.
+- **15659**: I must bow my head in appreciation for all that you and your ilk have done for us. From the bottom of my heart, thank you.
+- **15660**: I am more than pleased to report that your activities on our behalf have aided the institute in posting never-before-seen results.
+- **15661**: Always cherish the bonds you have formed with that person, for such resilient ties take years--decades!--to form.
+- **15662**: May your trust and friendship blossom into the envy of all!
+- **15663**: Wh-who? This old mind does not work like it used to, for I know not one whit about that person.
+- **15664**: Bah! What exactly am I supposed to do with this pile of nonsense?
+- **15665**: But lest you think otherwise, it is the parchment to blame. Some strange energy prevents it from being properly read.
+- **15666**: You cannot read this cipher due to an event occurring in Rhapsodies of Vana'diel.
+- **15667**: Even I cannot tell who this cipher is supposed to call. Let me get out my reading glasses and take a gander, hmm?
+- **15668**: Oho! A strange apparition, you say?
+- **15669**: Glad I could help you reach even greater heights. May you enjoy many bright years with your new companion.
+- **15670**: Though I perhaps should not share this information with one not of the institute, lately we have been pushing the limits of the Trust initiative beyond just the five races.
+- **15671**: Let us get down to business, you say? Use these newfound powers?
+- **15672**: Then we shall commune together. Close your eyes, and let the powers of trust, friendship, and [brotherly/sisterly] love fill every ilm of your body.
+- **15673**: A marvelous spectacle, if I do say so myself!
+- **15674**: Now you owe me not one, but two! Tohoho, how great it is to have the upper hand!
+- **15675**: You know about this all-important Trust initiative already? Rumors truly do spread like wildfire on a dry summer day.
+- **15676**: Whether my compatriots in Bastok or Windurst informed you is of little consequence. What matters most is that you are here--and wish to engage in the trials we San d'Orians can offer.
+- **15677**: Oh ho! Is that $3 you have there mayhap?
+- **15678**: Doctor Monberaux is a doctor of much renown throughout Jeuno. I have been meaning to have him take a look at my creaky old back.
+- **15679**: By the by, when we spoke with him about helping us with our Trust magic, he asked if his friend could join too.
+- **15680**: It seems his friend Wolf-something is quite popular with ladies of a certain age such as Ilumida. He received quite a glowing recommendation.
+- **15681**: Unfortunately, things ended up being a bit complicated. No, it was not like anybody was jealous of him or anything.
+- **15682**: Now, where was I... Oh yes, we were talking about Doctor Monberaux. Close your eyes, and let the powers of trust, friendship, and [brotherly/sisterly] love fill every ilm of your body.
+- **15683**: A marvelous spectacle, if I do say so myself!
+- **15684**: Now you owe me not one, but two! Tohoho, how great it is to have the upper hand!
 
 ## Events
 
@@ -1041,7 +1041,7 @@
   1: 0x01C8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01C9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x01)
-  4: 0x01D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15531*)
+  4: 0x01D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15617*)
     → "I, Gondebaud, am an esteemed member of the storied Jeuno Institute of Magical Studies."
   5: 0x01D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x02)
@@ -1100,92 +1100,92 @@
   3: 0x01EF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01F0 [0x03] Work_Zone[1] = 1*
   5: 0x01F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x0F)
-  6: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=15529*)
+  6: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=15615*)
     → "Hail, friend! No need to be so fleet of foot. Come, let me impart upon you a tantalizing morsel of information."
   7: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=15530*)
+  8: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=15616*)
     → "A [freshly hatched/well-traveled/high-class] adventurer such as yourself could surely appreciate the offer I am about to lay forth for your consideration."
   9: 0x0203 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0204 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x10)
  11: 0x020B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x01)
- 12: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=15531*)
+ 12: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=15617*)
     → "I, Gondebaud, am an esteemed member of the storied Jeuno Institute of Magical Studies."
  13: 0x0215 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=15532*)
+ 14: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=15618*)
     → "Mayhap I am repeating what you already know, but Jeuno is a grand city far to the southeast of here that connects the Quon and Mindartia continents."
  15: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x021A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x02)
  17: 0x0221 [0x03] Work_Zone[4] = 0*
  18: 0x0226 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x03)
- 19: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=15533*)
+ 19: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=15619*)
     → "The leading council has bid me come to this fair land of San d'Oria with a most sacred mission."
  20: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0231 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x04)
  22: 0x0238 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x05)
- 23: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=15534*)
+ 23: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=15620*)
     → "Several moons past, our famed institute held a lavish symposium at which we made privy to the public information about a new form of magic."
  24: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=15535*)
+ 25: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=15621*)
     → "These new forms of incantations, which we call "Trust," would prove a mighty boon to adventurers of your caliber."
  26: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0247 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x06)
  28: 0x024E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x07)
- 29: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=15536*)
+ 29: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=15622*)
     → "A bevy of new experiences await should you choose to participate in this grand experiment. Will you embark on a journey to this fresh new world?"
  30: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0259 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x08)
- 32: 0x0260 [0x24] CREATE_DIALOG(message_id=15537*, default_option=0*, option_flags=0*)
+ 32: 0x0260 [0x24] CREATE_DIALOG(message_id=15623*, default_option=0*, option_flags=0*)
     → "Participate in the experiment? [I'd love to./I'm not sure it's for me.]"
  33: 0x0267 [0x25] WAIT_DIALOG_SELECT()
  34: 0x0268 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x034D
  35: 0x0270 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x01)
- 36: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=15539*)
+ 36: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=15625*)
     → "How fortuitous! I swear by every gray hair on this head that you will not regret it! Your first task is to head to the city gates in Northern San d'Oria."
  37: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=15540*)
+ 38: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=15626*)
     → "There you will find someone engaged in the running of "Ballista," a type of mock skirmish. Some call him by the moniker of "the grand hero of San d'Oria.""
  39: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x027F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x02)
  41: 0x0286 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x15)
- 42: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=15541*)
+ 42: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=15627*)
     → "As you have already surmised, experimental magic may have unknown effects on the world, so he is very careful to ensure the safety of everyone involved."
  43: 0x0290 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0291 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x16)
  45: 0x0298 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x17)
- 46: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=15542*)
+ 46: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=15628*)
     → "In fact, he is so dedicated to this goal that he himself stepped up as the nation's first participant in the program."
  47: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x02A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x18)
  49: 0x02AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x05)
- 50: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15543*)
+ 50: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15629*)
     → "The two other grand nations--Bastok and Windurst--have also seen others step up to try their hand at this wonderful manifestation of the arcane."
  51: 0x02B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x02B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x06)
  53: 0x02BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x07)
- 54: 0x02C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15544*)
+ 54: 0x02C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15630*)
     → "But we will leave those journeys for a later date. Your first step starts here, in San d'Oria, where you will garner the services of one of Vana'diel's most storied heroes."
  55: 0x02C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x02C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x08)
- 57: 0x02CE [0x24] CREATE_DIALOG(message_id=15545*, default_option=0*, option_flags=0*)
+ 57: 0x02CE [0x24] CREATE_DIALOG(message_id=15631*, default_option=0*, option_flags=0*)
     → "Participate here in San d'Oria? [Yes./No.]"
  58: 0x02D5 [0x25] WAIT_DIALOG_SELECT()
  59: 0x02D6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0321
  60: 0x02DE [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 61: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=15547*)
+ 61: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=15633*)
     → "Stupendous! Under my expert tutelage here in San d'Oria, you will surely grasp the basics of Trust in no time!"
  62: 0x02E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x02E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x09)
- 64: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=15548*)
+ 64: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=15634*)
     → "Take this letter of introduction with you and head to Ranperre Gate in Northern San d'Oria."
  65: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x02EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x0A)
  67: 0x02F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x01)
- 68: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=15549*)
+ 68: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=15635*)
     → "To get to Northern San d'Oria, you must first head west of here, then north toward Victory Square."
  69: 0x02FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0300 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x02)
  71: 0x0307 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x03)
- 72: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=15550*)
+ 72: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=15636*)
     → "After reaching Northern San d'Oria, you are to make for Ranperre Gate. Once there, seek out Excenmille--and pray do not affront him in any fashion. The words of a hero such as he carry unmatched weight in this land."
  73: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0312 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x04)
@@ -1193,7 +1193,7 @@
  76: 0x031E [0x01] GOTO 0x034A
  77: 0x0321 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x034A
  78: 0x0329 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x05)
- 79: 0x0330 [0x1D] PRINT_EVENT_MESSAGE(message_id=15546*)
+ 79: 0x0330 [0x1D] PRINT_EVENT_MESSAGE(message_id=15632*)
     → "As I previously alluded to, there are more like me stationed in the other nations. They will guide you in much the same way, so please--lend an ear when you travel abroad."
  80: 0x0333 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0334 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x06)
@@ -1205,7 +1205,7 @@ SUBROUTINE_034A:
  85: 0x034A [0x01] GOTO 0x0376
  86: 0x034D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0376
  87: 0x0355 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x11)
- 88: 0x035C [0x1D] PRINT_EVENT_MESSAGE(message_id=15538*)
+ 88: 0x035C [0x1D] PRINT_EVENT_MESSAGE(message_id=15624*)
     → "You leave my jaw so agape that I fear my dentures are starting to slip!"
  89: 0x035F [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0360 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x12)
@@ -1245,12 +1245,12 @@ SUBROUTINE_0376:
   1: 0x037F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0380 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0381 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x01)
-  4: 0x0388 [0x1D] PRINT_EVENT_MESSAGE(message_id=15549*)
+  4: 0x0388 [0x1D] PRINT_EVENT_MESSAGE(message_id=15635*)
     → "To get to Northern San d'Oria, you must first head west of here, then north toward Victory Square."
   5: 0x038B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x038C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x02)
   7: 0x0393 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x03)
-  8: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=15550*)
+  8: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=15636*)
     → "After reaching Northern San d'Oria, you are to make for Ranperre Gate. Once there, seek out Excenmille--and pray do not affront him in any fashion. The words of a hero such as he carry unmatched weight in this land."
   9: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x039E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x04)
@@ -1338,7 +1338,7 @@ SUBROUTINE_0376:
   3: 0x03B8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x03B9 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[6]
   5: 0x03BE [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
-  6: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15551*)
+  6: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15637*)
     → "Do you require an explanation as to what Trust is?"
   7: 0x03C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03C7 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x03D7
@@ -1347,25 +1347,25 @@ SUBROUTINE_0376:
  11: 0x03D7 [0x03] ExtData[1]->WorkLocal[3] = 12*
 
 SUBROUTINE_03DC:
- 12: 0x03DC [0x24] CREATE_DIALOG(message_id=15552*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+ 12: 0x03DC [0x24] CREATE_DIALOG(message_id=15638*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "Inquire about what? [What Trust is./What happens when one uses Trust./How to learn new Trust spells./Whereabouts of Trust participants./Nothing at the moment.]"
  13: 0x03E3 [0x25] WAIT_DIALOG_SELECT()
  14: 0x03E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x043A
  15: 0x03EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x05)
- 16: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15553*)
+ 16: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15639*)
     → "Trust is a new series of magical incantations woven into being by the Jeuno Institute of Magical Studies, announced at our recent symposium."
  17: 0x03F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15554*)
+ 18: 0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15640*)
     → "Mayhaps the term "incantations" is a trifle misleading. Rather than draw upon aetheric manipulation, Trust taps into the spiritual connection between those bound by [fraternal/sororal] love."
  19: 0x03FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x03FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x06)
  21: 0x0402 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x07)
- 22: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=15555*)
+ 22: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=15641*)
     → "To lead you to my explanation's logical conclusion, I'll say this magic can be utilized regardless of its wielder's vocation. Both simple and profitable."
  23: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x040D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x08)
  25: 0x0414 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x0B)
- 26: 0x041B [0x1D] PRINT_EVENT_MESSAGE(message_id=15556*)
+ 26: 0x041B [0x1D] PRINT_EVENT_MESSAGE(message_id=15642*)
     → "As the technique is reliant upon the connection between two souls, interference by a profusion of souls, such as in cities, renders the technique unusable."
  27: 0x041E [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x041F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x0C)
@@ -1375,7 +1375,7 @@ SUBROUTINE_03DC:
 
 SUBROUTINE_06E3:
  32: 0x06E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x07)
- 33: 0x06EA [0x1D] PRINT_EVENT_MESSAGE(message_id=15569*)
+ 33: 0x06EA [0x1D] PRINT_EVENT_MESSAGE(message_id=15655*)
     → "[Excenmille/Naji/Kupipi/Curilla/Ayame/Nanaa Mihgo/Trion/Volker/Ajido-Marujido/Iron Eater/Prishe/Ulmia/Shikaree Z/Cherukiki/Gadalar/Zazarg/Nashmeira/Gessho/Ingrid/Maat/Arciela/Chacharoon] can be found in [San d'Oria/Bastok/Windurst/Jeuno/Tavnazia/Aht Urhgan/Adoulin/the Mod Gardens]."
  34: 0x06ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x06EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x08)
@@ -1449,57 +1449,57 @@ SUBROUTINE_0706:
   5: 0x0723 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0724 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x0725 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x11)
-  8: 0x072C [0x1D] PRINT_EVENT_MESSAGE(message_id=15571*)
+  8: 0x072C [0x1D] PRINT_EVENT_MESSAGE(message_id=15657*)
     → "Oh ho! You've got $3 on hand, do you?"
   9: 0x072F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0730 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x12)
  11: 0x0737 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0758
  12: 0x073F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x13)
- 13: 0x0746 [0x1D] PRINT_EVENT_MESSAGE(message_id=15572*)
+ 13: 0x0746 [0x1D] PRINT_EVENT_MESSAGE(message_id=15658*)
     → "Funny story, that. They are also involved in the Trust initiative."
  14: 0x0749 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x074A [0x1D] PRINT_EVENT_MESSAGE(message_id=15573*)
+ 15: 0x074A [0x1D] PRINT_EVENT_MESSAGE(message_id=15659*)
     → "I must bow my head in appreciation for all that you and your ilk have done for us. From the bottom of my heart, thank you."
  16: 0x074D [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x074E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x14)
  18: 0x0755 [0x01] GOTO 0x07D6
  19: 0x0758 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0775
  20: 0x0760 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x13)
- 21: 0x0767 [0x1D] PRINT_EVENT_MESSAGE(message_id=15584*)
+ 21: 0x0767 [0x1D] PRINT_EVENT_MESSAGE(message_id=15670*)
     → "Though I perhaps should not share this information with one not of the institute, lately we have been pushing the limits of the Trust initiative beyond just the five races."
  22: 0x076A [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x076B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x14)
  24: 0x0772 [0x01] GOTO 0x07D6
  25: 0x0775 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x07AF
  26: 0x077D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x13)
- 27: 0x0784 [0x1D] PRINT_EVENT_MESSAGE(message_id=15574*)
+ 27: 0x0784 [0x1D] PRINT_EVENT_MESSAGE(message_id=15660*)
     → "I am more than pleased to report that your activities on our behalf have aided the institute in posting never-before-seen results."
  28: 0x0787 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0788 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x14)
  30: 0x078F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x05)
- 31: 0x0796 [0x1D] PRINT_EVENT_MESSAGE(message_id=15575*)
+ 31: 0x0796 [0x1D] PRINT_EVENT_MESSAGE(message_id=15661*)
     → "Always cherish the bonds you have formed with that person, for such resilient ties take years--decades!--to form."
  32: 0x0799 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x079A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x06)
  34: 0x07A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x07)
- 35: 0x07A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15576*)
+ 35: 0x07A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15662*)
     → "May your trust and friendship blossom into the envy of all!"
  36: 0x07AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x07AC [0x01] GOTO 0x07D6
  38: 0x07AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x13)
  39: 0x07B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x14)
  40: 0x07BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x05)
- 41: 0x07C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15577*)
+ 41: 0x07C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15663*)
     → "Wh-who? This old mind does not work like it used to, for I know not one whit about that person."
  42: 0x07C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x07C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x06)
  44: 0x07CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x07)
 
 SUBROUTINE_07D6:
- 45: 0x07D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15585*)
+ 45: 0x07D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15671*)
     → "Let us get down to business, you say? Use these newfound powers?"
  46: 0x07D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x07DA [0x1D] PRINT_EVENT_MESSAGE(message_id=15586*)
+ 47: 0x07DA [0x1D] PRINT_EVENT_MESSAGE(message_id=15672*)
     → "Then we shall commune together. Close your eyes, and let the powers of trust, friendship, and [brotherly/sisterly] love fill every ilm of your body."
  48: 0x07DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x07DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1510,12 +1510,12 @@ SUBROUTINE_07D6:
  54: 0x0817 [0x1C] WAIT(300* ticks)
  55: 0x081A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  56: 0x082B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x11)
- 57: 0x0832 [0x1D] PRINT_EVENT_MESSAGE(message_id=15587*)
+ 57: 0x0832 [0x1D] PRINT_EVENT_MESSAGE(message_id=15673*)
     → "A marvelous spectacle, if I do say so myself!"
  58: 0x0835 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0836 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x12)
  60: 0x083D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x13)
- 61: 0x0844 [0x1D] PRINT_EVENT_MESSAGE(message_id=15588*)
+ 61: 0x0844 [0x1D] PRINT_EVENT_MESSAGE(message_id=15674*)
     → "Now you owe me not one, but two! Tohoho, how great it is to have the upper hand!"
  62: 0x0847 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0848 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -1553,13 +1553,13 @@ SUBROUTINE_07D6:
   3: 0x0871 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0872 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x11)
   5: 0x0879 [0x1C] WAIT(20* ticks)
-  6: 0x087C [0x1D] PRINT_EVENT_MESSAGE(message_id=15578*)
+  6: 0x087C [0x1D] PRINT_EVENT_MESSAGE(message_id=15664*)
     → "Bah! What exactly am I supposed to do with this pile of nonsense?"
   7: 0x087F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0880 [0x1D] PRINT_EVENT_MESSAGE(message_id=15579*)
+  8: 0x0880 [0x1D] PRINT_EVENT_MESSAGE(message_id=15665*)
     → "But lest you think otherwise, it is the parchment to blame. Some strange energy prevents it from being properly read."
   9: 0x0883 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0884 [0x48] [System] [15580*]:
+ 10: 0x0884 [0x48] [System] [15666*]:
     → "You cannot read this cipher due to an event occurring in Rhapsodies of Vana'diel."
  11: 0x0887 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x12)
  12: 0x088E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1611,7 +1611,7 @@ SUBROUTINE_07D6:
   5: 0x08A7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x08A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x05)
   7: 0x08AF [0x1C] WAIT(20* ticks)
-  8: 0x08B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15581*)
+  8: 0x08B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15667*)
     → "Even I cannot tell who this cipher is supposed to call. Let me get out my reading glasses and take a gander, hmm?"
   9: 0x08B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x08B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x06)
@@ -1632,12 +1632,12 @@ SUBROUTINE_07D6:
  25: 0x0930 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x9C)
  26: 0x0937 [0x1C] WAIT(30* ticks)
  27: 0x093A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x07)
- 28: 0x0941 [0x1D] PRINT_EVENT_MESSAGE(message_id=15582*)
+ 28: 0x0941 [0x1D] PRINT_EVENT_MESSAGE(message_id=15668*)
     → "Oho! A strange apparition, you say?"
  29: 0x0944 [0x1C] WAIT(30* ticks)
  30: 0x0947 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0948 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x08)
- 32: 0x094F [0x1D] PRINT_EVENT_MESSAGE(message_id=15583*)
+ 32: 0x094F [0x1D] PRINT_EVENT_MESSAGE(message_id=15669*)
     → "Glad I could help you reach even greater heights. May you enjoy many bright years with your new companion."
  33: 0x0952 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0953 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1694,29 +1694,29 @@ SUBROUTINE_07D6:
   5: 0x09BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x09BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x09BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x11)
-  8: 0x09C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=15591*)
+  8: 0x09C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=15677*)
     → "Oh ho! Is that $3 you have there mayhap?"
   9: 0x09C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x09C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x12)
  11: 0x09D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x13)
- 12: 0x09D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15592*)
+ 12: 0x09D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15678*)
     → "Doctor Monberaux is a doctor of much renown throughout Jeuno. I have been meaning to have him take a look at my creaky old back."
  13: 0x09DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x09DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x14)
  15: 0x09E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x05)
- 16: 0x09E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15593*)
+ 16: 0x09E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15679*)
     → "By the by, when we spoke with him about helping us with our Trust magic, he asked if his friend could join too."
  17: 0x09EC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=15594*)
+ 18: 0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=15680*)
     → "It seems his friend Wolf-something is quite popular with ladies of a certain age such as Ilumida. He received quite a glowing recommendation."
  19: 0x09F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x09F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x06)
  21: 0x09F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x07)
- 22: 0x09FF [0x1D] PRINT_EVENT_MESSAGE(message_id=15595*)
+ 22: 0x09FF [0x1D] PRINT_EVENT_MESSAGE(message_id=15681*)
     → "Unfortunately, things ended up being a bit complicated. No, it was not like anybody was jealous of him or anything."
  23: 0x0A02 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0A03 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x08)
- 25: 0x0A0A [0x1D] PRINT_EVENT_MESSAGE(message_id=15596*)
+ 25: 0x0A0A [0x1D] PRINT_EVENT_MESSAGE(message_id=15682*)
     → "Now, where was I... Oh yes, we were talking about Doctor Monberaux. Close your eyes, and let the powers of trust, friendship, and [brotherly/sisterly] love fill every ilm of your body."
  26: 0x0A0D [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0A0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1727,12 +1727,12 @@ SUBROUTINE_07D6:
  32: 0x0A47 [0x1C] WAIT(300* ticks)
  33: 0x0A4A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  34: 0x0A5B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x11)
- 35: 0x0A62 [0x1D] PRINT_EVENT_MESSAGE(message_id=15597*)
+ 35: 0x0A62 [0x1D] PRINT_EVENT_MESSAGE(message_id=15683*)
     → "A marvelous spectacle, if I do say so myself!"
  36: 0x0A65 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0A66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x12)
  38: 0x0A6D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x13)
- 39: 0x0A74 [0x1D] PRINT_EVENT_MESSAGE(message_id=15598*)
+ 39: 0x0A74 [0x1D] PRINT_EVENT_MESSAGE(message_id=15684*)
     → "Now you owe me not one, but two! Tohoho, how great it is to have the upper hand!"
  40: 0x0A77 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0A78 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -1891,56 +1891,56 @@ SUBROUTINE_07D6:
   3: 0x0AA1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0AA2 [0x03] Work_Zone[1] = 1*
   5: 0x0AA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x01)
-  6: 0x0AAE [0x1D] PRINT_EVENT_MESSAGE(message_id=15531*)
+  6: 0x0AAE [0x1D] PRINT_EVENT_MESSAGE(message_id=15617*)
     → "I, Gondebaud, am an esteemed member of the storied Jeuno Institute of Magical Studies."
   7: 0x0AB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0AB2 [0x03] Work_Zone[4] = 1*
-  9: 0x0AB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15533*)
+  9: 0x0AB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15619*)
     → "The leading council has bid me come to this fair land of San d'Oria with a most sacred mission."
  10: 0x0ABA [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0ABB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x02)
  12: 0x0AC2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x11)
- 13: 0x0AC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15589*)
+ 13: 0x0AC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15675*)
     → "You know about this all-important Trust initiative already? Rumors truly do spread like wildfire on a dry summer day."
  14: 0x0ACC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0ACD [0x1D] PRINT_EVENT_MESSAGE(message_id=15590*)
+ 15: 0x0ACD [0x1D] PRINT_EVENT_MESSAGE(message_id=15676*)
     → "Whether my compatriots in Bastok or Windurst informed you is of little consequence. What matters most is that you are here--and wish to engage in the trials we San d'Orians can offer."
  16: 0x0AD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0AD1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x12)
  18: 0x0AD8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x13)
- 19: 0x0ADF [0x24] CREATE_DIALOG(message_id=15537*, default_option=0*, option_flags=0*)
+ 19: 0x0ADF [0x24] CREATE_DIALOG(message_id=15623*, default_option=0*, option_flags=0*)
     → "Participate in the experiment? [I'd love to./I'm not sure it's for me.]"
  20: 0x0AE6 [0x25] WAIT_DIALOG_SELECT()
  21: 0x0AE7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B5A
  22: 0x0AEF [0x42] SET_CLI_EVENT_CANCEL_DATA()
  23: 0x0AF0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x01)
- 24: 0x0AF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15539*)
+ 24: 0x0AF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15625*)
     → "How fortuitous! I swear by every gray hair on this head that you will not regret it! Your first task is to head to the city gates in Northern San d'Oria."
  25: 0x0AFA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0AFB [0x1D] PRINT_EVENT_MESSAGE(message_id=15540*)
+ 26: 0x0AFB [0x1D] PRINT_EVENT_MESSAGE(message_id=15626*)
     → "There you will find someone engaged in the running of "Ballista," a type of mock skirmish. Some call him by the moniker of "the grand hero of San d'Oria.""
  27: 0x0AFE [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0AFF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x02)
  29: 0x0B06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x15)
- 30: 0x0B0D [0x1D] PRINT_EVENT_MESSAGE(message_id=15541*)
+ 30: 0x0B0D [0x1D] PRINT_EVENT_MESSAGE(message_id=15627*)
     → "As you have already surmised, experimental magic may have unknown effects on the world, so he is very careful to ensure the safety of everyone involved."
  31: 0x0B10 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0B11 [0x1D] PRINT_EVENT_MESSAGE(message_id=15542*)
+ 32: 0x0B11 [0x1D] PRINT_EVENT_MESSAGE(message_id=15628*)
     → "In fact, he is so dedicated to this goal that he himself stepped up as the nation's first participant in the program."
  33: 0x0B14 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0B15 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x16)
  35: 0x0B1C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x17)
  36: 0x0B23 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x18)
  37: 0x0B2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x09)
- 38: 0x0B31 [0x1D] PRINT_EVENT_MESSAGE(message_id=15548*)
+ 38: 0x0B31 [0x1D] PRINT_EVENT_MESSAGE(message_id=15634*)
     → "Take this letter of introduction with you and head to Ranperre Gate in Northern San d'Oria."
  39: 0x0B34 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=15549*)
+ 40: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=15635*)
     → "To get to Northern San d'Oria, you must first head west of here, then north toward Victory Square."
  41: 0x0B38 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0B39 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x0A)
  43: 0x0B40 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x0F)
- 44: 0x0B47 [0x1D] PRINT_EVENT_MESSAGE(message_id=15550*)
+ 44: 0x0B47 [0x1D] PRINT_EVENT_MESSAGE(message_id=15636*)
     → "After reaching Northern San d'Oria, you are to make for Ranperre Gate. Once there, seek out Excenmille--and pray do not affront him in any fashion. The words of a hero such as he carry unmatched weight in this land."
  45: 0x0B4A [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0B4B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x10)
@@ -1948,7 +1948,7 @@ SUBROUTINE_07D6:
  48: 0x0B57 [0x01] GOTO 0x0B7C
  49: 0x0B5A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0B7C
  50: 0x0B62 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x0F)
- 51: 0x0B69 [0x1D] PRINT_EVENT_MESSAGE(message_id=15538*)
+ 51: 0x0B69 [0x1D] PRINT_EVENT_MESSAGE(message_id=15624*)
     → "You leave my jaw so agape that I fear my dentures are starting to slip!"
  52: 0x0B6C [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0B6D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gondebaud (ID: 17719985/0x010E62B1), tag_num=0x10)

@@ -32,15 +32,15 @@
 |       3 | 0x1DF1      |        7665 |
 |       4 | 0x00C9      |         201 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x36FA      |       14074 |
-|       7 | 0x36FB      |       14075 |
+|       6 | 0x3750      |       14160 |
+|       7 | 0x3751      |       14161 |
 |       8 | 0x0DD5      |        3541 |
 |       9 | 0x0DD6      |        3542 |
 |      10 | 0x0DD7      |        3543 |
-|      11 | 0x36FC      |       14076 |
-|      12 | 0x36FD      |       14077 |
-|      13 | 0x36FE      |       14078 |
-|      14 | 0x36FF      |       14079 |
+|      11 | 0x3752      |       14162 |
+|      12 | 0x3753      |       14163 |
+|      13 | 0x3754      |       14164 |
+|      14 | 0x3755      |       14165 |
 
 ## String References
 
@@ -48,12 +48,12 @@
 - **7664**: Yes, that is the secret ingredient! Ah, but it's not what you think--I don't eat this, as some seem to think.
 - **7665**: I keep it in a pocket close to my heart to remind myself of my own mortality. That is my secret. Hmm... Maybe you're still a little too young to understand.
 - **7666**: Hah! Yah! I'm still alive and kickin'!
-- **14074**: Hah! Yah! Can't ye see I'm... Wait a minute. I almost didn't recognize ye...
-- **14075**: Looks like someone's come a long way since our last meetin'. Why don't I give ye somethin' that might help in yer training?
-- **14076**: But first, I'm gonna need proof that ye're ready. $0, $1, and $2 should do the trick.
-- **14077**: Don't ye give me that face. It's trainin'--it ain't supposed to be easy!
-- **14078**: Bring me $0, $1, and $2 and I'll give ye somethin' that should serve ye well.
-- **14079**: Well, looks like someone's ready for [his/her] next challenge. As promised, here's somethin' for ya.
+- **14160**: Hah! Yah! Can't ye see I'm... Wait a minute. I almost didn't recognize ye...
+- **14161**: Looks like someone's come a long way since our last meetin'. Why don't I give ye somethin' that might help in yer training?
+- **14162**: But first, I'm gonna need proof that ye're ready. $0, $1, and $2 should do the trick.
+- **14163**: Don't ye give me that face. It's trainin'--it ain't supposed to be easy!
+- **14164**: Bring me $0, $1, and $2 and I'll give ye somethin' that should serve ye well.
+- **14165**: Well, looks like someone's ready for [his/her] next challenge. As promised, here's somethin' for ya.
 
 ## Events
 
@@ -215,19 +215,19 @@
 ```
   0: 0x003B [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x003C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=14074*)
+  2: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=14160*)
     → "Hah! Yah! Can't ye see I'm... Wait a minute. I almost didn't recognize ye..."
   3: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=14075*)
+  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=14161*)
     → "Looks like someone's come a long way since our last meetin'. Why don't I give ye somethin' that might help in yer training?"
   5: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0049 [0x03] Work_Zone[2] = 3541*
   7: 0x004E [0x03] Work_Zone[3] = 3542*
   8: 0x0053 [0x03] Work_Zone[4] = 3543*
-  9: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=14076*)
+  9: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=14162*)
     → "But first, I'm gonna need proof that ye're ready. $0, $1, and $2 should do the trick."
  10: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=14077*)
+ 11: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=14163*)
     → "Don't ye give me that face. It's trainin'--it ain't supposed to be easy!"
  12: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0060 [0x21] END_EVENT
@@ -258,10 +258,10 @@
   1: 0x0067 [0x03] Work_Zone[2] = 3541*
   2: 0x006C [0x03] Work_Zone[3] = 3542*
   3: 0x0071 [0x03] Work_Zone[4] = 3543*
-  4: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=14078*)
+  4: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=14164*)
     → "Bring me $0, $1, and $2 and I'll give ye somethin' that should serve ye well."
   5: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=14077*)
+  6: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=14163*)
     → "Don't ye give me that face. It's trainin'--it ain't supposed to be easy!"
   7: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x007E [0x21] END_EVENT
@@ -289,7 +289,7 @@
 ```
   0: 0x0080 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0081 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=14079*)
+  2: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=14165*)
     → "Well, looks like someone's ready for [his/her] next challenge. As promised, here's somethin' for ya."
   3: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x008A [0x21] END_EVENT

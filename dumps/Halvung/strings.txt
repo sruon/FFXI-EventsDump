@@ -7839,7 +7839,7 @@
  7835: You currently possess $0 [Imperial Standing credit/Imperial Standing credits]. Would you like to use them to purchase items?
  7836: You currently possess $0 [Imperial Standing accolade/Imperial Standing Accolades]. Would you like to use them to purchase items?
  7837: Which item do you wish to purchase? [Common items (All ranks)./1000-pt. items (Private 2nd Class)."000-pt. items (Private 1st Class)./4000-pt. items (Superior Private)./8000-pt. items (Lance Corporal)./16000-pt. items (Corporal)."4000-pt. items (Sergeant)."2000-pt. items (Sergeant Major)./40000-pt. items (Chief Sergeant)./48000-pt. items (Second Lieutenant)./56000-pt. items (First Lieutenant)./Cancel.]
- 7838: Which item do you wish to purchase? [Common items (All ranks)."000-pt. items (First Lieutenant.)/Escutcheon materials (All ranks)./Cancel.]
+ 7838: Which item do you wish to purchase? [Common items (All ranks)."000-pt. items (First Lieutenant.)/5000-pt. items (First Lieutenant.)/Escutcheon materials (All ranks)./Cancel.]
  7839: There are currently no items available for that rank.
  7840: Your Imperial Standing is too low to purchase the $3.
  7841: Are you sure you want to purchase the $3?
@@ -7863,7 +7863,7 @@
  7859: Which item do you wish to purchase? [$9./$10./$11./$12./Back.]
  7860: Which item do you wish to purchase? [$9./$10./$11./$12./$13./Back.]
  7861: Which item do you wish to purchase? [$9 ($20 credits)./$10 ($21 credits)./$11 ($22 credits)./$12 ($23 credits)./$13 ($24 credits)./$14 ($25 credits)./$15 ($26 credits)./$16 ($27 credits)./$17 ($28 credits)./Next page./Previous page./Back.]
- 7862: Which item do you wish to purchase? [$9 ($20 accolades)./$10 ($21 accolades)./$11 ($22 accolades)./$12 ($23 accolades)./$13 ($24 accolades)./Back.]
+ 7862: Which item do you wish to purchase? [$9 ($20 acc.)./$10 ($21 acc.)./$11 ($22 acc.)./$12 ($23 acc.)./$13 ($24 acc.)./$14 ($25 acc.)./Back.]
  7863: Which item do you wish to purchase? [$9 ($21 accolades)./$10 ($22 accolades)./$11 ($23 accolades)./$12 ($24 accolades)./$13 ($25 accolades)./$14 ($26 accolades)./$15 ($27 accolades)./$16 ($28 accolades)./$17 ($29 accolades)./$18 ($30 accolades)./$19 ($31 accolades)./$20 ($ accolades)./Back.]
  7864: Which item do you wish to purchase? [$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./Back.]
  7865: What do you wish to know about? [Nothing./Sanction./Imperial Standing./Besieged.]
@@ -8152,7 +8152,7 @@
  8148: It will cost $2 gil to teleport to $8. ($3 gil on hand)
  8149: All mog tablets have currently been found, so you may teleport to $8 at no charge.
  8150: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 8151: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 8151: Travel to $8? [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/One-time free Warp for the objective./Not just yet.]
  8152: You do not have enough tabs.
  8153: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
  8154: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.

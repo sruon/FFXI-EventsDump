@@ -853,7 +853,7 @@ SUBROUTINE_02D9:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0390:                                            32 04                2.
-03A0: 80 1F 00 30 80 31 80 32  80 1F 01 6F 1E 2D 32 03  ...0.1.2...o.-2.
+03A0: 80 1F 00 30 80 31 80 32  80 1F 01 6F 1E 35 32 03  ...0.1.2...o.52.
 03B0: 01 00                                             ..              
 ```
 
@@ -864,7 +864,7 @@ SUBROUTINE_02D9:
   1: 0x03A1 [0x1F] MOVE_ENTITY: EventEntity moves to X=-338.628*, Z=643.214*, Y=-32.006*
   2: 0x03A9 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x03AB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x03AC [0x1E] EventEntity looks at Najelith (ID: 16986669/0x0103322D) and starts talking
+  4: 0x03AC [0x1E] EventEntity looks at Najelith (ID: 16986677/0x01033235) and starts talking
   5: 0x03B1 [0x00] END_REQSTACK()
 ```
 
@@ -882,7 +882,7 @@ SUBROUTINE_02D9:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 03B0:       32 04 80 1F 00 33  80 34 80 35 80 1F 01 6F    2....3.4.5...o
-03C0: 1E 2D 32 03 01 00                                 .-2...          
+03C0: 1E 35 32 03 01 00                                 .52...          
 ```
 
 #### Opcodes
@@ -892,7 +892,7 @@ SUBROUTINE_02D9:
   1: 0x03B5 [0x1F] MOVE_ENTITY: EventEntity moves to X=-339.754*, Z=643.868*, Y=-32.266*
   2: 0x03BD [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x03BF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x03C0 [0x1E] EventEntity looks at Najelith (ID: 16986669/0x0103322D) and starts talking
+  4: 0x03C0 [0x1E] EventEntity looks at Najelith (ID: 16986677/0x01033235) and starts talking
   5: 0x03C5 [0x00] END_REQSTACK()
 ```
 
@@ -1310,14 +1310,14 @@ SUBROUTINE_02D9:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0540:                3B 8A 32  03 01 01 00 02 00 03 00       ;.2........
+0540:                3B 92 32  03 01 01 00 02 00 03 00       ;.2........
 0550: 31 00 01 00 02 00 03 00  4A 80 31 01 00           1.......J.1..   
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0545 [0x3B] GET_ENTITY_POSITION(entity=Clavauert (ID: 16986762/0x0103328A), x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
+  0: 0x0545 [0x3B] GET_ENTITY_POSITION(entity=Clavauert (ID: 16986770/0x01033292), x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
   1: 0x0550 [0x31] UPDATE_ENTITY_POSITION: Set EventEntity goal position to X=ExtData[1]->WorkLocal[1], Z=ExtData[1]->WorkLocal[2], Y=ExtData[1]->WorkLocal[3], Time=100*
   2: 0x055A [0x31] UPDATE_ENTITY_POSITION: Move EventEntity towards goal position
   3: 0x055C [0x00] END_REQSTACK()
@@ -1336,7 +1336,7 @@ SUBROUTINE_02D9:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0550:                                         3B 8A 32               ;.2
+0550:                                         3B 92 32               ;.2
 0560: 03 01 01 00 02 00 03 00  32 04 80 31 00 01 00 02  ........2..1....
 0570: 00 03 00 4A 80 31 01 00                           ...J.1..        
 ```
@@ -1344,7 +1344,7 @@ SUBROUTINE_02D9:
 #### Opcodes
 
 ```
-  0: 0x055D [0x3B] GET_ENTITY_POSITION(entity=Clavauert (ID: 16986762/0x0103328A), x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
+  0: 0x055D [0x3B] GET_ENTITY_POSITION(entity=Clavauert (ID: 16986770/0x01033292), x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
   1: 0x0568 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   2: 0x056B [0x31] UPDATE_ENTITY_POSITION: Set EventEntity goal position to X=ExtData[1]->WorkLocal[1], Z=ExtData[1]->WorkLocal[2], Y=ExtData[1]->WorkLocal[3], Time=100*
   3: 0x0575 [0x31] UPDATE_ENTITY_POSITION: Move EventEntity towards goal position
@@ -1606,100 +1606,100 @@ SUBROUTINE_07BC:
 07C0:                                   42 45 09 80 F8             BE...
 07D0: FF FF 7F F8 FF FF 7F 66  64 6F 31 03 80 55 09 80  .......fdo1..U..
 07E0: F8 FF FF 7F F8 FF FF 7F  66 64 6F 31 46 01 38 5C  ........fdo1F.8\
-07F0: 80 37 5D 80 5E 80 5F 80  60 80 27 10 23 32 03 01  .7].^._.`.'.#2..
-0800: 02 92 01 21 32 03 01 92  01 22 32 03 01 92 01 23  ...!2...."2....#
-0810: 32 03 01 92 01 24 32 03  01 4E 00 22 32 03 01 2F  2....$2..N."2../
-0820: 00 21 32 03 01 2F 00 22  32 03 01 2F 00 23 32 03  .!2../."2../.#2.
-0830: 01 2F 00 24 32 03 01 80  21 32 03 01 80 22 32 03  ./.$2...!2..."2.
-0840: 01 80 23 32 03 01 80 24  32 03 01 80 2A 32 03 01  ..#2...$2...*2..
-0850: 94 01 22 32 03 01 94 01  21 32 03 01 94 01 F0 FF  .."2....!2......
+07F0: 80 37 5D 80 5E 80 5F 80  60 80 27 10 2B 32 03 01  .7].^._.`.'.+2..
+0800: 02 92 01 29 32 03 01 92  01 2A 32 03 01 92 01 2B  ...)2....*2....+
+0810: 32 03 01 92 01 2C 32 03  01 4E 00 2A 32 03 01 2F  2....,2..N.*2../
+0820: 00 29 32 03 01 2F 00 2A  32 03 01 2F 00 2B 32 03  .)2../.*2../.+2.
+0830: 01 2F 00 2C 32 03 01 80  29 32 03 01 80 2A 32 03  ./.,2...)2...*2.
+0840: 01 80 2B 32 03 01 80 2C  32 03 01 80 32 32 03 01  ..+2...,2...22..
+0850: 94 01 2A 32 03 01 94 01  29 32 03 01 94 01 F0 FF  ..*2....)2......
 0860: FF 7F 03 02 10 61 80 03  03 10 0B 7F 1C 62 80 45  .....a.......b.E
 0870: 63 80 F0 FF FF 7F F0 FF  FF 7F 7A 30 30 30 03 80  c.........z000..
 0880: 45 09 80 F8 FF FF 7F F8  FF FF 7F 66 64 69 31 03  E..........fdi1.
-0890: 80 1C 0A 80 48 64 80 1C  65 80 2B 22 32 03 01 66  ....Hd..e.+"2..f
+0890: 80 1C 0A 80 48 64 80 1C  65 80 2B 2A 32 03 01 66  ....Hd..e.+*2..f
 08A0: 80 23 1C 0A 80 52 63 80  F0 FF FF 7F F0 FF FF 7F  .#...Rc.........
 08B0: 7A 30 30 30 45 63 80 F0  FF FF 7F F0 FF FF 7F 7A  z000Ec.........z
-08C0: 30 30 31 03 80 1C 0A 80  4A F0 FF FF 7F 22 32 03  001.....J...."2.
-08D0: 01 2B 22 32 03 01 67 80  23 5C 00 68 80 5C 01 68  .+"2..g.#\.h.\.h
-08E0: 80 9A 27 10 22 32 03 01  02 1C 62 80 2B 22 32 03  ..'."2....b.+"2.
+08C0: 30 30 31 03 80 1C 0A 80  4A F0 FF FF 7F 2A 32 03  001.....J....*2.
+08D0: 01 2B 2A 32 03 01 67 80  23 5C 00 68 80 5C 01 68  .+*2..g.#\.h.\.h
+08E0: 80 9A 27 10 2A 32 03 01  02 1C 62 80 2B 2A 32 03  ..'.*2....b.+*2.
 08F0: 01 69 80 23 1C 62 80 52  63 80 F0 FF FF 7F F0 FF  .i.#.b.Rc.......
 0900: FF 7F 7A 30 30 31 45 63  80 F0 FF FF 7F F0 FF FF  ..z001Ec........
-0910: 7F 7A 30 30 32 03 80 1C  6A 80 2B 22 32 03 01 6B  .z002...j.+"2..k
-0920: 80 23 6E 22 32 03 01 6C  80 99 22 32 03 01 2B 22  .#n"2..l.."2..+"
+0910: 7F 7A 30 30 32 03 80 1C  6A 80 2B 2A 32 03 01 6B  .z002...j.+*2..k
+0920: 80 23 6E 2A 32 03 01 6C  80 99 2A 32 03 01 2B 2A  .#n*2..l..*2..+*
 0930: 32 03 01 6D 80 23 1C 0A  80 52 63 80 F0 FF FF 7F  2..m.#...Rc.....
 0940: F0 FF FF 7F 7A 30 30 32  45 63 80 F0 FF FF 7F F0  ....z002Ec......
-0950: FF FF 7F 7A 30 30 33 03  80 1C 62 80 2B 22 32 03  ...z003...b.+"2.
-0960: 01 6E 80 23 4E 00 21 32  03 01 24 6F 80 03 80 03  .n.#N.!2..$o....
+0950: FF FF 7F 7A 30 30 33 03  80 1C 62 80 2B 2A 32 03  ...z003...b.+*2.
+0960: 01 6E 80 23 4E 00 29 32  03 01 24 6F 80 03 80 03  .n.#N.)2..$o....
 0970: 80 25 02 00 10 03 80 00  B9 09 52 63 80 F0 FF FF  .%........Rc....
 0980: 7F F0 FF FF 7F 7A 30 30  33 45 63 80 F0 FF FF 7F  .....z003Ec.....
-0990: F0 FF FF 7F 7A 30 30 34  03 80 2B 22 32 03 01 70  ....z004..+"2..p
-09A0: 80 23 6E 22 32 03 01 6C  80 99 22 32 03 01 2B 22  .#n"2..l.."2..+"
+0990: F0 FF FF 7F 7A 30 30 34  03 80 2B 2A 32 03 01 70  ....z004..+*2..p
+09A0: 80 23 6E 2A 32 03 01 6C  80 99 2A 32 03 01 2B 2A  .#n*2..l..*2..+*
 09B0: 32 03 01 71 80 23 01 00  0A 02 00 10 07 80 00 00  2..q.#..........
 09C0: 0A 52 63 80 F0 FF FF 7F  F0 FF FF 7F 7A 30 30 33  .Rc.........z003
 09D0: 45 63 80 F0 FF FF 7F F0  FF FF 7F 7A 30 30 34 03  Ec.........z004.
-09E0: 80 2B 22 32 03 01 72 80  23 6E 22 32 03 01 73 80  .+"2..r.#n"2..s.
-09F0: 99 22 32 03 01 2B 22 32  03 01 74 80 23 01 00 0A  ."2..+"2..t.#...
-0A00: 1C 14 80 2B 21 32 03 01  75 80 23 52 63 80 F0 FF  ...+!2..u.#Rc...
+09E0: 80 2B 2A 32 03 01 72 80  23 6E 2A 32 03 01 73 80  .+*2..r.#n*2..s.
+09F0: 99 2A 32 03 01 2B 2A 32  03 01 74 80 23 01 00 0A  .*2..+*2..t.#...
+0A00: 1C 14 80 2B 29 32 03 01  75 80 23 52 63 80 F0 FF  ...+)2..u.#Rc...
 0A10: FF 7F F0 FF FF 7F 7A 30  30 34 45 63 80 F0 FF FF  ......z004Ec....
-0A20: 7F F0 FF FF 7F 7A 30 30  35 03 80 79 00 21 32 03  .....z005..y.!2.
-0A30: 01 22 32 03 01 29 10 21  32 03 01 02 4A 21 32 03  ."2..).!2...J!2.
-0A40: 01 22 32 03 01 1C 0A 80  52 63 80 F0 FF FF 7F F0  ."2.....Rc......
+0A20: 7F F0 FF FF 7F 7A 30 30  35 03 80 79 00 29 32 03  .....z005..y.)2.
+0A30: 01 2A 32 03 01 29 10 29  32 03 01 02 4A 29 32 03  .*2..).)2...J)2.
+0A40: 01 2A 32 03 01 1C 0A 80  52 63 80 F0 FF FF 7F F0  .*2.....Rc......
 0A50: FF FF 7F 7A 30 30 35 45  63 80 F0 FF FF 7F F0 FF  ...z005Ec.......
-0A60: FF 7F 7A 30 30 36 03 80  1C 0A 80 2B 22 32 03 01  ..z006.....+"2..
+0A60: FF 7F 7A 30 30 36 03 80  1C 0A 80 2B 2A 32 03 01  ..z006.....+*2..
 0A70: 76 80 23 52 63 80 F0 FF  FF 7F F0 FF FF 7F 7A 30  v.#Rc.........z0
 0A80: 30 36 45 63 80 F0 FF FF  7F F0 FF FF 7F 7A 30 30  06Ec.........z00
-0A90: 37 03 80 1C 0A 80 4A 22  32 03 01 21 32 03 01 2B  7.....J"2..!2..+
-0AA0: 21 32 03 01 77 80 23 66  78 80 21 32 03 01 21 32  !2..w.#fx.!2..!2
-0AB0: 03 01 73 74 64 30 2B 21  32 03 01 79 80 23 1C 6A  ..std0+!2..y.#.j
+0A90: 37 03 80 1C 0A 80 4A 2A  32 03 01 29 32 03 01 2B  7.....J*2..)2..+
+0AA0: 29 32 03 01 77 80 23 66  78 80 29 32 03 01 29 32  )2..w.#fx.)2..)2
+0AB0: 03 01 73 74 64 30 2B 29  32 03 01 79 80 23 1C 6A  ..std0+)2..y.#.j
 0AC0: 80 52 63 80 F0 FF FF 7F  F0 FF FF 7F 7A 30 30 37  .Rc.........z007
 0AD0: 45 63 80 F0 FF FF 7F F0  FF FF 7F 7A 30 30 38 03  Ec.........z008.
-0AE0: 80 1C 7A 80 2B 22 32 03  01 7B 80 23 27 10 22 32  ..z.+"2..{.#'."2
-0AF0: 03 01 03 1C 0A 80 2B 22  32 03 01 7C 80 23 1C 0A  ......+"2..|.#..
-0B00: 80 2B 22 32 03 01 7D 80  23 1C 62 80 52 63 80 F0  .+"2..}.#.b.Rc..
+0AE0: 80 1C 7A 80 2B 2A 32 03  01 7B 80 23 27 10 2A 32  ..z.+*2..{.#'.*2
+0AF0: 03 01 03 1C 0A 80 2B 2A  32 03 01 7C 80 23 1C 0A  ......+*2..|.#..
+0B00: 80 2B 2A 32 03 01 7D 80  23 1C 62 80 52 63 80 F0  .+*2..}.#.b.Rc..
 0B10: FF FF 7F F0 FF FF 7F 7A  30 30 38 45 63 80 F0 FF  .......z008Ec...
-0B20: FF 7F F0 FF FF 7F 7A 30  30 39 03 80 66 78 80 21  ......z009..fx.!
-0B30: 32 03 01 21 32 03 01 73  74 64 31 1C 62 80 66 5C  2..!2..std1.b.f\
-0B40: 80 22 32 03 01 22 32 03  01 74 6C 6B 30 2B 22 32  ."2.."2..tlk0+"2
-0B50: 03 01 7E 80 23 1C 62 80  2B 22 32 03 01 7F 80 23  ..~.#.b.+"2....#
-0B60: 66 5C 80 22 32 03 01 22  32 03 01 74 6C 6B 31 1C  f\."2.."2..tlk1.
-0B70: 6A 80 2B 22 32 03 01 80  80 23 1C 62 80 52 63 80  j.+"2....#.b.Rc.
+0B20: FF 7F F0 FF FF 7F 7A 30  30 39 03 80 66 78 80 29  ......z009..fx.)
+0B30: 32 03 01 29 32 03 01 73  74 64 31 1C 62 80 66 5C  2..)2..std1.b.f\
+0B40: 80 2A 32 03 01 2A 32 03  01 74 6C 6B 30 2B 2A 32  .*2..*2..tlk0+*2
+0B50: 03 01 7E 80 23 1C 62 80  2B 2A 32 03 01 7F 80 23  ..~.#.b.+*2....#
+0B60: 66 5C 80 2A 32 03 01 2A  32 03 01 74 6C 6B 31 1C  f\.*2..*2..tlk1.
+0B70: 6A 80 2B 2A 32 03 01 80  80 23 1C 62 80 52 63 80  j.+*2....#.b.Rc.
 0B80: F0 FF FF 7F F0 FF FF 7F  7A 30 30 39 45 63 80 F0  ........z009Ec..
 0B90: FF FF 7F F0 FF FF 7F 7A  30 34 34 03 80 1C 0A 80  .......z044.....
-0BA0: 6E 22 32 03 01 03 80 99  22 32 03 01 2B 22 32 03  n"2....."2..+"2.
+0BA0: 6E 2A 32 03 01 03 80 99  2A 32 03 01 2B 2A 32 03  n*2.....*2..+*2.
 0BB0: 01 81 80 23 1C 62 80 52  63 80 F0 FF FF 7F F0 FF  ...#.b.Rc.......
 0BC0: FF 7F 7A 30 34 34 45 63  80 F0 FF FF 7F F0 FF FF  ..z044Ec........
-0BD0: 7F 7A 30 31 30 03 80 1C  0A 80 2B 21 32 03 01 82  .z010.....+!2...
-0BE0: 80 23 1C 6A 80 2B 22 32  03 01 83 80 23 1C 62 80  .#.j.+"2....#.b.
+0BD0: 7F 7A 30 31 30 03 80 1C  0A 80 2B 29 32 03 01 82  .z010.....+)2...
+0BE0: 80 23 1C 6A 80 2B 2A 32  03 01 83 80 23 1C 62 80  .#.j.+*2....#.b.
 0BF0: 52 63 80 F0 FF FF 7F F0  FF FF 7F 7A 30 31 30 45  Rc.........z010E
 0C00: 63 80 F0 FF FF 7F F0 FF  FF 7F 7A 30 31 31 03 80  c.........z011..
-0C10: 1C 84 80 2B 21 32 03 01  85 80 23 1C 0A 80 52 63  ...+!2....#...Rc
+0C10: 1C 84 80 2B 29 32 03 01  85 80 23 1C 0A 80 52 63  ...+)2....#...Rc
 0C20: 80 F0 FF FF 7F F0 FF FF  7F 7A 30 31 31 45 63 80  .........z011Ec.
-0C30: F0 FF FF 7F F0 FF FF 7F  7A 30 31 32 03 80 6E 22  ........z012..n"
-0C40: 32 03 01 53 80 99 22 32  03 01 2B 22 32 03 01 86  2..S.."2..+"2...
+0C30: F0 FF FF 7F F0 FF FF 7F  7A 30 31 32 03 80 6E 2A  ........z012..n*
+0C40: 32 03 01 53 80 99 2A 32  03 01 2B 2A 32 03 01 86  2..S..*2..+*2...
 0C50: 80 23 1C 62 80 52 63 80  F0 FF FF 7F F0 FF FF 7F  .#.b.Rc.........
 0C60: 7A 30 31 32 45 63 80 F0  FF FF 7F F0 FF FF 7F 7A  z012Ec.........z
 0C70: 30 31 33 03 80 1C 84 80  52 63 80 F0 FF FF 7F F0  013.....Rc......
 0C80: FF FF 7F 7A 30 31 33 45  63 80 F0 FF FF 7F F0 FF  ...z013Ec.......
-0C90: FF 7F 7A 30 34 33 03 80  1C 6A 80 6E 22 32 03 01  ..z043...j.n"2..
-0CA0: 87 80 99 22 32 03 01 2B  21 32 03 01 88 80 23 1C  ..."2..+!2....#.
+0C90: FF 7F 7A 30 34 33 03 80  1C 6A 80 6E 2A 32 03 01  ..z043...j.n*2..
+0CA0: 87 80 99 2A 32 03 01 2B  29 32 03 01 88 80 23 1C  ...*2..+)2....#.
 0CB0: 0A 80 52 63 80 F0 FF FF  7F F0 FF FF 7F 7A 30 34  ..Rc.........z04
 0CC0: 33 45 63 80 F0 FF FF 7F  F0 FF FF 7F 7A 30 34 35  3Ec.........z045
-0CD0: 03 80 7B 21 32 03 01 1C  62 80 2B 22 32 03 01 89  ..{!2...b.+"2...
+0CD0: 03 80 7B 29 32 03 01 1C  62 80 2B 2A 32 03 01 89  ..{)2...b.+*2...
 0CE0: 80 23 1C 62 80 52 63 80  F0 FF FF 7F F0 FF FF 7F  .#.b.Rc.........
 0CF0: 7A 30 34 35 45 63 80 F0  FF FF 7F F0 FF FF 7F 7A  z045Ec.........z
 0D00: 30 34 36 03 80 24 8A 80  03 80 03 80 25 02 00 10  046..$......%...
 0D10: 03 80 00 52 0D 52 63 80  F0 FF FF 7F F0 FF FF 7F  ...R.Rc.........
 0D20: 7A 30 34 36 45 63 80 F0  FF FF 7F F0 FF FF 7F 7A  z046Ec.........z
-0D30: 30 31 34 03 80 1C 6A 80  66 8B 80 22 32 03 01 22  014...j.f.."2.."
-0D40: 32 03 01 63 72 30 35 2B  22 32 03 01 8C 80 23 01  2..cr05+"2....#.
-0D50: 68 0D 02 00 10 07 80 00  68 0D 2B 21 32 03 01 8D  h.......h.+!2...
+0D30: 30 31 34 03 80 1C 6A 80  66 8B 80 2A 32 03 01 2A  014...j.f..*2..*
+0D40: 32 03 01 63 72 30 35 2B  2A 32 03 01 8C 80 23 01  2..cr05+*2....#.
+0D50: 68 0D 02 00 10 07 80 00  68 0D 2B 29 32 03 01 8D  h.......h.+)2...
 0D60: 80 23 01 05 0D 01 68 0D  29 10 F0 FF FF 7F 29 52  .#....h.).....)R
 0D70: 63 80 F0 FF FF 7F F0 FF  FF 7F 7A 30 31 34 4E 01  c.........z014N.
-0D80: F0 FF FF 7F 4E 00 23 32  03 01 4E 00 24 32 03 01  ....N.#2..N.$2..
+0D80: F0 FF FF 7F 4E 00 2B 32  03 01 4E 00 2C 32 03 01  ....N.+2..N.,2..
 0D90: 45 63 80 F0 FF FF 7F F0  FF FF 7F 7A 30 31 35 03  Ec.........z015.
-0DA0: 80 1C 62 80 27 10 24 32  03 01 02 27 10 23 32 03  ..b.'.$2...'.#2.
-0DB0: 01 03 1C 0A 80 2B 21 32  03 01 8E 80 23 66 78 80  .....+!2....#fx.
-0DC0: 21 32 03 01 21 32 03 01  73 74 64 30 2B 21 32 03  !2..!2..std0+!2.
+0DA0: 80 1C 62 80 27 10 2C 32  03 01 02 27 10 2B 32 03  ..b.'.,2...'.+2.
+0DB0: 01 03 1C 0A 80 2B 29 32  03 01 8E 80 23 66 78 80  .....+)2....#fx.
+0DC0: 29 32 03 01 29 32 03 01  73 74 64 30 2B 29 32 03  )2..)2..std0+)2.
 0DD0: 01 8F 80 1C 65 80 45 09  80 F8 FF FF 7F F8 FF FF  ....e.E.........
 0DE0: 7F 66 64 6F 31 03 80 55  09 80 F8 FF FF 7F F8 FF  .fdo1..U........
 0DF0: FF 7F 66 64 6F 31 1C 62  80 45 63 80 F0 FF FF 7F  ..fdo1.b.Ec.....
@@ -1718,23 +1718,23 @@ SUBROUTINE_07BC:
   3: 0x07EC [0x46] CAMERA_CONTROL: Disable user control
   4: 0x07EE [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
   5: 0x07F1 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-198.522*, z=86.342*, y=-8.298*, direction=105.8°*
-  6: 0x07FA [0x27] REQ_SET(priority=0x10, entity_id=Yazquhl (ID: 16986659/0x01033223), tag_num=0x02)
-  7: 0x0801 [0x92] Qultada (ID: 16986657/0x01033221)->Render.Flags3 ^= 0x01
-  8: 0x0807 [0x92] Imutira (ID: 16986658/0x01033222)->Render.Flags3 ^= 0x01
-  9: 0x080D [0x92] Yazquhl (ID: 16986659/0x01033223)->Render.Flags3 ^= 0x01
- 10: 0x0813 [0x92] Gowam (ID: 16986660/0x01033224)->Render.Flags3 ^= 0x01
- 11: 0x0819 [0x4E] SET_ENTITY_HIDE_FLAG: Show Imutira (ID: 16986658/0x01033222)
- 12: 0x081F [0x2F] Qultada (ID: 16986657/0x01033221)->Render.Flags0 &= ~0x80000 // Bit 19
- 13: 0x0825 [0x2F] Imutira (ID: 16986658/0x01033222)->Render.Flags0 &= ~0x80000 // Bit 19
- 14: 0x082B [0x2F] Yazquhl (ID: 16986659/0x01033223)->Render.Flags0 &= ~0x80000 // Bit 19
- 15: 0x0831 [0x2F] Gowam (ID: 16986660/0x01033224)->Render.Flags0 &= ~0x80000 // Bit 19
- 16: 0x0837 [0x80] LOAD_WAIT(entity=Qultada (ID: 16986657/0x01033221))
- 17: 0x083C [0x80] LOAD_WAIT(entity=Imutira (ID: 16986658/0x01033222))
- 18: 0x0841 [0x80] LOAD_WAIT(entity=Yazquhl (ID: 16986659/0x01033223))
- 19: 0x0846 [0x80] LOAD_WAIT(entity=Gowam (ID: 16986660/0x01033224))
- 20: 0x084B [0x80] LOAD_WAIT(entity=Leypoint (ID: 16986666/0x0103322A))
- 21: 0x0850 [0x94] Imutira (ID: 16986658/0x01033222)->Render.Flags3 ^= 0x01
- 22: 0x0856 [0x94] Qultada (ID: 16986657/0x01033221)->Render.Flags3 ^= 0x01
+  6: 0x07FA [0x27] REQ_SET(priority=0x10, entity_id=Yazquhl (ID: 16986667/0x0103322B), tag_num=0x02)
+  7: 0x0801 [0x92] Qultada (ID: 16986665/0x01033229)->Render.Flags3 ^= 0x01
+  8: 0x0807 [0x92] Imutira (ID: 16986666/0x0103322A)->Render.Flags3 ^= 0x01
+  9: 0x080D [0x92] Yazquhl (ID: 16986667/0x0103322B)->Render.Flags3 ^= 0x01
+ 10: 0x0813 [0x92] Gowam (ID: 16986668/0x0103322C)->Render.Flags3 ^= 0x01
+ 11: 0x0819 [0x4E] SET_ENTITY_HIDE_FLAG: Show Imutira (ID: 16986666/0x0103322A)
+ 12: 0x081F [0x2F] Qultada (ID: 16986665/0x01033229)->Render.Flags0 &= ~0x80000 // Bit 19
+ 13: 0x0825 [0x2F] Imutira (ID: 16986666/0x0103322A)->Render.Flags0 &= ~0x80000 // Bit 19
+ 14: 0x082B [0x2F] Yazquhl (ID: 16986667/0x0103322B)->Render.Flags0 &= ~0x80000 // Bit 19
+ 15: 0x0831 [0x2F] Gowam (ID: 16986668/0x0103322C)->Render.Flags0 &= ~0x80000 // Bit 19
+ 16: 0x0837 [0x80] LOAD_WAIT(entity=Qultada (ID: 16986665/0x01033229))
+ 17: 0x083C [0x80] LOAD_WAIT(entity=Imutira (ID: 16986666/0x0103322A))
+ 18: 0x0841 [0x80] LOAD_WAIT(entity=Yazquhl (ID: 16986667/0x0103322B))
+ 19: 0x0846 [0x80] LOAD_WAIT(entity=Gowam (ID: 16986668/0x0103322C))
+ 20: 0x084B [0x80] LOAD_WAIT(entity=Leypoint (ID: 16986674/0x01033232))
+ 21: 0x0850 [0x94] Imutira (ID: 16986666/0x0103322A)->Render.Flags3 ^= 0x01
+ 22: 0x0856 [0x94] Qultada (ID: 16986665/0x01033229)->Render.Flags3 ^= 0x01
  23: 0x085C [0x94] LocalPlayer->Render.Flags3 ^= 0x01
  24: 0x0862 [0x03] Work_Zone[2] = 2341*
  25: 0x0867 [0x03] Work_Zone[3] = (Entity->Render.Flags01 >> 25) & 1
@@ -1745,168 +1745,168 @@ SUBROUTINE_07BC:
  30: 0x0894 [0x48] [System] [7361*]:
     → "The $0 is gone!"
  31: 0x0897 [0x1C] WAIT(150* ticks)
- 32: 0x089A [0x2B] Imutira (ID: 16986658/0x01033222) [7362*]:
+ 32: 0x089A [0x2B] Imutira (ID: 16986666/0x0103322A) [7362*]:
     → "The $0 shows the ocean "as seen from the eyes of the seagull"... He used to love saying that..."
  33: 0x08A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x08A2 [0x1C] WAIT(60* ticks)
  35: 0x08A5 [0x52] END_LOAD_SCHEDULER: End scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=285*
  36: 0x08B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
  37: 0x08C5 [0x1C] WAIT(60* ticks)
- 38: 0x08C8 [0x4A] LocalPlayer looks at Imutira (ID: 16986658/0x01033222)
- 39: 0x08D1 [0x2B] Imutira (ID: 16986658/0x01033222) [7363*]:
+ 38: 0x08C8 [0x4A] LocalPlayer looks at Imutira (ID: 16986666/0x0103322A)
+ 39: 0x08D1 [0x2B] Imutira (ID: 16986666/0x0103322A) [7363*]:
     → "Long time no see... I knew we'd meet again."
  40: 0x08D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x08D9 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 172*
  42: 0x08DD [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 172*
  43: 0x08E1 [0x9A] WAIT_MUSIC_SERVER()
- 44: 0x08E2 [0x27] REQ_SET(priority=0x10, entity_id=Imutira (ID: 16986658/0x01033222), tag_num=0x02)
+ 44: 0x08E2 [0x27] REQ_SET(priority=0x10, entity_id=Imutira (ID: 16986666/0x0103322A), tag_num=0x02)
  45: 0x08E9 [0x1C] WAIT(30* ticks)
- 46: 0x08EC [0x2B] Imutira (ID: 16986658/0x01033222) [7364*]:
+ 46: 0x08EC [0x2B] Imutira (ID: 16986666/0x0103322A) [7364*]:
     → "Hm? You buried something here? Why, I have no idea what you're talking about..."
  47: 0x08F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x08F4 [0x1C] WAIT(30* ticks)
  49: 0x08F7 [0x52] END_LOAD_SCHEDULER: End scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=285*
  50: 0x0906 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
  51: 0x0917 [0x1C] WAIT(45* ticks)
- 52: 0x091A [0x2B] Imutira (ID: 16986658/0x01033222) [7365*]:
+ 52: 0x091A [0x2B] Imutira (ID: 16986666/0x0103322A) [7365*]:
     → "Oh, do you doubt me? How terrible...even though I was so nice to you earlier."
  53: 0x0921 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0922 [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 32*
- 55: 0x0929 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
- 56: 0x092E [0x2B] Imutira (ID: 16986658/0x01033222) [7366*]:
+ 54: 0x0922 [0x6E] Imutira (ID: 16986666/0x0103322A) uses emote 32*
+ 55: 0x0929 [0x99] Wait for Imutira (ID: 16986666/0x0103322A) animation to complete
+ 56: 0x092E [0x2B] Imutira (ID: 16986666/0x0103322A) [7366*]:
     → "So the Seagull Phratrie is searching for the $0, is it? Looks like they're getting desperate now, aren't they?"
  57: 0x0935 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0936 [0x1C] WAIT(60* ticks)
  59: 0x0939 [0x52] END_LOAD_SCHEDULER: End scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=285*
  60: 0x0948 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
  61: 0x0959 [0x1C] WAIT(30* ticks)
- 62: 0x095C [0x2B] Imutira (ID: 16986658/0x01033222) [7367*]:
+ 62: 0x095C [0x2B] Imutira (ID: 16986666/0x0103322A) [7367*]:
     → "Oh yes... Did you say hello to Qultada for me?"
  63: 0x0963 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x0964 [0x4E] SET_ENTITY_HIDE_FLAG: Show Qultada (ID: 16986657/0x01033221)
+ 64: 0x0964 [0x4E] SET_ENTITY_HIDE_FLAG: Show Qultada (ID: 16986665/0x01033229)
  65: 0x096A [0x24] CREATE_DIALOG(message_id=7368*, default_option=0*, option_flags=0*)
     → "Did you? [Yes, I told him./How should I remember?]"
  66: 0x0971 [0x25] WAIT_DIALOG_SELECT()
  67: 0x0972 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09B9
  68: 0x097A [0x52] END_LOAD_SCHEDULER: End scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=285*
  69: 0x0989 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
- 70: 0x099A [0x2B] Imutira (ID: 16986658/0x01033222) [7369*]:
+ 70: 0x099A [0x2B] Imutira (ID: 16986666/0x0103322A) [7369*]:
     → "That's odd... I wonder why he hasn't shown his face yet, then..."
  71: 0x09A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x09A2 [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 32*
- 73: 0x09A9 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
- 74: 0x09AE [0x2B] Imutira (ID: 16986658/0x01033222) [7370*]:
+ 72: 0x09A2 [0x6E] Imutira (ID: 16986666/0x0103322A) uses emote 32*
+ 73: 0x09A9 [0x99] Wait for Imutira (ID: 16986666/0x0103322A) animation to complete
+ 74: 0x09AE [0x2B] Imutira (ID: 16986666/0x0103322A) [7370*]:
     → "I guess I should have made myself a bit...clearer."
  75: 0x09B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x09B6 [0x01] GOTO 0x0A00
  77: 0x09B9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0A00
  78: 0x09C1 [0x52] END_LOAD_SCHEDULER: End scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=285*
  79: 0x09D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
- 80: 0x09E1 [0x2B] Imutira (ID: 16986658/0x01033222) [7371*]:
+ 80: 0x09E1 [0x2B] Imutira (ID: 16986666/0x0103322A) [7371*]:
     → "I see you've got some nerve. You should watch your mouth, though..."
  81: 0x09E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x09E9 [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 25*
- 83: 0x09F0 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
- 84: 0x09F5 [0x2B] Imutira (ID: 16986658/0x01033222) [7372*]:
+ 82: 0x09E9 [0x6E] Imutira (ID: 16986666/0x0103322A) uses emote 25*
+ 83: 0x09F0 [0x99] Wait for Imutira (ID: 16986666/0x0103322A) animation to complete
+ 84: 0x09F5 [0x2B] Imutira (ID: 16986666/0x0103322A) [7372*]:
     → "Or you might end up swimming with the fishes in the Cyan Deep!"
  85: 0x09FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x09FD [0x01] GOTO 0x0A00
 
 SUBROUTINE_0A00:
  87: 0x0A00 [0x1C] WAIT(120* ticks)
- 88: 0x0A03 [0x2B] Qultada (ID: 16986657/0x01033221) [7373*]:
+ 88: 0x0A03 [0x2B] Qultada (ID: 16986665/0x01033229) [7373*]:
     → "You need to learn to stay out of Phratrie business."
  89: 0x0A0A [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0A0B [0x52] END_LOAD_SCHEDULER: End scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=285*
  91: 0x0A1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
- 92: 0x0A2B [0x79] Qultada (ID: 16986657/0x01033221) looks at Imutira (ID: 16986658/0x01033222) (Basic look)
- 93: 0x0A35 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Qultada (ID: 16986657/0x01033221), tag_num=0x02)
- 94: 0x0A3C [0x4A] Qultada (ID: 16986657/0x01033221) looks at Imutira (ID: 16986658/0x01033222)
+ 92: 0x0A2B [0x79] Qultada (ID: 16986665/0x01033229) looks at Imutira (ID: 16986666/0x0103322A) (Basic look)
+ 93: 0x0A35 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Qultada (ID: 16986665/0x01033229), tag_num=0x02)
+ 94: 0x0A3C [0x4A] Qultada (ID: 16986665/0x01033229) looks at Imutira (ID: 16986666/0x0103322A)
  95: 0x0A45 [0x1C] WAIT(60* ticks)
  96: 0x0A48 [0x52] END_LOAD_SCHEDULER: End scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=285*
  97: 0x0A57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
  98: 0x0A68 [0x1C] WAIT(60* ticks)
- 99: 0x0A6B [0x2B] Imutira (ID: 16986658/0x01033222) [7374*]:
+ 99: 0x0A6B [0x2B] Imutira (ID: 16986666/0x0103322A) [7374*]:
     → "Well, well, it looks like the star has arrived. Nice to see you, Qultada."
 100: 0x0A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0A73 [0x52] END_LOAD_SCHEDULER: End scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=285*
 102: 0x0A82 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 103: 0x0A93 [0x1C] WAIT(60* ticks)
-104: 0x0A96 [0x4A] Imutira (ID: 16986658/0x01033222) looks at Qultada (ID: 16986657/0x01033221)
-105: 0x0A9F [0x2B] Qultada (ID: 16986657/0x01033221) [7375*]:
+104: 0x0A96 [0x4A] Imutira (ID: 16986666/0x0103322A) looks at Qultada (ID: 16986665/0x01033229)
+105: 0x0A9F [0x2B] Qultada (ID: 16986665/0x01033229) [7375*]:
     → "I heard your name from <Player> and followed [him/her] here. I did not think you would stoop this far, though..."
 106: 0x0AA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x0AA7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std0" with entities [Qultada (ID: 16986657/0x01033221), Qultada (ID: 16986657/0x01033221)], work=66*
-108: 0x0AB6 [0x2B] Qultada (ID: 16986657/0x01033221) [7376*]:
+107: 0x0AA7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std0" with entities [Qultada (ID: 16986665/0x01033229), Qultada (ID: 16986665/0x01033229)], work=66*
+108: 0x0AB6 [0x2B] Qultada (ID: 16986665/0x01033229) [7376*]:
     → "Imutira, you promised never to show your face to the Seagull Phratrie again."
 109: 0x0ABD [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x0ABE [0x1C] WAIT(45* ticks)
 111: 0x0AC1 [0x52] END_LOAD_SCHEDULER: End scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=285*
 112: 0x0AD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 113: 0x0AE1 [0x1C] WAIT(15* ticks)
-114: 0x0AE4 [0x2B] Imutira (ID: 16986658/0x01033222) [7377*]:
+114: 0x0AE4 [0x2B] Imutira (ID: 16986666/0x0103322A) [7377*]:
     → "Could you be wishing you put an end to me back then? How simply terrible of you."
 115: 0x0AEB [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x0AEC [0x27] REQ_SET(priority=0x10, entity_id=Imutira (ID: 16986658/0x01033222), tag_num=0x03)
+116: 0x0AEC [0x27] REQ_SET(priority=0x10, entity_id=Imutira (ID: 16986666/0x0103322A), tag_num=0x03)
 117: 0x0AF3 [0x1C] WAIT(60* ticks)
-118: 0x0AF6 [0x2B] Imutira (ID: 16986658/0x01033222) [7378*]:
+118: 0x0AF6 [0x2B] Imutira (ID: 16986666/0x0103322A) [7378*]:
     → "Let's forget about the past, shall we? We never knew each other."
 119: 0x0AFD [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0AFE [0x1C] WAIT(60* ticks)
-121: 0x0B01 [0x2B] Imutira (ID: 16986658/0x01033222) [7379*]:
+121: 0x0B01 [0x2B] Imutira (ID: 16986666/0x0103322A) [7379*]:
     → "I just want to get along with everyone, you know."
 122: 0x0B08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0B09 [0x1C] WAIT(30* ticks)
 124: 0x0B0C [0x52] END_LOAD_SCHEDULER: End scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=285*
 125: 0x0B1B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
-126: 0x0B2C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std1" with entities [Qultada (ID: 16986657/0x01033221), Qultada (ID: 16986657/0x01033221)], work=66*
+126: 0x0B2C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std1" with entities [Qultada (ID: 16986665/0x01033229), Qultada (ID: 16986665/0x01033229)], work=66*
 127: 0x0B3B [0x1C] WAIT(30* ticks)
-128: 0x0B3E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Imutira (ID: 16986658/0x01033222), Imutira (ID: 16986658/0x01033222)], work=19*
-129: 0x0B4D [0x2B] Imutira (ID: 16986658/0x01033222) [7380*]:
+128: 0x0B3E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Imutira (ID: 16986666/0x0103322A), Imutira (ID: 16986666/0x0103322A)], work=19*
+129: 0x0B4D [0x2B] Imutira (ID: 16986666/0x0103322A) [7380*]:
     → "Also, Qultada... You need $0, don't you?"
 130: 0x0B54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0B55 [0x1C] WAIT(30* ticks)
-132: 0x0B58 [0x2B] Imutira (ID: 16986658/0x01033222) [7381*]:
+132: 0x0B58 [0x2B] Imutira (ID: 16986666/0x0103322A) [7381*]:
     → "I just happen to have one right here. What a coincidence!"
 133: 0x0B5F [0x23] WAIT_FOR_DIALOG_INTERACTION
-134: 0x0B60 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Imutira (ID: 16986658/0x01033222), Imutira (ID: 16986658/0x01033222)], work=19*
+134: 0x0B60 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Imutira (ID: 16986666/0x0103322A), Imutira (ID: 16986666/0x0103322A)], work=19*
 135: 0x0B6F [0x1C] WAIT(45* ticks)
-136: 0x0B72 [0x2B] Imutira (ID: 16986658/0x01033222) [7382*]:
+136: 0x0B72 [0x2B] Imutira (ID: 16986666/0x0103322A) [7382*]:
     → "And, being the kind person I am, I'm thinking of giving it to my friends, the corsairs."
 137: 0x0B79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0B7A [0x1C] WAIT(30* ticks)
 139: 0x0B7D [0x52] END_LOAD_SCHEDULER: End scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=285*
 140: 0x0B8C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z044" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 141: 0x0B9D [0x1C] WAIT(60* ticks)
-142: 0x0BA0 [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 0*
-143: 0x0BA7 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
-144: 0x0BAC [0x2B] Imutira (ID: 16986658/0x01033222) [7384*]:
+142: 0x0BA0 [0x6E] Imutira (ID: 16986666/0x0103322A) uses emote 0*
+143: 0x0BA7 [0x99] Wait for Imutira (ID: 16986666/0x0103322A) animation to complete
+144: 0x0BAC [0x2B] Imutira (ID: 16986666/0x0103322A) [7384*]:
     → "Of course, I require something of you first."
 145: 0x0BB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0BB4 [0x1C] WAIT(30* ticks)
 147: 0x0BB7 [0x52] END_LOAD_SCHEDULER: End scheduler "z044" with entities [LocalPlayer, LocalPlayer], work=285*
 148: 0x0BC6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z010" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 149: 0x0BD7 [0x1C] WAIT(60* ticks)
-150: 0x0BDA [0x2B] Qultada (ID: 16986657/0x01033221) [7385*]:
+150: 0x0BDA [0x2B] Qultada (ID: 16986665/0x01033229) [7385*]:
     → "I knew it."
 151: 0x0BE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x0BE2 [0x1C] WAIT(45* ticks)
-153: 0x0BE5 [0x2B] Imutira (ID: 16986658/0x01033222) [7386*]:
+153: 0x0BE5 [0x2B] Imutira (ID: 16986666/0x0103322A) [7386*]:
     → "Well then..."
 154: 0x0BEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0BED [0x1C] WAIT(30* ticks)
 156: 0x0BF0 [0x52] END_LOAD_SCHEDULER: End scheduler "z010" with entities [LocalPlayer, LocalPlayer], work=285*
 157: 0x0BFF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 158: 0x0C10 [0x1C] WAIT(90* ticks)
-159: 0x0C13 [0x2B] Qultada (ID: 16986657/0x01033221) [7387*]:
+159: 0x0C13 [0x2B] Qultada (ID: 16986665/0x01033229) [7387*]:
     → "What do you want?"
 160: 0x0C1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x0C1B [0x1C] WAIT(60* ticks)
 162: 0x0C1E [0x52] END_LOAD_SCHEDULER: End scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=285*
 163: 0x0C2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z012" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
-164: 0x0C3E [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 4*
-165: 0x0C45 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
-166: 0x0C4A [0x2B] Imutira (ID: 16986658/0x01033222) [7388*]:
+164: 0x0C3E [0x6E] Imutira (ID: 16986666/0x0103322A) uses emote 4*
+165: 0x0C45 [0x99] Wait for Imutira (ID: 16986666/0x0103322A) animation to complete
+166: 0x0C4A [0x2B] Imutira (ID: 16986666/0x0103322A) [7388*]:
     → "Oh no, I can't tell you in front of others... I'm far too shy."
 167: 0x0C51 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0C52 [0x1C] WAIT(30* ticks)
@@ -1916,17 +1916,17 @@ SUBROUTINE_0A00:
 172: 0x0C78 [0x52] END_LOAD_SCHEDULER: End scheduler "z013" with entities [LocalPlayer, LocalPlayer], work=285*
 173: 0x0C87 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z043" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 174: 0x0C98 [0x1C] WAIT(45* ticks)
-175: 0x0C9B [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 22*
-176: 0x0CA2 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
-177: 0x0CA7 [0x2B] Qultada (ID: 16986657/0x01033221) [7389*]:
+175: 0x0C9B [0x6E] Imutira (ID: 16986666/0x0103322A) uses emote 22*
+176: 0x0CA2 [0x99] Wait for Imutira (ID: 16986666/0x0103322A) animation to complete
+177: 0x0CA7 [0x2B] Qultada (ID: 16986665/0x01033229) [7389*]:
     → "<Player>, return to Zweeha and tell her I'm going out on a little date, so I will be gone for a time."
 178: 0x0CAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0CAF [0x1C] WAIT(60* ticks)
 180: 0x0CB2 [0x52] END_LOAD_SCHEDULER: End scheduler "z043" with entities [LocalPlayer, LocalPlayer], work=285*
 181: 0x0CC1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z045" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
-182: 0x0CD2 [0x7B] Qultada (ID: 16986657/0x01033221) stops talking
+182: 0x0CD2 [0x7B] Qultada (ID: 16986665/0x01033229) stops talking
 183: 0x0CD7 [0x1C] WAIT(30* ticks)
-184: 0x0CDA [0x2B] Imutira (ID: 16986658/0x01033222) [7390*]:
+184: 0x0CDA [0x2B] Imutira (ID: 16986666/0x0103322A) [7390*]:
     → "Heheheh, my apologies."
 185: 0x0CE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x0CE2 [0x1C] WAIT(30* ticks)
@@ -1941,13 +1941,13 @@ SUBROUTINE_0D05:
 192: 0x0D15 [0x52] END_LOAD_SCHEDULER: End scheduler "z046" with entities [LocalPlayer, LocalPlayer], work=285*
 193: 0x0D24 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z014" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 194: 0x0D35 [0x1C] WAIT(45* ticks)
-195: 0x0D38 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "cr05" with entities [Imutira (ID: 16986658/0x01033222), Imutira (ID: 16986658/0x01033222)], work=14*
-196: 0x0D47 [0x2B] Imutira (ID: 16986658/0x01033222) [7393*]:
+195: 0x0D38 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "cr05" with entities [Imutira (ID: 16986666/0x0103322A), Imutira (ID: 16986666/0x0103322A)], work=14*
+196: 0x0D47 [0x2B] Imutira (ID: 16986666/0x0103322A) [7393*]:
     → "That's right... Go home and spend some time with your moogle, child."
 197: 0x0D4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x0D4F [0x01] GOTO 0x0D68
 199: 0x0D52 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D68
-200: 0x0D5A [0x2B] Qultada (ID: 16986657/0x01033221) [7392*]:
+200: 0x0D5A [0x2B] Qultada (ID: 16986665/0x01033229) [7392*]:
     → "Go. Captain's orders!"
 201: 0x0D61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x0D62 [0x01] GOTO 0x0D05
@@ -1956,18 +1956,18 @@ SUBROUTINE_0D68:
 203: 0x0D68 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x29)
 204: 0x0D6F [0x52] END_LOAD_SCHEDULER: End scheduler "z014" with entities [LocalPlayer, LocalPlayer], work=285*
 205: 0x0D7E [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
-206: 0x0D84 [0x4E] SET_ENTITY_HIDE_FLAG: Show Yazquhl (ID: 16986659/0x01033223)
-207: 0x0D8A [0x4E] SET_ENTITY_HIDE_FLAG: Show Gowam (ID: 16986660/0x01033224)
+206: 0x0D84 [0x4E] SET_ENTITY_HIDE_FLAG: Show Yazquhl (ID: 16986667/0x0103322B)
+207: 0x0D8A [0x4E] SET_ENTITY_HIDE_FLAG: Show Gowam (ID: 16986668/0x0103322C)
 208: 0x0D90 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z015" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 209: 0x0DA1 [0x1C] WAIT(30* ticks)
-210: 0x0DA4 [0x27] REQ_SET(priority=0x10, entity_id=Gowam (ID: 16986660/0x01033224), tag_num=0x02)
-211: 0x0DAB [0x27] REQ_SET(priority=0x10, entity_id=Yazquhl (ID: 16986659/0x01033223), tag_num=0x03)
+210: 0x0DA4 [0x27] REQ_SET(priority=0x10, entity_id=Gowam (ID: 16986668/0x0103322C), tag_num=0x02)
+211: 0x0DAB [0x27] REQ_SET(priority=0x10, entity_id=Yazquhl (ID: 16986667/0x0103322B), tag_num=0x03)
 212: 0x0DB2 [0x1C] WAIT(60* ticks)
-213: 0x0DB5 [0x2B] Qultada (ID: 16986657/0x01033221) [7394*]:
+213: 0x0DB5 [0x2B] Qultada (ID: 16986665/0x01033229) [7394*]:
     → "Satisfied? Yes, I'm talking to you."
 214: 0x0DBC [0x23] WAIT_FOR_DIALOG_INTERACTION
-215: 0x0DBD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std0" with entities [Qultada (ID: 16986657/0x01033221), Qultada (ID: 16986657/0x01033221)], work=66*
-216: 0x0DCC [0x2B] Qultada (ID: 16986657/0x01033221) [7395*]:
+215: 0x0DBD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std0" with entities [Qultada (ID: 16986665/0x01033229), Qultada (ID: 16986665/0x01033229)], work=66*
+216: 0x0DCC [0x2B] Qultada (ID: 16986665/0x01033229) [7395*]:
     → "I knew I smelled a rat. You can't hide the stench of your dealings with the Immortals and the Imperial Army."
 217: 0x0DD3 [0x1C] WAIT(150* ticks)
 218: 0x0DD6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2084,7 +2084,7 @@ SUBROUTINE_0D68:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0E50:                                32 04 80 1F 00 97            2.....
-0E60: 80 98 80 99 80 1F 01 1E  7D 32 03 01 00           ........}2...   
+0E60: 80 98 80 99 80 1F 01 1E  85 32 03 01 00           .........2...   
 ```
 
 #### Opcodes
@@ -2093,7 +2093,7 @@ SUBROUTINE_0D68:
   0: 0x0E5A [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x0E5D [0x1F] MOVE_ENTITY: EventEntity moves to X=617.404*, Z=181.012*, Y=-17.000*
   2: 0x0E65 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0E67 [0x1E] EventEntity looks at Unnamed NPC (ID: 16986749/0x0103327D) and starts talking
+  3: 0x0E67 [0x1E] EventEntity looks at Unnamed NPC (ID: 16986757/0x01033285) and starts talking
   4: 0x0E6C [0x00] END_REQSTACK()
 ```
 
@@ -2137,7 +2137,7 @@ SUBROUTINE_0D68:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0E70:                                   32 04 80 1F 00             2....
-0E80: 9D 80 9E 80 9F 80 1F 01  1E 7E 32 03 01 00        .........~2...  
+0E80: 9D 80 9E 80 9F 80 1F 01  1E 86 32 03 01 00        ..........2...  
 ```
 
 #### Opcodes
@@ -2146,7 +2146,7 @@ SUBROUTINE_0D68:
   0: 0x0E7B [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x0E7E [0x1F] MOVE_ENTITY: EventEntity moves to X=176.363*, Z=282.120*, Y=-23.500*
   2: 0x0E86 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0E88 [0x1E] EventEntity looks at Unnamed NPC (ID: 16986750/0x0103327E) and starts talking
+  3: 0x0E88 [0x1E] EventEntity looks at Unnamed NPC (ID: 16986758/0x01033286) and starts talking
   4: 0x0E8D [0x00] END_REQSTACK()
 ```
 
@@ -2190,7 +2190,7 @@ SUBROUTINE_0D68:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0E90:                                      32 04 80 1F              2...
-0EA0: 00 A3 80 A4 80 A5 80 1F  01 1E 80 32 03 01 00     ...........2... 
+0EA0: 00 A3 80 A4 80 A5 80 1F  01 1E 88 32 03 01 00     ...........2... 
 ```
 
 #### Opcodes
@@ -2199,7 +2199,7 @@ SUBROUTINE_0D68:
   0: 0x0E9C [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x0E9F [0x1F] MOVE_ENTITY: EventEntity moves to X=157.474*, Z=292.435*, Y=-23.724*
   2: 0x0EA7 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0EA9 [0x1E] EventEntity looks at Unnamed NPC (ID: 16986752/0x01033280) and starts talking
+  3: 0x0EA9 [0x1E] EventEntity looks at Unnamed NPC (ID: 16986760/0x01033288) and starts talking
   4: 0x0EAE [0x00] END_REQSTACK()
 ```
 
@@ -2217,7 +2217,7 @@ SUBROUTINE_0D68:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0EA0:                                               32                 2
-0EB0: 04 80 1F 00 A6 80 A7 80  A8 80 1F 01 1E 1E 32 03  ..............2.
+0EB0: 04 80 1F 00 A6 80 A7 80  A8 80 1F 01 1E 26 32 03  .............&2.
 0EC0: 01 1C 62 80 00                                    ..b..           
 ```
 
@@ -2227,7 +2227,7 @@ SUBROUTINE_0D68:
   0: 0x0EAF [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x0EB2 [0x1F] MOVE_ENTITY: EventEntity moves to X=157.255*, Z=322.608*, Y=-23.999*
   2: 0x0EBA [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0EBC [0x1E] EventEntity looks at Foudeel (ID: 16986654/0x0103321E) and starts talking
+  3: 0x0EBC [0x1E] EventEntity looks at Foudeel (ID: 16986662/0x01033226) and starts talking
   4: 0x0EC1 [0x1C] WAIT(30* ticks)
   5: 0x0EC4 [0x00] END_REQSTACK()
 ```
@@ -2246,7 +2246,7 @@ SUBROUTINE_0D68:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0EC0:                1F 00 A9  80 AA 80 AB 80 1F 01 6F       ..........o
-0ED0: 4A F0 FF FF 7F 9E 32 03  01 6F 76 F0 FF FF 7F 00  J.....2..ov.....
+0ED0: 4A F0 FF FF 7F A6 32 03  01 6F 76 F0 FF FF 7F 00  J.....2..ov.....
 ```
 
 #### Opcodes
@@ -2255,7 +2255,7 @@ SUBROUTINE_0D68:
   0: 0x0EC5 [0x1F] MOVE_ENTITY: EventEntity moves to X=80.878*, Z=-132.670*, Y=-6.000*
   1: 0x0ECD [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   2: 0x0ECF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  3: 0x0ED0 [0x4A] LocalPlayer looks at Fari-Wari (ID: 16986782/0x0103329E)
+  3: 0x0ED0 [0x4A] LocalPlayer looks at Fari-Wari (ID: 16986790/0x010332A6)
   4: 0x0ED9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0EDA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x0EDF [0x00] END_REQSTACK()
@@ -2274,14 +2274,14 @@ SUBROUTINE_0D68:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0EE0: 1C 0A 80 4A F0 FF FF 7F  C5 32 03 01 00           ...J.....2...   
+0EE0: 1C 0A 80 4A F0 FF FF 7F  CD 32 03 01 00           ...J.....2...   
 ```
 
 #### Opcodes
 
 ```
   0: 0x0EE0 [0x1C] WAIT(60* ticks)
-  1: 0x0EE3 [0x4A] LocalPlayer looks at Shayadar (ID: 16986821/0x010332C5)
+  1: 0x0EE3 [0x4A] LocalPlayer looks at Shayadar (ID: 16986829/0x010332CD)
   2: 0x0EEC [0x00] END_REQSTACK()
 ```
 
@@ -2299,7 +2299,7 @@ SUBROUTINE_0D68:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0EE0:                                         1F 00 AC               ...
-0EF0: 80 AD 80 AB 80 1F 01 6F  4A F0 FF FF 7F 9E 32 03  .......oJ.....2.
+0EF0: 80 AD 80 AB 80 1F 01 6F  4A F0 FF FF 7F A6 32 03  .......oJ.....2.
 0F00: 01 6F 76 F0 FF FF 7F 00                           .ov.....        
 ```
 
@@ -2309,7 +2309,7 @@ SUBROUTINE_0D68:
   0: 0x0EED [0x1F] MOVE_ENTITY: EventEntity moves to X=81.291*, Z=-135.467*, Y=-6.000*
   1: 0x0EF5 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   2: 0x0EF7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  3: 0x0EF8 [0x4A] LocalPlayer looks at Fari-Wari (ID: 16986782/0x0103329E)
+  3: 0x0EF8 [0x4A] LocalPlayer looks at Fari-Wari (ID: 16986790/0x010332A6)
   4: 0x0F01 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0F02 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x0F07 [0x00] END_REQSTACK()
@@ -2329,7 +2329,7 @@ SUBROUTINE_0D68:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0F00:                          32 04 80 1F 00 A9 80 AA          2.......
-0F10: 80 AB 80 1F 01 6F 1E 9E  32 03 01 00              .....o..2...    
+0F10: 80 AB 80 1F 01 6F 1E A6  32 03 01 00              .....o..2...    
 ```
 
 #### Opcodes
@@ -2339,7 +2339,7 @@ SUBROUTINE_0D68:
   1: 0x0F0B [0x1F] MOVE_ENTITY: EventEntity moves to X=80.878*, Z=-132.670*, Y=-6.000*
   2: 0x0F13 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0F15 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x0F16 [0x1E] EventEntity looks at Fari-Wari (ID: 16986782/0x0103329E) and starts talking
+  4: 0x0F16 [0x1E] EventEntity looks at Fari-Wari (ID: 16986790/0x010332A6) and starts talking
   5: 0x0F1B [0x00] END_REQSTACK()
 ```
 
@@ -2357,7 +2357,7 @@ SUBROUTINE_0D68:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0F10:                                      32 04 80 1F              2...
-0F20: 00 AE 80 AF 80 B0 80 1F  01 6F 1E 9E 32 03 01 00  .........o..2...
+0F20: 00 AE 80 AF 80 B0 80 1F  01 6F 1E A6 32 03 01 00  .........o..2...
 ```
 
 #### Opcodes
@@ -2367,7 +2367,7 @@ SUBROUTINE_0D68:
   1: 0x0F1F [0x1F] MOVE_ENTITY: EventEntity moves to X=80.730*, Z=-135.200*, Y=-5.999*
   2: 0x0F27 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0F29 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x0F2A [0x1E] EventEntity looks at Fari-Wari (ID: 16986782/0x0103329E) and starts talking
+  4: 0x0F2A [0x1E] EventEntity looks at Fari-Wari (ID: 16986790/0x010332A6) and starts talking
   5: 0x0F2F [0x00] END_REQSTACK()
 ```
 

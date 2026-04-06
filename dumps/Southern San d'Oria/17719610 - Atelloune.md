@@ -69,7 +69,7 @@
 |      42 | 0x3486      |       13446 |
 |      43 | 0x00C9      |         201 |
 |      44 | 0x0000      |           0 |
-|      45 | 0x3CEF      |       15599 |
+|      45 | 0x3D45      |       15685 |
 
 ## Events
 
@@ -411,7 +411,7 @@
   1: 0x024F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0250 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Atelloune (ID: 17719610/0x010E613A) Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0255 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0264 [0x2B] Atelloune (ID: 17719610/0x010E613A) [15599*]:
+  4: 0x0264 [0x2B] Atelloune (ID: 17719610/0x010E613A) [15685*]:
     → "Never in my wildest dreams did I expect to find obscure crabs in someone's Mog Garden. I must make preparations for a survey this instant."
   5: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x026C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*

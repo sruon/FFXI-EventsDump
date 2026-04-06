@@ -15720,14 +15720,14 @@
 15716: I simply used a little magic to make some key improvements and recreate something from a legend I once heard in a faraway land!
 15717: Now then, let us begin the experiment!
 15718: Hey, just what do you think you are doing?
-15719: While you were dilly dallying about, the situation has changed! You need to receive $6 from Lady Syndella first!
+15719: While you were dillydallying about, the situation has changed! You need to receive $6 from Lady Syndella first!
 15720: Ah, there you are! I was expecting you much sooner. Hurry up and hand me the diamond already.
 15721: Hmm... Very well done. You have collected just the right amount of thoughts and feelings. Now, for just a touch of magic...
 15722: I-it's a staggering success! The thoughts have been imbued into the diamond!
 15723: Listen carefully. You simply need to use this diamond as a catalyst when invoking your Trust magic.
 15724: When you do, the thoughts sent to your alter ego when it manifests will be made even more powerful.
 15725: Hm? You wish to know how to use the diamond as a catalyst?
-15726: That... is something you need to figure out for yourself!
+15726: That...is something you need to figure out for yourself!
 15727: At any rate, I shall give you this gift for helping me. I feel that it should prove useful to you.
 15728: I am looking forward to the results of your research!
 15729: Ah, hello again! Hm? You still have yet to acquire $6? Please go and receive one from Lady Syndella at once!
@@ -15737,7 +15737,7 @@
 15733: Hello there. I feel you are not ready for what I have to teach. Come back once you have obtained $6.
 15734: Hm, let me see... Yes, I think you shall do nicely.
 15735: My name is Syndella. I am currently researching the art of Trust magic.
-15736: I suppose you could say that I serve as a sort of supervisor for Jamal and Marjorie.
+15736: I suppose you could say that I serve as a sort of supervisor for Jamal and Marjory.
 15737: They both bring a unique perspective to their research, so I find them to be quite stimulating.
 15738: Based on the results of Jamal's research, I started thinking of ways to further strengthen the alter egos that we summon.
 15739: I discovered that the way to make them more powerful is to strengthen the bond they share with the user when summoned.
@@ -15759,9 +15759,9 @@
 15755: You need to accumulate what are known as alter ego points with the bracelet.
 15756: These alter ego points can be acquired by using $0.
 15757: First, you accumulate the alter ego points and then apply them to the area you wish to strengthen, which serves to enhance the bracelet's magic.
-15758: To apply the alter ego points, go to the Main Menu and select Stats, followed by Alter ego points.
-15759: You can increase thei attibutess there, but only from your Mog House or Mog Garden.
-15760: Once you have applied the alter ego points, there are no takebacks. Be awae!
+15758: To apply the alter ego points, go to the Main Menu and select Status, followed by Alter Ego Points.
+15759: You can increase their attributes there, but only from your Mog House or Mog Garden.
+15760: Once you have applied the alter ego points, there are no takebacks. Be aware!
 15761: You are overwhelmed with a special magical force.
 15762: There. Now your bracelet will never come off!
 15763: Now then, I wish you the best of luck.
@@ -15777,7 +15777,7 @@
 15773: It will cost $2 gil to teleport to $8. ($3 gil on hand)
 15774: All mog tablets have currently been found, so you may teleport to $8 at no charge.
 15775: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
-15776: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+15776: Travel to $8? [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/One-time free Warp for the objective./Not just yet.]
 15777: You do not have enough tabs.
 15778: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
 15779: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.

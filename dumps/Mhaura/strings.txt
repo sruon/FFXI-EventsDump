@@ -8413,7 +8413,7 @@
  8409: The number of plaudits you have earned will be reset once a given round of Vana'Bout has concluded, so make sure you grab your goodies in that time period!
  8410: The currently available Vana'Bout Records of Eminence objectives can be viewed from the Vana'Bout section of the Records of Eminence objectives menu.
  8411: No special objectives are available at present. Stay tuned for the next event, kupo!
- 8412: Personal Rewards: ($6 pl.) [Limit: $3+ plaudits.@/Gold: $4+ plaudits.@/Silve: $5+ plaudits.@/Back.]
+ 8412: Personal Rewards: ($6 pl.) [Limit: $3+ plaudits.@/Gold: $4+ plaudits.@/Silver: $5+ plaudits.@/Back.]
  8413: The amount of [/exemplar points/experience points/job points] you earn from plaudits will change.
  8414: [Limit/Gold/Silver] rewards: [/($26unav.)/($26rcvd.)] [$10 deeds./$11 exemplar points./$12 EXP./$23 job points./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$3./$3./$3./Back.]
  8415: Receiving this reward will bring you over the cap. Any excess amount will be lost.

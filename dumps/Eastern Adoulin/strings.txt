@@ -13910,7 +13910,7 @@
 13906: It will cost $2 gil to teleport to $8. ($3 gil on hand)
 13907: All mog tablets have currently been found, so you may teleport to $8 at no charge.
 13908: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
-13909: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+13909: Travel to $8? [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/One-time free Warp for the objective./Not just yet.]
 13910: You do not have enough tabs.
 13911: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
 13912: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.

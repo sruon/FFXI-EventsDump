@@ -22,11 +22,11 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0007      |           7 |
-|       2 | 0x3BF8      |       15352 |
-|       3 | 0x3BF9      |       15353 |
+|       2 | 0x3C4E      |       15438 |
+|       3 | 0x3C4F      |       15439 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x3BF6      |       15350 |
-|       6 | 0x3BF7      |       15351 |
+|       5 | 0x3C4C      |       15436 |
+|       6 | 0x3C4D      |       15437 |
 |       7 | 0x0002      |           2 |
 |       8 | 0x0003      |           3 |
 |       9 | 0x0004      |           4 |
@@ -35,10 +35,10 @@
 
 ## String References
 
-- **15350**: Would you like to start a new storyline that you previously postponed?
-- **15351**: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
-- **15352**: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
-- **15353**: Start the storyline? [Yes, please./No, thank you.]
+- **15436**: Would you like to start a new storyline that you previously postponed?
+- **15437**: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
+- **15438**: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
+- **15439**: Start the storyline? [Yes, please./No, thank you.]
 
 ## Events
 
@@ -101,10 +101,10 @@
   2: 0x000B [0x02] IF !(ExtData[1]->WorkLocal[0] <= 7*) GOTO 0x0018
   3: 0x0013 [0x03] ExtData[1]->WorkLocal[0] = 7*
   4: 0x0018 [0x02] IF !(Work_Zone[3] >= 1*) GOTO 0x004F
-  5: 0x0020 [0x48] [System] [15352*]:
+  5: 0x0020 [0x48] [System] [15438*]:
     → "Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?"
   6: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0024 [0x24] CREATE_DIALOG(message_id=15353*, default_option=1*, option_flags=0*)
+  7: 0x0024 [0x24] CREATE_DIALOG(message_id=15439*, default_option=1*, option_flags=0*)
     → "Start the storyline? [Yes, please./No, thank you.]"
   8: 0x002B [0x25] WAIT_DIALOG_SELECT()
   9: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003C
@@ -116,10 +116,10 @@
 
 SUBROUTINE_004C:
  15: 0x004C [0x01] GOTO 0x00DB
- 16: 0x004F [0x48] [System] [15350*]:
+ 16: 0x004F [0x48] [System] [15436*]:
     → "Would you like to start a new storyline that you previously postponed?"
  17: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0053 [0x24] CREATE_DIALOG(message_id=15351*, default_option=0*, option_flags=Work_Zone[3])
+ 18: 0x0053 [0x24] CREATE_DIALOG(message_id=15437*, default_option=0*, option_flags=Work_Zone[3])
     → "Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]"
  19: 0x005A [0x25] WAIT_DIALOG_SELECT()
  20: 0x005B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006B
