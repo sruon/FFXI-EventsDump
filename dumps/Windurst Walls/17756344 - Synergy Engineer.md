@@ -23,108 +23,108 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0004      |           4 |
-|       3 | 0x26C7      |        9927 |
+|       3 | 0x26C9      |        9929 |
 |       4 | 0x04D2      |        1234 |
-|       5 | 0x26C8      |        9928 |
-|       6 | 0x26C9      |        9929 |
+|       5 | 0x26CA      |        9930 |
+|       6 | 0x26CB      |        9931 |
 |       7 | 0x0003      |           3 |
-|       8 | 0x26CA      |        9930 |
-|       9 | 0x26CB      |        9931 |
-|      10 | 0x26CC      |        9932 |
-|      11 | 0x26CD      |        9933 |
-|      12 | 0x26CE      |        9934 |
-|      13 | 0x26CF      |        9935 |
-|      14 | 0x26D0      |        9936 |
-|      15 | 0x26D1      |        9937 |
-|      16 | 0x26D2      |        9938 |
-|      17 | 0x26D3      |        9939 |
-|      18 | 0x26D4      |        9940 |
+|       8 | 0x26CC      |        9932 |
+|       9 | 0x26CD      |        9933 |
+|      10 | 0x26CE      |        9934 |
+|      11 | 0x26CF      |        9935 |
+|      12 | 0x26D0      |        9936 |
+|      13 | 0x26D1      |        9937 |
+|      14 | 0x26D2      |        9938 |
+|      15 | 0x26D3      |        9939 |
+|      16 | 0x26D4      |        9940 |
+|      17 | 0x26D5      |        9941 |
+|      18 | 0x26D6      |        9942 |
 |      19 | 0x0002      |           2 |
-|      20 | 0x26D5      |        9941 |
+|      20 | 0x26D7      |        9943 |
 |      21 | 0x0064      |         100 |
-|      22 | 0x26D6      |        9942 |
-|      23 | 0x2642      |        9794 |
+|      22 | 0x26D8      |        9944 |
+|      23 | 0x2644      |        9796 |
 |      24 | 0x000C      |          12 |
-|      25 | 0x26D7      |        9943 |
-|      26 | 0x26D8      |        9944 |
+|      25 | 0x26D9      |        9945 |
+|      26 | 0x26DA      |        9946 |
 |      27 | 0x000D      |          13 |
-|      28 | 0x2644      |        9796 |
-|      29 | 0x2621      |        9761 |
-|      30 | 0x2624      |        9764 |
-|      31 | 0x2625      |        9765 |
+|      28 | 0x2646      |        9798 |
+|      29 | 0x2623      |        9763 |
+|      30 | 0x2626      |        9766 |
+|      31 | 0x2627      |        9767 |
 |      32 | 0x0007      |           7 |
 |      33 | 0x0008      |           8 |
 |      34 | 0x000B      |          11 |
-|      35 | 0x2626      |        9766 |
+|      35 | 0x2628      |        9768 |
 |      36 | 0x000F      |          15 |
 |      37 | 0x0010      |          16 |
 |      38 | 0x0017      |          23 |
 |      39 | 0x0018      |          24 |
 |      40 | 0x001F      |          31 |
-|      41 | 0x2627      |        9767 |
+|      41 | 0x2629      |        9769 |
 |      42 | 0x000A      |          10 |
 |      43 | 0x0009      |           9 |
-|      44 | 0x2628      |        9768 |
-|      45 | 0x2629      |        9769 |
-|      46 | 0x262A      |        9770 |
-|      47 | 0x262B      |        9771 |
-|      48 | 0x262C      |        9772 |
+|      44 | 0x262A      |        9770 |
+|      45 | 0x262B      |        9771 |
+|      46 | 0x262C      |        9772 |
+|      47 | 0x262D      |        9773 |
+|      48 | 0x262E      |        9774 |
 |      49 | 0x001B      |          27 |
 |      50 | 0x0006      |           6 |
 |      51 | 0x0005      |           5 |
-|      52 | 0x262D      |        9773 |
-|      53 | 0x262E      |        9774 |
-|      54 | 0x262F      |        9775 |
-|      55 | 0x2630      |        9776 |
-|      56 | 0x2631      |        9777 |
-|      57 | 0x2632      |        9778 |
-|      58 | 0x2633      |        9779 |
-|      59 | 0x2634      |        9780 |
-|      60 | 0x2635      |        9781 |
-|      61 | 0x2636      |        9782 |
-|      62 | 0x2637      |        9783 |
-|      63 | 0x2638      |        9784 |
-|      64 | 0x2639      |        9785 |
-|      65 | 0x263A      |        9786 |
-|      66 | 0x263B      |        9787 |
+|      52 | 0x262F      |        9775 |
+|      53 | 0x2630      |        9776 |
+|      54 | 0x2631      |        9777 |
+|      55 | 0x2632      |        9778 |
+|      56 | 0x2633      |        9779 |
+|      57 | 0x2634      |        9780 |
+|      58 | 0x2635      |        9781 |
+|      59 | 0x2636      |        9782 |
+|      60 | 0x2637      |        9783 |
+|      61 | 0x2638      |        9784 |
+|      62 | 0x2639      |        9785 |
+|      63 | 0x263A      |        9786 |
+|      64 | 0x263B      |        9787 |
+|      65 | 0x263C      |        9788 |
+|      66 | 0x263D      |        9789 |
 |      67 | 0x000E      |          14 |
 |      68 | 0x0014      |          20 |
 |      69 | 0x0015      |          21 |
-|      70 | 0x263C      |        9788 |
+|      70 | 0x263E      |        9790 |
 |      71 | 0x0318      |         792 |
-|      72 | 0x263D      |        9789 |
-|      73 | 0x263E      |        9790 |
-|      74 | 0x2649      |        9801 |
-|      75 | 0x263F      |        9791 |
-|      76 | 0x2641      |        9793 |
-|      77 | 0x2645      |        9797 |
+|      72 | 0x263F      |        9791 |
+|      73 | 0x2640      |        9792 |
+|      74 | 0x264B      |        9803 |
+|      75 | 0x2641      |        9793 |
+|      76 | 0x2643      |        9795 |
+|      77 | 0x2647      |        9799 |
 |      78 | 0x00C8      |         200 |
-|      79 | 0x2646      |        9798 |
-|      80 | 0x2643      |        9795 |
-|      81 | 0x2640      |        9792 |
-|      82 | 0x264A      |        9802 |
+|      79 | 0x2648      |        9800 |
+|      80 | 0x2645      |        9797 |
+|      81 | 0x2642      |        9794 |
+|      82 | 0x264C      |        9804 |
 |      83 | 0x0AF3      |        2803 |
 |      84 | 0x01F4      |         500 |
 |      85 | 0x09C4      |        2500 |
 |      86 | 0x1194      |        4500 |
-|      87 | 0x264B      |        9803 |
-|      88 | 0x264C      |        9804 |
-|      89 | 0x2660      |        9824 |
-|      90 | 0x264D      |        9805 |
+|      87 | 0x264D      |        9805 |
+|      88 | 0x264E      |        9806 |
+|      89 | 0x2662      |        9826 |
+|      90 | 0x264F      |        9807 |
 |      91 | 0x0013      |          19 |
-|      92 | 0x264F      |        9807 |
-|      93 | 0x2650      |        9808 |
-|      94 | 0x2651      |        9809 |
-|      95 | 0x2653      |        9811 |
-|      96 | 0x2654      |        9812 |
-|      97 | 0x2655      |        9813 |
-|      98 | 0x2656      |        9814 |
-|      99 | 0x2657      |        9815 |
-|     100 | 0x2658      |        9816 |
-|     101 | 0x2659      |        9817 |
-|     102 | 0x2652      |        9810 |
-|     103 | 0x264E      |        9806 |
-|     104 | 0x265B      |        9819 |
+|      92 | 0x2651      |        9809 |
+|      93 | 0x2652      |        9810 |
+|      94 | 0x2653      |        9811 |
+|      95 | 0x2655      |        9813 |
+|      96 | 0x2656      |        9814 |
+|      97 | 0x2657      |        9815 |
+|      98 | 0x2658      |        9816 |
+|      99 | 0x2659      |        9817 |
+|     100 | 0x265A      |        9818 |
+|     101 | 0x265B      |        9819 |
+|     102 | 0x2654      |        9812 |
+|     103 | 0x2650      |        9808 |
+|     104 | 0x265D      |        9821 |
 |     105 | 0x0AF4      |        2804 |
 |     106 | 0x0019      |          25 |
 |     107 | 0x0AF5      |        2805 |
@@ -135,98 +135,98 @@
 |     112 | 0x0AF0      |        2800 |
 |     113 | 0x0AD0      |        2768 |
 |     114 | 0x03E8      |        1000 |
-|     115 | 0x265C      |        9820 |
+|     115 | 0x265E      |        9822 |
 |     116 | 0x012C      |         300 |
-|     117 | 0x265D      |        9821 |
-|     118 | 0x265E      |        9822 |
-|     119 | 0x265F      |        9823 |
-|     120 | 0x2662      |        9826 |
-|     121 | 0x2663      |        9827 |
-|     122 | 0x26D9      |        9945 |
-|     123 | 0x2665      |        9829 |
-|     124 | 0x2666      |        9830 |
-|     125 | 0x2667      |        9831 |
-|     126 | 0x2668      |        9832 |
-|     127 | 0x2669      |        9833 |
-|     128 | 0x266A      |        9834 |
-|     129 | 0x266B      |        9835 |
-|     130 | 0x266C      |        9836 |
-|     131 | 0x266D      |        9837 |
-|     132 | 0x266E      |        9838 |
-|     133 | 0x266F      |        9839 |
-|     134 | 0x2670      |        9840 |
-|     135 | 0x2671      |        9841 |
-|     136 | 0x2672      |        9842 |
-|     137 | 0x2673      |        9843 |
-|     138 | 0x2674      |        9844 |
-|     139 | 0x2675      |        9845 |
+|     117 | 0x265F      |        9823 |
+|     118 | 0x2660      |        9824 |
+|     119 | 0x2661      |        9825 |
+|     120 | 0x2664      |        9828 |
+|     121 | 0x2665      |        9829 |
+|     122 | 0x26DB      |        9947 |
+|     123 | 0x2667      |        9831 |
+|     124 | 0x2668      |        9832 |
+|     125 | 0x2669      |        9833 |
+|     126 | 0x266A      |        9834 |
+|     127 | 0x266B      |        9835 |
+|     128 | 0x266C      |        9836 |
+|     129 | 0x266D      |        9837 |
+|     130 | 0x266E      |        9838 |
+|     131 | 0x266F      |        9839 |
+|     132 | 0x2670      |        9840 |
+|     133 | 0x2671      |        9841 |
+|     134 | 0x2672      |        9842 |
+|     135 | 0x2673      |        9843 |
+|     136 | 0x2674      |        9844 |
+|     137 | 0x2675      |        9845 |
+|     138 | 0x2676      |        9846 |
+|     139 | 0x2677      |        9847 |
 |     140 | 0x0ADF      |        2783 |
-|     141 | 0x2676      |        9846 |
-|     142 | 0x2677      |        9847 |
-|     143 | 0x2678      |        9848 |
-|     144 | 0x2679      |        9849 |
-|     145 | 0x267A      |        9850 |
-|     146 | 0x267B      |        9851 |
-|     147 | 0x267C      |        9852 |
-|     148 | 0x267D      |        9853 |
-|     149 | 0x267E      |        9854 |
-|     150 | 0x267F      |        9855 |
-|     151 | 0x2680      |        9856 |
-|     152 | 0x2681      |        9857 |
-|     153 | 0x2682      |        9858 |
-|     154 | 0x2683      |        9859 |
-|     155 | 0x2684      |        9860 |
-|     156 | 0x2685      |        9861 |
-|     157 | 0x2686      |        9862 |
-|     158 | 0x2687      |        9863 |
-|     159 | 0x2688      |        9864 |
-|     160 | 0x2689      |        9865 |
-|     161 | 0x268A      |        9866 |
-|     162 | 0x268B      |        9867 |
-|     163 | 0x268C      |        9868 |
-|     164 | 0x268D      |        9869 |
-|     165 | 0x268E      |        9870 |
-|     166 | 0x268F      |        9871 |
-|     167 | 0x2690      |        9872 |
-|     168 | 0x2691      |        9873 |
-|     169 | 0x2692      |        9874 |
-|     170 | 0x2693      |        9875 |
-|     171 | 0x2694      |        9876 |
-|     172 | 0x2695      |        9877 |
-|     173 | 0x2696      |        9878 |
-|     174 | 0x2697      |        9879 |
-|     175 | 0x2698      |        9880 |
-|     176 | 0x2699      |        9881 |
-|     177 | 0x269A      |        9882 |
-|     178 | 0x269B      |        9883 |
-|     179 | 0x269C      |        9884 |
-|     180 | 0x269D      |        9885 |
-|     181 | 0x269E      |        9886 |
-|     182 | 0x269F      |        9887 |
-|     183 | 0x26A0      |        9888 |
-|     184 | 0x26A1      |        9889 |
-|     185 | 0x26A2      |        9890 |
-|     186 | 0x26A3      |        9891 |
-|     187 | 0x26A4      |        9892 |
-|     188 | 0x26A5      |        9893 |
-|     189 | 0x26A6      |        9894 |
-|     190 | 0x26A7      |        9895 |
-|     191 | 0x26A8      |        9896 |
-|     192 | 0x26A9      |        9897 |
-|     193 | 0x26AA      |        9898 |
-|     194 | 0x26AB      |        9899 |
-|     195 | 0x26AC      |        9900 |
-|     196 | 0x26AD      |        9901 |
-|     197 | 0x26AE      |        9902 |
-|     198 | 0x26AF      |        9903 |
-|     199 | 0x26B0      |        9904 |
-|     200 | 0x26B1      |        9905 |
-|     201 | 0x26B2      |        9906 |
-|     202 | 0x26B3      |        9907 |
-|     203 | 0x26B4      |        9908 |
-|     204 | 0x26B5      |        9909 |
-|     205 | 0x26B6      |        9910 |
-|     206 | 0x26B7      |        9911 |
+|     141 | 0x2678      |        9848 |
+|     142 | 0x2679      |        9849 |
+|     143 | 0x267A      |        9850 |
+|     144 | 0x267B      |        9851 |
+|     145 | 0x267C      |        9852 |
+|     146 | 0x267D      |        9853 |
+|     147 | 0x267E      |        9854 |
+|     148 | 0x267F      |        9855 |
+|     149 | 0x2680      |        9856 |
+|     150 | 0x2681      |        9857 |
+|     151 | 0x2682      |        9858 |
+|     152 | 0x2683      |        9859 |
+|     153 | 0x2684      |        9860 |
+|     154 | 0x2685      |        9861 |
+|     155 | 0x2686      |        9862 |
+|     156 | 0x2687      |        9863 |
+|     157 | 0x2688      |        9864 |
+|     158 | 0x2689      |        9865 |
+|     159 | 0x268A      |        9866 |
+|     160 | 0x268B      |        9867 |
+|     161 | 0x268C      |        9868 |
+|     162 | 0x268D      |        9869 |
+|     163 | 0x268E      |        9870 |
+|     164 | 0x268F      |        9871 |
+|     165 | 0x2690      |        9872 |
+|     166 | 0x2691      |        9873 |
+|     167 | 0x2692      |        9874 |
+|     168 | 0x2693      |        9875 |
+|     169 | 0x2694      |        9876 |
+|     170 | 0x2695      |        9877 |
+|     171 | 0x2696      |        9878 |
+|     172 | 0x2697      |        9879 |
+|     173 | 0x2698      |        9880 |
+|     174 | 0x2699      |        9881 |
+|     175 | 0x269A      |        9882 |
+|     176 | 0x269B      |        9883 |
+|     177 | 0x269C      |        9884 |
+|     178 | 0x269D      |        9885 |
+|     179 | 0x269E      |        9886 |
+|     180 | 0x269F      |        9887 |
+|     181 | 0x26A0      |        9888 |
+|     182 | 0x26A1      |        9889 |
+|     183 | 0x26A2      |        9890 |
+|     184 | 0x26A3      |        9891 |
+|     185 | 0x26A4      |        9892 |
+|     186 | 0x26A5      |        9893 |
+|     187 | 0x26A6      |        9894 |
+|     188 | 0x26A7      |        9895 |
+|     189 | 0x26A8      |        9896 |
+|     190 | 0x26A9      |        9897 |
+|     191 | 0x26AA      |        9898 |
+|     192 | 0x26AB      |        9899 |
+|     193 | 0x26AC      |        9900 |
+|     194 | 0x26AD      |        9901 |
+|     195 | 0x26AE      |        9902 |
+|     196 | 0x26AF      |        9903 |
+|     197 | 0x26B0      |        9904 |
+|     198 | 0x26B1      |        9905 |
+|     199 | 0x26B2      |        9906 |
+|     200 | 0x26B3      |        9907 |
+|     201 | 0x26B4      |        9908 |
+|     202 | 0x26B5      |        9909 |
+|     203 | 0x26B6      |        9910 |
+|     204 | 0x26B7      |        9911 |
+|     205 | 0x26B8      |        9912 |
+|     206 | 0x26B9      |        9913 |
 |     207 | 0x73F1      |       29681 |
 |     208 | 0x73F2      |       29682 |
 |     209 | 0x73F3      |       29683 |
@@ -242,193 +242,193 @@
 |     219 | 0x73FD      |       29693 |
 |     220 | 0x73FE      |       29694 |
 |     221 | 0x73FF      |       29695 |
-|     222 | 0x26B8      |        9912 |
+|     222 | 0x26BA      |        9914 |
 |     223 | 0x0011      |          17 |
 |     224 | 0x0016      |          22 |
 |     225 | 0x001A      |          26 |
-|     226 | 0x26BD      |        9917 |
-|     227 | 0x26BE      |        9918 |
-|     228 | 0x26C0      |        9920 |
-|     229 | 0x26BF      |        9919 |
-|     230 | 0x26B9      |        9913 |
-|     231 | 0x26BA      |        9914 |
-|     232 | 0x26BB      |        9915 |
-|     233 | 0x26BC      |        9916 |
+|     226 | 0x26BF      |        9919 |
+|     227 | 0x26C0      |        9920 |
+|     228 | 0x26C2      |        9922 |
+|     229 | 0x26C1      |        9921 |
+|     230 | 0x26BB      |        9915 |
+|     231 | 0x26BC      |        9916 |
+|     232 | 0x26BD      |        9917 |
+|     233 | 0x26BE      |        9918 |
 
 ## String References
 
-- **9761**: Greetings, friend! I am a synergy engineer, dispatched from the Institute to maintain the furnaces you see beside me. I also have knowledge and services to share with fellow synergists, if that is what you desire.
-- **9764**: May I be of service? [Not now./Learn recipes./Check fewell./Replenish fewell./Purchase materials./Receive training./Trade cinder./Get information.]
-- **9765**: Recipes, you say? Let's see what we have that's suitable for your level of expertise...
-- **9766**: ...I'm sorry. I'm afraid there's nothing I can teach you at the moment.
-- **9767**: I've got it! How about $0? Mind you, it'll require a certain level of skill...
-- **9768**: Synergy skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran].
-- **9769**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-- **9770**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-- **9771**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-- **9772**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-- **9773**: As for materials, you'll be needing...
-- **9774**: $1 $0 .
-- **9775**: $1 $0 . $3 $0 .
-- **9776**: $1 $0 . $3 $0 . $5 $0$4 .
-- **9777**: $1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 .
-- **9778**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1.
-- **9779**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3.
-- **9780**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5.
-- **9781**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7.
-- **9782**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9.
-- **9783**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11.
-- **9784**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13.
-- **9785**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13 [/oo /o!/o"/o#/o$/o%/o&]$15.
-- **9786**: There you go. That doesn't sound so hard, now, does it?
-- **9787**: But of course! If you'll just allow me to inspect your $3 for a moment...
-- **9788**: Your fewell supply would appear to be as follows: o o $1 o!$2 o"$3 o#$4 o$$5 o%$6 o&$7.
-- **9789**: Running low? We can fill you up for a nominal fee.
-- **9790**: Replenish fewell? [Yes./No.]
-- **9791**: Looking for a fewell fill-up, you say? Then you've come to the right place!
-- **9792**: ...Hm? Why, your tank is already full to bursting. Come back again if you need a refill.
-- **9793**: Now let's see here... According to my calculations, I can fill you up to capacity for $0 gil. How does that sound?
-- **9794**: Pay $0 gil? [Deal!/No thanks.]
-- **9795**: Understood. Take care to monitor your reserves closely, lest you run out of fewell in the midst of a crucial procedure.
-- **9796**: I'm afraid you haven't the requisite gil, friend. Perhaps another time.
-- **9797**: Excellent! Now we just pop open your $3 here, and...
-- **9798**: There you go. Filled to the brim with a fresh batch of fewell! Can you smell those fumes? Mmm-mmm!
-- **9801**: How do you expect me to do that when your $3 is sitting inside a furnace, friend? You'll have to come back after you've finished synergizing.
-- **9802**: Materials, you say? But of course! Have a look at our selection.
-- **9803**: Purchase something? [Not today./$1 $0 : $2 gil./$3 $0 : $4 gil./$5 $0 : $6 gil.]
-- **9804**: For $1 $0 , that comes to $2 gil.
-- **9805**: Ah, another dedicated synergist looking to refine [his/her] technique. Excellent! That motivation will serve you well.
-- **9806**: ...But I'm afraid you'll need [/ever so slightly more/a bit more/more/a good deal more/considerably more] experience before you're ready to benefit from my training.
-- **9807**: And yes, it would seem you're at just the right skill level to receive my training. So, what will it be? Which technique would you like to improve?
-- **9808**: Train in which technique? [Cancel./Fewell feeding. (Current Lv.: $0)/Furnace thwacking. (Current Lv.: $1)/Pressure handle. (Current Lv.: $2)/Safety lever. (Current Lv.: $3)/Furnace repair. (Current Lv.: $4)/Fewell recycling. (Current Lv.: $5)]
-- **9809**: You wish to improve your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique. Is this correct?
-- **9810**: It would seem your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique already exceeds my own. There is no more I can teach you.
-- **9811**: Train in this technique? [Yes./No.]
-- **9812**: Very well! Now listen up, watch closely, and try to follow along...
-- **9813**: ...See, you take this part here, and... Yes, yes...just like that...
-- **9814**: ...Now steady here, or you'll be picking exploded furnace shrapnel out of your face for a week! Phew, that was a close one...
-- **9815**: ...And by applying Corollary Five of Hildolf's Third Theory of Inverse Transfocal Equilibrium, we find that...
-- **9816**: <Clink, clank...clunk> ...Er, let's try that once more...
-- **9817**: ...Superb! A quick learner, I see. If only all my students were as attentive as you!
-- **9819**: Research into the composition of the cinder produced as a side effect of synergy just might lead to the next breakthrough in our field. Provide us with samples for analysis, and we will gladly reward your contributions.
-- **9820**: Trade in your cinder? (Currently: $0 Pz) [Not now./$1: $2 Pz./$3: $4 Pz./$5: $6 Pz./$7: $8 Pz./$9: $10 Pz./$11: $12 Pz./$13: $14 Pz./$15 gil: $16 Pz.]
-- **9821**: This is what you want, correct?
-- **9822**: Make the exchange? [Yes./No.]
-- **9823**: It would appear that you lack the necessary quantity of cinder for that transaction.
-- **9824**: Excellent! And this is yours. May it serve you well!
-- **9826**: Ask about what? [Nothing./Synergy furnaces./Synergy overview./Synergy procedure./Synergy recipes./Fewell replenishment./Materials for sale./Synergy techniques./Trading cinder.]
-- **9827**: The synergy furnaces you see around town are provided as a public service by the Bastokan Institute of Synergy Research, to ensure that no synergist is ever far away from the tools of their trade.
-- **9829**: Needless to say, only one party may operate any given furnace at once.
-- **9830**: Fortunately, there are multiple furnaces installed throughout town. If the furnace before you is already in use, please seek out an unused one elsewhere, or wait patiently for your turn.
-- **9831**: You may think of synergy as an evolved form of synthesis. It is a discipline full of heretofore unimagined possibilities, but one which demands consummate skill from its practitioners.
-- **9832**: Like synthesis, synergy involves combining materials according to a prescribed recipe to yield oft-spectacular results. The rub is that each synergy recipe also dictates a certain elemental balance that must be achieved for the procedure to be successful.
-- **9833**: This balance is achieved through skillful infusion of combustible elemental crystals that we synergists call "fewell." To begin the synergy process, you'll have to feed the furnace with fewell and get those flames burning!
-- **9834**: As a general rule, the more complex the recipe, the more fewell it will require. Take care to check your stock before you fire up the furnace, lest you find its flames guttering out at a crucial moment.
-- **9835**: With the belly of the furnace roaring up a storm, it's time to toss in your materials and start synergizing! Keep a close eye on the balance of elements and deploy fewell as necessary. Approach the prescribed elemental balance, and your item will take form, allowing you to remove it from the furnace.
-- **9836**: The closer you are to the ideal elemental balance, the higher the quality of your finished product will be. In synergy, it pays to be a perfectionist!
-- **9837**: But be forewarned: these furnaces can only sustain the elemental maelstrom swirling and storming inside them for so long.
-- **9838**: If the furnace's durability should fail, the synergy process will be interrupted, and you will be forced to start anew.
-- **9839**: Take heart, though, as any materials inside your $3 will remain intact. You may retrieve them or attempt the synergy process again as you see fit.
-- **9840**: Any fewell consumed in the failed synergy attempt, on the other hand, will be permanently lost.
-- **9841**: Synergists must also be wary of debris buildup, an unavoidable side effect of the volatile elemental reactions that take place within the synergy furnace.
-- **9842**: Should too much debris be allowed to accumulate, the contents of the furnace will become unstable, potentially leading to unpleasant explosions and eruptions. Such accidents pose considerable risk to the synergy attempt in progress, as well as the physical well-being of the synergist, so be sure to exercise due caution!
-- **9843**: You may be asking yourself, "Why, how in the name of Hildolf am I going to oversee all of these complicated procedures and variables by myself?"
-- **9844**: Here's the good news: you don't have to! For you see, synergy furnaces are designed for use by multiple operators.
-- **9845**: The more complex the recipe, the greater level of skill and hands-on manipulation it will demand. At such times, it would be in your best interest to seek out like-minded synergists and take on the challenge together.
-- **9846**: Finally, it would be remiss of me not to make mention of $0, the curious substance whose properties are only now--with the emergence of synergy--becoming known to us.
-- **9847**: Though there is much yet to be learned, our research has revealed that $0 may be used to bolster your equipment, if attached in a proper manner.
-- **9848**: Mind you, $0 is not easy to come by, and I can offer no clues as to where or how to obtain it. Should you be fortunate enough to come across some in your travels, however, I encourage you to explore its potential.
-- **9849**: Synergy is not a discipline for the faint of heart or mind, but with dedication and cooperation, there are great rewards to be reaped. May your career as a synergist prove fruitful!
-- **9850**: First, you'll be wanting to check your fewell supply. You may do so by speaking with a synergy engineer such as myself, or by examining a synergy furnace.
-- **9851**: You'll be needing at least one unit of fewell for each element dictated by your recipe. Without this, even the most skilled synergist cannot hope to succeed.
-- **9852**: Should your fewell supply be in order, it's time to proceed with the synergy. If you are using one of these public synergy furnaces here, you'll need to examine it and lay claim to its use.
-- **9853**: You may then deposit your ingredients. Should they correspond to a proper recipe, the synergy furnace will fire up automatically. Note that as a safety precaution, the furnace will not activate if the recipe is beyond your level of synergy skill.
-- **9854**: From here, it becomes a race against the clock! Through skilled operation of the synergy furnace, you must achieve the elemental balance prescribed by the recipe before the furnace's durability fails.
-- **9855**: Fortunately, synergy furnaces are outfitted with a wide array of features designed to aid the synergist in this demanding task. First, you'll want to confirm the current balance of elements within the furnace and compare it to your desired result.
-- **9856**: Next, you can begin to feed fewell into the furnace to gradually raise the level of elemental concentration. Feeding fewell into the furnace until the required elemental balance is achieved is the most fundamental operation of synergy.
-- **9857**: However, high concentrations of elemental power can lead to volatile and unpredictable reactions. Simply adding fewell haphazardly without making the necessary adjustments is a recipe for only one thing, and that's disaster.
-- **9858**: If you sense that the furnace is on the verge of elemental overload, you'll want to employ the safety lever and pressure handle to prevent an unfortunate accident from occurring.
-- **9859**: You'll also want to mind the laws of elemental ascendancy and opposition. Increasing the concentration of a particular element will cause its counterpart to decrease.
-- **9860**: The furnace cannot sustain its power indefinitely, and will gradually lose durability as the synergy process continues. You'll need to perform periodic furnace repair should the furnace near its breaking point.
-- **9861**: It is also possible to recycle strewn fewell during synergy. While this will not impact the success or failure of the process itself, it will result in a greater amount of salvageable cinder produced as a by-product.
-- **9862**: This cinder is of great interest to our researchers back at the institute. As such, we have introduced a reward system through which quality samples can be traded in for an assortment of synergy-related wares.
-- **9863**: As marvelous an apparatus as the synergy furnace may be, keep in mind that the technology is still in its infancy, and highly unstable. There may be times when accidents occur despite the best efforts of the synergist.
-- **9864**: For your safety, we recommend stepping as far away from the furnace as possible at the first sign of danger. Some synergists claim that giving the furnace a good thwack is also effective in preventing such accidents, but this is pure madness, if you ask me!
-- **9865**: You will also find that there are numerous techniques that can be applied to make the synergy procedure go even more smoothly.
-- **9866**: In many cases, expertise and knowledge acquired through crafting will serve you in synergy as well. To truly master synergy, one must master crafting as well.
-- **9867**: Now let us return to the synergy process itself. As your elemental balance approaches that prescribed by the recipe, the furnace will signal you, and you may retrieve your finished product.
-- **9868**: If the furnace is still holding strong at this time, you may choose to keep working to achieve an even closer balance. The closer you come to the ideal balance, the higher the quality of your finished product will be.
-- **9869**: Indeed, many synergy masters consider these waning moments after the signal to be the time to really show off their skills! Why, if they manage to achieve an elemental surge...
-- **9870**: What's an elemental surge, you ask? Why, it's a miraculous phenomenon that occurs rarely--ever so rarely--upon feeding the furnace fewell.
-- **9871**: The elements react just in the right way, creating a miraculous reaction that brings the level of elemental concentration to exactly the desired level. Truly a boon from the Goddess for any synergist, no?
-- **9872**: ...And that is the synergy process in a nutshell. There's quite a bit of information to take in, so don't hesitate to return any time for a refresher course.
-- **9873**: Much like synthesis, to fashion items through synergy, you will need to follow a recipe. We synergy engineers are always unearthing new recipes, and are happy to share with you those suitable for your level of skill.
-- **9874**: Unlike synthesis, however, a synergy recipe is more than just a list of ingredients. There is also a required elemental balance that must be attained to achieve your desired result.
-- **9875**: Simple recipes involve only small doses of a limited number of elements, but more complex ones require the synergist to skillfully juggle wide ranges of elements in extremely high concentrations.
-- **9876**: The ingredients, you will have to remember on your own. The required elemental balance, however, may be reviewed at any time during the synergy process by observing the readings on the synergy furnace.
-- **9877**: In particular, recipes through which the curious substance known as $0 can be attached to equipment are creating quite a buzz among synergistically inclined adventurers these days.
-- **9878**: # cannot be attached directly. First, equipment must be prepared by etching an aperture into which an elementally compatible piece of $0 can then be embedded.
-- **9879**: The type of aperture that may be etched will depend on the piece of equipment. There are also pieces of equipment that, alas, may not be modified at all.
-- **9880**: If you are curious what manner of aperture may be etched into a particular piece of equipment, you need only trade it to me or one of my colleagues.
-- **9881**: As a general rule, the higher the level of the item in question, the more difficult the synergy process for creating an aperture will be.
-- **9882**: You will find that certain pieces of equipment may be etched with multiple apertures. It is, however, only possible to create one aperture at a time.
-- **9883**: Etching requires the use of a corrosive substance we call mordant. Deposit mordant into a synergy furnace along with your equipment, and the process will begin.
-- **9884**: My colleagues and I have a stock of mordant available for sale. The best way to learn is to practice, so if you're curious, we encourage you to purchase some and begin experimenting!
-- **9885**: The difficulty of the synergy process when embedding evolith is decided by a number of factors.
-- **9886**: Such factors include the variety of aperture and evolith, as well as the quantity of evolith you seek to attach. Embedding the first piece is not too difficult a task, but the second and third pieces will not go in so easily.
-- **9887**: To begin the embedding process, deposit your evolith into the synergy furnace along with a piece of equipment with a compatible aperture.
-- **9888**: When etching or embedding, the required elemental balance may be confirmed at any time during the synergy process, so let this be your guide.
-- **9889**: Should you ever wish to remove any apertures and embedded evolith from a piece of equipment entirely, you may do so with an ingredient we call revertant.
-- **9890**: Toss the revertant in a synergy furnace along with your equipment, and its potent powers will restore your item to a pure and pristine state! Be warned, however, that embedded evolith will be lost forever in the process.
-- **9891**: As you are no doubt already aware, synergy makes use of a highly combustible form of elemental crystals that we call "fewell." The more complex the recipe, the greater the quantity of fewell required.
-- **9892**: Veteran synergists know well the hassle of having to constantly monitor their fewell supply and procure crystals to replenish depleted stock.
-- **9893**: To free you of such trifling burdens and allow you to focus your mind entirely on your art, we synergy engineers are offering a convenient fewell replenishment service!
-- **9894**: For a nominal fee calculated based upon the current state of your fewell reserves, we will instantly refill you to full capacity.
-- **9895**: That's right--all elements in one simple transaction, directly to your $3! What could be easier?
-- **9896**: Looking to fire up your furnace and enter the world of $0? If so, you've come to the right place!
-- **9897**: We're proud to offer a supply of the corrosive agent known as mordant for sale. With this, synergy newcomers can hone their skills and outfit their equipment with evolith-capable apertures in the process.
-- **9898**: Mind you, our stock is limited to only the most diluted, readily produced form of the stuff. You'll find that it only has the strength to etch items of relatively low level.
-- **9899**: Etching high-powered equipment requires the use of more concentrated and potent forms of mordant. As quantities are limited, we can offer these only in exchange for cinder.
-- **9900**: Ah, synergy techniques! Those handy tricks of the trade that can mean the difference between a shiny new item and a major furnace meltdown.
-- **9901**: My colleagues and I are always eager to train fellow synergists in a wide range of techniques. We can't do it all, though--you'll need to hone your synergy skill in order to benefit from our instruction.
-- **9902**: Bear in mind that certain techniques can only be imparted to students possessing specialized crafting knowledge. For example, only skilled smiths will be able to comprehend the method for more efficient fewell feeding.
-- **9903**: Accomplished goldsmiths will be able to observe the inner workings of the furnace and stave off potential accidents. You will find that all crafting skills--even those you may not expect--may be applied in some way to support the synergy process.
-- **9904**: Word has it that there are also pieces of equipment that can impart hidden synergy techniques to the wearer. These, too, are said to be only accessible to skilled crafters.
-- **9905**: The moral of the story is this: while synergy skill is important, neglect not your other crafting skills. To become a true synergy master, finding the proper balance is key.
-- **9906**: Synergy remains a young discipline, and researchers back at the institute are burning the midnight fewell in the hopes of uncovering the next breakthrough in our field.
-- **9907**: Research of late is centered around the cinder that is left behind as a by-product of each synergy operation. Their composition, it would seem, has much to teach us of the true nature of the complex elemental reactions that go on within the bellies of these furnaces.
-- **9908**: We've even instituted a reward program for adventurers willing to contribute prime samples in the name of science.
-- **9909**: It would be no exaggeration to say that, to us, cinder is worth more than its weight in gold! Bring it to me or my colleagues--preferably in large quantities--and you're sure to be pleased at what we can offer you in return.
-- **9910**: Wondering if your $0 can be outfitted with evolith, are you? Well, you've come to the right place!
-- **9911**: A quick look at its composition should tell us all we need to know. Let's see here...
-- **9912**: Congratulations! Your $0 can indeed hold [an/another] evolith aperture. A $2-shaped aperture, to be exact...
-- **9913**: ...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&].
-- **9914**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
-- **9915**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
-- **9916**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
-- **9917**: That is all. Should you wish to have any other pieces of equipment analyzed, you know where to find us.
-- **9918**: Hmm... I'm afraid your $0 cannot house any more apertures.
-- **9919**: ...Alas. It's a shame, but it appears your $0 cannot be etched.
-- **9920**: Hmm, what's this? It would seem that your $0 cannot be etched at this time.
-- **9927**: Wait! No, don't tell me. You strike me as a [man/woman] who's looking to learn a thing or two about synergy.
-- **9928**: Learn about synergy? [Not today./Teach me!/Just give me $6.]
-- **9929**: A life without intellectual curiosity is a life hardly worth living. Should your eyes one day open to this truth, you are free to return.
-- **9930**: I thought you'd never ask! Synergy is both an art and a science: an evolution--nay, a revolution--in synthesis.
-- **9931**: Using $6 in conjunction with a synergy furnace--the apparatus you see beside me--the synergist wields the power of myriad elements to fabricate a veritable host of potent items.
-- **9932**: What we call $6 serves to dispense fewell crystals--the lifeblood of the synergy process--whilst also protecting its contents from the volatile reactions that occur within the bowels of the furnace.
-- **9933**: Synergy furnaces have been installed throughout the city for the use of all synergists. The crucible is sufficiently compact and lightweight that you can carry it with you.
-- **9934**: Initiating the synergy process is as simple as inserting your $3 into a furnace and commencing the infusion of elemental fewell.
-- **9935**: Needless to say, what will happen from there is not quite so simple.
-- **9936**: Successful synergy is contingent upon maintaining elemental equilibrium. The prescribed ratio, of course, will vary depending on the artifact you are attempting to create.
-- **9937**: You can increase the ratio of a particular element by burning the corresponding variety of fewell.
-- **9938**: But herein lies the rub: synergy is a still young science, and the technology we employ remains, shall we say...unstable.
-- **9939**: A bit too much fewell here, a wrong lever pulled there, and the percolating pot will explode, spitting scalding elemental guck every which way to Firesday.
-- **9940**: That's why smart synergists synergize in numbers. Too many culinarians might spoil the broth, but when it comes to synergy, it's the more the merrier!
-- **9941**: An aspiring synergist, I see! If you're looking for $6, you've certainly come to the right place.
-- **9942**: I can sell you a splendid entry-level model for $0 gil. A small price to pay to embark on a lifelong journey of scientific discovery, wouldn't you say?
-- **9943**: $0 gil, paid in full!
-- **9944**: As promised, here's your $3. And because I like your enthusiasm, I've even stocked it to the brim with fewell for you! How's that for a deal?
-- **9945**: The synergist must provide his or her own $3, as well as any materials to be used in the synergy process. Synergy furnaces themselves may be used free of charge.
+- **9763**: Greetings, friend! I am a synergy engineer, dispatched from the Institute to maintain the furnaces you see beside me. I also have knowledge and services to share with fellow synergists, if that is what you desire.
+- **9766**: May I be of service? [Not now./Learn recipes./Check fewell./Replenish fewell./Purchase materials./Receive training./Trade cinder./Get information.]
+- **9767**: Recipes, you say? Let's see what we have that's suitable for your level of expertise...
+- **9768**: ...I'm sorry. I'm afraid there's nothing I can teach you at the moment.
+- **9769**: I've got it! How about $0? Mind you, it'll require a certain level of skill...
+- **9770**: Synergy skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran].
+- **9771**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+- **9772**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+- **9773**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+- **9774**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+- **9775**: As for materials, you'll be needing...
+- **9776**: $1 $0 .
+- **9777**: $1 $0 . $3 $0 .
+- **9778**: $1 $0 . $3 $0 . $5 $0$4 .
+- **9779**: $1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 .
+- **9780**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1.
+- **9781**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3.
+- **9782**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5.
+- **9783**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7.
+- **9784**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9.
+- **9785**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11.
+- **9786**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13.
+- **9787**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13 [/oo /o!/o"/o#/o$/o%/o&]$15.
+- **9788**: There you go. That doesn't sound so hard, now, does it?
+- **9789**: But of course! If you'll just allow me to inspect your $3 for a moment...
+- **9790**: Your fewell supply would appear to be as follows: o o $1 o!$2 o"$3 o#$4 o$$5 o%$6 o&$7.
+- **9791**: Running low? We can fill you up for a nominal fee.
+- **9792**: Replenish fewell? [Yes./No.]
+- **9793**: Looking for a fewell fill-up, you say? Then you've come to the right place!
+- **9794**: ...Hm? Why, your tank is already full to bursting. Come back again if you need a refill.
+- **9795**: Now let's see here... According to my calculations, I can fill you up to capacity for $0 gil. How does that sound?
+- **9796**: Pay $0 gil? [Deal!/No thanks.]
+- **9797**: Understood. Take care to monitor your reserves closely, lest you run out of fewell in the midst of a crucial procedure.
+- **9798**: I'm afraid you haven't the requisite gil, friend. Perhaps another time.
+- **9799**: Excellent! Now we just pop open your $3 here, and...
+- **9800**: There you go. Filled to the brim with a fresh batch of fewell! Can you smell those fumes? Mmm-mmm!
+- **9803**: How do you expect me to do that when your $3 is sitting inside a furnace, friend? You'll have to come back after you've finished synergizing.
+- **9804**: Materials, you say? But of course! Have a look at our selection.
+- **9805**: Purchase something? [Not today./$1 $0 : $2 gil./$3 $0 : $4 gil./$5 $0 : $6 gil.]
+- **9806**: For $1 $0 , that comes to $2 gil.
+- **9807**: Ah, another dedicated synergist looking to refine [his/her] technique. Excellent! That motivation will serve you well.
+- **9808**: ...But I'm afraid you'll need [/ever so slightly more/a bit more/more/a good deal more/considerably more] experience before you're ready to benefit from my training.
+- **9809**: And yes, it would seem you're at just the right skill level to receive my training. So, what will it be? Which technique would you like to improve?
+- **9810**: Train in which technique? [Cancel./Fewell feeding. (Current Lv.: $0)/Furnace thwacking. (Current Lv.: $1)/Pressure handle. (Current Lv.: $2)/Safety lever. (Current Lv.: $3)/Furnace repair. (Current Lv.: $4)/Fewell recycling. (Current Lv.: $5)]
+- **9811**: You wish to improve your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique. Is this correct?
+- **9812**: It would seem your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique already exceeds my own. There is no more I can teach you.
+- **9813**: Train in this technique? [Yes./No.]
+- **9814**: Very well! Now listen up, watch closely, and try to follow along...
+- **9815**: ...See, you take this part here, and... Yes, yes...just like that...
+- **9816**: ...Now steady here, or you'll be picking exploded furnace shrapnel out of your face for a week! Phew, that was a close one...
+- **9817**: ...And by applying Corollary Five of Hildolf's Third Theory of Inverse Transfocal Equilibrium, we find that...
+- **9818**: <Clink, clank...clunk> ...Er, let's try that once more...
+- **9819**: ...Superb! A quick learner, I see. If only all my students were as attentive as you!
+- **9821**: Research into the composition of the cinder produced as a side effect of synergy just might lead to the next breakthrough in our field. Provide us with samples for analysis, and we will gladly reward your contributions.
+- **9822**: Trade in your cinder? (Currently: $0 Pz) [Not now./$1: $2 Pz./$3: $4 Pz./$5: $6 Pz./$7: $8 Pz./$9: $10 Pz./$11: $12 Pz./$13: $14 Pz./$15 gil: $16 Pz.]
+- **9823**: This is what you want, correct?
+- **9824**: Make the exchange? [Yes./No.]
+- **9825**: It would appear that you lack the necessary quantity of cinder for that transaction.
+- **9826**: Excellent! And this is yours. May it serve you well!
+- **9828**: Ask about what? [Nothing./Synergy furnaces./Synergy overview./Synergy procedure./Synergy recipes./Fewell replenishment./Materials for sale./Synergy techniques./Trading cinder.]
+- **9829**: The synergy furnaces you see around town are provided as a public service by the Bastokan Institute of Synergy Research, to ensure that no synergist is ever far away from the tools of their trade.
+- **9831**: Needless to say, only one party may operate any given furnace at once.
+- **9832**: Fortunately, there are multiple furnaces installed throughout town. If the furnace before you is already in use, please seek out an unused one elsewhere, or wait patiently for your turn.
+- **9833**: You may think of synergy as an evolved form of synthesis. It is a discipline full of heretofore unimagined possibilities, but one which demands consummate skill from its practitioners.
+- **9834**: Like synthesis, synergy involves combining materials according to a prescribed recipe to yield oft-spectacular results. The rub is that each synergy recipe also dictates a certain elemental balance that must be achieved for the procedure to be successful.
+- **9835**: This balance is achieved through skillful infusion of combustible elemental crystals that we synergists call "fewell." To begin the synergy process, you'll have to feed the furnace with fewell and get those flames burning!
+- **9836**: As a general rule, the more complex the recipe, the more fewell it will require. Take care to check your stock before you fire up the furnace, lest you find its flames guttering out at a crucial moment.
+- **9837**: With the belly of the furnace roaring up a storm, it's time to toss in your materials and start synergizing! Keep a close eye on the balance of elements and deploy fewell as necessary. Approach the prescribed elemental balance, and your item will take form, allowing you to remove it from the furnace.
+- **9838**: The closer you are to the ideal elemental balance, the higher the quality of your finished product will be. In synergy, it pays to be a perfectionist!
+- **9839**: But be forewarned: these furnaces can only sustain the elemental maelstrom swirling and storming inside them for so long.
+- **9840**: If the furnace's durability should fail, the synergy process will be interrupted, and you will be forced to start anew.
+- **9841**: Take heart, though, as any materials inside your $3 will remain intact. You may retrieve them or attempt the synergy process again as you see fit.
+- **9842**: Any fewell consumed in the failed synergy attempt, on the other hand, will be permanently lost.
+- **9843**: Synergists must also be wary of debris buildup, an unavoidable side effect of the volatile elemental reactions that take place within the synergy furnace.
+- **9844**: Should too much debris be allowed to accumulate, the contents of the furnace will become unstable, potentially leading to unpleasant explosions and eruptions. Such accidents pose considerable risk to the synergy attempt in progress, as well as the physical well-being of the synergist, so be sure to exercise due caution!
+- **9845**: You may be asking yourself, "Why, how in the name of Hildolf am I going to oversee all of these complicated procedures and variables by myself?"
+- **9846**: Here's the good news: you don't have to! For you see, synergy furnaces are designed for use by multiple operators.
+- **9847**: The more complex the recipe, the greater level of skill and hands-on manipulation it will demand. At such times, it would be in your best interest to seek out like-minded synergists and take on the challenge together.
+- **9848**: Finally, it would be remiss of me not to make mention of $0, the curious substance whose properties are only now--with the emergence of synergy--becoming known to us.
+- **9849**: Though there is much yet to be learned, our research has revealed that $0 may be used to bolster your equipment, if attached in a proper manner.
+- **9850**: Mind you, $0 is not easy to come by, and I can offer no clues as to where or how to obtain it. Should you be fortunate enough to come across some in your travels, however, I encourage you to explore its potential.
+- **9851**: Synergy is not a discipline for the faint of heart or mind, but with dedication and cooperation, there are great rewards to be reaped. May your career as a synergist prove fruitful!
+- **9852**: First, you'll be wanting to check your fewell supply. You may do so by speaking with a synergy engineer such as myself, or by examining a synergy furnace.
+- **9853**: You'll be needing at least one unit of fewell for each element dictated by your recipe. Without this, even the most skilled synergist cannot hope to succeed.
+- **9854**: Should your fewell supply be in order, it's time to proceed with the synergy. If you are using one of these public synergy furnaces here, you'll need to examine it and lay claim to its use.
+- **9855**: You may then deposit your ingredients. Should they correspond to a proper recipe, the synergy furnace will fire up automatically. Note that as a safety precaution, the furnace will not activate if the recipe is beyond your level of synergy skill.
+- **9856**: From here, it becomes a race against the clock! Through skilled operation of the synergy furnace, you must achieve the elemental balance prescribed by the recipe before the furnace's durability fails.
+- **9857**: Fortunately, synergy furnaces are outfitted with a wide array of features designed to aid the synergist in this demanding task. First, you'll want to confirm the current balance of elements within the furnace and compare it to your desired result.
+- **9858**: Next, you can begin to feed fewell into the furnace to gradually raise the level of elemental concentration. Feeding fewell into the furnace until the required elemental balance is achieved is the most fundamental operation of synergy.
+- **9859**: However, high concentrations of elemental power can lead to volatile and unpredictable reactions. Simply adding fewell haphazardly without making the necessary adjustments is a recipe for only one thing, and that's disaster.
+- **9860**: If you sense that the furnace is on the verge of elemental overload, you'll want to employ the safety lever and pressure handle to prevent an unfortunate accident from occurring.
+- **9861**: You'll also want to mind the laws of elemental ascendancy and opposition. Increasing the concentration of a particular element will cause its counterpart to decrease.
+- **9862**: The furnace cannot sustain its power indefinitely, and will gradually lose durability as the synergy process continues. You'll need to perform periodic furnace repair should the furnace near its breaking point.
+- **9863**: It is also possible to recycle strewn fewell during synergy. While this will not impact the success or failure of the process itself, it will result in a greater amount of salvageable cinder produced as a by-product.
+- **9864**: This cinder is of great interest to our researchers back at the institute. As such, we have introduced a reward system through which quality samples can be traded in for an assortment of synergy-related wares.
+- **9865**: As marvelous an apparatus as the synergy furnace may be, keep in mind that the technology is still in its infancy, and highly unstable. There may be times when accidents occur despite the best efforts of the synergist.
+- **9866**: For your safety, we recommend stepping as far away from the furnace as possible at the first sign of danger. Some synergists claim that giving the furnace a good thwack is also effective in preventing such accidents, but this is pure madness, if you ask me!
+- **9867**: You will also find that there are numerous techniques that can be applied to make the synergy procedure go even more smoothly.
+- **9868**: In many cases, expertise and knowledge acquired through crafting will serve you in synergy as well. To truly master synergy, one must master crafting as well.
+- **9869**: Now let us return to the synergy process itself. As your elemental balance approaches that prescribed by the recipe, the furnace will signal you, and you may retrieve your finished product.
+- **9870**: If the furnace is still holding strong at this time, you may choose to keep working to achieve an even closer balance. The closer you come to the ideal balance, the higher the quality of your finished product will be.
+- **9871**: Indeed, many synergy masters consider these waning moments after the signal to be the time to really show off their skills! Why, if they manage to achieve an elemental surge...
+- **9872**: What's an elemental surge, you ask? Why, it's a miraculous phenomenon that occurs rarely--ever so rarely--upon feeding the furnace fewell.
+- **9873**: The elements react just in the right way, creating a miraculous reaction that brings the level of elemental concentration to exactly the desired level. Truly a boon from the Goddess for any synergist, no?
+- **9874**: ...And that is the synergy process in a nutshell. There's quite a bit of information to take in, so don't hesitate to return any time for a refresher course.
+- **9875**: Much like synthesis, to fashion items through synergy, you will need to follow a recipe. We synergy engineers are always unearthing new recipes, and are happy to share with you those suitable for your level of skill.
+- **9876**: Unlike synthesis, however, a synergy recipe is more than just a list of ingredients. There is also a required elemental balance that must be attained to achieve your desired result.
+- **9877**: Simple recipes involve only small doses of a limited number of elements, but more complex ones require the synergist to skillfully juggle wide ranges of elements in extremely high concentrations.
+- **9878**: The ingredients, you will have to remember on your own. The required elemental balance, however, may be reviewed at any time during the synergy process by observing the readings on the synergy furnace.
+- **9879**: In particular, recipes through which the curious substance known as $0 can be attached to equipment are creating quite a buzz among synergistically inclined adventurers these days.
+- **9880**: # cannot be attached directly. First, equipment must be prepared by etching an aperture into which an elementally compatible piece of $0 can then be embedded.
+- **9881**: The type of aperture that may be etched will depend on the piece of equipment. There are also pieces of equipment that, alas, may not be modified at all.
+- **9882**: If you are curious what manner of aperture may be etched into a particular piece of equipment, you need only trade it to me or one of my colleagues.
+- **9883**: As a general rule, the higher the level of the item in question, the more difficult the synergy process for creating an aperture will be.
+- **9884**: You will find that certain pieces of equipment may be etched with multiple apertures. It is, however, only possible to create one aperture at a time.
+- **9885**: Etching requires the use of a corrosive substance we call mordant. Deposit mordant into a synergy furnace along with your equipment, and the process will begin.
+- **9886**: My colleagues and I have a stock of mordant available for sale. The best way to learn is to practice, so if you're curious, we encourage you to purchase some and begin experimenting!
+- **9887**: The difficulty of the synergy process when embedding evolith is decided by a number of factors.
+- **9888**: Such factors include the variety of aperture and evolith, as well as the quantity of evolith you seek to attach. Embedding the first piece is not too difficult a task, but the second and third pieces will not go in so easily.
+- **9889**: To begin the embedding process, deposit your evolith into the synergy furnace along with a piece of equipment with a compatible aperture.
+- **9890**: When etching or embedding, the required elemental balance may be confirmed at any time during the synergy process, so let this be your guide.
+- **9891**: Should you ever wish to remove any apertures and embedded evolith from a piece of equipment entirely, you may do so with an ingredient we call revertant.
+- **9892**: Toss the revertant in a synergy furnace along with your equipment, and its potent powers will restore your item to a pure and pristine state! Be warned, however, that embedded evolith will be lost forever in the process.
+- **9893**: As you are no doubt already aware, synergy makes use of a highly combustible form of elemental crystals that we call "fewell." The more complex the recipe, the greater the quantity of fewell required.
+- **9894**: Veteran synergists know well the hassle of having to constantly monitor their fewell supply and procure crystals to replenish depleted stock.
+- **9895**: To free you of such trifling burdens and allow you to focus your mind entirely on your art, we synergy engineers are offering a convenient fewell replenishment service!
+- **9896**: For a nominal fee calculated based upon the current state of your fewell reserves, we will instantly refill you to full capacity.
+- **9897**: That's right--all elements in one simple transaction, directly to your $3! What could be easier?
+- **9898**: Looking to fire up your furnace and enter the world of $0? If so, you've come to the right place!
+- **9899**: We're proud to offer a supply of the corrosive agent known as mordant for sale. With this, synergy newcomers can hone their skills and outfit their equipment with evolith-capable apertures in the process.
+- **9900**: Mind you, our stock is limited to only the most diluted, readily produced form of the stuff. You'll find that it only has the strength to etch items of relatively low level.
+- **9901**: Etching high-powered equipment requires the use of more concentrated and potent forms of mordant. As quantities are limited, we can offer these only in exchange for cinder.
+- **9902**: Ah, synergy techniques! Those handy tricks of the trade that can mean the difference between a shiny new item and a major furnace meltdown.
+- **9903**: My colleagues and I are always eager to train fellow synergists in a wide range of techniques. We can't do it all, though--you'll need to hone your synergy skill in order to benefit from our instruction.
+- **9904**: Bear in mind that certain techniques can only be imparted to students possessing specialized crafting knowledge. For example, only skilled smiths will be able to comprehend the method for more efficient fewell feeding.
+- **9905**: Accomplished goldsmiths will be able to observe the inner workings of the furnace and stave off potential accidents. You will find that all crafting skills--even those you may not expect--may be applied in some way to support the synergy process.
+- **9906**: Word has it that there are also pieces of equipment that can impart hidden synergy techniques to the wearer. These, too, are said to be only accessible to skilled crafters.
+- **9907**: The moral of the story is this: while synergy skill is important, neglect not your other crafting skills. To become a true synergy master, finding the proper balance is key.
+- **9908**: Synergy remains a young discipline, and researchers back at the institute are burning the midnight fewell in the hopes of uncovering the next breakthrough in our field.
+- **9909**: Research of late is centered around the cinder that is left behind as a by-product of each synergy operation. Their composition, it would seem, has much to teach us of the true nature of the complex elemental reactions that go on within the bellies of these furnaces.
+- **9910**: We've even instituted a reward program for adventurers willing to contribute prime samples in the name of science.
+- **9911**: It would be no exaggeration to say that, to us, cinder is worth more than its weight in gold! Bring it to me or my colleagues--preferably in large quantities--and you're sure to be pleased at what we can offer you in return.
+- **9912**: Wondering if your $0 can be outfitted with evolith, are you? Well, you've come to the right place!
+- **9913**: A quick look at its composition should tell us all we need to know. Let's see here...
+- **9914**: Congratulations! Your $0 can indeed hold [an/another] evolith aperture. A $2-shaped aperture, to be exact...
+- **9915**: ...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&].
+- **9916**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
+- **9917**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
+- **9918**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
+- **9919**: That is all. Should you wish to have any other pieces of equipment analyzed, you know where to find us.
+- **9920**: Hmm... I'm afraid your $0 cannot house any more apertures.
+- **9921**: ...Alas. It's a shame, but it appears your $0 cannot be etched.
+- **9922**: Hmm, what's this? It would seem that your $0 cannot be etched at this time.
+- **9929**: Wait! No, don't tell me. You strike me as a [man/woman] who's looking to learn a thing or two about synergy.
+- **9930**: Learn about synergy? [Not today./Teach me!/Just give me $6.]
+- **9931**: A life without intellectual curiosity is a life hardly worth living. Should your eyes one day open to this truth, you are free to return.
+- **9932**: I thought you'd never ask! Synergy is both an art and a science: an evolution--nay, a revolution--in synthesis.
+- **9933**: Using $6 in conjunction with a synergy furnace--the apparatus you see beside me--the synergist wields the power of myriad elements to fabricate a veritable host of potent items.
+- **9934**: What we call $6 serves to dispense fewell crystals--the lifeblood of the synergy process--whilst also protecting its contents from the volatile reactions that occur within the bowels of the furnace.
+- **9935**: Synergy furnaces have been installed throughout the city for the use of all synergists. The crucible is sufficiently compact and lightweight that you can carry it with you.
+- **9936**: Initiating the synergy process is as simple as inserting your $3 into a furnace and commencing the infusion of elemental fewell.
+- **9937**: Needless to say, what will happen from there is not quite so simple.
+- **9938**: Successful synergy is contingent upon maintaining elemental equilibrium. The prescribed ratio, of course, will vary depending on the artifact you are attempting to create.
+- **9939**: You can increase the ratio of a particular element by burning the corresponding variety of fewell.
+- **9940**: But herein lies the rub: synergy is a still young science, and the technology we employ remains, shall we say...unstable.
+- **9941**: A bit too much fewell here, a wrong lever pulled there, and the percolating pot will explode, spitting scalding elemental guck every which way to Firesday.
+- **9942**: That's why smart synergists synergize in numbers. Too many culinarians might spoil the broth, but when it comes to synergy, it's the more the merrier!
+- **9943**: An aspiring synergist, I see! If you're looking for $6, you've certainly come to the right place.
+- **9944**: I can sell you a splendid entry-level model for $0 gil. A small price to pay to embark on a lifelong journey of scientific discovery, wouldn't you say?
+- **9945**: $0 gil, paid in full!
+- **9946**: As promised, here's your $3. And because I like your enthusiasm, I've even stocked it to the brim with fewell for you! How's that for a deal?
+- **9947**: The synergist must provide his or her own $3, as well as any materials to be used in the synergy process. Synergy furnaces themselves may be used free of charge.
 
 ## Events
 
@@ -918,52 +918,52 @@
   4: 0x0011 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0109
   5: 0x0019 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0026
   6: 0x0021 [0x03] ExtData[1]->WorkLocal[79] = 4*
-  7: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=9927*)
+  7: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=9929*)
     → "Wait! No, don't tell me. You strike me as a [man/woman] who's looking to learn a thing or two about synergy."
   8: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002A [0x03] Work_Zone[2] = 1234*
- 10: 0x002F [0x24] CREATE_DIALOG(message_id=9928*, default_option=0*, option_flags=ExtData[1]->WorkLocal[79])
+ 10: 0x002F [0x24] CREATE_DIALOG(message_id=9930*, default_option=0*, option_flags=ExtData[1]->WorkLocal[79])
     → "Learn about synergy? [Not today./Teach me!/Just give me $6.]"
  11: 0x0036 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0037 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004F
- 13: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=9929*)
+ 13: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=9931*)
     → "A life without intellectual curiosity is a life hardly worth living. Should your eyes one day open to this truth, you are free to return."
  14: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0043 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=0*)
  16: 0x004C [0x01] GOTO 0x0106
  17: 0x004F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x008E
- 18: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=9930*)
+ 18: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=9932*)
     → "I thought you'd never ask! Synergy is both an art and a science: an evolution--nay, a revolution--in synthesis."
  19: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x005B [0x03] Work_Zone[2] = 1234*
- 21: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=9931*)
+ 21: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=9933*)
     → "Using $6 in conjunction with a synergy furnace--the apparatus you see beside me--the synergist wields the power of myriad elements to fabricate a veritable host of potent items."
  22: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=9932*)
+ 23: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=9934*)
     → "What we call $6 serves to dispense fewell crystals--the lifeblood of the synergy process--whilst also protecting its contents from the volatile reactions that occur within the bowels of the furnace."
  24: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=9933*)
+ 25: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=9935*)
     → "Synergy furnaces have been installed throughout the city for the use of all synergists. The crucible is sufficiently compact and lightweight that you can carry it with you."
  26: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=9934*)
+ 27: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=9936*)
     → "Initiating the synergy process is as simple as inserting your $3 into a furnace and commencing the infusion of elemental fewell."
  28: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=9935*)
+ 29: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=9937*)
     → "Needless to say, what will happen from there is not quite so simple."
  30: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=9936*)
+ 31: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=9938*)
     → "Successful synergy is contingent upon maintaining elemental equilibrium. The prescribed ratio, of course, will vary depending on the artifact you are attempting to create."
  32: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=9937*)
+ 33: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=9939*)
     → "You can increase the ratio of a particular element by burning the corresponding variety of fewell."
  34: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=9938*)
+ 35: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=9940*)
     → "But herein lies the rub: synergy is a still young science, and the technology we employ remains, shall we say...unstable."
  36: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=9939*)
+ 37: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=9941*)
     → "A bit too much fewell here, a wrong lever pulled there, and the percolating pot will explode, spitting scalding elemental guck every which way to Firesday."
  38: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=9940*)
+ 39: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=9942*)
     → "That's why smart synergists synergize in numbers. Too many culinarians might spoil the broth, but when it comes to synergy, it's the more the merrier!"
  40: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0088 [0x01] GOTO 0x002A
@@ -979,14 +979,14 @@ SUBROUTINE_0103:
 SUBROUTINE_0106:
  46: 0x0106 [0x01] GOTO 0x160C
  47: 0x0109 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x12E4
- 48: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=9761*)
+ 48: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=9763*)
     → "Greetings, friend! I am a synergy engineer, dispatched from the Institute to maintain the furnaces you see beside me. I also have knowledge and services to share with fellow synergists, if that is what you desire."
  49: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0115 [0x05] ExtData[1]->WorkLocal[3] = 1
 
 SUBROUTINE_0118:
  51: 0x0118 [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x12E1
- 52: 0x0120 [0x24] CREATE_DIALOG(message_id=9764*, default_option=0*, option_flags=0*)
+ 52: 0x0120 [0x24] CREATE_DIALOG(message_id=9766*, default_option=0*, option_flags=0*)
     → "May I be of service? [Not now./Learn recipes./Check fewell./Replenish fewell./Purchase materials./Receive training./Trade cinder./Get information.]"
  53: 0x0127 [0x25] WAIT_DIALOG_SELECT()
  54: 0x0128 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x013F
@@ -995,7 +995,7 @@ SUBROUTINE_0118:
  57: 0x013C [0x01] GOTO 0x12DE
  58: 0x013F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0922
  59: 0x0147 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 60: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=9765*)
+ 60: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=9767*)
     → "Recipes, you say? Let's see what we have that's suitable for your level of expertise..."
  61: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x014C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
@@ -1007,7 +1007,7 @@ SUBROUTINE_0118:
  68: 0x0173 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  69: 0x0175 [0x03] ExtData[1]->WorkLocal[38] = Work_Zone[2]
  70: 0x017A [0x02] IF !(ExtData[1]->WorkLocal[38] == 0*) GOTO 0x0189
- 71: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=9766*)
+ 71: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=9768*)
     → "...I'm sorry. I'm afraid there's nothing I can teach you at the moment."
  72: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0186 [0x01] GOTO 0x091E
@@ -1023,7 +1023,7 @@ SUBROUTINE_0118:
  83: 0x01D6 [0x03] ExtData[1]->WorkLocal[39] = Work_Zone[6]
  84: 0x01DB [0x03] ExtData[1]->WorkLocal[41] = Work_Zone[7]
  85: 0x01E0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[40]
- 86: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9767*)
+ 86: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9769*)
     → "I've got it! How about $0? Mind you, it'll require a certain level of skill..."
  87: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x01E9 [0x02] IF !(ExtData[1]->WorkLocal[42] == 0*) GOTO 0x0229
@@ -1051,7 +1051,7 @@ SUBROUTINE_022E:
 102: 0x0233 [0x15] Work_Zone[2] /= 10*
 103: 0x0238 [0x02] IF !(Work_Zone[2] <= 9*) GOTO 0x0245
 104: 0x0240 [0x03] Work_Zone[2] = 9*
-105: 0x0245 [0x48] [System] [9768*]:
+105: 0x0245 [0x48] [System] [9770*]:
     → "Synergy skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran]."
 106: 0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0249 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[42]
@@ -1077,22 +1077,22 @@ SUBROUTINE_022E:
 127: 0x02B9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x02C4
 128: 0x02C1 [0x01] GOTO 0x0300
 129: 0x02C4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x02D3
-130: 0x02CC [0x48] [System] [9769*]:
+130: 0x02CC [0x48] [System] [9771*]:
     → "[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]."
 131: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x02D0 [0x01] GOTO 0x0300
 133: 0x02D3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x02E2
-134: 0x02DB [0x48] [System] [9770*]:
+134: 0x02DB [0x48] [System] [9772*]:
     → "[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]."
 135: 0x02DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x02DF [0x01] GOTO 0x0300
 137: 0x02E2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x02F1
-138: 0x02EA [0x48] [System] [9771*]:
+138: 0x02EA [0x48] [System] [9773*]:
     → "[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]."
 139: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x02EE [0x01] GOTO 0x0300
 141: 0x02F1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0300
-142: 0x02F9 [0x48] [System] [9772*]:
+142: 0x02F9 [0x48] [System] [9774*]:
     → "[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]."
 143: 0x02FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x02FD [0x01] GOTO 0x0300
@@ -1155,7 +1155,7 @@ SUBROUTINE_03D7:
 185: 0x03DA [0x03] ExtData[1]->WorkLocal[0] = 0*
 
 SUBROUTINE_03DF:
-186: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9773*)
+186: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9775*)
     → "As for materials, you'll be needing..."
 187: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x03E3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x03EE
@@ -1163,7 +1163,7 @@ SUBROUTINE_03DF:
 190: 0x03EE [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x040F
 191: 0x03F6 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[50] (bits 0*-15*)
 192: 0x03FF [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[50] (bits 16*-23*)
-193: 0x0408 [0x48] [System] [9774*]:
+193: 0x0408 [0x48] [System] [9776*]:
     → "$1 $0 ."
 194: 0x040B [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x040C [0x01] GOTO 0x06FE
@@ -1172,7 +1172,7 @@ SUBROUTINE_03DF:
 198: 0x0420 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[50] (bits 16*-23*)
 199: 0x0429 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[51] (bits 0*-15*)
 200: 0x0432 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[51] (bits 16*-23*)
-201: 0x043B [0x48] [System] [9775*]:
+201: 0x043B [0x48] [System] [9777*]:
     → "$1 $0 . $3 $0 ."
 202: 0x043E [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x043F [0x01] GOTO 0x06FE
@@ -1183,7 +1183,7 @@ SUBROUTINE_03DF:
 208: 0x0465 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[51] (bits 16*-23*)
 209: 0x046E [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[52] (bits 0*-15*)
 210: 0x0477 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[52] (bits 16*-23*)
-211: 0x0480 [0x48] [System] [9776*]:
+211: 0x0480 [0x48] [System] [9778*]:
     → "$1 $0 . $3 $0 . $5 $0$4 ."
 212: 0x0483 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x0484 [0x01] GOTO 0x06FE
@@ -1196,7 +1196,7 @@ SUBROUTINE_03DF:
 220: 0x04BC [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[52] (bits 16*-23*)
 221: 0x04C5 [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[53] (bits 0*-15*)
 222: 0x04CE [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[53] (bits 16*-23*)
-223: 0x04D7 [0x48] [System] [9777*]:
+223: 0x04D7 [0x48] [System] [9779*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 224: 0x04DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x04DB [0x01] GOTO 0x06FE
@@ -1209,12 +1209,12 @@ SUBROUTINE_03DF:
 232: 0x0513 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[52] (bits 16*-23*)
 233: 0x051C [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[53] (bits 0*-15*)
 234: 0x0525 [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[53] (bits 16*-23*)
-235: 0x052E [0x48] [System] [9777*]:
+235: 0x052E [0x48] [System] [9779*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 236: 0x0531 [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x0532 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[54] (bits 0*-15*)
 238: 0x053B [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[54] (bits 16*-23*)
-239: 0x0544 [0x48] [System] [9774*]:
+239: 0x0544 [0x48] [System] [9776*]:
     → "$1 $0 ."
 240: 0x0547 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x0548 [0x01] GOTO 0x06FE
@@ -1227,14 +1227,14 @@ SUBROUTINE_03DF:
 248: 0x0580 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[52] (bits 16*-23*)
 249: 0x0589 [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[53] (bits 0*-15*)
 250: 0x0592 [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[53] (bits 16*-23*)
-251: 0x059B [0x48] [System] [9777*]:
+251: 0x059B [0x48] [System] [9779*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 252: 0x059E [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x059F [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[54] (bits 0*-15*)
 254: 0x05A8 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[54] (bits 16*-23*)
 255: 0x05B1 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[55] (bits 0*-15*)
 256: 0x05BA [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[55] (bits 16*-23*)
-257: 0x05C3 [0x48] [System] [9775*]:
+257: 0x05C3 [0x48] [System] [9777*]:
     → "$1 $0 . $3 $0 ."
 258: 0x05C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x05C7 [0x01] GOTO 0x06FE
@@ -1247,7 +1247,7 @@ SUBROUTINE_03DF:
 266: 0x05FF [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[52] (bits 16*-23*)
 267: 0x0608 [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[53] (bits 0*-15*)
 268: 0x0611 [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[53] (bits 16*-23*)
-269: 0x061A [0x48] [System] [9777*]:
+269: 0x061A [0x48] [System] [9779*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 270: 0x061D [0x23] WAIT_FOR_DIALOG_INTERACTION
 271: 0x061E [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[54] (bits 0*-15*)
@@ -1256,7 +1256,7 @@ SUBROUTINE_03DF:
 274: 0x0639 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[55] (bits 16*-23*)
 275: 0x0642 [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[56] (bits 0*-15*)
 276: 0x064B [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[56] (bits 16*-23*)
-277: 0x0654 [0x48] [System] [9776*]:
+277: 0x0654 [0x48] [System] [9778*]:
     → "$1 $0 . $3 $0 . $5 $0$4 ."
 278: 0x0657 [0x23] WAIT_FOR_DIALOG_INTERACTION
 279: 0x0658 [0x01] GOTO 0x06FE
@@ -1269,7 +1269,7 @@ SUBROUTINE_03DF:
 286: 0x0690 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[52] (bits 16*-23*)
 287: 0x0699 [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[53] (bits 0*-15*)
 288: 0x06A2 [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[53] (bits 16*-23*)
-289: 0x06AB [0x48] [System] [9777*]:
+289: 0x06AB [0x48] [System] [9779*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 290: 0x06AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x06AF [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[54] (bits 0*-15*)
@@ -1280,7 +1280,7 @@ SUBROUTINE_03DF:
 296: 0x06DC [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[56] (bits 16*-23*)
 297: 0x06E5 [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[57] (bits 0*-15*)
 298: 0x06EE [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[57] (bits 16*-23*)
-299: 0x06F7 [0x48] [System] [9777*]:
+299: 0x06F7 [0x48] [System] [9779*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 300: 0x06FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x06FB [0x01] GOTO 0x06FE
@@ -1385,48 +1385,48 @@ SUBROUTINE_07ED:
 382: 0x089A [0x03] ExtData[1]->WorkLocal[76] = ExtData[1]->WorkLocal[73]
 383: 0x089F [0x1A] CALL_SUBROUTINE(address=0x160F)
 384: 0x08A2 [0x02] IF !(ExtData[1]->WorkLocal[74] == 1*) GOTO 0x08B1
-385: 0x08AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9778*)
+385: 0x08AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9780*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1."
 386: 0x08AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 387: 0x08AE [0x01] GOTO 0x091A
 388: 0x08B1 [0x02] IF !(ExtData[1]->WorkLocal[74] == 2*) GOTO 0x08C0
-389: 0x08B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9779*)
+389: 0x08B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9781*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3."
 390: 0x08BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x08BD [0x01] GOTO 0x091A
 392: 0x08C0 [0x02] IF !(ExtData[1]->WorkLocal[74] == 3*) GOTO 0x08CF
-393: 0x08C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9780*)
+393: 0x08C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9782*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5."
 394: 0x08CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 395: 0x08CC [0x01] GOTO 0x091A
 396: 0x08CF [0x02] IF !(ExtData[1]->WorkLocal[74] == 4*) GOTO 0x08DE
-397: 0x08D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9781*)
+397: 0x08D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9783*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7."
 398: 0x08DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 399: 0x08DB [0x01] GOTO 0x091A
 400: 0x08DE [0x02] IF !(ExtData[1]->WorkLocal[74] == 5*) GOTO 0x08ED
-401: 0x08E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9782*)
+401: 0x08E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9784*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9."
 402: 0x08E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 403: 0x08EA [0x01] GOTO 0x091A
 404: 0x08ED [0x02] IF !(ExtData[1]->WorkLocal[74] == 6*) GOTO 0x08FC
-405: 0x08F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9783*)
+405: 0x08F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9785*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11."
 406: 0x08F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 407: 0x08F9 [0x01] GOTO 0x091A
 408: 0x08FC [0x02] IF !(ExtData[1]->WorkLocal[74] == 7*) GOTO 0x090B
-409: 0x0904 [0x1D] PRINT_EVENT_MESSAGE(message_id=9784*)
+409: 0x0904 [0x1D] PRINT_EVENT_MESSAGE(message_id=9786*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13."
 410: 0x0907 [0x23] WAIT_FOR_DIALOG_INTERACTION
 411: 0x0908 [0x01] GOTO 0x091A
 412: 0x090B [0x02] IF !(ExtData[1]->WorkLocal[74] == 8*) GOTO 0x091A
-413: 0x0913 [0x1D] PRINT_EVENT_MESSAGE(message_id=9785*)
+413: 0x0913 [0x1D] PRINT_EVENT_MESSAGE(message_id=9787*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13 [/oo /o!/o"/o#/o$/o%/o&]$15."
 414: 0x0916 [0x23] WAIT_FOR_DIALOG_INTERACTION
 415: 0x0917 [0x01] GOTO 0x091A
 
 SUBROUTINE_091A:
-416: 0x091A [0x1D] PRINT_EVENT_MESSAGE(message_id=9786*)
+416: 0x091A [0x1D] PRINT_EVENT_MESSAGE(message_id=9788*)
     → "There you go. That doesn't sound so hard, now, does it?"
 417: 0x091D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1436,7 +1436,7 @@ SUBROUTINE_091E:
 420: 0x0922 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0A23
 421: 0x092A [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
 422: 0x092B [0x03] Work_Zone[2] = 1234*
-423: 0x0930 [0x1D] PRINT_EVENT_MESSAGE(message_id=9787*)
+423: 0x0930 [0x1D] PRINT_EVENT_MESSAGE(message_id=9789*)
     → "But of course! If you'll just allow me to inspect your $3 for a moment..."
 424: 0x0933 [0x23] WAIT_FOR_DIALOG_INTERACTION
 425: 0x0934 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=2*)
@@ -1459,7 +1459,7 @@ SUBROUTINE_091E:
 442: 0x09AA [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
 443: 0x09AF [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[14]
 444: 0x09B4 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[15]
-445: 0x09B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9788*)
+445: 0x09B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9790*)
     → "Your fewell supply would appear to be as follows: o o $1 o!$2 o"$3 o#$4 o$$5 o%$6 o&$7."
 446: 0x09BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 447: 0x09BD [0x03] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[8]
@@ -1471,10 +1471,10 @@ SUBROUTINE_091E:
 453: 0x09DB [0x07] ExtData[1]->WorkLocal[0] += ExtData[1]->WorkLocal[14]
 454: 0x09E0 [0x07] ExtData[1]->WorkLocal[0] += ExtData[1]->WorkLocal[15]
 455: 0x09E5 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 792*) GOTO 0x0A13
-456: 0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9789*)
+456: 0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9791*)
     → "Running low? We can fill you up for a nominal fee."
 457: 0x09F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-458: 0x09F1 [0x24] CREATE_DIALOG(message_id=9790*, default_option=1*, option_flags=0*)
+458: 0x09F1 [0x24] CREATE_DIALOG(message_id=9792*, default_option=1*, option_flags=0*)
     → "Replenish fewell? [Yes./No.]"
 459: 0x09F8 [0x25] WAIT_DIALOG_SELECT()
 460: 0x09F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A08
@@ -1484,7 +1484,7 @@ SUBROUTINE_091E:
 SUBROUTINE_0A13:
 463: 0x0A13 [0x01] GOTO 0x0A1F
 464: 0x0A16 [0x03] Work_Zone[2] = 1234*
-465: 0x0A1B [0x1D] PRINT_EVENT_MESSAGE(message_id=9801*)
+465: 0x0A1B [0x1D] PRINT_EVENT_MESSAGE(message_id=9803*)
     → "How do you expect me to do that when your $3 is sitting inside a furnace, friend? You'll have to come back after you've finished synergizing."
 466: 0x0A1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1495,7 +1495,7 @@ SUBROUTINE_0A1F:
 
 SUBROUTINE_0A2B:
 470: 0x0A2B [0x03] Work_Zone[2] = 1234*
-471: 0x0A30 [0x1D] PRINT_EVENT_MESSAGE(message_id=9791*)
+471: 0x0A30 [0x1D] PRINT_EVENT_MESSAGE(message_id=9793*)
     → "Looking for a fewell fill-up, you say? Then you've come to the right place!"
 472: 0x0A33 [0x23] WAIT_FOR_DIALOG_INTERACTION
 473: 0x0A34 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=3*)
@@ -1506,58 +1506,58 @@ SUBROUTINE_0A2B:
 478: 0x0A4B [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x0AFD
 479: 0x0A53 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x0AF6
 480: 0x0A5B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
-481: 0x0A60 [0x1D] PRINT_EVENT_MESSAGE(message_id=9793*)
+481: 0x0A60 [0x1D] PRINT_EVENT_MESSAGE(message_id=9795*)
     → "Now let's see here... According to my calculations, I can fill you up to capacity for $0 gil. How does that sound?"
 482: 0x0A63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 483: 0x0A64 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
-484: 0x0A69 [0x24] CREATE_DIALOG(message_id=9794*, default_option=1*, option_flags=0*)
+484: 0x0A69 [0x24] CREATE_DIALOG(message_id=9796*, default_option=1*, option_flags=0*)
     → "Pay $0 gil? [Deal!/No thanks.]"
 485: 0x0A70 [0x25] WAIT_DIALOG_SELECT()
 486: 0x0A71 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AE4
 487: 0x0A79 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x0ADD
 488: 0x0A81 [0x03] Work_Zone[2] = 1234*
-489: 0x0A86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9797*)
+489: 0x0A86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9799*)
     → "Excellent! Now we just pop open your $3 here, and..."
 490: 0x0A89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 491: 0x0A8A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 492: 0x0A9B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
 493: 0x0AAA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 494: 0x0ABB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
-495: 0x0ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=9798*)
+495: 0x0ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=9800*)
     → "There you go. Filled to the brim with a fresh batch of fewell! Can you smell those fumes? Mmm-mmm!"
 496: 0x0ACD [0x23] WAIT_FOR_DIALOG_INTERACTION
 497: 0x0ACE [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=8*)
 498: 0x0AD7 [0x06] ExtData[1]->WorkLocal[3] = 0
 499: 0x0ADA [0x01] GOTO 0x0AE1
-500: 0x0ADD [0x1D] PRINT_EVENT_MESSAGE(message_id=9796*)
+500: 0x0ADD [0x1D] PRINT_EVENT_MESSAGE(message_id=9798*)
     → "I'm afraid you haven't the requisite gil, friend. Perhaps another time."
 501: 0x0AE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0AE1:
 502: 0x0AE1 [0x01] GOTO 0x0AF3
 503: 0x0AE4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0AF3
-504: 0x0AEC [0x1D] PRINT_EVENT_MESSAGE(message_id=9795*)
+504: 0x0AEC [0x1D] PRINT_EVENT_MESSAGE(message_id=9797*)
     → "Understood. Take care to monitor your reserves closely, lest you run out of fewell in the midst of a crucial procedure."
 505: 0x0AEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 506: 0x0AF0 [0x01] GOTO 0x0AF3
 
 SUBROUTINE_0AF3:
 507: 0x0AF3 [0x01] GOTO 0x0AFA
-508: 0x0AF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9792*)
+508: 0x0AF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9794*)
     → "...Hm? Why, your tank is already full to bursting. Come back again if you need a refill."
 509: 0x0AF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0AFA:
 510: 0x0AFA [0x01] GOTO 0x0B06
 511: 0x0AFD [0x03] Work_Zone[2] = 1234*
-512: 0x0B02 [0x1D] PRINT_EVENT_MESSAGE(message_id=9801*)
+512: 0x0B02 [0x1D] PRINT_EVENT_MESSAGE(message_id=9803*)
     → "How do you expect me to do that when your $3 is sitting inside a furnace, friend? You'll have to come back after you've finished synergizing."
 513: 0x0B05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0B06:
 514: 0x0B06 [0x01] GOTO 0x12DE
 515: 0x0B09 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0C4F
-516: 0x0B11 [0x1D] PRINT_EVENT_MESSAGE(message_id=9802*)
+516: 0x0B11 [0x1D] PRINT_EVENT_MESSAGE(message_id=9804*)
     → "Materials, you say? But of course! Have a look at our selection."
 517: 0x0B14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 518: 0x0B15 [0x05] ExtData[1]->WorkLocal[4] = 1
@@ -1572,7 +1572,7 @@ SUBROUTINE_0B18:
 525: 0x0B39 [0x03] Work_Zone[7] = 12*
 526: 0x0B3E [0x03] Work_Zone[8] = 4500*
 527: 0x0B43 [0x03] ExtData[1]->WorkLocal[18] = 0*
-528: 0x0B48 [0x24] CREATE_DIALOG(message_id=9803*, default_option=0*, option_flags=0*)
+528: 0x0B48 [0x24] CREATE_DIALOG(message_id=9805*, default_option=0*, option_flags=0*)
     → "Purchase something? [Not today./$1 $0 : $2 gil./$3 $0 : $4 gil./$5 $0 : $6 gil.]"
 529: 0x0B4F [0x25] WAIT_DIALOG_SELECT()
 530: 0x0B50 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B5E
@@ -1602,12 +1602,12 @@ SUBROUTINE_0BAC:
 552: 0x0BC7 [0x03] Work_Zone[2] = 2803*
 553: 0x0BCC [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
 554: 0x0BD1 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
-555: 0x0BD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9804*)
+555: 0x0BD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9806*)
     → "For $1 $0 , that comes to $2 gil."
 556: 0x0BD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 557: 0x0BDA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 558: 0x0BDD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[20]
-559: 0x0BE2 [0x24] CREATE_DIALOG(message_id=9794*, default_option=1*, option_flags=0*)
+559: 0x0BE2 [0x24] CREATE_DIALOG(message_id=9796*, default_option=1*, option_flags=0*)
     → "Pay $0 gil? [Deal!/No thanks.]"
 560: 0x0BE9 [0x25] WAIT_DIALOG_SELECT()
 561: 0x0BEA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C3E
@@ -1617,7 +1617,7 @@ SUBROUTINE_0BAC:
 565: 0x0C06 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 566: 0x0C08 [0x03] ExtData[1]->WorkLocal[21] = Work_Zone[2]
 567: 0x0C0D [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x0C34
-568: 0x0C15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9824*)
+568: 0x0C15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9826*)
     → "Excellent! And this is yours. May it serve you well!"
 569: 0x0C18 [0x23] WAIT_FOR_DIALOG_INTERACTION
 570: 0x0C19 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=9*)
@@ -1625,7 +1625,7 @@ SUBROUTINE_0BAC:
 572: 0x0C2B [0x06] ExtData[1]->WorkLocal[4] = 0
 573: 0x0C2E [0x06] ExtData[1]->WorkLocal[3] = 0
 574: 0x0C31 [0x01] GOTO 0x0C3B
-575: 0x0C34 [0x1D] PRINT_EVENT_MESSAGE(message_id=9796*)
+575: 0x0C34 [0x1D] PRINT_EVENT_MESSAGE(message_id=9798*)
     → "I'm afraid you haven't the requisite gil, friend. Perhaps another time."
 576: 0x0C37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 577: 0x0C38 [0x06] ExtData[1]->WorkLocal[4] = 0
@@ -1639,7 +1639,7 @@ SUBROUTINE_0C49:
 581: 0x0C49 [0x01] GOTO 0x0B18
 582: 0x0C4C [0x01] GOTO 0x12DE
 583: 0x0C4F [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0EAE
-584: 0x0C57 [0x1D] PRINT_EVENT_MESSAGE(message_id=9805*)
+584: 0x0C57 [0x1D] PRINT_EVENT_MESSAGE(message_id=9807*)
     → "Ah, another dedicated synergist looking to refine [his/her] technique. Excellent! That motivation will serve you well."
 585: 0x0C5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 586: 0x0C5B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=5*)
@@ -1653,7 +1653,7 @@ SUBROUTINE_0C49:
 594: 0x0C91 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone[3] (bits 16*-19*)
 595: 0x0C9A [0x41] ExtData[1]->WorkLocal[28] = Work_Zone[3] (bits 20*-23*)
 596: 0x0CA3 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0EA2
-597: 0x0CAB [0x1D] PRINT_EVENT_MESSAGE(message_id=9807*)
+597: 0x0CAB [0x1D] PRINT_EVENT_MESSAGE(message_id=9809*)
     → "And yes, it would seem you're at just the right skill level to receive my training. So, what will it be? Which technique would you like to improve?"
 598: 0x0CAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 599: 0x0CAF [0x05] ExtData[1]->WorkLocal[5] = 1
@@ -1667,7 +1667,7 @@ SUBROUTINE_0CB2:
 605: 0x0CCE [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 606: 0x0CD3 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[27]
 607: 0x0CD8 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[28]
-608: 0x0CDD [0x24] CREATE_DIALOG(message_id=9808*, default_option=0*, option_flags=0*)
+608: 0x0CDD [0x24] CREATE_DIALOG(message_id=9810*, default_option=0*, option_flags=0*)
     → "Train in which technique? [Cancel./Fewell feeding. (Current Lv.: $0)/Furnace thwacking. (Current Lv.: $1)/Pressure handle. (Current Lv.: $2)/Safety lever. (Current Lv.: $3)/Furnace repair. (Current Lv.: $4)/Fewell recycling. (Current Lv.: $5)]"
 609: 0x0CE4 [0x25] WAIT_DIALOG_SELECT()
 610: 0x0CE5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CF3
@@ -1727,36 +1727,36 @@ SUBROUTINE_0DB3:
 650: 0x0DBB [0x02] IF !(ExtData[1]->WorkLocal[29] == 1*) GOTO 0x0E93
 651: 0x0DC3 [0x03] ExtData[1]->WorkLocal[30] = Work_Zone[0]
 652: 0x0DC8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[30]
-653: 0x0DCD [0x1D] PRINT_EVENT_MESSAGE(message_id=9809*)
+653: 0x0DCD [0x1D] PRINT_EVENT_MESSAGE(message_id=9811*)
     → "You wish to improve your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique. Is this correct?"
 654: 0x0DD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-655: 0x0DD1 [0x24] CREATE_DIALOG(message_id=9811*, default_option=1*, option_flags=0*)
+655: 0x0DD1 [0x24] CREATE_DIALOG(message_id=9813*, default_option=1*, option_flags=0*)
     → "Train in this technique? [Yes./No.]"
 656: 0x0DD8 [0x25] WAIT_DIALOG_SELECT()
 657: 0x0DD9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E85
-658: 0x0DE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9812*)
+658: 0x0DE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9814*)
     → "Very well! Now listen up, watch closely, and try to follow along..."
 659: 0x0DE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 660: 0x0DE5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 661: 0x0DF6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
 662: 0x0E05 [0x13] ExtData[1]->WorkLocal[0] = rand() % 3*
 663: 0x0E0A [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0E19
-664: 0x0E12 [0x1D] PRINT_EVENT_MESSAGE(message_id=9813*)
+664: 0x0E12 [0x1D] PRINT_EVENT_MESSAGE(message_id=9815*)
     → "...See, you take this part here, and... Yes, yes...just like that..."
 665: 0x0E15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 666: 0x0E16 [0x01] GOTO 0x0E46
 667: 0x0E19 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0E28
-668: 0x0E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=9814*)
+668: 0x0E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=9816*)
     → "...Now steady here, or you'll be picking exploded furnace shrapnel out of your face for a week! Phew, that was a close one..."
 669: 0x0E24 [0x23] WAIT_FOR_DIALOG_INTERACTION
 670: 0x0E25 [0x01] GOTO 0x0E46
 671: 0x0E28 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0E37
-672: 0x0E30 [0x1D] PRINT_EVENT_MESSAGE(message_id=9815*)
+672: 0x0E30 [0x1D] PRINT_EVENT_MESSAGE(message_id=9817*)
     → "...And by applying Corollary Five of Hildolf's Third Theory of Inverse Transfocal Equilibrium, we find that..."
 673: 0x0E33 [0x23] WAIT_FOR_DIALOG_INTERACTION
 674: 0x0E34 [0x01] GOTO 0x0E46
 675: 0x0E37 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0E46
-676: 0x0E3F [0x1D] PRINT_EVENT_MESSAGE(message_id=9816*)
+676: 0x0E3F [0x1D] PRINT_EVENT_MESSAGE(message_id=9818*)
     → "<Clink, clank...clunk> ...Er, let's try that once more..."
 677: 0x0E42 [0x23] WAIT_FOR_DIALOG_INTERACTION
 678: 0x0E43 [0x01] GOTO 0x0E46
@@ -1764,7 +1764,7 @@ SUBROUTINE_0DB3:
 SUBROUTINE_0E46:
 679: 0x0E46 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 680: 0x0E57 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
-681: 0x0E66 [0x1D] PRINT_EVENT_MESSAGE(message_id=9817*)
+681: 0x0E66 [0x1D] PRINT_EVENT_MESSAGE(message_id=9819*)
     → "...Superb! A quick learner, I see. If only all my students were as attentive as you!"
 682: 0x0E69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 683: 0x0E6A [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=10*)
@@ -1778,7 +1778,7 @@ SUBROUTINE_0E46:
 SUBROUTINE_0E90:
 690: 0x0E90 [0x01] GOTO 0x0E9C
 691: 0x0E93 [0x03] Work_Zone[2] = Work_Zone[0]
-692: 0x0E98 [0x1D] PRINT_EVENT_MESSAGE(message_id=9810*)
+692: 0x0E98 [0x1D] PRINT_EVENT_MESSAGE(message_id=9812*)
     → "It would seem your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique already exceeds my own. There is no more I can teach you."
 693: 0x0E9B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1786,14 +1786,14 @@ SUBROUTINE_0E9C:
 694: 0x0E9C [0x01] GOTO 0x0CB2
 695: 0x0E9F [0x01] GOTO 0x0EAB
 696: 0x0EA2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[22]
-697: 0x0EA7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9806*)
+697: 0x0EA7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9808*)
     → "...But I'm afraid you'll need [/ever so slightly more/a bit more/more/a good deal more/considerably more] experience before you're ready to benefit from my training."
 698: 0x0EAA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0EAB:
 699: 0x0EAB [0x01] GOTO 0x12DE
 700: 0x0EAE [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1091
-701: 0x0EB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9819*)
+701: 0x0EB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9821*)
     → "Research into the composition of the cinder produced as a side effect of synergy just might lead to the next breakthrough in our field. Provide us with samples for analysis, and we will gladly reward your contributions."
 702: 0x0EB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 703: 0x0EBA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=6*)
@@ -1825,7 +1825,7 @@ SUBROUTINE_0ED4:
 727: 0x0F31 [0x03] ExtData[1]->WorkLocal[0] = 0*
 728: 0x0F36 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=7*, condition_work_offset=1*)
 729: 0x0F3D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=8*, condition_work_offset=1*)
-730: 0x0F44 [0x24] CREATE_DIALOG(message_id=9820*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+730: 0x0F44 [0x24] CREATE_DIALOG(message_id=9822*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Trade in your cinder? (Currently: $0 Pz) [Not now./$1: $2 Pz./$3: $4 Pz./$5: $6 Pz./$7: $8 Pz./$9: $10 Pz./$11: $12 Pz./$13: $14 Pz./$15 gil: $16 Pz.]"
 731: 0x0F4B [0x25] WAIT_DIALOG_SELECT()
 732: 0x0F4C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F5A
@@ -1875,16 +1875,16 @@ SUBROUTINE_1025:
 774: 0x1025 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 0*) GOTO 0x108B
 775: 0x102D [0x02] IF !(ExtData[1]->WorkLocal[33] >= 8*) GOTO 0x103F
 776: 0x1035 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[34])
-777: 0x1038 [0x1D] PRINT_EVENT_MESSAGE(message_id=9821*)
+777: 0x1038 [0x1D] PRINT_EVENT_MESSAGE(message_id=9823*)
     → "This is what you want, correct?"
 778: 0x103B [0x23] WAIT_FOR_DIALOG_INTERACTION
 779: 0x103C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-780: 0x103F [0x24] CREATE_DIALOG(message_id=9822*, default_option=1*, option_flags=0*)
+780: 0x103F [0x24] CREATE_DIALOG(message_id=9824*, default_option=1*, option_flags=0*)
     → "Make the exchange? [Yes./No.]"
 781: 0x1046 [0x25] WAIT_DIALOG_SELECT()
 782: 0x1047 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1080
 783: 0x104F [0x02] IF !(ExtData[1]->WorkLocal[31] < ExtData[1]->WorkLocal[35]) GOTO 0x1076
-784: 0x1057 [0x1D] PRINT_EVENT_MESSAGE(message_id=9824*)
+784: 0x1057 [0x1D] PRINT_EVENT_MESSAGE(message_id=9826*)
     → "Excellent! And this is yours. May it serve you well!"
 785: 0x105A [0x23] WAIT_FOR_DIALOG_INTERACTION
 786: 0x105B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=11*)
@@ -1892,7 +1892,7 @@ SUBROUTINE_1025:
 788: 0x106D [0x06] ExtData[1]->WorkLocal[6] = 0
 789: 0x1070 [0x06] ExtData[1]->WorkLocal[3] = 0
 790: 0x1073 [0x01] GOTO 0x107D
-791: 0x1076 [0x1D] PRINT_EVENT_MESSAGE(message_id=9823*)
+791: 0x1076 [0x1D] PRINT_EVENT_MESSAGE(message_id=9825*)
     → "It would appear that you lack the necessary quantity of cinder for that transaction."
 792: 0x1079 [0x23] WAIT_FOR_DIALOG_INTERACTION
 793: 0x107A [0x06] ExtData[1]->WorkLocal[6] = 0
@@ -1911,298 +1911,298 @@ SUBROUTINE_108B:
 SUBROUTINE_109C:
 801: 0x109C [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x12DB
 802: 0x10A4 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-803: 0x10A5 [0x24] CREATE_DIALOG(message_id=9826*, default_option=0*, option_flags=0*)
+803: 0x10A5 [0x24] CREATE_DIALOG(message_id=9828*, default_option=0*, option_flags=0*)
     → "Ask about what? [Nothing./Synergy furnaces./Synergy overview./Synergy procedure./Synergy recipes./Fewell replenishment./Materials for sale./Synergy techniques./Trading cinder.]"
 804: 0x10AC [0x25] WAIT_DIALOG_SELECT()
 805: 0x10AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10BB
 806: 0x10B5 [0x06] ExtData[1]->WorkLocal[7] = 0
 807: 0x10B8 [0x01] GOTO 0x12D7
 808: 0x10BB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x10DB
-809: 0x10C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9827*)
+809: 0x10C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9829*)
     → "The synergy furnaces you see around town are provided as a public service by the Bastokan Institute of Synergy Research, to ensure that no synergist is ever far away from the tools of their trade."
 810: 0x10C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 811: 0x10C7 [0x03] Work_Zone[2] = 1234*
-812: 0x10CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9945*)
+812: 0x10CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9947*)
     → "The synergist must provide his or her own $3, as well as any materials to be used in the synergy process. Synergy furnaces themselves may be used free of charge."
 813: 0x10CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-814: 0x10D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9829*)
+814: 0x10D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9831*)
     → "Needless to say, only one party may operate any given furnace at once."
 815: 0x10D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-816: 0x10D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9830*)
+816: 0x10D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9832*)
     → "Fortunately, there are multiple furnaces installed throughout town. If the furnace before you is already in use, please seek out an unused one elsewhere, or wait patiently for your turn."
 817: 0x10D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 818: 0x10D8 [0x01] GOTO 0x12D7
 819: 0x10DB [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1146
-820: 0x10E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9831*)
+820: 0x10E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9833*)
     → "You may think of synergy as an evolved form of synthesis. It is a discipline full of heretofore unimagined possibilities, but one which demands consummate skill from its practitioners."
 821: 0x10E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-822: 0x10E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9832*)
+822: 0x10E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9834*)
     → "Like synthesis, synergy involves combining materials according to a prescribed recipe to yield oft-spectacular results. The rub is that each synergy recipe also dictates a certain elemental balance that must be achieved for the procedure to be successful."
 823: 0x10EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-824: 0x10EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9833*)
+824: 0x10EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9835*)
     → "This balance is achieved through skillful infusion of combustible elemental crystals that we synergists call "fewell." To begin the synergy process, you'll have to feed the furnace with fewell and get those flames burning!"
 825: 0x10EE [0x23] WAIT_FOR_DIALOG_INTERACTION
-826: 0x10EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9834*)
+826: 0x10EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9836*)
     → "As a general rule, the more complex the recipe, the more fewell it will require. Take care to check your stock before you fire up the furnace, lest you find its flames guttering out at a crucial moment."
 827: 0x10F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-828: 0x10F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9835*)
+828: 0x10F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9837*)
     → "With the belly of the furnace roaring up a storm, it's time to toss in your materials and start synergizing! Keep a close eye on the balance of elements and deploy fewell as necessary. Approach the prescribed elemental balance, and your item will take form, allowing you to remove it from the furnace."
 829: 0x10F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-830: 0x10F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9836*)
+830: 0x10F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9838*)
     → "The closer you are to the ideal elemental balance, the higher the quality of your finished product will be. In synergy, it pays to be a perfectionist!"
 831: 0x10FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-832: 0x10FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9837*)
+832: 0x10FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9839*)
     → "But be forewarned: these furnaces can only sustain the elemental maelstrom swirling and storming inside them for so long."
 833: 0x10FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-834: 0x10FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9838*)
+834: 0x10FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9840*)
     → "If the furnace's durability should fail, the synergy process will be interrupted, and you will be forced to start anew."
 835: 0x1102 [0x23] WAIT_FOR_DIALOG_INTERACTION
 836: 0x1103 [0x03] Work_Zone[2] = 1234*
-837: 0x1108 [0x1D] PRINT_EVENT_MESSAGE(message_id=9839*)
+837: 0x1108 [0x1D] PRINT_EVENT_MESSAGE(message_id=9841*)
     → "Take heart, though, as any materials inside your $3 will remain intact. You may retrieve them or attempt the synergy process again as you see fit."
 838: 0x110B [0x23] WAIT_FOR_DIALOG_INTERACTION
-839: 0x110C [0x1D] PRINT_EVENT_MESSAGE(message_id=9840*)
+839: 0x110C [0x1D] PRINT_EVENT_MESSAGE(message_id=9842*)
     → "Any fewell consumed in the failed synergy attempt, on the other hand, will be permanently lost."
 840: 0x110F [0x23] WAIT_FOR_DIALOG_INTERACTION
-841: 0x1110 [0x1D] PRINT_EVENT_MESSAGE(message_id=9841*)
+841: 0x1110 [0x1D] PRINT_EVENT_MESSAGE(message_id=9843*)
     → "Synergists must also be wary of debris buildup, an unavoidable side effect of the volatile elemental reactions that take place within the synergy furnace."
 842: 0x1113 [0x23] WAIT_FOR_DIALOG_INTERACTION
-843: 0x1114 [0x1D] PRINT_EVENT_MESSAGE(message_id=9842*)
+843: 0x1114 [0x1D] PRINT_EVENT_MESSAGE(message_id=9844*)
     → "Should too much debris be allowed to accumulate, the contents of the furnace will become unstable, potentially leading to unpleasant explosions and eruptions. Such accidents pose considerable risk to the synergy attempt in progress, as well as the physical well-being of the synergist, so be sure to exercise due caution!"
 844: 0x1117 [0x23] WAIT_FOR_DIALOG_INTERACTION
-845: 0x1118 [0x1D] PRINT_EVENT_MESSAGE(message_id=9843*)
+845: 0x1118 [0x1D] PRINT_EVENT_MESSAGE(message_id=9845*)
     → "You may be asking yourself, "Why, how in the name of Hildolf am I going to oversee all of these complicated procedures and variables by myself?""
 846: 0x111B [0x23] WAIT_FOR_DIALOG_INTERACTION
-847: 0x111C [0x1D] PRINT_EVENT_MESSAGE(message_id=9844*)
+847: 0x111C [0x1D] PRINT_EVENT_MESSAGE(message_id=9846*)
     → "Here's the good news: you don't have to! For you see, synergy furnaces are designed for use by multiple operators."
 848: 0x111F [0x23] WAIT_FOR_DIALOG_INTERACTION
-849: 0x1120 [0x1D] PRINT_EVENT_MESSAGE(message_id=9845*)
+849: 0x1120 [0x1D] PRINT_EVENT_MESSAGE(message_id=9847*)
     → "The more complex the recipe, the greater level of skill and hands-on manipulation it will demand. At such times, it would be in your best interest to seek out like-minded synergists and take on the challenge together."
 850: 0x1123 [0x23] WAIT_FOR_DIALOG_INTERACTION
 851: 0x1124 [0x03] Work_Zone[2] = 2783*
-852: 0x1129 [0x1D] PRINT_EVENT_MESSAGE(message_id=9846*)
+852: 0x1129 [0x1D] PRINT_EVENT_MESSAGE(message_id=9848*)
     → "Finally, it would be remiss of me not to make mention of $0, the curious substance whose properties are only now--with the emergence of synergy--becoming known to us."
 853: 0x112C [0x23] WAIT_FOR_DIALOG_INTERACTION
 854: 0x112D [0x03] Work_Zone[2] = 2783*
-855: 0x1132 [0x1D] PRINT_EVENT_MESSAGE(message_id=9847*)
+855: 0x1132 [0x1D] PRINT_EVENT_MESSAGE(message_id=9849*)
     → "Though there is much yet to be learned, our research has revealed that $0 may be used to bolster your equipment, if attached in a proper manner."
 856: 0x1135 [0x23] WAIT_FOR_DIALOG_INTERACTION
 857: 0x1136 [0x03] Work_Zone[2] = 2783*
-858: 0x113B [0x1D] PRINT_EVENT_MESSAGE(message_id=9848*)
+858: 0x113B [0x1D] PRINT_EVENT_MESSAGE(message_id=9850*)
     → "Mind you, $0 is not easy to come by, and I can offer no clues as to where or how to obtain it. Should you be fortunate enough to come across some in your travels, however, I encourage you to explore its potential."
 859: 0x113E [0x23] WAIT_FOR_DIALOG_INTERACTION
-860: 0x113F [0x1D] PRINT_EVENT_MESSAGE(message_id=9849*)
+860: 0x113F [0x1D] PRINT_EVENT_MESSAGE(message_id=9851*)
     → "Synergy is not a discipline for the faint of heart or mind, but with dedication and cooperation, there are great rewards to be reaped. May your career as a synergist prove fruitful!"
 861: 0x1142 [0x23] WAIT_FOR_DIALOG_INTERACTION
 862: 0x1143 [0x01] GOTO 0x12D7
 863: 0x1146 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x11B2
 864: 0x114E [0x03] Work_Zone[2] = 1234*
-865: 0x1153 [0x1D] PRINT_EVENT_MESSAGE(message_id=9850*)
+865: 0x1153 [0x1D] PRINT_EVENT_MESSAGE(message_id=9852*)
     → "First, you'll be wanting to check your fewell supply. You may do so by speaking with a synergy engineer such as myself, or by examining a synergy furnace."
 866: 0x1156 [0x23] WAIT_FOR_DIALOG_INTERACTION
-867: 0x1157 [0x1D] PRINT_EVENT_MESSAGE(message_id=9851*)
+867: 0x1157 [0x1D] PRINT_EVENT_MESSAGE(message_id=9853*)
     → "You'll be needing at least one unit of fewell for each element dictated by your recipe. Without this, even the most skilled synergist cannot hope to succeed."
 868: 0x115A [0x23] WAIT_FOR_DIALOG_INTERACTION
-869: 0x115B [0x1D] PRINT_EVENT_MESSAGE(message_id=9852*)
+869: 0x115B [0x1D] PRINT_EVENT_MESSAGE(message_id=9854*)
     → "Should your fewell supply be in order, it's time to proceed with the synergy. If you are using one of these public synergy furnaces here, you'll need to examine it and lay claim to its use."
 870: 0x115E [0x23] WAIT_FOR_DIALOG_INTERACTION
-871: 0x115F [0x1D] PRINT_EVENT_MESSAGE(message_id=9853*)
+871: 0x115F [0x1D] PRINT_EVENT_MESSAGE(message_id=9855*)
     → "You may then deposit your ingredients. Should they correspond to a proper recipe, the synergy furnace will fire up automatically. Note that as a safety precaution, the furnace will not activate if the recipe is beyond your level of synergy skill."
 872: 0x1162 [0x23] WAIT_FOR_DIALOG_INTERACTION
-873: 0x1163 [0x1D] PRINT_EVENT_MESSAGE(message_id=9854*)
+873: 0x1163 [0x1D] PRINT_EVENT_MESSAGE(message_id=9856*)
     → "From here, it becomes a race against the clock! Through skilled operation of the synergy furnace, you must achieve the elemental balance prescribed by the recipe before the furnace's durability fails."
 874: 0x1166 [0x23] WAIT_FOR_DIALOG_INTERACTION
-875: 0x1167 [0x1D] PRINT_EVENT_MESSAGE(message_id=9855*)
+875: 0x1167 [0x1D] PRINT_EVENT_MESSAGE(message_id=9857*)
     → "Fortunately, synergy furnaces are outfitted with a wide array of features designed to aid the synergist in this demanding task. First, you'll want to confirm the current balance of elements within the furnace and compare it to your desired result."
 876: 0x116A [0x23] WAIT_FOR_DIALOG_INTERACTION
-877: 0x116B [0x1D] PRINT_EVENT_MESSAGE(message_id=9856*)
+877: 0x116B [0x1D] PRINT_EVENT_MESSAGE(message_id=9858*)
     → "Next, you can begin to feed fewell into the furnace to gradually raise the level of elemental concentration. Feeding fewell into the furnace until the required elemental balance is achieved is the most fundamental operation of synergy."
 878: 0x116E [0x23] WAIT_FOR_DIALOG_INTERACTION
-879: 0x116F [0x1D] PRINT_EVENT_MESSAGE(message_id=9857*)
+879: 0x116F [0x1D] PRINT_EVENT_MESSAGE(message_id=9859*)
     → "However, high concentrations of elemental power can lead to volatile and unpredictable reactions. Simply adding fewell haphazardly without making the necessary adjustments is a recipe for only one thing, and that's disaster."
 880: 0x1172 [0x23] WAIT_FOR_DIALOG_INTERACTION
-881: 0x1173 [0x1D] PRINT_EVENT_MESSAGE(message_id=9858*)
+881: 0x1173 [0x1D] PRINT_EVENT_MESSAGE(message_id=9860*)
     → "If you sense that the furnace is on the verge of elemental overload, you'll want to employ the safety lever and pressure handle to prevent an unfortunate accident from occurring."
 882: 0x1176 [0x23] WAIT_FOR_DIALOG_INTERACTION
-883: 0x1177 [0x1D] PRINT_EVENT_MESSAGE(message_id=9859*)
+883: 0x1177 [0x1D] PRINT_EVENT_MESSAGE(message_id=9861*)
     → "You'll also want to mind the laws of elemental ascendancy and opposition. Increasing the concentration of a particular element will cause its counterpart to decrease."
 884: 0x117A [0x23] WAIT_FOR_DIALOG_INTERACTION
-885: 0x117B [0x1D] PRINT_EVENT_MESSAGE(message_id=9860*)
+885: 0x117B [0x1D] PRINT_EVENT_MESSAGE(message_id=9862*)
     → "The furnace cannot sustain its power indefinitely, and will gradually lose durability as the synergy process continues. You'll need to perform periodic furnace repair should the furnace near its breaking point."
 886: 0x117E [0x23] WAIT_FOR_DIALOG_INTERACTION
-887: 0x117F [0x1D] PRINT_EVENT_MESSAGE(message_id=9861*)
+887: 0x117F [0x1D] PRINT_EVENT_MESSAGE(message_id=9863*)
     → "It is also possible to recycle strewn fewell during synergy. While this will not impact the success or failure of the process itself, it will result in a greater amount of salvageable cinder produced as a by-product."
 888: 0x1182 [0x23] WAIT_FOR_DIALOG_INTERACTION
-889: 0x1183 [0x1D] PRINT_EVENT_MESSAGE(message_id=9862*)
+889: 0x1183 [0x1D] PRINT_EVENT_MESSAGE(message_id=9864*)
     → "This cinder is of great interest to our researchers back at the institute. As such, we have introduced a reward system through which quality samples can be traded in for an assortment of synergy-related wares."
 890: 0x1186 [0x23] WAIT_FOR_DIALOG_INTERACTION
-891: 0x1187 [0x1D] PRINT_EVENT_MESSAGE(message_id=9863*)
+891: 0x1187 [0x1D] PRINT_EVENT_MESSAGE(message_id=9865*)
     → "As marvelous an apparatus as the synergy furnace may be, keep in mind that the technology is still in its infancy, and highly unstable. There may be times when accidents occur despite the best efforts of the synergist."
 892: 0x118A [0x23] WAIT_FOR_DIALOG_INTERACTION
-893: 0x118B [0x1D] PRINT_EVENT_MESSAGE(message_id=9864*)
+893: 0x118B [0x1D] PRINT_EVENT_MESSAGE(message_id=9866*)
     → "For your safety, we recommend stepping as far away from the furnace as possible at the first sign of danger. Some synergists claim that giving the furnace a good thwack is also effective in preventing such accidents, but this is pure madness, if you ask me!"
 894: 0x118E [0x23] WAIT_FOR_DIALOG_INTERACTION
-895: 0x118F [0x1D] PRINT_EVENT_MESSAGE(message_id=9865*)
+895: 0x118F [0x1D] PRINT_EVENT_MESSAGE(message_id=9867*)
     → "You will also find that there are numerous techniques that can be applied to make the synergy procedure go even more smoothly."
 896: 0x1192 [0x23] WAIT_FOR_DIALOG_INTERACTION
-897: 0x1193 [0x1D] PRINT_EVENT_MESSAGE(message_id=9866*)
+897: 0x1193 [0x1D] PRINT_EVENT_MESSAGE(message_id=9868*)
     → "In many cases, expertise and knowledge acquired through crafting will serve you in synergy as well. To truly master synergy, one must master crafting as well."
 898: 0x1196 [0x23] WAIT_FOR_DIALOG_INTERACTION
-899: 0x1197 [0x1D] PRINT_EVENT_MESSAGE(message_id=9867*)
+899: 0x1197 [0x1D] PRINT_EVENT_MESSAGE(message_id=9869*)
     → "Now let us return to the synergy process itself. As your elemental balance approaches that prescribed by the recipe, the furnace will signal you, and you may retrieve your finished product."
 900: 0x119A [0x23] WAIT_FOR_DIALOG_INTERACTION
-901: 0x119B [0x1D] PRINT_EVENT_MESSAGE(message_id=9868*)
+901: 0x119B [0x1D] PRINT_EVENT_MESSAGE(message_id=9870*)
     → "If the furnace is still holding strong at this time, you may choose to keep working to achieve an even closer balance. The closer you come to the ideal balance, the higher the quality of your finished product will be."
 902: 0x119E [0x23] WAIT_FOR_DIALOG_INTERACTION
-903: 0x119F [0x1D] PRINT_EVENT_MESSAGE(message_id=9869*)
+903: 0x119F [0x1D] PRINT_EVENT_MESSAGE(message_id=9871*)
     → "Indeed, many synergy masters consider these waning moments after the signal to be the time to really show off their skills! Why, if they manage to achieve an elemental surge..."
 904: 0x11A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-905: 0x11A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9870*)
+905: 0x11A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9872*)
     → "What's an elemental surge, you ask? Why, it's a miraculous phenomenon that occurs rarely--ever so rarely--upon feeding the furnace fewell."
 906: 0x11A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-907: 0x11A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9871*)
+907: 0x11A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9873*)
     → "The elements react just in the right way, creating a miraculous reaction that brings the level of elemental concentration to exactly the desired level. Truly a boon from the Goddess for any synergist, no?"
 908: 0x11AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-909: 0x11AB [0x1D] PRINT_EVENT_MESSAGE(message_id=9872*)
+909: 0x11AB [0x1D] PRINT_EVENT_MESSAGE(message_id=9874*)
     → "...And that is the synergy process in a nutshell. There's quite a bit of information to take in, so don't hesitate to return any time for a refresher course."
 910: 0x11AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 911: 0x11AF [0x01] GOTO 0x12D7
 912: 0x11B2 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1232
-913: 0x11BA [0x1D] PRINT_EVENT_MESSAGE(message_id=9873*)
+913: 0x11BA [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
     → "Much like synthesis, to fashion items through synergy, you will need to follow a recipe. We synergy engineers are always unearthing new recipes, and are happy to share with you those suitable for your level of skill."
 914: 0x11BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-915: 0x11BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9874*)
+915: 0x11BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9876*)
     → "Unlike synthesis, however, a synergy recipe is more than just a list of ingredients. There is also a required elemental balance that must be attained to achieve your desired result."
 916: 0x11C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-917: 0x11C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
+917: 0x11C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9877*)
     → "Simple recipes involve only small doses of a limited number of elements, but more complex ones require the synergist to skillfully juggle wide ranges of elements in extremely high concentrations."
 918: 0x11C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-919: 0x11C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9876*)
+919: 0x11C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9878*)
     → "The ingredients, you will have to remember on your own. The required elemental balance, however, may be reviewed at any time during the synergy process by observing the readings on the synergy furnace."
 920: 0x11C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 921: 0x11CA [0x03] Work_Zone[2] = 2783*
-922: 0x11CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9877*)
+922: 0x11CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9879*)
     → "In particular, recipes through which the curious substance known as $0 can be attached to equipment are creating quite a buzz among synergistically inclined adventurers these days."
 923: 0x11D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 924: 0x11D3 [0x03] Work_Zone[2] = 2783*
-925: 0x11D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9878*)
+925: 0x11D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9880*)
     → "# cannot be attached directly. First, equipment must be prepared by etching an aperture into which an elementally compatible piece of $0 can then be embedded."
 926: 0x11DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-927: 0x11DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9879*)
+927: 0x11DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9881*)
     → "The type of aperture that may be etched will depend on the piece of equipment. There are also pieces of equipment that, alas, may not be modified at all."
 928: 0x11DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-929: 0x11E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9880*)
+929: 0x11E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9882*)
     → "If you are curious what manner of aperture may be etched into a particular piece of equipment, you need only trade it to me or one of my colleagues."
 930: 0x11E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-931: 0x11E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9881*)
+931: 0x11E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9883*)
     → "As a general rule, the higher the level of the item in question, the more difficult the synergy process for creating an aperture will be."
 932: 0x11E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-933: 0x11E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9882*)
+933: 0x11E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9884*)
     → "You will find that certain pieces of equipment may be etched with multiple apertures. It is, however, only possible to create one aperture at a time."
 934: 0x11EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 935: 0x11EC [0x03] Work_Zone[2] = 2803*
-936: 0x11F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9883*)
+936: 0x11F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9885*)
     → "Etching requires the use of a corrosive substance we call mordant. Deposit mordant into a synergy furnace along with your equipment, and the process will begin."
 937: 0x11F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 938: 0x11F5 [0x03] Work_Zone[2] = 2803*
-939: 0x11FA [0x1D] PRINT_EVENT_MESSAGE(message_id=9884*)
+939: 0x11FA [0x1D] PRINT_EVENT_MESSAGE(message_id=9886*)
     → "My colleagues and I have a stock of mordant available for sale. The best way to learn is to practice, so if you're curious, we encourage you to purchase some and begin experimenting!"
 940: 0x11FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 941: 0x11FE [0x03] Work_Zone[2] = 2783*
-942: 0x1203 [0x1D] PRINT_EVENT_MESSAGE(message_id=9885*)
+942: 0x1203 [0x1D] PRINT_EVENT_MESSAGE(message_id=9887*)
     → "The difficulty of the synergy process when embedding evolith is decided by a number of factors."
 943: 0x1206 [0x23] WAIT_FOR_DIALOG_INTERACTION
 944: 0x1207 [0x03] Work_Zone[2] = 2783*
-945: 0x120C [0x1D] PRINT_EVENT_MESSAGE(message_id=9886*)
+945: 0x120C [0x1D] PRINT_EVENT_MESSAGE(message_id=9888*)
     → "Such factors include the variety of aperture and evolith, as well as the quantity of evolith you seek to attach. Embedding the first piece is not too difficult a task, but the second and third pieces will not go in so easily."
 946: 0x120F [0x23] WAIT_FOR_DIALOG_INTERACTION
 947: 0x1210 [0x03] Work_Zone[2] = 2783*
-948: 0x1215 [0x1D] PRINT_EVENT_MESSAGE(message_id=9887*)
+948: 0x1215 [0x1D] PRINT_EVENT_MESSAGE(message_id=9889*)
     → "To begin the embedding process, deposit your evolith into the synergy furnace along with a piece of equipment with a compatible aperture."
 949: 0x1218 [0x23] WAIT_FOR_DIALOG_INTERACTION
-950: 0x1219 [0x1D] PRINT_EVENT_MESSAGE(message_id=9888*)
+950: 0x1219 [0x1D] PRINT_EVENT_MESSAGE(message_id=9890*)
     → "When etching or embedding, the required elemental balance may be confirmed at any time during the synergy process, so let this be your guide."
 951: 0x121C [0x23] WAIT_FOR_DIALOG_INTERACTION
 952: 0x121D [0x03] Work_Zone[2] = 2783*
 953: 0x1222 [0x03] Work_Zone[3] = 2800*
-954: 0x1227 [0x1D] PRINT_EVENT_MESSAGE(message_id=9889*)
+954: 0x1227 [0x1D] PRINT_EVENT_MESSAGE(message_id=9891*)
     → "Should you ever wish to remove any apertures and embedded evolith from a piece of equipment entirely, you may do so with an ingredient we call revertant."
 955: 0x122A [0x23] WAIT_FOR_DIALOG_INTERACTION
-956: 0x122B [0x1D] PRINT_EVENT_MESSAGE(message_id=9890*)
+956: 0x122B [0x1D] PRINT_EVENT_MESSAGE(message_id=9892*)
     → "Toss the revertant in a synergy furnace along with your equipment, and its potent powers will restore your item to a pure and pristine state! Be warned, however, that embedded evolith will be lost forever in the process."
 957: 0x122E [0x23] WAIT_FOR_DIALOG_INTERACTION
 958: 0x122F [0x01] GOTO 0x12D7
 959: 0x1232 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1260
-960: 0x123A [0x1D] PRINT_EVENT_MESSAGE(message_id=9891*)
+960: 0x123A [0x1D] PRINT_EVENT_MESSAGE(message_id=9893*)
     → "As you are no doubt already aware, synergy makes use of a highly combustible form of elemental crystals that we call "fewell." The more complex the recipe, the greater the quantity of fewell required."
 961: 0x123D [0x23] WAIT_FOR_DIALOG_INTERACTION
 962: 0x123E [0x03] Work_Zone[2] = 1234*
-963: 0x1243 [0x1D] PRINT_EVENT_MESSAGE(message_id=9892*)
+963: 0x1243 [0x1D] PRINT_EVENT_MESSAGE(message_id=9894*)
     → "Veteran synergists know well the hassle of having to constantly monitor their fewell supply and procure crystals to replenish depleted stock."
 964: 0x1246 [0x23] WAIT_FOR_DIALOG_INTERACTION
 965: 0x1247 [0x03] Work_Zone[2] = 1234*
-966: 0x124C [0x1D] PRINT_EVENT_MESSAGE(message_id=9893*)
+966: 0x124C [0x1D] PRINT_EVENT_MESSAGE(message_id=9895*)
     → "To free you of such trifling burdens and allow you to focus your mind entirely on your art, we synergy engineers are offering a convenient fewell replenishment service!"
 967: 0x124F [0x23] WAIT_FOR_DIALOG_INTERACTION
-968: 0x1250 [0x1D] PRINT_EVENT_MESSAGE(message_id=9894*)
+968: 0x1250 [0x1D] PRINT_EVENT_MESSAGE(message_id=9896*)
     → "For a nominal fee calculated based upon the current state of your fewell reserves, we will instantly refill you to full capacity."
 969: 0x1253 [0x23] WAIT_FOR_DIALOG_INTERACTION
 970: 0x1254 [0x03] Work_Zone[2] = 1234*
-971: 0x1259 [0x1D] PRINT_EVENT_MESSAGE(message_id=9895*)
+971: 0x1259 [0x1D] PRINT_EVENT_MESSAGE(message_id=9897*)
     → "That's right--all elements in one simple transaction, directly to your $3! What could be easier?"
 972: 0x125C [0x23] WAIT_FOR_DIALOG_INTERACTION
 973: 0x125D [0x01] GOTO 0x12D7
 974: 0x1260 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1299
 975: 0x1268 [0x03] Work_Zone[2] = 2783*
 976: 0x126D [0x03] Work_Zone[3] = 2803*
-977: 0x1272 [0x1D] PRINT_EVENT_MESSAGE(message_id=9896*)
+977: 0x1272 [0x1D] PRINT_EVENT_MESSAGE(message_id=9898*)
     → "Looking to fire up your furnace and enter the world of $0? If so, you've come to the right place!"
 978: 0x1275 [0x23] WAIT_FOR_DIALOG_INTERACTION
 979: 0x1276 [0x03] Work_Zone[2] = 2803*
-980: 0x127B [0x1D] PRINT_EVENT_MESSAGE(message_id=9897*)
+980: 0x127B [0x1D] PRINT_EVENT_MESSAGE(message_id=9899*)
     → "We're proud to offer a supply of the corrosive agent known as mordant for sale. With this, synergy newcomers can hone their skills and outfit their equipment with evolith-capable apertures in the process."
 981: 0x127E [0x23] WAIT_FOR_DIALOG_INTERACTION
 982: 0x127F [0x03] Work_Zone[2] = 2803*
-983: 0x1284 [0x1D] PRINT_EVENT_MESSAGE(message_id=9898*)
+983: 0x1284 [0x1D] PRINT_EVENT_MESSAGE(message_id=9900*)
     → "Mind you, our stock is limited to only the most diluted, readily produced form of the stuff. You'll find that it only has the strength to etch items of relatively low level."
 984: 0x1287 [0x23] WAIT_FOR_DIALOG_INTERACTION
 985: 0x1288 [0x03] Work_Zone[2] = 2804*
 986: 0x128D [0x03] Work_Zone[3] = 2805*
-987: 0x1292 [0x1D] PRINT_EVENT_MESSAGE(message_id=9899*)
+987: 0x1292 [0x1D] PRINT_EVENT_MESSAGE(message_id=9901*)
     → "Etching high-powered equipment requires the use of more concentrated and potent forms of mordant. As quantities are limited, we can offer these only in exchange for cinder."
 988: 0x1295 [0x23] WAIT_FOR_DIALOG_INTERACTION
 989: 0x1296 [0x01] GOTO 0x12D7
 990: 0x1299 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x12BC
-991: 0x12A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9900*)
+991: 0x12A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9902*)
     → "Ah, synergy techniques! Those handy tricks of the trade that can mean the difference between a shiny new item and a major furnace meltdown."
 992: 0x12A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-993: 0x12A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9901*)
+993: 0x12A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9903*)
     → "My colleagues and I are always eager to train fellow synergists in a wide range of techniques. We can't do it all, though--you'll need to hone your synergy skill in order to benefit from our instruction."
 994: 0x12A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-995: 0x12A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9902*)
+995: 0x12A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9904*)
     → "Bear in mind that certain techniques can only be imparted to students possessing specialized crafting knowledge. For example, only skilled smiths will be able to comprehend the method for more efficient fewell feeding."
 996: 0x12AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-997: 0x12AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9903*)
+997: 0x12AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9905*)
     → "Accomplished goldsmiths will be able to observe the inner workings of the furnace and stave off potential accidents. You will find that all crafting skills--even those you may not expect--may be applied in some way to support the synergy process."
 998: 0x12B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-999: 0x12B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9904*)
+999: 0x12B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9906*)
     → "Word has it that there are also pieces of equipment that can impart hidden synergy techniques to the wearer. These, too, are said to be only accessible to skilled crafters."
 1000: 0x12B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1001: 0x12B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9905*)
+1001: 0x12B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9907*)
     → "The moral of the story is this: while synergy skill is important, neglect not your other crafting skills. To become a true synergy master, finding the proper balance is key."
 1002: 0x12B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1003: 0x12B9 [0x01] GOTO 0x12D7
 1004: 0x12BC [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x12D7
-1005: 0x12C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9906*)
+1005: 0x12C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9908*)
     → "Synergy remains a young discipline, and researchers back at the institute are burning the midnight fewell in the hopes of uncovering the next breakthrough in our field."
 1006: 0x12C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1007: 0x12C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9907*)
+1007: 0x12C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
     → "Research of late is centered around the cinder that is left behind as a by-product of each synergy operation. Their composition, it would seem, has much to teach us of the true nature of the complex elemental reactions that go on within the bellies of these furnaces."
 1008: 0x12CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-1009: 0x12CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9908*)
+1009: 0x12CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
     → "We've even instituted a reward program for adventurers willing to contribute prime samples in the name of science."
 1010: 0x12CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-1011: 0x12D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
+1011: 0x12D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9911*)
     → "It would be no exaggeration to say that, to us, cinder is worth more than its weight in gold! Bring it to me or my colleagues--preferably in large quantities--and you're sure to be pleased at what we can offer you in return."
 1012: 0x12D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1013: 0x12D4 [0x01] GOTO 0x12D7
@@ -2218,10 +2218,10 @@ SUBROUTINE_12DE:
 1019: 0x12E4 [0x03] ExtData[1]->WorkLocal[77] = Work_Zone[7]
 1020: 0x12E9 [0x03] ExtData[1]->WorkLocal[78] = Work_Zone[8]
 1021: 0x12EE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-1022: 0x12F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
+1022: 0x12F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9912*)
     → "Wondering if your $0 can be outfitted with evolith, are you? Well, you've come to the right place!"
 1023: 0x12F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1024: 0x12F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9911*)
+1024: 0x12F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9913*)
     → "A quick look at its composition should tell us all we need to know. Let's see here..."
 1025: 0x12FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 1026: 0x12FB [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[4]
@@ -2283,7 +2283,7 @@ SUBROUTINE_12DE:
 1082: 0x1432 [0x01] GOTO 0x1435
 
 SUBROUTINE_1435:
-1083: 0x1435 [0x1D] PRINT_EVENT_MESSAGE(message_id=9912*)
+1083: 0x1435 [0x1D] PRINT_EVENT_MESSAGE(message_id=9914*)
     → "Congratulations! Your $0 can indeed hold [an/another] evolith aperture. A $2-shaped aperture, to be exact..."
 1084: 0x1438 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1085: 0x1439 [0x41] ExtData[1]->WorkLocal[75] = ExtData[1]->WorkLocal[77] (bits 4*-11*)
@@ -2386,12 +2386,12 @@ SUBROUTINE_14FF:
 1166: 0x15C6 [0x03] ExtData[1]->WorkLocal[76] = ExtData[1]->WorkLocal[73]
 1167: 0x15CB [0x0B] ExtData[1]->WorkLocal[76]++
 1168: 0x15CE [0x1A] CALL_SUBROUTINE(address=0x19BC)
-1169: 0x15D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9917*)
+1169: 0x15D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9919*)
     → "That is all. Should you wish to have any other pieces of equipment analyzed, you know where to find us."
 1170: 0x15D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1171: 0x15D5 [0x01] GOTO 0x15E1
 1172: 0x15D8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-1173: 0x15DD [0x1D] PRINT_EVENT_MESSAGE(message_id=9918*)
+1173: 0x15DD [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
     → "Hmm... I'm afraid your $0 cannot house any more apertures."
 1174: 0x15E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2399,13 +2399,13 @@ SUBROUTINE_15E1:
 1175: 0x15E1 [0x01] GOTO 0x160C
 1176: 0x15E4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x15F8
 1177: 0x15EC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-1178: 0x15F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
+1178: 0x15F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9922*)
     → "Hmm, what's this? It would seem that your $0 cannot be etched at this time."
 1179: 0x15F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1180: 0x15F5 [0x01] GOTO 0x160C
 1181: 0x15F8 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x160C
 1182: 0x1600 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-1183: 0x1605 [0x1D] PRINT_EVENT_MESSAGE(message_id=9919*)
+1183: 0x1605 [0x1D] PRINT_EVENT_MESSAGE(message_id=9921*)
     → "...Alas. It's a shame, but it appears your $0 cannot be etched."
 1184: 0x1608 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1185: 0x1609 [0x01] GOTO 0x160C
@@ -2653,36 +2653,36 @@ SUBROUTINE_1A74:
 1401: 0x1A74 [0x0B] ExtData[1]->WorkLocal[0]++
 1402: 0x1A77 [0x02] IF !(ExtData[1]->WorkLocal[74] == 1*) GOTO 0x1A8E
 1403: 0x1A7F [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[74]) GOTO 0x1A8B
-1404: 0x1A87 [0x48] [System] [9913*]:
+1404: 0x1A87 [0x48] [System] [9915*]:
     → "...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&]."
 1405: 0x1A8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1406: 0x1A8B [0x01] GOTO 0x1B6B
 1407: 0x1A8E [0x02] IF !(ExtData[1]->WorkLocal[74] == 2*) GOTO 0x1AA5
 1408: 0x1A96 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[74]) GOTO 0x1AA2
-1409: 0x1A9E [0x48] [System] [9914*]:
+1409: 0x1A9E [0x48] [System] [9916*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1410: 0x1AA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1411: 0x1AA2 [0x01] GOTO 0x1B6B
 1412: 0x1AA5 [0x02] IF !(ExtData[1]->WorkLocal[74] == 3*) GOTO 0x1ABC
 1413: 0x1AAD [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[74]) GOTO 0x1AB9
-1414: 0x1AB5 [0x48] [System] [9915*]:
+1414: 0x1AB5 [0x48] [System] [9917*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1415: 0x1AB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1416: 0x1AB9 [0x01] GOTO 0x1B6B
 1417: 0x1ABC [0x02] IF !(ExtData[1]->WorkLocal[74] == 4*) GOTO 0x1AD3
 1418: 0x1AC4 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[74]) GOTO 0x1AD0
-1419: 0x1ACC [0x48] [System] [9916*]:
+1419: 0x1ACC [0x48] [System] [9918*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1420: 0x1ACF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1421: 0x1AD0 [0x01] GOTO 0x1B6B
 1422: 0x1AD3 [0x02] IF !(ExtData[1]->WorkLocal[74] == 5*) GOTO 0x1AF9
 1423: 0x1ADB [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[74]) GOTO 0x1AEA
-1424: 0x1AE3 [0x48] [System] [9913*]:
+1424: 0x1AE3 [0x48] [System] [9915*]:
     → "...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&]."
 1425: 0x1AE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1426: 0x1AE7 [0x01] GOTO 0x1AF6
 1427: 0x1AEA [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x1AF6
-1428: 0x1AF2 [0x48] [System] [9916*]:
+1428: 0x1AF2 [0x48] [System] [9918*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1429: 0x1AF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2690,12 +2690,12 @@ SUBROUTINE_1AF6:
 1430: 0x1AF6 [0x01] GOTO 0x1B6B
 1431: 0x1AF9 [0x02] IF !(ExtData[1]->WorkLocal[74] == 6*) GOTO 0x1B1F
 1432: 0x1B01 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[74]) GOTO 0x1B10
-1433: 0x1B09 [0x48] [System] [9914*]:
+1433: 0x1B09 [0x48] [System] [9916*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1434: 0x1B0C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1435: 0x1B0D [0x01] GOTO 0x1B1C
 1436: 0x1B10 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x1B1C
-1437: 0x1B18 [0x48] [System] [9916*]:
+1437: 0x1B18 [0x48] [System] [9918*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1438: 0x1B1B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2703,12 +2703,12 @@ SUBROUTINE_1B1C:
 1439: 0x1B1C [0x01] GOTO 0x1B6B
 1440: 0x1B1F [0x02] IF !(ExtData[1]->WorkLocal[74] == 7*) GOTO 0x1B45
 1441: 0x1B27 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[74]) GOTO 0x1B36
-1442: 0x1B2F [0x48] [System] [9915*]:
+1442: 0x1B2F [0x48] [System] [9917*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1443: 0x1B32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1444: 0x1B33 [0x01] GOTO 0x1B42
 1445: 0x1B36 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x1B42
-1446: 0x1B3E [0x48] [System] [9916*]:
+1446: 0x1B3E [0x48] [System] [9918*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1447: 0x1B41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2716,12 +2716,12 @@ SUBROUTINE_1B42:
 1448: 0x1B42 [0x01] GOTO 0x1B6B
 1449: 0x1B45 [0x02] IF !(ExtData[1]->WorkLocal[74] == 8*) GOTO 0x1B6B
 1450: 0x1B4D [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[74]) GOTO 0x1B5C
-1451: 0x1B55 [0x48] [System] [9916*]:
+1451: 0x1B55 [0x48] [System] [9918*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1452: 0x1B58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1453: 0x1B59 [0x01] GOTO 0x1B68
 1454: 0x1B5C [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x1B68
-1455: 0x1B64 [0x48] [System] [9916*]:
+1455: 0x1B64 [0x48] [System] [9918*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
 1456: 0x1B67 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

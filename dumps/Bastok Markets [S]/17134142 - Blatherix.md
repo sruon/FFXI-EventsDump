@@ -34,28 +34,28 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x3117      |       12567 |
+|       1 | 0x3119      |       12569 |
 |       2 | 0x00D7      |         215 |
 |       3 | 0x1388      |        5000 |
 |       4 | 0x118F      |        4495 |
-|       5 | 0x311A      |       12570 |
+|       5 | 0x311C      |       12572 |
 |       6 | 0x03C1      |         961 |
-|       7 | 0x311E      |       12574 |
-|       8 | 0x311F      |       12575 |
+|       7 | 0x3120      |       12576 |
+|       8 | 0x3121      |       12577 |
 |       9 | 0x03E8      |        1000 |
-|      10 | 0x3120      |       12576 |
-|      11 | 0x31CB      |       12747 |
-|      12 | 0x31CC      |       12748 |
-|      13 | 0x31CD      |       12749 |
+|      10 | 0x3122      |       12578 |
+|      11 | 0x31CD      |       12749 |
+|      12 | 0x31CE      |       12750 |
+|      13 | 0x31CF      |       12751 |
 |      14 | 0x09EE      |        2542 |
 |      15 | 0x11BF      |        4543 |
 |      16 | 0x04D9      |        1241 |
-|      17 | 0x3384      |       13188 |
-|      18 | 0x3385      |       13189 |
-|      19 | 0x3388      |       13192 |
-|      20 | 0x3389      |       13193 |
-|      21 | 0x338A      |       13194 |
-|      22 | 0x338B      |       13195 |
+|      17 | 0x3386      |       13190 |
+|      18 | 0x3387      |       13191 |
+|      19 | 0x338A      |       13194 |
+|      20 | 0x338B      |       13195 |
+|      21 | 0x338C      |       13196 |
+|      22 | 0x338D      |       13197 |
 |      23 | 0x00C9      |         201 |
 |      24 | 0x0000      |           0 |
 |      25 | 0xFFFB36C0  |  4294653632 |
@@ -64,15 +64,15 @@
 
 ## String References
 
-- **12747**: Ain't you the assistant detective working with the Mythril Musketeers?
-- **12748**: They're important customers of mine. Which means, now so are you...and I like to keep my customers happy.
-- **12749**: I got all sortsa junk and gossip to trade. Keep me in mind next time you're in town.
-- **13188**: You bring me $0, $1, and $2, and I'll cook you up a dose of Goblin Dust. Get it? Got it? Good!
-- **13189**: Headin' to the Mythril Musketeers' headquarters soon? Driftlix, or Limpears, as he's known in our circle, is ready when you are.
-- **13192**: Oh, it's you. What's that? You wanna thank Limpears?
-- **13193**: Sorry, but you just missed him. He left here just a minute ago, skippin' along and whistlin' an old Gobbie tune. I haven't seen him so cheerful since his boss died and the business went under.
-- **13194**: It's all thanks to the stable flow of work he's found with the Mythril Musketeers. Now that his future's secured, he can focus on the more important stuff in life, like family.
-- **13195**: Seein' him happy puts a smile on my face. I know you can't see it, but I guarantee it's there. Anyway, here's a little somethin' for you, so you can share in on our delight.
+- **12749**: Ain't you the assistant detective working with the Mythril Musketeers?
+- **12750**: They're important customers of mine. Which means, now so are you...and I like to keep my customers happy.
+- **12751**: I got all sortsa junk and gossip to trade. Keep me in mind next time you're in town.
+- **13190**: You bring me $0, $1, and $2, and I'll cook you up a dose of Goblin Dust. Get it? Got it? Good!
+- **13191**: Headin' to the Mythril Musketeers' headquarters soon? Driftlix, or Limpears, as he's known in our circle, is ready when you are.
+- **13194**: Oh, it's you. What's that? You wanna thank Limpears?
+- **13195**: Sorry, but you just missed him. He left here just a minute ago, skippin' along and whistlin' an old Gobbie tune. I haven't seen him so cheerful since his boss died and the business went under.
+- **13196**: It's all thanks to the stable flow of work he's found with the Mythril Musketeers. Now that his future's secured, he can focus on the more important stuff in life, like family.
+- **13197**: Seein' him happy puts a smile on my face. I know you can't see it, but I guarantee it's there. Anyway, here's a little somethin' for you, so you can share in on our delight.
 
 ## Events
 
@@ -120,7 +120,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
-  2: 0x0009 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12567*]:
+  2: 0x0009 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12569*]:
     → "I'm a trader. You got anythin' to trade?"
   3: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0011 [0x21] END_EVENT
@@ -175,7 +175,7 @@
   2: 0x001C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Blatherix (ID: 17134142/0x0105723E), Blatherix (ID: 17134142/0x0105723E)], work=215*
   3: 0x002B [0x03] Work_Zone[2] = 5000*
   4: 0x0030 [0x03] Work_Zone[3] = 4495*
-  5: 0x0035 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12570*]:
+  5: 0x0035 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12572*]:
     → "A Quadav mine in the Pashhow Marshlands? Bring me 30 $1 or $0 gil, and you bought yourself the information you want."
   6: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x003D [0x21] END_EVENT
@@ -229,7 +229,7 @@
   1: 0x0045 [0x1C] WAIT(30* ticks)
   2: 0x0048 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Blatherix (ID: 17134142/0x0105723E), Blatherix (ID: 17134142/0x0105723E)], work=215*
   3: 0x0057 [0x03] Work_Zone[2] = 961*
-  4: 0x005C [0x2B] Blatherix (ID: 17134142/0x0105723E) [12574*]:
+  4: 0x005C [0x2B] Blatherix (ID: 17134142/0x0105723E) [12576*]:
     → "There's an entrance to a mine shaft in the Pashhow Marshlands. You'll need $6 to open the door."
   5: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0064 [0x21] END_EVENT
@@ -262,13 +262,13 @@
   1: 0x0067 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x006C [0x1C] WAIT(30* ticks)
   3: 0x006F [0x03] Work_Zone[2] = 961*
-  4: 0x0074 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12575*]:
+  4: 0x0074 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12577*]:
     → "You need another $3?"
   5: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x007C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Blatherix (ID: 17134142/0x0105723E), Blatherix (ID: 17134142/0x0105723E)], work=215*
   7: 0x008B [0x03] Work_Zone[2] = 1000*
   8: 0x0090 [0x03] Work_Zone[3] = 4495*
-  9: 0x0095 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12576*]:
+  9: 0x0095 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12578*]:
     → "No freebies this time. Trade me 10 $1 or $0 gil, you got a deal."
  10: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x009D [0x21] END_EVENT
@@ -302,7 +302,7 @@
   2: 0x00A7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Blatherix (ID: 17134142/0x0105723E), Blatherix (ID: 17134142/0x0105723E)], work=215*
   3: 0x00B6 [0x03] Work_Zone[2] = 1000*
   4: 0x00BB [0x03] Work_Zone[3] = 4495*
-  5: 0x00C0 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12576*]:
+  5: 0x00C0 [0x2B] Blatherix (ID: 17134142/0x0105723E) [12578*]:
     → "No freebies this time. Trade me 10 $1 or $0 gil, you got a deal."
   6: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00C8 [0x21] END_EVENT
@@ -332,11 +332,11 @@
 ```
   0: 0x00CA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00CF [0x1C] WAIT(30* ticks)
-  2: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12747*)
+  2: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12749*)
     → "Ain't you the assistant detective working with the Mythril Musketeers?"
   3: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00D6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Blatherix (ID: 17134142/0x0105723E), Blatherix (ID: 17134142/0x0105723E)], work=215*
-  5: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12748*)
+  5: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12750*)
     → "They're important customers of mine. Which means, now so are you...and I like to keep my customers happy."
   6: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00E9 [0x21] END_EVENT
@@ -365,7 +365,7 @@
 ```
   0: 0x00EB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00F0 [0x1C] WAIT(30* ticks)
-  2: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12749*)
+  2: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12751*)
     → "I got all sortsa junk and gossip to trade. Keep me in mind next time you're in town."
   3: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00F7 [0x21] END_EVENT
@@ -398,7 +398,7 @@
   2: 0x0101 [0x03] Work_Zone[2] = 2542*
   3: 0x0106 [0x03] Work_Zone[3] = 4543*
   4: 0x010B [0x03] Work_Zone[4] = 1241*
-  5: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=13188*)
+  5: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=13190*)
     → "You bring me $0, $1, and $2, and I'll cook you up a dose of Goblin Dust. Get it? Got it? Good!"
   6: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0114 [0x21] END_EVENT
@@ -427,7 +427,7 @@
 ```
   0: 0x0116 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x011B [0x1C] WAIT(30* ticks)
-  2: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=13189*)
+  2: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=13191*)
     → "Headin' to the Mythril Musketeers' headquarters soon? Driftlix, or Limpears, as he's known in our circle, is ready when you are."
   3: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0122 [0x21] END_EVENT
@@ -461,19 +461,19 @@
   0: 0x0124 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0125 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x012A [0x1C] WAIT(30* ticks)
-  3: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=13192*)
+  3: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=13194*)
     → "Oh, it's you. What's that? You wanna thank Limpears?"
   4: 0x0130 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0131 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Blatherix (ID: 17134142/0x0105723E), Blatherix (ID: 17134142/0x0105723E)], work=215*
-  6: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=13193*)
+  6: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=13195*)
     → "Sorry, but you just missed him. He left here just a minute ago, skippin' along and whistlin' an old Gobbie tune. I haven't seen him so cheerful since his boss died and the business went under."
   7: 0x0143 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=13194*)
+  8: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=13196*)
     → "It's all thanks to the stable flow of work he's found with the Mythril Musketeers. Now that his future's secured, he can focus on the more important stuff in life, like family."
   9: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0148 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Blatherix (ID: 17134142/0x0105723E), Blatherix (ID: 17134142/0x0105723E)], work=215*
  11: 0x0157 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Blatherix (ID: 17134142/0x0105723E), Blatherix (ID: 17134142/0x0105723E)], work=215*
- 12: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=13195*)
+ 12: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=13197*)
     → "Seein' him happy puts a smile on my face. I know you can't see it, but I guarantee it's there. Anyway, here's a little somethin' for you, so you can share in on our delight."
  13: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x016A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

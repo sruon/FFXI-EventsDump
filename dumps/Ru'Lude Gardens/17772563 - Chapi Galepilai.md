@@ -25,29 +25,29 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003B      |          59 |
-|       1 | 0x2B49      |       11081 |
-|       2 | 0x2B4A      |       11082 |
-|       3 | 0x2B50      |       11088 |
-|       4 | 0x2B51      |       11089 |
-|       5 | 0x2B52      |       11090 |
-|       6 | 0x2B5C      |       11100 |
-|       7 | 0x2B5D      |       11101 |
-|       8 | 0x27DA      |       10202 |
-|       9 | 0x27DB      |       10203 |
-|      10 | 0x27DC      |       10204 |
+|       1 | 0x2B4B      |       11083 |
+|       2 | 0x2B4C      |       11084 |
+|       3 | 0x2B52      |       11090 |
+|       4 | 0x2B53      |       11091 |
+|       5 | 0x2B54      |       11092 |
+|       6 | 0x2B5E      |       11102 |
+|       7 | 0x2B5F      |       11103 |
+|       8 | 0x27DC      |       10204 |
+|       9 | 0x27DD      |       10205 |
+|      10 | 0x27DE      |       10206 |
 
 ## String References
 
-- **10202**: Lords Kam'lanaut and Eald'narche rarely make public appearances.
-- **10203**: And you need a special permit just to have an audience with them.
-- **10204**: Both have kept their youth through all these years. Perhaps some otherworldly power watches over them. Great prophets like them are few indeed!
-- **11081**: You want to know about the hooded officials in black robes that sometimes appear in the courtyard?
-- **11082**: They are all members of the Armathrwn Society--scientists working for the Duchy. I have heard that there are even quite a few female members.
-- **11088**: Have you seen a strange-looking boy or girl running about the gardens?
-- **11089**: If you have, inform one of the Ducal Guards. There are currently warrrrants out for both of their arrrrests.
-- **11090**: Their capture is crucial to the safety of not just Jeuno, but of all Vana'diel. You and your fellow adventurers' assistance in the matter is greatly appreciated.
-- **11100**: If you have any information on the whereabouts of the girl the Duchy was searching for, I am sorry, but the warrant for her arrest has been dropped.
-- **11101**: The Ducal Guard recently received news of her death...
+- **10204**: Lords Kam'lanaut and Eald'narche rarely make public appearances.
+- **10205**: And you need a special permit just to have an audience with them.
+- **10206**: Both have kept their youth through all these years. Perhaps some otherworldly power watches over them. Great prophets like them are few indeed!
+- **11083**: You want to know about the hooded officials in black robes that sometimes appear in the courtyard?
+- **11084**: They are all members of the Armathrwn Society--scientists working for the Duchy. I have heard that there are even quite a few female members.
+- **11090**: Have you seen a strange-looking boy or girl running about the gardens?
+- **11091**: If you have, inform one of the Ducal Guards. There are currently warrrrants out for both of their arrrrests.
+- **11092**: Their capture is crucial to the safety of not just Jeuno, but of all Vana'diel. You and your fellow adventurers' assistance in the matter is greatly appreciated.
+- **11102**: If you have any information on the whereabouts of the girl the Duchy was searching for, I am sorry, but the warrant for her arrest has been dropped.
+- **11103**: The Ducal Guard recently received news of her death...
 
 ## Events
 
@@ -99,10 +99,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11081*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11083*)
     → "You want to know about the hooded officials in black robes that sometimes appear in the courtyard?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=11082*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=11084*)
     → "They are all members of the Armathrwn Society--scientists working for the Duchy. I have heard that there are even quite a few female members."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -138,13 +138,13 @@
   1: 0x0042 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0043 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0044 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=11088*)
+  4: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=11090*)
     → "Have you seen a strange-looking boy or girl running about the gardens?"
   5: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=11089*)
+  6: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=11091*)
     → "If you have, inform one of the Ducal Guards. There are currently warrrrants out for both of their arrrrests."
   7: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=11090*)
+  8: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=11092*)
     → "Their capture is crucial to the safety of not just Jeuno, but of all Vana'diel. You and your fellow adventurers' assistance in the matter is greatly appreciated."
   9: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x005F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -180,10 +180,10 @@
   1: 0x0082 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0083 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=11100*)
+  4: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=11102*)
     → "If you have any information on the whereabouts of the girl the Duchy was searching for, I am sorry, but the warrant for her arrest has been dropped."
   5: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=11101*)
+  6: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=11103*)
     → "The Ducal Guard recently received news of her death..."
   7: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x009B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -219,13 +219,13 @@
   1: 0x00BE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x00C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10202*)
+  4: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10204*)
     → "Lords Kam'lanaut and Eald'narche rarely make public appearances."
   5: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10203*)
+  6: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10205*)
     → "And you need a special permit just to have an audience with them."
   7: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10204*)
+  8: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10206*)
     → "Both have kept their youth through all these years. Perhaps some otherworldly power watches over them. Great prophets like them are few indeed!"
   9: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

@@ -21,26 +21,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FCE      |        8142 |
+|       0 | 0x1FD0      |        8144 |
 |       1 | 0x48F8      |       18680 |
 |       2 | 0x0005      |           5 |
-|       3 | 0x1FCF      |        8143 |
-|       4 | 0x1FD0      |        8144 |
-|       5 | 0x1FD1      |        8145 |
+|       3 | 0x1FD1      |        8145 |
+|       4 | 0x1FD2      |        8146 |
+|       5 | 0x1FD3      |        8147 |
 |       6 | 0x0000      |           0 |
-|       7 | 0x1FD2      |        8146 |
+|       7 | 0x1FD4      |        8148 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x000C      |          12 |
-|      10 | 0x1FD3      |        8147 |
+|      10 | 0x1FD5      |        8149 |
 
 ## String References
 
-- **8142**: It appears sturdily built.
-- **8143**: The casket is stocked with $0. A message scrawled on the lid reads: "$1 cruor a pop! No freebies!"
-- **8144**: Purchase $0?
-- **8145**: You have $0 cruor. Purchase? [Yes./No.]
-- **8146**: Purchase how many? (Maximum purchase: 12).
-- **8147**: The total fee comes to $0 cruor. Make the purchase?
+- **8144**: It appears sturdily built.
+- **8145**: The casket is stocked with $0. A message scrawled on the lid reads: "$1 cruor a pop! No freebies!"
+- **8146**: Purchase $0?
+- **8147**: You have $0 cruor. Purchase? [Yes./No.]
+- **8148**: Purchase how many? (Maximum purchase: 12).
+- **8149**: The total fee comes to $0 cruor. Make the purchase?
 
 ## Events
 
@@ -85,7 +85,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [8142*]:
+  0: 0x0001 [0x48] [System] [8144*]:
     → "It appears sturdily built."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -124,18 +124,18 @@
   0: 0x0007 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   1: 0x000C [0x03] Work_Zone[2] = 18680*
   2: 0x0011 [0x03] Work_Zone[3] = 5*
-  3: 0x0016 [0x48] [System] [8143*]:
+  3: 0x0016 [0x48] [System] [8145*]:
     → "The casket is stocked with $0. A message scrawled on the lid reads: "$1 cruor a pop! No freebies!""
   4: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001A [0x48] [System] [8144*]:
+  5: 0x001A [0x48] [System] [8146*]:
     → "Purchase $0?"
   6: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-  8: 0x0023 [0x24] CREATE_DIALOG(message_id=8145*, default_option=0*, option_flags=0*)
+  8: 0x0023 [0x24] CREATE_DIALOG(message_id=8147*, default_option=0*, option_flags=0*)
     → "You have $0 cruor. Purchase? [Yes./No.]"
   9: 0x002A [0x25] WAIT_DIALOG_SELECT()
  10: 0x002B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0096
- 11: 0x0033 [0x48] [System] [8146*]:
+ 11: 0x0033 [0x48] [System] [8148*]:
     → "Purchase how many? (Maximum purchase: 12)."
  12: 0x0036 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
  13: 0x003A [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[4])
@@ -143,11 +143,11 @@
  15: 0x0046 [0x02] IF !(Work_Zone[4] > 12*) GOTO 0x008A
  16: 0x004E [0x03] Work_Zone[2] = 5*
  17: 0x0053 [0x14] Work_Zone[2] *= Work_Zone[4]
- 18: 0x0058 [0x48] [System] [8147*]:
+ 18: 0x0058 [0x48] [System] [8149*]:
     → "The total fee comes to $0 cruor. Make the purchase?"
  19: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x005C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 21: 0x0061 [0x24] CREATE_DIALOG(message_id=8145*, default_option=0*, option_flags=0*)
+ 21: 0x0061 [0x24] CREATE_DIALOG(message_id=8147*, default_option=0*, option_flags=0*)
     → "You have $0 cruor. Purchase? [Yes./No.]"
  22: 0x0068 [0x25] WAIT_DIALOG_SELECT()
  23: 0x0069 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0079

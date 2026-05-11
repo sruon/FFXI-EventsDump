@@ -68,11 +68,11 @@
 |       3 | 0xFFFF85B6  |  4294935990 |
 |       4 | 0xFFFFEC79  |  4294962297 |
 |       5 | 0x0B3E      |        2878 |
-|       6 | 0x1DF2      |        7666 |
-|       7 | 0x1DF3      |        7667 |
-|       8 | 0x1DF9      |        7673 |
-|       9 | 0x1DFD      |        7677 |
-|      10 | 0x1DFE      |        7678 |
+|       6 | 0x1DF4      |        7668 |
+|       7 | 0x1DF5      |        7669 |
+|       8 | 0x1DFB      |        7675 |
+|       9 | 0x1DFF      |        7679 |
+|      10 | 0x1E00      |        7680 |
 |      11 | 0x000D      |          13 |
 |      12 | 0x1A1F8     |      107000 |
 |      13 | 0xFFFF9688  |  4294940296 |
@@ -80,124 +80,124 @@
 |      15 | 0x1A10E     |      106766 |
 |      16 | 0xFFFF88E4  |  4294936804 |
 |      17 | 0x07C4      |        1988 |
-|      18 | 0x1E17      |        7703 |
-|      19 | 0x1E18      |        7704 |
-|      20 | 0x1E19      |        7705 |
-|      21 | 0x1E1D      |        7709 |
-|      22 | 0x1E71      |        7793 |
-|      23 | 0x1E72      |        7794 |
-|      24 | 0x1E7E      |        7806 |
-|      25 | 0x1E7F      |        7807 |
-|      26 | 0x1E30      |        7728 |
-|      27 | 0x1E31      |        7729 |
-|      28 | 0x1E8A      |        7818 |
-|      29 | 0x1E8B      |        7819 |
-|      30 | 0x21E6      |        8678 |
-|      31 | 0x21E7      |        8679 |
-|      32 | 0x1EAF      |        7855 |
-|      33 | 0x1EB0      |        7856 |
-|      34 | 0x1EBD      |        7869 |
-|      35 | 0x1EBE      |        7870 |
-|      36 | 0x1ECA      |        7882 |
-|      37 | 0x1ECB      |        7883 |
-|      38 | 0x1ED4      |        7892 |
-|      39 | 0x1ED5      |        7893 |
-|      40 | 0x1EDE      |        7902 |
-|      41 | 0x1EDF      |        7903 |
-|      42 | 0x1EEC      |        7916 |
-|      43 | 0x1EED      |        7917 |
-|      44 | 0x1EF6      |        7926 |
-|      45 | 0x1EF7      |        7927 |
-|      46 | 0x1EFC      |        7932 |
-|      47 | 0x1EFD      |        7933 |
-|      48 | 0x1EFE      |        7934 |
-|      49 | 0x24C9      |        9417 |
-|      50 | 0x24CA      |        9418 |
-|      51 | 0x24D3      |        9427 |
-|      52 | 0x24D4      |        9428 |
-|      53 | 0x24DA      |        9434 |
-|      54 | 0x24DB      |        9435 |
-|      55 | 0x24E5      |        9445 |
-|      56 | 0x24E6      |        9446 |
-|      57 | 0x24F0      |        9456 |
-|      58 | 0x24F1      |        9457 |
-|      59 | 0x24FB      |        9467 |
-|      60 | 0x24FC      |        9468 |
-|      61 | 0x2508      |        9480 |
-|      62 | 0x2509      |        9481 |
-|      63 | 0x2569      |        9577 |
-|      64 | 0x256A      |        9578 |
-|      65 | 0x25AA      |        9642 |
-|      66 | 0x25AB      |        9643 |
-|      67 | 0x25BC      |        9660 |
-|      68 | 0x25BD      |        9661 |
-|      69 | 0x25BE      |        9662 |
-|      70 | 0x25E2      |        9698 |
-|      71 | 0x25E3      |        9699 |
-|      72 | 0x25E4      |        9700 |
+|      18 | 0x1E19      |        7705 |
+|      19 | 0x1E1A      |        7706 |
+|      20 | 0x1E1B      |        7707 |
+|      21 | 0x1E1F      |        7711 |
+|      22 | 0x1E73      |        7795 |
+|      23 | 0x1E74      |        7796 |
+|      24 | 0x1E80      |        7808 |
+|      25 | 0x1E81      |        7809 |
+|      26 | 0x1E32      |        7730 |
+|      27 | 0x1E33      |        7731 |
+|      28 | 0x1E8C      |        7820 |
+|      29 | 0x1E8D      |        7821 |
+|      30 | 0x21E8      |        8680 |
+|      31 | 0x21E9      |        8681 |
+|      32 | 0x1EB1      |        7857 |
+|      33 | 0x1EB2      |        7858 |
+|      34 | 0x1EBF      |        7871 |
+|      35 | 0x1EC0      |        7872 |
+|      36 | 0x1ECC      |        7884 |
+|      37 | 0x1ECD      |        7885 |
+|      38 | 0x1ED6      |        7894 |
+|      39 | 0x1ED7      |        7895 |
+|      40 | 0x1EE0      |        7904 |
+|      41 | 0x1EE1      |        7905 |
+|      42 | 0x1EEE      |        7918 |
+|      43 | 0x1EEF      |        7919 |
+|      44 | 0x1EF8      |        7928 |
+|      45 | 0x1EF9      |        7929 |
+|      46 | 0x1EFE      |        7934 |
+|      47 | 0x1EFF      |        7935 |
+|      48 | 0x1F00      |        7936 |
+|      49 | 0x24CB      |        9419 |
+|      50 | 0x24CC      |        9420 |
+|      51 | 0x24D5      |        9429 |
+|      52 | 0x24D6      |        9430 |
+|      53 | 0x24DC      |        9436 |
+|      54 | 0x24DD      |        9437 |
+|      55 | 0x24E7      |        9447 |
+|      56 | 0x24E8      |        9448 |
+|      57 | 0x24F2      |        9458 |
+|      58 | 0x24F3      |        9459 |
+|      59 | 0x24FD      |        9469 |
+|      60 | 0x24FE      |        9470 |
+|      61 | 0x250A      |        9482 |
+|      62 | 0x250B      |        9483 |
+|      63 | 0x256B      |        9579 |
+|      64 | 0x256C      |        9580 |
+|      65 | 0x25AC      |        9644 |
+|      66 | 0x25AD      |        9645 |
+|      67 | 0x25BE      |        9662 |
+|      68 | 0x25BF      |        9663 |
+|      69 | 0x25C0      |        9664 |
+|      70 | 0x25E4      |        9700 |
+|      71 | 0x25E5      |        9701 |
+|      72 | 0x25E6      |        9702 |
 
 ## String References
 
-- **7666**: I, I, erm, am one of the guards here. <gulp>... Well, erm, nice to meety-weety you!
-- **7667**: I, I'm still getting used to it, erm, here... But I'm trying-wrying my besty!
-- **7673**: The, the Hume guys all say they envy-wenvy me, you know, being surrounded by Mithra ladies all day and everything... B-but, to tell you the truth, I get really tired-wired, day in and day out.
-- **7677**: The, the Mithra ladies are normally very p-pleasant and ch-cheery, but you've got to keep on your toesy-woesies!
-- **7678**: Once, I, erm, nodded off for a bit, and, and, woke up to find bite marks on my leggy-leg-legs! I, I, erm, don't want to be eatened!!!
-- **7703**: Ex...excusey me... But, I, erm, I know of a mission-wission...
-- **7704**: You see...well...erm... The Orastery in the port area is kinda looking for someone to help them with a magic experiment to be conducted at the Horutoto Ruins.
-- **7705**: I know it's a little sudden-wudden, but they said they were in a fix because they couldn't find anyone to help them. So, erm, how about it then...?
-- **7709**: O-only the e-elite students from the School of Magic can go on to enter the Orastery. So, so the Tarutaru in the Orastery are the most brilliant magic users in the whole of Windurst!
-- **7728**: C-Cardians were invented to fight as magical puppet-like s-soldiers in the Great War of twenty-wenty years ago.
-- **7729**: Th-thanks to the creation of the Cardians, Tarutaru and Mithra guards have come to suffer less injuries.
-- **7793**: I, I understand totally-wotally what the Star Sibyl is saying...
-- **7794**: The Star Sibyl is thinking first and foremost of the safety of us Windurstians.
-- **7806**: W-well done! I knew you could do it. I, I hope you didn't get hurty-wurty.
-- **7807**: If only those Yagudo would let down their guardy-wuardy a bit, we wouldn't have to go through all that just to give them their offerings.
-- **7818**: Th-the Library of Magic isn't magic in name only. Almost all the books there have some sort of enchantment-bechantment cast upon them.
-- **7819**: W-when you check a book out, the librarians temporarily remove the magic for safety's sake. But, but, sometimes they've been known to forget, so be careful!
-- **7855**: Gee... I, I wish I could join in this mission-wission too!
-- **7856**: B-but I'm too scared to ask Sola Jaab, in, in case she literally b-bites my heady-weady off!
-- **7869**: S-Sibyl G-Guards are the Mithra fighter-mighters who, who serve and protect the great Star Sibyl.
-- **7870**: M-most of the M-Mithra in Windurst serve their tribal chieftainness. So you see...Sibyl Guards are special-wecial, even in the Mithran society.
-- **7882**: A, a mission from Z-Z-Zubaba!?
-- **7883**: Wow! You mean, Zubaba's still alivey-wivey? Gee...
-- **7892**: I-It's the first time I saw the real thing! I was the one who took the delivery of your writ...so I was able to touch it!
-- **7893**: Wow! It's, it's, it's like I touched the hand of the Star Sibyl...only indirectly! Woooo! I'm sooo happy to be alivey-wivey!
-- **7902**: My! W-Windurst is in a state of emergency... I, I just hope nothing has happened to our blessed-wessed Star Sibyl!
-- **7903**: If, if anything were to happen to her, Windurst would be ruined! It's b-beyond the depths of despairy-wairy!
-- **7916**: It, it seems as though the Star Sibyl and her ladies-in-waiting are all safe and soundy-woundy.
-- **7917**: B-but I heard that some rogue broke into the Horutoto Ruins. Wasn't the talisman from the Great War of twenty years ago stored there...?
-- **7926**: I, I heard all sorts of nasty rumors about the meeting of the five ministries, but according to the fortune read by the Star Sibyl, Windurst's future is meant to be bright.
-- **7927**: So, so there's no need to worry. There's no way a war will break out. You, you can take my word for it!
-- **7932**: I, I had the pleasure of delivering a, a star emblem letter from Heavens Tower to the Minister of the Manustery, Miss Apururu.
-- **7933**: M-Miss Apururu was so pleased, she let slip a little about what's been going on.
-- **7934**: I, I'm glad nothing really-weally bad ended up happening. Phew! Makes you appreciate the peace we have now.
-- **8678**: The, the kiddy-widdies who study at the School of Magic are all super-smart. Once they gra-graduate, they can automatically enter one of the m-ministries.
-- **8679**: In, in fact, m-most go on to become the m-ministers of the m-ministries! S-saying they have great potential is an understatement-batement!
-- **9417**: W-we were r-reprimanded by Captain Rakoh Buuma. She was growling that we guards of Windurst Woods have rrreally been slacking off... "Slacking off completely," she said!
-- **9418**: I, erm, I think she was angry b-because I, I don'taru get along with Mithra very well... M-maybe I sh-should try to invite Sola Jaab along on a fishing trip s-sometime.
-- **9427**: S-speaking of Minister Ajido-Marujido, I, I heard Minister Tosuka-Porika of the Optistery c-calling him a thiefy-wief.
-- **9428**: I, I mean, they've never been the besty-westy of friends, but I w-wonder what else could have h-happened? It gives me b-butterflies in my tummy-wummy.
-- **9434**: The D-Dark D-Dungeon is the w-worst punishment that a criminal can g-getaru.
-- **9435**: There's n-no leaving the Dark Dungeon until you d-die. H-h-h-how h-h-h-horrible!
-- **9445**: I, I, I don't like to talk aboutaru people this way, b-b-but please take c-c-care around the Sibyl Guards.
-- **9446**: I, I, I think they're k-k-k-eeping a close eye on y-y-you. W-w-watch your back on the streets at n-n-night...
-- **9456**: I, I, I've heard that Minister R-R-Rukususu of the R-R-Rhinostery is investigating a-a-ancient ruins in the Northlands.
-- **9457**: S-S-She is looking into things like, erm...the reason why the Northlands have towers similar to the ones found in S-S-Sarutabaruta. Wh-wh-why would that be, I wonder?
-- **9467**: D-d-did you know that they h-h-have lots of m-m-magical dolls at the Aurastery?
-- **9468**: O-o-originally there were only a f-f-few types, but Professor Koru-Moru has re-re-remodeled them for various tasks.
-- **9480**: Th-th-this is not a b-b-betrayal of the S-S-Star Sibyl.
-- **9481**: W-w-we just want to h-h-help Minister Apururu. The Orastery needs your h-h-help too.
-- **9577**: Th-the Orastery Minister has finally r-regained c-consciousness.
-- **9578**: D-do you realize now what a t-terrible-werrible place the Dark Dungeon is? Even a p-powerful mage like Ajido-Marujido wasn't immune to its e-effects.
-- **9642**: ... I g-got an advance on my s-salary...
-- **9643**: This m-month I have to try to g-get by on $1...
-- **9660**: M-Minister Ajido-Marujido has been a-absolved of his crimes! N-now Windurst can f-finally return to a state of peace!
-- **9661**: ...Wh-what? Wh-why are you l-looking at me with p-pity like thataru...?
-- **9662**: P-please don't t-tell me something else is wr-wrong!
-- **9698**: Ah, <Player>! S-so good to s-see you!
-- **9699**: S-so many t-terrible-werrible things were g-going on that we d-didn'taru know about...
-- **9700**: B-but everyone p-pulled together and s-saved the day! I'm j-just s-speechless!
+- **7668**: I, I, erm, am one of the guards here. <gulp>... Well, erm, nice to meety-weety you!
+- **7669**: I, I'm still getting used to it, erm, here... But I'm trying-wrying my besty!
+- **7675**: The, the Hume guys all say they envy-wenvy me, you know, being surrounded by Mithra ladies all day and everything... B-but, to tell you the truth, I get really tired-wired, day in and day out.
+- **7679**: The, the Mithra ladies are normally very p-pleasant and ch-cheery, but you've got to keep on your toesy-woesies!
+- **7680**: Once, I, erm, nodded off for a bit, and, and, woke up to find bite marks on my leggy-leg-legs! I, I, erm, don't want to be eatened!!!
+- **7705**: Ex...excusey me... But, I, erm, I know of a mission-wission...
+- **7706**: You see...well...erm... The Orastery in the port area is kinda looking for someone to help them with a magic experiment to be conducted at the Horutoto Ruins.
+- **7707**: I know it's a little sudden-wudden, but they said they were in a fix because they couldn't find anyone to help them. So, erm, how about it then...?
+- **7711**: O-only the e-elite students from the School of Magic can go on to enter the Orastery. So, so the Tarutaru in the Orastery are the most brilliant magic users in the whole of Windurst!
+- **7730**: C-Cardians were invented to fight as magical puppet-like s-soldiers in the Great War of twenty-wenty years ago.
+- **7731**: Th-thanks to the creation of the Cardians, Tarutaru and Mithra guards have come to suffer less injuries.
+- **7795**: I, I understand totally-wotally what the Star Sibyl is saying...
+- **7796**: The Star Sibyl is thinking first and foremost of the safety of us Windurstians.
+- **7808**: W-well done! I knew you could do it. I, I hope you didn't get hurty-wurty.
+- **7809**: If only those Yagudo would let down their guardy-wuardy a bit, we wouldn't have to go through all that just to give them their offerings.
+- **7820**: Th-the Library of Magic isn't magic in name only. Almost all the books there have some sort of enchantment-bechantment cast upon them.
+- **7821**: W-when you check a book out, the librarians temporarily remove the magic for safety's sake. But, but, sometimes they've been known to forget, so be careful!
+- **7857**: Gee... I, I wish I could join in this mission-wission too!
+- **7858**: B-but I'm too scared to ask Sola Jaab, in, in case she literally b-bites my heady-weady off!
+- **7871**: S-Sibyl G-Guards are the Mithra fighter-mighters who, who serve and protect the great Star Sibyl.
+- **7872**: M-most of the M-Mithra in Windurst serve their tribal chieftainness. So you see...Sibyl Guards are special-wecial, even in the Mithran society.
+- **7884**: A, a mission from Z-Z-Zubaba!?
+- **7885**: Wow! You mean, Zubaba's still alivey-wivey? Gee...
+- **7894**: I-It's the first time I saw the real thing! I was the one who took the delivery of your writ...so I was able to touch it!
+- **7895**: Wow! It's, it's, it's like I touched the hand of the Star Sibyl...only indirectly! Woooo! I'm sooo happy to be alivey-wivey!
+- **7904**: My! W-Windurst is in a state of emergency... I, I just hope nothing has happened to our blessed-wessed Star Sibyl!
+- **7905**: If, if anything were to happen to her, Windurst would be ruined! It's b-beyond the depths of despairy-wairy!
+- **7918**: It, it seems as though the Star Sibyl and her ladies-in-waiting are all safe and soundy-woundy.
+- **7919**: B-but I heard that some rogue broke into the Horutoto Ruins. Wasn't the talisman from the Great War of twenty years ago stored there...?
+- **7928**: I, I heard all sorts of nasty rumors about the meeting of the five ministries, but according to the fortune read by the Star Sibyl, Windurst's future is meant to be bright.
+- **7929**: So, so there's no need to worry. There's no way a war will break out. You, you can take my word for it!
+- **7934**: I, I had the pleasure of delivering a, a star emblem letter from Heavens Tower to the Minister of the Manustery, Miss Apururu.
+- **7935**: M-Miss Apururu was so pleased, she let slip a little about what's been going on.
+- **7936**: I, I'm glad nothing really-weally bad ended up happening. Phew! Makes you appreciate the peace we have now.
+- **8680**: The, the kiddy-widdies who study at the School of Magic are all super-smart. Once they gra-graduate, they can automatically enter one of the m-ministries.
+- **8681**: In, in fact, m-most go on to become the m-ministers of the m-ministries! S-saying they have great potential is an understatement-batement!
+- **9419**: W-we were r-reprimanded by Captain Rakoh Buuma. She was growling that we guards of Windurst Woods have rrreally been slacking off... "Slacking off completely," she said!
+- **9420**: I, erm, I think she was angry b-because I, I don'taru get along with Mithra very well... M-maybe I sh-should try to invite Sola Jaab along on a fishing trip s-sometime.
+- **9429**: S-speaking of Minister Ajido-Marujido, I, I heard Minister Tosuka-Porika of the Optistery c-calling him a thiefy-wief.
+- **9430**: I, I mean, they've never been the besty-westy of friends, but I w-wonder what else could have h-happened? It gives me b-butterflies in my tummy-wummy.
+- **9436**: The D-Dark D-Dungeon is the w-worst punishment that a criminal can g-getaru.
+- **9437**: There's n-no leaving the Dark Dungeon until you d-die. H-h-h-how h-h-h-horrible!
+- **9447**: I, I, I don't like to talk aboutaru people this way, b-b-but please take c-c-care around the Sibyl Guards.
+- **9448**: I, I, I think they're k-k-k-eeping a close eye on y-y-you. W-w-watch your back on the streets at n-n-night...
+- **9458**: I, I, I've heard that Minister R-R-Rukususu of the R-R-Rhinostery is investigating a-a-ancient ruins in the Northlands.
+- **9459**: S-S-She is looking into things like, erm...the reason why the Northlands have towers similar to the ones found in S-S-Sarutabaruta. Wh-wh-why would that be, I wonder?
+- **9469**: D-d-did you know that they h-h-have lots of m-m-magical dolls at the Aurastery?
+- **9470**: O-o-originally there were only a f-f-few types, but Professor Koru-Moru has re-re-remodeled them for various tasks.
+- **9482**: Th-th-this is not a b-b-betrayal of the S-S-Star Sibyl.
+- **9483**: W-w-we just want to h-h-help Minister Apururu. The Orastery needs your h-h-help too.
+- **9579**: Th-the Orastery Minister has finally r-regained c-consciousness.
+- **9580**: D-do you realize now what a t-terrible-werrible place the Dark Dungeon is? Even a p-powerful mage like Ajido-Marujido wasn't immune to its e-effects.
+- **9644**: ... I g-got an advance on my s-salary...
+- **9645**: This m-month I have to try to g-get by on $1...
+- **9662**: M-Minister Ajido-Marujido has been a-absolved of his crimes! N-now Windurst can f-finally return to a state of peace!
+- **9663**: ...Wh-what? Wh-why are you l-looking at me with p-pity like thataru...?
+- **9664**: P-please don't t-tell me something else is wr-wrong!
+- **9700**: Ah, <Player>! S-so good to s-see you!
+- **9701**: S-so many t-terrible-werrible things were g-going on that we d-didn'taru know about...
+- **9702**: B-but everyone p-pulled together and s-saved the day! I'm j-just s-speechless!
 
 ## Events
 
@@ -400,10 +400,10 @@
   1: 0x0072 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0073 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0074 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
+  4: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
     → "I, I, erm, am one of the guards here. <gulp>... Well, erm, nice to meety-weety you!"
   5: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
+  6: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7669*)
     → "I, I'm still getting used to it, erm, here... But I'm trying-wrying my besty!"
   7: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0083 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -437,7 +437,7 @@
   1: 0x0093 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0094 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0095 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
+  4: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
     → "The, the Hume guys all say they envy-wenvy me, you know, being surrounded by Mithra ladies all day and everything... B-but, to tell you the truth, I get really tired-wired, day in and day out."
   5: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -471,10 +471,10 @@
   1: 0x00B0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7677*)
+  4: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "The, the Mithra ladies are normally very p-pleasant and ch-cheery, but you've got to keep on your toesy-woesies!"
   5: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+  6: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
     → "Once, I, erm, nodded off for a bit, and, and, woke up to find bite marks on my leggy-leg-legs! I, I, erm, don't want to be eatened!!!"
   7: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -647,7 +647,7 @@
 
 ```
   0: 0x00F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  1: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+  1: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "Ex...excusey me... But, I, erm, I know of a mission-wission..."
   2: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -673,10 +673,10 @@
 #### Opcodes
 
 ```
-  0: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
+  0: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
     → "You see...well...erm... The Orastery in the port area is kinda looking for someone to help them with a magic experiment to be conducted at the Horutoto Ruins."
   1: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
+  2: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
     → "I know it's a little sudden-wudden, but they said they were in a fix because they couldn't find anyone to help them. So, erm, how about it then...?"
   3: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x010C [0x00] END_REQSTACK()
@@ -707,7 +707,7 @@
   1: 0x0112 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0113 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0114 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
+  4: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7711*)
     → "O-only the e-elite students from the School of Magic can go on to enter the Orastery. So, so the Tarutaru in the Orastery are the most brilliant magic users in the whole of Windurst!"
   5: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x011F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -741,10 +741,10 @@
   1: 0x012F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0130 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0131 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
+  4: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "I, I understand totally-wotally what the Star Sibyl is saying..."
   5: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x013C [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+  6: 0x013C [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "The Star Sibyl is thinking first and foremost of the safety of us Windurstians."
   7: 0x013F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0140 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -778,10 +778,10 @@
   1: 0x0150 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0151 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0152 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
+  4: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=7808*)
     → "W-well done! I knew you could do it. I, I hope you didn't get hurty-wurty."
   5: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
+  6: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=7809*)
     → "If only those Yagudo would let down their guardy-wuardy a bit, we wouldn't have to go through all that just to give them their offerings."
   7: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0161 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -815,10 +815,10 @@
   1: 0x0171 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0172 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0173 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=7728*)
+  4: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
     → "C-Cardians were invented to fight as magical puppet-like s-soldiers in the Great War of twenty-wenty years ago."
   5: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
+  6: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
     → "Th-thanks to the creation of the Cardians, Tarutaru and Mithra guards have come to suffer less injuries."
   7: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0182 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -852,10 +852,10 @@
   1: 0x0192 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0193 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0194 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
+  4: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7820*)
     → "Th-the Library of Magic isn't magic in name only. Almost all the books there have some sort of enchantment-bechantment cast upon them."
   5: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=7819*)
+  6: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
     → "W-when you check a book out, the librarians temporarily remove the magic for safety's sake. But, but, sometimes they've been known to forget, so be careful!"
   7: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -889,10 +889,10 @@
   1: 0x01B3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8678*)
+  4: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8680*)
     → "The, the kiddy-widdies who study at the School of Magic are all super-smart. Once they gra-graduate, they can automatically enter one of the m-ministries."
   5: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8679*)
+  6: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8681*)
     → "In, in fact, m-most go on to become the m-ministers of the m-ministries! S-saying they have great potential is an understatement-batement!"
   7: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -926,10 +926,10 @@
   1: 0x01D4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
+  4: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
     → "Gee... I, I wish I could join in this mission-wission too!"
   5: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
+  6: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
     → "B-but I'm too scared to ask Sola Jaab, in, in case she literally b-bites my heady-weady off!"
   7: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -963,10 +963,10 @@
   1: 0x01F5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
+  4: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
     → "S-Sibyl G-Guards are the Mithra fighter-mighters who, who serve and protect the great Star Sibyl."
   5: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
+  6: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
     → "M-most of the M-Mithra in Windurst serve their tribal chieftainness. So you see...Sibyl Guards are special-wecial, even in the Mithran society."
   7: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0206 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1000,10 +1000,10 @@
   1: 0x0216 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0217 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0218 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
+  4: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
     → "A, a mission from Z-Z-Zubaba!?"
   5: 0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0223 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
+  6: 0x0223 [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
     → "Wow! You mean, Zubaba's still alivey-wivey? Gee..."
   7: 0x0226 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0227 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1037,10 +1037,10 @@
   1: 0x0237 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0238 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0239 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
+  4: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
     → "I-It's the first time I saw the real thing! I was the one who took the delivery of your writ...so I was able to touch it!"
   5: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
+  6: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
     → "Wow! It's, it's, it's like I touched the hand of the Star Sibyl...only indirectly! Woooo! I'm sooo happy to be alivey-wivey!"
   7: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0248 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1074,10 +1074,10 @@
   1: 0x0258 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0259 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x025A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
+  4: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
     → "My! W-Windurst is in a state of emergency... I, I just hope nothing has happened to our blessed-wessed Star Sibyl!"
   5: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
+  6: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
     → "If, if anything were to happen to her, Windurst would be ruined! It's b-beyond the depths of despairy-wairy!"
   7: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0269 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1111,10 +1111,10 @@
   1: 0x0279 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x027A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x027B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
+  4: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
     → "It, it seems as though the Star Sibyl and her ladies-in-waiting are all safe and soundy-woundy."
   5: 0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
+  6: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → "B-but I heard that some rogue broke into the Horutoto Ruins. Wasn't the talisman from the Great War of twenty years ago stored there...?"
   7: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x028A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1148,10 +1148,10 @@
   1: 0x029A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x029B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x029C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7926*)
+  4: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7928*)
     → "I, I heard all sorts of nasty rumors about the meeting of the five ministries, but according to the fortune read by the Star Sibyl, Windurst's future is meant to be bright."
   5: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7927*)
+  6: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7929*)
     → "So, so there's no need to worry. There's no way a war will break out. You, you can take my word for it!"
   7: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1185,13 +1185,13 @@
   1: 0x02BB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02BC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
+  4: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
     → "I, I had the pleasure of delivering a, a star emblem letter from Heavens Tower to the Minister of the Manustery, Miss Apururu."
   5: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
+  6: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
     → "M-Miss Apururu was so pleased, she let slip a little about what's been going on."
   7: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
+  8: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
     → "I, I'm glad nothing really-weally bad ended up happening. Phew! Makes you appreciate the peace we have now."
   9: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1225,10 +1225,10 @@
   1: 0x02E0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02E1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9417*)
+  4: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9419*)
     → "W-we were r-reprimanded by Captain Rakoh Buuma. She was growling that we guards of Windurst Woods have rrreally been slacking off... "Slacking off completely," she said!"
   5: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9418*)
+  6: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9420*)
     → "I, erm, I think she was angry b-because I, I don'taru get along with Mithra very well... M-maybe I sh-should try to invite Sola Jaab along on a fishing trip s-sometime."
   7: 0x02F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1262,10 +1262,10 @@
   1: 0x0301 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0302 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0303 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=9427*)
+  4: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=9429*)
     → "S-speaking of Minister Ajido-Marujido, I, I heard Minister Tosuka-Porika of the Optistery c-calling him a thiefy-wief."
   5: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=9428*)
+  6: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=9430*)
     → "I, I mean, they've never been the besty-westy of friends, but I w-wonder what else could have h-happened? It gives me b-butterflies in my tummy-wummy."
   7: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0312 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1299,10 +1299,10 @@
   1: 0x0322 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0323 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0324 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=9434*)
+  4: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=9436*)
     → "The D-Dark D-Dungeon is the w-worst punishment that a criminal can g-getaru."
   5: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=9435*)
+  6: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=9437*)
     → "There's n-no leaving the Dark Dungeon until you d-die. H-h-h-how h-h-h-horrible!"
   7: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0333 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1336,10 +1336,10 @@
   1: 0x0343 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0344 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0345 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=9445*)
+  4: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=9447*)
     → "I, I, I don't like to talk aboutaru people this way, b-b-but please take c-c-care around the Sibyl Guards."
   5: 0x034F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=9446*)
+  6: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=9448*)
     → "I, I, I think they're k-k-k-eeping a close eye on y-y-you. W-w-watch your back on the streets at n-n-night..."
   7: 0x0353 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0354 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1373,10 +1373,10 @@
   1: 0x0364 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0365 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0366 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
+  4: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=9458*)
     → "I, I, I've heard that Minister R-R-Rukususu of the R-R-Rhinostery is investigating a-a-ancient ruins in the Northlands."
   5: 0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0371 [0x1D] PRINT_EVENT_MESSAGE(message_id=9457*)
+  6: 0x0371 [0x1D] PRINT_EVENT_MESSAGE(message_id=9459*)
     → "S-S-She is looking into things like, erm...the reason why the Northlands have towers similar to the ones found in S-S-Sarutabaruta. Wh-wh-why would that be, I wonder?"
   7: 0x0374 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0375 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1410,10 +1410,10 @@
   1: 0x0385 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0386 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0387 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
+  4: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=9469*)
     → "D-d-did you know that they h-h-have lots of m-m-magical dolls at the Aurastery?"
   5: 0x0391 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=9468*)
+  6: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=9470*)
     → "O-o-originally there were only a f-f-few types, but Professor Koru-Moru has re-re-remodeled them for various tasks."
   7: 0x0395 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0396 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1447,10 +1447,10 @@
   1: 0x03A6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03A7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9480*)
+  4: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9482*)
     → "Th-th-this is not a b-b-betrayal of the S-S-Star Sibyl."
   5: 0x03B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9481*)
+  6: 0x03B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9483*)
     → "W-w-we just want to h-h-help Minister Apururu. The Orastery needs your h-h-help too."
   7: 0x03B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1484,10 +1484,10 @@
   1: 0x03C7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03C8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x03D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9577*)
+  4: 0x03D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9579*)
     → "Th-the Orastery Minister has finally r-regained c-consciousness."
   5: 0x03D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9578*)
+  6: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9580*)
     → "D-do you realize now what a t-terrible-werrible place the Dark Dungeon is? Even a p-powerful mage like Ajido-Marujido wasn't immune to its e-effects."
   7: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1521,10 +1521,10 @@
   1: 0x03E8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03E9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
-  4: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9642*)
+  4: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9644*)
     → "... I g-got an advance on my s-salary..."
   5: 0x03F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9643*)
+  6: 0x03F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9645*)
     → "This m-month I have to try to g-get by on $1..."
   7: 0x03F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1559,15 +1559,15 @@
   1: 0x0409 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x040A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x040B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x01)
-  4: 0x0412 [0x1D] PRINT_EVENT_MESSAGE(message_id=9660*)
+  4: 0x0412 [0x1D] PRINT_EVENT_MESSAGE(message_id=9662*)
     → "M-Minister Ajido-Marujido has been a-absolved of his crimes! N-now Windurst can f-finally return to a state of peace!"
   5: 0x0415 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0416 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x02)
-  7: 0x041D [0x1D] PRINT_EVENT_MESSAGE(message_id=9661*)
+  7: 0x041D [0x1D] PRINT_EVENT_MESSAGE(message_id=9663*)
     → "...Wh-what? Wh-why are you l-looking at me with p-pity like thataru...?"
   8: 0x0420 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0421 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
- 10: 0x0428 [0x1D] PRINT_EVENT_MESSAGE(message_id=9662*)
+ 10: 0x0428 [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
     → "P-please don't t-tell me something else is wr-wrong!"
  11: 0x042B [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x042C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)
@@ -1602,15 +1602,15 @@
   1: 0x043C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x043D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x043E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x01)
-  4: 0x0445 [0x1D] PRINT_EVENT_MESSAGE(message_id=9698*)
+  4: 0x0445 [0x1D] PRINT_EVENT_MESSAGE(message_id=9700*)
     → "Ah, <Player>! S-so good to s-see you!"
   5: 0x0448 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0449 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x02)
-  7: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=9699*)
+  7: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=9701*)
     → "S-so many t-terrible-werrible things were g-going on that we d-didn'taru know about..."
   8: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0454 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x03)
- 10: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=9700*)
+ 10: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=9702*)
     → "B-but everyone p-pulled together and s-saved the day! I'm j-just s-speechless!"
  11: 0x045E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x045F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Miiri-Wohri (ID: 17764371/0x010F1013), tag_num=0x05)

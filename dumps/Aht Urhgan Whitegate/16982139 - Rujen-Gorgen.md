@@ -29,18 +29,18 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x18EA      |        6378 |
-|       3 | 0x18EB      |        6379 |
+|       2 | 0x18EC      |        6380 |
+|       3 | 0x18ED      |        6381 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0022      |          34 |
-|       6 | 0x18EC      |        6380 |
+|       6 | 0x18EE      |        6382 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x18ED      |        6381 |
-|       9 | 0x18EE      |        6382 |
-|      10 | 0x18EF      |        6383 |
-|      11 | 0x18F0      |        6384 |
+|       8 | 0x18EF      |        6383 |
+|       9 | 0x18F0      |        6384 |
+|      10 | 0x18F1      |        6385 |
+|      11 | 0x18F2      |        6386 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x18F1      |        6385 |
+|      13 | 0x18F3      |        6387 |
 |      14 | 0xFFFE3DBC  |  4294852028 |
 |      15 | 0xFFFFD261  |  4294955617 |
 |      16 | 0x03F5      |        1013 |
@@ -53,21 +53,21 @@
 |      23 | 0x3280      |       12928 |
 |      24 | 0x0671      |        1649 |
 |      25 | 0x003C      |          60 |
-|      26 | 0x1C75      |        7285 |
-|      27 | 0x1C76      |        7286 |
+|      26 | 0x1C77      |        7287 |
+|      27 | 0x1C78      |        7288 |
 
 ## String References
 
-- **6378**: Howdy-dowdy! Have you figured out this town's ward system yet?
-- **6379**: Are you an expert on wards? [Yes, I know everything./No, can you explain?]
-- **6380**: Well, that's one fewer worry-dorry you'll have to deal with! Off on your way-day, now! You don't want the Immortals to set their sights on you!
-- **6381**: No problem-doblem! What would you like to know?
-- **6382**: Ask about which ward? [Commoners' Ward./Merchants' Ward./Imperial Ward.]
-- **6383**: Those who have been stripped-dipped of their citizenship and those who never had it in the first place live in the Commoners' Ward. It's a relatively new area.
-- **6384**: People who have come from other nations and the merchants who sell to them live in the Merchants' Ward. It's a smorgasbord of sights and smells. There are also two ports that allow Aht Urhgan Whitegate to serve as the main "gate" to West Aht Urhgan.
-- **6385**: The Imperial Ward lies beyond those towering ivory walls. It houses the Imperial palace, facilities for the Imperial Army, and the residences of the Imperial family. People like us aren't even allowed to enter.
-- **7285**: All of a sudden I feel a bit lightaru.
-- **7286**: Waaaaahhh! My gil pouch has been stolen, and with it my life savings!
+- **6380**: Howdy-dowdy! Have you figured out this town's ward system yet?
+- **6381**: Are you an expert on wards? [Yes, I know everything./No, can you explain?]
+- **6382**: Well, that's one fewer worry-dorry you'll have to deal with! Off on your way-day, now! You don't want the Immortals to set their sights on you!
+- **6383**: No problem-doblem! What would you like to know?
+- **6384**: Ask about which ward? [Commoners' Ward./Merchants' Ward./Imperial Ward.]
+- **6385**: Those who have been stripped-dipped of their citizenship and those who never had it in the first place live in the Commoners' Ward. It's a relatively new area.
+- **6386**: People who have come from other nations and the merchants who sell to them live in the Merchants' Ward. It's a smorgasbord of sights and smells. There are also two ports that allow Aht Urhgan Whitegate to serve as the main "gate" to West Aht Urhgan.
+- **6387**: The Imperial Ward lies beyond those towering ivory walls. It houses the Imperial palace, facilities for the Imperial Army, and the residences of the Imperial family. People like us aren't even allowed to enter.
+- **7287**: All of a sudden I feel a bit lightaru.
+- **7288**: Waaaaahhh! My gil pouch has been stolen, and with it my life savings!
 
 ## Events
 
@@ -133,46 +133,46 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=6378*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=6380*)
     → "Howdy-dowdy! Have you figured out this town's ward system yet?"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
-  6: 0x002B [0x24] CREATE_DIALOG(message_id=6379*, default_option=0*, option_flags=0*)
+  6: 0x002B [0x24] CREATE_DIALOG(message_id=6381*, default_option=0*, option_flags=0*)
     → "Are you an expert on wards? [Yes, I know everything./No, can you explain?]"
   7: 0x0032 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0033 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0060
   9: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "syu0" with entities [EventEntity, EventEntity], work=34*
- 10: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=6380*)
+ 10: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=6382*)
     → "Well, that's one fewer worry-dorry you'll have to deal with! Off on your way-day, now! You don't want the Immortals to set their sights on you!"
  11: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x004E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "syu1" with entities [EventEntity, EventEntity], work=34*
  13: 0x005D [0x01] GOTO 0x011C
  14: 0x0060 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x011C
  15: 0x0068 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=34*
- 16: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=6381*)
+ 16: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=6383*)
     → "No problem-doblem! What would you like to know?"
  17: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x007B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=34*
- 19: 0x008A [0x24] CREATE_DIALOG(message_id=6382*, default_option=0*, option_flags=0*)
+ 19: 0x008A [0x24] CREATE_DIALOG(message_id=6384*, default_option=0*, option_flags=0*)
     → "Ask about which ward? [Commoners' Ward./Merchants' Ward./Imperial Ward.]"
  20: 0x0091 [0x25] WAIT_DIALOG_SELECT()
  21: 0x0092 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BF
  22: 0x009A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 23: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6383*)
+ 23: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6385*)
     → "Those who have been stripped-dipped of their citizenship and those who never had it in the first place live in the Commoners' Ward. It's a relatively new area."
  24: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
  26: 0x00BC [0x01] GOTO 0x0119
  27: 0x00BF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00EC
  28: 0x00C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 29: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6384*)
+ 29: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6386*)
     → "People who have come from other nations and the merchants who sell to them live in the Merchants' Ward. It's a smorgasbord of sights and smells. There are also two ports that allow Aht Urhgan Whitegate to serve as the main "gate" to West Aht Urhgan."
  30: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00DA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
  32: 0x00E9 [0x01] GOTO 0x0119
  33: 0x00EC [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0119
  34: 0x00F4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 35: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=6385*)
+ 35: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=6387*)
     → "The Imperial Ward lies beyond those towering ivory walls. It houses the Imperial palace, facilities for the Imperial Army, and the residences of the Imperial family. People like us aren't even allowed to enter."
  36: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0107 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
@@ -358,11 +358,11 @@ SUBROUTINE_011C:
 ```
   0: 0x016D [0x4B] UPDATE_ENTITY_YAW(entity=Rujen-Gorgen (ID: 16982139/0x0103207B), yaw=9.1°*)
   1: 0x0174 [0x1C] WAIT(60* ticks)
-  2: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=7285*)
+  2: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=7287*)
     → "All of a sudden I feel a bit lightaru."
   3: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x017B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [Rujen-Gorgen (ID: 16982139/0x0103207B), Rujen-Gorgen (ID: 16982139/0x0103207B)], work=40*
-  5: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=7286*)
+  5: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=7288*)
     → "Waaaaahhh! My gil pouch has been stolen, and with it my life savings!"
   6: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x018E [0x00] END_REQSTACK()

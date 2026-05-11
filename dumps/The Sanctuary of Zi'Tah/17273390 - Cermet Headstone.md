@@ -22,8 +22,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E4B      |        7755 |
-|       1 | 0x1E4C      |        7756 |
+|       0 | 0x1E4D      |        7757 |
+|       1 | 0x1E4E      |        7758 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0013      |          19 |
@@ -32,7 +32,7 @@
 |       7 | 0x002D      |          45 |
 |       8 | 0x000D      |          13 |
 |       9 | 0x00F7      |         247 |
-|      10 | 0x1E5E      |        7774 |
+|      10 | 0x1E60      |        7776 |
 |      11 | 0x00B4      |         180 |
 |      12 | 0x005A      |          90 |
 |      13 | 0x0003      |           3 |
@@ -43,9 +43,9 @@
 
 ## String References
 
-- **7755**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
-- **7756**: Do you remove the $3? [Yes./No.]
-- **7774**: The $3 begins to glow.
+- **7757**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
+- **7758**: Do you remove the $3? [Yes./No.]
+- **7776**: The $3 begins to glow.
 
 ## Events
 
@@ -93,10 +93,10 @@
 
 ```
   0: 0x0001 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x000A [0x48] [System] [7755*]:
+  1: 0x000A [0x48] [System] [7757*]:
     → "6... A single fragment of light. The way in which it shines suggests that it is resonating with something..."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x24] CREATE_DIALOG(message_id=7756*, default_option=0*, option_flags=0*)
+  3: 0x000E [0x24] CREATE_DIALOG(message_id=7758*, default_option=0*, option_flags=0*)
     → "Do you remove the $3? [Yes./No.]"
   4: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0026
@@ -130,10 +130,10 @@ SUBROUTINE_0026:
 
 ```
   0: 0x0028 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x0031 [0x48] [System] [7755*]:
+  1: 0x0031 [0x48] [System] [7757*]:
     → "6... A single fragment of light. The way in which it shines suggests that it is resonating with something..."
   2: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0035 [0x24] CREATE_DIALOG(message_id=7756*, default_option=0*, option_flags=0*)
+  3: 0x0035 [0x24] CREATE_DIALOG(message_id=7758*, default_option=0*, option_flags=0*)
     → "Do you remove the $3? [Yes./No.]"
   4: 0x003C [0x25] WAIT_DIALOG_SELECT()
   5: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004D
@@ -231,7 +231,7 @@ SUBROUTINE_004D:
   9: 0x008D [0x1C] WAIT(45* ticks)
  10: 0x0090 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17273393/0x01079231), Unnamed NPC (ID: 17273393/0x01079231)], work=[13*, 0*]
  11: 0x00A1 [0x03] Work_Zone[2] = 247*
- 12: 0x00A6 [0x48] [System] [7774*]:
+ 12: 0x00A6 [0x48] [System] [7776*]:
     → "The $3 begins to glow."
  13: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00AA [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "mai1" with entities [Unnamed NPC (ID: 17273393/0x01079231), Unnamed NPC (ID: 17273393/0x01079231)], work=[13*, 0*]

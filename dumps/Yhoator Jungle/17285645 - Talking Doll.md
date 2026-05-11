@@ -21,20 +21,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1DFF      |        7679 |
+|       1 | 0x1E01      |        7681 |
 |       2 | 0x0064      |         100 |
-|       3 | 0x1E02      |        7682 |
-|       4 | 0x1E01      |        7681 |
-|       5 | 0x1E00      |        7680 |
+|       3 | 0x1E04      |        7684 |
+|       4 | 0x1E03      |        7683 |
+|       5 | 0x1E02      |        7682 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x0000      |           0 |
 
 ## String References
 
-- **7679**: The $0 jumps in your hands.
-- **7680**: Ahahahahaha! I can sense the power of the ring! Get yourself moving [north/northeast/east/southeast/south/southwest/west/northwest]!
-- **7681**: Ahahahahaha! Don't slow down now, slacker! The readings are coming from the [north/northeast/east/southeast/south/southwest/west/northwest]!
-- **7682**: Ahahahahaha! You're getting close now! I can feel the ring's power from the next area!
+- **7681**: The $0 jumps in your hands.
+- **7682**: Ahahahahaha! I can sense the power of the ring! Get yourself moving [north/northeast/east/southeast/south/southwest/west/northwest]!
+- **7683**: Ahahahahaha! Don't slow down now, slacker! The readings are coming from the [north/northeast/east/southeast/south/southwest/west/northwest]!
+- **7684**: Ahahahahaha! You're getting close now! I can feel the ring's power from the next area!
 
 ## Events
 
@@ -88,22 +88,22 @@
   2: 0x0005 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   3: 0x0007 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   4: 0x0009 [0x1C] WAIT(1* ticks)
-  5: 0x000C [0x48] [System] [7679*]:
+  5: 0x000C [0x48] [System] [7681*]:
     → "The $0 jumps in your hands."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x002E
   8: 0x0018 [0x02] IF !(Work_Zone[8] == 100*) GOTO 0x0027
-  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7682*)
+  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7684*)
     → "Ahahahahaha! You're getting close now! I can feel the ring's power from the next area!"
  10: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0024 [0x01] GOTO 0x002B
- 12: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
+ 12: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7683*)
     → "Ahahahahaha! Don't slow down now, slacker! The readings are coming from the [north/northeast/east/southeast/south/southwest/west/northwest]!"
  13: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_002B:
  14: 0x002B [0x01] GOTO 0x0032
- 15: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
+ 15: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7682*)
     → "Ahahahahaha! I can sense the power of the ring! Get yourself moving [north/northeast/east/southeast/south/southwest/west/northwest]!"
  16: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

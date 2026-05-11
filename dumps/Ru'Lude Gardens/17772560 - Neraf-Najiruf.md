@@ -30,36 +30,36 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0031      |          49 |
-|       1 | 0x2B36      |       11062 |
+|       1 | 0x2B38      |       11064 |
 |       2 | 0x0027      |          39 |
-|       3 | 0x2B37      |       11063 |
-|       4 | 0x2B4C      |       11084 |
-|       5 | 0x2B4D      |       11085 |
-|       6 | 0x2B4E      |       11086 |
-|       7 | 0x2B58      |       11096 |
-|       8 | 0x2B59      |       11097 |
-|       9 | 0x2B5A      |       11098 |
-|      10 | 0x27F2      |       10226 |
-|      11 | 0x27F4      |       10228 |
-|      12 | 0x27F5      |       10229 |
-|      13 | 0x27F6      |       10230 |
-|      14 | 0x27F7      |       10231 |
-|      15 | 0x27F8      |       10232 |
-|      16 | 0x27F9      |       10233 |
-|      17 | 0x27FA      |       10234 |
+|       3 | 0x2B39      |       11065 |
+|       4 | 0x2B4E      |       11086 |
+|       5 | 0x2B4F      |       11087 |
+|       6 | 0x2B50      |       11088 |
+|       7 | 0x2B5A      |       11098 |
+|       8 | 0x2B5B      |       11099 |
+|       9 | 0x2B5C      |       11100 |
+|      10 | 0x27F4      |       10228 |
+|      11 | 0x27F6      |       10230 |
+|      12 | 0x27F7      |       10231 |
+|      13 | 0x27F8      |       10232 |
+|      14 | 0x27F9      |       10233 |
+|      15 | 0x27FA      |       10234 |
+|      16 | 0x27FB      |       10235 |
+|      17 | 0x27FC      |       10236 |
 |      18 | 0x0000      |           0 |
-|      19 | 0x27FB      |       10235 |
-|      20 | 0x27FC      |       10236 |
-|      21 | 0x27FD      |       10237 |
+|      19 | 0x27FD      |       10237 |
+|      20 | 0x27FE      |       10238 |
+|      21 | 0x27FF      |       10239 |
 |      22 | 0x0001      |           1 |
-|      23 | 0x27FF      |       10239 |
-|      24 | 0x27FE      |       10238 |
-|      25 | 0x2801      |       10241 |
-|      26 | 0x2802      |       10242 |
+|      23 | 0x2801      |       10241 |
+|      24 | 0x2800      |       10240 |
+|      25 | 0x2803      |       10243 |
+|      26 | 0x2804      |       10244 |
 
 ## String References
 
-- **10234**: Do you want to borrow the lantern? [Yes, please./Not now.]
+- **10236**: Do you want to borrow the lantern? [Yes, please./Not now.]
 
 ## Events
 
@@ -136,12 +136,12 @@
   0: 0x0002 [0x79] Adolie (ID: 17772561/0x010F3011) looks at Neraf-Najiruf (ID: 17772560/0x010F3010) (Basic look)
   1: 0x000C [0x79] Neraf-Najiruf (ID: 17772560/0x010F3010) looks at Adolie (ID: 17772561/0x010F3011) (Basic look)
   2: 0x0016 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x0025 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11062*]:
+  3: 0x0025 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11064*]:
     → "Did you hear? Some of the Telepoint crystals in Holla, Mea, and Dem have broken into a million pieces!"
   4: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x002D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
   6: 0x003C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
-  7: 0x004B [0x2B] Adolie (ID: 17772561/0x010F3011) [11063*]:
+  7: 0x004B [0x2B] Adolie (ID: 17772561/0x010F3011) [11065*]:
     → "So that's why Captain Wolfgang has been on edge lately... But what is really going on at those crags?"
   8: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0053 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
@@ -178,16 +178,16 @@
   0: 0x0071 [0x79] Adolie (ID: 17772561/0x010F3011) looks at Neraf-Najiruf (ID: 17772560/0x010F3010) (Basic look)
   1: 0x007B [0x79] Neraf-Najiruf (ID: 17772560/0x010F3010) looks at Adolie (ID: 17772561/0x010F3011) (Basic look)
   2: 0x0085 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=49*
-  3: 0x0094 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11084*]:
+  3: 0x0094 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11086*]:
     → "Did you hear that a super-secret weapon was being loaded onto one of the warships? I wonder what it could be..."
   4: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x009C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
-  6: 0x00AB [0x2B] Adolie (ID: 17772561/0x010F3011) [11085*]:
+  6: 0x00AB [0x2B] Adolie (ID: 17772561/0x010F3011) [11087*]:
     → "Yes, I overheard some of the other guards mention that the society's scientists had built a terrifying new battle machine."
   7: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
   9: 0x00C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=49*
- 10: 0x00D1 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11086*]:
+ 10: 0x00D1 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11088*]:
     → "Alright! After using that contraption, along with the airships' ultra-powerful mammoth cannons, there won't be enough left of those wyrms to even make dragon burgers!"
  11: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00D9 [0x21] END_EVENT
@@ -223,16 +223,16 @@
   0: 0x00DB [0x79] Adolie (ID: 17772561/0x010F3011) looks at Neraf-Najiruf (ID: 17772560/0x010F3010) (Basic look)
   1: 0x00E5 [0x79] Neraf-Najiruf (ID: 17772560/0x010F3010) looks at Adolie (ID: 17772561/0x010F3011) (Basic look)
   2: 0x00EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=49*
-  3: 0x00FE [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11096*]:
+  3: 0x00FE [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11098*]:
     → "Did you find out anything more about the super-secret weapon the armada took with them?"
   4: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0106 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
-  6: 0x0115 [0x2B] Adolie (ID: 17772561/0x010F3011) [11097*]:
+  6: 0x0115 [0x2B] Adolie (ID: 17772561/0x010F3011) [11099*]:
     → "No... However, I did hear that the device dealt a severe blow to the mighty Wyrmking during the assault."
   7: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x011D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
   9: 0x012C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=49*
- 10: 0x013B [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11098*]:
+ 10: 0x013B [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [11100*]:
     → "Wowzie! If I had an ultra-spiffy contraption like that, I'd be eating roast dragon burgers every night!"
  11: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0143 [0x21] END_EVENT
@@ -266,7 +266,7 @@
   1: 0x014A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x014B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x014C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  4: 0x015B [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10226*]:
+  4: 0x015B [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10228*]:
     → "Sometimes I see the darndest things here. One time, a rookie of ours got cursed in the necropolis of Eldieme, and I didn't know what to do."
   5: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0163 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -322,52 +322,52 @@
   6: 0x0194 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0195 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Adolie (ID: 17772561/0x010F3011) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x019A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  9: 0x01A9 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10228*]:
+  9: 0x01A9 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10230*]:
     → "Once I took a new guy to the Eldieme Necropolis, and he got cursed there. He went berserk, and had this unstoppable craving for raw meat."
  10: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x01B1 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10229*]:
+ 11: 0x01B1 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10231*]:
     → "Well, I gave it some thought... And you know those torches in the rooms made of stone? Well, I heard that spirits hate them..."
  12: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x01B9 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10230*]:
+ 13: 0x01B9 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10232*]:
     → "So, I figured it might help if I lit a lantern with those flames and brought it here. That's how we saved the guy."
  14: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01C1 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  16: 0x01C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
- 17: 0x01D5 [0x2B] Adolie (ID: 17772561/0x010F3011) [10231*]:
+ 17: 0x01D5 [0x2B] Adolie (ID: 17772561/0x010F3011) [10233*]:
     → "But, uh... I've also heard that some spirits actually like that kind of fire. So, it might not always be such a good idea."
  18: 0x01DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x01DD [0x6B] STOP_AND_IDLE: Adolie (ID: 17772561/0x010F3011) stops current action and resets to idle (animation="idl0")
  20: 0x01E6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 21: 0x01F5 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10232*]:
+ 21: 0x01F5 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10234*]:
     → "I guess we were lucky then. We had no idea what else to do, and just wanted to do what we could."
  22: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x01FD [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10233*]:
+ 23: 0x01FD [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10235*]:
     → "If you want, we can lend you the lantern we used back then. What do you say?"
  24: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0205 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 26: 0x020A [0x24] CREATE_DIALOG(message_id=10234*, default_option=0*, option_flags=0*)
+ 26: 0x020A [0x24] CREATE_DIALOG(message_id=10236*, default_option=0*, option_flags=0*)
     → "Do you want to borrow the lantern? [Yes, please./Not now.]"
  27: 0x0211 [0x25] WAIT_DIALOG_SELECT()
  28: 0x0212 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x027B
  29: 0x021A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 30: 0x0229 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10235*]:
+ 30: 0x0229 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10237*]:
     → "Try and bring back the flames in this lantern. We don't know what else could help."
  31: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0231 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  33: 0x0236 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
- 34: 0x0245 [0x2B] Adolie (ID: 17772561/0x010F3011) [10236*]:
+ 34: 0x0245 [0x2B] Adolie (ID: 17772561/0x010F3011) [10238*]:
     → "I seem to remember there were four torches, and that you had to light them in the proper order."
  35: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x024D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
  37: 0x025C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 38: 0x026B [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10237*]:
+ 38: 0x026B [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10239*]:
     → "Yeah, that's right. I remember screwing that up. Too bad I forgot the real order, though. Well, I'm sure you can figure it out."
  39: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0273 [0x03] Work_Zone[1] = 0*
  41: 0x0278 [0x01] GOTO 0x02A2
  42: 0x027B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02A2
  43: 0x0283 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 44: 0x0292 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10239*]:
+ 44: 0x0292 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10241*]:
     → "Oh, yeah? Well, you're free to use it any time."
  45: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x029A [0x03] Work_Zone[1] = 1*
@@ -407,10 +407,10 @@ SUBROUTINE_02A2:
   1: 0x02C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  4: 0x02D6 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10235*]:
+  4: 0x02D6 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10237*]:
     → "Try and bring back the flames in this lantern. We don't know what else could help."
   5: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02DE [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10238*]:
+  6: 0x02DE [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10240*]:
     → "Don't forget it's the stone-wrought room that you're after. The torches in the caverns are for something else, so don't mix them up."
   7: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02E6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -449,12 +449,12 @@ SUBROUTINE_02A2:
   2: 0x0312 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0313 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0314 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  5: 0x0323 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10241*]:
+  5: 0x0323 [0x2B] Neraf-Najiruf (ID: 17772560/0x010F3010) [10243*]:
     → "Oh, the flame thing didn't work, huh? Well, I'm just glad the spirit's gone!"
   6: 0x032A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x032B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
   8: 0x0330 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*
-  9: 0x033F [0x2B] Adolie (ID: 17772561/0x010F3011) [10242*]:
+  9: 0x033F [0x2B] Adolie (ID: 17772561/0x010F3011) [10244*]:
     → "Yep, I knew it. You learn something every day. I'm gonna write this up in the Guardsman's Daily."
  10: 0x0346 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0347 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Adolie (ID: 17772561/0x010F3011), Adolie (ID: 17772561/0x010F3011)], work=39*

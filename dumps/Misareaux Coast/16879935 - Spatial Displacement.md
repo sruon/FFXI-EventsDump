@@ -21,7 +21,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1BA1      |        7073 |
+|       0 | 0x1BA3      |        7075 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
@@ -29,13 +29,13 @@
 |       5 | 0x003C      |          60 |
 |       6 | 0x0064      |         100 |
 |       7 | 0x00F0      |         240 |
-|       8 | 0x1BA6      |        7078 |
+|       8 | 0x1BA8      |        7080 |
 |       9 | 0x0002      |           2 |
 
 ## String References
 
-- **7073**: Proceed onward? [Yes./No.]
-- **7078**: Proceed to which area? [Riverne - Site #A01./Riverne - Site #B01./Turn back.]
+- **7075**: Proceed onward? [Yes./No.]
+- **7080**: Proceed to which area? [Riverne - Site #A01./Riverne - Site #B01./Turn back.]
 
 ## Events
 
@@ -90,7 +90,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7073*, default_option=1*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7075*, default_option=1*, option_flags=0*)
     → "Proceed onward? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008A
@@ -157,7 +157,7 @@ SUBROUTINE_0095:
 
 ```
   0: 0x0099 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x009B [0x24] CREATE_DIALOG(message_id=7078*, default_option=2*, option_flags=0*)
+  1: 0x009B [0x24] CREATE_DIALOG(message_id=7080*, default_option=2*, option_flags=0*)
     → "Proceed to which area? [Riverne - Site #A01./Riverne - Site #B01./Turn back.]"
   2: 0x00A2 [0x25] WAIT_DIALOG_SELECT()
   3: 0x00A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0122

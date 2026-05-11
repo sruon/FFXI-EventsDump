@@ -171,41 +171,41 @@
 |      36 | 0x057A      |        1402 |
 |      37 | 0x44C3      |       17603 |
 |      38 | 0x0AB6      |        2742 |
-|      39 | 0x1E99      |        7833 |
-|      40 | 0x1EA5      |        7845 |
-|      41 | 0x1EA7      |        7847 |
-|      42 | 0x1EA8      |        7848 |
-|      43 | 0x1EA9      |        7849 |
-|      44 | 0x1EB1      |        7857 |
-|      45 | 0x1EB4      |        7860 |
-|      46 | 0x1EB9      |        7865 |
-|      47 | 0x1EC2      |        7874 |
-|      48 | 0x1EC4      |        7876 |
-|      49 | 0x1EC5      |        7877 |
-|      50 | 0x1EC8      |        7880 |
+|      39 | 0x1E9B      |        7835 |
+|      40 | 0x1EA7      |        7847 |
+|      41 | 0x1EA9      |        7849 |
+|      42 | 0x1EAA      |        7850 |
+|      43 | 0x1EAB      |        7851 |
+|      44 | 0x1EB3      |        7859 |
+|      45 | 0x1EB6      |        7862 |
+|      46 | 0x1EBB      |        7867 |
+|      47 | 0x1EC4      |        7876 |
+|      48 | 0x1EC6      |        7878 |
+|      49 | 0x1EC7      |        7879 |
+|      50 | 0x1ECA      |        7882 |
 |      51 | 0x0384      |         900 |
 |      52 | 0x4268      |       17000 |
 |      53 | 0x4588      |       17800 |
-|      54 | 0x1EDE      |        7902 |
-|      55 | 0x1EE6      |        7910 |
-|      56 | 0x1EEC      |        7916 |
-|      57 | 0x1EF0      |        7920 |
-|      58 | 0x1F0F      |        7951 |
+|      54 | 0x1EE0      |        7904 |
+|      55 | 0x1EE8      |        7912 |
+|      56 | 0x1EEE      |        7918 |
+|      57 | 0x1EF2      |        7922 |
+|      58 | 0x1F11      |        7953 |
 |      59 | 0xFFFFE1E4  |  4294959588 |
 |      60 | 0x5C02      |       23554 |
 |      61 | 0x7723      |       30499 |
 |      62 | 0xFFFFEBE0  |  4294962144 |
 |      63 | 0x573A      |       22330 |
 |      64 | 0x3A98      |       15000 |
-|      65 | 0x1F1C      |        7964 |
-|      66 | 0x1F1F      |        7967 |
-|      67 | 0x1F3D      |        7997 |
-|      68 | 0x1F3F      |        7999 |
-|      69 | 0x1F43      |        8003 |
-|      70 | 0x1F44      |        8004 |
-|      71 | 0x1F45      |        8005 |
-|      72 | 0x1F46      |        8006 |
-|      73 | 0x1F47      |        8007 |
+|      65 | 0x1F1E      |        7966 |
+|      66 | 0x1F21      |        7969 |
+|      67 | 0x1F3F      |        7999 |
+|      68 | 0x1F41      |        8001 |
+|      69 | 0x1F45      |        8005 |
+|      70 | 0x1F46      |        8006 |
+|      71 | 0x1F47      |        8007 |
+|      72 | 0x1F48      |        8008 |
+|      73 | 0x1F49      |        8009 |
 |      74 | 0x002B      |          43 |
 |      75 | 0xFFFF8692  |  4294936210 |
 |      76 | 0x11170     |       70000 |
@@ -224,28 +224,28 @@
 |      89 | 0xFFFFFFC6  |  4294967238 |
 |      90 | 0xFFFFD733  |  4294956851 |
 |      91 | 0x14A7D     |       84605 |
-|      92 | 0x1F20      |        7968 |
-|      93 | 0x1F21      |        7969 |
-|      94 | 0x1F26      |        7974 |
-|      95 | 0x1F27      |        7975 |
-|      96 | 0x1F2A      |        7978 |
-|      97 | 0x1F2D      |        7981 |
-|      98 | 0x1F32      |        7986 |
-|      99 | 0x1F37      |        7991 |
-|     100 | 0x1F39      |        7993 |
-|     101 | 0x1F3A      |        7994 |
-|     102 | 0x1F3C      |        7996 |
-|     103 | 0x1F4E      |        8014 |
-|     104 | 0x1F4F      |        8015 |
-|     105 | 0x1F52      |        8018 |
-|     106 | 0x1F5A      |        8026 |
-|     107 | 0x1F6E      |        8046 |
-|     108 | 0x1F6F      |        8047 |
-|     109 | 0x1F73      |        8051 |
-|     110 | 0x1F75      |        8053 |
-|     111 | 0x1F76      |        8054 |
-|     112 | 0x1F7A      |        8058 |
-|     113 | 0x1F89      |        8073 |
+|      92 | 0x1F22      |        7970 |
+|      93 | 0x1F23      |        7971 |
+|      94 | 0x1F28      |        7976 |
+|      95 | 0x1F29      |        7977 |
+|      96 | 0x1F2C      |        7980 |
+|      97 | 0x1F2F      |        7983 |
+|      98 | 0x1F34      |        7988 |
+|      99 | 0x1F39      |        7993 |
+|     100 | 0x1F3B      |        7995 |
+|     101 | 0x1F3C      |        7996 |
+|     102 | 0x1F3E      |        7998 |
+|     103 | 0x1F50      |        8016 |
+|     104 | 0x1F51      |        8017 |
+|     105 | 0x1F54      |        8020 |
+|     106 | 0x1F5C      |        8028 |
+|     107 | 0x1F70      |        8048 |
+|     108 | 0x1F71      |        8049 |
+|     109 | 0x1F75      |        8053 |
+|     110 | 0x1F77      |        8055 |
+|     111 | 0x1F78      |        8056 |
+|     112 | 0x1F7C      |        8060 |
+|     113 | 0x1F8B      |        8075 |
 |     114 | 0xFFFFFF29  |  4294967081 |
 |     115 | 0x47B3      |       18355 |
 |     116 | 0x07CA      |        1994 |
@@ -255,63 +255,63 @@
 |     120 | 0xFFFFE1D2  |  4294959570 |
 |     121 | 0x5871      |       22641 |
 |     122 | 0x0157      |         343 |
-|     123 | 0x1F97      |        8087 |
-|     124 | 0x1F9A      |        8090 |
-|     125 | 0x1F9C      |        8092 |
+|     123 | 0x1F99      |        8089 |
+|     124 | 0x1F9C      |        8092 |
+|     125 | 0x1F9E      |        8094 |
 
 ## String References
 
-- **7833**: Ohohoho! There is nothing you total losers have to fear, now that I am here!
-- **7845**: Ohoho! I was wondering when you would ask.
-- **7847**: When it comes to the subject of photosynthesis, I'm filled with knowledge galore.
-- **7848**: Plants need light to grow. Take light away from the star trees, and their rate of growth will be slow!
-- **7849**: So that is your solution, Chumimi, my dear. All you have to do is turn up the light in here.
-- **7857**: Preposterous! The light is what it must be. It must!
-- **7860**: The light!
-- **7865**: You wouldn't dare! Unless you want me changing you into a pair of dirty underwear!
-- **7874**: ...
-- **7876**: Well, no matter. I have a job for you. You can do it on your own. I want you to travel to Xarcabard and collect $5.
-- **7877**: How do you get one? Toss $1 into the aurora crevice in Xarcabard, and you're done!
-- **7880**: I'll pretend I didn't hear that. Now, off with you!
-- **7902**: Ohohoho! I'm assuming that you called me here to tell me that my glowstones did the job.
-- **7910**: I'll have to agree with you this time. Taking the matter seriously suits me just fine.
-- **7916**: Awfully familiar? Well, of course it is! Don't be absurd. That is what our principal from the School of Magic would always say, word for word.
-- **7920**: Word for word! Why don't you try putting things in your words for a change? Don't you think all this plagiarism is a bit strange?
-- **7951**: It looks as if our friend the professor does not want us to hear his dirty pastaru. I wouldn't advise sticking our noses in too deep, as something terrible happens every time. Remember the lastaru?
-- **7964**: Unbelievable, the things this crazy professor tries. I dragged him here so he could apologize.
-- **7967**: Hmmm...where was I twenty years ago...
-- **7968**: (Now that you mention it, twenty years ago I was in the Northlands leading a company of War Warlocks in battle with the Shadow Lord's minions.)
-- **7969**: (I think it was Castle Zvahl. We were using $1 to communicate with headquarters, but we became stranded deep within that dark dominion.)
-- **7974**: Of all the things that could go wrong, why do all of them have to go wrong at this instance?
-- **7975**: We could use my magic to warp out of the castle, but that would leave the red mages at the gateway helpless.
-- **7978**: Ta-dah! The answer lies in this talking doll! Come on out, now. Tell us where to go.
-- **7981**: Why, you little...
-- **7986**: Why you little...
-- **7991**: ...
-- **7993**: Ohoho! Scream all you want.
-- **7994**: All that noise will be a perfect diversion, I say... Now let us head off for the gateway!
-- **7996**: (Those were the last words I heard from that despicable doll.)
-- **7997**: Ahem! So this is all...the curse of a talking doll!
-- **7999**: Ohoho! I apologize for my sudden outburst. I do remember one thing that may be the cause of our trouble here in Windurst.
-- **8003**: I'm assuming an adventurer of your stature is familiar with Castle Zvahl.
-- **8004**: Twenty years ago, I led a company into the castle to battle the Shadow Lord, and I sacrificed that talking doll to save us all.
-- **8005**: Now, the curse of that terrible doll may be what is affecting the star trees. I want you to find that doll and bring it back to Chumimi.
-- **8006**: Not to me, mind you. If I saw that piece of junk again, who knows what I would do...
-- **8007**: Anyway, you know what you have to do. Now, be off with you!
-- **8014**: Well, I had no doubt! This doll's magic has run out!
-- **8015**: With no magic, these things are useless. There is no way it could be cursing us.
-- **8018**: Really? This piece of junk?
-- **8026**: Can we get on with this quick? I have test subjects waiting, all poisoned and sick.
-- **8046**: Exactly, dear Chumimi. That is why we need you to get access for us from the Star Sibyl.
-- **8047**: We have decided to send down this adventurer to end all this quibble.
-- **8051**: Ohoho! As much as I'd love to attend the show, I have other places I need to go.
-- **8053**: Say what you will, Professor. If Karaha-Baruha hadn't gone and died before returning my equipment, I wouldn't have to go there and retrieve my property.
-- **8054**: Think of it as me doing him a favor. You wouldn't think that he'd want to spend eternity being hated by yours truly.
-- **8058**: Professor, that idea is wonderful. I can see someone here is being useful.
-- **8073**: Silent running! Now that is a feature that they should put on all magic dolls! Ohohoho!
-- **8087**: I'm here, I'm here.
-- **8090**: Quiet, Professor! It was terrible down there. You don't have a clue. Just look at my hat! It's all moldy-woldy and covered with mildew!
-- **8092**: It's a good hat, but you should probably wash it first. Take good care of it, unless you want to get cursed.
+- **7835**: Ohohoho! There is nothing you total losers have to fear, now that I am here!
+- **7847**: Ohoho! I was wondering when you would ask.
+- **7849**: When it comes to the subject of photosynthesis, I'm filled with knowledge galore.
+- **7850**: Plants need light to grow. Take light away from the star trees, and their rate of growth will be slow!
+- **7851**: So that is your solution, Chumimi, my dear. All you have to do is turn up the light in here.
+- **7859**: Preposterous! The light is what it must be. It must!
+- **7862**: The light!
+- **7867**: You wouldn't dare! Unless you want me changing you into a pair of dirty underwear!
+- **7876**: ...
+- **7878**: Well, no matter. I have a job for you. You can do it on your own. I want you to travel to Xarcabard and collect $5.
+- **7879**: How do you get one? Toss $1 into the aurora crevice in Xarcabard, and you're done!
+- **7882**: I'll pretend I didn't hear that. Now, off with you!
+- **7904**: Ohohoho! I'm assuming that you called me here to tell me that my glowstones did the job.
+- **7912**: I'll have to agree with you this time. Taking the matter seriously suits me just fine.
+- **7918**: Awfully familiar? Well, of course it is! Don't be absurd. That is what our principal from the School of Magic would always say, word for word.
+- **7922**: Word for word! Why don't you try putting things in your words for a change? Don't you think all this plagiarism is a bit strange?
+- **7953**: It looks as if our friend the professor does not want us to hear his dirty pastaru. I wouldn't advise sticking our noses in too deep, as something terrible happens every time. Remember the lastaru?
+- **7966**: Unbelievable, the things this crazy professor tries. I dragged him here so he could apologize.
+- **7969**: Hmmm...where was I twenty years ago...
+- **7970**: (Now that you mention it, twenty years ago I was in the Northlands leading a company of War Warlocks in battle with the Shadow Lord's minions.)
+- **7971**: (I think it was Castle Zvahl. We were using $1 to communicate with headquarters, but we became stranded deep within that dark dominion.)
+- **7976**: Of all the things that could go wrong, why do all of them have to go wrong at this instance?
+- **7977**: We could use my magic to warp out of the castle, but that would leave the red mages at the gateway helpless.
+- **7980**: Ta-dah! The answer lies in this talking doll! Come on out, now. Tell us where to go.
+- **7983**: Why, you little...
+- **7988**: Why you little...
+- **7993**: ...
+- **7995**: Ohoho! Scream all you want.
+- **7996**: All that noise will be a perfect diversion, I say... Now let us head off for the gateway!
+- **7998**: (Those were the last words I heard from that despicable doll.)
+- **7999**: Ahem! So this is all...the curse of a talking doll!
+- **8001**: Ohoho! I apologize for my sudden outburst. I do remember one thing that may be the cause of our trouble here in Windurst.
+- **8005**: I'm assuming an adventurer of your stature is familiar with Castle Zvahl.
+- **8006**: Twenty years ago, I led a company into the castle to battle the Shadow Lord, and I sacrificed that talking doll to save us all.
+- **8007**: Now, the curse of that terrible doll may be what is affecting the star trees. I want you to find that doll and bring it back to Chumimi.
+- **8008**: Not to me, mind you. If I saw that piece of junk again, who knows what I would do...
+- **8009**: Anyway, you know what you have to do. Now, be off with you!
+- **8016**: Well, I had no doubt! This doll's magic has run out!
+- **8017**: With no magic, these things are useless. There is no way it could be cursing us.
+- **8020**: Really? This piece of junk?
+- **8028**: Can we get on with this quick? I have test subjects waiting, all poisoned and sick.
+- **8048**: Exactly, dear Chumimi. That is why we need you to get access for us from the Star Sibyl.
+- **8049**: We have decided to send down this adventurer to end all this quibble.
+- **8053**: Ohoho! As much as I'd love to attend the show, I have other places I need to go.
+- **8055**: Say what you will, Professor. If Karaha-Baruha hadn't gone and died before returning my equipment, I wouldn't have to go there and retrieve my property.
+- **8056**: Think of it as me doing him a favor. You wouldn't think that he'd want to spend eternity being hated by yours truly.
+- **8060**: Professor, that idea is wonderful. I can see someone here is being useful.
+- **8075**: Silent running! Now that is a feature that they should put on all magic dolls! Ohohoho!
+- **8089**: I'm here, I'm here.
+- **8092**: Quiet, Professor! It was terrible down there. You don't have a clue. Just look at my hat! It's all moldy-woldy and covered with mildew!
+- **8094**: It's a good hat, but you should probably wash it first. Take good care of it, unless you want to get cursed.
 
 ## Events
 
@@ -1462,7 +1462,7 @@
 #### Opcodes
 
 ```
-  0: 0x0352 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
+  0: 0x0352 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
     → "Ohohoho! There is nothing you total losers have to fear, now that I am here!"
   1: 0x0355 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0356 [0x00] END_REQSTACK()
@@ -1511,7 +1511,7 @@
 
 ```
   0: 0x0358 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x16)
-  1: 0x035F [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
+  1: 0x035F [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
     → "Ohoho! I was wondering when you would ask."
   2: 0x0362 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0363 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x17)
@@ -1537,7 +1537,7 @@
 #### Opcodes
 
 ```
-  0: 0x036B [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
+  0: 0x036B [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
     → "When it comes to the subject of photosynthesis, I'm filled with knowledge galore."
   1: 0x036E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x036F [0x00] END_REQSTACK()
@@ -1564,7 +1564,7 @@
 
 ```
   0: 0x0370 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1C)
-  1: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=7848*)
+  1: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
     → "Plants need light to grow. Take light away from the star trees, and their rate of growth will be slow!"
   2: 0x037A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x037B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1D)
@@ -1590,7 +1590,7 @@
 #### Opcodes
 
 ```
-  0: 0x0383 [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
+  0: 0x0383 [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
     → "So that is your solution, Chumimi, my dear. All you have to do is turn up the light in here."
   1: 0x0386 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0387 [0x00] END_REQSTACK()
@@ -1615,7 +1615,7 @@
 #### Opcodes
 
 ```
-  0: 0x0388 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+  0: 0x0388 [0x1D] PRINT_EVENT_MESSAGE(message_id=7859*)
     → "Preposterous! The light is what it must be. It must!"
   1: 0x038B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x038C [0x00] END_REQSTACK()
@@ -1641,7 +1641,7 @@
 #### Opcodes
 
 ```
-  0: 0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
+  0: 0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
     → "The light!"
   1: 0x0390 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0391 [0x00] END_REQSTACK()
@@ -1668,7 +1668,7 @@
 
 ```
   0: 0x0392 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x22)
-  1: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+  1: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
     → "You wouldn't dare! Unless you want me changing you into a pair of dirty underwear!"
   2: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x039D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x23)
@@ -1696,7 +1696,7 @@
 
 ```
   0: 0x03A5 [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7874*)
+  1: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7876*)
     → "..."
   2: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03AF [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -1724,10 +1724,10 @@
 
 ```
   0: 0x03B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x0E)
-  1: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7876*)
+  1: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
     → "Well, no matter. I have a job for you. You can do it on your own. I want you to travel to Xarcabard and collect $5."
   2: 0x03C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7877*)
+  3: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
     → "How do you get one? Toss $1 into the aurora crevice in Xarcabard, and you're done!"
   4: 0x03C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x03C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x0F)
@@ -1755,7 +1755,7 @@
 
 ```
   0: 0x03CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x16)
-  1: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+  1: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
     → "I'll pretend I didn't hear that. Now, off with you!"
   2: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x17)
@@ -1855,7 +1855,7 @@
 #### Opcodes
 
 ```
-  0: 0x0400 [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
+  0: 0x0400 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
     → "Ohohoho! I'm assuming that you called me here to tell me that my glowstones did the job."
   1: 0x0403 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0404 [0x00] END_REQSTACK()
@@ -1882,7 +1882,7 @@
 
 ```
   0: 0x0405 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x0E)
-  1: 0x040C [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+  1: 0x040C [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "I'll have to agree with you this time. Taking the matter seriously suits me just fine."
   2: 0x040F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0410 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x0F)
@@ -1908,7 +1908,7 @@
 #### Opcodes
 
 ```
-  0: 0x0418 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
+  0: 0x0418 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
     → "Awfully familiar? Well, of course it is! Don't be absurd. That is what our principal from the School of Magic would always say, word for word."
   1: 0x041B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x041C [0x00] END_REQSTACK()
@@ -1934,7 +1934,7 @@
 #### Opcodes
 
 ```
-  0: 0x041D [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
+  0: 0x041D [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "Word for word! Why don't you try putting things in your words for a change? Don't you think all this plagiarism is a bit strange?"
   1: 0x0420 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0421 [0x00] END_REQSTACK()
@@ -1959,7 +1959,7 @@
 #### Opcodes
 
 ```
-  0: 0x0422 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
+  0: 0x0422 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
     → "It looks as if our friend the professor does not want us to hear his dirty pastaru. I wouldn't advise sticking our noses in too deep, as something terrible happens every time. Remember the lastaru?"
   1: 0x0425 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0426 [0x00] END_REQSTACK()
@@ -2081,7 +2081,7 @@
 #### Opcodes
 
 ```
-  0: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
+  0: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "Unbelievable, the things this crazy professor tries. I dragged him here so he could apologize."
   1: 0x0451 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0452 [0x00] END_REQSTACK()
@@ -2108,7 +2108,7 @@
 
 ```
   0: 0x0453 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x10)
-  1: 0x045A [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+  1: 0x045A [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "Hmmm...where was I twenty years ago..."
   2: 0x045D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x045E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x11)
@@ -2134,7 +2134,7 @@
 #### Opcodes
 
 ```
-  0: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
+  0: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
     → "Ahem! So this is all...the curse of a talking doll!"
   1: 0x0469 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x046A [0x00] END_REQSTACK()
@@ -2161,7 +2161,7 @@
 
 ```
   0: 0x046B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x16)
-  1: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
+  1: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
     → "Ohoho! I apologize for my sudden outburst. I do remember one thing that may be the cause of our trouble here in Windurst."
   2: 0x0475 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0476 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x17)
@@ -2190,11 +2190,11 @@
 
 ```
   0: 0x047E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1C)
-  1: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=8003*)
+  1: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
     → "I'm assuming an adventurer of your stature is familiar with Castle Zvahl."
   2: 0x0488 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0489 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1D)
-  4: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
+  4: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
     → "Twenty years ago, I led a company into the castle to battle the Shadow Lord, and I sacrificed that talking doll to save us all."
   5: 0x0493 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0494 [0x00] END_REQSTACK()
@@ -2221,7 +2221,7 @@
 
 ```
   0: 0x0495 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x0E)
-  1: 0x049C [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
+  1: 0x049C [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
     → "Now, the curse of that terrible doll may be what is affecting the star trees. I want you to find that doll and bring it back to Chumimi."
   2: 0x049F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x0F)
@@ -2250,12 +2250,12 @@
 
 ```
   0: 0x04A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x10)
-  1: 0x04AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
+  1: 0x04AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
     → "Not to me, mind you. If I saw that piece of junk again, who knows what I would do..."
   2: 0x04B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x11)
   4: 0x04BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x12)
-  5: 0x04C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
+  5: 0x04C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
     → "Anyway, you know what you have to do. Now, be off with you!"
   6: 0x04C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x04C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x13)
@@ -2463,10 +2463,10 @@
 #### Opcodes
 
 ```
-  0: 0x055D [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+  0: 0x055D [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "(Now that you mention it, twenty years ago I was in the Northlands leading a company of War Warlocks in battle with the Shadow Lord's minions.)"
   1: 0x0560 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0561 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+  2: 0x0561 [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
     → "(I think it was Castle Zvahl. We were using $1 to communicate with headquarters, but we became stranded deep within that dark dominion.)"
   3: 0x0564 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0565 [0x00] END_REQSTACK()
@@ -2492,11 +2492,11 @@
 #### Opcodes
 
 ```
-  0: 0x0566 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
+  0: 0x0566 [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
     → "Of all the things that could go wrong, why do all of them have to go wrong at this instance?"
   1: 0x0569 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x056A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1C)
-  3: 0x0571 [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
+  3: 0x0571 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
     → "We could use my magic to warp out of the castle, but that would leave the red mages at the gateway helpless."
   4: 0x0574 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0575 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1D)
@@ -2524,7 +2524,7 @@
 
 ```
   0: 0x057D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1C)
-  1: 0x0584 [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
+  1: 0x0584 [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
     → "Ta-dah! The answer lies in this talking doll! Come on out, now. Tell us where to go."
   2: 0x0587 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0588 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1D)
@@ -2550,7 +2550,7 @@
 #### Opcodes
 
 ```
-  0: 0x0590 [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
+  0: 0x0590 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
     → "Why, you little..."
   1: 0x0593 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0594 [0x00] END_REQSTACK()
@@ -2575,7 +2575,7 @@
 #### Opcodes
 
 ```
-  0: 0x0595 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
+  0: 0x0595 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "Why you little..."
   1: 0x0598 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0599 [0x00] END_REQSTACK()
@@ -2600,7 +2600,7 @@
 #### Opcodes
 
 ```
-  0: 0x059A [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+  0: 0x059A [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "..."
   1: 0x059D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x059E [0x00] END_REQSTACK()
@@ -2628,7 +2628,7 @@
 
 ```
   0: 0x059F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x16)
-  1: 0x05A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
+  1: 0x05A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
     → "Ohoho! Scream all you want."
   2: 0x05A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x17)
@@ -2654,7 +2654,7 @@
 #### Opcodes
 
 ```
-  0: 0x05B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
+  0: 0x05B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
     → "All that noise will be a perfect diversion, I say... Now let us head off for the gateway!"
   1: 0x05B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05B6 [0x00] END_REQSTACK()
@@ -2679,7 +2679,7 @@
 #### Opcodes
 
 ```
-  0: 0x05B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
+  0: 0x05B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
     → "(Those were the last words I heard from that despicable doll.)"
   1: 0x05BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05BB [0x00] END_REQSTACK()
@@ -2727,7 +2727,7 @@
 #### Opcodes
 
 ```
-  0: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
+  0: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
     → "Well, I had no doubt! This doll's magic has run out!"
   1: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05C1 [0x00] END_REQSTACK()
@@ -2754,7 +2754,7 @@
 
 ```
   0: 0x05C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1C)
-  1: 0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
+  1: 0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "With no magic, these things are useless. There is no way it could be cursing us."
   2: 0x05CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1D)
@@ -2782,7 +2782,7 @@
 
 ```
   0: 0x05D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x22)
-  1: 0x05DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
+  1: 0x05DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
     → "Really? This piece of junk?"
   2: 0x05DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x23)
@@ -2830,7 +2830,7 @@
 #### Opcodes
 
 ```
-  0: 0x05E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
+  0: 0x05E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
     → "Can we get on with this quick? I have test subjects waiting, all poisoned and sick."
   1: 0x05EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05ED [0x00] END_REQSTACK()
@@ -2856,7 +2856,7 @@
 #### Opcodes
 
 ```
-  0: 0x05EE [0x1D] PRINT_EVENT_MESSAGE(message_id=8046*)
+  0: 0x05EE [0x1D] PRINT_EVENT_MESSAGE(message_id=8048*)
     → "Exactly, dear Chumimi. That is why we need you to get access for us from the Star Sibyl."
   1: 0x05F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05F2 [0x00] END_REQSTACK()
@@ -2883,7 +2883,7 @@
 
 ```
   0: 0x05F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1C)
-  1: 0x05FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8047*)
+  1: 0x05FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8049*)
     → "We have decided to send down this adventurer to end all this quibble."
   2: 0x05FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1D)
@@ -2911,7 +2911,7 @@
 
 ```
   0: 0x0606 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x16)
-  1: 0x060D [0x1D] PRINT_EVENT_MESSAGE(message_id=8051*)
+  1: 0x060D [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
     → "Ohoho! As much as I'd love to attend the show, I have other places I need to go."
   2: 0x0610 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0611 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x17)
@@ -2940,12 +2940,12 @@
 
 ```
   0: 0x0619 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1A)
-  1: 0x0620 [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
+  1: 0x0620 [0x1D] PRINT_EVENT_MESSAGE(message_id=8055*)
     → "Say what you will, Professor. If Karaha-Baruha hadn't gone and died before returning my equipment, I wouldn't have to go there and retrieve my property."
   2: 0x0623 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0624 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1B)
   4: 0x062B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x16)
-  5: 0x0632 [0x1D] PRINT_EVENT_MESSAGE(message_id=8054*)
+  5: 0x0632 [0x1D] PRINT_EVENT_MESSAGE(message_id=8056*)
     → "Think of it as me doing him a favor. You wouldn't think that he'd want to spend eternity being hated by yours truly."
   6: 0x0635 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0636 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x17)
@@ -2972,7 +2972,7 @@
 #### Opcodes
 
 ```
-  0: 0x063E [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
+  0: 0x063E [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
     → "Professor, that idea is wonderful. I can see someone here is being useful."
   1: 0x0641 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0642 [0x00] END_REQSTACK()
@@ -3021,7 +3021,7 @@
 
 ```
   0: 0x0644 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1C)
-  1: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=8073*)
+  1: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
     → "Silent running! Now that is a feature that they should put on all magic dolls! Ohohoho!"
   2: 0x064E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x064F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1D)
@@ -3175,7 +3175,7 @@
 #### Opcodes
 
 ```
-  0: 0x069C [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
+  0: 0x069C [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
     → "I'm here, I'm here."
   1: 0x069F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06A0 [0x00] END_REQSTACK()
@@ -3202,7 +3202,7 @@
 
 ```
   0: 0x06A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1E)
-  1: 0x06A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8090*)
+  1: 0x06A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
     → "Quiet, Professor! It was terrible down there. You don't have a clue. Just look at my hat! It's all moldy-woldy and covered with mildew!"
   2: 0x06AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x1F)
@@ -3230,7 +3230,7 @@
 
 ```
   0: 0x06B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x14)
-  1: 0x06BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
+  1: 0x06BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
     → "It's a good hat, but you should probably wash it first. Take good care of it, unless you want to get cursed."
   2: 0x06BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x15)

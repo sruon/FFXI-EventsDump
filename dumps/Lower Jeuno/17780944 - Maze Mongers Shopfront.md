@@ -27,31 +27,31 @@
 |       4 | 0x0017      |          23 |
 |       5 | 0x000F      |          15 |
 |       6 | 0x000A      |          10 |
-|       7 | 0x2623      |        9763 |
-|       8 | 0x2624      |        9764 |
+|       7 | 0x2625      |        9765 |
+|       8 | 0x2626      |        9766 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x2625      |        9765 |
+|      10 | 0x2627      |        9767 |
 |      11 | 0x40000000  |  1073741824 |
-|      12 | 0x2631      |        9777 |
-|      13 | 0x262C      |        9772 |
+|      12 | 0x2633      |        9779 |
+|      13 | 0x262E      |        9774 |
 |      14 | 0x0003      |           3 |
 |      15 | 0x0004      |           4 |
-|      16 | 0x2626      |        9766 |
+|      16 | 0x2628      |        9768 |
 |      17 | 0x005A      |          90 |
 |      18 | 0x00C9      |         201 |
 |      19 | 0x002D      |          45 |
 |      20 | 0x00C8      |         200 |
-|      21 | 0x2627      |        9767 |
+|      21 | 0x2629      |        9769 |
 
 ## String References
 
-- **9763**: You are about to order a maze with your specified settings. Proceed? (You have accumulated $8 C.C. [point/points].)
-- **9764**: Order this maze? [Yes./No.]
-- **9765**: This transaction will require $6 gil. [Proceed./Cancel.]
-- **9766**: Now entering the maze.
-- **9767**: You have canceled your maze order.
-- **9772**: Your request for entry is being considered...
-- **9777**: You lack the gil necessary to order this maze.
+- **9765**: You are about to order a maze with your specified settings. Proceed? (You have accumulated $8 C.C. [point/points].)
+- **9766**: Order this maze? [Yes./No.]
+- **9767**: This transaction will require $6 gil. [Proceed./Cancel.]
+- **9768**: Now entering the maze.
+- **9769**: You have canceled your maze order.
+- **9774**: Your request for entry is being considered...
+- **9779**: You lack the gil necessary to order this maze.
 
 ## Events
 
@@ -123,32 +123,32 @@
   5: 0x0022 [0x14] ExtData[1]->WorkLocal[1] *= 10*
   6: 0x0027 [0x71] USER_INPUT_HANDLER: Moblin Maze Mongers menu (sends packet 0x60) (params=[0x1002, 0x1003, 0x1004, 0x1005, 0x1006, 0x1007, 0x1008])
   7: 0x0037 [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[2]
-  8: 0x003C [0x48] [System] [9763*]:
+  8: 0x003C [0x48] [System] [9765*]:
     → "You are about to order a maze with your specified settings. Proceed? (You have accumulated $8 C.C. [point/points].)"
   9: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0040 [0x71] USER_INPUT_HANDLER: MMM menu check
- 11: 0x0042 [0x24] CREATE_DIALOG(message_id=9764*, default_option=1*, option_flags=0*)
+ 11: 0x0042 [0x24] CREATE_DIALOG(message_id=9766*, default_option=1*, option_flags=0*)
     → "Order this maze? [Yes./No.]"
  12: 0x0049 [0x25] WAIT_DIALOG_SELECT()
  13: 0x004A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0122
  14: 0x0052 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[1]
- 15: 0x0057 [0x24] CREATE_DIALOG(message_id=9765*, default_option=1*, option_flags=0*)
+ 15: 0x0057 [0x24] CREATE_DIALOG(message_id=9767*, default_option=1*, option_flags=0*)
     → "This transaction will require $6 gil. [Proceed./Cancel.]"
  16: 0x005E [0x25] WAIT_DIALOG_SELECT()
  17: 0x005F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010C
  18: 0x0067 [0x02] IF !(Work_Zone[9] >= ExtData[1]->WorkLocal[1]) GOTO 0x007A
  19: 0x006F [0x03] Work_Zone[1] = 1073741824*
- 20: 0x0074 [0x48] [System] [9777*]:
+ 20: 0x0074 [0x48] [System] [9779*]:
     → "You lack the gil necessary to order this maze."
  21: 0x0077 [0x01] GOTO 0x0109
- 22: 0x007A [0x48] [System] [9772*]:
+ 22: 0x007A [0x48] [System] [9774*]:
     → "Your request for entry is being considered..."
  23: 0x007D [0xA7] BATTLEFIELD_RESPONSE_WAIT: Wait for server response (Dynamis/MMM/Salvage), mode=0x00
  24: 0x007F [0xA7] BATTLEFIELD_RESPONSE_WAIT: Wait for server response with parameter (Dynamis/MMM/Salvage), param=ExtData[1]->WorkLocal[0]
  25: 0x0083 [0x03] Work_Zone[1] = 0*
  26: 0x0088 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[0])
  27: 0x0091 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0109
- 28: 0x0099 [0x48] [System] [9766*]:
+ 28: 0x0099 [0x48] [System] [9768*]:
     → "Now entering the maze."
  29: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x009D [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
@@ -166,7 +166,7 @@ SUBROUTINE_0109:
  40: 0x0109 [0x01] GOTO 0x011F
  41: 0x010C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x011F
  42: 0x0114 [0x03] Work_Zone[1] = 1073741824*
- 43: 0x0119 [0x48] [System] [9767*]:
+ 43: 0x0119 [0x48] [System] [9769*]:
     → "You have canceled your maze order."
  44: 0x011C [0x01] GOTO 0x011F
 

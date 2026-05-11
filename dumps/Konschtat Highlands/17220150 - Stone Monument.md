@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CF2      |        7410 |
-|       1 | 0x1CF3      |        7411 |
-|       2 | 0x1CF4      |        7412 |
-|       3 | 0x1CF5      |        7413 |
-|       4 | 0x1CF6      |        7414 |
-|       5 | 0x1CF7      |        7415 |
+|       0 | 0x1CF4      |        7412 |
+|       1 | 0x1CF5      |        7413 |
+|       2 | 0x1CF6      |        7414 |
+|       3 | 0x1CF7      |        7415 |
+|       4 | 0x1CF8      |        7416 |
+|       5 | 0x1CF9      |        7417 |
 
 ## String References
 
-- **7410**: You see a message engraved on the stone:
-- **7411**: The wind that blows incessantly through this area is called "Odin's Wrath." Seeing its potential use, some ingenious Bastokers decided to build windmills here, a long time ago.
-- **7412**: Flourmills, to be exact. In this desolate land where nothing more than potatoes can grow, the wheat brought in from San d'Oria was a true lifesaver to Bastokers.
-- **7413**: San d'Oria, in turn, relied on their consumption of its surplus wheat, and also on the flour that came back from Bastok's mills. The mills became the symbols of their mutual dependence.
-- **7414**: Even in times of war between the two, this trade continued. Both armies' brass were infuriated, but none tried to disrupt it lest the bread disappeared from their own tables! Ah, the irony!
-- **7415**: A toast, to the merchants! --Gwynham Ironheart, 750 Crystal Era.
+- **7412**: You see a message engraved on the stone:
+- **7413**: The wind that blows incessantly through this area is called "Odin's Wrath." Seeing its potential use, some ingenious Bastokers decided to build windmills here, a long time ago.
+- **7414**: Flourmills, to be exact. In this desolate land where nothing more than potatoes can grow, the wheat brought in from San d'Oria was a true lifesaver to Bastokers.
+- **7415**: San d'Oria, in turn, relied on their consumption of its surplus wheat, and also on the flour that came back from Bastok's mills. The mills became the symbols of their mutual dependence.
+- **7416**: Even in times of war between the two, this trade continued. Both armies' brass were infuriated, but none tried to disrupt it lest the bread disappeared from their own tables! Ah, the irony!
+- **7417**: A toast, to the merchants! --Gwynham Ironheart, 750 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7410*]:
+  0: 0x0001 [0x48] [System] [7412*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7411*]:
+  2: 0x0005 [0x48] [System] [7413*]:
     → "The wind that blows incessantly through this area is called "Odin's Wrath." Seeing its potential use, some ingenious Bastokers decided to build windmills here, a long time ago."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7412*]:
+  4: 0x0009 [0x48] [System] [7414*]:
     → "Flourmills, to be exact. In this desolate land where nothing more than potatoes can grow, the wheat brought in from San d'Oria was a true lifesaver to Bastokers."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7413*]:
+  6: 0x000D [0x48] [System] [7415*]:
     → "San d'Oria, in turn, relied on their consumption of its surplus wheat, and also on the flour that came back from Bastok's mills. The mills became the symbols of their mutual dependence."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7414*]:
+  8: 0x0011 [0x48] [System] [7416*]:
     → "Even in times of war between the two, this trade continued. Both armies' brass were infuriated, but none tried to disrupt it lest the bread disappeared from their own tables! Ah, the irony!"
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7415*]:
+ 10: 0x0015 [0x48] [System] [7417*]:
     → "A toast, to the merchants! --Gwynham Ironheart, 750 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

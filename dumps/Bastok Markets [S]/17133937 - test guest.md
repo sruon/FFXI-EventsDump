@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2AB0      |       10928 |
+|       0 | 0x2AB2      |       10930 |
 
 ## String References
 
-- **10928**: Freelance ID: $0, Area of Attack: $1, Contract Status: [No affiliation/San d'Oria/Bastok/Windurst/Beastman 1/Beastman 2/Beastman 3/Beastman 4], San d'Orian Reputation: $3, Bastokan Reputation: $4, Windurstian Reputation: $5
+- **10930**: Freelance ID: $0, Area of Attack: $1, Contract Status: [No affiliation/San d'Oria/Bastok/Windurst/Beastman 1/Beastman 2/Beastman 3/Beastman 4], San d'Orian Reputation: $3, Bastokan Reputation: $4, Windurstian Reputation: $5
 
 ## Events
 
@@ -79,7 +79,7 @@
   5: 0x0013 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
   6: 0x0018 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[6]
   7: 0x001D [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[7]
-  8: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=10928*)
+  8: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=10930*)
     → "Freelance ID: $0, Area of Attack: $1, Contract Status: [No affiliation/San d'Oria/Bastok/Windurst/Beastman 1/Beastman 2/Beastman 3/Beastman 4], San d'Orian Reputation: $3, Bastokan Reputation: $4, Windurstian Reputation: $5"
   9: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0026 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

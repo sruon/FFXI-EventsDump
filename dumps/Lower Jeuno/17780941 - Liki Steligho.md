@@ -22,26 +22,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x26BC      |        9916 |
+|       0 | 0x26BE      |        9918 |
 |       1 | 0x0016      |          22 |
-|       2 | 0x26BD      |        9917 |
+|       2 | 0x26BF      |        9919 |
 |       3 | 0x0010      |          16 |
-|       4 | 0x26BE      |        9918 |
+|       4 | 0x26C0      |        9920 |
 |       5 | 0x0015      |          21 |
-|       6 | 0x26BF      |        9919 |
+|       6 | 0x26C1      |        9921 |
 |       7 | 0x001D      |          29 |
-|       8 | 0x26C0      |        9920 |
+|       8 | 0x26C2      |        9922 |
 |       9 | 0x0019      |          25 |
-|      10 | 0x26C1      |        9921 |
+|      10 | 0x26C3      |        9923 |
 
 ## String References
 
-- **9916**: Let me guess. That trrreasure chest over there has caught your eye, hasn't it? That's something the boss brought back from her latest scouting excurrrsion.
-- **9917**: But would you believe it? We've trrried all of our keys and lockpicks, but to no avail. It just sits there sealed tight, mocking us all!
-- **9918**: In fact, I'm so sick of looking at the darrrn thing that I'll make you a deal. Figure out how to open it, and you can help yourself to the contents, no questions asked!
-- **9919**: Wh-wh-wh-what? Are my eyes to be trrrusted? How in the name of the Goddess did you manage to open that thing?
-- **9920**: No, no...you'd better not tell me.
-- **9921**: This is one rrriddle that I need to figure out for myself. That's Mithra pride, you know? You just run along with your trrreasure now.
+- **9918**: Let me guess. That trrreasure chest over there has caught your eye, hasn't it? That's something the boss brought back from her latest scouting excurrrsion.
+- **9919**: But would you believe it? We've trrried all of our keys and lockpicks, but to no avail. It just sits there sealed tight, mocking us all!
+- **9920**: In fact, I'm so sick of looking at the darrrn thing that I'll make you a deal. Figure out how to open it, and you can help yourself to the contents, no questions asked!
+- **9921**: Wh-wh-wh-what? Are my eyes to be trrrusted? How in the name of the Goddess did you manage to open that thing?
+- **9922**: No, no...you'd better not tell me.
+- **9923**: This is one rrriddle that I need to figure out for myself. That's Mithra pride, you know? You just run along with your trrreasure now.
 
 ## Events
 
@@ -89,7 +89,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9916*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9918*)
     → "Let me guess. That trrreasure chest over there has caught your eye, hasn't it? That's something the boss brought back from her latest scouting excurrrsion."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x1E] EventEntity looks at LocalPlayer and starts talking
@@ -97,13 +97,13 @@
   4: 0x000B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x000C [0x6E] Liki Steligho (ID: 17780941/0x010F50CD) uses emote 22*
   6: 0x0013 [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete
-  7: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=9917*)
+  7: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=9919*)
     → "But would you believe it? We've trrried all of our keys and lockpicks, but to no avail. It just sits there sealed tight, mocking us all!"
   8: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001C [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete
  10: 0x0021 [0x6E] Liki Steligho (ID: 17780941/0x010F50CD) uses emote 16*
  11: 0x0028 [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete
- 12: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=9918*)
+ 12: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
     → "In fact, I'm so sick of looking at the darrrn thing that I'll make you a deal. Figure out how to open it, and you can help yourself to the contents, no questions asked!"
  13: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0031 [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete
@@ -139,19 +139,19 @@
   2: 0x003E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003F [0x6E] Liki Steligho (ID: 17780941/0x010F50CD) uses emote 21*
   4: 0x0046 [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete
-  5: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=9919*)
+  5: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=9921*)
     → "Wh-wh-wh-what? Are my eyes to be trrrusted? How in the name of the Goddess did you manage to open that thing?"
   6: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x004F [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete
   8: 0x0054 [0x6E] Liki Steligho (ID: 17780941/0x010F50CD) uses emote 29*
   9: 0x005B [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete
- 10: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
+ 10: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=9922*)
     → "No, no...you'd better not tell me."
  11: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0064 [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete
  13: 0x0069 [0x6E] Liki Steligho (ID: 17780941/0x010F50CD) uses emote 25*
  14: 0x0070 [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete
- 15: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=9921*)
+ 15: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=9923*)
     → "This is one rrriddle that I need to figure out for myself. That's Mithra pride, you know? You just run along with your trrreasure now."
  16: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0079 [0x99] Wait for Liki Steligho (ID: 17780941/0x010F50CD) animation to complete

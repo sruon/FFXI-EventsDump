@@ -60,42 +60,42 @@
 |       2 | 0x0034      |          52 |
 |       3 | 0x0035      |          53 |
 |       4 | 0x0008      |           8 |
-|       5 | 0x2147      |        8519 |
-|       6 | 0x2148      |        8520 |
-|       7 | 0x21FE      |        8702 |
-|       8 | 0x21FF      |        8703 |
-|       9 | 0x2204      |        8708 |
-|      10 | 0x2209      |        8713 |
-|      11 | 0x220B      |        8715 |
-|      12 | 0x220D      |        8717 |
-|      13 | 0x220F      |        8719 |
+|       5 | 0x2149      |        8521 |
+|       6 | 0x214A      |        8522 |
+|       7 | 0x2200      |        8704 |
+|       8 | 0x2201      |        8705 |
+|       9 | 0x2206      |        8710 |
+|      10 | 0x220B      |        8715 |
+|      11 | 0x220D      |        8717 |
+|      12 | 0x220F      |        8719 |
+|      13 | 0x2211      |        8721 |
 |      14 | 0x0001      |           1 |
 |      15 | 0x0000      |           0 |
-|      16 | 0x2E6E      |       11886 |
+|      16 | 0x2E70      |       11888 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x2E90      |       11920 |
-|      19 | 0x2E91      |       11921 |
-|      20 | 0x2E92      |       11922 |
-|      21 | 0x2EA3      |       11939 |
-|      22 | 0x2EA4      |       11940 |
+|      18 | 0x2E92      |       11922 |
+|      19 | 0x2E93      |       11923 |
+|      20 | 0x2E94      |       11924 |
+|      21 | 0x2EA5      |       11941 |
+|      22 | 0x2EA6      |       11942 |
 
 ## String References
 
-- **8519**: How's it goin', mate? Enjoyin' a spot of adventurrrin', I see...
-- **8520**: Life's long, and you can put off till tommora what you don't wanta do today. So don't you be wearin' yourself out with all that adventurrrin', you hear?
-- **8702**: Of course I've lost me passion for adventurrre! I've come all the way to Windurst lookin' for the old pirate king's treasurrre, only to have 'em tell me that all that talk o' pirate treasurrre is just a fairy tale.
-- **8703**: Speakin' of which...I bet that legend o' the great monk Scorpio who fought a giant scorrrpion with his bare hands was also just made up to excite the kiddies, too.
-- **8708**: Ho-hum...
-- **8713**: Ah!?
-- **8715**: His eye carved out by a briny blusterrr His heart pierced by a scorpion's sting Cloaked in his treasure's golden lusterrr Beneath the earth sleeps that pirate king.
-- **8717**: Hold your horrrses, Soni-Muni! I've hearrrd that maze is no walk in the park. We don't stand a chance at our current level, so we'd better get some trainin' in firrrst!
-- **8719**: But then we wouldn't have heard the lowdown on the Maze of Shakhrami, would we? Rrright?
-- **11886**: Ask if this person is the chick's owner? [Yes./No.]
-- **11920**: You've got me chocobo!?
-- **11921**: Me feathered mate is livin' in safety, then? I've neverrr heard such happy tidin's! I'll be sure to watch the little fella close from now on!
-- **11922**: Let me show me grrratitude by tellin' you a story I often tell me little mate...
-- **11939**: You say you've got me chocobo?
-- **11940**: I'm afraid you've got the wrong person. Adventurers are bound to make mistakes from time to time, so don't let it get you down, mate.
+- **8521**: How's it goin', mate? Enjoyin' a spot of adventurrrin', I see...
+- **8522**: Life's long, and you can put off till tommora what you don't wanta do today. So don't you be wearin' yourself out with all that adventurrrin', you hear?
+- **8704**: Of course I've lost me passion for adventurrre! I've come all the way to Windurst lookin' for the old pirate king's treasurrre, only to have 'em tell me that all that talk o' pirate treasurrre is just a fairy tale.
+- **8705**: Speakin' of which...I bet that legend o' the great monk Scorpio who fought a giant scorrrpion with his bare hands was also just made up to excite the kiddies, too.
+- **8710**: Ho-hum...
+- **8715**: Ah!?
+- **8717**: His eye carved out by a briny blusterrr His heart pierced by a scorpion's sting Cloaked in his treasure's golden lusterrr Beneath the earth sleeps that pirate king.
+- **8719**: Hold your horrrses, Soni-Muni! I've hearrrd that maze is no walk in the park. We don't stand a chance at our current level, so we'd better get some trainin' in firrrst!
+- **8721**: But then we wouldn't have heard the lowdown on the Maze of Shakhrami, would we? Rrright?
+- **11888**: Ask if this person is the chick's owner? [Yes./No.]
+- **11922**: You've got me chocobo!?
+- **11923**: Me feathered mate is livin' in safety, then? I've neverrr heard such happy tidin's! I'll be sure to watch the little fella close from now on!
+- **11924**: Let me show me grrratitude by tellin' you a story I often tell me little mate...
+- **11941**: You say you've got me chocobo?
+- **11942**: I'm afraid you've got the wrong person. Adventurers are bound to make mistakes from time to time, so don't let it get you down, mate.
 
 ## Events
 
@@ -751,10 +751,10 @@
   1: 0x0196 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0197 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0198 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gottah Maporushanoh (ID: 17764532/0x010F10B4), tag_num=0x01)
-  4: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=8519*)
+  4: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=8521*)
     → "How's it goin', mate? Enjoyin' a spot of adventurrrin', I see..."
   5: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8520*)
+  6: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8522*)
     → "Life's long, and you can put off till tommora what you don't wanta do today. So don't you be wearin' yourself out with all that adventurrrin', you hear?"
   7: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gottah Maporushanoh (ID: 17764532/0x010F10B4), tag_num=0x02)
@@ -789,11 +789,11 @@
   1: 0x01BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01BB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gottah Maporushanoh (ID: 17764532/0x010F10B4), tag_num=0x07)
-  4: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8702*)
+  4: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8704*)
     → "Of course I've lost me passion for adventurrre! I've come all the way to Windurst lookin' for the old pirate king's treasurrre, only to have 'em tell me that all that talk o' pirate treasurrre is just a fairy tale."
   5: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gottah Maporushanoh (ID: 17764532/0x010F10B4), tag_num=0x08)
-  7: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8703*)
+  7: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8705*)
     → "Speakin' of which...I bet that legend o' the great monk Scorpio who fought a giant scorrrpion with his bare hands was also just made up to excite the kiddies, too."
   8: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01D2 [0x1A] CALL_SUBROUTINE(address=0x0211)
@@ -843,7 +843,7 @@
 #### Opcodes
 
 ```
-  0: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8708*)
+  0: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8710*)
     → "Ho-hum..."
   1: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01DE [0x00] END_REQSTACK()
@@ -869,7 +869,7 @@
 #### Opcodes
 
 ```
-  0: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8713*)
+  0: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8715*)
     → "Ah!?"
   1: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E3 [0x00] END_REQSTACK()
@@ -894,7 +894,7 @@
 #### Opcodes
 
 ```
-  0: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8715*)
+  0: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8717*)
     → "His eye carved out by a briny blusterrr His heart pierced by a scorpion's sting Cloaked in his treasure's golden lusterrr Beneath the earth sleeps that pirate king."
   1: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E8 [0x00] END_REQSTACK()
@@ -919,7 +919,7 @@
 #### Opcodes
 
 ```
-  0: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8717*)
+  0: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8719*)
     → "Hold your horrrses, Soni-Muni! I've hearrrd that maze is no walk in the park. We don't stand a chance at our current level, so we'd better get some trainin' in firrrst!"
   1: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01ED [0x00] END_REQSTACK()
@@ -950,7 +950,7 @@
   1: 0x01F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gottah Maporushanoh (ID: 17764532/0x010F10B4), tag_num=0x13)
-  4: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8719*)
+  4: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8721*)
     → "But then we wouldn't have heard the lowdown on the Maze of Shakhrami, would we? Rrright?"
   5: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0200 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gottah Maporushanoh (ID: 17764532/0x010F10B4), tag_num=0x14)
@@ -1046,7 +1046,7 @@
      0x0222 [0x03] Work_Zone[1] = 0*
      0x0227 [0x01] GOTO 0x02AB
      0x022A [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x022B [0x24] CREATE_DIALOG(message_id=11886*, default_option=1*, option_flags=0*)
+     0x022B [0x24] CREATE_DIALOG(message_id=11888*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
      0x0232 [0x25] WAIT_DIALOG_SELECT()
      0x0233 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029B
@@ -1056,23 +1056,23 @@
      0x0248 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x024A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x024C [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0281
-     0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
+     0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=11922*)
     → "You've got me chocobo!?"
      0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0258 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-     0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11921*)
+     0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11923*)
     → "Me feathered mate is livin' in safety, then? I've neverrr heard such happy tidin's! I'll be sure to watch the little fella close from now on!"
      0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x026B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
-     0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=11922*)
+     0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=11924*)
     → "Let me show me grrratitude by tellin' you a story I often tell me little mate..."
      0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x027E [0x01] GOTO 0x0298
-     0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=11939*)
+     0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=11941*)
     → "You say you've got me chocobo?"
      0x0284 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0285 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-     0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=11940*)
+     0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=11942*)
     → "I'm afraid you've got the wrong person. Adventurers are bound to make mistakes from time to time, so don't let it get you down, mate."
      0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0298 [0x01] GOTO 0x02AB

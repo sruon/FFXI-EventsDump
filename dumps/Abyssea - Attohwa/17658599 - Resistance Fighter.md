@@ -22,21 +22,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F8B      |        8075 |
-|       1 | 0x1F8C      |        8076 |
-|       2 | 0x1F8D      |        8077 |
-|       3 | 0x1F9B      |        8091 |
-|       4 | 0x1F9C      |        8092 |
-|       5 | 0x1F9D      |        8093 |
+|       0 | 0x1F8D      |        8077 |
+|       1 | 0x1F8E      |        8078 |
+|       2 | 0x1F8F      |        8079 |
+|       3 | 0x1F9D      |        8093 |
+|       4 | 0x1F9E      |        8094 |
+|       5 | 0x1F9F      |        8095 |
 
 ## String References
 
-- **8075**: Oh, curse and criminy! So close to my destination, and this damnable smoke obscures my path!
-- **8076**: I was serving as the rearguard of our regiment--a most important duty, I assure you!
-- **8077**: And serving admirably I was, until this accursed smoke appeared before me, separating me from my comrades to the fore. Come to think of it, why have they not returned to search for me...?
-- **8091**: Are mine eyes to be believed? Are those rations you carry!? And a new linkpearl! Oh, joyous day!
-- **8092**: My own accursed pearl seems only to work in one direction. I receive transmissions from camp, but try as I might, my voice falls on deaf ears.
-- **8093**: Nor have I heard from my fellow scouts recently... I do hope they've not met an untimely demise.
+- **8077**: Oh, curse and criminy! So close to my destination, and this damnable smoke obscures my path!
+- **8078**: I was serving as the rearguard of our regiment--a most important duty, I assure you!
+- **8079**: And serving admirably I was, until this accursed smoke appeared before me, separating me from my comrades to the fore. Come to think of it, why have they not returned to search for me...?
+- **8093**: Are mine eyes to be believed? Are those rations you carry!? And a new linkpearl! Oh, joyous day!
+- **8094**: My own accursed pearl seems only to work in one direction. I receive transmissions from camp, but try as I might, my voice falls on deaf ears.
+- **8095**: Nor have I heard from my fellow scouts recently... I do hope they've not met an untimely demise.
 
 ## Events
 
@@ -83,13 +83,13 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
     → "Oh, curse and criminy! So close to my destination, and this damnable smoke obscures my path!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
     → "I was serving as the rearguard of our regiment--a most important duty, I assure you!"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
     → "And serving admirably I was, until this accursed smoke appeared before me, separating me from my comrades to the fore. Come to think of it, why have they not returned to search for me...?"
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0012 [0x21] END_EVENT
@@ -118,10 +118,10 @@
 ```
   0: 0x0014 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0015 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8091*)
+  2: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
     → "Are mine eyes to be believed? Are those rations you carry!? And a new linkpearl! Oh, joyous day!"
   3: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
+  4: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
     → "My own accursed pearl seems only to work in one direction. I receive transmissions from camp, but try as I might, my voice falls on deaf ears."
   5: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0022 [0x21] END_EVENT
@@ -148,7 +148,7 @@
 
 ```
   0: 0x0024 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
+  1: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=8095*)
     → "Nor have I heard from my fellow scouts recently... I do hope they've not met an untimely demise."
   2: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x002D [0x21] END_EVENT

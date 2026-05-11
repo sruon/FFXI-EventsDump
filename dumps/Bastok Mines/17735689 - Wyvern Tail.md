@@ -32,7 +32,7 @@
 |       5 | 0xFFFF570C  |  4294924044 |
 |       6 | 0xFFFFEEE8  |  4294962920 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x292D      |       10541 |
+|       8 | 0x292F      |       10543 |
 |       9 | 0x0006      |           6 |
 |      10 | 0x0026      |          38 |
 |      11 | 0xFFFFB702  |  4294948610 |
@@ -43,7 +43,7 @@
 
 ## String References
 
-- **10541**: There are two dungeons outside the city of Bastok: The Palborough Mines in North Gustaberg, and the Dangruf Wadi in South Gustaberg.
+- **10543**: There are two dungeons outside the city of Bastok: The Palborough Mines in North Gustaberg, and the Dangruf Wadi in South Gustaberg.
 
 ## Events
 
@@ -139,7 +139,7 @@
 
 ```
   0: 0x0019 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
+  1: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=10543*)
     → "There are two dungeons outside the city of Bastok: The Palborough Mines in North Gustaberg, and the Dangruf Wadi in South Gustaberg."
   2: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0022 [0x21] END_EVENT

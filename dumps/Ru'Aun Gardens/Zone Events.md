@@ -84,7 +84,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA1      |        7329 |
+|       0 | 0x1CA3      |        7331 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00B4      |         180 |
@@ -218,13 +218,13 @@
 |     131 | 0xFFF922C8  |  4294517448 |
 |     132 | 0xFFFE14EB  |  4294841579 |
 |     133 | 0x031F      |         799 |
-|     134 | 0x1CA3      |        7331 |
-|     135 | 0x1CA4      |        7332 |
+|     134 | 0x1CA5      |        7333 |
+|     135 | 0x1CA6      |        7334 |
 |     136 | 0x003C      |          60 |
 |     137 | 0x00C9      |         201 |
-|     138 | 0x1CA5      |        7333 |
-|     139 | 0x1CA6      |        7334 |
-|     140 | 0x1CA7      |        7335 |
+|     138 | 0x1CA7      |        7335 |
+|     139 | 0x1CA8      |        7336 |
+|     140 | 0x1CA9      |        7337 |
 |     141 | 0xFFFFFC2A  |  4294966314 |
 |     142 | 0xFFF69E4E  |  4294352462 |
 |     143 | 0xFFFF2CEA  |  4294913258 |
@@ -302,12 +302,12 @@
 
 ## String References
 
-- **7329**: Use the portal? [Yes./No.]
-- **7331**: "Wel...ome, $0."
-- **7332**: "Your d...ta wil... be ...gistered."
-- **7333**: "Regis... ...omplete."
-- **7334**: "Registere... ...ser."
-- **7335**: "Requi...ments not ...et. Unab... to regi...er d...ta"
+- **7331**: Use the portal? [Yes./No.]
+- **7333**: "Wel...ome, $0."
+- **7334**: "Your d...ta wil... be ...gistered."
+- **7335**: "Regis... ...omplete."
+- **7336**: "Registere... ...ser."
+- **7337**: "Requi...ments not ...et. Unab... to regi...er d...ta"
 
 ## Events
 
@@ -359,7 +359,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004F
@@ -409,7 +409,7 @@ SUBROUTINE_005A:
 
 ```
   0: 0x0063 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0065 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0065 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x006C [0x25] WAIT_DIALOG_SELECT()
   3: 0x006D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B1
@@ -459,7 +459,7 @@ SUBROUTINE_00BC:
 
 ```
   0: 0x00C5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00C7 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x00C7 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x00CE [0x25] WAIT_DIALOG_SELECT()
   3: 0x00CF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0113
@@ -509,7 +509,7 @@ SUBROUTINE_011E:
 
 ```
   0: 0x0127 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0129 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0129 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0130 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0131 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0175
@@ -559,7 +559,7 @@ SUBROUTINE_0180:
 
 ```
   0: 0x0189 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x018B [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x018B [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0192 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0193 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D7
@@ -609,7 +609,7 @@ SUBROUTINE_01E2:
 
 ```
   0: 0x01EB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x01ED [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x01ED [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x01F4 [0x25] WAIT_DIALOG_SELECT()
   3: 0x01F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0239
@@ -659,7 +659,7 @@ SUBROUTINE_0244:
 
 ```
   0: 0x024D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x024F [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x024F [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0256 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0257 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029B
@@ -710,7 +710,7 @@ SUBROUTINE_02A6:
 
 ```
   0: 0x02AF [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x02B1 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x02B1 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x02B8 [0x25] WAIT_DIALOG_SELECT()
   3: 0x02B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FD
@@ -760,7 +760,7 @@ SUBROUTINE_0308:
 
 ```
   0: 0x0311 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0313 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0313 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x031A [0x25] WAIT_DIALOG_SELECT()
   3: 0x031B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x035F
@@ -810,7 +810,7 @@ SUBROUTINE_036A:
 
 ```
   0: 0x0373 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0375 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0375 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x037C [0x25] WAIT_DIALOG_SELECT()
   3: 0x037D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03C1
@@ -860,7 +860,7 @@ SUBROUTINE_03CC:
 
 ```
   0: 0x03D5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x03D7 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x03D7 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x03DE [0x25] WAIT_DIALOG_SELECT()
   3: 0x03DF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0423
@@ -910,7 +910,7 @@ SUBROUTINE_042E:
 
 ```
   0: 0x0437 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0439 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0439 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0440 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0441 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0485
@@ -960,7 +960,7 @@ SUBROUTINE_0490:
 
 ```
   0: 0x0499 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x049B [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x049B [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x04A2 [0x25] WAIT_DIALOG_SELECT()
   3: 0x04A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04E7
@@ -1010,7 +1010,7 @@ SUBROUTINE_04F2:
 
 ```
   0: 0x04FB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x04FD [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x04FD [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0504 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0505 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0549
@@ -1060,7 +1060,7 @@ SUBROUTINE_0554:
 
 ```
   0: 0x055D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x055F [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x055F [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0566 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0567 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05AB
@@ -1111,7 +1111,7 @@ SUBROUTINE_05B6:
 
 ```
   0: 0x05BF [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x05C1 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x05C1 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x05C8 [0x25] WAIT_DIALOG_SELECT()
   3: 0x05C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x060D
@@ -1161,7 +1161,7 @@ SUBROUTINE_0618:
 
 ```
   0: 0x0621 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0623 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0623 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x062A [0x25] WAIT_DIALOG_SELECT()
   3: 0x062B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x066F
@@ -1211,7 +1211,7 @@ SUBROUTINE_067A:
 
 ```
   0: 0x0683 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0685 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0685 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x068C [0x25] WAIT_DIALOG_SELECT()
   3: 0x068D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06D1
@@ -1261,7 +1261,7 @@ SUBROUTINE_06DC:
 
 ```
   0: 0x06E5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x06E7 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x06E7 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x06EE [0x25] WAIT_DIALOG_SELECT()
   3: 0x06EF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0733
@@ -1311,7 +1311,7 @@ SUBROUTINE_073E:
 
 ```
   0: 0x0747 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0749 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0749 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0750 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0751 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0795
@@ -1361,7 +1361,7 @@ SUBROUTINE_07A0:
 
 ```
   0: 0x07A9 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x07AB [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x07AB [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x07B2 [0x25] WAIT_DIALOG_SELECT()
   3: 0x07B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07F7
@@ -1411,7 +1411,7 @@ SUBROUTINE_0802:
 
 ```
   0: 0x080B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x080D [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x080D [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0814 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0815 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0859
@@ -1461,7 +1461,7 @@ SUBROUTINE_0864:
 
 ```
   0: 0x086D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x086F [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x086F [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0876 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0877 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08BB
@@ -1512,7 +1512,7 @@ SUBROUTINE_08C6:
 
 ```
   0: 0x08CF [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x08D1 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x08D1 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x08D8 [0x25] WAIT_DIALOG_SELECT()
   3: 0x08D9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x091D
@@ -1562,7 +1562,7 @@ SUBROUTINE_0928:
 
 ```
   0: 0x0931 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0933 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0933 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x093A [0x25] WAIT_DIALOG_SELECT()
   3: 0x093B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x097F
@@ -1612,7 +1612,7 @@ SUBROUTINE_098A:
 
 ```
   0: 0x0993 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0995 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0995 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x099C [0x25] WAIT_DIALOG_SELECT()
   3: 0x099D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09E1
@@ -1662,7 +1662,7 @@ SUBROUTINE_09EC:
 
 ```
   0: 0x09F5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x09F7 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x09F7 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x09FE [0x25] WAIT_DIALOG_SELECT()
   3: 0x09FF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A43
@@ -1712,7 +1712,7 @@ SUBROUTINE_0A4E:
 
 ```
   0: 0x0A57 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0A59 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0A59 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0A60 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0A61 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AA5
@@ -1762,7 +1762,7 @@ SUBROUTINE_0AB0:
 
 ```
   0: 0x0AB9 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0ABB [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0ABB [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0AC2 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0AC3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B07
@@ -1812,7 +1812,7 @@ SUBROUTINE_0B12:
 
 ```
   0: 0x0B1B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0B1D [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0B1D [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0B24 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0B25 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B69
@@ -1862,7 +1862,7 @@ SUBROUTINE_0B74:
 
 ```
   0: 0x0B7D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0B7F [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0B7F [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0B86 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0B87 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BCB
@@ -1913,7 +1913,7 @@ SUBROUTINE_0BD6:
 
 ```
   0: 0x0BDF [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0BE1 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0BE1 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0BE8 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0BE9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C2D
@@ -1963,7 +1963,7 @@ SUBROUTINE_0C38:
 
 ```
   0: 0x0C41 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0C43 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0C43 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0C4A [0x25] WAIT_DIALOG_SELECT()
   3: 0x0C4B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C8F
@@ -2013,7 +2013,7 @@ SUBROUTINE_0C9A:
 
 ```
   0: 0x0CA3 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0CA5 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0CA5 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0CAC [0x25] WAIT_DIALOG_SELECT()
   3: 0x0CAD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CF1
@@ -2063,7 +2063,7 @@ SUBROUTINE_0CFC:
 
 ```
   0: 0x0D05 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0D07 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0D07 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0D0E [0x25] WAIT_DIALOG_SELECT()
   3: 0x0D0F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D53
@@ -2113,7 +2113,7 @@ SUBROUTINE_0D5E:
 
 ```
   0: 0x0D67 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0D69 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0D69 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0D70 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0D71 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DB5
@@ -2163,7 +2163,7 @@ SUBROUTINE_0DC0:
 
 ```
   0: 0x0DC9 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0DCB [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0DCB [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0DD2 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0DD3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E17
@@ -2215,7 +2215,7 @@ SUBROUTINE_0E22:
 
 ```
   0: 0x0E2B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0E2D [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0E2D [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0E34 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0E35 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E95
@@ -2274,7 +2274,7 @@ SUBROUTINE_0EA0:
 
 ```
   0: 0x0EA9 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0EAB [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0EAB [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0EB2 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0EB3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F13
@@ -2333,7 +2333,7 @@ SUBROUTINE_0F1E:
 
 ```
   0: 0x0F27 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0F29 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0F29 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0F30 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0F31 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F91
@@ -2392,7 +2392,7 @@ SUBROUTINE_0F9C:
 
 ```
   0: 0x0FA5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0FA7 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  1: 0x0FA7 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   2: 0x0FAE [0x25] WAIT_DIALOG_SELECT()
   3: 0x0FAF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x100F
@@ -2449,17 +2449,17 @@ SUBROUTINE_101A:
 
 ```
   0: 0x1023 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1025 [0x48] [System] [7331*]:
+  1: 0x1025 [0x48] [System] [7333*]:
     → ""Wel...ome, $0.""
   2: 0x1028 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1029 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  3: 0x1029 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   4: 0x1030 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1031 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1077
   6: 0x1039 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   7: 0x103A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   8: 0x103C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-  9: 0x103E [0x48] [System] [7332*]:
+  9: 0x103E [0x48] [System] [7334*]:
     → ""Your d...ta wil... be ...gistered.""
  10: 0x1041 [0x1C] WAIT(60* ticks)
  11: 0x1044 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2467,7 +2467,7 @@ SUBROUTINE_101A:
  13: 0x1058 [0x03] Work_Zone[1] = 1*
  14: 0x105D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  15: 0x106E [0x1C] WAIT(60* ticks)
- 16: 0x1071 [0x48] [System] [7333*]:
+ 16: 0x1071 [0x48] [System] [7335*]:
     → ""Regis... ...omplete.""
  17: 0x1074 [0x01] GOTO 0x1082
  18: 0x1077 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1082
@@ -2499,7 +2499,7 @@ SUBROUTINE_1082:
 
 ```
   0: 0x1086 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1088 [0x48] [System] [7334*]:
+  1: 0x1088 [0x48] [System] [7336*]:
     → ""Registere... ...ser.""
   2: 0x108B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x108C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2530,17 +2530,17 @@ SUBROUTINE_1082:
 
 ```
   0: 0x1090 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1092 [0x48] [System] [7331*]:
+  1: 0x1092 [0x48] [System] [7333*]:
     → ""Wel...ome, $0.""
   2: 0x1095 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1096 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
+  3: 0x1096 [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   4: 0x109D [0x25] WAIT_DIALOG_SELECT()
   5: 0x109E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10B4
   6: 0x10A6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   7: 0x10A7 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   8: 0x10A9 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-  9: 0x10AB [0x48] [System] [7335*]:
+  9: 0x10AB [0x48] [System] [7337*]:
     → ""Requi...ments not ...et. Unab... to regi...er d...ta""
  10: 0x10AE [0x1C] WAIT(60* ticks)
  11: 0x10B1 [0x01] GOTO 0x10BF

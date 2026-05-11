@@ -23,52 +23,52 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x27EF      |       10223 |
-|       2 | 0x27F0      |       10224 |
+|       1 | 0x27F1      |       10225 |
+|       2 | 0x27F2      |       10226 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x27F4      |       10228 |
-|       5 | 0x27F5      |       10229 |
+|       4 | 0x27F6      |       10230 |
+|       5 | 0x27F7      |       10231 |
 |       6 | 0x0002      |           2 |
-|       7 | 0x27F9      |       10233 |
-|       8 | 0x27FA      |       10234 |
+|       7 | 0x27FB      |       10235 |
+|       8 | 0x27FC      |       10236 |
 |       9 | 0x0003      |           3 |
-|      10 | 0x27FE      |       10238 |
-|      11 | 0x27FF      |       10239 |
-|      12 | 0x27F2      |       10226 |
-|      13 | 0x27F7      |       10231 |
-|      14 | 0x27FC      |       10236 |
-|      15 | 0x2801      |       10241 |
-|      16 | 0x27F1      |       10225 |
-|      17 | 0x27F6      |       10230 |
-|      18 | 0x27FB      |       10235 |
-|      19 | 0x2800      |       10240 |
-|      20 | 0x27F3      |       10227 |
-|      21 | 0x27F8      |       10232 |
-|      22 | 0x27FD      |       10237 |
-|      23 | 0x2802      |       10242 |
+|      10 | 0x2800      |       10240 |
+|      11 | 0x2801      |       10241 |
+|      12 | 0x27F4      |       10228 |
+|      13 | 0x27F9      |       10233 |
+|      14 | 0x27FE      |       10238 |
+|      15 | 0x2803      |       10243 |
+|      16 | 0x27F3      |       10227 |
+|      17 | 0x27F8      |       10232 |
+|      18 | 0x27FD      |       10237 |
+|      19 | 0x2802      |       10242 |
+|      20 | 0x27F5      |       10229 |
+|      21 | 0x27FA      |       10234 |
+|      22 | 0x27FF      |       10239 |
+|      23 | 0x2804      |       10244 |
 
 ## String References
 
-- **10223**: Oh, I've been waiting for this moment! You'll help me find my perfect woman, right? Wow, thank you!!!
-- **10224**: I really like [cheerful/kind/shy/modest] [Humes/Elvaan/Tarutaru/Mithra]! They're fantastic! Here's a piece of chocolate. I hope you bring back the best chocolate ever! Good luck!
-- **10225**: You still haven't brought any chocolate? I've been waiting so long for this, so hurry up!
-- **10226**: Hey, what do you want? You could go see a moogle or something!
-- **10227**: <gasp>! Y-you brought me a chocolate! I'm going to savor its delicate flavor...and then I'll let you know what I think! Thank you!
-- **10228**: Hey. I heard you're playing the matchmaker around here.
-- **10229**: Hmph, guess I might as well let you know my type. I like [Humes/Elvaan/Tarutaru/Mithra], and I like 'em [cheerful/kind/shy/modest]. I leave this chocolate, and my future, in your hands. Well, go on. Get on with it.
-- **10230**: What? Still...? Oh well, keep it up. Looking forward to the results.
-- **10231**: What do you want? I don't think I know you.
-- **10232**: Well, you were able to get a finished chocolate after all. I need some time to think, though. After all, this could determine my future, so I will taste it later. Thank you.
-- **10233**: I have been waiting all my life for this! You'll match me up with a girl, right? Wow! Me and a girl, together! Imagine!
-- **10234**: Oh, oh, let's see...I'll tell you exactly what I want! I want a [cheerful/kind/shy/modest] [Hume/Elvaan/Tarutaru/Mithra]! She also must cook things like steamed catfish every night, love watching Ballista, and have an interest in airship mechanics...er, ignore those last few requests. Anyway, here's some chocolate! Go get me a woman!
-- **10235**: Oh wow, thanks for doing this for me! I can't wait for my chocolate!
-- **10236**: What? What do you need? Nothing? Okay, then!
-- **10237**: Wooow, you really got a chocolate for me! I'll let you know how it tastes later! Oh, thank you, thank you! I hope you can get a real, live [girlfriend/boyfriend] someday, too!
-- **10238**: N-no way! I can meet...a woman? One that...likes me!? ...Oh, wow!
-- **10239**: Okay, okay...I'm going to tell you my type. Let's see...I'd like an, um...ack, this is so embarrassing. I'd like a [cheerful/kind/shy/modest] [Hume/Elvaan/Tarutaru/Mithra]! Y-yes, that's my order! (Oops...maybe I went too far just now...) Anyway, h-here's a chocolate!
-- **10240**: Ahhh! By Altana, you scared me! Not finished yet? O-oh, I'm sorry!
-- **10241**: What!? ...Oh, you want something? I-I'm fine!
-- **10242**: Ahhh! You really got a chocolate for me! B-but, I don't see anywhere I could eat it now! I'll have to tell the moogle what I think later. Wow, this is great! See ya!
+- **10225**: Oh, I've been waiting for this moment! You'll help me find my perfect woman, right? Wow, thank you!!!
+- **10226**: I really like [cheerful/kind/shy/modest] [Humes/Elvaan/Tarutaru/Mithra]! They're fantastic! Here's a piece of chocolate. I hope you bring back the best chocolate ever! Good luck!
+- **10227**: You still haven't brought any chocolate? I've been waiting so long for this, so hurry up!
+- **10228**: Hey, what do you want? You could go see a moogle or something!
+- **10229**: <gasp>! Y-you brought me a chocolate! I'm going to savor its delicate flavor...and then I'll let you know what I think! Thank you!
+- **10230**: Hey. I heard you're playing the matchmaker around here.
+- **10231**: Hmph, guess I might as well let you know my type. I like [Humes/Elvaan/Tarutaru/Mithra], and I like 'em [cheerful/kind/shy/modest]. I leave this chocolate, and my future, in your hands. Well, go on. Get on with it.
+- **10232**: What? Still...? Oh well, keep it up. Looking forward to the results.
+- **10233**: What do you want? I don't think I know you.
+- **10234**: Well, you were able to get a finished chocolate after all. I need some time to think, though. After all, this could determine my future, so I will taste it later. Thank you.
+- **10235**: I have been waiting all my life for this! You'll match me up with a girl, right? Wow! Me and a girl, together! Imagine!
+- **10236**: Oh, oh, let's see...I'll tell you exactly what I want! I want a [cheerful/kind/shy/modest] [Hume/Elvaan/Tarutaru/Mithra]! She also must cook things like steamed catfish every night, love watching Ballista, and have an interest in airship mechanics...er, ignore those last few requests. Anyway, here's some chocolate! Go get me a woman!
+- **10237**: Oh wow, thanks for doing this for me! I can't wait for my chocolate!
+- **10238**: What? What do you need? Nothing? Okay, then!
+- **10239**: Wooow, you really got a chocolate for me! I'll let you know how it tastes later! Oh, thank you, thank you! I hope you can get a real, live [girlfriend/boyfriend] someday, too!
+- **10240**: N-no way! I can meet...a woman? One that...likes me!? ...Oh, wow!
+- **10241**: Okay, okay...I'm going to tell you my type. Let's see...I'd like an, um...ack, this is so embarrassing. I'd like a [cheerful/kind/shy/modest] [Hume/Elvaan/Tarutaru/Mithra]! Y-yes, that's my order! (Oops...maybe I went too far just now...) Anyway, h-here's a chocolate!
+- **10242**: Ahhh! By Altana, you scared me! Not finished yet? O-oh, I'm sorry!
+- **10243**: What!? ...Oh, you want something? I-I'm fine!
+- **10244**: Ahhh! You really got a chocolate for me! B-but, I don't see anywhere I could eat it now! I'll have to tell the moogle what I think later. Wow, this is great! See ya!
 
 ## Events
 
@@ -120,34 +120,34 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0019
-  2: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=10223*)
+  2: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=10225*)
     → "Oh, I've been waiting for this moment! You'll help me find my perfect woman, right? Wow, thank you!!!"
   3: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=10224*)
+  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=10226*)
     → "I really like [cheerful/kind/shy/modest] [Humes/Elvaan/Tarutaru/Mithra]! They're fantastic! Here's a piece of chocolate. I hope you bring back the best chocolate ever! Good luck!"
   5: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0016 [0x01] GOTO 0x0052
   7: 0x0019 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x002C
-  8: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10228*)
+  8: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10230*)
     → "Hey. I heard you're playing the matchmaker around here."
   9: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=10229*)
+ 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=10231*)
     → "Hmph, guess I might as well let you know my type. I like [Humes/Elvaan/Tarutaru/Mithra], and I like 'em [cheerful/kind/shy/modest]. I leave this chocolate, and my future, in your hands. Well, go on. Get on with it."
  11: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0029 [0x01] GOTO 0x0052
  13: 0x002C [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x003F
- 14: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10233*)
+ 14: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
     → "I have been waiting all my life for this! You'll match me up with a girl, right? Wow! Me and a girl, together! Imagine!"
  15: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=10234*)
+ 16: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=10236*)
     → "Oh, oh, let's see...I'll tell you exactly what I want! I want a [cheerful/kind/shy/modest] [Hume/Elvaan/Tarutaru/Mithra]! She also must cook things like steamed catfish every night, love watching Ballista, and have an interest in airship mechanics...er, ignore those last few requests. Anyway, here's some chocolate! Go get me a woman!"
  17: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x003C [0x01] GOTO 0x0052
  19: 0x003F [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x0052
- 20: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=10238*)
+ 20: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=10240*)
     → "N-no way! I can meet...a woman? One that...likes me!? ...Oh, wow!"
  21: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=10239*)
+ 22: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=10241*)
     → "Okay, okay...I'm going to tell you my type. Let's see...I'd like an, um...ack, this is so embarrassing. I'd like a [cheerful/kind/shy/modest] [Hume/Elvaan/Tarutaru/Mithra]! Y-yes, that's my order! (Oops...maybe I went too far just now...) Anyway, h-here's a chocolate!"
  23: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x004F [0x01] GOTO 0x0052
@@ -187,22 +187,22 @@ SUBROUTINE_0052:
   0: 0x0054 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0059 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00A0
   2: 0x0061 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0070
-  3: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=10226*)
+  3: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=10228*)
     → "Hey, what do you want? You could go see a moogle or something!"
   4: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x006D [0x01] GOTO 0x009D
   6: 0x0070 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x007F
-  7: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=10231*)
+  7: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=10233*)
     → "What do you want? I don't think I know you."
   8: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x007C [0x01] GOTO 0x009D
  10: 0x007F [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x008E
- 11: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10236*)
+ 11: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10238*)
     → "What? What do you need? Nothing? Okay, then!"
  12: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x008B [0x01] GOTO 0x009D
  14: 0x008E [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x009D
- 15: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=10241*)
+ 15: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=10243*)
     → "What!? ...Oh, you want something? I-I'm fine!"
  16: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x009A [0x01] GOTO 0x009D
@@ -210,22 +210,22 @@ SUBROUTINE_0052:
 SUBROUTINE_009D:
  18: 0x009D [0x01] GOTO 0x00DC
  19: 0x00A0 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x00AF
- 20: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10225*)
+ 20: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10227*)
     → "You still haven't brought any chocolate? I've been waiting so long for this, so hurry up!"
  21: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00AC [0x01] GOTO 0x00DC
  23: 0x00AF [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x00BE
- 24: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10230*)
+ 24: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10232*)
     → "What? Still...? Oh well, keep it up. Looking forward to the results."
  25: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00BB [0x01] GOTO 0x00DC
  27: 0x00BE [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x00CD
- 28: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
+ 28: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
     → "Oh wow, thanks for doing this for me! I can't wait for my chocolate!"
  29: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00CA [0x01] GOTO 0x00DC
  31: 0x00CD [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x00DC
- 32: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10240*)
+ 32: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10242*)
     → "Ahhh! By Altana, you scared me! Not finished yet? O-oh, I'm sorry!"
  33: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00D9 [0x01] GOTO 0x00DC
@@ -261,22 +261,22 @@ SUBROUTINE_00DC:
 ```
   0: 0x00DE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00E3 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x00F2
-  2: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10227*)
+  2: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10229*)
     → "<gasp>! Y-you brought me a chocolate! I'm going to savor its delicate flavor...and then I'll let you know what I think! Thank you!"
   3: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00EF [0x01] GOTO 0x011F
   5: 0x00F2 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0101
-  6: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10232*)
+  6: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10234*)
     → "Well, you were able to get a finished chocolate after all. I need some time to think, though. After all, this could determine my future, so I will taste it later. Thank you."
   7: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00FE [0x01] GOTO 0x011F
   9: 0x0101 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x0110
- 10: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
+ 10: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=10239*)
     → "Wooow, you really got a chocolate for me! I'll let you know how it tastes later! Oh, thank you, thank you! I hope you can get a real, live [girlfriend/boyfriend] someday, too!"
  11: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x010D [0x01] GOTO 0x011F
  13: 0x0110 [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x011F
- 14: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=10242*)
+ 14: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=10244*)
     → "Ahhh! You really got a chocolate for me! B-but, I don't see anywhere I could eat it now! I'll have to tell the moogle what I think later. Wow, this is great! See ya!"
  15: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x011C [0x01] GOTO 0x011F

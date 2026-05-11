@@ -63,11 +63,11 @@
 |       1 | 0x22BB5     |      142261 |
 |       2 | 0xFFFFB0DB  |  4294947035 |
 |       3 | 0x32C7      |       12999 |
-|       4 | 0x1D10      |        7440 |
-|       5 | 0x1D14      |        7444 |
-|       6 | 0x1D16      |        7446 |
-|       7 | 0x1D17      |        7447 |
-|       8 | 0x1D18      |        7448 |
+|       4 | 0x1D12      |        7442 |
+|       5 | 0x1D16      |        7446 |
+|       6 | 0x1D18      |        7448 |
+|       7 | 0x1D19      |        7449 |
+|       8 | 0x1D1A      |        7450 |
 |       9 | 0x00AA      |         170 |
 |      10 | 0x001E      |          30 |
 |      11 | 0x24344     |      148292 |
@@ -85,36 +85,36 @@
 |      23 | 0xFFFFB16F  |  4294947183 |
 |      24 | 0x235A3     |      144803 |
 |      25 | 0x0BA0      |        2976 |
-|      26 | 0x1D31      |        7473 |
-|      27 | 0x1D32      |        7474 |
-|      28 | 0x1D33      |        7475 |
-|      29 | 0x1D35      |        7477 |
-|      30 | 0x1D37      |        7479 |
-|      31 | 0x1D39      |        7481 |
-|      32 | 0x1D3B      |        7483 |
-|      33 | 0x1D3D      |        7485 |
-|      34 | 0x1D3E      |        7486 |
-|      35 | 0x1D3F      |        7487 |
-|      36 | 0x1D41      |        7489 |
+|      26 | 0x1D33      |        7475 |
+|      27 | 0x1D34      |        7476 |
+|      28 | 0x1D35      |        7477 |
+|      29 | 0x1D37      |        7479 |
+|      30 | 0x1D39      |        7481 |
+|      31 | 0x1D3B      |        7483 |
+|      32 | 0x1D3D      |        7485 |
+|      33 | 0x1D3F      |        7487 |
+|      34 | 0x1D40      |        7488 |
+|      35 | 0x1D41      |        7489 |
+|      36 | 0x1D43      |        7491 |
 
 ## String References
 
-- **7440**: Summoning, you say?
-- **7444**: Hmm...
-- **7446**: Yes... Very.
-- **7447**: Time is of the essence. The lines of battle are at Tahrongi Canyon, and draw close to Sarutabaruta.
-- **7448**: The attack on Oztroja shall fail, and many flames of life will go out, like the Star Reading long ago.
-- **7473**: You mustn't touch that!
-- **7474**: That book is forbidden. As an experienced adventurer, you should be able to sense the danger. The ominous power that lurks within...
-- **7475**: How did you come to be here? No one can enter this room except through my private chambers in Heavens Tower.
-- **7477**: ...Is it possible you have...? Have you found Karaha-Baruha's ring? The one that was lost all those years ago?
-- **7479**: Well, then. I should explain about this place.
-- **7481**: This is the Animastery. It is the hidden sixth ministry, and was built almost twenty-five years ago.
-- **7483**: He formulated a theory for drawing magical power from living beings, as opposed to nature. This magic would manifest the same amount of power as the creature it was drawn from.
-- **7485**: However, we were in need of power. The power that could be gained from normal creatures was insufficient. We needed the near limitless energy that could be harnessed from a truly awesome entity...
-- **7486**: Windurst was delivered from obliteration by that very power. But the price we paid for it... I'm sure you are aware of what we lost...
-- **7487**: Please take the time to read the books here before you leave. If it was Karaha-Baruha's star that led you to this place, then I will not hold this trespass against you.
-- **7489**: I see it now, <Player>... You have a star to guide you.
+- **7442**: Summoning, you say?
+- **7446**: Hmm...
+- **7448**: Yes... Very.
+- **7449**: Time is of the essence. The lines of battle are at Tahrongi Canyon, and draw close to Sarutabaruta.
+- **7450**: The attack on Oztroja shall fail, and many flames of life will go out, like the Star Reading long ago.
+- **7475**: You mustn't touch that!
+- **7476**: That book is forbidden. As an experienced adventurer, you should be able to sense the danger. The ominous power that lurks within...
+- **7477**: How did you come to be here? No one can enter this room except through my private chambers in Heavens Tower.
+- **7479**: ...Is it possible you have...? Have you found Karaha-Baruha's ring? The one that was lost all those years ago?
+- **7481**: Well, then. I should explain about this place.
+- **7483**: This is the Animastery. It is the hidden sixth ministry, and was built almost twenty-five years ago.
+- **7485**: He formulated a theory for drawing magical power from living beings, as opposed to nature. This magic would manifest the same amount of power as the creature it was drawn from.
+- **7487**: However, we were in need of power. The power that could be gained from normal creatures was insufficient. We needed the near limitless energy that could be harnessed from a truly awesome entity...
+- **7488**: Windurst was delivered from obliteration by that very power. But the price we paid for it... I'm sure you are aware of what we lost...
+- **7489**: Please take the time to read the books here before you leave. If it was Karaha-Baruha's star that led you to this place, then I will not hold this trespass against you.
+- **7491**: I see it now, <Player>... You have a star to guide you.
 
 ## Events
 
@@ -206,7 +206,7 @@
 #### Opcodes
 
 ```
-  0: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
+  0: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
     → "Summoning, you say?"
   1: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0014 [0x00] END_REQSTACK()
@@ -231,7 +231,7 @@
 #### Opcodes
 
 ```
-  0: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
+  0: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
     → "Hmm..."
   1: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0019 [0x00] END_REQSTACK()
@@ -256,7 +256,7 @@
 #### Opcodes
 
 ```
-  0: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
+  0: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "Yes... Very."
   1: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x001E [0x00] END_REQSTACK()
@@ -282,7 +282,7 @@
 #### Opcodes
 
 ```
-  0: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+  0: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "Time is of the essence. The lines of battle are at Tahrongi Canyon, and draw close to Sarutabaruta."
   1: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0023 [0x00] END_REQSTACK()
@@ -307,7 +307,7 @@
 #### Opcodes
 
 ```
-  0: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+  0: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "The attack on Oztroja shall fail, and many flames of life will go out, like the Star Reading long ago."
   1: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0028 [0x00] END_REQSTACK()
@@ -885,7 +885,7 @@
 #### Opcodes
 
 ```
-  0: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
+  0: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
     → "You mustn't touch that!"
   1: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B1 [0x00] END_REQSTACK()
@@ -910,7 +910,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
+  0: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
     → "That book is forbidden. As an experienced adventurer, you should be able to sense the danger. The ominous power that lurks within..."
   1: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B6 [0x00] END_REQSTACK()
@@ -935,7 +935,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
+  0: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
     → "How did you come to be here? No one can enter this room except through my private chambers in Heavens Tower."
   1: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01BB [0x00] END_REQSTACK()
@@ -962,7 +962,7 @@
 
 ```
   0: 0x01BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x08)
-  1: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
+  1: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
     → "...Is it possible you have...? Have you found Karaha-Baruha's ring? The one that was lost all those years ago?"
   2: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x09)
@@ -990,7 +990,7 @@
 
 ```
   0: 0x01CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x0C)
-  1: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
+  1: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
     → "Well, then. I should explain about this place."
   2: 0x01D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01DA [0x00] END_REQSTACK()
@@ -1019,7 +1019,7 @@
 ```
   0: 0x01DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x0D)
   1: 0x01E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x08)
-  2: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
+  2: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
     → "This is the Animastery. It is the hidden sixth ministry, and was built almost twenty-five years ago."
   3: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x09)
@@ -1045,7 +1045,7 @@
 #### Opcodes
 
 ```
-  0: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
+  0: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
     → "He formulated a theory for drawing magical power from living beings, as opposed to nature. This magic would manifest the same amount of power as the creature it was drawn from."
   1: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01F9 [0x00] END_REQSTACK()
@@ -1070,7 +1070,7 @@
 #### Opcodes
 
 ```
-  0: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
+  0: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
     → "However, we were in need of power. The power that could be gained from normal creatures was insufficient. We needed the near limitless energy that could be harnessed from a truly awesome entity..."
   1: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01FE [0x00] END_REQSTACK()
@@ -1096,7 +1096,7 @@
 #### Opcodes
 
 ```
-  0: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
+  0: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7488*)
     → "Windurst was delivered from obliteration by that very power. But the price we paid for it... I'm sure you are aware of what we lost..."
   1: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0203 [0x00] END_REQSTACK()
@@ -1123,7 +1123,7 @@
 
 ```
   0: 0x0204 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x0C)
-  1: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
+  1: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
     → "Please take the time to read the books here before you leave. If it was Karaha-Baruha's star that led you to this place, then I will not hold this trespass against you."
   2: 0x020E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x020F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x0D)
@@ -1151,7 +1151,7 @@
 
 ```
   0: 0x0217 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x0A)
-  1: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
+  1: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
     → "I see it now, <Player>... You have a star to guide you."
   2: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0222 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x0B)

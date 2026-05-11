@@ -29,10 +29,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x3038      |       12344 |
+|       1 | 0x303A      |       12346 |
 |       2 | 0x0045      |          69 |
-|       3 | 0x3039      |       12345 |
-|       4 | 0x303A      |       12346 |
+|       3 | 0x303B      |       12347 |
+|       4 | 0x303C      |       12348 |
 |       5 | 0x0013      |          19 |
 |       6 | 0xFFFC6AEB  |  4294732523 |
 |       7 | 0xF7C0      |       63424 |
@@ -47,65 +47,65 @@
 |      16 | 0x0C85      |        3205 |
 |      17 | 0x0146      |         326 |
 |      18 | 0x0000      |           0 |
-|      19 | 0x31D7      |       12759 |
-|      20 | 0x31D8      |       12760 |
-|      21 | 0x31D9      |       12761 |
+|      19 | 0x31D9      |       12761 |
+|      20 | 0x31DA      |       12762 |
+|      21 | 0x31DB      |       12763 |
 |      22 | 0x00C8      |         200 |
 |      23 | 0x0078      |         120 |
 |      24 | 0x003C      |          60 |
-|      25 | 0x31DB      |       12763 |
+|      25 | 0x31DD      |       12765 |
 |      26 | 0xFFFC764B  |  4294735435 |
 |      27 | 0xFFB9      |       65465 |
 |      28 | 0xFFFFF830  |  4294965296 |
 |      29 | 0x0937      |        2359 |
-|      30 | 0x31DC      |       12764 |
+|      30 | 0x31DE      |       12766 |
 |      31 | 0x0007      |           7 |
 |      32 | 0x001A      |          26 |
-|      33 | 0x31DD      |       12765 |
+|      33 | 0x31DF      |       12767 |
 |      34 | 0x005A      |          90 |
-|      35 | 0x31DE      |       12766 |
-|      36 | 0x31DF      |       12767 |
+|      35 | 0x31E0      |       12768 |
+|      36 | 0x31E1      |       12769 |
 |      37 | 0x0004      |           4 |
-|      38 | 0x31E0      |       12768 |
-|      39 | 0x31E1      |       12769 |
+|      38 | 0x31E2      |       12770 |
+|      39 | 0x31E3      |       12771 |
 |      40 | 0x000E      |          14 |
-|      41 | 0x31E2      |       12770 |
-|      42 | 0x31E3      |       12771 |
-|      43 | 0x31E4      |       12772 |
-|      44 | 0x31E5      |       12773 |
+|      41 | 0x31E4      |       12772 |
+|      42 | 0x31E5      |       12773 |
+|      43 | 0x31E6      |       12774 |
+|      44 | 0x31E7      |       12775 |
 |      45 | 0x09C8      |        2504 |
 |      46 | 0x09C9      |        2505 |
-|      47 | 0x31E6      |       12774 |
-|      48 | 0x31E7      |       12775 |
-|      49 | 0x31E8      |       12776 |
-|      50 | 0x31E9      |       12777 |
+|      47 | 0x31E8      |       12776 |
+|      48 | 0x31E9      |       12777 |
+|      49 | 0x31EA      |       12778 |
+|      50 | 0x31EB      |       12779 |
 |      51 | 0x0016      |          22 |
-|      52 | 0x31EA      |       12778 |
-|      53 | 0x31EB      |       12779 |
-|      54 | 0x31EC      |       12780 |
-|      55 | 0x31ED      |       12781 |
+|      52 | 0x31EC      |       12780 |
+|      53 | 0x31ED      |       12781 |
+|      54 | 0x31EE      |       12782 |
+|      55 | 0x31EF      |       12783 |
 |      56 | 0x0020      |          32 |
-|      57 | 0x31EE      |       12782 |
+|      57 | 0x31F0      |       12784 |
 |      58 | 0x0015      |          21 |
-|      59 | 0x31EF      |       12783 |
+|      59 | 0x31F1      |       12785 |
 |      60 | 0x0006      |           6 |
-|      61 | 0x31F0      |       12784 |
-|      62 | 0x31F1      |       12785 |
-|      63 | 0x31F2      |       12786 |
-|      64 | 0x31F3      |       12787 |
+|      61 | 0x31F2      |       12786 |
+|      62 | 0x31F3      |       12787 |
+|      63 | 0x31F4      |       12788 |
+|      64 | 0x31F5      |       12789 |
 |      65 | 0x0001      |           1 |
-|      66 | 0x31F4      |       12788 |
+|      66 | 0x31F6      |       12790 |
 |      67 | 0x0096      |         150 |
-|      68 | 0x31DA      |       12762 |
-|      69 | 0x31F5      |       12789 |
-|      70 | 0x31F6      |       12790 |
-|      71 | 0x31F7      |       12791 |
-|      72 | 0x31F8      |       12792 |
-|      73 | 0x31F9      |       12793 |
+|      68 | 0x31DC      |       12764 |
+|      69 | 0x31F7      |       12791 |
+|      70 | 0x31F8      |       12792 |
+|      71 | 0x31F9      |       12793 |
+|      72 | 0x31FA      |       12794 |
+|      73 | 0x31FB      |       12795 |
 |      74 | 0xFFFC699C  |  4294732188 |
 |      75 | 0x1023F     |       66111 |
 |      76 | 0x0D31      |        3377 |
-|      77 | 0x31FA      |       12794 |
+|      77 | 0x31FC      |       12796 |
 |      78 | 0x000D      |          13 |
 |      79 | 0xFFFC71F1  |  4294734321 |
 |      80 | 0xF87D      |       63613 |
@@ -118,75 +118,75 @@
 |      87 | 0x0BF5      |        3061 |
 |      88 | 0xFFFC77AA  |  4294735786 |
 |      89 | 0xFDD2      |       64978 |
-|      90 | 0x31FB      |       12795 |
-|      91 | 0x31FC      |       12796 |
-|      92 | 0x31FD      |       12797 |
-|      93 | 0x31FE      |       12798 |
-|      94 | 0x31FF      |       12799 |
-|      95 | 0x3200      |       12800 |
-|      96 | 0x3201      |       12801 |
-|      97 | 0x3202      |       12802 |
-|      98 | 0x3203      |       12803 |
-|      99 | 0x3204      |       12804 |
-|     100 | 0x3205      |       12805 |
+|      90 | 0x31FD      |       12797 |
+|      91 | 0x31FE      |       12798 |
+|      92 | 0x31FF      |       12799 |
+|      93 | 0x3200      |       12800 |
+|      94 | 0x3201      |       12801 |
+|      95 | 0x3202      |       12802 |
+|      96 | 0x3203      |       12803 |
+|      97 | 0x3204      |       12804 |
+|      98 | 0x3205      |       12805 |
+|      99 | 0x3206      |       12806 |
+|     100 | 0x3207      |       12807 |
 |     101 | 0x0024      |          36 |
-|     102 | 0x3206      |       12806 |
-|     103 | 0x3207      |       12807 |
-|     104 | 0x3208      |       12808 |
-|     105 | 0x3209      |       12809 |
-|     106 | 0x320A      |       12810 |
-|     107 | 0x320B      |       12811 |
-|     108 | 0x320C      |       12812 |
-|     109 | 0x320D      |       12813 |
-|     110 | 0x320E      |       12814 |
+|     102 | 0x3208      |       12808 |
+|     103 | 0x3209      |       12809 |
+|     104 | 0x320A      |       12810 |
+|     105 | 0x320B      |       12811 |
+|     106 | 0x320C      |       12812 |
+|     107 | 0x320D      |       12813 |
+|     108 | 0x320E      |       12814 |
+|     109 | 0x320F      |       12815 |
+|     110 | 0x3210      |       12816 |
 |     111 | 0x0019      |          25 |
-|     112 | 0x320F      |       12815 |
-|     113 | 0x3210      |       12816 |
-|     114 | 0x3211      |       12817 |
-|     115 | 0x3212      |       12818 |
-|     116 | 0x3213      |       12819 |
-|     117 | 0x3214      |       12820 |
-|     118 | 0x3215      |       12821 |
+|     112 | 0x3211      |       12817 |
+|     113 | 0x3212      |       12818 |
+|     114 | 0x3213      |       12819 |
+|     115 | 0x3214      |       12820 |
+|     116 | 0x3215      |       12821 |
+|     117 | 0x3216      |       12822 |
+|     118 | 0x3217      |       12823 |
 |     119 | 0xFFFC6DFB  |  4294733307 |
 |     120 | 0x10836     |       67638 |
-|     121 | 0x3216      |       12822 |
-|     122 | 0x3217      |       12823 |
-|     123 | 0x3218      |       12824 |
-|     124 | 0x3219      |       12825 |
+|     121 | 0x3218      |       12824 |
+|     122 | 0x3219      |       12825 |
+|     123 | 0x321A      |       12826 |
+|     124 | 0x321B      |       12827 |
 |     125 | 0x00C9      |         201 |
-|     126 | 0x321A      |       12826 |
-|     127 | 0x321B      |       12827 |
+|     126 | 0x321C      |       12828 |
+|     127 | 0x321D      |       12829 |
 
 ## String References
 
-- **12344**: Do you know what a Sahagin is?
-- **12345**: You know, those fish-like beastmen. Their demolition tactics have reduced Port Bastok to a shadow of its former glory. The Third Division of the Republican Legion is working tirelessly to rebuild it.
-- **12346**: And the crushing defeat at Grauberg left even the Fourth Division nearly annihilated. At this rate, who knows what will become of our republic...
-- **12759**: Hey, have you heard? Some Quadavs have begun equipping a new type of armor that has our army completely baffled.
-- **12760**: It's supposed to be bulletproof. If this new armor were to be mass produced by the Quadav, we'd be in quite a tight spot. The issue's been causing mayhem in the Allied War Council.
-- **12761**: How do I know all this?
-- **12762**: I got the info through Ghemp, a mercenary mate of mine. He's got heavy connections in the military.
-- **12767**: Things are well, thanks. No exciting developments to report, really, but that's nothing to complain about. In our line of work, you have to count your stars just to be alive.
-- **12770**: That's great news! This means you can finally put your smithing expertise to use, right?
-- **12772**: That's still wonderful news all the same. With all the advancements in weaponry being made by the beastmen, it's reassuring to have you two in charge.
-- **12773**: Actually, me and <Player> were talking about the new armor being used by the Quadav just now.
-- **12786**: Go find the armor pieces for Ghemp? [I could do with another soul.../Nah, not interested.]
-- **12789**: Ghemp wants you to bring $0 and $1.
-- **12790**: Bring the items to me as soon as you acquire them, and I'll personally make the delivery to Ghemp, rain, hail, or shine.
-- **12791**: Oof! The weight is incredible! These are exactly what Ghemp wanted. Thank you so much.
-- **12792**: I'll deliver them to Ghemp immediately, and accept the reward on your behalf. Be sure to come back to collect it from me in a little while.
-- **12793**: Ghemp will be ecstatic to have these armor pieces. I'll be back with your reward soon, so come back here in a little while.
-- **12794**: Oh, you're back, <Player>. Ghemp said he wanted to give the reward to you in person, so please wait here while I go fetch him.
-- **12801**: B-but, how are we to fight an enemy that is impervious to bullets?
-- **12812**: Garbenn, this matter is too serious to make decisions based on personal preferences!
-- **12816**: Who would have thought...
-- **12821**: ...
-- **12822**: Those two are always carrying on like that.
-- **12823**: But I know that beneath their cheerful exterior, they are dead serious about smithing.
-- **12824**: Ghemp and Garbenn chose to become smiths because they couldn't bear to see their mercenary friends fall in battle for want of decent armor.
-- **12825**: Armor made by soldiers for soldiers--that's the way it should be. I wonder if they'd be willing to take me on as an apprentice...
-- **12826**: I came here because I wanted to help in some way.
-- **12827**: I'm not in it for the gil, if that's what you're thinking. I want to become someone who is dependable and respected...like Ghemp and Garbenn.
+- **12346**: Do you know what a Sahagin is?
+- **12347**: You know, those fish-like beastmen. Their demolition tactics have reduced Port Bastok to a shadow of its former glory. The Third Division of the Republican Legion is working tirelessly to rebuild it.
+- **12348**: And the crushing defeat at Grauberg left even the Fourth Division nearly annihilated. At this rate, who knows what will become of our republic...
+- **12761**: Hey, have you heard? Some Quadavs have begun equipping a new type of armor that has our army completely baffled.
+- **12762**: It's supposed to be bulletproof. If this new armor were to be mass produced by the Quadav, we'd be in quite a tight spot. The issue's been causing mayhem in the Allied War Council.
+- **12763**: How do I know all this?
+- **12764**: I got the info through Ghemp, a mercenary mate of mine. He's got heavy connections in the military.
+- **12769**: Things are well, thanks. No exciting developments to report, really, but that's nothing to complain about. In our line of work, you have to count your stars just to be alive.
+- **12772**: That's great news! This means you can finally put your smithing expertise to use, right?
+- **12774**: That's still wonderful news all the same. With all the advancements in weaponry being made by the beastmen, it's reassuring to have you two in charge.
+- **12775**: Actually, me and <Player> were talking about the new armor being used by the Quadav just now.
+- **12788**: Go find the armor pieces for Ghemp? [I could do with another soul.../Nah, not interested.]
+- **12791**: Ghemp wants you to bring $0 and $1.
+- **12792**: Bring the items to me as soon as you acquire them, and I'll personally make the delivery to Ghemp, rain, hail, or shine.
+- **12793**: Oof! The weight is incredible! These are exactly what Ghemp wanted. Thank you so much.
+- **12794**: I'll deliver them to Ghemp immediately, and accept the reward on your behalf. Be sure to come back to collect it from me in a little while.
+- **12795**: Ghemp will be ecstatic to have these armor pieces. I'll be back with your reward soon, so come back here in a little while.
+- **12796**: Oh, you're back, <Player>. Ghemp said he wanted to give the reward to you in person, so please wait here while I go fetch him.
+- **12803**: B-but, how are we to fight an enemy that is impervious to bullets?
+- **12814**: Garbenn, this matter is too serious to make decisions based on personal preferences!
+- **12818**: Who would have thought...
+- **12823**: ...
+- **12824**: Those two are always carrying on like that.
+- **12825**: But I know that beneath their cheerful exterior, they are dead serious about smithing.
+- **12826**: Ghemp and Garbenn chose to become smiths because they couldn't bear to see their mercenary friends fall in battle for want of decent armor.
+- **12827**: Armor made by soldiers for soldiers--that's the way it should be. I wonder if they'd be willing to take me on as an apprentice...
+- **12828**: I came here because I wanted to help in some way.
+- **12829**: I'm not in it for the gil, if that's what you're thinking. I want to become someone who is dependable and respected...like Ghemp and Garbenn.
 
 ## Events
 
@@ -257,14 +257,14 @@
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0007 [0x1C] WAIT(30* ticks)
-  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=12344*)
+  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=12346*)
     → "Do you know what a Sahagin is?"
   3: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=12345*)
+  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=12347*)
     → "You know, those fish-like beastmen. Their demolition tactics have reduced Port Bastok to a shadow of its former glory. The Third Division of the Republican Legion is working tirelessly to rebuild it."
   6: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=12346*)
+  7: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=12348*)
     → "And the crushing defeat at Grauberg left even the Fourth Division nearly annihilated. At this rate, who knows what will become of our republic..."
   8: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0025 [0x21] END_EVENT
@@ -420,16 +420,16 @@
  26: 0x00CB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  27: 0x00CC [0x1C] WAIT(30* ticks)
  28: 0x00CF [0x1A] CALL_SUBROUTINE(address=0x0D0B)
- 29: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+ 29: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
     → "Hey, have you heard? Some Quadavs have begun equipping a new type of armor that has our army completely baffled."
  30: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00D6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Scarred Shark (ID: 17134047/0x010571DF), Scarred Shark (ID: 17134047/0x010571DF)], work=69*
- 32: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
+ 32: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12762*)
     → "It's supposed to be bulletproof. If this new armor were to be mass produced by the Quadav, we'd be in quite a tight spot. The issue's been causing mayhem in the Allied War Council."
  33: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00E9 [0x52] END_LOAD_SCHEDULER: End scheduler "s100" with entities [LocalPlayer, LocalPlayer], work=326*
  35: 0x00F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s099" with entities [LocalPlayer, LocalPlayer], work=[326*, 0*]
- 36: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+ 36: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=12763*)
     → "How do I know all this?"
  37: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x010D [0x27] REQ_SET(priority=0x05, entity_id=Scarred Shark (ID: 17134047/0x010571DF), tag_num=0x04)
@@ -442,7 +442,7 @@
  45: 0x015E [0x1C] WAIT(120* ticks)
  46: 0x0161 [0x27] REQ_SET(priority=0x19, entity_id=Wise Owl (ID: 17134049/0x010571E1), tag_num=0x03)
  47: 0x0168 [0x1C] WAIT(60* ticks)
- 48: 0x016B [0x2B] Ghemp (ID: 17134048/0x010571E0) [12763*]:
+ 48: 0x016B [0x2B] Ghemp (ID: 17134048/0x010571E0) [12765*]:
     → "There's no doubt about it. The marks left on the bullets recovered from the site show telltale signs of deflection. I hate to admit it, but those turtles now have the upper hand..."
  49: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0173 [0x1C] WAIT(60* ticks)
@@ -452,7 +452,7 @@
  54: 0x01A3 [0x1C] WAIT(60* ticks)
  55: 0x01A6 [0x79] Wise Owl (ID: 17134049/0x010571E1) looks at Ghemp (ID: 17134048/0x010571E0) (Basic look)
  56: 0x01B0 [0x2A] GET_REQ_LEVEL(level=20, entity_id=Ghemp (ID: 17134048/0x010571E0))
- 57: 0x01B6 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12764*]:
+ 57: 0x01B6 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12766*]:
     → "If the army hadn't rejected your request for funding, you would have developed your own bulletproof armor by now. I thought your theory on shape being a factor in repelling bullets rather compelling..."
  58: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x01BE [0x4A] Ghemp (ID: 17134048/0x010571E0) looks at Wise Owl (ID: 17134049/0x010571E1)
@@ -467,7 +467,7 @@
  68: 0x01EA [0x6E] Wise Owl (ID: 17134049/0x010571E1) uses emote 26*
  69: 0x01F1 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
  70: 0x01F6 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
- 71: 0x01FB [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12765*]:
+ 71: 0x01FB [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12767*]:
     → "The council is filled with hard-headed fossils."
  72: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0203 [0x1C] WAIT(60* ticks)
@@ -477,12 +477,12 @@
  77: 0x022D [0x7B] Wise Owl (ID: 17134049/0x010571E1) stops talking
  78: 0x0232 [0x1C] WAIT(90* ticks)
  79: 0x0235 [0x27] REQ_SET(priority=0x19, entity_id=Wise Owl (ID: 17134049/0x010571E1), tag_num=0x04)
- 80: 0x023C [0x2B] Ghemp (ID: 17134048/0x010571E0) [12766*]:
+ 80: 0x023C [0x2B] Ghemp (ID: 17134048/0x010571E0) [12768*]:
     → "Hey, Vareggo! How's work been?"
  81: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0244 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Scarred Shark (ID: 17134047/0x010571DF), Scarred Shark (ID: 17134047/0x010571DF)], work=69*
  83: 0x0253 [0x1C] WAIT(120* ticks)
- 84: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=12767*)
+ 84: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=12769*)
     → "Things are well, thanks. No exciting developments to report, really, but that's nothing to complain about. In our line of work, you have to count your stars just to be alive."
  85: 0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x025A [0x2A] GET_REQ_LEVEL(level=25, entity_id=Wise Owl (ID: 17134049/0x010571E1))
@@ -497,11 +497,11 @@
  95: 0x02A8 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
  96: 0x02AD [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
  97: 0x02B2 [0x1C] WAIT(60* ticks)
- 98: 0x02B5 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12768*]:
+ 98: 0x02B5 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12770*]:
     → "That's the spirit! Say, if you're not busy, we'd like your help with our work."
  99: 0x02BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x02BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Wise Owl (ID: 17134049/0x010571E1), Wise Owl (ID: 17134049/0x010571E1)], work=69*
-101: 0x02CC [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12769*]:
+101: 0x02CC [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12771*]:
     → "We've recently been commissioned by the army to oversee production at the munitions factory, and need more hands."
 102: 0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x02D4 [0x52] END_LOAD_SCHEDULER: End scheduler "s095" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -511,23 +511,23 @@
 107: 0x030A [0x99] Wait for Scarred Shark (ID: 17134047/0x010571DF) animation to complete
 108: 0x030F [0x99] Wait for Scarred Shark (ID: 17134047/0x010571DF) animation to complete
 109: 0x0314 [0x1C] WAIT(60* ticks)
-110: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=12770*)
+110: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
     → "That's great news! This means you can finally put your smithing expertise to use, right?"
 111: 0x031A [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x031B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Wise Owl (ID: 17134049/0x010571E1), Wise Owl (ID: 17134049/0x010571E1)], work=69*
-113: 0x032A [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12771*]:
+113: 0x032A [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12773*]:
     → "I suppose you could put it that way. The pay's nothing fancy, though."
 114: 0x0331 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x0332 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Wise Owl (ID: 17134049/0x010571E1), Wise Owl (ID: 17134049/0x010571E1)], work=69*
 116: 0x0341 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Scarred Shark (ID: 17134047/0x010571DF), Scarred Shark (ID: 17134047/0x010571DF)], work=69*
-117: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
+117: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
     → "That's still wonderful news all the same. With all the advancements in weaponry being made by the beastmen, it's reassuring to have you two in charge."
 118: 0x0353 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0354 [0x79] Scarred Shark (ID: 17134047/0x010571DF) looks at LocalPlayer (Basic look)
 120: 0x035E [0x52] END_LOAD_SCHEDULER: End scheduler "s094" with entities [LocalPlayer, LocalPlayer], work=326*
 121: 0x036D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [LocalPlayer, LocalPlayer], work=[326*, 0*]
 122: 0x037E [0x1C] WAIT(60* ticks)
-123: 0x0381 [0x1D] PRINT_EVENT_MESSAGE(message_id=12773*)
+123: 0x0381 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "Actually, me and <Player> were talking about the new armor being used by the Quadav just now."
 124: 0x0384 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0385 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Scarred Shark (ID: 17134047/0x010571DF), Scarred Shark (ID: 17134047/0x010571DF)], work=69*
@@ -538,7 +538,7 @@
 130: 0x03A6 [0x03] Work_Zone[2] = 2504*
 131: 0x03AB [0x03] Work_Zone[3] = 2505*
 132: 0x03B0 [0x79] LocalPlayer looks at Ghemp (ID: 17134048/0x010571E0) (Basic look)
-133: 0x03BA [0x2B] Ghemp (ID: 17134048/0x010571E0) [12774*]:
+133: 0x03BA [0x2B] Ghemp (ID: 17134048/0x010571E0) [12776*]:
     → "Hmmm... You mean the $0 and the $1."
 134: 0x03C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x03C2 [0x52] END_LOAD_SCHEDULER: End scheduler "s093" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -546,18 +546,18 @@
 137: 0x03E2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Wise Owl (ID: 17134049/0x010571E1), Wise Owl (ID: 17134049/0x010571E1)], work=69*
 138: 0x03F1 [0x1C] WAIT(30* ticks)
 139: 0x03F4 [0x79] Ghemp (ID: 17134048/0x010571E0) looks at Wise Owl (ID: 17134049/0x010571E1) (Basic look)
-140: 0x03FE [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12775*]:
+140: 0x03FE [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12777*]:
     → "What a coincidence! Ghemp and I were having the exact same conversation."
 141: 0x0405 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0406 [0x79] LocalPlayer looks at Ghemp (ID: 17134048/0x010571E0) (Basic look)
-143: 0x0410 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12776*]:
+143: 0x0410 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12778*]:
     → "The armor's strength does not rely on thickness or material alone--I'm convinced it's the contour that holds the key to its ability to deflect bullets..."
 144: 0x0417 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x0418 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Wise Owl (ID: 17134049/0x010571E1), Wise Owl (ID: 17134049/0x010571E1)], work=69*
 146: 0x0427 [0x4A] Wise Owl (ID: 17134049/0x010571E1) looks at Ghemp (ID: 17134048/0x010571E0)
 147: 0x0430 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 148: 0x0431 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Wise Owl (ID: 17134049/0x010571E1) Render.Flags0 and Render.Flags3 conditions are met
-149: 0x0436 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12777*]:
+149: 0x0436 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12779*]:
     → "Excuse me if I'm wrong, but haven't we already had this conversation five times today? This is beginning to become an unhealthy obsession, Ghemp."
 150: 0x043D [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x043E [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -565,19 +565,19 @@
 153: 0x045E [0x6E] Ghemp (ID: 17134048/0x010571E0) uses emote 22*
 154: 0x0465 [0x99] Wait for Ghemp (ID: 17134048/0x010571E0) animation to complete
 155: 0x046A [0x99] Wait for Ghemp (ID: 17134048/0x010571E0) animation to complete
-156: 0x046F [0x2B] Ghemp (ID: 17134048/0x010571E0) [12778*]:
+156: 0x046F [0x2B] Ghemp (ID: 17134048/0x010571E0) [12780*]:
     → "It...it's a matter of grave importance to the security of the nation! If I could just get my hands on a sample, it'd be possible to analyze it and prove my bulletproofing theory correct..."
 157: 0x0476 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x0477 [0x52] END_LOAD_SCHEDULER: End scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=326*
 159: 0x0486 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [LocalPlayer, LocalPlayer], work=[326*, 0*]
 160: 0x0497 [0x79] Wise Owl (ID: 17134049/0x010571E1) looks at Ghemp (ID: 17134048/0x010571E0) (Basic look)
 161: 0x04A1 [0x1C] WAIT(60* ticks)
-162: 0x04A4 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12779*]:
+162: 0x04A4 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12781*]:
     → "That's all well and good, but I reckon there's better gil to be had by developing a new weapon that'll penetrate the armor and selling the design to the army."
 163: 0x04AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x04AC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
 165: 0x04BB [0x1C] WAIT(30* ticks)
-166: 0x04BE [0x2B] Ghemp (ID: 17134048/0x010571E0) [12780*]:
+166: 0x04BE [0x2B] Ghemp (ID: 17134048/0x010571E0) [12782*]:
     → "Well, well, looks like I'm not the only one with an obsession..."
 167: 0x04C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x04C6 [0x52] END_LOAD_SCHEDULER: End scheduler "s086" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -585,7 +585,7 @@
 170: 0x04E6 [0x79] Ghemp (ID: 17134048/0x010571E0) looks at LocalPlayer (Basic look)
 171: 0x04F0 [0x03] Work_Zone[2] = 2504*
 172: 0x04F5 [0x03] Work_Zone[3] = 2505*
-173: 0x04FA [0x2B] Ghemp (ID: 17134048/0x010571E0) [12781*]:
+173: 0x04FA [0x2B] Ghemp (ID: 17134048/0x010571E0) [12783*]:
     → "So, how about it? Would you be interested in finding me $0 and $1? I'll make sure you're rewarded."
 174: 0x0501 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x0502 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
@@ -594,7 +594,7 @@
 178: 0x0531 [0x6E] Ghemp (ID: 17134048/0x010571E0) uses emote 32*
 179: 0x0538 [0x99] Wait for Ghemp (ID: 17134048/0x010571E0) animation to complete
 180: 0x053D [0x99] Wait for Ghemp (ID: 17134048/0x010571E0) animation to complete
-181: 0x0542 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12782*]:
+181: 0x0542 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12784*]:
     → "I want the armor pieces so badly, I'm willing to part with my soul."
 182: 0x0549 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x054A [0x79] Wise Owl (ID: 17134049/0x010571E1) looks at Ghemp (ID: 17134048/0x010571E0) (Basic look)
@@ -602,27 +602,27 @@
 185: 0x055B [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
 186: 0x0560 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
 187: 0x0565 [0x1C] WAIT(30* ticks)
-188: 0x0568 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12783*]:
+188: 0x0568 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12785*]:
     → "Hey hey, hold your chocobos there, Ghemp! Y-you can't be serious about giving your soul away..."
 189: 0x056F [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x0570 [0x6E] Ghemp (ID: 17134048/0x010571E0) uses emote 6*
 191: 0x0577 [0x99] Wait for Ghemp (ID: 17134048/0x010571E0) animation to complete
 192: 0x057C [0x99] Wait for Ghemp (ID: 17134048/0x010571E0) animation to complete
-193: 0x0581 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12784*]:
+193: 0x0581 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12786*]:
     → "Sure I can. I don't need it anymore."
 194: 0x0588 [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x0589 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
-196: 0x0598 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12785*]:
+196: 0x0598 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12787*]:
     → "So, what do you say? Things could get a bit rough, but I would really appreciate your help."
 197: 0x059F [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x05A0 [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=326*
 199: 0x05AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=[326*, 0*]
-200: 0x05C0 [0x24] CREATE_DIALOG(message_id=12786*, default_option=0*, option_flags=0*)
+200: 0x05C0 [0x24] CREATE_DIALOG(message_id=12788*, default_option=0*, option_flags=0*)
     → "Go find the armor pieces for Ghemp? [I could do with another soul.../Nah, not interested.]"
 201: 0x05C7 [0x25] WAIT_DIALOG_SELECT()
 202: 0x05C8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x060A
 203: 0x05D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
-204: 0x05DF [0x2B] Ghemp (ID: 17134048/0x010571E0) [12787*]:
+204: 0x05DF [0x2B] Ghemp (ID: 17134048/0x010571E0) [12789*]:
     → "I knew I could count on you! I'll be waiting."
 205: 0x05E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x05E7 [0x52] END_LOAD_SCHEDULER: End scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -630,7 +630,7 @@
 208: 0x0607 [0x01] GOTO 0x064C
 209: 0x060A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x064C
 210: 0x0612 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
-211: 0x0621 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12788*]:
+211: 0x0621 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12790*]:
     → "That's a shame... I can't blame you for fearing for your own safety. But let me know if you change your mind."
 212: 0x0628 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x0629 [0x52] END_LOAD_SCHEDULER: End scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -672,7 +672,7 @@ SUBROUTINE_064C:
 #### Opcodes
 
 ```
-  0: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=12762*)
+  0: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=12764*)
     → "I got the info through Ghemp, a mercenary mate of mine. He's got heavy connections in the military."
   1: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0680 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Scarred Shark (ID: 17134047/0x010571DF), Scarred Shark (ID: 17134047/0x010571DF)], work=69*
@@ -704,10 +704,10 @@ SUBROUTINE_064C:
   1: 0x0698 [0x03] Work_Zone[3] = 2505*
   2: 0x069D [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x06A2 [0x1C] WAIT(30* ticks)
-  4: 0x06A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12789*)
+  4: 0x06A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12791*)
     → "Ghemp wants you to bring $0 and $1."
   5: 0x06A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x06A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12790*)
+  6: 0x06A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12792*)
     → "Bring the items to me as soon as you acquire them, and I'll personally make the delivery to Ghemp, rain, hail, or shine."
   7: 0x06AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x06AD [0x21] END_EVENT
@@ -740,10 +740,10 @@ SUBROUTINE_064C:
   2: 0x06B5 [0x1C] WAIT(30* ticks)
   3: 0x06B8 [0x03] Work_Zone[2] = 2504*
   4: 0x06BD [0x03] Work_Zone[3] = 2505*
-  5: 0x06C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12791*)
+  5: 0x06C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12793*)
     → "Oof! The weight is incredible! These are exactly what Ghemp wanted. Thank you so much."
   6: 0x06C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x06C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12792*)
+  7: 0x06C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12794*)
     → "I'll deliver them to Ghemp immediately, and accept the reward on your behalf. Be sure to come back to collect it from me in a little while."
   8: 0x06C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x06CA [0x21] END_EVENT
@@ -772,7 +772,7 @@ SUBROUTINE_064C:
 ```
   0: 0x06CC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x06D1 [0x1C] WAIT(30* ticks)
-  2: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12793*)
+  2: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12795*)
     → "Ghemp will be ecstatic to have these armor pieces. I'll be back with your reward soon, so come back here in a little while."
   3: 0x06D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x06D8 [0x21] END_EVENT
@@ -910,7 +910,7 @@ SUBROUTINE_064C:
  19: 0x0743 [0x1C] WAIT(30* ticks)
  20: 0x0746 [0x1A] CALL_SUBROUTINE(address=0x0D0B)
  21: 0x0749 [0x1C] WAIT(60* ticks)
- 22: 0x074C [0x1D] PRINT_EVENT_MESSAGE(message_id=12794*)
+ 22: 0x074C [0x1D] PRINT_EVENT_MESSAGE(message_id=12796*)
     → "Oh, you're back, <Player>. Ghemp said he wanted to give the reward to you in person, so please wait here while I go fetch him."
  23: 0x074F [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0750 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
@@ -950,33 +950,33 @@ SUBROUTINE_064C:
  58: 0x0808 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  59: 0x080D [0x1C] WAIT(60* ticks)
  60: 0x0810 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=60*
- 61: 0x081F [0x2B] Ghemp (ID: 17134048/0x010571E0) [12795*]:
+ 61: 0x081F [0x2B] Ghemp (ID: 17134048/0x010571E0) [12797*]:
     → "You're a lifesaver, <Player>. The armor pieces are exactly what I was looking for...and in such great condition, too! Here, this is my soul as promised."
  62: 0x0826 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x0827 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12796*]:
+ 63: 0x0827 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12798*]:
     → "It's a smithing instrument that was made for me by a traveling tool vendor who taught me my craft."
  64: 0x082E [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x082F [0x52] END_LOAD_SCHEDULER: End scheduler "s084" with entities [LocalPlayer, LocalPlayer], work=326*
  66: 0x083E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=[326*, 0*]
  67: 0x084F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
  68: 0x085E [0x1C] WAIT(30* ticks)
- 69: 0x0861 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12797*]:
+ 69: 0x0861 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12799*]:
     → "But it does its job too well, almost to a fault. Relying too much on it jeopardizes my integrity as a master blacksmith. That's why I've decided to give it away."
  70: 0x0868 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0869 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
  72: 0x0878 [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=326*
  73: 0x0887 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [LocalPlayer, LocalPlayer], work=[326*, 0*]
  74: 0x0898 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
- 75: 0x08A7 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12798*]:
+ 75: 0x08A7 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12800*]:
     → "Oh, and one more thing. I examined the Quadav armor, and it's as I expected--a makeshift construction that deflects bullets."
  76: 0x08AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x08AF [0x2B] Ghemp (ID: 17134048/0x010571E0) [12799*]:
+ 77: 0x08AF [0x2B] Ghemp (ID: 17134048/0x010571E0) [12801*]:
     → "What we don't know, though, is whether it was accident or intent that made the armor bulletproof..."
  78: 0x08B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x08B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
  80: 0x08C6 [0x1C] WAIT(120* ticks)
  81: 0x08C9 [0x79] Ghemp (ID: 17134048/0x010571E0) looks at Wise Owl (ID: 17134049/0x010571E1) (Basic look)
- 82: 0x08D3 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12800*]:
+ 82: 0x08D3 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12802*]:
     → "Either way, nothing changes the fact that the Quadav now pose a greater threat than ever before."
  83: 0x08DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x08DB [0x52] END_LOAD_SCHEDULER: End scheduler "s082" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -984,7 +984,7 @@ SUBROUTINE_064C:
  86: 0x08FB [0x6E] Scarred Shark (ID: 17134047/0x010571DF) uses emote 21*
  87: 0x0902 [0x99] Wait for Scarred Shark (ID: 17134047/0x010571DF) animation to complete
  88: 0x0907 [0x99] Wait for Scarred Shark (ID: 17134047/0x010571DF) animation to complete
- 89: 0x090C [0x1D] PRINT_EVENT_MESSAGE(message_id=12801*)
+ 89: 0x090C [0x1D] PRINT_EVENT_MESSAGE(message_id=12803*)
     → "B-but, how are we to fight an enemy that is impervious to bullets?"
  90: 0x090F [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0910 [0x4A] Ghemp (ID: 17134048/0x010571E0) looks at Scarred Shark (ID: 17134047/0x010571DF)
@@ -995,13 +995,13 @@ SUBROUTINE_064C:
  96: 0x093F [0x6E] Ghemp (ID: 17134048/0x010571E0) uses emote 7*
  97: 0x0946 [0x99] Wait for Ghemp (ID: 17134048/0x010571E0) animation to complete
  98: 0x094B [0x99] Wait for Ghemp (ID: 17134048/0x010571E0) animation to complete
- 99: 0x0950 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12802*]:
+ 99: 0x0950 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12804*]:
     → "There's no reason for panic. After all, there's no such thing as impenetrable armor..."
 100: 0x0957 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0958 [0x4A] Ghemp (ID: 17134048/0x010571E0) looks at Wise Owl (ID: 17134049/0x010571E1)
 102: 0x0961 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 103: 0x0962 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ghemp (ID: 17134048/0x010571E0) Render.Flags0 and Render.Flags3 conditions are met
-104: 0x0967 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12803*]:
+104: 0x0967 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12805*]:
     → "At least not for our Garbenn! You've already thought up ways to make a gun shoot through the new Quadav armor, right?"
 105: 0x096E [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x096F [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -1009,40 +1009,40 @@ SUBROUTINE_064C:
 108: 0x098F [0x6E] Wise Owl (ID: 17134049/0x010571E1) uses emote 7*
 109: 0x0996 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
 110: 0x099B [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
-111: 0x09A0 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12804*]:
+111: 0x09A0 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12806*]:
     → "Yeah, it's possible to increase firepower by tweaking charge and bullet. After that, penetrating the turtle armor would be like poking a rapier into a yogurt cake. But..."
 112: 0x09A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x09A8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
-114: 0x09B7 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12805*]:
+114: 0x09B7 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12807*]:
     → "But...what?"
 115: 0x09BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x09BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
 117: 0x09CE [0x6E] Wise Owl (ID: 17134049/0x010571E1) uses emote 36*
 118: 0x09D5 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
 119: 0x09DA [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
-120: 0x09DF [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12806*]:
+120: 0x09DF [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12808*]:
     → "I've been developing something else--a tempered steel axe that will slice right through entire ranks of Quadav! Well, that's exaggerating things a little..."
 121: 0x09E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x09E7 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12807*]:
+122: 0x09E7 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12809*]:
     → "A well-aimed blow with a heavy, well-weighted axe head should smash apart rivets that hold together plates of armor, turning it into a dismantled heap on the ground."
 123: 0x09EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x09EF [0x6E] Wise Owl (ID: 17134049/0x010571E1) uses emote 4*
 125: 0x09F6 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
 126: 0x09FB [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
-127: 0x0A00 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12808*]:
+127: 0x0A00 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12810*]:
     → "Even if the armor holds, the sheer force of the blow will not leave the wearer unscathed."
 128: 0x0A07 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0A08 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
-130: 0x0A17 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12809*]:
+130: 0x0A17 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12811*]:
     → "Hmmm... Galkan soldiers like ourselves can wield battle axes with ease, so the idea is not without merit. But, why axes and not guns?"
 131: 0x0A1E [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x0A1F [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12810*]:
+132: 0x0A1F [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12812*]:
     → "You see..."
 133: 0x0A26 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x0A27 [0x6E] Wise Owl (ID: 17134049/0x010571E1) uses emote 6*
 135: 0x0A2E [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
 136: 0x0A33 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
-137: 0x0A38 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12811*]:
+137: 0x0A38 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12813*]:
     → "I detest projectile weapons."
 138: 0x0A3F [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0A40 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
@@ -1051,19 +1051,19 @@ SUBROUTINE_064C:
 142: 0x0A6F [0x6E] Scarred Shark (ID: 17134047/0x010571DF) uses emote 26*
 143: 0x0A76 [0x99] Wait for Scarred Shark (ID: 17134047/0x010571DF) animation to complete
 144: 0x0A7B [0x99] Wait for Scarred Shark (ID: 17134047/0x010571DF) animation to complete
-145: 0x0A80 [0x1D] PRINT_EVENT_MESSAGE(message_id=12812*)
+145: 0x0A80 [0x1D] PRINT_EVENT_MESSAGE(message_id=12814*)
     → "Garbenn, this matter is too serious to make decisions based on personal preferences!"
 146: 0x0A83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x0A84 [0x79] LocalPlayer looks at Scarred Shark (ID: 17134047/0x010571DF) (Basic look)
 148: 0x0A8E [0x1C] WAIT(60* ticks)
 149: 0x0A91 [0x52] END_LOAD_SCHEDULER: End scheduler "s078" with entities [LocalPlayer, LocalPlayer], work=326*
 150: 0x0AA0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=[326*, 0*]
-151: 0x0AB1 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12813*]:
+151: 0x0AB1 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12815*]:
     → "No... There is sense in what Garbenn is saying."
 152: 0x0AB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x0AB9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
 154: 0x0AC8 [0x79] Wise Owl (ID: 17134049/0x010571E1) looks at Ghemp (ID: 17134048/0x010571E0) (Basic look)
-155: 0x0AD2 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12814*]:
+155: 0x0AD2 [0x2B] Ghemp (ID: 17134048/0x010571E0) [12816*]:
     → "Only a handful of Quadav will have the strength to don such heavy armor. In that case, if we let the strongest in their ranks weigh themselves down..."
 156: 0x0AD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0ADA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Ghemp (ID: 17134048/0x010571E0), Ghemp (ID: 17134048/0x010571E0)], work=69*
@@ -1071,7 +1071,7 @@ SUBROUTINE_064C:
 159: 0x0AEC [0x6E] Wise Owl (ID: 17134049/0x010571E1) uses emote 25*
 160: 0x0AF3 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
 161: 0x0AF8 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
-162: 0x0AFD [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12815*]:
+162: 0x0AFD [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12817*]:
     → "And mobilize a Galkan strike team armed with enhanced battle axes to eliminate them as soon as they are sighted... Problem solved!"
 163: 0x0B04 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x0B05 [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -1082,7 +1082,7 @@ SUBROUTINE_064C:
 169: 0x0B34 [0x6E] Scarred Shark (ID: 17134047/0x010571DF) uses emote 26*
 170: 0x0B3B [0x99] Wait for Scarred Shark (ID: 17134047/0x010571DF) animation to complete
 171: 0x0B40 [0x99] Wait for Scarred Shark (ID: 17134047/0x010571DF) animation to complete
-172: 0x0B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12816*)
+172: 0x0B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12818*)
     → "Who would have thought..."
 173: 0x0B48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x0B49 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=326*
@@ -1090,19 +1090,19 @@ SUBROUTINE_064C:
 176: 0x0B69 [0x6E] Wise Owl (ID: 17134049/0x010571E1) uses emote 26*
 177: 0x0B70 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
 178: 0x0B75 [0x99] Wait for Wise Owl (ID: 17134049/0x010571E1) animation to complete
-179: 0x0B7A [0x2B] Ghemp (ID: 17134048/0x010571E0) [12817*]:
+179: 0x0B7A [0x2B] Ghemp (ID: 17134048/0x010571E0) [12819*]:
     → "Then it's decided! Garbenn, you continue developing those tempered steel battle axes, and I'll start working on a lightweight bulletproof armor that'll surpass anything those turtles have."
 180: 0x0B81 [0x23] WAIT_FOR_DIALOG_INTERACTION
-181: 0x0B82 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12818*]:
+181: 0x0B82 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12820*]:
     → "Leave it to me, Ghemp. Just don't be too shocked when my axe pulverizes your armor like a chunk of rock salt!"
 182: 0x0B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
-183: 0x0B8A [0x2B] Ghemp (ID: 17134048/0x010571E0) [12819*]:
+183: 0x0B8A [0x2B] Ghemp (ID: 17134048/0x010571E0) [12821*]:
     → "Haaa! We'll see who has the last laugh. My armor will stand up to all your pickaxes."
 184: 0x0B91 [0x23] WAIT_FOR_DIALOG_INTERACTION
-185: 0x0B92 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12820*]:
+185: 0x0B92 [0x2B] Wise Owl (ID: 17134049/0x010571E1) [12822*]:
     → "Oooh, I bet you're planning to use that "revolutionary" shock-absorbing material of yours. A refresher course in introductory physics should be your first priority, my misguided friend!"
 186: 0x0B99 [0x23] WAIT_FOR_DIALOG_INTERACTION
-187: 0x0B9A [0x1D] PRINT_EVENT_MESSAGE(message_id=12821*)
+187: 0x0B9A [0x1D] PRINT_EVENT_MESSAGE(message_id=12823*)
     → "..."
 188: 0x0B9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x0B9E [0x1A] CALL_SUBROUTINE(address=0x0CB7)
@@ -1122,20 +1122,20 @@ SUBROUTINE_064C:
 203: 0x0BF2 [0x4A] Scarred Shark (ID: 17134047/0x010571DF) looks at LocalPlayer
 204: 0x0BFB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 205: 0x0BFC [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Scarred Shark (ID: 17134047/0x010571DF) Render.Flags0 and Render.Flags3 conditions are met
-206: 0x0C01 [0x1D] PRINT_EVENT_MESSAGE(message_id=12822*)
+206: 0x0C01 [0x1D] PRINT_EVENT_MESSAGE(message_id=12824*)
     → "Those two are always carrying on like that."
 207: 0x0C04 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0C05 [0x52] END_LOAD_SCHEDULER: End scheduler "s074" with entities [LocalPlayer, LocalPlayer], work=326*
 209: 0x0C14 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [LocalPlayer, LocalPlayer], work=[326*, 0*]
 210: 0x0C25 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Scarred Shark (ID: 17134047/0x010571DF), Scarred Shark (ID: 17134047/0x010571DF)], work=69*
-211: 0x0C34 [0x1D] PRINT_EVENT_MESSAGE(message_id=12823*)
+211: 0x0C34 [0x1D] PRINT_EVENT_MESSAGE(message_id=12825*)
     → "But I know that beneath their cheerful exterior, they are dead serious about smithing."
 212: 0x0C37 [0x23] WAIT_FOR_DIALOG_INTERACTION
-213: 0x0C38 [0x1D] PRINT_EVENT_MESSAGE(message_id=12824*)
+213: 0x0C38 [0x1D] PRINT_EVENT_MESSAGE(message_id=12826*)
     → "Ghemp and Garbenn chose to become smiths because they couldn't bear to see their mercenary friends fall in battle for want of decent armor."
 214: 0x0C3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x0C3C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Scarred Shark (ID: 17134047/0x010571DF), Scarred Shark (ID: 17134047/0x010571DF)], work=69*
-216: 0x0C4B [0x1D] PRINT_EVENT_MESSAGE(message_id=12825*)
+216: 0x0C4B [0x1D] PRINT_EVENT_MESSAGE(message_id=12827*)
     → "Armor made by soldiers for soldiers--that's the way it should be. I wonder if they'd be willing to take me on as an apprentice..."
 217: 0x0C4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x0C4F [0x1A] CALL_SUBROUTINE(address=0x0CB7)
@@ -1180,16 +1180,16 @@ SUBROUTINE_064C:
 ```
   0: 0x0C7C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0C81 [0x1C] WAIT(30* ticks)
-  2: 0x0C84 [0x1D] PRINT_EVENT_MESSAGE(message_id=12344*)
+  2: 0x0C84 [0x1D] PRINT_EVENT_MESSAGE(message_id=12346*)
     → "Do you know what a Sahagin is?"
   3: 0x0C87 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0C88 [0x1D] PRINT_EVENT_MESSAGE(message_id=12345*)
+  4: 0x0C88 [0x1D] PRINT_EVENT_MESSAGE(message_id=12347*)
     → "You know, those fish-like beastmen. Their demolition tactics have reduced Port Bastok to a shadow of its former glory. The Third Division of the Republican Legion is working tirelessly to rebuild it."
   5: 0x0C8B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0C8C [0x1D] PRINT_EVENT_MESSAGE(message_id=12826*)
+  6: 0x0C8C [0x1D] PRINT_EVENT_MESSAGE(message_id=12828*)
     → "I came here because I wanted to help in some way."
   7: 0x0C8F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0C90 [0x1D] PRINT_EVENT_MESSAGE(message_id=12827*)
+  8: 0x0C90 [0x1D] PRINT_EVENT_MESSAGE(message_id=12829*)
     → "I'm not in it for the gil, if that's what you're thinking. I want to become someone who is dependable and respected...like Ghemp and Garbenn."
   9: 0x0C93 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0C94 [0x21] END_EVENT

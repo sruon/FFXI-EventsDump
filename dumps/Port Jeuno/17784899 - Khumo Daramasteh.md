@@ -62,8 +62,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x0008      |           8 |
-|       2 | 0x1BC7      |        7111 |
-|       3 | 0x1BC8      |        7112 |
+|       2 | 0x1BC9      |        7113 |
+|       3 | 0x1BCA      |        7114 |
 |       4 | 0x0015      |          21 |
 |       5 | 0x005A      |          90 |
 |       6 | 0x000D      |          13 |
@@ -146,8 +146,8 @@
 
 ## String References
 
-- **7111**: You can board with $6 from the Chamber of Commerce and Industry in Lower Jeuno, but they're prohibitively expensive.
-- **7112**: I've heard the archduke issues them now and then, but the chances of getting one that way are slim.
+- **7113**: You can board with $6 from the Chamber of Commerce and Industry in Lower Jeuno, but they're prohibitively expensive.
+- **7114**: I've heard the archduke issues them now and then, but the chances of getting one that way are slim.
 
 ## Events
 
@@ -201,10 +201,10 @@
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
   4: 0x0017 [0x03] Work_Zone[9] = 8*
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7111*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7113*)
     → "You can board with $6 from the Chamber of Commerce and Industry in Lower Jeuno, but they're prohibitively expensive."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7112*)
+  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
     → "I've heard the archduke issues them now and then, but the chances of getting one that way are slim."
   8: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0024 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*

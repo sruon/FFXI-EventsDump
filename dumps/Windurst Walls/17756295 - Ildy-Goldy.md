@@ -94,43 +94,43 @@
 |      17 | 0xFFFE52B0  |  4294857392 |
 |      18 | 0x1F266     |      127590 |
 |      19 | 0xFFFFEE6D  |  4294962797 |
-|      20 | 0x22C9      |        8905 |
-|      21 | 0x22CD      |        8909 |
+|      20 | 0x22CB      |        8907 |
+|      21 | 0x22CF      |        8911 |
 |      22 | 0x0006      |           6 |
-|      23 | 0x22CF      |        8911 |
-|      24 | 0x22D1      |        8913 |
-|      25 | 0x22D5      |        8917 |
-|      26 | 0x22D6      |        8918 |
-|      27 | 0x22D8      |        8920 |
-|      28 | 0x22DD      |        8925 |
+|      23 | 0x22D1      |        8913 |
+|      24 | 0x22D3      |        8915 |
+|      25 | 0x22D7      |        8919 |
+|      26 | 0x22D8      |        8920 |
+|      27 | 0x22DA      |        8922 |
+|      28 | 0x22DF      |        8927 |
 |      29 | 0x073F      |        1855 |
 |      30 | 0xFFFE5203  |  4294857219 |
 |      31 | 0x1F242     |      127554 |
-|      32 | 0x22EE      |        8942 |
-|      33 | 0x22EF      |        8943 |
-|      34 | 0x22F4      |        8948 |
-|      35 | 0x2312      |        8978 |
-|      36 | 0x2318      |        8984 |
-|      37 | 0x231C      |        8988 |
-|      38 | 0x231F      |        8991 |
+|      32 | 0x22F0      |        8944 |
+|      33 | 0x22F1      |        8945 |
+|      34 | 0x22F6      |        8950 |
+|      35 | 0x2314      |        8980 |
+|      36 | 0x231A      |        8986 |
+|      37 | 0x231E      |        8990 |
+|      38 | 0x2321      |        8993 |
 
 ## String References
 
-- **8905**: That svine is up to no good. He's using a magic doll to manipulate-vate a constant stream of adventurers into entering the crystals.
-- **8909**: Avatars are generally in a deep-veep slumber, but if they are approached with the tuning forks created by the Rhinostery, they come raging forth, looking to do battle-vattle.
-- **8911**: I don't really know. Something is supposed to happen, but I never felt anything...
-- **8913**: Yes. But I have no idea vhy. I vould like to ask him about that, but he alvays runs from me.
-- **8917**: Vhat a blast from the past. That nagging-vagging old Fuepepe continued on to the Aurastery, didn't she?
-- **8918**: And let's see... Furakku-Norakku is probably half-asleep at his desk in the Optistery.
-- **8920**: Ah, he's Minister Shantotto's... Vait, it's Professor Shantotto now, isn't it? Anyvay, Sunny-Pabonny was a hugey-vuge fan of hers, as I recall.
-- **8925**: Coming, Principal!
-- **8942**: If you defeat the avatars that reside vithin the protocrystals, then you are granted a portion-vortion of that avatar's power.
-- **8943**: It appears that Uran-Mafran offers a reward to adventurers who have besty-vested the avatars, and then steals the power that they have gained.
-- **8948**: ...Principal Koru-Moru, ve need to talk to Uran-Mafran directly. I vill see if I can track him down.
-- **8978**: Bring somevone back to life!?
-- **8984**: But if all that is true... Who on Vana'diel is Uran-Mafran trying to resurrect...?
-- **8988**: Great mages of the past... You mean...
-- **8991**: Of course, Principal.
+- **8907**: That svine is up to no good. He's using a magic doll to manipulate-vate a constant stream of adventurers into entering the crystals.
+- **8911**: Avatars are generally in a deep-veep slumber, but if they are approached with the tuning forks created by the Rhinostery, they come raging forth, looking to do battle-vattle.
+- **8913**: I don't really know. Something is supposed to happen, but I never felt anything...
+- **8915**: Yes. But I have no idea vhy. I vould like to ask him about that, but he alvays runs from me.
+- **8919**: Vhat a blast from the past. That nagging-vagging old Fuepepe continued on to the Aurastery, didn't she?
+- **8920**: And let's see... Furakku-Norakku is probably half-asleep at his desk in the Optistery.
+- **8922**: Ah, he's Minister Shantotto's... Vait, it's Professor Shantotto now, isn't it? Anyvay, Sunny-Pabonny was a hugey-vuge fan of hers, as I recall.
+- **8927**: Coming, Principal!
+- **8944**: If you defeat the avatars that reside vithin the protocrystals, then you are granted a portion-vortion of that avatar's power.
+- **8945**: It appears that Uran-Mafran offers a reward to adventurers who have besty-vested the avatars, and then steals the power that they have gained.
+- **8950**: ...Principal Koru-Moru, ve need to talk to Uran-Mafran directly. I vill see if I can track him down.
+- **8980**: Bring somevone back to life!?
+- **8986**: But if all that is true... Who on Vana'diel is Uran-Mafran trying to resurrect...?
+- **8990**: Great mages of the past... You mean...
+- **8993**: Of course, Principal.
 
 ## Events
 
@@ -1056,7 +1056,7 @@
 #### Opcodes
 
 ```
-  0: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=8905*)
+  0: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=8907*)
     → "That svine is up to no good. He's using a magic doll to manipulate-vate a constant stream of adventurers into entering the crystals."
   1: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0234 [0x00] END_REQSTACK()
@@ -1081,7 +1081,7 @@
 #### Opcodes
 
 ```
-  0: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=8909*)
+  0: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=8911*)
     → "Avatars are generally in a deep-veep slumber, but if they are approached with the tuning forks created by the Rhinostery, they come raging forth, looking to do battle-vattle."
   1: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0239 [0x00] END_REQSTACK()
@@ -1109,7 +1109,7 @@
 ```
   0: 0x023A [0x6E] EventEntity uses emote 6*
   1: 0x0241 [0x99] Wait for EventEntity animation to complete
-  2: 0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=8911*)
+  2: 0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
     → "I don't really know. Something is supposed to happen, but I never felt anything..."
   3: 0x0249 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x024A [0x00] END_REQSTACK()
@@ -1134,7 +1134,7 @@
 #### Opcodes
 
 ```
-  0: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
+  0: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
     → "Yes. But I have no idea vhy. I vould like to ask him about that, but he alvays runs from me."
   1: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x024F [0x00] END_REQSTACK()
@@ -1159,10 +1159,10 @@
 #### Opcodes
 
 ```
-  0: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8917*)
+  0: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8919*)
     → "Vhat a blast from the past. That nagging-vagging old Fuepepe continued on to the Aurastery, didn't she?"
   1: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8918*)
+  2: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8920*)
     → "And let's see... Furakku-Norakku is probably half-asleep at his desk in the Optistery."
   3: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0258 [0x00] END_REQSTACK()
@@ -1187,7 +1187,7 @@
 #### Opcodes
 
 ```
-  0: 0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=8920*)
+  0: 0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=8922*)
     → "Ah, he's Minister Shantotto's... Vait, it's Professor Shantotto now, isn't it? Anyvay, Sunny-Pabonny was a hugey-vuge fan of hers, as I recall."
   1: 0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x025D [0x00] END_REQSTACK()
@@ -1215,7 +1215,7 @@
 ```
   0: 0x025E [0x6E] EventEntity uses emote 7*
   1: 0x0265 [0x99] Wait for EventEntity animation to complete
-  2: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=8925*)
+  2: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
     → "Coming, Principal!"
   3: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x026E [0x00] END_REQSTACK()
@@ -1337,10 +1337,10 @@
 #### Opcodes
 
 ```
-  0: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
+  0: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=8944*)
     → "If you defeat the avatars that reside vithin the protocrystals, then you are granted a portion-vortion of that avatar's power."
   1: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
+  2: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=8945*)
     → "It appears that Uran-Mafran offers a reward to adventurers who have besty-vested the avatars, and then steals the power that they have gained."
   3: 0x029D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x029E [0x00] END_REQSTACK()
@@ -1366,7 +1366,7 @@
 #### Opcodes
 
 ```
-  0: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=8948*)
+  0: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
     → "...Principal Koru-Moru, ve need to talk to Uran-Mafran directly. I vill see if I can track him down."
   1: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02A3 [0x00] END_REQSTACK()
@@ -1442,7 +1442,7 @@
 #### Opcodes
 
 ```
-  0: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8978*)
+  0: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8980*)
     → "Bring somevone back to life!?"
   1: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02BE [0x00] END_REQSTACK()
@@ -1470,7 +1470,7 @@
 ```
   0: 0x02BF [0x6E] EventEntity uses emote 6*
   1: 0x02C6 [0x99] Wait for EventEntity animation to complete
-  2: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8984*)
+  2: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8986*)
     → "But if all that is true... Who on Vana'diel is Uran-Mafran trying to resurrect...?"
   3: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02CF [0x00] END_REQSTACK()
@@ -1495,7 +1495,7 @@
 #### Opcodes
 
 ```
-  0: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8988*)
+  0: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8990*)
     → "Great mages of the past... You mean..."
   1: 0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02D4 [0x00] END_REQSTACK()
@@ -1523,7 +1523,7 @@
 ```
   0: 0x02D5 [0x6E] EventEntity uses emote 7*
   1: 0x02DC [0x99] Wait for EventEntity animation to complete
-  2: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8991*)
+  2: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8993*)
     → "Of course, Principal."
   3: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02E5 [0x00] END_REQSTACK()

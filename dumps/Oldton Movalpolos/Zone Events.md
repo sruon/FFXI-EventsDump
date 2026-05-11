@@ -139,110 +139,110 @@
 |      77 | 0xFFFC0476  |  4294706294 |
 |      78 | 0x1FB6      |        8118 |
 |      79 | 0x00C9      |         201 |
-|      80 | 0x1F65      |        8037 |
+|      80 | 0x1F67      |        8039 |
 |      81 | 0x001E      |          30 |
-|      82 | 0x1F66      |        8038 |
+|      82 | 0x1F68      |        8040 |
 |      83 | 0x005A      |          90 |
 |      84 | 0x00A3      |         163 |
-|      85 | 0x1F67      |        8039 |
-|      86 | 0x1F68      |        8040 |
+|      85 | 0x1F69      |        8041 |
+|      86 | 0x1F6A      |        8042 |
 |      87 | 0x00E3      |         227 |
-|      88 | 0x1F69      |        8041 |
-|      89 | 0x1F6A      |        8042 |
-|      90 | 0x1F6B      |        8043 |
-|      91 | 0x1F6C      |        8044 |
-|      92 | 0x1F6D      |        8045 |
-|      93 | 0x1F6E      |        8046 |
-|      94 | 0x1F6F      |        8047 |
-|      95 | 0x1F70      |        8048 |
+|      88 | 0x1F6B      |        8043 |
+|      89 | 0x1F6C      |        8044 |
+|      90 | 0x1F6D      |        8045 |
+|      91 | 0x1F6E      |        8046 |
+|      92 | 0x1F6F      |        8047 |
+|      93 | 0x1F70      |        8048 |
+|      94 | 0x1F71      |        8049 |
+|      95 | 0x1F72      |        8050 |
 |      96 | 0x0001      |           1 |
-|      97 | 0x1F71      |        8049 |
-|      98 | 0x1F72      |        8050 |
+|      97 | 0x1F73      |        8051 |
+|      98 | 0x1F74      |        8052 |
 |      99 | 0x0064      |         100 |
-|     100 | 0x1F73      |        8051 |
-|     101 | 0x1F74      |        8052 |
+|     100 | 0x1F75      |        8053 |
+|     101 | 0x1F76      |        8054 |
 |     102 | 0x0655      |        1621 |
-|     103 | 0x1F75      |        8053 |
-|     104 | 0x1F76      |        8054 |
+|     103 | 0x1F77      |        8055 |
+|     104 | 0x1F78      |        8056 |
 |     105 | 0x0800      |        2048 |
-|     106 | 0x1F77      |        8055 |
-|     107 | 0x1F78      |        8056 |
-|     108 | 0x1F79      |        8057 |
-|     109 | 0x1F7A      |        8058 |
-|     110 | 0x1F7B      |        8059 |
-|     111 | 0x1F7C      |        8060 |
+|     106 | 0x1F79      |        8057 |
+|     107 | 0x1F7A      |        8058 |
+|     108 | 0x1F7B      |        8059 |
+|     109 | 0x1F7C      |        8060 |
+|     110 | 0x1F7D      |        8061 |
+|     111 | 0x1F7E      |        8062 |
 |     112 | 0x002D      |          45 |
 |     113 | 0x0078      |         120 |
 |     114 | 0x00DD      |         221 |
 |     115 | 0x0073      |         115 |
 |     116 | 0x00DA      |         218 |
 |     117 | 0x0258      |         600 |
-|     118 | 0x1F7D      |        8061 |
-|     119 | 0x1F7E      |        8062 |
-|     120 | 0x1F7F      |        8063 |
-|     121 | 0x1F80      |        8064 |
-|     122 | 0x1F81      |        8065 |
-|     123 | 0x1F82      |        8066 |
+|     118 | 0x1F7F      |        8063 |
+|     119 | 0x1F80      |        8064 |
+|     120 | 0x1F81      |        8065 |
+|     121 | 0x1F82      |        8066 |
+|     122 | 0x1F83      |        8067 |
+|     123 | 0x1F84      |        8068 |
 |     124 | 0xFFFDDB63  |  4294826851 |
 |     125 | 0x2612E     |      155950 |
 |     126 | 0x0ADE      |        2782 |
 |     127 | 0x0027      |          39 |
-|     128 | 0x1F85      |        8069 |
+|     128 | 0x1F87      |        8071 |
 |     129 | 0x000F      |          15 |
-|     130 | 0x1F86      |        8070 |
+|     130 | 0x1F88      |        8072 |
 |     131 | 0xFFFDD9A7  |  4294826407 |
 |     132 | 0x25F1F     |      155423 |
 |     133 | 0x047A      |        1146 |
 |     134 | 0x00B4      |         180 |
-|     135 | 0x1F87      |        8071 |
-|     136 | 0x1F88      |        8072 |
+|     135 | 0x1F89      |        8073 |
+|     136 | 0x1F8A      |        8074 |
 |     137 | 0x00D7      |         215 |
-|     138 | 0x1F89      |        8073 |
-|     139 | 0x1F8A      |        8074 |
-|     140 | 0x1F8B      |        8075 |
-|     141 | 0x1F8C      |        8076 |
-|     142 | 0x1F8D      |        8077 |
-|     143 | 0x1F8E      |        8078 |
-|     144 | 0x1F8F      |        8079 |
-|     145 | 0x1F90      |        8080 |
-|     146 | 0x1F91      |        8081 |
-|     147 | 0x1F92      |        8082 |
-|     148 | 0x1F93      |        8083 |
-|     149 | 0x1F94      |        8084 |
+|     138 | 0x1F8B      |        8075 |
+|     139 | 0x1F8C      |        8076 |
+|     140 | 0x1F8D      |        8077 |
+|     141 | 0x1F8E      |        8078 |
+|     142 | 0x1F8F      |        8079 |
+|     143 | 0x1F90      |        8080 |
+|     144 | 0x1F91      |        8081 |
+|     145 | 0x1F92      |        8082 |
+|     146 | 0x1F93      |        8083 |
+|     147 | 0x1F94      |        8084 |
+|     148 | 0x1F95      |        8085 |
+|     149 | 0x1F96      |        8086 |
 |     150 | 0x0014      |          20 |
 |     151 | 0x0D8C      |        3468 |
-|     152 | 0x1F95      |        8085 |
-|     153 | 0x1F96      |        8086 |
-|     154 | 0x1F97      |        8087 |
-|     155 | 0x1F98      |        8088 |
-|     156 | 0x1F99      |        8089 |
+|     152 | 0x1F97      |        8087 |
+|     153 | 0x1F98      |        8088 |
+|     154 | 0x1F99      |        8089 |
+|     155 | 0x1F9A      |        8090 |
+|     156 | 0x1F9B      |        8091 |
 |     157 | 0x00D8      |         216 |
-|     158 | 0x1F9A      |        8090 |
-|     159 | 0x1F9B      |        8091 |
-|     160 | 0x1F9C      |        8092 |
-|     161 | 0x1F9D      |        8093 |
-|     162 | 0x1F9E      |        8094 |
-|     163 | 0x1F9F      |        8095 |
+|     158 | 0x1F9C      |        8092 |
+|     159 | 0x1F9D      |        8093 |
+|     160 | 0x1F9E      |        8094 |
+|     161 | 0x1F9F      |        8095 |
+|     162 | 0x1FA0      |        8096 |
+|     163 | 0x1FA1      |        8097 |
 |     164 | 0x01F5      |         501 |
 |     165 | 0x0096      |         150 |
-|     166 | 0x1FA0      |        8096 |
-|     167 | 0x1FA1      |        8097 |
-|     168 | 0x1FA2      |        8098 |
-|     169 | 0x1FA3      |        8099 |
-|     170 | 0x1FA4      |        8100 |
-|     171 | 0x1FA5      |        8101 |
-|     172 | 0x1FA6      |        8102 |
-|     173 | 0x1FA8      |        8104 |
-|     174 | 0x1FA9      |        8105 |
-|     175 | 0x1FAA      |        8106 |
-|     176 | 0x1FAB      |        8107 |
-|     177 | 0x1FAC      |        8108 |
-|     178 | 0x1FAD      |        8109 |
-|     179 | 0x1FAE      |        8110 |
-|     180 | 0x1FAF      |        8111 |
+|     166 | 0x1FA2      |        8098 |
+|     167 | 0x1FA3      |        8099 |
+|     168 | 0x1FA4      |        8100 |
+|     169 | 0x1FA5      |        8101 |
+|     170 | 0x1FA6      |        8102 |
+|     171 | 0x1FA8      |        8104 |
+|     172 | 0x1FA9      |        8105 |
+|     173 | 0x1FAA      |        8106 |
+|     174 | 0x1FAB      |        8107 |
+|     175 | 0x1FAC      |        8108 |
+|     176 | 0x1FAD      |        8109 |
+|     177 | 0x1FAE      |        8110 |
+|     178 | 0x1FAF      |        8111 |
+|     179 | 0x1FB0      |        8112 |
+|     180 | 0x1FB1      |        8113 |
 |     181 | 0x073A      |        1850 |
-|     182 | 0x1FB0      |        8112 |
-|     183 | 0x1FB1      |        8113 |
+|     182 | 0x1FB2      |        8114 |
+|     183 | 0x1FB3      |        8115 |
 |     184 | 0x26C5E     |      158814 |
 |     185 | 0xFFFF1B42  |  4294908738 |
 |     186 | 0x062B      |        1579 |
@@ -263,8 +263,8 @@
 
 ## String References
 
-- **8048**: Your grade in Movalpolos geography: [A+./F-.]
-- **8054**: What do you say? Will you help? [Of course!/On second thought...]
+- **8050**: Your grade in Movalpolos geography: [A+./F-.]
+- **8056**: What do you say? Will you help? [Of course!/On second thought...]
 
 ## Events
 
@@ -989,12 +989,12 @@
  17: 0x01AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  18: 0x01BF [0x6B] STOP_AND_IDLE: Gu'Zho Thunderblade (ID: 16822546/0x0100B112) stops current action and resets to idle (animation="btl0")
  19: 0x01C8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s084" with entities [LocalPlayer, LocalPlayer], work=162*
- 20: 0x01D7 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8037*]:
+ 20: 0x01D7 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8039*]:
     → "Rwarrr! Sho-ow yourself! I know you're the-ere. Dra-aw your weapon and face your fate like a true wa-arrior!"
  21: 0x01DE [0x1C] WAIT(30* ticks)
  22: 0x01E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  23: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x01F3 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8038*]:
+ 24: 0x01F3 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8040*]:
     → "Insigni-aficant flea, prepare to hear the ro-oar of Gu'Zho Thunderblade!!!"
  25: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x01FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1002,56 +1002,56 @@
  28: 0x021D [0x1C] WAIT(90* ticks)
  29: 0x0220 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 163*
  30: 0x0224 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 163*
- 31: 0x0228 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8039*]:
+ 31: 0x0228 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8041*]:
     → "Wait! Don't run away. I was only pla-aying with you."
  32: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0230 [0x6B] STOP_AND_IDLE: Gu'Zho Thunderblade (ID: 16822546/0x0100B112) stops current action and resets to idle (animation="idl0")
- 34: 0x0239 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8040*]:
+ 34: 0x0239 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8042*]:
     → "I couldn't fi-ight you on any empty stomach like thi-is anyway. Grahahaw!"
  35: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0241 [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [LocalPlayer, LocalPlayer], work=162*
  37: 0x0250 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  38: 0x0261 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 39: 0x0270 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8041*]:
+ 39: 0x0270 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8043*]:
     → "Let me intro-oduce myself. My name is Gu'Zho--officer in the 7th Waughroon Armored Divi-ision of the Quadav Shieldwa-arriors, or should I say fo-ormer officer... I'm what you'd call a de-eserter."
  40: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0278 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 42: 0x0287 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8042*]:
+ 42: 0x0287 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8044*]:
     → "I'm not proud of it, but I did wha-at I had to do. Day after da-ay, I watched as hundreds of my troops would be slaughte-ered by the waves of adventurers pouring through the mi-ine shafts in search of their pre-ecious mythril. Why didn't the Adamantking try to ma-ake peace with the chi-ildren of Altana? What twisted se-ense of pride made him so stubborn?"
  43: 0x028E [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x028F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  45: 0x02A0 [0x52] END_LOAD_SCHEDULER: End scheduler "s086" with entities [LocalPlayer, LocalPlayer], work=162*
  46: 0x02AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
- 47: 0x02C0 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8043*]:
+ 47: 0x02C0 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8045*]:
     → "I was ti-ired of being a pawn for a leader whose ideals confli-icted with mine. So, I ga-athered up a handful of my best troops and le-eft the Shieldwarriors behind me. Howe-ever, it was not long before the guilt and pressure of being wanted me-en bore down on the already weakened souls of my comra-ades."
  48: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x02C8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 50: 0x02D7 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8044*]:
+ 50: 0x02D7 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8046*]:
     → "And one by one they le-eft my side and returned to the mi-ines, until I was left here alone. But what can a Quadav who has known no-othing but the battlefield do when there is no battle for him le-eft to fight?"
  51: 0x02DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x02DF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 53: 0x02EE [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8045*]:
+ 53: 0x02EE [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8047*]:
     → "That's why I ca-ame here to Modalpolas. I heard that the Moblies are always lo-ooking for new mercenaries to fill out their ra-anks."
  54: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x02F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  56: 0x0307 [0x52] END_LOAD_SCHEDULER: End scheduler "s087" with entities [LocalPlayer, LocalPlayer], work=162*
  57: 0x0316 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  58: 0x0327 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 59: 0x0336 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8046*]:
+ 59: 0x0336 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8048*]:
     → "I paid a Gobly scribe a sackful of mythri-il ore to write me a recommenda-ation. Now all I have to do is take it to the applica-ation box located somewhere in this mess of scaffolding and ro-ock."
  60: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x033E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 62: 0x034D [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8047*]:
+ 62: 0x034D [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8049*]:
     → "You wouldn't happen to know your way around this pla-ace, would you?"
  63: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x0355 [0x24] CREATE_DIALOG(message_id=8048*, default_option=0*, option_flags=0*)
+ 64: 0x0355 [0x24] CREATE_DIALOG(message_id=8050*, default_option=0*, option_flags=0*)
     → "Your grade in Movalpolos geography: [A+./F-.]"
  65: 0x035C [0x25] WAIT_DIALOG_SELECT()
  66: 0x035D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03A3
  67: 0x0365 [0x52] END_LOAD_SCHEDULER: End scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=162*
  68: 0x0374 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  69: 0x0385 [0x27] REQ_SET(priority=0x0A, entity_id=Gu'Zho Thunderblade (ID: 16822546/0x0100B112), tag_num=0x02)
- 70: 0x038C [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8049*]:
+ 70: 0x038C [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8051*]:
     → "Don't worry about it. I'm not tha-at good with directions either... I'll just wait he-ere a little longer until someone with a ma-ap comes along."
  71: 0x0393 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0394 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Gu'Zho Thunderblade (ID: 16822546/0x0100B112))
@@ -1062,32 +1062,32 @@ SUBROUTINE_03A3:
  75: 0x03A3 [0x52] END_LOAD_SCHEDULER: End scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=162*
  76: 0x03B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  77: 0x03C3 [0x27] REQ_SET(priority=0x0A, entity_id=Gu'Zho Thunderblade (ID: 16822546/0x0100B112), tag_num=0x02)
- 78: 0x03CA [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8050*]:
+ 78: 0x03CA [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8052*]:
     → "You don't say! Well, then I have a pro-oposition for you."
  79: 0x03D1 [0x1C] WAIT(100* ticks)
  80: 0x03D4 [0x1E] EventEntity looks at Gu'Zho Thunderblade (ID: 16822546/0x0100B112) and starts talking
  81: 0x03D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x03DA [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8051*]:
+ 82: 0x03DA [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8053*]:
     → "You see, as you already may kno-ow, we Quadav don't have that good eyesi-ight; we mainly rely on our hearing and a set of se-ensory organs that pre-event us from getting lost."
  83: 0x03E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x03E2 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Gu'Zho Thunderblade (ID: 16822546/0x0100B112))
  85: 0x03E8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 86: 0x03F7 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8052*]:
+ 86: 0x03F7 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8054*]:
     → "However, the magne-etic field created by all this crazy Mobly equipme-ent has been sending my sense of direction haywire. I've tried naviga-ating the tunnels here, but I always end up ba-ack in the same spot..."
  87: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x03FF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
  89: 0x040E [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=162*
  90: 0x041D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  91: 0x042E [0x4B] UPDATE_ENTITY_YAW(entity=Gu'Zho Thunderblade (ID: 16822546/0x0100B112), yaw=8.9°*)
- 92: 0x0435 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8053*]:
+ 92: 0x0435 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8055*]:
     → "And that's why I need your he-elp. If you can really traverse the Mobly tu-unnels as well as you say you can, you should have no trouble in deli-ivering my recommendation to the application bo-ox."
  93: 0x043C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x043D [0x24] CREATE_DIALOG(message_id=8054*, default_option=0*, option_flags=0*)
+ 94: 0x043D [0x24] CREATE_DIALOG(message_id=8056*, default_option=0*, option_flags=0*)
     → "What do you say? Will you help? [Of course!/On second thought...]"
  95: 0x0444 [0x25] WAIT_DIALOG_SELECT()
  96: 0x0445 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0465
  97: 0x044D [0x4B] UPDATE_ENTITY_YAW(entity=Gu'Zho Thunderblade (ID: 16822546/0x0100B112), yaw=11.2°*)
- 98: 0x0454 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8055*]:
+ 98: 0x0454 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8057*]:
     → "Hm... Maybe I should have me-entioned I was willing to pay in gold be-efore I asked..."
  99: 0x045B [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x045C [0x05] Work_Zone[1] = 1
@@ -1097,25 +1097,25 @@ SUBROUTINE_0465:
 102: 0x0465 [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=162*
 103: 0x0474 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
 104: 0x0485 [0x4A] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) looks at LocalPlayer
-105: 0x048E [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8056*]:
+105: 0x048E [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8058*]:
     → "You will!? I don't know how to tha-ank you! How about gold? I heard it is quite va-aluable in your world as well."
 106: 0x0495 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0496 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
-108: 0x04A5 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8057*]:
+108: 0x04A5 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8059*]:
     → "Wait... We're not he-eading into Mobalpolus to pick any fi-ights with the Moblies."
 109: 0x04AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x04AD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
-111: 0x04BC [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8058*]:
+111: 0x04BC [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8060*]:
     → "If you wa-alked in looking like that, there might be more unwanted bloodshe-ed...and that's the last thing I need any mo-ore of on my conscience."
 112: 0x04C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x04C4 [0x52] END_LOAD_SCHEDULER: End scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=162*
 114: 0x04D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
 115: 0x04E4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
-116: 0x04F3 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8059*]:
+116: 0x04F3 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8061*]:
     → "What you need is a di-isguise... What if you were to make one of those stra-ange masks that those Moblies are always we-earing? There must be a few softbacks in one of your towns that spe-ecializes in leathercraft..."
 117: 0x04FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x04FB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
-119: 0x050A [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8060*]:
+119: 0x050A [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8062*]:
     → "I don't know if I can tru-ust your type, but then I don't know if I can tru-ust anybody right now. I'll be waiting here for you, adve-enturer..."
 120: 0x0511 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1213,33 +1213,33 @@ SUBROUTINE_0512:
  15: 0x0620 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  16: 0x0631 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  17: 0x0642 [0x6B] STOP_AND_IDLE: Gu'Zho Thunderblade (ID: 16822546/0x0100B112) stops current action and resets to idle (animation="btl0")
- 18: 0x064B [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8061*]:
+ 18: 0x064B [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8063*]:
     → "Rwarrr! Sho-ow yourself! I know you're the-ere. Dra-aw your weapon and face your fate like a true wa-arrior!"
  19: 0x0652 [0x1C] WAIT(30* ticks)
  20: 0x0655 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  21: 0x0666 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0667 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 163*
  23: 0x066B [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 163*
- 24: 0x066F [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8062*]:
+ 24: 0x066F [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8064*]:
     → "........."
  25: 0x0676 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0677 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  27: 0x0688 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s085" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  28: 0x0699 [0x6B] STOP_AND_IDLE: Gu'Zho Thunderblade (ID: 16822546/0x0100B112) stops current action and resets to idle (animation="idl0")
- 29: 0x06A2 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8063*]:
+ 29: 0x06A2 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8065*]:
     → "Grawhawhawh! I tho-ought for a minute there that you were one of those pe-esky Gobly scouts!"
  30: 0x06A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x06AA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 32: 0x06B9 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8064*]:
+ 32: 0x06B9 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8066*]:
     → "That's one heck of a di-isguise you managed to put together! I can't see you that well, but from what I can make out, you shouldn't have any trouble ma-aking your way into the mi-ines!"
  33: 0x06C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x06C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 35: 0x06D0 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8065*]:
+ 35: 0x06D0 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8067*]:
     → "Here, take my recommenda-ation and take it to the applica-ation box. Where is it? How should I know? I barely even know whe-ere here is!"
  36: 0x06D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x06D8 [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [LocalPlayer, LocalPlayer], work=162*
  38: 0x06E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
- 39: 0x06F8 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8066*]:
+ 39: 0x06F8 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8068*]:
     → "After you place the le-etter in the box, it won't be long before one of their merce-enary serjeants will come out to collect it. When he does, lead him ba-ack here, and I'll give you your rewa-ard."
  40: 0x06FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0700 [0x27] REQ_SET(priority=0x0A, entity_id=Gu'Zho Thunderblade (ID: 16822546/0x0100B112), tag_num=0x03)
@@ -1303,7 +1303,7 @@ SUBROUTINE_0512:
   9: 0x0799 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  10: 0x07AA [0x6E] LocalPlayer uses emote 39*
  11: 0x07B1 [0x99] Wait for LocalPlayer animation to complete
- 12: 0x07B6 [0x2B] ??? (ID: 16822547/0x0100B113) [8069*]:
+ 12: 0x07B6 [0x2B] ??? (ID: 16822547/0x0100B113) [8071*]:
     → "Hwait! Hwait hright there, peskyky adventurerer! Hyou have hquite the nerve to show your face aroundnd here!"
  13: 0x07BD [0x1C] WAIT(15* ticks)
  14: 0x07C0 [0x1E] EventEntity looks at Goblin Preceptor (ID: 16822548/0x0100B114) and starts talking
@@ -1312,7 +1312,7 @@ SUBROUTINE_0512:
  17: 0x07D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  18: 0x07E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x07F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 20: 0x0808 [0x2B] Goblin Preceptor (ID: 16822548/0x0100B114) [8070*]:
+ 20: 0x0808 [0x2B] Goblin Preceptor (ID: 16822548/0x0100B114) [8072*]:
     → "Or hmaybe hyou'd like to join our ranksks!? Hwell, hlet's see if hyou can pass our testst!"
  21: 0x080F [0x1C] WAIT(60* ticks)
  22: 0x0812 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1405,7 +1405,7 @@ SUBROUTINE_0512:
  15: 0x08E1 [0x1C] WAIT(180* ticks)
  16: 0x08E4 [0x27] REQ_SET(priority=0x0A, entity_id=Mighty Minded Generajiq (ID: 16822549/0x0100B115), tag_num=0x02)
  17: 0x08EB [0x1C] WAIT(60* ticks)
- 18: 0x08EE [0x2B] ??? (ID: 16822547/0x0100B113) [8071*]:
+ 18: 0x08EE [0x2B] ??? (ID: 16822547/0x0100B113) [8073*]:
     → "StUpid! Crazy Goblins so stUUUpid! I tolds them SO many times, always chEck enemy befores fighting!"
  19: 0x08F5 [0x1C] WAIT(15* ticks)
  20: 0x08F8 [0x79] LocalPlayer looks at Mighty Minded Generajiq (ID: 16822549/0x0100B115) (Basic look)
@@ -1415,23 +1415,23 @@ SUBROUTINE_0512:
  24: 0x091A [0x52] END_LOAD_SCHEDULER: End scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=162*
  25: 0x0929 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  26: 0x093A [0x4A] Mighty Minded Generajiq (ID: 16822549/0x0100B115) looks at LocalPlayer
- 27: 0x0943 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8072*]:
+ 27: 0x0943 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8074*]:
     → "Ngeh? Waits a mInutes... You are not GOblin. Pwah phah phwah! I sees. No wOnder precEptor cannot wins!"
  28: 0x094A [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x094B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mighty Minded Generajiq (ID: 16822549/0x0100B115), Mighty Minded Generajiq (ID: 16822549/0x0100B115)], work=215*
- 30: 0x095A [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8073*]:
+ 30: 0x095A [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8075*]:
     → "Wonderful! I could care less if you are tUrtles or bIrds or GAlkas. My armies need strOngest bodies available--and you one super-strOng body!"
  31: 0x0961 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0962 [0x6B] STOP_AND_IDLE: Mighty Minded Generajiq (ID: 16822549/0x0100B115) stops current action and resets to idle (animation="idl0")
- 33: 0x096B [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8074*]:
+ 33: 0x096B [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8076*]:
     → "Welcomes advEnturer! I am leader of MovalpOlos Moblin mercenAries, Mighty Minded GenErajiq!"
  34: 0x0972 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0973 [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=162*
  36: 0x0982 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
- 37: 0x0993 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8075*]:
+ 37: 0x0993 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8077*]:
     → "Why spEaks I your languages so good? Hah hah! Moblins more smArters than you thINks! I spents years in rOOf of San d'Oria Cathedral listening to fUnny old Elvaan preaching mumbo-jUmbo abouts AltAna lady."
  38: 0x099A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x099B [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8076*]:
+ 39: 0x099B [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8078*]:
     → "Some Moblins shUns upworld and upworlders' life, but nots mE! "Knowsest thous EnEmicles," I thinks yous says."
  40: 0x09A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x09A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1440,37 +1440,37 @@ SUBROUTINE_0512:
  44: 0x09D4 [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [LocalPlayer, LocalPlayer], work=162*
  45: 0x09E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  46: 0x09F4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mighty Minded Generajiq (ID: 16822549/0x0100B115), Mighty Minded Generajiq (ID: 16822549/0x0100B115)], work=215*
- 47: 0x0A03 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8077*]:
+ 47: 0x0A03 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8079*]:
     → "........."
  48: 0x0A0A [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0A0B [0x6B] STOP_AND_IDLE: Mighty Minded Generajiq (ID: 16822549/0x0100B115) stops current action and resets to idle (animation="idl0")
- 50: 0x0A14 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8078*]:
+ 50: 0x0A14 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8080*]:
     → "Hmweh? You're not here to joins Moblin mercenAries? Then why put you applicAtion in bOx?"
  51: 0x0A1B [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0A1C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  53: 0x0A2D [0x52] END_LOAD_SCHEDULER: End scheduler "s071" with entities [LocalPlayer, LocalPlayer], work=162*
  54: 0x0A3C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  55: 0x0A4D [0x27] REQ_SET(priority=0x0A, entity_id=Mighty Minded Generajiq (ID: 16822549/0x0100B115), tag_num=0x03)
- 56: 0x0A54 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8079*]:
+ 56: 0x0A54 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8081*]:
     → "........."
  57: 0x0A5B [0x1C] WAIT(60* ticks)
  58: 0x0A5E [0x1E] EventEntity looks at Mighty Minded Generajiq (ID: 16822549/0x0100B115) and starts talking
  59: 0x0A63 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x0A64 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8080*]:
+ 60: 0x0A64 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8082*]:
     → "Sweesh! Nice [guy/gal] you are. Not quIte ruthless mercenAry types, though. You tells this Gu'Zho he's welcOme in my armies...but only if he can mAkes it to office!"
  61: 0x0A6B [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0A6C [0x4A] Mighty Minded Generajiq (ID: 16822549/0x0100B115) looks at LocalPlayer
- 63: 0x0A75 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8081*]:
+ 63: 0x0A75 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8083*]:
     → "And whAts abouts you? Are you sUres you don't want to give second thoughts to glAmorous mercenary lIfe?"
  64: 0x0A7C [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0A7D [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [LocalPlayer, LocalPlayer], work=162*
  66: 0x0A8C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  67: 0x0A9D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mighty Minded Generajiq (ID: 16822549/0x0100B115), Mighty Minded Generajiq (ID: 16822549/0x0100B115)], work=215*
- 68: 0x0AAC [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8082*]:
+ 68: 0x0AAC [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8084*]:
     → "...Pfuff... I sees... Well, at lEast lets me apOlogize for stUUUpid Goblin's stUUUpiditinesses."
  69: 0x0AB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0AB4 [0x6B] STOP_AND_IDLE: Mighty Minded Generajiq (ID: 16822549/0x0100B115) stops current action and resets to idle (animation="idl0")
- 71: 0x0ABD [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8083*]:
+ 71: 0x0ABD [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8085*]:
     → "I knows! Take that crAzy Goblin hat and puts it on iron box. I use Moblin sUper technology to changes it into crAzy Goblin sUper hat!"
  72: 0x0AC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0AC5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1547,11 +1547,11 @@ SUBROUTINE_0512:
 0E10: FF 7F 73 30 38 30 45 4B  80 F0 FF FF 7F F0 FF FF  ..s080EK........
 0E20: 7F 73 30 38 31 43 80 4A  15 B1 00 01 F0 FF FF 7F  .s081C.J........
 0E30: 2B 15 B1 00 01 AA 80 23  5B 89 80 15 B1 00 01 15  +......#[.......
-0E40: B1 00 01 74 6C 6B 30 2B  15 B1 00 01 AB 80 23 6B  ...tlk0+......#k
-0E50: 69 64 6C 30 15 B1 00 01  2B 15 B1 00 01 AC 80 23  idl0....+......#
+0E40: B1 00 01 74 6C 6B 30 2B  15 B1 00 01 49 80 23 6B  ...tlk0+....I.#k
+0E50: 69 64 6C 30 15 B1 00 01  2B 15 B1 00 01 AB 80 23  idl0....+......#
 0E60: 52 4B 80 F0 FF FF 7F F0  FF FF 7F 73 30 38 31 45  RK.........s081E
 0E70: 4B 80 F0 FF FF 7F F0 FF  FF 7F 73 30 38 32 43 80  K.........s082C.
-0E80: 2B 15 B1 00 01 49 80 23  27 0A 15 B1 00 01 05 1C  +....I.#'.......
+0E80: 2B 15 B1 00 01 AC 80 23  27 0A 15 B1 00 01 05 1C  +......#'.......
 0E90: 44 80 45 45 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  D.EE.........fdo
 0EA0: 32 43 80 55 45 80 F0 FF  FF 7F F0 FF FF 7F 66 64  2C.UE.........fd
 0EB0: 6F 32 46 00 45 4F 80 F0  FF FF 7F F0 FF FF 7F 71  o2F.EO.........q
@@ -1574,38 +1574,38 @@ SUBROUTINE_0512:
   9: 0x0B55 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  10: 0x0B66 [0x6E] LocalPlayer uses emote 39*
  11: 0x0B6D [0x99] Wait for LocalPlayer animation to complete
- 12: 0x0B72 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8084*]:
+ 12: 0x0B72 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8086*]:
     → "A sOldier whos follows orders! Are you sUre you don't want to joins us and have glamOrous mercenAry life?"
  13: 0x0B79 [0x1C] WAIT(20* ticks)
  14: 0x0B7C [0x1E] EventEntity looks at Mighty Minded Generajiq (ID: 16822549/0x0100B115) and starts talking
  15: 0x0B81 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0B82 [0x4B] UPDATE_ENTITY_YAW(entity=Mighty Minded Generajiq (ID: 16822549/0x0100B115), yaw=19.1°*)
- 17: 0x0B89 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8085*]:
+ 17: 0x0B89 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8087*]:
     → "...... Psheesh. Doesn't hurt to Asking! Ahkhem! Promises is promises. DoctOr Chop! DoctOr Chop!"
  18: 0x0B90 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0B91 [0x52] END_LOAD_SCHEDULER: End scheduler "s074" with entities [LocalPlayer, LocalPlayer], work=162*
  20: 0x0BA0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s075" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  21: 0x0BB1 [0x27] REQ_SET(priority=0x0A, entity_id=Choplix Limblopper (ID: 16822550/0x0100B116), tag_num=0x02)
- 22: 0x0BB8 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8086*]:
+ 22: 0x0BB8 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8088*]:
     → "Wha? Whoo's caalin' me? Wher'r ya? Ya neeedsa amput...anmpyu...amputit...amptitationn? <Hic!>"
  23: 0x0BBF [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0BC0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mighty Minded Generajiq (ID: 16822549/0x0100B115), Mighty Minded Generajiq (ID: 16822549/0x0100B115)], work=215*
- 25: 0x0BCF [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8087*]:
+ 25: 0x0BCF [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8089*]:
     → "Fwhee-ew! DoctOr Chop! WhAt haves I told you abOut drInking Opo-opo brEws on job!?"
  26: 0x0BD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0BD7 [0x6B] STOP_AND_IDLE: Mighty Minded Generajiq (ID: 16822549/0x0100B115) stops current action and resets to idle (animation="idl0")
  28: 0x0BE0 [0x4A] Choplix Limblopper (ID: 16822550/0x0100B116) looks at Mighty Minded Generajiq (ID: 16822549/0x0100B115)
  29: 0x0BE9 [0x52] END_LOAD_SCHEDULER: End scheduler "s075" with entities [LocalPlayer, LocalPlayer], work=162*
  30: 0x0BF8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
- 31: 0x0C09 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8088*]:
+ 31: 0x0C09 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8090*]:
     → "Opo-opopopoos brew on the njob? Don't minnd if I doo! <Hic!>"
  32: 0x0C10 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0C11 [0x4A] Mighty Minded Generajiq (ID: 16822549/0x0100B115) looks at Choplix Limblopper (ID: 16822550/0x0100B116)
- 34: 0x0C1A [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8089*]:
+ 34: 0x0C1A [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8091*]:
     → "Doctor ChOp. I thinks it is time for me to deAl punishment for sneaksing into MOblin brewery and swimmsing in tank... Death!............Or temporary service to thIs advEnturer."
  35: 0x0C21 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0C22 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Choplix Limblopper (ID: 16822550/0x0100B116), Choplix Limblopper (ID: 16822550/0x0100B116)], work=216*
- 37: 0x0C31 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8090*]:
+ 37: 0x0C31 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8092*]:
     → "<Ulp!>...<Hic!> Allriigh, alllriigh! Ya don' haftaa go gett your reathers fluffl...freathers fruffal...featherrrs fluffeled! I'lll help ou this advennteurerueraroo."
  38: 0x0C38 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0C39 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang1" with entities [Choplix Limblopper (ID: 16822550/0x0100B116), Choplix Limblopper (ID: 16822550/0x0100B116)], work=216*
@@ -1614,7 +1614,7 @@ SUBROUTINE_0512:
  42: 0x0C68 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  43: 0x0C79 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ang1" with entities [Choplix Limblopper (ID: 16822550/0x0100B116), Choplix Limblopper (ID: 16822550/0x0100B116)]
  44: 0x0C86 [0x27] REQ_SET(priority=0x0A, entity_id=Choplix Limblopper (ID: 16822550/0x0100B116), tag_num=0x03)
- 45: 0x0C8D [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8091*]:
+ 45: 0x0C8D [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8093*]:
     → "Hey, [misser/laady]! You'rre lookin at the bes Goblin doctor this sida Gustabtysyuaygjh. <Hic!>"
  46: 0x0C94 [0x1C] WAIT(20* ticks)
  47: 0x0C97 [0x1E] EventEntity looks at Choplix Limblopper (ID: 16822550/0x0100B116) and starts talking
@@ -1624,22 +1624,22 @@ SUBROUTINE_0512:
  51: 0x0CAB [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0CAC [0x2A] GET_REQ_LEVEL(level=10, entity_id=Choplix Limblopper (ID: 16822550/0x0100B116))
  53: 0x0CB2 [0x4A] Choplix Limblopper (ID: 16822550/0x0100B116) looks at LocalPlayer
- 54: 0x0CBB [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8092*]:
+ 54: 0x0CBB [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8094*]:
     → "Ya need a goo' leechin, <hic!> ya jus usse tha crazy hatn' I'lll be righ there. N'if any of my Gobbie budddies seees me fratr...fratin...frertin...fratrinrizin with th nenenemy, I'll jus tell'm I 'ad one too many nightcapss fer breaksfastst!"
  55: 0x0CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0CC3 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Choplix Limblopper (ID: 16822550/0x0100B116))
  57: 0x0CC9 [0x4A] Choplix Limblopper (ID: 16822550/0x0100B116) looks at Mighty Minded Generajiq (ID: 16822549/0x0100B115)
- 58: 0x0CD2 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8093*]:
+ 58: 0x0CD2 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8095*]:
     → "Sounnnd goood, Mighty morphin Genererarrajudy? <Hic!>"
  59: 0x0CD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0CDA [0x4A] Mighty Minded Generajiq (ID: 16822549/0x0100B115) looks at Choplix Limblopper (ID: 16822550/0x0100B116)
  61: 0x0CE3 [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=162*
  62: 0x0CF2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
- 63: 0x0D03 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8094*]:
+ 63: 0x0D03 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8096*]:
     → "Hmphw! That's fine! Just mAkes sure you stays hiding when not nEEded. This is yOUr punishments, not advEnturer's!"
  64: 0x0D0A [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0D0B [0x4A] Choplix Limblopper (ID: 16822550/0x0100B116) looks at LocalPlayer
- 66: 0x0D14 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8095*]:
+ 66: 0x0D14 [0x2B] Choplix Limblopper (ID: 16822550/0x0100B116) [8097*]:
     → "Ya don' haffa worrrry 'bou nothn'. Me'n my canteen'll stays outta your way ntil ycalls. <Hic!> Gooobyongooynshjsdkjl! <Hic!>"
  67: 0x0D1B [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0D1C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1656,40 +1656,40 @@ SUBROUTINE_0512:
  79: 0x0D8C [0x1C] WAIT(30* ticks)
  80: 0x0D8F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Mighty Minded Generajiq (ID: 16822549/0x0100B115), Mighty Minded Generajiq (ID: 16822549/0x0100B115)], work=215*
  81: 0x0D9E [0x79] LocalPlayer looks at Mighty Minded Generajiq (ID: 16822549/0x0100B115) (Basic look)
- 82: 0x0DA8 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8096*]:
+ 82: 0x0DA8 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8098*]:
     → "I am sOrry for that, adventurer. Please, takes the hAt."
  83: 0x0DAF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x0DB0 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8097*]:
+ 84: 0x0DB0 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8099*]:
     → "Choplix may not looks like good dOctor, but he's best we haves in MovAlpolos."
  85: 0x0DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0DB8 [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [LocalPlayer, LocalPlayer], work=162*
  87: 0x0DC7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  88: 0x0DD8 [0x4B] UPDATE_ENTITY_YAW(entity=Mighty Minded Generajiq (ID: 16822549/0x0100B115), yaw=19.1°*)
- 89: 0x0DDF [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8098*]:
+ 89: 0x0DDF [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8100*]:
     → "Last year, there was bIg cave in near Mine Shaft #8765. Many Moblin brOthers and sisters injured badly. Doctor Chop save mAny lves."
  90: 0x0DE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0DE7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mighty Minded Generajiq (ID: 16822549/0x0100B115), Mighty Minded Generajiq (ID: 16822549/0x0100B115)], work=215*
- 92: 0x0DF6 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8099*]:
+ 92: 0x0DF6 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8101*]:
     → "MAybe someday, Chop saves your life, tOO."
  93: 0x0DFD [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x0DFE [0x6B] STOP_AND_IDLE: Mighty Minded Generajiq (ID: 16822549/0x0100B115) stops current action and resets to idle (animation="idl0")
  95: 0x0E07 [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [LocalPlayer, LocalPlayer], work=162*
  96: 0x0E16 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  97: 0x0E27 [0x4A] Mighty Minded Generajiq (ID: 16822549/0x0100B115) looks at LocalPlayer
- 98: 0x0E30 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8100*]:
+ 98: 0x0E30 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8102*]:
     → "Well, I must gOes now. Generajiq's busy busy womAn. I nEEds to find a new preceptOrs, thanks to yOu! Hweh heh hwah!"
  99: 0x0E37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0E38 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Mighty Minded Generajiq (ID: 16822549/0x0100B115), Mighty Minded Generajiq (ID: 16822549/0x0100B115)], work=215*
-101: 0x0E47 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8101*]:
+101: 0x0E47 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8103*]:
     → "Justs kiddIng! And remEmbers, if you ever gets sick of upwOrld life, you can always comes back hEre..."
 102: 0x0E4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0E4F [0x6B] STOP_AND_IDLE: Mighty Minded Generajiq (ID: 16822549/0x0100B115) stops current action and resets to idle (animation="idl0")
-104: 0x0E58 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8102*]:
+104: 0x0E58 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8104*]:
     → "It's dark, hot, mUggy, smelly, damp, mOldy, greasy, dusty, and fIlthy...what mores could you ask fOr!? Fweh hweh hwah!"
 105: 0x0E5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0E60 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [LocalPlayer, LocalPlayer], work=162*
 107: 0x0E6F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
-108: 0x0E80 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8103*]:
+108: 0x0E80 [0x2B] Mighty Minded Generajiq (ID: 16822549/0x0100B115) [8105*]:
     → "I'll sees you arOUnd, adventUrer! GoodebyOngo!"
 109: 0x0E87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x0E88 [0x27] REQ_SET(priority=0x0A, entity_id=Mighty Minded Generajiq (ID: 16822549/0x0100B115), tag_num=0x05)
@@ -1771,10 +1771,10 @@ SUBROUTINE_0512:
  11: 0x0F1D [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 163*
  12: 0x0F21 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s085" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  13: 0x0F32 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 14: 0x0F43 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8104*]:
+ 14: 0x0F43 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8106*]:
     → "You're fi-inally back. Where's the serjeant? I'm ready to begin my entra-ance examination."
  15: 0x0F4A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0F4B [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8105*]:
+ 16: 0x0F4B [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8107*]:
     → "........."
  17: 0x0F52 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0F53 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1783,42 +1783,42 @@ SUBROUTINE_0512:
  21: 0x0F82 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  22: 0x0F93 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  23: 0x0FA4 [0x27] REQ_SET(priority=0x0A, entity_id=Gu'Zho Thunderblade (ID: 16822546/0x0100B112), tag_num=0x02)
- 24: 0x0FAB [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8106*]:
+ 24: 0x0FAB [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8108*]:
     → "Make it to the ge-eneral's office on my own!? Well, she does have a po-oint..."
  25: 0x0FB2 [0x1C] WAIT(90* ticks)
  26: 0x0FB5 [0x1E] EventEntity looks at Gu'Zho Thunderblade (ID: 16822546/0x0100B112) and starts talking
  27: 0x0FBA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0FBB [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8107*]:
+ 28: 0x0FBB [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8109*]:
     → "<Sigh> I guess I'll be mo-oving on. I could stay, but I don't know how much lo-onger this place'll be safe."
  29: 0x0FC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0FC3 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Gu'Zho Thunderblade (ID: 16822546/0x0100B112))
  31: 0x0FC9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 32: 0x0FD8 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8108*]:
+ 32: 0x0FD8 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8110*]:
     → "While you were gone, I he-eard from a passing Goblin merchant that the Adamantki-ing has put a bounty on my head and that hu-unters from around Quon are combing the de-esert lo-ooking for me...dead or alive."
  33: 0x0FDF [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0FE0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
  35: 0x0FEF [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=162*
  36: 0x0FFE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  37: 0x100F [0x4B] UPDATE_ENTITY_YAW(entity=Gu'Zho Thunderblade (ID: 16822546/0x0100B112), yaw=8.9°*)
- 38: 0x1016 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8109*]:
+ 38: 0x1016 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8111*]:
     → "Here, you held up your end of the ba-argain. It's not much of a rewa-ard, but it's all I can offer."
  39: 0x101D [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x101E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 41: 0x102D [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8110*]:
+ 41: 0x102D [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8112*]:
     → "I'm going to need the re-est of my funds to hire a ship to the Eastern Empi-ires. I heard that a war is bre-ewing in those parts and they're lo-ooking for good fighters."
  42: 0x1034 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x1035 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 44: 0x1044 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8111*]:
+ 44: 0x1044 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8113*]:
     → "Hey, how about we go toge-- No, wait, just being se-een with me would make you an accomplice. If that happened, it wouldn't be lo-ong before a bounty was on your he-ead as well."
  45: 0x104B [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x104C [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=162*
  47: 0x105B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=[162*, 0*]
  48: 0x106C [0x4B] UPDATE_ENTITY_YAW(entity=Gu'Zho Thunderblade (ID: 16822546/0x0100B112), yaw=10.2°*)
- 49: 0x1073 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8112*]:
+ 49: 0x1073 [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8114*]:
     → "Goodbye, adve-enturer..."
  50: 0x107A [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x107B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*
- 52: 0x108A [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8113*]:
+ 52: 0x108A [0x2B] Gu'Zho Thunderblade (ID: 16822546/0x0100B112) [8115*]:
     → "If you ever have the cha-ence to visit the Eastern Empi-ires, maybe we'll meet again. I'll ke-eep an eye out for you! Grahahahwah!"
  53: 0x1091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x1092 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gu'Zho Thunderblade (ID: 16822546/0x0100B112), Gu'Zho Thunderblade (ID: 16822546/0x0100B112)], work=227*

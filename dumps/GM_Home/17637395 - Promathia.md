@@ -20,10 +20,10 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C08      |        7176 |
+|       0 | 0x1C0A      |        7178 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1C09      |        7177 |
+|       3 | 0x1C0B      |        7179 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x006E      |         110 |
 |       6 | 0x0003      |           3 |
@@ -42,7 +42,7 @@
 |      19 | 0x0087      |         135 |
 |      20 | 0x000A      |          10 |
 |      21 | 0x008A      |         138 |
-|      22 | 0x1C0A      |        7178 |
+|      22 | 0x1C0C      |        7180 |
 |      23 | 0x00D2      |         210 |
 |      24 | 0x00DA      |         218 |
 |      25 | 0x00DC      |         220 |
@@ -59,7 +59,7 @@
 |      36 | 0x00FC      |         252 |
 |      37 | 0x000D      |          13 |
 |      38 | 0x0102      |         258 |
-|      39 | 0x1C0B      |        7179 |
+|      39 | 0x1C0D      |        7181 |
 |      40 | 0x0136      |         310 |
 |      41 | 0x0138      |         312 |
 |      42 | 0x013E      |         318 |
@@ -72,7 +72,7 @@
 |      49 | 0x016B      |         363 |
 |      50 | 0x016D      |         365 |
 |      51 | 0x0170      |         368 |
-|      52 | 0x1C0C      |        7180 |
+|      52 | 0x1C0E      |        7182 |
 |      53 | 0x019A      |         410 |
 |      54 | 0x019F      |         415 |
 |      55 | 0x01A0      |         416 |
@@ -90,7 +90,7 @@
 |      67 | 0x01C3      |         451 |
 |      68 | 0x000F      |          15 |
 |      69 | 0x01C4      |         452 |
-|      70 | 0x1C0D      |        7181 |
+|      70 | 0x1C0F      |        7183 |
 |      71 | 0x01FE      |         510 |
 |      72 | 0x0200      |         512 |
 |      73 | 0x0203      |         515 |
@@ -104,7 +104,7 @@
 |      81 | 0x0210      |         528 |
 |      82 | 0x0212      |         530 |
 |      83 | 0x0242      |         578 |
-|      84 | 0x1C0E      |        7182 |
+|      84 | 0x1C10      |        7184 |
 |      85 | 0x0262      |         610 |
 |      86 | 0x0264      |         612 |
 |      87 | 0x026A      |         618 |
@@ -116,7 +116,7 @@
 |      93 | 0x0280      |         640 |
 |      94 | 0x0282      |         642 |
 |      95 | 0x0288      |         648 |
-|      96 | 0x1C0F      |        7183 |
+|      96 | 0x1C11      |        7185 |
 |      97 | 0x02C6      |         710 |
 |      98 | 0x02CA      |         714 |
 |      99 | 0x02CE      |         718 |
@@ -132,7 +132,7 @@
 |     109 | 0x02EE      |         750 |
 |     110 | 0x02F3      |         755 |
 |     111 | 0x02F6      |         758 |
-|     112 | 0x1C10      |        7184 |
+|     112 | 0x1C12      |        7186 |
 |     113 | 0x0320      |         800 |
 |     114 | 0x0322      |         802 |
 |     115 | 0x0323      |         803 |
@@ -148,7 +148,7 @@
 |     125 | 0x0348      |         840 |
 |     126 | 0x034C      |         844 |
 |     127 | 0x034D      |         845 |
-|     128 | 0x1C11      |        7185 |
+|     128 | 0x1C13      |        7187 |
 |     129 | 0x03E8      |        1000 |
 |     130 | 0x03E9      |        1001 |
 |     131 | 0x03EA      |        1002 |
@@ -157,13 +157,13 @@
 |     134 | 0x03ED      |        1005 |
 |     135 | 0x03EE      |        1006 |
 |     136 | 0x03EF      |        1007 |
-|     137 | 0x1C12      |        7186 |
+|     137 | 0x1C14      |        7188 |
 |     138 | 0x07D1      |        2001 |
 |     139 | 0x07D2      |        2002 |
 |     140 | 0x07D5      |        2005 |
 |     141 | 0x07D9      |        2009 |
 |     142 | 0x07DE      |        2014 |
-|     143 | 0x1C13      |        7187 |
+|     143 | 0x1C15      |        7189 |
 |     144 | 0x0BB9      |        3001 |
 |     145 | 0x0BBA      |        3002 |
 |     146 | 0x0BBB      |        3003 |
@@ -174,7 +174,7 @@
 |     151 | 0x0BC3      |        3011 |
 |     152 | 0x0BC4      |        3012 |
 |     153 | 0x0BC6      |        3014 |
-|     154 | 0x1C14      |        7188 |
+|     154 | 0x1C16      |        7190 |
 |     155 | 0x0FA2      |        4002 |
 |     156 | 0x0FA3      |        4003 |
 |     157 | 0x0FA6      |        4006 |
@@ -183,7 +183,7 @@
 |     160 | 0x0FAB      |        4011 |
 |     161 | 0x0FAC      |        4012 |
 |     162 | 0x0FAE      |        4014 |
-|     163 | 0x1C15      |        7189 |
+|     163 | 0x1C17      |        7191 |
 |     164 | 0x138A      |        5002 |
 |     165 | 0x138B      |        5003 |
 |     166 | 0x138D      |        5005 |
@@ -193,7 +193,7 @@
 |     170 | 0x1393      |        5011 |
 |     171 | 0x1394      |        5012 |
 |     172 | 0x1396      |        5014 |
-|     173 | 0x1C16      |        7190 |
+|     173 | 0x1C18      |        7192 |
 |     174 | 0x1772      |        6002 |
 |     175 | 0x1773      |        6003 |
 |     176 | 0x1774      |        6004 |
@@ -205,21 +205,21 @@
 
 ## String References
 
-- **7176**: Set to... [Nothing./Chapter 1./Chapter 2./Chapter 3./Chapter 4./Chapter 5./Chapter 6./Chapter 7./Chapter 8./Crag Order./Chapter 3 -> Ulmia./Chapter 3 -> Taru./Chapter 5 -> Louver./Chapter 5 -> Tenzen./Chapter 5 -> Ulmia.]
-- **7177**: What stage of CH1? [Nothing./Opening Ready./Saw Jeuno Opening./Saw Up-Jeuno Zone In./Talked to Monb./Emptiness 1 Start!/Emptiness Boss 1 Dead!/Emptiness 2 Start!/Emptiness Boss 2 Dead!/Emptiness 3 Start!/Emptiness Boss 3 Dead!]
-- **7178**: What stage of CH2? [Nothing./Entered Tav./Evtered Stronghold./Talked to elder./Opened Sacrarium door. (228)/Met Nag at the ladder./Met Nag in the $P109<Player>b$P15($:./Met Prishe./Got back your amulet./Heard Ulmia's song./Headed to Bahamut's island./Found the island./Chewed out Tarus./Smacked up the Zilart.]
-- **7179**: What stage of CH3? [Nothing./Arrived in Gustaberg!/Heard about airships./Talked to Cid./Met Aldo." choices.../Ends of 2 choices.../Nag leaves on airship./Met Ulmia at Tenshodo./Saw sick Prishe./Went to Pso'Xja./Whipped Diabolos./Prishe heads back to Tav.]
-- **7180**: What stage of CH4? [Nothing./Prishe is back in Tav./Talked to Disp./Heard where Ulmia went./Heard about Blueblade Fell./Bugged by the Tarus./Win on Bahamut's island./Heard about Promathia./Heard about Promathia & Sac./Open Sac. door with key./Open Reliq. door with key./Saw Reliq. event./Phishe gets chewed out./Louverance leaves by boat./Talked with Chas./Talked with Anoki in Port San.]
-- **7181**: What stage of CH5? [Nothing./Prishe arrives in Bas./You hear that vessel is stolen./Arrive in Pso'Xja./Saw event deep in ruins./Enter fourth Promyvion./Find first person./Find second person./Find third Person./Make way with vessel./Beat 4th Prom. boss./Saw Beau. event./Three choice start.../Three choice end...]
-- **7182**: What stage of CH6? [Nothing./Talked to Ducal Guards./Met at pub./Saw Ulmia cry./Talked with Wolfie./Talked with Eshan./Met with Prishe./Heard all of Eshan's talk./Met Matilde./Heard Cid's rambling./Dock in Tavnazia./Beat armada boss.]
-- **7183**: What stage of CH7? [Nothing./Warp to Tav./Arrive in safehold./Talked to 3rd person in Tav./Talked to Tenzen./Went to Jeuno./Met Wolfie./Went to pub./Went to Moval./Heard Cid prep. talk./Cid told you to look for guys./Final meeting over./Gave Suleen letter./Beat Tenzen./Saw 5th Mothercry event./Saw the 3 flashbacks!]
-- **7184**: What stage of CH8? [Nothing./Entered Al'Taieu./Checked the Palace Gate./Met Makki./Met Kukki./Met Cherukiki./Damn Palace door won't open./Damn Palace door opened./Smacked up Eventide door boss./Got your amulet back./Saw the 5 tower event./Beat Audience Chamber door boss./Promathia has left the building./Promathia left for the battlefield./Wiped the floor with Promathia./Saw epilogue, heard the song.]
-- **7185**: What crag order? [Nothing./1 clear (haven't gone yet)./1 = Holla./1 = Dem./1 = Mea." clear (haven't gone yet)." = Holla." = Dem." = Mea.]
-- **7186**: CH3 Ulmia stage... [Nothing./Went to N. San./Met Arneau./Met Chas./Led to Hinaree./Met Hinaree.]
-- **7187**: CH3 Tarutaru stage... [Nothing./Went to waters./Met $3I[$3h$3 [$3r[$3h$3 [./Met Yoran./Heard talk in restaraunt./Met Honoi./Accepted Yoran's offer./Gave item to Yoran./Heard from the three Taru./Met tosuka./Heard Yoran for last time.]
-- **7188**: CH5 Louverance stage... [Nothing./Saw picture./Heard chieftainess./Talked to Tarupapa./Went to Mov./Caught by Mobs./Brought back by Jabbos./Hears Jabbos confession./Talked with Cid.]
-- **7189**: CH5 Louverance stage... [Nothing./Met Carbuncle./Release power from Kuluu ruins./Head for Qufim./Heard from Ducal Guard./Heard Wolfie's true feelings./Saw event in Delk./Heard Tenzen's rambling about E./Fenril's power released./Heard Cid's speech.]
-- **7190**: CH5 Louverance stage... [Nothing./Met Hinaree./Heard Ulmia's song./Heard from Chas./Heard from Kerutoto./Mithra's converge./Whipped boss in Chasm./Whipped boss in mountains./Heard Cid's speech.]
+- **7178**: Set to... [Nothing./Chapter 1./Chapter 2./Chapter 3./Chapter 4./Chapter 5./Chapter 6./Chapter 7./Chapter 8./Crag Order./Chapter 3 -> Ulmia./Chapter 3 -> Taru./Chapter 5 -> Louver./Chapter 5 -> Tenzen./Chapter 5 -> Ulmia.]
+- **7179**: What stage of CH1? [Nothing./Opening Ready./Saw Jeuno Opening./Saw Up-Jeuno Zone In./Talked to Monb./Emptiness 1 Start!/Emptiness Boss 1 Dead!/Emptiness 2 Start!/Emptiness Boss 2 Dead!/Emptiness 3 Start!/Emptiness Boss 3 Dead!]
+- **7180**: What stage of CH2? [Nothing./Entered Tav./Evtered Stronghold./Talked to elder./Opened Sacrarium door. (228)/Met Nag at the ladder./Met Nag in the $P109<Player>b$P15($:./Met Prishe./Got back your amulet./Heard Ulmia's song./Headed to Bahamut's island./Found the island./Chewed out Tarus./Smacked up the Zilart.]
+- **7181**: What stage of CH3? [Nothing./Arrived in Gustaberg!/Heard about airships./Talked to Cid./Met Aldo." choices.../Ends of 2 choices.../Nag leaves on airship./Met Ulmia at Tenshodo./Saw sick Prishe./Went to Pso'Xja./Whipped Diabolos./Prishe heads back to Tav.]
+- **7182**: What stage of CH4? [Nothing./Prishe is back in Tav./Talked to Disp./Heard where Ulmia went./Heard about Blueblade Fell./Bugged by the Tarus./Win on Bahamut's island./Heard about Promathia./Heard about Promathia & Sac./Open Sac. door with key./Open Reliq. door with key./Saw Reliq. event./Phishe gets chewed out./Louverance leaves by boat./Talked with Chas./Talked with Anoki in Port San.]
+- **7183**: What stage of CH5? [Nothing./Prishe arrives in Bas./You hear that vessel is stolen./Arrive in Pso'Xja./Saw event deep in ruins./Enter fourth Promyvion./Find first person./Find second person./Find third Person./Make way with vessel./Beat 4th Prom. boss./Saw Beau. event./Three choice start.../Three choice end...]
+- **7184**: What stage of CH6? [Nothing./Talked to Ducal Guards./Met at pub./Saw Ulmia cry./Talked with Wolfie./Talked with Eshan./Met with Prishe./Heard all of Eshan's talk./Met Matilde./Heard Cid's rambling./Dock in Tavnazia./Beat armada boss.]
+- **7185**: What stage of CH7? [Nothing./Warp to Tav./Arrive in safehold./Talked to 3rd person in Tav./Talked to Tenzen./Went to Jeuno./Met Wolfie./Went to pub./Went to Moval./Heard Cid prep. talk./Cid told you to look for guys./Final meeting over./Gave Suleen letter./Beat Tenzen./Saw 5th Mothercry event./Saw the 3 flashbacks!]
+- **7186**: What stage of CH8? [Nothing./Entered Al'Taieu./Checked the Palace Gate./Met Makki./Met Kukki./Met Cherukiki./Damn Palace door won't open./Damn Palace door opened./Smacked up Eventide door boss./Got your amulet back./Saw the 5 tower event./Beat Audience Chamber door boss./Promathia has left the building./Promathia left for the battlefield./Wiped the floor with Promathia./Saw epilogue, heard the song.]
+- **7187**: What crag order? [Nothing./1 clear (haven't gone yet)./1 = Holla./1 = Dem./1 = Mea." clear (haven't gone yet)." = Holla." = Dem." = Mea.]
+- **7188**: CH3 Ulmia stage... [Nothing./Went to N. San./Met Arneau./Met Chas./Led to Hinaree./Met Hinaree.]
+- **7189**: CH3 Tarutaru stage... [Nothing./Went to waters./Met $3I[$3h$3 [$3r[$3h$3 [./Met Yoran./Heard talk in restaraunt./Met Honoi./Accepted Yoran's offer./Gave item to Yoran./Heard from the three Taru./Met tosuka./Heard Yoran for last time.]
+- **7190**: CH5 Louverance stage... [Nothing./Saw picture./Heard chieftainess./Talked to Tarupapa./Went to Mov./Caught by Mobs./Brought back by Jabbos./Hears Jabbos confession./Talked with Cid.]
+- **7191**: CH5 Louverance stage... [Nothing./Met Carbuncle./Release power from Kuluu ruins./Head for Qufim./Heard from Ducal Guard./Heard Wolfie's true feelings./Saw event in Delk./Heard Tenzen's rambling about E./Fenril's power released./Heard Cid's speech.]
+- **7192**: CH5 Louverance stage... [Nothing./Met Hinaree./Heard Ulmia's song./Heard from Chas./Heard from Kerutoto./Mithra's converge./Whipped boss in Chasm./Whipped boss in mountains./Heard Cid's speech.]
 
 ## Events
 
@@ -433,11 +433,11 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7176*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7178*, default_option=0*, option_flags=0*)
     → "Set to... [Nothing./Chapter 1./Chapter 2./Chapter 3./Chapter 4./Chapter 5./Chapter 6./Chapter 7./Chapter 8./Crag Order./Chapter 3 -> Ulmia./Chapter 3 -> Taru./Chapter 5 -> Louver./Chapter 5 -> Tenzen./Chapter 5 -> Ulmia.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00BC
-  3: 0x0011 [0x24] CREATE_DIALOG(message_id=7177*, default_option=0*, option_flags=0*)
+  3: 0x0011 [0x24] CREATE_DIALOG(message_id=7179*, default_option=0*, option_flags=0*)
     → "What stage of CH1? [Nothing./Opening Ready./Saw Jeuno Opening./Saw Up-Jeuno Zone In./Talked to Monb./Emptiness 1 Start!/Emptiness Boss 1 Dead!/Emptiness 2 Start!/Emptiness Boss 2 Dead!/Emptiness 3 Start!/Emptiness Boss 3 Dead!]"
   4: 0x0018 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0019 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0029
@@ -474,7 +474,7 @@
 SUBROUTINE_00B9:
  35: 0x00B9 [0x01] GOTO 0x0A93
  36: 0x00BC [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x019F
- 37: 0x00C4 [0x24] CREATE_DIALOG(message_id=7178*, default_option=0*, option_flags=0*)
+ 37: 0x00C4 [0x24] CREATE_DIALOG(message_id=7180*, default_option=0*, option_flags=0*)
     → "What stage of CH2? [Nothing./Entered Tav./Evtered Stronghold./Talked to elder./Opened Sacrarium door. (228)/Met Nag at the ladder./Met Nag in the $P109<Player>b$P15($:./Met Prishe./Got back your amulet./Heard Ulmia's song./Headed to Bahamut's island./Found the island./Chewed out Tarus./Smacked up the Zilart.]"
  38: 0x00CB [0x25] WAIT_DIALOG_SELECT()
  39: 0x00CC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00DC
@@ -520,7 +520,7 @@ SUBROUTINE_00B9:
 SUBROUTINE_019C:
  78: 0x019C [0x01] GOTO 0x0A93
  79: 0x019F [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0272
- 80: 0x01A7 [0x24] CREATE_DIALOG(message_id=7179*, default_option=0*, option_flags=0*)
+ 80: 0x01A7 [0x24] CREATE_DIALOG(message_id=7181*, default_option=0*, option_flags=0*)
     → "What stage of CH3? [Nothing./Arrived in Gustaberg!/Heard about airships./Talked to Cid./Met Aldo." choices.../Ends of 2 choices.../Nag leaves on airship./Met Ulmia at Tenshodo./Saw sick Prishe./Went to Pso'Xja./Whipped Diabolos./Prishe heads back to Tav.]"
  81: 0x01AE [0x25] WAIT_DIALOG_SELECT()
  82: 0x01AF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01BF
@@ -563,7 +563,7 @@ SUBROUTINE_019C:
 SUBROUTINE_026F:
 118: 0x026F [0x01] GOTO 0x0A93
 119: 0x0272 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0375
-120: 0x027A [0x24] CREATE_DIALOG(message_id=7180*, default_option=0*, option_flags=0*)
+120: 0x027A [0x24] CREATE_DIALOG(message_id=7182*, default_option=0*, option_flags=0*)
     → "What stage of CH4? [Nothing./Prishe is back in Tav./Talked to Disp./Heard where Ulmia went./Heard about Blueblade Fell./Bugged by the Tarus./Win on Bahamut's island./Heard about Promathia./Heard about Promathia & Sac./Open Sac. door with key./Open Reliq. door with key./Saw Reliq. event./Phishe gets chewed out./Louverance leaves by boat./Talked with Chas./Talked with Anoki in Port San.]"
 121: 0x0281 [0x25] WAIT_DIALOG_SELECT()
 122: 0x0282 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0292
@@ -615,7 +615,7 @@ SUBROUTINE_026F:
 SUBROUTINE_0372:
 167: 0x0372 [0x01] GOTO 0x0A93
 168: 0x0375 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0458
-169: 0x037D [0x24] CREATE_DIALOG(message_id=7181*, default_option=0*, option_flags=0*)
+169: 0x037D [0x24] CREATE_DIALOG(message_id=7183*, default_option=0*, option_flags=0*)
     → "What stage of CH5? [Nothing./Prishe arrives in Bas./You hear that vessel is stolen./Arrive in Pso'Xja./Saw event deep in ruins./Enter fourth Promyvion./Find first person./Find second person./Find third Person./Make way with vessel./Beat 4th Prom. boss./Saw Beau. event./Three choice start.../Three choice end...]"
 170: 0x0384 [0x25] WAIT_DIALOG_SELECT()
 171: 0x0385 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0395
@@ -661,7 +661,7 @@ SUBROUTINE_0372:
 SUBROUTINE_0455:
 210: 0x0455 [0x01] GOTO 0x0A93
 211: 0x0458 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x051B
-212: 0x0460 [0x24] CREATE_DIALOG(message_id=7182*, default_option=0*, option_flags=0*)
+212: 0x0460 [0x24] CREATE_DIALOG(message_id=7184*, default_option=0*, option_flags=0*)
     → "What stage of CH6? [Nothing./Talked to Ducal Guards./Met at pub./Saw Ulmia cry./Talked with Wolfie./Talked with Eshan./Met with Prishe./Heard all of Eshan's talk./Met Matilde./Heard Cid's rambling./Dock in Tavnazia./Beat armada boss.]"
 213: 0x0467 [0x25] WAIT_DIALOG_SELECT()
 214: 0x0468 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0478
@@ -701,7 +701,7 @@ SUBROUTINE_0455:
 SUBROUTINE_0518:
 247: 0x0518 [0x01] GOTO 0x0A93
 248: 0x051B [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x061E
-249: 0x0523 [0x24] CREATE_DIALOG(message_id=7183*, default_option=0*, option_flags=0*)
+249: 0x0523 [0x24] CREATE_DIALOG(message_id=7185*, default_option=0*, option_flags=0*)
     → "What stage of CH7? [Nothing./Warp to Tav./Arrive in safehold./Talked to 3rd person in Tav./Talked to Tenzen./Went to Jeuno./Met Wolfie./Went to pub./Went to Moval./Heard Cid prep. talk./Cid told you to look for guys./Final meeting over./Gave Suleen letter./Beat Tenzen./Saw 5th Mothercry event./Saw the 3 flashbacks!]"
 250: 0x052A [0x25] WAIT_DIALOG_SELECT()
 251: 0x052B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x053B
@@ -753,7 +753,7 @@ SUBROUTINE_0518:
 SUBROUTINE_061B:
 296: 0x061B [0x01] GOTO 0x0A93
 297: 0x061E [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0721
-298: 0x0626 [0x24] CREATE_DIALOG(message_id=7184*, default_option=0*, option_flags=0*)
+298: 0x0626 [0x24] CREATE_DIALOG(message_id=7186*, default_option=0*, option_flags=0*)
     → "What stage of CH8? [Nothing./Entered Al'Taieu./Checked the Palace Gate./Met Makki./Met Kukki./Met Cherukiki./Damn Palace door won't open./Damn Palace door opened./Smacked up Eventide door boss./Got your amulet back./Saw the 5 tower event./Beat Audience Chamber door boss./Promathia has left the building./Promathia left for the battlefield./Wiped the floor with Promathia./Saw epilogue, heard the song.]"
 299: 0x062D [0x25] WAIT_DIALOG_SELECT()
 300: 0x062E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x063E
@@ -805,7 +805,7 @@ SUBROUTINE_061B:
 SUBROUTINE_071E:
 345: 0x071E [0x01] GOTO 0x0A93
 346: 0x0721 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x07B4
-347: 0x0729 [0x24] CREATE_DIALOG(message_id=7185*, default_option=0*, option_flags=0*)
+347: 0x0729 [0x24] CREATE_DIALOG(message_id=7187*, default_option=0*, option_flags=0*)
     → "What crag order? [Nothing./1 clear (haven't gone yet)./1 = Holla./1 = Dem./1 = Mea." clear (haven't gone yet)." = Holla." = Dem." = Mea.]"
 348: 0x0730 [0x25] WAIT_DIALOG_SELECT()
 349: 0x0731 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0741
@@ -836,7 +836,7 @@ SUBROUTINE_071E:
 SUBROUTINE_07B1:
 373: 0x07B1 [0x01] GOTO 0x0A93
 374: 0x07B4 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0817
-375: 0x07BC [0x24] CREATE_DIALOG(message_id=7186*, default_option=0*, option_flags=0*)
+375: 0x07BC [0x24] CREATE_DIALOG(message_id=7188*, default_option=0*, option_flags=0*)
     → "CH3 Ulmia stage... [Nothing./Went to N. San./Met Arneau./Met Chas./Led to Hinaree./Met Hinaree.]"
 376: 0x07C3 [0x25] WAIT_DIALOG_SELECT()
 377: 0x07C4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x07D4
@@ -858,7 +858,7 @@ SUBROUTINE_07B1:
 SUBROUTINE_0814:
 392: 0x0814 [0x01] GOTO 0x0A93
 393: 0x0817 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x08CA
-394: 0x081F [0x24] CREATE_DIALOG(message_id=7187*, default_option=0*, option_flags=0*)
+394: 0x081F [0x24] CREATE_DIALOG(message_id=7189*, default_option=0*, option_flags=0*)
     → "CH3 Tarutaru stage... [Nothing./Went to waters./Met $3I[$3h$3 [$3r[$3h$3 [./Met Yoran./Heard talk in restaraunt./Met Honoi./Accepted Yoran's offer./Gave item to Yoran./Heard from the three Taru./Met tosuka./Heard Yoran for last time.]"
 395: 0x0826 [0x25] WAIT_DIALOG_SELECT()
 396: 0x0827 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0837
@@ -895,7 +895,7 @@ SUBROUTINE_0814:
 SUBROUTINE_08C7:
 426: 0x08C7 [0x01] GOTO 0x0A93
 427: 0x08CA [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x095D
-428: 0x08D2 [0x24] CREATE_DIALOG(message_id=7188*, default_option=0*, option_flags=0*)
+428: 0x08D2 [0x24] CREATE_DIALOG(message_id=7190*, default_option=0*, option_flags=0*)
     → "CH5 Louverance stage... [Nothing./Saw picture./Heard chieftainess./Talked to Tarupapa./Went to Mov./Caught by Mobs./Brought back by Jabbos./Hears Jabbos confession./Talked with Cid.]"
 429: 0x08D9 [0x25] WAIT_DIALOG_SELECT()
 430: 0x08DA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x08EA
@@ -926,7 +926,7 @@ SUBROUTINE_08C7:
 SUBROUTINE_095A:
 454: 0x095A [0x01] GOTO 0x0A93
 455: 0x095D [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0A00
-456: 0x0965 [0x24] CREATE_DIALOG(message_id=7189*, default_option=0*, option_flags=0*)
+456: 0x0965 [0x24] CREATE_DIALOG(message_id=7191*, default_option=0*, option_flags=0*)
     → "CH5 Louverance stage... [Nothing./Met Carbuncle./Release power from Kuluu ruins./Head for Qufim./Heard from Ducal Guard./Heard Wolfie's true feelings./Saw event in Delk./Heard Tenzen's rambling about E./Fenril's power released./Heard Cid's speech.]"
 457: 0x096C [0x25] WAIT_DIALOG_SELECT()
 458: 0x096D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x097D
@@ -960,7 +960,7 @@ SUBROUTINE_095A:
 SUBROUTINE_09FD:
 485: 0x09FD [0x01] GOTO 0x0A93
 486: 0x0A00 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0A93
-487: 0x0A08 [0x24] CREATE_DIALOG(message_id=7190*, default_option=0*, option_flags=0*)
+487: 0x0A08 [0x24] CREATE_DIALOG(message_id=7192*, default_option=0*, option_flags=0*)
     → "CH5 Louverance stage... [Nothing./Met Hinaree./Heard Ulmia's song./Heard from Chas./Heard from Kerutoto./Mithra's converge./Whipped boss in Chasm./Whipped boss in mountains./Heard Cid's speech.]"
 488: 0x0A0F [0x25] WAIT_DIALOG_SELECT()
 489: 0x0A10 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0A20

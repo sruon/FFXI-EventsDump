@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x005A      |          90 |
-|       1 | 0x2833      |       10291 |
-|       2 | 0x2834      |       10292 |
+|       1 | 0x2835      |       10293 |
+|       2 | 0x2836      |       10294 |
 
 ## String References
 
-- **10291**: I hate you all!
-- **10292**: A classmate of mine always used to yell that whenever he climbed tall places. I wonder what he was trying to say?
+- **10293**: I hate you all!
+- **10294**: A classmate of mine always used to yell that whenever he climbed tall places. I wonder what he was trying to say?
 
 ## Events
 
@@ -79,7 +79,7 @@
 
 ```
   0: 0x0001 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=90*
-  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=10291*)
+  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=10293*)
     → "I hate you all!"
   2: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0014 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlb1" with entities [EventEntity, EventEntity]
@@ -87,7 +87,7 @@
   5: 0x0026 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0027 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x0028 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=90*
-  8: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=10292*)
+  8: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=10294*)
     → "A classmate of mine always used to yell that whenever he climbed tall places. I wonder what he was trying to say?"
   9: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x003B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]

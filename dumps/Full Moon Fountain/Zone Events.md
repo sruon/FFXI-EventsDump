@@ -72,24 +72,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1E5D      |        7773 |
-|       7 | 0x1E09      |        7689 |
+|       6 | 0x1E5F      |        7775 |
+|       7 | 0x1E0B      |        7691 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1C9C      |        7324 |
+|      12 | 0x1C9E      |        7326 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1CA7      |        7335 |
-|      20 | 0x1CA8      |        7336 |
-|      21 | 0x1CA9      |        7337 |
-|      22 | 0x1CAA      |        7338 |
-|      23 | 0x1CCE      |        7374 |
+|      19 | 0x1CA9      |        7337 |
+|      20 | 0x1CAA      |        7338 |
+|      21 | 0x1CAB      |        7339 |
+|      22 | 0x1CAC      |        7340 |
+|      23 | 0x1CD0      |        7376 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -109,16 +109,16 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1E03      |        7683 |
-|      44 | 0x1E08      |        7688 |
-|      45 | 0x1E07      |        7687 |
+|      43 | 0x1E05      |        7685 |
+|      44 | 0x1E0A      |        7690 |
+|      45 | 0x1E09      |        7689 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1E5B      |        7771 |
-|      48 | 0x1E5A      |        7770 |
+|      47 | 0x1E5D      |        7773 |
+|      48 | 0x1E5C      |        7772 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1DEF      |        7663 |
+|      50 | 0x1DF1      |        7665 |
 |      51 | 0x00C1      |         193 |
-|      52 | 0x1C9F      |        7327 |
+|      52 | 0x1CA1      |        7329 |
 |      53 | 0x00C9      |         201 |
 |      54 | 0x00B4      |         180 |
 |      55 | 0xFFF6C42B  |  4294362155 |
@@ -208,11 +208,11 @@
 |     139 | 0x8FE5      |       36837 |
 |     140 | 0x02A1      |         673 |
 |     141 | 0x0024      |          36 |
-|     142 | 0x1DF1      |        7665 |
-|     143 | 0x1DF0      |        7664 |
-|     144 | 0x1E59      |        7769 |
-|     145 | 0x1DF3      |        7667 |
-|     146 | 0x1DF2      |        7666 |
+|     142 | 0x1DF3      |        7667 |
+|     143 | 0x1DF2      |        7666 |
+|     144 | 0x1E5B      |        7771 |
+|     145 | 0x1DF5      |        7669 |
+|     146 | 0x1DF4      |        7668 |
 |     147 | 0xFFFB6E3F  |  4294667839 |
 |     148 | 0xFFFC087C  |  4294707324 |
 |     149 | 0x251C      |        9500 |
@@ -238,56 +238,56 @@
 |     169 | 0xFFFAC990  |  4294625680 |
 |     170 | 0xB998      |       47512 |
 |     171 | 0x0C00      |        3072 |
-|     172 | 0x1E86      |        7814 |
-|     173 | 0x1E87      |        7815 |
+|     172 | 0x1E88      |        7816 |
+|     173 | 0x1E89      |        7817 |
 |     174 | 0x0056      |          86 |
-|     175 | 0x1E88      |        7816 |
+|     175 | 0x1E8A      |        7818 |
 |     176 | 0x00F0      |         240 |
-|     177 | 0x1E89      |        7817 |
+|     177 | 0x1E8B      |        7819 |
 |     178 | 0x0058      |          88 |
 |     179 | 0x0059      |          89 |
 |     180 | 0x005A      |          90 |
 |     181 | 0x0057      |          87 |
 |     182 | 0x005B      |          91 |
-|     183 | 0x1E8A      |        7818 |
-|     184 | 0x1E8B      |        7819 |
-|     185 | 0x1E8C      |        7820 |
-|     186 | 0x1E8D      |        7821 |
-|     187 | 0x1E8E      |        7822 |
-|     188 | 0x1E8F      |        7823 |
-|     189 | 0x1E90      |        7824 |
+|     183 | 0x1E8C      |        7820 |
+|     184 | 0x1E8D      |        7821 |
+|     185 | 0x1E8E      |        7822 |
+|     186 | 0x1E8F      |        7823 |
+|     187 | 0x1E90      |        7824 |
+|     188 | 0x1E91      |        7825 |
+|     189 | 0x1E92      |        7826 |
 |     190 | 0x010E      |         270 |
-|     191 | 0x1E91      |        7825 |
+|     191 | 0x1E93      |        7827 |
 |     192 | 0x0032      |          50 |
-|     193 | 0x1E92      |        7826 |
-|     194 | 0x1E93      |        7827 |
-|     195 | 0x1E94      |        7828 |
-|     196 | 0x1E95      |        7829 |
-|     197 | 0x1E96      |        7830 |
+|     193 | 0x1E94      |        7828 |
+|     194 | 0x1E95      |        7829 |
+|     195 | 0x1E96      |        7830 |
+|     196 | 0x1E97      |        7831 |
+|     197 | 0x1E98      |        7832 |
 |     198 | 0x00D1      |         209 |
-|     199 | 0x1E97      |        7831 |
+|     199 | 0x1E99      |        7833 |
 |     200 | 0x01A4      |         420 |
 |     201 | 0x021C      |         540 |
 |     202 | 0x52E07     |      339463 |
 |     203 | 0xFFFAC753  |  4294625107 |
 |     204 | 0xB9B5      |       47541 |
 |     205 | 0x0C90      |        3216 |
-|     206 | 0x1E98      |        7832 |
-|     207 | 0x1E99      |        7833 |
+|     206 | 0x1E9A      |        7834 |
+|     207 | 0x1E9B      |        7835 |
 |     208 | 0x52EC9     |      339657 |
 |     209 | 0xFFFAD7B5  |  4294629301 |
 |     210 | 0xB92B      |       47403 |
 |     211 | 0x0C0D      |        3085 |
 |     212 | 0x0198      |         408 |
-|     213 | 0x1E61      |        7777 |
-|     214 | 0x1E62      |        7778 |
+|     213 | 0x1E63      |        7779 |
+|     214 | 0x1E64      |        7780 |
 |     215 | 0x0294      |         660 |
 |     216 | 0x0096      |         150 |
-|     217 | 0x1E63      |        7779 |
+|     217 | 0x1E65      |        7781 |
 |     218 | 0x004C      |          76 |
-|     219 | 0x1E64      |        7780 |
-|     220 | 0x1E65      |        7781 |
-|     221 | 0x1E66      |        7782 |
+|     219 | 0x1E66      |        7782 |
+|     220 | 0x1E67      |        7783 |
+|     221 | 0x1E68      |        7784 |
 |     222 | 0x004B      |          75 |
 |     223 | 0x52E7C     |      339580 |
 |     224 | 0xFFFAB783  |  4294621059 |
@@ -295,35 +295,35 @@
 |     226 | 0x0C07      |        3079 |
 |     227 | 0x009F      |         159 |
 |     228 | 0x002D      |          45 |
-|     229 | 0x1EA1      |        7841 |
-|     230 | 0x1EA2      |        7842 |
-|     231 | 0x1EA3      |        7843 |
-|     232 | 0x1EA4      |        7844 |
-|     233 | 0x1EA5      |        7845 |
-|     234 | 0x1EA6      |        7846 |
-|     235 | 0x1EA7      |        7847 |
-|     236 | 0x1EA8      |        7848 |
-|     237 | 0x1EA9      |        7849 |
+|     229 | 0x1EA3      |        7843 |
+|     230 | 0x1EA4      |        7844 |
+|     231 | 0x1EA5      |        7845 |
+|     232 | 0x1EA6      |        7846 |
+|     233 | 0x1EA7      |        7847 |
+|     234 | 0x1EA8      |        7848 |
+|     235 | 0x1EA9      |        7849 |
+|     236 | 0x1EAA      |        7850 |
+|     237 | 0x1EAB      |        7851 |
 |     238 | 0x0022      |          34 |
 |     239 | 0x52E04     |      339460 |
 |     240 | 0xFFFABB72  |  4294622066 |
 |     241 | 0xBA58      |       47704 |
-|     242 | 0x1EAA      |        7850 |
+|     242 | 0x1EAC      |        7852 |
 |     243 | 0x0028      |          40 |
 |     244 | 0x0027      |          39 |
 |     245 | 0x0031      |          49 |
 |     246 | 0x003B      |          59 |
 |     247 | 0x0045      |          69 |
-|     248 | 0x1EAB      |        7851 |
-|     249 | 0x1EAC      |        7852 |
+|     248 | 0x1EAD      |        7853 |
+|     249 | 0x1EAE      |        7854 |
 |     250 | 0x53020     |      340000 |
 |     251 | 0xFFFADD80  |  4294630784 |
 |     252 | 0xB8FE      |       47358 |
 |     253 | 0x0BFD      |        3069 |
-|     254 | 0x1E68      |        7784 |
-|     255 | 0x1E69      |        7785 |
-|     256 | 0x1E67      |        7783 |
-|     257 | 0x1C9D      |        7325 |
+|     254 | 0x1E6A      |        7786 |
+|     255 | 0x1E6B      |        7787 |
+|     256 | 0x1E69      |        7785 |
+|     257 | 0x1C9F      |        7327 |
 |     258 | 0x5CE87     |      380551 |
 |     259 | 0xFFF99762  |  4294547298 |
 |     260 | 0x0FF8      |        4088 |
@@ -491,28 +491,28 @@
 
 ## String References
 
-- **7324**: Enter the battlefield? [Enter./Decline.]
-- **7325**: Leave the battlefield? [Run away./Stay.]
-- **7327**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7335**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7336**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7326**: Enter the battlefield? [Enter./Decline.]
+- **7327**: Leave the battlefield? [Run away./Stay.]
+- **7329**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7337**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7338**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7374**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7663**: Skip the event? [Yes./No.]
-- **7664**: Battlefield clear time: $3 second[/s]!
-- **7665**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7666**: The current battlefield clear time record is $3 second[/s].
-- **7667**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7683**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7687**: That record is held by $5 adventurers, including %0!
-- **7688**: That record is held by %0!
-- **7689**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7769**: You have broken the clear time record for "[The Moonlit Path/Moon Reading/Waking the Beast/Battaru Royale/$26The Moonlit Path/$26Waking the Beast]"!
-- **7770**: The current battlefield clear time record for "[The Moonlit Path/Moon Reading/Waking the Beast/Battaru Royale/$26The Moonlit Path/$26Waking the Beast]" is $3 second[/s].
-- **7771**: The current battlefield clear time record for "[The Moonlit Path/Moon Reading/Waking the Beast/Battaru Royale/$26The Moonlit Path/$26Waking the Beast]" is $3 minute[/s] $2 second[/s].
-- **7773**: Which battlefield will you enter? [None./The Moonlit Path./Moon Reading./Waking the Beast./Battaru Royale./$26The Moonlit Path./$26Waking the Beast./././././././././././././././././././././././././]
-- **7847**: Return the light to the fountain? [At once!/Not this time...]
+- **7339**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7340**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7376**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7665**: Skip the event? [Yes./No.]
+- **7666**: Battlefield clear time: $3 second[/s]!
+- **7667**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7668**: The current battlefield clear time record is $3 second[/s].
+- **7669**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7685**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7689**: That record is held by $5 adventurers, including %0!
+- **7690**: That record is held by %0!
+- **7691**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7771**: You have broken the clear time record for "[The Moonlit Path/Moon Reading/Waking the Beast/Battaru Royale/$26The Moonlit Path/$26Waking the Beast]"!
+- **7772**: The current battlefield clear time record for "[The Moonlit Path/Moon Reading/Waking the Beast/Battaru Royale/$26The Moonlit Path/$26Waking the Beast]" is $3 second[/s].
+- **7773**: The current battlefield clear time record for "[The Moonlit Path/Moon Reading/Waking the Beast/Battaru Royale/$26The Moonlit Path/$26Waking the Beast]" is $3 minute[/s] $2 second[/s].
+- **7775**: Which battlefield will you enter? [None./The Moonlit Path./Moon Reading./Waking the Beast./Battaru Royale./$26The Moonlit Path./$26Waking the Beast./././././././././././././././././././././././././]
+- **7849**: Return the light to the fountain? [At once!/Not this time...]
 
 ## Events
 
@@ -727,7 +727,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7773*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7775*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./The Moonlit Path./Moon Reading./Waking the Beast./Battaru Royale./$26The Moonlit Path./$26Waking the Beast./././././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -740,7 +740,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x26B2)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7689*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7691*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -766,7 +766,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0845)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7324*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7326*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -815,22 +815,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07E1
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7335*]:
+ 89: 0x0225 [0x48] [System] [7337*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7336*]:
+ 93: 0x0234 [0x48] [System] [7338*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7337*]:
+ 97: 0x0243 [0x48] [System] [7339*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7338*]:
+101: 0x0252 [0x48] [System] [7340*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -839,7 +839,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x07F8
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7683*]:
+105: 0x0469 [0x48] [System] [7685*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x07F8
@@ -851,24 +851,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7771*]:
+114: 0x04EA [0x48] [System] [7773*]:
     → "The current battlefield clear time record for "[The Moonlit Path/Moon Reading/Waking the Beast/Battaru Royale/$26The Moonlit Path/$26Waking the Beast]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7770*]:
+117: 0x04F1 [0x48] [System] [7772*]:
     → "The current battlefield clear time record for "[The Moonlit Path/Moon Reading/Waking the Beast/Battaru Royale/$26The Moonlit Path/$26Waking the Beast]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7688*]:
+120: 0x04FD [0x48] [System] [7690*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7687*]:
+126: 0x0511 [0x48] [System] [7689*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -884,7 +884,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7663*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7665*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -1024,7 +1024,7 @@ SUBROUTINE_07E1:
 263: 0x07E4 [0x02] IF !(0* == 1*) GOTO 0x07F1
 264: 0x07EC [0x03] ExtData[1]->WorkLocal[0] = 4*
 265: 0x07F1 [0x01] GOTO 0x01A4
-266: 0x07F4 [0x48] [System] [7327*]:
+266: 0x07F4 [0x48] [System] [7329*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1392,7 +1392,7 @@ SUBROUTINE_0C35:
  84: 0x0C40 [0x01] GOTO 0x0C5E
  85: 0x0C43 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D0E
  86: 0x0C4B [0x1C] WAIT(15* ticks)
- 87: 0x0C4E [0x24] CREATE_DIALOG(message_id=7663*, default_option=1*, option_flags=0*)
+ 87: 0x0C4E [0x24] CREATE_DIALOG(message_id=7665*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0C55 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0C56 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D0E
@@ -1467,18 +1467,18 @@ SUBROUTINE_0D5B:
 144: 0x0D94 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DAF
 145: 0x0D9C [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 146: 0x0DA3 [0x15] Work_Zone[5] /= 60*
-147: 0x0DA8 [0x48] [System] [7665*]:
+147: 0x0DA8 [0x48] [System] [7667*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 148: 0x0DAB [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x0DAC [0x01] GOTO 0x0DB3
-150: 0x0DAF [0x48] [System] [7664*]:
+150: 0x0DAF [0x48] [System] [7666*]:
     → "Battlefield clear time: $3 second[/s]!"
 151: 0x0DB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DB3:
 152: 0x0DB3 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DC7
 153: 0x0DBB [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-154: 0x0DC0 [0x48] [System] [7769*]:
+154: 0x0DC0 [0x48] [System] [7771*]:
     → "You have broken the clear time record for "[The Moonlit Path/Moon Reading/Waking the Beast/Battaru Royale/$26The Moonlit Path/$26Waking the Beast]"!"
 155: 0x0DC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x0DC4 [0x01] GOTO 0x0DF0
@@ -1486,12 +1486,12 @@ SUBROUTINE_0DB3:
 158: 0x0DCF [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 159: 0x0DD4 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 160: 0x0DDB [0x15] Work_Zone[5] /= 60*
-161: 0x0DE0 [0x48] [System] [7667*]:
+161: 0x0DE0 [0x48] [System] [7669*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 162: 0x0DE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0DE4 [0x01] GOTO 0x0DF0
 164: 0x0DE7 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-165: 0x0DEC [0x48] [System] [7666*]:
+165: 0x0DEC [0x48] [System] [7668*]:
     → "The current battlefield clear time record is $3 second[/s]."
 166: 0x0DEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2217,7 +2217,7 @@ SUBROUTINE_10A1:
   9: 0x10EB [0x03] ExtData[1]->WorkLocal[35] = Work_Zone[3]
  10: 0x10F0 [0x03] ExtData[1]->WorkLocal[31] = Work_Zone[4]
  11: 0x10F5 [0x1A] CALL_SUBROUTINE(address=0x2A14)
- 12: 0x10F8 [0x24] CREATE_DIALOG(message_id=7663*, default_option=1*, option_flags=0*)
+ 12: 0x10F8 [0x24] CREATE_DIALOG(message_id=7665*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  13: 0x10FF [0x25] WAIT_DIALOG_SELECT()
  14: 0x1100 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x116F
@@ -2344,7 +2344,7 @@ SUBROUTINE_2BD3:
 
 ```
 # Dead code (unreachable instructions):
-     0x1178 [0x24] CREATE_DIALOG(message_id=7324*, default_option=1*, option_flags=0*)
+     0x1178 [0x24] CREATE_DIALOG(message_id=7326*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x117F [0x25] WAIT_DIALOG_SELECT()
      0x1180 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x118E
@@ -2416,10 +2416,10 @@ SUBROUTINE_2BD3:
      0x138D [0x79] LocalPlayer looks at Carbuncle (ID: 17473751/0x010AA0D7) (Basic look)
      0x1397 [0x27] REQ_SET(priority=0x0A, entity_id=Carbuncle (ID: 17473751/0x010AA0D7), tag_num=0x0E)
      0x139E [0x1C] WAIT(60* ticks)
-     0x13A1 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7814*]:
+     0x13A1 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7816*]:
     → "<Player>. Have you brought the power of the six sleeping gods?"
      0x13A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x13A9 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7815*]:
+     0x13A9 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7817*]:
     → "Infuse me with the energy..."
      0x13B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13B1 [0x79] LocalPlayer looks at Ifrit (ID: 17473756/0x010AA0DC) (Basic look)
@@ -2438,10 +2438,10 @@ SUBROUTINE_2BD3:
      0x141B [0x4A] Carbuncle (ID: 17473764/0x010AA0E4) looks at Ifrit (ID: 17473756/0x010AA0DC)
      0x1424 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Ifrit (ID: 17473756/0x010AA0DC), Ifrit (ID: 17473756/0x010AA0DC)], work=[86*, 0*]
      0x1435 [0x1C] WAIT(60* ticks)
-     0x1438 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7816*]:
+     0x1438 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7818*]:
     → "!?"
      0x143F [0x1C] WAIT(240* ticks)
-     0x1442 [0x2B] Ifrit (ID: 17473756/0x010AA0DC) [7817*]:
+     0x1442 [0x2B] Ifrit (ID: 17473756/0x010AA0DC) [7819*]:
     → "False god. You mar the name of the true deities."
      0x1449 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x144A [0x62] LOAD_EVENT_SCHEDULER: Load scheduler 0xFEFEFE00 with entities [Leviathan (ID: 17473760/0x010AA0E0), Leviathan (ID: 17473760/0x010AA0E0)], work=[88*, 0*]
@@ -2451,11 +2451,11 @@ SUBROUTINE_2BD3:
      0x148E [0x62] LOAD_EVENT_SCHEDULER: Load scheduler 0xFEFEFE00 with entities [Ramuh (ID: 17473757/0x010AA0DD), Ramuh (ID: 17473757/0x010AA0DD)], work=[91*, 0*]
      0x149F [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=121*
      0x14AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
-     0x14BF [0x2B] Carbuncle (ID: 17473763/0x010AA0E3) [7818*]:
+     0x14BF [0x2B] Carbuncle (ID: 17473763/0x010AA0E3) [7820*]:
     → "Ifrit!?"
      0x14C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14C7 [0x27] REQ_SET(priority=0x0A, entity_id=Carbuncle (ID: 17473761/0x010AA0E1), tag_num=0x04)
-     0x14CE [0x2B] Carbuncle (ID: 17473761/0x010AA0E1) [7819*]:
+     0x14CE [0x2B] Carbuncle (ID: 17473761/0x010AA0E1) [7821*]:
     → "How could this be? The old gods were not yet meant to awaken!"
      0x14D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14D6 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=121*
@@ -2484,7 +2484,7 @@ SUBROUTINE_2BD3:
      0x15D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
      0x15E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
      0x15FA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cast" with entities [Leviathan (ID: 17473760/0x010AA0E0), Leviathan (ID: 17473760/0x010AA0E0)]
-     0x1607 [0x2B] Leviathan (ID: 17473760/0x010AA0E0) [7820*]:
+     0x1607 [0x2B] Leviathan (ID: 17473760/0x010AA0E0) [7822*]:
     → "We allow the divided god to be filled with our power."
      0x160E [0x1C] WAIT(240* ticks)
      0x1611 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2493,7 +2493,7 @@ SUBROUTINE_2BD3:
      0x1640 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
      0x1651 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
      0x1662 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cast" with entities [Garuda (ID: 17473758/0x010AA0DE), Garuda (ID: 17473758/0x010AA0DE)]
-     0x166F [0x2B] Garuda (ID: 17473758/0x010AA0DE) [7821*]:
+     0x166F [0x2B] Garuda (ID: 17473758/0x010AA0DE) [7823*]:
     → "But the false gods will never have our strength."
      0x1676 [0x1C] WAIT(240* ticks)
      0x1679 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2502,7 +2502,7 @@ SUBROUTINE_2BD3:
      0x16A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
      0x16B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
      0x16CA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cast" with entities [Shiva (ID: 17473755/0x010AA0DB), Shiva (ID: 17473755/0x010AA0DB)]
-     0x16D7 [0x2B] Shiva (ID: 17473755/0x010AA0DB) [7822*]:
+     0x16D7 [0x2B] Shiva (ID: 17473755/0x010AA0DB) [7824*]:
     → "Those who came before shall remain, while those who came after shall perish..."
      0x16DE [0x1C] WAIT(240* ticks)
      0x16E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2511,7 +2511,7 @@ SUBROUTINE_2BD3:
      0x1710 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
      0x1721 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
      0x1732 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cast" with entities [Titan (ID: 17473759/0x010AA0DF), Titan (ID: 17473759/0x010AA0DF)]
-     0x173F [0x2B] Titan (ID: 17473759/0x010AA0DF) [7823*]:
+     0x173F [0x2B] Titan (ID: 17473759/0x010AA0DF) [7825*]:
     → "Our energy will return to us. No longer shall it serve the trickster."
      0x1746 [0x1C] WAIT(240* ticks)
      0x1749 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2520,7 +2520,7 @@ SUBROUTINE_2BD3:
      0x1778 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
      0x1789 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
      0x179A [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cast" with entities [Ramuh (ID: 17473757/0x010AA0DD), Ramuh (ID: 17473757/0x010AA0DD)]
-     0x17A7 [0x2B] Ramuh (ID: 17473757/0x010AA0DD) [7824*]:
+     0x17A7 [0x2B] Ramuh (ID: 17473757/0x010AA0DD) [7826*]:
     → "Return to the true gods!"
      0x17AE [0x1C] WAIT(270* ticks)
      0x17B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -2541,7 +2541,7 @@ SUBROUTINE_2BD3:
      0x1835 [0x4A] Carbuncle (ID: 17473762/0x010AA0E2) looks at Shiva (ID: 17473755/0x010AA0DB)
      0x183E [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "fout" with entities [EventEntity, EventEntity], work=[210*, 0*]
      0x184F [0x1C] WAIT(120* ticks)
-     0x1852 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7825*]:
+     0x1852 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7827*]:
     → "The fountain!"
      0x1859 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x185A [0x1C] WAIT(50* ticks)
@@ -2551,7 +2551,7 @@ SUBROUTINE_2BD3:
      0x188E [0x4A] Carbuncle (ID: 17473763/0x010AA0E3) looks at Shiva (ID: 17473755/0x010AA0DB)
      0x1897 [0x27] REQ_SET(priority=0x0A, entity_id=Carbuncle (ID: 17473761/0x010AA0E1), tag_num=0x09)
      0x189E [0x1C] WAIT(90* ticks)
-     0x18A1 [0x2B] Carbuncle (ID: 17473762/0x010AA0E2) [7826*]:
+     0x18A1 [0x2B] Carbuncle (ID: 17473762/0x010AA0E2) [7828*]:
     → "The sleeping gods are draining it of power..."
      0x18A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18A9 [0x1C] WAIT(30* ticks)
@@ -2561,19 +2561,19 @@ SUBROUTINE_2BD3:
      0x18C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
      0x18D6 [0x79] LocalPlayer looks at Carbuncle (ID: 17473751/0x010AA0D7) (Basic look)
      0x18E0 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Shiva (ID: 17473755/0x010AA0DB)
-     0x18E6 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7827*]:
+     0x18E6 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7829*]:
     → "I cannot allow this!"
      0x18ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18EE [0x27] REQ_SET(priority=0x0A, entity_id=Carbuncle (ID: 17473763/0x010AA0E3), tag_num=0x04)
-     0x18F5 [0x2B] Carbuncle (ID: 17473763/0x010AA0E3) [7828*]:
+     0x18F5 [0x2B] Carbuncle (ID: 17473763/0x010AA0E3) [7830*]:
     → "<Player>, you must dismiss the avatars!"
      0x18FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18FD [0x52] END_LOAD_SCHEDULER: End scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=121*
      0x190C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
-     0x191D [0x2B] Ifrit (ID: 17473756/0x010AA0DC) [7829*]:
+     0x191D [0x2B] Ifrit (ID: 17473756/0x010AA0DC) [7831*]:
     → "How amusing. Are you confused, mortal?"
      0x1924 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1925 [0x2B] Ifrit (ID: 17473756/0x010AA0DC) [7830*]:
+     0x1925 [0x2B] Ifrit (ID: 17473756/0x010AA0DC) [7832*]:
     → "Did you meet us in battle at the behest of this creature?"
      0x192C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x192D [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=121*
@@ -2582,7 +2582,7 @@ SUBROUTINE_2BD3:
      0x195E [0x4B] UPDATE_ENTITY_YAW(entity=Carbuncle (ID: 17473761/0x010AA0E1), yaw=16.9°*)
      0x1965 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "in00" with entities [Ifrit (ID: 17473756/0x010AA0DC), Ifrit (ID: 17473756/0x010AA0DC)], work=[209*, 0*]
      0x1976 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cast" with entities [Ifrit (ID: 17473756/0x010AA0DC), Ifrit (ID: 17473756/0x010AA0DC)]
-     0x1983 [0x2B] Ifrit (ID: 17473756/0x010AA0DC) [7831*]:
+     0x1983 [0x2B] Ifrit (ID: 17473756/0x010AA0DC) [7833*]:
     → "Now it is clear. Yet we will not be commanded by one such as you."
      0x198A [0x1C] WAIT(420* ticks)
      0x198D [0x4E] SET_ENTITY_HIDE_FLAG: Show Shiva (ID: 17473755/0x010AA0DB)
@@ -2603,12 +2603,12 @@ SUBROUTINE_2BD3:
      0x1A27 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
      0x1A38 [0x27] REQ_SET(priority=0x0A, entity_id=Carbuncle (ID: 17473764/0x010AA0E4), tag_num=0x04)
      0x1A3F [0x1C] WAIT(30* ticks)
-     0x1A42 [0x2B] Carbuncle (ID: 17473764/0x010AA0E4) [7832*]:
+     0x1A42 [0x2B] Carbuncle (ID: 17473764/0x010AA0E4) [7834*]:
     → "It's hopeless... There's only one thing left for me to do. Defeat the summoner!"
      0x1A49 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A4A [0x27] REQ_SET(priority=0x0A, entity_id=Carbuncle (ID: 17473761/0x010AA0E1), tag_num=0x06)
      0x1A51 [0x1C] WAIT(30* ticks)
-     0x1A54 [0x2B] Carbuncle (ID: 17473761/0x010AA0E1) [7833*]:
+     0x1A54 [0x2B] Carbuncle (ID: 17473761/0x010AA0E1) [7835*]:
     → "<Player>! You cannot control them! I'm sorry, but their connection to this world must be severed!"
      0x1A5B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A5C [0x1A] CALL_SUBROUTINE(address=0x27AB)
@@ -2632,16 +2632,16 @@ SUBROUTINE_2BD3:
      0x1AF0 [0x1A] CALL_SUBROUTINE(address=0x2748)
      0x1AF3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fe01" with entities [LocalPlayer, LocalPlayer], work=233*
      0x1B02 [0x02] IF !(ExtData[1]->WorkLocal[28] == 1*) GOTO 0x1B15
-     0x1B0A [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7777*]:
+     0x1B0A [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7779*]:
     → "Fenrir! Grant us your presence, if only for a while. Draw on the power of the avatars and show yourself to us!"
      0x1B11 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B12 [0x01] GOTO 0x1B30
      0x1B15 [0x02] IF !(ExtData[1]->WorkLocal[28] == 2*) GOTO 0x1B28
-     0x1B1D [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7777*]:
+     0x1B1D [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7779*]:
     → "Fenrir! Grant us your presence, if only for a while. Draw on the power of the avatars and show yourself to us!"
      0x1B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B25 [0x01] GOTO 0x1B30
-     0x1B28 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7778*]:
+     0x1B28 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7780*]:
     → "Fenrir! Grant us your presence, if only for a while. Draw on the power of the avatars and be reborn!"
      0x1B2F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B30 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fe02" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
@@ -2652,23 +2652,23 @@ SUBROUTINE_2BD3:
      0x1B67 [0x1C] WAIT(150* ticks)
      0x1B6A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fe05" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
      0x1B7B [0x1A] CALL_SUBROUTINE(address=0x2748)
-     0x1B7E [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7779*]:
+     0x1B7E [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7781*]:
     → "Raurrrghh! Who dares to summon me from the darkness of the void...? Is that you, Carbuncle!?"
      0x1B85 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B86 [0x52] END_LOAD_SCHEDULER: End scheduler "fe05" with entities [LocalPlayer, LocalPlayer], work=233*
      0x1B95 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fe06" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
      0x1BA6 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Fenrir (ID: 17473750/0x010AA0D6), Fenrir (ID: 17473750/0x010AA0D6)], work=[76*, 0*]
-     0x1BB7 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7780*]:
+     0x1BB7 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7782*]:
     → "Fenrir! Accept my power!"
      0x1BBE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1BBF [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7781*]:
+     0x1BBF [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7783*]:
     → "And lend us your strength for the sake of life on Vana'diel!"
      0x1BC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BC7 [0x52] END_LOAD_SCHEDULER: End scheduler "fe06" with entities [LocalPlayer, LocalPlayer], work=233*
      0x1BD6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "evt2" with entities [Fenrir (ID: 17473750/0x010AA0D6), Fenrir (ID: 17473750/0x010AA0D6)], work=18*
      0x1BE5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fe07" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
      0x1BF6 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "send" with entities [Fenrir (ID: 17473750/0x010AA0D6), Fenrir (ID: 17473750/0x010AA0D6)], work=[76*, 0*]
-     0x1C07 [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7782*]:
+     0x1C07 [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7784*]:
     → "Raurrrgh! Let us see if that life is worth saving! Do you have the courage to forge a new future?"
      0x1C0E [0x1C] WAIT(255* ticks)
      0x1C11 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s332" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
@@ -2752,31 +2752,31 @@ SUBROUTINE_2BD3:
      0x1EE4 [0x1C] WAIT(45* ticks)
      0x1EE7 [0x79] Carbuncle (ID: 17473751/0x010AA0D7) looks at LocalPlayer (Basic look)
      0x1EF1 [0x27] REQ_SET(priority=0x0A, entity_id=Carbuncle (ID: 17473751/0x010AA0D7), tag_num=0x12)
-     0x1EF8 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7841*]:
+     0x1EF8 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7843*]:
     → "..."
      0x1EFF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F00 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carbuncle (ID: 17473751/0x010AA0D7))
-     0x1F06 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7842*]:
+     0x1F06 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7844*]:
     → "<Player>... The sleeping gods do not exist to lead you..."
      0x1F0D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1F1F [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=121*
      0x1F2E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
-     0x1F3F [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7843*]:
+     0x1F3F [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7845*]:
     → "They exist to lead a lost god... My friends and I are here for you...for mortals..."
      0x1F46 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1F47 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7844*]:
+     0x1F47 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7846*]:
     → "There is...no longer...a god..."
      0x1F4E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F4F [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=121*
      0x1F5E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
-     0x1F6F [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7845*]:
+     0x1F6F [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7847*]:
     → "Please... The power...you have regained...from Ifrit and the others..."
      0x1F76 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1F77 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7846*]:
+     0x1F77 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7848*]:
     → "You must...return it...to the fountain..."
      0x1F7E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1F7F [0x24] CREATE_DIALOG(message_id=7847*, default_option=0*, option_flags=0*)
+     0x1F7F [0x24] CREATE_DIALOG(message_id=7849*, default_option=0*, option_flags=0*)
     → "Return the light to the fountain? [At once!/Not this time...]"
      0x1F86 [0x25] WAIT_DIALOG_SELECT()
      0x1F87 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2181
@@ -2804,10 +2804,10 @@ SUBROUTINE_2BD3:
      0x207E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x208F [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=121*
      0x209E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
-     0x20AF [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7848*]:
+     0x20AF [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7850*]:
     → "Thank you... You have made it possible for the children of Vana'diel..."
      0x20B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x20B7 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7849*]:
+     0x20B7 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7851*]:
     → "...to continue their existence unchanged..."
      0x20BE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20BF [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Carbuncle (ID: 17473751/0x010AA0D7), Carbuncle (ID: 17473751/0x010AA0D7)]
@@ -2833,7 +2833,7 @@ SUBROUTINE_2BD3:
      0x2181 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x24AB
      0x2189 [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=121*
      0x2198 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=[121*, 0*]
-     0x21A9 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7850*]:
+     0x21A9 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7852*]:
     → "...! Then I will...use the strength...remaining to me...!"
      0x21B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21B1 [0x6B] STOP_AND_IDLE: Carbuncle (ID: 17473761/0x010AA0E1) stops current action and resets to idle (animation="idl0")
@@ -2909,10 +2909,10 @@ SUBROUTINE_2BD3:
      0x2470 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x2481 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=200*
      0x2490 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
-     0x2495 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7851*]:
+     0x2495 [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7853*]:
     → "Mortals cannot...win against a god..."
      0x249C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x249D [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7852*]:
+     0x249D [0x2B] Carbuncle (ID: 17473751/0x010AA0D7) [7854*]:
     → "And yet...I have faith in you..."
      0x24A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x24A5 [0x05] Work_Zone[1] = 1
@@ -2945,14 +2945,14 @@ SUBROUTINE_2BD3:
      0x254E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fe08" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
      0x255F [0x1A] CALL_SUBROUTINE(address=0x2748)
      0x2562 [0x02] IF !(ExtData[1]->WorkLocal[28] == 2*) GOTO 0x257D
-     0x256A [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7784*]:
+     0x256A [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7786*]:
     → "That strength I sensed... That was you..."
      0x2571 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2572 [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7785*]:
+     0x2572 [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7787*]:
     → "Tell this to the little ones: I await our promised meeting."
      0x2579 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x257A [0x01] GOTO 0x2585
-     0x257D [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7783*]:
+     0x257D [0x2B] Fenrir (ID: 17473750/0x010AA0D6) [7785*]:
     → "I can see it. I can see the blazing lifeforce of Vana'diel."
      0x2584 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2585 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[26*, 0*]
@@ -2964,7 +2964,7 @@ SUBROUTINE_2BD3:
      0x25B1 [0x1A] CALL_SUBROUTINE(address=0x278A)
      0x25B4 [0x1C] WAIT(30* ticks)
      0x25B7 [0x1B] RETURN
-     0x25B8 [0x24] CREATE_DIALOG(message_id=7325*, default_option=1*, option_flags=0*)
+     0x25B8 [0x24] CREATE_DIALOG(message_id=7327*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x25BF [0x25] WAIT_DIALOG_SELECT()
      0x25C0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x25CE

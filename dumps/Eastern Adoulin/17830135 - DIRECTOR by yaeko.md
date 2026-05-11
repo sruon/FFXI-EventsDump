@@ -30,145 +30,145 @@
 |       5 | 0x0006      |           6 |
 |       6 | 0x007F      |         127 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x293F      |       10559 |
-|       9 | 0x2940      |       10560 |
+|       8 | 0x2941      |       10561 |
+|       9 | 0x2942      |       10562 |
 |      10 | 0x001E      |          30 |
 |      11 | 0x0014      |          20 |
-|      12 | 0x2941      |       10561 |
-|      13 | 0x2942      |       10562 |
-|      14 | 0x2943      |       10563 |
-|      15 | 0x2944      |       10564 |
+|      12 | 0x2943      |       10563 |
+|      13 | 0x2944      |       10564 |
+|      14 | 0x2945      |       10565 |
+|      15 | 0x2946      |       10566 |
 |      16 | 0x07F5      |        2037 |
 |      17 | 0x0028      |          40 |
-|      18 | 0x2945      |       10565 |
-|      19 | 0x2946      |       10566 |
+|      18 | 0x2947      |       10567 |
+|      19 | 0x2948      |       10568 |
 |      20 | 0x0251      |         593 |
 |      21 | 0x00FF      |         255 |
 |      22 | 0x003C      |          60 |
-|      23 | 0x2947      |       10567 |
+|      23 | 0x2949      |       10569 |
 |      24 | 0x0096      |         150 |
-|      25 | 0x2948      |       10568 |
+|      25 | 0x294A      |       10570 |
 |      26 | 0x0050      |          80 |
-|      27 | 0x2949      |       10569 |
-|      28 | 0x294A      |       10570 |
-|      29 | 0x294B      |       10571 |
-|      30 | 0x294C      |       10572 |
-|      31 | 0x294D      |       10573 |
-|      32 | 0x294E      |       10574 |
+|      27 | 0x294B      |       10571 |
+|      28 | 0x294C      |       10572 |
+|      29 | 0x294D      |       10573 |
+|      30 | 0x294E      |       10574 |
+|      31 | 0x294F      |       10575 |
+|      32 | 0x2950      |       10576 |
 |      33 | 0xFFFFFED4  |  4294966996 |
-|      34 | 0x294F      |       10575 |
-|      35 | 0x2950      |       10576 |
-|      36 | 0x2951      |       10577 |
-|      37 | 0x2952      |       10578 |
-|      38 | 0x2953      |       10579 |
-|      39 | 0x2954      |       10580 |
-|      40 | 0x2955      |       10581 |
-|      41 | 0x2956      |       10582 |
+|      34 | 0x2951      |       10577 |
+|      35 | 0x2952      |       10578 |
+|      36 | 0x2953      |       10579 |
+|      37 | 0x2954      |       10580 |
+|      38 | 0x2955      |       10581 |
+|      39 | 0x2956      |       10582 |
+|      40 | 0x2957      |       10583 |
+|      41 | 0x2958      |       10584 |
 |      42 | 0xFFFFFBCF  |  4294966223 |
 |      43 | 0xFFFFC49C  |  4294952092 |
 |      44 | 0x078D      |        1933 |
-|      45 | 0x2957      |       10583 |
-|      46 | 0x2958      |       10584 |
+|      45 | 0x2959      |       10585 |
+|      46 | 0x295A      |       10586 |
 |      47 | 0x005A      |          90 |
-|      48 | 0x2959      |       10585 |
-|      49 | 0x295A      |       10586 |
-|      50 | 0x295B      |       10587 |
+|      48 | 0x295B      |       10587 |
+|      49 | 0x295C      |       10588 |
+|      50 | 0x295D      |       10589 |
 |      51 | 0x02BD      |         701 |
 |      52 | 0x003F      |          63 |
 |      53 | 0x0002      |           2 |
-|      54 | 0x2961      |       10593 |
-|      55 | 0x2962      |       10594 |
+|      54 | 0x2963      |       10595 |
+|      55 | 0x2964      |       10596 |
 |      56 | 0x0044      |          68 |
-|      57 | 0x2963      |       10595 |
-|      58 | 0x2964      |       10596 |
-|      59 | 0x2965      |       10597 |
+|      57 | 0x2965      |       10597 |
+|      58 | 0x2966      |       10598 |
+|      59 | 0x2967      |       10599 |
 |      60 | 0x012C      |         300 |
-|      61 | 0x2966      |       10598 |
-|      62 | 0x2967      |       10599 |
-|      63 | 0x2968      |       10600 |
+|      61 | 0x2968      |       10600 |
+|      62 | 0x2969      |       10601 |
+|      63 | 0x296A      |       10602 |
 |      64 | 0x0078      |         120 |
 |      65 | 0x0008      |           8 |
 |      66 | 0x0320      |         800 |
 |      67 | 0x0834      |        2100 |
-|      68 | 0x2969      |       10601 |
-|      69 | 0x296A      |       10602 |
+|      68 | 0x296B      |       10603 |
+|      69 | 0x296C      |       10604 |
 |      70 | 0x07E8      |        2024 |
-|      71 | 0x296B      |       10603 |
-|      72 | 0x296C      |       10604 |
-|      73 | 0x296D      |       10605 |
-|      74 | 0x296E      |       10606 |
-|      75 | 0x296F      |       10607 |
-|      76 | 0x2970      |       10608 |
+|      71 | 0x296D      |       10605 |
+|      72 | 0x296E      |       10606 |
+|      73 | 0x296F      |       10607 |
+|      74 | 0x2970      |       10608 |
+|      75 | 0x2971      |       10609 |
+|      76 | 0x2972      |       10610 |
 |      77 | 0x6DA2      |       28066 |
-|      78 | 0x2971      |       10609 |
-|      79 | 0x2972      |       10610 |
-|      80 | 0x2973      |       10611 |
-|      81 | 0x2974      |       10612 |
-|      82 | 0x2975      |       10613 |
-|      83 | 0x2976      |       10614 |
-|      84 | 0x2977      |       10615 |
+|      78 | 0x2973      |       10611 |
+|      79 | 0x2974      |       10612 |
+|      80 | 0x2975      |       10613 |
+|      81 | 0x2976      |       10614 |
+|      82 | 0x2977      |       10615 |
+|      83 | 0x2978      |       10616 |
+|      84 | 0x2979      |       10617 |
 |      85 | 0x00C9      |         201 |
 |      86 | 0x006E      |         110 |
 |      87 | 0xFFFFFA24  |  4294965796 |
-|      88 | 0x2979      |       10617 |
-|      89 | 0x297A      |       10618 |
-|      90 | 0x297B      |       10619 |
-|      91 | 0x297C      |       10620 |
-|      92 | 0x297D      |       10621 |
-|      93 | 0x297E      |       10622 |
-|      94 | 0x297F      |       10623 |
-|      95 | 0x2980      |       10624 |
+|      88 | 0x297B      |       10619 |
+|      89 | 0x297C      |       10620 |
+|      90 | 0x297D      |       10621 |
+|      91 | 0x297E      |       10622 |
+|      92 | 0x297F      |       10623 |
+|      93 | 0x2980      |       10624 |
+|      94 | 0x2981      |       10625 |
+|      95 | 0x2982      |       10626 |
 |      96 | 0x0400      |        1024 |
-|      97 | 0x2981      |       10625 |
-|      98 | 0x2982      |       10626 |
-|      99 | 0x2983      |       10627 |
+|      97 | 0x2983      |       10627 |
+|      98 | 0x2984      |       10628 |
+|      99 | 0x2985      |       10629 |
 |     100 | 0x0064      |         100 |
 |     101 | 0x0383      |         899 |
 |     102 | 0x0AF3      |        2803 |
-|     103 | 0x2984      |       10628 |
+|     103 | 0x2986      |       10630 |
 |     104 | 0x003E      |          62 |
 |     105 | 0x009D      |         157 |
-|     106 | 0x2985      |       10629 |
-|     107 | 0x2986      |       10630 |
-|     108 | 0x2987      |       10631 |
-|     109 | 0x2988      |       10632 |
-|     110 | 0x2989      |       10633 |
-|     111 | 0x298A      |       10634 |
-|     112 | 0x298B      |       10635 |
-|     113 | 0x298C      |       10636 |
-|     114 | 0x298D      |       10637 |
-|     115 | 0x298E      |       10638 |
-|     116 | 0x298F      |       10639 |
+|     106 | 0x2987      |       10631 |
+|     107 | 0x2988      |       10632 |
+|     108 | 0x2989      |       10633 |
+|     109 | 0x298A      |       10634 |
+|     110 | 0x298B      |       10635 |
+|     111 | 0x298C      |       10636 |
+|     112 | 0x298D      |       10637 |
+|     113 | 0x298E      |       10638 |
+|     114 | 0x298F      |       10639 |
+|     115 | 0x2990      |       10640 |
+|     116 | 0x2991      |       10641 |
 |     117 | 0x00B4      |         180 |
 |     118 | 0x0CB4      |        3252 |
 |     119 | 0x0032      |          50 |
-|     120 | 0x2990      |       10640 |
-|     121 | 0x2991      |       10641 |
-|     122 | 0x2992      |       10642 |
-|     123 | 0x2993      |       10643 |
-|     124 | 0x2994      |       10644 |
-|     125 | 0x2995      |       10645 |
+|     120 | 0x2992      |       10642 |
+|     121 | 0x2993      |       10643 |
+|     122 | 0x2994      |       10644 |
+|     123 | 0x2995      |       10645 |
+|     124 | 0x2996      |       10646 |
+|     125 | 0x2997      |       10647 |
 |     126 | 0x06A4      |        1700 |
-|     127 | 0x2996      |       10646 |
-|     128 | 0x2997      |       10647 |
+|     127 | 0x2998      |       10648 |
+|     128 | 0x2999      |       10649 |
 |     129 | 0x0898      |        2200 |
-|     130 | 0x2998      |       10648 |
-|     131 | 0x2999      |       10649 |
-|     132 | 0x299A      |       10650 |
-|     133 | 0x299B      |       10651 |
-|     134 | 0x299C      |       10652 |
-|     135 | 0x299D      |       10653 |
+|     130 | 0x299A      |       10650 |
+|     131 | 0x299B      |       10651 |
+|     132 | 0x299C      |       10652 |
+|     133 | 0x299D      |       10653 |
+|     134 | 0x299E      |       10654 |
+|     135 | 0x299F      |       10655 |
 |     136 | 0x0046      |          70 |
 
 ## String References
 
-- **10629**: <Why dost thou think geomancers are aware of the lifestream and able to manipulate the forces of Indi and Geo?>
-- **10630**: <Thou appearest to be of the mind that thy control over the lifestream is due to thy dedication and research.>
-- **10631**: <It is contemptible beyond compare that thou hast forgotten why we bequeathed this power to thee.>
-- **10632**: <Children of Altana, thou seekest naught but destruction. We have always faced thee with fear and trepidation.>
-- **10633**: <Thy kind hath forgotten that thou art but one speck of a greater whole, and thus seek to leave thine indelible mark upon our flesh.>
-- **10634**: <Yet Sih was different. Sih believed that humanity's calling was to respect and understand us, and she felt that thy kind could carry out this most noble of goals.>
-- **10639**: <Thou dost speak like he did... Like Zacariah did... Then thou art upholding the oath we made him swear in centuries past. Prove thy dedication...in the land where he resides.>
+- **10631**: <Why dost thou think geomancers are aware of the lifestream and able to manipulate the forces of Indi and Geo?>
+- **10632**: <Thou appearest to be of the mind that thy control over the lifestream is due to thy dedication and research.>
+- **10633**: <It is contemptible beyond compare that thou hast forgotten why we bequeathed this power to thee.>
+- **10634**: <Children of Altana, thou seekest naught but destruction. We have always faced thee with fear and trepidation.>
+- **10635**: <Thy kind hath forgotten that thou art but one speck of a greater whole, and thus seek to leave thine indelible mark upon our flesh.>
+- **10636**: <Yet Sih was different. Sih believed that humanity's calling was to respect and understand us, and she felt that thy kind could carry out this most noble of goals.>
+- **10641**: <Thou dost speak like he did... Like Zacariah did... Then thou art upholding the oath we made him swear in centuries past. Prove thy dedication...in the land where he resides.>
 
 ## Events
 
@@ -399,12 +399,12 @@ SUBROUTINE_00CD:
  33: 0x00E8 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
  34: 0x00ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  35: 0x00FE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 36: 0x010D [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10559*]:
+ 36: 0x010D [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10561*]:
     → "May I help you? ...You wish for me to announce your prrresence to Ikhi Askamot?"
  37: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0115 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nhili Uvolep (ID: 17830120/0x011010E8), tag_num=0x22)
  39: 0x011C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nhili Uvolep (ID: 17830120/0x011010E8), tag_num=0x23)
- 40: 0x0123 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10560*]:
+ 40: 0x0123 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10562*]:
     → "<Player>!"
  41: 0x012A [0x79] Sylvie (ID: 17830137/0x011010F9) looks at LocalPlayer (Basic look)
  42: 0x0134 [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x03)
@@ -430,17 +430,17 @@ SUBROUTINE_0181:
  60: 0x01C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s172" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
  61: 0x01D9 [0x79] Sylvie (ID: 17830137/0x011010F9) looks at Nhili Uvolep (ID: 17830120/0x011010E8) (Basic look)
  62: 0x01E3 [0x1C] WAIT(20* ticks)
- 63: 0x01E6 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10561*]:
+ 63: 0x01E6 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10563*]:
     → "Nhili, <Player> is a geomancer, just like me. Please let us see Ikhi Askamot."
  64: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x01EE [0x52] END_LOAD_SCHEDULER: End scheduler "s172" with entities [LocalPlayer, LocalPlayer], work=660*
  66: 0x01FD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s174" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
  67: 0x020E [0x27] REQ_SET(priority=0x08, entity_id=Nhili Uvolep (ID: 17830120/0x011010E8), tag_num=0x33)
- 68: 0x0215 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10562*]:
+ 68: 0x0215 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10564*]:
     → "Ah, yes, dearrr Sylvie. I'd love to help, but she is quite busy these days..."
  69: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x021D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x11)
- 71: 0x0224 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10563*]:
+ 71: 0x0224 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10565*]:
     → "Please! Please! It's a matter of life or death!"
  72: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x022C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x12)
@@ -451,7 +451,7 @@ SUBROUTINE_0181:
  78: 0x0250 [0x27] REQ_SET(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x1F)
  79: 0x0257 [0x52] END_LOAD_SCHEDULER: End scheduler "s174" with entities [LocalPlayer, LocalPlayer], work=660*
  80: 0x0266 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s173" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
- 81: 0x0277 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10564*]:
+ 81: 0x0277 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10566*]:
     → "My goodness! Sylvie, daaarling, what are you doing way out here?"
  82: 0x027E [0x1C] WAIT(20* ticks)
  83: 0x0281 [0x79] Sylvie (ID: 17830137/0x011010F9) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8) (Basic look)
@@ -464,12 +464,12 @@ SUBROUTINE_0181:
  90: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x02BC [0x7B] Sylvie (ID: 17830137/0x011010F9) stops talking
  92: 0x02C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x40)
- 93: 0x02C8 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10565*]:
+ 93: 0x02C8 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10567*]:
     → "Lhaiso!"
  94: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x02D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x41)
  96: 0x02D7 [0x27] REQ_SET(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x17)
- 97: 0x02DE [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10566*]:
+ 97: 0x02DE [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10568*]:
     → "Are those...tears, my pet? Whatever could be wrong?"
  98: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x02E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -501,7 +501,7 @@ SUBROUTINE_0181:
 125: 0x03BF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
 126: 0x03CE [0x1C] WAIT(60* ticks)
 127: 0x03D1 [0x79] Obelailai (ID: 17830140/0x011010FC) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8) (Basic look)
-128: 0x03DB [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10567*]:
+128: 0x03DB [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10569*]:
     → "Well, this is quite the pickle for you then, no? To think, Hostenn missing, gone without a trace."
 129: 0x03E2 [0x1C] WAIT(150* ticks)
 130: 0x03E5 [0x52] END_LOAD_SCHEDULER: End scheduler "s175" with entities [LocalPlayer, LocalPlayer], work=660*
@@ -511,7 +511,7 @@ SUBROUTINE_0181:
 134: 0x0414 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8))
 135: 0x041A [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x041B [0x4A] Sylvie (ID: 17830137/0x011010F9) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8)
-137: 0x0424 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10568*]:
+137: 0x0424 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10570*]:
     → "A geomancer going missing can only mean one thing--he has incurred the wrath of nature herself. Tragic."
 138: 0x042B [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x042C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -526,12 +526,12 @@ SUBROUTINE_0181:
 148: 0x0467 [0x1C] WAIT(80* ticks)
 149: 0x046A [0x27] REQ_SET(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x17)
 150: 0x0471 [0x1C] WAIT(20* ticks)
-151: 0x0474 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10569*]:
+151: 0x0474 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10571*]:
     → "Oh dear, I have perhaps been a bit harsh. I meant no ill will, I assure you."
 152: 0x047B [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x047C [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8))
 154: 0x0482 [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x4D)
-155: 0x0489 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10570*]:
+155: 0x0489 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10572*]:
     → "N-no, it's all right. I'm just pleased that you understand how difficult this is for me."
 156: 0x0490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0491 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17830137/0x011010F9))
@@ -539,12 +539,12 @@ SUBROUTINE_0181:
 159: 0x04A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s178" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 160: 0x04B7 [0x79] LocalPlayer looks at Sylvie (ID: 17830137/0x011010F9) (Basic look)
 161: 0x04C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x28)
-162: 0x04C8 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10571*]:
+162: 0x04C8 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10573*]:
     → "I'm here to ask for Ikhi's aid--she's the reincarnation of the primal geomancer, Sih Renaye, right?"
 163: 0x04CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x04D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x29)
 165: 0x04D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x30)
-166: 0x04DE [0x2B] Sylvie (ID: 17830137/0x011010F9) [10572*]:
+166: 0x04DE [0x2B] Sylvie (ID: 17830137/0x011010F9) [10574*]:
     → "But it must be fate that brought me to you, great Lhaiso. Finally, something's gone right."
 167: 0x04E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x04E6 [0x52] END_LOAD_SCHEDULER: End scheduler "s178" with entities [LocalPlayer, LocalPlayer], work=660*
@@ -554,7 +554,7 @@ SUBROUTINE_0181:
 172: 0x0514 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x2B)
 173: 0x051B [0x79] Obelailai (ID: 17830140/0x011010FC) looks at Sylvie (ID: 17830137/0x011010F9) (Basic look)
 174: 0x0525 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x1A)
-175: 0x052C [0x2B] Sylvie (ID: 17830137/0x011010F9) [10573*]:
+175: 0x052C [0x2B] Sylvie (ID: 17830137/0x011010F9) [10575*]:
     → "P-please! I want you to help Daddy!"
 176: 0x0533 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0534 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x1B)
@@ -564,7 +564,7 @@ SUBROUTINE_0181:
 181: 0x0565 [0x79] Obelailai (ID: 17830140/0x011010FC) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8) (Basic look)
 182: 0x056F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x1C)
 183: 0x0576 [0x27] REQ_SET(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x19)
-184: 0x057D [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10574*]:
+184: 0x057D [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10576*]:
     → "Why, little Sylvie, of course I understand why you would come to me. Your emotions have truly touched me, however..."
 185: 0x0584 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x0585 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8))
@@ -575,27 +575,27 @@ SUBROUTINE_0181:
 191: 0x05B9 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
 192: 0x05BB [0x94] EventEntity->Render.Flags3 ^= 0x01
 193: 0x05C1 [0x27] REQ_SET(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x22)
-194: 0x05C8 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10575*]:
+194: 0x05C8 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10577*]:
     → "My best disciple, Ikhi, cannot help you. And of course, that means my aid is absolutely out of the question."
 195: 0x05CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x05D0 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8))
-197: 0x05D6 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10576*]:
+197: 0x05D6 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10578*]:
     → "B-but...why?"
 198: 0x05DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x05DE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 200: 0x05DF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Sylvie (ID: 17830137/0x011010F9) Render.Flags0 and Render.Flags3 conditions are met
 201: 0x05E4 [0x52] END_LOAD_SCHEDULER: End scheduler "s184" with entities [LocalPlayer, LocalPlayer], work=660*
 202: 0x05F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s181" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
-203: 0x0604 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10577*]:
+203: 0x0604 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10579*]:
     → "The legendary Sih Renaye became one with nature, causing rivers to change their course and trees to sprout tall in mere moments."
 204: 0x060B [0x23] WAIT_FOR_DIALOG_INTERACTION
-205: 0x060C [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10578*]:
+205: 0x060C [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10580*]:
     → "And then, together with her five disciples, she prevailed over the ferocious Velkk."
 206: 0x0613 [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x0614 [0x52] END_LOAD_SCHEDULER: End scheduler "s181" with entities [LocalPlayer, LocalPlayer], work=660*
 208: 0x0623 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s182" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 209: 0x0634 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0F)
-210: 0x063B [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10579*]:
+210: 0x063B [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10581*]:
     → "Why do you suppose this is? This is simply a personal theory, dear, but I think it is because she was not actually a person."
 211: 0x0642 [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x0643 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x10)
@@ -605,7 +605,7 @@ SUBROUTINE_0181:
 216: 0x0674 [0x79] LocalPlayer looks at Hemborok (ID: 17830139/0x011010FB) (Basic look)
 217: 0x067E [0x79] Sylvie (ID: 17830137/0x011010F9) looks at Hemborok (ID: 17830139/0x011010FB) (Basic look)
 218: 0x0688 [0x27] REQ_SET(priority=0x08, entity_id=Hemborok (ID: 17830139/0x011010FB), tag_num=0x07)
-219: 0x068F [0x2B] Hemborok (ID: 17830139/0x011010FB) [10580*]:
+219: 0x068F [0x2B] Hemborok (ID: 17830139/0x011010FB) [10582*]:
     → "Great Lhaiso, why do you deign to share your thoughts with these outsiders?"
 220: 0x0696 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x0697 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Hemborok (ID: 17830139/0x011010FB))
@@ -618,7 +618,7 @@ SUBROUTINE_0181:
 228: 0x06DD [0x79] LocalPlayer looks at Gregoirellaud (ID: 17830138/0x011010FA) (Basic look)
 229: 0x06E7 [0x79] Sylvie (ID: 17830137/0x011010F9) looks at Gregoirellaud (ID: 17830138/0x011010FA) (Basic look)
 230: 0x06F1 [0x27] REQ_SET(priority=0x08, entity_id=Gregoirellaud (ID: 17830138/0x011010FA), tag_num=0x07)
-231: 0x06F8 [0x2B] Gregoirellaud (ID: 17830138/0x011010FA) [10581*]:
+231: 0x06F8 [0x2B] Gregoirellaud (ID: 17830138/0x011010FA) [10583*]:
     → "And Sylvie, surely your father's companions are out looking for him."
 232: 0x06FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x0700 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Gregoirellaud (ID: 17830138/0x011010FA))
@@ -631,7 +631,7 @@ SUBROUTINE_0181:
 240: 0x073C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Obelailai (ID: 17830140/0x011010FC), tag_num=0x07)
 241: 0x0743 [0x4A] Sylvie (ID: 17830137/0x011010F9) looks at Obelailai (ID: 17830140/0x011010FC)
 242: 0x074C [0x4A] Lhaiso Neftereh (ID: 17830136/0x011010F8) looks at Obelailai (ID: 17830140/0x011010FC)
-243: 0x0755 [0x2B] Obelailai (ID: 17830140/0x011010FC) [10582*]:
+243: 0x0755 [0x2B] Obelailai (ID: 17830140/0x011010FC) [10584*]:
     → "It's not our place to look for him. He cast his lot with the pioneers, and so it is up to them to find him."
 244: 0x075C [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x075D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -643,7 +643,7 @@ SUBROUTINE_0181:
 251: 0x077C [0x52] END_LOAD_SCHEDULER: End scheduler "s186" with entities [LocalPlayer, LocalPlayer], work=660*
 252: 0x078B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s187" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 253: 0x079C [0x79] Lhaiso Neftereh (ID: 17830136/0x011010F8) looks at Sylvie (ID: 17830137/0x011010F9) (Basic look)
-254: 0x07A6 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10583*]:
+254: 0x07A6 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10585*]:
     → "So Sylvie, dearest, surely you can accept our position."
 255: 0x07AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x07AE [0x52] END_LOAD_SCHEDULER: End scheduler "s187" with entities [LocalPlayer, LocalPlayer], work=660*
@@ -652,7 +652,7 @@ SUBROUTINE_0181:
 259: 0x07D8 [0x4A] Lhaiso Neftereh (ID: 17830136/0x011010F8) looks at Sylvie (ID: 17830137/0x011010F9)
 260: 0x07E1 [0x79] LocalPlayer looks at Sylvie (ID: 17830137/0x011010F9) (Basic look)
 261: 0x07EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x40)
-262: 0x07F2 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10584*]:
+262: 0x07F2 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10586*]:
     → "I-I can't believe... This is because I'm of Zacariah's blood, isn't it? Fine. I'll go look for him myself!"
 263: 0x07F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x07FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x41)
@@ -669,7 +669,7 @@ SUBROUTINE_0181:
 275: 0x0862 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Obelailai (ID: 17830140/0x011010FC)
 276: 0x0868 [0x1C] WAIT(90* ticks)
 277: 0x086B [0x27] REQ_SET(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x18)
-278: 0x0872 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10585*]:
+278: 0x0872 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10587*]:
     → "Oh, the sweet thing has got it backwards. Our desire to help her is without question--we just don't have the ability to do so."
 279: 0x0879 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x087A [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8))
@@ -680,11 +680,11 @@ SUBROUTINE_0181:
 285: 0x08AA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lhaiso Neftereh (ID: 17830136/0x011010F8) Render.Flags0 and Render.Flags3 conditions are met
 286: 0x08AF [0x79] LocalPlayer looks at Lhaiso Neftereh (ID: 17830136/0x011010F8) (Basic look)
 287: 0x08B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x01)
-288: 0x08C0 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10586*]:
+288: 0x08C0 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10588*]:
     → "You there--yes, you. I can sense that you have a stronger bond with her than I--go in my stead and help save her father."
 289: 0x08C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x08C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x02)
-291: 0x08CF [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10587*]:
+291: 0x08CF [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10589*]:
     → "Hostenn was last seen in Morimar Basalt Fields, was he not? Then someone at the frontier station there might be able to tell you more."
 292: 0x08D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x08D7 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17830137/0x011010F9))
@@ -909,11 +909,11 @@ SUBROUTINE_0181:
 SUBROUTINE_0A1B:
  27: 0x0A1B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  28: 0x0A2C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 29: 0x0A3B [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10593*]:
+ 29: 0x0A3B [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10595*]:
     → "Ah, <Player>... Ikhi Askamot and Lhaiso Neftereh have been waiting for you."
  30: 0x0A42 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0A43 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nhili Uvolep (ID: 17830120/0x011010E8), tag_num=0x22)
- 32: 0x0A4A [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10594*]:
+ 32: 0x0A4A [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10596*]:
     → "I am afrrraid, however, that Lhaiso has taken ill. Please make your visit brrrief."
  33: 0x0A51 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0A52 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -956,11 +956,11 @@ SUBROUTINE_0A1B:
  71: 0x0B64 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  72: 0x0B75 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  73: 0x0B84 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hemborok (ID: 17830139/0x011010FB), tag_num=0x01)
- 74: 0x0B8B [0x2B] Hemborok (ID: 17830139/0x011010FB) [10595*]:
+ 74: 0x0B8B [0x2B] Hemborok (ID: 17830139/0x011010FB) [10597*]:
     → "Lhaiso, forgive my impudence, but I must be frank."
  75: 0x0B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0B93 [0x79] Gregoirellaud (ID: 17830138/0x011010FA) looks at Hemborok (ID: 17830139/0x011010FB) (Basic look)
- 77: 0x0B9D [0x2B] Hemborok (ID: 17830139/0x011010FB) [10596*]:
+ 77: 0x0B9D [0x2B] Hemborok (ID: 17830139/0x011010FB) [10598*]:
     → "You may have fallen ill because the higher power is angered at your assistance of the blood of the betrayer."
  78: 0x0BA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0BA5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hemborok (ID: 17830139/0x011010FB), tag_num=0x02)
@@ -968,14 +968,14 @@ SUBROUTINE_0A1B:
  81: 0x0BB3 [0x52] END_LOAD_SCHEDULER: End scheduler "s338" with entities [LocalPlayer, LocalPlayer], work=660*
  82: 0x0BC2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s337" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
  83: 0x0BD3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gregoirellaud (ID: 17830138/0x011010FA), tag_num=0x01)
- 84: 0x0BDA [0x2B] Gregoirellaud (ID: 17830138/0x011010FA) [10597*]:
+ 84: 0x0BDA [0x2B] Gregoirellaud (ID: 17830138/0x011010FA) [10599*]:
     → "I disagree. The higher power would not castigate her just because we aided another."
  85: 0x0BE1 [0x79] Ikhi Askamot (ID: 17830037/0x01101095) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8) (Basic look)
  86: 0x0BEB [0x4B] UPDATE_ENTITY_YAW(entity=Ikhi Askamot (ID: 17830037/0x01101095), yaw=1.6°*)
  87: 0x0BF2 [0x1C] WAIT(30* ticks)
  88: 0x0BF5 [0x79] Hemborok (ID: 17830139/0x011010FB) looks at Gregoirellaud (ID: 17830138/0x011010FA) (Basic look)
  89: 0x0BFF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x0C00 [0x2B] Gregoirellaud (ID: 17830138/0x011010FA) [10598*]:
+ 90: 0x0C00 [0x2B] Gregoirellaud (ID: 17830138/0x011010FA) [10600*]:
     → "No, what's more likely is that the betrayer's descendant poisoned her."
  91: 0x0C07 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0C08 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gregoirellaud (ID: 17830138/0x011010FA), tag_num=0x02)
@@ -986,7 +986,7 @@ SUBROUTINE_0A1B:
  97: 0x0C2B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s341" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
  98: 0x0C3C [0x79] Lhaiso Neftereh (ID: 17830136/0x011010F8) looks at Ikhi Askamot (ID: 17830037/0x01101095) (Basic look)
  99: 0x0C46 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0F)
-100: 0x0C4D [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10599*]:
+100: 0x0C4D [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10601*]:
     → "And Lhaiso, what do you think?"
 101: 0x0C54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0C55 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hemborok (ID: 17830139/0x011010FB), tag_num=0x04)
@@ -995,7 +995,7 @@ SUBROUTINE_0A1B:
 105: 0x0C6C [0x4A] Gregoirellaud (ID: 17830138/0x011010FA) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8)
 106: 0x0C75 [0x4A] Obelailai (ID: 17830140/0x011010FC) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8)
 107: 0x0C7E [0x1C] WAIT(20* ticks)
-108: 0x0C81 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10600*]:
+108: 0x0C81 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10602*]:
     → "I cannot quite put my finger on it...but it probably has to do with our total inability to stop the colonization of Ulbuka."
 109: 0x0C88 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x10)
 110: 0x0C8F [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [Door: (ID: 17830068/0x011010B4), Door: (ID: 17830068/0x011010B4)]
@@ -1040,7 +1040,7 @@ SUBROUTINE_0D48:
 147: 0x0DA1 [0x79] Lhaiso Neftereh (ID: 17830136/0x011010F8) looks at Obelailai (ID: 17830140/0x011010FC) (Basic look)
 148: 0x0DAB [0x27] REQ_SET(priority=0x08, entity_id=Obelailai (ID: 17830140/0x011010FC), tag_num=0x0A)
 149: 0x0DB2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lionardois (ID: 17830141/0x011010FD), tag_num=0x07)
-150: 0x0DB9 [0x2B] Obelailai (ID: 17830140/0x011010FC) [10601*]:
+150: 0x0DB9 [0x2B] Obelailai (ID: 17830140/0x011010FC) [10603*]:
     → "Look who it is! One of the pioneers who caused all this trouble to begin with!"
 151: 0x0DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x0DC1 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Obelailai (ID: 17830140/0x011010FC))
@@ -1049,7 +1049,7 @@ SUBROUTINE_0D48:
 155: 0x0DD8 [0x79] Gregoirellaud (ID: 17830138/0x011010FA) looks at Lionardois (ID: 17830141/0x011010FD) (Basic look)
 156: 0x0DE2 [0x79] LocalPlayer looks at Lionardois (ID: 17830141/0x011010FD) (Basic look)
 157: 0x0DEC [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
-158: 0x0DF2 [0x2B] Lionardois (ID: 17830141/0x011010FD) [10602*]:
+158: 0x0DF2 [0x2B] Lionardois (ID: 17830141/0x011010FD) [10604*]:
     → "This is why I was completely opposed to sharing the powers of the geomancer with one so intent on pillaging and defiling the land."
 159: 0x0DF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x0DFA [0x79] LocalPlayer looks at Lhaiso Neftereh (ID: 17830136/0x011010F8) (Basic look)
@@ -1069,7 +1069,7 @@ SUBROUTINE_0E61:
 172: 0x0E72 [0x27] REQ_SET(priority=0x08, entity_id=Obelailai (ID: 17830140/0x011010FC), tag_num=0x0B)
 173: 0x0E79 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lionardois (ID: 17830141/0x011010FD), tag_num=0x05)
 174: 0x0E80 [0x4B] UPDATE_ENTITY_YAW(entity=Obelailai (ID: 17830140/0x011010FC), yaw=11.1°*)
-175: 0x0E87 [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10603*]:
+175: 0x0E87 [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10605*]:
     → "That's enough out of you all. This [man/woman] is a guest of ourrrs."
 176: 0x0E8E [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0E8F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x10)
@@ -1080,7 +1080,7 @@ SUBROUTINE_0E61:
 182: 0x0ECA [0x79] Hemborok (ID: 17830139/0x011010FB) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8) (Basic look)
 183: 0x0ED4 [0x79] Lionardois (ID: 17830141/0x011010FD) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8) (Basic look)
 184: 0x0EDE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x11)
-185: 0x0EE5 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10604*]:
+185: 0x0EE5 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10606*]:
     → "Forgive me for not being able to give you a proper greeting, <Player>."
 186: 0x0EEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x0EED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x12)
@@ -1088,7 +1088,7 @@ SUBROUTINE_0E61:
 189: 0x0F03 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s340" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 190: 0x0F14 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gregoirellaud (ID: 17830138/0x011010FA), tag_num=0x0B)
 191: 0x0F1B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikhi Askamot (ID: 17830037/0x01101095), tag_num=0x1C)
-192: 0x0F22 [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10605*]:
+192: 0x0F22 [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10607*]:
     → "Lhaiso used the power of the Communion to converse with something greater than us...the higher power..."
 193: 0x0F29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x0F2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikhi Askamot (ID: 17830037/0x01101095), tag_num=0x1D)
@@ -1096,12 +1096,12 @@ SUBROUTINE_0E61:
 196: 0x0F3B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 197: 0x0F3C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Obelailai (ID: 17830140/0x011010FC) Render.Flags0 and Render.Flags3 conditions are met
 198: 0x0F41 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x11)
-199: 0x0F48 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10606*]:
+199: 0x0F48 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10608*]:
     → "I suppose I am so tired because the spell took the wind out of my sails."
 200: 0x0F4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x0F50 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x12)
 202: 0x0F57 [0x79] Obelailai (ID: 17830140/0x011010FC) looks at LocalPlayer (Basic look)
-203: 0x0F61 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10607*]:
+203: 0x0F61 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10609*]:
     → "<Player>, I called you to this manse today because I have something to bequeath unto you."
 204: 0x0F68 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x0F69 [0x79] Lhaiso Neftereh (ID: 17830136/0x011010F8) looks at LocalPlayer (Basic look)
@@ -1124,7 +1124,7 @@ SUBROUTINE_0FE6:
 220: 0x0FF3 [0x4A] Ikhi Askamot (ID: 17830037/0x01101095) looks at LocalPlayer
 221: 0x0FFC [0x79] Lhaiso Neftereh (ID: 17830136/0x011010F8) looks at Hemborok (ID: 17830139/0x011010FB) (Basic look)
 222: 0x1006 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hemborok (ID: 17830139/0x011010FB), tag_num=0x01)
-223: 0x100D [0x2B] Hemborok (ID: 17830139/0x011010FB) [10608*]:
+223: 0x100D [0x2B] Hemborok (ID: 17830139/0x011010FB) [10610*]:
     → "Is it wise to entrust this one with something so precious?"
 224: 0x1014 [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x1015 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hemborok (ID: 17830139/0x011010FB), tag_num=0x02)
@@ -1149,15 +1149,15 @@ SUBROUTINE_1078:
 242: 0x10A0 [0x79] Ikhi Askamot (ID: 17830037/0x01101095) looks at LocalPlayer (Basic look)
 243: 0x10AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikhi Askamot (ID: 17830037/0x01101095), tag_num=0x1E)
 244: 0x10B1 [0x03] Work_Zone[3] = 28066*
-245: 0x10B6 [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10609*]:
+245: 0x10B6 [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10611*]:
     → "Here...for you."
 246: 0x10BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x10BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hemborok (ID: 17830139/0x011010FB), tag_num=0x04)
 248: 0x10C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x09)
-249: 0x10CC [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10610*]:
+249: 0x10CC [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10612*]:
     → "Many assert that it was a grave mistake for geomancers to have lent their aid to the colonization effort."
 250: 0x10D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-251: 0x10D4 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10611*]:
+251: 0x10D4 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10613*]:
     → "But Ikhi and I were both in accord that this issue of opening up the continent is one that should be resolved with the pioneers, not in spite of them."
 252: 0x10DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x10DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0A)
@@ -1166,12 +1166,12 @@ SUBROUTINE_1078:
 256: 0x10F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikhi Askamot (ID: 17830037/0x01101095), tag_num=0x20)
 257: 0x10F8 [0x52] END_LOAD_SCHEDULER: End scheduler "s204" with entities [LocalPlayer, LocalPlayer], work=660*
 258: 0x1107 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s209" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
-259: 0x1118 [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10612*]:
+259: 0x1118 [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10614*]:
     → "Nature--the higher power--has strrriven for eons to reconcile the irreconcilable within her loving embrace."
 260: 0x111F [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x1120 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikhi Askamot (ID: 17830037/0x01101095), tag_num=0x21)
 262: 0x1127 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikhi Askamot (ID: 17830037/0x01101095), tag_num=0x1C)
-263: 0x112E [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10613*]:
+263: 0x112E [0x2B] Ikhi Askamot (ID: 17830037/0x01101095) [10615*]:
     → "We, too, must follow her example."
 264: 0x1135 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x1136 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ikhi Askamot (ID: 17830037/0x01101095), tag_num=0x1D)
@@ -1190,10 +1190,10 @@ SUBROUTINE_1078:
 SUBROUTINE_11B1:
 277: 0x11B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0C)
 278: 0x11B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x01)
-279: 0x11BF [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10614*]:
+279: 0x11BF [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10616*]:
     → "As both a pioneer and a geomancer, you stand at the crossroads of two disparate worlds."
 280: 0x11C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-281: 0x11C7 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10615*]:
+281: 0x11C7 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10617*]:
     → "I hope, my dear, that you will continue to work with us to find an answer."
 282: 0x11CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 283: 0x11CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x02)
@@ -1506,15 +1506,15 @@ SUBROUTINE_1258:
  32: 0x13A9 [0x79] Sylvie (ID: 17830137/0x011010F9) looks at Nhili Uvolep (ID: 17830120/0x011010E8) (Basic look)
  33: 0x13B3 [0x79] LocalPlayer looks at Nhili Uvolep (ID: 17830120/0x011010E8) (Basic look)
  34: 0x13BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nhili Uvolep (ID: 17830120/0x011010E8), tag_num=0x21)
- 35: 0x13C4 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10617*]:
+ 35: 0x13C4 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10619*]:
     → "<Player>...and Sylvie! You come at the purrrfect time. Lhaiso has been asking for you."
  36: 0x13CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x13CC [0x79] Nhili Uvolep (ID: 17830120/0x011010E8) looks at LocalPlayer (Basic look)
- 38: 0x13D6 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10618*]:
+ 38: 0x13D6 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10620*]:
     → "Please, go right in...and when you rrreturn, allow me to inquire as to her physical state."
  39: 0x13DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x13DE [0x79] Nhili Uvolep (ID: 17830120/0x011010E8) looks at Sylvie (ID: 17830137/0x011010F9) (Basic look)
- 41: 0x13E8 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10619*]:
+ 41: 0x13E8 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10621*]:
     → "For you see, she has shut herself in her room and rrrefuses to allow even her most trusted servants entry."
  42: 0x13EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x13F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nhili Uvolep (ID: 17830120/0x011010E8), tag_num=0x22)
@@ -1558,7 +1558,7 @@ SUBROUTINE_14D4:
 SUBROUTINE_151D:
  76: 0x151D [0x1C] WAIT(20* ticks)
  77: 0x1520 [0x79] LocalPlayer looks at Nhili Uvolep (ID: 17830120/0x011010E8) (Basic look)
- 78: 0x152A [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10620*]:
+ 78: 0x152A [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10622*]:
     → "<Player>... You in particularrr have piqued her interest. Please, make sure she is well."
  79: 0x1531 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x1532 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -1602,11 +1602,11 @@ SUBROUTINE_159A:
 116: 0x165F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x11)
 117: 0x1666 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x12)
 118: 0x166D [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17830137/0x011010F9))
-119: 0x1673 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10621*]:
+119: 0x1673 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10623*]:
     → "Sylvie... <Player>... Thank you for coming."
 120: 0x167A [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x167B [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x0C)
-122: 0x1682 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10622*]:
+122: 0x1682 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10624*]:
     → "Lhaiso! A-are you all right?"
 123: 0x1689 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x168A [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17830137/0x011010F9))
@@ -1614,7 +1614,7 @@ SUBROUTINE_159A:
 126: 0x169F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s215" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 127: 0x16B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x19)
 128: 0x16B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0F)
-129: 0x16BE [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10623*]:
+129: 0x16BE [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10625*]:
     → "There is something...I need to share. And I know that the two of you would understand me more easily than anyone else."
 130: 0x16C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x16C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x10)
@@ -1625,7 +1625,7 @@ SUBROUTINE_159A:
 136: 0x16E7 [0x52] END_LOAD_SCHEDULER: End scheduler "s215" with entities [LocalPlayer, LocalPlayer], work=660*
 137: 0x16F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s216" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 138: 0x1707 [0x27] REQ_SET(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x1A)
-139: 0x170E [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10624*]:
+139: 0x170E [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10626*]:
     → "Forgive me for cutting to the quick, but my body is quite frail of late."
 140: 0x1715 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x1716 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8))
@@ -1633,15 +1633,15 @@ SUBROUTINE_159A:
 143: 0x1723 [0x7B] Lhaiso Neftereh (ID: 17830136/0x011010F8) stops talking
 144: 0x1728 [0x4B] UPDATE_ENTITY_YAW(entity=Lhaiso Neftereh (ID: 17830136/0x011010F8), yaw=5.6°*)
 145: 0x172F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0D)
-146: 0x1736 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10625*]:
+146: 0x1736 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10627*]:
     → "Back in the basalt fields...when I used the primal geomancer's bell..."
 147: 0x173D [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x173E [0x52] END_LOAD_SCHEDULER: End scheduler "s216" with entities [LocalPlayer, LocalPlayer], work=660*
 149: 0x174D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s217" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
-150: 0x175E [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10626*]:
+150: 0x175E [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10628*]:
     → "I think that when I called out to nature, I awoke the higher power that had been sleeping within Adoulin for eons."
 151: 0x1765 [0x23] WAIT_FOR_DIALOG_INTERACTION
-152: 0x1766 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10627*]:
+152: 0x1766 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10629*]:
     → "We have incurred its wrath--by the way we have destroyed nature with every step we make into Ulbuka."
 153: 0x176D [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x176E [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
@@ -1653,7 +1653,7 @@ SUBROUTINE_159A:
 160: 0x17A5 [0xA5] EventEntity->Flags3.BallistaTeam |= 0x08  // Set bit 3 of BallistaTeam
 161: 0x17A7 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
 162: 0x17A9 [0x52] END_LOAD_SCHEDULER: End scheduler "s217" with entities [LocalPlayer, LocalPlayer], work=660*
-163: 0x17B8 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10628*]:
+163: 0x17B8 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10630*]:
     → "Just the other night, when I began to ring the fabled bell..."
 164: 0x17BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x17C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0E)
@@ -1682,16 +1682,16 @@ SUBROUTINE_159A:
 188: 0x1864 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s200" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 189: 0x1875 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 190: 0x1886 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-191: 0x1895 [0x1D] PRINT_EVENT_MESSAGE(message_id=10629*)
+191: 0x1895 [0x1D] PRINT_EVENT_MESSAGE(message_id=10631*)
     → "<Why dost thou think geomancers are aware of the lifestream and able to manipulate the forces of Indi and Geo?>"
 192: 0x1898 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x1899 [0x52] END_LOAD_SCHEDULER: End scheduler "s200" with entities [LocalPlayer, LocalPlayer], work=660*
 194: 0x18A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s222" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
-195: 0x18B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10630*)
+195: 0x18B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10632*)
     → "<Thou appearest to be of the mind that thy control over the lifestream is due to thy dedication and research.>"
 196: 0x18BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x18BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0F)
-198: 0x18C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10631*)
+198: 0x18C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10633*)
     → "<It is contemptible beyond compare that thou hast forgotten why we bequeathed this power to thee.>"
 199: 0x18C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x18C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x10)
@@ -1700,16 +1700,16 @@ SUBROUTINE_159A:
 203: 0x18D9 [0x52] END_LOAD_SCHEDULER: End scheduler "s222" with entities [LocalPlayer, LocalPlayer], work=660*
 204: 0x18E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s223" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 205: 0x18F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x12)
-206: 0x1900 [0x1D] PRINT_EVENT_MESSAGE(message_id=10632*)
+206: 0x1900 [0x1D] PRINT_EVENT_MESSAGE(message_id=10634*)
     → "<Children of Altana, thou seekest naught but destruction. We have always faced thee with fear and trepidation.>"
 207: 0x1903 [0x23] WAIT_FOR_DIALOG_INTERACTION
-208: 0x1904 [0x1D] PRINT_EVENT_MESSAGE(message_id=10633*)
+208: 0x1904 [0x1D] PRINT_EVENT_MESSAGE(message_id=10635*)
     → "<Thy kind hath forgotten that thou art but one speck of a greater whole, and thus seek to leave thine indelible mark upon our flesh.>"
 209: 0x1907 [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x1908 [0x52] END_LOAD_SCHEDULER: End scheduler "s223" with entities [LocalPlayer, LocalPlayer], work=660*
 211: 0x1917 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s233" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 212: 0x1928 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x11)
-213: 0x192F [0x1D] PRINT_EVENT_MESSAGE(message_id=10634*)
+213: 0x192F [0x1D] PRINT_EVENT_MESSAGE(message_id=10636*)
     → "<Yet Sih was different. Sih believed that humanity's calling was to respect and understand us, and she felt that thy kind could carry out this most noble of goals.>"
 214: 0x1932 [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x1933 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x12)
@@ -1717,10 +1717,10 @@ SUBROUTINE_159A:
 217: 0x1949 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s220" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 218: 0x195A [0x79] Lhaiso Neftereh (ID: 17830136/0x011010F8) looks at ??? (ID: 17830142/0x011010FE) (Basic look)
 219: 0x1964 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x01)
-220: 0x196B [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10635*]:
+220: 0x196B [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10637*]:
     → "I know, perhaps more than anyone else, that it was our fault that the pioneering initiative was not stopped."
 221: 0x1972 [0x23] WAIT_FOR_DIALOG_INTERACTION
-222: 0x1973 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10636*]:
+222: 0x1973 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10638*]:
     → "But please, hear me out--pioneering is a must if Adoulin is to survive!"
 223: 0x197A [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x197B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x02)
@@ -1729,10 +1729,10 @@ SUBROUTINE_159A:
 227: 0x19A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x03)
 228: 0x19A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x04)
 229: 0x19B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x09)
-230: 0x19B7 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10637*]:
+230: 0x19B7 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10639*]:
     → "As the heir to the primal geomancer Sih Renaye's legacy, I have come to this conclusion even in light of the respect and understanding I have for nature!"
 231: 0x19BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-232: 0x19BF [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10638*]:
+232: 0x19BF [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10640*]:
     → "I know that we must press on...if we are to live to see another century."
 233: 0x19C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x19C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0A)
@@ -1740,7 +1740,7 @@ SUBROUTINE_159A:
 236: 0x19DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s226" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 237: 0x19EE [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
 238: 0x19F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0B)
-239: 0x19FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10639*)
+239: 0x19FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10641*)
     → "<Thou dost speak like he did... Like Zacariah did... Then thou art upholding the oath we made him swear in centuries past. Prove thy dedication...in the land where he resides.>"
 240: 0x19FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x0C)
 241: 0x1A04 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1780,24 +1780,24 @@ SUBROUTINE_159A:
 275: 0x1B26 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 276: 0x1B37 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
 277: 0x1B46 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x11)
-278: 0x1B4D [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10640*]:
+278: 0x1B4D [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10642*]:
     → "That is what the higher power told me...and I am no longer able to ring this most sacred of bells."
 279: 0x1B54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x1B55 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x12)
 281: 0x1B5C [0x52] END_LOAD_SCHEDULER: End scheduler "s205" with entities [LocalPlayer, LocalPlayer], work=660*
 282: 0x1B6B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s218" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
-283: 0x1B7C [0x2B] Sylvie (ID: 17830137/0x011010F9) [10641*]:
+283: 0x1B7C [0x2B] Sylvie (ID: 17830137/0x011010F9) [10643*]:
     → "N-no..."
 284: 0x1B83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x1B84 [0x52] END_LOAD_SCHEDULER: End scheduler "s218" with entities [LocalPlayer, LocalPlayer], work=660*
 286: 0x1B93 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s219" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 287: 0x1BA4 [0x27] REQ_SET(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x1A)
-288: 0x1BAB [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10642*]:
+288: 0x1BAB [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10644*]:
     → "Yet I am not the only one. Ikhi was unable to call forth its power as well. She has gathered the other geomancers of our order in an attempt to perform the Communion..."
 289: 0x1BB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x1BB3 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8))
 291: 0x1BB9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x11)
-292: 0x1BC0 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10643*]:
+292: 0x1BC0 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10645*]:
     → "But they will surely fail. That is why I called the two of you."
 293: 0x1BC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x1BC8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x12)
@@ -1806,7 +1806,7 @@ SUBROUTINE_159A:
 297: 0x1BEF [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
 298: 0x1BF5 [0x79] Lhaiso Neftereh (ID: 17830136/0x011010F8) looks at Sylvie (ID: 17830137/0x011010F9) (Basic look)
 299: 0x1BFF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x1A)
-300: 0x1C06 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10644*]:
+300: 0x1C06 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10646*]:
     → "What the higher power taught to Zacariah...it was how to become one with the lifestream, was it not?"
 301: 0x1C0D [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x1C0E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x1B)
@@ -1815,7 +1815,7 @@ SUBROUTINE_159A:
 305: 0x1C2B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s228" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 306: 0x1C3C [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
 307: 0x1C42 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x19)
-308: 0x1C49 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10645*]:
+308: 0x1C49 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10647*]:
     → "Then you, Sylvie...as a direct descendant of Zacariah, you may be able to get the higher power to respond to your call."
 309: 0x1C50 [0x23] WAIT_FOR_DIALOG_INTERACTION
 310: 0x1C51 [0x52] END_LOAD_SCHEDULER: End scheduler "s228" with entities [LocalPlayer, LocalPlayer], work=660*
@@ -1835,7 +1835,7 @@ SUBROUTINE_1CC5:
 322: 0x1CCF [0x79] Sylvie (ID: 17830137/0x011010F9) looks at LocalPlayer (Basic look)
 323: 0x1CD9 [0x4B] UPDATE_ENTITY_YAW(entity=Sylvie (ID: 17830137/0x011010F9), yaw=9.3°*)
 324: 0x1CE0 [0x27] REQ_SET(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x28)
-325: 0x1CE7 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10646*]:
+325: 0x1CE7 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10648*]:
     → "And <Player>...as one who walks the path of both pioneer and geomancer, your heartfelt feelings will surely call out to it."
 326: 0x1CEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 327: 0x1CEF [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8))
@@ -1844,7 +1844,7 @@ SUBROUTINE_1CC5:
 330: 0x1CFB [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
 331: 0x1D00 [0x7B] Lhaiso Neftereh (ID: 17830136/0x011010F8) stops talking
 332: 0x1D05 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x11)
-333: 0x1D0C [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10647*]:
+333: 0x1D0C [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10649*]:
     → "It should be...something I do together with the other...geomancers...but..."
 334: 0x1D13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 335: 0x1D14 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x12)
@@ -1865,7 +1865,7 @@ SUBROUTINE_1D7F:
 348: 0x1D90 [0x79] Sylvie (ID: 17830137/0x011010F9) looks at Lhaiso Neftereh (ID: 17830136/0x011010F8) (Basic look)
 349: 0x1D9A [0x4B] UPDATE_ENTITY_YAW(entity=Sylvie (ID: 17830137/0x011010F9), yaw=12.1°*)
 350: 0x1DA1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x13)
-351: 0x1DA8 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10648*]:
+351: 0x1DA8 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10650*]:
     → "I just cannot...I am faltering, I..."
 352: 0x1DAF [0x1C] WAIT(60* ticks)
 353: 0x1DB2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1874,7 +1874,7 @@ SUBROUTINE_1D7F:
 356: 0x1DC7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s231" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 357: 0x1DD8 [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x7D)
 358: 0x1DDF [0x23] WAIT_FOR_DIALOG_INTERACTION
-359: 0x1DE0 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10649*]:
+359: 0x1DE0 [0x2B] Lhaiso Neftereh (ID: 17830136/0x011010F8) [10651*]:
     → "Please, take the bell and...go with Sylvie to...to where Zacariah sleeps."
 360: 0x1DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x1DE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x14)
@@ -1885,7 +1885,7 @@ SUBROUTINE_1D7F:
 366: 0x1E0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s232" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 367: 0x1E1F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lhaiso Neftereh (ID: 17830136/0x011010F8), tag_num=0x15)
 368: 0x1E26 [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x49)
-369: 0x1E2D [0x2B] Sylvie (ID: 17830137/0x011010F9) [10650*]:
+369: 0x1E2D [0x2B] Sylvie (ID: 17830137/0x011010F9) [10652*]:
     → "Lhaiso!"
 370: 0x1E34 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17830137/0x011010F9))
 371: 0x1E3A [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x10)
@@ -1917,7 +1917,7 @@ SUBROUTINE_1D7F:
 397: 0x1EE6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s221" with entities [LocalPlayer, LocalPlayer], work=[660*, 0*]
 398: 0x1EF7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 399: 0x1F08 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-400: 0x1F17 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10651*]:
+400: 0x1F17 [0x2B] Nhili Uvolep (ID: 17830120/0x011010E8) [10653*]:
     → "Lhaiso has fallen into a deep slumberrr. The mages from the Order of Janniston have placed a moratorium on anyone entering or leaving her chamber."
 401: 0x1F1E [0x1C] WAIT(50* ticks)
 402: 0x1F21 [0x79] Nhili Uvolep (ID: 17830120/0x011010E8) looks at LocalPlayer (Basic look)
@@ -1937,13 +1937,13 @@ SUBROUTINE_1D7F:
 SUBROUTINE_1F93:
 415: 0x1F93 [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x7C)
 416: 0x1F9A [0x27] REQ_SET(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x4C)
-417: 0x1FA1 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10652*]:
+417: 0x1FA1 [0x2B] Sylvie (ID: 17830137/0x011010F9) [10654*]:
     → "<Player>, I think you and I know what we have to do."
 418: 0x1FA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 419: 0x1FA9 [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
 420: 0x1FAF [0x2A] GET_REQ_LEVEL(level=8, entity_id=Sylvie (ID: 17830137/0x011010F9))
 421: 0x1FB5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x11)
-422: 0x1FBC [0x2B] Sylvie (ID: 17830137/0x011010F9) [10653*]:
+422: 0x1FBC [0x2B] Sylvie (ID: 17830137/0x011010F9) [10655*]:
     → "It's back to Cirdas Caverns, where Daddy and Zacariah are buried!"
 423: 0x1FC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 424: 0x1FC4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sylvie (ID: 17830137/0x011010F9), tag_num=0x12)

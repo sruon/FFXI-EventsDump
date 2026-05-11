@@ -21,8 +21,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2AB4      |       10932 |
-|       2 | 0x2AB5      |       10933 |
+|       1 | 0x2AB6      |       10934 |
+|       2 | 0x2AB7      |       10935 |
 
 ## Events
 
@@ -70,10 +70,10 @@
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
-  2: 0x000D [0x2B] EventEntity [10932*]:
+  2: 0x000D [0x2B] EventEntity [10934*]:
     → "It seems those disgusting "maws" have appeared in several rrregions. Have you seen one yet?"
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0015 [0x2B] EventEntity [10933*]:
+  4: 0x0015 [0x2B] EventEntity [10935*]:
     → "Nyaaa, just thinking about them makes my furrr stand on end."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT

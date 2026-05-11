@@ -22,17 +22,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1C99      |        7321 |
+|       1 | 0x1C9B      |        7323 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1C9A      |        7322 |
+|       3 | 0x1C9C      |        7324 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0004      |           4 |
 |       6 | 0x000F      |          15 |
-|       7 | 0x1C9C      |        7324 |
-|       8 | 0x1C9D      |        7325 |
-|       9 | 0x1C9B      |        7323 |
-|      10 | 0x1C9E      |        7326 |
-|      11 | 0x1CA1      |        7329 |
+|       7 | 0x1C9E      |        7326 |
+|       8 | 0x1C9F      |        7327 |
+|       9 | 0x1C9D      |        7325 |
+|      10 | 0x1CA0      |        7328 |
+|      11 | 0x1CA3      |        7331 |
 |      12 | 0x0002      |           2 |
 |      13 | 0x0005      |           5 |
 |      14 | 0x0006      |           6 |
@@ -41,20 +41,20 @@
 |      17 | 0x00A5      |         165 |
 |      18 | 0x0078      |         120 |
 |      19 | 0x00C8      |         200 |
-|      20 | 0x1C9F      |        7327 |
-|      21 | 0x1CA0      |        7328 |
+|      20 | 0x1CA1      |        7329 |
+|      21 | 0x1CA2      |        7330 |
 
 ## String References
 
-- **7321**: Images of various locales flutter through your mind upon peering into the haze.
-- **7322**: What will you do? [Stalk prey as a monipulator./Participate in Domination./Leave Monstrosity's clutches./Quit.]
-- **7323**: Proceed to $8?
-- **7324**: Endeavor to $8 fitted with the shackles of being level $1?
-- **7325**: The celestial defenders of justice shall strip you of any instincts that exceed the cost limit should you continue.
-- **7326**: Proceed? [Yes./No.]
-- **7327**: Stop participating in Monstrosity?
-- **7328**: Stop participating? [Yes./No.]
-- **7329**: $8LG1I7iH Where in $8? [Point One./Point Two./Point Three./Point Four./Point Five./Nowhere.]
+- **7323**: Images of various locales flutter through your mind upon peering into the haze.
+- **7324**: What will you do? [Stalk prey as a monipulator./Participate in Domination./Leave Monstrosity's clutches./Quit.]
+- **7325**: Proceed to $8?
+- **7326**: Endeavor to $8 fitted with the shackles of being level $1?
+- **7327**: The celestial defenders of justice shall strip you of any instincts that exceed the cost limit should you continue.
+- **7328**: Proceed? [Yes./No.]
+- **7329**: Stop participating in Monstrosity?
+- **7330**: Stop participating? [Yes./No.]
+- **7331**: $8LG1I7iH Where in $8? [Point One./Point Two./Point Three./Point Four./Point Five./Nowhere.]
 
 ## Events
 
@@ -137,7 +137,7 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[1] = 0*
-  1: 0x0006 [0x48] [System] [7321*]:
+  1: 0x0006 [0x48] [System] [7323*]:
     → "Images of various locales flutter through your mind upon peering into the haze."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x05] ExtData[1]->WorkLocal[0] = 1
@@ -150,7 +150,7 @@
  10: 0x002B [0x03] ExtData[1]->WorkLocal[8] = 0*
  11: 0x0030 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=1*, condition_work_offset=1*)
  12: 0x0037 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x024F
- 13: 0x003F [0x24] CREATE_DIALOG(message_id=7322*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 13: 0x003F [0x24] CREATE_DIALOG(message_id=7324*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "What will you do? [Stalk prey as a monipulator./Participate in Domination./Leave Monstrosity's clutches./Quit.]"
  14: 0x0046 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0047 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AF
@@ -170,28 +170,28 @@
  29: 0x0099 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[3]
  30: 0x009E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
  31: 0x00A3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
- 32: 0x00A8 [0x48] [System] [7324*]:
+ 32: 0x00A8 [0x48] [System] [7326*]:
     → "Endeavor to $8 fitted with the shackles of being level $1?"
  33: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00AC [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x00B8
- 35: 0x00B4 [0x48] [System] [7325*]:
+ 35: 0x00B4 [0x48] [System] [7327*]:
     → "The celestial defenders of justice shall strip you of any instincts that exceed the cost limit should you continue."
  36: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00B8 [0x01] GOTO 0x00C4
  38: 0x00BB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 39: 0x00C0 [0x48] [System] [7323*]:
+ 39: 0x00C0 [0x48] [System] [7325*]:
     → "Proceed to $8?"
  40: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00C4:
- 41: 0x00C4 [0x24] CREATE_DIALOG(message_id=7326*, default_option=0*, option_flags=0*)
+ 41: 0x00C4 [0x24] CREATE_DIALOG(message_id=7328*, default_option=0*, option_flags=0*)
     → "Proceed? [Yes./No.]"
  42: 0x00CB [0x25] WAIT_DIALOG_SELECT()
  43: 0x00CC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0198
  44: 0x00D4 [0x03] ExtData[1]->WorkLocal[9] = 0*
  45: 0x00D9 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0138
  46: 0x00E1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 47: 0x00E6 [0x24] CREATE_DIALOG(message_id=7329*, default_option=0*, option_flags=0*)
+ 47: 0x00E6 [0x24] CREATE_DIALOG(message_id=7331*, default_option=0*, option_flags=0*)
     → "$8LG1I7iH Where in $8? [Point One./Point Two./Point Three./Point Four./Point Five./Nowhere.]"
  48: 0x00ED [0x25] WAIT_DIALOG_SELECT()
  49: 0x00EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F9
@@ -234,10 +234,10 @@ SUBROUTINE_01A9:
  80: 0x01AF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01BA
  81: 0x01B7 [0x01] GOTO 0x024C
  82: 0x01BA [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0239
- 83: 0x01C2 [0x48] [System] [7327*]:
+ 83: 0x01C2 [0x48] [System] [7329*]:
     → "Stop participating in Monstrosity?"
  84: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x01C6 [0x24] CREATE_DIALOG(message_id=7328*, default_option=0*, option_flags=0*)
+ 85: 0x01C6 [0x24] CREATE_DIALOG(message_id=7330*, default_option=0*, option_flags=0*)
     → "Stop participating? [Yes./No.]"
  86: 0x01CD [0x25] WAIT_DIALOG_SELECT()
  87: 0x01CE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x022B

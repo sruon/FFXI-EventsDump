@@ -24,77 +24,77 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x01F4      |         500 |
-|       1 | 0x1C4C      |        7244 |
-|       2 | 0x1C4D      |        7245 |
+|       1 | 0x1C4E      |        7246 |
+|       2 | 0x1C4F      |        7247 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x01FF      |         511 |
-|       6 | 0x1C53      |        7251 |
-|       7 | 0x1C54      |        7252 |
+|       6 | 0x1C55      |        7253 |
+|       7 | 0x1C56      |        7254 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x18FE      |        6398 |
-|      10 | 0x1C55      |        7253 |
-|      11 | 0x1C4E      |        7246 |
-|      12 | 0x1C4F      |        7247 |
+|       9 | 0x1900      |        6400 |
+|      10 | 0x1C57      |        7255 |
+|      11 | 0x1C50      |        7248 |
+|      12 | 0x1C51      |        7249 |
 |      13 | 0x0032      |          50 |
-|      14 | 0x1C50      |        7248 |
-|      15 | 0x1C51      |        7249 |
-|      16 | 0x1C52      |        7250 |
-|      17 | 0x1C56      |        7254 |
-|      18 | 0x1C57      |        7255 |
-|      19 | 0x1C5C      |        7260 |
+|      14 | 0x1C52      |        7250 |
+|      15 | 0x1C53      |        7251 |
+|      16 | 0x1C54      |        7252 |
+|      17 | 0x1C58      |        7256 |
+|      18 | 0x1C59      |        7257 |
+|      19 | 0x1C5E      |        7262 |
 |      20 | 0x0005      |           5 |
 |      21 | 0x00C8      |         200 |
-|      22 | 0x1C71      |        7281 |
-|      23 | 0x1C72      |        7282 |
-|      24 | 0x1C6A      |        7274 |
-|      25 | 0x1C6B      |        7275 |
-|      26 | 0x1C6C      |        7276 |
-|      27 | 0x1C6D      |        7277 |
-|      28 | 0x1C6F      |        7279 |
+|      22 | 0x1C73      |        7283 |
+|      23 | 0x1C74      |        7284 |
+|      24 | 0x1C6C      |        7276 |
+|      25 | 0x1C6D      |        7277 |
+|      26 | 0x1C6E      |        7278 |
+|      27 | 0x1C6F      |        7279 |
+|      28 | 0x1C71      |        7281 |
 |      29 | 0x0003      |           3 |
-|      30 | 0x1C6E      |        7278 |
-|      31 | 0x1C59      |        7257 |
-|      32 | 0x1C58      |        7256 |
-|      33 | 0x1C60      |        7264 |
-|      34 | 0x1C5F      |        7263 |
-|      35 | 0x1C61      |        7265 |
-|      36 | 0x1C5D      |        7261 |
-|      37 | 0x1C5E      |        7262 |
-|      38 | 0x1C5B      |        7259 |
+|      30 | 0x1C70      |        7280 |
+|      31 | 0x1C5B      |        7259 |
+|      32 | 0x1C5A      |        7258 |
+|      33 | 0x1C62      |        7266 |
+|      34 | 0x1C61      |        7265 |
+|      35 | 0x1C63      |        7267 |
+|      36 | 0x1C5F      |        7263 |
+|      37 | 0x1C60      |        7264 |
+|      38 | 0x1C5D      |        7261 |
 
 ## String References
 
-- **6398**: You do not have enough gil.
-- **7244**: Welcome to Purrrgonorgo, pardner! How'd ya like to try yer hand at some clammin'? It'll only cost ya a mere $0 gil!
-- **7245**: Ready to get clammin'? [I was born to clam./Clamming's for wimps!/What is all this clamming?]
-- **7246**: What's clammin'? What arrre you, one of them city folk? Where do you think clams come from, [boy/girl], some magical clam factory in the sky? If ya want a clam, you hafta dig it from the sand!
-- **7247**: Now if ya want, I can let ya borrow this $3. Use it, and you'll be swimmin' in shellfish!
-- **7248**: Once ya dig 'em up, jus' pop all the clams into the bucket that comes with the kit. That tin beauty'll hold up near $1 ponzes.
-- **7249**: When you've had enough clammin' and you'rrre ready to thrrrow in the towel, jus' mosey on over here and I'll wrap yer clams up for the trip back to the mainland.
-- **7250**: So, whaddaya say?
-- **7251**: Spoken like a true clammer! Here's yer $3.
-- **7252**: Rememberrr, I'm loanin' ya this kit outta the kindness of my heart. Ya don't go leavin' this here island untils you've given her back to me, hear?
-- **7253**: Well, that jus' leaves more clams fer me now, don't it?
-- **7254**: Had enough clammin' fer one day now, have we?
-- **7255**: Quit yer clammin'? [I'm all clammed out./I've still got a few clams in me./Clammin' confuses me...]
-- **7256**: Alrighty then. Let me git yer clams wrrrapped up fer the voy-age home.
-- **7257**: Here ya go! Ya'll come back now, hear?
-- **7259**: You git yer bag ready, pardner? Well alrighty then. Here'rrre yer clams.
-- **7260**: What the... There ain't no clams in this here bucket o' yers! What? Was the clammin' too much fer ya? Well, come on back when ya think you've got the guts to be a real clammer.
-- **7261**: Why you ungrateful sonnuva... You gone busted a hole in my bucket! An' that was my grandpappy's favorite one!
-- **7262**: Gimme that $3 back right now, [mister/missy]. Dagnabbit, this here's gonna take up on three hours to fix.
-- **7263**: I'd say this bucket here weighs about $0 ponze[/s]. Be careful how much you be puttin' in that baby. You bust my bucket and I'll pound yer noggin into next Firesday.
-- **7264**: Whaddaya think I am, stoopid? There ain't no clams in this here bucket! It don't weigh nuthin'!
-- **7265**: Try lookin' fer seashells by the seashore. That's where ya'll find the clams hidin'.
-- **7274**: Well, I'll be a buffalo at a barrrbeque! You be one mighty-fine clammer...for a city-[boy/girl].
-- **7275**: I thinks I can trust the likes of you with this new fandangled bucket. It can hold up to $3 ponzes!
-- **7276**: Whaddaya say, parrrdner? Wanna keep on clammin' with this new baby?
-- **7277**: Move your catch to the new bucket? [Yes./No.]
-- **7278**: Why, you ain't nuthin' but a yellow-bellied... <Sigh>... Alrighty then. Let me git yer clams wrrrapped up fer the voy-age home.
-- **7279**: That's the spirit! Now git back out there!
-- **7281**: Why, this darn bucket's heavier than my grandpappy's gallstones. I'm gonna have a helluva time wrrrappin' all these goodies up fer ya.
-- **7282**: Here ya go! Ya'll come back now, hear?
+- **6400**: You do not have enough gil.
+- **7246**: Welcome to Purrrgonorgo, pardner! How'd ya like to try yer hand at some clammin'? It'll only cost ya a mere $0 gil!
+- **7247**: Ready to get clammin'? [I was born to clam./Clamming's for wimps!/What is all this clamming?]
+- **7248**: What's clammin'? What arrre you, one of them city folk? Where do you think clams come from, [boy/girl], some magical clam factory in the sky? If ya want a clam, you hafta dig it from the sand!
+- **7249**: Now if ya want, I can let ya borrow this $3. Use it, and you'll be swimmin' in shellfish!
+- **7250**: Once ya dig 'em up, jus' pop all the clams into the bucket that comes with the kit. That tin beauty'll hold up near $1 ponzes.
+- **7251**: When you've had enough clammin' and you'rrre ready to thrrrow in the towel, jus' mosey on over here and I'll wrap yer clams up for the trip back to the mainland.
+- **7252**: So, whaddaya say?
+- **7253**: Spoken like a true clammer! Here's yer $3.
+- **7254**: Rememberrr, I'm loanin' ya this kit outta the kindness of my heart. Ya don't go leavin' this here island untils you've given her back to me, hear?
+- **7255**: Well, that jus' leaves more clams fer me now, don't it?
+- **7256**: Had enough clammin' fer one day now, have we?
+- **7257**: Quit yer clammin'? [I'm all clammed out./I've still got a few clams in me./Clammin' confuses me...]
+- **7258**: Alrighty then. Let me git yer clams wrrrapped up fer the voy-age home.
+- **7259**: Here ya go! Ya'll come back now, hear?
+- **7261**: You git yer bag ready, pardner? Well alrighty then. Here'rrre yer clams.
+- **7262**: What the... There ain't no clams in this here bucket o' yers! What? Was the clammin' too much fer ya? Well, come on back when ya think you've got the guts to be a real clammer.
+- **7263**: Why you ungrateful sonnuva... You gone busted a hole in my bucket! An' that was my grandpappy's favorite one!
+- **7264**: Gimme that $3 back right now, [mister/missy]. Dagnabbit, this here's gonna take up on three hours to fix.
+- **7265**: I'd say this bucket here weighs about $0 ponze[/s]. Be careful how much you be puttin' in that baby. You bust my bucket and I'll pound yer noggin into next Firesday.
+- **7266**: Whaddaya think I am, stoopid? There ain't no clams in this here bucket! It don't weigh nuthin'!
+- **7267**: Try lookin' fer seashells by the seashore. That's where ya'll find the clams hidin'.
+- **7276**: Well, I'll be a buffalo at a barrrbeque! You be one mighty-fine clammer...for a city-[boy/girl].
+- **7277**: I thinks I can trust the likes of you with this new fandangled bucket. It can hold up to $3 ponzes!
+- **7278**: Whaddaya say, parrrdner? Wanna keep on clammin' with this new baby?
+- **7279**: Move your catch to the new bucket? [Yes./No.]
+- **7280**: Why, you ain't nuthin' but a yellow-bellied... <Sigh>... Alrighty then. Let me git yer clams wrrrapped up fer the voy-age home.
+- **7281**: That's the spirit! Now git back out there!
+- **7283**: Why, this darn bucket's heavier than my grandpappy's gallstones. I'm gonna have a helluva time wrrrappin' all these goodies up fer ya.
+- **7284**: Here ya go! Ya'll come back now, hear?
 
 ## Events
 
@@ -150,10 +150,10 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x03] Work_Zone[2] = 500*
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
     → "Welcome to Purrrgonorgo, pardner! How'd ya like to try yer hand at some clammin'? It'll only cost ya a mere $0 gil!"
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000F [0x24] CREATE_DIALOG(message_id=7245*, default_option=1*, option_flags=0*)
+  4: 0x000F [0x24] CREATE_DIALOG(message_id=7247*, default_option=1*, option_flags=0*)
     → "Ready to get clammin'? [I was born to clam./Clamming's for wimps!/What is all this clamming?]"
   5: 0x0016 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0017 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0053
@@ -162,16 +162,16 @@
   9: 0x0022 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  10: 0x0024 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0041
  11: 0x002C [0x03] Work_Zone[2] = 511*
- 12: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
+ 12: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
     → "Spoken like a true clammer! Here's yer $3."
  13: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+ 14: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "Rememberrr, I'm loanin' ya this kit outta the kindness of my heart. Ya don't go leavin' this here island untils you've given her back to me, hear?"
  15: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0039 [0x03] Work_Zone[1] = 1*
  17: 0x003E [0x01] GOTO 0x0050
  18: 0x0041 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x0050
- 19: 0x0049 [0x48] [System] [6398*]:
+ 19: 0x0049 [0x48] [System] [6400*]:
     → "You do not have enough gil."
  20: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x004D [0x01] GOTO 0x0050
@@ -179,27 +179,27 @@
 SUBROUTINE_0050:
  22: 0x0050 [0x01] GOTO 0x0093
  23: 0x0053 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0062
- 24: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+ 24: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
     → "Well, that jus' leaves more clams fer me now, don't it?"
  25: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x005F [0x01] GOTO 0x0093
  27: 0x0062 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0093
- 28: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
+ 28: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
     → "What's clammin'? What arrre you, one of them city folk? Where do you think clams come from, [boy/girl], some magical clam factory in the sky? If ya want a clam, you hafta dig it from the sand!"
  29: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x006E [0x03] Work_Zone[2] = 511*
- 31: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+ 31: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
     → "Now if ya want, I can let ya borrow this $3. Use it, and you'll be swimmin' in shellfish!"
  32: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0077 [0x03] Work_Zone[2] = 511*
  34: 0x007C [0x03] Work_Zone[3] = 50*
- 35: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
+ 35: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
     → "Once ya dig 'em up, jus' pop all the clams into the bucket that comes with the kit. That tin beauty'll hold up near $1 ponzes."
  36: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
+ 37: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
     → "When you've had enough clammin' and you'rrre ready to thrrrow in the towel, jus' mosey on over here and I'll wrap yer clams up for the trip back to the mainland."
  38: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+ 39: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
     → "So, whaddaya say?"
  40: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x008D [0x01] GOTO 0x000F
@@ -250,10 +250,10 @@ SUBROUTINE_0093:
 
 ```
   0: 0x0095 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
+  1: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
     → "Had enough clammin' fer one day now, have we?"
   2: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x009E [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x009E [0x24] CREATE_DIALOG(message_id=7257*, default_option=1*, option_flags=0*)
     → "Quit yer clammin'? [I'm all clammed out./I've still got a few clams in me./Clammin' confuses me...]"
   4: 0x00A5 [0x25] WAIT_DIALOG_SELECT()
   5: 0x00A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x013F
@@ -261,7 +261,7 @@ SUBROUTINE_0093:
   7: 0x00AF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   8: 0x00B1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   9: 0x00B3 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00C7
- 10: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+ 10: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "What the... There ain't no clams in this here bucket o' yers! What? Was the clammin' too much fer ya? Well, come on back when ya think you've got the guts to be a real clammer."
  11: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00BF [0x03] Work_Zone[1] = 2*
@@ -269,37 +269,37 @@ SUBROUTINE_0093:
  14: 0x00C7 [0x07] Work_Zone[2] += 5*
  15: 0x00CC [0x02] IF !(Work_Zone[2] < Work_Zone[4]) GOTO 0x012F
  16: 0x00D4 [0x02] IF !(Work_Zone[4] < 200*) GOTO 0x00EC
- 17: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
+ 17: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
     → "Why, this darn bucket's heavier than my grandpappy's gallstones. I'm gonna have a helluva time wrrrappin' all these goodies up fer ya."
  18: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
+ 19: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7284*)
     → "Here ya go! Ya'll come back now, hear?"
  20: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00E4 [0x03] Work_Zone[1] = 2*
  22: 0x00E9 [0x01] GOTO 0x012C
- 23: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
+ 23: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
     → "Well, I'll be a buffalo at a barrrbeque! You be one mighty-fine clammer...for a city-[boy/girl]."
  24: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+ 25: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "I thinks I can trust the likes of you with this new fandangled bucket. It can hold up to $3 ponzes!"
  26: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
+ 27: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
     → "Whaddaya say, parrrdner? Wanna keep on clammin' with this new baby?"
  28: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x00F8 [0x24] CREATE_DIALOG(message_id=7277*, default_option=0*, option_flags=0*)
+ 29: 0x00F8 [0x24] CREATE_DIALOG(message_id=7279*, default_option=0*, option_flags=0*)
     → "Move your catch to the new bucket? [Yes./No.]"
  30: 0x00FF [0x25] WAIT_DIALOG_SELECT()
  31: 0x0100 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0114
- 32: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
+ 32: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
     → "That's the spirit! Now git back out there!"
  33: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x010C [0x03] Work_Zone[1] = 3*
  35: 0x0111 [0x01] GOTO 0x012C
  36: 0x0114 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x012C
- 37: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
+ 37: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
     → "Why, you ain't nuthin' but a yellow-bellied... <Sigh>... Alrighty then. Let me git yer clams wrrrapped up fer the voy-age home."
  38: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+ 39: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → "Here ya go! Ya'll come back now, hear?"
  40: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0124 [0x03] Work_Zone[1] = 2*
@@ -307,10 +307,10 @@ SUBROUTINE_0093:
 
 SUBROUTINE_012C:
  43: 0x012C [0x01] GOTO 0x013C
- 44: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+ 44: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "Alrighty then. Let me git yer clams wrrrapped up fer the voy-age home."
  45: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+ 46: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → "Here ya go! Ya'll come back now, hear?"
  47: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0137 [0x03] Work_Zone[1] = 2*
@@ -321,18 +321,18 @@ SUBROUTINE_013C:
  51: 0x0147 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  52: 0x0149 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  53: 0x014B [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x015A
- 54: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
+ 54: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
     → "Whaddaya think I am, stoopid? There ain't no clams in this here bucket! It don't weigh nuthin'!"
  55: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0157 [0x01] GOTO 0x015E
- 57: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+ 57: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → "I'd say this bucket here weighs about $0 ponze[/s]. Be careful how much you be puttin' in that baby. You bust my bucket and I'll pound yer noggin into next Firesday."
  58: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_015E:
  59: 0x015E [0x01] GOTO 0x0170
  60: 0x0161 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0170
- 61: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
+ 61: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
     → "Try lookin' fer seashells by the seashore. That's where ya'll find the clams hidin'."
  62: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x016D [0x01] GOTO 0x0170
@@ -363,11 +363,11 @@ SUBROUTINE_0170:
 
 ```
   0: 0x0172 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
+  1: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
     → "Why you ungrateful sonnuva... You gone busted a hole in my bucket! An' that was my grandpappy's favorite one!"
   2: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x017B [0x03] Work_Zone[2] = 511*
-  4: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
+  4: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
     → "Gimme that $3 back right now, [mister/missy]. Dagnabbit, this here's gonna take up on three hours to fix."
   5: 0x0183 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0184 [0x21] END_EVENT
@@ -396,7 +396,7 @@ SUBROUTINE_0170:
 ```
   0: 0x0186 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x018B [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
+  2: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
     → "You git yer bag ready, pardner? Well alrighty then. Here'rrre yer clams."
   3: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0190 [0x21] END_EVENT

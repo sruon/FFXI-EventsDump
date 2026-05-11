@@ -30,16 +30,16 @@
 |       6 | 0x0027      |          39 |
 |       7 | 0x0003      |           3 |
 |       8 | 0x0004      |           4 |
-|       9 | 0x1EE1      |        7905 |
+|       9 | 0x1EE3      |        7907 |
 |      10 | 0x06B5      |        1717 |
-|      11 | 0x1EE5      |        7909 |
-|      12 | 0x1EE2      |        7906 |
+|      11 | 0x1EE7      |        7911 |
+|      12 | 0x1EE4      |        7908 |
 
 ## String References
 
-- **7905**: [Only the thinnest layer of snow covers the ground here/A fair quantity of snow has accumulated here/The large deposits of snow here seem ready to give way at any moment]...
-- **7906**: What will you do? [Nothing./Load firesand./Remove firesand./Set the $5.]
-- **7909**: The chamber of the $5 [contains only a pinch of firesand/contains a small lump of firesand/is filled halfway with firesand/is filled to the brim with firesand/is overflowing with firesand]...
+- **7907**: [Only the thinnest layer of snow covers the ground here/A fair quantity of snow has accumulated here/The large deposits of snow here seem ready to give way at any moment]...
+- **7908**: What will you do? [Nothing./Load firesand./Remove firesand./Set the $5.]
+- **7911**: The chamber of the $5 [contains only a pinch of firesand/contains a small lump of firesand/is filled halfway with firesand/is filled to the brim with firesand/is overflowing with firesand]...
 
 ## Events
 
@@ -118,19 +118,19 @@
  14: 0x0045 [0x03] Work_Zone[4] = 4*
 
 SUBROUTINE_004A:
- 15: 0x004A [0x48] [System] [7905*]:
+ 15: 0x004A [0x48] [System] [7907*]:
     → "[Only the thinnest layer of snow covers the ground here/A fair quantity of snow has accumulated here/The large deposits of snow here seem ready to give way at any moment]..."
  16: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x004E [0x1C] WAIT(1* ticks)
  18: 0x0051 [0x03] Work_Zone[2] = 1717*
  19: 0x0056 [0x03] Work_Zone[3] = 1717*
  20: 0x005B [0x1C] WAIT(1* ticks)
- 21: 0x005E [0x48] [System] [7909*]:
+ 21: 0x005E [0x48] [System] [7911*]:
     → "The chamber of the $5 [contains only a pinch of firesand/contains a small lump of firesand/is filled halfway with firesand/is filled to the brim with firesand/is overflowing with firesand]..."
  22: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0062:
- 23: 0x0062 [0x24] CREATE_DIALOG(message_id=7906*, default_option=0*, option_flags=0*)
+ 23: 0x0062 [0x24] CREATE_DIALOG(message_id=7908*, default_option=0*, option_flags=0*)
     → "What will you do? [Nothing./Load firesand./Remove firesand./Set the $5.]"
  24: 0x0069 [0x25] WAIT_DIALOG_SELECT()
  25: 0x006A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007B
@@ -153,7 +153,7 @@ SUBROUTINE_00C2:
  40: 0x0102 [0x03] Work_Zone[4] = 4*
 
 SUBROUTINE_0107:
- 41: 0x0107 [0x48] [System] [7909*]:
+ 41: 0x0107 [0x48] [System] [7911*]:
     → "The chamber of the $5 [contains only a pinch of firesand/contains a small lump of firesand/is filled halfway with firesand/is filled to the brim with firesand/is overflowing with firesand]..."
  42: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x010B [0x06] ExtData[1]->WorkLocal[1] = 0

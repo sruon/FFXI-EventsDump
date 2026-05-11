@@ -5,9 +5,9 @@
 | Field            | Value                |
 |------------------|----------------------|
 | Zone             | Port Jeuno (ID: 246) |
-| Block Size       | 9848 bytes           |
+| Block Size       | 9860 bytes           |
 | Total Events     | 28                   |
-| References Count | 324                  |
+| References Count | 327                  |
 
 ## List of Events
 
@@ -46,178 +46,178 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x23B4      |        9140 |
+|       0 | 0x23B6      |        9142 |
 |       1 | 0x0032      |          50 |
 |       2 | 0x0008      |           8 |
-|       3 | 0x23B5      |        9141 |
+|       3 | 0x23B7      |        9143 |
 |       4 | 0x0033      |          51 |
-|       5 | 0x23B6      |        9142 |
+|       5 | 0x23B8      |        9144 |
 |       6 | 0x0034      |          52 |
-|       7 | 0x23B7      |        9143 |
-|       8 | 0x23B8      |        9144 |
-|       9 | 0x23B9      |        9145 |
-|      10 | 0x23BA      |        9146 |
-|      11 | 0x23BB      |        9147 |
-|      12 | 0x23BC      |        9148 |
-|      13 | 0x23BD      |        9149 |
-|      14 | 0x23BE      |        9150 |
+|       7 | 0x23B9      |        9145 |
+|       8 | 0x23BA      |        9146 |
+|       9 | 0x23BB      |        9147 |
+|      10 | 0x23BC      |        9148 |
+|      11 | 0x23BD      |        9149 |
+|      12 | 0x23BE      |        9150 |
+|      13 | 0x23BF      |        9151 |
+|      14 | 0x23C0      |        9152 |
 |      15 | 0x0079      |         121 |
-|      16 | 0x23BF      |        9151 |
-|      17 | 0x23C0      |        9152 |
-|      18 | 0x23C1      |        9153 |
-|      19 | 0x23C2      |        9154 |
-|      20 | 0x23C3      |        9155 |
-|      21 | 0x23C4      |        9156 |
-|      22 | 0x23C5      |        9157 |
-|      23 | 0x23C6      |        9158 |
-|      24 | 0x23C7      |        9159 |
-|      25 | 0x23C8      |        9160 |
-|      26 | 0x23C9      |        9161 |
-|      27 | 0x23CA      |        9162 |
-|      28 | 0x23CB      |        9163 |
-|      29 | 0x23CC      |        9164 |
-|      30 | 0x23CD      |        9165 |
-|      31 | 0x23CE      |        9166 |
-|      32 | 0x23CF      |        9167 |
+|      16 | 0x23C1      |        9153 |
+|      17 | 0x23C2      |        9154 |
+|      18 | 0x23C3      |        9155 |
+|      19 | 0x23C4      |        9156 |
+|      20 | 0x23C5      |        9157 |
+|      21 | 0x23C6      |        9158 |
+|      22 | 0x23C7      |        9159 |
+|      23 | 0x23C8      |        9160 |
+|      24 | 0x23C9      |        9161 |
+|      25 | 0x23CA      |        9162 |
+|      26 | 0x23CB      |        9163 |
+|      27 | 0x23CC      |        9164 |
+|      28 | 0x23CD      |        9165 |
+|      29 | 0x23CE      |        9166 |
+|      30 | 0x23CF      |        9167 |
+|      31 | 0x23D0      |        9168 |
+|      32 | 0x23D1      |        9169 |
 |      33 | 0x0000      |           0 |
-|      34 | 0x23D0      |        9168 |
-|      35 | 0x23D1      |        9169 |
+|      34 | 0x23D2      |        9170 |
+|      35 | 0x23D3      |        9171 |
 |      36 | 0x40000000  |  1073741824 |
-|      37 | 0x23D2      |        9170 |
-|      38 | 0x23D3      |        9171 |
-|      39 | 0x23D4      |        9172 |
+|      37 | 0x23D4      |        9172 |
+|      38 | 0x23D5      |        9173 |
+|      39 | 0x23D6      |        9174 |
 |      40 | 0x0001      |           1 |
 |      41 | 0x0003      |           3 |
 |      42 | 0x0007      |           7 |
 |      43 | 0x000F      |          15 |
 |      44 | 0x0010      |          16 |
 |      45 | 0x0017      |          23 |
-|      46 | 0x23D5      |        9173 |
-|      47 | 0x23D6      |        9174 |
+|      46 | 0x23D7      |        9175 |
+|      47 | 0x23D8      |        9176 |
 |      48 | 0x0002      |           2 |
-|      49 | 0x242B      |        9259 |
+|      49 | 0x242D      |        9261 |
 |      50 | 0x1003      |        4099 |
-|      51 | 0x2413      |        9235 |
-|      52 | 0x2414      |        9236 |
-|      53 | 0x2416      |        9238 |
+|      51 | 0x2415      |        9237 |
+|      52 | 0x2416      |        9238 |
+|      53 | 0x2418      |        9240 |
 |      54 | 0x003B      |          59 |
-|      55 | 0x242C      |        9260 |
-|      56 | 0x2491      |        9361 |
+|      55 | 0x242E      |        9262 |
+|      56 | 0x2493      |        9363 |
 |      57 | 0x0005      |           5 |
-|      58 | 0x2490      |        9360 |
-|      59 | 0x2417      |        9239 |
-|      60 | 0x24A2      |        9378 |
+|      58 | 0x2492      |        9362 |
+|      59 | 0x2419      |        9241 |
+|      60 | 0x24A4      |        9380 |
 |      61 | 0x0004      |           4 |
-|      62 | 0x243D      |        9277 |
-|      63 | 0x24B8      |        9400 |
-|      64 | 0x23DA      |        9178 |
+|      62 | 0x243F      |        9279 |
+|      63 | 0x24BA      |        9402 |
+|      64 | 0x23DC      |        9180 |
 |      65 | 0x0006      |           6 |
-|      66 | 0x23DD      |        9181 |
-|      67 | 0x23DB      |        9179 |
-|      68 | 0x23DC      |        9180 |
-|      69 | 0x23DE      |        9182 |
-|      70 | 0x23DF      |        9183 |
-|      71 | 0x23E1      |        9185 |
-|      72 | 0x23E2      |        9186 |
-|      73 | 0x23E0      |        9184 |
-|      74 | 0x23E3      |        9187 |
-|      75 | 0x23E4      |        9188 |
-|      76 | 0x243C      |        9276 |
-|      77 | 0x249B      |        9371 |
-|      78 | 0x249C      |        9372 |
-|      79 | 0x23D7      |        9175 |
-|      80 | 0x23E5      |        9189 |
-|      81 | 0x23E6      |        9190 |
+|      66 | 0x23DF      |        9183 |
+|      67 | 0x23DD      |        9181 |
+|      68 | 0x23DE      |        9182 |
+|      69 | 0x23E0      |        9184 |
+|      70 | 0x23E1      |        9185 |
+|      71 | 0x23E3      |        9187 |
+|      72 | 0x23E4      |        9188 |
+|      73 | 0x23E2      |        9186 |
+|      74 | 0x23E5      |        9189 |
+|      75 | 0x23E6      |        9190 |
+|      76 | 0x243E      |        9278 |
+|      77 | 0x249D      |        9373 |
+|      78 | 0x249E      |        9374 |
+|      79 | 0x23D9      |        9177 |
+|      80 | 0x23E7      |        9191 |
+|      81 | 0x23E8      |        9192 |
 |      82 | 0x001E      |          30 |
-|      83 | 0x23E7      |        9191 |
-|      84 | 0x23E8      |        9192 |
-|      85 | 0x23E9      |        9193 |
-|      86 | 0x23EA      |        9194 |
-|      87 | 0x23EB      |        9195 |
-|      88 | 0x23EC      |        9196 |
-|      89 | 0x23ED      |        9197 |
-|      90 | 0x23F9      |        9209 |
-|      91 | 0x23FA      |        9210 |
-|      92 | 0x23FB      |        9211 |
-|      93 | 0x23FC      |        9212 |
-|      94 | 0x23FD      |        9213 |
-|      95 | 0x23FE      |        9214 |
-|      96 | 0x2422      |        9250 |
+|      83 | 0x23E9      |        9193 |
+|      84 | 0x23EA      |        9194 |
+|      85 | 0x23EB      |        9195 |
+|      86 | 0x23EC      |        9196 |
+|      87 | 0x23ED      |        9197 |
+|      88 | 0x23EE      |        9198 |
+|      89 | 0x23EF      |        9199 |
+|      90 | 0x23FB      |        9211 |
+|      91 | 0x23FC      |        9212 |
+|      92 | 0x23FD      |        9213 |
+|      93 | 0x23FE      |        9214 |
+|      94 | 0x23FF      |        9215 |
+|      95 | 0x2400      |        9216 |
+|      96 | 0x2424      |        9252 |
 |      97 | 0x0078      |         120 |
-|      98 | 0x2423      |        9251 |
-|      99 | 0x2425      |        9253 |
-|     100 | 0x2426      |        9254 |
-|     101 | 0x2427      |        9255 |
-|     102 | 0x2428      |        9256 |
-|     103 | 0x2429      |        9257 |
-|     104 | 0x23D8      |        9176 |
-|     105 | 0x23D9      |        9177 |
-|     106 | 0x23EE      |        9198 |
-|     107 | 0x23EF      |        9199 |
-|     108 | 0x2407      |        9223 |
-|     109 | 0x23FF      |        9215 |
-|     110 | 0x242A      |        9258 |
-|     111 | 0x23F0      |        9200 |
-|     112 | 0x23F1      |        9201 |
-|     113 | 0x23F2      |        9202 |
+|      98 | 0x2425      |        9253 |
+|      99 | 0x2427      |        9255 |
+|     100 | 0x2428      |        9256 |
+|     101 | 0x2429      |        9257 |
+|     102 | 0x242A      |        9258 |
+|     103 | 0x242B      |        9259 |
+|     104 | 0x23DA      |        9178 |
+|     105 | 0x23DB      |        9179 |
+|     106 | 0x23F0      |        9200 |
+|     107 | 0x23F1      |        9201 |
+|     108 | 0x2409      |        9225 |
+|     109 | 0x2401      |        9217 |
+|     110 | 0x242C      |        9260 |
+|     111 | 0x23F2      |        9202 |
+|     112 | 0x23F3      |        9203 |
+|     113 | 0x23F4      |        9204 |
 |     114 | 0x003C      |          60 |
-|     115 | 0x23F3      |        9203 |
-|     116 | 0x23F4      |        9204 |
-|     117 | 0x23F5      |        9205 |
-|     118 | 0x23F6      |        9206 |
-|     119 | 0x23F7      |        9207 |
-|     120 | 0x23F8      |        9208 |
-|     121 | 0x2408      |        9224 |
-|     122 | 0x2409      |        9225 |
-|     123 | 0x240A      |        9226 |
-|     124 | 0x240B      |        9227 |
-|     125 | 0x240C      |        9228 |
-|     126 | 0x240D      |        9229 |
-|     127 | 0x240E      |        9230 |
-|     128 | 0x240F      |        9231 |
-|     129 | 0x2410      |        9232 |
-|     130 | 0x2411      |        9233 |
-|     131 | 0x2412      |        9234 |
-|     132 | 0x2418      |        9240 |
-|     133 | 0x2419      |        9241 |
-|     134 | 0x241A      |        9242 |
-|     135 | 0x241B      |        9243 |
-|     136 | 0x241C      |        9244 |
-|     137 | 0x241D      |        9245 |
-|     138 | 0x241E      |        9246 |
-|     139 | 0x241F      |        9247 |
-|     140 | 0x2420      |        9248 |
-|     141 | 0x2421      |        9249 |
-|     142 | 0x242D      |        9261 |
-|     143 | 0x242E      |        9262 |
-|     144 | 0x242F      |        9263 |
-|     145 | 0x2430      |        9264 |
-|     146 | 0x2431      |        9265 |
-|     147 | 0x2432      |        9266 |
-|     148 | 0x2433      |        9267 |
-|     149 | 0x2434      |        9268 |
-|     150 | 0x2435      |        9269 |
-|     151 | 0x2436      |        9270 |
-|     152 | 0x2437      |        9271 |
-|     153 | 0x2438      |        9272 |
-|     154 | 0x2439      |        9273 |
-|     155 | 0x243A      |        9274 |
-|     156 | 0x243B      |        9275 |
-|     157 | 0x2400      |        9216 |
-|     158 | 0x2401      |        9217 |
-|     159 | 0x2402      |        9218 |
-|     160 | 0x2403      |        9219 |
-|     161 | 0x2404      |        9220 |
-|     162 | 0x2405      |        9221 |
-|     163 | 0x2406      |        9222 |
-|     164 | 0x2492      |        9362 |
-|     165 | 0x2493      |        9363 |
-|     166 | 0x2494      |        9364 |
-|     167 | 0x2495      |        9365 |
-|     168 | 0x2496      |        9366 |
-|     169 | 0x2497      |        9367 |
-|     170 | 0x2498      |        9368 |
-|     171 | 0x2499      |        9369 |
+|     115 | 0x23F5      |        9205 |
+|     116 | 0x23F6      |        9206 |
+|     117 | 0x23F7      |        9207 |
+|     118 | 0x23F8      |        9208 |
+|     119 | 0x23F9      |        9209 |
+|     120 | 0x23FA      |        9210 |
+|     121 | 0x240A      |        9226 |
+|     122 | 0x240B      |        9227 |
+|     123 | 0x240C      |        9228 |
+|     124 | 0x240D      |        9229 |
+|     125 | 0x240E      |        9230 |
+|     126 | 0x240F      |        9231 |
+|     127 | 0x2410      |        9232 |
+|     128 | 0x2411      |        9233 |
+|     129 | 0x2412      |        9234 |
+|     130 | 0x2413      |        9235 |
+|     131 | 0x2414      |        9236 |
+|     132 | 0x241A      |        9242 |
+|     133 | 0x241B      |        9243 |
+|     134 | 0x241C      |        9244 |
+|     135 | 0x241D      |        9245 |
+|     136 | 0x241E      |        9246 |
+|     137 | 0x241F      |        9247 |
+|     138 | 0x2420      |        9248 |
+|     139 | 0x2421      |        9249 |
+|     140 | 0x2422      |        9250 |
+|     141 | 0x2423      |        9251 |
+|     142 | 0x242F      |        9263 |
+|     143 | 0x2430      |        9264 |
+|     144 | 0x2431      |        9265 |
+|     145 | 0x2432      |        9266 |
+|     146 | 0x2433      |        9267 |
+|     147 | 0x2434      |        9268 |
+|     148 | 0x2435      |        9269 |
+|     149 | 0x2436      |        9270 |
+|     150 | 0x2437      |        9271 |
+|     151 | 0x2438      |        9272 |
+|     152 | 0x2439      |        9273 |
+|     153 | 0x243A      |        9274 |
+|     154 | 0x243B      |        9275 |
+|     155 | 0x243C      |        9276 |
+|     156 | 0x243D      |        9277 |
+|     157 | 0x2402      |        9218 |
+|     158 | 0x2403      |        9219 |
+|     159 | 0x2404      |        9220 |
+|     160 | 0x2405      |        9221 |
+|     161 | 0x2406      |        9222 |
+|     162 | 0x2407      |        9223 |
+|     163 | 0x2408      |        9224 |
+|     164 | 0x2494      |        9364 |
+|     165 | 0x2495      |        9365 |
+|     166 | 0x2496      |        9366 |
+|     167 | 0x2497      |        9367 |
+|     168 | 0x2498      |        9368 |
+|     169 | 0x2499      |        9369 |
+|     170 | 0x249A      |        9370 |
+|     171 | 0x249B      |        9371 |
 |     172 | 0x00C9      |         201 |
 |     173 | 0x00D7      |         215 |
 |     174 | 0xFFFE94B8  |  4294874296 |
@@ -231,21 +231,21 @@
 |     182 | 0xFFFEA458  |  4294878296 |
 |     183 | 0xFFFFD9B8  |  4294957496 |
 |     184 | 0x0C00      |        3072 |
-|     185 | 0x249A      |        9370 |
-|     186 | 0x249D      |        9373 |
-|     187 | 0x249E      |        9374 |
-|     188 | 0x249F      |        9375 |
-|     189 | 0x24A0      |        9376 |
-|     190 | 0x24A1      |        9377 |
-|     191 | 0x24A8      |        9384 |
-|     192 | 0x24A9      |        9385 |
-|     193 | 0x24AA      |        9386 |
-|     194 | 0x24AB      |        9387 |
-|     195 | 0x24AC      |        9388 |
-|     196 | 0x24AD      |        9389 |
-|     197 | 0x24AE      |        9390 |
-|     198 | 0x24AF      |        9391 |
-|     199 | 0x24C2      |        9410 |
+|     185 | 0x249C      |        9372 |
+|     186 | 0x249F      |        9375 |
+|     187 | 0x24A0      |        9376 |
+|     188 | 0x24A1      |        9377 |
+|     189 | 0x24A2      |        9378 |
+|     190 | 0x24A3      |        9379 |
+|     191 | 0x24AA      |        9386 |
+|     192 | 0x24AB      |        9387 |
+|     193 | 0x24AC      |        9388 |
+|     194 | 0x24AD      |        9389 |
+|     195 | 0x24AE      |        9390 |
+|     196 | 0x24AF      |        9391 |
+|     197 | 0x24B0      |        9392 |
+|     198 | 0x24B1      |        9393 |
+|     199 | 0x24C4      |        9412 |
 |     200 | 0x001F      |          31 |
 |     201 | 0xFFFE9CEF  |  4294876399 |
 |     202 | 0xFFFFE008  |  4294959112 |
@@ -253,9 +253,9 @@
 |     204 | 0x0333      |         819 |
 |     205 | 0x000A      |          10 |
 |     206 | 0x00C8      |         200 |
-|     207 | 0x248D      |        9357 |
-|     208 | 0x248E      |        9358 |
-|     209 | 0x248F      |        9359 |
+|     207 | 0x248F      |        9359 |
+|     208 | 0x2490      |        9360 |
+|     209 | 0x2491      |        9361 |
 |     210 | 0x000B      |          11 |
 |     211 | 0x000D      |          13 |
 |     212 | 0x0024      |          36 |
@@ -267,12 +267,12 @@
 |     218 | 0x1F40      |        8000 |
 |     219 | 0x9C40      |       40000 |
 |     220 | 0x00FF      |         255 |
-|     221 | 0x24BE      |        9406 |
-|     222 | 0x24B9      |        9401 |
-|     223 | 0x24BA      |        9402 |
-|     224 | 0x24BD      |        9405 |
-|     225 | 0x24BB      |        9403 |
-|     226 | 0x24BC      |        9404 |
+|     221 | 0x24C0      |        9408 |
+|     222 | 0x24BB      |        9403 |
+|     223 | 0x24BC      |        9404 |
+|     224 | 0x24BF      |        9407 |
+|     225 | 0x24BD      |        9405 |
+|     226 | 0x24BE      |        9406 |
 |     227 | 0x2534      |        9524 |
 |     228 | 0x1000      |        4096 |
 |     229 | 0x0442      |        1090 |
@@ -285,314 +285,317 @@
 |     236 | 0x0675      |        1653 |
 |     237 | 0x1004      |        4100 |
 |     238 | 0x1002      |        4098 |
-|     239 | 0x24B0      |        9392 |
-|     240 | 0x2440      |        9280 |
-|     241 | 0x2441      |        9281 |
-|     242 | 0x2442      |        9282 |
-|     243 | 0x2443      |        9283 |
-|     244 | 0x2444      |        9284 |
-|     245 | 0x2445      |        9285 |
-|     246 | 0x2446      |        9286 |
-|     247 | 0x2448      |        9288 |
-|     248 | 0x2449      |        9289 |
-|     249 | 0x244B      |        9291 |
-|     250 | 0x244C      |        9292 |
-|     251 | 0x244D      |        9293 |
-|     252 | 0x244E      |        9294 |
-|     253 | 0x244F      |        9295 |
-|     254 | 0x2450      |        9296 |
-|     255 | 0x2458      |        9304 |
-|     256 | 0x2452      |        9298 |
-|     257 | 0x2453      |        9299 |
-|     258 | 0x2454      |        9300 |
-|     259 | 0x2455      |        9301 |
-|     260 | 0x2456      |        9302 |
-|     261 | 0x2457      |        9303 |
-|     262 | 0x245A      |        9306 |
-|     263 | 0x245B      |        9307 |
-|     264 | 0x245C      |        9308 |
-|     265 | 0x245D      |        9309 |
-|     266 | 0x245E      |        9310 |
-|     267 | 0x2466      |        9318 |
-|     268 | 0x2467      |        9319 |
-|     269 | 0x2468      |        9320 |
-|     270 | 0x2469      |        9321 |
-|     271 | 0x246C      |        9324 |
-|     272 | 0x246D      |        9325 |
-|     273 | 0x246E      |        9326 |
-|     274 | 0x246F      |        9327 |
-|     275 | 0x2470      |        9328 |
-|     276 | 0x2471      |        9329 |
-|     277 | 0x2472      |        9330 |
-|     278 | 0x2460      |        9312 |
-|     279 | 0x2461      |        9313 |
-|     280 | 0x2462      |        9314 |
-|     281 | 0x24B1      |        9393 |
-|     282 | 0x24B2      |        9394 |
-|     283 | 0x24B3      |        9395 |
-|     284 | 0x24B4      |        9396 |
-|     285 | 0x24B5      |        9397 |
-|     286 | 0x24B6      |        9398 |
-|     287 | 0x24B7      |        9399 |
-|     288 | 0x2463      |        9315 |
-|     289 | 0x24C3      |        9411 |
-|     290 | 0x24C5      |        9413 |
-|     291 | 0x24C4      |        9412 |
+|     239 | 0x24B2      |        9394 |
+|     240 | 0x2442      |        9282 |
+|     241 | 0x2443      |        9283 |
+|     242 | 0x2444      |        9284 |
+|     243 | 0x2445      |        9285 |
+|     244 | 0x2446      |        9286 |
+|     245 | 0x2447      |        9287 |
+|     246 | 0x2448      |        9288 |
+|     247 | 0x244A      |        9290 |
+|     248 | 0x244B      |        9291 |
+|     249 | 0x244D      |        9293 |
+|     250 | 0x244E      |        9294 |
+|     251 | 0x244F      |        9295 |
+|     252 | 0x2450      |        9296 |
+|     253 | 0x2451      |        9297 |
+|     254 | 0x2452      |        9298 |
+|     255 | 0x245A      |        9306 |
+|     256 | 0x2454      |        9300 |
+|     257 | 0x2455      |        9301 |
+|     258 | 0x2456      |        9302 |
+|     259 | 0x2457      |        9303 |
+|     260 | 0x2458      |        9304 |
+|     261 | 0x2459      |        9305 |
+|     262 | 0x245C      |        9308 |
+|     263 | 0x245D      |        9309 |
+|     264 | 0x245E      |        9310 |
+|     265 | 0x245F      |        9311 |
+|     266 | 0x2460      |        9312 |
+|     267 | 0x2468      |        9320 |
+|     268 | 0x2469      |        9321 |
+|     269 | 0x246A      |        9322 |
+|     270 | 0x246B      |        9323 |
+|     271 | 0x246E      |        9326 |
+|     272 | 0x246F      |        9327 |
+|     273 | 0x2470      |        9328 |
+|     274 | 0x2471      |        9329 |
+|     275 | 0x2472      |        9330 |
+|     276 | 0x2473      |        9331 |
+|     277 | 0x2474      |        9332 |
+|     278 | 0x2462      |        9314 |
+|     279 | 0x2463      |        9315 |
+|     280 | 0x2464      |        9316 |
+|     281 | 0x24B3      |        9395 |
+|     282 | 0x24B4      |        9396 |
+|     283 | 0x24B5      |        9397 |
+|     284 | 0x24B6      |        9398 |
+|     285 | 0x24B7      |        9399 |
+|     286 | 0x24B8      |        9400 |
+|     287 | 0x24B9      |        9401 |
+|     288 | 0x2465      |        9317 |
+|     289 | 0x24C5      |        9413 |
+|     290 | 0x24C7      |        9415 |
+|     291 | 0x24C6      |        9414 |
 |     292 | 0x0009      |           9 |
-|     293 | 0x2464      |        9316 |
-|     294 | 0x2473      |        9331 |
-|     295 | 0x2476      |        9334 |
-|     296 | 0x247A      |        9338 |
-|     297 | 0x247B      |        9339 |
-|     298 | 0x247E      |        9342 |
-|     299 | 0x2480      |        9344 |
-|     300 | 0x2483      |        9347 |
-|     301 | 0x2487      |        9351 |
-|     302 | 0x2488      |        9352 |
-|     303 | 0x248B      |        9355 |
-|     304 | 0x24A5      |        9381 |
-|     305 | 0x24A7      |        9383 |
-|     306 | 0x24BF      |        9407 |
-|     307 | 0x24C1      |        9409 |
-|     308 | 0x2465      |        9317 |
-|     309 | 0x2474      |        9332 |
+|     293 | 0x2461      |        9313 |
+|     294 | 0x2466      |        9318 |
+|     295 | 0x246D      |        9325 |
+|     296 | 0x2476      |        9334 |
+|     297 | 0x247A      |        9338 |
+|     298 | 0x247B      |        9339 |
+|     299 | 0x247E      |        9342 |
+|     300 | 0x2480      |        9344 |
+|     301 | 0x2483      |        9347 |
+|     302 | 0x2487      |        9351 |
+|     303 | 0x2488      |        9352 |
+|     304 | 0x248B      |        9355 |
+|     305 | 0x248D      |        9357 |
+|     306 | 0x24A5      |        9381 |
+|     307 | 0x24A7      |        9383 |
+|     308 | 0x24C1      |        9409 |
+|     309 | 0x2467      |        9319 |
 |     310 | 0x247F      |        9343 |
 |     311 | 0x247C      |        9340 |
 |     312 | 0x2481      |        9345 |
 |     313 | 0x248C      |        9356 |
 |     314 | 0x2489      |        9353 |
-|     315 | 0x24A6      |        9382 |
-|     316 | 0x24A3      |        9379 |
-|     317 | 0x24C0      |        9408 |
-|     318 | 0x2475      |        9333 |
-|     319 | 0x2482      |        9346 |
-|     320 | 0x0800      |        2048 |
-|     321 | 0x0027      |          39 |
-|     322 | 0x0031      |          49 |
-|     323 | 0x0045      |          69 |
+|     315 | 0x248E      |        9358 |
+|     316 | 0x24A6      |        9382 |
+|     317 | 0x24A8      |        9384 |
+|     318 | 0x24C2      |        9410 |
+|     319 | 0x2475      |        9333 |
+|     320 | 0x2482      |        9346 |
+|     321 | 0x24A9      |        9385 |
+|     322 | 0x24C3      |        9411 |
+|     323 | 0x0800      |        2048 |
+|     324 | 0x0027      |          39 |
+|     325 | 0x0031      |          49 |
+|     326 | 0x0045      |          69 |
 
 ## String References
 
-- **9140**: Hmm... It seems I can never find the perrrfect person. Although, I know that one day, somebody'll come along... Mwahaha!
-- **9141**: Oh! What do we have here!? Yes! You're just the perrrson I've been looking for!
-- **9142**: Mwahaha. Let me guess, you're a craftsman skilled in the art of [/woodworking/smithing/goldsmithing/clothcraft/leathercraft/bonecraft/alchemy/cooking]. Am I rrright?
-- **9143**: No, don't answer that, my frrriend. I can tell just by looking at you!
-- **9144**: I have a favor to ask. Please, hear me out.
-- **9145**: Firrrst, allow me to introduce myself. My name is Mewk Chorosap. I'm a member of the Inventors' Coalition in Adoulin.
-- **9146**: See, that's where you come in. I need your help with a new item I'm worrrking on. Mwahaha.
-- **9147**: Recently, I've been interrrested in crystal synthesis. In all of Vana'diel, the Middle Lands is known more than any other area for using crystal synthesis.
-- **9148**: Therefore, I took a trrrip to see how the process works.
-- **9149**: I'm so glad I came here! I can actually picture it now! A bright future where my technology and crystal synthesis are fused together in glorrrious harmony!
-- **9150**: Mwahahaha!
-- **9151**: Since you are a big part of this future, I want you to have this prrresent.
-- **9152**: You see, this is a kind of item to support and even enhance your efforts when it comes to synthesizing items.
-- **9153**: Of course, right now, it's just an orrrdinary shield.
-- **9154**: When synthesizing crystals, one's mind plays an imporrrtant part in visualizing the finished product.
-- **9155**: The power of the mind is also requirrred by this shield.
-- **9156**: So when craftsmen like yourself equip this shield, and try really hard to synthesize items over and over again, your blood, sweat, tears, and your very soul itself will be poured into the shield.
-- **9157**: I have coined the term "Craftsmanship" to describe the arrrt of imbuing the strength of one's mind into an object.
-- **9158**: Once your Craftsmanship reaches a cerrrtain level, you will be able to synthesize a crystal.
-- **9159**: You can then combine that crystal with special ingrrredients from the Inventors' Coalition to use on the shield I gave you.
-- **9160**: If it all goes according to plan, you'll end up with a brrrand-new shield.
-- **9161**: By crrrafting the shield over and over again, you can boost its ability to its maximum value.
-- **9162**: I have left the necessary ingredients with the [/Carpenters'/Smithing/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild, so please check with your guildmaster.
-- **9163**: However, I've asked them to not just give you the ingredients without worrrking for them.
-- **9164**: It wouldn't be interrresting if just anybody could make such a powerful thing. Mwahaha.
-- **9165**: I'll give you the shield, so what do you say? Are you interrrested in making it even more powerful? Of course, the road to its completion will be fraught with peril.
-- **9166**: Once you have started to craft an escutcheon, your [/woodworking/blacksmithing/goldsmithing/weaving/leathcraft/bonecraft/alchemy/cooking] skill will not reduce until the shield is completed or you cancel the process.
-- **9167**: What will you do? [Leave it to me!/I think I better pass.]
-- **9168**: Really? Well, I suppose even if I did give it to somebody whose hearrrt wasn't in it, it wouldn't go very well. In that case, I'll take the shield back then.
-- **9169**: If you ever feel like showing me what you're trrruly made of, I'll be here waiting for you. Mwahaha.
-- **9170**: Mwahahaha. I knew you had it in you. I suppose I lit a fire within that crrraftsman's heart of yours.
-- **9171**: Now then. Show that shield to your guildmaster. The path forward will be rrrevealed to you.
-- **9172**: When you're finished, you'll need to receive a sign on the shield from your guildmaster that it's finished. Then brrring it back to me. I'm counting on you. Mwahaha.
-- **9173**: Why hello there, my [/woodworking/smithing/goldsmithing/clothcraft/leathercraft/bonecraft/alchemy/cooking] expert. What is the prrroblem?
-- **9174**: What can I do for you? [Never mind./I want to check the recipe./I want a catalyst./Tell me about these apparatuses./I want to try making the shield./I give up trying to make the shield.]
-- **9175**: Mwahahaha. In that case, good luck to you, my frrriend.
-- **9176**: How's that shield coming? Finished yet?
-- **9177**: Good. Now let me have a look.
-- **9178**: Mwahaha. It's nice to see you're up for the challenge, my frrriend.
-- **9179**: In that case, I'll need to give you this.
-- **9180**: In rrregards to the other ingredients, I mentioned this before, but you'll need to speak with your guildmaster.
-- **9181**: At least, that's what I would say if you still didn't have that $0. Dispose of it firrrst.
-- **9182**: Oh, what happened to give you a change of hearrrt? Are you sure you want to quit?
-- **9183**: Note that reattempting will require you to abandon your current shield in progress.
-- **9184**: Really abandon your current shield?
-- **9185**: Do you really want to quit? [On second thought, I'll stick with it./Yes, I've had enough.]
-- **9186**: Mwahaha. That's what I like to hear. Keep up the good worrrk.
-- **9187**: Well, that is most unforrrtunate.
-- **9188**: That shield will do you no good, so be surrre to get rid of it.
-- **9189**: Mwahaha. I've been waiting for this. Let's see what you've brrrought me.
-- **9190**: It must've been hard when you firrrst started using this shield. It is difficult to get your spirit in tune with the crystal.
-- **9191**: Hmm...
-- **9192**: Yes, I imagined as much, but was hoping it'd turn out better.
-- **9193**: This is nowhere near the level I was expecting to see.
-- **9194**: I suppose a single upgrrrade is only enough to bring it this far. Although, there is no denying that it has gained some ability.
-- **9195**: Mwahaha. Can I have a little more time? It looks like I need to rrrethink the design a bit.
-- **9196**: Here, take this shield. And I forrrbid you from losing it.
-- **9197**: Once the prrreparations are complete, you'll need to perform the next upgrade. I hope you're looking forward to it as much as I am.
-- **9198**: (Hmm... Maybe mythril alone makes the spiritual link too weak? In that case, I'll need a differrrent metal. What could I use instead...)
-- **9199**: Hm? Mwahaha. I see you are eager to get starrrted. I need just a little more time.
-- **9200**: I'm sorry to have kept you waiting. My prrreparations are complete. Mwahaha.
-- **9201**: I'm going to get it rrready for the upgrade, so can I borrow the $0 for a moment?
-- **9202**: Thank you. Okay, this won't take very long, so just wait a little longer.
-- **9203**: There. That should do the trrrick.
-- **9204**: Take this and trrry the synthesis again multiple times.
-- **9205**: Once your spirit has been sufficiently imbued into the shield, you can try crrrafting the shield again.
-- **9206**: The ingrrredients have been left with your guild, so speak to your guildmaster for more information.
-- **9207**: Simply show this shield to your parrrticular guildmaster and they'll know what to do.
-- **9208**: I'm interrrested to see what this shield can become. Yes, very interested indeed. Mwahaha.
-- **9209**: Mwahaha... I've been anxiously awaiting your rrreturn. So, how did it turn out?
-- **9210**: I see...
-- **9211**: It falls within the rrrange I was expecting, based on the results of our previous attempt.
-- **9212**: Splendid. I think you'll rrreally see an improvement with the next upgrade!
-- **9213**: Mwahaha. I'll prrrepare the next ingredient for the Inventors' Coalition.
-- **9214**: Be sure to make the next upgrade once the preparations are rrready. Mwahaha.
-- **9215**: (Hmm... If I could use that sheet, it could serve as a kind of antennae... The problem is the weight... Maybe next time, I'll...)
-- **9216**: Mwahaha. What can I do for you, my frrriend?
-- **9217**: Hmm... There's something wrrrong with this shield. I don't think it's capable of properly channelling your spirit.
-- **9218**: Although, it's still perrrfectly repairable, if you so desire.
-- **9219**: However, know that repairing the $0 will reset the escutcheon's progress to when you first received the $1.
-- **9220**: Do you want to repair the shield? [Sure./No thanks.]
-- **9221**: Okay, I'll make the rrrepairs. Wait just a moment.
-- **9222**: That should do it.
-- **9223**: You must complete the Records of Eminence objective $0 to further enhance your shield.
-- **9224**: Sorry to keep you waiting. The prrreparations are finally complete.
-- **9225**: Hm? Is there something you'd like to ask me, frrriend?
-- **9226**: There appears to be interference with the synchronicity of the crystal. Yes, it seems that it is that rrrather annoying factor once again.
-- **9227**: It would appear that parrrticular factor is hounding us once again...
-- **9228**: However, there's no need to let it get us down. I've learrrned a way to mitigate its effects. Mwahaha.
-- **9229**: Crafting under cerrrtain conditions enables you to boost Craftsmanship more than usual, yes?
-- **9230**: When you take advantage of that situation, the factor is trrriggered, making your life more difficult.
-- **9231**: However, if you don't utilize this parrrticular condition, the effect of the factor grows stronger and stronger, meaning you should try to use it as much as possible.
-- **9232**: Were you able to comprrrehend all that? At any rate, simply show this shield to your guildmaster like before.
-- **9233**: Actually, I can't have you bothering your guildmaster all the time, so I'll explain part of the prrrocess here.
-- **9234**: First, you're going to need the rrrecipe.
-- **9235**: Required craft: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking]@ Required crystal: $4 Required items...
-- **9236**: $4 $0 $5 $0$0 $6 $0 $7 $0$3
-- **9238**: $4 $0 $5 $0$0
-- **9239**: $4 $0
-- **9240**: That's all of them. I hope you wrote that down?
-- **9241**: Next, I'll go over how to obtain the necessary materials. I've hearrrd there are a total of three.
-- **9242**: Firrrst, you'll need the old standby, $1.
-- **9243**: Like usual, you'rrre going to have to boost the Craftsmanship of the $0 to 100% and show it to your guildmaster.
-- **9244**: Although, this may have been the most difficult thing to incrrrease the Craftsmanship for. Remember, crafting various kinds of items is the secret to success.
-- **9245**: Next, we have the $2 and $3. These too are exactly like you experrrienced before.
-- **9246**: Was it a crafting set? Make your deliveries and then you can use the points earned to trrrade for the item.
-- **9247**: After that, the $4 and $5 come next. Hmm... I rrrecommend you check with your guildmaster on these two.
-- **9248**: That's all I have to say on the matter.
-- **9249**: Mwahaha! It seems the shield is nearly finished. Don't forrrget to have your guildmaster mark the shield after it's been upgraded.
-- **9250**: Mwahaha. So, how did it turn out? Allow me to take a closer look at your prrrize.
-- **9251**: Hmm... This is...
-- **9253**: Perrrfect!
-- **9254**: This is exactly the rrresult I was hoping for!
-- **9255**: Oh, please forrrgive me. I got a little carried away after seeing things turn out just as I anticipated. Mwahaha.
-- **9256**: I'm finding it harrrd to contain my excitement. This means the next upgrade will be the one. Mwahahaha!
-- **9257**: I'll get on the Inventors' Coalition to begin making the next set of preparations rrright away. I hope you're as excited as I am.
-- **9258**: (Hmm... The ultimate synchronicity... Now, to prepare the craftsman's symbol possessed by the guild...)
-- **9259**: Oh, my. I even told you to write the recipe down, too. Try to rrremember it this time.
-- **9260**: Mwahaha. Are you okay? Keep up the good work out there, my frrriend.
-- **9261**: Ahh, I see you've made it to the final stage at last.
-- **9262**: Now then, let's get starrrted, shall we? Let me see your $0.
-- **9263**: Thank you. I am extremely grrrateful for all of your hard work up to now.
-- **9264**: Now then, let's rrreview the necessary materials for the procedure.
-- **9265**: First, there's the $2 and the $3.
-- **9266**: These two items can be exchanged for crafter points at your guild.
-- **9267**: You'll need two $2 and one $3 to prrroceed.
-- **9268**: Next up is the $1. You already know how it works. Although this time arrround, it can't simply be used as is.
-- **9269**: The $1 is the physical manifestation of a crrraftsman's heart and soul. Although it powers the final upgrade, you will need to activate it first.
-- **9270**: Once you obtain it, bring it to me. I'll tell you what you need to perrrform the activation.
-- **9271**: By the way, do you rrremember how to obtain the $1?
-- **9272**: You'll need the help of your guildmaster after rrraising the shield's Craftsmanship to 100%.
-- **9273**: That rrreminds me... I've managed to eliminate the rather unfortunate factor that previously plagued this shield!
-- **9274**: This will free you from those rather rrridiculous failures that you experienced before.
-- **9275**: And so our explanation ends here!
-- **9276**: Listen carefully. Once you obtain the $1, bring it to me rrright away.
-- **9277**: Well, good luck to you out there. I'll be anxiously awaiting your rrreturn.
-- **9280**: In order to activate the $0, you must firrrst imbue it with your craftsman's spirit to previously unimaginable levels.
-- **9281**: Using the regular methods, you'd need to craft with it several million times, but that isn't very rrrealistic, now is it?
-- **9282**: That is why I've crrreated a special device to help assist with the crafting process.
-- **9283**: Using this "synthesis focuser" during your crafting sessions will help boost your spirit and imbue it within your $0.
-- **9284**: You just need to simply flip the switch and begin crafting, although some prrreparations are necessary.
-- **9285**: You'll need to place the $0 inside the synthesis focuser, along with the crystal, crafting sphere, and catalyst needed for the crafting process.
-- **9286**: For the crystal, please note that you cannot use the high-quality crystals or analysis crystals used for the engraving prrrocess.
-- **9288**: Once the materials are set, you can begin the crafting process.
-- **9289**: If everything goes as planned, it will infuse your $0 with a large amount of spirit. Once a sufficient amount has been trrransferred, it will activate the $0.
-- **9291**: With this parrrticular kind of crafting, you're also able to form "links" while crafting!
-- **9292**: I like to call this type of link a "craftchain". I know... I know... It's nothing fancy. Mwahaha.
-- **9293**: You alrrready know about the skillchains that you use in battle. This is kind of like that.
-- **9294**: The skillchain is triggered when you select the appropriate weapon skills with the proper timing, right?
-- **9295**: A craftchain is triggered when you use the proper crafting sphere and catalyst, also with the proper timing.
-- **9296**: Once the craftchain is triggered, it will boost your spirit by an even greater amount. You really want to use them if at all possible.
-- **9304**: However, you will need to learrrn the linking procedure for yourself.
-- **9306**: The catalyst is a material that has a grrreat effect on the success of your craftchain.
-- **9307**: You already know how skillchains have levels, rrright?
-- **9308**: Craftchains also have levels, and you will need to use a catalyst that matches the element of the crafting sphere.
-- **9309**: I have here an example of a catalyst. It comes from the Inventors' Coalition's verrry own MC-I-SR0 series!
-- **9310**: The linking process has thrrree levels, just like with skillchains. Depending on the crafting sphere you use, the catalyst will be selected automatically.
-- **9312**: If your combination of crystal, crafting sphere, and catalyst are incorrect, the synthesis is guarrranteed to fail.
-- **9313**: And if it fails, you will lose the crystal, crafting sphere, and catalyst you used.
-- **9314**: Additionally, you will also lose some of the spirit stored within your $0.
-- **9315**: That will mean much of your hard work will be for naught, so be especially carrreful when selecting your materials.
-- **9318**: You can get the MC-I-SR0 series catalyst from me, for the rrright price of course...
-- **9319**: The cost of manufacturing is rather high for this particular catalyst, so I got an earful from the coalition's accountant after I made it in bulk.
-- **9320**: If I don't turn a profit, it will adversely affect our rrresearch budget... So, sorry about that. I hope you understand.
-- **9321**: The crafting spheres are a somewhat unique item. You can obtain them by using a special technique that brrreaks down certain items into their individual components.
-- **9324**: Now, about the item to be used as a base for the technique...
-- **9325**: The $4 and the $5...
-- **9326**: You should be able to use the $4 with the $6, and the $5 with the $7 for the prrrocedure.
-- **9327**: I believe there are more items out there that can be used. The exact number is unknown, but just consider finding them yet another part of the challenge.
-- **9328**: You can obtain information from other adventurers, or just keep experrrimenting until you find the answers for yourself.
-- **9329**: However, just be careful that you don't lose any valuable items in the process, even if it is in the name of prrrogress.
-- **9357**: What's this!? You've completed the activation!
-- **9358**: Yes, everything looks perrrfect. The activation is complete. You did it!
-- **9359**: Mwahaha... Would you like to go over the rrrecipe?
-- **9360**: I'd like to check the materials before you begin the synthesis, so would you mind showing them to me firrrst?
-- **9361**: Mwahaha. Now then, let's review the rrrecipe, shall we?
-- **9362**: Mwahaha. Impressive. Are you ready to perrrform the synthesis now?
-- **9363**: ...
-- **9364**: ...
-- **9365**: Hm? What's the matter? Is something wrrrong?
-- **9366**: What's that? You're trrrying to tell me the synthesis won't start!?
-- **9367**: I don't get it... What could've gone wrrrong...
-- **9368**: I wonder if the rrrecipe was mistaken... I don't see how though...
-- **9369**: Perrrhaps you did not sufficiently activate the object? No, that can't be it!
-- **9370**: Wait! That rrreminds me...
-- **9371**: I'm sorry. There's one more thing you rrrequire. It should be with your guildmaster.
-- **9372**: Do you think you could bring it here for me?
-- **9373**: (Thanks, Mikolulu. I completely forrrgot about that note.)
-- **9374**: (That note... If I had thrown it carrrelessly away without noticing, I wonder what I would have done...)
-- **9375**: I'm sorry. My rrrequest was rather pointless. The thing I asked of you is already here.
-- **9376**: Here you go. Mwahaha. It's a rrrather exceptional emblem.
-- **9377**: Allow me to go over the rrrecipe once more.
-- **9378**: Do you have all of the materials? If so, perrrform the synthesis and show me the completed shield.
-- **9384**: Well, looks like I'll be having to share that with the guildmaster!
-- **9385**: Yes... Go and show that shield to your guildmaster.
-- **9386**: Mwahaha. Welcome back. I imagine your guildmaster was rrrather pleased, no?
-- **9387**: That rrreminds me... I don't think I ever thanked you properly.
-- **9388**: With this project, I started out looking for a way to rrrevolutionize the manufacturing process, but I never would've succeeded without your assistance.
-- **9389**: Thank you for helping me all this time. And congrrratulations on finally completing the escutcheon.
-- **9390**: I hope crrraftsmen across the land will use that shield to create higher quality goods than ever before.
-- **9391**: I'll be here if you ever need me. Feel free to come ask me anything. Mwahahaha!
-- **9392**: Learn about what? [Transmutation./Chains./Spheres./Catalysts./Obtaining materials./Penalties for failure./Nothing.]
-- **9393**: There are some conditions for losing your "spirit."
-- **9394**: The Synthesis Focuser II will become unstable if certain things are done repeatedly.
-- **9395**: Those "certain things" are continuing to use the same crystal and continuing to do the same chain.
-- **9396**: If it remains unstable for too long, the Synthesis Focuser II may explode if or when the synthesis fails, meaning that you are more likely to lose some of your spirit.
-- **9397**: Stability is restored over time or by increasing the level of your chain.
-- **9398**: An explosion will also restore stability to the focuser, although I highly recommend you do not take this route.
-- **9399**: The Stability gauge displays the focuser's current stability.
-- **9400**: Mwahaha! Very well. Which do you prrrefer?
-- **9401**: Which catalyst do you want to buy? [MC-I-SR01 ($0 gil)/MC-I-SR02 ($1 gil)/MC-I-SR03 ($2 gil)/Never mind.]
-- **9402**: How many would you like?
-- **9403**: You want the [/MC-I-SR01/MC-I-SR02/MC-I-SR03]? It is going to cost you $2 for $1 of them. Please note that there are absolutely no rrreturns. Are you sure?
-- **9404**: Make the purchase? (Gil: $16) [Yes./No thanks.]
-- **9405**: Oh. It seems you have too many to place within the synthesis focuser. Do try to keep the limit in mind...
-- **9406**: Hmm... It seems you can't place any more within the synthesis focuser.
-- **9410**: Debug Menu [Crafting controls./Receive shield./Reset flag./Exit.]
-- **9411**: Select Craft [Woodworking./Smithing./Goldsmithing./Clothcraft./Leathercraft./Bonecraft./Alchemy./Cooking./Exit.]
-- **9412**: Crafting Level [Expert./Veteran./Adept./Artisan./Craftsman./Journeyman./Apprentice./Novice./Initiate./Recruit./Amateur./Exit.]
-- **9413**: Select an upgrade level.
+- **9142**: Hmm... It seems I can never find the perrrfect person. Although, I know that one day, somebody'll come along... Mwahaha!
+- **9143**: Oh! What do we have here!? Yes! You're just the perrrson I've been looking for!
+- **9144**: Mwahaha. Let me guess, you're a craftsman skilled in the art of [/woodworking/smithing/goldsmithing/clothcraft/leathercraft/bonecraft/alchemy/cooking]. Am I rrright?
+- **9145**: No, don't answer that, my frrriend. I can tell just by looking at you!
+- **9146**: I have a favor to ask. Please, hear me out.
+- **9147**: Firrrst, allow me to introduce myself. My name is Mewk Chorosap. I'm a member of the Inventors' Coalition in Adoulin.
+- **9148**: See, that's where you come in. I need your help with a new item I'm worrrking on. Mwahaha.
+- **9149**: Recently, I've been interrrested in crystal synthesis. In all of Vana'diel, the Middle Lands is known more than any other area for using crystal synthesis.
+- **9150**: Therefore, I took a trrrip to see how the process works.
+- **9151**: I'm so glad I came here! I can actually picture it now! A bright future where my technology and crystal synthesis are fused together in glorrrious harmony!
+- **9152**: Mwahahaha!
+- **9153**: Since you are a big part of this future, I want you to have this prrresent.
+- **9154**: You see, this is a kind of item to support and even enhance your efforts when it comes to synthesizing items.
+- **9155**: Of course, right now, it's just an orrrdinary shield.
+- **9156**: When synthesizing crystals, one's mind plays an imporrrtant part in visualizing the finished product.
+- **9157**: The power of the mind is also requirrred by this shield.
+- **9158**: So when craftsmen like yourself equip this shield, and try really hard to synthesize items over and over again, your blood, sweat, tears, and your very soul itself will be poured into the shield.
+- **9159**: I have coined the term "Craftsmanship" to describe the arrrt of imbuing the strength of one's mind into an object.
+- **9160**: Once your Craftsmanship reaches a cerrrtain level, you will be able to synthesize a crystal.
+- **9161**: You can then combine that crystal with special ingrrredients from the Inventors' Coalition to use on the shield I gave you.
+- **9162**: If it all goes according to plan, you'll end up with a brrrand-new shield.
+- **9163**: By crrrafting the shield over and over again, you can boost its ability to its maximum value.
+- **9164**: I have left the necessary ingredients with the [/Carpenters'/Smithing/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild, so please check with your guildmaster.
+- **9165**: However, I've asked them to not just give you the ingredients without worrrking for them.
+- **9166**: It wouldn't be interrresting if just anybody could make such a powerful thing. Mwahaha.
+- **9167**: I'll give you the shield, so what do you say? Are you interrrested in making it even more powerful? Of course, the road to its completion will be fraught with peril.
+- **9168**: Once you have started to craft an escutcheon, your [/woodworking/blacksmithing/goldsmithing/weaving/leathcraft/bonecraft/alchemy/cooking] skill will not reduce until the shield is completed or you cancel the process.
+- **9169**: What will you do? [Leave it to me!/I think I better pass.]
+- **9170**: Really? Well, I suppose even if I did give it to somebody whose hearrrt wasn't in it, it wouldn't go very well. In that case, I'll take the shield back then.
+- **9171**: If you ever feel like showing me what you're trrruly made of, I'll be here waiting for you. Mwahaha.
+- **9172**: Mwahahaha. I knew you had it in you. I suppose I lit a fire within that crrraftsman's heart of yours.
+- **9173**: Now then. Show that shield to your guildmaster. The path forward will be rrrevealed to you.
+- **9174**: When you're finished, you'll need to receive a sign on the shield from your guildmaster that it's finished. Then brrring it back to me. I'm counting on you. Mwahaha.
+- **9175**: Why hello there, my [/woodworking/smithing/goldsmithing/clothcraft/leathercraft/bonecraft/alchemy/cooking] expert. What is the prrroblem?
+- **9176**: What can I do for you? [Never mind./I want to check the recipe./I want a catalyst./Tell me about these apparatuses./I want to try making the shield./I give up trying to make the shield.]
+- **9177**: Mwahahaha. In that case, good luck to you, my frrriend.
+- **9178**: How's that shield coming? Finished yet?
+- **9179**: Good. Now let me have a look.
+- **9180**: Mwahaha. It's nice to see you're up for the challenge, my frrriend.
+- **9181**: In that case, I'll need to give you this.
+- **9182**: In rrregards to the other ingredients, I mentioned this before, but you'll need to speak with your guildmaster.
+- **9183**: At least, that's what I would say if you still didn't have that $0. Dispose of it firrrst.
+- **9184**: Oh, what happened to give you a change of hearrrt? Are you sure you want to quit?
+- **9185**: Note that reattempting will require you to abandon your current shield in progress.
+- **9186**: Really abandon your current shield?
+- **9187**: Do you really want to quit? [On second thought, I'll stick with it./Yes, I've had enough.]
+- **9188**: Mwahaha. That's what I like to hear. Keep up the good worrrk.
+- **9189**: Well, that is most unforrrtunate.
+- **9190**: That shield will do you no good, so be surrre to get rid of it.
+- **9191**: Mwahaha. I've been waiting for this. Let's see what you've brrrought me.
+- **9192**: It must've been hard when you firrrst started using this shield. It is difficult to get your spirit in tune with the crystal.
+- **9193**: Hmm...
+- **9194**: Yes, I imagined as much, but was hoping it'd turn out better.
+- **9195**: This is nowhere near the level I was expecting to see.
+- **9196**: I suppose a single upgrrrade is only enough to bring it this far. Although, there is no denying that it has gained some ability.
+- **9197**: Mwahaha. Can I have a little more time? It looks like I need to rrrethink the design a bit.
+- **9198**: Here, take this shield. And I forrrbid you from losing it.
+- **9199**: Once the prrreparations are complete, you'll need to perform the next upgrade. I hope you're looking forward to it as much as I am.
+- **9200**: (Hmm... Maybe mythril alone makes the spiritual link too weak? In that case, I'll need a differrrent metal. What could I use instead...)
+- **9201**: Hm? Mwahaha. I see you are eager to get starrrted. I need just a little more time.
+- **9202**: I'm sorry to have kept you waiting. My prrreparations are complete. Mwahaha.
+- **9203**: I'm going to get it rrready for the upgrade, so can I borrow the $0 for a moment?
+- **9204**: Thank you. Okay, this won't take very long, so just wait a little longer.
+- **9205**: There. That should do the trrrick.
+- **9206**: Take this and trrry the synthesis again multiple times.
+- **9207**: Once your spirit has been sufficiently imbued into the shield, you can try crrrafting the shield again.
+- **9208**: The ingrrredients have been left with your guild, so speak to your guildmaster for more information.
+- **9209**: Simply show this shield to your parrrticular guildmaster and they'll know what to do.
+- **9210**: I'm interrrested to see what this shield can become. Yes, very interested indeed. Mwahaha.
+- **9211**: Mwahaha... I've been anxiously awaiting your rrreturn. So, how did it turn out?
+- **9212**: I see...
+- **9213**: It falls within the rrrange I was expecting, based on the results of our previous attempt.
+- **9214**: Splendid. I think you'll rrreally see an improvement with the next upgrade!
+- **9215**: Mwahaha. I'll prrrepare the next ingredient for the Inventors' Coalition.
+- **9216**: Be sure to make the next upgrade once the preparations are rrready. Mwahaha.
+- **9217**: (Hmm... If I could use that sheet, it could serve as a kind of antennae... The problem is the weight... Maybe next time, I'll...)
+- **9218**: Mwahaha. What can I do for you, my frrriend?
+- **9219**: Hmm... There's something wrrrong with this shield. I don't think it's capable of properly channelling your spirit.
+- **9220**: Although, it's still perrrfectly repairable, if you so desire.
+- **9221**: However, know that repairing the $0 will reset the escutcheon's progress to when you first received the $1.
+- **9222**: Do you want to repair the shield? [Sure./No thanks.]
+- **9223**: Okay, I'll make the rrrepairs. Wait just a moment.
+- **9224**: That should do it.
+- **9225**: You must complete the Records of Eminence objective $0 to further enhance your shield.
+- **9226**: Sorry to keep you waiting. The prrreparations are finally complete.
+- **9227**: Hm? Is there something you'd like to ask me, frrriend?
+- **9228**: There appears to be interference with the synchronicity of the crystal. Yes, it seems that it is that rrrather annoying factor once again.
+- **9229**: It would appear that parrrticular factor is hounding us once again...
+- **9230**: However, there's no need to let it get us down. I've learrrned a way to mitigate its effects. Mwahaha.
+- **9231**: Crafting under cerrrtain conditions enables you to boost Craftsmanship more than usual, yes?
+- **9232**: When you take advantage of that situation, the factor is trrriggered, making your life more difficult.
+- **9233**: However, if you don't utilize this parrrticular condition, the effect of the factor grows stronger and stronger, meaning you should try to use it as much as possible.
+- **9234**: Were you able to comprrrehend all that? At any rate, simply show this shield to your guildmaster like before.
+- **9235**: Actually, I can't have you bothering your guildmaster all the time, so I'll explain part of the prrrocess here.
+- **9236**: First, you're going to need the rrrecipe.
+- **9237**: Required craft: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking]@ Required crystal: $4 Required items...
+- **9238**: $4 $0 $5 $0$0 $6 $0 $7 $0$3
+- **9240**: $4 $0 $5 $0$0
+- **9241**: $4 $0
+- **9242**: That's all of them. I hope you wrote that down?
+- **9243**: Next, I'll go over how to obtain the necessary materials. I've hearrrd there are a total of three.
+- **9244**: Firrrst, you'll need the old standby, $1.
+- **9245**: Like usual, you'rrre going to have to boost the Craftsmanship of the $0 to 100% and show it to your guildmaster.
+- **9246**: Although, this may have been the most difficult thing to incrrrease the Craftsmanship for. Remember, crafting various kinds of items is the secret to success.
+- **9247**: Next, we have the $2 and $3. These too are exactly like you experrrienced before.
+- **9248**: Was it a crafting set? Make your deliveries and then you can use the points earned to trrrade for the item.
+- **9249**: After that, the $4 and $5 come next. Hmm... I rrrecommend you check with your guildmaster on these two.
+- **9250**: That's all I have to say on the matter.
+- **9251**: Mwahaha! It seems the shield is nearly finished. Don't forrrget to have your guildmaster mark the shield after it's been upgraded.
+- **9252**: Mwahaha. So, how did it turn out? Allow me to take a closer look at your prrrize.
+- **9253**: Hmm... This is...
+- **9255**: Perrrfect!
+- **9256**: This is exactly the rrresult I was hoping for!
+- **9257**: Oh, please forrrgive me. I got a little carried away after seeing things turn out just as I anticipated. Mwahaha.
+- **9258**: I'm finding it harrrd to contain my excitement. This means the next upgrade will be the one. Mwahahaha!
+- **9259**: I'll get on the Inventors' Coalition to begin making the next set of preparations rrright away. I hope you're as excited as I am.
+- **9260**: (Hmm... The ultimate synchronicity... Now, to prepare the craftsman's symbol possessed by the guild...)
+- **9261**: Oh, my. I even told you to write the recipe down, too. Try to rrremember it this time.
+- **9262**: Mwahaha. Are you okay? Keep up the good work out there, my frrriend.
+- **9263**: Ahh, I see you've made it to the final stage at last.
+- **9264**: Now then, let's get starrrted, shall we? Let me see your $0.
+- **9265**: Thank you. I am extremely grrrateful for all of your hard work up to now.
+- **9266**: Now then, let's rrreview the necessary materials for the procedure.
+- **9267**: First, there's the $2 and the $3.
+- **9268**: These two items can be exchanged for crafter points at your guild.
+- **9269**: You'll need two $2 and one $3 to prrroceed.
+- **9270**: Next up is the $1. You already know how it works. Although this time arrround, it can't simply be used as is.
+- **9271**: The $1 is the physical manifestation of a crrraftsman's heart and soul. Although it powers the final upgrade, you will need to activate it first.
+- **9272**: Once you obtain it, bring it to me. I'll tell you what you need to perrrform the activation.
+- **9273**: By the way, do you rrremember how to obtain the $1?
+- **9274**: You'll need the help of your guildmaster after rrraising the shield's Craftsmanship to 100%.
+- **9275**: That rrreminds me... I've managed to eliminate the rather unfortunate factor that previously plagued this shield!
+- **9276**: This will free you from those rather rrridiculous failures that you experienced before.
+- **9277**: And so our explanation ends here!
+- **9278**: Listen carefully. Once you obtain the $1, bring it to me rrright away.
+- **9279**: Well, good luck to you out there. I'll be anxiously awaiting your rrreturn.
+- **9282**: In order to activate the $0, you must firrrst imbue it with your craftsman's spirit to previously unimaginable levels.
+- **9283**: Using the regular methods, you'd need to craft with it several million times, but that isn't very rrrealistic, now is it?
+- **9284**: That is why I've crrreated a special device to help assist with the crafting process.
+- **9285**: Using this "synthesis focuser" during your crafting sessions will help boost your spirit and imbue it within your $0.
+- **9286**: You just need to simply flip the switch and begin crafting, although some prrreparations are necessary.
+- **9287**: You'll need to place the $0 inside the synthesis focuser, along with the crystal, crafting sphere, and catalyst needed for the crafting process.
+- **9288**: For the crystal, please note that you cannot use the high-quality crystals or analysis crystals used for the engraving prrrocess.
+- **9290**: Once the materials are set, you can begin the crafting process.
+- **9291**: If everything goes as planned, it will infuse your $0 with a large amount of spirit. Once a sufficient amount has been trrransferred, it will activate the $0.
+- **9293**: With this parrrticular kind of crafting, you're also able to form "links" while crafting!
+- **9294**: I like to call this type of link a "craftchain". I know... I know... It's nothing fancy. Mwahaha.
+- **9295**: You alrrready know about the skillchains that you use in battle. This is kind of like that.
+- **9296**: The skillchain is triggered when you select the appropriate weapon skills with the proper timing, right?
+- **9297**: A craftchain is triggered when you use the proper crafting sphere and catalyst, also with the proper timing.
+- **9298**: Once the craftchain is triggered, it will boost your spirit by an even greater amount. You really want to use them if at all possible.
+- **9306**: However, you will need to learrrn the linking procedure for yourself.
+- **9308**: The catalyst is a material that has a grrreat effect on the success of your craftchain.
+- **9309**: You already know how skillchains have levels, rrright?
+- **9310**: Craftchains also have levels, and you will need to use a catalyst that matches the element of the crafting sphere.
+- **9311**: I have here an example of a catalyst. It comes from the Inventors' Coalition's verrry own MC-I-SR0 series!
+- **9312**: The linking process has thrrree levels, just like with skillchains. Depending on the crafting sphere you use, the catalyst will be selected automatically.
+- **9314**: If your combination of crystal, crafting sphere, and catalyst are incorrect, the synthesis is guarrranteed to fail.
+- **9315**: And if it fails, you will lose the crystal, crafting sphere, and catalyst you used.
+- **9316**: Additionally, you will also lose some of the spirit stored within your $0.
+- **9317**: That will mean much of your hard work will be for naught, so be especially carrreful when selecting your materials.
+- **9320**: You can get the MC-I-SR0 series catalyst from me, for the rrright price of course...
+- **9321**: The cost of manufacturing is rather high for this particular catalyst, so I got an earful from the coalition's accountant after I made it in bulk.
+- **9322**: If I don't turn a profit, it will adversely affect our rrresearch budget... So, sorry about that. I hope you understand.
+- **9323**: The crafting spheres are a somewhat unique item. You can obtain them by using a special technique that brrreaks down certain items into their individual components.
+- **9326**: Now, about the item to be used as a base for the technique...
+- **9327**: The $4 and the $5...
+- **9328**: You should be able to use the $4 with the $6, and the $5 with the $7 for the prrrocedure.
+- **9329**: I believe there are more items out there that can be used. The exact number is unknown, but just consider finding them yet another part of the challenge.
+- **9330**: You can obtain information from other adventurers, or just keep experrrimenting until you find the answers for yourself.
+- **9331**: However, just be careful that you don't lose any valuable items in the process, even if it is in the name of prrrogress.
+- **9359**: What's this!? You've completed the activation!
+- **9360**: Yes, everything looks perrrfect. The activation is complete. You did it!
+- **9361**: Mwahaha... Would you like to go over the rrrecipe?
+- **9362**: I'd like to check the materials before you begin the synthesis, so would you mind showing them to me firrrst?
+- **9363**: Mwahaha. Now then, let's review the rrrecipe, shall we?
+- **9364**: Mwahaha. Impressive. Are you ready to perrrform the synthesis now?
+- **9365**: ...
+- **9366**: ...
+- **9367**: Hm? What's the matter? Is something wrrrong?
+- **9368**: What's that? You're trrrying to tell me the synthesis won't start!?
+- **9369**: I don't get it... What could've gone wrrrong...
+- **9370**: I wonder if the rrrecipe was mistaken... I don't see how though...
+- **9371**: Perrrhaps you did not sufficiently activate the object? No, that can't be it!
+- **9372**: Wait! That rrreminds me...
+- **9373**: I'm sorry. There's one more thing you rrrequire. It should be with your guildmaster.
+- **9374**: Do you think you could bring it here for me?
+- **9375**: (Thanks, Mikolulu. I completely forrrgot about that note.)
+- **9376**: (That note... If I had thrown it carrrelessly away without noticing, I wonder what I would have done...)
+- **9377**: I'm sorry. My rrrequest was rather pointless. The thing I asked of you is already here.
+- **9378**: Here you go. Mwahaha. It's a rrrather exceptional emblem.
+- **9379**: Allow me to go over the rrrecipe once more.
+- **9380**: Do you have all of the materials? If so, perrrform the synthesis and show me the completed shield.
+- **9386**: Well, looks like I'll be having to share that with the guildmaster!
+- **9387**: Yes... Go and show that shield to your guildmaster.
+- **9388**: Mwahaha. Welcome back. I imagine your guildmaster was rrrather pleased, no?
+- **9389**: That rrreminds me... I don't think I ever thanked you properly.
+- **9390**: With this project, I started out looking for a way to rrrevolutionize the manufacturing process, but I never would've succeeded without your assistance.
+- **9391**: Thank you for helping me all this time. And congrrratulations on finally completing the escutcheon.
+- **9392**: I hope crrraftsmen across the land will use that shield to create higher quality goods than ever before.
+- **9393**: I'll be here if you ever need me. Feel free to come ask me anything. Mwahahaha!
+- **9394**: Learn about what? [Transmutation./Chains./Spheres./Catalysts./Obtaining materials./Penalties for failure./Nothing.]
+- **9395**: There are some conditions for losing your "spirit."
+- **9396**: The Synthesis Focuser II will become unstable if certain things are done repeatedly.
+- **9397**: Those "certain things" are continuing to use the same crystal and continuing to do the same chain.
+- **9398**: If it remains unstable for too long, the Synthesis Focuser II may explode if or when the synthesis fails, meaning that you are more likely to lose some of your spirit.
+- **9399**: Stability is restored over time or by increasing the level of your chain.
+- **9400**: An explosion will also restore stability to the focuser, although I highly recommend you do not take this route.
+- **9401**: The Stability gauge displays the focuser's current stability.
+- **9402**: Mwahaha! Very well. Which do you prrrefer?
+- **9403**: Which catalyst do you want to buy? [MC-I-SR01 ($0 gil)/MC-I-SR02 ($1 gil)/MC-I-SR03 ($2 gil)/Never mind.]
+- **9404**: How many would you like?
+- **9405**: You want the [/MC-I-SR01/MC-I-SR02/MC-I-SR03]? It is going to cost you $2 for $1 of them. Please note that there are absolutely no rrreturns. Are you sure?
+- **9406**: Make the purchase? (Gil: $16) [Yes./No thanks.]
+- **9407**: Oh. It seems you have too many to place within the synthesis focuser. Do try to keep the limit in mind...
+- **9408**: Hmm... It seems you can't place any more within the synthesis focuser.
+- **9412**: Debug Menu [Crafting controls./Receive shield./Reset flag./Exit.]
+- **9413**: Select Craft [Woodworking./Smithing./Goldsmithing./Clothcraft./Leathercraft./Bonecraft./Alchemy./Cooking./Exit.]
+- **9414**: Crafting Level [Expert./Veteran./Adept./Artisan./Craftsman./Journeyman./Apprentice./Novice./Initiate./Recruit./Amateur./Exit.]
+- **9415**: Select an upgrade level.
 
 ## Events
 
@@ -637,7 +640,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9140*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9142*)
     → "Hmm... It seems I can never find the perrrfect person. Although, I know that one day, somebody'll come along... Mwahaha!"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -690,7 +693,7 @@
 ```
   0: 0x0007 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
   1: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  2: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9140*)
+  2: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9142*)
     → "Hmm... It seems I can never find the perrrfect person. Although, I know that one day, somebody'll come along... Mwahaha!"
   3: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
@@ -698,101 +701,101 @@
   6: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
-  9: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=9141*)
+  9: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=9143*)
     → "Oh! What do we have here!? Yes! You're just the perrrson I've been looking for!"
  10: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x004A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=51*
- 12: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=9142*)
+ 12: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=9144*)
     → "Mwahaha. Let me guess, you're a craftsman skilled in the art of [/woodworking/smithing/goldsmithing/clothcraft/leathercraft/bonecraft/alchemy/cooking]. Am I rrright?"
  13: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x005D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [EventEntity, EventEntity], work=52*
- 15: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=9143*)
+ 15: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=9145*)
     → "No, don't answer that, my frrriend. I can tell just by looking at you!"
  16: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0070 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi2" with entities [EventEntity, EventEntity], work=52*
- 18: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=9144*)
+ 18: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=9146*)
     → "I have a favor to ask. Please, hear me out."
  19: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0083 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
- 21: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=9145*)
+ 21: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=9147*)
     → "Firrrst, allow me to introduce myself. My name is Mewk Chorosap. I'm a member of the Inventors' Coalition in Adoulin."
  22: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=9146*)
+ 23: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=9148*)
     → "See, that's where you come in. I need your help with a new item I'm worrrking on. Mwahaha."
  24: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=9147*)
+ 25: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=9149*)
     → "Recently, I've been interrrested in crystal synthesis. In all of Vana'diel, the Middle Lands is known more than any other area for using crystal synthesis."
  26: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=9148*)
+ 27: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=9150*)
     → "Therefore, I took a trrrip to see how the process works."
  28: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00A2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
- 30: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9149*)
+ 30: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9151*)
     → "I'm so glad I came here! I can actually picture it now! A bright future where my technology and crystal synthesis are fused together in glorrrious harmony!"
  31: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9150*)
+ 32: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9152*)
     → "Mwahahaha!"
  33: 0x00B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00B9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
- 35: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9151*)
+ 35: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9153*)
     → "Since you are a big part of this future, I want you to have this prrresent."
  36: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
- 38: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9152*)
+ 38: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9154*)
     → "You see, this is a kind of item to support and even enhance your efforts when it comes to synthesizing items."
  39: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9153*)
+ 40: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9155*)
     → "Of course, right now, it's just an orrrdinary shield."
  41: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9154*)
+ 42: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9156*)
     → "When synthesizing crystals, one's mind plays an imporrrtant part in visualizing the finished product."
  43: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9155*)
+ 44: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9157*)
     → "The power of the mind is also requirrred by this shield."
  45: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9156*)
+ 46: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9158*)
     → "So when craftsmen like yourself equip this shield, and try really hard to synthesize items over and over again, your blood, sweat, tears, and your very soul itself will be poured into the shield."
  47: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9157*)
+ 48: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9159*)
     → "I have coined the term "Craftsmanship" to describe the arrrt of imbuing the strength of one's mind into an object."
  49: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9158*)
+ 50: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9160*)
     → "Once your Craftsmanship reaches a cerrrtain level, you will be able to synthesize a crystal."
  51: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9159*)
+ 52: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9161*)
     → "You can then combine that crystal with special ingrrredients from the Inventors' Coalition to use on the shield I gave you."
  53: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9160*)
+ 54: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9162*)
     → "If it all goes according to plan, you'll end up with a brrrand-new shield."
  55: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9161*)
+ 56: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9163*)
     → "By crrrafting the shield over and over again, you can boost its ability to its maximum value."
  57: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=9162*)
+ 58: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=9164*)
     → "I have left the necessary ingredients with the [/Carpenters'/Smithing/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild, so please check with your guildmaster."
  59: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=9163*)
+ 60: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=9165*)
     → "However, I've asked them to not just give you the ingredients without worrrking for them."
  61: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x010B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=51*
- 63: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=9164*)
+ 63: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=9166*)
     → "It wouldn't be interrresting if just anybody could make such a powerful thing. Mwahaha."
  64: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=9165*)
+ 65: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=9167*)
     → "I'll give you the shield, so what do you say? Are you interrrested in making it even more powerful? Of course, the road to its completion will be fraught with peril."
  66: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x0122 [0x48] [System] [9166*]:
+ 67: 0x0122 [0x48] [System] [9168*]:
     → "Once you have started to craft an escutcheon, your [/woodworking/blacksmithing/goldsmithing/weaving/leathcraft/bonecraft/alchemy/cooking] skill will not reduce until the shield is completed or you cancel the process."
- 68: 0x0125 [0x24] CREATE_DIALOG(message_id=9167*, default_option=0*, option_flags=0*)
+ 68: 0x0125 [0x24] CREATE_DIALOG(message_id=9169*, default_option=0*, option_flags=0*)
     → "What will you do? [Leave it to me!/I think I better pass.]"
  69: 0x012C [0x25] WAIT_DIALOG_SELECT()
  70: 0x012D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0138
  71: 0x0135 [0x01] GOTO 0x0165
  72: 0x0138 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
- 73: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=9168*)
+ 73: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=9170*)
     → "Really? Well, I suppose even if I did give it to somebody whose hearrrt wasn't in it, it wouldn't go very well. In that case, I'll take the shield back then."
  74: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=9169*)
+ 75: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=9171*)
     → "If you ever feel like showing me what you're trrruly made of, I'll be here waiting for you. Mwahaha."
  76: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x014F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=51*
@@ -803,14 +806,14 @@
 SUBROUTINE_0165:
  81: 0x0165 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  82: 0x0166 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
- 83: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=9170*)
+ 83: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=9172*)
     → "Mwahahaha. I knew you had it in you. I suppose I lit a fire within that crrraftsman's heart of yours."
  84: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=9171*)
+ 85: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=9173*)
     → "Now then. Show that shield to your guildmaster. The path forward will be rrrevealed to you."
  86: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x017D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
- 88: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=9172*)
+ 88: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=9174*)
     → "When you're finished, you'll need to receive a sign on the shield from your guildmaster that it's finished. Then brrring it back to me. I'm counting on you. Mwahaha."
  89: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0190 [0x03] Work_Zone[1] = 1*
@@ -916,16 +919,16 @@ SUBROUTINE_0165:
  10: 0x01D8 [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[8]
  11: 0x01DD [0x03] ExtData[1]->WorkLocal[33] = Work_Zone[9]
  12: 0x01E2 [0x4A] EventEntity looks at LocalPlayer
- 13: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9173*)
+ 13: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9175*)
     → "Why hello there, my [/woodworking/smithing/goldsmithing/clothcraft/leathercraft/bonecraft/alchemy/cooking] expert. What is the prrroblem?"
  14: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x01EF [0x24] CREATE_DIALOG(message_id=9174*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 15: 0x01EF [0x24] CREATE_DIALOG(message_id=9176*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What can I do for you? [Never mind./I want to check the recipe./I want a catalyst./Tell me about these apparatuses./I want to try making the shield./I give up trying to make the shield.]"
  16: 0x01F6 [0x25] WAIT_DIALOG_SELECT()
  17: 0x01F7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03E3
  18: 0x01FF [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x02B2
  19: 0x0207 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
- 20: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=9259*)
+ 20: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=9261*)
     → "Oh, my. I even told you to write the recipe down, too. Try to rrremember it this time."
  21: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x021A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
@@ -935,7 +938,7 @@ SUBROUTINE_0165:
  26: 0x0236 [0x03] Work_Zone[4] = 0*
  27: 0x023B [0x03] Work_Zone[5] = 0*
  28: 0x0240 [0x03] Work_Zone[6] = 4099*
- 29: 0x0245 [0x48] [System] [9235*]:
+ 29: 0x0245 [0x48] [System] [9237*]:
     → "Required craft: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking]@ Required crystal: $4 Required items..."
  30: 0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0249 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
@@ -946,24 +949,24 @@ SUBROUTINE_0165:
  36: 0x0262 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[19]
  37: 0x0267 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[20]
  38: 0x026C [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[21]
- 39: 0x0271 [0x48] [System] [9236*]:
+ 39: 0x0271 [0x48] [System] [9238*]:
     → "$4 $0 $5 $0$0 $6 $0 $7 $0$3"
  40: 0x0274 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0275 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
  42: 0x027A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
  43: 0x027F [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[22]
  44: 0x0284 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[23]
- 45: 0x0289 [0x48] [System] [9238*]:
+ 45: 0x0289 [0x48] [System] [9240*]:
     → "$4 $0 $5 $0$0"
  46: 0x028C [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x028D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 48: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=9260*)
+ 48: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=9262*)
     → "Mwahaha. Are you okay? Keep up the good work out there, my frrriend."
  49: 0x029F [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x02A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  51: 0x02AF [0x01] GOTO 0x03E0
  52: 0x02B2 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x03E0
- 53: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=9361*)
+ 53: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
     → "Mwahaha. Now then, let's review the rrrecipe, shall we?"
  54: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x02BE [0x02] IF !(ExtData[1]->WorkLocal[33] == 5*) GOTO 0x0319
@@ -973,7 +976,7 @@ SUBROUTINE_0165:
  59: 0x02D3 [0x03] Work_Zone[4] = 0*
  60: 0x02D8 [0x03] Work_Zone[5] = 0*
  61: 0x02DD [0x03] Work_Zone[6] = 4099*
- 62: 0x02E2 [0x48] [System] [9235*]:
+ 62: 0x02E2 [0x48] [System] [9237*]:
     → "Required craft: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking]@ Required crystal: $4 Required items..."
  63: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x02E6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
@@ -984,10 +987,10 @@ SUBROUTINE_0165:
  69: 0x02FF [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[19]
  70: 0x0304 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[20]
  71: 0x0309 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[21]
- 72: 0x030E [0x48] [System] [9236*]:
+ 72: 0x030E [0x48] [System] [9238*]:
     → "$4 $0 $5 $0$0 $6 $0 $7 $0$3"
  73: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x0312 [0x1D] PRINT_EVENT_MESSAGE(message_id=9360*)
+ 74: 0x0312 [0x1D] PRINT_EVENT_MESSAGE(message_id=9362*)
     → "I'd like to check the materials before you begin the synthesis, so would you mind showing them to me firrrst?"
  75: 0x0315 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0316 [0x01] GOTO 0x03DD
@@ -998,7 +1001,7 @@ SUBROUTINE_0165:
  81: 0x032E [0x03] Work_Zone[4] = 0*
  82: 0x0333 [0x03] Work_Zone[5] = 0*
  83: 0x0338 [0x03] Work_Zone[6] = 4099*
- 84: 0x033D [0x48] [System] [9235*]:
+ 84: 0x033D [0x48] [System] [9237*]:
     → "Required craft: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking]@ Required crystal: $4 Required items..."
  85: 0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0341 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
@@ -1009,15 +1012,15 @@ SUBROUTINE_0165:
  91: 0x035A [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[19]
  92: 0x035F [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[20]
  93: 0x0364 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[21]
- 94: 0x0369 [0x48] [System] [9236*]:
+ 94: 0x0369 [0x48] [System] [9238*]:
     → "$4 $0 $5 $0$0 $6 $0 $7 $0$3"
  95: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x036D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
  97: 0x0372 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[22]
- 98: 0x0377 [0x48] [System] [9239*]:
+ 98: 0x0377 [0x48] [System] [9241*]:
     → "$4 $0"
  99: 0x037A [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x037B [0x1D] PRINT_EVENT_MESSAGE(message_id=9378*)
+100: 0x037B [0x1D] PRINT_EVENT_MESSAGE(message_id=9380*)
     → "Do you have all of the materials? If so, perrrform the synthesis and show me the completed shield."
 101: 0x037E [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x037F [0x01] GOTO 0x03DD
@@ -1028,7 +1031,7 @@ SUBROUTINE_0165:
 107: 0x0397 [0x03] Work_Zone[4] = 0*
 108: 0x039C [0x03] Work_Zone[5] = 0*
 109: 0x03A1 [0x03] Work_Zone[6] = 4099*
-110: 0x03A6 [0x48] [System] [9235*]:
+110: 0x03A6 [0x48] [System] [9237*]:
     → "Required craft: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking]@ Required crystal: $4 Required items..."
 111: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x03AA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
@@ -1039,10 +1042,10 @@ SUBROUTINE_0165:
 117: 0x03C3 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[19]
 118: 0x03C8 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[20]
 119: 0x03CD [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[21]
-120: 0x03D2 [0x48] [System] [9236*]:
+120: 0x03D2 [0x48] [System] [9238*]:
     → "$4 $0 $5 $0$0 $6 $0 $7 $0$3"
 121: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9277*)
+122: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9279*)
     → "Well, good luck to you out there. I'll be anxiously awaiting your rrreturn."
 123: 0x03D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x03DA [0x01] GOTO 0x03DD
@@ -1054,7 +1057,7 @@ SUBROUTINE_03E0:
 126: 0x03E0 [0x01] GOTO 0x05B5
 127: 0x03E3 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0413
 128: 0x03EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-129: 0x03FA [0x1D] PRINT_EVENT_MESSAGE(message_id=9400*)
+129: 0x03FA [0x1D] PRINT_EVENT_MESSAGE(message_id=9402*)
     → "Mwahaha! Very well. Which do you prrrefer?"
 130: 0x03FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x03FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1065,32 +1068,32 @@ SUBROUTINE_03E0:
 136: 0x041E [0x01] GOTO 0x05B5
 137: 0x0421 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x047E
 138: 0x0429 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0452
-139: 0x0431 [0x1D] PRINT_EVENT_MESSAGE(message_id=9178*)
+139: 0x0431 [0x1D] PRINT_EVENT_MESSAGE(message_id=9180*)
     → "Mwahaha. It's nice to see you're up for the challenge, my frrriend."
 140: 0x0434 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x0435 [0x6E] EventEntity uses emote 6*
 142: 0x043C [0x99] Wait for EventEntity animation to complete
 143: 0x0441 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-144: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=9181*)
+144: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=9183*)
     → "At least, that's what I would say if you still didn't have that $0. Dispose of it firrrst."
 145: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x044A [0x03] Work_Zone[1] = 3*
 147: 0x044F [0x01] GOTO 0x047B
 148: 0x0452 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 149: 0x0453 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
-150: 0x0462 [0x1D] PRINT_EVENT_MESSAGE(message_id=9178*)
+150: 0x0462 [0x1D] PRINT_EVENT_MESSAGE(message_id=9180*)
     → "Mwahaha. It's nice to see you're up for the challenge, my frrriend."
 151: 0x0465 [0x23] WAIT_FOR_DIALOG_INTERACTION
-152: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=9179*)
+152: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=9181*)
     → "In that case, I'll need to give you this."
 153: 0x0469 [0x23] WAIT_FOR_DIALOG_INTERACTION
-154: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=9180*)
+154: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=9182*)
     → "In rrregards to the other ingredients, I mentioned this before, but you'll need to speak with your guildmaster."
 155: 0x046D [0x23] WAIT_FOR_DIALOG_INTERACTION
-156: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=9171*)
+156: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=9173*)
     → "Now then. Show that shield to your guildmaster. The path forward will be rrrevealed to you."
 157: 0x0471 [0x23] WAIT_FOR_DIALOG_INTERACTION
-158: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=9172*)
+158: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=9174*)
     → "When you're finished, you'll need to receive a sign on the shield from your guildmaster that it's finished. Then brrring it back to me. I'm counting on you. Mwahaha."
 159: 0x0475 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x0476 [0x03] Work_Zone[1] = 1*
@@ -1099,41 +1102,41 @@ SUBROUTINE_047B:
 161: 0x047B [0x01] GOTO 0x05B5
 162: 0x047E [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0546
 163: 0x0486 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-164: 0x0495 [0x1D] PRINT_EVENT_MESSAGE(message_id=9182*)
+164: 0x0495 [0x1D] PRINT_EVENT_MESSAGE(message_id=9184*)
     → "Oh, what happened to give you a change of hearrrt? Are you sure you want to quit?"
 165: 0x0498 [0x23] WAIT_FOR_DIALOG_INTERACTION
-166: 0x0499 [0x48] [System] [9183*]:
+166: 0x0499 [0x48] [System] [9185*]:
     → "Note that reattempting will require you to abandon your current shield in progress."
-167: 0x049C [0x24] CREATE_DIALOG(message_id=9185*, default_option=0*, option_flags=0*)
+167: 0x049C [0x24] CREATE_DIALOG(message_id=9187*, default_option=0*, option_flags=0*)
     → "Do you really want to quit? [On second thought, I'll stick with it./Yes, I've had enough.]"
 168: 0x04A3 [0x25] WAIT_DIALOG_SELECT()
 169: 0x04A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04D4
 170: 0x04AC [0x42] SET_CLI_EVENT_CANCEL_DATA()
 171: 0x04AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
-172: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9186*)
+172: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9188*)
     → "Mwahaha. That's what I like to hear. Keep up the good worrrk."
 173: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x04C0 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x04CC
-175: 0x04C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9172*)
+175: 0x04C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9174*)
     → "When you're finished, you'll need to receive a sign on the shield from your guildmaster that it's finished. Then brrring it back to me. I'm counting on you. Mwahaha."
 176: 0x04CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x04CC [0x03] Work_Zone[1] = 1073741824*
 178: 0x04D1 [0x01] GOTO 0x0543
 179: 0x04D4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0543
-180: 0x04DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9184*)
+180: 0x04DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9186*)
     → "Really abandon your current shield?"
 181: 0x04DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-182: 0x04E0 [0x24] CREATE_DIALOG(message_id=9185*, default_option=0*, option_flags=0*)
+182: 0x04E0 [0x24] CREATE_DIALOG(message_id=9187*, default_option=0*, option_flags=0*)
     → "Do you really want to quit? [On second thought, I'll stick with it./Yes, I've had enough.]"
 183: 0x04E7 [0x25] WAIT_DIALOG_SELECT()
 184: 0x04E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0518
 185: 0x04F0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 186: 0x04F1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
-187: 0x0500 [0x1D] PRINT_EVENT_MESSAGE(message_id=9186*)
+187: 0x0500 [0x1D] PRINT_EVENT_MESSAGE(message_id=9188*)
     → "Mwahaha. That's what I like to hear. Keep up the good worrrk."
 188: 0x0503 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x0504 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0510
-190: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=9172*)
+190: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=9174*)
     → "When you're finished, you'll need to receive a sign on the shield from your guildmaster that it's finished. Then brrring it back to me. I'm counting on you. Mwahaha."
 191: 0x050F [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x0510 [0x03] Work_Zone[1] = 1073741824*
@@ -1141,10 +1144,10 @@ SUBROUTINE_047B:
 194: 0x0518 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0540
 195: 0x0520 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 196: 0x0521 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=52*
-197: 0x0530 [0x1D] PRINT_EVENT_MESSAGE(message_id=9187*)
+197: 0x0530 [0x1D] PRINT_EVENT_MESSAGE(message_id=9189*)
     → "Well, that is most unforrrtunate."
 198: 0x0533 [0x23] WAIT_FOR_DIALOG_INTERACTION
-199: 0x0534 [0x1D] PRINT_EVENT_MESSAGE(message_id=9188*)
+199: 0x0534 [0x1D] PRINT_EVENT_MESSAGE(message_id=9190*)
     → "That shield will do you no good, so be surrre to get rid of it."
 200: 0x0537 [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x0538 [0x03] Work_Zone[1] = 2*
@@ -1159,7 +1162,7 @@ SUBROUTINE_0543:
 206: 0x0555 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x05AC
 207: 0x055D [0x02] IF !(ExtData[1]->WorkLocal[33] >= 4*) GOTO 0x0578
 208: 0x0565 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[10]
-209: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=9276*)
+209: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=9278*)
     → "Listen carefully. Once you obtain the $1, bring it to me rrright away."
 210: 0x056D [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x056E [0x03] Work_Zone[1] = 1073741824*
@@ -1167,11 +1170,11 @@ SUBROUTINE_0543:
 213: 0x0574 [0x00] END_REQSTACK()
 
 SUBROUTINE_05A5:
-214: 0x05A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9277*)
+214: 0x05A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9279*)
     → "Well, good luck to you out there. I'll be anxiously awaiting your rrreturn."
 215: 0x05A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x05A9 [0x01] GOTO 0x05B0
-217: 0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=9175*)
+217: 0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=9177*)
     → "Mwahahaha. In that case, good luck to you, my frrriend."
 218: 0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1250,37 +1253,37 @@ SUBROUTINE_05B5:
  10: 0x05F0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x05F1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  12: 0x05F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
- 13: 0x0601 [0x1D] PRINT_EVENT_MESSAGE(message_id=9189*)
+ 13: 0x0601 [0x1D] PRINT_EVENT_MESSAGE(message_id=9191*)
     → "Mwahaha. I've been waiting for this. Let's see what you've brrrought me."
  14: 0x0604 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=9190*)
+ 15: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=9192*)
     → "It must've been hard when you firrrst started using this shield. It is difficult to get your spirit in tune with the crystal."
  16: 0x0608 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0609 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=51*
  18: 0x0618 [0x1C] WAIT(30* ticks)
- 19: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=9191*)
+ 19: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=9193*)
     → "Hmm..."
  20: 0x061E [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x061F [0x1C] WAIT(30* ticks)
  22: 0x0622 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
- 23: 0x0631 [0x1D] PRINT_EVENT_MESSAGE(message_id=9192*)
+ 23: 0x0631 [0x1D] PRINT_EVENT_MESSAGE(message_id=9194*)
     → "Yes, I imagined as much, but was hoping it'd turn out better."
  24: 0x0634 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0635 [0x1D] PRINT_EVENT_MESSAGE(message_id=9193*)
+ 25: 0x0635 [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
     → "This is nowhere near the level I was expecting to see."
  26: 0x0638 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0639 [0x1D] PRINT_EVENT_MESSAGE(message_id=9194*)
+ 27: 0x0639 [0x1D] PRINT_EVENT_MESSAGE(message_id=9196*)
     → "I suppose a single upgrrrade is only enough to bring it this far. Although, there is no denying that it has gained some ability."
  28: 0x063C [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x063D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
- 30: 0x064C [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
+ 30: 0x064C [0x1D] PRINT_EVENT_MESSAGE(message_id=9197*)
     → "Mwahaha. Can I have a little more time? It looks like I need to rrrethink the design a bit."
  31: 0x064F [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0650 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
- 33: 0x065F [0x1D] PRINT_EVENT_MESSAGE(message_id=9196*)
+ 33: 0x065F [0x1D] PRINT_EVENT_MESSAGE(message_id=9198*)
     → "Here, take this shield. And I forrrbid you from losing it."
  34: 0x0662 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x0663 [0x1D] PRINT_EVENT_MESSAGE(message_id=9197*)
+ 35: 0x0663 [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
     → "Once the prrreparations are complete, you'll need to perform the next upgrade. I hope you're looking forward to it as much as I am."
  36: 0x0666 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0667 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=51*
@@ -1290,27 +1293,27 @@ SUBROUTINE_05B5:
  41: 0x0682 [0x4A] EventEntity looks at LocalPlayer
  42: 0x068B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  43: 0x068C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 44: 0x068D [0x1D] PRINT_EVENT_MESSAGE(message_id=9209*)
+ 44: 0x068D [0x1D] PRINT_EVENT_MESSAGE(message_id=9211*)
     → "Mwahaha... I've been anxiously awaiting your rrreturn. So, how did it turn out?"
  45: 0x0690 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0691 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
  47: 0x06A0 [0x1C] WAIT(30* ticks)
- 48: 0x06A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9210*)
+ 48: 0x06A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9212*)
     → "I see..."
  49: 0x06A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x06A7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
  51: 0x06B6 [0x1C] WAIT(30* ticks)
  52: 0x06B9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 53: 0x06C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9211*)
+ 53: 0x06C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9213*)
     → "It falls within the rrrange I was expecting, based on the results of our previous attempt."
  54: 0x06CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9212*)
+ 55: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9214*)
     → "Splendid. I think you'll rrreally see an improvement with the next upgrade!"
  56: 0x06CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x06D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9213*)
+ 57: 0x06D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9215*)
     → "Mwahaha. I'll prrrepare the next ingredient for the Inventors' Coalition."
  58: 0x06D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9214*)
+ 59: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9216*)
     → "Be sure to make the next upgrade once the preparations are rrready. Mwahaha."
  60: 0x06D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x06D8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1320,31 +1323,31 @@ SUBROUTINE_05B5:
  65: 0x06F3 [0x4A] EventEntity looks at LocalPlayer
  66: 0x06FC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  67: 0x06FD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 68: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9250*)
+ 68: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9252*)
     → "Mwahaha. So, how did it turn out? Allow me to take a closer look at your prrrize."
  69: 0x0701 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0702 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
  71: 0x0711 [0x1C] WAIT(120* ticks)
- 72: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=9251*)
+ 72: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=9253*)
     → "Hmm... This is..."
  73: 0x0717 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0718 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
  75: 0x0727 [0x1C] WAIT(30* ticks)
  76: 0x072A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
- 77: 0x0739 [0x1D] PRINT_EVENT_MESSAGE(message_id=9253*)
+ 77: 0x0739 [0x1D] PRINT_EVENT_MESSAGE(message_id=9255*)
     → "Perrrfect!"
  78: 0x073C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x073D [0x1D] PRINT_EVENT_MESSAGE(message_id=9254*)
+ 79: 0x073D [0x1D] PRINT_EVENT_MESSAGE(message_id=9256*)
     → "This is exactly the rrresult I was hoping for!"
  80: 0x0740 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0741 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 82: 0x0750 [0x1D] PRINT_EVENT_MESSAGE(message_id=9255*)
+ 82: 0x0750 [0x1D] PRINT_EVENT_MESSAGE(message_id=9257*)
     → "Oh, please forrrgive me. I got a little carried away after seeing things turn out just as I anticipated. Mwahaha."
  83: 0x0753 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x0754 [0x1D] PRINT_EVENT_MESSAGE(message_id=9256*)
+ 84: 0x0754 [0x1D] PRINT_EVENT_MESSAGE(message_id=9258*)
     → "I'm finding it harrrd to contain my excitement. This means the next upgrade will be the one. Mwahahaha!"
  85: 0x0757 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x0758 [0x1D] PRINT_EVENT_MESSAGE(message_id=9257*)
+ 86: 0x0758 [0x1D] PRINT_EVENT_MESSAGE(message_id=9259*)
     → "I'll get on the Inventors' Coalition to begin making the next set of preparations rrright away. I hope you're as excited as I am."
  87: 0x075B [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x075C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1381,10 +1384,10 @@ SUBROUTINE_076E:
   1: 0x0779 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x077A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x077B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
-  4: 0x078A [0x1D] PRINT_EVENT_MESSAGE(message_id=9176*)
+  4: 0x078A [0x1D] PRINT_EVENT_MESSAGE(message_id=9178*)
     → "How's that shield coming? Finished yet?"
   5: 0x078D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x078E [0x1D] PRINT_EVENT_MESSAGE(message_id=9177*)
+  6: 0x078E [0x1D] PRINT_EVENT_MESSAGE(message_id=9179*)
     → "Good. Now let me have a look."
   7: 0x0791 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0792 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=51*
@@ -1432,41 +1435,41 @@ SUBROUTINE_076E:
   3: 0x07B2 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[5]
   4: 0x07B7 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x080E
   5: 0x07BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
-  6: 0x07CE [0x1D] PRINT_EVENT_MESSAGE(message_id=9198*)
+  6: 0x07CE [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
     → "(Hmm... Maybe mythril alone makes the spiritual link too weak? In that case, I'll need a differrrent metal. What could I use instead...)"
   7: 0x07D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x07D2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
   9: 0x07E1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  10: 0x07EE [0x4A] EventEntity looks at LocalPlayer
- 11: 0x07F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
+ 11: 0x07F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
     → "Hm? Mwahaha. I see you are eager to get starrrted. I need just a little more time."
  12: 0x07FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x07FB [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x080B
  14: 0x0803 [0x03] Work_Zone[2] = 1*
- 15: 0x0808 [0x48] [System] [9223*]:
+ 15: 0x0808 [0x48] [System] [9225*]:
     → "You must complete the Records of Eminence objective $0 to further enhance your shield."
  16: 0x080B [0x01] GOTO 0x089C
  17: 0x080E [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0855
  18: 0x0816 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
- 19: 0x0825 [0x1D] PRINT_EVENT_MESSAGE(message_id=9215*)
+ 19: 0x0825 [0x1D] PRINT_EVENT_MESSAGE(message_id=9217*)
     → "(Hmm... If I could use that sheet, it could serve as a kind of antennae... The problem is the weight... Maybe next time, I'll...)"
  20: 0x0828 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0829 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
  22: 0x0838 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  23: 0x0845 [0x4A] EventEntity looks at LocalPlayer
- 24: 0x084E [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
+ 24: 0x084E [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
     → "Hm? Mwahaha. I see you are eager to get starrrted. I need just a little more time."
  25: 0x0851 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0852 [0x01] GOTO 0x089C
  27: 0x0855 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x089C
  28: 0x085D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
- 29: 0x086C [0x1D] PRINT_EVENT_MESSAGE(message_id=9258*)
+ 29: 0x086C [0x1D] PRINT_EVENT_MESSAGE(message_id=9260*)
     → "(Hmm... The ultimate synchronicity... Now, to prepare the craftsman's symbol possessed by the guild...)"
  30: 0x086F [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0870 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
  32: 0x087F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  33: 0x088C [0x4A] EventEntity looks at LocalPlayer
- 34: 0x0895 [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
+ 34: 0x0895 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
     → "Hm? Mwahaha. I see you are eager to get starrrted. I need just a little more time."
  35: 0x0898 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0899 [0x01] GOTO 0x089C
@@ -1503,10 +1506,10 @@ SUBROUTINE_089C:
   1: 0x08A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x08A8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x08A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x08B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
+  4: 0x08B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
     → "I'm sorry to have kept you waiting. My prrreparations are complete. Mwahaha."
   5: 0x08BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x08BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
+  6: 0x08BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
     → "I'm going to get it rrready for the upgrade, so can I borrow the $0 for a moment?"
   7: 0x08BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x08C0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1549,41 +1552,41 @@ SUBROUTINE_089C:
   3: 0x08DC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x08DD [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x091A
   5: 0x08E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  6: 0x08F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
+  6: 0x08F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
     → "I'm sorry to have kept you waiting. My prrreparations are complete. Mwahaha."
   7: 0x08F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x08F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
+  8: 0x08F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
     → "I'm going to get it rrready for the upgrade, so can I borrow the $0 for a moment?"
   9: 0x08FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x08FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  11: 0x090B [0x6E] LocalPlayer uses emote 7*
  12: 0x0912 [0x99] Wait for LocalPlayer animation to complete
  13: 0x0917 [0x1C] WAIT(30* ticks)
- 14: 0x091A [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
+ 14: 0x091A [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
     → "Thank you. Okay, this won't take very long, so just wait a little longer."
  15: 0x091D [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x091E [0x1A] CALL_SUBROUTINE(address=0x19F0)
  17: 0x0921 [0x1C] WAIT(60* ticks)
  18: 0x0924 [0x1A] CALL_SUBROUTINE(address=0x19CF)
  19: 0x0927 [0x1C] WAIT(30* ticks)
- 20: 0x092A [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
+ 20: 0x092A [0x1D] PRINT_EVENT_MESSAGE(message_id=9205*)
     → "There. That should do the trrrick."
  21: 0x092D [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x092E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
- 23: 0x093D [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
+ 23: 0x093D [0x1D] PRINT_EVENT_MESSAGE(message_id=9206*)
     → "Take this and trrry the synthesis again multiple times."
  24: 0x0940 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0941 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 26: 0x0950 [0x1D] PRINT_EVENT_MESSAGE(message_id=9205*)
+ 26: 0x0950 [0x1D] PRINT_EVENT_MESSAGE(message_id=9207*)
     → "Once your spirit has been sufficiently imbued into the shield, you can try crrrafting the shield again."
  27: 0x0953 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0954 [0x1D] PRINT_EVENT_MESSAGE(message_id=9206*)
+ 28: 0x0954 [0x1D] PRINT_EVENT_MESSAGE(message_id=9208*)
     → "The ingrrredients have been left with your guild, so speak to your guildmaster for more information."
  29: 0x0957 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0958 [0x1D] PRINT_EVENT_MESSAGE(message_id=9207*)
+ 30: 0x0958 [0x1D] PRINT_EVENT_MESSAGE(message_id=9209*)
     → "Simply show this shield to your parrrticular guildmaster and they'll know what to do."
  31: 0x095B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x095C [0x1D] PRINT_EVENT_MESSAGE(message_id=9208*)
+ 32: 0x095C [0x1D] PRINT_EVENT_MESSAGE(message_id=9210*)
     → "I'm interrrested to see what this shield can become. Yes, very interested indeed. Mwahaha."
  33: 0x095F [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0960 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1617,10 +1620,10 @@ SUBROUTINE_089C:
   1: 0x097A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x097B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x097C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x098B [0x1D] PRINT_EVENT_MESSAGE(message_id=9224*)
+  4: 0x098B [0x1D] PRINT_EVENT_MESSAGE(message_id=9226*)
     → "Sorry to keep you waiting. The prrreparations are finally complete."
   5: 0x098E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x098F [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
+  6: 0x098F [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
     → "I'm going to get it rrready for the upgrade, so can I borrow the $0 for a moment?"
   7: 0x0992 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0993 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1687,64 +1690,64 @@ SUBROUTINE_089C:
   5: 0x09B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x09BA [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x09F7
   7: 0x09C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  8: 0x09D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9224*)
+  8: 0x09D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9226*)
     → "Sorry to keep you waiting. The prrreparations are finally complete."
   9: 0x09D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x09D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
+ 10: 0x09D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
     → "I'm going to get it rrready for the upgrade, so can I borrow the $0 for a moment?"
  11: 0x09D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x09D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  13: 0x09E8 [0x6E] LocalPlayer uses emote 7*
  14: 0x09EF [0x99] Wait for LocalPlayer animation to complete
  15: 0x09F4 [0x1C] WAIT(30* ticks)
- 16: 0x09F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
+ 16: 0x09F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
     → "Thank you. Okay, this won't take very long, so just wait a little longer."
  17: 0x09FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x09FB [0x1A] CALL_SUBROUTINE(address=0x19F0)
  19: 0x09FE [0x1C] WAIT(60* ticks)
  20: 0x0A01 [0x1A] CALL_SUBROUTINE(address=0x19CF)
  21: 0x0A04 [0x1C] WAIT(30* ticks)
- 22: 0x0A07 [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
+ 22: 0x0A07 [0x1D] PRINT_EVENT_MESSAGE(message_id=9205*)
     → "There. That should do the trrrick."
  23: 0x0A0A [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0A0B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
- 25: 0x0A1A [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
+ 25: 0x0A1A [0x1D] PRINT_EVENT_MESSAGE(message_id=9206*)
     → "Take this and trrry the synthesis again multiple times."
  26: 0x0A1D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0A1E [0x1D] PRINT_EVENT_MESSAGE(message_id=9225*)
+ 27: 0x0A1E [0x1D] PRINT_EVENT_MESSAGE(message_id=9227*)
     → "Hm? Is there something you'd like to ask me, frrriend?"
  28: 0x0A21 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0A22 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
- 30: 0x0A31 [0x1D] PRINT_EVENT_MESSAGE(message_id=9226*)
+ 30: 0x0A31 [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
     → "There appears to be interference with the synchronicity of the crystal. Yes, it seems that it is that rrrather annoying factor once again."
  31: 0x0A34 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0A35 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
- 33: 0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9227*)
+ 33: 0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9229*)
     → "It would appear that parrrticular factor is hounding us once again..."
  34: 0x0A47 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0A48 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 36: 0x0A57 [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
+ 36: 0x0A57 [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
     → "However, there's no need to let it get us down. I've learrrned a way to mitigate its effects. Mwahaha."
  37: 0x0A5A [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0A5B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
- 39: 0x0A6A [0x1D] PRINT_EVENT_MESSAGE(message_id=9229*)
+ 39: 0x0A6A [0x1D] PRINT_EVENT_MESSAGE(message_id=9231*)
     → "Crafting under cerrrtain conditions enables you to boost Craftsmanship more than usual, yes?"
  40: 0x0A6D [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0A6E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 42: 0x0A7D [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
+ 42: 0x0A7D [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
     → "When you take advantage of that situation, the factor is trrriggered, making your life more difficult."
  43: 0x0A80 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0A81 [0x1D] PRINT_EVENT_MESSAGE(message_id=9231*)
+ 44: 0x0A81 [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
     → "However, if you don't utilize this parrrticular condition, the effect of the factor grows stronger and stronger, meaning you should try to use it as much as possible."
  45: 0x0A84 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x0A85 [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
+ 46: 0x0A85 [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
     → "Were you able to comprrrehend all that? At any rate, simply show this shield to your guildmaster like before."
  47: 0x0A88 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0A89 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
- 49: 0x0A98 [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
+ 49: 0x0A98 [0x1D] PRINT_EVENT_MESSAGE(message_id=9235*)
     → "Actually, I can't have you bothering your guildmaster all the time, so I'll explain part of the prrrocess here."
  50: 0x0A9B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x0A9C [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
+ 51: 0x0A9C [0x1D] PRINT_EVENT_MESSAGE(message_id=9236*)
     → "First, you're going to need the rrrecipe."
  52: 0x0A9F [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0AA0 [0x1A] CALL_SUBROUTINE(address=0x1A11)
@@ -1753,7 +1756,7 @@ SUBROUTINE_089C:
  56: 0x0AAD [0x03] Work_Zone[4] = 0*
  57: 0x0AB2 [0x03] Work_Zone[5] = 0*
  58: 0x0AB7 [0x03] Work_Zone[6] = 4099*
- 59: 0x0ABC [0x48] [System] [9235*]:
+ 59: 0x0ABC [0x48] [System] [9237*]:
     → "Required craft: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking]@ Required crystal: $4 Required items..."
  60: 0x0ABF [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0AC0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
@@ -1764,22 +1767,22 @@ SUBROUTINE_089C:
  66: 0x0AD9 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[19]
  67: 0x0ADE [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[20]
  68: 0x0AE3 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[21]
- 69: 0x0AE8 [0x48] [System] [9236*]:
+ 69: 0x0AE8 [0x48] [System] [9238*]:
     → "$4 $0 $5 $0$0 $6 $0 $7 $0$3"
  70: 0x0AEB [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0AEC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
  72: 0x0AF1 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
  73: 0x0AF6 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[22]
  74: 0x0AFB [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[23]
- 75: 0x0B00 [0x48] [System] [9238*]:
+ 75: 0x0B00 [0x48] [System] [9240*]:
     → "$4 $0 $5 $0$0"
  76: 0x0B03 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0B04 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 78: 0x0B13 [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
+ 78: 0x0B13 [0x1D] PRINT_EVENT_MESSAGE(message_id=9242*)
     → "That's all of them. I hope you wrote that down?"
  79: 0x0B16 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0B17 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
- 81: 0x0B26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9241*)
+ 81: 0x0B26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9243*)
     → "Next, I'll go over how to obtain the necessary materials. I've hearrrd there are a total of three."
  82: 0x0B29 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0B2A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
@@ -1789,30 +1792,30 @@ SUBROUTINE_089C:
  87: 0x0B48 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[13]
  88: 0x0B4D [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[14]
  89: 0x0B52 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[15]
- 90: 0x0B57 [0x1D] PRINT_EVENT_MESSAGE(message_id=9242*)
+ 90: 0x0B57 [0x1D] PRINT_EVENT_MESSAGE(message_id=9244*)
     → "Firrrst, you'll need the old standby, $1."
  91: 0x0B5A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 92: 0x0B5B [0x1D] PRINT_EVENT_MESSAGE(message_id=9243*)
+ 92: 0x0B5B [0x1D] PRINT_EVENT_MESSAGE(message_id=9245*)
     → "Like usual, you'rrre going to have to boost the Craftsmanship of the $0 to 100% and show it to your guildmaster."
  93: 0x0B5E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0B5F [0x1D] PRINT_EVENT_MESSAGE(message_id=9244*)
+ 94: 0x0B5F [0x1D] PRINT_EVENT_MESSAGE(message_id=9246*)
     → "Although, this may have been the most difficult thing to incrrrease the Craftsmanship for. Remember, crafting various kinds of items is the secret to success."
  95: 0x0B62 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x0B63 [0x1D] PRINT_EVENT_MESSAGE(message_id=9245*)
+ 96: 0x0B63 [0x1D] PRINT_EVENT_MESSAGE(message_id=9247*)
     → "Next, we have the $2 and $3. These too are exactly like you experrrienced before."
  97: 0x0B66 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x0B67 [0x1D] PRINT_EVENT_MESSAGE(message_id=9246*)
+ 98: 0x0B67 [0x1D] PRINT_EVENT_MESSAGE(message_id=9248*)
     → "Was it a crafting set? Make your deliveries and then you can use the points earned to trrrade for the item."
  99: 0x0B6A [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x0B6B [0x1D] PRINT_EVENT_MESSAGE(message_id=9247*)
+100: 0x0B6B [0x1D] PRINT_EVENT_MESSAGE(message_id=9249*)
     → "After that, the $4 and $5 come next. Hmm... I rrrecommend you check with your guildmaster on these two."
 101: 0x0B6E [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0B6F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
-103: 0x0B7E [0x1D] PRINT_EVENT_MESSAGE(message_id=9248*)
+103: 0x0B7E [0x1D] PRINT_EVENT_MESSAGE(message_id=9250*)
     → "That's all I have to say on the matter."
 104: 0x0B81 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0B82 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-106: 0x0B91 [0x1D] PRINT_EVENT_MESSAGE(message_id=9249*)
+106: 0x0B91 [0x1D] PRINT_EVENT_MESSAGE(message_id=9251*)
     → "Mwahaha! It seems the shield is nearly finished. Don't forrrget to have your guildmaster mark the shield after it's been upgraded."
 107: 0x0B94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x0B95 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1846,10 +1849,10 @@ SUBROUTINE_089C:
   1: 0x0BAF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0BB0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0BB1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0BC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9261*)
+  4: 0x0BC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9263*)
     → "Ahh, I see you've made it to the final stage at last."
   5: 0x0BC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0BC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9262*)
+  6: 0x0BC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9264*)
     → "Now then, let's get starrrted, shall we? Let me see your $0."
   7: 0x0BC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0BC8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
@@ -1906,75 +1909,75 @@ SUBROUTINE_089C:
   8: 0x0BFD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   9: 0x0BFE [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0C3B
  10: 0x0C06 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 11: 0x0C15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9261*)
+ 11: 0x0C15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9263*)
     → "Ahh, I see you've made it to the final stage at last."
  12: 0x0C18 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0C19 [0x1D] PRINT_EVENT_MESSAGE(message_id=9262*)
+ 13: 0x0C19 [0x1D] PRINT_EVENT_MESSAGE(message_id=9264*)
     → "Now then, let's get starrrted, shall we? Let me see your $0."
  14: 0x0C1C [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0C1D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
  16: 0x0C2C [0x6E] LocalPlayer uses emote 7*
  17: 0x0C33 [0x99] Wait for LocalPlayer animation to complete
  18: 0x0C38 [0x1C] WAIT(30* ticks)
- 19: 0x0C3B [0x1D] PRINT_EVENT_MESSAGE(message_id=9263*)
+ 19: 0x0C3B [0x1D] PRINT_EVENT_MESSAGE(message_id=9265*)
     → "Thank you. I am extremely grrrateful for all of your hard work up to now."
  20: 0x0C3E [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0C3F [0x1A] CALL_SUBROUTINE(address=0x19F0)
  22: 0x0C42 [0x1C] WAIT(60* ticks)
  23: 0x0C45 [0x1A] CALL_SUBROUTINE(address=0x19CF)
  24: 0x0C48 [0x1C] WAIT(30* ticks)
- 25: 0x0C4B [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
+ 25: 0x0C4B [0x1D] PRINT_EVENT_MESSAGE(message_id=9205*)
     → "There. That should do the trrrick."
  26: 0x0C4E [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0C4F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
- 28: 0x0C5E [0x1D] PRINT_EVENT_MESSAGE(message_id=9264*)
+ 28: 0x0C5E [0x1D] PRINT_EVENT_MESSAGE(message_id=9266*)
     → "Now then, let's rrreview the necessary materials for the procedure."
  29: 0x0C61 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0C62 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
  31: 0x0C71 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
  32: 0x0C76 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[12]
  33: 0x0C7B [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[13]
- 34: 0x0C80 [0x1D] PRINT_EVENT_MESSAGE(message_id=9265*)
+ 34: 0x0C80 [0x1D] PRINT_EVENT_MESSAGE(message_id=9267*)
     → "First, there's the $2 and the $3."
  35: 0x0C83 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0C84 [0x1D] PRINT_EVENT_MESSAGE(message_id=9266*)
+ 36: 0x0C84 [0x1D] PRINT_EVENT_MESSAGE(message_id=9268*)
     → "These two items can be exchanged for crafter points at your guild."
  37: 0x0C87 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0C88 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
- 39: 0x0C97 [0x1D] PRINT_EVENT_MESSAGE(message_id=9267*)
+ 39: 0x0C97 [0x1D] PRINT_EVENT_MESSAGE(message_id=9269*)
     → "You'll need two $2 and one $3 to prrroceed."
  40: 0x0C9A [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0C9B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 42: 0x0CAA [0x1D] PRINT_EVENT_MESSAGE(message_id=9268*)
+ 42: 0x0CAA [0x1D] PRINT_EVENT_MESSAGE(message_id=9270*)
     → "Next up is the $1. You already know how it works. Although this time arrround, it can't simply be used as is."
  43: 0x0CAD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0CAE [0x1D] PRINT_EVENT_MESSAGE(message_id=9269*)
+ 44: 0x0CAE [0x1D] PRINT_EVENT_MESSAGE(message_id=9271*)
     → "The $1 is the physical manifestation of a crrraftsman's heart and soul. Although it powers the final upgrade, you will need to activate it first."
  45: 0x0CB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0CB2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
- 47: 0x0CC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9270*)
+ 47: 0x0CC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9272*)
     → "Once you obtain it, bring it to me. I'll tell you what you need to perrrform the activation."
  48: 0x0CC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0CC5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 50: 0x0CD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9271*)
+ 50: 0x0CD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9273*)
     → "By the way, do you rrremember how to obtain the $1?"
  51: 0x0CD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x0CD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9272*)
+ 52: 0x0CD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9274*)
     → "You'll need the help of your guildmaster after rrraising the shield's Craftsmanship to 100%."
  53: 0x0CDB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0CDC [0x1D] PRINT_EVENT_MESSAGE(message_id=9273*)
+ 54: 0x0CDC [0x1D] PRINT_EVENT_MESSAGE(message_id=9275*)
     → "That rrreminds me... I've managed to eliminate the rather unfortunate factor that previously plagued this shield!"
  55: 0x0CDF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x0CE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9274*)
+ 56: 0x0CE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9276*)
     → "This will free you from those rather rrridiculous failures that you experienced before."
  57: 0x0CE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9275*)
+ 58: 0x0CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9277*)
     → "And so our explanation ends here!"
  59: 0x0CE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x0CE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9276*)
+ 60: 0x0CE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9278*)
     → "Listen carefully. Once you obtain the $1, bring it to me rrright away."
  61: 0x0CEB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x0CEC [0x1D] PRINT_EVENT_MESSAGE(message_id=9277*)
+ 62: 0x0CEC [0x1D] PRINT_EVENT_MESSAGE(message_id=9279*)
     → "Well, good luck to you out there. I'll be anxiously awaiting your rrreturn."
  63: 0x0CEF [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0CF0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2013,21 +2016,21 @@ SUBROUTINE_089C:
   0: 0x0D01 [0x4A] EventEntity looks at LocalPlayer
   1: 0x0D0A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0D0B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0D0C [0x1D] PRINT_EVENT_MESSAGE(message_id=9216*)
+  3: 0x0D0C [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
     → "Mwahaha. What can I do for you, my frrriend?"
   4: 0x0D0F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0D10 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
-  6: 0x0D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=9217*)
+  6: 0x0D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=9219*)
     → "Hmm... There's something wrrrong with this shield. I don't think it's capable of properly channelling your spirit."
   7: 0x0D22 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0D23 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
-  9: 0x0D32 [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
+  9: 0x0D32 [0x1D] PRINT_EVENT_MESSAGE(message_id=9220*)
     → "Although, it's still perrrfectly repairable, if you so desire."
  10: 0x0D35 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0D36 [0x48] [System] [9219*]:
+ 11: 0x0D36 [0x48] [System] [9221*]:
     → "However, know that repairing the $0 will reset the escutcheon's progress to when you first received the $1."
  12: 0x0D39 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0D3A [0x24] CREATE_DIALOG(message_id=9220*, default_option=1*, option_flags=0*)
+ 13: 0x0D3A [0x24] CREATE_DIALOG(message_id=9222*, default_option=1*, option_flags=0*)
     → "Do you want to repair the shield? [Sure./No thanks.]"
  14: 0x0D41 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0D42 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D53
@@ -2041,7 +2044,7 @@ SUBROUTINE_089C:
 SUBROUTINE_0D5A:
  22: 0x0D5A [0x6E] EventEntity uses emote 6*
  23: 0x0D61 [0x99] Wait for EventEntity animation to complete
- 24: 0x0D66 [0x1D] PRINT_EVENT_MESSAGE(message_id=9221*)
+ 24: 0x0D66 [0x1D] PRINT_EVENT_MESSAGE(message_id=9223*)
     → "Okay, I'll make the rrrepairs. Wait just a moment."
  25: 0x0D69 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0D6A [0x1A] CALL_SUBROUTINE(address=0x19F0)
@@ -2049,15 +2052,15 @@ SUBROUTINE_0D5A:
  28: 0x0D70 [0x1A] CALL_SUBROUTINE(address=0x19CF)
  29: 0x0D73 [0x1C] WAIT(30* ticks)
  30: 0x0D76 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
- 31: 0x0D85 [0x1D] PRINT_EVENT_MESSAGE(message_id=9222*)
+ 31: 0x0D85 [0x1D] PRINT_EVENT_MESSAGE(message_id=9224*)
     → "That should do it."
  32: 0x0D88 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0D89 [0x02] IF !(Work_Zone[4] == 4*) GOTO 0x0D98
- 34: 0x0D91 [0x1D] PRINT_EVENT_MESSAGE(message_id=9175*)
+ 34: 0x0D91 [0x1D] PRINT_EVENT_MESSAGE(message_id=9177*)
     → "Mwahahaha. In that case, good luck to you, my frrriend."
  35: 0x0D94 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0D95 [0x01] GOTO 0x0D9C
- 37: 0x0D98 [0x1D] PRINT_EVENT_MESSAGE(message_id=9172*)
+ 37: 0x0D98 [0x1D] PRINT_EVENT_MESSAGE(message_id=9174*)
     → "When you're finished, you'll need to receive a sign on the shield from your guildmaster that it's finished. Then brrring it back to me. I'm counting on you. Mwahaha."
  38: 0x0D9B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2119,33 +2122,33 @@ SUBROUTINE_0D9C:
   0: 0x0D9E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0D9F [0x4A] Mewk Chorosap (ID: 17785003/0x010F60AB) looks at LocalPlayer
   2: 0x0DA8 [0x4A] LocalPlayer looks at Mewk Chorosap (ID: 17785003/0x010F60AB)
-  3: 0x0DB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9362*)
+  3: 0x0DB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9364*)
     → "Mwahaha. Impressive. Are you ready to perrrform the synthesis now?"
   4: 0x0DB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0DB5 [0x1C] WAIT(120* ticks)
-  6: 0x0DB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
+  6: 0x0DB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9365*)
     → "..."
   7: 0x0DBB [0x1C] WAIT(120* ticks)
-  8: 0x0DBE [0x1D] PRINT_EVENT_MESSAGE(message_id=9364*)
+  8: 0x0DBE [0x1D] PRINT_EVENT_MESSAGE(message_id=9366*)
     → "..."
   9: 0x0DC1 [0x1C] WAIT(120* ticks)
  10: 0x0DC4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 11: 0x0DD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9365*)
+ 11: 0x0DD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9367*)
     → "Hm? What's the matter? Is something wrrrong?"
  12: 0x0DD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0DD7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  14: 0x0DE6 [0x1A] CALL_SUBROUTINE(address=0x1F87)
  15: 0x0DE9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
- 16: 0x0DF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9366*)
+ 16: 0x0DF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9368*)
     → "What's that? You're trrrying to tell me the synthesis won't start!?"
  17: 0x0DFB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0DFC [0x1D] PRINT_EVENT_MESSAGE(message_id=9367*)
+ 18: 0x0DFC [0x1D] PRINT_EVENT_MESSAGE(message_id=9369*)
     → "I don't get it... What could've gone wrrrong..."
  19: 0x0DFF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0E00 [0x1D] PRINT_EVENT_MESSAGE(message_id=9368*)
+ 20: 0x0E00 [0x1D] PRINT_EVENT_MESSAGE(message_id=9370*)
     → "I wonder if the rrrecipe was mistaken... I don't see how though..."
  21: 0x0E03 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0E04 [0x1D] PRINT_EVENT_MESSAGE(message_id=9369*)
+ 22: 0x0E04 [0x1D] PRINT_EVENT_MESSAGE(message_id=9371*)
     → "Perrrhaps you did not sufficiently activate the object? No, that can't be it!"
  23: 0x0E07 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0E08 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
@@ -2181,24 +2184,24 @@ SUBROUTINE_0D9C:
  54: 0x0F30 [0x38] SET_CLIENT_EVENT_MODE(mode=1*)
  55: 0x0F33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  56: 0x0F44 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
- 57: 0x0F53 [0x1D] PRINT_EVENT_MESSAGE(message_id=9370*)
+ 57: 0x0F53 [0x1D] PRINT_EVENT_MESSAGE(message_id=9372*)
     → "Wait! That rrreminds me..."
  58: 0x0F56 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0F57 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 60: 0x0F66 [0x1D] PRINT_EVENT_MESSAGE(message_id=9371*)
+ 60: 0x0F66 [0x1D] PRINT_EVENT_MESSAGE(message_id=9373*)
     → "I'm sorry. There's one more thing you rrrequire. It should be with your guildmaster."
  61: 0x0F69 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x0F6A [0x1D] PRINT_EVENT_MESSAGE(message_id=9372*)
+ 62: 0x0F6A [0x1D] PRINT_EVENT_MESSAGE(message_id=9374*)
     → "Do you think you could bring it here for me?"
  63: 0x0F6D [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0F6E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  65: 0x0F7D [0x1A] CALL_SUBROUTINE(address=0x1F6C)
  66: 0x0F80 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  67: 0x0F81 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 68: 0x0F82 [0x1D] PRINT_EVENT_MESSAGE(message_id=9373*)
+ 68: 0x0F82 [0x1D] PRINT_EVENT_MESSAGE(message_id=9375*)
     → "(Thanks, Mikolulu. I completely forrrgot about that note.)"
  69: 0x0F85 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x0F86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9374*)
+ 70: 0x0F86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9376*)
     → "(That note... If I had thrown it carrrelessly away without noticing, I wonder what I would have done...)"
  71: 0x0F89 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0F8A [0x21] END_EVENT
@@ -2286,13 +2289,13 @@ SUBROUTINE_0D9C:
   3: 0x0FA8 [0x4A] EventEntity looks at LocalPlayer
   4: 0x0FB1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0FB2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x0FB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9375*)
+  6: 0x0FB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9377*)
     → "I'm sorry. My rrrequest was rather pointless. The thing I asked of you is already here."
   7: 0x0FB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0FB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9376*)
+  8: 0x0FB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9378*)
     → "Here you go. Mwahaha. It's a rrrather exceptional emblem."
   9: 0x0FBA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0FBB [0x1D] PRINT_EVENT_MESSAGE(message_id=9377*)
+ 10: 0x0FBB [0x1D] PRINT_EVENT_MESSAGE(message_id=9379*)
     → "Allow me to go over the rrrecipe once more."
  11: 0x0FBE [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0FBF [0x1A] CALL_SUBROUTINE(address=0x1DA3)
@@ -2301,7 +2304,7 @@ SUBROUTINE_0D9C:
  15: 0x0FCC [0x03] Work_Zone[4] = 0*
  16: 0x0FD1 [0x03] Work_Zone[5] = 0*
  17: 0x0FD6 [0x03] Work_Zone[6] = 4099*
- 18: 0x0FDB [0x48] [System] [9235*]:
+ 18: 0x0FDB [0x48] [System] [9237*]:
     → "Required craft: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking]@ Required crystal: $4 Required items..."
  19: 0x0FDE [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0FDF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
@@ -2312,15 +2315,15 @@ SUBROUTINE_0D9C:
  25: 0x0FF8 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[19]
  26: 0x0FFD [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[20]
  27: 0x1002 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[21]
- 28: 0x1007 [0x48] [System] [9236*]:
+ 28: 0x1007 [0x48] [System] [9238*]:
     → "$4 $0 $5 $0$0 $6 $0 $7 $0$3"
  29: 0x100A [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x100B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
  31: 0x1010 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[22]
- 32: 0x1015 [0x48] [System] [9239*]:
+ 32: 0x1015 [0x48] [System] [9241*]:
     → "$4 $0"
  33: 0x1018 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x1019 [0x1D] PRINT_EVENT_MESSAGE(message_id=9378*)
+ 34: 0x1019 [0x1D] PRINT_EVENT_MESSAGE(message_id=9380*)
     → "Do you have all of the materials? If so, perrrform the synthesis and show me the completed shield."
  35: 0x101C [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x101D [0x21] END_EVENT
@@ -2377,10 +2380,10 @@ SUBROUTINE_0D9C:
   1: 0x102F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1030 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1031 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x1040 [0x1D] PRINT_EVENT_MESSAGE(message_id=9384*)
+  4: 0x1040 [0x1D] PRINT_EVENT_MESSAGE(message_id=9386*)
     → "Well, looks like I'll be having to share that with the guildmaster!"
   5: 0x1043 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1044 [0x1D] PRINT_EVENT_MESSAGE(message_id=9385*)
+  6: 0x1044 [0x1D] PRINT_EVENT_MESSAGE(message_id=9387*)
     → "Yes... Go and show that shield to your guildmaster."
   7: 0x1047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1048 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2421,24 +2424,24 @@ SUBROUTINE_0D9C:
   3: 0x106C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x106D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x106E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  6: 0x107D [0x1D] PRINT_EVENT_MESSAGE(message_id=9386*)
+  6: 0x107D [0x1D] PRINT_EVENT_MESSAGE(message_id=9388*)
     → "Mwahaha. Welcome back. I imagine your guildmaster was rrrather pleased, no?"
   7: 0x1080 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1081 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
-  9: 0x1090 [0x1D] PRINT_EVENT_MESSAGE(message_id=9387*)
+  9: 0x1090 [0x1D] PRINT_EVENT_MESSAGE(message_id=9389*)
     → "That rrreminds me... I don't think I ever thanked you properly."
  10: 0x1093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1094 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 12: 0x10A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9388*)
+ 12: 0x10A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9390*)
     → "With this project, I started out looking for a way to rrrevolutionize the manufacturing process, but I never would've succeeded without your assistance."
  13: 0x10A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x10A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9389*)
+ 14: 0x10A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9391*)
     → "Thank you for helping me all this time. And congrrratulations on finally completing the escutcheon."
  15: 0x10AA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x10AB [0x1D] PRINT_EVENT_MESSAGE(message_id=9390*)
+ 16: 0x10AB [0x1D] PRINT_EVENT_MESSAGE(message_id=9392*)
     → "I hope crrraftsmen across the land will use that shield to create higher quality goods than ever before."
  17: 0x10AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x10AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9391*)
+ 18: 0x10AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9393*)
     → "I'll be here if you ever need me. Feel free to come ask me anything. Mwahahaha!"
  19: 0x10B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x10B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2470,7 +2473,7 @@ SUBROUTINE_0D9C:
   0: 0x10D5 [0x4A] EventEntity looks at LocalPlayer
   1: 0x10DE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x10DF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x10E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9391*)
+  3: 0x10E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9393*)
     → "I'll be here if you ever need me. Feel free to come ask me anything. Mwahahaha!"
   4: 0x10E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x10E4 [0x21] END_EVENT
@@ -2510,7 +2513,7 @@ SUBROUTINE_0D9C:
 #### Opcodes
 
 ```
-  0: 0x10E6 [0x24] CREATE_DIALOG(message_id=9410*, default_option=0*, option_flags=0*)
+  0: 0x10E6 [0x24] CREATE_DIALOG(message_id=9412*, default_option=0*, option_flags=0*)
     → "Debug Menu [Crafting controls./Receive shield./Reset flag./Exit.]"
   1: 0x10ED [0x25] WAIT_DIALOG_SELECT()
   2: 0x10EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x114D
@@ -2650,14 +2653,14 @@ SUBROUTINE_11CA:
   5: 0x1203 [0x1C] WAIT(10* ticks)
   6: 0x1206 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   7: 0x1217 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-  8: 0x1226 [0x1D] PRINT_EVENT_MESSAGE(message_id=9357*)
+  8: 0x1226 [0x1D] PRINT_EVENT_MESSAGE(message_id=9359*)
     → "What's this!? You've completed the activation!"
   9: 0x1229 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x122A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 11: 0x1239 [0x1D] PRINT_EVENT_MESSAGE(message_id=9358*)
+ 11: 0x1239 [0x1D] PRINT_EVENT_MESSAGE(message_id=9360*)
     → "Yes, everything looks perrrfect. The activation is complete. You did it!"
  12: 0x123C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x123D [0x1D] PRINT_EVENT_MESSAGE(message_id=9359*)
+ 13: 0x123D [0x1D] PRINT_EVENT_MESSAGE(message_id=9361*)
     → "Mwahaha... Would you like to go over the rrrecipe?"
  14: 0x1240 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x1241 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[819*, 0*]
@@ -2670,7 +2673,7 @@ SUBROUTINE_11CA:
  22: 0x1278 [0x03] Work_Zone[4] = 0*
  23: 0x127D [0x03] Work_Zone[5] = 0*
  24: 0x1282 [0x03] Work_Zone[6] = 4099*
- 25: 0x1287 [0x48] [System] [9235*]:
+ 25: 0x1287 [0x48] [System] [9237*]:
     → "Required craft: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking] [ /Woodworking/Smithing/Goldsmithing/Clothcrafting/Leathercrafting/Bonecrafting/Alchemy/Cooking]@ Required crystal: $4 Required items..."
  26: 0x128A [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x128B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
@@ -2681,12 +2684,12 @@ SUBROUTINE_11CA:
  32: 0x12A4 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[19]
  33: 0x12A9 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[20]
  34: 0x12AE [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[21]
- 35: 0x12B3 [0x48] [System] [9236*]:
+ 35: 0x12B3 [0x48] [System] [9238*]:
     → "$4 $0 $5 $0$0 $6 $0 $7 $0$3"
  36: 0x12B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x12B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[819*, 0*]
  38: 0x12C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 39: 0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9360*)
+ 39: 0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9362*)
     → "I'd like to check the materials before you begin the synthesis, so would you mind showing them to me firrrst?"
  40: 0x12DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x12DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2865,90 +2868,90 @@ SUBROUTINE_134F:
 1A10: 1B 06 0B 00 06 0C 00 06  0D 00 06 0E 00 06 0F 00  ................
 1A20: 06 10 00 06 11 00 06 12  00 06 13 00 06 14 00 06  ................
 1A30: 15 00 06 16 00 06 17 00  06 18 00 06 19 00 06 1A  ................
-1A40: 00 02 01 00 28 80 80 7E  1A 03 0B 00 08 81 03 0C  ....(..~........
-1A50: 00 16 81 03 0D 00 17 81  03 0E 00 25 81 03 0F 00  ...........%....
-1A60: 0B 81 03 13 00 28 80 03  14 00 28 80 03 15 00 30  .....(....(....0
+1A40: 00 02 01 00 28 80 80 7E  1A 03 0B 00 06 81 03 0C  ....(..~........
+1A50: 00 0A 81 03 0D 00 25 81  03 0E 00 18 81 03 0F 00  ......%.........
+1A60: 26 81 03 13 00 28 80 03  14 00 28 80 03 15 00 30  &....(....(....0
 1A70: 80 03 16 00 28 80 03 17  00 28 80 01 29 1C 02 01  ....(....(..)...
-1A80: 00 30 80 80 BB 1A 03 0B  00 0E 81 03 0C 00 10 81  .0..............
-1A90: 03 0D 00 11 81 03 0E 00  14 81 03 0F 00 26 81 03  .............&..
+1A80: 00 30 80 80 BB 1A 03 0B  00 0C 81 03 0C 00 27 81  .0............'.
+1A90: 03 0D 00 0F 81 03 0E 00  12 81 03 0F 00 14 81 03  ................
 1AA0: 13 00 28 80 03 14 00 28  80 03 15 00 30 80 03 16  ..(....(....0...
 1AB0: 00 28 80 03 17 00 28 80  01 29 1C 02 01 00 29 80  .(....(..)....).
-1AC0: 80 F8 1A 03 0B 00 27 81  03 0C 00 28 81 03 0D 00  ......'....(....
-1AD0: 29 81 03 0E 00 2A 81 03  0F 00 2B 81 03 13 00 28  )....*....+....(
+1AC0: 80 F8 1A 03 0B 00 28 81  03 0C 00 29 81 03 0D 00  ......(....)....
+1AD0: 2A 81 03 0E 00 2B 81 03  0F 00 2C 81 03 13 00 28  *....+....,....(
 1AE0: 80 03 14 00 28 80 03 15  00 30 80 03 16 00 28 80  ....(....0....(.
 1AF0: 03 17 00 28 80 01 29 1C  02 01 00 3D 80 80 35 1B  ...(..)....=..5.
-1B00: 03 0B 00 2C 81 03 0C 00  2D 81 03 0D 00 2E 81 03  ...,....-.......
-1B10: 0E 00 2F 81 03 0F 00 CF  80 03 13 00 28 80 03 14  ../.........(...
+1B00: 03 0B 00 2D 81 03 0C 00  2E 81 03 0D 00 2F 81 03  ...-........./..
+1B10: 0E 00 30 81 03 0F 00 31  81 03 13 00 28 80 03 14  ..0....1....(...
 1B20: 00 28 80 03 15 00 30 80  03 16 00 28 80 03 17 00  .(....0....(....
 1B30: 28 80 01 29 1C 02 01 00  39 80 80 72 1B 03 0B 00  (..)....9..r....
-1B40: 3A 80 03 0C 00 A6 80 03  0D 00 A7 80 03 0E 00 AA  :...............
-1B50: 80 03 0F 00 B9 80 03 13  00 28 80 03 14 00 28 80  .........(....(.
+1B40: D0 80 03 0C 00 A4 80 03  0D 00 A5 80 03 0E 00 A8  ................
+1B50: 80 03 0F 00 AA 80 03 13  00 28 80 03 14 00 28 80  .........(....(.
 1B60: 03 15 00 30 80 03 16 00  28 80 03 17 00 28 80 01  ...0....(....(..
-1B70: 29 1C 02 01 00 41 80 80  AF 1B 03 0B 00 BA 80 03  )....A..........
-1B80: 0C 00 BE 80 03 0D 00 3C  80 03 0E 00 30 81 03 0F  .......<....0...
-1B90: 00 31 81 03 13 00 28 80  03 14 00 28 80 03 15 00  .1....(....(....
+1B70: 29 1C 02 01 00 41 80 80  AF 1B 03 0B 00 4D 80 03  )....A.......M..
+1B80: 0C 00 BC 80 03 0D 00 BD  80 03 0E 00 32 81 03 0F  ............2...
+1B90: 00 33 81 03 13 00 28 80  03 14 00 28 80 03 15 00  .3....(....(....
 1BA0: 30 80 03 16 00 28 80 03  17 00 28 80 01 29 1C 02  0....(....(..)..
-1BB0: 01 00 2A 80 80 EC 1B 03  0B 00 C1 80 03 0C 00 C5  ..*.............
-1BC0: 80 03 0D 00 C6 80 03 0E  00 1A 81 03 0F 00 1C 81  ................
+1BB0: 01 00 2A 80 80 EC 1B 03  0B 00 BF 80 03 0C 00 C3  ..*.............
+1BC0: 80 03 0D 00 C4 80 03 0E  00 EF 80 03 0F 00 1A 81  ................
 1BD0: 03 13 00 28 80 03 14 00  28 80 03 15 00 30 80 03  ...(....(....0..
 1BE0: 16 00 28 80 03 17 00 28  80 01 29 1C 02 01 00 02  ..(....(..).....
-1BF0: 80 80 29 1C 03 0B 00 1F  81 03 0C 00 E1 80 03 0D  ..).............
-1C00: 00 E2 80 03 0E 00 32 81  03 0F 00 33 81 03 13 00  ......2....3....
+1BF0: 80 80 29 1C 03 0B 00 1D  81 03 0C 00 DE 80 03 0D  ..).............
+1C00: 00 DF 80 03 0E 00 E0 80  03 0F 00 34 81 03 13 00  ...........4....
 1C10: 28 80 03 14 00 28 80 03  15 00 30 80 03 16 00 28  (....(....0....(
 1C20: 80 03 17 00 28 80 01 29  1C 1B 06 0B 00 06 0C 00  ....(..)........
 1C30: 06 0D 00 06 0E 00 06 0F  00 06 10 00 06 11 00 06  ................
 1C40: 12 00 06 13 00 06 14 00  06 15 00 06 16 00 06 17  ................
 1C50: 00 06 18 00 06 19 00 06  1A 00 02 01 00 28 80 80  .............(..
-1C60: 83 1C 03 0B 00 34 81 03  0C 00 18 81 03 0D 00 0C  .....4..........
+1C60: 83 1C 03 0B 00 20 81 03  0C 00 16 81 03 0D 00 35  ..... .........5
 1C70: 81 03 13 00 28 80 03 14  00 30 80 03 15 00 28 80  ....(....0....(.
-1C80: 01 A2 1D 02 01 00 30 80  80 AC 1C 03 0B 00 15 81  ......0.........
-1C90: 03 0C 00 12 81 03 0D 00  35 81 03 13 00 28 80 03  ........5....(..
+1C80: 01 A2 1D 02 01 00 30 80  80 AC 1C 03 0B 00 13 81  ......0.........
+1C90: 03 0C 00 10 81 03 0D 00  15 81 03 13 00 28 80 03  .............(..
 1CA0: 14 00 30 80 03 15 00 28  80 01 A2 1D 02 01 00 29  ..0....(.......)
 1CB0: 80 80 D5 1C 03 0B 00 36  81 03 0C 00 37 81 03 0D  .......6....7...
 1CC0: 00 38 81 03 13 00 28 80  03 14 00 30 80 03 15 00  .8....(....0....
 1CD0: 28 80 01 A2 1D 02 01 00  3D 80 80 FE 1C 03 0B 00  (.......=.......
-1CE0: 39 81 03 0C 00 3A 81 03  0D 00 D0 80 03 13 00 28  9....:.........(
+1CE0: 39 81 03 0C 00 3A 81 03  0D 00 3B 81 03 13 00 28  9....:....;....(
 1CF0: 80 03 14 00 30 80 03 15  00 28 80 01 A2 1D 02 01  ....0....(......
-1D00: 00 39 80 80 27 1D 03 0B  00 AB 80 03 0C 00 A8 80  .9..'...........
-1D10: 03 0D 00 4D 80 03 13 00  28 80 03 14 00 30 80 03  ...M....(....0..
+1D00: 00 39 80 80 27 1D 03 0B  00 A9 80 03 0C 00 A6 80  .9..'...........
+1D10: 03 0D 00 AB 80 03 13 00  28 80 03 14 00 30 80 03  ........(....0..
 1D20: 15 00 28 80 01 A2 1D 02  01 00 41 80 80 50 1D 03  ..(.......A..P..
-1D30: 0B 00 3B 81 03 0C 00 3C  81 03 0D 00 BF 80 03 13  ..;....<........
+1D30: 0B 00 3C 81 03 0C 00 BE  80 03 0D 00 3D 81 03 13  ..<.........=...
 1D40: 00 28 80 03 14 00 30 80  03 15 00 28 80 01 A2 1D  .(....0....(....
-1D50: 02 01 00 2A 80 80 79 1D  03 0B 00 1B 81 03 0C 00  ...*..y.........
-1D60: EF 80 03 0D 00 1D 81 03  13 00 28 80 03 14 00 30  ..........(....0
+1D50: 02 01 00 2A 80 80 79 1D  03 0B 00 19 81 03 0C 00  ...*..y.........
+1D60: C5 80 03 0D 00 1B 81 03  13 00 28 80 03 14 00 30  ..........(....0
 1D70: 80 03 15 00 28 80 01 A2  1D 02 01 00 02 80 80 A2  ....(...........
-1D80: 1D 03 0B 00 3D 81 03 0C  00 E0 80 03 0D 00 C7 80  ....=...........
+1D80: 1D 03 0B 00 DD 80 03 0C  00 E1 80 03 0D 00 3E 81  ..............>.
 1D90: 03 13 00 28 80 03 14 00  30 80 03 15 00 28 80 01  ...(....0....(..
 1DA0: A2 1D 1B 06 0B 00 06 0C  00 06 0D 00 06 0E 00 06  ................
 1DB0: 0F 00 06 10 00 06 11 00  06 12 00 06 13 00 06 14  ................
 1DC0: 00 06 15 00 06 16 00 06  17 00 06 18 00 06 19 00  ................
-1DD0: 06 1A 00 02 01 00 28 80  80 06 1E 03 0B 00 34 81  ......(.......4.
-1DE0: 03 0C 00 18 81 03 0D 00  0C 81 03 0E 00 0D 81 03  ................
+1DD0: 06 1A 00 02 01 00 28 80  80 06 1E 03 0B 00 20 81  ......(....... .
+1DE0: 03 0C 00 16 81 03 0D 00  35 81 03 0E 00 0B 81 03  ........5.......
 1DF0: 13 00 28 80 03 14 00 30  80 03 15 00 28 80 03 16  ..(....0....(...
 1E00: 00 28 80 01 6B 1F 02 01  00 30 80 80 39 1E 03 0B  .(..k....0..9...
-1E10: 00 15 81 03 0C 00 12 81  03 0D 00 35 81 03 0E 00  ...........5....
-1E20: 3E 81 03 13 00 28 80 03  14 00 30 80 03 15 00 28  >....(....0....(
+1E10: 00 13 81 03 0C 00 10 81  03 0D 00 15 81 03 0E 00  ................
+1E20: 3F 81 03 13 00 28 80 03  14 00 30 80 03 15 00 28  ?....(....0....(
 1E30: 80 03 16 00 28 80 01 6B  1F 02 01 00 29 80 80 6C  ....(..k....)..l
 1E40: 1E 03 0B 00 36 81 03 0C  00 37 81 03 0D 00 38 81  ....6....7....8.
-1E50: 03 0E 00 3F 81 03 13 00  28 80 03 14 00 30 80 03  ...?....(....0..
+1E50: 03 0E 00 40 81 03 13 00  28 80 03 14 00 30 80 03  ...@....(....0..
 1E60: 15 00 28 80 03 16 00 28  80 01 6B 1F 02 01 00 3D  ..(....(..k....=
 1E70: 80 80 9F 1E 03 0B 00 39  81 03 0C 00 3A 81 03 0D  .......9....:...
-1E80: 00 D0 80 03 0E 00 D1 80  03 13 00 28 80 03 14 00  ...........(....
+1E80: 00 3B 81 03 0E 00 CF 80  03 13 00 28 80 03 14 00  .;.........(....
 1E90: 30 80 03 15 00 28 80 03  16 00 28 80 01 6B 1F 02  0....(....(..k..
-1EA0: 01 00 39 80 80 D2 1E 03  0B 00 AB 80 03 0C 00 A8  ..9.............
-1EB0: 80 03 0D 00 4D 80 03 0E  00 4E 80 03 13 00 28 80  ....M....N....(.
+1EA0: 01 00 39 80 80 D2 1E 03  0B 00 A9 80 03 0C 00 A6  ..9.............
+1EB0: 80 03 0D 00 AB 80 03 0E  00 B9 80 03 13 00 28 80  ..............(.
 1EC0: 03 14 00 30 80 03 15 00  28 80 03 16 00 28 80 01  ...0....(....(..
-1ED0: 6B 1F 02 01 00 41 80 80  05 1F 03 0B 00 3B 81 03  k....A.......;..
-1EE0: 0C 00 3C 81 03 0D 00 BF  80 03 0E 00 C0 80 03 13  ..<.............
+1ED0: 6B 1F 02 01 00 41 80 80  05 1F 03 0B 00 3C 81 03  k....A.......<..
+1EE0: 0C 00 BE 80 03 0D 00 3D  81 03 0E 00 41 81 03 13  .......=....A...
 1EF0: 00 28 80 03 14 00 30 80  03 15 00 28 80 03 16 00  .(....0....(....
 1F00: 28 80 01 6B 1F 02 01 00  2A 80 80 38 1F 03 0B 00  (..k....*..8....
-1F10: 1B 81 03 0C 00 EF 80 03  0D 00 1D 81 03 0E 00 1E  ................
+1F10: 19 81 03 0C 00 C5 80 03  0D 00 1B 81 03 0E 00 1C  ................
 1F20: 81 03 13 00 28 80 03 14  00 30 80 03 15 00 28 80  ....(....0....(.
 1F30: 03 16 00 28 80 01 6B 1F  02 01 00 02 80 80 6B 1F  ...(..k.......k.
-1F40: 03 0B 00 3D 81 03 0C 00  E0 80 03 0D 00 C7 80 03  ...=............
-1F50: 0E 00 21 81 03 13 00 28  80 03 14 00 30 80 03 15  ..!....(....0...
+1F40: 03 0B 00 DD 80 03 0C 00  E1 80 03 0D 00 3E 81 03  .............>..
+1F50: 0E 00 42 81 03 13 00 28  80 03 14 00 30 80 03 15  ..B....(....0...
 1F60: 00 28 80 03 16 00 28 80  01 6B 1F 1B 03 27 00 03  .(....(..k...'..
-1F70: 7F 07 27 00 40 81 02 27  00 E4 80 02 83 1F 08 27  ..'.@..'.......'
+1F70: 7F 07 27 00 43 81 02 27  00 E4 80 02 83 1F 08 27  ..'.C..'.......'
 1F80: 00 E4 80 39 27 00 1B 02  87 7F 28 80 80 B3 1F 66  ...9'.....(....f
 1F90: 24 81 F0 FF FF 7F F0 FF  FF 7F 74 6C 6B 30 1C 61  $.........tlk0.a
 1FA0: 80 66 24 81 F0 FF FF 7F  F0 FF FF 7F 74 6C 6B 31  .f$.........tlk1
@@ -2958,19 +2961,19 @@ SUBROUTINE_134F:
 1FE0: 87 7F 29 80 80 0B 20 66  D7 80 F0 FF FF 7F F0 FF  ..)... f........
 1FF0: FF 7F 74 6C 6B 30 1C 61  80 66 D7 80 F0 FF FF 7F  ..tlk0.a.f......
 2000: F0 FF FF 7F 74 6C 6B 31  01 E7 20 02 87 7F 3D 80  ....tlk1.. ...=.
-2010: 80 37 20 66 41 81 F0 FF  FF 7F F0 FF FF 7F 74 6C  .7 fA.........tl
-2020: 6B 30 1C 61 80 66 41 81  F0 FF FF 7F F0 FF FF 7F  k0.a.fA.........
+2010: 80 37 20 66 44 81 F0 FF  FF 7F F0 FF FF 7F 74 6C  .7 fD.........tl
+2020: 6B 30 1C 61 80 66 44 81  F0 FF FF 7F F0 FF FF 7F  k0.a.fD.........
 2030: 74 6C 6B 31 01 E7 20 02  87 7F 39 80 80 63 20 66  tlk1.. ...9..c f
-2040: 42 81 F0 FF FF 7F F0 FF  FF 7F 74 6C 6B 30 1C 61  B.........tlk0.a
-2050: 80 66 42 81 F0 FF FF 7F  F0 FF FF 7F 74 6C 6B 31  .fB.........tlk1
-2060: 01 E7 20 02 87 7F 41 80  80 8F 20 66 42 81 F0 FF  .. ...A... fB...
-2070: FF 7F F0 FF FF 7F 74 6C  6B 30 1C 61 80 66 42 81  ......tlk0.a.fB.
+2040: 45 81 F0 FF FF 7F F0 FF  FF 7F 74 6C 6B 30 1C 61  E.........tlk0.a
+2050: 80 66 45 81 F0 FF FF 7F  F0 FF FF 7F 74 6C 6B 31  .fE.........tlk1
+2060: 01 E7 20 02 87 7F 41 80  80 8F 20 66 45 81 F0 FF  .. ...A... fE...
+2070: FF 7F F0 FF FF 7F 74 6C  6B 30 1C 61 80 66 45 81  ......tlk0.a.fE.
 2080: F0 FF FF 7F F0 FF FF 7F  74 6C 6B 31 01 E7 20 02  ........tlk1.. .
 2090: 87 7F 2A 80 80 BB 20 66  36 80 F0 FF FF 7F F0 FF  ..*... f6.......
 20A0: FF 7F 74 6C 6B 30 1C 61  80 66 36 80 F0 FF FF 7F  ..tlk0.a.f6.....
 20B0: F0 FF FF 7F 74 6C 6B 31  01 E7 20 02 87 7F 02 80  ....tlk1.. .....
-20C0: 80 E7 20 66 43 81 F0 FF  FF 7F F0 FF FF 7F 74 6C  .. fC.........tl
-20D0: 6B 30 1C 61 80 66 43 81  F0 FF FF 7F F0 FF FF 7F  k0.a.fC.........
+20C0: 80 E7 20 66 46 81 F0 FF  FF 7F F0 FF FF 7F 74 6C  .. fF.........tl
+20D0: 6B 30 1C 61 80 66 46 81  F0 FF FF 7F F0 FF FF 7F  k0.a.fF.........
 20E0: 74 6C 6B 31 01 E7 20 1B                           tlk1.. .        
 ```
 
@@ -3017,12 +3020,12 @@ SUBROUTINE_13B1:
      0x13F2 [0x02] IF !(ExtData[1]->WorkLocal[29] < 255*) GOTO 0x1401
      0x13FA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=2*, condition_work_offset=1*)
      0x1401 [0x02] IF !(ExtData[1]->WorkLocal[2] == 7*) GOTO 0x1411
-     0x1409 [0x1D] PRINT_EVENT_MESSAGE(message_id=9406*)
+     0x1409 [0x1D] PRINT_EVENT_MESSAGE(message_id=9408*)
     → "Hmm... It seems you can't place any more within the synthesis focuser."
      0x140C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x140D [0x06] ExtData[1]->WorkLocal[35] = 0
      0x1410 [0x1B] RETURN
-     0x1411 [0x24] CREATE_DIALOG(message_id=9401*, default_option=ExtData[1]->WorkLocal[36], option_flags=ExtData[1]->WorkLocal[2])
+     0x1411 [0x24] CREATE_DIALOG(message_id=9403*, default_option=ExtData[1]->WorkLocal[36], option_flags=ExtData[1]->WorkLocal[2])
     → "Which catalyst do you want to buy? [MC-I-SR01 ($0 gil)/MC-I-SR02 ($1 gil)/MC-I-SR03 ($2 gil)/Never mind.]"
      0x1418 [0x25] WAIT_DIALOG_SELECT()
      0x1419 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1438
@@ -3045,13 +3048,13 @@ SUBROUTINE_13B1:
      0x1473 [0x01] GOTO 0x1479
      0x1476 [0x06] ExtData[1]->WorkLocal[35] = 0
      0x1479 [0x02] IF !(ExtData[1]->WorkLocal[35] == 0*) GOTO 0x1521
-     0x1481 [0x1D] PRINT_EVENT_MESSAGE(message_id=9402*)
+     0x1481 [0x1D] PRINT_EVENT_MESSAGE(message_id=9404*)
     → "How many would you like?"
      0x1484 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 3*])
      0x148A [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[30])
      0x148E [0x02] IF !(ExtData[1]->WorkLocal[30] <= 0*) GOTO 0x1521
      0x1496 [0x02] IF !(ExtData[1]->WorkLocal[31] >= ExtData[1]->WorkLocal[30]) GOTO 0x14BC
-     0x149E [0x1D] PRINT_EVENT_MESSAGE(message_id=9405*)
+     0x149E [0x1D] PRINT_EVENT_MESSAGE(message_id=9407*)
     → "Oh. It seems you have too many to place within the synthesis focuser. Do try to keep the limit in mind..."
      0x14A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14A2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[36]
@@ -3065,11 +3068,11 @@ SUBROUTINE_13B1:
      0x14C4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[30]
      0x14C9 [0x03] Work_Zone[4] = Work_Zone_1700[9]
      0x14CE [0x14] Work_Zone[4] *= Work_Zone[3]
-     0x14D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9403*)
+     0x14D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9405*)
     → "You want the [/MC-I-SR01/MC-I-SR02/MC-I-SR03]? It is going to cost you $2 for $1 of them. Please note that there are absolutely no rrreturns. Are you sure?"
      0x14D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14D7 [0x03] Work_Zone_1700[8] = ExtData[1]->WorkLocal[32]
-     0x14DC [0x24] CREATE_DIALOG(message_id=9404*, default_option=1*, option_flags=0*)
+     0x14DC [0x24] CREATE_DIALOG(message_id=9406*, default_option=1*, option_flags=0*)
     → "Make the purchase? (Gil: $16) [Yes./No thanks.]"
      0x14E3 [0x25] WAIT_DIALOG_SELECT()
      0x14E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1521
@@ -3123,36 +3126,36 @@ SUBROUTINE_13B1:
      0x15E4 [0x03] Work_Zone[7] = 1721*
      0x15E9 [0x03] Work_Zone[8] = 4100*
      0x15EE [0x03] Work_Zone[9] = 4098*
-     0x15F3 [0x24] CREATE_DIALOG(message_id=9392*, default_option=ExtData[1]->WorkLocal[38], option_flags=0*)
+     0x15F3 [0x24] CREATE_DIALOG(message_id=9394*, default_option=ExtData[1]->WorkLocal[38], option_flags=0*)
     → "Learn about what? [Transmutation./Chains./Spheres./Catalysts./Obtaining materials./Penalties for failure./Nothing.]"
      0x15FA [0x25] WAIT_DIALOG_SELECT()
      0x15FB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x164D
      0x1603 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-     0x1612 [0x1D] PRINT_EVENT_MESSAGE(message_id=9280*)
+     0x1612 [0x1D] PRINT_EVENT_MESSAGE(message_id=9282*)
     → "In order to activate the $0, you must firrrst imbue it with your craftsman's spirit to previously unimaginable levels."
      0x1615 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1616 [0x1D] PRINT_EVENT_MESSAGE(message_id=9281*)
+     0x1616 [0x1D] PRINT_EVENT_MESSAGE(message_id=9283*)
     → "Using the regular methods, you'd need to craft with it several million times, but that isn't very rrrealistic, now is it?"
      0x1619 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x161A [0x1D] PRINT_EVENT_MESSAGE(message_id=9282*)
+     0x161A [0x1D] PRINT_EVENT_MESSAGE(message_id=9284*)
     → "That is why I've crrreated a special device to help assist with the crafting process."
      0x161D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x161E [0x1D] PRINT_EVENT_MESSAGE(message_id=9283*)
+     0x161E [0x1D] PRINT_EVENT_MESSAGE(message_id=9285*)
     → "Using this "synthesis focuser" during your crafting sessions will help boost your spirit and imbue it within your $0."
      0x1621 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1622 [0x1D] PRINT_EVENT_MESSAGE(message_id=9284*)
+     0x1622 [0x1D] PRINT_EVENT_MESSAGE(message_id=9286*)
     → "You just need to simply flip the switch and begin crafting, although some prrreparations are necessary."
      0x1625 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1626 [0x1D] PRINT_EVENT_MESSAGE(message_id=9285*)
+     0x1626 [0x1D] PRINT_EVENT_MESSAGE(message_id=9287*)
     → "You'll need to place the $0 inside the synthesis focuser, along with the crystal, crafting sphere, and catalyst needed for the crafting process."
      0x1629 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x162A [0x1D] PRINT_EVENT_MESSAGE(message_id=9286*)
+     0x162A [0x1D] PRINT_EVENT_MESSAGE(message_id=9288*)
     → "For the crystal, please note that you cannot use the high-quality crystals or analysis crystals used for the engraving prrrocess."
      0x162D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x162E [0x1D] PRINT_EVENT_MESSAGE(message_id=9288*)
+     0x162E [0x1D] PRINT_EVENT_MESSAGE(message_id=9290*)
     → "Once the materials are set, you can begin the crafting process."
      0x1631 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1632 [0x1D] PRINT_EVENT_MESSAGE(message_id=9289*)
+     0x1632 [0x1D] PRINT_EVENT_MESSAGE(message_id=9291*)
     → "If everything goes as planned, it will infuse your $0 with a large amount of spirit. Once a sufficient amount has been trrransferred, it will activate the $0."
      0x1635 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1636 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -3160,25 +3163,25 @@ SUBROUTINE_13B1:
      0x164A [0x01] GOTO 0x1871
      0x164D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1697
      0x1655 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-     0x1664 [0x1D] PRINT_EVENT_MESSAGE(message_id=9291*)
+     0x1664 [0x1D] PRINT_EVENT_MESSAGE(message_id=9293*)
     → "With this parrrticular kind of crafting, you're also able to form "links" while crafting!"
      0x1667 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1668 [0x1D] PRINT_EVENT_MESSAGE(message_id=9292*)
+     0x1668 [0x1D] PRINT_EVENT_MESSAGE(message_id=9294*)
     → "I like to call this type of link a "craftchain". I know... I know... It's nothing fancy. Mwahaha."
      0x166B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x166C [0x1D] PRINT_EVENT_MESSAGE(message_id=9293*)
+     0x166C [0x1D] PRINT_EVENT_MESSAGE(message_id=9295*)
     → "You alrrready know about the skillchains that you use in battle. This is kind of like that."
      0x166F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1670 [0x1D] PRINT_EVENT_MESSAGE(message_id=9294*)
+     0x1670 [0x1D] PRINT_EVENT_MESSAGE(message_id=9296*)
     → "The skillchain is triggered when you select the appropriate weapon skills with the proper timing, right?"
      0x1673 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1674 [0x1D] PRINT_EVENT_MESSAGE(message_id=9295*)
+     0x1674 [0x1D] PRINT_EVENT_MESSAGE(message_id=9297*)
     → "A craftchain is triggered when you use the proper crafting sphere and catalyst, also with the proper timing."
      0x1677 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1678 [0x1D] PRINT_EVENT_MESSAGE(message_id=9296*)
+     0x1678 [0x1D] PRINT_EVENT_MESSAGE(message_id=9298*)
     → "Once the craftchain is triggered, it will boost your spirit by an even greater amount. You really want to use them if at all possible."
      0x167B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x167C [0x1D] PRINT_EVENT_MESSAGE(message_id=9304*)
+     0x167C [0x1D] PRINT_EVENT_MESSAGE(message_id=9306*)
     → "However, you will need to learrrn the linking procedure for yourself."
      0x167F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1680 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -3187,10 +3190,10 @@ SUBROUTINE_13B1:
      0x1697 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1750
      0x169F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
      0x16AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mewk Chorosap (ID: 17785003/0x010F60AB), Mewk Chorosap (ID: 17785003/0x010F60AB)], work=59*
-     0x16BD [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9298*]:
+     0x16BD [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9300*]:
     → "Crafting spheres are a type of material that are intricately linked with crystals and craftchains."
      0x16C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x16C5 [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9299*]:
+     0x16C5 [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9301*]:
     → "This'll prrrobably go faster if I just show you one."
      0x16CC [0x1C] WAIT(60* ticks)
      0x16CF [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -3200,21 +3203,21 @@ SUBROUTINE_13B1:
      0x16F1 [0x1C] WAIT(60* ticks)
      0x16F4 [0x03] Work_Zone[4] = 9524*
      0x16F9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[4])
-     0x16FC [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9300*]:
+     0x16FC [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9302*]:
     → "This is what we call $2."
      0x1703 [0x1C] WAIT(120* ticks)
      0x1706 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1707 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x170A [0x03] Work_Zone[5] = 4096*
-     0x170F [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9301*]:
+     0x170F [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9303*]:
     → "And since Liquefaction includes a fire elemental, you will need to use $3."
      0x1716 [0x1C] WAIT(60* ticks)
      0x1719 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x171A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mewk Chorosap (ID: 17785003/0x010F60AB), Mewk Chorosap (ID: 17785003/0x010F60AB)], work=59*
-     0x1729 [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9302*]:
+     0x1729 [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9304*]:
     → "Be sure to keep one thing in mind. If you use a crystal that doesn't match the element, the synthesis is guaranteed to fail."
      0x1730 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1731 [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9303*]:
+     0x1731 [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9305*]:
     → "There are 14 types of crafting sphere in all, the same number as the skillchains, with the exception of the Ultimate Skillchains of courrrse."
      0x1738 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1739 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -3222,19 +3225,19 @@ SUBROUTINE_13B1:
      0x174D [0x01] GOTO 0x1871
      0x1750 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1792
      0x1758 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-     0x1767 [0x1D] PRINT_EVENT_MESSAGE(message_id=9306*)
+     0x1767 [0x1D] PRINT_EVENT_MESSAGE(message_id=9308*)
     → "The catalyst is a material that has a grrreat effect on the success of your craftchain."
      0x176A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x176B [0x1D] PRINT_EVENT_MESSAGE(message_id=9307*)
+     0x176B [0x1D] PRINT_EVENT_MESSAGE(message_id=9309*)
     → "You already know how skillchains have levels, rrright?"
      0x176E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x176F [0x1D] PRINT_EVENT_MESSAGE(message_id=9308*)
+     0x176F [0x1D] PRINT_EVENT_MESSAGE(message_id=9310*)
     → "Craftchains also have levels, and you will need to use a catalyst that matches the element of the crafting sphere."
      0x1772 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1773 [0x1D] PRINT_EVENT_MESSAGE(message_id=9309*)
+     0x1773 [0x1D] PRINT_EVENT_MESSAGE(message_id=9311*)
     → "I have here an example of a catalyst. It comes from the Inventors' Coalition's verrry own MC-I-SR0 series!"
      0x1776 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1777 [0x1D] PRINT_EVENT_MESSAGE(message_id=9310*)
+     0x1777 [0x1D] PRINT_EVENT_MESSAGE(message_id=9312*)
     → "The linking process has thrrree levels, just like with skillchains. Depending on the crafting sphere you use, the catalyst will be selected automatically."
      0x177A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x177B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -3242,40 +3245,40 @@ SUBROUTINE_13B1:
      0x178F [0x01] GOTO 0x1871
      0x1792 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1814
      0x179A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-     0x17A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9318*)
+     0x17A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9320*)
     → "You can get the MC-I-SR0 series catalyst from me, for the rrright price of course..."
      0x17AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x17AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9319*)
+     0x17AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9321*)
     → "The cost of manufacturing is rather high for this particular catalyst, so I got an earful from the coalition's accountant after I made it in bulk."
      0x17B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x17B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9320*)
+     0x17B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9322*)
     → "If I don't turn a profit, it will adversely affect our rrresearch budget... So, sorry about that. I hope you understand."
      0x17B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x17B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9321*)
+     0x17B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9323*)
     → "The crafting spheres are a somewhat unique item. You can obtain them by using a special technique that brrreaks down certain items into their individual components."
      0x17B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x17B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9324*)
+     0x17B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9326*)
     → "Now, about the item to be used as a base for the technique..."
      0x17BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x17BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9325*)
+     0x17BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9327*)
     → "The $4 and the $5..."
      0x17C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x17C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9326*)
+     0x17C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9328*)
     → "You should be able to use the $4 with the $6, and the $5 with the $7 for the prrrocedure."
      0x17C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x17C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9327*)
+     0x17C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9329*)
     → "I believe there are more items out there that can be used. The exact number is unknown, but just consider finding them yet another part of the challenge."
      0x17C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x17C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9328*)
+     0x17C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9330*)
     → "You can obtain information from other adventurers, or just keep experrrimenting until you find the answers for yourself."
      0x17CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x17CD [0x1D] PRINT_EVENT_MESSAGE(message_id=9329*)
+     0x17CD [0x1D] PRINT_EVENT_MESSAGE(message_id=9331*)
     → "However, just be careful that you don't lose any valuable items in the process, even if it is in the name of prrrogress."
      0x17D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mewk Chorosap (ID: 17785003/0x010F60AB), Mewk Chorosap (ID: 17785003/0x010F60AB)], work=59*
      0x17E0 [0x1C] WAIT(30* ticks)
      0x17E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Mewk Chorosap (ID: 17785003/0x010F60AB), Mewk Chorosap (ID: 17785003/0x010F60AB)], work=59*
-     0x17F2 [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9330*]:
+     0x17F2 [0x2B] Mewk Chorosap (ID: 17785003/0x010F60AB) [9332*]:
     → "I have a feeling that the items used to create the spheres contain some common factors. Of course, I have no evidence to back it up..."
      0x17F9 [0x1C] WAIT(90* ticks)
      0x17FC [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -3284,37 +3287,37 @@ SUBROUTINE_13B1:
      0x1811 [0x01] GOTO 0x1871
      0x1814 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x186E
      0x181C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-     0x182B [0x1D] PRINT_EVENT_MESSAGE(message_id=9312*)
+     0x182B [0x1D] PRINT_EVENT_MESSAGE(message_id=9314*)
     → "If your combination of crystal, crafting sphere, and catalyst are incorrect, the synthesis is guarrranteed to fail."
      0x182E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x182F [0x1D] PRINT_EVENT_MESSAGE(message_id=9313*)
+     0x182F [0x1D] PRINT_EVENT_MESSAGE(message_id=9315*)
     → "And if it fails, you will lose the crystal, crafting sphere, and catalyst you used."
      0x1832 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1833 [0x1D] PRINT_EVENT_MESSAGE(message_id=9314*)
+     0x1833 [0x1D] PRINT_EVENT_MESSAGE(message_id=9316*)
     → "Additionally, you will also lose some of the spirit stored within your $0."
      0x1836 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1837 [0x1D] PRINT_EVENT_MESSAGE(message_id=9393*)
+     0x1837 [0x1D] PRINT_EVENT_MESSAGE(message_id=9395*)
     → "There are some conditions for losing your "spirit.""
      0x183A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x183B [0x1D] PRINT_EVENT_MESSAGE(message_id=9394*)
+     0x183B [0x1D] PRINT_EVENT_MESSAGE(message_id=9396*)
     → "The Synthesis Focuser II will become unstable if certain things are done repeatedly."
      0x183E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x183F [0x1D] PRINT_EVENT_MESSAGE(message_id=9395*)
+     0x183F [0x1D] PRINT_EVENT_MESSAGE(message_id=9397*)
     → "Those "certain things" are continuing to use the same crystal and continuing to do the same chain."
      0x1842 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1843 [0x1D] PRINT_EVENT_MESSAGE(message_id=9396*)
+     0x1843 [0x1D] PRINT_EVENT_MESSAGE(message_id=9398*)
     → "If it remains unstable for too long, the Synthesis Focuser II may explode if or when the synthesis fails, meaning that you are more likely to lose some of your spirit."
      0x1846 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1847 [0x1D] PRINT_EVENT_MESSAGE(message_id=9397*)
+     0x1847 [0x1D] PRINT_EVENT_MESSAGE(message_id=9399*)
     → "Stability is restored over time or by increasing the level of your chain."
      0x184A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x184B [0x1D] PRINT_EVENT_MESSAGE(message_id=9398*)
+     0x184B [0x1D] PRINT_EVENT_MESSAGE(message_id=9400*)
     → "An explosion will also restore stability to the focuser, although I highly recommend you do not take this route."
      0x184E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x184F [0x1D] PRINT_EVENT_MESSAGE(message_id=9399*)
+     0x184F [0x1D] PRINT_EVENT_MESSAGE(message_id=9401*)
     → "The Stability gauge displays the focuser's current stability."
      0x1852 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1853 [0x1D] PRINT_EVENT_MESSAGE(message_id=9315*)
+     0x1853 [0x1D] PRINT_EVENT_MESSAGE(message_id=9317*)
     → "That will mean much of your hard work will be for naught, so be especially carrreful when selecting your materials."
      0x1856 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1857 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -3323,7 +3326,7 @@ SUBROUTINE_13B1:
      0x186E [0x06] ExtData[1]->WorkLocal[37] = 0
      0x1871 [0x01] GOTO 0x152B
      0x1874 [0x1B] RETURN
-     0x1875 [0x24] CREATE_DIALOG(message_id=9411*, default_option=0*, option_flags=0*)
+     0x1875 [0x24] CREATE_DIALOG(message_id=9413*, default_option=0*, option_flags=0*)
     → "Select Craft [Woodworking./Smithing./Goldsmithing./Clothcraft./Leathercraft./Bonecraft./Alchemy./Cooking./Exit.]"
      0x187C [0x25] WAIT_DIALOG_SELECT()
      0x187D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x188D
@@ -3352,12 +3355,12 @@ SUBROUTINE_13B1:
      0x18FA [0x01] GOTO 0x1902
      0x18FD [0x03] ExtData[1]->WorkLocal[5] = 0*
      0x1902 [0x1B] RETURN
-     0x1903 [0x48] [System] [9413*]:
+     0x1903 [0x48] [System] [9415*]:
     → "Select an upgrade level."
      0x1906 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 1*])
      0x190C [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[6])
      0x1910 [0x1B] RETURN
-     0x1911 [0x24] CREATE_DIALOG(message_id=9412*, default_option=0*, option_flags=0*)
+     0x1911 [0x24] CREATE_DIALOG(message_id=9414*, default_option=0*, option_flags=0*)
     → "Crafting Level [Expert./Veteran./Adept./Artisan./Craftsman./Journeyman./Apprentice./Novice./Initiate./Recruit./Amateur./Exit.]"
      0x1918 [0x25] WAIT_DIALOG_SELECT()
      0x1919 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1929

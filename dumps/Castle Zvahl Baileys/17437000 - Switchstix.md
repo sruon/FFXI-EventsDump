@@ -98,299 +98,299 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00D7      |         215 |
-|       1 | 0x1CAC      |        7340 |
-|       2 | 0x1CAD      |        7341 |
-|       3 | 0x1CAE      |        7342 |
-|       4 | 0x1D5C      |        7516 |
+|       1 | 0x1CAE      |        7342 |
+|       2 | 0x1CAF      |        7343 |
+|       3 | 0x1CB0      |        7344 |
+|       4 | 0x1D5E      |        7518 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x1CBE      |        7358 |
-|       7 | 0x1CBF      |        7359 |
-|       8 | 0x1CC0      |        7360 |
+|       6 | 0x1CC0      |        7360 |
+|       7 | 0x1CC1      |        7361 |
+|       8 | 0x1CC2      |        7362 |
 |       9 | 0x0003      |           3 |
-|      10 | 0x1D00      |        7424 |
-|      11 | 0x1D01      |        7425 |
-|      12 | 0x1D02      |        7426 |
+|      10 | 0x1D02      |        7426 |
+|      11 | 0x1D03      |        7427 |
+|      12 | 0x1D04      |        7428 |
 |      13 | 0x0004      |           4 |
-|      14 | 0x1CB3      |        7347 |
+|      14 | 0x1CB5      |        7349 |
 |      15 | 0x0001      |           1 |
-|      16 | 0x1D5F      |        7519 |
-|      17 | 0x1D60      |        7520 |
+|      16 | 0x1D61      |        7521 |
+|      17 | 0x1D62      |        7522 |
 |      18 | 0x0005      |           5 |
-|      19 | 0x1D68      |        7528 |
-|      20 | 0x1D69      |        7529 |
+|      19 | 0x1D6A      |        7530 |
+|      20 | 0x1D6B      |        7531 |
 |      21 | 0x0006      |           6 |
-|      22 | 0x1D73      |        7539 |
-|      23 | 0x1D74      |        7540 |
-|      24 | 0x1CB4      |        7348 |
-|      25 | 0x1CC1      |        7361 |
-|      26 | 0x1CC2      |        7362 |
-|      27 | 0x1D03      |        7427 |
-|      28 | 0x1D61      |        7521 |
-|      29 | 0x1D62      |        7522 |
-|      30 | 0x1D6A      |        7530 |
-|      31 | 0x1D75      |        7541 |
-|      32 | 0x1CB5      |        7349 |
-|      33 | 0x1CC3      |        7363 |
-|      34 | 0x1D04      |        7428 |
-|      35 | 0x1D63      |        7523 |
-|      36 | 0x1D64      |        7524 |
-|      37 | 0x1CB7      |        7351 |
-|      38 | 0x1D6B      |        7531 |
+|      22 | 0x1D75      |        7541 |
+|      23 | 0x1D76      |        7542 |
+|      24 | 0x1CB6      |        7350 |
+|      25 | 0x1CC3      |        7363 |
+|      26 | 0x1CC4      |        7364 |
+|      27 | 0x1D05      |        7429 |
+|      28 | 0x1D63      |        7523 |
+|      29 | 0x1D64      |        7524 |
+|      30 | 0x1D6C      |        7532 |
+|      31 | 0x1D77      |        7543 |
+|      32 | 0x1CB7      |        7351 |
+|      33 | 0x1CC5      |        7365 |
+|      34 | 0x1D06      |        7430 |
+|      35 | 0x1D65      |        7525 |
+|      36 | 0x1D66      |        7526 |
+|      37 | 0x1CB9      |        7353 |
+|      38 | 0x1D6D      |        7533 |
 |      39 | 0x3ADC      |       15068 |
-|      40 | 0x1D76      |        7542 |
-|      41 | 0x1CB6      |        7350 |
-|      42 | 0x1D5D      |        7517 |
-|      43 | 0x1D5E      |        7518 |
-|      44 | 0x1CAF      |        7343 |
-|      45 | 0x1CB0      |        7344 |
-|      46 | 0x1CB1      |        7345 |
-|      47 | 0x1CB2      |        7346 |
-|      48 | 0x1CB8      |        7352 |
-|      49 | 0x1D65      |        7525 |
-|      50 | 0x1CB9      |        7353 |
+|      40 | 0x1D78      |        7544 |
+|      41 | 0x1CB8      |        7352 |
+|      42 | 0x1D5F      |        7519 |
+|      43 | 0x1D60      |        7520 |
+|      44 | 0x1CB1      |        7345 |
+|      45 | 0x1CB2      |        7346 |
+|      46 | 0x1CB3      |        7347 |
+|      47 | 0x1CB4      |        7348 |
+|      48 | 0x1CBA      |        7354 |
+|      49 | 0x1D67      |        7527 |
+|      50 | 0x1CBB      |        7355 |
 |      51 | 0x0000      |           0 |
-|      52 | 0x1D66      |        7526 |
-|      53 | 0x1D67      |        7527 |
-|      54 | 0x1CBA      |        7354 |
-|      55 | 0x1CBB      |        7355 |
-|      56 | 0x1CBC      |        7356 |
-|      57 | 0x1CBD      |        7357 |
-|      58 | 0x1CC4      |        7364 |
-|      59 | 0x1CC5      |        7365 |
-|      60 | 0x1D6C      |        7532 |
-|      61 | 0x1CC6      |        7366 |
+|      52 | 0x1D68      |        7528 |
+|      53 | 0x1D69      |        7529 |
+|      54 | 0x1CBC      |        7356 |
+|      55 | 0x1CBD      |        7357 |
+|      56 | 0x1CBE      |        7358 |
+|      57 | 0x1CBF      |        7359 |
+|      58 | 0x1CC6      |        7366 |
+|      59 | 0x1CC7      |        7367 |
+|      60 | 0x1D6E      |        7534 |
+|      61 | 0x1CC8      |        7368 |
 |      62 | 0x002D      |          45 |
-|      63 | 0x1D6D      |        7533 |
-|      64 | 0x1CC7      |        7367 |
-|      65 | 0x1CF7      |        7415 |
-|      66 | 0x1D6E      |        7534 |
-|      67 | 0x1CF8      |        7416 |
-|      68 | 0x1CF9      |        7417 |
-|      69 | 0x1CFA      |        7418 |
-|      70 | 0x1D6F      |        7535 |
-|      71 | 0x1D70      |        7536 |
-|      72 | 0x1D71      |        7537 |
-|      73 | 0x1CFB      |        7419 |
-|      74 | 0x1CFC      |        7420 |
-|      75 | 0x1CFD      |        7421 |
+|      63 | 0x1D6F      |        7535 |
+|      64 | 0x1CC9      |        7369 |
+|      65 | 0x1CF9      |        7417 |
+|      66 | 0x1D70      |        7536 |
+|      67 | 0x1CFA      |        7418 |
+|      68 | 0x1CFB      |        7419 |
+|      69 | 0x1CFC      |        7420 |
+|      70 | 0x1D71      |        7537 |
+|      71 | 0x1D72      |        7538 |
+|      72 | 0x1D73      |        7539 |
+|      73 | 0x1CFD      |        7421 |
+|      74 | 0x1CFE      |        7422 |
+|      75 | 0x1CFF      |        7423 |
 |      76 | 0x001E      |          30 |
-|      77 | 0x1CFE      |        7422 |
-|      78 | 0x1D72      |        7538 |
-|      79 | 0x1CFF      |        7423 |
-|      80 | 0x1D77      |        7543 |
-|      81 | 0x1D78      |        7544 |
-|      82 | 0x1D05      |        7429 |
-|      83 | 0x1D06      |        7430 |
-|      84 | 0x1D79      |        7545 |
-|      85 | 0x1D07      |        7431 |
-|      86 | 0x1D5A      |        7514 |
-|      87 | 0x1D7A      |        7546 |
-|      88 | 0x1D08      |        7432 |
-|      89 | 0x1D0E      |        7438 |
-|      90 | 0x1D0F      |        7439 |
-|      91 | 0x1D10      |        7440 |
-|      92 | 0x1D11      |        7441 |
-|      93 | 0x1D12      |        7442 |
-|      94 | 0x1D13      |        7443 |
-|      95 | 0x1D14      |        7444 |
-|      96 | 0x1D15      |        7445 |
-|      97 | 0x1D16      |        7446 |
-|      98 | 0x1D17      |        7447 |
-|      99 | 0x1D18      |        7448 |
-|     100 | 0x1D19      |        7449 |
-|     101 | 0x1D1A      |        7450 |
-|     102 | 0x1D1B      |        7451 |
-|     103 | 0x1D1C      |        7452 |
-|     104 | 0x1D1D      |        7453 |
-|     105 | 0x1D1E      |        7454 |
-|     106 | 0x1D1F      |        7455 |
-|     107 | 0x1D20      |        7456 |
-|     108 | 0x1D21      |        7457 |
-|     109 | 0x1D22      |        7458 |
-|     110 | 0x1D23      |        7459 |
-|     111 | 0x1D24      |        7460 |
-|     112 | 0x1D25      |        7461 |
-|     113 | 0x1D26      |        7462 |
-|     114 | 0x1D27      |        7463 |
-|     115 | 0x1D28      |        7464 |
-|     116 | 0x1D29      |        7465 |
-|     117 | 0x1D2A      |        7466 |
-|     118 | 0x1D2B      |        7467 |
-|     119 | 0x1D2C      |        7468 |
-|     120 | 0x1D2D      |        7469 |
-|     121 | 0x1D2E      |        7470 |
-|     122 | 0x1D2F      |        7471 |
-|     123 | 0x1D30      |        7472 |
-|     124 | 0x1D31      |        7473 |
-|     125 | 0x1D32      |        7474 |
-|     126 | 0x1D33      |        7475 |
-|     127 | 0x1D34      |        7476 |
-|     128 | 0x1D35      |        7477 |
-|     129 | 0x1D36      |        7478 |
-|     130 | 0x1D37      |        7479 |
-|     131 | 0x1D38      |        7480 |
-|     132 | 0x1D39      |        7481 |
-|     133 | 0x1D3A      |        7482 |
-|     134 | 0x1D3B      |        7483 |
-|     135 | 0x1D3C      |        7484 |
-|     136 | 0x1D3D      |        7485 |
-|     137 | 0x1D3E      |        7486 |
-|     138 | 0x1D3F      |        7487 |
-|     139 | 0x1D40      |        7488 |
-|     140 | 0x1D41      |        7489 |
-|     141 | 0x1D42      |        7490 |
-|     142 | 0x1D43      |        7491 |
-|     143 | 0x1D44      |        7492 |
-|     144 | 0x1D45      |        7493 |
-|     145 | 0x1D46      |        7494 |
-|     146 | 0x1D47      |        7495 |
-|     147 | 0x1D48      |        7496 |
-|     148 | 0x1D49      |        7497 |
-|     149 | 0x1D4A      |        7498 |
-|     150 | 0x1D4B      |        7499 |
-|     151 | 0x1D4C      |        7500 |
-|     152 | 0x1D4D      |        7501 |
-|     153 | 0x1D4E      |        7502 |
-|     154 | 0x1D4F      |        7503 |
-|     155 | 0x1D50      |        7504 |
-|     156 | 0x1D51      |        7505 |
-|     157 | 0x1D52      |        7506 |
-|     158 | 0x1D53      |        7507 |
-|     159 | 0x1D54      |        7508 |
-|     160 | 0x1D55      |        7509 |
-|     161 | 0x1D56      |        7510 |
-|     162 | 0x1D57      |        7511 |
-|     163 | 0x1D58      |        7512 |
-|     164 | 0x1D59      |        7513 |
-|     165 | 0x1D7C      |        7548 |
-|     166 | 0x1D7D      |        7549 |
-|     167 | 0x1D7E      |        7550 |
-|     168 | 0x1D7F      |        7551 |
-|     169 | 0x1D80      |        7552 |
-|     170 | 0x1D81      |        7553 |
-|     171 | 0x1D0A      |        7434 |
-|     172 | 0x1D0B      |        7435 |
-|     173 | 0x1D7B      |        7547 |
-|     174 | 0x1D0D      |        7437 |
-|     175 | 0x1D82      |        7554 |
-|     176 | 0x1D83      |        7555 |
-|     177 | 0x1D84      |        7556 |
+|      77 | 0x1D00      |        7424 |
+|      78 | 0x1D74      |        7540 |
+|      79 | 0x1D01      |        7425 |
+|      80 | 0x1D79      |        7545 |
+|      81 | 0x1D7A      |        7546 |
+|      82 | 0x1D07      |        7431 |
+|      83 | 0x1D08      |        7432 |
+|      84 | 0x1D7B      |        7547 |
+|      85 | 0x1D09      |        7433 |
+|      86 | 0x1D5C      |        7516 |
+|      87 | 0x1D7C      |        7548 |
+|      88 | 0x1D0A      |        7434 |
+|      89 | 0x1D10      |        7440 |
+|      90 | 0x1D11      |        7441 |
+|      91 | 0x1D12      |        7442 |
+|      92 | 0x1D13      |        7443 |
+|      93 | 0x1D14      |        7444 |
+|      94 | 0x1D15      |        7445 |
+|      95 | 0x1D16      |        7446 |
+|      96 | 0x1D17      |        7447 |
+|      97 | 0x1D18      |        7448 |
+|      98 | 0x1D19      |        7449 |
+|      99 | 0x1D1A      |        7450 |
+|     100 | 0x1D1B      |        7451 |
+|     101 | 0x1D1C      |        7452 |
+|     102 | 0x1D1D      |        7453 |
+|     103 | 0x1D1E      |        7454 |
+|     104 | 0x1D1F      |        7455 |
+|     105 | 0x1D20      |        7456 |
+|     106 | 0x1D21      |        7457 |
+|     107 | 0x1D22      |        7458 |
+|     108 | 0x1D23      |        7459 |
+|     109 | 0x1D24      |        7460 |
+|     110 | 0x1D25      |        7461 |
+|     111 | 0x1D26      |        7462 |
+|     112 | 0x1D27      |        7463 |
+|     113 | 0x1D28      |        7464 |
+|     114 | 0x1D29      |        7465 |
+|     115 | 0x1D2A      |        7466 |
+|     116 | 0x1D2B      |        7467 |
+|     117 | 0x1D2C      |        7468 |
+|     118 | 0x1D2D      |        7469 |
+|     119 | 0x1D2E      |        7470 |
+|     120 | 0x1D2F      |        7471 |
+|     121 | 0x1D30      |        7472 |
+|     122 | 0x1D31      |        7473 |
+|     123 | 0x1D32      |        7474 |
+|     124 | 0x1D33      |        7475 |
+|     125 | 0x1D34      |        7476 |
+|     126 | 0x1D35      |        7477 |
+|     127 | 0x1D36      |        7478 |
+|     128 | 0x1D37      |        7479 |
+|     129 | 0x1D38      |        7480 |
+|     130 | 0x1D39      |        7481 |
+|     131 | 0x1D3A      |        7482 |
+|     132 | 0x1D3B      |        7483 |
+|     133 | 0x1D3C      |        7484 |
+|     134 | 0x1D3D      |        7485 |
+|     135 | 0x1D3E      |        7486 |
+|     136 | 0x1D3F      |        7487 |
+|     137 | 0x1D40      |        7488 |
+|     138 | 0x1D41      |        7489 |
+|     139 | 0x1D42      |        7490 |
+|     140 | 0x1D43      |        7491 |
+|     141 | 0x1D44      |        7492 |
+|     142 | 0x1D45      |        7493 |
+|     143 | 0x1D46      |        7494 |
+|     144 | 0x1D47      |        7495 |
+|     145 | 0x1D48      |        7496 |
+|     146 | 0x1D49      |        7497 |
+|     147 | 0x1D4A      |        7498 |
+|     148 | 0x1D4B      |        7499 |
+|     149 | 0x1D4C      |        7500 |
+|     150 | 0x1D4D      |        7501 |
+|     151 | 0x1D4E      |        7502 |
+|     152 | 0x1D4F      |        7503 |
+|     153 | 0x1D50      |        7504 |
+|     154 | 0x1D51      |        7505 |
+|     155 | 0x1D52      |        7506 |
+|     156 | 0x1D53      |        7507 |
+|     157 | 0x1D54      |        7508 |
+|     158 | 0x1D55      |        7509 |
+|     159 | 0x1D56      |        7510 |
+|     160 | 0x1D57      |        7511 |
+|     161 | 0x1D58      |        7512 |
+|     162 | 0x1D59      |        7513 |
+|     163 | 0x1D5A      |        7514 |
+|     164 | 0x1D5B      |        7515 |
+|     165 | 0x1D7E      |        7550 |
+|     166 | 0x1D7F      |        7551 |
+|     167 | 0x1D80      |        7552 |
+|     168 | 0x1D81      |        7553 |
+|     169 | 0x1D82      |        7554 |
+|     170 | 0x1D83      |        7555 |
+|     171 | 0x1D0C      |        7436 |
+|     172 | 0x1D0D      |        7437 |
+|     173 | 0x1D7D      |        7549 |
+|     174 | 0x1D0F      |        7439 |
+|     175 | 0x1D84      |        7556 |
+|     176 | 0x1D85      |        7557 |
+|     177 | 0x1D86      |        7558 |
 |     178 | 0x00D8      |         216 |
-|     179 | 0x1D85      |        7557 |
-|     180 | 0x1D86      |        7558 |
-|     181 | 0x1D87      |        7559 |
-|     182 | 0x1D88      |        7560 |
-|     183 | 0x1D89      |        7561 |
+|     179 | 0x1D87      |        7559 |
+|     180 | 0x1D88      |        7560 |
+|     181 | 0x1D89      |        7561 |
+|     182 | 0x1D8A      |        7562 |
+|     183 | 0x1D8B      |        7563 |
 |     184 | 0x029A      |         666 |
-|     185 | 0x1D8A      |        7562 |
-|     186 | 0x1D8B      |        7563 |
-|     187 | 0x1CC9      |        7369 |
-|     188 | 0x1CCA      |        7370 |
-|     189 | 0x1CCB      |        7371 |
-|     190 | 0x1CCC      |        7372 |
-|     191 | 0x1D09      |        7433 |
-|     192 | 0x1D0C      |        7436 |
+|     185 | 0x1D8C      |        7564 |
+|     186 | 0x1D8D      |        7565 |
+|     187 | 0x1CCB      |        7371 |
+|     188 | 0x1CCC      |        7372 |
+|     189 | 0x1CCD      |        7373 |
+|     190 | 0x1CCE      |        7374 |
+|     191 | 0x1D0B      |        7435 |
+|     192 | 0x1D0E      |        7438 |
 
 ## String References
 
-- **7340**: You got guts to come to this neck of the woods. I can see you ain't no ordinary adventurer, but you ain't the best yet, neither. Don't get your feathers ruffled, I just tell it like it is.
-- **7341**: Me, I'm a blacksmith, and a damn good one. My Goblin forgecraft can make the most worthless rusty piece of junk shine like new again. Looks like you take good care of your weapons, though.
-- **7342**: You got nothing for me to work on, so this conversation is over. I got better things to do than sit here and waste time trading insults with smart-alecky adventurers. Bye-bye now.
-- **7343**: Hold it right there, pal! Is that $0 you're carrying? The power hidden behind that worn appearance is making my old Gobbie ears twitch. Trust me, I'm a blacksmith. I don't kid around when it comes to weapons.
-- **7344**: Hrmmm. It'd take a lotta work, but I could make that power shine through again. Okay, [adventure-boy/adventure-girl], you got something to write with?
-- **7345**: To reforge the $0, I'm gonna need $1, $2, and $3. Yep, that's the bare minimum.
-- **7346**: Bring along the $0 with those three items and I'll get to work for you. I've told you what I need, the rest is up to you.
-- **7347**: You got me what I need? Lemme see here, $1, $2, and $3. Good work. Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types.
-- **7348**: Oh, and I got no interest in gil. My fee for this job is $5 $0$4 . You people pay each other for stuff all the time, right? Well, this ain't no different. You pay my fee, your weapon gets fixed up.
-- **7349**: Reforging the $0 is gonna cost you $2 $0$0 . You pay me and I start working. See you when you get back with my fee.
-- **7350**: You brought me my $2 $0$0 ? Right, time to get to work. My forge is hot and ready to go.
-- **7351**: The Goblin way of smithing is a little different from your fancy-schmancy "synthesis." I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?
-- **7352**: You back already? I told you this was gonna take some time. You adventurer-types have really gotta learn some patience. Let me get back to work, will ya? Sheesh.
-- **7353**: You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many weapons of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
-- **7354**: Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you.
-- **7355**: The weapons you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few of them.
-- **7356**: The top sellers at the moment are $1, $2, and $3. There are others I could think of, but those three bring in the most cash. Don't forget to bring the $0 back with you, too.
-- **7357**: Those three items cover the cost of materials for reforging the $0, but I'm still gonna ask you for a separate fee for my sweat and toil. To forge, or not to forge? The answer is in your hands.
-- **7358**: Oho, you brought me what I asked for? $1, $2, and $3. My pockets are gonna be bulging when I unload this stuff, heh heh.
-- **7359**: Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the $0 for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw.
-- **7360**: The fee, including my cut for the referral, comes out to $5 $0$4 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
-- **7361**: I don't have the skill to reforge the $0 you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch.
-- **7362**: The fee, including my cut for the referral, comes out to $2 $0$0 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
-- **7363**: It's tough even for us Gobs to collect $1, and you've brought me $2 of them. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done.
-- **7364**: You really are impatient, ain't you! This is gonna take a hell of a lot longer than last time--that's how amazing the outcome is gonna be. Better find something else to occupy yourself with for a while.
-- **7365**: This is gonna take so long, you'll forget you even asked me to do it in the first place. A really, really, really long time. Really long. But don't worry, I'm a true craftsgoblin, I won't go back on a deal. Just don't forget to come back, huh?
-- **7366**: And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
-- **7367**: This reforging stuff just warms my old Gobbie heart. You find any more old weapons, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
-- **7369**: Hold on, [adventure-boy/adventure-girl]. I remember you... That $0 you've got there. Didn't I already reforge one for you?
-- **7370**: Don't tell me you want another... [I do!/No. Just forget it.]
-- **7371**: Hmmm... Hmmm...... You know you can only carry one of those things, right?
-- **7372**: Let me get this straight. You want another, even though you know you can only carry one... And you people say us Gobbies are weird. Well, you know the routine. Bring me back the items and I'll start forging.
-- **7415**: Hey, you're the [guy/gal] with the $0, right? I got some good news for you.
-- **7416**: Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you.
-- **7417**: For years now, him and his mates have been digging tunnels right under this place we're standin' on. Even among us Goblins, they're considered a strange crew.
-- **7418**: They're lookin' for a certain object that was buried here thousands of millions of years ago, or something like that. But don't worry your little head over whatever that may be.
-- **7419**: Anywho, after poking around deep under the earth for so long, they've come across a few strange weapons used by Gob-knows-who, Gob-knows-when.
-- **7420**: Now, this is the good part. The weapons those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?
-- **7421**: My buddy mentioned in his letter that he'd be willing to trade his discovery for your $0, as long as you throw $1 into the bargain.
-- **7422**: Wait a sec...$1? Can't say I've ever heard of it myself. No description in the letter about it neither.
-- **7423**: Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
-- **7424**: So this is $1? Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this. You sure you're not a Gob?
-- **7425**: Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you. Cha-ching! That'll be $5 $0$4 , please!
-- **7426**: Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!
-- **7427**: Your fee this time around is $2 $0$0 .
-- **7428**: My buddies are gonna hear about this--$2 $0$0 ! You shoulda been born a Gob! You can leave the $0 with me.
-- **7429**: You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
-- **7430**: Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
-- **7431**: Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
-- **7432**: Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient weapons. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for.
-- **7433**: You hear a voice from somewhere...
-- **7434**: The voice has gone silent...
-- **7435**: What's up, [adventure-boy/adventure-girl]? You get my attention, then you don't say anything. Are you feeling okay? You're acting kinda weird. I'm a blacksmith, not a doctor, you know.
-- **7436**: Whachya got there? $4? I told you to bring me any old weapons you find, but try to make sure they're in one piece, huh?
-- **7437**: Doesn't matter how great a blacksmith I am, there's not much I can do with just $4. Sometimes knowing when to give up takes more guts, as my old Gobbie granddaddy used to say.
-- **7514**: Good timing, your package has arrived. The letter mentioned something about the weapons being really similar, but I can see a few differences myself. Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
-- **7516**: Did I mention I fix up armor and shields as well? You wanna impress your friends with an old relic that shines like new, you know who to ask!
-- **7517**: Wait up, [adventurer-boy/adventurer-girl]! My Gobbie blacksmith instincts are telling me that your $0 is hiding some real potential.
-- **7518**: Hrmmm. Hrmmm. It'll take a lotta work to put it back in shape, but this is the kinda thing I live for. Right, get your notebook ready.
-- **7519**: I don't work for that gil you adventurer-types love to hoard. What I'm gonna need is $2 $0$0 . Better throw in $4 $0$3 . Oh, and don't forget $6 $0$5 .
-- **7520**: That's my fee. You gotta problem with fair trade? You pay me, I fix up your stuff.
-- **7521**: My fee for reforging your $0 is $2 $0$0 , $4 $0$3 , and $6 $0$5 .
-- **7522**: You pay me and I start working. See you when you get back with my fee.
-- **7523**: You got what I asked for? I count $2 $0$0 , $4 $0$3 , and $6 $0$5 . Looks like it's all here.
-- **7524**: Right, time to get to work. My forge is hot and ready to go.
-- **7525**: You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many pieces of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
-- **7526**: Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you.
-- **7527**: The armor and shields you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few pieces.
-- **7528**: The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and while we're at it, $6 $0$5 .
-- **7529**: It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
-- **7530**: The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and $6 $0$5 .
-- **7531**: It's tough even for us Gobs to get our hands on this old currency. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done.
-- **7532**: And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
-- **7533**: This reforging stuff just warms my old Gobbie heart. You find any more old armor or shields, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
-- **7534**: Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you.
-- **7535**: Anywho, after poking around deep under the earth for so long, they've come across a few strange bits of armor used by Gob-knows-who, Gob-knows-when.
-- **7536**: Now, this is the good part. The armor and shields those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?
-- **7537**: My buddy mentioned in his letter that he'd be willing to trade his own discovery for your $0, as long as you throw $1 into the bargain.
-- **7538**: Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
-- **7539**: Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you.
-- **7540**: I'm gonna hit you up for $2 $0$0 , $4 $0$3 , and $6 $0$5 .
-- **7541**: Your fee this time around is $2 $0$0 , $4 $0$3 , and $6 $0$5 .
-- **7542**: My buddies are gonna hear about this. Look at all this loot! You shoulda been born a Gob! You can leave the $0 with me.
-- **7543**: You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
-- **7544**: Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
-- **7545**: Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
-- **7546**: Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient pieces of armor. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for.
-- **7547**: Whachya got there? $4? I told you to bring me any old armor or shields you find, but try to make sure they're in one piece, huh?
-- **7554**: You pay the fee--we got a deal. I'll be here waiting for you, trying to keep my Gobbie toes warm.
-- **7555**: What's that, [adventure-boy/adventure-girl]? You wanna cancel the order? Have you lost your little adventurer mind!?
-- **7556**: I keeps what I takes, and you loses what you gives, you get it? No refunds, ifs, ands, or buts.
-- **7557**: Do you really wanna cancel the reforging order?
-- **7558**: Cancel the order? [Yes, I've made up my mind./Gob, no!]
-- **7559**: Are you really sure? I make out like a Gob in a junkyard, and you lose everything.
-- **7560**: Are you really, really, really sure?
-- **7561**: Are you really sure? [Really!/Not really...]
-- **7562**: Well, alrighty then... Consider your order canceled. Null and void! Never happened!
-- **7563**: Just a piece of advice for you, [adventure-boy/adventure-girl]: next time you better be Gob-darn sure you know what you want. Come on back now, y'hear?
+- **7342**: You got guts to come to this neck of the woods. I can see you ain't no ordinary adventurer, but you ain't the best yet, neither. Don't get your feathers ruffled, I just tell it like it is.
+- **7343**: Me, I'm a blacksmith, and a damn good one. My Goblin forgecraft can make the most worthless rusty piece of junk shine like new again. Looks like you take good care of your weapons, though.
+- **7344**: You got nothing for me to work on, so this conversation is over. I got better things to do than sit here and waste time trading insults with smart-alecky adventurers. Bye-bye now.
+- **7345**: Hold it right there, pal! Is that $0 you're carrying? The power hidden behind that worn appearance is making my old Gobbie ears twitch. Trust me, I'm a blacksmith. I don't kid around when it comes to weapons.
+- **7346**: Hrmmm. It'd take a lotta work, but I could make that power shine through again. Okay, [adventure-boy/adventure-girl], you got something to write with?
+- **7347**: To reforge the $0, I'm gonna need $1, $2, and $3. Yep, that's the bare minimum.
+- **7348**: Bring along the $0 with those three items and I'll get to work for you. I've told you what I need, the rest is up to you.
+- **7349**: You got me what I need? Lemme see here, $1, $2, and $3. Good work. Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types.
+- **7350**: Oh, and I got no interest in gil. My fee for this job is $5 $0$4 . You people pay each other for stuff all the time, right? Well, this ain't no different. You pay my fee, your weapon gets fixed up.
+- **7351**: Reforging the $0 is gonna cost you $2 $0$0 . You pay me and I start working. See you when you get back with my fee.
+- **7352**: You brought me my $2 $0$0 ? Right, time to get to work. My forge is hot and ready to go.
+- **7353**: The Goblin way of smithing is a little different from your fancy-schmancy "synthesis." I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?
+- **7354**: You back already? I told you this was gonna take some time. You adventurer-types have really gotta learn some patience. Let me get back to work, will ya? Sheesh.
+- **7355**: You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many weapons of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
+- **7356**: Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you.
+- **7357**: The weapons you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few of them.
+- **7358**: The top sellers at the moment are $1, $2, and $3. There are others I could think of, but those three bring in the most cash. Don't forget to bring the $0 back with you, too.
+- **7359**: Those three items cover the cost of materials for reforging the $0, but I'm still gonna ask you for a separate fee for my sweat and toil. To forge, or not to forge? The answer is in your hands.
+- **7360**: Oho, you brought me what I asked for? $1, $2, and $3. My pockets are gonna be bulging when I unload this stuff, heh heh.
+- **7361**: Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the $0 for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw.
+- **7362**: The fee, including my cut for the referral, comes out to $5 $0$4 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
+- **7363**: I don't have the skill to reforge the $0 you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch.
+- **7364**: The fee, including my cut for the referral, comes out to $2 $0$0 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
+- **7365**: It's tough even for us Gobs to collect $1, and you've brought me $2 of them. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done.
+- **7366**: You really are impatient, ain't you! This is gonna take a hell of a lot longer than last time--that's how amazing the outcome is gonna be. Better find something else to occupy yourself with for a while.
+- **7367**: This is gonna take so long, you'll forget you even asked me to do it in the first place. A really, really, really long time. Really long. But don't worry, I'm a true craftsgoblin, I won't go back on a deal. Just don't forget to come back, huh?
+- **7368**: And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
+- **7369**: This reforging stuff just warms my old Gobbie heart. You find any more old weapons, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
+- **7371**: Hold on, [adventure-boy/adventure-girl]. I remember you... That $0 you've got there. Didn't I already reforge one for you?
+- **7372**: Don't tell me you want another... [I do!/No. Just forget it.]
+- **7373**: Hmmm... Hmmm...... You know you can only carry one of those things, right?
+- **7374**: Let me get this straight. You want another, even though you know you can only carry one... And you people say us Gobbies are weird. Well, you know the routine. Bring me back the items and I'll start forging.
+- **7417**: Hey, you're the [guy/gal] with the $0, right? I got some good news for you.
+- **7418**: Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you.
+- **7419**: For years now, him and his mates have been digging tunnels right under this place we're standin' on. Even among us Goblins, they're considered a strange crew.
+- **7420**: They're lookin' for a certain object that was buried here thousands of millions of years ago, or something like that. But don't worry your little head over whatever that may be.
+- **7421**: Anywho, after poking around deep under the earth for so long, they've come across a few strange weapons used by Gob-knows-who, Gob-knows-when.
+- **7422**: Now, this is the good part. The weapons those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?
+- **7423**: My buddy mentioned in his letter that he'd be willing to trade his discovery for your $0, as long as you throw $1 into the bargain.
+- **7424**: Wait a sec...$1? Can't say I've ever heard of it myself. No description in the letter about it neither.
+- **7425**: Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
+- **7426**: So this is $1? Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this. You sure you're not a Gob?
+- **7427**: Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you. Cha-ching! That'll be $5 $0$4 , please!
+- **7428**: Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!
+- **7429**: Your fee this time around is $2 $0$0 .
+- **7430**: My buddies are gonna hear about this--$2 $0$0 ! You shoulda been born a Gob! You can leave the $0 with me.
+- **7431**: You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
+- **7432**: Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
+- **7433**: Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
+- **7434**: Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient weapons. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for.
+- **7435**: You hear a voice from somewhere...
+- **7436**: The voice has gone silent...
+- **7437**: What's up, [adventure-boy/adventure-girl]? You get my attention, then you don't say anything. Are you feeling okay? You're acting kinda weird. I'm a blacksmith, not a doctor, you know.
+- **7438**: Whachya got there? $4? I told you to bring me any old weapons you find, but try to make sure they're in one piece, huh?
+- **7439**: Doesn't matter how great a blacksmith I am, there's not much I can do with just $4. Sometimes knowing when to give up takes more guts, as my old Gobbie granddaddy used to say.
+- **7516**: Good timing, your package has arrived. The letter mentioned something about the weapons being really similar, but I can see a few differences myself. Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
+- **7518**: Did I mention I fix up armor and shields as well? You wanna impress your friends with an old relic that shines like new, you know who to ask!
+- **7519**: Wait up, [adventurer-boy/adventurer-girl]! My Gobbie blacksmith instincts are telling me that your $0 is hiding some real potential.
+- **7520**: Hrmmm. Hrmmm. It'll take a lotta work to put it back in shape, but this is the kinda thing I live for. Right, get your notebook ready.
+- **7521**: I don't work for that gil you adventurer-types love to hoard. What I'm gonna need is $2 $0$0 . Better throw in $4 $0$3 . Oh, and don't forget $6 $0$5 .
+- **7522**: That's my fee. You gotta problem with fair trade? You pay me, I fix up your stuff.
+- **7523**: My fee for reforging your $0 is $2 $0$0 , $4 $0$3 , and $6 $0$5 .
+- **7524**: You pay me and I start working. See you when you get back with my fee.
+- **7525**: You got what I asked for? I count $2 $0$0 , $4 $0$3 , and $6 $0$5 . Looks like it's all here.
+- **7526**: Right, time to get to work. My forge is hot and ready to go.
+- **7527**: You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many pieces of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
+- **7528**: Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you.
+- **7529**: The armor and shields you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few pieces.
+- **7530**: The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and while we're at it, $6 $0$5 .
+- **7531**: It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
+- **7532**: The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and $6 $0$5 .
+- **7533**: It's tough even for us Gobs to get our hands on this old currency. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done.
+- **7534**: And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
+- **7535**: This reforging stuff just warms my old Gobbie heart. You find any more old armor or shields, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
+- **7536**: Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you.
+- **7537**: Anywho, after poking around deep under the earth for so long, they've come across a few strange bits of armor used by Gob-knows-who, Gob-knows-when.
+- **7538**: Now, this is the good part. The armor and shields those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?
+- **7539**: My buddy mentioned in his letter that he'd be willing to trade his own discovery for your $0, as long as you throw $1 into the bargain.
+- **7540**: Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
+- **7541**: Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you.
+- **7542**: I'm gonna hit you up for $2 $0$0 , $4 $0$3 , and $6 $0$5 .
+- **7543**: Your fee this time around is $2 $0$0 , $4 $0$3 , and $6 $0$5 .
+- **7544**: My buddies are gonna hear about this. Look at all this loot! You shoulda been born a Gob! You can leave the $0 with me.
+- **7545**: You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
+- **7546**: Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
+- **7547**: Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
+- **7548**: Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient pieces of armor. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for.
+- **7549**: Whachya got there? $4? I told you to bring me any old armor or shields you find, but try to make sure they're in one piece, huh?
+- **7556**: You pay the fee--we got a deal. I'll be here waiting for you, trying to keep my Gobbie toes warm.
+- **7557**: What's that, [adventure-boy/adventure-girl]? You wanna cancel the order? Have you lost your little adventurer mind!?
+- **7558**: I keeps what I takes, and you loses what you gives, you get it? No refunds, ifs, ands, or buts.
+- **7559**: Do you really wanna cancel the reforging order?
+- **7560**: Cancel the order? [Yes, I've made up my mind./Gob, no!]
+- **7561**: Are you really sure? I make out like a Gob in a junkyard, and you lose everything.
+- **7562**: Are you really, really, really sure?
+- **7563**: Are you really sure? [Really!/Not really...]
+- **7564**: Well, alrighty then... Consider your order canceled. Null and void! Never happened!
+- **7565**: Just a piece of advice for you, [adventure-boy/adventure-girl]: next time you better be Gob-darn sure you know what you want. Come on back now, y'hear?
 
 ## Events
 
@@ -440,17 +440,17 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
     → "You got guts to come to this neck of the woods. I can see you ain't no ordinary adventurer, but you ain't the best yet, neither. Don't get your feathers ruffled, I just tell it like it is."
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
     → "Me, I'm a blacksmith, and a damn good one. My Goblin forgecraft can make the most worthless rusty piece of junk shine like new again. Looks like you take good care of your weapons, though."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
+  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
     → "You got nothing for me to work on, so this conversation is over. I got better things to do than sit here and waste time trading insults with smart-alecky adventurers. Bye-bye now."
   7: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0021 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-  9: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  9: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
     → "Did I mention I fix up armor and shields as well? You wanna impress your friends with an old relic that shines like new, you know who to ask!"
  10: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0034 [0x21] END_EVENT
@@ -510,79 +510,79 @@
  15: 0x007D [0x1E] EventEntity looks at LocalPlayer and starts talking
  16: 0x0082 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
  17: 0x0091 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x00A8
- 18: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
+ 18: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
     → "Oho, you brought me what I asked for? $1, $2, and $3. My pockets are gonna be bulging when I unload this stuff, heh heh."
  19: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
+ 20: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
     → "Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the $0 for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw."
  21: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
+ 22: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
     → "The fee, including my cut for the referral, comes out to $5 $0$4 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it."
  23: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00A5 [0x01] GOTO 0x012F
  25: 0x00A8 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x00BF
- 26: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+ 26: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "So this is $1? Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this. You sure you're not a Gob?"
  27: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+ 28: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
     → "Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you. Cha-ching! That'll be $5 $0$4 , please!"
  29: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+ 30: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!"
  31: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00BC [0x01] GOTO 0x012F
  33: 0x00BF [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x00DF
- 34: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+ 34: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
     → "You got me what I need? Lemme see here, $1, $2, and $3. Good work. Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types."
  35: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00CB [0x03] Work_Zone[1] = 1*
  37: 0x00D0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  38: 0x00D2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 39: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+ 39: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "I don't work for that gil you adventurer-types love to hoard. What I'm gonna need is $2 $0$0 . Better throw in $4 $0$3 . Oh, and don't forget $6 $0$5 ."
  40: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
+ 41: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
     → "That's my fee. You gotta problem with fair trade? You pay me, I fix up your stuff."
  42: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x00DC [0x01] GOTO 0x012F
  44: 0x00DF [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x0103
- 45: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
+ 45: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
     → "Oho, you brought me what I asked for? $1, $2, and $3. My pockets are gonna be bulging when I unload this stuff, heh heh."
  46: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
+ 47: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
     → "Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the $0 for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw."
  48: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x00EF [0x03] Work_Zone[1] = 2*
  50: 0x00F4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  51: 0x00F6 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 52: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+ 52: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
     → "The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and while we're at it, $6 $0$5 ."
  53: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+ 54: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it."
  55: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0100 [0x01] GOTO 0x012F
  57: 0x0103 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x0127
- 58: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+ 58: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "So this is $1? Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this. You sure you're not a Gob?"
  59: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
+ 60: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
     → "Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you."
  61: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0113 [0x03] Work_Zone[1] = 3*
  63: 0x0118 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  64: 0x011A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 65: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
+ 65: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7542*)
     → "I'm gonna hit you up for $2 $0$0 , $4 $0$3 , and $6 $0$5 ."
  66: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+ 67: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!"
  68: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0124 [0x01] GOTO 0x012F
- 70: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+ 70: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
     → "You got me what I need? Lemme see here, $1, $2, and $3. Good work. Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types."
  71: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
+ 72: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
     → "Oh, and I got no interest in gil. My fee for this job is $5 $0$4 . You people pay each other for stuff all the time, right? Well, this ain't no different. You pay my fee, your weapon gets fixed up."
  73: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -632,18 +632,18 @@ SUBROUTINE_012F:
   8: 0x0155 [0x1E] EventEntity looks at LocalPlayer and starts talking
   9: 0x015A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
  10: 0x0169 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x017C
- 11: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
+ 11: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
     → "I don't have the skill to reforge the $0 you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch."
  12: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
+ 13: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
     → "The fee, including my cut for the referral, comes out to $2 $0$0 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it."
  14: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0179 [0x01] GOTO 0x01EB
  16: 0x017C [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x018F
- 17: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
+ 17: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
     → "Your fee this time around is $2 $0$0 ."
  18: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+ 19: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!"
  20: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x018C [0x01] GOTO 0x01EB
@@ -651,24 +651,24 @@ SUBROUTINE_012F:
  23: 0x0197 [0x03] Work_Zone[1] = 1*
  24: 0x019C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  25: 0x019E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 26: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
+ 26: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
     → "My fee for reforging your $0 is $2 $0$0 , $4 $0$3 , and $6 $0$5 ."
  27: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
+ 28: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
     → "You pay me and I start working. See you when you get back with my fee."
  29: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x01A8 [0x01] GOTO 0x01EB
  31: 0x01AB [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x01CB
- 32: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
+ 32: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
     → "I don't have the skill to reforge the $0 you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch."
  33: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x01B7 [0x03] Work_Zone[1] = 2*
  35: 0x01BC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  36: 0x01BE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 37: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
+ 37: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
     → "The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and $6 $0$5 ."
  38: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+ 39: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it."
  40: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x01C8 [0x01] GOTO 0x01EB
@@ -676,14 +676,14 @@ SUBROUTINE_012F:
  43: 0x01D3 [0x03] Work_Zone[1] = 3*
  44: 0x01D8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  45: 0x01DA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 46: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
+ 46: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
     → "Your fee this time around is $2 $0$0 , $4 $0$3 , and $6 $0$5 ."
  47: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+ 48: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!"
  49: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x01E4 [0x01] GOTO 0x01EB
- 51: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
+ 51: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
     → "Reforging the $0 is gonna cost you $2 $0$0 . You pay me and I start working. See you when you get back with my fee."
  52: 0x01EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -726,12 +726,12 @@ SUBROUTINE_01EB:
   2: 0x01F3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x01F8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
   4: 0x0207 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x0216
-  5: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
+  5: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
     → "It's tough even for us Gobs to collect $1, and you've brought me $2 of them. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done."
   6: 0x0212 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0213 [0x01] GOTO 0x028A
   8: 0x0216 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x0225
-  9: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
+  9: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
     → "My buddies are gonna hear about this--$2 $0$0 ! You shoulda been born a Gob! You can leave the $0 with me."
  10: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0222 [0x01] GOTO 0x028A
@@ -739,13 +739,13 @@ SUBROUTINE_01EB:
  13: 0x022D [0x03] Work_Zone[1] = 1*
  14: 0x0232 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  15: 0x0234 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 16: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+ 16: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "You got what I asked for? I count $2 $0$0 , $4 $0$3 , and $6 $0$5 . Looks like it's all here."
  17: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+ 18: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "Right, time to get to work. My forge is hot and ready to go."
  19: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
+ 20: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
     → "The Goblin way of smithing is a little different from your fancy-schmancy "synthesis." I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?"
  21: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0242 [0x01] GOTO 0x028A
@@ -753,10 +753,10 @@ SUBROUTINE_01EB:
  24: 0x024D [0x03] Work_Zone[1] = 2*
  25: 0x0252 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  26: 0x0254 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 27: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+ 27: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "You got what I asked for? I count $2 $0$0 , $4 $0$3 , and $6 $0$5 . Looks like it's all here."
  28: 0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+ 29: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "It's tough even for us Gobs to get our hands on this old currency. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done."
  30: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x025E [0x01] GOTO 0x028A
@@ -764,18 +764,18 @@ SUBROUTINE_01EB:
  33: 0x0269 [0x03] Work_Zone[1] = 3*
  34: 0x026E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  35: 0x0270 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 36: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+ 36: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "You got what I asked for? I count $2 $0$0 , $4 $0$3 , and $6 $0$5 . Looks like it's all here."
  37: 0x0275 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0276 [0x03] Work_Zone[2] = 15068*
- 39: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=7542*)
+ 39: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
     → "My buddies are gonna hear about this. Look at all this loot! You shoulda been born a Gob! You can leave the $0 with me."
  40: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x027F [0x01] GOTO 0x028A
- 42: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
+ 42: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
     → "You brought me my $2 $0$0 ? Right, time to get to work. My forge is hot and ready to go."
  43: 0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
+ 44: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
     → "The Goblin way of smithing is a little different from your fancy-schmancy "synthesis." I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?"
  45: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -823,26 +823,26 @@ SUBROUTINE_028A:
   9: 0x02B9 [0x1E] EventEntity looks at LocalPlayer and starts talking
  10: 0x02BE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
  11: 0x02CD [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x02E0
- 12: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
+ 12: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "Wait up, [adventurer-boy/adventurer-girl]! My Gobbie blacksmith instincts are telling me that your $0 is hiding some real potential."
  13: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+ 14: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "Hrmmm. Hrmmm. It'll take a lotta work to put it back in shape, but this is the kinda thing I live for. Right, get your notebook ready."
  15: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x02DD [0x01] GOTO 0x02E8
- 17: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
+ 17: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
     → "Hold it right there, pal! Is that $0 you're carrying? The power hidden behind that worn appearance is making my old Gobbie ears twitch. Trust me, I'm a blacksmith. I don't kid around when it comes to weapons."
  18: 0x02E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
+ 19: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "Hrmmm. It'd take a lotta work, but I could make that power shine through again. Okay, [adventure-boy/adventure-girl], you got something to write with?"
  20: 0x02E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_02E8:
  21: 0x02E8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
- 22: 0x02F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+ 22: 0x02F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "To reforge the $0, I'm gonna need $1, $2, and $3. Yep, that's the bare minimum."
  23: 0x02FA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x02FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+ 24: 0x02FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
     → "Bring along the $0 with those three items and I'll get to work for you. I've told you what I need, the rest is up to you."
  25: 0x02FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x02FF [0x21] END_EVENT
@@ -871,7 +871,7 @@ SUBROUTINE_02E8:
 ```
   0: 0x0301 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0306 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-  2: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
+  2: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
     → "You back already? I told you this was gonna take some time. You adventurer-types have really gotta learn some patience. Let me get back to work, will ya? Sheesh."
   3: 0x0318 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0319 [0x21] END_EVENT
@@ -911,11 +911,11 @@ SUBROUTINE_02E8:
   5: 0x0330 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[7])
   6: 0x0333 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
   7: 0x0342 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x0351
-  8: 0x034A [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+  8: 0x034A [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many pieces of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl]."
   9: 0x034D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x034E [0x01] GOTO 0x0355
- 11: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
+ 11: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
     → "You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many weapons of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl]."
  12: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -964,25 +964,25 @@ SUBROUTINE_0355:
   9: 0x03A3 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[5]
  10: 0x03A8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
  11: 0x03B7 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x03CA
- 12: 0x03BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+ 12: 0x03BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you."
  13: 0x03C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+ 14: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
     → "The armor and shields you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few pieces."
  15: 0x03C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x03C7 [0x01] GOTO 0x03D2
- 17: 0x03CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
+ 17: 0x03CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
     → "Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you."
  18: 0x03CD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
+ 19: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
     → "The weapons you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few of them."
  20: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03D2:
- 21: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
+ 21: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "The top sellers at the moment are $1, $2, and $3. There are others I could think of, but those three bring in the most cash. Don't forget to bring the $0 back with you, too."
  22: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+ 23: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
     → "Those three items cover the cost of materials for reforging the $0, but I'm still gonna ask you for a separate fee for my sweat and toil. To forge, or not to forge? The answer is in your hands."
  24: 0x03D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x03DA [0x21] END_EVENT
@@ -1012,10 +1012,10 @@ SUBROUTINE_03D2:
 ```
   0: 0x03DC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x03E1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-  2: 0x03F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
+  2: 0x03F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
     → "You really are impatient, ain't you! This is gonna take a hell of a lot longer than last time--that's how amazing the outcome is gonna be. Better find something else to occupy yourself with for a while."
   3: 0x03F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x03F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
+  4: 0x03F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
     → "This is gonna take so long, you'll forget you even asked me to do it in the first place. A really, really, really long time. Really long. But don't worry, I'm a true craftsgoblin, I won't go back on a deal. Just don't forget to come back, huh?"
   5: 0x03F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03F8 [0x21] END_EVENT
@@ -1057,11 +1057,11 @@ SUBROUTINE_03D2:
   5: 0x040F [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[7])
   6: 0x0412 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
   7: 0x0421 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x0430
-  8: 0x0429 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+  8: 0x0429 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
     → "And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?"
   9: 0x042C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x042D [0x01] GOTO 0x0434
- 11: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
+ 11: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
     → "And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?"
  12: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1071,11 +1071,11 @@ SUBROUTINE_0434:
  15: 0x043C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  16: 0x043F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
  17: 0x044E [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x045D
- 18: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
+ 18: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "This reforging stuff just warms my old Gobbie heart. You find any more old armor or shields, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl]."
  19: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x045A [0x01] GOTO 0x0461
- 21: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
+ 21: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
     → "This reforging stuff just warms my old Gobbie heart. You find any more old weapons, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl]."
  22: 0x0460 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1122,59 +1122,59 @@ SUBROUTINE_0461:
   4: 0x0493 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   5: 0x0498 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   6: 0x049D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-  7: 0x04AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+  7: 0x04AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "Hey, you're the [guy/gal] with the $0, right? I got some good news for you."
   8: 0x04AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x04B0 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x04BF
- 10: 0x04B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
+ 10: 0x04B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
     → "Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you."
  11: 0x04BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x04BC [0x01] GOTO 0x04C3
- 13: 0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+ 13: 0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
     → "Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you."
  14: 0x04C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04C3:
- 15: 0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
+ 15: 0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
     → "For years now, him and his mates have been digging tunnels right under this place we're standin' on. Even among us Goblins, they're considered a strange crew."
  16: 0x04C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x04C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
+ 17: 0x04C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "They're lookin' for a certain object that was buried here thousands of millions of years ago, or something like that. But don't worry your little head over whatever that may be."
  18: 0x04CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x04CB [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x04E2
- 20: 0x04D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
+ 20: 0x04D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
     → "Anywho, after poking around deep under the earth for so long, they've come across a few strange bits of armor used by Gob-knows-who, Gob-knows-when."
  21: 0x04D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x04D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
+ 22: 0x04D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
     → "Now, this is the good part. The armor and shields those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?"
  23: 0x04DA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x04DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
+ 24: 0x04DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
     → "My buddy mentioned in his letter that he'd be willing to trade his own discovery for your $0, as long as you throw $1 into the bargain."
  25: 0x04DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x04DF [0x01] GOTO 0x04EE
- 27: 0x04E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+ 27: 0x04E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "Anywho, after poking around deep under the earth for so long, they've come across a few strange weapons used by Gob-knows-who, Gob-knows-when."
  28: 0x04E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x04E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+ 29: 0x04E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "Now, this is the good part. The weapons those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?"
  30: 0x04E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+ 31: 0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
     → "My buddy mentioned in his letter that he'd be willing to trade his discovery for your $0, as long as you throw $1 into the bargain."
  32: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04EE:
  33: 0x04EE [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  34: 0x04F3 [0x1C] WAIT(30* ticks)
- 35: 0x04F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
+ 35: 0x04F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
     → "Wait a sec...$1? Can't say I've ever heard of it myself. No description in the letter about it neither."
  36: 0x04F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x04FA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
  38: 0x0509 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x0518
- 39: 0x0511 [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
+ 39: 0x0511 [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
     → "Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again."
  40: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0515 [0x01] GOTO 0x051C
- 42: 0x0518 [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
+ 42: 0x0518 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again."
  43: 0x051B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1210,17 +1210,17 @@ SUBROUTINE_051C:
   1: 0x0523 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0528 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
   3: 0x0537 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x054A
-  4: 0x053F [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
+  4: 0x053F [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
     → "You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!"
   5: 0x0542 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0543 [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
+  6: 0x0543 [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
     → "Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though."
   7: 0x0546 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0547 [0x01] GOTO 0x0552
-  9: 0x054A [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
+  9: 0x054A [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
     → "You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!"
  10: 0x054D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
+ 11: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
     → "Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though."
  12: 0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1264,16 +1264,16 @@ SUBROUTINE_0552:
   5: 0x0569 [0x1E] EventEntity looks at LocalPlayer and starts talking
   6: 0x056E [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[7])
   7: 0x0571 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x0580
-  8: 0x0579 [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
+  8: 0x0579 [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
     → "Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?"
   9: 0x057C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x057D [0x01] GOTO 0x0593
  11: 0x0580 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x058F
- 12: 0x0588 [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
+ 12: 0x0588 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
     → "Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?"
  13: 0x058B [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x058C [0x01] GOTO 0x0593
- 15: 0x058F [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+ 15: 0x058F [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
     → "Good timing, your package has arrived. The letter mentioned something about the weapons being really similar, but I can see a few differences myself. Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?"
  16: 0x0592 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1281,11 +1281,11 @@ SUBROUTINE_0593:
  17: 0x0593 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  18: 0x0596 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
  19: 0x05A5 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x05B4
- 20: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
+ 20: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
     → "Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient pieces of armor. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for."
  21: 0x05B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x05B1 [0x01] GOTO 0x05B8
- 23: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
+ 23: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
     → "Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient weapons. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for."
  24: 0x05B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2484,24 +2484,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x06C6 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x06C9 [0x2B] ??? (ID: 17437001/0x010A1149) [7438*]:
+  1: 0x06C9 [0x2B] ??? (ID: 17437001/0x010A1149) [7440*]:
     → "... Are you searching for me?"
   2: 0x06D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x06D1 [0x2B] ??? (ID: 17437001/0x010A1149) [7439*]:
+  3: 0x06D1 [0x2B] ??? (ID: 17437001/0x010A1149) [7441*]:
     → "Are you the one who is searching for me? Then prove it through your actions..."
   4: 0x06D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x06D9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x06DE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x06E3 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x06E8 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x06ED [0x2B] ??? (ID: 17437001/0x010A1149) [7440*]:
+  9: 0x06ED [0x2B] ??? (ID: 17437001/0x010A1149) [7442*]:
     → "My body will be made from $0 and $1. You will also need to prepare $3 $0 ."
  10: 0x06F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x06F5 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x06FA [0x2B] ??? (ID: 17437001/0x010A1149) [7441*]:
+ 12: 0x06FA [0x2B] ??? (ID: 17437001/0x010A1149) [7443*]:
     → "Once these things are gathered, come to the fortress built by the avians. There is a courtyard within... Do not forget the $4."
  13: 0x0701 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0702 [0x2B] ??? (ID: 17437001/0x010A1149) [7442*]:
+ 14: 0x0702 [0x2B] ??? (ID: 17437001/0x010A1149) [7444*]:
     → "If you do all this, I will show myself to you. I will be waiting..."
  15: 0x0709 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x070A [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2534,24 +2534,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x070F [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x0712 [0x2B] ??? (ID: 17437001/0x010A1149) [7443*]:
+  1: 0x0712 [0x2B] ??? (ID: 17437001/0x010A1149) [7445*]:
     → "... Do you wish to possess me?"
   2: 0x0719 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x071A [0x2B] ??? (ID: 17437001/0x010A1149) [7444*]:
+  3: 0x071A [0x2B] ??? (ID: 17437001/0x010A1149) [7446*]:
     → "Are you the one who wishes to possess me? Then show me the proof of your zeal."
   4: 0x0721 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0722 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x0727 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x072C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x0731 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x0736 [0x2B] ??? (ID: 17437001/0x010A1149) [7445*]:
+  9: 0x0736 [0x2B] ??? (ID: 17437001/0x010A1149) [7447*]:
     → "You will need $0 for my graceful form, and $1 to be my flawless soul. And $3 $0 will be my bond."
  10: 0x073D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x073E [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x0743 [0x2B] ??? (ID: 17437001/0x010A1149) [7446*]:
+ 12: 0x0743 [0x2B] ??? (ID: 17437001/0x010A1149) [7448*]:
     → "Bring the $4 and these tokens to the forbidden forest in the east, to the base of the great tree that towers above all."
  13: 0x074A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x074B [0x2B] ??? (ID: 17437001/0x010A1149) [7447*]:
+ 14: 0x074B [0x2B] ??? (ID: 17437001/0x010A1149) [7449*]:
     → "Only then will your eyes behold my beauty. Until that day..."
  15: 0x0752 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0753 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2584,24 +2584,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x0758 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x075B [0x2B] ??? (ID: 17437001/0x010A1149) [7448*]:
+  1: 0x075B [0x2B] ??? (ID: 17437001/0x010A1149) [7450*]:
     → "... Dost thou need my power at thy side?"
   2: 0x0762 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0763 [0x2B] ??? (ID: 17437001/0x010A1149) [7449*]:
+  3: 0x0763 [0x2B] ??? (ID: 17437001/0x010A1149) [7451*]:
     → "Art thou the one who seeks my power? Then show me the strength of thine will."
   4: 0x076A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x076B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x0770 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x0775 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x077A [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x077F [0x2B] ??? (ID: 17437001/0x010A1149) [7450*]:
+  9: 0x077F [0x2B] ??? (ID: 17437001/0x010A1149) [7452*]:
     → "Seek thee out $1 to be my spirit, and $0 for my physical form. And to buy my indulgence, $3 $0 ."
  10: 0x0786 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0787 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x078C [0x2B] ??? (ID: 17437001/0x010A1149) [7451*]:
+ 12: 0x078C [0x2B] ??? (ID: 17437001/0x010A1149) [7453*]:
     → "Bring these baubles and the $4 to the holy spring in the lair of the true dragon."
  13: 0x0793 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0794 [0x2B] ??? (ID: 17437001/0x010A1149) [7452*]:
+ 14: 0x0794 [0x2B] ??? (ID: 17437001/0x010A1149) [7454*]:
     → "And then shalt thou behold my true form..."
  15: 0x079B [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x079C [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2633,24 +2633,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x07A1 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x07A4 [0x2B] ??? (ID: 17437001/0x010A1149) [7453*]:
+  1: 0x07A4 [0x2B] ??? (ID: 17437001/0x010A1149) [7455*]:
     → "... Are you the one who has called upon me?"
   2: 0x07AB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x07AC [0x2B] ??? (ID: 17437001/0x010A1149) [7454*]:
+  3: 0x07AC [0x2B] ??? (ID: 17437001/0x010A1149) [7456*]:
     → "Are you the one who desires my power? Do you seek the means to end the world?"
   4: 0x07B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x07B4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x07B9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x07BE [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x07C3 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x07C8 [0x2B] ??? (ID: 17437001/0x010A1149) [7455*]:
+  9: 0x07C8 [0x2B] ??? (ID: 17437001/0x010A1149) [7457*]:
     → "Then I will have $0 for my flesh, and $1 to unbind my spirit. And I demand of you $3 $0 ."
  10: 0x07CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x07D0 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x07D5 [0x2B] ??? (ID: 17437001/0x010A1149) [7456*]:
+ 12: 0x07D5 [0x2B] ??? (ID: 17437001/0x010A1149) [7458*]:
     → "Take these offerings to the chasm of the land encased in ice, and seek out the water that lies at its end. Do not forget the $4..."
  13: 0x07DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x07DD [0x2B] ??? (ID: 17437001/0x010A1149) [7457*]:
+ 14: 0x07DD [0x2B] ??? (ID: 17437001/0x010A1149) [7459*]:
     → "Your efforts will be rewarded with a power beyond anything you have ever possessed."
  15: 0x07E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x07E5 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2683,24 +2683,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x07EA [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x07ED [0x2B] ??? (ID: 17437001/0x010A1149) [7458*]:
+  1: 0x07ED [0x2B] ??? (ID: 17437001/0x010A1149) [7460*]:
     → "... You, wield me?"
   2: 0x07F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x07F5 [0x2B] ??? (ID: 17437001/0x010A1149) [7459*]:
+  3: 0x07F5 [0x2B] ??? (ID: 17437001/0x010A1149) [7461*]:
     → "You, want wield me? Me? Me hunger. You, bring. Me, sated."
   4: 0x07FC [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x07FD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x0802 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x0807 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x080C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x0811 [0x2B] ??? (ID: 17437001/0x010A1149) [7460*]:
+  9: 0x0811 [0x2B] ??? (ID: 17437001/0x010A1149) [7462*]:
     → "Me, body, strong axe, $0. Me, heart, $1. Me, value, $3 $0 ."
  10: 0x0818 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0819 [0x2B] ??? (ID: 17437001/0x010A1149) [7461*]:
+ 11: 0x0819 [0x2B] ??? (ID: 17437001/0x010A1149) [7463*]:
     → "You, bring, me. South...? West...? Sand, much, island. Rock? Mountain?"
  12: 0x0820 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0821 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 14: 0x0826 [0x2B] ??? (ID: 17437001/0x010A1149) [7462*]:
+ 14: 0x0826 [0x2B] ??? (ID: 17437001/0x010A1149) [7464*]:
     → "You, come? You, no forget bring $4. You, be master, me."
  15: 0x082D [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x082E [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2732,24 +2732,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x0833 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x0836 [0x2B] ??? (ID: 17437001/0x010A1149) [7463*]:
+  1: 0x0836 [0x2B] ??? (ID: 17437001/0x010A1149) [7465*]:
     → "... You wish to see me?"
   2: 0x083D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x083E [0x2B] ??? (ID: 17437001/0x010A1149) [7464*]:
+  3: 0x083E [0x2B] ??? (ID: 17437001/0x010A1149) [7466*]:
     → "You wish to see the splendid hero sung of in legend? Then prove your love to me."
   4: 0x0845 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0846 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x084B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x0850 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x0855 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x085A [0x2B] ??? (ID: 17437001/0x010A1149) [7465*]:
+  9: 0x085A [0x2B] ??? (ID: 17437001/0x010A1149) [7467*]:
     → "I require the weapon, $0. I seek to possess $1. I desire the wealth of $3 $0 ."
  10: 0x0861 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0862 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x0867 [0x2B] ??? (ID: 17437001/0x010A1149) [7466*]:
+ 12: 0x0867 [0x2B] ??? (ID: 17437001/0x010A1149) [7468*]:
     → "Gather my demands along with the $4 and venture upon the grand bridge, to the garden at the top of the tower."
  13: 0x086E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x086F [0x2B] ??? (ID: 17437001/0x010A1149) [7467*]:
+ 14: 0x086F [0x2B] ??? (ID: 17437001/0x010A1149) [7469*]:
     → "There I will grant you audience in all my glory."
  15: 0x0876 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0877 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2782,24 +2782,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x087C [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x087F [0x2B] ??? (ID: 17437001/0x010A1149) [7468*]:
+  1: 0x087F [0x2B] ??? (ID: 17437001/0x010A1149) [7470*]:
     → "... Heh heh heh, you need me now, don't you?"
   2: 0x0886 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0887 [0x2B] ??? (ID: 17437001/0x010A1149) [7469*]:
+  3: 0x0887 [0x2B] ??? (ID: 17437001/0x010A1149) [7471*]:
     → "Whether it be fortune or disaster, your steps unwittingly lead you to me. You have approached the forbidden border..."
   4: 0x088E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x088F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x0894 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x0899 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x089E [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x08A3 [0x2B] ??? (ID: 17437001/0x010A1149) [7470*]:
+  9: 0x08A3 [0x2B] ??? (ID: 17437001/0x010A1149) [7472*]:
     → "Very well. You will bring a weapon, $0, to serve as my material shell. And $1 liberated from Dynamis, as well as $3 $0 ."
  10: 0x08AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x08AB [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x08B0 [0x2B] ??? (ID: 17437001/0x010A1149) [7471*]:
+ 12: 0x08B0 [0x2B] ??? (ID: 17437001/0x010A1149) [7473*]:
     → "Once you have all these things, thrust them into the great waterfall along with the $4. You know the place I speak of?"
  13: 0x08B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x08B8 [0x2B] ??? (ID: 17437001/0x010A1149) [7472*]:
+ 14: 0x08B8 [0x2B] ??? (ID: 17437001/0x010A1149) [7474*]:
     → "If you accomplish this feat, I will recognize you as my wielder."
  15: 0x08BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x08C0 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2831,24 +2831,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x08C5 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x08C8 [0x2B] ??? (ID: 17437001/0x010A1149) [7473*]:
+  1: 0x08C8 [0x2B] ??? (ID: 17437001/0x010A1149) [7475*]:
     → "... You have been looking for me? For Odin's spear, the incarnation of lightning...?"
   2: 0x08CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x08D0 [0x2B] ??? (ID: 17437001/0x010A1149) [7474*]:
+  3: 0x08D0 [0x2B] ??? (ID: 17437001/0x010A1149) [7476*]:
     → "Do not try to hide your desire. You seek a force that topples armies, triumphs against sorcery, and approaches the power of the gods..."
   4: 0x08D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x08D8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x08DD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x08E2 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x08E7 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x08EC [0x2B] ??? (ID: 17437001/0x010A1149) [7475*]:
+  9: 0x08EC [0x2B] ??? (ID: 17437001/0x010A1149) [7477*]:
     → "A wise choice. First, seek $1. Second, the $0, a lance of unsurpassed quality, to act as my earthly manifestation. Lastly, you will bring me $3 $0 ."
  10: 0x08F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x08F4 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x08F9 [0x2B] ??? (ID: 17437001/0x010A1149) [7476*]:
+ 12: 0x08F9 [0x2B] ??? (ID: 17437001/0x010A1149) [7478*]:
     → "Take these along with the $4 and seek me out in the city in the clouds."
  13: 0x0900 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0901 [0x2B] ??? (ID: 17437001/0x010A1149) [7477*]:
+ 14: 0x0901 [0x2B] ??? (ID: 17437001/0x010A1149) [7479*]:
     → "If you succeed in discovering my decaying remains, I will see fit to realize your desire."
  15: 0x0908 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0909 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2881,24 +2881,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x090E [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x0911 [0x2B] ??? (ID: 17437001/0x010A1149) [7478*]:
+  1: 0x0911 [0x2B] ??? (ID: 17437001/0x010A1149) [7480*]:
     → "... Am I the one you seek?"
   2: 0x0918 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0919 [0x2B] ??? (ID: 17437001/0x010A1149) [7479*]:
+  3: 0x0919 [0x2B] ??? (ID: 17437001/0x010A1149) [7481*]:
     → "If you do indeed wish to find me, I will ask of you an arduous task."
   4: 0x0920 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0921 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x0926 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x092B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x0930 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x0935 [0x2B] ??? (ID: 17437001/0x010A1149) [7480*]:
+  9: 0x0935 [0x2B] ??? (ID: 17437001/0x010A1149) [7482*]:
     → "As my blade I will have you bring me $0. And to guide my soul to that blade, $1. I also wish of you a bounty of $3 $0 ."
  10: 0x093C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x093D [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x0942 [0x2B] ??? (ID: 17437001/0x010A1149) [7481*]:
+ 12: 0x0942 [0x2B] ??? (ID: 17437001/0x010A1149) [7483*]:
     → "Bring these things to the southeastern island, to the place where the bandits dwell. An old box will be the object of your search. Do not forget to bring the $4..."
  13: 0x0949 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x094A [0x2B] ??? (ID: 17437001/0x010A1149) [7482*]:
+ 14: 0x094A [0x2B] ??? (ID: 17437001/0x010A1149) [7484*]:
     → "If you discover my resting place, I shall willingly fly to your side."
  15: 0x0951 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0952 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2930,24 +2930,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x0957 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x095A [0x2B] ??? (ID: 17437001/0x010A1149) [7483*]:
+  1: 0x095A [0x2B] ??? (ID: 17437001/0x010A1149) [7485*]:
     → "... Am I the object of your search?"
   2: 0x0961 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0962 [0x2B] ??? (ID: 17437001/0x010A1149) [7484*]:
+  3: 0x0962 [0x2B] ??? (ID: 17437001/0x010A1149) [7486*]:
     → "Do you scour the land for my presence?"
   4: 0x0969 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x096A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x096F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x0974 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x0979 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x097E [0x2B] ??? (ID: 17437001/0x010A1149) [7485*]:
+  9: 0x097E [0x2B] ??? (ID: 17437001/0x010A1149) [7487*]:
     → "Then gather unto yourself $1 for my soul, and $0 to be the cage to hold it. And I demand of you $3 $0 ."
  10: 0x0985 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0986 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x098B [0x2B] ??? (ID: 17437001/0x010A1149) [7486*]:
+ 12: 0x098B [0x2B] ??? (ID: 17437001/0x010A1149) [7488*]:
     → "You are to offer these to me, along with the $4, on the peak of the mountain that looms above the forest and the city of knights."
  13: 0x0992 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0993 [0x2B] ??? (ID: 17437001/0x010A1149) [7487*]:
+ 14: 0x0993 [0x2B] ??? (ID: 17437001/0x010A1149) [7489*]:
     → "Then shall I willingly enter your service."
  15: 0x099A [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x099B [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -2979,24 +2979,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x09A0 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x09A3 [0x2B] ??? (ID: 17437001/0x010A1149) [7488*]:
+  1: 0x09A3 [0x2B] ??? (ID: 17437001/0x010A1149) [7490*]:
     → "Do you seek my strength?"
   2: 0x09AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x09AB [0x2B] ??? (ID: 17437001/0x010A1149) [7489*]:
+  3: 0x09AB [0x2B] ??? (ID: 17437001/0x010A1149) [7491*]:
     → "I am mightier than you could ever imagine. You seem powerful already. Do you still seek to possess that which is stronger?"
   4: 0x09B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x09B3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x09B8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x09BD [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x09C2 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x09C7 [0x2B] ??? (ID: 17437001/0x010A1149) [7490*]:
+  9: 0x09C7 [0x2B] ??? (ID: 17437001/0x010A1149) [7492*]:
     → "Very well. You will find me $0 to be my body, and $1 to complement my soul. And you will offer me $3 $0 ."
  10: 0x09CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x09CF [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x09D4 [0x2B] ??? (ID: 17437001/0x010A1149) [7491*]:
+ 12: 0x09D4 [0x2B] ??? (ID: 17437001/0x010A1149) [7493*]:
     → "When you have these in your possession, take the $4 and venture deep into the forbidden forest. Look for the shining stone."
  13: 0x09DB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x09DC [0x2B] ??? (ID: 17437001/0x010A1149) [7492*]:
+ 14: 0x09DC [0x2B] ??? (ID: 17437001/0x010A1149) [7494*]:
     → "I await your coming..."
  15: 0x09E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x09E4 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -3029,27 +3029,27 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x09E9 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x09EC [0x2B] ??? (ID: 17437001/0x010A1149) [7493*]:
+  1: 0x09EC [0x2B] ??? (ID: 17437001/0x010A1149) [7495*]:
     → "... So, you are searching for me?"
   2: 0x09F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x09F4 [0x2B] ??? (ID: 17437001/0x010A1149) [7494*]:
+  3: 0x09F4 [0x2B] ??? (ID: 17437001/0x010A1149) [7496*]:
     → "I am the key to the gate of hell. And yet you search for me? Do not try to deny it."
   4: 0x09FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x09FC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-  6: 0x0A01 [0x2B] ??? (ID: 17437001/0x010A1149) [7495*]:
+  6: 0x0A01 [0x2B] ??? (ID: 17437001/0x010A1149) [7497*]:
     → "If you wish to wield my forbidden power, then bring me $0, a staff of uncommon craftsmanship."
   7: 0x0A08 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A09 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   9: 0x0A0E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
  10: 0x0A13 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
  11: 0x0A18 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x0A1D [0x2B] ??? (ID: 17437001/0x010A1149) [7496*]:
+ 12: 0x0A1D [0x2B] ??? (ID: 17437001/0x010A1149) [7498*]:
     → "You will also require $1 and $3 $0 to free me from my chains. Do not forget to bring the $4..."
  13: 0x0A24 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0A25 [0x2B] ??? (ID: 17437001/0x010A1149) [7497*]:
+ 14: 0x0A25 [0x2B] ??? (ID: 17437001/0x010A1149) [7499*]:
     → "This task will be harder than you believe. But if you succeed in gathering these things, bring them to the island overgrown with jungle, to the place that lies closest to the infernal flames."
  15: 0x0A2C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0A2D [0x2B] ??? (ID: 17437001/0x010A1149) [7498*]:
+ 16: 0x0A2D [0x2B] ??? (ID: 17437001/0x010A1149) [7500*]:
     → "Once you have accomplished this, my unearthly power will be yours."
  17: 0x0A34 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0A35 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -3082,24 +3082,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x0A3A [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x0A3D [0x2B] ??? (ID: 17437001/0x010A1149) [7499*]:
+  1: 0x0A3D [0x2B] ??? (ID: 17437001/0x010A1149) [7501*]:
     → "... Do you quest for me?"
   2: 0x0A44 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0A45 [0x2B] ??? (ID: 17437001/0x010A1149) [7500*]:
+  3: 0x0A45 [0x2B] ??? (ID: 17437001/0x010A1149) [7502*]:
     → "I knew it to be so. I was once the bow of a famous archer, but have since passed through many hands to my present masterless state."
   4: 0x0A4C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0A4D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x0A52 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x0A57 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x0A5C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x0A61 [0x2B] ??? (ID: 17437001/0x010A1149) [7501*]:
+  9: 0x0A61 [0x2B] ??? (ID: 17437001/0x010A1149) [7503*]:
     → "If you would draw me in battle, then I must have $0, a great bow, to be my foundation. You will also require $1 and $3 $0 ."
  10: 0x0A68 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0A69 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x0A6E [0x2B] ??? (ID: 17437001/0x010A1149) [7502*]:
+ 12: 0x0A6E [0x2B] ??? (ID: 17437001/0x010A1149) [7504*]:
     → "When you have these in hand, bring them with the $4 to the beach of the land to the west and the south."
  13: 0x0A75 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0A76 [0x2B] ??? (ID: 17437001/0x010A1149) [7503*]:
+ 14: 0x0A76 [0x2B] ??? (ID: 17437001/0x010A1149) [7505*]:
     → "I will be waiting for you."
  15: 0x0A7D [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0A7E [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -3131,24 +3131,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x0A83 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x0A86 [0x2B] ??? (ID: 17437001/0x010A1149) [7504*]:
+  1: 0x0A86 [0x2B] ??? (ID: 17437001/0x010A1149) [7506*]:
     → "... You are the one who hunts for me?"
   2: 0x0A8D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0A8E [0x2B] ??? (ID: 17437001/0x010A1149) [7505*]:
+  3: 0x0A8E [0x2B] ??? (ID: 17437001/0x010A1149) [7507*]:
     → "You are aware of my reputation for destruction?"
   4: 0x0A95 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0A96 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x0A9B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x0AA0 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x0AA5 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x0AAA [0x2B] ??? (ID: 17437001/0x010A1149) [7506*]:
+  9: 0x0AAA [0x2B] ??? (ID: 17437001/0x010A1149) [7508*]:
     → "If you still intend to own me, then I will have $0, a weapon suitable to serve as my barrel. And I will have $1 and $3 $0 as further recompense."
  10: 0x0AB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0AB2 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x0AB7 [0x2B] ??? (ID: 17437001/0x010A1149) [7507*]:
+ 12: 0x0AB7 [0x2B] ??? (ID: 17437001/0x010A1149) [7509*]:
     → "Once you have what I require, you will find me in the southwestern nation where the children who play with fire reside. And do not forget the $4..."
  13: 0x0ABE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0ABF [0x2B] ??? (ID: 17437001/0x010A1149) [7508*]:
+ 14: 0x0ABF [0x2B] ??? (ID: 17437001/0x010A1149) [7510*]:
     → "I will be waiting."
  15: 0x0AC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0AC7 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -3181,24 +3181,24 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x0ACC [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x0ACF [0x2B] ??? (ID: 17437001/0x010A1149) [7509*]:
+  1: 0x0ACF [0x2B] ??? (ID: 17437001/0x010A1149) [7511*]:
     → "... Do you wish to play a tune with me?"
   2: 0x0AD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0AD7 [0x2B] ??? (ID: 17437001/0x010A1149) [7510*]:
+  3: 0x0AD7 [0x2B] ??? (ID: 17437001/0x010A1149) [7512*]:
     → "If you wish to hear my strident call, then you must collect my pieces."
   4: 0x0ADE [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0ADF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x0AE4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
   7: 0x0AE9 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   8: 0x0AEE [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-  9: 0x0AF3 [0x2B] ??? (ID: 17437001/0x010A1149) [7511*]:
+  9: 0x0AF3 [0x2B] ??? (ID: 17437001/0x010A1149) [7513*]:
     → "$1 is my bold timbre, and $0 will provide my body. And my music must be paid for with $3 $0 ."
  10: 0x0AFA [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0AFB [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 12: 0x0B00 [0x2B] ??? (ID: 17437001/0x010A1149) [7512*]:
+ 12: 0x0B00 [0x2B] ??? (ID: 17437001/0x010A1149) [7514*]:
     → "When you have the parts I require, take up the $4 and come to the valley in the west where the wind blows its own symphony."
  13: 0x0B07 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0B08 [0x2B] ??? (ID: 17437001/0x010A1149) [7513*]:
+ 14: 0x0B08 [0x2B] ??? (ID: 17437001/0x010A1149) [7515*]:
     → "Then I will break my silence for you..."
  15: 0x0B0F [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0B10 [0x1A] CALL_SUBROUTINE(address=0x0D20)
@@ -3233,42 +3233,42 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x0B15 [0x1A] CALL_SUBROUTINE(address=0x0CFD)
-  1: 0x0B18 [0x2B] ??? (ID: 17437001/0x010A1149) [7548*]:
+  1: 0x0B18 [0x2B] ??? (ID: 17437001/0x010A1149) [7550*]:
     → "...You wish me to protect you?"
   2: 0x0B1F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0B20 [0x2B] ??? (ID: 17437001/0x010A1149) [7549*]:
+  3: 0x0B20 [0x2B] ??? (ID: 17437001/0x010A1149) [7551*]:
     → "You seek an impenetrable wall with which to defend yourself and your companions? I will be that shield for you."
   4: 0x0B27 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0B28 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   6: 0x0B2D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
-  7: 0x0B32 [0x2B] ??? (ID: 17437001/0x010A1149) [7550*]:
+  7: 0x0B32 [0x2B] ??? (ID: 17437001/0x010A1149) [7552*]:
     → "However... You must provide $0 and $1 for my impervious foundation."
   8: 0x0B39 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0B3A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
  10: 0x0B3F [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
- 11: 0x0B44 [0x2B] ??? (ID: 17437001/0x010A1149) [7551*]:
+ 11: 0x0B44 [0x2B] ??? (ID: 17437001/0x010A1149) [7553*]:
     → "You will also require $3 $0 as a sign of good faith."
  12: 0x0B4B [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0B4C [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 14: 0x0B51 [0x2B] ??? (ID: 17437001/0x010A1149) [7552*]:
+ 14: 0x0B51 [0x2B] ??? (ID: 17437001/0x010A1149) [7554*]:
     → "Bring these along with the $4 to the place by the channel where my wise servant rests his wings."
  15: 0x0B58 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0B59 [0x2B] ??? (ID: 17437001/0x010A1149) [7553*]:
+ 16: 0x0B59 [0x2B] ??? (ID: 17437001/0x010A1149) [7555*]:
     → "If this is done, I will pledge to you an unshakable defense--a shield upon which the claws of fiends will break, and the finest blades will shatter..."
  17: 0x0B60 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0B61 [0x48] [System] [7434*]:
+ 18: 0x0B61 [0x48] [System] [7436*]:
     → "The voice has gone silent..."
  19: 0x0B64 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0B65 [0x1C] WAIT(45* ticks)
  21: 0x0B68 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
- 22: 0x0B77 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+ 22: 0x0B77 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "What's up, [adventure-boy/adventure-girl]? You get my attention, then you don't say anything. Are you feeling okay? You're acting kinda weird. I'm a blacksmith, not a doctor, you know."
  23: 0x0B7A [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0B7B [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 25: 0x0B80 [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
+ 25: 0x0B80 [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
     → "Whachya got there? $4? I told you to bring me any old armor or shields you find, but try to make sure they're in one piece, huh?"
  26: 0x0B83 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0B84 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+ 27: 0x0B84 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
     → "Doesn't matter how great a blacksmith I am, there's not much I can do with just $4. Sometimes knowing when to give up takes more guts, as my old Gobbie granddaddy used to say."
  28: 0x0B87 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0B88 [0x21] END_EVENT
@@ -3327,22 +3327,22 @@ SUBROUTINE_05B8:
   2: 0x0B90 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0B95 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x0BA0
   4: 0x0B9D [0x01] GOTO 0x0C47
-  5: 0x0BA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
+  5: 0x0BA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
     → "You pay the fee--we got a deal. I'll be here waiting for you, trying to keep my Gobbie toes warm."
   6: 0x0BA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0BA4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-  8: 0x0BB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
+  8: 0x0BB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
     → "What's that, [adventure-boy/adventure-girl]? You wanna cancel the order? Have you lost your little adventurer mind!?"
   9: 0x0BB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0BB7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
- 11: 0x0BC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
+ 11: 0x0BC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
     → "I keeps what I takes, and you loses what you gives, you get it? No refunds, ifs, ands, or buts."
  12: 0x0BC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0BCA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mmm0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=216*
- 14: 0x0BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
+ 14: 0x0BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7559*)
     → "Do you really wanna cancel the reforging order?"
  15: 0x0BDC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0BDD [0x24] CREATE_DIALOG(message_id=7558*, default_option=1*, option_flags=0*)
+ 16: 0x0BDD [0x24] CREATE_DIALOG(message_id=7560*, default_option=1*, option_flags=0*)
     → "Cancel the order? [Yes, I've made up my mind./Gob, no!]"
  17: 0x0BE4 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0BE5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0BF3
@@ -3350,14 +3350,14 @@ SUBROUTINE_05B8:
 
 SUBROUTINE_0BF3:
  20: 0x0BF3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mmm1" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=216*
- 21: 0x0C02 [0x1D] PRINT_EVENT_MESSAGE(message_id=7559*)
+ 21: 0x0C02 [0x1D] PRINT_EVENT_MESSAGE(message_id=7561*)
     → "Are you really sure? I make out like a Gob in a junkyard, and you lose everything."
  22: 0x0C05 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0C06 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=216*
- 24: 0x0C15 [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
+ 24: 0x0C15 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
     → "Are you really, really, really sure?"
  25: 0x0C18 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0C19 [0x24] CREATE_DIALOG(message_id=7561*, default_option=1*, option_flags=0*)
+ 26: 0x0C19 [0x24] CREATE_DIALOG(message_id=7563*, default_option=1*, option_flags=0*)
     → "Are you really sure? [Really!/Not really...]"
  27: 0x0C20 [0x25] WAIT_DIALOG_SELECT()
  28: 0x0C21 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C2F
@@ -3366,13 +3366,13 @@ SUBROUTINE_0BF3:
 SUBROUTINE_0C2F:
  30: 0x0C2F [0x03] Work_Zone[1] = 666*
  31: 0x0C34 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum1" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=216*
- 32: 0x0C43 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
+ 32: 0x0C43 [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
     → "Well, alrighty then... Consider your order canceled. Null and void! Never happened!"
  33: 0x0C46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0C47:
  34: 0x0C47 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bye0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=216*
- 35: 0x0C56 [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
+ 35: 0x0C56 [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
     → "Just a piece of advice for you, [adventure-boy/adventure-girl]: next time you better be Gob-darn sure you know what you want. Come on back now, y'hear?"
  36: 0x0C59 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0C5A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bye0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)]
@@ -3395,24 +3395,24 @@ SUBROUTINE_0C67:
      0x0C73 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
      0x0C78 [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x0C7D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-     0x0C8C [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
+     0x0C8C [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "Hold on, [adventure-boy/adventure-girl]. I remember you... That $0 you've got there. Didn't I already reforge one for you?"
      0x0C8F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C90 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
      0x0C95 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-     0x0C9A [0x24] CREATE_DIALOG(message_id=7370*, default_option=1*, option_flags=0*)
+     0x0C9A [0x24] CREATE_DIALOG(message_id=7372*, default_option=1*, option_flags=0*)
     → "Don't tell me you want another... [I do!/No. Just forget it.]"
      0x0CA1 [0x25] WAIT_DIALOG_SELECT()
      0x0CA2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0CB0
      0x0CAA [0x01] GOTO 0x0CFC
      0x0CAD [0x01] GOTO 0x0CB0
      0x0CB0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-     0x0CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
+     0x0CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "Hmmm... Hmmm...... You know you can only carry one of those things, right?"
      0x0CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CC3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
      0x0CC8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-     0x0CCD [0x24] CREATE_DIALOG(message_id=7370*, default_option=1*, option_flags=0*)
+     0x0CCD [0x24] CREATE_DIALOG(message_id=7372*, default_option=1*, option_flags=0*)
     → "Don't tell me you want another... [I do!/No. Just forget it.]"
      0x0CD4 [0x25] WAIT_DIALOG_SELECT()
      0x0CD5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0CE3
@@ -3421,7 +3421,7 @@ SUBROUTINE_0C67:
      0x0CE3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x0CE4 [0x03] Work_Zone[1] = 1*
      0x0CE9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-     0x0CF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+     0x0CF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
     → "Let me get this straight. You want another, even though you know you can only carry one... And you people say us Gobbies are weird. Well, you know the routine. Bring me back the items and I'll start forging."
      0x0CFB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CFC [0x1B] RETURN
@@ -3431,23 +3431,23 @@ SUBROUTINE_0C67:
      0x0D0C [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[5]
      0x0D11 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[6]
      0x0D16 [0x1E] EventEntity looks at LocalPlayer and starts talking
-     0x0D1B [0x48] [System] [7433*]:
+     0x0D1B [0x48] [System] [7435*]:
     → "You hear a voice from somewhere..."
      0x0D1E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D1F [0x1B] RETURN
-     0x0D20 [0x48] [System] [7434*]:
+     0x0D20 [0x48] [System] [7436*]:
     → "The voice has gone silent..."
      0x0D23 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D24 [0x1C] WAIT(45* ticks)
      0x0D27 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Switchstix (ID: 17437000/0x010A1148), Switchstix (ID: 17437000/0x010A1148)], work=215*
-     0x0D36 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+     0x0D36 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "What's up, [adventure-boy/adventure-girl]? You get my attention, then you don't say anything. Are you feeling okay? You're acting kinda weird. I'm a blacksmith, not a doctor, you know."
      0x0D39 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D3A [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
-     0x0D3F [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+     0x0D3F [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "Whachya got there? $4? I told you to bring me any old weapons you find, but try to make sure they're in one piece, huh?"
      0x0D42 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D43 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+     0x0D43 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
     → "Doesn't matter how great a blacksmith I am, there's not much I can do with just $4. Sometimes knowing when to give up takes more guts, as my old Gobbie granddaddy used to say."
      0x0D46 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D47 [0x1B] RETURN

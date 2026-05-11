@@ -21,17 +21,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1D9D      |        7581 |
-|       2 | 0x1D9F      |        7583 |
-|       3 | 0x1D9E      |        7582 |
+|       1 | 0x1D9F      |        7583 |
+|       2 | 0x1DA1      |        7585 |
+|       3 | 0x1DA0      |        7584 |
 |       4 | 0x00C8      |         200 |
 |       5 | 0x0000      |           0 |
 
 ## String References
 
-- **7581**: The $0 jumps in your hands.
-- **7582**: Ahahahahaha! I can sense the power of the ring! Get yourself moving [north/northeast/east/southeast/south/southwest/west/northwest]!
-- **7583**: Ahahahahaha! Don't slow down now, slacker! The readings are coming from the [north/northeast/east/southeast/south/southwest/west/northwest]!
+- **7583**: The $0 jumps in your hands.
+- **7584**: Ahahahahaha! I can sense the power of the ring! Get yourself moving [north/northeast/east/southeast/south/southwest/west/northwest]!
+- **7585**: Ahahahahaha! Don't slow down now, slacker! The readings are coming from the [north/northeast/east/southeast/south/southwest/west/northwest]!
 
 ## Events
 
@@ -84,15 +84,15 @@
   2: 0x0005 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   3: 0x0007 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   4: 0x0009 [0x1C] WAIT(1* ticks)
-  5: 0x000C [0x48] [System] [7581*]:
+  5: 0x000C [0x48] [System] [7583*]:
     → "The $0 jumps in your hands."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x001F
-  8: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
+  8: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7585*)
     → "Ahahahahaha! Don't slow down now, slacker! The readings are coming from the [north/northeast/east/southeast/south/southwest/west/northwest]!"
   9: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x001C [0x01] GOTO 0x0023
- 11: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
+ 11: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
     → "Ahahahahaha! I can sense the power of the ring! Get yourself moving [north/northeast/east/southeast/south/southwest/west/northwest]!"
  12: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

@@ -22,16 +22,16 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F33      |        7987 |
-|       2 | 0x1F34      |        7988 |
+|       1 | 0x1F35      |        7989 |
+|       2 | 0x1F36      |        7990 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x40000000  |  1073741824 |
 
 ## String References
 
-- **7987**: Now delivering parcels to rooms everywhere!
-- **7988**: Send? [Yes./Not now.]
+- **7989**: Now delivering parcels to rooms everywhere!
+- **7990**: Send? [Yes./Not now.]
 
 ## Events
 
@@ -106,11 +106,11 @@
   1: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
     → "Now delivering parcels to rooms everywhere!"
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  7: 0x0021 [0x24] CREATE_DIALOG(message_id=7988*, default_option=0*, option_flags=0*)
+  7: 0x0021 [0x24] CREATE_DIALOG(message_id=7990*, default_option=0*, option_flags=0*)
     → "Send? [Yes./Not now.]"
   8: 0x0028 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0029 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0039

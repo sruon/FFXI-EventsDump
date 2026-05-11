@@ -29,13 +29,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1C72      |        7282 |
-|       2 | 0x1C73      |        7283 |
+|       1 | 0x1C74      |        7284 |
+|       2 | 0x1C75      |        7285 |
 
 ## String References
 
-- **7282**: It's been twenty years since my son joined the Temple Knights... And still Ronfaure is thick with Orcs!
-- **7283**: It's all the fault of those Royal Knights! Does Prince Trion think to undo all that my son has wrought? Does he?
+- **7284**: It's been twenty years since my son joined the Temple Knights... And still Ronfaure is thick with Orcs!
+- **7285**: It's all the fault of those Royal Knights! Does Prince Trion think to undo all that my son has wrought? Does he?
 
 ## Events
 
@@ -278,10 +278,10 @@
   1: 0x0072 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0073 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0074 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ronpaurege (ID: 17723515/0x010E707B), tag_num=0x02)
-  4: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
+  4: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7284*)
     → "It's been twenty years since my son joined the Temple Knights... And still Ronfaure is thick with Orcs!"
   5: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
+  6: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7285*)
     → "It's all the fault of those Royal Knights! Does Prince Trion think to undo all that my son has wrought? Does he?"
   7: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0083 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ronpaurege (ID: 17723515/0x010E707B), tag_num=0x03)

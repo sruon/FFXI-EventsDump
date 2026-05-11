@@ -27,22 +27,22 @@
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
 |       6 | 0x0010      |          16 |
-|       7 | 0x1D5C      |        7516 |
-|       8 | 0x1D5D      |        7517 |
+|       7 | 0x1D5E      |        7518 |
+|       8 | 0x1D5F      |        7519 |
 |       9 | 0x40000000  |  1073741824 |
-|      10 | 0x1D5E      |        7518 |
+|      10 | 0x1D60      |        7520 |
 |      11 | 0x002D      |          45 |
 |      12 | 0x0078      |         120 |
-|      13 | 0x1D5F      |        7519 |
-|      14 | 0x1D60      |        7520 |
+|      13 | 0x1D61      |        7521 |
+|      14 | 0x1D62      |        7522 |
 
 ## String References
 
-- **7516**: This seems to be the site of the ergon locus oft called the "[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame]." It is most likely worth surveying.
-- **7517**: This seems to be the site of the ergon locus oft called the "[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall]." It is most likely worth surveying.
-- **7518**: Commence survey? [Yes./No.]
-- **7519**: [Your survey is a success./You have already surveyed an ergon locus in the area.] Return to the manager in charge and report on what you have learned about the ergon locus's attributes.
-- **7520**: Your survey has ended in utter failure. The time of day and distance from which you surveyed could very well be to blame.
+- **7518**: This seems to be the site of the ergon locus oft called the "[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame]." It is most likely worth surveying.
+- **7519**: This seems to be the site of the ergon locus oft called the "[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall]." It is most likely worth surveying.
+- **7520**: Commence survey? [Yes./No.]
+- **7521**: [Your survey is a success./You have already surveyed an ergon locus in the area.] Return to the manager in charge and report on what you have learned about the ergon locus's attributes.
+- **7522**: Your survey has ended in utter failure. The time of day and distance from which you surveyed could very well be to blame.
 
 ## Events
 
@@ -130,12 +130,12 @@
 
 SUBROUTINE_005F:
  19: 0x005F [0x02] IF !(Work_Zone[2] >= 16*) GOTO 0x006E
- 20: 0x0067 [0x48] [System] [7516*]:
+ 20: 0x0067 [0x48] [System] [7518*]:
     → "This seems to be the site of the ergon locus oft called the "[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame]." It is most likely worth surveying."
  21: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x006B [0x01] GOTO 0x0077
  23: 0x006E [0x08] Work_Zone[2] -= 16*
- 24: 0x0073 [0x48] [System] [7517*]:
+ 24: 0x0073 [0x48] [System] [7519*]:
     → "This seems to be the site of the ergon locus oft called the "[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall]." It is most likely worth surveying."
  25: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -158,17 +158,17 @@ SUBROUTINE_0077:
 
 SUBROUTINE_00C7:
  41: 0x00C7 [0x02] IF !(Work_Zone[2] >= 16*) GOTO 0x00D6
- 42: 0x00CF [0x48] [System] [7516*]:
+ 42: 0x00CF [0x48] [System] [7518*]:
     → "This seems to be the site of the ergon locus oft called the "[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame]." It is most likely worth surveying."
  43: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00D3 [0x01] GOTO 0x00DF
  45: 0x00D6 [0x08] Work_Zone[2] -= 16*
- 46: 0x00DB [0x48] [System] [7517*]:
+ 46: 0x00DB [0x48] [System] [7519*]:
     → "This seems to be the site of the ergon locus oft called the "[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall]." It is most likely worth surveying."
  47: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00DF:
- 48: 0x00DF [0x24] CREATE_DIALOG(message_id=7518*, default_option=1*, option_flags=0*)
+ 48: 0x00DF [0x24] CREATE_DIALOG(message_id=7520*, default_option=1*, option_flags=0*)
     → "Commence survey? [Yes./No.]"
  49: 0x00E6 [0x25] WAIT_DIALOG_SELECT()
  50: 0x00E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0124
@@ -178,12 +178,12 @@ SUBROUTINE_00DF:
  54: 0x00FE [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0118
  55: 0x0106 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  56: 0x0107 [0x03] Work_Zone[2] = 0*
- 57: 0x010C [0x48] [System] [7519*]:
+ 57: 0x010C [0x48] [System] [7521*]:
     → "[Your survey is a success./You have already surveyed an ergon locus in the area.] Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
  58: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0110 [0x03] Work_Zone[1] = 1*
  60: 0x0115 [0x01] GOTO 0x0121
- 61: 0x0118 [0x48] [System] [7520*]:
+ 61: 0x0118 [0x48] [System] [7522*]:
     → "Your survey has ended in utter failure. The time of day and distance from which you surveyed could very well be to blame."
  62: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x011C [0x03] Work_Zone[1] = Work_Zone[1]
@@ -198,7 +198,7 @@ SUBROUTINE_0134:
  68: 0x0134 [0x01] GOTO 0x0150
  69: 0x0137 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0150
  70: 0x013F [0x03] Work_Zone[2] = 1*
- 71: 0x0144 [0x48] [System] [7519*]:
+ 71: 0x0144 [0x48] [System] [7521*]:
     → "[Your survey is a success./You have already surveyed an ergon locus in the area.] Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
  72: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0148 [0x03] Work_Zone[1] = 1073741824*

@@ -20,54 +20,54 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2A42      |       10818 |
-|       1 | 0x2A43      |       10819 |
-|       2 | 0x2A60      |       10848 |
+|       0 | 0x2A44      |       10820 |
+|       1 | 0x2A45      |       10821 |
+|       2 | 0x2A62      |       10850 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x2A55      |       10837 |
+|       5 | 0x2A57      |       10839 |
 |       6 | 0x0014      |          20 |
-|       7 | 0x2A56      |       10838 |
+|       7 | 0x2A58      |       10840 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x2A57      |       10839 |
-|      10 | 0x2A58      |       10840 |
+|       9 | 0x2A59      |       10841 |
+|      10 | 0x2A5A      |       10842 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x2A44      |       10820 |
-|      13 | 0x2A45      |       10821 |
-|      14 | 0x2A46      |       10822 |
-|      15 | 0x2A47      |       10823 |
-|      16 | 0x2A48      |       10824 |
-|      17 | 0x2A49      |       10825 |
-|      18 | 0x2A4A      |       10826 |
-|      19 | 0x2A4B      |       10827 |
-|      20 | 0x2A4C      |       10828 |
+|      12 | 0x2A46      |       10822 |
+|      13 | 0x2A47      |       10823 |
+|      14 | 0x2A48      |       10824 |
+|      15 | 0x2A49      |       10825 |
+|      16 | 0x2A4A      |       10826 |
+|      17 | 0x2A4B      |       10827 |
+|      18 | 0x2A4C      |       10828 |
+|      19 | 0x2A4D      |       10829 |
+|      20 | 0x2A4E      |       10830 |
 |      21 | 0x0004      |           4 |
-|      22 | 0x2A4D      |       10829 |
-|      23 | 0x2A4E      |       10830 |
-|      24 | 0x2A4F      |       10831 |
-|      25 | 0x2A50      |       10832 |
-|      26 | 0x2A51      |       10833 |
-|      27 | 0x2A52      |       10834 |
-|      28 | 0x2A53      |       10835 |
-|      29 | 0x2A54      |       10836 |
-|      30 | 0x2A59      |       10841 |
+|      22 | 0x2A4F      |       10831 |
+|      23 | 0x2A50      |       10832 |
+|      24 | 0x2A51      |       10833 |
+|      25 | 0x2A52      |       10834 |
+|      26 | 0x2A53      |       10835 |
+|      27 | 0x2A54      |       10836 |
+|      28 | 0x2A55      |       10837 |
+|      29 | 0x2A56      |       10838 |
+|      30 | 0x2A5B      |       10843 |
 |      31 | 0x0064      |         100 |
-|      32 | 0x2A5D      |       10845 |
-|      33 | 0x2A61      |       10849 |
-|      34 | 0x2A5E      |       10846 |
-|      35 | 0x2A5F      |       10847 |
+|      32 | 0x2A5F      |       10847 |
+|      33 | 0x2A63      |       10851 |
+|      34 | 0x2A60      |       10848 |
+|      35 | 0x2A61      |       10849 |
 |      36 | 0x0065      |         101 |
 |      37 | 0x0005      |           5 |
 |      38 | 0x0006      |           6 |
 |      39 | 0x0007      |           7 |
 |      40 | 0x000B      |          11 |
-|      41 | 0x2A5A      |       10842 |
-|      42 | 0x2A5B      |       10843 |
+|      41 | 0x2A5C      |       10844 |
+|      42 | 0x2A5D      |       10845 |
 |      43 | 0x000C      |          12 |
 |      44 | 0x0066      |         102 |
 |      45 | 0x0067      |         103 |
 |      46 | 0x000D      |          13 |
-|      47 | 0x2A5C      |       10844 |
+|      47 | 0x2A5E      |       10846 |
 |      48 | 0x0068      |         104 |
 |      49 | 0x0069      |         105 |
 |      50 | 0x0009      |           9 |
@@ -77,38 +77,38 @@
 
 ## String References
 
-- **10818**: Greetings, friend. I am Registrar Cloud Walker. My duty is to issue marriage certificates to married couples.
-- **10819**: What can I do for you today?
-- **10820**: The marriage certificate is a legal document issued in recognition of the matrimony of two individuals. It can also be used as a wall decoration for your Mog House.
-- **10821**: Couples wishing to receive the certificate must show proof of their marriage, and this can be done in a number of ways.
-- **10822**: The couple should form a party while the husband is wearing his matrimony ring, and his wife, her matrimony band. After that, speak to me, and I'll draw up the certificates for you.
-- **10823**: But if you possess a wedding ring, the procedure can be completed on your own.
-- **10824**: Keep in mind though, that you can't have more than one certificate at any given time. Also, the nation of issuance for your certificate must be the same as your partner's.
-- **10825**: One last thing. A misplaced certificate can be reissued, but only by the same officiating body that you originally received it from.
-- **10826**: A wedding is a joyful occasion in which two souls brought together by fate are joined as partners in life.
-- **10827**: In Bastok, it's customary for the bride and groom to swear an oath of endless love in the presence of witnesses. After which, wedding rings are exchanged.
-- **10828**: To conclude the proceedings, all those present join in a toast with bottles of grape juice in hand and share in the newly joined couple's happiness.
-- **10829**: First of all, you'll need to prepare wedding rings--a matrimony ring and a matrimony band, to be precise.
-- **10830**: As their synthesis requires rare, hard-to-find ingredients, there truly is no better token of undying devotion between two people.
-- **10831**: Before you present the ring to your partner, you should consider engraving your name onto it using a cyclone crystal. This practice is widespread among adventurers nowadays.
-- **10832**: You'll also find that benedight coats and wedding dresses are popular as ceremonial attire for men and women, respectively.
-- **10833**: Similar garments exist that can be synthesized. Whether you perform the synthesis yourself or employ a friend to do so, though, is entirely your decision. Gathering the needed ingredients can be pricey, but it's for this reason they're highly valued.
-- **10834**: There's no need to feel dejected, though, if they don't fall within your budget. There's no law dictating what couples have to wear at their own wedding, after all.
-- **10835**: If you have trouble obtaining any of the ceremonial items I've mentioned, they can also be purchased from the chests you see here.
-- **10836**: Fireworks, wedding bells, and the like are also available to help add flavor to your special day, so feel free to purchase whatever you need.
-- **10837**: It looks like you already have a marriage certificate in your possession. I'm afraid I'm not authorized to issue you another.
-- **10838**: Your current job level must be level $2 or higher if you wish to receive a marriage certificate.
-- **10839**: I'm afraid I'm not authorized to issue you a marriage certificate.
-- **10840**: Married couples wishing to receive marriage certificates should form a party while the husband is wearing his matrimony ring, and his wife, her matrimony band. After that, speak to an official in charge, and the certificates will be drawn up for you.
-- **10841**: It looks like you've already been issued a marriage certificate by another nation. A misplaced certificate can be reissued, but only by the same officiating body that you originally received it from.
-- **10842**: It looks like your spouse's marriage certificate was issued by another nation.
-- **10843**: It looks like your spouse's marriage certificate was issued by another nation. If you want one of your own, you'll have to speak with the same officiating body that issued your spouse's.
-- **10844**: Accepting a marriage certificate from our nation will render you ineligible to receive one from another. Also, the nation of issuance for your marriage certificate must be the same as your partner's.
-- **10845**: Accepting a marriage certificate from our nation will render you ineligible to receive one from another.
-- **10846**: By the power vested in me by the Republic of Bastok, I hereby pronounce you husband and wife.
-- **10847**: You are all now officially permitted to eat, drink, sing, and have a joyous night!
-- **10848**: What would you like to do? [Nothing./Request a marriage certificate./Learn about marriage certificates./Learn about wedding ceremonies./Learn about ceremonial items.]
-- **10849**: Have a marriage certificate issued? [Yes./No.]
+- **10820**: Greetings, friend. I am Registrar Cloud Walker. My duty is to issue marriage certificates to married couples.
+- **10821**: What can I do for you today?
+- **10822**: The marriage certificate is a legal document issued in recognition of the matrimony of two individuals. It can also be used as a wall decoration for your Mog House.
+- **10823**: Couples wishing to receive the certificate must show proof of their marriage, and this can be done in a number of ways.
+- **10824**: The couple should form a party while the husband is wearing his matrimony ring, and his wife, her matrimony band. After that, speak to me, and I'll draw up the certificates for you.
+- **10825**: But if you possess a wedding ring, the procedure can be completed on your own.
+- **10826**: Keep in mind though, that you can't have more than one certificate at any given time. Also, the nation of issuance for your certificate must be the same as your partner's.
+- **10827**: One last thing. A misplaced certificate can be reissued, but only by the same officiating body that you originally received it from.
+- **10828**: A wedding is a joyful occasion in which two souls brought together by fate are joined as partners in life.
+- **10829**: In Bastok, it's customary for the bride and groom to swear an oath of endless love in the presence of witnesses. After which, wedding rings are exchanged.
+- **10830**: To conclude the proceedings, all those present join in a toast with bottles of grape juice in hand and share in the newly joined couple's happiness.
+- **10831**: First of all, you'll need to prepare wedding rings--a matrimony ring and a matrimony band, to be precise.
+- **10832**: As their synthesis requires rare, hard-to-find ingredients, there truly is no better token of undying devotion between two people.
+- **10833**: Before you present the ring to your partner, you should consider engraving your name onto it using a cyclone crystal. This practice is widespread among adventurers nowadays.
+- **10834**: You'll also find that benedight coats and wedding dresses are popular as ceremonial attire for men and women, respectively.
+- **10835**: Similar garments exist that can be synthesized. Whether you perform the synthesis yourself or employ a friend to do so, though, is entirely your decision. Gathering the needed ingredients can be pricey, but it's for this reason they're highly valued.
+- **10836**: There's no need to feel dejected, though, if they don't fall within your budget. There's no law dictating what couples have to wear at their own wedding, after all.
+- **10837**: If you have trouble obtaining any of the ceremonial items I've mentioned, they can also be purchased from the chests you see here.
+- **10838**: Fireworks, wedding bells, and the like are also available to help add flavor to your special day, so feel free to purchase whatever you need.
+- **10839**: It looks like you already have a marriage certificate in your possession. I'm afraid I'm not authorized to issue you another.
+- **10840**: Your current job level must be level $2 or higher if you wish to receive a marriage certificate.
+- **10841**: I'm afraid I'm not authorized to issue you a marriage certificate.
+- **10842**: Married couples wishing to receive marriage certificates should form a party while the husband is wearing his matrimony ring, and his wife, her matrimony band. After that, speak to an official in charge, and the certificates will be drawn up for you.
+- **10843**: It looks like you've already been issued a marriage certificate by another nation. A misplaced certificate can be reissued, but only by the same officiating body that you originally received it from.
+- **10844**: It looks like your spouse's marriage certificate was issued by another nation.
+- **10845**: It looks like your spouse's marriage certificate was issued by another nation. If you want one of your own, you'll have to speak with the same officiating body that issued your spouse's.
+- **10846**: Accepting a marriage certificate from our nation will render you ineligible to receive one from another. Also, the nation of issuance for your marriage certificate must be the same as your partner's.
+- **10847**: Accepting a marriage certificate from our nation will render you ineligible to receive one from another.
+- **10848**: By the power vested in me by the Republic of Bastok, I hereby pronounce you husband and wife.
+- **10849**: You are all now officially permitted to eat, drink, sing, and have a joyous night!
+- **10850**: What would you like to do? [Nothing./Request a marriage certificate./Learn about marriage certificates./Learn about wedding ceremonies./Learn about ceremonial items.]
+- **10851**: Have a marriage certificate issued? [Yes./No.]
 
 ## Events
 
@@ -204,14 +204,14 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10818*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
     → "Greetings, friend. I am Registrar Cloud Walker. My duty is to issue marriage certificates to married couples."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10819*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
     → "What can I do for you today?"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x1A] CALL_SUBROUTINE(address=0x02DA)
-  6: 0x0011 [0x24] CREATE_DIALOG(message_id=10848*, default_option=0*, option_flags=0*)
+  6: 0x0011 [0x24] CREATE_DIALOG(message_id=10850*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Nothing./Request a marriage certificate./Learn about marriage certificates./Learn about wedding ceremonies./Learn about ceremonial items.]"
   7: 0x0018 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0019 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0029
@@ -219,14 +219,14 @@
  10: 0x0026 [0x01] GOTO 0x0100
  11: 0x0029 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0092
  12: 0x0031 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x004A
- 13: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=10837*)
+ 13: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=10839*)
     → "It looks like you already have a marriage certificate in your possession. I'm afraid I'm not authorized to issue you another."
  14: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x003D [0x03] Work_Zone[1] = 1*
  16: 0x0042 [0x03] ExtData[1]->WorkLocal[9] = 1*
  17: 0x0047 [0x01] GOTO 0x008F
  18: 0x004A [0x02] IF !(LocalPlayer->JobLevel >= 20*) GOTO 0x0063
- 19: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=10838*)
+ 19: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=10840*)
     → "Your current job level must be level $2 or higher if you wish to receive a marriage certificate."
  20: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0056 [0x03] Work_Zone[1] = 1*
@@ -238,22 +238,22 @@
 SUBROUTINE_008F:
  26: 0x008F [0x01] GOTO 0x0100
  27: 0x0092 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00B8
- 28: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
+ 28: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
     → "The marriage certificate is a legal document issued in recognition of the matrimony of two individuals. It can also be used as a wall decoration for your Mog House."
  29: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
+ 30: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=10823*)
     → "Couples wishing to receive the certificate must show proof of their marriage, and this can be done in a number of ways."
  31: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
+ 32: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10824*)
     → "The couple should form a party while the husband is wearing his matrimony ring, and his wife, her matrimony band. After that, speak to me, and I'll draw up the certificates for you."
  33: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10823*)
+ 34: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
     → "But if you possess a wedding ring, the procedure can be completed on your own."
  35: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10824*)
+ 36: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10826*)
     → "Keep in mind though, that you can't have more than one certificate at any given time. Also, the nation of issuance for your certificate must be the same as your partner's."
  37: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
+ 38: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10827*)
     → "One last thing. A misplaced certificate can be reissued, but only by the same officiating body that you originally received it from."
  39: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x00B2 [0x01] GOTO 0x0011
@@ -264,7 +264,7 @@ SUBROUTINE_0100:
 SUBROUTINE_0103:
  42: 0x0103 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0131
  43: 0x010B [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[1]) GOTO 0x0124
- 44: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=10841*)
+ 44: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=10843*)
     → "It looks like you've already been issued a marriage certificate by another nation. A misplaced certificate can be reissued, but only by the same officiating body that you originally received it from."
  45: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0117 [0x03] Work_Zone[1] = 1*
@@ -276,17 +276,17 @@ SUBROUTINE_0103:
 SUBROUTINE_012E:
  51: 0x012E [0x01] GOTO 0x0174
  52: 0x0131 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 53: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=10845*)
+ 53: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=10847*)
     → "Accepting a marriage certificate from our nation will render you ineligible to receive one from another."
  54: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x013A [0x24] CREATE_DIALOG(message_id=10849*, default_option=1*, option_flags=0*)
+ 55: 0x013A [0x24] CREATE_DIALOG(message_id=10851*, default_option=1*, option_flags=0*)
     → "Have a marriage certificate issued? [Yes./No.]"
  56: 0x0141 [0x25] WAIT_DIALOG_SELECT()
  57: 0x0142 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015F
- 58: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=10846*)
+ 58: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
     → "By the power vested in me by the Republic of Bastok, I hereby pronounce you husband and wife."
  59: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=10847*)
+ 60: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
     → "You are all now officially permitted to eat, drink, sing, and have a joyous night!"
  61: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0152 [0x03] Work_Zone[1] = 2*
@@ -302,20 +302,20 @@ SUBROUTINE_0174:
 
 SUBROUTINE_0177:
  70: 0x0177 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0194
- 71: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=10839*)
+ 71: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=10841*)
     → "I'm afraid I'm not authorized to issue you a marriage certificate."
  72: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=10840*)
+ 73: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=10842*)
     → "Married couples wishing to receive marriage certificates should form a party while the husband is wearing his matrimony ring, and his wife, her matrimony band. After that, speak to an official in charge, and the certificates will be drawn up for you."
  74: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0187 [0x03] Work_Zone[1] = 1*
  76: 0x018C [0x03] ExtData[1]->WorkLocal[9] = 5*
  77: 0x0191 [0x01] GOTO 0x01D0
  78: 0x0194 [0x02] IF !((LocalPlayer->Render.Flags01 >> 25) & 1 == ExtData[1]->WorkLocal[8]) GOTO 0x01B1
- 79: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=10839*)
+ 79: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=10841*)
     → "I'm afraid I'm not authorized to issue you a marriage certificate."
  80: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10840*)
+ 81: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10842*)
     → "Married couples wishing to receive marriage certificates should form a party while the husband is wearing his matrimony ring, and his wife, her matrimony band. After that, speak to an official in charge, and the certificates will be drawn up for you."
  82: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x01A4 [0x03] Work_Zone[1] = 1*
@@ -330,7 +330,7 @@ SUBROUTINE_01D0:
 SUBROUTINE_01D3:
  89: 0x01D3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0233
  90: 0x01DB [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[1]) GOTO 0x01F4
- 91: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10841*)
+ 91: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10843*)
     → "It looks like you've already been issued a marriage certificate by another nation. A misplaced certificate can be reissued, but only by the same officiating body that you originally received it from."
  92: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x01E7 [0x03] Work_Zone[1] = 1*
@@ -338,10 +338,10 @@ SUBROUTINE_01D3:
  95: 0x01F1 [0x01] GOTO 0x0230
  96: 0x01F4 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0226
  97: 0x01FC [0x02] IF !(ExtData[1]->WorkLocal[3] == ExtData[1]->WorkLocal[1]) GOTO 0x0219
- 98: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=10842*)
+ 98: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=10844*)
     → "It looks like your spouse's marriage certificate was issued by another nation."
  99: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=10843*)
+100: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=10845*)
     → "It looks like your spouse's marriage certificate was issued by another nation. If you want one of your own, you'll have to speak with the same officiating body that issued your spouse's."
 101: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x020C [0x03] Work_Zone[1] = 1*
@@ -359,26 +359,26 @@ SUBROUTINE_0230:
 110: 0x0230 [0x01] GOTO 0x02D7
 111: 0x0233 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0299
 112: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[3] == ExtData[1]->WorkLocal[1]) GOTO 0x0258
-113: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=10842*)
+113: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=10844*)
     → "It looks like your spouse's marriage certificate was issued by another nation."
 114: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x0247 [0x1D] PRINT_EVENT_MESSAGE(message_id=10843*)
+115: 0x0247 [0x1D] PRINT_EVENT_MESSAGE(message_id=10845*)
     → "It looks like your spouse's marriage certificate was issued by another nation. If you want one of your own, you'll have to speak with the same officiating body that issued your spouse's."
 116: 0x024A [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x024B [0x03] Work_Zone[1] = 1*
 118: 0x0250 [0x03] ExtData[1]->WorkLocal[9] = 13*
 119: 0x0255 [0x01] GOTO 0x0296
-120: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=10844*)
+120: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=10846*)
     → "Accepting a marriage certificate from our nation will render you ineligible to receive one from another. Also, the nation of issuance for your marriage certificate must be the same as your partner's."
 121: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x025C [0x24] CREATE_DIALOG(message_id=10849*, default_option=1*, option_flags=0*)
+122: 0x025C [0x24] CREATE_DIALOG(message_id=10851*, default_option=1*, option_flags=0*)
     → "Have a marriage certificate issued? [Yes./No.]"
 123: 0x0263 [0x25] WAIT_DIALOG_SELECT()
 124: 0x0264 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0281
-125: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=10846*)
+125: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
     → "By the power vested in me by the Republic of Bastok, I hereby pronounce you husband and wife."
 126: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
-127: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=10847*)
+127: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
     → "You are all now officially permitted to eat, drink, sing, and have a joyous night!"
 128: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0274 [0x03] Work_Zone[1] = 4*
@@ -391,17 +391,17 @@ SUBROUTINE_0230:
 
 SUBROUTINE_0296:
 136: 0x0296 [0x01] GOTO 0x02D7
-137: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=10844*)
+137: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=10846*)
     → "Accepting a marriage certificate from our nation will render you ineligible to receive one from another. Also, the nation of issuance for your marriage certificate must be the same as your partner's."
 138: 0x029C [0x23] WAIT_FOR_DIALOG_INTERACTION
-139: 0x029D [0x24] CREATE_DIALOG(message_id=10849*, default_option=1*, option_flags=0*)
+139: 0x029D [0x24] CREATE_DIALOG(message_id=10851*, default_option=1*, option_flags=0*)
     → "Have a marriage certificate issued? [Yes./No.]"
 140: 0x02A4 [0x25] WAIT_DIALOG_SELECT()
 141: 0x02A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02C2
-142: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10846*)
+142: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
     → "By the power vested in me by the Republic of Bastok, I hereby pronounce you husband and wife."
 143: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10847*)
+144: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
     → "You are all now officially permitted to eat, drink, sing, and have a joyous night!"
 145: 0x02B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x02B5 [0x03] Work_Zone[1] = 4*

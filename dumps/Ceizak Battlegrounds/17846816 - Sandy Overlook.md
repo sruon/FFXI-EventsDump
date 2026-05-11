@@ -33,93 +33,93 @@
 |      10 | 0x003C      |          60 |
 |      11 | 0x0014      |          20 |
 |      12 | 0x0C90      |        3216 |
-|      13 | 0x2039      |        8249 |
+|      13 | 0x203B      |        8251 |
 |      14 | 0x001E      |          30 |
 |      15 | 0x0028      |          40 |
 |      16 | 0x0004      |           4 |
 |      17 | 0x0005      |           5 |
 |      18 | 0x0006      |           6 |
 |      19 | 0x0008      |           8 |
-|      20 | 0x203A      |        8250 |
-|      21 | 0x203B      |        8251 |
-|      22 | 0x203D      |        8253 |
-|      23 | 0x203C      |        8252 |
-|      24 | 0x203E      |        8254 |
-|      25 | 0x203F      |        8255 |
-|      26 | 0x2040      |        8256 |
-|      27 | 0x2041      |        8257 |
-|      28 | 0x2042      |        8258 |
-|      29 | 0x2043      |        8259 |
-|      30 | 0x2044      |        8260 |
-|      31 | 0x2045      |        8261 |
-|      32 | 0x2046      |        8262 |
+|      20 | 0x203C      |        8252 |
+|      21 | 0x203D      |        8253 |
+|      22 | 0x203F      |        8255 |
+|      23 | 0x203E      |        8254 |
+|      24 | 0x2040      |        8256 |
+|      25 | 0x2041      |        8257 |
+|      26 | 0x2042      |        8258 |
+|      27 | 0x2043      |        8259 |
+|      28 | 0x2044      |        8260 |
+|      29 | 0x2045      |        8261 |
+|      30 | 0x2046      |        8262 |
+|      31 | 0x2047      |        8263 |
+|      32 | 0x2048      |        8264 |
 |      33 | 0x0007      |           7 |
 |      34 | 0x0042      |          66 |
-|      35 | 0x1E79      |        7801 |
+|      35 | 0x1E7B      |        7803 |
 |      36 | 0x0078      |         120 |
-|      37 | 0x2047      |        8263 |
-|      38 | 0x2048      |        8264 |
-|      39 | 0x2049      |        8265 |
-|      40 | 0x204A      |        8266 |
-|      41 | 0x204B      |        8267 |
-|      42 | 0x204C      |        8268 |
-|      43 | 0x204D      |        8269 |
-|      44 | 0x204E      |        8270 |
-|      45 | 0x204F      |        8271 |
-|      46 | 0x2050      |        8272 |
-|      47 | 0x2051      |        8273 |
-|      48 | 0x2052      |        8274 |
-|      49 | 0x2053      |        8275 |
+|      37 | 0x2049      |        8265 |
+|      38 | 0x204A      |        8266 |
+|      39 | 0x204B      |        8267 |
+|      40 | 0x204C      |        8268 |
+|      41 | 0x204D      |        8269 |
+|      42 | 0x204E      |        8270 |
+|      43 | 0x204F      |        8271 |
+|      44 | 0x2050      |        8272 |
+|      45 | 0x2051      |        8273 |
+|      46 | 0x2052      |        8274 |
+|      47 | 0x2053      |        8275 |
+|      48 | 0x2054      |        8276 |
+|      49 | 0x2055      |        8277 |
 |      50 | 0x001D      |          29 |
-|      51 | 0x2054      |        8276 |
-|      52 | 0x2055      |        8277 |
+|      51 | 0x2056      |        8278 |
+|      52 | 0x2057      |        8279 |
 |      53 | 0x0080      |         128 |
-|      54 | 0x2056      |        8278 |
+|      54 | 0x2058      |        8280 |
 |      55 | 0x0002      |           2 |
-|      56 | 0x2057      |        8279 |
-|      57 | 0x2058      |        8280 |
+|      56 | 0x2059      |        8281 |
+|      57 | 0x205A      |        8282 |
 |      58 | 0x0032      |          50 |
 |      59 | 0x0018      |          24 |
 |      60 | 0x0096      |         150 |
 |      61 | 0x00AE      |         174 |
-|      62 | 0x2059      |        8281 |
+|      62 | 0x205B      |        8283 |
 |      63 | 0x0064      |         100 |
 |      64 | 0x00C9      |         201 |
 |      65 | 0x00B1      |         177 |
-|      66 | 0x205A      |        8282 |
-|      67 | 0x205B      |        8283 |
-|      68 | 0x205C      |        8284 |
-|      69 | 0x205D      |        8285 |
+|      66 | 0x205C      |        8284 |
+|      67 | 0x205D      |        8285 |
+|      68 | 0x205E      |        8286 |
+|      69 | 0x205F      |        8287 |
 |      70 | 0x00B2      |         178 |
 |      71 | 0x008A      |         138 |
-|      72 | 0x205E      |        8286 |
-|      73 | 0x205F      |        8287 |
-|      74 | 0x2060      |        8288 |
-|      75 | 0x2061      |        8289 |
-|      76 | 0x2062      |        8290 |
-|      77 | 0x2063      |        8291 |
-|      78 | 0x2064      |        8292 |
-|      79 | 0x2065      |        8293 |
-|      80 | 0x2066      |        8294 |
-|      81 | 0x2067      |        8295 |
-|      82 | 0x2068      |        8296 |
+|      72 | 0x2060      |        8288 |
+|      73 | 0x2061      |        8289 |
+|      74 | 0x2062      |        8290 |
+|      75 | 0x2063      |        8291 |
+|      76 | 0x2064      |        8292 |
+|      77 | 0x2065      |        8293 |
+|      78 | 0x2066      |        8294 |
+|      79 | 0x2067      |        8295 |
+|      80 | 0x2068      |        8296 |
+|      81 | 0x2069      |        8297 |
+|      82 | 0x206A      |        8298 |
 |      83 | 0x0020      |          32 |
-|      84 | 0x2069      |        8297 |
-|      85 | 0x206A      |        8298 |
-|      86 | 0x206B      |        8299 |
-|      87 | 0x206C      |        8300 |
-|      88 | 0x206D      |        8301 |
-|      89 | 0x206E      |        8302 |
-|      90 | 0x206F      |        8303 |
-|      91 | 0x2070      |        8304 |
-|      92 | 0x2071      |        8305 |
-|      93 | 0x2072      |        8306 |
+|      84 | 0x206B      |        8299 |
+|      85 | 0x206C      |        8300 |
+|      86 | 0x206D      |        8301 |
+|      87 | 0x206E      |        8302 |
+|      88 | 0x206F      |        8303 |
+|      89 | 0x2070      |        8304 |
+|      90 | 0x2071      |        8305 |
+|      91 | 0x2072      |        8306 |
+|      92 | 0x2073      |        8307 |
+|      93 | 0x2074      |        8308 |
 
 ## String References
 
-- **7801**: 
-- **8251**: Are you here to see her? [Of course!/It's just a coincidence.]
-- **8276**: What do you say? [He's proud of you. Everyone is./You'll see him again. I know it./Just say focused on the city.]
+- **7803**: 
+- **8253**: Are you here to see her? [Of course!/It's just a coincidence.]
+- **8278**: What do you say? [He's proud of you. Everyone is./You'll see him again. I know it./Just say focused on the city.]
 
 ## Events
 
@@ -826,7 +826,7 @@
  38: 0x0105 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[756*, 0*]
  39: 0x0116 [0x1C] WAIT(20* ticks)
  40: 0x0119 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
- 41: 0x0128 [0x2B] Arciela (ID: 17846777/0x011051F9) [8249*]:
+ 41: 0x0128 [0x2B] Arciela (ID: 17846777/0x011051F9) [8251*]:
     → "<Player>!"
  42: 0x012F [0x1C] WAIT(30* ticks)
  43: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -863,7 +863,7 @@ SUBROUTINE_023D:
  72: 0x023D [0x2A] GET_REQ_LEVEL(level=8, entity_id=Arciela (ID: 17846777/0x011051F9))
  73: 0x0243 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fe00" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
  74: 0x0250 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
- 75: 0x025F [0x2B] Arciela (ID: 17846777/0x011051F9) [8250*]:
+ 75: 0x025F [0x2B] Arciela (ID: 17846777/0x011051F9) [8252*]:
     → "Did you come all this way just to see me?"
  76: 0x0266 [0x1C] WAIT(30* ticks)
  77: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -873,7 +873,7 @@ SUBROUTINE_023D:
 
 SUBROUTINE_0289:
  81: 0x0289 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x04B1
- 82: 0x0291 [0x24] CREATE_DIALOG(message_id=8251*, default_option=0*, option_flags=0*)
+ 82: 0x0291 [0x24] CREATE_DIALOG(message_id=8253*, default_option=0*, option_flags=0*)
     → "Are you here to see her? [Of course!/It's just a coincidence.]"
  83: 0x0298 [0x25] WAIT_DIALOG_SELECT()
  84: 0x0299 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x038E
@@ -899,7 +899,7 @@ SUBROUTINE_0332:
 102: 0x0341 [0x05] ExtData[1]->WorkLocal[0] = 1
 103: 0x0344 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[756*, 0*]
 104: 0x0355 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
-105: 0x0364 [0x2B] Arciela (ID: 17846777/0x011051F9) [8253*]:
+105: 0x0364 [0x2B] Arciela (ID: 17846777/0x011051F9) [8255*]:
     → "Hee hee! I'm happy to hear you say that--even if it's a little fib."
 106: 0x036B [0x1C] WAIT(30* ticks)
 107: 0x036E [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -929,7 +929,7 @@ SUBROUTINE_0427:
 129: 0x0436 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[756*, 0*]
 130: 0x0447 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x66)
 131: 0x044E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ff01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
-132: 0x045D [0x2B] Arciela (ID: 17846777/0x011051F9) [8252*]:
+132: 0x045D [0x2B] Arciela (ID: 17846777/0x011051F9) [8254*]:
     → "Oh...I see. I understand if you have other things to do."
 133: 0x0464 [0x1C] WAIT(30* ticks)
 134: 0x0467 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -957,7 +957,7 @@ SUBROUTINE_0516:
 152: 0x0516 [0x7B] Arciela (ID: 17846777/0x011051F9) stops talking
 153: 0x051B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh00" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 154: 0x052A [0x27] REQ_SET(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x3F)
-155: 0x0531 [0x2B] Arciela (ID: 17846777/0x011051F9) [8254*]:
+155: 0x0531 [0x2B] Arciela (ID: 17846777/0x011051F9) [8256*]:
     → "You know, <Player>, I've been feeling a little down lately. I can't help but think about my father."
 156: 0x0538 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fh00" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
 157: 0x0545 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fk01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
@@ -981,7 +981,7 @@ SUBROUTINE_05C7:
 173: 0x05C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[756*, 0*]
 174: 0x05D8 [0x4A] LocalPlayer looks at Arciela (ID: 17846777/0x011051F9)
 175: 0x05E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x6A)
-176: 0x05E8 [0x2B] Arciela (ID: 17846777/0x011051F9) [8255*]:
+176: 0x05E8 [0x2B] Arciela (ID: 17846777/0x011051F9) [8257*]:
     → "I can't help but think back to that conversation we had with Estienneux. Remember?"
 177: 0x05EF [0x1C] WAIT(30* ticks)
 178: 0x05F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1001,7 +1001,7 @@ SUBROUTINE_05C7:
 SUBROUTINE_0665:
 191: 0x0665 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x6C)
 192: 0x066C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fk01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
-193: 0x067B [0x2B] Arciela (ID: 17846777/0x011051F9) [8256*]:
+193: 0x067B [0x2B] Arciela (ID: 17846777/0x011051F9) [8258*]:
     → "My father brought a small contingent into the jungle, never to return again."
 194: 0x0682 [0x1C] WAIT(30* ticks)
 195: 0x0685 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1009,7 +1009,7 @@ SUBROUTINE_0665:
 197: 0x0693 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x6D)
 198: 0x069A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fk01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 199: 0x06A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x60)
-200: 0x06B0 [0x2B] Arciela (ID: 17846777/0x011051F9) [8257*]:
+200: 0x06B0 [0x2B] Arciela (ID: 17846777/0x011051F9) [8259*]:
     → "Everyone thinks I always snuck out to the forest because I wanted to learn more about it...but they were only half right."
 201: 0x06B7 [0x1C] WAIT(30* ticks)
 202: 0x06BA [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1035,7 +1035,7 @@ SUBROUTINE_0712:
 SUBROUTINE_075B:
 219: 0x075B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fk01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 220: 0x076A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x62)
-221: 0x0771 [0x2B] Arciela (ID: 17846777/0x011051F9) [8258*]:
+221: 0x0771 [0x2B] Arciela (ID: 17846777/0x011051F9) [8260*]:
     → "I also hoped to find anything of my father's. A ring, a torn piece of cloth...anything."
 222: 0x0778 [0x1C] WAIT(30* ticks)
 223: 0x077B [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1043,7 +1043,7 @@ SUBROUTINE_075B:
 225: 0x0789 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x63)
 226: 0x0790 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fk01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 227: 0x079F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x68)
-228: 0x07A6 [0x2B] Arciela (ID: 17846777/0x011051F9) [8259*]:
+228: 0x07A6 [0x2B] Arciela (ID: 17846777/0x011051F9) [8261*]:
     → "But I couldn't find so much as a trace. They had vanished as if whisked away by some spell."
 229: 0x07AD [0x1C] WAIT(30* ticks)
 230: 0x07B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1059,7 +1059,7 @@ SUBROUTINE_075B:
 
 SUBROUTINE_0808:
 240: 0x0808 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[756*, 0*]
-241: 0x0819 [0x2B] Arciela (ID: 17846777/0x011051F9) [8260*]:
+241: 0x0819 [0x2B] Arciela (ID: 17846777/0x011051F9) [8262*]:
     → "Now that the mood in Adoulin proper has begun to settle, I've asked Morimar to help me look--but he, too, thinks their disappearance was completely out of the ordinary."
 242: 0x0820 [0x1C] WAIT(30* ticks)
 243: 0x0823 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1088,7 +1088,7 @@ SUBROUTINE_08D0:
 264: 0x08F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x1D)
 265: 0x08FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x72)
 266: 0x0901 [0x1C] WAIT(20* ticks)
-267: 0x0904 [0x2B] Arciela (ID: 17846777/0x011051F9) [8261*]:
+267: 0x0904 [0x2B] Arciela (ID: 17846777/0x011051F9) [8263*]:
     → "His many years of patrolling the depths of Eastern Ulbuka gives him a certain insight the rest of us lack. It's that insight I'm depending on."
 268: 0x090B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x73)
 269: 0x0912 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x74)
@@ -1115,7 +1115,7 @@ SUBROUTINE_09B2:
 288: 0x09B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[756*, 0*]
 289: 0x09C3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fd01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 290: 0x09D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x54)
-291: 0x09D9 [0x2B] Arciela (ID: 17846777/0x011051F9) [8262*]:
+291: 0x09D9 [0x2B] Arciela (ID: 17846777/0x011051F9) [8264*]:
     → "In fact, he should be back from his rounds any minute. Will you stay with me until he returns?"
 292: 0x09E0 [0x1C] WAIT(30* ticks)
 293: 0x09E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1144,7 +1144,7 @@ SUBROUTINE_09B2:
 316: 0x0A95 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 66*
 317: 0x0A99 [0x9A] WAIT_MUSIC_SERVER()
 318: 0x0A9A [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
-319: 0x0A9F [0x48] [System] [7801*]:
+319: 0x0A9F [0x48] [System] [7803*]:
     → ""
 320: 0x0AA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 321: 0x0AA3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[756*, 0*]
@@ -1155,10 +1155,10 @@ SUBROUTINE_09B2:
 326: 0x0AE6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[756*, 0*]
 327: 0x0AF7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "f001" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 328: 0x0B06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x46)
-329: 0x0B0D [0x2B] Arciela (ID: 17846777/0x011051F9) [8263*]:
+329: 0x0B0D [0x2B] Arciela (ID: 17846777/0x011051F9) [8265*]:
     → "My father was a strong leader, but he caused his advisors no end of consternation."
 330: 0x0B14 [0x23] WAIT_FOR_DIALOG_INTERACTION
-331: 0x0B15 [0x2B] Arciela (ID: 17846777/0x011051F9) [8264*]:
+331: 0x0B15 [0x2B] Arciela (ID: 17846777/0x011051F9) [8266*]:
     → "He was prone to speak in riddles and take erratic actions. Oh, <Player>, if you could see the look on his aide Fusilton's face..."
 332: 0x0B1C [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x0B1D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x47)
@@ -1207,14 +1207,14 @@ SUBROUTINE_0C98:
 372: 0x0C98 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [EventEntity, EventEntity], work=[756*, 0*]
 373: 0x0CA9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 374: 0x0CB8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x48)
-375: 0x0CBF [0x2B] Arciela (ID: 17846777/0x011051F9) [8265*]:
+375: 0x0CBF [0x2B] Arciela (ID: 17846777/0x011051F9) [8267*]:
     → "What's that now? The apple doesn't fall far from the tree?"
 376: 0x0CC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x0CC7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x49)
 378: 0x0CCE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fe01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
 379: 0x0CDB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 380: 0x0CEA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x64)
-381: 0x0CF1 [0x2B] Arciela (ID: 17846777/0x011051F9) [8266*]:
+381: 0x0CF1 [0x2B] Arciela (ID: 17846777/0x011051F9) [8268*]:
     → "Now that you mention it...I suppose it doesn't!"
 382: 0x0CF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 383: 0x0CF9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x65)
@@ -1232,12 +1232,12 @@ SUBROUTINE_0C98:
 SUBROUTINE_0D6A:
 394: 0x0D6A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "f001" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 395: 0x0D79 [0x27] REQ_SET(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x41)
-396: 0x0D80 [0x2B] Arciela (ID: 17846777/0x011051F9) [8267*]:
+396: 0x0D80 [0x2B] Arciela (ID: 17846777/0x011051F9) [8269*]:
     → "He was a good, kind man."
 397: 0x0D87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 398: 0x0D88 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "f001" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
 399: 0x0D95 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Arciela (ID: 17846777/0x011051F9))
-400: 0x0D9B [0x2B] Arciela (ID: 17846777/0x011051F9) [8268*]:
+400: 0x0D9B [0x2B] Arciela (ID: 17846777/0x011051F9) [8270*]:
     → "One evening, he took Ygnas and me aside and expounded on what it meant to be a leader."
 401: 0x0DA2 [0x1C] WAIT(30* ticks)
 402: 0x0DA5 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x0DBF
@@ -1258,15 +1258,15 @@ SUBROUTINE_0DE8:
 415: 0x0E18 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=756*
 416: 0x0E27 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[756*, 0*]
 417: 0x0E38 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x6E)
-418: 0x0E3F [0x2B] Arciela (ID: 17846777/0x011051F9) [8269*]:
+418: 0x0E3F [0x2B] Arciela (ID: 17846777/0x011051F9) [8271*]:
     → ""The right to guide others is always accompanied by obligation and responsibility. One who leads people to success must always be aware of what this means and remain ever on the side of justice."
 419: 0x0E46 [0x23] WAIT_FOR_DIALOG_INTERACTION
-420: 0x0E47 [0x2B] Arciela (ID: 17846777/0x011051F9) [8270*]:
+420: 0x0E47 [0x2B] Arciela (ID: 17846777/0x011051F9) [8272*]:
     → ""But this does not mean that a leader must remain cast in the same mold all throughout his life. He must learn from those who came before him without being beholden to their ways of thinking and acting."
 421: 0x0E4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 422: 0x0E4F [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=756*
 423: 0x0E5E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[756*, 0*]
-424: 0x0E6F [0x2B] Arciela (ID: 17846777/0x011051F9) [8271*]:
+424: 0x0E6F [0x2B] Arciela (ID: 17846777/0x011051F9) [8273*]:
     → ""Living in the times we do requires taking a different, more critical stance. We have the duty to look beyond our country and critically examine what is important for Vana'diel as a whole.""
 425: 0x0E76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 426: 0x0E77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x6F)
@@ -1277,7 +1277,7 @@ SUBROUTINE_0DE8:
 431: 0x0EBA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x70)
 432: 0x0EC1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x71)
 433: 0x0EC8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x68)
-434: 0x0ECF [0x2B] Arciela (ID: 17846777/0x011051F9) [8272*]:
+434: 0x0ECF [0x2B] Arciela (ID: 17846777/0x011051F9) [8274*]:
     → "...I looked up to him. We all did."
 435: 0x0ED6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 436: 0x0ED7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x69)
@@ -1301,7 +1301,7 @@ SUBROUTINE_0F5F:
 452: 0x0F6E [0x27] REQ_SET(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x42)
 453: 0x0F75 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Arciela (ID: 17846777/0x011051F9))
 454: 0x0F7B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
-455: 0x0F8A [0x2B] Arciela (ID: 17846777/0x011051F9) [8273*]:
+455: 0x0F8A [0x2B] Arciela (ID: 17846777/0x011051F9) [8275*]:
     → "But I suppose when we first met, you had no idea that I was of noble birth, right?"
 456: 0x0F91 [0x1C] WAIT(30* ticks)
 457: 0x0F94 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1335,7 +1335,7 @@ SUBROUTINE_0FF2:
 483: 0x107E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [EventEntity, EventEntity], work=[756*, 0*]
 
 SUBROUTINE_108F:
-484: 0x108F [0x2B] Arciela (ID: 17846777/0x011051F9) [8274*]:
+484: 0x108F [0x2B] Arciela (ID: 17846777/0x011051F9) [8276*]:
     → "My father made me what I am today. I've no delusions otherwise."
 485: 0x1096 [0x23] WAIT_FOR_DIALOG_INTERACTION
 486: 0x1097 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x10B1
@@ -1366,7 +1366,7 @@ SUBROUTINE_1128:
 
 SUBROUTINE_1171:
 509: 0x1171 [0x7B] Arciela (ID: 17846777/0x011051F9) stops talking
-510: 0x1176 [0x2B] Arciela (ID: 17846777/0x011051F9) [8275*]:
+510: 0x1176 [0x2B] Arciela (ID: 17846777/0x011051F9) [8277*]:
     → "I wish...I wish he could see me today, and that he would be proud of me."
 511: 0x117D [0x1C] WAIT(90* ticks)
 512: 0x1180 [0x6E] LocalPlayer uses emote 29*
@@ -1383,7 +1383,7 @@ SUBROUTINE_1171:
 523: 0x11D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s059" with entities [EventEntity, EventEntity], work=756*
 
 SUBROUTINE_11E0:
-524: 0x11E0 [0x24] CREATE_DIALOG(message_id=8276*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+524: 0x11E0 [0x24] CREATE_DIALOG(message_id=8278*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What do you say? [He's proud of you. Everyone is./You'll see him again. I know it./Just say focused on the city.]"
 525: 0x11E7 [0x25] WAIT_DIALOG_SELECT()
 526: 0x11E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1279
@@ -1397,7 +1397,7 @@ SUBROUTINE_11E0:
 534: 0x1230 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x6A)
 535: 0x1237 [0x1C] WAIT(90* ticks)
 536: 0x123A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x1D)
-537: 0x1241 [0x2B] Arciela (ID: 17846777/0x011051F9) [8277*]:
+537: 0x1241 [0x2B] Arciela (ID: 17846777/0x011051F9) [8279*]:
     → "I hope so. I feel everyone's gaze upon me with every step I take...especially yours."
 538: 0x1248 [0x23] WAIT_FOR_DIALOG_INTERACTION
 539: 0x1249 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x6B)
@@ -1416,7 +1416,7 @@ SUBROUTINE_11E0:
 552: 0x12AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[756*, 0*]
 553: 0x12BF [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=0*, fade_time=1*)
 554: 0x12C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x64)
-555: 0x12CF [0x2B] Arciela (ID: 17846777/0x011051F9) [8278*]:
+555: 0x12CF [0x2B] Arciela (ID: 17846777/0x011051F9) [8280*]:
     → "You're right. A goodbye is never permanent."
 556: 0x12D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 557: 0x12D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x65)
@@ -1434,7 +1434,7 @@ SUBROUTINE_11E0:
 569: 0x133F [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=0*, fade_time=1*)
 570: 0x1348 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 571: 0x1357 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x58)
-572: 0x135E [0x2B] Arciela (ID: 17846777/0x011051F9) [8279*]:
+572: 0x135E [0x2B] Arciela (ID: 17846777/0x011051F9) [8281*]:
     → "Ooof...you got me good with that one!"
 573: 0x1365 [0x1C] WAIT(30* ticks)
 574: 0x1368 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
@@ -1468,7 +1468,7 @@ SUBROUTINE_13B5:
 SUBROUTINE_1452:
 599: 0x1452 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 600: 0x1461 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x46)
-601: 0x1468 [0x2B] Arciela (ID: 17846777/0x011051F9) [8280*]:
+601: 0x1468 [0x2B] Arciela (ID: 17846777/0x011051F9) [8282*]:
     → "Thank you for being frank with me. You've always been my rock."
 602: 0x146F [0x1C] WAIT(50* ticks)
 603: 0x1472 [0x6E] LocalPlayer uses emote 24*
@@ -1505,7 +1505,7 @@ SUBROUTINE_1452:
 
 SUBROUTINE_1580:
 634: 0x1580 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[756*, 0*]
-635: 0x1591 [0x2B] Arciela (ID: 17846777/0x011051F9) [8281*]:
+635: 0x1591 [0x2B] Arciela (ID: 17846777/0x011051F9) [8283*]:
     → "What on--!"
 636: 0x1598 [0x23] WAIT_FOR_DIALOG_INTERACTION
 637: 0x1599 [0x1C] WAIT(60* ticks)
@@ -1554,7 +1554,7 @@ SUBROUTINE_1711:
 678: 0x171A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 679: 0x171B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17846778/0x011051FA) Render.Flags0 and Render.Flags3 conditions are met
 680: 0x1720 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846778/0x011051FA), tag_num=0x44)
-681: 0x1727 [0x2B] Unnamed NPC (ID: 17846778/0x011051FA) [8282*]:
+681: 0x1727 [0x2B] Unnamed NPC (ID: 17846778/0x011051FA) [8284*]:
     → "Don't worry, Arciela. I'll make sure to keep <Player> safe."
 682: 0x172E [0x23] WAIT_FOR_DIALOG_INTERACTION
 683: 0x172F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846778/0x011051FA), tag_num=0x45)
@@ -1572,7 +1572,7 @@ SUBROUTINE_1780:
 693: 0x1791 [0x4A] LocalPlayer looks at Arciela (ID: 17846777/0x011051F9)
 694: 0x179A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 695: 0x17A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x74)
-696: 0x17B0 [0x2B] Arciela (ID: 17846777/0x011051F9) [8283*]:
+696: 0x17B0 [0x2B] Arciela (ID: 17846777/0x011051F9) [8285*]:
     → "Is this...is this the Trust magic that has become popular in the Middle Lands?"
 697: 0x17B7 [0x1C] WAIT(30* ticks)
 698: 0x17BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846778/0x011051FA), tag_num=0x47)
@@ -1599,7 +1599,7 @@ SUBROUTINE_184B:
 717: 0x1859 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
 718: 0x185E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 719: 0x186D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x4E)
-720: 0x1874 [0x2B] Arciela (ID: 17846777/0x011051F9) [8284*]:
+720: 0x1874 [0x2B] Arciela (ID: 17846777/0x011051F9) [8286*]:
     → "A particularly vibrant Tarutaru visited the castle from the Jeuno Institute of Magical Studies about a fortnight ago, and he explained to Ygnas and me how strong bonds can bring about a magic unlike any other."
 721: 0x187B [0x79] LocalPlayer looks at Arciela (ID: 17846777/0x011051F9) (Basic look)
 722: 0x1885 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1615,7 +1615,7 @@ SUBROUTINE_184B:
 732: 0x18C7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 733: 0x18CC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fe00" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
 734: 0x18D9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
-735: 0x18E8 [0x2B] Arciela (ID: 17846777/0x011051F9) [8285*]:
+735: 0x18E8 [0x2B] Arciela (ID: 17846777/0x011051F9) [8287*]:
     → "Then I suppose our friendship is even closer than I had thought."
 736: 0x18EF [0x1C] WAIT(30* ticks)
 737: 0x18F2 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x190C
@@ -1689,7 +1689,7 @@ SUBROUTINE_19FB:
 799: 0x1B0F [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 60*
 800: 0x1B13 [0x9A] WAIT_MUSIC_SERVER()
 801: 0x1B14 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
-802: 0x1B19 [0x48] [System] [7801*]:
+802: 0x1B19 [0x48] [System] [7803*]:
     → ""
 803: 0x1B1C [0x23] WAIT_FOR_DIALOG_INTERACTION
 804: 0x1B1D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x1E)
@@ -1705,7 +1705,7 @@ SUBROUTINE_19FB:
 814: 0x1B51 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [EventEntity, EventEntity], work=[756*, 0*]
 815: 0x1B62 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 816: 0x1B73 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-817: 0x1B82 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8286*]:
+817: 0x1B82 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8288*]:
     → "Let me tell ya, Princess, when ya search fer ages and find nothin' you start to lose confidence in yerself."
 818: 0x1B89 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x4D)
 819: 0x1B90 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x4E)
@@ -1731,7 +1731,7 @@ SUBROUTINE_19FB:
 SUBROUTINE_1C44:
 838: 0x1C44 [0x79] Unnamed NPC (ID: 17846779/0x011051FB) looks at LocalPlayer (Basic look)
 839: 0x1C4E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x4F)
-840: 0x1C55 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8287*]:
+840: 0x1C55 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8289*]:
     → "Oho, if it isn't <Player>! Arciela musta told you the whole story, yeah?"
 841: 0x1C5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 842: 0x1C5D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x50)
@@ -1760,15 +1760,15 @@ SUBROUTINE_1D04:
 863: 0x1D15 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=0*, fade_time=1*)
 864: 0x1D1E [0x4A] Arciela (ID: 17846777/0x011051F9) looks at Unnamed NPC (ID: 17846779/0x011051FB)
 865: 0x1D27 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x2D)
-866: 0x1D2E [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8288*]:
+866: 0x1D2E [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8290*]:
     → "I've lost count of how long I've lived here in the wilds."
 867: 0x1D35 [0x23] WAIT_FOR_DIALOG_INTERACTION
-868: 0x1D36 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8289*]:
+868: 0x1D36 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8291*]:
     → "And if anyone knows about the oddities that've happened these five years, it'd be me."
 869: 0x1D3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 870: 0x1D3E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x2E)
 871: 0x1D45 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x2F)
-872: 0x1D4C [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8290*]:
+872: 0x1D4C [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8292*]:
     → "But an entire troop vanishin' inta thin air...it's just unnatural."
 873: 0x1D53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 874: 0x1D54 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x30)
@@ -1786,7 +1786,7 @@ SUBROUTINE_1D04:
 
 SUBROUTINE_1DC2:
 886: 0x1DC2 [0x79] Unnamed NPC (ID: 17846779/0x011051FB) looks at Arciela (ID: 17846777/0x011051F9) (Basic look)
-887: 0x1DCC [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8291*]:
+887: 0x1DCC [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8293*]:
     → "I'm about ready ta throw my hands up. Whatever happened, it wasn't because of the jungle."
 888: 0x1DD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 889: 0x1DD4 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x1DEE
@@ -1801,7 +1801,7 @@ SUBROUTINE_1E17:
 896: 0x1E17 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[756*, 0*]
 897: 0x1E28 [0x79] Unnamed NPC (ID: 17846779/0x011051FB) looks at Arciela (ID: 17846777/0x011051F9) (Basic look)
 898: 0x1E32 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x47)
-899: 0x1E39 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8292*]:
+899: 0x1E39 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8294*]:
     → "Someone--something--just threw 'em off into another dimension. That's the only explanation."
 900: 0x1E40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 901: 0x1E41 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x48)
@@ -1819,7 +1819,7 @@ SUBROUTINE_1E17:
 SUBROUTINE_1EB3:
 912: 0x1EB3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fj01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 913: 0x1EC2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x60)
-914: 0x1EC9 [0x2B] Arciela (ID: 17846777/0x011051F9) [8293*]:
+914: 0x1EC9 [0x2B] Arciela (ID: 17846777/0x011051F9) [8295*]:
     → "You can't possibly mean...Tartarus?"
 915: 0x1ED0 [0x1C] WAIT(30* ticks)
 916: 0x1ED3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fj01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
@@ -1841,7 +1841,7 @@ SUBROUTINE_1F40:
 930: 0x1F51 [0x79] LocalPlayer looks at Unnamed NPC (ID: 17846779/0x011051FB) (Basic look)
 931: 0x1F5B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x33)
 932: 0x1F62 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x62)
-933: 0x1F69 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8294*]:
+933: 0x1F69 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8296*]:
     → "I doubt it."
 934: 0x1F70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 935: 0x1F71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x63)
@@ -1851,14 +1851,14 @@ SUBROUTINE_1F40:
 939: 0x1F9F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fj00" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
 940: 0x1FAC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fi01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 941: 0x1FBB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x4E)
-942: 0x1FC2 [0x2B] Arciela (ID: 17846777/0x011051F9) [8295*]:
+942: 0x1FC2 [0x2B] Arciela (ID: 17846777/0x011051F9) [8297*]:
     → "I remember reading about something like that in the Middle Lands, when a unit mysteriously disappeared during the Great War. You'd be surprised what volumes are available in Celennia Memorial Library."
 943: 0x1FC9 [0x1C] WAIT(30* ticks)
 944: 0x1FCC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fi01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
 945: 0x1FD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 946: 0x1FDA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x4F)
 947: 0x1FE1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x50)
-948: 0x1FE8 [0x2B] Arciela (ID: 17846777/0x011051F9) [8296*]:
+948: 0x1FE8 [0x2B] Arciela (ID: 17846777/0x011051F9) [8298*]:
     → "Perhaps it could be related?"
 949: 0x1FEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 950: 0x1FF0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x51)
@@ -1868,7 +1868,7 @@ SUBROUTINE_1F40:
 954: 0x2026 [0x6E] LocalPlayer uses emote 32*
 955: 0x202D [0x99] Wait for LocalPlayer animation to complete
 956: 0x2032 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x35)
-957: 0x2039 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8297*]:
+957: 0x2039 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8299*]:
     → "Sometimes ya hear 'bout things like that, but just 'cause somethin' happened o'er there doesn't mean it's the same here."
 958: 0x2040 [0x23] WAIT_FOR_DIALOG_INTERACTION
 959: 0x2041 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fi00" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
@@ -1879,7 +1879,7 @@ SUBROUTINE_1F40:
 964: 0x2070 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[756*, 0*]
 965: 0x2081 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fk01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 966: 0x2090 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x5E)
-967: 0x2097 [0x2B] Arciela (ID: 17846777/0x011051F9) [8298*]:
+967: 0x2097 [0x2B] Arciela (ID: 17846777/0x011051F9) [8300*]:
     → "Maybe not... Thank you for checking, Morimar. Let's turn in for the day."
 968: 0x209E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x5F)
 969: 0x20A5 [0x79] Arciela (ID: 17846777/0x011051F9) looks at Unnamed NPC (ID: 17846779/0x011051FB) (Basic look)
@@ -1892,14 +1892,14 @@ SUBROUTINE_1F40:
 976: 0x20EF [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=0*, fade_time=1*)
 977: 0x20F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x36)
 978: 0x20FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x37)
-979: 0x2106 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8299*]:
+979: 0x2106 [0x2B] Unnamed NPC (ID: 17846779/0x011051FB) [8301*]:
     → "Whatever ya say, Princess. And don't worry--if I find somethin', you'll be the first ta know."
 980: 0x210D [0x23] WAIT_FOR_DIALOG_INTERACTION
 981: 0x210E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17846779/0x011051FB), tag_num=0x38)
 982: 0x2115 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "f000" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
 983: 0x2122 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 984: 0x2131 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x64)
-985: 0x2138 [0x2B] Arciela (ID: 17846777/0x011051F9) [8300*]:
+985: 0x2138 [0x2B] Arciela (ID: 17846777/0x011051F9) [8302*]:
     → "Great!"
 986: 0x213F [0x1C] WAIT(30* ticks)
 987: 0x2142 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
@@ -1945,7 +1945,7 @@ SUBROUTINE_1F40:
 SUBROUTINE_2283:
 1026: 0x2283 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fh00" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
 1027: 0x2290 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
-1028: 0x229F [0x2B] Arciela (ID: 17846777/0x011051F9) [8301*]:
+1028: 0x229F [0x2B] Arciela (ID: 17846777/0x011051F9) [8303*]:
     → "<Player>, thank you for keeping me company. Hopefully my alter ego can accompany you when I cannot."
 1029: 0x22A6 [0x1C] WAIT(20* ticks)
 1030: 0x22A9 [0x4A] LocalPlayer looks at Arciela (ID: 17846777/0x011051F9)
@@ -1981,7 +1981,7 @@ SUBROUTINE_2382:
 1058: 0x23A2 [0x7B] Arciela (ID: 17846777/0x011051F9) stops talking
 1059: 0x23A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x72)
 1060: 0x23AE [0x1C] WAIT(30* ticks)
-1061: 0x23B1 [0x2B] Arciela (ID: 17846777/0x011051F9) [8302*]:
+1061: 0x23B1 [0x2B] Arciela (ID: 17846777/0x011051F9) [8304*]:
     → "You know, I'm reminded of something."
 1062: 0x23B8 [0x1C] WAIT(30* ticks)
 1063: 0x23BB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fe01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
@@ -2000,14 +2000,14 @@ SUBROUTINE_2428:
 1074: 0x2428 [0x79] Arciela (ID: 17846777/0x011051F9) looks at LocalPlayer (Basic look)
 1075: 0x2432 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "f001" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
 1076: 0x2441 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x74)
-1077: 0x2448 [0x2B] Arciela (ID: 17846777/0x011051F9) [8303*]:
+1077: 0x2448 [0x2B] Arciela (ID: 17846777/0x011051F9) [8305*]:
     → "My father once carried a blade of pure mythril with seven stars inscribed upon the hilt."
 1078: 0x244F [0x1C] WAIT(30* ticks)
 1079: 0x2452 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "f001" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)]
 1080: 0x245F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1081: 0x2460 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x75)
 1082: 0x2467 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x46)
-1083: 0x246E [0x2B] Arciela (ID: 17846777/0x011051F9) [8304*]:
+1083: 0x246E [0x2B] Arciela (ID: 17846777/0x011051F9) [8306*]:
     → "Wherever he is now, I hope he still bears it by his side."
 1084: 0x2475 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1085: 0x2476 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x47)
@@ -2039,14 +2039,14 @@ SUBROUTINE_24C0:
 
 SUBROUTINE_255D:
 1109: 0x255D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x48)
-1110: 0x2564 [0x2B] Arciela (ID: 17846777/0x011051F9) [8305*]:
+1110: 0x2564 [0x2B] Arciela (ID: 17846777/0x011051F9) [8307*]:
     → "Listen to me, rambling on about maybes and hopefullys."
 1111: 0x256B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x49)
 1112: 0x2572 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x66)
 1113: 0x2579 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1114: 0x257A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Arciela (ID: 17846777/0x011051F9), tag_num=0x67)
 1115: 0x2581 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*
-1116: 0x2590 [0x2B] Arciela (ID: 17846777/0x011051F9) [8306*]:
+1116: 0x2590 [0x2B] Arciela (ID: 17846777/0x011051F9) [8308*]:
     → "Stay safe, <Player>. Be sure to visit me at the castle sometime."
 1117: 0x2597 [0x1C] WAIT(30* ticks)
 1118: 0x259A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fh01" with entities [Arciela (ID: 17846777/0x011051F9), Arciela (ID: 17846777/0x011051F9)], work=3216*

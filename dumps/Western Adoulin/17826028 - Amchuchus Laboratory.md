@@ -48,68 +48,68 @@
 |      20 | 0x001E      |          30 |
 |      21 | 0x027C      |         636 |
 |      22 | 0x003C      |          60 |
-|      23 | 0x2A0D      |       10765 |
+|      23 | 0x2A0F      |       10767 |
 |      24 | 0x0005      |           5 |
-|      25 | 0x2A0E      |       10766 |
+|      25 | 0x2A10      |       10768 |
 |      26 | 0x0028      |          40 |
 |      27 | 0x0027      |          39 |
 |      28 | 0x0078      |         120 |
 |      29 | 0x00A5      |         165 |
 |      30 | 0x00D2      |         210 |
-|      31 | 0x29EA      |       10730 |
+|      31 | 0x29EC      |       10732 |
 |      32 | 0x00A0      |         160 |
-|      33 | 0x29EB      |       10731 |
-|      34 | 0x29EC      |       10732 |
-|      35 | 0x29ED      |       10733 |
-|      36 | 0x29EE      |       10734 |
+|      33 | 0x29ED      |       10733 |
+|      34 | 0x29EE      |       10734 |
+|      35 | 0x29EF      |       10735 |
+|      36 | 0x29F0      |       10736 |
 |      37 | 0x00B4      |         180 |
-|      38 | 0x29EF      |       10735 |
-|      39 | 0x29F0      |       10736 |
+|      38 | 0x29F1      |       10737 |
+|      39 | 0x29F2      |       10738 |
 |      40 | 0x0080      |         128 |
-|      41 | 0x29F5      |       10741 |
-|      42 | 0x29F6      |       10742 |
-|      43 | 0x29F7      |       10743 |
+|      41 | 0x29F7      |       10743 |
+|      42 | 0x29F8      |       10744 |
+|      43 | 0x29F9      |       10745 |
 |      44 | 0x005A      |          90 |
-|      45 | 0x29F8      |       10744 |
-|      46 | 0x29F1      |       10737 |
-|      47 | 0x29F2      |       10738 |
-|      48 | 0x29F3      |       10739 |
-|      49 | 0x29F4      |       10740 |
-|      50 | 0x29F9      |       10745 |
-|      51 | 0x29FA      |       10746 |
-|      52 | 0x29FB      |       10747 |
-|      53 | 0x29FC      |       10748 |
-|      54 | 0x29FD      |       10749 |
-|      55 | 0x29FE      |       10750 |
-|      56 | 0x29FF      |       10751 |
-|      57 | 0x2A00      |       10752 |
-|      58 | 0x2A01      |       10753 |
-|      59 | 0x2A02      |       10754 |
-|      60 | 0x2A03      |       10755 |
-|      61 | 0x2A04      |       10756 |
-|      62 | 0x2A05      |       10757 |
-|      63 | 0x2A06      |       10758 |
+|      45 | 0x29FA      |       10746 |
+|      46 | 0x29F3      |       10739 |
+|      47 | 0x29F4      |       10740 |
+|      48 | 0x29F5      |       10741 |
+|      49 | 0x29F6      |       10742 |
+|      50 | 0x29FB      |       10747 |
+|      51 | 0x29FC      |       10748 |
+|      52 | 0x29FD      |       10749 |
+|      53 | 0x29FE      |       10750 |
+|      54 | 0x29FF      |       10751 |
+|      55 | 0x2A00      |       10752 |
+|      56 | 0x2A01      |       10753 |
+|      57 | 0x2A02      |       10754 |
+|      58 | 0x2A03      |       10755 |
+|      59 | 0x2A04      |       10756 |
+|      60 | 0x2A05      |       10757 |
+|      61 | 0x2A06      |       10758 |
+|      62 | 0x2A07      |       10759 |
+|      63 | 0x2A08      |       10760 |
 |      64 | 0x0031      |          49 |
-|      65 | 0x2A07      |       10759 |
+|      65 | 0x2A09      |       10761 |
 |      66 | 0x000A      |          10 |
-|      67 | 0x2A08      |       10760 |
-|      68 | 0x2A09      |       10761 |
-|      69 | 0x2A0A      |       10762 |
-|      70 | 0x2A0B      |       10763 |
-|      71 | 0x2A0C      |       10764 |
-|      72 | 0x2A10      |       10768 |
+|      67 | 0x2A0A      |       10762 |
+|      68 | 0x2A0B      |       10763 |
+|      69 | 0x2A0C      |       10764 |
+|      70 | 0x2A0D      |       10765 |
+|      71 | 0x2A0E      |       10766 |
+|      72 | 0x2A12      |       10770 |
 |      73 | 0x00BD      |         189 |
 |      74 | 0x0096      |         150 |
 |      75 | 0x08E0      |        2272 |
-|      76 | 0x2A11      |       10769 |
-|      77 | 0x2A12      |       10770 |
-|      78 | 0x2A13      |       10771 |
+|      76 | 0x2A13      |       10771 |
+|      77 | 0x2A14      |       10772 |
+|      78 | 0x2A15      |       10773 |
 |      79 | 0x002A      |          42 |
-|      80 | 0x2A14      |       10772 |
-|      81 | 0x2A15      |       10773 |
-|      82 | 0x2A16      |       10774 |
-|      83 | 0x2A17      |       10775 |
-|      84 | 0x2A18      |       10776 |
+|      80 | 0x2A16      |       10774 |
+|      81 | 0x2A17      |       10775 |
+|      82 | 0x2A18      |       10776 |
+|      83 | 0x2A19      |       10777 |
+|      84 | 0x2A1A      |       10778 |
 |      85 | 0x00C9      |         201 |
 |      86 | 0x16378     |       91000 |
 |      87 | 0xFFFEDCFC  |  4294892796 |
@@ -122,23 +122,23 @@
 |      94 | 0x1619A     |       90522 |
 |      95 | 0xFFFED625  |  4294891045 |
 |      96 | 0xFFFFFD01  |  4294966529 |
-|      97 | 0x2A26      |       10790 |
-|      98 | 0x2A27      |       10791 |
+|      97 | 0x2A28      |       10792 |
+|      98 | 0x2A29      |       10793 |
 |      99 | 0x0007      |           7 |
 |     100 | 0x00F0      |         240 |
-|     101 | 0x2A19      |       10777 |
-|     102 | 0x2A1A      |       10778 |
-|     103 | 0x2A1B      |       10779 |
-|     104 | 0x2A1C      |       10780 |
-|     105 | 0x2A1D      |       10781 |
-|     106 | 0x2A1E      |       10782 |
-|     107 | 0x2A1F      |       10783 |
-|     108 | 0x2A20      |       10784 |
-|     109 | 0x2A21      |       10785 |
-|     110 | 0x2A22      |       10786 |
-|     111 | 0x2A23      |       10787 |
-|     112 | 0x2A24      |       10788 |
-|     113 | 0x2A25      |       10789 |
+|     101 | 0x2A1B      |       10779 |
+|     102 | 0x2A1C      |       10780 |
+|     103 | 0x2A1D      |       10781 |
+|     104 | 0x2A1E      |       10782 |
+|     105 | 0x2A1F      |       10783 |
+|     106 | 0x2A20      |       10784 |
+|     107 | 0x2A21      |       10785 |
+|     108 | 0x2A22      |       10786 |
+|     109 | 0x2A23      |       10787 |
+|     110 | 0x2A24      |       10788 |
+|     111 | 0x2A25      |       10789 |
+|     112 | 0x2A26      |       10790 |
+|     113 | 0x2A27      |       10791 |
 |     114 | 0xFFFFF861  |  4294965345 |
 |     115 | 0x0583      |        1411 |
 |     116 | 0x16078     |       90232 |
@@ -146,35 +146,35 @@
 |     118 | 0xFFFFFD81  |  4294966657 |
 |     119 | 0x17F56     |       98134 |
 |     120 | 0xFFFED14C  |  4294889804 |
-|     121 | 0x2A28      |       10792 |
-|     122 | 0x2A29      |       10793 |
+|     121 | 0x2A2A      |       10794 |
+|     122 | 0x2A2B      |       10795 |
 |     123 | 0xFFFFF7FD  |  4294965245 |
-|     124 | 0x2A2A      |       10794 |
-|     125 | 0x2A2B      |       10795 |
-|     126 | 0x2A2C      |       10796 |
+|     124 | 0x2A2C      |       10796 |
+|     125 | 0x2A2D      |       10797 |
+|     126 | 0x2A2E      |       10798 |
 |     127 | 0x0095      |         149 |
-|     128 | 0x2A2D      |       10797 |
+|     128 | 0x2A2F      |       10799 |
 |     129 | 0x0009      |           9 |
-|     130 | 0x2A2E      |       10798 |
-|     131 | 0x2A2F      |       10799 |
-|     132 | 0x2A30      |       10800 |
-|     133 | 0x2A31      |       10801 |
-|     134 | 0x2A32      |       10802 |
-|     135 | 0x2A33      |       10803 |
-|     136 | 0x2A34      |       10804 |
-|     137 | 0x2A35      |       10805 |
+|     130 | 0x2A30      |       10800 |
+|     131 | 0x2A31      |       10801 |
+|     132 | 0x2A32      |       10802 |
+|     133 | 0x2A33      |       10803 |
+|     134 | 0x2A34      |       10804 |
+|     135 | 0x2A35      |       10805 |
+|     136 | 0x2A36      |       10806 |
+|     137 | 0x2A37      |       10807 |
 |     138 | 0xFFFFF929  |  4294965545 |
-|     139 | 0x2A36      |       10806 |
-|     140 | 0x2A37      |       10807 |
-|     141 | 0x2A38      |       10808 |
-|     142 | 0x2A39      |       10809 |
+|     139 | 0x2A38      |       10808 |
+|     140 | 0x2A39      |       10809 |
+|     141 | 0x2A3A      |       10810 |
+|     142 | 0x2A3B      |       10811 |
 |     143 | 0x002D      |          45 |
-|     144 | 0x2A3A      |       10810 |
+|     144 | 0x2A3C      |       10812 |
 
 ## String References
 
-- **10759**: Go find Junior? [I'm up for an adventure./No thanks.]
-- **10769**: You hand over the $3.
+- **10761**: Go find Junior? [I'm up for an adventure./No thanks.]
+- **10771**: You hand over the $3.
 
 ## Events
 
@@ -400,7 +400,7 @@ SUBROUTINE_007C:
  38: 0x011C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  39: 0x0121 [0x03] Work_Zone_1700[0] = 60*
  40: 0x0126 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
- 41: 0x012D [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10765*]:
+ 41: 0x012D [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10767*]:
     → "I know why you're back! It's to help me with my little-wittle "issue"!"
  42: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0135 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -410,13 +410,13 @@ SUBROUTINE_007C:
  47: 0x0161 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=0*, fade_time=5*)
  48: 0x016A [0x03] Work_Zone_1700[0] = 60*
  49: 0x016F [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
- 50: 0x0176 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10766*]:
+ 50: 0x0176 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10768*]:
     → "I can tell by that look in your eyes. You will head to the Sih Gates and look for Junior, won't you?"
  51: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x017E [0x01] GOTO 0x06E5
 
 SUBROUTINE_01FC:
- 53: 0x01FC [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10730*]:
+ 53: 0x01FC [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10732*]:
     → "What's taking them so longy-wong?"
  54: 0x0203 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0204 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=636*
@@ -436,7 +436,7 @@ SUBROUTINE_01FC:
  69: 0x027F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  70: 0x0284 [0x03] Work_Zone_1700[0] = 60*
  71: 0x0289 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2B)
- 72: 0x0290 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10731*]:
+ 72: 0x0290 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10733*]:
     → "Well, well, a visitaru! On behalf of the Inventors' Coalition, welcome!"
  73: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0298 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -446,7 +446,7 @@ SUBROUTINE_01FC:
  78: 0x02B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [EventEntity, EventEntity], work=[636*, 0*]
  79: 0x02CA [0x92] LocalPlayer->Render.Flags3 ^= 0x01
  80: 0x02D0 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=0*, fade_time=5*)
- 81: 0x02D9 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10732*]:
+ 81: 0x02D9 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10734*]:
     → "Our coalition's bestaru minds are always at work to make life in Adoulin more fulfilling and convenient!"
  82: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x02E1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -456,7 +456,7 @@ SUBROUTINE_01FC:
  87: 0x02FB [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2F)
  88: 0x0302 [0x52] END_LOAD_SCHEDULER: End scheduler "s052" with entities [EventEntity, EventEntity], work=636*
  89: 0x0311 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[636*, 0*]
- 90: 0x0322 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10733*]:
+ 90: 0x0322 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10735*]:
     → "Poignantaruly wonderful, just like our motto!"
  91: 0x0329 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x032A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -464,7 +464,7 @@ SUBROUTINE_01FC:
  94: 0x033F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[636*, 0*]
  95: 0x0350 [0x03] Work_Zone_1700[0] = 60*
  96: 0x0355 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2F)
- 97: 0x035C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10734*]:
+ 97: 0x035C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10736*]:
     → ""Bringing our ingenuity to your frontaru door!""
  98: 0x0363 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0364 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -474,14 +474,14 @@ SUBROUTINE_01FC:
 103: 0x0390 [0x4A] Amchuchu (ID: 17826029/0x011000ED) looks at LocalPlayer
 104: 0x0399 [0x03] Work_Zone_1700[0] = 180*
 105: 0x039E [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x30)
-106: 0x03A5 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10735*]:
+106: 0x03A5 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10737*]:
     → "You betcha! Research and developmentaru are our bread and butter."
 107: 0x03AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x03AD [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 109: 0x03B3 [0x79] Amchuchu (ID: 17826029/0x011000ED) looks at LocalPlayer (Basic look)
 110: 0x03BD [0x03] Work_Zone_1700[0] = 60*
 111: 0x03C2 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2B)
-112: 0x03C9 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10736*]:
+112: 0x03C9 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10738*]:
     → "And with the explanation out of the way, let's get down to the self-introduction-wuction. I'm Amchuchu and, well, I keep this place running."
 113: 0x03D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x03D1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -492,16 +492,16 @@ SUBROUTINE_01FC:
 119: 0x03FD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[636*, 0*]
 120: 0x040E [0x03] Work_Zone_1700[0] = 60*
 121: 0x0413 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
-122: 0x041A [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10741*]:
+122: 0x041A [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10743*]:
     → "Oh, of course. One of those adventarus from the Middle Lands, right?"
 123: 0x0421 [0x23] WAIT_FOR_DIALOG_INTERACTION
-124: 0x0422 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10742*]:
+124: 0x0422 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10744*]:
     → "And your name is...<Player>."
 125: 0x0429 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x042A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 127: 0x0430 [0x03] Work_Zone_1700[0] = 60*
 128: 0x0435 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-129: 0x043C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10743*]:
+129: 0x043C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10745*]:
     → "<Player>. Got it!"
 130: 0x0443 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0444 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -511,7 +511,7 @@ SUBROUTINE_01FC:
 135: 0x046F [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Amchuchu (ID: 17826029/0x011000ED))
 136: 0x0475 [0x03] Work_Zone_1700[0] = 90*
 137: 0x047A [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x31)
-138: 0x0481 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10744*]:
+138: 0x0481 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10746*]:
     → "So, <Player>, you're from the same place as our little-wittle Junior!"
 139: 0x0488 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0489 [0x01] GOTO 0x0539
@@ -520,19 +520,19 @@ SUBROUTINE_01FC:
 143: 0x049B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[636*, 0*]
 144: 0x04AC [0x03] Work_Zone_1700[0] = 60*
 145: 0x04B1 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
-146: 0x04B8 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10737*]:
+146: 0x04B8 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10739*]:
     → "Wait...<Player>? It's you, yes?"
 147: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x04C0 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 149: 0x04C6 [0x03] Work_Zone_1700[0] = 60*
 150: 0x04CB [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-151: 0x04D2 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10738*]:
+151: 0x04D2 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10740*]:
     → "You have business with the coalition? Oh, that's rightaru--I suppose a pioneer would be in need of our services."
 152: 0x04D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x04DA [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 154: 0x04E0 [0x03] Work_Zone_1700[0] = 60*
 155: 0x04E5 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
-156: 0x04EC [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10739*]:
+156: 0x04EC [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10741*]:
     → "If my memory-wemory is correct, you came from the Middle Lands."
 157: 0x04F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x04F4 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -542,12 +542,12 @@ SUBROUTINE_01FC:
 162: 0x051F [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Amchuchu (ID: 17826029/0x011000ED))
 163: 0x0525 [0x03] Work_Zone_1700[0] = 90*
 164: 0x052A [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x31)
-165: 0x0531 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10740*]:
+165: 0x0531 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10742*]:
     → "Toho! Then you're from the same place as our little-wittle Junior!"
 166: 0x0538 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0539:
-167: 0x0539 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10745*]:
+167: 0x0539 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10747*]:
     → "No? You aren't? Hmm...well, Junior is a researcher, not an adventurer, so I must have my wires crossed...tohoho."
 168: 0x0540 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0541 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -555,7 +555,7 @@ SUBROUTINE_0539:
 171: 0x054D [0x79] Amchuchu (ID: 17826029/0x011000ED) looks at LocalPlayer (Basic look)
 172: 0x0557 [0x03] Work_Zone_1700[0] = 90*
 173: 0x055C [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x32)
-174: 0x0563 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10746*]:
+174: 0x0563 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10748*]:
     → "Now it all falls into place!"
 175: 0x056A [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x056B [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -563,25 +563,25 @@ SUBROUTINE_0539:
 178: 0x0580 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[636*, 0*]
 179: 0x0591 [0x03] Work_Zone_1700[0] = 60*
 180: 0x0596 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-181: 0x059D [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10747*]:
+181: 0x059D [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10749*]:
     → "But honestly, if you're from the Middle Lands, then you mustaru have heard of him."
 182: 0x05A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-183: 0x05A5 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10748*]:
+183: 0x05A5 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10750*]:
     → ""Who?" The talented technologistaru, Cid!"
 184: 0x05AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-185: 0x05AD [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10749*]:
+185: 0x05AD [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10751*]:
     → "Junior is his son!"
 186: 0x05B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x05B5 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 188: 0x05BB [0x03] Work_Zone_1700[0] = 90*
 189: 0x05C0 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x33)
-190: 0x05C7 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10750*]:
+190: 0x05C7 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10752*]:
     → "That's why we gave him the epithetaru "Junior"!"
 191: 0x05CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x05CF [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 193: 0x05D5 [0x03] Work_Zone_1700[0] = 60*
 194: 0x05DA [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-195: 0x05E1 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10751*]:
+195: 0x05E1 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10753*]:
     → "His really-weal name is Midras, but doesn't it sound wrong to call him "Mid"? That's why we decided to use a different, delightfully silly name."
 196: 0x05E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x05E9 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -589,22 +589,22 @@ SUBROUTINE_0539:
 199: 0x05FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[636*, 0*]
 200: 0x060F [0x03] Work_Zone_1700[0] = 60*
 201: 0x0614 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-202: 0x061B [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10752*]:
+202: 0x061B [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10754*]:
     → "As long as we're talking about him, Junior and I are researching methods of increasing yields of vegetable-wegetables and other crops."
 203: 0x0622 [0x23] WAIT_FOR_DIALOG_INTERACTION
-204: 0x0623 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10753*]:
+204: 0x0623 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10755*]:
     → "We need highly potentaru fertilizer to do this, so I sent him to gather some materials."
 205: 0x062A [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x062B [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 207: 0x0631 [0x03] Work_Zone_1700[0] = 60*
 208: 0x0636 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
-209: 0x063D [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10754*]:
+209: 0x063D [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10756*]:
     → "The technical guide he broughtaru from the Middle Lands has sure come in handy! Something about a special rock, or mineral, or what-have-you."
 210: 0x0644 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x0645 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 212: 0x064B [0x03] Work_Zone_1700[0] = 60*
 213: 0x0650 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-214: 0x0657 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10755*]:
+214: 0x0657 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10757*]:
     → "So I sent him off to the Sih Gates to see whataru he can unearth."
 215: 0x065E [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x065F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -616,10 +616,10 @@ SUBROUTINE_0539:
 222: 0x0699 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Amchuchu (ID: 17826029/0x011000ED))
 223: 0x069F [0x03] Work_Zone_1700[0] = 90*
 224: 0x06A4 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x31)
-225: 0x06AB [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10756*]:
+225: 0x06AB [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10758*]:
     → "But he hasn't come backy-wack yet. I wonder what he could be doing..."
 226: 0x06B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-227: 0x06B3 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10757*]:
+227: 0x06B3 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10759*]:
     → "Yet I can't just up and leave the coalition. Things would fall apart quicker than one of the Couriers' Coalition's rickety cartarus!"
 228: 0x06BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x06BB [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -627,20 +627,20 @@ SUBROUTINE_0539:
 231: 0x06C7 [0x79] Amchuchu (ID: 17826029/0x011000ED) looks at LocalPlayer (Basic look)
 232: 0x06D1 [0x03] Work_Zone_1700[0] = 60*
 233: 0x06D6 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
-234: 0x06DD [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10758*]:
+234: 0x06DD [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10760*]:
     → "Oh, hey! If you've got some free time, would you mind making a quicky-wick stop over there and checking up on Junior?"
 235: 0x06E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_06E5:
 236: 0x06E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Amchuchu (ID: 17826029/0x011000ED), Amchuchu (ID: 17826029/0x011000ED)], work=49*
-237: 0x06F4 [0x24] CREATE_DIALOG(message_id=10759*, default_option=0*, option_flags=0*)
+237: 0x06F4 [0x24] CREATE_DIALOG(message_id=10761*, default_option=0*, option_flags=0*)
     → "Go find Junior? [I'm up for an adventure./No thanks.]"
 238: 0x06FB [0x25] WAIT_DIALOG_SELECT()
 239: 0x06FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07CC
 240: 0x0704 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 241: 0x070A [0x6E] Amchuchu (ID: 17826029/0x011000ED) uses emote 10*
 242: 0x0711 [0x99] Wait for Amchuchu (ID: 17826029/0x011000ED) animation to complete
-243: 0x0716 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10760*]:
+243: 0x0716 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10762*]:
     → "For real? Wow, you're a lifesaver-waver!"
 244: 0x071D [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x071E [0x1C] WAIT(60* ticks)
@@ -650,13 +650,13 @@ SUBROUTINE_06E5:
 249: 0x0747 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=128*, fade_time=1*)
 250: 0x0750 [0x03] Work_Zone_1700[0] = 60*
 251: 0x0755 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-252: 0x075C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10761*]:
+252: 0x075C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10763*]:
     → "The Sih Gates are caverns connectarued to the Ceizak Battlegrounds."
 253: 0x0763 [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x0764 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 255: 0x076A [0x03] Work_Zone_1700[0] = 60*
 256: 0x076F [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x34)
-257: 0x0776 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10762*]:
+257: 0x0776 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10764*]:
     → "Just, uh...come back safe. Junior has a good head on his shoulders, but the Sih Gates are no place to get careless-wareless."
 258: 0x077D [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x077E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -673,7 +673,7 @@ SUBROUTINE_06E5:
 270: 0x07E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [EventEntity, EventEntity], work=[636*, 0*]
 271: 0x07FA [0x03] Work_Zone_1700[0] = 60*
 272: 0x07FF [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x35)
-273: 0x0806 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10763*]:
+273: 0x0806 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10765*]:
     → "Wh-what? You refuse my simple requestaru?"
 274: 0x080D [0x23] WAIT_FOR_DIALOG_INTERACTION
 275: 0x080E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -683,7 +683,7 @@ SUBROUTINE_06E5:
 279: 0x083A [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=128*, fade_time=1*)
 280: 0x0843 [0x03] Work_Zone_1700[0] = 60*
 281: 0x0848 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-282: 0x084F [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10764*]:
+282: 0x084F [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10766*]:
     → "Hmph, I knew you'd just let me down! Why did I even bother-wother to ask? Let's see how nice I am when you come crawling back!"
 283: 0x0856 [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x0857 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -807,7 +807,7 @@ SUBROUTINE_08A5:
  24: 0x0955 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  25: 0x095A [0x03] Work_Zone_1700[0] = 60*
  26: 0x095F [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2B)
- 27: 0x0966 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10768*]:
+ 27: 0x0966 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10770*]:
     → "You made it back! Well? How is he?"
  28: 0x096D [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x096E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -815,7 +815,7 @@ SUBROUTINE_08A5:
  31: 0x0983 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x53)
  32: 0x098A [0x1C] WAIT(150* ticks)
  33: 0x098D [0x03] Work_Zone[2] = 2272*
- 34: 0x0992 [0x48] [System] [10769*]:
+ 34: 0x0992 [0x48] [System] [10771*]:
     → "You hand over the $3."
  35: 0x0995 [0x1C] WAIT(60* ticks)
  36: 0x0998 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=636*
@@ -824,7 +824,7 @@ SUBROUTINE_08A5:
  39: 0x09BE [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=0*, fade_time=5*)
  40: 0x09C7 [0x03] Work_Zone_1700[0] = 120*
  41: 0x09CC [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x39)
- 42: 0x09D3 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10770*]:
+ 42: 0x09D3 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10772*]:
     → "This is that rocky-wock we were looking for! Fantastic!"
  43: 0x09DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x09DB [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -838,7 +838,7 @@ SUBROUTINE_08A5:
  52: 0x0A23 [0x1C] WAIT(10* ticks)
  53: 0x0A26 [0x03] Work_Zone_1700[0] = 60*
  54: 0x0A2B [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x36)
- 55: 0x0A32 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10771*]:
+ 55: 0x0A32 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10773*]:
     → "You metaru with Cid, too!?"
  56: 0x0A39 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0A3A [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x02)
@@ -852,19 +852,19 @@ SUBROUTINE_08A5:
  65: 0x0A85 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=0*, fade_time=5*)
  66: 0x0A8E [0x03] Work_Zone_1700[0] = 60*
  67: 0x0A93 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x37)
- 68: 0x0A9A [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10772*]:
+ 68: 0x0A9A [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10774*]:
     → "...I see. Well, if that's how things are..."
  69: 0x0AA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0AA2 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
  71: 0x0AA8 [0x03] Work_Zone_1700[0] = 60*
  72: 0x0AAD [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
- 73: 0x0AB4 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10773*]:
+ 73: 0x0AB4 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10775*]:
     → "Junior will stay behind and continue his analysis, I takey-wake it?"
  74: 0x0ABB [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0ABC [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
  76: 0x0AC2 [0x03] Work_Zone_1700[0] = 60*
  77: 0x0AC7 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2B)
- 78: 0x0ACE [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10774*]:
+ 78: 0x0ACE [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10776*]:
     → "All that's leftaru is for me to analyze the lovely sample you've brought back."
  79: 0x0AD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0AD6 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -880,7 +880,7 @@ SUBROUTINE_08A5:
  90: 0x0B33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[636*, 0*]
  91: 0x0B44 [0x03] Work_Zone_1700[0] = 60*
  92: 0x0B49 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x36)
- 93: 0x0B50 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10775*]:
+ 93: 0x0B50 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10777*]:
     → "Oh, goodness! I've completely forgotten to expressy-wess my appreciation!"
  94: 0x0B57 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0B58 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -893,7 +893,7 @@ SUBROUTINE_08A5:
 102: 0x0B97 [0x1C] WAIT(30* ticks)
 103: 0x0B9A [0x03] Work_Zone_1700[0] = 60*
 104: 0x0B9F [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x38)
-105: 0x0BA6 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10776*]:
+105: 0x0BA6 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10778*]:
     → "Here! For you! I'm sure there'll be much more you can do for me later on, but we'll leave that for another-wother day."
 106: 0x0BAD [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0BAE [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1074,7 +1074,7 @@ SUBROUTINE_0CEB:
  42: 0x0D36 [0x1C] WAIT(30* ticks)
  43: 0x0D39 [0x03] Work_Zone_1700[0] = 60*
  44: 0x0D3E [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
- 45: 0x0D45 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10790*]:
+ 45: 0x0D45 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10792*]:
     → "How lovely to see you again, <Player>! Have you rethoughtaru my offer?"
  46: 0x0D4C [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0D4D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1083,7 +1083,7 @@ SUBROUTINE_0CEB:
  50: 0x0D6C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s206" with entities [EventEntity, EventEntity], work=[636*, 0*]
  51: 0x0D7D [0x03] Work_Zone_1700[0] = 60*
  52: 0x0D82 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
- 53: 0x0D89 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10791*]:
+ 53: 0x0D89 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10793*]:
     → "Do you remember what I asky-wasked? To head to Yorcia Weald and make sure Junior isn't in over his head?"
  54: 0x0D90 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0D91 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1101,16 +1101,16 @@ SUBROUTINE_0F07:
  65: 0x0F49 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  66: 0x0F4A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Amchuchu (ID: 17826029/0x011000ED) Render.Flags0 and Render.Flags3 conditions are met
  67: 0x0F4F [0x1C] WAIT(60* ticks)
- 68: 0x0F52 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10777*]:
+ 68: 0x0F52 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10779*]:
     → "Why, <Player>! A pleasure-weasure to see you, as always!"
  69: 0x0F59 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0F5A [0x03] Work_Zone_1700[0] = 60*
  71: 0x0F5F [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
  72: 0x0F66 [0x03] Work_Zone[2] = 2272*
- 73: 0x0F6B [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10778*]:
+ 73: 0x0F6B [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10780*]:
     → "The $3 you broughtaru me earlier has proven to be quite a blessing! We're still in the middle of our investigations, but so far our resultarus look promising."
  74: 0x0F72 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x0F73 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10779*]:
+ 75: 0x0F73 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10781*]:
     → "Our next steppy-wep is to find an effective method for extractaruing the nutrients inside."
  76: 0x0F7A [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0F7B [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1123,7 +1123,7 @@ SUBROUTINE_0F07:
  84: 0x0FC3 [0x1C] WAIT(40* ticks)
  85: 0x0FC6 [0x03] Work_Zone_1700[0] = 60*
  86: 0x0FCB [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2B)
- 87: 0x0FD2 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10780*]:
+ 87: 0x0FD2 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10782*]:
     → "What's this now? Junior? That little sweetheartaru is out on another trip."
  88: 0x0FD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0FDA [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1132,16 +1132,16 @@ SUBROUTINE_0F07:
  92: 0x1000 [0x1C] WAIT(30* ticks)
  93: 0x1003 [0x03] Work_Zone_1700[0] = 60*
  94: 0x1008 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
- 95: 0x100F [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10781*]:
+ 95: 0x100F [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10783*]:
     → "You ever heard of Yorcia Weald? It's a land corruptarued by poison, but for some reason all sorts of plants grow there. What a fascinating place to study! Who knows what we could learn?"
  96: 0x1016 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x1017 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10782*]:
+ 97: 0x1017 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10784*]:
     → "That's why I sentaru him out there."
  98: 0x101E [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x101F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 100: 0x1025 [0x03] Work_Zone_1700[0] = 90*
 101: 0x102A [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x31)
-102: 0x1031 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10783*]:
+102: 0x1031 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10785*]:
     → "He's probably fine on his own, but you know how easily he gets into trouble-wouble, tohoho."
 103: 0x1038 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x1039 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1150,20 +1150,20 @@ SUBROUTINE_0F07:
 107: 0x1058 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s206" with entities [EventEntity, EventEntity], work=[636*, 0*]
 108: 0x1069 [0x03] Work_Zone_1700[0] = 60*
 109: 0x106E [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
-110: 0x1075 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10784*]:
+110: 0x1075 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10786*]:
     → "I worry about him sometimes... If you have a spare momentaru, would you mind checking up on him for me?"
 111: 0x107C [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x107D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 113: 0x1083 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Amchuchu (ID: 17826029/0x011000ED), Amchuchu (ID: 17826029/0x011000ED)], work=49*
 
 SUBROUTINE_1092:
-114: 0x1092 [0x24] CREATE_DIALOG(message_id=10759*, default_option=0*, option_flags=0*)
+114: 0x1092 [0x24] CREATE_DIALOG(message_id=10761*, default_option=0*, option_flags=0*)
     → "Go find Junior? [I'm up for an adventure./No thanks.]"
 115: 0x1099 [0x25] WAIT_DIALOG_SELECT()
 116: 0x109A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x115F
 117: 0x10A2 [0x6E] Amchuchu (ID: 17826029/0x011000ED) uses emote 10*
 118: 0x10A9 [0x99] Wait for Amchuchu (ID: 17826029/0x011000ED) animation to complete
-119: 0x10AE [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10785*]:
+119: 0x10AE [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10787*]:
     → "You're always so dependable-wendable, <Player>. That's why I like you. Now I can focus on my investigations without any distractions!"
 120: 0x10B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x10B6 [0x1C] WAIT(60* ticks)
@@ -1172,13 +1172,13 @@ SUBROUTINE_1092:
 124: 0x10D2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s207" with entities [EventEntity, EventEntity], work=[636*, 0*]
 125: 0x10E3 [0x03] Work_Zone_1700[0] = 60*
 126: 0x10E8 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-127: 0x10EF [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10786*]:
+127: 0x10EF [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10788*]:
     → "Maybe you've been to the weald before, but just in case, it's locatarued past the Cirdas Caverns, through an opening somewhere near the middle-widdle."
 128: 0x10F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x10F7 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
 130: 0x10FD [0x03] Work_Zone_1700[0] = 60*
 131: 0x1102 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x34)
-132: 0x1109 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10787*]:
+132: 0x1109 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10789*]:
     → "Keep safe along the way, and make sure that little one isn't in any dire predicamentaru!"
 133: 0x1110 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x1111 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1195,7 +1195,7 @@ SUBROUTINE_1092:
 145: 0x1187 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Amchuchu (ID: 17826029/0x011000ED))
 146: 0x118D [0x03] Work_Zone_1700[0] = 60*
 147: 0x1192 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x35)
-148: 0x1199 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10788*]:
+148: 0x1199 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10790*]:
     → "B-but, <Player>... You helped me once before, and now you turn on me in my second hour of need? Oh, this certainly puts a damper-wamper on things."
 149: 0x11A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x11A1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1205,7 +1205,7 @@ SUBROUTINE_1092:
 154: 0x11C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s207" with entities [EventEntity, EventEntity], work=[636*, 0*]
 155: 0x11D7 [0x03] Work_Zone_1700[0] = 60*
 156: 0x11DC [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2D)
-157: 0x11E3 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10789*]:
+157: 0x11E3 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10791*]:
     → "You're not a member of my coalition, so I can't force you, but...if you have a spare minute-winute, I'll be right here."
 158: 0x11EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x11EB [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1423,7 +1423,7 @@ SUBROUTINE_1239:
  45: 0x1385 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Midras (ID: 17826030/0x011000EE))
  46: 0x138B [0x03] Work_Zone_1700[0] = 150*
  47: 0x1390 [0x27] REQ_SET(priority=0x10, entity_id=Midras (ID: 17826030/0x011000EE), tag_num=0x10)
- 48: 0x1397 [0x2B] Midras (ID: 17826030/0x011000EE) [10792*]:
+ 48: 0x1397 [0x2B] Midras (ID: 17826030/0x011000EE) [10794*]:
     → "For the love of--Amchuchu, you're not my mother!"
  49: 0x139E [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x139F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Midras (ID: 17826030/0x011000EE))
@@ -1435,7 +1435,7 @@ SUBROUTINE_1239:
  56: 0x13DB [0x03] Work_Zone_1700[0] = 90*
  57: 0x13E0 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x36)
  58: 0x13E7 [0x1C] WAIT(30* ticks)
- 59: 0x13EA [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10793*]:
+ 59: 0x13EA [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10795*]:
     → "Well, I never...!"
  60: 0x13F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x13F2 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1467,7 +1467,7 @@ SUBROUTINE_1239:
  87: 0x14E0 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Amchuchu (ID: 17826029/0x011000ED))
  88: 0x14E6 [0x03] Work_Zone_1700[0] = 90*
  89: 0x14EB [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2C)
- 90: 0x14F2 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10794*]:
+ 90: 0x14F2 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10796*]:
     → "Oh my, <Player>! Junior was just telling-welling me about what happened."
  91: 0x14F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x14FA [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1478,7 +1478,7 @@ SUBROUTINE_1239:
  97: 0x1535 [0x1C] WAIT(30* ticks)
  98: 0x1538 [0x03] Work_Zone_1700[0] = 120*
  99: 0x153D [0x27] REQ_SET(priority=0x10, entity_id=Midras (ID: 17826030/0x011000EE), tag_num=0x09)
-100: 0x1544 [0x2B] Midras (ID: 17826030/0x011000EE) [10795*]:
+100: 0x1544 [0x2B] Midras (ID: 17826030/0x011000EE) [10797*]:
     → "You made it back!"
 101: 0x154B [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x154C [0x4A] LocalPlayer looks at Midras (ID: 17826030/0x011000EE)
@@ -1490,7 +1490,7 @@ SUBROUTINE_1239:
 108: 0x158F [0x1C] WAIT(30* ticks)
 109: 0x1592 [0x03] Work_Zone_1700[0] = 60*
 110: 0x1597 [0x27] REQ_SET(priority=0x10, entity_id=Midras (ID: 17826030/0x011000EE), tag_num=0x0A)
-111: 0x159E [0x2B] Midras (ID: 17826030/0x011000EE) [10796*]:
+111: 0x159E [0x2B] Midras (ID: 17826030/0x011000EE) [10798*]:
     → "So? What did Aldo have to say?"
 112: 0x15A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x15A6 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Midras (ID: 17826030/0x011000EE))
@@ -1504,7 +1504,7 @@ SUBROUTINE_1239:
 121: 0x15E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s216" with entities [EventEntity, EventEntity], work=[636*, 0*]
 122: 0x15F4 [0x03] Work_Zone_1700[0] = 60*
 123: 0x15F9 [0x27] REQ_SET(priority=0x10, entity_id=Midras (ID: 17826030/0x011000EE), tag_num=0x09)
-124: 0x1600 [0x2B] Midras (ID: 17826030/0x011000EE) [10797*]:
+124: 0x1600 [0x2B] Midras (ID: 17826030/0x011000EE) [10799*]:
     → "He said he'd consider it? Great news! Did you notice anything else while you were there?"
 125: 0x1607 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x1608 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Midras (ID: 17826030/0x011000EE), Midras (ID: 17826030/0x011000EE)], work=9*
@@ -1518,10 +1518,10 @@ SUBROUTINE_1239:
 134: 0x1652 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Midras (ID: 17826030/0x011000EE))
 135: 0x1658 [0x03] Work_Zone_1700[0] = 120*
 136: 0x165D [0x27] REQ_SET(priority=0x10, entity_id=Midras (ID: 17826030/0x011000EE), tag_num=0x12)
-137: 0x1664 [0x2B] Midras (ID: 17826030/0x011000EE) [10798*]:
+137: 0x1664 [0x2B] Midras (ID: 17826030/0x011000EE) [10800*]:
     → "He seemed rather vexed?"
 138: 0x166B [0x23] WAIT_FOR_DIALOG_INTERACTION
-139: 0x166C [0x2B] Midras (ID: 17826030/0x011000EE) [10799*]:
+139: 0x166C [0x2B] Midras (ID: 17826030/0x011000EE) [10801*]:
     → "Well, when you've got a product as revolutionary as mine, I suppose I can forgive him for being a bit hesitant."
 140: 0x1673 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x1674 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Midras (ID: 17826030/0x011000EE))
@@ -1534,10 +1534,10 @@ SUBROUTINE_1239:
 148: 0x16BC [0x1C] WAIT(30* ticks)
 149: 0x16BF [0x03] Work_Zone_1700[0] = 120*
 150: 0x16C4 [0x27] REQ_SET(priority=0x10, entity_id=Midras (ID: 17826030/0x011000EE), tag_num=0x0B)
-151: 0x16CB [0x2B] Midras (ID: 17826030/0x011000EE) [10800*]:
+151: 0x16CB [0x2B] Midras (ID: 17826030/0x011000EE) [10802*]:
     → "At least I'm on the right path. Now, to progress to even greater discoveries!"
 152: 0x16D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-153: 0x16D3 [0x2B] Midras (ID: 17826030/0x011000EE) [10801*]:
+153: 0x16D3 [0x2B] Midras (ID: 17826030/0x011000EE) [10803*]:
     → "I know I can count on you when that time comes."
 154: 0x16DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x16DB [0x2A] GET_REQ_LEVEL(level=16, entity_id=Midras (ID: 17826030/0x011000EE))
@@ -1550,10 +1550,10 @@ SUBROUTINE_1239:
 162: 0x1723 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Amchuchu (ID: 17826029/0x011000ED) Render.Flags0 and Render.Flags3 conditions are met
 163: 0x1728 [0x03] Work_Zone_1700[0] = 60*
 164: 0x172D [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x3A)
-165: 0x1734 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10802*]:
+165: 0x1734 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10804*]:
     → "Oh, Junior, while I have your attention-wention..."
 166: 0x173B [0x23] WAIT_FOR_DIALOG_INTERACTION
-167: 0x173C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10803*]:
+167: 0x173C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10805*]:
     → "What's this about me actaruing like your mother!?"
 168: 0x1743 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x1744 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1562,7 +1562,7 @@ SUBROUTINE_1239:
 172: 0x176A [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Amchuchu (ID: 17826029/0x011000ED))
 173: 0x1770 [0x03] Work_Zone_1700[0] = 60*
 174: 0x1775 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x2F)
-175: 0x177C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10804*]:
+175: 0x177C [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10806*]:
     → "First off, exactly-wactly how old do you think I am!?"
 176: 0x1783 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x1784 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1574,7 +1574,7 @@ SUBROUTINE_1239:
 183: 0x17BF [0x03] Work_Zone_1700[0] = 120*
 184: 0x17C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "bik1" with entities [Amchuchu (ID: 17826029/0x011000ED), Amchuchu (ID: 17826029/0x011000ED)], work=42*
 185: 0x17D3 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x10, target_entity=Midras (ID: 17826030/0x011000EE), tag_num=0x11)
-186: 0x17DA [0x2B] Midras (ID: 17826030/0x011000EE) [10805*]:
+186: 0x17DA [0x2B] Midras (ID: 17826030/0x011000EE) [10807*]:
     → "Well, I, uh..."
 187: 0x17E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x17E2 [0x1C] WAIT(60* ticks)
@@ -1586,7 +1586,7 @@ SUBROUTINE_1239:
 194: 0x180E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s226" with entities [EventEntity, EventEntity], work=[636*, 0*]
 195: 0x181F [0x03] Work_Zone_1700[0] = 120*
 196: 0x1824 [0x27] REQ_SET(priority=0x10, entity_id=Midras (ID: 17826030/0x011000EE), tag_num=0x0A)
-197: 0x182B [0x2B] Midras (ID: 17826030/0x011000EE) [10806*]:
+197: 0x182B [0x2B] Midras (ID: 17826030/0x011000EE) [10808*]:
     → "Um... Oh! That reminds me, Amchuchu, you haven't yet rewarded <Player> for [his/her] efforts!"
 198: 0x1832 [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x1833 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Midras (ID: 17826030/0x011000EE))
@@ -1600,7 +1600,7 @@ SUBROUTINE_1239:
 207: 0x1884 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Amchuchu (ID: 17826029/0x011000ED))
 208: 0x188A [0x03] Work_Zone_1700[0] = 90*
 209: 0x188F [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x36)
-210: 0x1896 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10807*]:
+210: 0x1896 [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10809*]:
     → "You're right! I can't believe I nearly forgotaru!"
 211: 0x189D [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x189E [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1618,7 +1618,7 @@ SUBROUTINE_1239:
 224: 0x18FA [0x4A] Midras (ID: 17826030/0x011000EE) looks at LocalPlayer
 225: 0x1903 [0x03] Work_Zone_1700[0] = 150*
 226: 0x1908 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x38)
-227: 0x190F [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10808*]:
+227: 0x190F [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10810*]:
     → "It's not much, but I'm sure you can accept that the coalition is currently pouring-wouring all its resources into other avenues."
 228: 0x1916 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x1917 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))
@@ -1627,7 +1627,7 @@ SUBROUTINE_1239:
 232: 0x193D [0x7B] Midras (ID: 17826030/0x011000EE) stops talking
 233: 0x1942 [0x03] Work_Zone_1700[0] = 60*
 234: 0x1947 [0x27] REQ_SET(priority=0x10, entity_id=Midras (ID: 17826030/0x011000EE), tag_num=0x09)
-235: 0x194E [0x2B] Midras (ID: 17826030/0x011000EE) [10809*]:
+235: 0x194E [0x2B] Midras (ID: 17826030/0x011000EE) [10811*]:
     → "Well, now that that's taken care of, I'll be showing myself out..."
 236: 0x1955 [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x1956 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Midras (ID: 17826030/0x011000EE))
@@ -1644,7 +1644,7 @@ SUBROUTINE_1239:
 248: 0x19AE [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Amchuchu (ID: 17826029/0x011000ED) Render.Flags0 and Render.Flags3 conditions are met
 249: 0x19B3 [0x03] Work_Zone_1700[0] = 180*
 250: 0x19B8 [0x27] REQ_SET(priority=0x10, entity_id=Amchuchu (ID: 17826029/0x011000ED), tag_num=0x3B)
-251: 0x19BF [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10810*]:
+251: 0x19BF [0x2B] Amchuchu (ID: 17826029/0x011000ED) [10812*]:
     → "Junior! We aren't done! Get back here and tell me just what exactly you meantaru!"
 252: 0x19C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x19C7 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Amchuchu (ID: 17826029/0x011000ED))

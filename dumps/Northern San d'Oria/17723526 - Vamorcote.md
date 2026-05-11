@@ -56,56 +56,56 @@
 |       0 | 0x0014      |          20 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0015      |          21 |
-|       3 | 0x1C4C      |        7244 |
-|       4 | 0x1C4D      |        7245 |
+|       3 | 0x1C4E      |        7246 |
+|       4 | 0x1C4F      |        7247 |
 |       5 | 0x000D      |          13 |
 |       6 | 0xFFFDE86B  |  4294830187 |
 |       7 | 0x26E20     |      159264 |
 |       8 | 0x2EDF      |       11999 |
-|       9 | 0x1C56      |        7254 |
+|       9 | 0x1C58      |        7256 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x0001      |           1 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x1C50      |        7248 |
-|      14 | 0x1C51      |        7249 |
-|      15 | 0x1C52      |        7250 |
-|      16 | 0x1C53      |        7251 |
-|      17 | 0x1C54      |        7252 |
-|      18 | 0x1C55      |        7253 |
-|      19 | 0x1C57      |        7255 |
-|      20 | 0x1C58      |        7256 |
-|      21 | 0x1C59      |        7257 |
-|      22 | 0x1C5A      |        7258 |
+|      13 | 0x1C52      |        7250 |
+|      14 | 0x1C53      |        7251 |
+|      15 | 0x1C54      |        7252 |
+|      16 | 0x1C55      |        7253 |
+|      17 | 0x1C56      |        7254 |
+|      18 | 0x1C57      |        7255 |
+|      19 | 0x1C59      |        7257 |
+|      20 | 0x1C5A      |        7258 |
+|      21 | 0x1C5B      |        7259 |
+|      22 | 0x1C5C      |        7260 |
 |      23 | 0x00C8      |         200 |
 |      24 | 0x0064      |         100 |
 |      25 | 0x003C      |          60 |
 |      26 | 0x00C9      |         201 |
-|      27 | 0x1C5D      |        7261 |
-|      28 | 0x1C5E      |        7262 |
-|      29 | 0x1C5F      |        7263 |
-|      30 | 0x1C60      |        7264 |
-|      31 | 0x1C61      |        7265 |
+|      27 | 0x1C5F      |        7263 |
+|      28 | 0x1C60      |        7264 |
+|      29 | 0x1C61      |        7265 |
+|      30 | 0x1C62      |        7266 |
+|      31 | 0x1C63      |        7267 |
 
 ## String References
 
-- **7244**: We have a Blacksmiths' Guild and a Carpenters' Guild here in Northern San d'Oria.
-- **7245**: Their halls are open to the public, but do not interfere with their work.
-- **7248**: Hrmm... Have you heard about $1?
-- **7249**: Seems the royal family and the church all think I gave up my copy of the floor plans. But I've kept mine safe, I swear it!
-- **7250**: Still, these rumors do have me worried. The guild elders have always kept the plans locked away. But we do not possess the key!
-- **7251**: Hrrm... You seem a trustworthy adventurer. Might I ask you a favor?
-- **7252**: There is a small island to the south of Batallia Downs, surrounded by steep cliffs. I've heard that $2 is buried there.
-- **7253**: I would be most grateful if you could bring me that key.
-- **7254**: Accept his request? [Of course./Not now.]
-- **7255**: It's on the island south of Batallia Downs. Don't ask me how to get there, for I do not know.
-- **7256**: What a world! I had little faith in our youth before, but now...
-- **7257**: The floor plans should be here, locked inside. We need that $2 to open it and ensure the plans are safe!
-- **7258**: Search for the key on the island south of Batallia Downs. I've no idea how to get there, so ask me not!
-- **7261**: I wonder if this really is the key to that old box, eh?
-- **7262**: Ah! It opened! And inside...?
-- **7263**: There it is! Our section of the plans, safe and sound. I smell a rat in the clergy...or perhaps the royal household?
-- **7264**: No, forget what I just said. Here is your reward; may it serve you well in your adventures.
-- **7265**: Our piece of the plans was safe. I smell a rat in the clergy...or perhaps the royal household?
+- **7246**: We have a Blacksmiths' Guild and a Carpenters' Guild here in Northern San d'Oria.
+- **7247**: Their halls are open to the public, but do not interfere with their work.
+- **7250**: Hrmm... Have you heard about $1?
+- **7251**: Seems the royal family and the church all think I gave up my copy of the floor plans. But I've kept mine safe, I swear it!
+- **7252**: Still, these rumors do have me worried. The guild elders have always kept the plans locked away. But we do not possess the key!
+- **7253**: Hrrm... You seem a trustworthy adventurer. Might I ask you a favor?
+- **7254**: There is a small island to the south of Batallia Downs, surrounded by steep cliffs. I've heard that $2 is buried there.
+- **7255**: I would be most grateful if you could bring me that key.
+- **7256**: Accept his request? [Of course./Not now.]
+- **7257**: It's on the island south of Batallia Downs. Don't ask me how to get there, for I do not know.
+- **7258**: What a world! I had little faith in our youth before, but now...
+- **7259**: The floor plans should be here, locked inside. We need that $2 to open it and ensure the plans are safe!
+- **7260**: Search for the key on the island south of Batallia Downs. I've no idea how to get there, so ask me not!
+- **7263**: I wonder if this really is the key to that old box, eh?
+- **7264**: Ah! It opened! And inside...?
+- **7265**: There it is! Our section of the plans, safe and sound. I smell a rat in the clergy...or perhaps the royal household?
+- **7266**: No, forget what I just said. Here is your reward; may it serve you well in your adventures.
+- **7267**: Our piece of the plans was safe. I smell a rat in the clergy...or perhaps the royal household?
 
 ## Events
 
@@ -613,10 +613,10 @@
   1: 0x0125 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0126 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0127 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x01)
-  4: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
+  4: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
     → "We have a Blacksmiths' Guild and a Carpenters' Guild here in Northern San d'Oria."
   5: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
+  6: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
     → "Their halls are open to the public, but do not interfere with their work."
   7: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0136 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x02)
@@ -682,7 +682,7 @@
   4: 0x015D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x18)
   5: 0x0164 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x19)
   6: 0x016B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x1A)
-  7: 0x0172 [0x24] CREATE_DIALOG(message_id=7254*, default_option=0*, option_flags=0*)
+  7: 0x0172 [0x24] CREATE_DIALOG(message_id=7256*, default_option=0*, option_flags=0*)
     → "Accept his request? [Of course./Not now.]"
   8: 0x0179 [0x25] WAIT_DIALOG_SELECT()
   9: 0x017A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0191
@@ -722,10 +722,10 @@ SUBROUTINE_01A8:
 
 ```
   0: 0x01AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x03)
-  1: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
+  1: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
     → "Hrmm... Have you heard about $1?"
   2: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
+  3: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
     → "Seems the royal family and the church all think I gave up my copy of the floor plans. But I've kept mine safe, I swear it!"
   4: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x04)
@@ -753,7 +753,7 @@ SUBROUTINE_01A8:
 
 ```
   0: 0x01C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x05)
-  1: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+  1: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
     → "Still, these rumors do have me worried. The guild elders have always kept the plans locked away. But we do not possess the key!"
   2: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x06)
@@ -781,7 +781,7 @@ SUBROUTINE_01A8:
 
 ```
   0: 0x01D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x01)
-  1: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
+  1: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
     → "Hrrm... You seem a trustworthy adventurer. Might I ask you a favor?"
   2: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x02)
@@ -808,10 +808,10 @@ SUBROUTINE_01A8:
 #### Opcodes
 
 ```
-  0: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+  0: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "There is a small island to the south of Batallia Downs, surrounded by steep cliffs. I've heard that $2 is buried there."
   1: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+  2: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
     → "I would be most grateful if you could bring me that key."
   3: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01F1 [0x00] END_REQSTACK()
@@ -836,7 +836,7 @@ SUBROUTINE_01A8:
 #### Opcodes
 
 ```
-  0: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
+  0: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "It's on the island south of Batallia Downs. Don't ask me how to get there, for I do not know."
   1: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01F6 [0x00] END_REQSTACK()
@@ -863,7 +863,7 @@ SUBROUTINE_01A8:
 
 ```
   0: 0x01F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x11)
-  1: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+  1: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "What a world! I had little faith in our youth before, but now..."
   2: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0202 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x12)
@@ -893,10 +893,10 @@ SUBROUTINE_01A8:
   0: 0x020A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x020F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0210 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+  3: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → "The floor plans should be here, locked inside. We need that $2 to open it and ensure the plans are safe!"
   4: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
+  5: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
     → "Search for the key on the island south of Batallia Downs. I've no idea how to get there, so ask me not!"
   6: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0219 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -968,7 +968,7 @@ SUBROUTINE_01A8:
 
 ```
   0: 0x0279 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x01)
-  1: 0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
+  1: 0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
     → "I wonder if this really is the key to that old box, eh?"
   2: 0x0283 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0284 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x02)
@@ -995,7 +995,7 @@ SUBROUTINE_01A8:
 #### Opcodes
 
 ```
-  0: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
+  0: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
     → "Ah! It opened! And inside...?"
   1: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0290 [0x00] END_REQSTACK()
@@ -1023,12 +1023,12 @@ SUBROUTINE_01A8:
 
 ```
   0: 0x0291 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x03)
-  1: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+  1: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → "There it is! Our section of the plans, safe and sound. I smell a rat in the clergy...or perhaps the royal household?"
   2: 0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x029C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x04)
   4: 0x02A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x05)
-  5: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
+  5: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
     → "No, forget what I just said. Here is your reward; may it serve you well in your adventures."
   6: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x06)
@@ -1061,7 +1061,7 @@ SUBROUTINE_01A8:
   1: 0x02BB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02BC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x03)
-  4: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
+  4: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
     → "Our piece of the plans was safe. I smell a rat in the clergy...or perhaps the royal household?"
   5: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vamorcote (ID: 17723526/0x010E7086), tag_num=0x04)

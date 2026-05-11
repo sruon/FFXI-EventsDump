@@ -25,11 +25,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2F60      |       12128 |
+|       0 | 0x2F62      |       12130 |
 
 ## String References
 
-- **12128**: There are rumors that the Beastman Confederate numbers some 100,000 in total, but I find that hard to believe. The valor of the small Royal Knight contingent dispatched against the Orcish Hosts at Norvallen must not be overshadowed.
+- **12130**: There are rumors that the Beastman Confederate numbers some 100,000 in total, but I find that hard to believe. The valor of the small Royal Knight contingent dispatched against the Orcish Hosts at Norvallen must not be overshadowed.
 
 ## Events
 
@@ -78,7 +78,7 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=12128*)
+  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
     → "There are rumors that the Beastman Confederate numbers some 100,000 in total, but I find that hard to believe. The valor of the small Royal Knight contingent dispatched against the Orcish Hosts at Norvallen must not be overshadowed."
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0014 [0x21] END_EVENT

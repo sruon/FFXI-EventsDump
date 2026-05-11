@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0088      |         136 |
-|       1 | 0x1CCF      |        7375 |
+|       1 | 0x1CD1      |        7377 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 
 ## String References
 
-- **7375**: Place the $3? [Place it./Not now.]
+- **7377**: Place the $3? [Place it./Not now.]
 
 ## Events
 
@@ -75,7 +75,7 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[2] = 136*
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7375*, default_option=0*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7377*, default_option=0*, option_flags=0*)
     → "Place the $3? [Place it./Not now.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001E

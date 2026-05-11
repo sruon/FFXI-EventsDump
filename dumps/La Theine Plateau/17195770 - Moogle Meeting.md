@@ -26,7 +26,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x315F      |       12639 |
+|       2 | 0x3161      |       12641 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0004      |           4 |
@@ -34,26 +34,26 @@
 |       7 | 0x0018      |          24 |
 |       8 | 0x001F      |          31 |
 |       9 | 0x40000000  |  1073741824 |
-|      10 | 0x312B      |       12587 |
-|      11 | 0x3165      |       12645 |
-|      12 | 0x3120      |       12576 |
+|      10 | 0x312D      |       12589 |
+|      11 | 0x3167      |       12647 |
+|      12 | 0x3122      |       12578 |
 |      13 | 0x000B      |          11 |
 |      14 | 0x000E      |          14 |
-|      15 | 0x3162      |       12642 |
-|      16 | 0x3169      |       12649 |
-|      17 | 0x3166      |       12646 |
-|      18 | 0x3168      |       12648 |
-|      19 | 0x3132      |       12594 |
-|      20 | 0x3133      |       12595 |
-|      21 | 0x3160      |       12640 |
-|      22 | 0x3161      |       12641 |
-|      23 | 0x313F      |       12607 |
+|      15 | 0x3164      |       12644 |
+|      16 | 0x316B      |       12651 |
+|      17 | 0x3168      |       12648 |
+|      18 | 0x316A      |       12650 |
+|      19 | 0x3134      |       12596 |
+|      20 | 0x3135      |       12597 |
+|      21 | 0x3162      |       12642 |
+|      22 | 0x3163      |       12643 |
+|      23 | 0x3141      |       12609 |
 |      24 | 0x0032      |          50 |
-|      25 | 0x3148      |       12616 |
+|      25 | 0x314A      |       12618 |
 |      26 | 0x0008      |           8 |
 |      27 | 0x000F      |          15 |
 |      28 | 0x0005      |           5 |
-|      29 | 0x3153      |       12627 |
+|      29 | 0x3155      |       12629 |
 |      30 | 0x0064      |         100 |
 |      31 | 0x0065      |         101 |
 |      32 | 0x0066      |         102 |
@@ -66,21 +66,21 @@
 
 ## String References
 
-- **12576**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
-- **12587**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
-- **12594**: Prepare yourselves! The battlefield is almost ready!
-- **12595**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
-- **12607**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]
-- **12616**: Designate a value between $0 and $1.
-- **12627**: $)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]
-- **12639**: Enter which? (Auto-transport: [Off/On].) [Never mind./Moglesse Oblige./././././././././././././././Toggle auto-transport.]
-- **12640**: Only party members present with you in this area will be transported to [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **12641**: Entering [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **12642**: You have chosen not to [apply to/enter] [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **12645**: Applying to enter [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
-- **12646**: You are currently applying to enter [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **12648**: Your registration number for entering this nightmare is $3.
-- **12649**: IDs up through $3 have been registered, and ID $2 is currently ready.
+- **12578**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
+- **12589**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
+- **12596**: Prepare yourselves! The battlefield is almost ready!
+- **12597**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
+- **12609**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]
+- **12618**: Designate a value between $0 and $1.
+- **12629**: $)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]
+- **12641**: Enter which? (Auto-transport: [Off/On].) [Never mind./Moglesse Oblige./././././././././././././././Toggle auto-transport.]
+- **12642**: Only party members present with you in this area will be transported to [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **12643**: Entering [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **12644**: You have chosen not to [apply to/enter] [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **12647**: Applying to enter [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
+- **12648**: You are currently applying to enter [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **12650**: Your registration number for entering this nightmare is $3.
+- **12651**: IDs up through $3 have been registered, and ID $2 is currently ready.
 
 ## Events
 
@@ -157,7 +157,7 @@
  10: 0x0030 [0x03] ExtData[1]->WorkLocal[3] = 0*
  11: 0x0035 [0x03] ExtData[1]->WorkLocal[1] = 0*
  12: 0x003A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
- 13: 0x003F [0x24] CREATE_DIALOG(message_id=12639*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 13: 0x003F [0x24] CREATE_DIALOG(message_id=12641*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Enter which? (Auto-transport: [Off/On].) [Never mind./Moglesse Oblige./././././././././././././././Toggle auto-transport.]"
  14: 0x0046 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0047 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0057
@@ -189,17 +189,17 @@ SUBROUTINE_00C1:
  37: 0x00C1 [0x3E] IF !(ExtData[1]->WorkLocal[12] bit ExtData[1]->WorkLocal[1]) GOTO 0x00CB
  38: 0x00C8 [0x01] GOTO 0x00D3
  39: 0x00CB [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[11]
- 40: 0x00D0 [0x48] [System] [12587*]:
+ 40: 0x00D0 [0x48] [System] [12589*]:
     → "You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party."
 
 SUBROUTINE_00D3:
  41: 0x00D3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  42: 0x00D8 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
- 43: 0x00DD [0x48] [System] [12645*]:
+ 43: 0x00DD [0x48] [System] [12647*]:
     → "Applying to enter [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?"
  44: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x00E1 [0x03] Work_Zone[3] = 0*
- 46: 0x00E6 [0x24] CREATE_DIALOG(message_id=12576*, default_option=0*, option_flags=0*)
+ 46: 0x00E6 [0x24] CREATE_DIALOG(message_id=12578*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
  47: 0x00ED [0x25] WAIT_DIALOG_SELECT()
  48: 0x00EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011F
@@ -214,7 +214,7 @@ SUBROUTINE_00D3:
  57: 0x011F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  58: 0x0124 [0x03] Work_Zone[3] = 0*
  59: 0x0129 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
- 60: 0x012E [0x48] [System] [12642*]:
+ 60: 0x012E [0x48] [System] [12644*]:
     → "You have chosen not to [apply to/enter] [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  61: 0x0131 [0x03] Work_Zone[1] = 1073741824*
  62: 0x0136 [0x21] END_EVENT
@@ -261,26 +261,26 @@ SUBROUTINE_0138:
   0: 0x013A [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[4]
   1: 0x013F [0x03] Work_Zone[4] = Work_Zone[6]
   2: 0x0144 [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x0153
-  3: 0x014C [0x48] [System] [12649*]:
+  3: 0x014C [0x48] [System] [12651*]:
     → "IDs up through $3 have been registered, and ID $2 is currently ready."
   4: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0150 [0x01] GOTO 0x0157
-  6: 0x0153 [0x48] [System] [12646*]:
+  6: 0x0153 [0x48] [System] [12648*]:
     → "You are currently applying to enter [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   7: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0157:
   8: 0x0157 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[19]
-  9: 0x015C [0x48] [System] [12648*]:
+  9: 0x015C [0x48] [System] [12650*]:
     → "Your registration number for entering this nightmare is $3."
  10: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0160 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0173
- 12: 0x0168 [0x48] [System] [12594*]:
+ 12: 0x0168 [0x48] [System] [12596*]:
     → "Prepare yourselves! The battlefield is almost ready!"
  13: 0x016B [0x03] Work_Zone[1] = 1073741824*
  14: 0x0170 [0x01] GOTO 0x01A5
  15: 0x0173 [0x03] Work_Zone[2] = 1*
- 16: 0x0178 [0x24] CREATE_DIALOG(message_id=12595*, default_option=1*, option_flags=0*)
+ 16: 0x0178 [0x24] CREATE_DIALOG(message_id=12597*, default_option=1*, option_flags=0*)
     → "Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]"
  17: 0x017F [0x25] WAIT_DIALOG_SELECT()
  18: 0x0180 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0190
@@ -324,11 +324,11 @@ SUBROUTINE_01A5:
   0: 0x01A7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x01A8 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[2]
   2: 0x01AD [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[4]
-  3: 0x01B2 [0x48] [System] [12640*]:
+  3: 0x01B2 [0x48] [System] [12642*]:
     → "Only party members present with you in this area will be transported to [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   4: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01B6 [0x03] Work_Zone[3] = 1*
-  6: 0x01BB [0x24] CREATE_DIALOG(message_id=12576*, default_option=0*, option_flags=0*)
+  6: 0x01BB [0x24] CREATE_DIALOG(message_id=12578*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
   7: 0x01C2 [0x25] WAIT_DIALOG_SELECT()
   8: 0x01C3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FD
@@ -338,7 +338,7 @@ SUBROUTINE_01A5:
  12: 0x01D4 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x01F5
  13: 0x01DC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
  14: 0x01E1 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
- 15: 0x01E6 [0x48] [System] [12641*]:
+ 15: 0x01E6 [0x48] [System] [12643*]:
     → "Entering [/Moglesse Oblige][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  16: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x01EA [0x1A] CALL_SUBROUTINE(address=0x0333)
@@ -402,7 +402,7 @@ SUBROUTINE_0202:
   0: 0x0204 [0x03] ExtData[1]->WorkLocal[20] = Work_Zone[2]
   1: 0x0209 [0x05] ExtData[1]->WorkLocal[10] = 1
   2: 0x020C [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x0331
-  3: 0x0214 [0x24] CREATE_DIALOG(message_id=12607*, default_option=0*, option_flags=0*)
+  3: 0x0214 [0x24] CREATE_DIALOG(message_id=12609*, default_option=0*, option_flags=0*)
     → "Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]"
   4: 0x021B [0x25] WAIT_DIALOG_SELECT()
   5: 0x021C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0230
@@ -418,7 +418,7 @@ SUBROUTINE_0202:
  15: 0x0244 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0278
  16: 0x024C [0x03] Work_Zone[2] = 1*
  17: 0x0251 [0x03] Work_Zone[3] = 50*
- 18: 0x0256 [0x48] [System] [12616*]:
+ 18: 0x0256 [0x48] [System] [12618*]:
     → "Designate a value between $0 and $1."
  19: 0x0259 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  20: 0x025F [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -430,7 +430,7 @@ SUBROUTINE_0202:
  26: 0x0278 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02AC
  27: 0x0280 [0x03] Work_Zone[2] = 1*
  28: 0x0285 [0x03] Work_Zone[3] = 50*
- 29: 0x028A [0x48] [System] [12616*]:
+ 29: 0x028A [0x48] [System] [12618*]:
     → "Designate a value between $0 and $1."
  30: 0x028D [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  31: 0x0293 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -446,7 +446,7 @@ SUBROUTINE_0202:
  41: 0x02BD [0x01] GOTO 0x032E
  42: 0x02C0 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x032B
  43: 0x02C8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[20]
- 44: 0x02CD [0x24] CREATE_DIALOG(message_id=12627*, default_option=0*, option_flags=0*)
+ 44: 0x02CD [0x24] CREATE_DIALOG(message_id=12629*, default_option=0*, option_flags=0*)
     → "$)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]"
  45: 0x02D4 [0x25] WAIT_DIALOG_SELECT()
  46: 0x02D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E5

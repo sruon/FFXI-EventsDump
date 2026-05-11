@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3839      |       14393 |
+|       0 | 0x383B      |       14395 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
@@ -33,15 +33,15 @@
 |      10 | 0x0008      |           8 |
 |      11 | 0x0009      |           9 |
 |      12 | 0x000A      |          10 |
-|      13 | 0x383B      |       14395 |
+|      13 | 0x383D      |       14397 |
 |      14 | 0x000D      |          13 |
-|      15 | 0x383A      |       14394 |
+|      15 | 0x383C      |       14396 |
 
 ## String References
 
-- **14393**: &gqE->3" [$3T[$3o[$3$1[$3N$P15\\$&(ID)/$3T[$3o[$3$1[$3N$P15\\$&(INFO)/$3$1[$3 [$3h$3t$3@$3C$3 [$P15\\$&/$3{[$3 [$s$P10f$3G$3$3A/$P11S$P11Lx%J$P10]$P12h/$8%$3$3Z$3b$3g/STEP$m$P14F]
-- **14394**: $3$3O$3^$3u$3b$3g [-$P10'$I%95\\7)$2228813/""&]
-- **14395**: $P11S$P11Lx%J$P10]$P12h$3$3j$3$5[ [yzOP$3e$3|$P163%?%;/$5641036$K/yz$3$3@$3$3s[$3 [$3u$3$3b$3h/yz$3h$3b$3O$3m[$3Y/yz$3$3b$3L[$3}$3C$3X$3^[/yz$P15s$P14 $P11e%J$P14-$P106/yz$3n$3$3w$3$1[$3k/yz$3o$3X$3^[$3Y$3~$3$3N$3 [/yz$3$1[$3 [$3h$3o$3U[$3 [/yz$3G[$3X$3X$3v$3$3$3^[/yz$3N$3$3X$3^$3 [/$P11Sx%Jon/$P11Sx%Joff/yz&x%J$P14=%fi%i$P111$6226530i]
+- **14395**: &gqE->3" [$3T[$3o[$3$1[$3N$P15\\$&(ID)/$3T[$3o[$3$1[$3N$P15\\$&(INFO)/$3$1[$3 [$3h$3t$3@$3C$3 [$P15\\$&/$3{[$3 [$s$P10f$3G$3$3A/$P11S$P11Lx%J$P10]$P12h/$8%$3$3Z$3b$3g/STEP$m$P14F]
+- **14396**: $3$3O$3^$3u$3b$3g [-$P10'$I%95\\7)$2228813/""&]
+- **14397**: $P11S$P11Lx%J$P10]$P12h$3$3j$3$5[ [yzOP$3e$3|$P163%?%;/$5641036$K/yz$3$3@$3$3s[$3 [$3u$3$3b$3h/yz$3h$3b$3O$3m[$3Y/yz$3$3b$3L[$3}$3C$3X$3^[/yz$P15s$P14 $P11e%J$P14-$P106/yz$3n$3$3w$3$1[$3k/yz$3o$3X$3^[$3Y$3~$3$3N$3 [/yz$3$1[$3 [$3h$3o$3U[$3 [/yz$3G[$3X$3X$3v$3$3$3^[/yz$3N$3$3X$3^$3 [/$P11Sx%Jon/$P11Sx%Joff/yz&x%J$P14=%fi%i$P111$6226530i]
 
 ## Events
 
@@ -104,7 +104,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=14393*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=14395*, default_option=0*, option_flags=0*)
     → "&gqE->3" [$3T[$3o[$3$1[$3N$P15\$&(ID)/$3T[$3o[$3$1[$3N$P15\$&(INFO)/$3$1[$3 [$3h$3t$3@$3C$3 [$P15\$&/$3{[$3 [$s$P10f$3G$3$3A/$P11S$P11Lx%J$P10]$P12h/$8%$3$3Z$3b$3g/STEP$m$P14F]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0014
@@ -137,7 +137,7 @@ SUBROUTINE_0045:
  27: 0x00AC [0x41] Work_Zone_1700[1] = ExtData[1]->WorkLocal[1] (bits 9*-9*)
  28: 0x00B5 [0x41] Work_Zone_1700[2] = ExtData[1]->WorkLocal[1] (bits 10*-10*)
  29: 0x00BE [0x41] Work_Zone_1700[3] = ExtData[1]->WorkLocal[0] (bits 0*-0*)
- 30: 0x00C7 [0x24] CREATE_DIALOG(message_id=14395*, default_option=0*, option_flags=0*)
+ 30: 0x00C7 [0x24] CREATE_DIALOG(message_id=14397*, default_option=0*, option_flags=0*)
     → "$P11S$P11Lx%J$P10]$P12h$3$3j$3$5[ [yzOP$3e$3|$P163%?%;/$5641036$K/yz$3$3@$3$3s[$3 [$3u$3$3b$3h/yz$3h$3b$3O$3m[$3Y/yz$3$3b$3L[$3}$3C$3X$3^[/yz$P15s$P14 $P11e%J$P14-$P106/yz$3n$3$3w$3$1[$3k/yz$3o$3X$3^[$3Y$3~$3$3N$3 [/yz$3$1[$3 [$3h$3o$3U[$3 [/yz$3G[$3X$3X$3v$3$3$3^[/yz$3N$3$3X$3^$3 [/$P11Sx%Jon/$P11Sx%Joff/yz&x%J$P14=%fi%i$P111$6226530i]"
  31: 0x00CE [0x25] WAIT_DIALOG_SELECT()
  32: 0x00CF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DA
@@ -150,7 +150,7 @@ SUBROUTINE_00DA:
  37: 0x00EA [0x01] GOTO 0x0045
  38: 0x00ED [0x01] GOTO 0x0123
  39: 0x00F0 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0123
- 40: 0x00F8 [0x24] CREATE_DIALOG(message_id=14394*, default_option=1*, option_flags=0*)
+ 40: 0x00F8 [0x24] CREATE_DIALOG(message_id=14396*, default_option=1*, option_flags=0*)
     → "$3$3O$3^$3u$3b$3g [-$P10'$I%95\7)$2228813/""&]"
  41: 0x00FF [0x25] WAIT_DIALOG_SELECT()
  42: 0x0100 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0112

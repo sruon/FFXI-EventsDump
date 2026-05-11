@@ -21,17 +21,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3037      |       12343 |
-|       1 | 0x3038      |       12344 |
-|       2 | 0x3039      |       12345 |
-|       3 | 0x3C5B      |       15451 |
+|       0 | 0x3039      |       12345 |
+|       1 | 0x303A      |       12346 |
+|       2 | 0x303B      |       12347 |
+|       3 | 0x3C5D      |       15453 |
 
 ## String References
 
-- **12343**: Harrumph! The Federation has gone rotten, I tell you. Rotten! Who would have thought the day would come when people would forget the name Kayeel-Payeel, Master Caster of the Aquarian War Warlocks!
-- **12344**: If Warlock Warlord Robel-Akbel were only alive today, heads would roll!
-- **12345**: How long do the five ministries and the Parliament of Patriarchs plan on keeping his position empty? How long must Fort Karugo-Narugo remain in ruins?
-- **15451**: The Starlight Celebration, you say? Hmph. I have no interest in such frivolities...but I'll keep the present anyway.
+- **12345**: Harrumph! The Federation has gone rotten, I tell you. Rotten! Who would have thought the day would come when people would forget the name Kayeel-Payeel, Master Caster of the Aquarian War Warlocks!
+- **12346**: If Warlock Warlord Robel-Akbel were only alive today, heads would roll!
+- **12347**: How long do the five ministries and the Parliament of Patriarchs plan on keeping his position empty? How long must Fort Karugo-Narugo remain in ruins?
+- **15453**: The Starlight Celebration, you say? Hmph. I have no interest in such frivolities...but I'll keep the present anyway.
 
 ## Events
 
@@ -79,13 +79,13 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=12343*)
+  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=12345*)
     → "Harrumph! The Federation has gone rotten, I tell you. Rotten! Who would have thought the day would come when people would forget the name Kayeel-Payeel, Master Caster of the Aquarian War Warlocks!"
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=12344*)
+  4: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=12346*)
     → "If Warlock Warlord Robel-Akbel were only alive today, heads would roll!"
   5: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=12345*)
+  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=12347*)
     → "How long do the five ministries and the Parliament of Patriarchs plan on keeping his position empty? How long must Fort Karugo-Narugo remain in ruins?"
   7: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0014 [0x21] END_EVENT
@@ -114,7 +114,7 @@
 ```
   0: 0x0016 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0017 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=15451*)
+  2: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=15453*)
     → "The Starlight Celebration, you say? Hmph. I have no interest in such frivolities...but I'll keep the present anyway."
   3: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0020 [0x21] END_EVENT

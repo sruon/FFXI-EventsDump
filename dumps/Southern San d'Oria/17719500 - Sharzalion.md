@@ -53,24 +53,24 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000D      |          13 |
-|       1 | 0x2363      |        9059 |
+|       1 | 0x2365      |        9061 |
 |       2 | 0x0015      |          21 |
 |       3 | 0x00C4      |         196 |
-|       4 | 0x2367      |        9063 |
-|       5 | 0x2368      |        9064 |
-|       6 | 0x2369      |        9065 |
+|       4 | 0x2369      |        9065 |
+|       5 | 0x236A      |        9066 |
+|       6 | 0x236B      |        9067 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x0014      |          20 |
-|      10 | 0x236A      |        9066 |
-|      11 | 0x236B      |        9067 |
-|      12 | 0x236C      |        9068 |
-|      13 | 0x236D      |        9069 |
-|      14 | 0x2393      |        9107 |
-|      15 | 0x2394      |        9108 |
-|      16 | 0x23A2      |        9122 |
-|      17 | 0x23A3      |        9123 |
-|      18 | 0x23A4      |        9124 |
+|      10 | 0x236C      |        9068 |
+|      11 | 0x236D      |        9069 |
+|      12 | 0x236E      |        9070 |
+|      13 | 0x236F      |        9071 |
+|      14 | 0x2395      |        9109 |
+|      15 | 0x2396      |        9110 |
+|      16 | 0x23A4      |        9124 |
+|      17 | 0x23A5      |        9125 |
+|      18 | 0x23A6      |        9126 |
 |      19 | 0x001E      |          30 |
 |      20 | 0x002D      |          45 |
 |      21 | 0x120F6     |       73974 |
@@ -116,14 +116,14 @@
 
 ## String References
 
-- **9059**: My apologies, but I've no time to talk.
-- **9065**: Could you do this for me? [Of course./Not right now.]
-- **9069**: Head to Davoi and search the Orcs' storage holes! The Orcs dig false ones, and often move their treasure from hole to hole. Never assume it will stay in one place for long!
-- **9107**: I would not go to that church if I were you. There you'll find no coin, only intrigue.
-- **9108**: What? You went to the church? How impetuous of you. And, you met the ghost? Well, there's no stopping you!
-- **9122**: Fei'Yin is no place for you. And something is amiss about all of this. I feel like something...some invisible hand is guiding us somewhere. I want nothing more to do with it!
-- **9123**: What, you traveled to Fei'Yin? And you say that the ghost of Rainemard needs help? I am sorry, friend, but I want nothing to do with this anymore.
-- **9124**: So, that whole church uproar was Rainemard's doing... Well, I am glad his spirit found rest, and you made it out safely.
+- **9061**: My apologies, but I've no time to talk.
+- **9067**: Could you do this for me? [Of course./Not right now.]
+- **9071**: Head to Davoi and search the Orcs' storage holes! The Orcs dig false ones, and often move their treasure from hole to hole. Never assume it will stay in one place for long!
+- **9109**: I would not go to that church if I were you. There you'll find no coin, only intrigue.
+- **9110**: What? You went to the church? How impetuous of you. And, you met the ghost? Well, there's no stopping you!
+- **9124**: Fei'Yin is no place for you. And something is amiss about all of this. I feel like something...some invisible hand is guiding us somewhere. I want nothing more to do with it!
+- **9125**: What, you traveled to Fei'Yin? And you say that the ghost of Rainemard needs help? I am sorry, friend, but I want nothing to do with this anymore.
+- **9126**: So, that whole church uproar was Rainemard's doing... Well, I am glad his spirit found rest, and you made it out safely.
 
 ## Events
 
@@ -171,7 +171,7 @@
 
 ```
   0: 0x0004 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9059*)
+  1: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9061*)
     → "My apologies, but I've no time to talk."
   2: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0012 [0x21] END_EVENT
@@ -235,23 +235,23 @@
   2: 0x001B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Sharzalion (ID: 17719500/0x010E60CC), Sharzalion (ID: 17719500/0x010E60CC)], work=21*
   4: 0x002B [0x03] Work_Zone[2] = 196*
-  5: 0x0030 [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9063*]:
+  5: 0x0030 [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9065*]:
     → "Well, I've heard that in Davoi they store their riches in many different vaults. I seek to borrow $6 from them, you see."
   6: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Sharzalion (ID: 17719500/0x010E60CC), Sharzalion (ID: 17719500/0x010E60CC)], work=21*
-  8: 0x0047 [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9064*]:
+  8: 0x0047 [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9066*]:
     → "Would you mind running this errand for me? Only then I shall tell you my tale. I guarantee it will be worth your while."
   9: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x004F [0x24] CREATE_DIALOG(message_id=9065*, default_option=1*, option_flags=0*)
+ 10: 0x004F [0x24] CREATE_DIALOG(message_id=9067*, default_option=1*, option_flags=0*)
     → "Could you do this for me? [Of course./Not right now.]"
  11: 0x0056 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0057 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0090
  13: 0x005F [0x42] SET_CLI_EVENT_CANCEL_DATA()
  14: 0x0060 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Sharzalion (ID: 17719500/0x010E60CC), Sharzalion (ID: 17719500/0x010E60CC)], work=20*
- 15: 0x006F [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9066*]:
+ 15: 0x006F [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9068*]:
     → "That's the spirit, my friend. Now, head to Davoi and search the Orcs' storage holes."
  16: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0077 [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9067*]:
+ 17: 0x0077 [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9069*]:
     → "The malicious Orcs dig false ones, and often move their treasure from hole to hole as well. Never assume it will stay in one place for long!"
  18: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x007F [0x6B] STOP_AND_IDLE: Valderotaux (ID: 17719501/0x010E60CD) stops current action and resets to idle (animation="idl0")
@@ -259,7 +259,7 @@
  21: 0x008D [0x01] GOTO 0x00BF
  22: 0x0090 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00BF
  23: 0x0098 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Sharzalion (ID: 17719500/0x010E60CC), Sharzalion (ID: 17719500/0x010E60CC)], work=21*
- 24: 0x00A7 [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9068*]:
+ 24: 0x00A7 [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [9070*]:
     → "Hmph. I pity the adventurer who shrinks before a challenge."
  25: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00AF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [Sharzalion (ID: 17719500/0x010E60CC), Sharzalion (ID: 17719500/0x010E60CC)]
@@ -292,7 +292,7 @@ SUBROUTINE_00BF:
   0: 0x00C1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9069*)
+  3: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9071*)
     → "Head to Davoi and search the Orcs' storage holes! The Orcs dig false ones, and often move their treasure from hole to hole. Never assume it will stay in one place for long!"
   4: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00CC [0x21] END_EVENT
@@ -344,7 +344,7 @@ SUBROUTINE_00BF:
   0: 0x00CF [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00D4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00D5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9107*)
+  3: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9109*)
     → "I would not go to that church if I were you. There you'll find no coin, only intrigue."
   4: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00DA [0x21] END_EVENT
@@ -374,7 +374,7 @@ SUBROUTINE_00BF:
   0: 0x00DC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00E1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00E2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9108*)
+  3: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9110*)
     → "What? You went to the church? How impetuous of you. And, you met the ghost? Well, there's no stopping you!"
   4: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00E7 [0x21] END_EVENT
@@ -426,7 +426,7 @@ SUBROUTINE_00BF:
   0: 0x00EA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00EF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9122*)
+  3: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9124*)
     → "Fei'Yin is no place for you. And something is amiss about all of this. I feel like something...some invisible hand is guiding us somewhere. I want nothing more to do with it!"
   4: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00F5 [0x21] END_EVENT
@@ -456,7 +456,7 @@ SUBROUTINE_00BF:
   0: 0x00F7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00FC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00FD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9123*)
+  3: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9125*)
     → "What, you traveled to Fei'Yin? And you say that the ghost of Rainemard needs help? I am sorry, friend, but I want nothing to do with this anymore."
   4: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0102 [0x21] END_EVENT
@@ -486,7 +486,7 @@ SUBROUTINE_00BF:
   0: 0x0104 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0109 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x010A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=9124*)
+  3: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=9126*)
     → "So, that whole church uproar was Rainemard's doing... Well, I am glad his spirit found rest, and you made it out safely."
   4: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x010F [0x21] END_EVENT

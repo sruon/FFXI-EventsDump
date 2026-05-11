@@ -28,31 +28,31 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x23BD      |        9149 |
-|       1 | 0x23BE      |        9150 |
-|       2 | 0x23BF      |        9151 |
-|       3 | 0x23C0      |        9152 |
+|       0 | 0x23BF      |        9151 |
+|       1 | 0x23C0      |        9152 |
+|       2 | 0x23C1      |        9153 |
+|       3 | 0x23C2      |        9154 |
 |       4 | 0x0014      |          20 |
-|       5 | 0x23CA      |        9162 |
-|       6 | 0x23CB      |        9163 |
-|       7 | 0x23CC      |        9164 |
-|       8 | 0x23CD      |        9165 |
-|       9 | 0x23CE      |        9166 |
-|      10 | 0x23E7      |        9191 |
+|       5 | 0x23CC      |        9164 |
+|       6 | 0x23CD      |        9165 |
+|       7 | 0x23CE      |        9166 |
+|       8 | 0x23CF      |        9167 |
+|       9 | 0x23D0      |        9168 |
+|      10 | 0x23E9      |        9193 |
 |      11 | 0x003C      |          60 |
 
 ## String References
 
-- **9149**: What do you want? I'm waiting for someone. Each time the door opens, I turn to look! Begone!
-- **9150**: This is no concern of yours. Leave at once!
-- **9151**: What are you here for? You ask about my son? Please, just go!
-- **9152**: I know all about the intrigue of the knights! I heard that something was amiss right when my son disappeared. I know they had something to do with it!
-- **9162**: Why, you would offer this to me!? It's the paintbrush Chusarlaud always wanted. How did you know?
-- **9163**: In youth he wanted to be a painter. But, when his mother fell ill we lost the means, and he decided to become a knight. All on his own...
-- **9164**: I just couldn't ask him to quit, even though I wanted him to. He was our pride. How could such a thing happen to him?
-- **9165**: He has gone missing for nearly a year, but there is still a chance he lives. We've kept his room upstairs the way it's always been. Go see for yourself if you want to.
-- **9166**: Come to think of it, often he would read a letter from his commanding officer. Once I snatched it while he was away, but the paper was blank.
-- **9191**: It broke my heart to learn about him, but now I know the truth. You'll always have my gratitude.
+- **9151**: What do you want? I'm waiting for someone. Each time the door opens, I turn to look! Begone!
+- **9152**: This is no concern of yours. Leave at once!
+- **9153**: What are you here for? You ask about my son? Please, just go!
+- **9154**: I know all about the intrigue of the knights! I heard that something was amiss right when my son disappeared. I know they had something to do with it!
+- **9164**: Why, you would offer this to me!? It's the paintbrush Chusarlaud always wanted. How did you know?
+- **9165**: In youth he wanted to be a painter. But, when his mother fell ill we lost the means, and he decided to become a knight. All on his own...
+- **9166**: I just couldn't ask him to quit, even though I wanted him to. He was our pride. How could such a thing happen to him?
+- **9167**: He has gone missing for nearly a year, but there is still a chance he lives. We've kept his room upstairs the way it's always been. Go see for yourself if you want to.
+- **9168**: Come to think of it, often he would read a letter from his commanding officer. Once I snatched it while he was away, but the paper was blank.
+- **9193**: It broke my heart to learn about him, but now I know the truth. You'll always have my gratitude.
 
 ## Events
 
@@ -101,10 +101,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9149*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9151*)
     → "What do you want? I'm waiting for someone. Each time the door opens, I turn to look! Begone!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=9150*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=9152*)
     → "This is no concern of yours. Leave at once!"
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x21] END_EVENT
@@ -134,10 +134,10 @@
   0: 0x0012 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0017 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0018 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=9151*)
+  3: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=9153*)
     → "What are you here for? You ask about my son? Please, just go!"
   4: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9152*)
+  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9154*)
     → "I know all about the intrigue of the knights! I heard that something was amiss right when my son disappeared. I know they had something to do with it!"
   6: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0021 [0x21] END_EVENT
@@ -173,18 +173,18 @@
   2: 0x0029 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x002A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x002B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=9162*)
+  5: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=9164*)
     → "Why, you would offer this to me!? It's the paintbrush Chusarlaud always wanted. How did you know?"
   6: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x003E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  8: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=9163*)
+  8: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=9165*)
     → "In youth he wanted to be a painter. But, when his mother fell ill we lost the means, and he decided to become a knight. All on his own..."
   9: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=9164*)
+ 10: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=9166*)
     → "I just couldn't ask him to quit, even though I wanted him to. He was our pride. How could such a thing happen to him?"
  11: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0055 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 13: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=9165*)
+ 13: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=9167*)
     → "He has gone missing for nearly a year, but there is still a chance he lives. We've kept his room upstairs the way it's always been. Go see for yourself if you want to."
  14: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0068 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
@@ -215,7 +215,7 @@
   0: 0x0077 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x007C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=9165*)
+  3: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=9167*)
     → "He has gone missing for nearly a year, but there is still a chance he lives. We've kept his room upstairs the way it's always been. Go see for yourself if you want to."
   4: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0082 [0x21] END_EVENT
@@ -245,7 +245,7 @@
   0: 0x0084 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0089 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x008A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=9166*)
+  3: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=9168*)
     → "Come to think of it, often he would read a letter from his commanding officer. Once I snatched it while he was away, but the paper was blank."
   4: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x008F [0x21] END_EVENT
@@ -296,7 +296,7 @@
   0: 0x0092 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0097 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0098 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=9191*)
+  3: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=9193*)
     → "It broke my heart to learn about him, but now I know the truth. You'll always have my gratitude."
   4: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x009D [0x21] END_EVENT

@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F49      |        8009 |
-|       1 | 0x1F4A      |        8010 |
+|       0 | 0x1F4B      |        8011 |
+|       1 | 0x1F4C      |        8012 |
 
 ## String References
 
-- **8009**: Sew...I mean..."So," want to get your paws on the top-quality materials as used in the Weaverrrs' Guild?
-- **8010**: Then step rrright up and take a look! Just be carrreful not to get too giddy with excitement, now!
+- **8011**: Sew...I mean..."So," want to get your paws on the top-quality materials as used in the Weaverrrs' Guild?
+- **8012**: Then step rrright up and take a look! Just be carrreful not to get too giddy with excitement, now!
 
 ## Events
 
@@ -75,10 +75,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
     → "Sew...I mean..."So," want to get your paws on the top-quality materials as used in the Weaverrrs' Guild?"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8012*)
     → "Then step rrright up and take a look! Just be carrreful not to get too giddy with excitement, now!"
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

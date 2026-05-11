@@ -25,13 +25,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x32E7      |       13031 |
-|       2 | 0x32E8      |       13032 |
-|       3 | 0x32E9      |       13033 |
+|       1 | 0x32E9      |       13033 |
+|       2 | 0x32EA      |       13034 |
+|       3 | 0x32EB      |       13035 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x32EA      |       13034 |
-|       7 | 0x32EB      |       13035 |
+|       6 | 0x32EC      |       13036 |
+|       7 | 0x32ED      |       13037 |
 |       8 | 0x40000000  |  1073741824 |
 |       9 | 0x0003      |           3 |
 |      10 | 0x0004      |           4 |
@@ -41,61 +41,61 @@
 |      14 | 0x0036      |          54 |
 |      15 | 0x002E      |          46 |
 |      16 | 0x001E      |          30 |
-|      17 | 0x32EE      |       13038 |
-|      18 | 0x32EF      |       13039 |
+|      17 | 0x32F0      |       13040 |
+|      18 | 0x32F1      |       13041 |
 |      19 | 0x000F      |          15 |
-|      20 | 0x32F0      |       13040 |
+|      20 | 0x32F2      |       13042 |
 |      21 | 0x0013      |          19 |
 |      22 | 0x0059      |          89 |
 |      23 | 0x001B      |          27 |
-|      24 | 0x32F1      |       13041 |
+|      24 | 0x32F3      |       13043 |
 |      25 | 0x0009      |           9 |
 |      26 | 0x000D      |          13 |
 |      27 | 0x000E      |          14 |
 |      28 | 0x002D      |          45 |
 |      29 | 0x0014      |          20 |
-|      30 | 0x32F7      |       13047 |
+|      30 | 0x32F9      |       13049 |
 |      31 | 0x0010      |          16 |
 |      32 | 0x003B      |          59 |
 |      33 | 0x002C      |          44 |
-|      34 | 0x32FE      |       13054 |
+|      34 | 0x3300      |       13056 |
 |      35 | 0x003E      |          62 |
 |      36 | 0x0044      |          68 |
-|      37 | 0x32F5      |       13045 |
-|      38 | 0x32F3      |       13043 |
-|      39 | 0x32F4      |       13044 |
-|      40 | 0x32F2      |       13042 |
-|      41 | 0x32F6      |       13046 |
-|      42 | 0x32FA      |       13050 |
-|      43 | 0x32F8      |       13048 |
-|      44 | 0x32F9      |       13049 |
+|      37 | 0x32F7      |       13047 |
+|      38 | 0x32F5      |       13045 |
+|      39 | 0x32F6      |       13046 |
+|      40 | 0x32F4      |       13044 |
+|      41 | 0x32F8      |       13048 |
+|      42 | 0x32FC      |       13052 |
+|      43 | 0x32FA      |       13050 |
+|      44 | 0x32FB      |       13051 |
 |      45 | 0xFFFFFFFF  |  4294967295 |
-|      46 | 0x32FC      |       13052 |
-|      47 | 0x32FB      |       13051 |
+|      46 | 0x32FE      |       13054 |
+|      47 | 0x32FD      |       13053 |
 
 ## String References
 
-- **13031**: Hello, [sir/ma'am]. Have you ever found yourself throwing away items because your Mog Safe is overflowing with dusty sets of armor collected on your many adventures? My colleagues and I have heard the cries of our fellow adventurers and joined together to aid all those in need.
-- **13032**: Trade me a full set, and for a small fee (payable on pickup) we will hold on to it, all the while protecting it from thieves, moths, and any/all acts of god and/or goddess.
-- **13033**: Please be forewarned that we cannot store any high-quality equipment, and that the signatures on any pieces of collected armor will be lost.
-- **13034**: How may I be of service today?
-- **13035**: What to do... [Nothing./View list of storable armor sets./Have stored armor returned.]
-- **13038**: [View which set?/Remove which set from storage?] [None./Level 24\`30 armor./Level 31\`40 armor./Level 41\`50 armor./Artifact armor/High level gear./Relic armor.]
-- **13039**: [View which set?/Remove which set?] [None./Iron Chainmail./Shade Harness./Brass Scale Armor./Wool Robe./Eisenplatte Armor./Soil Gi./Seer's Tunic./Studded Armor./Centurion's Scale Mail./Mercenary Captain's Doublet./Garish Tunic./Noct Doublet.]
-- **13040**: [View which set?/Remove which set?] [None./Custom Armor (Hume Male)./Custom Armor (Hume Female)./Magna Armor (Elvaan Male)./Magna Armor (Elvaan Female)./Wonder Armor (Tarutaru)./Savage Armor (Mithra)./Elder Armor (Galka)./Linen Cloak./Padded Armor./Silver Chainmail./Gambison./Iron Scale Armor./Cuir Armor./Velvet Robe./Opaline Dress./Royal Squire's Chainmail./Plate Armor./Combat Caster's Cloak./Argent Attire.]
-- **13041**: [View which set?/Remove which set?] [None./Alumine Haubert./Carapace Armor./Banded Mail./Hara-Ate./Raptor Armor./Steel Scale Armor./Wool Gambison./Shinobi Gi./Mythril Plate Armor./Iron Musketeer's Cuirass./Tactician Magician's Cloak./White Cloak./Austere Robe./Crow Jupon.]
-- **13042**: This set is comprised of the following items: #, $1, $2, $3, and $4.
-- **13043**: This set is comprised of the following items: $1, $2, $3, and $4.
-- **13044**: This set is comprised of the following items: #, $1, $3, and $4.
-- **13045**: This set is comprised of the following items: $1, and $3.
-- **13046**: A storage fee of $5 gil will be required upon pickup of this particular set.
-- **13047**: [View which set?/Remove which set?] [None at this time./Fighter's Armor./Temple Attire./Healer's Attire./Wizard's Attire./Warlock's Armor./Rogue's Attire./Gallant Armor./Chaos Armor./Beast Armor./Choral Attire./Hunter's Attire./Myochin Armor./Ninja Garb./Drachen Armor./Evoker's Attire./Magus Attire./Corsair's Attire./Puppetry Attire./Dancer's Attire./Dancer's Attire./Scholar's Attire./Amir Armor Set./Pahluwan Armor Set./Yigit Armor Set.]
-- **13048**: The storage fee for your armor comes to $5 gil.
-- **13049**: Do you wish to pay the fee? [Not at this time./Yes.]
-- **13050**: I am sorry, [sir/ma'am]. $5 gil is required before we can return your armor.
-- **13051**: Very well, [sir/ma'am]. When you wish to have your armor returned, remember to present this claim slip along with the $5-gil storage fee at any of our five convenient pickup locations around Vana'diel.
-- **13052**: Regulations do not allow adventurers to store more than one set of the same armor.
-- **13054**: [View which set?/Remove which set?] [None at this time./Warrior's Armor./Melee Attire./Cleric's Attire./Sorcerer's Attire./Duelist's Armor./Assassin's Attire./Valor Armor./Abyss Armor./Monster Armor./Bard's Attire./Scout's Attire./Saotome Armor./Koga Garb./Wyrm Armor./Summoner's Attire./Mirage Attire./Commodore Attire./Pantin Attire./Etoile Attire./Argute Attire.]
+- **13033**: Hello, [sir/ma'am]. Have you ever found yourself throwing away items because your Mog Safe is overflowing with dusty sets of armor collected on your many adventures? My colleagues and I have heard the cries of our fellow adventurers and joined together to aid all those in need.
+- **13034**: Trade me a full set, and for a small fee (payable on pickup) we will hold on to it, all the while protecting it from thieves, moths, and any/all acts of god and/or goddess.
+- **13035**: Please be forewarned that we cannot store any high-quality equipment, and that the signatures on any pieces of collected armor will be lost.
+- **13036**: How may I be of service today?
+- **13037**: What to do... [Nothing./View list of storable armor sets./Have stored armor returned.]
+- **13040**: [View which set?/Remove which set from storage?] [None./Level 24\`30 armor./Level 31\`40 armor./Level 41\`50 armor./Artifact armor/High level gear./Relic armor.]
+- **13041**: [View which set?/Remove which set?] [None./Iron Chainmail./Shade Harness./Brass Scale Armor./Wool Robe./Eisenplatte Armor./Soil Gi./Seer's Tunic./Studded Armor./Centurion's Scale Mail./Mercenary Captain's Doublet./Garish Tunic./Noct Doublet.]
+- **13042**: [View which set?/Remove which set?] [None./Custom Armor (Hume Male)./Custom Armor (Hume Female)./Magna Armor (Elvaan Male)./Magna Armor (Elvaan Female)./Wonder Armor (Tarutaru)./Savage Armor (Mithra)./Elder Armor (Galka)./Linen Cloak./Padded Armor./Silver Chainmail./Gambison./Iron Scale Armor./Cuir Armor./Velvet Robe./Opaline Dress./Royal Squire's Chainmail./Plate Armor./Combat Caster's Cloak./Argent Attire.]
+- **13043**: [View which set?/Remove which set?] [None./Alumine Haubert./Carapace Armor./Banded Mail./Hara-Ate./Raptor Armor./Steel Scale Armor./Wool Gambison./Shinobi Gi./Mythril Plate Armor./Iron Musketeer's Cuirass./Tactician Magician's Cloak./White Cloak./Austere Robe./Crow Jupon.]
+- **13044**: This set is comprised of the following items: #, $1, $2, $3, and $4.
+- **13045**: This set is comprised of the following items: $1, $2, $3, and $4.
+- **13046**: This set is comprised of the following items: #, $1, $3, and $4.
+- **13047**: This set is comprised of the following items: $1, and $3.
+- **13048**: A storage fee of $5 gil will be required upon pickup of this particular set.
+- **13049**: [View which set?/Remove which set?] [None at this time./Fighter's Armor./Temple Attire./Healer's Attire./Wizard's Attire./Warlock's Armor./Rogue's Attire./Gallant Armor./Chaos Armor./Beast Armor./Choral Attire./Hunter's Attire./Myochin Armor./Ninja Garb./Drachen Armor./Evoker's Attire./Magus Attire./Corsair's Attire./Puppetry Attire./Dancer's Attire./Dancer's Attire./Scholar's Attire./Amir Armor Set./Pahluwan Armor Set./Yigit Armor Set.]
+- **13050**: The storage fee for your armor comes to $5 gil.
+- **13051**: Do you wish to pay the fee? [Not at this time./Yes.]
+- **13052**: I am sorry, [sir/ma'am]. $5 gil is required before we can return your armor.
+- **13053**: Very well, [sir/ma'am]. When you wish to have your armor returned, remember to present this claim slip along with the $5-gil storage fee at any of our five convenient pickup locations around Vana'diel.
+- **13054**: Regulations do not allow adventurers to store more than one set of the same armor.
+- **13056**: [View which set?/Remove which set?] [None at this time./Warrior's Armor./Melee Attire./Cleric's Attire./Sorcerer's Attire./Duelist's Armor./Assassin's Attire./Valor Armor./Abyss Armor./Monster Armor./Bard's Attire./Scout's Attire./Saotome Armor./Koga Garb./Wyrm Armor./Summoner's Attire./Mirage Attire./Commodore Attire./Pantin Attire./Etoile Attire./Argute Attire.]
 
 ## Events
 
@@ -211,20 +211,20 @@
  10: 0x0037 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0062
  11: 0x003F [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0062
  12: 0x0047 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0062
- 13: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=13031*)
+ 13: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=13033*)
     → "Hello, [sir/ma'am]. Have you ever found yourself throwing away items because your Mog Safe is overflowing with dusty sets of armor collected on your many adventures? My colleagues and I have heard the cries of our fellow adventurers and joined together to aid all those in need."
  14: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=13032*)
+ 15: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=13034*)
     → "Trade me a full set, and for a small fee (payable on pickup) we will hold on to it, all the while protecting it from thieves, moths, and any/all acts of god and/or goddess."
  16: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=13033*)
+ 17: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=13035*)
     → "Please be forewarned that we cannot store any high-quality equipment, and that the signatures on any pieces of collected armor will be lost."
  18: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x005B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=2*, condition_work_offset=1*)
- 20: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=13034*)
+ 20: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=13036*)
     → "How may I be of service today?"
  21: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0066 [0x24] CREATE_DIALOG(message_id=13035*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 22: 0x0066 [0x24] CREATE_DIALOG(message_id=13037*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "What to do... [Nothing./View list of storable armor sets./Have stored armor returned.]"
  23: 0x006D [0x25] WAIT_DIALOG_SELECT()
  24: 0x006E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0080
@@ -233,7 +233,7 @@
  27: 0x007C [0x00] END_REQSTACK()
 
 SUBROUTINE_0128:
- 28: 0x0128 [0x24] CREATE_DIALOG(message_id=13038*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 28: 0x0128 [0x24] CREATE_DIALOG(message_id=13040*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "[View which set?/Remove which set from storage?] [None./Level 24`30 armor./Level 31`40 armor./Level 41`50 armor./Artifact armor/High level gear./Relic armor.]"
  29: 0x012F [0x25] WAIT_DIALOG_SELECT()
  30: 0x0130 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0142
@@ -249,7 +249,7 @@ SUBROUTINE_014A:
  38: 0x015D [0x1A] CALL_SUBROUTINE(address=0x0395)
 
 SUBROUTINE_0160:
- 39: 0x0160 [0x24] CREATE_DIALOG(message_id=13039*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 39: 0x0160 [0x24] CREATE_DIALOG(message_id=13041*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "[View which set?/Remove which set?] [None./Iron Chainmail./Shade Harness./Brass Scale Armor./Wool Robe./Eisenplatte Armor./Soil Gi./Seer's Tunic./Studded Armor./Centurion's Scale Mail./Mercenary Captain's Doublet./Garish Tunic./Noct Doublet.]"
  40: 0x0167 [0x25] WAIT_DIALOG_SELECT()
  41: 0x0168 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x017A
@@ -271,7 +271,7 @@ SUBROUTINE_018F:
  53: 0x01A2 [0x1A] CALL_SUBROUTINE(address=0x0395)
 
 SUBROUTINE_01A5:
- 54: 0x01A5 [0x24] CREATE_DIALOG(message_id=13040*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 54: 0x01A5 [0x24] CREATE_DIALOG(message_id=13042*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "[View which set?/Remove which set?] [None./Custom Armor (Hume Male)./Custom Armor (Hume Female)./Magna Armor (Elvaan Male)./Magna Armor (Elvaan Female)./Wonder Armor (Tarutaru)./Savage Armor (Mithra)./Elder Armor (Galka)./Linen Cloak./Padded Armor./Silver Chainmail./Gambison./Iron Scale Armor./Cuir Armor./Velvet Robe./Opaline Dress./Royal Squire's Chainmail./Plate Armor./Combat Caster's Cloak./Argent Attire.]"
  55: 0x01AC [0x25] WAIT_DIALOG_SELECT()
  56: 0x01AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BF
@@ -298,7 +298,7 @@ SUBROUTINE_01E4:
  71: 0x01F7 [0x1A] CALL_SUBROUTINE(address=0x0395)
 
 SUBROUTINE_01FA:
- 72: 0x01FA [0x24] CREATE_DIALOG(message_id=13041*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 72: 0x01FA [0x24] CREATE_DIALOG(message_id=13043*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "[View which set?/Remove which set?] [None./Alumine Haubert./Carapace Armor./Banded Mail./Hara-Ate./Raptor Armor./Steel Scale Armor./Wool Gambison./Shinobi Gi./Mythril Plate Armor./Iron Musketeer's Cuirass./Tactician Magician's Cloak./White Cloak./Austere Robe./Crow Jupon.]"
  73: 0x0201 [0x25] WAIT_DIALOG_SELECT()
  74: 0x0202 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0214
@@ -334,7 +334,7 @@ SUBROUTINE_0270:
  96: 0x0278 [0x1A] CALL_SUBROUTINE(address=0x0395)
 
 SUBROUTINE_027B:
- 97: 0x027B [0x24] CREATE_DIALOG(message_id=13047*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 97: 0x027B [0x24] CREATE_DIALOG(message_id=13049*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "[View which set?/Remove which set?] [None at this time./Fighter's Armor./Temple Attire./Healer's Attire./Wizard's Attire./Warlock's Armor./Rogue's Attire./Gallant Armor./Chaos Armor./Beast Armor./Choral Attire./Hunter's Attire./Myochin Armor./Ninja Garb./Drachen Armor./Evoker's Attire./Magus Attire./Corsair's Attire./Puppetry Attire./Dancer's Attire./Dancer's Attire./Scholar's Attire./Amir Armor Set./Pahluwan Armor Set./Yigit Armor Set.]"
  98: 0x0282 [0x25] WAIT_DIALOG_SELECT()
  99: 0x0283 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0295
@@ -362,7 +362,7 @@ SUBROUTINE_02C2:
 115: 0x02D5 [0x1A] CALL_SUBROUTINE(address=0x0395)
 
 SUBROUTINE_02D8:
-116: 0x02D8 [0x24] CREATE_DIALOG(message_id=13054*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+116: 0x02D8 [0x24] CREATE_DIALOG(message_id=13056*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "[View which set?/Remove which set?] [None at this time./Warrior's Armor./Melee Attire./Cleric's Attire./Sorcerer's Attire./Duelist's Armor./Assassin's Attire./Valor Armor./Abyss Armor./Monster Armor./Bard's Attire./Scout's Attire./Saotome Armor./Koga Garb./Wyrm Armor./Summoner's Attire./Mirage Attire./Commodore Attire./Pantin Attire./Etoile Attire./Argute Attire.]"
 117: 0x02DF [0x25] WAIT_DIALOG_SELECT()
 118: 0x02E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02F2
@@ -387,27 +387,27 @@ SUBROUTINE_030F:
 131: 0x031A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 132: 0x031C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x033A
 133: 0x0324 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0333
-134: 0x032C [0x1D] PRINT_EVENT_MESSAGE(message_id=13045*)
+134: 0x032C [0x1D] PRINT_EVENT_MESSAGE(message_id=13047*)
     → "This set is comprised of the following items: $1, and $3."
 135: 0x032F [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0330 [0x01] GOTO 0x0337
-137: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=13043*)
+137: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=13045*)
     → "This set is comprised of the following items: $1, $2, $3, and $4."
 138: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0337:
 139: 0x0337 [0x01] GOTO 0x034D
 140: 0x033A [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0349
-141: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=13044*)
+141: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=13046*)
     → "This set is comprised of the following items: #, $1, $3, and $4."
 142: 0x0345 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0346 [0x01] GOTO 0x034D
-144: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=13042*)
+144: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=13044*)
     → "This set is comprised of the following items: #, $1, $2, $3, and $4."
 145: 0x034C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_034D:
-146: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=13046*)
+146: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=13048*)
     → "A storage fee of $5 gil will be required upon pickup of this particular set."
 147: 0x0350 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0351 [0x03] Work_Zone[1] = 1073741824*
@@ -472,12 +472,12 @@ SUBROUTINE_0395:
   0: 0x03A7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x03A8 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x03AD [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x03C1
-  3: 0x03B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13052*)
+  3: 0x03B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13054*)
     → "Regulations do not allow adventurers to store more than one set of the same armor."
   4: 0x03B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x03B9 [0x03] Work_Zone[1] = 1073741824*
   6: 0x03BE [0x01] GOTO 0x03CA
-  7: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13051*)
+  7: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13053*)
     → "Very well, [sir/ma'am]. When you wish to have your armor returned, remember to present this claim slip along with the $5-gil storage fee at any of our five convenient pickup locations around Vana'diel."
   8: 0x03C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x03C5 [0x03] Work_Zone[1] = Work_Zone[2]

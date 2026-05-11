@@ -71,17 +71,17 @@
 |      18 | 0x591F      |       22815 |
 |      19 | 0x74BE      |       29886 |
 |      20 | 0xFFFFB8FE  |  4294949118 |
-|      21 | 0x1E21      |        7713 |
-|      22 | 0x1E27      |        7719 |
-|      23 | 0x1E36      |        7734 |
-|      24 | 0x1E3C      |        7740 |
+|      21 | 0x1E23      |        7715 |
+|      22 | 0x1E29      |        7721 |
+|      23 | 0x1E38      |        7736 |
+|      24 | 0x1E3E      |        7742 |
 
 ## String References
 
-- **7713**: To win against such opponents...
-- **7719**: ...Ah, Ildy-Goldy.
-- **7734**: Have you forgotten what my specialty is? I cloaked a m-m-magical doll with an illusion...
-- **7740**: Let us be going, Ildy-Goldy. The slum-m-mbering power of the protocrystals awaits... With your skill in battle, all of that energy will soon be m-m-mine...
+- **7715**: To win against such opponents...
+- **7721**: ...Ah, Ildy-Goldy.
+- **7736**: Have you forgotten what my specialty is? I cloaked a m-m-magical doll with an illusion...
+- **7742**: Let us be going, Ildy-Goldy. The slum-m-mbering power of the protocrystals awaits... With your skill in battle, all of that energy will soon be m-m-mine...
 
 ## Events
 
@@ -798,7 +798,7 @@
 #### Opcodes
 
 ```
-  0: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=7713*)
+  0: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=7715*)
     → "To win against such opponents..."
   1: 0x020E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x020F [0x00] END_REQSTACK()
@@ -823,7 +823,7 @@
 #### Opcodes
 
 ```
-  0: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7719*)
+  0: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7721*)
     → "...Ah, Ildy-Goldy."
   1: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0214 [0x00] END_REQSTACK()
@@ -848,7 +848,7 @@
 #### Opcodes
 
 ```
-  0: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7734*)
+  0: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7736*)
     → "Have you forgotten what my specialty is? I cloaked a m-m-magical doll with an illusion..."
   1: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0219 [0x00] END_REQSTACK()
@@ -873,7 +873,7 @@
 #### Opcodes
 
 ```
-  0: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7740*)
+  0: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7742*)
     → "Let us be going, Ildy-Goldy. The slum-m-mbering power of the protocrystals awaits... With your skill in battle, all of that energy will soon be m-m-mine..."
   1: 0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x021E [0x00] END_REQSTACK()

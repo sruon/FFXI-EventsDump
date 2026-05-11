@@ -26,25 +26,25 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D1E      |        7454 |
+|       0 | 0x1D20      |        7456 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x003F      |          63 |
 |       4 | 0x0020      |          32 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x1D14      |        7444 |
-|       7 | 0x1D15      |        7445 |
-|       8 | 0x1D16      |        7446 |
+|       6 | 0x1D16      |        7446 |
+|       7 | 0x1D17      |        7447 |
+|       8 | 0x1D18      |        7448 |
 |       9 | 0x0003      |           3 |
 |      10 | 0x1072      |        4210 |
 |      11 | 0x1074      |        4212 |
 |      12 | 0x14B8      |        5304 |
 |      13 | 0x14B9      |        5305 |
-|      14 | 0x1D17      |        7447 |
+|      14 | 0x1D19      |        7449 |
 |      15 | 0xFFFFFFFF  |  4294967295 |
 |      16 | 0x40000000  |  1073741824 |
 |      17 | 0x001F      |          31 |
-|      18 | 0x1D18      |        7448 |
+|      18 | 0x1D1A      |        7450 |
 |      19 | 0x03E8      |        1000 |
 |      20 | 0x0004      |           4 |
 |      21 | 0x0005      |           5 |
@@ -150,12 +150,12 @@
 
 ## String References
 
-- **7444**: You find the temporary item: $0!
-- **7445**: You find $0, but you cannot carry any more temporary items.
-- **7446**: You find $0, but you cannot carry more than one of that temporary item.
-- **7447**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
-- **7448**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
-- **7454**: You find a Petra! [Keep it./Throw it away.]
+- **7446**: You find the temporary item: $0!
+- **7447**: You find $0, but you cannot carry any more temporary items.
+- **7448**: You find $0, but you cannot carry more than one of that temporary item.
+- **7449**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
+- **7450**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
+- **7456**: You find a Petra! [Keep it./Throw it away.]
 
 ## Events
 
@@ -224,7 +224,7 @@
 
 ```
   0: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0004 [0x24] CREATE_DIALOG(message_id=7454*, default_option=1*, option_flags=0*)
+  1: 0x0004 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
     → "You find a Petra! [Keep it./Throw it away.]"
   2: 0x000B [0x25] WAIT_DIALOG_SELECT()
   3: 0x000C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001D
@@ -458,19 +458,19 @@ SUBROUTINE_0067:
  18: 0x007A [0x06] ExtData[1]->WorkLocal[17] = 0
  19: 0x007D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
  20: 0x0082 [0x02] IF !(ExtData[1]->WorkLocal[18] == 0*) GOTO 0x0096
- 21: 0x008A [0x48] [System] [7444*]:
+ 21: 0x008A [0x48] [System] [7446*]:
     → "You find the temporary item: $0!"
  22: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x008E [0x03] ExtData[1]->WorkLocal[17] = 2*
  24: 0x0093 [0x01] GOTO 0x00BE
  25: 0x0096 [0x02] IF !(ExtData[1]->WorkLocal[18] == 1*) GOTO 0x00AA
- 26: 0x009E [0x48] [System] [7445*]:
+ 26: 0x009E [0x48] [System] [7447*]:
     → "You find $0, but you cannot carry any more temporary items."
  27: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00A2 [0x03] ExtData[1]->WorkLocal[17] = 1*
  29: 0x00A7 [0x01] GOTO 0x00BE
  30: 0x00AA [0x02] IF !(ExtData[1]->WorkLocal[18] == 2*) GOTO 0x00BE
- 31: 0x00B2 [0x48] [System] [7446*]:
+ 31: 0x00B2 [0x48] [System] [7448*]:
     → "You find $0, but you cannot carry more than one of that temporary item."
  32: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00B6 [0x03] ExtData[1]->WorkLocal[17] = 3*
@@ -496,7 +496,7 @@ SUBROUTINE_00BE:
 SUBROUTINE_00FF:
  50: 0x00FF [0x02] IF !(ExtData[1]->WorkLocal[20] == 1*) GOTO 0x010E
  51: 0x0107 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[17], bit_index_work_offset=2*, condition_work_offset=1*)
- 52: 0x010E [0x24] CREATE_DIALOG(message_id=7447*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
+ 52: 0x010E [0x24] CREATE_DIALOG(message_id=7449*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
     → "What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]"
  53: 0x0115 [0x25] WAIT_DIALOG_SELECT()
  54: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0126
@@ -556,7 +556,7 @@ SUBROUTINE_01A2:
 106: 0x01D3 [0x01] GOTO 0x01A2
 107: 0x01D6 [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[19]
 108: 0x01DB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[16], bit_index_work_offset=31*, condition_work_offset=1*)
-109: 0x01E2 [0x24] CREATE_DIALOG(message_id=7448*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+109: 0x01E2 [0x24] CREATE_DIALOG(message_id=7450*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]"
 110: 0x01E9 [0x25] WAIT_DIALOG_SELECT()
 111: 0x01EA [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x01F8

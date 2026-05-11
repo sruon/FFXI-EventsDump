@@ -35,7 +35,7 @@
 |       7 | 0x00D2      |         210 |
 |       8 | 0x00C6      |         198 |
 |       9 | 0x00C9      |         201 |
-|      10 | 0x1C72      |        7282 |
+|      10 | 0x1C74      |        7284 |
 |      11 | 0x0000      |           0 |
 |      12 | 0x5C9EB     |      379371 |
 |      13 | 0x07D5      |        2005 |
@@ -44,11 +44,11 @@
 |      16 | 0x0013      |          19 |
 |      17 | 0x00C8      |         200 |
 |      18 | 0x00B4      |         180 |
-|      19 | 0x1C7B      |        7291 |
+|      19 | 0x1C7D      |        7293 |
 
 ## String References
 
-- **7282**: Bury $3 & $3? [Yes./No.]
+- **7284**: Bury $3 & $3? [Yes./No.]
 
 ## Events
 
@@ -229,7 +229,7 @@ SUBROUTINE_0066:
   2: 0x00E3 [0x06] Work_Zone[1] = 0
   3: 0x00E6 [0x03] Work_Zone[2] = 198*
   4: 0x00EB [0x03] Work_Zone[3] = 201*
-  5: 0x00F0 [0x24] CREATE_DIALOG(message_id=7282*, default_option=1*, option_flags=0*)
+  5: 0x00F0 [0x24] CREATE_DIALOG(message_id=7284*, default_option=1*, option_flags=0*)
     → "Bury $3 & $3? [Yes./No.]"
   6: 0x00F7 [0x25] WAIT_DIALOG_SELECT()
   7: 0x00F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0108
@@ -304,7 +304,7 @@ SUBROUTINE_0108:
   7: 0x0144 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
   8: 0x0147 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x0158 [0x1C] WAIT(180* ticks)
- 10: 0x015B [0x2B] Olavia (ID: 17584479/0x010C515F) [7291*]:
+ 10: 0x015B [0x2B] Olavia (ID: 17584479/0x010C515F) [7293*]:
     → "So, you're the [guy/lady] they sent to escort me through this place. I was wondering when you'd show up. Come on. Follow me."
  11: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0163 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

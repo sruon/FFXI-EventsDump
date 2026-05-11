@@ -33,23 +33,23 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2720      |       10016 |
-|       1 | 0x2721      |       10017 |
-|       2 | 0x2722      |       10018 |
-|       3 | 0x2723      |       10019 |
-|       4 | 0x28F2      |       10482 |
-|       5 | 0x28F3      |       10483 |
-|       6 | 0x28F4      |       10484 |
-|       7 | 0x28F5      |       10485 |
-|       8 | 0x27B6      |       10166 |
-|       9 | 0x27B7      |       10167 |
-|      10 | 0x27B8      |       10168 |
+|       0 | 0x2722      |       10018 |
+|       1 | 0x2723      |       10019 |
+|       2 | 0x2724      |       10020 |
+|       3 | 0x2725      |       10021 |
+|       4 | 0x28F4      |       10484 |
+|       5 | 0x28F5      |       10485 |
+|       6 | 0x28F6      |       10486 |
+|       7 | 0x28F7      |       10487 |
+|       8 | 0x27B8      |       10168 |
+|       9 | 0x27B9      |       10169 |
+|      10 | 0x27BA      |       10170 |
 |      11 | 0x6DC4      |       28100 |
 |      12 | 0xFFFD4E28  |  4294790696 |
 |      13 | 0xFFFFD109  |  4294955273 |
 |      14 | 0x0FA1      |        4001 |
-|      15 | 0x29FA      |       10746 |
-|      16 | 0x29FB      |       10747 |
+|      15 | 0x29FC      |       10748 |
+|      16 | 0x29FD      |       10749 |
 |      17 | 0x7080      |       28800 |
 |      18 | 0xFFFD4E8C  |  4294790796 |
 |      19 | 0x0C3D      |        3133 |
@@ -57,30 +57,30 @@
 |      21 | 0xFFFD5098  |  4294791320 |
 |      22 | 0xFFFD4AA4  |  4294789796 |
 |      23 | 0xFFFD5080  |  4294791296 |
-|      24 | 0x2A14      |       10772 |
-|      25 | 0x2A15      |       10773 |
-|      26 | 0x2A16      |       10774 |
-|      27 | 0x2A10      |       10768 |
+|      24 | 0x2A16      |       10774 |
+|      25 | 0x2A17      |       10775 |
+|      26 | 0x2A18      |       10776 |
+|      27 | 0x2A12      |       10770 |
 
 ## String References
 
-- **10016**: ...
-- **10017**: ...
-- **10018**: A familiarrr scent clings to you, adventurer. The aroma of rich earth, and a fresh breeze...it brings me back to long ago.
-- **10019**: ...But these are merely the rrramblings of one whose days in the sun have long since passed. Be safe in your travels, adventurer.
-- **10166**: ... The $1...
-- **10167**: If you want to relieve your hands of the Tonberries' currrse, you must, with your $1, light the four lanterns on a darkened Altar of Rancor.
-- **10168**: But be ready, for when all four lanterns are lit...
-- **10482**: ... Rukususu...
-- **10483**: She said she was looking for a cerrrtain Iru-Kuiru...
-- **10484**: This Iru-Kuiru was banished to the Temple of Uggalepih years ago. If you want to find Rukususu, that is where you should start searching.
-- **10485**: If you want to find Rukususu, go to the Temple of Uggalepih. That is all I have to tell you.
-- **10746**: Go to the hill overlooking the waterfall in the east of the Yuhtunga Jungle...
-- **10747**: You will see that he doesn't employ the help of other adventurers, or use any other devious tactics...
-- **10768**: If you give the guard at the door $1, $2, and $3, you should be allowed to ask a few questions.
-- **10772**: In the ancient past, the god that abides within the crystal of darkness awoke...
-- **10773**: The deity was led again into slumber by the light of a certain box.
-- **10774**: Tales of this box will surely be known to Kamui, the aged officer that attends Gilgamesh...
+- **10018**: ...
+- **10019**: ...
+- **10020**: A familiarrr scent clings to you, adventurer. The aroma of rich earth, and a fresh breeze...it brings me back to long ago.
+- **10021**: ...But these are merely the rrramblings of one whose days in the sun have long since passed. Be safe in your travels, adventurer.
+- **10168**: ... The $1...
+- **10169**: If you want to relieve your hands of the Tonberries' currrse, you must, with your $1, light the four lanterns on a darkened Altar of Rancor.
+- **10170**: But be ready, for when all four lanterns are lit...
+- **10484**: ... Rukususu...
+- **10485**: She said she was looking for a cerrrtain Iru-Kuiru...
+- **10486**: This Iru-Kuiru was banished to the Temple of Uggalepih years ago. If you want to find Rukususu, that is where you should start searching.
+- **10487**: If you want to find Rukususu, go to the Temple of Uggalepih. That is all I have to tell you.
+- **10748**: Go to the hill overlooking the waterfall in the east of the Yuhtunga Jungle...
+- **10749**: You will see that he doesn't employ the help of other adventurers, or use any other devious tactics...
+- **10770**: If you give the guard at the door $1, $2, and $3, you should be allowed to ask a few questions.
+- **10774**: In the ancient past, the god that abides within the crystal of darkness awoke...
+- **10775**: The deity was led again into slumber by the light of a certain box.
+- **10776**: Tales of this box will surely be known to Kamui, the aged officer that attends Gilgamesh...
 
 ## Events
 
@@ -128,7 +128,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10016*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10018*)
     → "..."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -159,13 +159,13 @@
   0: 0x0010 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0015 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0016 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10017*)
+  3: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10019*)
     → "..."
   4: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10018*)
+  5: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10020*)
     → "A familiarrr scent clings to you, adventurer. The aroma of rich earth, and a fresh breeze...it brings me back to long ago."
   6: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10019*)
+  7: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10021*)
     → "...But these are merely the rrramblings of one whose days in the sun have long since passed. Be safe in your travels, adventurer."
   8: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0023 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -197,13 +197,13 @@
   1: 0x0028 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x002D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x002E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10482*)
+  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10484*)
     → "... Rukususu..."
   5: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=10483*)
+  6: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=10485*)
     → "She said she was looking for a cerrrtain Iru-Kuiru..."
   7: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=10484*)
+  8: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=10486*)
     → "This Iru-Kuiru was banished to the Temple of Uggalepih years ago. If you want to find Rukususu, that is where you should start searching."
   9: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x003B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -234,7 +234,7 @@
   0: 0x003F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0044 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0045 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=10485*)
+  3: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=10487*)
     → "If you want to find Rukususu, go to the Temple of Uggalepih. That is all I have to tell you."
   4: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x004A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -266,13 +266,13 @@
   0: 0x004E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0053 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0054 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=10166*)
+  3: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=10168*)
     → "... The $1..."
   4: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=10167*)
+  5: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=10169*)
     → "If you want to relieve your hands of the Tonberries' currrse, you must, with your $1, light the four lanterns on a darkened Altar of Rancor."
   6: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=10168*)
+  7: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=10170*)
     → "But be ready, for when all four lanterns are lit..."
   8: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0061 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -351,10 +351,10 @@
   0: 0x0078 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x007D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=10746*)
+  3: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=10748*)
     → "Go to the hill overlooking the waterfall in the east of the Yuhtunga Jungle..."
   4: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=10747*)
+  5: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=10749*)
     → "You will see that he doesn't employ the help of other adventurers, or use any other devious tactics..."
   6: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0087 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -515,16 +515,16 @@
   0: 0x00CB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00D0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00D1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10772*)
+  3: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
     → "In the ancient past, the god that abides within the crystal of darkness awoke..."
   4: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10773*)
+  5: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
     → "The deity was led again into slumber by the light of a certain box."
   6: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
+  7: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
     → "Tales of this box will surely be known to Kamui, the aged officer that attends Gilgamesh..."
   8: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=10768*)
+  9: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=10770*)
     → "If you give the guard at the door $1, $2, and $3, you should be allowed to ask a few questions."
  10: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00E2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -59,64 +59,64 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0029      |          41 |
-|       3 | 0x1F2D      |        7981 |
-|       4 | 0x1F2E      |        7982 |
-|       5 | 0x1F2F      |        7983 |
-|       6 | 0x1F30      |        7984 |
-|       7 | 0x1F31      |        7985 |
-|       8 | 0x1F32      |        7986 |
-|       9 | 0x1F33      |        7987 |
-|      10 | 0x1F34      |        7988 |
-|      11 | 0x1F35      |        7989 |
-|      12 | 0x1F36      |        7990 |
-|      13 | 0x1F37      |        7991 |
-|      14 | 0x1F38      |        7992 |
-|      15 | 0x1F39      |        7993 |
-|      16 | 0x1F3A      |        7994 |
-|      17 | 0x1F3B      |        7995 |
-|      18 | 0x1F3C      |        7996 |
-|      19 | 0x1F3D      |        7997 |
-|      20 | 0x1F3E      |        7998 |
-|      21 | 0x1F58      |        8024 |
-|      22 | 0x1F59      |        8025 |
-|      23 | 0x1F5A      |        8026 |
+|       3 | 0x1F2F      |        7983 |
+|       4 | 0x1F30      |        7984 |
+|       5 | 0x1F31      |        7985 |
+|       6 | 0x1F32      |        7986 |
+|       7 | 0x1F33      |        7987 |
+|       8 | 0x1F34      |        7988 |
+|       9 | 0x1F35      |        7989 |
+|      10 | 0x1F36      |        7990 |
+|      11 | 0x1F37      |        7991 |
+|      12 | 0x1F38      |        7992 |
+|      13 | 0x1F39      |        7993 |
+|      14 | 0x1F3A      |        7994 |
+|      15 | 0x1F3B      |        7995 |
+|      16 | 0x1F3C      |        7996 |
+|      17 | 0x1F3D      |        7997 |
+|      18 | 0x1F3E      |        7998 |
+|      19 | 0x1F3F      |        7999 |
+|      20 | 0x1F40      |        8000 |
+|      21 | 0x1F5A      |        8026 |
+|      22 | 0x1F5B      |        8027 |
+|      23 | 0x1F5C      |        8028 |
 |      24 | 0x00C8      |         200 |
 |      25 | 0x0000      |           0 |
-|      26 | 0x1F5B      |        8027 |
-|      27 | 0x1F5C      |        8028 |
-|      28 | 0x1F5D      |        8029 |
-|      29 | 0x1F5E      |        8030 |
-|      30 | 0x1F5F      |        8031 |
+|      26 | 0x1F5D      |        8029 |
+|      27 | 0x1F5E      |        8030 |
+|      28 | 0x1F5F      |        8031 |
+|      29 | 0x1F60      |        8032 |
+|      30 | 0x1F61      |        8033 |
 |      31 | 0x00C9      |         201 |
 
 ## String References
 
-- **7981**: I, Orsa-Porsa, am one of Adoulin's most accomplished botanistarus! And, yes, we do more than just pick flowers! Botany's a lot more dangerous than it looks!
-- **7982**: My work is too dangerous for anyone who's not a licensed pioneer to assistaru me.
-- **7983**: Oh-ho! A pioneer, here to visitaru me! And at the most opportune of moments!
-- **7984**: If you've been here before, then you know all about the hotaru springs throughout the basalt fields. But did you know that there's this creepy old man hanging around lately?
-- **7985**: I keep thinking, "Orsa-Porsa, it's not for you to judge"--but come on! This placey-wace hasn't even been fully colonized yet!
-- **7986**: I would tell him to go home, but, erm...I haven't actually metaru the guy.
-- **7987**: But it got me to thinking...wouldn't it be the bestaru if I had $1, $2, and $3?
-- **7988**: When you think of hot springs, what do you think of? That's right, eggs and milk! ...Why are you looking at me like that? You boil the eggs in the hot springs, and wash them down with a tall glassy-wass of milk!
-- **7989**: And to think, a pioneer appears before me right as my tummy-wummy starts rumbling. It's a sign from Altana herself!
-- **7990**: You are preordained to bring me $1, $2, and $3! Then we'll be able to catch that old man for sure!
-- **7991**: Don't forgetaru what I need--$1, $2, and $3!
-- **7992**: Oh, what a wonderful pioneer you are. Blazing a trail not just in the basaltaru fields, but all the way back to the kitchen, too!
-- **7993**: Now all we need to do is put the eggs and milk in this proverbial basketaru...
-- **7994**: Bring it to the hot springs, and see if we can't catchy-watch ourselves a creepy old man!
-- **7995**: But if you're going to go to the hot springs, you'll have to look the partaru. That's right--strip down to your birthday suit and hop right in there.
-- **7996**: Oh, I almost forgot! Fallio, my partner in crime, has narrow-warrowed down the location where he thinks you'll be able to find the guy.
-- **7997**: Do you have a mappy-wap? Here, let me show you. There. Right around H-7.
-- **7998**: The hot springs pertinentaru to the task at hand are located around H-7 here in Morimar. Just jump right in and wait!
-- **8024**: Wh-wh-what!? You actually metaru the guy?
-- **8025**: I mean, this was all within my meticulous-wiculous calculations. However, I knew that the proper reaction was to actaru surprised, so I...uh...did.
-- **8026**: So tell me, tell me! Who was he? What was he doing in the hotaru springs?
-- **8027**: ...Is that all? No primitive tribesman taking a break from the huntaru? No spy from the Middle Lands come to investigataru our progress? Aww...I had such high hopes, too!
-- **8028**: Still, there's something bother-wothering me.
-- **8029**: Forget all this nonsense about "fun" and "excitement." What I wantaru to know is how you could stand such temperatures for so long!
-- **8030**: C-could it be the glorious evolution!? Mankind making his firstaru steps toward something greater!?
-- **8031**: You, <Player>, are a [man among men/woman among women]! A true hot springs mountaineer!
+- **7983**: I, Orsa-Porsa, am one of Adoulin's most accomplished botanistarus! And, yes, we do more than just pick flowers! Botany's a lot more dangerous than it looks!
+- **7984**: My work is too dangerous for anyone who's not a licensed pioneer to assistaru me.
+- **7985**: Oh-ho! A pioneer, here to visitaru me! And at the most opportune of moments!
+- **7986**: If you've been here before, then you know all about the hotaru springs throughout the basalt fields. But did you know that there's this creepy old man hanging around lately?
+- **7987**: I keep thinking, "Orsa-Porsa, it's not for you to judge"--but come on! This placey-wace hasn't even been fully colonized yet!
+- **7988**: I would tell him to go home, but, erm...I haven't actually metaru the guy.
+- **7989**: But it got me to thinking...wouldn't it be the bestaru if I had $1, $2, and $3?
+- **7990**: When you think of hot springs, what do you think of? That's right, eggs and milk! ...Why are you looking at me like that? You boil the eggs in the hot springs, and wash them down with a tall glassy-wass of milk!
+- **7991**: And to think, a pioneer appears before me right as my tummy-wummy starts rumbling. It's a sign from Altana herself!
+- **7992**: You are preordained to bring me $1, $2, and $3! Then we'll be able to catch that old man for sure!
+- **7993**: Don't forgetaru what I need--$1, $2, and $3!
+- **7994**: Oh, what a wonderful pioneer you are. Blazing a trail not just in the basaltaru fields, but all the way back to the kitchen, too!
+- **7995**: Now all we need to do is put the eggs and milk in this proverbial basketaru...
+- **7996**: Bring it to the hot springs, and see if we can't catchy-watch ourselves a creepy old man!
+- **7997**: But if you're going to go to the hot springs, you'll have to look the partaru. That's right--strip down to your birthday suit and hop right in there.
+- **7998**: Oh, I almost forgot! Fallio, my partner in crime, has narrow-warrowed down the location where he thinks you'll be able to find the guy.
+- **7999**: Do you have a mappy-wap? Here, let me show you. There. Right around H-7.
+- **8000**: The hot springs pertinentaru to the task at hand are located around H-7 here in Morimar. Just jump right in and wait!
+- **8026**: Wh-wh-what!? You actually metaru the guy?
+- **8027**: I mean, this was all within my meticulous-wiculous calculations. However, I knew that the proper reaction was to actaru surprised, so I...uh...did.
+- **8028**: So tell me, tell me! Who was he? What was he doing in the hotaru springs?
+- **8029**: ...Is that all? No primitive tribesman taking a break from the huntaru? No spy from the Middle Lands come to investigataru our progress? Aww...I had such high hopes, too!
+- **8030**: Still, there's something bother-wothering me.
+- **8031**: Forget all this nonsense about "fun" and "excitement." What I wantaru to know is how you could stand such temperatures for so long!
+- **8032**: C-could it be the glorious evolution!? Mankind making his firstaru steps toward something greater!?
+- **8033**: You, <Player>, are a [man among men/woman among women]! A true hot springs mountaineer!
 
 ## Events
 
@@ -862,7 +862,7 @@
   1: 0x01B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x01)
-  4: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
+  4: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
     → "I, Orsa-Porsa, am one of Adoulin's most accomplished botanistarus! And, yes, we do more than just pick flowers! Botany's a lot more dangerous than it looks!"
   5: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x02)
@@ -895,7 +895,7 @@
   1: 0x01D5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x01)
-  4: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
+  4: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
     → "My work is too dangerous for anyone who's not a licensed pioneer to assistaru me."
   5: 0x01E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x02)
@@ -937,40 +937,40 @@
   2: 0x01F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x04)
-  5: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
+  5: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
     → "Oh-ho! A pioneer, here to visitaru me! And at the most opportune of moments!"
   6: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
+  7: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "If you've been here before, then you know all about the hotaru springs throughout the basalt fields. But did you know that there's this creepy old man hanging around lately?"
   8: 0x0203 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0204 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x05)
  10: 0x020B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x0E)
- 11: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+ 11: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
     → "I keep thinking, "Orsa-Porsa, it's not for you to judge"--but come on! This placey-wace hasn't even been fully colonized yet!"
  12: 0x0215 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0216 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x0F)
  14: 0x021D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x10)
- 15: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
+ 15: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "I would tell him to go home, but, erm...I haven't actually metaru the guy."
  16: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0228 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x11)
  18: 0x022F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x06)
- 19: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+ 19: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
     → "But it got me to thinking...wouldn't it be the bestaru if I had $1, $2, and $3?"
  20: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x023A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x07)
  22: 0x0241 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x08)
  23: 0x0248 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x09)
  24: 0x024F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x0C)
- 25: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
+ 25: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
     → "When you think of hot springs, what do you think of? That's right, eggs and milk! ...Why are you looking at me like that? You boil the eggs in the hot springs, and wash them down with a tall glassy-wass of milk!"
  26: 0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
+ 27: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "And to think, a pioneer appears before me right as my tummy-wummy starts rumbling. It's a sign from Altana herself!"
  28: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x025E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x0D)
  30: 0x0265 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x04)
- 31: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+ 31: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "You are preordained to bring me $1, $2, and $3! Then we'll be able to catch that old man for sure!"
  32: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0270 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x05)
@@ -1004,7 +1004,7 @@
   1: 0x0280 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0281 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0282 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x04)
-  4: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+  4: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "Don't forgetaru what I need--$1, $2, and $3!"
   5: 0x028C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x028D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x05)
@@ -1044,30 +1044,30 @@
   2: 0x029E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x029F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x02A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x1C)
-  5: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+  5: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
     → "Oh, what a wonderful pioneer you are. Blazing a trail not just in the basaltaru fields, but all the way back to the kitchen, too!"
   6: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x1D)
   8: 0x02B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x16)
-  9: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
+  9: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
     → "Now all we need to do is put the eggs and milk in this proverbial basketaru..."
  10: 0x02BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x02BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x17)
  12: 0x02C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x12)
- 13: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
+ 13: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
     → "Bring it to the hot springs, and see if we can't catchy-watch ourselves a creepy old man!"
  14: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x02CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x13)
  16: 0x02D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x0C)
- 17: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
+ 17: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
     → "But if you're going to go to the hot springs, you'll have to look the partaru. That's right--strip down to your birthday suit and hop right in there."
  18: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x02E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x0D)
  20: 0x02E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x04)
- 21: 0x02EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
+ 21: 0x02EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
     → "Oh, I almost forgot! Fallio, my partner in crime, has narrow-warrowed down the location where he thinks you'll be able to find the guy."
  22: 0x02F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x02F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
+ 23: 0x02F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
     → "Do you have a mappy-wap? Here, let me show you. There. Right around H-7."
  24: 0x02F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x02F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x05)
@@ -1100,7 +1100,7 @@
   1: 0x0307 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0308 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0309 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x04)
-  4: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
+  4: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
     → "The hot springs pertinentaru to the task at hand are located around H-7 here in Morimar. Just jump right in and wait!"
   5: 0x0313 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0314 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x05)
@@ -1146,15 +1146,15 @@
   2: 0x0325 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0326 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0327 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x0A)
-  5: 0x032E [0x1D] PRINT_EVENT_MESSAGE(message_id=8024*)
+  5: 0x032E [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
     → "Wh-wh-what!? You actually metaru the guy?"
   6: 0x0331 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0332 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x0B)
   8: 0x0339 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x0E)
-  9: 0x0340 [0x1D] PRINT_EVENT_MESSAGE(message_id=8025*)
+  9: 0x0340 [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
     → "I mean, this was all within my meticulous-wiculous calculations. However, I knew that the proper reaction was to actaru surprised, so I...uh...did."
  10: 0x0343 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
+ 11: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
     → "So tell me, tell me! Who was he? What was he doing in the hotaru springs?"
  12: 0x0347 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0348 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1163,23 +1163,23 @@
  16: 0x036F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x0380 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  18: 0x038F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x10)
- 19: 0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
+ 19: 0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
     → "...Is that all? No primitive tribesman taking a break from the huntaru? No spy from the Middle Lands come to investigataru our progress? Aww...I had such high hopes, too!"
  20: 0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
+ 21: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=8030*)
     → "Still, there's something bother-wothering me."
  22: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x039E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x11)
  24: 0x03A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x14)
- 25: 0x03AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
+ 25: 0x03AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
     → "Forget all this nonsense about "fun" and "excitement." What I wantaru to know is how you could stand such temperatures for so long!"
  26: 0x03AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x03B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x15)
  28: 0x03B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x16)
- 29: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8030*)
+ 29: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8032*)
     → "C-could it be the glorious evolution!? Mankind making his firstaru steps toward something greater!?"
  30: 0x03C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x03C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
+ 31: 0x03C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8033*)
     → "You, <Player>, are a [man among men/woman among women]! A true hot springs mountaineer!"
  32: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x03C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x17)
@@ -1213,7 +1213,7 @@
   1: 0x03E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x16)
-  4: 0x03F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
+  4: 0x03F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8033*)
     → "You, <Player>, are a [man among men/woman among women]! A true hot springs mountaineer!"
   5: 0x03F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17863433/0x01109309), tag_num=0x17)

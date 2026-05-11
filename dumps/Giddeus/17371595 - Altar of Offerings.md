@@ -21,15 +21,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CAF      |        7343 |
-|       1 | 0x1CAD      |        7341 |
+|       0 | 0x1CB1      |        7345 |
+|       1 | 0x1CAF      |        7343 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 
 ## String References
 
-- **7341**: An offering from Windurst sits here. [Retrieve the offering./Leave it alone.]
-- **7343**: There is an offering bag with the seal of Windurst on it.
+- **7343**: An offering from Windurst sits here. [Retrieve the offering./Leave it alone.]
+- **7345**: There is an offering bag with the seal of Windurst on it.
 
 ## Events
 
@@ -74,7 +74,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7343*]:
+  0: 0x0001 [0x48] [System] [7345*]:
     → "There is an offering bag with the seal of Windurst on it."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -103,7 +103,7 @@
 
 ```
   0: 0x0007 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0008 [0x24] CREATE_DIALOG(message_id=7341*, default_option=1*, option_flags=0*)
+  1: 0x0008 [0x24] CREATE_DIALOG(message_id=7343*, default_option=1*, option_flags=0*)
     → "An offering from Windurst sits here. [Retrieve the offering./Leave it alone.]"
   2: 0x000F [0x25] WAIT_DIALOG_SELECT()
   3: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0020

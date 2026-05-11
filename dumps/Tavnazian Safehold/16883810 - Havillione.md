@@ -21,22 +21,22 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B2B      |       11051 |
+|       0 | 0x2B2D      |       11053 |
 |       1 | 0x0023      |          35 |
-|       2 | 0x2B2C      |       11052 |
-|       3 | 0x2B2D      |       11053 |
-|       4 | 0x2B6F      |       11119 |
-|       5 | 0x2B70      |       11120 |
-|       6 | 0x2B71      |       11121 |
+|       2 | 0x2B2E      |       11054 |
+|       3 | 0x2B2F      |       11055 |
+|       4 | 0x2B71      |       11121 |
+|       5 | 0x2B72      |       11122 |
+|       6 | 0x2B73      |       11123 |
 
 ## String References
 
-- **11051**: Young folk these days have become blind to the light of Altana.
-- **11052**: They do not realize it is her blessing that fills this well with water for us to drink...
-- **11053**: May Altana have mercy on their pitiful souls!
-- **11119**: The elder Despachiaire's granddaughter has the most magnificent voice. It is as if you were hearing the whisper of the Dawn Goddess herself.
-- **11120**: However, I remember there being another young girl in the Tavnazian choir who was just as talented as Lady Ulmia.
-- **11121**: If only little Emeline had survived the beastman attack.
+- **11053**: Young folk these days have become blind to the light of Altana.
+- **11054**: They do not realize it is her blessing that fills this well with water for us to drink...
+- **11055**: May Altana have mercy on their pitiful souls!
+- **11121**: The elder Despachiaire's granddaughter has the most magnificent voice. It is as if you were hearing the whisper of the Dawn Goddess herself.
+- **11122**: However, I remember there being another young girl in the Tavnazian choir who was just as talented as Lady Ulmia.
+- **11123**: If only little Emeline had survived the beastman attack.
 
 ## Events
 
@@ -85,15 +85,15 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11051*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11053*)
     → "Young folk these days have become blind to the light of Altana."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=35*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11052*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11054*)
     → "They do not realize it is her blessing that fills this well with water for us to drink..."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=35*
-  7: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=11053*)
+  7: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=11055*)
     → "May Altana have mercy on their pitiful souls!"
   8: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0030 [0x21] END_EVENT
@@ -123,15 +123,15 @@
 
 ```
   0: 0x0032 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11119*)
+  1: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11121*)
     → "The elder Despachiaire's granddaughter has the most magnificent voice. It is as if you were hearing the whisper of the Dawn Goddess herself."
   2: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x003B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=35*
-  4: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=11120*)
+  4: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=11122*)
     → "However, I remember there being another young girl in the Tavnazian choir who was just as talented as Lady Ulmia."
   5: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=35*
-  7: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=11121*)
+  7: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=11123*)
     → "If only little Emeline had survived the beastman attack."
   8: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0061 [0x21] END_EVENT

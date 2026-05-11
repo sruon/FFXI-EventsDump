@@ -21,20 +21,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1DA8      |        7592 |
-|       2 | 0x1DAB      |        7595 |
+|       1 | 0x1DAA      |        7594 |
+|       2 | 0x1DAD      |        7597 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x1DA9      |        7593 |
-|       6 | 0x1DAA      |        7594 |
+|       5 | 0x1DAB      |        7595 |
+|       6 | 0x1DAC      |        7596 |
 |       7 | 0x0003      |           3 |
 
 ## String References
 
-- **7592**: Ribbit... Ribbit...
-- **7593**: Ribbit... <Chomp>!
-- **7594**: The Poroggo's eyes narrow as what appears to be a smile stretches across his face. He seems pleased.
-- **7595**: The Poroggo's eyes dart about restlessly. He appears to be searching for something to eat.
+- **7594**: Ribbit... Ribbit...
+- **7595**: Ribbit... <Chomp>!
+- **7596**: The Poroggo's eyes narrow as what appears to be a smile stretches across his face. He seems pleased.
+- **7597**: The Poroggo's eyes dart about restlessly. He appears to be searching for something to eat.
 
 ## Events
 
@@ -107,51 +107,51 @@
   8: 0x001B [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
   9: 0x0020 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0112
  10: 0x0028 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x003B
- 11: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+ 11: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "Ribbit... Ribbit..."
  12: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0034 [0x48] [System] [7595*]:
+ 13: 0x0034 [0x48] [System] [7597*]:
     → "The Poroggo's eyes dart about restlessly. He appears to be searching for something to eat."
  14: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0038 [0x01] GOTO 0x010F
  16: 0x003B [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x004E
- 17: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+ 17: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "Ribbit... Ribbit..."
  18: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0047 [0x48] [System] [7595*]:
+ 19: 0x0047 [0x48] [System] [7597*]:
     → "The Poroggo's eyes dart about restlessly. He appears to be searching for something to eat."
  20: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x004B [0x01] GOTO 0x010F
  22: 0x004E [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x010F
  23: 0x0056 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0069
- 24: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+ 24: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "Ribbit... Ribbit..."
  25: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0062 [0x48] [System] [7595*]:
+ 26: 0x0062 [0x48] [System] [7597*]:
     → "The Poroggo's eyes dart about restlessly. He appears to be searching for something to eat."
  27: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0066 [0x01] GOTO 0x010C
  29: 0x0069 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x00A2
  30: 0x0071 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0084
- 31: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
+ 31: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "Ribbit... <Chomp>!"
  32: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x007D [0x48] [System] [7594*]:
+ 33: 0x007D [0x48] [System] [7596*]:
     → "The Poroggo's eyes narrow as what appears to be a smile stretches across his face. He seems pleased."
  34: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0081 [0x01] GOTO 0x009F
  36: 0x0084 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0097
- 37: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
+ 37: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "Ribbit... <Chomp>!"
  38: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0090 [0x48] [System] [7594*]:
+ 39: 0x0090 [0x48] [System] [7596*]:
     → "The Poroggo's eyes narrow as what appears to be a smile stretches across his face. He seems pleased."
  40: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0094 [0x01] GOTO 0x009F
- 42: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+ 42: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "Ribbit... Ribbit..."
  43: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x009B [0x48] [System] [7595*]:
+ 44: 0x009B [0x48] [System] [7597*]:
     → "The Poroggo's eyes dart about restlessly. He appears to be searching for something to eat."
  45: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -159,22 +159,22 @@ SUBROUTINE_009F:
  46: 0x009F [0x01] GOTO 0x010C
  47: 0x00A2 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x00D7
  48: 0x00AA [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x00B9
- 49: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
+ 49: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
     → "The Poroggo's eyes narrow as what appears to be a smile stretches across his face. He seems pleased."
  50: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00B6 [0x01] GOTO 0x00D4
  52: 0x00B9 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x00CC
- 53: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
+ 53: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "Ribbit... <Chomp>!"
  54: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x00C5 [0x48] [System] [7594*]:
+ 55: 0x00C5 [0x48] [System] [7596*]:
     → "The Poroggo's eyes narrow as what appears to be a smile stretches across his face. He seems pleased."
  56: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x00C9 [0x01] GOTO 0x00D4
- 58: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+ 58: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "Ribbit... Ribbit..."
  59: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x00D0 [0x48] [System] [7595*]:
+ 60: 0x00D0 [0x48] [System] [7597*]:
     → "The Poroggo's eyes dart about restlessly. He appears to be searching for something to eat."
  61: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -182,22 +182,22 @@ SUBROUTINE_00D4:
  62: 0x00D4 [0x01] GOTO 0x010C
  63: 0x00D7 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x010C
  64: 0x00DF [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x00EE
- 65: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
+ 65: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
     → "The Poroggo's eyes narrow as what appears to be a smile stretches across his face. He seems pleased."
  66: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x00EB [0x01] GOTO 0x0109
  68: 0x00EE [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0101
- 69: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
+ 69: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "Ribbit... <Chomp>!"
  70: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x00FA [0x48] [System] [7594*]:
+ 71: 0x00FA [0x48] [System] [7596*]:
     → "The Poroggo's eyes narrow as what appears to be a smile stretches across his face. He seems pleased."
  72: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x00FE [0x01] GOTO 0x0109
- 74: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+ 74: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "Ribbit... Ribbit..."
  75: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x0105 [0x48] [System] [7595*]:
+ 76: 0x0105 [0x48] [System] [7597*]:
     → "The Poroggo's eyes dart about restlessly. He appears to be searching for something to eat."
  77: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -209,10 +209,10 @@ SUBROUTINE_010C:
 
 SUBROUTINE_010F:
  80: 0x010F [0x01] GOTO 0x011A
- 81: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+ 81: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "Ribbit... Ribbit..."
  82: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x0116 [0x48] [System] [7595*]:
+ 83: 0x0116 [0x48] [System] [7597*]:
     → "The Poroggo's eyes dart about restlessly. He appears to be searching for something to eat."
  84: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

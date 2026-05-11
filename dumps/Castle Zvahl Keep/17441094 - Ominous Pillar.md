@@ -22,30 +22,30 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x1C64      |        7268 |
-|       3 | 0x1C65      |        7269 |
+|       2 | 0x1C66      |        7270 |
+|       3 | 0x1C67      |        7271 |
 |       4 | 0x0484      |        1156 |
-|       5 | 0x1C66      |        7270 |
-|       6 | 0x1C67      |        7271 |
-|       7 | 0x1C69      |        7273 |
-|       8 | 0x1C6A      |        7274 |
-|       9 | 0x1C6B      |        7275 |
+|       5 | 0x1C68      |        7272 |
+|       6 | 0x1C69      |        7273 |
+|       7 | 0x1C6B      |        7275 |
+|       8 | 0x1C6C      |        7276 |
+|       9 | 0x1C6D      |        7277 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x0003      |           3 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x1C68      |        7272 |
+|      13 | 0x1C6A      |        7274 |
 |      14 | 0x0487      |        1159 |
-|      15 | 0x1C6F      |        7279 |
-|      16 | 0x1C70      |        7280 |
-|      17 | 0x1C71      |        7281 |
+|      15 | 0x1C71      |        7281 |
+|      16 | 0x1C72      |        7282 |
+|      17 | 0x1C73      |        7283 |
 |      18 | 0x0004      |           4 |
-|      19 | 0x1C72      |        7282 |
-|      20 | 0x1C73      |        7283 |
-|      21 | 0x1C74      |        7284 |
+|      19 | 0x1C74      |        7284 |
+|      20 | 0x1C75      |        7285 |
+|      21 | 0x1C76      |        7286 |
 
 ## String References
 
-- **7271**: How about it? [Let's do it./Do your own job.]
+- **7273**: How about it? [Let's do it./Do your own job.]
 
 ## Events
 
@@ -114,35 +114,35 @@
   4: 0x000E [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   5: 0x0013 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Stooge Moogle (ID: 17441099/0x010A214B), tag_num=0x06)
   6: 0x001A [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0097
-  7: 0x0022 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7268*]:
+  7: 0x0022 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7270*]:
     → "Greetings, friend, and welcome to the Mog Merchants Extraordinaire! Here, you can exchange your hard-earned kupons for all sorts of stupendous souvenirs!"
   8: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002A [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7269*]:
+  9: 0x002A [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7271*]:
     → "...Or so we thought, kupo. Sadly, it seems that my cohorts are slacking off on the job. They're nowhere to be found!"
  10: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0032 [0x03] Work_Zone[2] = 1156*
- 12: 0x0037 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7270*]:
+ 12: 0x0037 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7272*]:
     → "Unless they come back, I fear that your $3 is nothing but a worthless scrap of parchment. I know! Perhaps you could help me track them down, kupo?"
  13: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x003F [0x24] CREATE_DIALOG(message_id=7271*, default_option=1*, option_flags=0*)
+ 14: 0x003F [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
     → "How about it? [Let's do it./Do your own job.]"
  15: 0x0046 [0x25] WAIT_DIALOG_SELECT()
  16: 0x0047 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0081
- 17: 0x004F [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7273*]:
+ 17: 0x004F [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7275*]:
     → "Oh, a thousand thank-yous, kind adventurer! Without my accomplices--er, associates--the boss's plans will all be for naught! I mean, our customers will be distraught, kupo!"
  18: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0057 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 20: 0x005C [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7274*]:
+ 20: 0x005C [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7276*]:
     → "<Ahem>! As I was saying... I'd be ever so grateful if you could find our [horticulturist/ironmonger/pyrotechnician/pawnbroker], [Kupatete/Kupignol/Kupuckl/Kupert], and escort [her/his/his/his] procrastinating moogle posterior back to work."
  21: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0064 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7275*]:
+ 22: 0x0064 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7277*]:
     → "They're far too lazy to have ventured outside this keep, so you should be able to find them loafing around here somewhere, kupo."
  23: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x006C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=1*)
  25: 0x0075 [0x40] SET_BIT_WORK_RANGE(start_bit=3*, end_bit=5*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[1])
  26: 0x007E [0x01] GOTO 0x0094
  27: 0x0081 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0094
- 28: 0x0089 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7272*]:
+ 28: 0x0089 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7274*]:
     → "Hmph. Fine, be that way! No fur off my nose, kupo. That's one less prize wasted on an ungrateful adventurer."
  29: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0091 [0x01] GOTO 0x0094
@@ -151,38 +151,38 @@ SUBROUTINE_0094:
  31: 0x0094 [0x01] GOTO 0x0114
  32: 0x0097 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x00B7
  33: 0x009F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 34: 0x00A4 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7274*]:
+ 34: 0x00A4 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7276*]:
     → "<Ahem>! As I was saying... I'd be ever so grateful if you could find our [horticulturist/ironmonger/pyrotechnician/pawnbroker], [Kupatete/Kupignol/Kupuckl/Kupert], and escort [her/his/his/his] procrastinating moogle posterior back to work."
  35: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x00AC [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7275*]:
+ 36: 0x00AC [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7277*]:
     → "They're far too lazy to have ventured outside this keep, so you should be able to find them loafing around here somewhere, kupo."
  37: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x00B4 [0x01] GOTO 0x0114
  39: 0x00B7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x00DF
  40: 0x00BF [0x03] Work_Zone[3] = 1159*
- 41: 0x00C4 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7279*]:
+ 41: 0x00C4 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7281*]:
     → "Just don't tell the boss I was sleeping on the job. Deal, kupo? In return, that $3 will allow you to take part in this festival's grand finale..."
  42: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x00CC [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7280*]:
+ 43: 0x00CC [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7282*]:
     → "The Mega Mog Bonanza-Rama-Palooza! Doesn't that name positively scream "excitement"!?"
  44: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x00D4 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7281*]:
+ 45: 0x00D4 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7283*]:
     → "What's even more exciting are the exclusive prizes you could win, kupo. If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
  46: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x00DC [0x01] GOTO 0x0114
  48: 0x00DF [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0114
- 49: 0x00E7 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7268*]:
+ 49: 0x00E7 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7270*]:
     → "Greetings, friend, and welcome to the Mog Merchants Extraordinaire! Here, you can exchange your hard-earned kupons for all sorts of stupendous souvenirs!"
  50: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00EF [0x03] Work_Zone[2] = 1156*
- 52: 0x00F4 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7282*]:
+ 52: 0x00F4 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7284*]:
     → "Welcome to the Mog Merchants Extraordinaire souvenir shop, where you can exchange that hard-earned $3 of yours for scores of spectacular prizes!"
  53: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00FC [0x03] Work_Zone[2] = 1156*
- 55: 0x0101 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7283*]:
+ 55: 0x0101 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7285*]:
     → "What's that? You don't have a $3!? Er...then just forget I said anything, kupo!"
  56: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x0109 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7284*]:
+ 57: 0x0109 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7286*]:
     → "Or, if you fancy yourself to have nerves of darksteel...! The courage to look fear in the eye and make it your master...! You could go win yourself one at our event in the castle baileys! Do you have it in you, kupo!?"
  58: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0111 [0x01] GOTO 0x0114

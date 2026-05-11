@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E54      |        7764 |
+|       0 | 0x1E56      |        7766 |
 |       1 | 0x00C9      |         201 |
 |       2 | 0x0000      |           0 |
 
 ## String References
 
-- **7764**: You dipped the $0 into the spring water. Letters appeared on the scroll!
+- **7766**: You dipped the $0 into the spring water. Letters appeared on the scroll!
 
 ## Events
 
@@ -72,7 +72,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7764*]:
+  0: 0x0001 [0x48] [System] [7766*]:
     → "You dipped the $0 into the spring water. Letters appeared on the scroll!"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

@@ -22,7 +22,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0015      |          21 |
-|       2 | 0x1C42      |        7234 |
+|       2 | 0x1C44      |        7236 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0016      |          22 |
 |       5 | 0x0002      |           2 |
@@ -56,7 +56,7 @@
 
 ## String References
 
-- **7234**: Destination? (Currently: [/N/W/E/C] Tower, Floor $2). [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Entrance./Never mind.]
+- **7236**: Destination? (Currently: [/N/W/E/C] Tower, Floor $2). [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Entrance./Never mind.]
 
 ## Events
 
@@ -135,7 +135,7 @@
   4: 0x0012 [0x08] ExtData[1]->WorkLocal[0] -= 21*
   5: 0x0017 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   6: 0x001C [0x0B] Work_Zone[4]++
-  7: 0x001F [0x24] CREATE_DIALOG(message_id=7234*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
+  7: 0x001F [0x24] CREATE_DIALOG(message_id=7236*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
     → "Destination? (Currently: [/N/W/E/C] Tower, Floor $2). [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Entrance./Never mind.]"
   8: 0x0026 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0027 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0037

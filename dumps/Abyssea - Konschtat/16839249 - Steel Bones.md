@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F85      |        8069 |
-|       1 | 0x1F86      |        8070 |
+|       0 | 0x1F87      |        8071 |
+|       1 | 0x1F88      |        8072 |
 
 ## String References
 
-- **8069**: Abyssean fiends may look like mindless brutes, but they're actually quite adept at adapting to their surroundings. For example, strike down enough of them in a given spot, and you'll soon find their friends coming forth in great numbers.
-- **8070**: Makes you wonder who's sending in the order for reinforcements, eh? And those "friends" can get nastier and nastier... I'm speaking from experience here. Leave them alone, and they'll eventually wander off in search of other prey, though.
+- **8071**: Abyssean fiends may look like mindless brutes, but they're actually quite adept at adapting to their surroundings. For example, strike down enough of them in a given spot, and you'll soon find their friends coming forth in great numbers.
+- **8072**: Makes you wonder who's sending in the order for reinforcements, eh? And those "friends" can get nastier and nastier... I'm speaking from experience here. Leave them alone, and they'll eventually wander off in search of other prey, though.
 
 ## Events
 
@@ -72,10 +72,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8069*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8071*)
     → "Abyssean fiends may look like mindless brutes, but they're actually quite adept at adapting to their surroundings. For example, strike down enough of them in a given spot, and you'll soon find their friends coming forth in great numbers."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8070*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8072*)
     → "Makes you wonder who's sending in the order for reinforcements, eh? And those "friends" can get nastier and nastier... I'm speaking from experience here. Leave them alone, and they'll eventually wander off in search of other prey, though."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT

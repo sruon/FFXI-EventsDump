@@ -23,11 +23,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x09FD      |        2557 |
-|       1 | 0x1FB8      |        8120 |
+|       1 | 0x1FBA      |        8122 |
 
 ## String References
 
-- **8120**: The formula of porting has been laid out. After securing $0, it should transport you to the royal tomb.
+- **8122**: The formula of porting has been laid out. After securing $0, it should transport you to the royal tomb.
 
 ## Events
 
@@ -117,7 +117,7 @@
 
 ```
   0: 0x0003 [0x03] Work_Zone[2] = 2557*
-  1: 0x0008 [0x48] [System] [8120*]:
+  1: 0x0008 [0x48] [System] [8122*]:
     → "The formula of porting has been laid out. After securing $0, it should transport you to the royal tomb."
   2: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000C [0x21] END_EVENT

@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x273B      |       10043 |
+|       0 | 0x273D      |       10045 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x000A      |          10 |
 |       3 | 0x0014      |          20 |
@@ -35,7 +35,7 @@
 
 ## String References
 
-- **10043**: Behold! The sign upon this arch proclaims the existence of the auction house beyond. A bounty of food and supplies in the center of the desert! What more could one ask for in this life?
+- **10045**: Behold! The sign upon this arch proclaims the existence of the auction house beyond. A bounty of food and supplies in the center of the desert! What more could one ask for in this life?
 
 ## Events
 
@@ -96,7 +96,7 @@
 ```
   0: 0x0001 [0x1A] CALL_SUBROUTINE(address=0x000D)
   1: 0x0004 [0x1A] CALL_SUBROUTINE(address=0x008B)
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10043*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10045*)
     → "Behold! The sign upon this arch proclaims the existence of the auction house beyond. A bounty of food and supplies in the center of the desert! What more could one ask for in this life?"
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT

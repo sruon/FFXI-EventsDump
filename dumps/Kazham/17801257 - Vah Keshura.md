@@ -50,33 +50,33 @@
 |       2 | 0x0034      |          52 |
 |       3 | 0x0035      |          53 |
 |       4 | 0x001E      |          30 |
-|       5 | 0x275A      |       10074 |
-|       6 | 0x275B      |       10075 |
-|       7 | 0x2888      |       10376 |
-|       8 | 0x2889      |       10377 |
-|       9 | 0x27DE      |       10206 |
-|      10 | 0x27DF      |       10207 |
-|      11 | 0x27E0      |       10208 |
-|      12 | 0x27E1      |       10209 |
-|      13 | 0x27E2      |       10210 |
-|      14 | 0x27E3      |       10211 |
-|      15 | 0x27E4      |       10212 |
-|      16 | 0x27E5      |       10213 |
+|       5 | 0x275C      |       10076 |
+|       6 | 0x275D      |       10077 |
+|       7 | 0x288A      |       10378 |
+|       8 | 0x288B      |       10379 |
+|       9 | 0x27E0      |       10208 |
+|      10 | 0x27E1      |       10209 |
+|      11 | 0x27E2      |       10210 |
+|      12 | 0x27E3      |       10211 |
+|      13 | 0x27E4      |       10212 |
+|      14 | 0x27E5      |       10213 |
+|      15 | 0x27E6      |       10214 |
+|      16 | 0x27E7      |       10215 |
 
 ## String References
 
-- **10074**: Ah, I love how my blades shine when wielded in the moonlight.
-- **10075**: And not just shine...my daggerrrs cut so well that even the chieftainness asked me forrr one...no, two!
-- **10206**: You say you want a Tonberry knife?
-- **10207**: Hah-hah! I get it! You want to be a chef, and hearrrd that Tonberry knives are the best in Vana'diel, rrright?
-- **10208**: But there's no way even the finest chef could use one of those. They're way too dangerrrous!
-- **10209**: But if you still want one anyway, you're going to have to go to the Temple of Uggalepih. They say that there's a kitchen there where an evil chef spends his days and nights sharrrpening his knives.
-- **10210**: If you still want a Tonberry knife, you're going to have to go to the Temple of Uggalepih.
-- **10211**: You'll find plenty of knives in the kitchen, but keep a "sharrrp" lookout for the chef! Nya-ha-ha!
-- **10212**: Wow, you rrreally got one! You're the only person I know who would want to get within twenty feet of one of those.
-- **10213**: Hey, you're not going to trrry using that thing, are you?
-- **10376**: Ah, I love how my blades shine when wielded in the moonlight.
-- **10377**: But if you do not get your rrreeking tail out of my sight, I won't wait until the moon's out to show you how sharp they are.
+- **10076**: Ah, I love how my blades shine when wielded in the moonlight.
+- **10077**: And not just shine...my daggerrrs cut so well that even the chieftainness asked me forrr one...no, two!
+- **10208**: You say you want a Tonberry knife?
+- **10209**: Hah-hah! I get it! You want to be a chef, and hearrrd that Tonberry knives are the best in Vana'diel, rrright?
+- **10210**: But there's no way even the finest chef could use one of those. They're way too dangerrrous!
+- **10211**: But if you still want one anyway, you're going to have to go to the Temple of Uggalepih. They say that there's a kitchen there where an evil chef spends his days and nights sharrrpening his knives.
+- **10212**: If you still want a Tonberry knife, you're going to have to go to the Temple of Uggalepih.
+- **10213**: You'll find plenty of knives in the kitchen, but keep a "sharrrp" lookout for the chef! Nya-ha-ha!
+- **10214**: Wow, you rrreally got one! You're the only person I know who would want to get within twenty feet of one of those.
+- **10215**: Hey, you're not going to trrry using that thing, are you?
+- **10378**: Ah, I love how my blades shine when wielded in the moonlight.
+- **10379**: But if you do not get your rrreeking tail out of my sight, I won't wait until the moon's out to show you how sharp they are.
 
 ## Events
 
@@ -588,10 +588,10 @@
   1: 0x0145 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0146 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0147 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x01)
-  4: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=10074*)
+  4: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=10076*)
     → "Ah, I love how my blades shine when wielded in the moonlight."
   5: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=10075*)
+  6: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=10077*)
     → "And not just shine...my daggerrrs cut so well that even the chieftainness asked me forrr one...no, two!"
   7: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0156 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x02)
@@ -625,10 +625,10 @@
   1: 0x0166 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0167 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0168 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x01)
-  4: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=10376*)
+  4: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=10378*)
     → "Ah, I love how my blades shine when wielded in the moonlight."
   5: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=10377*)
+  6: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=10379*)
     → "But if you do not get your rrreeking tail out of my sight, I won't wait until the moon's out to show you how sharp they are."
   7: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0177 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x02)
@@ -689,12 +689,12 @@
 
 ```
   0: 0x019B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x05)
-  1: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10206*)
+  1: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10208*)
     → "You say you want a Tonberry knife?"
   2: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x06)
   4: 0x01AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x07)
-  5: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10207*)
+  5: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10209*)
     → "Hah-hah! I get it! You want to be a chef, and hearrrd that Tonberry knives are the best in Vana'diel, rrright?"
   6: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x08)
@@ -723,12 +723,12 @@
 
 ```
   0: 0x01C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x0B)
-  1: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10208*)
+  1: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10210*)
     → "But there's no way even the finest chef could use one of those. They're way too dangerrrous!"
   2: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x0C)
   4: 0x01D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x0D)
-  5: 0x01D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10209*)
+  5: 0x01D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10211*)
     → "But if you still want one anyway, you're going to have to go to the Temple of Uggalepih. They say that there's a kitchen there where an evil chef spends his days and nights sharrrpening his knives."
   6: 0x01DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x0E)
@@ -761,12 +761,12 @@
   1: 0x01EA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01EB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x0F)
-  4: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10210*)
+  4: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10212*)
     → "If you still want a Tonberry knife, you're going to have to go to the Temple of Uggalepih."
   5: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x10)
   7: 0x01FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x11)
-  8: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=10211*)
+  8: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=10213*)
     → "You'll find plenty of knives in the kitchen, but keep a "sharrrp" lookout for the chef! Nya-ha-ha!"
   9: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0209 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x12)
@@ -801,12 +801,12 @@
   1: 0x0219 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x021A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x021B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x01)
-  4: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=10212*)
+  4: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=10214*)
     → "Wow, you rrreally got one! You're the only person I know who would want to get within twenty feet of one of those."
   5: 0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0226 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x02)
   7: 0x022D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x09)
-  8: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=10213*)
+  8: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=10215*)
     → "Hey, you're not going to trrry using that thing, are you?"
   9: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0238 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vah Keshura (ID: 17801257/0x010FA029), tag_num=0x0A)

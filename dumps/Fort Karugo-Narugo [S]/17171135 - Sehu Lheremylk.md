@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0020      |          32 |
-|       2 | 0x1FDE      |        8158 |
-|       3 | 0x1FDF      |        8159 |
+|       2 | 0x1FE0      |        8160 |
+|       3 | 0x1FE1      |        8161 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x6E] EventEntity uses emote 32*
   3: 0x0010 [0x99] Wait for EventEntity animation to complete
-  4: 0x0015 [0x2B] EventEntity [8158*]:
+  4: 0x0015 [0x2B] EventEntity [8160*]:
     → "Did you see that...that thing in the sky? That disgusting mouth...always open... Ever since it appeared, things haven't been quite normal."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x2B] EventEntity [8159*]:
+  6: 0x001D [0x2B] EventEntity [8161*]:
     → "You'd know what I was talking about if you stood on the frontlines. The enemy...and the atmosphere... There's just something very strange about it all."
   7: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0025 [0x21] END_EVENT

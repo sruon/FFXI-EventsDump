@@ -48,36 +48,36 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x203E      |        8254 |
-|       1 | 0x203F      |        8255 |
-|       2 | 0x204C      |        8268 |
-|       3 | 0x204D      |        8269 |
-|       4 | 0x2052      |        8274 |
-|       5 | 0x2053      |        8275 |
-|       6 | 0x205E      |        8286 |
-|       7 | 0x205F      |        8287 |
-|       8 | 0x206C      |        8300 |
-|       9 | 0x206D      |        8301 |
-|      10 | 0x22DC      |        8924 |
-|      11 | 0x22DD      |        8925 |
-|      12 | 0x22FB      |        8955 |
-|      13 | 0x22FC      |        8956 |
-|      14 | 0x245B      |        9307 |
-|      15 | 0x245C      |        9308 |
-|      16 | 0x247A      |        9338 |
-|      17 | 0x247B      |        9339 |
+|       0 | 0x2040      |        8256 |
+|       1 | 0x2041      |        8257 |
+|       2 | 0x204E      |        8270 |
+|       3 | 0x204F      |        8271 |
+|       4 | 0x2054      |        8276 |
+|       5 | 0x2055      |        8277 |
+|       6 | 0x2060      |        8288 |
+|       7 | 0x2061      |        8289 |
+|       8 | 0x206E      |        8302 |
+|       9 | 0x206F      |        8303 |
+|      10 | 0x22DE      |        8926 |
+|      11 | 0x22DF      |        8927 |
+|      12 | 0x22FD      |        8957 |
+|      13 | 0x22FE      |        8958 |
+|      14 | 0x245D      |        9309 |
+|      15 | 0x245E      |        9310 |
+|      16 | 0x247C      |        9340 |
+|      17 | 0x247D      |        9341 |
 |      18 | 0x1D59E     |      120222 |
 |      19 | 0x18A2B     |      100907 |
 |      20 | 0xFFFFF15B  |  4294963547 |
 |      21 | 0x0400      |        1024 |
-|      22 | 0x248F      |        9359 |
-|      23 | 0x2490      |        9360 |
-|      24 | 0x24B0      |        9392 |
-|      25 | 0x24B1      |        9393 |
-|      26 | 0x25D3      |        9683 |
-|      27 | 0x25D4      |        9684 |
-|      28 | 0x25F9      |        9721 |
-|      29 | 0x25FA      |        9722 |
+|      22 | 0x2491      |        9361 |
+|      23 | 0x2492      |        9362 |
+|      24 | 0x24B2      |        9394 |
+|      25 | 0x24B3      |        9395 |
+|      26 | 0x25D5      |        9685 |
+|      27 | 0x25D6      |        9686 |
+|      28 | 0x25FB      |        9723 |
+|      29 | 0x25FC      |        9724 |
 |      30 | 0x1D4C0     |      120000 |
 |      31 | 0x16F30     |       94000 |
 |      32 | 0xFFFFF15A  |  4294963546 |
@@ -85,32 +85,32 @@
 
 ## String References
 
-- **8254**: Please do not botherrr us now. We are in the midst of offerrring our prayers for a great hunt.
-- **8255**: We rangers must show gratitude for naturrre's blessings as we carry out the hunt. For we too are part of Mother Nature's grrreater scheme...
-- **8268**: We have received worrrd from Rakoh Buuma, captain of the eastern gatehouse.
-- **8269**: We are afraid it is ratherrr ill news. Nothing good happens on days when the wind blows warrrm.
-- **8274**: Why? Why is it that my hearrrtbeat will not settle down?
-- **8275**: Lo! The chieftainness appearrrs to be sensing something. What is going to happen next?
-- **8286**: The fanged king of the beasts is one of the grrreat tigers. It is a fearsome monster with swift feet and awesome power. Its teeth are very light yet extremely strong, perrrfect for making the best arrowheads.
-- **8287**: From long ago they have dwelled on the Sauromugue Champaign, and we have learrrned much from them.
-- **8300**: Why do you suppose people lost their fangs? Perrrhaps it was because people stopped listening to nature's voice.
-- **8301**: That weapon you hold in your hands is but a temporrrary manifestation of a fang. Your true fangs exist within your hearrrt!
-- **8924**: A Mithran Tracker from the homeland has arrived.
-- **8925**: It's been decades since... The sin will not be forgiven. Even if what happened was destiny...
-- **8955**: The Mithran Tracker has come from the homeland of our people.
-- **8956**: There was another time, twenty years ago, when a Mithran Tracker arrived from across the seas. However, that was not the same Mithra that was here a moment ago.
-- **9307**: Twenty years prrrevious, there was a sinner who escaped from her prrrison and fled to this continent.
-- **9308**: There are few Mithra in Windurst who know of her tale. It is a low point in our historrry, and not a thing that is often spoke of...
-- **9338**: We Mithra receive the blessing of the earth in creating the chieftainness's bow.
-- **9339**: Chieftainness Perih Vashai received the blessing of this land when she made the Azure Bow.
-- **9359**: The chieftainness wishes Semih Lafihna to see the trrruth with her own eyes.
-- **9360**: Everything becomes clear when you choose to see of your own free will. "Will" represents the eye of the spirit. As a ranger, the vision of your spirit must not become clouded...
-- **9392**: All of the children taken in by Heavens Tower lost their mothers. Under normal circumstances, they would be sent to our homeland to be cared for by other Mithra.
-- **9393**: You rrrealize why they were not sent to the homeland, don't you? The chieftainness wished to watch over the growth of her child, Semih Lafihna...Even if it meant being despised...
-- **9683**: There is no need for panic. We alrrready have details on the enemy's army within our grrrasp.
-- **9684**: We have done more than simply glare at the Yagudo these past twenty years.
-- **9721**: There was a place in Kazham where you could feel the power of the land.
-- **9722**: Twenty years ago that same grrreat energy overflowed from the plains of Sarutabaruta. All of our trrroubles began with the loss of that power.
+- **8256**: Please do not botherrr us now. We are in the midst of offerrring our prayers for a great hunt.
+- **8257**: We rangers must show gratitude for naturrre's blessings as we carry out the hunt. For we too are part of Mother Nature's grrreater scheme...
+- **8270**: We have received worrrd from Rakoh Buuma, captain of the eastern gatehouse.
+- **8271**: We are afraid it is ratherrr ill news. Nothing good happens on days when the wind blows warrrm.
+- **8276**: Why? Why is it that my hearrrtbeat will not settle down?
+- **8277**: Lo! The chieftainness appearrrs to be sensing something. What is going to happen next?
+- **8288**: The fanged king of the beasts is one of the grrreat tigers. It is a fearsome monster with swift feet and awesome power. Its teeth are very light yet extremely strong, perrrfect for making the best arrowheads.
+- **8289**: From long ago they have dwelled on the Sauromugue Champaign, and we have learrrned much from them.
+- **8302**: Why do you suppose people lost their fangs? Perrrhaps it was because people stopped listening to nature's voice.
+- **8303**: That weapon you hold in your hands is but a temporrrary manifestation of a fang. Your true fangs exist within your hearrrt!
+- **8926**: A Mithran Tracker from the homeland has arrived.
+- **8927**: It's been decades since... The sin will not be forgiven. Even if what happened was destiny...
+- **8957**: The Mithran Tracker has come from the homeland of our people.
+- **8958**: There was another time, twenty years ago, when a Mithran Tracker arrived from across the seas. However, that was not the same Mithra that was here a moment ago.
+- **9309**: Twenty years prrrevious, there was a sinner who escaped from her prrrison and fled to this continent.
+- **9310**: There are few Mithra in Windurst who know of her tale. It is a low point in our historrry, and not a thing that is often spoke of...
+- **9340**: We Mithra receive the blessing of the earth in creating the chieftainness's bow.
+- **9341**: Chieftainness Perih Vashai received the blessing of this land when she made the Azure Bow.
+- **9361**: The chieftainness wishes Semih Lafihna to see the trrruth with her own eyes.
+- **9362**: Everything becomes clear when you choose to see of your own free will. "Will" represents the eye of the spirit. As a ranger, the vision of your spirit must not become clouded...
+- **9394**: All of the children taken in by Heavens Tower lost their mothers. Under normal circumstances, they would be sent to our homeland to be cared for by other Mithra.
+- **9395**: You rrrealize why they were not sent to the homeland, don't you? The chieftainness wished to watch over the growth of her child, Semih Lafihna...Even if it meant being despised...
+- **9685**: There is no need for panic. We alrrready have details on the enemy's army within our grrrasp.
+- **9686**: We have done more than simply glare at the Yagudo these past twenty years.
+- **9723**: There was a place in Kazham where you could feel the power of the land.
+- **9724**: Twenty years ago that same grrreat energy overflowed from the plains of Sarutabaruta. All of our trrroubles began with the loss of that power.
 
 ## Events
 
@@ -159,10 +159,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8254*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8256*)
     → "Please do not botherrr us now. We are in the midst of offerrring our prayers for a great hunt."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8255*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8257*)
     → "We rangers must show gratitude for naturrre's blessings as we carry out the hunt. For we too are part of Mother Nature's grrreater scheme..."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -193,10 +193,10 @@
   0: 0x0014 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0019 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x001A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8268*)
+  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8270*)
     → "We have received worrrd from Rakoh Buuma, captain of the eastern gatehouse."
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8269*)
+  5: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8271*)
     → "We are afraid it is ratherrr ill news. Nothing good happens on days when the wind blows warrrm."
   6: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0023 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -227,10 +227,10 @@
   0: 0x0027 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=8274*)
+  3: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=8276*)
     → "Why? Why is it that my hearrrtbeat will not settle down?"
   4: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8275*)
+  5: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8277*)
     → "Lo! The chieftainness appearrrs to be sensing something. What is going to happen next?"
   6: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0036 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -305,10 +305,10 @@
   0: 0x003C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0041 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0042 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8286*)
+  3: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8288*)
     → "The fanged king of the beasts is one of the grrreat tigers. It is a fearsome monster with swift feet and awesome power. Its teeth are very light yet extremely strong, perrrfect for making the best arrowheads."
   4: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8287*)
+  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8289*)
     → "From long ago they have dwelled on the Sauromugue Champaign, and we have learrrned much from them."
   6: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x004B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -340,10 +340,10 @@
   0: 0x004F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0054 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0055 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=8300*)
+  3: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=8302*)
     → "Why do you suppose people lost their fangs? Perrrhaps it was because people stopped listening to nature's voice."
   4: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8301*)
+  5: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
     → "That weapon you hold in your hands is but a temporrrary manifestation of a fang. Your true fangs exist within your hearrrt!"
   6: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x005E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -419,10 +419,10 @@
   0: 0x0069 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x006E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x006F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8924*)
+  3: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
     → "A Mithran Tracker from the homeland has arrived."
   4: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=8925*)
+  5: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
     → "It's been decades since... The sin will not be forgiven. Even if what happened was destiny..."
   6: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0078 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -453,10 +453,10 @@
   0: 0x007C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0081 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0082 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=8955*)
+  3: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=8957*)
     → "The Mithran Tracker has come from the homeland of our people."
   4: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=8956*)
+  5: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=8958*)
     → "There was another time, twenty years ago, when a Mithran Tracker arrived from across the seas. However, that was not the same Mithra that was here a moment ago."
   6: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x008B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -553,10 +553,10 @@
   0: 0x0092 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0097 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0098 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=9307*)
+  3: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=9309*)
     → "Twenty years prrrevious, there was a sinner who escaped from her prrrison and fled to this continent."
   4: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=9308*)
+  5: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=9310*)
     → "There are few Mithra in Windurst who know of her tale. It is a low point in our historrry, and not a thing that is often spoke of..."
   6: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00A1 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -587,10 +587,10 @@
   0: 0x00A5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00AA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00AB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=9338*)
+  3: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=9340*)
     → "We Mithra receive the blessing of the earth in creating the chieftainness's bow."
   4: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9339*)
+  5: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9341*)
     → "Chieftainness Perih Vashai received the blessing of this land when she made the Azure Bow."
   6: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00B4 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -689,10 +689,10 @@
   0: 0x00C4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00CA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9359*)
+  3: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9361*)
     → "The chieftainness wishes Semih Lafihna to see the trrruth with her own eyes."
   4: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9360*)
+  5: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9362*)
     → "Everything becomes clear when you choose to see of your own free will. "Will" represents the eye of the spirit. As a ranger, the vision of your spirit must not become clouded..."
   6: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00D3 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -723,10 +723,10 @@
   0: 0x00D7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00DC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9392*)
+  3: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9394*)
     → "All of the children taken in by Heavens Tower lost their mothers. Under normal circumstances, they would be sent to our homeland to be cared for by other Mithra."
   4: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9393*)
+  5: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9395*)
     → "You rrrealize why they were not sent to the homeland, don't you? The chieftainness wished to watch over the growth of her child, Semih Lafihna...Even if it meant being despised..."
   6: 0x00E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00E6 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -757,10 +757,10 @@
   0: 0x00EA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00EF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9683*)
+  3: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9685*)
     → "There is no need for panic. We alrrready have details on the enemy's army within our grrrasp."
   4: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9684*)
+  5: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9686*)
     → "We have done more than simply glare at the Yagudo these past twenty years."
   6: 0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00F9 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -791,10 +791,10 @@
   0: 0x00FD [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0102 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0103 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=9721*)
+  3: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=9723*)
     → "There was a place in Kazham where you could feel the power of the land."
   4: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=9722*)
+  5: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=9724*)
     → "Twenty years ago that same grrreat energy overflowed from the plains of Sarutabaruta. All of our trrroubles began with the loss of that power."
   6: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x010C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

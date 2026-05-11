@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0013      |          19 |
-|       2 | 0x1DC7      |        7623 |
-|       3 | 0x1DC8      |        7624 |
+|       2 | 0x1DC9      |        7625 |
+|       3 | 0x1DCA      |        7626 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x6E] EventEntity uses emote 19*
   3: 0x0014 [0x99] Wait for EventEntity animation to complete
-  4: 0x0019 [0x2B] EventEntity [7623*]:
+  4: 0x0019 [0x2B] EventEntity [7625*]:
     → "<Sigh>... Ever since the Federation Forces took over the storerooms for their operations, my business has become a literal casualty of war."
   5: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0021 [0x2B] EventEntity [7624*]:
+  6: 0x0021 [0x2B] EventEntity [7626*]:
     → "And the fields are being trompy-stomped flat during the battles with the turtlemen. What's an honestaru merchant to do?"
   7: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0029 [0x21] END_EVENT

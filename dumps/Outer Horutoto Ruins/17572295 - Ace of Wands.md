@@ -44,19 +44,19 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00B5      |         181 |
-|       1 | 0x1C8F      |        7311 |
-|       2 | 0x1C93      |        7315 |
-|       3 | 0x1C97      |        7319 |
-|       4 | 0x1C9B      |        7323 |
-|       5 | 0x1C9E      |        7326 |
+|       1 | 0x1C91      |        7313 |
+|       2 | 0x1C95      |        7317 |
+|       3 | 0x1C99      |        7321 |
+|       4 | 0x1C9D      |        7325 |
+|       5 | 0x1CA0      |        7328 |
 
 ## String References
 
-- **7311**: This tower is the territory of the Cardians. No intruders will be permitted.
-- **7315**: Things have changed. We have chosen our king.
-- **7319**: Our king is noble and powerful, a dazzling presence...
-- **7323**: Yes, let us punish them. Let us punish them now.
-- **7326**: Your Majesty!
+- **7313**: This tower is the territory of the Cardians. No intruders will be permitted.
+- **7317**: Things have changed. We have chosen our king.
+- **7321**: Our king is noble and powerful, a dazzling presence...
+- **7325**: Yes, let us punish them. Let us punish them now.
+- **7328**: Your Majesty!
 
 ## Events
 
@@ -553,7 +553,7 @@
 #### Opcodes
 
 ```
-  0: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
+  0: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
     → "This tower is the territory of the Cardians. No intruders will be permitted."
   1: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0114 [0x00] END_REQSTACK()
@@ -578,7 +578,7 @@
 #### Opcodes
 
 ```
-  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
+  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
     → "Things have changed. We have chosen our king."
   1: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0119 [0x00] END_REQSTACK()
@@ -603,7 +603,7 @@
 #### Opcodes
 
 ```
-  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
     → "Our king is noble and powerful, a dazzling presence..."
   1: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x011E [0x00] END_REQSTACK()
@@ -629,7 +629,7 @@
 #### Opcodes
 
 ```
-  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
+  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
     → "Yes, let us punish them. Let us punish them now."
   1: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0123 [0x00] END_REQSTACK()
@@ -654,7 +654,7 @@
 #### Opcodes
 
 ```
-  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7326*)
+  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
     → "Your Majesty!"
   1: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0128 [0x00] END_REQSTACK()

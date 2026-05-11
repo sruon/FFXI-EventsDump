@@ -31,13 +31,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2042      |        8258 |
-|       3 | 0x2043      |        8259 |
+|       2 | 0x2044      |        8260 |
+|       3 | 0x2045      |        8261 |
 
 ## String References
 
-- **8258**: You are entering into the prrresence of Chieftainness Perih Vashai, the one who unifies the Mithra of Windurst.
-- **8259**: Verily, she is the Mithran heroine who wields the crrrimson arrow and the azure bow. Be carrreful, lest you are overwhelmed by her peaceful vigor.
+- **8260**: You are entering into the prrresence of Chieftainness Perih Vashai, the one who unifies the Mithra of Windurst.
+- **8261**: Verily, she is the Mithran heroine who wields the crrrimson arrow and the azure bow. Be carrreful, lest you are overwhelmed by her peaceful vigor.
 
 ## Events
 
@@ -161,10 +161,10 @@
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Otte Burhiyu (ID: 17764474/0x010F107A), tag_num=0x01)
-  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8258*)
+  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8260*)
     → "You are entering into the prrresence of Chieftainness Perih Vashai, the one who unifies the Mithra of Windurst."
   5: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8259*)
+  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8261*)
     → "Verily, she is the Mithran heroine who wields the crrrimson arrow and the azure bow. Be carrreful, lest you are overwhelmed by her peaceful vigor."
   7: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0039 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Otte Burhiyu (ID: 17764474/0x010F107A), tag_num=0x02)

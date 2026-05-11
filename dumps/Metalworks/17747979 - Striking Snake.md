@@ -28,11 +28,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D29      |        7465 |
+|       0 | 0x1D2B      |        7467 |
 
 ## String References
 
-- **7465**: The Gunpowder Room was supposed to become a guild, too, but the accident changed everything...
+- **7467**: The Gunpowder Room was supposed to become a guild, too, but the accident changed everything...
 
 ## Events
 
@@ -78,7 +78,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
     → "The Gunpowder Room was supposed to become a guild, too, but the accident changed everything..."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT

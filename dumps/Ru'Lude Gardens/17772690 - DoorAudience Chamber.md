@@ -45,74 +45,74 @@
 |---------|-------------|-------------|
 |       0 | 0x0038      |          56 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x27CF      |       10191 |
-|       3 | 0x27D1      |       10193 |
-|       4 | 0x27D0      |       10192 |
+|       2 | 0x27D1      |       10193 |
+|       3 | 0x27D3      |       10195 |
+|       4 | 0x27D2      |       10194 |
 |       5 | 0x0008      |           8 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x01B5      |         437 |
 |       8 | 0x0003      |           3 |
 |       9 | 0x008F      |         143 |
 |      10 | 0x00B4      |         180 |
-|      11 | 0x278B      |       10123 |
-|      12 | 0x278C      |       10124 |
-|      13 | 0x278D      |       10125 |
+|      11 | 0x278D      |       10125 |
+|      12 | 0x278E      |       10126 |
+|      13 | 0x278F      |       10127 |
 |      14 | 0x000F      |          15 |
-|      15 | 0x278E      |       10126 |
+|      15 | 0x2790      |       10128 |
 |      16 | 0x001E      |          30 |
-|      17 | 0x278F      |       10127 |
-|      18 | 0x2790      |       10128 |
-|      19 | 0x2791      |       10129 |
-|      20 | 0x2792      |       10130 |
-|      21 | 0x2793      |       10131 |
-|      22 | 0x2794      |       10132 |
-|      23 | 0x2795      |       10133 |
-|      24 | 0x2796      |       10134 |
-|      25 | 0x2797      |       10135 |
-|      26 | 0x2798      |       10136 |
+|      17 | 0x2791      |       10129 |
+|      18 | 0x2792      |       10130 |
+|      19 | 0x2793      |       10131 |
+|      20 | 0x2794      |       10132 |
+|      21 | 0x2795      |       10133 |
+|      22 | 0x2796      |       10134 |
+|      23 | 0x2797      |       10135 |
+|      24 | 0x2798      |       10136 |
+|      25 | 0x2799      |       10137 |
+|      26 | 0x279A      |       10138 |
 |      27 | 0x003C      |          60 |
 |      28 | 0x0400      |        1024 |
 |      29 | 0x005A      |          90 |
-|      30 | 0x2799      |       10137 |
-|      31 | 0x279A      |       10138 |
-|      32 | 0x279B      |       10139 |
-|      33 | 0x279C      |       10140 |
+|      30 | 0x279B      |       10139 |
+|      31 | 0x279C      |       10140 |
+|      32 | 0x279D      |       10141 |
+|      33 | 0x279E      |       10142 |
 |      34 | 0x0096      |         150 |
 |      35 | 0x0078      |         120 |
 |      36 | 0x0075      |         117 |
 |      37 | 0x0004      |           4 |
 |      38 | 0x0005      |           5 |
 |      39 | 0x0006      |           6 |
-|      40 | 0x27A3      |       10147 |
-|      41 | 0x27A4      |       10148 |
-|      42 | 0x27A5      |       10149 |
-|      43 | 0x27A6      |       10150 |
-|      44 | 0x27A7      |       10151 |
-|      45 | 0x27A8      |       10152 |
-|      46 | 0x27A9      |       10153 |
-|      47 | 0x27AA      |       10154 |
-|      48 | 0x27AB      |       10155 |
-|      49 | 0x27AC      |       10156 |
-|      50 | 0x27AD      |       10157 |
-|      51 | 0x27AE      |       10158 |
-|      52 | 0x27AF      |       10159 |
-|      53 | 0x27B0      |       10160 |
-|      54 | 0x27B1      |       10161 |
-|      55 | 0x27B2      |       10162 |
-|      56 | 0x27B3      |       10163 |
-|      57 | 0x27B4      |       10164 |
+|      40 | 0x27A5      |       10149 |
+|      41 | 0x27A6      |       10150 |
+|      42 | 0x27A7      |       10151 |
+|      43 | 0x27A8      |       10152 |
+|      44 | 0x27A9      |       10153 |
+|      45 | 0x27AA      |       10154 |
+|      46 | 0x27AB      |       10155 |
+|      47 | 0x27AC      |       10156 |
+|      48 | 0x27AD      |       10157 |
+|      49 | 0x27AE      |       10158 |
+|      50 | 0x27AF      |       10159 |
+|      51 | 0x27B0      |       10160 |
+|      52 | 0x27B1      |       10161 |
+|      53 | 0x27B2      |       10162 |
+|      54 | 0x27B3      |       10163 |
+|      55 | 0x27B4      |       10164 |
+|      56 | 0x27B5      |       10165 |
+|      57 | 0x27B6      |       10166 |
 |      58 | 0x0001      |           1 |
-|      59 | 0x27B5      |       10165 |
-|      60 | 0x27B6      |       10166 |
-|      61 | 0x27B7      |       10167 |
-|      62 | 0x27B8      |       10168 |
-|      63 | 0x27B9      |       10169 |
-|      64 | 0x27BA      |       10170 |
-|      65 | 0x27BB      |       10171 |
-|      66 | 0x27BC      |       10172 |
-|      67 | 0x27BD      |       10173 |
-|      68 | 0x27BE      |       10174 |
-|      69 | 0x27BF      |       10175 |
+|      59 | 0x27B7      |       10167 |
+|      60 | 0x27B8      |       10168 |
+|      61 | 0x27B9      |       10169 |
+|      62 | 0x27BA      |       10170 |
+|      63 | 0x27BB      |       10171 |
+|      64 | 0x27BC      |       10172 |
+|      65 | 0x27BD      |       10173 |
+|      66 | 0x27BE      |       10174 |
+|      67 | 0x27BF      |       10175 |
+|      68 | 0x27C0      |       10176 |
+|      69 | 0x27C1      |       10177 |
 
 ## Events
 
@@ -255,17 +255,17 @@
   1: 0x0010 [0x4A] Rainhard (ID: 17772558/0x010F300E) looks at LocalPlayer
   2: 0x0019 [0x03] Work_Zone[9] = 56*
   3: 0x001E [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0039
-  4: 0x0026 [0x2B] High Wind (ID: 17772557/0x010F300D) [10191*]:
+  4: 0x0026 [0x2B] High Wind (ID: 17772557/0x010F300D) [10193*]:
     → "You don't have $6."
   5: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002E [0x2B] Rainhard (ID: 17772558/0x010F300E) [10193*]:
+  6: 0x002E [0x2B] Rainhard (ID: 17772558/0x010F300E) [10195*]:
     → "Stand down!"
   7: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0036 [0x01] GOTO 0x0049
-  9: 0x0039 [0x2B] High Wind (ID: 17772557/0x010F300D) [10192*]:
+  9: 0x0039 [0x2B] High Wind (ID: 17772557/0x010F300D) [10194*]:
     → "Nobody sees the sovereign without an appointment!"
  10: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0041 [0x2B] Rainhard (ID: 17772558/0x010F300E) [10193*]:
+ 11: 0x0041 [0x2B] Rainhard (ID: 17772558/0x010F300E) [10195*]:
     → "Stand down!"
  12: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -375,17 +375,17 @@ SUBROUTINE_0049:
  21: 0x00E2 [0x4A] Mawl'gofaur (ID: 17772555/0x010F300B) looks at LocalPlayer
  22: 0x00EB [0x4A] Kareh'ayollio (ID: 17772556/0x010F300C) looks at LocalPlayer
  23: 0x00F4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm00" with entities [LocalPlayer, LocalPlayer], work=143*
- 24: 0x0103 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10123*]:
+ 24: 0x0103 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10125*]:
     → "So, you're the new attach<Player>i."
  25: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x010B [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x05)
  27: 0x0112 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm01" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  28: 0x0123 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm01" with entities [LocalPlayer, LocalPlayer], work=143*
- 29: 0x0132 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10124*]:
+ 29: 0x0132 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10126*]:
     → "I am Kam'lanaut, Archduke of Jeuno. I'd like your nation's help with a certain matter."
  30: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x013A [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x06)
- 32: 0x0141 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10125*]:
+ 32: 0x0141 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10127*]:
     → "Oh, a visitor?"
  33: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0149 [0x79] Kam'lanaut (ID: 17772553/0x010F3009) looks at Eald'narche (ID: 17772554/0x010F300A) (Basic look)
@@ -396,13 +396,13 @@ SUBROUTINE_0049:
  39: 0x0181 [0x1C] WAIT(15* ticks)
  40: 0x0184 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm0c" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  41: 0x0195 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm0c" with entities [LocalPlayer, LocalPlayer], work=143*
- 42: 0x01A4 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10126*]:
+ 42: 0x01A4 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10128*]:
     → "Hello there. My name's Eald'narche. Pleased to meet ya."
  43: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x01AC [0x27] REQ_SET(priority=0x04, entity_id=Eald'narche (ID: 17772554/0x010F300A), tag_num=0x07)
  45: 0x01B3 [0x1C] WAIT(30* ticks)
  46: 0x01B6 [0x79] Kam'lanaut (ID: 17772553/0x010F3009) looks at LocalPlayer (Basic look)
- 47: 0x01C0 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10127*]:
+ 47: 0x01C0 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10129*]:
     → "This is my brother. Don't let him bother you."
  48: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x01C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm0b" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
@@ -410,7 +410,7 @@ SUBROUTINE_0049:
  51: 0x01E8 [0x1C] WAIT(30* ticks)
  52: 0x01EB [0x4A] LocalPlayer looks at Kam'lanaut (ID: 17772553/0x010F3009)
  53: 0x01F4 [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x05)
- 54: 0x01FB [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10128*]:
+ 54: 0x01FB [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10130*]:
     → "Now, let us get down to business. I summoned you here for a certain mission. Have you heard word of the Shadow Lord?"
  55: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0203 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x06)
@@ -418,25 +418,25 @@ SUBROUTINE_0049:
  58: 0x0213 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  59: 0x0214 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Eald'narche (ID: 17772554/0x010F300A) Render.Flags0 and Render.Flags3 conditions are met
  60: 0x0219 [0x27] REQ_SET(priority=0x04, entity_id=Eald'narche (ID: 17772554/0x010F300A), tag_num=0x0A)
- 61: 0x0220 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10129*]:
+ 61: 0x0220 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10131*]:
     → "My sources tell me that beastmen in Davoi, Beadeaux, and Castle Oztroja are conspiring to return him to Vana'diel."
  62: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0228 [0x27] REQ_SET(priority=0x05, entity_id=Eald'narche (ID: 17772554/0x010F300A), tag_num=0x0B)
  64: 0x022F [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x07)
- 65: 0x0236 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10130*]:
+ 65: 0x0236 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10132*]:
     → "They seek to do so by harnessing the power of mysterious stones called magicite."
  66: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x023E [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10131*]:
+ 67: 0x023E [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10133*]:
     → "To stop their nefarious plan, I want you to go to those three places and seize that magicite."
  68: 0x0245 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0246 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x08)
  70: 0x024D [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x05)
  71: 0x0254 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm0d" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  72: 0x0265 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm0d" with entities [LocalPlayer, LocalPlayer], work=143*
- 73: 0x0274 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10132*]:
+ 73: 0x0274 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10134*]:
     → "Of course, I intend to reward you for a task of this magnitude. I will issue $6 upon receipt of the three magicite."
  74: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x027C [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10133*]:
+ 75: 0x027C [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10135*]:
     → "With it, you can swiftly travel home, or to any civilized land, for that matter."
  76: 0x0283 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0284 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x06)
@@ -444,15 +444,15 @@ SUBROUTINE_0049:
  79: 0x0294 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  80: 0x0295 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Eald'narche (ID: 17772554/0x010F300A) Render.Flags0 and Render.Flags3 conditions are met
  81: 0x029A [0x27] REQ_SET(priority=0x03, entity_id=Eald'narche (ID: 17772554/0x010F300A), tag_num=0x0A)
- 82: 0x02A1 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10134*]:
+ 82: 0x02A1 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10136*]:
     → "So they're after magicite, are they? I wonder what this means... Take extra special care. The thought of a world under the control of the beastmen makes me shudder."
  83: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x02A9 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10135*]:
+ 84: 0x02A9 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10137*]:
     → "I bet the beastmen have traps waiting. First, you've got to find out as much as you can."
  85: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x02B1 [0x27] REQ_SET(priority=0x04, entity_id=Eald'narche (ID: 17772554/0x010F300A), tag_num=0x0B)
  87: 0x02B8 [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x07)
- 88: 0x02BF [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10136*]:
+ 88: 0x02BF [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10138*]:
     → "Eald'narche speaks the truth. Start by finding out what you can in town. I'm counting on you!"
  89: 0x02C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x02C7 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x08)
@@ -467,20 +467,20 @@ SUBROUTINE_0049:
  99: 0x0302 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm03" with entities [LocalPlayer, LocalPlayer], work=143*
 100: 0x0311 [0x1C] WAIT(90* ticks)
 101: 0x0314 [0x27] REQ_SET(priority=0x03, entity_id=Mawl'gofaur (ID: 17772555/0x010F300B), tag_num=0x05)
-102: 0x031B [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10137*]:
+102: 0x031B [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10139*]:
     → "A moment, please."
 103: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x0323 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Mawl'gofaur (ID: 17772555/0x010F300B), tag_num=0x0C)
 105: 0x032A [0x27] REQ_SET(priority=0x05, entity_id=Mawl'gofaur (ID: 17772555/0x010F300B), tag_num=0x07)
-106: 0x0331 [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10138*]:
+106: 0x0331 [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10140*]:
     → "By the order of His Grace, we have decided to seek the assistance of the Tenshodo, the organization run by that Aldo fellow."
 107: 0x0338 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x0339 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Mawl'gofaur (ID: 17772555/0x010F300B), tag_num=0x0B)
 109: 0x0340 [0x27] REQ_SET(priority=0x03, entity_id=Mawl'gofaur (ID: 17772555/0x010F300B), tag_num=0x08)
-110: 0x0347 [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10139*]:
+110: 0x0347 [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10141*]:
     → "This secret dispatch outlines our wishes. Would you be so kind as to deliver it to him?"
 111: 0x034E [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x034F [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10140*]:
+112: 0x034F [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10142*]:
     → "He is a man of many talents. It would be wise to seek his acquaintance. Good luck!"
 113: 0x0356 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0357 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Mawl'gofaur (ID: 17772555/0x010F300B), tag_num=0x0C)
@@ -654,24 +654,24 @@ SUBROUTINE_0049:
  32: 0x0523 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
  33: 0x0532 [0x1C] WAIT(60* ticks)
  34: 0x0535 [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x05)
- 35: 0x053C [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10147*]:
+ 35: 0x053C [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10149*]:
     → "Magicite! Yes, these stones emit the same power as crystals. Though impure, that power is great indeed."
  36: 0x0543 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0544 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10148*]:
+ 37: 0x0544 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10150*]:
     → "Now it is clear why the beastmen gathered where they did. They were drawn to the magicite's great power!"
  38: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x054C [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10149*]:
+ 39: 0x054C [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10151*]:
     → "Yes, it is time to eradicate the beastman threat once and for all."
  40: 0x0553 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0554 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x06)
  42: 0x055B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm4f" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  43: 0x056C [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x09)
  44: 0x0573 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0586
- 45: 0x057B [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10150*]:
+ 45: 0x057B [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10152*]:
     → "I thank you for your service. Here is $6. With it, you may travel to any nation you please."
  46: 0x0582 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0583 [0x01] GOTO 0x058E
- 48: 0x0586 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10151*]:
+ 48: 0x0586 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10153*]:
     → "For now, I thank you for your service. Since you already have $6, please accept this instead. May you spend it wisely."
  49: 0x058D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -686,10 +686,10 @@ SUBROUTINE_058E:
  57: 0x05C9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Mawl'gofaur (ID: 17772555/0x010F300B) Render.Flags0 and Render.Flags3 conditions are met
  58: 0x05CE [0x4A] LocalPlayer looks at Mawl'gofaur (ID: 17772555/0x010F300B)
  59: 0x05D7 [0x27] REQ_SET(priority=0x03, entity_id=Mawl'gofaur (ID: 17772555/0x010F300B), tag_num=0x07)
- 60: 0x05DE [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10152*]:
+ 60: 0x05DE [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10154*]:
     → "The three stones are incomplete, but with the powers of the fourth stone that rests deep beneath Castle Zvahl..."
  61: 0x05E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x05E6 [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10153*]:
+ 62: 0x05E6 [0x2B] Mawl'gofaur (ID: 17772555/0x010F300B) [10155*]:
     → "Perhaps then the Shadow Lord will rise again."
  63: 0x05ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x05EE [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Mawl'gofaur (ID: 17772555/0x010F300B), tag_num=0x0B)
@@ -700,16 +700,16 @@ SUBROUTINE_058E:
  69: 0x061F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kareh'ayollio (ID: 17772556/0x010F300C) Render.Flags0 and Render.Flags3 conditions are met
  70: 0x0624 [0x4A] LocalPlayer looks at Kareh'ayollio (ID: 17772556/0x010F300C)
  71: 0x062D [0x27] REQ_SET(priority=0x03, entity_id=Kareh'ayollio (ID: 17772556/0x010F300C), tag_num=0x05)
- 72: 0x0634 [0x2B] Kareh'ayollio (ID: 17772556/0x010F300C) [10154*]:
+ 72: 0x0634 [0x2B] Kareh'ayollio (ID: 17772556/0x010F300C) [10156*]:
     → "Of course, the talisman that seals Zvahl's inner depths was put in place over twenty years ago. It would stop any attempt."
  73: 0x063B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x063C [0x2B] Kareh'ayollio (ID: 17772556/0x010F300C) [10155*]:
+ 74: 0x063C [0x2B] Kareh'ayollio (ID: 17772556/0x010F300C) [10157*]:
     → "I've also read that the three keys to open the seal were kept safely by the three great nations..."
  75: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0644 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Kareh'ayollio (ID: 17772556/0x010F300C), tag_num=0x09)
  77: 0x064B [0x1C] WAIT(30* ticks)
  78: 0x064E [0x4E] SET_ENTITY_HIDE_FLAG: Show High Wind (ID: 17772557/0x010F300D)
- 79: 0x0654 [0x2B] High Wind (ID: 17772557/0x010F300D) [10156*]:
+ 79: 0x0654 [0x2B] High Wind (ID: 17772557/0x010F300D) [10158*]:
     → "Your Grace!"
  80: 0x065B [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x065C [0x4A] Mawl'gofaur (ID: 17772555/0x010F300B) looks at High Wind (ID: 17772557/0x010F300D)
@@ -721,39 +721,39 @@ SUBROUTINE_058E:
  87: 0x0698 [0x4D] EventEntity->StatusEvent = 9 // Close door
  88: 0x0699 [0x4A] LocalPlayer looks at High Wind (ID: 17772557/0x010F300D)
  89: 0x06A2 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x09)
- 90: 0x06A9 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10157*]:
+ 90: 0x06A9 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10159*]:
     → "What is it?"
  91: 0x06B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x06B1 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=High Wind (ID: 17772557/0x010F300D), tag_num=0x0B)
  93: 0x06B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm4c" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  94: 0x06C9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm4c" with entities [LocalPlayer, LocalPlayer], work=143*
- 95: 0x06D8 [0x2B] High Wind (ID: 17772557/0x010F300D) [10158*]:
+ 95: 0x06D8 [0x2B] High Wind (ID: 17772557/0x010F300D) [10160*]:
     → "Dire news, Your Grace! The leaders of all three nations have been attacked!"
  96: 0x06DF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x06E0 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10159*]:
+ 97: 0x06E0 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10161*]:
     → "Attacked... By beastmen?"
  98: 0x06E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 99: 0x06E8 [0x2B] High Wind (ID: 17772557/0x010F300D) [10160*]:
+ 99: 0x06E8 [0x2B] High Wind (ID: 17772557/0x010F300D) [10162*]:
     → "Yes, Your Grace."
 100: 0x06EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x06F0 [0x4A] LocalPlayer looks at Kam'lanaut (ID: 17772553/0x010F3009)
 102: 0x06F9 [0x1C] WAIT(30* ticks)
 103: 0x06FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm4b" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
 104: 0x070D [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x0A)
-105: 0x0714 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10161*]:
+105: 0x0714 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10163*]:
     → "Confound them! They're one step ahead of us."
 106: 0x071B [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x071C [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x07)
-108: 0x0723 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10162*]:
+108: 0x0723 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10164*]:
     → "So, they seek to resurrect the Shadow Lord... Quite a lofty goal for beastmen."
 109: 0x072A [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x072B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm45" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
 111: 0x073C [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x08)
 112: 0x0743 [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x05)
-113: 0x074A [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10163*]:
+113: 0x074A [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10165*]:
     → "So be it, then. Perhaps you should return to your embassy."
 114: 0x0751 [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x0752 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10164*]:
+115: 0x0752 [0x2B] Kam'lanaut (ID: 17772553/0x010F3009) [10166*]:
     → "I will call for your aid again soon. Until then, be well."
 116: 0x0759 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x075A [0x27] REQ_SET(priority=0x04, entity_id=Kam'lanaut (ID: 17772553/0x010F3009), tag_num=0x06)
@@ -780,7 +780,7 @@ SUBROUTINE_058E:
 138: 0x0827 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=LocalPlayer, tag_num=0x33)
 139: 0x082E [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Eald'narche (ID: 17772554/0x010F300A), tag_num=0x0F)
 140: 0x0835 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm44" with entities [LocalPlayer, LocalPlayer], work=143*
-141: 0x0844 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10165*]:
+141: 0x0844 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10167*]:
     → "Hey, what's going on? Oh, you don't have to tell me."
 142: 0x084B [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x084C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm4d" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
@@ -788,14 +788,14 @@ SUBROUTINE_058E:
 145: 0x0864 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se00" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
 146: 0x0875 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "se00" with entities [LocalPlayer, LocalPlayer], work=143*
 147: 0x0884 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Eald'narche (ID: 17772554/0x010F300A), tag_num=0x0D)
-148: 0x088B [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10166*]:
+148: 0x088B [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10168*]:
     → "Oh, so you went to Castle Oztroja and met a girl named Verena there."
 149: 0x0892 [0x23] WAIT_FOR_DIALOG_INTERACTION
-150: 0x0893 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10167*]:
+150: 0x0893 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10169*]:
     → "And she gets along with the beastmen. Wow, so maybe we could get along."
 151: 0x089A [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x089B [0x4B] UPDATE_ENTITY_YAW(entity=Eald'narche (ID: 17772554/0x010F300A), yaw=5.6°*)
-153: 0x08A2 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10168*]:
+153: 0x08A2 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10170*]:
     → "Hey, Wolfgang! Wolfie, you here?"
 154: 0x08A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x08AA [0x4E] SET_ENTITY_HIDE_FLAG: Show Wolfgang (ID: 17772551/0x010F3007)
@@ -805,22 +805,22 @@ SUBROUTINE_058E:
 159: 0x08CB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm4e" with entities [LocalPlayer, LocalPlayer], work=143*
 160: 0x08DA [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Wolfgang (ID: 17772551/0x010F3007), tag_num=0x2E)
 161: 0x08E1 [0x1E] EventEntity looks at Wolfgang (ID: 17772551/0x010F3007) and starts talking
-162: 0x08E6 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [10169*]:
+162: 0x08E6 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [10171*]:
     → "What would you ask of me, Lord Eald'narche?"
 163: 0x08ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x08EE [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10170*]:
+164: 0x08EE [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10172*]:
     → "Could you find someone named Verena and bring her here? I heard she's Aldo's little sister."
 165: 0x08F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-166: 0x08F6 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [10171*]:
+166: 0x08F6 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [10173*]:
     → "Of course, my lord. But may I ask why? She seems of...questionable intentions."
 167: 0x08FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-168: 0x08FE [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10172*]:
+168: 0x08FE [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10174*]:
     → "I think she has some nifty powers, so I just want to play with her. That's all."
 169: 0x0905 [0x23] WAIT_FOR_DIALOG_INTERACTION
-170: 0x0906 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10173*]:
+170: 0x0906 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10175*]:
     → "Oh, and don't tell this to Kam'lanaut. I want to surprise him."
 171: 0x090D [0x23] WAIT_FOR_DIALOG_INTERACTION
-172: 0x090E [0x2B] Wolfgang (ID: 17772551/0x010F3007) [10174*]:
+172: 0x090E [0x2B] Wolfgang (ID: 17772551/0x010F3007) [10176*]:
     → "As you wish, my lord."
 173: 0x0915 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x0916 [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 17772551/0x010F3007), tag_num=0x27)
@@ -830,7 +830,7 @@ SUBROUTINE_058E:
 178: 0x092A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Eald'narche (ID: 17772554/0x010F300A) Render.Flags0 and Render.Flags3 conditions are met
 179: 0x092F [0x27] REQ_SET(priority=0x03, entity_id=Eald'narche (ID: 17772554/0x010F300A), tag_num=0x0A)
 180: 0x0936 [0x1C] WAIT(30* ticks)
-181: 0x0939 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10175*]:
+181: 0x0939 [0x2B] Eald'narche (ID: 17772554/0x010F300A) [10177*]:
     → "Heh. I can't wait!"
 182: 0x0940 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x0941 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Eald'narche (ID: 17772554/0x010F300A), tag_num=0x0B)

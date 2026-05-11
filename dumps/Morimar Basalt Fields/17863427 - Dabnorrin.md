@@ -71,47 +71,47 @@
 |      12 | 0x57AA4     |      359076 |
 |      13 | 0x862C      |       34348 |
 |      14 | 0xFFFFC180  |  4294951296 |
-|      15 | 0x1ECF      |        7887 |
-|      16 | 0x1EE3      |        7907 |
+|      15 | 0x1ED1      |        7889 |
+|      16 | 0x1EE5      |        7909 |
 |      17 | 0x0945      |        2373 |
-|      18 | 0x1EE4      |        7908 |
-|      19 | 0x1EE5      |        7909 |
-|      20 | 0x1EE9      |        7913 |
+|      18 | 0x1EE6      |        7910 |
+|      19 | 0x1EE7      |        7911 |
+|      20 | 0x1EEB      |        7915 |
 |      21 | 0x0466      |        1126 |
-|      22 | 0x1EEA      |        7914 |
-|      23 | 0x1EEB      |        7915 |
-|      24 | 0x1EEC      |        7916 |
+|      22 | 0x1EEC      |        7916 |
+|      23 | 0x1EED      |        7917 |
+|      24 | 0x1EEE      |        7918 |
 |      25 | 0x0000      |           0 |
-|      26 | 0x1EED      |        7917 |
+|      26 | 0x1EEF      |        7919 |
 |      27 | 0x0001      |           1 |
-|      28 | 0x1EEE      |        7918 |
+|      28 | 0x1EF0      |        7920 |
 |      29 | 0x0002      |           2 |
-|      30 | 0x1EF0      |        7920 |
+|      30 | 0x1EF2      |        7922 |
 |      31 | 0x0003      |           3 |
-|      32 | 0x1EF1      |        7921 |
-|      33 | 0x1F02      |        7938 |
-|      34 | 0x1F03      |        7939 |
-|      35 | 0x1F04      |        7940 |
-|      36 | 0x1F05      |        7941 |
+|      32 | 0x1EF3      |        7923 |
+|      33 | 0x1F04      |        7940 |
+|      34 | 0x1F05      |        7941 |
+|      35 | 0x1F06      |        7942 |
+|      36 | 0x1F07      |        7943 |
 
 ## String References
 
-- **7887**: This pioneering stuff is tough on the back. What I wouldn't give to be home in Adoulin with my family!
-- **7907**: Yes, I overheard what Hostenn was telling you. "Head to the open area in the northeast where you reach a dead end."
-- **7908**: Something about placing the $3 near the ergon locus and summoning an elemental.
-- **7909**: His challenge was for you to defeat it within ten minutes (Earth time), right? Should be simple enough. If you fail, come see me and we'll start the process over.
-- **7913**: You need another $3? I suppose I might have one lying around, but it'll take me some time to find one...
-- **7914**: Though if you really want to pass Hostenn's test, I can be persuaded to search extra hard for gil, bayld, or $3.
-- **7915**: Of course, if you'd rather wait, I'll be able to come across one eventually. What do you say?
-- **7916**: Purchase another one? [Purchase for 50000 gil./Purchase for 5000 bayld./Purchase for ten beastmen's seals./No purchasing for me.]
-- **7917**: Purchase the item for [50,000 gil/5000 bayld]? (Gil: $1). [Yes./No.]
-- **7918**: Purchase the item for [50,000 gil/5000 bayld]? (Bayld: $1). [Yes./No.]
-- **7920**: Trade me ten beastmen's seals if you really want the item.
-- **7921**: Well, well, so you're here for another $3. Don't screw it up this time, okay?
-- **7938**: Hostenn gave you one hell of a test, and you managed to clear it. Not bad. Not bad at all.
-- **7939**: If you want to give that elemental another go, just say the word and I'll give you another $3.
-- **7940**: Do you want another $3? [Sure!/No thanks.]
-- **7941**: You know how this works. Head to the northeast until you can't go any farther and place it down to lure in the creature. You've got ten minutes (Earth time) to succeed.
+- **7889**: This pioneering stuff is tough on the back. What I wouldn't give to be home in Adoulin with my family!
+- **7909**: Yes, I overheard what Hostenn was telling you. "Head to the open area in the northeast where you reach a dead end."
+- **7910**: Something about placing the $3 near the ergon locus and summoning an elemental.
+- **7911**: His challenge was for you to defeat it within ten minutes (Earth time), right? Should be simple enough. If you fail, come see me and we'll start the process over.
+- **7915**: You need another $3? I suppose I might have one lying around, but it'll take me some time to find one...
+- **7916**: Though if you really want to pass Hostenn's test, I can be persuaded to search extra hard for gil, bayld, or $3.
+- **7917**: Of course, if you'd rather wait, I'll be able to come across one eventually. What do you say?
+- **7918**: Purchase another one? [Purchase for 50000 gil./Purchase for 5000 bayld./Purchase for ten beastmen's seals./No purchasing for me.]
+- **7919**: Purchase the item for [50,000 gil/5000 bayld]? (Gil: $1). [Yes./No.]
+- **7920**: Purchase the item for [50,000 gil/5000 bayld]? (Bayld: $1). [Yes./No.]
+- **7922**: Trade me ten beastmen's seals if you really want the item.
+- **7923**: Well, well, so you're here for another $3. Don't screw it up this time, okay?
+- **7940**: Hostenn gave you one hell of a test, and you managed to clear it. Not bad. Not bad at all.
+- **7941**: If you want to give that elemental another go, just say the word and I'll give you another $3.
+- **7942**: Do you want another $3? [Sure!/No thanks.]
+- **7943**: You know how this works. Head to the northeast until you can't go any farther and place it down to lure in the creature. You've got ten minutes (Earth time) to succeed.
 
 ## Events
 
@@ -873,7 +873,7 @@
   0: 0x01E4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01EA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7887*)
+  3: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7889*)
     → "This pioneering stuff is tough on the back. What I wouldn't give to be home in Adoulin with my family!"
   4: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01EF [0x21] END_EVENT
@@ -905,14 +905,14 @@
   1: 0x01F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=209*
-  4: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
+  4: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
     → "Yes, I overheard what Hostenn was telling you. "Head to the open area in the northeast where you reach a dead end.""
   5: 0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x020B [0x03] Work_Zone[3] = 2373*
-  7: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
+  7: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
     → "Something about placing the $3 near the ergon locus and summoning an elemental."
   8: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
+  9: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "His challenge was for you to defeat it within ten minutes (Earth time), right? Should be simple enough. If you fail, come see me and we'll start the process over."
  10: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0218 [0x21] END_EVENT
@@ -959,23 +959,23 @@
   4: 0x0226 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   5: 0x022B [0x03] Work_Zone[3] = 2373*
   6: 0x0230 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=209*
-  7: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+  7: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "You need another $3? I suppose I might have one lying around, but it'll take me some time to find one..."
   8: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0243 [0x03] Work_Zone[5] = 1126*
- 10: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+ 10: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "Though if you really want to pass Hostenn's test, I can be persuaded to search extra hard for gil, bayld, or $3."
  11: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+ 12: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
     → "Of course, if you'd rather wait, I'll be able to come across one eventually. What do you say?"
  13: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0250 [0x24] CREATE_DIALOG(message_id=7916*, default_option=0*, option_flags=0*)
+ 14: 0x0250 [0x24] CREATE_DIALOG(message_id=7918*, default_option=0*, option_flags=0*)
     → "Purchase another one? [Purchase for 50000 gil./Purchase for 5000 bayld./Purchase for ten beastmen's seals./No purchasing for me.]"
  15: 0x0257 [0x25] WAIT_DIALOG_SELECT()
  16: 0x0258 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0295
  17: 0x0260 [0x03] Work_Zone[4] = 0*
  18: 0x0265 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 19: 0x026A [0x24] CREATE_DIALOG(message_id=7917*, default_option=1*, option_flags=0*)
+ 19: 0x026A [0x24] CREATE_DIALOG(message_id=7919*, default_option=1*, option_flags=0*)
     → "Purchase the item for [50,000 gil/5000 bayld]? (Gil: $1). [Yes./No.]"
  20: 0x0271 [0x25] WAIT_DIALOG_SELECT()
  21: 0x0272 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0282
@@ -990,7 +990,7 @@ SUBROUTINE_0292:
  28: 0x0295 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02D2
  29: 0x029D [0x03] Work_Zone[4] = 1*
  30: 0x02A2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 31: 0x02A7 [0x24] CREATE_DIALOG(message_id=7918*, default_option=1*, option_flags=0*)
+ 31: 0x02A7 [0x24] CREATE_DIALOG(message_id=7920*, default_option=1*, option_flags=0*)
     → "Purchase the item for [50,000 gil/5000 bayld]? (Bayld: $1). [Yes./No.]"
  32: 0x02AE [0x25] WAIT_DIALOG_SELECT()
  33: 0x02AF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02BF
@@ -1003,7 +1003,7 @@ SUBROUTINE_0292:
 SUBROUTINE_02CF:
  39: 0x02CF [0x01] GOTO 0x02F6
  40: 0x02D2 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x02E6
- 41: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
+ 41: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "Trade me ten beastmen's seals if you really want the item."
  42: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x02DE [0x03] Work_Zone[1] = 0*
@@ -1044,7 +1044,7 @@ SUBROUTINE_02F6:
   3: 0x02FF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0300 [0x03] Work_Zone[3] = 2373*
   5: 0x0305 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dabnorrin (ID: 17863427/0x01109303), tag_num=0x06)
-  6: 0x030C [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+  6: 0x030C [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
     → "Well, well, so you're here for another $3. Don't screw it up this time, okay?"
   7: 0x030F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0310 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dabnorrin (ID: 17863427/0x01109303), tag_num=0x07)
@@ -1077,7 +1077,7 @@ SUBROUTINE_02F6:
   1: 0x031E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x031F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0320 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=209*
-  4: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+  4: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Hostenn gave you one hell of a test, and you managed to clear it. Not bad. Not bad at all."
   5: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0333 [0x21] END_EVENT
@@ -1114,19 +1114,19 @@ SUBROUTINE_02F6:
   2: 0x033B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x033C [0x03] Work_Zone[3] = 2373*
   4: 0x0341 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=209*
-  5: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+  5: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Hostenn gave you one hell of a test, and you managed to clear it. Not bad. Not bad at all."
   6: 0x0353 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0354 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+  7: 0x0354 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "If you want to give that elemental another go, just say the word and I'll give you another $3."
   8: 0x0357 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0358 [0x24] CREATE_DIALOG(message_id=7940*, default_option=0*, option_flags=0*)
+  9: 0x0358 [0x24] CREATE_DIALOG(message_id=7942*, default_option=0*, option_flags=0*)
     → "Do you want another $3? [Sure!/No thanks.]"
  10: 0x035F [0x25] WAIT_DIALOG_SELECT()
  11: 0x0360 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0382
  12: 0x0368 [0x03] Work_Zone[1] = 2*
  13: 0x036D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dabnorrin (ID: 17863427/0x01109303), tag_num=0x06)
- 14: 0x0374 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
+ 14: 0x0374 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "You know how this works. Head to the northeast until you can't go any farther and place it down to lure in the creature. You've got ten minutes (Earth time) to succeed."
  15: 0x0377 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0378 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dabnorrin (ID: 17863427/0x01109303), tag_num=0x07)
@@ -1165,10 +1165,10 @@ SUBROUTINE_0392:
   1: 0x0399 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x039A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x039B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=209*
-  4: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+  4: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Hostenn gave you one hell of a test, and you managed to clear it. Not bad. Not bad at all."
   5: 0x03AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
+  6: 0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "You know how this works. Head to the northeast until you can't go any farther and place it down to lure in the creature. You've got ten minutes (Earth time) to succeed."
   7: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03B2 [0x21] END_EVENT
@@ -1218,30 +1218,30 @@ SUBROUTINE_0392:
   5: 0x03C5 [0x03] Work_Zone[5] = 1126*
   6: 0x03CA [0x03] Work_Zone[3] = 2373*
   7: 0x03CF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=209*
-  8: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+  8: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Hostenn gave you one hell of a test, and you managed to clear it. Not bad. Not bad at all."
   9: 0x03E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+ 10: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "If you want to give that elemental another go, just say the word and I'll give you another $3."
  11: 0x03E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x03E6 [0x03] Work_Zone[3] = 2373*
- 13: 0x03EB [0x24] CREATE_DIALOG(message_id=7940*, default_option=0*, option_flags=0*)
+ 13: 0x03EB [0x24] CREATE_DIALOG(message_id=7942*, default_option=0*, option_flags=0*)
     → "Do you want another $3? [Sure!/No thanks.]"
  14: 0x03F2 [0x25] WAIT_DIALOG_SELECT()
  15: 0x03F3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04AC
- 16: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+ 16: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "Though if you really want to pass Hostenn's test, I can be persuaded to search extra hard for gil, bayld, or $3."
  17: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+ 18: 0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
     → "Of course, if you'd rather wait, I'll be able to come across one eventually. What do you say?"
  19: 0x0402 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0403 [0x24] CREATE_DIALOG(message_id=7916*, default_option=0*, option_flags=0*)
+ 20: 0x0403 [0x24] CREATE_DIALOG(message_id=7918*, default_option=0*, option_flags=0*)
     → "Purchase another one? [Purchase for 50000 gil./Purchase for 5000 bayld./Purchase for ten beastmen's seals./No purchasing for me.]"
  21: 0x040A [0x25] WAIT_DIALOG_SELECT()
  22: 0x040B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0448
  23: 0x0413 [0x03] Work_Zone[4] = 0*
  24: 0x0418 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 25: 0x041D [0x24] CREATE_DIALOG(message_id=7917*, default_option=1*, option_flags=0*)
+ 25: 0x041D [0x24] CREATE_DIALOG(message_id=7919*, default_option=1*, option_flags=0*)
     → "Purchase the item for [50,000 gil/5000 bayld]? (Gil: $1). [Yes./No.]"
  26: 0x0424 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0425 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0435
@@ -1256,7 +1256,7 @@ SUBROUTINE_0445:
  34: 0x0448 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0485
  35: 0x0450 [0x03] Work_Zone[4] = 1*
  36: 0x0455 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 37: 0x045A [0x24] CREATE_DIALOG(message_id=7918*, default_option=1*, option_flags=0*)
+ 37: 0x045A [0x24] CREATE_DIALOG(message_id=7920*, default_option=1*, option_flags=0*)
     → "Purchase the item for [50,000 gil/5000 bayld]? (Bayld: $1). [Yes./No.]"
  38: 0x0461 [0x25] WAIT_DIALOG_SELECT()
  39: 0x0462 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0472
@@ -1269,7 +1269,7 @@ SUBROUTINE_0445:
 SUBROUTINE_0482:
  45: 0x0482 [0x01] GOTO 0x04A9
  46: 0x0485 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0499
- 47: 0x048D [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
+ 47: 0x048D [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "Trade me ten beastmen's seals if you really want the item."
  48: 0x0490 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0491 [0x03] Work_Zone[1] = 0*

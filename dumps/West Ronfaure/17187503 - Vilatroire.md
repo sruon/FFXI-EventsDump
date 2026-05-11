@@ -33,56 +33,56 @@
 |       2 | 0x0413      |        1043 |
 |       3 | 0x00EF      |         239 |
 |       4 | 0x001E      |          30 |
-|       5 | 0x1F6F      |        8047 |
+|       5 | 0x1F71      |        8049 |
 |       6 | 0x001D      |          29 |
-|       7 | 0x1F70      |        8048 |
-|       8 | 0x1F71      |        8049 |
+|       7 | 0x1F72      |        8050 |
+|       8 | 0x1F73      |        8051 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x1F72      |        8050 |
+|      10 | 0x1F74      |        8052 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x1F73      |        8051 |
-|      13 | 0x1F74      |        8052 |
-|      14 | 0x1F75      |        8053 |
-|      15 | 0x1F76      |        8054 |
-|      16 | 0x1F77      |        8055 |
-|      17 | 0x1F78      |        8056 |
-|      18 | 0x1F79      |        8057 |
-|      19 | 0x1D65      |        7525 |
-|      20 | 0x1D49      |        7497 |
-|      21 | 0x1D4A      |        7498 |
-|      22 | 0x1D4B      |        7499 |
-|      23 | 0x1D4C      |        7500 |
-|      24 | 0x1D4D      |        7501 |
-|      25 | 0x1D4E      |        7502 |
-|      26 | 0x1D67      |        7527 |
-|      27 | 0x1D68      |        7528 |
-|      28 | 0x1D52      |        7506 |
-|      29 | 0x1D53      |        7507 |
-|      30 | 0x1D55      |        7509 |
-|      31 | 0x1D56      |        7510 |
-|      32 | 0x1D64      |        7524 |
+|      12 | 0x1F75      |        8053 |
+|      13 | 0x1F76      |        8054 |
+|      14 | 0x1F77      |        8055 |
+|      15 | 0x1F78      |        8056 |
+|      16 | 0x1F79      |        8057 |
+|      17 | 0x1F7A      |        8058 |
+|      18 | 0x1F7B      |        8059 |
+|      19 | 0x1D67      |        7527 |
+|      20 | 0x1D4B      |        7499 |
+|      21 | 0x1D4C      |        7500 |
+|      22 | 0x1D4D      |        7501 |
+|      23 | 0x1D4E      |        7502 |
+|      24 | 0x1D4F      |        7503 |
+|      25 | 0x1D50      |        7504 |
+|      26 | 0x1D69      |        7529 |
+|      27 | 0x1D6A      |        7530 |
+|      28 | 0x1D54      |        7508 |
+|      29 | 0x1D55      |        7509 |
+|      30 | 0x1D57      |        7511 |
+|      31 | 0x1D58      |        7512 |
+|      32 | 0x1D66      |        7526 |
 |      33 | 0x000F      |          15 |
 |      34 | 0x0003      |           3 |
-|      35 | 0x1D5B      |        7515 |
+|      35 | 0x1D5D      |        7517 |
 |      36 | 0x0004      |           4 |
-|      37 | 0x1D5C      |        7516 |
+|      37 | 0x1D5E      |        7518 |
 |      38 | 0x0005      |           5 |
-|      39 | 0x1D5D      |        7517 |
-|      40 | 0x1D61      |        7521 |
-|      41 | 0x1D62      |        7522 |
-|      42 | 0x1D63      |        7523 |
-|      43 | 0x1D5A      |        7514 |
+|      39 | 0x1D5F      |        7519 |
+|      40 | 0x1D63      |        7523 |
+|      41 | 0x1D64      |        7524 |
+|      42 | 0x1D65      |        7525 |
+|      43 | 0x1D5C      |        7516 |
 |      44 | 0x0007      |           7 |
-|      45 | 0x1D51      |        7505 |
-|      46 | 0x1D60      |        7520 |
-|      47 | 0x1D66      |        7526 |
+|      45 | 0x1D53      |        7507 |
+|      46 | 0x1D62      |        7522 |
+|      47 | 0x1D68      |        7528 |
 |      48 | 0x00C9      |         201 |
-|      49 | 0x1D54      |        7508 |
-|      50 | 0x1D57      |        7511 |
-|      51 | 0x1D58      |        7512 |
-|      52 | 0x1D59      |        7513 |
+|      49 | 0x1D56      |        7510 |
+|      50 | 0x1D59      |        7513 |
+|      51 | 0x1D5A      |        7514 |
+|      52 | 0x1D5B      |        7515 |
 |      53 | 0x0024      |          36 |
-|      54 | 0x1D5F      |        7519 |
+|      54 | 0x1D61      |        7521 |
 |      55 | 0x0006      |           6 |
 |      56 | 0x000D      |          13 |
 |      57 | 0x0069      |         105 |
@@ -93,28 +93,28 @@
 |      62 | 0xFFFEE9AE  |  4294896046 |
 |      63 | 0x0FED      |        4077 |
 |      64 | 0x002D      |          45 |
-|      65 | 0x1D4F      |        7503 |
-|      66 | 0x1D50      |        7504 |
-|      67 | 0x1D5E      |        7518 |
-|      68 | 0x1D69      |        7529 |
-|      69 | 0x1D6A      |        7530 |
+|      65 | 0x1D51      |        7505 |
+|      66 | 0x1D52      |        7506 |
+|      67 | 0x1D60      |        7520 |
+|      68 | 0x1D6B      |        7531 |
+|      69 | 0x1D6C      |        7532 |
 |      70 | 0x0013      |          19 |
 
 ## String References
 
-- **7503**: Try forming a party? [Let's give it a go!/Not now, thanks.]
-- **7522**: Where are your party members? [Present and accounted for./They're not here yet.]
-- **8047**: Another quiet day on the western fron-- Ah, I wondered when you would arrive! Monarlais Halver has entrusted me with your evaluation.
-- **8048**: When it comes to party structure, I am considered quite the expert. Now, where to start...
-- **8049**: Hmmm... It would appear that you avoid joining parties for the most part. Not a policy I approve of personally, but I suppose there is some satisfaction to be found in adventuring alone. No need to divide the spoils of battle, eh?
-- **8050**: It would appear you join your fair share of parties. But just remember--the more parties you join, the more unique experiences you can encounter.
-- **8051**: Well I must say, this is extraordinary! I never thought it was possible for one person to join so many parties! I must be careful lest you steal my position of party structure expert!
-- **8052**: Now, on to our next point. You seem to have had few opportunities to join an alliance. I must admit to having little experience in this area myself. No other group of knights seems willing to ally with my unit...
-- **8053**: Next, we come to the number of alliances joined. A respectable figure. You appear to have learned the lesson of strength in numbers.
-- **8054**: Next, we come to the number of alliances joined... Incredible! Are you by chance some great leader of adventurers come to lecture my unit in the ways of perfect party proportions?
-- **8055**: Lastly, we come to the subject of your current party. My advice would be to take advantage of the Adventurer Appreciation campaign to enjoy the diversity of a less familiar group.
-- **8056**: Lastly, we come to the subject of your current party. I can sense a different type of unity than can be found in the party structures I usually recommend. You have found strength in diversity.
-- **8057**: Your evaluation will be forwarded to the moogles. Do not forget to visit the other nations to complete your evaluation. Farewell!
+- **7505**: Try forming a party? [Let's give it a go!/Not now, thanks.]
+- **7524**: Where are your party members? [Present and accounted for./They're not here yet.]
+- **8049**: Another quiet day on the western fron-- Ah, I wondered when you would arrive! Monarlais Halver has entrusted me with your evaluation.
+- **8050**: When it comes to party structure, I am considered quite the expert. Now, where to start...
+- **8051**: Hmmm... It would appear that you avoid joining parties for the most part. Not a policy I approve of personally, but I suppose there is some satisfaction to be found in adventuring alone. No need to divide the spoils of battle, eh?
+- **8052**: It would appear you join your fair share of parties. But just remember--the more parties you join, the more unique experiences you can encounter.
+- **8053**: Well I must say, this is extraordinary! I never thought it was possible for one person to join so many parties! I must be careful lest you steal my position of party structure expert!
+- **8054**: Now, on to our next point. You seem to have had few opportunities to join an alliance. I must admit to having little experience in this area myself. No other group of knights seems willing to ally with my unit...
+- **8055**: Next, we come to the number of alliances joined. A respectable figure. You appear to have learned the lesson of strength in numbers.
+- **8056**: Next, we come to the number of alliances joined... Incredible! Are you by chance some great leader of adventurers come to lecture my unit in the ways of perfect party proportions?
+- **8057**: Lastly, we come to the subject of your current party. My advice would be to take advantage of the Adventurer Appreciation campaign to enjoy the diversity of a less familiar group.
+- **8058**: Lastly, we come to the subject of your current party. I can sense a different type of unity than can be found in the party structures I usually recommend. You have found strength in diversity.
+- **8059**: Your evaluation will be forwarded to the moogles. Do not forget to visit the other nations to complete your evaluation. Farewell!
 
 ## Events
 
@@ -202,13 +202,13 @@
  11: 0x005B [0x27] REQ_SET(priority=0x0A, entity_id=Unknown NPC (ID: 2147483637/0x7FFFFFF5), tag_num=0x02)
  12: 0x0062 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x0073 [0x1C] WAIT(30* ticks)
- 14: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=8047*)
+ 14: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=8049*)
     → "Another quiet day on the western fron-- Ah, I wondered when you would arrive! Monarlais Halver has entrusted me with your evaluation."
  15: 0x0079 [0x1E] EventEntity looks at LocalPlayer and starts talking
  16: 0x007E [0x7B] EventEntity stops talking
  17: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
- 19: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8048*)
+ 19: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8050*)
     → "When it comes to party structure, I am considered quite the expert. Now, where to start..."
  20: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0097 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=239*
@@ -219,17 +219,17 @@
  26: 0x00C9 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unknown NPC (ID: 2147483636/0x7FFFFFF4)
  27: 0x00CF [0x4E] SET_ENTITY_HIDE_FLAG: Show Unknown NPC (ID: 2147483637/0x7FFFFFF5)
  28: 0x00D5 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00E4
- 29: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8049*)
+ 29: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8051*)
     → "Hmmm... It would appear that you avoid joining parties for the most part. Not a policy I approve of personally, but I suppose there is some satisfaction to be found in adventuring alone. No need to divide the spoils of battle, eh?"
  30: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00E1 [0x01] GOTO 0x0102
  32: 0x00E4 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x00F3
- 33: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8050*)
+ 33: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8052*)
     → "It would appear you join your fair share of parties. But just remember--the more parties you join, the more unique experiences you can encounter."
  34: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00F0 [0x01] GOTO 0x0102
  36: 0x00F3 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0102
- 37: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8051*)
+ 37: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
     → "Well I must say, this is extraordinary! I never thought it was possible for one person to join so many parties! I must be careful lest you steal my position of party structure expert!"
  38: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00FF [0x01] GOTO 0x0102
@@ -237,17 +237,17 @@
 SUBROUTINE_0102:
  40: 0x0102 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
  41: 0x0111 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0120
- 42: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=8052*)
+ 42: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=8054*)
     → "Now, on to our next point. You seem to have had few opportunities to join an alliance. I must admit to having little experience in this area myself. No other group of knights seems willing to ally with my unit..."
  43: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x011D [0x01] GOTO 0x013E
  45: 0x0120 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x012F
- 46: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
+ 46: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=8055*)
     → "Next, we come to the number of alliances joined. A respectable figure. You appear to have learned the lesson of strength in numbers."
  47: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x012C [0x01] GOTO 0x013E
  49: 0x012F [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x013E
- 50: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=8054*)
+ 50: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=8056*)
     → "Next, we come to the number of alliances joined... Incredible! Are you by chance some great leader of adventurers come to lecture my unit in the ways of perfect party proportions?"
  51: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x013B [0x01] GOTO 0x013E
@@ -257,17 +257,17 @@ SUBROUTINE_013E:
  54: 0x014D [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=239*
  55: 0x015C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[239*, 0*]
  56: 0x016D [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x017C
- 57: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=8055*)
+ 57: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=8057*)
     → "Lastly, we come to the subject of your current party. My advice would be to take advantage of the Adventurer Appreciation campaign to enjoy the diversity of a less familiar group."
  58: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0179 [0x01] GOTO 0x0180
- 60: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8056*)
+ 60: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
     → "Lastly, we come to the subject of your current party. I can sense a different type of unity than can be found in the party structures I usually recommend. You have found strength in diversity."
  61: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0180:
  62: 0x0180 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
- 63: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=8057*)
+ 63: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
     → "Your evaluation will be forwarded to the moogles. Do not forget to visit the other nations to complete your evaluation. Farewell!"
  64: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0193 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -300,7 +300,7 @@ SUBROUTINE_0180:
 
 ```
   0: 0x01D7 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x01DC [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7525*]:
+  1: 0x01DC [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7527*]:
     → "A lone adventurer, eh? You look as though you've seen some battles...but not nearly enough. Train, and grow strong, friend."
   2: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01E4 [0x21] END_EVENT
@@ -340,26 +340,26 @@ SUBROUTINE_0180:
   3: 0x01F6 [0x21] END_EVENT
   4: 0x01F7 [0x00] END_REQSTACK()
   5: 0x01F8 [0x1A] CALL_SUBROUTINE(address=0x06F8)
-  6: 0x01FB [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7497*]:
+  6: 0x01FB [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7499*]:
     → "A lone adventurer, are you? You look tough. Seen your share of battles, I'd wager?"
   7: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0203 [0x1A] CALL_SUBROUTINE(address=0x077D)
   9: 0x0206 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
- 10: 0x0215 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7498*]:
+ 10: 0x0215 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7500*]:
     → "We here are a team of six elite soldiers, charged with guarding this watchtower."
  11: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x021D [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7499*]:
+ 12: 0x021D [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7501*]:
     → "We watch day and night to ensure that no monsters approach the city, and no troublemakers loiter nearby...so teamwork is essential."
  13: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0225 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
  15: 0x022B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg02" with entities [LocalPlayer, LocalPlayer], work=[0*, 0*]
- 16: 0x023C [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7500*]:
+ 16: 0x023C [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7502*]:
     → "You've formed a party before, right? An organized party is stronger than the combined strength of its members."
  17: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0244 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7501*]:
+ 18: 0x0244 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7503*]:
     → "Parties with people of the same nationality tend to be organized--because you can always rely on your own countrymen when times are rough."
  19: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x024C [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7502*]:
+ 20: 0x024C [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7504*]:
     → "Try to form a party with at least two members, all with allegiance to the same country. Think you can do it?"
  21: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0254 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg02" with entities [LocalPlayer, LocalPlayer], work=0*
@@ -390,7 +390,7 @@ SUBROUTINE_0180:
 
 ```
   0: 0x026E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0273 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7527*]:
+  1: 0x0273 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7529*]:
     → "When you're one step closer to becoming a certified adventurer, I have a task for you. Remember, fighting is not everything! Don't waste your potential."
   2: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x027B [0x21] END_EVENT
@@ -427,15 +427,15 @@ SUBROUTINE_0180:
   3: 0x028D [0x21] END_EVENT
   4: 0x028E [0x00] END_REQSTACK()
   5: 0x028F [0x1A] CALL_SUBROUTINE(address=0x06F8)
-  6: 0x0292 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7528*]:
+  6: 0x0292 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7530*]:
     → "Welcome back, adventurer. You seem more experienced than last we met. Yes, I've heard some stories of your exploits."
   7: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x029A [0x1A] CALL_SUBROUTINE(address=0x077D)
   9: 0x029D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
- 10: 0x02AC [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7506*]:
+ 10: 0x02AC [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7508*]:
     → "Ready for your next task? This time, I want you to make a party with at least two members, all of the same race!"
  11: 0x02B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x02B4 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7507*]:
+ 12: 0x02B4 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7509*]:
     → "Companions in arms who share the same blood in their veins fight fiercer than your usual rag-tag mobs. Think you can do it?"
  13: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x02BC [0x1A] CALL_SUBROUTINE(address=0x087C)
@@ -463,7 +463,7 @@ SUBROUTINE_0180:
 
 ```
   0: 0x02C1 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x02C6 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7527*]:
+  1: 0x02C6 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7529*]:
     → "When you're one step closer to becoming a certified adventurer, I have a task for you. Remember, fighting is not everything! Don't waste your potential."
   2: 0x02CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02CE [0x21] END_EVENT
@@ -499,15 +499,15 @@ SUBROUTINE_0180:
   3: 0x02E0 [0x21] END_EVENT
   4: 0x02E1 [0x00] END_REQSTACK()
   5: 0x02E2 [0x1A] CALL_SUBROUTINE(address=0x06F8)
-  6: 0x02E5 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7528*]:
+  6: 0x02E5 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7530*]:
     → "Welcome back, adventurer. You seem more experienced than last we met. Yes, I've heard some stories of your exploits."
   7: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02ED [0x1A] CALL_SUBROUTINE(address=0x077D)
   9: 0x02F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
- 10: 0x02FF [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7509*]:
+ 10: 0x02FF [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7511*]:
     → "Ready for your next task? I want you to form a party, at least two members strong, all with the same job!"
  11: 0x0306 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0307 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7510*]:
+ 12: 0x0307 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7512*]:
     → "Those who walk the same path as you are truly trustworthy. How about it?"
  13: 0x030E [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x030F [0x1A] CALL_SUBROUTINE(address=0x087C)
@@ -536,7 +536,7 @@ SUBROUTINE_0180:
 
 ```
   0: 0x0314 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0319 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7524*]:
+  1: 0x0319 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7526*]:
     → "You may not measure up to my elite squad, but keep at it, and someday, maybe you'll win a post here in the watchtower."
   2: 0x0320 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0321 [0x21] END_EVENT
@@ -750,21 +750,21 @@ SUBROUTINE_03D8:
  51: 0x040D [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x042B
  52: 0x0415 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0428
  53: 0x041D [0x1A] CALL_SUBROUTINE(address=0x06C5)
- 54: 0x0420 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7515*]:
+ 54: 0x0420 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7517*]:
     → "Not all of your members are of the same nationality!"
  55: 0x0427 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0428 [0x01] GOTO 0x0467
  57: 0x042B [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0449
  58: 0x0433 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0446
  59: 0x043B [0x1A] CALL_SUBROUTINE(address=0x06C5)
- 60: 0x043E [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7516*]:
+ 60: 0x043E [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7518*]:
     → "Not all of your members are of the same race!"
  61: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0446 [0x01] GOTO 0x0467
  63: 0x0449 [0x02] IF !(ExtData[1]->WorkLocal[2] == 5*) GOTO 0x0467
  64: 0x0451 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0464
  65: 0x0459 [0x1A] CALL_SUBROUTINE(address=0x06C5)
- 66: 0x045C [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7517*]:
+ 66: 0x045C [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7519*]:
     → "Not all of your members have the same job!"
  67: 0x0463 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0464 [0x01] GOTO 0x0467
@@ -776,15 +776,15 @@ SUBROUTINE_0468:
  70: 0x0468 [0x06] ExtData[1]->WorkLocal[0] = 0
  71: 0x046B [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x04E3
  72: 0x0473 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
- 73: 0x0482 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7521*]:
+ 73: 0x0482 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7523*]:
     → "What's that? Are all your party members here?"
  74: 0x0489 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x048A [0x24] CREATE_DIALOG(message_id=7522*, default_option=1*, option_flags=0*)
+ 75: 0x048A [0x24] CREATE_DIALOG(message_id=7524*, default_option=1*, option_flags=0*)
     → "Where are your party members? [Present and accounted for./They're not here yet.]"
  76: 0x0491 [0x25] WAIT_DIALOG_SELECT()
  77: 0x0492 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04C7
  78: 0x049A [0x03] ExtData[1]->WorkLocal[0] = 1*
- 79: 0x049F [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7523*]:
+ 79: 0x049F [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7525*]:
     → "It's takes two not just to tango, but also to form a party. Report to me once you've gathered your comrades. I'll be the judge of their worth."
  80: 0x04A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x04A7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
@@ -800,7 +800,7 @@ SUBROUTINE_04E4:
  87: 0x04E4 [0x46] CAMERA_CONTROL: Disable user control
  88: 0x04E6 [0x1A] CALL_SUBROUTINE(address=0x0817)
  89: 0x04E9 [0x1A] CALL_SUBROUTINE(address=0x06C5)
- 90: 0x04EC [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7514*]:
+ 90: 0x04EC [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7516*]:
     → "Hmm...you seem to be short of members. You need more people than just yourself. Bring them here once you've gathered them."
  91: 0x04F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x04F4 [0x1B] RETURN
@@ -812,16 +812,16 @@ SUBROUTINE_04F5:
  96: 0x0501 [0x6E] Vilatroire (ID: 17187503/0x010642AF) uses emote 7*
  97: 0x0508 [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
  98: 0x050D [0x1C] WAIT(15* ticks)
- 99: 0x0510 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7505*]:
+ 99: 0x0510 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7507*]:
     → "Hmm, not bad... Not bad at all. You've done well; few opponents could face your combined might. Good luck!"
 100: 0x0517 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0518 [0x6E] Vilatroire (ID: 17187503/0x010642AF) uses emote 0*
 102: 0x051F [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
 103: 0x0524 [0x1C] WAIT(15* ticks)
-104: 0x0527 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7520*]:
+104: 0x0527 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7522*]:
     → "Let me give you this as a token of your achievement."
 105: 0x052E [0x23] WAIT_FOR_DIALOG_INTERACTION
-106: 0x052F [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7526*]:
+106: 0x052F [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7528*]:
     → "Good job. You do not compare to us yet, but you're well on your way. Good luck, adventurer!"
 107: 0x0536 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x0537 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -836,16 +836,16 @@ SUBROUTINE_0549:
 115: 0x0563 [0x6E] Vilatroire (ID: 17187503/0x010642AF) uses emote 7*
 116: 0x056A [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
 117: 0x056F [0x1C] WAIT(15* ticks)
-118: 0x0572 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7508*]:
+118: 0x0572 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7510*]:
     → "As I thought, a party of the same race presents a formidable unity that is rarely seen! Treasure your bond, and you will go far."
 119: 0x0579 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x057A [0x6E] Vilatroire (ID: 17187503/0x010642AF) uses emote 0*
 121: 0x0581 [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
 122: 0x0586 [0x1C] WAIT(15* ticks)
-123: 0x0589 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7520*]:
+123: 0x0589 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7522*]:
     → "Let me give you this as a token of your achievement."
 124: 0x0590 [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x0591 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7526*]:
+125: 0x0591 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7528*]:
     → "Good job. You do not compare to us yet, but you're well on your way. Good luck, adventurer!"
 126: 0x0598 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0599 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -862,19 +862,19 @@ SUBROUTINE_05AB:
 136: 0x05D3 [0x6E] Vilatroire (ID: 17187503/0x010642AF) uses emote 7*
 137: 0x05DA [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
 138: 0x05DF [0x1C] WAIT(15* ticks)
-139: 0x05E2 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7511*]:
+139: 0x05E2 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7513*]:
     → "Excellent! Well done! I believe you've learned the value of teamwork."
 140: 0x05E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x05EA [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
 142: 0x05F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg02" with entities [LocalPlayer, LocalPlayer], work=[0*, 0*]
 143: 0x0601 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
-144: 0x0610 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7512*]:
+144: 0x0610 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7514*]:
     → "You may not measure up to my elite squad here, but keep at it, and someday, maybe you'll win a post here in the watchtower."
 145: 0x0617 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0618 [0x6E] Vilatroire (ID: 17187503/0x010642AF) uses emote 0*
 147: 0x061F [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
 148: 0x0624 [0x1C] WAIT(15* ticks)
-149: 0x0627 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7513*]:
+149: 0x0627 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7515*]:
     → "I give you this to commemorate your achievement, and the strength of your party. May you and your comrades-in-arms grow in strength, and prosper."
 150: 0x062E [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x062F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -939,7 +939,7 @@ SUBROUTINE_0AE7:
      0x069C [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
      0x06A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=[0*, 0*]
      0x06B2 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x07)
-     0x06B9 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7519*]:
+     0x06B9 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7521*]:
     → "Now, go! Wonders and fortune await you, adventurer!"
      0x06C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06C1 [0x1C] WAIT(30* ticks)
@@ -989,7 +989,7 @@ SUBROUTINE_0AE7:
 # Dead code (unreachable instructions):
      0x087C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg03" with entities [LocalPlayer, LocalPlayer], work=[0*, 0*]
      0x088D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
-     0x089C [0x24] CREATE_DIALOG(message_id=7503*, default_option=1*, option_flags=0*)
+     0x089C [0x24] CREATE_DIALOG(message_id=7505*, default_option=1*, option_flags=0*)
     → "Try forming a party? [Let's give it a go!/Not now, thanks.]"
      0x08A3 [0x25] WAIT_DIALOG_SELECT()
      0x08A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0936
@@ -1001,7 +1001,7 @@ SUBROUTINE_0AE7:
      0x08CD [0x6E] Vilatroire (ID: 17187503/0x010642AF) uses emote 7*
      0x08D4 [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
      0x08D9 [0x1C] WAIT(15* ticks)
-     0x08DC [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7504*]:
+     0x08DC [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7506*]:
     → "Very well. Let me know when you've collected all your party members. I'll be the judge of whether you've put together a working party or not."
      0x08E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08E4 [0x27] REQ_SET(priority=0x10, entity_id=Chatarre (ID: 17187498/0x010642AA), tag_num=0x0B)
@@ -1013,7 +1013,7 @@ SUBROUTINE_0AE7:
      0x090E [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
      0x0913 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=[0*, 0*]
      0x0924 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x07)
-     0x092B [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7519*]:
+     0x092B [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7521*]:
     → "Now, go! Wonders and fortune await you, adventurer!"
      0x0932 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0933 [0x01] GOTO 0x098A
@@ -1029,7 +1029,7 @@ SUBROUTINE_0AE7:
      0x0970 [0x6E] Vilatroire (ID: 17187503/0x010642AF) uses emote 5*
      0x0977 [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
      0x097C [0x1C] WAIT(15* ticks)
-     0x097F [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7518*]:
+     0x097F [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7520*]:
     → "I see... Too bad, that."
      0x0986 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0987 [0x01] GOTO 0x098A
@@ -1044,11 +1044,11 @@ SUBROUTINE_0AE7:
      0x09B7 [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x09BC [0x1C] WAIT(15* ticks)
      0x09BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
-     0x09CE [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7529*]:
+     0x09CE [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7531*]:
     → "So, ready to take my test?"
      0x09D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09D6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Vilatroire (ID: 17187503/0x010642AF), Vilatroire (ID: 17187503/0x010642AF)], work=29*
-     0x09E5 [0x24] CREATE_DIALOG(message_id=7503*, default_option=1*, option_flags=0*)
+     0x09E5 [0x24] CREATE_DIALOG(message_id=7505*, default_option=1*, option_flags=0*)
     → "Try forming a party? [Let's give it a go!/Not now, thanks.]"
      0x09EC [0x25] WAIT_DIALOG_SELECT()
      0x09ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A8E
@@ -1059,7 +1059,7 @@ SUBROUTINE_0AE7:
      0x0A0C [0x6E] Vilatroire (ID: 17187503/0x010642AF) uses emote 7*
      0x0A13 [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
      0x0A18 [0x1C] WAIT(15* ticks)
-     0x0A1B [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7530*]:
+     0x0A1B [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7532*]:
     → "That's the answer I was waiting for! Report to me when you've gathered all your members. I'll be the judge of their worth."
      0x0A22 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A23 [0x27] REQ_SET(priority=0x10, entity_id=Chatarre (ID: 17187498/0x010642AA), tag_num=0x0B)
@@ -1071,7 +1071,7 @@ SUBROUTINE_0AE7:
      0x0A4D [0x99] Wait for Vilatroire (ID: 17187503/0x010642AF) animation to complete
      0x0A52 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=[0*, 0*]
      0x0A63 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x07)
-     0x0A6A [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7519*]:
+     0x0A6A [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7521*]:
     → "Now, go! Wonders and fortune await you, adventurer!"
      0x0A71 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A72 [0x1A] CALL_SUBROUTINE(address=0x0AC3)
@@ -1080,7 +1080,7 @@ SUBROUTINE_0AE7:
      0x0A89 [0x46] CAMERA_CONTROL: Restore default settings
      0x0A8B [0x01] GOTO 0x0AA1
      0x0A8E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0AA1
-     0x0A96 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7518*]:
+     0x0A96 [0x2B] Vilatroire (ID: 17187503/0x010642AF) [7520*]:
     → "I see... Too bad, that."
      0x0A9D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A9E [0x01] GOTO 0x0AA1

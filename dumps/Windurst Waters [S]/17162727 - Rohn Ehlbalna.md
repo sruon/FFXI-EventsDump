@@ -34,7 +34,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2CAF      |       11439 |
+|       1 | 0x2CB1      |       11441 |
 |       2 | 0x005D      |          93 |
 |       3 | 0x0050      |          80 |
 |       4 | 0x000D      |          13 |
@@ -45,8 +45,8 @@
 |       9 | 0xFFFD6822  |  4294797346 |
 |      10 | 0xFFFFFB1F  |  4294966047 |
 |      11 | 0x003B      |          59 |
-|      12 | 0x2AD7      |       10967 |
-|      13 | 0x2AD8      |       10968 |
+|      12 | 0x2AD9      |       10969 |
+|      13 | 0x2ADA      |       10970 |
 |      14 | 0xFFFF56CF  |  4294923983 |
 |      15 | 0xFFFD8207  |  4294803975 |
 |      16 | 0xFFFF5C7A  |  4294925434 |
@@ -122,7 +122,7 @@
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0007 [0x1C] WAIT(30* ticks)
-  2: 0x000A [0x2B] Rohn Ehlbalna (ID: 17162727/0x0105E1E7) [11439*]:
+  2: 0x000A [0x2B] Rohn Ehlbalna (ID: 17162727/0x0105E1E7) [11441*]:
     → "Please, tell Kocco what a cruel and difficult place the world can be. I'd be most apprrreciative."
   3: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0012 [0x21] END_EVENT
@@ -258,10 +258,10 @@
   0: 0x004B [0x4A] EventEntity looks at LocalPlayer
   1: 0x0054 [0x1C] WAIT(30* ticks)
   2: 0x0057 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  3: 0x0066 [0x2B] EventEntity [10967*]:
+  3: 0x0066 [0x2B] EventEntity [10969*]:
     → "Yes, I'm a Mithra Mercenary. Do you know of my unit, adventurer? The Anacondas. Led by the grrreat Perih Vashai."
   4: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x006E [0x2B] EventEntity [10968*]:
+  5: 0x006E [0x2B] EventEntity [10970*]:
     → "She is a master of the bow. And not only strong, but smarrrt as a whip to boot. There aren't many leaders these days so trusted by their troops as she."
   6: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0076 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

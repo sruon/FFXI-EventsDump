@@ -30,15 +30,15 @@
 |       5 | 0xFFFED336  |  4294890294 |
 |       6 | 0xFFFFFD4A  |  4294966602 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x1FC5      |        8133 |
-|       9 | 0x1FC6      |        8134 |
-|      10 | 0x1FC7      |        8135 |
+|       8 | 0x1FC7      |        8135 |
+|       9 | 0x1FC8      |        8136 |
+|      10 | 0x1FC9      |        8137 |
 
 ## String References
 
-- **8133**: Just head west down this street and take a right at the end of it. That will lead you to Watchdog Alley.
-- **8134**: It now serves as a residential area for our kingdom's squires, so it's quite safe. But it was once a haven for criminals and all sorts of sordid types.
-- **8135**: During the Great War the quarter was even used for the public hangings of captured beastmen. To think...
+- **8135**: Just head west down this street and take a right at the end of it. That will lead you to Watchdog Alley.
+- **8136**: It now serves as a residential area for our kingdom's squires, so it's quite safe. But it was once a haven for criminals and all sorts of sordid types.
+- **8137**: During the Great War the quarter was even used for the public hangings of captured beastmen. To think...
 
 ## Events
 
@@ -140,13 +140,13 @@
   2: 0x0024 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0025 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0026 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
     → "Just head west down this street and take a right at the end of it. That will lead you to Watchdog Alley."
   6: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
+  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
     → "It now serves as a residential area for our kingdom's squires, so it's quite safe. But it was once a haven for criminals and all sorts of sordid types."
   8: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
+  9: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
     → "During the Great War the quarter was even used for the public hangings of captured beastmen. To think..."
  10: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0041 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

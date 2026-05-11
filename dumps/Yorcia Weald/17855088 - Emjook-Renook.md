@@ -32,31 +32,31 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x221C      |        8732 |
-|       3 | 0x221D      |        8733 |
+|       2 | 0x221E      |        8734 |
+|       3 | 0x221F      |        8735 |
 |       4 | 0x58EEF     |      364271 |
 |       5 | 0x2433F     |      148287 |
 |       6 | 0x00CD      |         205 |
 |       7 | 0x0031      |          49 |
-|       8 | 0x1F46      |        8006 |
-|       9 | 0x1F47      |        8007 |
-|      10 | 0x1F5A      |        8026 |
+|       8 | 0x1F48      |        8008 |
+|       9 | 0x1F49      |        8009 |
+|      10 | 0x1F5C      |        8028 |
 |      11 | 0x000D      |          13 |
 |      12 | 0x58E4C     |      364108 |
 |      13 | 0x244C6     |      148678 |
 |      14 | 0x00D7      |         215 |
-|      15 | 0x1F6F      |        8047 |
-|      16 | 0x1F70      |        8048 |
+|      15 | 0x1F71      |        8049 |
+|      16 | 0x1F72      |        8050 |
 
 ## String References
 
-- **8006**: I can't say for sure, but I assume I lostaru my badge around the coordinates J-8, H-9, or I-8.
-- **8007**: I'm beg-wegging you, please find it for me. I'm as good as dead without it!
-- **8026**: Robertioux's abilities certainly rival-wival the Merciless One's, if not surpass them.
-- **8047**: Borghest is right. The best option is to inform-worm the coalition representatives in Foret de Hennetiel and beseech their aid.
-- **8048**: We're countaruing on you!
-- **8732**: No one who has found this frontier station has ever returned to Adoulin, for Yorcia Weald is a veritable labyrinth-wabyrinth of vegetation.
-- **8733**: Truth be told, it's a miracle you made it here in the firstaru place.
+- **8008**: I can't say for sure, but I assume I lostaru my badge around the coordinates J-8, H-9, or I-8.
+- **8009**: I'm beg-wegging you, please find it for me. I'm as good as dead without it!
+- **8028**: Robertioux's abilities certainly rival-wival the Merciless One's, if not surpass them.
+- **8049**: Borghest is right. The best option is to inform-worm the coalition representatives in Foret de Hennetiel and beseech their aid.
+- **8050**: We're countaruing on you!
+- **8734**: No one who has found this frontier station has ever returned to Adoulin, for Yorcia Weald is a veritable labyrinth-wabyrinth of vegetation.
+- **8735**: Truth be told, it's a miracle you made it here in the firstaru place.
 
 ## Events
 
@@ -158,10 +158,10 @@
   1: 0x002C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=8732*)
+  4: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=8734*)
     → "No one who has found this frontier station has ever returned to Adoulin, for Yorcia Weald is a veritable labyrinth-wabyrinth of vegetation."
   5: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8733*)
+  6: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8735*)
     → "Truth be told, it's a miracle you made it here in the firstaru place."
   7: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0045 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -247,10 +247,10 @@
   1: 0x0078 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0079 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x007A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  4: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
+  4: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
     → "I can't say for sure, but I assume I lostaru my badge around the coordinates J-8, H-9, or I-8."
   5: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
+  6: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
     → "I'm beg-wegging you, please find it for me. I'm as good as dead without it!"
   7: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0091 [0x21] END_EVENT
@@ -303,7 +303,7 @@
   1: 0x0099 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x009A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x009B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  4: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
+  4: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
     → "Robertioux's abilities certainly rival-wival the Merciless One's, if not surpass them."
   5: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00AE [0x21] END_EVENT
@@ -382,10 +382,10 @@
   1: 0x00C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  4: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8047*)
+  4: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8049*)
     → "Borghest is right. The best option is to inform-worm the coalition representatives in Foret de Hennetiel and beseech their aid."
   5: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8048*)
+  6: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8050*)
     → "We're countaruing on you!"
   7: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00DD [0x21] END_EVENT

@@ -105,7 +105,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D29      |        7465 |
+|       0 | 0x1D2B      |        7467 |
 |       1 | 0x00C9      |         201 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x008C      |         140 |
@@ -122,7 +122,7 @@
 |      14 | 0x0C00      |        3072 |
 |      15 | 0xFFFF55C3  |  4294923715 |
 |      16 | 0xFFFF6D01  |  4294929665 |
-|      17 | 0x1C5F      |        7263 |
+|      17 | 0x1C61      |        7265 |
 |      18 | 0x0001      |           1 |
 |      19 | 0x8D9A0     |      580000 |
 |      20 | 0x84918     |      543000 |
@@ -244,8 +244,8 @@
 
 ## String References
 
-- **7263**: Use the device? [Yes./No.]
-- **7465**: The order has been given to invade [the Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/the Ilrusi Atoll/Nyzul Isle/the Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
+- **7265**: Use the device? [Yes./No.]
+- **7467**: The order has been given to invade [the Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/the Ilrusi Atoll/Nyzul Isle/the Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
 
 ## Events
 
@@ -315,7 +315,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7465*]:
+  1: 0x0003 [0x48] [System] [7467*]:
     → "The order has been given to invade [the Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/the Ilrusi Atoll/Nyzul Isle/the Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!"
   2: 0x0006 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [EventEntity, EventEntity], work=[201*, 0*]
   3: 0x0017 [0x1C] WAIT(140* ticks)
@@ -730,7 +730,7 @@
 
 ```
   0: 0x013C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x013E [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x013E [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0145 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0146 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0175
@@ -776,7 +776,7 @@ SUBROUTINE_0180:
 
 ```
   0: 0x0184 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0186 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x0186 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x018D [0x25] WAIT_DIALOG_SELECT()
   3: 0x018E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BD
@@ -823,7 +823,7 @@ SUBROUTINE_01C8:
 
 ```
   0: 0x01CC [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x01CE [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x01CE [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x01D5 [0x25] WAIT_DIALOG_SELECT()
   3: 0x01D6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0205
@@ -869,7 +869,7 @@ SUBROUTINE_0210:
 
 ```
   0: 0x0214 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0216 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x0216 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x021D [0x25] WAIT_DIALOG_SELECT()
   3: 0x021E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x024D
@@ -916,7 +916,7 @@ SUBROUTINE_0258:
 
 ```
   0: 0x025C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x025E [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x025E [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0265 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0266 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0295
@@ -962,7 +962,7 @@ SUBROUTINE_02A0:
 
 ```
   0: 0x02A4 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x02A6 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x02A6 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x02AD [0x25] WAIT_DIALOG_SELECT()
   3: 0x02AE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02DD
@@ -1009,7 +1009,7 @@ SUBROUTINE_02E8:
 
 ```
   0: 0x02EC [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x02EE [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x02EE [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x02F5 [0x25] WAIT_DIALOG_SELECT()
   3: 0x02F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0325
@@ -1055,7 +1055,7 @@ SUBROUTINE_0330:
 
 ```
   0: 0x0334 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0336 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x0336 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x033D [0x25] WAIT_DIALOG_SELECT()
   3: 0x033E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x036D
@@ -1102,7 +1102,7 @@ SUBROUTINE_0378:
 
 ```
   0: 0x037C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x037E [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x037E [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0385 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0386 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B5
@@ -1148,7 +1148,7 @@ SUBROUTINE_03C0:
 
 ```
   0: 0x03C4 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x03C6 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x03C6 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x03CD [0x25] WAIT_DIALOG_SELECT()
   3: 0x03CE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03FD
@@ -1195,7 +1195,7 @@ SUBROUTINE_0408:
 
 ```
   0: 0x040C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x040E [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x040E [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0415 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0416 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0445
@@ -1241,7 +1241,7 @@ SUBROUTINE_0450:
 
 ```
   0: 0x0454 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0456 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x0456 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x045D [0x25] WAIT_DIALOG_SELECT()
   3: 0x045E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x048D
@@ -1288,7 +1288,7 @@ SUBROUTINE_0498:
 
 ```
   0: 0x049C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x049E [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x049E [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x04A5 [0x25] WAIT_DIALOG_SELECT()
   3: 0x04A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04D5
@@ -1334,7 +1334,7 @@ SUBROUTINE_04E0:
 
 ```
   0: 0x04E4 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x04E6 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x04E6 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x04ED [0x25] WAIT_DIALOG_SELECT()
   3: 0x04EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x051D
@@ -1381,7 +1381,7 @@ SUBROUTINE_0528:
 
 ```
   0: 0x052C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x052E [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x052E [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0535 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0536 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0565
@@ -1427,7 +1427,7 @@ SUBROUTINE_0570:
 
 ```
   0: 0x0574 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0576 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x0576 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x057D [0x25] WAIT_DIALOG_SELECT()
   3: 0x057E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05AD
@@ -1474,7 +1474,7 @@ SUBROUTINE_05B8:
 
 ```
   0: 0x05BC [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x05BE [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x05BE [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x05C5 [0x25] WAIT_DIALOG_SELECT()
   3: 0x05C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05F5
@@ -1520,7 +1520,7 @@ SUBROUTINE_0600:
 
 ```
   0: 0x0604 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0606 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x0606 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x060D [0x25] WAIT_DIALOG_SELECT()
   3: 0x060E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x063D
@@ -1567,7 +1567,7 @@ SUBROUTINE_0648:
 
 ```
   0: 0x064C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x064E [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x064E [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0655 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0656 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0685
@@ -1613,7 +1613,7 @@ SUBROUTINE_0690:
 
 ```
   0: 0x0694 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0696 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x0696 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x069D [0x25] WAIT_DIALOG_SELECT()
   3: 0x069E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06CD
@@ -1660,7 +1660,7 @@ SUBROUTINE_06D8:
 
 ```
   0: 0x06DC [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x06DE [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x06DE [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x06E5 [0x25] WAIT_DIALOG_SELECT()
   3: 0x06E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0715
@@ -1706,7 +1706,7 @@ SUBROUTINE_0720:
 
 ```
   0: 0x0724 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0726 [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
+  1: 0x0726 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x072D [0x25] WAIT_DIALOG_SELECT()
   3: 0x072E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x075D
@@ -2121,7 +2121,7 @@ SUBROUTINE_0768:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0820:                          79 00 F8 FF FF 7F D6 80          y.......
+0820:                          79 00 F8 FF FF 7F D8 80          y.......
 0830: 04 01 32 4E 80 1F 00 4F  80 50 80 02 80 1F 01 6F  ..2N...O.P.....o
 0840: 00                                                .               
 ```
@@ -2129,7 +2129,7 @@ SUBROUTINE_0768:
 #### Opcodes
 
 ```
-  0: 0x0828 [0x79] EventEntity looks at Unnamed NPC (ID: 17072342/0x010480D6) (Basic look)
+  0: 0x0828 [0x79] EventEntity looks at Unnamed NPC (ID: 17072344/0x010480D8) (Basic look)
   1: 0x0832 [0x32] ExtData[1]->MainSpeed = 10* * 0.1
   2: 0x0835 [0x1F] MOVE_ENTITY: EventEntity moves to X=-529.519*, Z=649.659*, Y=0.000*
   3: 0x083D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
@@ -2202,7 +2202,7 @@ SUBROUTINE_0768:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0860:       37 58 80 59 80 02  80 5A 80 32 0C 80 1F 00    7X.Y...Z.2....
-0870: 5B 80 5C 80 02 80 1F 01  1E F1 80 04 01 00        [.\...........  
+0870: 5B 80 5C 80 02 80 1F 01  1E F3 80 04 01 00        [.\...........  
 ```
 
 #### Opcodes
@@ -2212,7 +2212,7 @@ SUBROUTINE_0768:
   1: 0x086B [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   2: 0x086E [0x1F] MOVE_ENTITY: EventEntity moves to X=454.880*, Z=-580.901*, Y=0.000*
   3: 0x0876 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  4: 0x0878 [0x1E] EventEntity looks at Abda-Lurabda (ID: 17072369/0x010480F1) and starts talking
+  4: 0x0878 [0x1E] EventEntity looks at Abda-Lurabda (ID: 17072371/0x010480F3) and starts talking
   5: 0x087D [0x00] END_REQSTACK()
 ```
 
@@ -2405,7 +2405,7 @@ SUBROUTINE_0768:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 08C0:                          32 45 80 1F 00 6D 80 6E          2E...m.n
-08D0: 80 66 80 1F 01 6F 1E E1  80 04 01 6F 70 00        .f...o.....op.  
+08D0: 80 66 80 1F 01 6F 1E E3  80 04 01 6F 70 00        .f...o.....op.  
 ```
 
 #### Opcodes
@@ -2415,7 +2415,7 @@ SUBROUTINE_0768:
   1: 0x08CB [0x1F] MOVE_ENTITY: EventEntity moves to X=-474.967*, Z=420.042*, Y=-3.949*
   2: 0x08D3 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x08D5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x08D6 [0x1E] EventEntity looks at Alexander (ID: 17072353/0x010480E1) and starts talking
+  4: 0x08D6 [0x1E] EventEntity looks at Alexander (ID: 17072355/0x010480E3) and starts talking
   5: 0x08DB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x08DC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x08DD [0x00] END_REQSTACK()
@@ -2748,7 +2748,7 @@ SUBROUTINE_09B8:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0A30:       1F 00 78 80 79 80  66 80 1F 01 6F 1E D7 80    ..x.y.f...o...
+0A30:       1F 00 78 80 79 80  66 80 1F 01 6F 1E D9 80    ..x.y.f...o...
 0A40: 04 01 00                                          ...             
 ```
 
@@ -2758,7 +2758,7 @@ SUBROUTINE_09B8:
   0: 0x0A32 [0x1F] MOVE_ENTITY: EventEntity moves to X=-470.930*, Z=420.097*, Y=-3.949*
   1: 0x0A3A [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   2: 0x0A3C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  3: 0x0A3D [0x1E] EventEntity looks at Nashmeira (ID: 17072343/0x010480D7) and starts talking
+  3: 0x0A3D [0x1E] EventEntity looks at Nashmeira (ID: 17072345/0x010480D9) and starts talking
   4: 0x0A42 [0x00] END_REQSTACK()
 ```
 
@@ -2775,7 +2775,7 @@ SUBROUTINE_09B8:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0A40:          1F 00 7A 80 7B  80 66 80 1F 01 6F 1E E1     ..z.{.f...o..
+0A40:          1F 00 7A 80 7B  80 66 80 1F 01 6F 1E E3     ..z.{.f...o..
 0A50: 80 04 01 6F 70 00                                 ...op.          
 ```
 
@@ -2785,7 +2785,7 @@ SUBROUTINE_09B8:
   0: 0x0A43 [0x1F] MOVE_ENTITY: EventEntity moves to X=-473.574*, Z=420.017*, Y=-3.949*
   1: 0x0A4B [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   2: 0x0A4D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  3: 0x0A4E [0x1E] EventEntity looks at Alexander (ID: 17072353/0x010480E1) and starts talking
+  3: 0x0A4E [0x1E] EventEntity looks at Alexander (ID: 17072355/0x010480E3) and starts talking
   4: 0x0A53 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0A54 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0A55 [0x00] END_REQSTACK()
@@ -2805,7 +2805,7 @@ SUBROUTINE_09B8:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0A50:                   1F 00  7C 80 7D 80 66 80 1F 01        ..|.}.f...
-0A60: 6F 1E E1 80 04 01 6F 70  00                       o.....op.       
+0A60: 6F 1E E3 80 04 01 6F 70  00                       o.....op.       
 ```
 
 #### Opcodes
@@ -2814,7 +2814,7 @@ SUBROUTINE_09B8:
   0: 0x0A56 [0x1F] MOVE_ENTITY: EventEntity moves to X=-475.039*, Z=420.039*, Y=-3.949*
   1: 0x0A5E [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   2: 0x0A60 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  3: 0x0A61 [0x1E] EventEntity looks at Alexander (ID: 17072353/0x010480E1) and starts talking
+  3: 0x0A61 [0x1E] EventEntity looks at Alexander (ID: 17072355/0x010480E3) and starts talking
   4: 0x0A66 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0A67 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0A68 [0x00] END_REQSTACK()
@@ -2834,7 +2834,7 @@ SUBROUTINE_09B8:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0A60:                             32 45 80 1F 00 7E 80           2E...~.
-0A70: 7F 80 02 80 1F 01 1E D7  80 04 01 1C 80 80 00     ............... 
+0A70: 7F 80 02 80 1F 01 1E D9  80 04 01 1C 80 80 00     ............... 
 ```
 
 #### Opcodes
@@ -2843,7 +2843,7 @@ SUBROUTINE_09B8:
   0: 0x0A69 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0A6C [0x1F] MOVE_ENTITY: EventEntity moves to X=429.587*, Z=-580.864*, Y=0.000*
   2: 0x0A74 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0A76 [0x1E] EventEntity looks at Nashmeira (ID: 17072343/0x010480D7) and starts talking
+  3: 0x0A76 [0x1E] EventEntity looks at Nashmeira (ID: 17072345/0x010480D9) and starts talking
   4: 0x0A7B [0x1C] WAIT(30* ticks)
   5: 0x0A7E [0x00] END_REQSTACK()
 ```
@@ -2862,7 +2862,7 @@ SUBROUTINE_09B8:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0A70:                                               32                 2
-0A80: 45 80 1F 00 81 80 82 80  02 80 1F 01 1E 01 81 04  E...............
+0A80: 45 80 1F 00 81 80 82 80  02 80 1F 01 1E 03 81 04  E...............
 0A90: 01 1C 80 80 00                                    .....           
 ```
 
@@ -2872,7 +2872,7 @@ SUBROUTINE_09B8:
   0: 0x0A7F [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0A82 [0x1F] MOVE_ENTITY: EventEntity moves to X=443.771*, Z=-578.832*, Y=0.000*
   2: 0x0A8A [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0A8C [0x1E] EventEntity looks at Iroha (ID: 17072385/0x01048101) and starts talking
+  3: 0x0A8C [0x1E] EventEntity looks at Iroha (ID: 17072387/0x01048103) and starts talking
   4: 0x0A91 [0x1C] WAIT(30* ticks)
   5: 0x0A94 [0x00] END_REQSTACK()
 ```
@@ -2891,7 +2891,7 @@ SUBROUTINE_09B8:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0A90:                32 45 80  1F 00 83 80 84 80 85 80       2E.........
-0AA0: 1F 01 1E D7 80 04 01 1C  80 80 00                 ...........     
+0AA0: 1F 01 1E D9 80 04 01 1C  80 80 00                 ...........     
 ```
 
 #### Opcodes
@@ -2900,7 +2900,7 @@ SUBROUTINE_09B8:
   0: 0x0A95 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0A98 [0x1F] MOVE_ENTITY: EventEntity moves to X=-470.086*, Z=421.085*, Y=-3.999*
   2: 0x0AA0 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0AA2 [0x1E] EventEntity looks at Nashmeira (ID: 17072343/0x010480D7) and starts talking
+  3: 0x0AA2 [0x1E] EventEntity looks at Nashmeira (ID: 17072345/0x010480D9) and starts talking
   4: 0x0AA7 [0x1C] WAIT(30* ticks)
   5: 0x0AAA [0x00] END_REQSTACK()
 ```
@@ -2919,7 +2919,7 @@ SUBROUTINE_09B8:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0AA0:                                   32 45 80 1F 00             2E...
-0AB0: 86 80 87 80 66 80 1F 01  1E 01 81 04 01 1C 80 80  ....f...........
+0AB0: 86 80 87 80 66 80 1F 01  1E 03 81 04 01 1C 80 80  ....f...........
 0AC0: 00                                                .               
 ```
 
@@ -2929,7 +2929,7 @@ SUBROUTINE_09B8:
   0: 0x0AAB [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0AAE [0x1F] MOVE_ENTITY: EventEntity moves to X=-474.638*, Z=418.763*, Y=-3.949*
   2: 0x0AB6 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0AB8 [0x1E] EventEntity looks at Iroha (ID: 17072385/0x01048101) and starts talking
+  3: 0x0AB8 [0x1E] EventEntity looks at Iroha (ID: 17072387/0x01048103) and starts talking
   4: 0x0ABD [0x1C] WAIT(30* ticks)
   5: 0x0AC0 [0x00] END_REQSTACK()
 ```

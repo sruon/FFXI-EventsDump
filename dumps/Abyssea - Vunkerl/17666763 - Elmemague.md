@@ -22,22 +22,22 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x20E0      |        8416 |
-|       1 | 0x20E1      |        8417 |
-|       2 | 0x20DE      |        8414 |
-|       3 | 0x20DF      |        8415 |
+|       0 | 0x20E2      |        8418 |
+|       1 | 0x20E3      |        8419 |
+|       2 | 0x20E0      |        8416 |
+|       3 | 0x20E1      |        8417 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x20E2      |        8418 |
-|       6 | 0x20E3      |        8419 |
+|       5 | 0x20E4      |        8420 |
+|       6 | 0x20E5      |        8421 |
 
 ## String References
 
-- **8414**: Right on time! You can just set that down right here.
-- **8415**: Splendid! A more dependable courier I've never seen. You can go back and claim your reward from what's-his-name at the central base.
-- **8416**: Is this your first time visiting the outpost, by any chance? This is our key stronghold--our bastion, as it were--in the battle to drive back the Abyssean hordes once and for all.
-- **8417**: Needless to say, the resistance could always use another capable soldier like yourself. If you're willing to lend your strength to our cause, just speak with the resistance sapper over there.
-- **8418**: Hm? Your mission was to deliver our supplies, not a load of rubbish. You didn't think you could get away with taking a shortcut through a conflux, did you?
-- **8419**: I thought I'd seen the last of this when I removed that slacker from active duty. It pains me indeed to see that you were cut from the same laggard cloth.
+- **8416**: Right on time! You can just set that down right here.
+- **8417**: Splendid! A more dependable courier I've never seen. You can go back and claim your reward from what's-his-name at the central base.
+- **8418**: Is this your first time visiting the outpost, by any chance? This is our key stronghold--our bastion, as it were--in the battle to drive back the Abyssean hordes once and for all.
+- **8419**: Needless to say, the resistance could always use another capable soldier like yourself. If you're willing to lend your strength to our cause, just speak with the resistance sapper over there.
+- **8420**: Hm? Your mission was to deliver our supplies, not a load of rubbish. You didn't think you could get away with taking a shortcut through a conflux, did you?
+- **8421**: I thought I'd seen the last of this when I removed that slacker from active duty. It pains me indeed to see that you were cut from the same laggard cloth.
 
 ## Events
 
@@ -83,10 +83,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8416*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8418*)
     → "Is this your first time visiting the outpost, by any chance? This is our key stronghold--our bastion, as it were--in the battle to drive back the Abyssean hordes once and for all."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8417*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8419*)
     → "Needless to say, the resistance could always use another capable soldier like yourself. If you're willing to lend your strength to our cause, just speak with the resistance sapper over there."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -115,17 +115,17 @@
 ```
   0: 0x0010 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8414*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8416*)
     → "Right on time! You can just set that down right here."
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8415*)
+  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8417*)
     → "Splendid! A more dependable courier I've never seen. You can go back and claim your reward from what's-his-name at the central base."
   5: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001E [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x002E
-  7: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=8416*)
+  7: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=8418*)
     → "Is this your first time visiting the outpost, by any chance? This is our key stronghold--our bastion, as it were--in the battle to drive back the Abyssean hordes once and for all."
   8: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=8417*)
+  9: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=8419*)
     → "Needless to say, the resistance could always use another capable soldier like yourself. If you're willing to lend your strength to our cause, just speak with the resistance sapper over there."
  10: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x002E [0x21] END_EVENT
@@ -154,13 +154,13 @@
 ```
   0: 0x0030 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0031 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=8414*)
+  2: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=8416*)
     → "Right on time! You can just set that down right here."
   3: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=8418*)
+  4: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=8420*)
     → "Hm? Your mission was to deliver our supplies, not a load of rubbish. You didn't think you could get away with taking a shortcut through a conflux, did you?"
   5: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8419*)
+  6: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8421*)
     → "I thought I'd seen the last of this when I removed that slacker from active duty. It pains me indeed to see that you were cut from the same laggard cloth."
   7: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0042 [0x21] END_EVENT

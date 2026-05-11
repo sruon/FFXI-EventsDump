@@ -26,23 +26,23 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00FE      |         254 |
-|       1 | 0x1F4F      |        8015 |
-|       2 | 0x1F50      |        8016 |
-|       3 | 0x1F51      |        8017 |
-|       4 | 0x1F52      |        8018 |
-|       5 | 0x1F53      |        8019 |
-|       6 | 0x1F54      |        8020 |
-|       7 | 0x1F55      |        8021 |
+|       1 | 0x1F51      |        8017 |
+|       2 | 0x1F52      |        8018 |
+|       3 | 0x1F53      |        8019 |
+|       4 | 0x1F54      |        8020 |
+|       5 | 0x1F55      |        8021 |
+|       6 | 0x1F56      |        8022 |
+|       7 | 0x1F57      |        8023 |
 
 ## String References
 
-- **8015**: Kyah? You being the underling of Zeelozok?
-- **8016**: Ka-kyah! Why would Moblins be keeping smoothskins as pets, hoot!?
-- **8017**: Ka-kyah!? You being Zeelozok's messenger, here to deliver $1 for Ruu Cogo the Larktongue?
-- **8018**: Ka-kyah! Ruu Cogo the Larktongue being done here! Ruu Cogo the Larktongue being no more!
-- **8019**: Ka-kyah! Smoothskin being done here, also! Smoothskin be dying soon, too!
-- **8020**: Hoot! But I be tiring of war and blood!
-- **8021**: This time I be letting you go. Be flying home, smoothskin! Ka-kyah!
+- **8017**: Kyah? You being the underling of Zeelozok?
+- **8018**: Ka-kyah! Why would Moblins be keeping smoothskins as pets, hoot!?
+- **8019**: Ka-kyah!? You being Zeelozok's messenger, here to deliver $1 for Ruu Cogo the Larktongue?
+- **8020**: Ka-kyah! Ruu Cogo the Larktongue being done here! Ruu Cogo the Larktongue being no more!
+- **8021**: Ka-kyah! Smoothskin being done here, also! Smoothskin be dying soon, too!
+- **8022**: Hoot! But I be tiring of war and blood!
+- **8023**: This time I be letting you go. Be flying home, smoothskin! Ka-kyah!
 
 ## Events
 
@@ -187,10 +187,10 @@
 ```
   0: 0x003D [0x79] Daa Bola the Seer (ID: 17396215/0x010971F7) looks at LocalPlayer (Basic look)
   1: 0x0047 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Daa Bola the Seer (ID: 17396215/0x010971F7), tag_num=0x01)
-  2: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
+  2: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "Kyah? You being the underling of Zeelozok?"
   3: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
+  4: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
     → "Ka-kyah! Why would Moblins be keeping smoothskins as pets, hoot!?"
   5: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0056 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Daa Bola the Seer (ID: 17396215/0x010971F7), tag_num=0x02)
@@ -231,23 +231,23 @@
   2: 0x0075 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0076 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0077 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Daa Bola the Seer (ID: 17396215/0x010971F7), tag_num=0x01)
-  5: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
+  5: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
     → "Ka-kyah!? You being Zeelozok's messenger, here to deliver $1 for Ruu Cogo the Larktongue?"
   6: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
+  7: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
     → "Ka-kyah! Ruu Cogo the Larktongue being done here! Ruu Cogo the Larktongue being no more!"
   8: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0086 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Daa Bola the Seer (ID: 17396215/0x010971F7), tag_num=0x02)
  10: 0x008D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Daa Bola the Seer (ID: 17396215/0x010971F7), tag_num=0x03)
- 11: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
+ 11: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
     → "Ka-kyah! Smoothskin being done here, also! Smoothskin be dying soon, too!"
  12: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0098 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Daa Bola the Seer (ID: 17396215/0x010971F7), tag_num=0x04)
  14: 0x009F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Daa Bola the Seer (ID: 17396215/0x010971F7), tag_num=0x01)
- 15: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
+ 15: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
     → "Hoot! But I be tiring of war and blood!"
  16: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
+ 17: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
     → "This time I be letting you go. Be flying home, smoothskin! Ka-kyah!"
  18: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Daa Bola the Seer (ID: 17396215/0x010971F7), tag_num=0x02)

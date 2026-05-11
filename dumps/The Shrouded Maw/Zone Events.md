@@ -39,13 +39,13 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DB7      |        7607 |
-|       7 | 0x1D0B      |        7435 |
+|       6 | 0x1DB9      |        7609 |
+|       7 | 0x1D0D      |        7437 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1B9D      |        7069 |
+|      12 | 0x1B9F      |        7071 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
@@ -61,11 +61,11 @@
 |      25 | 0x445C0     |      280000 |
 |      26 | 0xFFFACFE0  |  4294627296 |
 |      27 | 0xFAF6      |       64246 |
-|      28 | 0x1BA8      |        7080 |
-|      29 | 0x1BA9      |        7081 |
-|      30 | 0x1BAA      |        7082 |
-|      31 | 0x1BAB      |        7083 |
-|      32 | 0x1BCF      |        7119 |
+|      28 | 0x1BAA      |        7082 |
+|      29 | 0x1BAB      |        7083 |
+|      30 | 0x1BAC      |        7084 |
+|      31 | 0x1BAD      |        7085 |
+|      32 | 0x1BD1      |        7121 |
 |      33 | 0x0006      |           6 |
 |      34 | 0x0012      |          18 |
 |      35 | 0x0007      |           7 |
@@ -85,18 +85,18 @@
 |      49 | 0x001C      |          28 |
 |      50 | 0x001D      |          29 |
 |      51 | 0x001E      |          30 |
-|      52 | 0x1D04      |        7428 |
-|      53 | 0x1D09      |        7433 |
-|      54 | 0x1D08      |        7432 |
+|      52 | 0x1D06      |        7430 |
+|      53 | 0x1D0B      |        7435 |
+|      54 | 0x1D0A      |        7434 |
 |      55 | 0x003C      |          60 |
-|      56 | 0x1DB5      |        7605 |
-|      57 | 0x1DB4      |        7604 |
+|      56 | 0x1DB7      |        7607 |
+|      57 | 0x1DB6      |        7606 |
 |      58 | 0x0064      |         100 |
-|      59 | 0x1CF0      |        7408 |
+|      59 | 0x1CF2      |        7410 |
 |      60 | 0x00DC      |         220 |
-|      61 | 0x1BA0      |        7072 |
+|      61 | 0x1BA2      |        7074 |
 |      62 | 0x00C9      |         201 |
-|      63 | 0x1DB8      |        7608 |
+|      63 | 0x1DBA      |        7610 |
 |      64 | 0x00B4      |         180 |
 |      65 | 0xFFF6C42B  |  4294362155 |
 |      66 | 0x752B9     |      479929 |
@@ -184,11 +184,11 @@
 |     148 | 0x8FE5      |       36837 |
 |     149 | 0x02A1      |         673 |
 |     150 | 0x0024      |          36 |
-|     151 | 0x1CF2      |        7410 |
-|     152 | 0x1CF1      |        7409 |
-|     153 | 0x1DB3      |        7603 |
-|     154 | 0x1CF4      |        7412 |
-|     155 | 0x1CF3      |        7411 |
+|     151 | 0x1CF4      |        7412 |
+|     152 | 0x1CF3      |        7411 |
+|     153 | 0x1DB5      |        7605 |
+|     154 | 0x1CF6      |        7414 |
+|     155 | 0x1CF5      |        7413 |
 |     156 | 0xFFFB6BCA  |  4294667210 |
 |     157 | 0xFFFC0EBD  |  4294708925 |
 |     158 | 0xFFFFF63D  |  4294964797 |
@@ -215,132 +215,132 @@
 |     179 | 0x54FE9     |      348137 |
 |     180 | 0xFFFFE0C1  |  4294959297 |
 |     181 | 0x01AC      |         428 |
-|     182 | 0x1DC8      |        7624 |
-|     183 | 0x1DC9      |        7625 |
+|     182 | 0x1DCA      |        7626 |
+|     183 | 0x1DCB      |        7627 |
 |     184 | 0x0028      |          40 |
 |     185 | 0x3CCE9     |      249065 |
 |     186 | 0x54BDD     |      347101 |
-|     187 | 0x1DCA      |        7626 |
+|     187 | 0x1DCC      |        7628 |
 |     188 | 0x00D2      |         210 |
-|     189 | 0x1DCB      |        7627 |
+|     189 | 0x1DCD      |        7629 |
 |     190 | 0x0048      |          72 |
 |     191 | 0x026C      |         620 |
 |     192 | 0x0159      |         345 |
 |     193 | 0x01CB      |         459 |
 |     194 | 0x005A      |          90 |
 |     195 | 0x026D      |         621 |
-|     196 | 0x1DCC      |        7628 |
+|     196 | 0x1DCE      |        7630 |
 |     197 | 0x007F      |         127 |
-|     198 | 0x1DCD      |        7629 |
+|     198 | 0x1DCF      |        7631 |
 |     199 | 0x0272      |         626 |
-|     200 | 0x1DCE      |        7630 |
+|     200 | 0x1DD0      |        7632 |
 |     201 | 0x002D      |          45 |
 |     202 | 0x01FC      |         508 |
-|     203 | 0x1DCF      |        7631 |
-|     204 | 0x1DD0      |        7632 |
-|     205 | 0x1DD1      |        7633 |
-|     206 | 0x1E12      |        7698 |
-|     207 | 0x1E13      |        7699 |
-|     208 | 0x1E14      |        7700 |
-|     209 | 0x1E15      |        7701 |
+|     203 | 0x1DD1      |        7633 |
+|     204 | 0x1DD2      |        7634 |
+|     205 | 0x1DD3      |        7635 |
+|     206 | 0x1E14      |        7700 |
+|     207 | 0x1E15      |        7701 |
+|     208 | 0x1E16      |        7702 |
+|     209 | 0x1E17      |        7703 |
 |     210 | 0x028B      |         651 |
-|     211 | 0x1E16      |        7702 |
-|     212 | 0x1E19      |        7705 |
-|     213 | 0x1E1A      |        7706 |
-|     214 | 0x1E1B      |        7707 |
-|     215 | 0x1E1C      |        7708 |
-|     216 | 0x1E1D      |        7709 |
-|     217 | 0x1E1E      |        7710 |
-|     218 | 0x1E1F      |        7711 |
-|     219 | 0x1E21      |        7713 |
+|     211 | 0x1E18      |        7704 |
+|     212 | 0x1E1B      |        7707 |
+|     213 | 0x1E1C      |        7708 |
+|     214 | 0x1E1D      |        7709 |
+|     215 | 0x1E1E      |        7710 |
+|     216 | 0x1E1F      |        7711 |
+|     217 | 0x1E20      |        7712 |
+|     218 | 0x1E21      |        7713 |
+|     219 | 0x1E23      |        7715 |
 |     220 | 0x01FD      |         509 |
-|     221 | 0x1E22      |        7714 |
+|     221 | 0x1E24      |        7716 |
 |     222 | 0x031E      |         798 |
-|     223 | 0x1E23      |        7715 |
-|     224 | 0x1E2B      |        7723 |
-|     225 | 0x1E2C      |        7724 |
-|     226 | 0x1E2D      |        7725 |
-|     227 | 0x1E2E      |        7726 |
-|     228 | 0x1E2F      |        7727 |
-|     229 | 0x1E30      |        7728 |
-|     230 | 0x1E37      |        7735 |
-|     231 | 0x1E38      |        7736 |
+|     223 | 0x1E25      |        7717 |
+|     224 | 0x1E2D      |        7725 |
+|     225 | 0x1E2E      |        7726 |
+|     226 | 0x1E2F      |        7727 |
+|     227 | 0x1E30      |        7728 |
+|     228 | 0x1E31      |        7729 |
+|     229 | 0x1E32      |        7730 |
+|     230 | 0x1E39      |        7737 |
+|     231 | 0x1E3A      |        7738 |
 |     232 | 0x0269      |         617 |
 |     233 | 0x0281      |         641 |
 |     234 | 0x01FE      |         510 |
-|     235 | 0x1DD2      |        7634 |
-|     236 | 0x1DD3      |        7635 |
-|     237 | 0x1DD4      |        7636 |
+|     235 | 0x1DD4      |        7636 |
+|     236 | 0x1DD5      |        7637 |
+|     237 | 0x1DD6      |        7638 |
 |     238 | 0x006C      |         108 |
-|     239 | 0x1DD5      |        7637 |
-|     240 | 0x1DD6      |        7638 |
-|     241 | 0x1DD7      |        7639 |
-|     242 | 0x1DD8      |        7640 |
-|     243 | 0x1DD9      |        7641 |
-|     244 | 0x1DDA      |        7642 |
-|     245 | 0x1DDB      |        7643 |
-|     246 | 0x1DDC      |        7644 |
-|     247 | 0x1DDD      |        7645 |
-|     248 | 0x1DDE      |        7646 |
-|     249 | 0x1DDF      |        7647 |
-|     250 | 0x1DE0      |        7648 |
-|     251 | 0x1DE1      |        7649 |
-|     252 | 0x1DE2      |        7650 |
-|     253 | 0x1DE3      |        7651 |
-|     254 | 0x1DE4      |        7652 |
-|     255 | 0x1DE5      |        7653 |
+|     239 | 0x1DD7      |        7639 |
+|     240 | 0x1DD8      |        7640 |
+|     241 | 0x1DD9      |        7641 |
+|     242 | 0x1DDA      |        7642 |
+|     243 | 0x1DDB      |        7643 |
+|     244 | 0x1DDC      |        7644 |
+|     245 | 0x1DDD      |        7645 |
+|     246 | 0x1DDE      |        7646 |
+|     247 | 0x1DDF      |        7647 |
+|     248 | 0x1DE0      |        7648 |
+|     249 | 0x1DE1      |        7649 |
+|     250 | 0x1DE2      |        7650 |
+|     251 | 0x1DE3      |        7651 |
+|     252 | 0x1DE4      |        7652 |
+|     253 | 0x1DE5      |        7653 |
+|     254 | 0x1DE6      |        7654 |
+|     255 | 0x1DE7      |        7655 |
 |     256 | 0x01FF      |         511 |
-|     257 | 0x1DE6      |        7654 |
-|     258 | 0x1DE7      |        7655 |
-|     259 | 0x1DE8      |        7656 |
-|     260 | 0x1DE9      |        7657 |
-|     261 | 0x1DEA      |        7658 |
-|     262 | 0x1DEB      |        7659 |
-|     263 | 0x1DEC      |        7660 |
+|     257 | 0x1DE8      |        7656 |
+|     258 | 0x1DE9      |        7657 |
+|     259 | 0x1DEA      |        7658 |
+|     260 | 0x1DEB      |        7659 |
+|     261 | 0x1DEC      |        7660 |
+|     262 | 0x1DED      |        7661 |
+|     263 | 0x1DEE      |        7662 |
 |     264 | 0x01DB      |         475 |
-|     265 | 0x1DED      |        7661 |
-|     266 | 0x1DEE      |        7662 |
+|     265 | 0x1DEF      |        7663 |
+|     266 | 0x1DF0      |        7664 |
 |     267 | 0x0273      |         627 |
-|     268 | 0x1DEF      |        7663 |
-|     269 | 0x1DF0      |        7664 |
-|     270 | 0x1DF1      |        7665 |
-|     271 | 0x1DF2      |        7666 |
+|     268 | 0x1DF1      |        7665 |
+|     269 | 0x1DF2      |        7666 |
+|     270 | 0x1DF3      |        7667 |
+|     271 | 0x1DF4      |        7668 |
 |     272 | 0x01E2      |         482 |
-|     273 | 0x1DF3      |        7667 |
-|     274 | 0x1DF4      |        7668 |
+|     273 | 0x1DF5      |        7669 |
+|     274 | 0x1DF6      |        7670 |
 |     275 | 0x01E1      |         481 |
-|     276 | 0x1DF5      |        7669 |
+|     276 | 0x1DF7      |        7671 |
 |     277 | 0x028A      |         650 |
-|     278 | 0x1DF6      |        7670 |
-|     279 | 0x1DF7      |        7671 |
-|     280 | 0x1DF8      |        7672 |
-|     281 | 0x1DF9      |        7673 |
+|     278 | 0x1DF8      |        7672 |
+|     279 | 0x1DF9      |        7673 |
+|     280 | 0x1DFA      |        7674 |
+|     281 | 0x1DFB      |        7675 |
 |     282 | 0x027F      |         639 |
 |     283 | 0x007B      |         123 |
-|     284 | 0x1DFA      |        7674 |
+|     284 | 0x1DFC      |        7676 |
 |     285 | 0x01A9      |         425 |
-|     286 | 0x1DFB      |        7675 |
-|     287 | 0x1DFC      |        7676 |
-|     288 | 0x1DFD      |        7677 |
+|     286 | 0x1DFD      |        7677 |
+|     287 | 0x1DFE      |        7678 |
+|     288 | 0x1DFF      |        7679 |
 |     289 | 0x009A      |         154 |
 |     290 | 0x0096      |         150 |
-|     291 | 0x1E17      |        7703 |
-|     292 | 0x1E18      |        7704 |
-|     293 | 0x1E20      |        7712 |
-|     294 | 0x1E24      |        7716 |
-|     295 | 0x1E25      |        7717 |
-|     296 | 0x1E26      |        7718 |
-|     297 | 0x1E27      |        7719 |
-|     298 | 0x1E28      |        7720 |
-|     299 | 0x1E29      |        7721 |
-|     300 | 0x1E2A      |        7722 |
-|     301 | 0x1E31      |        7729 |
-|     302 | 0x1E32      |        7730 |
-|     303 | 0x1E33      |        7731 |
-|     304 | 0x1E34      |        7732 |
-|     305 | 0x1E35      |        7733 |
-|     306 | 0x1E36      |        7734 |
-|     307 | 0x1B9E      |        7070 |
+|     291 | 0x1E19      |        7705 |
+|     292 | 0x1E1A      |        7706 |
+|     293 | 0x1E22      |        7714 |
+|     294 | 0x1E26      |        7718 |
+|     295 | 0x1E27      |        7719 |
+|     296 | 0x1E28      |        7720 |
+|     297 | 0x1E29      |        7721 |
+|     298 | 0x1E2A      |        7722 |
+|     299 | 0x1E2B      |        7723 |
+|     300 | 0x1E2C      |        7724 |
+|     301 | 0x1E33      |        7731 |
+|     302 | 0x1E34      |        7732 |
+|     303 | 0x1E35      |        7733 |
+|     304 | 0x1E36      |        7734 |
+|     305 | 0x1E37      |        7735 |
+|     306 | 0x1E38      |        7736 |
+|     307 | 0x1BA0      |        7072 |
 |     308 | 0xFFFC5648  |  4294727240 |
 |     309 | 0x33E01     |      212481 |
 |     310 | 0x03F4      |        1012 |
@@ -377,29 +377,29 @@
 
 ## String References
 
-- **7069**: Enter the battlefield? [Enter./Decline.]
-- **7070**: Leave the battlefield? [Run away./Stay.]
-- **7072**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7080**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7081**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7071**: Enter the battlefield? [Enter./Decline.]
+- **7072**: Leave the battlefield? [Run away./Stay.]
+- **7074**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7082**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7083**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7119**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7408**: Skip the event? [Yes./No.]
-- **7409**: Battlefield clear time: $3 second[/s]!
-- **7410**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7411**: The current battlefield clear time record is $3 second[/s].
-- **7412**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7428**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7432**: That record is held by $5 adventurers, including %0!
-- **7433**: That record is held by %0!
-- **7435**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7603**: You have broken the clear time record for "[Darkness Named/Test Your Mite/Waking Dreams/$26Waking Dreams]"!
-- **7604**: The current battlefield clear time record for "[Darkness Named/Test Your Mite/Waking Dreams/$26Waking Dreams]" is $3 second[/s].
-- **7605**: The current battlefield clear time record for "[Darkness Named/Test Your Mite/Waking Dreams/$26Waking Dreams]" is $3 minute[/s] $2 second[/s].
-- **7607**: Which battlefield will you enter? [None./Darkness Named./Test Your Mite./Waking Dreams./$26Waking Dreams./././././././././././././././././././././././././././]
-- **7608**: Level limit of 40. The experience point reward for this battlefield will be reduced for parties of seven or more members.
-- **7668**: Is there still hope for mankind? [There's always hope!/Destiny is destiny...]
+- **7084**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7085**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7121**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7410**: Skip the event? [Yes./No.]
+- **7411**: Battlefield clear time: $3 second[/s]!
+- **7412**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7413**: The current battlefield clear time record is $3 second[/s].
+- **7414**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7430**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7434**: That record is held by $5 adventurers, including %0!
+- **7435**: That record is held by %0!
+- **7437**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7605**: You have broken the clear time record for "[Darkness Named/Test Your Mite/Waking Dreams/$26Waking Dreams]"!
+- **7606**: The current battlefield clear time record for "[Darkness Named/Test Your Mite/Waking Dreams/$26Waking Dreams]" is $3 second[/s].
+- **7607**: The current battlefield clear time record for "[Darkness Named/Test Your Mite/Waking Dreams/$26Waking Dreams]" is $3 minute[/s] $2 second[/s].
+- **7609**: Which battlefield will you enter? [None./Darkness Named./Test Your Mite./Waking Dreams./$26Waking Dreams./././././././././././././././././././././././././././]
+- **7610**: Level limit of 40. The experience point reward for this battlefield will be reduced for parties of seven or more members.
+- **7670**: Is there still hope for mankind? [There's always hope!/Destiny is destiny...]
 
 ## Events
 
@@ -626,7 +626,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7607*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7609*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Darkness Named./Test Your Mite./Waking Dreams./$26Waking Dreams./././././././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -639,7 +639,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x2FB3)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7435*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7437*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -665,7 +665,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x08F2)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7069*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -735,22 +735,22 @@ SUBROUTINE_0245:
 105: 0x0277 [0x01] GOTO 0x088E
 106: 0x027A [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x02C4
 107: 0x0282 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0291
-108: 0x028A [0x48] [System] [7080*]:
+108: 0x028A [0x48] [System] [7082*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 109: 0x028D [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x028E [0x01] GOTO 0x02BE
 111: 0x0291 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x02A0
-112: 0x0299 [0x48] [System] [7081*]:
+112: 0x0299 [0x48] [System] [7083*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 113: 0x029C [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x029D [0x01] GOTO 0x02BE
 115: 0x02A0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x02AF
-116: 0x02A8 [0x48] [System] [7082*]:
+116: 0x02A8 [0x48] [System] [7084*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 117: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x02AC [0x01] GOTO 0x02BE
 119: 0x02AF [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x02BE
-120: 0x02B7 [0x48] [System] [7083*]:
+120: 0x02B7 [0x48] [System] [7085*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 121: 0x02BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x02BB [0x01] GOTO 0x02BE
@@ -759,7 +759,7 @@ SUBROUTINE_02BE:
 123: 0x02BE [0x01] GOTO 0x08A5
 
 SUBROUTINE_04CE:
-124: 0x04CE [0x48] [System] [7428*]:
+124: 0x04CE [0x48] [System] [7430*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 125: 0x04D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x04D2 [0x01] GOTO 0x08A5
@@ -771,24 +771,24 @@ SUBROUTINE_052B:
 130: 0x053B [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x0556
 131: 0x0543 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 132: 0x054A [0x15] Work_Zone[5] /= 60*
-133: 0x054F [0x48] [System] [7605*]:
+133: 0x054F [0x48] [System] [7607*]:
     → "The current battlefield clear time record for "[Darkness Named/Test Your Mite/Waking Dreams/$26Waking Dreams]" is $3 minute[/s] $2 second[/s]."
 134: 0x0552 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x0553 [0x01] GOTO 0x055A
-136: 0x0556 [0x48] [System] [7604*]:
+136: 0x0556 [0x48] [System] [7606*]:
     → "The current battlefield clear time record for "[Darkness Named/Test Your Mite/Waking Dreams/$26Waking Dreams]" is $3 second[/s]."
 137: 0x0559 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_055A:
 138: 0x055A [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0569
-139: 0x0562 [0x48] [System] [7433*]:
+139: 0x0562 [0x48] [System] [7435*]:
     → "That record is held by %0!"
 140: 0x0565 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x0566 [0x01] GOTO 0x057A
 142: 0x0569 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 143: 0x056E [0x0C] Work_Zone[6]--
 144: 0x0571 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-145: 0x0576 [0x48] [System] [7432*]:
+145: 0x0576 [0x48] [System] [7434*]:
     → "That record is held by $5 adventurers, including %0!"
 146: 0x0579 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -804,7 +804,7 @@ SUBROUTINE_057A:
 SUBROUTINE_059E:
 154: 0x059E [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x05C4
 155: 0x05A6 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x05C4
-156: 0x05AE [0x24] CREATE_DIALOG(message_id=7408*, default_option=1*, option_flags=0*)
+156: 0x05AE [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 157: 0x05B5 [0x25] WAIT_DIALOG_SELECT()
 158: 0x05B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05C4
@@ -955,7 +955,7 @@ SUBROUTINE_088E:
 291: 0x0891 [0x02] IF !(0* == 1*) GOTO 0x089E
 292: 0x0899 [0x03] ExtData[1]->WorkLocal[0] = 4*
 293: 0x089E [0x01] GOTO 0x01A4
-294: 0x08A1 [0x48] [System] [7072*]:
+294: 0x08A1 [0x48] [System] [7074*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 295: 0x08A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -975,7 +975,7 @@ SUBROUTINE_08D8:
 
 SUBROUTINE_08F2:
 306: 0x08F2 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0904
-307: 0x08FA [0x48] [System] [7608*]:
+307: 0x08FA [0x48] [System] [7610*]:
     → "Level limit of 40. The experience point reward for this battlefield will be reduced for parties of seven or more members."
 308: 0x08FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 309: 0x08FE [0x05] ExtData[1]->WorkLocal[22] = 1
@@ -1329,7 +1329,7 @@ SUBROUTINE_0CF4:
  84: 0x0CFF [0x01] GOTO 0x0D1D
  85: 0x0D02 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0DCD
  86: 0x0D0A [0x1C] WAIT(15* ticks)
- 87: 0x0D0D [0x24] CREATE_DIALOG(message_id=7408*, default_option=1*, option_flags=0*)
+ 87: 0x0D0D [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0D14 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0D15 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DCD
@@ -1396,18 +1396,18 @@ SUBROUTINE_0DFF:
 138: 0x0E38 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0E53
 139: 0x0E40 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0E47 [0x15] Work_Zone[5] /= 60*
-141: 0x0E4C [0x48] [System] [7410*]:
+141: 0x0E4C [0x48] [System] [7412*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0E4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0E50 [0x01] GOTO 0x0E57
-144: 0x0E53 [0x48] [System] [7409*]:
+144: 0x0E53 [0x48] [System] [7411*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0E56 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0E57:
 146: 0x0E57 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0E6B
 147: 0x0E5F [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0E64 [0x48] [System] [7603*]:
+148: 0x0E64 [0x48] [System] [7605*]:
     → "You have broken the clear time record for "[Darkness Named/Test Your Mite/Waking Dreams/$26Waking Dreams]"!"
 149: 0x0E67 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0E68 [0x01] GOTO 0x0E94
@@ -1415,12 +1415,12 @@ SUBROUTINE_0E57:
 152: 0x0E73 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0E78 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0E7F [0x15] Work_Zone[5] /= 60*
-155: 0x0E84 [0x48] [System] [7412*]:
+155: 0x0E84 [0x48] [System] [7414*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0E87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0E88 [0x01] GOTO 0x0E94
 158: 0x0E8B [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0E90 [0x48] [System] [7411*]:
+159: 0x0E90 [0x48] [System] [7413*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0E93 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2158,7 +2158,7 @@ SUBROUTINE_106B:
 
 ```
 # Dead code (unreachable instructions):
-     0x10B1 [0x24] CREATE_DIALOG(message_id=7069*, default_option=1*, option_flags=0*)
+     0x10B1 [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x10B8 [0x25] WAIT_DIALOG_SELECT()
      0x10B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10C7
@@ -2287,11 +2287,11 @@ SUBROUTINE_106B:
      0x13F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k003" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x1404 [0x79] Tenzen (ID: 16818288/0x0100A070) looks at Unnamed NPC (ID: 16818285/0x0100A06D) (Basic look)
      0x140E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db02" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x141F [0x2B] Tenzen (ID: 16818288/0x0100A070) [7624*]:
+     0x141F [0x2B] Tenzen (ID: 16818288/0x0100A070) [7626*]:
     → "What is the purpose of this place? What sort of dark rituals were performed here?"
      0x1426 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1427 [0x7B] Tenzen (ID: 16818288/0x0100A070) stops talking
-     0x142C [0x2B] Tenzen (ID: 16818288/0x0100A070) [7625*]:
+     0x142C [0x2B] Tenzen (ID: 16818288/0x0100A070) [7627*]:
     → "Hm? We are not alone!?"
      0x1433 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1434 [0x52] END_LOAD_SCHEDULER: End scheduler "db02" with entities [LocalPlayer, LocalPlayer], work=152*
@@ -2304,7 +2304,7 @@ SUBROUTINE_106B:
      0x146B [0x2A] GET_REQ_LEVEL(level=16, entity_id=Tenzen (ID: 16818288/0x0100A070))
      0x1471 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "db03" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1480 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db05" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1491 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7626*]:
+     0x1491 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7628*]:
     → "It cannot be! She is supposed to be resting in the infirmary in Jeuno!"
      0x1498 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1499 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "db05" with entities [LocalPlayer, LocalPlayer], work=152*
@@ -2319,7 +2319,7 @@ SUBROUTINE_106B:
      0x1508 [0x52] END_LOAD_SCHEDULER: End scheduler "db07" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1517 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db08" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x1528 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Selh'teus (ID: 16818287/0x0100A06F))
-     0x152E [0x2B] Tenzen (ID: 16818288/0x0100A070) [7627*]:
+     0x152E [0x2B] Tenzen (ID: 16818288/0x0100A070) [7629*]:
     → "And that boy..."
      0x1535 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1536 [0x1A] CALL_SUBROUTINE(address=0x3046)
@@ -2348,7 +2348,7 @@ SUBROUTINE_106B:
      0x1606 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db11" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x1617 [0x6C] FADE_ENTITY_COLOR(entity_id=Selh'teus (ID: 16818287/0x0100A06F), end_alpha=0*, fade_time=1*)
      0x1620 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "k101" with entities [Prishe (ID: 16818286/0x0100A06E), Prishe (ID: 16818286/0x0100A06E)], work=621*
-     0x162F [0x2B] Prishe (ID: 16818286/0x0100A06E) [7628*]:
+     0x162F [0x2B] Prishe (ID: 16818286/0x0100A06E) [7630*]:
     → "So you're the one who saved me?"
      0x1636 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1637 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "k100" with entities [Selh'teus (ID: 16818287/0x0100A06F), Selh'teus (ID: 16818287/0x0100A06F)]
@@ -2362,7 +2362,7 @@ SUBROUTINE_106B:
      0x1695 [0x52] END_LOAD_SCHEDULER: End scheduler "db12" with entities [LocalPlayer, LocalPlayer], work=152*
      0x16A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db13" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x16B5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "k102" with entities [Prishe (ID: 16818286/0x0100A06E), Prishe (ID: 16818286/0x0100A06E)], work=621*
-     0x16C4 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7629*]:
+     0x16C4 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7631*]:
     → "What? I'm supposed to give this to...?"
      0x16CB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16CC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "k102" with entities [Selh'teus (ID: 16818287/0x0100A06F), Selh'teus (ID: 16818287/0x0100A06F)], work=459*
@@ -2390,7 +2390,7 @@ SUBROUTINE_106B:
      0x17DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db17" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x17EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k061" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x1800 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tob0" with entities [Tenzen (ID: 16818288/0x0100A070), Tenzen (ID: 16818288/0x0100A070)], work=428*
-     0x180F [0x2B] Tenzen (ID: 16818288/0x0100A070) [7630*]:
+     0x180F [0x2B] Tenzen (ID: 16818288/0x0100A070) [7632*]:
     → "Wait! What are you conspiring with that boy!?"
      0x1816 [0x1C] WAIT(45* ticks)
      0x1819 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
@@ -2427,7 +2427,7 @@ SUBROUTINE_106B:
      0x1996 [0x52] END_LOAD_SCHEDULER: End scheduler "db23" with entities [LocalPlayer, LocalPlayer], work=152*
      0x19A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db24" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x19B6 [0x1C] WAIT(60* ticks)
-     0x19B9 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7631*]:
+     0x19B9 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7633*]:
     → "Traitors! There is no escape!"
      0x19C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19C1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "db24" with entities [LocalPlayer, LocalPlayer], work=152*
@@ -2445,10 +2445,10 @@ SUBROUTINE_106B:
      0x1A23 [0x52] END_LOAD_SCHEDULER: End scheduler "db25" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1A32 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db26" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x1A43 [0x1A] CALL_SUBROUTINE(address=0x3067)
-     0x1A46 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7632*]:
+     0x1A46 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7634*]:
     → "The terrestrial avatar of dreams...Diabolos!?"
      0x1A4D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1A4E [0x2B] Tenzen (ID: 16818288/0x0100A070) [7633*]:
+     0x1A4E [0x2B] Tenzen (ID: 16818288/0x0100A070) [7635*]:
     → "Which can only mean...we are already inside his dream!"
      0x1A55 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A56 [0x1A] CALL_SUBROUTINE(address=0x3046)
@@ -2460,26 +2460,26 @@ SUBROUTINE_106B:
      0x1A86 [0xAB] EventEntity->UnknownFlag = 0 // Disable unknown flag
      0x1A88 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=120*)
      0x1A8D [0x1B] RETURN
-     0x1A8E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7698*]:
+     0x1A8E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7700*]:
     → "When last we fought, I could feel the light of the crystal."
      0x1A95 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A96 [0x52] END_LOAD_SCHEDULER: End scheduler "dq00" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1AA5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1AB6 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7699*]:
+     0x1AB6 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7701*]:
     → "The force was tremendously powerful--strong enough to shatter my realm of dreams. Tell me. Who was that light coming from?"
      0x1ABD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1ABE [0x52] END_LOAD_SCHEDULER: End scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1ACD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1ADE [0x2B] Diabolos (ID: 16818289/0x0100A071) [7700*]:
+     0x1ADE [0x2B] Diabolos (ID: 16818289/0x0100A071) [7702*]:
     → "I called all of you back into my realm to learn which of you possesses such power."
      0x1AE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1AE6 [0x52] END_LOAD_SCHEDULER: End scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1AF5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq03" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1B06 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7701*]:
+     0x1B06 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7703*]:
     → "You are the first to arrive. Now I will test your power."
      0x1B0D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B0E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "da00" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=651*
-     0x1B1D [0x2B] Diabolos (ID: 16818289/0x0100A071) [7702*]:
+     0x1B1D [0x2B] Diabolos (ID: 16818289/0x0100A071) [7704*]:
     → "Prepare yourself! This dream is no dream, but a fleeting illusion before eternal slumber!"
      0x1B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B25 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "da01" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=651*
@@ -2494,34 +2494,34 @@ SUBROUTINE_106B:
      0x1B80 [0x1A] CALL_SUBROUTINE(address=0x3046)
      0x1B83 [0x1A] CALL_SUBROUTINE(address=0x3067)
      0x1B86 [0x1B] RETURN
-     0x1B87 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7705*]:
+     0x1B87 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7707*]:
     → "So you have come, confronter of the Emptiness and liberator of Vana'diel."
      0x1B8E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B8F [0x52] END_LOAD_SCHEDULER: End scheduler "dq00" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1B9E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1BAF [0x2B] Diabolos (ID: 16818289/0x0100A071) [7706*]:
+     0x1BAF [0x2B] Diabolos (ID: 16818289/0x0100A071) [7708*]:
     → "When last we fought, I could feel the light of the crystal."
      0x1BB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BB7 [0x52] END_LOAD_SCHEDULER: End scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1BC6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1BD7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7707*]:
+     0x1BD7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7709*]:
     → "You possess a power great enough to dissipate dreams."
      0x1BDE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BDF [0x52] END_LOAD_SCHEDULER: End scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1BEE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq09" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1BFF [0x2B] Diabolos (ID: 16818289/0x0100A071) [7708*]:
+     0x1BFF [0x2B] Diabolos (ID: 16818289/0x0100A071) [7710*]:
     → "I shall submit myself to your will. You may use my form in the waking world as you desire."
      0x1C06 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1C07 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7709*]:
+     0x1C07 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7711*]:
     → "However, you must first prove yourself strong enough to undertake such a feat."
      0x1C0E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C0F [0x52] END_LOAD_SCHEDULER: End scheduler "dq09" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1C1E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq03" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x1C2F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "da00" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=651*
-     0x1C3E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7710*]:
+     0x1C3E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7712*]:
     → "You shall witness the full extent of my power. This dream is no dream..."
      0x1C45 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1C46 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7711*]:
+     0x1C46 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7713*]:
     → "Underestimate your enemy, and this battle shall be as a fleeting illusion before eternal slumber!"
      0x1C4D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C4E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "da01" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=651*
@@ -2536,19 +2536,19 @@ SUBROUTINE_106B:
      0x1CA9 [0x1A] CALL_SUBROUTINE(address=0x3046)
      0x1CAC [0x1A] CALL_SUBROUTINE(address=0x3067)
      0x1CAF [0x1B] RETURN
-     0x1CB0 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7713*]:
+     0x1CB0 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7715*]:
     → "So you have come, <Player>! How dare you thrust humanity into the depths of despair!"
      0x1CB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CB8 [0x52] END_LOAD_SCHEDULER: End scheduler "dq00" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1CC7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x1CD8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=509*
-     0x1CE7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7714*]:
+     0x1CE7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7716*]:
     → "Why were you not destroyed in the presence of the mothercrystal?"
      0x1CEE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CEF [0x52] END_LOAD_SCHEDULER: End scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1CFE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq03" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x1D0F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ca00" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=798*
-     0x1D1E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7715*]:
+     0x1D1E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7717*]:
     → "Traitor! Plummet into the abyss of endless nightmares!"
      0x1D25 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D26 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sh00" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=798*
@@ -2563,30 +2563,30 @@ SUBROUTINE_106B:
      0x1D81 [0x1A] CALL_SUBROUTINE(address=0x3046)
      0x1D84 [0x1A] CALL_SUBROUTINE(address=0x3067)
      0x1D87 [0x1B] RETURN
-     0x1D88 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7723*]:
+     0x1D88 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7725*]:
     → "I know all you have achieved from your dreams."
      0x1D8F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D90 [0x52] END_LOAD_SCHEDULER: End scheduler "dq00" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1D9F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1DB0 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7724*]:
+     0x1DB0 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7726*]:
     → "The Emptiness continues to disappear from the world, and souls entering my world of Dynamis have become scarce."
      0x1DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DB8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "lau0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=509*
-     0x1DC7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7725*]:
+     0x1DC7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7727*]:
     → "You have saved Vana'diel without losing your own soul. You must be proud, <Player>."
      0x1DCE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DCF [0x52] END_LOAD_SCHEDULER: End scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1DDE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq14" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1DEF [0x2B] Diabolos (ID: 16818289/0x0100A071) [7726*]:
+     0x1DEF [0x2B] Diabolos (ID: 16818289/0x0100A071) [7728*]:
     → "From now on, I will concentrate my energies into restoring the cursed world of Dynamis to its original form in the realm of dreams."
      0x1DF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1DF7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7727*]:
+     0x1DF7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7729*]:
     → "But I cannot accomplish such a task without great power--power I will receive by drawing you into my realm."
      0x1DFE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DFF [0x52] END_LOAD_SCHEDULER: End scheduler "dq14" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1E0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq03" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x1E1F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ca00" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=798*
-     0x1E2E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7728*]:
+     0x1E2E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7730*]:
     → "Oh, but you are already a captive in my everlasting dream!"
      0x1E35 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E36 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sh00" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=798*
@@ -2601,12 +2601,12 @@ SUBROUTINE_106B:
      0x1E91 [0x1A] CALL_SUBROUTINE(address=0x3046)
      0x1E94 [0x1A] CALL_SUBROUTINE(address=0x3067)
      0x1E97 [0x1B] RETURN
-     0x1E98 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7735*]:
+     0x1E98 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7737*]:
     → "So you have come, <Player>. You wish to challenge me again?"
      0x1E9F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EA0 [0x52] END_LOAD_SCHEDULER: End scheduler "dq00" with entities [LocalPlayer, LocalPlayer], work=152*
      0x1EAF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq03" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x1EC0 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7736*]:
+     0x1EC0 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7738*]:
     → "You shall have your rematch. Bask in the power of the unattainable dream!"
      0x1EC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EC8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "db00" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=651*
@@ -2720,63 +2720,63 @@ SUBROUTINE_106B:
      0x2190 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db41" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x21A1 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Diabolos (ID: 16818290/0x0100A072), Diabolos (ID: 16818290/0x0100A072)], work=[84*, 0*]
      0x21B2 [0x1C] WAIT(45* ticks)
-     0x21B5 [0x2B] Diabolos (ID: 16818290/0x0100A072) [7634*]:
+     0x21B5 [0x2B] Diabolos (ID: 16818290/0x0100A072) [7636*]:
     → "Your efforts are in vain, for this is nothing but a dream."
      0x21BC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21BD [0x52] END_LOAD_SCHEDULER: End scheduler "db41" with entities [LocalPlayer, LocalPlayer], work=152*
      0x21CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db42" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x21DD [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Diabolos (ID: 16818291/0x0100A073), Diabolos (ID: 16818291/0x0100A073)], work=[84*, 0*]
      0x21EE [0x1C] WAIT(45* ticks)
-     0x21F1 [0x2B] Diabolos (ID: 16818291/0x0100A073) [7635*]:
+     0x21F1 [0x2B] Diabolos (ID: 16818291/0x0100A073) [7637*]:
     → "I am the ruler of the subconscious plane. What you dream becomes my dream, and what I dream becomes your world. Now sleep..."
      0x21F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21F9 [0x52] END_LOAD_SCHEDULER: End scheduler "db42" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2208 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dbt1" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x2219 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7636*]:
+     0x2219 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7638*]:
     → "I will not let you drag me into your darkness!"
      0x2220 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s095" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2231 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [Tenzen (ID: 16818288/0x0100A070), Tenzen (ID: 16818288/0x0100A070)], work=[108*, 0*]
      0x2242 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "dbt1" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2251 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db43" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x2262 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7637*]:
+     0x2262 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7639*]:
     → "That flame!? Phoenix!?"
      0x2269 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x226A [0x52] END_LOAD_SCHEDULER: End scheduler "db43" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2279 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db44" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x228A [0x2B] Tenzen (ID: 16818288/0x0100A070) [7638*]:
+     0x228A [0x2B] Tenzen (ID: 16818288/0x0100A070) [7640*]:
     → "The blazing lifeforce of the avatar flows through my blade."
      0x2291 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2292 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7639*]:
+     0x2292 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7641*]:
     → "I, Tenzen, left my country in the Far East after hearing the warning of the avatars--the warning that the Keeper of the Apocalypse's return was imminent."
      0x2299 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x229A [0x2B] Tenzen (ID: 16818288/0x0100A070) [7640*]:
+     0x229A [0x2B] Tenzen (ID: 16818288/0x0100A070) [7642*]:
     → "I have come here to request your assistance!"
      0x22A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22A2 [0x52] END_LOAD_SCHEDULER: End scheduler "db44" with entities [LocalPlayer, LocalPlayer], work=152*
      0x22B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db45" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x22C2 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7641*]:
+     0x22C2 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7643*]:
     → "Of the five crystals, three have been overcome by the Emptiness..."
      0x22C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x22CA [0x2B] Tenzen (ID: 16818288/0x0100A070) [7642*]:
+     0x22CA [0x2B] Tenzen (ID: 16818288/0x0100A070) [7644*]:
     → "Is it not the duty of the five terrestrial avatars to protect the crystals? Let us join in arms and defeat the enemy of light!"
      0x22D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22D2 [0x52] END_LOAD_SCHEDULER: End scheduler "db45" with entities [LocalPlayer, LocalPlayer], work=152*
      0x22E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db47" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x22F2 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7643*]:
+     0x22F2 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7645*]:
     → "Battle the Emptiness...?"
      0x22F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22FA [0x52] END_LOAD_SCHEDULER: End scheduler "db47" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2309 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db46" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x231A [0x2B] Diabolos (ID: 16818291/0x0100A073) [7644*]:
+     0x231A [0x2B] Diabolos (ID: 16818291/0x0100A073) [7646*]:
     → "So, Phoenix still remains unwhole..."
      0x2321 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2322 [0x2B] Diabolos (ID: 16818290/0x0100A072) [7645*]:
+     0x2322 [0x2B] Diabolos (ID: 16818290/0x0100A072) [7647*]:
     → "And that is why she continues to feed people false hopes, all the while forgetting the truths that lie in the battles fought ten thousand years ago..."
      0x2329 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x232A [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=0*, fade_time=1*)
      0x2333 [0x52] END_LOAD_SCHEDULER: End scheduler "db46" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2342 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db48" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x2353 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7646*]:
+     0x2353 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7648*]:
     → "False hopes! How can you say such a thing!?"
      0x235A [0x1C] WAIT(45* ticks)
      0x235D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kam1" with entities [Tenzen (ID: 16818288/0x0100A070), Tenzen (ID: 16818288/0x0100A070)], work=641*
@@ -2785,80 +2785,80 @@ SUBROUTINE_106B:
      0x238E [0x1C] WAIT(120* ticks)
      0x2391 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x23A2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=510*
-     0x23B1 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7647*]:
+     0x23B1 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7649*]:
     → "Listen carefully, children of the dawn. Emptiness is not without reason. Its place is set in the eternal scheme of the universe."
      0x23B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x23B9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "db48" with entities [LocalPlayer, LocalPlayer], work=152*
      0x23C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db49" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x23D9 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=128*, fade_time=1*)
-     0x23E2 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7648*]:
+     0x23E2 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7650*]:
     → "And true reason is that which lies deep within your soul. Reason that makes you what you are."
      0x23E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x23EA [0x52] END_LOAD_SCHEDULER: End scheduler "db49" with entities [LocalPlayer, LocalPlayer], work=152*
      0x23F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db50" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x240A [0x2B] Prishe (ID: 16818286/0x0100A06E) [7649*]:
+     0x240A [0x2B] Prishe (ID: 16818286/0x0100A06E) [7651*]:
     → "So if Emptiness is reason, then our souls are filled with...!?"
      0x2411 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2412 [0x52] END_LOAD_SCHEDULER: End scheduler "db50" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2421 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db51" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x2432 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7650*]:
+     0x2432 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7652*]:
     → "To defy the will of the Twilight God is to defy reason. Any attempt to escape from Emptiness is futile."
      0x2439 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x243A [0x2B] Diabolos (ID: 16818289/0x0100A071) [7651*]:
+     0x243A [0x2B] Diabolos (ID: 16818289/0x0100A071) [7653*]:
     → "Now that the Emptiness encroaches on your soul, you can hear its voice...and the voice that calls back..."
      0x2441 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2442 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7652*]:
+     0x2442 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7654*]:
     → "...The voice of the Emptiness within you..."
      0x2449 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x244A [0x52] END_LOAD_SCHEDULER: End scheduler "db51" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2459 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db52" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x246A [0x2B] Tenzen (ID: 16818288/0x0100A070) [7653*]:
+     0x246A [0x2B] Tenzen (ID: 16818288/0x0100A070) [7655*]:
     → "The voice of Emptiness...!?"
      0x2471 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2472 [0x52] END_LOAD_SCHEDULER: End scheduler "db52" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2481 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db53" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2492 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x24A1 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7654*]:
+     0x24A1 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7656*]:
     → "However, there is no need for despair."
      0x24A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x24A9 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7655*]:
+     0x24A9 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7657*]:
     → "Ten thousand years ago the Kuluu, too, lost all hope. It is then that I was born here, in the depths of their city."
      0x24B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x24B1 [0x52] END_LOAD_SCHEDULER: End scheduler "db53" with entities [LocalPlayer, LocalPlayer], work=152*
      0x24C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db54" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x24D1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x24E0 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7656*]:
+     0x24E0 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7658*]:
     → "I am the ruler of dreams, and within my dreams--within my kingdom of Dynamis--people can escape the harshness of reality."
      0x24E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x24E8 [0x52] END_LOAD_SCHEDULER: End scheduler "db54" with entities [LocalPlayer, LocalPlayer], work=152*
      0x24F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db55" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x2508 [0x2B] Diabolos (ID: 16818290/0x0100A072) [7657*]:
+     0x2508 [0x2B] Diabolos (ID: 16818290/0x0100A072) [7659*]:
     → "Emptiness consumes the body, but the soul lives on--it lives on in my world."
      0x250F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2510 [0x2B] Diabolos (ID: 16818291/0x0100A073) [7658*]:
+     0x2510 [0x2B] Diabolos (ID: 16818291/0x0100A073) [7660*]:
     → "If the Keeper of the Apocalypse truly is on his way, there is nothing left on Vana'diel for the children of Altana--nothing but annihilation."
      0x2517 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2518 [0x52] END_LOAD_SCHEDULER: End scheduler "db55" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2527 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db56" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2538 [0x6B] STOP_AND_IDLE: Prishe (ID: 16818286/0x0100A06E) stops current action and resets to idle (animation="idl0")
      0x2541 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x2550 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7659*]:
+     0x2550 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7661*]:
     → "Now come... Save yourselves while you still have the chance... Let go of all you know and enter my world, as have many others..."
      0x2557 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2558 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7660*]:
+     0x2558 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7662*]:
     → "The realm of dreams is a paradise, free of pain and strife."
      0x255F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2560 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tld0" with entities [Prishe (ID: 16818286/0x0100A06E), Prishe (ID: 16818286/0x0100A06E)], work=475*
      0x256F [0x52] END_LOAD_SCHEDULER: End scheduler "db56" with entities [LocalPlayer, LocalPlayer], work=152*
      0x257E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db57" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x258F [0x2B] Prishe (ID: 16818286/0x0100A06E) [7661*]:
+     0x258F [0x2B] Prishe (ID: 16818286/0x0100A06E) [7663*]:
     → "Shut up, you monster! Why would anyone want to live in your prison, anyway!?"
      0x2596 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2597 [0x52] END_LOAD_SCHEDULER: End scheduler "db57" with entities [LocalPlayer, LocalPlayer], work=152*
      0x25A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db58" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x25B7 [0x79] Prishe (ID: 16818286/0x0100A06E) looks at Diabolos (ID: 16818291/0x0100A073) (Basic look)
      0x25C1 [0x1C] WAIT(15* ticks)
-     0x25C4 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7662*]:
+     0x25C4 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7664*]:
     → "How do you know we can't defeat the Emptiness!? Have you even tried?"
      0x25CB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x25CC [0x52] END_LOAD_SCHEDULER: End scheduler "db58" with entities [LocalPlayer, LocalPlayer], work=152*
@@ -2867,21 +2867,21 @@ SUBROUTINE_106B:
      0x25FB [0x7B] Prishe (ID: 16818286/0x0100A06E) stops talking
      0x2600 [0x1C] WAIT(30* ticks)
      0x2603 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk3" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x2612 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7663*]:
+     0x2612 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7665*]:
     → "Fool... You have heard the voice of the Emptiness, so you are aware of what lies beyond my dreams."
      0x2619 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x261A [0x2B] Diabolos (ID: 16818291/0x0100A073) [7664*]:
+     0x261A [0x2B] Diabolos (ID: 16818291/0x0100A073) [7666*]:
     → "And even so, you tell me you do not fear what you heard?"
      0x2621 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2622 [0x52] END_LOAD_SCHEDULER: End scheduler "db59" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2631 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db60" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2642 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "st2h" with entities [Prishe (ID: 16818286/0x0100A06E), Prishe (ID: 16818286/0x0100A06E)], work=627*
      0x2651 [0x1C] WAIT(30* ticks)
-     0x2654 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7665*]:
+     0x2654 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7667*]:
     → "Why would I be afraid of that?"
      0x265B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x265C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hiam" with entities [Prishe (ID: 16818286/0x0100A06E), Prishe (ID: 16818286/0x0100A06E)], work=627*
-     0x266B [0x2B] Prishe (ID: 16818286/0x0100A06E) [7666*]:
+     0x266B [0x2B] Prishe (ID: 16818286/0x0100A06E) [7668*]:
     → "I've survived beastman attacks, huge explosions, and the fall of Tavnazia. People can do anything if they don't give up hope!"
      0x2672 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2673 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "iam1" with entities [Prishe (ID: 16818286/0x0100A06E), Prishe (ID: 16818286/0x0100A06E)], work=482*
@@ -2908,11 +2908,11 @@ SUBROUTINE_106B:
      0x2760 [0x01] GOTO 0x2783
      0x2763 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "hmt0" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2774 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "hmt0" with entities [LocalPlayer, LocalPlayer], work=152*
-     0x2783 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7667*]:
+     0x2783 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7669*]:
     → "Isn't that right, <Player>?"
      0x278A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x278B [0x79] LocalPlayer looks at Unnamed NPC (ID: 16818292/0x0100A074) (Basic look)
-     0x2795 [0x24] CREATE_DIALOG(message_id=7668*, default_option=0*, option_flags=0*)
+     0x2795 [0x24] CREATE_DIALOG(message_id=7670*, default_option=0*, option_flags=0*)
     → "Is there still hope for mankind? [There's always hope!/Destiny is destiny...]"
      0x279C [0x25] WAIT_DIALOG_SELECT()
      0x279D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x27A8
@@ -2924,7 +2924,7 @@ SUBROUTINE_106B:
      0x27CC [0x7C] Prishe (ID: 16818286/0x0100A06E)->Render.Flags2 |= 0x00
      0x27D2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sra0" with entities [Prishe (ID: 16818286/0x0100A06E), Prishe (ID: 16818286/0x0100A06E)], work=481*
      0x27E1 [0x1C] WAIT(120* ticks)
-     0x27E4 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7669*]:
+     0x27E4 [0x2B] Prishe (ID: 16818286/0x0100A06E) [7671*]:
     → "..."
      0x27EB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x27EC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sra1" with entities [Prishe (ID: 16818286/0x0100A06E), Prishe (ID: 16818286/0x0100A06E)], work=481*
@@ -2941,23 +2941,23 @@ SUBROUTINE_106B:
      0x283D [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16818285/0x0100A06D), tag_num=0x06)
      0x2844 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db64" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2855 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tmb0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=650*
-     0x2864 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7670*]:
+     0x2864 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7672*]:
     → "Why...? Why do you remember what you saw in my world...?"
      0x286B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x286C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "db64" with entities [LocalPlayer, LocalPlayer], work=152*
      0x287B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db66" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x288C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tmb1" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=650*
-     0x289B [0x2B] Diabolos (ID: 16818289/0x0100A071) [7671*]:
+     0x289B [0x2B] Diabolos (ID: 16818289/0x0100A071) [7673*]:
     → "It was I who led you to my realm... Or was it you who led me to yours...?"
      0x28A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x28A3 [0x52] END_LOAD_SCHEDULER: End scheduler "db66" with entities [LocalPlayer, LocalPlayer], work=152*
      0x28B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db67" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x28C3 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7672*]:
+     0x28C3 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7674*]:
     → "If that is true, then..."
      0x28CA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x28CB [0x52] END_LOAD_SCHEDULER: End scheduler "db67" with entities [LocalPlayer, LocalPlayer], work=152*
      0x28DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db68" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x28EB [0x2B] Diabolos (ID: 16818289/0x0100A071) [7673*]:
+     0x28EB [0x2B] Diabolos (ID: 16818289/0x0100A071) [7675*]:
     → "This light... This light is that of the crystal..."
      0x28F2 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=300*)
      0x28F7 [0x1C] WAIT(210* ticks)
@@ -2990,7 +2990,7 @@ SUBROUTINE_106B:
      0x29D8 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=128*, fade_time=1*)
      0x29E1 [0x79] Tenzen (ID: 16818288/0x0100A070) looks at LocalPlayer (Basic look)
      0x29EB [0x1C] WAIT(15* ticks)
-     0x29EE [0x2B] Tenzen (ID: 16818288/0x0100A070) [7674*]:
+     0x29EE [0x2B] Tenzen (ID: 16818288/0x0100A070) [7676*]:
     → "Are you all right?"
      0x29F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x29F6 [0x1A] CALL_SUBROUTINE(address=0x3046)
@@ -3005,10 +3005,10 @@ SUBROUTINE_106B:
      0x2A35 [0x4A] LocalPlayer looks at Tenzen (ID: 16818288/0x0100A070)
      0x2A3E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "de03" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2A4F [0x1A] CALL_SUBROUTINE(address=0x3025)
-     0x2A52 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7675*]:
+     0x2A52 [0x2B] Tenzen (ID: 16818288/0x0100A070) [7677*]:
     → "I was unable to stop the boy."
      0x2A59 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2A5A [0x2B] Tenzen (ID: 16818288/0x0100A070) [7676*]:
+     0x2A5A [0x2B] Tenzen (ID: 16818288/0x0100A070) [7678*]:
     → "But for what reason was he here? And what is the truth behind the words of Diabolos?"
      0x2A61 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2A62 [0x52] END_LOAD_SCHEDULER: End scheduler "de03" with entities [LocalPlayer, LocalPlayer], work=152*
@@ -3016,7 +3016,7 @@ SUBROUTINE_106B:
      0x2A82 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Tenzen (ID: 16818288/0x0100A070), Tenzen (ID: 16818288/0x0100A070)], work=425*
      0x2A91 [0x1C] WAIT(30* ticks)
      0x2A94 [0x79] Tenzen (ID: 16818288/0x0100A070) looks at LocalPlayer (Basic look)
-     0x2A9E [0x2B] Tenzen (ID: 16818288/0x0100A070) [7677*]:
+     0x2A9E [0x2B] Tenzen (ID: 16818288/0x0100A070) [7679*]:
     → "Much is still unclear. I must return to Jeuno and find out if there is anything else that girl knows..."
      0x2AA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2AA6 [0x1A] CALL_SUBROUTINE(address=0x3046)
@@ -3031,13 +3031,13 @@ SUBROUTINE_106B:
      0x2AEA [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [LocalPlayer, LocalPlayer], work=[154*, 0*]
      0x2AFB [0x1C] WAIT(150* ticks)
      0x2AFE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x2B0D [0x2B] Diabolos (ID: 16818289/0x0100A071) [7703*]:
+     0x2B0D [0x2B] Diabolos (ID: 16818289/0x0100A071) [7705*]:
     → "So...you are the one who possesses the light of the crystal."
      0x2B14 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2B15 [0x52] END_LOAD_SCHEDULER: End scheduler "dq05" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2B24 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq06" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2B35 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x2B44 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7704*]:
+     0x2B44 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7706*]:
     → "The people of Vana'diel need you in order to be saved. I will lend you my power."
      0x2B4B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2B4C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
@@ -3049,7 +3049,7 @@ SUBROUTINE_106B:
      0x2B9C [0x1A] CALL_SUBROUTINE(address=0x3025)
      0x2B9F [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [LocalPlayer, LocalPlayer], work=[154*, 0*]
      0x2BB0 [0x1C] WAIT(150* ticks)
-     0x2BB3 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7712*]:
+     0x2BB3 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7714*]:
     → "Your power is impressive. I admit defeat. I believe you can save the people of Vana'diel. Use my powers wisely."
      0x2BBA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2BBB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dc00" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=798*
@@ -3063,7 +3063,7 @@ SUBROUTINE_106B:
      0x2C11 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tmb0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=650*
      0x2C20 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16818285/0x0100A06D), tag_num=0x06)
      0x2C27 [0x1C] WAIT(30* ticks)
-     0x2C2A [0x2B] Diabolos (ID: 16818289/0x0100A071) [7716*]:
+     0x2C2A [0x2B] Diabolos (ID: 16818289/0x0100A071) [7718*]:
     → "So, this dream is yet again near its end... I despise the light in you, <Player>."
      0x2C31 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2C32 [0x52] END_LOAD_SCHEDULER: End scheduler "dq11" with entities [LocalPlayer, LocalPlayer], work=152*
@@ -3071,31 +3071,31 @@ SUBROUTINE_106B:
      0x2C52 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [LocalPlayer, LocalPlayer], work=[154*, 0*]
      0x2C63 [0x1C] WAIT(150* ticks)
      0x2C66 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tmb1" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=650*
-     0x2C75 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7717*]:
+     0x2C75 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7719*]:
     → "What is it? What are you planning?"
      0x2C7C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2C7D [0x52] END_LOAD_SCHEDULER: End scheduler "dq12" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2C8C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq13" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
-     0x2C9D [0x2B] Diabolos (ID: 16818289/0x0100A071) [7718*]:
+     0x2C9D [0x2B] Diabolos (ID: 16818289/0x0100A071) [7720*]:
     → "You wish to use that light to defeat Promathia?"
      0x2CA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2CA5 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7719*]:
+     0x2CA5 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7721*]:
     → "You are a fool. But with your strength, you may be able to accomplish your task."
      0x2CAC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2CAD [0x52] END_LOAD_SCHEDULER: End scheduler "dq13" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2CBC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq14" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2CCD [0x1C] WAIT(90* ticks)
      0x2CD0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x2CDF [0x2B] Diabolos (ID: 16818289/0x0100A071) [7720*]:
+     0x2CDF [0x2B] Diabolos (ID: 16818289/0x0100A071) [7722*]:
     → "I cannot tell if you will succeed. I can perceive all with the power of dreams, but only after the events have been played out."
      0x2CE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2CE7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7721*]:
+     0x2CE7 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7723*]:
     → "I shall entrust you with my power."
      0x2CEE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2CEF [0x52] END_LOAD_SCHEDULER: End scheduler "dq14" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2CFE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq06" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2D0F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x2D1E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7722*]:
+     0x2D1E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7724*]:
     → "How you decide to use it will show me your fate."
      0x2D25 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2D26 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
@@ -3105,23 +3105,23 @@ SUBROUTINE_106B:
      0x2D56 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "idls" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=510*
      0x2D65 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq06" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2D76 [0x1A] CALL_SUBROUTINE(address=0x3025)
-     0x2D79 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7729*]:
+     0x2D79 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7731*]:
     → "How could you possess such resolve even after losing the light of the crystals...?"
      0x2D80 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2D81 [0x52] END_LOAD_SCHEDULER: End scheduler "dq06" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2D90 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq15" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2DA1 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [LocalPlayer, LocalPlayer], work=[154*, 0*]
      0x2DB2 [0x1C] WAIT(150* ticks)
-     0x2DB5 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7730*]:
+     0x2DB5 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7732*]:
     → "A teardrop? So that's it... You heal your agony and sorrow through tears..."
      0x2DBC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2DBD [0x52] END_LOAD_SCHEDULER: End scheduler "dq15" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2DCC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq16" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2DDD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tma0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=650*
-     0x2DEC [0x2B] Diabolos (ID: 16818289/0x0100A071) [7731*]:
+     0x2DEC [0x2B] Diabolos (ID: 16818289/0x0100A071) [7733*]:
     → "I understand now. I understand, because I was once like you."
      0x2DF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2DF4 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7732*]:
+     0x2DF4 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7734*]:
     → "Because reality is filled with sorrow and pain, mankind can also come to know bliss, joy on a scale far surpassing any placid dream."
      0x2DFB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2DFC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tma1" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=650*
@@ -3129,13 +3129,13 @@ SUBROUTINE_106B:
      0x2E18 [0x52] END_LOAD_SCHEDULER: End scheduler "dq16" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2E27 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq17" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2E38 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x2E47 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7733*]:
+     0x2E47 [0x2B] Diabolos (ID: 16818289/0x0100A071) [7735*]:
     → "Still, I became a terrestrial avatar in order to assist mankind, and I fully intend to continue my work."
      0x2E4E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2E4F [0x52] END_LOAD_SCHEDULER: End scheduler "dq17" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2E5E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq06" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2E6F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
-     0x2E7E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7734*]:
+     0x2E7E [0x2B] Diabolos (ID: 16818289/0x0100A071) [7736*]:
     → "And so I shall bestow upon you that which you so desire--a real dream."
      0x2E85 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2E86 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 16818289/0x0100A071), Diabolos (ID: 16818289/0x0100A071)], work=511*
@@ -3143,7 +3143,7 @@ SUBROUTINE_106B:
      0x2E98 [0x52] END_LOAD_SCHEDULER: End scheduler "dq06" with entities [LocalPlayer, LocalPlayer], work=152*
      0x2EA7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq07" with entities [LocalPlayer, LocalPlayer], work=[152*, 0*]
      0x2EB8 [0x1B] RETURN
-     0x2EB9 [0x24] CREATE_DIALOG(message_id=7070*, default_option=1*, option_flags=0*)
+     0x2EB9 [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x2EC0 [0x25] WAIT_DIALOG_SELECT()
      0x2EC1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2ECF

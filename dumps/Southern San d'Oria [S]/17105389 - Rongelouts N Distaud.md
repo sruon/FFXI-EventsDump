@@ -110,21 +110,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2F41      |       12097 |
-|       1 | 0x2AC8      |       10952 |
-|       2 | 0x2AC9      |       10953 |
-|       3 | 0x2ACA      |       10954 |
-|       4 | 0x3118      |       12568 |
-|       5 | 0x3119      |       12569 |
+|       0 | 0x2F43      |       12099 |
+|       1 | 0x2ACA      |       10954 |
+|       2 | 0x2ACB      |       10955 |
+|       3 | 0x2ACC      |       10956 |
+|       4 | 0x311A      |       12570 |
+|       5 | 0x311B      |       12571 |
 |       6 | 0x0028      |          40 |
 |       7 | 0x000D      |          13 |
-|       8 | 0x2FB6      |       12214 |
-|       9 | 0x2FB7      |       12215 |
-|      10 | 0x2FB8      |       12216 |
-|      11 | 0x2FBA      |       12218 |
-|      12 | 0x2FE8      |       12264 |
-|      13 | 0x300B      |       12299 |
-|      14 | 0x300C      |       12300 |
+|       8 | 0x2FB8      |       12216 |
+|       9 | 0x2FB9      |       12217 |
+|      10 | 0x2FBA      |       12218 |
+|      11 | 0x2FBC      |       12220 |
+|      12 | 0x2FEA      |       12266 |
+|      13 | 0x300D      |       12301 |
+|      14 | 0x300E      |       12302 |
 |      15 | 0x0003      |           3 |
 |      16 | 0x000F      |          15 |
 |      17 | 0x0038      |          56 |
@@ -133,15 +133,15 @@
 |      20 | 0x000C      |          12 |
 |      21 | 0x0000      |           0 |
 |      22 | 0x011F      |         287 |
-|      23 | 0x3831      |       14385 |
+|      23 | 0x3833      |       14387 |
 |      24 | 0x1408      |        5128 |
 |      25 | 0xFFFFA959  |  4294945113 |
 |      26 | 0x07CF      |        1999 |
 |      27 | 0xFFFFAA0A  |  4294945290 |
 |      28 | 0x0080      |         128 |
 |      29 | 0x0001      |           1 |
-|      30 | 0x38BC      |       14524 |
-|      31 | 0x38BD      |       14525 |
+|      30 | 0x38BE      |       14526 |
+|      31 | 0x38BF      |       14527 |
 |      32 | 0xFFFFD4E1  |  4294956257 |
 |      33 | 0xFFFF894F  |  4294936911 |
 |      34 | 0x0576      |        1398 |
@@ -233,11 +233,11 @@
 
 ## String References
 
-- **10952**: A good luck charm from the Young Griffons?
-- **10953**: I need nothing more than my sword arm to protect me from harm! And you can pass that on to those impudent young maggots!
-- **10954**: Hmph, I suppose it was offered in good faith. I shall take it, then.
-- **12097**: I am Rongelouts, commander of the Knights of the Iron Ram of the Royal Knights of San d'Oria. I shall personally set straight any cowards in our ranks. It would not be long before they would come to fear my sword more than beastman claw!
-- **14385**: Make haste to Xarcabard, <Player>, to the Cardinal Stags' encampment. Dubious rumors aside, I would know the soundness of their morale.
+- **10954**: A good luck charm from the Young Griffons?
+- **10955**: I need nothing more than my sword arm to protect me from harm! And you can pass that on to those impudent young maggots!
+- **10956**: Hmph, I suppose it was offered in good faith. I shall take it, then.
+- **12099**: I am Rongelouts, commander of the Knights of the Iron Ram of the Royal Knights of San d'Oria. I shall personally set straight any cowards in our ranks. It would not be long before they would come to fear my sword more than beastman claw!
+- **14387**: Make haste to Xarcabard, <Player>, to the Cardinal Stags' encampment. Dubious rumors aside, I would know the soundness of their morale.
 
 ## Events
 
@@ -283,7 +283,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=12097*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=12099*)
     → "I am Rongelouts, commander of the Knights of the Iron Ram of the Royal Knights of San d'Oria. I shall personally set straight any cowards in our ranks. It would not be long before they would come to fear my sword more than beastman claw!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -312,13 +312,13 @@
 ```
   0: 0x000C [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=10952*)
+  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=10954*)
     → "A good luck charm from the Young Griffons?"
   3: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=10953*)
+  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=10955*)
     → "I need nothing more than my sword arm to protect me from harm! And you can pass that on to those impudent young maggots!"
   5: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=10954*)
+  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=10956*)
     → "Hmph, I suppose it was offered in good faith. I shall take it, then."
   7: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001E [0x21] END_EVENT
@@ -390,10 +390,10 @@
 
 ```
   0: 0x0022 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0027 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12568*]:
+  1: 0x0027 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12570*]:
     → "Conspiring with those young maggots to plant an eavesdropping device on a superior officer!? Absolutely unforgivable!"
   2: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x002F [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12569*]:
+  3: 0x002F [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12571*]:
     → "Hmph... Considering the outcome, I shall pardon your transgression just this once."
   4: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0037 [0x21] END_EVENT
@@ -576,13 +576,13 @@
 ```
   0: 0x0083 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0085 [0x4A] Rongelouts N Distaud (ID: 17105389/0x010501ED) looks at LocalPlayer
-  2: 0x008E [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12214*]:
+  2: 0x008E [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12216*]:
     → "What? You would know my opinion of the Swiftwing Griffins?"
   3: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0096 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12215*]:
+  4: 0x0096 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12217*]:
     → "The have unexpectedly rigid backbones...for a bunch of maggots. But many more indignities must be overcome on their part if they hope to become anything more than ankle weights."
   5: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x009E [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12216*]:
+  6: 0x009E [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12218*]:
     → "Now then. How do you explain your dawdling here? For every minute you stand in idle inactivity, the Kingdom loses ground to the enemy."
   7: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A6 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -613,7 +613,7 @@
 ```
   0: 0x00AA [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x00AC [0x4A] Rongelouts N Distaud (ID: 17105389/0x010501ED) looks at LocalPlayer
-  2: 0x00B5 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12218*]:
+  2: 0x00B5 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12220*]:
     → "I have a unit of knights to oversee. If you've nothing of import to discuss, then away with you."
   3: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00BD [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -645,7 +645,7 @@
   1: 0x00C3 [0x4A] Rongelouts N Distaud (ID: 17105389/0x010501ED) looks at LocalPlayer
   2: 0x00CC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00CD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rongelouts N Distaud (ID: 17105389/0x010501ED) Render.Flags0 and Render.Flags3 conditions are met
-  4: 0x00D2 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12264*]:
+  4: 0x00D2 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12266*]:
     → "Best you deliver the letter to Alphonimile while the Cardinal Stags have yet to depart the Pashhow Marshlands. I'm counting on you."
   5: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00DA [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -679,10 +679,10 @@
   1: 0x00E0 [0x4A] Rongelouts N Distaud (ID: 17105389/0x010501ED) looks at LocalPlayer
   2: 0x00E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00EA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rongelouts N Distaud (ID: 17105389/0x010501ED) Render.Flags0 and Render.Flags3 conditions are met
-  4: 0x00EF [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12299*]:
+  4: 0x00EF [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12301*]:
     → "All communication with the Marquisate has ceased since that unexplained occurrence..."
   5: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00F7 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12300*]:
+  6: 0x00F7 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [12302*]:
     → "Confound it! Had only we conclusive evidence, I would have stopped at nothing to prevent him from continuing on to Tavnazia!"
   7: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00FF [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -759,7 +759,7 @@
 
 ```
   0: 0x012D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=14385*)
+  1: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=14387*)
     → "Make haste to Xarcabard, <Player>, to the Cardinal Stags' encampment. Dubious rumors aside, I would know the soundness of their morale."
   2: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0136 [0x21] END_EVENT
@@ -1070,10 +1070,10 @@
   0: 0x017C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0181 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0182 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0183 [0x2B] EventEntity [14524*]:
+  3: 0x0183 [0x2B] EventEntity [14526*]:
     → "What? You seek the red-haired girl? Who do you take me for? The keeper of maggots!?"
   4: 0x018A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x018B [0x2B] EventEntity [14525*]:
+  5: 0x018B [0x2B] EventEntity [14527*]:
     → "Should you find her, though, you'd do well to see her back to where she belongs. We've enough maggots squirming hereabouts as it is."
   6: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0193 [0x21] END_EVENT

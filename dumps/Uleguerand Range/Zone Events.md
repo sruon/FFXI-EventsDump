@@ -32,7 +32,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CAE      |        7342 |
+|       0 | 0x1CB0      |        7344 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0078      |         120 |
@@ -82,7 +82,7 @@
 
 ## String References
 
-- **7342**: Use the $3? [Yes./No.]
+- **7344**: Use the $3? [Yes./No.]
 
 ## Events
 
@@ -159,7 +159,7 @@
 #### Opcodes
 
 ```
-  0: 0x0002 [0x24] CREATE_DIALOG(message_id=7342*, default_option=1*, option_flags=0*)
+  0: 0x0002 [0x24] CREATE_DIALOG(message_id=7344*, default_option=1*, option_flags=0*)
     → "Use the $3? [Yes./No.]"
   1: 0x0009 [0x25] WAIT_DIALOG_SELECT()
   2: 0x000A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0093
@@ -222,7 +222,7 @@ SUBROUTINE_00A3:
 #### Opcodes
 
 ```
-  0: 0x00A7 [0x24] CREATE_DIALOG(message_id=7342*, default_option=1*, option_flags=0*)
+  0: 0x00A7 [0x24] CREATE_DIALOG(message_id=7344*, default_option=1*, option_flags=0*)
     → "Use the $3? [Yes./No.]"
   1: 0x00AE [0x25] WAIT_DIALOG_SELECT()
   2: 0x00AF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0138
@@ -286,7 +286,7 @@ SUBROUTINE_0148:
 #### Opcodes
 
 ```
-  0: 0x014C [0x24] CREATE_DIALOG(message_id=7342*, default_option=1*, option_flags=0*)
+  0: 0x014C [0x24] CREATE_DIALOG(message_id=7344*, default_option=1*, option_flags=0*)
     → "Use the $3? [Yes./No.]"
   1: 0x0153 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0154 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01DD

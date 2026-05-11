@@ -34,11 +34,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F70      |        8048 |
+|       1 | 0x1F72      |        8050 |
 
 ## String References
 
-- **8048**: sIx$26jUsT bIt$26sIX's ToNGuE! OuCH! tOnGuE$26hURtS!
+- **8050**: sIx$26jUsT bIt$26sIX's ToNGuE! OuCH! tOnGuE$26hURtS!
 
 ## Events
 
@@ -133,7 +133,7 @@
   0: 0x000B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0010 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0011 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8048*)
+  3: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8050*)
     → "sIx$26jUsT bIt$26sIX's ToNGuE! OuCH! tOnGuE$26hURtS!"
   4: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0016 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -23,50 +23,50 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x015F      |         351 |
-|       2 | 0x1C4D      |        7245 |
-|       3 | 0x1C5C      |        7260 |
-|       4 | 0x1C5D      |        7261 |
-|       5 | 0x1C4E      |        7246 |
-|       6 | 0x1C4F      |        7247 |
-|       7 | 0x1C50      |        7248 |
-|       8 | 0x1C51      |        7249 |
-|       9 | 0x1C52      |        7250 |
-|      10 | 0x1C53      |        7251 |
-|      11 | 0x1C54      |        7252 |
-|      12 | 0x1C55      |        7253 |
-|      13 | 0x1C56      |        7254 |
-|      14 | 0x1C57      |        7255 |
-|      15 | 0x1C58      |        7256 |
-|      16 | 0x1C59      |        7257 |
-|      17 | 0x1C5A      |        7258 |
+|       2 | 0x1C4F      |        7247 |
+|       3 | 0x1C5E      |        7262 |
+|       4 | 0x1C5F      |        7263 |
+|       5 | 0x1C50      |        7248 |
+|       6 | 0x1C51      |        7249 |
+|       7 | 0x1C52      |        7250 |
+|       8 | 0x1C53      |        7251 |
+|       9 | 0x1C54      |        7252 |
+|      10 | 0x1C55      |        7253 |
+|      11 | 0x1C56      |        7254 |
+|      12 | 0x1C57      |        7255 |
+|      13 | 0x1C58      |        7256 |
+|      14 | 0x1C59      |        7257 |
+|      15 | 0x1C5A      |        7258 |
+|      16 | 0x1C5B      |        7259 |
+|      17 | 0x1C5C      |        7260 |
 |      18 | 0x0087      |         135 |
-|      19 | 0x1C5E      |        7262 |
-|      20 | 0x1C60      |        7264 |
+|      19 | 0x1C60      |        7264 |
+|      20 | 0x1C62      |        7266 |
 |      21 | 0x0000      |           0 |
 |      22 | 0x0003      |           3 |
 |      23 | 0x0077      |         119 |
-|      24 | 0x1C5F      |        7263 |
-|      25 | 0x1C5B      |        7259 |
+|      24 | 0x1C61      |        7265 |
+|      25 | 0x1C5D      |        7261 |
 |      26 | 0x2710      |       10000 |
-|      27 | 0x1C66      |        7270 |
+|      27 | 0x1C68      |        7272 |
 |      28 | 0x0076      |         118 |
-|      29 | 0x1C62      |        7266 |
+|      29 | 0x1C64      |        7268 |
 |      30 | 0x000A      |          10 |
 |      31 | 0x0010      |          16 |
 |      32 | 0x001F      |          31 |
-|      33 | 0x1C63      |        7267 |
+|      33 | 0x1C65      |        7269 |
 |      34 | 0x0002      |           2 |
-|      35 | 0x1C67      |        7271 |
-|      36 | 0x1C68      |        7272 |
-|      37 | 0x1C69      |        7273 |
+|      35 | 0x1C69      |        7273 |
+|      36 | 0x1C6A      |        7274 |
+|      37 | 0x1C6B      |        7275 |
 |      38 | 0x0005      |           5 |
 |      39 | 0x0006      |           6 |
 |      40 | 0x0007      |           7 |
 |      41 | 0x0008      |           8 |
 |      42 | 0x0009      |           9 |
 |      43 | 0x0004      |           4 |
-|      44 | 0x1C6A      |        7274 |
-|      45 | 0x1C6B      |        7275 |
+|      44 | 0x1C6C      |        7276 |
+|      45 | 0x1C6D      |        7277 |
 |      46 | 0x000B      |          11 |
 |      47 | 0x000C      |          12 |
 |      48 | 0x000D      |          13 |
@@ -78,36 +78,36 @@
 |      54 | 0x0014      |          20 |
 |      55 | 0x0015      |          21 |
 |      56 | 0x0016      |          22 |
-|      57 | 0x1C6D      |        7277 |
-|      58 | 0x1C6E      |        7278 |
-|      59 | 0x1C6F      |        7279 |
-|      60 | 0x1C90      |        7312 |
-|      61 | 0x1C7B      |        7291 |
-|      62 | 0x1C7C      |        7292 |
-|      63 | 0x1C7D      |        7293 |
-|      64 | 0x1C7E      |        7294 |
-|      65 | 0x1C7F      |        7295 |
-|      66 | 0x1C80      |        7296 |
-|      67 | 0x1C91      |        7313 |
-|      68 | 0x1C92      |        7314 |
-|      69 | 0x1C93      |        7315 |
-|      70 | 0x1C94      |        7316 |
-|      71 | 0x1C95      |        7317 |
-|      72 | 0x1C84      |        7300 |
-|      73 | 0x1C81      |        7297 |
-|      74 | 0x1C82      |        7298 |
-|      75 | 0x1C83      |        7299 |
+|      57 | 0x1C6F      |        7279 |
+|      58 | 0x1C70      |        7280 |
+|      59 | 0x1C71      |        7281 |
+|      60 | 0x1C92      |        7314 |
+|      61 | 0x1C7D      |        7293 |
+|      62 | 0x1C7E      |        7294 |
+|      63 | 0x1C7F      |        7295 |
+|      64 | 0x1C80      |        7296 |
+|      65 | 0x1C81      |        7297 |
+|      66 | 0x1C82      |        7298 |
+|      67 | 0x1C93      |        7315 |
+|      68 | 0x1C94      |        7316 |
+|      69 | 0x1C95      |        7317 |
+|      70 | 0x1C96      |        7318 |
+|      71 | 0x1C97      |        7319 |
+|      72 | 0x1C86      |        7302 |
+|      73 | 0x1C83      |        7299 |
+|      74 | 0x1C84      |        7300 |
+|      75 | 0x1C85      |        7301 |
 |      76 | 0x270F      |        9999 |
-|      77 | 0x1C97      |        7319 |
-|      78 | 0x1C98      |        7320 |
-|      79 | 0x1C99      |        7321 |
-|      80 | 0x1C9A      |        7322 |
-|      81 | 0x1C9B      |        7323 |
-|      82 | 0x1C9C      |        7324 |
-|      83 | 0x1C9F      |        7327 |
-|      84 | 0x1CA0      |        7328 |
-|      85 | 0x1CA1      |        7329 |
-|      86 | 0x1CA2      |        7330 |
+|      77 | 0x1C99      |        7321 |
+|      78 | 0x1C9A      |        7322 |
+|      79 | 0x1C9B      |        7323 |
+|      80 | 0x1C9C      |        7324 |
+|      81 | 0x1C9D      |        7325 |
+|      82 | 0x1C9E      |        7326 |
+|      83 | 0x1CA1      |        7329 |
+|      84 | 0x1CA2      |        7330 |
+|      85 | 0x1CA3      |        7331 |
+|      86 | 0x1CA4      |        7332 |
 |      87 | 0x4E20      |       20000 |
 |      88 | 0x7530      |       30000 |
 |      89 | 0x3A98      |       15000 |
@@ -345,62 +345,62 @@
 
 ## String References
 
-- **7245**: Welcome to Apollyon. Please present your $3.
-- **7246**: ...Credentials not present. Authorizing new issuance.
-- **7247**: Registration in progress...
-- **7248**: Welcome to Apollyon. This place is designed for the generation of new life-forms.
-- **7249**: NW/SW/NE/SE areas contain monsters for recording data in your $3.
-- **7250**: Successfully recording data will permit you to open Apollyon Coffers.
-- **7251**: You will also be authorized to collect a special currency called Apollyon Units.
-- **7252**: Systems are only capable of recording data for each registrant up to five times per week (Earth time).
-- **7253**: Apollyon Units can be used in the Apollyon Furnace.
-- **7254**: Please use it to your advantage.
-- **7255**: Special Limbus buffs known as Grace are also available to those who have deposited a sufficient amount of currency.
-- **7256**: The more data, the stronger the Grace.
-- **7257**: Your registration is now complete. Currently recording initial data in your $3.
-- **7258**: Please set your initial monster level. The higher the level, the more precise the data we can gather.
-- **7259**: Your $3 is now fully prepared. Glory to Zilart.
-- **7260**: ...
-- **7261**: ......
-- **7262**: Enter a level value between 119 and $1 to be recorded in your $3.
-- **7263**: "$1" has been recorded in your $3.
-- **7264**: Enter 0 to cancel.
-- **7266**: Increasing the level will reset your progress.
-- **7267**: What will you do? [Change level and reset./Never mind.]
-- **7270**: Inquire about what? [Level settings./Apollyon./Apollyon Units./The Apollyon Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./CN Opening.$1./Reforging.@/Unique data./Nothing for now.]
-- **7271**: Remaining Apollyon Units: $0. Total Apollyon Units: $1/$2.
-- **7272**: The Apollyon Furnace uses data to enhance your equipment.
-- **7273**: Inquire about which? [Pummeler's Armor./Anchorite Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Armor./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Nothing for now.]
-- **7275**: Reforging your item into $0 requires $1 and $2 Apollyon Units.
-- **7277**: 3 effects: Accuracy+$1@Ranged Accuracy+$1@Magic Accuracy+$1.
-- **7278**: $3 effects: BPALL+$3.
-- **7279**: $3 effects: Max. HP+$5 EXP Loss Reduction: $6% MEXP Loss Reduction: $6%
-- **7291**: I have generated new notorious monsters based on your data.
-- **7292**: Here is a quick rundown.
-- **7293**: 1: they do not take your set level into account.
-- **7294**: 2: there are 22 types, but only 4 will appear on any given day (Earth time).
-- **7295**: $0: vanquishing them affects the contents of the Apollyon Coffer obtainable four weeks later.
-- **7296**: This should enable you to collect even more precise data.
-- **7297**: The $0 changes form when one uses Apollyon Units.
-- **7298**: It can produce special equipment.
-- **7299**: The produced equipment can be further infused.
-- **7300**: Notorious monster vanquishing information will affect Apollyon Coffers in $0 [days/hours/hour or less] (Earth time).
-- **7312**: Do what? [Phase 1./Phase 2./@/Back.]
-- **7313**: New notorious monsters have been created based on collected data aand registrant information.
-- **7314**: Communicating data on new notorious monsters.
-- **7315**: 2: Notorious monsters are classified into three categories.
-- **7316**: 3: Notorious monster spawn conditions are divided into two sets.
-- **7317**: 4: They spawn in CN, which opens when certain conditions are met.
-- **7319**: Creating $0 based on registrant information.
-- **7320**: Multiple $0 may by created from $1 and $2.
-- **7321**: Created items can be used to unlock and reforge new equipment.
-- **7322**: Up to $3 $0 can be changed into other types.
-- **7323**: Reforged equipment attributes can be carried over to higher-tier equipmen of the same series and equipment slot.
-- **7324**: However, the original equipment will be consumed in the process.
-- **7327**: Unique data will be recorded after dealing damage to a notorious monster.
-- **7328**: A wide variety of data is needed to ensure the unique data's precision.
-- **7329**: Acquiring the requisite amount of unique data will unlock one Apollyon Coffer in either the NW, SW, NE, or SE areas.
-- **7330**: Unique data may be accumulated up to a cap of $0.
+- **7247**: Welcome to Apollyon. Please present your $3.
+- **7248**: ...Credentials not present. Authorizing new issuance.
+- **7249**: Registration in progress...
+- **7250**: Welcome to Apollyon. This place is designed for the generation of new life-forms.
+- **7251**: NW/SW/NE/SE areas contain monsters for recording data in your $3.
+- **7252**: Successfully recording data will permit you to open Apollyon Coffers.
+- **7253**: You will also be authorized to collect a special currency called Apollyon Units.
+- **7254**: Systems are only capable of recording data for each registrant up to five times per week (Earth time).
+- **7255**: Apollyon Units can be used in the Apollyon Furnace.
+- **7256**: Please use it to your advantage.
+- **7257**: Special Limbus buffs known as Grace are also available to those who have deposited a sufficient amount of currency.
+- **7258**: The more data, the stronger the Grace.
+- **7259**: Your registration is now complete. Currently recording initial data in your $3.
+- **7260**: Please set your initial monster level. The higher the level, the more precise the data we can gather.
+- **7261**: Your $3 is now fully prepared. Glory to Zilart.
+- **7262**: ...
+- **7263**: ......
+- **7264**: Enter a level value between 119 and $1 to be recorded in your $3.
+- **7265**: "$1" has been recorded in your $3.
+- **7266**: Enter 0 to cancel.
+- **7268**: Increasing the level will reset your progress.
+- **7269**: What will you do? [Change level and reset./Never mind.]
+- **7272**: Inquire about what? [Level settings./Apollyon./Apollyon Units./The Apollyon Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./CN Opening.$1./Reforging.@/Unique data./Nothing for now.]
+- **7273**: Remaining Apollyon Units: $0. Total Apollyon Units: $1/$2.
+- **7274**: The Apollyon Furnace uses data to enhance your equipment.
+- **7275**: Inquire about which? [Pummeler's Armor./Anchorite Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Armor./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Nothing for now.]
+- **7277**: Reforging your item into $0 requires $1 and $2 Apollyon Units.
+- **7279**: 3 effects: Accuracy+$1@Ranged Accuracy+$1@Magic Accuracy+$1.
+- **7280**: $3 effects: BPALL+$3.
+- **7281**: $3 effects: Max. HP+$5 EXP Loss Reduction: $6% MEXP Loss Reduction: $6%
+- **7293**: I have generated new notorious monsters based on your data.
+- **7294**: Here is a quick rundown.
+- **7295**: 1: they do not take your set level into account.
+- **7296**: 2: there are 22 types, but only 4 will appear on any given day (Earth time).
+- **7297**: $0: vanquishing them affects the contents of the Apollyon Coffer obtainable four weeks later.
+- **7298**: This should enable you to collect even more precise data.
+- **7299**: The $0 changes form when one uses Apollyon Units.
+- **7300**: It can produce special equipment.
+- **7301**: The produced equipment can be further infused.
+- **7302**: Notorious monster vanquishing information will affect Apollyon Coffers in $0 [days/hours/hour or less] (Earth time).
+- **7314**: Do what? [Phase 1./Phase 2./@/Back.]
+- **7315**: New notorious monsters have been created based on collected data aand registrant information.
+- **7316**: Communicating data on new notorious monsters.
+- **7317**: 2: Notorious monsters are classified into three categories.
+- **7318**: 3: Notorious monster spawn conditions are divided into two sets.
+- **7319**: 4: They spawn in CN, which opens when certain conditions are met.
+- **7321**: Creating $0 based on registrant information.
+- **7322**: Multiple $0 may by created from $1 and $2.
+- **7323**: Created items can be used to unlock and reforge new equipment.
+- **7324**: Up to $3 $0 can be changed into other types.
+- **7325**: Reforged equipment attributes can be carried over to higher-tier equipmen of the same series and equipment slot.
+- **7326**: However, the original equipment will be consumed in the process.
+- **7329**: Unique data will be recorded after dealing damage to a notorious monster.
+- **7330**: A wide variety of data is needed to ensure the unique data's precision.
+- **7331**: Acquiring the requisite amount of unique data will unlock one Apollyon Coffer in either the NW, SW, NE, or SE areas.
+- **7332**: Unique data may be accumulated up to a cap of $0.
 
 ## Events
 
@@ -459,59 +459,59 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(1* ticks)
   2: 0x0009 [0x03] Work_Zone[2] = 351*
-  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
+  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
     → "Welcome to Apollyon. Please present your $3."
   4: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+  5: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "..."
   6: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
+  7: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
     → "......"
   8: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
+  9: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
     → "...Credentials not present. Authorizing new issuance."
  10: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+ 11: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
     → "Registration in progress..."
  12: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
+ 13: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
     → "Welcome to Apollyon. This place is designed for the generation of new life-forms."
  14: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
+ 15: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
     → "NW/SW/NE/SE areas contain monsters for recording data in your $3."
  16: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+ 17: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
     → "Successfully recording data will permit you to open Apollyon Coffers."
  18: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
+ 19: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
     → "You will also be authorized to collect a special currency called Apollyon Units."
  20: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+ 21: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "Systems are only capable of recording data for each registrant up to five times per week (Earth time)."
  22: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+ 23: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
     → "Apollyon Units can be used in the Apollyon Furnace."
  24: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
+ 25: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
     → "Please use it to your advantage."
  26: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
+ 27: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "Special Limbus buffs known as Grace are also available to those who have deposited a sufficient amount of currency."
  28: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+ 29: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "The more data, the stronger the Grace."
  30: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+ 31: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → "Your registration is now complete. Currently recording initial data in your $3."
  32: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
+ 33: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
     → "Please set your initial monster level. The higher the level, the more precise the data we can gather."
  34: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x004E [0x03] Work_Zone[3] = 135*
- 36: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
+ 36: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
     → "Enter a level value between 119 and $1 to be recorded in your $3."
  37: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0057 [0x48] [System] [7264*]:
+ 38: 0x0057 [0x48] [System] [7266*]:
     → "Enter 0 to cancel."
  39: 0x005A [0x03] Work_Zone[1] = 0*
  40: 0x005F [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 3*])
@@ -524,16 +524,16 @@
  47: 0x0085 [0x03] Work_Zone[2] = 351*
  48: 0x008A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
  49: 0x008F [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[2]
- 50: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+ 50: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → ""$1" has been recorded in your $3."
  51: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+ 52: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "..."
  53: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
+ 54: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
     → "......"
  55: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
+ 56: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
     → "Your $3 is now fully prepared. Glory to Zilart."
  57: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x00A4 [0x01] GOTO 0x00AA
@@ -940,7 +940,7 @@ SUBROUTINE_00B0:
   8: 0x00DB [0x03] ExtData[1]->WorkLocal[6] = 0*
   9: 0x00E0 [0x03] Work_Zone[2] = 10000*
  10: 0x00E5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
- 11: 0x00EA [0x24] CREATE_DIALOG(message_id=7270*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[7])
+ 11: 0x00EA [0x24] CREATE_DIALOG(message_id=7272*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[7])
     → "Inquire about what? [Level settings./Apollyon./Apollyon Units./The Apollyon Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./CN Opening.$1./Reforging.@/Unique data./Nothing for now.]"
  12: 0x00F1 [0x25] WAIT_DIALOG_SELECT()
  13: 0x00F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x020C
@@ -953,14 +953,14 @@ SUBROUTINE_00B0:
  20: 0x0112 [0x07] ExtData[1]->WorkLocal[0] += 118*
  21: 0x0117 [0x03] Work_Zone[2] = 351*
  22: 0x011C [0x03] Work_Zone[3] = 135*
- 23: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
+ 23: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
     → "Enter a level value between 119 and $1 to be recorded in your $3."
  24: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0125 [0x48] [System] [7264*]:
+ 25: 0x0125 [0x48] [System] [7266*]:
     → "Enter 0 to cancel."
  26: 0x0128 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0133
  27: 0x0130 [0x01] GOTO 0x0136
- 28: 0x0133 [0x48] [System] [7266*]:
+ 28: 0x0133 [0x48] [System] [7268*]:
     → "Increasing the level will reset your progress."
 
 SUBROUTINE_0136:
@@ -977,14 +977,14 @@ SUBROUTINE_0136:
  39: 0x016E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
  40: 0x0173 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[1], source=1*)
  41: 0x017C [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
- 42: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+ 42: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → ""$1" has been recorded in your $3."
  43: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0189 [0x01] GOTO 0x01FD
  45: 0x018C [0x02] IF !(ExtData[1]->WorkLocal[2] <= ExtData[1]->WorkLocal[0]) GOTO 0x01DD
- 46: 0x0194 [0x48] [System] [7266*]:
+ 46: 0x0194 [0x48] [System] [7268*]:
     → "Increasing the level will reset your progress."
- 47: 0x0197 [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
+ 47: 0x0197 [0x24] CREATE_DIALOG(message_id=7269*, default_option=1*, option_flags=0*)
     → "What will you do? [Change level and reset./Never mind.]"
  48: 0x019E [0x25] WAIT_DIALOG_SELECT()
  49: 0x019F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01CA
@@ -992,7 +992,7 @@ SUBROUTINE_0136:
  51: 0x01AC [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
  52: 0x01B1 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[1], source=1*)
  53: 0x01BA [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
- 54: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+ 54: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → ""$1" has been recorded in your $3."
  55: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01C7 [0x01] GOTO 0x01DA
@@ -1006,7 +1006,7 @@ SUBROUTINE_01DA:
  62: 0x01E2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
  63: 0x01E7 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[1], source=1*)
  64: 0x01F0 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
- 65: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+ 65: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → ""$1" has been recorded in your $3."
  66: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1023,37 +1023,37 @@ SUBROUTINE_0209:
  72: 0x020C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0248
  73: 0x0214 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[0]
  74: 0x0219 [0x03] Work_Zone[2] = 351*
- 75: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
+ 75: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
     → "Welcome to Apollyon. This place is designed for the generation of new life-forms."
  76: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
+ 77: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
     → "NW/SW/NE/SE areas contain monsters for recording data in your $3."
  78: 0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+ 79: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
     → "Successfully recording data will permit you to open Apollyon Coffers."
  80: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
+ 81: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
     → "You will also be authorized to collect a special currency called Apollyon Units."
  82: 0x022D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+ 83: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "Systems are only capable of recording data for each registrant up to five times per week (Earth time)."
  84: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+ 85: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
     → "Apollyon Units can be used in the Apollyon Furnace."
  86: 0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
+ 87: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
     → "Please use it to your advantage."
  88: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
+ 89: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "Special Limbus buffs known as Grace are also available to those who have deposited a sufficient amount of currency."
  90: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+ 91: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "The more data, the stronger the Grace."
  92: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0242 [0x01] GOTO 0x00E0
 
 SUBROUTINE_0279:
- 94: 0x0279 [0x24] CREATE_DIALOG(message_id=7273*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+ 94: 0x0279 [0x24] CREATE_DIALOG(message_id=7275*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "Inquire about which? [Pummeler's Armor./Anchorite Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Armor./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Nothing for now.]"
  95: 0x0280 [0x25] WAIT_DIALOG_SELECT()
  96: 0x0281 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x032F
@@ -1114,7 +1114,7 @@ SUBROUTINE_049D:
 143: 0x0518 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
 144: 0x051B [0x9D] IF (0x14BB) Work_Zone[0] = Work_Zone[3] // extra=0x801E
 145: 0x0525 [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-146: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+146: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
 147: 0x0532 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0533 [0x01] GOTO 0x049D
@@ -1263,7 +1263,7 @@ SUBROUTINE_0CC5:
 271: 0x0D40 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
 272: 0x0D43 [0x9D] IF (0x163B) Work_Zone[0] = Work_Zone[3] // extra=0x801E
 273: 0x0D4D [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-274: 0x0D57 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+274: 0x0D57 [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
 275: 0x0D5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x0D5B [0x01] GOTO 0x0CC5
@@ -1319,14 +1319,14 @@ SUBROUTINE_1201:
 SUBROUTINE_123F:
 315: 0x123F [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x124A
 316: 0x1247 [0x01] GOTO 0x124E
-317: 0x124A [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
+317: 0x124A [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
     → "$3 effects: BPALL+$3."
 318: 0x124D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_124E:
 319: 0x124E [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x1259
 320: 0x1256 [0x01] GOTO 0x125D
-321: 0x1259 [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
+321: 0x1259 [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
     → "$3 effects: Max. HP+$5 EXP Loss Reduction: $6% MEXP Loss Reduction: $6%"
 322: 0x125C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1335,28 +1335,28 @@ SUBROUTINE_125D:
 
 SUBROUTINE_1270:
 324: 0x1270 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=2*, condition_work_offset=1*)
-325: 0x1277 [0x24] CREATE_DIALOG(message_id=7312*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[8])
+325: 0x1277 [0x24] CREATE_DIALOG(message_id=7314*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[8])
     → "Do what? [Phase 1./Phase 2./@/Back.]"
 326: 0x127E [0x25] WAIT_DIALOG_SELECT()
 327: 0x127F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12AF
 328: 0x1287 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[0]
-329: 0x128C [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
+329: 0x128C [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
     → "I have generated new notorious monsters based on your data."
 330: 0x128F [0x23] WAIT_FOR_DIALOG_INTERACTION
-331: 0x1290 [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
+331: 0x1290 [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
     → "Here is a quick rundown."
 332: 0x1293 [0x23] WAIT_FOR_DIALOG_INTERACTION
-333: 0x1294 [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
+333: 0x1294 [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
     → "1: they do not take your set level into account."
 334: 0x1297 [0x23] WAIT_FOR_DIALOG_INTERACTION
-335: 0x1298 [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
+335: 0x1298 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
     → "2: there are 22 types, but only 4 will appear on any given day (Earth time)."
 336: 0x129B [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x129C [0x03] Work_Zone[2] = 3*
-338: 0x12A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
+338: 0x12A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
     → "$0: vanquishing them affects the contents of the Apollyon Coffer obtainable four weeks later."
 339: 0x12A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-340: 0x12A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
+340: 0x12A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
     → "This should enable you to collect even more precise data."
 341: 0x12A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 342: 0x12A9 [0x01] GOTO 0x1270
@@ -1368,7 +1368,7 @@ SUBROUTINE_1308:
 346: 0x1318 [0x03] Work_Zone[1] = 6*
 347: 0x131D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 348: 0x131F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-349: 0x1321 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
+349: 0x1321 [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
     → "Notorious monster vanquishing information will affect Apollyon Coffers in $0 [days/hours/hour or less] (Earth time)."
 350: 0x1324 [0x23] WAIT_FOR_DIALOG_INTERACTION
 351: 0x1325 [0x01] GOTO 0x00E0
@@ -1395,7 +1395,7 @@ SUBROUTINE_1437:
      0x046A [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x046D [0x9D] IF (0x149B) Work_Zone[0] = Work_Zone[3] // extra=0x801E
      0x0477 [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-     0x0481 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+     0x0481 [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
      0x0484 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0485 [0x01] GOTO 0x03EF
@@ -1409,7 +1409,7 @@ SUBROUTINE_1437:
      0x05C6 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x05C9 [0x9D] IF (0x14DB) Work_Zone[0] = Work_Zone[3] // extra=0x801E
      0x05D3 [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-     0x05DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+     0x05DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
      0x05E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05E1 [0x01] GOTO 0x054B
@@ -1422,7 +1422,7 @@ SUBROUTINE_1437:
      0x0674 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x0677 [0x9D] IF (0x14FB) Work_Zone[0] = Work_Zone[3] // extra=0x801E
      0x0681 [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-     0x068B [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+     0x068B [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
      0x068E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x068F [0x01] GOTO 0x05F9
@@ -1444,7 +1444,7 @@ SUBROUTINE_1437:
      0x0722 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x0725 [0x9D] IF (0x151B) Work_Zone[0] = Work_Zone[3] // extra=0x801E
      0x072F [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-     0x0739 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+     0x0739 [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
      0x073C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x073D [0x01] GOTO 0x06A7
@@ -1472,7 +1472,7 @@ SUBROUTINE_1437:
      0x0A88 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x0A8B [0x9D] IF (0x15BB) Work_Zone[0] = Work_Zone[3] // extra=0x801E
      0x0A95 [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-     0x0A9F [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+     0x0A9F [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
      0x0AA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AA3 [0x01] GOTO 0x0A0D
@@ -1485,7 +1485,7 @@ SUBROUTINE_1437:
      0x0B36 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x0B39 [0x9D] IF (0x15DB) Work_Zone[0] = Work_Zone[3] // extra=0x801E
      0x0B43 [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-     0x0B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+     0x0B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
      0x0B50 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B51 [0x01] GOTO 0x0ABB
@@ -1503,7 +1503,7 @@ SUBROUTINE_1437:
      0x0C92 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x0C95 [0x9D] IF (0x161B) Work_Zone[0] = Work_Zone[3] // extra=0x801E
      0x0C9F [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-     0x0CA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+     0x0CA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
      0x0CAC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CAD [0x01] GOTO 0x0C17
@@ -1540,7 +1540,7 @@ SUBROUTINE_1437:
      0x11D2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x11D5 [0x9D] IF (Work_Zone_1700[27]) Work_Zone[0] = Work_Zone[3] // extra=0x801E
      0x11DF [0x9D] IF (0x144B) Work_Zone[0] = Work_Zone[4] // extra=0x8026
-     0x11E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+     0x11E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Reforging your item into $0 requires $1 and $2 Apollyon Units."
      0x11EC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11ED [0x01] GOTO 0x1157

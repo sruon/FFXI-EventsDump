@@ -21,24 +21,24 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D8C      |        7564 |
+|       0 | 0x1D8E      |        7566 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D8D      |        7565 |
+|       3 | 0x1D8F      |        7567 |
 |       4 | 0x03F9      |        1017 |
-|       5 | 0x18FB      |        6395 |
+|       5 | 0x18FD      |        6397 |
 |       6 | 0x4DA94     |      318100 |
 |       7 | 0xFFF71230  |  4294382128 |
 |       8 | 0xFFFFC75C  |  4294952796 |
 |       9 | 0x0400      |        1024 |
-|      10 | 0x1D8E      |        7566 |
+|      10 | 0x1D90      |        7568 |
 
 ## String References
 
-- **6395**: Lost key item: 3.
-- **7564**: Sprinkle some salt on the tablet? [Yes./No.]
-- **7565**: The stone tablet quickly absorbs the salt and begins giving off a metallic grating sound...
-- **7566**: The salt grains patter against the stone tablet and scatter all over the ground. You could have sworn hearing the tinkling sound of a bell...
+- **6397**: Lost key item: 3.
+- **7566**: Sprinkle some salt on the tablet? [Yes./No.]
+- **7567**: The stone tablet quickly absorbs the salt and begins giving off a metallic grating sound...
+- **7568**: The salt grains patter against the stone tablet and scatter all over the ground. You could have sworn hearing the tinkling sound of a bell...
 
 ## Events
 
@@ -89,18 +89,18 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7564*, default_option=1*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7566*, default_option=1*, option_flags=0*)
     → "Sprinkle some salt on the tablet? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0047
   4: 0x0013 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   5: 0x0014 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   6: 0x0016 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-  7: 0x0018 [0x48] [System] [7565*]:
+  7: 0x0018 [0x48] [System] [7567*]:
     → "The stone tablet quickly absorbs the salt and begins giving off a metallic grating sound..."
   8: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001C [0x03] Work_Zone[2] = 1017*
- 10: 0x0021 [0x48] [System] [6395*]:
+ 10: 0x0021 [0x48] [System] [6397*]:
     → "Lost key item: 3."
  11: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0025 [0x03] Work_Zone[1] = 1*
@@ -140,11 +140,11 @@ SUBROUTINE_0052:
 
 ```
   0: 0x0056 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0058 [0x24] CREATE_DIALOG(message_id=7564*, default_option=1*, option_flags=0*)
+  1: 0x0058 [0x24] CREATE_DIALOG(message_id=7566*, default_option=1*, option_flags=0*)
     → "Sprinkle some salt on the tablet? [Yes./No.]"
   2: 0x005F [0x25] WAIT_DIALOG_SELECT()
   3: 0x0060 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006F
-  4: 0x0068 [0x48] [System] [7566*]:
+  4: 0x0068 [0x48] [System] [7568*]:
     → "The salt grains patter against the stone tablet and scatter all over the ground. You could have sworn hearing the tinkling sound of a bell..."
   5: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x006C [0x01] GOTO 0x007A

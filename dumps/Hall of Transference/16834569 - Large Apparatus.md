@@ -33,21 +33,21 @@
 |       6 | 0x00FA      |         250 |
 |       7 | 0x04B0      |        1200 |
 |       8 | 0x03E8      |        1000 |
-|       9 | 0x1C83      |        7299 |
-|      10 | 0x1C84      |        7300 |
-|      11 | 0x1C85      |        7301 |
+|       9 | 0x1C85      |        7301 |
+|      10 | 0x1C86      |        7302 |
+|      11 | 0x1C87      |        7303 |
 |      12 | 0x0001      |           1 |
 |      13 | 0x40000000  |  1073741824 |
-|      14 | 0x1C86      |        7302 |
+|      14 | 0x1C88      |        7304 |
 |      15 | 0x0384      |         900 |
 |      16 | 0x00B4      |         180 |
 |      17 | 0x0076      |         118 |
 |      18 | 0x001E      |          30 |
 |      19 | 0x0028      |          40 |
 |      20 | 0x0046      |          70 |
-|      21 | 0x1C82      |        7298 |
+|      21 | 0x1C84      |        7300 |
 |      22 | 0x0064      |         100 |
-|      23 | 0x1C81      |        7297 |
+|      23 | 0x1C83      |        7299 |
 |      24 | 0x000A      |          10 |
 |      25 | 0x0005      |           5 |
 |      26 | 0x0006      |           6 |
@@ -55,10 +55,10 @@
 
 ## String References
 
-- **7299**: By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered.
-- **7300**: This will allow you to return to the entrance of the crag, having forgotten all events regarding this place.
-- **7301**: Seal off your memories? [Yes./No.]
-- **7302**: Are you sure? [Absolutely./No.]
+- **7301**: By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered.
+- **7302**: This will allow you to return to the entrance of the crag, having forgotten all events regarding this place.
+- **7303**: Seal off your memories? [Yes./No.]
+- **7304**: Are you sure? [Absolutely./No.]
 
 ## Events
 
@@ -246,13 +246,13 @@
 
 ```
   0: 0x0158 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x015A [0x48] [System] [7299*]:
+  1: 0x015A [0x48] [System] [7301*]:
     → "By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered."
   2: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x015E [0x48] [System] [7300*]:
+  3: 0x015E [0x48] [System] [7302*]:
     → "This will allow you to return to the entrance of the crag, having forgotten all events regarding this place."
   4: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0162 [0x24] CREATE_DIALOG(message_id=7301*, default_option=1*, option_flags=0*)
+  5: 0x0162 [0x24] CREATE_DIALOG(message_id=7303*, default_option=1*, option_flags=0*)
     → "Seal off your memories? [Yes./No.]"
   6: 0x0169 [0x25] WAIT_DIALOG_SELECT()
   7: 0x016A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x017C
@@ -261,7 +261,7 @@
  10: 0x0178 [0x00] END_REQSTACK()
 
 SUBROUTINE_017C:
- 11: 0x017C [0x24] CREATE_DIALOG(message_id=7302*, default_option=1*, option_flags=0*)
+ 11: 0x017C [0x24] CREATE_DIALOG(message_id=7304*, default_option=1*, option_flags=0*)
     → "Are you sure? [Absolutely./No.]"
  12: 0x0183 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0184 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0196
@@ -403,11 +403,11 @@ SUBROUTINE_0196:
  34: 0x0373 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=118*
  35: 0x0382 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[118*, 0*]
  36: 0x0393 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se82" with entities [EventEntity, EventEntity], work=[118*, 0*]
- 37: 0x03A4 [0x2B] ??? (ID: 16834584/0x0100E018) [7298*]:
+ 37: 0x03A4 [0x2B] ??? (ID: 16834584/0x0100E018) [7300*]:
     → "Nooo!!!"
  38: 0x03AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x03AC [0x1C] WAIT(100* ticks)
- 40: 0x03AF [0x2B] ??? (ID: 16834583/0x0100E017) [7297*]:
+ 40: 0x03AF [0x2B] ??? (ID: 16834583/0x0100E017) [7299*]:
     → "Wha...? Aaagghh!"
  41: 0x03B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x03B7 [0x1C] WAIT(120* ticks)

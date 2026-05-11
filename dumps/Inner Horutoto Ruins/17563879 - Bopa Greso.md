@@ -55,13 +55,13 @@
 |      17 | 0x470C      |       18188 |
 |      18 | 0xFFFFFFE6  |  4294967270 |
 |      19 | 0x0E9A      |        3738 |
-|      20 | 0x1C78      |        7288 |
-|      21 | 0x1C80      |        7296 |
+|      20 | 0x1C7A      |        7290 |
+|      21 | 0x1C82      |        7298 |
 
 ## String References
 
-- **7288**: Heh heh heh... Don't tell us this is yourrr first lesson in the school of hard knocks now, little [girrrl/boy]?
-- **7296**: What do we do, Top Cat? We can't take on three Ace Carrrdians and expect to live!
+- **7290**: Heh heh heh... Don't tell us this is yourrr first lesson in the school of hard knocks now, little [girrrl/boy]?
+- **7298**: What do we do, Top Cat? We can't take on three Ace Carrrdians and expect to live!
 
 ## Events
 
@@ -461,7 +461,7 @@
 
 ```
   0: 0x0102 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17563879/0x010C00E7), tag_num=0x02)
-  1: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=7288*)
+  1: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
     → "Heh heh heh... Don't tell us this is yourrr first lesson in the school of hard knocks now, little [girrrl/boy]?"
   2: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x010D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bopa Greso (ID: 17563879/0x010C00E7), tag_num=0x03)
@@ -487,7 +487,7 @@
 #### Opcodes
 
 ```
-  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
+  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
     → "What do we do, Top Cat? We can't take on three Ace Carrrdians and expect to live!"
   1: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0119 [0x00] END_REQSTACK()

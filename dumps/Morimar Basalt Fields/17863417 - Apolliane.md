@@ -46,52 +46,52 @@
 |       4 | 0x0000      |           0 |
 |       5 | 0x000C      |          12 |
 |       6 | 0x001A      |          26 |
-|       7 | 0x1D63      |        7523 |
+|       7 | 0x1D65      |        7525 |
 |       8 | 0x0F51      |        3921 |
 |       9 | 0x089E      |        2206 |
-|      10 | 0x1D64      |        7524 |
-|      11 | 0x1D65      |        7525 |
-|      12 | 0x1D66      |        7526 |
-|      13 | 0x1D67      |        7527 |
-|      14 | 0x1D68      |        7528 |
-|      15 | 0x1D69      |        7529 |
-|      16 | 0x1D6A      |        7530 |
-|      17 | 0x1D6B      |        7531 |
-|      18 | 0x1D6C      |        7532 |
-|      19 | 0x1D6D      |        7533 |
-|      20 | 0x1D6E      |        7534 |
-|      21 | 0x1D6F      |        7535 |
-|      22 | 0x1D70      |        7536 |
+|      10 | 0x1D66      |        7526 |
+|      11 | 0x1D67      |        7527 |
+|      12 | 0x1D68      |        7528 |
+|      13 | 0x1D69      |        7529 |
+|      14 | 0x1D6A      |        7530 |
+|      15 | 0x1D6B      |        7531 |
+|      16 | 0x1D6C      |        7532 |
+|      17 | 0x1D6D      |        7533 |
+|      18 | 0x1D6E      |        7534 |
+|      19 | 0x1D6F      |        7535 |
+|      20 | 0x1D70      |        7536 |
+|      21 | 0x1D71      |        7537 |
+|      22 | 0x1D72      |        7538 |
 |      23 | 0x00C8      |         200 |
 |      24 | 0x003C      |          60 |
-|      25 | 0x1D71      |        7537 |
+|      25 | 0x1D73      |        7539 |
 |      26 | 0x00C9      |         201 |
-|      27 | 0x1D72      |        7538 |
-|      28 | 0x1F06      |        7942 |
-|      29 | 0x1F07      |        7943 |
-|      30 | 0x1F08      |        7944 |
+|      27 | 0x1D74      |        7540 |
+|      28 | 0x1F08      |        7944 |
+|      29 | 0x1F09      |        7945 |
+|      30 | 0x1F0A      |        7946 |
 
 ## String References
 
-- **7523**: I would deign to assist you, but you must first register as a pioneer. Turn tail and return to Adoulin first to register, and then we can discuss matters further.
-- **7524**: The Morimar Basalt Fields are riddled with walls and crags made of hardened magma. This has caused much consternation for those traveling here, as the paths are sometimes blocked by such dangers.
-- **7525**: You, too, must have met with some of these hindrances countless times on your way here. Were you aware, however, that there are methods for breaking down these natural barriers?
-- **7526**: It is truly a simple affair. There is a technique known by the moniker of $3, which will enable you to contriturate such annoyances in a flash.
-- **7527**: I can enlighten you as to the secrets of such a skill. However, I will require something in return.
-- **7528**: I ask not much of you--bring me $0, which can be excavated from ore deposits in the area. I presume it should take you no time at all.
-- **7529**: This is a test of your skill in the wilds, young one. You must dig one up for yourself, not merely hand over one you have acquired by other means.
-- **7530**: % can be mined from ore deposits here in the Morimar Basalt Fields. I am certain that you have experienced harvesting the mineral bounties that lodes provide, yes?
-- **7531**: Remember--I require that you dig one up with your own tools.
-- **7532**: Learning my techniques requires the proper mindset...for me, not for you. That's why I require $0--it represents the first step toward forming a bond of trust.
-- **7533**: Yes, this item is of the type that I require--but it's far too clean and polished. I cannot believe you dug it up yourself.
-- **7534**: You must put your skills to the test and find one using your own skills and strengths. I will accept no less.
-- **7535**: Well done! One who is able to find a stone such as this surely has what it takes to navigate the perilous terrain of the basalt fields.
-- **7536**: Hold steady, dear friend, and take the time for introspection. You have naturally acquired the skill $3 by fulfilling my meager request.
-- **7537**: You should now be able to crush the stone walls with ease. Please forgive my sending you on such a meaningless task, but I wanted to impress upon you that you can do whatever you set your heart on.
-- **7538**: The term "pioneer" may be just a word to you, but in Adoulin it embodies a certain strength of spirit. A pioneer who forgets that they serve the people is no pioneer at all.
-- **7942**: Hostenn? Oh yes, terrible story, that. We procured some new explosives to use in our work here, but the detonation, well...
-- **7943**: The blast alerted numerous revolting, gargantuan beasts who assaulted us from all sides.
-- **7944**: Several of our expedition's members fled, yet they failed to return even when the immediate danger had passed. We are currently devoting all our resources to finding them.
+- **7525**: I would deign to assist you, but you must first register as a pioneer. Turn tail and return to Adoulin first to register, and then we can discuss matters further.
+- **7526**: The Morimar Basalt Fields are riddled with walls and crags made of hardened magma. This has caused much consternation for those traveling here, as the paths are sometimes blocked by such dangers.
+- **7527**: You, too, must have met with some of these hindrances countless times on your way here. Were you aware, however, that there are methods for breaking down these natural barriers?
+- **7528**: It is truly a simple affair. There is a technique known by the moniker of $3, which will enable you to contriturate such annoyances in a flash.
+- **7529**: I can enlighten you as to the secrets of such a skill. However, I will require something in return.
+- **7530**: I ask not much of you--bring me $0, which can be excavated from ore deposits in the area. I presume it should take you no time at all.
+- **7531**: This is a test of your skill in the wilds, young one. You must dig one up for yourself, not merely hand over one you have acquired by other means.
+- **7532**: % can be mined from ore deposits here in the Morimar Basalt Fields. I am certain that you have experienced harvesting the mineral bounties that lodes provide, yes?
+- **7533**: Remember--I require that you dig one up with your own tools.
+- **7534**: Learning my techniques requires the proper mindset...for me, not for you. That's why I require $0--it represents the first step toward forming a bond of trust.
+- **7535**: Yes, this item is of the type that I require--but it's far too clean and polished. I cannot believe you dug it up yourself.
+- **7536**: You must put your skills to the test and find one using your own skills and strengths. I will accept no less.
+- **7537**: Well done! One who is able to find a stone such as this surely has what it takes to navigate the perilous terrain of the basalt fields.
+- **7538**: Hold steady, dear friend, and take the time for introspection. You have naturally acquired the skill $3 by fulfilling my meager request.
+- **7539**: You should now be able to crush the stone walls with ease. Please forgive my sending you on such a meaningless task, but I wanted to impress upon you that you can do whatever you set your heart on.
+- **7540**: The term "pioneer" may be just a word to you, but in Adoulin it embodies a certain strength of spirit. A pioneer who forgets that they serve the people is no pioneer at all.
+- **7944**: Hostenn? Oh yes, terrible story, that. We procured some new explosives to use in our work here, but the detonation, well...
+- **7945**: The blast alerted numerous revolting, gargantuan beasts who assaulted us from all sides.
+- **7946**: Several of our expedition's members fled, yet they failed to return even when the immediate danger had passed. We are currently devoting all our resources to finding them.
 
 ## Events
 
@@ -463,7 +463,7 @@
   2: 0x00EB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00EC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00ED [0x27] REQ_SET(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x01)
-  5: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+  5: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "I would deign to assist you, but you must first register as a pioneer. Turn tail and return to Adoulin first to register, and then we can discuss matters further."
   6: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00F8 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Apolliane (ID: 17863417/0x011092F9))
@@ -503,26 +503,26 @@
   5: 0x010D [0x03] Work_Zone[2] = 3921*
   6: 0x0112 [0x03] Work_Zone[3] = 2206*
   7: 0x0117 [0x27] REQ_SET(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x01)
-  8: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  8: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "The Morimar Basalt Fields are riddled with walls and crags made of hardened magma. This has caused much consternation for those traveling here, as the paths are sometimes blocked by such dangers."
   9: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+ 10: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "You, too, must have met with some of these hindrances countless times on your way here. Were you aware, however, that there are methods for breaking down these natural barriers?"
  11: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0126 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Apolliane (ID: 17863417/0x011092F9))
  13: 0x012C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x02)
- 14: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+ 14: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "It is truly a simple affair. There is a technique known by the moniker of $3, which will enable you to contriturate such annoyances in a flash."
  15: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+ 16: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
     → "I can enlighten you as to the secrets of such a skill. However, I will require something in return."
  17: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x013B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x03)
  19: 0x0142 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x04)
- 20: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+ 20: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
     → "I ask not much of you--bring me $0, which can be excavated from ore deposits in the area. I presume it should take you no time at all."
  21: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+ 22: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "This is a test of your skill in the wilds, young one. You must dig one up for yourself, not merely hand over one you have acquired by other means."
  23: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0151 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x05)
@@ -557,13 +557,13 @@
   2: 0x0160 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0161 [0x03] Work_Zone[2] = 3921*
   4: 0x0166 [0x27] REQ_SET(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x01)
-  5: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
+  5: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
     → "% can be mined from ore deposits here in the Morimar Basalt Fields. I am certain that you have experienced harvesting the mineral bounties that lodes provide, yes?"
   6: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+  7: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "Remember--I require that you dig one up with your own tools."
   8: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+  9: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
     → "Learning my techniques requires the proper mindset...for me, not for you. That's why I require $0--it represents the first step toward forming a bond of trust."
  10: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0179 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Apolliane (ID: 17863417/0x011092F9))
@@ -597,10 +597,10 @@
   2: 0x0187 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0188 [0x03] Work_Zone[2] = 3921*
   4: 0x018D [0x27] REQ_SET(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x01)
-  5: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
+  5: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "Yes, this item is of the type that I require--but it's far too clean and polished. I cannot believe you dug it up yourself."
   6: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
+  7: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
     → "You must put your skills to the test and find one using your own skills and strengths. I will accept no less."
   8: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x019C [0x2A] GET_REQ_LEVEL(level=8, entity_id=Apolliane (ID: 17863417/0x011092F9))
@@ -643,10 +643,10 @@
   4: 0x01B4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x01B5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x01B6 [0x27] REQ_SET(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x0C)
-  7: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
+  7: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
     → "Well done! One who is able to find a stone such as this surely has what it takes to navigate the perilous terrain of the basalt fields."
   8: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
+  9: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
     → "Hold steady, dear friend, and take the time for introspection. You have naturally acquired the skill $3 by fulfilling my meager request."
  10: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x01C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -656,7 +656,7 @@
  15: 0x01EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x01FF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  17: 0x020E [0x27] REQ_SET(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x01)
- 18: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
+ 18: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
     → "You should now be able to crush the stone walls with ease. Please forgive my sending you on such a meaningless task, but I wanted to impress upon you that you can do whatever you set your heart on."
  19: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0219 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Apolliane (ID: 17863417/0x011092F9))
@@ -694,7 +694,7 @@
   3: 0x023D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x023E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=39*
   5: 0x024D [0x27] REQ_SET(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x01)
-  6: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
+  6: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
     → "The term "pioneer" may be just a word to you, but in Adoulin it embodies a certain strength of spirit. A pioneer who forgets that they serve the people is no pioneer at all."
   7: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0258 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Apolliane (ID: 17863417/0x011092F9))
@@ -731,13 +731,13 @@
   1: 0x027D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x027E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x027F [0x27] REQ_SET(priority=0x08, entity_id=Apolliane (ID: 17863417/0x011092F9), tag_num=0x01)
-  4: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+  4: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
     → "Hostenn? Oh yes, terrible story, that. We procured some new explosives to use in our work here, but the detonation, well..."
   5: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x028A [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
+  6: 0x028A [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
     → "The blast alerted numerous revolting, gargantuan beasts who assaulted us from all sides."
   7: 0x028D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+  8: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
     → "Several of our expedition's members fled, yet they failed to return even when the immediate danger had passed. We are currently devoting all our resources to finding them."
   9: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0292 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Apolliane (ID: 17863417/0x011092F9))

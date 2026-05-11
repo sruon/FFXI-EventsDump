@@ -66,7 +66,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EB0      |        7856 |
+|       0 | 0x1EB2      |        7858 |
 |       1 | 0x00EA      |         234 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x003C      |          60 |
@@ -92,12 +92,12 @@
 |      23 | 0x0090      |         144 |
 |      24 | 0x00B4      |         180 |
 |      25 | 0x0004      |           4 |
-|      26 | 0x1CB6      |        7350 |
-|      27 | 0x1CB7      |        7351 |
-|      28 | 0x1CB9      |        7353 |
-|      29 | 0x1CBA      |        7354 |
-|      30 | 0x1CBB      |        7355 |
-|      31 | 0x1CBC      |        7356 |
+|      26 | 0x1CB8      |        7352 |
+|      27 | 0x1CB9      |        7353 |
+|      28 | 0x1CBB      |        7355 |
+|      29 | 0x1CBC      |        7356 |
+|      30 | 0x1CBD      |        7357 |
+|      31 | 0x1CBE      |        7358 |
 |      32 | 0x0102      |         258 |
 |      33 | 0x0202      |         514 |
 |      34 | 0x0156      |         342 |
@@ -184,7 +184,7 @@
 
 ## String References
 
-- **7856**: The sandworm swallows you whole!
+- **7858**: The sandworm swallows you whole!
 
 ## Events
 
@@ -253,7 +253,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7856*]:
+  1: 0x0003 [0x48] [System] [7858*]:
     → "The sandworm swallows you whole!"
   2: 0x0006 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
   3: 0x0017 [0x1C] WAIT(60* ticks)
@@ -632,17 +632,17 @@ SUBROUTINE_02D9:
 
 SUBROUTINE_02DA:
 109: 0x02DA [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x02ED
-110: 0x02E2 [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7350*]:
+110: 0x02E2 [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7352*]:
     → "Ah, you must be <Player>. We've been expecting you."
 111: 0x02E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x02EA [0x01] GOTO 0x0313
 113: 0x02ED [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0300
-114: 0x02F5 [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7350*]:
+114: 0x02F5 [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7352*]:
     → "Ah, you must be <Player>. We've been expecting you."
 115: 0x02FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x02FD [0x01] GOTO 0x0313
 117: 0x0300 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x0313
-118: 0x0308 [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7350*]:
+118: 0x0308 [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7352*]:
     → "Ah, you must be <Player>. We've been expecting you."
 119: 0x030F [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0310 [0x01] GOTO 0x0313
@@ -652,17 +652,17 @@ SUBROUTINE_0313:
 
 SUBROUTINE_0314:
 122: 0x0314 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0327
-123: 0x031C [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7351*]:
+123: 0x031C [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7353*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 124: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0324 [0x01] GOTO 0x034D
 126: 0x0327 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x033A
-127: 0x032F [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7351*]:
+127: 0x032F [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7353*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 128: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0337 [0x01] GOTO 0x034D
 130: 0x033A [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x034D
-131: 0x0342 [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7351*]:
+131: 0x0342 [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7353*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 132: 0x0349 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x034A [0x01] GOTO 0x034D
@@ -672,17 +672,17 @@ SUBROUTINE_034D:
 
 SUBROUTINE_034E:
 135: 0x034E [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0361
-136: 0x0356 [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7353*]:
+136: 0x0356 [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7355*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 137: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x035E [0x01] GOTO 0x0387
 139: 0x0361 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0374
-140: 0x0369 [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7353*]:
+140: 0x0369 [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7355*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 141: 0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0371 [0x01] GOTO 0x0387
 143: 0x0374 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x0387
-144: 0x037C [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7353*]:
+144: 0x037C [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7355*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 145: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0384 [0x01] GOTO 0x0387
@@ -692,17 +692,17 @@ SUBROUTINE_0387:
 
 SUBROUTINE_0388:
 148: 0x0388 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x039B
-149: 0x0390 [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7354*]:
+149: 0x0390 [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7356*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 150: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0398 [0x01] GOTO 0x03C1
 152: 0x039B [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x03AE
-153: 0x03A3 [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7354*]:
+153: 0x03A3 [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7356*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 154: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x03AB [0x01] GOTO 0x03C1
 156: 0x03AE [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x03C1
-157: 0x03B6 [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7354*]:
+157: 0x03B6 [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7356*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 158: 0x03BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x03BE [0x01] GOTO 0x03C1
@@ -712,17 +712,17 @@ SUBROUTINE_03C1:
 
 SUBROUTINE_03C2:
 161: 0x03C2 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x03D5
-162: 0x03CA [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7355*]:
+162: 0x03CA [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7357*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 163: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x03D2 [0x01] GOTO 0x03FB
 165: 0x03D5 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x03E8
-166: 0x03DD [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7355*]:
+166: 0x03DD [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7357*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 167: 0x03E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x03E5 [0x01] GOTO 0x03FB
 169: 0x03E8 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x03FB
-170: 0x03F0 [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7355*]:
+170: 0x03F0 [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7357*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 171: 0x03F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x03F8 [0x01] GOTO 0x03FB
@@ -732,17 +732,17 @@ SUBROUTINE_03FB:
 
 SUBROUTINE_03FC:
 174: 0x03FC [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x040F
-175: 0x0404 [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7356*]:
+175: 0x0404 [0x2B] Raurart, R.K. (ID: 17175300/0x01061304) [7358*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 176: 0x040B [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x040C [0x01] GOTO 0x0435
 178: 0x040F [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0422
-179: 0x0417 [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7356*]:
+179: 0x0417 [0x2B] Pondering Peak, L.C. (ID: 17175301/0x01061305) [7358*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 180: 0x041E [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x041F [0x01] GOTO 0x0435
 182: 0x0422 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x0435
-183: 0x042A [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7356*]:
+183: 0x042A [0x2B] Dhen Kwherri, M.C. (ID: 17175302/0x01061306) [7358*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 184: 0x0431 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0432 [0x01] GOTO 0x0435

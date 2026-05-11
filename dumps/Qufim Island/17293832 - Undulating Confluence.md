@@ -22,7 +22,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1B80      |        7040 |
+|       0 | 0x1B82      |        7042 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x40000000  |  1073741824 |
@@ -38,7 +38,7 @@
 
 ## String References
 
-- **7040**: Jump into the vortex? [Off we go!/Not just yet.]
+- **7042**: Jump into the vortex? [Off we go!/Not just yet.]
 
 ## Events
 
@@ -185,7 +185,7 @@
   0: 0x0003 [0x4A] LocalPlayer looks at EventEntity
   1: 0x000C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0012 [0x24] CREATE_DIALOG(message_id=7040*, default_option=1*, option_flags=0*)
+  3: 0x0012 [0x24] CREATE_DIALOG(message_id=7042*, default_option=1*, option_flags=0*)
     → "Jump into the vortex? [Off we go!/Not just yet.]"
   4: 0x0019 [0x25] WAIT_DIALOG_SELECT()
   5: 0x001A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002F

@@ -25,43 +25,43 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x240C      |        9228 |
+|       0 | 0x240E      |        9230 |
 |       1 | 0x00AF      |         175 |
 |       2 | 0x0014      |          20 |
-|       3 | 0x240D      |        9229 |
-|       4 | 0x240E      |        9230 |
-|       5 | 0x240F      |        9231 |
-|       6 | 0x2410      |        9232 |
-|       7 | 0x2411      |        9233 |
-|       8 | 0x2412      |        9234 |
-|       9 | 0x2413      |        9235 |
-|      10 | 0x2414      |        9236 |
-|      11 | 0x2415      |        9237 |
-|      12 | 0x2416      |        9238 |
-|      13 | 0x2417      |        9239 |
-|      14 | 0x2418      |        9240 |
-|      15 | 0x2419      |        9241 |
-|      16 | 0x241A      |        9242 |
-|      17 | 0x241B      |        9243 |
+|       3 | 0x240F      |        9231 |
+|       4 | 0x2410      |        9232 |
+|       5 | 0x2411      |        9233 |
+|       6 | 0x2412      |        9234 |
+|       7 | 0x2413      |        9235 |
+|       8 | 0x2414      |        9236 |
+|       9 | 0x2415      |        9237 |
+|      10 | 0x2416      |        9238 |
+|      11 | 0x2417      |        9239 |
+|      12 | 0x2418      |        9240 |
+|      13 | 0x2419      |        9241 |
+|      14 | 0x241A      |        9242 |
+|      15 | 0x241B      |        9243 |
+|      16 | 0x241C      |        9244 |
+|      17 | 0x241D      |        9245 |
 
 ## String References
 
-- **9228**: I am a friar of the San d'Oria Cathedral, come to Windurst as part of a pilgrimage.
-- **9229**: Now that my devotions at the Crag of Mea in the Tahrongi Canyon are complete, I have orders from the cathedral to research the union between the magical arts of Windurst and miracles born of faith.
-- **9230**: I debated on how to best proceed, but finally settled on the field of putting troubled spirits to rest.
-- **9231**: After hours of painstaking research, I was able to create an item that could be said to stand at the pinnacle of white magic!
-- **9232**: Behold my creation! Please take this $3 and journey to the Eldieme Necropolis, a veritable city of restless souls.
-- **9233**: In the Necropolis, you will find a brazier with a flame that wavers from time to time. If you hold this $3 aloft in that place, it should bring the spirits into a state of tranquility. Please return and inform me of the outcome.
-- **9234**: Why not go there myself, you ask? I am on a pilgrimage, and must not travel north of Jeuno.
-- **9235**: Furthermore, I am but a simple scholar. It would be impossible for me to enter a place such as the Eldieme Necropolis.
-- **9236**: Please give peace to the spirits of the Eldieme Necropolis.
-- **9237**: Ah, you're back! And the result? Oh, I see...I was so sure it would work...
-- **9238**: In any case, I must thank you for your assistance. I would like to reward you immediately, but I do not possess anything of value...
-- **9239**: Please take this letter of introduction to Eperdur of the San d'Oria Cathedral.
-- **9240**: May Paradise open its gates to you.
+- **9230**: I am a friar of the San d'Oria Cathedral, come to Windurst as part of a pilgrimage.
+- **9231**: Now that my devotions at the Crag of Mea in the Tahrongi Canyon are complete, I have orders from the cathedral to research the union between the magical arts of Windurst and miracles born of faith.
+- **9232**: I debated on how to best proceed, but finally settled on the field of putting troubled spirits to rest.
+- **9233**: After hours of painstaking research, I was able to create an item that could be said to stand at the pinnacle of white magic!
+- **9234**: Behold my creation! Please take this $3 and journey to the Eldieme Necropolis, a veritable city of restless souls.
+- **9235**: In the Necropolis, you will find a brazier with a flame that wavers from time to time. If you hold this $3 aloft in that place, it should bring the spirits into a state of tranquility. Please return and inform me of the outcome.
+- **9236**: Why not go there myself, you ask? I am on a pilgrimage, and must not travel north of Jeuno.
+- **9237**: Furthermore, I am but a simple scholar. It would be impossible for me to enter a place such as the Eldieme Necropolis.
+- **9238**: Please give peace to the spirits of the Eldieme Necropolis.
+- **9239**: Ah, you're back! And the result? Oh, I see...I was so sure it would work...
+- **9240**: In any case, I must thank you for your assistance. I would like to reward you immediately, but I do not possess anything of value...
 - **9241**: Please take this letter of introduction to Eperdur of the San d'Oria Cathedral.
-- **9242**: A communication from the cathedral arrived to encourage me in my ongoing research.
-- **9243**: The Gates of Paradise are yet distant, I fear.
+- **9242**: May Paradise open its gates to you.
+- **9243**: Please take this letter of introduction to Eperdur of the San d'Oria Cathedral.
+- **9244**: A communication from the cathedral arrived to encourage me in my ongoing research.
+- **9245**: The Gates of Paradise are yet distant, I fear.
 
 ## Events
 
@@ -107,7 +107,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
     → "I am a friar of the San d'Oria Cathedral, come to Windurst as part of a pilgrimage."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -146,39 +146,39 @@
 ```
   0: 0x000C [0x03] Work_Zone[9] = 175*
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
     → "I am a friar of the San d'Oria Cathedral, come to Windurst as part of a pilgrimage."
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x001B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x001C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  7: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=9229*)
+  7: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=9231*)
     → "Now that my devotions at the Crag of Mea in the Tahrongi Canyon are complete, I have orders from the cathedral to research the union between the magical arts of Windurst and miracles born of faith."
   8: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
+  9: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
     → "I debated on how to best proceed, but finally settled on the field of putting troubled spirits to rest."
  10: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0033 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
  12: 0x0040 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 13: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=9231*)
+ 13: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
     → "After hours of painstaking research, I was able to create an item that could be said to stand at the pinnacle of white magic!"
  14: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0053 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "thk2" with entities [EventEntity, EventEntity]
  16: 0x0060 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 17: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
+ 17: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
     → "Behold my creation! Please take this $3 and journey to the Eldieme Necropolis, a veritable city of restless souls."
  18: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
+ 19: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=9235*)
     → "In the Necropolis, you will find a brazier with a flame that wavers from time to time. If you hold this $3 aloft in that place, it should bring the spirits into a state of tranquility. Please return and inform me of the outcome."
  20: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0077 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  22: 0x0084 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 23: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
+ 23: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=9236*)
     → "Why not go there myself, you ask? I am on a pilgrimage, and must not travel north of Jeuno."
  24: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0097 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  26: 0x00A4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 27: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9235*)
+ 27: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9237*)
     → "Furthermore, I am but a simple scholar. It would be impossible for me to enter a place such as the Eldieme Necropolis."
  28: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00B7 [0x21] END_EVENT
@@ -206,7 +206,7 @@
 
 ```
   0: 0x00B9 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9236*)
+  1: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
     → "Please give peace to the spirits of the Eldieme Necropolis."
   2: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00C2 [0x21] END_EVENT
@@ -239,21 +239,21 @@
 ```
   0: 0x00C4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00C5 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=9237*)
+  2: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=9239*)
     → "Ah, you're back! And the result? Oh, I see...I was so sure it would work..."
   3: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00CE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x00CF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x00D0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
-  7: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
+  7: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
     → "In any case, I must thank you for your assistance. I would like to reward you immediately, but I do not possess anything of value..."
   8: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9239*)
+  9: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9241*)
     → "Please take this letter of introduction to Eperdur of the San d'Oria Cathedral."
  10: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00E7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  12: 0x00F4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 13: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
+ 13: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=9242*)
     → "May Paradise open its gates to you."
  14: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0107 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -284,11 +284,11 @@
 
 ```
   0: 0x0116 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=9241*)
+  1: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=9243*)
     → "Please take this letter of introduction to Eperdur of the San d'Oria Cathedral."
   2: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x011F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
+  4: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=9242*)
     → "May Paradise open its gates to you."
   5: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0132 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -317,11 +317,11 @@
 
 ```
   0: 0x0141 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=9242*)
+  1: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=9244*)
     → "A communication from the cathedral arrived to encourage me in my ongoing research."
   2: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x014A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=9243*)
+  4: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=9245*)
     → "The Gates of Paradise are yet distant, I fear."
   5: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x015D [0x21] END_EVENT

@@ -21,16 +21,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B7C      |       11132 |
-|       1 | 0x2B7D      |       11133 |
+|       0 | 0x2B7E      |       11134 |
+|       1 | 0x2B7F      |       11135 |
 |       2 | 0x0027      |          39 |
-|       3 | 0x2B7E      |       11134 |
+|       3 | 0x2B80      |       11136 |
 
 ## String References
 
-- **11132**: This is the entrance to the Tavnazian Safehold.
-- **11133**: Twenty years ago, we were all overjoyed when news of the allied forces' victory over the Shadow Lord's armies finally reached our island.
-- **11134**: However, deep inside we knew that this would only be a short-lived triumph. As long as there is light in the world, there will always exist darkness.
+- **11134**: This is the entrance to the Tavnazian Safehold.
+- **11135**: Twenty years ago, we were all overjoyed when news of the allied forces' victory over the Shadow Lord's armies finally reached our island.
+- **11136**: However, deep inside we knew that this would only be a short-lived triumph. As long as there is light in the world, there will always exist darkness.
 
 ## Events
 
@@ -76,7 +76,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11132*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11134*)
     → "This is the entrance to the Tavnazian Safehold."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -105,11 +105,11 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=11133*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=11135*)
     → "Twenty years ago, we were all overjoyed when news of the allied forces' victory over the Shadow Lord's armies finally reached our island."
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0015 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=39*
-  4: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11134*)
+  4: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11136*)
     → "However, deep inside we knew that this would only be a short-lived triumph. As long as there is light in the world, there will always exist darkness."
   5: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0028 [0x21] END_EVENT

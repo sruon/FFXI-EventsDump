@@ -59,7 +59,7 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1E52      |        7762 |
+|       6 | 0x1E54      |        7764 |
 |       7 | 0x020C      |         524 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
@@ -100,8 +100,8 @@
 |      44 | 0x020B      |         523 |
 |      45 | 0x020A      |         522 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1E50      |        7760 |
-|      48 | 0x1E4F      |        7759 |
+|      47 | 0x1E52      |        7762 |
+|      48 | 0x1E51      |        7761 |
 |      49 | 0x0064      |         100 |
 |      50 | 0x01F2      |         498 |
 |      51 | 0x0066      |         102 |
@@ -202,7 +202,7 @@
 |     146 | 0x0024      |          36 |
 |     147 | 0x01F4      |         500 |
 |     148 | 0x01F3      |         499 |
-|     149 | 0x1E4E      |        7758 |
+|     149 | 0x1E50      |        7760 |
 |     150 | 0x01F6      |         502 |
 |     151 | 0x01F5      |         501 |
 |     152 | 0xFFFD0955  |  4294773077 |
@@ -419,120 +419,120 @@
 |     363 | 0x0193      |         403 |
 |     364 | 0x01C6      |         454 |
 |     365 | 0x01C7      |         455 |
-|     366 | 0x1E39      |        7737 |
+|     366 | 0x1E3B      |        7739 |
 |     367 | 0xFFFD84F8  |  4294804728 |
 |     368 | 0x13231     |       78385 |
 |     369 | 0xFFFFD268  |  4294955624 |
 |     370 | 0x0736      |        1846 |
-|     371 | 0x1E3A      |        7738 |
+|     371 | 0x1E3C      |        7740 |
 |     372 | 0xFFFCCEDD  |  4294758109 |
 |     373 | 0x7B4B      |       31563 |
 |     374 | 0xFFFFD6BA  |  4294956730 |
 |     375 | 0x0E34      |        3636 |
-|     376 | 0x1E67      |        7783 |
-|     377 | 0x1E68      |        7784 |
+|     376 | 0x1E69      |        7785 |
+|     377 | 0x1E6A      |        7786 |
 |     378 | 0x0078      |         120 |
-|     379 | 0x1E69      |        7785 |
-|     380 | 0x1E6A      |        7786 |
+|     379 | 0x1E6B      |        7787 |
+|     380 | 0x1E6C      |        7788 |
 |     381 | 0xFFFD1A5E  |  4294777438 |
 |     382 | 0xCB0A      |       51978 |
 |     383 | 0xFFFFD858  |  4294957144 |
 |     384 | 0x0E4D      |        3661 |
-|     385 | 0x1E46      |        7750 |
-|     386 | 0x1E47      |        7751 |
-|     387 | 0x1E48      |        7752 |
+|     385 | 0x1E48      |        7752 |
+|     386 | 0x1E49      |        7753 |
+|     387 | 0x1E4A      |        7754 |
 |     388 | 0xFFFD1FAB  |  4294778795 |
 |     389 | 0xCA8A      |       51850 |
 |     390 | 0xFFFFD7E9  |  4294957033 |
 |     391 | 0x0E79      |        3705 |
-|     392 | 0x1E6B      |        7787 |
-|     393 | 0x1E6C      |        7788 |
-|     394 | 0x1E6D      |        7789 |
-|     395 | 0x1E6E      |        7790 |
-|     396 | 0x1E6F      |        7791 |
-|     397 | 0x1E70      |        7792 |
-|     398 | 0x1E71      |        7793 |
-|     399 | 0x1E72      |        7794 |
-|     400 | 0x1E73      |        7795 |
-|     401 | 0x1E74      |        7796 |
-|     402 | 0x1E75      |        7797 |
-|     403 | 0x1E76      |        7798 |
-|     404 | 0x1E77      |        7799 |
-|     405 | 0x1E78      |        7800 |
-|     406 | 0x1E79      |        7801 |
-|     407 | 0x1E7A      |        7802 |
+|     392 | 0x1E6D      |        7789 |
+|     393 | 0x1E6E      |        7790 |
+|     394 | 0x1E6F      |        7791 |
+|     395 | 0x1E70      |        7792 |
+|     396 | 0x1E71      |        7793 |
+|     397 | 0x1E72      |        7794 |
+|     398 | 0x1E73      |        7795 |
+|     399 | 0x1E74      |        7796 |
+|     400 | 0x1E75      |        7797 |
+|     401 | 0x1E76      |        7798 |
+|     402 | 0x1E77      |        7799 |
+|     403 | 0x1E78      |        7800 |
+|     404 | 0x1E79      |        7801 |
+|     405 | 0x1E7A      |        7802 |
+|     406 | 0x1E7B      |        7803 |
+|     407 | 0x1E7C      |        7804 |
 |     408 | 0x00C0      |         192 |
-|     409 | 0x1EB1      |        7857 |
-|     410 | 0x1EB2      |        7858 |
-|     411 | 0x1EB3      |        7859 |
-|     412 | 0x1EB4      |        7860 |
-|     413 | 0x1EB7      |        7863 |
-|     414 | 0x1EB8      |        7864 |
-|     415 | 0x1EB9      |        7865 |
-|     416 | 0x1EBA      |        7866 |
-|     417 | 0x1EBB      |        7867 |
-|     418 | 0x1EB5      |        7861 |
-|     419 | 0x1EB6      |        7862 |
-|     420 | 0x1EBC      |        7868 |
-|     421 | 0x1EBD      |        7869 |
-|     422 | 0x1ED6      |        7894 |
-|     423 | 0x1ED7      |        7895 |
-|     424 | 0x1ED8      |        7896 |
-|     425 | 0x1ED9      |        7897 |
-|     426 | 0x1EDC      |        7900 |
-|     427 | 0x1EDD      |        7901 |
-|     428 | 0x1EDE      |        7902 |
-|     429 | 0x1EDF      |        7903 |
-|     430 | 0x1EE0      |        7904 |
-|     431 | 0x1EDA      |        7898 |
-|     432 | 0x1EDB      |        7899 |
-|     433 | 0x1EE1      |        7905 |
-|     434 | 0x1EBE      |        7870 |
-|     435 | 0x1EBF      |        7871 |
-|     436 | 0x1EC0      |        7872 |
-|     437 | 0x1EC1      |        7873 |
-|     438 | 0x1EC4      |        7876 |
-|     439 | 0x1EC5      |        7877 |
-|     440 | 0x1EC6      |        7878 |
-|     441 | 0x1EC7      |        7879 |
-|     442 | 0x1EC8      |        7880 |
-|     443 | 0x1EC2      |        7874 |
-|     444 | 0x1EC3      |        7875 |
-|     445 | 0x1EC9      |        7881 |
-|     446 | 0x1ECA      |        7882 |
-|     447 | 0x1ECB      |        7883 |
-|     448 | 0x1ECC      |        7884 |
-|     449 | 0x1ECD      |        7885 |
-|     450 | 0x1ED0      |        7888 |
-|     451 | 0x1ED1      |        7889 |
-|     452 | 0x1ED2      |        7890 |
-|     453 | 0x1ED3      |        7891 |
-|     454 | 0x1ED4      |        7892 |
-|     455 | 0x1ECE      |        7886 |
-|     456 | 0x1ECF      |        7887 |
-|     457 | 0x1ED5      |        7893 |
-|     458 | 0x1E16      |        7702 |
-|     459 | 0x1E19      |        7705 |
-|     460 | 0x1E24      |        7716 |
+|     409 | 0x1EB3      |        7859 |
+|     410 | 0x1EB4      |        7860 |
+|     411 | 0x1EB5      |        7861 |
+|     412 | 0x1EB6      |        7862 |
+|     413 | 0x1EB9      |        7865 |
+|     414 | 0x1EBA      |        7866 |
+|     415 | 0x1EBB      |        7867 |
+|     416 | 0x1EBC      |        7868 |
+|     417 | 0x1EBD      |        7869 |
+|     418 | 0x1EB7      |        7863 |
+|     419 | 0x1EB8      |        7864 |
+|     420 | 0x1EBE      |        7870 |
+|     421 | 0x1EBF      |        7871 |
+|     422 | 0x1ED8      |        7896 |
+|     423 | 0x1ED9      |        7897 |
+|     424 | 0x1EDA      |        7898 |
+|     425 | 0x1EDB      |        7899 |
+|     426 | 0x1EDE      |        7902 |
+|     427 | 0x1EDF      |        7903 |
+|     428 | 0x1EE0      |        7904 |
+|     429 | 0x1EE1      |        7905 |
+|     430 | 0x1EE2      |        7906 |
+|     431 | 0x1EDC      |        7900 |
+|     432 | 0x1EDD      |        7901 |
+|     433 | 0x1EE3      |        7907 |
+|     434 | 0x1EC0      |        7872 |
+|     435 | 0x1EC1      |        7873 |
+|     436 | 0x1EC2      |        7874 |
+|     437 | 0x1EC3      |        7875 |
+|     438 | 0x1EC6      |        7878 |
+|     439 | 0x1EC7      |        7879 |
+|     440 | 0x1EC8      |        7880 |
+|     441 | 0x1EC9      |        7881 |
+|     442 | 0x1ECA      |        7882 |
+|     443 | 0x1EC4      |        7876 |
+|     444 | 0x1EC5      |        7877 |
+|     445 | 0x1ECB      |        7883 |
+|     446 | 0x1ECC      |        7884 |
+|     447 | 0x1ECD      |        7885 |
+|     448 | 0x1ECE      |        7886 |
+|     449 | 0x1ECF      |        7887 |
+|     450 | 0x1ED2      |        7890 |
+|     451 | 0x1ED3      |        7891 |
+|     452 | 0x1ED4      |        7892 |
+|     453 | 0x1ED5      |        7893 |
+|     454 | 0x1ED6      |        7894 |
+|     455 | 0x1ED0      |        7888 |
+|     456 | 0x1ED1      |        7889 |
+|     457 | 0x1ED7      |        7895 |
+|     458 | 0x1E18      |        7704 |
+|     459 | 0x1E1B      |        7707 |
+|     460 | 0x1E26      |        7718 |
 |     461 | 0x40000000  |  1073741824 |
-|     462 | 0x1E25      |        7717 |
+|     462 | 0x1E27      |        7719 |
 |     463 | 0x003B      |          59 |
-|     464 | 0x1E26      |        7718 |
-|     465 | 0x1E27      |        7719 |
-|     466 | 0x1E3C      |        7740 |
-|     467 | 0x1E3D      |        7741 |
-|     468 | 0x1E3E      |        7742 |
-|     469 | 0x1E3F      |        7743 |
-|     470 | 0x1E44      |        7748 |
-|     471 | 0x1E40      |        7744 |
-|     472 | 0x1E43      |        7747 |
+|     464 | 0x1E28      |        7720 |
+|     465 | 0x1E29      |        7721 |
+|     466 | 0x1E3E      |        7742 |
+|     467 | 0x1E3F      |        7743 |
+|     468 | 0x1E40      |        7744 |
+|     469 | 0x1E41      |        7745 |
+|     470 | 0x1E46      |        7750 |
+|     471 | 0x1E42      |        7746 |
+|     472 | 0x1E45      |        7749 |
 |     473 | 0x00A0      |         160 |
-|     474 | 0x1E41      |        7745 |
+|     474 | 0x1E43      |        7747 |
 |     475 | 0xFFFD4D78  |  4294790520 |
 |     476 | 0xDA7A      |       55930 |
 |     477 | 0xFFFFD6A6  |  4294956710 |
 |     478 | 0x0EE7      |        3815 |
-|     479 | 0x1E42      |        7746 |
+|     479 | 0x1E44      |        7748 |
 |     480 | 0xFFFD200A  |  4294778890 |
 |     481 | 0x1040F     |       66575 |
 |     482 | 0xFFFFD8AE  |  4294957230 |
@@ -588,30 +588,30 @@
 |     532 | 0xFFFD687B  |  4294797435 |
 |     533 | 0x12FAD     |       77741 |
 |     534 | 0x040B      |        1035 |
-|     535 | 0x1E8D      |        7821 |
-|     536 | 0x1E8E      |        7822 |
-|     537 | 0x1E8F      |        7823 |
-|     538 | 0x1E90      |        7824 |
-|     539 | 0x1E93      |        7827 |
-|     540 | 0x1E94      |        7828 |
-|     541 | 0x1E95      |        7829 |
-|     542 | 0x1E96      |        7830 |
-|     543 | 0x1E97      |        7831 |
-|     544 | 0x1E91      |        7825 |
-|     545 | 0x1E92      |        7826 |
-|     546 | 0x1E98      |        7832 |
-|     547 | 0x1E99      |        7833 |
-|     548 | 0x1E9A      |        7834 |
-|     549 | 0x1E9B      |        7835 |
-|     550 | 0x1E9C      |        7836 |
-|     551 | 0x1E9F      |        7839 |
-|     552 | 0x1EA0      |        7840 |
-|     553 | 0x1EA1      |        7841 |
-|     554 | 0x1EA2      |        7842 |
-|     555 | 0x1EA3      |        7843 |
-|     556 | 0x1E9D      |        7837 |
-|     557 | 0x1E9E      |        7838 |
-|     558 | 0x1EA4      |        7844 |
+|     535 | 0x1E8F      |        7823 |
+|     536 | 0x1E90      |        7824 |
+|     537 | 0x1E91      |        7825 |
+|     538 | 0x1E92      |        7826 |
+|     539 | 0x1E95      |        7829 |
+|     540 | 0x1E96      |        7830 |
+|     541 | 0x1E97      |        7831 |
+|     542 | 0x1E98      |        7832 |
+|     543 | 0x1E99      |        7833 |
+|     544 | 0x1E93      |        7827 |
+|     545 | 0x1E94      |        7828 |
+|     546 | 0x1E9A      |        7834 |
+|     547 | 0x1E9B      |        7835 |
+|     548 | 0x1E9C      |        7836 |
+|     549 | 0x1E9D      |        7837 |
+|     550 | 0x1E9E      |        7838 |
+|     551 | 0x1EA1      |        7841 |
+|     552 | 0x1EA2      |        7842 |
+|     553 | 0x1EA3      |        7843 |
+|     554 | 0x1EA4      |        7844 |
+|     555 | 0x1EA5      |        7845 |
+|     556 | 0x1E9F      |        7839 |
+|     557 | 0x1EA0      |        7840 |
+|     558 | 0x1EA6      |        7846 |
 |     559 | 0x73FE      |       29694 |
 |     560 | 0xF71C      |       63260 |
 |     561 | 0xFFFFFFE1  |  4294967265 |
@@ -638,19 +638,19 @@
 - **522**: That record is held by $5 adventurers, including %0!
 - **523**: That record is held by %0!
 - **524**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7702**: Select a name for your Wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Nanaja/Khocha]
-- **7705**: Is this the name you really want? [This is the one./I need more time to think./Forget about it.]
-- **7716**: Select a name for your wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Look at the next list./Quit]
-- **7717**: Select a name for your wyvern. [Nanaja/Khocha/Dino/Chomper/Huffy/Pouncer/Fido/Lucy/Jake/Rocky/Rex/Rusty/Himmelskralle/Gizmo/Spike/Sylvester/Milo/Tom/Toby/Felix/Komet/Bo/Molly/Unryu/Daisy/Baron/Ginger/Muffin/Lumineux/Look at the previous list./Look at the next list./Quit]
-- **7718**: Select a name for your wyvern. [Quatrevents/Toryu/Tataba/Etoilazuree/Grisnuage/Belorage/Centonnerre/Nouvellune/Missy/Amedeo/Tranchevent/Soufflefeu/Etoile/Tonnerre/Nuage/Foudre/Hyuh/Orage/Lune/Astre/Waffenzahn/Soleil/Courageux/Koffla-Paffla/Venteuse/Lunaire/Tora/Celeste/Galja-Mogalja/Look at the previous list./Look at the next list./Quit]
-- **7719**: Select a name for your wyvern. [Gaboh/Vhyun/Orageuse/Stellaire/Solaire/Wirbelwind/Blutkralle/Bogen/Junker/Flink/Knirps/Bodo/Soryu/Wawaro/Totona/Levian-Movian/Kagero/Joseph/Paparal/Coco/Ringo/Nonomi/Teter/Gigima/Gogodavi/Rurumo/Tupah/Jyubih/Majha/Look at the previous list./Look at the next list./Quit]
-- **7737**: The door is locked. [Try to force the lock./Give up.]
-- **7744**: Well? [Pay the Orc./Fight to the bitter end.]
-- **7758**: You have broken the clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]"!
-- **7759**: The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 second[/s].
-- **7760**: The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 minute[/s] $2 second[/s].
-- **7762**: Which battlefield will you enter? [None./Save the Children./The Holy Crest./Wings of Fury./Petrifying Pair./Toadal Recall./Mirror, Mirror./././././././././././././././././././././././././]
-- **7869**: Take it to Luto? [That would be best./I don't think so.]
+- **7704**: Select a name for your Wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Nanaja/Khocha]
+- **7707**: Is this the name you really want? [This is the one./I need more time to think./Forget about it.]
+- **7718**: Select a name for your wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Look at the next list./Quit]
+- **7719**: Select a name for your wyvern. [Nanaja/Khocha/Dino/Chomper/Huffy/Pouncer/Fido/Lucy/Jake/Rocky/Rex/Rusty/Himmelskralle/Gizmo/Spike/Sylvester/Milo/Tom/Toby/Felix/Komet/Bo/Molly/Unryu/Daisy/Baron/Ginger/Muffin/Lumineux/Look at the previous list./Look at the next list./Quit]
+- **7720**: Select a name for your wyvern. [Quatrevents/Toryu/Tataba/Etoilazuree/Grisnuage/Belorage/Centonnerre/Nouvellune/Missy/Amedeo/Tranchevent/Soufflefeu/Etoile/Tonnerre/Nuage/Foudre/Hyuh/Orage/Lune/Astre/Waffenzahn/Soleil/Courageux/Koffla-Paffla/Venteuse/Lunaire/Tora/Celeste/Galja-Mogalja/Look at the previous list./Look at the next list./Quit]
+- **7721**: Select a name for your wyvern. [Gaboh/Vhyun/Orageuse/Stellaire/Solaire/Wirbelwind/Blutkralle/Bogen/Junker/Flink/Knirps/Bodo/Soryu/Wawaro/Totona/Levian-Movian/Kagero/Joseph/Paparal/Coco/Ringo/Nonomi/Teter/Gigima/Gogodavi/Rurumo/Tupah/Jyubih/Majha/Look at the previous list./Look at the next list./Quit]
+- **7739**: The door is locked. [Try to force the lock./Give up.]
+- **7746**: Well? [Pay the Orc./Fight to the bitter end.]
+- **7760**: You have broken the clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]"!
+- **7761**: The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 second[/s].
+- **7762**: The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 minute[/s] $2 second[/s].
+- **7764**: Which battlefield will you enter? [None./Save the Children./The Holy Crest./Wings of Fury./Petrifying Pair./Toadal Recall./Mirror, Mirror./././././././././././././././././././././././././]
+- **7871**: Take it to Luto? [That would be best./I don't think so.]
 
 ## Events
 
@@ -867,7 +867,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7762*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7764*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Save the Children./The Holy Crest./Wings of Fury./Petrifying Pair./Toadal Recall./Mirror, Mirror./././././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -991,11 +991,11 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7760*]:
+114: 0x04EA [0x48] [System] [7762*]:
     → "The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7759*]:
+117: 0x04F1 [0x48] [System] [7761*]:
     → "The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1626,7 +1626,7 @@ SUBROUTINE_0D76:
 SUBROUTINE_0DCE:
 152: 0x0DCE [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DE2
 153: 0x0DD6 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-154: 0x0DDB [0x48] [System] [7758*]:
+154: 0x0DDB [0x48] [System] [7760*]:
     → "You have broken the clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]"!"
 155: 0x0DDE [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x0DDF [0x01] GOTO 0x0E0B
@@ -7015,7 +7015,7 @@ SUBROUTINE_78BD:
      0x6156 [0x03] ExtData[1]->WorkLocal[57] = 455*
      0x615B [0x01] GOTO 0x615E
      0x615E [0x1B] RETURN
-     0x615F [0x24] CREATE_DIALOG(message_id=7737*, default_option=1*, option_flags=0*)
+     0x615F [0x24] CREATE_DIALOG(message_id=7739*, default_option=1*, option_flags=0*)
     → "The door is locked. [Try to force the lock./Give up.]"
      0x6166 [0x25] WAIT_DIALOG_SELECT()
      0x6167 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6175
@@ -7040,7 +7040,7 @@ SUBROUTINE_78BD:
      0x61E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg10" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x61F9 [0x1A] CALL_SUBROUTINE(address=0x789C)
      0x61FC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg10" with entities [LocalPlayer, LocalPlayer], work=40*
-     0x620B [0x2B] Fodderchief Vokdek (ID: 17350956/0x0108C12C) [7738*]:
+     0x620B [0x2B] Fodderchief Vokdek (ID: 17350956/0x0108C12C) [7740*]:
     → "Smells like people... People! Get them! Throw into sheep hut!!!"
      0x6212 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6213 [0x4A] LocalPlayer looks at Fodderchief Vokdek (ID: 17350956/0x0108C12C)
@@ -7079,12 +7079,12 @@ SUBROUTINE_78BD:
      0x6368 [0x27] REQ_SET(priority=0x04, entity_id=LocalPlayer, tag_num=0x0D)
      0x636F [0x27] REQ_SET(priority=0x03, entity_id=Unnamed NPC (ID: 17350964/0x0108C134), tag_num=0x03)
      0x6376 [0x27] REQ_SET(priority=0x03, entity_id=Rahal (ID: 17350963/0x0108C133), tag_num=0x03)
-     0x637D [0x2B] Rahal (ID: 17350963/0x0108C133) [7783*]:
+     0x637D [0x2B] Rahal (ID: 17350963/0x0108C133) [7785*]:
     → "Wait!"
      0x6384 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6385 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Rahal (ID: 17350963/0x0108C133))
      0x638B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cry0" with entities [EventEntity, EventEntity], work=[210*, 0*]
-     0x639C [0x2B] Rahal (ID: 17350963/0x0108C133) [7784*]:
+     0x639C [0x2B] Rahal (ID: 17350963/0x0108C133) [7786*]:
     → "Something is odd about the dragon. We may soon be out of time. Leave this to me!"
      0x63A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x63A4 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x0E)
@@ -7114,7 +7114,7 @@ SUBROUTINE_78BD:
      0x6496 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
      0x64A5 [0x1C] WAIT(10* ticks)
      0x64A8 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Rahal (ID: 17350963/0x0108C133), tag_num=0x06)
-     0x64AF [0x2B] Rahal (ID: 17350963/0x0108C133) [7785*]:
+     0x64AF [0x2B] Rahal (ID: 17350963/0x0108C133) [7787*]:
     → "Cyranuce! Are you all right?"
      0x64B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x64B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r004" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
@@ -7133,7 +7133,7 @@ SUBROUTINE_78BD:
      0x6528 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r007" with entities [LocalPlayer, LocalPlayer], work=40*
      0x6537 [0x2A] GET_REQ_LEVEL(level=3, entity_id=LocalPlayer)
      0x653D [0x03] Work_Zone[9] = 294*
-     0x6542 [0x2B] Rahal (ID: 17350963/0x0108C133) [7786*]:
+     0x6542 [0x2B] Rahal (ID: 17350963/0x0108C133) [7788*]:
     → "Alas! I am too late! <Player>, go!"
      0x6549 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x654A [0x4A] LocalPlayer looks at Rahal (ID: 17350963/0x0108C133)
@@ -7270,13 +7270,13 @@ SUBROUTINE_78BD:
      0x6948 [0x4E] SET_ENTITY_HIDE_FLAG: Show Fodderchief Vokdek (ID: 17350956/0x0108C12C)
      0x694E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg05" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x695F [0x1A] CALL_SUBROUTINE(address=0x789C)
-     0x6962 [0x2B] Fodderchief Vokdek (ID: 17350956/0x0108C12C) [7750*]:
+     0x6962 [0x2B] Fodderchief Vokdek (ID: 17350956/0x0108C12C) [7752*]:
     → "You think you won!?"
      0x6969 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x696A [0x2B] Fodderchief Vokdek (ID: 17350956/0x0108C12C) [7751*]:
+     0x696A [0x2B] Fodderchief Vokdek (ID: 17350956/0x0108C12C) [7753*]:
     → "Your time soon end!"
      0x6971 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x6972 [0x2B] Fodderchief Vokdek (ID: 17350956/0x0108C12C) [7752*]:
+     0x6972 [0x2B] Fodderchief Vokdek (ID: 17350956/0x0108C12C) [7754*]:
     → "Your days is numbered! Me say so!"
      0x6979 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x697A [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cast" with entities [Fodderchief Vokdek (ID: 17350956/0x0108C12C), Fodderchief Vokdek (ID: 17350956/0x0108C12C)]
@@ -7313,56 +7313,56 @@ SUBROUTINE_78BD:
      0x6A75 [0x1C] WAIT(60* ticks)
      0x6A78 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q002" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x6A89 [0x03] Work_Zone[9] = 294*
-     0x6A8E [0x2B] Rahal (ID: 17350963/0x0108C133) [7787*]:
+     0x6A8E [0x2B] Rahal (ID: 17350963/0x0108C133) [7789*]:
     → "Cyranuce, are you all right? Hurry, take this!"
      0x6A95 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6A96 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q002" with entities [LocalPlayer, LocalPlayer], work=40*
      0x6AA5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q001" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x6AB6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q001" with entities [LocalPlayer, LocalPlayer], work=40*
-     0x6AC5 [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7788*]:
+     0x6AC5 [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7790*]:
     → "Rahal, such a thing is of no use. It cannot save me. I yearn to die, and I will take the dragon with me!"
      0x6ACC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x6ACD [0x2B] Rahal (ID: 17350963/0x0108C133) [7789*]:
+     0x6ACD [0x2B] Rahal (ID: 17350963/0x0108C133) [7791*]:
     → "No, Cyranuce! You must take it!"
      0x6AD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x6AD5 [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7790*]:
+     0x6AD5 [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7792*]:
     → "Rahal, you of all people should know. By bringing it here, you proved you believed in me."
      0x6ADC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6ADD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q003" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x6AEE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q003" with entities [LocalPlayer, LocalPlayer], work=40*
-     0x6AFD [0x2B] Rahal (ID: 17350963/0x0108C133) [7791*]:
+     0x6AFD [0x2B] Rahal (ID: 17350963/0x0108C133) [7793*]:
     → "Cyranuce..."
      0x6B04 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x6B05 [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7792*]:
+     0x6B05 [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7794*]:
     → "I knew you would come to save me. Though my death is near, I am glad."
      0x6B0C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6B0D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q004" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x6B1E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q004" with entities [LocalPlayer, LocalPlayer], work=40*
      0x6B2D [0x1C] WAIT(10* ticks)
-     0x6B30 [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7793*]:
+     0x6B30 [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7795*]:
     → "And you, <Player>."
      0x6B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6B38 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q005" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x6B49 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q005" with entities [LocalPlayer, LocalPlayer], work=40*
      0x6B58 [0x1C] WAIT(10* ticks)
-     0x6B5B [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7794*]:
+     0x6B5B [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7796*]:
     → "And what of the dragon, Rahal? Are you to slay it?"
      0x6B62 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6B63 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q006" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x6B74 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q006" with entities [LocalPlayer, LocalPlayer], work=40*
-     0x6B83 [0x2B] Rahal (ID: 17350963/0x0108C133) [7795*]:
+     0x6B83 [0x2B] Rahal (ID: 17350963/0x0108C133) [7797*]:
     → "Yes, it must be done... To keep others from becoming like you."
      0x6B8A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6B8B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q007" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x6B9C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q007" with entities [LocalPlayer, LocalPlayer], work=40*
-     0x6BAB [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7796*]:
+     0x6BAB [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7798*]:
     → "Hear my last wish! You must again believe in dragons, as we did long ago. Surely somewhere there is one of holy will!"
      0x6BB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x6BB3 [0x2B] Rahal (ID: 17350963/0x0108C133) [7797*]:
+     0x6BB3 [0x2B] Rahal (ID: 17350963/0x0108C133) [7799*]:
     → "Cyranuce!"
      0x6BBA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6BBB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q008" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
-     0x6BCC [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7798*]:
+     0x6BCC [0x2B] Cyranuce (ID: 17350962/0x0108C132) [7800*]:
     → "Thank you, Rahal! Now, my time has come!"
      0x6BD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6BD4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q008" with entities [LocalPlayer, LocalPlayer], work=40*
@@ -7378,7 +7378,7 @@ SUBROUTINE_78BD:
      0x6C40 [0x1C] WAIT(30* ticks)
      0x6C43 [0x79] Rahal (ID: 17350963/0x0108C133) looks at Unnamed NPC (ID: 17350964/0x0108C134) (Basic look)
      0x6C4D [0x1C] WAIT(10* ticks)
-     0x6C50 [0x2B] Rahal (ID: 17350963/0x0108C133) [7799*]:
+     0x6C50 [0x2B] Rahal (ID: 17350963/0x0108C133) [7801*]:
     → "What the--!"
      0x6C57 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6C58 [0x27] REQ_SET(priority=0x03, entity_id=Unnamed NPC (ID: 17350964/0x0108C134), tag_num=0x07)
@@ -7387,7 +7387,7 @@ SUBROUTINE_78BD:
      0x6C77 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Rahal (ID: 17350963/0x0108C133))
      0x6C7D [0x27] REQ_SET(priority=0x04, entity_id=Rahal (ID: 17350963/0x0108C133), tag_num=0x0C)
      0x6C84 [0x4A] Unnamed NPC (ID: 17350964/0x0108C134) looks at LocalPlayer
-     0x6C8D [0x2B] Rahal (ID: 17350963/0x0108C133) [7800*]:
+     0x6C8D [0x2B] Rahal (ID: 17350963/0x0108C133) [7802*]:
     → "No!"
      0x6C94 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6C95 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q010" with entities [LocalPlayer, LocalPlayer], work=40*
@@ -7395,7 +7395,7 @@ SUBROUTINE_78BD:
      0x6CAA [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17350964/0x0108C134), Unnamed NPC (ID: 17350964/0x0108C134)], work=[49*, 0*]
      0x6CBB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "main" with entities [Unnamed NPC (ID: 17350964/0x0108C134), Unnamed NPC (ID: 17350964/0x0108C134)], work=49*
      0x6CCA [0x1C] WAIT(90* ticks)
-     0x6CCD [0x2B] Rahal (ID: 17350963/0x0108C133) [7801*]:
+     0x6CCD [0x2B] Rahal (ID: 17350963/0x0108C133) [7803*]:
     → "How can this be!? The sign of holiness!"
      0x6CD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6CD5 [0x27] REQ_SET(priority=0x05, entity_id=Rahal (ID: 17350963/0x0108C133), tag_num=0x0D)
@@ -7404,7 +7404,7 @@ SUBROUTINE_78BD:
      0x6CF0 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Rahal (ID: 17350963/0x0108C133))
      0x6CF6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q012" with entities [LocalPlayer, LocalPlayer], work=40*
      0x6D05 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x1D)
-     0x6D0C [0x2B] Rahal (ID: 17350963/0x0108C133) [7802*]:
+     0x6D0C [0x2B] Rahal (ID: 17350963/0x0108C133) [7804*]:
     → "You were right, Cyranuce. The dragoon born today shall inherit your purpose. Be at peace, my friend."
      0x6D13 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6D14 [0x2A] GET_REQ_LEVEL(level=3, entity_id=LocalPlayer)
@@ -7446,67 +7446,67 @@ SUBROUTINE_78BD:
      0x6E02 [0x1C] WAIT(60* ticks)
      0x6E05 [0x1A] CALL_SUBROUTINE(address=0x2E0A)
      0x6E08 [0x02] IF !(ExtData[1]->WorkLocal[47] == 1*) GOTO 0x6E1B
-     0x6E10 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7857*]:
+     0x6E10 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7859*]:
     → "The mirror is cracked, <Player>. Now what do we do with it?"
      0x6E17 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6E18 [0x01] GOTO 0x6EEC
      0x6E1B [0x02] IF !(ExtData[1]->WorkLocal[47] == 2*) GOTO 0x6E2E
-     0x6E23 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7858*]:
+     0x6E23 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7860*]:
     → "I smashed the mirror without thinking. Now what do we do with it, <Player>?"
      0x6E2A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6E2B [0x01] GOTO 0x6EEC
      0x6E2E [0x02] IF !(ExtData[1]->WorkLocal[47] == 3*) GOTO 0x6E41
-     0x6E36 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7859*]:
+     0x6E36 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7861*]:
     → "Well, the mirror is harmless now. What should we do with it, <Player>?"
      0x6E3D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6E3E [0x01] GOTO 0x6EEC
      0x6E41 [0x02] IF !(ExtData[1]->WorkLocal[47] == 4*) GOTO 0x6E54
-     0x6E49 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7860*]:
+     0x6E49 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7862*]:
     → "I've damaged the mirror, <Player>. What should we do with it?"
      0x6E50 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6E51 [0x01] GOTO 0x6EEC
      0x6E54 [0x02] IF !(ExtData[1]->WorkLocal[47] == 5*) GOTO 0x6E67
-     0x6E5C [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7863*]:
+     0x6E5C [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7865*]:
     → "I've shattered the mirror, <Player>. What do we do with it now?"
      0x6E63 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6E64 [0x01] GOTO 0x6EEC
      0x6E67 [0x02] IF !(ExtData[1]->WorkLocal[47] == 6*) GOTO 0x6E7A
-     0x6E6F [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7864*]:
+     0x6E6F [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7866*]:
     → "Smashing the mirror was the only thing I could think of. What do I do with it now, <Player>?"
      0x6E76 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6E77 [0x01] GOTO 0x6EEC
      0x6E7A [0x02] IF !(ExtData[1]->WorkLocal[47] == 7*) GOTO 0x6E8D
-     0x6E82 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7865*]:
+     0x6E82 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7867*]:
     → "Breaking the mirror was my only choice. What do I do with it now, <Player>?"
      0x6E89 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6E8A [0x01] GOTO 0x6EEC
      0x6E8D [0x02] IF !(ExtData[1]->WorkLocal[47] == 8*) GOTO 0x6EA0
-     0x6E95 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7866*]:
+     0x6E95 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7868*]:
     → "Looks like seven years of bad luck for me. What do I do with the mirror now, <Player>?"
      0x6E9C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6E9D [0x01] GOTO 0x6EEC
      0x6EA0 [0x02] IF !(ExtData[1]->WorkLocal[47] == 9*) GOTO 0x6EB3
-     0x6EA8 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7867*]:
+     0x6EA8 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7869*]:
     → "I've damaged the mirror. What should we do, <Player>?"
      0x6EAF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6EB0 [0x01] GOTO 0x6EEC
      0x6EB3 [0x02] IF !(ExtData[1]->WorkLocal[47] == 10*) GOTO 0x6EC6
-     0x6EBB [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7861*]:
+     0x6EBB [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7863*]:
     → "I cracked the mirror, <Player>. What should we do with it?"
      0x6EC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6EC3 [0x01] GOTO 0x6EEC
      0x6EC6 [0x02] IF !(ExtData[1]->WorkLocal[47] == 11*) GOTO 0x6ED9
-     0x6ECE [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7862*]:
+     0x6ECE [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7864*]:
     → "Seven years of bad luck can't be that bad...can it? What should we do with the mirror, <Player>?"
      0x6ED5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6ED6 [0x01] GOTO 0x6EEC
      0x6ED9 [0x02] IF !(ExtData[1]->WorkLocal[47] == 12*) GOTO 0x6EEC
-     0x6EE1 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7868*]:
+     0x6EE1 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7870*]:
     → "I had no choice but to break the mirror. What do you suggest we do with it now, <Player>?"
      0x6EE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6EE9 [0x01] GOTO 0x6EEC
      0x6EEC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=192*
-     0x6EFB [0x24] CREATE_DIALOG(message_id=7869*, default_option=0*, option_flags=0*)
+     0x6EFB [0x24] CREATE_DIALOG(message_id=7871*, default_option=0*, option_flags=0*)
     → "Take it to Luto? [That would be best./I don't think so.]"
      0x6F02 [0x25] WAIT_DIALOG_SELECT()
      0x6F03 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7081
@@ -7608,62 +7608,62 @@ SUBROUTINE_78BD:
      0x719D [0x99] Wait for Unnamed NPC (ID: 17350986/0x0108C14A) animation to complete
      0x71A2 [0x1A] CALL_SUBROUTINE(address=0x2E0A)
      0x71A5 [0x02] IF !(ExtData[1]->WorkLocal[47] == 1*) GOTO 0x71B8
-     0x71AD [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7894*]:
+     0x71AD [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7896*]:
     → "You know, this mirror really does look similar to the Glass of All-Seeing..."
      0x71B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x71B5 [0x01] GOTO 0x7289
      0x71B8 [0x02] IF !(ExtData[1]->WorkLocal[47] == 2*) GOTO 0x71CB
-     0x71C0 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7895*]:
+     0x71C0 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7897*]:
     → "You know, this mirror really does look similar to the Glass of All-Seeing..."
      0x71C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x71C8 [0x01] GOTO 0x7289
      0x71CB [0x02] IF !(ExtData[1]->WorkLocal[47] == 3*) GOTO 0x71DE
-     0x71D3 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7896*]:
+     0x71D3 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7898*]:
     → "You know, this mirror really does look similar to the Glass of All-Seeing..."
      0x71DA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x71DB [0x01] GOTO 0x7289
      0x71DE [0x02] IF !(ExtData[1]->WorkLocal[47] == 4*) GOTO 0x71F1
-     0x71E6 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7897*]:
+     0x71E6 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7899*]:
     → "You know, this mirror really does look similar to the Glass of All-Seeing..."
      0x71ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x71EE [0x01] GOTO 0x7289
      0x71F1 [0x02] IF !(ExtData[1]->WorkLocal[47] == 5*) GOTO 0x7204
-     0x71F9 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7900*]:
+     0x71F9 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7902*]:
     → "You know, this mirror really does look similar to the Glass of All-Seeing..."
      0x7200 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7201 [0x01] GOTO 0x7289
      0x7204 [0x02] IF !(ExtData[1]->WorkLocal[47] == 6*) GOTO 0x7217
-     0x720C [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7901*]:
+     0x720C [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7903*]:
     → "You know, this mirror really does look similar to the Glass of All-Seeing..."
      0x7213 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7214 [0x01] GOTO 0x7289
      0x7217 [0x02] IF !(ExtData[1]->WorkLocal[47] == 7*) GOTO 0x722A
-     0x721F [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7902*]:
+     0x721F [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7904*]:
     → "You know, this mirror really does look similar to the Glass of All-Seeing..."
      0x7226 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7227 [0x01] GOTO 0x7289
      0x722A [0x02] IF !(ExtData[1]->WorkLocal[47] == 8*) GOTO 0x723D
-     0x7232 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7903*]:
+     0x7232 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7905*]:
     → "You know, this mirror really does look similar to the Glass of All-Seeing..."
      0x7239 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x723A [0x01] GOTO 0x7289
      0x723D [0x02] IF !(ExtData[1]->WorkLocal[47] == 9*) GOTO 0x7250
-     0x7245 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7904*]:
+     0x7245 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7906*]:
     → "You know, this mirror really does look similar to the Glass of All-Seeing..."
      0x724C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x724D [0x01] GOTO 0x7289
      0x7250 [0x02] IF !(ExtData[1]->WorkLocal[47] == 10*) GOTO 0x7263
-     0x7258 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7898*]:
+     0x7258 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7900*]:
     → "You know, this mirror really does look a lot like the Glass of All-Seeing..."
      0x725F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7260 [0x01] GOTO 0x7289
      0x7263 [0x02] IF !(ExtData[1]->WorkLocal[47] == 11*) GOTO 0x7276
-     0x726B [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7899*]:
+     0x726B [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7901*]:
     → "You know, I couldn't help but notice how much this mirror resembles the Glass of All-Seeing..."
      0x7272 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7273 [0x01] GOTO 0x7289
      0x7276 [0x02] IF !(ExtData[1]->WorkLocal[47] == 12*) GOTO 0x7289
-     0x727E [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7905*]:
+     0x727E [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7907*]:
     → "You know, this mirror really does share similiarities with the Glass of All-Seeing..."
      0x7285 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7286 [0x01] GOTO 0x7289
@@ -7685,134 +7685,134 @@ SUBROUTINE_78BD:
      0x730C [0x46] CAMERA_CONTROL: Restore default settings
      0x730E [0x1B] RETURN
      0x730F [0x02] IF !(ExtData[1]->WorkLocal[47] == 1*) GOTO 0x7322
-     0x7317 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7870*]:
+     0x7317 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7872*]:
     → "I suppose you're right. Our Mithran friend seems well informed about Near Eastern artifacts."
      0x731E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x731F [0x01] GOTO 0x73F3
      0x7322 [0x02] IF !(ExtData[1]->WorkLocal[47] == 2*) GOTO 0x7335
-     0x732A [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7871*]:
+     0x732A [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7873*]:
     → "Of course! Luto would know what to do!"
      0x7331 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7332 [0x01] GOTO 0x73F3
      0x7335 [0x02] IF !(ExtData[1]->WorkLocal[47] == 3*) GOTO 0x7348
-     0x733D [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7872*]:
+     0x733D [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7874*]:
     → "You could be right. She does know a lot about Near Eastern artifacts."
      0x7344 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7345 [0x01] GOTO 0x73F3
      0x7348 [0x02] IF !(ExtData[1]->WorkLocal[47] == 4*) GOTO 0x735B
-     0x7350 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7873*]:
+     0x7350 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7875*]:
     → "Why, of course. Our Mithran associate would be the perfect choice, considering her area of expertise."
      0x7357 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7358 [0x01] GOTO 0x73F3
      0x735B [0x02] IF !(ExtData[1]->WorkLocal[47] == 5*) GOTO 0x736E
-     0x7363 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7876*]:
+     0x7363 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7878*]:
     → "Good idea. Luto knows a lot about Near Eastern artifacts."
      0x736A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x736B [0x01] GOTO 0x73F3
      0x736E [0x02] IF !(ExtData[1]->WorkLocal[47] == 6*) GOTO 0x7381
-     0x7376 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7877*]:
+     0x7376 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7879*]:
     → "Of course! Luto is the perfect person to ask!"
      0x737D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x737E [0x01] GOTO 0x73F3
      0x7381 [0x02] IF !(ExtData[1]->WorkLocal[47] == 7*) GOTO 0x7394
-     0x7389 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7878*]:
+     0x7389 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7880*]:
     → "You're probably right. She's the expert on all things Near Eastern."
      0x7390 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7391 [0x01] GOTO 0x73F3
      0x7394 [0x02] IF !(ExtData[1]->WorkLocal[47] == 8*) GOTO 0x73A7
-     0x739C [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7879*]:
+     0x739C [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7881*]:
     → "Luto? Oh, the Mithra in Jeuno! Yes, she would be the perfect person to help us!"
      0x73A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x73A4 [0x01] GOTO 0x73F3
      0x73A7 [0x02] IF !(ExtData[1]->WorkLocal[47] == 9*) GOTO 0x73BA
-     0x73AF [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7880*]:
+     0x73AF [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7882*]:
     → "Why, of course. Our Mithran associate would be the perfect choice, considering her area of expertise."
      0x73B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x73B7 [0x01] GOTO 0x73F3
      0x73BA [0x02] IF !(ExtData[1]->WorkLocal[47] == 10*) GOTO 0x73CD
-     0x73C2 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7874*]:
+     0x73C2 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7876*]:
     → "You're right. After all, she knows a lot about such objects."
      0x73C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x73CA [0x01] GOTO 0x73F3
      0x73CD [0x02] IF !(ExtData[1]->WorkLocal[47] == 11*) GOTO 0x73E0
-     0x73D5 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7875*]:
+     0x73D5 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7877*]:
     → "Good idea. No one else would know more about Near Eastern objects than her."
      0x73DC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x73DD [0x01] GOTO 0x73F3
      0x73E0 [0x02] IF !(ExtData[1]->WorkLocal[47] == 12*) GOTO 0x73F3
-     0x73E8 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7881*]:
+     0x73E8 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7883*]:
     → "Hmmm... Considering her field of expertise, you are probably right."
      0x73EF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x73F0 [0x01] GOTO 0x73F3
      0x73F3 [0x1B] RETURN
      0x73F4 [0x02] IF !(ExtData[1]->WorkLocal[47] == 1*) GOTO 0x7407
-     0x73FC [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7882*]:
+     0x73FC [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7884*]:
     → "Are you sure? Our Mithran friend seems well informed about Near Eastern artifacts."
      0x7403 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7404 [0x01] GOTO 0x74D8
      0x7407 [0x02] IF !(ExtData[1]->WorkLocal[47] == 2*) GOTO 0x741A
-     0x740F [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7883*]:
+     0x740F [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7885*]:
     → "Are you sure? I really think Luto would know what to do!"
      0x7416 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7417 [0x01] GOTO 0x74D8
      0x741A [0x02] IF !(ExtData[1]->WorkLocal[47] == 3*) GOTO 0x742D
-     0x7422 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7884*]:
+     0x7422 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7886*]:
     → "Are you sure? She does know a lot about Near Eastern artifacts."
      0x7429 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x742A [0x01] GOTO 0x74D8
      0x742D [0x02] IF !(ExtData[1]->WorkLocal[47] == 4*) GOTO 0x7440
-     0x7435 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7885*]:
+     0x7435 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7887*]:
     → "Are you sure? Our Mithran associate would be the perfect choice, considering her area of expertise."
      0x743C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x743D [0x01] GOTO 0x74D8
      0x7440 [0x02] IF !(ExtData[1]->WorkLocal[47] == 5*) GOTO 0x7453
-     0x7448 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7888*]:
+     0x7448 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7890*]:
     → "Are you sure? Luto knows a lot about Near Eastern artifacts."
      0x744F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7450 [0x01] GOTO 0x74D8
      0x7453 [0x02] IF !(ExtData[1]->WorkLocal[47] == 6*) GOTO 0x7466
-     0x745B [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7889*]:
+     0x745B [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7891*]:
     → "Are you sure? I really think Luto is the perfect person to ask!"
      0x7462 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7463 [0x01] GOTO 0x74D8
      0x7466 [0x02] IF !(ExtData[1]->WorkLocal[47] == 7*) GOTO 0x7479
-     0x746E [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7890*]:
+     0x746E [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7892*]:
     → "Are you sure? She is the expert on all things Near Eastern."
      0x7475 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7476 [0x01] GOTO 0x74D8
      0x7479 [0x02] IF !(ExtData[1]->WorkLocal[47] == 8*) GOTO 0x748C
-     0x7481 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7891*]:
+     0x7481 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7893*]:
     → "Luto? Oh, the Mithra in Jeuno! Wouldn't she be the perfect person to help us?"
      0x7488 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7489 [0x01] GOTO 0x74D8
      0x748C [0x02] IF !(ExtData[1]->WorkLocal[47] == 9*) GOTO 0x749F
-     0x7494 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7892*]:
+     0x7494 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7894*]:
     → "Are you sure? Our Mithran associate would be the perfect choice, considering her area of expertise."
      0x749B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x749C [0x01] GOTO 0x74D8
      0x749F [0x02] IF !(ExtData[1]->WorkLocal[47] == 10*) GOTO 0x74B2
-     0x74A7 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7886*]:
+     0x74A7 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7888*]:
     → "Oh? But I thought she would be the best person to talk to about the mirror."
      0x74AE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x74AF [0x01] GOTO 0x74D8
      0x74B2 [0x02] IF !(ExtData[1]->WorkLocal[47] == 11*) GOTO 0x74C5
-     0x74BA [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7887*]:
+     0x74BA [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7889*]:
     → "Are you sure? I don't think I know anyone with more knowledge about the Near East than Luto."
      0x74C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x74C2 [0x01] GOTO 0x74D8
      0x74C5 [0x02] IF !(ExtData[1]->WorkLocal[47] == 12*) GOTO 0x74D8
-     0x74CD [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7893*]:
+     0x74CD [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7895*]:
     → "That's fine with me. But name one person you know who has more knowledge on Near Eastern artifacts than Luto."
      0x74D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x74D5 [0x01] GOTO 0x74D8
      0x74D8 [0x1B] RETURN
-     0x74D9 [0x24] CREATE_DIALOG(message_id=7702*, default_option=0*, option_flags=0*)
+     0x74D9 [0x24] CREATE_DIALOG(message_id=7704*, default_option=0*, option_flags=0*)
     → "Select a name for your Wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Nanaja/Khocha]"
      0x74E0 [0x25] WAIT_DIALOG_SELECT()
      0x74E1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x74EC
      0x74E9 [0x01] GOTO 0x74EC
      0x74EC [0x03] ExtData[1]->WorkLocal[63] = Work_Zone[0]
-     0x74F1 [0x24] CREATE_DIALOG(message_id=7705*, default_option=1*, option_flags=4*)
+     0x74F1 [0x24] CREATE_DIALOG(message_id=7707*, default_option=1*, option_flags=4*)
     → "Is this the name you really want? [This is the one./I need more time to think./Forget about it.]"
      0x74F8 [0x25] WAIT_DIALOG_SELECT()
      0x74F9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x7507
@@ -7823,7 +7823,7 @@ SUBROUTINE_78BD:
      0x7512 [0x01] GOTO 0x7515
      0x7515 [0x1B] RETURN
      0x7516 [0x06] ExtData[1]->WorkLocal[63] = 0
-     0x7519 [0x24] CREATE_DIALOG(message_id=7716*, default_option=0*, option_flags=0*)
+     0x7519 [0x24] CREATE_DIALOG(message_id=7718*, default_option=0*, option_flags=0*)
     → "Select a name for your wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Look at the next list./Quit]"
      0x7520 [0x25] WAIT_DIALOG_SELECT()
      0x7521 [0x02] IF !(Work_Zone[0] == 30*) GOTO 0x7531
@@ -7836,7 +7836,7 @@ SUBROUTINE_78BD:
      0x7542 [0x03] ExtData[1]->WorkLocal[63] = Work_Zone[0]
      0x7547 [0x02] IF !(ExtData[1]->WorkLocal[64] < 30*) GOTO 0x7598
      0x754F [0x02] IF !(ExtData[1]->WorkLocal[63] < 30*) GOTO 0x7598
-     0x7557 [0x24] CREATE_DIALOG(message_id=7717*, default_option=0*, option_flags=0*)
+     0x7557 [0x24] CREATE_DIALOG(message_id=7719*, default_option=0*, option_flags=0*)
     → "Select a name for your wyvern. [Nanaja/Khocha/Dino/Chomper/Huffy/Pouncer/Fido/Lucy/Jake/Rocky/Rex/Rusty/Himmelskralle/Gizmo/Spike/Sylvester/Milo/Tom/Toby/Felix/Komet/Bo/Molly/Unryu/Daisy/Baron/Ginger/Muffin/Lumineux/Look at the previous list./Look at the next list./Quit]"
      0x755E [0x25] WAIT_DIALOG_SELECT()
      0x755F [0x02] IF !(Work_Zone[0] == 29*) GOTO 0x7572
@@ -7853,7 +7853,7 @@ SUBROUTINE_78BD:
      0x7593 [0x07] ExtData[1]->WorkLocal[63] += Work_Zone[0]
      0x7598 [0x02] IF !(ExtData[1]->WorkLocal[64] < 59*) GOTO 0x75E9
      0x75A0 [0x02] IF !(ExtData[1]->WorkLocal[63] < 59*) GOTO 0x75E9
-     0x75A8 [0x24] CREATE_DIALOG(message_id=7718*, default_option=0*, option_flags=0*)
+     0x75A8 [0x24] CREATE_DIALOG(message_id=7720*, default_option=0*, option_flags=0*)
     → "Select a name for your wyvern. [Quatrevents/Toryu/Tataba/Etoilazuree/Grisnuage/Belorage/Centonnerre/Nouvellune/Missy/Amedeo/Tranchevent/Soufflefeu/Etoile/Tonnerre/Nuage/Foudre/Hyuh/Orage/Lune/Astre/Waffenzahn/Soleil/Courageux/Koffla-Paffla/Venteuse/Lunaire/Tora/Celeste/Galja-Mogalja/Look at the previous list./Look at the next list./Quit]"
      0x75AF [0x25] WAIT_DIALOG_SELECT()
      0x75B0 [0x02] IF !(Work_Zone[0] == 29*) GOTO 0x75C3
@@ -7870,7 +7870,7 @@ SUBROUTINE_78BD:
      0x75E4 [0x07] ExtData[1]->WorkLocal[63] += Work_Zone[0]
      0x75E9 [0x02] IF !(ExtData[1]->WorkLocal[64] < 88*) GOTO 0x762A
      0x75F1 [0x02] IF !(ExtData[1]->WorkLocal[63] < 88*) GOTO 0x762A
-     0x75F9 [0x24] CREATE_DIALOG(message_id=7719*, default_option=0*, option_flags=1073741824*)
+     0x75F9 [0x24] CREATE_DIALOG(message_id=7721*, default_option=0*, option_flags=1073741824*)
     → "Select a name for your wyvern. [Gaboh/Vhyun/Orageuse/Stellaire/Solaire/Wirbelwind/Blutkralle/Bogen/Junker/Flink/Knirps/Bodo/Soryu/Wawaro/Totona/Levian-Movian/Kagero/Joseph/Paparal/Coco/Ringo/Nonomi/Teter/Gigima/Gogodavi/Rurumo/Tupah/Jyubih/Majha/Look at the previous list./Look at the next list./Quit]"
      0x7600 [0x25] WAIT_DIALOG_SELECT()
      0x7601 [0x02] IF !(Work_Zone[0] == 29*) GOTO 0x7614
@@ -7882,7 +7882,7 @@ SUBROUTINE_78BD:
      0x7621 [0x1B] RETURN
      0x7622 [0x01] GOTO 0x762A
      0x7625 [0x07] ExtData[1]->WorkLocal[63] += Work_Zone[0]
-     0x762A [0x24] CREATE_DIALOG(message_id=7705*, default_option=1*, option_flags=0*)
+     0x762A [0x24] CREATE_DIALOG(message_id=7707*, default_option=1*, option_flags=0*)
     → "Is this the name you really want? [This is the one./I need more time to think./Forget about it.]"
      0x7631 [0x25] WAIT_DIALOG_SELECT()
      0x7632 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x7640
@@ -7895,31 +7895,31 @@ SUBROUTINE_78BD:
      0x7651 [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x76C6
      0x7659 [0x4A] Ropchop (ID: 17350952/0x0108C128) looks at LocalPlayer
      0x7662 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x768D
-     0x766A [0x2B] Ropchop (ID: 17350952/0x0108C128) [7740*]:
+     0x766A [0x2B] Ropchop (ID: 17350952/0x0108C128) [7742*]:
     → "Hey, where you going? Nobody escape Orc camp alive! Gwah hah hah hah!"
      0x7671 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x7672 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7741*]:
+     0x7672 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7743*]:
     → "But me kidding. Today your lucky day! Me different from other Orc. Me nice! If you nice too, me let you go. But freedom not for free!"
      0x7679 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x767A [0x2B] Ropchop (ID: 17350952/0x0108C128) [7742*]:
+     0x767A [0x2B] Ropchop (ID: 17350952/0x0108C128) [7744*]:
     → "What? Don't get my joke? You dumbface! Gil! Me want gil!"
      0x7681 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x7682 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7743*]:
+     0x7682 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7745*]:
     → "Me very nice Orc. Me give bargain. 100 gil! Or me give you to friends. They not nice like me."
      0x7689 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x768A [0x01] GOTO 0x7695
-     0x768D [0x2B] Ropchop (ID: 17350952/0x0108C128) [7748*]:
+     0x768D [0x2B] Ropchop (ID: 17350952/0x0108C128) [7750*]:
     → "You give me 100 gil, I not tell friends where you go. Gwah hah hah! Good price for dumbface, I think."
      0x7694 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7695 [0x03] Work_Zone[1] = 1*
-     0x769A [0x24] CREATE_DIALOG(message_id=7744*, default_option=0*, option_flags=0*)
+     0x769A [0x24] CREATE_DIALOG(message_id=7746*, default_option=0*, option_flags=0*)
     → "Well? [Pay the Orc./Fight to the bitter end.]"
      0x76A1 [0x25] WAIT_DIALOG_SELECT()
      0x76A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x76B0
      0x76AA [0x05] ExtData[1]->WorkLocal[29] = 1
      0x76AD [0x01] GOTO 0x76C3
      0x76B0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x76C3
-     0x76B8 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7747*]:
+     0x76B8 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7749*]:
     → "You don't want play nice? Fine by me!"
      0x76BF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x76C0 [0x01] GOTO 0x76C3
@@ -7939,7 +7939,7 @@ SUBROUTINE_78BD:
      0x76FB [0x03] Work_Zone[1] = 5*
      0x7700 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x7702 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x7704 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7745*]:
+     0x7704 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7747*]:
     → "Poor dumbface, too bad! So sad. Now you die!"
      0x770B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x770C [0x01] GOTO 0x770F
@@ -7952,7 +7952,7 @@ SUBROUTINE_78BD:
      0x7729 [0x4A] Ropchop (ID: 17350952/0x0108C128) looks at LocalPlayer
      0x7732 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg03" with entities [LocalPlayer, LocalPlayer], work=[40*, 0*]
      0x7743 [0x1A] CALL_SUBROUTINE(address=0x789C)
-     0x7746 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7746*]:
+     0x7746 [0x2B] Ropchop (ID: 17350952/0x0108C128) [7748*]:
     → "Gwah hah! Thanks for gil. Me nice Orc. Me keep promise. Now get out!"
      0x774D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x774E [0x01] GOTO 0x7782
@@ -8707,123 +8707,123 @@ SUBROUTINE_78BD:
 ```
 # Dead code (unreachable instructions):
      0x7B2C [0x02] IF !(ExtData[1]->WorkLocal[47] == 1*) GOTO 0x7B3F
-     0x7B34 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7821*]:
+     0x7B34 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7823*]:
     → "<Player>! Are you okay!?"
      0x7B3B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7B3C [0x01] GOTO 0x7C10
      0x7B3F [0x02] IF !(ExtData[1]->WorkLocal[47] == 2*) GOTO 0x7B52
-     0x7B47 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7822*]:
+     0x7B47 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7824*]:
     → "<Player>! Are you okay!?"
      0x7B4E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7B4F [0x01] GOTO 0x7C10
      0x7B52 [0x02] IF !(ExtData[1]->WorkLocal[47] == 3*) GOTO 0x7B65
-     0x7B5A [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7823*]:
+     0x7B5A [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7825*]:
     → "<Player>! Are you okay!?"
      0x7B61 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7B62 [0x01] GOTO 0x7C10
      0x7B65 [0x02] IF !(ExtData[1]->WorkLocal[47] == 4*) GOTO 0x7B78
-     0x7B6D [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7824*]:
+     0x7B6D [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7826*]:
     → "<Player>! Are you okay!?"
      0x7B74 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7B75 [0x01] GOTO 0x7C10
      0x7B78 [0x02] IF !(ExtData[1]->WorkLocal[47] == 5*) GOTO 0x7B8B
-     0x7B80 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7827*]:
+     0x7B80 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7829*]:
     → "<Player>! Are you okay!?"
      0x7B87 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7B88 [0x01] GOTO 0x7C10
      0x7B8B [0x02] IF !(ExtData[1]->WorkLocal[47] == 6*) GOTO 0x7B9E
-     0x7B93 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7828*]:
+     0x7B93 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7830*]:
     → "<Player>! Are you okay!?"
      0x7B9A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7B9B [0x01] GOTO 0x7C10
      0x7B9E [0x02] IF !(ExtData[1]->WorkLocal[47] == 7*) GOTO 0x7BB1
-     0x7BA6 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7829*]:
+     0x7BA6 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7831*]:
     → "<Player>! Are you okay!?"
      0x7BAD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7BAE [0x01] GOTO 0x7C10
      0x7BB1 [0x02] IF !(ExtData[1]->WorkLocal[47] == 8*) GOTO 0x7BC4
-     0x7BB9 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7830*]:
+     0x7BB9 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7832*]:
     → "<Player>! Are you okay!?"
      0x7BC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7BC1 [0x01] GOTO 0x7C10
      0x7BC4 [0x02] IF !(ExtData[1]->WorkLocal[47] == 9*) GOTO 0x7BD7
-     0x7BCC [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7831*]:
+     0x7BCC [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7833*]:
     → "<Player>! Are you okay!?"
      0x7BD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7BD4 [0x01] GOTO 0x7C10
      0x7BD7 [0x02] IF !(ExtData[1]->WorkLocal[47] == 10*) GOTO 0x7BEA
-     0x7BDF [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7825*]:
+     0x7BDF [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7827*]:
     → "<Player>! Are you okay!?"
      0x7BE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7BE7 [0x01] GOTO 0x7C10
      0x7BEA [0x02] IF !(ExtData[1]->WorkLocal[47] == 11*) GOTO 0x7BFD
-     0x7BF2 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7826*]:
+     0x7BF2 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7828*]:
     → "<Player>! Are you okay!?"
      0x7BF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7BFA [0x01] GOTO 0x7C10
      0x7BFD [0x02] IF !(ExtData[1]->WorkLocal[47] == 12*) GOTO 0x7C10
-     0x7C05 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7832*]:
+     0x7C05 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7834*]:
     → "<Player>! Are you okay!?"
      0x7C0C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7C0D [0x01] GOTO 0x7C10
      0x7C10 [0x1B] RETURN
      0x7C11 [0x02] IF !(ExtData[1]->WorkLocal[47] == 1*) GOTO 0x7C24
-     0x7C19 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7833*]:
+     0x7C19 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7835*]:
     → "The mirror was feeding power to the beast..."
      0x7C20 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7C21 [0x01] GOTO 0x7CF5
      0x7C24 [0x02] IF !(ExtData[1]->WorkLocal[47] == 2*) GOTO 0x7C37
-     0x7C2C [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7834*]:
+     0x7C2C [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7836*]:
     → "The mirror was feeding power to the beast..."
      0x7C33 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7C34 [0x01] GOTO 0x7CF5
      0x7C37 [0x02] IF !(ExtData[1]->WorkLocal[47] == 3*) GOTO 0x7C4A
-     0x7C3F [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7835*]:
+     0x7C3F [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7837*]:
     → "The mirror was feeding power to the beast..."
      0x7C46 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7C47 [0x01] GOTO 0x7CF5
      0x7C4A [0x02] IF !(ExtData[1]->WorkLocal[47] == 4*) GOTO 0x7C5D
-     0x7C52 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7836*]:
+     0x7C52 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7838*]:
     → "The mirror was feeding power to the beast..."
      0x7C59 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7C5A [0x01] GOTO 0x7CF5
      0x7C5D [0x02] IF !(ExtData[1]->WorkLocal[47] == 5*) GOTO 0x7C70
-     0x7C65 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7839*]:
+     0x7C65 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7841*]:
     → "The mirror was feeding power to the beast..."
      0x7C6C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7C6D [0x01] GOTO 0x7CF5
      0x7C70 [0x02] IF !(ExtData[1]->WorkLocal[47] == 6*) GOTO 0x7C83
-     0x7C78 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7840*]:
+     0x7C78 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7842*]:
     → "The mirror was feeding power to the beast..."
      0x7C7F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7C80 [0x01] GOTO 0x7CF5
      0x7C83 [0x02] IF !(ExtData[1]->WorkLocal[47] == 7*) GOTO 0x7C96
-     0x7C8B [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7841*]:
+     0x7C8B [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7843*]:
     → "The mirror was feeding power to the beast..."
      0x7C92 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7C93 [0x01] GOTO 0x7CF5
      0x7C96 [0x02] IF !(ExtData[1]->WorkLocal[47] == 8*) GOTO 0x7CA9
-     0x7C9E [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7842*]:
+     0x7C9E [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7844*]:
     → "The mirror was feeding power to the beast..."
      0x7CA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7CA6 [0x01] GOTO 0x7CF5
      0x7CA9 [0x02] IF !(ExtData[1]->WorkLocal[47] == 9*) GOTO 0x7CBC
-     0x7CB1 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7843*]:
+     0x7CB1 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7845*]:
     → "The mirror was feeding power to the beast..."
      0x7CB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7CB9 [0x01] GOTO 0x7CF5
      0x7CBC [0x02] IF !(ExtData[1]->WorkLocal[47] == 10*) GOTO 0x7CCF
-     0x7CC4 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7837*]:
+     0x7CC4 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7839*]:
     → "The mirror was feeding power to the beast..."
      0x7CCB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7CCC [0x01] GOTO 0x7CF5
      0x7CCF [0x02] IF !(ExtData[1]->WorkLocal[47] == 11*) GOTO 0x7CE2
-     0x7CD7 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7838*]:
+     0x7CD7 [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7840*]:
     → "The mirror was feeding power to the beast..."
      0x7CDE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7CDF [0x01] GOTO 0x7CF5
      0x7CE2 [0x02] IF !(ExtData[1]->WorkLocal[47] == 12*) GOTO 0x7CF5
-     0x7CEA [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7844*]:
+     0x7CEA [0x2B] Unnamed NPC (ID: 17350986/0x0108C14A) [7846*]:
     → "The mirror was feeding power to the beast..."
      0x7CF1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7CF2 [0x01] GOTO 0x7CF5

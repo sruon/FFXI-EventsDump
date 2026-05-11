@@ -26,22 +26,22 @@
 |       3 | 0x14B7      |        5303 |
 |       4 | 0x0468      |        1128 |
 |       5 | 0x0469      |        1129 |
-|       6 | 0x1BAA      |        7082 |
+|       6 | 0x1BAC      |        7084 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0010      |          16 |
-|       9 | 0x1BAB      |        7083 |
+|       9 | 0x1BAD      |        7085 |
 |      10 | 0x0018      |          24 |
 |      11 | 0x001F      |          31 |
-|      12 | 0x1BAC      |        7084 |
+|      12 | 0x1BAE      |        7086 |
 |      13 | 0x0007      |           7 |
 |      14 | 0x40000000  |  1073741824 |
 |      15 | 0x000F      |          15 |
 
 ## String References
 
-- **7082**: Whaddya want this time, cheater? [Current $0./Next $0./Previous $0./Current $1./Next $1./Previous $1./Current $2./Previous $2./Current $3./Previous $3./Current $4./Previous $4./Next $4./Current $5./Previous $5./Next $5./More $5./Forget it.]
-- **7083**: Which $0 do you want? [After phase 1./After phase 2./After phase 3./After phase 4./After phase 5./After phase 6./After phase 7./After phase 8./After phase 9./After phase 10./After phase 11./After phase 12./After phase 13./After phase 14./After phase 15./After phase 16./After phase 17./After phase 18./After phase 19./After phase 20./After phase 21./After phase 22./After phase 23./After phase 24./Nevermind.]
-- **7084**: Level limit? [No limits./60./50./40."0."0./10./Nevermind.]
+- **7084**: Whaddya want this time, cheater? [Current $0./Next $0./Previous $0./Current $1./Next $1./Previous $1./Current $2./Previous $2./Current $3./Previous $3./Current $4./Previous $4./Next $4./Current $5./Previous $5./Next $5./More $5./Forget it.]
+- **7085**: Which $0 do you want? [After phase 1./After phase 2./After phase 3./After phase 4./After phase 5./After phase 6./After phase 7./After phase 8./After phase 9./After phase 10./After phase 11./After phase 12./After phase 13./After phase 14./After phase 15./After phase 16./After phase 17./After phase 18./After phase 19./After phase 20./After phase 21./After phase 22./After phase 23./After phase 24./Nevermind.]
+- **7086**: Level limit? [No limits./60./50./40."0."0./10./Nevermind.]
 
 ## Events
 
@@ -100,13 +100,13 @@
   3: 0x0010 [0x03] Work_Zone[5] = 5303*
   4: 0x0015 [0x03] Work_Zone[6] = 1128*
   5: 0x001A [0x03] Work_Zone[7] = 1129*
-  6: 0x001F [0x24] CREATE_DIALOG(message_id=7082*, default_option=0*, option_flags=0*)
+  6: 0x001F [0x24] CREATE_DIALOG(message_id=7084*, default_option=0*, option_flags=0*)
     → "Whaddya want this time, cheater? [Current $0./Next $0./Previous $0./Current $1./Next $1./Previous $1./Current $2./Previous $2./Current $3./Previous $3./Current $4./Previous $4./Next $4./Current $5./Previous $5./Next $5./More $5./Forget it.]"
   7: 0x0026 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0027 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0032
   9: 0x002F [0x01] GOTO 0x0055
  10: 0x0032 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0055
- 11: 0x003A [0x24] CREATE_DIALOG(message_id=7083*, default_option=0*, option_flags=0*)
+ 11: 0x003A [0x24] CREATE_DIALOG(message_id=7085*, default_option=0*, option_flags=0*)
     → "Which $0 do you want? [After phase 1./After phase 2./After phase 3./After phase 4./After phase 5./After phase 6./After phase 7./After phase 8./After phase 9./After phase 10./After phase 11./After phase 12./After phase 13./After phase 14./After phase 15./After phase 16./After phase 17./After phase 18./After phase 19./After phase 20./After phase 21./After phase 22./After phase 23./After phase 24./Nevermind.]"
  12: 0x0041 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0042 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x004D
@@ -118,7 +118,7 @@ SUBROUTINE_0052:
 
 SUBROUTINE_0055:
  17: 0x0055 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[0])
- 18: 0x005E [0x24] CREATE_DIALOG(message_id=7084*, default_option=0*, option_flags=0*)
+ 18: 0x005E [0x24] CREATE_DIALOG(message_id=7086*, default_option=0*, option_flags=0*)
     → "Level limit? [No limits./60./50./40."0."0./10./Nevermind.]"
  19: 0x0065 [0x25] WAIT_DIALOG_SELECT()
  20: 0x0066 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0076

@@ -30,11 +30,11 @@
 |       7 | 0x0002      |           2 |
 |       8 | 0x0014      |          20 |
 |       9 | 0x001D      |          29 |
-|      10 | 0x1E75      |        7797 |
+|      10 | 0x1E77      |        7799 |
 |      11 | 0x40000000  |  1073741824 |
-|      12 | 0x1E76      |        7798 |
-|      13 | 0x1E77      |        7799 |
-|      14 | 0x1E78      |        7800 |
+|      12 | 0x1E78      |        7800 |
+|      13 | 0x1E79      |        7801 |
+|      14 | 0x1E7A      |        7802 |
 |      15 | 0x0020      |          32 |
 |      16 | 0x0015      |          21 |
 |      17 | 0x000B      |          11 |
@@ -272,10 +272,10 @@
 
 ## String References
 
-- **7797**: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
-- **7798**: Monsters Defeated in Escha - Ru'Aun. [Go back./Bia. [/y$26z]/Ruea. [/y$26$77659y$26z]/Khon. [/y$26z]/Met. [/y$26z]/Khun. [/y$26z]/Wasserspeier. [/y$26z]/Emputa. [/y$26z]/Peirithoos. [/y$26z]/Asida. [/y$26z]/Tenodera. [/y$26z]/Sava Savanovic. [/y$26z]/Palila. [/y$26z]/Hanbi. [/y$26z]/Yilan. [/y$26z]/Amymone. [/y$26z]/Naphula. [/y$26z]/Kammavaca. [/y$26z]/Pakecet. [/y$26z]/Duke Vepar. [/y$26z]/Vir'ava. [/y$26z]/Next page.]
-- **7799**: Monsters Defeated in Escha - Ru'Aun. [Go back./Byakko. [/y$26z]/Genbu. [/y$26z]/Seiryu. [/y$26z]/Suzaku. [/y$26z]/Kirin. [/y$26z]/Ark Angel HM. [/y$26z]/Ark Angel TT. [/y$26z]/Ark Angel MR. [/y$26z]/Ark Angel EV. [/y$26z]/Ark Angel GK. [/y$26z]/Warder of Courage. [/y$26z]/Previous page.]
-- **7800**: Escha and Reiseinjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]
+- **7799**: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
+- **7800**: Monsters Defeated in Escha - Ru'Aun. [Go back./Bia. [/y$26z]/Ruea. [/y$26$77659y$26z]/Khon. [/y$26z]/Met. [/y$26z]/Khun. [/y$26z]/Wasserspeier. [/y$26z]/Emputa. [/y$26z]/Peirithoos. [/y$26z]/Asida. [/y$26z]/Tenodera. [/y$26z]/Sava Savanovic. [/y$26z]/Palila. [/y$26z]/Hanbi. [/y$26z]/Yilan. [/y$26z]/Amymone. [/y$26z]/Naphula. [/y$26z]/Kammavaca. [/y$26z]/Pakecet. [/y$26z]/Duke Vepar. [/y$26z]/Vir'ava. [/y$26z]/Next page.]
+- **7801**: Monsters Defeated in Escha - Ru'Aun. [Go back./Byakko. [/y$26z]/Genbu. [/y$26z]/Seiryu. [/y$26z]/Suzaku. [/y$26z]/Kirin. [/y$26z]/Ark Angel HM. [/y$26z]/Ark Angel TT. [/y$26z]/Ark Angel MR. [/y$26z]/Ark Angel EV. [/y$26z]/Ark Angel GK. [/y$26z]/Warder of Courage. [/y$26z]/Previous page.]
+- **7802**: Escha and Reiseinjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]
 
 ## Events
 
@@ -567,7 +567,7 @@ SUBROUTINE_0067:
 
 SUBROUTINE_0070:
  22: 0x0070 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x00BF
- 23: 0x0078 [0x24] CREATE_DIALOG(message_id=7797*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[8])
+ 23: 0x0078 [0x24] CREATE_DIALOG(message_id=7799*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[8])
     → "What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]"
  24: 0x007F [0x25] WAIT_DIALOG_SELECT()
  25: 0x0080 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0093
@@ -599,7 +599,7 @@ SUBROUTINE_00CC:
  43: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0142
  44: 0x00D4 [0x1A] CALL_SUBROUTINE(address=0x0176)
  45: 0x00D7 [0x02] IF !(ExtData[1]->WorkLocal[15] == 0*) GOTO 0x010B
- 46: 0x00DF [0x24] CREATE_DIALOG(message_id=7798*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
+ 46: 0x00DF [0x24] CREATE_DIALOG(message_id=7800*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
     → "Monsters Defeated in Escha - Ru'Aun. [Go back./Bia. [/y$26z]/Ruea. [/y$26$77659y$26z]/Khon. [/y$26z]/Met. [/y$26z]/Khun. [/y$26z]/Wasserspeier. [/y$26z]/Emputa. [/y$26z]/Peirithoos. [/y$26z]/Asida. [/y$26z]/Tenodera. [/y$26z]/Sava Savanovic. [/y$26z]/Palila. [/y$26z]/Hanbi. [/y$26z]/Yilan. [/y$26z]/Amymone. [/y$26z]/Naphula. [/y$26z]/Kammavaca. [/y$26z]/Pakecet. [/y$26z]/Duke Vepar. [/y$26z]/Vir'ava. [/y$26z]/Next page.]"
  47: 0x00E6 [0x25] WAIT_DIALOG_SELECT()
  48: 0x00E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F5
@@ -613,7 +613,7 @@ SUBROUTINE_00F5:
  54: 0x0105 [0x06] ExtData[1]->WorkLocal[10] = 0
  55: 0x0108 [0x01] GOTO 0x013F
  56: 0x010B [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x013F
- 57: 0x0113 [0x24] CREATE_DIALOG(message_id=7799*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
+ 57: 0x0113 [0x24] CREATE_DIALOG(message_id=7801*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
     → "Monsters Defeated in Escha - Ru'Aun. [Go back./Byakko. [/y$26z]/Genbu. [/y$26z]/Seiryu. [/y$26z]/Suzaku. [/y$26z]/Kirin. [/y$26z]/Ark Angel HM. [/y$26z]/Ark Angel TT. [/y$26z]/Ark Angel MR. [/y$26z]/Ark Angel EV. [/y$26z]/Ark Angel GK. [/y$26z]/Warder of Courage. [/y$26z]/Previous page.]"
  58: 0x011A [0x25] WAIT_DIALOG_SELECT()
  59: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0129
@@ -640,7 +640,7 @@ SUBROUTINE_014C:
  72: 0x014C [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0175
  73: 0x0154 [0x1A] CALL_SUBROUTINE(address=0x0344)
  74: 0x0157 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
- 75: 0x015C [0x24] CREATE_DIALOG(message_id=7800*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
+ 75: 0x015C [0x24] CREATE_DIALOG(message_id=7802*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
     → "Escha and Reiseinjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]"
  76: 0x0163 [0x25] WAIT_DIALOG_SELECT()
  77: 0x0164 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0172

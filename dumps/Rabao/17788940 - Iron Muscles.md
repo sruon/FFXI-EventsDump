@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x273A      |       10042 |
+|       0 | 0x273C      |       10044 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x000A      |          10 |
 |       3 | 0x0014      |          20 |
@@ -35,7 +35,7 @@
 
 ## String References
 
-- **10042**: You probably weren't aware of it, but this island is the lost homeland of the Galka... Even in these endless sands, the joy of setting foot in your homeland is a difficult emotion to express.
+- **10044**: You probably weren't aware of it, but this island is the lost homeland of the Galka... Even in these endless sands, the joy of setting foot in your homeland is a difficult emotion to express.
 
 ## Events
 
@@ -96,7 +96,7 @@
 ```
   0: 0x0001 [0x1A] CALL_SUBROUTINE(address=0x000D)
   1: 0x0004 [0x1A] CALL_SUBROUTINE(address=0x008B)
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10042*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10044*)
     → "You probably weren't aware of it, but this island is the lost homeland of the Galka... Even in these endless sands, the joy of setting foot in your homeland is a difficult emotion to express."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT

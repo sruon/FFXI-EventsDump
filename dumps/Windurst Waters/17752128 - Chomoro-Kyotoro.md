@@ -58,43 +58,43 @@
 |---------|-------------|-------------|
 |       0 | 0x0055      |          85 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x20A7      |        8359 |
-|       3 | 0x1E55      |        7765 |
-|       4 | 0x2122      |        8482 |
-|       5 | 0x2123      |        8483 |
-|       6 | 0x214F      |        8527 |
-|       7 | 0x2150      |        8528 |
-|       8 | 0x20D9      |        8409 |
-|       9 | 0x20DA      |        8410 |
-|      10 | 0x20DF      |        8415 |
-|      11 | 0x20E0      |        8416 |
-|      12 | 0x20E7      |        8423 |
-|      13 | 0x20E8      |        8424 |
-|      14 | 0x20E9      |        8425 |
-|      15 | 0x20EA      |        8426 |
-|      16 | 0x20EB      |        8427 |
-|      17 | 0x2102      |        8450 |
-|      18 | 0x2103      |        8451 |
+|       2 | 0x20A9      |        8361 |
+|       3 | 0x1E57      |        7767 |
+|       4 | 0x2124      |        8484 |
+|       5 | 0x2125      |        8485 |
+|       6 | 0x2151      |        8529 |
+|       7 | 0x2152      |        8530 |
+|       8 | 0x20DB      |        8411 |
+|       9 | 0x20DC      |        8412 |
+|      10 | 0x20E1      |        8417 |
+|      11 | 0x20E2      |        8418 |
+|      12 | 0x20E9      |        8425 |
+|      13 | 0x20EA      |        8426 |
+|      14 | 0x20EB      |        8427 |
+|      15 | 0x20EC      |        8428 |
+|      16 | 0x20ED      |        8429 |
+|      17 | 0x2104      |        8452 |
+|      18 | 0x2105      |        8453 |
 
 ## String References
 
-- **7765**: H-h-h-h-huh... G-g-go o-outside and f-fight m-m-monsters...? J-j-just the th-thought of it m-makes m-me, sh-sh-shake.
-- **8359**: Aaargh! I, I, I still d-don't understand these at all! A-a-after a-all that pr-preparation...<sniff>
-- **8409**: I-I-I'm pretty confident too, you know? I, I bet I'll get over 50%!
-- **8410**: But, it's gre...I mean, too bad the results aren't coming back, huh? A-he-he-he-he...
-- **8415**: H-huh...!? You, you found the answer sheets!?
-- **8416**: ...... R-really? All the answer sheets? A-a-are you sure...?
-- **8423**: Huh? Wh-wh-what's that? The principal said I should have this?
-- **8424**: !!!
-- **8425**: ...... ...I-I'm sorry! Sorry for the trouble, I caused you. I-I promise I'll never do it again!
-- **8426**: ... I-I-I promise I'll never do such a thing again!
-- **8427**: I-I'll never throw this answer sheet away again. I-I now know you have to learn from your mistakes...
-- **8450**: I, I, I thought growing p-plants was supposed to be easy. L-l-like they just g-grow by themselves, r-right?
-- **8451**: B-but I let mine b-be and they d-dried up! It's actually r-r-really hard!
-- **8482**: I, I w-wonder how c-come Paku-Nakku c-can use all those d-different magic w-wands so w-well?
-- **8483**: I-is h-he a n-natural b-born g-genius? I, I, I w-wish I w-was m-more l-like h-him!!
-- **8527**: Wo-wow, the A-agatha Cr-Crystalie whodunit s-series!? I-if they're th-that g-good, m-maybe I sh-should r-read th-them too!
-- **8528**: B-but, I'm a s-slow r-reader. I d-don't w-want to k-keep the n-next p-person w-waiting, s-so m-maybe I sh-should w-wait till e-everyone e-else h-has f-f-finished r-r-reading th-them...
+- **7767**: H-h-h-h-huh... G-g-go o-outside and f-fight m-m-monsters...? J-j-just the th-thought of it m-makes m-me, sh-sh-shake.
+- **8361**: Aaargh! I, I, I still d-don't understand these at all! A-a-after a-all that pr-preparation...<sniff>
+- **8411**: I-I-I'm pretty confident too, you know? I, I bet I'll get over 50%!
+- **8412**: But, it's gre...I mean, too bad the results aren't coming back, huh? A-he-he-he-he...
+- **8417**: H-huh...!? You, you found the answer sheets!?
+- **8418**: ...... R-really? All the answer sheets? A-a-are you sure...?
+- **8425**: Huh? Wh-wh-what's that? The principal said I should have this?
+- **8426**: !!!
+- **8427**: ...... ...I-I'm sorry! Sorry for the trouble, I caused you. I-I promise I'll never do it again!
+- **8428**: ... I-I-I promise I'll never do such a thing again!
+- **8429**: I-I'll never throw this answer sheet away again. I-I now know you have to learn from your mistakes...
+- **8452**: I, I, I thought growing p-plants was supposed to be easy. L-l-like they just g-grow by themselves, r-right?
+- **8453**: B-but I let mine b-be and they d-dried up! It's actually r-r-really hard!
+- **8484**: I, I w-wonder how c-come Paku-Nakku c-can use all those d-different magic w-wands so w-well?
+- **8485**: I-is h-he a n-natural b-born g-genius? I, I, I w-wish I w-was m-more l-like h-him!!
+- **8529**: Wo-wow, the A-agatha Cr-Crystalie whodunit s-series!? I-if they're th-that g-good, m-maybe I sh-should r-read th-them too!
+- **8530**: B-but, I'm a s-slow r-reader. I d-don't w-want to k-keep the n-next p-person w-waiting, s-so m-maybe I sh-should w-wait till e-everyone e-else h-has f-f-finished r-r-reading th-them...
 
 ## Events
 
@@ -831,7 +831,7 @@
   1: 0x01F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x01)
-  4: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8359*)
+  4: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8361*)
     → "Aaargh! I, I, I still d-don't understand these at all! A-a-after a-all that pr-preparation...<sniff>"
   5: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0203 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x02)
@@ -865,7 +865,7 @@
   1: 0x0213 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0214 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0215 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x01)
-  4: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=7765*)
+  4: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=7767*)
     → "H-h-h-h-huh... G-g-go o-outside and f-fight m-m-monsters...? J-j-just the th-thought of it m-makes m-me, sh-sh-shake."
   5: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0220 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x02)
@@ -899,10 +899,10 @@
   1: 0x0230 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0231 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0232 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x01)
-  4: 0x0239 [0x1D] PRINT_EVENT_MESSAGE(message_id=8482*)
+  4: 0x0239 [0x1D] PRINT_EVENT_MESSAGE(message_id=8484*)
     → "I, I w-wonder how c-come Paku-Nakku c-can use all those d-different magic w-wands so w-well?"
   5: 0x023C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8483*)
+  6: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8485*)
     → "I-is h-he a n-natural b-born g-genius? I, I, I w-wish I w-was m-more l-like h-him!!"
   7: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0241 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x02)
@@ -936,10 +936,10 @@
   1: 0x0251 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0252 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0253 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x01)
-  4: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=8527*)
+  4: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=8529*)
     → "Wo-wow, the A-agatha Cr-Crystalie whodunit s-series!? I-if they're th-that g-good, m-maybe I sh-should r-read th-them too!"
   5: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8528*)
+  6: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8530*)
     → "B-but, I'm a s-slow r-reader. I d-don't w-want to k-keep the n-next p-person w-waiting, s-so m-maybe I sh-should w-wait till e-everyone e-else h-has f-f-finished r-r-reading th-them..."
   7: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0262 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x02)
@@ -973,10 +973,10 @@
   1: 0x0272 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0273 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0274 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x01)
-  4: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=8409*)
+  4: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=8411*)
     → "I-I-I'm pretty confident too, you know? I, I bet I'll get over 50%!"
   5: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=8410*)
+  6: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=8412*)
     → "But, it's gre...I mean, too bad the results aren't coming back, huh? A-he-he-he-he..."
   7: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0283 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x02)
@@ -1010,10 +1010,10 @@
   1: 0x0293 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0294 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0295 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x0C)
-  4: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=8415*)
+  4: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=8417*)
     → "H-huh...!? You, you found the answer sheets!?"
   5: 0x029F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8416*)
+  6: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8418*)
     → "...... R-really? All the answer sheets? A-a-are you sure...?"
   7: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x0D)
@@ -1049,16 +1049,16 @@
   1: 0x02B4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02B5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x01)
-  4: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8423*)
+  4: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8425*)
     → "Huh? Wh-wh-what's that? The principal said I should have this?"
   5: 0x02C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x02)
   7: 0x02C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x0E)
-  8: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8424*)
+  8: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8426*)
     → "!!!"
   9: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x0F)
- 11: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8425*)
+ 11: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8427*)
     → "...... ...I-I'm sorry! Sorry for the trouble, I caused you. I-I promise I'll never do it again!"
  12: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x02DE [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1091,10 +1091,10 @@
   1: 0x02E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x0C)
-  4: 0x02F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8426*)
+  4: 0x02F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8428*)
     → "... I-I-I promise I'll never do such a thing again!"
   5: 0x02F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8427*)
+  6: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8429*)
     → "I-I'll never throw this answer sheet away again. I-I now know you have to learn from your mistakes..."
   7: 0x02F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x0D)
@@ -1128,10 +1128,10 @@
   1: 0x0308 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0309 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x030A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x0C)
-  4: 0x0311 [0x1D] PRINT_EVENT_MESSAGE(message_id=8450*)
+  4: 0x0311 [0x1D] PRINT_EVENT_MESSAGE(message_id=8452*)
     → "I, I, I thought growing p-plants was supposed to be easy. L-l-like they just g-grow by themselves, r-right?"
   5: 0x0314 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=8451*)
+  6: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=8453*)
     → "B-but I let mine b-be and they d-dried up! It's actually r-r-really hard!"
   7: 0x0318 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0319 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chomoro-Kyotoro (ID: 17752128/0x010EE040), tag_num=0x0D)

@@ -23,24 +23,24 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x43EF      |       17391 |
-|       1 | 0x1F18      |        7960 |
-|       2 | 0x1F19      |        7961 |
+|       1 | 0x1F1A      |        7962 |
+|       2 | 0x1F1B      |        7963 |
 |       3 | 0x000B      |          11 |
-|       4 | 0x1F1A      |        7962 |
+|       4 | 0x1F1C      |        7964 |
 |       5 | 0x00C9      |         201 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x0019      |          25 |
-|       8 | 0x1F17      |        7959 |
+|       8 | 0x1F19      |        7961 |
 |       9 | 0x0024      |          36 |
-|      10 | 0x1F1B      |        7963 |
+|      10 | 0x1F1D      |        7965 |
 
 ## String References
 
-- **7959**: Why is it taking so long to mend a simple fishing rod? The poor folk here are soon like to die of starvation...
-- **7960**: Why, this is the $0 I had sent to be repaired!
-- **7961**: I had been expecting the craftsman's familiar face, but doubtless he's swamped with repair work.
-- **7962**: Pray send my regards to my little brother when next you see him.
-- **7963**: Now that the tool of my trade is returned to me, I had best return to my duty. 'Tis a weighty responsibility, ensuring that all mouths are fed.
+- **7961**: Why is it taking so long to mend a simple fishing rod? The poor folk here are soon like to die of starvation...
+- **7962**: Why, this is the $0 I had sent to be repaired!
+- **7963**: I had been expecting the craftsman's familiar face, but doubtless he's swamped with repair work.
+- **7964**: Pray send my regards to my little brother when next you see him.
+- **7965**: Now that the tool of my trade is returned to me, I had best return to my duty. 'Tis a weighty responsibility, ensuring that all mouths are fed.
 
 ## Events
 
@@ -94,15 +94,15 @@
   3: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x000B [0x03] Work_Zone[2] = 17391*
-  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
     → "Why, this is the $0 I had sent to be repaired!"
   7: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
+  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "I had been expecting the craftsman's familiar face, but doubtless he's swamped with repair work."
   9: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0018 [0x6E] Gallijaux (ID: 17318638/0x010842EE) uses emote 11*
  11: 0x001F [0x99] Wait for Gallijaux (ID: 17318638/0x010842EE) animation to complete
- 12: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+ 12: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
     → "Pray send my regards to my little brother when next you see him."
  13: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0028 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -136,7 +136,7 @@
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x6E] Gallijaux (ID: 17318638/0x010842EE) uses emote 25*
   4: 0x0049 [0x99] Wait for Gallijaux (ID: 17318638/0x010842EE) animation to complete
-  5: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
+  5: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "Why is it taking so long to mend a simple fishing rod? The poor folk here are soon like to die of starvation..."
   6: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0052 [0x21] END_EVENT
@@ -168,7 +168,7 @@
   2: 0x005A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005B [0x6E] Gallijaux (ID: 17318638/0x010842EE) uses emote 36*
   4: 0x0062 [0x99] Wait for Gallijaux (ID: 17318638/0x010842EE) animation to complete
-  5: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
+  5: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
     → "Now that the tool of my trade is returned to me, I had best return to my duty. 'Tis a weighty responsibility, ensuring that all mouths are fed."
   6: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x006B [0x21] END_EVENT

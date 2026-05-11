@@ -61,23 +61,23 @@
 |       8 | 0x4BCB      |       19403 |
 |       9 | 0xFFFFC825  |  4294952997 |
 |      10 | 0x4DA9      |       19881 |
-|      11 | 0x1C7E      |        7294 |
-|      12 | 0x1C83      |        7299 |
-|      13 | 0x1C84      |        7300 |
-|      14 | 0x1C8A      |        7306 |
-|      15 | 0x1C8C      |        7308 |
-|      16 | 0x1C91      |        7313 |
-|      17 | 0x1C94      |        7316 |
+|      11 | 0x1C80      |        7296 |
+|      12 | 0x1C85      |        7301 |
+|      13 | 0x1C86      |        7302 |
+|      14 | 0x1C8C      |        7308 |
+|      15 | 0x1C8E      |        7310 |
+|      16 | 0x1C93      |        7315 |
+|      17 | 0x1C96      |        7318 |
 
 ## String References
 
-- **7294**: We have found you, Mithra! Return the lifeforce of our leader back to us!
-- **7299**: It is not permissible for living fools such as you to take the property of the deceased...!
-- **7300**: So, Mithra... Tell us where you hid our ruler's belongings! If you do not want to join him in death, then you had best speak the truth!
-- **7306**: ...... You appear to be telling the truth.
-- **7308**: Then you also know that we are incapable of lying as well.
-- **7313**: It is the Minister of the Orastery...! Ajido-Marujido...!
-- **7316**: ......
+- **7296**: We have found you, Mithra! Return the lifeforce of our leader back to us!
+- **7301**: It is not permissible for living fools such as you to take the property of the deceased...!
+- **7302**: So, Mithra... Tell us where you hid our ruler's belongings! If you do not want to join him in death, then you had best speak the truth!
+- **7308**: ...... You appear to be telling the truth.
+- **7310**: Then you also know that we are incapable of lying as well.
+- **7315**: It is the Minister of the Orastery...! Ajido-Marujido...!
+- **7318**: ......
 
 ## Events
 
@@ -709,7 +709,7 @@
 #### Opcodes
 
 ```
-  0: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
+  0: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
     → "We have found you, Mithra! Return the lifeforce of our leader back to us!"
   1: 0x0183 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0184 [0x00] END_REQSTACK()
@@ -734,7 +734,7 @@
 #### Opcodes
 
 ```
-  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
+  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7301*)
     → "It is not permissible for living fools such as you to take the property of the deceased...!"
   1: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0189 [0x00] END_REQSTACK()
@@ -759,7 +759,7 @@
 #### Opcodes
 
 ```
-  0: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
+  0: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
     → "So, Mithra... Tell us where you hid our ruler's belongings! If you do not want to join him in death, then you had best speak the truth!"
   1: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x018E [0x00] END_REQSTACK()
@@ -785,7 +785,7 @@
 #### Opcodes
 
 ```
-  0: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
+  0: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
     → "...... You appear to be telling the truth."
   1: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0193 [0x00] END_REQSTACK()
@@ -810,7 +810,7 @@
 #### Opcodes
 
 ```
-  0: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+  0: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
     → "Then you also know that we are incapable of lying as well."
   1: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0198 [0x00] END_REQSTACK()
@@ -835,7 +835,7 @@
 #### Opcodes
 
 ```
-  0: 0x0199 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+  0: 0x0199 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
     → "It is the Minister of the Orastery...! Ajido-Marujido...!"
   1: 0x019C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x019D [0x00] END_REQSTACK()
@@ -861,7 +861,7 @@
 #### Opcodes
 
 ```
-  0: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
+  0: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
     → "......"
   1: 0x01A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01A2 [0x00] END_REQSTACK()

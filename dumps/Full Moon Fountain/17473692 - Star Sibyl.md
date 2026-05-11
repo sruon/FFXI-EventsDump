@@ -80,7 +80,7 @@
 |      12 | 0x0474      |        1140 |
 |      13 | 0xFFFF153C  |  4294907196 |
 |      14 | 0xF230      |       62000 |
-|      15 | 0x1C54      |        7252 |
+|      15 | 0x1C56      |        7254 |
 |      16 | 0xFFFF14C8  |  4294907080 |
 |      17 | 0xF3E2      |       62434 |
 |      18 | 0x24B1      |        9393 |
@@ -124,7 +124,7 @@
 
 ## String References
 
-- **7252**: ...
+- **7254**: ...
 
 ## Events
 
@@ -901,7 +901,7 @@
 
 ```
   0: 0x01CF [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+  1: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "..."
   2: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01D9 [0x7C] EventEntity->Render.Flags2 |= 0x01

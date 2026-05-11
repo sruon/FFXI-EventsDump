@@ -35,36 +35,36 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x01E8      |         488 |
 |       3 | 0x0003      |           3 |
-|       4 | 0x1D88      |        7560 |
+|       4 | 0x1D8A      |        7562 |
 |       5 | 0x0032      |          50 |
-|       6 | 0x1D89      |        7561 |
-|       7 | 0x1D8A      |        7562 |
-|       8 | 0x1D8B      |        7563 |
-|       9 | 0x1D8C      |        7564 |
-|      10 | 0x1D8D      |        7565 |
-|      11 | 0x1D8E      |        7566 |
-|      12 | 0x1D8F      |        7567 |
-|      13 | 0x1D90      |        7568 |
-|      14 | 0x1D91      |        7569 |
-|      15 | 0x1D92      |        7570 |
-|      16 | 0x1D93      |        7571 |
-|      17 | 0x1D94      |        7572 |
-|      18 | 0x1D95      |        7573 |
-|      19 | 0x1D96      |        7574 |
-|      20 | 0x1D97      |        7575 |
-|      21 | 0x1D98      |        7576 |
-|      22 | 0x1D99      |        7577 |
-|      23 | 0x1D9A      |        7578 |
+|       6 | 0x1D8B      |        7563 |
+|       7 | 0x1D8C      |        7564 |
+|       8 | 0x1D8D      |        7565 |
+|       9 | 0x1D8E      |        7566 |
+|      10 | 0x1D8F      |        7567 |
+|      11 | 0x1D90      |        7568 |
+|      12 | 0x1D91      |        7569 |
+|      13 | 0x1D92      |        7570 |
+|      14 | 0x1D93      |        7571 |
+|      15 | 0x1D94      |        7572 |
+|      16 | 0x1D95      |        7573 |
+|      17 | 0x1D96      |        7574 |
+|      18 | 0x1D97      |        7575 |
+|      19 | 0x1D98      |        7576 |
+|      20 | 0x1D99      |        7577 |
+|      21 | 0x1D9A      |        7578 |
+|      22 | 0x1D9B      |        7579 |
+|      23 | 0x1D9C      |        7580 |
 |      24 | 0x00C9      |         201 |
-|      25 | 0x1D9B      |        7579 |
-|      26 | 0x1DB1      |        7601 |
-|      27 | 0x1DB2      |        7602 |
-|      28 | 0x1DB3      |        7603 |
-|      29 | 0x1DB4      |        7604 |
-|      30 | 0x1DB5      |        7605 |
-|      31 | 0x1DB6      |        7606 |
+|      25 | 0x1D9D      |        7581 |
+|      26 | 0x1DB3      |        7603 |
+|      27 | 0x1DB4      |        7604 |
+|      28 | 0x1DB5      |        7605 |
+|      29 | 0x1DB6      |        7606 |
+|      30 | 0x1DB7      |        7607 |
+|      31 | 0x1DB8      |        7608 |
 |      32 | 0x0002      |           2 |
-|      33 | 0x1DB7      |        7607 |
+|      33 | 0x1DB9      |        7609 |
 |      34 | 0x0100      |         256 |
 |      35 | 0x0101      |         257 |
 |      36 | 0x0102      |         258 |
@@ -73,37 +73,37 @@
 |      39 | 0x0105      |         261 |
 |      40 | 0x0106      |         262 |
 |      41 | 0x0107      |         263 |
-|      42 | 0x1DB8      |        7608 |
+|      42 | 0x1DBA      |        7610 |
 |      43 | 0x0001      |           1 |
 |      44 | 0x0004      |           4 |
 |      45 | 0x0005      |           5 |
 |      46 | 0x0006      |           6 |
 |      47 | 0x0007      |           7 |
 |      48 | 0x0008      |           8 |
-|      49 | 0x1DBD      |        7613 |
-|      50 | 0x1DBE      |        7614 |
-|      51 | 0x1DC0      |        7616 |
-|      52 | 0x1DD3      |        7635 |
-|      53 | 0x1DC1      |        7617 |
-|      54 | 0x1DBF      |        7615 |
-|      55 | 0x1DD2      |        7634 |
+|      49 | 0x1DBF      |        7615 |
+|      50 | 0x1DC0      |        7616 |
+|      51 | 0x1DC2      |        7618 |
+|      52 | 0x1DD5      |        7637 |
+|      53 | 0x1DC3      |        7619 |
+|      54 | 0x1DC1      |        7617 |
+|      55 | 0x1DD4      |        7636 |
 |      56 | 0x02C9      |         713 |
-|      57 | 0x1DDA      |        7642 |
-|      58 | 0x1DDB      |        7643 |
-|      59 | 0x1DDC      |        7644 |
-|      60 | 0x1DDD      |        7645 |
-|      61 | 0x1DDE      |        7646 |
-|      62 | 0x1DDF      |        7647 |
-|      63 | 0x1DCB      |        7627 |
-|      64 | 0x1DCC      |        7628 |
-|      65 | 0x1DCD      |        7629 |
-|      66 | 0x1DCE      |        7630 |
-|      67 | 0x1DCF      |        7631 |
+|      57 | 0x1DDC      |        7644 |
+|      58 | 0x1DDD      |        7645 |
+|      59 | 0x1DDE      |        7646 |
+|      60 | 0x1DDF      |        7647 |
+|      61 | 0x1DE0      |        7648 |
+|      62 | 0x1DE1      |        7649 |
+|      63 | 0x1DCD      |        7629 |
+|      64 | 0x1DCE      |        7630 |
+|      65 | 0x1DCF      |        7631 |
+|      66 | 0x1DD0      |        7632 |
+|      67 | 0x1DD1      |        7633 |
 |      68 | 0x00FF      |         255 |
-|      69 | 0x1DE0      |        7648 |
-|      70 | 0x1DD0      |        7632 |
-|      71 | 0x1DD1      |        7633 |
-|      72 | 0x1DD4      |        7636 |
+|      69 | 0x1DE2      |        7650 |
+|      70 | 0x1DD2      |        7634 |
+|      71 | 0x1DD3      |        7635 |
+|      72 | 0x1DD6      |        7638 |
 |      73 | 0xFFFFFFFF  |  4294967295 |
 |      74 | 0x000B      |          11 |
 |      75 | 0x000C      |          12 |
@@ -113,15 +113,15 @@
 |      79 | 0x0010      |          16 |
 |      80 | 0x0011      |          17 |
 |      81 | 0x0012      |          18 |
-|      82 | 0x1DBB      |        7611 |
-|      83 | 0x1DB9      |        7609 |
-|      84 | 0x1DBA      |        7610 |
-|      85 | 0x1DBC      |        7612 |
-|      86 | 0x1DD5      |        7637 |
-|      87 | 0x1DD6      |        7638 |
-|      88 | 0x1DD8      |        7640 |
+|      82 | 0x1DBD      |        7613 |
+|      83 | 0x1DBB      |        7611 |
+|      84 | 0x1DBC      |        7612 |
+|      85 | 0x1DBE      |        7614 |
+|      86 | 0x1DD7      |        7639 |
+|      87 | 0x1DD8      |        7640 |
+|      88 | 0x1DDA      |        7642 |
 |      89 | 0x0009      |           9 |
-|      90 | 0x1DD9      |        7641 |
+|      90 | 0x1DDB      |        7643 |
 |      91 | 0x0030      |          48 |
 |      92 | 0x0031      |          49 |
 |      93 | 0x0033      |          51 |
@@ -129,69 +129,69 @@
 |      95 | 0x60038     |      393272 |
 |      96 | 0x0039      |          57 |
 |      97 | 0x0023      |          35 |
-|      98 | 0x1DD7      |        7639 |
+|      98 | 0x1DD9      |        7641 |
 
 ## String References
 
-- **7560**: Hey! You look like a well-trrraveled [guy/lady]. Have you ever heard of a thing called a mannequin?
-- **7561**: You know, they're these life-sized dolls that are used to display clothes and armor. I heard that up until a few years back, you couldn't walk into a guild or tailor shop without running into one. They were all overrr the place!
-- **7562**: According to my mentor, it wasn't just the looks of a mannequin that set it apart from other dolls, but the crrraftsmanship of the joints that held the parts together.
-- **7563**: Supposedly, the joints were all crafted by a single master goldsmith whose skills were years ahead of her time. Thanks to her work, the mannequins could be posed in any way thinkable--they were more human than a Hume!
-- **7564**: Whether it be a stiff suit of armor or a complicated tunic, there wasn't a thing that didn't look naturrral on one of those works of art. Just the thought of making one of my own gets my goldsmithing heart racing.
-- **7565**: However, as you can see, there's not a mannequin to be found within five thousand malms of this place. Nobody's making 'em and nobody's using 'em. What I can't figure out is why all of 'em disappeared...
-- **7566**: So! You're gonna help me find out how I can make the display dolls. Don't give me that look! You'll get your reward. How about I make you your own mannequin? How does that sound?
-- **7567**: Hmm... I already checked the Weavers' Guild in Windurst and they didn't have any mannequins left...
-- **7568**: But maybe they still have one lying arrround the guild in Selbina!
-- **7569**: Ah-ha! So there must be some deep, darrrk reason why people stopped crafting mannequins...
-- **7570**: Good work, <Player>. But I'm still not satisfied. Hearing all this talk about curses and beastmen just gets me morrre excited! Now I just have to have one of my own!
-- **7571**: Looking at this catalog you brought back gives a fairrrly good idea of what a mannequin looks like, but it tells me nothing about what materials I'm gonna need.
-- **7572**: I think we should go on that lead the old lady at the Weavers' Guild gave us. Go on! Get your tail over to the Carpenters' Guild in San d'Oria!
-- **7573**: Diagrrrams! With these, I think I'll be able to reproduce the joints.
-- **7574**: However, without the wooden body parts, we're still in the darrrk. I wonder where we could find some...
-- **7575**: Unbelievable! You've found all the parts!
-- **7576**: I'll start on the joints rrright away. This might take me a while, but I guarantee you won't be disappointed with the final product.
-- **7577**: Ta-dah! I've done it! I've successfully reproduced the master goldsmith's finest work...well, almost. You can't actually move the joints, but the mannequin still looks great standing strrraight. And just think how marrrvelous a suit of armor will look resting on it!
-- **7578**: I've learned a lot from making this, and my next work is surrre to be a masterpiece! I still have a ways to go, but soon everyone will be calling me a master goldsmith! Oh yeah, you can take this mannequin as your reward. Thanks for all your help!
-- **7579**: So, how's my mannequin holding up? [He/She] looks prrretty good, doesn't [he/she]?
-- **7601**: Thanks to the hard work of you adventurers, my workshop has been overrrflowing with mannequin parts. Unfortunately, as you can see, I don't have much in the way of storage space here. That's why I've decided to start putting the pieces together and sell the finished prrroducts!
-- **7602**: I was thinking about asking $2 gil a mannequin. Quite a barrrgain, if you ask me.
-- **7603**: What? A few yalms over your head? Well, you could always exchange your old one for one of my brand-spankin'-new masterrrpieces.
-- **7604**: I'd still have to charrrge you $3 gil, though. Hey! How do you expect a lady to make a living?
-- **7605**: Well, what do you say?
-- **7606**: Well...? [Buy ($2 gil)./Exchange./Forget it.]
-- **7607**: And which type of mannequin would you like?
-- **7608**: Well...? [$0./$1./$2./$3./$4./$5./$6./$7./Never mind.]
-- **7609**: Are you surrre that's the one you want?
-- **7610**: Well...? [I'm sure./I don't know...]
-- **7611**: Alrrright! Here you... Wait a minute. Are you trying to pull a fast one on me? That's not enough gil to feed my dog his supperrr!
-- **7612**: Alrrright! Here you go. Sorry that I couldn't ship it to your Mog House.
-- **7613**: Okay. Well, if you change your mind, you know where I'll be!
-- **7614**: Trrrade me the goods and I'll see if it's worth exchanging. Oh, and don't forget to have your $3 gil rrready to pay the difference.
-- **7615**: Hmmm... It's still in prrretty good condition. I'd have no problem exchanging this for a new mannequin...if you had the $3 gil I was asking for.
-- **7616**: Hmmm... It's still in prrretty good condition. For $3 gil, you can exchange it for a new mannequin.
-- **7617**: What do you say? [Let's do it./Forget it.]
-- **7627**: Hey hey! It's my best customer, <Player>. No, and I'm not just saying that!
-- **7628**: Thanks to you and your frrriends, my business is booming! You want a new mannequin, I have all shapes and sizes! You want to trrrade in your old mannequin? I'll give you a grrreat deal!
-- **7629**: And now, for a limited time only, I'll even customize your mannequin! That's right, for a nominal fee, I'll brrring that piece of wood to life by changing its pose!
-- **7630**: My price list is as follows... 1 new mannequin (without trade-in): $2 gil. 1 new mannequin (with trade-in): $3 gil. Pose change: $4 gil.
-- **7631**: So, what do you say?
-- **7632**: Which transaction do you request? [Nothing./Buy ($2 gil)./Trade ($3 gil)./Pose ($4 gil).]
-- **7633**: Alright! Just trrrade me your mannequin and I can begin! Oh, and don't forget to be carrying the rrremarkably rrreasonable fee of $3 gil.
-- **7634**: I can only accept your trrrade-in after you've paid the $3-gil difference. Don't worry, I'll be waiting rrright here for you!
-- **7635**: Trrrading in your old mannequin for a new one? Rrremember, I'll need a $3-gil fee.
-- **7636**: Now let's see... Which of your mannequins' poses would you like to change?
-- **7637**: Ah, so you'd like to change your $0's pose. Here, now choose a new look for your companion from this list.
-- **7638**: Which pose do you want? [Normal.//sit.//salute (San d'Oria).//salute (Bastok).//salute (Windurst).//hurray./Special order./None of these.]
-- **7639**: Hmmm... Your mannequin will look something like this. Is that what you rrreally want?
-- **7640**: Is it? [Yes./No.]
-- **7641**: Okay! My work is done. Oh, and if you ever get tirrred of that pose, you know where to come!
-- **7642**: Hm? Hm? Hm? Could that be what I think it is...?
-- **7643**: It is! It is! A copy of $3! I've been looking all over for one of these!
-- **7644**: Let's see... ... ... ...
-- **7645**: ... ... Wow... I neverrr would have thought of that...
-- **7646**: What? You'rrre still here? Okay, okay. To thank you for the magazine, here's what I'll do. For the low, low price of $4 gil, I'll change the pose of any of your mannequins to match these sketches.
-- **7647**: Huh? You want me to do it for frrree? Hey, a lady's got to make a living, you know!
-- **7648**: Oh, and while you'rrre here, why not buy one of my high-quality mannequins to add to your collection!?
+- **7562**: Hey! You look like a well-trrraveled [guy/lady]. Have you ever heard of a thing called a mannequin?
+- **7563**: You know, they're these life-sized dolls that are used to display clothes and armor. I heard that up until a few years back, you couldn't walk into a guild or tailor shop without running into one. They were all overrr the place!
+- **7564**: According to my mentor, it wasn't just the looks of a mannequin that set it apart from other dolls, but the crrraftsmanship of the joints that held the parts together.
+- **7565**: Supposedly, the joints were all crafted by a single master goldsmith whose skills were years ahead of her time. Thanks to her work, the mannequins could be posed in any way thinkable--they were more human than a Hume!
+- **7566**: Whether it be a stiff suit of armor or a complicated tunic, there wasn't a thing that didn't look naturrral on one of those works of art. Just the thought of making one of my own gets my goldsmithing heart racing.
+- **7567**: However, as you can see, there's not a mannequin to be found within five thousand malms of this place. Nobody's making 'em and nobody's using 'em. What I can't figure out is why all of 'em disappeared...
+- **7568**: So! You're gonna help me find out how I can make the display dolls. Don't give me that look! You'll get your reward. How about I make you your own mannequin? How does that sound?
+- **7569**: Hmm... I already checked the Weavers' Guild in Windurst and they didn't have any mannequins left...
+- **7570**: But maybe they still have one lying arrround the guild in Selbina!
+- **7571**: Ah-ha! So there must be some deep, darrrk reason why people stopped crafting mannequins...
+- **7572**: Good work, <Player>. But I'm still not satisfied. Hearing all this talk about curses and beastmen just gets me morrre excited! Now I just have to have one of my own!
+- **7573**: Looking at this catalog you brought back gives a fairrrly good idea of what a mannequin looks like, but it tells me nothing about what materials I'm gonna need.
+- **7574**: I think we should go on that lead the old lady at the Weavers' Guild gave us. Go on! Get your tail over to the Carpenters' Guild in San d'Oria!
+- **7575**: Diagrrrams! With these, I think I'll be able to reproduce the joints.
+- **7576**: However, without the wooden body parts, we're still in the darrrk. I wonder where we could find some...
+- **7577**: Unbelievable! You've found all the parts!
+- **7578**: I'll start on the joints rrright away. This might take me a while, but I guarantee you won't be disappointed with the final product.
+- **7579**: Ta-dah! I've done it! I've successfully reproduced the master goldsmith's finest work...well, almost. You can't actually move the joints, but the mannequin still looks great standing strrraight. And just think how marrrvelous a suit of armor will look resting on it!
+- **7580**: I've learned a lot from making this, and my next work is surrre to be a masterpiece! I still have a ways to go, but soon everyone will be calling me a master goldsmith! Oh yeah, you can take this mannequin as your reward. Thanks for all your help!
+- **7581**: So, how's my mannequin holding up? [He/She] looks prrretty good, doesn't [he/she]?
+- **7603**: Thanks to the hard work of you adventurers, my workshop has been overrrflowing with mannequin parts. Unfortunately, as you can see, I don't have much in the way of storage space here. That's why I've decided to start putting the pieces together and sell the finished prrroducts!
+- **7604**: I was thinking about asking $2 gil a mannequin. Quite a barrrgain, if you ask me.
+- **7605**: What? A few yalms over your head? Well, you could always exchange your old one for one of my brand-spankin'-new masterrrpieces.
+- **7606**: I'd still have to charrrge you $3 gil, though. Hey! How do you expect a lady to make a living?
+- **7607**: Well, what do you say?
+- **7608**: Well...? [Buy ($2 gil)./Exchange./Forget it.]
+- **7609**: And which type of mannequin would you like?
+- **7610**: Well...? [$0./$1./$2./$3./$4./$5./$6./$7./Never mind.]
+- **7611**: Are you surrre that's the one you want?
+- **7612**: Well...? [I'm sure./I don't know...]
+- **7613**: Alrrright! Here you... Wait a minute. Are you trying to pull a fast one on me? That's not enough gil to feed my dog his supperrr!
+- **7614**: Alrrright! Here you go. Sorry that I couldn't ship it to your Mog House.
+- **7615**: Okay. Well, if you change your mind, you know where I'll be!
+- **7616**: Trrrade me the goods and I'll see if it's worth exchanging. Oh, and don't forget to have your $3 gil rrready to pay the difference.
+- **7617**: Hmmm... It's still in prrretty good condition. I'd have no problem exchanging this for a new mannequin...if you had the $3 gil I was asking for.
+- **7618**: Hmmm... It's still in prrretty good condition. For $3 gil, you can exchange it for a new mannequin.
+- **7619**: What do you say? [Let's do it./Forget it.]
+- **7629**: Hey hey! It's my best customer, <Player>. No, and I'm not just saying that!
+- **7630**: Thanks to you and your frrriends, my business is booming! You want a new mannequin, I have all shapes and sizes! You want to trrrade in your old mannequin? I'll give you a grrreat deal!
+- **7631**: And now, for a limited time only, I'll even customize your mannequin! That's right, for a nominal fee, I'll brrring that piece of wood to life by changing its pose!
+- **7632**: My price list is as follows... 1 new mannequin (without trade-in): $2 gil. 1 new mannequin (with trade-in): $3 gil. Pose change: $4 gil.
+- **7633**: So, what do you say?
+- **7634**: Which transaction do you request? [Nothing./Buy ($2 gil)./Trade ($3 gil)./Pose ($4 gil).]
+- **7635**: Alright! Just trrrade me your mannequin and I can begin! Oh, and don't forget to be carrying the rrremarkably rrreasonable fee of $3 gil.
+- **7636**: I can only accept your trrrade-in after you've paid the $3-gil difference. Don't worry, I'll be waiting rrright here for you!
+- **7637**: Trrrading in your old mannequin for a new one? Rrremember, I'll need a $3-gil fee.
+- **7638**: Now let's see... Which of your mannequins' poses would you like to change?
+- **7639**: Ah, so you'd like to change your $0's pose. Here, now choose a new look for your companion from this list.
+- **7640**: Which pose do you want? [Normal.//sit.//salute (San d'Oria).//salute (Bastok).//salute (Windurst).//hurray./Special order./None of these.]
+- **7641**: Hmmm... Your mannequin will look something like this. Is that what you rrreally want?
+- **7642**: Is it? [Yes./No.]
+- **7643**: Okay! My work is done. Oh, and if you ever get tirrred of that pose, you know where to come!
+- **7644**: Hm? Hm? Hm? Could that be what I think it is...?
+- **7645**: It is! It is! A copy of $3! I've been looking all over for one of these!
+- **7646**: Let's see... ... ... ...
+- **7647**: ... ... Wow... I neverrr would have thought of that...
+- **7648**: What? You'rrre still here? Okay, okay. To thank you for the magazine, here's what I'll do. For the low, low price of $4 gil, I'll change the pose of any of your mannequins to match these sketches.
+- **7649**: Huh? You want me to do it for frrree? Hey, a lady's got to make a living, you know!
+- **7650**: Oh, and while you'rrre here, why not buy one of my high-quality mannequins to add to your collection!?
 
 ## Events
 
@@ -280,29 +280,29 @@
   8: 0x0087 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [EventEntity, EventEntity], work=[3*, 0*]
   9: 0x0098 [0x1A] CALL_SUBROUTINE(address=0x0043)
  10: 0x009B [0x1E] EventEntity looks at LocalPlayer and starts talking
- 11: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
+ 11: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
     → "Hey! You look like a well-trrraveled [guy/lady]. Have you ever heard of a thing called a mannequin?"
  12: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 14: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7561*)
+ 14: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
     → "You know, they're these life-sized dolls that are used to display clothes and armor. I heard that up until a few years back, you couldn't walk into a guild or tailor shop without running into one. They were all overrr the place!"
  15: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
+ 16: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
     → "According to my mentor, it wasn't just the looks of a mannequin that set it apart from other dolls, but the crrraftsmanship of the joints that held the parts together."
  17: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
- 19: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
+ 19: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
     → "Supposedly, the joints were all crafted by a single master goldsmith whose skills were years ahead of her time. Thanks to her work, the mannequins could be posed in any way thinkable--they were more human than a Hume!"
  20: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
- 22: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
+ 22: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
     → "Whether it be a stiff suit of armor or a complicated tunic, there wasn't a thing that didn't look naturrral on one of those works of art. Just the thought of making one of my own gets my goldsmithing heart racing."
  23: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
+ 24: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
     → "However, as you can see, there's not a mannequin to be found within five thousand malms of this place. Nobody's making 'em and nobody's using 'em. What I can't figure out is why all of 'em disappeared..."
  25: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 27: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
+ 27: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
     → "So! You're gonna help me find out how I can make the display dolls. Don't give me that look! You'll get your reward. How about I make you your own mannequin? How does that sound?"
  28: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00F8 [0x1A] CALL_SUBROUTINE(address=0x0022)
@@ -334,11 +334,11 @@
 
 ```
   0: 0x0111 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
+  1: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=7569*)
     → "Hmm... I already checked the Weavers' Guild in Windurst and they didn't have any mannequins left..."
   2: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x011A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
+  4: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7570*)
     → "But maybe they still have one lying arrround the guild in Selbina!"
   5: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x012D [0x21] END_EVENT
@@ -369,18 +369,18 @@
 
 ```
   0: 0x012F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7569*)
+  1: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7571*)
     → "Ah-ha! So there must be some deep, darrrk reason why people stopped crafting mannequins..."
   2: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0138 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=7570*)
+  4: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=7572*)
     → "Good work, <Player>. But I'm still not satisfied. Hearing all this talk about curses and beastmen just gets me morrre excited! Now I just have to have one of my own!"
   5: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=7571*)
+  6: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=7573*)
     → "Looking at this catalog you brought back gives a fairrrly good idea of what a mannequin looks like, but it tells me nothing about what materials I'm gonna need."
   7: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x014F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
-  9: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7572*)
+  9: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
     → "I think we should go on that lead the old lady at the Weavers' Guild gave us. Go on! Get your tail over to the Carpenters' Guild in San d'Oria!"
  10: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0162 [0x21] END_EVENT
@@ -409,11 +409,11 @@
 
 ```
   0: 0x0164 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7573*)
+  1: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7575*)
     → "Diagrrrams! With these, I think I'll be able to reproduce the joints."
   2: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x016D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
+  4: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=7576*)
     → "However, without the wooden body parts, we're still in the darrrk. I wonder where we could find some..."
   5: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0180 [0x21] END_EVENT
@@ -443,11 +443,11 @@
 ```
   0: 0x0182 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0183 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7575*)
+  2: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
     → "Unbelievable! You've found all the parts!"
   3: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x018C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7576*)
+  5: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
     → "I'll start on the joints rrright away. This might take me a while, but I guarantee you won't be disappointed with the final product."
   6: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x019F [0x21] END_EVENT
@@ -474,7 +474,7 @@
 
 ```
   0: 0x01A1 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7576*)
+  1: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
     → "I'll start on the joints rrright away. This might take me a while, but I guarantee you won't be disappointed with the final product."
   2: 0x01A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01AA [0x21] END_EVENT
@@ -518,13 +518,13 @@
   8: 0x01CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[3*, 0*]
   9: 0x01DD [0x1A] CALL_SUBROUTINE(address=0x0043)
  10: 0x01E0 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 11: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
+ 11: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
     → "Ta-dah! I've done it! I've successfully reproduced the master goldsmith's finest work...well, almost. You can't actually move the joints, but the mannequin still looks great standing strrraight. And just think how marrrvelous a suit of armor will look resting on it!"
  12: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  14: 0x01EA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  15: 0x01EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
- 16: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
+ 16: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7580*)
     → "I've learned a lot from making this, and my next work is surrre to be a masterpiece! I still have a ways to go, but soon everyone will be calling me a master goldsmith! Oh yeah, you can take this mannequin as your reward. Thanks for all your help!"
  17: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x01FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -556,7 +556,7 @@
 
 ```
   0: 0x0219 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
+  1: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7581*)
     → "So, how's my mannequin holding up? [He/She] looks prrretty good, doesn't [he/she]?"
   2: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0222 [0x21] END_EVENT
@@ -606,30 +606,30 @@
 
 ```
   0: 0x0224 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
+  1: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7581*)
     → "So, how's my mannequin holding up? [He/She] looks prrretty good, doesn't [he/she]?"
   2: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7601*)
+  3: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7603*)
     → "Thanks to the hard work of you adventurers, my workshop has been overrrflowing with mannequin parts. Unfortunately, as you can see, I don't have much in the way of storage space here. That's why I've decided to start putting the pieces together and sell the finished prrroducts!"
   4: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=7602*)
+  5: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
     → "I was thinking about asking $2 gil a mannequin. Quite a barrrgain, if you ask me."
   6: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=7603*)
+  7: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
     → "What? A few yalms over your head? Well, you could always exchange your old one for one of my brand-spankin'-new masterrrpieces."
   8: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0239 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
+  9: 0x0239 [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
     → "I'd still have to charrrge you $3 gil, though. Hey! How do you expect a lady to make a living?"
  10: 0x023C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
+ 11: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
     → "Well, what do you say?"
  12: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0241 [0x24] CREATE_DIALOG(message_id=7606*, default_option=2*, option_flags=0*)
+ 13: 0x0241 [0x24] CREATE_DIALOG(message_id=7608*, default_option=2*, option_flags=0*)
     → "Well...? [Buy ($2 gil)./Exchange./Forget it.]"
  14: 0x0248 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0249 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0372
  16: 0x0251 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 17: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+ 17: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
     → "And which type of mannequin would you like?"
  18: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0256 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
@@ -641,7 +641,7 @@
  25: 0x0274 [0x03] Work_Zone[7] = 261*
  26: 0x0279 [0x03] Work_Zone[8] = 262*
  27: 0x027E [0x03] Work_Zone[9] = 263*
- 28: 0x0283 [0x24] CREATE_DIALOG(message_id=7608*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 28: 0x0283 [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Well...? [$0./$1./$2./$3./$4./$5./$6./$7./Never mind.]"
  29: 0x028A [0x25] WAIT_DIALOG_SELECT()
  30: 0x028B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A3
@@ -685,7 +685,7 @@
  68: 0x0345 [0x1A] CALL_SUBROUTINE(address=0x0891)
  69: 0x0348 [0x01] GOTO 0x0364
  70: 0x034B [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0364
- 71: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+ 71: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "Okay. Well, if you change your mind, you know where I'll be!"
  72: 0x0356 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0357 [0x03] Work_Zone[1] = 0*
@@ -697,13 +697,13 @@ SUBROUTINE_0364:
  77: 0x036C [0x01] GOTO 0x0283
  78: 0x036F [0x01] GOTO 0x039A
  79: 0x0372 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0386
- 80: 0x037A [0x1D] PRINT_EVENT_MESSAGE(message_id=7614*)
+ 80: 0x037A [0x1D] PRINT_EVENT_MESSAGE(message_id=7616*)
     → "Trrrade me the goods and I'll see if it's worth exchanging. Oh, and don't forget to have your $3 gil rrready to pay the difference."
  81: 0x037D [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x037E [0x03] Work_Zone[1] = 0*
  83: 0x0383 [0x01] GOTO 0x039A
  84: 0x0386 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x039A
- 85: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+ 85: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "Okay. Well, if you change your mind, you know where I'll be!"
  86: 0x0391 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0392 [0x03] Work_Zone[1] = 0*
@@ -762,20 +762,20 @@ SUBROUTINE_039A:
   2: 0x03A2 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0504
   3: 0x03AA [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
   4: 0x03AF [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x03BE
-  5: 0x03B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7616*)
+  5: 0x03B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7618*)
     → "Hmmm... It's still in prrretty good condition. For $3 gil, you can exchange it for a new mannequin."
   6: 0x03BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03BB [0x01] GOTO 0x03C2
-  8: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7635*)
+  8: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7637*)
     → "Trrrading in your old mannequin for a new one? Rrremember, I'll need a $3-gil fee."
   9: 0x03C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03C2:
- 10: 0x03C2 [0x24] CREATE_DIALOG(message_id=7617*, default_option=1*, option_flags=0*)
+ 10: 0x03C2 [0x24] CREATE_DIALOG(message_id=7619*, default_option=1*, option_flags=0*)
     → "What do you say? [Let's do it./Forget it.]"
  11: 0x03C9 [0x25] WAIT_DIALOG_SELECT()
  12: 0x03CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04ED
- 13: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+ 13: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
     → "And which type of mannequin would you like?"
  14: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x03D6 [0x03] Work_Zone[2] = 256*
@@ -788,7 +788,7 @@ SUBROUTINE_03C2:
  22: 0x03F9 [0x03] Work_Zone[9] = 263*
 
 SUBROUTINE_03FE:
- 23: 0x03FE [0x24] CREATE_DIALOG(message_id=7608*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 23: 0x03FE [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Well...? [$0./$1./$2./$3./$4./$5./$6./$7./Never mind.]"
  24: 0x0405 [0x25] WAIT_DIALOG_SELECT()
  25: 0x0406 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x041E
@@ -832,7 +832,7 @@ SUBROUTINE_03FE:
  63: 0x04BE [0x03] Work_Zone[1] = 8*
  64: 0x04C3 [0x01] GOTO 0x04DF
  65: 0x04C6 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x04DF
- 66: 0x04CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+ 66: 0x04CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "Okay. Well, if you change your mind, you know where I'll be!"
  67: 0x04D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x04D2 [0x03] Work_Zone[1] = 0*
@@ -844,7 +844,7 @@ SUBROUTINE_04DF:
  72: 0x04E7 [0x01] GOTO 0x03FE
  73: 0x04EA [0x01] GOTO 0x0501
  74: 0x04ED [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0501
- 75: 0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+ 75: 0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "Okay. Well, if you change your mind, you know where I'll be!"
  76: 0x04F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x04F9 [0x03] Work_Zone[1] = 0*
@@ -853,11 +853,11 @@ SUBROUTINE_04DF:
 SUBROUTINE_0501:
  79: 0x0501 [0x01] GOTO 0x051C
  80: 0x0504 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0513
- 81: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
+ 81: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=7617*)
     → "Hmmm... It's still in prrretty good condition. I'd have no problem exchanging this for a new mannequin...if you had the $3 gil I was asking for."
  82: 0x050F [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0510 [0x01] GOTO 0x0517
- 84: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=7634*)
+ 84: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=7636*)
     → "I can only accept your trrrade-in after you've paid the $3-gil difference. Don't worry, I'll be waiting rrright here for you!"
  85: 0x0516 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1126,46 +1126,46 @@ SUBROUTINE_051C:
 ```
   0: 0x051E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0523 [0x02] IF !(Work_Zone[8] == 713*) GOTO 0x05A0
-  2: 0x052B [0x1D] PRINT_EVENT_MESSAGE(message_id=7642*)
+  2: 0x052B [0x1D] PRINT_EVENT_MESSAGE(message_id=7644*)
     → "Hm? Hm? Hm? Could that be what I think it is...?"
   3: 0x052E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x052F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x053E [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
+  5: 0x053E [0x1D] PRINT_EVENT_MESSAGE(message_id=7645*)
     → "It is! It is! A copy of $3! I've been looking all over for one of these!"
   6: 0x0541 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0542 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
   8: 0x0551 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  9: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=7644*)
+  9: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=7646*)
     → "Let's see... ... ... ..."
  10: 0x0563 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0564 [0x1D] PRINT_EVENT_MESSAGE(message_id=7645*)
+ 11: 0x0564 [0x1D] PRINT_EVENT_MESSAGE(message_id=7647*)
     → "... ... Wow... I neverrr would have thought of that..."
  12: 0x0567 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0568 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 14: 0x0577 [0x1D] PRINT_EVENT_MESSAGE(message_id=7646*)
+ 14: 0x0577 [0x1D] PRINT_EVENT_MESSAGE(message_id=7648*)
     → "What? You'rrre still here? Okay, okay. To thank you for the magazine, here's what I'll do. For the low, low price of $4 gil, I'll change the pose of any of your mannequins to match these sketches."
  15: 0x057A [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x057B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 17: 0x058A [0x1D] PRINT_EVENT_MESSAGE(message_id=7647*)
+ 17: 0x058A [0x1D] PRINT_EVENT_MESSAGE(message_id=7649*)
     → "Huh? You want me to do it for frrree? Hey, a lady's got to make a living, you know!"
  18: 0x058D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x058E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
  20: 0x059D [0x01] GOTO 0x05B0
- 21: 0x05A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7627*)
+ 21: 0x05A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
     → "Hey hey! It's my best customer, <Player>. No, and I'm not just saying that!"
  22: 0x05A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7628*)
+ 23: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
     → "Thanks to you and your frrriends, my business is booming! You want a new mannequin, I have all shapes and sizes! You want to trrrade in your old mannequin? I'll give you a grrreat deal!"
  24: 0x05A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
+ 25: 0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
     → "And now, for a limited time only, I'll even customize your mannequin! That's right, for a nominal fee, I'll brrring that piece of wood to life by changing its pose!"
  26: 0x05AB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
+ 27: 0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
     → "My price list is as follows... 1 new mannequin (without trade-in): $2 gil. 1 new mannequin (with trade-in): $3 gil. Pose change: $4 gil."
  28: 0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_05B0:
- 29: 0x05B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
+ 29: 0x05B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
     → "So, what do you say?"
  30: 0x05B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x05B4 [0x06] ExtData[1]->WorkLocal[0] = 0
@@ -1178,7 +1178,7 @@ SUBROUTINE_05B0:
 SUBROUTINE_05D8:
  37: 0x05D8 [0x02] IF !(Work_Zone[8] == 713*) GOTO 0x05FD
  38: 0x05E0 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x05EF
- 39: 0x05E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7648*)
+ 39: 0x05E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7650*)
     → "Oh, and while you'rrre here, why not buy one of my high-quality mannequins to add to your collection!?"
  40: 0x05EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x05EC [0x01] GOTO 0x05F6
@@ -1186,18 +1186,18 @@ SUBROUTINE_05D8:
 
 SUBROUTINE_05F6:
  43: 0x05F6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=2*, condition_work_offset=1*)
- 44: 0x05FD [0x24] CREATE_DIALOG(message_id=7632*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 44: 0x05FD [0x24] CREATE_DIALOG(message_id=7634*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which transaction do you request? [Nothing./Buy ($2 gil)./Trade ($3 gil)./Pose ($4 gil).]"
  45: 0x0604 [0x25] WAIT_DIALOG_SELECT()
  46: 0x0605 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0619
- 47: 0x060D [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+ 47: 0x060D [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "Okay. Well, if you change your mind, you know where I'll be!"
  48: 0x0610 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0611 [0x03] Work_Zone[1] = 0*
  50: 0x0616 [0x01] GOTO 0x088F
  51: 0x0619 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0742
  52: 0x0621 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 53: 0x0622 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+ 53: 0x0622 [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
     → "And which type of mannequin would you like?"
  54: 0x0625 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0626 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
@@ -1211,7 +1211,7 @@ SUBROUTINE_05F6:
  63: 0x064E [0x03] Work_Zone[9] = 263*
 
 SUBROUTINE_0653:
- 64: 0x0653 [0x24] CREATE_DIALOG(message_id=7608*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 64: 0x0653 [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Well...? [$0./$1./$2./$3./$4./$5./$6./$7./Never mind.]"
  65: 0x065A [0x25] WAIT_DIALOG_SELECT()
  66: 0x065B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0673
@@ -1255,7 +1255,7 @@ SUBROUTINE_0653:
 104: 0x0715 [0x1A] CALL_SUBROUTINE(address=0x0891)
 105: 0x0718 [0x01] GOTO 0x0734
 106: 0x071B [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0734
-107: 0x0723 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+107: 0x0723 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "Okay. Well, if you change your mind, you know where I'll be!"
 108: 0x0726 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0727 [0x03] Work_Zone[1] = 0*
@@ -1267,7 +1267,7 @@ SUBROUTINE_0734:
 113: 0x073C [0x01] GOTO 0x0653
 114: 0x073F [0x01] GOTO 0x088F
 115: 0x0742 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0756
-116: 0x074A [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
+116: 0x074A [0x1D] PRINT_EVENT_MESSAGE(message_id=7635*)
     → "Alright! Just trrrade me your mannequin and I can begin! Oh, and don't forget to be carrying the rrremarkably rrreasonable fee of $3 gil."
 117: 0x074D [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x074E [0x03] Work_Zone[1] = 0*
@@ -1275,7 +1275,7 @@ SUBROUTINE_0734:
 120: 0x0756 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x088F
 121: 0x075E [0x02] IF !(Work_Zone[7] < Work_Zone[6]) GOTO 0x0883
 122: 0x0766 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-123: 0x0767 [0x1D] PRINT_EVENT_MESSAGE(message_id=7636*)
+123: 0x0767 [0x1D] PRINT_EVENT_MESSAGE(message_id=7638*)
     → "Now let's see... Which of your mannequins' poses would you like to change?"
 124: 0x076A [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x076B [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
@@ -1289,7 +1289,7 @@ SUBROUTINE_0734:
 133: 0x0795 [0x03] Work_Zone[7] = 261*
 134: 0x079A [0x03] Work_Zone[8] = 262*
 135: 0x079F [0x03] Work_Zone[9] = 263*
-136: 0x07A4 [0x24] CREATE_DIALOG(message_id=7608*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+136: 0x07A4 [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Well...? [$0./$1./$2./$3./$4./$5./$6./$7./Never mind.]"
 137: 0x07AB [0x25] WAIT_DIALOG_SELECT()
 138: 0x07AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07C4
@@ -1333,7 +1333,7 @@ SUBROUTINE_0734:
 176: 0x0866 [0x1A] CALL_SUBROUTINE(address=0x0918)
 177: 0x0869 [0x01] GOTO 0x0880
 178: 0x086C [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0880
-179: 0x0874 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+179: 0x0874 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "Okay. Well, if you change your mind, you know where I'll be!"
 180: 0x0877 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0878 [0x03] Work_Zone[1] = 0*
@@ -1341,7 +1341,7 @@ SUBROUTINE_0734:
 
 SUBROUTINE_0880:
 183: 0x0880 [0x01] GOTO 0x088C
-184: 0x0883 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
+184: 0x0883 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
     → "Alrrright! Here you... Wait a minute. Are you trying to pull a fast one on me? That's not enough gil to feed my dog his supperrr!"
 185: 0x0886 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x0887 [0x03] Work_Zone[1] = 0*
@@ -1355,23 +1355,23 @@ SUBROUTINE_088F:
 
 SUBROUTINE_0891:
 190: 0x0891 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[0])
-191: 0x0894 [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
+191: 0x0894 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
     → "Are you surrre that's the one you want?"
 192: 0x0897 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0898 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-194: 0x089B [0x24] CREATE_DIALOG(message_id=7610*, default_option=1*, option_flags=0*)
+194: 0x089B [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
     → "Well...? [I'm sure./I don't know...]"
 195: 0x08A2 [0x25] WAIT_DIALOG_SELECT()
 196: 0x08A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08D4
 197: 0x08AB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 198: 0x08AD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 199: 0x08AF [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x08C3
-200: 0x08B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7612*)
+200: 0x08B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7614*)
     → "Alrrright! Here you go. Sorry that I couldn't ship it to your Mog House."
 201: 0x08BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x08BB [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[1]
 203: 0x08C0 [0x01] GOTO 0x08CC
-204: 0x08C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
+204: 0x08C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
     → "Alrrright! Here you... Wait a minute. Are you trying to pull a fast one on me? That's not enough gil to feed my dog his supperrr!"
 205: 0x08C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x08C7 [0x03] Work_Zone[1] = 0*
@@ -1388,7 +1388,7 @@ SUBROUTINE_08E4:
 
 SUBROUTINE_0918:
 213: 0x0918 [0x06] ExtData[1]->WorkLocal[3] = 0
-214: 0x091B [0x1D] PRINT_EVENT_MESSAGE(message_id=7637*)
+214: 0x091B [0x1D] PRINT_EVENT_MESSAGE(message_id=7639*)
     → "Ah, so you'd like to change your $0's pose. Here, now choose a new look for your companion from this list."
 215: 0x091E [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x091F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -1418,18 +1418,18 @@ SUBROUTINE_0918:
 240: 0x09A8 [0x01] GOTO 0x09AB
 
 SUBROUTINE_09AB:
-241: 0x09AB [0x24] CREATE_DIALOG(message_id=7638*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+241: 0x09AB [0x24] CREATE_DIALOG(message_id=7640*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Which pose do you want? [Normal.//sit.//salute (San d'Oria).//salute (Bastok).//salute (Windurst).//hurray./Special order./None of these.]"
 242: 0x09B2 [0x25] WAIT_DIALOG_SELECT()
 243: 0x09B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09F2
 244: 0x09BB [0x1A] CALL_SUBROUTINE(address=0x0B9E)
-245: 0x09BE [0x24] CREATE_DIALOG(message_id=7640*, default_option=1*, option_flags=0*)
+245: 0x09BE [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
     → "Is it? [Yes./No.]"
 246: 0x09C5 [0x25] WAIT_DIALOG_SELECT()
 247: 0x09C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09E1
 248: 0x09CE [0x1A] CALL_SUBROUTINE(address=0x134B)
 249: 0x09D1 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=0*)
-250: 0x09DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
+250: 0x09DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
     → "Okay! My work is done. Oh, and if you ever get tirrred of that pose, you know where to come!"
 251: 0x09DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x09DE [0x01] GOTO 0x09EF
@@ -1441,13 +1441,13 @@ SUBROUTINE_09EF:
 256: 0x09F2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0A34
 257: 0x09FA [0x05] ExtData[1]->WorkLocal[3] = 1
 258: 0x09FD [0x1A] CALL_SUBROUTINE(address=0x0B9E)
-259: 0x0A00 [0x24] CREATE_DIALOG(message_id=7640*, default_option=1*, option_flags=0*)
+259: 0x0A00 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
     → "Is it? [Yes./No.]"
 260: 0x0A07 [0x25] WAIT_DIALOG_SELECT()
 261: 0x0A08 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A23
 262: 0x0A10 [0x1A] CALL_SUBROUTINE(address=0x134B)
 263: 0x0A13 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
-264: 0x0A1C [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
+264: 0x0A1C [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
     → "Okay! My work is done. Oh, and if you ever get tirrred of that pose, you know where to come!"
 265: 0x0A1F [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x0A20 [0x01] GOTO 0x0A31
@@ -1459,13 +1459,13 @@ SUBROUTINE_0A31:
 270: 0x0A34 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0A76
 271: 0x0A3C [0x05] ExtData[1]->WorkLocal[3] = 1
 272: 0x0A3F [0x1A] CALL_SUBROUTINE(address=0x0B9E)
-273: 0x0A42 [0x24] CREATE_DIALOG(message_id=7640*, default_option=1*, option_flags=0*)
+273: 0x0A42 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
     → "Is it? [Yes./No.]"
 274: 0x0A49 [0x25] WAIT_DIALOG_SELECT()
 275: 0x0A4A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A65
 276: 0x0A52 [0x1A] CALL_SUBROUTINE(address=0x134B)
 277: 0x0A55 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
-278: 0x0A5E [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
+278: 0x0A5E [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
     → "Okay! My work is done. Oh, and if you ever get tirrred of that pose, you know where to come!"
 279: 0x0A61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x0A62 [0x01] GOTO 0x0A73
@@ -1477,13 +1477,13 @@ SUBROUTINE_0A73:
 284: 0x0A76 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0AB8
 285: 0x0A7E [0x05] ExtData[1]->WorkLocal[3] = 1
 286: 0x0A81 [0x1A] CALL_SUBROUTINE(address=0x0B9E)
-287: 0x0A84 [0x24] CREATE_DIALOG(message_id=7640*, default_option=1*, option_flags=0*)
+287: 0x0A84 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
     → "Is it? [Yes./No.]"
 288: 0x0A8B [0x25] WAIT_DIALOG_SELECT()
 289: 0x0A8C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AA7
 290: 0x0A94 [0x1A] CALL_SUBROUTINE(address=0x134B)
 291: 0x0A97 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
-292: 0x0AA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
+292: 0x0AA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
     → "Okay! My work is done. Oh, and if you ever get tirrred of that pose, you know where to come!"
 293: 0x0AA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x0AA4 [0x01] GOTO 0x0AB5
@@ -1495,13 +1495,13 @@ SUBROUTINE_0AB5:
 298: 0x0AB8 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0AFA
 299: 0x0AC0 [0x05] ExtData[1]->WorkLocal[3] = 1
 300: 0x0AC3 [0x1A] CALL_SUBROUTINE(address=0x0B9E)
-301: 0x0AC6 [0x24] CREATE_DIALOG(message_id=7640*, default_option=1*, option_flags=0*)
+301: 0x0AC6 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
     → "Is it? [Yes./No.]"
 302: 0x0ACD [0x25] WAIT_DIALOG_SELECT()
 303: 0x0ACE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AE9
 304: 0x0AD6 [0x1A] CALL_SUBROUTINE(address=0x134B)
 305: 0x0AD9 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
-306: 0x0AE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
+306: 0x0AE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
     → "Okay! My work is done. Oh, and if you ever get tirrred of that pose, you know where to come!"
 307: 0x0AE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x0AE6 [0x01] GOTO 0x0AF7
@@ -1513,13 +1513,13 @@ SUBROUTINE_0AF7:
 312: 0x0AFA [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0B3C
 313: 0x0B02 [0x05] ExtData[1]->WorkLocal[3] = 1
 314: 0x0B05 [0x1A] CALL_SUBROUTINE(address=0x0B9E)
-315: 0x0B08 [0x24] CREATE_DIALOG(message_id=7640*, default_option=1*, option_flags=0*)
+315: 0x0B08 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
     → "Is it? [Yes./No.]"
 316: 0x0B0F [0x25] WAIT_DIALOG_SELECT()
 317: 0x0B10 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B2B
 318: 0x0B18 [0x1A] CALL_SUBROUTINE(address=0x134B)
 319: 0x0B1B [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=8*)
-320: 0x0B24 [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
+320: 0x0B24 [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
     → "Okay! My work is done. Oh, and if you ever get tirrred of that pose, you know where to come!"
 321: 0x0B27 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x0B28 [0x01] GOTO 0x0B39
@@ -1531,13 +1531,13 @@ SUBROUTINE_0B39:
 326: 0x0B3C [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0B7E
 327: 0x0B44 [0x05] ExtData[1]->WorkLocal[3] = 1
 328: 0x0B47 [0x1A] CALL_SUBROUTINE(address=0x0B9E)
-329: 0x0B4A [0x24] CREATE_DIALOG(message_id=7640*, default_option=1*, option_flags=0*)
+329: 0x0B4A [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
     → "Is it? [Yes./No.]"
 330: 0x0B51 [0x25] WAIT_DIALOG_SELECT()
 331: 0x0B52 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B6D
 332: 0x0B5A [0x1A] CALL_SUBROUTINE(address=0x134B)
 333: 0x0B5D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=16*)
-334: 0x0B66 [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
+334: 0x0B66 [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
     → "Okay! My work is done. Oh, and if you ever get tirrred of that pose, you know where to come!"
 335: 0x0B69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x0B6A [0x01] GOTO 0x0B7B
@@ -1549,7 +1549,7 @@ SUBROUTINE_0B7B:
 340: 0x0B7E [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0B9D
 341: 0x0B86 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0B91
 342: 0x0B8E [0x1A] CALL_SUBROUTINE(address=0x134B)
-343: 0x0B91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+343: 0x0B91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "Okay. Well, if you change your mind, you know where I'll be!"
 344: 0x0B94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 345: 0x0B95 [0x03] Work_Zone[1] = 0*
@@ -1906,7 +1906,7 @@ SUBROUTINE_1320:
 674: 0x1320 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
 675: 0x1326 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 676: 0x1337 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
-677: 0x1346 [0x1D] PRINT_EVENT_MESSAGE(message_id=7639*)
+677: 0x1346 [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
     → "Hmmm... Your mannequin will look something like this. Is that what you rrreally want?"
 678: 0x1349 [0x23] WAIT_FOR_DIALOG_INTERACTION
 679: 0x134A [0x1B] RETURN
@@ -1938,11 +1938,11 @@ SUBROUTINE_134B:
 ```
 # Dead code (unreachable instructions):
      0x08E5 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[0])
-     0x08E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
+     0x08E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
     → "Are you surrre that's the one you want?"
      0x08EB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08EC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x08EF [0x24] CREATE_DIALOG(message_id=7610*, default_option=1*, option_flags=0*)
+     0x08EF [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
     → "Well...? [I'm sure./I don't know...]"
      0x08F6 [0x25] WAIT_DIALOG_SELECT()
      0x08F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0907

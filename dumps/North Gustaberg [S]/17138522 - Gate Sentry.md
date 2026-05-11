@@ -24,42 +24,42 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E9B      |        7835 |
+|       0 | 0x1E9D      |        7837 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x1EA0      |        7840 |
+|       2 | 0x1EA2      |        7842 |
 |       3 | 0x001E      |          30 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x1E9F      |        7839 |
+|       5 | 0x1EA1      |        7841 |
 |       6 | 0x0003      |           3 |
-|       7 | 0x1EA5      |        7845 |
+|       7 | 0x1EA7      |        7847 |
 |       8 | 0x0004      |           4 |
 |       9 | 0x0000      |           0 |
-|      10 | 0x1E9A      |        7834 |
-|      11 | 0x1E9C      |        7836 |
-|      12 | 0x1E9D      |        7837 |
-|      13 | 0x1E9E      |        7838 |
+|      10 | 0x1E9C      |        7836 |
+|      11 | 0x1E9E      |        7838 |
+|      12 | 0x1E9F      |        7839 |
+|      13 | 0x1EA0      |        7840 |
 |      14 | 0x0005      |           5 |
-|      15 | 0x1EA4      |        7844 |
+|      15 | 0x1EA6      |        7846 |
 |      16 | 0x000A      |          10 |
-|      17 | 0x1EB8      |        7864 |
-|      18 | 0x1EB9      |        7865 |
+|      17 | 0x1EBA      |        7866 |
+|      18 | 0x1EBB      |        7867 |
 |      19 | 0x000B      |          11 |
-|      20 | 0x1EBA      |        7866 |
+|      20 | 0x1EBC      |        7868 |
 
 ## String References
 
-- **7834**: These are the supplies you are to deliver to the stronghold in this area.
-- **7835**: The supply unit carrying rations and munitions to our stronghold in this area was attacked en route, and forced to abandon the cargo. You are to locate the supplies and deliver them to their final destination.
-- **7836**: Some of the items are raw and will spoil if not delivered immediately. You must hurry.
-- **7837**: Some of the items are very delicate and will be destroyed if you are not careful. Avoid all confrontation with the enemy.
-- **7838**: Now move out.
-- **7839**: What are you waiting for, <Player>!? Move out!
-- **7840**: This is an Allied Checkpoint Garrison.
-- **7844**: Alright, <Player>. The reinforcements are ready to be escorted to the stronghold in this area.
-- **7845**: Welcome, <Player>. The troops you are to guide to the stronghold haven't arrived yet. Please wait a little longer.
-- **7864**: About time you showed up, soldier. This here's the shipment of materials you'll be transporting.
-- **7865**: I suspect you've already been briefed, but this is some volatile, dangerous stuff. But you signed up for this mission, so we're counting on you to deliver it to the stronghold before its power dissipates.
-- **7866**: You'd best deliver that to the stronghold while it still packs some oomph.
+- **7836**: These are the supplies you are to deliver to the stronghold in this area.
+- **7837**: The supply unit carrying rations and munitions to our stronghold in this area was attacked en route, and forced to abandon the cargo. You are to locate the supplies and deliver them to their final destination.
+- **7838**: Some of the items are raw and will spoil if not delivered immediately. You must hurry.
+- **7839**: Some of the items are very delicate and will be destroyed if you are not careful. Avoid all confrontation with the enemy.
+- **7840**: Now move out.
+- **7841**: What are you waiting for, <Player>!? Move out!
+- **7842**: This is an Allied Checkpoint Garrison.
+- **7846**: Alright, <Player>. The reinforcements are ready to be escorted to the stronghold in this area.
+- **7847**: Welcome, <Player>. The troops you are to guide to the stronghold haven't arrived yet. Please wait a little longer.
+- **7866**: About time you showed up, soldier. This here's the shipment of materials you'll be transporting.
+- **7867**: I suspect you've already been briefed, but this is some volatile, dangerous stuff. But you signed up for this mission, so we're counting on you to deliver it to the stronghold before its power dissipates.
+- **7868**: You'd best deliver that to the stronghold while it still packs some oomph.
 
 ## Events
 
@@ -106,7 +106,7 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+  2: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "The supply unit carrying rations and munitions to our stronghold in this area was attacked en route, and forced to abandon the cargo. You are to locate the supplies and deliver them to their final destination."
   3: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0008 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -158,7 +158,7 @@
   6: 0x0026 [0x1E] EventEntity looks at LocalPlayer and starts talking
   7: 0x002B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   8: 0x002C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
+  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "This is an Allied Checkpoint Garrison."
  10: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0031 [0x1C] WAIT(30* ticks)
@@ -167,7 +167,7 @@
  14: 0x003F [0x1E] EventEntity looks at LocalPlayer and starts talking
  15: 0x0044 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  16: 0x0045 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 17: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
+ 17: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
     → "What are you waiting for, <Player>!? Move out!"
  18: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x004A [0x1C] WAIT(30* ticks)
@@ -176,7 +176,7 @@
  22: 0x0058 [0x1E] EventEntity looks at LocalPlayer and starts talking
  23: 0x005D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  24: 0x005E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 25: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
+ 25: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
     → "Welcome, <Player>. The troops you are to guide to the stronghold haven't arrived yet. Please wait a little longer."
  26: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0063 [0x1C] WAIT(30* ticks)
@@ -186,24 +186,24 @@
  31: 0x0076 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  32: 0x0077 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  33: 0x0078 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x0086
- 34: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+ 34: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "The supply unit carrying rations and munitions to our stronghold in this area was attacked en route, and forced to abandon the cargo. You are to locate the supplies and deliver them to their final destination."
  35: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0083 [0x01] GOTO 0x008A
- 37: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
+ 37: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
     → "These are the supplies you are to deliver to the stronghold in this area."
  38: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_008A:
  39: 0x008A [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 1*) GOTO 0x0095
- 40: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+ 40: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
     → "Some of the items are raw and will spoil if not delivered immediately. You must hurry."
  41: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0095 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 2*) GOTO 0x00A0
- 43: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
+ 43: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
     → "Some of the items are very delicate and will be destroyed if you are not careful. Avoid all confrontation with the enemy."
  44: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
+ 45: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
     → "Now move out."
  46: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x00A4 [0x03] Work_Zone[1] = 1*
@@ -212,7 +212,7 @@ SUBROUTINE_008A:
  50: 0x00B4 [0x1E] EventEntity looks at LocalPlayer and starts talking
  51: 0x00B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  52: 0x00BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 53: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
+ 53: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7846*)
     → "Alright, <Player>. The reinforcements are ready to be escorted to the stronghold in this area."
  54: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x00BF [0x1C] WAIT(30* ticks)
@@ -222,13 +222,13 @@ SUBROUTINE_008A:
  59: 0x00D2 [0x1E] EventEntity looks at LocalPlayer and starts talking
  60: 0x00D7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  61: 0x00D8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 62: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
+ 62: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "About time you showed up, soldier. This here's the shipment of materials you'll be transporting."
  63: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+ 64: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
     → "I suspect you've already been briefed, but this is some volatile, dangerous stuff. But you signed up for this mission, so we're counting on you to deliver it to the stronghold before its power dissipates."
  65: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
+ 66: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
     → "Now move out."
  67: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x00E5 [0x1C] WAIT(30* ticks)
@@ -238,7 +238,7 @@ SUBROUTINE_008A:
  72: 0x00F8 [0x1E] EventEntity looks at LocalPlayer and starts talking
  73: 0x00FD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  74: 0x00FE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 75: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
+ 75: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
     → "You'd best deliver that to the stronghold while it still packs some oomph."
  76: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0103 [0x1C] WAIT(30* ticks)
@@ -272,7 +272,7 @@ SUBROUTINE_0109:
 ```
   0: 0x010D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x010F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
+  2: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
     → "Some of the items are very delicate and will be destroyed if you are not careful. Avoid all confrontation with the enemy."
   3: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0114 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -302,7 +302,7 @@ SUBROUTINE_0109:
 ```
   0: 0x0118 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x011A [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+  2: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
     → "Some of the items are raw and will spoil if not delivered immediately. You must hurry."
   3: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x011F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -331,7 +331,7 @@ SUBROUTINE_0109:
 ```
   0: 0x0123 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0125 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
+  2: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
     → "Now move out."
   3: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x012A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

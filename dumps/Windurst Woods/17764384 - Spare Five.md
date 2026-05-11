@@ -30,11 +30,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F7F      |        8063 |
+|       0 | 0x1F81      |        8065 |
 
 ## String References
 
-- **8063**: "THE$26R-R-RAIN$26IN$26LA$26THEINE$26FALLS$26M-M-MAIN-LY$26ON$26THE$26P-P-PLAINS!"
+- **8065**: "THE$26R-R-RAIN$26IN$26LA$26THEINE$26FALLS$26M-M-MAIN-LY$26ON$26THE$26P-P-PLAINS!"
 
 ## Events
 
@@ -82,7 +82,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8063*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8065*)
     → ""THE$26R-R-RAIN$26IN$26LA$26THEINE$26FALLS$26M-M-MAIN-LY$26ON$26THE$26P-P-PLAINS!""
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

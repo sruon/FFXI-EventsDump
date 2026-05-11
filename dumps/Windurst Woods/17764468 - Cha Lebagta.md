@@ -45,21 +45,21 @@
 |---------|-------------|-------------|
 |       0 | 0x0167      |         359 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1DAE      |        7598 |
-|       3 | 0x1DAF      |        7599 |
-|       4 | 0x1DBB      |        7611 |
-|       5 | 0x1DC6      |        7622 |
-|       6 | 0x1DC7      |        7623 |
-|       7 | 0x1DD8      |        7640 |
-|       8 | 0x20FE      |        8446 |
-|       9 | 0x1E9E      |        7838 |
-|      10 | 0x1E9F      |        7839 |
-|      11 | 0x1EA0      |        7840 |
-|      12 | 0x1EA6      |        7846 |
-|      13 | 0x1EAA      |        7850 |
-|      14 | 0x1EAB      |        7851 |
-|      15 | 0x227B      |        8827 |
-|      16 | 0x2280      |        8832 |
+|       2 | 0x1DB0      |        7600 |
+|       3 | 0x1DB1      |        7601 |
+|       4 | 0x1DBD      |        7613 |
+|       5 | 0x1DC8      |        7624 |
+|       6 | 0x1DC9      |        7625 |
+|       7 | 0x1DDA      |        7642 |
+|       8 | 0x2100      |        8448 |
+|       9 | 0x1EA0      |        7840 |
+|      10 | 0x1EA1      |        7841 |
+|      11 | 0x1EA2      |        7842 |
+|      12 | 0x1EA8      |        7848 |
+|      13 | 0x1EAC      |        7852 |
+|      14 | 0x1EAD      |        7853 |
+|      15 | 0x227D      |        8829 |
+|      16 | 0x2282      |        8834 |
 |      17 | 0xDC2B      |       56363 |
 |      18 | 0x3A241     |      238145 |
 |      19 | 0xFFFFEBBB  |  4294962107 |
@@ -68,44 +68,44 @@
 |      22 | 0xF230      |       62000 |
 |      23 | 0x3A598     |      239000 |
 |      24 | 0xFFFFED73  |  4294962547 |
-|      25 | 0x229C      |        8860 |
-|      26 | 0x22A2      |        8866 |
-|      27 | 0x22A3      |        8867 |
-|      28 | 0x22AA      |        8874 |
-|      29 | 0x22B4      |        8884 |
-|      30 | 0x22B5      |        8885 |
-|      31 | 0x22C0      |        8896 |
-|      32 | 0x22C1      |        8897 |
-|      33 | 0x22D0      |        8912 |
-|      34 | 0x22D3      |        8915 |
+|      25 | 0x229E      |        8862 |
+|      26 | 0x22A4      |        8868 |
+|      27 | 0x22A5      |        8869 |
+|      28 | 0x22AC      |        8876 |
+|      29 | 0x22B6      |        8886 |
+|      30 | 0x22B7      |        8887 |
+|      31 | 0x22C2      |        8898 |
+|      32 | 0x22C3      |        8899 |
+|      33 | 0x22D2      |        8914 |
+|      34 | 0x22D5      |        8917 |
 
 ## String References
 
-- **7598**: We only take orders from the top cat. When she says, "Jump!", we say, "How high?"...and we always land on our feet, of course.
-- **7599**: Grrr... You don't seem to understand how harrrd being a member of her gang is, do you?
-- **7611**: We crrrawled up to the top cat by taking her four $1 each. That's how she accepted us! You think you can match that?
-- **7622**: Humph! You just did as I said and gave the top cat some $1, didn't you?
-- **7623**: Well, that's just being a copycat! Don't think you're any better than us, or else fur will fly!
-- **7640**: Seems the top cat herrrself can make mistakes sometimes. Picking pebbles from the pockets of passers-by... My ass-onance! She's got me talking-walking like a Tarutaru now!
-- **7838**: Hah! If you want the book we found, then you'rrre in for some major wheeling and dealing with the top cat, arrren't you, now?
-- **7839**: Why's that, you say? Well, even that greedy, rich merrrchant from Windurst Waters is... Oops!
-- **7840**: Ignore what I just said. I'll make lute strings out of your guts if you tell anyone what I just let slip!
-- **7846**: You should alrrready know this, but don't you dare tell anyone about the little deal we'll be making. You'll have a cat in hell's chance of living if you spill the beans on us.
-- **7850**: I meowed her once, I meowed her a thousand times. We should stop putting our paws on anything that smells of Carrrdians.
-- **7851**: I neverrr want to go through that sorrrt of thing again!
-- **8446**: Oo\`h... Aa\`h... Ou\`ch...! I don't think our last burrrglary was such a good idea. The wounds where I was bitten by the you-know-what still ache, not to mention my back from carrying that heavy box I put it in.
-- **8827**: Ahh, Jeuno... How long has it been since I last got my paws into the pockets of those bigwigs?
-- **8832**: <Sigh> The top cat can surrre be difficult at times...
-- **8860**: If the top cat says something is fishy, you better believe it!
-- **8866**: Just a minute! I completely forgot. To climb the towerrr in Sauromugue Champaign, you need to have $1.
-- **8867**: But even if you have one, you won't be getting up that tower if you're a fat cat!
-- **8874**: Ow, I hurt... What use is beauty in thieving? My m-muscles are so sore!
-- **8884**: Don't rrrush into anything just yet. There's something wrong. Vauderame hasn't made a move yet.
-- **8885**: If he had made some sort of deal with the brigands, you would think they would get together somewhere first, then head off to get the treasure.
-- **8896**: A nation with allegiance to San d'Oria, ruled by Marquis Altedour... It's supposed to lie farrr to the west of here...
-- **8897**: Anyway, let's put the geography lesson aside and go pull the rrrug out from under the Tenshodo! Things have started to get interesting...
-- **8912**: What's all the fuss about? You've brrroken the code!? Terrrific!
-- **8915**: Thanks for looking after the top cat. If something happened to her, we'd just go back to being a couple of strrrays.
+- **7600**: We only take orders from the top cat. When she says, "Jump!", we say, "How high?"...and we always land on our feet, of course.
+- **7601**: Grrr... You don't seem to understand how harrrd being a member of her gang is, do you?
+- **7613**: We crrrawled up to the top cat by taking her four $1 each. That's how she accepted us! You think you can match that?
+- **7624**: Humph! You just did as I said and gave the top cat some $1, didn't you?
+- **7625**: Well, that's just being a copycat! Don't think you're any better than us, or else fur will fly!
+- **7642**: Seems the top cat herrrself can make mistakes sometimes. Picking pebbles from the pockets of passers-by... My ass-onance! She's got me talking-walking like a Tarutaru now!
+- **7840**: Hah! If you want the book we found, then you'rrre in for some major wheeling and dealing with the top cat, arrren't you, now?
+- **7841**: Why's that, you say? Well, even that greedy, rich merrrchant from Windurst Waters is... Oops!
+- **7842**: Ignore what I just said. I'll make lute strings out of your guts if you tell anyone what I just let slip!
+- **7848**: You should alrrready know this, but don't you dare tell anyone about the little deal we'll be making. You'll have a cat in hell's chance of living if you spill the beans on us.
+- **7852**: I meowed her once, I meowed her a thousand times. We should stop putting our paws on anything that smells of Carrrdians.
+- **7853**: I neverrr want to go through that sorrrt of thing again!
+- **8448**: Oo\`h... Aa\`h... Ou\`ch...! I don't think our last burrrglary was such a good idea. The wounds where I was bitten by the you-know-what still ache, not to mention my back from carrying that heavy box I put it in.
+- **8829**: Ahh, Jeuno... How long has it been since I last got my paws into the pockets of those bigwigs?
+- **8834**: <Sigh> The top cat can surrre be difficult at times...
+- **8862**: If the top cat says something is fishy, you better believe it!
+- **8868**: Just a minute! I completely forgot. To climb the towerrr in Sauromugue Champaign, you need to have $1.
+- **8869**: But even if you have one, you won't be getting up that tower if you're a fat cat!
+- **8876**: Ow, I hurt... What use is beauty in thieving? My m-muscles are so sore!
+- **8886**: Don't rrrush into anything just yet. There's something wrong. Vauderame hasn't made a move yet.
+- **8887**: If he had made some sort of deal with the brigands, you would think they would get together somewhere first, then head off to get the treasure.
+- **8898**: A nation with allegiance to San d'Oria, ruled by Marquis Altedour... It's supposed to lie farrr to the west of here...
+- **8899**: Anyway, let's put the geography lesson aside and go pull the rrrug out from under the Tenshodo! Things have started to get interesting...
+- **8914**: What's all the fuss about? You've brrroken the code!? Terrrific!
+- **8917**: Thanks for looking after the top cat. If something happened to her, we'd just go back to being a couple of strrrays.
 
 ## Events
 
@@ -204,10 +204,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7600*)
     → "We only take orders from the top cat. When she says, "Jump!", we say, "How high?"...and we always land on our feet, of course."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7601*)
     → "Grrr... You don't seem to understand how harrrd being a member of her gang is, do you?"
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -241,7 +241,7 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
     → "We crrrawled up to the top cat by taking her four $1 each. That's how she accepted us! You think you can match that?"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -275,10 +275,10 @@
   1: 0x005D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7622*)
+  4: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7624*)
     → "Humph! You just did as I said and gave the top cat some $1, didn't you?"
   5: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7623*)
+  6: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7625*)
     → "Well, that's just being a copycat! Don't think you're any better than us, or else fur will fly!"
   7: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x006E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -312,7 +312,7 @@
   1: 0x007E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0080 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7640*)
+  4: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7642*)
     → "Seems the top cat herrrself can make mistakes sometimes. Picking pebbles from the pockets of passers-by... My ass-onance! She's got me talking-walking like a Tarutaru now!"
   5: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -346,7 +346,7 @@
   1: 0x009B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x009C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x009D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8446*)
+  4: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8448*)
     → "Oo`h... Aa`h... Ou`ch...! I don't think our last burrrglary was such a good idea. The wounds where I was bitten by the you-know-what still ache, not to mention my back from carrying that heavy box I put it in."
   5: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -380,13 +380,13 @@
   1: 0x00B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
+  4: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
     → "Hah! If you want the book we found, then you'rrre in for some major wheeling and dealing with the top cat, arrren't you, now?"
   5: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
+  6: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
     → "Why's that, you say? Well, even that greedy, rich merrrchant from Windurst Waters is... Oops!"
   7: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
+  8: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "Ignore what I just said. I'll make lute strings out of your guts if you tell anyone what I just let slip!"
   9: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -420,7 +420,7 @@
   1: 0x00DD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7846*)
+  4: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7848*)
     → "You should alrrready know this, but don't you dare tell anyone about the little deal we'll be making. You'll have a cat in hell's chance of living if you spill the beans on us."
   5: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -454,10 +454,10 @@
   1: 0x00FA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00FB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
+  4: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
     → "I meowed her once, I meowed her a thousand times. We should stop putting our paws on anything that smells of Carrrdians."
   5: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
+  6: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "I neverrr want to go through that sorrrt of thing again!"
   7: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x010B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -491,7 +491,7 @@
   1: 0x011B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x011C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x011D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=8827*)
+  4: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=8829*)
     → "Ahh, Jeuno... How long has it been since I last got my paws into the pockets of those bigwigs?"
   5: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0128 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -524,7 +524,7 @@
   1: 0x0138 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0139 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x013A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x01)
-  4: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=8832*)
+  4: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=8834*)
     → "<Sigh> The top cat can surrre be difficult at times..."
   5: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0145 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x02)
@@ -625,7 +625,7 @@
 #### Opcodes
 
 ```
-  0: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=8860*)
+  0: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=8862*)
     → "If the top cat says something is fishy, you better believe it!"
   1: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0172 [0x00] END_REQSTACK()
@@ -654,10 +654,10 @@
   0: 0x0173 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0178 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0179 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=8866*)
+  3: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=8868*)
     → "Just a minute! I completely forgot. To climb the towerrr in Sauromugue Champaign, you need to have $1."
   4: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=8867*)
+  5: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=8869*)
     → "But even if you have one, you won't be getting up that tower if you're a fat cat!"
   6: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0182 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -688,7 +688,7 @@
   0: 0x0186 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x018B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x018C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=8874*)
+  3: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=8876*)
     → "Ow, I hurt... What use is beauty in thieving? My m-muscles are so sore!"
   4: 0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0191 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -759,10 +759,10 @@
 #### Opcodes
 
 ```
-  0: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=8884*)
+  0: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=8886*)
     → "Don't rrrush into anything just yet. There's something wrong. Vauderame hasn't made a move yet."
   1: 0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=8885*)
+  2: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=8887*)
     → "If he had made some sort of deal with the brigands, you would think they would get together somewhere first, then head off to get the treasure."
   3: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x019F [0x00] END_REQSTACK()
@@ -791,10 +791,10 @@
   0: 0x01A0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01A5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01A6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8896*)
+  3: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8898*)
     → "A nation with allegiance to San d'Oria, ruled by Marquis Altedour... It's supposed to lie farrr to the west of here..."
   4: 0x01AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8897*)
+  5: 0x01AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8899*)
     → "Anyway, let's put the geography lesson aside and go pull the rrrug out from under the Tenshodo! Things have started to get interesting..."
   6: 0x01AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01AF [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -825,7 +825,7 @@
   0: 0x01B3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+  3: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8914*)
     → "What's all the fuss about? You've brrroken the code!? Terrrific!"
   4: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01BE [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -856,7 +856,7 @@
   0: 0x01C2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01C7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01C8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
+  3: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8917*)
     → "Thanks for looking after the top cat. If something happened to her, we'd just go back to being a couple of strrrays."
   4: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01CD [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

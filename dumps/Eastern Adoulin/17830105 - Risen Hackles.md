@@ -26,26 +26,26 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0041      |          65 |
-|       1 | 0x28E2      |       10466 |
-|       2 | 0x28E3      |       10467 |
-|       3 | 0x1F08      |        7944 |
-|       4 | 0x1F09      |        7945 |
-|       5 | 0x1F0A      |        7946 |
-|       6 | 0x1F0B      |        7947 |
-|       7 | 0x1F0C      |        7948 |
-|       8 | 0x1F0D      |        7949 |
-|       9 | 0x1F0E      |        7950 |
-|      10 | 0x1F0F      |        7951 |
-|      11 | 0x1F10      |        7952 |
-|      12 | 0x1F11      |        7953 |
-|      13 | 0x1F12      |        7954 |
-|      14 | 0x1F13      |        7955 |
-|      15 | 0x1F14      |        7956 |
-|      16 | 0x1F15      |        7957 |
-|      17 | 0x1F16      |        7958 |
-|      18 | 0x1F17      |        7959 |
-|      19 | 0x1F18      |        7960 |
-|      20 | 0x1F19      |        7961 |
+|       1 | 0x28E4      |       10468 |
+|       2 | 0x28E5      |       10469 |
+|       3 | 0x1F0A      |        7946 |
+|       4 | 0x1F0B      |        7947 |
+|       5 | 0x1F0C      |        7948 |
+|       6 | 0x1F0D      |        7949 |
+|       7 | 0x1F0E      |        7950 |
+|       8 | 0x1F0F      |        7951 |
+|       9 | 0x1F10      |        7952 |
+|      10 | 0x1F11      |        7953 |
+|      11 | 0x1F12      |        7954 |
+|      12 | 0x1F13      |        7955 |
+|      13 | 0x1F14      |        7956 |
+|      14 | 0x1F15      |        7957 |
+|      15 | 0x1F16      |        7958 |
+|      16 | 0x1F17      |        7959 |
+|      17 | 0x1F18      |        7960 |
+|      18 | 0x1F19      |        7961 |
+|      19 | 0x1F1A      |        7962 |
+|      20 | 0x1F1B      |        7963 |
 |      21 | 0x00C9      |         201 |
 |      22 | 0x0000      |           0 |
 |      23 | 0x0028      |          40 |
@@ -56,26 +56,26 @@
 
 ## String References
 
-- **7944**: You must be one of those pioneers I keep hearing about.
-- **7945**: You heard of the Rala Waterways, located beneath the areas surrounding the castle?
-- **7946**: It's like a goddamn maze down there. Good luck finding a reliable way in.
-- **7947**: There are gates located throughout, but which ones are open changes depending on the day.
-- **7948**: Don't think you can learn one way in and be set for life. It's not that easy.
-- **7949**: I want you to check the gates' operations and help keep the area safe.
-- **7950**: Go speak to the soldier located near the holy battlegrounds, an area of the Waterways located beneath locales leading to Big Bridge.
-- **7951**: If you can do this simple task, then I'll recognize you as a [man/woman] of mettle.
-- **7952**: Forgot how to get there already? You're looking for a soldier located in the holy battlegrounds area of the Waterways, located in areas beneath Big Bridge.
-- **7953**: How are you progressing?
-- **7954**: Everything checks out, then?
-- **7955**: If you managed to get that far, then you've succeeded in navigating that area without getting lost. Good work.
-- **7956**: With all the foul creatures sprouting like weeds down there, we've had trouble ensuring the gates are functioning properly of late.
-- **7957**: Any help you can give in keeping the area safe would be most welcome.
-- **7958**: I'll share a secret with you. The Waterways also serve as an emergency exit of sorts.
-- **7959**: I find it quite helpful that more pioneers are beginning to learn about the area. If anything happens, the lot of you can assist us in case of evacuation.
-- **7960**: There can never be too many people willing to lend us a hand.
-- **7961**: Leave your pride at the door and strive to be the best pioneer you can. Adoulin is counting on you.
-- **10466**: There's a large system of tunnels under this city called the Rala Waterways.
-- **10467**: Almost everyone who's been down there talks about hearing grotesque howls deep within. Some have even seen monsters, they say. Maybe they slip through secret holes to get around the magic barrier...I don't know.
+- **7946**: You must be one of those pioneers I keep hearing about.
+- **7947**: You heard of the Rala Waterways, located beneath the areas surrounding the castle?
+- **7948**: It's like a goddamn maze down there. Good luck finding a reliable way in.
+- **7949**: There are gates located throughout, but which ones are open changes depending on the day.
+- **7950**: Don't think you can learn one way in and be set for life. It's not that easy.
+- **7951**: I want you to check the gates' operations and help keep the area safe.
+- **7952**: Go speak to the soldier located near the holy battlegrounds, an area of the Waterways located beneath locales leading to Big Bridge.
+- **7953**: If you can do this simple task, then I'll recognize you as a [man/woman] of mettle.
+- **7954**: Forgot how to get there already? You're looking for a soldier located in the holy battlegrounds area of the Waterways, located in areas beneath Big Bridge.
+- **7955**: How are you progressing?
+- **7956**: Everything checks out, then?
+- **7957**: If you managed to get that far, then you've succeeded in navigating that area without getting lost. Good work.
+- **7958**: With all the foul creatures sprouting like weeds down there, we've had trouble ensuring the gates are functioning properly of late.
+- **7959**: Any help you can give in keeping the area safe would be most welcome.
+- **7960**: I'll share a secret with you. The Waterways also serve as an emergency exit of sorts.
+- **7961**: I find it quite helpful that more pioneers are beginning to learn about the area. If anything happens, the lot of you can assist us in case of evacuation.
+- **7962**: There can never be too many people willing to lend us a hand.
+- **7963**: Leave your pride at the door and strive to be the best pioneer you can. Adoulin is counting on you.
+- **10468**: There's a large system of tunnels under this city called the Rala Waterways.
+- **10469**: Almost everyone who's been down there talks about hearing grotesque howls deep within. Some have even seen monsters, they say. Maybe they slip through secret holes to get around the magic barrier...I don't know.
 
 ## Events
 
@@ -126,10 +126,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10466*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10468*)
     → "There's a large system of tunnels under this city called the Rala Waterways."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10467*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10469*)
     → "Almost everyone who's been down there talks about hearing grotesque howls deep within. Some have even seen monsters, they say. Maybe they slip through secret holes to get around the magic barrier...I don't know."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
@@ -165,28 +165,28 @@
   2: 0x0036 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0037 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
     → "You must be one of those pioneers I keep hearing about."
   6: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
+  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "You heard of the Rala Waterways, located beneath the areas surrounding the castle?"
   8: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+  9: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
     → "It's like a goddamn maze down there. Good luck finding a reliable way in."
  10: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
+ 11: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
     → "There are gates located throughout, but which ones are open changes depending on the day."
  12: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
+ 13: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
     → "Don't think you can learn one way in and be set for life. It's not that easy."
  14: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
+ 15: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
     → "I want you to check the gates' operations and help keep the area safe."
  16: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+ 17: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
     → "Go speak to the soldier located near the holy battlegrounds, an area of the Waterways located beneath locales leading to Big Bridge."
  18: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
+ 19: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
     → "If you can do this simple task, then I'll recognize you as a [man/woman] of mettle."
  20: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0067 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
@@ -220,7 +220,7 @@
   1: 0x007D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x007F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  4: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
+  4: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
     → "Forgot how to get there already? You're looking for a soldier located in the holy battlegrounds area of the Waterways, located in areas beneath Big Bridge."
   5: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0092 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
@@ -257,31 +257,31 @@
   2: 0x00A9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00AA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  5: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
+  5: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
     → "How are you progressing?"
   6: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
+  7: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "Everything checks out, then?"
   8: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+  9: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
     → "If you managed to get that far, then you've succeeded in navigating that area without getting lost. Good work."
  10: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
+ 11: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "With all the foul creatures sprouting like weeds down there, we've had trouble ensuring the gates are functioning properly of late."
  12: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+ 13: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
     → "Any help you can give in keeping the area safe would be most welcome."
  14: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
+ 15: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
     → "I'll share a secret with you. The Waterways also serve as an emergency exit of sorts."
  16: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
+ 17: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "I find it quite helpful that more pioneers are beginning to learn about the area. If anything happens, the lot of you can assist us in case of evacuation."
  18: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+ 19: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
     → "There can never be too many people willing to lend us a hand."
  20: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
+ 21: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "Leave your pride at the door and strive to be the best pioneer you can. Adoulin is counting on you."
  22: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]

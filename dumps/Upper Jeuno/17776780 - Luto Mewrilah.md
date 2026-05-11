@@ -124,9 +124,9 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0030      |          48 |
-|       2 | 0x2292      |        8850 |
+|       2 | 0x2294      |        8852 |
 |       3 | 0x003C      |          60 |
-|       4 | 0x2425      |        9253 |
+|       4 | 0x2427      |        9255 |
 |       5 | 0x000D      |          13 |
 |       6 | 0xFFFF3AD3  |  4294916819 |
 |       7 | 0xB3E8      |       46056 |
@@ -140,407 +140,407 @@
 |      15 | 0x0013      |          19 |
 |      16 | 0x00BF      |         191 |
 |      17 | 0x000A      |          10 |
-|      18 | 0x22BC      |        8892 |
+|      18 | 0x22BE      |        8894 |
 |      19 | 0x0096      |         150 |
-|      20 | 0x22BD      |        8893 |
-|      21 | 0x22BE      |        8894 |
-|      22 | 0x22BF      |        8895 |
+|      20 | 0x22BF      |        8895 |
+|      21 | 0x22C0      |        8896 |
+|      22 | 0x22C1      |        8897 |
 |      23 | 0xFFFF2B46  |  4294912838 |
 |      24 | 0xB142      |       45378 |
 |      25 | 0x0032      |          50 |
-|      26 | 0x22C0      |        8896 |
+|      26 | 0x22C2      |        8898 |
 |      27 | 0x000C      |          12 |
 |      28 | 0x0001      |           1 |
-|      29 | 0x22C1      |        8897 |
+|      29 | 0x22C3      |        8899 |
 |      30 | 0x0050      |          80 |
 |      31 | 0x00F0      |         240 |
 |      32 | 0x0359      |         857 |
-|      33 | 0x22C2      |        8898 |
-|      34 | 0x22C3      |        8899 |
-|      35 | 0x22C4      |        8900 |
+|      33 | 0x22C4      |        8900 |
+|      34 | 0x22C5      |        8901 |
+|      35 | 0x22C6      |        8902 |
 |      36 | 0x00C8      |         200 |
-|      37 | 0x226F      |        8815 |
+|      37 | 0x2271      |        8817 |
 |      38 | 0x0033      |          51 |
-|      39 | 0x2270      |        8816 |
-|      40 | 0x2271      |        8817 |
-|      41 | 0x22C5      |        8901 |
-|      42 | 0x22C6      |        8902 |
-|      43 | 0x2325      |        8997 |
+|      39 | 0x2272      |        8818 |
+|      40 | 0x2273      |        8819 |
+|      41 | 0x22C7      |        8903 |
+|      42 | 0x22C8      |        8904 |
+|      43 | 0x2327      |        8999 |
 |      44 | 0x0034      |          52 |
-|      45 | 0x234D      |        9037 |
-|      46 | 0x234E      |        9038 |
-|      47 | 0x2407      |        9223 |
-|      48 | 0x2408      |        9224 |
-|      49 | 0x2409      |        9225 |
-|      50 | 0x240A      |        9226 |
-|      51 | 0x240B      |        9227 |
-|      52 | 0x240C      |        9228 |
-|      53 | 0x240D      |        9229 |
+|      45 | 0x234F      |        9039 |
+|      46 | 0x2350      |        9040 |
+|      47 | 0x2409      |        9225 |
+|      48 | 0x240A      |        9226 |
+|      49 | 0x240B      |        9227 |
+|      50 | 0x240C      |        9228 |
+|      51 | 0x240D      |        9229 |
+|      52 | 0x240E      |        9230 |
+|      53 | 0x240F      |        9231 |
 |      54 | 0x0002      |           2 |
-|      55 | 0x240E      |        9230 |
+|      55 | 0x2410      |        9232 |
 |      56 | 0x0003      |           3 |
-|      57 | 0x240F      |        9231 |
+|      57 | 0x2411      |        9233 |
 |      58 | 0x0004      |           4 |
-|      59 | 0x2410      |        9232 |
+|      59 | 0x2412      |        9234 |
 |      60 | 0x0005      |           5 |
-|      61 | 0x2411      |        9233 |
+|      61 | 0x2413      |        9235 |
 |      62 | 0x0006      |           6 |
-|      63 | 0x2412      |        9234 |
+|      63 | 0x2414      |        9236 |
 |      64 | 0x0007      |           7 |
-|      65 | 0x2413      |        9235 |
-|      66 | 0x2414      |        9236 |
-|      67 | 0x2415      |        9237 |
-|      68 | 0x2417      |        9239 |
+|      65 | 0x2415      |        9237 |
+|      66 | 0x2416      |        9238 |
+|      67 | 0x2417      |        9239 |
+|      68 | 0x2419      |        9241 |
 |      69 | 0x0064      |         100 |
-|      70 | 0x2416      |        9238 |
-|      71 | 0x2638      |        9784 |
-|      72 | 0x26B0      |        9904 |
+|      70 | 0x2418      |        9240 |
+|      71 | 0x263A      |        9786 |
+|      72 | 0x26B2      |        9906 |
 |      73 | 0x02DC      |         732 |
-|      74 | 0x2799      |       10137 |
-|      75 | 0x279A      |       10138 |
-|      76 | 0x279B      |       10139 |
-|      77 | 0x2A66      |       10854 |
-|      78 | 0x2A67      |       10855 |
+|      74 | 0x279B      |       10139 |
+|      75 | 0x279C      |       10140 |
+|      76 | 0x279D      |       10141 |
+|      77 | 0x2A68      |       10856 |
+|      78 | 0x2A69      |       10857 |
 |      79 | 0x0008      |           8 |
-|      80 | 0x2A68      |       10856 |
+|      80 | 0x2A6A      |       10858 |
 |      81 | 0x0009      |           9 |
-|      82 | 0x2A69      |       10857 |
-|      83 | 0x2A6A      |       10858 |
-|      84 | 0x2A6B      |       10859 |
-|      85 | 0x2A6C      |       10860 |
-|      86 | 0x2A6D      |       10861 |
-|      87 | 0x2A6E      |       10862 |
-|      88 | 0x2A6F      |       10863 |
-|      89 | 0x2A70      |       10864 |
-|      90 | 0x2A71      |       10865 |
+|      82 | 0x2A6B      |       10859 |
+|      83 | 0x2A6C      |       10860 |
+|      84 | 0x2A6D      |       10861 |
+|      85 | 0x2A6E      |       10862 |
+|      86 | 0x2A6F      |       10863 |
+|      87 | 0x2A70      |       10864 |
+|      88 | 0x2A71      |       10865 |
+|      89 | 0x2A72      |       10866 |
+|      90 | 0x2A73      |       10867 |
 |      91 | 0x000B      |          11 |
-|      92 | 0x2A72      |       10866 |
-|      93 | 0x2A73      |       10867 |
-|      94 | 0x2A74      |       10868 |
-|      95 | 0x2A75      |       10869 |
-|      96 | 0x2A76      |       10870 |
-|      97 | 0x2A77      |       10871 |
-|      98 | 0x2A78      |       10872 |
-|      99 | 0x2A79      |       10873 |
-|     100 | 0x2A7A      |       10874 |
-|     101 | 0x279C      |       10140 |
-|     102 | 0x2421      |        9249 |
-|     103 | 0x279D      |       10141 |
-|     104 | 0x2422      |        9250 |
+|      92 | 0x2A74      |       10868 |
+|      93 | 0x2A75      |       10869 |
+|      94 | 0x2A76      |       10870 |
+|      95 | 0x2A77      |       10871 |
+|      96 | 0x2A78      |       10872 |
+|      97 | 0x2A79      |       10873 |
+|      98 | 0x2A7A      |       10874 |
+|      99 | 0x2A7B      |       10875 |
+|     100 | 0x2A7C      |       10876 |
+|     101 | 0x279E      |       10142 |
+|     102 | 0x2423      |        9251 |
+|     103 | 0x279F      |       10143 |
+|     104 | 0x2424      |        9252 |
 |     105 | 0x0044      |          68 |
-|     106 | 0x2423      |        9251 |
+|     106 | 0x2425      |        9253 |
 |     107 | 0x0065      |         101 |
-|     108 | 0x2424      |        9252 |
-|     109 | 0x2418      |        9240 |
-|     110 | 0x2419      |        9241 |
-|     111 | 0x241A      |        9242 |
-|     112 | 0x241B      |        9243 |
-|     113 | 0x241C      |        9244 |
-|     114 | 0x241D      |        9245 |
-|     115 | 0x241E      |        9246 |
-|     116 | 0x241F      |        9247 |
-|     117 | 0x2420      |        9248 |
+|     108 | 0x2426      |        9254 |
+|     109 | 0x241A      |        9242 |
+|     110 | 0x241B      |        9243 |
+|     111 | 0x241C      |        9244 |
+|     112 | 0x241D      |        9245 |
+|     113 | 0x241E      |        9246 |
+|     114 | 0x241F      |        9247 |
+|     115 | 0x2420      |        9248 |
+|     116 | 0x2421      |        9249 |
+|     117 | 0x2422      |        9250 |
 |     118 | 0x00C9      |         201 |
 |     119 | 0x00C0      |         192 |
-|     120 | 0x23E6      |        9190 |
-|     121 | 0x23E7      |        9191 |
-|     122 | 0x23E8      |        9192 |
-|     123 | 0x23E9      |        9193 |
-|     124 | 0x23EA      |        9194 |
-|     125 | 0x23EB      |        9195 |
-|     126 | 0x23EC      |        9196 |
-|     127 | 0x23ED      |        9197 |
-|     128 | 0x23EE      |        9198 |
-|     129 | 0x23EF      |        9199 |
-|     130 | 0x23F0      |        9200 |
-|     131 | 0x23F1      |        9201 |
-|     132 | 0x23F2      |        9202 |
-|     133 | 0x23F3      |        9203 |
-|     134 | 0x23F4      |        9204 |
-|     135 | 0x23F5      |        9205 |
-|     136 | 0x23F6      |        9206 |
-|     137 | 0x23F7      |        9207 |
-|     138 | 0x23F8      |        9208 |
-|     139 | 0x23F9      |        9209 |
-|     140 | 0x23FA      |        9210 |
-|     141 | 0x23FB      |        9211 |
-|     142 | 0x23FC      |        9212 |
-|     143 | 0x23FD      |        9213 |
-|     144 | 0x26B2      |        9906 |
-|     145 | 0x26B3      |        9907 |
-|     146 | 0x26B4      |        9908 |
-|     147 | 0x26B5      |        9909 |
-|     148 | 0x26B6      |        9910 |
-|     149 | 0x26B7      |        9911 |
-|     150 | 0x26B8      |        9912 |
-|     151 | 0x26B9      |        9913 |
-|     152 | 0x26BA      |        9914 |
-|     153 | 0x26BB      |        9915 |
-|     154 | 0x26BC      |        9916 |
-|     155 | 0x26BD      |        9917 |
-|     156 | 0x26BE      |        9918 |
-|     157 | 0x26BF      |        9919 |
-|     158 | 0x26C0      |        9920 |
-|     159 | 0x26C1      |        9921 |
-|     160 | 0x26C2      |        9922 |
-|     161 | 0x26C3      |        9923 |
-|     162 | 0x26C4      |        9924 |
-|     163 | 0x26C5      |        9925 |
-|     164 | 0x26C6      |        9926 |
-|     165 | 0x26C7      |        9927 |
+|     120 | 0x23E8      |        9192 |
+|     121 | 0x23E9      |        9193 |
+|     122 | 0x23EA      |        9194 |
+|     123 | 0x23EB      |        9195 |
+|     124 | 0x23EC      |        9196 |
+|     125 | 0x23ED      |        9197 |
+|     126 | 0x23EE      |        9198 |
+|     127 | 0x23EF      |        9199 |
+|     128 | 0x23F0      |        9200 |
+|     129 | 0x23F1      |        9201 |
+|     130 | 0x23F2      |        9202 |
+|     131 | 0x23F3      |        9203 |
+|     132 | 0x23F4      |        9204 |
+|     133 | 0x23F5      |        9205 |
+|     134 | 0x23F6      |        9206 |
+|     135 | 0x23F7      |        9207 |
+|     136 | 0x23F8      |        9208 |
+|     137 | 0x23F9      |        9209 |
+|     138 | 0x23FA      |        9210 |
+|     139 | 0x23FB      |        9211 |
+|     140 | 0x23FC      |        9212 |
+|     141 | 0x23FD      |        9213 |
+|     142 | 0x23FE      |        9214 |
+|     143 | 0x23FF      |        9215 |
+|     144 | 0x26B4      |        9908 |
+|     145 | 0x26B5      |        9909 |
+|     146 | 0x26B6      |        9910 |
+|     147 | 0x26B7      |        9911 |
+|     148 | 0x26B8      |        9912 |
+|     149 | 0x26B9      |        9913 |
+|     150 | 0x26BA      |        9914 |
+|     151 | 0x26BB      |        9915 |
+|     152 | 0x26BC      |        9916 |
+|     153 | 0x26BD      |        9917 |
+|     154 | 0x26BE      |        9918 |
+|     155 | 0x26BF      |        9919 |
+|     156 | 0x26C0      |        9920 |
+|     157 | 0x26C1      |        9921 |
+|     158 | 0x26C2      |        9922 |
+|     159 | 0x26C3      |        9923 |
+|     160 | 0x26C4      |        9924 |
+|     161 | 0x26C5      |        9925 |
+|     162 | 0x26C6      |        9926 |
+|     163 | 0x26C7      |        9927 |
+|     164 | 0x26C8      |        9928 |
+|     165 | 0x26C9      |        9929 |
 |     166 | 0x0035      |          53 |
-|     167 | 0x26C8      |        9928 |
-|     168 | 0x26C9      |        9929 |
-|     169 | 0x26CA      |        9930 |
-|     170 | 0x26CB      |        9931 |
-|     171 | 0x26CC      |        9932 |
-|     172 | 0x26CD      |        9933 |
-|     173 | 0x26CE      |        9934 |
-|     174 | 0x26CF      |        9935 |
-|     175 | 0x26D0      |        9936 |
-|     176 | 0x26D1      |        9937 |
-|     177 | 0x26D2      |        9938 |
-|     178 | 0x28C4      |       10436 |
-|     179 | 0x28C5      |       10437 |
-|     180 | 0x28C6      |       10438 |
-|     181 | 0x28C7      |       10439 |
-|     182 | 0x28C8      |       10440 |
-|     183 | 0x28C9      |       10441 |
-|     184 | 0x28CA      |       10442 |
-|     185 | 0x28CB      |       10443 |
-|     186 | 0x28CC      |       10444 |
-|     187 | 0x28CD      |       10445 |
-|     188 | 0x28CE      |       10446 |
-|     189 | 0x28CF      |       10447 |
-|     190 | 0x28D0      |       10448 |
-|     191 | 0x28D1      |       10449 |
-|     192 | 0x28D2      |       10450 |
-|     193 | 0x28D3      |       10451 |
-|     194 | 0x28D4      |       10452 |
-|     195 | 0x28D5      |       10453 |
-|     196 | 0x28D6      |       10454 |
-|     197 | 0x28D7      |       10455 |
-|     198 | 0x28D8      |       10456 |
-|     199 | 0x28D9      |       10457 |
-|     200 | 0x28DA      |       10458 |
-|     201 | 0x28DB      |       10459 |
-|     202 | 0x28DC      |       10460 |
-|     203 | 0x28DD      |       10461 |
-|     204 | 0x28DE      |       10462 |
-|     205 | 0x28DF      |       10463 |
-|     206 | 0x28E0      |       10464 |
-|     207 | 0x28E1      |       10465 |
-|     208 | 0x23FE      |        9214 |
-|     209 | 0x23FF      |        9215 |
-|     210 | 0x2400      |        9216 |
-|     211 | 0x2401      |        9217 |
-|     212 | 0x2402      |        9218 |
-|     213 | 0x2403      |        9219 |
-|     214 | 0x2404      |        9220 |
-|     215 | 0x2405      |        9221 |
+|     167 | 0x26CA      |        9930 |
+|     168 | 0x26CB      |        9931 |
+|     169 | 0x26CC      |        9932 |
+|     170 | 0x26CD      |        9933 |
+|     171 | 0x26CE      |        9934 |
+|     172 | 0x26CF      |        9935 |
+|     173 | 0x26D0      |        9936 |
+|     174 | 0x26D1      |        9937 |
+|     175 | 0x26D2      |        9938 |
+|     176 | 0x26D3      |        9939 |
+|     177 | 0x26D4      |        9940 |
+|     178 | 0x28C6      |       10438 |
+|     179 | 0x28C7      |       10439 |
+|     180 | 0x28C8      |       10440 |
+|     181 | 0x28C9      |       10441 |
+|     182 | 0x28CA      |       10442 |
+|     183 | 0x28CB      |       10443 |
+|     184 | 0x28CC      |       10444 |
+|     185 | 0x28CD      |       10445 |
+|     186 | 0x28CE      |       10446 |
+|     187 | 0x28CF      |       10447 |
+|     188 | 0x28D0      |       10448 |
+|     189 | 0x28D1      |       10449 |
+|     190 | 0x28D2      |       10450 |
+|     191 | 0x28D3      |       10451 |
+|     192 | 0x28D4      |       10452 |
+|     193 | 0x28D5      |       10453 |
+|     194 | 0x28D6      |       10454 |
+|     195 | 0x28D7      |       10455 |
+|     196 | 0x28D8      |       10456 |
+|     197 | 0x28D9      |       10457 |
+|     198 | 0x28DA      |       10458 |
+|     199 | 0x28DB      |       10459 |
+|     200 | 0x28DC      |       10460 |
+|     201 | 0x28DD      |       10461 |
+|     202 | 0x28DE      |       10462 |
+|     203 | 0x28DF      |       10463 |
+|     204 | 0x28E0      |       10464 |
+|     205 | 0x28E1      |       10465 |
+|     206 | 0x28E2      |       10466 |
+|     207 | 0x28E3      |       10467 |
+|     208 | 0x2400      |        9216 |
+|     209 | 0x2401      |        9217 |
+|     210 | 0x2402      |        9218 |
+|     211 | 0x2403      |        9219 |
+|     212 | 0x2404      |        9220 |
+|     213 | 0x2405      |        9221 |
+|     214 | 0x2406      |        9222 |
+|     215 | 0x2407      |        9223 |
 |     216 | 0xFFFF28F3  |  4294912243 |
 |     217 | 0xB271      |       45681 |
 |     218 | 0xFFFF29DD  |  4294912477 |
 |     219 | 0xB13B      |       45371 |
 |     220 | 0x0078      |         120 |
-|     221 | 0x234F      |        9039 |
-|     222 | 0x2350      |        9040 |
-|     223 | 0x2351      |        9041 |
-|     224 | 0x2352      |        9042 |
-|     225 | 0x2353      |        9043 |
-|     226 | 0x2354      |        9044 |
-|     227 | 0x2355      |        9045 |
-|     228 | 0x2356      |        9046 |
-|     229 | 0x2357      |        9047 |
-|     230 | 0x2358      |        9048 |
-|     231 | 0x2359      |        9049 |
+|     221 | 0x2351      |        9041 |
+|     222 | 0x2352      |        9042 |
+|     223 | 0x2353      |        9043 |
+|     224 | 0x2354      |        9044 |
+|     225 | 0x2355      |        9045 |
+|     226 | 0x2356      |        9046 |
+|     227 | 0x2357      |        9047 |
+|     228 | 0x2358      |        9048 |
+|     229 | 0x2359      |        9049 |
+|     230 | 0x235A      |        9050 |
+|     231 | 0x235B      |        9051 |
 |     232 | 0xFFFF2B35  |  4294912821 |
 |     233 | 0xB06B      |       45163 |
 |     234 | 0x000F      |          15 |
 |     235 | 0x001C      |          28 |
-|     236 | 0x235A      |        9050 |
+|     236 | 0x235C      |        9052 |
 |     237 | 0x005A      |          90 |
 |     238 | 0x0014      |          20 |
 |     239 | 0x0028      |          40 |
-|     240 | 0x23C7      |        9159 |
-|     241 | 0x23C8      |        9160 |
-|     242 | 0x23D5      |        9173 |
-|     243 | 0x23D6      |        9174 |
-|     244 | 0x23D7      |        9175 |
-|     245 | 0x23D8      |        9176 |
-|     246 | 0x23D9      |        9177 |
-|     247 | 0x23DA      |        9178 |
-|     248 | 0x23DB      |        9179 |
-|     249 | 0x23DC      |        9180 |
-|     250 | 0x23DD      |        9181 |
-|     251 | 0x23DE      |        9182 |
-|     252 | 0x23DF      |        9183 |
+|     240 | 0x23C9      |        9161 |
+|     241 | 0x23CA      |        9162 |
+|     242 | 0x23D7      |        9175 |
+|     243 | 0x23D8      |        9176 |
+|     244 | 0x23D9      |        9177 |
+|     245 | 0x23DA      |        9178 |
+|     246 | 0x23DB      |        9179 |
+|     247 | 0x23DC      |        9180 |
+|     248 | 0x23DD      |        9181 |
+|     249 | 0x23DE      |        9182 |
+|     250 | 0x23DF      |        9183 |
+|     251 | 0x23E0      |        9184 |
+|     252 | 0x23E1      |        9185 |
 |     253 | 0x006E      |         110 |
-|     254 | 0x235B      |        9051 |
-|     255 | 0x235C      |        9052 |
-|     256 | 0x235D      |        9053 |
-|     257 | 0x235E      |        9054 |
-|     258 | 0x2361      |        9057 |
-|     259 | 0x2362      |        9058 |
-|     260 | 0x2363      |        9059 |
-|     261 | 0x2364      |        9060 |
-|     262 | 0x2365      |        9061 |
-|     263 | 0x235F      |        9055 |
-|     264 | 0x2360      |        9056 |
-|     265 | 0x2366      |        9062 |
-|     266 | 0x2367      |        9063 |
-|     267 | 0x2368      |        9064 |
-|     268 | 0x2369      |        9065 |
-|     269 | 0x236A      |        9066 |
-|     270 | 0x236D      |        9069 |
-|     271 | 0x236E      |        9070 |
-|     272 | 0x236F      |        9071 |
-|     273 | 0x2370      |        9072 |
-|     274 | 0x2371      |        9073 |
-|     275 | 0x236B      |        9067 |
-|     276 | 0x236C      |        9068 |
-|     277 | 0x2372      |        9074 |
-|     278 | 0x2373      |        9075 |
-|     279 | 0x2374      |        9076 |
-|     280 | 0x2375      |        9077 |
-|     281 | 0x2376      |        9078 |
-|     282 | 0x2379      |        9081 |
-|     283 | 0x237A      |        9082 |
-|     284 | 0x237B      |        9083 |
-|     285 | 0x237C      |        9084 |
-|     286 | 0x237D      |        9085 |
-|     287 | 0x2377      |        9079 |
-|     288 | 0x2378      |        9080 |
-|     289 | 0x237E      |        9086 |
-|     290 | 0x237F      |        9087 |
-|     291 | 0x2380      |        9088 |
-|     292 | 0x2381      |        9089 |
-|     293 | 0x2382      |        9090 |
-|     294 | 0x2385      |        9093 |
-|     295 | 0x2386      |        9094 |
-|     296 | 0x2387      |        9095 |
-|     297 | 0x2388      |        9096 |
-|     298 | 0x2389      |        9097 |
-|     299 | 0x2383      |        9091 |
-|     300 | 0x2384      |        9092 |
-|     301 | 0x238A      |        9098 |
-|     302 | 0x238B      |        9099 |
-|     303 | 0x238C      |        9100 |
-|     304 | 0x238D      |        9101 |
-|     305 | 0x238E      |        9102 |
-|     306 | 0x2391      |        9105 |
-|     307 | 0x2392      |        9106 |
-|     308 | 0x2393      |        9107 |
-|     309 | 0x2394      |        9108 |
-|     310 | 0x2395      |        9109 |
-|     311 | 0x238F      |        9103 |
-|     312 | 0x2390      |        9104 |
-|     313 | 0x2396      |        9110 |
-|     314 | 0x2397      |        9111 |
-|     315 | 0x2398      |        9112 |
-|     316 | 0x2399      |        9113 |
-|     317 | 0x239A      |        9114 |
-|     318 | 0x239D      |        9117 |
-|     319 | 0x239E      |        9118 |
-|     320 | 0x239F      |        9119 |
-|     321 | 0x23A0      |        9120 |
-|     322 | 0x23A1      |        9121 |
-|     323 | 0x239B      |        9115 |
-|     324 | 0x239C      |        9116 |
-|     325 | 0x23A2      |        9122 |
-|     326 | 0x23A3      |        9123 |
-|     327 | 0x23A4      |        9124 |
-|     328 | 0x23A5      |        9125 |
-|     329 | 0x23A6      |        9126 |
-|     330 | 0x23A7      |        9127 |
-|     331 | 0x23A8      |        9128 |
-|     332 | 0x23A9      |        9129 |
-|     333 | 0x23AA      |        9130 |
-|     334 | 0x23AF      |        9135 |
-|     335 | 0x23B0      |        9136 |
-|     336 | 0x23B1      |        9137 |
-|     337 | 0x23B2      |        9138 |
-|     338 | 0x23B3      |        9139 |
-|     339 | 0x23B4      |        9140 |
-|     340 | 0x23B5      |        9141 |
-|     341 | 0x23B6      |        9142 |
-|     342 | 0x23B7      |        9143 |
-|     343 | 0x23B8      |        9144 |
-|     344 | 0x23AB      |        9131 |
-|     345 | 0x23AC      |        9132 |
-|     346 | 0x23AD      |        9133 |
-|     347 | 0x23AE      |        9134 |
-|     348 | 0x23B9      |        9145 |
-|     349 | 0x23BA      |        9146 |
-|     350 | 0x23E0      |        9184 |
-|     351 | 0x23E1      |        9185 |
-|     352 | 0x23E2      |        9186 |
-|     353 | 0x23E3      |        9187 |
-|     354 | 0x23E4      |        9188 |
-|     355 | 0x23E5      |        9189 |
-|     356 | 0x23BB      |        9147 |
-|     357 | 0x23BC      |        9148 |
-|     358 | 0x23BD      |        9149 |
-|     359 | 0x23BE      |        9150 |
-|     360 | 0x23C1      |        9153 |
-|     361 | 0x23C2      |        9154 |
-|     362 | 0x23C3      |        9155 |
-|     363 | 0x23C4      |        9156 |
-|     364 | 0x23C5      |        9157 |
-|     365 | 0x23BF      |        9151 |
-|     366 | 0x23C0      |        9152 |
-|     367 | 0x23C6      |        9158 |
-|     368 | 0x23C9      |        9161 |
-|     369 | 0x23CA      |        9162 |
-|     370 | 0x23CB      |        9163 |
-|     371 | 0x23CC      |        9164 |
-|     372 | 0x23CF      |        9167 |
-|     373 | 0x23D0      |        9168 |
-|     374 | 0x23D1      |        9169 |
-|     375 | 0x23D2      |        9170 |
-|     376 | 0x23D3      |        9171 |
-|     377 | 0x23CD      |        9165 |
-|     378 | 0x23CE      |        9166 |
-|     379 | 0x23D4      |        9172 |
+|     254 | 0x235D      |        9053 |
+|     255 | 0x235E      |        9054 |
+|     256 | 0x235F      |        9055 |
+|     257 | 0x2360      |        9056 |
+|     258 | 0x2363      |        9059 |
+|     259 | 0x2364      |        9060 |
+|     260 | 0x2365      |        9061 |
+|     261 | 0x2366      |        9062 |
+|     262 | 0x2367      |        9063 |
+|     263 | 0x2361      |        9057 |
+|     264 | 0x2362      |        9058 |
+|     265 | 0x2368      |        9064 |
+|     266 | 0x2369      |        9065 |
+|     267 | 0x236A      |        9066 |
+|     268 | 0x236B      |        9067 |
+|     269 | 0x236C      |        9068 |
+|     270 | 0x236F      |        9071 |
+|     271 | 0x2370      |        9072 |
+|     272 | 0x2371      |        9073 |
+|     273 | 0x2372      |        9074 |
+|     274 | 0x2373      |        9075 |
+|     275 | 0x236D      |        9069 |
+|     276 | 0x236E      |        9070 |
+|     277 | 0x2374      |        9076 |
+|     278 | 0x2375      |        9077 |
+|     279 | 0x2376      |        9078 |
+|     280 | 0x2377      |        9079 |
+|     281 | 0x2378      |        9080 |
+|     282 | 0x237B      |        9083 |
+|     283 | 0x237C      |        9084 |
+|     284 | 0x237D      |        9085 |
+|     285 | 0x237E      |        9086 |
+|     286 | 0x237F      |        9087 |
+|     287 | 0x2379      |        9081 |
+|     288 | 0x237A      |        9082 |
+|     289 | 0x2380      |        9088 |
+|     290 | 0x2381      |        9089 |
+|     291 | 0x2382      |        9090 |
+|     292 | 0x2383      |        9091 |
+|     293 | 0x2384      |        9092 |
+|     294 | 0x2387      |        9095 |
+|     295 | 0x2388      |        9096 |
+|     296 | 0x2389      |        9097 |
+|     297 | 0x238A      |        9098 |
+|     298 | 0x238B      |        9099 |
+|     299 | 0x2385      |        9093 |
+|     300 | 0x2386      |        9094 |
+|     301 | 0x238C      |        9100 |
+|     302 | 0x238D      |        9101 |
+|     303 | 0x238E      |        9102 |
+|     304 | 0x238F      |        9103 |
+|     305 | 0x2390      |        9104 |
+|     306 | 0x2393      |        9107 |
+|     307 | 0x2394      |        9108 |
+|     308 | 0x2395      |        9109 |
+|     309 | 0x2396      |        9110 |
+|     310 | 0x2397      |        9111 |
+|     311 | 0x2391      |        9105 |
+|     312 | 0x2392      |        9106 |
+|     313 | 0x2398      |        9112 |
+|     314 | 0x2399      |        9113 |
+|     315 | 0x239A      |        9114 |
+|     316 | 0x239B      |        9115 |
+|     317 | 0x239C      |        9116 |
+|     318 | 0x239F      |        9119 |
+|     319 | 0x23A0      |        9120 |
+|     320 | 0x23A1      |        9121 |
+|     321 | 0x23A2      |        9122 |
+|     322 | 0x23A3      |        9123 |
+|     323 | 0x239D      |        9117 |
+|     324 | 0x239E      |        9118 |
+|     325 | 0x23A4      |        9124 |
+|     326 | 0x23A5      |        9125 |
+|     327 | 0x23A6      |        9126 |
+|     328 | 0x23A7      |        9127 |
+|     329 | 0x23A8      |        9128 |
+|     330 | 0x23A9      |        9129 |
+|     331 | 0x23AA      |        9130 |
+|     332 | 0x23AB      |        9131 |
+|     333 | 0x23AC      |        9132 |
+|     334 | 0x23B1      |        9137 |
+|     335 | 0x23B2      |        9138 |
+|     336 | 0x23B3      |        9139 |
+|     337 | 0x23B4      |        9140 |
+|     338 | 0x23B5      |        9141 |
+|     339 | 0x23B6      |        9142 |
+|     340 | 0x23B7      |        9143 |
+|     341 | 0x23B8      |        9144 |
+|     342 | 0x23B9      |        9145 |
+|     343 | 0x23BA      |        9146 |
+|     344 | 0x23AD      |        9133 |
+|     345 | 0x23AE      |        9134 |
+|     346 | 0x23AF      |        9135 |
+|     347 | 0x23B0      |        9136 |
+|     348 | 0x23BB      |        9147 |
+|     349 | 0x23BC      |        9148 |
+|     350 | 0x23E2      |        9186 |
+|     351 | 0x23E3      |        9187 |
+|     352 | 0x23E4      |        9188 |
+|     353 | 0x23E5      |        9189 |
+|     354 | 0x23E6      |        9190 |
+|     355 | 0x23E7      |        9191 |
+|     356 | 0x23BD      |        9149 |
+|     357 | 0x23BE      |        9150 |
+|     358 | 0x23BF      |        9151 |
+|     359 | 0x23C0      |        9152 |
+|     360 | 0x23C3      |        9155 |
+|     361 | 0x23C4      |        9156 |
+|     362 | 0x23C5      |        9157 |
+|     363 | 0x23C6      |        9158 |
+|     364 | 0x23C7      |        9159 |
+|     365 | 0x23C1      |        9153 |
+|     366 | 0x23C2      |        9154 |
+|     367 | 0x23C8      |        9160 |
+|     368 | 0x23CB      |        9163 |
+|     369 | 0x23CC      |        9164 |
+|     370 | 0x23CD      |        9165 |
+|     371 | 0x23CE      |        9166 |
+|     372 | 0x23D1      |        9169 |
+|     373 | 0x23D2      |        9170 |
+|     374 | 0x23D3      |        9171 |
+|     375 | 0x23D4      |        9172 |
+|     376 | 0x23D5      |        9173 |
+|     377 | 0x23CF      |        9167 |
+|     378 | 0x23D0      |        9168 |
+|     379 | 0x23D6      |        9174 |
 |     380 | 0x02D7      |         727 |
 |     381 | 0x001B      |          27 |
 |     382 | 0xFFFF33A4  |  4294914980 |
 |     383 | 0xBE75      |       48757 |
 |     384 | 0x05E6      |        1510 |
-|     385 | 0x2428      |        9256 |
+|     385 | 0x242A      |        9258 |
 |     386 | 0xFFFF2F48  |  4294913864 |
 |     387 | 0xB452      |       46162 |
-|     388 | 0x2429      |        9257 |
-|     389 | 0x242A      |        9258 |
-|     390 | 0x242B      |        9259 |
-|     391 | 0x242C      |        9260 |
-|     392 | 0x242D      |        9261 |
-|     393 | 0x242E      |        9262 |
-|     394 | 0x242F      |        9263 |
-|     395 | 0x2430      |        9264 |
+|     388 | 0x242B      |        9259 |
+|     389 | 0x242C      |        9260 |
+|     390 | 0x242D      |        9261 |
+|     391 | 0x242E      |        9262 |
+|     392 | 0x242F      |        9263 |
+|     393 | 0x2430      |        9264 |
+|     394 | 0x2431      |        9265 |
+|     395 | 0x2432      |        9266 |
 |     396 | 0x0055      |          85 |
-|     397 | 0x2431      |        9265 |
-|     398 | 0x2432      |        9266 |
-|     399 | 0x2433      |        9267 |
-|     400 | 0x2434      |        9268 |
-|     401 | 0x2435      |        9269 |
-|     402 | 0x2436      |        9270 |
-|     403 | 0x2437      |        9271 |
-|     404 | 0x2438      |        9272 |
-|     405 | 0x2439      |        9273 |
-|     406 | 0x243A      |        9274 |
-|     407 | 0x243B      |        9275 |
-|     408 | 0x243C      |        9276 |
-|     409 | 0x243D      |        9277 |
-|     410 | 0x243E      |        9278 |
-|     411 | 0x243F      |        9279 |
-|     412 | 0x2440      |        9280 |
-|     413 | 0x2441      |        9281 |
-|     414 | 0x2442      |        9282 |
-|     415 | 0x2443      |        9283 |
-|     416 | 0x2444      |        9284 |
-|     417 | 0x2445      |        9285 |
-|     418 | 0x2446      |        9286 |
+|     397 | 0x2433      |        9267 |
+|     398 | 0x2434      |        9268 |
+|     399 | 0x2435      |        9269 |
+|     400 | 0x2436      |        9270 |
+|     401 | 0x2437      |        9271 |
+|     402 | 0x2438      |        9272 |
+|     403 | 0x2439      |        9273 |
+|     404 | 0x243A      |        9274 |
+|     405 | 0x243B      |        9275 |
+|     406 | 0x243C      |        9276 |
+|     407 | 0x243D      |        9277 |
+|     408 | 0x243E      |        9278 |
+|     409 | 0x243F      |        9279 |
+|     410 | 0x2440      |        9280 |
+|     411 | 0x2441      |        9281 |
+|     412 | 0x2442      |        9282 |
+|     413 | 0x2443      |        9283 |
+|     414 | 0x2444      |        9284 |
+|     415 | 0x2445      |        9285 |
+|     416 | 0x2446      |        9286 |
+|     417 | 0x2447      |        9287 |
+|     418 | 0x2448      |        9288 |
 |     419 | 0xFFFF27AE  |  4294911918 |
 |     420 | 0xAF49      |       44873 |
 |     421 | 0x0EE4      |        3812 |
@@ -590,14 +590,14 @@
 |     465 | 0x7116      |       28950 |
 |     466 | 0xFFFF7084  |  4294930564 |
 |     467 | 0xB331      |       45873 |
-|     468 | 0x2A7C      |       10876 |
-|     469 | 0x2A7D      |       10877 |
-|     470 | 0x2A7E      |       10878 |
-|     471 | 0x2A7F      |       10879 |
-|     472 | 0x2A80      |       10880 |
-|     473 | 0x2A81      |       10881 |
-|     474 | 0x2A82      |       10882 |
-|     475 | 0x2A83      |       10883 |
+|     468 | 0x2A7E      |       10878 |
+|     469 | 0x2A7F      |       10879 |
+|     470 | 0x2A80      |       10880 |
+|     471 | 0x2A81      |       10881 |
+|     472 | 0x2A82      |       10882 |
+|     473 | 0x2A83      |       10883 |
+|     474 | 0x2A84      |       10884 |
+|     475 | 0x2A85      |       10885 |
 |     476 | 0x005F      |          95 |
 |     477 | 0x0069      |         105 |
 |     478 | 0x0052      |          82 |
@@ -817,211 +817,211 @@
 |     692 | 0x0193      |         403 |
 |     693 | 0x01C6      |         454 |
 |     694 | 0x01C7      |         455 |
-|     695 | 0x2B71      |       11121 |
-|     696 | 0x2B76      |       11126 |
-|     697 | 0x2B77      |       11127 |
-|     698 | 0x2B78      |       11128 |
+|     695 | 0x2B73      |       11123 |
+|     696 | 0x2B78      |       11128 |
+|     697 | 0x2B79      |       11129 |
+|     698 | 0x2B7A      |       11130 |
 
 ## String References
 
-- **8815**: There're so many people in this town. It takes me by surprrrise no matter how many times I come here.
-- **8816**: All this activity makes it difficult to get anything done. It's enough to make my whiskers curl.
-- **8817**: I don't think you'd be able to help me out, though. Why don't you rrrun along?
-- **8901**: Must be harrrd to have a child go missing.
-- **8902**: But I have no time for family drrramas. Missing treasure would be a whole other story, of course.
-- **8997**: The scent of treasure on you is making my nose twitch. Some people have all the luck...
-- **9037**: That mirror should hold powers similar to the Glass of All-Seeing.
-- **9038**: Sends a thrill down my spine...
-- **9039**: Welcome back. How did everything go?
-- **9040**: Can I assume frrrom the look on your face that you found the mirror?
-- **9041**: Well, aren't you going to show it to me?
-- **9042**: It's cracked!? You can't be serrrious!
-- **9043**: If it was to save <Player>'s life, I suppose you had no choice...
-- **9044**: I asked you to trrrack down the mirror, even though there were dangers involved. I'm in no position to crrriticize.
-- **9045**: You say it was feeding power to a drrragon? What a dreadful object.
-- **9046**: It is beautiful, though...
-- **9047**: Mirrors have always held a fascination for me, you see.
-- **9048**: It's satisfying just to know that the trrreasure I was searching for actually existed.
-- **9049**: But even with these cracks, we must treat the mirror with caution. Who knows what other secrrrets it may hide?
-- **9050**: I'll look after it for the time being.
-- **9159**: I love to see new friendships forrrming. I'm getting kind of misty here...
-- **9160**: Don't forget to help out your old pal Luto from time to time!
-- **9175**: You can now call on [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] as your adventuring fellow!
-- **9176**: You can now call on [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] as your adventuring fellow!
-- **9177**: You can now call on [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] as your adventuring fellow!
-- **9178**: You can now call on [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] as your adventuring fellow!
-- **9179**: You can now call on [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] as your adventuring fellow!
-- **9180**: You can now call on [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] as your adventuring fellow!
-- **9181**: You can now call on [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] as your adventuring fellow!
-- **9182**: You can now call on [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] as your adventuring fellow!
-- **9183**: An adventuring fellow can only be called when the total number of current party members and adventuring fellows is five or less.
-- **9190**: <Player>, I have a question for you. How do you go about choosing a weapon?
-- **9191**: I met [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat.
-- **9192**: I met [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat.
-- **9193**: I met [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat.
-- **9194**: I met [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat.
-- **9195**: I met [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat.
-- **9196**: I met [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat.
-- **9197**: I met [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat.
-- **9198**: I met [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat.
-- **9199**: While that does make sense in theory, I shudder to think how much gil you would go through if you couldn't make up your mind. Anyway, I didn't notice any new weapons being bought by our mutual friend...
-- **9200**: Here's an idea. If you have any spare weapons lying arrround, why don't you lend them to [him/her/him/her/him/her/her/him]?
-- **9201**: But rrrather than just handing over some expensive axe or jeweled dagger, why not start with some beginner's gear for prrractice?
-- **9202**: If you leave the weapon with me, I'll be happy to make sure it gets to [him/her/him/her/him/her/her/him].
-- **9203**: You can trrrust me! I'm only interested in trrreasure. The weapon will get to [him/her/him/her/him/her/her/him].
-- **9204**: Hi, <Player>. [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] told me he was thinking about upgrading his weapon.
-- **9205**: Hi, <Player>. [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] told me she was thinking about upgrading her weapon.
-- **9206**: Hi, <Player>. [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] told me he was thinking about upgrading his weapon.
-- **9207**: Hi, <Player>. [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] told me she was thinking about upgrading her weapon.
-- **9208**: Hi, <Player>. [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] told me he was thinking about upgrading his weapon.
-- **9209**: Hi, <Player>. [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] told me she was thinking about upgrading her weapon.
-- **9210**: Hi, <Player>. [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] told me she was thinking about upgrading her weapon.
-- **9211**: Hi, <Player>. [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] told me he was thinking about upgrading his weapon.
-- **9212**: I still sensed some serrrious confusion, though.
-- **9213**: Why don't you help [him/her/him/her/him/her/her/him] out and leave a new weapon or shield with me?
-- **9214**: You want to give $1 to [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]? Okay, I'll make sure he gets your gift.
-- **9215**: You want to give $1 to [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]? Okay, I'll make sure she gets your gift.
-- **9216**: You want to give $1 to [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]? Okay, I'll make sure he gets your gift.
-- **9217**: You want to give $1 to [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]? Okay, I'll make sure she gets your gift.
-- **9218**: You want to give $1 to [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]? Okay, I'll make sure he gets your gift.
-- **9219**: You want to give $1 to [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]? Okay, I'll make sure she gets your gift.
-- **9220**: You want to give $1 to [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]? Okay, I'll make sure she gets your gift.
-- **9221**: You want to give $1 to [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]? Okay, I'll make sure he gets your gift.
-- **9223**: What can I do for you?
-- **9224**: What's up? [Anything new happening?/I want to start over.]
-- **9225**: Hmmm. Nothing at the moment. Check back with me again later.
-- **9226**: Are you serrrious?
-- **9227**: Are you serious? [Dead serious./No, not really.]
-- **9228**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji].
-- **9229**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde].
-- **9230**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant].
-- **9231**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue].
-- **9232**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga].
-- **9233**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa].
-- **9234**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka].
-- **9235**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof].
-- **9236**: You'll never see [him/her/him/her/him/her/her/him] again. Are you okay with that?
-- **9237**: Are you okay with that? [Doesn't bother me./Never? Wait a minute...]
-- **9238**: Please don't play games with me, <Player>.
-- **9239**: Fine. Hand over the $1 and we'll forget any of this ever happened.
-- **9240**: Say your farewells to [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]...
-- **9241**: Say your farewells to [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]...
-- **9242**: Say your farewells to [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]...
-- **9243**: Say your farewells to [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]...
-- **9244**: Say your farewells to [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]...
-- **9245**: Say your farewells to [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]...
-- **9246**: Say your farewells to [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]...
-- **9247**: Say your farewells to [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]...
-- **9248**: Now, fix your eyes on this for me...
-- **9249**: Returning the $1 will errrase all that has happened between us. Are you certain you want to go through with this?
-- **9250**: Are you certain? [Maybe not.../Positively.]
-- **9251**: Well, I'm glad to hear that, <Player>. Don't you ever scare me like that again!
-- **9252**: I see you've made up your mind.
-- **9253**: Thanks to you, I got my paws on some great information. Be in touch.
-- **9286**: You go on ahead. I'll meet you in Ru'Lude Gardens.
-- **9784**: Look for a book on Near Eastern mirrors in the Windurst Optistery.
-- **9904**: We have to find Palometa. She could be our only clue...
-- **9906**: Oh, <Player>. About [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]'s weapon...
-- **9907**: Oh, <Player>. About [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]'s weapon...
-- **9908**: Oh, <Player>. About [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]'s weapon...
-- **9909**: Oh, <Player>. About [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]'s weapon...
-- **9910**: Oh, <Player>. About [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]'s weapon...
-- **9911**: Oh, <Player>. About [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]'s weapon...
-- **9912**: Oh, <Player>. About [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]'s weapon...
-- **9913**: Oh, <Player>. About [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]'s weapon...
-- **9914**: I think your pal is looking for a new one again. If the weapons I hand over don't make an impression, they don't get used, it seems.
-- **9915**: What's happening to the weapons that don't get used? I don't know, but I certainly hope your gifts aren't being sold off!
-- **9916**: If you still wish to pass on weapons or shields thrrrough me, I'll be glad to help.
-- **9917**: <Player>, have you met with [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] lately? It appears he's rrreally coming along as an adventurer.
-- **9918**: <Player>, have you met with [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] lately? It appears she's rrreally coming along as an adventurer.
-- **9919**: <Player>, have you met with [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] lately? It appears he's rrreally coming along as an adventurer.
-- **9920**: <Player>, have you met with [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] lately? It appears she's rrreally coming along as an adventurer.
-- **9921**: <Player>, have you met with [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] lately? It appears he's rrreally coming along as an adventurer.
-- **9922**: <Player>, have you met with [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] lately? It appears she's rrreally coming along as an adventurer.
-- **9923**: <Player>, have you met with [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] lately? It appears she's rrreally coming along as an adventurer.
-- **9924**: <Player>, have you met with [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] lately? It appears he's rrreally coming along as an adventurer.
-- **9925**: I thought a new weapon or shield would make a nice gift in thanks for all the hard work your frrriend has done for me.
-- **9926**: But then I rrrealized I have absolutely no idea when it comes to weapons. Do you think you could find something suitable for me?
-- **9927**: Then it would be like a prrresent from the both of us! Wouldn't that be nice?
-- **9928**: <Player>, the weapon that [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] is using is not the one that I gave him...
-- **9929**: <Player>, the weapon that [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] is using is not the one that I gave her...
-- **9930**: <Player>, the weapon that [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] is using is not the one that I gave him...
-- **9931**: <Player>, the weapon that [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] is using is not the one that I gave her...
-- **9932**: <Player>, the weapon that [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] is using is not the one that I gave him...
-- **9933**: <Player>, the weapon that [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] is using is not the one that I gave her...
-- **9934**: <Player>, the weapon that [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] is using is not the one that I gave her...
-- **9935**: <Player>, the weapon that [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] is using is not the one that I gave him...
-- **9936**: Was there something wrong with my gift!? I think I'm insulted!
-- **9937**: Wasn't that a prrresent from the both of us, you ask? Well, I had meant to explain that when I handed over the gift...
-- **9938**: I'll be sure to mention it next time! Well? What are you waiting for? We need to find a weapon that won't be rrrejected!
-- **10137**: 3 is a malleable metal. I need you to bring me a sample.
-- **10138**: Once we find this spring of clear water, our prrreparations will be complete.
-- **10139**: Palometa still hasn't opened her eyes. I wish I knew how to help her...
-- **10140**: Fine. Hand over the $1 and the $2 and we'll forget any of this ever happened.
-- **10141**: Hand over the $1 and the $2 and we'll forget any of this ever happened. Are you certain you want to go through with this?
-- **10436**: <Player>. I didn't want to believe my eyes, but...
-- **10437**: I saw [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] going into a weapon store carrying one of our gifts...
-- **10438**: I saw [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] going into a weapon store carrying one of our gifts...
-- **10439**: I saw [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] going into a weapon store carrying one of our gifts...
-- **10440**: I saw [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] going into a weapon store carrying one of our gifts...
-- **10441**: I saw [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] going into a weapon store carrying one of our gifts...
-- **10442**: I saw [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] going into a weapon store carrying one of our gifts...
-- **10443**: I saw [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] going into a weapon store carrying one of our gifts...
-- **10444**: I saw [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] going into a weapon store carrying one of our gifts...
-- **10445**: Why would someone want to visit a weapon store after rrreceiving such fine prrresents from us?
-- **10446**: If you still wish to give [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
-- **10447**: If you still wish to give [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
-- **10448**: If you still wish to give [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
-- **10449**: If you still wish to give [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
-- **10450**: If you still wish to give [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
-- **10451**: If you still wish to give [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
-- **10452**: If you still wish to give [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
-- **10453**: If you still wish to give [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
-- **10454**: Hi, <Player>. Guess what I saw the other day? There was a moogle wandering along carrying some weapon.
-- **10455**: The moogle must take good care of it, because it was the polished gleam that caught my eye. He seemed to be on his way to a Mog House.
-- **10456**: I heard him mutter something like, "I must take care of my master's favorite weapon, kupo!"
-- **10457**: Anyway, I gave his antenna-thing a little flick as he walked past. What? I couldn't help myself...
-- **10458**: Oh, that rrreminds me. If you have anything to hand to [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji], I'll be happy to do the honors.
-- **10459**: Oh, that rrreminds me. If you have anything to hand to [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde], I'll be happy to do the honors.
-- **10460**: Oh, that rrreminds me. If you have anything to hand to [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant], I'll be happy to do the honors.
-- **10461**: Oh, that rrreminds me. If you have anything to hand to [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue], I'll be happy to do the honors.
-- **10462**: Oh, that rrreminds me. If you have anything to hand to [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga], I'll be happy to do the honors.
-- **10463**: Oh, that rrreminds me. If you have anything to hand to [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa], I'll be happy to do the honors.
-- **10464**: Oh, that rrreminds me. If you have anything to hand to [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka], I'll be happy to do the honors.
-- **10465**: Oh, that rrreminds me. If you have anything to hand to [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof], I'll be happy to do the honors.
-- **10854**: Palometa is rrresting at the Neptune's Spire in Lower Jeuno. Would you mind checking up on her?
-- **10855**: Maybe you should find this guardian spirit and ask about the Glass of All-Seeing.
-- **10856**: Hm? Yes, I gave the Mirror of Blighted Gloom to Palometa alrrready.
-- **10857**: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] says that the power of the mirror is still unstable.
-- **10858**: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] says that the power of the mirror is still unstable.
-- **10859**: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] says that the power of the mirror is still unstable.
-- **10860**: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] says that the power of the mirror is still unstable.
-- **10861**: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] says that the power of the mirror is still unstable.
-- **10862**: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] says that the power of the mirror is still unstable.
-- **10863**: [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] says that the power of the mirror is still unstable.
-- **10864**: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] says that the power of the mirror is still unstable.
-- **10865**: I'm prrretty sure the place where the mirror showed Palometa was the Qu'Bia Arena...
-- **10866**: Shouldn't you be off to the Neptune's Spire to see [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?
-- **10867**: Shouldn't you be off to the Neptune's Spire to see [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?
-- **10868**: Shouldn't you be off to the Neptune's Spire to see [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?
-- **10869**: Shouldn't you be off to the Neptune's Spire to see [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?
-- **10870**: Shouldn't you be off to the Neptune's Spire to see [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]?
-- **10871**: Shouldn't you be off to the Neptune's Spire to see [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]?
-- **10872**: Shouldn't you be off to the Neptune's Spire to see [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]?
-- **10873**: Shouldn't you be off to the Neptune's Spire to see [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]?
-- **10874**: You've been a grrreat help as always, <Player>. I'm sure you'll be hearing from me in the future.
-- **10876**: All by yourself, <Player>? Where's [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?
-- **10877**: All by yourself, <Player>? Where's [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?
-- **10878**: All by yourself, <Player>? Where's [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?
-- **10879**: All by yourself, <Player>? Where's [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?
-- **10880**: All by yourself, <Player>? Where's [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]?
-- **10881**: All by yourself, <Player>? Where's [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]?
-- **10882**: All by yourself, <Player>? Where's [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]?
-- **10883**: All by yourself, <Player>? Where's [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]?
-- **11121**: <Player>'s badge flashes brightly.
-- **11126**: Heheh, I just can't rrresist anything shiny...
-- **11127**: Luto Mewrilah's badge flashes brightly.
-- **11128**: Still, I wonder why they've come all the way here to recruit mercenaries. I bet their expenses are through the rrroof!
+- **8817**: There're so many people in this town. It takes me by surprrrise no matter how many times I come here.
+- **8818**: All this activity makes it difficult to get anything done. It's enough to make my whiskers curl.
+- **8819**: I don't think you'd be able to help me out, though. Why don't you rrrun along?
+- **8903**: Must be harrrd to have a child go missing.
+- **8904**: But I have no time for family drrramas. Missing treasure would be a whole other story, of course.
+- **8999**: The scent of treasure on you is making my nose twitch. Some people have all the luck...
+- **9039**: That mirror should hold powers similar to the Glass of All-Seeing.
+- **9040**: Sends a thrill down my spine...
+- **9041**: Welcome back. How did everything go?
+- **9042**: Can I assume frrrom the look on your face that you found the mirror?
+- **9043**: Well, aren't you going to show it to me?
+- **9044**: It's cracked!? You can't be serrrious!
+- **9045**: If it was to save <Player>'s life, I suppose you had no choice...
+- **9046**: I asked you to trrrack down the mirror, even though there were dangers involved. I'm in no position to crrriticize.
+- **9047**: You say it was feeding power to a drrragon? What a dreadful object.
+- **9048**: It is beautiful, though...
+- **9049**: Mirrors have always held a fascination for me, you see.
+- **9050**: It's satisfying just to know that the trrreasure I was searching for actually existed.
+- **9051**: But even with these cracks, we must treat the mirror with caution. Who knows what other secrrrets it may hide?
+- **9052**: I'll look after it for the time being.
+- **9161**: I love to see new friendships forrrming. I'm getting kind of misty here...
+- **9162**: Don't forget to help out your old pal Luto from time to time!
+- **9177**: You can now call on [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] as your adventuring fellow!
+- **9178**: You can now call on [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] as your adventuring fellow!
+- **9179**: You can now call on [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] as your adventuring fellow!
+- **9180**: You can now call on [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] as your adventuring fellow!
+- **9181**: You can now call on [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] as your adventuring fellow!
+- **9182**: You can now call on [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] as your adventuring fellow!
+- **9183**: You can now call on [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] as your adventuring fellow!
+- **9184**: You can now call on [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] as your adventuring fellow!
+- **9185**: An adventuring fellow can only be called when the total number of current party members and adventuring fellows is five or less.
+- **9192**: <Player>, I have a question for you. How do you go about choosing a weapon?
+- **9193**: I met [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat.
+- **9194**: I met [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat.
+- **9195**: I met [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat.
+- **9196**: I met [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat.
+- **9197**: I met [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat.
+- **9198**: I met [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat.
+- **9199**: I met [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat.
+- **9200**: I met [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat.
+- **9201**: While that does make sense in theory, I shudder to think how much gil you would go through if you couldn't make up your mind. Anyway, I didn't notice any new weapons being bought by our mutual friend...
+- **9202**: Here's an idea. If you have any spare weapons lying arrround, why don't you lend them to [him/her/him/her/him/her/her/him]?
+- **9203**: But rrrather than just handing over some expensive axe or jeweled dagger, why not start with some beginner's gear for prrractice?
+- **9204**: If you leave the weapon with me, I'll be happy to make sure it gets to [him/her/him/her/him/her/her/him].
+- **9205**: You can trrrust me! I'm only interested in trrreasure. The weapon will get to [him/her/him/her/him/her/her/him].
+- **9206**: Hi, <Player>. [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] told me he was thinking about upgrading his weapon.
+- **9207**: Hi, <Player>. [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] told me she was thinking about upgrading her weapon.
+- **9208**: Hi, <Player>. [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] told me he was thinking about upgrading his weapon.
+- **9209**: Hi, <Player>. [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] told me she was thinking about upgrading her weapon.
+- **9210**: Hi, <Player>. [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] told me he was thinking about upgrading his weapon.
+- **9211**: Hi, <Player>. [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] told me she was thinking about upgrading her weapon.
+- **9212**: Hi, <Player>. [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] told me she was thinking about upgrading her weapon.
+- **9213**: Hi, <Player>. [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] told me he was thinking about upgrading his weapon.
+- **9214**: I still sensed some serrrious confusion, though.
+- **9215**: Why don't you help [him/her/him/her/him/her/her/him] out and leave a new weapon or shield with me?
+- **9216**: You want to give $1 to [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]? Okay, I'll make sure he gets your gift.
+- **9217**: You want to give $1 to [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]? Okay, I'll make sure she gets your gift.
+- **9218**: You want to give $1 to [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]? Okay, I'll make sure he gets your gift.
+- **9219**: You want to give $1 to [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]? Okay, I'll make sure she gets your gift.
+- **9220**: You want to give $1 to [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]? Okay, I'll make sure he gets your gift.
+- **9221**: You want to give $1 to [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]? Okay, I'll make sure she gets your gift.
+- **9222**: You want to give $1 to [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]? Okay, I'll make sure she gets your gift.
+- **9223**: You want to give $1 to [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]? Okay, I'll make sure he gets your gift.
+- **9225**: What can I do for you?
+- **9226**: What's up? [Anything new happening?/I want to start over.]
+- **9227**: Hmmm. Nothing at the moment. Check back with me again later.
+- **9228**: Are you serrrious?
+- **9229**: Are you serious? [Dead serious./No, not really.]
+- **9230**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji].
+- **9231**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde].
+- **9232**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant].
+- **9233**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue].
+- **9234**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga].
+- **9235**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa].
+- **9236**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka].
+- **9237**: Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof].
+- **9238**: You'll never see [him/her/him/her/him/her/her/him] again. Are you okay with that?
+- **9239**: Are you okay with that? [Doesn't bother me./Never? Wait a minute...]
+- **9240**: Please don't play games with me, <Player>.
+- **9241**: Fine. Hand over the $1 and we'll forget any of this ever happened.
+- **9242**: Say your farewells to [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]...
+- **9243**: Say your farewells to [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]...
+- **9244**: Say your farewells to [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]...
+- **9245**: Say your farewells to [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]...
+- **9246**: Say your farewells to [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]...
+- **9247**: Say your farewells to [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]...
+- **9248**: Say your farewells to [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]...
+- **9249**: Say your farewells to [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]...
+- **9250**: Now, fix your eyes on this for me...
+- **9251**: Returning the $1 will errrase all that has happened between us. Are you certain you want to go through with this?
+- **9252**: Are you certain? [Maybe not.../Positively.]
+- **9253**: Well, I'm glad to hear that, <Player>. Don't you ever scare me like that again!
+- **9254**: I see you've made up your mind.
+- **9255**: Thanks to you, I got my paws on some great information. Be in touch.
+- **9288**: You go on ahead. I'll meet you in Ru'Lude Gardens.
+- **9786**: Look for a book on Near Eastern mirrors in the Windurst Optistery.
+- **9906**: We have to find Palometa. She could be our only clue...
+- **9908**: Oh, <Player>. About [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]'s weapon...
+- **9909**: Oh, <Player>. About [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]'s weapon...
+- **9910**: Oh, <Player>. About [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]'s weapon...
+- **9911**: Oh, <Player>. About [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]'s weapon...
+- **9912**: Oh, <Player>. About [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]'s weapon...
+- **9913**: Oh, <Player>. About [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]'s weapon...
+- **9914**: Oh, <Player>. About [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]'s weapon...
+- **9915**: Oh, <Player>. About [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]'s weapon...
+- **9916**: I think your pal is looking for a new one again. If the weapons I hand over don't make an impression, they don't get used, it seems.
+- **9917**: What's happening to the weapons that don't get used? I don't know, but I certainly hope your gifts aren't being sold off!
+- **9918**: If you still wish to pass on weapons or shields thrrrough me, I'll be glad to help.
+- **9919**: <Player>, have you met with [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] lately? It appears he's rrreally coming along as an adventurer.
+- **9920**: <Player>, have you met with [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] lately? It appears she's rrreally coming along as an adventurer.
+- **9921**: <Player>, have you met with [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] lately? It appears he's rrreally coming along as an adventurer.
+- **9922**: <Player>, have you met with [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] lately? It appears she's rrreally coming along as an adventurer.
+- **9923**: <Player>, have you met with [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] lately? It appears he's rrreally coming along as an adventurer.
+- **9924**: <Player>, have you met with [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] lately? It appears she's rrreally coming along as an adventurer.
+- **9925**: <Player>, have you met with [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] lately? It appears she's rrreally coming along as an adventurer.
+- **9926**: <Player>, have you met with [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] lately? It appears he's rrreally coming along as an adventurer.
+- **9927**: I thought a new weapon or shield would make a nice gift in thanks for all the hard work your frrriend has done for me.
+- **9928**: But then I rrrealized I have absolutely no idea when it comes to weapons. Do you think you could find something suitable for me?
+- **9929**: Then it would be like a prrresent from the both of us! Wouldn't that be nice?
+- **9930**: <Player>, the weapon that [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] is using is not the one that I gave him...
+- **9931**: <Player>, the weapon that [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] is using is not the one that I gave her...
+- **9932**: <Player>, the weapon that [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] is using is not the one that I gave him...
+- **9933**: <Player>, the weapon that [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] is using is not the one that I gave her...
+- **9934**: <Player>, the weapon that [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] is using is not the one that I gave him...
+- **9935**: <Player>, the weapon that [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] is using is not the one that I gave her...
+- **9936**: <Player>, the weapon that [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] is using is not the one that I gave her...
+- **9937**: <Player>, the weapon that [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] is using is not the one that I gave him...
+- **9938**: Was there something wrong with my gift!? I think I'm insulted!
+- **9939**: Wasn't that a prrresent from the both of us, you ask? Well, I had meant to explain that when I handed over the gift...
+- **9940**: I'll be sure to mention it next time! Well? What are you waiting for? We need to find a weapon that won't be rrrejected!
+- **10139**: 3 is a malleable metal. I need you to bring me a sample.
+- **10140**: Once we find this spring of clear water, our prrreparations will be complete.
+- **10141**: Palometa still hasn't opened her eyes. I wish I knew how to help her...
+- **10142**: Fine. Hand over the $1 and the $2 and we'll forget any of this ever happened.
+- **10143**: Hand over the $1 and the $2 and we'll forget any of this ever happened. Are you certain you want to go through with this?
+- **10438**: <Player>. I didn't want to believe my eyes, but...
+- **10439**: I saw [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] going into a weapon store carrying one of our gifts...
+- **10440**: I saw [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] going into a weapon store carrying one of our gifts...
+- **10441**: I saw [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] going into a weapon store carrying one of our gifts...
+- **10442**: I saw [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] going into a weapon store carrying one of our gifts...
+- **10443**: I saw [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] going into a weapon store carrying one of our gifts...
+- **10444**: I saw [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] going into a weapon store carrying one of our gifts...
+- **10445**: I saw [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] going into a weapon store carrying one of our gifts...
+- **10446**: I saw [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] going into a weapon store carrying one of our gifts...
+- **10447**: Why would someone want to visit a weapon store after rrreceiving such fine prrresents from us?
+- **10448**: If you still wish to give [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
+- **10449**: If you still wish to give [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
+- **10450**: If you still wish to give [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
+- **10451**: If you still wish to give [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
+- **10452**: If you still wish to give [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
+- **10453**: If you still wish to give [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
+- **10454**: If you still wish to give [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
+- **10455**: If you still wish to give [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use...
+- **10456**: Hi, <Player>. Guess what I saw the other day? There was a moogle wandering along carrying some weapon.
+- **10457**: The moogle must take good care of it, because it was the polished gleam that caught my eye. He seemed to be on his way to a Mog House.
+- **10458**: I heard him mutter something like, "I must take care of my master's favorite weapon, kupo!"
+- **10459**: Anyway, I gave his antenna-thing a little flick as he walked past. What? I couldn't help myself...
+- **10460**: Oh, that rrreminds me. If you have anything to hand to [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji], I'll be happy to do the honors.
+- **10461**: Oh, that rrreminds me. If you have anything to hand to [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde], I'll be happy to do the honors.
+- **10462**: Oh, that rrreminds me. If you have anything to hand to [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant], I'll be happy to do the honors.
+- **10463**: Oh, that rrreminds me. If you have anything to hand to [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue], I'll be happy to do the honors.
+- **10464**: Oh, that rrreminds me. If you have anything to hand to [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga], I'll be happy to do the honors.
+- **10465**: Oh, that rrreminds me. If you have anything to hand to [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa], I'll be happy to do the honors.
+- **10466**: Oh, that rrreminds me. If you have anything to hand to [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka], I'll be happy to do the honors.
+- **10467**: Oh, that rrreminds me. If you have anything to hand to [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof], I'll be happy to do the honors.
+- **10856**: Palometa is rrresting at the Neptune's Spire in Lower Jeuno. Would you mind checking up on her?
+- **10857**: Maybe you should find this guardian spirit and ask about the Glass of All-Seeing.
+- **10858**: Hm? Yes, I gave the Mirror of Blighted Gloom to Palometa alrrready.
+- **10859**: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] says that the power of the mirror is still unstable.
+- **10860**: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] says that the power of the mirror is still unstable.
+- **10861**: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] says that the power of the mirror is still unstable.
+- **10862**: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] says that the power of the mirror is still unstable.
+- **10863**: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] says that the power of the mirror is still unstable.
+- **10864**: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] says that the power of the mirror is still unstable.
+- **10865**: [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] says that the power of the mirror is still unstable.
+- **10866**: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] says that the power of the mirror is still unstable.
+- **10867**: I'm prrretty sure the place where the mirror showed Palometa was the Qu'Bia Arena...
+- **10868**: Shouldn't you be off to the Neptune's Spire to see [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?
+- **10869**: Shouldn't you be off to the Neptune's Spire to see [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?
+- **10870**: Shouldn't you be off to the Neptune's Spire to see [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?
+- **10871**: Shouldn't you be off to the Neptune's Spire to see [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?
+- **10872**: Shouldn't you be off to the Neptune's Spire to see [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]?
+- **10873**: Shouldn't you be off to the Neptune's Spire to see [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]?
+- **10874**: Shouldn't you be off to the Neptune's Spire to see [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]?
+- **10875**: Shouldn't you be off to the Neptune's Spire to see [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]?
+- **10876**: You've been a grrreat help as always, <Player>. I'm sure you'll be hearing from me in the future.
+- **10878**: All by yourself, <Player>? Where's [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?
+- **10879**: All by yourself, <Player>? Where's [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?
+- **10880**: All by yourself, <Player>? Where's [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?
+- **10881**: All by yourself, <Player>? Where's [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?
+- **10882**: All by yourself, <Player>? Where's [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]?
+- **10883**: All by yourself, <Player>? Where's [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]?
+- **10884**: All by yourself, <Player>? Where's [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]?
+- **10885**: All by yourself, <Player>? Where's [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]?
+- **11123**: <Player>'s badge flashes brightly.
+- **11128**: Heheh, I just can't rrresist anything shiny...
+- **11129**: Luto Mewrilah's badge flashes brightly.
+- **11130**: Still, I wonder why they've come all the way here to recruit mercenaries. I bet their expenses are through the rrroof!
 
 ## Events
 
@@ -1115,7 +1115,7 @@
   0: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0008 [0x1C] WAIT(30* ticks)
   2: 0x000B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=48*
-  3: 0x001A [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [8850*]:
+  3: 0x001A [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [8852*]:
     → "Better be on your way while the trail's still warm!"
   4: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0022 [0x1C] WAIT(60* ticks)
@@ -1144,7 +1144,7 @@
 
 ```
   0: 0x0027 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9253*)
+  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9255*)
     → "Thanks to you, I got my paws on some great information. Be in touch."
   2: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0030 [0x21] END_EVENT
@@ -1313,7 +1313,7 @@
  13: 0x00A5 [0x2A] GET_REQ_LEVEL(level=15, entity_id=Laurana (ID: 17776781/0x010F408D))
  14: 0x00AB [0x1C] WAIT(10* ticks)
  15: 0x00AE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Laurana (ID: 17776781/0x010F408D), Laurana (ID: 17776781/0x010F408D)], work=0*
- 16: 0x00BD [0x2B] Laurana (ID: 17776781/0x010F408D) [8892*]:
+ 16: 0x00BD [0x2B] Laurana (ID: 17776781/0x010F408D) [8894*]:
     → "Where could she be...? I pray to Altana nothing has happened to her..."
  17: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00C5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Laurana (ID: 17776781/0x010F408D), Laurana (ID: 17776781/0x010F408D)], work=0*
@@ -1321,7 +1321,7 @@
  20: 0x00D7 [0x4A] Laurana (ID: 17776781/0x010F408D) looks at Luto Mewrilah (ID: 17776780/0x010F408C)
  21: 0x00E0 [0x1C] WAIT(30* ticks)
  22: 0x00E3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Laurana (ID: 17776781/0x010F408D), Laurana (ID: 17776781/0x010F408D)], work=0*
- 23: 0x00F2 [0x2B] Laurana (ID: 17776781/0x010F408D) [8893*]:
+ 23: 0x00F2 [0x2B] Laurana (ID: 17776781/0x010F408D) [8895*]:
     → "Excuse me. You haven't seen a little girl anywhere, have you? My daughter has gone missing..."
  24: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00FA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Laurana (ID: 17776781/0x010F408D), Laurana (ID: 17776781/0x010F408D)], work=0*
@@ -1329,11 +1329,11 @@
  27: 0x0118 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [EventEntity, EventEntity], work=[191*, 0*]
  28: 0x0129 [0x1C] WAIT(30* ticks)
  29: 0x012C [0x4A] Luto Mewrilah (ID: 17776780/0x010F408C) looks at Laurana (ID: 17776781/0x010F408D)
- 30: 0x0135 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [8894*]:
+ 30: 0x0135 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [8896*]:
     → "Are you talking to us?"
  31: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x013D [0x79] Laurana (ID: 17776781/0x010F408D) looks at LocalPlayer (Basic look)
- 33: 0x0147 [0x2B] Laurana (ID: 17776781/0x010F408D) [8895*]:
+ 33: 0x0147 [0x2B] Laurana (ID: 17776781/0x010F408D) [8897*]:
     → "Yes, could you help me look for her?"
  34: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x014F [0x4A] LocalPlayer looks at Laurana (ID: 17776781/0x010F408D)
@@ -1344,7 +1344,7 @@
  40: 0x0183 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  41: 0x0185 [0x4A] Luto Mewrilah (ID: 17776780/0x010F408C) looks at Laurana (ID: 17776781/0x010F408D)
  42: 0x018E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
- 43: 0x019D [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [8896*]:
+ 43: 0x019D [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [8898*]:
     → "If you're looking for someone, then <Player> here is your [man/woman]. [He/She] has a knack for finding people."
  44: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x01A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
@@ -1356,7 +1356,7 @@
  51: 0x01D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[191*, 0*]
  52: 0x01E8 [0x1A] CALL_SUBROUTINE(address=0x0363)
  53: 0x01EB [0x27] REQ_SET(priority=0x0A, entity_id=Palometa (ID: 17776782/0x010F408E), tag_num=0x07)
- 54: 0x01F2 [0x2B] Laurana (ID: 17776781/0x010F408D) [8897*]:
+ 54: 0x01F2 [0x2B] Laurana (ID: 17776781/0x010F408D) [8899*]:
     → "Then please, find my daughter. She has blonde hair and is wearing a brown dress."
  55: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01FA [0x2A] GET_REQ_LEVEL(level=10, entity_id=Palometa (ID: 17776782/0x010F408E))
@@ -1365,7 +1365,7 @@
  59: 0x0212 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "e001" with entities [Palometa (ID: 17776782/0x010F408E), Palometa (ID: 17776782/0x010F408E)], work=80*
  60: 0x0221 [0x1C] WAIT(240* ticks)
  61: 0x0224 [0x4B] UPDATE_ENTITY_YAW(entity=Palometa (ID: 17776782/0x010F408E), yaw=4.7°*)
- 62: 0x022B [0x2B] Laurana (ID: 17776781/0x010F408D) [8898*]:
+ 62: 0x022B [0x2B] Laurana (ID: 17776781/0x010F408D) [8900*]:
     → "She should be wearing a brown cap as well. Oh, how she loves that little cap...<sniff>"
  63: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0233 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s054" with entities [EventEntity, EventEntity], work=191*
@@ -1378,13 +1378,13 @@
  71: 0x0263 [0x1A] CALL_SUBROUTINE(address=0x0363)
  72: 0x0266 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [EventEntity, EventEntity], work=[191*, 0*]
  73: 0x0277 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Laurana (ID: 17776781/0x010F408D), Laurana (ID: 17776781/0x010F408D)], work=0*
- 74: 0x0286 [0x2B] Laurana (ID: 17776781/0x010F408D) [8899*]:
+ 74: 0x0286 [0x2B] Laurana (ID: 17776781/0x010F408D) [8901*]:
     → "She went out to play, and never came back..."
  75: 0x028D [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x028E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Laurana (ID: 17776781/0x010F408D), Laurana (ID: 17776781/0x010F408D)], work=0*
  77: 0x029D [0x1C] WAIT(30* ticks)
  78: 0x02A0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Laurana (ID: 17776781/0x010F408D), Laurana (ID: 17776781/0x010F408D)], work=0*
- 79: 0x02AF [0x2B] Laurana (ID: 17776781/0x010F408D) [8900*]:
+ 79: 0x02AF [0x2B] Laurana (ID: 17776781/0x010F408D) [8902*]:
     → "Great Goddess, I don't know what I'd do if I lost her..."
  80: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x02B7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Laurana (ID: 17776781/0x010F408D), Laurana (ID: 17776781/0x010F408D)], work=0*
@@ -1451,14 +1451,14 @@ SUBROUTINE_0363:
 
 ```
   0: 0x0387 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x038C [0x1D] PRINT_EVENT_MESSAGE(message_id=8815*)
+  1: 0x038C [0x1D] PRINT_EVENT_MESSAGE(message_id=8817*)
     → "There're so many people in this town. It takes me by surprrrise no matter how many times I come here."
   2: 0x038F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0390 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=51*
-  4: 0x039F [0x1D] PRINT_EVENT_MESSAGE(message_id=8816*)
+  4: 0x039F [0x1D] PRINT_EVENT_MESSAGE(message_id=8818*)
     → "All this activity makes it difficult to get anything done. It's enough to make my whiskers curl."
   5: 0x03A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8817*)
+  6: 0x03A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8819*)
     → "I don't think you'd be able to help me out, though. Why don't you rrrun along?"
   7: 0x03A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03A7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=51*
@@ -1533,11 +1533,11 @@ SUBROUTINE_0363:
 
 ```
   0: 0x03BA [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x03BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8901*)
+  1: 0x03BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8903*)
     → "Must be harrrd to have a child go missing."
   2: 0x03C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=51*
-  4: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8902*)
+  4: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8904*)
     → "But I have no time for family drrramas. Missing treasure would be a whole other story, of course."
   5: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03D6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=51*
@@ -1568,7 +1568,7 @@ SUBROUTINE_0363:
 ```
   0: 0x03E7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x03EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=51*
-  2: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8997*)
+  2: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8999*)
     → "The scent of treasure on you is making my nose twitch. Some people have all the luck..."
   3: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x03FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=51*
@@ -1599,10 +1599,10 @@ SUBROUTINE_0363:
 ```
   0: 0x0410 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0415 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [EventEntity, EventEntity], work=52*
-  2: 0x0424 [0x1D] PRINT_EVENT_MESSAGE(message_id=9037*)
+  2: 0x0424 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
     → "That mirror should hold powers similar to the Glass of All-Seeing."
   3: 0x0427 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0428 [0x1D] PRINT_EVENT_MESSAGE(message_id=9038*)
+  4: 0x0428 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "Sends a thrill down my spine..."
   5: 0x042B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x042C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc1" with entities [EventEntity, EventEntity], work=52*
@@ -1654,83 +1654,83 @@ SUBROUTINE_0363:
   4: 0x044F [0x1A] CALL_SUBROUTINE(address=0x3F23)
   5: 0x0452 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
   6: 0x0457 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
-  7: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=9223*)
+  7: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=9225*)
     → "What can I do for you?"
   8: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0460 [0x24] CREATE_DIALOG(message_id=9224*, default_option=0*, option_flags=0*)
+  9: 0x0460 [0x24] CREATE_DIALOG(message_id=9226*, default_option=0*, option_flags=0*)
     → "What's up? [Anything new happening?/I want to start over.]"
  10: 0x0467 [0x25] WAIT_DIALOG_SELECT()
  11: 0x0468 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0477
- 12: 0x0470 [0x1D] PRINT_EVENT_MESSAGE(message_id=9225*)
+ 12: 0x0470 [0x1D] PRINT_EVENT_MESSAGE(message_id=9227*)
     → "Hmmm. Nothing at the moment. Check back with me again later."
  13: 0x0473 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0474 [0x01] GOTO 0x0555
  15: 0x0477 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0555
- 16: 0x047F [0x1D] PRINT_EVENT_MESSAGE(message_id=9226*)
+ 16: 0x047F [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
     → "Are you serrrious?"
  17: 0x0482 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0483 [0x24] CREATE_DIALOG(message_id=9227*, default_option=1*, option_flags=0*)
+ 18: 0x0483 [0x24] CREATE_DIALOG(message_id=9229*, default_option=1*, option_flags=0*)
     → "Are you serious? [Dead serious./No, not really.]"
  19: 0x048A [0x25] WAIT_DIALOG_SELECT()
  20: 0x048B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0543
  21: 0x0493 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x04A2
- 22: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
+ 22: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]."
  23: 0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x049F [0x01] GOTO 0x050B
  25: 0x04A2 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x04B1
- 26: 0x04AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9229*)
+ 26: 0x04AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9231*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]."
  27: 0x04AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x04AE [0x01] GOTO 0x050B
  29: 0x04B1 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x04C0
- 30: 0x04B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
+ 30: 0x04B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]."
  31: 0x04BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x04BD [0x01] GOTO 0x050B
  33: 0x04C0 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x04CF
- 34: 0x04C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9231*)
+ 34: 0x04C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]."
  35: 0x04CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x04CC [0x01] GOTO 0x050B
  37: 0x04CF [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x04DE
- 38: 0x04D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
+ 38: 0x04D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]."
  39: 0x04DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x04DB [0x01] GOTO 0x050B
  41: 0x04DE [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x04ED
- 42: 0x04E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
+ 42: 0x04E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9235*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]."
  43: 0x04E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x04EA [0x01] GOTO 0x050B
  45: 0x04ED [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x04FC
- 46: 0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
+ 46: 0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9236*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]."
  47: 0x04F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x04F9 [0x01] GOTO 0x050B
  49: 0x04FC [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x050B
- 50: 0x0504 [0x1D] PRINT_EVENT_MESSAGE(message_id=9235*)
+ 50: 0x0504 [0x1D] PRINT_EVENT_MESSAGE(message_id=9237*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]."
  51: 0x0507 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0508 [0x01] GOTO 0x050B
 
 SUBROUTINE_050B:
- 53: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=9236*)
+ 53: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
     → "You'll never see [him/her/him/her/him/her/her/him] again. Are you okay with that?"
  54: 0x050E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x050F [0x24] CREATE_DIALOG(message_id=9237*, default_option=1*, option_flags=0*)
+ 55: 0x050F [0x24] CREATE_DIALOG(message_id=9239*, default_option=1*, option_flags=0*)
     → "Are you okay with that? [Doesn't bother me./Never? Wait a minute...]"
  56: 0x0516 [0x25] WAIT_DIALOG_SELECT()
  57: 0x0517 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0531
  58: 0x051F [0x42] SET_CLI_EVENT_CANCEL_DATA()
  59: 0x0520 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 60: 0x0525 [0x1D] PRINT_EVENT_MESSAGE(message_id=9239*)
+ 60: 0x0525 [0x1D] PRINT_EVENT_MESSAGE(message_id=9241*)
     → "Fine. Hand over the $1 and we'll forget any of this ever happened."
  61: 0x0528 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0529 [0x03] Work_Zone[1] = 100*
  63: 0x052E [0x01] GOTO 0x0540
  64: 0x0531 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0540
- 65: 0x0539 [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
+ 65: 0x0539 [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
     → "Please don't play games with me, <Player>."
  66: 0x053C [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x053D [0x01] GOTO 0x0540
@@ -1738,7 +1738,7 @@ SUBROUTINE_050B:
 SUBROUTINE_0540:
  68: 0x0540 [0x01] GOTO 0x0552
  69: 0x0543 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0552
- 70: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
+ 70: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
     → "Please don't play games with me, <Player>."
  71: 0x054E [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x054F [0x01] GOTO 0x0552
@@ -1824,97 +1824,97 @@ SUBROUTINE_0555:
   5: 0x056E [0x1A] CALL_SUBROUTINE(address=0x3F23)
   6: 0x0571 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
   7: 0x0576 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
-  8: 0x057B [0x1D] PRINT_EVENT_MESSAGE(message_id=9223*)
+  8: 0x057B [0x1D] PRINT_EVENT_MESSAGE(message_id=9225*)
     → "What can I do for you?"
   9: 0x057E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x057F [0x24] CREATE_DIALOG(message_id=9224*, default_option=0*, option_flags=0*)
+ 10: 0x057F [0x24] CREATE_DIALOG(message_id=9226*, default_option=0*, option_flags=0*)
     → "What's up? [Anything new happening?/I want to start over.]"
  11: 0x0586 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0587 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0742
  13: 0x058F [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x059E
- 14: 0x0597 [0x1D] PRINT_EVENT_MESSAGE(message_id=9225*)
+ 14: 0x0597 [0x1D] PRINT_EVENT_MESSAGE(message_id=9227*)
     → "Hmmm. Nothing at the moment. Check back with me again later."
  15: 0x059A [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x059B [0x01] GOTO 0x073F
  17: 0x059E [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x05AD
- 18: 0x05A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9784*)
+ 18: 0x05A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9786*)
     → "Look for a book on Near Eastern mirrors in the Windurst Optistery."
  19: 0x05A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x05AA [0x01] GOTO 0x073F
  21: 0x05AD [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x05BC
- 22: 0x05B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9904*)
+ 22: 0x05B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9906*)
     → "We have to find Palometa. She could be our only clue..."
  23: 0x05B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x05B9 [0x01] GOTO 0x073F
  25: 0x05BC [0x02] IF !(Work_Zone[5] == 3*) GOTO 0x05D0
  26: 0x05C4 [0x03] Work_Zone[2] = 732*
- 27: 0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10137*)
+ 27: 0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10139*)
     → "3 is a malleable metal. I need you to bring me a sample."
  28: 0x05CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x05CD [0x01] GOTO 0x073F
  30: 0x05D0 [0x02] IF !(Work_Zone[5] == 4*) GOTO 0x05DF
- 31: 0x05D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10138*)
+ 31: 0x05D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10140*)
     → "Once we find this spring of clear water, our prrreparations will be complete."
  32: 0x05DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x05DC [0x01] GOTO 0x073F
  34: 0x05DF [0x02] IF !(Work_Zone[5] == 5*) GOTO 0x05EE
- 35: 0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10139*)
+ 35: 0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10141*)
     → "Palometa still hasn't opened her eyes. I wish I knew how to help her..."
  36: 0x05EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x05EB [0x01] GOTO 0x073F
  38: 0x05EE [0x02] IF !(Work_Zone[5] == 6*) GOTO 0x05FD
- 39: 0x05F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10854*)
+ 39: 0x05F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
     → "Palometa is rrresting at the Neptune's Spire in Lower Jeuno. Would you mind checking up on her?"
  40: 0x05F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x05FA [0x01] GOTO 0x073F
  42: 0x05FD [0x02] IF !(Work_Zone[5] == 7*) GOTO 0x060C
- 43: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=10855*)
+ 43: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
     → "Maybe you should find this guardian spirit and ask about the Glass of All-Seeing."
  44: 0x0608 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0609 [0x01] GOTO 0x073F
  46: 0x060C [0x02] IF !(Work_Zone[5] == 8*) GOTO 0x061B
- 47: 0x0614 [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
+ 47: 0x0614 [0x1D] PRINT_EVENT_MESSAGE(message_id=10858*)
     → "Hm? Yes, I gave the Mirror of Blighted Gloom to Palometa alrrready."
  48: 0x0617 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0618 [0x01] GOTO 0x073F
  50: 0x061B [0x02] IF !(Work_Zone[5] == 9*) GOTO 0x069E
  51: 0x0623 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0632
- 52: 0x062B [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
+ 52: 0x062B [0x1D] PRINT_EVENT_MESSAGE(message_id=10859*)
     → "[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] says that the power of the mirror is still unstable."
  53: 0x062E [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x062F [0x01] GOTO 0x069B
  55: 0x0632 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0641
- 56: 0x063A [0x1D] PRINT_EVENT_MESSAGE(message_id=10858*)
+ 56: 0x063A [0x1D] PRINT_EVENT_MESSAGE(message_id=10860*)
     → "[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] says that the power of the mirror is still unstable."
  57: 0x063D [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x063E [0x01] GOTO 0x069B
  59: 0x0641 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0650
- 60: 0x0649 [0x1D] PRINT_EVENT_MESSAGE(message_id=10859*)
+ 60: 0x0649 [0x1D] PRINT_EVENT_MESSAGE(message_id=10861*)
     → "[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] says that the power of the mirror is still unstable."
  61: 0x064C [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x064D [0x01] GOTO 0x069B
  63: 0x0650 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x065F
- 64: 0x0658 [0x1D] PRINT_EVENT_MESSAGE(message_id=10860*)
+ 64: 0x0658 [0x1D] PRINT_EVENT_MESSAGE(message_id=10862*)
     → "[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] says that the power of the mirror is still unstable."
  65: 0x065B [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x065C [0x01] GOTO 0x069B
  67: 0x065F [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x066E
- 68: 0x0667 [0x1D] PRINT_EVENT_MESSAGE(message_id=10861*)
+ 68: 0x0667 [0x1D] PRINT_EVENT_MESSAGE(message_id=10863*)
     → "[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] says that the power of the mirror is still unstable."
  69: 0x066A [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x066B [0x01] GOTO 0x069B
  71: 0x066E [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x067D
- 72: 0x0676 [0x1D] PRINT_EVENT_MESSAGE(message_id=10862*)
+ 72: 0x0676 [0x1D] PRINT_EVENT_MESSAGE(message_id=10864*)
     → "[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] says that the power of the mirror is still unstable."
  73: 0x0679 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x067A [0x01] GOTO 0x069B
  75: 0x067D [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x068C
- 76: 0x0685 [0x1D] PRINT_EVENT_MESSAGE(message_id=10863*)
+ 76: 0x0685 [0x1D] PRINT_EVENT_MESSAGE(message_id=10865*)
     → "[Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] says that the power of the mirror is still unstable."
  77: 0x0688 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0689 [0x01] GOTO 0x069B
  79: 0x068C [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x069B
- 80: 0x0694 [0x1D] PRINT_EVENT_MESSAGE(message_id=10864*)
+ 80: 0x0694 [0x1D] PRINT_EVENT_MESSAGE(message_id=10866*)
     → "[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] says that the power of the mirror is still unstable."
  81: 0x0697 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0698 [0x01] GOTO 0x069B
@@ -1922,48 +1922,48 @@ SUBROUTINE_0555:
 SUBROUTINE_069B:
  83: 0x069B [0x01] GOTO 0x073F
  84: 0x069E [0x02] IF !(Work_Zone[5] == 10*) GOTO 0x06AD
- 85: 0x06A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10865*)
+ 85: 0x06A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
     → "I'm prrretty sure the place where the mirror showed Palometa was the Qu'Bia Arena..."
  86: 0x06A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x06AA [0x01] GOTO 0x073F
  88: 0x06AD [0x02] IF !(Work_Zone[5] == 11*) GOTO 0x0730
  89: 0x06B5 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x06C4
- 90: 0x06BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10866*)
+ 90: 0x06BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "Shouldn't you be off to the Neptune's Spire to see [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?"
  91: 0x06C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x06C1 [0x01] GOTO 0x072D
  93: 0x06C4 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x06D3
- 94: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+ 94: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
     → "Shouldn't you be off to the Neptune's Spire to see [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?"
  95: 0x06CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x06D0 [0x01] GOTO 0x072D
  97: 0x06D3 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x06E2
- 98: 0x06DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
+ 98: 0x06DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10870*)
     → "Shouldn't you be off to the Neptune's Spire to see [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?"
  99: 0x06DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x06DF [0x01] GOTO 0x072D
 101: 0x06E2 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x06F1
-102: 0x06EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
+102: 0x06EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10871*)
     → "Shouldn't you be off to the Neptune's Spire to see [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?"
 103: 0x06ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x06EE [0x01] GOTO 0x072D
 105: 0x06F1 [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0700
-106: 0x06F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10870*)
+106: 0x06F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10872*)
     → "Shouldn't you be off to the Neptune's Spire to see [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]?"
 107: 0x06FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x06FD [0x01] GOTO 0x072D
 109: 0x0700 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x070F
-110: 0x0708 [0x1D] PRINT_EVENT_MESSAGE(message_id=10871*)
+110: 0x0708 [0x1D] PRINT_EVENT_MESSAGE(message_id=10873*)
     → "Shouldn't you be off to the Neptune's Spire to see [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]?"
 111: 0x070B [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x070C [0x01] GOTO 0x072D
 113: 0x070F [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x071E
-114: 0x0717 [0x1D] PRINT_EVENT_MESSAGE(message_id=10872*)
+114: 0x0717 [0x1D] PRINT_EVENT_MESSAGE(message_id=10874*)
     → "Shouldn't you be off to the Neptune's Spire to see [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]?"
 115: 0x071A [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x071B [0x01] GOTO 0x072D
 117: 0x071E [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x072D
-118: 0x0726 [0x1D] PRINT_EVENT_MESSAGE(message_id=10873*)
+118: 0x0726 [0x1D] PRINT_EVENT_MESSAGE(message_id=10875*)
     → "Shouldn't you be off to the Neptune's Spire to see [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]?"
 119: 0x0729 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x072A [0x01] GOTO 0x072D
@@ -1971,7 +1971,7 @@ SUBROUTINE_069B:
 SUBROUTINE_072D:
 121: 0x072D [0x01] GOTO 0x073F
 122: 0x0730 [0x02] IF !(Work_Zone[5] == 12*) GOTO 0x073F
-123: 0x0738 [0x1D] PRINT_EVENT_MESSAGE(message_id=10874*)
+123: 0x0738 [0x1D] PRINT_EVENT_MESSAGE(message_id=10876*)
     → "You've been a grrreat help as always, <Player>. I'm sure you'll be hearing from me in the future."
 124: 0x073B [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x073C [0x01] GOTO 0x073F
@@ -1979,71 +1979,71 @@ SUBROUTINE_072D:
 SUBROUTINE_073F:
 126: 0x073F [0x01] GOTO 0x0834
 127: 0x0742 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0834
-128: 0x074A [0x1D] PRINT_EVENT_MESSAGE(message_id=9226*)
+128: 0x074A [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
     → "Are you serrrious?"
 129: 0x074D [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x074E [0x24] CREATE_DIALOG(message_id=9227*, default_option=1*, option_flags=0*)
+130: 0x074E [0x24] CREATE_DIALOG(message_id=9229*, default_option=1*, option_flags=0*)
     → "Are you serious? [Dead serious./No, not really.]"
 131: 0x0755 [0x25] WAIT_DIALOG_SELECT()
 132: 0x0756 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0822
 133: 0x075E [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x076D
-134: 0x0766 [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
+134: 0x0766 [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]."
 135: 0x0769 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x076A [0x01] GOTO 0x07D6
 137: 0x076D [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x077C
-138: 0x0775 [0x1D] PRINT_EVENT_MESSAGE(message_id=9229*)
+138: 0x0775 [0x1D] PRINT_EVENT_MESSAGE(message_id=9231*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]."
 139: 0x0778 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0779 [0x01] GOTO 0x07D6
 141: 0x077C [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x078B
-142: 0x0784 [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
+142: 0x0784 [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]."
 143: 0x0787 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x0788 [0x01] GOTO 0x07D6
 145: 0x078B [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x079A
-146: 0x0793 [0x1D] PRINT_EVENT_MESSAGE(message_id=9231*)
+146: 0x0793 [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]."
 147: 0x0796 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0797 [0x01] GOTO 0x07D6
 149: 0x079A [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x07A9
-150: 0x07A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
+150: 0x07A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]."
 151: 0x07A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x07A6 [0x01] GOTO 0x07D6
 153: 0x07A9 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x07B8
-154: 0x07B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
+154: 0x07B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9235*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]."
 155: 0x07B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x07B5 [0x01] GOTO 0x07D6
 157: 0x07B8 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x07C7
-158: 0x07C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
+158: 0x07C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9236*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]."
 159: 0x07C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x07C4 [0x01] GOTO 0x07D6
 161: 0x07C7 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x07D6
-162: 0x07CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9235*)
+162: 0x07CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9237*)
     → "Well, if you're serrrious, then you'll have to forget everything I've told you. You'll also lose all ties with [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]."
 163: 0x07D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x07D3 [0x01] GOTO 0x07D6
 
 SUBROUTINE_07D6:
-165: 0x07D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9236*)
+165: 0x07D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
     → "You'll never see [him/her/him/her/him/her/her/him] again. Are you okay with that?"
 166: 0x07D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-167: 0x07DA [0x24] CREATE_DIALOG(message_id=9237*, default_option=1*, option_flags=0*)
+167: 0x07DA [0x24] CREATE_DIALOG(message_id=9239*, default_option=1*, option_flags=0*)
     → "Are you okay with that? [Doesn't bother me./Never? Wait a minute...]"
 168: 0x07E1 [0x25] WAIT_DIALOG_SELECT()
 169: 0x07E2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0810
 170: 0x07EA [0x42] SET_CLI_EVENT_CANCEL_DATA()
 171: 0x07EB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
 172: 0x07F0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x07FF
-173: 0x07F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9239*)
+173: 0x07F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9241*)
     → "Fine. Hand over the $1 and we'll forget any of this ever happened."
 174: 0x07FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x07FC [0x01] GOTO 0x0808
 176: 0x07FF [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
-177: 0x0804 [0x1D] PRINT_EVENT_MESSAGE(message_id=10140*)
+177: 0x0804 [0x1D] PRINT_EVENT_MESSAGE(message_id=10142*)
     → "Fine. Hand over the $1 and the $2 and we'll forget any of this ever happened."
 178: 0x0807 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2051,7 +2051,7 @@ SUBROUTINE_0808:
 179: 0x0808 [0x03] Work_Zone[1] = 100*
 180: 0x080D [0x01] GOTO 0x081F
 181: 0x0810 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x081F
-182: 0x0818 [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
+182: 0x0818 [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
     → "Please don't play games with me, <Player>."
 183: 0x081B [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x081C [0x01] GOTO 0x081F
@@ -2059,7 +2059,7 @@ SUBROUTINE_0808:
 SUBROUTINE_081F:
 185: 0x081F [0x01] GOTO 0x0831
 186: 0x0822 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0831
-187: 0x082A [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
+187: 0x082A [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
     → "Please don't play games with me, <Player>."
 188: 0x082D [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x082E [0x01] GOTO 0x0831
@@ -2100,22 +2100,22 @@ SUBROUTINE_0834:
   0: 0x0836 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x083B [0x03] Work_Zone[1] = 0*
   2: 0x0840 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x084F
-  3: 0x0848 [0x1D] PRINT_EVENT_MESSAGE(message_id=9249*)
+  3: 0x0848 [0x1D] PRINT_EVENT_MESSAGE(message_id=9251*)
     → "Returning the $1 will errrase all that has happened between us. Are you certain you want to go through with this?"
   4: 0x084B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x084C [0x01] GOTO 0x0853
-  6: 0x084F [0x1D] PRINT_EVENT_MESSAGE(message_id=10141*)
+  6: 0x084F [0x1D] PRINT_EVENT_MESSAGE(message_id=10143*)
     → "Hand over the $1 and the $2 and we'll forget any of this ever happened. Are you certain you want to go through with this?"
   7: 0x0852 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0853:
-  8: 0x0853 [0x24] CREATE_DIALOG(message_id=9250*, default_option=1*, option_flags=0*)
+  8: 0x0853 [0x24] CREATE_DIALOG(message_id=9252*, default_option=1*, option_flags=0*)
     → "Are you certain? [Maybe not.../Positively.]"
   9: 0x085A [0x25] WAIT_DIALOG_SELECT()
  10: 0x085B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x088E
  11: 0x0863 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  12: 0x0864 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
- 13: 0x0873 [0x1D] PRINT_EVENT_MESSAGE(message_id=9251*)
+ 13: 0x0873 [0x1D] PRINT_EVENT_MESSAGE(message_id=9253*)
     → "Well, I'm glad to hear that, <Player>. Don't you ever scare me like that again!"
  14: 0x0876 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0877 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -2123,7 +2123,7 @@ SUBROUTINE_0853:
  17: 0x088B [0x01] GOTO 0x089E
  18: 0x088E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x089E
  19: 0x0896 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 20: 0x0897 [0x1D] PRINT_EVENT_MESSAGE(message_id=9252*)
+ 20: 0x0897 [0x1D] PRINT_EVENT_MESSAGE(message_id=9254*)
     → "I see you've made up your mind."
  21: 0x089A [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x089B [0x01] GOTO 0x089E
@@ -2173,42 +2173,42 @@ SUBROUTINE_089E:
   4: 0x08AC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
   5: 0x08B1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
   6: 0x08C0 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x08CF
-  7: 0x08C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
+  7: 0x08C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9242*)
     → "Say your farewells to [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]..."
   8: 0x08CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x08CC [0x01] GOTO 0x0938
  10: 0x08CF [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x08DE
- 11: 0x08D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9241*)
+ 11: 0x08D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9243*)
     → "Say your farewells to [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]..."
  12: 0x08DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x08DB [0x01] GOTO 0x0938
  14: 0x08DE [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x08ED
- 15: 0x08E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9242*)
+ 15: 0x08E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9244*)
     → "Say your farewells to [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]..."
  16: 0x08E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x08EA [0x01] GOTO 0x0938
  18: 0x08ED [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x08FC
- 19: 0x08F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9243*)
+ 19: 0x08F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9245*)
     → "Say your farewells to [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]..."
  20: 0x08F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x08F9 [0x01] GOTO 0x0938
  22: 0x08FC [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x090B
- 23: 0x0904 [0x1D] PRINT_EVENT_MESSAGE(message_id=9244*)
+ 23: 0x0904 [0x1D] PRINT_EVENT_MESSAGE(message_id=9246*)
     → "Say your farewells to [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]..."
  24: 0x0907 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0908 [0x01] GOTO 0x0938
  26: 0x090B [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x091A
- 27: 0x0913 [0x1D] PRINT_EVENT_MESSAGE(message_id=9245*)
+ 27: 0x0913 [0x1D] PRINT_EVENT_MESSAGE(message_id=9247*)
     → "Say your farewells to [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]..."
  28: 0x0916 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0917 [0x01] GOTO 0x0938
  30: 0x091A [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0929
- 31: 0x0922 [0x1D] PRINT_EVENT_MESSAGE(message_id=9246*)
+ 31: 0x0922 [0x1D] PRINT_EVENT_MESSAGE(message_id=9248*)
     → "Say your farewells to [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]..."
  32: 0x0925 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0926 [0x01] GOTO 0x0938
  34: 0x0929 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0938
- 35: 0x0931 [0x1D] PRINT_EVENT_MESSAGE(message_id=9247*)
+ 35: 0x0931 [0x1D] PRINT_EVENT_MESSAGE(message_id=9249*)
     → "Say your farewells to [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]..."
  36: 0x0934 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0935 [0x01] GOTO 0x0938
@@ -2216,7 +2216,7 @@ SUBROUTINE_089E:
 SUBROUTINE_0938:
  38: 0x0938 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
  39: 0x0947 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
- 40: 0x0956 [0x1D] PRINT_EVENT_MESSAGE(message_id=9248*)
+ 40: 0x0956 [0x1D] PRINT_EVENT_MESSAGE(message_id=9250*)
     → "Now, fix your eyes on this for me..."
  41: 0x0959 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x095A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2279,7 +2279,7 @@ SUBROUTINE_0938:
   7: 0x09B4 [0x1C] WAIT(60* ticks)
   8: 0x09B7 [0x1A] CALL_SUBROUTINE(address=0x0363)
   9: 0x09BA [0x1E] EventEntity looks at LocalPlayer and starts talking
- 10: 0x09BF [0x1D] PRINT_EVENT_MESSAGE(message_id=9190*)
+ 10: 0x09BF [0x1D] PRINT_EVENT_MESSAGE(message_id=9192*)
     → "<Player>, I have a question for you. How do you go about choosing a weapon?"
  11: 0x09C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x09C3 [0x1A] CALL_SUBROUTINE(address=0x3F2D)
@@ -2288,42 +2288,42 @@ SUBROUTINE_0938:
  15: 0x09CE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
  16: 0x09D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  17: 0x09E2 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x09F1
- 18: 0x09EA [0x1D] PRINT_EVENT_MESSAGE(message_id=9191*)
+ 18: 0x09EA [0x1D] PRINT_EVENT_MESSAGE(message_id=9193*)
     → "I met [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat."
  19: 0x09ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x09EE [0x01] GOTO 0x0A5A
  21: 0x09F1 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0A00
- 22: 0x09F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9192*)
+ 22: 0x09F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9194*)
     → "I met [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat."
  23: 0x09FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x09FD [0x01] GOTO 0x0A5A
  25: 0x0A00 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0A0F
- 26: 0x0A08 [0x1D] PRINT_EVENT_MESSAGE(message_id=9193*)
+ 26: 0x0A08 [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
     → "I met [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat."
  27: 0x0A0B [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0A0C [0x01] GOTO 0x0A5A
  29: 0x0A0F [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0A1E
- 30: 0x0A17 [0x1D] PRINT_EVENT_MESSAGE(message_id=9194*)
+ 30: 0x0A17 [0x1D] PRINT_EVENT_MESSAGE(message_id=9196*)
     → "I met [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat."
  31: 0x0A1A [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0A1B [0x01] GOTO 0x0A5A
  33: 0x0A1E [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0A2D
- 34: 0x0A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
+ 34: 0x0A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9197*)
     → "I met [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat."
  35: 0x0A29 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0A2A [0x01] GOTO 0x0A5A
  37: 0x0A2D [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x0A3C
- 38: 0x0A35 [0x1D] PRINT_EVENT_MESSAGE(message_id=9196*)
+ 38: 0x0A35 [0x1D] PRINT_EVENT_MESSAGE(message_id=9198*)
     → "I met [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat."
  39: 0x0A38 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0A39 [0x01] GOTO 0x0A5A
  41: 0x0A3C [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0A4B
- 42: 0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9197*)
+ 42: 0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
     → "I met [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] at the weapon store earlier, and she said that she always makes her decision after using the weapon or shield in real combat."
  43: 0x0A47 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0A48 [0x01] GOTO 0x0A5A
  45: 0x0A4B [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0A5A
- 46: 0x0A53 [0x1D] PRINT_EVENT_MESSAGE(message_id=9198*)
+ 46: 0x0A53 [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
     → "I met [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] at the weapon store earlier, and he said that he always makes his decision after using the weapon or shield in real combat."
  47: 0x0A56 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0A57 [0x01] GOTO 0x0A5A
@@ -2331,25 +2331,25 @@ SUBROUTINE_0938:
 SUBROUTINE_0A5A:
  49: 0x0A5A [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=192*
  50: 0x0A69 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[192*, 0*]
- 51: 0x0A7A [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
+ 51: 0x0A7A [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
     → "While that does make sense in theory, I shudder to think how much gil you would go through if you couldn't make up your mind. Anyway, I didn't notice any new weapons being bought by our mutual friend..."
  52: 0x0A7D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x0A7E [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
+ 53: 0x0A7E [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
     → "Here's an idea. If you have any spare weapons lying arrround, why don't you lend them to [him/her/him/her/him/her/her/him]?"
  54: 0x0A81 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0A82 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
  56: 0x0A91 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
- 57: 0x0AA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
+ 57: 0x0AA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
     → "But rrrather than just handing over some expensive axe or jeweled dagger, why not start with some beginner's gear for prrractice?"
  58: 0x0AA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0AA4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
  60: 0x0AB3 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=192*
  61: 0x0AC2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[192*, 0*]
- 62: 0x0AD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
+ 62: 0x0AD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
     → "If you leave the weapon with me, I'll be happy to make sure it gets to [him/her/him/her/him/her/her/him]."
  63: 0x0AD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0AD7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 65: 0x0AE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
+ 65: 0x0AE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9205*)
     → "You can trrrust me! I'm only interested in trrreasure. The weapon will get to [him/her/him/her/him/her/her/him]."
  66: 0x0AE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0AEA [0x1C] WAIT(60* ticks)
@@ -2398,51 +2398,51 @@ SUBROUTINE_0A5A:
   4: 0x0B15 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
   5: 0x0B1A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
   6: 0x0B1F [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0B2E
-  7: 0x0B27 [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
+  7: 0x0B27 [0x1D] PRINT_EVENT_MESSAGE(message_id=9206*)
     → "Hi, <Player>. [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] told me he was thinking about upgrading his weapon."
   8: 0x0B2A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0B2B [0x01] GOTO 0x0B97
  10: 0x0B2E [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0B3D
- 11: 0x0B36 [0x1D] PRINT_EVENT_MESSAGE(message_id=9205*)
+ 11: 0x0B36 [0x1D] PRINT_EVENT_MESSAGE(message_id=9207*)
     → "Hi, <Player>. [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] told me she was thinking about upgrading her weapon."
  12: 0x0B39 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0B3A [0x01] GOTO 0x0B97
  14: 0x0B3D [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0B4C
- 15: 0x0B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=9206*)
+ 15: 0x0B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=9208*)
     → "Hi, <Player>. [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] told me he was thinking about upgrading his weapon."
  16: 0x0B48 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0B49 [0x01] GOTO 0x0B97
  18: 0x0B4C [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0B5B
- 19: 0x0B54 [0x1D] PRINT_EVENT_MESSAGE(message_id=9207*)
+ 19: 0x0B54 [0x1D] PRINT_EVENT_MESSAGE(message_id=9209*)
     → "Hi, <Player>. [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] told me she was thinking about upgrading her weapon."
  20: 0x0B57 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0B58 [0x01] GOTO 0x0B97
  22: 0x0B5B [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0B6A
- 23: 0x0B63 [0x1D] PRINT_EVENT_MESSAGE(message_id=9208*)
+ 23: 0x0B63 [0x1D] PRINT_EVENT_MESSAGE(message_id=9210*)
     → "Hi, <Player>. [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] told me he was thinking about upgrading his weapon."
  24: 0x0B66 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0B67 [0x01] GOTO 0x0B97
  26: 0x0B6A [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x0B79
- 27: 0x0B72 [0x1D] PRINT_EVENT_MESSAGE(message_id=9209*)
+ 27: 0x0B72 [0x1D] PRINT_EVENT_MESSAGE(message_id=9211*)
     → "Hi, <Player>. [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] told me she was thinking about upgrading her weapon."
  28: 0x0B75 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0B76 [0x01] GOTO 0x0B97
  30: 0x0B79 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0B88
- 31: 0x0B81 [0x1D] PRINT_EVENT_MESSAGE(message_id=9210*)
+ 31: 0x0B81 [0x1D] PRINT_EVENT_MESSAGE(message_id=9212*)
     → "Hi, <Player>. [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] told me she was thinking about upgrading her weapon."
  32: 0x0B84 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0B85 [0x01] GOTO 0x0B97
  34: 0x0B88 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0B97
- 35: 0x0B90 [0x1D] PRINT_EVENT_MESSAGE(message_id=9211*)
+ 35: 0x0B90 [0x1D] PRINT_EVENT_MESSAGE(message_id=9213*)
     → "Hi, <Player>. [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] told me he was thinking about upgrading his weapon."
  36: 0x0B93 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0B94 [0x01] GOTO 0x0B97
 
 SUBROUTINE_0B97:
- 38: 0x0B97 [0x1D] PRINT_EVENT_MESSAGE(message_id=9212*)
+ 38: 0x0B97 [0x1D] PRINT_EVENT_MESSAGE(message_id=9214*)
     → "I still sensed some serrrious confusion, though."
  39: 0x0B9A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x0B9B [0x1D] PRINT_EVENT_MESSAGE(message_id=9213*)
+ 40: 0x0B9B [0x1D] PRINT_EVENT_MESSAGE(message_id=9215*)
     → "Why don't you help [him/her/him/her/him/her/her/him] out and leave a new weapon or shield with me?"
  41: 0x0B9E [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0B9F [0x21] END_EVENT
@@ -2484,55 +2484,55 @@ SUBROUTINE_0B97:
   3: 0x0BAA [0x1A] CALL_SUBROUTINE(address=0x3F23)
   4: 0x0BAD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
   5: 0x0BB2 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0BC1
-  6: 0x0BBA [0x1D] PRINT_EVENT_MESSAGE(message_id=9906*)
+  6: 0x0BBA [0x1D] PRINT_EVENT_MESSAGE(message_id=9908*)
     → "Oh, <Player>. About [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]'s weapon..."
   7: 0x0BBD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0BBE [0x01] GOTO 0x0C2A
   9: 0x0BC1 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0BD0
- 10: 0x0BC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9907*)
+ 10: 0x0BC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
     → "Oh, <Player>. About [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]'s weapon..."
  11: 0x0BCC [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0BCD [0x01] GOTO 0x0C2A
  13: 0x0BD0 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0BDF
- 14: 0x0BD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9908*)
+ 14: 0x0BD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
     → "Oh, <Player>. About [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]'s weapon..."
  15: 0x0BDB [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0BDC [0x01] GOTO 0x0C2A
  17: 0x0BDF [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0BEE
- 18: 0x0BE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
+ 18: 0x0BE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9911*)
     → "Oh, <Player>. About [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]'s weapon..."
  19: 0x0BEA [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0BEB [0x01] GOTO 0x0C2A
  21: 0x0BEE [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0BFD
- 22: 0x0BF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
+ 22: 0x0BF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9912*)
     → "Oh, <Player>. About [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]'s weapon..."
  23: 0x0BF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0BFA [0x01] GOTO 0x0C2A
  25: 0x0BFD [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x0C0C
- 26: 0x0C05 [0x1D] PRINT_EVENT_MESSAGE(message_id=9911*)
+ 26: 0x0C05 [0x1D] PRINT_EVENT_MESSAGE(message_id=9913*)
     → "Oh, <Player>. About [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]'s weapon..."
  27: 0x0C08 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0C09 [0x01] GOTO 0x0C2A
  29: 0x0C0C [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0C1B
- 30: 0x0C14 [0x1D] PRINT_EVENT_MESSAGE(message_id=9912*)
+ 30: 0x0C14 [0x1D] PRINT_EVENT_MESSAGE(message_id=9914*)
     → "Oh, <Player>. About [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]'s weapon..."
  31: 0x0C17 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0C18 [0x01] GOTO 0x0C2A
  33: 0x0C1B [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0C2A
- 34: 0x0C23 [0x1D] PRINT_EVENT_MESSAGE(message_id=9913*)
+ 34: 0x0C23 [0x1D] PRINT_EVENT_MESSAGE(message_id=9915*)
     → "Oh, <Player>. About [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]'s weapon..."
  35: 0x0C26 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0C27 [0x01] GOTO 0x0C2A
 
 SUBROUTINE_0C2A:
- 37: 0x0C2A [0x1D] PRINT_EVENT_MESSAGE(message_id=9914*)
+ 37: 0x0C2A [0x1D] PRINT_EVENT_MESSAGE(message_id=9916*)
     → "I think your pal is looking for a new one again. If the weapons I hand over don't make an impression, they don't get used, it seems."
  38: 0x0C2D [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0C2E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [EventEntity, EventEntity], work=48*
- 40: 0x0C3D [0x1D] PRINT_EVENT_MESSAGE(message_id=9915*)
+ 40: 0x0C3D [0x1D] PRINT_EVENT_MESSAGE(message_id=9917*)
     → "What's happening to the weapons that don't get used? I don't know, but I certainly hope your gifts aren't being sold off!"
  41: 0x0C40 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x0C41 [0x1D] PRINT_EVENT_MESSAGE(message_id=9916*)
+ 42: 0x0C41 [0x1D] PRINT_EVENT_MESSAGE(message_id=9918*)
     → "If you still wish to pass on weapons or shields thrrrough me, I'll be glad to help."
  43: 0x0C44 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0C45 [0x21] END_EVENT
@@ -2573,54 +2573,54 @@ SUBROUTINE_0C2A:
   3: 0x0C50 [0x1A] CALL_SUBROUTINE(address=0x3F23)
   4: 0x0C53 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
   5: 0x0C58 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0C67
-  6: 0x0C60 [0x1D] PRINT_EVENT_MESSAGE(message_id=9917*)
+  6: 0x0C60 [0x1D] PRINT_EVENT_MESSAGE(message_id=9919*)
     → "<Player>, have you met with [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] lately? It appears he's rrreally coming along as an adventurer."
   7: 0x0C63 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0C64 [0x01] GOTO 0x0CD0
   9: 0x0C67 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0C76
- 10: 0x0C6F [0x1D] PRINT_EVENT_MESSAGE(message_id=9918*)
+ 10: 0x0C6F [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
     → "<Player>, have you met with [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] lately? It appears she's rrreally coming along as an adventurer."
  11: 0x0C72 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0C73 [0x01] GOTO 0x0CD0
  13: 0x0C76 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0C85
- 14: 0x0C7E [0x1D] PRINT_EVENT_MESSAGE(message_id=9919*)
+ 14: 0x0C7E [0x1D] PRINT_EVENT_MESSAGE(message_id=9921*)
     → "<Player>, have you met with [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] lately? It appears he's rrreally coming along as an adventurer."
  15: 0x0C81 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0C82 [0x01] GOTO 0x0CD0
  17: 0x0C85 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0C94
- 18: 0x0C8D [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
+ 18: 0x0C8D [0x1D] PRINT_EVENT_MESSAGE(message_id=9922*)
     → "<Player>, have you met with [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] lately? It appears she's rrreally coming along as an adventurer."
  19: 0x0C90 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0C91 [0x01] GOTO 0x0CD0
  21: 0x0C94 [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0CA3
- 22: 0x0C9C [0x1D] PRINT_EVENT_MESSAGE(message_id=9921*)
+ 22: 0x0C9C [0x1D] PRINT_EVENT_MESSAGE(message_id=9923*)
     → "<Player>, have you met with [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] lately? It appears he's rrreally coming along as an adventurer."
  23: 0x0C9F [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0CA0 [0x01] GOTO 0x0CD0
  25: 0x0CA3 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x0CB2
- 26: 0x0CAB [0x1D] PRINT_EVENT_MESSAGE(message_id=9922*)
+ 26: 0x0CAB [0x1D] PRINT_EVENT_MESSAGE(message_id=9924*)
     → "<Player>, have you met with [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] lately? It appears she's rrreally coming along as an adventurer."
  27: 0x0CAE [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0CAF [0x01] GOTO 0x0CD0
  29: 0x0CB2 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0CC1
- 30: 0x0CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=9923*)
+ 30: 0x0CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=9925*)
     → "<Player>, have you met with [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] lately? It appears she's rrreally coming along as an adventurer."
  31: 0x0CBD [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0CBE [0x01] GOTO 0x0CD0
  33: 0x0CC1 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0CD0
- 34: 0x0CC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9924*)
+ 34: 0x0CC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9926*)
     → "<Player>, have you met with [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] lately? It appears he's rrreally coming along as an adventurer."
  35: 0x0CCC [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0CCD [0x01] GOTO 0x0CD0
 
 SUBROUTINE_0CD0:
- 37: 0x0CD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9925*)
+ 37: 0x0CD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9927*)
     → "I thought a new weapon or shield would make a nice gift in thanks for all the hard work your frrriend has done for me."
  38: 0x0CD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0CD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9926*)
+ 39: 0x0CD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9928*)
     → "But then I rrrealized I have absolutely no idea when it comes to weapons. Do you think you could find something suitable for me?"
  40: 0x0CD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x0CD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9927*)
+ 41: 0x0CD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9929*)
     → "Then it would be like a prrresent from the both of us! Wouldn't that be nice?"
  42: 0x0CDB [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0CDC [0x21] END_EVENT
@@ -2664,54 +2664,54 @@ SUBROUTINE_0CD0:
   4: 0x0CEA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=53*
   5: 0x0CF9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
   6: 0x0CFE [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0D0D
-  7: 0x0D06 [0x1D] PRINT_EVENT_MESSAGE(message_id=9928*)
+  7: 0x0D06 [0x1D] PRINT_EVENT_MESSAGE(message_id=9930*)
     → "<Player>, the weapon that [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] is using is not the one that I gave him..."
   8: 0x0D09 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0D0A [0x01] GOTO 0x0D76
  10: 0x0D0D [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0D1C
- 11: 0x0D15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9929*)
+ 11: 0x0D15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9931*)
     → "<Player>, the weapon that [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] is using is not the one that I gave her..."
  12: 0x0D18 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0D19 [0x01] GOTO 0x0D76
  14: 0x0D1C [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0D2B
- 15: 0x0D24 [0x1D] PRINT_EVENT_MESSAGE(message_id=9930*)
+ 15: 0x0D24 [0x1D] PRINT_EVENT_MESSAGE(message_id=9932*)
     → "<Player>, the weapon that [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] is using is not the one that I gave him..."
  16: 0x0D27 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0D28 [0x01] GOTO 0x0D76
  18: 0x0D2B [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0D3A
- 19: 0x0D33 [0x1D] PRINT_EVENT_MESSAGE(message_id=9931*)
+ 19: 0x0D33 [0x1D] PRINT_EVENT_MESSAGE(message_id=9933*)
     → "<Player>, the weapon that [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] is using is not the one that I gave her..."
  20: 0x0D36 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0D37 [0x01] GOTO 0x0D76
  22: 0x0D3A [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0D49
- 23: 0x0D42 [0x1D] PRINT_EVENT_MESSAGE(message_id=9932*)
+ 23: 0x0D42 [0x1D] PRINT_EVENT_MESSAGE(message_id=9934*)
     → "<Player>, the weapon that [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] is using is not the one that I gave him..."
  24: 0x0D45 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0D46 [0x01] GOTO 0x0D76
  26: 0x0D49 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x0D58
- 27: 0x0D51 [0x1D] PRINT_EVENT_MESSAGE(message_id=9933*)
+ 27: 0x0D51 [0x1D] PRINT_EVENT_MESSAGE(message_id=9935*)
     → "<Player>, the weapon that [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] is using is not the one that I gave her..."
  28: 0x0D54 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0D55 [0x01] GOTO 0x0D76
  30: 0x0D58 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0D67
- 31: 0x0D60 [0x1D] PRINT_EVENT_MESSAGE(message_id=9934*)
+ 31: 0x0D60 [0x1D] PRINT_EVENT_MESSAGE(message_id=9936*)
     → "<Player>, the weapon that [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] is using is not the one that I gave her..."
  32: 0x0D63 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0D64 [0x01] GOTO 0x0D76
  34: 0x0D67 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0D76
- 35: 0x0D6F [0x1D] PRINT_EVENT_MESSAGE(message_id=9935*)
+ 35: 0x0D6F [0x1D] PRINT_EVENT_MESSAGE(message_id=9937*)
     → "<Player>, the weapon that [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] is using is not the one that I gave him..."
  36: 0x0D72 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0D73 [0x01] GOTO 0x0D76
 
 SUBROUTINE_0D76:
- 38: 0x0D76 [0x1D] PRINT_EVENT_MESSAGE(message_id=9936*)
+ 38: 0x0D76 [0x1D] PRINT_EVENT_MESSAGE(message_id=9938*)
     → "Was there something wrong with my gift!? I think I'm insulted!"
  39: 0x0D79 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x0D7A [0x1D] PRINT_EVENT_MESSAGE(message_id=9937*)
+ 40: 0x0D7A [0x1D] PRINT_EVENT_MESSAGE(message_id=9939*)
     → "Wasn't that a prrresent from the both of us, you ask? Well, I had meant to explain that when I handed over the gift..."
  41: 0x0D7D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x0D7E [0x1D] PRINT_EVENT_MESSAGE(message_id=9938*)
+ 42: 0x0D7E [0x1D] PRINT_EVENT_MESSAGE(message_id=9940*)
     → "I'll be sure to mention it next time! Well? What are you waiting for? We need to find a weapon that won't be rrrejected!"
  43: 0x0D81 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0D82 [0x21] END_EVENT
@@ -2758,91 +2758,91 @@ SUBROUTINE_0D76:
   2: 0x0D8A [0x1A] CALL_SUBROUTINE(address=0x3F2D)
   3: 0x0D8D [0x1A] CALL_SUBROUTINE(address=0x3F23)
   4: 0x0D90 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
-  5: 0x0D95 [0x1D] PRINT_EVENT_MESSAGE(message_id=10436*)
+  5: 0x0D95 [0x1D] PRINT_EVENT_MESSAGE(message_id=10438*)
     → "<Player>. I didn't want to believe my eyes, but..."
   6: 0x0D98 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0D99 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0DA8
-  8: 0x0DA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10437*)
+  8: 0x0DA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10439*)
     → "I saw [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] going into a weapon store carrying one of our gifts..."
   9: 0x0DA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0DA5 [0x01] GOTO 0x0E11
  11: 0x0DA8 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0DB7
- 12: 0x0DB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10438*)
+ 12: 0x0DB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10440*)
     → "I saw [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] going into a weapon store carrying one of our gifts..."
  13: 0x0DB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0DB4 [0x01] GOTO 0x0E11
  15: 0x0DB7 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0DC6
- 16: 0x0DBF [0x1D] PRINT_EVENT_MESSAGE(message_id=10439*)
+ 16: 0x0DBF [0x1D] PRINT_EVENT_MESSAGE(message_id=10441*)
     → "I saw [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] going into a weapon store carrying one of our gifts..."
  17: 0x0DC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0DC3 [0x01] GOTO 0x0E11
  19: 0x0DC6 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0DD5
- 20: 0x0DCE [0x1D] PRINT_EVENT_MESSAGE(message_id=10440*)
+ 20: 0x0DCE [0x1D] PRINT_EVENT_MESSAGE(message_id=10442*)
     → "I saw [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] going into a weapon store carrying one of our gifts..."
  21: 0x0DD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0DD2 [0x01] GOTO 0x0E11
  23: 0x0DD5 [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0DE4
- 24: 0x0DDD [0x1D] PRINT_EVENT_MESSAGE(message_id=10441*)
+ 24: 0x0DDD [0x1D] PRINT_EVENT_MESSAGE(message_id=10443*)
     → "I saw [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] going into a weapon store carrying one of our gifts..."
  25: 0x0DE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0DE1 [0x01] GOTO 0x0E11
  27: 0x0DE4 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x0DF3
- 28: 0x0DEC [0x1D] PRINT_EVENT_MESSAGE(message_id=10442*)
+ 28: 0x0DEC [0x1D] PRINT_EVENT_MESSAGE(message_id=10444*)
     → "I saw [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] going into a weapon store carrying one of our gifts..."
  29: 0x0DEF [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0DF0 [0x01] GOTO 0x0E11
  31: 0x0DF3 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0E02
- 32: 0x0DFB [0x1D] PRINT_EVENT_MESSAGE(message_id=10443*)
+ 32: 0x0DFB [0x1D] PRINT_EVENT_MESSAGE(message_id=10445*)
     → "I saw [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] going into a weapon store carrying one of our gifts..."
  33: 0x0DFE [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0DFF [0x01] GOTO 0x0E11
  35: 0x0E02 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0E11
- 36: 0x0E0A [0x1D] PRINT_EVENT_MESSAGE(message_id=10444*)
+ 36: 0x0E0A [0x1D] PRINT_EVENT_MESSAGE(message_id=10446*)
     → "I saw [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] going into a weapon store carrying one of our gifts..."
  37: 0x0E0D [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0E0E [0x01] GOTO 0x0E11
 
 SUBROUTINE_0E11:
- 39: 0x0E11 [0x1D] PRINT_EVENT_MESSAGE(message_id=10445*)
+ 39: 0x0E11 [0x1D] PRINT_EVENT_MESSAGE(message_id=10447*)
     → "Why would someone want to visit a weapon store after rrreceiving such fine prrresents from us?"
  40: 0x0E14 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0E15 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0E24
- 42: 0x0E1D [0x1D] PRINT_EVENT_MESSAGE(message_id=10446*)
+ 42: 0x0E1D [0x1D] PRINT_EVENT_MESSAGE(message_id=10448*)
     → "If you still wish to give [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use..."
  43: 0x0E20 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0E21 [0x01] GOTO 0x0E8D
  45: 0x0E24 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0E33
- 46: 0x0E2C [0x1D] PRINT_EVENT_MESSAGE(message_id=10447*)
+ 46: 0x0E2C [0x1D] PRINT_EVENT_MESSAGE(message_id=10449*)
     → "If you still wish to give [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use..."
  47: 0x0E2F [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0E30 [0x01] GOTO 0x0E8D
  49: 0x0E33 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0E42
- 50: 0x0E3B [0x1D] PRINT_EVENT_MESSAGE(message_id=10448*)
+ 50: 0x0E3B [0x1D] PRINT_EVENT_MESSAGE(message_id=10450*)
     → "If you still wish to give [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use..."
  51: 0x0E3E [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0E3F [0x01] GOTO 0x0E8D
  53: 0x0E42 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0E51
- 54: 0x0E4A [0x1D] PRINT_EVENT_MESSAGE(message_id=10449*)
+ 54: 0x0E4A [0x1D] PRINT_EVENT_MESSAGE(message_id=10451*)
     → "If you still wish to give [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use..."
  55: 0x0E4D [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0E4E [0x01] GOTO 0x0E8D
  57: 0x0E51 [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0E60
- 58: 0x0E59 [0x1D] PRINT_EVENT_MESSAGE(message_id=10450*)
+ 58: 0x0E59 [0x1D] PRINT_EVENT_MESSAGE(message_id=10452*)
     → "If you still wish to give [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use..."
  59: 0x0E5C [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0E5D [0x01] GOTO 0x0E8D
  61: 0x0E60 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x0E6F
- 62: 0x0E68 [0x1D] PRINT_EVENT_MESSAGE(message_id=10451*)
+ 62: 0x0E68 [0x1D] PRINT_EVENT_MESSAGE(message_id=10453*)
     → "If you still wish to give [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use..."
  63: 0x0E6B [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0E6C [0x01] GOTO 0x0E8D
  65: 0x0E6F [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0E7E
- 66: 0x0E77 [0x1D] PRINT_EVENT_MESSAGE(message_id=10452*)
+ 66: 0x0E77 [0x1D] PRINT_EVENT_MESSAGE(message_id=10454*)
     → "If you still wish to give [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use..."
  67: 0x0E7A [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0E7B [0x01] GOTO 0x0E8D
  69: 0x0E7E [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0E8D
- 70: 0x0E86 [0x1D] PRINT_EVENT_MESSAGE(message_id=10453*)
+ 70: 0x0E86 [0x1D] PRINT_EVENT_MESSAGE(message_id=10455*)
     → "If you still wish to give [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] new weapons or shields, I'll gladly handle the deliveries. Just keep in mind that they might not be going to good use..."
  71: 0x0E89 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0E8A [0x01] GOTO 0x0E8D
@@ -2887,56 +2887,56 @@ SUBROUTINE_0E8D:
   2: 0x0E95 [0x1A] CALL_SUBROUTINE(address=0x3F2D)
   3: 0x0E98 [0x1A] CALL_SUBROUTINE(address=0x3F23)
   4: 0x0E9B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
-  5: 0x0EA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10454*)
+  5: 0x0EA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10456*)
     → "Hi, <Player>. Guess what I saw the other day? There was a moogle wandering along carrying some weapon."
   6: 0x0EA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0EA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10455*)
+  7: 0x0EA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10457*)
     → "The moogle must take good care of it, because it was the polished gleam that caught my eye. He seemed to be on his way to a Mog House."
   8: 0x0EA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0EA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10456*)
+  9: 0x0EA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10458*)
     → "I heard him mutter something like, "I must take care of my master's favorite weapon, kupo!""
  10: 0x0EAB [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0EAC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [EventEntity, EventEntity], work=48*
- 12: 0x0EBB [0x1D] PRINT_EVENT_MESSAGE(message_id=10457*)
+ 12: 0x0EBB [0x1D] PRINT_EVENT_MESSAGE(message_id=10459*)
     → "Anyway, I gave his antenna-thing a little flick as he walked past. What? I couldn't help myself..."
  13: 0x0EBE [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0EBF [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0ECE
- 15: 0x0EC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10458*)
+ 15: 0x0EC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10460*)
     → "Oh, that rrreminds me. If you have anything to hand to [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji], I'll be happy to do the honors."
  16: 0x0ECA [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0ECB [0x01] GOTO 0x0F37
  18: 0x0ECE [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0EDD
- 19: 0x0ED6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10459*)
+ 19: 0x0ED6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
     → "Oh, that rrreminds me. If you have anything to hand to [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde], I'll be happy to do the honors."
  20: 0x0ED9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0EDA [0x01] GOTO 0x0F37
  22: 0x0EDD [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0EEC
- 23: 0x0EE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10460*)
+ 23: 0x0EE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
     → "Oh, that rrreminds me. If you have anything to hand to [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant], I'll be happy to do the honors."
  24: 0x0EE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0EE9 [0x01] GOTO 0x0F37
  26: 0x0EEC [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0EFB
- 27: 0x0EF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
+ 27: 0x0EF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10463*)
     → "Oh, that rrreminds me. If you have anything to hand to [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue], I'll be happy to do the honors."
  28: 0x0EF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0EF8 [0x01] GOTO 0x0F37
  30: 0x0EFB [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0F0A
- 31: 0x0F03 [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
+ 31: 0x0F03 [0x1D] PRINT_EVENT_MESSAGE(message_id=10464*)
     → "Oh, that rrreminds me. If you have anything to hand to [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga], I'll be happy to do the honors."
  32: 0x0F06 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0F07 [0x01] GOTO 0x0F37
  34: 0x0F0A [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x0F19
- 35: 0x0F12 [0x1D] PRINT_EVENT_MESSAGE(message_id=10463*)
+ 35: 0x0F12 [0x1D] PRINT_EVENT_MESSAGE(message_id=10465*)
     → "Oh, that rrreminds me. If you have anything to hand to [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa], I'll be happy to do the honors."
  36: 0x0F15 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0F16 [0x01] GOTO 0x0F37
  38: 0x0F19 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0F28
- 39: 0x0F21 [0x1D] PRINT_EVENT_MESSAGE(message_id=10464*)
+ 39: 0x0F21 [0x1D] PRINT_EVENT_MESSAGE(message_id=10466*)
     → "Oh, that rrreminds me. If you have anything to hand to [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka], I'll be happy to do the honors."
  40: 0x0F24 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0F25 [0x01] GOTO 0x0F37
  42: 0x0F28 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0F37
- 43: 0x0F30 [0x1D] PRINT_EVENT_MESSAGE(message_id=10465*)
+ 43: 0x0F30 [0x1D] PRINT_EVENT_MESSAGE(message_id=10467*)
     → "Oh, that rrreminds me. If you have anything to hand to [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof], I'll be happy to do the honors."
  44: 0x0F33 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0F34 [0x01] GOTO 0x0F37
@@ -2980,42 +2980,42 @@ SUBROUTINE_0F37:
   3: 0x0F42 [0x1A] CALL_SUBROUTINE(address=0x3F23)
   4: 0x0F45 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
   5: 0x0F4A [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0F59
-  6: 0x0F52 [0x1D] PRINT_EVENT_MESSAGE(message_id=9214*)
+  6: 0x0F52 [0x1D] PRINT_EVENT_MESSAGE(message_id=9216*)
     → "You want to give $1 to [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]? Okay, I'll make sure he gets your gift."
   7: 0x0F55 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0F56 [0x01] GOTO 0x0FC2
   9: 0x0F59 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0F68
- 10: 0x0F61 [0x1D] PRINT_EVENT_MESSAGE(message_id=9215*)
+ 10: 0x0F61 [0x1D] PRINT_EVENT_MESSAGE(message_id=9217*)
     → "You want to give $1 to [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]? Okay, I'll make sure she gets your gift."
  11: 0x0F64 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0F65 [0x01] GOTO 0x0FC2
  13: 0x0F68 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0F77
- 14: 0x0F70 [0x1D] PRINT_EVENT_MESSAGE(message_id=9216*)
+ 14: 0x0F70 [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
     → "You want to give $1 to [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]? Okay, I'll make sure he gets your gift."
  15: 0x0F73 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0F74 [0x01] GOTO 0x0FC2
  17: 0x0F77 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0F86
- 18: 0x0F7F [0x1D] PRINT_EVENT_MESSAGE(message_id=9217*)
+ 18: 0x0F7F [0x1D] PRINT_EVENT_MESSAGE(message_id=9219*)
     → "You want to give $1 to [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]? Okay, I'll make sure she gets your gift."
  19: 0x0F82 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0F83 [0x01] GOTO 0x0FC2
  21: 0x0F86 [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0F95
- 22: 0x0F8E [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
+ 22: 0x0F8E [0x1D] PRINT_EVENT_MESSAGE(message_id=9220*)
     → "You want to give $1 to [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]? Okay, I'll make sure he gets your gift."
  23: 0x0F91 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0F92 [0x01] GOTO 0x0FC2
  25: 0x0F95 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x0FA4
- 26: 0x0F9D [0x1D] PRINT_EVENT_MESSAGE(message_id=9219*)
+ 26: 0x0F9D [0x1D] PRINT_EVENT_MESSAGE(message_id=9221*)
     → "You want to give $1 to [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]? Okay, I'll make sure she gets your gift."
  27: 0x0FA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0FA1 [0x01] GOTO 0x0FC2
  29: 0x0FA4 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0FB3
- 30: 0x0FAC [0x1D] PRINT_EVENT_MESSAGE(message_id=9220*)
+ 30: 0x0FAC [0x1D] PRINT_EVENT_MESSAGE(message_id=9222*)
     → "You want to give $1 to [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]? Okay, I'll make sure she gets your gift."
  31: 0x0FAF [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0FB0 [0x01] GOTO 0x0FC2
  33: 0x0FB3 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x0FC2
- 34: 0x0FBB [0x1D] PRINT_EVENT_MESSAGE(message_id=9221*)
+ 34: 0x0FBB [0x1D] PRINT_EVENT_MESSAGE(message_id=9223*)
     → "You want to give $1 to [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]? Okay, I'll make sure he gets your gift."
  35: 0x0FBE [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0FBF [0x01] GOTO 0x0FC2
@@ -3432,17 +3432,17 @@ SUBROUTINE_0FC2:
  25: 0x1086 [0x4A] LocalPlayer looks at Luto Mewrilah (ID: 17776780/0x010F408C)
  26: 0x108F [0x4A] Unnamed NPC (ID: 17776783/0x010F408F) looks at Luto Mewrilah (ID: 17776780/0x010F408C)
  27: 0x1098 [0x4A] Luto Mewrilah (ID: 17776780/0x010F408C) looks at LocalPlayer
- 28: 0x10A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+ 28: 0x10A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "Welcome back. How did everything go?"
  29: 0x10A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x10A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+ 30: 0x10A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
     → "Can I assume frrrom the look on your face that you found the mirror?"
  31: 0x10A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x10A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  33: 0x10BA [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [EventEntity, EventEntity], work=192*
  34: 0x10C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[192*, 0*]
  35: 0x10DA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
- 36: 0x10E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
+ 36: 0x10E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Well, aren't you going to show it to me?"
  37: 0x10EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x10ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -3453,18 +3453,18 @@ SUBROUTINE_0FC2:
  43: 0x1130 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  44: 0x1141 [0x1C] WAIT(60* ticks)
  45: 0x1144 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [EventEntity, EventEntity], work=8*
- 46: 0x1153 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+ 46: 0x1153 [0x1D] PRINT_EVENT_MESSAGE(message_id=9044*)
     → "It's cracked!? You can't be serrrious!"
  47: 0x1156 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x1157 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
+ 48: 0x1157 [0x1D] PRINT_EVENT_MESSAGE(message_id=9045*)
     → "If it was to save <Player>'s life, I suppose you had no choice..."
  49: 0x115A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x115B [0x1D] PRINT_EVENT_MESSAGE(message_id=9044*)
+ 50: 0x115B [0x1D] PRINT_EVENT_MESSAGE(message_id=9046*)
     → "I asked you to trrrack down the mirror, even though there were dangers involved. I'm in no position to crrriticize."
  51: 0x115E [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x115F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [EventEntity, EventEntity], work=48*
  53: 0x116E [0x1C] WAIT(60* ticks)
- 54: 0x1171 [0x1D] PRINT_EVENT_MESSAGE(message_id=9045*)
+ 54: 0x1171 [0x1D] PRINT_EVENT_MESSAGE(message_id=9047*)
     → "You say it was feeding power to a drrragon? What a dreadful object."
  55: 0x1174 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x1175 [0x1C] WAIT(30* ticks)
@@ -3473,22 +3473,22 @@ SUBROUTINE_0FC2:
  59: 0x1198 [0x1C] WAIT(30* ticks)
  60: 0x119B [0x79] Luto Mewrilah (ID: 17776780/0x010F408C) looks at Unnamed NPC (ID: 17776783/0x010F408F) (Basic look)
  61: 0x11A5 [0x1C] WAIT(60* ticks)
- 62: 0x11A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9046*)
+ 62: 0x11A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9048*)
     → "It is beautiful, though..."
  63: 0x11AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x11AC [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [EventEntity, EventEntity], work=192*
  65: 0x11BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [EventEntity, EventEntity], work=[192*, 0*]
  66: 0x11CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [EventEntity, EventEntity], work=52*
- 67: 0x11DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9047*)
+ 67: 0x11DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9049*)
     → "Mirrors have always held a fascination for me, you see."
  68: 0x11DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x11DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9048*)
+ 69: 0x11DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9050*)
     → "It's satisfying just to know that the trrreasure I was searching for actually existed."
  70: 0x11E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x11E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc1" with entities [EventEntity, EventEntity], work=52*
  72: 0x11F2 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [EventEntity, EventEntity], work=192*
  73: 0x1201 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[192*, 0*]
- 74: 0x1212 [0x1D] PRINT_EVENT_MESSAGE(message_id=9049*)
+ 74: 0x1212 [0x1D] PRINT_EVENT_MESSAGE(message_id=9051*)
     → "But even with these cracks, we must treat the mirror with caution. Who knows what other secrrrets it may hide?"
  75: 0x1215 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x1216 [0x4A] Luto Mewrilah (ID: 17776780/0x010F408C) looks at Unnamed NPC (ID: 17776783/0x010F408F)
@@ -3499,7 +3499,7 @@ SUBROUTINE_0FC2:
  81: 0x122F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  82: 0x1230 [0x1C] WAIT(15* ticks)
  83: 0x1233 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "yko0" with entities [EventEntity, EventEntity], work=28*
- 84: 0x1242 [0x1D] PRINT_EVENT_MESSAGE(message_id=9050*)
+ 84: 0x1242 [0x1D] PRINT_EVENT_MESSAGE(message_id=9052*)
     → "I'll look after it for the time being."
  85: 0x1245 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x1246 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "yko1" with entities [EventEntity, EventEntity], work=28*
@@ -3679,12 +3679,12 @@ SUBROUTINE_16CF:
 
 SUBROUTINE_1741:
 256: 0x1741 [0x1A] CALL_SUBROUTINE(address=0x1FFD)
-257: 0x1744 [0x1D] PRINT_EVENT_MESSAGE(message_id=9159*)
+257: 0x1744 [0x1D] PRINT_EVENT_MESSAGE(message_id=9161*)
     → "I love to see new friendships forrrming. I'm getting kind of misty here..."
 258: 0x1747 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x1748 [0x4A] Luto Mewrilah (ID: 17776780/0x010F408C) looks at Unnamed NPC (ID: 17776783/0x010F408F)
 260: 0x1751 [0x79] Unnamed NPC (ID: 17776783/0x010F408F) looks at Luto Mewrilah (ID: 17776780/0x010F408C) (Basic look)
-261: 0x175B [0x1D] PRINT_EVENT_MESSAGE(message_id=9160*)
+261: 0x175B [0x1D] PRINT_EVENT_MESSAGE(message_id=9162*)
     → "Don't forget to help out your old pal Luto from time to time!"
 262: 0x175E [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x175F [0x6E] Unnamed NPC (ID: 17776783/0x010F408F) uses emote 7*
@@ -3694,10 +3694,10 @@ SUBROUTINE_1741:
 267: 0x1771 [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [EventEntity, EventEntity], work=192*
 268: 0x1780 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [EventEntity, EventEntity], work=[192*, 0*]
 269: 0x1791 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
-270: 0x17A0 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9173*]:
+270: 0x17A0 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9175*]:
     → "Grrreat, I'm counting on you!"
 271: 0x17A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-272: 0x17A8 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9174*]:
+272: 0x17A8 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9176*]:
     → "There's always more trrreasure to be found!"
 273: 0x17AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x17B0 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -3709,48 +3709,48 @@ SUBROUTINE_1741:
 280: 0x17EF [0x1A] CALL_SUBROUTINE(address=0x3F23)
 281: 0x17F2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 282: 0x17F7 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x1806
-283: 0x17FF [0x48] [System] [9175*]:
+283: 0x17FF [0x48] [System] [9177*]:
     → "You can now call on [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] as your adventuring fellow!"
 284: 0x1802 [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x1803 [0x01] GOTO 0x186F
 286: 0x1806 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x1815
-287: 0x180E [0x48] [System] [9176*]:
+287: 0x180E [0x48] [System] [9178*]:
     → "You can now call on [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] as your adventuring fellow!"
 288: 0x1811 [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x1812 [0x01] GOTO 0x186F
 290: 0x1815 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x1824
-291: 0x181D [0x48] [System] [9177*]:
+291: 0x181D [0x48] [System] [9179*]:
     → "You can now call on [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] as your adventuring fellow!"
 292: 0x1820 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x1821 [0x01] GOTO 0x186F
 294: 0x1824 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x1833
-295: 0x182C [0x48] [System] [9178*]:
+295: 0x182C [0x48] [System] [9180*]:
     → "You can now call on [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] as your adventuring fellow!"
 296: 0x182F [0x23] WAIT_FOR_DIALOG_INTERACTION
 297: 0x1830 [0x01] GOTO 0x186F
 298: 0x1833 [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x1842
-299: 0x183B [0x48] [System] [9179*]:
+299: 0x183B [0x48] [System] [9181*]:
     → "You can now call on [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] as your adventuring fellow!"
 300: 0x183E [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x183F [0x01] GOTO 0x186F
 302: 0x1842 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x1851
-303: 0x184A [0x48] [System] [9180*]:
+303: 0x184A [0x48] [System] [9182*]:
     → "You can now call on [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] as your adventuring fellow!"
 304: 0x184D [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x184E [0x01] GOTO 0x186F
 306: 0x1851 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x1860
-307: 0x1859 [0x48] [System] [9181*]:
+307: 0x1859 [0x48] [System] [9183*]:
     → "You can now call on [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] as your adventuring fellow!"
 308: 0x185C [0x23] WAIT_FOR_DIALOG_INTERACTION
 309: 0x185D [0x01] GOTO 0x186F
 310: 0x1860 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x186F
-311: 0x1868 [0x48] [System] [9182*]:
+311: 0x1868 [0x48] [System] [9184*]:
     → "You can now call on [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] as your adventuring fellow!"
 312: 0x186B [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x186C [0x01] GOTO 0x186F
 
 SUBROUTINE_186F:
-314: 0x186F [0x48] [System] [9183*]:
+314: 0x186F [0x48] [System] [9185*]:
     → "An adventuring fellow can only be called when the total number of current party members and adventuring fellows is five or less."
 315: 0x1872 [0x23] WAIT_FOR_DIALOG_INTERACTION
 316: 0x1873 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -3765,62 +3765,62 @@ SUBROUTINE_186F:
 
 SUBROUTINE_18A5:
 325: 0x18A5 [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x18B8
-326: 0x18AD [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9051*]:
+326: 0x18AD [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9053*]:
     → "Thank you, Luto. ...Hm?"
 327: 0x18B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x18B5 [0x01] GOTO 0x1989
 329: 0x18B8 [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x18CB
-330: 0x18C0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9052*]:
+330: 0x18C0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9054*]:
     → "Thanks, Luto! ...Hm?"
 331: 0x18C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x18C8 [0x01] GOTO 0x1989
 333: 0x18CB [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x18DE
-334: 0x18D3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9053*]:
+334: 0x18D3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9055*]:
     → "Thanks, Luto. ...Hm?"
 335: 0x18DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x18DB [0x01] GOTO 0x1989
 337: 0x18DE [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x18F1
-338: 0x18E6 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9054*]:
+338: 0x18E6 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9056*]:
     → "Our thanks, Luto. ...Hm?"
 339: 0x18ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 340: 0x18EE [0x01] GOTO 0x1989
 341: 0x18F1 [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x1904
-342: 0x18F9 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9057*]:
+342: 0x18F9 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9059*]:
     → "Thank you, Luto. ...Hm?"
 343: 0x1900 [0x23] WAIT_FOR_DIALOG_INTERACTION
 344: 0x1901 [0x01] GOTO 0x1989
 345: 0x1904 [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x1917
-346: 0x190C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9058*]:
+346: 0x190C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9060*]:
     → "Thanks, Luto! ...Hm?"
 347: 0x1913 [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x1914 [0x01] GOTO 0x1989
 349: 0x1917 [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x192A
-350: 0x191F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9059*]:
+350: 0x191F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9061*]:
     → "Thank you, Luto. ...Hm?"
 351: 0x1926 [0x23] WAIT_FOR_DIALOG_INTERACTION
 352: 0x1927 [0x01] GOTO 0x1989
 353: 0x192A [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x193D
-354: 0x1932 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9060*]:
+354: 0x1932 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9062*]:
     → "Thanks, Luto. ...Huh?"
 355: 0x1939 [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x193A [0x01] GOTO 0x1989
 357: 0x193D [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x1950
-358: 0x1945 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9061*]:
+358: 0x1945 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9063*]:
     → "Our thanks, Luto. ...Hm?"
 359: 0x194C [0x23] WAIT_FOR_DIALOG_INTERACTION
 360: 0x194D [0x01] GOTO 0x1989
 361: 0x1950 [0x02] IF !(ExtData[1]->WorkLocal[11] == 10*) GOTO 0x1963
-362: 0x1958 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9055*]:
+362: 0x1958 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9057*]:
     → "Thanks, Luto. ...Huh?"
 363: 0x195F [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x1960 [0x01] GOTO 0x1989
 365: 0x1963 [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x1976
-366: 0x196B [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9056*]:
+366: 0x196B [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9058*]:
     → "Cheers, Luto! ...Eh?"
 367: 0x1972 [0x23] WAIT_FOR_DIALOG_INTERACTION
 368: 0x1973 [0x01] GOTO 0x1989
 369: 0x1976 [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x1989
-370: 0x197E [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9062*]:
+370: 0x197E [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9064*]:
     → "We're counting on you. ...Hm?"
 371: 0x1985 [0x23] WAIT_FOR_DIALOG_INTERACTION
 372: 0x1986 [0x01] GOTO 0x1989
@@ -3830,62 +3830,62 @@ SUBROUTINE_1989:
 
 SUBROUTINE_198A:
 374: 0x198A [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x199D
-375: 0x1992 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9063*]:
+375: 0x1992 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9065*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 376: 0x1999 [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x199A [0x01] GOTO 0x1A6E
 378: 0x199D [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x19B0
-379: 0x19A5 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9064*]:
+379: 0x19A5 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9066*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 380: 0x19AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 381: 0x19AD [0x01] GOTO 0x1A6E
 382: 0x19B0 [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x19C3
-383: 0x19B8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9065*]:
+383: 0x19B8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9067*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 384: 0x19BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 385: 0x19C0 [0x01] GOTO 0x1A6E
 386: 0x19C3 [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x19D6
-387: 0x19CB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9066*]:
+387: 0x19CB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9068*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 388: 0x19D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 389: 0x19D3 [0x01] GOTO 0x1A6E
 390: 0x19D6 [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x19E9
-391: 0x19DE [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9069*]:
+391: 0x19DE [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9071*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 392: 0x19E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 393: 0x19E6 [0x01] GOTO 0x1A6E
 394: 0x19E9 [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x19FC
-395: 0x19F1 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9070*]:
+395: 0x19F1 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9072*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 396: 0x19F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 397: 0x19F9 [0x01] GOTO 0x1A6E
 398: 0x19FC [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x1A0F
-399: 0x1A04 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9071*]:
+399: 0x1A04 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9073*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 400: 0x1A0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 401: 0x1A0C [0x01] GOTO 0x1A6E
 402: 0x1A0F [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x1A22
-403: 0x1A17 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9072*]:
+403: 0x1A17 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9074*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 404: 0x1A1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 405: 0x1A1F [0x01] GOTO 0x1A6E
 406: 0x1A22 [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x1A35
-407: 0x1A2A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9073*]:
+407: 0x1A2A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9075*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 408: 0x1A31 [0x23] WAIT_FOR_DIALOG_INTERACTION
 409: 0x1A32 [0x01] GOTO 0x1A6E
 410: 0x1A35 [0x02] IF !(ExtData[1]->WorkLocal[11] == 10*) GOTO 0x1A48
-411: 0x1A3D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9067*]:
+411: 0x1A3D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9069*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 412: 0x1A44 [0x23] WAIT_FOR_DIALOG_INTERACTION
 413: 0x1A45 [0x01] GOTO 0x1A6E
 414: 0x1A48 [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x1A5B
-415: 0x1A50 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9068*]:
+415: 0x1A50 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9070*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 416: 0x1A57 [0x23] WAIT_FOR_DIALOG_INTERACTION
 417: 0x1A58 [0x01] GOTO 0x1A6E
 418: 0x1A5B [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x1A6E
-419: 0x1A63 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9074*]:
+419: 0x1A63 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9076*]:
     → "The Glass of All-Seeing is showing <Player>'s face..."
 420: 0x1A6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x1A6B [0x01] GOTO 0x1A6E
@@ -3895,62 +3895,62 @@ SUBROUTINE_1A6E:
 
 SUBROUTINE_1A6F:
 423: 0x1A6F [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x1A82
-424: 0x1A77 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9075*]:
+424: 0x1A77 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9077*]:
     → "Have I been led to <Player>...?"
 425: 0x1A7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 426: 0x1A7F [0x01] GOTO 0x1B53
 427: 0x1A82 [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x1A95
-428: 0x1A8A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9076*]:
+428: 0x1A8A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9078*]:
     → "Have I been led to <Player>...?"
 429: 0x1A91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x1A92 [0x01] GOTO 0x1B53
 431: 0x1A95 [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x1AA8
-432: 0x1A9D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9077*]:
+432: 0x1A9D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9079*]:
     → "Have I been led to <Player>...?"
 433: 0x1AA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 434: 0x1AA5 [0x01] GOTO 0x1B53
 435: 0x1AA8 [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x1ABB
-436: 0x1AB0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9078*]:
+436: 0x1AB0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9080*]:
     → "Have I been led to <Player>...?"
 437: 0x1AB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 438: 0x1AB8 [0x01] GOTO 0x1B53
 439: 0x1ABB [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x1ACE
-440: 0x1AC3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9081*]:
+440: 0x1AC3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9083*]:
     → "Have I been led to <Player>...?"
 441: 0x1ACA [0x23] WAIT_FOR_DIALOG_INTERACTION
 442: 0x1ACB [0x01] GOTO 0x1B53
 443: 0x1ACE [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x1AE1
-444: 0x1AD6 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9082*]:
+444: 0x1AD6 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9084*]:
     → "Have I been led to <Player>...?"
 445: 0x1ADD [0x23] WAIT_FOR_DIALOG_INTERACTION
 446: 0x1ADE [0x01] GOTO 0x1B53
 447: 0x1AE1 [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x1AF4
-448: 0x1AE9 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9083*]:
+448: 0x1AE9 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9085*]:
     → "Have I been led to <Player>...?"
 449: 0x1AF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 450: 0x1AF1 [0x01] GOTO 0x1B53
 451: 0x1AF4 [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x1B07
-452: 0x1AFC [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9084*]:
+452: 0x1AFC [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9086*]:
     → "Have I been led to <Player>...?"
 453: 0x1B03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 454: 0x1B04 [0x01] GOTO 0x1B53
 455: 0x1B07 [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x1B1A
-456: 0x1B0F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9085*]:
+456: 0x1B0F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9087*]:
     → "Have I been led to <Player>...?"
 457: 0x1B16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 458: 0x1B17 [0x01] GOTO 0x1B53
 459: 0x1B1A [0x02] IF !(ExtData[1]->WorkLocal[11] == 10*) GOTO 0x1B2D
-460: 0x1B22 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9079*]:
+460: 0x1B22 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9081*]:
     → "Have I been led to <Player>...?"
 461: 0x1B29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 462: 0x1B2A [0x01] GOTO 0x1B53
 463: 0x1B2D [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x1B40
-464: 0x1B35 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9080*]:
+464: 0x1B35 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9082*]:
     → "Have I been led to <Player>...?"
 465: 0x1B3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 466: 0x1B3D [0x01] GOTO 0x1B53
 467: 0x1B40 [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x1B53
-468: 0x1B48 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9086*]:
+468: 0x1B48 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9088*]:
     → "Have I been led to <Player>...?"
 469: 0x1B4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 470: 0x1B50 [0x01] GOTO 0x1B53
@@ -3960,62 +3960,62 @@ SUBROUTINE_1B53:
 
 SUBROUTINE_1B54:
 472: 0x1B54 [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x1B67
-473: 0x1B5C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9087*]:
+473: 0x1B5C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9089*]:
     → "Hmm. I guess our paths must lie together. You should have this."
 474: 0x1B63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 475: 0x1B64 [0x01] GOTO 0x1C38
 476: 0x1B67 [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x1B7A
-477: 0x1B6F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9088*]:
+477: 0x1B6F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9090*]:
     → "I knew there was something about you! You should have this!"
 478: 0x1B76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 479: 0x1B77 [0x01] GOTO 0x1C38
 480: 0x1B7A [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x1B8D
-481: 0x1B82 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9089*]:
+481: 0x1B82 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9091*]:
     → "Hmm. Our paths must lie together. You should have this."
 482: 0x1B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 483: 0x1B8A [0x01] GOTO 0x1C38
 484: 0x1B8D [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x1BA0
-485: 0x1B95 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9090*]:
+485: 0x1B95 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9092*]:
     → "Well, well. I knew there was something special about you. You should have this."
 486: 0x1B9C [0x23] WAIT_FOR_DIALOG_INTERACTION
 487: 0x1B9D [0x01] GOTO 0x1C38
 488: 0x1BA0 [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x1BB3
-489: 0x1BA8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9093*]:
+489: 0x1BA8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9095*]:
     → "It seems our paths lie together. You should have this."
 490: 0x1BAF [0x23] WAIT_FOR_DIALOG_INTERACTION
 491: 0x1BB0 [0x01] GOTO 0x1C38
 492: 0x1BB3 [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x1BC6
-493: 0x1BBB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9094*]:
+493: 0x1BBB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9096*]:
     → "I knew there was something special about you! You should have this!"
 494: 0x1BC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 495: 0x1BC3 [0x01] GOTO 0x1C38
 496: 0x1BC6 [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x1BD9
-497: 0x1BCE [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9095*]:
+497: 0x1BCE [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9097*]:
     → "The mirror never lies. It seems our fates are linked. ...You should have this."
 498: 0x1BD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 499: 0x1BD6 [0x01] GOTO 0x1C38
 500: 0x1BD9 [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x1BEC
-501: 0x1BE1 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9096*]:
+501: 0x1BE1 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9098*]:
     → "Do you know what this means? We were destined to be friends! You should have this!"
 502: 0x1BE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 503: 0x1BE9 [0x01] GOTO 0x1C38
 504: 0x1BEC [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x1BFF
-505: 0x1BF4 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9097*]:
+505: 0x1BF4 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9099*]:
     → "Well, well. I knew there was something special about you. You should have this."
 506: 0x1BFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 507: 0x1BFC [0x01] GOTO 0x1C38
 508: 0x1BFF [0x02] IF !(ExtData[1]->WorkLocal[11] == 10*) GOTO 0x1C12
-509: 0x1C07 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9091*]:
+509: 0x1C07 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9093*]:
     → "I knew we were supposed to meet. Here, I want you to have this."
 510: 0x1C0E [0x23] WAIT_FOR_DIALOG_INTERACTION
 511: 0x1C0F [0x01] GOTO 0x1C38
 512: 0x1C12 [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x1C25
-513: 0x1C1A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9092*]:
+513: 0x1C1A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9094*]:
     → "You know, I'm not at all surprised. I'd felt something from the moment we met. Here, take this."
 514: 0x1C21 [0x23] WAIT_FOR_DIALOG_INTERACTION
 515: 0x1C22 [0x01] GOTO 0x1C38
 516: 0x1C25 [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x1C38
-517: 0x1C2D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9098*]:
+517: 0x1C2D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9100*]:
     → "There is more than meets the eye with you, it seems. Hold on to this."
 518: 0x1C34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x1C35 [0x01] GOTO 0x1C38
@@ -4025,62 +4025,62 @@ SUBROUTINE_1C38:
 
 SUBROUTINE_1C39:
 521: 0x1C39 [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x1C4C
-522: 0x1C41 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9099*]:
+522: 0x1C41 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9101*]:
     → "It's $1. You can use this to contact me at any time."
 523: 0x1C48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 524: 0x1C49 [0x01] GOTO 0x1D1D
 525: 0x1C4C [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x1C5F
-526: 0x1C54 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9100*]:
+526: 0x1C54 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9102*]:
     → "It's $1. You can use this to contact me at any time."
 527: 0x1C5B [0x23] WAIT_FOR_DIALOG_INTERACTION
 528: 0x1C5C [0x01] GOTO 0x1D1D
 529: 0x1C5F [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x1C72
-530: 0x1C67 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9101*]:
+530: 0x1C67 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9103*]:
     → "It's $1. You can use this to contact me at any time."
 531: 0x1C6E [0x23] WAIT_FOR_DIALOG_INTERACTION
 532: 0x1C6F [0x01] GOTO 0x1D1D
 533: 0x1C72 [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x1C85
-534: 0x1C7A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9102*]:
+534: 0x1C7A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9104*]:
     → "It's $1. You can use this to contact me at any time."
 535: 0x1C81 [0x23] WAIT_FOR_DIALOG_INTERACTION
 536: 0x1C82 [0x01] GOTO 0x1D1D
 537: 0x1C85 [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x1C98
-538: 0x1C8D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9105*]:
+538: 0x1C8D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9107*]:
     → "It's $1. You can use this to contact me at any time."
 539: 0x1C94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 540: 0x1C95 [0x01] GOTO 0x1D1D
 541: 0x1C98 [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x1CAB
-542: 0x1CA0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9106*]:
+542: 0x1CA0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9108*]:
     → "It's $1. You can use this to contact me at any time."
 543: 0x1CA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 544: 0x1CA8 [0x01] GOTO 0x1D1D
 545: 0x1CAB [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x1CBE
-546: 0x1CB3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9107*]:
+546: 0x1CB3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9109*]:
     → "It's $1. You can use this to contact me at any time."
 547: 0x1CBA [0x23] WAIT_FOR_DIALOG_INTERACTION
 548: 0x1CBB [0x01] GOTO 0x1D1D
 549: 0x1CBE [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x1CD1
-550: 0x1CC6 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9108*]:
+550: 0x1CC6 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9110*]:
     → "It's $1. You can use this to contact me at any time."
 551: 0x1CCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 552: 0x1CCE [0x01] GOTO 0x1D1D
 553: 0x1CD1 [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x1CE4
-554: 0x1CD9 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9109*]:
+554: 0x1CD9 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9111*]:
     → "It's $1. You can use this to contact me at any time."
 555: 0x1CE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 556: 0x1CE1 [0x01] GOTO 0x1D1D
 557: 0x1CE4 [0x02] IF !(ExtData[1]->WorkLocal[11] == 10*) GOTO 0x1CF7
-558: 0x1CEC [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9103*]:
+558: 0x1CEC [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9105*]:
     → "It's $1. You can use this to contact me at any time."
 559: 0x1CF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 560: 0x1CF4 [0x01] GOTO 0x1D1D
 561: 0x1CF7 [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x1D0A
-562: 0x1CFF [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9104*]:
+562: 0x1CFF [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9106*]:
     → "It's $1. You can use this to contact me at any time."
 563: 0x1D06 [0x23] WAIT_FOR_DIALOG_INTERACTION
 564: 0x1D07 [0x01] GOTO 0x1D1D
 565: 0x1D0A [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x1D1D
-566: 0x1D12 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9110*]:
+566: 0x1D12 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9112*]:
     → "It's $1. You can use this to contact me at any time."
 567: 0x1D19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 568: 0x1D1A [0x01] GOTO 0x1D1D
@@ -4090,62 +4090,62 @@ SUBROUTINE_1D1D:
 
 SUBROUTINE_1D1E:
 570: 0x1D1E [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x1D31
-571: 0x1D26 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9111*]:
+571: 0x1D26 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9113*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 572: 0x1D2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 573: 0x1D2E [0x01] GOTO 0x1E02
 574: 0x1D31 [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x1D44
-575: 0x1D39 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9112*]:
+575: 0x1D39 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9114*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 576: 0x1D40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 577: 0x1D41 [0x01] GOTO 0x1E02
 578: 0x1D44 [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x1D57
-579: 0x1D4C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9113*]:
+579: 0x1D4C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9115*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 580: 0x1D53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 581: 0x1D54 [0x01] GOTO 0x1E02
 582: 0x1D57 [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x1D6A
-583: 0x1D5F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9114*]:
+583: 0x1D5F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9116*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 584: 0x1D66 [0x23] WAIT_FOR_DIALOG_INTERACTION
 585: 0x1D67 [0x01] GOTO 0x1E02
 586: 0x1D6A [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x1D7D
-587: 0x1D72 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9117*]:
+587: 0x1D72 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9119*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 588: 0x1D79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 589: 0x1D7A [0x01] GOTO 0x1E02
 590: 0x1D7D [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x1D90
-591: 0x1D85 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9118*]:
+591: 0x1D85 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9120*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 592: 0x1D8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 593: 0x1D8D [0x01] GOTO 0x1E02
 594: 0x1D90 [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x1DA3
-595: 0x1D98 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9119*]:
+595: 0x1D98 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9121*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 596: 0x1D9F [0x23] WAIT_FOR_DIALOG_INTERACTION
 597: 0x1DA0 [0x01] GOTO 0x1E02
 598: 0x1DA3 [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x1DB6
-599: 0x1DAB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9120*]:
+599: 0x1DAB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9122*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 600: 0x1DB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 601: 0x1DB3 [0x01] GOTO 0x1E02
 602: 0x1DB6 [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x1DC9
-603: 0x1DBE [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9121*]:
+603: 0x1DBE [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9123*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 604: 0x1DC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 605: 0x1DC6 [0x01] GOTO 0x1E02
 606: 0x1DC9 [0x02] IF !(ExtData[1]->WorkLocal[11] == 10*) GOTO 0x1DDC
-607: 0x1DD1 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9115*]:
+607: 0x1DD1 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9117*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 608: 0x1DD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 609: 0x1DD9 [0x01] GOTO 0x1E02
 610: 0x1DDC [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x1DEF
-611: 0x1DE4 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9116*]:
+611: 0x1DE4 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9118*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 612: 0x1DEB [0x23] WAIT_FOR_DIALOG_INTERACTION
 613: 0x1DEC [0x01] GOTO 0x1E02
 614: 0x1DEF [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x1E02
-615: 0x1DF7 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9122*]:
+615: 0x1DF7 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9124*]:
     → "We should also decide on a Rendezvous Point for times when we need to speak directly."
 616: 0x1DFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 617: 0x1DFF [0x01] GOTO 0x1E02
@@ -4155,98 +4155,98 @@ SUBROUTINE_1E02:
 
 SUBROUTINE_1E03:
 619: 0x1E03 [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x1E1E
-620: 0x1E0B [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9123*]:
+620: 0x1E0B [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9125*]:
     → "Hmm... Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 621: 0x1E12 [0x23] WAIT_FOR_DIALOG_INTERACTION
-622: 0x1E13 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9124*]:
+622: 0x1E13 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9126*]:
     → "Oh, and Aht Urhgan Whitegate. It's a bit of a trek, but what can you do?"
 623: 0x1E1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 624: 0x1E1B [0x01] GOTO 0x1F47
 625: 0x1E1E [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x1E39
-626: 0x1E26 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9125*]:
+626: 0x1E26 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9127*]:
     → "Hmm... Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 627: 0x1E2D [0x23] WAIT_FOR_DIALOG_INTERACTION
-628: 0x1E2E [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9126*]:
+628: 0x1E2E [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9128*]:
     → "Ah, and Aht Urhgan Whitegate! Yes, our adventures will span the seas!"
 629: 0x1E35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 630: 0x1E36 [0x01] GOTO 0x1F47
 631: 0x1E39 [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x1E54
-632: 0x1E41 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9127*]:
+632: 0x1E41 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9129*]:
     → "Hmm... Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 633: 0x1E48 [0x23] WAIT_FOR_DIALOG_INTERACTION
-634: 0x1E49 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9128*]:
+634: 0x1E49 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9130*]:
     → "Ah, and Aht Urhgan Whitegate. I hear the Empire is quite nice this time of year."
 635: 0x1E50 [0x23] WAIT_FOR_DIALOG_INTERACTION
 636: 0x1E51 [0x01] GOTO 0x1F47
 637: 0x1E54 [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x1E6F
-638: 0x1E5C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9129*]:
+638: 0x1E5C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9131*]:
     → "Hmm... Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 639: 0x1E63 [0x23] WAIT_FOR_DIALOG_INTERACTION
-640: 0x1E64 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9130*]:
+640: 0x1E64 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9132*]:
     → "Or perhaps Aht Urhgan Whitegate? Surely there are many adventures to be had in the Empire as well."
 641: 0x1E6B [0x23] WAIT_FOR_DIALOG_INTERACTION
 642: 0x1E6C [0x01] GOTO 0x1F47
 643: 0x1E6F [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x1E8A
-644: 0x1E77 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9135*]:
+644: 0x1E77 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9137*]:
     → "Hmm... Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 645: 0x1E7E [0x23] WAIT_FOR_DIALOG_INTERACTION
-646: 0x1E7F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9136*]:
+646: 0x1E7F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9138*]:
     → "...And across the sea, Aht Urhgan Whitegate."
 647: 0x1E86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 648: 0x1E87 [0x01] GOTO 0x1F47
 649: 0x1E8A [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x1EA5
-650: 0x1E92 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9137*]:
+650: 0x1E92 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9139*]:
     → "Hmm... Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 651: 0x1E99 [0x23] WAIT_FOR_DIALOG_INTERACTION
-652: 0x1E9A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9138*]:
+652: 0x1E9A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9140*]:
     → "Oh, and Aht Urhgan Whitegate! I can't wait to explore the Empire together!"
 653: 0x1EA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 654: 0x1EA2 [0x01] GOTO 0x1F47
 655: 0x1EA5 [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x1EC0
-656: 0x1EAD [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9139*]:
+656: 0x1EAD [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9141*]:
     → "Hmm... Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 657: 0x1EB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-658: 0x1EB5 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9140*]:
+658: 0x1EB5 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9142*]:
     → "Oh, and how about Aht Urhgan Whitegate across the sea? A trip to the Near East would be most refreshing, I think."
 659: 0x1EBC [0x23] WAIT_FOR_DIALOG_INTERACTION
 660: 0x1EBD [0x01] GOTO 0x1F47
 661: 0x1EC0 [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x1EDB
-662: 0x1EC8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9141*]:
+662: 0x1EC8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9143*]:
     → "Hmm... Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 663: 0x1ECF [0x23] WAIT_FOR_DIALOG_INTERACTION
-664: 0x1ED0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9142*]:
+664: 0x1ED0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9144*]:
     → "Oh, and we totally need to check out the Empire together! How does Aht Urhgan Whitegate sound?"
 665: 0x1ED7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 666: 0x1ED8 [0x01] GOTO 0x1F47
 667: 0x1EDB [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x1EF6
-668: 0x1EE3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9143*]:
+668: 0x1EE3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9145*]:
     → "Hmm... Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 669: 0x1EEA [0x23] WAIT_FOR_DIALOG_INTERACTION
-670: 0x1EEB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9144*]:
+670: 0x1EEB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9146*]:
     → "Ah, and let us not forget Aht Urhgan Whitegate. There are many adventures to be had in the Near East, as well."
 671: 0x1EF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 672: 0x1EF3 [0x01] GOTO 0x1F47
 673: 0x1EF6 [0x02] IF !(ExtData[1]->WorkLocal[11] == 10*) GOTO 0x1F11
-674: 0x1EFE [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9131*]:
+674: 0x1EFE [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9133*]:
     → "Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 675: 0x1F05 [0x23] WAIT_FOR_DIALOG_INTERACTION
-676: 0x1F06 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9132*]:
+676: 0x1F06 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9134*]:
     → "Ooh, ooh. And Aht Urhgan Whitegate! A trip to the East sounds like fun fun fun!"
 677: 0x1F0D [0x23] WAIT_FOR_DIALOG_INTERACTION
 678: 0x1F0E [0x01] GOTO 0x1F47
 679: 0x1F11 [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x1F2C
-680: 0x1F19 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9133*]:
+680: 0x1F19 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9135*]:
     → "Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 681: 0x1F20 [0x23] WAIT_FOR_DIALOG_INTERACTION
-682: 0x1F21 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9134*]:
+682: 0x1F21 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9136*]:
     → "And last, but not least, Aht Urhgan Whitegate. The exotic delights of the Near East await us."
 683: 0x1F28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 684: 0x1F29 [0x01] GOTO 0x1F47
 685: 0x1F2C [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x1F47
-686: 0x1F34 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9145*]:
+686: 0x1F34 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9147*]:
     → "Considering we'll need a place to meet in each nation, how about Ru'Lude Gardens, Northern San d'Oria, Port Bastok, and Windurst Waters?"
 687: 0x1F3B [0x23] WAIT_FOR_DIALOG_INTERACTION
-688: 0x1F3C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9146*]:
+688: 0x1F3C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9148*]:
     → "Ah, and Aht Urhgan Whitegate across the sea would be an interesting destination as well."
 689: 0x1F43 [0x23] WAIT_FOR_DIALOG_INTERACTION
 690: 0x1F44 [0x01] GOTO 0x1F47
@@ -4264,27 +4264,27 @@ SUBROUTINE_1F48:
 698: 0x1F69 [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x1F74
 699: 0x1F71 [0x01] GOTO 0x1FFC
 700: 0x1F74 [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x1F87
-701: 0x1F7C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9184*]:
+701: 0x1F7C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9186*]:
     → "Oh, and you can call me by my first name!"
 702: 0x1F83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 703: 0x1F84 [0x01] GOTO 0x1FFC
 704: 0x1F87 [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x1F9A
-705: 0x1F8F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9185*]:
+705: 0x1F8F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9187*]:
     → "Oh, and you can call me by my first name!"
 706: 0x1F96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 707: 0x1F97 [0x01] GOTO 0x1FFC
 708: 0x1F9A [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x1FAD
-709: 0x1FA2 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9186*]:
+709: 0x1FA2 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9188*]:
     → "Oh, and you can call me by my first name!"
 710: 0x1FA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 711: 0x1FAA [0x01] GOTO 0x1FFC
 712: 0x1FAD [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x1FC0
-713: 0x1FB5 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9187*]:
+713: 0x1FB5 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9189*]:
     → "Oh, and don't be so formal! You can call me by my first name!"
 714: 0x1FBC [0x23] WAIT_FOR_DIALOG_INTERACTION
 715: 0x1FBD [0x01] GOTO 0x1FFC
 716: 0x1FC0 [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x1FD3
-717: 0x1FC8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9188*]:
+717: 0x1FC8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9190*]:
     → "My full name is rather long, so feel free to call me by my first name only."
 718: 0x1FCF [0x23] WAIT_FOR_DIALOG_INTERACTION
 719: 0x1FD0 [0x01] GOTO 0x1FFC
@@ -4293,7 +4293,7 @@ SUBROUTINE_1F48:
 722: 0x1FDE [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x1FE9
 723: 0x1FE6 [0x01] GOTO 0x1FFC
 724: 0x1FE9 [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x1FFC
-725: 0x1FF1 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9189*]:
+725: 0x1FF1 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9191*]:
     → "Should you find saying my full name a daunting task, you may call me by my first name."
 726: 0x1FF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 727: 0x1FF9 [0x01] GOTO 0x1FFC
@@ -4303,62 +4303,62 @@ SUBROUTINE_1FFC:
 
 SUBROUTINE_1FFD:
 729: 0x1FFD [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x2010
-730: 0x2005 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9147*]:
+730: 0x2005 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9149*]:
     → "This will be interesting, <Player>."
 731: 0x200C [0x23] WAIT_FOR_DIALOG_INTERACTION
 732: 0x200D [0x01] GOTO 0x20E1
 733: 0x2010 [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x2023
-734: 0x2018 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9148*]:
+734: 0x2018 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9150*]:
     → "Looking forward to hearing from you, <Player>!"
 735: 0x201F [0x23] WAIT_FOR_DIALOG_INTERACTION
 736: 0x2020 [0x01] GOTO 0x20E1
 737: 0x2023 [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x2036
-738: 0x202B [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9149*]:
+738: 0x202B [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9151*]:
     → "Stay in touch, <Player>."
 739: 0x2032 [0x23] WAIT_FOR_DIALOG_INTERACTION
 740: 0x2033 [0x01] GOTO 0x20E1
 741: 0x2036 [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x2049
-742: 0x203E [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9150*]:
+742: 0x203E [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9152*]:
     → "I look forward to cooperating with you, <Player>."
 743: 0x2045 [0x23] WAIT_FOR_DIALOG_INTERACTION
 744: 0x2046 [0x01] GOTO 0x20E1
 745: 0x2049 [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x205C
-746: 0x2051 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9153*]:
+746: 0x2051 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9155*]:
     → "This may be the start of a great adventure, <Player>."
 747: 0x2058 [0x23] WAIT_FOR_DIALOG_INTERACTION
 748: 0x2059 [0x01] GOTO 0x20E1
 749: 0x205C [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x206F
-750: 0x2064 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9154*]:
+750: 0x2064 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9156*]:
     → "Don't be a stranger, <Player>!"
 751: 0x206B [0x23] WAIT_FOR_DIALOG_INTERACTION
 752: 0x206C [0x01] GOTO 0x20E1
 753: 0x206F [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x2082
-754: 0x2077 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9155*]:
+754: 0x2077 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9157*]:
     → "This will be interesting, <Player>."
 755: 0x207E [0x23] WAIT_FOR_DIALOG_INTERACTION
 756: 0x207F [0x01] GOTO 0x20E1
 757: 0x2082 [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x2095
-758: 0x208A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9156*]:
+758: 0x208A [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9158*]:
     → "This is gonna be fun, <Player>!"
 759: 0x2091 [0x23] WAIT_FOR_DIALOG_INTERACTION
 760: 0x2092 [0x01] GOTO 0x20E1
 761: 0x2095 [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x20A8
-762: 0x209D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9157*]:
+762: 0x209D [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9159*]:
     → "I look forward to cooperating with you, <Player>."
 763: 0x20A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 764: 0x20A5 [0x01] GOTO 0x20E1
 765: 0x20A8 [0x02] IF !(ExtData[1]->WorkLocal[11] == 10*) GOTO 0x20BB
-766: 0x20B0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9151*]:
+766: 0x20B0 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9153*]:
     → "See you again, <Player>."
 767: 0x20B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 768: 0x20B8 [0x01] GOTO 0x20E1
 769: 0x20BB [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x20CE
-770: 0x20C3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9152*]:
+770: 0x20C3 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9154*]:
     → "Don't hesitate to give me a holler, <Player>!"
 771: 0x20CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 772: 0x20CB [0x01] GOTO 0x20E1
 773: 0x20CE [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x20E1
-774: 0x20D6 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9158*]:
+774: 0x20D6 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9160*]:
     → "I will be seeing more of you, <Player>."
 775: 0x20DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 776: 0x20DE [0x01] GOTO 0x20E1
@@ -4368,62 +4368,62 @@ SUBROUTINE_20E1:
 
 SUBROUTINE_20E2:
 778: 0x20E2 [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x20F5
-779: 0x20EA [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9161*]:
+779: 0x20EA [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9163*]:
     → "We'll be around. I'm sure you'll have something exciting waiting for us."
 780: 0x20F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 781: 0x20F2 [0x01] GOTO 0x21C6
 782: 0x20F5 [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x2108
-783: 0x20FD [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9162*]:
+783: 0x20FD [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9164*]:
     → "Of course! Let us know if you need anything!"
 784: 0x2104 [0x23] WAIT_FOR_DIALOG_INTERACTION
 785: 0x2105 [0x01] GOTO 0x21C6
 786: 0x2108 [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x211B
-787: 0x2110 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9163*]:
+787: 0x2110 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9165*]:
     → "Sure. Call us if you need anything."
 788: 0x2117 [0x23] WAIT_FOR_DIALOG_INTERACTION
 789: 0x2118 [0x01] GOTO 0x21C6
 790: 0x211B [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x212E
-791: 0x2123 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9164*]:
+791: 0x2123 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9166*]:
     → "Of course. Please inform us of any exciting new endeavors."
 792: 0x212A [0x23] WAIT_FOR_DIALOG_INTERACTION
 793: 0x212B [0x01] GOTO 0x21C6
 794: 0x212E [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x2141
-795: 0x2136 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9167*]:
+795: 0x2136 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9169*]:
     → "We'll be around."
 796: 0x213D [0x23] WAIT_FOR_DIALOG_INTERACTION
 797: 0x213E [0x01] GOTO 0x21C6
 798: 0x2141 [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x2154
-799: 0x2149 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9168*]:
+799: 0x2149 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9170*]:
     → "Sure! Let us know if something comes up!"
 800: 0x2150 [0x23] WAIT_FOR_DIALOG_INTERACTION
 801: 0x2151 [0x01] GOTO 0x21C6
 802: 0x2154 [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x2167
-803: 0x215C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9169*]:
+803: 0x215C [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9171*]:
     → "Of course. I'm sure we'll be around."
 804: 0x2163 [0x23] WAIT_FOR_DIALOG_INTERACTION
 805: 0x2164 [0x01] GOTO 0x21C6
 806: 0x2167 [0x02] IF !(ExtData[1]->WorkLocal[11] == 8*) GOTO 0x217A
-807: 0x216F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9170*]:
+807: 0x216F [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9172*]:
     → "No problem! We're always ready to lend you a hand, Luto!"
 808: 0x2176 [0x23] WAIT_FOR_DIALOG_INTERACTION
 809: 0x2177 [0x01] GOTO 0x21C6
 810: 0x217A [0x02] IF !(ExtData[1]->WorkLocal[11] == 9*) GOTO 0x218D
-811: 0x2182 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9171*]:
+811: 0x2182 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9173*]:
     → "Of course. Please inform us of any exciting new endeavors."
 812: 0x2189 [0x23] WAIT_FOR_DIALOG_INTERACTION
 813: 0x218A [0x01] GOTO 0x21C6
 814: 0x218D [0x02] IF !(ExtData[1]->WorkLocal[11] == 10*) GOTO 0x21A0
-815: 0x2195 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9165*]:
+815: 0x2195 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9167*]:
     → "We won't forget you, Luto."
 816: 0x219C [0x23] WAIT_FOR_DIALOG_INTERACTION
 817: 0x219D [0x01] GOTO 0x21C6
 818: 0x21A0 [0x02] IF !(ExtData[1]->WorkLocal[11] == 11*) GOTO 0x21B3
-819: 0x21A8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9166*]:
+819: 0x21A8 [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9168*]:
     → "Sure thing, Luto. Just yell when you need us."
 820: 0x21AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 821: 0x21B0 [0x01] GOTO 0x21C6
 822: 0x21B3 [0x02] IF !(ExtData[1]->WorkLocal[11] == 12*) GOTO 0x21C6
-823: 0x21BB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9172*]:
+823: 0x21BB [0x2B] Unnamed NPC (ID: 17776783/0x010F408F) [9174*]:
     → "Certainly. I have no objections against assisting you within reasonable constraints."
 824: 0x21C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 825: 0x21C3 [0x01] GOTO 0x21C6
@@ -4623,7 +4623,7 @@ SUBROUTINE_21C6:
  16: 0x2226 [0x4A] LocalPlayer looks at ??? (ID: 17776787/0x010F4093)
  17: 0x222F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[192*, 0*]
  18: 0x2240 [0x1A] CALL_SUBROUTINE(address=0x0363)
- 19: 0x2243 [0x2B] ??? (ID: 17776787/0x010F4093) [9256*]:
+ 19: 0x2243 [0x2B] ??? (ID: 17776787/0x010F4093) [9258*]:
     → "Hey there, friend. The name's Luto Mewrilah. Can I interest you in the incredibly entertaining $3?"
  20: 0x224A [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x224B [0x80] LOAD_WAIT(entity=Luto Mewrilah (ID: 17776780/0x010F408C))
@@ -4634,15 +4634,15 @@ SUBROUTINE_21C6:
  26: 0x227B [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  27: 0x227D [0x4A] Luto Mewrilah (ID: 17776780/0x010F408C) looks at ??? (ID: 17776787/0x010F4093)
  28: 0x2286 [0x4A] ??? (ID: 17776787/0x010F4093) looks at Luto Mewrilah (ID: 17776780/0x010F408C)
- 29: 0x228F [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9257*]:
+ 29: 0x228F [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9259*]:
     → "Just a fur-lickin' second there, buster! I'm Luto Mewrilah! What are you trrrying to pull?"
  30: 0x2296 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x2297 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [??? (ID: 17776787/0x010F4093), ??? (ID: 17776787/0x010F4093)], work=48*
- 32: 0x22A6 [0x2B] ??? (ID: 17776787/0x010F4093) [9258*]:
+ 32: 0x22A6 [0x2B] ??? (ID: 17776787/0x010F4093) [9260*]:
     → "Pull? I'm sure I don't know what you're talking about."
  33: 0x22AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x22AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=52*
- 35: 0x22BD [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9259*]:
+ 35: 0x22BD [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9261*]:
     → "That's my name and my face!"
  36: 0x22C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x22C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi2" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=52*
@@ -4652,12 +4652,12 @@ SUBROUTINE_21C6:
  41: 0x22FD [0x1C] WAIT(30* ticks)
  42: 0x2300 [0x4A] LocalPlayer looks at ??? (ID: 17776787/0x010F4093)
  43: 0x2309 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [??? (ID: 17776787/0x010F4093), ??? (ID: 17776787/0x010F4093)], work=52*
- 44: 0x2318 [0x2B] ??? (ID: 17776787/0x010F4093) [9260*]:
+ 44: 0x2318 [0x2B] ??? (ID: 17776787/0x010F4093) [9262*]:
     → "They were mine last time I looked."
  45: 0x231F [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x2320 [0x4A] LocalPlayer looks at Luto Mewrilah (ID: 17776780/0x010F408C)
  47: 0x2329 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=8*
- 48: 0x2338 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9261*]:
+ 48: 0x2338 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9263*]:
     → "Miss, you're really trrrying my patience..."
  49: 0x233F [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x2340 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4665,10 +4665,10 @@ SUBROUTINE_21C6:
  52: 0x2360 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [EventEntity, EventEntity], work=[192*, 0*]
  53: 0x2371 [0x4A] LocalPlayer looks at ??? (ID: 17776787/0x010F4093)
  54: 0x237A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [??? (ID: 17776787/0x010F4093), ??? (ID: 17776787/0x010F4093)], work=48*
- 55: 0x2389 [0x2B] ??? (ID: 17776787/0x010F4093) [9262*]:
+ 55: 0x2389 [0x2B] ??? (ID: 17776787/0x010F4093) [9264*]:
     → "Could we continue this later? I'm in the middle of a sales pitch for my $3."
  56: 0x2390 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x2391 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9263*]:
+ 57: 0x2391 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9265*]:
     → "3...?"
  58: 0x2398 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x2399 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [EventEntity, EventEntity], work=192*
@@ -4676,7 +4676,7 @@ SUBROUTINE_21C6:
  61: 0x23B9 [0x4A] ??? (ID: 17776787/0x010F4093) looks at LocalPlayer
  62: 0x23C2 [0x1C] WAIT(30* ticks)
  63: 0x23C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "yko0" with entities [??? (ID: 17776787/0x010F4093), ??? (ID: 17776787/0x010F4093)], work=28*
- 64: 0x23D4 [0x2B] ??? (ID: 17776787/0x010F4093) [9264*]:
+ 64: 0x23D4 [0x2B] ??? (ID: 17776787/0x010F4093) [9266*]:
     → "First, we have the amazing "knitted cap." With this little number, you can instantly transform yourself into an adorable child. Presto change-o!"
  65: 0x23DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x23DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -4697,20 +4697,20 @@ SUBROUTINE_21C6:
  81: 0x2470 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  82: 0x2481 [0x1C] WAIT(60* ticks)
  83: 0x2484 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ehe0" with entities [Lafado-Shiraddo (ID: 17776788/0x010F4094), Lafado-Shiraddo (ID: 17776788/0x010F4094)], work=85*
- 84: 0x2493 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9265*]:
+ 84: 0x2493 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9267*]:
     → "I feel younger already!"
  85: 0x249A [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x249B [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [EventEntity, EventEntity], work=192*
  87: 0x24AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[192*, 0*]
  88: 0x24BB [0x4A] Lafado-Shiraddo (ID: 17776788/0x010F4094) looks at Luto Mewrilah (ID: 17776780/0x010F408C)
  89: 0x24C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=52*
- 90: 0x24D3 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9266*]:
+ 90: 0x24D3 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9268*]:
     → "Oh, it's you. What's the big deal with stealing my face for your sideshow tricks?"
  91: 0x24DA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 92: 0x24DB [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9267*]:
+ 92: 0x24DB [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9269*]:
     → "Heh heh. Just having a little fun. Surprised?"
  93: 0x24E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x24E3 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9268*]:
+ 94: 0x24E3 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9270*]:
     → ""Surprised" isn't the word for it. I see you're still using the kiddy cap."
  95: 0x24EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x24EB [0x1C] WAIT(30* ticks)
@@ -4720,16 +4720,16 @@ SUBROUTINE_21C6:
 100: 0x2517 [0x1C] WAIT(60* ticks)
 101: 0x251A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
 102: 0x2529 [0x79] LocalPlayer looks at Luto Mewrilah (ID: 17776780/0x010F408C) (Basic look)
-103: 0x2533 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9269*]:
+103: 0x2533 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9271*]:
     → "This child is... ...You know, I can't introduce you looking like that."
 104: 0x253A [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x253B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
 106: 0x254A [0x1C] WAIT(60* ticks)
 107: 0x254D [0x4A] Luto Mewrilah (ID: 17776780/0x010F408C) looks at Lafado-Shiraddo (ID: 17776788/0x010F4094)
-108: 0x2556 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9270*]:
+108: 0x2556 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9272*]:
     → "Change back to your normal form."
 109: 0x255D [0x23] WAIT_FOR_DIALOG_INTERACTION
-110: 0x255E [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9271*]:
+110: 0x255E [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9273*]:
     → "Okay, okay. Here we go!"
 111: 0x2565 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x2566 [0x52] END_LOAD_SCHEDULER: End scheduler "s048" with entities [EventEntity, EventEntity], work=192*
@@ -4742,12 +4742,12 @@ SUBROUTINE_21C6:
 119: 0x25BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 120: 0x25CC [0x7C] Lafado-Shiraddo (ID: 17776788/0x010F4094)->Render.Flags2 |= 0x00
 121: 0x25D2 [0x1C] WAIT(120* ticks)
-122: 0x25D5 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9272*]:
+122: 0x25D5 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9274*]:
     → "..."
 123: 0x25DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x25DD [0x7C] Lafado-Shiraddo (ID: 17776788/0x010F4094)->Render.Flags2 |= 0x01
 125: 0x25E3 [0x1C] WAIT(60* ticks)
-126: 0x25E6 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9273*]:
+126: 0x25E6 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9275*]:
     → "Huh?"
 127: 0x25ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x25EE [0x52] END_LOAD_SCHEDULER: End scheduler "s049" with entities [EventEntity, EventEntity], work=192*
@@ -4760,41 +4760,41 @@ SUBROUTINE_21C6:
 135: 0x2643 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 136: 0x2654 [0x1C] WAIT(60* ticks)
 137: 0x2657 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Lafado-Shiraddo (ID: 17776788/0x010F4094), Lafado-Shiraddo (ID: 17776788/0x010F4094)], work=85*
-138: 0x2666 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9274*]:
+138: 0x2666 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9276*]:
     → "Why am I still...?"
 139: 0x266D [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x266E [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [EventEntity, EventEntity], work=192*
 141: 0x267D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[192*, 0*]
-142: 0x268E [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9275*]:
+142: 0x268E [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9277*]:
     → "What's wrrrong?"
 143: 0x2695 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x2696 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Lafado-Shiraddo (ID: 17776788/0x010F4094), Lafado-Shiraddo (ID: 17776788/0x010F4094)], work=85*
 145: 0x26A5 [0x1C] WAIT(60* ticks)
-146: 0x26A8 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9276*]:
+146: 0x26A8 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9278*]:
     → "I can't change back..."
 147: 0x26AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x26B0 [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=192*
 149: 0x26BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[192*, 0*]
 150: 0x26D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=8*
-151: 0x26DF [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9277*]:
+151: 0x26DF [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9279*]:
     → "What do you mean, you can't change back!?"
 152: 0x26E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x26E7 [0x1C] WAIT(60* ticks)
 154: 0x26EA [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [EventEntity, EventEntity], work=192*
 155: 0x26F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [EventEntity, EventEntity], work=[192*, 0*]
 156: 0x270A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Lafado-Shiraddo (ID: 17776788/0x010F4094), Lafado-Shiraddo (ID: 17776788/0x010F4094)], work=85*
-157: 0x2719 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9278*]:
+157: 0x2719 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9280*]:
     → "Hmmm, this has never happened to me before..."
 158: 0x2720 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x2721 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
 160: 0x2730 [0x1C] WAIT(60* ticks)
-161: 0x2733 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9279*]:
+161: 0x2733 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9281*]:
     → "Could there be some prrroblem with the cap?"
 162: 0x273A [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x273B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Lafado-Shiraddo (ID: 17776788/0x010F4094), Lafado-Shiraddo (ID: 17776788/0x010F4094)], work=85*
 164: 0x274A [0x4A] LocalPlayer looks at Luto Mewrilah (ID: 17776780/0x010F408C)
 165: 0x2753 [0x1C] WAIT(60* ticks)
-166: 0x2756 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9280*]:
+166: 0x2756 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9282*]:
     → "It was fine the last time I used it."
 167: 0x275D [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x275E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
@@ -4802,17 +4802,17 @@ SUBROUTINE_21C6:
 170: 0x2770 [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [EventEntity, EventEntity], work=192*
 171: 0x277F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [EventEntity, EventEntity], work=[192*, 0*]
 172: 0x2790 [0x1C] WAIT(30* ticks)
-173: 0x2793 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9281*]:
+173: 0x2793 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9283*]:
     → "Did you do something different the last time?"
 174: 0x279A [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x279B [0x6E] Lafado-Shiraddo (ID: 17776788/0x010F4094) uses emote 6*
 176: 0x27A2 [0x99] Wait for Lafado-Shiraddo (ID: 17776788/0x010F4094) animation to complete
-177: 0x27A7 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9282*]:
+177: 0x27A7 [0x2B] Lafado-Shiraddo (ID: 17776788/0x010F4094) [9284*]:
     → "Not that I can remember."
 178: 0x27AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x27AF [0x99] Wait for Lafado-Shiraddo (ID: 17776788/0x010F4094) animation to complete
 180: 0x27B4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
-181: 0x27C3 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9283*]:
+181: 0x27C3 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9285*]:
     → "Well, there must be something you did if it's not working now. Why don't we try going back to the place you last used the cap?"
 182: 0x27CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x27CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
@@ -4820,7 +4820,7 @@ SUBROUTINE_21C6:
 185: 0x27DD [0x52] END_LOAD_SCHEDULER: End scheduler "s052" with entities [EventEntity, EventEntity], work=192*
 186: 0x27EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [EventEntity, EventEntity], work=[192*, 0*]
 187: 0x27FD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
-188: 0x280C [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9284*]:
+188: 0x280C [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9286*]:
     → "That would have been...Ru'Lude Gardens."
 189: 0x2813 [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x2814 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
@@ -4828,7 +4828,7 @@ SUBROUTINE_21C6:
 192: 0x2826 [0x4A] Luto Mewrilah (ID: 17776780/0x010F408C) looks at LocalPlayer
 193: 0x282F [0x1C] WAIT(30* ticks)
 194: 0x2832 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
-195: 0x2841 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9285*]:
+195: 0x2841 [0x2B] Luto Mewrilah (ID: 17776780/0x010F408C) [9287*]:
     → "<Player>, would you mind tagging along? I'll explain everything later."
 196: 0x2848 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x2849 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
@@ -4863,7 +4863,7 @@ SUBROUTINE_21C6:
 
 ```
   0: 0x2880 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x2885 [0x1D] PRINT_EVENT_MESSAGE(message_id=9286*)
+  1: 0x2885 [0x1D] PRINT_EVENT_MESSAGE(message_id=9288*)
     → "You go on ahead. I'll meet you in Ru'Lude Gardens."
   2: 0x2888 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x2889 [0x21] END_EVENT
@@ -4891,7 +4891,7 @@ SUBROUTINE_21C6:
 
 ```
   0: 0x288B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x2890 [0x1D] PRINT_EVENT_MESSAGE(message_id=9784*)
+  1: 0x2890 [0x1D] PRINT_EVENT_MESSAGE(message_id=9786*)
     → "Look for a book on Near Eastern mirrors in the Windurst Optistery."
   2: 0x2893 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x2894 [0x21] END_EVENT
@@ -5400,7 +5400,7 @@ SUBROUTINE_21C6:
 
 ```
   0: 0x294A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x294F [0x1D] PRINT_EVENT_MESSAGE(message_id=9904*)
+  1: 0x294F [0x1D] PRINT_EVENT_MESSAGE(message_id=9906*)
     → "We have to find Palometa. She could be our only clue..."
   2: 0x2952 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x2953 [0x21] END_EVENT
@@ -7321,42 +7321,42 @@ SUBROUTINE_21C6:
   2: 0x2A56 [0x1A] CALL_SUBROUTINE(address=0x3F2D)
   3: 0x2A59 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
   4: 0x2A5E [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x2A6D
-  5: 0x2A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=10876*)
+  5: 0x2A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=10878*)
     → "All by yourself, <Player>? Where's [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?"
   6: 0x2A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x2A6A [0x01] GOTO 0x2AD6
   8: 0x2A6D [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x2A7C
-  9: 0x2A75 [0x1D] PRINT_EVENT_MESSAGE(message_id=10877*)
+  9: 0x2A75 [0x1D] PRINT_EVENT_MESSAGE(message_id=10879*)
     → "All by yourself, <Player>? Where's [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?"
  10: 0x2A78 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x2A79 [0x01] GOTO 0x2AD6
  12: 0x2A7C [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x2A8B
- 13: 0x2A84 [0x1D] PRINT_EVENT_MESSAGE(message_id=10878*)
+ 13: 0x2A84 [0x1D] PRINT_EVENT_MESSAGE(message_id=10880*)
     → "All by yourself, <Player>? Where's [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?"
  14: 0x2A87 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x2A88 [0x01] GOTO 0x2AD6
  16: 0x2A8B [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x2A9A
- 17: 0x2A93 [0x1D] PRINT_EVENT_MESSAGE(message_id=10879*)
+ 17: 0x2A93 [0x1D] PRINT_EVENT_MESSAGE(message_id=10881*)
     → "All by yourself, <Player>? Where's [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?"
  18: 0x2A96 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x2A97 [0x01] GOTO 0x2AD6
  20: 0x2A9A [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x2AA9
- 21: 0x2AA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10880*)
+ 21: 0x2AA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10882*)
     → "All by yourself, <Player>? Where's [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]?"
  22: 0x2AA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x2AA6 [0x01] GOTO 0x2AD6
  24: 0x2AA9 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x2AB8
- 25: 0x2AB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10881*)
+ 25: 0x2AB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10883*)
     → "All by yourself, <Player>? Where's [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]?"
  26: 0x2AB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x2AB5 [0x01] GOTO 0x2AD6
  28: 0x2AB8 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x2AC7
- 29: 0x2AC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10882*)
+ 29: 0x2AC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10884*)
     → "All by yourself, <Player>? Where's [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]?"
  30: 0x2AC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x2AC4 [0x01] GOTO 0x2AD6
  32: 0x2AC7 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x2AD6
- 33: 0x2ACF [0x1D] PRINT_EVENT_MESSAGE(message_id=10883*)
+ 33: 0x2ACF [0x1D] PRINT_EVENT_MESSAGE(message_id=10885*)
     → "All by yourself, <Player>? Where's [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]?"
  34: 0x2AD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x2AD3 [0x01] GOTO 0x2AD6
@@ -10594,17 +10594,17 @@ SUBROUTINE_4003:
 
 ```
   0: 0x7363 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x7364 [0x48] [System] [11121*]:
+  1: 0x7364 [0x48] [System] [11123*]:
     → "<Player>'s badge flashes brightly."
   2: 0x7367 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x736C [0x1C] WAIT(30* ticks)
-  4: 0x736F [0x1D] PRINT_EVENT_MESSAGE(message_id=11126*)
+  4: 0x736F [0x1D] PRINT_EVENT_MESSAGE(message_id=11128*)
     → "Heheh, I just can't rrresist anything shiny..."
   5: 0x7372 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x7373 [0x48] [System] [11127*]:
+  6: 0x7373 [0x48] [System] [11129*]:
     → "Luto Mewrilah's badge flashes brightly."
   7: 0x7376 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*
-  8: 0x7385 [0x1D] PRINT_EVENT_MESSAGE(message_id=11128*)
+  8: 0x7385 [0x1D] PRINT_EVENT_MESSAGE(message_id=11130*)
     → "Still, I wonder why they've come all the way here to recruit mercenaries. I bet their expenses are through the rrroof!"
   9: 0x7388 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x7389 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Luto Mewrilah (ID: 17776780/0x010F408C), Luto Mewrilah (ID: 17776780/0x010F408C)], work=50*

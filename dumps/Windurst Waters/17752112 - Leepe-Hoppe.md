@@ -166,47 +166,47 @@
 |      10 | 0x01AE      |         430 |
 |      11 | 0x01AF      |         431 |
 |      12 | 0x002E      |          46 |
-|      13 | 0x1F5C      |        8028 |
-|      14 | 0x1F5D      |        8029 |
-|      15 | 0x1F6B      |        8043 |
-|      16 | 0x1FAD      |        8109 |
-|      17 | 0x1FAE      |        8110 |
+|      13 | 0x1F5E      |        8030 |
+|      14 | 0x1F5F      |        8031 |
+|      15 | 0x1F6D      |        8045 |
+|      16 | 0x1FAF      |        8111 |
+|      17 | 0x1FB0      |        8112 |
 |      18 | 0x00C8      |         200 |
 |      19 | 0x0000      |           0 |
 |      20 | 0x0003      |           3 |
 |      21 | 0x008A      |         138 |
-|      22 | 0x1DB4      |        7604 |
-|      23 | 0x1DB6      |        7606 |
-|      24 | 0x1DB7      |        7607 |
-|      25 | 0x1DB8      |        7608 |
-|      26 | 0x1DB9      |        7609 |
-|      27 | 0x1DBA      |        7610 |
-|      28 | 0x1DBB      |        7611 |
+|      22 | 0x1DB6      |        7606 |
+|      23 | 0x1DB8      |        7608 |
+|      24 | 0x1DB9      |        7609 |
+|      25 | 0x1DBA      |        7610 |
+|      26 | 0x1DBB      |        7611 |
+|      27 | 0x1DBC      |        7612 |
+|      28 | 0x1DBD      |        7613 |
 |      29 | 0x33B2      |       13234 |
 |      30 | 0xFFFCFC3E  |  4294769726 |
 |      31 | 0xFFFFD9EA  |  4294957546 |
 |      32 | 0x0045      |          69 |
 |      33 | 0x3AD7      |       15063 |
 |      34 | 0xFFFCFCDF  |  4294769887 |
-|      35 | 0x1DC3      |        7619 |
-|      36 | 0x1DC4      |        7620 |
-|      37 | 0x1DC5      |        7621 |
-|      38 | 0x1DC8      |        7624 |
-|      39 | 0x1DCB      |        7627 |
-|      40 | 0x1DCC      |        7628 |
-|      41 | 0x1DCD      |        7629 |
-|      42 | 0x1DCE      |        7630 |
-|      43 | 0x1DCF      |        7631 |
-|      44 | 0x1DD0      |        7632 |
-|      45 | 0x1DD1      |        7633 |
-|      46 | 0x1DD2      |        7634 |
-|      47 | 0x25F9      |        9721 |
-|      48 | 0x25FA      |        9722 |
-|      49 | 0x25FB      |        9723 |
-|      50 | 0x25FC      |        9724 |
-|      51 | 0x25FD      |        9725 |
-|      52 | 0x2609      |        9737 |
-|      53 | 0x260A      |        9738 |
+|      35 | 0x1DC5      |        7621 |
+|      36 | 0x1DC6      |        7622 |
+|      37 | 0x1DC7      |        7623 |
+|      38 | 0x1DCA      |        7626 |
+|      39 | 0x1DCD      |        7629 |
+|      40 | 0x1DCE      |        7630 |
+|      41 | 0x1DCF      |        7631 |
+|      42 | 0x1DD0      |        7632 |
+|      43 | 0x1DD1      |        7633 |
+|      44 | 0x1DD2      |        7634 |
+|      45 | 0x1DD3      |        7635 |
+|      46 | 0x1DD4      |        7636 |
+|      47 | 0x25FB      |        9723 |
+|      48 | 0x25FC      |        9724 |
+|      49 | 0x25FD      |        9725 |
+|      50 | 0x25FE      |        9726 |
+|      51 | 0x25FF      |        9727 |
+|      52 | 0x260B      |        9739 |
+|      53 | 0x260C      |        9740 |
 |      54 | 0x3212      |       12818 |
 |      55 | 0xFFFCFCAA  |  4294769834 |
 |      56 | 0xFFFFD9EB  |  4294957547 |
@@ -214,24 +214,24 @@
 |      58 | 0x007B      |         123 |
 |      59 | 0x0064      |         100 |
 |      60 | 0x00D3      |         211 |
-|      61 | 0x2610      |        9744 |
-|      62 | 0x2611      |        9745 |
-|      63 | 0x2612      |        9746 |
-|      64 | 0x2614      |        9748 |
-|      65 | 0x2615      |        9749 |
+|      61 | 0x2612      |        9746 |
+|      62 | 0x2613      |        9747 |
+|      63 | 0x2614      |        9748 |
+|      64 | 0x2616      |        9750 |
+|      65 | 0x2617      |        9751 |
 |      66 | 0x0004      |           4 |
 |      67 | 0x0FBD      |        4029 |
-|      68 | 0x2618      |        9752 |
+|      68 | 0x261A      |        9754 |
 |      69 | 0x0097      |         151 |
 |      70 | 0x007F      |         127 |
 |      71 | 0x012C      |         300 |
 |      72 | 0x0017      |          23 |
 |      73 | 0x00C9      |         201 |
-|      74 | 0x260F      |        9743 |
-|      75 | 0x2613      |        9747 |
+|      74 | 0x2611      |        9745 |
+|      75 | 0x2615      |        9749 |
 |      76 | 0x000B      |          11 |
-|      77 | 0x2619      |        9753 |
-|      78 | 0x261A      |        9754 |
+|      77 | 0x261B      |        9755 |
+|      78 | 0x261C      |        9756 |
 |      79 | 0x0F64      |        3940 |
 |      80 | 0xFFFCFE54  |  4294770260 |
 |      81 | 0xFFFFEF66  |  4294963046 |
@@ -241,105 +241,105 @@
 |      85 | 0x0027      |          39 |
 |      86 | 0x307A      |       12410 |
 |      87 | 0xFFFCFFA7  |  4294770599 |
-|      88 | 0x269A      |        9882 |
-|      89 | 0x269E      |        9886 |
-|      90 | 0x26A4      |        9892 |
-|      91 | 0x26B6      |        9910 |
-|      92 | 0x26B7      |        9911 |
-|      93 | 0x26C1      |        9921 |
-|      94 | 0x26C2      |        9922 |
+|      88 | 0x269C      |        9884 |
+|      89 | 0x26A0      |        9888 |
+|      90 | 0x26A6      |        9894 |
+|      91 | 0x26B8      |        9912 |
+|      92 | 0x26B9      |        9913 |
+|      93 | 0x26C3      |        9923 |
+|      94 | 0x26C4      |        9924 |
 |      95 | 0x0015      |          21 |
-|      96 | 0x2773      |       10099 |
-|      97 | 0x2774      |       10100 |
-|      98 | 0x2775      |       10101 |
+|      96 | 0x2775      |       10101 |
+|      97 | 0x2776      |       10102 |
+|      98 | 0x2777      |       10103 |
 |      99 | 0x0002      |           2 |
-|     100 | 0x2777      |       10103 |
-|     101 | 0x2778      |       10104 |
-|     102 | 0x2779      |       10105 |
-|     103 | 0x277A      |       10106 |
+|     100 | 0x2779      |       10105 |
+|     101 | 0x277A      |       10106 |
+|     102 | 0x277B      |       10107 |
+|     103 | 0x277C      |       10108 |
 |     104 | 0x00D4      |         212 |
 |     105 | 0x0022      |          34 |
-|     106 | 0x277B      |       10107 |
-|     107 | 0x277C      |       10108 |
-|     108 | 0x277D      |       10109 |
-|     109 | 0x277E      |       10110 |
-|     110 | 0x277F      |       10111 |
-|     111 | 0x2780      |       10112 |
-|     112 | 0x2781      |       10113 |
-|     113 | 0x2782      |       10114 |
-|     114 | 0x2783      |       10115 |
-|     115 | 0x2776      |       10102 |
+|     106 | 0x277D      |       10109 |
+|     107 | 0x277E      |       10110 |
+|     108 | 0x277F      |       10111 |
+|     109 | 0x2780      |       10112 |
+|     110 | 0x2781      |       10113 |
+|     111 | 0x2782      |       10114 |
+|     112 | 0x2783      |       10115 |
+|     113 | 0x2784      |       10116 |
+|     114 | 0x2785      |       10117 |
+|     115 | 0x2778      |       10104 |
 |     116 | 0x3095      |       12437 |
 |     117 | 0xFFFCFC9D  |  4294769821 |
-|     118 | 0x2784      |       10116 |
-|     119 | 0x2785      |       10117 |
-|     120 | 0x2786      |       10118 |
-|     121 | 0x2787      |       10119 |
+|     118 | 0x2786      |       10118 |
+|     119 | 0x2787      |       10119 |
+|     120 | 0x2788      |       10120 |
+|     121 | 0x2789      |       10121 |
 |     122 | 0x0005      |           5 |
-|     123 | 0x2788      |       10120 |
-|     124 | 0x2789      |       10121 |
-|     125 | 0x278A      |       10122 |
-|     126 | 0x278B      |       10123 |
-|     127 | 0x278C      |       10124 |
+|     123 | 0x278A      |       10122 |
+|     124 | 0x278B      |       10123 |
+|     125 | 0x278C      |       10124 |
+|     126 | 0x278D      |       10125 |
+|     127 | 0x278E      |       10126 |
 |     128 | 0x0096      |         150 |
-|     129 | 0x278D      |       10125 |
-|     130 | 0x278E      |       10126 |
-|     131 | 0x278F      |       10127 |
-|     132 | 0x2790      |       10128 |
-|     133 | 0x2791      |       10129 |
-|     134 | 0x2792      |       10130 |
-|     135 | 0x2793      |       10131 |
-|     136 | 0x2794      |       10132 |
-|     137 | 0x2795      |       10133 |
-|     138 | 0x2796      |       10134 |
-|     139 | 0x2797      |       10135 |
-|     140 | 0x2798      |       10136 |
-|     141 | 0x2799      |       10137 |
+|     129 | 0x278F      |       10127 |
+|     130 | 0x2790      |       10128 |
+|     131 | 0x2791      |       10129 |
+|     132 | 0x2792      |       10130 |
+|     133 | 0x2793      |       10131 |
+|     134 | 0x2794      |       10132 |
+|     135 | 0x2795      |       10133 |
+|     136 | 0x2796      |       10134 |
+|     137 | 0x2797      |       10135 |
+|     138 | 0x2798      |       10136 |
+|     139 | 0x2799      |       10137 |
+|     140 | 0x279A      |       10138 |
+|     141 | 0x279B      |       10139 |
 |     142 | 0x0099      |         153 |
-|     143 | 0x279A      |       10138 |
-|     144 | 0x279B      |       10139 |
-|     145 | 0x279C      |       10140 |
+|     143 | 0x279C      |       10140 |
+|     144 | 0x279D      |       10141 |
+|     145 | 0x279E      |       10142 |
 |     146 | 0x000A      |          10 |
-|     147 | 0x279D      |       10141 |
-|     148 | 0x279E      |       10142 |
-|     149 | 0x279F      |       10143 |
-|     150 | 0x27A0      |       10144 |
-|     151 | 0x27A1      |       10145 |
-|     152 | 0x27A2      |       10146 |
-|     153 | 0x27A3      |       10147 |
+|     147 | 0x279F      |       10143 |
+|     148 | 0x27A0      |       10144 |
+|     149 | 0x27A1      |       10145 |
+|     150 | 0x27A2      |       10146 |
+|     151 | 0x27A3      |       10147 |
+|     152 | 0x27A4      |       10148 |
+|     153 | 0x27A5      |       10149 |
 |     154 | 0x3352      |       13138 |
-|     155 | 0x27A4      |       10148 |
-|     156 | 0x27A5      |       10149 |
-|     157 | 0x27A6      |       10150 |
-|     158 | 0x27A7      |       10151 |
-|     159 | 0x27A8      |       10152 |
-|     160 | 0x27A9      |       10153 |
-|     161 | 0x27AA      |       10154 |
-|     162 | 0x27AB      |       10155 |
-|     163 | 0x27AC      |       10156 |
-|     164 | 0x27AD      |       10157 |
+|     155 | 0x27A6      |       10150 |
+|     156 | 0x27A7      |       10151 |
+|     157 | 0x27A8      |       10152 |
+|     158 | 0x27A9      |       10153 |
+|     159 | 0x27AA      |       10154 |
+|     160 | 0x27AB      |       10155 |
+|     161 | 0x27AC      |       10156 |
+|     162 | 0x27AD      |       10157 |
+|     163 | 0x27AE      |       10158 |
+|     164 | 0x27AF      |       10159 |
 |     165 | 0x0078      |         120 |
-|     166 | 0x27AE      |       10158 |
-|     167 | 0x27AF      |       10159 |
-|     168 | 0x27B0      |       10160 |
-|     169 | 0x27B1      |       10161 |
-|     170 | 0x27B2      |       10162 |
-|     171 | 0x27B3      |       10163 |
-|     172 | 0x27B4      |       10164 |
-|     173 | 0x27B5      |       10165 |
-|     174 | 0x27B6      |       10166 |
-|     175 | 0x27B7      |       10167 |
-|     176 | 0x27B8      |       10168 |
-|     177 | 0x27B9      |       10169 |
-|     178 | 0x27BA      |       10170 |
-|     179 | 0x27BB      |       10171 |
-|     180 | 0x27BC      |       10172 |
+|     166 | 0x27B0      |       10160 |
+|     167 | 0x27B1      |       10161 |
+|     168 | 0x27B2      |       10162 |
+|     169 | 0x27B3      |       10163 |
+|     170 | 0x27B4      |       10164 |
+|     171 | 0x27B5      |       10165 |
+|     172 | 0x27B6      |       10166 |
+|     173 | 0x27B7      |       10167 |
+|     174 | 0x27B8      |       10168 |
+|     175 | 0x27B9      |       10169 |
+|     176 | 0x27BA      |       10170 |
+|     177 | 0x27BB      |       10171 |
+|     178 | 0x27BC      |       10172 |
+|     179 | 0x27BD      |       10173 |
+|     180 | 0x27BE      |       10174 |
 |     181 | 0x0014      |          20 |
-|     182 | 0x27BD      |       10173 |
-|     183 | 0x27BE      |       10174 |
-|     184 | 0x27BF      |       10175 |
-|     185 | 0x27C0      |       10176 |
-|     186 | 0x27C1      |       10177 |
+|     182 | 0x27BF      |       10175 |
+|     183 | 0x27C0      |       10176 |
+|     184 | 0x27C1      |       10177 |
+|     185 | 0x27C2      |       10178 |
+|     186 | 0x27C3      |       10179 |
 |     187 | 0x2CA8      |       11432 |
 |     188 | 0x0711      |        1809 |
 |     189 | 0x00A0      |         160 |
@@ -358,144 +358,144 @@
 |     202 | 0x06D2      |        1746 |
 |     203 | 0x69B9      |       27065 |
 |     204 | 0xFFFD11E5  |  4294775269 |
-|     205 | 0x29A6      |       10662 |
-|     206 | 0x29A9      |       10665 |
-|     207 | 0x29AB      |       10667 |
-|     208 | 0x29AC      |       10668 |
+|     205 | 0x29A8      |       10664 |
+|     206 | 0x29AB      |       10667 |
+|     207 | 0x29AD      |       10669 |
+|     208 | 0x29AE      |       10670 |
 |     209 | 0x2EA3      |       11939 |
 |     210 | 0xFFFCFB0A  |  4294769418 |
 |     211 | 0x3C88      |       15496 |
 |     212 | 0xFFFCFA6B  |  4294769259 |
-|     213 | 0x29C8      |       10696 |
-|     214 | 0x29C6      |       10694 |
-|     215 | 0x29C7      |       10695 |
-|     216 | 0x29C9      |       10697 |
-|     217 | 0x29CA      |       10698 |
-|     218 | 0x29CB      |       10699 |
+|     213 | 0x29CA      |       10698 |
+|     214 | 0x29C8      |       10696 |
+|     215 | 0x29C9      |       10697 |
+|     216 | 0x29CB      |       10699 |
+|     217 | 0x29CC      |       10700 |
+|     218 | 0x29CD      |       10701 |
 
 ## String References
 
-- **7604**: tWhat? Speak up! What's that you say? You're the help from the gatehouse, eh?
-- **7606**: Here you go... Sorry for all the fuss. Today's offering for the altars of Giddeus.
-- **7607**: In these bags are Yagudo's favorite cherries. These should give those ugly old beastmen their merries.
-- **7608**: If you are wondering why there're now two bags, it's 'cause there're two altars in Giddeus's crags. A Yagudo by each altar stands. To each of them a bag you hand.
-- **7609**: And though an offering you do bear, those Yagudo may attack you there. So take precautions, be prepared... Lest you return in states impaired!t
-- **7610**: The places where the altars of offering stand, are a little way into the Giddeus land. Before the entrances of the caves they are, so be careful not to venture in too far.
-- **7611**: And though an offering you do bear, those Yagudo may attack you there. So be prepared and best of luck, unless you are a lucky...schmuck.t
-- **7619**: We of the Rhinostery would like to explore the underground canals too.
-- **7620**: And investigate why the great beast disappeared after the war ceased.
-- **7621**: But the entrance to the canals in Windurst Walls, has been off-limits for twenty years, 'spite our calls. Known only as the Priming Gate, Cardians guard it as of late.
-- **7624**: But opening the Priming Gate is no easy thing, the key is our Rhinostery minister's ring. And Minister Rukususu wouldn't to you lend, her ring even if you were really her friend.
-- **7627**: Back from Giddeus now, I see! Your mission's done. What joy, what glee!
-- **7628**: Oh, that was the Orastery minister, Ajido-Marujido, who wants to go to Karaha-Baruha's lab in the canals so...
-- **7629**: So it really is the truth, what the rumors say... he's been asking about forbidden magic today.
-- **7630**: I'm surprised he doesn't get caught without quibble, by Windurst's Sibyl Guards and the great Star Sibyl.
-- **7631**: Anyway, your task's complete, your mission done, so return to the gatehouse where you begun.
-- **7632**: Ha-ha! I'm sure something great, awaits you back at the gate!
-- **7633**: Well, your task's complete, your mission done. Return to the gatehouse where you begun.
+- **7606**: tWhat? Speak up! What's that you say? You're the help from the gatehouse, eh?
+- **7608**: Here you go... Sorry for all the fuss. Today's offering for the altars of Giddeus.
+- **7609**: In these bags are Yagudo's favorite cherries. These should give those ugly old beastmen their merries.
+- **7610**: If you are wondering why there're now two bags, it's 'cause there're two altars in Giddeus's crags. A Yagudo by each altar stands. To each of them a bag you hand.
+- **7611**: And though an offering you do bear, those Yagudo may attack you there. So take precautions, be prepared... Lest you return in states impaired!t
+- **7612**: The places where the altars of offering stand, are a little way into the Giddeus land. Before the entrances of the caves they are, so be careful not to venture in too far.
+- **7613**: And though an offering you do bear, those Yagudo may attack you there. So be prepared and best of luck, unless you are a lucky...schmuck.t
+- **7621**: We of the Rhinostery would like to explore the underground canals too.
+- **7622**: And investigate why the great beast disappeared after the war ceased.
+- **7623**: But the entrance to the canals in Windurst Walls, has been off-limits for twenty years, 'spite our calls. Known only as the Priming Gate, Cardians guard it as of late.
+- **7626**: But opening the Priming Gate is no easy thing, the key is our Rhinostery minister's ring. And Minister Rukususu wouldn't to you lend, her ring even if you were really her friend.
+- **7629**: Back from Giddeus now, I see! Your mission's done. What joy, what glee!
+- **7630**: Oh, that was the Orastery minister, Ajido-Marujido, who wants to go to Karaha-Baruha's lab in the canals so...
+- **7631**: So it really is the truth, what the rumors say... he's been asking about forbidden magic today.
+- **7632**: I'm surprised he doesn't get caught without quibble, by Windurst's Sibyl Guards and the great Star Sibyl.
+- **7633**: Anyway, your task's complete, your mission done, so return to the gatehouse where you begun.
 - **7634**: Ha-ha! I'm sure something great, awaits you back at the gate!
-- **8028**: Have you heard about the great beast, you therey? They say it's sealed inside Horutoto Ruins... How scary!
-- **8029**: All let out a collective sigh, when they stopped seeing it in the night sky. Since the war of twenty years ago, its fate, our scientists strive to know.
-- **8043**: <burp>... Well, excu\`se me. As you can see, I'm not the slightest bit hungry...
-- **8109**: As far as the study of plants here goes, Kenapa-Keppa is the one who most knows.
-- **8110**: Kenapa-Keppa has a great dream, I support him to the extreme!
-- **9721**: You've come! You're here! No more to fear!
-- **9722**: I want you to stop Minister Rukususu! She's run off on the trail of Mr. Iru-Kuiru, All the way to the southern continent. It's terribly dangerous, in any event!
-- **9723**: Ask Kerutoto for greater detail. She's on the first floor, with the whole sorry tale.
+- **7635**: Well, your task's complete, your mission done. Return to the gatehouse where you begun.
+- **7636**: Ha-ha! I'm sure something great, awaits you back at the gate!
+- **8030**: Have you heard about the great beast, you therey? They say it's sealed inside Horutoto Ruins... How scary!
+- **8031**: All let out a collective sigh, when they stopped seeing it in the night sky. Since the war of twenty years ago, its fate, our scientists strive to know.
+- **8045**: <burp>... Well, excu\`se me. As you can see, I'm not the slightest bit hungry...
+- **8111**: As far as the study of plants here goes, Kenapa-Keppa is the one who most knows.
+- **8112**: Kenapa-Keppa has a great dream, I support him to the extreme!
+- **9723**: You've come! You're here! No more to fear!
 - **9724**: I want you to stop Minister Rukususu! She's run off on the trail of Mr. Iru-Kuiru, All the way to the southern continent. It's terribly dangerous, in any event!
 - **9725**: Ask Kerutoto for greater detail. She's on the first floor, with the whole sorry tale.
-- **9737**: Go to the southern continent right away, And rescue Rukususu from her path gone astray!
-- **9738**: Iru-Kuiru was cursed unto death! It's been thirty years since his last living breath! Our beloved minister could end up sharing his fate, So be on your way, before it's too late!
-- **9743**: You're back! Is the minister safe and sound? Justaru a moment, I don't see her around!?
-- **9747**: Minister Rukususu! It's so good to see you!
-- **9753**: I'm so relieved to have the minister home. But she'll soon be off for another Northlands roam...
-- **9754**: The other researchers are still up there on the ice. On Beaucedine Glacier, you can freeze in a trice!
-- **9882**: What's all this fuss and noise I hear? An emergency, huh? What's there to fear?
-- **9886**: Oh my Goddess, this cannot be! You know the roots of the Great Star Tree, Are found beyond the Priming Gate, In Toraimarai Canal, oh why, cruel fate?
-- **9892**: Full Rhinostery authorization, you say? And hand [him/her] the $3, come what may?
-- **9910**: The $3 is not a toy, So use it properly, and be a good boy!
-- **9911**: The Rhinostery's name you have in your hands, Please use it with honor, as your conscience demands! If you handle yourself badly, and none-too-politely, The Cardian at the gate will not take it lightly!
-- **9921**: Doctor Yoran-Oran is going to study, Starmite ecology for the Rhinostery!
-- **9922**: Also, the fauna researchers are returning full speed, To Windurst, to help in our hour of need! I hope coming with them is the specialist guy, Who is versed in all things that concern Toraimarai!
-- **10099**: I've been meaning to ask, my adventurer friend, Have you met our researchers beyond this land's end?
-- **10100**: I speak of the scholars who brave ice, wind, and heat. They study protocrystals. They're the best, our elite.
-- **10101**: Have you met them? [We're on a first-name basis./Haven't had the pleasure.]
-- **10102**: Well, that justaru won't do. Come see me again when you know who's who.
-- **10103**: We have this new theory that'll make your mind race: The crystals contain a dimensional space!
-- **10104**: This dimension exists in Vana'diel, we think, as a home for great beings--as some kind of link.
-- **10105**: "Avatars" is the name that we've chosen to call these dimensional beings. And the reason is all...
-- **10106**: ...because of this $1. This gem. If you sit still and listen, you just might hear him...
-- **10107**: Collect the whispers...
-- **10108**: ...of the six Avatars...
-- **10109**: ...that slumber within...
-- **10110**: ...the crystals.
-- **10111**: The voice of $1, could you hear what it said? It never stops droning those words in my head!
-- **10112**: This world's protocrystals number six in all. Six Avatars lay dormant, awaiting your call...
-- **10113**: Gather the "whispers." What could they be? I'm afraid that the word has no meaning to me.
-- **10114**: If, my brave soul, you are able to find these six phantom whispers, then drop me a line.
-- **10115**: With this $1 begging for aid, how could we think to not take up its crusade?
-- **10116**: In the history of Vana'diel, to see such a number of $1 is a mysterious wonder.
-- **10117**: It must be important to make such a fuss. But these whispers are still an enigma to us.
-- **10118**: If you manage to get all six whispers in hand, come let me know and we'll see what fate's planned.
-- **10119**: You've brought back the whispers? You've gathered all six? Don't try to fool me with childish tricks!
-- **10120**: ...
-- **10121**: ...? Nothing's changed that I can see. Are you sure that you're not kidding me?
-- **10122**: Take the six whispers...
-- **10123**: ...to the lair of...
-- **10124**: ...Fenrir.
-- **10125**: Wow! $1 changed right before our eyes! It's become $6, isn't this a surprise!
-- **10126**: And did I hear the name "Fenrir" justaru then? Could this mean you must go to the Great Beast's den...?
-- **10127**: If I understand this one-sided conversation, the Full Moon Fountain is your next destination!
-- **10128**: But no one may enter without the right power: a magical charm from Heavens Tower...
-- **10129**: With my power...
-- **10130**: ...one may pass.
-- **10131**: Are you saying that you can get one person through? But what if your friends want to accompany you, too?
-- **10132**: It seems that $6 will be needed for each of your pals who join in on this great fountain breach.
-- **10133**: I'll gather more $1 for all, so tell all your friends I'm the guy they should call!
-- **10134**: Carbuncle says he will help you get through, but once at the fountain it's all up to you. Make sure you are ready for trouble or strife; rushing in without care could cost you your life!
-- **10135**: It seems that $6 will be needed for each of your pals who join in on this great fountain breach.
-- **10136**: I'll gather more $1 for all, so tell all your friends I'm the guy they should call!
-- **10137**: Oh, there you are, my adventurous friend! I'd feared that this fountain foray'd spelled your end!
-- **10138**: Carbuncle had wanted to tell to Fenrir, the things that transpire in our world out here...?
-- **10139**: I'm quite sure that Fenrir's failure to show himself up above has been quite a blow.
-- **10140**: Our little blue friend here has been all alone. Is the reason for Fenrir's behavior well known...?
-- **10148**: What do you desire? [$5./$6./$7./$1./$2./Gil./A pact with Fenrir./A pact with Fenrir as a mount.]
-- **10150**: You want $5? [Yes./Wait!]
-- **10151**: You want $6? [Yes./Wait!]
-- **10152**: You want $7? [Yes./Wait!]
-- **10153**: You want $1? [Yes./Wait!]
-- **10154**: You want $2? [Yes./Wait!]
-- **10155**: Gil is what you truly want? [Yes./Wait!]
-- **10156**: Are you sure? [Yes./Wait!]
-- **10158**: Did I dream all of that, or was it all real!? Carbuncle's speech was beyond me, I feel.
-- **10159**: The new energies born to our dear Vana'diel. The avatars ancient and slumbering still.
-- **10160**: This could be the start of a new study craze! You could spend your whole life in a researcher's daze!
-- **10161**: But $3 will be in great need! They might speak again, and those words we must heed!
+- **9726**: I want you to stop Minister Rukususu! She's run off on the trail of Mr. Iru-Kuiru, All the way to the southern continent. It's terribly dangerous, in any event!
+- **9727**: Ask Kerutoto for greater detail. She's on the first floor, with the whole sorry tale.
+- **9739**: Go to the southern continent right away, And rescue Rukususu from her path gone astray!
+- **9740**: Iru-Kuiru was cursed unto death! It's been thirty years since his last living breath! Our beloved minister could end up sharing his fate, So be on your way, before it's too late!
+- **9745**: You're back! Is the minister safe and sound? Justaru a moment, I don't see her around!?
+- **9749**: Minister Rukususu! It's so good to see you!
+- **9755**: I'm so relieved to have the minister home. But she'll soon be off for another Northlands roam...
+- **9756**: The other researchers are still up there on the ice. On Beaucedine Glacier, you can freeze in a trice!
+- **9884**: What's all this fuss and noise I hear? An emergency, huh? What's there to fear?
+- **9888**: Oh my Goddess, this cannot be! You know the roots of the Great Star Tree, Are found beyond the Priming Gate, In Toraimarai Canal, oh why, cruel fate?
+- **9894**: Full Rhinostery authorization, you say? And hand [him/her] the $3, come what may?
+- **9912**: The $3 is not a toy, So use it properly, and be a good boy!
+- **9913**: The Rhinostery's name you have in your hands, Please use it with honor, as your conscience demands! If you handle yourself badly, and none-too-politely, The Cardian at the gate will not take it lightly!
+- **9923**: Doctor Yoran-Oran is going to study, Starmite ecology for the Rhinostery!
+- **9924**: Also, the fauna researchers are returning full speed, To Windurst, to help in our hour of need! I hope coming with them is the specialist guy, Who is versed in all things that concern Toraimarai!
+- **10101**: I've been meaning to ask, my adventurer friend, Have you met our researchers beyond this land's end?
+- **10102**: I speak of the scholars who brave ice, wind, and heat. They study protocrystals. They're the best, our elite.
+- **10103**: Have you met them? [We're on a first-name basis./Haven't had the pleasure.]
+- **10104**: Well, that justaru won't do. Come see me again when you know who's who.
+- **10105**: We have this new theory that'll make your mind race: The crystals contain a dimensional space!
+- **10106**: This dimension exists in Vana'diel, we think, as a home for great beings--as some kind of link.
+- **10107**: "Avatars" is the name that we've chosen to call these dimensional beings. And the reason is all...
+- **10108**: ...because of this $1. This gem. If you sit still and listen, you just might hear him...
+- **10109**: Collect the whispers...
+- **10110**: ...of the six Avatars...
+- **10111**: ...that slumber within...
+- **10112**: ...the crystals.
+- **10113**: The voice of $1, could you hear what it said? It never stops droning those words in my head!
+- **10114**: This world's protocrystals number six in all. Six Avatars lay dormant, awaiting your call...
+- **10115**: Gather the "whispers." What could they be? I'm afraid that the word has no meaning to me.
+- **10116**: If, my brave soul, you are able to find these six phantom whispers, then drop me a line.
+- **10117**: With this $1 begging for aid, how could we think to not take up its crusade?
+- **10118**: In the history of Vana'diel, to see such a number of $1 is a mysterious wonder.
+- **10119**: It must be important to make such a fuss. But these whispers are still an enigma to us.
+- **10120**: If you manage to get all six whispers in hand, come let me know and we'll see what fate's planned.
+- **10121**: You've brought back the whispers? You've gathered all six? Don't try to fool me with childish tricks!
+- **10122**: ...
+- **10123**: ...? Nothing's changed that I can see. Are you sure that you're not kidding me?
+- **10124**: Take the six whispers...
+- **10125**: ...to the lair of...
+- **10126**: ...Fenrir.
+- **10127**: Wow! $1 changed right before our eyes! It's become $6, isn't this a surprise!
+- **10128**: And did I hear the name "Fenrir" justaru then? Could this mean you must go to the Great Beast's den...?
+- **10129**: If I understand this one-sided conversation, the Full Moon Fountain is your next destination!
+- **10130**: But no one may enter without the right power: a magical charm from Heavens Tower...
+- **10131**: With my power...
+- **10132**: ...one may pass.
+- **10133**: Are you saying that you can get one person through? But what if your friends want to accompany you, too?
+- **10134**: It seems that $6 will be needed for each of your pals who join in on this great fountain breach.
+- **10135**: I'll gather more $1 for all, so tell all your friends I'm the guy they should call!
+- **10136**: Carbuncle says he will help you get through, but once at the fountain it's all up to you. Make sure you are ready for trouble or strife; rushing in without care could cost you your life!
+- **10137**: It seems that $6 will be needed for each of your pals who join in on this great fountain breach.
+- **10138**: I'll gather more $1 for all, so tell all your friends I'm the guy they should call!
+- **10139**: Oh, there you are, my adventurous friend! I'd feared that this fountain foray'd spelled your end!
+- **10140**: Carbuncle had wanted to tell to Fenrir, the things that transpire in our world out here...?
+- **10141**: I'm quite sure that Fenrir's failure to show himself up above has been quite a blow.
+- **10142**: Our little blue friend here has been all alone. Is the reason for Fenrir's behavior well known...?
+- **10150**: What do you desire? [$5./$6./$7./$1./$2./Gil./A pact with Fenrir./A pact with Fenrir as a mount.]
+- **10152**: You want $5? [Yes./Wait!]
+- **10153**: You want $6? [Yes./Wait!]
+- **10154**: You want $7? [Yes./Wait!]
+- **10155**: You want $1? [Yes./Wait!]
+- **10156**: You want $2? [Yes./Wait!]
+- **10157**: Gil is what you truly want? [Yes./Wait!]
+- **10158**: Are you sure? [Yes./Wait!]
+- **10160**: Did I dream all of that, or was it all real!? Carbuncle's speech was beyond me, I feel.
+- **10161**: The new energies born to our dear Vana'diel. The avatars ancient and slumbering still.
 - **10162**: This could be the start of a new study craze! You could spend your whole life in a researcher's daze!
-- **10163**: But $1 will be in great need! They might speak again, and those words we must heed!
-- **10164**: We meet yet again, my far-traveling friend! Are these meetings of ours becoming a trend?
-- **10165**: $1 are filled with his essence. Carbuncle's multiple, world-spanning presence.
-- **10166**: I figured it out; the mystery's unfurled! He uses these rubies to spy on the world!
-- **10167**: And now once again he is talking to us. This $1 has much to discuss!
-- **10168**: We've taken the words of that ruby to heart, and had other adventurers go do their part. Collecting those whispers must be quite a trial! I'm glad that you heroes are still able to smile!
-- **10169**: Go to the fountain, and just like before, you'll be facing the Great Beast Fenrir's fearsome maw!
-- **10170**: Head to the fountain again? [Sure!/Not again...]
-- **10171**: Remember that $6 will be needed for each of your pals who join in on this great fountain breach.
-- **10172**: You're off on your journey? Good luck and take care! Adventurers like you are certainly rare!
-- **10174**: Wait! Hold up there, I wanted to ask you...! I thought you could answer a question or two...
-- **10175**: You know, I've been thinking about this whole thing. How Carbuncle's got you whisper collecting...
-- **10176**: I wonder if this isn't just some grand farce to slowly steal power from the avatars?
-- **10177**: This tale has its share of twists, turns, and bends! I'm definitely curious to see how it ends!
-- **10662**: $1, $2, and $3...
-- **10665**: Bring me those items, I humbly implore you! I swear on my name that I'll pay you your due!
-- **10667**: $1, $2, and $3...
-- **10668**: Won'taru anyone out there hear my sad pleas...? I'd even be willing to pay finder's fees...
-- **10694**: Don'taru forget to put safety first. Like poor Iru-Kuiru, try not to get cursed.
-- **10695**: An allied expedition member was he. A researcher from our beloved Rhinostery.
-- **10696**: If you want to help Ildy along, Put on your trunks and swim to Kazham!
-- **10697**: The triumphant adventurer returns from his quest! Ildy told us you passed every trial and test!
-- **10698**: As thanks for your help in this troublesome case, Here's a helmet that sells at incredible pace!
-- **10699**: I've made it so it can be worn by we mages! It's sending the milliner into red rages!
+- **10163**: But $3 will be in great need! They might speak again, and those words we must heed!
+- **10164**: This could be the start of a new study craze! You could spend your whole life in a researcher's daze!
+- **10165**: But $1 will be in great need! They might speak again, and those words we must heed!
+- **10166**: We meet yet again, my far-traveling friend! Are these meetings of ours becoming a trend?
+- **10167**: $1 are filled with his essence. Carbuncle's multiple, world-spanning presence.
+- **10168**: I figured it out; the mystery's unfurled! He uses these rubies to spy on the world!
+- **10169**: And now once again he is talking to us. This $1 has much to discuss!
+- **10170**: We've taken the words of that ruby to heart, and had other adventurers go do their part. Collecting those whispers must be quite a trial! I'm glad that you heroes are still able to smile!
+- **10171**: Go to the fountain, and just like before, you'll be facing the Great Beast Fenrir's fearsome maw!
+- **10172**: Head to the fountain again? [Sure!/Not again...]
+- **10173**: Remember that $6 will be needed for each of your pals who join in on this great fountain breach.
+- **10174**: You're off on your journey? Good luck and take care! Adventurers like you are certainly rare!
+- **10176**: Wait! Hold up there, I wanted to ask you...! I thought you could answer a question or two...
+- **10177**: You know, I've been thinking about this whole thing. How Carbuncle's got you whisper collecting...
+- **10178**: I wonder if this isn't just some grand farce to slowly steal power from the avatars?
+- **10179**: This tale has its share of twists, turns, and bends! I'm definitely curious to see how it ends!
+- **10664**: $1, $2, and $3...
+- **10667**: Bring me those items, I humbly implore you! I swear on my name that I'll pay you your due!
+- **10669**: $1, $2, and $3...
+- **10670**: Won'taru anyone out there hear my sad pleas...? I'd even be willing to pay finder's fees...
+- **10696**: Don'taru forget to put safety first. Like poor Iru-Kuiru, try not to get cursed.
+- **10697**: An allied expedition member was he. A researcher from our beloved Rhinostery.
+- **10698**: If you want to help Ildy along, Put on your trunks and swim to Kazham!
+- **10699**: The triumphant adventurer returns from his quest! Ildy told us you passed every trial and test!
+- **10700**: As thanks for your help in this troublesome case, Here's a helmet that sells at incredible pace!
+- **10701**: I've made it so it can be worn by we mages! It's sending the milliner into red rages!
 
 ## Events
 
@@ -2250,10 +2250,10 @@
   1: 0x0486 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0487 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0488 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  4: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
+  4: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=8030*)
     → "Have you heard about the great beast, you therey? They say it's sealed inside Horutoto Ruins... How scary!"
   5: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
+  6: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
     → "All let out a collective sigh, when they stopped seeing it in the night sky. Since the war of twenty years ago, its fate, our scientists strive to know."
   7: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0497 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -2286,7 +2286,7 @@
   1: 0x04A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04A8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  4: 0x04B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
+  4: 0x04B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8045*)
     → "<burp>... Well, excu`se me. As you can see, I'm not the slightest bit hungry..."
   5: 0x04B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -2320,10 +2320,10 @@
   1: 0x04C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04C5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  4: 0x04CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
+  4: 0x04CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8111*)
     → "As far as the study of plants here goes, Kenapa-Keppa is the one who most knows."
   5: 0x04D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8110*)
+  6: 0x04D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8112*)
     → "Kenapa-Keppa has a great dream, I support him to the extreme!"
   7: 0x04D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -2419,7 +2419,7 @@ SUBROUTINE_0543:
 
 ```
   0: 0x05B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  1: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
+  1: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
     → "tWhat? Speak up! What's that you say? You're the help from the gatehouse, eh?"
   2: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -2447,11 +2447,11 @@ SUBROUTINE_0543:
 
 ```
   0: 0x05C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0B)
-  1: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
+  1: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
     → "Here you go... Sorry for all the fuss. Today's offering for the altars of Giddeus."
   2: 0x05D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0C)
-  4: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+  4: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
     → "In these bags are Yagudo's favorite cherries. These should give those ugly old beastmen their merries."
   5: 0x05DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05DF [0x00] END_REQSTACK()
@@ -2478,10 +2478,10 @@ SUBROUTINE_0543:
 
 ```
   0: 0x05E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  1: 0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
+  1: 0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
     → "If you are wondering why there're now two bags, it's 'cause there're two altars in Giddeus's crags. A Yagudo by each altar stands. To each of them a bag you hand."
   2: 0x05EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x05EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
+  3: 0x05EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
     → "And though an offering you do bear, those Yagudo may attack you there. So take precautions, be prepared... Lest you return in states impaired!t"
   4: 0x05EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x05EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -2513,10 +2513,10 @@ SUBROUTINE_0543:
   1: 0x05FC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05FD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  4: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
+  4: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=7612*)
     → "The places where the altars of offering stand, are a little way into the Giddeus land. Before the entrances of the caves they are, so be careful not to venture in too far."
   5: 0x0608 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0609 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
+  6: 0x0609 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
     → "And though an offering you do bear, those Yagudo may attack you there. So be prepared and best of luck, unless you are a lucky...schmuck.t"
   7: 0x060C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x060D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -2597,7 +2597,7 @@ SUBROUTINE_0543:
 
 ```
   0: 0x0631 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  1: 0x0638 [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
+  1: 0x0638 [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
     → "We of the Rhinostery would like to explore the underground canals too."
   2: 0x063B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x063C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -2626,12 +2626,12 @@ SUBROUTINE_0543:
 
 ```
   0: 0x0644 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
-  1: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
+  1: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=7622*)
     → "And investigate why the great beast disappeared after the war ceased."
   2: 0x064E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x064F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
   4: 0x0656 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
-  5: 0x065D [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
+  5: 0x065D [0x1D] PRINT_EVENT_MESSAGE(message_id=7623*)
     → "But the entrance to the canals in Windurst Walls, has been off-limits for twenty years, 'spite our calls. Known only as the Priming Gate, Cardians guard it as of late."
   6: 0x0660 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0661 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
@@ -2659,7 +2659,7 @@ SUBROUTINE_0543:
 
 ```
   0: 0x0669 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
-  1: 0x0670 [0x1D] PRINT_EVENT_MESSAGE(message_id=7624*)
+  1: 0x0670 [0x1D] PRINT_EVENT_MESSAGE(message_id=7626*)
     → "But opening the Priming Gate is no easy thing, the key is our Rhinostery minister's ring. And Minister Rukususu wouldn't to you lend, her ring even if you were really her friend."
   2: 0x0673 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0674 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
@@ -2687,7 +2687,7 @@ SUBROUTINE_0543:
 
 ```
   0: 0x067C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  1: 0x0683 [0x1D] PRINT_EVENT_MESSAGE(message_id=7627*)
+  1: 0x0683 [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
     → "Back from Giddeus now, I see! Your mission's done. What joy, what glee!"
   2: 0x0686 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0687 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -2716,7 +2716,7 @@ SUBROUTINE_0543:
 
 ```
   0: 0x068F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  1: 0x0696 [0x1D] PRINT_EVENT_MESSAGE(message_id=7628*)
+  1: 0x0696 [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
     → "Oh, that was the Orastery minister, Ajido-Marujido, who wants to go to Karaha-Baruha's lab in the canals so..."
   2: 0x0699 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x069A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -2745,12 +2745,12 @@ SUBROUTINE_0543:
 
 ```
   0: 0x06A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
-  1: 0x06A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
+  1: 0x06A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
     → "So it really is the truth, what the rumors say... he's been asking about forbidden magic today."
   2: 0x06AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
   4: 0x06B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
-  5: 0x06BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
+  5: 0x06BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
     → "I'm surprised he doesn't get caught without quibble, by Windurst's Sibyl Guards and the great Star Sibyl."
   6: 0x06BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x06BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
@@ -2780,12 +2780,12 @@ SUBROUTINE_0543:
 
 ```
   0: 0x06C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  1: 0x06CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
+  1: 0x06CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
     → "Anyway, your task's complete, your mission done, so return to the gatehouse where you begun."
   2: 0x06D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
   4: 0x06D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x3F)
-  5: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
+  5: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7634*)
     → "Ha-ha! I'm sure something great, awaits you back at the gate!"
   6: 0x06E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x06E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x41)
@@ -2819,12 +2819,12 @@ SUBROUTINE_0543:
   1: 0x06F8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x06F9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x06FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  4: 0x0701 [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
+  4: 0x0701 [0x1D] PRINT_EVENT_MESSAGE(message_id=7635*)
     → "Well, your task's complete, your mission done. Return to the gatehouse where you begun."
   5: 0x0704 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0705 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
   7: 0x070C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x3F)
-  8: 0x0713 [0x1D] PRINT_EVENT_MESSAGE(message_id=7634*)
+  8: 0x0713 [0x1D] PRINT_EVENT_MESSAGE(message_id=7636*)
     → "Ha-ha! I'm sure something great, awaits you back at the gate!"
   9: 0x0716 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0717 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x40)
@@ -2888,7 +2888,7 @@ SUBROUTINE_0543:
 #### Opcodes
 
 ```
-  0: 0x0757 [0x1D] PRINT_EVENT_MESSAGE(message_id=9721*)
+  0: 0x0757 [0x1D] PRINT_EVENT_MESSAGE(message_id=9723*)
     → "You've come! You're here! No more to fear!"
   1: 0x075A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x075B [0x00] END_REQSTACK()
@@ -2914,10 +2914,10 @@ SUBROUTINE_0543:
 #### Opcodes
 
 ```
-  0: 0x075C [0x1D] PRINT_EVENT_MESSAGE(message_id=9722*)
+  0: 0x075C [0x1D] PRINT_EVENT_MESSAGE(message_id=9724*)
     → "I want you to stop Minister Rukususu! She's run off on the trail of Mr. Iru-Kuiru, All the way to the southern continent. It's terribly dangerous, in any event!"
   1: 0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=9723*)
+  2: 0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=9725*)
     → "Ask Kerutoto for greater detail. She's on the first floor, with the whole sorry tale."
   3: 0x0763 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0764 [0x00] END_REQSTACK()
@@ -2949,12 +2949,12 @@ SUBROUTINE_0543:
   1: 0x076A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x076B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x076C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0B)
-  4: 0x0773 [0x1D] PRINT_EVENT_MESSAGE(message_id=9724*)
+  4: 0x0773 [0x1D] PRINT_EVENT_MESSAGE(message_id=9726*)
     → "I want you to stop Minister Rukususu! She's run off on the trail of Mr. Iru-Kuiru, All the way to the southern continent. It's terribly dangerous, in any event!"
   5: 0x0776 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0777 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0C)
   7: 0x077E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
-  8: 0x0785 [0x1D] PRINT_EVENT_MESSAGE(message_id=9725*)
+  8: 0x0785 [0x1D] PRINT_EVENT_MESSAGE(message_id=9727*)
     → "Ask Kerutoto for greater detail. She's on the first floor, with the whole sorry tale."
   9: 0x0788 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0789 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
@@ -2989,12 +2989,12 @@ SUBROUTINE_0543:
   1: 0x0799 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x079A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x079B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0B)
-  4: 0x07A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9737*)
+  4: 0x07A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9739*)
     → "Go to the southern continent right away, And rescue Rukususu from her path gone astray!"
   5: 0x07A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x07A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0C)
   7: 0x07AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
-  8: 0x07B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9738*)
+  8: 0x07B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9740*)
     → "Iru-Kuiru was cursed unto death! It's been thirty years since his last living breath! Our beloved minister could end up sharing his fate, So be on your way, before it's too late!"
   9: 0x07B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x07B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
@@ -3098,19 +3098,19 @@ SUBROUTINE_0543:
  23: 0x0836 [0x1C] WAIT(100* ticks)
  24: 0x0839 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[211*, 0*]
  25: 0x084A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 26: 0x085B [0x2B] Leepe-Hoppe (ID: 17752112/0x010EE030) [9744*]:
+ 26: 0x085B [0x2B] Leepe-Hoppe (ID: 17752112/0x010EE030) [9746*]:
     → "...Don't tell me you returned and left her behind! Explain yourself, adventurer, have you lost your mind!?"
  27: 0x0862 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0863 [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [EventEntity, EventEntity], work=211*
  29: 0x0872 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x41)
- 30: 0x0879 [0x2B] Rukususu (ID: 17752268/0x010EE0CC) [9745*]:
+ 30: 0x0879 [0x2B] Rukususu (ID: 17752268/0x010EE0CC) [9747*]:
     → "Leepe-Hoppe, whatever is zee matter?"
  31: 0x0880 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0881 [0x27] REQ_SET(priority=0x0B, entity_id=Rukususu (ID: 17752268/0x010EE0CC), tag_num=0x08)
  33: 0x0888 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2D)
  34: 0x088F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x34)
  35: 0x0896 [0x4A] Leepe-Hoppe (ID: 17752112/0x010EE030) looks at Rukususu (ID: 17752268/0x010EE0CC)
- 36: 0x089F [0x2B] Rukususu (ID: 17752268/0x010EE0CC) [9746*]:
+ 36: 0x089F [0x2B] Rukususu (ID: 17752268/0x010EE0CC) [9748*]:
     → "What are you shouting about? If it's moi you are looking for, I'm right here."
  37: 0x08A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x08A7 [0x4A] Leepe-Hoppe (ID: 17752112/0x010EE030) looks at Rukususu (ID: 17752268/0x010EE0CC)
@@ -3122,11 +3122,11 @@ SUBROUTINE_0543:
  44: 0x08D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=211*
  45: 0x08E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[211*, 0*]
  46: 0x08F1 [0x79] Rukususu (ID: 17752268/0x010EE0CC) looks at Leepe-Hoppe (ID: 17752112/0x010EE030) (Basic look)
- 47: 0x08FB [0x2B] Rukususu (ID: 17752268/0x010EE0CC) [9748*]:
+ 47: 0x08FB [0x2B] Rukususu (ID: 17752268/0x010EE0CC) [9750*]:
     → "It seems my Rhinosterie peers have been quite worried pour moi."
  48: 0x0902 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0903 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
- 50: 0x090A [0x2B] Leepe-Hoppe (ID: 17752112/0x010EE030) [9749*]:
+ 50: 0x090A [0x2B] Leepe-Hoppe (ID: 17752112/0x010EE030) [9751*]:
     → "Of course we are always going to worry, Whenever you take off in such a big hurry!"
  51: 0x0911 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0912 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -3175,7 +3175,7 @@ SUBROUTINE_0A5F:
  91: 0x0A75 [0x4B] UPDATE_ENTITY_YAW(entity=Rukususu (ID: 17752268/0x010EE0CC), yaw=22.1°*)
  92: 0x0A7C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  93: 0x0A7D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rukususu (ID: 17752268/0x010EE0CC) Render.Flags0 and Render.Flags3 conditions are met
- 94: 0x0A82 [0x2B] Rukususu (ID: 17752268/0x010EE0CC) [9752*]:
+ 94: 0x0A82 [0x2B] Rukususu (ID: 17752268/0x010EE0CC) [9754*]:
     → "Zee matter you heard about at zee Temple of Uggalepih is far too upsetting for us Tarutaru to cope with..."
  95: 0x0A89 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0A8A [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -3215,7 +3215,7 @@ SUBROUTINE_0A5F:
 #### Opcodes
 
 ```
-  0: 0x0AED [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
+  0: 0x0AED [0x1D] PRINT_EVENT_MESSAGE(message_id=9745*)
     → "You're back! Is the minister safe and sound? Justaru a moment, I don't see her around!?"
   1: 0x0AF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0AF1 [0x00] END_REQSTACK()
@@ -3240,7 +3240,7 @@ SUBROUTINE_0A5F:
 #### Opcodes
 
 ```
-  0: 0x0AF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9747*)
+  0: 0x0AF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9749*)
     → "Minister Rukususu! It's so good to see you!"
   1: 0x0AF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0AF6 [0x00] END_REQSTACK()
@@ -3273,11 +3273,11 @@ SUBROUTINE_0A5F:
   2: 0x0AFD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0AFE [0x6E] EventEntity uses emote 11*
   4: 0x0B05 [0x99] Wait for EventEntity animation to complete
-  5: 0x0B0A [0x1D] PRINT_EVENT_MESSAGE(message_id=9753*)
+  5: 0x0B0A [0x1D] PRINT_EVENT_MESSAGE(message_id=9755*)
     → "I'm so relieved to have the minister home. But she'll soon be off for another Northlands roam..."
   6: 0x0B0D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0B0E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  8: 0x0B15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9754*)
+  8: 0x0B15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9756*)
     → "The other researchers are still up there on the ice. On Beaucedine Glacier, you can freeze in a trice!"
   9: 0x0B18 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B19 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -3400,7 +3400,7 @@ SUBROUTINE_0A5F:
 #### Opcodes
 
 ```
-  0: 0x0B47 [0x1D] PRINT_EVENT_MESSAGE(message_id=9882*)
+  0: 0x0B47 [0x1D] PRINT_EVENT_MESSAGE(message_id=9884*)
     → "What's all this fuss and noise I hear? An emergency, huh? What's there to fear?"
   1: 0x0B4A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B4B [0x00] END_REQSTACK()
@@ -3426,7 +3426,7 @@ SUBROUTINE_0A5F:
 #### Opcodes
 
 ```
-  0: 0x0B4C [0x1D] PRINT_EVENT_MESSAGE(message_id=9886*)
+  0: 0x0B4C [0x1D] PRINT_EVENT_MESSAGE(message_id=9888*)
     → "Oh my Goddess, this cannot be! You know the roots of the Great Star Tree, Are found beyond the Priming Gate, In Toraimarai Canal, oh why, cruel fate?"
   1: 0x0B4F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B50 [0x00] END_REQSTACK()
@@ -3451,7 +3451,7 @@ SUBROUTINE_0A5F:
 #### Opcodes
 
 ```
-  0: 0x0B51 [0x1D] PRINT_EVENT_MESSAGE(message_id=9892*)
+  0: 0x0B51 [0x1D] PRINT_EVENT_MESSAGE(message_id=9894*)
     → "Full Rhinostery authorization, you say? And hand [him/her] the $3, come what may?"
   1: 0x0B54 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B55 [0x00] END_REQSTACK()
@@ -3483,12 +3483,12 @@ SUBROUTINE_0A5F:
   1: 0x0B5B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B5C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B5D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
-  4: 0x0B64 [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
+  4: 0x0B64 [0x1D] PRINT_EVENT_MESSAGE(message_id=9912*)
     → "The $3 is not a toy, So use it properly, and be a good boy!"
   5: 0x0B67 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B68 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
   7: 0x0B6F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2C)
-  8: 0x0B76 [0x1D] PRINT_EVENT_MESSAGE(message_id=9911*)
+  8: 0x0B76 [0x1D] PRINT_EVENT_MESSAGE(message_id=9913*)
     → "The Rhinostery's name you have in your hands, Please use it with honor, as your conscience demands! If you handle yourself badly, and none-too-politely, The Cardian at the gate will not take it lightly!"
   9: 0x0B79 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B7A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2D)
@@ -3525,12 +3525,12 @@ SUBROUTINE_0A5F:
   1: 0x0B91 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B92 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B93 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  4: 0x0B9A [0x1D] PRINT_EVENT_MESSAGE(message_id=9921*)
+  4: 0x0B9A [0x1D] PRINT_EVENT_MESSAGE(message_id=9923*)
     → "Doctor Yoran-Oran is going to study, Starmite ecology for the Rhinostery!"
   5: 0x0B9D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B9E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
   7: 0x0BA5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
-  8: 0x0BAC [0x1D] PRINT_EVENT_MESSAGE(message_id=9922*)
+  8: 0x0BAC [0x1D] PRINT_EVENT_MESSAGE(message_id=9924*)
     → "Also, the fauna researchers are returning full speed, To Windurst, to help in our hour of need! I hope coming with them is the specialist guy, Who is versed in all things that concern Toraimarai!"
   9: 0x0BAF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0BB0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
@@ -3624,10 +3624,10 @@ SUBROUTINE_0A5F:
   4: 0x0BD2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0BD3 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
   6: 0x0BD8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  7: 0x0BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
+  7: 0x0BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=8030*)
     → "Have you heard about the great beast, you therey? They say it's sealed inside Horutoto Ruins... How scary!"
   8: 0x0BE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0BE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
+  9: 0x0BE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
     → "All let out a collective sigh, when they stopped seeing it in the night sky. Since the war of twenty years ago, its fate, our scientists strive to know."
  10: 0x0BE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0BE7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -3644,14 +3644,14 @@ SUBROUTINE_0A5F:
  22: 0x0C22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[21*, 0*]
  23: 0x0C33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  24: 0x0C44 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
- 25: 0x0C4B [0x1D] PRINT_EVENT_MESSAGE(message_id=10099*)
+ 25: 0x0C4B [0x1D] PRINT_EVENT_MESSAGE(message_id=10101*)
     → "I've been meaning to ask, my adventurer friend, Have you met our researchers beyond this land's end?"
  26: 0x0C4E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0C4F [0x1D] PRINT_EVENT_MESSAGE(message_id=10100*)
+ 27: 0x0C4F [0x1D] PRINT_EVENT_MESSAGE(message_id=10102*)
     → "I speak of the scholars who brave ice, wind, and heat. They study protocrystals. They're the best, our elite."
  28: 0x0C52 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0C53 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
- 30: 0x0C5A [0x24] CREATE_DIALOG(message_id=10101*, default_option=0*, option_flags=0*)
+ 30: 0x0C5A [0x24] CREATE_DIALOG(message_id=10103*, default_option=0*, option_flags=0*)
     → "Have you met them? [We're on a first-name basis./Haven't had the pleasure.]"
  31: 0x0C61 [0x25] WAIT_DIALOG_SELECT()
  32: 0x0C62 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0ED8
@@ -3659,12 +3659,12 @@ SUBROUTINE_0A5F:
  34: 0x0C6B [0x03] Work_Zone[1] = 2*
  35: 0x0C70 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[21*, 0*]
  36: 0x0C81 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
- 37: 0x0C88 [0x1D] PRINT_EVENT_MESSAGE(message_id=10103*)
+ 37: 0x0C88 [0x1D] PRINT_EVENT_MESSAGE(message_id=10105*)
     → "We have this new theory that'll make your mind race: The crystals contain a dimensional space!"
  38: 0x0C8B [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0C8C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
  40: 0x0C93 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
- 41: 0x0C9A [0x1D] PRINT_EVENT_MESSAGE(message_id=10104*)
+ 41: 0x0C9A [0x1D] PRINT_EVENT_MESSAGE(message_id=10106*)
     → "This dimension exists in Vana'diel, we think, as a home for great beings--as some kind of link."
  42: 0x0C9D [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0C9E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -3672,12 +3672,12 @@ SUBROUTINE_0A5F:
  45: 0x0CB4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[21*, 0*]
  46: 0x0CC5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x55)
  47: 0x0CCC [0x27] REQ_SET(priority=0x0B, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x6C)
- 48: 0x0CD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10105*)
+ 48: 0x0CD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10107*)
     → ""Avatars" is the name that we've chosen to call these dimensional beings. And the reason is all..."
  49: 0x0CD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0CD7 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030))
  51: 0x0CDD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0D)
- 52: 0x0CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10106*)
+ 52: 0x0CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10108*)
     → "...because of this $1. This gem. If you sit still and listen, you just might hear him..."
  53: 0x0CE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0CE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0E)
@@ -3694,19 +3694,19 @@ SUBROUTINE_0A5F:
  65: 0x0D6A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x21)
  66: 0x0D71 [0x1C] WAIT(100* ticks)
  67: 0x0D74 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blrf" with entities [LocalPlayer, LocalPlayer], work=[212*, 0*]
- 68: 0x0D85 [0x48] [System] [10107*]:
+ 68: 0x0D85 [0x48] [System] [10109*]:
     → "Collect the whispers..."
  69: 0x0D88 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0D89 [0x1C] WAIT(200* ticks)
- 71: 0x0D8C [0x48] [System] [10108*]:
+ 71: 0x0D8C [0x48] [System] [10110*]:
     → "...of the six Avatars..."
  72: 0x0D8F [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0D90 [0x1C] WAIT(200* ticks)
- 74: 0x0D93 [0x48] [System] [10109*]:
+ 74: 0x0D93 [0x48] [System] [10111*]:
     → "...that slumber within..."
  75: 0x0D96 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0D97 [0x1C] WAIT(200* ticks)
- 77: 0x0D9A [0x48] [System] [10110*]:
+ 77: 0x0D9A [0x48] [System] [10112*]:
     → "...the crystals."
  78: 0x0D9D [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0D9E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blro" with entities [LocalPlayer, LocalPlayer], work=[212*, 0*]
@@ -3723,30 +3723,30 @@ SUBROUTINE_0A5F:
  90: 0x0E1D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  91: 0x0E2E [0x79] Leepe-Hoppe (ID: 17752112/0x010EE030) looks at LocalPlayer (Basic look)
  92: 0x0E38 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
- 93: 0x0E3F [0x1D] PRINT_EVENT_MESSAGE(message_id=10111*)
+ 93: 0x0E3F [0x1D] PRINT_EVENT_MESSAGE(message_id=10113*)
     → "The voice of $1, could you hear what it said? It never stops droning those words in my head!"
  94: 0x0E42 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0E43 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
  96: 0x0E4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
- 97: 0x0E51 [0x1D] PRINT_EVENT_MESSAGE(message_id=10112*)
+ 97: 0x0E51 [0x1D] PRINT_EVENT_MESSAGE(message_id=10114*)
     → "This world's protocrystals number six in all. Six Avatars lay dormant, awaiting your call..."
  98: 0x0E54 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0E55 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
 100: 0x0E5C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
-101: 0x0E63 [0x1D] PRINT_EVENT_MESSAGE(message_id=10113*)
+101: 0x0E63 [0x1D] PRINT_EVENT_MESSAGE(message_id=10115*)
     → "Gather the "whispers." What could they be? I'm afraid that the word has no meaning to me."
 102: 0x0E66 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0E67 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
 104: 0x0E6E [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=21*
 105: 0x0E7D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[21*, 0*]
 106: 0x0E8E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-107: 0x0E95 [0x1D] PRINT_EVENT_MESSAGE(message_id=10114*)
+107: 0x0E95 [0x1D] PRINT_EVENT_MESSAGE(message_id=10116*)
     → "If, my brave soul, you are able to find these six phantom whispers, then drop me a line."
 108: 0x0E98 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0E99 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=21*
 110: 0x0EA8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 111: 0x0EB9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[21*, 0*]
-112: 0x0ECA [0x1D] PRINT_EVENT_MESSAGE(message_id=10115*)
+112: 0x0ECA [0x1D] PRINT_EVENT_MESSAGE(message_id=10117*)
     → "With this $1 begging for aid, how could we think to not take up its crusade?"
 113: 0x0ECD [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0ECE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -3754,7 +3754,7 @@ SUBROUTINE_0A5F:
 116: 0x0ED8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0EFA
 117: 0x0EE0 [0x03] Work_Zone[1] = 1*
 118: 0x0EE5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
-119: 0x0EEC [0x1D] PRINT_EVENT_MESSAGE(message_id=10102*)
+119: 0x0EEC [0x1D] PRINT_EVENT_MESSAGE(message_id=10104*)
     → "Well, that justaru won't do. Come see me again when you know who's who."
 120: 0x0EEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x0EF0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
@@ -3829,16 +3829,16 @@ SUBROUTINE_0EFA:
   1: 0x0F67 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0F68 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0F69 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  4: 0x0F70 [0x1D] PRINT_EVENT_MESSAGE(message_id=10116*)
+  4: 0x0F70 [0x1D] PRINT_EVENT_MESSAGE(message_id=10118*)
     → "In the history of Vana'diel, to see such a number of $1 is a mysterious wonder."
   5: 0x0F73 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0F74 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0F80
-  7: 0x0F7C [0x1D] PRINT_EVENT_MESSAGE(message_id=10117*)
+  7: 0x0F7C [0x1D] PRINT_EVENT_MESSAGE(message_id=10119*)
     → "It must be important to make such a fuss. But these whispers are still an enigma to us."
   8: 0x0F7F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0F80 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
  10: 0x0F87 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
- 11: 0x0F8E [0x1D] PRINT_EVENT_MESSAGE(message_id=10118*)
+ 11: 0x0F8E [0x1D] PRINT_EVENT_MESSAGE(message_id=10120*)
     → "If you manage to get all six whispers in hand, come let me know and we'll see what fate's planned."
  12: 0x0F91 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0F92 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
@@ -3974,7 +3974,7 @@ SUBROUTINE_0EFA:
  18: 0x0FF0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[21*, 0*]
  19: 0x1001 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  20: 0x1012 [0x27] REQ_SET(priority=0x0B, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x6C)
- 21: 0x1019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10119*)
+ 21: 0x1019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10121*)
     → "You've brought back the whispers? You've gathered all six? Don't try to fool me with childish tricks!"
  22: 0x101C [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x101D [0x2A] GET_REQ_LEVEL(level=11, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030))
@@ -3991,7 +3991,7 @@ SUBROUTINE_0EFA:
  34: 0x1086 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [EventEntity, EventEntity], work=[21*, 0*]
 
 SUBROUTINE_1097:
- 35: 0x1097 [0x1D] PRINT_EVENT_MESSAGE(message_id=10120*)
+ 35: 0x1097 [0x1D] PRINT_EVENT_MESSAGE(message_id=10122*)
     → "..."
  36: 0x109A [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x109B [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x10B5
@@ -4007,7 +4007,7 @@ SUBROUTINE_1097:
 
 SUBROUTINE_10F8:
  47: 0x10F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
- 48: 0x10FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10121*)
+ 48: 0x10FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10123*)
     → "...? Nothing's changed that I can see. Are you sure that you're not kidding me?"
  49: 0x1102 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x1103 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
@@ -4025,15 +4025,15 @@ SUBROUTINE_10F8:
  62: 0x1182 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17752114/0x010EE032), Unnamed NPC (ID: 17752114/0x010EE032)], work=[34*, 0*]
  63: 0x1193 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x21)
  64: 0x119A [0x1C] WAIT(100* ticks)
- 65: 0x119D [0x48] [System] [10122*]:
+ 65: 0x119D [0x48] [System] [10124*]:
     → "Take the six whispers..."
  66: 0x11A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x11A1 [0x1C] WAIT(200* ticks)
- 68: 0x11A4 [0x48] [System] [10123*]:
+ 68: 0x11A4 [0x48] [System] [10125*]:
     → "...to the lair of..."
  69: 0x11A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x11A8 [0x1C] WAIT(200* ticks)
- 71: 0x11AB [0x48] [System] [10124*]:
+ 71: 0x11AB [0x48] [System] [10126*]:
     → "...Fenrir."
  72: 0x11AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x11AF [0x1C] WAIT(200* ticks)
@@ -4048,24 +4048,24 @@ SUBROUTINE_10F8:
  82: 0x120C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[21*, 0*]
  83: 0x121D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  84: 0x122E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x07)
- 85: 0x1235 [0x1D] PRINT_EVENT_MESSAGE(message_id=10125*)
+ 85: 0x1235 [0x1D] PRINT_EVENT_MESSAGE(message_id=10127*)
     → "Wow! $1 changed right before our eyes! It's become $6, isn't this a surprise!"
  86: 0x1238 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x1239 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x08)
  88: 0x1240 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
- 89: 0x1247 [0x1D] PRINT_EVENT_MESSAGE(message_id=10126*)
+ 89: 0x1247 [0x1D] PRINT_EVENT_MESSAGE(message_id=10128*)
     → "And did I hear the name "Fenrir" justaru then? Could this mean you must go to the Great Beast's den...?"
  90: 0x124A [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x124B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
  92: 0x1252 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=21*
  93: 0x1261 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[21*, 0*]
  94: 0x1272 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
- 95: 0x1279 [0x1D] PRINT_EVENT_MESSAGE(message_id=10127*)
+ 95: 0x1279 [0x1D] PRINT_EVENT_MESSAGE(message_id=10129*)
     → "If I understand this one-sided conversation, the Full Moon Fountain is your next destination!"
  96: 0x127C [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x127D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
  98: 0x1284 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
- 99: 0x128B [0x1D] PRINT_EVENT_MESSAGE(message_id=10128*)
+ 99: 0x128B [0x1D] PRINT_EVENT_MESSAGE(message_id=10130*)
     → "But no one may enter without the right power: a magical charm from Heavens Tower..."
 100: 0x128E [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x128F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
@@ -4083,11 +4083,11 @@ SUBROUTINE_12FF:
 111: 0x12FF [0x7B] LocalPlayer stops talking
 112: 0x1304 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17752114/0x010EE032), Unnamed NPC (ID: 17752114/0x010EE032)], work=[34*, 0*]
 113: 0x1315 [0x1C] WAIT(100* ticks)
-114: 0x1318 [0x48] [System] [10129*]:
+114: 0x1318 [0x48] [System] [10131*]:
     → "With my power..."
 115: 0x131B [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x131C [0x1C] WAIT(200* ticks)
-117: 0x131F [0x48] [System] [10130*]:
+117: 0x131F [0x48] [System] [10132*]:
     → "...one may pass."
 118: 0x1322 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x1323 [0x1C] WAIT(200* ticks)
@@ -4103,7 +4103,7 @@ SUBROUTINE_12FF:
 SUBROUTINE_137A:
 128: 0x137A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[21*, 0*]
 129: 0x138B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-130: 0x1392 [0x1D] PRINT_EVENT_MESSAGE(message_id=10131*)
+130: 0x1392 [0x1D] PRINT_EVENT_MESSAGE(message_id=10133*)
     → "Are you saying that you can get one person through? But what if your friends want to accompany you, too?"
 131: 0x1395 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x1396 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -4128,12 +4128,12 @@ SUBROUTINE_137A:
 SUBROUTINE_1443:
 150: 0x1443 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 151: 0x1454 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
-152: 0x145B [0x1D] PRINT_EVENT_MESSAGE(message_id=10132*)
+152: 0x145B [0x1D] PRINT_EVENT_MESSAGE(message_id=10134*)
     → "It seems that $6 will be needed for each of your pals who join in on this great fountain breach."
 153: 0x145E [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x145F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
 155: 0x1466 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-156: 0x146D [0x1D] PRINT_EVENT_MESSAGE(message_id=10133*)
+156: 0x146D [0x1D] PRINT_EVENT_MESSAGE(message_id=10135*)
     → "I'll gather more $1 for all, so tell all your friends I'm the guy they should call!"
 157: 0x1470 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x1471 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -4189,17 +4189,17 @@ SUBROUTINE_14EE:
   1: 0x1515 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1516 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1517 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
-  4: 0x151E [0x1D] PRINT_EVENT_MESSAGE(message_id=10134*)
+  4: 0x151E [0x1D] PRINT_EVENT_MESSAGE(message_id=10136*)
     → "Carbuncle says he will help you get through, but once at the fountain it's all up to you. Make sure you are ready for trouble or strife; rushing in without care could cost you your life!"
   5: 0x1521 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1522 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
   7: 0x1529 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
-  8: 0x1530 [0x1D] PRINT_EVENT_MESSAGE(message_id=10135*)
+  8: 0x1530 [0x1D] PRINT_EVENT_MESSAGE(message_id=10137*)
     → "It seems that $6 will be needed for each of your pals who join in on this great fountain breach."
   9: 0x1533 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1534 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
  11: 0x153B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
- 12: 0x1542 [0x1D] PRINT_EVENT_MESSAGE(message_id=10136*)
+ 12: 0x1542 [0x1D] PRINT_EVENT_MESSAGE(message_id=10138*)
     → "I'll gather more $1 for all, so tell all your friends I'm the guy they should call!"
  13: 0x1545 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1546 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -4340,7 +4340,7 @@ SUBROUTINE_14EE:
   4: 0x155E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x155F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x1560 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x07)
-  7: 0x1567 [0x1D] PRINT_EVENT_MESSAGE(message_id=10137*)
+  7: 0x1567 [0x1D] PRINT_EVENT_MESSAGE(message_id=10139*)
     → "Oh, there you are, my adventurous friend! I'd feared that this fountain foray'd spelled your end!"
   8: 0x156A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x156B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4359,18 +4359,18 @@ SUBROUTINE_14EE:
  22: 0x15B4 [0x1C] WAIT(100* ticks)
  23: 0x15B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[21*, 0*]
  24: 0x15C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 25: 0x15D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10138*)
+ 25: 0x15D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10140*)
     → "Carbuncle had wanted to tell to Fenrir, the things that transpire in our world out here...?"
  26: 0x15DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x15DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
- 28: 0x15E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10139*)
+ 28: 0x15E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10141*)
     → "I'm quite sure that Fenrir's failure to show himself up above has been quite a blow."
  29: 0x15E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x15E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
  31: 0x15EF [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=21*
  32: 0x15FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[21*, 0*]
  33: 0x160F [0x27] REQ_SET(priority=0x0B, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x6C)
- 34: 0x1616 [0x1D] PRINT_EVENT_MESSAGE(message_id=10140*)
+ 34: 0x1616 [0x1D] PRINT_EVENT_MESSAGE(message_id=10142*)
     → "Our little blue friend here has been all alone. Is the reason for Fenrir's behavior well known...?"
  35: 0x1619 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x161A [0x2A] GET_REQ_LEVEL(level=11, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030))
@@ -4398,28 +4398,28 @@ SUBROUTINE_14EE:
  58: 0x16DC [0x1C] WAIT(10* ticks)
  59: 0x16DF [0x6C] FADE_ENTITY_COLOR(entity_id=Carbuncle (ID: 17752115/0x010EE033), end_alpha=100*, fade_time=200*)
  60: 0x16E8 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Carbuncle (ID: 17752115/0x010EE033))
- 61: 0x16EE [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10141*]:
+ 61: 0x16EE [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10143*]:
     → "Fenrir is, just as we are, one of the new energies born to the world of Vana'diel."
  62: 0x16F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x16F6 [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [EventEntity, EventEntity], work=21*
  64: 0x1705 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  65: 0x1716 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [EventEntity, EventEntity], work=[21*, 0*]
- 66: 0x1727 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10142*]:
+ 66: 0x1727 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10144*]:
     → "We new powers are a part of Vana'diel. We must abide by its rules, and can die just like any other beast."
  67: 0x172E [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x172F [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [EventEntity, EventEntity], work=21*
  69: 0x173E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  70: 0x174F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [EventEntity, EventEntity], work=[21*, 0*]
- 71: 0x1760 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10143*]:
+ 71: 0x1760 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10145*]:
     → "The "avatars," on the other hand, are lifeforces that belong to an ancient order of things."
  72: 0x1767 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x1768 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10144*]:
+ 73: 0x1768 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10146*]:
     → "As the ancient past of Vana'diel now sleeps, the lifeforces of the avatars are bound in torpor."
  74: 0x176F [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x1770 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  76: 0x1781 [0x1C] WAIT(150* ticks)
  77: 0x1784 [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [EventEntity, EventEntity], work=21*
- 78: 0x1793 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10145*]:
+ 78: 0x1793 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10147*]:
     → "Vana'diel belongs to you as much as it belongs to us. You must see the true nature of your world."
  79: 0x179A [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x179B [0x4A] Carbuncle (ID: 17752115/0x010EE033) looks at LocalPlayer
@@ -4427,7 +4427,7 @@ SUBROUTINE_14EE:
  82: 0x17A5 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Carbuncle (ID: 17752115/0x010EE033) Render.Flags0 and Render.Flags3 conditions are met
  83: 0x17AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [EventEntity, EventEntity], work=[21*, 0*]
  84: 0x17BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 85: 0x17CC [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10146*]:
+ 85: 0x17CC [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10148*]:
     → "In time, you will come to understand that Vana'diel must be returned to its true form. You will understand what you were born to do."
  86: 0x17D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x17D4 [0x6C] FADE_ENTITY_COLOR(entity_id=Carbuncle (ID: 17752115/0x010EE033), end_alpha=0*, fade_time=200*)
@@ -4445,7 +4445,7 @@ SUBROUTINE_14EE:
 SUBROUTINE_184D:
  98: 0x184D [0x7B] LocalPlayer stops talking
  99: 0x1852 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17752114/0x010EE032), Unnamed NPC (ID: 17752114/0x010EE032)], work=[34*, 0*]
-100: 0x1863 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10147*]:
+100: 0x1863 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
     → "Hold out your hand. The blessings of Fenrir are now yours."
 101: 0x186A [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x186B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4454,16 +4454,16 @@ SUBROUTINE_184D:
 105: 0x1890 [0x03] Work_Zone[9] = 13138*
 
 SUBROUTINE_1895:
-106: 0x1895 [0x24] CREATE_DIALOG(message_id=10148*, default_option=0*, option_flags=Work_Zone[6])
+106: 0x1895 [0x24] CREATE_DIALOG(message_id=10150*, default_option=0*, option_flags=Work_Zone[6])
     → "What do you desire? [$5./$6./$7./$1./$2./Gil./A pact with Fenrir./A pact with Fenrir as a mount.]"
 107: 0x189C [0x25] WAIT_DIALOG_SELECT()
 108: 0x189D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x18DE
 109: 0x18A5 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[7])
-110: 0x18A8 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+110: 0x18A8 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
 111: 0x18AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x18B0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-113: 0x18B3 [0x24] CREATE_DIALOG(message_id=10150*, default_option=1*, option_flags=0*)
+113: 0x18B3 [0x24] CREATE_DIALOG(message_id=10152*, default_option=1*, option_flags=0*)
     → "You want $5? [Yes./Wait!]"
 114: 0x18BA [0x25] WAIT_DIALOG_SELECT()
 115: 0x18BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x18CB
@@ -4477,11 +4477,11 @@ SUBROUTINE_18DB:
 121: 0x18DB [0x01] GOTO 0x1A7B
 122: 0x18DE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x191F
 123: 0x18E6 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[8])
-124: 0x18E9 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+124: 0x18E9 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
 125: 0x18F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x18F1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-127: 0x18F4 [0x24] CREATE_DIALOG(message_id=10151*, default_option=1*, option_flags=0*)
+127: 0x18F4 [0x24] CREATE_DIALOG(message_id=10153*, default_option=1*, option_flags=0*)
     → "You want $6? [Yes./Wait!]"
 128: 0x18FB [0x25] WAIT_DIALOG_SELECT()
 129: 0x18FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x190C
@@ -4495,11 +4495,11 @@ SUBROUTINE_191C:
 135: 0x191C [0x01] GOTO 0x1A7B
 136: 0x191F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1960
 137: 0x1927 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
-138: 0x192A [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+138: 0x192A [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
 139: 0x1931 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x1932 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-141: 0x1935 [0x24] CREATE_DIALOG(message_id=10152*, default_option=1*, option_flags=0*)
+141: 0x1935 [0x24] CREATE_DIALOG(message_id=10154*, default_option=1*, option_flags=0*)
     → "You want $7? [Yes./Wait!]"
 142: 0x193C [0x25] WAIT_DIALOG_SELECT()
 143: 0x193D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x194D
@@ -4513,11 +4513,11 @@ SUBROUTINE_195D:
 149: 0x195D [0x01] GOTO 0x1A7B
 150: 0x1960 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x19A1
 151: 0x1968 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
-152: 0x196B [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+152: 0x196B [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
 153: 0x1972 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x1973 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-155: 0x1976 [0x24] CREATE_DIALOG(message_id=10153*, default_option=1*, option_flags=0*)
+155: 0x1976 [0x24] CREATE_DIALOG(message_id=10155*, default_option=1*, option_flags=0*)
     → "You want $1? [Yes./Wait!]"
 156: 0x197D [0x25] WAIT_DIALOG_SELECT()
 157: 0x197E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x198E
@@ -4531,11 +4531,11 @@ SUBROUTINE_199E:
 163: 0x199E [0x01] GOTO 0x1A7B
 164: 0x19A1 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x19E2
 165: 0x19A9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[4])
-166: 0x19AC [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+166: 0x19AC [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
 167: 0x19B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x19B4 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-169: 0x19B7 [0x24] CREATE_DIALOG(message_id=10154*, default_option=1*, option_flags=0*)
+169: 0x19B7 [0x24] CREATE_DIALOG(message_id=10156*, default_option=1*, option_flags=0*)
     → "You want $2? [Yes./Wait!]"
 170: 0x19BE [0x25] WAIT_DIALOG_SELECT()
 171: 0x19BF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19CF
@@ -4548,7 +4548,7 @@ SUBROUTINE_199E:
 SUBROUTINE_19DF:
 177: 0x19DF [0x01] GOTO 0x1A7B
 178: 0x19E2 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1A15
-179: 0x19EA [0x24] CREATE_DIALOG(message_id=10155*, default_option=1*, option_flags=0*)
+179: 0x19EA [0x24] CREATE_DIALOG(message_id=10157*, default_option=1*, option_flags=0*)
     → "Gil is what you truly want? [Yes./Wait!]"
 180: 0x19F1 [0x25] WAIT_DIALOG_SELECT()
 181: 0x19F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A02
@@ -4561,7 +4561,7 @@ SUBROUTINE_19DF:
 SUBROUTINE_1A12:
 187: 0x1A12 [0x01] GOTO 0x1A7B
 188: 0x1A15 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1A48
-189: 0x1A1D [0x24] CREATE_DIALOG(message_id=10156*, default_option=1*, option_flags=0*)
+189: 0x1A1D [0x24] CREATE_DIALOG(message_id=10158*, default_option=1*, option_flags=0*)
     → "Are you sure? [Yes./Wait!]"
 190: 0x1A24 [0x25] WAIT_DIALOG_SELECT()
 191: 0x1A25 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A35
@@ -4574,7 +4574,7 @@ SUBROUTINE_1A12:
 SUBROUTINE_1A45:
 197: 0x1A45 [0x01] GOTO 0x1A7B
 198: 0x1A48 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1A7B
-199: 0x1A50 [0x24] CREATE_DIALOG(message_id=10156*, default_option=1*, option_flags=0*)
+199: 0x1A50 [0x24] CREATE_DIALOG(message_id=10158*, default_option=1*, option_flags=0*)
     → "Are you sure? [Yes./Wait!]"
 200: 0x1A57 [0x25] WAIT_DIALOG_SELECT()
 201: 0x1A58 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A68
@@ -4602,7 +4602,7 @@ SUBROUTINE_1A7B:
 SUBROUTINE_1AD0:
 218: 0x1AD0 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "send" with entities [Unnamed NPC (ID: 17752114/0x010EE032), Unnamed NPC (ID: 17752114/0x010EE032)], work=[34*, 0*]
 219: 0x1AE1 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
-220: 0x1AE6 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10157*]:
+220: 0x1AE6 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10159*]:
     → "Goodbye for now...lifeforces of Vana'diel..."
 221: 0x1AED [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x1AEE [0x4E] SET_ENTITY_HIDE_FLAG: Hide Carbuncle (ID: 17752115/0x010EE033)
@@ -4611,7 +4611,7 @@ SUBROUTINE_1AD0:
 225: 0x1B16 [0x1C] WAIT(120* ticks)
 226: 0x1B19 [0x4A] LocalPlayer looks at Leepe-Hoppe (ID: 17752112/0x010EE030)
 227: 0x1B22 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x22)
-228: 0x1B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=10158*)
+228: 0x1B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=10160*)
     → "Did I dream all of that, or was it all real!? Carbuncle's speech was beyond me, I feel."
 229: 0x1B2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x1B2D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -4621,20 +4621,20 @@ SUBROUTINE_1AD0:
 234: 0x1B53 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 151*
 235: 0x1B57 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 151*
 236: 0x1B5B [0x1E] EventEntity looks at LocalPlayer and starts talking
-237: 0x1B60 [0x1D] PRINT_EVENT_MESSAGE(message_id=10159*)
+237: 0x1B60 [0x1D] PRINT_EVENT_MESSAGE(message_id=10161*)
     → "The new energies born to our dear Vana'diel. The avatars ancient and slumbering still."
 238: 0x1B63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x1B64 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 240: 0x1B65 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 241: 0x1B66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
-242: 0x1B6D [0x1D] PRINT_EVENT_MESSAGE(message_id=10160*)
+242: 0x1B6D [0x1D] PRINT_EVENT_MESSAGE(message_id=10162*)
     → "This could be the start of a new study craze! You could spend your whole life in a researcher's daze!"
 243: 0x1B70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x1B71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
 245: 0x1B78 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=21*
 246: 0x1B87 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[21*, 0*]
 247: 0x1B98 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
-248: 0x1B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=10161*)
+248: 0x1B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=10163*)
     → "But $3 will be in great need! They might speak again, and those words we must heed!"
 249: 0x1BA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 250: 0x1BA3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
@@ -4678,13 +4678,13 @@ SUBROUTINE_1AD0:
   1: 0x1C04 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1C05 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1C06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2C)
-  4: 0x1C0D [0x1D] PRINT_EVENT_MESSAGE(message_id=10162*)
+  4: 0x1C0D [0x1D] PRINT_EVENT_MESSAGE(message_id=10164*)
     → "This could be the start of a new study craze! You could spend your whole life in a researcher's daze!"
   5: 0x1C10 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1C11 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2D)
   7: 0x1C18 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x34)
   8: 0x1C1F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
-  9: 0x1C26 [0x1D] PRINT_EVENT_MESSAGE(message_id=10163*)
+  9: 0x1C26 [0x1D] PRINT_EVENT_MESSAGE(message_id=10165*)
     → "But $1 will be in great need! They might speak again, and those words we must heed!"
  10: 0x1C29 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1C2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
@@ -4780,25 +4780,25 @@ SUBROUTINE_1AD0:
  15: 0x1C79 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[21*, 0*]
  16: 0x1C8A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  17: 0x1C9B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
- 18: 0x1CA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10164*)
+ 18: 0x1CA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10166*)
     → "We meet yet again, my far-traveling friend! Are these meetings of ours becoming a trend?"
  19: 0x1CA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x1CA6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
  21: 0x1CAD [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=21*
  22: 0x1CBC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[21*, 0*]
  23: 0x1CCD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
- 24: 0x1CD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10165*)
+ 24: 0x1CD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10167*)
     → "$1 are filled with his essence. Carbuncle's multiple, world-spanning presence."
  25: 0x1CD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x1CD8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
- 27: 0x1CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=10166*)
+ 27: 0x1CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=10168*)
     → "I figured it out; the mystery's unfurled! He uses these rubies to spy on the world!"
  28: 0x1CE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x1CE3 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=21*
  30: 0x1CF2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[21*, 0*]
  31: 0x1D03 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x55)
  32: 0x1D0A [0x27] REQ_SET(priority=0x0B, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x6C)
- 33: 0x1D11 [0x1D] PRINT_EVENT_MESSAGE(message_id=10167*)
+ 33: 0x1D11 [0x1D] PRINT_EVENT_MESSAGE(message_id=10169*)
     → "And now once again he is talking to us. This $1 has much to discuss!"
  34: 0x1D14 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x1D15 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030))
@@ -4820,15 +4820,15 @@ SUBROUTINE_1DA3:
  49: 0x1DA3 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17752114/0x010EE032), Unnamed NPC (ID: 17752114/0x010EE032)], work=[34*, 0*]
  50: 0x1DB4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  51: 0x1DC5 [0x7B] LocalPlayer stops talking
- 52: 0x1DCA [0x48] [System] [10122*]:
+ 52: 0x1DCA [0x48] [System] [10124*]:
     → "Take the six whispers..."
  53: 0x1DCD [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x1DCE [0x1C] WAIT(200* ticks)
- 55: 0x1DD1 [0x48] [System] [10123*]:
+ 55: 0x1DD1 [0x48] [System] [10125*]:
     → "...to the lair of..."
  56: 0x1DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x1DD5 [0x1C] WAIT(200* ticks)
- 58: 0x1DD8 [0x48] [System] [10124*]:
+ 58: 0x1DD8 [0x48] [System] [10126*]:
     → "...Fenrir."
  59: 0x1DDB [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x1DDC [0x1C] WAIT(200* ticks)
@@ -4849,14 +4849,14 @@ SUBROUTINE_1E47:
  73: 0x1E69 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  74: 0x1E7A [0x4A] LocalPlayer looks at Leepe-Hoppe (ID: 17752112/0x010EE030)
  75: 0x1E83 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
- 76: 0x1E8A [0x1D] PRINT_EVENT_MESSAGE(message_id=10168*)
+ 76: 0x1E8A [0x1D] PRINT_EVENT_MESSAGE(message_id=10170*)
     → "We've taken the words of that ruby to heart, and had other adventurers go do their part. Collecting those whispers must be quite a trial! I'm glad that you heroes are still able to smile!"
  77: 0x1E8D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x1E8E [0x1D] PRINT_EVENT_MESSAGE(message_id=10169*)
+ 78: 0x1E8E [0x1D] PRINT_EVENT_MESSAGE(message_id=10171*)
     → "Go to the fountain, and just like before, you'll be facing the Great Beast Fenrir's fearsome maw!"
  79: 0x1E91 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x1E92 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
- 81: 0x1E99 [0x24] CREATE_DIALOG(message_id=10170*, default_option=0*, option_flags=0*)
+ 81: 0x1E99 [0x24] CREATE_DIALOG(message_id=10172*, default_option=0*, option_flags=0*)
     → "Head to the fountain again? [Sure!/Not again...]"
  82: 0x1EA0 [0x25] WAIT_DIALOG_SELECT()
  83: 0x1EA1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EF4
@@ -4865,13 +4865,13 @@ SUBROUTINE_1E47:
  86: 0x1EAF [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=21*
  87: 0x1EBE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[21*, 0*]
  88: 0x1ECF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0D)
- 89: 0x1ED6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10171*)
+ 89: 0x1ED6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10173*)
     → "Remember that $6 will be needed for each of your pals who join in on this great fountain breach."
  90: 0x1ED9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x1EDA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0E)
  92: 0x1EE1 [0x6E] EventEntity uses emote 8*
  93: 0x1EE8 [0x99] Wait for EventEntity animation to complete
- 94: 0x1EED [0x1D] PRINT_EVENT_MESSAGE(message_id=10172*)
+ 94: 0x1EED [0x1D] PRINT_EVENT_MESSAGE(message_id=10174*)
     → "You're off on your journey? Good luck and take care! Adventurers like you are certainly rare!"
  95: 0x1EF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x1EF1 [0x01] GOTO 0x1F04
@@ -5009,23 +5009,23 @@ SUBROUTINE_1F04:
  26: 0x2022 [0x1C] WAIT(20* ticks)
  27: 0x2025 [0x6C] FADE_ENTITY_COLOR(entity_id=Carbuncle (ID: 17752115/0x010EE033), end_alpha=100*, fade_time=200*)
  28: 0x202E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Carbuncle (ID: 17752115/0x010EE033))
- 29: 0x2034 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10173*]:
+ 29: 0x2034 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10175*]:
     → "Thank you for what you have done for us--for what you have done for Vana'diel."
  30: 0x203B [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x203C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  32: 0x204D [0x6C] FADE_ENTITY_COLOR(entity_id=Carbuncle (ID: 17752115/0x010EE033), end_alpha=0*, fade_time=100*)
  33: 0x2056 [0x1C] WAIT(150* ticks)
  34: 0x2059 [0x03] Work_Zone[9] = 13138*
- 35: 0x205E [0x24] CREATE_DIALOG(message_id=10148*, default_option=0*, option_flags=Work_Zone[6])
+ 35: 0x205E [0x24] CREATE_DIALOG(message_id=10150*, default_option=0*, option_flags=Work_Zone[6])
     → "What do you desire? [$5./$6./$7./$1./$2./Gil./A pact with Fenrir./A pact with Fenrir as a mount.]"
  36: 0x2065 [0x25] WAIT_DIALOG_SELECT()
  37: 0x2066 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20A7
  38: 0x206E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[7])
- 39: 0x2071 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+ 39: 0x2071 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
  40: 0x2078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x2079 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 42: 0x207C [0x24] CREATE_DIALOG(message_id=10150*, default_option=1*, option_flags=0*)
+ 42: 0x207C [0x24] CREATE_DIALOG(message_id=10152*, default_option=1*, option_flags=0*)
     → "You want $5? [Yes./Wait!]"
  43: 0x2083 [0x25] WAIT_DIALOG_SELECT()
  44: 0x2084 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2094
@@ -5039,11 +5039,11 @@ SUBROUTINE_20A4:
  50: 0x20A4 [0x01] GOTO 0x2244
  51: 0x20A7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x20E8
  52: 0x20AF [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[8])
- 53: 0x20B2 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+ 53: 0x20B2 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
  54: 0x20B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x20BA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 56: 0x20BD [0x24] CREATE_DIALOG(message_id=10151*, default_option=1*, option_flags=0*)
+ 56: 0x20BD [0x24] CREATE_DIALOG(message_id=10153*, default_option=1*, option_flags=0*)
     → "You want $6? [Yes./Wait!]"
  57: 0x20C4 [0x25] WAIT_DIALOG_SELECT()
  58: 0x20C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20D5
@@ -5057,11 +5057,11 @@ SUBROUTINE_20E5:
  64: 0x20E5 [0x01] GOTO 0x2244
  65: 0x20E8 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x2129
  66: 0x20F0 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
- 67: 0x20F3 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+ 67: 0x20F3 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
  68: 0x20FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x20FB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 70: 0x20FE [0x24] CREATE_DIALOG(message_id=10152*, default_option=1*, option_flags=0*)
+ 70: 0x20FE [0x24] CREATE_DIALOG(message_id=10154*, default_option=1*, option_flags=0*)
     → "You want $7? [Yes./Wait!]"
  71: 0x2105 [0x25] WAIT_DIALOG_SELECT()
  72: 0x2106 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2116
@@ -5075,11 +5075,11 @@ SUBROUTINE_2126:
  78: 0x2126 [0x01] GOTO 0x2244
  79: 0x2129 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x216A
  80: 0x2131 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
- 81: 0x2134 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+ 81: 0x2134 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
  82: 0x213B [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x213C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 84: 0x213F [0x24] CREATE_DIALOG(message_id=10153*, default_option=1*, option_flags=0*)
+ 84: 0x213F [0x24] CREATE_DIALOG(message_id=10155*, default_option=1*, option_flags=0*)
     → "You want $1? [Yes./Wait!]"
  85: 0x2146 [0x25] WAIT_DIALOG_SELECT()
  86: 0x2147 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2157
@@ -5093,11 +5093,11 @@ SUBROUTINE_2167:
  92: 0x2167 [0x01] GOTO 0x2244
  93: 0x216A [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x21AB
  94: 0x2172 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[4])
- 95: 0x2175 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10149*]:
+ 95: 0x2175 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10151*]:
     → "This is your choice?"
  96: 0x217C [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x217D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 98: 0x2180 [0x24] CREATE_DIALOG(message_id=10154*, default_option=1*, option_flags=0*)
+ 98: 0x2180 [0x24] CREATE_DIALOG(message_id=10156*, default_option=1*, option_flags=0*)
     → "You want $2? [Yes./Wait!]"
  99: 0x2187 [0x25] WAIT_DIALOG_SELECT()
 100: 0x2188 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2198
@@ -5110,7 +5110,7 @@ SUBROUTINE_2167:
 SUBROUTINE_21A8:
 106: 0x21A8 [0x01] GOTO 0x2244
 107: 0x21AB [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x21DE
-108: 0x21B3 [0x24] CREATE_DIALOG(message_id=10155*, default_option=1*, option_flags=0*)
+108: 0x21B3 [0x24] CREATE_DIALOG(message_id=10157*, default_option=1*, option_flags=0*)
     → "Gil is what you truly want? [Yes./Wait!]"
 109: 0x21BA [0x25] WAIT_DIALOG_SELECT()
 110: 0x21BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x21CB
@@ -5123,7 +5123,7 @@ SUBROUTINE_21A8:
 SUBROUTINE_21DB:
 116: 0x21DB [0x01] GOTO 0x2244
 117: 0x21DE [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x2211
-118: 0x21E6 [0x24] CREATE_DIALOG(message_id=10156*, default_option=1*, option_flags=0*)
+118: 0x21E6 [0x24] CREATE_DIALOG(message_id=10158*, default_option=1*, option_flags=0*)
     → "Are you sure? [Yes./Wait!]"
 119: 0x21ED [0x25] WAIT_DIALOG_SELECT()
 120: 0x21EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x21FE
@@ -5136,7 +5136,7 @@ SUBROUTINE_21DB:
 SUBROUTINE_220E:
 126: 0x220E [0x01] GOTO 0x2244
 127: 0x2211 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x2244
-128: 0x2219 [0x24] CREATE_DIALOG(message_id=10156*, default_option=1*, option_flags=0*)
+128: 0x2219 [0x24] CREATE_DIALOG(message_id=10158*, default_option=1*, option_flags=0*)
     → "Are you sure? [Yes./Wait!]"
 129: 0x2220 [0x25] WAIT_DIALOG_SELECT()
 130: 0x2221 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2231
@@ -5153,7 +5153,7 @@ SUBROUTINE_2244:
 137: 0x2244 [0x02] IF !(Work_Zone[1] == 0*) GOTO 0x224F
 138: 0x224C [0x01] GOTO 0x205E
 139: 0x224F [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
-140: 0x2254 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10157*]:
+140: 0x2254 [0x2B] Carbuncle (ID: 17752115/0x010EE033) [10159*]:
     → "Goodbye for now...lifeforces of Vana'diel..."
 141: 0x225B [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x225C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x06)
@@ -5162,7 +5162,7 @@ SUBROUTINE_2244:
 145: 0x227A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 146: 0x228B [0x79] LocalPlayer looks at Leepe-Hoppe (ID: 17752112/0x010EE030) (Basic look)
 147: 0x2295 [0x27] REQ_SET(priority=0x0B, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x6C)
-148: 0x229C [0x1D] PRINT_EVENT_MESSAGE(message_id=10174*)
+148: 0x229C [0x1D] PRINT_EVENT_MESSAGE(message_id=10176*)
     → "Wait! Hold up there, I wanted to ask you...! I thought you could answer a question or two..."
 149: 0x229F [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x22A0 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030))
@@ -5170,7 +5170,7 @@ SUBROUTINE_2244:
 152: 0x22AB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 153: 0x22AC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 154: 0x22AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x03)
-155: 0x22B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10175*)
+155: 0x22B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10177*)
     → "You know, I've been thinking about this whole thing. How Carbuncle's got you whisper collecting..."
 156: 0x22B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x22B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x04)
@@ -5180,12 +5180,12 @@ SUBROUTINE_2244:
 161: 0x22F0 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 151*
 162: 0x22F4 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 151*
 163: 0x22F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x05)
-164: 0x22FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10176*)
+164: 0x22FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10178*)
     → "I wonder if this isn't just some grand farce to slowly steal power from the avatars?"
 165: 0x2302 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x2303 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x06)
 167: 0x230A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2C)
-168: 0x2311 [0x1D] PRINT_EVENT_MESSAGE(message_id=10177*)
+168: 0x2311 [0x1D] PRINT_EVENT_MESSAGE(message_id=10179*)
     → "This tale has its share of twists, turns, and bends! I'm definitely curious to see how it ends!"
 169: 0x2314 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x2315 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -5228,13 +5228,13 @@ SUBROUTINE_2244:
   1: 0x2376 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x2377 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x2378 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2C)
-  4: 0x237F [0x1D] PRINT_EVENT_MESSAGE(message_id=10177*)
+  4: 0x237F [0x1D] PRINT_EVENT_MESSAGE(message_id=10179*)
     → "This tale has its share of twists, turns, and bends! I'm definitely curious to see how it ends!"
   5: 0x2382 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x2383 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2D)
   7: 0x238A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x34)
   8: 0x2391 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
-  9: 0x2398 [0x1D] PRINT_EVENT_MESSAGE(message_id=10163*)
+  9: 0x2398 [0x1D] PRINT_EVENT_MESSAGE(message_id=10165*)
     → "But $1 will be in great need! They might speak again, and those words we must heed!"
  10: 0x239B [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x239C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)
@@ -5539,22 +5539,22 @@ SUBROUTINE_2244:
   2: 0x247C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x247D [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x24A5
   4: 0x2485 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2C)
-  5: 0x248C [0x1D] PRINT_EVENT_MESSAGE(message_id=10662*)
+  5: 0x248C [0x1D] PRINT_EVENT_MESSAGE(message_id=10664*)
     → "$1, $2, and $3..."
   6: 0x248F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x2490 [0x1D] PRINT_EVENT_MESSAGE(message_id=10665*)
+  7: 0x2490 [0x1D] PRINT_EVENT_MESSAGE(message_id=10667*)
     → "Bring me those items, I humbly implore you! I swear on my name that I'll pay you your due!"
   8: 0x2493 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x2494 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x2D)
  10: 0x249B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x34)
  11: 0x24A2 [0x01] GOTO 0x24C9
  12: 0x24A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x25)
- 13: 0x24AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10667*)
+ 13: 0x24AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10669*)
     → "$1, $2, and $3..."
  14: 0x24AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x24B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x26)
  16: 0x24B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x27)
- 17: 0x24BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10668*)
+ 17: 0x24BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10670*)
     → "Won'taru anyone out there hear my sad pleas...? I'd even be willing to pay finder's fees..."
  18: 0x24C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x24C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x28)
@@ -5729,13 +5729,13 @@ SUBROUTINE_24C9:
   1: 0x2539 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x253A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x253B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  4: 0x2542 [0x1D] PRINT_EVENT_MESSAGE(message_id=10696*)
+  4: 0x2542 [0x1D] PRINT_EVENT_MESSAGE(message_id=10698*)
     → "If you want to help Ildy along, Put on your trunks and swim to Kazham!"
   5: 0x2545 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x2546 [0x1D] PRINT_EVENT_MESSAGE(message_id=10694*)
+  6: 0x2546 [0x1D] PRINT_EVENT_MESSAGE(message_id=10696*)
     → "Don'taru forget to put safety first. Like poor Iru-Kuiru, try not to get cursed."
   7: 0x2549 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x254A [0x1D] PRINT_EVENT_MESSAGE(message_id=10695*)
+  8: 0x254A [0x1D] PRINT_EVENT_MESSAGE(message_id=10697*)
     → "An allied expedition member was he. A researcher from our beloved Rhinostery."
   9: 0x254D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x254E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
@@ -5772,17 +5772,17 @@ SUBROUTINE_24C9:
   2: 0x255F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x2560 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x2561 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x01)
-  5: 0x2568 [0x1D] PRINT_EVENT_MESSAGE(message_id=10697*)
+  5: 0x2568 [0x1D] PRINT_EVENT_MESSAGE(message_id=10699*)
     → "The triumphant adventurer returns from his quest! Ildy told us you passed every trial and test!"
   6: 0x256B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x256C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x02)
   8: 0x2573 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0D)
-  9: 0x257A [0x1D] PRINT_EVENT_MESSAGE(message_id=10698*)
+  9: 0x257A [0x1D] PRINT_EVENT_MESSAGE(message_id=10700*)
     → "As thanks for your help in this troublesome case, Here's a helmet that sells at incredible pace!"
  10: 0x257D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x257E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x0E)
  12: 0x2585 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1D)
- 13: 0x258C [0x1D] PRINT_EVENT_MESSAGE(message_id=10699*)
+ 13: 0x258C [0x1D] PRINT_EVENT_MESSAGE(message_id=10701*)
     → "I've made it so it can be worn by we mages! It's sending the milliner into red rages!"
  14: 0x258F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x2590 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x1E)

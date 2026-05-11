@@ -24,23 +24,23 @@
 |       1 | 0x08A7      |        2215 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x1D9B      |        7579 |
-|       5 | 0x1DB2      |        7602 |
+|       4 | 0x1D9D      |        7581 |
+|       5 | 0x1DB4      |        7604 |
 |       6 | 0x40000000  |  1073741824 |
 |       7 | 0x0007      |           7 |
-|       8 | 0x1D9C      |        7580 |
+|       8 | 0x1D9E      |        7582 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0006      |           6 |
-|      11 | 0x1D9D      |        7581 |
-|      12 | 0x1D9E      |        7582 |
+|      11 | 0x1D9F      |        7583 |
+|      12 | 0x1DA0      |        7584 |
 
 ## String References
 
-- **7579**: Good day to you. This is [the future site of /]frontier bivouac [#1/#2/#3/#4/#5].
-- **7580**: Thank you for the $3. We greatly appreciate your efforts to [help set up/provision] frontier bivouac [#1/#2/#3/#4/#5]. Please speak with the manager in charge of this assignment to collect your reward.
-- **7581**: I'm terribly sorry, but we can't use broken $5. Could you please return to the coalition assignment desk and procure us another?
-- **7582**: How nice it is to see another face out here! As much as I'd like for you to help us set up frontier bivouac [#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.
-- **7602**: [Construction on /]Frontier Bivouac #[1/2/3/4/5] is[/ currently at] $2 percent [complete/durability]. We are in need of [materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in [building this thing/keeping this place running]?
+- **7581**: Good day to you. This is [the future site of /]frontier bivouac [#1/#2/#3/#4/#5].
+- **7582**: Thank you for the $3. We greatly appreciate your efforts to [help set up/provision] frontier bivouac [#1/#2/#3/#4/#5]. Please speak with the manager in charge of this assignment to collect your reward.
+- **7583**: I'm terribly sorry, but we can't use broken $5. Could you please return to the coalition assignment desk and procure us another?
+- **7584**: How nice it is to see another face out here! As much as I'd like for you to help us set up frontier bivouac [#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.
+- **7604**: [Construction on /]Frontier Bivouac #[1/2/3/4/5] is[/ currently at] $2 percent [complete/durability]. We are in need of [materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in [building this thing/keeping this place running]?
 
 ## Events
 
@@ -111,10 +111,10 @@
  11: 0x0033 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[4]
  12: 0x0038 [0x6E] EventEntity uses emote 1*
  13: 0x003F [0x99] Wait for EventEntity animation to complete
- 14: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
+ 14: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7581*)
     → "Good day to you. This is [the future site of /]frontier bivouac [#1/#2/#3/#4/#5]."
  15: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7602*)
+ 16: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
     → "[Construction on /]Frontier Bivouac #[1/2/3/4/5] is[/ currently at] $2 percent [complete/durability]. We are in need of [materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in [building this thing/keeping this place running]?"
  17: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x004C [0x03] Work_Zone[1] = 1073741824*
@@ -126,7 +126,7 @@
  24: 0x0067 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
  25: 0x006C [0x6E] EventEntity uses emote 7*
  26: 0x0073 [0x99] Wait for EventEntity animation to complete
- 27: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=7580*)
+ 27: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
     → "Thank you for the $3. We greatly appreciate your efforts to [help set up/provision] frontier bivouac [#1/#2/#3/#4/#5]. Please speak with the manager in charge of this assignment to collect your reward."
  28: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x007C [0x03] Work_Zone[1] = 1*
@@ -137,14 +137,14 @@
  34: 0x0096 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
  35: 0x009B [0x6E] EventEntity uses emote 6*
  36: 0x00A2 [0x99] Wait for EventEntity animation to complete
- 37: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7581*)
+ 37: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
     → "I'm terribly sorry, but we can't use broken $5. Could you please return to the coalition assignment desk and procure us another?"
  38: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00AB [0x03] Work_Zone[1] = 1073741824*
  40: 0x00B0 [0x01] GOTO 0x00CC
  41: 0x00B3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x00CC
  42: 0x00BB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 43: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
+ 43: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
     → "How nice it is to see another face out here! As much as I'd like for you to help us set up frontier bivouac [#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station."
  44: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x00C4 [0x03] Work_Zone[1] = 1073741824*

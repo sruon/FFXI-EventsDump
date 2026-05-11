@@ -26,8 +26,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CC9      |        7369 |
-|       1 | 0x1CCD      |        7373 |
+|       0 | 0x1CCB      |        7371 |
+|       1 | 0x1CCF      |        7375 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x00C8      |         200 |
@@ -39,8 +39,8 @@
 
 ## String References
 
-- **7369**: This gate leads to Cape Riverne.
-- **7373**: Pass through the gate? [Yes./No.]
+- **7371**: This gate leads to Cape Riverne.
+- **7375**: Pass through the gate? [Yes./No.]
 
 ## Events
 
@@ -98,10 +98,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0005 [0x48] [System] [7369*]:
+  2: 0x0005 [0x48] [System] [7371*]:
     → "This gate leads to Cape Riverne."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x24] CREATE_DIALOG(message_id=7373*, default_option=1*, option_flags=0*)
+  4: 0x0009 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
     → "Pass through the gate? [Yes./No.]"
   5: 0x0010 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0011 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A6

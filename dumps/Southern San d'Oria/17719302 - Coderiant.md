@@ -22,36 +22,36 @@
 |---------|-------------|-------------|
 |       0 | 0x0008      |           8 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x2012      |        8210 |
-|       3 | 0x2013      |        8211 |
+|       2 | 0x2014      |        8212 |
+|       3 | 0x2015      |        8213 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0623      |        1571 |
-|       6 | 0x2014      |        8212 |
+|       6 | 0x2016      |        8214 |
 |       7 | 0x001E      |          30 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x0EAC      |        3756 |
-|      10 | 0x2015      |        8213 |
-|      11 | 0x2ED7      |       11991 |
+|      10 | 0x2017      |        8215 |
+|      11 | 0x2ED9      |       11993 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x2EEA      |       12010 |
+|      13 | 0x2EEC      |       12012 |
 |      14 | 0x0015      |          21 |
-|      15 | 0x2EEB      |       12011 |
-|      16 | 0x2EEC      |       12012 |
-|      17 | 0x2F02      |       12034 |
-|      18 | 0x2F03      |       12035 |
+|      15 | 0x2EED      |       12013 |
+|      16 | 0x2EEE      |       12014 |
+|      17 | 0x2F04      |       12036 |
+|      18 | 0x2F05      |       12037 |
 
 ## String References
 
-- **8210**: Are you lost? I know this neighborhood well.
-- **8211**: Which way are you going? [Left./Right.]
-- **8212**: There on Pikeman's Way you can find a grocer, sundries and the Tanners' Guild. At the end lies the mansion of Count Caffaule.
-- **8213**: Go up those stairs for Watchdog Alley. Homes of townsfolk line the street.
-- **11991**: Ask if this person is the chick's owner? [Yes./No.]
-- **12010**: You have my chocobo?
-- **12011**: My family was opposed to having a chocobo as a pet, so I raised her in secret. But one day, they found her... I...I had to let her go...
-- **12012**: There must be a way for chocobos and people to live together in peace! Here, let me teach you a story I often tell my chocobo...
-- **12034**: You say you have my chocobo?
-- **12035**: Although I have always granted my chocobo a measure of independence, I do give her proper care. You must be mistaken.
+- **8212**: Are you lost? I know this neighborhood well.
+- **8213**: Which way are you going? [Left./Right.]
+- **8214**: There on Pikeman's Way you can find a grocer, sundries and the Tanners' Guild. At the end lies the mansion of Count Caffaule.
+- **8215**: Go up those stairs for Watchdog Alley. Homes of townsfolk line the street.
+- **11993**: Ask if this person is the chick's owner? [Yes./No.]
+- **12012**: You have my chocobo?
+- **12013**: My family was opposed to having a chocobo as a pet, so I raised her in secret. But one day, they found her... I...I had to let her go...
+- **12014**: There must be a way for chocobos and people to live together in peace! Here, let me teach you a story I often tell my chocobo...
+- **12036**: You say you have my chocobo?
+- **12037**: Although I have always granted my chocobo a measure of independence, I do give her proper care. You must be mistaken.
 
 ## Events
 
@@ -121,11 +121,11 @@
   2: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
+  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8212*)
     → "Are you lost? I know this neighborhood well."
   6: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  8: 0x0023 [0x24] CREATE_DIALOG(message_id=8211*, default_option=0*, option_flags=0*)
+  8: 0x0023 [0x24] CREATE_DIALOG(message_id=8213*, default_option=0*, option_flags=0*)
     → "Which way are you going? [Left./Right.]"
   9: 0x002A [0x25] WAIT_DIALOG_SELECT()
  10: 0x002B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006D
@@ -133,7 +133,7 @@
  12: 0x0036 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  13: 0x0037 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  14: 0x0038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [EventEntity, EventEntity], work=20*
- 15: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8212*)
+ 15: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8214*)
     → "There on Pikeman's Way you can find a grocer, sundries and the Tanners' Guild. At the end lies the mansion of Count Caffaule."
  16: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x004B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi2" with entities [EventEntity, EventEntity], work=20*
@@ -145,7 +145,7 @@
  23: 0x0078 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  24: 0x0079 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  25: 0x007A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [EventEntity, EventEntity], work=20*
- 26: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=8213*)
+ 26: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=8215*)
     → "Go up those stairs for Watchdog Alley. Homes of townsfolk line the street."
  27: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x008D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi2" with entities [EventEntity, EventEntity], work=20*
@@ -161,7 +161,7 @@ SUBROUTINE_00AF:
  36: 0x00C0 [0x03] Work_Zone[1] = 0*
  37: 0x00C5 [0x01] GOTO 0x0149
  38: 0x00C8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 39: 0x00C9 [0x24] CREATE_DIALOG(message_id=11991*, default_option=1*, option_flags=0*)
+ 39: 0x00C9 [0x24] CREATE_DIALOG(message_id=11993*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
  40: 0x00D0 [0x25] WAIT_DIALOG_SELECT()
  41: 0x00D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0139
@@ -171,23 +171,23 @@ SUBROUTINE_00AF:
  45: 0x00E6 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  46: 0x00E8 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  47: 0x00EA [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x011F
- 48: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12010*)
+ 48: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12012*)
     → "You have my chocobo?"
  49: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x00F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=21*
- 51: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=12011*)
+ 51: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=12013*)
     → "My family was opposed to having a chocobo as a pet, so I raised her in secret. But one day, they found her... I...I had to let her go..."
  52: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0109 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 54: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=12012*)
+ 54: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=12014*)
     → "There must be a way for chocobos and people to live together in peace! Here, let me teach you a story I often tell my chocobo..."
  55: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x011C [0x01] GOTO 0x0136
- 57: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=12034*)
+ 57: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=12036*)
     → "You say you have my chocobo?"
  58: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0123 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 60: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=12035*)
+ 60: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=12037*)
     → "Although I have always granted my chocobo a measure of independence, I do give her proper care. You must be mistaken."
  61: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

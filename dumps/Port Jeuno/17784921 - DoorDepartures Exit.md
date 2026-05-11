@@ -26,10 +26,10 @@
 |       0 | 0xE1C8      |       57800 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0009      |           9 |
-|       3 | 0x1BB1      |        7089 |
-|       4 | 0x1CEB      |        7403 |
-|       5 | 0x1BB3      |        7091 |
-|       6 | 0x1BB4      |        7092 |
+|       3 | 0x1BB3      |        7091 |
+|       4 | 0x1CED      |        7405 |
+|       5 | 0x1BB5      |        7093 |
+|       6 | 0x1BB6      |        7094 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x0092      |         146 |
@@ -38,12 +38,12 @@
 |      12 | 0xE7CD      |       59341 |
 |      13 | 0x1F41      |        8001 |
 |      14 | 0x0C15      |        3093 |
-|      15 | 0x1BC5      |        7109 |
-|      16 | 0x1BB2      |        7090 |
+|      15 | 0x1BC7      |        7111 |
+|      16 | 0x1BB4      |        7092 |
 
 ## String References
 
-- **7092**: Pay $7 gil and head through? [Yes./No.]
+- **7094**: Pay $7 gil and head through? [Yes./No.]
 
 ## Events
 
@@ -96,7 +96,7 @@
   2: 0x0014 [0x03] Work_Zone[2] = 200*
   3: 0x0019 [0x03] Work_Zone[3] = 9*
   4: 0x001E [0x4A] Illauvolahaut (ID: 17784878/0x010F602E) looks at LocalPlayer
-  5: 0x0027 [0x2B] Illauvolahaut (ID: 17784878/0x010F602E) [7089*]:
+  5: 0x0027 [0x2B] Illauvolahaut (ID: 17784878/0x010F602E) [7091*]:
     → "This leads to departures. You'll need $6 and $0 gil to board."
   6: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002F [0x01] GOTO 0x0035
@@ -132,7 +132,7 @@ SUBROUTINE_0035:
   0: 0x0037 [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
   1: 0x0042 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 57800*) GOTO 0x005E
   2: 0x004A [0x4A] Illauvolahaut (ID: 17784878/0x010F602E) looks at LocalPlayer
-  3: 0x0053 [0x2B] Illauvolahaut (ID: 17784878/0x010F602E) [7403*]:
+  3: 0x0053 [0x2B] Illauvolahaut (ID: 17784878/0x010F602E) [7405*]:
     → "This is the departure gate for airship passengers. If you have any questions, please inquire with Guddal."
   4: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x005B [0x01] GOTO 0x0061
@@ -175,10 +175,10 @@ SUBROUTINE_0061:
   1: 0x006E [0x02] IF !(ExtData[1]->WorkLocal[2] >= 57800*) GOTO 0x00F8
   2: 0x0076 [0x03] Work_Zone[9] = 200*
   3: 0x007B [0x4A] Illauvolahaut (ID: 17784878/0x010F602E) looks at LocalPlayer
-  4: 0x0084 [0x2B] Illauvolahaut (ID: 17784878/0x010F602E) [7091*]:
+  4: 0x0084 [0x2B] Illauvolahaut (ID: 17784878/0x010F602E) [7093*]:
     → "This leads to departures. You'll need $7 gil to board a flight."
   5: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x008C [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
+  6: 0x008C [0x24] CREATE_DIALOG(message_id=7094*, default_option=1*, option_flags=0*)
     → "Pay $7 gil and head through? [Yes./No.]"
   7: 0x0093 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0094 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F5
@@ -232,7 +232,7 @@ SUBROUTINE_00FB:
   0: 0x00FD [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
   1: 0x0108 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 57800*) GOTO 0x0124
   2: 0x0110 [0x4A] Illauvolahaut (ID: 17784878/0x010F602E) looks at LocalPlayer
-  3: 0x0119 [0x2B] Illauvolahaut (ID: 17784878/0x010F602E) [7109*]:
+  3: 0x0119 [0x2B] Illauvolahaut (ID: 17784878/0x010F602E) [7111*]:
     → "I'm sorry, but your boarding rights have been temporarily revoked. Have a nice day."
   4: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0121 [0x01] GOTO 0x0127
@@ -244,7 +244,7 @@ SUBROUTINE_0127:
 
 SUBROUTINE_0129:
   9: 0x0129 [0x4A] Tautorie (ID: 17784877/0x010F602D) looks at LocalPlayer
- 10: 0x0132 [0x2B] Tautorie (ID: 17784877/0x010F602D) [7090*]:
+ 10: 0x0132 [0x2B] Tautorie (ID: 17784877/0x010F602D) [7092*]:
     → "This is the departures exit. You can't go out this way. Try the next door, please."
  11: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x013A [0x1B] RETURN

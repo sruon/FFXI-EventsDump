@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CD4      |        7380 |
+|       0 | 0x1CD6      |        7382 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
@@ -29,7 +29,7 @@
 
 ## String References
 
-- **7380**: i@L_T\`jWhat do you want? [I beat the brothers!/I spanked that sister!/I was unable to perform a spanking of sister!/Another party has made sister POP!I/Take me back to the beginning!]
+- **7382**: i@L_T\`jWhat do you want? [I beat the brothers!/I spanked that sister!/I was unable to perform a spanking of sister!/Another party has made sister POP!I/Take me back to the beginning!]
 
 ## Events
 
@@ -79,7 +79,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7380*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7382*, default_option=0*, option_flags=0*)
     → "i@L_T`jWhat do you want? [I beat the brothers!/I spanked that sister!/I was unable to perform a spanking of sister!/Another party has made sister POP!I/Take me back to the beginning!]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019

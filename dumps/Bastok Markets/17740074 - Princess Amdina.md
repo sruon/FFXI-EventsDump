@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2220      |        8736 |
-|       1 | 0x2221      |        8737 |
+|       0 | 0x2222      |        8738 |
+|       1 | 0x2223      |        8739 |
 
 ## String References
 
-- **8736**: It is our fervent hope that thou hast thoroughly enjoyed the Celestial Nights event.
-- **8737**: We present this gift to thee, as a token of our gratitude for thine unrelenting support.
+- **8738**: It is our fervent hope that thou hast thoroughly enjoyed the Celestial Nights event.
+- **8739**: We present this gift to thee, as a token of our gratitude for thine unrelenting support.
 
 ## Events
 
@@ -75,10 +75,10 @@
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8736*)
+  3: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8738*)
     → "It is our fervent hope that thou hast thoroughly enjoyed the Celestial Nights event."
   4: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8737*)
+  5: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8739*)
     → "We present this gift to thee, as a token of our gratitude for thine unrelenting support."
   6: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0011 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

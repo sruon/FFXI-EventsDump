@@ -22,7 +22,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D27      |        7463 |
+|       0 | 0x1D29      |        7465 |
 |       1 | 0x0028      |          40 |
 |       2 | 0xFFFEAB5B  |  4294880091 |
 |       3 | 0xFFFFDE46  |  4294958662 |
@@ -32,7 +32,7 @@
 
 ## String References
 
-- **7463**: This is Bastok's Blacksmiths' Guild. Ours is the real thing--the one in San d'Oria doesn't have half the things we do!
+- **7465**: This is Bastok's Blacksmiths' Guild. Ours is the real thing--the one in San d'Oria doesn't have half the things we do!
 
 ## Events
 
@@ -78,7 +78,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
     → "This is Bastok's Blacksmiths' Guild. Ours is the real thing--the one in San d'Oria doesn't have half the things we do!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT

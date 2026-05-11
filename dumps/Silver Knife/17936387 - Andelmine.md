@@ -61,13 +61,13 @@
 |       2 | 0x0021      |          33 |
 |       3 | 0x001F      |          31 |
 |       4 | 0x0020      |          32 |
-|       5 | 0x1C40      |        7232 |
-|       6 | 0x1C41      |        7233 |
+|       5 | 0x1C42      |        7234 |
+|       6 | 0x1C43      |        7235 |
 
 ## String References
 
-- **7232**: I have been charged with permitting only our valuable clientele to participate in the auctions.
-- **7233**: Unfortunately, your name is not on my register. Please leave.
+- **7234**: I have been charged with permitting only our valuable clientele to participate in the auctions.
+- **7235**: Unfortunately, your name is not on my register. Please leave.
 
 ## Events
 
@@ -884,10 +884,10 @@
   0: 0x01E9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01EE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01EF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7232*)
+  3: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7234*)
     → "I have been charged with permitting only our valuable clientele to participate in the auctions."
   4: 0x01F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7233*)
+  5: 0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7235*)
     → "Unfortunately, your name is not on my register. Please leave."
   6: 0x01F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01F8 [0x21] END_EVENT

@@ -20,14 +20,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2831      |       10289 |
+|       0 | 0x2833      |       10291 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x2832      |       10290 |
+|       2 | 0x2834      |       10292 |
 
 ## String References
 
-- **10289**: I get the creeps looking down from the edge. It really hits you how high up we are.
-- **10290**: I wonder how they managed to build this place? Jeuno's full of mysteries, like the airships! But the biggest one of all is the archduke. Nobody knows who he is or where he's from.
+- **10291**: I get the creeps looking down from the edge. It really hits you how high up we are.
+- **10292**: I wonder how they managed to build this place? Jeuno's full of mysteries, like the airships! But the biggest one of all is the archduke. Nobody knows who he is or where he's from.
 
 ## Events
 
@@ -79,11 +79,11 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10289*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10291*)
     → "I get the creeps looking down from the edge. It really hits you how high up we are."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10290*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10292*)
     → "I wonder how they managed to build this place? Jeuno's full of mysteries, like the airships! But the biggest one of all is the archduke. Nobody knows who he is or where he's from."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]

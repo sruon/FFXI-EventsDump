@@ -20,35 +20,35 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F7A      |        8058 |
-|       1 | 0x1F7B      |        8059 |
+|       0 | 0x1F7C      |        8060 |
+|       1 | 0x1F7D      |        8061 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0031      |          49 |
-|       4 | 0x1F7C      |        8060 |
-|       5 | 0x1F7D      |        8061 |
-|       6 | 0x1F7E      |        8062 |
+|       4 | 0x1F7E      |        8062 |
+|       5 | 0x1F7F      |        8063 |
+|       6 | 0x1F80      |        8064 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x1F7F      |        8063 |
-|       9 | 0x1F80      |        8064 |
+|       8 | 0x1F81      |        8065 |
+|       9 | 0x1F82      |        8066 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x1F81      |        8065 |
-|      12 | 0x1F82      |        8066 |
+|      11 | 0x1F83      |        8067 |
+|      12 | 0x1F84      |        8068 |
 |      13 | 0x0003      |           3 |
 |      14 | 0x0004      |           4 |
-|      15 | 0x1F83      |        8067 |
+|      15 | 0x1F85      |        8069 |
 
 ## String References
 
-- **8058**: Oh, hullo there! I justaru picked up some incredibly valuable-waluable combat tips from Prince Trion himself. I can share this knowledge with you, if you wish.
-- **8059**: Ask something? [About weak points./About reinforcements./About killing blows./Nothing for now.]
-- **8060**: Prince Trion says that the fiends possess indi-windividual weaknesses. Take advantage of these, and you may deprive them of their most potentaru attacks, or even stop them dead in their tracky-wacks.
-- **8061**: Of course, uncovering a certain creature's weak pointaru is easier said than done...
-- **8062**: Is there anything else you'd care to hear?
-- **8063**: Prince Trion says we must be wary when battling the fiends for too long in a single-wingle location. That they'll quickly call their friends, and those friends will be nasty enough to put your original foes to shame.
-- **8064**: Fortunately, it appears these fearsome fellows have bettaru things to do than to pick on adventurers beneath their stature. If you find yourself intimi-wimidated, just leave them alone, and they'll do you the same favor.
-- **8065**: Prince Trion says that when you fell a fiend, your visitant glow will take on different hues depending on how you strike the killing-willing blow.
-- **8066**: Sadly, he didn't go into detail, so you'll just have to experimentaru for yourself.
-- **8067**: Oh, did you hear him yourself? His voice does carry-warry quite far...
+- **8060**: Oh, hullo there! I justaru picked up some incredibly valuable-waluable combat tips from Prince Trion himself. I can share this knowledge with you, if you wish.
+- **8061**: Ask something? [About weak points./About reinforcements./About killing blows./Nothing for now.]
+- **8062**: Prince Trion says that the fiends possess indi-windividual weaknesses. Take advantage of these, and you may deprive them of their most potentaru attacks, or even stop them dead in their tracky-wacks.
+- **8063**: Of course, uncovering a certain creature's weak pointaru is easier said than done...
+- **8064**: Is there anything else you'd care to hear?
+- **8065**: Prince Trion says we must be wary when battling the fiends for too long in a single-wingle location. That they'll quickly call their friends, and those friends will be nasty enough to put your original foes to shame.
+- **8066**: Fortunately, it appears these fearsome fellows have bettaru things to do than to pick on adventurers beneath their stature. If you find yourself intimi-wimidated, just leave them alone, and they'll do you the same favor.
+- **8067**: Prince Trion says that when you fell a fiend, your visitant glow will take on different hues depending on how you strike the killing-willing blow.
+- **8068**: Sadly, he didn't go into detail, so you'll just have to experimentaru for yourself.
+- **8069**: Oh, did you hear him yourself? His voice does carry-warry quite far...
 
 ## Events
 
@@ -109,21 +109,21 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
     → "Oh, hullo there! I justaru picked up some incredibly valuable-waluable combat tips from Prince Trion himself. I can share this knowledge with you, if you wish."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x24] CREATE_DIALOG(message_id=8059*, default_option=0*, option_flags=0*)
+  5: 0x000C [0x24] CREATE_DIALOG(message_id=8061*, default_option=0*, option_flags=0*)
     → "Ask something? [About weak points./About reinforcements./About killing blows./Nothing for now.]"
   6: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004C
   8: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Pakke-Pokke (ID: 17814120/0x010FD268), Pakke-Pokke (ID: 17814120/0x010FD268)], work=49*
-  9: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
+  9: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8062*)
     → "Prince Trion says that the fiends possess indi-windividual weaknesses. Take advantage of these, and you may deprive them of their most potentaru attacks, or even stop them dead in their tracky-wacks."
  10: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8061*)
+ 11: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8063*)
     → "Of course, uncovering a certain creature's weak pointaru is easier said than done..."
  12: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8062*)
+ 13: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8064*)
     → "Is there anything else you'd care to hear?"
  14: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Pakke-Pokke (ID: 17814120/0x010FD268), Pakke-Pokke (ID: 17814120/0x010FD268)], work=49*

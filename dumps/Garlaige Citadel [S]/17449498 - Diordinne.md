@@ -44,13 +44,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E06      |        7686 |
+|       0 | 0x1E08      |        7688 |
 |       1 | 0x001D      |          29 |
-|       2 | 0x1E6A      |        7786 |
-|       3 | 0x1E6C      |        7788 |
-|       4 | 0x1E6D      |        7789 |
-|       5 | 0x1E69      |        7785 |
-|       6 | 0x1EE6      |        7910 |
+|       2 | 0x1E6C      |        7788 |
+|       3 | 0x1E6E      |        7790 |
+|       4 | 0x1E6F      |        7791 |
+|       5 | 0x1E6B      |        7787 |
+|       6 | 0x1EE8      |        7912 |
 |       7 | 0x0028      |          40 |
 |       8 | 0x000D      |          13 |
 |       9 | 0x0003      |           3 |
@@ -86,8 +86,8 @@
 
 ## String References
 
-- **7686**: After careful deliberation, our military strategists have discerned that the Beastman Confederate's main target is Jeuno. Not that any of us think they will be undertaking any form of structured offensive...
-- **7910**: San d'Oria Nation Quest 6: Follow B.
+- **7688**: After careful deliberation, our military strategists have discerned that the Beastman Confederate's main target is Jeuno. Not that any of us think they will be undertaking any form of structured offensive...
+- **7912**: San d'Oria Nation Quest 6: Follow B.
 
 ## Events
 
@@ -136,7 +136,7 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7686*)
+  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
     → "After careful deliberation, our military strategists have discerned that the Beastman Confederate's main target is Jeuno. Not that any of us think they will be undertaking any form of structured offensive..."
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0014 [0x21] END_EVENT
@@ -170,7 +170,7 @@
   2: 0x0020 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0021 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Diordinne (ID: 17449498/0x010A421A) Render.Flags0 and Render.Flags3 conditions are met
   4: 0x0026 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  5: 0x0035 [0x2B] Diordinne (ID: 17449498/0x010A421A) [7786*]:
+  5: 0x0035 [0x2B] Diordinne (ID: 17449498/0x010A421A) [7788*]:
     → "Other units should be in possession of a spare key. I will have one brought here presently, so come and collect it from me in a short while."
   6: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x003D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -206,7 +206,7 @@
   2: 0x0058 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0059 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Diordinne (ID: 17449498/0x010A421A) Render.Flags0 and Render.Flags3 conditions are met
   4: 0x005E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  5: 0x006D [0x2B] Diordinne (ID: 17449498/0x010A421A) [7788*]:
+  5: 0x006D [0x2B] Diordinne (ID: 17449498/0x010A421A) [7790*]:
     → "The spare key, you say? The intruders have cut off many of the passageways within the citadel, so it will take some time yet. Have patience."
   6: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0075 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -241,7 +241,7 @@
   2: 0x0090 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0091 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Diordinne (ID: 17449498/0x010A421A) Render.Flags0 and Render.Flags3 conditions are met
   4: 0x0096 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  5: 0x00A5 [0x2B] Diordinne (ID: 17449498/0x010A421A) [7789*]:
+  5: 0x00A5 [0x2B] Diordinne (ID: 17449498/0x010A421A) [7791*]:
     → "Take this spare key to the number eight shelter. Be careful not to misplace it again."
   6: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -276,7 +276,7 @@
   1: 0x00C7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Diordinne (ID: 17449498/0x010A421A) Render.Flags0 and Render.Flags3 conditions are met
   3: 0x00CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x00DC [0x2B] Diordinne (ID: 17449498/0x010A421A) [7785*]:
+  4: 0x00DC [0x2B] Diordinne (ID: 17449498/0x010A421A) [7787*]:
     → "The number eight shelter is accessible via a secret entrance at H-9 on your map."
   5: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -303,7 +303,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F5 [0x48] [System] [7910*]:
+  0: 0x00F5 [0x48] [System] [7912*]:
     → "San d'Oria Nation Quest 6: Follow B."
   1: 0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F9 [0x21] END_EVENT

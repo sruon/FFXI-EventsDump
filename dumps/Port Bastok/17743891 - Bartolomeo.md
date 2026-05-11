@@ -27,18 +27,18 @@
 |       3 | 0x001E      |          30 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0088      |         136 |
-|       6 | 0x1CC7      |        7367 |
+|       6 | 0x1CC9      |        7369 |
 |       7 | 0x0078      |         120 |
 |       8 | 0x003C      |          60 |
 |       9 | 0x307F      |       12415 |
-|      10 | 0x1CC8      |        7368 |
-|      11 | 0x1CC9      |        7369 |
-|      12 | 0x1CCA      |        7370 |
-|      13 | 0x1CCB      |        7371 |
+|      10 | 0x1CCA      |        7370 |
+|      11 | 0x1CCB      |        7371 |
+|      12 | 0x1CCC      |        7372 |
+|      13 | 0x1CCD      |        7373 |
 
 ## String References
 
-- **7367**: May I help you? ...A white mage named Evrain? No, I'm sorry, I don't think I've seen him.
+- **7369**: May I help you? ...A white mage named Evrain? No, I'm sorry, I don't think I've seen him.
 
 ## Events
 
@@ -138,7 +138,7 @@
  12: 0x0055 [0x1C] WAIT(30* ticks)
  13: 0x0058 [0x27] REQ_SET(priority=0x64, entity_id=Door:Arrivals Entrance (ID: 17743958/0x010EC056), tag_num=0x03)
  14: 0x005F [0x27] REQ_SET(priority=0x64, entity_id=Evrain (ID: 17743894/0x010EC016), tag_num=0x02)
- 15: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
+ 15: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
     → "May I help you? ...A white mage named Evrain? No, I'm sorry, I don't think I've seen him."
  16: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x006A [0x1C] WAIT(30* ticks)
@@ -149,19 +149,19 @@
  22: 0x008D [0x1E] EventEntity looks at Evrain (ID: 17743894/0x010EC016) and starts talking
  23: 0x0092 [0x1C] WAIT(60* ticks)
  24: 0x0095 [0x03] Work_Zone[9] = 12415*
- 25: 0x009A [0x2B] Evrain (ID: 17743894/0x010EC016) [7368*]:
+ 25: 0x009A [0x2B] Evrain (ID: 17743894/0x010EC016) [7370*]:
     → "That $7... You must be Mister Powhatan."
  26: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00A2 [0x2A] GET_REQ_LEVEL(level=100, entity_id=Evrain (ID: 17743894/0x010EC016))
  28: 0x00A8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Evrain (ID: 17743894/0x010EC016), Evrain (ID: 17743894/0x010EC016)], work=0*
- 29: 0x00B7 [0x2B] Evrain (ID: 17743894/0x010EC016) [7369*]:
+ 29: 0x00B7 [0x2B] Evrain (ID: 17743894/0x010EC016) [7371*]:
     → "No? You've come in his place? Mister Powhatan is in the tavern, you say?"
  30: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00BF [0x2B] Evrain (ID: 17743894/0x010EC016) [7370*]:
+ 31: 0x00BF [0x2B] Evrain (ID: 17743894/0x010EC016) [7372*]:
     → "He shouldn't have gone through all this trouble for me, you know. I've been to Bastok before."
  32: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Evrain (ID: 17743894/0x010EC016), Evrain (ID: 17743894/0x010EC016)], work=0*
- 34: 0x00D6 [0x2B] Evrain (ID: 17743894/0x010EC016) [7371*]:
+ 34: 0x00D6 [0x2B] Evrain (ID: 17743894/0x010EC016) [7373*]:
     → "I'll go meet him in the tavern, then. Don't worry, I know the way."
  35: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00DE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ten0" with entities [Evrain (ID: 17743894/0x010EC016), Evrain (ID: 17743894/0x010EC016)]

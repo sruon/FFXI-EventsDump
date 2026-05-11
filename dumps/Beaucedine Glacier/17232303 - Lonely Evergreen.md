@@ -23,27 +23,27 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CF2      |        7410 |
-|       1 | 0x1CEE      |        7406 |
-|       2 | 0x1CEF      |        7407 |
-|       3 | 0x1CF0      |        7408 |
-|       4 | 0x1CF1      |        7409 |
-|       5 | 0x1CEA      |        7402 |
-|       6 | 0x1CEB      |        7403 |
-|       7 | 0x1CEC      |        7404 |
-|       8 | 0x1CED      |        7405 |
-|       9 | 0x1CE5      |        7397 |
-|      10 | 0x1CE6      |        7398 |
-|      11 | 0x1CE7      |        7399 |
+|       0 | 0x1CF4      |        7412 |
+|       1 | 0x1CF0      |        7408 |
+|       2 | 0x1CF1      |        7409 |
+|       3 | 0x1CF2      |        7410 |
+|       4 | 0x1CF3      |        7411 |
+|       5 | 0x1CEC      |        7404 |
+|       6 | 0x1CED      |        7405 |
+|       7 | 0x1CEE      |        7406 |
+|       8 | 0x1CEF      |        7407 |
+|       9 | 0x1CE7      |        7399 |
+|      10 | 0x1CE8      |        7400 |
+|      11 | 0x1CE9      |        7401 |
 |      12 | 0x0000      |           0 |
-|      13 | 0x1CE9      |        7401 |
+|      13 | 0x1CEB      |        7403 |
 |      14 | 0x0001      |           1 |
-|      15 | 0x1CE8      |        7400 |
+|      15 | 0x1CEA      |        7402 |
 |      16 | 0x0002      |           2 |
 
 ## String References
 
-- **7399**: So what do you say, kupo!? [Sure, I'll play./No thanks, kupo.]
+- **7401**: So what do you say, kupo!? [Sure, I'll play./No thanks, kupo.]
 
 ## Events
 
@@ -97,7 +97,7 @@
   4: 0x000B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   5: 0x000D [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Stooge Moogle (ID: 17232302/0x0106F1AE), tag_num=0x01)
   6: 0x0014 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
-  7: 0x0019 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7410*]:
+  7: 0x0019 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7412*]:
     → "Where are the prizes I promised, you say? Why, just bring that $3 to my associate in Xarcabard for the next exciting event, and they're as good as yours! Good luck...you'll need it, kupo!"
   8: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0021 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Stooge Moogle (ID: 17232302/0x0106F1AE), tag_num=0x02)
@@ -138,19 +138,19 @@
   6: 0x003B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Stooge Moogle (ID: 17232302/0x0106F1AE), tag_num=0x01)
   7: 0x0042 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
   8: 0x0047 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
-  9: 0x004C [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7406*]:
+  9: 0x004C [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7408*]:
     → "Could it be? Why yes, ladies and gentlemoogles, it looks like [he's/she's] done it! One $3 acquired!"
  10: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0054 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7407*]:
+ 11: 0x0054 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7409*]:
     → "What's that? Why do we need explosives, you say?"
  12: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x005C [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7408*]:
+ 13: 0x005C [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7410*]:
     → "Wh-why, uh...no particular reason at all, kupo! It's just for the...ah...yes, the closing ceremony fireworks, of course! Why, it's a Mog Festival tradition, you know!"
  14: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0064 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7409*]:
+ 15: 0x0064 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7411*]:
     → "Anyway, I'll just be taking that $3, thankyouverymuch! And here's your reward: $6, kupo! Let's give [him/her] a big round of applause, folks!"
  16: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x006C [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7410*]:
+ 17: 0x006C [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7412*]:
     → "Where are the prizes I promised, you say? Why, just bring that $3 to my associate in Xarcabard for the next exciting event, and they're as good as yours! Good luck...you'll need it, kupo!"
  18: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0074 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Stooge Moogle (ID: 17232302/0x0106F1AE), tag_num=0x02)
@@ -186,16 +186,16 @@
   2: 0x0080 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   3: 0x0082 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   4: 0x0084 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Stooge Moogle (ID: 17232302/0x0106F1AE), tag_num=0x01)
-  5: 0x008B [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7402*]:
+  5: 0x008B [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7404*]:
     → "First you'll have to speak with my Gobbie associate stationed just outside the tower southeast of here."
   6: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0093 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7403*]:
+  7: 0x0093 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7405*]:
     → "He'll tell you all you need to know, kupo!"
   8: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x009B [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7404*]:
+  9: 0x009B [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7406*]:
     → "Successfully snag the contents of the casket and bring it back to me, and spoils most spectacular await you!"
  10: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00A3 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7405*]:
+ 11: 0x00A3 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7407*]:
     → "We're all cheering for you, so give it your best shot, kupo!"
  12: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00AB [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Stooge Moogle (ID: 17232302/0x0106F1AE), tag_num=0x02)
@@ -235,35 +235,35 @@
   2: 0x00B7 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   3: 0x00B9 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   4: 0x00BB [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Stooge Moogle (ID: 17232302/0x0106F1AE), tag_num=0x01)
-  5: 0x00C2 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7397*]:
+  5: 0x00C2 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7399*]:
     → "Welcome, friend, to the Elemental Casket of Mystique and Mystery, kupo! "The what?", you say? I thought you'd never ask!"
   6: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00CA [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7398*]:
+  7: 0x00CA [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7400*]:
     → "Why, it's a riveting and remarkably rewarding game in which you can procure precious prizes simply by surmising a single number!"
   8: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00D2 [0x24] CREATE_DIALOG(message_id=7399*, default_option=0*, option_flags=0*)
+  9: 0x00D2 [0x24] CREATE_DIALOG(message_id=7401*, default_option=0*, option_flags=0*)
     → "So what do you say, kupo!? [Sure, I'll play./No thanks, kupo.]"
  10: 0x00D9 [0x25] WAIT_DIALOG_SELECT()
  11: 0x00DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0112
- 12: 0x00E2 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7401*]:
+ 12: 0x00E2 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7403*]:
     → "That's the spirit, kupo!"
  13: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x00EA [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7402*]:
+ 14: 0x00EA [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7404*]:
     → "First you'll have to speak with my Gobbie associate stationed just outside the tower southeast of here."
  15: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x00F2 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7403*]:
+ 16: 0x00F2 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7405*]:
     → "He'll tell you all you need to know, kupo!"
  17: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x00FA [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7404*]:
+ 18: 0x00FA [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7406*]:
     → "Successfully snag the contents of the casket and bring it back to me, and spoils most spectacular await you!"
  19: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0102 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7405*]:
+ 20: 0x0102 [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7407*]:
     → "We're all cheering for you, so give it your best shot, kupo!"
  21: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x010A [0x03] Work_Zone[1] = 1*
  23: 0x010F [0x01] GOTO 0x012A
  24: 0x0112 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x012A
- 25: 0x011A [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7400*]:
+ 25: 0x011A [0x2B] Stooge Moogle (ID: 17232302/0x0106F1AE) [7402*]:
     → "Awww...what a spoilsport, kupo! This festival won't be around forever, so come back soon if you change your mind!"
  26: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0122 [0x03] Work_Zone[1] = 2*

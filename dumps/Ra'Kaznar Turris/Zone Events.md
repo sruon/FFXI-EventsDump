@@ -143,11 +143,11 @@
 |      65 | 0x0010      |          16 |
 |      66 | 0x001F      |          31 |
 |      67 | 0xFFFFFFFF  |  4294967295 |
-|      68 | 0x20FE      |        8446 |
-|      69 | 0x1F7B      |        8059 |
+|      68 | 0x2100      |        8448 |
+|      69 | 0x1F7D      |        8061 |
 |      70 | 0x0003      |           3 |
 |      71 | 0x0004      |           4 |
-|      72 | 0x1E0E      |        7694 |
+|      72 | 0x1E10      |        7696 |
 |      73 | 0x00FF      |         255 |
 |      74 | 0x000B      |          11 |
 |      75 | 0xB71B0     |      750000 |
@@ -156,12 +156,12 @@
 |      78 | 0x60310     |      394000 |
 |      79 | 0xFFF8AD00  |  4294487296 |
 |      80 | 0xFFF7E9B0  |  4294437296 |
-|      81 | 0x1E19      |        7705 |
-|      82 | 0x1E1A      |        7706 |
-|      83 | 0x1E1B      |        7707 |
-|      84 | 0x1E1C      |        7708 |
-|      85 | 0x1E1D      |        7709 |
-|      86 | 0x1E40      |        7744 |
+|      81 | 0x1E1B      |        7707 |
+|      82 | 0x1E1C      |        7708 |
+|      83 | 0x1E1D      |        7709 |
+|      84 | 0x1E1E      |        7710 |
+|      85 | 0x1E1F      |        7711 |
+|      86 | 0x1E42      |        7746 |
 |      87 | 0x0006      |           6 |
 |      88 | 0x000C      |          12 |
 |      89 | 0x000E      |          14 |
@@ -175,25 +175,25 @@
 |      97 | 0x001C      |          28 |
 |      98 | 0x001D      |          29 |
 |      99 | 0x001E      |          30 |
-|     100 | 0x1F75      |        8053 |
-|     101 | 0x1F7A      |        8058 |
-|     102 | 0x1F79      |        8057 |
-|     103 | 0x20FC      |        8444 |
-|     104 | 0x20FB      |        8443 |
-|     105 | 0x1F61      |        8033 |
+|     100 | 0x1F77      |        8055 |
+|     101 | 0x1F7C      |        8060 |
+|     102 | 0x1F7B      |        8059 |
+|     103 | 0x20FE      |        8446 |
+|     104 | 0x20FD      |        8445 |
+|     105 | 0x1F63      |        8035 |
 |     106 | 0x003E      |          62 |
-|     107 | 0x1E11      |        7697 |
+|     107 | 0x1E13      |        7699 |
 |     108 | 0x20468     |      132200 |
 |     109 | 0x9A4C      |       39500 |
 |     110 | 0x00B4      |         180 |
 |     111 | 0x012C      |         300 |
-|     112 | 0x1F63      |        8035 |
-|     113 | 0x1F62      |        8034 |
-|     114 | 0x20FA      |        8442 |
-|     115 | 0x1F65      |        8037 |
-|     116 | 0x1F64      |        8036 |
+|     112 | 0x1F65      |        8037 |
+|     113 | 0x1F64      |        8036 |
+|     114 | 0x20FC      |        8444 |
+|     115 | 0x1F67      |        8039 |
+|     116 | 0x1F66      |        8038 |
 |     117 | 0x0078      |         120 |
-|     118 | 0x1E0F      |        7695 |
+|     118 | 0x1E11      |        7697 |
 |     119 | 0x0041      |          65 |
 |     120 | 0x004B      |          75 |
 |     121 | 0x004A      |          74 |
@@ -203,28 +203,28 @@
 
 ## String References
 
-- **7694**: Enter the battlefield? [Enter./Decline.]
-- **7695**: Leave the battlefield? [Run away./Stay.]
-- **7697**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7705**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7706**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7696**: Enter the battlefield? [Enter./Decline.]
+- **7697**: Leave the battlefield? [Run away./Stay.]
+- **7699**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7707**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7708**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7709**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7744**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **8033**: Skip the event? [Yes./No.]
-- **8034**: Battlefield clear time: $3 second[/s]!
-- **8035**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **8036**: The current battlefield clear time record is $3 second[/s].
-- **8037**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **8053**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **8057**: That record is held by $5 adventurers, including %0!
-- **8058**: That record is held by %0!
-- **8059**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **8442**: You have broken the clear time record for "[Reckoning/Abomination/Vagary: Putraxia/Vagary: Rancibus/Vagary: Palloritus/Vagary: Perfidien/Vagary: Plouton/Oathblade]"!
-- **8443**: The current clear time record for "[Reckoning/Abomination/Vagary: Putraxia/Vagary: Rancibus/Vagary: Palloritus/Vagary: Perfidien/Vagary: Plouton/Oathblade]" is $3 second[/s].
-- **8444**: The current clear time record for "[Reckoning/Abomination/Vagary: Putraxia/Vagary: Rancibus/Vagary: Palloritus/Vagary: Perfidien/Vagary: Plouton/Oathblade]" is $3 minute[/s], $2 second[/s].
-- **8446**: $P16?$P16qL Which battlefield will you enter? [None./Reckoning./Abomination./Vagary: Putraxia. (Difficulty: 128)/Vagary: Rancibus. (Difficulty: 128)/Vagary: Palloritus. (Difficulty: 128)/Vagary: Perfidien. (Difficulty: 130)/Vagary: Plouton. (Difficulty: 132)/Oathblade./]
+- **7710**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7711**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7746**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **8035**: Skip the event? [Yes./No.]
+- **8036**: Battlefield clear time: $3 second[/s]!
+- **8037**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **8038**: The current battlefield clear time record is $3 second[/s].
+- **8039**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **8055**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **8059**: That record is held by $5 adventurers, including %0!
+- **8060**: That record is held by %0!
+- **8061**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **8444**: You have broken the clear time record for "[Reckoning/Abomination/Vagary: Putraxia/Vagary: Rancibus/Vagary: Palloritus/Vagary: Perfidien/Vagary: Plouton/Oathblade]"!
+- **8445**: The current clear time record for "[Reckoning/Abomination/Vagary: Putraxia/Vagary: Rancibus/Vagary: Palloritus/Vagary: Perfidien/Vagary: Plouton/Oathblade]" is $3 second[/s].
+- **8446**: The current clear time record for "[Reckoning/Abomination/Vagary: Putraxia/Vagary: Rancibus/Vagary: Palloritus/Vagary: Perfidien/Vagary: Plouton/Oathblade]" is $3 minute[/s], $2 second[/s].
+- **8448**: $P16?$P16qL Which battlefield will you enter? [None./Reckoning./Abomination./Vagary: Putraxia. (Difficulty: 128)/Vagary: Rancibus. (Difficulty: 128)/Vagary: Palloritus. (Difficulty: 128)/Vagary: Perfidien. (Difficulty: 130)/Vagary: Plouton. (Difficulty: 132)/Oathblade./]
 
 ## Events
 
@@ -1835,7 +1835,7 @@ SUBROUTINE_0093:
  12: 0x0543 [0x03] ExtData[1]->WorkLocal[12] = 4294967295*
  13: 0x0548 [0x0F] ExtData[1]->WorkLocal[12] ^= ExtData[1]->WorkLocal[10]
  14: 0x054D [0x10] ExtData[1]->WorkLocal[12] <<= 1*
- 15: 0x0552 [0x24] CREATE_DIALOG(message_id=8446*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+ 15: 0x0552 [0x24] CREATE_DIALOG(message_id=8448*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "$P16?$P16qL Which battlefield will you enter? [None./Reckoning./Abomination./Vagary: Putraxia. (Difficulty: 128)/Vagary: Rancibus. (Difficulty: 128)/Vagary: Palloritus. (Difficulty: 128)/Vagary: Perfidien. (Difficulty: 130)/Vagary: Plouton. (Difficulty: 132)/Oathblade./]"
  16: 0x0559 [0x25] WAIT_DIALOG_SELECT()
  17: 0x055A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0568
@@ -1848,7 +1848,7 @@ SUBROUTINE_0594:
 
 SUBROUTINE_05A5:
  22: 0x05A5 [0x1A] CALL_SUBROUTINE(address=0x1358)
- 23: 0x05A8 [0x24] CREATE_DIALOG(message_id=8059*, default_option=5*, option_flags=ExtData[1]->WorkLocal[12])
+ 23: 0x05A8 [0x24] CREATE_DIALOG(message_id=8061*, default_option=5*, option_flags=ExtData[1]->WorkLocal[12])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  24: 0x05AF [0x25] WAIT_DIALOG_SELECT()
  25: 0x05B0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05C0
@@ -1874,7 +1874,7 @@ SUBROUTINE_0613:
  43: 0x0616 [0x06] ExtData[1]->WorkLocal[19] = 0
  44: 0x0619 [0x1A] CALL_SUBROUTINE(address=0x0DCA)
  45: 0x061C [0x02] IF !(ExtData[1]->WorkLocal[26] == 1*) GOTO 0x063A
- 46: 0x0624 [0x24] CREATE_DIALOG(message_id=7694*, default_option=1*, option_flags=0*)
+ 46: 0x0624 [0x24] CREATE_DIALOG(message_id=7696*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  47: 0x062B [0x25] WAIT_DIALOG_SELECT()
  48: 0x062C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x063A
@@ -1952,27 +1952,27 @@ SUBROUTINE_0760:
 112: 0x0792 [0x01] GOTO 0x0D73
 113: 0x0795 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x07EE
 114: 0x079D [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x07AC
-115: 0x07A5 [0x48] [System] [7705*]:
+115: 0x07A5 [0x48] [System] [7707*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 116: 0x07A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x07A9 [0x01] GOTO 0x07E8
 118: 0x07AC [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x07BB
-119: 0x07B4 [0x48] [System] [7706*]:
+119: 0x07B4 [0x48] [System] [7708*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 120: 0x07B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x07B8 [0x01] GOTO 0x07E8
 122: 0x07BB [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x07CA
-123: 0x07C3 [0x48] [System] [7707*]:
+123: 0x07C3 [0x48] [System] [7709*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 124: 0x07C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x07C7 [0x01] GOTO 0x07E8
 126: 0x07CA [0x02] IF !(ExtData[1]->WorkLocal[5] == 4*) GOTO 0x07D9
-127: 0x07D2 [0x48] [System] [7708*]:
+127: 0x07D2 [0x48] [System] [7710*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 128: 0x07D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x07D6 [0x01] GOTO 0x07E8
 130: 0x07D9 [0x02] IF !(ExtData[1]->WorkLocal[5] == 5*) GOTO 0x07E8
-131: 0x07E1 [0x48] [System] [7709*]:
+131: 0x07E1 [0x48] [System] [7711*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 132: 0x07E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x07E5 [0x01] GOTO 0x07E8
@@ -1981,7 +1981,7 @@ SUBROUTINE_07E8:
 134: 0x07E8 [0x01] GOTO 0x0D7D
 
 SUBROUTINE_09F8:
-135: 0x09F8 [0x48] [System] [8053*]:
+135: 0x09F8 [0x48] [System] [8055*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 136: 0x09FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x09FC [0x01] GOTO 0x0D7D
@@ -1993,24 +1993,24 @@ SUBROUTINE_0A55:
 141: 0x0A65 [0x02] IF !(ExtData[1]->WorkLocal[30] < 60*) GOTO 0x0A80
 142: 0x0A6D [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 143: 0x0A74 [0x15] Work_Zone[5] /= 60*
-144: 0x0A79 [0x48] [System] [8444*]:
+144: 0x0A79 [0x48] [System] [8446*]:
     → "The current clear time record for "[Reckoning/Abomination/Vagary: Putraxia/Vagary: Rancibus/Vagary: Palloritus/Vagary: Perfidien/Vagary: Plouton/Oathblade]" is $3 minute[/s], $2 second[/s]."
 145: 0x0A7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0A7D [0x01] GOTO 0x0A84
-147: 0x0A80 [0x48] [System] [8443*]:
+147: 0x0A80 [0x48] [System] [8445*]:
     → "The current clear time record for "[Reckoning/Abomination/Vagary: Putraxia/Vagary: Rancibus/Vagary: Palloritus/Vagary: Perfidien/Vagary: Plouton/Oathblade]" is $3 second[/s]."
 148: 0x0A83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0A84:
 149: 0x0A84 [0x02] IF !(ExtData[1]->WorkLocal[17] > 1*) GOTO 0x0A93
-150: 0x0A8C [0x48] [System] [8058*]:
+150: 0x0A8C [0x48] [System] [8060*]:
     → "That record is held by %0!"
 151: 0x0A8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x0A90 [0x01] GOTO 0x0AA4
 153: 0x0A93 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[17]
 154: 0x0A98 [0x0C] Work_Zone[6]--
 155: 0x0A9B [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[17]
-156: 0x0AA0 [0x48] [System] [8057*]:
+156: 0x0AA0 [0x48] [System] [8059*]:
     → "That record is held by $5 adventurers, including %0!"
 157: 0x0AA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2026,7 +2026,7 @@ SUBROUTINE_0AA4:
 SUBROUTINE_0AC8:
 165: 0x0AC8 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0AEE
 166: 0x0AD0 [0x02] IF !(ExtData[1]->WorkLocal[18] == 1*) GOTO 0x0AEE
-167: 0x0AD8 [0x24] CREATE_DIALOG(message_id=8033*, default_option=1*, option_flags=0*)
+167: 0x0AD8 [0x24] CREATE_DIALOG(message_id=8035*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 168: 0x0ADF [0x25] WAIT_DIALOG_SELECT()
 169: 0x0AE0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AEE
@@ -2163,7 +2163,7 @@ SUBROUTINE_0D63:
 SUBROUTINE_0D73:
 291: 0x0D73 [0x0B] ExtData[1]->WorkLocal[5]++
 292: 0x0D76 [0x01] GOTO 0x0699
-293: 0x0D79 [0x48] [System] [7697*]:
+293: 0x0D79 [0x48] [System] [7699*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 294: 0x0D7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2344,7 +2344,7 @@ SUBROUTINE_0F12:
  29: 0x0F1D [0x01] GOTO 0x0F3B
  30: 0x0F20 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x0F7F
  31: 0x0F28 [0x1C] WAIT(15* ticks)
- 32: 0x0F2B [0x24] CREATE_DIALOG(message_id=8033*, default_option=1*, option_flags=0*)
+ 32: 0x0F2B [0x24] CREATE_DIALOG(message_id=8035*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  33: 0x0F32 [0x25] WAIT_DIALOG_SELECT()
  34: 0x0F33 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F7F
@@ -2364,18 +2364,18 @@ SUBROUTINE_0FB1:
  44: 0x0FBE [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0FD9
  45: 0x0FC6 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
  46: 0x0FCD [0x15] Work_Zone[5] /= 60*
- 47: 0x0FD2 [0x48] [System] [8035*]:
+ 47: 0x0FD2 [0x48] [System] [8037*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
  48: 0x0FD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0FD6 [0x01] GOTO 0x0FDD
- 50: 0x0FD9 [0x48] [System] [8034*]:
+ 50: 0x0FD9 [0x48] [System] [8036*]:
     → "Battlefield clear time: $3 second[/s]!"
  51: 0x0FDC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0FDD:
  52: 0x0FDD [0x02] IF !(ExtData[1]->WorkLocal[31] > ExtData[1]->WorkLocal[30]) GOTO 0x0FF1
  53: 0x0FE5 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[29]
- 54: 0x0FEA [0x48] [System] [8442*]:
+ 54: 0x0FEA [0x48] [System] [8444*]:
     → "You have broken the clear time record for "[Reckoning/Abomination/Vagary: Putraxia/Vagary: Rancibus/Vagary: Palloritus/Vagary: Perfidien/Vagary: Plouton/Oathblade]"!"
  55: 0x0FED [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0FEE [0x01] GOTO 0x101A
@@ -2383,12 +2383,12 @@ SUBROUTINE_0FDD:
  58: 0x0FF9 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[30]
  59: 0x0FFE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
  60: 0x1005 [0x15] Work_Zone[5] /= 60*
- 61: 0x100A [0x48] [System] [8037*]:
+ 61: 0x100A [0x48] [System] [8039*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
  62: 0x100D [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x100E [0x01] GOTO 0x101A
  64: 0x1011 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[30]
- 65: 0x1016 [0x48] [System] [8036*]:
+ 65: 0x1016 [0x48] [System] [8038*]:
     → "The current battlefield clear time record is $3 second[/s]."
  66: 0x1019 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2636,7 +2636,7 @@ SUBROUTINE_1166:
      0x11F1 [0x47] WAIT_PLAYER_POS_UPDATE
      0x11F3 [0x01] GOTO 0x11F6
      0x11F6 [0x1B] RETURN
-     0x11F7 [0x24] CREATE_DIALOG(message_id=7694*, default_option=1*, option_flags=0*)
+     0x11F7 [0x24] CREATE_DIALOG(message_id=7696*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x11FE [0x25] WAIT_DIALOG_SELECT()
      0x11FF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x120D
@@ -2686,7 +2686,7 @@ SUBROUTINE_1166:
      0x12E9 [0x1C] WAIT(30* ticks)
      0x12EC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
      0x12FB [0x1B] RETURN
-     0x12FC [0x24] CREATE_DIALOG(message_id=7695*, default_option=1*, option_flags=0*)
+     0x12FC [0x24] CREATE_DIALOG(message_id=7697*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x1303 [0x25] WAIT_DIALOG_SELECT()
      0x1304 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1312

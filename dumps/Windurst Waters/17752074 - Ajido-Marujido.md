@@ -114,50 +114,50 @@
 |      24 | 0xFFFF3D82  |  4294917506 |
 |      25 | 0x2C2B8     |      180920 |
 |      26 | 0xFFFFE6C4  |  4294960836 |
-|      27 | 0x21A4      |        8612 |
-|      28 | 0x21A5      |        8613 |
-|      29 | 0x21A6      |        8614 |
-|      30 | 0x21A7      |        8615 |
-|      31 | 0x21AA      |        8618 |
-|      32 | 0x21AF      |        8623 |
-|      33 | 0x21B4      |        8628 |
-|      34 | 0x21B6      |        8630 |
-|      35 | 0x21BC      |        8636 |
-|      36 | 0x21BD      |        8637 |
-|      37 | 0x21BF      |        8639 |
-|      38 | 0x21C4      |        8644 |
-|      39 | 0x21DD      |        8669 |
-|      40 | 0x21DE      |        8670 |
-|      41 | 0x21DF      |        8671 |
-|      42 | 0x21F0      |        8688 |
-|      43 | 0x21F1      |        8689 |
-|      44 | 0x21F3      |        8691 |
-|      45 | 0x21F4      |        8692 |
-|      46 | 0x21F6      |        8694 |
-|      47 | 0x21E5      |        8677 |
-|      48 | 0x21E9      |        8681 |
-|      49 | 0x21EA      |        8682 |
-|      50 | 0x221A      |        8730 |
-|      51 | 0x221F      |        8735 |
-|      52 | 0x2227      |        8743 |
-|      53 | 0x222A      |        8746 |
-|      54 | 0x21FE      |        8702 |
-|      55 | 0x2200      |        8704 |
-|      56 | 0x2201      |        8705 |
-|      57 | 0x220C      |        8716 |
-|      58 | 0x220F      |        8719 |
-|      59 | 0x2213      |        8723 |
-|      60 | 0x2214      |        8724 |
-|      61 | 0x2215      |        8725 |
+|      27 | 0x21A6      |        8614 |
+|      28 | 0x21A7      |        8615 |
+|      29 | 0x21A8      |        8616 |
+|      30 | 0x21A9      |        8617 |
+|      31 | 0x21AC      |        8620 |
+|      32 | 0x21B1      |        8625 |
+|      33 | 0x21B6      |        8630 |
+|      34 | 0x21B8      |        8632 |
+|      35 | 0x21BE      |        8638 |
+|      36 | 0x21BF      |        8639 |
+|      37 | 0x21C1      |        8641 |
+|      38 | 0x21C6      |        8646 |
+|      39 | 0x21DF      |        8671 |
+|      40 | 0x21E0      |        8672 |
+|      41 | 0x21E1      |        8673 |
+|      42 | 0x21F2      |        8690 |
+|      43 | 0x21F3      |        8691 |
+|      44 | 0x21F5      |        8693 |
+|      45 | 0x21F6      |        8694 |
+|      46 | 0x21F8      |        8696 |
+|      47 | 0x21E7      |        8679 |
+|      48 | 0x21EB      |        8683 |
+|      49 | 0x21EC      |        8684 |
+|      50 | 0x221C      |        8732 |
+|      51 | 0x2221      |        8737 |
+|      52 | 0x2229      |        8745 |
+|      53 | 0x222C      |        8748 |
+|      54 | 0x2200      |        8704 |
+|      55 | 0x2202      |        8706 |
+|      56 | 0x2203      |        8707 |
+|      57 | 0x220E      |        8718 |
+|      58 | 0x2211      |        8721 |
+|      59 | 0x2215      |        8725 |
+|      60 | 0x2216      |        8726 |
+|      61 | 0x2217      |        8727 |
 |      62 | 0x008A      |         138 |
 |      63 | 0x0000      |           0 |
-|      64 | 0x1BAB      |        7083 |
+|      64 | 0x1BAD      |        7085 |
 |      65 | 0x00EE      |         238 |
 |      66 | 0x0001      |           1 |
 |      67 | 0xFFFF738B  |  4294931339 |
 |      68 | 0xE87F      |       59519 |
-|      69 | 0x1BAC      |        7084 |
-|      70 | 0x2216      |        8726 |
+|      69 | 0x1BAE      |        7086 |
+|      70 | 0x2218      |        8728 |
 |      71 | 0x3AD7      |       15063 |
 |      72 | 0xFFFCFCDF  |  4294769887 |
 |      73 | 0xFFFFD9EA  |  4294957546 |
@@ -165,53 +165,53 @@
 |      75 | 0x5FAA      |       24490 |
 |      76 | 0xFFFCFA16  |  4294769174 |
 |      77 | 0xFFFFD9EB  |  4294957547 |
-|      78 | 0x1DC6      |        7622 |
-|      79 | 0x1DC7      |        7623 |
-|      80 | 0x1DC9      |        7625 |
-|      81 | 0x1DCA      |        7626 |
+|      78 | 0x1DC8      |        7624 |
+|      79 | 0x1DC9      |        7625 |
+|      80 | 0x1DCB      |        7627 |
+|      81 | 0x1DCC      |        7628 |
 
 ## String References
 
-- **7622**: I know, I know. That's why I'm asking you for your cooperation.
-- **7623**: Our objectives coincide... I'm in search of Karaha-Baruha's laboratory, and you're in search of the great beast's lair.
-- **7625**: You don't get what I'm saying. That's why I'm asking you! Listen. On the night Rukususu comes back from the Northlands...
-- **7626**: ...Let's continue this discussion later! Ta-taru!
-- **8612**: What's the mattaru?
-- **8613**: Oh... Seeing you standing there gazing into the distance, I thought you were looking at something interesting. Seems as though you were just taking in the atmosphere of peaceful old Windurst.
-- **8614**: But I couldn't say that these are the most peaceful times Windurst has seen...
-- **8615**: If the Great Tree were to wither up and die, this whole country would pass away with it. Sadly, that end could be nigh...
-- **8618**: You've got it all wrong again, Apururu. This poor adventurer was lost, so I kindly offered to help. Isn't that rightaru?
-- **8623**: Oh, really? Are you trying to trick us city folk into thinking you're not some yokel or country bumpkin?
-- **8628**: Heh, brawn over brain, huh? As I always say, a life lived short is a life lived well!
-- **8630**: Why? It's true, isn'taru it?
-- **8636**: ...But whether or not there are fellow adventurers nearby who want to lend you a hand is another mattaru.
-- **8637**: If no one comes to your help, well, that's just your bad luck, I suppose.
-- **8639**: ......
-- **8644**: Enough already! So much information at once is bound to confuse even the smartest Tarutaru. Besides, I don't have the time to be offering newbie-woobies free tours of our town.
-- **8669**: ...Phew! Impossible to get a word in edgewise, isn't it? She may be my little sister, but I don't understand her at all.
-- **8670**: Well, I'd best be off, too. See you around, I suppose. Ta-taru!
-- **8671**: Duh! That's easy-weasy. Just walk around the whole town and talk to anybody and everybody.
-- **8677**: Humph. Watch out if you're going to deal with her. She loves to boss people around. Especially new arrivals like yourself.
-- **8681**: What did you call me!? That's rich, coming from fuddy-duddy, hoity-toity, you! Don't forget who's been looking after you all these years!
-- **8682**: Well, I never! I don't have the time for this nonsense. I'm off!
-- **8688**: Don't be too hard on novice adventurers. I think it's only rational to first improve one's economic standing before setting out on a new adventuring enterprise.
-- **8689**: In fact, I think I know justaru the right person to help you out...
-- **8691**: The hatter! Lately he's been calling out to my students, telling them that he'll give them some pocket money if they help him show off his wares.
-- **8692**: I'd say that the shape of your head isn't too displeasing, so you might be able to earn some money...
-- **8694**: ...See, then it's up to how well our friend performs. The more effort one puts in, the more one will earn!
-- **8702**: I hate that place. Windurst Woods is all so higgledy-piggledy, I get lost every time I try to walk through it.
-- **8704**: But I don't go to those places. I usually go to... ...... ............
-- **8705**: Oh, no! I totally forgotaru! I should be preparing for my experiment. Sorry. I've got to run!
-- **8716**: In other words, you're the lowest of the low, the weakest of the weak...
-- **8719**: Yeah, and then you'll be second-lowest of the low, the second most weakest of the weak...
-- **8723**: Yeah, if your rank goes up enough, you might even be able to talk to us on equal footing.
-- **8724**: If you need to know anything else, ask our friend, Jack of Hearts. He's on patrol near the Huntsman's Court.
-- **8725**: Here. If you give old Jack this, I'm sure he'll reward you. To pass him it, target him and select "Trade" from the main menu.
-- **8726**: That's all the help I can give you for now. Well, see you around, newbie.
-- **8730**: This is Tarutaru. We are Windurst. You are our new slave...
-- **8735**: These three ministries are known as the Optistery, Rhinostery, and Aurastery. Respectively, they administrate a library, biological laboratory, and magic school.
-- **8743**: Oh, yeah, and I'm Ajido-Marujido. It'll pay to remember me.
-- **8746**: Hah! Friends... I had better warn you...don't go around telling people you're my friend, rightaru?
+- **7624**: I know, I know. That's why I'm asking you for your cooperation.
+- **7625**: Our objectives coincide... I'm in search of Karaha-Baruha's laboratory, and you're in search of the great beast's lair.
+- **7627**: You don't get what I'm saying. That's why I'm asking you! Listen. On the night Rukususu comes back from the Northlands...
+- **7628**: ...Let's continue this discussion later! Ta-taru!
+- **8614**: What's the mattaru?
+- **8615**: Oh... Seeing you standing there gazing into the distance, I thought you were looking at something interesting. Seems as though you were just taking in the atmosphere of peaceful old Windurst.
+- **8616**: But I couldn't say that these are the most peaceful times Windurst has seen...
+- **8617**: If the Great Tree were to wither up and die, this whole country would pass away with it. Sadly, that end could be nigh...
+- **8620**: You've got it all wrong again, Apururu. This poor adventurer was lost, so I kindly offered to help. Isn't that rightaru?
+- **8625**: Oh, really? Are you trying to trick us city folk into thinking you're not some yokel or country bumpkin?
+- **8630**: Heh, brawn over brain, huh? As I always say, a life lived short is a life lived well!
+- **8632**: Why? It's true, isn'taru it?
+- **8638**: ...But whether or not there are fellow adventurers nearby who want to lend you a hand is another mattaru.
+- **8639**: If no one comes to your help, well, that's just your bad luck, I suppose.
+- **8641**: ......
+- **8646**: Enough already! So much information at once is bound to confuse even the smartest Tarutaru. Besides, I don't have the time to be offering newbie-woobies free tours of our town.
+- **8671**: ...Phew! Impossible to get a word in edgewise, isn't it? She may be my little sister, but I don't understand her at all.
+- **8672**: Well, I'd best be off, too. See you around, I suppose. Ta-taru!
+- **8673**: Duh! That's easy-weasy. Just walk around the whole town and talk to anybody and everybody.
+- **8679**: Humph. Watch out if you're going to deal with her. She loves to boss people around. Especially new arrivals like yourself.
+- **8683**: What did you call me!? That's rich, coming from fuddy-duddy, hoity-toity, you! Don't forget who's been looking after you all these years!
+- **8684**: Well, I never! I don't have the time for this nonsense. I'm off!
+- **8690**: Don't be too hard on novice adventurers. I think it's only rational to first improve one's economic standing before setting out on a new adventuring enterprise.
+- **8691**: In fact, I think I know justaru the right person to help you out...
+- **8693**: The hatter! Lately he's been calling out to my students, telling them that he'll give them some pocket money if they help him show off his wares.
+- **8694**: I'd say that the shape of your head isn't too displeasing, so you might be able to earn some money...
+- **8696**: ...See, then it's up to how well our friend performs. The more effort one puts in, the more one will earn!
+- **8704**: I hate that place. Windurst Woods is all so higgledy-piggledy, I get lost every time I try to walk through it.
+- **8706**: But I don't go to those places. I usually go to... ...... ............
+- **8707**: Oh, no! I totally forgotaru! I should be preparing for my experiment. Sorry. I've got to run!
+- **8718**: In other words, you're the lowest of the low, the weakest of the weak...
+- **8721**: Yeah, and then you'll be second-lowest of the low, the second most weakest of the weak...
+- **8725**: Yeah, if your rank goes up enough, you might even be able to talk to us on equal footing.
+- **8726**: If you need to know anything else, ask our friend, Jack of Hearts. He's on patrol near the Huntsman's Court.
+- **8727**: Here. If you give old Jack this, I'm sure he'll reward you. To pass him it, target him and select "Trade" from the main menu.
+- **8728**: That's all the help I can give you for now. Well, see you around, newbie.
+- **8732**: This is Tarutaru. We are Windurst. You are our new slave...
+- **8737**: These three ministries are known as the Optistery, Rhinostery, and Aurastery. Respectively, they administrate a library, biological laboratory, and magic school.
+- **8745**: Oh, yeah, and I'm Ajido-Marujido. It'll pay to remember me.
+- **8748**: Hah! Friends... I had better warn you...don't go around telling people you're my friend, rightaru?
 
 ## Events
 
@@ -1041,7 +1041,7 @@
 
 ```
   0: 0x0216 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=8612*)
+  1: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=8614*)
     → "What's the mattaru?"
   2: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0221 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1069,7 +1069,7 @@
 
 ```
   0: 0x0229 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=8613*)
+  1: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=8615*)
     → "Oh... Seeing you standing there gazing into the distance, I thought you were looking at something interesting. Seems as though you were just taking in the atmosphere of peaceful old Windurst."
   2: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0234 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1099,12 +1099,12 @@
 
 ```
   0: 0x023C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x0D)
-  1: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=8614*)
+  1: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=8616*)
     → "But I couldn't say that these are the most peaceful times Windurst has seen..."
   2: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0247 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x0E)
   4: 0x024E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x0F)
-  5: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8615*)
+  5: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8617*)
     → "If the Great Tree were to wither up and die, this whole country would pass away with it. Sadly, that end could be nigh..."
   6: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0259 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x10)
@@ -1132,7 +1132,7 @@
 
 ```
   0: 0x0261 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=8618*)
+  1: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=8620*)
     → "You've got it all wrong again, Apururu. This poor adventurer was lost, so I kindly offered to help. Isn't that rightaru?"
   2: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x026C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1160,7 +1160,7 @@
 
 ```
   0: 0x0274 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=8623*)
+  1: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=8625*)
     → "Oh, really? Are you trying to trick us city folk into thinking you're not some yokel or country bumpkin?"
   2: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x027F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1188,7 +1188,7 @@
 
 ```
   0: 0x0287 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=8628*)
+  1: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=8630*)
     → "Heh, brawn over brain, huh? As I always say, a life lived short is a life lived well!"
   2: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0292 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1216,7 +1216,7 @@
 
 ```
   0: 0x029A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8630*)
+  1: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8632*)
     → "Why? It's true, isn'taru it?"
   2: 0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1245,10 +1245,10 @@
 
 ```
   0: 0x02AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8636*)
+  1: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8638*)
     → "...But whether or not there are fellow adventurers nearby who want to lend you a hand is another mattaru."
   2: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8637*)
+  3: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8639*)
     → "If no one comes to your help, well, that's just your bad luck, I suppose."
   4: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1274,7 +1274,7 @@
 #### Opcodes
 
 ```
-  0: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8639*)
+  0: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8641*)
     → "......"
   1: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02C8 [0x00] END_REQSTACK()
@@ -1301,7 +1301,7 @@
 
 ```
   0: 0x02C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8644*)
+  1: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8646*)
     → "Enough already! So much information at once is bound to confuse even the smartest Tarutaru. Besides, I don't have the time to be offering newbie-woobies free tours of our town."
   2: 0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1328,7 +1328,7 @@
 #### Opcodes
 
 ```
-  0: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8669*)
+  0: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8671*)
     → "...Phew! Impossible to get a word in edgewise, isn't it? She may be my little sister, but I don't understand her at all."
   1: 0x02DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E0 [0x00] END_REQSTACK()
@@ -1353,7 +1353,7 @@
 #### Opcodes
 
 ```
-  0: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8670*)
+  0: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8672*)
     → "Well, I'd best be off, too. See you around, I suppose. Ta-taru!"
   1: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E5 [0x00] END_REQSTACK()
@@ -1380,7 +1380,7 @@
 
 ```
   0: 0x02E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8671*)
+  1: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8673*)
     → "Duh! That's easy-weasy. Just walk around the whole town and talk to anybody and everybody."
   2: 0x02F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1408,7 +1408,7 @@
 
 ```
   0: 0x02F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0300 [0x1D] PRINT_EVENT_MESSAGE(message_id=8688*)
+  1: 0x0300 [0x1D] PRINT_EVENT_MESSAGE(message_id=8690*)
     → "Don't be too hard on novice adventurers. I think it's only rational to first improve one's economic standing before setting out on a new adventuring enterprise."
   2: 0x0303 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0304 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1436,7 +1436,7 @@
 
 ```
   0: 0x030C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=8689*)
+  1: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=8691*)
     → "In fact, I think I know justaru the right person to help you out..."
   2: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0317 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1464,13 +1464,13 @@
 #### Opcodes
 
 ```
-  0: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=8691*)
+  0: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=8693*)
     → "The hatter! Lately he's been calling out to my students, telling them that he'll give them some pocket money if they help him show off his wares."
   1: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0323 [0x4A] Ajido-Marujido (ID: 17752074/0x010EE00A) looks at LocalPlayer
   3: 0x032C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x032D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  5: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=8692*)
+  5: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=8694*)
     → "I'd say that the shape of your head isn't too displeasing, so you might be able to earn some money..."
   6: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0336 [0x00] END_REQSTACK()
@@ -1495,7 +1495,7 @@
 #### Opcodes
 
 ```
-  0: 0x0337 [0x1D] PRINT_EVENT_MESSAGE(message_id=8694*)
+  0: 0x0337 [0x1D] PRINT_EVENT_MESSAGE(message_id=8696*)
     → "...See, then it's up to how well our friend performs. The more effort one puts in, the more one will earn!"
   1: 0x033A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x033B [0x00] END_REQSTACK()
@@ -1522,7 +1522,7 @@
 
 ```
   0: 0x033C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0343 [0x1D] PRINT_EVENT_MESSAGE(message_id=8677*)
+  1: 0x0343 [0x1D] PRINT_EVENT_MESSAGE(message_id=8679*)
     → "Humph. Watch out if you're going to deal with her. She loves to boss people around. Especially new arrivals like yourself."
   2: 0x0346 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0347 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1551,7 +1551,7 @@
 
 ```
   0: 0x034F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0356 [0x1D] PRINT_EVENT_MESSAGE(message_id=8681*)
+  1: 0x0356 [0x1D] PRINT_EVENT_MESSAGE(message_id=8683*)
     → "What did you call me!? That's rich, coming from fuddy-duddy, hoity-toity, you! Don't forget who's been looking after you all these years!"
   2: 0x0359 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x035A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1577,7 +1577,7 @@
 #### Opcodes
 
 ```
-  0: 0x0362 [0x1D] PRINT_EVENT_MESSAGE(message_id=8682*)
+  0: 0x0362 [0x1D] PRINT_EVENT_MESSAGE(message_id=8684*)
     → "Well, I never! I don't have the time for this nonsense. I'm off!"
   1: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0366 [0x00] END_REQSTACK()
@@ -1604,7 +1604,7 @@
 
 ```
   0: 0x0367 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x036E [0x1D] PRINT_EVENT_MESSAGE(message_id=8730*)
+  1: 0x036E [0x1D] PRINT_EVENT_MESSAGE(message_id=8732*)
     → "This is Tarutaru. We are Windurst. You are our new slave..."
   2: 0x0371 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0372 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1632,7 +1632,7 @@
 
 ```
   0: 0x037A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0381 [0x1D] PRINT_EVENT_MESSAGE(message_id=8735*)
+  1: 0x0381 [0x1D] PRINT_EVENT_MESSAGE(message_id=8737*)
     → "These three ministries are known as the Optistery, Rhinostery, and Aurastery. Respectively, they administrate a library, biological laboratory, and magic school."
   2: 0x0384 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0385 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1660,7 +1660,7 @@
 
 ```
   0: 0x038D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=8743*)
+  1: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=8745*)
     → "Oh, yeah, and I'm Ajido-Marujido. It'll pay to remember me."
   2: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0398 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1688,7 +1688,7 @@
 
 ```
   0: 0x03A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x03A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8746*)
+  1: 0x03A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8748*)
     → "Hah! Friends... I had better warn you...don't go around telling people you're my friend, rightaru?"
   2: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1716,7 +1716,7 @@
 
 ```
   0: 0x03B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8702*)
+  1: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8704*)
     → "I hate that place. Windurst Woods is all so higgledy-piggledy, I get lost every time I try to walk through it."
   2: 0x03BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1742,7 +1742,7 @@
 #### Opcodes
 
 ```
-  0: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8704*)
+  0: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8706*)
     → "But I don't go to those places. I usually go to... ...... ............"
   1: 0x03C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03CA [0x00] END_REQSTACK()
@@ -1769,7 +1769,7 @@
 
 ```
   0: 0x03CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8705*)
+  1: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8707*)
     → "Oh, no! I totally forgotaru! I should be preparing for my experiment. Sorry. I've got to run!"
   2: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1798,7 +1798,7 @@
 
 ```
   0: 0x03DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x03E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8716*)
+  1: 0x03E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8718*)
     → "In other words, you're the lowest of the low, the weakest of the weak..."
   2: 0x03E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1826,7 +1826,7 @@
 
 ```
   0: 0x03F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x03F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8719*)
+  1: 0x03F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8721*)
     → "Yeah, and then you'll be second-lowest of the low, the second most weakest of the weak..."
   2: 0x03FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1854,7 +1854,7 @@
 
 ```
   0: 0x0404 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x040B [0x1D] PRINT_EVENT_MESSAGE(message_id=8723*)
+  1: 0x040B [0x1D] PRINT_EVENT_MESSAGE(message_id=8725*)
     → "Yeah, if your rank goes up enough, you might even be able to talk to us on equal footing."
   2: 0x040E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x040F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x17)
@@ -1893,12 +1893,12 @@
 
 ```
   0: 0x0417 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=8724*)
+  1: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=8726*)
     → "If you need to know anything else, ask our friend, Jack of Hearts. He's on patrol near the Huntsman's Court."
   2: 0x0421 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0422 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x02)
   4: 0x0429 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x11)
-  5: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=8725*)
+  5: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=8727*)
     → "Here. If you give old Jack this, I'm sure he'll reward you. To pass him it, target him and select "Trade" from the main menu."
   6: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0434 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x12)
@@ -1907,7 +1907,7 @@
  10: 0x044D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  11: 0x045E [0x79] Ajido-Marujido (ID: 17752074/0x010EE00A) looks at Apururu (ID: 17752075/0x010EE00B) (Basic look)
  12: 0x0468 [0x4A] Apururu (ID: 17752075/0x010EE00B) looks at LocalPlayer
- 13: 0x0471 [0x2B] Apururu (ID: 17752075/0x010EE00B) [7083*]:
+ 13: 0x0471 [0x2B] Apururu (ID: 17752075/0x010EE00B) [7085*]:
     → "Jackkedy-Wack is what we in Windurst call a "Cardian.""
  14: 0x0478 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0479 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1929,7 +1929,7 @@
      0x04C7 [0x8A] CLOSE_MAP()
      0x04C8 [0x79] Ajido-Marujido (ID: 17752074/0x010EE00A) looks at LocalPlayer (Basic look)
      0x04D2 [0x1C] WAIT(30* ticks)
-     0x04D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8726*)
+     0x04D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8728*)
     → "That's all the help I can give you for now. Well, see you around, newbie."
      0x04D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04D9 [0x7B] EventEntity stops talking
@@ -2032,10 +2032,10 @@
 
 ```
   0: 0x0501 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0508 [0x1D] PRINT_EVENT_MESSAGE(message_id=7622*)
+  1: 0x0508 [0x1D] PRINT_EVENT_MESSAGE(message_id=7624*)
     → "I know, I know. That's why I'm asking you for your cooperation."
   2: 0x050B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=7623*)
+  3: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=7625*)
     → "Our objectives coincide... I'm in search of Karaha-Baruha's laboratory, and you're in search of the great beast's lair."
   4: 0x050F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0510 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x03)
@@ -2065,7 +2065,7 @@
 
 ```
   0: 0x051F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x0D)
-  1: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=7625*)
+  1: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=7627*)
     → "You don't get what I'm saying. That's why I'm asking you! Listen. On the night Rukususu comes back from the Northlands..."
   2: 0x0529 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x052A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x0F)
@@ -2093,7 +2093,7 @@
 
 ```
   0: 0x0532 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x01)
-  1: 0x0539 [0x1D] PRINT_EVENT_MESSAGE(message_id=7626*)
+  1: 0x0539 [0x1D] PRINT_EVENT_MESSAGE(message_id=7628*)
     → "...Let's continue this discussion later! Ta-taru!"
   2: 0x053C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x053D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17752074/0x010EE00A), tag_num=0x03)

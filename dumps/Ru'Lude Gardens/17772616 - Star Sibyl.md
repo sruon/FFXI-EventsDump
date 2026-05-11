@@ -61,11 +61,11 @@
 |       3 | 0x22E90     |      142992 |
 |       4 | 0xFFFFA90B  |  4294945035 |
 |       5 | 0x32C7      |       12999 |
-|       6 | 0x2AE6      |       10982 |
-|       7 | 0x2AEA      |       10986 |
-|       8 | 0x2AEC      |       10988 |
-|       9 | 0x2AED      |       10989 |
-|      10 | 0x2AEE      |       10990 |
+|       6 | 0x2AE8      |       10984 |
+|       7 | 0x2AEC      |       10988 |
+|       8 | 0x2AEE      |       10990 |
+|       9 | 0x2AEF      |       10991 |
+|      10 | 0x2AF0      |       10992 |
 |      11 | 0xFFFFFFC2  |  4294967234 |
 |      12 | 0x6048      |       24648 |
 |      13 | 0xFFFF4099  |  4294918297 |
@@ -85,11 +85,11 @@
 
 ## String References
 
-- **10982**: Summoning, you say?
-- **10986**: Hmm...
-- **10988**: Yes... Very.
-- **10989**: Time is of the essence. The lines of battle are at Tahrongi Canyon, and draw close to Sarutabaruta.
-- **10990**: The attack on Oztroja shall fail, and many flames of life will be extinguished...like the Star Reading, long ago.
+- **10984**: Summoning, you say?
+- **10988**: Hmm...
+- **10990**: Yes... Very.
+- **10991**: Time is of the essence. The lines of battle are at Tahrongi Canyon, and draw close to Sarutabaruta.
+- **10992**: The attack on Oztroja shall fail, and many flames of life will be extinguished...like the Star Reading, long ago.
 
 ## Events
 
@@ -714,7 +714,7 @@
 
 ```
   0: 0x0164 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x0B)
-  1: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=10982*)
+  1: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=10984*)
     → "Summoning, you say?"
   2: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x016F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x0C)
@@ -742,7 +742,7 @@
 
 ```
   0: 0x0177 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x0B)
-  1: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=10986*)
+  1: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=10988*)
     → "Hmm..."
   2: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0182 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x0C)
@@ -770,7 +770,7 @@
 
 ```
   0: 0x018A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x0D)
-  1: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=10988*)
+  1: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=10990*)
     → "Yes... Very."
   2: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0195 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x0E)
@@ -798,7 +798,7 @@
 
 ```
   0: 0x019D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x01)
-  1: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10989*)
+  1: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10991*)
     → "Time is of the essence. The lines of battle are at Tahrongi Canyon, and draw close to Sarutabaruta."
   2: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x02)
@@ -826,7 +826,7 @@
 
 ```
   0: 0x01B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x03)
-  1: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10990*)
+  1: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10992*)
     → "The attack on Oztroja shall fail, and many flames of life will be extinguished...like the Star Reading, long ago."
   2: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17772616/0x010F3048), tag_num=0x04)

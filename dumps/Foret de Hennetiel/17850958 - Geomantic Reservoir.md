@@ -23,22 +23,22 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x000D      |          13 |
-|       2 | 0x1F0A      |        7946 |
+|       2 | 0x1F0C      |        7948 |
 |       3 | 0x002D      |          45 |
-|       4 | 0x1F0B      |        7947 |
+|       4 | 0x1F0D      |        7949 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x1F09      |        7945 |
+|       6 | 0x1F0B      |        7947 |
 |       7 | 0x8CA0      |       36000 |
-|       8 | 0x1F0C      |        7948 |
+|       8 | 0x1F0E      |        7950 |
 |       9 | 0x00B4      |         180 |
 |      10 | 0x0710      |        1808 |
 
 ## String References
 
-- **7945**: 
-- **7946**: You are assaulted by an uncanny sensation.
-- **7947**: The arcane energies begin to course within your veins.
-- **7948**: You feel a mystical warmth welling up inside you!
+- **7947**: 
+- **7948**: You are assaulted by an uncanny sensation.
+- **7949**: The arcane energies begin to course within your veins.
+- **7950**: You feel a mystical warmth welling up inside you!
 
 ## Events
 
@@ -102,19 +102,19 @@
   7: 0x0020 [0x4A] LocalPlayer looks at EventEntity
   8: 0x0029 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x002A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 10: 0x002F [0x48] [System] [7946*]:
+ 10: 0x002F [0x48] [System] [7948*]:
     → "You are assaulted by an uncanny sensation."
  11: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0033 [0x6E] LocalPlayer uses emote 45*
  13: 0x003A [0x99] Wait for LocalPlayer animation to complete
- 14: 0x003F [0x48] [System] [7947*]:
+ 14: 0x003F [0x48] [System] [7949*]:
     → "The arcane energies begin to course within your veins."
  15: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0043 [0x1C] WAIT(30* ticks)
  17: 0x0046 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
  18: 0x004B [0x28] REQ_SET_WITH_CONDITIONS(priority=0x10, target_entity=Unknown NPC (ID: 17850959/0x0110624F), tag_num=0x02)
  19: 0x0052 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x10, target_entity=Unknown NPC (ID: 17850960/0x01106250), tag_num=0x02)
- 20: 0x0059 [0x48] [System] [7945*]:
+ 20: 0x0059 [0x48] [System] [7947*]:
     → ""
  21: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x005D [0x7A] VM_CONTROL: Reset VM for Unknown NPC (ID: 17850959/0x0110624F)
@@ -123,7 +123,7 @@
  25: 0x0070 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[3]
  26: 0x0075 [0x02] IF !(ExtData[1]->WorkLocal[5] < 36000*) GOTO 0x0082
  27: 0x007D [0x03] ExtData[1]->WorkLocal[5] = 36000*
- 28: 0x0082 [0x48] [System] [7948*]:
+ 28: 0x0082 [0x48] [System] [7950*]:
     → "You feel a mystical warmth welling up inside you!"
  29: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0086 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [Geomantic Reservoir (ID: 17850958/0x0110624E), LocalPlayer], work=ExtData[1]->WorkLocal[2]

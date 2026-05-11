@@ -22,11 +22,11 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0009      |           9 |
-|       2 | 0x3022      |       12322 |
+|       2 | 0x3024      |       12324 |
 
 ## String References
 
-- **12322**: Due to the encroaching threat of the Quadav Shieldwarriors, entry to Southern Gustaberg is currently prohibited. The Republic appreciates your understanding.
+- **12324**: Due to the encroaching threat of the Quadav Shieldwarriors, entry to Southern Gustaberg is currently prohibited. The Republic appreciates your understanding.
 
 ## Events
 
@@ -75,7 +75,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12322*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12324*)
     → "Due to the encroaching threat of the Quadav Shieldwarriors, entry to Southern Gustaberg is currently prohibited. The Republic appreciates your understanding."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x21] END_EVENT

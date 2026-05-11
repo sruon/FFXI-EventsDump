@@ -64,21 +64,21 @@
 |      14 | 0xFFFC8E28  |  4294741544 |
 |      15 | 0x242A1     |      148129 |
 |      16 | 0x0015      |          21 |
-|      17 | 0x1CC7      |        7367 |
-|      18 | 0x1CCA      |        7370 |
-|      19 | 0x1CCB      |        7371 |
-|      20 | 0x1CCC      |        7372 |
-|      21 | 0x1CCD      |        7373 |
-|      22 | 0x1CD1      |        7377 |
+|      17 | 0x1CC9      |        7369 |
+|      18 | 0x1CCC      |        7372 |
+|      19 | 0x1CCD      |        7373 |
+|      20 | 0x1CCE      |        7374 |
+|      21 | 0x1CCF      |        7375 |
+|      22 | 0x1CD3      |        7379 |
 
 ## String References
 
-- **7367**: What might-ethy this be?
-- **7370**: You imbeciles! This is a new bud--a bud of the Great Star Tree.
-- **7371**: The Great Star Tree knows-ethy that it is in danger. It buds to save-ethy itself, it does.
-- **7372**: But, until now, no light shone-ethy in here. The bud cried for help-ethy. It is good that we got-ethy here in time.
-- **7373**: I thank-ethy you, adventurer. You saved-ethy the Great Star Tree!
-- **7377**: But to be so weak to know-ethy it's in danger... This is definitely-ethy a serious problem.
+- **7369**: What might-ethy this be?
+- **7372**: You imbeciles! This is a new bud--a bud of the Great Star Tree.
+- **7373**: The Great Star Tree knows-ethy that it is in danger. It buds to save-ethy itself, it does.
+- **7374**: But, until now, no light shone-ethy in here. The bud cried for help-ethy. It is good that we got-ethy here in time.
+- **7375**: I thank-ethy you, adventurer. You saved-ethy the Great Star Tree!
+- **7379**: But to be so weak to know-ethy it's in danger... This is definitely-ethy a serious problem.
 
 ## Events
 
@@ -690,7 +690,7 @@
 ```
   0: 0x0166 [0x6E] EventEntity uses emote 21*
   1: 0x016D [0x99] Wait for EventEntity animation to complete
-  2: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
+  2: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
     → "What might-ethy this be?"
   3: 0x0175 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0176 [0x00] END_REQSTACK()
@@ -715,10 +715,10 @@
 #### Opcodes
 
 ```
-  0: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+  0: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
     → "You imbeciles! This is a new bud--a bud of the Great Star Tree."
   1: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
+  2: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "The Great Star Tree knows-ethy that it is in danger. It buds to save-ethy itself, it does."
   3: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x017F [0x00] END_REQSTACK()
@@ -743,7 +743,7 @@
 #### Opcodes
 
 ```
-  0: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+  0: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
     → "But, until now, no light shone-ethy in here. The bud cried for help-ethy. It is good that we got-ethy here in time."
   1: 0x0183 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0184 [0x00] END_REQSTACK()
@@ -768,7 +768,7 @@
 #### Opcodes
 
 ```
-  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
+  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
     → "I thank-ethy you, adventurer. You saved-ethy the Great Star Tree!"
   1: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0189 [0x00] END_REQSTACK()
@@ -795,7 +795,7 @@
 
 ```
   0: 0x018A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17563918/0x010C010E), tag_num=0x03)
-  1: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
+  1: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
     → "But to be so weak to know-ethy it's in danger... This is definitely-ethy a serious problem."
   2: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0195 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yoran-Oran (ID: 17563918/0x010C010E), tag_num=0x04)

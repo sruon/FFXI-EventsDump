@@ -34,11 +34,11 @@
 |       5 | 0x0004      |           4 |
 |       6 | 0x0005      |           5 |
 |       7 | 0x0006      |           6 |
-|       8 | 0x1216      |        4630 |
+|       8 | 0x1218      |        4632 |
 |       9 | 0x030E      |         782 |
-|      10 | 0x1202      |        4610 |
-|      11 | 0x1203      |        4611 |
-|      12 | 0x1215      |        4629 |
+|      10 | 0x1204      |        4612 |
+|      11 | 0x1205      |        4613 |
+|      12 | 0x1217      |        4631 |
 |      13 | 0x00C8      |         200 |
 |      14 | 0x003C      |          60 |
 |      15 | 0x0013      |          19 |
@@ -47,35 +47,35 @@
 |      18 | 0x00C9      |         201 |
 |      19 | 0x0096      |         150 |
 |      20 | 0x001E      |          30 |
-|      21 | 0x1208      |        4616 |
-|      22 | 0x120E      |        4622 |
-|      23 | 0x1209      |        4617 |
-|      24 | 0x120A      |        4618 |
-|      25 | 0x120B      |        4619 |
-|      26 | 0x120C      |        4620 |
-|      27 | 0x120D      |        4621 |
+|      21 | 0x120A      |        4618 |
+|      22 | 0x1210      |        4624 |
+|      23 | 0x120B      |        4619 |
+|      24 | 0x120C      |        4620 |
+|      25 | 0x120D      |        4621 |
+|      26 | 0x120E      |        4622 |
+|      27 | 0x120F      |        4623 |
 |      28 | 0x0064      |         100 |
-|      29 | 0x1204      |        4612 |
-|      30 | 0x1205      |        4613 |
-|      31 | 0x1206      |        4614 |
+|      29 | 0x1206      |        4614 |
+|      30 | 0x1207      |        4615 |
+|      31 | 0x1208      |        4616 |
 |      32 | 0x03E8      |        1000 |
 
 ## String References
 
-- **4610**: You may access the portal using $6 or Imperial Standing credits.
-- **4611**: Which will it be? [Use neither./Use Imperial Standing./Use $6.]
-- **4612**: You currently have $0 [credit/credits] of Imperial Standing.. It will cost $1 [credit/credits] to travel to your destination. Proceed?
-- **4613**: Spend Imperial Standing? [No, cancel./Yes, proceed.]
-- **4614**: You do not possess sufficient Imperial Standing.
-- **4616**: You will now be transported to the staging point on Azouph Isle for participation in Assault (Leujaoam Sanctum).
-- **4617**: You will now be transported to the Mamool Ja staging point for participation in Assault (Mamool Ja Training Grounds).
-- **4618**: You will now be transported to the staging point in Halvung for participation in Assault (Lebros Caverns).
-- **4619**: You will now be transported to the staging point on Dvucca Isle for participation in Assault (Periqia).
-- **4620**: You will now be transported to the staging point on the Ilrusi Atoll for participation in Assault.
-- **4621**: You will now be transported to the staging point on Nyzul Isle for participation in Assault.
-- **4622**: Are you ready? [Yes./Not yet.]
-- **4629**: Choose your destination. [I've changed my mind./Azouph Isle (Leujaoam Sanctum)./Dvucca Isle (Periqia)./Mamool Ja staging point./Halvung (Lebros Caverns)./Ilrusi Atoll staging point./Nyzul Isle staging point.]
-- **4630**: You must use the runic portal at each staging point in order to open the route to the Chamber of Passage.
+- **4612**: You may access the portal using $6 or Imperial Standing credits.
+- **4613**: Which will it be? [Use neither./Use Imperial Standing./Use $6.]
+- **4614**: You currently have $0 [credit/credits] of Imperial Standing.. It will cost $1 [credit/credits] to travel to your destination. Proceed?
+- **4615**: Spend Imperial Standing? [No, cancel./Yes, proceed.]
+- **4616**: You do not possess sufficient Imperial Standing.
+- **4618**: You will now be transported to the staging point on Azouph Isle for participation in Assault (Leujaoam Sanctum).
+- **4619**: You will now be transported to the Mamool Ja staging point for participation in Assault (Mamool Ja Training Grounds).
+- **4620**: You will now be transported to the staging point in Halvung for participation in Assault (Lebros Caverns).
+- **4621**: You will now be transported to the staging point on Dvucca Isle for participation in Assault (Periqia).
+- **4622**: You will now be transported to the staging point on the Ilrusi Atoll for participation in Assault.
+- **4623**: You will now be transported to the staging point on Nyzul Isle for participation in Assault.
+- **4624**: Are you ready? [Yes./Not yet.]
+- **4631**: Choose your destination. [I've changed my mind./Azouph Isle (Leujaoam Sanctum)./Dvucca Isle (Periqia)./Mamool Ja staging point./Halvung (Lebros Caverns)./Ilrusi Atoll staging point./Nyzul Isle staging point.]
+- **4632**: You must use the runic portal at each staging point in order to open the route to the Chamber of Passage.
 
 ## Events
 
@@ -261,7 +261,7 @@
  13: 0x0053 [0x3E] IF !(Work_Zone[3] bit 6*) GOTO 0x0061
  14: 0x005A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  15: 0x0061 [0x02] IF !(ExtData[1]->WorkLocal[0] == 126*) GOTO 0x006F
- 16: 0x0069 [0x48] [System] [4630*]:
+ 16: 0x0069 [0x48] [System] [4632*]:
     → "You must use the runic portal at each staging point in order to open the route to the Chamber of Passage."
  17: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x006D [0x21] END_EVENT
@@ -272,10 +272,10 @@
  23: 0x0082 [0x01] GOTO 0x00C6
  24: 0x0085 [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x00C6
  25: 0x008D [0x03] Work_Zone[2] = 782*
- 26: 0x0092 [0x48] [System] [4610*]:
+ 26: 0x0092 [0x48] [System] [4612*]:
     → "You may access the portal using $6 or Imperial Standing credits."
  27: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0096 [0x24] CREATE_DIALOG(message_id=4611*, default_option=0*, option_flags=0*)
+ 28: 0x0096 [0x24] CREATE_DIALOG(message_id=4613*, default_option=0*, option_flags=0*)
     → "Which will it be? [Use neither./Use Imperial Standing./Use $6.]"
  29: 0x009D [0x25] WAIT_DIALOG_SELECT()
  30: 0x009E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AB
@@ -283,7 +283,7 @@
  32: 0x00A7 [0x00] END_REQSTACK()
 
 SUBROUTINE_00C6:
- 33: 0x00C6 [0x24] CREATE_DIALOG(message_id=4629*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 33: 0x00C6 [0x24] CREATE_DIALOG(message_id=4631*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Choose your destination. [I've changed my mind./Azouph Isle (Leujaoam Sanctum)./Dvucca Isle (Periqia)./Mamool Ja staging point./Halvung (Lebros Caverns)./Ilrusi Atoll staging point./Nyzul Isle staging point.]"
  34: 0x00CD [0x25] WAIT_DIALOG_SELECT()
  35: 0x00CE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D9
@@ -545,10 +545,10 @@ SUBROUTINE_07D5:
 
 ```
   0: 0x07D9 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x07DB [0x48] [System] [4616*]:
+  1: 0x07DB [0x48] [System] [4618*]:
     → "You will now be transported to the staging point on Azouph Isle for participation in Assault (Leujaoam Sanctum)."
   2: 0x07DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x07DF [0x24] CREATE_DIALOG(message_id=4622*, default_option=1*, option_flags=0*)
+  3: 0x07DF [0x24] CREATE_DIALOG(message_id=4624*, default_option=1*, option_flags=0*)
     → "Are you ready? [Yes./Not yet.]"
   4: 0x07E6 [0x25] WAIT_DIALOG_SELECT()
   5: 0x07E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08FF
@@ -629,10 +629,10 @@ SUBROUTINE_090A:
 
 ```
   0: 0x090E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0910 [0x48] [System] [4617*]:
+  1: 0x0910 [0x48] [System] [4619*]:
     → "You will now be transported to the Mamool Ja staging point for participation in Assault (Mamool Ja Training Grounds)."
   2: 0x0913 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0914 [0x24] CREATE_DIALOG(message_id=4622*, default_option=1*, option_flags=0*)
+  3: 0x0914 [0x24] CREATE_DIALOG(message_id=4624*, default_option=1*, option_flags=0*)
     → "Are you ready? [Yes./Not yet.]"
   4: 0x091B [0x25] WAIT_DIALOG_SELECT()
   5: 0x091C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A34
@@ -712,10 +712,10 @@ SUBROUTINE_0A3F:
 
 ```
   0: 0x0A43 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0A45 [0x48] [System] [4618*]:
+  1: 0x0A45 [0x48] [System] [4620*]:
     → "You will now be transported to the staging point in Halvung for participation in Assault (Lebros Caverns)."
   2: 0x0A48 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0A49 [0x24] CREATE_DIALOG(message_id=4622*, default_option=1*, option_flags=0*)
+  3: 0x0A49 [0x24] CREATE_DIALOG(message_id=4624*, default_option=1*, option_flags=0*)
     → "Are you ready? [Yes./Not yet.]"
   4: 0x0A50 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0A51 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B69
@@ -795,10 +795,10 @@ SUBROUTINE_0B74:
 
 ```
   0: 0x0B78 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0B7A [0x48] [System] [4619*]:
+  1: 0x0B7A [0x48] [System] [4621*]:
     → "You will now be transported to the staging point on Dvucca Isle for participation in Assault (Periqia)."
   2: 0x0B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0B7E [0x24] CREATE_DIALOG(message_id=4622*, default_option=1*, option_flags=0*)
+  3: 0x0B7E [0x24] CREATE_DIALOG(message_id=4624*, default_option=1*, option_flags=0*)
     → "Are you ready? [Yes./Not yet.]"
   4: 0x0B85 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0B86 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C9E
@@ -879,10 +879,10 @@ SUBROUTINE_0CA9:
 
 ```
   0: 0x0CAD [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0CAF [0x48] [System] [4620*]:
+  1: 0x0CAF [0x48] [System] [4622*]:
     → "You will now be transported to the staging point on the Ilrusi Atoll for participation in Assault."
   2: 0x0CB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0CB3 [0x24] CREATE_DIALOG(message_id=4622*, default_option=1*, option_flags=0*)
+  3: 0x0CB3 [0x24] CREATE_DIALOG(message_id=4624*, default_option=1*, option_flags=0*)
     → "Are you ready? [Yes./Not yet.]"
   4: 0x0CBA [0x25] WAIT_DIALOG_SELECT()
   5: 0x0CBB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DD3
@@ -969,10 +969,10 @@ SUBROUTINE_0DDE:
 
 ```
   0: 0x0DE2 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0DE4 [0x48] [System] [4621*]:
+  1: 0x0DE4 [0x48] [System] [4623*]:
     → "You will now be transported to the staging point on Nyzul Isle for participation in Assault."
   2: 0x0DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0DE8 [0x24] CREATE_DIALOG(message_id=4622*, default_option=1*, option_flags=0*)
+  3: 0x0DE8 [0x24] CREATE_DIALOG(message_id=4624*, default_option=1*, option_flags=0*)
     → "Are you ready? [Yes./Not yet.]"
   4: 0x0DEF [0x25] WAIT_DIALOG_SELECT()
   5: 0x0DF0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F08
@@ -1025,10 +1025,10 @@ SUBROUTINE_0F13:
      0x0F34 [0x01] GOTO 0x0F81
      0x0F37 [0x03] Work_Zone[2] = Work_Zone[5]
      0x0F3C [0x03] Work_Zone[3] = 200*
-     0x0F41 [0x48] [System] [4612*]:
+     0x0F41 [0x48] [System] [4614*]:
     → "You currently have $0 [credit/credits] of Imperial Standing.. It will cost $1 [credit/credits] to travel to your destination. Proceed?"
      0x0F44 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0F45 [0x24] CREATE_DIALOG(message_id=4613*, default_option=0*, option_flags=0*)
+     0x0F45 [0x24] CREATE_DIALOG(message_id=4615*, default_option=0*, option_flags=0*)
     → "Spend Imperial Standing? [No, cancel./Yes, proceed.]"
      0x0F4C [0x25] WAIT_DIALOG_SELECT()
      0x0F4D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F5D
@@ -1036,7 +1036,7 @@ SUBROUTINE_0F13:
      0x0F5A [0x01] GOTO 0x0F81
      0x0F5D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0F81
      0x0F65 [0x02] IF !(Work_Zone[5] >= 200*) GOTO 0x0F79
-     0x0F6D [0x48] [System] [4614*]:
+     0x0F6D [0x48] [System] [4616*]:
     → "You do not possess sufficient Imperial Standing."
      0x0F70 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F71 [0x03] ExtData[1]->WorkLocal[1] = 1*

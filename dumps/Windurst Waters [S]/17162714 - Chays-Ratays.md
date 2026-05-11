@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x2ABD      |       10941 |
-|       3 | 0x2ABE      |       10942 |
+|       2 | 0x2ABF      |       10943 |
+|       3 | 0x2AC0      |       10944 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  3: 0x001C [0x2B] EventEntity [10941*]:
+  3: 0x001C [0x2B] EventEntity [10943*]:
     → "This is the Rhinostery, home to a myriad of research and study concerning all things animal and plantaru."
   4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0024 [0x2B] EventEntity [10942*]:
+  5: 0x0024 [0x2B] EventEntity [10944*]:
     → "Unfortunately, with the way things are, we aren't able to conduct our fieldwork outside the city to the extentaru that we would like."
   6: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

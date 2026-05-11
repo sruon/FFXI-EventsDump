@@ -53,30 +53,30 @@
 |      14 | 0x1D69C     |      120476 |
 |      15 | 0x0B93      |        2963 |
 |      16 | 0x0014      |          20 |
-|      17 | 0x2C51      |       11345 |
+|      17 | 0x2C53      |       11347 |
 |      18 | 0x001E      |          30 |
-|      19 | 0x2C52      |       11346 |
+|      19 | 0x2C54      |       11348 |
 |      20 | 0x0391      |         913 |
-|      21 | 0x2C53      |       11347 |
-|      22 | 0x2C54      |       11348 |
-|      23 | 0x2BEA      |       11242 |
-|      24 | 0x2C55      |       11349 |
+|      21 | 0x2C55      |       11349 |
+|      22 | 0x2C56      |       11350 |
+|      23 | 0x2BEC      |       11244 |
+|      24 | 0x2C57      |       11351 |
 |      25 | 0x003C      |          60 |
-|      26 | 0x2C57      |       11351 |
+|      26 | 0x2C59      |       11353 |
 |      27 | 0x0001      |           1 |
-|      28 | 0x2C56      |       11350 |
+|      28 | 0x2C58      |       11352 |
 |      29 | 0x40000000  |  1073741824 |
-|      30 | 0x2C5B      |       11355 |
-|      31 | 0x2C58      |       11352 |
+|      30 | 0x2C5D      |       11357 |
+|      31 | 0x2C5A      |       11354 |
 |      32 | 0x339B      |       13211 |
-|      33 | 0x2C59      |       11353 |
+|      33 | 0x2C5B      |       11355 |
 |      34 | 0x00C9      |         201 |
-|      35 | 0x2C5A      |       11354 |
-|      36 | 0x2C5C      |       11356 |
+|      35 | 0x2C5C      |       11356 |
+|      36 | 0x2C5E      |       11358 |
 |      37 | 0x033C      |         828 |
-|      38 | 0x2FB6      |       12214 |
-|      39 | 0x2FC5      |       12229 |
-|      40 | 0x2FC6      |       12230 |
+|      38 | 0x2FB8      |       12216 |
+|      39 | 0x2FC7      |       12231 |
+|      40 | 0x2FC8      |       12232 |
 |      41 | 0x20478     |      132216 |
 |      42 | 0x1D40F     |      119823 |
 |      43 | 0x0A07      |        2567 |
@@ -87,22 +87,22 @@
 
 ## String References
 
-- **11242**: Well? [I accept./I must decline.]
-- **11345**: Behold the candles on either side of the epitaph. Vigilantly their flames have burned since the departure of Papsque Muchavatte.
-- **11346**: They are placed here to light his way to Paradise.
-- **11347**: But many a candle are needed to keep his journey alight. Ever must the faithful bring $0 for candle-making.
-- **11348**: We humbly ask visitors to donate two $0. Would you make an offering?
-- **11349**: Altana smiles on the generous. Once you have obtained two $0, carry them hither.
-- **11350**: Surely the late papsque frowns upon you. Return hither when you remember charity.
-- **11351**: May Paradise open its gates to you.
-- **11352**: I thank you for offering two $0. The late papsque would be pleased.
-- **11353**: In thanks for your service, the San d'Oria Cathedral presents you with this $0. Wear it, and Altana's providence will be yours.
-- **11354**: I thank you for your generous offering, but I am afraid I cannot accept this.
-- **11355**: I await your offering.
-- **11356**: Thank you for your generous service.
-- **12214**: Have you come to pray, my child? First fetch $0. You will be judged by your actions, not words.
-- **12229**: You have angered His Holiness! You had best leave, and reflect upon your trespasses!
-- **12230**: Come not hither again! Understood?
+- **11244**: Well? [I accept./I must decline.]
+- **11347**: Behold the candles on either side of the epitaph. Vigilantly their flames have burned since the departure of Papsque Muchavatte.
+- **11348**: They are placed here to light his way to Paradise.
+- **11349**: But many a candle are needed to keep his journey alight. Ever must the faithful bring $0 for candle-making.
+- **11350**: We humbly ask visitors to donate two $0. Would you make an offering?
+- **11351**: Altana smiles on the generous. Once you have obtained two $0, carry them hither.
+- **11352**: Surely the late papsque frowns upon you. Return hither when you remember charity.
+- **11353**: May Paradise open its gates to you.
+- **11354**: I thank you for offering two $0. The late papsque would be pleased.
+- **11355**: In thanks for your service, the San d'Oria Cathedral presents you with this $0. Wear it, and Altana's providence will be yours.
+- **11356**: I thank you for your generous offering, but I am afraid I cannot accept this.
+- **11357**: I await your offering.
+- **11358**: Thank you for your generous service.
+- **12216**: Have you come to pray, my child? First fetch $0. You will be judged by your actions, not words.
+- **12231**: You have angered His Holiness! You had best leave, and reflect upon your trespasses!
+- **12232**: Come not hither again! Understood?
 
 ## Events
 
@@ -257,38 +257,38 @@
   1: 0x005D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=11345*)
+  4: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=11347*)
     → "Behold the candles on either side of the epitaph. Vigilantly their flames have burned since the departure of Papsque Muchavatte."
   5: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0072 [0x1C] WAIT(30* ticks)
-  7: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=11346*)
+  7: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=11348*)
     → "They are placed here to light his way to Paradise."
   8: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0079 [0x1C] WAIT(30* ticks)
  10: 0x007C [0x03] Work_Zone[2] = 913*
- 11: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=11347*)
+ 11: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=11349*)
     → "But many a candle are needed to keep his journey alight. Ever must the faithful bring $0 for candle-making."
  12: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0085 [0x1C] WAIT(30* ticks)
- 14: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=11348*)
+ 14: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=11350*)
     → "We humbly ask visitors to donate two $0. Would you make an offering?"
  15: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x008C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  17: 0x009B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
- 18: 0x00A8 [0x24] CREATE_DIALOG(message_id=11242*, default_option=0*, option_flags=0*)
+ 18: 0x00A8 [0x24] CREATE_DIALOG(message_id=11244*, default_option=0*, option_flags=0*)
     → "Well? [I accept./I must decline.]"
  19: 0x00AF [0x25] WAIT_DIALOG_SELECT()
  20: 0x00B0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011A
  21: 0x00B8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
  22: 0x00C7 [0x03] Work_Zone[2] = 913*
- 23: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=11349*)
+ 23: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=11351*)
     → "Altana smiles on the generous. Once you have obtained two $0, carry them hither."
  24: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00D0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  26: 0x00DF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  27: 0x00EC [0x1C] WAIT(60* ticks)
  28: 0x00EF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 29: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=11351*)
+ 29: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=11353*)
     → "May Paradise open its gates to you."
  30: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0102 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -297,14 +297,14 @@
  34: 0x0117 [0x01] GOTO 0x017F
  35: 0x011A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x017F
  36: 0x0122 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 37: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=11350*)
+ 37: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=11352*)
     → "Surely the late papsque frowns upon you. Return hither when you remember charity."
  38: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0135 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  40: 0x0144 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  41: 0x0151 [0x1C] WAIT(60* ticks)
  42: 0x0154 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 43: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=11351*)
+ 43: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=11353*)
     → "May Paradise open its gates to you."
  44: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0167 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -345,14 +345,14 @@ SUBROUTINE_017F:
   1: 0x0186 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0187 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0188 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=11355*)
+  4: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=11357*)
     → "I await your offering."
   5: 0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x019B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
   7: 0x01AA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
   8: 0x01B7 [0x1C] WAIT(60* ticks)
   9: 0x01BA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11351*)
+ 10: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11353*)
     → "May Paradise open its gates to you."
  11: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01CD [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -396,19 +396,19 @@ SUBROUTINE_017F:
   4: 0x01E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x01E9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
   6: 0x01F8 [0x03] Work_Zone[2] = 913*
-  7: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=11352*)
+  7: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=11354*)
     → "I thank you for offering two $0. The late papsque would be pleased."
   8: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0201 [0x1C] WAIT(30* ticks)
  10: 0x0204 [0x03] Work_Zone[2] = 13211*
- 11: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=11353*)
+ 11: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=11355*)
     → "In thanks for your service, the San d'Oria Cathedral presents you with this $0. Wear it, and Altana's providence will be yours."
  12: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x020D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  14: 0x021C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  15: 0x0229 [0x1C] WAIT(60* ticks)
  16: 0x022C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 17: 0x023B [0x1D] PRINT_EVENT_MESSAGE(message_id=11351*)
+ 17: 0x023B [0x1D] PRINT_EVENT_MESSAGE(message_id=11353*)
     → "May Paradise open its gates to you."
  18: 0x023E [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x023F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -450,14 +450,14 @@ SUBROUTINE_017F:
   3: 0x026C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x026D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x026E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  6: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=11354*)
+  6: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=11356*)
     → "I thank you for your generous offering, but I am afraid I cannot accept this."
   7: 0x0280 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0281 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
   9: 0x0290 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  10: 0x029D [0x1C] WAIT(60* ticks)
  11: 0x02A0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 12: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=11351*)
+ 12: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=11353*)
     → "May Paradise open its gates to you."
  13: 0x02B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x02B3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -496,14 +496,14 @@ SUBROUTINE_017F:
   1: 0x02CC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02CD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02CE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11356*)
+  4: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11358*)
     → "Thank you for your generous service."
   5: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02E1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
   7: 0x02F0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
   8: 0x02FD [0x1C] WAIT(60* ticks)
   9: 0x0300 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=11351*)
+ 10: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=11353*)
     → "May Paradise open its gates to you."
  11: 0x0312 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0313 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -559,7 +559,7 @@ SUBROUTINE_017F:
   1: 0x032E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x032F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0330 [0x03] Work_Zone[2] = 828*
-  4: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=12214*)
+  4: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=12216*)
     → "Have you come to pray, my child? First fetch $0. You will be judged by your actions, not words."
   5: 0x0338 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0339 [0x21] END_EVENT
@@ -589,10 +589,10 @@ SUBROUTINE_017F:
   0: 0x033B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0340 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0341 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=12229*)
+  3: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
     → "You have angered His Holiness! You had best leave, and reflect upon your trespasses!"
   4: 0x0345 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0346 [0x1D] PRINT_EVENT_MESSAGE(message_id=12230*)
+  5: 0x0346 [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "Come not hither again! Understood?"
   6: 0x0349 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x034A [0x21] END_EVENT

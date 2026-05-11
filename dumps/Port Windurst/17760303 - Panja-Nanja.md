@@ -21,79 +21,79 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x2DF8      |       11768 |
+|       1 | 0x2DFA      |       11770 |
 |       2 | 0x0002      |           2 |
-|       3 | 0x2E0B      |       11787 |
-|       4 | 0x2DF9      |       11769 |
+|       3 | 0x2E0D      |       11789 |
+|       4 | 0x2DFB      |       11771 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x2E0D      |       11789 |
+|       6 | 0x2E0F      |       11791 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x005A      |          90 |
-|       9 | 0x2E0C      |       11788 |
+|       9 | 0x2E0E      |       11790 |
 |      10 | 0x000A      |          10 |
 |      11 | 0x1131      |        4401 |
 |      12 | 0x4266      |       16998 |
-|      13 | 0x2E0E      |       11790 |
-|      14 | 0x2E1C      |       11804 |
+|      13 | 0x2E10      |       11792 |
+|      14 | 0x2E1E      |       11806 |
 |      15 | 0x1194      |        4500 |
 |      16 | 0x43F3      |       17395 |
-|      17 | 0x2E1D      |       11805 |
+|      17 | 0x2E1F      |       11807 |
 |      18 | 0x1175      |        4469 |
 |      19 | 0x4267      |       16999 |
-|      20 | 0x2E1E      |       11806 |
+|      20 | 0x2E20      |       11808 |
 |      21 | 0x0003      |           3 |
 |      22 | 0x1181      |        4481 |
 |      23 | 0x43F2      |       17394 |
-|      24 | 0x2E1F      |       11807 |
+|      24 | 0x2E21      |       11809 |
 |      25 | 0x0004      |           4 |
 |      26 | 0x1176      |        4470 |
 |      27 | 0x43F4      |       17396 |
-|      28 | 0x2E20      |       11808 |
+|      28 | 0x2E22      |       11810 |
 |      29 | 0x0005      |           5 |
 |      30 | 0x1132      |        4402 |
 |      31 | 0x43F5      |       17397 |
-|      32 | 0x2E21      |       11809 |
+|      32 | 0x2E23      |       11811 |
 |      33 | 0x0006      |           6 |
 |      34 | 0x1177      |        4471 |
 |      35 | 0x4260      |       16992 |
-|      36 | 0x2E22      |       11810 |
+|      36 | 0x2E24      |       11812 |
 |      37 | 0x0007      |           7 |
 |      38 | 0x117E      |        4478 |
 |      39 | 0x43F1      |       17393 |
-|      40 | 0x2E23      |       11811 |
+|      40 | 0x2E25      |       11813 |
 |      41 | 0x0008      |           8 |
 |      42 | 0x117A      |        4474 |
-|      43 | 0x2E24      |       11812 |
+|      43 | 0x2E26      |       11814 |
 |      44 | 0x0009      |           9 |
 |      45 | 0x117C      |        4476 |
 |      46 | 0x4268      |       17000 |
-|      47 | 0x2E25      |       11813 |
+|      47 | 0x2E27      |       11815 |
 |      48 | 0x10D4      |        4308 |
-|      49 | 0x2E26      |       11814 |
-|      50 | 0x2E0F      |       11791 |
-|      51 | 0x2E0A      |       11786 |
+|      49 | 0x2E28      |       11816 |
+|      50 | 0x2E11      |       11793 |
+|      51 | 0x2E0C      |       11788 |
 
 ## String References
 
-- **11768**: What would you like to ask? [For [advanced fishing/fishing/fishing] support./About what kind of fish I can catch./Nothing.]
-- **11769**: [Advanced fishing/Fishing/Fishing] support: $0 gil. [Accept./Decline.]
-- **11786**: Zzzzz...
-- **11787**: Trying to bite off more than we can chew now, are we? Just as bad as a wishy-washy fishy.
-- **11788**: I can't help you for free now, no no no. Panja-Nanja's secrets are tip-top.
-- **11789**: Now I'll close my... Zzzzz... ...Zzzzz... Huh? Wait? Oh yes, you close your eyes...
-- **11790**: Okay. Here's the place and bait, mate!
-- **11791**: Fishing... Getting there's half the fun, you know! So, when you're down-frown, don't frown-frown, just move on and keep your spirits up, up, and away!
-- **11804**: Ponds, moats, any freshwater and you're sure to find $0. Try using $1 as bait, mate.
-- **11805**: % live around the Bhefhel Gulf. Mean little buggers they are. Like the taste of $1.
-- **11806**: The $0 lives in ponds and swamps, but only comes out after dark. For a biggie like that guy, make sure you put your $1 on a strong rod!
-- **11807**: % can be found along the southern coastline. These guys hate the light, so you'd better pack a sleeping bag with your $1.
-- **11808**: As you can probably tell by its name, the $0 likes freezing lakes. Try using $1 to tickle his taste buds.
-- **11809**: Use $1 and you'll be able to catch yourself $0. You can find these guys in almost any lake or swamp.
-- **11810**: % can be found along the southern coast, but don't forget to take some $1. And don't leave home without a strong rod, because those $0 are mighty huge.
-- **11811**: The Sea of Shu'Meyo... That's where you'll have to go if you want to find $0. A rare fishy, that one is. Don't forget to take some $1 along with you.
-- **11812**: Why don't you try the cuddly cuttlefish called the $0? Take some $1 to the northern coastline and start fishing.
-- **11813**: I doubt you'll ever find one, but you can try reeling in a rare $0 from the Bastore Sea. People say that the big guys like $1, but I don't know of anybody who's ever caught one...
-- **11814**: The $0 is a veritable leviathan, so rare that many insist it exists only in anglers' overactive imaginations. Those few who vouch for its existence say it inhabits only a limited area in the northeastern reaches of Mindartia, and often dines on $1.
+- **11770**: What would you like to ask? [For [advanced fishing/fishing/fishing] support./About what kind of fish I can catch./Nothing.]
+- **11771**: [Advanced fishing/Fishing/Fishing] support: $0 gil. [Accept./Decline.]
+- **11788**: Zzzzz...
+- **11789**: Trying to bite off more than we can chew now, are we? Just as bad as a wishy-washy fishy.
+- **11790**: I can't help you for free now, no no no. Panja-Nanja's secrets are tip-top.
+- **11791**: Now I'll close my... Zzzzz... ...Zzzzz... Huh? Wait? Oh yes, you close your eyes...
+- **11792**: Okay. Here's the place and bait, mate!
+- **11793**: Fishing... Getting there's half the fun, you know! So, when you're down-frown, don't frown-frown, just move on and keep your spirits up, up, and away!
+- **11806**: Ponds, moats, any freshwater and you're sure to find $0. Try using $1 as bait, mate.
+- **11807**: % live around the Bhefhel Gulf. Mean little buggers they are. Like the taste of $1.
+- **11808**: The $0 lives in ponds and swamps, but only comes out after dark. For a biggie like that guy, make sure you put your $1 on a strong rod!
+- **11809**: % can be found along the southern coastline. These guys hate the light, so you'd better pack a sleeping bag with your $1.
+- **11810**: As you can probably tell by its name, the $0 likes freezing lakes. Try using $1 to tickle his taste buds.
+- **11811**: Use $1 and you'll be able to catch yourself $0. You can find these guys in almost any lake or swamp.
+- **11812**: % can be found along the southern coast, but don't forget to take some $1. And don't leave home without a strong rod, because those $0 are mighty huge.
+- **11813**: The Sea of Shu'Meyo... That's where you'll have to go if you want to find $0. A rare fishy, that one is. Don't forget to take some $1 along with you.
+- **11814**: Why don't you try the cuddly cuttlefish called the $0? Take some $1 to the northern coastline and start fishing.
+- **11815**: I doubt you'll ever find one, but you can try reeling in a rare $0 from the Bastore Sea. People say that the big guys like $1, but I don't know of anybody who's ever caught one...
+- **11816**: The $0 is a veritable leviathan, so rare that many insist it exists only in anglers' overactive imaginations. Those few who vouch for its existence say it inhabits only a limited area in the northeastern reaches of Mindartia, and often dines on $1.
 
 ## Events
 
@@ -170,21 +170,21 @@
 
 ```
   0: 0x0001 [0x3E] IF !(Work_Zone[5] bit 0*) GOTO 0x01F9
-  1: 0x0008 [0x24] CREATE_DIALOG(message_id=11768*, default_option=2*, option_flags=0*)
+  1: 0x0008 [0x24] CREATE_DIALOG(message_id=11770*, default_option=2*, option_flags=0*)
     → "What would you like to ask? [For [advanced fishing/fishing/fishing] support./About what kind of fish I can catch./Nothing.]"
   2: 0x000F [0x25] WAIT_DIALOG_SELECT()
   3: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0086
   4: 0x0018 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0027
-  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=11787*)
+  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=11789*)
     → "Trying to bite off more than we can chew now, are we? Just as bad as a wishy-washy fishy."
   6: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0024 [0x01] GOTO 0x0083
-  8: 0x0027 [0x24] CREATE_DIALOG(message_id=11769*, default_option=1*, option_flags=0*)
+  8: 0x0027 [0x24] CREATE_DIALOG(message_id=11771*, default_option=1*, option_flags=0*)
     → "[Advanced fishing/Fishing/Fishing] support: $0 gil. [Accept./Decline.]"
   9: 0x002E [0x25] WAIT_DIALOG_SELECT()
  10: 0x002F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0078
  11: 0x0037 [0x02] IF !(Work_Zone[6] < Work_Zone[2]) GOTO 0x0071
- 12: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=11789*)
+ 12: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=11791*)
     → "Now I'll close my... Zzzzz... ...Zzzzz... Huh? Wait? Oh yes, you close your eyes..."
  13: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0043 [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -193,7 +193,7 @@
  17: 0x0058 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  18: 0x0069 [0x03] Work_Zone[1] = 1*
  19: 0x006E [0x01] GOTO 0x0075
- 20: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=11788*)
+ 20: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
     → "I can't help you for free now, no no no. Panja-Nanja's secrets are tip-top."
  21: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -209,124 +209,124 @@ SUBROUTINE_0083:
  28: 0x0093 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x00B0
  29: 0x009B [0x03] Work_Zone[2] = 4401*
  30: 0x00A0 [0x03] Work_Zone[3] = 16998*
- 31: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+ 31: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
  32: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11804*)
+ 33: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11806*)
     → "Ponds, moats, any freshwater and you're sure to find $0. Try using $1 as bait, mate."
  34: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00AD [0x01] GOTO 0x01E4
  36: 0x00B0 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x00CD
  37: 0x00B8 [0x03] Work_Zone[2] = 4500*
  38: 0x00BD [0x03] Work_Zone[3] = 17395*
- 39: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+ 39: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
  40: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11805*)
+ 41: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11807*)
     → "% live around the Bhefhel Gulf. Mean little buggers they are. Like the taste of $1."
  42: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x00CA [0x01] GOTO 0x01E4
  44: 0x00CD [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x00EA
  45: 0x00D5 [0x03] Work_Zone[2] = 4469*
  46: 0x00DA [0x03] Work_Zone[3] = 16999*
- 47: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+ 47: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
  48: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11806*)
+ 49: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11808*)
     → "The $0 lives in ponds and swamps, but only comes out after dark. For a biggie like that guy, make sure you put your $1 on a strong rod!"
  50: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00E7 [0x01] GOTO 0x01E4
  52: 0x00EA [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x0107
  53: 0x00F2 [0x03] Work_Zone[2] = 4481*
  54: 0x00F7 [0x03] Work_Zone[3] = 17394*
- 55: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+ 55: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
  56: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=11807*)
+ 57: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=11809*)
     → "% can be found along the southern coastline. These guys hate the light, so you'd better pack a sleeping bag with your $1."
  58: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0104 [0x01] GOTO 0x01E4
  60: 0x0107 [0x02] IF !(Work_Zone[3] == 4*) GOTO 0x0124
  61: 0x010F [0x03] Work_Zone[2] = 4470*
  62: 0x0114 [0x03] Work_Zone[3] = 17396*
- 63: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+ 63: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
  64: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=11808*)
+ 65: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=11810*)
     → "As you can probably tell by its name, the $0 likes freezing lakes. Try using $1 to tickle his taste buds."
  66: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0121 [0x01] GOTO 0x01E4
  68: 0x0124 [0x02] IF !(Work_Zone[3] == 5*) GOTO 0x0141
  69: 0x012C [0x03] Work_Zone[2] = 4402*
  70: 0x0131 [0x03] Work_Zone[3] = 17397*
- 71: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+ 71: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
  72: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x013A [0x1D] PRINT_EVENT_MESSAGE(message_id=11809*)
+ 73: 0x013A [0x1D] PRINT_EVENT_MESSAGE(message_id=11811*)
     → "Use $1 and you'll be able to catch yourself $0. You can find these guys in almost any lake or swamp."
  74: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x013E [0x01] GOTO 0x01E4
  76: 0x0141 [0x02] IF !(Work_Zone[3] == 6*) GOTO 0x015E
  77: 0x0149 [0x03] Work_Zone[2] = 4471*
  78: 0x014E [0x03] Work_Zone[3] = 16992*
- 79: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+ 79: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
  80: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=11810*)
+ 81: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=11812*)
     → "% can be found along the southern coast, but don't forget to take some $1. And don't leave home without a strong rod, because those $0 are mighty huge."
  82: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x015B [0x01] GOTO 0x01E4
  84: 0x015E [0x02] IF !(Work_Zone[3] == 7*) GOTO 0x017B
  85: 0x0166 [0x03] Work_Zone[2] = 4478*
  86: 0x016B [0x03] Work_Zone[3] = 17393*
- 87: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+ 87: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
  88: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=11811*)
+ 89: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=11813*)
     → "The Sea of Shu'Meyo... That's where you'll have to go if you want to find $0. A rare fishy, that one is. Don't forget to take some $1 along with you."
  90: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0178 [0x01] GOTO 0x01E4
  92: 0x017B [0x02] IF !(Work_Zone[3] == 8*) GOTO 0x0198
  93: 0x0183 [0x03] Work_Zone[2] = 4474*
  94: 0x0188 [0x03] Work_Zone[3] = 17393*
- 95: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+ 95: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
  96: 0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=11812*)
+ 97: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=11814*)
     → "Why don't you try the cuddly cuttlefish called the $0? Take some $1 to the northern coastline and start fishing."
  98: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0195 [0x01] GOTO 0x01E4
 100: 0x0198 [0x02] IF !(Work_Zone[3] == 9*) GOTO 0x01B5
 101: 0x01A0 [0x03] Work_Zone[2] = 4476*
 102: 0x01A5 [0x03] Work_Zone[3] = 17000*
-103: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+103: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
 104: 0x01AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11813*)
+105: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11815*)
     → "I doubt you'll ever find one, but you can try reeling in a rare $0 from the Bastore Sea. People say that the big guys like $1, but I don't know of anybody who's ever caught one..."
 106: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x01B2 [0x01] GOTO 0x01E4
 108: 0x01B5 [0x02] IF !(Work_Zone[3] == 10*) GOTO 0x01D2
 109: 0x01BD [0x03] Work_Zone[2] = 4308*
 110: 0x01C2 [0x03] Work_Zone[3] = 16999*
-111: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+111: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
 112: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11814*)
+113: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11816*)
     → "The $0 is a veritable leviathan, so rare that many insist it exists only in anglers' overactive imaginations. Those few who vouch for its existence say it inhabits only a limited area in the northeastern reaches of Mindartia, and often dines on $1."
 114: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x01CF [0x01] GOTO 0x01E4
 116: 0x01D2 [0x03] Work_Zone[2] = 4308*
 117: 0x01D7 [0x03] Work_Zone[3] = 16999*
-118: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=11790*)
+118: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=11792*)
     → "Okay. Here's the place and bait, mate!"
 119: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11814*)
+120: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11816*)
     → "The $0 is a veritable leviathan, so rare that many insist it exists only in anglers' overactive imaginations. Those few who vouch for its existence say it inhabits only a limited area in the northeastern reaches of Mindartia, and often dines on $1."
 121: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01E4:
-122: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11791*)
+122: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11793*)
     → "Fishing... Getting there's half the fun, you know! So, when you're down-frown, don't frown-frown, just move on and keep your spirits up, up, and away!"
 123: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x01E8 [0x01] GOTO 0x01F6
@@ -335,7 +335,7 @@ SUBROUTINE_01E4:
 
 SUBROUTINE_01F6:
 127: 0x01F6 [0x01] GOTO 0x01FD
-128: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11786*)
+128: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11788*)
     → "Zzzzz..."
 129: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 

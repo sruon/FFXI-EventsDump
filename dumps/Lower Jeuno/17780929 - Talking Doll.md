@@ -31,67 +31,67 @@
 |       1 | 0x0145      |         325 |
 |       2 | 0xFFFFFE3F  |  4294966847 |
 |       3 | 0x0AF0      |        2800 |
-|       4 | 0x1BD5      |        7125 |
-|       5 | 0x1BD7      |        7127 |
-|       6 | 0x1BAF      |        7087 |
+|       4 | 0x1BD7      |        7127 |
+|       5 | 0x1BD9      |        7129 |
+|       6 | 0x1BB1      |        7089 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x1BB1      |        7089 |
+|       9 | 0x1BB3      |        7091 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x1BB2      |        7090 |
+|      11 | 0x1BB4      |        7092 |
 |      12 | 0x0003      |           3 |
-|      13 | 0x1BB3      |        7091 |
+|      13 | 0x1BB5      |        7093 |
 |      14 | 0x0004      |           4 |
-|      15 | 0x1BB4      |        7092 |
+|      15 | 0x1BB6      |        7094 |
 |      16 | 0x0005      |           5 |
-|      17 | 0x1BB5      |        7093 |
+|      17 | 0x1BB7      |        7095 |
 |      18 | 0x0006      |           6 |
-|      19 | 0x1BB6      |        7094 |
+|      19 | 0x1BB8      |        7096 |
 |      20 | 0x0007      |           7 |
-|      21 | 0x1BB7      |        7095 |
+|      21 | 0x1BB9      |        7097 |
 |      22 | 0x0008      |           8 |
-|      23 | 0x1BB8      |        7096 |
+|      23 | 0x1BBA      |        7098 |
 |      24 | 0x0009      |           9 |
-|      25 | 0x1BB9      |        7097 |
+|      25 | 0x1BBB      |        7099 |
 |      26 | 0x000A      |          10 |
-|      27 | 0x1BBA      |        7098 |
+|      27 | 0x1BBC      |        7100 |
 |      28 | 0x000B      |          11 |
-|      29 | 0x1BBB      |        7099 |
+|      29 | 0x1BBD      |        7101 |
 |      30 | 0x000C      |          12 |
-|      31 | 0x1BBC      |        7100 |
+|      31 | 0x1BBE      |        7102 |
 |      32 | 0x000D      |          13 |
-|      33 | 0x1BBD      |        7101 |
+|      33 | 0x1BBF      |        7103 |
 |      34 | 0x000E      |          14 |
-|      35 | 0x1BBE      |        7102 |
+|      35 | 0x1BC0      |        7104 |
 |      36 | 0x000F      |          15 |
-|      37 | 0x1BBF      |        7103 |
+|      37 | 0x1BC1      |        7105 |
 |      38 | 0x0010      |          16 |
-|      39 | 0x1BC0      |        7104 |
+|      39 | 0x1BC2      |        7106 |
 |      40 | 0x0032      |          50 |
 |      41 | 0x0033      |          51 |
 |      42 | 0x0034      |          52 |
 
 ## String References
 
-- **7087**: $26Dale's Monstaru List$26 [Close list./Tumbling Truffle [ /x]/Tottering Toby [ /x]/Blubbery Bulge [ /x]/Black Triple Stars [ /x]/Drooling Daisy [ /x]/Jolly Green [ /x]/Sharp-Eared Ropipi [ /x]/Buburimboo [ /x]/Daggerclaw Dracos [ /x]/Trickster Kinetix [ /x]/Ixtab [ /x]/Gargantua [ /x]/Shadow Eye [ /x]/Boreal Coeurl [ /x]/Boreal Hound [ /x]/Boreal Tiger [ /x]]
-- **7089**: Tumbling Truffle is a creature from the funguar family. It's known to inhabitaru valley floors near the Crag of Holla, in the northeastern area of the La Theine Plateau.
-- **7090**: Tottering Toby is a creature from the sapling family. It's been observed around Coveffe Barrows, in the Batallia Downs.
-- **7091**: Blubbery Bulge is a creature from the slime family. It's been observed around the Disused Well in the southwestern region of Davoi.
-- **7092**: Black Triple Stars is a creature from the bat family. It's a known inhabitant of Brutus's Field in the Rolanberry Fields.
-- **7093**: Drooling Daisy is a creature from the morbol family. It's been observed near the Fountain of Partings in the Rolanberry Fields.
-- **7094**: Jolly Green is a creature from the goobbue family. It's supposed to inhabitaru the Luremarsh area in the Pashhow Marshlands.
-- **7095**: Sharp-Eared Ropipi is a creature from the rabbit family. It inhabits the southeastern region of East Sarutabaruta.
-- **7096**: Buburimboo is a creature from the pugil family. It's a known inhabitant of the Mighoya Dunes in the Buburimu Peninsula.
-- **7097**: Daggerclaw Dracos is a creature from the raptor family. It's been observed in the southeastern region of the Meriphataud Mountains.
-- **7098**: Trickster Kinetix is a creature from the evil weapon family. It's been seen in the open area near Delkfutt's Tower on Qufim Island.
-- **7099**: Ixtab is a creature from the ghost family. It supposedly dwells in one of the roomy-wooms inside Upper Delkfutt's Tower.
-- **7100**: Gargantua is a creature from the golem family. It's a known inhabitant of the coastaru area in eastern Beaucedine Glacier.
-- **7101**: Shadow Eye is a creature from the Ahriman family. It's been seen in western Xarcabard.
-- **7102**: Boreal Coeurl is a creature from the coeurl family. It supposedly dwells inside a cavey-wave in the northeastern region of Xarcabard.
-- **7103**: Boreal Hound is a creature from the hound family. It supposedly dwells inside a cavey-wave in the southwestern region of Xarcabard.
-- **7104**: Boreal Tiger is a creature from the tiger family. It supposedly dwells inside a cavey-wave in the northern region of Xarcabard.
-- **7125**: <Beep!> Surveillance subject: Rakuru-Rakoru....
-- **7127**: <Beep!> My pitiful little fraudster, did you think you'd get away? How do I punish thee? Let me count the ways! Ohohohohoho!
+- **7089**: $26Dale's Monstaru List$26 [Close list./Tumbling Truffle [ /x]/Tottering Toby [ /x]/Blubbery Bulge [ /x]/Black Triple Stars [ /x]/Drooling Daisy [ /x]/Jolly Green [ /x]/Sharp-Eared Ropipi [ /x]/Buburimboo [ /x]/Daggerclaw Dracos [ /x]/Trickster Kinetix [ /x]/Ixtab [ /x]/Gargantua [ /x]/Shadow Eye [ /x]/Boreal Coeurl [ /x]/Boreal Hound [ /x]/Boreal Tiger [ /x]]
+- **7091**: Tumbling Truffle is a creature from the funguar family. It's known to inhabitaru valley floors near the Crag of Holla, in the northeastern area of the La Theine Plateau.
+- **7092**: Tottering Toby is a creature from the sapling family. It's been observed around Coveffe Barrows, in the Batallia Downs.
+- **7093**: Blubbery Bulge is a creature from the slime family. It's been observed around the Disused Well in the southwestern region of Davoi.
+- **7094**: Black Triple Stars is a creature from the bat family. It's a known inhabitant of Brutus's Field in the Rolanberry Fields.
+- **7095**: Drooling Daisy is a creature from the morbol family. It's been observed near the Fountain of Partings in the Rolanberry Fields.
+- **7096**: Jolly Green is a creature from the goobbue family. It's supposed to inhabitaru the Luremarsh area in the Pashhow Marshlands.
+- **7097**: Sharp-Eared Ropipi is a creature from the rabbit family. It inhabits the southeastern region of East Sarutabaruta.
+- **7098**: Buburimboo is a creature from the pugil family. It's a known inhabitant of the Mighoya Dunes in the Buburimu Peninsula.
+- **7099**: Daggerclaw Dracos is a creature from the raptor family. It's been observed in the southeastern region of the Meriphataud Mountains.
+- **7100**: Trickster Kinetix is a creature from the evil weapon family. It's been seen in the open area near Delkfutt's Tower on Qufim Island.
+- **7101**: Ixtab is a creature from the ghost family. It supposedly dwells in one of the roomy-wooms inside Upper Delkfutt's Tower.
+- **7102**: Gargantua is a creature from the golem family. It's a known inhabitant of the coastaru area in eastern Beaucedine Glacier.
+- **7103**: Shadow Eye is a creature from the Ahriman family. It's been seen in western Xarcabard.
+- **7104**: Boreal Coeurl is a creature from the coeurl family. It supposedly dwells inside a cavey-wave in the northeastern region of Xarcabard.
+- **7105**: Boreal Hound is a creature from the hound family. It supposedly dwells inside a cavey-wave in the southwestern region of Xarcabard.
+- **7106**: Boreal Tiger is a creature from the tiger family. It supposedly dwells inside a cavey-wave in the northern region of Xarcabard.
+- **7127**: <Beep!> Surveillance subject: Rakuru-Rakoru....
+- **7129**: <Beep!> My pitiful little fraudster, did you think you'd get away? How do I punish thee? Let me count the ways! Ohohohohoho!
 
 ## Events
 
@@ -187,7 +187,7 @@
 #### Opcodes
 
 ```
-  0: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7125*)
+  0: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7127*)
     → "<Beep!> Surveillance subject: Rakuru-Rakoru...."
   1: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0027 [0x00] END_REQSTACK()
@@ -212,7 +212,7 @@
 #### Opcodes
 
 ```
-  0: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7127*)
+  0: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7129*)
     → "<Beep!> My pitiful little fraudster, did you think you'd get away? How do I punish thee? Let me count the ways! Ohohohohoho!"
   1: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002C [0x00] END_REQSTACK()
@@ -342,103 +342,103 @@
 ```
   0: 0x0030 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0032 [0x1A] CALL_SUBROUTINE(address=0x018C)
-  2: 0x0035 [0x24] CREATE_DIALOG(message_id=7087*, default_option=0*, option_flags=0*)
+  2: 0x0035 [0x24] CREATE_DIALOG(message_id=7089*, default_option=0*, option_flags=0*)
     → "$26Dale's Monstaru List$26 [Close list./Tumbling Truffle [ /x]/Tottering Toby [ /x]/Blubbery Bulge [ /x]/Black Triple Stars [ /x]/Drooling Daisy [ /x]/Jolly Green [ /x]/Sharp-Eared Ropipi [ /x]/Buburimboo [ /x]/Daggerclaw Dracos [ /x]/Trickster Kinetix [ /x]/Ixtab [ /x]/Gargantua [ /x]/Shadow Eye [ /x]/Boreal Coeurl [ /x]/Boreal Hound [ /x]/Boreal Tiger [ /x]]"
   3: 0x003C [0x25] WAIT_DIALOG_SELECT()
   4: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0048
   5: 0x0045 [0x01] GOTO 0x0188
   6: 0x0048 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x005C
-  7: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7089*)
+  7: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7091*)
     → "Tumbling Truffle is a creature from the funguar family. It's known to inhabitaru valley floors near the Crag of Holla, in the northeastern area of the La Theine Plateau."
   8: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0054 [0x03] Work_Zone[1] = 1*
  10: 0x0059 [0x01] GOTO 0x0188
  11: 0x005C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0070
- 12: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
+ 12: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7092*)
     → "Tottering Toby is a creature from the sapling family. It's been observed around Coveffe Barrows, in the Batallia Downs."
  13: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0068 [0x03] Work_Zone[1] = 2*
  15: 0x006D [0x01] GOTO 0x0188
  16: 0x0070 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0084
- 17: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=7091*)
+ 17: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=7093*)
     → "Blubbery Bulge is a creature from the slime family. It's been observed around the Disused Well in the southwestern region of Davoi."
  18: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x007C [0x03] Work_Zone[1] = 3*
  20: 0x0081 [0x01] GOTO 0x0188
  21: 0x0084 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0098
- 22: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7092*)
+ 22: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7094*)
     → "Black Triple Stars is a creature from the bat family. It's a known inhabitant of Brutus's Field in the Rolanberry Fields."
  23: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0090 [0x03] Work_Zone[1] = 4*
  25: 0x0095 [0x01] GOTO 0x0188
  26: 0x0098 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x00AC
- 27: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7093*)
+ 27: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7095*)
     → "Drooling Daisy is a creature from the morbol family. It's been observed near the Fountain of Partings in the Rolanberry Fields."
  28: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00A4 [0x03] Work_Zone[1] = 5*
  30: 0x00A9 [0x01] GOTO 0x0188
  31: 0x00AC [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x00C0
- 32: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7094*)
+ 32: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7096*)
     → "Jolly Green is a creature from the goobbue family. It's supposed to inhabitaru the Luremarsh area in the Pashhow Marshlands."
  33: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00B8 [0x03] Work_Zone[1] = 6*
  35: 0x00BD [0x01] GOTO 0x0188
  36: 0x00C0 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x00D4
- 37: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7095*)
+ 37: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7097*)
     → "Sharp-Eared Ropipi is a creature from the rabbit family. It inhabits the southeastern region of East Sarutabaruta."
  38: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00CC [0x03] Work_Zone[1] = 7*
  40: 0x00D1 [0x01] GOTO 0x0188
  41: 0x00D4 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x00E8
- 42: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7096*)
+ 42: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7098*)
     → "Buburimboo is a creature from the pugil family. It's a known inhabitant of the Mighoya Dunes in the Buburimu Peninsula."
  43: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00E0 [0x03] Work_Zone[1] = 8*
  45: 0x00E5 [0x01] GOTO 0x0188
  46: 0x00E8 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x00FC
- 47: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7097*)
+ 47: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7099*)
     → "Daggerclaw Dracos is a creature from the raptor family. It's been observed in the southeastern region of the Meriphataud Mountains."
  48: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x00F4 [0x03] Work_Zone[1] = 9*
  50: 0x00F9 [0x01] GOTO 0x0188
  51: 0x00FC [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0110
- 52: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7098*)
+ 52: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7100*)
     → "Trickster Kinetix is a creature from the evil weapon family. It's been seen in the open area near Delkfutt's Tower on Qufim Island."
  53: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0108 [0x03] Work_Zone[1] = 10*
  55: 0x010D [0x01] GOTO 0x0188
  56: 0x0110 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0124
- 57: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7099*)
+ 57: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7101*)
     → "Ixtab is a creature from the ghost family. It supposedly dwells in one of the roomy-wooms inside Upper Delkfutt's Tower."
  58: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x011C [0x03] Work_Zone[1] = 11*
  60: 0x0121 [0x01] GOTO 0x0188
  61: 0x0124 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0138
- 62: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7100*)
+ 62: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7102*)
     → "Gargantua is a creature from the golem family. It's a known inhabitant of the coastaru area in eastern Beaucedine Glacier."
  63: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0130 [0x03] Work_Zone[1] = 12*
  65: 0x0135 [0x01] GOTO 0x0188
  66: 0x0138 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x014C
- 67: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=7101*)
+ 67: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=7103*)
     → "Shadow Eye is a creature from the Ahriman family. It's been seen in western Xarcabard."
  68: 0x0143 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0144 [0x03] Work_Zone[1] = 13*
  70: 0x0149 [0x01] GOTO 0x0188
  71: 0x014C [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0160
- 72: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=7102*)
+ 72: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=7104*)
     → "Boreal Coeurl is a creature from the coeurl family. It supposedly dwells inside a cavey-wave in the northeastern region of Xarcabard."
  73: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0158 [0x03] Work_Zone[1] = 14*
  75: 0x015D [0x01] GOTO 0x0188
  76: 0x0160 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x0174
- 77: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=7103*)
+ 77: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=7105*)
     → "Boreal Hound is a creature from the hound family. It supposedly dwells inside a cavey-wave in the southwestern region of Xarcabard."
  78: 0x016B [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x016C [0x03] Work_Zone[1] = 15*
  80: 0x0171 [0x01] GOTO 0x0188
  81: 0x0174 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0188
- 82: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=7104*)
+ 82: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=7106*)
     → "Boreal Tiger is a creature from the tiger family. It supposedly dwells inside a cavey-wave in the northern region of Xarcabard."
  83: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0180 [0x03] Work_Zone[1] = 16*

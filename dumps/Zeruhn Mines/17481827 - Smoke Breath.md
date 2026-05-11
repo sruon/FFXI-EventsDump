@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CC7      |        7367 |
+|       0 | 0x1CC9      |        7369 |
 
 ## String References
 
-- **7367**: Work, work, work...
+- **7369**: Work, work, work...
 
 ## Events
 
@@ -69,7 +69,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
     → "Work, work, work..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT

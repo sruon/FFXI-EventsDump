@@ -22,22 +22,22 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1CF1      |        7409 |
-|       2 | 0x1CF2      |        7410 |
-|       3 | 0x1CF3      |        7411 |
+|       1 | 0x1CF3      |        7411 |
+|       2 | 0x1CF4      |        7412 |
+|       3 | 0x1CF5      |        7413 |
 |       4 | 0x0486      |        1158 |
-|       5 | 0x1CF4      |        7412 |
-|       6 | 0x1CF5      |        7413 |
+|       5 | 0x1CF6      |        7414 |
+|       6 | 0x1CF7      |        7415 |
 |       7 | 0x01A9      |         425 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x1CF6      |        7414 |
-|      10 | 0x1CF7      |        7415 |
-|      11 | 0x1CF8      |        7416 |
-|      12 | 0x1CF9      |        7417 |
-|      13 | 0x1CFA      |        7418 |
-|      14 | 0x1CFB      |        7419 |
+|       9 | 0x1CF8      |        7416 |
+|      10 | 0x1CF9      |        7417 |
+|      11 | 0x1CFA      |        7418 |
+|      12 | 0x1CFB      |        7419 |
+|      13 | 0x1CFC      |        7420 |
+|      14 | 0x1CFD      |        7421 |
 |      15 | 0x000B      |          11 |
-|      16 | 0x1CFD      |        7421 |
+|      16 | 0x1CFF      |        7423 |
 |      17 | 0x0002      |           2 |
 |      18 | 0x0003      |           3 |
 |      19 | 0x0004      |           4 |
@@ -109,18 +109,18 @@
 
 ## String References
 
-- **7409**: Hmm? Searching for the entrance to a hideout most heinous, you say?
-- **7410**: Oh ho! How astute of you to turn to me. I am, after all, the foremost researcher of these Quicksand Caves in the area.
-- **7411**: ...Well, the only researcher, actually. But who's quibbling about details? Anyhow, you'll be pleased to know that I uncovered a promising passage not too long ago!
-- **7412**: But here's the rub: those hoodlums are smarter than they look. They've locked the door, and not only have they thrown away the key--the $3, they call it--they've blasted it into nine pieces.
-- **7413**: The upshot of this, of course, is that if you can find the nine stones and reconstruct the talisman, there'll be nothing stopping you from waltzing right in to their den of depravity.
-- **7414**: But let me guess. You're thinking, "But where I going to find nine tiny gems in this cavernous lair?" Oh ho! How soon you forget that you're speaking to the world's foremost Quicksand Caves spelunker!
-- **7415**: I've got the locations of each and every stone right up here in my noggin', and I can mark them on your map--voila!--just like so. Bring all nine gems back here and I'll patch up the key for you as good as new.
-- **7416**: What's this? You don't have a $3? You're not seriously expecting to navigate these confounding caves without a map, are you? Come back when you have one, then we'll talk!
-- **7417**: Oh ho...found all the stones, have we? Excellent! You may very well have stamped yourself as the world's second-leading expert on these Quicksand Caves.
-- **7418**: Now let's see here... The Shukra stone's connected to the...Chandra stone!t The Rahu stone's connected to the...Shani stone!t Da-da...da-daaa-da-da-dat
-- **7419**: There you have it! One talisman, good as new.
-- **7421**: $3f$3o$3b$3O%p [b_i/$3p$3^$1T/$3p$3^$2T/$3p$3^$3T/$3p$3^$4T/$3p$3^$5T/$3p$3^$6T/$3p$3^$7T/$3p$3^$8T/$3p$3^$9T/$3p$3^$0T/$3I$3t$3@$7540556$P11TI/$3}[$3J[$3N$3$3A]
+- **7411**: Hmm? Searching for the entrance to a hideout most heinous, you say?
+- **7412**: Oh ho! How astute of you to turn to me. I am, after all, the foremost researcher of these Quicksand Caves in the area.
+- **7413**: ...Well, the only researcher, actually. But who's quibbling about details? Anyhow, you'll be pleased to know that I uncovered a promising passage not too long ago!
+- **7414**: But here's the rub: those hoodlums are smarter than they look. They've locked the door, and not only have they thrown away the key--the $3, they call it--they've blasted it into nine pieces.
+- **7415**: The upshot of this, of course, is that if you can find the nine stones and reconstruct the talisman, there'll be nothing stopping you from waltzing right in to their den of depravity.
+- **7416**: But let me guess. You're thinking, "But where I going to find nine tiny gems in this cavernous lair?" Oh ho! How soon you forget that you're speaking to the world's foremost Quicksand Caves spelunker!
+- **7417**: I've got the locations of each and every stone right up here in my noggin', and I can mark them on your map--voila!--just like so. Bring all nine gems back here and I'll patch up the key for you as good as new.
+- **7418**: What's this? You don't have a $3? You're not seriously expecting to navigate these confounding caves without a map, are you? Come back when you have one, then we'll talk!
+- **7419**: Oh ho...found all the stones, have we? Excellent! You may very well have stamped yourself as the world's second-leading expert on these Quicksand Caves.
+- **7420**: Now let's see here... The Shukra stone's connected to the...Chandra stone!t The Rahu stone's connected to the...Shani stone!t Da-da...da-daaa-da-da-dat
+- **7421**: There you have it! One talisman, good as new.
+- **7423**: $3f$3o$3b$3O%p [b_i/$3p$3^$1T/$3p$3^$2T/$3p$3^$3T/$3p$3^$4T/$3p$3^$5T/$3p$3^$6T/$3p$3^$7T/$3p$3^$8T/$3p$3^$9T/$3p$3^$0T/$3I$3t$3@$7540556$P11TI/$3}[$3J[$3N$3$3A]
 
 ## Events
 
@@ -182,35 +182,35 @@
   5: 0x0013 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   6: 0x0018 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
   7: 0x001D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x006E
-  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
+  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
     → "Hmm? Searching for the entrance to a hideout most heinous, you say?"
   9: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
+ 10: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
     → "Oh ho! How astute of you to turn to me. I am, after all, the foremost researcher of these Quicksand Caves in the area."
  11: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
+ 12: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "...Well, the only researcher, actually. But who's quibbling about details? Anyhow, you'll be pleased to know that I uncovered a promising passage not too long ago!"
  13: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0031 [0x03] Work_Zone[2] = 1158*
- 15: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+ 15: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "But here's the rub: those hoodlums are smarter than they look. They've locked the door, and not only have they thrown away the key--the $3, they call it--they've blasted it into nine pieces."
  16: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+ 17: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "The upshot of this, of course, is that if you can find the nine stones and reconstruct the talisman, there'll be nothing stopping you from waltzing right in to their den of depravity."
  18: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x003E [0x03] Work_Zone[2] = 425*
  20: 0x0043 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0061
- 21: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+ 21: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "But let me guess. You're thinking, "But where I going to find nine tiny gems in this cavernous lair?" Oh ho! How soon you forget that you're speaking to the world's foremost Quicksand Caves spelunker!"
  22: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 23: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "I've got the locations of each and every stone right up here in my noggin', and I can mark them on your map--voila!--just like so. Bring all nine gems back here and I'll patch up the key for you as good as new."
  24: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0053 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[2]
  26: 0x0058 [0x1A] CALL_SUBROUTINE(address=0x0521)
  27: 0x005B [0x1A] CALL_SUBROUTINE(address=0x017E)
  28: 0x005E [0x01] GOTO 0x006B
- 29: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+ 29: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
     → "What's this? You don't have a $3? You're not seriously expecting to navigate these confounding caves without a map, are you? Come back when you have one, then we'll talk!"
  30: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0065 [0x03] Work_Zone[1] = 0*
@@ -219,19 +219,19 @@
 SUBROUTINE_006B:
  33: 0x006B [0x01] GOTO 0x009C
  34: 0x006E [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x008D
- 35: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
+ 35: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
     → "Oh ho...found all the stones, have we? Excellent! You may very well have stamped yourself as the world's second-leading expert on these Quicksand Caves."
  36: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
+ 37: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "Now let's see here... The Shukra stone's connected to the...Chandra stone!t The Rahu stone's connected to the...Shani stone!t Da-da...da-daaa-da-da-dat"
  38: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+ 39: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "There you have it! One talisman, good as new."
  40: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0082 [0x03] Work_Zone[1] = 11*
  42: 0x0087 [0x1A] CALL_SUBROUTINE(address=0x0521)
  43: 0x008A [0x01] GOTO 0x009C
- 44: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 44: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "I've got the locations of each and every stone right up here in my noggin', and I can mark them on your map--voila!--just like so. Bring all nine gems back here and I'll patch up the key for you as good as new."
  45: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0091 [0x03] Work_Zone[1] = 0*
@@ -345,7 +345,7 @@ SUBROUTINE_009C:
 #### Opcodes
 
 ```
-  0: 0x00A0 [0x24] CREATE_DIALOG(message_id=7421*, default_option=0*, option_flags=0*)
+  0: 0x00A0 [0x24] CREATE_DIALOG(message_id=7423*, default_option=0*, option_flags=0*)
     → "$3f$3o$3b$3O%p [b_i/$3p$3^$1T/$3p$3^$2T/$3p$3^$3T/$3p$3^$4T/$3p$3^$5T/$3p$3^$6T/$3p$3^$7T/$3p$3^$8T/$3p$3^$9T/$3p$3^$0T/$3I$3t$3@$7540556$P11TI/$3}[$3J[$3N$3$3A]"
   1: 0x00A7 [0x25] WAIT_DIALOG_SELECT()
   2: 0x00A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B9

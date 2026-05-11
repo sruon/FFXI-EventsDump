@@ -25,46 +25,46 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EE1      |        7905 |
-|       1 | 0x1EE2      |        7906 |
+|       0 | 0x1EE3      |        7907 |
+|       1 | 0x1EE4      |        7908 |
 |       2 | 0x0031      |          49 |
-|       3 | 0x1EE3      |        7907 |
-|       4 | 0x1EE4      |        7908 |
+|       3 | 0x1EE5      |        7909 |
+|       4 | 0x1EE6      |        7910 |
 |       5 | 0x001E      |          30 |
 |       6 | 0x0028      |          40 |
-|       7 | 0x1EE5      |        7909 |
-|       8 | 0x1EE6      |        7910 |
-|       9 | 0x1EE7      |        7911 |
-|      10 | 0x1EE8      |        7912 |
-|      11 | 0x1EE9      |        7913 |
+|       7 | 0x1EE7      |        7911 |
+|       8 | 0x1EE8      |        7912 |
+|       9 | 0x1EE9      |        7913 |
+|      10 | 0x1EEA      |        7914 |
+|      11 | 0x1EEB      |        7915 |
 |      12 | 0x0000      |           0 |
-|      13 | 0x1EF2      |        7922 |
+|      13 | 0x1EF4      |        7924 |
 |      14 | 0x0015      |          21 |
-|      15 | 0x1EEE      |        7918 |
+|      15 | 0x1EF0      |        7920 |
 |      16 | 0x0078      |         120 |
-|      17 | 0x1EEF      |        7919 |
-|      18 | 0x1EF0      |        7920 |
-|      19 | 0x1EF3      |        7923 |
+|      17 | 0x1EF1      |        7921 |
+|      18 | 0x1EF2      |        7922 |
+|      19 | 0x1EF5      |        7925 |
 |      20 | 0x00C9      |         201 |
-|      21 | 0x1EF1      |        7921 |
+|      21 | 0x1EF3      |        7923 |
 
 ## String References
 
-- **7905**: These gustatorily challenged boors will know my genius when I save them from famine! Bow down before my whisk and colander, fools! Ahahahahahahaaa!
-- **7906**: You there! I command you to assist me!
-- **7907**: Who are you to issue commands, you say? Why, only the ladle-bearing messiah whose soup of sustenance will save this miserable realm from starvation. Yes, that's right--in a land ruled by famine, the purveyor of provisions is king! A god, even!
-- **7908**: Perhaps you have seen the scattered trees that speckle this otherwise barren, cactus-ridden wasteland. These trees once burgeoned with edible fruit, but no more!
-- **7909**: And so who does it fall to, to take this lemon of a situation and make a scrumptious souffl<Player>i out of it? Why, none other than Piketo-Puketo, culinarian of culinarians, and his $3!
-- **7910**: Those Rhinostery poseurs claim it to be their invention, but they're full of more hot air than an oven baking one of my famed rolanberry tarts. Ahem! In any event, one shot into its roots and any tree should readily return to full fruit-bearing glory.
-- **7911**: You'll find a number of trees bearing their roots on the path leading to the Meriphataud Mountains. Take your pick of them! For it is not the ingredients that make the dish, but the skill of the chef who prepares them!
-- **7912**: But not all will partake from Piketo-Puketo's table of plenty! Called my rolanberry tarts too tart, did you? My macarons too mushy? Oh yes, I remember you all! You will beg for forgiveness, or starve wishing the goddess had blessed you with a proper palate!
-- **7913**: Now go forth and do my bidding, apprentice!
-- **7918**: What's this? $6?
-- **7919**: Bwahahaha! I knew I was a genius! Now, to fire up the oven and prepare the manna that will deliver our people from starvation...or at least those whose palate I deem worthy!
-- **7920**: Don't ask me why, but my discerning nose tells me I'll be asking a similar favor of you in the none-too-distant future. If you've any semblance of good taste, you'll continue to serve me well.
-- **7921**: My loyal minion returns, and not a moment too soon! It seems the world can't get enough of my gustatory delights. Here's your $3. You already know what to do with it, so chop chop!
-- **7922**: What are you dawdling around here for? The world awaits victuals from my heavenly oven! To the trees lining the path to Meriphataud with you!
-- **7923**: Such a dutiful [lad/lass] you are! Have no fear--I will see to it that you survive the great famine. Let it not be said that the mighty Piketo-Puketo does not smile upon the cultured and refined! Bwahahaha!
+- **7907**: These gustatorily challenged boors will know my genius when I save them from famine! Bow down before my whisk and colander, fools! Ahahahahahahaaa!
+- **7908**: You there! I command you to assist me!
+- **7909**: Who are you to issue commands, you say? Why, only the ladle-bearing messiah whose soup of sustenance will save this miserable realm from starvation. Yes, that's right--in a land ruled by famine, the purveyor of provisions is king! A god, even!
+- **7910**: Perhaps you have seen the scattered trees that speckle this otherwise barren, cactus-ridden wasteland. These trees once burgeoned with edible fruit, but no more!
+- **7911**: And so who does it fall to, to take this lemon of a situation and make a scrumptious souffl<Player>i out of it? Why, none other than Piketo-Puketo, culinarian of culinarians, and his $3!
+- **7912**: Those Rhinostery poseurs claim it to be their invention, but they're full of more hot air than an oven baking one of my famed rolanberry tarts. Ahem! In any event, one shot into its roots and any tree should readily return to full fruit-bearing glory.
+- **7913**: You'll find a number of trees bearing their roots on the path leading to the Meriphataud Mountains. Take your pick of them! For it is not the ingredients that make the dish, but the skill of the chef who prepares them!
+- **7914**: But not all will partake from Piketo-Puketo's table of plenty! Called my rolanberry tarts too tart, did you? My macarons too mushy? Oh yes, I remember you all! You will beg for forgiveness, or starve wishing the goddess had blessed you with a proper palate!
+- **7915**: Now go forth and do my bidding, apprentice!
+- **7920**: What's this? $6?
+- **7921**: Bwahahaha! I knew I was a genius! Now, to fire up the oven and prepare the manna that will deliver our people from starvation...or at least those whose palate I deem worthy!
+- **7922**: Don't ask me why, but my discerning nose tells me I'll be asking a similar favor of you in the none-too-distant future. If you've any semblance of good taste, you'll continue to serve me well.
+- **7923**: My loyal minion returns, and not a moment too soon! It seems the world can't get enough of my gustatory delights. Here's your $3. You already know what to do with it, so chop chop!
+- **7924**: What are you dawdling around here for? The world awaits victuals from my heavenly oven! To the trees lining the path to Meriphataud with you!
+- **7925**: Such a dutiful [lad/lass] you are! Have no fear--I will see to it that you survive the great famine. Let it not be said that the mighty Piketo-Puketo does not smile upon the cultured and refined! Bwahahaha!
 
 ## Events
 
@@ -112,7 +112,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
     → "These gustatorily challenged boors will know my genius when I save them from famine! Bow down before my whisk and colander, fools! Ahahahahahahaaa!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -150,37 +150,37 @@
   1: 0x000F [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0014 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0015 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
+  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
     → "You there! I command you to assist me!"
   5: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
+  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
     → "Who are you to issue commands, you say? Why, only the ladle-bearing messiah whose soup of sustenance will save this miserable realm from starvation. Yes, that's right--in a land ruled by famine, the purveyor of provisions is king! A god, even!"
   8: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
+  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
     → "Perhaps you have seen the scattered trees that speckle this otherwise barren, cactus-ridden wasteland. These trees once burgeoned with edible fruit, but no more!"
  10: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0031 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  12: 0x003E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  13: 0x0043 [0x1C] WAIT(30* ticks)
  14: 0x0046 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 15: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
+ 15: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "And so who does it fall to, to take this lemon of a situation and make a scrumptious souffl<Player>i out of it? Why, none other than Piketo-Puketo, culinarian of culinarians, and his $3!"
  16: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0059 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  18: 0x0066 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 19: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+ 19: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "Those Rhinostery poseurs claim it to be their invention, but they're full of more hot air than an oven baking one of my famed rolanberry tarts. Ahem! In any event, one shot into its roots and any tree should readily return to full fruit-bearing glory."
  20: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+ 21: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "You'll find a number of trees bearing their roots on the path leading to the Meriphataud Mountains. Take your pick of them! For it is not the ingredients that make the dish, but the skill of the chef who prepares them!"
  22: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x007D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  24: 0x0082 [0x1C] WAIT(30* ticks)
- 25: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+ 25: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "But not all will partake from Piketo-Puketo's table of plenty! Called my rolanberry tarts too tart, did you? My macarons too mushy? Oh yes, I remember you all! You will beg for forgiveness, or starve wishing the goddess had blessed you with a proper palate!"
  26: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+ 27: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "Now go forth and do my bidding, apprentice!"
  28: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x008D [0x21] END_EVENT
@@ -215,19 +215,19 @@
   2: 0x0095 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0096 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x00C4
   4: 0x009E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  5: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+  5: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "You'll find a number of trees bearing their roots on the path leading to the Meriphataud Mountains. Take your pick of them! For it is not the ingredients that make the dish, but the skill of the chef who prepares them!"
   6: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00B1 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
   8: 0x00B6 [0x1C] WAIT(30* ticks)
-  9: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+  9: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "But not all will partake from Piketo-Puketo's table of plenty! Called my rolanberry tarts too tart, did you? My macarons too mushy? Oh yes, I remember you all! You will beg for forgiveness, or starve wishing the goddess had blessed you with a proper palate!"
  10: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+ 11: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "Now go forth and do my bidding, apprentice!"
  12: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00C1 [0x01] GOTO 0x00C8
- 14: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
+ 14: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
     → "What are you dawdling around here for? The world awaits victuals from my heavenly oven! To the trees lining the path to Meriphataud with you!"
  15: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -269,21 +269,21 @@ SUBROUTINE_00C8:
   4: 0x00D2 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0123
   5: 0x00DA [0x6E] EventEntity uses emote 21*
   6: 0x00E1 [0x99] Wait for EventEntity animation to complete
-  7: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+  7: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
     → "What's this? $6?"
   8: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00EA [0x1C] WAIT(120* ticks)
  10: 0x00ED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 11: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
+ 11: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
     → "Bwahahaha! I knew I was a genius! Now, to fire up the oven and prepare the manna that will deliver our people from starvation...or at least those whose palate I deem worthy!"
  12: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0100 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
  14: 0x010F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
- 15: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
+ 15: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "Don't ask me why, but my discerning nose tells me I'll be asking a similar favor of you in the none-too-distant future. If you've any semblance of good taste, you'll continue to serve me well."
  16: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0120 [0x01] GOTO 0x0127
- 18: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
+ 18: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=7925*)
     → "Such a dutiful [lad/lass] you are! Have no fear--I will see to it that you survive the great famine. Let it not be said that the mighty Piketo-Puketo does not smile upon the cultured and refined! Bwahahaha!"
  19: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -318,11 +318,11 @@ SUBROUTINE_0127:
   1: 0x013F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0140 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0141 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0150
-  4: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
+  4: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "Don't ask me why, but my discerning nose tells me I'll be asking a similar favor of you in the none-too-distant future. If you've any semblance of good taste, you'll continue to serve me well."
   5: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x014D [0x01] GOTO 0x0154
-  7: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
+  7: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7925*)
     → "Such a dutiful [lad/lass] you are! Have no fear--I will see to it that you survive the great famine. Let it not be said that the mighty Piketo-Puketo does not smile upon the cultured and refined! Bwahahaha!"
   8: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -355,10 +355,10 @@ SUBROUTINE_0154:
   1: 0x0157 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x015C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x015D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+  4: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
     → "My loyal minion returns, and not a moment too soon! It seems the world can't get enough of my gustatory delights. Here's your $3. You already know what to do with it, so chop chop!"
   5: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
+  6: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
     → "What are you dawdling around here for? The world awaits victuals from my heavenly oven! To the trees lining the path to Meriphataud with you!"
   7: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0166 [0x21] END_EVENT

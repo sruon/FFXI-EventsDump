@@ -21,7 +21,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2289      |        8841 |
+|       0 | 0x228B      |        8843 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
@@ -30,12 +30,12 @@
 |       6 | 0x000A      |          10 |
 |       7 | 0x00D4      |         212 |
 |       8 | 0x0078      |         120 |
-|       9 | 0x228A      |        8842 |
+|       9 | 0x228C      |        8844 |
 
 ## String References
 
-- **8841**: Pass through the gate? [Yes./No.]
-- **8842**: Enter the gate? [Yes./No.]
+- **8843**: Pass through the gate? [Yes./No.]
+- **8844**: Enter the gate? [Yes./No.]
 
 ## Events
 
@@ -93,7 +93,7 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0004 [0x24] CREATE_DIALOG(message_id=8841*, default_option=1*, option_flags=0*)
+  2: 0x0004 [0x24] CREATE_DIALOG(message_id=8843*, default_option=1*, option_flags=0*)
     → "Pass through the gate? [Yes./No.]"
   3: 0x000B [0x25] WAIT_DIALOG_SELECT()
   4: 0x000C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0017
@@ -162,7 +162,7 @@ SUBROUTINE_0026:
 ```
   0: 0x00BB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x00BD [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x00BE [0x24] CREATE_DIALOG(message_id=8842*, default_option=1*, option_flags=0*)
+  2: 0x00BE [0x24] CREATE_DIALOG(message_id=8844*, default_option=1*, option_flags=0*)
     → "Enter the gate? [Yes./No.]"
   3: 0x00C5 [0x25] WAIT_DIALOG_SELECT()
   4: 0x00C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0103

@@ -21,8 +21,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x2872      |       10354 |
-|       2 | 0x2873      |       10355 |
+|       1 | 0x2874      |       10356 |
+|       2 | 0x2875      |       10357 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x000A      |          10 |
 |       5 | 0x0014      |          20 |
@@ -36,8 +36,8 @@
 
 ## String References
 
-- **10354**: I'm the gaudy-bodyguard of this place. You make one wrong move, and I will smack and kick and punch and whack and pummel and smash and crush and grind your bones into powder...and then kick you some more.
-- **10355**: You follow the rules, I'll let you live. You break them, I break you.
+- **10356**: I'm the gaudy-bodyguard of this place. You make one wrong move, and I will smack and kick and punch and whack and pummel and smash and crush and grind your bones into powder...and then kick you some more.
+- **10357**: You follow the rules, I'll let you live. You break them, I break you.
 
 ## Events
 
@@ -99,10 +99,10 @@
 ```
   0: 0x0001 [0x1A] CALL_SUBROUTINE(address=0x001D)
   1: 0x0004 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
-  2: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=10354*)
+  2: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=10356*)
     → "I'm the gaudy-bodyguard of this place. You make one wrong move, and I will smack and kick and punch and whack and pummel and smash and crush and grind your bones into powder...and then kick you some more."
   3: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10355*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10357*)
     → "You follow the rules, I'll let you live. You break them, I break you."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x21] END_EVENT

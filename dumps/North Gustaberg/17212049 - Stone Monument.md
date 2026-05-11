@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D2B      |        7467 |
-|       1 | 0x1D2C      |        7468 |
-|       2 | 0x1D2D      |        7469 |
-|       3 | 0x1D2E      |        7470 |
-|       4 | 0x1D2F      |        7471 |
-|       5 | 0x1D30      |        7472 |
+|       0 | 0x1D2D      |        7469 |
+|       1 | 0x1D2E      |        7470 |
+|       2 | 0x1D2F      |        7471 |
+|       3 | 0x1D30      |        7472 |
+|       4 | 0x1D31      |        7473 |
+|       5 | 0x1D32      |        7474 |
 
 ## String References
 
-- **7467**: You see a message engraved on the stone:
-- **7468**: As I passed through this area, I heard Bastokers were building a monument honoring the pioneers who dug the Palborough Mines. Being the curious type, I went to visit the site.
-- **7469**: The site itself turned out to be an old cemetery, where the tombstones were so old, the names were worn away with age.
-- **7470**: It turned out that the graves were those of numerous Galka who died in an accident the day the Metalworks was completed, in a time when Bastok was still struggling to become a nation.
-- **7471**: I do not know if the Palborough Pioneers are the heroes people claim they are. I, for a fact, have no doubt the Galka who lie here gave their lives bravely to settle this arid, forsaken land.
-- **7472**: I decided to spend a night here, drinking to the unnamed heroes of a forgotten time. --Gwynham Ironheart, 749 Crystal Era.
+- **7469**: You see a message engraved on the stone:
+- **7470**: As I passed through this area, I heard Bastokers were building a monument honoring the pioneers who dug the Palborough Mines. Being the curious type, I went to visit the site.
+- **7471**: The site itself turned out to be an old cemetery, where the tombstones were so old, the names were worn away with age.
+- **7472**: It turned out that the graves were those of numerous Galka who died in an accident the day the Metalworks was completed, in a time when Bastok was still struggling to become a nation.
+- **7473**: I do not know if the Palborough Pioneers are the heroes people claim they are. I, for a fact, have no doubt the Galka who lie here gave their lives bravely to settle this arid, forsaken land.
+- **7474**: I decided to spend a night here, drinking to the unnamed heroes of a forgotten time. --Gwynham Ironheart, 749 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7467*]:
+  0: 0x0001 [0x48] [System] [7469*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7468*]:
+  2: 0x0005 [0x48] [System] [7470*]:
     → "As I passed through this area, I heard Bastokers were building a monument honoring the pioneers who dug the Palborough Mines. Being the curious type, I went to visit the site."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7469*]:
+  4: 0x0009 [0x48] [System] [7471*]:
     → "The site itself turned out to be an old cemetery, where the tombstones were so old, the names were worn away with age."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7470*]:
+  6: 0x000D [0x48] [System] [7472*]:
     → "It turned out that the graves were those of numerous Galka who died in an accident the day the Metalworks was completed, in a time when Bastok was still struggling to become a nation."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7471*]:
+  8: 0x0011 [0x48] [System] [7473*]:
     → "I do not know if the Palborough Pioneers are the heroes people claim they are. I, for a fact, have no doubt the Galka who lie here gave their lives bravely to settle this arid, forsaken land."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7472*]:
+ 10: 0x0015 [0x48] [System] [7474*]:
     → "I decided to spend a night here, drinking to the unnamed heroes of a forgotten time. --Gwynham Ironheart, 749 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

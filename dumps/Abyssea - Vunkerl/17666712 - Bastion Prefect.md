@@ -44,46 +44,46 @@
 |      21 | 0x0015      |          21 |
 |      22 | 0x0018      |          24 |
 |      23 | 0x0004      |           4 |
-|      24 | 0x1E69      |        7785 |
-|      25 | 0x1E6A      |        7786 |
+|      24 | 0x1E6B      |        7787 |
+|      25 | 0x1E6C      |        7788 |
 |      26 | 0x40000000  |  1073741824 |
-|      27 | 0x1E6B      |        7787 |
-|      28 | 0x1E6C      |        7788 |
-|      29 | 0x1E6D      |        7789 |
-|      30 | 0x1E6E      |        7790 |
-|      31 | 0x1E6F      |        7791 |
-|      32 | 0x1E70      |        7792 |
-|      33 | 0x1E71      |        7793 |
-|      34 | 0x1E72      |        7794 |
-|      35 | 0x1E73      |        7795 |
-|      36 | 0x1E74      |        7796 |
-|      37 | 0x1E75      |        7797 |
-|      38 | 0x1E76      |        7798 |
-|      39 | 0x1E77      |        7799 |
-|      40 | 0x1E78      |        7800 |
-|      41 | 0x1E79      |        7801 |
-|      42 | 0x1E7A      |        7802 |
-|      43 | 0x1E7B      |        7803 |
-|      44 | 0x1E7C      |        7804 |
-|      45 | 0x1E7D      |        7805 |
-|      46 | 0x1E7E      |        7806 |
-|      47 | 0x1E7F      |        7807 |
-|      48 | 0x1E80      |        7808 |
-|      49 | 0x1E81      |        7809 |
-|      50 | 0x1E82      |        7810 |
-|      51 | 0x1E83      |        7811 |
-|      52 | 0x1E84      |        7812 |
-|      53 | 0x1E85      |        7813 |
-|      54 | 0x1E86      |        7814 |
-|      55 | 0x1E87      |        7815 |
-|      56 | 0x1E88      |        7816 |
-|      57 | 0x1E89      |        7817 |
-|      58 | 0x1E8A      |        7818 |
-|      59 | 0x1E8B      |        7819 |
-|      60 | 0x1E8C      |        7820 |
-|      61 | 0x1E8D      |        7821 |
-|      62 | 0x1E8E      |        7822 |
-|      63 | 0x1E8F      |        7823 |
+|      27 | 0x1E6D      |        7789 |
+|      28 | 0x1E6E      |        7790 |
+|      29 | 0x1E6F      |        7791 |
+|      30 | 0x1E70      |        7792 |
+|      31 | 0x1E71      |        7793 |
+|      32 | 0x1E72      |        7794 |
+|      33 | 0x1E73      |        7795 |
+|      34 | 0x1E74      |        7796 |
+|      35 | 0x1E75      |        7797 |
+|      36 | 0x1E76      |        7798 |
+|      37 | 0x1E77      |        7799 |
+|      38 | 0x1E78      |        7800 |
+|      39 | 0x1E79      |        7801 |
+|      40 | 0x1E7A      |        7802 |
+|      41 | 0x1E7B      |        7803 |
+|      42 | 0x1E7C      |        7804 |
+|      43 | 0x1E7D      |        7805 |
+|      44 | 0x1E7E      |        7806 |
+|      45 | 0x1E7F      |        7807 |
+|      46 | 0x1E80      |        7808 |
+|      47 | 0x1E81      |        7809 |
+|      48 | 0x1E82      |        7810 |
+|      49 | 0x1E83      |        7811 |
+|      50 | 0x1E84      |        7812 |
+|      51 | 0x1E85      |        7813 |
+|      52 | 0x1E86      |        7814 |
+|      53 | 0x1E87      |        7815 |
+|      54 | 0x1E88      |        7816 |
+|      55 | 0x1E89      |        7817 |
+|      56 | 0x1E8A      |        7818 |
+|      57 | 0x1E8B      |        7819 |
+|      58 | 0x1E8C      |        7820 |
+|      59 | 0x1E8D      |        7821 |
+|      60 | 0x1E8E      |        7822 |
+|      61 | 0x1E8F      |        7823 |
+|      62 | 0x1E90      |        7824 |
+|      63 | 0x1E91      |        7825 |
 |      64 | 0x06A6      |        1702 |
 |      65 | 0x06A7      |        1703 |
 |      66 | 0x06A8      |        1704 |
@@ -91,23 +91,23 @@
 |      68 | 0x06AA      |        1706 |
 |      69 | 0x06AB      |        1707 |
 |      70 | 0x06AC      |        1708 |
-|      71 | 0x1E90      |        7824 |
-|      72 | 0x1E91      |        7825 |
-|      73 | 0x1E92      |        7826 |
-|      74 | 0x1E93      |        7827 |
-|      75 | 0x1E94      |        7828 |
-|      76 | 0x1E95      |        7829 |
-|      77 | 0x1E96      |        7830 |
-|      78 | 0x1E97      |        7831 |
-|      79 | 0x1E98      |        7832 |
-|      80 | 0x1E99      |        7833 |
-|      81 | 0x1E9A      |        7834 |
-|      82 | 0x1E9B      |        7835 |
+|      71 | 0x1E92      |        7826 |
+|      72 | 0x1E93      |        7827 |
+|      73 | 0x1E94      |        7828 |
+|      74 | 0x1E95      |        7829 |
+|      75 | 0x1E96      |        7830 |
+|      76 | 0x1E97      |        7831 |
+|      77 | 0x1E98      |        7832 |
+|      78 | 0x1E99      |        7833 |
+|      79 | 0x1E9A      |        7834 |
+|      80 | 0x1E9B      |        7835 |
+|      81 | 0x1E9C      |        7836 |
+|      82 | 0x1E9D      |        7837 |
 |      83 | 0x001F      |          31 |
-|      84 | 0x1E9C      |        7836 |
-|      85 | 0x1EA1      |        7841 |
-|      86 | 0x1EA2      |        7842 |
-|      87 | 0x1EA3      |        7843 |
+|      84 | 0x1E9E      |        7838 |
+|      85 | 0x1EA3      |        7843 |
+|      86 | 0x1EA4      |        7844 |
+|      87 | 0x1EA5      |        7845 |
 |      88 | 0x2F2F      |       12079 |
 |      89 | 0x012C      |         300 |
 |      90 | 0x2F30      |       12080 |
@@ -123,12 +123,12 @@
 |     100 | 0x0B99      |        2969 |
 |     101 | 0x1543      |        5443 |
 |     102 | 0x0096      |         150 |
-|     103 | 0x1EA4      |        7844 |
-|     104 | 0x1EA5      |        7845 |
-|     105 | 0x1EA8      |        7848 |
-|     106 | 0x1EAC      |        7852 |
-|     107 | 0x1EA6      |        7846 |
-|     108 | 0x1EA7      |        7847 |
+|     103 | 0x1EA6      |        7846 |
+|     104 | 0x1EA7      |        7847 |
+|     105 | 0x1EAA      |        7850 |
+|     106 | 0x1EAE      |        7854 |
+|     107 | 0x1EA8      |        7848 |
+|     108 | 0x1EA9      |        7849 |
 |     109 | 0x16C2      |        5826 |
 |     110 | 0x0032      |          50 |
 |     111 | 0x16C5      |        5829 |
@@ -153,67 +153,67 @@
 
 ## String References
 
-- **7785**: Well met, friend. I am the prefect for the resistance effort in this area. We seek the cooperation of stout-hearted individuals in defending the pulse martello against the Abyssean fiends.
-- **7786**: What will you do? [Nothing./Ask general questions./Learn about the current situation./Receive Pennant./Return Pennant./Exchange Resistance Credits.]
-- **7787**: Ask about... [Nothing right now./The enemy's objective./The pulse martello./How I can do my part.]
-- **7788**: The pulse martello, the cornerstone of the resistance effort, is stationed here at this outpost.
-- **7789**: Its operation requires "martello cores," the type and quantity of which determines the potency of the aid it lends to our activities.
-- **7790**: The Abyssean hordes, however, somehow learned of the pulse martello's inner workings, and have taken to targeting the outpost. On more than a few occasions, they have broken through our defenses and made off with cores.
-- **7791**: We've rallied our forces and retrieved some of the stolen cores, but doing so has been observed to infuriate the enemy.
-- **7792**: Through the course of our encounters with the fiends, we've attained a better understanding of their behavioral patterns.
-- **7793**: First of all, a more powerful pulse martello incurs the ire of the creatures, provoking them to come at us in force.
-- **7794**: Secondly, the greater sway we hold over the area, the more frequently the enemy will attack.
-- **7795**: The Abyssean hordes are determined not to allow us a foothold in the struggle. Actions that forward our cause in any capacity, such as slaying them in great numbers and bolstering the resistance effort, are surefire ways to gain their attention.
-- **7796**: Lastly, enemy forces will emerge and surge towards the outpost from one of three locations, each called a "verge."
-- **7797**: The timing at which they will next appear from a certain verge is ever-changing, so we must remain on constant alert.
-- **7798**: Armed with this intel, we're constantly buttressing ourselves against future enemy attacks.
-- **7799**: Experience has taught us much about when to expect the Abyssean hordes, and in what numbers. If you wish to know this information, simply ask me.
-- **7800**: The pulse martello, stationed a short distance from here, was developed to serve as the bastion for area-wide resistance efforts.
-- **7801**: It sustains our activities in myriad ways, such as amplifying support effects and lessening the burden borne by veridical confluxes.
-- **7802**: By installing increasingly potent cores, and in greater numbers, we can boost the martello's power output, thus further enhancing its benefits.
-- **7803**: As you can see, the pulse martello is instrumental in our struggle for survival.
-- **7804**: Which makes it doubly unfortunate that it isn't more durable; the fiends can break through to steal its cores all too easily.
-- **7805**: Stolen cores can be retrieved by slaying the enemy. In so doing, however, we incur their ire, and they will later come back at us with greater strength.
-- **7806**: A more powerful pulse martello will also draw the enemy's attention. It is believed that the fiends can sense the energy waves being emitted, even if they do not derive the benefits as we do.
-- **7807**: As such, any upgrades performed to the purlse martello must be accompanied with the shoring up of our defenses. The type and number of cores installed are a fairly accurate indicator of what the enemy will throw at us. If you wish to know these details, simply ask me.
-- **7808**: When the enemy attacks, we can never have too many sword arms to help us defend the outpost.
-- **7809**: However, that isn't the only area in which we require assistance. During lulls in the fighting, you can participate in various resistance operations to help us consolidate our defenses.
-- **7810**: Whichever way you choose to assist us, you will be rewarded in Resistance Credits, the amount of which is determined through an evaluation.
-- **7811**: Resistance Credits, in particular, can be traded to me in exchange for rare and useful items.
-- **7812**: Should you wish to help us defend the outpost, speak with me and I will issue you with a Pennant.
-- **7813**: A Pennant identifies you as having received official clearance to participate in the outpost's defense. Without it, you will not receive any recompense for your contributions. Be sure to keep this in mind.
-- **7814**: As the performance evaluation is carried out on a per-enemy basis, it is permissible to return the Pennant at any time.
-- **7815**: The Pennant will automatically disappear upon the conclusion of battle, but you may choose to return it before then simply by speaking to me.
-- **7816**: If you wish to undertake resistance operations, the resistance sapper will be pleased to assist.
-- **7817**: Our survival rests upon your cooperation. I beseech you to do your part.
-- **7818**: Learn about the status of... [Nothing right now./The outpost./The martello cores./The [eastern/southeastern/southern/southwestern/western/northwestern/northern/northeastern] verge./The [eastern/southeastern/southern/southwestern/western/northwestern/northern/northeastern] verge./The [eastern/southeastern/southern/southwestern/western/northwestern/northern/northeastern] verge.]
-- **7819**: Currently, the status of the outpost is as follows:
-- **7820**: Condition: $0% Durability: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
-- **7821**: Currently, the status of the garrison is as follows:
-- **7822**: Attack: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Delay: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Skill: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Recovery: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
-- **7823**: The following cores are currently installed:
-- **7824**: Choose a core to examine. [None./3 (Level: $1)/$3 (Level: $3)/$3 (Level: $5)/$3 (Level: $7)/$3 (Level: $9)/$3 (Level: $11)/$3 (Level: $13)]
-- **7825**: Let's see... The energy output level for the $3 is currently $1.
-- **7826**: Martello recast time in the area is [unimproved/very slightly reduced/slightly reduced/moderately reduced/greatly reduced/drastically reduced].
-- **7827**: Veridical conflux operating cost in the area is [unimproved/very slightly reduced/slightly reduced/moderately reduced/greatly reduced/drastically reduced].
-- **7828**: Support effect potency in the area is [unimproved/very slightly enhanced/slightly enhanced/moderately enhanced/greatly enhanced/drastically enhanced].
-- **7829**: Experience yield in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased].
-- **7830**: Cruor yield in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased].
-- **7831**: Pyxis manifestation rate in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased].
-- **7832**: Treasure yield in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased].
-- **7833**: Intel estimates a $1 percent chance that the enemy will attack from the [eastern/southeastern/southern/southern/western/northwestern/northern/northeastern] verge. [There is time still to shore up our defenses./We had best step up our preparations./I pray that the traps will have the desired effect./They will be upon us at any moment now./They come even as we speak!]
-- **7834**: The fore trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will weaken the enemy's attack [only very slightly/only slightly/moderately/considerably/drastically].
-- **7835**: The rear trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will afflict the enemy with [only a very brief/only a brief/a moderate/an extended/a greatly extended] duration of paralysis.
-- **7836**: As we are not currently under enemy attack, I cannot issue you with a Pennant. Nevertheless, your enthusiasm is highly appreciated.
-- **7841**: You currently have $0 Resistance [Credit/Credits] to your name.
-- **7842**: I can offer you a wide range of items in exchange for your Resistance Credits.
-- **7843**: Exchange for what? (Credits: $0) [Never mind./Items./Key items./Temporary items.]
-- **7844**: Select an item. (Credits: $0) [Never mind./$1: $2/$3: $4/$5: $6/$7: $8/$9: $10/$11: $12/$13: $14/$15: $16/$17: $18/$19: $20/$21: $22/$23: $24/$25: $26/$27: $28/$29: $30/$31: $ /$33: $"/$35: $$]
-- **7845**: I can offer you $0 in exchange for $1 Resistance [Credit/Credits].
-- **7846**: Select an item. (Credits: $0) [Never mind./$3: $2/$3: $4/$3: $6/$3: $8/$3: $10/$3: $12/$3: $14/$3: $16/$3: $18/$3: $20/$3: $22/$3: $24/$3: $26/$3: $28/$3: $30/$3: $ /$3: $"/$3: $$]
-- **7847**: I can offer you $6 in exchange for $1 Resistance [Credit/Credits].
-- **7848**: Proceed with exchange? (Credits: $0) [Yes./No.]
-- **7852**: Hmm... It appears you do not have enough Resistance Credits.
+- **7787**: Well met, friend. I am the prefect for the resistance effort in this area. We seek the cooperation of stout-hearted individuals in defending the pulse martello against the Abyssean fiends.
+- **7788**: What will you do? [Nothing./Ask general questions./Learn about the current situation./Receive Pennant./Return Pennant./Exchange Resistance Credits.]
+- **7789**: Ask about... [Nothing right now./The enemy's objective./The pulse martello./How I can do my part.]
+- **7790**: The pulse martello, the cornerstone of the resistance effort, is stationed here at this outpost.
+- **7791**: Its operation requires "martello cores," the type and quantity of which determines the potency of the aid it lends to our activities.
+- **7792**: The Abyssean hordes, however, somehow learned of the pulse martello's inner workings, and have taken to targeting the outpost. On more than a few occasions, they have broken through our defenses and made off with cores.
+- **7793**: We've rallied our forces and retrieved some of the stolen cores, but doing so has been observed to infuriate the enemy.
+- **7794**: Through the course of our encounters with the fiends, we've attained a better understanding of their behavioral patterns.
+- **7795**: First of all, a more powerful pulse martello incurs the ire of the creatures, provoking them to come at us in force.
+- **7796**: Secondly, the greater sway we hold over the area, the more frequently the enemy will attack.
+- **7797**: The Abyssean hordes are determined not to allow us a foothold in the struggle. Actions that forward our cause in any capacity, such as slaying them in great numbers and bolstering the resistance effort, are surefire ways to gain their attention.
+- **7798**: Lastly, enemy forces will emerge and surge towards the outpost from one of three locations, each called a "verge."
+- **7799**: The timing at which they will next appear from a certain verge is ever-changing, so we must remain on constant alert.
+- **7800**: Armed with this intel, we're constantly buttressing ourselves against future enemy attacks.
+- **7801**: Experience has taught us much about when to expect the Abyssean hordes, and in what numbers. If you wish to know this information, simply ask me.
+- **7802**: The pulse martello, stationed a short distance from here, was developed to serve as the bastion for area-wide resistance efforts.
+- **7803**: It sustains our activities in myriad ways, such as amplifying support effects and lessening the burden borne by veridical confluxes.
+- **7804**: By installing increasingly potent cores, and in greater numbers, we can boost the martello's power output, thus further enhancing its benefits.
+- **7805**: As you can see, the pulse martello is instrumental in our struggle for survival.
+- **7806**: Which makes it doubly unfortunate that it isn't more durable; the fiends can break through to steal its cores all too easily.
+- **7807**: Stolen cores can be retrieved by slaying the enemy. In so doing, however, we incur their ire, and they will later come back at us with greater strength.
+- **7808**: A more powerful pulse martello will also draw the enemy's attention. It is believed that the fiends can sense the energy waves being emitted, even if they do not derive the benefits as we do.
+- **7809**: As such, any upgrades performed to the purlse martello must be accompanied with the shoring up of our defenses. The type and number of cores installed are a fairly accurate indicator of what the enemy will throw at us. If you wish to know these details, simply ask me.
+- **7810**: When the enemy attacks, we can never have too many sword arms to help us defend the outpost.
+- **7811**: However, that isn't the only area in which we require assistance. During lulls in the fighting, you can participate in various resistance operations to help us consolidate our defenses.
+- **7812**: Whichever way you choose to assist us, you will be rewarded in Resistance Credits, the amount of which is determined through an evaluation.
+- **7813**: Resistance Credits, in particular, can be traded to me in exchange for rare and useful items.
+- **7814**: Should you wish to help us defend the outpost, speak with me and I will issue you with a Pennant.
+- **7815**: A Pennant identifies you as having received official clearance to participate in the outpost's defense. Without it, you will not receive any recompense for your contributions. Be sure to keep this in mind.
+- **7816**: As the performance evaluation is carried out on a per-enemy basis, it is permissible to return the Pennant at any time.
+- **7817**: The Pennant will automatically disappear upon the conclusion of battle, but you may choose to return it before then simply by speaking to me.
+- **7818**: If you wish to undertake resistance operations, the resistance sapper will be pleased to assist.
+- **7819**: Our survival rests upon your cooperation. I beseech you to do your part.
+- **7820**: Learn about the status of... [Nothing right now./The outpost./The martello cores./The [eastern/southeastern/southern/southwestern/western/northwestern/northern/northeastern] verge./The [eastern/southeastern/southern/southwestern/western/northwestern/northern/northeastern] verge./The [eastern/southeastern/southern/southwestern/western/northwestern/northern/northeastern] verge.]
+- **7821**: Currently, the status of the outpost is as follows:
+- **7822**: Condition: $0% Durability: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **7823**: Currently, the status of the garrison is as follows:
+- **7824**: Attack: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Delay: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Skill: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Recovery: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **7825**: The following cores are currently installed:
+- **7826**: Choose a core to examine. [None./3 (Level: $1)/$3 (Level: $3)/$3 (Level: $5)/$3 (Level: $7)/$3 (Level: $9)/$3 (Level: $11)/$3 (Level: $13)]
+- **7827**: Let's see... The energy output level for the $3 is currently $1.
+- **7828**: Martello recast time in the area is [unimproved/very slightly reduced/slightly reduced/moderately reduced/greatly reduced/drastically reduced].
+- **7829**: Veridical conflux operating cost in the area is [unimproved/very slightly reduced/slightly reduced/moderately reduced/greatly reduced/drastically reduced].
+- **7830**: Support effect potency in the area is [unimproved/very slightly enhanced/slightly enhanced/moderately enhanced/greatly enhanced/drastically enhanced].
+- **7831**: Experience yield in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased].
+- **7832**: Cruor yield in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased].
+- **7833**: Pyxis manifestation rate in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased].
+- **7834**: Treasure yield in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased].
+- **7835**: Intel estimates a $1 percent chance that the enemy will attack from the [eastern/southeastern/southern/southern/western/northwestern/northern/northeastern] verge. [There is time still to shore up our defenses./We had best step up our preparations./I pray that the traps will have the desired effect./They will be upon us at any moment now./They come even as we speak!]
+- **7836**: The fore trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will weaken the enemy's attack [only very slightly/only slightly/moderately/considerably/drastically].
+- **7837**: The rear trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will afflict the enemy with [only a very brief/only a brief/a moderate/an extended/a greatly extended] duration of paralysis.
+- **7838**: As we are not currently under enemy attack, I cannot issue you with a Pennant. Nevertheless, your enthusiasm is highly appreciated.
+- **7843**: You currently have $0 Resistance [Credit/Credits] to your name.
+- **7844**: I can offer you a wide range of items in exchange for your Resistance Credits.
+- **7845**: Exchange for what? (Credits: $0) [Never mind./Items./Key items./Temporary items.]
+- **7846**: Select an item. (Credits: $0) [Never mind./$1: $2/$3: $4/$5: $6/$7: $8/$9: $10/$11: $12/$13: $14/$15: $16/$17: $18/$19: $20/$21: $22/$23: $24/$25: $26/$27: $28/$29: $30/$31: $ /$33: $"/$35: $$]
+- **7847**: I can offer you $0 in exchange for $1 Resistance [Credit/Credits].
+- **7848**: Select an item. (Credits: $0) [Never mind./$3: $2/$3: $4/$3: $6/$3: $8/$3: $10/$3: $12/$3: $14/$3: $16/$3: $18/$3: $20/$3: $22/$3: $24/$3: $26/$3: $28/$3: $30/$3: $ /$3: $"/$3: $$]
+- **7849**: I can offer you $6 in exchange for $1 Resistance [Credit/Credits].
+- **7850**: Proceed with exchange? (Credits: $0) [Yes./No.]
+- **7854**: Hmm... It appears you do not have enough Resistance Credits.
 
 ## Events
 
@@ -638,14 +638,14 @@
 SUBROUTINE_01F8:
  89: 0x01F8 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
  90: 0x01FA [0x1E] EventEntity looks at LocalPlayer and starts talking
- 91: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+ 91: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
     → "Well met, friend. I am the prefect for the resistance effort in this area. We seek the cooperation of stout-hearted individuals in defending the pulse martello against the Abyssean fiends."
  92: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0203 [0x05] ExtData[1]->WorkLocal[44] = 1
 
 SUBROUTINE_0206:
  94: 0x0206 [0x02] IF !(ExtData[1]->WorkLocal[44] <= 0*) GOTO 0x11FA
- 95: 0x020E [0x24] CREATE_DIALOG(message_id=7786*, default_option=0*, option_flags=ExtData[1]->WorkLocal[38])
+ 95: 0x020E [0x24] CREATE_DIALOG(message_id=7788*, default_option=0*, option_flags=ExtData[1]->WorkLocal[38])
     → "What will you do? [Nothing./Ask general questions./Learn about the current situation./Receive Pennant./Return Pennant./Exchange Resistance Credits.]"
  96: 0x0215 [0x25] WAIT_DIALOG_SELECT()
  97: 0x0216 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0229
@@ -657,105 +657,105 @@ SUBROUTINE_0206:
 
 SUBROUTINE_0234:
 103: 0x0234 [0x02] IF !(ExtData[1]->WorkLocal[45] <= 0*) GOTO 0x02EE
-104: 0x023C [0x24] CREATE_DIALOG(message_id=7787*, default_option=0*, option_flags=0*)
+104: 0x023C [0x24] CREATE_DIALOG(message_id=7789*, default_option=0*, option_flags=0*)
     → "Ask about... [Nothing right now./The enemy's objective./The pulse martello./How I can do my part.]"
 105: 0x0243 [0x25] WAIT_DIALOG_SELECT()
 106: 0x0244 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0252
 107: 0x024C [0x06] ExtData[1]->WorkLocal[45] = 0
 108: 0x024F [0x01] GOTO 0x02EB
 109: 0x0252 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x028D
-110: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
+110: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
     → "The pulse martello, the cornerstone of the resistance effort, is stationed here at this outpost."
 111: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
+112: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
     → "Its operation requires "martello cores," the type and quantity of which determines the potency of the aid it lends to our activities."
 113: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
-114: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
+114: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
     → "The Abyssean hordes, however, somehow learned of the pulse martello's inner workings, and have taken to targeting the outpost. On more than a few occasions, they have broken through our defenses and made off with cores."
 115: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
+116: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
     → "We've rallied our forces and retrieved some of the stolen cores, but doing so has been observed to infuriate the enemy."
 117: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
-118: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
+118: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
     → "Through the course of our encounters with the fiends, we've attained a better understanding of their behavioral patterns."
 119: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
+120: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "First of all, a more powerful pulse martello incurs the ire of the creatures, provoking them to come at us in force."
 121: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+122: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "Secondly, the greater sway we hold over the area, the more frequently the enemy will attack."
 123: 0x0275 [0x23] WAIT_FOR_DIALOG_INTERACTION
-124: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+124: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
     → "The Abyssean hordes are determined not to allow us a foothold in the struggle. Actions that forward our cause in any capacity, such as slaying them in great numbers and bolstering the resistance effort, are surefire ways to gain their attention."
 125: 0x0279 [0x23] WAIT_FOR_DIALOG_INTERACTION
-126: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
+126: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
     → "Lastly, enemy forces will emerge and surge towards the outpost from one of three locations, each called a "verge.""
 127: 0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
-128: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
+128: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
     → "The timing at which they will next appear from a certain verge is ever-changing, so we must remain on constant alert."
 129: 0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
+130: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
     → "Armed with this intel, we're constantly buttressing ourselves against future enemy attacks."
 131: 0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
+132: 0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
     → "Experience has taught us much about when to expect the Abyssean hordes, and in what numbers. If you wish to know this information, simply ask me."
 133: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x028A [0x01] GOTO 0x02EB
 135: 0x028D [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x02B8
-136: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
+136: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
     → "The pulse martello, stationed a short distance from here, was developed to serve as the bastion for area-wide resistance efforts."
 137: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
+138: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
     → "It sustains our activities in myriad ways, such as amplifying support effects and lessening the burden borne by veridical confluxes."
 139: 0x029C [0x23] WAIT_FOR_DIALOG_INTERACTION
-140: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
+140: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
     → "By installing increasingly potent cores, and in greater numbers, we can boost the martello's power output, thus further enhancing its benefits."
 141: 0x02A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-142: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
+142: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
     → "As you can see, the pulse martello is instrumental in our struggle for survival."
 143: 0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
+144: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
     → "Which makes it doubly unfortunate that it isn't more durable; the fiends can break through to steal its cores all too easily."
 145: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-146: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
+146: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
     → "Stolen cores can be retrieved by slaying the enemy. In so doing, however, we incur their ire, and they will later come back at us with greater strength."
 147: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-148: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
+148: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7808*)
     → "A more powerful pulse martello will also draw the enemy's attention. It is believed that the fiends can sense the energy waves being emitted, even if they do not derive the benefits as we do."
 149: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-150: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
+150: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7809*)
     → "As such, any upgrades performed to the purlse martello must be accompanied with the shoring up of our defenses. The type and number of cores installed are a fairly accurate indicator of what the enemy will throw at us. If you wish to know these details, simply ask me."
 151: 0x02B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x02B5 [0x01] GOTO 0x02EB
 153: 0x02B8 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02EB
-154: 0x02C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7808*)
+154: 0x02C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
     → "When the enemy attacks, we can never have too many sword arms to help us defend the outpost."
 155: 0x02C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-156: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7809*)
+156: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
     → "However, that isn't the only area in which we require assistance. During lulls in the fighting, you can participate in various resistance operations to help us consolidate our defenses."
 157: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-158: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+158: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "Whichever way you choose to assist us, you will be rewarded in Resistance Credits, the amount of which is determined through an evaluation."
 159: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-160: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+160: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
     → "Resistance Credits, in particular, can be traded to me in exchange for rare and useful items."
 161: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-162: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
+162: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
     → "Should you wish to help us defend the outpost, speak with me and I will issue you with a Pennant."
 163: 0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
+164: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7815*)
     → "A Pennant identifies you as having received official clearance to participate in the outpost's defense. Without it, you will not receive any recompense for your contributions. Be sure to keep this in mind."
 165: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-166: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
+166: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
     → "As the performance evaluation is carried out on a per-enemy basis, it is permissible to return the Pennant at any time."
 167: 0x02DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-168: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7815*)
+168: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
     → "The Pennant will automatically disappear upon the conclusion of battle, but you may choose to return it before then simply by speaking to me."
 169: 0x02DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-170: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
+170: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
     → "If you wish to undertake resistance operations, the resistance sapper will be pleased to assist."
 171: 0x02E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-172: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
+172: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7819*)
     → "Our survival rests upon your cooperation. I beseech you to do your part."
 173: 0x02E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x02E8 [0x01] GOTO 0x02EB
@@ -771,34 +771,34 @@ SUBROUTINE_02FC:
 180: 0x0304 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
 181: 0x0309 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[23]
 182: 0x030E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[30]
-183: 0x0313 [0x24] CREATE_DIALOG(message_id=7818*, default_option=0*, option_flags=0*)
+183: 0x0313 [0x24] CREATE_DIALOG(message_id=7820*, default_option=0*, option_flags=0*)
     → "Learn about the status of... [Nothing right now./The outpost./The martello cores./The [eastern/southeastern/southern/southwestern/western/northwestern/northern/northeastern] verge./The [eastern/southeastern/southern/southwestern/western/northwestern/northern/northeastern] verge./The [eastern/southeastern/southern/southwestern/western/northwestern/northern/northeastern] verge.]"
 184: 0x031A [0x25] WAIT_DIALOG_SELECT()
 185: 0x031B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0329
 186: 0x0323 [0x06] ExtData[1]->WorkLocal[45] = 0
 187: 0x0326 [0x01] GOTO 0x0577
 188: 0x0329 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0362
-189: 0x0331 [0x1D] PRINT_EVENT_MESSAGE(message_id=7819*)
+189: 0x0331 [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
     → "Currently, the status of the outpost is as follows:"
 190: 0x0334 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x0335 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
 192: 0x033A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
-193: 0x033F [0x48] [System] [7820*]:
+193: 0x033F [0x48] [System] [7822*]:
     → "Condition: $0% Durability: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
 194: 0x0342 [0x23] WAIT_FOR_DIALOG_INTERACTION
-195: 0x0343 [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
+195: 0x0343 [0x1D] PRINT_EVENT_MESSAGE(message_id=7823*)
     → "Currently, the status of the garrison is as follows:"
 196: 0x0346 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x0347 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
 198: 0x034C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
 199: 0x0351 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[7]
 200: 0x0356 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
-201: 0x035B [0x48] [System] [7822*]:
+201: 0x035B [0x48] [System] [7824*]:
     → "Attack: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Delay: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Skill: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Recovery: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
 202: 0x035E [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x035F [0x01] GOTO 0x0577
 204: 0x0362 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x04C9
-205: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=7823*)
+205: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
     → "The following cores are currently installed:"
 206: 0x036D [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x036E [0x05] ExtData[1]->WorkLocal[46] = 1
@@ -819,7 +819,7 @@ SUBROUTINE_0371:
 220: 0x03B0 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[14]
 221: 0x03B5 [0x03] Work_Zone_1700[4] = 1708*
 222: 0x03BA [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[15]
-223: 0x03BF [0x24] CREATE_DIALOG(message_id=7824*, default_option=0*, option_flags=0*)
+223: 0x03BF [0x24] CREATE_DIALOG(message_id=7826*, default_option=0*, option_flags=0*)
     → "Choose a core to examine. [None./3 (Level: $1)/$3 (Level: $3)/$3 (Level: $5)/$3 (Level: $7)/$3 (Level: $9)/$3 (Level: $11)/$3 (Level: $13)]"
 224: 0x03C6 [0x25] WAIT_DIALOG_SELECT()
 225: 0x03C7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D5
@@ -828,77 +828,77 @@ SUBROUTINE_0371:
 228: 0x03D5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03F7
 229: 0x03DD [0x03] Work_Zone[2] = 1702*
 230: 0x03E2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
-231: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+231: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "Let's see... The energy output level for the $3 is currently $1."
 232: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x03EB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-234: 0x03F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7826*)
+234: 0x03F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7828*)
     → "Martello recast time in the area is [unimproved/very slightly reduced/slightly reduced/moderately reduced/greatly reduced/drastically reduced]."
 235: 0x03F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x03F4 [0x01] GOTO 0x04C3
 237: 0x03F7 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0419
 238: 0x03FF [0x03] Work_Zone[2] = 1703*
 239: 0x0404 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[10]
-240: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+240: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "Let's see... The energy output level for the $3 is currently $1."
 241: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x040D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
-243: 0x0412 [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
+243: 0x0412 [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
     → "Veridical conflux operating cost in the area is [unimproved/very slightly reduced/slightly reduced/moderately reduced/greatly reduced/drastically reduced]."
 244: 0x0415 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x0416 [0x01] GOTO 0x04C3
 246: 0x0419 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x043B
 247: 0x0421 [0x03] Work_Zone[2] = 1704*
 248: 0x0426 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
-249: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+249: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "Let's see... The energy output level for the $3 is currently $1."
 250: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x042F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-252: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=7828*)
+252: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
     → "Support effect potency in the area is [unimproved/very slightly enhanced/slightly enhanced/moderately enhanced/greatly enhanced/drastically enhanced]."
 253: 0x0437 [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x0438 [0x01] GOTO 0x04C3
 255: 0x043B [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x045D
 256: 0x0443 [0x03] Work_Zone[2] = 1705*
 257: 0x0448 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
-258: 0x044D [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+258: 0x044D [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "Let's see... The energy output level for the $3 is currently $1."
 259: 0x0450 [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x0451 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-261: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
+261: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
     → "Experience yield in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased]."
 262: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x045A [0x01] GOTO 0x04C3
 264: 0x045D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x047F
 265: 0x0465 [0x03] Work_Zone[2] = 1706*
 266: 0x046A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-267: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+267: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "Let's see... The energy output level for the $3 is currently $1."
 268: 0x0472 [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x0473 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
-270: 0x0478 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
+270: 0x0478 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
     → "Cruor yield in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased]."
 271: 0x047B [0x23] WAIT_FOR_DIALOG_INTERACTION
 272: 0x047C [0x01] GOTO 0x04C3
 273: 0x047F [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x04A1
 274: 0x0487 [0x03] Work_Zone[2] = 1707*
 275: 0x048C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
-276: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+276: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "Let's see... The energy output level for the $3 is currently $1."
 277: 0x0494 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0495 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-279: 0x049A [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
+279: 0x049A [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
     → "Pyxis manifestation rate in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased]."
 280: 0x049D [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x049E [0x01] GOTO 0x04C3
 282: 0x04A1 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x04C3
 283: 0x04A9 [0x03] Work_Zone[2] = 1708*
 284: 0x04AE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
-285: 0x04B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+285: 0x04B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "Let's see... The energy output level for the $3 is currently $1."
 286: 0x04B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x04B7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
-288: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
+288: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
     → "Treasure yield in the area is [unimproved/very slightly increased/slightly increased/moderately increased/greatly increased/drastically increased]."
 289: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x04C0 [0x01] GOTO 0x04C3
@@ -910,17 +910,17 @@ SUBROUTINE_04C3:
 294: 0x04D1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
 295: 0x04D6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
 296: 0x04DB [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[18]
-297: 0x04E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
+297: 0x04E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
     → "Intel estimates a $1 percent chance that the enemy will attack from the [eastern/southeastern/southern/southern/western/northwestern/northern/northeastern] verge. [There is time still to shore up our defenses./We had best step up our preparations./I pray that the traps will have the desired effect./They will be upon us at any moment now./They come even as we speak!]"
 298: 0x04E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 299: 0x04E4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
 300: 0x04E9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[20]
-301: 0x04EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
+301: 0x04EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
     → "The fore trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will weaken the enemy's attack [only very slightly/only slightly/moderately/considerably/drastically]."
 302: 0x04F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x04F2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[21]
 304: 0x04F7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[22]
-305: 0x04FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+305: 0x04FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "The rear trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will afflict the enemy with [only a very brief/only a brief/a moderate/an extended/a greatly extended] duration of paralysis."
 306: 0x04FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 307: 0x0500 [0x01] GOTO 0x0577
@@ -928,17 +928,17 @@ SUBROUTINE_04C3:
 309: 0x050B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[23]
 310: 0x0510 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[24]
 311: 0x0515 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[25]
-312: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
+312: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
     → "Intel estimates a $1 percent chance that the enemy will attack from the [eastern/southeastern/southern/southern/western/northwestern/northern/northeastern] verge. [There is time still to shore up our defenses./We had best step up our preparations./I pray that the traps will have the desired effect./They will be upon us at any moment now./They come even as we speak!]"
 313: 0x051D [0x23] WAIT_FOR_DIALOG_INTERACTION
 314: 0x051E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[26]
 315: 0x0523 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[27]
-316: 0x0528 [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
+316: 0x0528 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
     → "The fore trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will weaken the enemy's attack [only very slightly/only slightly/moderately/considerably/drastically]."
 317: 0x052B [0x23] WAIT_FOR_DIALOG_INTERACTION
 318: 0x052C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
 319: 0x0531 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
-320: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+320: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "The rear trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will afflict the enemy with [only a very brief/only a brief/a moderate/an extended/a greatly extended] duration of paralysis."
 321: 0x0539 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x053A [0x01] GOTO 0x0577
@@ -946,17 +946,17 @@ SUBROUTINE_04C3:
 324: 0x0545 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[30]
 325: 0x054A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[31]
 326: 0x054F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[32]
-327: 0x0554 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
+327: 0x0554 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
     → "Intel estimates a $1 percent chance that the enemy will attack from the [eastern/southeastern/southern/southern/western/northwestern/northern/northeastern] verge. [There is time still to shore up our defenses./We had best step up our preparations./I pray that the traps will have the desired effect./They will be upon us at any moment now./They come even as we speak!]"
 328: 0x0557 [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x0558 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[33]
 330: 0x055D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[34]
-331: 0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
+331: 0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
     → "The fore trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will weaken the enemy's attack [only very slightly/only slightly/moderately/considerably/drastically]."
 332: 0x0565 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x0566 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[35]
 334: 0x056B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[36]
-335: 0x0570 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+335: 0x0570 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "The rear trap's current energy store is [paltry/low/moderate/high/brimming]. We expect that it will afflict the enemy with [only a very brief/only a brief/a moderate/an extended/a greatly extended] duration of paralysis."
 336: 0x0573 [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x0574 [0x01] GOTO 0x0577
@@ -971,7 +971,7 @@ SUBROUTINE_0577:
 344: 0x0598 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=1*)
 345: 0x05A1 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=0*)
 346: 0x05AA [0x01] GOTO 0x05B1
-347: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+347: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
     → "As we are not currently under enemy attack, I cannot issue you with a Pennant. Nevertheless, your enthusiasm is highly appreciated."
 348: 0x05B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -985,10 +985,10 @@ SUBROUTINE_05B1:
 355: 0x05D9 [0x01] GOTO 0x11F7
 356: 0x05DC [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x11F7
 357: 0x05E4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-358: 0x05E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+358: 0x05E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "You currently have $0 Resistance [Credit/Credits] to your name."
 359: 0x05EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-360: 0x05ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+360: 0x05ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
     → "I can offer you a wide range of items in exchange for your Resistance Credits."
 361: 0x05F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 362: 0x05F1 [0x05] ExtData[1]->WorkLocal[45] = 1
@@ -998,7 +998,7 @@ SUBROUTINE_05F4:
 364: 0x05FC [0x06] ExtData[1]->WorkLocal[39] = 0
 365: 0x05FF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[39], bit_index_work_offset=2*, condition_work_offset=1*)
 366: 0x0606 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-367: 0x060B [0x24] CREATE_DIALOG(message_id=7843*, default_option=0*, option_flags=ExtData[1]->WorkLocal[39])
+367: 0x060B [0x24] CREATE_DIALOG(message_id=7845*, default_option=0*, option_flags=ExtData[1]->WorkLocal[39])
     → "Exchange for what? (Credits: $0) [Never mind./Items./Key items./Temporary items.]"
 368: 0x0612 [0x25] WAIT_DIALOG_SELECT()
 369: 0x0613 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0621
@@ -1086,7 +1086,7 @@ SUBROUTINE_062C:
 449: 0x07F3 [0x03] Work_Zone_1700[28] = 0*
 450: 0x07F8 [0x02] IF !(Work_Zone_1700[27] == 0*) GOTO 0x0807
 451: 0x0800 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[39], bit_index_work_offset=18*, condition_work_offset=1*)
-452: 0x0807 [0x24] CREATE_DIALOG(message_id=7844*, default_option=0*, option_flags=ExtData[1]->WorkLocal[39])
+452: 0x0807 [0x24] CREATE_DIALOG(message_id=7846*, default_option=0*, option_flags=ExtData[1]->WorkLocal[39])
     → "Select an item. (Credits: $0) [Never mind./$1: $2/$3: $4/$5: $6/$7: $8/$9: $10/$11: $12/$13: $14/$15: $16/$17: $18/$19: $20/$21: $22/$23: $24/$25: $26/$27: $28/$29: $30/$31: $ /$33: $"/$35: $$]"
 453: 0x080E [0x25] WAIT_DIALOG_SELECT()
 454: 0x080F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0826
@@ -1191,13 +1191,13 @@ SUBROUTINE_09FA:
 551: 0x0A02 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[42])
 552: 0x0A05 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[42]
 553: 0x0A0A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[43]
-554: 0x0A0F [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
+554: 0x0A0F [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
     → "I can offer you $0 in exchange for $1 Resistance [Credit/Credits]."
 555: 0x0A12 [0x23] WAIT_FOR_DIALOG_INTERACTION
 556: 0x0A13 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 557: 0x0A16 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[43]
 558: 0x0A1B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-559: 0x0A20 [0x24] CREATE_DIALOG(message_id=7848*, default_option=1*, option_flags=0*)
+559: 0x0A20 [0x24] CREATE_DIALOG(message_id=7850*, default_option=1*, option_flags=0*)
     → "Proceed with exchange? (Credits: $0) [Yes./No.]"
 560: 0x0A27 [0x25] WAIT_DIALOG_SELECT()
 561: 0x0A28 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A5D
@@ -1208,7 +1208,7 @@ SUBROUTINE_09FA:
 566: 0x0A41 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=3*)
 567: 0x0A4A [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[41])
 568: 0x0A53 [0x01] GOTO 0x0A5A
-569: 0x0A56 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+569: 0x0A56 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
     → "Hmm... It appears you do not have enough Resistance Credits."
 570: 0x0A59 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1265,7 +1265,7 @@ SUBROUTINE_0A79:
 616: 0x0B34 [0x03] Work_Zone_1700[26] = 1*
 617: 0x0B39 [0x03] Work_Zone_1700[27] = 0*
 618: 0x0B3E [0x03] Work_Zone_1700[28] = 1*
-619: 0x0B43 [0x24] CREATE_DIALOG(message_id=7846*, default_option=0*, option_flags=0*)
+619: 0x0B43 [0x24] CREATE_DIALOG(message_id=7848*, default_option=0*, option_flags=0*)
     → "Select an item. (Credits: $0) [Never mind./$3: $2/$3: $4/$3: $6/$3: $8/$3: $10/$3: $12/$3: $14/$3: $16/$3: $18/$3: $20/$3: $22/$3: $24/$3: $26/$3: $28/$3: $30/$3: $ /$3: $"/$3: $$]"
 620: 0x0B4A [0x25] WAIT_DIALOG_SELECT()
 621: 0x0B4B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B62
@@ -1369,12 +1369,12 @@ SUBROUTINE_0D36:
 717: 0x0D36 [0x02] IF !(ExtData[1]->WorkLocal[41] <= 0*) GOTO 0x0D9E
 718: 0x0D3E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[42]
 719: 0x0D43 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[43]
-720: 0x0D48 [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
+720: 0x0D48 [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
     → "I can offer you $6 in exchange for $1 Resistance [Credit/Credits]."
 721: 0x0D4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 722: 0x0D4C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[43]
 723: 0x0D51 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-724: 0x0D56 [0x24] CREATE_DIALOG(message_id=7848*, default_option=1*, option_flags=0*)
+724: 0x0D56 [0x24] CREATE_DIALOG(message_id=7850*, default_option=1*, option_flags=0*)
     → "Proceed with exchange? (Credits: $0) [Yes./No.]"
 725: 0x0D5D [0x25] WAIT_DIALOG_SELECT()
 726: 0x0D5E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D93
@@ -1385,7 +1385,7 @@ SUBROUTINE_0D36:
 731: 0x0D77 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=4*)
 732: 0x0D80 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[41])
 733: 0x0D89 [0x01] GOTO 0x0D90
-734: 0x0D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+734: 0x0D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
     → "Hmm... It appears you do not have enough Resistance Credits."
 735: 0x0D8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1479,7 +1479,7 @@ SUBROUTINE_0DAF:
 818: 0x0F76 [0x03] Work_Zone_1700[28] = 0*
 819: 0x0F7B [0x02] IF !(Work_Zone_1700[27] == 0*) GOTO 0x0F8A
 820: 0x0F83 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[39], bit_index_work_offset=18*, condition_work_offset=1*)
-821: 0x0F8A [0x24] CREATE_DIALOG(message_id=7844*, default_option=0*, option_flags=ExtData[1]->WorkLocal[39])
+821: 0x0F8A [0x24] CREATE_DIALOG(message_id=7846*, default_option=0*, option_flags=ExtData[1]->WorkLocal[39])
     → "Select an item. (Credits: $0) [Never mind./$1: $2/$3: $4/$5: $6/$7: $8/$9: $10/$11: $12/$13: $14/$15: $16/$17: $18/$19: $20/$21: $22/$23: $24/$25: $26/$27: $28/$29: $30/$31: $ /$33: $"/$35: $$]"
 822: 0x0F91 [0x25] WAIT_DIALOG_SELECT()
 823: 0x0F92 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FA9
@@ -1584,13 +1584,13 @@ SUBROUTINE_117D:
 920: 0x1185 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[42])
 921: 0x1188 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[42]
 922: 0x118D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[43]
-923: 0x1192 [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
+923: 0x1192 [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
     → "I can offer you $0 in exchange for $1 Resistance [Credit/Credits]."
 924: 0x1195 [0x23] WAIT_FOR_DIALOG_INTERACTION
 925: 0x1196 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 926: 0x1199 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[43]
 927: 0x119E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-928: 0x11A3 [0x24] CREATE_DIALOG(message_id=7848*, default_option=1*, option_flags=0*)
+928: 0x11A3 [0x24] CREATE_DIALOG(message_id=7850*, default_option=1*, option_flags=0*)
     → "Proceed with exchange? (Credits: $0) [Yes./No.]"
 929: 0x11AA [0x25] WAIT_DIALOG_SELECT()
 930: 0x11AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11E0
@@ -1601,7 +1601,7 @@ SUBROUTINE_117D:
 935: 0x11C4 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=5*)
 936: 0x11CD [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[41])
 937: 0x11D6 [0x01] GOTO 0x11DD
-938: 0x11D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+938: 0x11D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
     → "Hmm... It appears you do not have enough Resistance Credits."
 939: 0x11DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 

@@ -21,10 +21,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFFFFFF  |  4294967295 |
-|       1 | 0x1CC3      |        7363 |
+|       1 | 0x1CC5      |        7365 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x1D16      |        7446 |
+|       4 | 0x1D18      |        7448 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x0003      |           3 |
 |       7 | 0x0004      |           4 |
@@ -33,8 +33,8 @@
 
 ## String References
 
-- **7363**: Travel to the next floor? [Not yet./Exit the Assault area./Travel to the next floor./Travel to the floor on the right./Travel to the floor on the left./Travel to Floor $1./Travel to Floor ???.]
-- **7446**: Do you really want to exit? [Yes./No.]
+- **7365**: Travel to the next floor? [Not yet./Exit the Assault area./Travel to the next floor./Travel to the floor on the right./Travel to the floor on the left./Travel to Floor $1./Travel to Floor ???.]
+- **7448**: Do you really want to exit? [Yes./No.]
 
 ## Events
 
@@ -95,13 +95,13 @@
   1: 0x0003 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   2: 0x0008 [0x03] ExtData[1]->WorkLocal[1] = 4294967295*
   3: 0x000D [0x0F] ExtData[1]->WorkLocal[1] ^= ExtData[1]->WorkLocal[0]
-  4: 0x0012 [0x24] CREATE_DIALOG(message_id=7363*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+  4: 0x0012 [0x24] CREATE_DIALOG(message_id=7365*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Travel to the next floor? [Not yet./Exit the Assault area./Travel to the next floor./Travel to the floor on the right./Travel to the floor on the left./Travel to Floor $1./Travel to Floor ???.]"
   5: 0x0019 [0x25] WAIT_DIALOG_SELECT()
   6: 0x001A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0025
   7: 0x0022 [0x01] GOTO 0x00C1
   8: 0x0025 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0058
-  9: 0x002D [0x24] CREATE_DIALOG(message_id=7446*, default_option=1*, option_flags=0*)
+  9: 0x002D [0x24] CREATE_DIALOG(message_id=7448*, default_option=1*, option_flags=0*)
     → "Do you really want to exit? [Yes./No.]"
  10: 0x0034 [0x25] WAIT_DIALOG_SELECT()
  11: 0x0035 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004A

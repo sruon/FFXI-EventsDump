@@ -28,12 +28,12 @@
 |       3 | 0x0012      |          18 |
 |       4 | 0x003B      |          59 |
 |       5 | 0x0078      |         120 |
-|       6 | 0x1CE3      |        7395 |
+|       6 | 0x1CE5      |        7397 |
 |       7 | 0x0001      |           1 |
 
 ## String References
 
-- **7395**: Leave this room? [Yes./No.]
+- **7397**: Leave this room? [Yes./No.]
 
 ## Events
 
@@ -166,7 +166,7 @@
 ```
   0: 0x0097 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0099 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x009A [0x24] CREATE_DIALOG(message_id=7395*, default_option=1*, option_flags=0*)
+  2: 0x009A [0x24] CREATE_DIALOG(message_id=7397*, default_option=1*, option_flags=0*)
     → "Leave this room? [Yes./No.]"
   3: 0x00A1 [0x25] WAIT_DIALOG_SELECT()
   4: 0x00A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AD

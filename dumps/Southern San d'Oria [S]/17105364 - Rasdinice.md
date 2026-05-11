@@ -30,55 +30,55 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x09F8      |        2552 |
-|       1 | 0x2DAD      |       11693 |
-|       2 | 0x2DAE      |       11694 |
+|       1 | 0x2DAF      |       11695 |
+|       2 | 0x2DB0      |       11696 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x2DAF      |       11695 |
+|       4 | 0x2DB1      |       11697 |
 |       5 | 0x0006      |           6 |
-|       6 | 0x2DB0      |       11696 |
+|       6 | 0x2DB2      |       11698 |
 |       7 | 0x0007      |           7 |
-|       8 | 0x2D90      |       11664 |
-|       9 | 0x2D91      |       11665 |
-|      10 | 0x2D45      |       11589 |
-|      11 | 0x2D46      |       11590 |
-|      12 | 0x2D86      |       11654 |
-|      13 | 0x2D87      |       11655 |
+|       8 | 0x2D92      |       11666 |
+|       9 | 0x2D93      |       11667 |
+|      10 | 0x2D47      |       11591 |
+|      11 | 0x2D48      |       11592 |
+|      12 | 0x2D88      |       11656 |
+|      13 | 0x2D89      |       11657 |
 |      14 | 0x0001      |           1 |
-|      15 | 0x2D89      |       11657 |
-|      16 | 0x2D8A      |       11658 |
+|      15 | 0x2D8B      |       11659 |
+|      16 | 0x2D8C      |       11660 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x2D88      |       11656 |
-|      19 | 0x2D8B      |       11659 |
+|      18 | 0x2D8A      |       11658 |
+|      19 | 0x2D8D      |       11661 |
 |      20 | 0x00C8      |         200 |
 |      21 | 0x003C      |          60 |
-|      22 | 0x2D8C      |       11660 |
-|      23 | 0x2D8F      |       11663 |
+|      22 | 0x2D8E      |       11662 |
+|      23 | 0x2D91      |       11665 |
 |      24 | 0x0003      |           3 |
 |      25 | 0x0004      |           4 |
 |      26 | 0x0005      |           5 |
 |      27 | 0x0063      |          99 |
-|      28 | 0x2D8D      |       11661 |
-|      29 | 0x2D8E      |       11662 |
-|      30 | 0x1BDF      |        7135 |
-|      31 | 0x2D47      |       11591 |
-|      32 | 0x2D48      |       11592 |
-|      33 | 0x2D49      |       11593 |
-|      34 | 0x2D85      |       11653 |
-|      35 | 0x2DAC      |       11692 |
-|      36 | 0x2DAB      |       11691 |
-|      37 | 0x2D4A      |       11594 |
-|      38 | 0x2D4B      |       11595 |
-|      39 | 0x2D50      |       11600 |
-|      40 | 0x2D52      |       11602 |
+|      28 | 0x2D8F      |       11663 |
+|      29 | 0x2D90      |       11664 |
+|      30 | 0x1BE1      |        7137 |
+|      31 | 0x2D49      |       11593 |
+|      32 | 0x2D4A      |       11594 |
+|      33 | 0x2D4B      |       11595 |
+|      34 | 0x2D87      |       11655 |
+|      35 | 0x2DAE      |       11694 |
+|      36 | 0x2DAD      |       11693 |
+|      37 | 0x2D4C      |       11596 |
+|      38 | 0x2D4D      |       11597 |
+|      39 | 0x2D52      |       11602 |
+|      40 | 0x2D54      |       11604 |
 |      41 | 0x0009      |           9 |
-|      42 | 0x2D53      |       11603 |
-|      43 | 0x2D4C      |       11596 |
-|      44 | 0x2D4D      |       11597 |
-|      45 | 0x2D4E      |       11598 |
-|      46 | 0x2D4F      |       11599 |
+|      42 | 0x2D55      |       11605 |
+|      43 | 0x2D4E      |       11598 |
+|      44 | 0x2D4F      |       11599 |
+|      45 | 0x2D50      |       11600 |
+|      46 | 0x2D51      |       11601 |
 |      47 | 0x0008      |           8 |
-|      48 | 0x2DB4      |       11700 |
-|      49 | 0x2DB5      |       11701 |
+|      48 | 0x2DB6      |       11702 |
+|      49 | 0x2DB7      |       11703 |
 |      50 | 0x000B      |          11 |
 |      51 | 0x000C      |          12 |
 |      52 | 0x000F      |          15 |
@@ -90,58 +90,58 @@
 |      58 | 0x001B      |          27 |
 |      59 | 0x001C      |          28 |
 |      60 | 0x001F      |          31 |
-|      61 | 0x2D58      |       11608 |
-|      62 | 0x2D71      |       11633 |
+|      61 | 0x2D5A      |       11610 |
+|      62 | 0x2D73      |       11635 |
 |      63 | 0x000A      |          10 |
-|      64 | 0x2D70      |       11632 |
+|      64 | 0x2D72      |       11634 |
 |      65 | 0x000D      |          13 |
 |      66 | 0x000E      |          14 |
-|      67 | 0x2D72      |       11634 |
+|      67 | 0x2D74      |       11636 |
 |      68 | 0x0011      |          17 |
 |      69 | 0x0012      |          18 |
-|      70 | 0x2D59      |       11609 |
-|      71 | 0x2D73      |       11635 |
-|      72 | 0x2D7E      |       11646 |
-|      73 | 0x2D7F      |       11647 |
-|      74 | 0x2D74      |       11636 |
-|      75 | 0x2D75      |       11637 |
-|      76 | 0x2D5B      |       11611 |
-|      77 | 0x2D76      |       11638 |
-|      78 | 0x2D77      |       11639 |
-|      79 | 0x2D78      |       11640 |
-|      80 | 0x2D79      |       11641 |
-|      81 | 0x2D7A      |       11642 |
-|      82 | 0x2D5A      |       11610 |
-|      83 | 0x2D7B      |       11643 |
-|      84 | 0x2D7C      |       11644 |
-|      85 | 0x2D54      |       11604 |
-|      86 | 0x2D5D      |       11613 |
-|      87 | 0x2D60      |       11616 |
-|      88 | 0x2D61      |       11617 |
-|      89 | 0x2D62      |       11618 |
-|      90 | 0x2D63      |       11619 |
-|      91 | 0x2D5E      |       11614 |
-|      92 | 0x2D55      |       11605 |
-|      93 | 0x2D64      |       11620 |
-|      94 | 0x2D65      |       11621 |
-|      95 | 0x2D56      |       11606 |
-|      96 | 0x2D66      |       11622 |
-|      97 | 0x2D6B      |       11627 |
-|      98 | 0x2D68      |       11624 |
-|      99 | 0x2D67      |       11623 |
-|     100 | 0x2D6A      |       11626 |
-|     101 | 0x2D6C      |       11628 |
-|     102 | 0x2D57      |       11607 |
-|     103 | 0x2D6D      |       11629 |
-|     104 | 0x2D6E      |       11630 |
-|     105 | 0x2D80      |       11648 |
-|     106 | 0x2D81      |       11649 |
-|     107 | 0x2D82      |       11650 |
-|     108 | 0x2D83      |       11651 |
+|      70 | 0x2D5B      |       11611 |
+|      71 | 0x2D75      |       11637 |
+|      72 | 0x2D80      |       11648 |
+|      73 | 0x2D81      |       11649 |
+|      74 | 0x2D76      |       11638 |
+|      75 | 0x2D77      |       11639 |
+|      76 | 0x2D5D      |       11613 |
+|      77 | 0x2D78      |       11640 |
+|      78 | 0x2D79      |       11641 |
+|      79 | 0x2D7A      |       11642 |
+|      80 | 0x2D7B      |       11643 |
+|      81 | 0x2D7C      |       11644 |
+|      82 | 0x2D5C      |       11612 |
+|      83 | 0x2D7D      |       11645 |
+|      84 | 0x2D7E      |       11646 |
+|      85 | 0x2D56      |       11606 |
+|      86 | 0x2D5F      |       11615 |
+|      87 | 0x2D62      |       11618 |
+|      88 | 0x2D63      |       11619 |
+|      89 | 0x2D64      |       11620 |
+|      90 | 0x2D65      |       11621 |
+|      91 | 0x2D60      |       11616 |
+|      92 | 0x2D57      |       11607 |
+|      93 | 0x2D66      |       11622 |
+|      94 | 0x2D67      |       11623 |
+|      95 | 0x2D58      |       11608 |
+|      96 | 0x2D68      |       11624 |
+|      97 | 0x2D6D      |       11629 |
+|      98 | 0x2D6A      |       11626 |
+|      99 | 0x2D69      |       11625 |
+|     100 | 0x2D6C      |       11628 |
+|     101 | 0x2D6E      |       11630 |
+|     102 | 0x2D59      |       11609 |
+|     103 | 0x2D6F      |       11631 |
+|     104 | 0x2D70      |       11632 |
+|     105 | 0x2D82      |       11650 |
+|     106 | 0x2D83      |       11651 |
+|     107 | 0x2D84      |       11652 |
+|     108 | 0x2D85      |       11653 |
 |     109 | 0xFFFFFFFF  |  4294967295 |
-|     110 | 0x2D84      |       11652 |
+|     110 | 0x2D86      |       11654 |
 |     111 | 0xFFFFFFFE  |  4294967294 |
-|     112 | 0x2D51      |       11601 |
+|     112 | 0x2D53      |       11603 |
 |     113 | 0x0015      |          21 |
 |     114 | 0x0016      |          22 |
 |     115 | 0x0019      |          25 |
@@ -278,87 +278,87 @@
 
 ## String References
 
-- **7135**: You have earned $0 Allied Note[/s]!
-- **11589**: Greetings! If it is information on Allied Campaign operations you seek, I am the one to ask.
-- **11590**: Unfortunately, I am not authorized to provide campaign information to those who do not belong to the Knights of the Iron Ram.
-- **11591**: Welcome to the Knights of the Iron Ram, <Player>! If you wish, I can give you a simple explanation of your duties.
-- **11592**: Are you familiar with Op Credits? [Yes./No.]
-- **11593**: You are? It is heartening to know the Kingdom employs such knowledgeable [men/women].
-- **11594**: Let me see... Ah yes, <Player> of the Knights of the Iron Ram. It seems you possess $0 [Op Credit/Op Credits].
-- **11595**: Will you participate in an operation today? [Yes, if possible./What exactly are Op Credits?/View your nation's information./Not at this time.]
-- **11596**: Listen carefully, <Player>. To ensure balance in the Allied Campaign, the Allied War Council has developed a voucher system that regulates the three nations' participation in operations.
-- **11597**: Each member of each army is rationed these vouchers, known as Op Credits.
-- **11598**: At least one credit is needed to take part in most campaign operations, with more advanced missions requiring additional vouchers, and are issued at the rate of one every [day/ten minutes].
-- **11599**: However, please note that once an Op Credit is used, it will not be refunded in the event you abandon an operation without completing your duties.
-- **11600**: Understood. Please speak with me again when you have completed your preparations.
-- **11601**: Ah... I am sorry to report that there are no campaign operations available for you at the moment. Please use this time to regain your strength, and speak with me again at a later date.
-- **11602**: Yes, I see you have been cleared for participation in the following operations:
-- **11603**: Please select a category. [Resource procurement./Supply transport./Security./Supply manufacture./Offensive operations./Defensive operations./Intel gathering./Military training./None of the above.]
-- **11604**: Please select an operation. [Smokescreen I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen V. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Splitting Heirs. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Kinslayer: Baileys. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Kinslayer: Keep. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Fiat Lux. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Pit Spider I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Pit Spider II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Pit Spider III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/By Light of Fire I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
-- **11605**: Please select an operation. [Aegis Scream I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream V. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Granite Rose I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Granite Rose II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Granite Rose III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
-- **11606**: Please select an operation. [Hawk Eye I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hawk Eye II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hawk Eye III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hawk Eye IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Prying Eyes I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Prying Eyes II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Deep Cover I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Deep Cover II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Deep Cover III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Frozen Flame. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Bailey Borer. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
-- **11607**: Please select an operation. [Brave Dawn I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Brave Dawn II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Brave Dawn III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Cut and Cauterize I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Cut and Cauterize II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Cut and Cauterize III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
-- **11608**: Please select an operation. [Stock and Awe I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Stock and Awe II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Stock and Awe III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Stock and Awe IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Search and Seizure I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
-- **11609**: Please select an operation. [Vanguard-X I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Vanguard-X II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Vanguard-X III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Vanguard-X IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Bridge Too Far I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
-- **11610**: Please select an operation. [Crystal Fist I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crystal Fist II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crystal Fist III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crystal Fist IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
-- **11611**: Please select an operation. [Streetsweeper I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Streetsweeper II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Streetsweeper III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Delta Strike I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Delta Strike II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Delta Strike III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Magna Cache I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Magna Cache II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Magna Cache III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hazardous Materials. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
-- **11613**: This operation requires that you infiltrate an area under beastman control and launch an attack on one of their strongholds, allowing our main forces to gain influence in the region.
-- **11614**: This operation requires that you ambush one of the enemy's supply caravans and eliminate all traveling with it.
-- **11616**: This operation requires that you eliminate the commander of the Orcish Hosts on Quon, Darkheir Grradhod.
-- **11617**: This operation requires you to eliminate the Dark Kindred stationed in the Castle Zvahl Baileys.
-- **11618**: This operation requires you to eliminate the Dark Kindred stationed in the Castle Zvahl Keep.
-- **11619**: This operation requires you to do no less than strike down the Shadow Lord himself. Goddess be with you, soldier!
-- **11620**: This operation requires that you fend off a beastman siege against one of our strongholds.
-- **11621**: This operation requires that you aid our garrison knights in their efforts against an enemy siege.
-- **11622**: This operation requires that you infiltrate an enemy stronghold and gather intel.
-- **11623**: This operation requires that you infiltrate an enemy stronghold and destroy key points within the fortress.
-- **11624**: This operation requires that you infiltrate enemy territory and gather intel on their equipment.
-- **11626**: For this operation, you'll have to infiltrate the enemy's northern stronghold, commandeer their prototype weapon, and use it to raze the place to the ground.
-- **11627**: This operation requires that you infiltrate Castle Zvahl and gather intel on the unidentified devices enhancing our enemy's defensive capabilities.
-- **11628**: This operation requires you to seek out and destroy the source of the magical barrier protecting Castle Zvahl's walls.
-- **11629**: This operation requires that you assist in the training of a new recruit.
-- **11630**: This operation requires you to assist in the medical training of some new recruits. See if you can't make some battle-ready palliators out of them!
-- **11632**: This operation requires that you procure supplies for delivery to the frontlines.
-- **11633**: This operation requires that you assist in the resupplying of our nation's munitions stockpiles.
-- **11634**: This operation requires that you locate an enemy supply convoy and secure any valuable supplies possible.
-- **11635**: This operation requires that you accompany a reinforcement knight to his destination on the frontlines.
-- **11636**: This operation requires that you deliver supplies from a checkpoint garrison to one of our strongholds.
-- **11637**: This operation requires that you serve your army by offering strategies to best ensure the safe transport of precious cargo.
-- **11638**: This operation requires that you locate and remove any hazardous objects located within San d'Oria's walls.
-- **11639**: This operation requires that you patrol San d'Orian territory and eliminate any immediate threats to the Kingdom.
-- **11640**: This operation requires that you take part in the fortification of one of your nation's strongholds.
-- **11641**: This operation requires that you contribute to the expansion of the provision storehouse of one of your nation's strongholds.
-- **11642**: This operation requires you to deliver a vital shipment of powerfully magicked supplies to our northern stronghold, preferably without getting yourself killed in the process.
-- **11643**: This operation requires that you assist the Kingdom's various guildmasters in training initiates.
-- **11644**: This operation requires that you teach advanced synthesis techniques to the adepts of our Kingdom's guilds.
-- **11646**: Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective.
-- **11647**: Remember, only efforts in the north will count toward this operation's objectives.
-- **11648**: Shall I add your name to the list?
-- **11649**: Participate in this operation? [Yes./No.]
-- **11650**: Very well. Your name has been added to the campaign ledger. Do not forget to report to me upon operation completion. Good luck, <Player>.
-- **11651**: Select Campaign Ops within the Missions menu to view operation orders.
-- **11652**: I'm sorry, <Player>. All positions for that operation have been filled. You will have to select another.
-- **11653**: Wait. You do not possess enough Op Credits to join any operations. Perhaps you are working too hard, <Player>. Might I suggest a little rest at the barracks?
-- **11654**: Back so soon? Has there been some sort of terrible mishap? Or perhaps...
-- **11655**: Abandon current operation? [Yes./No.]
-- **11656**: Well, that is certainly a relief. Good luck with your mission, <Player>, and do not forget to report to me when you have completed your duties.
-- **11657**: Just remember, I cannot refund your Op Credits.
-- **11658**: That is quite unfortunate, but I am sure you have your reasons.
-- **11659**: Ah, <Player>. I have been expecting you. Please give me a detailed report of your mission.
-- **11660**: [......I see....../......Hmmm....../......Very well......]
-- **11661**: I knew we could count on you, <Player>. Iron Ram Captain Rongelouts will be pleased.
-- **11662**: Not all operations can unfold as they are originally planned. However, a success is a success. You have performed admirably, <Player>.
-- **11663**: While unfortunate, I am positive you put forth your full effort. Let this failure serve as a catapult that shall propel you to future success!
-- **11664**: Ah... Just a moment. It seems that your campaign medal has expired. I apologize, but I cannot allow you to participate in this operation.
-- **11665**: Proceed with haste to the Campaign Evaluation Official to straighten out matters. I shall be waiting here for your return.
-- **11691**: You will be issued a new Op Credit in approximately $0 [hour/hours] (Earth time).
-- **11692**: You will be issued a new Op Credit in less than an hour (Earth time).
-- **11693**: I see you have $0 there. Since you're bringing it to me, I assume you want me to add it to your other remaining Op Credits?
-- **11694**: What will you do? [Add it to your other Op Credits./Nevermind.]
-- **11695**: Very well. Your $0 is in safe hands.
-- **11696**: Make up your mind. Here, have it back, then.
-- **11700**: Current nation status: Funds: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Supplies: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Tactics: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]
-- **11701**: Skill: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Production: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]
+- **7137**: You have earned $0 Allied Note[/s]!
+- **11591**: Greetings! If it is information on Allied Campaign operations you seek, I am the one to ask.
+- **11592**: Unfortunately, I am not authorized to provide campaign information to those who do not belong to the Knights of the Iron Ram.
+- **11593**: Welcome to the Knights of the Iron Ram, <Player>! If you wish, I can give you a simple explanation of your duties.
+- **11594**: Are you familiar with Op Credits? [Yes./No.]
+- **11595**: You are? It is heartening to know the Kingdom employs such knowledgeable [men/women].
+- **11596**: Let me see... Ah yes, <Player> of the Knights of the Iron Ram. It seems you possess $0 [Op Credit/Op Credits].
+- **11597**: Will you participate in an operation today? [Yes, if possible./What exactly are Op Credits?/View your nation's information./Not at this time.]
+- **11598**: Listen carefully, <Player>. To ensure balance in the Allied Campaign, the Allied War Council has developed a voucher system that regulates the three nations' participation in operations.
+- **11599**: Each member of each army is rationed these vouchers, known as Op Credits.
+- **11600**: At least one credit is needed to take part in most campaign operations, with more advanced missions requiring additional vouchers, and are issued at the rate of one every [day/ten minutes].
+- **11601**: However, please note that once an Op Credit is used, it will not be refunded in the event you abandon an operation without completing your duties.
+- **11602**: Understood. Please speak with me again when you have completed your preparations.
+- **11603**: Ah... I am sorry to report that there are no campaign operations available for you at the moment. Please use this time to regain your strength, and speak with me again at a later date.
+- **11604**: Yes, I see you have been cleared for participation in the following operations:
+- **11605**: Please select a category. [Resource procurement./Supply transport./Security./Supply manufacture./Offensive operations./Defensive operations./Intel gathering./Military training./None of the above.]
+- **11606**: Please select an operation. [Smokescreen I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen V. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Splitting Heirs. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Kinslayer: Baileys. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Kinslayer: Keep. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Fiat Lux. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Pit Spider I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Pit Spider II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Pit Spider III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/By Light of Fire I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
+- **11607**: Please select an operation. [Aegis Scream I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream V. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Granite Rose I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Granite Rose II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Granite Rose III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
+- **11608**: Please select an operation. [Hawk Eye I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hawk Eye II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hawk Eye III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hawk Eye IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Prying Eyes I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Prying Eyes II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Deep Cover I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Deep Cover II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Deep Cover III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Frozen Flame. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Bailey Borer. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
+- **11609**: Please select an operation. [Brave Dawn I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Brave Dawn II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Brave Dawn III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Cut and Cauterize I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Cut and Cauterize II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Cut and Cauterize III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
+- **11610**: Please select an operation. [Stock and Awe I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Stock and Awe II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Stock and Awe III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Stock and Awe IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Search and Seizure I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
+- **11611**: Please select an operation. [Vanguard-X I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Vanguard-X II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Vanguard-X III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Vanguard-X IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Bridge Too Far I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
+- **11612**: Please select an operation. [Crystal Fist I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crystal Fist II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crystal Fist III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crystal Fist IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
+- **11613**: Please select an operation. [Streetsweeper I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Streetsweeper II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Streetsweeper III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Delta Strike I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Delta Strike II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Delta Strike III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Magna Cache I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Magna Cache II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Magna Cache III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hazardous Materials. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]
+- **11615**: This operation requires that you infiltrate an area under beastman control and launch an attack on one of their strongholds, allowing our main forces to gain influence in the region.
+- **11616**: This operation requires that you ambush one of the enemy's supply caravans and eliminate all traveling with it.
+- **11618**: This operation requires that you eliminate the commander of the Orcish Hosts on Quon, Darkheir Grradhod.
+- **11619**: This operation requires you to eliminate the Dark Kindred stationed in the Castle Zvahl Baileys.
+- **11620**: This operation requires you to eliminate the Dark Kindred stationed in the Castle Zvahl Keep.
+- **11621**: This operation requires you to do no less than strike down the Shadow Lord himself. Goddess be with you, soldier!
+- **11622**: This operation requires that you fend off a beastman siege against one of our strongholds.
+- **11623**: This operation requires that you aid our garrison knights in their efforts against an enemy siege.
+- **11624**: This operation requires that you infiltrate an enemy stronghold and gather intel.
+- **11625**: This operation requires that you infiltrate an enemy stronghold and destroy key points within the fortress.
+- **11626**: This operation requires that you infiltrate enemy territory and gather intel on their equipment.
+- **11628**: For this operation, you'll have to infiltrate the enemy's northern stronghold, commandeer their prototype weapon, and use it to raze the place to the ground.
+- **11629**: This operation requires that you infiltrate Castle Zvahl and gather intel on the unidentified devices enhancing our enemy's defensive capabilities.
+- **11630**: This operation requires you to seek out and destroy the source of the magical barrier protecting Castle Zvahl's walls.
+- **11631**: This operation requires that you assist in the training of a new recruit.
+- **11632**: This operation requires you to assist in the medical training of some new recruits. See if you can't make some battle-ready palliators out of them!
+- **11634**: This operation requires that you procure supplies for delivery to the frontlines.
+- **11635**: This operation requires that you assist in the resupplying of our nation's munitions stockpiles.
+- **11636**: This operation requires that you locate an enemy supply convoy and secure any valuable supplies possible.
+- **11637**: This operation requires that you accompany a reinforcement knight to his destination on the frontlines.
+- **11638**: This operation requires that you deliver supplies from a checkpoint garrison to one of our strongholds.
+- **11639**: This operation requires that you serve your army by offering strategies to best ensure the safe transport of precious cargo.
+- **11640**: This operation requires that you locate and remove any hazardous objects located within San d'Oria's walls.
+- **11641**: This operation requires that you patrol San d'Orian territory and eliminate any immediate threats to the Kingdom.
+- **11642**: This operation requires that you take part in the fortification of one of your nation's strongholds.
+- **11643**: This operation requires that you contribute to the expansion of the provision storehouse of one of your nation's strongholds.
+- **11644**: This operation requires you to deliver a vital shipment of powerfully magicked supplies to our northern stronghold, preferably without getting yourself killed in the process.
+- **11645**: This operation requires that you assist the Kingdom's various guildmasters in training initiates.
+- **11646**: This operation requires that you teach advanced synthesis techniques to the adepts of our Kingdom's guilds.
+- **11648**: Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective.
+- **11649**: Remember, only efforts in the north will count toward this operation's objectives.
+- **11650**: Shall I add your name to the list?
+- **11651**: Participate in this operation? [Yes./No.]
+- **11652**: Very well. Your name has been added to the campaign ledger. Do not forget to report to me upon operation completion. Good luck, <Player>.
+- **11653**: Select Campaign Ops within the Missions menu to view operation orders.
+- **11654**: I'm sorry, <Player>. All positions for that operation have been filled. You will have to select another.
+- **11655**: Wait. You do not possess enough Op Credits to join any operations. Perhaps you are working too hard, <Player>. Might I suggest a little rest at the barracks?
+- **11656**: Back so soon? Has there been some sort of terrible mishap? Or perhaps...
+- **11657**: Abandon current operation? [Yes./No.]
+- **11658**: Well, that is certainly a relief. Good luck with your mission, <Player>, and do not forget to report to me when you have completed your duties.
+- **11659**: Just remember, I cannot refund your Op Credits.
+- **11660**: That is quite unfortunate, but I am sure you have your reasons.
+- **11661**: Ah, <Player>. I have been expecting you. Please give me a detailed report of your mission.
+- **11662**: [......I see....../......Hmmm....../......Very well......]
+- **11663**: I knew we could count on you, <Player>. Iron Ram Captain Rongelouts will be pleased.
+- **11664**: Not all operations can unfold as they are originally planned. However, a success is a success. You have performed admirably, <Player>.
+- **11665**: While unfortunate, I am positive you put forth your full effort. Let this failure serve as a catapult that shall propel you to future success!
+- **11666**: Ah... Just a moment. It seems that your campaign medal has expired. I apologize, but I cannot allow you to participate in this operation.
+- **11667**: Proceed with haste to the Campaign Evaluation Official to straighten out matters. I shall be waiting here for your return.
+- **11693**: You will be issued a new Op Credit in approximately $0 [hour/hours] (Earth time).
+- **11694**: You will be issued a new Op Credit in less than an hour (Earth time).
+- **11695**: I see you have $0 there. Since you're bringing it to me, I assume you want me to add it to your other remaining Op Credits?
+- **11696**: What will you do? [Add it to your other Op Credits./Nevermind.]
+- **11697**: Very well. Your $0 is in safe hands.
+- **11698**: Make up your mind. Here, have it back, then.
+- **11702**: Current nation status: Funds: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Supplies: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Tactics: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]
+- **11703**: Skill: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Production: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]
 
 ## Events
 
@@ -409,19 +409,19 @@
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x4A] EventEntity looks at LocalPlayer
   2: 0x000B [0x03] Work_Zone[2] = 2552*
-  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=11693*)
+  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=11695*)
     → "I see you have $0 there. Since you're bringing it to me, I assume you want me to add it to your other remaining Op Credits?"
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0014 [0x24] CREATE_DIALOG(message_id=11694*, default_option=0*, option_flags=0*)
+  5: 0x0014 [0x24] CREATE_DIALOG(message_id=11696*, default_option=0*, option_flags=0*)
     → "What will you do? [Add it to your other Op Credits./Nevermind.]"
   6: 0x001B [0x25] WAIT_DIALOG_SELECT()
   7: 0x001C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0030
-  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11695*)
+  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11697*)
     → "Very well. Your $0 is in safe hands."
   9: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0028 [0x03] Work_Zone[1] = 6*
  11: 0x002D [0x01] GOTO 0x0039
- 12: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=11696*)
+ 12: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=11698*)
     → "Make up your mind. Here, have it back, then."
  13: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0034 [0x03] Work_Zone[1] = 7*
@@ -452,10 +452,10 @@ SUBROUTINE_0039:
 
 ```
   0: 0x003B [0x4A] EventEntity looks at LocalPlayer
-  1: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=11664*)
+  1: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=11666*)
     → "Ah... Just a moment. It seems that your campaign medal has expired. I apologize, but I cannot allow you to participate in this operation."
   2: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=11665*)
+  3: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=11667*)
     → "Proceed with haste to the Campaign Evaluation Official to straighten out matters. I shall be waiting here for your return."
   4: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x004C [0x21] END_EVENT
@@ -484,10 +484,10 @@ SUBROUTINE_0039:
 
 ```
   0: 0x004E [0x4A] EventEntity looks at LocalPlayer
-  1: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=11589*)
+  1: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=11591*)
     → "Greetings! If it is information on Allied Campaign operations you seek, I am the one to ask."
   2: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=11590*)
+  3: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=11592*)
     → "Unfortunately, I am not authorized to provide campaign information to those who do not belong to the Knights of the Iron Ram."
   4: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x005F [0x21] END_EVENT
@@ -519,33 +519,33 @@ SUBROUTINE_0039:
 
 ```
   0: 0x0061 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=11654*)
+  1: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=11656*)
     → "Back so soon? Has there been some sort of terrible mishap? Or perhaps..."
   2: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x006E [0x24] CREATE_DIALOG(message_id=11655*, default_option=1*, option_flags=0*)
+  3: 0x006E [0x24] CREATE_DIALOG(message_id=11657*, default_option=1*, option_flags=0*)
     → "Abandon current operation? [Yes./No.]"
   4: 0x0075 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0076 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A8
-  6: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=11657*)
+  6: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=11659*)
     → "Just remember, I cannot refund your Op Credits."
   7: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0082 [0x24] CREATE_DIALOG(message_id=11655*, default_option=1*, option_flags=0*)
+  8: 0x0082 [0x24] CREATE_DIALOG(message_id=11657*, default_option=1*, option_flags=0*)
     → "Abandon current operation? [Yes./No.]"
   9: 0x0089 [0x25] WAIT_DIALOG_SELECT()
  10: 0x008A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009E
- 11: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=11658*)
+ 11: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=11660*)
     → "That is quite unfortunate, but I am sure you have your reasons."
  12: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0096 [0x03] Work_Zone[1] = 2*
  14: 0x009B [0x01] GOTO 0x00A5
- 15: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=11656*)
+ 15: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=11658*)
     → "Well, that is certainly a relief. Good luck with your mission, <Player>, and do not forget to report to me when you have completed your duties."
  16: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00A2 [0x06] Work_Zone[1] = 0
 
 SUBROUTINE_00A5:
  18: 0x00A5 [0x01] GOTO 0x00AF
- 19: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11656*)
+ 19: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11658*)
     → "Well, that is certainly a relief. Good luck with your mission, <Player>, and do not forget to report to me when you have completed your duties."
  20: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00AC [0x06] Work_Zone[1] = 0
@@ -582,29 +582,29 @@ SUBROUTINE_00AF:
 ```
   0: 0x00B1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00B2 [0x4A] EventEntity looks at LocalPlayer
-  2: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=11659*)
+  2: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=11661*)
     → "Ah, <Player>. I have been expecting you. Please give me a detailed report of your mission."
   3: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   5: 0x00D0 [0x1C] WAIT(60* ticks)
   6: 0x00D3 [0x13] Work_Zone[2] = rand() % 2*
-  7: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11660*)
+  7: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11662*)
     → "[......I see....../......Hmmm....../......Very well......]"
   8: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00DC [0x1C] WAIT(60* ticks)
  10: 0x00DF [0x13] Work_Zone[2] = rand() % 2*
- 11: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11660*)
+ 11: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11662*)
     → "[......I see....../......Hmmm....../......Very well......]"
  12: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00E8 [0x1C] WAIT(60* ticks)
  14: 0x00EB [0x13] Work_Zone[2] = rand() % 2*
- 15: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11660*)
+ 15: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11662*)
     → "[......I see....../......Hmmm....../......Very well......]"
  16: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00F4 [0x1C] WAIT(60* ticks)
  18: 0x00F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x0108 [0x1C] WAIT(60* ticks)
- 20: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=11663*)
+ 20: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=11665*)
     → "While unfortunate, I am positive you put forth your full effort. Let this failure serve as a catapult that shall propel you to future success!"
  21: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x010F [0x03] Work_Zone[1] = 3*
@@ -647,41 +647,41 @@ SUBROUTINE_00AF:
   3: 0x0121 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[4]
   4: 0x0126 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[5]
   5: 0x012B [0x4A] EventEntity looks at LocalPlayer
-  6: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=11659*)
+  6: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=11661*)
     → "Ah, <Player>. I have been expecting you. Please give me a detailed report of your mission."
   7: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0138 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x0149 [0x1C] WAIT(60* ticks)
  10: 0x014C [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[8] (bits 0*-1*)
- 11: 0x0155 [0x1D] PRINT_EVENT_MESSAGE(message_id=11660*)
+ 11: 0x0155 [0x1D] PRINT_EVENT_MESSAGE(message_id=11662*)
     → "[......I see....../......Hmmm....../......Very well......]"
  12: 0x0158 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0159 [0x1C] WAIT(60* ticks)
  14: 0x015C [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[8] (bits 2*-3*)
- 15: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=11660*)
+ 15: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=11662*)
     → "[......I see....../......Hmmm....../......Very well......]"
  16: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0169 [0x1C] WAIT(60* ticks)
  18: 0x016C [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[8] (bits 4*-5*)
- 19: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=11660*)
+ 19: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=11662*)
     → "[......I see....../......Hmmm....../......Very well......]"
  20: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0179 [0x1C] WAIT(60* ticks)
  22: 0x017C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  23: 0x018D [0x1C] WAIT(60* ticks)
  24: 0x0190 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 99*) GOTO 0x019F
- 25: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=11661*)
+ 25: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=11663*)
     → "I knew we could count on you, <Player>. Iron Ram Captain Rongelouts will be pleased."
  26: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x019C [0x01] GOTO 0x01A3
- 28: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=11662*)
+ 28: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=11664*)
     → "Not all operations can unfold as they are originally planned. However, a success is a success. You have performed admirably, <Player>."
  29: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01A3:
  30: 0x01A3 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 0*) GOTO 0x01B4
  31: 0x01AB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
- 32: 0x01B0 [0x48] [System] [7135*]:
+ 32: 0x01B0 [0x48] [System] [7137*]:
     → "You have earned $0 Allied Note[/s]!"
  33: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x01B4 [0x21] END_EVENT
@@ -1008,18 +1008,18 @@ SUBROUTINE_01A3:
   2: 0x01C0 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[4]
   3: 0x01C5 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[5]
   4: 0x01CA [0x4A] EventEntity looks at LocalPlayer
-  5: 0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11589*)
+  5: 0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11591*)
     → "Greetings! If it is information on Allied Campaign operations you seek, I am the one to ask."
   6: 0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01D7 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0200
-  8: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11591*)
+  8: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11593*)
     → "Welcome to the Knights of the Iron Ram, <Player>! If you wish, I can give you a simple explanation of your duties."
   9: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x01E3 [0x24] CREATE_DIALOG(message_id=11592*, default_option=1*, option_flags=0*)
+ 10: 0x01E3 [0x24] CREATE_DIALOG(message_id=11594*, default_option=1*, option_flags=0*)
     → "Are you familiar with Op Credits? [Yes./No.]"
  11: 0x01EA [0x25] WAIT_DIALOG_SELECT()
  12: 0x01EB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FA
- 13: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11593*)
+ 13: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11595*)
     → "You are? It is heartening to know the Kingdom employs such knowledgeable [men/women]."
  14: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01F7 [0x01] GOTO 0x01FD
@@ -1030,16 +1030,16 @@ SUBROUTINE_01FD:
 
 SUBROUTINE_0200:
  18: 0x0200 [0x02] IF !(ExtData[1]->WorkLocal[2] > 0*) GOTO 0x0229
- 19: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=11653*)
+ 19: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=11655*)
     → "Wait. You do not possess enough Op Credits to join any operations. Perhaps you are working too hard, <Player>. Might I suggest a little rest at the barracks?"
  20: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x020C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
  22: 0x0211 [0x02] IF !(Work_Zone[2] >= 1*) GOTO 0x0220
- 23: 0x0219 [0x48] [System] [11692*]:
+ 23: 0x0219 [0x48] [System] [11694*]:
     → "You will be issued a new Op Credit in less than an hour (Earth time)."
  24: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x021D [0x01] GOTO 0x0224
- 26: 0x0220 [0x48] [System] [11691*]:
+ 26: 0x0220 [0x48] [System] [11693*]:
     → "You will be issued a new Op Credit in approximately $0 [hour/hours] (Earth time)."
  27: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1048,7 +1048,7 @@ SUBROUTINE_0224:
  29: 0x0225 [0x00] END_REQSTACK()
 
 SUBROUTINE_0232:
- 30: 0x0232 [0x24] CREATE_DIALOG(message_id=11595*, default_option=0*, option_flags=0*)
+ 30: 0x0232 [0x24] CREATE_DIALOG(message_id=11597*, default_option=0*, option_flags=0*)
     → "Will you participate in an operation today? [Yes, if possible./What exactly are Op Credits?/View your nation's information./Not at this time.]"
  31: 0x0239 [0x25] WAIT_DIALOG_SELECT()
  32: 0x023A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x024B
@@ -1064,13 +1064,13 @@ SUBROUTINE_0285:
 
 SUBROUTINE_0288:
  38: 0x0288 [0x02] IF !(ExtData[1]->WorkLocal[0] < 0*) GOTO 0x031F
- 39: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=11602*)
+ 39: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=11604*)
     → "Yes, I see you have been cleared for participation in the following operations:"
  40: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0294 [0x03] Work_Zone[1] = 9*
  42: 0x0299 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  43: 0x029B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 44: 0x029D [0x24] CREATE_DIALOG(message_id=11603*, default_option=0*, option_flags=0*)
+ 44: 0x029D [0x24] CREATE_DIALOG(message_id=11605*, default_option=0*, option_flags=0*)
     → "Please select a category. [Resource procurement./Supply transport./Security./Supply manufacture./Offensive operations./Defensive operations./Intel gathering./Military training./None of the above.]"
  45: 0x02A4 [0x25] WAIT_DIALOG_SELECT()
  46: 0x02A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B3
@@ -1097,7 +1097,7 @@ SUBROUTINE_0288:
  67: 0x0307 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0315
  68: 0x030F [0x1A] CALL_SUBROUTINE(address=0x10EC)
  69: 0x0312 [0x01] GOTO 0x031C
- 70: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=11600*)
+ 70: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=11602*)
     → "Understood. Please speak with me again when you have completed your preparations."
  71: 0x0318 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0319 [0x0C] ExtData[1]->WorkLocal[0]--
@@ -1108,17 +1108,17 @@ SUBROUTINE_031C:
  75: 0x0320 [0x00] END_REQSTACK()
 
 SUBROUTINE_0321:
- 76: 0x0321 [0x1D] PRINT_EVENT_MESSAGE(message_id=11596*)
+ 76: 0x0321 [0x1D] PRINT_EVENT_MESSAGE(message_id=11598*)
     → "Listen carefully, <Player>. To ensure balance in the Allied Campaign, the Allied War Council has developed a voucher system that regulates the three nations' participation in operations."
  77: 0x0324 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=11597*)
+ 78: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=11599*)
     → "Each member of each army is rationed these vouchers, known as Op Credits."
  79: 0x0328 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0329 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
- 81: 0x032E [0x1D] PRINT_EVENT_MESSAGE(message_id=11598*)
+ 81: 0x032E [0x1D] PRINT_EVENT_MESSAGE(message_id=11600*)
     → "At least one credit is needed to take part in most campaign operations, with more advanced missions requiring additional vouchers, and are issued at the rate of one every [day/ten minutes]."
  82: 0x0331 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=11599*)
+ 83: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=11601*)
     → "However, please note that once an Op Credit is used, it will not be refunded in the event you abandon an operation without completing your duties."
  84: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0336 [0x1B] RETURN
@@ -1127,10 +1127,10 @@ SUBROUTINE_0337:
  86: 0x0337 [0x03] Work_Zone[1] = 8*
  87: 0x033C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  88: 0x033E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 89: 0x0340 [0x48] [System] [11700*]:
+ 89: 0x0340 [0x48] [System] [11702*]:
     → "Current nation status: Funds: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Supplies: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Tactics: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]"
  90: 0x0343 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x0344 [0x48] [System] [11701*]:
+ 91: 0x0344 [0x48] [System] [11703*]:
     → "Skill: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Production: [UNKNOWN/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]"
  92: 0x0347 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0348 [0x1B] RETURN
@@ -1171,33 +1171,33 @@ SUBROUTINE_0410:
 122: 0x0426 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 123: 0x0428 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 124: 0x042A [0x1A] CALL_SUBROUTINE(address=0x0349)
-125: 0x042D [0x24] CREATE_DIALOG(message_id=11608*, default_option=0*, option_flags=Work_Zone[2])
+125: 0x042D [0x24] CREATE_DIALOG(message_id=11610*, default_option=0*, option_flags=Work_Zone[2])
     → "Please select an operation. [Stock and Awe I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Stock and Awe II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Stock and Awe III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Stock and Awe IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Materiel Storm IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Search and Seizure I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]"
 126: 0x0434 [0x25] WAIT_DIALOG_SELECT()
 127: 0x0435 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x044F
 128: 0x043D [0x9D] ExtData[1]->WorkLocal[3] = 0x1380[Work_Zone[0]] // Read WORD
-129: 0x0445 [0x48] [System] [11633*]:
+129: 0x0445 [0x48] [System] [11635*]:
     → "This operation requires that you assist in the resupplying of our nation's munitions stockpiles."
 130: 0x0448 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0449 [0x1A] CALL_SUBROUTINE(address=0x1252)
 132: 0x044C [0x01] GOTO 0x059B
 133: 0x044F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0469
 134: 0x0457 [0x9D] ExtData[1]->WorkLocal[3] = 0x1380[Work_Zone[0]] // Read WORD
-135: 0x045F [0x48] [System] [11633*]:
+135: 0x045F [0x48] [System] [11635*]:
     → "This operation requires that you assist in the resupplying of our nation's munitions stockpiles."
 136: 0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x0463 [0x1A] CALL_SUBROUTINE(address=0x1252)
 138: 0x0466 [0x01] GOTO 0x059B
 139: 0x0469 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0483
 140: 0x0471 [0x9D] ExtData[1]->WorkLocal[3] = 0x1380[Work_Zone[0]] // Read WORD
-141: 0x0479 [0x48] [System] [11633*]:
+141: 0x0479 [0x48] [System] [11635*]:
     → "This operation requires that you assist in the resupplying of our nation's munitions stockpiles."
 142: 0x047C [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x047D [0x1A] CALL_SUBROUTINE(address=0x1252)
 144: 0x0480 [0x01] GOTO 0x059B
 145: 0x0483 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x049D
 146: 0x048B [0x9D] ExtData[1]->WorkLocal[3] = 0x1380[Work_Zone[0]] // Read WORD
-147: 0x0493 [0x48] [System] [11633*]:
+147: 0x0493 [0x48] [System] [11635*]:
     → "This operation requires that you assist in the resupplying of our nation's munitions stockpiles."
 148: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x0497 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1216,28 +1216,28 @@ SUBROUTINE_0410:
 162: 0x04DC [0x01] GOTO 0x059B
 163: 0x04DF [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x04F9
 164: 0x04E7 [0x9D] ExtData[1]->WorkLocal[3] = 0x1380[Work_Zone[0]] // Read WORD
-165: 0x04EF [0x48] [System] [11632*]:
+165: 0x04EF [0x48] [System] [11634*]:
     → "This operation requires that you procure supplies for delivery to the frontlines."
 166: 0x04F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x04F3 [0x1A] CALL_SUBROUTINE(address=0x1252)
 168: 0x04F6 [0x01] GOTO 0x059B
 169: 0x04F9 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0513
 170: 0x0501 [0x9D] ExtData[1]->WorkLocal[3] = 0x1380[Work_Zone[0]] // Read WORD
-171: 0x0509 [0x48] [System] [11632*]:
+171: 0x0509 [0x48] [System] [11634*]:
     → "This operation requires that you procure supplies for delivery to the frontlines."
 172: 0x050C [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x050D [0x1A] CALL_SUBROUTINE(address=0x1252)
 174: 0x0510 [0x01] GOTO 0x059B
 175: 0x0513 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x052D
 176: 0x051B [0x9D] ExtData[1]->WorkLocal[3] = 0x1380[Work_Zone[0]] // Read WORD
-177: 0x0523 [0x48] [System] [11632*]:
+177: 0x0523 [0x48] [System] [11634*]:
     → "This operation requires that you procure supplies for delivery to the frontlines."
 178: 0x0526 [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0527 [0x1A] CALL_SUBROUTINE(address=0x1252)
 180: 0x052A [0x01] GOTO 0x059B
 181: 0x052D [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0547
 182: 0x0535 [0x9D] ExtData[1]->WorkLocal[3] = 0x1380[Work_Zone[0]] // Read WORD
-183: 0x053D [0x48] [System] [11632*]:
+183: 0x053D [0x48] [System] [11634*]:
     → "This operation requires that you procure supplies for delivery to the frontlines."
 184: 0x0540 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0541 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1246,7 +1246,7 @@ SUBROUTINE_0410:
 188: 0x054F [0x01] GOTO 0x059B
 189: 0x0552 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x056C
 190: 0x055A [0x9D] ExtData[1]->WorkLocal[3] = 0x1380[Work_Zone[0]] // Read WORD
-191: 0x0562 [0x48] [System] [11634*]:
+191: 0x0562 [0x48] [System] [11636*]:
     → "This operation requires that you locate an enemy supply convoy and secure any valuable supplies possible."
 192: 0x0565 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0566 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1280,45 +1280,45 @@ SUBROUTINE_05A2:
 215: 0x05CD [0x40] SET_BIT_WORK_RANGE(start_bit=13*, end_bit=13*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[13])
 216: 0x05D6 [0x41] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[12] (bits 13*-13*)
 217: 0x05DF [0x40] SET_BIT_WORK_RANGE(start_bit=14*, end_bit=14*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[13])
-218: 0x05E8 [0x24] CREATE_DIALOG(message_id=11609*, default_option=0*, option_flags=Work_Zone[2])
+218: 0x05E8 [0x24] CREATE_DIALOG(message_id=11611*, default_option=0*, option_flags=Work_Zone[2])
     → "Please select an operation. [Vanguard-X I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Vanguard-X II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Vanguard-X III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Vanguard-X IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crimson Domino IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Bridge Too Far I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]"
 219: 0x05EF [0x25] WAIT_DIALOG_SELECT()
 220: 0x05F0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x060E
 221: 0x05F8 [0x9D] ExtData[1]->WorkLocal[3] = 0x13B0[Work_Zone[0]] // Read WORD
-222: 0x0600 [0x48] [System] [11635*]:
+222: 0x0600 [0x48] [System] [11637*]:
     → "This operation requires that you accompany a reinforcement knight to his destination on the frontlines."
 223: 0x0603 [0x23] WAIT_FOR_DIALOG_INTERACTION
-224: 0x0604 [0x48] [System] [11646*]:
+224: 0x0604 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 225: 0x0607 [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x0608 [0x1A] CALL_SUBROUTINE(address=0x1252)
 227: 0x060B [0x01] GOTO 0x0776
 228: 0x060E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x062C
 229: 0x0616 [0x9D] ExtData[1]->WorkLocal[3] = 0x13B0[Work_Zone[0]] // Read WORD
-230: 0x061E [0x48] [System] [11635*]:
+230: 0x061E [0x48] [System] [11637*]:
     → "This operation requires that you accompany a reinforcement knight to his destination on the frontlines."
 231: 0x0621 [0x23] WAIT_FOR_DIALOG_INTERACTION
-232: 0x0622 [0x48] [System] [11646*]:
+232: 0x0622 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 233: 0x0625 [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x0626 [0x1A] CALL_SUBROUTINE(address=0x1252)
 235: 0x0629 [0x01] GOTO 0x0776
 236: 0x062C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x064A
 237: 0x0634 [0x9D] ExtData[1]->WorkLocal[3] = 0x13B0[Work_Zone[0]] // Read WORD
-238: 0x063C [0x48] [System] [11635*]:
+238: 0x063C [0x48] [System] [11637*]:
     → "This operation requires that you accompany a reinforcement knight to his destination on the frontlines."
 239: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
-240: 0x0640 [0x48] [System] [11646*]:
+240: 0x0640 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 241: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x0644 [0x1A] CALL_SUBROUTINE(address=0x1252)
 243: 0x0647 [0x01] GOTO 0x0776
 244: 0x064A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0668
 245: 0x0652 [0x9D] ExtData[1]->WorkLocal[3] = 0x13B0[Work_Zone[0]] // Read WORD
-246: 0x065A [0x48] [System] [11635*]:
+246: 0x065A [0x48] [System] [11637*]:
     → "This operation requires that you accompany a reinforcement knight to his destination on the frontlines."
 247: 0x065D [0x23] WAIT_FOR_DIALOG_INTERACTION
-248: 0x065E [0x48] [System] [11647*]:
+248: 0x065E [0x48] [System] [11649*]:
     → "Remember, only efforts in the north will count toward this operation's objectives."
 249: 0x0661 [0x23] WAIT_FOR_DIALOG_INTERACTION
 250: 0x0662 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1337,47 +1337,47 @@ SUBROUTINE_05A2:
 263: 0x06A7 [0x01] GOTO 0x0776
 264: 0x06AA [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x06C8
 265: 0x06B2 [0x9D] ExtData[1]->WorkLocal[3] = 0x13B0[Work_Zone[0]] // Read WORD
-266: 0x06BA [0x48] [System] [11636*]:
+266: 0x06BA [0x48] [System] [11638*]:
     → "This operation requires that you deliver supplies from a checkpoint garrison to one of our strongholds."
 267: 0x06BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-268: 0x06BE [0x48] [System] [11646*]:
+268: 0x06BE [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 269: 0x06C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x06C2 [0x1A] CALL_SUBROUTINE(address=0x1252)
 271: 0x06C5 [0x01] GOTO 0x0776
 272: 0x06C8 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x06E6
 273: 0x06D0 [0x9D] ExtData[1]->WorkLocal[3] = 0x13B0[Work_Zone[0]] // Read WORD
-274: 0x06D8 [0x48] [System] [11636*]:
+274: 0x06D8 [0x48] [System] [11638*]:
     → "This operation requires that you deliver supplies from a checkpoint garrison to one of our strongholds."
 275: 0x06DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-276: 0x06DC [0x48] [System] [11646*]:
+276: 0x06DC [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 277: 0x06DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x06E0 [0x1A] CALL_SUBROUTINE(address=0x1252)
 279: 0x06E3 [0x01] GOTO 0x0776
 280: 0x06E6 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0704
 281: 0x06EE [0x9D] ExtData[1]->WorkLocal[3] = 0x13B0[Work_Zone[0]] // Read WORD
-282: 0x06F6 [0x48] [System] [11636*]:
+282: 0x06F6 [0x48] [System] [11638*]:
     → "This operation requires that you deliver supplies from a checkpoint garrison to one of our strongholds."
 283: 0x06F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-284: 0x06FA [0x48] [System] [11646*]:
+284: 0x06FA [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 285: 0x06FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x06FE [0x1A] CALL_SUBROUTINE(address=0x1252)
 287: 0x0701 [0x01] GOTO 0x0776
 288: 0x0704 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0722
 289: 0x070C [0x9D] ExtData[1]->WorkLocal[3] = 0x13B0[Work_Zone[0]] // Read WORD
-290: 0x0714 [0x48] [System] [11636*]:
+290: 0x0714 [0x48] [System] [11638*]:
     → "This operation requires that you deliver supplies from a checkpoint garrison to one of our strongholds."
 291: 0x0717 [0x23] WAIT_FOR_DIALOG_INTERACTION
-292: 0x0718 [0x48] [System] [11647*]:
+292: 0x0718 [0x48] [System] [11649*]:
     → "Remember, only efforts in the north will count toward this operation's objectives."
 293: 0x071B [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x071C [0x1A] CALL_SUBROUTINE(address=0x1252)
 295: 0x071F [0x01] GOTO 0x0776
 296: 0x0722 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x073C
 297: 0x072A [0x9D] ExtData[1]->WorkLocal[3] = 0x13B0[Work_Zone[0]] // Read WORD
-298: 0x0732 [0x48] [System] [11637*]:
+298: 0x0732 [0x48] [System] [11639*]:
     → "This operation requires that you serve your army by offering strategies to best ensure the safe transport of precious cargo."
 299: 0x0735 [0x23] WAIT_FOR_DIALOG_INTERACTION
 300: 0x0736 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1408,26 +1408,26 @@ SUBROUTINE_077D:
 319: 0x0793 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 320: 0x0795 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 321: 0x0797 [0x1A] CALL_SUBROUTINE(address=0x0349)
-322: 0x079A [0x24] CREATE_DIALOG(message_id=11611*, default_option=0*, option_flags=Work_Zone[2])
+322: 0x079A [0x24] CREATE_DIALOG(message_id=11613*, default_option=0*, option_flags=Work_Zone[2])
     → "Please select an operation. [Streetsweeper I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Streetsweeper II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Streetsweeper III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Delta Strike I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Delta Strike II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Delta Strike III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Steel Resolve IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Magna Cache I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Magna Cache II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Magna Cache III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hazardous Materials. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]"
 323: 0x07A1 [0x25] WAIT_DIALOG_SELECT()
 324: 0x07A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07BC
 325: 0x07AA [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-326: 0x07B2 [0x48] [System] [11638*]:
+326: 0x07B2 [0x48] [System] [11640*]:
     → "This operation requires that you locate and remove any hazardous objects located within San d'Oria's walls."
 327: 0x07B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x07B6 [0x1A] CALL_SUBROUTINE(address=0x1252)
 329: 0x07B9 [0x01] GOTO 0x096F
 330: 0x07BC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x07D6
 331: 0x07C4 [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-332: 0x07CC [0x48] [System] [11638*]:
+332: 0x07CC [0x48] [System] [11640*]:
     → "This operation requires that you locate and remove any hazardous objects located within San d'Oria's walls."
 333: 0x07CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 334: 0x07D0 [0x1A] CALL_SUBROUTINE(address=0x1252)
 335: 0x07D3 [0x01] GOTO 0x096F
 336: 0x07D6 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x07F0
 337: 0x07DE [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-338: 0x07E6 [0x48] [System] [11638*]:
+338: 0x07E6 [0x48] [System] [11640*]:
     → "This operation requires that you locate and remove any hazardous objects located within San d'Oria's walls."
 339: 0x07E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 340: 0x07EA [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1438,21 +1438,21 @@ SUBROUTINE_077D:
 345: 0x0803 [0x01] GOTO 0x096F
 346: 0x0806 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0820
 347: 0x080E [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-348: 0x0816 [0x48] [System] [11639*]:
+348: 0x0816 [0x48] [System] [11641*]:
     → "This operation requires that you patrol San d'Orian territory and eliminate any immediate threats to the Kingdom."
 349: 0x0819 [0x23] WAIT_FOR_DIALOG_INTERACTION
 350: 0x081A [0x1A] CALL_SUBROUTINE(address=0x1252)
 351: 0x081D [0x01] GOTO 0x096F
 352: 0x0820 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x083A
 353: 0x0828 [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-354: 0x0830 [0x48] [System] [11639*]:
+354: 0x0830 [0x48] [System] [11641*]:
     → "This operation requires that you patrol San d'Orian territory and eliminate any immediate threats to the Kingdom."
 355: 0x0833 [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x0834 [0x1A] CALL_SUBROUTINE(address=0x1252)
 357: 0x0837 [0x01] GOTO 0x096F
 358: 0x083A [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0854
 359: 0x0842 [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-360: 0x084A [0x48] [System] [11639*]:
+360: 0x084A [0x48] [System] [11641*]:
     → "This operation requires that you patrol San d'Orian territory and eliminate any immediate threats to the Kingdom."
 361: 0x084D [0x23] WAIT_FOR_DIALOG_INTERACTION
 362: 0x084E [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1463,40 +1463,40 @@ SUBROUTINE_077D:
 367: 0x0867 [0x01] GOTO 0x096F
 368: 0x086A [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0888
 369: 0x0872 [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-370: 0x087A [0x48] [System] [11640*]:
+370: 0x087A [0x48] [System] [11642*]:
     → "This operation requires that you take part in the fortification of one of your nation's strongholds."
 371: 0x087D [0x23] WAIT_FOR_DIALOG_INTERACTION
-372: 0x087E [0x48] [System] [11646*]:
+372: 0x087E [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 373: 0x0881 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x0882 [0x1A] CALL_SUBROUTINE(address=0x1252)
 375: 0x0885 [0x01] GOTO 0x096F
 376: 0x0888 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x08A6
 377: 0x0890 [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-378: 0x0898 [0x48] [System] [11640*]:
+378: 0x0898 [0x48] [System] [11642*]:
     → "This operation requires that you take part in the fortification of one of your nation's strongholds."
 379: 0x089B [0x23] WAIT_FOR_DIALOG_INTERACTION
-380: 0x089C [0x48] [System] [11646*]:
+380: 0x089C [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 381: 0x089F [0x23] WAIT_FOR_DIALOG_INTERACTION
 382: 0x08A0 [0x1A] CALL_SUBROUTINE(address=0x1252)
 383: 0x08A3 [0x01] GOTO 0x096F
 384: 0x08A6 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x08C4
 385: 0x08AE [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-386: 0x08B6 [0x48] [System] [11640*]:
+386: 0x08B6 [0x48] [System] [11642*]:
     → "This operation requires that you take part in the fortification of one of your nation's strongholds."
 387: 0x08B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-388: 0x08BA [0x48] [System] [11646*]:
+388: 0x08BA [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 389: 0x08BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 390: 0x08BE [0x1A] CALL_SUBROUTINE(address=0x1252)
 391: 0x08C1 [0x01] GOTO 0x096F
 392: 0x08C4 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x08E2
 393: 0x08CC [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-394: 0x08D4 [0x48] [System] [11640*]:
+394: 0x08D4 [0x48] [System] [11642*]:
     → "This operation requires that you take part in the fortification of one of your nation's strongholds."
 395: 0x08D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-396: 0x08D8 [0x48] [System] [11647*]:
+396: 0x08D8 [0x48] [System] [11649*]:
     → "Remember, only efforts in the north will count toward this operation's objectives."
 397: 0x08DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 398: 0x08DC [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1505,37 +1505,37 @@ SUBROUTINE_077D:
 401: 0x08EA [0x01] GOTO 0x096F
 402: 0x08ED [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x090B
 403: 0x08F5 [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-404: 0x08FD [0x48] [System] [11641*]:
+404: 0x08FD [0x48] [System] [11643*]:
     → "This operation requires that you contribute to the expansion of the provision storehouse of one of your nation's strongholds."
 405: 0x0900 [0x23] WAIT_FOR_DIALOG_INTERACTION
-406: 0x0901 [0x48] [System] [11646*]:
+406: 0x0901 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 407: 0x0904 [0x23] WAIT_FOR_DIALOG_INTERACTION
 408: 0x0905 [0x1A] CALL_SUBROUTINE(address=0x1252)
 409: 0x0908 [0x01] GOTO 0x096F
 410: 0x090B [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0929
 411: 0x0913 [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-412: 0x091B [0x48] [System] [11641*]:
+412: 0x091B [0x48] [System] [11643*]:
     → "This operation requires that you contribute to the expansion of the provision storehouse of one of your nation's strongholds."
 413: 0x091E [0x23] WAIT_FOR_DIALOG_INTERACTION
-414: 0x091F [0x48] [System] [11646*]:
+414: 0x091F [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 415: 0x0922 [0x23] WAIT_FOR_DIALOG_INTERACTION
 416: 0x0923 [0x1A] CALL_SUBROUTINE(address=0x1252)
 417: 0x0926 [0x01] GOTO 0x096F
 418: 0x0929 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0947
 419: 0x0931 [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-420: 0x0939 [0x48] [System] [11641*]:
+420: 0x0939 [0x48] [System] [11643*]:
     → "This operation requires that you contribute to the expansion of the provision storehouse of one of your nation's strongholds."
 421: 0x093C [0x23] WAIT_FOR_DIALOG_INTERACTION
-422: 0x093D [0x48] [System] [11646*]:
+422: 0x093D [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 423: 0x0940 [0x23] WAIT_FOR_DIALOG_INTERACTION
 424: 0x0941 [0x1A] CALL_SUBROUTINE(address=0x1252)
 425: 0x0944 [0x01] GOTO 0x096F
 426: 0x0947 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x0961
 427: 0x094F [0x9D] ExtData[1]->WorkLocal[3] = 0x1410[Work_Zone[0]] // Read WORD
-428: 0x0957 [0x48] [System] [11642*]:
+428: 0x0957 [0x48] [System] [11644*]:
     → "This operation requires you to deliver a vital shipment of powerfully magicked supplies to our northern stronghold, preferably without getting yourself killed in the process."
 429: 0x095A [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x095B [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1558,33 +1558,33 @@ SUBROUTINE_0976:
 441: 0x098C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 442: 0x098E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 443: 0x0990 [0x1A] CALL_SUBROUTINE(address=0x0349)
-444: 0x0993 [0x24] CREATE_DIALOG(message_id=11610*, default_option=0*, option_flags=Work_Zone[2])
+444: 0x0993 [0x24] CREATE_DIALOG(message_id=11612*, default_option=0*, option_flags=Work_Zone[2])
     → "Please select an operation. [Crystal Fist I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crystal Fist II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crystal Fist III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Crystal Fist IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Iron Anvil IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]"
 445: 0x099A [0x25] WAIT_DIALOG_SELECT()
 446: 0x099B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09B5
 447: 0x09A3 [0x9D] ExtData[1]->WorkLocal[3] = 0x13E0[Work_Zone[0]] // Read WORD
-448: 0x09AB [0x48] [System] [11643*]:
+448: 0x09AB [0x48] [System] [11645*]:
     → "This operation requires that you assist the Kingdom's various guildmasters in training initiates."
 449: 0x09AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 450: 0x09AF [0x1A] CALL_SUBROUTINE(address=0x1252)
 451: 0x09B2 [0x01] GOTO 0x0AF2
 452: 0x09B5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x09CF
 453: 0x09BD [0x9D] ExtData[1]->WorkLocal[3] = 0x13E0[Work_Zone[0]] // Read WORD
-454: 0x09C5 [0x48] [System] [11643*]:
+454: 0x09C5 [0x48] [System] [11645*]:
     → "This operation requires that you assist the Kingdom's various guildmasters in training initiates."
 455: 0x09C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 456: 0x09C9 [0x1A] CALL_SUBROUTINE(address=0x1252)
 457: 0x09CC [0x01] GOTO 0x0AF2
 458: 0x09CF [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x09E9
 459: 0x09D7 [0x9D] ExtData[1]->WorkLocal[3] = 0x13E0[Work_Zone[0]] // Read WORD
-460: 0x09DF [0x48] [System] [11643*]:
+460: 0x09DF [0x48] [System] [11645*]:
     → "This operation requires that you assist the Kingdom's various guildmasters in training initiates."
 461: 0x09E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 462: 0x09E3 [0x1A] CALL_SUBROUTINE(address=0x1252)
 463: 0x09E6 [0x01] GOTO 0x0AF2
 464: 0x09E9 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0A03
 465: 0x09F1 [0x9D] ExtData[1]->WorkLocal[3] = 0x13E0[Work_Zone[0]] // Read WORD
-466: 0x09F9 [0x48] [System] [11643*]:
+466: 0x09F9 [0x48] [System] [11645*]:
     → "This operation requires that you assist the Kingdom's various guildmasters in training initiates."
 467: 0x09FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 468: 0x09FD [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1603,28 +1603,28 @@ SUBROUTINE_0976:
 481: 0x0A42 [0x01] GOTO 0x0AF2
 482: 0x0A45 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0A5F
 483: 0x0A4D [0x9D] ExtData[1]->WorkLocal[3] = 0x13E0[Work_Zone[0]] // Read WORD
-484: 0x0A55 [0x48] [System] [11644*]:
+484: 0x0A55 [0x48] [System] [11646*]:
     → "This operation requires that you teach advanced synthesis techniques to the adepts of our Kingdom's guilds."
 485: 0x0A58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 486: 0x0A59 [0x1A] CALL_SUBROUTINE(address=0x1252)
 487: 0x0A5C [0x01] GOTO 0x0AF2
 488: 0x0A5F [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0A79
 489: 0x0A67 [0x9D] ExtData[1]->WorkLocal[3] = 0x13E0[Work_Zone[0]] // Read WORD
-490: 0x0A6F [0x48] [System] [11644*]:
+490: 0x0A6F [0x48] [System] [11646*]:
     → "This operation requires that you teach advanced synthesis techniques to the adepts of our Kingdom's guilds."
 491: 0x0A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 492: 0x0A73 [0x1A] CALL_SUBROUTINE(address=0x1252)
 493: 0x0A76 [0x01] GOTO 0x0AF2
 494: 0x0A79 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0A93
 495: 0x0A81 [0x9D] ExtData[1]->WorkLocal[3] = 0x13E0[Work_Zone[0]] // Read WORD
-496: 0x0A89 [0x48] [System] [11644*]:
+496: 0x0A89 [0x48] [System] [11646*]:
     → "This operation requires that you teach advanced synthesis techniques to the adepts of our Kingdom's guilds."
 497: 0x0A8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 498: 0x0A8D [0x1A] CALL_SUBROUTINE(address=0x1252)
 499: 0x0A90 [0x01] GOTO 0x0AF2
 500: 0x0A93 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0AAD
 501: 0x0A9B [0x9D] ExtData[1]->WorkLocal[3] = 0x13E0[Work_Zone[0]] // Read WORD
-502: 0x0AA3 [0x48] [System] [11644*]:
+502: 0x0AA3 [0x48] [System] [11646*]:
     → "This operation requires that you teach advanced synthesis techniques to the adepts of our Kingdom's guilds."
 503: 0x0AA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 504: 0x0AA7 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1657,83 +1657,83 @@ SUBROUTINE_0AF9:
 525: 0x0B0F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 526: 0x0B11 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 527: 0x0B13 [0x1A] CALL_SUBROUTINE(address=0x0349)
-528: 0x0B16 [0x24] CREATE_DIALOG(message_id=11604*, default_option=0*, option_flags=Work_Zone[2])
+528: 0x0B16 [0x24] CREATE_DIALOG(message_id=11606*, default_option=0*, option_flags=Work_Zone[2])
     → "Please select an operation. [Smokescreen I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Smokescreen V. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Splitting Heirs. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Kinslayer: Baileys. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Kinslayer: Keep. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Fiat Lux. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Pit Spider I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Pit Spider II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Pit Spider III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/By Light of Fire I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]"
 529: 0x0B1D [0x25] WAIT_DIALOG_SELECT()
 530: 0x0B1E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B3C
 531: 0x0B26 [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-532: 0x0B2E [0x48] [System] [11613*]:
+532: 0x0B2E [0x48] [System] [11615*]:
     → "This operation requires that you infiltrate an area under beastman control and launch an attack on one of their strongholds, allowing our main forces to gain influence in the region."
 533: 0x0B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
-534: 0x0B32 [0x48] [System] [11646*]:
+534: 0x0B32 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 535: 0x0B35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 536: 0x0B36 [0x1A] CALL_SUBROUTINE(address=0x1252)
 537: 0x0B39 [0x01] GOTO 0x0CD4
 538: 0x0B3C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0B5A
 539: 0x0B44 [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-540: 0x0B4C [0x48] [System] [11613*]:
+540: 0x0B4C [0x48] [System] [11615*]:
     → "This operation requires that you infiltrate an area under beastman control and launch an attack on one of their strongholds, allowing our main forces to gain influence in the region."
 541: 0x0B4F [0x23] WAIT_FOR_DIALOG_INTERACTION
-542: 0x0B50 [0x48] [System] [11646*]:
+542: 0x0B50 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 543: 0x0B53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 544: 0x0B54 [0x1A] CALL_SUBROUTINE(address=0x1252)
 545: 0x0B57 [0x01] GOTO 0x0CD4
 546: 0x0B5A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0B78
 547: 0x0B62 [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-548: 0x0B6A [0x48] [System] [11613*]:
+548: 0x0B6A [0x48] [System] [11615*]:
     → "This operation requires that you infiltrate an area under beastman control and launch an attack on one of their strongholds, allowing our main forces to gain influence in the region."
 549: 0x0B6D [0x23] WAIT_FOR_DIALOG_INTERACTION
-550: 0x0B6E [0x48] [System] [11646*]:
+550: 0x0B6E [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 551: 0x0B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 552: 0x0B72 [0x1A] CALL_SUBROUTINE(address=0x1252)
 553: 0x0B75 [0x01] GOTO 0x0CD4
 554: 0x0B78 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0B96
 555: 0x0B80 [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-556: 0x0B88 [0x48] [System] [11613*]:
+556: 0x0B88 [0x48] [System] [11615*]:
     → "This operation requires that you infiltrate an area under beastman control and launch an attack on one of their strongholds, allowing our main forces to gain influence in the region."
 557: 0x0B8B [0x23] WAIT_FOR_DIALOG_INTERACTION
-558: 0x0B8C [0x48] [System] [11646*]:
+558: 0x0B8C [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 559: 0x0B8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 560: 0x0B90 [0x1A] CALL_SUBROUTINE(address=0x1252)
 561: 0x0B93 [0x01] GOTO 0x0CD4
 562: 0x0B96 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0BB4
 563: 0x0B9E [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-564: 0x0BA6 [0x48] [System] [11613*]:
+564: 0x0BA6 [0x48] [System] [11615*]:
     → "This operation requires that you infiltrate an area under beastman control and launch an attack on one of their strongholds, allowing our main forces to gain influence in the region."
 565: 0x0BA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-566: 0x0BAA [0x48] [System] [11647*]:
+566: 0x0BAA [0x48] [System] [11649*]:
     → "Remember, only efforts in the north will count toward this operation's objectives."
 567: 0x0BAD [0x23] WAIT_FOR_DIALOG_INTERACTION
 568: 0x0BAE [0x1A] CALL_SUBROUTINE(address=0x1252)
 569: 0x0BB1 [0x01] GOTO 0x0CD4
 570: 0x0BB4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0BCE
 571: 0x0BBC [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-572: 0x0BC4 [0x48] [System] [11616*]:
+572: 0x0BC4 [0x48] [System] [11618*]:
     → "This operation requires that you eliminate the commander of the Orcish Hosts on Quon, Darkheir Grradhod."
 573: 0x0BC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 574: 0x0BC8 [0x1A] CALL_SUBROUTINE(address=0x1252)
 575: 0x0BCB [0x01] GOTO 0x0CD4
 576: 0x0BCE [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0BE8
 577: 0x0BD6 [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-578: 0x0BDE [0x48] [System] [11617*]:
+578: 0x0BDE [0x48] [System] [11619*]:
     → "This operation requires you to eliminate the Dark Kindred stationed in the Castle Zvahl Baileys."
 579: 0x0BE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 580: 0x0BE2 [0x1A] CALL_SUBROUTINE(address=0x1252)
 581: 0x0BE5 [0x01] GOTO 0x0CD4
 582: 0x0BE8 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0C02
 583: 0x0BF0 [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-584: 0x0BF8 [0x48] [System] [11618*]:
+584: 0x0BF8 [0x48] [System] [11620*]:
     → "This operation requires you to eliminate the Dark Kindred stationed in the Castle Zvahl Keep."
 585: 0x0BFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 586: 0x0BFC [0x1A] CALL_SUBROUTINE(address=0x1252)
 587: 0x0BFF [0x01] GOTO 0x0CD4
 588: 0x0C02 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0C1C
 589: 0x0C0A [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-590: 0x0C12 [0x48] [System] [11619*]:
+590: 0x0C12 [0x48] [System] [11621*]:
     → "This operation requires you to do no less than strike down the Shadow Lord himself. Goddess be with you, soldier!"
 591: 0x0C15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 592: 0x0C16 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1742,28 +1742,28 @@ SUBROUTINE_0AF9:
 595: 0x0C24 [0x01] GOTO 0x0CD4
 596: 0x0C27 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0C41
 597: 0x0C2F [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-598: 0x0C37 [0x48] [System] [11614*]:
+598: 0x0C37 [0x48] [System] [11616*]:
     → "This operation requires that you ambush one of the enemy's supply caravans and eliminate all traveling with it."
 599: 0x0C3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 600: 0x0C3B [0x1A] CALL_SUBROUTINE(address=0x1252)
 601: 0x0C3E [0x01] GOTO 0x0CD4
 602: 0x0C41 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0C5B
 603: 0x0C49 [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-604: 0x0C51 [0x48] [System] [11614*]:
+604: 0x0C51 [0x48] [System] [11616*]:
     → "This operation requires that you ambush one of the enemy's supply caravans and eliminate all traveling with it."
 605: 0x0C54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 606: 0x0C55 [0x1A] CALL_SUBROUTINE(address=0x1252)
 607: 0x0C58 [0x01] GOTO 0x0CD4
 608: 0x0C5B [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0C75
 609: 0x0C63 [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-610: 0x0C6B [0x48] [System] [11614*]:
+610: 0x0C6B [0x48] [System] [11616*]:
     → "This operation requires that you ambush one of the enemy's supply caravans and eliminate all traveling with it."
 611: 0x0C6E [0x23] WAIT_FOR_DIALOG_INTERACTION
 612: 0x0C6F [0x1A] CALL_SUBROUTINE(address=0x1252)
 613: 0x0C72 [0x01] GOTO 0x0CD4
 614: 0x0C75 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0C8F
 615: 0x0C7D [0x9D] ExtData[1]->WorkLocal[3] = 0x12C0[Work_Zone[0]] // Read WORD
-616: 0x0C85 [0x48] [System] [11614*]:
+616: 0x0C85 [0x48] [System] [11616*]:
     → "This operation requires that you ambush one of the enemy's supply caravans and eliminate all traveling with it."
 617: 0x0C88 [0x23] WAIT_FOR_DIALOG_INTERACTION
 618: 0x0C89 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1796,55 +1796,55 @@ SUBROUTINE_0CDB:
 639: 0x0CF1 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 640: 0x0CF3 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 641: 0x0CF5 [0x1A] CALL_SUBROUTINE(address=0x0349)
-642: 0x0CF8 [0x24] CREATE_DIALOG(message_id=11605*, default_option=0*, option_flags=Work_Zone[2])
+642: 0x0CF8 [0x24] CREATE_DIALOG(message_id=11607*, default_option=0*, option_flags=Work_Zone[2])
     → "Please select an operation. [Aegis Scream I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Aegis Scream V. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Granite Rose I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Granite Rose II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Granite Rose III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]"
 643: 0x0CFF [0x25] WAIT_DIALOG_SELECT()
 644: 0x0D00 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D1E
 645: 0x0D08 [0x9D] ExtData[1]->WorkLocal[3] = 0x12F0[Work_Zone[0]] // Read WORD
-646: 0x0D10 [0x48] [System] [11620*]:
+646: 0x0D10 [0x48] [System] [11622*]:
     → "This operation requires that you fend off a beastman siege against one of our strongholds."
 647: 0x0D13 [0x23] WAIT_FOR_DIALOG_INTERACTION
-648: 0x0D14 [0x48] [System] [11646*]:
+648: 0x0D14 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 649: 0x0D17 [0x23] WAIT_FOR_DIALOG_INTERACTION
 650: 0x0D18 [0x1A] CALL_SUBROUTINE(address=0x1252)
 651: 0x0D1B [0x01] GOTO 0x0E6B
 652: 0x0D1E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D3C
 653: 0x0D26 [0x9D] ExtData[1]->WorkLocal[3] = 0x12F0[Work_Zone[0]] // Read WORD
-654: 0x0D2E [0x48] [System] [11620*]:
+654: 0x0D2E [0x48] [System] [11622*]:
     → "This operation requires that you fend off a beastman siege against one of our strongholds."
 655: 0x0D31 [0x23] WAIT_FOR_DIALOG_INTERACTION
-656: 0x0D32 [0x48] [System] [11646*]:
+656: 0x0D32 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 657: 0x0D35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 658: 0x0D36 [0x1A] CALL_SUBROUTINE(address=0x1252)
 659: 0x0D39 [0x01] GOTO 0x0E6B
 660: 0x0D3C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0D5A
 661: 0x0D44 [0x9D] ExtData[1]->WorkLocal[3] = 0x12F0[Work_Zone[0]] // Read WORD
-662: 0x0D4C [0x48] [System] [11620*]:
+662: 0x0D4C [0x48] [System] [11622*]:
     → "This operation requires that you fend off a beastman siege against one of our strongholds."
 663: 0x0D4F [0x23] WAIT_FOR_DIALOG_INTERACTION
-664: 0x0D50 [0x48] [System] [11646*]:
+664: 0x0D50 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 665: 0x0D53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 666: 0x0D54 [0x1A] CALL_SUBROUTINE(address=0x1252)
 667: 0x0D57 [0x01] GOTO 0x0E6B
 668: 0x0D5A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0D78
 669: 0x0D62 [0x9D] ExtData[1]->WorkLocal[3] = 0x12F0[Work_Zone[0]] // Read WORD
-670: 0x0D6A [0x48] [System] [11620*]:
+670: 0x0D6A [0x48] [System] [11622*]:
     → "This operation requires that you fend off a beastman siege against one of our strongholds."
 671: 0x0D6D [0x23] WAIT_FOR_DIALOG_INTERACTION
-672: 0x0D6E [0x48] [System] [11646*]:
+672: 0x0D6E [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 673: 0x0D71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 674: 0x0D72 [0x1A] CALL_SUBROUTINE(address=0x1252)
 675: 0x0D75 [0x01] GOTO 0x0E6B
 676: 0x0D78 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0D96
 677: 0x0D80 [0x9D] ExtData[1]->WorkLocal[3] = 0x12F0[Work_Zone[0]] // Read WORD
-678: 0x0D88 [0x48] [System] [11620*]:
+678: 0x0D88 [0x48] [System] [11622*]:
     → "This operation requires that you fend off a beastman siege against one of our strongholds."
 679: 0x0D8B [0x23] WAIT_FOR_DIALOG_INTERACTION
-680: 0x0D8C [0x48] [System] [11647*]:
+680: 0x0D8C [0x48] [System] [11649*]:
     → "Remember, only efforts in the north will count toward this operation's objectives."
 681: 0x0D8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 682: 0x0D90 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1861,21 +1861,21 @@ SUBROUTINE_0CDB:
 693: 0x0DCA [0x01] GOTO 0x0E6B
 694: 0x0DCD [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0DE7
 695: 0x0DD5 [0x9D] ExtData[1]->WorkLocal[3] = 0x12F0[Work_Zone[0]] // Read WORD
-696: 0x0DDD [0x48] [System] [11621*]:
+696: 0x0DDD [0x48] [System] [11623*]:
     → "This operation requires that you aid our garrison knights in their efforts against an enemy siege."
 697: 0x0DE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 698: 0x0DE1 [0x1A] CALL_SUBROUTINE(address=0x1252)
 699: 0x0DE4 [0x01] GOTO 0x0E6B
 700: 0x0DE7 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0E01
 701: 0x0DEF [0x9D] ExtData[1]->WorkLocal[3] = 0x12F0[Work_Zone[0]] // Read WORD
-702: 0x0DF7 [0x48] [System] [11621*]:
+702: 0x0DF7 [0x48] [System] [11623*]:
     → "This operation requires that you aid our garrison knights in their efforts against an enemy siege."
 703: 0x0DFA [0x23] WAIT_FOR_DIALOG_INTERACTION
 704: 0x0DFB [0x1A] CALL_SUBROUTINE(address=0x1252)
 705: 0x0DFE [0x01] GOTO 0x0E6B
 706: 0x0E01 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0E1B
 707: 0x0E09 [0x9D] ExtData[1]->WorkLocal[3] = 0x12F0[Work_Zone[0]] // Read WORD
-708: 0x0E11 [0x48] [System] [11621*]:
+708: 0x0E11 [0x48] [System] [11623*]:
     → "This operation requires that you aid our garrison knights in their efforts against an enemy siege."
 709: 0x0E14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 710: 0x0E15 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -1923,80 +1923,80 @@ SUBROUTINE_0E72:
 746: 0x0EE5 [0x40] SET_BIT_WORK_RANGE(start_bit=7*, end_bit=7*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[13])
 747: 0x0EEE [0x41] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[12] (bits 7*-7*)
 748: 0x0EF7 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=8*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[13])
-749: 0x0F00 [0x24] CREATE_DIALOG(message_id=11606*, default_option=0*, option_flags=Work_Zone[2])
+749: 0x0F00 [0x24] CREATE_DIALOG(message_id=11608*, default_option=0*, option_flags=Work_Zone[2])
     → "Please select an operation. [Hawk Eye I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hawk Eye II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hawk Eye III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Hawk Eye IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Prying Eyes I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Prying Eyes II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Deep Cover I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Deep Cover II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Deep Cover III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Slaughterhouse IV. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Frozen Flame. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Bailey Borer. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]"
 750: 0x0F07 [0x25] WAIT_DIALOG_SELECT()
 751: 0x0F08 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F26
 752: 0x0F10 [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-753: 0x0F18 [0x48] [System] [11622*]:
+753: 0x0F18 [0x48] [System] [11624*]:
     → "This operation requires that you infiltrate an enemy stronghold and gather intel."
 754: 0x0F1B [0x23] WAIT_FOR_DIALOG_INTERACTION
-755: 0x0F1C [0x48] [System] [11646*]:
+755: 0x0F1C [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 756: 0x0F1F [0x23] WAIT_FOR_DIALOG_INTERACTION
 757: 0x0F20 [0x1A] CALL_SUBROUTINE(address=0x1252)
 758: 0x0F23 [0x01] GOTO 0x10E8
 759: 0x0F26 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0F44
 760: 0x0F2E [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-761: 0x0F36 [0x48] [System] [11622*]:
+761: 0x0F36 [0x48] [System] [11624*]:
     → "This operation requires that you infiltrate an enemy stronghold and gather intel."
 762: 0x0F39 [0x23] WAIT_FOR_DIALOG_INTERACTION
-763: 0x0F3A [0x48] [System] [11646*]:
+763: 0x0F3A [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 764: 0x0F3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 765: 0x0F3E [0x1A] CALL_SUBROUTINE(address=0x1252)
 766: 0x0F41 [0x01] GOTO 0x10E8
 767: 0x0F44 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0F62
 768: 0x0F4C [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-769: 0x0F54 [0x48] [System] [11622*]:
+769: 0x0F54 [0x48] [System] [11624*]:
     → "This operation requires that you infiltrate an enemy stronghold and gather intel."
 770: 0x0F57 [0x23] WAIT_FOR_DIALOG_INTERACTION
-771: 0x0F58 [0x48] [System] [11646*]:
+771: 0x0F58 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 772: 0x0F5B [0x23] WAIT_FOR_DIALOG_INTERACTION
 773: 0x0F5C [0x1A] CALL_SUBROUTINE(address=0x1252)
 774: 0x0F5F [0x01] GOTO 0x10E8
 775: 0x0F62 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0F80
 776: 0x0F6A [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-777: 0x0F72 [0x48] [System] [11622*]:
+777: 0x0F72 [0x48] [System] [11624*]:
     → "This operation requires that you infiltrate an enemy stronghold and gather intel."
 778: 0x0F75 [0x23] WAIT_FOR_DIALOG_INTERACTION
-779: 0x0F76 [0x48] [System] [11647*]:
+779: 0x0F76 [0x48] [System] [11649*]:
     → "Remember, only efforts in the north will count toward this operation's objectives."
 780: 0x0F79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 781: 0x0F7A [0x1A] CALL_SUBROUTINE(address=0x1252)
 782: 0x0F7D [0x01] GOTO 0x10E8
 783: 0x0F80 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0F9A
 784: 0x0F88 [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-785: 0x0F90 [0x48] [System] [11622*]:
+785: 0x0F90 [0x48] [System] [11624*]:
     → "This operation requires that you infiltrate an enemy stronghold and gather intel."
 786: 0x0F93 [0x23] WAIT_FOR_DIALOG_INTERACTION
 787: 0x0F94 [0x1A] CALL_SUBROUTINE(address=0x1252)
 788: 0x0F97 [0x01] GOTO 0x10E8
 789: 0x0F9A [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0FB4
 790: 0x0FA2 [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-791: 0x0FAA [0x48] [System] [11627*]:
+791: 0x0FAA [0x48] [System] [11629*]:
     → "This operation requires that you infiltrate Castle Zvahl and gather intel on the unidentified devices enhancing our enemy's defensive capabilities."
 792: 0x0FAD [0x23] WAIT_FOR_DIALOG_INTERACTION
 793: 0x0FAE [0x1A] CALL_SUBROUTINE(address=0x1252)
 794: 0x0FB1 [0x01] GOTO 0x10E8
 795: 0x0FB4 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0FCE
 796: 0x0FBC [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-797: 0x0FC4 [0x48] [System] [11624*]:
+797: 0x0FC4 [0x48] [System] [11626*]:
     → "This operation requires that you infiltrate enemy territory and gather intel on their equipment."
 798: 0x0FC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 799: 0x0FC8 [0x1A] CALL_SUBROUTINE(address=0x1252)
 800: 0x0FCB [0x01] GOTO 0x10E8
 801: 0x0FCE [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0FE8
 802: 0x0FD6 [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-803: 0x0FDE [0x48] [System] [11624*]:
+803: 0x0FDE [0x48] [System] [11626*]:
     → "This operation requires that you infiltrate enemy territory and gather intel on their equipment."
 804: 0x0FE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 805: 0x0FE2 [0x1A] CALL_SUBROUTINE(address=0x1252)
 806: 0x0FE5 [0x01] GOTO 0x10E8
 807: 0x0FE8 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1002
 808: 0x0FF0 [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-809: 0x0FF8 [0x48] [System] [11624*]:
+809: 0x0FF8 [0x48] [System] [11626*]:
     → "This operation requires that you infiltrate enemy territory and gather intel on their equipment."
 810: 0x0FFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 811: 0x0FFC [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -2005,54 +2005,54 @@ SUBROUTINE_0E72:
 814: 0x100A [0x01] GOTO 0x10E8
 815: 0x100D [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x102B
 816: 0x1015 [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-817: 0x101D [0x48] [System] [11623*]:
+817: 0x101D [0x48] [System] [11625*]:
     → "This operation requires that you infiltrate an enemy stronghold and destroy key points within the fortress."
 818: 0x1020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-819: 0x1021 [0x48] [System] [11646*]:
+819: 0x1021 [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 820: 0x1024 [0x23] WAIT_FOR_DIALOG_INTERACTION
 821: 0x1025 [0x1A] CALL_SUBROUTINE(address=0x1252)
 822: 0x1028 [0x01] GOTO 0x10E8
 823: 0x102B [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x1049
 824: 0x1033 [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-825: 0x103B [0x48] [System] [11623*]:
+825: 0x103B [0x48] [System] [11625*]:
     → "This operation requires that you infiltrate an enemy stronghold and destroy key points within the fortress."
 826: 0x103E [0x23] WAIT_FOR_DIALOG_INTERACTION
-827: 0x103F [0x48] [System] [11646*]:
+827: 0x103F [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 828: 0x1042 [0x23] WAIT_FOR_DIALOG_INTERACTION
 829: 0x1043 [0x1A] CALL_SUBROUTINE(address=0x1252)
 830: 0x1046 [0x01] GOTO 0x10E8
 831: 0x1049 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x1067
 832: 0x1051 [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-833: 0x1059 [0x48] [System] [11623*]:
+833: 0x1059 [0x48] [System] [11625*]:
     → "This operation requires that you infiltrate an enemy stronghold and destroy key points within the fortress."
 834: 0x105C [0x23] WAIT_FOR_DIALOG_INTERACTION
-835: 0x105D [0x48] [System] [11646*]:
+835: 0x105D [0x48] [System] [11648*]:
     → "Mind you, the war effort up north is being handled under a separate operation. Whatever you do up there, it won't count toward this objective."
 836: 0x1060 [0x23] WAIT_FOR_DIALOG_INTERACTION
 837: 0x1061 [0x1A] CALL_SUBROUTINE(address=0x1252)
 838: 0x1064 [0x01] GOTO 0x10E8
 839: 0x1067 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x1085
 840: 0x106F [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-841: 0x1077 [0x48] [System] [11623*]:
+841: 0x1077 [0x48] [System] [11625*]:
     → "This operation requires that you infiltrate an enemy stronghold and destroy key points within the fortress."
 842: 0x107A [0x23] WAIT_FOR_DIALOG_INTERACTION
-843: 0x107B [0x48] [System] [11647*]:
+843: 0x107B [0x48] [System] [11649*]:
     → "Remember, only efforts in the north will count toward this operation's objectives."
 844: 0x107E [0x23] WAIT_FOR_DIALOG_INTERACTION
 845: 0x107F [0x1A] CALL_SUBROUTINE(address=0x1252)
 846: 0x1082 [0x01] GOTO 0x10E8
 847: 0x1085 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x109F
 848: 0x108D [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-849: 0x1095 [0x48] [System] [11626*]:
+849: 0x1095 [0x48] [System] [11628*]:
     → "For this operation, you'll have to infiltrate the enemy's northern stronghold, commandeer their prototype weapon, and use it to raze the place to the ground."
 850: 0x1098 [0x23] WAIT_FOR_DIALOG_INTERACTION
 851: 0x1099 [0x1A] CALL_SUBROUTINE(address=0x1252)
 852: 0x109C [0x01] GOTO 0x10E8
 853: 0x109F [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x10B9
 854: 0x10A7 [0x9D] ExtData[1]->WorkLocal[3] = 0x1320[Work_Zone[0]] // Read WORD
-855: 0x10AF [0x48] [System] [11628*]:
+855: 0x10AF [0x48] [System] [11630*]:
     → "This operation requires you to seek out and destroy the source of the magical barrier protecting Castle Zvahl's walls."
 856: 0x10B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 857: 0x10B3 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -2081,26 +2081,26 @@ SUBROUTINE_10EF:
 874: 0x1105 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 875: 0x1107 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 876: 0x1109 [0x1A] CALL_SUBROUTINE(address=0x0349)
-877: 0x110C [0x24] CREATE_DIALOG(message_id=11607*, default_option=0*, option_flags=Work_Zone[2])
+877: 0x110C [0x24] CREATE_DIALOG(message_id=11609*, default_option=0*, option_flags=Work_Zone[2])
     → "Please select an operation. [Brave Dawn I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Brave Dawn II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Brave Dawn III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Cut and Cauterize I. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Cut and Cauterize II. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Cut and Cauterize III. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Top Secret Operation X. ([$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26])/Quit.]"
 878: 0x1113 [0x25] WAIT_DIALOG_SELECT()
 879: 0x1114 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x112E
 880: 0x111C [0x9D] ExtData[1]->WorkLocal[3] = 0x1350[Work_Zone[0]] // Read WORD
-881: 0x1124 [0x48] [System] [11629*]:
+881: 0x1124 [0x48] [System] [11631*]:
     → "This operation requires that you assist in the training of a new recruit."
 882: 0x1127 [0x23] WAIT_FOR_DIALOG_INTERACTION
 883: 0x1128 [0x1A] CALL_SUBROUTINE(address=0x1252)
 884: 0x112B [0x01] GOTO 0x124D
 885: 0x112E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1148
 886: 0x1136 [0x9D] ExtData[1]->WorkLocal[3] = 0x1350[Work_Zone[0]] // Read WORD
-887: 0x113E [0x48] [System] [11629*]:
+887: 0x113E [0x48] [System] [11631*]:
     → "This operation requires that you assist in the training of a new recruit."
 888: 0x1141 [0x23] WAIT_FOR_DIALOG_INTERACTION
 889: 0x1142 [0x1A] CALL_SUBROUTINE(address=0x1252)
 890: 0x1145 [0x01] GOTO 0x124D
 891: 0x1148 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1162
 892: 0x1150 [0x9D] ExtData[1]->WorkLocal[3] = 0x1350[Work_Zone[0]] // Read WORD
-893: 0x1158 [0x48] [System] [11629*]:
+893: 0x1158 [0x48] [System] [11631*]:
     → "This operation requires that you assist in the training of a new recruit."
 894: 0x115B [0x23] WAIT_FOR_DIALOG_INTERACTION
 895: 0x115C [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -2121,21 +2121,21 @@ SUBROUTINE_10EF:
 910: 0x11AC [0x01] GOTO 0x124D
 911: 0x11AF [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x11C9
 912: 0x11B7 [0x9D] ExtData[1]->WorkLocal[3] = 0x1350[Work_Zone[0]] // Read WORD
-913: 0x11BF [0x48] [System] [11630*]:
+913: 0x11BF [0x48] [System] [11632*]:
     → "This operation requires you to assist in the medical training of some new recruits. See if you can't make some battle-ready palliators out of them!"
 914: 0x11C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 915: 0x11C3 [0x1A] CALL_SUBROUTINE(address=0x1252)
 916: 0x11C6 [0x01] GOTO 0x124D
 917: 0x11C9 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x11E3
 918: 0x11D1 [0x9D] ExtData[1]->WorkLocal[3] = 0x1350[Work_Zone[0]] // Read WORD
-919: 0x11D9 [0x48] [System] [11630*]:
+919: 0x11D9 [0x48] [System] [11632*]:
     → "This operation requires you to assist in the medical training of some new recruits. See if you can't make some battle-ready palliators out of them!"
 920: 0x11DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 921: 0x11DD [0x1A] CALL_SUBROUTINE(address=0x1252)
 922: 0x11E0 [0x01] GOTO 0x124D
 923: 0x11E3 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x11FD
 924: 0x11EB [0x9D] ExtData[1]->WorkLocal[3] = 0x1350[Work_Zone[0]] // Read WORD
-925: 0x11F3 [0x48] [System] [11630*]:
+925: 0x11F3 [0x48] [System] [11632*]:
     → "This operation requires you to assist in the medical training of some new recruits. See if you can't make some battle-ready palliators out of them!"
 926: 0x11F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 927: 0x11F7 [0x1A] CALL_SUBROUTINE(address=0x1252)
@@ -2161,10 +2161,10 @@ SUBROUTINE_124D:
 945: 0x1250 [0x1B] RETURN
 
 SUBROUTINE_1252:
-946: 0x1252 [0x1D] PRINT_EVENT_MESSAGE(message_id=11648*)
+946: 0x1252 [0x1D] PRINT_EVENT_MESSAGE(message_id=11650*)
     → "Shall I add your name to the list?"
 947: 0x1255 [0x23] WAIT_FOR_DIALOG_INTERACTION
-948: 0x1256 [0x24] CREATE_DIALOG(message_id=11649*, default_option=1*, option_flags=0*)
+948: 0x1256 [0x24] CREATE_DIALOG(message_id=11651*, default_option=1*, option_flags=0*)
     → "Participate in this operation? [Yes./No.]"
 949: 0x125D [0x25] WAIT_DIALOG_SELECT()
 950: 0x125E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12BF
@@ -2173,26 +2173,26 @@ SUBROUTINE_1252:
 953: 0x1274 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 954: 0x1276 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 955: 0x1278 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1290
-956: 0x1280 [0x1D] PRINT_EVENT_MESSAGE(message_id=11650*)
+956: 0x1280 [0x1D] PRINT_EVENT_MESSAGE(message_id=11652*)
     → "Very well. Your name has been added to the campaign ledger. Do not forget to report to me upon operation completion. Good luck, <Player>."
 957: 0x1283 [0x23] WAIT_FOR_DIALOG_INTERACTION
-958: 0x1284 [0x48] [System] [11651*]:
+958: 0x1284 [0x48] [System] [11653*]:
     → "Select Campaign Ops within the Missions menu to view operation orders."
 959: 0x1287 [0x23] WAIT_FOR_DIALOG_INTERACTION
 960: 0x1288 [0x08] ExtData[1]->WorkLocal[0] -= 2*
 961: 0x128D [0x01] GOTO 0x12BC
 962: 0x1290 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x129F
-963: 0x1298 [0x1D] PRINT_EVENT_MESSAGE(message_id=11652*)
+963: 0x1298 [0x1D] PRINT_EVENT_MESSAGE(message_id=11654*)
     → "I'm sorry, <Player>. All positions for that operation have been filled. You will have to select another."
 964: 0x129B [0x23] WAIT_FOR_DIALOG_INTERACTION
 965: 0x129C [0x01] GOTO 0x12BC
 966: 0x129F [0x02] IF !(Work_Zone[9] == 4294967294*) GOTO 0x12B3
-967: 0x12A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11653*)
+967: 0x12A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11655*)
     → "Wait. You do not possess enough Op Credits to join any operations. Perhaps you are working too hard, <Player>. Might I suggest a little rest at the barracks?"
 968: 0x12AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 969: 0x12AB [0x08] ExtData[1]->WorkLocal[0] -= 2*
 970: 0x12B0 [0x01] GOTO 0x12BC
-971: 0x12B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11601*)
+971: 0x12B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11603*)
     → "Ah... I am sorry to report that there are no campaign operations available for you at the moment. Please use this time to regain your strength, and speak with me again at a later date."
 972: 0x12B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 973: 0x12B7 [0x08] ExtData[1]->WorkLocal[0] -= 2*

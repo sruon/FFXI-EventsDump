@@ -29,8 +29,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2688      |        9864 |
-|       2 | 0x2689      |        9865 |
+|       1 | 0x268A      |        9866 |
+|       2 | 0x268B      |        9867 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x000D      |          13 |
 |       5 | 0x0000      |           0 |
@@ -55,8 +55,8 @@
 
 ## String References
 
-- **9864**: You would be sorely misinformed were you to believe that everyone in Adoulin supports the colonization effort.
-- **9865**: A famous example would be the leader of the Peacekeepers' Coalition, Gratzigg. I personally think that his views on the topic are outdated and overly conservative, but to each his own.
+- **9866**: You would be sorely misinformed were you to believe that everyone in Adoulin supports the colonization effort.
+- **9867**: A famous example would be the leader of the Peacekeepers' Coalition, Gratzigg. I personally think that his views on the topic are outdated and overly conservative, but to each his own.
 
 ## Events
 
@@ -107,10 +107,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9864*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9866*)
     → "You would be sorely misinformed were you to believe that everyone in Adoulin supports the colonization effort."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9865*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9867*)
     → "A famous example would be the leader of the Peacekeepers' Coalition, Gratzigg. I personally think that his views on the topic are outdated and overly conservative, but to each his own."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*

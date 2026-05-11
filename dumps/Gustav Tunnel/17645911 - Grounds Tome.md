@@ -29,25 +29,25 @@
 |       6 | 0x0006      |           6 |
 |       7 | 0x0012      |          18 |
 |       8 | 0x0013      |          19 |
-|       9 | 0x1D79      |        7545 |
-|      10 | 0x1D7A      |        7546 |
-|      11 | 0x298E      |       10638 |
-|      12 | 0x298F      |       10639 |
-|      13 | 0x2987      |       10631 |
-|      14 | 0x2991      |       10641 |
-|      15 | 0x1D7B      |        7547 |
+|       9 | 0x1D7B      |        7547 |
+|      10 | 0x1D7C      |        7548 |
+|      11 | 0x2990      |       10640 |
+|      12 | 0x2991      |       10641 |
+|      13 | 0x2989      |       10633 |
+|      14 | 0x2993      |       10643 |
+|      15 | 0x1D7D      |        7549 |
 |      16 | 0x000B      |          11 |
-|      17 | 0x1D7C      |        7548 |
-|      18 | 0x1D7D      |        7549 |
-|      19 | 0x257D      |        9597 |
-|      20 | 0x2582      |        9602 |
-|      21 | 0x257E      |        9598 |
-|      22 | 0x2995      |       10645 |
-|      23 | 0x2996      |       10646 |
+|      17 | 0x1D7E      |        7550 |
+|      18 | 0x1D7F      |        7551 |
+|      19 | 0x257F      |        9599 |
+|      20 | 0x2584      |        9604 |
+|      21 | 0x2580      |        9600 |
+|      22 | 0x2997      |       10647 |
+|      23 | 0x2998      |       10648 |
 |      24 | 0x001F      |          31 |
-|      25 | 0x217D      |        8573 |
-|      26 | 0x2982      |       10626 |
-|      27 | 0x2983      |       10627 |
+|      25 | 0x217F      |        8575 |
+|      26 | 0x2984      |       10628 |
+|      27 | 0x2985      |       10629 |
 |      28 | 0x000A      |          10 |
 |      29 | 0x0019      |          25 |
 |      30 | 0x000F      |          15 |
@@ -55,7 +55,7 @@
 |      32 | 0x0014      |          20 |
 |      33 | 0x001E      |          30 |
 |      34 | 0x012C      |         300 |
-|      35 | 0x2984      |       10628 |
+|      35 | 0x2986      |       10630 |
 |      36 | 0x0007      |           7 |
 |      37 | 0x0008      |           8 |
 |      38 | 0x0009      |           9 |
@@ -64,10 +64,10 @@
 |      41 | 0x000E      |          14 |
 |      42 | 0x0010      |          16 |
 |      43 | 0x0011      |          17 |
-|      44 | 0x2988      |       10632 |
-|      45 | 0x2989      |       10633 |
-|      46 | 0x298A      |       10634 |
-|      47 | 0x298B      |       10635 |
+|      44 | 0x298A      |       10634 |
+|      45 | 0x298B      |       10635 |
+|      46 | 0x298C      |       10636 |
+|      47 | 0x298D      |       10637 |
 |      48 | 0x007A      |         122 |
 |      49 | 0x0104      |         260 |
 |      50 | 0x004C      |          76 |
@@ -82,14 +82,14 @@
 |      59 | 0x0039      |          57 |
 |      60 | 0x001B      |          27 |
 |      61 | 0x001D      |          29 |
-|      62 | 0x2992      |       10642 |
-|      63 | 0x2993      |       10643 |
+|      62 | 0x2994      |       10644 |
+|      63 | 0x2995      |       10645 |
 |      64 | 0x0017      |          23 |
 |      65 | 0x0018      |          24 |
 |      66 | 0x001C      |          28 |
-|      67 | 0x2994      |       10644 |
-|      68 | 0x2985      |       10629 |
-|      69 | 0x2986      |       10630 |
+|      67 | 0x2996      |       10646 |
+|      68 | 0x2987      |       10631 |
+|      69 | 0x2988      |       10632 |
 |      70 | 0xFFFFFFFF  |  4294967295 |
 |      71 | 0x0093      |         147 |
 |      72 | 0x0230      |         560 |
@@ -101,27 +101,27 @@
 
 ## String References
 
-- **7545**: A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.
-- **7546**: What will you do? [Nothing./Read about individual training./Review current training regime./Cancel current training regime./Read about field support./Read about prowesses./Review active prowesses.]
-- **7547**: Which page? [I've changed my mind./Page 1./Page 2./Page 3./Page 4./Page 5./Page 6./Page 7./Page 8./Page 9./Page 10.]
-- **7548**: The information on this page instructs you to defeat the following:
-- **9597**: Target level range: $5\`$6.
-- **9598**: Undertake this training regime? [Bring it on!/No, wait...]
-- **10626**: (End of list.)
-- **10627**: The tabs you acquire can be spent on field support.
-- **10628**: Which one? (You have $8 [tab/tabs]). [Nothing for now./Repatriation ($9)./Circumspection ($10)./Homing Instinct ($11)./White magic: Reraise ($12)./White magic: Reraise II ($13)./White magic: Reraise III ($14)./White magic: Regen ($15)./White magic: Refresh ($16)./White magic: Protect ($17)./White magic: Shell ($18)./White magic: Haste ($19)./Field recipe: Dried Meat ($20)./Field recipe: Salted Fish ($21)./Field recipe: Hard Cookie ($22)./Field recipe: Instant Noodles ($23)./Field recipe: Dried Agaricus ($24)./Field recipe: Instant Rice ($25)./Receive alter ego: Sakura ($26)./Receive alter ego: Koru-Moru ($27).]
-- **10629**: Active prowess list. [Go back./Increased treasure casket discovery./Increased combat and magic skill gain./Increased crystal yield./Treasure Hunter bonus./Increased attack speed./Increased HP and MP./Enhanced accuracy and ranged accuracy./Enhanced attack and ranged attack./Enhanced magic acc. and magic atk./Enhanced "Cure" potency./Increased weapon skill damage./"Killer" effects bonus./Ability X./Ability X./Ability X./Ability X.]
-- **10630**: [Increased treasure casket discovery/Increased combat and magic skill gain/Increased crystal yield/Treasure Hunter bonus/Increased attack speed/Increased HP and MP/Enhanced accuracy and ranged accuracy/Enhanced attack and ranged attack/Enhanced magic accuracy and magic attack/Enhanced "Cure" potency/Increased weapon skill damage/"Killer" effects bonus/Effect X/Effect X/Effect X/Effect X] prowess stands at level $1.
-- **10631**: Are you certain? [Yes./No.]
-- **10635**: You do not have enough tabs.
-- **10638**: You cannot undertake a training regime while a hunt is active.
-- **10639**: Cancel hunt? [Yes./No.]
-- **10641**: The requisite time has not yet elapsed since the completion of your last regime. You may be ineligible to receive gil and tab rewards.
-- **10642**: Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training.
-- **10643**: Please note, however, that their effects are temporary and will be lost should you venture into a different area.
-- **10644**: No prowesses are active at present.
-- **10645**: Set training regime to automatically repeat upon completion?
-- **10646**: Set training regime to repeat? [Yes./No.]
+- **7547**: A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.
+- **7548**: What will you do? [Nothing./Read about individual training./Review current training regime./Cancel current training regime./Read about field support./Read about prowesses./Review active prowesses.]
+- **7549**: Which page? [I've changed my mind./Page 1./Page 2./Page 3./Page 4./Page 5./Page 6./Page 7./Page 8./Page 9./Page 10.]
+- **7550**: The information on this page instructs you to defeat the following:
+- **9599**: Target level range: $5\`$6.
+- **9600**: Undertake this training regime? [Bring it on!/No, wait...]
+- **10628**: (End of list.)
+- **10629**: The tabs you acquire can be spent on field support.
+- **10630**: Which one? (You have $8 [tab/tabs]). [Nothing for now./Repatriation ($9)./Circumspection ($10)./Homing Instinct ($11)./White magic: Reraise ($12)./White magic: Reraise II ($13)./White magic: Reraise III ($14)./White magic: Regen ($15)./White magic: Refresh ($16)./White magic: Protect ($17)./White magic: Shell ($18)./White magic: Haste ($19)./Field recipe: Dried Meat ($20)./Field recipe: Salted Fish ($21)./Field recipe: Hard Cookie ($22)./Field recipe: Instant Noodles ($23)./Field recipe: Dried Agaricus ($24)./Field recipe: Instant Rice ($25)./Receive alter ego: Sakura ($26)./Receive alter ego: Koru-Moru ($27).]
+- **10631**: Active prowess list. [Go back./Increased treasure casket discovery./Increased combat and magic skill gain./Increased crystal yield./Treasure Hunter bonus./Increased attack speed./Increased HP and MP./Enhanced accuracy and ranged accuracy./Enhanced attack and ranged attack./Enhanced magic acc. and magic atk./Enhanced "Cure" potency./Increased weapon skill damage./"Killer" effects bonus./Ability X./Ability X./Ability X./Ability X.]
+- **10632**: [Increased treasure casket discovery/Increased combat and magic skill gain/Increased crystal yield/Treasure Hunter bonus/Increased attack speed/Increased HP and MP/Enhanced accuracy and ranged accuracy/Enhanced attack and ranged attack/Enhanced magic accuracy and magic attack/Enhanced "Cure" potency/Increased weapon skill damage/"Killer" effects bonus/Effect X/Effect X/Effect X/Effect X] prowess stands at level $1.
+- **10633**: Are you certain? [Yes./No.]
+- **10637**: You do not have enough tabs.
+- **10640**: You cannot undertake a training regime while a hunt is active.
+- **10641**: Cancel hunt? [Yes./No.]
+- **10643**: The requisite time has not yet elapsed since the completion of your last regime. You may be ineligible to receive gil and tab rewards.
+- **10644**: Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training.
+- **10645**: Please note, however, that their effects are temporary and will be lost should you venture into a different area.
+- **10646**: No prowesses are active at present.
+- **10647**: Set training regime to automatically repeat upon completion?
+- **10648**: Set training regime to repeat? [Yes./No.]
 
 ## Events
 
@@ -379,14 +379,14 @@ SUBROUTINE_00BB:
  35: 0x00CC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=19*, condition_work_offset=1*)
 
 SUBROUTINE_00D3:
- 36: 0x00D3 [0x48] [System] [7545*]:
+ 36: 0x00D3 [0x48] [System] [7547*]:
     → "A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages."
  37: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x00D7 [0x05] ExtData[1]->WorkLocal[4] = 1
 
 SUBROUTINE_00DA:
  39: 0x00DA [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0A3C
- 40: 0x00E2 [0x24] CREATE_DIALOG(message_id=7546*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 40: 0x00E2 [0x24] CREATE_DIALOG(message_id=7548*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What will you do? [Nothing./Read about individual training./Review current training regime./Cancel current training regime./Read about field support./Read about prowesses./Review active prowesses.]"
  41: 0x00E9 [0x25] WAIT_DIALOG_SELECT()
  42: 0x00EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F8
@@ -396,14 +396,14 @@ SUBROUTINE_00DA:
  46: 0x0100 [0x03] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[6]
  47: 0x0105 [0x1A] CALL_SUBROUTINE(address=0x0A5E)
  48: 0x0108 [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x0160
- 49: 0x0110 [0x48] [System] [10638*]:
+ 49: 0x0110 [0x48] [System] [10640*]:
     → "You cannot undertake a training regime while a hunt is active."
  50: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x0114 [0x24] CREATE_DIALOG(message_id=10639*, default_option=1*, option_flags=0*)
+ 51: 0x0114 [0x24] CREATE_DIALOG(message_id=10641*, default_option=1*, option_flags=0*)
     → "Cancel hunt? [Yes./No.]"
  52: 0x011B [0x25] WAIT_DIALOG_SELECT()
  53: 0x011C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0152
- 54: 0x0124 [0x24] CREATE_DIALOG(message_id=10631*, default_option=1*, option_flags=0*)
+ 54: 0x0124 [0x24] CREATE_DIALOG(message_id=10633*, default_option=1*, option_flags=0*)
     → "Are you certain? [Yes./No.]"
  55: 0x012B [0x25] WAIT_DIALOG_SELECT()
  56: 0x012C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0144
@@ -426,9 +426,9 @@ SUBROUTINE_015D:
 SUBROUTINE_0163:
  68: 0x0163 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0231
  69: 0x016B [0x3E] IF !(ExtData[1]->WorkLocal[10] bit 3*) GOTO 0x0175
- 70: 0x0172 [0x48] [System] [10641*]:
+ 70: 0x0172 [0x48] [System] [10643*]:
     → "The requisite time has not yet elapsed since the completion of your last regime. You may be ineligible to receive gil and tab rewards."
- 71: 0x0175 [0x24] CREATE_DIALOG(message_id=7547*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+ 71: 0x0175 [0x24] CREATE_DIALOG(message_id=7549*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "Which page? [I've changed my mind./Page 1./Page 2./Page 3./Page 4./Page 5./Page 6./Page 7./Page 8./Page 9./Page 10.]"
  72: 0x017C [0x25] WAIT_DIALOG_SELECT()
  73: 0x017D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
@@ -441,30 +441,30 @@ SUBROUTINE_018B:
  78: 0x019C [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=11*, target=Work_Zone[1], source=Work_Zone[0])
  79: 0x01A5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  80: 0x01A7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 81: 0x01A9 [0x48] [System] [7548*]:
+ 81: 0x01A9 [0x48] [System] [7550*]:
     → "The information on this page instructs you to defeat the following:"
  82: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x01AD [0x03] ExtData[1]->WorkLocal[7] = 7549*
+ 83: 0x01AD [0x03] ExtData[1]->WorkLocal[7] = 7551*
  84: 0x01B2 [0x07] ExtData[1]->WorkLocal[7] += Work_Zone[9]
  85: 0x01B7 [0x48] [System] [ExtData[1]->WorkLocal[7]]:
     → "This area is currently affected by the Super Kupower: "Artisan's Advantage"!"
  86: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x01BB [0x48] [System] [9597*]:
+ 87: 0x01BB [0x48] [System] [9599*]:
     → "Target level range: $5`$6."
  88: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x01BF [0x03] ExtData[1]->WorkLocal[7] = 9602*
+ 89: 0x01BF [0x03] ExtData[1]->WorkLocal[7] = 9604*
  90: 0x01C4 [0x07] ExtData[1]->WorkLocal[7] += Work_Zone[9]
  91: 0x01C9 [0x48] [System] [ExtData[1]->WorkLocal[7]]:
     → "This area is currently affected by the Super Kupower: "Artisan's Advantage"!"
  92: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x01CD [0x24] CREATE_DIALOG(message_id=9598*, default_option=1*, option_flags=0*)
+ 93: 0x01CD [0x24] CREATE_DIALOG(message_id=9600*, default_option=1*, option_flags=0*)
     → "Undertake this training regime? [Bring it on!/No, wait...]"
  94: 0x01D4 [0x25] WAIT_DIALOG_SELECT()
  95: 0x01D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021E
- 96: 0x01DD [0x48] [System] [10645*]:
+ 96: 0x01DD [0x48] [System] [10647*]:
     → "Set training regime to automatically repeat upon completion?"
  97: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x01E1 [0x24] CREATE_DIALOG(message_id=10646*, default_option=0*, option_flags=0*)
+ 98: 0x01E1 [0x24] CREATE_DIALOG(message_id=10648*, default_option=0*, option_flags=0*)
     → "Set training regime to repeat? [Yes./No.]"
  99: 0x01E8 [0x25] WAIT_DIALOG_SELECT()
 100: 0x01E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0202
@@ -496,7 +496,7 @@ SUBROUTINE_0231:
 120: 0x0245 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 121: 0x0247 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 122: 0x0249 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x028D
-123: 0x0251 [0x03] ExtData[1]->WorkLocal[7] = 8573*
+123: 0x0251 [0x03] ExtData[1]->WorkLocal[7] = 8575*
 124: 0x0256 [0x07] ExtData[1]->WorkLocal[7] += ExtData[1]->WorkLocal[6]
 125: 0x025B [0x48] [System] [ExtData[1]->WorkLocal[7]]:
     → "This area is currently affected by the Super Kupower: "Artisan's Advantage"!"
@@ -505,15 +505,15 @@ SUBROUTINE_0231:
 128: 0x0268 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 129: 0x026A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 130: 0x026C [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x028A
-131: 0x0274 [0x48] [System] [9597*]:
+131: 0x0274 [0x48] [System] [9599*]:
     → "Target level range: $5`$6."
 132: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
-133: 0x0278 [0x03] ExtData[1]->WorkLocal[7] = 9602*
+133: 0x0278 [0x03] ExtData[1]->WorkLocal[7] = 9604*
 134: 0x027D [0x07] ExtData[1]->WorkLocal[7] += ExtData[1]->WorkLocal[6]
 135: 0x0282 [0x48] [System] [ExtData[1]->WorkLocal[7]]:
     → "This area is currently affected by the Super Kupower: "Artisan's Advantage"!"
 136: 0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
-137: 0x0286 [0x48] [System] [10626*]:
+137: 0x0286 [0x48] [System] [10628*]:
     → "(End of list.)"
 138: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x028A [0x01] GOTO 0x02A7
@@ -526,7 +526,7 @@ SUBROUTINE_02A7:
 144: 0x02A7 [0x01] GOTO 0x0A39
 145: 0x02AA [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02E5
 146: 0x02B2 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=3*)
-147: 0x02BB [0x24] CREATE_DIALOG(message_id=10631*, default_option=1*, option_flags=0*)
+147: 0x02BB [0x24] CREATE_DIALOG(message_id=10633*, default_option=1*, option_flags=0*)
     → "Are you certain? [Yes./No.]"
 148: 0x02C2 [0x25] WAIT_DIALOG_SELECT()
 149: 0x02C3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02D2
@@ -540,7 +540,7 @@ SUBROUTINE_02A7:
 SUBROUTINE_02E2:
 156: 0x02E2 [0x01] GOTO 0x0A39
 157: 0x02E5 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x08FE
-158: 0x02ED [0x48] [System] [10627*]:
+158: 0x02ED [0x48] [System] [10629*]:
     → "The tabs you acquire can be spent on field support."
 159: 0x02F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x02F1 [0x05] ExtData[1]->WorkLocal[5] = 1
@@ -590,7 +590,7 @@ SUBROUTINE_03BB:
 200: 0x03BB [0x03] Work_Zone_1700[18] = 300*
 201: 0x03C0 [0x03] Work_Zone_1700[19] = 300*
 202: 0x03C5 [0x02] IF !(ExtData[1]->WorkLocal[17] <= 0*) GOTO 0x0516
-203: 0x03CD [0x24] CREATE_DIALOG(message_id=10628*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+203: 0x03CD [0x24] CREATE_DIALOG(message_id=10630*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Which one? (You have $8 [tab/tabs]). [Nothing for now./Repatriation ($9)./Circumspection ($10)./Homing Instinct ($11)./White magic: Reraise ($12)./White magic: Reraise II ($13)./White magic: Reraise III ($14)./White magic: Regen ($15)./White magic: Refresh ($16)./White magic: Protect ($17)./White magic: Shell ($18)./White magic: Haste ($19)./Field recipe: Dried Meat ($20)./Field recipe: Salted Fish ($21)./Field recipe: Hard Cookie ($22)./Field recipe: Instant Noodles ($23)./Field recipe: Dried Agaricus ($24)./Field recipe: Instant Rice ($25)./Receive alter ego: Sakura ($26)./Receive alter ego: Koru-Moru ($27).]"
 204: 0x03D4 [0x25] WAIT_DIALOG_SELECT()
 205: 0x03D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03E3
@@ -656,7 +656,7 @@ SUBROUTINE_03BB:
 
 SUBROUTINE_0513:
 265: 0x0513 [0x01] GOTO 0x065C
-266: 0x0516 [0x24] CREATE_DIALOG(message_id=10628*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+266: 0x0516 [0x24] CREATE_DIALOG(message_id=10630*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Which one? (You have $8 [tab/tabs]). [Nothing for now./Repatriation ($9)./Circumspection ($10)./Homing Instinct ($11)./White magic: Reraise ($12)./White magic: Reraise II ($13)./White magic: Reraise III ($14)./White magic: Regen ($15)./White magic: Refresh ($16)./White magic: Protect ($17)./White magic: Shell ($18)./White magic: Haste ($19)./Field recipe: Dried Meat ($20)./Field recipe: Salted Fish ($21)./Field recipe: Hard Cookie ($22)./Field recipe: Instant Noodles ($23)./Field recipe: Dried Agaricus ($24)./Field recipe: Instant Rice ($25)./Receive alter ego: Sakura ($26)./Receive alter ego: Koru-Moru ($27).]"
 267: 0x051D [0x25] WAIT_DIALOG_SELECT()
 268: 0x051E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x052C
@@ -723,15 +723,15 @@ SUBROUTINE_0513:
 SUBROUTINE_065C:
 328: 0x065C [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x08F8
 329: 0x0664 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0674
-330: 0x066C [0x03] ExtData[1]->WorkLocal[0] = 10632*
+330: 0x066C [0x03] ExtData[1]->WorkLocal[0] = 10634*
 331: 0x0671 [0x01] GOTO 0x0699
 332: 0x0674 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0684
-333: 0x067C [0x03] ExtData[1]->WorkLocal[0] = 10633*
+333: 0x067C [0x03] ExtData[1]->WorkLocal[0] = 10635*
 334: 0x0681 [0x01] GOTO 0x0699
 335: 0x0684 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0694
-336: 0x068C [0x03] ExtData[1]->WorkLocal[0] = 10634*
+336: 0x068C [0x03] ExtData[1]->WorkLocal[0] = 10636*
 337: 0x0691 [0x01] GOTO 0x0699
-338: 0x0694 [0x03] ExtData[1]->WorkLocal[0] = 10631*
+338: 0x0694 [0x03] ExtData[1]->WorkLocal[0] = 10633*
 
 SUBROUTINE_0699:
 339: 0x0699 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=4*)
@@ -740,7 +740,7 @@ SUBROUTINE_0699:
 342: 0x06B2 [0x25] WAIT_DIALOG_SELECT()
 343: 0x06B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08E8
 344: 0x06BB [0x02] IF !(ExtData[1]->WorkLocal[9] <= ExtData[1]->WorkLocal[8]) GOTO 0x06CF
-345: 0x06C3 [0x48] [System] [10635*]:
+345: 0x06C3 [0x48] [System] [10637*]:
     → "You do not have enough tabs."
 346: 0x06C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x06C7 [0x03] Work_Zone[1] = 0*
@@ -858,10 +858,10 @@ SUBROUTINE_08F8:
 443: 0x08F8 [0x01] GOTO 0x02F4
 444: 0x08FB [0x01] GOTO 0x0A39
 445: 0x08FE [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0911
-446: 0x0906 [0x48] [System] [10642*]:
+446: 0x0906 [0x48] [System] [10644*]:
     → "Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training."
 447: 0x0909 [0x23] WAIT_FOR_DIALOG_INTERACTION
-448: 0x090A [0x48] [System] [10643*]:
+448: 0x090A [0x48] [System] [10645*]:
     → "Please note, however, that their effects are temporary and will be lost should you venture into a different area."
 449: 0x090D [0x23] WAIT_FOR_DIALOG_INTERACTION
 450: 0x090E [0x01] GOTO 0x0A39
@@ -902,7 +902,7 @@ SUBROUTINE_09E4:
 481: 0x09E7 [0x01] GOTO 0x09BF
 482: 0x09EA [0x10] ExtData[1]->WorkLocal[14] <<= 1*
 483: 0x09EF [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x09FE
-484: 0x09F7 [0x48] [System] [10644*]:
+484: 0x09F7 [0x48] [System] [10646*]:
     → "No prowesses are active at present."
 485: 0x09FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 486: 0x09FB [0x01] GOTO 0x0A36
@@ -910,7 +910,7 @@ SUBROUTINE_09E4:
 
 SUBROUTINE_0A01:
 488: 0x0A01 [0x02] IF !(ExtData[1]->WorkLocal[15] == 0*) GOTO 0x0A36
-489: 0x0A09 [0x24] CREATE_DIALOG(message_id=10629*, default_option=0*, option_flags=ExtData[1]->WorkLocal[14])
+489: 0x0A09 [0x24] CREATE_DIALOG(message_id=10631*, default_option=0*, option_flags=ExtData[1]->WorkLocal[14])
     → "Active prowess list. [Go back./Increased treasure casket discovery./Increased combat and magic skill gain./Increased crystal yield./Treasure Hunter bonus./Increased attack speed./Increased HP and MP./Enhanced accuracy and ranged accuracy./Enhanced attack and ranged attack./Enhanced magic acc. and magic atk./Enhanced "Cure" potency./Increased weapon skill damage./"Killer" effects bonus./Ability X./Ability X./Ability X./Ability X.]"
 490: 0x0A10 [0x25] WAIT_DIALOG_SELECT()
 491: 0x0A11 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A1F
@@ -919,7 +919,7 @@ SUBROUTINE_0A01:
 494: 0x0A1F [0x03] Work_Zone[2] = Work_Zone[0]
 495: 0x0A24 [0x0C] Work_Zone[2]--
 496: 0x0A27 [0x9D] Work_Zone[3] = 0x0A3E[Work_Zone[2]] // Read WORD
-497: 0x0A2F [0x48] [System] [10630*]:
+497: 0x0A2F [0x48] [System] [10632*]:
     → "[Increased treasure casket discovery/Increased combat and magic skill gain/Increased crystal yield/Treasure Hunter bonus/Increased attack speed/Increased HP and MP/Enhanced accuracy and ranged accuracy/Enhanced attack and ranged attack/Enhanced magic accuracy and magic attack/Enhanced "Cure" potency/Increased weapon skill damage/"Killer" effects bonus/Effect X/Effect X/Effect X/Effect X] prowess stands at level $1."
 498: 0x0A32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

@@ -22,7 +22,7 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1DC4      |        7620 |
+|       2 | 0x1DC6      |        7622 |
 
 ## Events
 
@@ -73,7 +73,7 @@
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x6E] EventEntity uses emote 0*
   3: 0x0014 [0x99] Wait for EventEntity animation to complete
-  4: 0x0019 [0x2B] EventEntity [7620*]:
+  4: 0x0019 [0x2B] EventEntity [7622*]:
     → "All clea-- W-w-wait, who in great piddly-puddles of crawler's spit are you!? You better clear off so I can give the all-clear!"
   5: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0021 [0x21] END_EVENT

@@ -22,7 +22,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x025C      |         604 |
-|       1 | 0x1C68      |        7272 |
+|       1 | 0x1C6A      |        7274 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x00C8      |         200 |
@@ -32,12 +32,12 @@
 |       8 | 0x01E0      |         480 |
 |       9 | 0x00E6      |         230 |
 |      10 | 0x00B4      |         180 |
-|      11 | 0x1C6A      |        7274 |
+|      11 | 0x1C6C      |        7276 |
 
 ## String References
 
-- **7272**: Hold the $3 up to the door? [Yes./Not yet.]
-- **7274**: Exit through the door? [Yes./No.]
+- **7274**: Hold the $3 up to the door? [Yes./Not yet.]
+- **7276**: Exit through the door? [Yes./No.]
 
 ## Events
 
@@ -97,7 +97,7 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x03] Work_Zone[2] = 604*
-  2: 0x0008 [0x24] CREATE_DIALOG(message_id=7272*, default_option=1*, option_flags=0*)
+  2: 0x0008 [0x24] CREATE_DIALOG(message_id=7274*, default_option=1*, option_flags=0*)
     → "Hold the $3 up to the door? [Yes./Not yet.]"
   3: 0x000F [0x25] WAIT_DIALOG_SELECT()
   4: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D1
@@ -168,7 +168,7 @@ SUBROUTINE_00DC:
 
 ```
   0: 0x00E0 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00E2 [0x24] CREATE_DIALOG(message_id=7274*, default_option=1*, option_flags=0*)
+  1: 0x00E2 [0x24] CREATE_DIALOG(message_id=7276*, default_option=1*, option_flags=0*)
     → "Exit through the door? [Yes./No.]"
   2: 0x00E9 [0x25] WAIT_DIALOG_SELECT()
   3: 0x00EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018E

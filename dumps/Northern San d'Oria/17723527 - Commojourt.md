@@ -43,13 +43,13 @@
 |       0 | 0x0014      |          20 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0015      |          21 |
-|       3 | 0x1C4F      |        7247 |
-|       4 | 0x1C5C      |        7260 |
+|       3 | 0x1C51      |        7249 |
+|       4 | 0x1C5E      |        7262 |
 
 ## String References
 
-- **7247**: They say the chateau's floor plans were torn into three pieces. One went to the royal family, another to the church, and the last to the guild elders.
-- **7260**: I heard the plans were torn into three sheets. Should the enemy find but one of them...I fear for us all!
+- **7249**: They say the chateau's floor plans were torn into three pieces. One went to the royal family, another to the church, and the last to the guild elders.
+- **7262**: I heard the plans were torn into three sheets. Should the enemy find but one of them...I fear for us all!
 
 ## Events
 
@@ -553,7 +553,7 @@
 
 ```
   0: 0x0120 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Commojourt (ID: 17723527/0x010E7087), tag_num=0x01)
-  1: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+  1: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
     → "They say the chateau's floor plans were torn into three pieces. One went to the royal family, another to the church, and the last to the guild elders."
   2: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x012B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Commojourt (ID: 17723527/0x010E7087), tag_num=0x02)
@@ -587,7 +587,7 @@
   1: 0x013B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x013C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x013D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Commojourt (ID: 17723527/0x010E7087), tag_num=0x01)
-  4: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+  4: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "I heard the plans were torn into three sheets. Should the enemy find but one of them...I fear for us all!"
   5: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0148 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Commojourt (ID: 17723527/0x010E7087), tag_num=0x02)

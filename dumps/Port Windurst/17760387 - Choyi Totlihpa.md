@@ -27,17 +27,17 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x0E29      |        3625 |
 |       3 | 0x0E2A      |        3626 |
-|       4 | 0x3323      |       13091 |
-|       5 | 0x3327      |       13095 |
-|       6 | 0x3328      |       13096 |
+|       4 | 0x3325      |       13093 |
+|       5 | 0x3329      |       13097 |
+|       6 | 0x332A      |       13098 |
 
 ## String References
 
 - **3625**: The porrrt district, by its very naturrre, has a lot of people coming and going all the time, so the chances of meeting up with bad company is greaterrr.
 - **3626**: Don't let the frrresh sea brrreeze get to your head. Keep yourrr wits about you always!
-- **13091**: <Player>'s badge flashes brightly.
-- **13095**: Have you seen anyone from the mercenary company yet? Apparently, they'rrre from the "Empire of Aht Urhgan."
-- **13096**: You may think they seem trrrustworthy, but take my word for it--with a face like that, they've just gotta be thinking criminal thoughts. You'd best be carrreful.
+- **13093**: <Player>'s badge flashes brightly.
+- **13097**: Have you seen anyone from the mercenary company yet? Apparently, they'rrre from the "Empire of Aht Urhgan."
+- **13098**: You may think they seem trrrustworthy, but take my word for it--with a face like that, they've just gotta be thinking criminal thoughts. You'd best be carrreful.
 
 ## Events
 
@@ -171,15 +171,15 @@
 
 ```
   0: 0x003B [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x003C [0x48] [System] [13091*]:
+  1: 0x003C [0x48] [System] [13093*]:
     → "<Player>'s badge flashes brightly."
   2: 0x003F [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0044 [0x1C] WAIT(30* ticks)
-  4: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=13095*)
+  4: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=13097*)
     → "Have you seen anyone from the mercenary company yet? Apparently, they'rrre from the "Empire of Aht Urhgan.""
   5: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=358*
-  7: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=13096*)
+  7: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=13098*)
     → "You may think they seem trrrustworthy, but take my word for it--with a face like that, they've just gotta be thinking criminal thoughts. You'd best be carrreful."
   8: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x005E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=358*

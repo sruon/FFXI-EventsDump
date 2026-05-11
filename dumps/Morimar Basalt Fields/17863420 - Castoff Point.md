@@ -24,8 +24,8 @@
 |       0 | 0x0001      |           1 |
 |       1 | 0x0877      |        2167 |
 |       2 | 0x089D      |        2205 |
-|       3 | 0x1EC8      |        7880 |
-|       4 | 0x1ECB      |        7883 |
+|       3 | 0x1ECA      |        7882 |
+|       4 | 0x1ECD      |        7885 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0004      |           4 |
 |       7 | 0x00C8      |         200 |
@@ -52,8 +52,8 @@
 
 ## String References
 
-- **7880**: You should be able to head [to the other side/over there] if you have the $3 and $3.
-- **7883**: Head [for the other side/over there]? [Yes./No./Dive right in.]
+- **7882**: You should be able to head [to the other side/over there] if you have the $3 and $3.
+- **7885**: Head [for the other side/over there]? [Yes./No./Dive right in.]
 
 ## Events
 
@@ -111,11 +111,11 @@
   0: 0x0001 [0x03] Work_Zone[4] = 1*
   1: 0x0006 [0x03] Work_Zone[6] = 2167*
   2: 0x000B [0x03] Work_Zone[5] = 2205*
-  3: 0x0010 [0x48] [System] [7880*]:
+  3: 0x0010 [0x48] [System] [7882*]:
     → "You should be able to head [to the other side/over there] if you have the $3 and $3."
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0014 [0x03] Work_Zone[4] = 1*
-  6: 0x0019 [0x24] CREATE_DIALOG(message_id=7883*, default_option=0*, option_flags=4*)
+  6: 0x0019 [0x24] CREATE_DIALOG(message_id=7885*, default_option=0*, option_flags=4*)
     → "Head [for the other side/over there]? [Yes./No./Dive right in.]"
   7: 0x0020 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0021 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A2

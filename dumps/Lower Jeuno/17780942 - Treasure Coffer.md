@@ -22,7 +22,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x26C8      |        9928 |
+|       1 | 0x26CA      |        9930 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
@@ -31,7 +31,7 @@
 |       7 | 0x0005      |           5 |
 |       8 | 0x0019      |          25 |
 |       9 | 0xFFFFFFFE  |  4294967294 |
-|      10 | 0x26C9      |        9929 |
+|      10 | 0x26CB      |        9931 |
 |      11 | 0x0451      |        1105 |
 |      12 | 0x0452      |        1106 |
 |      13 | 0x0453      |        1107 |
@@ -45,7 +45,7 @@
 |      21 | 0x003C      |          60 |
 |      22 | 0x0046      |          70 |
 |      23 | 0x004B      |          75 |
-|      24 | 0x26C7      |        9927 |
+|      24 | 0x26C9      |        9929 |
 |      25 | 0x0006      |           6 |
 |      26 | 0x0007      |           7 |
 |      27 | 0x0078      |         120 |
@@ -75,42 +75,42 @@
 |      51 | 0x0012      |          18 |
 |      52 | 0x0013      |          19 |
 |      53 | 0x0014      |          20 |
-|      54 | 0x26D1      |        9937 |
+|      54 | 0x26D3      |        9939 |
 |      55 | 0x0017      |          23 |
 |      56 | 0x2C31      |       11313 |
 |      57 | 0x2C32      |       11314 |
 |      58 | 0x2C33      |       11315 |
-|      59 | 0x26CA      |        9930 |
-|      60 | 0x26CC      |        9932 |
-|      61 | 0x26CB      |        9931 |
-|      62 | 0x26CD      |        9933 |
-|      63 | 0x26CE      |        9934 |
-|      64 | 0x26D0      |        9936 |
+|      59 | 0x26CC      |        9932 |
+|      60 | 0x26CE      |        9934 |
+|      61 | 0x26CD      |        9933 |
+|      62 | 0x26CF      |        9935 |
+|      63 | 0x26D0      |        9936 |
+|      64 | 0x26D2      |        9938 |
 |      65 | 0x000E      |          14 |
 |      66 | 0x2CDF      |       11487 |
 |      67 | 0x2CE0      |       11488 |
 |      68 | 0x2CE1      |       11489 |
-|      69 | 0x26D2      |        9938 |
+|      69 | 0x26D4      |        9940 |
 |      70 | 0x0015      |          21 |
 |      71 | 0x3FF1      |       16369 |
 |      72 | 0x3FF2      |       16370 |
 |      73 | 0x3FF3      |       16371 |
-|      74 | 0x26D3      |        9939 |
+|      74 | 0x26D5      |        9941 |
 
 ## String References
 
-- **9927**: Which key will you use? [None of them./6 (Level $7)./$6 (Level $8)./$6 (Level $9)./$6 (Level $10)./$6 (Level $11)./$6 (Level $12)./$6 (Scenario completed).]
-- **9928**: What would you like to do? [Cancel./Use "A Crystalline Prophecy" key./Use "A Moogle Kupo d'Etat" key./Use "A Shantotto Ascension" key./Receive Add-on Trilogy Bonus Gift./Have Trilogy Bonus Gift reissued.]
-- **9929**: You do not have a usable key in your possession.
-- **9930**: Obtain which item? [Cancel./$0./$1./$2.]
-- **9931**: Are you certain you want this item? [Yes./No.]
-- **9932**: You may customize this item by selecting two augments from the following list.
-- **9933**: Your $3 has been augmented with the attributes of your choice. It pulsates with arcane energy!
-- **9934**: Are these really the augments you want? [Yes./On second thought...]
-- **9936**: Select your [first/second] augment: [Return./Accuracy+10./Attack+10./Ranged Accuracy+10./Ranged Attack+10./Evasion+10./Magic Accuracy+4./"Magic Atk. Bonus"+4./"Double Attack"+2./Critical hit rate +3./"Store TP"+4 "Subtle Blow"+4./Enmity+5./Enmity-5./Enhances "Fast Cast" effect +5./"Call Beast" ability delay -15./"Snapshot"+5./Enhances "Dual Wield" effect +3./"Blood Pact" ability delay -4./Avatar perpetuation cost -2./"Quick Draw" ability delay -5./Pet: Accuracy+15 Ranged Accuracy+15./Pet: Attack+15 Ranged Attack+15./Pet: Magic Acc.+7 "Magic Atk. Bonus"+7./Pet: "Double Attack"+2 Crit. hit rate +2.]
-- **9937**: You cannot select the same augment twice.
-- **9938**: [Return./Haste+3 "Snapshot"+3./STR+4 Weapon Skill Accuracy+15./DEX+4 Critical hit damage +2%./VIT+4 Shield Skill +5./AGI+4 Weapon skill damage +2%./INT+4 Magic Accuracy+2./MND+4 "Cure" potency +3%./CHR+4 "Waltz" ability delay -2%./Accuracy+10 Attack+5./Ranged Accuracy+10 Ranged Attack+5./Evasion+10 Store TP +4./Mag. Accuracy+3 Healing MP recovery+3./Mag.Atk.Bonus+2 Healing HP recovery+3./Magic damage taken -2% Enmity+4./Magic critical hit rate +10 Enmity-4./Fast Cast+3 Blood Pact abi. delay-3./STR+2 Haste+2./DEX+2 Haste+2./VIT+2 Haste+2./AGI+2 Haste+2./INT+2 "Fast Cast"+2./MND+2 "Fast Cast"+2./CHR+2 "Fast Cast"+2./Accuracy+3 Pet: Haste+5./Accuracy+3 Pet: Critical hit rate +3./Attack+3 Pet: Adds "Regen" effect./Attack+3 Pet: Damage taken -10%.]
-- **9939**: Select [first/second] augment: [Return./HP+25 Enmity+4./MP+25 Enmity-4./Accuracy+7./Attack+7./Ranged Accuracy+7./Ranged Attack+7./Evasion+7./Magic Accuracy+4./"Magic Atk. Bonus"+4./Haste+3./"Double Attack"+2./Critical hit damage +3%./Skillchain damage +5%./"Conserve TP"+5./Physical damage taken -4%./Magic critical hit damage +10%./Magic burst damage +10%./"Kick Attacks"+5./"Cure" potency +5%./"Sic" and "Ready" ability delay -5./Song recast delay -3./"Barrage"+1./"Elemental Siphon"+20./"Phantom Roll" ability delay -5./"Repair" potency +10%./"Waltz" TP cost -50./Pet: Accuracy+7 Ranged Accuracy+7./Pet: Attack+7 Ranged Attack+7./Pet: "Store TP"+8 "Subtle Blow"+8./Pet: Magic Accuracy+7./Movement speed +8%.]
+- **9929**: Which key will you use? [None of them./6 (Level $7)./$6 (Level $8)./$6 (Level $9)./$6 (Level $10)./$6 (Level $11)./$6 (Level $12)./$6 (Scenario completed).]
+- **9930**: What would you like to do? [Cancel./Use "A Crystalline Prophecy" key./Use "A Moogle Kupo d'Etat" key./Use "A Shantotto Ascension" key./Receive Add-on Trilogy Bonus Gift./Have Trilogy Bonus Gift reissued.]
+- **9931**: You do not have a usable key in your possession.
+- **9932**: Obtain which item? [Cancel./$0./$1./$2.]
+- **9933**: Are you certain you want this item? [Yes./No.]
+- **9934**: You may customize this item by selecting two augments from the following list.
+- **9935**: Your $3 has been augmented with the attributes of your choice. It pulsates with arcane energy!
+- **9936**: Are these really the augments you want? [Yes./On second thought...]
+- **9938**: Select your [first/second] augment: [Return./Accuracy+10./Attack+10./Ranged Accuracy+10./Ranged Attack+10./Evasion+10./Magic Accuracy+4./"Magic Atk. Bonus"+4./"Double Attack"+2./Critical hit rate +3./"Store TP"+4 "Subtle Blow"+4./Enmity+5./Enmity-5./Enhances "Fast Cast" effect +5./"Call Beast" ability delay -15./"Snapshot"+5./Enhances "Dual Wield" effect +3./"Blood Pact" ability delay -4./Avatar perpetuation cost -2./"Quick Draw" ability delay -5./Pet: Accuracy+15 Ranged Accuracy+15./Pet: Attack+15 Ranged Attack+15./Pet: Magic Acc.+7 "Magic Atk. Bonus"+7./Pet: "Double Attack"+2 Crit. hit rate +2.]
+- **9939**: You cannot select the same augment twice.
+- **9940**: [Return./Haste+3 "Snapshot"+3./STR+4 Weapon Skill Accuracy+15./DEX+4 Critical hit damage +2%./VIT+4 Shield Skill +5./AGI+4 Weapon skill damage +2%./INT+4 Magic Accuracy+2./MND+4 "Cure" potency +3%./CHR+4 "Waltz" ability delay -2%./Accuracy+10 Attack+5./Ranged Accuracy+10 Ranged Attack+5./Evasion+10 Store TP +4./Mag. Accuracy+3 Healing MP recovery+3./Mag.Atk.Bonus+2 Healing HP recovery+3./Magic damage taken -2% Enmity+4./Magic critical hit rate +10 Enmity-4./Fast Cast+3 Blood Pact abi. delay-3./STR+2 Haste+2./DEX+2 Haste+2./VIT+2 Haste+2./AGI+2 Haste+2./INT+2 "Fast Cast"+2./MND+2 "Fast Cast"+2./CHR+2 "Fast Cast"+2./Accuracy+3 Pet: Haste+5./Accuracy+3 Pet: Critical hit rate +3./Attack+3 Pet: Adds "Regen" effect./Attack+3 Pet: Damage taken -10%.]
+- **9941**: Select [first/second] augment: [Return./HP+25 Enmity+4./MP+25 Enmity-4./Accuracy+7./Attack+7./Ranged Accuracy+7./Ranged Attack+7./Evasion+7./Magic Accuracy+4./"Magic Atk. Bonus"+4./Haste+3./"Double Attack"+2./Critical hit damage +3%./Skillchain damage +5%./"Conserve TP"+5./Physical damage taken -4%./Magic critical hit damage +10%./Magic burst damage +10%./"Kick Attacks"+5./"Cure" potency +5%./"Sic" and "Ready" ability delay -5./Song recast delay -3./"Barrage"+1./"Elemental Siphon"+20./"Phantom Roll" ability delay -5./"Repair" potency +10%./"Waltz" TP cost -50./Pet: Accuracy+7 Ranged Accuracy+7./Pet: Attack+7 Ranged Attack+7./Pet: "Store TP"+8 "Subtle Blow"+8./Pet: Magic Accuracy+7./Movement speed +8%.]
 
 ## Events
 
@@ -324,7 +324,7 @@
 
 SUBROUTINE_0024:
   9: 0x0024 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 10: 0x0025 [0x24] CREATE_DIALOG(message_id=9928*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+ 10: 0x0025 [0x24] CREATE_DIALOG(message_id=9930*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "What would you like to do? [Cancel./Use "A Crystalline Prophecy" key./Use "A Moogle Kupo d'Etat" key./Use "A Shantotto Ascension" key./Receive Add-on Trilogy Bonus Gift./Have Trilogy Bonus Gift reissued.]"
  11: 0x002C [0x25] WAIT_DIALOG_SELECT()
  12: 0x002D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0038
@@ -353,7 +353,7 @@ SUBROUTINE_008C:
 
 SUBROUTINE_0090:
  33: 0x0090 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4294967294*) GOTO 0x009F
- 34: 0x0098 [0x48] [System] [9929*]:
+ 34: 0x0098 [0x48] [System] [9931*]:
     → "You do not have a usable key in your possession."
  35: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x009C [0x01] GOTO 0x0193
@@ -371,7 +371,7 @@ SUBROUTINE_0090:
  48: 0x00D6 [0x03] Work_Zone_1700[3] = 70*
  49: 0x00DB [0x03] Work_Zone_1700[4] = 75*
  50: 0x00E0 [0x03] ExtData[1]->WorkLocal[10] = 0*
- 51: 0x00E5 [0x24] CREATE_DIALOG(message_id=9927*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[6])
+ 51: 0x00E5 [0x24] CREATE_DIALOG(message_id=9929*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[6])
     → "Which key will you use? [None of them./6 (Level $7)./$6 (Level $8)./$6 (Level $9)./$6 (Level $10)./$6 (Level $11)./$6 (Level $12)./$6 (Scenario completed).]"
  52: 0x00EC [0x25] WAIT_DIALOG_SELECT()
  53: 0x00ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F8
@@ -423,7 +423,7 @@ SUBROUTINE_01AA:
 
 SUBROUTINE_01C8:
  93: 0x01C8 [0x02] IF !(ExtData[1]->WorkLocal[7] == 4294967294*) GOTO 0x01D7
- 94: 0x01D0 [0x48] [System] [9929*]:
+ 94: 0x01D0 [0x48] [System] [9931*]:
     → "You do not have a usable key in your possession."
  95: 0x01D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x01D4 [0x01] GOTO 0x02CB
@@ -441,7 +441,7 @@ SUBROUTINE_01C8:
 108: 0x020E [0x03] Work_Zone_1700[3] = 70*
 109: 0x0213 [0x03] Work_Zone_1700[4] = 75*
 110: 0x0218 [0x03] ExtData[1]->WorkLocal[10] = 0*
-111: 0x021D [0x24] CREATE_DIALOG(message_id=9927*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[7])
+111: 0x021D [0x24] CREATE_DIALOG(message_id=9929*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[7])
     → "Which key will you use? [None of them./6 (Level $7)./$6 (Level $8)./$6 (Level $9)./$6 (Level $10)./$6 (Level $11)./$6 (Level $12)./$6 (Scenario completed).]"
 112: 0x0224 [0x25] WAIT_DIALOG_SELECT()
 113: 0x0225 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0230
@@ -480,7 +480,7 @@ SUBROUTINE_02CB:
 
 SUBROUTINE_02CC:
 144: 0x02CC [0x02] IF !(ExtData[1]->WorkLocal[8] == 4294967294*) GOTO 0x02DB
-145: 0x02D4 [0x48] [System] [9929*]:
+145: 0x02D4 [0x48] [System] [9931*]:
     → "You do not have a usable key in your possession."
 146: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x02D8 [0x01] GOTO 0x03CF
@@ -498,7 +498,7 @@ SUBROUTINE_02CC:
 159: 0x0312 [0x03] Work_Zone_1700[3] = 70*
 160: 0x0317 [0x03] Work_Zone_1700[4] = 75*
 161: 0x031C [0x03] ExtData[1]->WorkLocal[10] = 0*
-162: 0x0321 [0x24] CREATE_DIALOG(message_id=9927*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[8])
+162: 0x0321 [0x24] CREATE_DIALOG(message_id=9929*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[8])
     → "Which key will you use? [None of them./6 (Level $7)./$6 (Level $8)./$6 (Level $9)./$6 (Level $10)./$6 (Level $11)./$6 (Level $12)./$6 (Scenario completed).]"
 163: 0x0328 [0x25] WAIT_DIALOG_SELECT()
 164: 0x0329 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0334
@@ -572,7 +572,7 @@ SUBROUTINE_043F:
 222: 0x046B [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[0])
 223: 0x0474 [0x03] ExtData[1]->WorkLocal[13] = 4*
 224: 0x0479 [0x01] GOTO 0x0480
-225: 0x047C [0x48] [System] [9937*]:
+225: 0x047C [0x48] [System] [9939*]:
     → "You cannot select the same augment twice."
 226: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -606,7 +606,7 @@ SUBROUTINE_04C2:
 
 SUBROUTINE_04D6:
 245: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0555
-246: 0x04DE [0x24] CREATE_DIALOG(message_id=9930*, default_option=0*, option_flags=0*)
+246: 0x04DE [0x24] CREATE_DIALOG(message_id=9932*, default_option=0*, option_flags=0*)
     → "Obtain which item? [Cancel./$0./$1./$2.]"
 247: 0x04E5 [0x25] WAIT_DIALOG_SELECT()
 248: 0x04E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04FB
@@ -652,11 +652,11 @@ SUBROUTINE_0565:
 284: 0x0595 [0x01] GOTO 0x0598
 
 SUBROUTINE_0598:
-285: 0x0598 [0x48] [System] [9932*]:
+285: 0x0598 [0x48] [System] [9934*]:
     → "You may customize this item by selecting two augments from the following list."
 286: 0x059B [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x059C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-288: 0x059F [0x24] CREATE_DIALOG(message_id=9931*, default_option=1*, option_flags=0*)
+288: 0x059F [0x24] CREATE_DIALOG(message_id=9933*, default_option=1*, option_flags=0*)
     → "Are you certain you want this item? [Yes./No.]"
 289: 0x05A6 [0x25] WAIT_DIALOG_SELECT()
 290: 0x05A7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05BC
@@ -676,11 +676,11 @@ SUBROUTINE_05CB:
 300: 0x05D2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 301: 0x05D4 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[4]
 302: 0x05D9 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[4], buffer1=Work_Zone[2], buffer2=Work_Zone[3], buffer3=Work_Zone[4])
-303: 0x05E3 [0x48] [System] [9933*]:
+303: 0x05E3 [0x48] [System] [9935*]:
     → "Your $3 has been augmented with the attributes of your choice. It pulsates with arcane energy!"
 304: 0x05E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x05E7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-306: 0x05EA [0x24] CREATE_DIALOG(message_id=9934*, default_option=1*, option_flags=0*)
+306: 0x05EA [0x24] CREATE_DIALOG(message_id=9936*, default_option=1*, option_flags=0*)
     → "Are these really the augments you want? [Yes./On second thought...]"
 307: 0x05F1 [0x25] WAIT_DIALOG_SELECT()
 308: 0x05F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0602
@@ -714,7 +714,7 @@ SUBROUTINE_0648:
 328: 0x0650 [0x1B] RETURN
 
 SUBROUTINE_0651:
-329: 0x0651 [0x24] CREATE_DIALOG(message_id=9936*, default_option=0*, option_flags=0*)
+329: 0x0651 [0x24] CREATE_DIALOG(message_id=9938*, default_option=0*, option_flags=0*)
     → "Select your [first/second] augment: [Return./Accuracy+10./Attack+10./Ranged Accuracy+10./Ranged Attack+10./Evasion+10./Magic Accuracy+4./"Magic Atk. Bonus"+4./"Double Attack"+2./Critical hit rate +3./"Store TP"+4 "Subtle Blow"+4./Enmity+5./Enmity-5./Enhances "Fast Cast" effect +5./"Call Beast" ability delay -15./"Snapshot"+5./Enhances "Dual Wield" effect +3./"Blood Pact" ability delay -4./Avatar perpetuation cost -2./"Quick Draw" ability delay -5./Pet: Accuracy+15 Ranged Accuracy+15./Pet: Attack+15 Ranged Attack+15./Pet: Magic Acc.+7 "Magic Atk. Bonus"+7./Pet: "Double Attack"+2 Crit. hit rate +2.]"
 330: 0x0658 [0x25] WAIT_DIALOG_SELECT()
 331: 0x0659 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x066C
@@ -764,7 +764,7 @@ SUBROUTINE_06E4:
 365: 0x0710 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[0])
 366: 0x0719 [0x03] ExtData[1]->WorkLocal[13] = 4*
 367: 0x071E [0x01] GOTO 0x0725
-368: 0x0721 [0x48] [System] [9937*]:
+368: 0x0721 [0x48] [System] [9939*]:
     → "You cannot select the same augment twice."
 369: 0x0724 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -797,7 +797,7 @@ SUBROUTINE_0760:
 
 SUBROUTINE_0774:
 387: 0x0774 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x07F3
-388: 0x077C [0x24] CREATE_DIALOG(message_id=9930*, default_option=0*, option_flags=0*)
+388: 0x077C [0x24] CREATE_DIALOG(message_id=9932*, default_option=0*, option_flags=0*)
     → "Obtain which item? [Cancel./$0./$1./$2.]"
 389: 0x0783 [0x25] WAIT_DIALOG_SELECT()
 390: 0x0784 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0799
@@ -831,7 +831,7 @@ SUBROUTINE_07F0:
 416: 0x0802 [0x1B] RETURN
 
 SUBROUTINE_0803:
-417: 0x0803 [0x24] CREATE_DIALOG(message_id=9938*, default_option=0*, option_flags=0*)
+417: 0x0803 [0x24] CREATE_DIALOG(message_id=9940*, default_option=0*, option_flags=0*)
     → "[Return./Haste+3 "Snapshot"+3./STR+4 Weapon Skill Accuracy+15./DEX+4 Critical hit damage +2%./VIT+4 Shield Skill +5./AGI+4 Weapon skill damage +2%./INT+4 Magic Accuracy+2./MND+4 "Cure" potency +3%./CHR+4 "Waltz" ability delay -2%./Accuracy+10 Attack+5./Ranged Accuracy+10 Ranged Attack+5./Evasion+10 Store TP +4./Mag. Accuracy+3 Healing MP recovery+3./Mag.Atk.Bonus+2 Healing HP recovery+3./Magic damage taken -2% Enmity+4./Magic critical hit rate +10 Enmity-4./Fast Cast+3 Blood Pact abi. delay-3./STR+2 Haste+2./DEX+2 Haste+2./VIT+2 Haste+2./AGI+2 Haste+2./INT+2 "Fast Cast"+2./MND+2 "Fast Cast"+2./CHR+2 "Fast Cast"+2./Accuracy+3 Pet: Haste+5./Accuracy+3 Pet: Critical hit rate +3./Attack+3 Pet: Adds "Regen" effect./Attack+3 Pet: Damage taken -10%.]"
 418: 0x080A [0x25] WAIT_DIALOG_SELECT()
 419: 0x080B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x081E
@@ -881,7 +881,7 @@ SUBROUTINE_0896:
 453: 0x08C2 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[0])
 454: 0x08CB [0x03] ExtData[1]->WorkLocal[13] = 4*
 455: 0x08D0 [0x01] GOTO 0x08D7
-456: 0x08D3 [0x48] [System] [9937*]:
+456: 0x08D3 [0x48] [System] [9939*]:
     → "You cannot select the same augment twice."
 457: 0x08D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -914,7 +914,7 @@ SUBROUTINE_0912:
 
 SUBROUTINE_0926:
 475: 0x0926 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x09A5
-476: 0x092E [0x24] CREATE_DIALOG(message_id=9930*, default_option=0*, option_flags=0*)
+476: 0x092E [0x24] CREATE_DIALOG(message_id=9932*, default_option=0*, option_flags=0*)
     → "Obtain which item? [Cancel./$0./$1./$2.]"
 477: 0x0935 [0x25] WAIT_DIALOG_SELECT()
 478: 0x0936 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x094B
@@ -948,7 +948,7 @@ SUBROUTINE_09A2:
 504: 0x09B4 [0x1B] RETURN
 
 SUBROUTINE_09B5:
-505: 0x09B5 [0x24] CREATE_DIALOG(message_id=9939*, default_option=0*, option_flags=0*)
+505: 0x09B5 [0x24] CREATE_DIALOG(message_id=9941*, default_option=0*, option_flags=0*)
     → "Select [first/second] augment: [Return./HP+25 Enmity+4./MP+25 Enmity-4./Accuracy+7./Attack+7./Ranged Accuracy+7./Ranged Attack+7./Evasion+7./Magic Accuracy+4./"Magic Atk. Bonus"+4./Haste+3./"Double Attack"+2./Critical hit damage +3%./Skillchain damage +5%./"Conserve TP"+5./Physical damage taken -4%./Magic critical hit damage +10%./Magic burst damage +10%./"Kick Attacks"+5./"Cure" potency +5%./"Sic" and "Ready" ability delay -5./Song recast delay -3./"Barrage"+1./"Elemental Siphon"+20./"Phantom Roll" ability delay -5./"Repair" potency +10%./"Waltz" TP cost -50./Pet: Accuracy+7 Ranged Accuracy+7./Pet: Attack+7 Ranged Attack+7./Pet: "Store TP"+8 "Subtle Blow"+8./Pet: Magic Accuracy+7./Movement speed +8%.]"
 506: 0x09BC [0x25] WAIT_DIALOG_SELECT()
 507: 0x09BD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09D0

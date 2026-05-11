@@ -21,22 +21,22 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x29F7      |       10743 |
+|       0 | 0x29F9      |       10745 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x29F8      |       10744 |
-|       3 | 0x29F9      |       10745 |
-|       4 | 0x29FA      |       10746 |
-|       5 | 0x29FB      |       10747 |
-|       6 | 0x29FC      |       10748 |
+|       2 | 0x29FA      |       10746 |
+|       3 | 0x29FB      |       10747 |
+|       4 | 0x29FC      |       10748 |
+|       5 | 0x29FD      |       10749 |
+|       6 | 0x29FE      |       10750 |
 
 ## String References
 
-- **10743**: Bastok is a scary-wary place! Open warfare with the Quadav! Everyone fighting!
-- **10744**: Windurst is so different! Very peaceful! We bash-mash Yagudo sometimes, yes, but at least we try to talk to them first!
-- **10745**: Killing each other isn't the way! My little-brittle bones are shaking!
-- **10746**: Bastokers are always grumpy-frumpy because they're fighting all the time!
-- **10747**: Honestly speaking, the Galka in this district scare me the most, even more so than the Quadav...
-- **10748**: Oopsy-doopsy. That was not a nice thing for me to say! Please don't tell anyone I said that!
+- **10745**: Bastok is a scary-wary place! Open warfare with the Quadav! Everyone fighting!
+- **10746**: Windurst is so different! Very peaceful! We bash-mash Yagudo sometimes, yes, but at least we try to talk to them first!
+- **10747**: Killing each other isn't the way! My little-brittle bones are shaking!
+- **10748**: Bastokers are always grumpy-frumpy because they're fighting all the time!
+- **10749**: Honestly speaking, the Galka in this district scare me the most, even more so than the Quadav...
+- **10750**: Oopsy-doopsy. That was not a nice thing for me to say! Please don't tell anyone I said that!
 
 ## Events
 
@@ -84,14 +84,14 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10743*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10745*)
     → "Bastok is a scary-wary place! Open warfare with the Quadav! Everyone fighting!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10744*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10746*)
     → "Windurst is so different! Very peaceful! We bash-mash Yagudo sometimes, yes, but at least we try to talk to them first!"
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=10745*)
+  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=10747*)
     → "Killing each other isn't the way! My little-brittle bones are shaking!"
   7: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0021 [0x21] END_EVENT
@@ -120,14 +120,14 @@
 
 ```
   0: 0x0023 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10746*)
+  1: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10748*)
     → "Bastokers are always grumpy-frumpy because they're fighting all the time!"
   2: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=10747*)
+  4: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=10749*)
     → "Honestly speaking, the Galka in this district scare me the most, even more so than the Quadav..."
   5: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=10748*)
+  6: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=10750*)
     → "Oopsy-doopsy. That was not a nice thing for me to say! Please don't tell anyone I said that!"
   7: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0043 [0x21] END_EVENT

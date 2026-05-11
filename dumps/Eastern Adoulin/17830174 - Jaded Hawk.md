@@ -25,31 +25,31 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x000F      |          15 |
 |       3 | 0x0003      |           3 |
-|       4 | 0x2FC2      |       12226 |
-|       5 | 0x2FAC      |       12204 |
+|       4 | 0x2FC4      |       12228 |
+|       5 | 0x2FAE      |       12206 |
 |       6 | 0x40000000  |  1073741824 |
-|       7 | 0x2FB1      |       12209 |
-|       8 | 0x2FB3      |       12211 |
+|       7 | 0x2FB3      |       12211 |
+|       8 | 0x2FB5      |       12213 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0010      |          16 |
 |      11 | 0x001F      |          31 |
 |      12 | 0x0005      |           5 |
 |      13 | 0x0002      |           2 |
 |      14 | 0xFFFFFFFF  |  4294967295 |
-|      15 | 0x2FC1      |       12225 |
-|      16 | 0x2FAE      |       12206 |
-|      17 | 0x2FB2      |       12210 |
+|      15 | 0x2FC3      |       12227 |
+|      16 | 0x2FB0      |       12208 |
+|      17 | 0x2FB4      |       12212 |
 |      18 | 0x000D      |          13 |
-|      19 | 0x2FC3      |       12227 |
+|      19 | 0x2FC5      |       12229 |
 |      20 | 0x000A      |          10 |
-|      21 | 0x2FF4      |       12276 |
-|      22 | 0x2FF5      |       12277 |
+|      21 | 0x2FF6      |       12278 |
+|      22 | 0x2FF7      |       12279 |
 |      23 | 0x0018      |          24 |
 |      24 | 0x012C      |         300 |
 |      25 | 0x0004      |           4 |
-|      26 | 0x2FC4      |       12228 |
-|      27 | 0x2FF0      |       12272 |
-|      28 | 0x2FF2      |       12274 |
+|      26 | 0x2FC6      |       12230 |
+|      27 | 0x2FF2      |       12274 |
+|      28 | 0x2FF4      |       12276 |
 |      29 | 0x0007      |           7 |
 |      30 | 0x0017      |          23 |
 |      31 | 0x0006      |           6 |
@@ -76,8 +76,8 @@
 |      52 | 0x3A98      |       15000 |
 |      53 | 0x1F40      |        8000 |
 |      54 | 0x086D      |        2157 |
-|      55 | 0x30FA      |       12538 |
-|      56 | 0x30FB      |       12539 |
+|      55 | 0x30FC      |       12540 |
+|      56 | 0x30FD      |       12541 |
 |      57 | 0x0013      |          19 |
 |      58 | 0x0014      |          20 |
 |      59 | 0x001E      |          30 |
@@ -87,21 +87,21 @@
 
 ## String References
 
-- **12204**: Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]
-- **12206**: Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]
-- **12209**: $1 can be purchased for $2 bayld.
-- **12210**: That $3 can be purchased for $2 bayld.
-- **12211**: Proceed with the exchange? (Bayld: $0) [Yes./No.]
-- **12225**: I have been granted permission to issue you a panoply of Couriers' Coalition warp runes.
-- **12226**: I've got some Couriers' Coalition goods here. Take 'em or leave 'em.
-- **12227**: Mind if I enchantaru you with some Couriers' Coalition hocus-wocus?
-- **12228**: Want to hear some special-wecial tidbitarus about where the Couriers' Coalition can deliver to now?
-- **12272**: View delivery information for which locale? [None./Adoulin. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Ceizak. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Yahse. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Hennetiel. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Morimar. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Yorcia. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Marjami. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Kamihr. (Operating: [Nowhere/At frontier station/In some areas/In all areas])]
-- **12274**: The delivery service for [Adoulin/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts] is [not in operation/operating at the frontier station/operating in some areas/operating in all areas].
-- **12276**: I can temporarily increase your movementaru speed in exchange for $2 bayld.
-- **12277**: Increase movement speed? (Bayld: $0) [Yes./No.]
-- **12538**: Excuse me, but I do not believe you have $6, do you?
-- **12539**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
+- **12206**: Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]
+- **12208**: Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]
+- **12211**: $1 can be purchased for $2 bayld.
+- **12212**: That $3 can be purchased for $2 bayld.
+- **12213**: Proceed with the exchange? (Bayld: $0) [Yes./No.]
+- **12227**: I have been granted permission to issue you a panoply of Couriers' Coalition warp runes.
+- **12228**: I've got some Couriers' Coalition goods here. Take 'em or leave 'em.
+- **12229**: Mind if I enchantaru you with some Couriers' Coalition hocus-wocus?
+- **12230**: Want to hear some special-wecial tidbitarus about where the Couriers' Coalition can deliver to now?
+- **12274**: View delivery information for which locale? [None./Adoulin. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Ceizak. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Yahse. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Hennetiel. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Morimar. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Yorcia. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Marjami. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Kamihr. (Operating: [Nowhere/At frontier station/In some areas/In all areas])]
+- **12276**: The delivery service for [Adoulin/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts] is [not in operation/operating at the frontier station/operating in some areas/operating in all areas].
+- **12278**: I can temporarily increase your movementaru speed in exchange for $2 bayld.
+- **12279**: Increase movement speed? (Bayld: $0) [Yes./No.]
+- **12540**: Excuse me, but I do not believe you have $6, do you?
+- **12541**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
 
 ## Events
 
@@ -367,7 +367,7 @@ SUBROUTINE_07E1:
      0x0034 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[5]
      0x0039 [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[4] (bits 0*-15*)
      0x0042 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[3] (bits 0*-3*)
-     0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=12226*)
+     0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=12228*)
     → "I've got some Couriers' Coalition goods here. Take 'em or leave 'em."
      0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x004F [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -375,7 +375,7 @@ SUBROUTINE_07E1:
      0x005A [0x1A] CALL_SUBROUTINE(address=0x011C)
      0x005D [0x1A] CALL_SUBROUTINE(address=0x0209)
      0x0060 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-     0x0065 [0x24] CREATE_DIALOG(message_id=12204*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+     0x0065 [0x24] CREATE_DIALOG(message_id=12206*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]"
      0x006C [0x25] WAIT_DIALOG_SELECT()
      0x006D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0080
@@ -399,12 +399,12 @@ SUBROUTINE_07E1:
      0x00CB [0x01] GOTO 0x00D3
      0x00CE [0x14] Work_Zone[4] *= 3*
      0x00D3 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
-     0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12209*)
+     0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12211*)
     → "$1 can be purchased for $2 bayld."
      0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00DA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x00DD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-     0x00E2 [0x24] CREATE_DIALOG(message_id=12211*, default_option=1*, option_flags=0*)
+     0x00E2 [0x24] CREATE_DIALOG(message_id=12213*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x00E9 [0x25] WAIT_DIALOG_SELECT()
      0x00EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010D
@@ -489,7 +489,7 @@ SUBROUTINE_07E1:
      0x0269 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[8]
      0x026E [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[4] (bits 0*-15*)
      0x0277 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[3] (bits 0*-3*)
-     0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=12225*)
+     0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=12227*)
     → "I have been granted permission to issue you a panoply of Couriers' Coalition warp runes."
      0x0283 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0284 [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -497,7 +497,7 @@ SUBROUTINE_07E1:
      0x028F [0x1A] CALL_SUBROUTINE(address=0x034B)
      0x0292 [0x1A] CALL_SUBROUTINE(address=0x0438)
      0x0295 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-     0x029A [0x24] CREATE_DIALOG(message_id=12206*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+     0x029A [0x24] CREATE_DIALOG(message_id=12208*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]"
      0x02A1 [0x25] WAIT_DIALOG_SELECT()
      0x02A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B5
@@ -520,11 +520,11 @@ SUBROUTINE_07E1:
      0x02F9 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[15]) GOTO 0x0303
      0x0300 [0x01] GOTO 0x0308
      0x0303 [0x14] Work_Zone[4] *= 3*
-     0x0308 [0x1D] PRINT_EVENT_MESSAGE(message_id=12210*)
+     0x0308 [0x1D] PRINT_EVENT_MESSAGE(message_id=12212*)
     → "That $3 can be purchased for $2 bayld."
      0x030B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x030C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-     0x0311 [0x24] CREATE_DIALOG(message_id=12211*, default_option=1*, option_flags=0*)
+     0x0311 [0x24] CREATE_DIALOG(message_id=12213*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x0318 [0x25] WAIT_DIALOG_SELECT()
      0x0319 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x033C
@@ -611,15 +611,15 @@ SUBROUTINE_07E1:
      0x04A4 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[5]
      0x04A9 [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[4] (bits 0*-15*)
      0x04B2 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[3] (bits 0*-3*)
-     0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=12227*)
+     0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=12229*)
     → "Mind if I enchantaru you with some Couriers' Coalition hocus-wocus?"
      0x04BE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04BF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
      0x04C4 [0x03] Work_Zone[4] = 10*
-     0x04C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12276*)
+     0x04C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12278*)
     → "I can temporarily increase your movementaru speed in exchange for $2 bayld."
      0x04CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x04CD [0x24] CREATE_DIALOG(message_id=12277*, default_option=1*, option_flags=0*)
+     0x04CD [0x24] CREATE_DIALOG(message_id=12279*, default_option=1*, option_flags=0*)
     → "Increase movement speed? (Bayld: $0) [Yes./No.]"
      0x04D4 [0x25] WAIT_DIALOG_SELECT()
      0x04D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0548
@@ -663,13 +663,13 @@ SUBROUTINE_07E1:
      0x058F [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[4] (bits 0*-15*)
      0x0598 [0x41] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[4] (bits 16*-31*)
      0x05A1 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[3] (bits 0*-3*)
-     0x05AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12228*)
+     0x05AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12230*)
     → "Want to hear some special-wecial tidbitarus about where the Couriers' Coalition can deliver to now?"
      0x05AD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05AE [0x06] ExtData[1]->WorkLocal[1] = 0
      0x05B1 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x060B
      0x05B9 [0x1A] CALL_SUBROUTINE(address=0x060C)
-     0x05BC [0x24] CREATE_DIALOG(message_id=12272*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+     0x05BC [0x24] CREATE_DIALOG(message_id=12274*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "View delivery information for which locale? [None./Adoulin. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Ceizak. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Yahse. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Hennetiel. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Morimar. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Yorcia. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Marjami. (Operating: [Nowhere/At frontier station/In some areas/In all areas])/Kamihr. (Operating: [Nowhere/At frontier station/In some areas/In all areas])]"
      0x05C3 [0x25] WAIT_DIALOG_SELECT()
      0x05C4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05D7
@@ -685,7 +685,7 @@ SUBROUTINE_07E1:
      0x05F2 [0x9D] ExtData[1]->WorkLocal[17] = 0x07FC[ExtData[1]->WorkLocal[10]] // Read WORD
      0x05FA [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[10]
      0x05FF [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
-     0x0604 [0x1D] PRINT_EVENT_MESSAGE(message_id=12274*)
+     0x0604 [0x1D] PRINT_EVENT_MESSAGE(message_id=12276*)
     → "The delivery service for [Adoulin/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts] is [not in operation/operating at the frontier station/operating in some areas/operating in all areas]."
      0x0607 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0608 [0x01] GOTO 0x05B1
@@ -832,11 +832,11 @@ SUBROUTINE_07E1:
      0x08FA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x08FB [0x1A] CALL_SUBROUTINE(address=0x0914)
      0x08FE [0x03] Work_Zone[2] = 2157*
-     0x0903 [0x1D] PRINT_EVENT_MESSAGE(message_id=12538*)
+     0x0903 [0x1D] PRINT_EVENT_MESSAGE(message_id=12540*)
     → "Excuse me, but I do not believe you have $6, do you?"
      0x0906 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0907 [0x03] Work_Zone[2] = 2157*
-     0x090C [0x1D] PRINT_EVENT_MESSAGE(message_id=12539*)
+     0x090C [0x1D] PRINT_EVENT_MESSAGE(message_id=12541*)
     → "Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one."
      0x090F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0910 [0x1A] CALL_SUBROUTINE(address=0x09E5)

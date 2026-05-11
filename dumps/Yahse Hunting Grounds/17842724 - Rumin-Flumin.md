@@ -45,39 +45,39 @@
 |       2 | 0x002A      |          42 |
 |       3 | 0x0029      |          41 |
 |       4 | 0x086D      |        2157 |
-|       5 | 0x1D77      |        7543 |
+|       5 | 0x1D79      |        7545 |
 |       6 | 0x08F0      |        2288 |
-|       7 | 0x1D78      |        7544 |
-|       8 | 0x1D79      |        7545 |
-|       9 | 0x1D7A      |        7546 |
-|      10 | 0x1D7B      |        7547 |
-|      11 | 0x1D7C      |        7548 |
-|      12 | 0x1D7D      |        7549 |
-|      13 | 0x1D7E      |        7550 |
-|      14 | 0x1D7F      |        7551 |
+|       7 | 0x1D7A      |        7546 |
+|       8 | 0x1D7B      |        7547 |
+|       9 | 0x1D7C      |        7548 |
+|      10 | 0x1D7D      |        7549 |
+|      11 | 0x1D7E      |        7550 |
+|      12 | 0x1D7F      |        7551 |
+|      13 | 0x1D80      |        7552 |
+|      14 | 0x1D81      |        7553 |
 |      15 | 0x0008      |           8 |
-|      16 | 0x1D80      |        7552 |
-|      17 | 0x1D81      |        7553 |
-|      18 | 0x1D82      |        7554 |
-|      19 | 0x1D83      |        7555 |
-|      20 | 0x1D84      |        7556 |
+|      16 | 0x1D82      |        7554 |
+|      17 | 0x1D83      |        7555 |
+|      18 | 0x1D84      |        7556 |
+|      19 | 0x1D85      |        7557 |
+|      20 | 0x1D86      |        7558 |
 
 ## String References
 
-- **7543**: I can't entrustaru this task to you without $6. Only a bona fide pioneery-weer could help me.
-- **7544**: Have you ever been to the Inventors' Coalition-wition? We make all sorts of goods and contraptions to make life easier. For example...this "$3"!
-- **7545**: Placing it next to a swarm of bees will lure them inside and capture their yummy-wummy honey and nectar!
-- **7546**: So! I've been collecting the nectar of numbing blossoms, a type of flower known for its paralytic effectarus, from bees located southwest of here.
-- **7547**: But wait--there's more! The nectar from those flowers has special-wecial nutrients that we need.
-- **7548**: "Why," you ask? These nutrientarus have antitoxin properties that help us resist the pungent fungi that dot the cave floors.
-- **7549**: This is where you come in, [Mister/Miss] Pioneer. I want you to helpy-welp us collect some. You will help us, rightaru?
-- **7550**: It's simple! Just go to the southwestaru until you come to a dead end and place our secret weapon near the swarm!
-- **7551**: Then, kneel down and watch the magic-wagic begin. Wait until...oh, let's say ten bees fly inside, and collect the nectaru!
-- **7552**: When that's done, head back to the Scouts' Coalition-wition and hand over your findings to Ndah Tolohjin.
-- **7553**: Don't forgetaru--place the $3 near the bee swarm in the dead end toward the southwest.
-- **7554**: And remember what I told you about kneeling down and staying perfectly still. That part is really-weally importantaru! When you're done, bring what you catch to Ndah Tolohjin at the Scouts' Coalition.
-- **7555**: Did you collectaru what we needed? That's great! Now head over to Ndah Tolohjin. I'm pretty sure she's hanging around in the Scouts' Coalition.
-- **7556**: Our research has taken on new forms! Now we're studying the eggs of local crawler-wallers. You think they might lead to new discoveries?
+- **7545**: I can't entrustaru this task to you without $6. Only a bona fide pioneery-weer could help me.
+- **7546**: Have you ever been to the Inventors' Coalition-wition? We make all sorts of goods and contraptions to make life easier. For example...this "$3"!
+- **7547**: Placing it next to a swarm of bees will lure them inside and capture their yummy-wummy honey and nectar!
+- **7548**: So! I've been collecting the nectar of numbing blossoms, a type of flower known for its paralytic effectarus, from bees located southwest of here.
+- **7549**: But wait--there's more! The nectar from those flowers has special-wecial nutrients that we need.
+- **7550**: "Why," you ask? These nutrientarus have antitoxin properties that help us resist the pungent fungi that dot the cave floors.
+- **7551**: This is where you come in, [Mister/Miss] Pioneer. I want you to helpy-welp us collect some. You will help us, rightaru?
+- **7552**: It's simple! Just go to the southwestaru until you come to a dead end and place our secret weapon near the swarm!
+- **7553**: Then, kneel down and watch the magic-wagic begin. Wait until...oh, let's say ten bees fly inside, and collect the nectaru!
+- **7554**: When that's done, head back to the Scouts' Coalition-wition and hand over your findings to Ndah Tolohjin.
+- **7555**: Don't forgetaru--place the $3 near the bee swarm in the dead end toward the southwest.
+- **7556**: And remember what I told you about kneeling down and staying perfectly still. That part is really-weally importantaru! When you're done, bring what you catch to Ndah Tolohjin at the Scouts' Coalition.
+- **7557**: Did you collectaru what we needed? That's great! Now head over to Ndah Tolohjin. I'm pretty sure she's hanging around in the Scouts' Coalition.
+- **7558**: Our research has taken on new forms! Now we're studying the eggs of local crawler-wallers. You think they might lead to new discoveries?
 
 ## Events
 
@@ -518,7 +518,7 @@
   2: 0x00FB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00FC [0x03] Work_Zone[2] = 2157*
   4: 0x0101 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x01)
-  5: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
+  5: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
     → "I can't entrustaru this task to you without $6. Only a bona fide pioneery-weer could help me."
   6: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x010C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x02)
@@ -560,42 +560,42 @@
   3: 0x011E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x011F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x09)
   5: 0x0126 [0x03] Work_Zone[3] = 2288*
-  6: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
+  6: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
     → "Have you ever been to the Inventors' Coalition-wition? We make all sorts of goods and contraptions to make life easier. For example...this "$3"!"
   7: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
+  8: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
     → "Placing it next to a swarm of bees will lure them inside and capture their yummy-wummy honey and nectar!"
   9: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0133 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x0A)
  11: 0x013A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x07)
- 12: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
+ 12: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
     → "So! I've been collecting the nectar of numbing blossoms, a type of flower known for its paralytic effectarus, from bees located southwest of here."
  13: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0145 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x08)
  15: 0x014C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x0D)
- 16: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
+ 16: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
     → "But wait--there's more! The nectar from those flowers has special-wecial nutrients that we need."
  17: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0157 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x0E)
  19: 0x015E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x0B)
- 20: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
+ 20: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
     → ""Why," you ask? These nutrientarus have antitoxin properties that help us resist the pungent fungi that dot the cave floors."
  21: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
+ 22: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
     → "This is where you come in, [Mister/Miss] Pioneer. I want you to helpy-welp us collect some. You will help us, rightaru?"
  23: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x016D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x0C)
  25: 0x0174 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x09)
- 26: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
+ 26: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
     → "It's simple! Just go to the southwestaru until you come to a dead end and place our secret weapon near the swarm!"
  27: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
+ 28: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
     → "Then, kneel down and watch the magic-wagic begin. Wait until...oh, let's say ten bees fly inside, and collect the nectaru!"
  29: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0183 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x0A)
  31: 0x018A [0x6E] EventEntity uses emote 8*
  32: 0x0191 [0x99] Wait for EventEntity animation to complete
- 33: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
+ 33: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
     → "When that's done, head back to the Scouts' Coalition-wition and hand over your findings to Ndah Tolohjin."
  34: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x019A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -630,10 +630,10 @@
   2: 0x01A4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01A5 [0x03] Work_Zone[3] = 2288*
   4: 0x01AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x01)
-  5: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
+  5: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
     → "Don't forgetaru--place the $3 near the bee swarm in the dead end toward the southwest."
   6: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
+  7: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
     → "And remember what I told you about kneeling down and staying perfectly still. That part is really-weally importantaru! When you're done, bring what you catch to Ndah Tolohjin at the Scouts' Coalition."
   8: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x02)
@@ -667,7 +667,7 @@
   2: 0x01CA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01CB [0x6E] EventEntity uses emote 8*
   4: 0x01D2 [0x99] Wait for EventEntity animation to complete
-  5: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
+  5: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
     → "Did you collectaru what we needed? That's great! Now head over to Ndah Tolohjin. I'm pretty sure she's hanging around in the Scouts' Coalition."
   6: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01DB [0x21] END_EVENT
@@ -699,7 +699,7 @@
   1: 0x01E2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01E3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x01)
-  4: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
+  4: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
     → "Our research has taken on new forms! Now we're studying the eggs of local crawler-wallers. You think they might lead to new discoveries?"
   5: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rumin-Flumin (ID: 17842724/0x01104224), tag_num=0x02)

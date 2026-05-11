@@ -50,8 +50,8 @@
 |---------|-------------|-------------|
 |       0 | 0x00EE      |         238 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1C2C      |        7212 |
-|       3 | 0x1C2D      |        7213 |
+|       2 | 0x1C2E      |        7214 |
+|       3 | 0x1C2F      |        7215 |
 |       4 | 0x4ED9      |       20185 |
 |       5 | 0xFFFF167E  |  4294907518 |
 |       6 | 0xFFFFF62F  |  4294964783 |
@@ -61,58 +61,58 @@
 |      10 | 0xFFFF0901  |  4294904065 |
 |      11 | 0xFFFFF63D  |  4294964797 |
 |      12 | 0x04CA      |        1226 |
-|      13 | 0x1C38      |        7224 |
+|      13 | 0x1C3A      |        7226 |
 |      14 | 0x0000      |           0 |
 |      15 | 0x0001      |           1 |
-|      16 | 0x1C34      |        7220 |
-|      17 | 0x1C35      |        7221 |
-|      18 | 0x1C36      |        7222 |
-|      19 | 0x1C37      |        7223 |
-|      20 | 0x1C39      |        7225 |
-|      21 | 0x1C3A      |        7226 |
-|      22 | 0x1C3B      |        7227 |
-|      23 | 0x1C3C      |        7228 |
-|      24 | 0x1C3D      |        7229 |
-|      25 | 0x1C3E      |        7230 |
+|      16 | 0x1C36      |        7222 |
+|      17 | 0x1C37      |        7223 |
+|      18 | 0x1C38      |        7224 |
+|      19 | 0x1C39      |        7225 |
+|      20 | 0x1C3B      |        7227 |
+|      21 | 0x1C3C      |        7228 |
+|      22 | 0x1C3D      |        7229 |
+|      23 | 0x1C3E      |        7230 |
+|      24 | 0x1C3F      |        7231 |
+|      25 | 0x1C40      |        7232 |
 |      26 | 0x00C9      |         201 |
-|      27 | 0x1998      |        6552 |
-|      28 | 0x1C41      |        7233 |
-|      29 | 0x1C42      |        7234 |
-|      30 | 0x1C43      |        7235 |
-|      31 | 0x1C44      |        7236 |
-|      32 | 0x1C45      |        7237 |
-|      33 | 0x1C46      |        7238 |
-|      34 | 0x1C47      |        7239 |
-|      35 | 0x1C48      |        7240 |
-|      36 | 0x1C49      |        7241 |
-|      37 | 0x1C4A      |        7242 |
+|      27 | 0x199A      |        6554 |
+|      28 | 0x1C43      |        7235 |
+|      29 | 0x1C44      |        7236 |
+|      30 | 0x1C45      |        7237 |
+|      31 | 0x1C46      |        7238 |
+|      32 | 0x1C47      |        7239 |
+|      33 | 0x1C48      |        7240 |
+|      34 | 0x1C49      |        7241 |
+|      35 | 0x1C4A      |        7242 |
+|      36 | 0x1C4B      |        7243 |
+|      37 | 0x1C4C      |        7244 |
 
 ## String References
 
-- **6552**: Obtained $0 gil.
-- **7212**: This is Windurst's North Auction House. We can deliver your belongings to your home, or help you send presents to anyone in Vana'diel.
-- **7213**: Our prices are most reasonable. There's no greater joy than the joy of giving, so ask one of my pretty little assistants to arrange your deliveries.
-- **7220**: This is the North Auction House. We would like to transport your belongings to your home, or help you send presents to people...but...we're having problems delivering on that promise.
-- **7221**: Alas... A terrible occurrence has befallen us.
-- **7222**: You see, the other day, one of my deliverymen was attacked by a monster. And...we seem to have lost several of the letters he was carrying.
-- **7223**: If I don't do something to retrieve the mail and deliver it to its rightful owners, the reliable name of my courier service will be ruined! Dear adventurer, would you be so kind as to help us find our lost mail?
-- **7224**: Help find missing mail? [Yes./No.]
-- **7225**: I see... Guess I'll have to ask someone else. Oh, where's a decent adventurer when you need one!?
-- **7226**: Thank you! Thank you! Our deliveryman was ambushed where the Tahrongi Canyon meets East Sarutabaruta.
-- **7227**: So if you can search high and low in both the Tahrongi Canyon and Sarutabaruta, hopefully you'll be able to find all the pieces of mail that were lost.
-- **7228**: Please bring me back whatever you can find! Through rain and shine, monsters and beastmen, the mail must get through!
-- **7229**: Seems that all of our deliverymen let down their guard when crossing between the Tahrongi Canyon and East Sarutabaruta. They must think they can outrun the monsters there or something.
-- **7230**: Anyway, even if you find a single missing item of mail, please bring it back to me. Through rain and shine, monsters and beastmen, the mail must get through!
-- **7233**: Thank you! Thank you! It's a miracle that even one of these letters came back to us safely. I had almost given up on the thought of seeing these ever again!
-- **7234**: It's only a little, but please take it as a reward. We'll make sure that this mail gets delivered to the right person this time. Don't you worry about that!
-- **7235**: Thank you! Thank you! You found $1 pieces of mail! I'm so glad to see these come back to me safely.
-- **7236**: It's not much, but please accept this as a reward. We'll make sure that this mail gets delivered to the right person this time. Don't you worry about that!
-- **7237**: Oh, thank you! Thank you! I can't believe you found four missing pieces of mail at once. Most delightful. Most delightful. Now this might not be much, but please accept it as a reward...
-- **7238**: I can't wait to tell the deliveryman who was assaulted by those monsters that you found four pieces of mail! I'm sure the news will help speed up his recovery!
-- **7239**: If you find any other missing pieces of mail, make sure you bring them to me. I'll do my best to make sure it's worth your while!
-- **7240**: Oh, what's this? What's this? You've gone and found some more of my missing mail! Thank you! Thank you! Please accept this as your reward...
-- **7241**: Oh, what's this? What's this? I can't believe you found four more missing pieces of mail. How splendid! Thank you! Oh, thank you! Here, please accept this as your well-earned reward...
-- **7242**: Wait till the deliveryman who was assaulted by those monsters hears that you found four more pieces of mail! I'm sure the news will help speed up his recovery!
+- **6554**: Obtained $0 gil.
+- **7214**: This is Windurst's North Auction House. We can deliver your belongings to your home, or help you send presents to anyone in Vana'diel.
+- **7215**: Our prices are most reasonable. There's no greater joy than the joy of giving, so ask one of my pretty little assistants to arrange your deliveries.
+- **7222**: This is the North Auction House. We would like to transport your belongings to your home, or help you send presents to people...but...we're having problems delivering on that promise.
+- **7223**: Alas... A terrible occurrence has befallen us.
+- **7224**: You see, the other day, one of my deliverymen was attacked by a monster. And...we seem to have lost several of the letters he was carrying.
+- **7225**: If I don't do something to retrieve the mail and deliver it to its rightful owners, the reliable name of my courier service will be ruined! Dear adventurer, would you be so kind as to help us find our lost mail?
+- **7226**: Help find missing mail? [Yes./No.]
+- **7227**: I see... Guess I'll have to ask someone else. Oh, where's a decent adventurer when you need one!?
+- **7228**: Thank you! Thank you! Our deliveryman was ambushed where the Tahrongi Canyon meets East Sarutabaruta.
+- **7229**: So if you can search high and low in both the Tahrongi Canyon and Sarutabaruta, hopefully you'll be able to find all the pieces of mail that were lost.
+- **7230**: Please bring me back whatever you can find! Through rain and shine, monsters and beastmen, the mail must get through!
+- **7231**: Seems that all of our deliverymen let down their guard when crossing between the Tahrongi Canyon and East Sarutabaruta. They must think they can outrun the monsters there or something.
+- **7232**: Anyway, even if you find a single missing item of mail, please bring it back to me. Through rain and shine, monsters and beastmen, the mail must get through!
+- **7235**: Thank you! Thank you! It's a miracle that even one of these letters came back to us safely. I had almost given up on the thought of seeing these ever again!
+- **7236**: It's only a little, but please take it as a reward. We'll make sure that this mail gets delivered to the right person this time. Don't you worry about that!
+- **7237**: Thank you! Thank you! You found $1 pieces of mail! I'm so glad to see these come back to me safely.
+- **7238**: It's not much, but please accept this as a reward. We'll make sure that this mail gets delivered to the right person this time. Don't you worry about that!
+- **7239**: Oh, thank you! Thank you! I can't believe you found four missing pieces of mail at once. Most delightful. Most delightful. Now this might not be much, but please accept it as a reward...
+- **7240**: I can't wait to tell the deliveryman who was assaulted by those monsters that you found four pieces of mail! I'm sure the news will help speed up his recovery!
+- **7241**: If you find any other missing pieces of mail, make sure you bring them to me. I'll do my best to make sure it's worth your while!
+- **7242**: Oh, what's this? What's this? You've gone and found some more of my missing mail! Thank you! Thank you! Please accept this as your reward...
+- **7243**: Oh, what's this? What's this? I can't believe you found four more missing pieces of mail. How splendid! Thank you! Oh, thank you! Here, please accept this as your well-earned reward...
+- **7244**: Wait till the deliveryman who was assaulted by those monsters hears that you found four more pieces of mail! I'm sure the news will help speed up his recovery!
 
 ## Events
 
@@ -333,10 +333,10 @@
   1: 0x0071 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0072 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0073 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x01)
-  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7212*)
+  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7214*)
     → "This is Windurst's North Auction House. We can deliver your belongings to your home, or help you send presents to anyone in Vana'diel."
   5: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7213*)
+  6: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7215*)
     → "Our prices are most reasonable. There's no greater joy than the joy of giving, so ask one of my pretty little assistants to arrange your deliveries."
   7: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0082 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x02)
@@ -450,7 +450,7 @@
   3: 0x00B5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x0D)
   4: 0x00BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x01)
   5: 0x00C3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x0E)
-  6: 0x00CA [0x24] CREATE_DIALOG(message_id=7224*, default_option=0*, option_flags=0*)
+  6: 0x00CA [0x24] CREATE_DIALOG(message_id=7226*, default_option=0*, option_flags=0*)
     → "Help find missing mail? [Yes./No.]"
   7: 0x00D1 [0x25] WAIT_DIALOG_SELECT()
   8: 0x00D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E9
@@ -492,15 +492,15 @@ SUBROUTINE_0100:
 
 ```
   0: 0x010B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x03)
-  1: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7220*)
+  1: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7222*)
     → "This is the North Auction House. We would like to transport your belongings to your home, or help you send presents to people...but...we're having problems delivering on that promise."
   2: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=7221*)
+  3: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=7223*)
     → "Alas... A terrible occurrence has befallen us."
   4: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x011A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x04)
   6: 0x0121 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x05)
-  7: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7222*)
+  7: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7224*)
     → "You see, the other day, one of my deliverymen was attacked by a monster. And...we seem to have lost several of the letters he was carrying."
   8: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x012C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x06)
@@ -526,7 +526,7 @@ SUBROUTINE_0100:
 #### Opcodes
 
 ```
-  0: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7223*)
+  0: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7225*)
     → "If I don't do something to retrieve the mail and deliver it to its rightful owners, the reliable name of my courier service will be ruined! Dear adventurer, would you be so kind as to help us find our lost mail?"
   1: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0138 [0x00] END_REQSTACK()
@@ -551,7 +551,7 @@ SUBROUTINE_0100:
 #### Opcodes
 
 ```
-  0: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7225*)
+  0: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7227*)
     → "I see... Guess I'll have to ask someone else. Oh, where's a decent adventurer when you need one!?"
   1: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x013D [0x00] END_REQSTACK()
@@ -577,13 +577,13 @@ SUBROUTINE_0100:
 #### Opcodes
 
 ```
-  0: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=7226*)
+  0: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=7228*)
     → "Thank you! Thank you! Our deliveryman was ambushed where the Tahrongi Canyon meets East Sarutabaruta."
   1: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7227*)
+  2: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7229*)
     → "So if you can search high and low in both the Tahrongi Canyon and Sarutabaruta, hopefully you'll be able to find all the pieces of mail that were lost."
   3: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=7228*)
+  4: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=7230*)
     → "Please bring me back whatever you can find! Through rain and shine, monsters and beastmen, the mail must get through!"
   5: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x014A [0x00] END_REQSTACK()
@@ -614,10 +614,10 @@ SUBROUTINE_0100:
   1: 0x0150 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0151 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0152 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x01)
-  4: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=7229*)
+  4: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
     → "Seems that all of our deliverymen let down their guard when crossing between the Tahrongi Canyon and East Sarutabaruta. They must think they can outrun the monsters there or something."
   5: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=7230*)
+  6: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=7232*)
     → "Anyway, even if you find a single missing item of mail, please bring it back to me. Through rain and shine, monsters and beastmen, the mail must get through!"
   7: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0161 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
@@ -658,7 +658,7 @@ SUBROUTINE_0100:
   6: 0x017D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x13)
   7: 0x0184 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
   8: 0x018B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  9: 0x019C [0x48] [System] [6552*]:
+  9: 0x019C [0x48] [System] [6554*]:
     → "Obtained $0 gil."
  10: 0x019F [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  11: 0x01A0 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -685,10 +685,10 @@ SUBROUTINE_0100:
 #### Opcodes
 
 ```
-  0: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7233*)
+  0: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7235*)
     → "Thank you! Thank you! It's a miracle that even one of these letters came back to us safely. I had almost given up on the thought of seeing these ever again!"
   1: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7234*)
+  2: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7236*)
     → "It's only a little, but please take it as a reward. We'll make sure that this mail gets delivered to the right person this time. Don't you worry about that!"
   3: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01AC [0x00] END_REQSTACK()
@@ -726,7 +726,7 @@ SUBROUTINE_0100:
   6: 0x01BE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x16)
   7: 0x01C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
   8: 0x01CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  9: 0x01DD [0x48] [System] [6552*]:
+  9: 0x01DD [0x48] [System] [6554*]:
     → "Obtained $0 gil."
  10: 0x01E0 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  11: 0x01E1 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -765,7 +765,7 @@ SUBROUTINE_0100:
   6: 0x01F6 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x16)
   7: 0x01FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
   8: 0x0204 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  9: 0x0215 [0x48] [System] [6552*]:
+  9: 0x0215 [0x48] [System] [6554*]:
     → "Obtained $0 gil."
  10: 0x0218 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  11: 0x0219 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -793,10 +793,10 @@ SUBROUTINE_0100:
 #### Opcodes
 
 ```
-  0: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=7235*)
+  0: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=7237*)
     → "Thank you! Thank you! You found $1 pieces of mail! I'm so glad to see these come back to me safely."
   1: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=7236*)
+  2: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=7238*)
     → "It's not much, but please accept this as a reward. We'll make sure that this mail gets delivered to the right person this time. Don't you worry about that!"
   3: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0225 [0x00] END_REQSTACK()
@@ -833,7 +833,7 @@ SUBROUTINE_0100:
   6: 0x0237 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x18)
   7: 0x023E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
   8: 0x0245 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  9: 0x0256 [0x48] [System] [6552*]:
+  9: 0x0256 [0x48] [System] [6554*]:
     → "Obtained $0 gil."
  10: 0x0259 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  11: 0x025A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -861,10 +861,10 @@ SUBROUTINE_0100:
 #### Opcodes
 
 ```
-  0: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=7237*)
+  0: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
     → "Oh, thank you! Thank you! I can't believe you found four missing pieces of mail at once. Most delightful. Most delightful. Now this might not be much, but please accept it as a reward..."
   1: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=7238*)
+  2: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
     → "I can't wait to tell the deliveryman who was assaulted by those monsters that you found four pieces of mail! I'm sure the news will help speed up his recovery!"
   3: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0266 [0x00] END_REQSTACK()
@@ -895,7 +895,7 @@ SUBROUTINE_0100:
   1: 0x026C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x026D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x026E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x01)
-  4: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
+  4: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=7241*)
     → "If you find any other missing pieces of mail, make sure you bring them to me. I'll do my best to make sure it's worth your while!"
   5: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0279 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
@@ -932,12 +932,12 @@ SUBROUTINE_0100:
   3: 0x028C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x028D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x028E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x01)
-  6: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
+  6: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
     → "Oh, what's this? What's this? You've gone and found some more of my missing mail! Thank you! Thank you! Please accept this as your reward..."
   7: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0299 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
   9: 0x02A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 10: 0x02B1 [0x48] [System] [6552*]:
+ 10: 0x02B1 [0x48] [System] [6554*]:
     → "Obtained $0 gil."
  11: 0x02B4 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  12: 0x02B5 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -973,12 +973,12 @@ SUBROUTINE_0100:
   3: 0x02C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x02C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x02C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x01)
-  6: 0x02CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
+  6: 0x02CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
     → "Oh, what's this? What's this? You've gone and found some more of my missing mail! Thank you! Thank you! Please accept this as your reward..."
   7: 0x02CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
   9: 0x02D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 10: 0x02E6 [0x48] [System] [6552*]:
+ 10: 0x02E6 [0x48] [System] [6554*]:
     → "Obtained $0 gil."
  11: 0x02E9 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  12: 0x02EA [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1015,12 +1015,12 @@ SUBROUTINE_0100:
   3: 0x02F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x02F7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x02F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x01)
-  6: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
+  6: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
     → "Oh, what's this? What's this? You've gone and found some more of my missing mail! Thank you! Thank you! Please accept this as your reward..."
   7: 0x0302 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0303 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
   9: 0x030A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 10: 0x031B [0x48] [System] [6552*]:
+ 10: 0x031B [0x48] [System] [6554*]:
     → "Obtained $0 gil."
  11: 0x031E [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  12: 0x031F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1056,15 +1056,15 @@ SUBROUTINE_0100:
   3: 0x032B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x032C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x032D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x01)
-  6: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=7241*)
+  6: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
     → "Oh, what's this? What's this? I can't believe you found four more missing pieces of mail. How splendid! Thank you! Oh, thank you! Here, please accept this as your well-earned reward..."
   7: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
+  8: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "Wait till the deliveryman who was assaulted by those monsters hears that you found four more pieces of mail! I'm sure the news will help speed up his recovery!"
   9: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x033C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ambrosius (ID: 17756197/0x010EF025), tag_num=0x07)
  11: 0x0343 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 12: 0x0354 [0x48] [System] [6552*]:
+ 12: 0x0354 [0x48] [System] [6554*]:
     → "Obtained $0 gil."
  13: 0x0357 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  14: 0x0358 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

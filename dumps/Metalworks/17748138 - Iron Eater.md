@@ -36,30 +36,30 @@
 |       8 | 0x018F      |         399 |
 |       9 | 0x000F      |          15 |
 |      10 | 0x001E      |          30 |
-|      11 | 0x2A30      |       10800 |
+|      11 | 0x2A32      |       10802 |
 |      12 | 0x0045      |          69 |
 |      13 | 0x0434      |        1076 |
-|      14 | 0x2A31      |       10801 |
-|      15 | 0x2A32      |       10802 |
+|      14 | 0x2A33      |       10803 |
+|      15 | 0x2A34      |       10804 |
 |      16 | 0x0438      |        1080 |
-|      17 | 0x2A33      |       10803 |
+|      17 | 0x2A35      |       10805 |
 |      18 | 0x0007      |           7 |
 |      19 | 0x005A      |          90 |
-|      20 | 0x2A34      |       10804 |
-|      21 | 0x2A35      |       10805 |
+|      20 | 0x2A36      |       10806 |
+|      21 | 0x2A37      |       10807 |
 |      22 | 0x0436      |        1078 |
 |      23 | 0x0437      |        1079 |
-|      24 | 0x2A36      |       10806 |
-|      25 | 0x2A37      |       10807 |
-|      26 | 0x2A38      |       10808 |
-|      27 | 0x2A39      |       10809 |
-|      28 | 0x2A3A      |       10810 |
-|      29 | 0x2A3B      |       10811 |
-|      30 | 0x2A3C      |       10812 |
-|      31 | 0x2A3D      |       10813 |
-|      32 | 0x2A3E      |       10814 |
-|      33 | 0x2A3F      |       10815 |
-|      34 | 0x2A40      |       10816 |
+|      24 | 0x2A38      |       10808 |
+|      25 | 0x2A39      |       10809 |
+|      26 | 0x2A3A      |       10810 |
+|      27 | 0x2A3B      |       10811 |
+|      28 | 0x2A3C      |       10812 |
+|      29 | 0x2A3D      |       10813 |
+|      30 | 0x2A3E      |       10814 |
+|      31 | 0x2A3F      |       10815 |
+|      32 | 0x2A40      |       10816 |
+|      33 | 0x2A41      |       10817 |
+|      34 | 0x2A42      |       10818 |
 
 ## Events
 
@@ -191,14 +191,14 @@
  16: 0x007F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  17: 0x008E [0x4A] Striking Snake (ID: 17747979/0x010ED00B) looks at LocalPlayer
  18: 0x0097 [0x1C] WAIT(30* ticks)
- 19: 0x009A [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10800*]:
+ 19: 0x009A [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10802*]:
     → "Yes? You need something? I've no time for idle chitchat."
  20: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00A2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
  22: 0x00B1 [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [EventEntity, EventEntity], work=399*
  23: 0x00C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [EventEntity, EventEntity], work=[399*, 0*]
  24: 0x00D1 [0x03] Work_Zone[2] = 1076*
- 25: 0x00D6 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10801*]:
+ 25: 0x00D6 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10803*]:
     → "Son of a hexagun! Are those $5? What in the Goddess's name are you doing with those?"
  26: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -211,14 +211,14 @@
  34: 0x0143 [0x1C] WAIT(15* ticks)
  35: 0x0146 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  36: 0x0157 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 37: 0x0166 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10802*]:
+ 37: 0x0166 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10804*]:
     → "I see, I see. Bullets to blast through magic armor, you say?"
  38: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x016E [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=399*
  40: 0x017D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [EventEntity, EventEntity], work=[399*, 0*]
  41: 0x018E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
  42: 0x019D [0x03] Work_Zone[2] = 1080*
- 43: 0x01A2 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10803*]:
+ 43: 0x01A2 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10805*]:
     → "You wouldn't happen to be lookin' for something like the old $5 they used back in the Great War, would you?"
  44: 0x01A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x01AA [0x6E] LocalPlayer uses emote 7*
@@ -227,13 +227,13 @@
  48: 0x01B9 [0x52] END_LOAD_SCHEDULER: End scheduler "s082" with entities [EventEntity, EventEntity], work=399*
  49: 0x01C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [EventEntity, EventEntity], work=[399*, 0*]
  50: 0x01D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
- 51: 0x01E8 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10804*]:
+ 51: 0x01E8 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10806*]:
     → "Ahh...stirs up memories in this old Galka's soul, it does. After the war ended, I never thought I'd hear the name again."
  52: 0x01EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x01F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
  54: 0x01FF [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [EventEntity, EventEntity], work=399*
  55: 0x020E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [EventEntity, EventEntity], work=[399*, 0*]
- 56: 0x021F [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10805*]:
+ 56: 0x021F [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10807*]:
     → "Goddess only knows what you'd want with those old things...but yes, I think I could do it for you. There's just one catch. The casting process requires some rather...rare...ingredients."
  57: 0x0226 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0227 [0x52] END_LOAD_SCHEDULER: End scheduler "s084" with entities [EventEntity, EventEntity], work=399*
@@ -241,16 +241,16 @@
  60: 0x0247 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
  61: 0x0256 [0x03] Work_Zone[2] = 1078*
  62: 0x025B [0x03] Work_Zone[3] = 1079*
- 63: 0x0260 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10806*]:
+ 63: 0x0260 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10808*]:
     → "3 and $3, to be exact."
  64: 0x0267 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x0268 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10807*]:
+ 65: 0x0268 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10809*]:
     → "Provide me with what I need, and the job is as good as done."
  66: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0270 [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [EventEntity, EventEntity], work=399*
  68: 0x027F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [EventEntity, EventEntity], work=[399*, 0*]
  69: 0x0290 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
- 70: 0x029F [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10808*]:
+ 70: 0x029F [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10810*]:
     → "Where to find them, you ask? I haven't a clue. They say there was once a plentiful supply in North Gustaberg, but it was exhausted completely by the war's end..."
  71: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x02A7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -291,11 +291,11 @@
   2: 0x02F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
   3: 0x0306 [0x03] Work_Zone[2] = 1078*
   4: 0x030B [0x03] Work_Zone[3] = 1079*
-  5: 0x0310 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10809*]:
+  5: 0x0310 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10811*]:
     → "Provide me with the materials I need, and your job is as good as done."
   6: 0x0317 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0318 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
-  8: 0x0327 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10810*]:
+  8: 0x0327 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10812*]:
     → "Where to find them...? I haven't a clue. I hear they used to be plentiful in North Gustaberg, but the supply was surely exhausted years ago..."
   9: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x032F [0x21] END_EVENT
@@ -360,13 +360,13 @@
  18: 0x03BA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  19: 0x03C9 [0x6E] Striking Snake (ID: 17747979/0x010ED00B) uses emote 7*
  20: 0x03D0 [0x99] Wait for Striking Snake (ID: 17747979/0x010ED00B) animation to complete
- 21: 0x03D5 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10811*]:
+ 21: 0x03D5 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10813*]:
     → "Oh ho, well look at this! It seems I underestimated you. Well, a promise is a promise...one order of beastman-blasting bullets, coming right up!"
  22: 0x03DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x03DD [0x52] END_LOAD_SCHEDULER: End scheduler "s087" with entities [EventEntity, EventEntity], work=399*
  24: 0x03EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[399*, 0*]
  25: 0x03FD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
- 26: 0x040C [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10812*]:
+ 26: 0x040C [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10814*]:
     → "Good craftsmanship takes time, but I'll be done before you know it. Why don't you head to the Markets and try to catch yourself a gold carp or two while you wait?"
  27: 0x0413 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0414 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -400,7 +400,7 @@
 ```
   0: 0x0458 [0x4A] Striking Snake (ID: 17747979/0x010ED00B) looks at LocalPlayer
   1: 0x0461 [0x1C] WAIT(30* ticks)
-  2: 0x0464 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10813*]:
+  2: 0x0464 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10815*]:
     → "Don't you know better than to rush a master at work? Just a bit longer, I say!"
   3: 0x046B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x046C [0x21] END_EVENT
@@ -466,15 +466,15 @@
  18: 0x04F7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  19: 0x0506 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Striking Snake (ID: 17747979/0x010ED00B), Striking Snake (ID: 17747979/0x010ED00B)], work=69*
  20: 0x0515 [0x03] Work_Zone[2] = 1080*
- 21: 0x051A [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10814*]:
+ 21: 0x051A [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10816*]:
     → "I was wondering when you'd come back. Here you are, one order of $5, just like we used to make 'em!"
  22: 0x0521 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0522 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10815*]:
+ 23: 0x0522 [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10817*]:
     → "I even took the liberty of making a few improvements to the old recipe. One blast from these and even the most potent magical armor will be reduced to little more than scrap metal."
  24: 0x0529 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x052A [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [EventEntity, EventEntity], work=399*
  26: 0x0539 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[399*, 0*]
- 27: 0x054A [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10816*]:
+ 27: 0x054A [0x2B] Striking Snake (ID: 17747979/0x010ED00B) [10818*]:
     → "My fee? Hah! Don't mention it! I haven't enjoyed my work this much in years. If you come across any other curiosities, you know where to find me!"
  28: 0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0552 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D06      |        7430 |
-|       1 | 0x1D07      |        7431 |
-|       2 | 0x1D08      |        7432 |
-|       3 | 0x1D09      |        7433 |
-|       4 | 0x1D0A      |        7434 |
-|       5 | 0x1D0B      |        7435 |
+|       0 | 0x1D08      |        7432 |
+|       1 | 0x1D09      |        7433 |
+|       2 | 0x1D0A      |        7434 |
+|       3 | 0x1D0B      |        7435 |
+|       4 | 0x1D0C      |        7436 |
+|       5 | 0x1D0D      |        7437 |
 
 ## String References
 
-- **7430**: You see a message engraved on the stone:
-- **7431**: I've been a sailor for over forty years, yet I cannot grasp the concept of the world as a whole. Then again, those who live in cities know even less than I.
-- **7432**: They are content knowing only of the things around them. I cannot blame them for choosing to live this way, as curiosity is, more often than not, a dangerous trait.
-- **7433**: But I have sworn to use the rest of my life--a life I had once thought lost when I was shipwrecked--to indulge this insatiable curiosity of mine, and to uncover the truths of Vana'diel.
-- **7434**: I have decided to leave my first message here, on this hill overlooking my homeland of Bastok. It is the first record of a journey that I hope will benefit all the peoples of Vana'diel.
-- **7435**: --Gwynham Ironheart, 748 Crystal Era.
+- **7432**: You see a message engraved on the stone:
+- **7433**: I've been a sailor for over forty years, yet I cannot grasp the concept of the world as a whole. Then again, those who live in cities know even less than I.
+- **7434**: They are content knowing only of the things around them. I cannot blame them for choosing to live this way, as curiosity is, more often than not, a dangerous trait.
+- **7435**: But I have sworn to use the rest of my life--a life I had once thought lost when I was shipwrecked--to indulge this insatiable curiosity of mine, and to uncover the truths of Vana'diel.
+- **7436**: I have decided to leave my first message here, on this hill overlooking my homeland of Bastok. It is the first record of a journey that I hope will benefit all the peoples of Vana'diel.
+- **7437**: --Gwynham Ironheart, 748 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7430*]:
+  0: 0x0001 [0x48] [System] [7432*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7431*]:
+  2: 0x0005 [0x48] [System] [7433*]:
     → "I've been a sailor for over forty years, yet I cannot grasp the concept of the world as a whole. Then again, those who live in cities know even less than I."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7432*]:
+  4: 0x0009 [0x48] [System] [7434*]:
     → "They are content knowing only of the things around them. I cannot blame them for choosing to live this way, as curiosity is, more often than not, a dangerous trait."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7433*]:
+  6: 0x000D [0x48] [System] [7435*]:
     → "But I have sworn to use the rest of my life--a life I had once thought lost when I was shipwrecked--to indulge this insatiable curiosity of mine, and to uncover the truths of Vana'diel."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7434*]:
+  8: 0x0011 [0x48] [System] [7436*]:
     → "I have decided to leave my first message here, on this hill overlooking my homeland of Bastok. It is the first record of a journey that I hope will benefit all the peoples of Vana'diel."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7435*]:
+ 10: 0x0015 [0x48] [System] [7437*]:
     → "--Gwynham Ironheart, 748 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

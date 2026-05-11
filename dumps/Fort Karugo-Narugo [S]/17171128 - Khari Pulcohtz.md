@@ -21,8 +21,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1FCA      |        8138 |
-|       2 | 0x1FCB      |        8139 |
+|       1 | 0x1FCC      |        8140 |
+|       2 | 0x1FCD      |        8141 |
 
 ## Events
 
@@ -70,10 +70,10 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
-  2: 0x0009 [0x2B] EventEntity [8138*]:
+  2: 0x0009 [0x2B] EventEntity [8140*]:
     → "Have you lost your way? North of here lie the Meriphataud Mountains. To the south, West Sarutabarrruta."
   3: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0011 [0x2B] EventEntity [8139*]:
+  4: 0x0011 [0x2B] EventEntity [8141*]:
     → "And going straight along this way will take you into Windurst Waters. If this stronghold falls, then Windurst is doomed. We are preparrred to defend it to the death! You'd best move along now."
   5: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0019 [0x21] END_EVENT

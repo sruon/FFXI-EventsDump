@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x003B      |          59 |
-|       2 | 0x2008      |        8200 |
-|       3 | 0x2009      |        8201 |
+|       2 | 0x200A      |        8202 |
+|       3 | 0x200B      |        8203 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
-  3: 0x0018 [0x2B] EventEntity [8200*]:
+  3: 0x0018 [0x2B] EventEntity [8202*]:
     → "It seems the beasthordes are fervently plundering the positions they occupy of crystals."
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0020 [0x2B] EventEntity [8201*]:
+  5: 0x0020 [0x2B] EventEntity [8203*]:
     → "The struggle for control over mining areas is unfolding in all regions. I suppose the beastmen want to ensure their precious resources, too."
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*

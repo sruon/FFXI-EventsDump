@@ -28,13 +28,13 @@
 |       5 | 0x0461      |        1121 |
 |       6 | 0x0090      |         144 |
 |       7 | 0x003C      |          60 |
-|       8 | 0x26DF      |        9951 |
-|       9 | 0x26DE      |        9950 |
+|       8 | 0x26E1      |        9953 |
+|       9 | 0x26E0      |        9952 |
 
 ## String References
 
-- **9950**: The next flight will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($1 [minute/minutes] in Earth time).
-- **9951**: The next flight is now [arriving/departing].
+- **9952**: The next flight will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($1 [minute/minutes] in Earth time).
+- **9953**: The next flight is now [arriving/departing].
 
 ## Events
 
@@ -108,11 +108,11 @@ SUBROUTINE_0053:
  17: 0x0058 [0x15] Work_Zone[5] /= 144*
  18: 0x005D [0x15] Work_Zone[3] /= 60*
  19: 0x0062 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0071
- 20: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=9951*)
+ 20: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=9953*)
     → "The next flight is now [arriving/departing]."
  21: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x006E [0x01] GOTO 0x0075
- 23: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=9950*)
+ 23: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=9952*)
     → "The next flight will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($1 [minute/minutes] in Earth time)."
  24: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

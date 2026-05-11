@@ -54,8 +54,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x27F0      |       10224 |
-|       3 | 0x27F1      |       10225 |
+|       2 | 0x27F2      |       10226 |
+|       3 | 0x27F3      |       10227 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x0003      |           3 |
@@ -63,59 +63,59 @@
 |       8 | 0x007F      |         127 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0096      |         150 |
-|      11 | 0x27F6      |       10230 |
-|      12 | 0x27F8      |       10232 |
+|      11 | 0x27F8      |       10232 |
+|      12 | 0x27FA      |       10234 |
 |      13 | 0x0002      |           2 |
 |      14 | 0x0087      |         135 |
-|      15 | 0x27F2      |       10226 |
-|      16 | 0x27F3      |       10227 |
-|      17 | 0x27F4      |       10228 |
-|      18 | 0x27F5      |       10229 |
-|      19 | 0x27F7      |       10231 |
-|      20 | 0x27F9      |       10233 |
-|      21 | 0x27FA      |       10234 |
-|      22 | 0x27FB      |       10235 |
-|      23 | 0x27FC      |       10236 |
+|      15 | 0x27F4      |       10228 |
+|      16 | 0x27F5      |       10229 |
+|      17 | 0x27F6      |       10230 |
+|      18 | 0x27F7      |       10231 |
+|      19 | 0x27F9      |       10233 |
+|      20 | 0x27FB      |       10235 |
+|      21 | 0x27FC      |       10236 |
+|      22 | 0x27FD      |       10237 |
+|      23 | 0x27FE      |       10238 |
 |      24 | 0x003C      |          60 |
-|      25 | 0x27FD      |       10237 |
-|      26 | 0x27FE      |       10238 |
-|      27 | 0x27FF      |       10239 |
-|      28 | 0x2800      |       10240 |
-|      29 | 0x2802      |       10242 |
+|      25 | 0x27FF      |       10239 |
+|      26 | 0x2800      |       10240 |
+|      27 | 0x2801      |       10241 |
+|      28 | 0x2802      |       10242 |
+|      29 | 0x2804      |       10244 |
 |      30 | 0x00C9      |         201 |
-|      31 | 0x2801      |       10241 |
-|      32 | 0x2803      |       10243 |
-|      33 | 0x2804      |       10244 |
-|      34 | 0x2805      |       10245 |
-|      35 | 0x2806      |       10246 |
-|      36 | 0x2807      |       10247 |
+|      31 | 0x2803      |       10243 |
+|      32 | 0x2805      |       10245 |
+|      33 | 0x2806      |       10246 |
+|      34 | 0x2807      |       10247 |
+|      35 | 0x2808      |       10248 |
+|      36 | 0x2809      |       10249 |
 
 ## String References
 
-- **10224**: I am a missionary from the San d'Oria Cathedral.
-- **10225**: I am here to teach the savages of this untamed land the true value of life and salvation in the light of the Goddess Altana.
-- **10226**: However, these uncivilized brutes will not listen to a word I say. Oh, how they mock me and my teachings.
-- **10227**: From what I have been able to gather, these primitive women believe that Vana'diel itself is their goddess.
-- **10228**: In all my travels, I have never come across a race so stubborn as these Mithra. They will not try listening to my sermon.
-- **10229**: However, after sleepless nights of prayer, Altana finally granted me with a vision--a method on how to trick these savages into listening.
-- **10230**: But to fulfill the Goddess's wishes, I require an extremely rare ore, obtained only by defeating a terrible monster living in that hellish jungle out there.
-- **10231**: For the sake of these ignorant Mithra, would you be so kind as to retrieve $1 from the Yuhtunga Jungle for me?
-- **10232**: Help Rauteinot? [Yes./No.]
-- **10233**: I am disappointed in your reply. However, that will not stop me from continuing my mission. I will pray for you tonight, my child.
-- **10234**: I thank you for your time. Your kindness will not go unrewarded. Let the Goddess be your light of hope on this perilous journey!
-- **10235**: I require $1 to spread the word of the Goddess Altana. I heard that in rare cases, the monsters in the Yuhtunga Jungle carry them.
-- **10236**: Do not worry. Your kindness will not go unrewarded. Let the Goddess be your light of hope on this perilous journey!
-- **10237**: You have arrived back safely! The Goddess has answered my prayers! Now, take that stone back to San d'Oria and give it to Master Mulaujeant, along with this letter.
-- **10238**: An artisan with his skill should have no problem carving a statue that will move the hearts of the masses.
-- **10239**: Please deliver my letter and the ore you retrieved to Mulaujeant the sculptor in San d'Oria.
+- **10226**: I am a missionary from the San d'Oria Cathedral.
+- **10227**: I am here to teach the savages of this untamed land the true value of life and salvation in the light of the Goddess Altana.
+- **10228**: However, these uncivilized brutes will not listen to a word I say. Oh, how they mock me and my teachings.
+- **10229**: From what I have been able to gather, these primitive women believe that Vana'diel itself is their goddess.
+- **10230**: In all my travels, I have never come across a race so stubborn as these Mithra. They will not try listening to my sermon.
+- **10231**: However, after sleepless nights of prayer, Altana finally granted me with a vision--a method on how to trick these savages into listening.
+- **10232**: But to fulfill the Goddess's wishes, I require an extremely rare ore, obtained only by defeating a terrible monster living in that hellish jungle out there.
+- **10233**: For the sake of these ignorant Mithra, would you be so kind as to retrieve $1 from the Yuhtunga Jungle for me?
+- **10234**: Help Rauteinot? [Yes./No.]
+- **10235**: I am disappointed in your reply. However, that will not stop me from continuing my mission. I will pray for you tonight, my child.
+- **10236**: I thank you for your time. Your kindness will not go unrewarded. Let the Goddess be your light of hope on this perilous journey!
+- **10237**: I require $1 to spread the word of the Goddess Altana. I heard that in rare cases, the monsters in the Yuhtunga Jungle carry them.
+- **10238**: Do not worry. Your kindness will not go unrewarded. Let the Goddess be your light of hope on this perilous journey!
+- **10239**: You have arrived back safely! The Goddess has answered my prayers! Now, take that stone back to San d'Oria and give it to Master Mulaujeant, along with this letter.
 - **10240**: An artisan with his skill should have no problem carving a statue that will move the hearts of the masses.
-- **10241**: Have you brought it? Ah, yes. This is the exact same image I saw in my vision from the Goddess Altana!
-- **10242**: When the heathens of this backwards village lay their eyes upon this immaculate sculpture, they will surely come to their senses!
-- **10243**: A statue of the Goddess Altana, sculpted from a stone that can only be found in Kazham...
-- **10244**: Now I can prove to them that the Dawn Goddess exists even in the earth they tread upon each day.
-- **10245**: Ah, yes. Please accept this as a token of my gratitude. May the light of Altana shine down upon you, always.
-- **10246**: A statue of the Goddess Altana, sculpted from a stone that can only be found in Kazham...
-- **10247**: Now I can prove to them that the Dawn Goddess exists even in the earth they tread upon each day. Now they will listen to me. Now I can cleanse their minds of the filth that befouls them.
+- **10241**: Please deliver my letter and the ore you retrieved to Mulaujeant the sculptor in San d'Oria.
+- **10242**: An artisan with his skill should have no problem carving a statue that will move the hearts of the masses.
+- **10243**: Have you brought it? Ah, yes. This is the exact same image I saw in my vision from the Goddess Altana!
+- **10244**: When the heathens of this backwards village lay their eyes upon this immaculate sculpture, they will surely come to their senses!
+- **10245**: A statue of the Goddess Altana, sculpted from a stone that can only be found in Kazham...
+- **10246**: Now I can prove to them that the Dawn Goddess exists even in the earth they tread upon each day.
+- **10247**: Ah, yes. Please accept this as a token of my gratitude. May the light of Altana shine down upon you, always.
+- **10248**: A statue of the Goddess Altana, sculpted from a stone that can only be found in Kazham...
+- **10249**: Now I can prove to them that the Dawn Goddess exists even in the earth they tread upon each day. Now they will listen to me. Now I can cleanse their minds of the filth that befouls them.
 
 ## Events
 
@@ -478,12 +478,12 @@
   1: 0x00C3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x01)
-  4: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10224*)
+  4: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10226*)
     → "I am a missionary from the San d'Oria Cathedral."
   5: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x02)
   7: 0x00D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x03)
-  8: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=10225*)
+  8: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=10227*)
     → "I am here to teach the savages of this untamed land the true value of life and salvation in the light of the Goddess Altana."
   9: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x04)
@@ -580,10 +580,10 @@
  19: 0x013A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  20: 0x014B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  21: 0x015C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x01)
- 22: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=10224*)
+ 22: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=10226*)
     → "I am a missionary from the San d'Oria Cathedral."
  23: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=10225*)
+ 24: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=10227*)
     → "I am here to teach the savages of this untamed land the true value of life and salvation in the light of the Goddess Altana."
  25: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x016B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x02)
@@ -614,7 +614,7 @@
  51: 0x0276 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x03)
  52: 0x027D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x04)
  53: 0x0284 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x05)
- 54: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=10230*)
+ 54: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=10232*)
     → "But to fulfill the Goddess's wishes, I require an extremely rare ore, obtained only by defeating a terrible monster living in that hellish jungle out there."
  55: 0x028E [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x028F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x06)
@@ -624,7 +624,7 @@
  60: 0x02C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x07)
  61: 0x02CE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x14)
  62: 0x02D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x08)
- 63: 0x02DC [0x24] CREATE_DIALOG(message_id=10232*, default_option=0*, option_flags=0*)
+ 63: 0x02DC [0x24] CREATE_DIALOG(message_id=10234*, default_option=0*, option_flags=0*)
     → "Help Rauteinot? [Yes./No.]"
  64: 0x02E3 [0x25] WAIT_DIALOG_SELECT()
  65: 0x02E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0333
@@ -680,7 +680,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10226*)
+  0: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10228*)
     → "However, these uncivilized brutes will not listen to a word I say. Oh, how they mock me and my teachings."
   1: 0x03DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03DC [0x00] END_REQSTACK()
@@ -706,7 +706,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10227*)
+  0: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10229*)
     → "From what I have been able to gather, these primitive women believe that Vana'diel itself is their goddess."
   1: 0x03E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03E1 [0x00] END_REQSTACK()
@@ -731,7 +731,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10228*)
+  0: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10230*)
     → "In all my travels, I have never come across a race so stubborn as these Mithra. They will not try listening to my sermon."
   1: 0x03E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03E6 [0x00] END_REQSTACK()
@@ -756,7 +756,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10229*)
+  0: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10231*)
     → "However, after sleepless nights of prayer, Altana finally granted me with a vision--a method on how to trick these savages into listening."
   1: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03EB [0x00] END_REQSTACK()
@@ -782,7 +782,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x03EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10231*)
+  0: 0x03EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10233*)
     → "For the sake of these ignorant Mithra, would you be so kind as to retrieve $1 from the Yuhtunga Jungle for me?"
   1: 0x03EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03F0 [0x00] END_REQSTACK()
@@ -807,7 +807,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10233*)
+  0: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
     → "I am disappointed in your reply. However, that will not stop me from continuing my mission. I will pray for you tonight, my child."
   1: 0x03F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03F5 [0x00] END_REQSTACK()
@@ -832,7 +832,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x03F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10234*)
+  0: 0x03F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10236*)
     → "I thank you for your time. Your kindness will not go unrewarded. Let the Goddess be your light of hope on this perilous journey!"
   1: 0x03F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03FA [0x00] END_REQSTACK()
@@ -863,10 +863,10 @@ SUBROUTINE_0382:
   1: 0x0400 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0401 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0402 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x0B)
-  4: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
+  4: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
     → "I require $1 to spread the word of the Goddess Altana. I heard that in rare cases, the monsters in the Yuhtunga Jungle carry them."
   5: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=10236*)
+  6: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=10238*)
     → "Do not worry. Your kindness will not go unrewarded. Let the Goddess be your light of hope on this perilous journey!"
   7: 0x0410 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0411 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x0C)
@@ -923,12 +923,12 @@ SUBROUTINE_0382:
  14: 0x0454 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  15: 0x0465 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x0476 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x09)
- 17: 0x047D [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
+ 17: 0x047D [0x1D] PRINT_EVENT_MESSAGE(message_id=10239*)
     → "You have arrived back safely! The Goddess has answered my prayers! Now, take that stone back to San d'Oria and give it to Master Mulaujeant, along with this letter."
  18: 0x0480 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0481 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x0A)
  20: 0x0488 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x0B)
- 21: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=10238*)
+ 21: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=10240*)
     → "An artisan with his skill should have no problem carving a statue that will move the hearts of the masses."
  22: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0493 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x0C)
@@ -969,14 +969,14 @@ SUBROUTINE_0382:
   1: 0x04D9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04DA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x01)
-  4: 0x04E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10239*)
+  4: 0x04E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10241*)
     → "Please deliver my letter and the ore you retrieved to Mulaujeant the sculptor in San d'Oria."
   5: 0x04E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x02)
   7: 0x04ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x03)
   8: 0x04F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x04)
   9: 0x04FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x0B)
- 10: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=10240*)
+ 10: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=10242*)
     → "An artisan with his skill should have no problem carving a statue that will move the hearts of the masses."
  11: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0506 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x0C)
@@ -1055,7 +1055,7 @@ SUBROUTINE_0382:
  23: 0x058E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x02)
  24: 0x0595 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  25: 0x05A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x03)
- 26: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10242*)
+ 26: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10244*)
     → "When the heathens of this backwards village lay their eyes upon this immaculate sculpture, they will surely come to their senses!"
  27: 0x05B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x05B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x04)
@@ -1108,7 +1108,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x06A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10241*)
+  0: 0x06A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10243*)
     → "Have you brought it? Ah, yes. This is the exact same image I saw in my vision from the Goddess Altana!"
   1: 0x06AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06AC [0x00] END_REQSTACK()
@@ -1134,7 +1134,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x06AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10243*)
+  0: 0x06AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10245*)
     → "A statue of the Goddess Altana, sculpted from a stone that can only be found in Kazham..."
   1: 0x06B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06B1 [0x00] END_REQSTACK()
@@ -1159,7 +1159,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x06B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10244*)
+  0: 0x06B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10246*)
     → "Now I can prove to them that the Dawn Goddess exists even in the earth they tread upon each day."
   1: 0x06B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06B6 [0x00] END_REQSTACK()
@@ -1184,7 +1184,7 @@ SUBROUTINE_0382:
 #### Opcodes
 
 ```
-  0: 0x06B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10245*)
+  0: 0x06B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10247*)
     → "Ah, yes. Please accept this as a token of my gratitude. May the light of Altana shine down upon you, always."
   1: 0x06BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06BB [0x00] END_REQSTACK()
@@ -1214,11 +1214,11 @@ SUBROUTINE_0382:
   0: 0x06BC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x06C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x06C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x06C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10246*)
+  3: 0x06C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10248*)
     → "A statue of the Goddess Altana, sculpted from a stone that can only be found in Kazham..."
   4: 0x06C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x06C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x0B)
-  6: 0x06CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10247*)
+  6: 0x06CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10249*)
     → "Now I can prove to them that the Dawn Goddess exists even in the earth they tread upon each day. Now they will listen to me. Now I can cleanse their minds of the filth that befouls them."
   7: 0x06D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x06D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rauteinot (ID: 17801241/0x010FA019), tag_num=0x0C)

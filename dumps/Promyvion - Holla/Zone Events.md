@@ -42,7 +42,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C3C      |        7228 |
+|       0 | 0x1C3E      |        7230 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0049      |          73 |
@@ -64,45 +64,45 @@
 |      19 | 0xFFFE4C32  |  4294855730 |
 |      20 | 0x2139      |        8505 |
 |      21 | 0x05F4      |        1524 |
-|      22 | 0x1C3D      |        7229 |
+|      22 | 0x1C3F      |        7231 |
 |      23 | 0x16781     |       92033 |
 |      24 | 0x139FC     |       80380 |
 |      25 | 0x0FF6      |        4086 |
-|      26 | 0x1C3E      |        7230 |
+|      26 | 0x1C40      |        7232 |
 |      27 | 0x004A      |          74 |
 |      28 | 0x00AA      |         170 |
 |      29 | 0x012C      |         300 |
 |      30 | 0x0012      |          18 |
-|      31 | 0x1C47      |        7239 |
+|      31 | 0x1C49      |        7241 |
 |      32 | 0x0154      |         340 |
 |      33 | 0x0078      |         120 |
-|      34 | 0x1C48      |        7240 |
-|      35 | 0x1C49      |        7241 |
-|      36 | 0x1C4A      |        7242 |
+|      34 | 0x1C4A      |        7242 |
+|      35 | 0x1C4B      |        7243 |
+|      36 | 0x1C4C      |        7244 |
 |      37 | 0x00B4      |         180 |
 |      38 | 0x001E      |          30 |
-|      39 | 0x1C4B      |        7243 |
-|      40 | 0x1C4C      |        7244 |
-|      41 | 0x1C4D      |        7245 |
-|      42 | 0x1C4E      |        7246 |
-|      43 | 0x1C4F      |        7247 |
-|      44 | 0x1C50      |        7248 |
+|      39 | 0x1C4D      |        7245 |
+|      40 | 0x1C4E      |        7246 |
+|      41 | 0x1C4F      |        7247 |
+|      42 | 0x1C50      |        7248 |
+|      43 | 0x1C51      |        7249 |
+|      44 | 0x1C52      |        7250 |
 
 ## String References
 
-- **7228**: Enter the memory stream? [Yes./No.]
-- **7229**: Return through the memory stream? [Yes./No.]
-- **7230**: Leave Promyvion? [Yes./No.]
-- **7239**: ...Come, <Player>...
-- **7240**: ...It is...time...
-- **7241**: ...Return...
-- **7242**: ...to the darkness......
-- **7243**: ...Wheels are...in motion...
-- **7244**: ...Darkness......calls...
-- **7245**: ...Heed...your destiny......
-- **7246**: ...Why...do you struggle...?
-- **7247**: ...Face...the darkness...
-- **7248**: ...Face...your inner...self......
+- **7230**: Enter the memory stream? [Yes./No.]
+- **7231**: Return through the memory stream? [Yes./No.]
+- **7232**: Leave Promyvion? [Yes./No.]
+- **7241**: ...Come, <Player>...
+- **7242**: ...It is...time...
+- **7243**: ...Return...
+- **7244**: ...to the darkness......
+- **7245**: ...Wheels are...in motion...
+- **7246**: ...Darkness......calls...
+- **7247**: ...Heed...your destiny......
+- **7248**: ...Why...do you struggle...?
+- **7249**: ...Face...the darkness...
+- **7250**: ...Face...your inner...self......
 
 ## Events
 
@@ -182,7 +182,7 @@
 
 ```
   0: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0004 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  1: 0x0004 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x000B [0x25] WAIT_DIALOG_SELECT()
   3: 0x000C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B6
@@ -246,7 +246,7 @@ SUBROUTINE_00C1:
 
 ```
   0: 0x00C5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00C7 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  1: 0x00C7 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x00CE [0x25] WAIT_DIALOG_SELECT()
   3: 0x00CF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0179
@@ -310,7 +310,7 @@ SUBROUTINE_0184:
 
 ```
   0: 0x0188 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x018A [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  1: 0x018A [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x0191 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0192 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023C
@@ -374,7 +374,7 @@ SUBROUTINE_0247:
 
 ```
   0: 0x024B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x024D [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  1: 0x024D [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x0254 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0255 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FA
@@ -437,7 +437,7 @@ SUBROUTINE_0305:
 
 ```
   0: 0x0309 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x030B [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  1: 0x030B [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x0312 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0313 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B8
@@ -500,7 +500,7 @@ SUBROUTINE_03C3:
 
 ```
   0: 0x03C7 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x03C9 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  1: 0x03C9 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x03D0 [0x25] WAIT_DIALOG_SELECT()
   3: 0x03D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0476
@@ -563,7 +563,7 @@ SUBROUTINE_0481:
 
 ```
   0: 0x0485 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0487 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  1: 0x0487 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x048E [0x25] WAIT_DIALOG_SELECT()
   3: 0x048F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0534
@@ -626,7 +626,7 @@ SUBROUTINE_053F:
 
 ```
   0: 0x0543 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0545 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  1: 0x0545 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x054C [0x25] WAIT_DIALOG_SELECT()
   3: 0x054D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05F2
@@ -688,7 +688,7 @@ SUBROUTINE_05FD:
 #### Opcodes
 
 ```
-  0: 0x0601 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  0: 0x0601 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   1: 0x0608 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0609 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06B3
@@ -751,7 +751,7 @@ SUBROUTINE_06BE:
 #### Opcodes
 
 ```
-  0: 0x06C2 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  0: 0x06C2 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   1: 0x06C9 [0x25] WAIT_DIALOG_SELECT()
   2: 0x06CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0774
@@ -814,7 +814,7 @@ SUBROUTINE_077F:
 #### Opcodes
 
 ```
-  0: 0x0783 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  0: 0x0783 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   1: 0x078A [0x25] WAIT_DIALOG_SELECT()
   2: 0x078B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0835
@@ -876,7 +876,7 @@ SUBROUTINE_0840:
 #### Opcodes
 
 ```
-  0: 0x0844 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
+  0: 0x0844 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Return through the memory stream? [Yes./No.]"
   1: 0x084B [0x25] WAIT_DIALOG_SELECT()
   2: 0x084C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08F1
@@ -937,7 +937,7 @@ SUBROUTINE_08FC:
 #### Opcodes
 
 ```
-  0: 0x0900 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
+  0: 0x0900 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Return through the memory stream? [Yes./No.]"
   1: 0x0907 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0908 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09AD
@@ -999,7 +999,7 @@ SUBROUTINE_09B8:
 #### Opcodes
 
 ```
-  0: 0x09BC [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
+  0: 0x09BC [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Return through the memory stream? [Yes./No.]"
   1: 0x09C3 [0x25] WAIT_DIALOG_SELECT()
   2: 0x09C4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A69
@@ -1061,7 +1061,7 @@ SUBROUTINE_0A74:
 #### Opcodes
 
 ```
-  0: 0x0A78 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
+  0: 0x0A78 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Return through the memory stream? [Yes./No.]"
   1: 0x0A7F [0x25] WAIT_DIALOG_SELECT()
   2: 0x0A80 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B25
@@ -1122,7 +1122,7 @@ SUBROUTINE_0B30:
 #### Opcodes
 
 ```
-  0: 0x0B34 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
+  0: 0x0B34 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Return through the memory stream? [Yes./No.]"
   1: 0x0B3B [0x25] WAIT_DIALOG_SELECT()
   2: 0x0B3C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BE1
@@ -1176,7 +1176,7 @@ SUBROUTINE_0BEC:
 
 ```
   0: 0x0BF0 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0BF2 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
+  1: 0x0BF2 [0x24] CREATE_DIALOG(message_id=7232*, default_option=1*, option_flags=0*)
     → "Leave Promyvion? [Yes./No.]"
   2: 0x0BF9 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0BFA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C16
@@ -1309,7 +1309,7 @@ SUBROUTINE_0C21:
   5: 0x0C8D [0x38] SET_CLIENT_EVENT_MODE(mode=18*)
   6: 0x0C90 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   7: 0x0CA1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  8: 0x0CB2 [0x48] [System] [7239*]:
+  8: 0x0CB2 [0x48] [System] [7241*]:
     → "...Come, <Player>..."
   9: 0x0CB5 [0x1C] WAIT(300* ticks)
  10: 0x0CB8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1319,7 +1319,7 @@ SUBROUTINE_0C21:
  14: 0x0CEE [0x1C] WAIT(60* ticks)
  15: 0x0CF1 [0x52] END_LOAD_SCHEDULER: End scheduler "16s1" with entities [EventEntity, EventEntity], work=160*
  16: 0x0D00 [0x1C] WAIT(120* ticks)
- 17: 0x0D03 [0x48] [System] [7240*]:
+ 17: 0x0D03 [0x48] [System] [7242*]:
     → "...It is...time..."
  18: 0x0D06 [0x1C] WAIT(120* ticks)
  19: 0x0D09 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1329,7 +1329,7 @@ SUBROUTINE_0C21:
  23: 0x0D3F [0x1C] WAIT(60* ticks)
  24: 0x0D42 [0x52] END_LOAD_SCHEDULER: End scheduler "16s2" with entities [EventEntity, EventEntity], work=160*
  25: 0x0D51 [0x1C] WAIT(120* ticks)
- 26: 0x0D54 [0x48] [System] [7241*]:
+ 26: 0x0D54 [0x48] [System] [7243*]:
     → "...Return..."
  27: 0x0D57 [0x1C] WAIT(120* ticks)
  28: 0x0D5A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1339,7 +1339,7 @@ SUBROUTINE_0C21:
  32: 0x0D90 [0x1C] WAIT(60* ticks)
  33: 0x0D93 [0x52] END_LOAD_SCHEDULER: End scheduler "16s3" with entities [EventEntity, EventEntity], work=160*
  34: 0x0DA2 [0x1C] WAIT(120* ticks)
- 35: 0x0DA5 [0x48] [System] [7242*]:
+ 35: 0x0DA5 [0x48] [System] [7244*]:
     → "...to the darkness......"
  36: 0x0DA8 [0x1C] WAIT(180* ticks)
  37: 0x0DAB [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
@@ -1422,7 +1422,7 @@ SUBROUTINE_0C21:
   5: 0x0E7B [0x38] SET_CLIENT_EVENT_MODE(mode=18*)
   6: 0x0E7E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   7: 0x0E8F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  8: 0x0EA0 [0x48] [System] [7239*]:
+  8: 0x0EA0 [0x48] [System] [7241*]:
     → "...Come, <Player>..."
   9: 0x0EA3 [0x1C] WAIT(300* ticks)
  10: 0x0EA6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1432,7 +1432,7 @@ SUBROUTINE_0C21:
  14: 0x0EDC [0x1C] WAIT(60* ticks)
  15: 0x0EDF [0x52] END_LOAD_SCHEDULER: End scheduler "16s1" with entities [EventEntity, EventEntity], work=160*
  16: 0x0EEE [0x1C] WAIT(120* ticks)
- 17: 0x0EF1 [0x48] [System] [7243*]:
+ 17: 0x0EF1 [0x48] [System] [7245*]:
     → "...Wheels are...in motion..."
  18: 0x0EF4 [0x1C] WAIT(120* ticks)
  19: 0x0EF7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1442,7 +1442,7 @@ SUBROUTINE_0C21:
  23: 0x0F2D [0x1C] WAIT(60* ticks)
  24: 0x0F30 [0x52] END_LOAD_SCHEDULER: End scheduler "16s2" with entities [EventEntity, EventEntity], work=160*
  25: 0x0F3F [0x1C] WAIT(120* ticks)
- 26: 0x0F42 [0x48] [System] [7244*]:
+ 26: 0x0F42 [0x48] [System] [7246*]:
     → "...Darkness......calls..."
  27: 0x0F45 [0x1C] WAIT(120* ticks)
  28: 0x0F48 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1452,7 +1452,7 @@ SUBROUTINE_0C21:
  32: 0x0F7E [0x1C] WAIT(60* ticks)
  33: 0x0F81 [0x52] END_LOAD_SCHEDULER: End scheduler "16s3" with entities [EventEntity, EventEntity], work=160*
  34: 0x0F90 [0x1C] WAIT(120* ticks)
- 35: 0x0F93 [0x48] [System] [7245*]:
+ 35: 0x0F93 [0x48] [System] [7247*]:
     → "...Heed...your destiny......"
  36: 0x0F96 [0x1C] WAIT(180* ticks)
  37: 0x0F99 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
@@ -1535,7 +1535,7 @@ SUBROUTINE_0C21:
   5: 0x1069 [0x38] SET_CLIENT_EVENT_MODE(mode=18*)
   6: 0x106C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   7: 0x107D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  8: 0x108E [0x48] [System] [7239*]:
+  8: 0x108E [0x48] [System] [7241*]:
     → "...Come, <Player>..."
   9: 0x1091 [0x1C] WAIT(300* ticks)
  10: 0x1094 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1545,7 +1545,7 @@ SUBROUTINE_0C21:
  14: 0x10CA [0x1C] WAIT(60* ticks)
  15: 0x10CD [0x52] END_LOAD_SCHEDULER: End scheduler "16s1" with entities [EventEntity, EventEntity], work=160*
  16: 0x10DC [0x1C] WAIT(120* ticks)
- 17: 0x10DF [0x48] [System] [7246*]:
+ 17: 0x10DF [0x48] [System] [7248*]:
     → "...Why...do you struggle...?"
  18: 0x10E2 [0x1C] WAIT(120* ticks)
  19: 0x10E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1555,7 +1555,7 @@ SUBROUTINE_0C21:
  23: 0x111B [0x1C] WAIT(60* ticks)
  24: 0x111E [0x52] END_LOAD_SCHEDULER: End scheduler "16s2" with entities [EventEntity, EventEntity], work=160*
  25: 0x112D [0x1C] WAIT(120* ticks)
- 26: 0x1130 [0x48] [System] [7247*]:
+ 26: 0x1130 [0x48] [System] [7249*]:
     → "...Face...the darkness..."
  27: 0x1133 [0x1C] WAIT(120* ticks)
  28: 0x1136 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1565,7 +1565,7 @@ SUBROUTINE_0C21:
  32: 0x116C [0x1C] WAIT(60* ticks)
  33: 0x116F [0x52] END_LOAD_SCHEDULER: End scheduler "16s3" with entities [EventEntity, EventEntity], work=160*
  34: 0x117E [0x1C] WAIT(120* ticks)
- 35: 0x1181 [0x48] [System] [7248*]:
+ 35: 0x1181 [0x48] [System] [7250*]:
     → "...Face...your inner...self......"
  36: 0x1184 [0x1C] WAIT(180* ticks)
  37: 0x1187 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)

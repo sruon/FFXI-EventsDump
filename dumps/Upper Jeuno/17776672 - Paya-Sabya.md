@@ -27,14 +27,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D1A      |        7450 |
-|       1 | 0x1D1B      |        7451 |
-|       2 | 0x1D1C      |        7452 |
-|       3 | 0x1D1D      |        7453 |
-|       4 | 0x1D1E      |        7454 |
-|       5 | 0x1D1F      |        7455 |
-|       6 | 0x1D20      |        7456 |
-|       7 | 0x1D3E      |        7486 |
+|       0 | 0x1D1C      |        7452 |
+|       1 | 0x1D1D      |        7453 |
+|       2 | 0x1D1E      |        7454 |
+|       3 | 0x1D1F      |        7455 |
+|       4 | 0x1D20      |        7456 |
+|       5 | 0x1D21      |        7457 |
+|       6 | 0x1D22      |        7458 |
+|       7 | 0x1D40      |        7488 |
 |       8 | 0x0055      |          85 |
 |       9 | 0x001E      |          30 |
 |      10 | 0x003C      |          60 |
@@ -109,21 +109,21 @@
 
 ```
   0: 0x0002 [0x4A] Paya-Sabya (ID: 17776672/0x010F4020) looks at LocalPlayer
-  1: 0x000B [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7450*]:
+  1: 0x000B [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7452*]:
     → "I'm helping Verena and Fickie grow flowers. We water them every-wevery day. I sure hope they bloom soon!"
   2: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0013 [0x4A] Geebeh (ID: 17776673/0x010F4021) looks at Paya-Sabya (ID: 17776672/0x010F4020)
-  4: 0x001C [0x2B] Geebeh (ID: 17776673/0x010F4021) [7451*]:
+  4: 0x001C [0x2B] Geebeh (ID: 17776673/0x010F4021) [7453*]:
     → "Yeah, right. No way seeds from beastmen'll ever grow."
   5: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0024 [0x4A] Paya-Sabya (ID: 17776672/0x010F4020) looks at Geebeh (ID: 17776673/0x010F4021)
-  7: 0x002D [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7452*]:
+  7: 0x002D [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7454*]:
     → "Nuh-uh! They'll grow!"
   8: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0035 [0x2B] Geebeh (ID: 17776673/0x010F4021) [7453*]:
+  9: 0x0035 [0x2B] Geebeh (ID: 17776673/0x010F4021) [7455*]:
     → "Yuh-huh! My daddy said that beastmen are gonna start another war! Fickie's the enemy!"
  10: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x003D [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7454*]:
+ 11: 0x003D [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7456*]:
     → "Nuh-uh! Fickie's our friend!"
  12: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0045 [0x21] END_EVENT
@@ -150,10 +150,10 @@
 #### Opcodes
 
 ```
-  0: 0x0047 [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7455*]:
+  0: 0x0047 [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7457*]:
     → "Fickie told us that when they bloom, it means that people and beasty-weastymen can be friends. I was surprised to hear that, 'specially from a gobbie-wobbie!"
   1: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x004F [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7456*]:
+  2: 0x004F [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7458*]:
     → "I know they'll bloom. I'm gonna make them."
   3: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0057 [0x21] END_EVENT
@@ -202,7 +202,7 @@
 #### Opcodes
 
 ```
-  0: 0x005A [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7486*]:
+  0: 0x005A [0x2B] Paya-Sabya (ID: 17776672/0x010F4020) [7488*]:
     → "I hope we can plant lots of seeds, and people and beasty-weastymen can get along, like Fickie said."
   1: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0062 [0x21] END_EVENT

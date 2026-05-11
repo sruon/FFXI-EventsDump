@@ -27,12 +27,12 @@
 |       3 | 0x0012      |          18 |
 |       4 | 0x005E      |          94 |
 |       5 | 0x0078      |         120 |
-|       6 | 0x1DE0      |        7648 |
+|       6 | 0x1DE2      |        7650 |
 |       7 | 0x0001      |           1 |
 
 ## String References
 
-- **7648**: Leave the incinerator? [Yes./No.]
+- **7650**: Leave the incinerator? [Yes./No.]
 
 ## Events
 
@@ -138,7 +138,7 @@
 #### Opcodes
 
 ```
-  0: 0x0087 [0x24] CREATE_DIALOG(message_id=7648*, default_option=1*, option_flags=0*)
+  0: 0x0087 [0x24] CREATE_DIALOG(message_id=7650*, default_option=1*, option_flags=0*)
     → "Leave the incinerator? [Yes./No.]"
   1: 0x008E [0x25] WAIT_DIALOG_SELECT()
   2: 0x008F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011E

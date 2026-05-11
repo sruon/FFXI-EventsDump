@@ -25,11 +25,11 @@
 |       2 | 0x003C      |          60 |
 |       3 | 0x00B4      |         180 |
 |       4 | 0x012C      |         300 |
-|       5 | 0x1C44      |        7236 |
+|       5 | 0x1C46      |        7238 |
 
 ## String References
 
-- **7236**: DEBUG:$3{$3^$3$2p$317F$P10i]\\7B
+- **7238**: DEBUG:$3{$3^$3$2p$317F$P10i]\\7B
 
 ## Events
 
@@ -100,7 +100,7 @@
  12: 0x005B [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "sta3" with entities [EventEntity, EventEntity]
  13: 0x0068 [0x54] WAIT_MAP_SCHEDULER: Wait for scheduler "sta3" with entities [EventEntity, EventEntity]
  14: 0x0075 [0x4C] EventEntity->StatusEvent = 8 // Open door
- 15: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7236*)
+ 15: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7238*)
     → "DEBUG:$3{$3^$3$2p$317F$P10i]\7B"
  16: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x007A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

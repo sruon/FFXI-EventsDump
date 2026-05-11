@@ -24,60 +24,60 @@
 |---------|-------------|-------------|
 |       0 | 0x0871      |        2161 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x3DE3      |       15843 |
-|       3 | 0x3DE5      |       15845 |
+|       2 | 0x3DE6      |       15846 |
+|       3 | 0x3DE8      |       15848 |
 |       4 | 0x0050      |          80 |
-|       5 | 0x3DE7      |       15847 |
-|       6 | 0x3DE8      |       15848 |
-|       7 | 0x3DE9      |       15849 |
-|       8 | 0x3DEA      |       15850 |
-|       9 | 0x3DEB      |       15851 |
-|      10 | 0x3DEC      |       15852 |
-|      11 | 0x3DED      |       15853 |
-|      12 | 0x3DEE      |       15854 |
+|       5 | 0x3DEA      |       15850 |
+|       6 | 0x3DEB      |       15851 |
+|       7 | 0x3DEC      |       15852 |
+|       8 | 0x3DED      |       15853 |
+|       9 | 0x3DEE      |       15854 |
+|      10 | 0x3DEF      |       15855 |
+|      11 | 0x3DF0      |       15856 |
+|      12 | 0x3DF1      |       15857 |
 |      13 | 0x0001      |           1 |
-|      14 | 0x3DF0      |       15856 |
-|      15 | 0x3DF1      |       15857 |
-|      16 | 0x3DF2      |       15858 |
-|      17 | 0x3DF3      |       15859 |
-|      18 | 0x3DF4      |       15860 |
-|      19 | 0x3DF5      |       15861 |
-|      20 | 0x3DF6      |       15862 |
-|      21 | 0x3DF7      |       15863 |
-|      22 | 0x3DF8      |       15864 |
-|      23 | 0x3DF9      |       15865 |
-|      24 | 0x3DFA      |       15866 |
+|      14 | 0x3DF3      |       15859 |
+|      15 | 0x3DF4      |       15860 |
+|      16 | 0x3DF5      |       15861 |
+|      17 | 0x3DF6      |       15862 |
+|      18 | 0x3DF7      |       15863 |
+|      19 | 0x3DF8      |       15864 |
+|      20 | 0x3DF9      |       15865 |
+|      21 | 0x3DFA      |       15866 |
+|      22 | 0x3DFB      |       15867 |
+|      23 | 0x3DFC      |       15868 |
+|      24 | 0x3DFD      |       15869 |
 |      25 | 0x0064      |         100 |
-|      26 | 0x3DFC      |       15868 |
-|      27 | 0x3DFB      |       15867 |
+|      26 | 0x3DFF      |       15871 |
+|      27 | 0x3DFE      |       15870 |
 |      28 | 0x000A      |          10 |
-|      29 | 0x3DEF      |       15855 |
+|      29 | 0x3DF2      |       15858 |
 |      30 | 0x000B      |          11 |
-|      31 | 0x3DFD      |       15869 |
+|      31 | 0x3E00      |       15872 |
 |      32 | 0x0062      |          98 |
 |      33 | 0x009F      |         159 |
 |      34 | 0x007D      |         125 |
-|      35 | 0x3DFE      |       15870 |
-|      36 | 0x3DFF      |       15871 |
-|      37 | 0x3E00      |       15872 |
+|      35 | 0x3E01      |       15873 |
+|      36 | 0x3E02      |       15874 |
+|      37 | 0x3E03      |       15875 |
 |      38 | 0x0002      |           2 |
-|      39 | 0x3E01      |       15873 |
-|      40 | 0x3E02      |       15874 |
+|      39 | 0x3E04      |       15876 |
+|      40 | 0x3E05      |       15877 |
 |      41 | 0x0038      |          56 |
-|      42 | 0x3E05      |       15877 |
-|      43 | 0x3E04      |       15876 |
-|      44 | 0x3E03      |       15875 |
+|      42 | 0x3E08      |       15880 |
+|      43 | 0x3E07      |       15879 |
+|      44 | 0x3E06      |       15878 |
 |      45 | 0x000C      |          12 |
 |      46 | 0x0003      |           3 |
 |      47 | 0x0004      |           4 |
-|      48 | 0x3E14      |       15892 |
+|      48 | 0x3E17      |       15895 |
 |      49 | 0x0005      |           5 |
 |      50 | 0x0015      |          21 |
 |      51 | 0x0006      |           6 |
-|      52 | 0x3E13      |       15891 |
+|      52 | 0x3E16      |       15894 |
 |      53 | 0x0017      |          23 |
 |      54 | 0x0007      |           7 |
-|      55 | 0x3E15      |       15893 |
+|      55 | 0x3E18      |       15896 |
 |      56 | 0x0008      |           8 |
 |      57 | 0x0016      |          22 |
 |      58 | 0x00C8      |         200 |
@@ -92,8 +92,8 @@
 |      67 | 0xFFFE8900  |  4294871296 |
 |      68 | 0x06A4      |        1700 |
 |      69 | 0x0C00      |        3072 |
-|      70 | 0x3E06      |       15878 |
-|      71 | 0x3E07      |       15879 |
+|      70 | 0x3E09      |       15881 |
+|      71 | 0x3E0A      |       15882 |
 |      72 | 0x6852      |       26706 |
 |      73 | 0x6CCF      |       27855 |
 |      74 | 0x279F      |       10143 |
@@ -105,84 +105,84 @@
 |      80 | 0x05DC      |        1500 |
 |      81 | 0x07C0      |        1984 |
 |      82 | 0x07E0      |        2016 |
-|      83 | 0x3E08      |       15880 |
+|      83 | 0x3E0B      |       15883 |
 |      84 | 0x000E      |          14 |
 |      85 | 0x000F      |          15 |
 |      86 | 0x0010      |          16 |
 |      87 | 0x0018      |          24 |
 |      88 | 0x0019      |          25 |
 |      89 | 0x001A      |          26 |
-|      90 | 0x3E09      |       15881 |
-|      91 | 0x3E0A      |       15882 |
-|      92 | 0x3E0B      |       15883 |
+|      90 | 0x3E0C      |       15884 |
+|      91 | 0x3E0D      |       15885 |
+|      92 | 0x3E0E      |       15886 |
 |      93 | 0x0032      |          50 |
-|      94 | 0x3E0C      |       15884 |
+|      94 | 0x3E0F      |       15887 |
 |      95 | 0x0033      |          51 |
 |      96 | 0x0034      |          52 |
-|      97 | 0x3E0D      |       15885 |
-|      98 | 0x3E0E      |       15886 |
+|      97 | 0x3E10      |       15888 |
+|      98 | 0x3E11      |       15889 |
 |      99 | 0x0035      |          53 |
 |     100 | 0x0036      |          54 |
 |     101 | 0x0037      |          55 |
-|     102 | 0x3E0F      |       15887 |
+|     102 | 0x3E12      |       15890 |
 |     103 | 0x0011      |          17 |
 |     104 | 0x0051      |          81 |
-|     105 | 0x3E10      |       15888 |
-|     106 | 0x3E11      |       15889 |
-|     107 | 0x3E12      |       15890 |
+|     105 | 0x3E13      |       15891 |
+|     106 | 0x3E14      |       15892 |
+|     107 | 0x3E15      |       15893 |
 |     108 | 0x0012      |          18 |
 |     109 | 0x0013      |          19 |
 |     110 | 0x0014      |          20 |
 
 ## String References
 
-- **15843**: The mandragora flutters about in consternation.
-- **15845**: Babban Ny Mheillea looks fondly in your direction.
-- **15847**: Nice to meet you, my [kinda/really] tall friend! I'm Babban Ny Mheillea!
-- **15848**: Oh, <Player>! I'm so glad to see you!
-- **15849**: You must be really special to be able to change forms like that! But I could tell who you were right away!
-- **15850**: My friends and I are playing a fun game called "sunshine seeker," where we search for shards of sunlight!
-- **15851**: Just give them a little squeeze and you'll see how warm and bright they are!
-- **15852**: But my friends're so much better than I am...
-- **15853**: Maybe you could lend me a hand! Yours're much bigger than mine!
-- **15854**: Lend Babban a hand? [I'll lend you two!/I'm a bit busy right now.]
-- **15855**: Aww... Hopefully you'll change your mind. I'll be waiting here!
-- **15856**: Hooray! Maybe I'll finally be able to win!
-- **15857**: I'll give you some small seeds in exchange for the shards of sunlight you bring back.
-- **15858**: Even better! I've got some special things available for you to buy with your seeds!
-- **15859**: But here's the best part--If you try your luck with my grab bag enough times, you might win something really super!
-- **15860**: One of the rules of the game is that you must be a mandragora, like me, or else you won't be able to collect any shards.
-- **15861**: They can be found all around here. But if you don't hurry, someone else might gobble them up.
-- **15862**: But once you've taken them from one place, you can't get any more from there by searching it repeatedly!
-- **15863**: Shards of sunlight are really delicate, so they'll disappear if you leave this area or take too much time getting them back to me.
-- **15864**: My friends'll also try to get in your way, so be sure not to get noticed!
-- **15865**: I can fly you right to the starting point. Just say the word!
-- **15866**: Ready for mischief? [The sun will bow before me!/The light...it burns us!]
-- **15867**: Nononono, sunlight is your friend! Come back once you've decided to help me hunt!
-- **15868**: Good luck! Collect as many as you can and bring them back to me!
-- **15869**: Why, hello!
-- **15870**: Inquire about what? [I want to play the game./I'm ready to turn in my shards./I want to exchange small seeds./Let me try the grab bag./How many seeds do I have?/I'd like the items you're holding for me./Dispose of what you're holding for me./Tell me how the game works./No questions for now.]
-- **15871**: You look like you'll be able to try for even harder things in this game!
-- **15872**: My friends'll try to get in your way even more. Are you sure you're ready?
-- **15873**: Wow! I'll bet you're ready for the championship round!
-- **15874**: My friends'll surely never let you get away now! Sure you want to try anyway?
-- **15875**: Oh no...you mean you didn't find even one single shard? That's terrible...
-- **15876**: I'll be waiting for you to play our game again!
-- **15877**: You did such a lovely job! You brought me $0 shard[/s] of sunlight, so I'll give you $1 small seed[/s]!
-- **15878**: I can give you so many pretty gifts in exchange for your small seeds!
-- **15879**: Which would you like?
-- **15882**: I've prepared a little grab bag you can enjoy for some small seeds.
-- **15883**: Which would you like to try?
-- **15884**: Pick your poison. ($30 seed[/s]) [The $0-seed grab bag./The $1-seed grab bag./The $2-seed grab bag./No poison, thanks.]
-- **15885**: That grab bag contains prizes like $0, $1, and $2.
-- **15886**: Press your luck? [C'mon, no whammies.../Not right now.]
-- **15887**: You won $0! Congratulations!
-- **15888**: ...But your bags are full! What do you want me to do with it?
-- **15889**: What will you do with the $0? [Have Babban hold it./I don't want it.]
-- **15890**: I'll make sure to keep it really safe! Come back when you've made room!
-- **15891**: Then...you won't mind if I have it!
-- **15892**: You have a total of $0 small seed[/s].
-- **15893**: The goal of sunshine seeker is to collect shards of sunlight!
+- **15846**: The mandragora flutters about in consternation.
+- **15848**: Babban Ny Mheillea looks fondly in your direction.
+- **15850**: Nice to meet you, my [kinda/really] tall friend! I'm Babban Ny Mheillea!
+- **15851**: Oh, <Player>! I'm so glad to see you!
+- **15852**: You must be really special to be able to change forms like that! But I could tell who you were right away!
+- **15853**: My friends and I are playing a fun game called "sunshine seeker," where we search for shards of sunlight!
+- **15854**: Just give them a little squeeze and you'll see how warm and bright they are!
+- **15855**: But my friends're so much better than I am...
+- **15856**: Maybe you could lend me a hand! Yours're much bigger than mine!
+- **15857**: Lend Babban a hand? [I'll lend you two!/I'm a bit busy right now.]
+- **15858**: Aww... Hopefully you'll change your mind. I'll be waiting here!
+- **15859**: Hooray! Maybe I'll finally be able to win!
+- **15860**: I'll give you some small seeds in exchange for the shards of sunlight you bring back.
+- **15861**: Even better! I've got some special things available for you to buy with your seeds!
+- **15862**: But here's the best part--If you try your luck with my grab bag enough times, you might win something really super!
+- **15863**: One of the rules of the game is that you must be a mandragora, like me, or else you won't be able to collect any shards.
+- **15864**: They can be found all around here. But if you don't hurry, someone else might gobble them up.
+- **15865**: But once you've taken them from one place, you can't get any more from there by searching it repeatedly!
+- **15866**: Shards of sunlight are really delicate, so they'll disappear if you leave this area or take too much time getting them back to me.
+- **15867**: My friends'll also try to get in your way, so be sure not to get noticed!
+- **15868**: I can fly you right to the starting point. Just say the word!
+- **15869**: Ready for mischief? [The sun will bow before me!/The light...it burns us!]
+- **15870**: Nononono, sunlight is your friend! Come back once you've decided to help me hunt!
+- **15871**: Good luck! Collect as many as you can and bring them back to me!
+- **15872**: Why, hello!
+- **15873**: Inquire about what? [I want to play the game./I'm ready to turn in my shards./I want to exchange small seeds./Let me try the grab bag./How many seeds do I have?/I'd like the items you're holding for me./Dispose of what you're holding for me./Tell me how the game works./No questions for now.]
+- **15874**: You look like you'll be able to try for even harder things in this game!
+- **15875**: My friends'll try to get in your way even more. Are you sure you're ready?
+- **15876**: Wow! I'll bet you're ready for the championship round!
+- **15877**: My friends'll surely never let you get away now! Sure you want to try anyway?
+- **15878**: Oh no...you mean you didn't find even one single shard? That's terrible...
+- **15879**: I'll be waiting for you to play our game again!
+- **15880**: You did such a lovely job! You brought me $0 shard[/s] of sunlight, so I'll give you $1 small seed[/s]!
+- **15881**: I can give you so many pretty gifts in exchange for your small seeds!
+- **15882**: Which would you like?
+- **15885**: I've prepared a little grab bag you can enjoy for some small seeds.
+- **15886**: Which would you like to try?
+- **15887**: Pick your poison. ($30 seed[/s]) [The $0-seed grab bag./The $1-seed grab bag./The $2-seed grab bag./No poison, thanks.]
+- **15888**: That grab bag contains prizes like $0, $1, and $2.
+- **15889**: Press your luck? [C'mon, no whammies.../Not right now.]
+- **15890**: You won $0! Congratulations!
+- **15891**: ...But your bags are full! What do you want me to do with it?
+- **15892**: What will you do with the $0? [Have Babban hold it./I don't want it.]
+- **15893**: I'll make sure to keep it really safe! Come back when you've made room!
+- **15894**: Then...you won't mind if I have it!
+- **15895**: You have a total of $0 small seed[/s].
+- **15896**: The goal of sunshine seeker is to collect shards of sunlight!
 
 ## Events
 
@@ -235,10 +235,10 @@
   3: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2161*
   5: 0x0018 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0026
-  6: 0x0020 [0x48] [System] [15843*]:
+  6: 0x0020 [0x48] [System] [15846*]:
     → "The mandragora flutters about in consternation."
   7: 0x0023 [0x01] GOTO 0x0029
-  8: 0x0026 [0x48] [System] [15845*]:
+  8: 0x0026 [0x48] [System] [15848*]:
     → "Babban Ny Mheillea looks fondly in your direction."
 
 SUBROUTINE_0029:
@@ -296,73 +296,73 @@ SUBROUTINE_0029:
  10: 0x0054 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wht1" with entities [EventEntity, EventEntity], work=2161*
  11: 0x0063 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0077
  12: 0x006B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 13: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=15847*)
+ 13: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=15850*)
     → "Nice to meet you, my [kinda/really] tall friend! I'm Babban Ny Mheillea!"
  14: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0074 [0x01] GOTO 0x007F
- 16: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=15848*)
+ 16: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=15851*)
     → "Oh, <Player>! I'm so glad to see you!"
  17: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=15849*)
+ 18: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=15852*)
     → "You must be really special to be able to change forms like that! But I could tell who you were right away!"
  19: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_007F:
  20: 0x007F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2161*
- 21: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=15850*)
+ 21: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=15853*)
     → "My friends and I are playing a fun game called "sunshine seeker," where we search for shards of sunlight!"
  22: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=15851*)
+ 23: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=15854*)
     → "Just give them a little squeeze and you'll see how warm and bright they are!"
  24: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=15852*)
+ 25: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=15855*)
     → "But my friends're so much better than I am..."
  26: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=15853*)
+ 27: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=15856*)
     → "Maybe you could lend me a hand! Yours're much bigger than mine!"
  28: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x009E [0x24] CREATE_DIALOG(message_id=15854*, default_option=1*, option_flags=0*)
+ 29: 0x009E [0x24] CREATE_DIALOG(message_id=15857*, default_option=1*, option_flags=0*)
     → "Lend Babban a hand? [I'll lend you two!/I'm a bit busy right now.]"
  30: 0x00A5 [0x25] WAIT_DIALOG_SELECT()
  31: 0x00A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012A
  32: 0x00AE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [EventEntity, EventEntity], work=2161*
- 33: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=15856*)
+ 33: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=15859*)
     → "Hooray! Maybe I'll finally be able to win!"
  34: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2161*
- 36: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15857*)
+ 36: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15860*)
     → "I'll give you some small seeds in exchange for the shards of sunlight you bring back."
  37: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15858*)
+ 38: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15861*)
     → "Even better! I've got some special things available for you to buy with your seeds!"
  39: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15859*)
+ 40: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15862*)
     → "But here's the best part--If you try your luck with my grab bag enough times, you might win something really super!"
  41: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=15860*)
+ 42: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=15863*)
     → "One of the rules of the game is that you must be a mandragora, like me, or else you won't be able to collect any shards."
  43: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15861*)
+ 44: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15864*)
     → "They can be found all around here. But if you don't hurry, someone else might gobble them up."
  45: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15862*)
+ 46: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15865*)
     → "But once you've taken them from one place, you can't get any more from there by searching it repeatedly!"
  47: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15863*)
+ 48: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15866*)
     → "Shards of sunlight are really delicate, so they'll disappear if you leave this area or take too much time getting them back to me."
  49: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=15864*)
+ 50: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=15867*)
     → "My friends'll also try to get in your way, so be sure not to get noticed!"
  51: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15865*)
+ 52: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15868*)
     → "I can fly you right to the starting point. Just say the word!"
  53: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x00F4 [0x24] CREATE_DIALOG(message_id=15866*, default_option=1*, option_flags=0*)
+ 54: 0x00F4 [0x24] CREATE_DIALOG(message_id=15869*, default_option=1*, option_flags=0*)
     → "Ready for mischief? [The sun will bow before me!/The light...it burns us!]"
  55: 0x00FB [0x25] WAIT_DIALOG_SELECT()
  56: 0x00FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0113
  57: 0x0104 [0x03] Work_Zone[1] = 100*
- 58: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=15868*)
+ 58: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=15871*)
     → "Good luck! Collect as many as you can and bring them back to me!"
  59: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x010D [0x01] GOTO 0x03A1
@@ -370,7 +370,7 @@ SUBROUTINE_007F:
 SUBROUTINE_0127:
  61: 0x0127 [0x01] GOTO 0x013E
  62: 0x012A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x013E
- 63: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=15855*)
+ 63: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=15858*)
     → "Aww... Hopefully you'll change your mind. I'll be waiting here!"
  64: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0136 [0x03] Work_Zone[1] = 11*
@@ -522,7 +522,7 @@ SUBROUTINE_013E:
   9: 0x0165 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[8]
  10: 0x016A [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[9]
  11: 0x016F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2161*
- 12: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=15869*)
+ 12: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=15872*)
     → "Why, hello!"
  13: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0182 [0x06] ExtData[1]->WorkLocal[8] = 0
@@ -539,42 +539,42 @@ SUBROUTINE_01A7:
 
 SUBROUTINE_01AF:
  23: 0x01AF [0x02] IF !(ExtData[1]->WorkLocal[13] <= 0*) GOTO 0x039F
- 24: 0x01B7 [0x24] CREATE_DIALOG(message_id=15870*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[14])
+ 24: 0x01B7 [0x24] CREATE_DIALOG(message_id=15873*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[14])
     → "Inquire about what? [I want to play the game./I'm ready to turn in my shards./I want to exchange small seeds./Let me try the grab bag./How many seeds do I have?/I'd like the items you're holding for me./Dispose of what you're holding for me./Tell me how the game works./No questions for now.]"
  25: 0x01BE [0x25] WAIT_DIALOG_SELECT()
  26: 0x01BF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0240
  27: 0x01C7 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[0]
  28: 0x01CC [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x01DB
- 29: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15865*)
+ 29: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15868*)
     → "I can fly you right to the starting point. Just say the word!"
  30: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x01D8 [0x01] GOTO 0x0201
  32: 0x01DB [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x01EE
- 33: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15871*)
+ 33: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15874*)
     → "You look like you'll be able to try for even harder things in this game!"
  34: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15872*)
+ 35: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15875*)
     → "My friends'll try to get in your way even more. Are you sure you're ready?"
  36: 0x01EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x01EB [0x01] GOTO 0x0201
  38: 0x01EE [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0201
- 39: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15873*)
+ 39: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15876*)
     → "Wow! I'll bet you're ready for the championship round!"
  40: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=15874*)
+ 41: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=15877*)
     → "My friends'll surely never let you get away now! Sure you want to try anyway?"
  42: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x01FE [0x01] GOTO 0x0201
 
 SUBROUTINE_0201:
- 44: 0x0201 [0x24] CREATE_DIALOG(message_id=15866*, default_option=1*, option_flags=0*)
+ 44: 0x0201 [0x24] CREATE_DIALOG(message_id=15869*, default_option=1*, option_flags=0*)
     → "Ready for mischief? [The sun will bow before me!/The light...it burns us!]"
  45: 0x0208 [0x25] WAIT_DIALOG_SELECT()
  46: 0x0209 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0229
  47: 0x0211 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  48: 0x0212 [0x07] ExtData[1]->WorkLocal[1] += 100*
  49: 0x0217 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[1]
- 50: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=15868*)
+ 50: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=15871*)
     → "Good luck! Collect as many as you can and bring them back to me!"
  51: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0220 [0x0C] ExtData[1]->WorkLocal[13]--
@@ -600,18 +600,18 @@ SUBROUTINE_023D:
  70: 0x0287 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
  71: 0x028C [0x14] Work_Zone[3] *= 2*
  72: 0x0291 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [EventEntity, EventEntity], work=2161*
- 73: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15877*)
+ 73: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15880*)
     → "You did such a lovely job! You brought me $0 shard[/s] of sunlight, so I'll give you $1 small seed[/s]!"
  74: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x02A4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2161*
- 76: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15876*)
+ 76: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15879*)
     → "I'll be waiting for you to play our game again!"
  77: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x02B7 [0x01] GOTO 0x02C2
- 79: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=15875*)
+ 79: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=15878*)
     → "Oh no...you mean you didn't find even one single shard? That's terrible..."
  80: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x02BE [0x1D] PRINT_EVENT_MESSAGE(message_id=15876*)
+ 81: 0x02BE [0x1D] PRINT_EVENT_MESSAGE(message_id=15879*)
     → "I'll be waiting for you to play our game again!"
  82: 0x02C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -630,7 +630,7 @@ SUBROUTINE_02C2:
  94: 0x02F3 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x030C
  95: 0x02FB [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[0]
  96: 0x0300 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
- 97: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=15892*)
+ 97: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=15895*)
     → "You have a total of $0 small seed[/s]."
  98: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0309 [0x01] GOTO 0x039C
@@ -641,7 +641,7 @@ SUBROUTINE_02C2:
 104: 0x0321 [0x01] GOTO 0x039C
 105: 0x0324 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0340
 106: 0x032C [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[0]
-107: 0x0331 [0x1D] PRINT_EVENT_MESSAGE(message_id=15891*)
+107: 0x0331 [0x1D] PRINT_EVENT_MESSAGE(message_id=15894*)
     → "Then...you won't mind if I have it!"
 108: 0x0334 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0335 [0x03] Work_Zone[1] = 23*
@@ -649,31 +649,31 @@ SUBROUTINE_02C2:
 111: 0x033D [0x01] GOTO 0x039C
 112: 0x0340 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0374
 113: 0x0348 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[0]
-114: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=15893*)
+114: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=15896*)
     → "The goal of sunshine seeker is to collect shards of sunlight!"
 115: 0x0350 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=15857*)
+116: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=15860*)
     → "I'll give you some small seeds in exchange for the shards of sunlight you bring back."
 117: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
-118: 0x0355 [0x1D] PRINT_EVENT_MESSAGE(message_id=15858*)
+118: 0x0355 [0x1D] PRINT_EVENT_MESSAGE(message_id=15861*)
     → "Even better! I've got some special things available for you to buy with your seeds!"
 119: 0x0358 [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x0359 [0x1D] PRINT_EVENT_MESSAGE(message_id=15859*)
+120: 0x0359 [0x1D] PRINT_EVENT_MESSAGE(message_id=15862*)
     → "But here's the best part--If you try your luck with my grab bag enough times, you might win something really super!"
 121: 0x035C [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x035D [0x1D] PRINT_EVENT_MESSAGE(message_id=15860*)
+122: 0x035D [0x1D] PRINT_EVENT_MESSAGE(message_id=15863*)
     → "One of the rules of the game is that you must be a mandragora, like me, or else you won't be able to collect any shards."
 123: 0x0360 [0x23] WAIT_FOR_DIALOG_INTERACTION
-124: 0x0361 [0x1D] PRINT_EVENT_MESSAGE(message_id=15861*)
+124: 0x0361 [0x1D] PRINT_EVENT_MESSAGE(message_id=15864*)
     → "They can be found all around here. But if you don't hurry, someone else might gobble them up."
 125: 0x0364 [0x23] WAIT_FOR_DIALOG_INTERACTION
-126: 0x0365 [0x1D] PRINT_EVENT_MESSAGE(message_id=15862*)
+126: 0x0365 [0x1D] PRINT_EVENT_MESSAGE(message_id=15865*)
     → "But once you've taken them from one place, you can't get any more from there by searching it repeatedly!"
 127: 0x0368 [0x23] WAIT_FOR_DIALOG_INTERACTION
-128: 0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=15863*)
+128: 0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=15866*)
     → "Shards of sunlight are really delicate, so they'll disappear if you leave this area or take too much time getting them back to me."
 129: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=15864*)
+130: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=15867*)
     → "My friends'll also try to get in your way, so be sure not to get noticed!"
 131: 0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x0371 [0x01] GOTO 0x039C
@@ -723,10 +723,10 @@ SUBROUTINE_0433:
 SUBROUTINE_0455:
 167: 0x0455 [0x0B] ExtData[1]->WorkLocal[13]++
 168: 0x0458 [0x06] ExtData[1]->WorkLocal[9] = 0
-169: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=15878*)
+169: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=15881*)
     → "I can give you so many pretty gifts in exchange for your small seeds!"
 170: 0x045E [0x23] WAIT_FOR_DIALOG_INTERACTION
-171: 0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=15879*)
+171: 0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=15882*)
     → "Which would you like?"
 172: 0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -763,10 +763,10 @@ SUBROUTINE_05D9:
 198: 0x05D9 [0x0B] ExtData[1]->WorkLocal[13]++
 199: 0x05DC [0x06] ExtData[1]->WorkLocal[18] = 0
 200: 0x05DF [0x06] ExtData[1]->WorkLocal[9] = 0
-201: 0x05E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15882*)
+201: 0x05E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15885*)
     → "I've prepared a little grab bag you can enjoy for some small seeds."
 202: 0x05E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-203: 0x05E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15883*)
+203: 0x05E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15886*)
     → "Which would you like to try?"
 204: 0x05E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -785,7 +785,7 @@ SUBROUTINE_05EA:
 216: 0x0624 [0x03] ExtData[1]->WorkLocal[15] = 6*
 
 SUBROUTINE_0629:
-217: 0x0629 [0x24] CREATE_DIALOG(message_id=15884*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[15])
+217: 0x0629 [0x24] CREATE_DIALOG(message_id=15887*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[15])
     → "Pick your poison. ($30 seed[/s]) [The $0-seed grab bag./The $1-seed grab bag./The $2-seed grab bag./No poison, thanks.]"
 218: 0x0630 [0x25] WAIT_DIALOG_SELECT()
 219: 0x0631 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0642
@@ -819,10 +819,10 @@ SUBROUTINE_0642:
 245: 0x06A6 [0x01] GOTO 0x06A9
 
 SUBROUTINE_06A9:
-246: 0x06A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15885*)
+246: 0x06A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15888*)
     → "That grab bag contains prizes like $0, $1, and $2."
 247: 0x06AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-248: 0x06AD [0x24] CREATE_DIALOG(message_id=15886*, default_option=1*, option_flags=0*)
+248: 0x06AD [0x24] CREATE_DIALOG(message_id=15889*, default_option=1*, option_flags=0*)
     → "Press your luck? [C'mon, no whammies.../Not right now.]"
 249: 0x06B4 [0x25] WAIT_DIALOG_SELECT()
 250: 0x06B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0707
@@ -857,7 +857,7 @@ SUBROUTINE_0716:
 273: 0x0716 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 274: 0x0717 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0749
 275: 0x071F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [EventEntity, EventEntity], work=2161*
-276: 0x072E [0x1D] PRINT_EVENT_MESSAGE(message_id=15887*)
+276: 0x072E [0x1D] PRINT_EVENT_MESSAGE(message_id=15890*)
     → "You won $0! Congratulations!"
 277: 0x0731 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0732 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2161*
@@ -865,18 +865,18 @@ SUBROUTINE_0716:
 280: 0x0746 [0x01] GOTO 0x07BA
 281: 0x0749 [0x02] IF !(Work_Zone[6] == 81*) GOTO 0x07AC
 282: 0x0751 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [EventEntity, EventEntity], work=2161*
-283: 0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=15887*)
+283: 0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=15890*)
     → "You won $0! Congratulations!"
 284: 0x0763 [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x0764 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=2161*
-286: 0x0773 [0x1D] PRINT_EVENT_MESSAGE(message_id=15888*)
+286: 0x0773 [0x1D] PRINT_EVENT_MESSAGE(message_id=15891*)
     → "...But your bags are full! What do you want me to do with it?"
 287: 0x0776 [0x23] WAIT_FOR_DIALOG_INTERACTION
-288: 0x0777 [0x24] CREATE_DIALOG(message_id=15889*, default_option=0*, option_flags=0*)
+288: 0x0777 [0x24] CREATE_DIALOG(message_id=15892*, default_option=0*, option_flags=0*)
     → "What will you do with the $0? [Have Babban hold it./I don't want it.]"
 289: 0x077E [0x25] WAIT_DIALOG_SELECT()
 290: 0x077F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0794
-291: 0x0787 [0x1D] PRINT_EVENT_MESSAGE(message_id=15890*)
+291: 0x0787 [0x1D] PRINT_EVENT_MESSAGE(message_id=15893*)
     → "I'll make sure to keep it really safe! Come back when you've made room!"
 292: 0x078A [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x078B [0x03] Work_Zone[1] = 18*

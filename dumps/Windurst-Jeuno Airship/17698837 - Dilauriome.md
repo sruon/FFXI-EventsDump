@@ -22,53 +22,53 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0003      |           3 |
-|       1 | 0x1C4E      |        7246 |
+|       1 | 0x1C50      |        7248 |
 |       2 | 0x0201      |         513 |
-|       3 | 0x1C4F      |        7247 |
-|       4 | 0x1C50      |        7248 |
-|       5 | 0x1C51      |        7249 |
-|       6 | 0x1C52      |        7250 |
+|       3 | 0x1C51      |        7249 |
+|       4 | 0x1C52      |        7250 |
+|       5 | 0x1C53      |        7251 |
+|       6 | 0x1C54      |        7252 |
 |       7 | 0x0203      |         515 |
-|       8 | 0x1C53      |        7251 |
+|       8 | 0x1C55      |        7253 |
 |       9 | 0x499E      |       18846 |
-|      10 | 0x1C54      |        7252 |
-|      11 | 0x1C55      |        7253 |
-|      12 | 0x1C56      |        7254 |
+|      10 | 0x1C56      |        7254 |
+|      11 | 0x1C57      |        7255 |
+|      12 | 0x1C58      |        7256 |
 |      13 | 0x03A1      |         929 |
 |      14 | 0x046E      |        1134 |
-|      15 | 0x1C57      |        7255 |
-|      16 | 0x1C58      |        7256 |
+|      15 | 0x1C59      |        7257 |
+|      16 | 0x1C5A      |        7258 |
 |      17 | 0x0005      |           5 |
-|      18 | 0x1C59      |        7257 |
-|      19 | 0x1C5A      |        7258 |
+|      18 | 0x1C5B      |        7259 |
+|      19 | 0x1C5C      |        7260 |
 |      20 | 0x00C8      |         200 |
 |      21 | 0x0000      |           0 |
 |      22 | 0x0078      |         120 |
-|      23 | 0x1C5B      |        7259 |
-|      24 | 0x1C5C      |        7260 |
+|      23 | 0x1C5D      |        7261 |
+|      24 | 0x1C5E      |        7262 |
 |      25 | 0x00C0      |         192 |
-|      26 | 0x1C5D      |        7261 |
-|      27 | 0x1C5E      |        7262 |
+|      26 | 0x1C5F      |        7263 |
+|      27 | 0x1C60      |        7264 |
 
 ## String References
 
-- **7246**: That's right, Timmy, I can see for malms up here... Maybe next time you can come with me and I can show you!
-- **7247**: Oh, Happy New Year, [sonny/missy]. I was just talking with one of my...um...grandchildren on this here fan-dangled $0. Have you ever seen anything like it? Boy, the times, they are a-changing, yessiree! Why, back in my day, we had to send carrier crabs to deliver our messages. One time, back during the Crystal War, I had to wait seven shadowdays--that's what the Shadow Lord made everybody call them--to find out if my pappy wanted me to fetch kindlin' for the smokehouse.
-- **7248**: Anyway, what I was saying was that the view from this airboat always reminds me of the time my pappy took me for my first chocobo ride through Mindartia. The world seemed so big back then, and now everything looks so small...
-- **7249**: And so I decided to come up here and see if I couldn't paint it. Back before the war, I used to be a mighty-fine ar-tiste. Why, I once painted a picture for the Star Sibyl herself!
-- **7250**: A real looker she was! Those sparklin' eyes, those smooth, white gams. She had my heart a-hoppin' and my feet a-stompin'. Whoo-ee!
-- **7251**: So as I was saying, this linkamashell contraption has helped me keep in...contact...with little boys and girls all over Vana'diel. It's like they're right here, whisperin' in my ear with their little gabbers...
-- **7252**: Hm? That piece you're packin' looks kind of familiar-like. Is that $0? Why, I remember back before the war, all the cool cats used to wear two of those, one on each hip. Yes sir, the ladies would swoon when those 'dores went a-swayin'. That's how I met my first wife!
-- **7253**: Anyways, you don't see those around much anymore, so I decided to teach the kiddies how to carve 'em themselves.
-- **7254**: That one looks mighty nice, if you ask me. Tommy make that for you? No? Oh well.
-- **7255**: You know, I'm getting to like you, [sonny/missy]. You got moxie, and that's something most young'uns don't have these days. How about this--you bring me two $1 and $2, and I'll give you a special present in return.
-- **7256**: Just make sure you have that battledore equipped, or I might not recognize you. My eyesight's not as good as it used to be back before the war. Which reminds me of a story...
-- **7257**: Well, look who's back! Hold on a spell while I fix up your present.
-- **7258**: % begins scribbling quickly on the piece of parchment.
-- **7259**: Phew... Here you go, [sonny/missy].
-- **7260**: Did you know that back before the war, I once painted a picture for the Star Sibyl herself? She was so impressed with my work that she invited me over to her royal palace and we danced the jitterbug 'til sunup. A real swinger, she was! Whoo-ee!
-- **7261**: [Tommy! My, how you've grown! Not to old to sit on Grandpa's lap now, are you?/Hey, I remember you. How did you like that painting I did? What? You want another one!?]
-- **7262**: [You like that painting I drew for you last time? Did you put it up in your room? You're such a good boy, aren't you, Tommy! Now come over here and give Grandpa a big kiss!/Darn young folk these days ain't never satisfied with what you got, are you? When I was your age we were happy if we found half a flint stone while playin' in the outhouse! Now git!]
+- **7248**: That's right, Timmy, I can see for malms up here... Maybe next time you can come with me and I can show you!
+- **7249**: Oh, Happy New Year, [sonny/missy]. I was just talking with one of my...um...grandchildren on this here fan-dangled $0. Have you ever seen anything like it? Boy, the times, they are a-changing, yessiree! Why, back in my day, we had to send carrier crabs to deliver our messages. One time, back during the Crystal War, I had to wait seven shadowdays--that's what the Shadow Lord made everybody call them--to find out if my pappy wanted me to fetch kindlin' for the smokehouse.
+- **7250**: Anyway, what I was saying was that the view from this airboat always reminds me of the time my pappy took me for my first chocobo ride through Mindartia. The world seemed so big back then, and now everything looks so small...
+- **7251**: And so I decided to come up here and see if I couldn't paint it. Back before the war, I used to be a mighty-fine ar-tiste. Why, I once painted a picture for the Star Sibyl herself!
+- **7252**: A real looker she was! Those sparklin' eyes, those smooth, white gams. She had my heart a-hoppin' and my feet a-stompin'. Whoo-ee!
+- **7253**: So as I was saying, this linkamashell contraption has helped me keep in...contact...with little boys and girls all over Vana'diel. It's like they're right here, whisperin' in my ear with their little gabbers...
+- **7254**: Hm? That piece you're packin' looks kind of familiar-like. Is that $0? Why, I remember back before the war, all the cool cats used to wear two of those, one on each hip. Yes sir, the ladies would swoon when those 'dores went a-swayin'. That's how I met my first wife!
+- **7255**: Anyways, you don't see those around much anymore, so I decided to teach the kiddies how to carve 'em themselves.
+- **7256**: That one looks mighty nice, if you ask me. Tommy make that for you? No? Oh well.
+- **7257**: You know, I'm getting to like you, [sonny/missy]. You got moxie, and that's something most young'uns don't have these days. How about this--you bring me two $1 and $2, and I'll give you a special present in return.
+- **7258**: Just make sure you have that battledore equipped, or I might not recognize you. My eyesight's not as good as it used to be back before the war. Which reminds me of a story...
+- **7259**: Well, look who's back! Hold on a spell while I fix up your present.
+- **7260**: % begins scribbling quickly on the piece of parchment.
+- **7261**: Phew... Here you go, [sonny/missy].
+- **7262**: Did you know that back before the war, I once painted a picture for the Star Sibyl herself? She was so impressed with my work that she invited me over to her royal palace and we danced the jitterbug 'til sunup. A real swinger, she was! Whoo-ee!
+- **7263**: [Tommy! My, how you've grown! Not to old to sit on Grandpa's lap now, are you?/Hey, I remember you. How did you like that painting I did? What? You want another one!?]
+- **7264**: [You like that painting I drew for you last time? Did you put it up in your room? You're such a good boy, aren't you, Tommy! Now come over here and give Grandpa a big kiss!/Darn young folk these days ain't never satisfied with what you got, are you? When I was your age we were happy if we found half a flint stone while playin' in the outhouse! Now git!]
 
 ## Events
 
@@ -123,43 +123,43 @@
   1: 0x0002 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   2: 0x0007 [0x4A] EventEntity looks at LocalPlayer
   3: 0x0010 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x003D
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
     → "That's right, Timmy, I can see for malms up here... Maybe next time you can come with me and I can show you!"
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x03] Work_Zone[2] = 513*
-  7: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+  7: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
     → "Oh, Happy New Year, [sonny/missy]. I was just talking with one of my...um...grandchildren on this here fan-dangled $0. Have you ever seen anything like it? Boy, the times, they are a-changing, yessiree! Why, back in my day, we had to send carrier crabs to deliver our messages. One time, back during the Crystal War, I had to wait seven shadowdays--that's what the Shadow Lord made everybody call them--to find out if my pappy wanted me to fetch kindlin' for the smokehouse."
   8: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
+  9: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
     → "Anyway, what I was saying was that the view from this airboat always reminds me of the time my pappy took me for my first chocobo ride through Mindartia. The world seemed so big back then, and now everything looks so small..."
  10: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
+ 11: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
     → "And so I decided to come up here and see if I couldn't paint it. Back before the war, I used to be a mighty-fine ar-tiste. Why, I once painted a picture for the Star Sibyl herself!"
  12: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+ 13: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
     → "A real looker she was! Those sparklin' eyes, those smooth, white gams. She had my heart a-hoppin' and my feet a-stompin'. Whoo-ee!"
  14: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0031 [0x03] Work_Zone[2] = 515*
- 16: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
+ 16: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
     → "So as I was saying, this linkamashell contraption has helped me keep in...contact...with little boys and girls all over Vana'diel. It's like they're right here, whisperin' in my ear with their little gabbers..."
  17: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x003A [0x01] GOTO 0x0060
  19: 0x003D [0x03] Work_Zone[2] = 18846*
- 20: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+ 20: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "Hm? That piece you're packin' looks kind of familiar-like. Is that $0? Why, I remember back before the war, all the cool cats used to wear two of those, one on each hip. Yes sir, the ladies would swoon when those 'dores went a-swayin'. That's how I met my first wife!"
  21: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+ 22: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
     → "Anyways, you don't see those around much anymore, so I decided to teach the kiddies how to carve 'em themselves."
  23: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
+ 24: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
     → "That one looks mighty nice, if you ask me. Tommy make that for you? No? Oh well."
  25: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x004E [0x03] Work_Zone[3] = 929*
  27: 0x0053 [0x03] Work_Zone[4] = 1134*
- 28: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
+ 28: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "You know, I'm getting to like you, [sonny/missy]. You got moxie, and that's something most young'uns don't have these days. How about this--you bring me two $1 and $2, and I'll give you a special present in return."
  29: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+ 30: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "Just make sure you have that battledore equipped, or I might not recognize you. My eyesight's not as good as it used to be back before the war. Which reminds me of a story..."
  31: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -198,28 +198,28 @@ SUBROUTINE_0060:
   1: 0x0063 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   2: 0x0068 [0x4A] EventEntity looks at LocalPlayer
   3: 0x0071 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x00D3
-  4: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+  4: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → "Well, look who's back! Hold on a spell while I fix up your present."
   5: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x007D [0x48] [System] [7258*]:
+  6: 0x007D [0x48] [System] [7260*]:
     → "% begins scribbling quickly on the piece of parchment."
   7: 0x0080 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   8: 0x0091 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
   9: 0x00A0 [0x1C] WAIT(120* ticks)
  10: 0x00A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x00B4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 12: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
+ 12: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
     → "Phew... Here you go, [sonny/missy]."
  13: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+ 14: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "Did you know that back before the war, I once painted a picture for the Star Sibyl herself? She was so impressed with my work that she invited me over to her royal palace and we danced the jitterbug 'til sunup. A real swinger, she was! Whoo-ee!"
  15: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00CB [0x03] Work_Zone[1] = 192*
  17: 0x00D0 [0x01] GOTO 0x00DE
- 18: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
+ 18: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
     → "[Tommy! My, how you've grown! Not to old to sit on Grandpa's lap now, are you?/Hey, I remember you. How did you like that painting I did? What? You want another one!?]"
  19: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
+ 20: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
     → "[You like that painting I drew for you last time? Did you put it up in your room? You're such a good boy, aren't you, Tommy! Now come over here and give Grandpa a big kiss!/Darn young folk these days ain't never satisfied with what you got, are you? When I was your age we were happy if we found half a flint stone while playin' in the outhouse! Now git!]"
  21: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00DB [0x06] Work_Zone[1] = 0

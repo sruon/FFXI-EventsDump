@@ -21,20 +21,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x200E      |        8206 |
-|       1 | 0x200F      |        8207 |
+|       0 | 0x2010      |        8208 |
+|       1 | 0x2011      |        8209 |
 |       2 | 0x0151      |         337 |
-|       3 | 0x2010      |        8208 |
-|       4 | 0x2011      |        8209 |
-|       5 | 0x2012      |        8210 |
+|       3 | 0x2012      |        8210 |
+|       4 | 0x2013      |        8211 |
+|       5 | 0x2014      |        8212 |
 
 ## String References
 
-- **8206**: Did you catch a whiff of that smelly-welly flower monstaru lurking outside of here? I'm researching an all-new incense that'll out-stink it.
-- **8207**: <Sniff, sniff> You smell just like an incense I make. You've metaru my friend, haven't you?
-- **8208**: Hey, could you do me an itsy-bitsy teenie-weenie favor? Could you take this and give it to my friend next time you're headed for the Eldieme Necropolis?
-- **8209**: I'd much rather go and offer the incense myself, but the living need attention too, you know. We wouldn't wantaru too many souls to pray for now, would we?
-- **8210**: It's the next best thingy-wingy I can do, so make sure my friend gets the incense, okay? Thanks for helping outaru!
+- **8208**: Did you catch a whiff of that smelly-welly flower monstaru lurking outside of here? I'm researching an all-new incense that'll out-stink it.
+- **8209**: <Sniff, sniff> You smell just like an incense I make. You've metaru my friend, haven't you?
+- **8210**: Hey, could you do me an itsy-bitsy teenie-weenie favor? Could you take this and give it to my friend next time you're headed for the Eldieme Necropolis?
+- **8211**: I'd much rather go and offer the incense myself, but the living need attention too, you know. We wouldn't wantaru too many souls to pray for now, would we?
+- **8212**: It's the next best thingy-wingy I can do, so make sure my friend gets the incense, okay? Thanks for helping outaru!
 
 ## Events
 
@@ -80,7 +80,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
     → "Did you catch a whiff of that smelly-welly flower monstaru lurking outside of here? I'm researching an all-new incense that'll out-stink it."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -114,22 +114,22 @@
 ```
   0: 0x000C [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
+  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
     → "<Sniff, sniff> You smell just like an incense I make. You've metaru my friend, haven't you?"
   3: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0016 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0017 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0018 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=337*
-  7: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
+  7: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
     → "Hey, could you do me an itsy-bitsy teenie-weenie favor? Could you take this and give it to my friend next time you're headed for the Eldieme Necropolis?"
   8: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
+  9: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8211*)
     → "I'd much rather go and offer the incense myself, but the living need attention too, you know. We wouldn't wantaru too many souls to pray for now, would we?"
  10: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x002F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=337*
  12: 0x003E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  13: 0x004B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=337*
- 14: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
+ 14: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8212*)
     → "It's the next best thingy-wingy I can do, so make sure my friend gets the incense, okay? Thanks for helping outaru!"
  15: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x005E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]

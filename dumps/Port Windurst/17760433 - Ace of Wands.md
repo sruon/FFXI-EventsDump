@@ -60,17 +60,17 @@
 |       8 | 0xFFFFE891  |  4294961297 |
 |       9 | 0xFFFFF73C  |  4294965052 |
 |      10 | 0x2AB43     |      174915 |
-|      11 | 0x30E6      |       12518 |
-|      12 | 0x30EB      |       12523 |
-|      13 | 0x30F0      |       12528 |
-|      14 | 0x30F3      |       12531 |
+|      11 | 0x30E8      |       12520 |
+|      12 | 0x30ED      |       12525 |
+|      13 | 0x30F2      |       12530 |
+|      14 | 0x30F5      |       12533 |
 
 ## String References
 
-- **12518**: You have no need of that. If you don't return it to us... You can say goodbye to your friend.
-- **12523**: Let this be a lesson to you...
-- **12528**: Your Majesty!
-- **12531**: We understand. We live but to serve you, your Majesty.
+- **12520**: You have no need of that. If you don't return it to us... You can say goodbye to your friend.
+- **12525**: Let this be a lesson to you...
+- **12530**: Your Majesty!
+- **12533**: We understand. We live but to serve you, your Majesty.
 
 ## Events
 
@@ -695,7 +695,7 @@
 #### Opcodes
 
 ```
-  0: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=12518*)
+  0: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=12520*)
     → "You have no need of that. If you don't return it to us... You can say goodbye to your friend."
   1: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0173 [0x00] END_REQSTACK()
@@ -720,7 +720,7 @@
 #### Opcodes
 
 ```
-  0: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=12523*)
+  0: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=12525*)
     → "Let this be a lesson to you..."
   1: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0178 [0x00] END_REQSTACK()
@@ -745,7 +745,7 @@
 #### Opcodes
 
 ```
-  0: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=12528*)
+  0: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=12530*)
     → "Your Majesty!"
   1: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017D [0x00] END_REQSTACK()
@@ -771,7 +771,7 @@
 #### Opcodes
 
 ```
-  0: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=12531*)
+  0: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=12533*)
     → "We understand. We live but to serve you, your Majesty."
   1: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0182 [0x00] END_REQSTACK()

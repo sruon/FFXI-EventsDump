@@ -29,8 +29,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
-|       1 | 0x28EC      |       10476 |
-|       2 | 0x28EF      |       10479 |
+|       1 | 0x28EE      |       10478 |
+|       2 | 0x28F1      |       10481 |
 |       3 | 0x000D      |          13 |
 |       4 | 0x4E20      |       20000 |
 |       5 | 0xFFFF2DDC  |  4294913500 |
@@ -41,8 +41,8 @@
 
 ## String References
 
-- **10476**: Talk to Sajhra at the counter if you would like to enter town.
-- **10479**: This is the exit for arriving passengers.
+- **10478**: Talk to Sajhra at the counter if you would like to enter town.
+- **10481**: This is the exit for arriving passengers.
 
 ## Events
 
@@ -92,7 +92,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10476*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10478*)
     → "Talk to Sajhra at the counter if you would like to enter town."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x21] END_EVENT
@@ -146,7 +146,7 @@
   1: 0x0023 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0024 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0025 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10479*)
+  4: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10481*)
     → "This is the exit for arriving passengers."
   5: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0038 [0x21] END_EVENT

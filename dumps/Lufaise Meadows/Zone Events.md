@@ -80,7 +80,7 @@
 |      34 | 0x00C8      |         200 |
 |      35 | 0x0000      |           0 |
 |      36 | 0x003D      |          61 |
-|      37 | 0x1E42      |        7746 |
+|      37 | 0x1E44      |        7748 |
 |      38 | 0x0078      |         120 |
 |      39 | 0x0013      |          19 |
 |      40 | 0xFFFCF339  |  4294767417 |
@@ -92,28 +92,28 @@
 |      46 | 0xFFFCF330  |  4294767408 |
 |      47 | 0x4AED3     |      306899 |
 |      48 | 0xFFFFC064  |  4294951012 |
-|      49 | 0x1E6C      |        7788 |
+|      49 | 0x1E6E      |        7790 |
 |      50 | 0x001E      |          30 |
 |      51 | 0x003C      |          60 |
-|      52 | 0x1E6D      |        7789 |
+|      52 | 0x1E6F      |        7791 |
 |      53 | 0x005A      |          90 |
-|      54 | 0x1E6E      |        7790 |
+|      54 | 0x1E70      |        7792 |
 |      55 | 0xFFFCDF9E  |  4294762398 |
 |      56 | 0x4B036     |      307254 |
 |      57 | 0x085E      |        2142 |
 |      58 | 0x0010      |          16 |
-|      59 | 0x1E6F      |        7791 |
+|      59 | 0x1E71      |        7793 |
 |      60 | 0x001A      |          26 |
-|      61 | 0x1E70      |        7792 |
-|      62 | 0x1E71      |        7793 |
-|      63 | 0x1E72      |        7794 |
+|      61 | 0x1E72      |        7794 |
+|      62 | 0x1E73      |        7795 |
+|      63 | 0x1E74      |        7796 |
 |      64 | 0xFFFCF16B  |  4294766955 |
 |      65 | 0x4A4AC     |      304300 |
 |      66 | 0x0588      |        1416 |
-|      67 | 0x1E73      |        7795 |
-|      68 | 0x1E74      |        7796 |
-|      69 | 0x1E75      |        7797 |
-|      70 | 0x1E76      |        7798 |
+|      67 | 0x1E75      |        7797 |
+|      68 | 0x1E76      |        7798 |
+|      69 | 0x1E77      |        7799 |
+|      70 | 0x1E78      |        7800 |
 |      71 | 0x00E6      |         230 |
 |      72 | 0x31864     |      202852 |
 |      73 | 0x52B0C     |      338700 |
@@ -640,7 +640,7 @@ SUBROUTINE_003D:
   6: 0x0168 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [EventEntity, EventEntity], work=200*
   7: 0x0177 [0x6E] Travonce (ID: 16875883/0x0101816B) uses emote 8*
   8: 0x017E [0x99] Wait for Travonce (ID: 16875883/0x0101816B) animation to complete
-  9: 0x0183 [0x2B] Travonce (ID: 16875883/0x0101816B) [7746*]:
+  9: 0x0183 [0x2B] Travonce (ID: 16875883/0x0101816B) [7748*]:
     → "I was wondering when you'd finally get here. Now you know what to do: Concentrate on the monsters while I concentrate on the "big one!""
  10: 0x018A [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x018B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sft0" with entities [EventEntity, EventEntity], work=61*
@@ -745,7 +745,7 @@ SUBROUTINE_003D:
  13: 0x0234 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
  14: 0x0237 [0x1F] MOVE_ENTITY: EventEntity moves to X=-199.888*, Z=306.899*, Y=-16.284*
  15: 0x023F [0x1F] MOVE_ENTITY: Update entity position (mode=1)
- 16: 0x0241 [0x2B] Chemioue (ID: 16875892/0x01018174) [7788*]:
+ 16: 0x0241 [0x2B] Chemioue (ID: 16875892/0x01018174) [7790*]:
     → "What in Altana's name are you doing here?"
  17: 0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0249 [0x1C] WAIT(30* ticks)
@@ -763,12 +763,12 @@ SUBROUTINE_003D:
  30: 0x02A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
  31: 0x02B4 [0x1C] WAIT(30* ticks)
  32: 0x02B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Chemioue (ID: 16875892/0x01018174), Chemioue (ID: 16875892/0x01018174)], work=33*
- 33: 0x02C6 [0x2B] Chemioue (ID: 16875892/0x01018174) [7789*]:
+ 33: 0x02C6 [0x2B] Chemioue (ID: 16875892/0x01018174) [7791*]:
     → "Me? I have come to collect ingredients to make medicine."
  34: 0x02CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x02CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Chemioue (ID: 16875892/0x01018174), Chemioue (ID: 16875892/0x01018174)], work=33*
  36: 0x02DD [0x1C] WAIT(90* ticks)
- 37: 0x02E0 [0x2B] Chemioue (ID: 16875892/0x01018174) [7790*]:
+ 37: 0x02E0 [0x2B] Chemioue (ID: 16875892/0x01018174) [7792*]:
     → "You say Parelbriaux visited this spot as well?"
  38: 0x02E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x02E8 [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=33*
@@ -778,7 +778,7 @@ SUBROUTINE_003D:
  43: 0x0318 [0x99] Wait for Chemioue (ID: 16875892/0x01018174) animation to complete
  44: 0x031D [0x1E] EventEntity looks at Chemioue (ID: 16875892/0x01018174) and starts talking
  45: 0x0322 [0x1C] WAIT(90* ticks)
- 46: 0x0325 [0x2B] Chemioue (ID: 16875892/0x01018174) [7791*]:
+ 46: 0x0325 [0x2B] Chemioue (ID: 16875892/0x01018174) [7793*]:
     → "But why would he...?"
  47: 0x032C [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x032D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -793,10 +793,10 @@ SUBROUTINE_003D:
  57: 0x0398 [0x1C] WAIT(90* ticks)
  58: 0x039B [0x6E] Chemioue (ID: 16875892/0x01018174) uses emote 26*
  59: 0x03A2 [0x99] Wait for Chemioue (ID: 16875892/0x01018174) animation to complete
- 60: 0x03A7 [0x2B] Chemioue (ID: 16875892/0x01018174) [7792*]:
+ 60: 0x03A7 [0x2B] Chemioue (ID: 16875892/0x01018174) [7794*]:
     → "I must hurry back to the safehold!"
  61: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x03AF [0x2B] Chemioue (ID: 16875892/0x01018174) [7793*]:
+ 62: 0x03AF [0x2B] Chemioue (ID: 16875892/0x01018174) [7795*]:
     → "Parelbriaux may be obnoxious at times but..."
  63: 0x03B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x03B7 [0x1C] WAIT(30* ticks)
@@ -806,7 +806,7 @@ SUBROUTINE_003D:
  68: 0x03E3 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
  69: 0x03E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
  70: 0x03F6 [0x1C] WAIT(90* ticks)
- 71: 0x03F9 [0x2B] Chemioue (ID: 16875892/0x01018174) [7794*]:
+ 71: 0x03F9 [0x2B] Chemioue (ID: 16875892/0x01018174) [7796*]:
     → "...but if anything terrible were to befall him..."
  72: 0x0400 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0401 [0x1C] WAIT(60* ticks)
@@ -816,13 +816,13 @@ SUBROUTINE_003D:
  77: 0x041E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
  78: 0x042F [0x1C] WAIT(30* ticks)
  79: 0x0432 [0x79] Chemioue (ID: 16875892/0x01018174) looks at LocalPlayer (Basic look)
- 80: 0x043C [0x2B] Chemioue (ID: 16875892/0x01018174) [7795*]:
+ 80: 0x043C [0x2B] Chemioue (ID: 16875892/0x01018174) [7797*]:
     → "Oh, I heard from Ondieulix that you were searching for my bag."
  81: 0x0443 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0444 [0x1C] WAIT(90* ticks)
  83: 0x0447 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Chemioue (ID: 16875892/0x01018174), Chemioue (ID: 16875892/0x01018174)], work=33*
  84: 0x0456 [0x1C] WAIT(30* ticks)
- 85: 0x0459 [0x2B] Chemioue (ID: 16875892/0x01018174) [7796*]:
+ 85: 0x0459 [0x2B] Chemioue (ID: 16875892/0x01018174) [7798*]:
     → "... Thank you..."
  86: 0x0460 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0461 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Chemioue (ID: 16875892/0x01018174), Chemioue (ID: 16875892/0x01018174)], work=33*
@@ -834,7 +834,7 @@ SUBROUTINE_003D:
  93: 0x04AD [0x4A] Chemioue (ID: 16875892/0x01018174) looks at LocalPlayer
  94: 0x04B6 [0x1C] WAIT(60* ticks)
  95: 0x04B9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Chemioue (ID: 16875892/0x01018174), Chemioue (ID: 16875892/0x01018174)], work=33*
- 96: 0x04C8 [0x2B] Chemioue (ID: 16875892/0x01018174) [7797*]:
+ 96: 0x04C8 [0x2B] Chemioue (ID: 16875892/0x01018174) [7799*]:
     → "Maybe Ondieulix was right."
  97: 0x04CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x04D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Chemioue (ID: 16875892/0x01018174), Chemioue (ID: 16875892/0x01018174)], work=33*
@@ -843,7 +843,7 @@ SUBROUTINE_003D:
 101: 0x04E7 [0x1C] WAIT(90* ticks)
 102: 0x04EA [0x79] Chemioue (ID: 16875892/0x01018174) looks at ??? (ID: 16875891/0x01018173) (Basic look)
 103: 0x04F4 [0x1C] WAIT(60* ticks)
-104: 0x04F7 [0x2B] Chemioue (ID: 16875892/0x01018174) [7798*]:
+104: 0x04F7 [0x2B] Chemioue (ID: 16875892/0x01018174) [7800*]:
     → "Maybe adventurers are not all that bad..."
 105: 0x04FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x04FF [0x1C] WAIT(60* ticks)

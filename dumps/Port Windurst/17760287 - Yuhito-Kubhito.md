@@ -30,48 +30,48 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2E4E      |       11854 |
+|       0 | 0x2E50      |       11856 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0xFFFFFFFC  |  4294967292 |
 |       4 | 0x0003      |           3 |
-|       5 | 0x2E61      |       11873 |
-|       6 | 0x2E62      |       11874 |
-|       7 | 0x2E63      |       11875 |
-|       8 | 0x2E64      |       11876 |
-|       9 | 0x2E65      |       11877 |
-|      10 | 0x2E66      |       11878 |
+|       5 | 0x2E63      |       11875 |
+|       6 | 0x2E64      |       11876 |
+|       7 | 0x2E65      |       11877 |
+|       8 | 0x2E66      |       11878 |
+|       9 | 0x2E67      |       11879 |
+|      10 | 0x2E68      |       11880 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x2E4C      |       11852 |
-|      13 | 0x2E4D      |       11853 |
-|      14 | 0x2E4F      |       11855 |
-|      15 | 0x2E50      |       11856 |
-|      16 | 0x2E51      |       11857 |
-|      17 | 0x2E52      |       11858 |
-|      18 | 0x2E53      |       11859 |
-|      19 | 0x2E54      |       11860 |
-|      20 | 0x2E55      |       11861 |
-|      21 | 0x2E56      |       11862 |
+|      12 | 0x2E4E      |       11854 |
+|      13 | 0x2E4F      |       11855 |
+|      14 | 0x2E51      |       11857 |
+|      15 | 0x2E52      |       11858 |
+|      16 | 0x2E53      |       11859 |
+|      17 | 0x2E54      |       11860 |
+|      18 | 0x2E55      |       11861 |
+|      19 | 0x2E56      |       11862 |
+|      20 | 0x2E57      |       11863 |
+|      21 | 0x2E58      |       11864 |
 
 ## String References
 
-- **11852**: Wh-what? You don't want to see my chart of elemental correlations, do you? 'Cause if you do, well, I'm sorry, I don't know anything about such a thing.
-- **11853**: Eeew... Well, if you're going to be so pushy about it... Here, but only because you're begging me to show it to you...
-- **11854**: View the Chart of Elemental Correlations? [Yes./No.]
-- **11855**: Well, that's your own choice. Just don't come crying to me when you try to put out a fire with powerful wind magic and end up creating a sea of flames instead!
-- **11856**: Okay, okay...hold your horses. This is strictly between you and me, all rightaru?
-- **11857**: Of course, you know about the prime elements, rightaru? They are the eight elements or energies that control the universe. This chart shows their interrelationships.
-- **11858**: The six elements on the perimeter are in cyclical ascendancy over one another.
-- **11859**: Or, putting it simply-wimply: Water dominates fire, fire dominates ice, ice dominates wind...
-- **11860**: ...while wind dominates over earth, earth dominates lightning, and lightning dominates water.
-- **11861**: The two elements in the center, light and darkness, are in direct opposition to each other.
-- **11862**: And there you have it... But remember, this is our little secret, rightaru? Come back and ask to see it again whenever you need to jog your memory.
-- **11873**: Oh, and one other thing: these elements are also closely connected to your health condition!
-- **11874**: I can explain more about this if you're interested.
-- **11875**: Hear him out? [Yes./No.]
-- **11876**: Then listen up... Disease is to fire as paralysis is to ice, silence is to wind as petrification is to earth, and stun is to lightning as poison is to water.
-- **11877**: Finally, there is charm, which is related to light, while blind, curse, and sleep are infused with the power of darkness.
-- **11878**: What this all means is this: if your armor resists certain elements, then it will also help prevent the status ailments tied to those elements.
+- **11854**: Wh-what? You don't want to see my chart of elemental correlations, do you? 'Cause if you do, well, I'm sorry, I don't know anything about such a thing.
+- **11855**: Eeew... Well, if you're going to be so pushy about it... Here, but only because you're begging me to show it to you...
+- **11856**: View the Chart of Elemental Correlations? [Yes./No.]
+- **11857**: Well, that's your own choice. Just don't come crying to me when you try to put out a fire with powerful wind magic and end up creating a sea of flames instead!
+- **11858**: Okay, okay...hold your horses. This is strictly between you and me, all rightaru?
+- **11859**: Of course, you know about the prime elements, rightaru? They are the eight elements or energies that control the universe. This chart shows their interrelationships.
+- **11860**: The six elements on the perimeter are in cyclical ascendancy over one another.
+- **11861**: Or, putting it simply-wimply: Water dominates fire, fire dominates ice, ice dominates wind...
+- **11862**: ...while wind dominates over earth, earth dominates lightning, and lightning dominates water.
+- **11863**: The two elements in the center, light and darkness, are in direct opposition to each other.
+- **11864**: And there you have it... But remember, this is our little secret, rightaru? Come back and ask to see it again whenever you need to jog your memory.
+- **11875**: Oh, and one other thing: these elements are also closely connected to your health condition!
+- **11876**: I can explain more about this if you're interested.
+- **11877**: Hear him out? [Yes./No.]
+- **11878**: Then listen up... Disease is to fire as paralysis is to ice, silence is to wind as petrification is to earth, and stun is to lightning as poison is to water.
+- **11879**: Finally, there is charm, which is related to light, while blind, curse, and sleep are infused with the power of darkness.
+- **11880**: What this all means is this: if your armor resists certain elements, then it will also help prevent the status ailments tied to those elements.
 
 ## Events
 
@@ -133,7 +133,7 @@
   2: 0x000D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Yuhito-Kubhito (ID: 17760287/0x010F001F), tag_num=0x03)
-  5: 0x0016 [0x24] CREATE_DIALOG(message_id=11854*, default_option=1*, option_flags=0*)
+  5: 0x0016 [0x24] CREATE_DIALOG(message_id=11856*, default_option=1*, option_flags=0*)
     → "View the Chart of Elemental Correlations? [Yes./No.]"
   6: 0x001D [0x25] WAIT_DIALOG_SELECT()
   7: 0x001E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B4
@@ -151,25 +151,25 @@ SUBROUTINE_004A:
  17: 0x0058 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Yuhito-Kubhito (ID: 17760287/0x010F001F), tag_num=0x08)
  18: 0x005F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Yuhito-Kubhito (ID: 17760287/0x010F001F), tag_num=0x09)
  19: 0x0066 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Yuhito-Kubhito (ID: 17760287/0x010F001F), tag_num=0x0A)
- 20: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=11873*)
+ 20: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=11875*)
     → "Oh, and one other thing: these elements are also closely connected to your health condition!"
  21: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0071 [0x8A] CLOSE_MAP()
- 23: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=11874*)
+ 23: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=11876*)
     → "I can explain more about this if you're interested."
  24: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0076 [0x24] CREATE_DIALOG(message_id=11875*, default_option=1*, option_flags=0*)
+ 25: 0x0076 [0x24] CREATE_DIALOG(message_id=11877*, default_option=1*, option_flags=0*)
     → "Hear him out? [Yes./No.]"
  26: 0x007D [0x25] WAIT_DIALOG_SELECT()
  27: 0x007E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009A
  28: 0x0086 [0x03] Work_Zone[1] = 1*
- 29: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=11876*)
+ 29: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=11878*)
     → "Then listen up... Disease is to fire as paralysis is to ice, silence is to wind as petrification is to earth, and stun is to lightning as poison is to water."
  30: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=11877*)
+ 31: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=11879*)
     → "Finally, there is charm, which is related to light, while blind, curse, and sleep are infused with the power of darkness."
  32: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=11878*)
+ 33: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=11880*)
     → "What this all means is this: if your armor resists certain elements, then it will also help prevent the status ailments tied to those elements."
  34: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0097 [0x01] GOTO 0x00AA
@@ -211,7 +211,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=11852*)
+  0: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=11854*)
     → "Wh-what? You don't want to see my chart of elemental correlations, do you? 'Cause if you do, well, I'm sorry, I don't know anything about such a thing."
   1: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00D3 [0x00] END_REQSTACK()
@@ -236,7 +236,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11853*)
+  0: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11855*)
     → "Eeew... Well, if you're going to be so pushy about it... Here, but only because you're begging me to show it to you..."
   1: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00D8 [0x00] END_REQSTACK()
@@ -261,7 +261,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11855*)
+  0: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11857*)
     → "Well, that's your own choice. Just don't come crying to me when you try to put out a fire with powerful wind magic and end up creating a sea of flames instead!"
   1: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00DD [0x00] END_REQSTACK()
@@ -287,7 +287,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=11856*)
+  0: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=11858*)
     → "Okay, okay...hold your horses. This is strictly between you and me, all rightaru?"
   1: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E2 [0x00] END_REQSTACK()
@@ -312,7 +312,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11857*)
+  0: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11859*)
     → "Of course, you know about the prime elements, rightaru? They are the eight elements or energies that control the universe. This chart shows their interrelationships."
   1: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E7 [0x00] END_REQSTACK()
@@ -337,7 +337,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11858*)
+  0: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11860*)
     → "The six elements on the perimeter are in cyclical ascendancy over one another."
   1: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00EC [0x00] END_REQSTACK()
@@ -363,7 +363,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=11859*)
+  0: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=11861*)
     → "Or, putting it simply-wimply: Water dominates fire, fire dominates ice, ice dominates wind..."
   1: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F1 [0x00] END_REQSTACK()
@@ -388,7 +388,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11860*)
+  0: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11862*)
     → "...while wind dominates over earth, earth dominates lightning, and lightning dominates water."
   1: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F6 [0x00] END_REQSTACK()
@@ -413,7 +413,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11861*)
+  0: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11863*)
     → "The two elements in the center, light and darkness, are in direct opposition to each other."
   1: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00FB [0x00] END_REQSTACK()
@@ -439,7 +439,7 @@ SUBROUTINE_00CB:
 #### Opcodes
 
 ```
-  0: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11862*)
+  0: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11864*)
     → "And there you have it... But remember, this is our little secret, rightaru? Come back and ask to see it again whenever you need to jog your memory."
   1: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0100 [0x00] END_REQSTACK()

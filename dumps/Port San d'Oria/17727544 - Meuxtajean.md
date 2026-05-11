@@ -21,14 +21,14 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1DE8      |        7656 |
+|       1 | 0x1DEA      |        7658 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1DE9      |        7657 |
+|       3 | 0x1DEB      |        7659 |
 
 ## String References
 
-- **7656**: This passage leads to the airship docks. There's a magic shop if you take the corridor on the right there.
-- **7657**: Magic is the specialty of the Federation of Windurst, of course. We have some, but for true sorcery you have to search there.
+- **7658**: This passage leads to the airship docks. There's a magic shop if you take the corridor on the right there.
+- **7659**: Magic is the specialty of the Federation of Windurst, of course. We have some, but for true sorcery you have to search there.
 
 ## Events
 
@@ -79,11 +79,11 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7656*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7658*)
     → "This passage leads to the airship docks. There's a magic shop if you take the corridor on the right there."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x1C] WAIT(30* ticks)
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7657*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7659*)
     → "Magic is the specialty of the Federation of Windurst, of course. We have some, but for true sorcery you have to search there."
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

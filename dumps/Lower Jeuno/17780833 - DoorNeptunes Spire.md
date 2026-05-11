@@ -26,8 +26,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x01C9      |         457 |
-|       1 | 0x20E8      |        8424 |
-|       2 | 0x20E9      |        8425 |
+|       1 | 0x20EA      |        8426 |
+|       2 | 0x20EB      |        8427 |
 |       3 | 0x00C8      |         200 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0003      |           3 |
@@ -37,20 +37,20 @@
 |       9 | 0x0091      |         145 |
 |      10 | 0x003C      |          60 |
 |      11 | 0x00B4      |         180 |
-|      12 | 0x20EA      |        8426 |
+|      12 | 0x20EC      |        8428 |
 |      13 | 0x000A      |          10 |
-|      14 | 0x20EB      |        8427 |
-|      15 | 0x20EC      |        8428 |
-|      16 | 0x20ED      |        8429 |
-|      17 | 0x20EE      |        8430 |
-|      18 | 0x20EF      |        8431 |
-|      19 | 0x20F0      |        8432 |
-|      20 | 0x20F1      |        8433 |
-|      21 | 0x20F2      |        8434 |
-|      22 | 0x20F3      |        8435 |
-|      23 | 0x20F4      |        8436 |
-|      24 | 0x20F5      |        8437 |
-|      25 | 0x20F6      |        8438 |
+|      14 | 0x20ED      |        8429 |
+|      15 | 0x20EE      |        8430 |
+|      16 | 0x20EF      |        8431 |
+|      17 | 0x20F0      |        8432 |
+|      18 | 0x20F1      |        8433 |
+|      19 | 0x20F2      |        8434 |
+|      20 | 0x20F3      |        8435 |
+|      21 | 0x20F4      |        8436 |
+|      22 | 0x20F5      |        8437 |
+|      23 | 0x20F6      |        8438 |
+|      24 | 0x20F7      |        8439 |
+|      25 | 0x20F8      |        8440 |
 |      26 | 0x006E      |         110 |
 |      27 | 0x001E      |          30 |
 |      28 | 0x0002      |           2 |
@@ -393,11 +393,11 @@
   6: 0x0015 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0016 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Aldo (ID: 17780743/0x010F5007) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x001B [0x27] REQ_SET(priority=0x03, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x33)
-  9: 0x0022 [0x2B] Aldo (ID: 17780743/0x010F5007) [8424*]:
+  9: 0x0022 [0x2B] Aldo (ID: 17780743/0x010F5007) [8426*]:
     → "Oh, it's you. I see that you made it out of there alive."
  10: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x002A [0x27] REQ_SET(priority=0x04, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x34)
- 12: 0x0031 [0x2B] Aldo (ID: 17780743/0x010F5007) [8425*]:
+ 12: 0x0031 [0x2B] Aldo (ID: 17780743/0x010F5007) [8427*]:
     → "Me? I'm fine, but Verena's been unconscious since we returned. Come with me."
  13: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0039 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Aldo (ID: 17780743/0x010F5007))
@@ -428,7 +428,7 @@
  39: 0x0101 [0x4D] EventEntity->StatusEvent = 9 // Close door
  40: 0x0102 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Aldo (ID: 17780743/0x010F5007))
  41: 0x0108 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "b003" with entities [LocalPlayer, LocalPlayer], work=145*
- 42: 0x0117 [0x2B] Aldo (ID: 17780743/0x010F5007) [8426*]:
+ 42: 0x0117 [0x2B] Aldo (ID: 17780743/0x010F5007) [8428*]:
     → "From what I see, her mind's been poisoned. I never knew that Eald'narche had that kind of power..."
  43: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x011F [0x1C] WAIT(10* ticks)
@@ -440,52 +440,52 @@
  50: 0x014F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Aldo (ID: 17780743/0x010F5007) Render.Flags0 and Render.Flags3 conditions are met
  51: 0x0154 [0x1C] WAIT(10* ticks)
  52: 0x0157 [0x27] REQ_SET(priority=0x03, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x2F)
- 53: 0x015E [0x2B] Aldo (ID: 17780743/0x010F5007) [8427*]:
+ 53: 0x015E [0x2B] Aldo (ID: 17780743/0x010F5007) [8429*]:
     → "Now that you mention it, I hardly know anything about him."
  54: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0166 [0x27] REQ_SET(priority=0x03, entity_id=Verena (ID: 17780744/0x010F5008), tag_num=0x0C)
  56: 0x016D [0x27] REQ_SET(priority=0x04, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x30)
- 57: 0x0174 [0x2B] Aldo (ID: 17780743/0x010F5007) [8428*]:
+ 57: 0x0174 [0x2B] Aldo (ID: 17780743/0x010F5007) [8430*]:
     → "I guess I never really thought that I needed to know. If I got what I wanted, I was happy."
  58: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x017C [0x2A] GET_REQ_LEVEL(level=3, entity_id=Verena (ID: 17780744/0x010F5008))
- 60: 0x0182 [0x2B] Verena (ID: 17780744/0x010F5008) [8429*]:
+ 60: 0x0182 [0x2B] Verena (ID: 17780744/0x010F5008) [8431*]:
     → "Al...do..."
  61: 0x0189 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x018A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "b004" with entities [LocalPlayer, LocalPlayer], work=[145*, 0*]
  63: 0x019B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "b004" with entities [LocalPlayer, LocalPlayer], work=145*
  64: 0x01AA [0x27] REQ_SET(priority=0x03, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x25)
- 65: 0x01B1 [0x2B] Aldo (ID: 17780743/0x010F5007) [8430*]:
+ 65: 0x01B1 [0x2B] Aldo (ID: 17780743/0x010F5007) [8432*]:
     → "Verena! Do you know who I am, Verena?"
  66: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x01B9 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Aldo (ID: 17780743/0x010F5007))
- 68: 0x01BF [0x2B] Verena (ID: 17780744/0x010F5008) [8431*]:
+ 68: 0x01BF [0x2B] Verena (ID: 17780744/0x010F5008) [8433*]:
     → "Aldo? Yes, I'm alright..."
  69: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x01C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "b005" with entities [LocalPlayer, LocalPlayer], work=[145*, 0*]
  71: 0x01D8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "b005" with entities [LocalPlayer, LocalPlayer], work=145*
  72: 0x01E7 [0x27] REQ_SET(priority=0x03, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x2F)
- 73: 0x01EE [0x2B] Aldo (ID: 17780743/0x010F5007) [8432*]:
+ 73: 0x01EE [0x2B] Aldo (ID: 17780743/0x010F5007) [8434*]:
     → "So, do you...do you remember what happened in the Stellar Fulcrum?"
  74: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x01F6 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x30)
- 76: 0x01FD [0x2B] Verena (ID: 17780744/0x010F5008) [8433*]:
+ 76: 0x01FD [0x2B] Verena (ID: 17780744/0x010F5008) [8435*]:
     → "Not really... It was all like watching a play..."
  77: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x0205 [0x2B] Aldo (ID: 17780743/0x010F5007) [8434*]:
+ 78: 0x0205 [0x2B] Aldo (ID: 17780743/0x010F5007) [8436*]:
     → "I see..."
  79: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x020D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "b006" with entities [LocalPlayer, LocalPlayer], work=[145*, 0*]
  81: 0x021E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "b006" with entities [LocalPlayer, LocalPlayer], work=145*
- 82: 0x022D [0x2B] Verena (ID: 17780744/0x010F5008) [8435*]:
+ 82: 0x022D [0x2B] Verena (ID: 17780744/0x010F5008) [8437*]:
     → "I was controlled by the...the Shadow Lord's sheer will..."
  83: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0235 [0x27] REQ_SET(priority=0x03, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x2F)
- 85: 0x023C [0x2B] Aldo (ID: 17780743/0x010F5007) [8436*]:
+ 85: 0x023C [0x2B] Aldo (ID: 17780743/0x010F5007) [8438*]:
     → "You don't have to say any more. It's all over now. And I thank the heavens that you're back here safe with me."
  86: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0244 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x30)
- 88: 0x024B [0x2B] Verena (ID: 17780744/0x010F5008) [8437*]:
+ 88: 0x024B [0x2B] Verena (ID: 17780744/0x010F5008) [8439*]:
     → "Aldo..."
  89: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0253 [0x1C] WAIT(10* ticks)
@@ -497,7 +497,7 @@
  96: 0x0283 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Aldo (ID: 17780743/0x010F5007) Render.Flags0 and Render.Flags3 conditions are met
  97: 0x0288 [0x1C] WAIT(10* ticks)
  98: 0x028B [0x27] REQ_SET(priority=0x03, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x33)
- 99: 0x0292 [0x2B] Aldo (ID: 17780743/0x010F5007) [8438*]:
+ 99: 0x0292 [0x2B] Aldo (ID: 17780743/0x010F5007) [8440*]:
     → "I appreciate you traveling here, <Player>. However, I don't know if I can carry on this game with Eald'narche anymore."
 100: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x029A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

@@ -31,8 +31,8 @@
 |       3 | 0x00C9      |         201 |
 |       4 | 0x008C      |         140 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1D7F      |        7551 |
-|       7 | 0x1D80      |        7552 |
+|       6 | 0x1D81      |        7553 |
+|       7 | 0x1D82      |        7554 |
 |       8 | 0xCA73      |       51827 |
 |       9 | 0xFFFB83E7  |  4294673383 |
 |      10 | 0x06F0      |        1776 |
@@ -41,8 +41,8 @@
 
 ## String References
 
-- **7551**: There is a curious liquid here.
-- **7552**: Take a sip? [I'll try anything once!/I have a weak stomach...]
+- **7553**: There is a curious liquid here.
+- **7554**: Take a sip? [I'll try anything once!/I have a weak stomach...]
 
 ## Events
 
@@ -200,10 +200,10 @@
 
 ```
   0: 0x0053 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0055 [0x48] [System] [7551*]:
+  1: 0x0055 [0x48] [System] [7553*]:
     → "There is a curious liquid here."
   2: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0059 [0x24] CREATE_DIALOG(message_id=7552*, default_option=1*, option_flags=0*)
+  3: 0x0059 [0x24] CREATE_DIALOG(message_id=7554*, default_option=1*, option_flags=0*)
     → "Take a sip? [I'll try anything once!/I have a weak stomach...]"
   4: 0x0060 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0061 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0076

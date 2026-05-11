@@ -23,15 +23,15 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x00A0      |         160 |
-|       3 | 0x1C4A      |        7242 |
+|       3 | 0x1C4C      |        7244 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x1C4B      |        7243 |
+|       5 | 0x1C4D      |        7245 |
 |       6 | 0x0003      |           3 |
 
 ## String References
 
-- **7242**: <Player> is holding the lock open...
-- **7243**: <Player>'s hand has grown numb!
+- **7244**: <Player> is holding the lock open...
+- **7245**: <Player>'s hand has grown numb!
 
 ## Events
 

@@ -58,33 +58,33 @@
 |       0 | 0x00C7      |         199 |
 |       1 | 0x007F      |         127 |
 |       2 | 0x003B      |          59 |
-|       3 | 0x2928      |       10536 |
-|       4 | 0x2929      |       10537 |
-|       5 | 0x2800      |       10240 |
+|       3 | 0x292A      |       10538 |
+|       4 | 0x292B      |       10539 |
+|       5 | 0x2802      |       10242 |
 |       6 | 0x00B3      |         179 |
-|       7 | 0x2801      |       10241 |
-|       8 | 0x21AC      |        8620 |
-|       9 | 0x21AD      |        8621 |
-|      10 | 0x21B3      |        8627 |
+|       7 | 0x2803      |       10243 |
+|       8 | 0x21AE      |        8622 |
+|       9 | 0x21AF      |        8623 |
+|      10 | 0x21B5      |        8629 |
 |      11 | 0x001E      |          30 |
-|      12 | 0x2832      |       10290 |
-|      13 | 0x2860      |       10336 |
-|      14 | 0x285F      |       10335 |
-|      15 | 0x2861      |       10337 |
-|      16 | 0x2862      |       10338 |
+|      12 | 0x2834      |       10292 |
+|      13 | 0x2862      |       10338 |
+|      14 | 0x2861      |       10337 |
+|      15 | 0x2863      |       10339 |
+|      16 | 0x2864      |       10340 |
 
 ## String References
 
-- **8620**: Our research suggests that the "stone wall touched by the light of dawn" has something to do with Adoulin's porrrt district.
-- **8621**: Sailors and captains of our fair city have a custom of honorrring the morning sun, and as such many of our vessels contain the word "dawn" in their names.
-- **8627**: We have also enlisted the aid of some scouts to help us investigate furrrther. Head first to the fountain to get the water, or find the stone in question.
-- **10240**: I heard the Scouts' Coalition is wrrriting a piece on Robertioux.
-- **10290**: Even though Rrrobertioux vanquished the immediate threat, Yorcia Weald is no place to let your guard down. Stay safe.
-- **10335**: I'm a little worrried, actually. If you're headed back down there, would you mind checking in on her?
-- **10336**: Erfimia's been cooped up in Celennia Memorial Library for days. I hope she's still eating.
-- **10337**: A shame to hear that Robertioux turrrned down the title of high exorcist.
-- **10536**: With the advancement of the colonization effort, people have begun reporting sightings of crrryptic fiends darker than the most ominous shadow and often said to be harrrbingers of disaster.
-- **10537**: These crrreatures, named umbrils, may just be the entities that the exorcists have been trrraining to combat all these years. At least that's what Vortimere tells us.
+- **8622**: Our research suggests that the "stone wall touched by the light of dawn" has something to do with Adoulin's porrrt district.
+- **8623**: Sailors and captains of our fair city have a custom of honorrring the morning sun, and as such many of our vessels contain the word "dawn" in their names.
+- **8629**: We have also enlisted the aid of some scouts to help us investigate furrrther. Head first to the fountain to get the water, or find the stone in question.
+- **10242**: I heard the Scouts' Coalition is wrrriting a piece on Robertioux.
+- **10292**: Even though Rrrobertioux vanquished the immediate threat, Yorcia Weald is no place to let your guard down. Stay safe.
+- **10337**: I'm a little worrried, actually. If you're headed back down there, would you mind checking in on her?
+- **10338**: Erfimia's been cooped up in Celennia Memorial Library for days. I hope she's still eating.
+- **10339**: A shame to hear that Robertioux turrrned down the title of high exorcist.
+- **10538**: With the advancement of the colonization effort, people have begun reporting sightings of crrryptic fiends darker than the most ominous shadow and often said to be harrrbingers of disaster.
+- **10539**: These crrreatures, named umbrils, may just be the entities that the exorcists have been trrraining to combat all these years. At least that's what Vortimere tells us.
 
 ## Events
 
@@ -518,11 +518,11 @@
   1: 0x00F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  4: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=10536*)
+  4: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=10538*)
     → "With the advancement of the colonization effort, people have begun reporting sightings of crrryptic fiends darker than the most ominous shadow and often said to be harrrbingers of disaster."
   5: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x010B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
-  7: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=10537*)
+  7: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=10539*)
     → "These crrreatures, named umbrils, may just be the entities that the exorcists have been trrraining to combat all these years. At least that's what Vortimere tells us."
   8: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x011E [0x21] END_EVENT
@@ -668,12 +668,12 @@
 
 ```
   0: 0x013D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  1: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=10240*)
+  1: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=10242*)
     → "I heard the Scouts' Coalition is wrrriting a piece on Robertioux."
   2: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0150 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
   4: 0x015F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Adelise (ID: 17830133/0x011010F5), Adelise (ID: 17830133/0x011010F5)], work=179*
-  5: 0x016E [0x2B] Rigobertine (ID: 17830130/0x011010F2) [10241*]:
+  5: 0x016E [0x2B] Rigobertine (ID: 17830130/0x011010F2) [10243*]:
     → "That is simply wonderful! I cannot recall the last time that one of us Weatherspoon members was featured in any publication."
   6: 0x0175 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0176 [0x21] END_EVENT
@@ -750,13 +750,13 @@
   1: 0x017F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0180 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0181 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  4: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=8620*)
+  4: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=8622*)
     → "Our research suggests that the "stone wall touched by the light of dawn" has something to do with Adoulin's porrrt district."
   5: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=8621*)
+  6: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=8623*)
     → "Sailors and captains of our fair city have a custom of honorrring the morning sun, and as such many of our vessels contain the word "dawn" in their names."
   7: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=8627*)
+  8: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=8629*)
     → "We have also enlisted the aid of some scouts to help us investigate furrrther. Head first to the fountain to get the water, or find the stone in question."
   9: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x019C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
@@ -832,7 +832,7 @@
   0: 0x01AF [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01B4 [0x1C] WAIT(30* ticks)
   2: 0x01B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  3: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10290*)
+  3: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10292*)
     → "Even though Rrrobertioux vanquished the immediate threat, Yorcia Weald is no place to let your guard down. Stay safe."
   4: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01CA [0x21] END_EVENT
@@ -885,10 +885,10 @@
   0: 0x01CD [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01D2 [0x1C] WAIT(30* ticks)
   2: 0x01D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  3: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10336*)
+  3: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10338*)
     → "Erfimia's been cooped up in Celennia Memorial Library for days. I hope she's still eating."
   4: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10335*)
+  5: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10337*)
     → "I'm a little worrried, actually. If you're headed back down there, would you mind checking in on her?"
   6: 0x01EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01EC [0x21] END_EVENT
@@ -920,12 +920,12 @@
 
 ```
   0: 0x01EE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-  1: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10337*)
+  1: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10339*)
     → "A shame to hear that Robertioux turrrned down the title of high exorcist."
   2: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0201 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
   4: 0x0210 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Rigobertine (ID: 17830130/0x011010F2), Rigobertine (ID: 17830130/0x011010F2)], work=30*
-  5: 0x021F [0x2B] Rigobertine (ID: 17830130/0x011010F2) [10338*]:
+  5: 0x021F [0x2B] Rigobertine (ID: 17830130/0x011010F2) [10340*]:
     → "What a waste. I would have accepted in the blink of an eye."
   6: 0x0226 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0227 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Rigobertine (ID: 17830130/0x011010F2), Rigobertine (ID: 17830130/0x011010F2)], work=30*

@@ -37,29 +37,29 @@
 |       0 | 0x0050      |          80 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0051      |          81 |
-|       3 | 0x209E      |        8350 |
-|       4 | 0x209F      |        8351 |
-|       5 | 0x1E4E      |        7758 |
-|       6 | 0x2120      |        8480 |
-|       7 | 0x2121      |        8481 |
-|       8 | 0x214D      |        8525 |
-|       9 | 0x214E      |        8526 |
-|      10 | 0x20D3      |        8403 |
-|      11 | 0x20D4      |        8404 |
-|      12 | 0x2101      |        8449 |
+|       3 | 0x20A0      |        8352 |
+|       4 | 0x20A1      |        8353 |
+|       5 | 0x1E50      |        7760 |
+|       6 | 0x2122      |        8482 |
+|       7 | 0x2123      |        8483 |
+|       8 | 0x214F      |        8527 |
+|       9 | 0x2150      |        8528 |
+|      10 | 0x20D5      |        8405 |
+|      11 | 0x20D6      |        8406 |
+|      12 | 0x2103      |        8451 |
 
 ## String References
 
-- **7758**: I can't wait. I'm good at skills tests. Fighting's what I do best!
-- **8350**: I'm Koko Lihzeh, the School of Magic's first Mithra student.
-- **8351**: I'm studying real hard so I can prrrove that Mithra can become as skilled as anyone else in the use of magic.
-- **8403**: I expect to get about 50%... That's 'cause I chose by intuition...not tuition.
-- **8404**: But I got 90% in the test before last, so I don't have to worrrry about dropping down to beginnerrrs class.
-- **8449**: I rrreceived frrruit seeds! I'll trrry and grrrow some $1.
-- **8480**: Durrring our magical prrractice the otherrr day, Paku-Nakku and Foi-Mui brrroke the rrrules and got extra homeworrrk as punishment.
-- **8481**: I don't underrrstand why boys love to do forrrbidden stuff all the time.
-- **8525**: What, so you didn't know? Paku-Nakku was tirrred lately because he was hooked on the Agatha Crystalie mysterrry serrries.
-- **8526**: They are so cool! I just love Detective Poiroto-Boiroto and Miss Marpelpel... Unforrrtunately, the librarrry doesn't have the last book in the series yet...
+- **7760**: I can't wait. I'm good at skills tests. Fighting's what I do best!
+- **8352**: I'm Koko Lihzeh, the School of Magic's first Mithra student.
+- **8353**: I'm studying real hard so I can prrrove that Mithra can become as skilled as anyone else in the use of magic.
+- **8405**: I expect to get about 50%... That's 'cause I chose by intuition...not tuition.
+- **8406**: But I got 90% in the test before last, so I don't have to worrrry about dropping down to beginnerrrs class.
+- **8451**: I rrreceived frrruit seeds! I'll trrry and grrrow some $1.
+- **8482**: Durrring our magical prrractice the otherrr day, Paku-Nakku and Foi-Mui brrroke the rrrules and got extra homeworrrk as punishment.
+- **8483**: I don't underrrstand why boys love to do forrrbidden stuff all the time.
+- **8527**: What, so you didn't know? Paku-Nakku was tirrred lately because he was hooked on the Agatha Crystalie mysterrry serrries.
+- **8528**: They are so cool! I just love Detective Poiroto-Boiroto and Miss Marpelpel... Unforrrtunately, the librarrry doesn't have the last book in the series yet...
 
 ## Events
 
@@ -344,10 +344,10 @@
   1: 0x00D3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00D4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x01)
-  4: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8350*)
+  4: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8352*)
     → "I'm Koko Lihzeh, the School of Magic's first Mithra student."
   5: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8351*)
+  6: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8353*)
     → "I'm studying real hard so I can prrrove that Mithra can become as skilled as anyone else in the use of magic."
   7: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x02)
@@ -381,7 +381,7 @@
   1: 0x00F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x01)
-  4: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7758*)
+  4: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7760*)
     → "I can't wait. I'm good at skills tests. Fighting's what I do best!"
   5: 0x0100 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0101 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x02)
@@ -415,10 +415,10 @@
   1: 0x0111 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0112 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0113 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x01)
-  4: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=8480*)
+  4: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=8482*)
     → "Durrring our magical prrractice the otherrr day, Paku-Nakku and Foi-Mui brrroke the rrrules and got extra homeworrrk as punishment."
   5: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=8481*)
+  6: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=8483*)
     → "I don't underrrstand why boys love to do forrrbidden stuff all the time."
   7: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0122 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x02)
@@ -452,10 +452,10 @@
   1: 0x0132 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0133 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0134 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x01)
-  4: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=8525*)
+  4: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=8527*)
     → "What, so you didn't know? Paku-Nakku was tirrred lately because he was hooked on the Agatha Crystalie mysterrry serrries."
   5: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=8526*)
+  6: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=8528*)
     → "They are so cool! I just love Detective Poiroto-Boiroto and Miss Marpelpel... Unforrrtunately, the librarrry doesn't have the last book in the series yet..."
   7: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0143 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x02)
@@ -489,10 +489,10 @@
   1: 0x0153 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0154 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0155 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x01)
-  4: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=8403*)
+  4: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=8405*)
     → "I expect to get about 50%... That's 'cause I chose by intuition...not tuition."
   5: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8404*)
+  6: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8406*)
     → "But I got 90% in the test before last, so I don't have to worrrry about dropping down to beginnerrrs class."
   7: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0164 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x02)
@@ -526,7 +526,7 @@
   1: 0x0174 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0175 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0176 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x01)
-  4: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8449*)
+  4: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8451*)
     → "I rrreceived frrruit seeds! I'll trrry and grrrow some $1."
   5: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0181 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koko Lihzeh (ID: 17752124/0x010EE03C), tag_num=0x02)

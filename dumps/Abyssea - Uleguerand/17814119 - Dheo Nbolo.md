@@ -21,15 +21,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003B      |          59 |
-|       1 | 0x1F77      |        8055 |
-|       2 | 0x1F78      |        8056 |
-|       3 | 0x1F79      |        8057 |
+|       1 | 0x1F79      |        8057 |
+|       2 | 0x1F7A      |        8058 |
+|       3 | 0x1F7B      |        8059 |
 
 ## String References
 
-- **8055**: Just one moment, strrranger. You're not from around these parts, are you? I'd recommend you speak to the conflux surveyor over there. If ya haven't alrrready, that is.
-- **8056**: He can prrrovide ya with somethin' called visitant status that'll make life here in Abyssea a good deal easier for ya.
-- **8057**: Why, without it, you'll have a harrrd enough time just convincing people to talk to you. Don't take it perrrsonally--if you'd been through a cataclysm, you'd be pretty wary of chattin' with strangers too, don't ya think?
+- **8057**: Just one moment, strrranger. You're not from around these parts, are you? I'd recommend you speak to the conflux surveyor over there. If ya haven't alrrready, that is.
+- **8058**: He can prrrovide ya with somethin' called visitant status that'll make life here in Abyssea a good deal easier for ya.
+- **8059**: Why, without it, you'll have a harrrd enough time just convincing people to talk to you. Don't take it perrrsonally--if you'd been through a cataclysm, you'd be pretty wary of chattin' with strangers too, don't ya think?
 
 ## Events
 
@@ -81,13 +81,13 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Dheo Nbolo (ID: 17814119/0x010FD267), Dheo Nbolo (ID: 17814119/0x010FD267)], work=59*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8055*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8057*)
     → "Just one moment, strrranger. You're not from around these parts, are you? I'd recommend you speak to the conflux surveyor over there. If ya haven't alrrready, that is."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8056*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
     → "He can prrrovide ya with somethin' called visitant status that'll make life here in Abyssea a good deal easier for ya."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8057*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
     → "Why, without it, you'll have a harrrd enough time just convincing people to talk to you. Don't take it perrrsonally--if you'd been through a cataclysm, you'd be pretty wary of chattin' with strangers too, don't ya think?"
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Dheo Nbolo (ID: 17814119/0x010FD267), Dheo Nbolo (ID: 17814119/0x010FD267)], work=59*

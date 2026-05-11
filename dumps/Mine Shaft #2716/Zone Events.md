@@ -71,24 +71,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DB7      |        7607 |
-|       7 | 0x1D0B      |        7435 |
+|       6 | 0x1DB9      |        7609 |
+|       7 | 0x1D0D      |        7437 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1B9D      |        7069 |
+|      12 | 0x1B9F      |        7071 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1BA8      |        7080 |
-|      20 | 0x1BA9      |        7081 |
-|      21 | 0x1BAA      |        7082 |
-|      22 | 0x1BAB      |        7083 |
-|      23 | 0x1BCF      |        7119 |
+|      19 | 0x1BAA      |        7082 |
+|      20 | 0x1BAB      |        7083 |
+|      21 | 0x1BAC      |        7084 |
+|      22 | 0x1BAD      |        7085 |
+|      23 | 0x1BD1      |        7121 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -108,20 +108,20 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1D04      |        7428 |
-|      44 | 0x1D09      |        7433 |
-|      45 | 0x1D08      |        7432 |
+|      43 | 0x1D06      |        7430 |
+|      44 | 0x1D0B      |        7435 |
+|      45 | 0x1D0A      |        7434 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1DB5      |        7605 |
-|      48 | 0x1DB4      |        7604 |
+|      47 | 0x1DB7      |        7607 |
+|      48 | 0x1DB6      |        7606 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1CF0      |        7408 |
+|      50 | 0x1CF2      |        7410 |
 |      51 | 0x00DC      |         220 |
-|      52 | 0x1BA0      |        7072 |
+|      52 | 0x1BA2      |        7074 |
 |      53 | 0x00C9      |         201 |
-|      54 | 0x1DB8      |        7608 |
-|      55 | 0x1DB9      |        7609 |
-|      56 | 0x1DBA      |        7610 |
+|      54 | 0x1DBA      |        7610 |
+|      55 | 0x1DBB      |        7611 |
+|      56 | 0x1DBC      |        7612 |
 |      57 | 0x00B4      |         180 |
 |      58 | 0xFFF6C42B  |  4294362155 |
 |      59 | 0x752B9     |      479929 |
@@ -209,11 +209,11 @@
 |     141 | 0x8FE5      |       36837 |
 |     142 | 0x02A1      |         673 |
 |     143 | 0x0024      |          36 |
-|     144 | 0x1CF2      |        7410 |
-|     145 | 0x1CF1      |        7409 |
-|     146 | 0x1DB3      |        7603 |
-|     147 | 0x1CF4      |        7412 |
-|     148 | 0x1CF3      |        7411 |
+|     144 | 0x1CF4      |        7412 |
+|     145 | 0x1CF3      |        7411 |
+|     146 | 0x1DB5      |        7605 |
+|     147 | 0x1CF6      |        7414 |
+|     148 | 0x1CF5      |        7413 |
 |     149 | 0xFFFF1C56  |  4294909014 |
 |     150 | 0xFFF72694  |  4294387348 |
 |     151 | 0xFFFE2B40  |  4294847296 |
@@ -228,39 +228,39 @@
 |     160 | 0x1D4BF     |      119999 |
 |     161 | 0x01A3      |         419 |
 |     162 | 0x00DD      |         221 |
-|     163 | 0x1DBB      |        7611 |
-|     164 | 0x1DBC      |        7612 |
-|     165 | 0x1DBD      |        7613 |
-|     166 | 0x1DBE      |        7614 |
-|     167 | 0x1DBF      |        7615 |
-|     168 | 0x1DC0      |        7616 |
-|     169 | 0x1DC1      |        7617 |
+|     163 | 0x1DBD      |        7613 |
+|     164 | 0x1DBE      |        7614 |
+|     165 | 0x1DBF      |        7615 |
+|     166 | 0x1DC0      |        7616 |
+|     167 | 0x1DC1      |        7617 |
+|     168 | 0x1DC2      |        7618 |
+|     169 | 0x1DC3      |        7619 |
 |     170 | 0x002D      |          45 |
-|     171 | 0x1DC2      |        7618 |
-|     172 | 0x1DC3      |        7619 |
-|     173 | 0x1DC4      |        7620 |
-|     174 | 0x1DC5      |        7621 |
-|     175 | 0x1DC6      |        7622 |
+|     171 | 0x1DC4      |        7620 |
+|     172 | 0x1DC5      |        7621 |
+|     173 | 0x1DC6      |        7622 |
+|     174 | 0x1DC7      |        7623 |
+|     175 | 0x1DC8      |        7624 |
 |     176 | 0x0045      |          69 |
-|     177 | 0x1DC7      |        7623 |
-|     178 | 0x1DC8      |        7624 |
-|     179 | 0x1DC9      |        7625 |
-|     180 | 0x1DCA      |        7626 |
-|     181 | 0x1DCB      |        7627 |
-|     182 | 0x1DCC      |        7628 |
-|     183 | 0x1DCD      |        7629 |
-|     184 | 0x1DCE      |        7630 |
-|     185 | 0x1DCF      |        7631 |
+|     177 | 0x1DC9      |        7625 |
+|     178 | 0x1DCA      |        7626 |
+|     179 | 0x1DCB      |        7627 |
+|     180 | 0x1DCC      |        7628 |
+|     181 | 0x1DCD      |        7629 |
+|     182 | 0x1DCE      |        7630 |
+|     183 | 0x1DCF      |        7631 |
+|     184 | 0x1DD0      |        7632 |
+|     185 | 0x1DD1      |        7633 |
 |     186 | 0x0155      |         341 |
-|     187 | 0x1DD0      |        7632 |
+|     187 | 0x1DD2      |        7634 |
 |     188 | 0x0150      |         336 |
-|     189 | 0x1DD1      |        7633 |
-|     190 | 0x1DD2      |        7634 |
+|     189 | 0x1DD3      |        7635 |
+|     190 | 0x1DD4      |        7636 |
 |     191 | 0x01B9      |         441 |
 |     192 | 0x01AF      |         431 |
 |     193 | 0x0078      |         120 |
 |     194 | 0x0096      |         150 |
-|     195 | 0x1DD3      |        7635 |
+|     195 | 0x1DD5      |        7637 |
 |     196 | 0xFFF8FBF3  |  4294507507 |
 |     197 | 0x692F      |       26927 |
 |     198 | 0x1DC8F     |      121999 |
@@ -271,17 +271,17 @@
 |     203 | 0x71A8      |       29096 |
 |     204 | 0x7CFC      |       31996 |
 |     205 | 0x00D7      |         215 |
-|     206 | 0x1ED6      |        7894 |
-|     207 | 0x1F0F      |        7951 |
+|     206 | 0x1ED8      |        7896 |
+|     207 | 0x1F11      |        7953 |
 |     208 | 0x005A      |          90 |
 |     209 | 0x00D8      |         216 |
-|     210 | 0x1ED7      |        7895 |
-|     211 | 0x1ED8      |        7896 |
-|     212 | 0x1ED9      |        7897 |
-|     213 | 0x1EDA      |        7898 |
-|     214 | 0x1EDB      |        7899 |
-|     215 | 0x1EDD      |        7901 |
-|     216 | 0x1EDC      |        7900 |
+|     210 | 0x1ED9      |        7897 |
+|     211 | 0x1EDA      |        7898 |
+|     212 | 0x1EDB      |        7899 |
+|     213 | 0x1EDC      |        7900 |
+|     214 | 0x1EDD      |        7901 |
+|     215 | 0x1EDF      |        7903 |
+|     216 | 0x1EDE      |        7902 |
 |     217 | 0x0093      |         147 |
 |     218 | 0xFFF91F48  |  4294516552 |
 |     219 | 0x83C7      |       33735 |
@@ -422,170 +422,170 @@
 |     354 | 0x0386      |         902 |
 |     355 | 0x021C      |         540 |
 |     356 | 0x0023      |          35 |
-|     357 | 0x1F5D      |        8029 |
+|     357 | 0x1F5F      |        8031 |
 |     358 | 0x0086      |         134 |
-|     359 | 0x1F5E      |        8030 |
+|     359 | 0x1F60      |        8032 |
 |     360 | 0x0866      |        2150 |
-|     361 | 0x1F5F      |        8031 |
-|     362 | 0x1F60      |        8032 |
+|     361 | 0x1F61      |        8033 |
+|     362 | 0x1F62      |        8034 |
 |     363 | 0xFFFE6DEC  |  4294864364 |
 |     364 | 0x79E9B     |      499355 |
 |     365 | 0x07E6      |        2022 |
 |     366 | 0xFFFE846B  |  4294870123 |
 |     367 | 0x7A346     |      500550 |
 |     368 | 0x07F7      |        2039 |
-|     369 | 0x1F10      |        7952 |
-|     370 | 0x1F61      |        8033 |
-|     371 | 0x1F62      |        8034 |
-|     372 | 0x1F63      |        8035 |
-|     373 | 0x1F64      |        8036 |
-|     374 | 0x1F65      |        8037 |
-|     375 | 0x1F66      |        8038 |
-|     376 | 0x1F67      |        8039 |
-|     377 | 0x1F68      |        8040 |
-|     378 | 0x1F69      |        8041 |
-|     379 | 0x1F6A      |        8042 |
-|     380 | 0x1F6B      |        8043 |
-|     381 | 0x1F6C      |        8044 |
-|     382 | 0x1F6D      |        8045 |
-|     383 | 0x1F6E      |        8046 |
-|     384 | 0x1F6F      |        8047 |
-|     385 | 0x1F70      |        8048 |
-|     386 | 0x1F71      |        8049 |
-|     387 | 0x1F72      |        8050 |
-|     388 | 0x1F73      |        8051 |
-|     389 | 0x1F74      |        8052 |
-|     390 | 0x1F75      |        8053 |
-|     391 | 0x1F76      |        8054 |
-|     392 | 0x1F77      |        8055 |
-|     393 | 0x1F78      |        8056 |
-|     394 | 0x1F79      |        8057 |
-|     395 | 0x1F7A      |        8058 |
+|     369 | 0x1F12      |        7954 |
+|     370 | 0x1F63      |        8035 |
+|     371 | 0x1F64      |        8036 |
+|     372 | 0x1F65      |        8037 |
+|     373 | 0x1F66      |        8038 |
+|     374 | 0x1F67      |        8039 |
+|     375 | 0x1F68      |        8040 |
+|     376 | 0x1F69      |        8041 |
+|     377 | 0x1F6A      |        8042 |
+|     378 | 0x1F6B      |        8043 |
+|     379 | 0x1F6C      |        8044 |
+|     380 | 0x1F6D      |        8045 |
+|     381 | 0x1F6E      |        8046 |
+|     382 | 0x1F6F      |        8047 |
+|     383 | 0x1F70      |        8048 |
+|     384 | 0x1F71      |        8049 |
+|     385 | 0x1F72      |        8050 |
+|     386 | 0x1F73      |        8051 |
+|     387 | 0x1F74      |        8052 |
+|     388 | 0x1F75      |        8053 |
+|     389 | 0x1F76      |        8054 |
+|     390 | 0x1F77      |        8055 |
+|     391 | 0x1F78      |        8056 |
+|     392 | 0x1F79      |        8057 |
+|     393 | 0x1F7A      |        8058 |
+|     394 | 0x1F7B      |        8059 |
+|     395 | 0x1F7C      |        8060 |
 |     396 | 0x00F0      |         240 |
 |     397 | 0x01EA      |         490 |
-|     398 | 0x1DD4      |        7636 |
-|     399 | 0x1DD5      |        7637 |
-|     400 | 0x1DD6      |        7638 |
-|     401 | 0x1DD7      |        7639 |
+|     398 | 0x1DD6      |        7638 |
+|     399 | 0x1DD7      |        7639 |
+|     400 | 0x1DD8      |        7640 |
+|     401 | 0x1DD9      |        7641 |
 |     402 | 0x0033      |          51 |
 |     403 | 0x004B      |          75 |
 |     404 | 0x01A0      |         416 |
-|     405 | 0x1DD8      |        7640 |
+|     405 | 0x1DDA      |        7642 |
 |     406 | 0x0151      |         337 |
-|     407 | 0x1DD9      |        7641 |
-|     408 | 0x1DDA      |        7642 |
-|     409 | 0x1DDB      |        7643 |
-|     410 | 0x1DDC      |        7644 |
+|     407 | 0x1DDB      |        7643 |
+|     408 | 0x1DDC      |        7644 |
+|     409 | 0x1DDD      |        7645 |
+|     410 | 0x1DDE      |        7646 |
 |     411 | 0x01BA      |         442 |
 |     412 | 0x01B0      |         432 |
-|     413 | 0x1DDD      |        7645 |
-|     414 | 0x1DDE      |        7646 |
-|     415 | 0x1DDF      |        7647 |
-|     416 | 0x1DE0      |        7648 |
-|     417 | 0x1DE1      |        7649 |
-|     418 | 0x1DE2      |        7650 |
-|     419 | 0x1DE3      |        7651 |
-|     420 | 0x1DE4      |        7652 |
-|     421 | 0x1DE5      |        7653 |
-|     422 | 0x1DE6      |        7654 |
-|     423 | 0x1DE7      |        7655 |
-|     424 | 0x1DE8      |        7656 |
-|     425 | 0x1DEA      |        7658 |
-|     426 | 0x1DEB      |        7659 |
-|     427 | 0x1DEC      |        7660 |
-|     428 | 0x1DED      |        7661 |
-|     429 | 0x1DEE      |        7662 |
-|     430 | 0x1DEF      |        7663 |
+|     413 | 0x1DDF      |        7647 |
+|     414 | 0x1DE0      |        7648 |
+|     415 | 0x1DE1      |        7649 |
+|     416 | 0x1DE2      |        7650 |
+|     417 | 0x1DE3      |        7651 |
+|     418 | 0x1DE4      |        7652 |
+|     419 | 0x1DE5      |        7653 |
+|     420 | 0x1DE6      |        7654 |
+|     421 | 0x1DE7      |        7655 |
+|     422 | 0x1DE8      |        7656 |
+|     423 | 0x1DE9      |        7657 |
+|     424 | 0x1DEA      |        7658 |
+|     425 | 0x1DEC      |        7660 |
+|     426 | 0x1DED      |        7661 |
+|     427 | 0x1DEE      |        7662 |
+|     428 | 0x1DEF      |        7663 |
+|     429 | 0x1DF0      |        7664 |
+|     430 | 0x1DF1      |        7665 |
 |     431 | 0x0154      |         340 |
-|     432 | 0x1DF0      |        7664 |
-|     433 | 0x1DF1      |        7665 |
-|     434 | 0x1DF2      |        7666 |
-|     435 | 0x1DF3      |        7667 |
-|     436 | 0x1DF4      |        7668 |
-|     437 | 0x1DF5      |        7669 |
-|     438 | 0x1DF6      |        7670 |
-|     439 | 0x1DF7      |        7671 |
-|     440 | 0x1DF8      |        7672 |
-|     441 | 0x1DF9      |        7673 |
-|     442 | 0x1DFA      |        7674 |
-|     443 | 0x1DFB      |        7675 |
-|     444 | 0x1DFC      |        7676 |
-|     445 | 0x1DFD      |        7677 |
-|     446 | 0x1DFE      |        7678 |
-|     447 | 0x1DFF      |        7679 |
-|     448 | 0x1E00      |        7680 |
-|     449 | 0x1E01      |        7681 |
-|     450 | 0x1E02      |        7682 |
+|     432 | 0x1DF2      |        7666 |
+|     433 | 0x1DF3      |        7667 |
+|     434 | 0x1DF4      |        7668 |
+|     435 | 0x1DF5      |        7669 |
+|     436 | 0x1DF6      |        7670 |
+|     437 | 0x1DF7      |        7671 |
+|     438 | 0x1DF8      |        7672 |
+|     439 | 0x1DF9      |        7673 |
+|     440 | 0x1DFA      |        7674 |
+|     441 | 0x1DFB      |        7675 |
+|     442 | 0x1DFC      |        7676 |
+|     443 | 0x1DFD      |        7677 |
+|     444 | 0x1DFE      |        7678 |
+|     445 | 0x1DFF      |        7679 |
+|     446 | 0x1E00      |        7680 |
+|     447 | 0x1E01      |        7681 |
+|     448 | 0x1E02      |        7682 |
+|     449 | 0x1E03      |        7683 |
+|     450 | 0x1E04      |        7684 |
 |     451 | 0x01ED      |         493 |
-|     452 | 0x1E03      |        7683 |
+|     452 | 0x1E05      |        7685 |
 |     453 | 0x01A1      |         417 |
-|     454 | 0x1E04      |        7684 |
-|     455 | 0x1E05      |        7685 |
-|     456 | 0x1E06      |        7686 |
-|     457 | 0x1E07      |        7687 |
-|     458 | 0x1E08      |        7688 |
-|     459 | 0x1E09      |        7689 |
-|     460 | 0x1E0A      |        7690 |
-|     461 | 0x1E0B      |        7691 |
+|     454 | 0x1E06      |        7686 |
+|     455 | 0x1E07      |        7687 |
+|     456 | 0x1E08      |        7688 |
+|     457 | 0x1E09      |        7689 |
+|     458 | 0x1E0A      |        7690 |
+|     459 | 0x1E0B      |        7691 |
+|     460 | 0x1E0C      |        7692 |
+|     461 | 0x1E0D      |        7693 |
 |     462 | 0xFFF8FF25  |  4294508325 |
 |     463 | 0x4E08      |       19976 |
 |     464 | 0x1DCAF     |      122031 |
 |     465 | 0x0819      |        2073 |
-|     466 | 0x1EDE      |        7902 |
-|     467 | 0x1EDF      |        7903 |
-|     468 | 0x1EE1      |        7905 |
-|     469 | 0x1EE0      |        7904 |
-|     470 | 0x1EE2      |        7906 |
-|     471 | 0x1EE3      |        7907 |
-|     472 | 0x1EE4      |        7908 |
-|     473 | 0x1EE5      |        7909 |
-|     474 | 0x1EE6      |        7910 |
-|     475 | 0x1EE7      |        7911 |
-|     476 | 0x1EE8      |        7912 |
-|     477 | 0x1EE9      |        7913 |
-|     478 | 0x1EEB      |        7915 |
-|     479 | 0x1EEA      |        7914 |
-|     480 | 0x1EEC      |        7916 |
-|     481 | 0x1EED      |        7917 |
-|     482 | 0x1EEE      |        7918 |
-|     483 | 0x1EEF      |        7919 |
-|     484 | 0x1EF0      |        7920 |
-|     485 | 0x1EF1      |        7921 |
-|     486 | 0x1EF3      |        7923 |
-|     487 | 0x1EF2      |        7922 |
+|     466 | 0x1EE0      |        7904 |
+|     467 | 0x1EE1      |        7905 |
+|     468 | 0x1EE3      |        7907 |
+|     469 | 0x1EE2      |        7906 |
+|     470 | 0x1EE4      |        7908 |
+|     471 | 0x1EE5      |        7909 |
+|     472 | 0x1EE6      |        7910 |
+|     473 | 0x1EE7      |        7911 |
+|     474 | 0x1EE8      |        7912 |
+|     475 | 0x1EE9      |        7913 |
+|     476 | 0x1EEA      |        7914 |
+|     477 | 0x1EEB      |        7915 |
+|     478 | 0x1EED      |        7917 |
+|     479 | 0x1EEC      |        7916 |
+|     480 | 0x1EEE      |        7918 |
+|     481 | 0x1EEF      |        7919 |
+|     482 | 0x1EF0      |        7920 |
+|     483 | 0x1EF1      |        7921 |
+|     484 | 0x1EF2      |        7922 |
+|     485 | 0x1EF3      |        7923 |
+|     486 | 0x1EF5      |        7925 |
+|     487 | 0x1EF4      |        7924 |
 |     488 | 0xFFF8FB0D  |  4294507277 |
 |     489 | 0x31D3      |       12755 |
 |     490 | 0x2BF7      |       11255 |
 |     491 | 0x009F      |         159 |
-|     492 | 0x1EF4      |        7924 |
-|     493 | 0x1EF6      |        7926 |
-|     494 | 0x1EF7      |        7927 |
-|     495 | 0x1EF5      |        7925 |
-|     496 | 0x1EF8      |        7928 |
-|     497 | 0x1EF9      |        7929 |
-|     498 | 0x1EFA      |        7930 |
-|     499 | 0x1EFB      |        7931 |
-|     500 | 0x1EFC      |        7932 |
-|     501 | 0x1EFD      |        7933 |
-|     502 | 0x1EFE      |        7934 |
+|     492 | 0x1EF6      |        7926 |
+|     493 | 0x1EF8      |        7928 |
+|     494 | 0x1EF9      |        7929 |
+|     495 | 0x1EF7      |        7927 |
+|     496 | 0x1EFA      |        7930 |
+|     497 | 0x1EFB      |        7931 |
+|     498 | 0x1EFC      |        7932 |
+|     499 | 0x1EFD      |        7933 |
+|     500 | 0x1EFE      |        7934 |
+|     501 | 0x1EFF      |        7935 |
+|     502 | 0x1F00      |        7936 |
 |     503 | 0x01EC      |         492 |
-|     504 | 0x1F01      |        7937 |
-|     505 | 0x1F02      |        7938 |
-|     506 | 0x1F03      |        7939 |
-|     507 | 0x1F04      |        7940 |
-|     508 | 0x1EFF      |        7935 |
-|     509 | 0x1F00      |        7936 |
-|     510 | 0x1F05      |        7941 |
-|     511 | 0x1F06      |        7942 |
-|     512 | 0x1F07      |        7943 |
-|     513 | 0x1F08      |        7944 |
-|     514 | 0x1F09      |        7945 |
-|     515 | 0x1F0A      |        7946 |
-|     516 | 0x1F0B      |        7947 |
-|     517 | 0x1F0C      |        7948 |
-|     518 | 0x1F0E      |        7950 |
-|     519 | 0x1F0D      |        7949 |
-|     520 | 0x1B9E      |        7070 |
+|     504 | 0x1F03      |        7939 |
+|     505 | 0x1F04      |        7940 |
+|     506 | 0x1F05      |        7941 |
+|     507 | 0x1F06      |        7942 |
+|     508 | 0x1F01      |        7937 |
+|     509 | 0x1F02      |        7938 |
+|     510 | 0x1F07      |        7943 |
+|     511 | 0x1F08      |        7944 |
+|     512 | 0x1F09      |        7945 |
+|     513 | 0x1F0A      |        7946 |
+|     514 | 0x1F0B      |        7947 |
+|     515 | 0x1F0C      |        7948 |
+|     516 | 0x1F0D      |        7949 |
+|     517 | 0x1F0E      |        7950 |
+|     518 | 0x1F10      |        7952 |
+|     519 | 0x1F0F      |        7951 |
+|     520 | 0x1BA0      |        7072 |
 |     521 | 0xFFF7DFC4  |  4294434756 |
 |     522 | 0xFFFE795C  |  4294867292 |
 |     523 | 0x07FA      |        2042 |
@@ -694,34 +694,34 @@
 
 ## String References
 
-- **7069**: Enter the battlefield? [Enter./Decline.]
-- **7070**: Leave the battlefield? [Run away./Stay.]
-- **7072**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7080**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7081**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7071**: Enter the battlefield? [Enter./Decline.]
+- **7072**: Leave the battlefield? [Run away./Stay.]
+- **7074**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7082**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7083**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7119**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7408**: Skip the event? [Yes./No.]
-- **7409**: Battlefield clear time: $3 second[/s]!
-- **7410**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7411**: The current battlefield clear time record is $3 second[/s].
-- **7412**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7428**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7432**: That record is held by $5 adventurers, including %0!
-- **7433**: That record is held by %0!
-- **7435**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7603**: You have broken the clear time record for "[A Century of Hardship/Return to the Depths/Bionic Bug/Pulling the Strings/Automaton Assault/The Mobline Comedy/To Movalpolos!]"!
-- **7604**: The current battlefield clear time record for "[A Century of Hardship/Return to the Depths/Bionic Bug/Pulling the Strings/Automaton Assault/The Mobline Comedy/To Movalpolos!]" is $3 second[/s].
-- **7605**: The current battlefield clear time record for "[A Century of Hardship/Return to the Depths/Bionic Bug/Pulling the Strings/Automaton Assault/The Mobline Comedy/To Movalpolos!]" is $3 minute[/s] $2 second[/s].
-- **7607**: Which battlefield will you enter? [None./A Century of Hardship./Return to the Depths./Bionic Bug./Pulling the Strings./Automaton Assault./The Mobline Comedy./To Movalpolos!././././././././././././././././././././././././.]
-- **7608**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members.
-- **7609**: Level limit of 60. Restricted to one person. Support job abilities inaccessable for this battlefield.
-- **7610**: Level limit of 60. The experience point reward for this battlefield will be reduced for parties of four or more members. Restricted to characters of the same race.
-- **7951**: Hee, GoblinH [Uhuh./Um...?]
-- **7952**: @@
-- **8038**: Do you know Gloom Phantom? [Yes, I do./Sorry, I'm afraid not.]
-- **8048**: What do you think? [I'm sure they're fine!/They don't look so good.../I have no idea.]
+- **7084**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7085**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7121**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7410**: Skip the event? [Yes./No.]
+- **7411**: Battlefield clear time: $3 second[/s]!
+- **7412**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7413**: The current battlefield clear time record is $3 second[/s].
+- **7414**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7430**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7434**: That record is held by $5 adventurers, including %0!
+- **7435**: That record is held by %0!
+- **7437**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7605**: You have broken the clear time record for "[A Century of Hardship/Return to the Depths/Bionic Bug/Pulling the Strings/Automaton Assault/The Mobline Comedy/To Movalpolos!]"!
+- **7606**: The current battlefield clear time record for "[A Century of Hardship/Return to the Depths/Bionic Bug/Pulling the Strings/Automaton Assault/The Mobline Comedy/To Movalpolos!]" is $3 second[/s].
+- **7607**: The current battlefield clear time record for "[A Century of Hardship/Return to the Depths/Bionic Bug/Pulling the Strings/Automaton Assault/The Mobline Comedy/To Movalpolos!]" is $3 minute[/s] $2 second[/s].
+- **7609**: Which battlefield will you enter? [None./A Century of Hardship./Return to the Depths./Bionic Bug./Pulling the Strings./Automaton Assault./The Mobline Comedy./To Movalpolos!././././././././././././././././././././././././.]
+- **7610**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members.
+- **7611**: Level limit of 60. Restricted to one person. Support job abilities inaccessable for this battlefield.
+- **7612**: Level limit of 60. The experience point reward for this battlefield will be reduced for parties of four or more members. Restricted to characters of the same race.
+- **7953**: Hee, GoblinH [Uhuh./Um...?]
+- **7954**: @@
+- **8040**: Do you know Gloom Phantom? [Yes, I do./Sorry, I'm afraid not.]
+- **8050**: What do you think? [I'm sure they're fine!/They don't look so good.../I have no idea.]
 
 ## Events
 
@@ -939,7 +939,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7607*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7609*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./A Century of Hardship./Return to the Depths./Bionic Bug./Pulling the Strings./Automaton Assault./The Mobline Comedy./To Movalpolos!././././././././././././././././././././././././.]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -952,7 +952,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x5429)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7435*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7437*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -978,7 +978,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0845)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7069*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -1027,22 +1027,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07E1
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7080*]:
+ 89: 0x0225 [0x48] [System] [7082*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7081*]:
+ 93: 0x0234 [0x48] [System] [7083*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7082*]:
+ 97: 0x0243 [0x48] [System] [7084*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7083*]:
+101: 0x0252 [0x48] [System] [7085*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -1051,7 +1051,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x07F8
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7428*]:
+105: 0x0469 [0x48] [System] [7430*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x07F8
@@ -1063,24 +1063,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7605*]:
+114: 0x04EA [0x48] [System] [7607*]:
     → "The current battlefield clear time record for "[A Century of Hardship/Return to the Depths/Bionic Bug/Pulling the Strings/Automaton Assault/The Mobline Comedy/To Movalpolos!]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7604*]:
+117: 0x04F1 [0x48] [System] [7606*]:
     → "The current battlefield clear time record for "[A Century of Hardship/Return to the Depths/Bionic Bug/Pulling the Strings/Automaton Assault/The Mobline Comedy/To Movalpolos!]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7433*]:
+120: 0x04FD [0x48] [System] [7435*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7432*]:
+126: 0x0511 [0x48] [System] [7434*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1096,7 +1096,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7408*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -1236,7 +1236,7 @@ SUBROUTINE_07E1:
 263: 0x07E4 [0x02] IF !(0* == 1*) GOTO 0x07F1
 264: 0x07EC [0x03] ExtData[1]->WorkLocal[0] = 4*
 265: 0x07F1 [0x01] GOTO 0x01A4
-266: 0x07F4 [0x48] [System] [7072*]:
+266: 0x07F4 [0x48] [System] [7074*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1256,19 +1256,19 @@ SUBROUTINE_082B:
 
 SUBROUTINE_0845:
 278: 0x0845 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0857
-279: 0x084D [0x48] [System] [7608*]:
+279: 0x084D [0x48] [System] [7610*]:
     → "Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members."
 280: 0x0850 [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x0851 [0x05] ExtData[1]->WorkLocal[22] = 1
 282: 0x0854 [0x01] GOTO 0x087B
 283: 0x0857 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0869
-284: 0x085F [0x48] [System] [7609*]:
+284: 0x085F [0x48] [System] [7611*]:
     → "Level limit of 60. Restricted to one person. Support job abilities inaccessable for this battlefield."
 285: 0x0862 [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x0863 [0x05] ExtData[1]->WorkLocal[22] = 1
 287: 0x0866 [0x01] GOTO 0x087B
 288: 0x0869 [0x02] IF !(ExtData[1]->WorkLocal[3] == 4*) GOTO 0x087B
-289: 0x0871 [0x48] [System] [7610*]:
+289: 0x0871 [0x48] [System] [7612*]:
     → "Level limit of 60. The experience point reward for this battlefield will be reduced for parties of four or more members. Restricted to characters of the same race."
 290: 0x0874 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x0875 [0x05] ExtData[1]->WorkLocal[22] = 1
@@ -1623,7 +1623,7 @@ SUBROUTINE_0C6B:
  84: 0x0C76 [0x01] GOTO 0x0C94
  85: 0x0C79 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D44
  86: 0x0C81 [0x1C] WAIT(15* ticks)
- 87: 0x0C84 [0x24] CREATE_DIALOG(message_id=7408*, default_option=1*, option_flags=0*)
+ 87: 0x0C84 [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0C8B [0x25] WAIT_DIALOG_SELECT()
  89: 0x0C8C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D44
@@ -1690,18 +1690,18 @@ SUBROUTINE_0D76:
 138: 0x0DAF [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DCA
 139: 0x0DB7 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0DBE [0x15] Work_Zone[5] /= 60*
-141: 0x0DC3 [0x48] [System] [7410*]:
+141: 0x0DC3 [0x48] [System] [7412*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0DC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0DC7 [0x01] GOTO 0x0DCE
-144: 0x0DCA [0x48] [System] [7409*]:
+144: 0x0DCA [0x48] [System] [7411*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0DCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DCE:
 146: 0x0DCE [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DE2
 147: 0x0DD6 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0DDB [0x48] [System] [7603*]:
+148: 0x0DDB [0x48] [System] [7605*]:
     → "You have broken the clear time record for "[A Century of Hardship/Return to the Depths/Bionic Bug/Pulling the Strings/Automaton Assault/The Mobline Comedy/To Movalpolos!]"!"
 149: 0x0DDE [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0DDF [0x01] GOTO 0x0E0B
@@ -1709,12 +1709,12 @@ SUBROUTINE_0DCE:
 152: 0x0DEA [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0DEF [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0DF6 [0x15] Work_Zone[5] /= 60*
-155: 0x0DFB [0x48] [System] [7412*]:
+155: 0x0DFB [0x48] [System] [7414*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0DFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0DFF [0x01] GOTO 0x0E0B
 158: 0x0E02 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0E07 [0x48] [System] [7411*]:
+159: 0x0E07 [0x48] [System] [7413*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0E0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3041,7 +3041,7 @@ SUBROUTINE_0FE2:
 
 ```
 # Dead code (unreachable instructions):
-     0x1028 [0x24] CREATE_DIALOG(message_id=7069*, default_option=1*, option_flags=0*)
+     0x1028 [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x102F [0x25] WAIT_DIALOG_SELECT()
      0x1030 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x103E
@@ -3139,22 +3139,22 @@ SUBROUTINE_0FE2:
      0x1271 [0x1A] CALL_SUBROUTINE(address=0x5477)
      0x1274 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "gs00" with entities [LocalPlayer, LocalPlayer], work=179*
      0x1283 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs01" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x1294 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7611*]:
+     0x1294 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7613*]:
     → "Promathia's Reborn! Promathia's Reborn! He's stronger than stupid Hume Hume! He's more powerful than ugly goddess goddess!"
      0x129B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x129C [0x52] END_LOAD_SCHEDULER: End scheduler "gs01" with entities [LocalPlayer, LocalPlayer], work=179*
      0x12AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs02" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x12BC [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7612*]:
+     0x12BC [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7614*]:
     → "Weee'll taaake hiiim! Mooobliiins dooon't breeeak prooomiiises! Weee'll taaake hiiim tooo spaaarkly plaaace!"
      0x12C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12C4 [0x52] END_LOAD_SCHEDULER: End scheduler "gs02" with entities [LocalPlayer, LocalPlayer], work=179*
      0x12D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs03" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x12E4 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7613*]:
+     0x12E4 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7615*]:
     → "Ys! Sprkly plc! Fr t th nrth! Undr wtr! Trmr csd cv t fll wth rcks..."
      0x12EB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12EC [0x52] END_LOAD_SCHEDULER: End scheduler "gs03" with entities [LocalPlayer, LocalPlayer], work=179*
      0x12FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs04" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x130C [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7614*]:
+     0x130C [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7616*]:
     → "But's we's dig's! Moblins's don't's break's promises's! We's take's Promathia's to's sparkly's place's!"
      0x1313 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1314 [0x52] END_LOAD_SCHEDULER: End scheduler "gs04" with entities [LocalPlayer, LocalPlayer], work=179*
@@ -3164,16 +3164,16 @@ SUBROUTINE_0FE2:
      0x1346 [0x6B] STOP_AND_IDLE: Trikotrak (ID: 16830621/0x0100D09D) stops current action and resets to idle (animation="idl0")
      0x134F [0x6B] STOP_AND_IDLE: Swipostik (ID: 16830622/0x0100D09E) stops current action and resets to idle (animation="idl0")
      0x1358 [0x1C] WAIT(60* ticks)
-     0x135B [0x2B] Louverance (ID: 16830614/0x0100D096) [7615*]:
+     0x135B [0x2B] Louverance (ID: 16830614/0x0100D096) [7617*]:
     → "I never imagined we would meet Selh'teus in this place..."
      0x1362 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1363 [0x52] END_LOAD_SCHEDULER: End scheduler "gs05" with entities [LocalPlayer, LocalPlayer], work=179*
      0x1372 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs06" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x1383 [0x2B] Louverance (ID: 16830614/0x0100D096) [7616*]:
+     0x1383 [0x2B] Louverance (ID: 16830614/0x0100D096) [7618*]:
     → "However, what could these creatures be jabbering about...?"
      0x138A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x138B [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x03)
-     0x1392 [0x2B] ??? (ID: 16830612/0x0100D094) [7617*]:
+     0x1392 [0x2B] ??? (ID: 16830612/0x0100D094) [7619*]:
     → "Shoooowaaaa...."
      0x1399 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x139A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gb01" with entities [Louverance (ID: 16830614/0x0100D096), Louverance (ID: 16830614/0x0100D096)], work=419*
@@ -3183,12 +3183,12 @@ SUBROUTINE_0FE2:
      0x13D2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "gs07" with entities [LocalPlayer, LocalPlayer], work=179*
      0x13E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs08" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x13F2 [0x1C] WAIT(45* ticks)
-     0x13F5 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7618*]:
+     0x13F5 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7620*]:
     → "Who are you...people...?"
      0x13FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13FD [0x6E] Jabbos (ID: 16830615/0x0100D097) uses emote 0*
      0x1404 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
-     0x1409 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7619*]:
+     0x1409 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7621*]:
     → "Do you know...who that boy...is?"
      0x1410 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1411 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
@@ -3196,36 +3196,36 @@ SUBROUTINE_0FE2:
      0x1425 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs09" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x1436 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gb02" with entities [Louverance (ID: 16830614/0x0100D096), Louverance (ID: 16830614/0x0100D096)], work=419*
      0x1445 [0x1C] WAIT(60* ticks)
-     0x1448 [0x2B] Louverance (ID: 16830614/0x0100D096) [7620*]:
+     0x1448 [0x2B] Louverance (ID: 16830614/0x0100D096) [7622*]:
     → "A Galka...?"
      0x144F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1450 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7621*]:
+     0x1450 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7623*]:
     → "I am...Jabbos... I have lived...with the Moblins...for a long, long time..."
      0x1457 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1458 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7622*]:
+     0x1458 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7624*]:
     → "A long time...in peace..."
      0x145F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1460 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Jabbos (ID: 16830615/0x0100D097), Jabbos (ID: 16830615/0x0100D097)], work=69*
      0x146F [0x52] END_LOAD_SCHEDULER: End scheduler "gs09" with entities [LocalPlayer, LocalPlayer], work=179*
      0x147E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs10" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x148F [0x27] REQ_SET(priority=0x10, entity_id=Louverance (ID: 16830614/0x0100D096), tag_num=0x0E)
-     0x1496 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7623*]:
+     0x1496 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7625*]:
     → "But lately... The Moblins...act strangely..."
      0x149D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x149E [0x2B] Jabbos (ID: 16830615/0x0100D097) [7624*]:
+     0x149E [0x2B] Jabbos (ID: 16830615/0x0100D097) [7626*]:
     → "They praise the Twilight...God... They attack...the children of Altana..."
      0x14A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x14A6 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7625*]:
+     0x14A6 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7627*]:
     → "But I'll...stop them... I promise... Moblins...don't break...promises..."
      0x14AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x14AE [0x2B] Jabbos (ID: 16830615/0x0100D097) [7626*]:
+     0x14AE [0x2B] Jabbos (ID: 16830615/0x0100D097) [7628*]:
     → "Now go... Leave...the rest to...me..."
      0x14B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Jabbos (ID: 16830615/0x0100D097), Jabbos (ID: 16830615/0x0100D097)], work=69*
      0x14C5 [0x52] END_LOAD_SCHEDULER: End scheduler "gs10" with entities [LocalPlayer, LocalPlayer], work=179*
      0x14D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs11" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x14E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Louverance (ID: 16830614/0x0100D096), Louverance (ID: 16830614/0x0100D096)], work=29*
-     0x14F4 [0x2B] Louverance (ID: 16830614/0x0100D096) [7627*]:
+     0x14F4 [0x2B] Louverance (ID: 16830614/0x0100D096) [7629*]:
     → "But..."
      0x14FB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Louverance (ID: 16830614/0x0100D096), Louverance (ID: 16830614/0x0100D096)], work=29*
@@ -3239,35 +3239,35 @@ SUBROUTINE_0FE2:
      0x152A [0x27] REQ_SET(priority=0x10, entity_id=Cherukiki (ID: 16830618/0x0100D09A), tag_num=0x0D)
      0x1531 [0x52] END_LOAD_SCHEDULER: End scheduler "gs11" with entities [LocalPlayer, LocalPlayer], work=179*
      0x1540 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs12" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x1551 [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7628*]:
+     0x1551 [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7630*]:
     → "Out of the way! Makki's coming through!"
      0x1558 [0x1C] WAIT(30* ticks)
      0x155B [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x0E)
-     0x1562 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7629*]:
+     0x1562 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7631*]:
     → "Out of the way! Kukki's coming through, too!"
      0x1569 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x156A [0x2B] Jabbos (ID: 16830615/0x0100D097) [7630*]:
+     0x156A [0x2B] Jabbos (ID: 16830615/0x0100D097) [7632*]:
     → "!?"
      0x1571 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1572 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Cherukiki (ID: 16830618/0x0100D09A))
      0x1578 [0x52] END_LOAD_SCHEDULER: End scheduler "gs12" with entities [LocalPlayer, LocalPlayer], work=179*
      0x1587 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs13" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x1598 [0x2B] Louverance (ID: 16830614/0x0100D096) [7631*]:
+     0x1598 [0x2B] Louverance (ID: 16830614/0x0100D096) [7633*]:
     → "Wait right there! Why, you are those pesky children from Tavnazia!"
      0x159F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15A0 [0x52] END_LOAD_SCHEDULER: End scheduler "gs13" with entities [LocalPlayer, LocalPlayer], work=179*
      0x15AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gs14" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x15C0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Cherukiki (ID: 16830618/0x0100D09A), Cherukiki (ID: 16830618/0x0100D09A)], work=341*
-     0x15CF [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7632*]:
+     0x15CF [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7634*]:
     → "Whoa! It's the funny-looking boy!"
      0x15D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15D7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "iro0" with entities [Kukki-Chebukki (ID: 16830617/0x0100D099), Kukki-Chebukki (ID: 16830617/0x0100D099)], work=336*
-     0x15E6 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7633*]:
+     0x15E6 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7635*]:
     → "Whoa! I told you we shouldn't have taken that shortcut!"
      0x15ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15EE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik1" with entities [Cherukiki (ID: 16830618/0x0100D09A), Cherukiki (ID: 16830618/0x0100D09A)], work=341*
      0x15FD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wai0" with entities [Makki-Chebukki (ID: 16830616/0x0100D098), Makki-Chebukki (ID: 16830616/0x0100D098)], work=336*
-     0x160C [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7634*]:
+     0x160C [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7636*]:
     → "Whoa! Who cares? Let's catch him!"
      0x1613 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1614 [0x1C] WAIT(30* ticks)
@@ -3284,7 +3284,7 @@ SUBROUTINE_0FE2:
      0x167F [0x4A] Jabbos (ID: 16830615/0x0100D097) looks at Makki-Chebukki (ID: 16830616/0x0100D098)
      0x1688 [0x4A] LocalPlayer looks at Makki-Chebukki (ID: 16830616/0x0100D098)
      0x1691 [0x79] Louverance (ID: 16830614/0x0100D096) looks at LocalPlayer (Basic look)
-     0x169B [0x2B] Louverance (ID: 16830614/0x0100D096) [7635*]:
+     0x169B [0x2B] Louverance (ID: 16830614/0x0100D096) [7637*]:
     → "<Player>! This is a perfect opportunity to take Selh'teus into custody. We cannot pass it up!"
      0x16A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16A3 [0x52] END_LOAD_SCHEDULER: End scheduler "gs15" with entities [LocalPlayer, LocalPlayer], work=179*
@@ -3353,13 +3353,13 @@ SUBROUTINE_0FE2:
      0x184D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "m501" with entities [LocalPlayer, LocalPlayer], work=156*
      0x185C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m502" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x186D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Twilotak (ID: 16830649/0x0100D0B9), Twilotak (ID: 16830649/0x0100D0B9)], work=215*
-     0x187C [0x2B] Twilotak (ID: 16830649/0x0100D0B9) [7894*]:
+     0x187C [0x2B] Twilotak (ID: 16830649/0x0100D0B9) [7896*]:
     → "Sei, chabuirho, hee Goblin?"
      0x1883 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1884 [0x6B] STOP_AND_IDLE: Twilotak (ID: 16830649/0x0100D0B9) stops current action and resets to idle (animation="idl0")
      0x188D [0x52] END_LOAD_SCHEDULER: End scheduler "m502" with entities [LocalPlayer, LocalPlayer], work=156*
      0x189C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m503" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
-     0x18AD [0x24] CREATE_DIALOG(message_id=7951*, default_option=0*, option_flags=0*)
+     0x18AD [0x24] CREATE_DIALOG(message_id=7953*, default_option=0*, option_flags=0*)
     → "Hee, GoblinH [Uhuh./Um...?]"
      0x18B4 [0x25] WAIT_DIALOG_SELECT()
      0x18B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x18CC
@@ -3375,13 +3375,13 @@ SUBROUTINE_0FE2:
      0x18EB [0x52] END_LOAD_SCHEDULER: End scheduler "m503" with entities [LocalPlayer, LocalPlayer], work=156*
      0x18FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m504" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x190B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum0" with entities [Twilotak (ID: 16830649/0x0100D0B9), Twilotak (ID: 16830649/0x0100D0B9)], work=216*
-     0x191A [0x2B] Twilotak (ID: 16830649/0x0100D0B9) [7895*]:
+     0x191A [0x2B] Twilotak (ID: 16830649/0x0100D0B9) [7897*]:
     → "Mouh ghobessae, hee Goblin?"
      0x1921 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1922 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum1" with entities [Twilotak (ID: 16830649/0x0100D0B9), Twilotak (ID: 16830649/0x0100D0B9)], work=216*
      0x1931 [0x52] END_LOAD_SCHEDULER: End scheduler "m504" with entities [LocalPlayer, LocalPlayer], work=156*
      0x1940 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m503" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
-     0x1951 [0x24] CREATE_DIALOG(message_id=7951*, default_option=0*, option_flags=0*)
+     0x1951 [0x24] CREATE_DIALOG(message_id=7953*, default_option=0*, option_flags=0*)
     → "Hee, GoblinH [Uhuh./Um...?]"
      0x1958 [0x25] WAIT_DIALOG_SELECT()
      0x1959 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1970
@@ -3398,13 +3398,13 @@ SUBROUTINE_0FE2:
      0x1994 [0x52] END_LOAD_SCHEDULER: End scheduler "m503" with entities [LocalPlayer, LocalPlayer], work=156*
      0x19A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m505" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x19B4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mmm0" with entities [Twilotak (ID: 16830649/0x0100D0B9), Twilotak (ID: 16830649/0x0100D0B9)], work=216*
-     0x19C3 [0x2B] Twilotak (ID: 16830649/0x0100D0B9) [7896*]:
+     0x19C3 [0x2B] Twilotak (ID: 16830649/0x0100D0B9) [7898*]:
     → "Dhojyakk raoba, hee Goblin?"
      0x19CA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19CB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mmm1" with entities [Twilotak (ID: 16830649/0x0100D0B9), Twilotak (ID: 16830649/0x0100D0B9)], work=216*
      0x19DA [0x52] END_LOAD_SCHEDULER: End scheduler "m505" with entities [LocalPlayer, LocalPlayer], work=156*
      0x19E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m503" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
-     0x19FA [0x24] CREATE_DIALOG(message_id=7951*, default_option=0*, option_flags=0*)
+     0x19FA [0x24] CREATE_DIALOG(message_id=7953*, default_option=0*, option_flags=0*)
     → "Hee, GoblinH [Uhuh./Um...?]"
      0x1A01 [0x25] WAIT_DIALOG_SELECT()
      0x1A02 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A19
@@ -3427,7 +3427,7 @@ SUBROUTINE_0FE2:
      0x1A75 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m506" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x1A86 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
      0x1A97 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fnd0" with entities [Twilotak (ID: 16830649/0x0100D0B9), Twilotak (ID: 16830649/0x0100D0B9)], work=216*
-     0x1AA6 [0x2B] Twilotak (ID: 16830649/0x0100D0B9) [7897*]:
+     0x1AA6 [0x2B] Twilotak (ID: 16830649/0x0100D0B9) [7899*]:
     → "Rarrgghh!"
      0x1AAD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1AAE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "m506" with entities [LocalPlayer, LocalPlayer], work=156*
@@ -3439,23 +3439,23 @@ SUBROUTINE_0FE2:
      0x1AEE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m508" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x1AFF [0x4A] LocalPlayer looks at Pawnpix (ID: 16830647/0x0100D0B7)
      0x1B08 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Pawnpix (ID: 16830647/0x0100D0B7), Pawnpix (ID: 16830647/0x0100D0B7)], work=215*
-     0x1B17 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7898*]:
+     0x1B17 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7900*]:
     → "You really ticked 'em off!"
      0x1B1E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B1F [0x6B] STOP_AND_IDLE: Pawnpix (ID: 16830647/0x0100D0B7) stops current action and resets to idle (animation="idl0")
      0x1B28 [0x79] LocalPlayer looks at Stufstix (ID: 16830648/0x0100D0B8) (Basic look)
      0x1B32 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Stufstix (ID: 16830648/0x0100D0B8), Stufstix (ID: 16830648/0x0100D0B8)], work=215*
-     0x1B41 [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7899*]:
+     0x1B41 [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7901*]:
     → "Nice way to pick a fight!"
      0x1B48 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B49 [0x6B] STOP_AND_IDLE: Stufstix (ID: 16830648/0x0100D0B8) stops current action and resets to idle (animation="idl0")
      0x1B52 [0x1C] WAIT(45* ticks)
      0x1B55 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bye0" with entities [Pawnpix (ID: 16830647/0x0100D0B7), Pawnpix (ID: 16830647/0x0100D0B7)], work=216*
      0x1B64 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bye0" with entities [Stufstix (ID: 16830648/0x0100D0B8), Stufstix (ID: 16830648/0x0100D0B8)], work=216*
-     0x1B73 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7901*]:
+     0x1B73 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7903*]:
     → "We're cheerin' for you!"
      0x1B7A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1B7B [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7900*]:
+     0x1B7B [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7902*]:
     → "Good luck!"
      0x1B82 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B83 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bye0" with entities [Stufstix (ID: 16830648/0x0100D0B8), Stufstix (ID: 16830648/0x0100D0B8)]
@@ -3807,7 +3807,7 @@ SUBROUTINE_0FE2:
      0x272F [0x79] LocalPlayer looks at Jabbos (ID: 16830615/0x0100D097) (Basic look)
      0x2739 [0x6E] Jabbos (ID: 16830615/0x0100D097) uses emote 35*
      0x2740 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
-     0x2745 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8029*]:
+     0x2745 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8031*]:
     → "<Gasp...wheeze>... We managed...to stop...the explosion..."
      0x274C [0x1C] WAIT(180* ticks)
      0x274F [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -3818,7 +3818,7 @@ SUBROUTINE_0FE2:
      0x277A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Jabbos (ID: 16830615/0x0100D097) Render.Flags0 and Render.Flags3 conditions are met
      0x277F [0x1C] WAIT(30* ticks)
      0x2782 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pos0" with entities [Jabbos (ID: 16830615/0x0100D097), Jabbos (ID: 16830615/0x0100D097)], work=134*
-     0x2791 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8030*]:
+     0x2791 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8032*]:
     → "Take him to a cell!"
      0x2798 [0x1C] WAIT(60* ticks)
      0x279B [0x4A] LocalPlayer looks at Gloom Phantom (ID: 16830676/0x0100D0D4)
@@ -3830,7 +3830,7 @@ SUBROUTINE_0FE2:
      0x27DB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x27DC [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Chekochuk (ID: 16830619/0x0100D09B) Render.Flags0 and Render.Flags3 conditions are met
      0x27E1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=2150*
-     0x27F0 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [8031*]:
+     0x27F0 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [8033*]:
     → "Lt's go! Kp it mvng!"
      0x27F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x27F8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pnt0" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)]
@@ -3887,7 +3887,7 @@ SUBROUTINE_0FE2:
      0x2A10 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Jabbos (ID: 16830615/0x0100D097))
      0x2A16 [0x1C] WAIT(30* ticks)
      0x2A19 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x24)
-     0x2A20 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8032*]:
+     0x2A20 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8034*]:
     → "<Player>, let's leave here... I could...use your help...with something."
      0x2A27 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2A28 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x25)
@@ -3922,7 +3922,7 @@ SUBROUTINE_0FE2:
      0x2B0B [0x1C] WAIT(120* ticks)
      0x2B0E [0xBA] SET_ENTITY_POSITION(entity_id=Jabbos (ID: 16830615/0x0100D097), pos_x=-102.932*, pos_z=499.355*, pos_y=179.999*, direction=177.7°*)
      0x2B1B [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-97.173*, pos_z=500.550*, pos_y=179.999*, direction=179.2°*)
-     0x2B28 [0x48] [System] [7952*]:
+     0x2B28 [0x48] [System] [7954*]:
     → "@@"
      0x2B2B [0x1C] WAIT(60* ticks)
      0x2B2E [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 25*
@@ -3958,13 +3958,13 @@ SUBROUTINE_0FE2:
      0x2C4E [0x1C] WAIT(30* ticks)
      0x2C51 [0x6E] Jabbos (ID: 16830615/0x0100D097) uses emote 22*
      0x2C58 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
-     0x2C5D [0x2B] Jabbos (ID: 16830615/0x0100D097) [8033*]:
+     0x2C5D [0x2B] Jabbos (ID: 16830615/0x0100D097) [8035*]:
     → "Whew... That black Goblin...is safely locked up...in a cell now."
      0x2C64 [0x1C] WAIT(180* ticks)
      0x2C67 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2C68 [0x6E] Jabbos (ID: 16830615/0x0100D097) uses emote 35*
      0x2C6F [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
-     0x2C74 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8034*]:
+     0x2C74 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8036*]:
     → "All of the beastmen...have returned home safely. That's a relief..."
      0x2C7B [0x1C] WAIT(180* ticks)
      0x2C7E [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -3986,7 +3986,7 @@ SUBROUTINE_0FE2:
      0x2D01 [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [EventEntity, EventEntity], work=902*
      0x2D10 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x2D21 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x24)
-     0x2D28 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8035*]:
+     0x2D28 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8037*]:
     → "<Player>, thank you...for all of your help..."
      0x2D2F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2D30 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x25)
@@ -4010,16 +4010,16 @@ SUBROUTINE_0FE2:
      0x2DDD [0x01] GOTO 0x2DF1
      0x2DE0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x2DF1 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2A)
-     0x2DF8 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8036*]:
+     0x2DF8 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8038*]:
     → "That Goblin's name...was Gloom Phantom..."
      0x2DFF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2E00 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2B)
      0x2E07 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2C)
-     0x2E0E [0x2B] Jabbos (ID: 16830615/0x0100D097) [8037*]:
+     0x2E0E [0x2B] Jabbos (ID: 16830615/0x0100D097) [8039*]:
     → "That name...sounds familiar... Have you...heard it before?"
      0x2E15 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2E16 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2D)
-     0x2E1D [0x24] CREATE_DIALOG(message_id=8038*, default_option=0*, option_flags=0*)
+     0x2E1D [0x24] CREATE_DIALOG(message_id=8040*, default_option=0*, option_flags=0*)
     → "Do you know Gloom Phantom? [Yes, I do./Sorry, I'm afraid not.]"
      0x2E24 [0x25] WAIT_DIALOG_SELECT()
      0x2E25 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2F62
@@ -4049,12 +4049,12 @@ SUBROUTINE_0FE2:
      0x2F13 [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=902*
      0x2F22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x2F33 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x47)
-     0x2F3A [0x2B] Jabbos (ID: 16830615/0x0100D097) [8039*]:
+     0x2F3A [0x2B] Jabbos (ID: 16830615/0x0100D097) [8041*]:
     → "I see... The Destiny Destroyers..."
      0x2F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2F42 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x48)
      0x2F49 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2A)
-     0x2F50 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8040*]:
+     0x2F50 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8042*]:
     → "Is that the one...who set out to destroy the..."World Eater Egg" left behind by Chaos?"
      0x2F57 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2F58 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2B)
@@ -4086,12 +4086,12 @@ SUBROUTINE_0FE2:
      0x3050 [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=902*
      0x305F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x3070 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x47)
-     0x3077 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8041*]:
+     0x3077 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8043*]:
     → "Ah, I remember now... The Destiny Destroyers..."
      0x307E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x307F [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x48)
      0x3086 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2A)
-     0x308D [0x2B] Jabbos (ID: 16830615/0x0100D097) [8042*]:
+     0x308D [0x2B] Jabbos (ID: 16830615/0x0100D097) [8044*]:
     → "I believe it was the group...that set out to destroy the..."World Eater Egg" left behind by Chaos."
      0x3094 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3095 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2B)
@@ -4114,20 +4114,20 @@ SUBROUTINE_0FE2:
      0x3121 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=902*
      0x3130 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x3141 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2C)
-     0x3148 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8043*]:
+     0x3148 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8045*]:
     → "Not long ago...a valuable weapon was destroyed... And they were...forced to scatter."
      0x314F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3150 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x2D)
      0x3157 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x24)
-     0x315E [0x2B] Jabbos (ID: 16830615/0x0100D097) [8044*]:
+     0x315E [0x2B] Jabbos (ID: 16830615/0x0100D097) [8046*]:
     → "I heard that...they all returned...to their homes."
      0x3165 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3166 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8045*]:
+     0x3166 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8047*]:
     → "So why...is Gloom Phantom...siding with Chaos?"
      0x316D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x316E [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x25)
      0x3175 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x26)
-     0x317C [0x2B] Jabbos (ID: 16830615/0x0100D097) [8046*]:
+     0x317C [0x2B] Jabbos (ID: 16830615/0x0100D097) [8048*]:
     → "It is true that...Chaos's resurrection...strikes fear in the hearts of many beastmen."
      0x3183 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3184 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x27)
@@ -4149,12 +4149,12 @@ SUBROUTINE_0FE2:
      0x3223 [0x01] GOTO 0x3237
      0x3226 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x3237 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x47)
-     0x323E [0x2B] Jabbos (ID: 16830615/0x0100D097) [8047*]:
+     0x323E [0x2B] Jabbos (ID: 16830615/0x0100D097) [8049*]:
     → "As such, do you think that...the Destiny Destroyers' hearts...are at peace?"
      0x3245 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3246 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x48)
      0x324D [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x49)
-     0x3254 [0x24] CREATE_DIALOG(message_id=8048*, default_option=0*, option_flags=0*)
+     0x3254 [0x24] CREATE_DIALOG(message_id=8050*, default_option=0*, option_flags=0*)
     → "What do you think? [I'm sure they're fine!/They don't look so good.../I have no idea.]"
      0x325B [0x25] WAIT_DIALOG_SELECT()
      0x325C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3356
@@ -4179,15 +4179,15 @@ SUBROUTINE_0FE2:
      0x32FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x3310 [0x6E] Jabbos (ID: 16830615/0x0100D097) uses emote 7*
      0x3317 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
-     0x331C [0x2B] Jabbos (ID: 16830615/0x0100D097) [8049*]:
+     0x331C [0x2B] Jabbos (ID: 16830615/0x0100D097) [8051*]:
     → "In that case...I'm glad to hear it!"
      0x3323 [0x1C] WAIT(180* ticks)
      0x3326 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3327 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x24)
-     0x332E [0x2B] Jabbos (ID: 16830615/0x0100D097) [8050*]:
+     0x332E [0x2B] Jabbos (ID: 16830615/0x0100D097) [8052*]:
     → "Still, I would like to...know if they are truly okay..."
      0x3335 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3336 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8051*]:
+     0x3336 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8053*]:
     → "I heard that one of them...returned home...to the Boyahda Tree."
      0x333D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x333E [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x25)
@@ -4216,15 +4216,15 @@ SUBROUTINE_0FE2:
      0x33F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x340A [0x6E] Jabbos (ID: 16830615/0x0100D097) uses emote 7*
      0x3411 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
-     0x3416 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8052*]:
+     0x3416 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8054*]:
     → "I feel...the same way..."
      0x341D [0x1C] WAIT(180* ticks)
      0x3420 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3421 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x24)
-     0x3428 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8053*]:
+     0x3428 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8055*]:
     → "Based on what happened here...I feel my friends' hearts are troubled... It gives me...an uneasy feeling."
      0x342F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3430 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8054*]:
+     0x3430 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8056*]:
     → "<Player>, can you...check on them for me? I believe...one of them returned home...to the Boyahda Tree."
      0x3437 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3438 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x25)
@@ -4251,10 +4251,10 @@ SUBROUTINE_0FE2:
      0x34E1 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=902*
      0x34F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x3501 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x24)
-     0x3508 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8055*]:
+     0x3508 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8057*]:
     → "Based on what happened here...I feel my friends' hearts are troubled... It gives me...an uneasy feeling."
      0x350F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3510 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8056*]:
+     0x3510 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8058*]:
     → "<Player>, can you...check on them for me? I believe...one of them returned home...to the Boyahda Tree."
      0x3517 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3518 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x25)
@@ -4264,10 +4264,10 @@ SUBROUTINE_0FE2:
      0x3530 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=902*
      0x353F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[902*, 0*]
      0x3550 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x47)
-     0x3557 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8057*]:
+     0x3557 [0x2B] Jabbos (ID: 16830615/0x0100D097) [8059*]:
     → "You are...very kind and...look after your friends. That is why...I need your help..."
      0x355E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x355F [0x2B] Jabbos (ID: 16830615/0x0100D097) [8058*]:
+     0x355F [0x2B] Jabbos (ID: 16830615/0x0100D097) [8060*]:
     → "I shall...learn what I can...from Gloom Phantom..."
      0x3566 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3567 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x48)
@@ -4372,17 +4372,17 @@ SUBROUTINE_0FE2:
      0x3807 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)]
      0x3814 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "ex00" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3823 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ex01" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x3834 [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7636*]:
+     0x3834 [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7638*]:
     → "Is that all ya got?"
      0x383B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x383C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfk0" with entities [Kukki-Chebukki (ID: 16830617/0x0100D099), Kukki-Chebukki (ID: 16830617/0x0100D099)], work=441*
-     0x384B [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7637*]:
+     0x384B [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7639*]:
     → "I could beat you all with one hand!"
      0x3852 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3853 [0x52] END_LOAD_SCHEDULER: End scheduler "ex01" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3862 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ex02" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3873 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "usi0" with entities [Cherukiki (ID: 16830618/0x0100D09A), Cherukiki (ID: 16830618/0x0100D09A)], work=431*
-     0x3882 [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7638*]:
+     0x3882 [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7640*]:
     → "It's time for the tickle torture!"
      0x3889 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x388A [0x1A] CALL_SUBROUTINE(address=0x5498)
@@ -4390,7 +4390,7 @@ SUBROUTINE_0FE2:
      0x3890 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16830625/0x0100D0A1), tag_num=0x0C)
      0x3897 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gt00" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x38A8 [0x1A] CALL_SUBROUTINE(address=0x5477)
-     0x38AB [0x2B] Jabbos (ID: 16830615/0x0100D097) [7639*]:
+     0x38AB [0x2B] Jabbos (ID: 16830615/0x0100D097) [7641*]:
     → "Arrrrrrg! Stop right there!"
      0x38B2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fuk0" with entities [Makki-Chebukki (ID: 16830616/0x0100D098), Makki-Chebukki (ID: 16830616/0x0100D098)], work=441*
      0x38C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fuk0" with entities [Kukki-Chebukki (ID: 16830617/0x0100D099), Kukki-Chebukki (ID: 16830617/0x0100D099)], work=441*
@@ -4409,7 +4409,7 @@ SUBROUTINE_0FE2:
      0x3959 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fuk1" with entities [Makki-Chebukki (ID: 16830616/0x0100D098), Makki-Chebukki (ID: 16830616/0x0100D098)], work=441*
      0x3968 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fuk1" with entities [Kukki-Chebukki (ID: 16830617/0x0100D099), Kukki-Chebukki (ID: 16830617/0x0100D099)], work=441*
      0x3977 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fuk1" with entities [Cherukiki (ID: 16830618/0x0100D09A), Cherukiki (ID: 16830618/0x0100D09A)], work=431*
-     0x3986 [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7640*]:
+     0x3986 [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7642*]:
     → "Hey!"
      0x398D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x398E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "gt02" with entities [LocalPlayer, LocalPlayer], work=179*
@@ -4440,23 +4440,23 @@ SUBROUTINE_0FE2:
      0x3A2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x3A3E [0x1C] WAIT(60* ticks)
      0x3A41 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "zit0" with entities [Cherukiki (ID: 16830618/0x0100D09A), Cherukiki (ID: 16830618/0x0100D09A)], work=337*
-     0x3A50 [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7641*]:
+     0x3A50 [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7643*]:
     → "Hey! Hey! Let us outta here! Let us out!"
      0x3A57 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3A58 [0x4A] Chekochuk (ID: 16830619/0x0100D09B) looks at Makki-Chebukki (ID: 16830616/0x0100D098)
      0x3A61 [0x52] END_LOAD_SCHEDULER: End scheduler "g000" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3A70 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g002" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x3A81 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7642*]:
+     0x3A81 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7644*]:
     → "What's this this? Oooh! Three Tarutarutaru look tasty tasty!"
      0x3A88 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3A89 [0x52] END_LOAD_SCHEDULER: End scheduler "g002" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3A98 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tr00" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3AA9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "iro0" with entities [Kukki-Chebukki (ID: 16830617/0x0100D099), Kukki-Chebukki (ID: 16830617/0x0100D099)], work=336*
-     0x3AB8 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7643*]:
+     0x3AB8 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7645*]:
     → "We're delegates from Jeuno! You touch us, you're toast!"
      0x3ABF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3AC0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "syu0" with entities [Makki-Chebukki (ID: 16830616/0x0100D098), Makki-Chebukki (ID: 16830616/0x0100D098)], work=336*
-     0x3ACF [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7644*]:
+     0x3ACF [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7646*]:
     → "We're delegates from Jeuno! If you don't let us delegate, you'll be toast!"
      0x3AD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3AD7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=216*
@@ -4468,7 +4468,7 @@ SUBROUTINE_0FE2:
      0x3B18 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "cry0" with entities [Makki-Chebukki (ID: 16830616/0x0100D098), Makki-Chebukki (ID: 16830616/0x0100D098)], work=442*
      0x3B27 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "cry0" with entities [Kukki-Chebukki (ID: 16830617/0x0100D099), Kukki-Chebukki (ID: 16830617/0x0100D099)], work=442*
      0x3B36 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "cry0" with entities [Cherukiki (ID: 16830618/0x0100D09A), Cherukiki (ID: 16830618/0x0100D09A)], work=432*
-     0x3B45 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7645*]:
+     0x3B45 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7647*]:
     → "Shut up up! Shut up up up! Noisy Tarutarutaru give Moblin Moblins headache! Be quiet or I cut your throat throats!"
      0x3B4C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3B4D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang1" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=216*
@@ -4476,17 +4476,17 @@ SUBROUTINE_0FE2:
      0x3B6B [0x52] END_LOAD_SCHEDULER: End scheduler "gb00" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3B7A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g003" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3B8B [0x1C] WAIT(30* ticks)
-     0x3B8E [0x2B] Louverance (ID: 16830614/0x0100D096) [7646*]:
+     0x3B8E [0x2B] Louverance (ID: 16830614/0x0100D096) [7648*]:
     → "Delegates? You would not happen to have been sent here by Nag'molada, would you?"
      0x3B95 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3B96 [0x52] END_LOAD_SCHEDULER: End scheduler "g003" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3BA5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g004" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3BB6 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x11)
-     0x3BBD [0x2B] Jabbos (ID: 16830615/0x0100D097) [7647*]:
+     0x3BBD [0x2B] Jabbos (ID: 16830615/0x0100D097) [7649*]:
     → "Wait...everyone... Calm...down... Listen to...me..."
      0x3BC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3BC5 [0x4A] Chekochuk (ID: 16830619/0x0100D09B) looks at Jabbos (ID: 16830615/0x0100D097)
-     0x3BCE [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7648*]:
+     0x3BCE [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7650*]:
     → "Jabbo Jabbo! What do you want want!?"
      0x3BD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3BD6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Louverance (ID: 16830614/0x0100D096), Louverance (ID: 16830614/0x0100D096)], work=29*
@@ -4495,46 +4495,46 @@ SUBROUTINE_0FE2:
      0x3BF1 [0x52] END_LOAD_SCHEDULER: End scheduler "g004" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3C00 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g005" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3C11 [0x79] Selh'teus (ID: 16830613/0x0100D095) looks at Jabbos (ID: 16830615/0x0100D097) (Basic look)
-     0x3C1B [0x2B] Jabbos (ID: 16830615/0x0100D097) [7649*]:
+     0x3C1B [0x2B] Jabbos (ID: 16830615/0x0100D097) [7651*]:
     → "That boy... He's... He's not Promathia..."
      0x3C22 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3C23 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
-     0x3C28 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7650*]:
+     0x3C28 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7652*]:
     → "He looks...nothing...like Promathia..."
      0x3C2F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3C30 [0x4A] Movamuq (ID: 16830620/0x0100D09C) looks at Jabbos (ID: 16830615/0x0100D097)
      0x3C39 [0x52] END_LOAD_SCHEDULER: End scheduler "g005" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3C48 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g006" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x3C59 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7651*]:
+     0x3C59 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7653*]:
     → "Huuuh? Doooesn't looook liiike Prooomaaathiaaa? Yooou knooow whaaat heee looooks liiike?"
      0x3C60 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3C61 [0x6E] Jabbos (ID: 16830615/0x0100D097) uses emote 7*
      0x3C68 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
-     0x3C6D [0x2B] Jabbos (ID: 16830615/0x0100D097) [7652*]:
+     0x3C6D [0x2B] Jabbos (ID: 16830615/0x0100D097) [7654*]:
     → "Yes... I've seen Promathia... His statue..."
      0x3C74 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3C75 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
      0x3C7A [0x52] END_LOAD_SCHEDULER: End scheduler "g006" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3C89 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g007" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3C9A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum0" with entities [Swipostik (ID: 16830622/0x0100D09E), Swipostik (ID: 16830622/0x0100D09E)], work=216*
-     0x3CA9 [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7653*]:
+     0x3CA9 [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7655*]:
     → "Statue's? Oh's! That's statue's! The's one's that's got's stolen's!"
      0x3CB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3CB1 [0x52] END_LOAD_SCHEDULER: End scheduler "g007" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3CC0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g008" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3CD1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=215*
-     0x3CE0 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7654*]:
+     0x3CE0 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7656*]:
     → "Yeah, yeah! I saw it, too, too! It looked nothing like the boy boy!"
      0x3CE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3CE8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=215*
-     0x3CF7 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7655*]:
+     0x3CF7 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7657*]:
     → "But, but... Boy boy used the dark dark power, just like legend says!"
      0x3CFE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3CFF [0x52] END_LOAD_SCHEDULER: End scheduler "g008" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3D0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g009" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3D1F [0x6B] STOP_AND_IDLE: Chekochuk (ID: 16830619/0x0100D09B) stops current action and resets to idle (animation="idl0")
      0x3D28 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum1" with entities [Swipostik (ID: 16830622/0x0100D09E), Swipostik (ID: 16830622/0x0100D09E)], work=216*
-     0x3D37 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7656*]:
+     0x3D37 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7658*]:
     → "Yes... But there is no...crystal...on his chest... He can't...be the real...Promathia..."
      0x3D3E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3D3F [0x6B] STOP_AND_IDLE: Makki-Chebukki (ID: 16830616/0x0100D098) stops current action and resets to idle (animation="idl0")
@@ -4546,7 +4546,7 @@ SUBROUTINE_0FE2:
      0x3D6C [0x52] END_LOAD_SCHEDULER: End scheduler "g009" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3D7B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g010" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3D8C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Jabbos (ID: 16830615/0x0100D097), Jabbos (ID: 16830615/0x0100D097)], work=69*
-     0x3D9B [0x2B] Jabbos (ID: 16830615/0x0100D097) [7658*]:
+     0x3D9B [0x2B] Jabbos (ID: 16830615/0x0100D097) [7660*]:
     → "And you...weren't created by...Promathia...anyway..."
      0x3DA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3DA3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Jabbos (ID: 16830615/0x0100D097), Jabbos (ID: 16830615/0x0100D097)], work=69*
@@ -4554,36 +4554,36 @@ SUBROUTINE_0FE2:
      0x3DC1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g011" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3DD2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=215*
      0x3DE1 [0x7B] Selh'teus (ID: 16830613/0x0100D095) stops talking
-     0x3DE6 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7659*]:
+     0x3DE6 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7661*]:
     → "Jabbo Jabbo! Don't start start with that again!"
      0x3DED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3DEE [0x52] END_LOAD_SCHEDULER: End scheduler "g011" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3DFD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g012" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3E0E [0x6B] STOP_AND_IDLE: Chekochuk (ID: 16830619/0x0100D09B) stops current action and resets to idle (animation="idl0")
      0x3E17 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum0" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=216*
-     0x3E26 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7660*]:
+     0x3E26 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7662*]:
     → "Jbbs... Jbbs blv wrds f dwn gddss..."
      0x3E2D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3E2E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Movamuq (ID: 16830620/0x0100D09C), Movamuq (ID: 16830620/0x0100D09C)], work=216*
-     0x3E3D [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7661*]:
+     0x3E3D [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7663*]:
     → "Jaaabbooos iiis fooooled by baaad peeeople!"
      0x3E44 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3E45 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7662*]:
+     0x3E45 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7664*]:
     → "Baaad peeeople muuust paaay!"
      0x3E4C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x3E4D [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7663*]:
+     0x3E4D [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7665*]:
     → "Leeeave theeem fooor taisai's diiinner!"
      0x3E54 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3E55 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang1" with entities [Movamuq (ID: 16830620/0x0100D09C), Movamuq (ID: 16830620/0x0100D09C)], work=216*
      0x3E64 [0x52] END_LOAD_SCHEDULER: End scheduler "g012" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3E73 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tr00" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3E84 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Makki-Chebukki (ID: 16830616/0x0100D098), Makki-Chebukki (ID: 16830616/0x0100D098)], work=340*
-     0x3E93 [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7664*]:
+     0x3E93 [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7666*]:
     → "Yikes! If you do that, we won't be able to trade you Promathia's staaatuuue!"
      0x3E9A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3E9B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "msu0" with entities [Kukki-Chebukki (ID: 16830617/0x0100D099), Kukki-Chebukki (ID: 16830617/0x0100D099)], work=340*
      0x3EAA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "msu0" with entities [Cherukiki (ID: 16830618/0x0100D09A), Cherukiki (ID: 16830618/0x0100D09A)], work=341*
-     0x3EB9 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7665*]:
+     0x3EB9 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7667*]:
     → "No Promathia's staaatuuue!"
      0x3EC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3EC1 [0x52] END_LOAD_SCHEDULER: End scheduler "tr00" with entities [LocalPlayer, LocalPlayer], work=179*
@@ -4595,50 +4595,50 @@ SUBROUTINE_0FE2:
      0x3F17 [0x4A] Chekochuk (ID: 16830619/0x0100D09B) looks at Makki-Chebukki (ID: 16830616/0x0100D098)
      0x3F20 [0x4A] Movamuq (ID: 16830620/0x0100D09C) looks at Makki-Chebukki (ID: 16830616/0x0100D098)
      0x3F29 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum1" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=216*
-     0x3F38 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7666*]:
+     0x3F38 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7668*]:
     → "Statue...?"
      0x3F3F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3F40 [0x52] END_LOAD_SCHEDULER: End scheduler "g013" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3F4F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g014" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3F60 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=216*
-     0x3F6F [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7667*]:
+     0x3F6F [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7669*]:
     → "Tarutarutaru! You have statue statue of Twilight God God?"
      0x3F76 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3F77 [0x52] END_LOAD_SCHEDULER: End scheduler "g014" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3F86 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g015" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3F97 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Movamuq (ID: 16830620/0x0100D09C), Movamuq (ID: 16830620/0x0100D09C)], work=216*
-     0x3FA6 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7668*]:
+     0x3FA6 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7670*]:
     → "Taaaruuuu! Yooou duuug uuup Prooomaaathiaaa staaatuuue!?"
      0x3FAD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3FAE [0x52] END_LOAD_SCHEDULER: End scheduler "g015" with entities [LocalPlayer, LocalPlayer], work=179*
      0x3FBD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tr01" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x3FCE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfm0" with entities [Makki-Chebukki (ID: 16830616/0x0100D098), Makki-Chebukki (ID: 16830616/0x0100D098)], work=441*
-     0x3FDD [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7669*]:
+     0x3FDD [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7671*]:
     → "Yeah! We know all about that white statue!"
      0x3FE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3FE5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfk0" with entities [Kukki-Chebukki (ID: 16830617/0x0100D099), Kukki-Chebukki (ID: 16830617/0x0100D099)], work=441*
-     0x3FF4 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7670*]:
+     0x3FF4 [0x2B] Kukki-Chebukki (ID: 16830617/0x0100D099) [7672*]:
     → "Yeah! You want that statue, you trade us the boy!"
      0x3FFB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3FFC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfc0" with entities [Cherukiki (ID: 16830618/0x0100D09A), Cherukiki (ID: 16830618/0x0100D09A)], work=431*
-     0x400B [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7671*]:
+     0x400B [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7673*]:
     → "Yeah! Trade us the boy!"
      0x4012 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4013 [0x52] END_LOAD_SCHEDULER: End scheduler "tr01" with entities [LocalPlayer, LocalPlayer], work=179*
      0x4022 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g016" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x4033 [0x4A] Movamuq (ID: 16830620/0x0100D09C) looks at Selh'teus (ID: 16830613/0x0100D095)
      0x403C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mmm0" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=216*
-     0x404B [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7672*]:
+     0x404B [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7674*]:
     → "Moblins want want the statue statue! It's written in Moblin legend legend!"
      0x4052 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4053 [0x52] END_LOAD_SCHEDULER: End scheduler "g016" with entities [LocalPlayer, LocalPlayer], work=179*
      0x4062 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g017" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x4073 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mmm0" with entities [Swipostik (ID: 16830622/0x0100D09E), Swipostik (ID: 16830622/0x0100D09E)], work=216*
-     0x4082 [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7673*]:
+     0x4082 [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7675*]:
     → "But's, we's can't's give's them's reincarnate's of's Promathia's!"
      0x4089 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x408A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mmm0" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=216*
-     0x4099 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7674*]:
+     0x4099 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7676*]:
     → "Bt, Prmth s strng! W gv hm t Trtr, myb h cn cm bck n hs wn!"
      0x40A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x40A1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mmm1" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=216*
@@ -4648,12 +4648,12 @@ SUBROUTINE_0FE2:
      0x40D7 [0x4A] Jabbos (ID: 16830615/0x0100D097) looks at Selh'teus (ID: 16830613/0x0100D095)
      0x40E0 [0x1C] WAIT(120* ticks)
      0x40E3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Movamuq (ID: 16830620/0x0100D09C), Movamuq (ID: 16830620/0x0100D09C)], work=216*
-     0x40F2 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7675*]:
+     0x40F2 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7677*]:
     → "!!! Prooomaaathiaaa's aaangry!"
      0x40F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x40FA [0x4A] Trikotrak (ID: 16830621/0x0100D09D) looks at Selh'teus (ID: 16830613/0x0100D095)
      0x4103 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=216*
-     0x4112 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7676*]:
+     0x4112 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7678*]:
     → "!!! Prmth's gttng wy!"
      0x4119 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x411A [0x52] END_LOAD_SCHEDULER: End scheduler "g018" with entities [LocalPlayer, LocalPlayer], work=179*
@@ -4670,10 +4670,10 @@ SUBROUTINE_0FE2:
      0x417D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "zit0" with entities [Cherukiki (ID: 16830618/0x0100D09A), Cherukiki (ID: 16830618/0x0100D09A)], work=337*
      0x418C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "g019" with entities [LocalPlayer, LocalPlayer], work=179*
      0x419B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tr01" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x41AC [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7677*]:
+     0x41AC [0x2B] Makki-Chebukki (ID: 16830616/0x0100D098) [7679*]:
     → "Aaah! Wait wait wait wait! My reward's running away!"
      0x41B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x41B4 [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7678*]:
+     0x41B4 [0x2B] Cherukiki (ID: 16830618/0x0100D09A) [7680*]:
     → "Aaah! Open open open open! My reward's getting away!"
      0x41BB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x41BC [0x52] END_LOAD_SCHEDULER: End scheduler "tr01" with entities [LocalPlayer, LocalPlayer], work=179*
@@ -4681,7 +4681,7 @@ SUBROUTINE_0FE2:
      0x41DC [0x79] Jabbos (ID: 16830615/0x0100D097) looks at Makki-Chebukki (ID: 16830616/0x0100D098) (Basic look)
      0x41E6 [0x27] REQ_SET(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x12)
      0x41ED [0x1C] WAIT(60* ticks)
-     0x41F0 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7679*]:
+     0x41F0 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7681*]:
     → "Wait... I'll let...you out..."
      0x41F7 [0x1C] WAIT(120* ticks)
      0x41FA [0x7B] Jabbos (ID: 16830615/0x0100D097) stops talking
@@ -4719,17 +4719,17 @@ SUBROUTINE_0FE2:
      0x4324 [0x1C] WAIT(120* ticks)
      0x4327 [0x79] LocalPlayer looks at Jabbos (ID: 16830615/0x0100D097) (Basic look)
      0x4331 [0x79] Louverance (ID: 16830614/0x0100D096) looks at Jabbos (ID: 16830615/0x0100D097) (Basic look)
-     0x433B [0x2B] Jabbos (ID: 16830615/0x0100D097) [7680*]:
+     0x433B [0x2B] Jabbos (ID: 16830615/0x0100D097) [7682*]:
     → "Shhhooowaaa... Travelers... This place...is dangerous..."
      0x4342 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4343 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "g022" with entities [LocalPlayer, LocalPlayer], work=179*
      0x4352 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g027" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x4363 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7681*]:
+     0x4363 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7683*]:
     → "You...should leave...right away... The Moblins...are upset... Who knows...what they might...do..."
      0x436A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x436B [0x6E] Jabbos (ID: 16830615/0x0100D097) uses emote 0*
      0x4372 [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
-     0x4377 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7682*]:
+     0x4377 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7684*]:
     → "There is...an exit...over there... Don't...look back... Run..."
      0x437E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x437F [0x99] Wait for Jabbos (ID: 16830615/0x0100D097) animation to complete
@@ -4738,24 +4738,24 @@ SUBROUTINE_0FE2:
      0x4396 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g023" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x43A7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ats0" with entities [Jabbos (ID: 16830615/0x0100D097), Jabbos (ID: 16830615/0x0100D097)], work=493*
      0x43B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s079" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
-     0x43C7 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7683*]:
+     0x43C7 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7685*]:
     → "And don't... Don't tell anyone...what you heard...or saw here... Don't..."
      0x43CE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x43CF [0x52] END_LOAD_SCHEDULER: End scheduler "g023" with entities [LocalPlayer, LocalPlayer], work=179*
      0x43DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g024" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x43EF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sin0" with entities [Louverance (ID: 16830614/0x0100D096), Louverance (ID: 16830614/0x0100D096)], work=417*
-     0x43FE [0x2B] Louverance (ID: 16830614/0x0100D096) [7684*]:
+     0x43FE [0x2B] Louverance (ID: 16830614/0x0100D096) [7686*]:
     → "I do not think that will be possible."
      0x4405 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4406 [0x1C] WAIT(45* ticks)
-     0x4409 [0x2B] Louverance (ID: 16830614/0x0100D096) [7685*]:
+     0x4409 [0x2B] Louverance (ID: 16830614/0x0100D096) [7687*]:
     → "Mister Jabbos. Of what the Moblins said, there is still much that troubles me..."
      0x4410 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4411 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "utan" with entities [Louverance (ID: 16830614/0x0100D096), Louverance (ID: 16830614/0x0100D096)], work=416*
-     0x4420 [0x2B] Louverance (ID: 16830614/0x0100D096) [7686*]:
+     0x4420 [0x2B] Louverance (ID: 16830614/0x0100D096) [7688*]:
     → "What were they talking of with the boy?"
      0x4427 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x4428 [0x2B] Louverance (ID: 16830614/0x0100D096) [7687*]:
+     0x4428 [0x2B] Louverance (ID: 16830614/0x0100D096) [7689*]:
     → "You must tell us. It may aid us in finding Selh'teus and bringing him into custody."
      0x442F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4430 [0x52] END_LOAD_SCHEDULER: End scheduler "g024" with entities [LocalPlayer, LocalPlayer], work=179*
@@ -4763,21 +4763,21 @@ SUBROUTINE_0FE2:
      0x4450 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ate0" with entities [Jabbos (ID: 16830615/0x0100D097), Jabbos (ID: 16830615/0x0100D097)], work=493*
      0x445F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x4470 [0x1C] WAIT(60* ticks)
-     0x4473 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7688*]:
+     0x4473 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7690*]:
     → "Shhhhoooowaaa... So... You know...of the boy..."
      0x447A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x447B [0x2B] Jabbos (ID: 16830615/0x0100D097) [7689*]:
+     0x447B [0x2B] Jabbos (ID: 16830615/0x0100D097) [7691*]:
     → "I, too...wish to know...more... We must go...to Bastok..."
      0x4482 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4483 [0x52] END_LOAD_SCHEDULER: End scheduler "g025" with entities [LocalPlayer, LocalPlayer], work=179*
      0x4492 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g026" with entities [LocalPlayer, LocalPlayer], work=[179*, 0*]
      0x44A3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hapy" with entities [Louverance (ID: 16830614/0x0100D096), Louverance (ID: 16830614/0x0100D096)], work=416*
-     0x44B2 [0x2B] Louverance (ID: 16830614/0x0100D096) [7690*]:
+     0x44B2 [0x2B] Louverance (ID: 16830614/0x0100D096) [7692*]:
     → "That's it! Master Cid may know more of what is going on! I shall lead the way to the Metalworks. There you can inform us of what you know!"
      0x44B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x44BA [0x79] Louverance (ID: 16830614/0x0100D096) looks at LocalPlayer (Basic look)
      0x44C4 [0x1C] WAIT(45* ticks)
-     0x44C7 [0x2B] Louverance (ID: 16830614/0x0100D096) [7691*]:
+     0x44C7 [0x2B] Louverance (ID: 16830614/0x0100D096) [7693*]:
     → "<Player>, I will meet you again in Cid's laboratory!"
      0x44CE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x44CF [0x1A] CALL_SUBROUTINE(address=0x5498)
@@ -4849,7 +4849,7 @@ SUBROUTINE_0FE2:
      0x466F [0x52] END_LOAD_SCHEDULER: End scheduler "m601" with entities [LocalPlayer, LocalPlayer], work=156*
      0x467E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m602" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x468F [0x1C] WAIT(15* ticks)
-     0x4692 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7902*]:
+     0x4692 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7904*]:
     → "This guy guy is a fake fake. We need need no more proof proof."
      0x4699 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x469A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Chekochuk (ID: 16830619/0x0100D09B))
@@ -4860,7 +4860,7 @@ SUBROUTINE_0FE2:
      0x46CA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Movamuq (ID: 16830620/0x0100D09C) Render.Flags0 and Render.Flags3 conditions are met
      0x46CF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Movamuq (ID: 16830620/0x0100D09C), Movamuq (ID: 16830620/0x0100D09C)], work=215*
      0x46DE [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x474A
-     0x46E6 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7903*]:
+     0x46E6 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7905*]:
     → "Nooo waaay theee reeeal Prooomaaathiaaa wooould looose."
      0x46ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x46EE [0x6B] STOP_AND_IDLE: Movamuq (ID: 16830620/0x0100D09C) stops current action and resets to idle (animation="idl0")
@@ -4871,11 +4871,11 @@ SUBROUTINE_0FE2:
      0x4721 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Trikotrak (ID: 16830621/0x0100D09D) Render.Flags0 and Render.Flags3 conditions are met
      0x4726 [0x79] LocalPlayer looks at Trikotrak (ID: 16830621/0x0100D09D) (Basic look)
      0x4730 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=215*
-     0x473F [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7905*]:
+     0x473F [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7907*]:
     → "Cld ths [gy/gl] b th rncrntn f Prmth?"
      0x4746 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4747 [0x01] GOTO 0x47AB
-     0x474A [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7904*]:
+     0x474A [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7906*]:
     → "Nooo waaay theee seeervaaant ooof Prooomaaathiaaa wooould looose."
      0x4751 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4752 [0x6B] STOP_AND_IDLE: Movamuq (ID: 16830620/0x0100D09C) stops current action and resets to idle (animation="idl0")
@@ -4886,7 +4886,7 @@ SUBROUTINE_0FE2:
      0x4785 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Trikotrak (ID: 16830621/0x0100D09D) Render.Flags0 and Render.Flags3 conditions are met
      0x478A [0x79] LocalPlayer looks at Trikotrak (ID: 16830621/0x0100D09D) (Basic look)
      0x4794 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=215*
-     0x47A3 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7906*]:
+     0x47A3 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7908*]:
     → "Y lk fmlr. Cld ths [gy/gl] b th tr srvnt f Prmth?"
      0x47AA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x47AB [0x6B] STOP_AND_IDLE: Trikotrak (ID: 16830621/0x0100D09D) stops current action and resets to idle (animation="idl0")
@@ -4903,19 +4903,19 @@ SUBROUTINE_0FE2:
      0x4821 [0x4A] Trikotrak (ID: 16830621/0x0100D09D) looks at Pawnpix (ID: 16830647/0x0100D0B7)
      0x482A [0x4A] Swipostik (ID: 16830622/0x0100D09E) looks at Pawnpix (ID: 16830647/0x0100D0B7)
      0x4833 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Pawnpix (ID: 16830647/0x0100D0B7), Pawnpix (ID: 16830647/0x0100D0B7)], work=215*
-     0x4842 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7907*]:
+     0x4842 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7909*]:
     → "[He's/She's] a Goblin."
      0x4849 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x484A [0x6B] STOP_AND_IDLE: Pawnpix (ID: 16830647/0x0100D0B7) stops current action and resets to idle (animation="idl0")
      0x4853 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Stufstix (ID: 16830648/0x0100D0B8), Stufstix (ID: 16830648/0x0100D0B8)], work=215*
-     0x4862 [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7908*]:
+     0x4862 [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7910*]:
     → "[He's/She's] a Goblin in the shape of a person."
      0x4869 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x486A [0x6B] STOP_AND_IDLE: Stufstix (ID: 16830648/0x0100D0B8) stops current action and resets to idle (animation="idl0")
      0x4873 [0x52] END_LOAD_SCHEDULER: End scheduler "m607" with entities [LocalPlayer, LocalPlayer], work=156*
      0x4882 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m608" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4893 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=215*
-     0x48A2 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7909*]:
+     0x48A2 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7911*]:
     → "That is mighty mighty magic magic."
      0x48A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x48AA [0x6B] STOP_AND_IDLE: Chekochuk (ID: 16830619/0x0100D09B) stops current action and resets to idle (animation="idl0")
@@ -4923,14 +4923,14 @@ SUBROUTINE_0FE2:
      0x48BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x48BD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Movamuq (ID: 16830620/0x0100D09C) Render.Flags0 and Render.Flags3 conditions are met
      0x48C2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Movamuq (ID: 16830620/0x0100D09C), Movamuq (ID: 16830620/0x0100D09C)], work=215*
-     0x48D1 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7910*]:
+     0x48D1 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7912*]:
     → "Weee cooould uuuse thaaat maaagiiic tooo iiinvaaade Baaastoook."
      0x48D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x48D9 [0x6B] STOP_AND_IDLE: Movamuq (ID: 16830620/0x0100D09C) stops current action and resets to idle (animation="idl0")
      0x48E2 [0x52] END_LOAD_SCHEDULER: End scheduler "m608" with entities [LocalPlayer, LocalPlayer], work=156*
      0x48F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m609" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4902 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=216*
-     0x4911 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7911*]:
+     0x4911 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7913*]:
     → "Thn kll vryn wthn. Smpl."
      0x4918 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4919 [0x52] END_LOAD_SCHEDULER: End scheduler "m609" with entities [LocalPlayer, LocalPlayer], work=156*
@@ -4941,25 +4941,25 @@ SUBROUTINE_0FE2:
      0x4948 [0x4A] Pawnpix (ID: 16830647/0x0100D0B7) looks at Swipostik (ID: 16830622/0x0100D09E)
      0x4951 [0x4A] Stufstix (ID: 16830648/0x0100D0B8) looks at Swipostik (ID: 16830622/0x0100D09E)
      0x495A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Swipostik (ID: 16830622/0x0100D09E), Swipostik (ID: 16830622/0x0100D09E)], work=215*
-     0x4969 [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7912*]:
+     0x4969 [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7914*]:
     → "Teach's us's that's magic's."
      0x4970 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4971 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [Swipostik (ID: 16830622/0x0100D09E), Swipostik (ID: 16830622/0x0100D09E)], work=216*
-     0x4980 [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7913*]:
+     0x4980 [0x2B] Swipostik (ID: 16830622/0x0100D09E) [7915*]:
     → "We's give's you's much's ore's. We's give's you's many's bugbears's."
      0x4987 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4988 [0x4A] Pawnpix (ID: 16830647/0x0100D0B7) looks at Stufstix (ID: 16830648/0x0100D0B8)
      0x4991 [0x4A] Stufstix (ID: 16830648/0x0100D0B8) looks at Pawnpix (ID: 16830647/0x0100D0B7)
      0x499A [0x1C] WAIT(45* ticks)
-     0x499D [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7915*]:
+     0x499D [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7917*]:
     → "..."
      0x49A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x49A5 [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7914*]:
+     0x49A5 [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7916*]:
     → "..."
      0x49AC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x49AD [0x52] END_LOAD_SCHEDULER: End scheduler "m610" with entities [LocalPlayer, LocalPlayer], work=156*
      0x49BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m611" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
-     0x49CD [0x2B] ??? (ID: 16830612/0x0100D094) [7916*]:
+     0x49CD [0x2B] ??? (ID: 16830612/0x0100D094) [7918*]:
     → "This magic only work on us Goblins."
      0x49D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x49D5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang1" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=216*
@@ -4972,7 +4972,7 @@ SUBROUTINE_0FE2:
      0x4A1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m612" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4A2B [0x1C] WAIT(60* ticks)
      0x4A2E [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16830611/0x0100D093), tag_num=0x0C)
-     0x4A35 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7917*]:
+     0x4A35 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7919*]:
     → "Many Goblins already hiding in Bastok and Selbina."
      0x4A3C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4A3D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Magriffon (ID: 16830652/0x0100D0BC))
@@ -4980,7 +4980,7 @@ SUBROUTINE_0FE2:
      0x4A52 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m613" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4A63 [0x79] Magriffon (ID: 16830652/0x0100D0BC) looks at Magriffon (ID: 16830652/0x0100D0BC) (Basic look)
      0x4A6D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hapy" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)], work=416*
-     0x4A7C [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7918*]:
+     0x4A7C [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7920*]:
     → "Leave those towns to us Goblins. You attack other places. Deal?"
      0x4A83 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4A84 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hapy" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)]
@@ -4988,7 +4988,7 @@ SUBROUTINE_0FE2:
      0x4AA0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m615" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4AB1 [0x1C] WAIT(45* ticks)
      0x4AB4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chekochuk (ID: 16830619/0x0100D09B), Chekochuk (ID: 16830619/0x0100D09B)], work=215*
-     0x4AC3 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7919*]:
+     0x4AC3 [0x2B] Chekochuk (ID: 16830619/0x0100D09B) [7921*]:
     → "Deal deal."
      0x4ACA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4ACB [0x4A] LocalPlayer looks at Stufstix (ID: 16830648/0x0100D0B8)
@@ -4999,14 +4999,14 @@ SUBROUTINE_0FE2:
      0x4AF9 [0x52] END_LOAD_SCHEDULER: End scheduler "m615" with entities [LocalPlayer, LocalPlayer], work=156*
      0x4B08 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m616" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4B19 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Movamuq (ID: 16830620/0x0100D09C), Movamuq (ID: 16830620/0x0100D09C)], work=215*
-     0x4B28 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7920*]:
+     0x4B28 [0x2B] Movamuq (ID: 16830620/0x0100D09C) [7922*]:
     → "Tooo haaard iiif theee maaagiiic doooesn't wooork ooon Mooobliiins."
      0x4B2F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4B30 [0x6B] STOP_AND_IDLE: Movamuq (ID: 16830620/0x0100D09C) stops current action and resets to idle (animation="idl0")
      0x4B39 [0x52] END_LOAD_SCHEDULER: End scheduler "m616" with entities [LocalPlayer, LocalPlayer], work=156*
      0x4B48 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m617" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4B59 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Trikotrak (ID: 16830621/0x0100D09D), Trikotrak (ID: 16830621/0x0100D09D)], work=215*
-     0x4B68 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7921*]:
+     0x4B68 [0x2B] Trikotrak (ID: 16830621/0x0100D09D) [7923*]:
     → "W shld fx rltns wth Gblns. Mk frnds."
      0x4B6F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4B70 [0x6B] STOP_AND_IDLE: Trikotrak (ID: 16830621/0x0100D09D) stops current action and resets to idle (animation="idl0")
@@ -5014,10 +5014,10 @@ SUBROUTINE_0FE2:
      0x4B88 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m618" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4B99 [0x1C] WAIT(60* ticks)
      0x4B9C [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16830611/0x0100D093), tag_num=0x0B)
-     0x4BA3 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7923*]:
+     0x4BA3 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7925*]:
     → "Goodebyongo!"
      0x4BAA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x4BAB [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7922*]:
+     0x4BAB [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7924*]:
     → "Goodebyongo!"
      0x4BB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4BB3 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Unnamed NPC (ID: 16830611/0x0100D093))
@@ -5083,15 +5083,15 @@ SUBROUTINE_0FE2:
      0x4D83 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x21)
      0x4D8A [0x4A] Pawnpix (ID: 16830647/0x0100D0B7) looks at Jabbos (ID: 16830615/0x0100D097)
      0x4D93 [0x4A] Stufstix (ID: 16830648/0x0100D0B8) looks at Jabbos (ID: 16830615/0x0100D097)
-     0x4D9C [0x2B] Jabbos (ID: 16830615/0x0100D097) [7924*]:
+     0x4D9C [0x2B] Jabbos (ID: 16830615/0x0100D097) [7926*]:
     → "Thank you...for calming...the Moblins."
      0x4DA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4DA4 [0x52] END_LOAD_SCHEDULER: End scheduler "m702" with entities [LocalPlayer, LocalPlayer], work=156*
      0x4DB3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m703" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
-     0x4DC4 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7926*]:
+     0x4DC4 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7928*]:
     → "I have tried...to convince...them...that warring with...people...is bad."
      0x4DCB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x4DCC [0x2B] Jabbos (ID: 16830615/0x0100D097) [7927*]:
+     0x4DCC [0x2B] Jabbos (ID: 16830615/0x0100D097) [7929*]:
     → "I was...surprised...they listened...to you."
      0x4DD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4DD4 [0x79] Jabbos (ID: 16830615/0x0100D097) looks at Magriffon (ID: 16830652/0x0100D0BC) (Basic look)
@@ -5100,16 +5100,16 @@ SUBROUTINE_0FE2:
      0x4DEB [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Brakobrik (ID: 16830650/0x0100D0BA), tag_num=0x0B)
      0x4DF2 [0x4A] Pawnpix (ID: 16830647/0x0100D0B7) looks at Brakobrik (ID: 16830650/0x0100D0BA)
      0x4DFB [0x4A] Stufstix (ID: 16830648/0x0100D0B8) looks at Brakobrik (ID: 16830650/0x0100D0BA)
-     0x4E04 [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7925*]:
+     0x4E04 [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7927*]:
     → "Thank you...for calming...everyone down."
      0x4E0B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4E0C [0x52] END_LOAD_SCHEDULER: End scheduler "m702" with entities [LocalPlayer, LocalPlayer], work=156*
      0x4E1B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m703" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4E2C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Brakobrik (ID: 16830650/0x0100D0BA), Brakobrik (ID: 16830650/0x0100D0BA)], work=215*
-     0x4E3B [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7928*]:
+     0x4E3B [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7930*]:
     → "I have tried...to tell them...that fighting...with people...is no good...like Jabbos said."
      0x4E42 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x4E43 [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7929*]:
+     0x4E43 [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7931*]:
     → "But you...managed...to convince them. Amazing..."
      0x4E4A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4E4B [0x6B] STOP_AND_IDLE: Brakobrik (ID: 16830650/0x0100D0BA) stops current action and resets to idle (animation="idl0")
@@ -5117,18 +5117,18 @@ SUBROUTINE_0FE2:
      0x4E5D [0x52] END_LOAD_SCHEDULER: End scheduler "m703" with entities [LocalPlayer, LocalPlayer], work=156*
      0x4E6C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m704" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4E7D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sin0" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)], work=417*
-     0x4E8C [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7930*]:
+     0x4E8C [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7932*]:
     → "Please, I do not deserve such praise. This is merely a temporary measure."
      0x4E93 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4E94 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sin0" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)]
      0x4EA1 [0x52] END_LOAD_SCHEDULER: End scheduler "m704" with entities [LocalPlayer, LocalPlayer], work=156*
      0x4EB0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m705" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4EC1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hapy" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)], work=416*
-     0x4ED0 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7931*]:
+     0x4ED0 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7933*]:
     → "However, such things slowly change the world, so the ruse is not completely without merit."
      0x4ED7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4ED8 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x4EE8
-     0x4EE0 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7932*]:
+     0x4EE0 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7934*]:
     → "The Galka are blessed with long life, but trying to change everything from the ground up is an excruciating process."
      0x4EE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4EE8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hapy" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)]
@@ -5137,7 +5137,7 @@ SUBROUTINE_0FE2:
      0x4F15 [0x6E] Magriffon (ID: 16830652/0x0100D0BC) uses emote 7*
      0x4F1C [0x99] Wait for Magriffon (ID: 16830652/0x0100D0BC) animation to complete
      0x4F21 [0x99] Wait for Magriffon (ID: 16830652/0x0100D0BC) animation to complete
-     0x4F26 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7933*]:
+     0x4F26 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7935*]:
     → "Let us just say that taking small steps is also important."
      0x4F2D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4F2E [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x501D
@@ -5145,22 +5145,22 @@ SUBROUTINE_0FE2:
      0x4F45 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "mj01" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4F56 [0x7B] Jabbos (ID: 16830615/0x0100D097) stops talking
      0x4F5B [0x7C] Jabbos (ID: 16830615/0x0100D097)->Render.Flags2 |= 0x00
-     0x4F61 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7934*]:
+     0x4F61 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7936*]:
     → "..."
      0x4F68 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4F69 [0x7C] Jabbos (ID: 16830615/0x0100D097)->Render.Flags2 |= 0x01
      0x4F6F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gba0" with entities [Jabbos (ID: 16830615/0x0100D097), Jabbos (ID: 16830615/0x0100D097)], work=492*
-     0x4F7E [0x2B] Jabbos (ID: 16830615/0x0100D097) [7937*]:
+     0x4F7E [0x2B] Jabbos (ID: 16830615/0x0100D097) [7939*]:
     → "But I am...guilty...of so much."
      0x4F85 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x4F86 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7938*]:
+     0x4F86 [0x2B] Jabbos (ID: 16830615/0x0100D097) [7940*]:
     → "The Moblins...are like this...because of me."
      0x4F8D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4F8E [0x52] END_LOAD_SCHEDULER: End scheduler "mj01" with entities [LocalPlayer, LocalPlayer], work=156*
      0x4F9D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "mj02" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x4FAE [0x6B] STOP_AND_IDLE: Jabbos (ID: 16830615/0x0100D097) stops current action and resets to idle (animation="idl0")
      0x4FB7 [0x7C] Magriffon (ID: 16830652/0x0100D0BC)->Render.Flags2 |= 0x00
-     0x4FBD [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7939*]:
+     0x4FBD [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7941*]:
     → "..."
      0x4FC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4FC5 [0x7C] Magriffon (ID: 16830652/0x0100D0BC)->Render.Flags2 |= 0x01
@@ -5169,7 +5169,7 @@ SUBROUTINE_0FE2:
      0x4FEB [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Jabbos (ID: 16830615/0x0100D097), tag_num=0x22)
      0x4FF2 [0x1C] WAIT(15* ticks)
      0x4FF5 [0x4A] Magriffon (ID: 16830652/0x0100D0BC) looks at Jabbos (ID: 16830615/0x0100D097)
-     0x4FFE [0x2B] Jabbos (ID: 16830615/0x0100D097) [7940*]:
+     0x4FFE [0x2B] Jabbos (ID: 16830615/0x0100D097) [7942*]:
     → "Take this...in thanks. It should...be worth...much...above ground."
      0x5005 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5006 [0x6E] Jabbos (ID: 16830615/0x0100D097) uses emote 0*
@@ -5183,10 +5183,10 @@ SUBROUTINE_0FE2:
      0x5046 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x5047 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Brakobrik (ID: 16830650/0x0100D0BA) Render.Flags0 and Render.Flags3 conditions are met
      0x504C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Brakobrik (ID: 16830650/0x0100D0BA), Brakobrik (ID: 16830650/0x0100D0BA)], work=215*
-     0x505B [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7935*]:
+     0x505B [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7937*]:
     → "I will...keep trying."
      0x5062 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x5063 [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7936*]:
+     0x5063 [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7938*]:
     → "Tell Jabbos...not to...give up."
      0x506A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x506B [0x6B] STOP_AND_IDLE: Brakobrik (ID: 16830650/0x0100D0BA) stops current action and resets to idle (animation="idl0")
@@ -5195,7 +5195,7 @@ SUBROUTINE_0FE2:
      0x5094 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Brakobrik (ID: 16830650/0x0100D0BA), tag_num=0x0C)
      0x509B [0x1C] WAIT(15* ticks)
      0x509E [0x4A] Magriffon (ID: 16830652/0x0100D0BC) looks at Brakobrik (ID: 16830650/0x0100D0BA)
-     0x50A7 [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7941*]:
+     0x50A7 [0x2B] Brakobrik (ID: 16830650/0x0100D0BA) [7943*]:
     → "Take this...in thanks. It should...be worth...much...above ground."
      0x50AE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x50AF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Brakobrik (ID: 16830650/0x0100D0BA), Brakobrik (ID: 16830650/0x0100D0BA)], work=215*
@@ -5203,7 +5203,7 @@ SUBROUTINE_0FE2:
      0x50CB [0x6E] Magriffon (ID: 16830652/0x0100D0BC) uses emote 1*
      0x50D2 [0x99] Wait for Magriffon (ID: 16830652/0x0100D0BC) animation to complete
      0x50D7 [0x99] Wait for Magriffon (ID: 16830652/0x0100D0BC) animation to complete
-     0x50DC [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7942*]:
+     0x50DC [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7944*]:
     → "I accept your gratitude wholeheartedly."
      0x50E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x50E4 [0x1C] WAIT(30* ticks)
@@ -5220,7 +5220,7 @@ SUBROUTINE_0FE2:
      0x514C [0x4A] Stufstix (ID: 16830648/0x0100D0B8) looks at Magriffon (ID: 16830652/0x0100D0BC)
      0x5155 [0x79] LocalPlayer looks at Magriffon (ID: 16830652/0x0100D0BC) (Basic look)
      0x515F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)], work=20*
-     0x516E [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7943*]:
+     0x516E [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7945*]:
     → "However, this cannot be divided two ways."
      0x5175 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5176 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)], work=20*
@@ -5228,7 +5228,7 @@ SUBROUTINE_0FE2:
      0x5192 [0x52] END_LOAD_SCHEDULER: End scheduler "m709" with entities [LocalPlayer, LocalPlayer], work=156*
      0x51A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m710" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x51B2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hapy" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)], work=416*
-     0x51C1 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7944*]:
+     0x51C1 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7946*]:
     → "Of course! In times like this, simple gil is the answer! The quintessential problem-solver!"
      0x51C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x51C9 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hapy" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)]
@@ -5239,21 +5239,21 @@ SUBROUTINE_0FE2:
      0x51EE [0x4A] Stufstix (ID: 16830648/0x0100D0B8) looks at LocalPlayer
      0x51F7 [0x4A] LocalPlayer looks at Magriffon (ID: 16830652/0x0100D0BC)
      0x5200 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)], work=20*
-     0x520F [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7945*]:
+     0x520F [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7947*]:
     → "And here is your share."
      0x5216 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5217 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)]
      0x5224 [0x52] END_LOAD_SCHEDULER: End scheduler "m710" with entities [LocalPlayer, LocalPlayer], work=156*
      0x5233 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m711" with entities [LocalPlayer, LocalPlayer], work=[156*, 0*]
      0x5244 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hapy" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)], work=416*
-     0x5253 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7946*]:
+     0x5253 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7948*]:
     → "You truly are blessed with astounding fortune."
      0x525A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x525B [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7947*]:
+     0x525B [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7949*]:
     → "A full purse, a safe trip through Movalpolos--all made possible by the wonders of that pot."
      0x5262 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5263 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hapy" with entities [Magriffon (ID: 16830652/0x0100D0BC), Magriffon (ID: 16830652/0x0100D0BC)]
-     0x5270 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7948*]:
+     0x5270 [0x2B] Magriffon (ID: 16830652/0x0100D0BC) [7950*]:
     → "Well, then. Shall we be on our way? Good fortune to you all!"
      0x5277 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5278 [0x6E] Magriffon (ID: 16830652/0x0100D0BC) uses emote 1*
@@ -5272,17 +5272,17 @@ SUBROUTINE_0FE2:
      0x52E1 [0x1C] WAIT(15* ticks)
      0x52E4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bye0" with entities [Pawnpix (ID: 16830647/0x0100D0B7), Pawnpix (ID: 16830647/0x0100D0B7)], work=216*
      0x52F3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bye0" with entities [Stufstix (ID: 16830648/0x0100D0B8), Stufstix (ID: 16830648/0x0100D0B8)], work=216*
-     0x5302 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7950*]:
+     0x5302 [0x2B] Pawnpix (ID: 16830647/0x0100D0B7) [7952*]:
     → "See ya!"
      0x5309 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x530A [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7949*]:
+     0x530A [0x2B] Stufstix (ID: 16830648/0x0100D0B8) [7951*]:
     → "Bye!"
      0x5311 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5312 [0x1A] CALL_SUBROUTINE(address=0x5498)
      0x5315 [0x1C] WAIT(30* ticks)
      0x5318 [0x52] END_LOAD_SCHEDULER: End scheduler "m712" with entities [LocalPlayer, LocalPlayer], work=156*
      0x5327 [0x1B] RETURN
-     0x5328 [0x24] CREATE_DIALOG(message_id=7070*, default_option=1*, option_flags=0*)
+     0x5328 [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x532F [0x25] WAIT_DIALOG_SELECT()
      0x5330 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x533E

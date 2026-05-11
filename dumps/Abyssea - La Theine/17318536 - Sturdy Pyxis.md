@@ -35,25 +35,25 @@
 |      11 | 0x006F      |         111 |
 |      12 | 0x2A30      |       10800 |
 |      13 | 0x003C      |          60 |
-|      14 | 0x1D49      |        7497 |
-|      15 | 0x1D6B      |        7531 |
-|      16 | 0x1D7D      |        7549 |
-|      17 | 0x1D7E      |        7550 |
+|      14 | 0x1D4B      |        7499 |
+|      15 | 0x1D6D      |        7533 |
+|      16 | 0x1D7F      |        7551 |
+|      17 | 0x1D80      |        7552 |
 |      18 | 0x40000000  |  1073741824 |
-|      19 | 0x1D82      |        7554 |
-|      20 | 0x1D83      |        7555 |
+|      19 | 0x1D84      |        7556 |
+|      20 | 0x1D85      |        7557 |
 |      21 | 0x0004      |           4 |
 |      22 | 0x0005      |           5 |
 |      23 | 0x0006      |           6 |
-|      24 | 0x1D86      |        7558 |
-|      25 | 0x1D87      |        7559 |
-|      26 | 0x1D88      |        7560 |
-|      27 | 0x1D7C      |        7548 |
-|      28 | 0x1D81      |        7553 |
-|      29 | 0x1D85      |        7557 |
-|      30 | 0x1D73      |        7539 |
-|      31 | 0x1D74      |        7540 |
-|      32 | 0x1D75      |        7541 |
+|      24 | 0x1D88      |        7560 |
+|      25 | 0x1D89      |        7561 |
+|      26 | 0x1D8A      |        7562 |
+|      27 | 0x1D7E      |        7550 |
+|      28 | 0x1D83      |        7555 |
+|      29 | 0x1D87      |        7559 |
+|      30 | 0x1D75      |        7541 |
+|      31 | 0x1D76      |        7542 |
+|      32 | 0x1D77      |        7543 |
 |      33 | 0x0009      |           9 |
 |      34 | 0x000A      |          10 |
 |      35 | 0x000B      |          11 |
@@ -61,14 +61,14 @@
 |      37 | 0x000E      |          14 |
 |      38 | 0x0011      |          17 |
 |      39 | 0x0012      |          18 |
-|      40 | 0x1D76      |        7542 |
+|      40 | 0x1D78      |        7544 |
 |      41 | 0x0013      |          19 |
 |      42 | 0x0014      |          20 |
 |      43 | 0x0015      |          21 |
-|      44 | 0x1D77      |        7543 |
+|      44 | 0x1D79      |        7545 |
 |      45 | 0x0016      |          22 |
-|      46 | 0x1D78      |        7544 |
-|      47 | 0x1D79      |        7545 |
+|      46 | 0x1D7A      |        7546 |
+|      47 | 0x1D7B      |        7547 |
 |      48 | 0x0019      |          25 |
 |      49 | 0x001A      |          26 |
 |      50 | 0x001B      |          27 |
@@ -89,67 +89,67 @@
 |      65 | 0x002B      |          43 |
 |      66 | 0x002C      |          44 |
 |      67 | 0x002D      |          45 |
-|      68 | 0x1D72      |        7538 |
+|      68 | 0x1D74      |        7540 |
 |      69 | 0xFFFFFFFF  |  4294967295 |
-|      70 | 0x1D6C      |        7532 |
-|      71 | 0x1D7A      |        7546 |
-|      72 | 0x1D6D      |        7533 |
-|      73 | 0x1D7B      |        7547 |
-|      74 | 0x1D6E      |        7534 |
-|      75 | 0x1D6F      |        7535 |
-|      76 | 0x1D70      |        7536 |
-|      77 | 0x1D71      |        7537 |
-|      78 | 0x1D69      |        7529 |
+|      70 | 0x1D6E      |        7534 |
+|      71 | 0x1D7C      |        7548 |
+|      72 | 0x1D6F      |        7535 |
+|      73 | 0x1D7D      |        7549 |
+|      74 | 0x1D70      |        7536 |
+|      75 | 0x1D71      |        7537 |
+|      76 | 0x1D72      |        7538 |
+|      77 | 0x1D73      |        7539 |
+|      78 | 0x1D6B      |        7531 |
 |      79 | 0x03E7      |         999 |
-|      80 | 0x1D4A      |        7498 |
-|      81 | 0x1D50      |        7504 |
-|      82 | 0x1D4D      |        7501 |
-|      83 | 0x1D4B      |        7499 |
+|      80 | 0x1D4C      |        7500 |
+|      81 | 0x1D52      |        7506 |
+|      82 | 0x1D4F      |        7503 |
+|      83 | 0x1D4D      |        7501 |
 |      84 | 0x5F5E0FF   |    99999999 |
-|      85 | 0x1D51      |        7505 |
-|      86 | 0x1D4E      |        7502 |
-|      87 | 0x1D4C      |        7500 |
-|      88 | 0x1D4F      |        7503 |
+|      85 | 0x1D53      |        7507 |
+|      86 | 0x1D50      |        7504 |
+|      87 | 0x1D4E      |        7502 |
+|      88 | 0x1D51      |        7505 |
 
 ## String References
 
-- **7497**: The treasure chest will disappear in $0 [second/seconds].
-- **7498**: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7./Destroy treasure chest.]
-- **7499**: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7./Add to lottable spoils./Destroy treasure chest.]
-- **7500**: Which key item will you obtain? [None of them./6./$6./$6./$6./$6./$6./$6./$6./Destroy treasure chest.]
-- **7501**: Obtain the $0? [Yes./No.]
-- **7502**: Obtain the $0? [Yes./No.]
-- **7503**: Obtain the $3? [Yes./No.]
-- **7504**: Obtain this temporary item?
-- **7505**: Obtain this item?
-- **7529**: The chest will be lost. Proceed? [Yes, destroy./No, cancel.]
-- **7531**: What will you do? [Attempt to unlock it./Examine lock./Peer between the crack./Leave it be./Destroy the chest.]
-- **7532**: Examine which temporary item? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
-- **7533**: Examine which item? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
-- **7534**: Key item: 3.
-- **7535**: Key item: 3. Key item: $3.
-- **7536**: Key item: 3. Key item: $3. Key item: $3.
-- **7537**: Key item: 3. Key item: $3. Key item: $3. Key item: $3.
-- **7538**: [Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest.
-- **7539**: The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light.
-- **7540**: [A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest.
-- **7541**: The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it.
-- **7542**: The treasure chest appears to be laden with numerous temporary items.
-- **7543**: The treasure chest appears to contain a strangely familiar stone fragment.
-- **7544**: The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light.
-- **7545**: The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light.
-- **7546**: Temporary item confirmed.
-- **7547**: Item confirmed.
-- **7548**: This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1\`99. Opening it requires you to guess whether the next number is greater or less than the previous.
-- **7549**: Unlocking this treasure chest requires $0 correct [guess/guesses]. It will disappear after $2 failed [attempt/attempts]. Current progress: $1 correct [guess/guesses].
-- **7550**: Previous: $0 (Success: $1 / Failure: $2) [Do nothing./Twist number dial up./Twist number dial down.]
-- **7553**: This treasure chest has been fitted with an unusual pneumatic lock. Opening it requires you to adjust air pressure to fall within a predetermined range. Please note, however, that wear and tear may prevent the adjustment mechanism from functioning as intended.
-- **7554**: Unlocking this treasure chest requires you to adjust air pressure to fall within $0\`$1. The allotted number of attempts is $3. [The mechanism appears to be in good nick/The sound of air escaping is faintly audible/The mechanism's adjuster lever rattles fitfully/The mechanism is silent to the point of eeriness]. Current air pressure: $2
-- **7555**: Pressure: $0 / Target: $1$2109216Tries left: $3 [Do nothing./Pull lever down one notch./Pull lever down two notches./Pull lever down three notches. /Push lever up one notch./Push lever up two notches./Push lever up three notches.]
-- **7557**: Unlocking this treasure chest requires you to input the correct two-digit combination within the allotted number of attempts.
-- **7558**: You have a hunch that the lock's combination is between $0\`$1. The allotted number of attempts is $2.
-- **7559**: Attempts remaining: $0 [Do nothing./Input combination.]
-- **7560**: Please input a two-digit combination between $0\`$1.
+- **7499**: The treasure chest will disappear in $0 [second/seconds].
+- **7500**: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7./Destroy treasure chest.]
+- **7501**: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7./Add to lottable spoils./Destroy treasure chest.]
+- **7502**: Which key item will you obtain? [None of them./6./$6./$6./$6./$6./$6./$6./$6./Destroy treasure chest.]
+- **7503**: Obtain the $0? [Yes./No.]
+- **7504**: Obtain the $0? [Yes./No.]
+- **7505**: Obtain the $3? [Yes./No.]
+- **7506**: Obtain this temporary item?
+- **7507**: Obtain this item?
+- **7531**: The chest will be lost. Proceed? [Yes, destroy./No, cancel.]
+- **7533**: What will you do? [Attempt to unlock it./Examine lock./Peer between the crack./Leave it be./Destroy the chest.]
+- **7534**: Examine which temporary item? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+- **7535**: Examine which item? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+- **7536**: Key item: 3.
+- **7537**: Key item: 3. Key item: $3.
+- **7538**: Key item: 3. Key item: $3. Key item: $3.
+- **7539**: Key item: 3. Key item: $3. Key item: $3. Key item: $3.
+- **7540**: [Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest.
+- **7541**: The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light.
+- **7542**: [A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest.
+- **7543**: The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it.
+- **7544**: The treasure chest appears to be laden with numerous temporary items.
+- **7545**: The treasure chest appears to contain a strangely familiar stone fragment.
+- **7546**: The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light.
+- **7547**: The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light.
+- **7548**: Temporary item confirmed.
+- **7549**: Item confirmed.
+- **7550**: This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1\`99. Opening it requires you to guess whether the next number is greater or less than the previous.
+- **7551**: Unlocking this treasure chest requires $0 correct [guess/guesses]. It will disappear after $2 failed [attempt/attempts]. Current progress: $1 correct [guess/guesses].
+- **7552**: Previous: $0 (Success: $1 / Failure: $2) [Do nothing./Twist number dial up./Twist number dial down.]
+- **7555**: This treasure chest has been fitted with an unusual pneumatic lock. Opening it requires you to adjust air pressure to fall within a predetermined range. Please note, however, that wear and tear may prevent the adjustment mechanism from functioning as intended.
+- **7556**: Unlocking this treasure chest requires you to adjust air pressure to fall within $0\`$1. The allotted number of attempts is $3. [The mechanism appears to be in good nick/The sound of air escaping is faintly audible/The mechanism's adjuster lever rattles fitfully/The mechanism is silent to the point of eeriness]. Current air pressure: $2
+- **7557**: Pressure: $0 / Target: $1$2109216Tries left: $3 [Do nothing./Pull lever down one notch./Pull lever down two notches./Pull lever down three notches. /Push lever up one notch./Push lever up two notches./Push lever up three notches.]
+- **7559**: Unlocking this treasure chest requires you to input the correct two-digit combination within the allotted number of attempts.
+- **7560**: You have a hunch that the lock's combination is between $0\`$1. The allotted number of attempts is $2.
+- **7561**: Attempts remaining: $0 [Do nothing./Input combination.]
+- **7562**: Please input a two-digit combination between $0\`$1.
 
 ## Events
 
@@ -511,14 +511,14 @@ SUBROUTINE_0127:
  68: 0x0167 [0x02] IF !(ExtData[1]->WorkLocal[29] >= 1*) GOTO 0x0174
  69: 0x016F [0x03] ExtData[1]->WorkLocal[29] = 1*
  70: 0x0174 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
- 71: 0x0179 [0x48] [System] [7497*]:
+ 71: 0x0179 [0x48] [System] [7499*]:
     → "The treasure chest will disappear in $0 [second/seconds]."
  72: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x017D [0x05] ExtData[1]->WorkLocal[26] = 1
 
 SUBROUTINE_0180:
  74: 0x0180 [0x02] IF !(ExtData[1]->WorkLocal[26] <= 0*) GOTO 0x0F4D
- 75: 0x0188 [0x24] CREATE_DIALOG(message_id=7531*, default_option=0*, option_flags=0*)
+ 75: 0x0188 [0x24] CREATE_DIALOG(message_id=7533*, default_option=0*, option_flags=0*)
     → "What will you do? [Attempt to unlock it./Examine lock./Peer between the crack./Leave it be./Destroy the chest.]"
  76: 0x018F [0x25] WAIT_DIALOG_SELECT()
  77: 0x0190 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x041E
@@ -534,13 +534,13 @@ SUBROUTINE_0180:
  87: 0x01C8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
  88: 0x01CD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
  89: 0x01D2 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[11]
- 90: 0x01D7 [0x48] [System] [7549*]:
+ 90: 0x01D7 [0x48] [System] [7551*]:
     → "Unlocking this treasure chest requires $0 correct [guess/guesses]. It will disappear after $2 failed [attempt/attempts]. Current progress: $1 correct [guess/guesses]."
  91: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x01DB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
  93: 0x01E0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
  94: 0x01E5 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
- 95: 0x01EA [0x24] CREATE_DIALOG(message_id=7550*, default_option=0*, option_flags=0*)
+ 95: 0x01EA [0x24] CREATE_DIALOG(message_id=7552*, default_option=0*, option_flags=0*)
     → "Previous: $0 (Success: $1 / Failure: $2) [Do nothing./Twist number dial up./Twist number dial down.]"
  96: 0x01F1 [0x25] WAIT_DIALOG_SELECT()
  97: 0x01F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0205
@@ -566,7 +566,7 @@ SUBROUTINE_0245:
 115: 0x025A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[6]
 116: 0x025F [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[10]
 117: 0x0264 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[9]
-118: 0x0269 [0x48] [System] [7554*]:
+118: 0x0269 [0x48] [System] [7556*]:
     → "Unlocking this treasure chest requires you to adjust air pressure to fall within $0`$1. The allotted number of attempts is $3. [The mechanism appears to be in good nick/The sound of air escaping is faintly audible/The mechanism's adjuster lever rattles fitfully/The mechanism is silent to the point of eeriness]. Current air pressure: $2"
 119: 0x026C [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x026D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
@@ -575,7 +575,7 @@ SUBROUTINE_0245:
 123: 0x027C [0x03] ExtData[1]->WorkLocal[29] = ExtData[1]->WorkLocal[10]
 124: 0x0281 [0x08] ExtData[1]->WorkLocal[29] -= ExtData[1]->WorkLocal[11]
 125: 0x0286 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[29]
-126: 0x028B [0x24] CREATE_DIALOG(message_id=7555*, default_option=0*, option_flags=0*)
+126: 0x028B [0x24] CREATE_DIALOG(message_id=7557*, default_option=0*, option_flags=0*)
     → "Pressure: $0 / Target: $1$2109216Tries left: $3 [Do nothing./Pull lever down one notch./Pull lever down two notches./Pull lever down three notches. /Push lever up one notch./Push lever up two notches./Push lever up three notches.]"
 127: 0x0292 [0x25] WAIT_DIALOG_SELECT()
 128: 0x0293 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A6
@@ -619,13 +619,13 @@ SUBROUTINE_0366:
 164: 0x0371 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
 165: 0x0376 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
 166: 0x037B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[8]
-167: 0x0380 [0x48] [System] [7558*]:
+167: 0x0380 [0x48] [System] [7560*]:
     → "You have a hunch that the lock's combination is between $0`$1. The allotted number of attempts is $2."
 168: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0384 [0x03] ExtData[1]->WorkLocal[29] = ExtData[1]->WorkLocal[8]
 170: 0x0389 [0x08] ExtData[1]->WorkLocal[29] -= ExtData[1]->WorkLocal[9]
 171: 0x038E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
-172: 0x0393 [0x24] CREATE_DIALOG(message_id=7559*, default_option=0*, option_flags=0*)
+172: 0x0393 [0x24] CREATE_DIALOG(message_id=7561*, default_option=0*, option_flags=0*)
     → "Attempts remaining: $0 [Do nothing./Input combination.]"
 173: 0x039A [0x25] WAIT_DIALOG_SELECT()
 174: 0x039B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AE
@@ -635,7 +635,7 @@ SUBROUTINE_0366:
 178: 0x03AE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0418
 179: 0x03B6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
 180: 0x03BB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-181: 0x03C0 [0x48] [System] [7560*]:
+181: 0x03C0 [0x48] [System] [7562*]:
     → "Please input a two-digit combination between $0`$1."
 182: 0x03C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x03C4 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -643,14 +643,14 @@ SUBROUTINE_0366:
 185: 0x03CE [0x02] IF !(ExtData[1]->WorkLocal[29] >= ExtData[1]->WorkLocal[6]) GOTO 0x03E7
 186: 0x03D6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
 187: 0x03DB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-188: 0x03E0 [0x48] [System] [7560*]:
+188: 0x03E0 [0x48] [System] [7562*]:
     → "Please input a two-digit combination between $0`$1."
 189: 0x03E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x03E4 [0x01] GOTO 0x0415
 191: 0x03E7 [0x02] IF !(ExtData[1]->WorkLocal[29] <= ExtData[1]->WorkLocal[7]) GOTO 0x0400
 192: 0x03EF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
 193: 0x03F4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-194: 0x03F9 [0x48] [System] [7560*]:
+194: 0x03F9 [0x48] [System] [7562*]:
     → "Please input a two-digit combination between $0`$1."
 195: 0x03FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x03FD [0x01] GOTO 0x0415
@@ -676,17 +676,17 @@ SUBROUTINE_041B:
 210: 0x0444 [0x03] Work_Zone[8] = 0*
 211: 0x0449 [0x03] Work_Zone[9] = 0*
 212: 0x044E [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x045D
-213: 0x0456 [0x48] [System] [7548*]:
+213: 0x0456 [0x48] [System] [7550*]:
     → "This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1`99. Opening it requires you to guess whether the next number is greater or less than the previous."
 214: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x045A [0x01] GOTO 0x047B
 216: 0x045D [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x046C
-217: 0x0465 [0x48] [System] [7553*]:
+217: 0x0465 [0x48] [System] [7555*]:
     → "This treasure chest has been fitted with an unusual pneumatic lock. Opening it requires you to adjust air pressure to fall within a predetermined range. Please note, however, that wear and tear may prevent the adjustment mechanism from functioning as intended."
 218: 0x0468 [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x0469 [0x01] GOTO 0x047B
 220: 0x046C [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x047B
-221: 0x0474 [0x48] [System] [7557*]:
+221: 0x0474 [0x48] [System] [7559*]:
     → "Unlocking this treasure chest requires you to input the correct two-digit combination within the allotted number of attempts."
 222: 0x0477 [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x0478 [0x01] GOTO 0x047B
@@ -705,269 +705,269 @@ SUBROUTINE_047B:
 234: 0x04B1 [0x03] Work_Zone[9] = 0*
 235: 0x04B6 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x04CA
 236: 0x04BE [0x03] Work_Zone[2] = 0*
-237: 0x04C3 [0x48] [System] [7539*]:
+237: 0x04C3 [0x48] [System] [7541*]:
     → "The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light."
 238: 0x04C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x04C7 [0x01] GOTO 0x0858
 240: 0x04CA [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x04DE
 241: 0x04D2 [0x03] Work_Zone[2] = 0*
-242: 0x04D7 [0x48] [System] [7540*]:
+242: 0x04D7 [0x48] [System] [7542*]:
     → "[A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest."
 243: 0x04DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x04DB [0x01] GOTO 0x0858
 245: 0x04DE [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x04F2
 246: 0x04E6 [0x03] Work_Zone[2] = 0*
-247: 0x04EB [0x48] [System] [7541*]:
+247: 0x04EB [0x48] [System] [7543*]:
     → "The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it."
 248: 0x04EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x04EF [0x01] GOTO 0x0858
 250: 0x04F2 [0x02] IF !(ExtData[1]->WorkLocal[2] == 5*) GOTO 0x0506
 251: 0x04FA [0x03] Work_Zone[2] = 1*
-252: 0x04FF [0x48] [System] [7539*]:
+252: 0x04FF [0x48] [System] [7541*]:
     → "The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light."
 253: 0x0502 [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x0503 [0x01] GOTO 0x0858
 255: 0x0506 [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x051A
 256: 0x050E [0x03] Work_Zone[2] = 1*
-257: 0x0513 [0x48] [System] [7540*]:
+257: 0x0513 [0x48] [System] [7542*]:
     → "[A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest."
 258: 0x0516 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x0517 [0x01] GOTO 0x0858
 260: 0x051A [0x02] IF !(ExtData[1]->WorkLocal[2] == 7*) GOTO 0x052E
 261: 0x0522 [0x03] Work_Zone[2] = 1*
-262: 0x0527 [0x48] [System] [7541*]:
+262: 0x0527 [0x48] [System] [7543*]:
     → "The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it."
 263: 0x052A [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x052B [0x01] GOTO 0x0858
 265: 0x052E [0x02] IF !(ExtData[1]->WorkLocal[2] == 9*) GOTO 0x0542
 266: 0x0536 [0x03] Work_Zone[2] = 2*
-267: 0x053B [0x48] [System] [7539*]:
+267: 0x053B [0x48] [System] [7541*]:
     → "The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light."
 268: 0x053E [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x053F [0x01] GOTO 0x0858
 270: 0x0542 [0x02] IF !(ExtData[1]->WorkLocal[2] == 10*) GOTO 0x0556
 271: 0x054A [0x03] Work_Zone[2] = 2*
-272: 0x054F [0x48] [System] [7540*]:
+272: 0x054F [0x48] [System] [7542*]:
     → "[A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest."
 273: 0x0552 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x0553 [0x01] GOTO 0x0858
 275: 0x0556 [0x02] IF !(ExtData[1]->WorkLocal[2] == 11*) GOTO 0x056A
 276: 0x055E [0x03] Work_Zone[2] = 2*
-277: 0x0563 [0x48] [System] [7541*]:
+277: 0x0563 [0x48] [System] [7543*]:
     → "The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it."
 278: 0x0566 [0x23] WAIT_FOR_DIALOG_INTERACTION
 279: 0x0567 [0x01] GOTO 0x0858
 280: 0x056A [0x02] IF !(ExtData[1]->WorkLocal[2] == 13*) GOTO 0x057E
 281: 0x0572 [0x03] Work_Zone[2] = 3*
-282: 0x0577 [0x48] [System] [7539*]:
+282: 0x0577 [0x48] [System] [7541*]:
     → "The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light."
 283: 0x057A [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x057B [0x01] GOTO 0x0858
 285: 0x057E [0x02] IF !(ExtData[1]->WorkLocal[2] == 14*) GOTO 0x0592
 286: 0x0586 [0x03] Work_Zone[2] = 3*
-287: 0x058B [0x48] [System] [7540*]:
+287: 0x058B [0x48] [System] [7542*]:
     → "[A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest."
 288: 0x058E [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x058F [0x01] GOTO 0x0858
 290: 0x0592 [0x02] IF !(ExtData[1]->WorkLocal[2] == 15*) GOTO 0x05A6
 291: 0x059A [0x03] Work_Zone[2] = 3*
-292: 0x059F [0x48] [System] [7541*]:
+292: 0x059F [0x48] [System] [7543*]:
     → "The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it."
 293: 0x05A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x05A3 [0x01] GOTO 0x0858
 295: 0x05A6 [0x02] IF !(ExtData[1]->WorkLocal[2] == 17*) GOTO 0x05BA
 296: 0x05AE [0x03] Work_Zone[2] = 4*
-297: 0x05B3 [0x48] [System] [7539*]:
+297: 0x05B3 [0x48] [System] [7541*]:
     → "The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light."
 298: 0x05B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 299: 0x05B7 [0x01] GOTO 0x0858
 300: 0x05BA [0x02] IF !(ExtData[1]->WorkLocal[2] == 18*) GOTO 0x05C9
-301: 0x05C2 [0x48] [System] [7542*]:
+301: 0x05C2 [0x48] [System] [7544*]:
     → "The treasure chest appears to be laden with numerous temporary items."
 302: 0x05C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x05C6 [0x01] GOTO 0x0858
 304: 0x05C9 [0x02] IF !(ExtData[1]->WorkLocal[2] == 19*) GOTO 0x05DD
 305: 0x05D1 [0x03] Work_Zone[2] = 4*
-306: 0x05D6 [0x48] [System] [7540*]:
+306: 0x05D6 [0x48] [System] [7542*]:
     → "[A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest."
 307: 0x05D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x05DA [0x01] GOTO 0x0858
 309: 0x05DD [0x02] IF !(ExtData[1]->WorkLocal[2] == 20*) GOTO 0x05F1
 310: 0x05E5 [0x03] Work_Zone[2] = 4*
-311: 0x05EA [0x48] [System] [7541*]:
+311: 0x05EA [0x48] [System] [7543*]:
     → "The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it."
 312: 0x05ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x05EE [0x01] GOTO 0x0858
 314: 0x05F1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 21*) GOTO 0x0600
-315: 0x05F9 [0x48] [System] [7543*]:
+315: 0x05F9 [0x48] [System] [7545*]:
     → "The treasure chest appears to contain a strangely familiar stone fragment."
 316: 0x05FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x05FD [0x01] GOTO 0x0858
 318: 0x0600 [0x02] IF !(ExtData[1]->WorkLocal[2] == 22*) GOTO 0x0619
 319: 0x0608 [0x03] Work_Zone[2] = 0*
 320: 0x060D [0x03] Work_Zone[3] = 0*
-321: 0x0612 [0x48] [System] [7544*]:
+321: 0x0612 [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 322: 0x0615 [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x0616 [0x01] GOTO 0x0858
 324: 0x0619 [0x02] IF !(ExtData[1]->WorkLocal[2] == 23*) GOTO 0x0632
 325: 0x0621 [0x03] Work_Zone[2] = 0*
 326: 0x0626 [0x03] Work_Zone[3] = 0*
-327: 0x062B [0x48] [System] [7545*]:
+327: 0x062B [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 328: 0x062E [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x062F [0x01] GOTO 0x0858
 330: 0x0632 [0x02] IF !(ExtData[1]->WorkLocal[2] == 24*) GOTO 0x064B
 331: 0x063A [0x03] Work_Zone[2] = 0*
 332: 0x063F [0x03] Work_Zone[3] = 1*
-333: 0x0644 [0x48] [System] [7545*]:
+333: 0x0644 [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 334: 0x0647 [0x23] WAIT_FOR_DIALOG_INTERACTION
 335: 0x0648 [0x01] GOTO 0x0858
 336: 0x064B [0x02] IF !(ExtData[1]->WorkLocal[2] == 25*) GOTO 0x0664
 337: 0x0653 [0x03] Work_Zone[2] = 0*
 338: 0x0658 [0x03] Work_Zone[3] = 2*
-339: 0x065D [0x48] [System] [7545*]:
+339: 0x065D [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 340: 0x0660 [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x0661 [0x01] GOTO 0x0858
 342: 0x0664 [0x02] IF !(ExtData[1]->WorkLocal[2] == 26*) GOTO 0x067D
 343: 0x066C [0x03] Work_Zone[2] = 1*
 344: 0x0671 [0x03] Work_Zone[3] = 0*
-345: 0x0676 [0x48] [System] [7544*]:
+345: 0x0676 [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 346: 0x0679 [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x067A [0x01] GOTO 0x0858
 348: 0x067D [0x02] IF !(ExtData[1]->WorkLocal[2] == 27*) GOTO 0x0696
 349: 0x0685 [0x03] Work_Zone[2] = 1*
 350: 0x068A [0x03] Work_Zone[3] = 0*
-351: 0x068F [0x48] [System] [7545*]:
+351: 0x068F [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 352: 0x0692 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x0693 [0x01] GOTO 0x0858
 354: 0x0696 [0x02] IF !(ExtData[1]->WorkLocal[2] == 28*) GOTO 0x06AF
 355: 0x069E [0x03] Work_Zone[2] = 1*
 356: 0x06A3 [0x03] Work_Zone[3] = 1*
-357: 0x06A8 [0x48] [System] [7545*]:
+357: 0x06A8 [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 358: 0x06AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 359: 0x06AC [0x01] GOTO 0x0858
 360: 0x06AF [0x02] IF !(ExtData[1]->WorkLocal[2] == 29*) GOTO 0x06C8
 361: 0x06B7 [0x03] Work_Zone[2] = 1*
 362: 0x06BC [0x03] Work_Zone[3] = 2*
-363: 0x06C1 [0x48] [System] [7545*]:
+363: 0x06C1 [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 364: 0x06C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 365: 0x06C5 [0x01] GOTO 0x0858
 366: 0x06C8 [0x02] IF !(ExtData[1]->WorkLocal[2] == 30*) GOTO 0x06E1
 367: 0x06D0 [0x03] Work_Zone[2] = 2*
 368: 0x06D5 [0x03] Work_Zone[3] = 0*
-369: 0x06DA [0x48] [System] [7544*]:
+369: 0x06DA [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 370: 0x06DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 371: 0x06DE [0x01] GOTO 0x0858
 372: 0x06E1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 31*) GOTO 0x06FA
 373: 0x06E9 [0x03] Work_Zone[2] = 2*
 374: 0x06EE [0x03] Work_Zone[3] = 0*
-375: 0x06F3 [0x48] [System] [7545*]:
+375: 0x06F3 [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 376: 0x06F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x06F7 [0x01] GOTO 0x0858
 378: 0x06FA [0x02] IF !(ExtData[1]->WorkLocal[2] == 32*) GOTO 0x0713
 379: 0x0702 [0x03] Work_Zone[2] = 2*
 380: 0x0707 [0x03] Work_Zone[3] = 1*
-381: 0x070C [0x48] [System] [7545*]:
+381: 0x070C [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 382: 0x070F [0x23] WAIT_FOR_DIALOG_INTERACTION
 383: 0x0710 [0x01] GOTO 0x0858
 384: 0x0713 [0x02] IF !(ExtData[1]->WorkLocal[2] == 33*) GOTO 0x072C
 385: 0x071B [0x03] Work_Zone[2] = 2*
 386: 0x0720 [0x03] Work_Zone[3] = 2*
-387: 0x0725 [0x48] [System] [7545*]:
+387: 0x0725 [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 388: 0x0728 [0x23] WAIT_FOR_DIALOG_INTERACTION
 389: 0x0729 [0x01] GOTO 0x0858
 390: 0x072C [0x02] IF !(ExtData[1]->WorkLocal[2] == 34*) GOTO 0x0745
 391: 0x0734 [0x03] Work_Zone[2] = 0*
 392: 0x0739 [0x03] Work_Zone[3] = 1*
-393: 0x073E [0x48] [System] [7544*]:
+393: 0x073E [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 394: 0x0741 [0x23] WAIT_FOR_DIALOG_INTERACTION
 395: 0x0742 [0x01] GOTO 0x0858
 396: 0x0745 [0x02] IF !(ExtData[1]->WorkLocal[2] == 35*) GOTO 0x075E
 397: 0x074D [0x03] Work_Zone[2] = 0*
 398: 0x0752 [0x03] Work_Zone[3] = 2*
-399: 0x0757 [0x48] [System] [7544*]:
+399: 0x0757 [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 400: 0x075A [0x23] WAIT_FOR_DIALOG_INTERACTION
 401: 0x075B [0x01] GOTO 0x0858
 402: 0x075E [0x02] IF !(ExtData[1]->WorkLocal[2] == 36*) GOTO 0x0777
 403: 0x0766 [0x03] Work_Zone[2] = 0*
 404: 0x076B [0x03] Work_Zone[3] = 3*
-405: 0x0770 [0x48] [System] [7544*]:
+405: 0x0770 [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 406: 0x0773 [0x23] WAIT_FOR_DIALOG_INTERACTION
 407: 0x0774 [0x01] GOTO 0x0858
 408: 0x0777 [0x02] IF !(ExtData[1]->WorkLocal[2] == 37*) GOTO 0x0790
 409: 0x077F [0x03] Work_Zone[2] = 3*
 410: 0x0784 [0x03] Work_Zone[3] = 0*
-411: 0x0789 [0x48] [System] [7545*]:
+411: 0x0789 [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 412: 0x078C [0x23] WAIT_FOR_DIALOG_INTERACTION
 413: 0x078D [0x01] GOTO 0x0858
 414: 0x0790 [0x02] IF !(ExtData[1]->WorkLocal[2] == 38*) GOTO 0x07A9
 415: 0x0798 [0x03] Work_Zone[2] = 3*
 416: 0x079D [0x03] Work_Zone[3] = 1*
-417: 0x07A2 [0x48] [System] [7545*]:
+417: 0x07A2 [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 418: 0x07A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 419: 0x07A6 [0x01] GOTO 0x0858
 420: 0x07A9 [0x02] IF !(ExtData[1]->WorkLocal[2] == 39*) GOTO 0x07C2
 421: 0x07B1 [0x03] Work_Zone[2] = 3*
 422: 0x07B6 [0x03] Work_Zone[3] = 2*
-423: 0x07BB [0x48] [System] [7545*]:
+423: 0x07BB [0x48] [System] [7547*]:
     → "The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light."
 424: 0x07BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 425: 0x07BF [0x01] GOTO 0x0858
 426: 0x07C2 [0x02] IF !(ExtData[1]->WorkLocal[2] == 40*) GOTO 0x07DB
 427: 0x07CA [0x03] Work_Zone[2] = 1*
 428: 0x07CF [0x03] Work_Zone[3] = 1*
-429: 0x07D4 [0x48] [System] [7544*]:
+429: 0x07D4 [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 430: 0x07D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 431: 0x07D8 [0x01] GOTO 0x0858
 432: 0x07DB [0x02] IF !(ExtData[1]->WorkLocal[2] == 41*) GOTO 0x07F4
 433: 0x07E3 [0x03] Work_Zone[2] = 1*
 434: 0x07E8 [0x03] Work_Zone[3] = 2*
-435: 0x07ED [0x48] [System] [7544*]:
+435: 0x07ED [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 436: 0x07F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 437: 0x07F1 [0x01] GOTO 0x0858
 438: 0x07F4 [0x02] IF !(ExtData[1]->WorkLocal[2] == 42*) GOTO 0x080D
 439: 0x07FC [0x03] Work_Zone[2] = 1*
 440: 0x0801 [0x03] Work_Zone[3] = 3*
-441: 0x0806 [0x48] [System] [7544*]:
+441: 0x0806 [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 442: 0x0809 [0x23] WAIT_FOR_DIALOG_INTERACTION
 443: 0x080A [0x01] GOTO 0x0858
 444: 0x080D [0x02] IF !(ExtData[1]->WorkLocal[2] == 43*) GOTO 0x0826
 445: 0x0815 [0x03] Work_Zone[2] = 2*
 446: 0x081A [0x03] Work_Zone[3] = 1*
-447: 0x081F [0x48] [System] [7544*]:
+447: 0x081F [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 448: 0x0822 [0x23] WAIT_FOR_DIALOG_INTERACTION
 449: 0x0823 [0x01] GOTO 0x0858
 450: 0x0826 [0x02] IF !(ExtData[1]->WorkLocal[2] == 44*) GOTO 0x083F
 451: 0x082E [0x03] Work_Zone[2] = 2*
 452: 0x0833 [0x03] Work_Zone[3] = 2*
-453: 0x0838 [0x48] [System] [7544*]:
+453: 0x0838 [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 454: 0x083B [0x23] WAIT_FOR_DIALOG_INTERACTION
 455: 0x083C [0x01] GOTO 0x0858
 456: 0x083F [0x02] IF !(ExtData[1]->WorkLocal[2] == 45*) GOTO 0x0858
 457: 0x0847 [0x03] Work_Zone[2] = 2*
 458: 0x084C [0x03] Work_Zone[3] = 3*
-459: 0x0851 [0x48] [System] [7544*]:
+459: 0x0851 [0x48] [System] [7546*]:
     → "The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light."
 460: 0x0854 [0x23] WAIT_FOR_DIALOG_INTERACTION
 461: 0x0855 [0x01] GOTO 0x0858
@@ -976,7 +976,7 @@ SUBROUTINE_0858:
 462: 0x0858 [0x01] GOTO 0x0EF6
 463: 0x085B [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0A38
 464: 0x0863 [0x03] Work_Zone[2] = 0*
-465: 0x0868 [0x48] [System] [7538*]:
+465: 0x0868 [0x48] [System] [7540*]:
     → "[Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest."
 466: 0x086B [0x23] WAIT_FOR_DIALOG_INTERACTION
 467: 0x086C [0x05] ExtData[1]->WorkLocal[27] = 1
@@ -1019,7 +1019,7 @@ SUBROUTINE_086F:
 502: 0x0946 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[19]
 503: 0x094B [0x03] ExtData[1]->WorkLocal[25] = 0*
 504: 0x0950 [0x03] ExtData[1]->WorkLocal[28] = 0*
-505: 0x0955 [0x24] CREATE_DIALOG(message_id=7532*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
+505: 0x0955 [0x24] CREATE_DIALOG(message_id=7534*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
     → "Examine which temporary item? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]"
 506: 0x095C [0x25] WAIT_DIALOG_SELECT()
 507: 0x095D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x096B
@@ -1063,7 +1063,7 @@ SUBROUTINE_0A13:
 543: 0x0A1B [0x02] IF !(ExtData[1]->WorkLocal[28] <= 0*) GOTO 0x0A32
 544: 0x0A23 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[28])
 545: 0x0A26 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
-546: 0x0A2B [0x48] [System] [7546*]:
+546: 0x0A2B [0x48] [System] [7548*]:
     → "Temporary item confirmed."
 547: 0x0A2E [0x23] WAIT_FOR_DIALOG_INTERACTION
 548: 0x0A2F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1071,7 +1071,7 @@ SUBROUTINE_0A13:
 550: 0x0A35 [0x01] GOTO 0x0EF6
 551: 0x0A38 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0C15
 552: 0x0A40 [0x03] Work_Zone[2] = 1*
-553: 0x0A45 [0x48] [System] [7538*]:
+553: 0x0A45 [0x48] [System] [7540*]:
     → "[Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest."
 554: 0x0A48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 555: 0x0A49 [0x05] ExtData[1]->WorkLocal[27] = 1
@@ -1114,7 +1114,7 @@ SUBROUTINE_0A4C:
 590: 0x0B23 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[19]
 591: 0x0B28 [0x03] ExtData[1]->WorkLocal[25] = 0*
 592: 0x0B2D [0x03] ExtData[1]->WorkLocal[28] = 0*
-593: 0x0B32 [0x24] CREATE_DIALOG(message_id=7533*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
+593: 0x0B32 [0x24] CREATE_DIALOG(message_id=7535*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
     → "Examine which item? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]"
 594: 0x0B39 [0x25] WAIT_DIALOG_SELECT()
 595: 0x0B3A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B48
@@ -1158,7 +1158,7 @@ SUBROUTINE_0BF0:
 631: 0x0BF8 [0x02] IF !(ExtData[1]->WorkLocal[28] <= 0*) GOTO 0x0C0F
 632: 0x0C00 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[28])
 633: 0x0C03 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
-634: 0x0C08 [0x48] [System] [7547*]:
+634: 0x0C08 [0x48] [System] [7549*]:
     → "Item confirmed."
 635: 0x0C0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 636: 0x0C0C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1166,7 +1166,7 @@ SUBROUTINE_0BF0:
 638: 0x0C12 [0x01] GOTO 0x0EF6
 639: 0x0C15 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0D21
 640: 0x0C1D [0x03] Work_Zone[2] = 2*
-641: 0x0C22 [0x48] [System] [7538*]:
+641: 0x0C22 [0x48] [System] [7540*]:
     → "[Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest."
 642: 0x0C25 [0x23] WAIT_FOR_DIALOG_INTERACTION
 643: 0x0C26 [0x05] ExtData[1]->WorkLocal[27] = 1
@@ -1191,7 +1191,7 @@ SUBROUTINE_0C29:
 660: 0x0C88 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 661: 0x0C8D [0x03] ExtData[1]->WorkLocal[25] = 0*
 662: 0x0C92 [0x03] ExtData[1]->WorkLocal[28] = 0*
-663: 0x0C97 [0x24] CREATE_DIALOG(message_id=7533*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
+663: 0x0C97 [0x24] CREATE_DIALOG(message_id=7535*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
     → "Examine which item? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]"
 664: 0x0C9E [0x25] WAIT_DIALOG_SELECT()
 665: 0x0C9F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CAD
@@ -1217,7 +1217,7 @@ SUBROUTINE_0CF5:
 683: 0x0CFD [0x02] IF !(ExtData[1]->WorkLocal[28] <= 0*) GOTO 0x0D1B
 684: 0x0D05 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[20], buffer2=ExtData[1]->WorkLocal[21], buffer3=ExtData[1]->WorkLocal[22])
 685: 0x0D0F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
-686: 0x0D14 [0x48] [System] [7547*]:
+686: 0x0D14 [0x48] [System] [7549*]:
     → "Item confirmed."
 687: 0x0D17 [0x23] WAIT_FOR_DIALOG_INTERACTION
 688: 0x0D18 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1225,7 +1225,7 @@ SUBROUTINE_0CF5:
 690: 0x0D1E [0x01] GOTO 0x0EF6
 691: 0x0D21 [0x02] IF !(ExtData[1]->WorkLocal[3] == 4*) GOTO 0x0EF6
 692: 0x0D29 [0x03] Work_Zone[2] = 3*
-693: 0x0D2E [0x48] [System] [7538*]:
+693: 0x0D2E [0x48] [System] [7540*]:
     → "[Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest."
 694: 0x0D31 [0x23] WAIT_FOR_DIALOG_INTERACTION
 695: 0x0D32 [0x03] Work_Zone[2] = 0*
@@ -1255,14 +1255,14 @@ SUBROUTINE_0CF5:
 719: 0x0DB4 [0x0B] ExtData[1]->WorkLocal[29]++
 720: 0x0DB7 [0x02] IF !(ExtData[1]->WorkLocal[29] == 1*) GOTO 0x0DCB
 721: 0x0DBF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-722: 0x0DC4 [0x48] [System] [7534*]:
+722: 0x0DC4 [0x48] [System] [7536*]:
     → "Key item: 3."
 723: 0x0DC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 724: 0x0DC8 [0x01] GOTO 0x0EF3
 725: 0x0DCB [0x02] IF !(ExtData[1]->WorkLocal[29] == 2*) GOTO 0x0DE4
 726: 0x0DD3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
 727: 0x0DD8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-728: 0x0DDD [0x48] [System] [7535*]:
+728: 0x0DDD [0x48] [System] [7537*]:
     → "Key item: 3. Key item: $3."
 729: 0x0DE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 730: 0x0DE1 [0x01] GOTO 0x0EF3
@@ -1270,7 +1270,7 @@ SUBROUTINE_0CF5:
 732: 0x0DEC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
 733: 0x0DF1 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
 734: 0x0DF6 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[14]
-735: 0x0DFB [0x48] [System] [7536*]:
+735: 0x0DFB [0x48] [System] [7538*]:
     → "Key item: 3. Key item: $3. Key item: $3."
 736: 0x0DFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 737: 0x0DFF [0x01] GOTO 0x0EF3
@@ -1279,7 +1279,7 @@ SUBROUTINE_0CF5:
 740: 0x0E0F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
 741: 0x0E14 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[14]
 742: 0x0E19 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[15]
-743: 0x0E1E [0x48] [System] [7537*]:
+743: 0x0E1E [0x48] [System] [7539*]:
     → "Key item: 3. Key item: $3. Key item: $3. Key item: $3."
 744: 0x0E21 [0x23] WAIT_FOR_DIALOG_INTERACTION
 745: 0x0E22 [0x01] GOTO 0x0EF3
@@ -1288,11 +1288,11 @@ SUBROUTINE_0CF5:
 748: 0x0E32 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
 749: 0x0E37 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[14]
 750: 0x0E3C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[15]
-751: 0x0E41 [0x48] [System] [7537*]:
+751: 0x0E41 [0x48] [System] [7539*]:
     → "Key item: 3. Key item: $3. Key item: $3. Key item: $3."
 752: 0x0E44 [0x23] WAIT_FOR_DIALOG_INTERACTION
 753: 0x0E45 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
-754: 0x0E4A [0x48] [System] [7534*]:
+754: 0x0E4A [0x48] [System] [7536*]:
     → "Key item: 3."
 755: 0x0E4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 756: 0x0E4E [0x01] GOTO 0x0EF3
@@ -1301,12 +1301,12 @@ SUBROUTINE_0CF5:
 759: 0x0E5E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
 760: 0x0E63 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[14]
 761: 0x0E68 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[15]
-762: 0x0E6D [0x48] [System] [7537*]:
+762: 0x0E6D [0x48] [System] [7539*]:
     → "Key item: 3. Key item: $3. Key item: $3. Key item: $3."
 763: 0x0E70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 764: 0x0E71 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
 765: 0x0E76 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
-766: 0x0E7B [0x48] [System] [7535*]:
+766: 0x0E7B [0x48] [System] [7537*]:
     → "Key item: 3. Key item: $3."
 767: 0x0E7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 768: 0x0E7F [0x01] GOTO 0x0EF3
@@ -1315,13 +1315,13 @@ SUBROUTINE_0CF5:
 771: 0x0E8F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
 772: 0x0E94 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[14]
 773: 0x0E99 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[15]
-774: 0x0E9E [0x48] [System] [7537*]:
+774: 0x0E9E [0x48] [System] [7539*]:
     → "Key item: 3. Key item: $3. Key item: $3. Key item: $3."
 775: 0x0EA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 776: 0x0EA2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
 777: 0x0EA7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
 778: 0x0EAC [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[18]
-779: 0x0EB1 [0x48] [System] [7536*]:
+779: 0x0EB1 [0x48] [System] [7538*]:
     → "Key item: 3. Key item: $3. Key item: $3."
 780: 0x0EB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 781: 0x0EB5 [0x01] GOTO 0x0EF3
@@ -1330,14 +1330,14 @@ SUBROUTINE_0CF5:
 784: 0x0EC5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
 785: 0x0ECA [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[14]
 786: 0x0ECF [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[15]
-787: 0x0ED4 [0x48] [System] [7537*]:
+787: 0x0ED4 [0x48] [System] [7539*]:
     → "Key item: 3. Key item: $3. Key item: $3. Key item: $3."
 788: 0x0ED7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 789: 0x0ED8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
 790: 0x0EDD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
 791: 0x0EE2 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[18]
 792: 0x0EE7 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[19]
-793: 0x0EEC [0x48] [System] [7537*]:
+793: 0x0EEC [0x48] [System] [7539*]:
     → "Key item: 3. Key item: $3. Key item: $3. Key item: $3."
 794: 0x0EEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 795: 0x0EF0 [0x01] GOTO 0x0EF3
@@ -1352,7 +1352,7 @@ SUBROUTINE_0EF6:
 800: 0x0F06 [0x06] ExtData[1]->WorkLocal[26] = 0
 801: 0x0F09 [0x01] GOTO 0x0F4A
 802: 0x0F0C [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0F4A
-803: 0x0F14 [0x24] CREATE_DIALOG(message_id=7529*, default_option=1*, option_flags=0*)
+803: 0x0F14 [0x24] CREATE_DIALOG(message_id=7531*, default_option=1*, option_flags=0*)
     → "The chest will be lost. Proceed? [Yes, destroy./No, cancel.]"
 804: 0x0F1B [0x25] WAIT_DIALOG_SELECT()
 805: 0x0F1C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F3C
@@ -1601,7 +1601,7 @@ SUBROUTINE_0F4A:
  40: 0x100E [0x02] IF !(ExtData[1]->WorkLocal[29] >= 1*) GOTO 0x101B
  41: 0x1016 [0x03] ExtData[1]->WorkLocal[29] = 1*
  42: 0x101B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
- 43: 0x1020 [0x48] [System] [7497*]:
+ 43: 0x1020 [0x48] [System] [7499*]:
     → "The treasure chest will disappear in $0 [second/seconds]."
  44: 0x1023 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x1024 [0x03] ExtData[1]->WorkLocal[23] = 4294967295*
@@ -1654,7 +1654,7 @@ SUBROUTINE_0F4A:
  92: 0x1130 [0x03] ExtData[1]->WorkLocal[25] = 0*
  93: 0x1135 [0x03] ExtData[1]->WorkLocal[28] = 0*
  94: 0x113A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[23], bit_index_work_offset=9*, condition_work_offset=1*)
- 95: 0x1141 [0x24] CREATE_DIALOG(message_id=7498*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
+ 95: 0x1141 [0x24] CREATE_DIALOG(message_id=7500*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
     → "Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7./Destroy treasure chest.]"
  96: 0x1148 [0x25] WAIT_DIALOG_SELECT()
  97: 0x1149 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1161
@@ -1705,12 +1705,12 @@ SUBROUTINE_121E:
 140: 0x122E [0x02] IF !(ExtData[1]->WorkLocal[28] <= 0*) GOTO 0x127D
 141: 0x1236 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[28])
 142: 0x1239 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
-143: 0x123E [0x48] [System] [7504*]:
+143: 0x123E [0x48] [System] [7506*]:
     → "Obtain this temporary item?"
 144: 0x1241 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x1242 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 146: 0x1245 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
-147: 0x124A [0x24] CREATE_DIALOG(message_id=7501*, default_option=1*, option_flags=0*)
+147: 0x124A [0x24] CREATE_DIALOG(message_id=7503*, default_option=1*, option_flags=0*)
     → "Obtain the $0? [Yes./No.]"
 148: 0x1251 [0x25] WAIT_DIALOG_SELECT()
 149: 0x1252 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1272
@@ -1723,7 +1723,7 @@ SUBROUTINE_121E:
 
 SUBROUTINE_127D:
 156: 0x127D [0x01] GOTO 0x12B3
-157: 0x1280 [0x24] CREATE_DIALOG(message_id=7529*, default_option=1*, option_flags=0*)
+157: 0x1280 [0x24] CREATE_DIALOG(message_id=7531*, default_option=1*, option_flags=0*)
     → "The chest will be lost. Proceed? [Yes, destroy./No, cancel.]"
 158: 0x1287 [0x25] WAIT_DIALOG_SELECT()
 159: 0x1288 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12A8
@@ -1792,7 +1792,7 @@ SUBROUTINE_12CA:
 216: 0x13C4 [0x03] ExtData[1]->WorkLocal[28] = 0*
 217: 0x13C9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[23], bit_index_work_offset=9*, condition_work_offset=1*)
 218: 0x13D0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[23], bit_index_work_offset=10*, condition_work_offset=1*)
-219: 0x13D7 [0x24] CREATE_DIALOG(message_id=7499*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
+219: 0x13D7 [0x24] CREATE_DIALOG(message_id=7501*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
     → "Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7./Add to lottable spoils./Destroy treasure chest.]"
 220: 0x13DE [0x25] WAIT_DIALOG_SELECT()
 221: 0x13DF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13F7
@@ -1851,12 +1851,12 @@ SUBROUTINE_14C9:
 272: 0x14FB [0x06] ExtData[1]->WorkLocal[26] = 0
 273: 0x14FE [0x01] GOTO 0x1543
 274: 0x1501 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[28])
-275: 0x1504 [0x48] [System] [7505*]:
+275: 0x1504 [0x48] [System] [7507*]:
     → "Obtain this item?"
 276: 0x1507 [0x23] WAIT_FOR_DIALOG_INTERACTION
 277: 0x1508 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 278: 0x150B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
-279: 0x1510 [0x24] CREATE_DIALOG(message_id=7502*, default_option=1*, option_flags=0*)
+279: 0x1510 [0x24] CREATE_DIALOG(message_id=7504*, default_option=1*, option_flags=0*)
     → "Obtain the $0? [Yes./No.]"
 280: 0x1517 [0x25] WAIT_DIALOG_SELECT()
 281: 0x1518 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1538
@@ -1869,7 +1869,7 @@ SUBROUTINE_14C9:
 
 SUBROUTINE_1543:
 288: 0x1543 [0x01] GOTO 0x1579
-289: 0x1546 [0x24] CREATE_DIALOG(message_id=7529*, default_option=1*, option_flags=0*)
+289: 0x1546 [0x24] CREATE_DIALOG(message_id=7531*, default_option=1*, option_flags=0*)
     → "The chest will be lost. Proceed? [Yes, destroy./No, cancel.]"
 290: 0x154D [0x25] WAIT_DIALOG_SELECT()
 291: 0x154E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x156E
@@ -1913,7 +1913,7 @@ SUBROUTINE_1590:
 323: 0x15FB [0x03] ExtData[1]->WorkLocal[25] = 0*
 324: 0x1600 [0x03] ExtData[1]->WorkLocal[28] = 0*
 325: 0x1605 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[23], bit_index_work_offset=10*, condition_work_offset=1*)
-326: 0x160C [0x24] CREATE_DIALOG(message_id=7499*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
+326: 0x160C [0x24] CREATE_DIALOG(message_id=7501*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
     → "Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7./Add to lottable spoils./Destroy treasure chest.]"
 327: 0x1613 [0x25] WAIT_DIALOG_SELECT()
 328: 0x1614 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x162C
@@ -1948,12 +1948,12 @@ SUBROUTINE_1698:
 355: 0x16A0 [0x02] IF !(ExtData[1]->WorkLocal[25] == 10*) GOTO 0x16FC
 356: 0x16A8 [0x02] IF !(ExtData[1]->WorkLocal[28] <= 0*) GOTO 0x16F9
 357: 0x16B0 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[28], buffer1=ExtData[1]->WorkLocal[20], buffer2=ExtData[1]->WorkLocal[21], buffer3=ExtData[1]->WorkLocal[22])
-358: 0x16BA [0x48] [System] [7505*]:
+358: 0x16BA [0x48] [System] [7507*]:
     → "Obtain this item?"
 359: 0x16BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 360: 0x16BE [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 361: 0x16C1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
-362: 0x16C6 [0x24] CREATE_DIALOG(message_id=7502*, default_option=1*, option_flags=0*)
+362: 0x16C6 [0x24] CREATE_DIALOG(message_id=7504*, default_option=1*, option_flags=0*)
     → "Obtain the $0? [Yes./No.]"
 363: 0x16CD [0x25] WAIT_DIALOG_SELECT()
 364: 0x16CE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x16EE
@@ -1966,7 +1966,7 @@ SUBROUTINE_1698:
 
 SUBROUTINE_16F9:
 371: 0x16F9 [0x01] GOTO 0x172F
-372: 0x16FC [0x24] CREATE_DIALOG(message_id=7529*, default_option=1*, option_flags=0*)
+372: 0x16FC [0x24] CREATE_DIALOG(message_id=7531*, default_option=1*, option_flags=0*)
     → "The chest will be lost. Proceed? [Yes, destroy./No, cancel.]"
 373: 0x1703 [0x25] WAIT_DIALOG_SELECT()
 374: 0x1704 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1724
@@ -2034,7 +2034,7 @@ SUBROUTINE_1746:
 430: 0x183B [0x03] ExtData[1]->WorkLocal[25] = 0*
 431: 0x1840 [0x03] ExtData[1]->WorkLocal[28] = 0*
 432: 0x1845 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[23], bit_index_work_offset=9*, condition_work_offset=1*)
-433: 0x184C [0x24] CREATE_DIALOG(message_id=7500*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
+433: 0x184C [0x24] CREATE_DIALOG(message_id=7502*, default_option=0*, option_flags=ExtData[1]->WorkLocal[23])
     → "Which key item will you obtain? [None of them./6./$6./$6./$6./$6./$6./$6./$6./Destroy treasure chest.]"
 434: 0x1853 [0x25] WAIT_DIALOG_SELECT()
 435: 0x1854 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x186C
@@ -2084,7 +2084,7 @@ SUBROUTINE_1929:
 477: 0x1931 [0x02] IF !(ExtData[1]->WorkLocal[25] == 9*) GOTO 0x197C
 478: 0x1939 [0x02] IF !(ExtData[1]->WorkLocal[28] <= 0*) GOTO 0x1979
 479: 0x1941 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
-480: 0x1946 [0x24] CREATE_DIALOG(message_id=7503*, default_option=1*, option_flags=0*)
+480: 0x1946 [0x24] CREATE_DIALOG(message_id=7505*, default_option=1*, option_flags=0*)
     → "Obtain the $3? [Yes./No.]"
 481: 0x194D [0x25] WAIT_DIALOG_SELECT()
 482: 0x194E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x196E
@@ -2097,7 +2097,7 @@ SUBROUTINE_1929:
 
 SUBROUTINE_1979:
 489: 0x1979 [0x01] GOTO 0x19AF
-490: 0x197C [0x24] CREATE_DIALOG(message_id=7529*, default_option=1*, option_flags=0*)
+490: 0x197C [0x24] CREATE_DIALOG(message_id=7531*, default_option=1*, option_flags=0*)
     → "The chest will be lost. Proceed? [Yes, destroy./No, cancel.]"
 491: 0x1983 [0x25] WAIT_DIALOG_SELECT()
 492: 0x1984 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19A4

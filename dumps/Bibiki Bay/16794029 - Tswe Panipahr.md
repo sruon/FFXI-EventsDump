@@ -20,66 +20,66 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D36      |        7478 |
-|       1 | 0x1D37      |        7479 |
-|       2 | 0x1D38      |        7480 |
-|       3 | 0x1D39      |        7481 |
+|       0 | 0x1D38      |        7480 |
+|       1 | 0x1D39      |        7481 |
+|       2 | 0x1D3A      |        7482 |
+|       3 | 0x1D3B      |        7483 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1D51      |        7505 |
-|       7 | 0x1D52      |        7506 |
+|       6 | 0x1D53      |        7507 |
+|       7 | 0x1D54      |        7508 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x1D53      |        7507 |
+|       9 | 0x1D55      |        7509 |
 |      10 | 0x0050      |          80 |
-|      11 | 0x1D3D      |        7485 |
-|      12 | 0x1D3C      |        7484 |
+|      11 | 0x1D3F      |        7487 |
+|      12 | 0x1D3E      |        7486 |
 |      13 | 0x028D      |         653 |
 |      14 | 0x01F4      |         500 |
-|      15 | 0x1D54      |        7508 |
+|      15 | 0x1D56      |        7510 |
 |      16 | 0x000A      |          10 |
-|      17 | 0x1D56      |        7510 |
-|      18 | 0x1D57      |        7511 |
-|      19 | 0x1D55      |        7509 |
-|      20 | 0x1D3F      |        7487 |
-|      21 | 0x1D40      |        7488 |
-|      22 | 0x1D41      |        7489 |
-|      23 | 0x1D42      |        7490 |
-|      24 | 0x1D43      |        7491 |
-|      25 | 0x1D4A      |        7498 |
-|      26 | 0x1D44      |        7492 |
-|      27 | 0x1D45      |        7493 |
-|      28 | 0x1D46      |        7494 |
-|      29 | 0x1D47      |        7495 |
-|      30 | 0x1D48      |        7496 |
-|      31 | 0x1D49      |        7497 |
+|      17 | 0x1D58      |        7512 |
+|      18 | 0x1D59      |        7513 |
+|      19 | 0x1D57      |        7511 |
+|      20 | 0x1D41      |        7489 |
+|      21 | 0x1D42      |        7490 |
+|      22 | 0x1D43      |        7491 |
+|      23 | 0x1D44      |        7492 |
+|      24 | 0x1D45      |        7493 |
+|      25 | 0x1D4C      |        7500 |
+|      26 | 0x1D46      |        7494 |
+|      27 | 0x1D47      |        7495 |
+|      28 | 0x1D48      |        7496 |
+|      29 | 0x1D49      |        7497 |
+|      30 | 0x1D4A      |        7498 |
+|      31 | 0x1D4B      |        7499 |
 
 ## String References
 
-- **7478**: Welcome to Sunset Docks!
-- **7479**: Enjoy a sightseeing tour of Bibiki Bay, an initiative of the Fishermen's Guild!
-- **7480**: How may I help you?
-- **7481**: What do you want to do? [Nothing in particular./Buy a ticket./Ask about the tours.]
-- **7484**: Thank you, [sir/ma'am]! Have a wonderrrful trip!
-- **7485**: I'm sorry, [sir/ma'am]. You don't have enough gil to purrrchase a ticket.
-- **7487**: Which tour do you wish to have explained?
-- **7488**: Choose a tour: [Dhalmel Rock tour./Maliyakaleya Reef tour./Purgonorgo Isle tour.]
-- **7489**: The Dhalmel Rrrock tour takes a gentle, southerly course along the western coastline.
-- **7490**: You can see the majestic pillars of rrrock towering above the surf, and watch the waves crrrash against Washboard Wake while enjoying the refrrreshing sea breeze.
-- **7491**: The manaclipper turns to pass through the legs of Dhalmel Rrrock before making its way back to Sunset Docks. This is the most rrrelaxing of the tours.
-- **7492**: This tour takes you on an easterly course past the menacing Seawolf Swirrrl as it rounds the cape of Mhaura.
-- **7493**: The stunning Maliyakaleya Reef is the highlight of the trip, home to a menagerrrie of colorful sea life to tempt your fishing line.
-- **7494**: After passing through the rrreef, the manaclipper makes its way back to Sunset Docks to complete this brrreathtakingly beautiful tour.
-- **7495**: The manaclipper leaves here from Sunset Docks on a southeasterly course.
-- **7496**: This tour provides a safe and pleasant rrride to the tropical paradise of Purgonorgo Isle.
-- **7497**: Manaclippers arrive rrregularly to ferry passengers back to Sunset Docks, so there's no need to worry about time. Sit back, rrrelax, and enjoy a long, lazy stay on this beautiful island.
-- **7498**: Is there anything else I can help you with?
-- **7505**: Tickets for the manaclipper are $2 gil. Multi-tickets, which allow you to rrride ten times, can be purrrchased for a mere $5 gil.
-- **7506**: Which would you like? [6 ($2 gil)./$6 ($5 gil)./Nothing today.]
-- **7507**: You cannot buy morrre than one $3. Use the one you have now to ride the next ship.
-- **7508**: Your $3 is valid for $4 more [trip/trips].
-- **7509**: You do not need to purrrchase a new ticket at this time.
-- **7510**: If you want, you can purrrchase a new one for $5 gil.
-- **7511**: Purrrchase a new multi-ticket? [Yes ($5 gil)./No.]
+- **7480**: Welcome to Sunset Docks!
+- **7481**: Enjoy a sightseeing tour of Bibiki Bay, an initiative of the Fishermen's Guild!
+- **7482**: How may I help you?
+- **7483**: What do you want to do? [Nothing in particular./Buy a ticket./Ask about the tours.]
+- **7486**: Thank you, [sir/ma'am]! Have a wonderrrful trip!
+- **7487**: I'm sorry, [sir/ma'am]. You don't have enough gil to purrrchase a ticket.
+- **7489**: Which tour do you wish to have explained?
+- **7490**: Choose a tour: [Dhalmel Rock tour./Maliyakaleya Reef tour./Purgonorgo Isle tour.]
+- **7491**: The Dhalmel Rrrock tour takes a gentle, southerly course along the western coastline.
+- **7492**: You can see the majestic pillars of rrrock towering above the surf, and watch the waves crrrash against Washboard Wake while enjoying the refrrreshing sea breeze.
+- **7493**: The manaclipper turns to pass through the legs of Dhalmel Rrrock before making its way back to Sunset Docks. This is the most rrrelaxing of the tours.
+- **7494**: This tour takes you on an easterly course past the menacing Seawolf Swirrrl as it rounds the cape of Mhaura.
+- **7495**: The stunning Maliyakaleya Reef is the highlight of the trip, home to a menagerrrie of colorful sea life to tempt your fishing line.
+- **7496**: After passing through the rrreef, the manaclipper makes its way back to Sunset Docks to complete this brrreathtakingly beautiful tour.
+- **7497**: The manaclipper leaves here from Sunset Docks on a southeasterly course.
+- **7498**: This tour provides a safe and pleasant rrride to the tropical paradise of Purgonorgo Isle.
+- **7499**: Manaclippers arrive rrregularly to ferry passengers back to Sunset Docks, so there's no need to worry about time. Sit back, rrrelax, and enjoy a long, lazy stay on this beautiful island.
+- **7500**: Is there anything else I can help you with?
+- **7507**: Tickets for the manaclipper are $2 gil. Multi-tickets, which allow you to rrride ten times, can be purrrchased for a mere $5 gil.
+- **7508**: Which would you like? [6 ($2 gil)./$6 ($5 gil)./Nothing today.]
+- **7509**: You cannot buy morrre than one $3. Use the one you have now to ride the next ship.
+- **7510**: Your $3 is valid for $4 more [trip/trips].
+- **7511**: You do not need to purrrchase a new ticket at this time.
+- **7512**: If you want, you can purrrchase a new one for $5 gil.
+- **7513**: Purrrchase a new multi-ticket? [Yes ($5 gil)./No.]
 
 ## Events
 
@@ -149,23 +149,23 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
     → "Welcome to Sunset Docks!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
     → "Enjoy a sightseeing tour of Bibiki Bay, an initiative of the Fishermen's Guild!"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
     → "How may I help you?"
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0012 [0x24] CREATE_DIALOG(message_id=7481*, default_option=0*, option_flags=0*)
+  7: 0x0012 [0x24] CREATE_DIALOG(message_id=7483*, default_option=0*, option_flags=0*)
     → "What do you want to do? [Nothing in particular./Buy a ticket./Ask about the tours.]"
   8: 0x0019 [0x25] WAIT_DIALOG_SELECT()
   9: 0x001A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0110
- 10: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
+ 10: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
     → "Tickets for the manaclipper are $2 gil. Multi-tickets, which allow you to rrride ten times, can be purrrchased for a mere $5 gil."
  11: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0026 [0x24] CREATE_DIALOG(message_id=7506*, default_option=2*, option_flags=0*)
+ 12: 0x0026 [0x24] CREATE_DIALOG(message_id=7508*, default_option=2*, option_flags=0*)
     → "Which would you like? [6 ($2 gil)./$6 ($5 gil)./Nothing today.]"
  13: 0x002D [0x25] WAIT_DIALOG_SELECT()
  14: 0x002E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006A
@@ -173,18 +173,18 @@
  16: 0x0037 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  17: 0x0039 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  18: 0x003B [0x3E] IF !(Work_Zone[4] bit 0*) GOTO 0x004C
- 19: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
+ 19: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
     → "You cannot buy morrre than one $3. Use the one you have now to ride the next ship."
  20: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0046 [0x06] Work_Zone[1] = 0
  22: 0x0049 [0x01] GOTO 0x0067
  23: 0x004C [0x02] IF !(Work_Zone[5] >= 80*) GOTO 0x005E
- 24: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
+ 24: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
     → "I'm sorry, [sir/ma'am]. You don't have enough gil to purrrchase a ticket."
  25: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0058 [0x06] Work_Zone[1] = 0
  27: 0x005B [0x01] GOTO 0x0067
- 28: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+ 28: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
     → "Thank you, [sir/ma'am]! Have a wonderrrful trip!"
  29: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0062 [0x03] Work_Zone[1] = 1*
@@ -198,24 +198,24 @@ SUBROUTINE_0067:
  36: 0x0077 [0x03] Work_Zone[3] = 653*
  37: 0x007C [0x03] Work_Zone[7] = 500*
  38: 0x0081 [0x3E] IF !(Work_Zone[4] bit 1*) GOTO 0x00E1
- 39: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
+ 39: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
     → "Your $3 is valid for $4 more [trip/trips]."
  40: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x008C [0x02] IF !(Work_Zone[6] >= 10*) GOTO 0x00D7
- 42: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
+ 42: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
     → "If you want, you can purrrchase a new one for $5 gil."
  43: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0098 [0x24] CREATE_DIALOG(message_id=7511*, default_option=1*, option_flags=0*)
+ 44: 0x0098 [0x24] CREATE_DIALOG(message_id=7513*, default_option=1*, option_flags=0*)
     → "Purrrchase a new multi-ticket? [Yes ($5 gil)./No.]"
  45: 0x009F [0x25] WAIT_DIALOG_SELECT()
  46: 0x00A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C6
  47: 0x00A8 [0x02] IF !(Work_Zone[5] >= 500*) GOTO 0x00BA
- 48: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
+ 48: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
     → "I'm sorry, [sir/ma'am]. You don't have enough gil to purrrchase a ticket."
  49: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x00B4 [0x06] Work_Zone[1] = 0
  51: 0x00B7 [0x01] GOTO 0x00C3
- 52: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+ 52: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
     → "Thank you, [sir/ma'am]! Have a wonderrrful trip!"
  53: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00BE [0x03] Work_Zone[1] = 2*
@@ -228,7 +228,7 @@ SUBROUTINE_00C3:
 
 SUBROUTINE_00D4:
  59: 0x00D4 [0x01] GOTO 0x00DE
- 60: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
+ 60: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7511*)
     → "You do not need to purrrchase a new ticket at this time."
  61: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x00DB [0x06] Work_Zone[1] = 0
@@ -236,12 +236,12 @@ SUBROUTINE_00D4:
 SUBROUTINE_00DE:
  63: 0x00DE [0x01] GOTO 0x00FC
  64: 0x00E1 [0x02] IF !(Work_Zone[5] >= 500*) GOTO 0x00F3
- 65: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
+ 65: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
     → "I'm sorry, [sir/ma'am]. You don't have enough gil to purrrchase a ticket."
  66: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x00ED [0x06] Work_Zone[1] = 0
  68: 0x00F0 [0x01] GOTO 0x00FC
- 69: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+ 69: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
     → "Thank you, [sir/ma'am]! Have a wonderrrful trip!"
  70: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x00F7 [0x03] Work_Zone[1] = 2*
@@ -255,23 +255,23 @@ SUBROUTINE_00FC:
 SUBROUTINE_010D:
  76: 0x010D [0x01] GOTO 0x0181
  77: 0x0110 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0181
- 78: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
+ 78: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
     → "Which tour do you wish to have explained?"
  79: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x011C [0x24] CREATE_DIALOG(message_id=7488*, default_option=0*, option_flags=0*)
+ 80: 0x011C [0x24] CREATE_DIALOG(message_id=7490*, default_option=0*, option_flags=0*)
     → "Choose a tour: [Dhalmel Rock tour./Maliyakaleya Reef tour./Purgonorgo Isle tour.]"
  81: 0x0123 [0x25] WAIT_DIALOG_SELECT()
  82: 0x0124 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0142
- 83: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
+ 83: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
     → "The Dhalmel Rrrock tour takes a gentle, southerly course along the western coastline."
  84: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7490*)
+ 85: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7492*)
     → "You can see the majestic pillars of rrrock towering above the surf, and watch the waves crrrash against Washboard Wake while enjoying the refrrreshing sea breeze."
  86: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
+ 87: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7493*)
     → "The manaclipper turns to pass through the legs of Dhalmel Rrrock before making its way back to Sunset Docks. This is the most rrrelaxing of the tours."
  88: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7498*)
+ 89: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
     → "Is there anything else I can help you with?"
  90: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x013C [0x01] GOTO 0x0012

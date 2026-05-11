@@ -21,16 +21,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3D3E      |       15678 |
+|       0 | 0x3D40      |       15680 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x3D40      |       15680 |
-|       4 | 0x3D41      |       15681 |
-|       5 | 0x3D49      |       15689 |
+|       3 | 0x3D42      |       15682 |
+|       4 | 0x3D43      |       15683 |
+|       5 | 0x3D4B      |       15691 |
 |       6 | 0x001E      |          30 |
 |       7 | 0x001F      |          31 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x3D42      |       15682 |
+|       9 | 0x3D44      |       15684 |
 |      10 | 0x0007      |           7 |
 |      11 | 0x0003      |           3 |
 |      12 | 0x0004      |           4 |
@@ -49,7 +49,7 @@
 |      25 | 0x0012      |          18 |
 |      26 | 0x0013      |          19 |
 |      27 | 0x0014      |          20 |
-|      28 | 0x3D4E      |       15694 |
+|      28 | 0x3D50      |       15696 |
 |      29 | 0x0015      |          21 |
 |      30 | 0x0016      |          22 |
 |      31 | 0x0017      |          23 |
@@ -90,18 +90,18 @@
 |      66 | 0x003C      |          60 |
 |      67 | 0x003D      |          61 |
 |      68 | 0x003E      |          62 |
-|      69 | 0x3D3F      |       15679 |
+|      69 | 0x3D41      |       15681 |
 |      70 | 0x0925      |        2341 |
 |      71 | 0x0926      |        2342 |
 |      72 | 0x0A04      |        2564 |
 |      73 | 0x0AE6      |        2790 |
 |      74 | 0xFFFFFFFF  |  4294967295 |
-|      75 | 0x3D48      |       15688 |
-|      76 | 0x3D4B      |       15691 |
-|      77 | 0x3D51      |       15697 |
-|      78 | 0x3D46      |       15686 |
-|      79 | 0x3D47      |       15687 |
-|      80 | 0x3D4A      |       15690 |
+|      75 | 0x3D4A      |       15690 |
+|      76 | 0x3D4D      |       15693 |
+|      77 | 0x3D53      |       15699 |
+|      78 | 0x3D48      |       15688 |
+|      79 | 0x3D49      |       15689 |
+|      80 | 0x3D4C      |       15692 |
 |      81 | 0x3B0D      |       15117 |
 |      82 | 0x3AF0      |       15088 |
 |      83 | 0x3AF1      |       15089 |
@@ -216,7 +216,7 @@
 |     192 | 0x6DFC      |       28156 |
 |     193 | 0x0807      |        2055 |
 |     194 | 0x0F88      |        3976 |
-|     195 | 0x3D52      |       15698 |
+|     195 | 0x3D54      |       15700 |
 |     196 | 0x6C80      |       27776 |
 |     197 | 0x6D0D      |       27917 |
 |     198 | 0x6D99      |       28057 |
@@ -328,7 +328,7 @@
 |     304 | 0x0F41      |        3905 |
 |     305 | 0x0FC5      |        4037 |
 |     306 | 0x2225      |        8741 |
-|     307 | 0x3D54      |       15700 |
+|     307 | 0x3D56      |       15702 |
 |     308 | 0x1803      |        6147 |
 |     309 | 0x1804      |        6148 |
 |     310 | 0x1805      |        6149 |
@@ -363,7 +363,7 @@
 |     339 | 0x1821      |        6177 |
 |     340 | 0x1822      |        6178 |
 |     341 | 0x1823      |        6179 |
-|     342 | 0x3D53      |       15699 |
+|     342 | 0x3D55      |       15701 |
 |     343 | 0x6F61      |       28513 |
 |     344 | 0x6FC2      |       28610 |
 |     345 | 0x6EE0      |       28384 |
@@ -483,7 +483,7 @@
 |     459 | 0x52B8      |       21176 |
 |     460 | 0x52EC      |       21228 |
 |     461 | 0x51FE      |       20990 |
-|     462 | 0x3D55      |       15701 |
+|     462 | 0x3D57      |       15703 |
 |     463 | 0x6C60      |       27744 |
 |     464 | 0x53B3      |       21427 |
 |     465 | 0x50FD      |       20733 |
@@ -617,7 +617,7 @@
 |     593 | 0x6ABC      |       27324 |
 |     594 | 0x6BE2      |       27618 |
 |     595 | 0x56F5      |       22261 |
-|     596 | 0x3D56      |       15702 |
+|     596 | 0x3D58      |       15704 |
 |     597 | 0x6941      |       26945 |
 |     598 | 0x69D8      |       27096 |
 |     599 | 0x6F3E      |       28478 |
@@ -626,7 +626,7 @@
 |     602 | 0x68A6      |       26790 |
 |     603 | 0x507D      |       20605 |
 |     604 | 0x6F02      |       28418 |
-|     605 | 0x3D57      |       15703 |
+|     605 | 0x3D59      |       15705 |
 |     606 | 0x51FA      |       20986 |
 |     607 | 0x5082      |       20610 |
 |     608 | 0x6EA3      |       28323 |
@@ -654,7 +654,7 @@
 |     630 | 0x4819      |       18457 |
 |     631 | 0x4822      |       18466 |
 |     632 | 0x49C7      |       18887 |
-|     633 | 0x3D58      |       15704 |
+|     633 | 0x3D5A      |       15706 |
 |     634 | 0x502C      |       20524 |
 |     635 | 0x502B      |       20523 |
 |     636 | 0x5027      |       20519 |
@@ -1024,7 +1024,7 @@
 |    1000 | 0x6BDA      |       27610 |
 |    1001 | 0x6BE4      |       27620 |
 |    1002 | 0x18D3      |        6355 |
-|    1003 | 0x3D5B      |       15707 |
+|    1003 | 0x3D5D      |       15709 |
 |    1004 | 0x5035      |       20533 |
 |    1005 | 0x4555      |       17749 |
 |    1006 | 0x49E0      |       18912 |
@@ -1197,7 +1197,7 @@
 |    1173 | 0x53D6      |       21462 |
 |    1174 | 0x539D      |       21405 |
 |    1175 | 0x56F4      |       22260 |
-|    1176 | 0x3D5E      |       15710 |
+|    1176 | 0x3D60      |       15712 |
 |    1177 | 0x6C5C      |       27740 |
 |    1178 | 0x6CE9      |       27881 |
 |    1179 | 0x6D7D      |       28029 |
@@ -1228,7 +1228,7 @@
 |    1204 | 0x5233      |       21043 |
 |    1205 | 0x52BC      |       21180 |
 |    1206 | 0x52EE      |       21230 |
-|    1207 | 0x3D5F      |       15711 |
+|    1207 | 0x3D61      |       15713 |
 |    1208 | 0x6C50      |       27728 |
 |    1209 | 0x6CE2      |       27874 |
 |    1210 | 0x6D72      |       28018 |
@@ -1271,7 +1271,7 @@
 |    1247 | 0x53E4      |       21476 |
 |    1248 | 0x539C      |       21404 |
 |    1249 | 0x6BEB      |       27627 |
-|    1250 | 0x3D60      |       15712 |
+|    1250 | 0x3D62      |       15714 |
 |    1251 | 0x686D      |       26733 |
 |    1252 | 0x690B      |       26891 |
 |    1253 | 0x69A5      |       27045 |
@@ -1409,7 +1409,7 @@
 |    1385 | 0x664C      |       26188 |
 |    1386 | 0x6734      |       26420 |
 |    1387 | 0x6735      |       26421 |
-|    1388 | 0x3D61      |       15713 |
+|    1388 | 0x3D63      |       15715 |
 |    1389 | 0x5671      |       22129 |
 |    1390 | 0x567C      |       22140 |
 |    1391 | 0x567B      |       22139 |
@@ -1418,14 +1418,14 @@
 |    1394 | 0x567E      |       22142 |
 |    1395 | 0x5673      |       22131 |
 |    1396 | 0x567F      |       22143 |
-|    1397 | 0x3D43      |       15683 |
-|    1398 | 0x3D44      |       15684 |
-|    1399 | 0x3D45      |       15685 |
+|    1397 | 0x3D45      |       15685 |
+|    1398 | 0x3D46      |       15686 |
+|    1399 | 0x3D47      |       15687 |
 |    1400 | 0x1FFFF     |      131071 |
-|    1401 | 0x3D5A      |       15706 |
-|    1402 | 0x3D4F      |       15695 |
+|    1401 | 0x3D5C      |       15708 |
+|    1402 | 0x3D51      |       15697 |
 |    1403 | 0x0DAE      |        3502 |
-|    1404 | 0x3D50      |       15696 |
+|    1404 | 0x3D52      |       15698 |
 |    1405 | 0x0FDB      |        4059 |
 |    1406 | 0x1FFFFF    |     2097151 |
 |    1407 | 0x0DAF      |        3503 |
@@ -1433,13 +1433,13 @@
 |    1409 | 0x012C      |         300 |
 |    1410 | 0x2332      |        9010 |
 |    1411 | 0x0FDD      |        4061 |
-|    1412 | 0x3D4C      |       15692 |
-|    1413 | 0x3D59      |       15705 |
+|    1412 | 0x3D4E      |       15694 |
+|    1413 | 0x3D5B      |       15707 |
 |    1414 | 0x5252      |       21074 |
 |    1415 | 0x6726      |       26406 |
 |    1416 | 0x642D      |       25645 |
 |    1417 | 0x647E      |       25726 |
-|    1418 | 0x3D4D      |       15693 |
+|    1418 | 0x3D4F      |       15695 |
 |    1419 | 0x2B38      |       11064 |
 |    1420 | 0x2B39      |       11065 |
 |    1421 | 0x2B3A      |       11066 |
@@ -1910,37 +1910,37 @@
 
 ## String References
 
-- **15678**: Trade me a Mog Bonanza prize exchange item and I'll gladly grant you a gorgeous gift of your choosing, kupo!
-- **15679**: I'll exchange your $0! Go ahead and select an item from the list of prizes, kupo.
-- **15680**: Decided on the prize you'd like to receive? Go ahead and select it from the list, kupo!
-- **15681**: What will it be? [Nothing for now./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./Next page./Previous page.]
-- **15682**: What will it be? [Nothing for now./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./Next page./Previous page.]
-- **15686**: I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?
-- **15687**: Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]
-- **15688**: I understand. I'll let you hold on to this $3 until you make your decision, kupo.
-- **15689**: I understand. Come talk to me again once you've made your decision, kupo.
-- **15690**: You're the boss! Here you go, then. Congratulations, kupo!
-- **15691**: Obtained key item: 3.
-- **15692**: Select the corresponding job. [Nothing for now./Warrior./Monk./White Mage./Black Mage./Red Mage./Thief./Paladin./Dark Knight./Beastmaster./Bard./Ranger./Samurai./Ninja./Dragoon./Summoner./Blue Mage./Corsair./Puppetmaster./Dancer./Scholar.]
-- **15693**: Select your desired part. [Nothing for now./Head./Body./Hands./Legs./Feet.]
-- **15694**: I shall issue you the following, kupo.
-- **15695**: $39.
-- **15696**: $' $0& .
-- **15697**: $3.
-- **15698**: In addition to one of the prodigious prizes presented preliminary, I proudly proffer $1 $0 , kupo!
-- **15699**: Select a category. [None./Colkhab, the Matriarch Naakual./Tchakka, the Riptide Naakual/Achuka, the Firebrand Naakual/Hurkan, the Booming Naakual./Yumcax, the Ligneous Naakual./Kumhau, the Flashfrost Naakual.]
-- **15700**: Select a category. [None./Combat skills./Magic skills.]
-- **15701**: Select a category. [None./$26Ark Angel 1./$26Ark Angel 2./$26Ark Angel 3./$26Ark Angel 4./$26Ark Angel 5./$26Pentacide Perpetrator./$26Return to Delkfutt's Tower./$26The Celestial Nexus./$26The Savage./$26The Warrior's Path./$26Puppet in Peril./$26Legacy of the Lost./$26Rank five missions./$26Head Wind./$26Trial By Fire./$26Trial By Ice./$26Trial By Wind./$26Trial By Earth./$26Trial By Lightning./$26Trial By Water./$26The Moonlit Path./$26Waking the Beast./$26Waking Dreams./$26One to Be Feared./$26Dawn./Other.]
-- **15702**: Whose items are you after? [No one's!/Perfidien's./Plouton's.]
-- **15703**: Whose items are you after? [No one's!/Palloritus's./Putraxia's./Rancibus's.]
-- **15704**: Select a category. [None of these./Hand-to-hand weapons./Daggers./Swords./Great swords./Axes./Great axes./Polearms./Scythes./Katanas./Great katanas./Clubs./Staves./Throwing weapons./Bows./Guns./Shields./Instruments./Grips./Headgear./Chest armor./Gloves and gauntlets./Leg armor./Boots and greaves./Neck pieces./Earrings./Belts and sashes./Rings./Capes and cloaks./Other.]
-- **15705**: Select a category. [None of these./Argosy gear./Adhemar gear./Apogee gear./Amalric gear./Emicho gear./Carmine gear./Kaykaus gear./Souveran gear./Lustratio gear./Rao gear./Ryuo gear.]
-- **15706**: Which would you like? [None of these./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./$31./$32./$33./$34./$35./$36.]
-- **15707**: Select a category. [None of these./Hand-to-hand weapons./Swords./Axes./Polearms./Scythes./Great katanas./Clubs./Staves./Shields./Headgear 1./Headgear 2./Chest armor./Chest armor 2./Gloves and gauntlets./Leg armor./Boots and greaves./Other.]
-- **15710**: Select a category. [None of these./Outrider equipment./Espial equipment./Wayfarer Equipment.]
-- **15711**: Select a category. [None of these./Cizin equipment./Otronif equipment./Iuitl equipment./Gendewitha equipment./Hagondes equipment./Other.]
-- **15712**: Select a category. [None of these./Torium equipment./Acro equipment./Taeon equipment./Telchine equipment./Helios equipment.]
-- **15713**: Select a category. [None of these./Relic weapons./Mythic weapons./Empyrean weapons./Ergon weapons./Aeonic weapons.]
+- **15680**: Trade me a Mog Bonanza prize exchange item and I'll gladly grant you a gorgeous gift of your choosing, kupo!
+- **15681**: I'll exchange your $0! Go ahead and select an item from the list of prizes, kupo.
+- **15682**: Decided on the prize you'd like to receive? Go ahead and select it from the list, kupo!
+- **15683**: What will it be? [Nothing for now./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./Next page./Previous page.]
+- **15684**: What will it be? [Nothing for now./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./Next page./Previous page.]
+- **15688**: I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?
+- **15689**: Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]
+- **15690**: I understand. I'll let you hold on to this $3 until you make your decision, kupo.
+- **15691**: I understand. Come talk to me again once you've made your decision, kupo.
+- **15692**: You're the boss! Here you go, then. Congratulations, kupo!
+- **15693**: Obtained key item: 3.
+- **15694**: Select the corresponding job. [Nothing for now./Warrior./Monk./White Mage./Black Mage./Red Mage./Thief./Paladin./Dark Knight./Beastmaster./Bard./Ranger./Samurai./Ninja./Dragoon./Summoner./Blue Mage./Corsair./Puppetmaster./Dancer./Scholar.]
+- **15695**: Select your desired part. [Nothing for now./Head./Body./Hands./Legs./Feet.]
+- **15696**: I shall issue you the following, kupo.
+- **15697**: $39.
+- **15698**: $' $0& .
+- **15699**: $3.
+- **15700**: In addition to one of the prodigious prizes presented preliminary, I proudly proffer $1 $0 , kupo!
+- **15701**: Select a category. [None./Colkhab, the Matriarch Naakual./Tchakka, the Riptide Naakual/Achuka, the Firebrand Naakual/Hurkan, the Booming Naakual./Yumcax, the Ligneous Naakual./Kumhau, the Flashfrost Naakual.]
+- **15702**: Select a category. [None./Combat skills./Magic skills.]
+- **15703**: Select a category. [None./$26Ark Angel 1./$26Ark Angel 2./$26Ark Angel 3./$26Ark Angel 4./$26Ark Angel 5./$26Pentacide Perpetrator./$26Return to Delkfutt's Tower./$26The Celestial Nexus./$26The Savage./$26The Warrior's Path./$26Puppet in Peril./$26Legacy of the Lost./$26Rank five missions./$26Head Wind./$26Trial By Fire./$26Trial By Ice./$26Trial By Wind./$26Trial By Earth./$26Trial By Lightning./$26Trial By Water./$26The Moonlit Path./$26Waking the Beast./$26Waking Dreams./$26One to Be Feared./$26Dawn./Other.]
+- **15704**: Whose items are you after? [No one's!/Perfidien's./Plouton's.]
+- **15705**: Whose items are you after? [No one's!/Palloritus's./Putraxia's./Rancibus's.]
+- **15706**: Select a category. [None of these./Hand-to-hand weapons./Daggers./Swords./Great swords./Axes./Great axes./Polearms./Scythes./Katanas./Great katanas./Clubs./Staves./Throwing weapons./Bows./Guns./Shields./Instruments./Grips./Headgear./Chest armor./Gloves and gauntlets./Leg armor./Boots and greaves./Neck pieces./Earrings./Belts and sashes./Rings./Capes and cloaks./Other.]
+- **15707**: Select a category. [None of these./Argosy gear./Adhemar gear./Apogee gear./Amalric gear./Emicho gear./Carmine gear./Kaykaus gear./Souveran gear./Lustratio gear./Rao gear./Ryuo gear.]
+- **15708**: Which would you like? [None of these./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./$31./$32./$33./$34./$35./$36.]
+- **15709**: Select a category. [None of these./Hand-to-hand weapons./Swords./Axes./Polearms./Scythes./Great katanas./Clubs./Staves./Shields./Headgear 1./Headgear 2./Chest armor./Chest armor 2./Gloves and gauntlets./Leg armor./Boots and greaves./Other.]
+- **15712**: Select a category. [None of these./Outrider equipment./Espial equipment./Wayfarer Equipment.]
+- **15713**: Select a category. [None of these./Cizin equipment./Otronif equipment./Iuitl equipment./Gendewitha equipment./Hagondes equipment./Other.]
+- **15714**: Select a category. [None of these./Torium equipment./Acro equipment./Taeon equipment./Telchine equipment./Helios equipment.]
+- **15715**: Select a category. [None of these./Relic weapons./Mythic weapons./Empyrean weapons./Ergon weapons./Aeonic weapons.]
 
 ## Events
 
@@ -1986,7 +1986,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=15678*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=15680*)
     → "Trade me a Mog Bonanza prize exchange item and I'll gladly grant you a gorgeous gift of your choosing, kupo!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -4375,7 +4375,7 @@
   4: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
   5: 0x0021 [0x02] IF !(Work_Zone[5] <= 1*) GOTO 0x07B2
   6: 0x0029 [0x1A] CALL_SUBROUTINE(address=0x8C39)
-  7: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=15680*)
+  7: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=15682*)
     → "Decided on the prize you'd like to receive? Go ahead and select it from the list, kupo!"
   8: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0030 [0x03] ExtData[1]->WorkLocal[13] = 0*
@@ -4387,12 +4387,12 @@
  15: 0x004C [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x07AF
  16: 0x0054 [0x1A] CALL_SUBROUTINE(address=0x8CDC)
  17: 0x0057 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x00E5
- 18: 0x005F [0x24] CREATE_DIALOG(message_id=15681*, default_option=Work_Zone[66], option_flags=ExtData[1]->WorkLocal[4])
+ 18: 0x005F [0x24] CREATE_DIALOG(message_id=15683*, default_option=Work_Zone[66], option_flags=ExtData[1]->WorkLocal[4])
     → "What will it be? [Nothing for now./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./Next page./Previous page.]"
  19: 0x0066 [0x25] WAIT_DIALOG_SELECT()
  20: 0x0067 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0081
  21: 0x006F [0x06] ExtData[1]->WorkLocal[2] = 0
- 22: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+ 22: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
  23: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0076 [0x06] Work_Zone[4] = 0
@@ -4422,12 +4422,12 @@
 SUBROUTINE_00E2:
  47: 0x00E2 [0x01] GOTO 0x020B
  48: 0x00E5 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x0178
- 49: 0x00ED [0x24] CREATE_DIALOG(message_id=15681*, default_option=Work_Zone[66], option_flags=ExtData[1]->WorkLocal[4])
+ 49: 0x00ED [0x24] CREATE_DIALOG(message_id=15683*, default_option=Work_Zone[66], option_flags=ExtData[1]->WorkLocal[4])
     → "What will it be? [Nothing for now./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./Next page./Previous page.]"
  50: 0x00F4 [0x25] WAIT_DIALOG_SELECT()
  51: 0x00F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010F
  52: 0x00FD [0x06] ExtData[1]->WorkLocal[2] = 0
- 53: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+ 53: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
  54: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0104 [0x06] Work_Zone[4] = 0
@@ -4460,12 +4460,12 @@ SUBROUTINE_0175:
  80: 0x0178 [0x02] IF !(ExtData[1]->WorkLocal[13] == 2*) GOTO 0x020B
 
 SUBROUTINE_0180:
- 81: 0x0180 [0x24] CREATE_DIALOG(message_id=15682*, default_option=Work_Zone[66], option_flags=ExtData[1]->WorkLocal[4])
+ 81: 0x0180 [0x24] CREATE_DIALOG(message_id=15684*, default_option=Work_Zone[66], option_flags=ExtData[1]->WorkLocal[4])
     → "What will it be? [Nothing for now./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./Next page./Previous page.]"
  82: 0x0187 [0x25] WAIT_DIALOG_SELECT()
  83: 0x0188 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A2
  84: 0x0190 [0x06] ExtData[1]->WorkLocal[2] = 0
- 85: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+ 85: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
  86: 0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0197 [0x06] Work_Zone[4] = 0
@@ -4579,7 +4579,7 @@ SUBROUTINE_0380:
 189: 0x03C8 [0x01] GOTO 0x07AC
 190: 0x03CB [0x02] IF !(Work_Zone[4] == 20*) GOTO 0x03E6
 191: 0x03D3 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=Work_Zone[4])
-192: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+192: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 193: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x03E0 [0x1A] CALL_SUBROUTINE(address=0x7961)
@@ -4759,32 +4759,32 @@ SUBROUTINE_07AC:
 366: 0x07B2 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=Work_Zone[4])
 367: 0x07BB [0x02] IF !(Work_Zone[5] >= 1*) GOTO 0x07E8
 368: 0x07C3 [0x02] IF !(Work_Zone[4] == 20*) GOTO 0x07D2
-369: 0x07CB [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+369: 0x07CB [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 370: 0x07CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 371: 0x07CF [0x01] GOTO 0x07E5
 372: 0x07D2 [0x02] IF !(Work_Zone[4] == 45*) GOTO 0x07E1
-373: 0x07DA [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+373: 0x07DA [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 374: 0x07DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 375: 0x07DE [0x01] GOTO 0x07E5
-376: 0x07E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15679*)
+376: 0x07E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15681*)
     → "I'll exchange your $0! Go ahead and select an item from the list of prizes, kupo."
 377: 0x07E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_07E5:
 378: 0x07E5 [0x01] GOTO 0x080A
 379: 0x07E8 [0x02] IF !(Work_Zone[4] == 20*) GOTO 0x07F7
-380: 0x07F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+380: 0x07F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 381: 0x07F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 382: 0x07F4 [0x01] GOTO 0x080A
 383: 0x07F7 [0x02] IF !(Work_Zone[4] == 45*) GOTO 0x0806
-384: 0x07FF [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+384: 0x07FF [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 385: 0x0802 [0x23] WAIT_FOR_DIALOG_INTERACTION
 386: 0x0803 [0x01] GOTO 0x080A
-387: 0x0806 [0x1D] PRINT_EVENT_MESSAGE(message_id=15680*)
+387: 0x0806 [0x1D] PRINT_EVENT_MESSAGE(message_id=15682*)
     → "Decided on the prize you'd like to receive? Go ahead and select it from the list, kupo!"
 388: 0x0809 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4870,21 +4870,21 @@ SUBROUTINE_08C8:
 461: 0x0964 [0x03] Work_Zone_1700[28] = 1*
 462: 0x0969 [0x03] ExtData[1]->WorkLocal[4] = 4294967295*
 463: 0x096E [0x0F] ExtData[1]->WorkLocal[4] ^= 31*
-464: 0x0973 [0x24] CREATE_DIALOG(message_id=15681*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[4])
+464: 0x0973 [0x24] CREATE_DIALOG(message_id=15683*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[4])
     → "What will it be? [Nothing for now./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6./Next page./Previous page.]"
 465: 0x097A [0x25] WAIT_DIALOG_SELECT()
 466: 0x097B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09B1
 467: 0x0983 [0x06] ExtData[1]->WorkLocal[1] = 0
 468: 0x0986 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x099D
-469: 0x098E [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+469: 0x098E [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 470: 0x0991 [0x23] WAIT_FOR_DIALOG_INTERACTION
 471: 0x0992 [0x03] Work_Zone[2] = Work_Zone[3]
-472: 0x0997 [0x48] [System] [15691*]:
+472: 0x0997 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 473: 0x099A [0x01] GOTO 0x09A9
 474: 0x099D [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x09A9
-475: 0x09A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+475: 0x09A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 476: 0x09A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4918,19 +4918,19 @@ SUBROUTINE_0A29:
 SUBROUTINE_0A2C:
 500: 0x0A2C [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-31*)
 501: 0x0A35 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0A76
-502: 0x0A3D [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
+502: 0x0A3D [0x1D] PRINT_EVENT_MESSAGE(message_id=15699*)
     → "$3."
 503: 0x0A40 [0x23] WAIT_FOR_DIALOG_INTERACTION
-504: 0x0A41 [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+504: 0x0A41 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 505: 0x0A44 [0x23] WAIT_FOR_DIALOG_INTERACTION
-506: 0x0A45 [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+506: 0x0A45 [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 507: 0x0A4C [0x25] WAIT_DIALOG_SELECT()
 508: 0x0A4D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A62
 509: 0x0A55 [0x06] ExtData[1]->WorkLocal[1] = 0
 510: 0x0A58 [0x06] ExtData[1]->WorkLocal[2] = 0
-511: 0x0A5B [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+511: 0x0A5B [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 512: 0x0A5E [0x23] WAIT_FOR_DIALOG_INTERACTION
 513: 0x0A5F [0x01] GOTO 0x0A76
@@ -5113,7 +5113,7 @@ SUBROUTINE_0A97:
 682: 0x0DA9 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[3]
 683: 0x0DAE [0x03] Work_Zone[2] = 3976*
 684: 0x0DB3 [0x03] Work_Zone[3] = 3*
-685: 0x0DB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
+685: 0x0DB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15700*)
     → "In addition to one of the prodigious prizes presented preliminary, I proudly proffer $1 $0 , kupo!"
 686: 0x0DBB [0x23] WAIT_FOR_DIALOG_INTERACTION
 687: 0x0DBC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
@@ -5281,7 +5281,7 @@ SUBROUTINE_0A97:
 849: 0x10EE [0x01] GOTO 0x5C7F
 850: 0x10F1 [0x02] IF !(Work_Zone[4] == 26*) GOTO 0x1204
 851: 0x10F9 [0x05] ExtData[1]->WorkLocal[9] = 1
-852: 0x10FC [0x24] CREATE_DIALOG(message_id=15700*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+852: 0x10FC [0x24] CREATE_DIALOG(message_id=15702*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Select a category. [None./Combat skills./Magic skills.]"
 853: 0x1103 [0x25] WAIT_DIALOG_SELECT()
 854: 0x1104 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x118C
@@ -5340,7 +5340,7 @@ SUBROUTINE_1201:
 905: 0x1201 [0x01] GOTO 0x5C7F
 906: 0x1204 [0x02] IF !(Work_Zone[4] == 22*) GOTO 0x144A
 907: 0x120C [0x05] ExtData[1]->WorkLocal[9] = 1
-908: 0x120F [0x24] CREATE_DIALOG(message_id=15699*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+908: 0x120F [0x24] CREATE_DIALOG(message_id=15701*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Select a category. [None./Colkhab, the Matriarch Naakual./Tchakka, the Riptide Naakual/Achuka, the Firebrand Naakual/Hurkan, the Booming Naakual./Yumcax, the Ligneous Naakual./Kumhau, the Flashfrost Naakual.]"
 909: 0x1216 [0x25] WAIT_DIALOG_SELECT()
 910: 0x1217 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1270
@@ -5554,7 +5554,7 @@ SUBROUTINE_1447:
 1116: 0x1617 [0x01] GOTO 0x5C7F
 1117: 0x161A [0x02] IF !(Work_Zone[4] == 32*) GOTO 0x1CFB
 1118: 0x1622 [0x05] ExtData[1]->WorkLocal[9] = 1
-1119: 0x1625 [0x24] CREATE_DIALOG(message_id=15701*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+1119: 0x1625 [0x24] CREATE_DIALOG(message_id=15703*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Select a category. [None./$26Ark Angel 1./$26Ark Angel 2./$26Ark Angel 3./$26Ark Angel 4./$26Ark Angel 5./$26Pentacide Perpetrator./$26Return to Delkfutt's Tower./$26The Celestial Nexus./$26The Savage./$26The Warrior's Path./$26Puppet in Peril./$26Legacy of the Lost./$26Rank five missions./$26Head Wind./$26Trial By Fire./$26Trial By Ice./$26Trial By Wind./$26Trial By Earth./$26Trial By Lightning./$26Trial By Water./$26The Moonlit Path./$26Waking the Beast./$26Waking Dreams./$26One to Be Feared./$26Dawn./Other.]"
 1120: 0x162C [0x25] WAIT_DIALOG_SELECT()
 1121: 0x162D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x166F
@@ -5905,7 +5905,7 @@ SUBROUTINE_1CF8:
 1464: 0x1CF8 [0x01] GOTO 0x5C7F
 1465: 0x1CFB [0x02] IF !(Work_Zone[4] == 33*) GOTO 0x1D93
 1466: 0x1D03 [0x05] ExtData[1]->WorkLocal[9] = 1
-1467: 0x1D06 [0x24] CREATE_DIALOG(message_id=15702*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+1467: 0x1D06 [0x24] CREATE_DIALOG(message_id=15704*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Whose items are you after? [No one's!/Perfidien's./Plouton's.]"
 1468: 0x1D0D [0x25] WAIT_DIALOG_SELECT()
 1469: 0x1D0E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1D4B
@@ -5939,7 +5939,7 @@ SUBROUTINE_1D90:
 1495: 0x1D90 [0x01] GOTO 0x5C7F
 1496: 0x1D93 [0x02] IF !(Work_Zone[4] == 34*) GOTO 0x1E68
 1497: 0x1D9B [0x05] ExtData[1]->WorkLocal[9] = 1
-1498: 0x1D9E [0x24] CREATE_DIALOG(message_id=15703*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+1498: 0x1D9E [0x24] CREATE_DIALOG(message_id=15705*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Whose items are you after? [No one's!/Palloritus's./Putraxia's./Rancibus's.]"
 1499: 0x1DA5 [0x25] WAIT_DIALOG_SELECT()
 1500: 0x1DA6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1DE3
@@ -6007,7 +6007,7 @@ SUBROUTINE_1E65:
 1560: 0x1ED2 [0x02] IF !(Work_Zone[4] == 37*) GOTO 0x2870
 1561: 0x1EDA [0x05] ExtData[1]->WorkLocal[9] = 1
 1562: 0x1EDD [0x06] Work_Zone_1700[0] = 0
-1563: 0x1EE0 [0x24] CREATE_DIALOG(message_id=15704*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
+1563: 0x1EE0 [0x24] CREATE_DIALOG(message_id=15706*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
     → "Select a category. [None of these./Hand-to-hand weapons./Daggers./Swords./Great swords./Axes./Great axes./Polearms./Scythes./Katanas./Great katanas./Clubs./Staves./Throwing weapons./Bows./Guns./Shields./Instruments./Grips./Headgear./Chest armor./Gloves and gauntlets./Leg armor./Boots and greaves./Neck pieces./Earrings./Belts and sashes./Rings./Capes and cloaks./Other.]"
 1564: 0x1EE7 [0x25] WAIT_DIALOG_SELECT()
 1565: 0x1EE8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1F2F
@@ -6499,7 +6499,7 @@ SUBROUTINE_286D:
 2049: 0x2878 [0x05] ExtData[1]->WorkLocal[9] = 1
 2050: 0x287B [0x06] Work_Zone_1700[0] = 0
 2051: 0x287E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[0], bit_index_work_offset=29*, condition_work_offset=1*)
-2052: 0x2885 [0x24] CREATE_DIALOG(message_id=15704*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
+2052: 0x2885 [0x24] CREATE_DIALOG(message_id=15706*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
     → "Select a category. [None of these./Hand-to-hand weapons./Daggers./Swords./Great swords./Axes./Great axes./Polearms./Scythes./Katanas./Great katanas./Clubs./Staves./Throwing weapons./Bows./Guns./Shields./Instruments./Grips./Headgear./Chest armor./Gloves and gauntlets./Leg armor./Boots and greaves./Neck pieces./Earrings./Belts and sashes./Rings./Capes and cloaks./Other.]"
 2053: 0x288C [0x25] WAIT_DIALOG_SELECT()
 2054: 0x288D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x28D4
@@ -6950,7 +6950,7 @@ SUBROUTINE_30F4:
 2497: 0x3167 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[0], bit_index_work_offset=16*, condition_work_offset=1*)
 2498: 0x316E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[0], bit_index_work_offset=17*, condition_work_offset=1*)
 2499: 0x3175 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[0], bit_index_work_offset=29*, condition_work_offset=1*)
-2500: 0x317C [0x24] CREATE_DIALOG(message_id=15704*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
+2500: 0x317C [0x24] CREATE_DIALOG(message_id=15706*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
     → "Select a category. [None of these./Hand-to-hand weapons./Daggers./Swords./Great swords./Axes./Great axes./Polearms./Scythes./Katanas./Great katanas./Clubs./Staves./Throwing weapons./Bows./Guns./Shields./Instruments./Grips./Headgear./Chest armor./Gloves and gauntlets./Leg armor./Boots and greaves./Neck pieces./Earrings./Belts and sashes./Rings./Capes and cloaks./Other.]"
 2501: 0x3183 [0x25] WAIT_DIALOG_SELECT()
 2502: 0x3184 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x31CB
@@ -7129,7 +7129,7 @@ SUBROUTINE_34DB:
 2673: 0x34E6 [0x05] ExtData[1]->WorkLocal[9] = 1
 2674: 0x34E9 [0x06] Work_Zone_1700[0] = 0
 2675: 0x34EC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[0], bit_index_work_offset=17*, condition_work_offset=1*)
-2676: 0x34F3 [0x24] CREATE_DIALOG(message_id=15704*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
+2676: 0x34F3 [0x24] CREATE_DIALOG(message_id=15706*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
     → "Select a category. [None of these./Hand-to-hand weapons./Daggers./Swords./Great swords./Axes./Great axes./Polearms./Scythes./Katanas./Great katanas./Clubs./Staves./Throwing weapons./Bows./Guns./Shields./Instruments./Grips./Headgear./Chest armor./Gloves and gauntlets./Leg armor./Boots and greaves./Neck pieces./Earrings./Belts and sashes./Rings./Capes and cloaks./Other.]"
 2677: 0x34FA [0x25] WAIT_DIALOG_SELECT()
 2678: 0x34FB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x3533
@@ -7474,7 +7474,7 @@ SUBROUTINE_3BA0:
 3015: 0x3BAB [0x05] ExtData[1]->WorkLocal[9] = 1
 3016: 0x3BAE [0x06] Work_Zone_1700[0] = 0
 3017: 0x3BB1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[0], bit_index_work_offset=17*, condition_work_offset=1*)
-3018: 0x3BB8 [0x24] CREATE_DIALOG(message_id=15704*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
+3018: 0x3BB8 [0x24] CREATE_DIALOG(message_id=15706*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
     → "Select a category. [None of these./Hand-to-hand weapons./Daggers./Swords./Great swords./Axes./Great axes./Polearms./Scythes./Katanas./Great katanas./Clubs./Staves./Throwing weapons./Bows./Guns./Shields./Instruments./Grips./Headgear./Chest armor./Gloves and gauntlets./Leg armor./Boots and greaves./Neck pieces./Earrings./Belts and sashes./Rings./Capes and cloaks./Other.]"
 3019: 0x3BBF [0x25] WAIT_DIALOG_SELECT()
 3020: 0x3BC0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x3BF3
@@ -7818,7 +7818,7 @@ SUBROUTINE_41FC:
 3356: 0x426C [0x05] ExtData[1]->WorkLocal[9] = 1
 3357: 0x426F [0x06] Work_Zone_1700[0] = 0
 3358: 0x4272 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[0], bit_index_work_offset=17*, condition_work_offset=1*)
-3359: 0x4279 [0x24] CREATE_DIALOG(message_id=15707*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
+3359: 0x4279 [0x24] CREATE_DIALOG(message_id=15709*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
     → "Select a category. [None of these./Hand-to-hand weapons./Swords./Axes./Polearms./Scythes./Great katanas./Clubs./Staves./Shields./Headgear 1./Headgear 2./Chest armor./Chest armor 2./Gloves and gauntlets./Leg armor./Boots and greaves./Other.]"
 3360: 0x4280 [0x25] WAIT_DIALOG_SELECT()
 3361: 0x4281 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x42AF
@@ -8138,7 +8138,7 @@ SUBROUTINE_482A:
 3673: 0x48B7 [0x01] GOTO 0x5C7F
 3674: 0x48BA [0x02] IF !(Work_Zone[4] == 47*) GOTO 0x499C
 3675: 0x48C2 [0x05] ExtData[1]->WorkLocal[9] = 1
-3676: 0x48C5 [0x24] CREATE_DIALOG(message_id=15710*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+3676: 0x48C5 [0x24] CREATE_DIALOG(message_id=15712*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Select a category. [None of these./Outrider equipment./Espial equipment./Wayfarer Equipment.]"
 3677: 0x48CC [0x25] WAIT_DIALOG_SELECT()
 3678: 0x48CD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x490F
@@ -8214,7 +8214,7 @@ SUBROUTINE_4999:
 3746: 0x4A22 [0x01] GOTO 0x5C7F
 3747: 0x4A25 [0x02] IF !(Work_Zone[4] == 50*) GOTO 0x4BB9
 3748: 0x4A2D [0x05] ExtData[1]->WorkLocal[9] = 1
-3749: 0x4A30 [0x24] CREATE_DIALOG(message_id=15711*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+3749: 0x4A30 [0x24] CREATE_DIALOG(message_id=15713*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Select a category. [None of these./Cizin equipment./Otronif equipment./Iuitl equipment./Gendewitha equipment./Hagondes equipment./Other.]"
 3750: 0x4A37 [0x25] WAIT_DIALOG_SELECT()
 3751: 0x4A38 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x4A7A
@@ -8326,7 +8326,7 @@ SUBROUTINE_4BB6:
 3855: 0x4C44 [0x01] GOTO 0x5C7F
 3856: 0x4C47 [0x02] IF !(Work_Zone[4] == 53*) GOTO 0x4DAD
 3857: 0x4C4F [0x05] ExtData[1]->WorkLocal[9] = 1
-3858: 0x4C52 [0x24] CREATE_DIALOG(message_id=15712*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+3858: 0x4C52 [0x24] CREATE_DIALOG(message_id=15714*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Select a category. [None of these./Torium equipment./Acro equipment./Taeon equipment./Telchine equipment./Helios equipment.]"
 3859: 0x4C59 [0x25] WAIT_DIALOG_SELECT()
 3860: 0x4C5A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x4C9C
@@ -8492,7 +8492,7 @@ SUBROUTINE_4DAA:
 4018: 0x4F73 [0x02] IF !(Work_Zone[4] == 58*) GOTO 0x5989
 4019: 0x4F7B [0x05] ExtData[1]->WorkLocal[9] = 1
 4020: 0x4F7E [0x06] Work_Zone_1700[0] = 0
-4021: 0x4F81 [0x24] CREATE_DIALOG(message_id=15704*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
+4021: 0x4F81 [0x24] CREATE_DIALOG(message_id=15706*, default_option=ExtData[1]->WorkLocal[15], option_flags=Work_Zone_1700[0])
     → "Select a category. [None of these./Hand-to-hand weapons./Daggers./Swords./Great swords./Axes./Great axes./Polearms./Scythes./Katanas./Great katanas./Clubs./Staves./Throwing weapons./Bows./Guns./Shields./Instruments./Grips./Headgear./Chest armor./Gloves and gauntlets./Leg armor./Boots and greaves./Neck pieces./Earrings./Belts and sashes./Rings./Capes and cloaks./Other.]"
 4022: 0x4F88 [0x25] WAIT_DIALOG_SELECT()
 4023: 0x4F89 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x4FD5
@@ -9043,7 +9043,7 @@ SUBROUTINE_5986:
 4566: 0x5A42 [0x01] GOTO 0x5C7F
 4567: 0x5A45 [0x02] IF !(Work_Zone[4] == 62*) GOTO 0x5C7F
 4568: 0x5A4D [0x05] ExtData[1]->WorkLocal[9] = 1
-4569: 0x5A50 [0x24] CREATE_DIALOG(message_id=15713*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+4569: 0x5A50 [0x24] CREATE_DIALOG(message_id=15715*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Select a category. [None of these./Relic weapons./Mythic weapons./Empyrean weapons./Ergon weapons./Aeonic weapons.]"
 4570: 0x5A57 [0x25] WAIT_DIALOG_SELECT()
 4571: 0x5A58 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x5AC7
@@ -9179,15 +9179,15 @@ SUBROUTINE_5CB6:
 SUBROUTINE_5D10:
 4694: 0x5D10 [0x06] ExtData[1]->WorkLocal[1] = 0
 4695: 0x5D13 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x5D2A
-4696: 0x5D1B [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+4696: 0x5D1B [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 4697: 0x5D1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 4698: 0x5D1F [0x03] Work_Zone[2] = Work_Zone[3]
-4699: 0x5D24 [0x48] [System] [15691*]:
+4699: 0x5D24 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 4700: 0x5D27 [0x01] GOTO 0x5D36
 4701: 0x5D2A [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x5D36
-4702: 0x5D32 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+4702: 0x5D32 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 4703: 0x5D35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -9260,15 +9260,15 @@ SUBROUTINE_5E7B:
 4765: 0x5ECD [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x5EFE
 4766: 0x5ED5 [0x06] ExtData[1]->WorkLocal[1] = 0
 4767: 0x5ED8 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x5EEF
-4768: 0x5EE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+4768: 0x5EE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 4769: 0x5EE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4770: 0x5EE4 [0x03] Work_Zone[2] = Work_Zone[3]
-4771: 0x5EE9 [0x48] [System] [15691*]:
+4771: 0x5EE9 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 4772: 0x5EEC [0x01] GOTO 0x5EFB
 4773: 0x5EEF [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x5EFB
-4774: 0x5EF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+4774: 0x5EF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 4775: 0x5EFA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -9352,15 +9352,15 @@ SUBROUTINE_6087:
 4848: 0x60D9 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x610A
 4849: 0x60E1 [0x06] ExtData[1]->WorkLocal[1] = 0
 4850: 0x60E4 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x60FB
-4851: 0x60EC [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+4851: 0x60EC [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 4852: 0x60EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 4853: 0x60F0 [0x03] Work_Zone[2] = Work_Zone[3]
-4854: 0x60F5 [0x48] [System] [15691*]:
+4854: 0x60F5 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 4855: 0x60F8 [0x01] GOTO 0x6107
 4856: 0x60FB [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x6107
-4857: 0x6103 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+4857: 0x6103 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 4858: 0x6106 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -9445,17 +9445,17 @@ SUBROUTINE_629F:
 4928: 0x629F [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-31*)
 4929: 0x62A8 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x62F4
 4930: 0x62B0 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-4931: 0x62B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+4931: 0x62B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 4932: 0x62B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4933: 0x62B7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-4934: 0x62BA [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+4934: 0x62BA [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 4935: 0x62C1 [0x25] WAIT_DIALOG_SELECT()
 4936: 0x62C2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x62E0
 4937: 0x62CA [0x06] ExtData[1]->WorkLocal[1] = 0
 4938: 0x62CD [0x06] ExtData[1]->WorkLocal[2] = 0
-4939: 0x62D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+4939: 0x62D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 4940: 0x62D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4941: 0x62D4 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[10])
@@ -9486,21 +9486,21 @@ SUBROUTINE_630E:
 4958: 0x633A [0x01] GOTO 0x630E
 4959: 0x633D [0x03] ExtData[1]->WorkLocal[0] = 131071*
 4960: 0x6342 [0x0F] ExtData[1]->WorkLocal[0] ^= 4294967295*
-4961: 0x6347 [0x24] CREATE_DIALOG(message_id=15706*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[0])
+4961: 0x6347 [0x24] CREATE_DIALOG(message_id=15708*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[0])
     → "Which would you like? [None of these./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./$31./$32./$33./$34./$35./$36.]"
 4962: 0x634E [0x25] WAIT_DIALOG_SELECT()
 4963: 0x634F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6380
 4964: 0x6357 [0x06] ExtData[1]->WorkLocal[1] = 0
 4965: 0x635A [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x6371
-4966: 0x6362 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+4966: 0x6362 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 4967: 0x6365 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4968: 0x6366 [0x03] Work_Zone[2] = Work_Zone[3]
-4969: 0x636B [0x48] [System] [15691*]:
+4969: 0x636B [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 4970: 0x636E [0x01] GOTO 0x637D
 4971: 0x6371 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x637D
-4972: 0x6379 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+4972: 0x6379 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 4973: 0x637C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -9574,20 +9574,20 @@ SUBROUTINE_637D:
 SUBROUTINE_6510:
 5039: 0x6510 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-31*)
 5040: 0x6519 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x65A6
-5041: 0x6521 [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+5041: 0x6521 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 5042: 0x6524 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5043: 0x6525 [0x0C] ExtData[1]->WorkLocal[0]--
 5044: 0x6528 [0x9D] IF (0x7891) ExtData[1]->WorkLocal[0] = Work_Zone_1700[31] // extra=0x8017
 5045: 0x6532 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5046: 0x6535 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5046: 0x6535 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5047: 0x6538 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5048: 0x6539 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5049: 0x653C [0x03] Work_Zone_1700[30] = 3502*
 5050: 0x6541 [0x03] Work_Zone_1700[31] = 5*
 5051: 0x6546 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
-5052: 0x6549 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
+5052: 0x6549 [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
     → "$' $0& ."
 5053: 0x654C [0x23] WAIT_FOR_DIALOG_INTERACTION
 5054: 0x654D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -9595,20 +9595,20 @@ SUBROUTINE_6510:
 5056: 0x655A [0x02] IF !(Work_Zone_1700[31] <= 0*) GOTO 0x6571
 5057: 0x6562 [0x03] Work_Zone_1700[30] = 4059*
 5058: 0x6567 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
-5059: 0x656A [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
+5059: 0x656A [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
     → "$' $0& ."
 5060: 0x656D [0x23] WAIT_FOR_DIALOG_INTERACTION
 5061: 0x656E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-5062: 0x6571 [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+5062: 0x6571 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 5063: 0x6574 [0x23] WAIT_FOR_DIALOG_INTERACTION
-5064: 0x6575 [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+5064: 0x6575 [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 5065: 0x657C [0x25] WAIT_DIALOG_SELECT()
 5066: 0x657D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6592
 5067: 0x6585 [0x06] ExtData[1]->WorkLocal[1] = 0
 5068: 0x6588 [0x06] ExtData[1]->WorkLocal[2] = 0
-5069: 0x658B [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+5069: 0x658B [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 5070: 0x658E [0x23] WAIT_FOR_DIALOG_INTERACTION
 5071: 0x658F [0x01] GOTO 0x65A6
@@ -9631,21 +9631,21 @@ SUBROUTINE_65B4:
 5084: 0x65E0 [0x01] GOTO 0x65B4
 5085: 0x65E3 [0x03] ExtData[1]->WorkLocal[0] = 2097151*
 5086: 0x65E8 [0x0F] ExtData[1]->WorkLocal[0] ^= 4294967295*
-5087: 0x65ED [0x24] CREATE_DIALOG(message_id=15706*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[0])
+5087: 0x65ED [0x24] CREATE_DIALOG(message_id=15708*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[0])
     → "Which would you like? [None of these./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./$31./$32./$33./$34./$35./$36.]"
 5088: 0x65F4 [0x25] WAIT_DIALOG_SELECT()
 5089: 0x65F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6626
 5090: 0x65FD [0x06] ExtData[1]->WorkLocal[1] = 0
 5091: 0x6600 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x6617
-5092: 0x6608 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+5092: 0x6608 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 5093: 0x660B [0x23] WAIT_FOR_DIALOG_INTERACTION
 5094: 0x660C [0x03] Work_Zone[2] = Work_Zone[3]
-5095: 0x6611 [0x48] [System] [15691*]:
+5095: 0x6611 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 5096: 0x6614 [0x01] GOTO 0x6623
 5097: 0x6617 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x6623
-5098: 0x661F [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+5098: 0x661F [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 5099: 0x6622 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -9735,40 +9735,40 @@ SUBROUTINE_6623:
 SUBROUTINE_681A:
 5181: 0x681A [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-31*)
 5182: 0x6823 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x68A3
-5183: 0x682B [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+5183: 0x682B [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 5184: 0x682E [0x23] WAIT_FOR_DIALOG_INTERACTION
 5185: 0x682F [0x0C] ExtData[1]->WorkLocal[0]--
 5186: 0x6832 [0x9D] IF (0x78D1) ExtData[1]->WorkLocal[0] = Work_Zone_1700[31] // extra=0x801B
 5187: 0x683C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5188: 0x683F [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5188: 0x683F [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5189: 0x6842 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5190: 0x6843 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5191: 0x6846 [0x03] Work_Zone_1700[30] = 3503*
 5192: 0x684B [0x03] Work_Zone_1700[31] = 3*
 5193: 0x6850 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
-5194: 0x6853 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
+5194: 0x6853 [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
     → "$' $0& ."
 5195: 0x6856 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5196: 0x6857 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5197: 0x685A [0x03] Work_Zone_1700[30] = 4060*
 5198: 0x685F [0x03] Work_Zone_1700[31] = 300*
 5199: 0x6864 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
-5200: 0x6867 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
+5200: 0x6867 [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
     → "$' $0& ."
 5201: 0x686A [0x23] WAIT_FOR_DIALOG_INTERACTION
 5202: 0x686B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-5203: 0x686E [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+5203: 0x686E [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 5204: 0x6871 [0x23] WAIT_FOR_DIALOG_INTERACTION
-5205: 0x6872 [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+5205: 0x6872 [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 5206: 0x6879 [0x25] WAIT_DIALOG_SELECT()
 5207: 0x687A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x688F
 5208: 0x6882 [0x06] ExtData[1]->WorkLocal[1] = 0
 5209: 0x6885 [0x06] ExtData[1]->WorkLocal[2] = 0
-5210: 0x6888 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+5210: 0x6888 [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 5211: 0x688B [0x23] WAIT_FOR_DIALOG_INTERACTION
 5212: 0x688C [0x01] GOTO 0x68A3
@@ -9791,21 +9791,21 @@ SUBROUTINE_68B1:
 5225: 0x68DD [0x01] GOTO 0x68B1
 5226: 0x68E0 [0x03] ExtData[1]->WorkLocal[0] = 131071*
 5227: 0x68E5 [0x0F] ExtData[1]->WorkLocal[0] ^= 4294967295*
-5228: 0x68EA [0x24] CREATE_DIALOG(message_id=15706*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[0])
+5228: 0x68EA [0x24] CREATE_DIALOG(message_id=15708*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[0])
     → "Which would you like? [None of these./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./$31./$32./$33./$34./$35./$36.]"
 5229: 0x68F1 [0x25] WAIT_DIALOG_SELECT()
 5230: 0x68F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6923
 5231: 0x68FA [0x06] ExtData[1]->WorkLocal[1] = 0
 5232: 0x68FD [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x6914
-5233: 0x6905 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+5233: 0x6905 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 5234: 0x6908 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5235: 0x6909 [0x03] Work_Zone[2] = Work_Zone[3]
-5236: 0x690E [0x48] [System] [15691*]:
+5236: 0x690E [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 5237: 0x6911 [0x01] GOTO 0x6920
 5238: 0x6914 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x6920
-5239: 0x691C [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+5239: 0x691C [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 5240: 0x691F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -9879,26 +9879,26 @@ SUBROUTINE_6920:
 SUBROUTINE_6AB3:
 5306: 0x6AB3 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-31*)
 5307: 0x6ABC [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x6B5D
-5308: 0x6AC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+5308: 0x6AC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 5309: 0x6AC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5310: 0x6AC8 [0x0C] ExtData[1]->WorkLocal[0]--
 5311: 0x6ACB [0x9D] IF (0x7901) ExtData[1]->WorkLocal[0] = Work_Zone_1700[31] // extra=0x8017
 5312: 0x6AD5 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5313: 0x6AD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5313: 0x6AD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5314: 0x6ADB [0x23] WAIT_FOR_DIALOG_INTERACTION
 5315: 0x6ADC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5316: 0x6ADF [0x03] Work_Zone_1700[31] = 9010*
 5317: 0x6AE4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5318: 0x6AE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5318: 0x6AE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5319: 0x6AEA [0x23] WAIT_FOR_DIALOG_INTERACTION
 5320: 0x6AEB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5321: 0x6AEE [0x9D] IF (0x7921) ExtData[1]->WorkLocal[0] = Work_Zone_1700[30] // extra=0x8017
 5322: 0x6AF8 [0x03] Work_Zone_1700[31] = 60*
 5323: 0x6AFD [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
-5324: 0x6B00 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
+5324: 0x6B00 [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
     → "$' $0& ."
 5325: 0x6B03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5326: 0x6B04 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -9906,20 +9906,20 @@ SUBROUTINE_6AB3:
 5328: 0x6B11 [0x02] IF !(Work_Zone_1700[31] <= 0*) GOTO 0x6B28
 5329: 0x6B19 [0x03] Work_Zone_1700[30] = 4061*
 5330: 0x6B1E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
-5331: 0x6B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
+5331: 0x6B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
     → "$' $0& ."
 5332: 0x6B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5333: 0x6B25 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-5334: 0x6B28 [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+5334: 0x6B28 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 5335: 0x6B2B [0x23] WAIT_FOR_DIALOG_INTERACTION
-5336: 0x6B2C [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+5336: 0x6B2C [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 5337: 0x6B33 [0x25] WAIT_DIALOG_SELECT()
 5338: 0x6B34 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6B49
 5339: 0x6B3C [0x06] ExtData[1]->WorkLocal[1] = 0
 5340: 0x6B3F [0x06] ExtData[1]->WorkLocal[2] = 0
-5341: 0x6B42 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+5341: 0x6B42 [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 5342: 0x6B45 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5343: 0x6B46 [0x01] GOTO 0x6B5D
@@ -9930,21 +9930,21 @@ SUBROUTINE_6AB3:
 SUBROUTINE_6B5D:
 5347: 0x6B5D [0x01] GOTO 0x7499
 5348: 0x6B60 [0x02] IF !(Work_Zone[4] == 11*) GOTO 0x6E3F
-5349: 0x6B68 [0x24] CREATE_DIALOG(message_id=15692*, default_option=ExtData[1]->WorkLocal[14], option_flags=0*)
+5349: 0x6B68 [0x24] CREATE_DIALOG(message_id=15694*, default_option=ExtData[1]->WorkLocal[14], option_flags=0*)
     → "Select the corresponding job. [Nothing for now./Warrior./Monk./White Mage./Black Mage./Red Mage./Thief./Paladin./Dark Knight./Beastmaster./Bard./Ranger./Samurai./Ninja./Dragoon./Summoner./Blue Mage./Corsair./Puppetmaster./Dancer./Scholar.]"
 5350: 0x6B6F [0x25] WAIT_DIALOG_SELECT()
 5351: 0x6B70 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6BA1
 5352: 0x6B78 [0x06] ExtData[1]->WorkLocal[1] = 0
 5353: 0x6B7B [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x6B92
-5354: 0x6B83 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+5354: 0x6B83 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 5355: 0x6B86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5356: 0x6B87 [0x03] Work_Zone[2] = Work_Zone[3]
-5357: 0x6B8C [0x48] [System] [15691*]:
+5357: 0x6B8C [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 5358: 0x6B8F [0x01] GOTO 0x6B9E
 5359: 0x6B92 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x6B9E
-5360: 0x6B9A [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+5360: 0x6B9A [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 5361: 0x6B9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -10034,50 +10034,50 @@ SUBROUTINE_6B9E:
 SUBROUTINE_6D95:
 5443: 0x6D95 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-31*)
 5444: 0x6D9E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x6E3C
-5445: 0x6DA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+5445: 0x6DA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 5446: 0x6DA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5447: 0x6DAA [0x0C] ExtData[1]->WorkLocal[0]--
 5448: 0x6DAD [0x9D] Work_Zone_1700[31] = 0x7541[ExtData[1]->WorkLocal[0]] // Read WORD
 5449: 0x6DB5 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5450: 0x6DB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5450: 0x6DB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5451: 0x6DBB [0x23] WAIT_FOR_DIALOG_INTERACTION
 5452: 0x6DBC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5453: 0x6DBF [0x9D] Work_Zone_1700[31] = 0x7571[ExtData[1]->WorkLocal[0]] // Read WORD
 5454: 0x6DC7 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5455: 0x6DCA [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5455: 0x6DCA [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5456: 0x6DCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 5457: 0x6DCE [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5458: 0x6DD1 [0x9D] Work_Zone_1700[31] = 0x75A1[ExtData[1]->WorkLocal[0]] // Read WORD
 5459: 0x6DD9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5460: 0x6DDC [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5460: 0x6DDC [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5461: 0x6DDF [0x23] WAIT_FOR_DIALOG_INTERACTION
 5462: 0x6DE0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5463: 0x6DE3 [0x9D] Work_Zone_1700[31] = 0x75D1[ExtData[1]->WorkLocal[0]] // Read WORD
 5464: 0x6DEB [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5465: 0x6DEE [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5465: 0x6DEE [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5466: 0x6DF1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5467: 0x6DF2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5468: 0x6DF5 [0x9D] Work_Zone_1700[31] = 0x7601[ExtData[1]->WorkLocal[0]] // Read WORD
 5469: 0x6DFD [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5470: 0x6E00 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5470: 0x6E00 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5471: 0x6E03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5472: 0x6E04 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-5473: 0x6E07 [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+5473: 0x6E07 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 5474: 0x6E0A [0x23] WAIT_FOR_DIALOG_INTERACTION
-5475: 0x6E0B [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+5475: 0x6E0B [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 5476: 0x6E12 [0x25] WAIT_DIALOG_SELECT()
 5477: 0x6E13 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6E28
 5478: 0x6E1B [0x06] ExtData[1]->WorkLocal[1] = 0
 5479: 0x6E1E [0x06] ExtData[1]->WorkLocal[2] = 0
-5480: 0x6E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+5480: 0x6E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 5481: 0x6E24 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5482: 0x6E25 [0x01] GOTO 0x6E3C
@@ -10088,21 +10088,21 @@ SUBROUTINE_6D95:
 SUBROUTINE_6E3C:
 5486: 0x6E3C [0x01] GOTO 0x7499
 5487: 0x6E3F [0x02] IF !(Work_Zone[4] == 12*) GOTO 0x71E1
-5488: 0x6E47 [0x24] CREATE_DIALOG(message_id=15692*, default_option=ExtData[1]->WorkLocal[14], option_flags=0*)
+5488: 0x6E47 [0x24] CREATE_DIALOG(message_id=15694*, default_option=ExtData[1]->WorkLocal[14], option_flags=0*)
     → "Select the corresponding job. [Nothing for now./Warrior./Monk./White Mage./Black Mage./Red Mage./Thief./Paladin./Dark Knight./Beastmaster./Bard./Ranger./Samurai./Ninja./Dragoon./Summoner./Blue Mage./Corsair./Puppetmaster./Dancer./Scholar.]"
 5489: 0x6E4E [0x25] WAIT_DIALOG_SELECT()
 5490: 0x6E4F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6E8E
 5491: 0x6E57 [0x06] ExtData[1]->WorkLocal[1] = 0
 5492: 0x6E5A [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x6E71
-5493: 0x6E62 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+5493: 0x6E62 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 5494: 0x6E65 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5495: 0x6E66 [0x03] Work_Zone[2] = Work_Zone[3]
-5496: 0x6E6B [0x48] [System] [15691*]:
+5496: 0x6E6B [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 5497: 0x6E6E [0x01] GOTO 0x6E7D
 5498: 0x6E71 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x6E7D
-5499: 0x6E79 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+5499: 0x6E79 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 5500: 0x6E7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -10214,7 +10214,7 @@ SUBROUTINE_6E7D:
 SUBROUTINE_70BE:
 5604: 0x70BE [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-31*)
 5605: 0x70C7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x71DE
-5606: 0x70CF [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+5606: 0x70CF [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 5607: 0x70D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5608: 0x70D3 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-15*)
@@ -10251,20 +10251,20 @@ SUBROUTINE_70BE:
 
 SUBROUTINE_719F:
 5639: 0x719F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
-5640: 0x71A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
+5640: 0x71A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
     → "$' $0& ."
 5641: 0x71A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5642: 0x71A6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-5643: 0x71A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+5643: 0x71A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 5644: 0x71AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-5645: 0x71AD [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+5645: 0x71AD [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 5646: 0x71B4 [0x25] WAIT_DIALOG_SELECT()
 5647: 0x71B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x71CA
 5648: 0x71BD [0x06] ExtData[1]->WorkLocal[1] = 0
 5649: 0x71C0 [0x06] ExtData[1]->WorkLocal[2] = 0
-5650: 0x71C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+5650: 0x71C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 5651: 0x71C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5652: 0x71C7 [0x01] GOTO 0x71DE
@@ -10275,21 +10275,21 @@ SUBROUTINE_719F:
 SUBROUTINE_71DE:
 5656: 0x71DE [0x01] GOTO 0x7499
 5657: 0x71E1 [0x02] IF !(Work_Zone[4] == 43*) GOTO 0x73E9
-5658: 0x71E9 [0x24] CREATE_DIALOG(message_id=15705*, default_option=ExtData[1]->WorkLocal[14], option_flags=0*)
+5658: 0x71E9 [0x24] CREATE_DIALOG(message_id=15707*, default_option=ExtData[1]->WorkLocal[14], option_flags=0*)
     → "Select a category. [None of these./Argosy gear./Adhemar gear./Apogee gear./Amalric gear./Emicho gear./Carmine gear./Kaykaus gear./Souveran gear./Lustratio gear./Rao gear./Ryuo gear.]"
 5659: 0x71F0 [0x25] WAIT_DIALOG_SELECT()
 5660: 0x71F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7222
 5661: 0x71F9 [0x06] ExtData[1]->WorkLocal[1] = 0
 5662: 0x71FC [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x7213
-5663: 0x7204 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+5663: 0x7204 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 5664: 0x7207 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5665: 0x7208 [0x03] Work_Zone[2] = Work_Zone[3]
-5666: 0x720D [0x48] [System] [15691*]:
+5666: 0x720D [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 5667: 0x7210 [0x01] GOTO 0x721F
 5668: 0x7213 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x721F
-5669: 0x721B [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+5669: 0x721B [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 5670: 0x721E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -10343,50 +10343,50 @@ SUBROUTINE_721F:
 SUBROUTINE_7335:
 5716: 0x7335 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-31*)
 5717: 0x733E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x73E6
-5718: 0x7346 [0x1D] PRINT_EVENT_MESSAGE(message_id=15694*)
+5718: 0x7346 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
     → "I shall issue you the following, kupo."
 5719: 0x7349 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5720: 0x734A [0x0C] ExtData[1]->WorkLocal[0]--
 5721: 0x734D [0x9D] IF (0x77F1) ExtData[1]->WorkLocal[0] = Work_Zone_1700[31] // extra=0x8017
 5722: 0x7357 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5723: 0x735A [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5723: 0x735A [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5724: 0x735D [0x23] WAIT_FOR_DIALOG_INTERACTION
 5725: 0x735E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5726: 0x7361 [0x9D] IF (0x7811) ExtData[1]->WorkLocal[0] = Work_Zone_1700[31] // extra=0x8017
 5727: 0x736B [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5728: 0x736E [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5728: 0x736E [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5729: 0x7371 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5730: 0x7372 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5731: 0x7375 [0x9D] IF (0x7831) ExtData[1]->WorkLocal[0] = Work_Zone_1700[31] // extra=0x8017
 5732: 0x737F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5733: 0x7382 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5733: 0x7382 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5734: 0x7385 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5735: 0x7386 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5736: 0x7389 [0x9D] IF (0x7851) ExtData[1]->WorkLocal[0] = Work_Zone_1700[31] // extra=0x8017
 5737: 0x7393 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5738: 0x7396 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5738: 0x7396 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5739: 0x7399 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5740: 0x739A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5741: 0x739D [0x9D] IF (0x7871) ExtData[1]->WorkLocal[0] = Work_Zone_1700[31] // extra=0x8017
 5742: 0x73A7 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5743: 0x73AA [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5743: 0x73AA [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5744: 0x73AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 5745: 0x73AE [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-5746: 0x73B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+5746: 0x73B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 5747: 0x73B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-5748: 0x73B5 [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+5748: 0x73B5 [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 5749: 0x73BC [0x25] WAIT_DIALOG_SELECT()
 5750: 0x73BD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x73D2
 5751: 0x73C5 [0x06] ExtData[1]->WorkLocal[1] = 0
 5752: 0x73C8 [0x06] ExtData[1]->WorkLocal[2] = 0
-5753: 0x73CB [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+5753: 0x73CB [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 5754: 0x73CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 5755: 0x73CF [0x01] GOTO 0x73E6
@@ -10401,53 +10401,53 @@ SUBROUTINE_73E6:
 5762: 0x73FA [0x03] ExtData[1]->WorkLocal[14] = 1*
 5763: 0x73FF [0x03] Work_Zone_1700[31] = 21074*
 5764: 0x7404 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5765: 0x7407 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5765: 0x7407 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5766: 0x740A [0x23] WAIT_FOR_DIALOG_INTERACTION
 5767: 0x740B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5768: 0x740E [0x03] Work_Zone_1700[31] = 26406*
 5769: 0x7413 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5770: 0x7416 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5770: 0x7416 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5771: 0x7419 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5772: 0x741A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5773: 0x741D [0x03] Work_Zone_1700[31] = 25645*
 5774: 0x7422 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5775: 0x7425 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5775: 0x7425 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5776: 0x7428 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5777: 0x7429 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 5778: 0x742C [0x03] Work_Zone_1700[31] = 25726*
 5779: 0x7431 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-5780: 0x7434 [0x1D] PRINT_EVENT_MESSAGE(message_id=15695*)
+5780: 0x7434 [0x1D] PRINT_EVENT_MESSAGE(message_id=15697*)
     → "$39."
 5781: 0x7437 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5782: 0x7438 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-5783: 0x743B [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+5783: 0x743B [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 5784: 0x743E [0x23] WAIT_FOR_DIALOG_INTERACTION
-5785: 0x743F [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+5785: 0x743F [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 5786: 0x7446 [0x25] WAIT_DIALOG_SELECT()
 5787: 0x7447 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x745C
 5788: 0x744F [0x06] ExtData[1]->WorkLocal[1] = 0
 5789: 0x7452 [0x06] ExtData[1]->WorkLocal[2] = 0
-5790: 0x7455 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+5790: 0x7455 [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 5791: 0x7458 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5792: 0x7459 [0x01] GOTO 0x7496
 5793: 0x745C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x7496
 5794: 0x7464 [0x06] ExtData[1]->WorkLocal[1] = 0
 5795: 0x7467 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x747E
-5796: 0x746F [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+5796: 0x746F [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 5797: 0x7472 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5798: 0x7473 [0x03] Work_Zone[2] = Work_Zone[3]
-5799: 0x7478 [0x48] [System] [15691*]:
+5799: 0x7478 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 5800: 0x747B [0x01] GOTO 0x748A
 5801: 0x747E [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x748A
-5802: 0x7486 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+5802: 0x7486 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 5803: 0x7489 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -10463,20 +10463,20 @@ SUBROUTINE_7499:
 5808: 0x749C [0x1B] RETURN
 
 SUBROUTINE_749D:
-5809: 0x749D [0x24] CREATE_DIALOG(message_id=15693*, default_option=0*, option_flags=0*)
+5809: 0x749D [0x24] CREATE_DIALOG(message_id=15695*, default_option=0*, option_flags=0*)
     → "Select your desired part. [Nothing for now./Head./Body./Hands./Legs./Feet.]"
 5810: 0x74A4 [0x25] WAIT_DIALOG_SELECT()
 5811: 0x74A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x74DC
 5812: 0x74AD [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x74C4
-5813: 0x74B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+5813: 0x74B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 5814: 0x74B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5815: 0x74B9 [0x03] Work_Zone[2] = Work_Zone[3]
-5816: 0x74BE [0x48] [System] [15691*]:
+5816: 0x74BE [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 5817: 0x74C1 [0x01] GOTO 0x74D0
 5818: 0x74C4 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x74D0
-5819: 0x74CC [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+5819: 0x74CC [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 5820: 0x74CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -10581,15 +10581,15 @@ SUBROUTINE_7BC0:
 5904: 0x7C08 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7C3E
 5905: 0x7C10 [0x06] ExtData[1]->WorkLocal[1] = 0
 5906: 0x7C13 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x7C2A
-5907: 0x7C1B [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+5907: 0x7C1B [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 5908: 0x7C1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 5909: 0x7C1F [0x03] Work_Zone[2] = Work_Zone[3]
-5910: 0x7C24 [0x48] [System] [15691*]:
+5910: 0x7C24 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 5911: 0x7C27 [0x01] GOTO 0x7C36
 5912: 0x7C2A [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x7C36
-5913: 0x7C32 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+5913: 0x7C32 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 5914: 0x7C35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -10657,15 +10657,15 @@ SUBROUTINE_7D77:
 5973: 0x7DC1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7DF7
 5974: 0x7DC9 [0x06] ExtData[1]->WorkLocal[1] = 0
 5975: 0x7DCC [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x7DE3
-5976: 0x7DD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+5976: 0x7DD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 5977: 0x7DD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5978: 0x7DD8 [0x03] Work_Zone[2] = Work_Zone[3]
-5979: 0x7DDD [0x48] [System] [15691*]:
+5979: 0x7DDD [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 5980: 0x7DE0 [0x01] GOTO 0x7DEF
 5981: 0x7DE3 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x7DEF
-5982: 0x7DEB [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+5982: 0x7DEB [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 5983: 0x7DEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -10744,15 +10744,15 @@ SUBROUTINE_7F75:
 6053: 0x7FBF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7FF5
 6054: 0x7FC7 [0x06] ExtData[1]->WorkLocal[1] = 0
 6055: 0x7FCA [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x7FE1
-6056: 0x7FD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+6056: 0x7FD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 6057: 0x7FD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 6058: 0x7FD6 [0x03] Work_Zone[2] = Work_Zone[3]
-6059: 0x7FDB [0x48] [System] [15691*]:
+6059: 0x7FDB [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 6060: 0x7FDE [0x01] GOTO 0x7FED
 6061: 0x7FE1 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x7FED
-6062: 0x7FE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+6062: 0x7FE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 6063: 0x7FEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -10833,20 +10833,20 @@ SUBROUTINE_817F:
 6131: 0x817F [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[1] (bits 8*-31*)
 6132: 0x8188 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x81CF
 6133: 0x8190 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
-6134: 0x8193 [0x1D] PRINT_EVENT_MESSAGE(message_id=15696*)
+6134: 0x8193 [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
     → "$' $0& ."
 6135: 0x8196 [0x23] WAIT_FOR_DIALOG_INTERACTION
 6136: 0x8197 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-6137: 0x819A [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+6137: 0x819A [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 6138: 0x819D [0x23] WAIT_FOR_DIALOG_INTERACTION
-6139: 0x819E [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+6139: 0x819E [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 6140: 0x81A5 [0x25] WAIT_DIALOG_SELECT()
 6141: 0x81A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x81BB
 6142: 0x81AE [0x06] ExtData[1]->WorkLocal[1] = 0
 6143: 0x81B1 [0x06] ExtData[1]->WorkLocal[2] = 0
-6144: 0x81B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+6144: 0x81B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 6145: 0x81B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 6146: 0x81B8 [0x01] GOTO 0x81CF
@@ -10871,7 +10871,7 @@ SUBROUTINE_81E7:
 6157: 0x81E7 [0x03] Work_Zone[76] = ExtData[1]->WorkLocal[15]
 6158: 0x81EC [0x02] IF !(Work_Zone[4] == 62*) GOTO 0x841F
 6159: 0x81F4 [0x05] ExtData[1]->WorkLocal[9] = 1
-6160: 0x81F7 [0x24] CREATE_DIALOG(message_id=15713*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+6160: 0x81F7 [0x24] CREATE_DIALOG(message_id=15715*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Select a category. [None of these./Relic weapons./Mythic weapons./Empyrean weapons./Ergon weapons./Aeonic weapons.]"
 6161: 0x81FE [0x25] WAIT_DIALOG_SELECT()
 6162: 0x81FF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x826E
@@ -11036,15 +11036,15 @@ SUBROUTINE_8456:
 SUBROUTINE_84F4:
 6312: 0x84F4 [0x06] ExtData[1]->WorkLocal[1] = 0
 6313: 0x84F7 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x850E
-6314: 0x84FF [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+6314: 0x84FF [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 6315: 0x8502 [0x23] WAIT_FOR_DIALOG_INTERACTION
 6316: 0x8503 [0x03] Work_Zone[2] = Work_Zone[3]
-6317: 0x8508 [0x48] [System] [15691*]:
+6317: 0x8508 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 6318: 0x850B [0x01] GOTO 0x851A
 6319: 0x850E [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x851A
-6320: 0x8516 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+6320: 0x8516 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 6321: 0x8519 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -11145,15 +11145,15 @@ SUBROUTINE_865F:
 6411: 0x86F7 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x8725
 6412: 0x86FF [0x06] ExtData[1]->WorkLocal[1] = 0
 6413: 0x8702 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x8719
-6414: 0x870A [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+6414: 0x870A [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 6415: 0x870D [0x23] WAIT_FOR_DIALOG_INTERACTION
 6416: 0x870E [0x03] Work_Zone[2] = Work_Zone[3]
-6417: 0x8713 [0x48] [System] [15691*]:
+6417: 0x8713 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 6418: 0x8716 [0x01] GOTO 0x8725
 6419: 0x8719 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x8725
-6420: 0x8721 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+6420: 0x8721 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 6421: 0x8724 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -11199,15 +11199,15 @@ SUBROUTINE_88B3:
 6458: 0x894B [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x8979
 6459: 0x8953 [0x06] ExtData[1]->WorkLocal[1] = 0
 6460: 0x8956 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x896D
-6461: 0x895E [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
+6461: 0x895E [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
     → "I understand. I'll let you hold on to this $3 until you make your decision, kupo."
 6462: 0x8961 [0x23] WAIT_FOR_DIALOG_INTERACTION
 6463: 0x8962 [0x03] Work_Zone[2] = Work_Zone[3]
-6464: 0x8967 [0x48] [System] [15691*]:
+6464: 0x8967 [0x48] [System] [15693*]:
     → "Obtained key item: 3."
 6465: 0x896A [0x01] GOTO 0x8979
 6466: 0x896D [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x8979
-6467: 0x8975 [0x1D] PRINT_EVENT_MESSAGE(message_id=15689*)
+6467: 0x8975 [0x1D] PRINT_EVENT_MESSAGE(message_id=15691*)
     → "I understand. Come talk to me again once you've made your decision, kupo."
 6468: 0x8978 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -11270,17 +11270,17 @@ SUBROUTINE_8B13:
 
 SUBROUTINE_8BEC:
 6518: 0x8BEC [0x03] Work_Zone[3] = Work_Zone_1700[31]
-6519: 0x8BF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15686*)
+6519: 0x8BF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15688*)
     → "I'm obliged to offer you a word of warning: there's no going back once I issue you your prize. Are you completely confident about your choice, kupo?"
 6520: 0x8BF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 6521: 0x8BF5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-6522: 0x8BF8 [0x24] CREATE_DIALOG(message_id=15687*, default_option=1*, option_flags=0*)
+6522: 0x8BF8 [0x24] CREATE_DIALOG(message_id=15689*, default_option=1*, option_flags=0*)
     → "Is this what you really want? Hm? [By Altana, hand it over already!/On second thought...]"
 6523: 0x8BFF [0x25] WAIT_DIALOG_SELECT()
 6524: 0x8C00 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x8C1E
 6525: 0x8C08 [0x06] ExtData[1]->WorkLocal[1] = 0
 6526: 0x8C0B [0x06] ExtData[1]->WorkLocal[2] = 0
-6527: 0x8C0E [0x1D] PRINT_EVENT_MESSAGE(message_id=15690*)
+6527: 0x8C0E [0x1D] PRINT_EVENT_MESSAGE(message_id=15692*)
     → "You're the boss! Here you go, then. Congratulations, kupo!"
 6528: 0x8C11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 6529: 0x8C12 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[10])
@@ -11630,7 +11630,7 @@ SUBROUTINE_9237:
 SUBROUTINE_927B:
 6834: 0x927B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 6835: 0x927E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-6836: 0x9281 [0x1D] PRINT_EVENT_MESSAGE(message_id=15698*)
+6836: 0x9281 [0x1D] PRINT_EVENT_MESSAGE(message_id=15700*)
     → "In addition to one of the prodigious prizes presented preliminary, I proudly proffer $1 $0 , kupo!"
 6837: 0x9284 [0x23] WAIT_FOR_DIALOG_INTERACTION
 6838: 0x9285 [0x93] DISPLAY_ITEM_INFO(item_id=0*)

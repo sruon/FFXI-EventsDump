@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x206D      |        8301 |
-|       2 | 0x206E      |        8302 |
+|       1 | 0x206F      |        8303 |
+|       2 | 0x2070      |        8304 |
 
 ## String References
 
-- **8301**: Listen, I know that she's a harrrdened criminal, but these are rrrough times, and she's as capable as anyone we've got.
-- **8302**: This is just between you and me, but I think she took the loss of her two flunkies pretty harrrd.
+- **8303**: Listen, I know that she's a harrrdened criminal, but these are rrrough times, and she's as capable as anyone we've got.
+- **8304**: This is just between you and me, but I think she took the loss of her two flunkies pretty harrrd.
 
 ## Events
 
@@ -75,10 +75,10 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(20* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8301*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
     → "Listen, I know that she's a harrrdened criminal, but these are rrrough times, and she's as capable as anyone we've got."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8302*)
+  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
     → "This is just between you and me, but I think she took the loss of her two flunkies pretty harrrd."
   5: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0011 [0x21] END_EVENT

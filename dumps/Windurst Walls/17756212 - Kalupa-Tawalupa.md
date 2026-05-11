@@ -37,21 +37,21 @@
 |       1 | 0xFFFEF21D  |  4294898205 |
 |       2 | 0x1C967     |      117095 |
 |       3 | 0xFFFFD8F0  |  4294957296 |
-|       4 | 0x1EDB      |        7899 |
-|       5 | 0x1C52      |        7250 |
-|       6 | 0x1C58      |        7256 |
-|       7 | 0x1C5C      |        7260 |
-|       8 | 0x1C61      |        7265 |
-|       9 | 0x1C65      |        7269 |
+|       4 | 0x1EDD      |        7901 |
+|       5 | 0x1C54      |        7252 |
+|       6 | 0x1C5A      |        7258 |
+|       7 | 0x1C5E      |        7262 |
+|       8 | 0x1C63      |        7267 |
+|       9 | 0x1C67      |        7271 |
 
 ## String References
 
-- **7250**: Are you all right, sir? Don't try and force yourself to continue. It might make your throat worse!
-- **7256**: Hey, did that honey help you to talk a little just now? Then it must be effective. Quick, bring him as much honey as we can find!
-- **7260**: He's gone silent all of a sudden! What's wrong, oh great teacher?
-- **7265**: Your tooth...?
-- **7269**: Well, I guess a tooth-ache or two is to be expected when you go around eating that much honey. That's just nature's providence!
-- **7899**: I hear that the beastmen are on the move in every region lately. Even though Windurst has amicable relations with our local beastmen, the Yagudo, we still can't be sure if or when we are going to get pulled back into a full-scale war.
+- **7252**: Are you all right, sir? Don't try and force yourself to continue. It might make your throat worse!
+- **7258**: Hey, did that honey help you to talk a little just now? Then it must be effective. Quick, bring him as much honey as we can find!
+- **7262**: He's gone silent all of a sudden! What's wrong, oh great teacher?
+- **7267**: Your tooth...?
+- **7271**: Well, I guess a tooth-ache or two is to be expected when you go around eating that much honey. That's just nature's providence!
+- **7901**: I hear that the beastmen are on the move in every region lately. Even though Windurst has amicable relations with our local beastmen, the Yagudo, we still can't be sure if or when we are going to get pulled back into a full-scale war.
 
 ## Events
 
@@ -245,7 +245,7 @@
   1: 0x004B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x004D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x02)
-  4: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
+  4: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
     → "I hear that the beastmen are on the move in every region lately. Even though Windurst has amicable relations with our local beastmen, the Yagudo, we still can't be sure if or when we are going to get pulled back into a full-scale war."
   5: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0058 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x03)
@@ -299,7 +299,7 @@
 
 ```
   0: 0x006B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x01)
-  1: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+  1: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
     → "Are you all right, sir? Don't try and force yourself to continue. It might make your throat worse!"
   2: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0076 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x04)
@@ -332,7 +332,7 @@
   1: 0x0086 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0087 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0088 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x01)
-  4: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+  4: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "Hey, did that honey help you to talk a little just now? Then it must be effective. Quick, bring him as much honey as we can find!"
   5: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0093 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x04)
@@ -385,7 +385,7 @@
 
 ```
   0: 0x009F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x01)
-  1: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+  1: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "He's gone silent all of a sudden! What's wrong, oh great teacher?"
   2: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00AA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x04)
@@ -413,7 +413,7 @@
 
 ```
   0: 0x00B2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x01)
-  1: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
+  1: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
     → "Your tooth...?"
   2: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00BD [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x04)
@@ -445,7 +445,7 @@
   1: 0x00CA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00CB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00CC [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x01)
-  4: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
+  4: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
     → "Well, I guess a tooth-ache or two is to be expected when you go around eating that much honey. That's just nature's providence!"
   5: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00D7 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kalupa-Tawalupa (ID: 17756212/0x010EF034), tag_num=0x04)

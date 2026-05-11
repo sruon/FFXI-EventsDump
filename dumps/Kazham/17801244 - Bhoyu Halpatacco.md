@@ -25,9 +25,9 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2708      |        9992 |
-|       3 | 0x2709      |        9993 |
-|       4 | 0x270A      |        9994 |
+|       2 | 0x270A      |        9994 |
+|       3 | 0x270B      |        9995 |
+|       4 | 0x270C      |        9996 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x0003      |           3 |
@@ -38,9 +38,9 @@
 
 ## String References
 
-- **9992**: This counter is for departurrres only. The arrivals counter is on the otherrr side.
-- **9993**: The prrrice for an airship ride to Jeuno is $1 gil.
-- **9994**: Board the airship? [Yes./Not yet.]
+- **9994**: This counter is for departurrres only. The arrivals counter is on the otherrr side.
+- **9995**: The prrrice for an airship ride to Jeuno is $1 gil.
+- **9996**: Board the airship? [Yes./Not yet.]
 
 ## Events
 
@@ -139,7 +139,7 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bhoyu Halpatacco (ID: 17801244/0x010FA01C), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9992*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9994*)
     → "This counter is for departurrres only. The arrivals counter is on the otherrr side."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x002C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bhoyu Halpatacco (ID: 17801244/0x010FA01C), tag_num=0x02)
@@ -184,11 +184,11 @@
   1: 0x003C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bhoyu Halpatacco (ID: 17801244/0x010FA01C), tag_num=0x01)
-  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=9993*)
+  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=9995*)
     → "The prrrice for an airship ride to Jeuno is $1 gil."
   5: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0049 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bhoyu Halpatacco (ID: 17801244/0x010FA01C), tag_num=0x02)
-  7: 0x0050 [0x24] CREATE_DIALOG(message_id=9994*, default_option=1*, option_flags=0*)
+  7: 0x0050 [0x24] CREATE_DIALOG(message_id=9996*, default_option=1*, option_flags=0*)
     → "Board the airship? [Yes./Not yet.]"
   8: 0x0057 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0058 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0106

@@ -48,37 +48,37 @@
 |       6 | 0x00C8      |         200 |
 |       7 | 0x00FC      |         252 |
 |       8 | 0x003C      |          60 |
-|       9 | 0x2B02      |       11010 |
-|      10 | 0x2B06      |       11014 |
-|      11 | 0x2B07      |       11015 |
-|      12 | 0x2B08      |       11016 |
-|      13 | 0x2B09      |       11017 |
-|      14 | 0x2B0A      |       11018 |
-|      15 | 0x2B0B      |       11019 |
-|      16 | 0x2B0D      |       11021 |
-|      17 | 0x2B0E      |       11022 |
-|      18 | 0x2B0F      |       11023 |
-|      19 | 0x2B10      |       11024 |
-|      20 | 0x2B11      |       11025 |
-|      21 | 0x2B12      |       11026 |
-|      22 | 0x2B13      |       11027 |
+|       9 | 0x2B04      |       11012 |
+|      10 | 0x2B08      |       11016 |
+|      11 | 0x2B09      |       11017 |
+|      12 | 0x2B0A      |       11018 |
+|      13 | 0x2B0B      |       11019 |
+|      14 | 0x2B0C      |       11020 |
+|      15 | 0x2B0D      |       11021 |
+|      16 | 0x2B0F      |       11023 |
+|      17 | 0x2B10      |       11024 |
+|      18 | 0x2B11      |       11025 |
+|      19 | 0x2B12      |       11026 |
+|      20 | 0x2B13      |       11027 |
+|      21 | 0x2B14      |       11028 |
+|      22 | 0x2B15      |       11029 |
 
 ## String References
 
-- **11010**: You are a fool for coming here to the throne room...alone.
-- **11014**: Kahk! Silence... Our little friend came all the way from Windurst to greet us. Let us hear what he has to say.
-- **11015**: Kahk-ka-ka! You came all this way to ask about the Full Moon Fountain?
-- **11016**: Well, you Tartutaru have probably already realized why the Horutoto Ruins were built and why the Full Moon Fountain exists underneath them.
-- **11017**: Those ruins are evil.
-- **11018**: The towers sponge dry the areas around Sarutabaruta of all their magic.
-- **11019**: You think that we Yagudo are the cause of these wastelands, but you only have yourselves to thank. You--the Tarutaru that activated those towers!
-- **11021**: What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
-- **11022**: Kahk-ka-ka...I commend you on your perceptiveness.
-- **11023**: But the reason Sarutabaruta is becoming a wasteland has nothing to do with those stones.
-- **11024**: That night, twenty years ago, when we were defeated by your armies, you made a grave mistake...
-- **11025**: Kahk! Kahk! You still do not understand?
-- **11026**: Make your way deep into the central tower of the Horutoto Ruins. There you will see first hand what the Star Sibyl and those summoners really did.
-- **11027**: The moon and the stars no longer smile upon Windurst. Now, the world shall kneel before the Yagudo!
+- **11012**: You are a fool for coming here to the throne room...alone.
+- **11016**: Kahk! Silence... Our little friend came all the way from Windurst to greet us. Let us hear what he has to say.
+- **11017**: Kahk-ka-ka! You came all this way to ask about the Full Moon Fountain?
+- **11018**: Well, you Tartutaru have probably already realized why the Horutoto Ruins were built and why the Full Moon Fountain exists underneath them.
+- **11019**: Those ruins are evil.
+- **11020**: The towers sponge dry the areas around Sarutabaruta of all their magic.
+- **11021**: You think that we Yagudo are the cause of these wastelands, but you only have yourselves to thank. You--the Tarutaru that activated those towers!
+- **11023**: What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
+- **11024**: Kahk-ka-ka...I commend you on your perceptiveness.
+- **11025**: But the reason Sarutabaruta is becoming a wasteland has nothing to do with those stones.
+- **11026**: That night, twenty years ago, when we were defeated by your armies, you made a grave mistake...
+- **11027**: Kahk! Kahk! You still do not understand?
+- **11028**: Make your way deep into the central tower of the Horutoto Ruins. There you will see first hand what the Star Sibyl and those summoners really did.
+- **11029**: The moon and the stars no longer smile upon Windurst. Now, the world shall kneel before the Yagudo!
 
 ## Events
 
@@ -326,7 +326,7 @@
 #### Opcodes
 
 ```
-  0: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=11010*)
+  0: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=11012*)
     → "You are a fool for coming here to the throne room...alone."
   1: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x015B [0x00] END_REQSTACK()
@@ -352,7 +352,7 @@
 #### Opcodes
 
 ```
-  0: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=11014*)
+  0: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=11016*)
     → "Kahk! Silence... Our little friend came all the way from Windurst to greet us. Let us hear what he has to say."
   1: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0160 [0x00] END_REQSTACK()
@@ -377,7 +377,7 @@
 #### Opcodes
 
 ```
-  0: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=11015*)
+  0: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=11017*)
     → "Kahk-ka-ka! You came all this way to ask about the Full Moon Fountain?"
   1: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0165 [0x00] END_REQSTACK()
@@ -402,7 +402,7 @@
 #### Opcodes
 
 ```
-  0: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=11016*)
+  0: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=11018*)
     → "Well, you Tartutaru have probably already realized why the Horutoto Ruins were built and why the Full Moon Fountain exists underneath them."
   1: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x016A [0x00] END_REQSTACK()
@@ -428,10 +428,10 @@
 #### Opcodes
 
 ```
-  0: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=11017*)
+  0: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=11019*)
     → "Those ruins are evil."
   1: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=11018*)
+  2: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=11020*)
     → "The towers sponge dry the areas around Sarutabaruta of all their magic."
   3: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0173 [0x00] END_REQSTACK()
@@ -456,7 +456,7 @@
 #### Opcodes
 
 ```
-  0: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=11019*)
+  0: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=11021*)
     → "You think that we Yagudo are the cause of these wastelands, but you only have yourselves to thank. You--the Tarutaru that activated those towers!"
   1: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0178 [0x00] END_REQSTACK()
@@ -481,7 +481,7 @@
 #### Opcodes
 
 ```
-  0: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=11021*)
+  0: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=11023*)
     → "What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?"
   1: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017D [0x00] END_REQSTACK()
@@ -507,7 +507,7 @@
 #### Opcodes
 
 ```
-  0: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=11022*)
+  0: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=11024*)
     → "Kahk-ka-ka...I commend you on your perceptiveness."
   1: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0182 [0x00] END_REQSTACK()
@@ -532,7 +532,7 @@
 #### Opcodes
 
 ```
-  0: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=11023*)
+  0: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=11025*)
     → "But the reason Sarutabaruta is becoming a wasteland has nothing to do with those stones."
   1: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0187 [0x00] END_REQSTACK()
@@ -557,7 +557,7 @@
 #### Opcodes
 
 ```
-  0: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=11024*)
+  0: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=11026*)
     → "That night, twenty years ago, when we were defeated by your armies, you made a grave mistake..."
   1: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x018C [0x00] END_REQSTACK()
@@ -583,7 +583,7 @@
 #### Opcodes
 
 ```
-  0: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=11025*)
+  0: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=11027*)
     → "Kahk! Kahk! You still do not understand?"
   1: 0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0191 [0x00] END_REQSTACK()
@@ -608,7 +608,7 @@
 #### Opcodes
 
 ```
-  0: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=11026*)
+  0: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=11028*)
     → "Make your way deep into the central tower of the Horutoto Ruins. There you will see first hand what the Star Sibyl and those summoners really did."
   1: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0196 [0x00] END_REQSTACK()
@@ -633,7 +633,7 @@
 #### Opcodes
 
 ```
-  0: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=11027*)
+  0: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=11029*)
     → "The moon and the stars no longer smile upon Windurst. Now, the world shall kneel before the Yagudo!"
   1: 0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x019B [0x00] END_REQSTACK()

@@ -110,15 +110,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001D      |          29 |
-|       1 | 0x2B3C      |       11068 |
-|       2 | 0x2B3A      |       11066 |
-|       3 | 0x2B3D      |       11069 |
-|       4 | 0x2B3E      |       11070 |
-|       5 | 0x2B4B      |       11083 |
-|       6 | 0x2B56      |       11094 |
-|       7 | 0x2B57      |       11095 |
-|       8 | 0x27D5      |       10197 |
-|       9 | 0x27D6      |       10198 |
+|       1 | 0x2B3E      |       11070 |
+|       2 | 0x2B3C      |       11068 |
+|       3 | 0x2B3F      |       11071 |
+|       4 | 0x2B40      |       11072 |
+|       5 | 0x2B4D      |       11085 |
+|       6 | 0x2B58      |       11096 |
+|       7 | 0x2B59      |       11097 |
+|       8 | 0x27D7      |       10199 |
+|       9 | 0x27D8      |       10200 |
 |      10 | 0x01A1      |         417 |
 |      11 | 0x01A0      |         416 |
 |      12 | 0x0018      |          24 |
@@ -134,8 +134,8 @@
 |      22 | 0xFFFF87E1  |  4294936545 |
 |      23 | 0x105DC     |       67036 |
 |      24 | 0x07D2      |        2002 |
-|      25 | 0x3128      |       12584 |
-|      26 | 0x3129      |       12585 |
+|      25 | 0x312A      |       12586 |
+|      26 | 0x312B      |       12587 |
 |      27 | 0xFFFFD8F0  |  4294957296 |
 |      28 | 0xE33D      |       58173 |
 |      29 | 0x07CF      |        1999 |
@@ -145,11 +145,11 @@
 |      33 | 0xBBF9      |       48121 |
 |      34 | 0xFFFFEC84  |  4294962308 |
 |      35 | 0xAFC9      |       45001 |
-|      36 | 0x31C4      |       12740 |
-|      37 | 0x31C5      |       12741 |
-|      38 | 0x31C6      |       12742 |
-|      39 | 0x31CE      |       12750 |
-|      40 | 0x31CF      |       12751 |
+|      36 | 0x31C6      |       12742 |
+|      37 | 0x31C7      |       12743 |
+|      38 | 0x31C8      |       12744 |
+|      39 | 0x31D0      |       12752 |
+|      40 | 0x31D1      |       12753 |
 |      41 | 0xFFFF845B  |  4294935643 |
 |      42 | 0x104AC     |       66732 |
 |      43 | 0x0530      |        1328 |
@@ -161,8 +161,8 @@
 |      49 | 0x005A      |          90 |
 |      50 | 0x00C8      |         200 |
 |      51 | 0x003C      |          60 |
-|      52 | 0x317D      |       12669 |
-|      53 | 0x317E      |       12670 |
+|      52 | 0x317F      |       12671 |
+|      53 | 0x3180      |       12672 |
 |      54 | 0x0013      |          19 |
 |      55 | 0xFFFF8EFF  |  4294938367 |
 |      56 | 0x10955     |       67925 |
@@ -170,14 +170,14 @@
 |      58 | 0x01B6      |         438 |
 |      59 | 0x002D      |          45 |
 |      60 | 0x0138      |         312 |
-|      61 | 0x3763      |       14179 |
-|      62 | 0x3764      |       14180 |
-|      63 | 0x3765      |       14181 |
+|      61 | 0x3765      |       14181 |
+|      62 | 0x3766      |       14182 |
+|      63 | 0x3767      |       14183 |
 |      64 | 0x0001      |           1 |
-|      65 | 0x3766      |       14182 |
-|      66 | 0x3767      |       14183 |
-|      67 | 0x3768      |       14184 |
-|      68 | 0x3769      |       14185 |
+|      65 | 0x3768      |       14184 |
+|      66 | 0x3769      |       14185 |
+|      67 | 0x376A      |       14186 |
+|      68 | 0x376B      |       14187 |
 |      69 | 0x0078      |         120 |
 |      70 | 0x18A29     |      100905 |
 |      71 | 0x0BB7      |        2999 |
@@ -194,34 +194,34 @@
 |      82 | 0x0E10      |        3600 |
 |      83 | 0xFFFFF5C3  |  4294964675 |
 |      84 | 0x1A52F     |      107823 |
-|      85 | 0x36E7      |       14055 |
+|      85 | 0x36E9      |       14057 |
 |      86 | 0xFFFFF92A  |  4294965546 |
 |      87 | 0x192A1     |      103073 |
 |      88 | 0x00A0      |         160 |
-|      89 | 0x376A      |       14186 |
-|      90 | 0x376B      |       14187 |
+|      89 | 0x376C      |       14188 |
+|      90 | 0x376D      |       14189 |
 |      91 | 0x00B6      |         182 |
-|      92 | 0x376C      |       14188 |
-|      93 | 0x376D      |       14189 |
+|      92 | 0x376E      |       14190 |
+|      93 | 0x376F      |       14191 |
 |      94 | 0x07FE      |        2046 |
 |      95 | 0x1961F     |      103967 |
 |      96 | 0x000F      |          15 |
 |      97 | 0x000A      |          10 |
-|      98 | 0x376E      |       14190 |
-|      99 | 0x376F      |       14191 |
-|     100 | 0x3770      |       14192 |
+|      98 | 0x3770      |       14192 |
+|      99 | 0x3771      |       14193 |
+|     100 | 0x3772      |       14194 |
 |     101 | 0x0009      |           9 |
-|     102 | 0x3771      |       14193 |
+|     102 | 0x3773      |       14195 |
 |     103 | 0x00B5      |         181 |
-|     104 | 0x3772      |       14194 |
+|     104 | 0x3774      |       14196 |
 |     105 | 0x0016      |          22 |
-|     106 | 0x3773      |       14195 |
-|     107 | 0x3774      |       14196 |
-|     108 | 0x3775      |       14197 |
-|     109 | 0x3776      |       14198 |
+|     106 | 0x3775      |       14197 |
+|     107 | 0x3776      |       14198 |
+|     108 | 0x3777      |       14199 |
+|     109 | 0x3778      |       14200 |
 |     110 | 0x0022      |          34 |
-|     111 | 0x3777      |       14199 |
-|     112 | 0x3778      |       14200 |
+|     111 | 0x3779      |       14201 |
+|     112 | 0x377A      |       14202 |
 |     113 | 0xFFFFF6A1  |  4294964897 |
 |     114 | 0x1BAD8     |      113368 |
 |     115 | 0x0012      |          18 |
@@ -230,9 +230,9 @@
 |     118 | 0x0268      |         616 |
 |     119 | 0x1AC72     |      109682 |
 |     120 | 0x0BD7      |        3031 |
-|     121 | 0x3779      |       14201 |
-|     122 | 0x377A      |       14202 |
-|     123 | 0x377B      |       14203 |
+|     121 | 0x377B      |       14203 |
+|     122 | 0x377C      |       14204 |
+|     123 | 0x377D      |       14205 |
 |     124 | 0x00E1      |         225 |
 |     125 | 0xFFFFF140  |  4294963520 |
 |     126 | 0xFFFFB32C  |  4294947628 |
@@ -253,25 +253,25 @@
 |     141 | 0x009A      |         154 |
 |     142 | 0x0118      |         280 |
 |     143 | 0x0024      |          36 |
-|     144 | 0x377C      |       14204 |
-|     145 | 0x377D      |       14205 |
-|     146 | 0x377E      |       14206 |
-|     147 | 0x377F      |       14207 |
-|     148 | 0x3780      |       14208 |
-|     149 | 0x3781      |       14209 |
-|     150 | 0x3782      |       14210 |
+|     144 | 0x377E      |       14206 |
+|     145 | 0x377F      |       14207 |
+|     146 | 0x3780      |       14208 |
+|     147 | 0x3781      |       14209 |
+|     148 | 0x3782      |       14210 |
+|     149 | 0x3783      |       14211 |
+|     150 | 0x3784      |       14212 |
 |     151 | 0x0020      |          32 |
-|     152 | 0x3783      |       14211 |
+|     152 | 0x3785      |       14213 |
 |     153 | 0x010E      |         270 |
 |     154 | 0x0096      |         150 |
 |     155 | 0x012C      |         300 |
-|     156 | 0x3784      |       14212 |
-|     157 | 0x3785      |       14213 |
+|     156 | 0x3786      |       14214 |
+|     157 | 0x3787      |       14215 |
 |     158 | 0x005F      |          95 |
-|     159 | 0x3786      |       14214 |
+|     159 | 0x3788      |       14216 |
 |     160 | 0x00C9      |         201 |
 |     161 | 0x007F      |         127 |
-|     162 | 0x3787      |       14215 |
+|     162 | 0x3789      |       14217 |
 |     163 | 0x0047      |          71 |
 |     164 | 0xFFF75107  |  4294398215 |
 |     165 | 0xA541      |       42305 |
@@ -287,45 +287,45 @@
 |     175 | 0x00A1      |         161 |
 |     176 | 0x047C      |        1148 |
 |     177 | 0x00AA      |         170 |
-|     178 | 0x3788      |       14216 |
-|     179 | 0x3789      |       14217 |
-|     180 | 0x378A      |       14218 |
+|     178 | 0x378A      |       14218 |
+|     179 | 0x378B      |       14219 |
+|     180 | 0x378C      |       14220 |
 |     181 | 0x01F4      |         500 |
 |     182 | 0x00F3      |         243 |
 |     183 | 0x0075      |         117 |
-|     184 | 0x3760      |       14176 |
-|     185 | 0x3761      |       14177 |
-|     186 | 0x3762      |       14178 |
-|     187 | 0x378B      |       14219 |
-|     188 | 0x378D      |       14221 |
-|     189 | 0x378E      |       14222 |
-|     190 | 0x378F      |       14223 |
+|     184 | 0x3762      |       14178 |
+|     185 | 0x3763      |       14179 |
+|     186 | 0x3764      |       14180 |
+|     187 | 0x378D      |       14221 |
+|     188 | 0x378F      |       14223 |
+|     189 | 0x3790      |       14224 |
+|     190 | 0x3791      |       14225 |
 
 ## String References
 
-- **10197**: This the hall of the Ducal Guards. Only the finest warriors may join. Come to think of it, this is no place for civilians like you.
-- **10198**: Sir Wolfgang is our leader. He was selected not just for his skill at arms, but also for his unwavering determination.
-- **11066**: From what I gather, the ducal scientists believe this phenomenon has something to do with the shattered Telepoints at the Crags of Holla, Dem, and Mea.
-- **11068**: Strange whirlpools in Valkurm and Qufim... Shattered Telepoints... What could it all mean?
-- **11069**: The investigatory report written by the Ducal Guards mentioned that the whirlpools in Valkurm and Qufim are made up of an unknown substance that they call the "Emptiness."
-- **11070**: And now there are rumors stating that by jumping into these dark vortexes, people can instantly teleport themselves to the lost island of Tavnazia! I don't know about you, but I am staying right here where it is safe!
-- **11083**: While the Jeuno Armada is making preparations for battle, it remains the duty of the Ducal Guard to ensure the safety of the citizens of Jeuno.
-- **11094**: One of the armada warships is missing! With all the tightened security, how could anyone have pulled off a feat as grand as stealing an airship!?
-- **11095**: While the Jeuno Armada is conducting its mission in the skies, it remains the duty of the Ducal Guard to ensure the safety of the citizens of Jeuno.
-- **12584**: What could be the purpose for this meeting being held at the Marble Bridge in Upper Jeuno?
-- **12585**: If that Aldo is involved, I am positive it cannot be anything good. Just keep me out of it. If I lose this job, I'm through!
-- **12669**: Ah, that energetic young Elvaan girl just entered the audience chamber. Hmmm... I thought she had been taken into custody...
-- **12670**: With all the preparations for the launch of the armada, there are currently few people remaining in the Grand Palace. I wonder who gave the girl permission to enter...
-- **12740**: Those three Tarutaru brought to Jeuno by Nag'molada have been granted amnesty by Lady Esha'ntarl.
-- **12741**: However, I don't believe they have much of a future here in the Duchy.
-- **12742**: Once you have angered [the Armathrwn Society/the archduke], it would take no less than a miracle to regain [their/his] trust.
-- **12750**: Recently, there have been no signs of Nag'molada or those annoying Tarutaru entering the Grand Duke Palace.
-- **12751**: I heard from one of the guards that the Tarutaru were seen riding an airship to Bastok, but as for Nag'molada...
-- **14055**: @@
-- **14181**: Are you ready? [Ready./Not yet.]
-- **14221**: I find it hard to believe that anyone could knock the Endymion out of the sky so easily. There must be some mistake...
-- **14222**: The entire port is rushing to prepare the allied airship fleet to avenge the crew of the Endymion. We'll make those Imperial curs pay!
-- **14223**: The alliance fleet has returned to Jeuno without firing a single shot in the name of the Endymion. Aht Urhgan has escaped a fiery fate...
+- **10199**: This the hall of the Ducal Guards. Only the finest warriors may join. Come to think of it, this is no place for civilians like you.
+- **10200**: Sir Wolfgang is our leader. He was selected not just for his skill at arms, but also for his unwavering determination.
+- **11068**: From what I gather, the ducal scientists believe this phenomenon has something to do with the shattered Telepoints at the Crags of Holla, Dem, and Mea.
+- **11070**: Strange whirlpools in Valkurm and Qufim... Shattered Telepoints... What could it all mean?
+- **11071**: The investigatory report written by the Ducal Guards mentioned that the whirlpools in Valkurm and Qufim are made up of an unknown substance that they call the "Emptiness."
+- **11072**: And now there are rumors stating that by jumping into these dark vortexes, people can instantly teleport themselves to the lost island of Tavnazia! I don't know about you, but I am staying right here where it is safe!
+- **11085**: While the Jeuno Armada is making preparations for battle, it remains the duty of the Ducal Guard to ensure the safety of the citizens of Jeuno.
+- **11096**: One of the armada warships is missing! With all the tightened security, how could anyone have pulled off a feat as grand as stealing an airship!?
+- **11097**: While the Jeuno Armada is conducting its mission in the skies, it remains the duty of the Ducal Guard to ensure the safety of the citizens of Jeuno.
+- **12586**: What could be the purpose for this meeting being held at the Marble Bridge in Upper Jeuno?
+- **12587**: If that Aldo is involved, I am positive it cannot be anything good. Just keep me out of it. If I lose this job, I'm through!
+- **12671**: Ah, that energetic young Elvaan girl just entered the audience chamber. Hmmm... I thought she had been taken into custody...
+- **12672**: With all the preparations for the launch of the armada, there are currently few people remaining in the Grand Palace. I wonder who gave the girl permission to enter...
+- **12742**: Those three Tarutaru brought to Jeuno by Nag'molada have been granted amnesty by Lady Esha'ntarl.
+- **12743**: However, I don't believe they have much of a future here in the Duchy.
+- **12744**: Once you have angered [the Armathrwn Society/the archduke], it would take no less than a miracle to regain [their/his] trust.
+- **12752**: Recently, there have been no signs of Nag'molada or those annoying Tarutaru entering the Grand Duke Palace.
+- **12753**: I heard from one of the guards that the Tarutaru were seen riding an airship to Bastok, but as for Nag'molada...
+- **14057**: @@
+- **14183**: Are you ready? [Ready./Not yet.]
+- **14223**: I find it hard to believe that anyone could knock the Endymion out of the sky so easily. There must be some mistake...
+- **14224**: The entire port is rushing to prepare the allied airship fleet to avenge the crew of the Endymion. We'll make those Imperial curs pay!
+- **14225**: The alliance fleet has returned to Jeuno without firing a single shot in the name of the Endymion. Aht Urhgan has escaped a fiery fate...
 
 ## Events
 
@@ -421,10 +421,10 @@
   1: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11068*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11070*)
     → "Strange whirlpools in Valkurm and Qufim... Shattered Telepoints... What could it all mean?"
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11066*)
+  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11068*)
     → "From what I gather, the ducal scientists believe this phenomenon has something to do with the shattered Telepoints at the Crags of Holla, Dem, and Mea."
   7: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0021 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -460,10 +460,10 @@
   1: 0x0044 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0045 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0046 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=11069*)
+  4: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=11071*)
     → "The investigatory report written by the Ducal Guards mentioned that the whirlpools in Valkurm and Qufim are made up of an unknown substance that they call the "Emptiness.""
   5: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=11070*)
+  6: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=11072*)
     → "And now there are rumors stating that by jumping into these dark vortexes, people can instantly teleport themselves to the lost island of Tavnazia! I don't know about you, but I am staying right here where it is safe!"
   7: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x005D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -499,7 +499,7 @@
   1: 0x0080 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0081 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0082 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=11083*)
+  4: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=11085*)
     → "While the Jeuno Armada is making preparations for battle, it remains the duty of the Ducal Guard to ensure the safety of the citizens of Jeuno."
   5: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0095 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -534,7 +534,7 @@
   1: 0x00B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11094*)
+  4: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11096*)
     → "One of the armada warships is missing! With all the tightened security, how could anyone have pulled off a feat as grand as stealing an airship!?"
   5: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -568,7 +568,7 @@
   0: 0x00EB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00F0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11095*)
+  3: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11097*)
     → "While the Jeuno Armada is conducting its mission in the skies, it remains the duty of the Ducal Guard to ensure the safety of the citizens of Jeuno."
   4: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -603,10 +603,10 @@
   1: 0x0119 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x011A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x011B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=10197*)
+  4: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=10199*)
     → "This the hall of the Ducal Guards. Only the finest warriors may join. Come to think of it, this is no place for civilians like you."
   5: 0x012D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=10198*)
+  6: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=10200*)
     → "Sir Wolfgang is our leader. He was selected not just for his skill at arms, but also for his unwavering determination."
   7: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0132 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -2174,10 +2174,10 @@
   1: 0x0558 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0559 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x055A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0569 [0x1D] PRINT_EVENT_MESSAGE(message_id=12584*)
+  4: 0x0569 [0x1D] PRINT_EVENT_MESSAGE(message_id=12586*)
     → "What could be the purpose for this meeting being held at the Marble Bridge in Upper Jeuno?"
   5: 0x056C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x056D [0x1D] PRINT_EVENT_MESSAGE(message_id=12585*)
+  6: 0x056D [0x1D] PRINT_EVENT_MESSAGE(message_id=12587*)
     → "If that Aldo is involved, I am positive it cannot be anything good. Just keep me out of it. If I lose this job, I'm through!"
   7: 0x0570 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0571 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -2294,13 +2294,13 @@
   1: 0x05C7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05C8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05C9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x05D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12740*)
+  4: 0x05D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12742*)
     → "Those three Tarutaru brought to Jeuno by Nag'molada have been granted amnesty by Lady Esha'ntarl."
   5: 0x05DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x05DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12741*)
+  6: 0x05DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12743*)
     → "However, I don't believe they have much of a future here in the Duchy."
   7: 0x05DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x05E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12742*)
+  8: 0x05E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12744*)
     → "Once you have angered [the Armathrwn Society/the archduke], it would take no less than a miracle to regain [their/his] trust."
   9: 0x05E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x05E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -2361,10 +2361,10 @@
   1: 0x0616 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0617 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0618 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=12750*)
+  4: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=12752*)
     → "Recently, there have been no signs of Nag'molada or those annoying Tarutaru entering the Grand Duke Palace."
   5: 0x062A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x062B [0x1D] PRINT_EVENT_MESSAGE(message_id=12751*)
+  6: 0x062B [0x1D] PRINT_EVENT_MESSAGE(message_id=12753*)
     → "I heard from one of the guards that the Tarutaru were seen riding an airship to Bastok, but as for Nag'molada..."
   7: 0x062E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x062F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -2556,12 +2556,12 @@
   1: 0x06BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x06BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x06BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pherimociel (ID: 17772559/0x010F300F), tag_num=0x1B)
-  4: 0x06C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12669*)
+  4: 0x06C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12671*)
     → "Ah, that energetic young Elvaan girl just entered the audience chamber. Hmmm... I thought she had been taken into custody..."
   5: 0x06C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x06C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pherimociel (ID: 17772559/0x010F300F), tag_num=0x1C)
   7: 0x06D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pherimociel (ID: 17772559/0x010F300F), tag_num=0x1D)
-  8: 0x06D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12670*)
+  8: 0x06D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12672*)
     → "With all the preparations for the launch of the armada, there are currently few people remaining in the Grand Palace. I wonder who gave the girl permission to enter..."
   9: 0x06DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x06DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pherimociel (ID: 17772559/0x010F300F), tag_num=0x1E)
@@ -2868,17 +2868,17 @@
  39: 0x07CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "zzzb" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
  40: 0x07DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  41: 0x07F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 42: 0x07FF [0x2B] EventEntity [14179*]:
+ 42: 0x07FF [0x2B] EventEntity [14181*]:
     → "The airship Endymion is all fueled up and going through a final flight check."
  43: 0x0806 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0807 [0x2B] EventEntity [14180*]:
+ 44: 0x0807 [0x2B] EventEntity [14182*]:
     → "Are you ready for deployment, <Player>?"
  45: 0x080E [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x080F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
  47: 0x081E [0x52] END_LOAD_SCHEDULER: End scheduler "zzzb" with entities [LocalPlayer, LocalPlayer], work=312*
  48: 0x082D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "zzzc" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
  49: 0x083E [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[9]
- 50: 0x0843 [0x24] CREATE_DIALOG(message_id=14181*, default_option=1*, option_flags=0*)
+ 50: 0x0843 [0x24] CREATE_DIALOG(message_id=14183*, default_option=1*, option_flags=0*)
     → "Are you ready? [Ready./Not yet.]"
  51: 0x084A [0x25] WAIT_DIALOG_SELECT()
  52: 0x084B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x085F
@@ -2891,10 +2891,10 @@
  59: 0x0876 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "zzza" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
  60: 0x0887 [0x6E] EventEntity uses emote 7*
  61: 0x088E [0x99] Wait for EventEntity animation to complete
- 62: 0x0893 [0x2B] EventEntity [14182*]:
+ 62: 0x0893 [0x2B] EventEntity [14184*]:
     → "Understood. I have orders from Sir Wolfgang to hold the Endymion at port until you are aboard."
  63: 0x089A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x089B [0x2B] EventEntity [14183*]:
+ 64: 0x089B [0x2B] EventEntity [14185*]:
     → "Please inform me when your preparations are complete."
  65: 0x08A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x08A3 [0x1C] WAIT(60* ticks)
@@ -2910,10 +2910,10 @@ SUBROUTINE_08DB:
  74: 0x0902 [0x99] Wait for LocalPlayer animation to complete
  75: 0x0907 [0x1C] WAIT(30* ticks)
  76: 0x090A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 77: 0x0919 [0x2B] EventEntity [14184*]:
+ 77: 0x0919 [0x2B] EventEntity [14186*]:
     → "Very well. Please continue into the courtyard."
  78: 0x0920 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x0921 [0x2B] EventEntity [14185*]:
+ 79: 0x0921 [0x2B] EventEntity [14187*]:
     → "The other members of your team are assembled and waiting. Everyone except your mission leader...Naji, was it?"
  80: 0x0928 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0929 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -2931,7 +2931,7 @@ SUBROUTINE_08DB:
  93: 0x09B3 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 120*
  94: 0x09B7 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 120*
  95: 0x09BB [0x9A] WAIT_MUSIC_SERVER()
- 96: 0x09BC [0x48] [System] [14055*]:
+ 96: 0x09BC [0x48] [System] [14057*]:
     → "@@"
  97: 0x09BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x09C0 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x1B)
@@ -2945,19 +2945,19 @@ SUBROUTINE_08DB:
 106: 0x09FE [0x1C] WAIT(160* ticks)
 107: 0x0A01 [0x52] END_LOAD_SCHEDULER: End scheduler "xxxx" with entities [LocalPlayer, LocalPlayer], work=312*
 108: 0x0A10 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
-109: 0x0A21 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14186*]:
+109: 0x0A21 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14188*]:
     → "<Player>! It iS gOoD to$26seE yOu. Do$26yoU rEmEmbEr$26tHe KiNg?"
 110: 0x0A28 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x0A29 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14187*]:
+111: 0x0A29 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14189*]:
     → "I muST$26aPoLogiZE foR My$26aCTioNs LAst$26tiME We mET."
 112: 0x0A30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0A31 [0x52] END_LOAD_SCHEDULER: End scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=312*
 114: 0x0A40 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 115: 0x0A51 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kai0" with entities [King of Hearts (ID: 17772754/0x010F30D2), King of Hearts (ID: 17772754/0x010F30D2)], work=182*
-116: 0x0A60 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14188*]:
+116: 0x0A60 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14190*]:
     → "I hAvE bEEn$26rePaiREd aT tHE maNusTErY,$26aNd wiLL nO$26LoNGer bE$26sO erRAtiC."
 117: 0x0A67 [0x23] WAIT_FOR_DIALOG_INTERACTION
-118: 0x0A68 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14189*]:
+118: 0x0A68 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14191*]:
     → "As reCOmpEnsE, I$26hErEbY pROmoTe$26yOU to PRoViSionAL$26JaCk rAnk!"
 119: 0x0A6F [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0A70 [0xBA] SET_ENTITY_POSITION(entity_id=Naji (ID: 17772742/0x010F30C6), pos_x=2.046*, pos_z=103.967*, pos_y=2.999*, direction=297.7°*)
@@ -2966,7 +2966,7 @@ SUBROUTINE_08DB:
 123: 0x0A87 [0x52] END_LOAD_SCHEDULER: End scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=312*
 124: 0x0A96 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 125: 0x0AA7 [0x1C] WAIT(10* ticks)
-126: 0x0AAA [0x2B] Naji (ID: 17772742/0x010F30C6) [14190*]:
+126: 0x0AAA [0x2B] Naji (ID: 17772742/0x010F30C6) [14192*]:
     → "Wow, you all got here fast..."
 127: 0x0AB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x0AB2 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Naji (ID: 17772742/0x010F30C6))
@@ -2976,10 +2976,10 @@ SUBROUTINE_08DB:
 132: 0x0AD9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z010" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 133: 0x0AEA [0x4A] King of Hearts (ID: 17772754/0x010F30D2) looks at Naji (ID: 17772742/0x010F30C6)
 134: 0x0AF3 [0x1C] WAIT(60* ticks)
-135: 0x0AF6 [0x2B] Naji (ID: 17772742/0x010F30C6) [14191*]:
+135: 0x0AF6 [0x2B] Naji (ID: 17772742/0x010F30C6) [14193*]:
     → "Or am I a little late?"
 136: 0x0AFD [0x23] WAIT_FOR_DIALOG_INTERACTION
-137: 0x0AFE [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14192*]:
+137: 0x0AFE [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14194*]:
     → "YoU aRe$26LAte, TeAM LeaDEr$26NaJi!"
 138: 0x0B05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0B06 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Naji (ID: 17772742/0x010F30C6))
@@ -2987,28 +2987,28 @@ SUBROUTINE_08DB:
 141: 0x0B1B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 142: 0x0B2C [0x4A] Naji (ID: 17772742/0x010F30C6) looks at King of Hearts (ID: 17772754/0x010F30D2)
 143: 0x0B35 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
-144: 0x0B44 [0x2B] Naji (ID: 17772742/0x010F30C6) [14193*]:
+144: 0x0B44 [0x2B] Naji (ID: 17772742/0x010F30C6) [14195*]:
     → "My apologies. I brought a secret weapon from Bastok, and had a devil of a time getting it unwrapped..."
 145: 0x0B4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0B4C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
 147: 0x0B5B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [King of Hearts (ID: 17772754/0x010F30D2), King of Hearts (ID: 17772754/0x010F30D2)], work=181*
-148: 0x0B6A [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14194*]:
+148: 0x0B6A [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14196*]:
     → "SEcrEt$26weAPoN? TheRE aRe$26nO sEcrEts aMOnG$26thIS tEAm!"
 149: 0x0B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0B72 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [King of Hearts (ID: 17772754/0x010F30D2), King of Hearts (ID: 17772754/0x010F30D2)], work=181*
 151: 0x0B81 [0x6E] Naji (ID: 17772742/0x010F30C6) uses emote 22*
 152: 0x0B88 [0x99] Wait for Naji (ID: 17772742/0x010F30C6) animation to complete
-153: 0x0B8D [0x2B] Naji (ID: 17772742/0x010F30C6) [14195*]:
+153: 0x0B8D [0x2B] Naji (ID: 17772742/0x010F30C6) [14197*]:
     → "Eh? Oh, fine then."
 154: 0x0B94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0B95 [0x52] END_LOAD_SCHEDULER: End scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=312*
 156: 0x0BA4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 157: 0x0BB5 [0x4A] Naji (ID: 17772742/0x010F30C6) looks at LocalPlayer
 158: 0x0BBE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
-159: 0x0BCD [0x2B] Naji (ID: 17772742/0x010F30C6) [14196*]:
+159: 0x0BCD [0x2B] Naji (ID: 17772742/0x010F30C6) [14198*]:
     → "This is an astral detection device designed by Chief Engineer Cid."
 160: 0x0BD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-161: 0x0BD5 [0x2B] Naji (ID: 17772742/0x010F30C6) [14197*]:
+161: 0x0BD5 [0x2B] Naji (ID: 17772742/0x010F30C6) [14199*]:
     → "I don't really understand how it works exactly, but apparently it will help us zone in on the general location of Luzaf or the iron colossus."
 162: 0x0BDC [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0BDD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
@@ -3016,7 +3016,7 @@ SUBROUTINE_08DB:
 165: 0x0BEF [0x52] END_LOAD_SCHEDULER: End scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=312*
 166: 0x0BFE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 167: 0x0C0F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kai0" with entities [King of Hearts (ID: 17772754/0x010F30D2), King of Hearts (ID: 17772754/0x010F30D2)], work=182*
-168: 0x0C1E [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14198*]:
+168: 0x0C1E [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14200*]:
     → "We dO NoT$26rEquiRE aNy$26sUCh ToY. YoU hAVe$26acCEsS tO tHE$26LatESt tEChnoLOgY$26fROm wiNDurSt."
 169: 0x0C25 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0C26 [0x4A] Naji (ID: 17772742/0x010F30C6) looks at King of Hearts (ID: 17772754/0x010F30D2)
@@ -3026,10 +3026,10 @@ SUBROUTINE_08DB:
 174: 0x0C40 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 175: 0x0C51 [0x6E] Naji (ID: 17772742/0x010F30C6) uses emote 34*
 176: 0x0C58 [0x99] Wait for Naji (ID: 17772742/0x010F30C6) animation to complete
-177: 0x0C5D [0x2B] Naji (ID: 17772742/0x010F30C6) [14199*]:
+177: 0x0C5D [0x2B] Naji (ID: 17772742/0x010F30C6) [14201*]:
     → "Toys? That's rich, coming from an overgrown spinning top."
 178: 0x0C64 [0x23] WAIT_FOR_DIALOG_INTERACTION
-179: 0x0C65 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14200*]:
+179: 0x0C65 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14202*]:
     → "HoW daRE$26yOU adDReSs$26tHE KiNg iN$26sUCh a mANneR!"
 180: 0x0C6C [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0C6D [0xBA] SET_ENTITY_POSITION(entity_id=Bataumnalle (ID: 17772758/0x010F30D6), pos_x=-2.399*, pos_z=113.368*, pos_y=3.101*, direction=1.6°*)
@@ -3042,7 +3042,7 @@ SUBROUTINE_08DB:
 188: 0x0CBF [0x6E] Bataumnalle (ID: 17772758/0x010F30D6) uses emote 25*
 189: 0x0CC6 [0x99] Wait for Bataumnalle (ID: 17772758/0x010F30D6) animation to complete
 190: 0x0CCB [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17772759/0x010F30D7), tag_num=0x03)
-191: 0x0CD2 [0x2B] Bataumnalle (ID: 17772758/0x010F30D6) [14201*]:
+191: 0x0CD2 [0x2B] Bataumnalle (ID: 17772758/0x010F30D6) [14203*]:
     → "Enough of this prattling. We are not here for fun and games. If preparations have been made, then I suggest we move out."
 192: 0x0CD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0CDA [0x4A] Naji (ID: 17772742/0x010F30C6) looks at Unnamed NPC (ID: 17772759/0x010F30D7)
@@ -3064,11 +3064,11 @@ SUBROUTINE_08DB:
 209: 0x0D65 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Bataumnalle (ID: 17772758/0x010F30D6)
 210: 0x0D6B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17772759/0x010F30D7)
 211: 0x0D71 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
-212: 0x0D77 [0x2B] Naji (ID: 17772742/0x010F30C6) [14202*]:
+212: 0x0D77 [0x2B] Naji (ID: 17772742/0x010F30C6) [14204*]:
     → "Wait up, <Player>. I'm on strict orders from Captain Volker to stick by your side at all times!"
 213: 0x0D7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 214: 0x0D7F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kai0" with entities [King of Hearts (ID: 17772754/0x010F30D2), King of Hearts (ID: 17772754/0x010F30D2)], work=182*
-215: 0x0D8E [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14203*]:
+215: 0x0D8E [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14205*]:
     → "PRoViSionAL$26JaCk! Do nOT LEaVe$26yoUR KiNg$26bEHiNd!"
 216: 0x0D95 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x0D96 [0x52] END_LOAD_SCHEDULER: End scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=312*
@@ -3111,7 +3111,7 @@ SUBROUTINE_08DB:
 254: 0x0EC2 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 154*
 255: 0x0EC6 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 154*
 256: 0x0ECA [0x9A] WAIT_MUSIC_SERVER()
-257: 0x0ECB [0x48] [System] [14055*]:
+257: 0x0ECB [0x48] [System] [14057*]:
     → "@@"
 258: 0x0ECE [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x0ECF [0x1C] WAIT(45* ticks)
@@ -3124,37 +3124,37 @@ SUBROUTINE_08DB:
 266: 0x0F28 [0x1C] WAIT(60* ticks)
 267: 0x0F2B [0x6E] Naji (ID: 17772742/0x010F30C6) uses emote 36*
 268: 0x0F32 [0x99] Wait for Naji (ID: 17772742/0x010F30C6) animation to complete
-269: 0x0F37 [0x2B] Naji (ID: 17772742/0x010F30C6) [14204*]:
+269: 0x0F37 [0x2B] Naji (ID: 17772742/0x010F30C6) [14206*]:
     → "Do I have your attention, <Player>? I'll go over the mission again for your sake--I have the details memorized, of course."
 270: 0x0F3E [0x23] WAIT_FOR_DIALOG_INTERACTION
 271: 0x0F3F [0x52] END_LOAD_SCHEDULER: End scheduler "yyyy" with entities [LocalPlayer, LocalPlayer], work=312*
 272: 0x0F4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y000" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 273: 0x0F5F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
-274: 0x0F6E [0x2B] Naji (ID: 17772742/0x010F30C6) [14205*]:
+274: 0x0F6E [0x2B] Naji (ID: 17772742/0x010F30C6) [14207*]:
     → "The Endymion will touch down in the waters of the Sicklemoon Straits, and we'll travel north under the cover of darkness. Once we reach the coast of the Wajaom Woodlands, our ground team will disembark."
 275: 0x0F75 [0x23] WAIT_FOR_DIALOG_INTERACTION
-276: 0x0F76 [0x2B] Naji (ID: 17772742/0x010F30C6) [14206*]:
+276: 0x0F76 [0x2B] Naji (ID: 17772742/0x010F30C6) [14208*]:
     → "We then don our mercenary disguises and slip into Al Zahbi unnoticed and rendezvous with Rohin...Robin..."
 277: 0x0F7D [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0F7E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
 279: 0x0F8D [0x52] END_LOAD_SCHEDULER: End scheduler "y000" with entities [LocalPlayer, LocalPlayer], work=312*
 280: 0x0F9C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y001" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 281: 0x0FAD [0x4A] King of Hearts (ID: 17772754/0x010F30D2) looks at Naji (ID: 17772742/0x010F30C6)
-282: 0x0FB6 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14207*]:
+282: 0x0FB6 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14209*]:
     → "RoDin-CoMidiN! We reNDezVOus$26wiTH RoDin-CoMidiN$26in AhT UrHGaN$26wHiteGAte!"
 283: 0x0FBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x0FBE [0x79] Naji (ID: 17772742/0x010F30C6) looks at King of Hearts (ID: 17772754/0x010F30D2) (Basic look)
-285: 0x0FC8 [0x2B] Naji (ID: 17772742/0x010F30C6) [14208*]:
+285: 0x0FC8 [0x2B] Naji (ID: 17772742/0x010F30C6) [14210*]:
     → "Ah yes, that was the name... Wait...how are you supposed to sneak in, King?"
 286: 0x0FCF [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x0FD0 [0x52] END_LOAD_SCHEDULER: End scheduler "y001" with entities [LocalPlayer, LocalPlayer], work=312*
 288: 0x0FDF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y002" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 289: 0x0FF0 [0x7B] King of Hearts (ID: 17772754/0x010F30D2) stops talking
 290: 0x0FF5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [King of Hearts (ID: 17772754/0x010F30D2), King of Hearts (ID: 17772754/0x010F30D2)], work=181*
-291: 0x1004 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14209*]:
+291: 0x1004 [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14211*]:
     → "I wiLL MeLt$26iNTo tHE crOWd$26wiTH mY mASterY$26oF mERceNArY$26TerMinoLOgy!"
 292: 0x100B [0x23] WAIT_FOR_DIALOG_INTERACTION
-293: 0x100C [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14210*]:
+293: 0x100C [0x2B] King of Hearts (ID: 17772754/0x010F30D2) [14212*]:
     → "ObSerVe: NeED$26taNk? PLeaSe sENd$26teLL!"
 294: 0x1013 [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x1014 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [King of Hearts (ID: 17772754/0x010F30D2), King of Hearts (ID: 17772754/0x010F30D2)], work=181*
@@ -3165,7 +3165,7 @@ SUBROUTINE_08DB:
 300: 0x104F [0x1C] WAIT(30* ticks)
 301: 0x1052 [0x27] REQ_SET(priority=0x10, entity_id=King of Hearts (ID: 17772754/0x010F30D2), tag_num=0x03)
 302: 0x1059 [0x27] REQ_SET(priority=0x10, entity_id=Horand (ID: 17772753/0x010F30D1), tag_num=0x03)
-303: 0x1060 [0x2B] Naji (ID: 17772742/0x010F30C6) [14211*]:
+303: 0x1060 [0x2B] Naji (ID: 17772742/0x010F30C6) [14213*]:
     → "Oookay... Well, don't worry, <Player>, I've got your back!"
 304: 0x1067 [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x1068 [0x1C] WAIT(30* ticks)
@@ -3184,7 +3184,7 @@ SUBROUTINE_08DB:
 318: 0x1105 [0x1C] WAIT(30* ticks)
 319: 0x1108 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=300*)
 320: 0x110D [0x27] REQ_SET(priority=0x10, entity_id=Bataumnalle (ID: 17772758/0x010F30D6), tag_num=0x03)
-321: 0x1114 [0x2B] Horand (ID: 17772753/0x010F30D1) [14212*]:
+321: 0x1114 [0x2B] Horand (ID: 17772753/0x010F30D1) [14214*]:
     → "Ten degrees to starboard. What in the...?"
 322: 0x111B [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x111C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mab0" with entities [Horand (ID: 17772753/0x010F30D1), Horand (ID: 17772753/0x010F30D1)], work=1168*
@@ -3193,7 +3193,7 @@ SUBROUTINE_08DB:
 326: 0x113D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "oiii" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 327: 0x114E [0x6E] Bataumnalle (ID: 17772758/0x010F30D6) uses emote 0*
 328: 0x1155 [0x99] Wait for Bataumnalle (ID: 17772758/0x010F30D6) animation to complete
-329: 0x115A [0x2B] Bataumnalle (ID: 17772758/0x010F30D6) [14213*]:
+329: 0x115A [0x2B] Bataumnalle (ID: 17772758/0x010F30D6) [14215*]:
     → "Great Altana! That light!"
 330: 0x1161 [0x23] WAIT_FOR_DIALOG_INTERACTION
 331: 0x1162 [0x1C] WAIT(30* ticks)
@@ -3209,7 +3209,7 @@ SUBROUTINE_08DB:
 341: 0x11DE [0x1C] WAIT(60* ticks)
 342: 0x11E1 [0x7C] Horand (ID: 17772753/0x010F30D1)->Render.Flags2 |= 0x00
 343: 0x11E7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mab1" with entities [Horand (ID: 17772753/0x010F30D1), Horand (ID: 17772753/0x010F30D1)], work=1168*
-344: 0x11F6 [0x2B] Horand (ID: 17772753/0x010F30D1) [14214*]:
+344: 0x11F6 [0x2B] Horand (ID: 17772753/0x010F30D1) [14216*]:
     → "Wha-! Aaargh!!!"
 345: 0x11FD [0x7C] Horand (ID: 17772753/0x010F30D1)->Render.Flags2 |= 0x01
 346: 0x1203 [0x1C] WAIT(90* ticks)
@@ -3242,7 +3242,7 @@ SUBROUTINE_08DB:
 373: 0x132E [0x99] Wait for Naji (ID: 17772742/0x010F30C6) animation to complete
 374: 0x1333 [0x6E] LocalPlayer uses emote 29*
 375: 0x133A [0x99] Wait for LocalPlayer animation to complete
-376: 0x133F [0x2B] Naji (ID: 17772742/0x010F30C6) [14215*]:
+376: 0x133F [0x2B] Naji (ID: 17772742/0x010F30C6) [14217*]:
     → "Wh-what's going on out there!?"
 377: 0x1346 [0x1C] WAIT(90* ticks)
 378: 0x1349 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -3276,7 +3276,7 @@ SUBROUTINE_08DB:
 406: 0x1453 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 161*
 407: 0x1457 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 161*
 408: 0x145B [0x9A] WAIT_MUSIC_SERVER()
-409: 0x145C [0x48] [System] [14055*]:
+409: 0x145C [0x48] [System] [14057*]:
     → "@@"
 410: 0x145F [0x23] WAIT_FOR_DIALOG_INTERACTION
 411: 0x1460 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tjo0" with entities [Luzaf (ID: 17772755/0x010F30D3), Luzaf (ID: 17772755/0x010F30D3)], work=1148*
@@ -3287,20 +3287,20 @@ SUBROUTINE_08DB:
 416: 0x14A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w000" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 417: 0x14B4 [0x1C] WAIT(90* ticks)
 418: 0x14B7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tjo1" with entities [Luzaf (ID: 17772755/0x010F30D3), Luzaf (ID: 17772755/0x010F30D3)], work=1148*
-419: 0x14C6 [0x2B] Luzaf (ID: 17772755/0x010F30D3) [14216*]:
+419: 0x14C6 [0x2B] Luzaf (ID: 17772755/0x010F30D3) [14218*]:
     → "Hm...?"
 420: 0x14CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x14CE [0x1C] WAIT(60* ticks)
 422: 0x14D1 [0x52] END_LOAD_SCHEDULER: End scheduler "w000" with entities [LocalPlayer, LocalPlayer], work=312*
 423: 0x14E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 424: 0x14F1 [0x1C] WAIT(30* ticks)
-425: 0x14F4 [0x2B] Nasshawan (ID: 17772756/0x010F30D4) [14217*]:
+425: 0x14F4 [0x2B] Nasshawan (ID: 17772756/0x010F30D4) [14219*]:
     → "No tricks! Keep moving, slug!"
 426: 0x14FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 427: 0x14FC [0x52] END_LOAD_SCHEDULER: End scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=312*
 428: 0x150B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w002" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
 429: 0x151C [0x1C] WAIT(60* ticks)
-430: 0x151F [0x2B] Luzaf (ID: 17772755/0x010F30D3) [14218*]:
+430: 0x151F [0x2B] Luzaf (ID: 17772755/0x010F30D3) [14220*]:
     → "The Age...of Judgment...is at hand..."
 431: 0x1526 [0x1C] WAIT(500* ticks)
 432: 0x1529 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -3396,7 +3396,7 @@ SUBROUTINE_15B1:
  15: 0x1614 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "zzzz" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
  16: 0x1625 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  17: 0x1636 [0x1C] WAIT(60* ticks)
- 18: 0x1639 [0x2B] EventEntity [14176*]:
+ 18: 0x1639 [0x2B] EventEntity [14178*]:
     → "What is it? Do I look like a tour guide?"
  19: 0x1640 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x1641 [0x52] END_LOAD_SCHEDULER: End scheduler "zzzz" with entities [LocalPlayer, LocalPlayer], work=312*
@@ -3406,13 +3406,13 @@ SUBROUTINE_15B1:
  24: 0x1667 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  25: 0x1668 [0x1C] WAIT(10* ticks)
  26: 0x166B [0x7C] EventEntity->Render.Flags2 |= 0x00
- 27: 0x1671 [0x2B] EventEntity [14177*]:
+ 27: 0x1671 [0x2B] EventEntity [14179*]:
     → "!!!"
  28: 0x1678 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x1679 [0x7C] EventEntity->Render.Flags2 |= 0x01
  30: 0x167F [0x6E] EventEntity uses emote 1*
  31: 0x1686 [0x99] Wait for EventEntity animation to complete
- 32: 0x168B [0x2B] EventEntity [14178*]:
+ 32: 0x168B [0x2B] EventEntity [14180*]:
     → "Ah! My apologies! You're here for the Wajaom Infiltration Operation, correct?"
  33: 0x1692 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x1693 [0x99] Wait for EventEntity animation to complete
@@ -3420,7 +3420,7 @@ SUBROUTINE_15B1:
  36: 0x169B [0x52] END_LOAD_SCHEDULER: End scheduler "zzza" with entities [LocalPlayer, LocalPlayer], work=312*
  37: 0x16AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "zzzb" with entities [LocalPlayer, LocalPlayer], work=[312*, 0*]
  38: 0x16BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 39: 0x16CA [0x2B] EventEntity [14219*]:
+ 39: 0x16CA [0x2B] EventEntity [14221*]:
     → "The airship Endymion is being prepared for flight."
  40: 0x16D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x16D2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -3457,7 +3457,7 @@ SUBROUTINE_15B1:
   0: 0x171B [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x171C [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x1721 [0x1C] WAIT(30* ticks)
-  3: 0x1724 [0x1D] PRINT_EVENT_MESSAGE(message_id=14221*)
+  3: 0x1724 [0x1D] PRINT_EVENT_MESSAGE(message_id=14223*)
     → "I find it hard to believe that anyone could knock the Endymion out of the sky so easily. There must be some mistake..."
   4: 0x1727 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1728 [0x21] END_EVENT
@@ -3487,7 +3487,7 @@ SUBROUTINE_15B1:
   0: 0x172A [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x172B [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x1730 [0x1C] WAIT(30* ticks)
-  3: 0x1733 [0x1D] PRINT_EVENT_MESSAGE(message_id=14222*)
+  3: 0x1733 [0x1D] PRINT_EVENT_MESSAGE(message_id=14224*)
     → "The entire port is rushing to prepare the allied airship fleet to avenge the crew of the Endymion. We'll make those Imperial curs pay!"
   4: 0x1736 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1737 [0x21] END_EVENT
@@ -3517,7 +3517,7 @@ SUBROUTINE_15B1:
   0: 0x1739 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x173A [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x173F [0x1C] WAIT(30* ticks)
-  3: 0x1742 [0x1D] PRINT_EVENT_MESSAGE(message_id=14223*)
+  3: 0x1742 [0x1D] PRINT_EVENT_MESSAGE(message_id=14225*)
     → "The alliance fleet has returned to Jeuno without firing a single shot in the name of the Endymion. Aht Urhgan has escaped a fiery fate..."
   4: 0x1745 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1746 [0x21] END_EVENT

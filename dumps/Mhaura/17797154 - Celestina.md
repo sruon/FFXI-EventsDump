@@ -25,17 +25,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000D      |          13 |
-|       1 | 0x1B41      |        6977 |
+|       1 | 0x1B43      |        6979 |
 |       2 | 0x5337      |       21303 |
 |       3 | 0xA19D      |       41373 |
 |       4 | 0xFFFFE1AC  |  4294959532 |
 |       5 | 0x000A      |          10 |
-|       6 | 0x1B42      |        6978 |
+|       6 | 0x1B44      |        6980 |
 |       7 | 0x003C      |          60 |
-|       8 | 0x1B45      |        6981 |
+|       8 | 0x1B47      |        6983 |
 |       9 | 0x0B23      |        2851 |
 |      10 | 0x000B      |          11 |
-|      11 | 0x1B46      |        6982 |
+|      11 | 0x1B48      |        6984 |
 |      12 | 0x0028      |          40 |
 |      13 | 0x436E      |       17262 |
 |      14 | 0xB1F6      |       45558 |
@@ -43,10 +43,10 @@
 
 ## String References
 
-- **6977**: Mother? You're here again!?
-- **6978**: I know how you feel, Mother, but you have to let him go!
-- **6981**: Mother! How long have you been saying that!?
-- **6982**: Just stop it! I don't want to hear it anymore!
+- **6979**: Mother? You're here again!?
+- **6980**: I know how you feel, Mother, but you have to let him go!
+- **6983**: Mother! How long have you been saying that!?
+- **6984**: Just stop it! I don't want to hear it anymore!
 
 ## Events
 
@@ -118,7 +118,7 @@
   0: 0x0002 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
   1: 0x0004 [0x2F] Celestina (ID: 17797154/0x010F9022)->Render.Flags0 &= ~0x80000 // Bit 19
   2: 0x000A [0x32] ExtData[1]->MainSpeed = 13* * 0.1
-  3: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=6977*)
+  3: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=6979*)
     → "Mother? You're here again!?"
   4: 0x0010 [0x1F] MOVE_ENTITY: EventEntity moves to X=21.303*, Z=41.373*, Y=-7.764*
   5: 0x0018 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
@@ -148,7 +148,7 @@
 
 ```
   0: 0x0021 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  1: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=6978*)
+  1: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=6980*)
     → "I know how you feel, Mother, but you have to let him go!"
   2: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0034 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -213,7 +213,7 @@
   2: 0x0066 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
   3: 0x0073 [0x1C] WAIT(60* ticks)
   4: 0x0076 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-  5: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=6981*)
+  5: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=6983*)
     → "Mother! How long have you been saying that!?"
   6: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0089 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]
@@ -221,7 +221,7 @@
   9: 0x0099 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x009A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x009B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "utl0" with entities [EventEntity, EventEntity], work=11*
- 12: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=6982*)
+ 12: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=6984*)
     → "Just stop it! I don't want to hear it anymore!"
  13: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00AE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "utl0" with entities [EventEntity, EventEntity]

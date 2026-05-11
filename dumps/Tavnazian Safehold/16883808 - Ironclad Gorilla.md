@@ -21,16 +21,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B1D      |       11037 |
+|       0 | 0x2B1F      |       11039 |
 |       1 | 0x0045      |          69 |
-|       2 | 0x2B1E      |       11038 |
-|       3 | 0x2B1F      |       11039 |
+|       2 | 0x2B20      |       11040 |
+|       3 | 0x2B21      |       11041 |
 
 ## String References
 
-- **11037**: This cave leads to the Sealion's Den.
-- **11038**: The cave was once used as a private port for the Tavnazian Cathedral, but now...
-- **11039**: Recently, with all the supply ships from Jeuno coming and going, the port has been very active.
+- **11039**: This cave leads to the Sealion's Den.
+- **11040**: The cave was once used as a private port for the Tavnazian Cathedral, but now...
+- **11041**: Recently, with all the supply ships from Jeuno coming and going, the port has been very active.
 
 ## Events
 
@@ -77,11 +77,11 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11037*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11039*)
     → "This cave leads to the Sealion's Den."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=69*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11038*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11040*)
     → "The cave was once used as a private port for the Tavnazian Cathedral, but now..."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT
@@ -110,11 +110,11 @@
 
 ```
   0: 0x001F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11037*)
+  1: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11039*)
     → "This cave leads to the Sealion's Den."
   2: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=69*
-  4: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11039*)
+  4: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11041*)
     → "Recently, with all the supply ships from Jeuno coming and going, the port has been very active."
   5: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x003B [0x21] END_EVENT

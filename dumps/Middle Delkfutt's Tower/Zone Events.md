@@ -52,15 +52,15 @@
 |      13 | 0xFFFE88EB  |  4294871275 |
 |      14 | 0x0027      |          39 |
 |      15 | 0x001E      |          30 |
-|      16 | 0x1CB7      |        7351 |
-|      17 | 0x1CB8      |        7352 |
+|      16 | 0x1CB9      |        7353 |
+|      17 | 0x1CBA      |        7354 |
 |      18 | 0x00C8      |         200 |
-|      19 | 0x1CB9      |        7353 |
-|      20 | 0x1CBA      |        7354 |
-|      21 | 0x1CBB      |        7355 |
+|      19 | 0x1CBB      |        7355 |
+|      20 | 0x1CBC      |        7356 |
+|      21 | 0x1CBD      |        7357 |
 |      22 | 0x0B78      |        2936 |
-|      23 | 0x1CBC      |        7356 |
-|      24 | 0x1CBD      |        7357 |
+|      23 | 0x1CBE      |        7358 |
+|      24 | 0x1CBF      |        7359 |
 |      25 | 0x00C9      |         201 |
 |      26 | 0x40000000  |  1073741824 |
 |      27 | 0xFFF8806D  |  4294475885 |
@@ -91,15 +91,15 @@
 |      52 | 0x0002      |           2 |
 |      53 | 0x00AA      |         170 |
 |      54 | 0x0064      |         100 |
-|      55 | 0x1CD5      |        7381 |
-|      56 | 0x1CD2      |        7378 |
+|      55 | 0x1CD7      |        7383 |
+|      56 | 0x1CD4      |        7380 |
 
 ## String References
 
 - **3**: Use the device? [Yes./No.]
-- **7351**: The chest contains some armor and a letter.
-- **7378**: Touch the crystal? [Yes./No.]
-- **7381**: Touch the crystal? [Yes./No.]
+- **7353**: The chest contains some armor and a letter.
+- **7380**: Touch the crystal? [Yes./No.]
+- **7383**: Touch the crystal? [Yes./No.]
 
 ## Events
 
@@ -226,15 +226,15 @@ SUBROUTINE_0041:
  26: 0x009A [0x99] Wait for LocalPlayer animation to complete
  27: 0x009F [0x1C] WAIT(30* ticks)
  28: 0x00A2 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [Unnamed NPC (ID: 17420666/0x0109D17A), Unnamed NPC (ID: 17420666/0x0109D17A)]
- 29: 0x00AF [0x48] [System] [7351*]:
+ 29: 0x00AF [0x48] [System] [7353*]:
     → "The chest contains some armor and a letter."
  30: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00B3 [0x1C] WAIT(30* ticks)
- 32: 0x00B6 [0x2B] Zeid (ID: 17420665/0x0109D179) [7352*]:
+ 32: 0x00B6 [0x2B] Zeid (ID: 17420665/0x0109D179) [7354*]:
     → "Fellow bearer of the dark burden, this helm was crafted by Gerwitz. His spirit instructed me to give it to you."
  33: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 35: 0x00CF [0x2B] Zeid (ID: 17420665/0x0109D179) [7353*]:
+ 35: 0x00CF [0x2B] Zeid (ID: 17420665/0x0109D179) [7355*]:
     → "His resolve to the cause rivals that of our own. However, for your soul's sake, I must warn you against doing anything you might regret later."
  36: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00D7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo2" with entities [EventEntity, EventEntity], work=200*
@@ -242,14 +242,14 @@ SUBROUTINE_0041:
  39: 0x00ED [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [EventEntity, EventEntity], work=204*
  40: 0x00FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [EventEntity, EventEntity], work=[204*, 0*]
  41: 0x010D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 42: 0x011E [0x2B] Zeid (ID: 17420665/0x0109D179) [7354*]:
+ 42: 0x011E [0x2B] Zeid (ID: 17420665/0x0109D179) [7356*]:
     → "It is precisely because we understand the fragility of life that we are made aware of the ephemeralness of our own souls."
  43: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0126 [0x2B] Zeid (ID: 17420665/0x0109D179) [7355*]:
+ 44: 0x0126 [0x2B] Zeid (ID: 17420665/0x0109D179) [7357*]:
     → "But do not let any attachment to life cause you fear. Do not let fear of the end lessen your pace. Do not repent for anything!"
  45: 0x012D [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x012E [0x4B] UPDATE_ENTITY_YAW(entity=Zeid (ID: 17420665/0x0109D179), yaw=16.1°*)
- 47: 0x0135 [0x2B] Zeid (ID: 17420665/0x0109D179) [7356*]:
+ 47: 0x0135 [0x2B] Zeid (ID: 17420665/0x0109D179) [7358*]:
     → "I chose my own path, and so should you. You will find something worth more than mere righteousness."
  48: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x013D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -257,7 +257,7 @@ SUBROUTINE_0041:
  51: 0x0143 [0x27] REQ_SET(priority=0x0A, entity_id=Zeid (ID: 17420665/0x0109D179), tag_num=0x03)
  52: 0x014A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [EventEntity, EventEntity], work=200*
  53: 0x0159 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 54: 0x016A [0x2B] Zeid (ID: 17420665/0x0109D179) [7357*]:
+ 54: 0x016A [0x2B] Zeid (ID: 17420665/0x0109D179) [7359*]:
     → "Should you ever doubt the path you have chosen, look at your blade and ask yourself this: does it glow with true darkness?"
  55: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0172 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo2" with entities [EventEntity, EventEntity], work=200*
@@ -875,7 +875,7 @@ SUBROUTINE_046E:
   0: 0x04F3 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x04F5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x04F6 [0x02] IF !(Work_Zone[2] == 100*) GOTO 0x051E
-  3: 0x04FE [0x24] CREATE_DIALOG(message_id=7381*, default_option=1*, option_flags=0*)
+  3: 0x04FE [0x24] CREATE_DIALOG(message_id=7383*, default_option=1*, option_flags=0*)
     → "Touch the crystal? [Yes./No.]"
   4: 0x0505 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0506 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0516
@@ -886,7 +886,7 @@ SUBROUTINE_046E:
 SUBROUTINE_051B:
   9: 0x051B [0x01] GOTO 0x0546
  10: 0x051E [0x02] IF !(Work_Zone[2] == 200*) GOTO 0x0546
- 11: 0x0526 [0x24] CREATE_DIALOG(message_id=7378*, default_option=1*, option_flags=0*)
+ 11: 0x0526 [0x24] CREATE_DIALOG(message_id=7380*, default_option=1*, option_flags=0*)
     → "Touch the crystal? [Yes./No.]"
  12: 0x052D [0x25] WAIT_DIALOG_SELECT()
  13: 0x052E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x053E

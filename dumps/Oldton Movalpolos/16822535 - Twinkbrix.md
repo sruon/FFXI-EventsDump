@@ -25,79 +25,79 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EFA      |        7930 |
-|       1 | 0x1EFE      |        7934 |
-|       2 | 0x1EFB      |        7931 |
+|       0 | 0x1EFC      |        7932 |
+|       1 | 0x1F00      |        7936 |
+|       2 | 0x1EFD      |        7933 |
 |       3 | 0x0002      |           2 |
-|       4 | 0x1F12      |        7954 |
+|       4 | 0x1F14      |        7956 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x1EFF      |        7935 |
-|       7 | 0x1F00      |        7936 |
-|       8 | 0x1F01      |        7937 |
-|       9 | 0x1F09      |        7945 |
-|      10 | 0x1F0A      |        7946 |
+|       6 | 0x1F01      |        7937 |
+|       7 | 0x1F02      |        7938 |
+|       8 | 0x1F03      |        7939 |
+|       9 | 0x1F0B      |        7947 |
+|      10 | 0x1F0C      |        7948 |
 |      11 | 0x0003      |           3 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x1F0F      |        7951 |
-|      14 | 0x1F10      |        7952 |
-|      15 | 0x1F11      |        7953 |
-|      16 | 0x1F0B      |        7947 |
-|      17 | 0x1F0C      |        7948 |
-|      18 | 0x1F0D      |        7949 |
-|      19 | 0x1F0E      |        7950 |
+|      13 | 0x1F11      |        7953 |
+|      14 | 0x1F12      |        7954 |
+|      15 | 0x1F13      |        7955 |
+|      16 | 0x1F0D      |        7949 |
+|      17 | 0x1F0E      |        7950 |
+|      18 | 0x1F0F      |        7951 |
+|      19 | 0x1F10      |        7952 |
 |      20 | 0x0A9C      |        2716 |
-|      21 | 0x1F14      |        7956 |
-|      22 | 0x1F13      |        7955 |
-|      23 | 0x1F16      |        7958 |
-|      24 | 0x1F15      |        7957 |
-|      25 | 0x1F17      |        7959 |
+|      21 | 0x1F16      |        7958 |
+|      22 | 0x1F15      |        7957 |
+|      23 | 0x1F18      |        7960 |
+|      24 | 0x1F17      |        7959 |
+|      25 | 0x1F19      |        7961 |
 |      26 | 0x0080      |         128 |
-|      27 | 0x1F18      |        7960 |
-|      28 | 0x1F19      |        7961 |
-|      29 | 0x1F1B      |        7963 |
-|      30 | 0x1F1A      |        7962 |
-|      31 | 0x1F1C      |        7964 |
-|      32 | 0x1F1D      |        7965 |
+|      27 | 0x1F1A      |        7962 |
+|      28 | 0x1F1B      |        7963 |
+|      29 | 0x1F1D      |        7965 |
+|      30 | 0x1F1C      |        7964 |
+|      31 | 0x1F1E      |        7966 |
+|      32 | 0x1F1F      |        7967 |
 |      33 | 0x02A4      |         676 |
-|      34 | 0x1F05      |        7941 |
-|      35 | 0x1F1E      |        7966 |
-|      36 | 0x1F1F      |        7967 |
+|      34 | 0x1F07      |        7943 |
+|      35 | 0x1F20      |        7968 |
+|      36 | 0x1F21      |        7969 |
 |      37 | 0x010A      |         266 |
 |      38 | 0x012C      |         300 |
 |      39 | 0x00C8      |         200 |
 
 ## String References
 
-- **7930**: Yous gots whats yous came for, now scram!
-- **7931**: Pssst! Hey yous! Ever beens to da mine shaft alls da ways beyonds Newston?
-- **7934**: Heh heh heh... Comes to papa, $0. Alrights. A promise's a promise. Twinkbrix ain't a Gob to go back on his word!
-- **7935**: Ya know, as much as I'd like to get my hands on another one o' dem jewels, I'm fresh outta levers.
-- **7936**: Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with what yous need!
-- **7937**: And don't forgets to bring $0. I ain't runnin' no charity here!
-- **7941**: Give him the $3? [Yes./No.]
-- **7945**: Da bigg boss of dis here place don'ts wants nobodys goin' back there, sos he broke off da lever to da main gate.
-- **7946**: Nows, I could gives ya dis here spare lever, but I'ms gonna need somes incentives in return. Hows about we works out a trade? You brings me $0, and then we'll talk. Whaddaya say?
-- **7947**: Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you...
-- **7948**: But if yous really wants to know, I could gives ya a chance. Here's whats we'll do. Yous play dice witha me. Yous win, I lets ya in on my secrects.
-- **7949**: But don't goes a thinkin' that I'ms gonna play for free. That's right, incentives! Yous forks over some gils, I'll tells ya if it's enough. Oh, and don't go givin' me any more than 10,000. I'ms not a crook, ya knows!
-- **7950**: We'll sees if yous upworlders have what it takes to plays with da big boys!
-- **7951**: Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you. 'Least nots yet.
-- **7952**: Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with all the information yous need!
-- **7953**: But don't thinks you'll be gettin' it easy!
-- **7954**: Hey! Yous gots what ya came for, now git outta my face!
-- **7955**: $0 gil? Alright. Lets me fill yous in on da finer details of our agreement.
-- **7956**: $0 gil? Is that supposed have somes kinda meaning? Whatever, lets me fill yous in on da finer details of our agreement.
-- **7957**: Rules are simple: I throws two 50-sided dice. If the total's betweens 2 and $1, yous win.
-- **7958**: Rules are simple: I throws two 50-sided dice. If the total's 2, yous win.
-- **7959**: Heres we go!
-- **7960**: And the total is...$2!
-- **7961**: Hmph... These dice must be fixed! But a deal's a deal... Takes dis!
-- **7962**: Heh heh heh! Looks who wins again! Better luck next time, sucker!
-- **7963**: Oh, and just to shows ya I'ms a good sport, I'll warps ya to the gate...for a meres $3 gils! But yous'd better not be carryin' anything that'll gets me in trouble!
-- **7964**: Heh heh. That's what I likes about yous adventurers--pockets lined witha gil!
-- **7965**: Hey hey hey! I tolds yous not to bring anythings that'd gets me in trouble! Gimme that!
-- **7966**: Twinkbrix snatches the $3 from your hand.
-- **7967**: Holds on, upworlder!
+- **7932**: Yous gots whats yous came for, now scram!
+- **7933**: Pssst! Hey yous! Ever beens to da mine shaft alls da ways beyonds Newston?
+- **7936**: Heh heh heh... Comes to papa, $0. Alrights. A promise's a promise. Twinkbrix ain't a Gob to go back on his word!
+- **7937**: Ya know, as much as I'd like to get my hands on another one o' dem jewels, I'm fresh outta levers.
+- **7938**: Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with what yous need!
+- **7939**: And don't forgets to bring $0. I ain't runnin' no charity here!
+- **7943**: Give him the $3? [Yes./No.]
+- **7947**: Da bigg boss of dis here place don'ts wants nobodys goin' back there, sos he broke off da lever to da main gate.
+- **7948**: Nows, I could gives ya dis here spare lever, but I'ms gonna need somes incentives in return. Hows about we works out a trade? You brings me $0, and then we'll talk. Whaddaya say?
+- **7949**: Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you...
+- **7950**: But if yous really wants to know, I could gives ya a chance. Here's whats we'll do. Yous play dice witha me. Yous win, I lets ya in on my secrects.
+- **7951**: But don't goes a thinkin' that I'ms gonna play for free. That's right, incentives! Yous forks over some gils, I'll tells ya if it's enough. Oh, and don't go givin' me any more than 10,000. I'ms not a crook, ya knows!
+- **7952**: We'll sees if yous upworlders have what it takes to plays with da big boys!
+- **7953**: Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you. 'Least nots yet.
+- **7954**: Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with all the information yous need!
+- **7955**: But don't thinks you'll be gettin' it easy!
+- **7956**: Hey! Yous gots what ya came for, now git outta my face!
+- **7957**: $0 gil? Alright. Lets me fill yous in on da finer details of our agreement.
+- **7958**: $0 gil? Is that supposed have somes kinda meaning? Whatever, lets me fill yous in on da finer details of our agreement.
+- **7959**: Rules are simple: I throws two 50-sided dice. If the total's betweens 2 and $1, yous win.
+- **7960**: Rules are simple: I throws two 50-sided dice. If the total's 2, yous win.
+- **7961**: Heres we go!
+- **7962**: And the total is...$2!
+- **7963**: Hmph... These dice must be fixed! But a deal's a deal... Takes dis!
+- **7964**: Heh heh heh! Looks who wins again! Better luck next time, sucker!
+- **7965**: Oh, and just to shows ya I'ms a good sport, I'll warps ya to the gate...for a meres $3 gils! But yous'd better not be carryin' anything that'll gets me in trouble!
+- **7966**: Heh heh. That's what I likes about yous adventurers--pockets lined witha gil!
+- **7967**: Hey hey hey! I tolds yous not to bring anythings that'd gets me in trouble! Gimme that!
+- **7968**: Twinkbrix snatches the $3 from your hand.
+- **7969**: Holds on, upworlder!
 
 ## Events
 
@@ -143,7 +143,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7930*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
     → "Yous gots whats yous came for, now scram!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -172,7 +172,7 @@
 ```
   0: 0x000C [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
+  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
     → "Heh heh heh... Comes to papa, $0. Alrights. A promise's a promise. Twinkbrix ain't a Gob to go back on his word!"
   3: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0016 [0x21] END_EVENT
@@ -205,29 +205,29 @@
 
 ```
   0: 0x0018 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7931*)
+  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Pssst! Hey yous! Ever beens to da mine shaft alls da ways beyonds Newston?"
   2: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0021 [0x3E] IF !(Work_Zone[6] bit 2*) GOTO 0x002F
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "Hey! Yous gots what ya came for, now git outta my face!"
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x002C [0x01] GOTO 0x004D
   7: 0x002F [0x3E] IF !(Work_Zone[6] bit 0*) GOTO 0x0045
-  8: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
+  8: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
     → "Ya know, as much as I'd like to get my hands on another one o' dem jewels, I'm fresh outta levers."
   9: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
+ 10: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
     → "Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with what yous need!"
  11: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
+ 12: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
     → "And don't forgets to bring $0. I ain't runnin' no charity here!"
  13: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0042 [0x01] GOTO 0x004D
- 15: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
+ 15: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "Da bigg boss of dis here place don'ts wants nobodys goin' back there, sos he broke off da lever to da main gate."
  16: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+ 17: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
     → "Nows, I could gives ya dis here spare lever, but I'ms gonna need somes incentives in return. Hows about we works out a trade? You brings me $0, and then we'll talk. Whaddaya say?"
  18: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -235,26 +235,26 @@ SUBROUTINE_004D:
  19: 0x004D [0x3E] IF !(Work_Zone[6] bit 3*) GOTO 0x0057
  20: 0x0054 [0x01] GOTO 0x007D
  21: 0x0057 [0x3E] IF !(Work_Zone[6] bit 1*) GOTO 0x006D
- 22: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
+ 22: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
     → "Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you. 'Least nots yet."
  23: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
+ 24: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
     → "Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with all the information yous need!"
  25: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
+ 26: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
     → "But don't thinks you'll be gettin' it easy!"
  27: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x006A [0x01] GOTO 0x007D
- 29: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
+ 29: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
     → "Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you..."
  30: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
+ 31: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
     → "But if yous really wants to know, I could gives ya a chance. Here's whats we'll do. Yous play dice witha me. Yous win, I lets ya in on my secrects."
  32: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
+ 33: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
     → "But don't goes a thinkin' that I'ms gonna play for free. That's right, incentives! Yous forks over some gils, I'll tells ya if it's enough. Oh, and don't go givin' me any more than 10,000. I'ms not a crook, ya knows!"
  34: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+ 35: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
     → "We'll sees if yous upworlders have what it takes to plays with da big boys!"
  36: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -293,43 +293,43 @@ SUBROUTINE_007D:
   0: 0x007F [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0080 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0085 [0x02] IF !(Work_Zone[2] == 2716*) GOTO 0x0094
-  3: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
+  3: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "$0 gil? Is that supposed have somes kinda meaning? Whatever, lets me fill yous in on da finer details of our agreement."
   4: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0091 [0x01] GOTO 0x0098
-  6: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+  6: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
     → "$0 gil? Alright. Lets me fill yous in on da finer details of our agreement."
   7: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0098:
   8: 0x0098 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x00A7
-  9: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
+  9: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
     → "Rules are simple: I throws two 50-sided dice. If the total's 2, yous win."
  10: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00A4 [0x01] GOTO 0x00AB
- 12: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+ 12: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
     → "Rules are simple: I throws two 50-sided dice. If the total's betweens 2 and $1, yous win."
  13: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00AB:
- 14: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
+ 14: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "Heres we go!"
  15: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00AF [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [EventEntity, EventEntity], work=[128*, 0*]
  17: 0x00C0 [0xA2] WAIT_LOAD_SCHEDULER_MAIN: Wait for scheduler "main" with entities [EventEntity, EventEntity], work=128*
- 18: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+ 18: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
     → "And the total is...$2!"
  19: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00D3 [0x02] IF !(Work_Zone[3] < Work_Zone[4]) GOTO 0x00EB
- 21: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
+ 21: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "Hmph... These dice must be fixed! But a deal's a deal... Takes dis!"
  22: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
+ 23: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
     → "Oh, and just to shows ya I'ms a good sport, I'll warps ya to the gate...for a meres $3 gils! But yous'd better not be carryin' anything that'll gets me in trouble!"
  24: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00E3 [0x03] Work_Zone[1] = 1*
  26: 0x00E8 [0x01] GOTO 0x00F4
- 27: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+ 27: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
     → "Heh heh heh! Looks who wins again! Better luck next time, sucker!"
  28: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00EF [0x03] Work_Zone[1] = 0*
@@ -360,16 +360,16 @@ SUBROUTINE_00F4:
 
 ```
   0: 0x00F6 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7931*)
+  1: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Pssst! Hey yous! Ever beens to da mine shaft alls da ways beyonds Newston?"
   2: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
+  3: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
     → "Ya know, as much as I'd like to get my hands on another one o' dem jewels, I'm fresh outta levers."
   4: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
+  5: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
     → "Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with what yous need!"
   6: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
+  7: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
     → "And don't forgets to bring $0. I ain't runnin' no charity here!"
   8: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x010B [0x21] END_EVENT
@@ -409,24 +409,24 @@ SUBROUTINE_00F4:
 ```
   0: 0x010D [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x010E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
+  2: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "Heh heh. That's what I likes about yous adventurers--pockets lined witha gil!"
   3: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0117 [0x03] Work_Zone[1] = 0*
   5: 0x011C [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x018A
-  6: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+  6: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
     → "Hey hey hey! I tolds yous not to bring anythings that'd gets me in trouble! Gimme that!"
   7: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0128 [0x03] Work_Zone[2] = 676*
-  9: 0x012D [0x24] CREATE_DIALOG(message_id=7941*, default_option=1*, option_flags=0*)
+  9: 0x012D [0x24] CREATE_DIALOG(message_id=7943*, default_option=1*, option_flags=0*)
     → "Give him the $3? [Yes./No.]"
  10: 0x0134 [0x25] WAIT_DIALOG_SELECT()
  11: 0x0135 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0187
  12: 0x013D [0x03] Work_Zone[3] = 676*
- 13: 0x0142 [0x48] [System] [7966*]:
+ 13: 0x0142 [0x48] [System] [7968*]:
     → "Twinkbrix snatches the $3 from your hand."
  14: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+ 15: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "Holds on, upworlder!"
  16: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x014A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -442,7 +442,7 @@ SUBROUTINE_00F4:
 
 SUBROUTINE_0187:
  27: 0x0187 [0x01] GOTO 0x01C8
- 28: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+ 28: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "Holds on, upworlder!"
  29: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x018E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)

@@ -24,34 +24,34 @@
 |       1 | 0x09A1      |        2465 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x1D4E      |        7502 |
+|       4 | 0x1D50      |        7504 |
 |       5 | 0x40000000  |  1073741824 |
-|       6 | 0x1D4F      |        7503 |
+|       6 | 0x1D51      |        7505 |
 |       7 | 0x0007      |           7 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x1D50      |        7504 |
+|       9 | 0x1D52      |        7506 |
 |      10 | 0x0006      |           6 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x1D51      |        7505 |
-|      13 | 0x1D52      |        7506 |
+|      12 | 0x1D53      |        7507 |
+|      13 | 0x1D54      |        7508 |
 |      14 | 0x0004      |           4 |
-|      15 | 0x1D54      |        7508 |
+|      15 | 0x1D56      |        7510 |
 |      16 | 0x0005      |           5 |
-|      17 | 0x1D56      |        7510 |
-|      18 | 0x1D53      |        7507 |
-|      19 | 0x1D55      |        7509 |
+|      17 | 0x1D58      |        7512 |
+|      18 | 0x1D55      |        7509 |
+|      19 | 0x1D57      |        7511 |
 
 ## String References
 
-- **7502**: Thanks for coming all this way. I'd love to offer you some hospitality, but we'd need to get this frontier station completed first! Could you lend us a hand by signing up for a coalition assignment?
-- **7503**: Thanks so much for delivering this $3! I can't wait to see how this station looks once it's built. If you want, you can go pick up your reward from the manager who gave you this assignment.
-- **7504**: We're glad you tried your best, but destroyed $5 are useless to us. Sorry, but can you pick up another one from the manager in charge?
-- **7505**: Welcome to the frontier! This station has already been built, but you can always help construct some bivouacs or keep them supplied.
-- **7506**: Frontier stations are self-sufficient, but the bivouacs are sadly not. We'd be extremely appreciative if you could undertake some assignments to make sure they stay in operation.
-- **7507**: Hello, there! We have some materials we'd like delivered to town, but we have to go through the right channels. Would you mind undertaking a coalition assignment to transport them back?
-- **7508**: Thank you for helping us out. Here's the $3. All we ask is that you take it to the manager in charge of this assignment.
-- **7509**: Thank you for helping us out. All we ask is that you deliver your cargo safely to the manager in charge of this assignment.
-- **7510**: Well, here's another $3, but please be careful not to break this one.
+- **7504**: Thanks for coming all this way. I'd love to offer you some hospitality, but we'd need to get this frontier station completed first! Could you lend us a hand by signing up for a coalition assignment?
+- **7505**: Thanks so much for delivering this $3! I can't wait to see how this station looks once it's built. If you want, you can go pick up your reward from the manager who gave you this assignment.
+- **7506**: We're glad you tried your best, but destroyed $5 are useless to us. Sorry, but can you pick up another one from the manager in charge?
+- **7507**: Welcome to the frontier! This station has already been built, but you can always help construct some bivouacs or keep them supplied.
+- **7508**: Frontier stations are self-sufficient, but the bivouacs are sadly not. We'd be extremely appreciative if you could undertake some assignments to make sure they stay in operation.
+- **7509**: Hello, there! We have some materials we'd like delivered to town, but we have to go through the right channels. Would you mind undertaking a coalition assignment to transport them back?
+- **7510**: Thank you for helping us out. Here's the $3. All we ask is that you take it to the manager in charge of this assignment.
+- **7511**: Thank you for helping us out. All we ask is that you deliver your cargo safely to the manager in charge of this assignment.
+- **7512**: Well, here's another $3, but please be careful not to break this one.
 
 ## Events
 
@@ -122,7 +122,7 @@
   6: 0x0017 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0037
   7: 0x001F [0x6E] EventEntity uses emote 1*
   8: 0x0026 [0x99] Wait for EventEntity animation to complete
-  9: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
+  9: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
     → "Thanks for coming all this way. I'd love to offer you some hospitality, but we'd need to get this frontier station completed first! Could you lend us a hand by signing up for a coalition assignment?"
  10: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x002F [0x03] Work_Zone[1] = 1073741824*
@@ -130,7 +130,7 @@
  13: 0x0037 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x005D
  14: 0x003F [0x42] SET_CLI_EVENT_CANCEL_DATA()
  15: 0x0040 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 16: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
+ 16: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
     → "Thanks so much for delivering this $3! I can't wait to see how this station looks once it's built. If you want, you can go pick up your reward from the manager who gave you this assignment."
  17: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0049 [0x6E] EventEntity uses emote 7*
@@ -139,7 +139,7 @@
  21: 0x005A [0x01] GOTO 0x011A
  22: 0x005D [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0082
  23: 0x0065 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 24: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
+ 24: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
     → "We're glad you tried your best, but destroyed $5 are useless to us. Sorry, but can you pick up another one from the manager in charge?"
  25: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x006E [0x6E] EventEntity uses emote 6*
@@ -147,10 +147,10 @@
  28: 0x007A [0x03] Work_Zone[1] = 1073741824*
  29: 0x007F [0x01] GOTO 0x011A
  30: 0x0082 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x009A
- 31: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
+ 31: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
     → "Welcome to the frontier! This station has already been built, but you can always help construct some bivouacs or keep them supplied."
  32: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
+ 33: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
     → "Frontier stations are self-sufficient, but the bivouacs are sadly not. We'd be extremely appreciative if you could undertake some assignments to make sure they stay in operation."
  34: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0092 [0x03] Work_Zone[1] = 1073741824*
@@ -158,7 +158,7 @@
  37: 0x009A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x00C0
  38: 0x00A2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  39: 0x00A3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 40: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
+ 40: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
     → "Thank you for helping us out. Here's the $3. All we ask is that you take it to the manager in charge of this assignment."
  41: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x00AC [0x6E] EventEntity uses emote 7*
@@ -168,7 +168,7 @@
  46: 0x00C0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x00E6
  47: 0x00C8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  48: 0x00C9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 49: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
+ 49: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
     → "Well, here's another $3, but please be careful not to break this one."
  50: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00D2 [0x6E] EventEntity uses emote 6*
@@ -178,13 +178,13 @@
  55: 0x00E6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0106
  56: 0x00EE [0x6E] EventEntity uses emote 1*
  57: 0x00F5 [0x99] Wait for EventEntity animation to complete
- 58: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
+ 58: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
     → "Hello, there! We have some materials we'd like delivered to town, but we have to go through the right channels. Would you mind undertaking a coalition assignment to transport them back?"
  59: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x00FE [0x03] Work_Zone[1] = 1073741824*
  61: 0x0103 [0x01] GOTO 0x011A
  62: 0x0106 [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x011A
- 63: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
+ 63: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=7511*)
     → "Thank you for helping us out. All we ask is that you deliver your cargo safely to the manager in charge of this assignment."
  64: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0112 [0x03] Work_Zone[1] = 1073741824*

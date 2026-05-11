@@ -32,13 +32,13 @@
 |       0 | 0x0014      |          20 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0015      |          21 |
-|       3 | 0x1C76      |        7286 |
-|       4 | 0x1C77      |        7287 |
+|       3 | 0x1C78      |        7288 |
+|       4 | 0x1C79      |        7289 |
 
 ## String References
 
-- **7286**: In the war twenty years ago, San d'Orian knights crushed the Shadow Lord and his hordes. We sealed off the Northlands from whence he came.
-- **7287**: Eh? Windurst and Bastok? They could barely protect their gates! If it weren't for the valor of our knights, all would have fallen into shadow!
+- **7288**: In the war twenty years ago, San d'Orian knights crushed the Shadow Lord and his hordes. We sealed off the Northlands from whence he came.
+- **7289**: Eh? Windurst and Bastok? They could barely protect their gates! If it weren't for the valor of our knights, all would have fallen into shadow!
 
 ## Events
 
@@ -307,10 +307,10 @@
   1: 0x008F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0090 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0091 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Fantarviont (ID: 17723518/0x010E707E), tag_num=0x01)
-  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7286*)
+  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7288*)
     → "In the war twenty years ago, San d'Orian knights crushed the Shadow Lord and his hordes. We sealed off the Northlands from whence he came."
   5: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7287*)
+  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
     → "Eh? Windurst and Bastok? They could barely protect their gates! If it weren't for the valor of our knights, all would have fallen into shadow!"
   7: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Fantarviont (ID: 17723518/0x010E707E), tag_num=0x02)

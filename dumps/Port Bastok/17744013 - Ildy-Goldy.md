@@ -80,19 +80,19 @@
 |      15 | 0xFFFF581E  |  4294924318 |
 |      16 | 0x8FB2      |       36786 |
 |      17 | 0xFFFF5C51  |  4294925393 |
-|      18 | 0x2182      |        8578 |
-|      19 | 0x2184      |        8580 |
-|      20 | 0x2187      |        8583 |
-|      21 | 0x219A      |        8602 |
-|      22 | 0x219B      |        8603 |
+|      18 | 0x2184      |        8580 |
+|      19 | 0x2186      |        8582 |
+|      20 | 0x2189      |        8585 |
+|      21 | 0x219C      |        8604 |
+|      22 | 0x219D      |        8605 |
 
 ## String References
 
-- **8578**: Hey, Juroro!
-- **8580**: It's been some time since you made that tuning fork. Are you still researching those giant-viant crystals?
-- **8583**: Vhat's wrong vith you? Pull yourself together, man. I don't think the food in this country agrees with you. Or maybe you haven't been getting enough snoozy-vooze time lately?
-- **8602**: Vhen you get back to Vindurst, could you report this to the principal?
-- **8603**: I don't know if Principal Koru-Moru vill remember Uran-Mafran, but it's vorth a shot.
+- **8580**: Hey, Juroro!
+- **8582**: It's been some time since you made that tuning fork. Are you still researching those giant-viant crystals?
+- **8585**: Vhat's wrong vith you? Pull yourself together, man. I don't think the food in this country agrees with you. Or maybe you haven't been getting enough snoozy-vooze time lately?
+- **8604**: Vhen you get back to Vindurst, could you report this to the principal?
+- **8605**: I don't know if Principal Koru-Moru vill remember Uran-Mafran, but it's vorth a shot.
 
 ## Events
 
@@ -1045,7 +1045,7 @@
 #### Opcodes
 
 ```
-  0: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=8578*)
+  0: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=8580*)
     → "Hey, Juroro!"
   1: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x023E [0x00] END_REQSTACK()
@@ -1071,7 +1071,7 @@
 #### Opcodes
 
 ```
-  0: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=8580*)
+  0: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=8582*)
     → "It's been some time since you made that tuning fork. Are you still researching those giant-viant crystals?"
   1: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0243 [0x00] END_REQSTACK()
@@ -1096,7 +1096,7 @@
 #### Opcodes
 
 ```
-  0: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=8583*)
+  0: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=8585*)
     → "Vhat's wrong vith you? Pull yourself together, man. I don't think the food in this country agrees with you. Or maybe you haven't been getting enough snoozy-vooze time lately?"
   1: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0248 [0x00] END_REQSTACK()
@@ -1166,10 +1166,10 @@
 #### Opcodes
 
 ```
-  0: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=8602*)
+  0: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=8604*)
     → "Vhen you get back to Vindurst, could you report this to the principal?"
   1: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=8603*)
+  2: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=8605*)
     → "I don't know if Principal Koru-Moru vill remember Uran-Mafran, but it's vorth a shot."
   3: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0253 [0x00] END_REQSTACK()

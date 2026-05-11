@@ -23,8 +23,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x2AAC      |       10924 |
-|       3 | 0x2AAD      |       10925 |
+|       2 | 0x2AAE      |       10926 |
+|       3 | 0x2AAF      |       10927 |
 
 ## Events
 
@@ -75,10 +75,10 @@
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x6E] EventEntity uses emote 0*
   3: 0x0014 [0x99] Wait for EventEntity animation to complete
-  4: 0x0019 [0x2B] EventEntity [10924*]:
+  4: 0x0019 [0x2B] EventEntity [10926*]:
     → "See? I've got one morrre than you!"
   5: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0021 [0x2B] EventEntity [10925*]:
+  6: 0x0021 [0x2B] EventEntity [10927*]:
     → "Oh, my friend and I are just having a friendly competition to see who can fell the most Yagudo. The loser has to treat the winner to a year's supply of sarrrdines!"
   7: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0029 [0x21] END_EVENT

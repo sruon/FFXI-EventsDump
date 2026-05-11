@@ -24,10 +24,10 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x29E2      |       10722 |
-|       1 | 0x2A1B      |       10779 |
+|       0 | 0x29E4      |       10724 |
+|       1 | 0x2A1D      |       10781 |
 |       2 | 0x0050      |          80 |
-|       3 | 0x2A1C      |       10780 |
+|       3 | 0x2A1E      |       10782 |
 |       4 | 0x0028      |          40 |
 |       5 | 0xFFFFDC49  |  4294958153 |
 |       6 | 0xFFFFE2E6  |  4294959846 |
@@ -35,9 +35,9 @@
 
 ## String References
 
-- **10722**: My mom's the greatest adventurer ever! Every time she comes back, she brings me lots of neat gifts!
-- **10779**: Oh! A prrresent from Mom! Thank you for bringing it!
-- **10780**: Wait, don't go yet! Here, could you give this to Mom? Please?
+- **10724**: My mom's the greatest adventurer ever! Every time she comes back, she brings me lots of neat gifts!
+- **10781**: Oh! A prrresent from Mom! Thank you for bringing it!
+- **10782**: Wait, don't go yet! Here, could you give this to Mom? Please?
 
 ## Events
 
@@ -83,7 +83,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10722*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10724*)
     → "My mom's the greatest adventurer ever! Every time she comes back, she brings me lots of neat gifts!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -114,11 +114,11 @@
   0: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x000E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x000F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=10779*)
+  3: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=10781*)
     → "Oh! A prrresent from Mom! Thank you for bringing it!"
   4: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0018 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=80*
-  6: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=10780*)
+  6: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=10782*)
     → "Wait, don't go yet! Here, could you give this to Mom? Please?"
   7: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x002B [0x21] END_EVENT

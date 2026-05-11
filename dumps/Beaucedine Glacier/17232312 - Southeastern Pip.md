@@ -38,12 +38,12 @@
 |      15 | 0x000F      |          15 |
 |      16 | 0x0078      |         120 |
 |      17 | 0x006F      |         111 |
-|      18 | 0x1D10      |        7440 |
+|      18 | 0x1D12      |        7442 |
 |      19 | 0x003C      |          60 |
 
 ## String References
 
-- **7440**: The mark of [Fire/Earth/Water/Wind/Ice/Lightning/Light/Dark] has been inscribed on your $3!
+- **7442**: The mark of [Fire/Earth/Water/Wind/Ice/Lightning/Light/Dark] has been inscribed on your $3!
 
 ## Events
 
@@ -172,7 +172,7 @@ SUBROUTINE_00A6:
 SUBROUTINE_01E7:
  46: 0x01E7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
  47: 0x01EC [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
- 48: 0x01F1 [0x48] [System] [7440*]:
+ 48: 0x01F1 [0x48] [System] [7442*]:
     → "The mark of [Fire/Earth/Water/Wind/Ice/Lightning/Light/Dark] has been inscribed on your $3!"
  49: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x01F5 [0x8A] CLOSE_MAP()

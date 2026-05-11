@@ -24,154 +24,154 @@
 |       1 | 0x0201      |         513 |
 |       2 | 0x0203      |         515 |
 |       3 | 0x0202      |         514 |
-|       4 | 0x1A37      |        6711 |
-|       5 | 0x1A38      |        6712 |
-|       6 | 0x1A39      |        6713 |
-|       7 | 0x1A3A      |        6714 |
+|       4 | 0x1A39      |        6713 |
+|       5 | 0x1A3A      |        6714 |
+|       6 | 0x1A3B      |        6715 |
+|       7 | 0x1A3C      |        6716 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x003C      |          60 |
-|      10 | 0x1A3B      |        6715 |
-|      11 | 0x1A3C      |        6716 |
-|      12 | 0x1A3D      |        6717 |
-|      13 | 0x1A3E      |        6718 |
-|      14 | 0x1A3F      |        6719 |
-|      15 | 0x1A40      |        6720 |
-|      16 | 0x1A41      |        6721 |
-|      17 | 0x1A42      |        6722 |
-|      18 | 0x1A43      |        6723 |
-|      19 | 0x1A44      |        6724 |
+|      10 | 0x1A3D      |        6717 |
+|      11 | 0x1A3E      |        6718 |
+|      12 | 0x1A3F      |        6719 |
+|      13 | 0x1A40      |        6720 |
+|      14 | 0x1A41      |        6721 |
+|      15 | 0x1A42      |        6722 |
+|      16 | 0x1A43      |        6723 |
+|      17 | 0x1A44      |        6724 |
+|      18 | 0x1A45      |        6725 |
+|      19 | 0x1A46      |        6726 |
 |      20 | 0x0001      |           1 |
-|      21 | 0x1A45      |        6725 |
-|      22 | 0x1A47      |        6727 |
-|      23 | 0x1A48      |        6728 |
-|      24 | 0x1A49      |        6729 |
-|      25 | 0x1A4A      |        6730 |
-|      26 | 0x1A4B      |        6731 |
-|      27 | 0x1A4C      |        6732 |
-|      28 | 0x1A4D      |        6733 |
-|      29 | 0x1A4E      |        6734 |
+|      21 | 0x1A47      |        6727 |
+|      22 | 0x1A49      |        6729 |
+|      23 | 0x1A4A      |        6730 |
+|      24 | 0x1A4B      |        6731 |
+|      25 | 0x1A4C      |        6732 |
+|      26 | 0x1A4D      |        6733 |
+|      27 | 0x1A4E      |        6734 |
+|      28 | 0x1A4F      |        6735 |
+|      29 | 0x1A50      |        6736 |
 |      30 | 0x0002      |           2 |
-|      31 | 0x1A4F      |        6735 |
-|      32 | 0x1A50      |        6736 |
-|      33 | 0x1A51      |        6737 |
+|      31 | 0x1A51      |        6737 |
+|      32 | 0x1A52      |        6738 |
+|      33 | 0x1A53      |        6739 |
 |      34 | 0x0003      |           3 |
-|      35 | 0x1A52      |        6738 |
-|      36 | 0x1A53      |        6739 |
-|      37 | 0x1A54      |        6740 |
-|      38 | 0x1A55      |        6741 |
-|      39 | 0x1A46      |        6726 |
-|      40 | 0x1A56      |        6742 |
-|      41 | 0x1A57      |        6743 |
-|      42 | 0x1A58      |        6744 |
-|      43 | 0x1A59      |        6745 |
-|      44 | 0x1A5A      |        6746 |
-|      45 | 0x1A5B      |        6747 |
-|      46 | 0x1A5C      |        6748 |
-|      47 | 0x1A5D      |        6749 |
-|      48 | 0x1A5E      |        6750 |
-|      49 | 0x1A5F      |        6751 |
-|      50 | 0x1A60      |        6752 |
-|      51 | 0x1A61      |        6753 |
-|      52 | 0x1A62      |        6754 |
-|      53 | 0x1A63      |        6755 |
-|      54 | 0x1A64      |        6756 |
-|      55 | 0x1A65      |        6757 |
-|      56 | 0x1A66      |        6758 |
-|      57 | 0x1A67      |        6759 |
-|      58 | 0x1A68      |        6760 |
+|      35 | 0x1A54      |        6740 |
+|      36 | 0x1A55      |        6741 |
+|      37 | 0x1A56      |        6742 |
+|      38 | 0x1A57      |        6743 |
+|      39 | 0x1A48      |        6728 |
+|      40 | 0x1A58      |        6744 |
+|      41 | 0x1A59      |        6745 |
+|      42 | 0x1A5A      |        6746 |
+|      43 | 0x1A5B      |        6747 |
+|      44 | 0x1A5C      |        6748 |
+|      45 | 0x1A5D      |        6749 |
+|      46 | 0x1A5E      |        6750 |
+|      47 | 0x1A5F      |        6751 |
+|      48 | 0x1A60      |        6752 |
+|      49 | 0x1A61      |        6753 |
+|      50 | 0x1A62      |        6754 |
+|      51 | 0x1A63      |        6755 |
+|      52 | 0x1A64      |        6756 |
+|      53 | 0x1A65      |        6757 |
+|      54 | 0x1A66      |        6758 |
+|      55 | 0x1A67      |        6759 |
+|      56 | 0x1A68      |        6760 |
+|      57 | 0x1A69      |        6761 |
+|      58 | 0x1A6A      |        6762 |
 |      59 | 0x0004      |           4 |
-|      60 | 0x1A69      |        6761 |
-|      61 | 0x1A6A      |        6762 |
-|      62 | 0x1A6B      |        6763 |
-|      63 | 0x1A6C      |        6764 |
-|      64 | 0x1A6D      |        6765 |
+|      60 | 0x1A6B      |        6763 |
+|      61 | 0x1A6C      |        6764 |
+|      62 | 0x1A6D      |        6765 |
+|      63 | 0x1A6E      |        6766 |
+|      64 | 0x1A6F      |        6767 |
 |      65 | 0x0005      |           5 |
-|      66 | 0x1A6E      |        6766 |
-|      67 | 0x1A6F      |        6767 |
-|      68 | 0x1A70      |        6768 |
-|      69 | 0x1A71      |        6769 |
-|      70 | 0x1A72      |        6770 |
-|      71 | 0x1A73      |        6771 |
-|      72 | 0x1A74      |        6772 |
-|      73 | 0x1A75      |        6773 |
+|      66 | 0x1A70      |        6768 |
+|      67 | 0x1A71      |        6769 |
+|      68 | 0x1A72      |        6770 |
+|      69 | 0x1A73      |        6771 |
+|      70 | 0x1A74      |        6772 |
+|      71 | 0x1A75      |        6773 |
+|      72 | 0x1A76      |        6774 |
+|      73 | 0x1A77      |        6775 |
 |      74 | 0x0006      |           6 |
-|      75 | 0x1A76      |        6774 |
-|      76 | 0x1A77      |        6775 |
-|      77 | 0x1A78      |        6776 |
+|      75 | 0x1A78      |        6776 |
+|      76 | 0x1A79      |        6777 |
+|      77 | 0x1A7A      |        6778 |
 |      78 | 0xFFFFFFFF  |  4294967295 |
-|      79 | 0x1A79      |        6777 |
-|      80 | 0x1A7A      |        6778 |
+|      79 | 0x1A7B      |        6779 |
+|      80 | 0x1A7C      |        6780 |
 
 ## String References
 
-- **6711**: (...Yeah, that's what I said!)
-- **6712**: (But you know what? Oh, wait. Hold on...)
-- **6713**: I'm sorry, can I help you?
-- **6714**: <Player> points to the item in %'s hand.
-- **6715**: Oh, this? It's a magical shell called $1.
-- **6716**: You want to know about $1? Let me tell you all about them!
-- **6717**: What do you want to ask? [What's $1?/What types of $1 are there?/How do you use them?/Never mind.]
-- **6718**: These magic shells are full of mysteries...
-- **6719**: You can get beautiful pearls from them. Some say these are some new form of shall shells, but...
-- **6720**: Even if you take out a pearl, they make more and more of them. Strange, isn't it?
-- **6721**: What's more strange is that pearls taken from the same shell actually transmit sound, no matter how far apart they are!
-- **6722**: So, if you speak into one of the pearls, people who hold other pearls or the shell they were made from can hear you!
-- **6723**: It's as if they were linked by an invisible thread... Huh. I guess that's why they have "link" in their names.
-- **6724**: So anyway, the shells are called $1, and the pearls $2.
-- **6725**: There are also different types of $1.
-- **6726**: Is there anything else you want to know?
-- **6727**: What do you want to ask about? [%./$1./$2./$3./Back.]
-- **6728**: % are $1 when you first buy them at the store.
-- **6729**: Once opened, they start making $2 and become the communications tool everyone's using.
-- **6730**: You can set the color and name of your $1 when you open it. Make sure to set the ones you like because you can't change them afterwards!
-- **6731**: $1 are $0 that have been opened and function as a communications tool.
-- **6732**: You can make $2 and $3 from those shells. They're like the party leader of an adventuring party.
-- **6733**: All items created by your $1 retain the $1's color and name.
-- **6734**: Make the name something unique so that it's easy to remember.
-- **6735**: $2 are pearls that $1 make.
-- **6736**: If you equip one, you can communicate with people who have the same $2 and the $1 they were made from.
-- **6737**: They're like the party members in an adventuring party.
-- **6738**: $3 is a bag full of $2. You can make one by metamorphosing a $2 for that purpose.
-- **6739**: It won't have all the features of $1, but you can take out an endless amount of $2 like $1.
-- **6740**: You have to use $1 to make $3. The same goes if you want to turn it back into $2.
-- **6741**: They're like the party leaders of an alliance of adventuring parties...
-- **6742**: You want to know how to use them? Where should I start?
-- **6743**: What do you want to know about? [Where to get one./Assigning a color and name./Making $2./Equipping them./Speaking into them./Metamorphosing $2./Throwing them away./Back.]
-- **6744**: You can buy $1 in shops. They're a little pricey, though.
-- **6745**: It might be best if you ask friends who want pearls to chip in.
-- **6746**: A freshly bought $0 has neither a color nor a name.
-- **6747**: $1 becomes usable only after you've chosen its color and given it a name. Then you can use it to make $2.
-- **6748**: You can combine different amounts of blue, red, and green to make your shell's color. You can only use alphabet letters for the name, but you can use capital and lowercase letters anywhere you want.
-- **6749**: $2 are made from $1.
-- **6750**: Making them is easy. Just equip your $1, then go to "Linkshell" in the menu and select "Create Pearl"!
-- **6751**: All $2 made this way retain the $1's color and name, so it's easy to tell who can hear you!
-- **6752**: You can make as many $2 as you want, whenever you want, so don't worry about making too many of them!
-- **6753**: You can also make $2 with $3 the same way.
-- **6754**: Oh, and...you use your $1 to make $3, too, but it's a little complicated so I'll tell you later.
-- **6755**: You have to equip $1 for it to have any effect.
-- **6756**: Go to "Linkshell" from the menu, choose the $1 you want to equip, and you're all ready to go.
-- **6757**: It's a little different from equipping weapons and armor.
-- **6758**: After you've done this, an icon that represents what you've equipped will appear beside your name. This is where the color you chose becomes visible.
-- **6759**: If someone "checks" you in this state, they will be able to see the name of the $1 you have on.
-- **6760**: Follow the same steps to equip $2 and $3.
-- **6761**: To speak into $1, change your chat mode to "linkshell," and whatever you say will be heard by everyone who has the same "link."
-- **6762**: You can also type "/linkshell" and type your message. The shorter version is "/l" (lowercase "L" for "linkshell").
-- **6763**: Ah, but of course, you have to have $1, $2, or $3 equipped first.
-- **6764**: Whatever you say will only be heard by people who have the $1, $2, or $3 with the same link.
-- **6765**: So if you want to stop listening to your link, all you have to do is unequip your $1, $2, or $3.
-- **6766**: $1 can metamorphose other people's $2 and $3. Of course, it can only affect those that were made from the same $1.
-- **6767**: There are two types of metamorphoses, which are: 1: Make into sack / Make into pearl 2: Kick.
-- **6768**: Both need the target $2 or $3 to be equipped at the time.
-- **6769**: "Make into sack / Make into pearl" makes the target $2 into $3 and vice-versa.
-- **6770**: It's useful if you want someone else to take care of handing out $2 in your place.
-- **6771**: "Kick" actually breaks the link with the target $2 or $3 and turns it into junk.
-- **6772**: Once kicked, the $2 will become broken and unusable... Only use this in extreme cases!
-- **6773**: $3 can also be used to "kick" but they can only affect $2.
-- **6774**: $1, $2, and $3 are normal items, so they can be thrown away easily.
-- **6775**: But as normal items, you'll lose them permanently if you throw them away.
-- **6776**: It won't really matter if it's $2, but throwing away $1 is not a good idea!
-- **6777**: Oh, are you sure? Well, if you ever have any questions about $1 you know where to find me!
-- **6778**: (So anyway, as I was saying...)
+- **6713**: (...Yeah, that's what I said!)
+- **6714**: (But you know what? Oh, wait. Hold on...)
+- **6715**: I'm sorry, can I help you?
+- **6716**: <Player> points to the item in %'s hand.
+- **6717**: Oh, this? It's a magical shell called $1.
+- **6718**: You want to know about $1? Let me tell you all about them!
+- **6719**: What do you want to ask? [What's $1?/What types of $1 are there?/How do you use them?/Never mind.]
+- **6720**: These magic shells are full of mysteries...
+- **6721**: You can get beautiful pearls from them. Some say these are some new form of shall shells, but...
+- **6722**: Even if you take out a pearl, they make more and more of them. Strange, isn't it?
+- **6723**: What's more strange is that pearls taken from the same shell actually transmit sound, no matter how far apart they are!
+- **6724**: So, if you speak into one of the pearls, people who hold other pearls or the shell they were made from can hear you!
+- **6725**: It's as if they were linked by an invisible thread... Huh. I guess that's why they have "link" in their names.
+- **6726**: So anyway, the shells are called $1, and the pearls $2.
+- **6727**: There are also different types of $1.
+- **6728**: Is there anything else you want to know?
+- **6729**: What do you want to ask about? [%./$1./$2./$3./Back.]
+- **6730**: % are $1 when you first buy them at the store.
+- **6731**: Once opened, they start making $2 and become the communications tool everyone's using.
+- **6732**: You can set the color and name of your $1 when you open it. Make sure to set the ones you like because you can't change them afterwards!
+- **6733**: $1 are $0 that have been opened and function as a communications tool.
+- **6734**: You can make $2 and $3 from those shells. They're like the party leader of an adventuring party.
+- **6735**: All items created by your $1 retain the $1's color and name.
+- **6736**: Make the name something unique so that it's easy to remember.
+- **6737**: $2 are pearls that $1 make.
+- **6738**: If you equip one, you can communicate with people who have the same $2 and the $1 they were made from.
+- **6739**: They're like the party members in an adventuring party.
+- **6740**: $3 is a bag full of $2. You can make one by metamorphosing a $2 for that purpose.
+- **6741**: It won't have all the features of $1, but you can take out an endless amount of $2 like $1.
+- **6742**: You have to use $1 to make $3. The same goes if you want to turn it back into $2.
+- **6743**: They're like the party leaders of an alliance of adventuring parties...
+- **6744**: You want to know how to use them? Where should I start?
+- **6745**: What do you want to know about? [Where to get one./Assigning a color and name./Making $2./Equipping them./Speaking into them./Metamorphosing $2./Throwing them away./Back.]
+- **6746**: You can buy $1 in shops. They're a little pricey, though.
+- **6747**: It might be best if you ask friends who want pearls to chip in.
+- **6748**: A freshly bought $0 has neither a color nor a name.
+- **6749**: $1 becomes usable only after you've chosen its color and given it a name. Then you can use it to make $2.
+- **6750**: You can combine different amounts of blue, red, and green to make your shell's color. You can only use alphabet letters for the name, but you can use capital and lowercase letters anywhere you want.
+- **6751**: $2 are made from $1.
+- **6752**: Making them is easy. Just equip your $1, then go to "Linkshell" in the menu and select "Create Pearl"!
+- **6753**: All $2 made this way retain the $1's color and name, so it's easy to tell who can hear you!
+- **6754**: You can make as many $2 as you want, whenever you want, so don't worry about making too many of them!
+- **6755**: You can also make $2 with $3 the same way.
+- **6756**: Oh, and...you use your $1 to make $3, too, but it's a little complicated so I'll tell you later.
+- **6757**: You have to equip $1 for it to have any effect.
+- **6758**: Go to "Linkshell" from the menu, choose the $1 you want to equip, and you're all ready to go.
+- **6759**: It's a little different from equipping weapons and armor.
+- **6760**: After you've done this, an icon that represents what you've equipped will appear beside your name. This is where the color you chose becomes visible.
+- **6761**: If someone "checks" you in this state, they will be able to see the name of the $1 you have on.
+- **6762**: Follow the same steps to equip $2 and $3.
+- **6763**: To speak into $1, change your chat mode to "linkshell," and whatever you say will be heard by everyone who has the same "link."
+- **6764**: You can also type "/linkshell" and type your message. The shorter version is "/l" (lowercase "L" for "linkshell").
+- **6765**: Ah, but of course, you have to have $1, $2, or $3 equipped first.
+- **6766**: Whatever you say will only be heard by people who have the $1, $2, or $3 with the same link.
+- **6767**: So if you want to stop listening to your link, all you have to do is unequip your $1, $2, or $3.
+- **6768**: $1 can metamorphose other people's $2 and $3. Of course, it can only affect those that were made from the same $1.
+- **6769**: There are two types of metamorphoses, which are: 1: Make into sack / Make into pearl 2: Kick.
+- **6770**: Both need the target $2 or $3 to be equipped at the time.
+- **6771**: "Make into sack / Make into pearl" makes the target $2 into $3 and vice-versa.
+- **6772**: It's useful if you want someone else to take care of handing out $2 in your place.
+- **6773**: "Kick" actually breaks the link with the target $2 or $3 and turns it into junk.
+- **6774**: Once kicked, the $2 will become broken and unusable... Only use this in extreme cases!
+- **6775**: $3 can also be used to "kick" but they can only affect $2.
+- **6776**: $1, $2, and $3 are normal items, so they can be thrown away easily.
+- **6777**: But as normal items, you'll lose them permanently if you throw them away.
+- **6778**: It won't really matter if it's $2, but throwing away $1 is not a good idea!
+- **6779**: Oh, are you sure? Well, if you ever have any questions about $1 you know where to find me!
+- **6780**: (So anyway, as I was saying...)
 
 ## Events
 
@@ -265,120 +265,120 @@
   3: 0x0011 [0x03] Work_Zone[5] = 514*
   4: 0x0016 [0x4A] LocalPlayer looks at EventEntity
   5: 0x001F [0x79] LocalPlayer looks at EventEntity (Basic look)
-  6: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=6711*)
+  6: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=6713*)
     → "(...Yeah, that's what I said!)"
   7: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x002D [0x79] EventEntity looks at LocalPlayer (Basic look)
-  9: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=6712*)
+  9: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=6714*)
     → "(But you know what? Oh, wait. Hold on...)"
  10: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x003B [0x4A] EventEntity looks at LocalPlayer
- 12: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=6713*)
+ 12: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=6715*)
     → "I'm sorry, can I help you?"
  13: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0048 [0x48] [System] [6714*]:
+ 14: 0x0048 [0x48] [System] [6716*]:
     → "<Player> points to the item in %'s hand."
  15: 0x004B [0x6E] LocalPlayer uses emote 0*
  16: 0x0052 [0x99] Wait for LocalPlayer animation to complete
  17: 0x0057 [0x1C] WAIT(60* ticks)
- 18: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=6715*)
+ 18: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=6717*)
     → "Oh, this? It's a magical shell called $1."
  19: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=6716*)
+ 20: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=6718*)
     → "You want to know about $1? Let me tell you all about them!"
  21: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0062 [0x06] ExtData[1]->WorkLocal[0] = 0
  23: 0x0065 [0x06] ExtData[1]->WorkLocal[1] = 0
  24: 0x0068 [0x02] IF !(ExtData[1]->WorkLocal[0] < 0*) GOTO 0x0238
- 25: 0x0070 [0x24] CREATE_DIALOG(message_id=6717*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
+ 25: 0x0070 [0x24] CREATE_DIALOG(message_id=6719*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
     → "What do you want to ask? [What's $1?/What types of $1 are there?/How do you use them?/Never mind.]"
  26: 0x0077 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0078 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009F
- 28: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=6718*)
+ 28: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=6720*)
     → "These magic shells are full of mysteries..."
  29: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=6719*)
+ 30: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=6721*)
     → "You can get beautiful pearls from them. Some say these are some new form of shall shells, but..."
  31: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=6720*)
+ 32: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=6722*)
     → "Even if you take out a pearl, they make more and more of them. Strange, isn't it?"
  33: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=6721*)
+ 34: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=6723*)
     → "What's more strange is that pearls taken from the same shell actually transmit sound, no matter how far apart they are!"
  35: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=6722*)
+ 36: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=6724*)
     → "So, if you speak into one of the pearls, people who hold other pearls or the shell they were made from can hear you!"
  37: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=6723*)
+ 38: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=6725*)
     → "It's as if they were linked by an invisible thread... Huh. I guess that's why they have "link" in their names."
  39: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=6724*)
+ 40: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=6726*)
     → "So anyway, the shells are called $1, and the pearls $2."
  41: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x009C [0x01] GOTO 0x0235
  43: 0x009F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0133
  44: 0x00A7 [0x03] ExtData[1]->WorkLocal[0] = 1*
- 45: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=6725*)
+ 45: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=6727*)
     → "There are also different types of $1."
  46: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00B0:
  47: 0x00B0 [0x02] IF !(ExtData[1]->WorkLocal[0] < 1*) GOTO 0x0130
- 48: 0x00B8 [0x24] CREATE_DIALOG(message_id=6727*, default_option=0*, option_flags=0*)
+ 48: 0x00B8 [0x24] CREATE_DIALOG(message_id=6729*, default_option=0*, option_flags=0*)
     → "What do you want to ask about? [%./$1./$2./$3./Back.]"
  49: 0x00BF [0x25] WAIT_DIALOG_SELECT()
  50: 0x00C0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D7
- 51: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6728*)
+ 51: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6730*)
     → "% are $1 when you first buy them at the store."
  52: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=6729*)
+ 53: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=6731*)
     → "Once opened, they start making $2 and become the communications tool everyone's using."
  54: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6730*)
+ 55: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6732*)
     → "You can set the color and name of your $1 when you open it. Make sure to set the ones you like because you can't change them afterwards!"
  56: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x00D4 [0x01] GOTO 0x012D
  58: 0x00D7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00F2
- 59: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=6731*)
+ 59: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=6733*)
     → "$1 are $0 that have been opened and function as a communications tool."
  60: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6732*)
+ 61: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6734*)
     → "You can make $2 and $3 from those shells. They're like the party leader of an adventuring party."
  62: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6733*)
+ 63: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6735*)
     → "All items created by your $1 retain the $1's color and name."
  64: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=6734*)
+ 65: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=6736*)
     → "Make the name something unique so that it's easy to remember."
  66: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x00EF [0x01] GOTO 0x012D
  68: 0x00F2 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0109
- 69: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=6735*)
+ 69: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=6737*)
     → "$2 are pearls that $1 make."
  70: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=6736*)
+ 71: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=6738*)
     → "If you equip one, you can communicate with people who have the same $2 and the $1 they were made from."
  72: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x0102 [0x1D] PRINT_EVENT_MESSAGE(message_id=6737*)
+ 73: 0x0102 [0x1D] PRINT_EVENT_MESSAGE(message_id=6739*)
     → "They're like the party members in an adventuring party."
  74: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0106 [0x01] GOTO 0x012D
  76: 0x0109 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0124
- 77: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=6738*)
+ 77: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=6740*)
     → "$3 is a bag full of $2. You can make one by metamorphosing a $2 for that purpose."
  78: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=6739*)
+ 79: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=6741*)
     → "It won't have all the features of $1, but you can take out an endless amount of $2 like $1."
  80: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=6740*)
+ 81: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=6742*)
     → "You have to use $1 to make $3. The same goes if you want to turn it back into $2."
  82: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=6741*)
+ 83: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=6743*)
     → "They're like the party leaders of an alliance of adventuring parties..."
  84: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0121 [0x01] GOTO 0x012D
  86: 0x0124 [0x03] ExtData[1]->WorkLocal[0] = 0*
- 87: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=6726*)
+ 87: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=6728*)
     → "Is there anything else you want to know?"
  88: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -387,125 +387,125 @@ SUBROUTINE_012D:
  90: 0x0130 [0x01] GOTO 0x0235
  91: 0x0133 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0230
  92: 0x013B [0x03] ExtData[1]->WorkLocal[0] = 1*
- 93: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=6742*)
+ 93: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=6744*)
     → "You want to know how to use them? Where should I start?"
  94: 0x0143 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0144:
  95: 0x0144 [0x02] IF !(ExtData[1]->WorkLocal[0] < 1*) GOTO 0x022D
- 96: 0x014C [0x24] CREATE_DIALOG(message_id=6743*, default_option=0*, option_flags=0*)
+ 96: 0x014C [0x24] CREATE_DIALOG(message_id=6745*, default_option=0*, option_flags=0*)
     → "What do you want to know about? [Where to get one./Assigning a color and name./Making $2./Equipping them./Speaking into them./Metamorphosing $2./Throwing them away./Back.]"
  97: 0x0153 [0x25] WAIT_DIALOG_SELECT()
  98: 0x0154 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0167
- 99: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=6744*)
+ 99: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=6746*)
     → "You can buy $1 in shops. They're a little pricey, though."
 100: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
-101: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=6745*)
+101: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=6747*)
     → "It might be best if you ask friends who want pearls to chip in."
 102: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0164 [0x01] GOTO 0x022A
 104: 0x0167 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x017E
-105: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=6746*)
+105: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=6748*)
     → "A freshly bought $0 has neither a color nor a name."
 106: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=6747*)
+107: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=6749*)
     → "$1 becomes usable only after you've chosen its color and given it a name. Then you can use it to make $2."
 108: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
-109: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=6748*)
+109: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=6750*)
     → "You can combine different amounts of blue, red, and green to make your shell's color. You can only use alphabet letters for the name, but you can use capital and lowercase letters anywhere you want."
 110: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x017B [0x01] GOTO 0x022A
 112: 0x017E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01A1
-113: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=6749*)
+113: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=6751*)
     → "$2 are made from $1."
 114: 0x0189 [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=6750*)
+115: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=6752*)
     → "Making them is easy. Just equip your $1, then go to "Linkshell" in the menu and select "Create Pearl"!"
 116: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
-117: 0x018E [0x1D] PRINT_EVENT_MESSAGE(message_id=6751*)
+117: 0x018E [0x1D] PRINT_EVENT_MESSAGE(message_id=6753*)
     → "All $2 made this way retain the $1's color and name, so it's easy to tell who can hear you!"
 118: 0x0191 [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=6752*)
+119: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=6754*)
     → "You can make as many $2 as you want, whenever you want, so don't worry about making too many of them!"
 120: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=6753*)
+121: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=6755*)
     → "You can also make $2 with $3 the same way."
 122: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
-123: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=6754*)
+123: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=6756*)
     → "Oh, and...you use your $1 to make $3, too, but it's a little complicated so I'll tell you later."
 124: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x019E [0x01] GOTO 0x022A
 126: 0x01A1 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x01C4
-127: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6755*)
+127: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6757*)
     → "You have to equip $1 for it to have any effect."
 128: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=6756*)
+129: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=6758*)
     → "Go to "Linkshell" from the menu, choose the $1 you want to equip, and you're all ready to go."
 130: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6757*)
+131: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6759*)
     → "It's a little different from equipping weapons and armor."
 132: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-133: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6758*)
+133: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6760*)
     → "After you've done this, an icon that represents what you've equipped will appear beside your name. This is where the color you chose becomes visible."
 134: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-135: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6759*)
+135: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6761*)
     → "If someone "checks" you in this state, they will be able to see the name of the $1 you have on."
 136: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-137: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=6760*)
+137: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=6762*)
     → "Follow the same steps to equip $2 and $3."
 138: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x01C1 [0x01] GOTO 0x022A
 140: 0x01C4 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x01E3
-141: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=6761*)
+141: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=6763*)
     → "To speak into $1, change your chat mode to "linkshell," and whatever you say will be heard by everyone who has the same "link.""
 142: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6762*)
+143: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6764*)
     → "You can also type "/linkshell" and type your message. The shorter version is "/l" (lowercase "L" for "linkshell")."
 144: 0x01D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-145: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6763*)
+145: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6765*)
     → "Ah, but of course, you have to have $1, $2, or $3 equipped first."
 146: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-147: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6764*)
+147: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6766*)
     → "Whatever you say will only be heard by people who have the $1, $2, or $3 with the same link."
 148: 0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-149: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=6765*)
+149: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=6767*)
     → "So if you want to stop listening to your link, all you have to do is unequip your $1, $2, or $3."
 150: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x01E0 [0x01] GOTO 0x022A
 152: 0x01E3 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x020E
-153: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=6766*)
+153: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=6768*)
     → "$1 can metamorphose other people's $2 and $3. Of course, it can only affect those that were made from the same $1."
 154: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
-155: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=6767*)
+155: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=6769*)
     → "There are two types of metamorphoses, which are: 1: Make into sack / Make into pearl 2: Kick."
 156: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-157: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6768*)
+157: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6770*)
     → "Both need the target $2 or $3 to be equipped at the time."
 158: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-159: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6769*)
+159: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6771*)
     → ""Make into sack / Make into pearl" makes the target $2 into $3 and vice-versa."
 160: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-161: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=6770*)
+161: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=6772*)
     → "It's useful if you want someone else to take care of handing out $2 in your place."
 162: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-163: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=6771*)
+163: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=6773*)
     → ""Kick" actually breaks the link with the target $2 or $3 and turns it into junk."
 164: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
-165: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=6772*)
+165: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=6774*)
     → "Once kicked, the $2 will become broken and unusable... Only use this in extreme cases!"
 166: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
-167: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=6773*)
+167: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=6775*)
     → "$3 can also be used to "kick" but they can only affect $2."
 168: 0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x020B [0x01] GOTO 0x022A
 170: 0x020E [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0225
-171: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=6774*)
+171: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=6776*)
     → "$1, $2, and $3 are normal items, so they can be thrown away easily."
 172: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
-173: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=6775*)
+173: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=6777*)
     → "But as normal items, you'll lose them permanently if you throw them away."
 174: 0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
-175: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=6776*)
+175: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=6778*)
     → "It won't really matter if it's $2, but throwing away $1 is not a good idea!"
 176: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0222 [0x01] GOTO 0x022A
@@ -518,10 +518,10 @@ SUBROUTINE_022A:
 
 SUBROUTINE_0235:
 182: 0x0235 [0x01] GOTO 0x0068
-183: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=6777*)
+183: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=6779*)
     → "Oh, are you sure? Well, if you ever have any questions about $1 you know where to find me!"
 184: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
-185: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=6778*)
+185: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=6780*)
     → "(So anyway, as I was saying...)"
 186: 0x023F [0x21] END_EVENT
 187: 0x0240 [0x00] END_REQSTACK()

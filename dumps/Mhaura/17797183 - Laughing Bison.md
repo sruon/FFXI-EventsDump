@@ -23,17 +23,17 @@
 |       0 | 0x0090      |         144 |
 |       1 | 0x003C      |          60 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1C66      |        7270 |
-|       4 | 0x1C65      |        7269 |
-|       5 | 0x1C68      |        7272 |
-|       6 | 0x1C67      |        7271 |
+|       3 | 0x1C68      |        7272 |
+|       4 | 0x1C67      |        7271 |
+|       5 | 0x1C6A      |        7274 |
+|       6 | 0x1C69      |        7273 |
 
 ## String References
 
-- **7269**: The ship bound for Selbina will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
-- **7270**: The ship bound for Selbina is now [arriving/departing].
-- **7271**: The ship bound for Al Zahbi will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
-- **7272**: The ship bound for Al Zahbi is now [arriving/departing].
+- **7271**: The ship bound for Selbina will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+- **7272**: The ship bound for Selbina is now [arriving/departing].
+- **7273**: The ship bound for Al Zahbi will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+- **7274**: The ship bound for Al Zahbi is now [arriving/departing].
 
 ## Events
 
@@ -87,22 +87,22 @@
   2: 0x000B [0x15] Work_Zone[2] /= 60*
   3: 0x0010 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x002E
   4: 0x0018 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0027
-  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
+  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7272*)
     → "The ship bound for Selbina is now [arriving/departing]."
   6: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0024 [0x01] GOTO 0x002B
-  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
+  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
     → "The ship bound for Selbina will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time)."
   9: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_002B:
  10: 0x002B [0x01] GOTO 0x0041
  11: 0x002E [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x003D
- 12: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7272*)
+ 12: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
     → "The ship bound for Al Zahbi is now [arriving/departing]."
  13: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x003A [0x01] GOTO 0x0041
- 15: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
+ 15: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7273*)
     → "The ship bound for Al Zahbi will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time)."
  16: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

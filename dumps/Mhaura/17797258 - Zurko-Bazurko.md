@@ -40,55 +40,55 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1E9F      |        7839 |
+|       1 | 0x1EA1      |        7841 |
 |       2 | 0x0876      |        2166 |
-|       3 | 0x1EA0      |        7840 |
+|       3 | 0x1EA2      |        7842 |
 |       4 | 0x0031      |          49 |
-|       5 | 0x1EA1      |        7841 |
-|       6 | 0x1EA2      |        7842 |
-|       7 | 0x1EA3      |        7843 |
+|       5 | 0x1EA3      |        7843 |
+|       6 | 0x1EA4      |        7844 |
+|       7 | 0x1EA5      |        7845 |
 |       8 | 0x0000      |           0 |
-|       9 | 0x1EDD      |        7901 |
-|      10 | 0x1EA5      |        7845 |
+|       9 | 0x1EDF      |        7903 |
+|      10 | 0x1EA7      |        7847 |
 |      11 | 0x0003      |           3 |
 |      12 | 0x0078      |         120 |
 |      13 | 0x0001      |           1 |
-|      14 | 0x1EE2      |        7906 |
-|      15 | 0x1EA6      |        7846 |
-|      16 | 0x1EA7      |        7847 |
-|      17 | 0x1EA8      |        7848 |
-|      18 | 0x1EA9      |        7849 |
+|      14 | 0x1EE4      |        7908 |
+|      15 | 0x1EA8      |        7848 |
+|      16 | 0x1EA9      |        7849 |
+|      17 | 0x1EAA      |        7850 |
+|      18 | 0x1EAB      |        7851 |
 |      19 | 0x0022      |          34 |
-|      20 | 0x1EAA      |        7850 |
-|      21 | 0x1EAB      |        7851 |
-|      22 | 0x1EAC      |        7852 |
-|      23 | 0x1EAD      |        7853 |
-|      24 | 0x1EAE      |        7854 |
-|      25 | 0x1EA4      |        7844 |
-|      26 | 0x1EAF      |        7855 |
-|      27 | 0x1EB0      |        7856 |
-|      28 | 0x1EB1      |        7857 |
-|      29 | 0x1EB2      |        7858 |
-|      30 | 0x1EB3      |        7859 |
-|      31 | 0x1EB4      |        7860 |
-|      32 | 0x1EB5      |        7861 |
-|      33 | 0x1EB6      |        7862 |
-|      34 | 0x1EB7      |        7863 |
-|      35 | 0x1F14      |        7956 |
+|      20 | 0x1EAC      |        7852 |
+|      21 | 0x1EAD      |        7853 |
+|      22 | 0x1EAE      |        7854 |
+|      23 | 0x1EAF      |        7855 |
+|      24 | 0x1EB0      |        7856 |
+|      25 | 0x1EA6      |        7846 |
+|      26 | 0x1EB1      |        7857 |
+|      27 | 0x1EB2      |        7858 |
+|      28 | 0x1EB3      |        7859 |
+|      29 | 0x1EB4      |        7860 |
+|      30 | 0x1EB5      |        7861 |
+|      31 | 0x1EB6      |        7862 |
+|      32 | 0x1EB7      |        7863 |
+|      33 | 0x1EB8      |        7864 |
+|      34 | 0x1EB9      |        7865 |
+|      35 | 0x1F16      |        7958 |
 |      36 | 0x0A0D      |        2573 |
-|      37 | 0x1F11      |        7953 |
-|      38 | 0x1F12      |        7954 |
-|      39 | 0x1F13      |        7955 |
-|      40 | 0x1F15      |        7957 |
+|      37 | 0x1F13      |        7955 |
+|      38 | 0x1F14      |        7956 |
+|      39 | 0x1F15      |        7957 |
+|      40 | 0x1F17      |        7959 |
 
 ## String References
 
-- **7860**: These dazzling runey-wunes attract so many adoring fans that the Zurk can barely keep count! Have you come for an autograph?
-- **7861**: Some food from Adoulin? Let the Zurk get a tastey-waste of that...
-- **7862**: <Mmmf> Anastase'sth granddaughter made sucth a <smack> delectable treataru? Thith is so divine that the Zurk might <burp> grathe her with the boon of hith thmile when he gets back <gulp>.
-- **7863**: Ahhh...that really hit the spotaru! Tell Anastase that his star pupil is proceeding swimmingly with his studies of the runic-wunic arts--and that the waypointarus are fine, too.
-- **7901**: Record this fount? [Yes./No.]
-- **7906**: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
+- **7862**: These dazzling runey-wunes attract so many adoring fans that the Zurk can barely keep count! Have you come for an autograph?
+- **7863**: Some food from Adoulin? Let the Zurk get a tastey-waste of that...
+- **7864**: <Mmmf> Anastase'sth granddaughter made sucth a <smack> delectable treataru? Thith is so divine that the Zurk might <burp> grathe her with the boon of hith thmile when he gets back <gulp>.
+- **7865**: Ahhh...that really hit the spotaru! Tell Anastase that his star pupil is proceeding swimmingly with his studies of the runic-wunic arts--and that the waypointarus are fine, too.
+- **7903**: Record this fount? [Yes./No.]
+- **7908**: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
 
 ## Events
 
@@ -137,7 +137,7 @@
   0: 0x0001 [0x4A] LocalPlayer looks at Zurko-Bazurko (ID: 17797258/0x010F908A)
   1: 0x000A [0x1C] WAIT(20* ticks)
   2: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0012 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7839*]:
+  3: 0x0012 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7841*]:
     → "Feast your eyes upon me, the master-waster of a thousand runes, straightaru from the alleys of Adoulin! The one, the only, Zurko-Bazurko!"
   4: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001A [0x21] END_EVENT
@@ -186,28 +186,28 @@
   1: 0x0025 [0x1C] WAIT(20* ticks)
   2: 0x0028 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x002D [0x03] Work_Zone[2] = 2166*
-  4: 0x0032 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7840*]:
+  4: 0x0032 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7842*]:
     → "Huhn huhhhn. Of course a wimp like you would want to come bask in the radiance of a living-wiving legend like the Zurk. Do you want his autograph as--whoa-ho, is that $6?"
   5: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x003A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zurko-Bazurko (ID: 17797258/0x010F908A), Zurko-Bazurko (ID: 17797258/0x010F908A)], work=49*
-  7: 0x0049 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7841*]:
+  7: 0x0049 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7843*]:
     → "Ah, so you're the greenhorn Anastase was flip-flapping about."
   8: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0051 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7842*]:
+  9: 0x0051 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7844*]:
     → "Don't get your pantaloons in a bunchy-wunch. The Zurk's already found the geomagnetic field you're looking for. How? Because he's perfection incarnate."
  10: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0059 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zurko-Bazurko (ID: 17797258/0x010F908A), Zurko-Bazurko (ID: 17797258/0x010F908A)], work=49*
- 12: 0x0068 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7843*]:
+ 12: 0x0068 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7845*]:
     → "So, you gonna attune that thing to this spotaru or what?"
  13: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0070 [0x03] Work_Zone[1] = 0*
- 15: 0x0075 [0x24] CREATE_DIALOG(message_id=7901*, default_option=0*, option_flags=0*)
+ 15: 0x0075 [0x24] CREATE_DIALOG(message_id=7903*, default_option=0*, option_flags=0*)
     → "Record this fount? [Yes./No.]"
  16: 0x007C [0x25] WAIT_DIALOG_SELECT()
  17: 0x007D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012E
  18: 0x0085 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  19: 0x0086 [0x03] Work_Zone[2] = 2166*
- 20: 0x008B [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7845*]:
+ 20: 0x008B [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7847*]:
     → "The obvious choice, but the Zurk abides. Now put your $3 on the ground here and wait for the action-waction to unfold."
  21: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0093 [0x6E] LocalPlayer uses emote 3*
@@ -216,45 +216,45 @@
  25: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00A3 [0x03] Work_Zone[3] = 2166*
  27: 0x00A8 [0x03] Work_Zone[2] = 1*
- 28: 0x00AD [0x48] [System] [7906*]:
+ 28: 0x00AD [0x48] [System] [7908*]:
     → "Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!"
  29: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00B1 [0x03] Work_Zone[1] = 1*
- 31: 0x00B6 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7846*]:
+ 31: 0x00B6 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7848*]:
     → "Since you've travel-waveled from Jeuno, you've already attuned your stuff to there, right?"
  32: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x00BE [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7847*]:
+ 33: 0x00BE [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7849*]:
     → "Don't worry about the Mhaura end of this waypoint, the Zurk's got you covered. Use it to your heart's contentaru."
  34: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00C6 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7848*]:
+ 35: 0x00C6 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7850*]:
     → "The floating contraption-waption of infinite wonder inside is where the real magic happens."
  36: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x00CE [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7849*]:
+ 37: 0x00CE [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7851*]:
     → "Of course, no mere mortal could understand the complex configurations of this waypointaru. That's why the Zurk, also known throughout Adoulin as the Second Coming of the Occult, will condescend to--"
  38: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00D6 [0x6E] LocalPlayer uses emote 34*
  40: 0x00DD [0x99] Wait for LocalPlayer animation to complete
  41: 0x00E2 [0x1C] WAIT(120* ticks)
- 42: 0x00E5 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7850*]:
+ 42: 0x00E5 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7852*]:
     → "What!? Master Anastase wants a reportaru from the Zurk!?"
  43: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00ED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Zurko-Bazurko (ID: 17797258/0x010F908A), Zurko-Bazurko (ID: 17797258/0x010F908A)], work=49*
- 45: 0x00FC [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7851*]:
+ 45: 0x00FC [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7853*]:
     → "Everyone knows you're not supposed to interruptaru the hero during his speech! What a terrible sense of timing you have."
  46: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x0104 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7852*]:
+ 47: 0x0104 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7854*]:
     → "Now that you've killed the moment...um...this waypoint isn't up to snuffy-wuff yet, so..."
  48: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x010C [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7853*]:
+ 49: 0x010C [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7855*]:
     → "Just tell him that the Zurk's employing every onz of his decisiveness, determination, and most importantly, his daring-waring to save the day!"
  50: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0114 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Zurko-Bazurko (ID: 17797258/0x010F908A), Zurko-Bazurko (ID: 17797258/0x010F908A)], work=49*
- 52: 0x0123 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7854*]:
+ 52: 0x0123 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7856*]:
     → "Also be sure to mention that the slightest-wightest disruption in the Zurk's concentration can resultaru in Vana'diel's complete decimation...so he won't be making any reports for a while."
  53: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x012B [0x01] GOTO 0x0143
  55: 0x012E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0143
- 56: 0x0136 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7844*]:
+ 56: 0x0136 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7846*]:
     → "Ohoho, the Zurk likes your style, adventurer. He can always sympathize with those who like to defy fate. The Zurk himself doesn't play by anyone's rulesy-wules...not even his own."
  57: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x013E [0x21] END_EVENT
@@ -300,7 +300,7 @@ SUBROUTINE_0143:
   2: 0x0151 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0156 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [Zurko-Bazurko (ID: 17797258/0x010F908A), Zurko-Bazurko (ID: 17797258/0x010F908A)], work=49*
   4: 0x0165 [0x1C] WAIT(120* ticks)
-  5: 0x0168 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7855*]:
+  5: 0x0168 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7857*]:
     → "The fate of the world hangs in the balance, understand!? You're to report that the Zurk is on a mission of the most epic-wepic proportions for the good of all mankind. There is no other option."
   6: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0170 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [Zurko-Bazurko (ID: 17797258/0x010F908A), Zurko-Bazurko (ID: 17797258/0x010F908A)], work=49*
@@ -333,7 +333,7 @@ SUBROUTINE_0143:
   0: 0x0185 [0x4A] LocalPlayer looks at Zurko-Bazurko (ID: 17797258/0x010F908A)
   1: 0x018E [0x1C] WAIT(20* ticks)
   2: 0x0191 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0196 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7856*]:
+  3: 0x0196 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7858*]:
     → "Hnnng! The Zurk can feel it! The rune from which his unfathomable powers derive is about to eruptaru! Must...suppress...its eldritch-weldritch energy! The prophesied time...is yet to come!"
   4: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x019E [0x21] END_EVENT
@@ -365,10 +365,10 @@ SUBROUTINE_0143:
   1: 0x01A1 [0x4A] LocalPlayer looks at Zurko-Bazurko (ID: 17797258/0x010F908A)
   2: 0x01AA [0x1C] WAIT(20* ticks)
   3: 0x01AD [0x1E] EventEntity looks at LocalPlayer and starts talking
-  4: 0x01B2 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7857*]:
+  4: 0x01B2 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7859*]:
     → "Wh-whatever can this be...!? From an obsidian-widian darkness flows a malicious outpouring of flavor that assaultarus the tongue with an overpowering sweetness!"
   5: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01BA [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7858*]:
+  6: 0x01BA [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7860*]:
     → "Hmph, your naivety amuses me. No matter how much you whine, the Zurk cannot return what has willingly given-wiven itself up to his soul!"
   7: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01C2 [0x21] END_EVENT
@@ -400,13 +400,13 @@ SUBROUTINE_0143:
   1: 0x01C5 [0x4A] LocalPlayer looks at Zurko-Bazurko (ID: 17797258/0x010F908A)
   2: 0x01CE [0x1C] WAIT(20* ticks)
   3: 0x01D1 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  4: 0x01D6 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7857*]:
+  4: 0x01D6 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7859*]:
     → "Wh-whatever can this be...!? From an obsidian-widian darkness flows a malicious outpouring of flavor that assaultarus the tongue with an overpowering sweetness!"
   5: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01DE [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7858*]:
+  6: 0x01DE [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7860*]:
     → "Hmph, your naivety amuses me. No matter how much you whine, the Zurk cannot return what has willingly given-wiven itself up to his soul!"
   7: 0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01E6 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7859*]:
+  8: 0x01E6 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7861*]:
     → "Those eyes brimming with tears of desire! Only a complete coward would actually exploit an adversary's weakness! Here, take this confection and departaru from the Zurk's presence! You disgust him!"
   9: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01EE [0x21] END_EVENT
@@ -437,7 +437,7 @@ SUBROUTINE_0143:
   1: 0x01F1 [0x4A] LocalPlayer looks at Zurko-Bazurko (ID: 17797258/0x010F908A)
   2: 0x01FA [0x1C] WAIT(20* ticks)
   3: 0x01FD [0x1E] EventEntity looks at LocalPlayer and starts talking
-  4: 0x0202 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7859*]:
+  4: 0x0202 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7861*]:
     → "Those eyes brimming with tears of desire! Only a complete coward would actually exploit an adversary's weakness! Here, take this confection and departaru from the Zurk's presence! You disgust him!"
   5: 0x0209 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x020A [0x21] END_EVENT
@@ -467,16 +467,16 @@ SUBROUTINE_0143:
 ```
   0: 0x020C [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x020D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
+  2: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
     → "These dazzling runey-wunes attract so many adoring fans that the Zurk can barely keep count! Have you come for an autograph?"
   3: 0x0215 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
+  4: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
     → "Some food from Adoulin? Let the Zurk get a tastey-waste of that..."
   5: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
+  6: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
     → "<Mmmf> Anastase'sth granddaughter made sucth a <smack> delectable treataru? Thith is so divine that the Zurk might <burp> grathe her with the boon of hith thmile when he gets back <gulp>."
   7: 0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+  8: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
     → "Ahhh...that really hit the spotaru! Tell Anastase that his star pupil is proceeding swimmingly with his studies of the runic-wunic arts--and that the waypointarus are fine, too."
   9: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0222 [0x03] Work_Zone[1] = 1*
@@ -705,7 +705,7 @@ SUBROUTINE_0143:
   0: 0x0232 [0x4A] LocalPlayer looks at Zurko-Bazurko (ID: 17797258/0x010F908A)
   1: 0x023B [0x1C] WAIT(20* ticks)
   2: 0x023E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0243 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7956*]:
+  3: 0x0243 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7958*]:
     → "The Zurk goes easy-weasy on no one! Not even the tiniest of tots!"
   4: 0x024A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x024B [0x21] END_EVENT
@@ -738,13 +738,13 @@ SUBROUTINE_0143:
   1: 0x0256 [0x1C] WAIT(20* ticks)
   2: 0x0259 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x025E [0x03] Work_Zone[2] = 2573*
-  4: 0x0263 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7953*]:
+  4: 0x0263 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7955*]:
     → "Never before had the Zurk foughtaru someone worthy enough to receive the mighty benediction by $3. He shall treat this fortuity with due gravitas."
   5: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x026B [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7954*]:
+  6: 0x026B [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7956*]:
     → "Do not mishear, for the Zurk has not been deterred in the slightaruest! He shall forge-worge ahead down his own, as you shall do the same with yours."
   7: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0273 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7955*]:
+  8: 0x0273 [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7957*]:
     → "May the runes be with you."
   9: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x027B [0x21] END_EVENT
@@ -775,7 +775,7 @@ SUBROUTINE_0143:
   0: 0x027D [0x4A] LocalPlayer looks at Zurko-Bazurko (ID: 17797258/0x010F908A)
   1: 0x0286 [0x1C] WAIT(20* ticks)
   2: 0x0289 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x028E [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7957*]:
+  3: 0x028E [0x2B] Zurko-Bazurko (ID: 17797258/0x010F908A) [7959*]:
     → "So the Zurk's main rival-wival is back for a lesson in rune engraving?"
   4: 0x0295 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0296 [0x21] END_EVENT

@@ -42,7 +42,7 @@
 |       0 | 0x00C8      |         200 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0002      |           2 |
-|       3 | 0x1DB1      |        7601 |
+|       3 | 0x1DB3      |        7603 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x008C      |         140 |
 |       6 | 0x003C      |          60 |
@@ -50,22 +50,22 @@
 |       8 | 0x0010      |          16 |
 |       9 | 0x001F      |          31 |
 |      10 | 0xFFFFFFFF  |  4294967295 |
-|      11 | 0x1DB7      |        7607 |
-|      12 | 0x1DA9      |        7593 |
+|      11 | 0x1DB9      |        7609 |
+|      12 | 0x1DAB      |        7595 |
 |      13 | 0x0005      |           5 |
 |      14 | 0x0003      |           3 |
 |      15 | 0x0004      |           4 |
-|      16 | 0x1C3C      |        7228 |
+|      16 | 0x1C3E      |        7230 |
 |      17 | 0x00FF      |         255 |
 |      18 | 0x0013      |          19 |
 |      19 | 0x0008      |           8 |
 |      20 | 0x0009      |           9 |
 |      21 | 0x000B      |          11 |
-|      22 | 0x1C47      |        7239 |
-|      23 | 0x1C48      |        7240 |
-|      24 | 0x1C49      |        7241 |
-|      25 | 0x1C4A      |        7242 |
-|      26 | 0x1C6E      |        7278 |
+|      22 | 0x1C49      |        7241 |
+|      23 | 0x1C4A      |        7242 |
+|      24 | 0x1C4B      |        7243 |
+|      25 | 0x1C4C      |        7244 |
+|      26 | 0x1C70      |        7280 |
 |      27 | 0x0006      |           6 |
 |      28 | 0x0007      |           7 |
 |      29 | 0x000A      |          10 |
@@ -85,16 +85,16 @@
 |      43 | 0x001C      |          28 |
 |      44 | 0x001D      |          29 |
 |      45 | 0x001E      |          30 |
-|      46 | 0x1DA3      |        7587 |
-|      47 | 0x1DA8      |        7592 |
-|      48 | 0x1DA7      |        7591 |
-|      49 | 0x1DB5      |        7605 |
-|      50 | 0x1DB4      |        7604 |
+|      46 | 0x1DA5      |        7589 |
+|      47 | 0x1DAA      |        7594 |
+|      48 | 0x1DA9      |        7593 |
+|      49 | 0x1DB7      |        7607 |
+|      50 | 0x1DB6      |        7606 |
 |      51 | 0x0064      |         100 |
-|      52 | 0x1D8F      |        7567 |
+|      52 | 0x1D91      |        7569 |
 |      53 | 0x00C1      |         193 |
 |      54 | 0x002F      |          47 |
-|      55 | 0x1C3F      |        7231 |
+|      55 | 0x1C41      |        7233 |
 |      56 | 0x00C9      |         201 |
 |      57 | 0x4E220     |      320032 |
 |      58 | 0xFFFFD377  |  4294955895 |
@@ -183,11 +183,11 @@
 |     141 | 0x8FE5      |       36837 |
 |     142 | 0x02A1      |         673 |
 |     143 | 0x0024      |          36 |
-|     144 | 0x1D91      |        7569 |
-|     145 | 0x1D90      |        7568 |
-|     146 | 0x1DB3      |        7603 |
-|     147 | 0x1D93      |        7571 |
-|     148 | 0x1D92      |        7570 |
+|     144 | 0x1D93      |        7571 |
+|     145 | 0x1D92      |        7570 |
+|     146 | 0x1DB5      |        7605 |
+|     147 | 0x1D95      |        7573 |
+|     148 | 0x1D94      |        7572 |
 |     149 | 0xFFF810CC  |  4294447308 |
 |     150 | 0x5081      |       20609 |
 |     151 | 0xFFFFED72  |  4294962546 |
@@ -215,13 +215,13 @@
 |     173 | 0x0380      |         896 |
 |     174 | 0x03C6      |         966 |
 |     175 | 0x0142      |         322 |
-|     176 | 0x1E95      |        7829 |
-|     177 | 0x1E96      |        7830 |
-|     178 | 0x1E97      |        7831 |
-|     179 | 0x1E98      |        7832 |
-|     180 | 0x1E99      |        7833 |
-|     181 | 0x1E9A      |        7834 |
-|     182 | 0x1E9B      |        7835 |
+|     176 | 0x1E97      |        7831 |
+|     177 | 0x1E98      |        7832 |
+|     178 | 0x1E99      |        7833 |
+|     179 | 0x1E9A      |        7834 |
+|     180 | 0x1E9B      |        7835 |
+|     181 | 0x1E9C      |        7836 |
+|     182 | 0x1E9D      |        7837 |
 |     183 | 0x005A      |          90 |
 |     184 | 0x06A5      |        1701 |
 |     185 | 0x933E      |       37694 |
@@ -234,8 +234,8 @@
 |     192 | 0x0A0E      |        2574 |
 |     193 | 0x005D      |          93 |
 |     194 | 0x01CC      |         460 |
-|     195 | 0x1EC7      |        7879 |
-|     196 | 0x1EC8      |        7880 |
+|     195 | 0x1EC9      |        7881 |
+|     196 | 0x1ECA      |        7882 |
 |     197 | 0x002D      |          45 |
 |     198 | 0x074D      |        1869 |
 |     199 | 0xFFFA7837  |  4294604855 |
@@ -257,11 +257,11 @@
 |     215 | 0x0381      |         897 |
 |     216 | 0x0478      |        1144 |
 |     217 | 0x007A      |         122 |
-|     218 | 0x1E9C      |        7836 |
-|     219 | 0x1E9D      |        7837 |
-|     220 | 0x1E9E      |        7838 |
-|     221 | 0x1E9F      |        7839 |
-|     222 | 0x1EA0      |        7840 |
+|     218 | 0x1E9E      |        7838 |
+|     219 | 0x1E9F      |        7839 |
+|     220 | 0x1EA0      |        7840 |
+|     221 | 0x1EA1      |        7841 |
+|     222 | 0x1EA2      |        7842 |
 |     223 | 0x0187      |         391 |
 |     224 | 0xFFFA84F0  |  4294608112 |
 |     225 | 0x0417      |        1047 |
@@ -290,8 +290,8 @@
 |     248 | 0xFFFFF4BC  |  4294964412 |
 |     249 | 0xFFFA8599  |  4294608281 |
 |     250 | 0x0379      |         889 |
-|     251 | 0x1EA1      |        7841 |
-|     252 | 0x1C3D      |        7229 |
+|     251 | 0x1EA3      |        7843 |
+|     252 | 0x1C3F      |        7231 |
 |     253 | 0x00DE      |         222 |
 |     254 | 0xFFFA1D66  |  4294581606 |
 |     255 | 0x042D      |        1069 |
@@ -308,41 +308,41 @@
 |     266 | 0x004F      |          79 |
 |     267 | 0x00D2      |         210 |
 |     268 | 0x0096      |         150 |
-|     269 | 0x1DBA      |        7610 |
-|     270 | 0x1DBB      |        7611 |
-|     271 | 0x1DBC      |        7612 |
-|     272 | 0x1DBD      |        7613 |
-|     273 | 0x1DBE      |        7614 |
-|     274 | 0x1DBF      |        7615 |
-|     275 | 0x1DC0      |        7616 |
-|     276 | 0x1DC1      |        7617 |
-|     277 | 0x1DC2      |        7618 |
-|     278 | 0x1DC3      |        7619 |
-|     279 | 0x1DC4      |        7620 |
-|     280 | 0x1DC5      |        7621 |
-|     281 | 0x1DC6      |        7622 |
-|     282 | 0x1DC7      |        7623 |
-|     283 | 0x1DC8      |        7624 |
-|     284 | 0x1DC9      |        7625 |
+|     269 | 0x1DBC      |        7612 |
+|     270 | 0x1DBD      |        7613 |
+|     271 | 0x1DBE      |        7614 |
+|     272 | 0x1DBF      |        7615 |
+|     273 | 0x1DC0      |        7616 |
+|     274 | 0x1DC1      |        7617 |
+|     275 | 0x1DC2      |        7618 |
+|     276 | 0x1DC3      |        7619 |
+|     277 | 0x1DC4      |        7620 |
+|     278 | 0x1DC5      |        7621 |
+|     279 | 0x1DC6      |        7622 |
+|     280 | 0x1DC7      |        7623 |
+|     281 | 0x1DC8      |        7624 |
+|     282 | 0x1DC9      |        7625 |
+|     283 | 0x1DCA      |        7626 |
+|     284 | 0x1DCB      |        7627 |
 |     285 | 0x00F0      |         240 |
-|     286 | 0x1DCA      |        7626 |
+|     286 | 0x1DCC      |        7628 |
 |     287 | 0x0050      |          80 |
-|     288 | 0x1DCB      |        7627 |
+|     288 | 0x1DCD      |        7629 |
 |     289 | 0x002B      |          43 |
 |     290 | 0x0037      |          55 |
-|     291 | 0x1DCC      |        7628 |
-|     292 | 0x1DCD      |        7629 |
-|     293 | 0x1DCE      |        7630 |
-|     294 | 0x1DCF      |        7631 |
+|     291 | 0x1DCE      |        7630 |
+|     292 | 0x1DCF      |        7631 |
+|     293 | 0x1DD0      |        7632 |
+|     294 | 0x1DD1      |        7633 |
 |     295 | 0x00F7      |         247 |
-|     296 | 0x1E0A      |        7690 |
+|     296 | 0x1E0C      |        7692 |
 |     297 | 0x864D      |       34381 |
 |     298 | 0x56DF      |       22239 |
 |     299 | 0x055C      |        1372 |
 |     300 | 0x0BF7      |        3063 |
 |     301 | 0x6A00      |       27136 |
-|     302 | 0x1DD0      |        7632 |
-|     303 | 0x1DD1      |        7633 |
+|     302 | 0x1DD2      |        7634 |
+|     303 | 0x1DD3      |        7635 |
 |     304 | 0x004B      |          75 |
 |     305 | 0x00A0      |         160 |
 |     306 | 0x0046      |          70 |
@@ -353,30 +353,30 @@
 
 ## String References
 
-- **7228**: Enter the battlefield? [Enter./Decline.]
-- **7229**: Leave the battlefield? [Run away./Stay.]
-- **7231**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7239**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7240**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7230**: Enter the battlefield? [Enter./Decline.]
+- **7231**: Leave the battlefield? [Run away./Stay.]
+- **7233**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7241**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7242**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7278**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7567**: Skip the event? [Yes./No.]
-- **7568**: Battlefield clear time: $3 second[/s]!
-- **7569**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7570**: The current battlefield clear time record is $3 second[/s].
-- **7571**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7587**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7591**: That record is held by $5 adventurers, including %0!
-- **7592**: That record is held by %0!
-- **7593**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7601**: Step into the circle? [Yes./No.]
-- **7603**: You have broken the clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]"!
-- **7604**: The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]" is $3 second[/s].
-- **7605**: The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]" is $3 minute[/s] $2 second[/s].
-- **7607**: Which battlefield will you enter? [None./Return to Delkfutt's Tower./The Indomitable Triumvirate (vs. 3!)/The Dauntless Duo (vs. 2!)/The Solitary Demolisher (vs. 1!)/Heroine's Combat./Mercenary Camp./Ode of Life Bestowing./$26Return to Delkfutt's Tower./True Love./A Fond Farewell./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
-- **7690**: The $3 begins to resonate with the door.
-- **7841**: @@
+- **7243**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7244**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7280**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7569**: Skip the event? [Yes./No.]
+- **7570**: Battlefield clear time: $3 second[/s]!
+- **7571**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7572**: The current battlefield clear time record is $3 second[/s].
+- **7573**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7589**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7593**: That record is held by $5 adventurers, including %0!
+- **7594**: That record is held by %0!
+- **7595**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7603**: Step into the circle? [Yes./No.]
+- **7605**: You have broken the clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]"!
+- **7606**: The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]" is $3 second[/s].
+- **7607**: The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]" is $3 minute[/s] $2 second[/s].
+- **7609**: Which battlefield will you enter? [None./Return to Delkfutt's Tower./The Indomitable Triumvirate (vs. 3!)/The Dauntless Duo (vs. 2!)/The Solitary Demolisher (vs. 1!)/Heroine's Combat./Mercenary Camp./Ode of Life Bestowing./$26Return to Delkfutt's Tower./True Love./A Fond Farewell./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
+- **7692**: The $3 begins to resonate with the door.
+- **7843**: @@
 
 ## Events
 
@@ -481,7 +481,7 @@
 
 ```
   0: 0x0034 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0036 [0x24] CREATE_DIALOG(message_id=7601*, default_option=1*, option_flags=0*)
+  1: 0x0036 [0x24] CREATE_DIALOG(message_id=7603*, default_option=1*, option_flags=0*)
     → "Step into the circle? [Yes./No.]"
   2: 0x003D [0x25] WAIT_DIALOG_SELECT()
   3: 0x003E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0077
@@ -526,7 +526,7 @@ SUBROUTINE_0082:
 
 ```
   0: 0x0086 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0088 [0x24] CREATE_DIALOG(message_id=7601*, default_option=1*, option_flags=0*)
+  1: 0x0088 [0x24] CREATE_DIALOG(message_id=7603*, default_option=1*, option_flags=0*)
     → "Step into the circle? [Yes./No.]"
   2: 0x008F [0x25] WAIT_DIALOG_SELECT()
   3: 0x0090 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C9
@@ -715,7 +715,7 @@ SUBROUTINE_00D4:
  13: 0x0124 [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0129 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x012E [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x0133 [0x24] CREATE_DIALOG(message_id=7607*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x0133 [0x24] CREATE_DIALOG(message_id=7609*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Return to Delkfutt's Tower./The Indomitable Triumvirate (vs. 3!)/The Dauntless Duo (vs. 2!)/The Solitary Demolisher (vs. 1!)/Heroine's Combat./Mercenary Camp./Ode of Life Bestowing./$26Return to Delkfutt's Tower./True Love./A Fond Farewell./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]"
  17: 0x013A [0x25] WAIT_DIALOG_SELECT()
  18: 0x013B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0149
@@ -728,7 +728,7 @@ SUBROUTINE_0175:
 
 SUBROUTINE_0186:
  23: 0x0186 [0x1A] CALL_SUBROUTINE(address=0x1D6C)
- 24: 0x0189 [0x24] CREATE_DIALOG(message_id=7593*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x0189 [0x24] CREATE_DIALOG(message_id=7595*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x0190 [0x25] WAIT_DIALOG_SELECT()
  26: 0x0191 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A1
@@ -754,7 +754,7 @@ SUBROUTINE_01F4:
  44: 0x01F7 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x01FA [0x1A] CALL_SUBROUTINE(address=0x0936)
  46: 0x01FD [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x021B
- 47: 0x0205 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+ 47: 0x0205 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x020C [0x25] WAIT_DIALOG_SELECT()
  49: 0x020D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x021B
@@ -803,22 +803,22 @@ SUBROUTINE_027A:
  86: 0x02E8 [0x01] GOTO 0x08D2
  87: 0x02EB [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0335
  88: 0x02F3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0302
- 89: 0x02FB [0x48] [System] [7239*]:
+ 89: 0x02FB [0x48] [System] [7241*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x02FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x02FF [0x01] GOTO 0x032F
  92: 0x0302 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0311
- 93: 0x030A [0x48] [System] [7240*]:
+ 93: 0x030A [0x48] [System] [7242*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x030E [0x01] GOTO 0x032F
  96: 0x0311 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0320
- 97: 0x0319 [0x48] [System] [7241*]:
+ 97: 0x0319 [0x48] [System] [7243*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x031C [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x031D [0x01] GOTO 0x032F
 100: 0x0320 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x032F
-101: 0x0328 [0x48] [System] [7242*]:
+101: 0x0328 [0x48] [System] [7244*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x032B [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x032C [0x01] GOTO 0x032F
@@ -827,7 +827,7 @@ SUBROUTINE_032F:
 104: 0x032F [0x01] GOTO 0x08E9
 
 SUBROUTINE_053F:
-105: 0x053F [0x48] [System] [7587*]:
+105: 0x053F [0x48] [System] [7589*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x0542 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0543 [0x01] GOTO 0x08E9
@@ -839,24 +839,24 @@ SUBROUTINE_059C:
 111: 0x05AC [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x05C7
 112: 0x05B4 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x05BB [0x15] Work_Zone[5] /= 60*
-114: 0x05C0 [0x48] [System] [7605*]:
+114: 0x05C0 [0x48] [System] [7607*]:
     → "The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]" is $3 minute[/s] $2 second[/s]."
 115: 0x05C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x05C4 [0x01] GOTO 0x05CB
-117: 0x05C7 [0x48] [System] [7604*]:
+117: 0x05C7 [0x48] [System] [7606*]:
     → "The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]" is $3 second[/s]."
 118: 0x05CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_05CB:
 119: 0x05CB [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x05DA
-120: 0x05D3 [0x48] [System] [7592*]:
+120: 0x05D3 [0x48] [System] [7594*]:
     → "That record is held by %0!"
 121: 0x05D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x05D7 [0x01] GOTO 0x05EB
 123: 0x05DA [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x05DF [0x0C] Work_Zone[6]--
 125: 0x05E2 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x05E7 [0x48] [System] [7591*]:
+126: 0x05E7 [0x48] [System] [7593*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x05EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -872,7 +872,7 @@ SUBROUTINE_05EB:
 SUBROUTINE_060F:
 135: 0x060F [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0635
 136: 0x0617 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0635
-137: 0x061F [0x24] CREATE_DIALOG(message_id=7567*, default_option=1*, option_flags=0*)
+137: 0x061F [0x24] CREATE_DIALOG(message_id=7569*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0626 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0627 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0635
@@ -1020,7 +1020,7 @@ SUBROUTINE_08D2:
 269: 0x08D5 [0x02] IF !(0* == 1*) GOTO 0x08E2
 270: 0x08DD [0x03] ExtData[1]->WorkLocal[0] = 4*
 271: 0x08E2 [0x01] GOTO 0x027A
-272: 0x08E5 [0x48] [System] [7231*]:
+272: 0x08E5 [0x48] [System] [7233*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 273: 0x08E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1394,7 +1394,7 @@ SUBROUTINE_0D36:
  87: 0x0D41 [0x01] GOTO 0x0D5F
  88: 0x0D44 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0E0F
  89: 0x0D4C [0x1C] WAIT(15* ticks)
- 90: 0x0D4F [0x24] CREATE_DIALOG(message_id=7567*, default_option=1*, option_flags=0*)
+ 90: 0x0D4F [0x24] CREATE_DIALOG(message_id=7569*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  91: 0x0D56 [0x25] WAIT_DIALOG_SELECT()
  92: 0x0D57 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E0F
@@ -1469,18 +1469,18 @@ SUBROUTINE_0E5C:
 147: 0x0E95 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0EB0
 148: 0x0E9D [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 149: 0x0EA4 [0x15] Work_Zone[5] /= 60*
-150: 0x0EA9 [0x48] [System] [7569*]:
+150: 0x0EA9 [0x48] [System] [7571*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 151: 0x0EAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x0EAD [0x01] GOTO 0x0EB4
-153: 0x0EB0 [0x48] [System] [7568*]:
+153: 0x0EB0 [0x48] [System] [7570*]:
     → "Battlefield clear time: $3 second[/s]!"
 154: 0x0EB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0EB4:
 155: 0x0EB4 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0EC8
 156: 0x0EBC [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-157: 0x0EC1 [0x48] [System] [7603*]:
+157: 0x0EC1 [0x48] [System] [7605*]:
     → "You have broken the clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]"!"
 158: 0x0EC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0EC5 [0x01] GOTO 0x0EF1
@@ -1488,12 +1488,12 @@ SUBROUTINE_0EB4:
 161: 0x0ED0 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 162: 0x0ED5 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 163: 0x0EDC [0x15] Work_Zone[5] /= 60*
-164: 0x0EE1 [0x48] [System] [7571*]:
+164: 0x0EE1 [0x48] [System] [7573*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 165: 0x0EE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0EE5 [0x01] GOTO 0x0EF1
 167: 0x0EE8 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-168: 0x0EED [0x48] [System] [7570*]:
+168: 0x0EED [0x48] [System] [7572*]:
     → "The current battlefield clear time record is $3 second[/s]."
 169: 0x0EF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1953,7 +1953,7 @@ SUBROUTINE_10CE:
  76: 0x1111 [0x00] END_REQSTACK()
 
 SUBROUTINE_1C06:
- 77: 0x1C06 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
+ 77: 0x1C06 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
  78: 0x1C0D [0x25] WAIT_DIALOG_SELECT()
  79: 0x1C0E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C1C
@@ -1993,7 +1993,7 @@ SUBROUTINE_1C21:
 
 ```
 # Dead code (unreachable instructions):
-     0x1112 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+     0x1112 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x1119 [0x25] WAIT_DIALOG_SELECT()
      0x111A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1128
@@ -2088,32 +2088,32 @@ SUBROUTINE_1C21:
      0x13CE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "nj00" with entities [Najelith (ID: 17510729/0x010B3149), Najelith (ID: 17510729/0x010B3149)], work=966*
      0x13DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gl00" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
      0x13EE [0x1A] CALL_SUBROUTINE(address=0x1DDE)
-     0x13F1 [0x2B] Rughadjeen (ID: 17510725/0x010B3145) [7829*]:
+     0x13F1 [0x2B] Rughadjeen (ID: 17510725/0x010B3145) [7831*]:
     → "Greetings, and welcome to the Serpent Camp for Mercenaries. I'll be your head instructor, Counselor Rughadjeen."
      0x13F8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "gl00" with entities [LocalPlayer, LocalPlayer], work=322*
      0x1407 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gg00" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
-     0x1418 [0x2B] Gadalar (ID: 17510726/0x010B3146) [7830*]:
+     0x1418 [0x2B] Gadalar (ID: 17510726/0x010B3146) [7832*]:
     → "Hm? What's with the shocked silence? You know what you're here for, don't you?"
      0x141F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "gg00" with entities [LocalPlayer, LocalPlayer], work=322*
      0x142E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gn00" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
-     0x143F [0x2B] Najelith (ID: 17510729/0x010B3149) [7831*]:
+     0x143F [0x2B] Najelith (ID: 17510729/0x010B3149) [7833*]:
     → "Well, of course they don't! No one ever takes the time to explain anything, they just issue orders! I'm Counselor Najelith, and I'll be assisting with your combat training."
      0x1446 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "gn00" with entities [LocalPlayer, LocalPlayer], work=322*
      0x1455 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gz00" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
-     0x1466 [0x2B] Zazarg (ID: 17510728/0x010B3148) [7832*]:
+     0x1466 [0x2B] Zazarg (ID: 17510728/0x010B3148) [7834*]:
     → "Bah, you're too soft on 'em. You won't have that luxury on the battlefield!"
      0x146D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "gz00" with entities [LocalPlayer, LocalPlayer], work=322*
      0x147C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gm00" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
-     0x148D [0x2B] Mihli Aliapoh (ID: 17510727/0x010B3147) [7833*]:
+     0x148D [0x2B] Mihli Aliapoh (ID: 17510727/0x010B3147) [7835*]:
     → "They won't be around for long anyway. Not against the five of us!"
      0x1494 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "gm00" with entities [LocalPlayer, LocalPlayer], work=322*
      0x14A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga01" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
      0x14B4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "war1" with entities [Rughadjeen (ID: 17510725/0x010B3145), Rughadjeen (ID: 17510725/0x010B3145)], work=888*
-     0x14C3 [0x2B] Rughadjeen (ID: 17510725/0x010B3145) [7834*]:
+     0x14C3 [0x2B] Rughadjeen (ID: 17510725/0x010B3145) [7836*]:
     → "You may know us as the Serpent Generals, but today we are..."
      0x14CA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "ga01" with entities [LocalPlayer, LocalPlayer], work=322*
      0x14D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga00" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
-     0x14EA [0x2B] Serpent Generals (ID: 17510724/0x010B3144) [7835*]:
+     0x14EA [0x2B] Serpent Generals (ID: 17510724/0x010B3144) [7837*]:
     → "The Serpent Camp Counselors!"
      0x14F1 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [Unnamed NPC (ID: 17510723/0x010B3143), Unnamed NPC (ID: 17510723/0x010B3143)], work=[8*, 0*]
      0x1502 [0x1C] WAIT(20* ticks)
@@ -2170,13 +2170,13 @@ SUBROUTINE_1C21:
      0x168C [0x1A] CALL_SUBROUTINE(address=0x1E20)
      0x168F [0x1C] WAIT(60* ticks)
      0x1692 [0x27] REQ_SET(priority=0x10, entity_id=Seed Crystal (ID: 17510734/0x010B314E), tag_num=0x18)
-     0x1699 [0x2B] Seed Crystal (ID: 17510734/0x010B314E) [7879*]:
+     0x1699 [0x2B] Seed Crystal (ID: 17510734/0x010B314E) [7881*]:
     → "Come, my children..."
      0x16A0 [0x1C] WAIT(120* ticks)
      0x16A3 [0x52] END_LOAD_SCHEDULER: End scheduler "190d" with entities [LocalPlayer, LocalPlayer], work=460*
      0x16B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "190e" with entities [LocalPlayer, LocalPlayer], work=[460*, 0*]
      0x16C3 [0x27] REQ_SET(priority=0x10, entity_id=Seed Crystal (ID: 17510734/0x010B314E), tag_num=0x18)
-     0x16CA [0x2B] Seed Crystal (ID: 17510734/0x010B314E) [7880*]:
+     0x16CA [0x2B] Seed Crystal (ID: 17510734/0x010B314E) [7882*]:
     → "Embrace your return to the void that birthed you."
      0x16D1 [0x1C] WAIT(60* ticks)
      0x16D4 [0x1A] CALL_SUBROUTINE(address=0x1E41)
@@ -2282,24 +2282,24 @@ SUBROUTINE_1C21:
      0x199A [0x9A] WAIT_MUSIC_SERVER()
      0x199B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "wi00" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
      0x19AC [0x1A] CALL_SUBROUTINE(address=0x1DDE)
-     0x19AF [0x2B] Gadalar (ID: 17510726/0x010B3146) [7836*]:
+     0x19AF [0x2B] Gadalar (ID: 17510726/0x010B3146) [7838*]:
     → "Huh!? All the counselors are down...?"
      0x19B6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "wi00" with entities [LocalPlayer, LocalPlayer], work=322*
      0x19C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "wi01" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
-     0x19D6 [0x2B] Zazarg (ID: 17510728/0x010B3148) [7837*]:
+     0x19D6 [0x2B] Zazarg (ID: 17510728/0x010B3148) [7839*]:
     → "Gahahahaha! I guess they taught us a thing or two!"
      0x19DD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "wi01" with entities [LocalPlayer, LocalPlayer], work=322*
      0x19EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "wi02" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
-     0x19FD [0x2B] Mihli Aliapoh (ID: 17510727/0x010B3147) [7838*]:
+     0x19FD [0x2B] Mihli Aliapoh (ID: 17510727/0x010B3147) [7840*]:
     → "They must've cheated! I say we go another round!"
      0x1A04 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "wi02" with entities [LocalPlayer, LocalPlayer], work=322*
      0x1A13 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "wi03" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
-     0x1A24 [0x2B] Najelith (ID: 17510729/0x010B3149) [7839*]:
+     0x1A24 [0x2B] Najelith (ID: 17510729/0x010B3149) [7841*]:
     → "Mihli! We must accept our defeat with humility and praise these mercenaries on their victory."
      0x1A2B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "wi03" with entities [LocalPlayer, LocalPlayer], work=322*
      0x1A3A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "wi04" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
      0x1A4B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=180*)
-     0x1A50 [0x2B] Rughadjeen (ID: 17510725/0x010B3145) [7840*]:
+     0x1A50 [0x2B] Rughadjeen (ID: 17510725/0x010B3145) [7842*]:
     → "Yes, you deserve high praise for your performance here today! Congratulations, you have graduated from the Serpent Camp for Mercenaries!"
      0x1A57 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "wi04" with entities [LocalPlayer, LocalPlayer], work=322*
      0x1A66 [0x1A] CALL_SUBROUTINE(address=0x1DFF)
@@ -2334,7 +2334,7 @@ SUBROUTINE_1C21:
      0x1B89 [0x27] REQ_SET(priority=0x10, entity_id=Unknown NPC (ID: 2147483633/0x7FFFFFF1), tag_num=0x03)
      0x1B90 [0x27] REQ_SET(priority=0x10, entity_id=Unknown NPC (ID: 2147483634/0x7FFFFFF2), tag_num=0x03)
      0x1B97 [0x1C] WAIT(120* ticks)
-     0x1B9A [0x48] [System] [7841*]:
+     0x1B9A [0x48] [System] [7843*]:
     → "@@"
      0x1B9D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B9E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "1goj" with entities [LocalPlayer, LocalPlayer], work=[322*, 0*]
@@ -2890,20 +2890,20 @@ SUBROUTINE_1C21:
  71: 0x2308 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  72: 0x2319 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
  73: 0x232A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=222*
- 74: 0x2339 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7610*]:
+ 74: 0x2339 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7612*]:
     → "Ha, were you three still alive? Now you can watch as life is breathed into the Chrysalis Core once again!"
  75: 0x2340 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x2341 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
  77: 0x2352 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=222*
  78: 0x2361 [0x27] REQ_SET(priority=0x03, entity_id=Aldo (ID: 17510694/0x010B3126), tag_num=0x07)
  79: 0x2368 [0x1C] WAIT(10* ticks)
- 80: 0x236B [0x2B] Aldo (ID: 17510694/0x010B3126) [7611*]:
+ 80: 0x236B [0x2B] Aldo (ID: 17510694/0x010B3126) [7613*]:
     → "The Chrysalis Core?"
  81: 0x2372 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x2373 [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17510690/0x010B3122), tag_num=0x08)
  83: 0x237A [0x1C] WAIT(60* ticks)
  84: 0x237D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
- 85: 0x238E [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7612*]:
+ 85: 0x238E [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7614*]:
     → "What you see below you is the heart of Delkfutt's Tower. Regenerating it will open the path to Tu'Lia."
  86: 0x2395 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x2396 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=222*
@@ -2911,7 +2911,7 @@ SUBROUTINE_1C21:
  89: 0x23AC [0x1C] WAIT(5* ticks)
  90: 0x23AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
  91: 0x23C0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=222*
- 92: 0x23CF [0x2B] Lion (ID: 17510692/0x010B3124) [7613*]:
+ 92: 0x23CF [0x2B] Lion (ID: 17510692/0x010B3124) [7615*]:
     → "Isn't Tu'Lia the floating island also known as the Gate of the Gods? I thought it was destroyed when the ancient capital of the Zilart was submerged."
  93: 0x23D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x23D7 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Lion (ID: 17510692/0x010B3124))
@@ -2920,10 +2920,10 @@ SUBROUTINE_1C21:
  97: 0x23EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
  98: 0x23FB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=222*
  99: 0x240A [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17510690/0x010B3122), tag_num=0x09)
-100: 0x2411 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7614*]:
+100: 0x2411 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7616*]:
     → "Just as we Zilart slept for thousands of years, Tu'Lia also remains in slumber. Miles above the surface of Vana'diel, it bides its time until the day of awakening."
 101: 0x2418 [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x2419 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7615*]:
+102: 0x2419 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7617*]:
     → "And when it awakes, eternal paradise will be within our grasp."
 103: 0x2420 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x2421 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Kam'lanaut (ID: 17510690/0x010B3122))
@@ -2931,32 +2931,32 @@ SUBROUTINE_1C21:
 106: 0x242E [0x1C] WAIT(10* ticks)
 107: 0x2431 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
 108: 0x2442 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=222*
-109: 0x2451 [0x2B] Lion (ID: 17510692/0x010B3124) [7616*]:
+109: 0x2451 [0x2B] Lion (ID: 17510692/0x010B3124) [7618*]:
     → "Slept? You mean to tell me that you've been sleeping here in Delkfutt's Tower for ten thousand years?"
 110: 0x2458 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x2459 [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17510690/0x010B3122), tag_num=0x0A)
 112: 0x2460 [0x1C] WAIT(30* ticks)
 113: 0x2463 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z010" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
 114: 0x2474 [0x1C] WAIT(10* ticks)
-115: 0x2477 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7617*]:
+115: 0x2477 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7619*]:
     → "You are fairly intuitive for a mere Hume. Thirty years ago, when Raogrimm came in contact with the crystal in the cursed Northlands, some of its energy flowed to this tower."
 116: 0x247E [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x247F [0x2A] GET_REQ_LEVEL(level=3, entity_id=Kam'lanaut (ID: 17510690/0x010B3122))
-118: 0x2485 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7618*]:
+118: 0x2485 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7620*]:
     → "It was that burst of power that awoke us, giving us the opportunity to continue our quest for Paradise."
 119: 0x248C [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x248D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z010" with entities [LocalPlayer, LocalPlayer], work=222*
 121: 0x249C [0x27] REQ_SET(priority=0x03, entity_id=Zeid (ID: 17510693/0x010B3125), tag_num=0x07)
 122: 0x24A3 [0x1C] WAIT(30* ticks)
 123: 0x24A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
-124: 0x24B7 [0x2B] Zeid (ID: 17510693/0x010B3125) [7619*]:
+124: 0x24B7 [0x2B] Zeid (ID: 17510693/0x010B3125) [7621*]:
     → "Long ago, your people paid the price for what you did. What's to be gained by chasing after lost dreams?"
 125: 0x24BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x24BF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=222*
 127: 0x24CE [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17510690/0x010B3122), tag_num=0x0B)
 128: 0x24D5 [0x1C] WAIT(5* ticks)
 129: 0x24D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z012" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
-130: 0x24E9 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7620*]:
+130: 0x24E9 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7622*]:
     → "Every soul in Vana'diel wants to believe that there's a gate to eternal paradise somewhere on this planet."
 131: 0x24F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x24F1 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Kam'lanaut (ID: 17510690/0x010B3122))
@@ -2966,19 +2966,19 @@ SUBROUTINE_1C21:
 136: 0x2510 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z00d" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
 137: 0x2521 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z00d" with entities [LocalPlayer, LocalPlayer], work=222*
 138: 0x2530 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z00e" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
-139: 0x2541 [0x2B] Zeid (ID: 17510693/0x010B3125) [7621*]:
+139: 0x2541 [0x2B] Zeid (ID: 17510693/0x010B3125) [7623*]:
     → "..."
 140: 0x2548 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x2549 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z00e" with entities [LocalPlayer, LocalPlayer], work=222*
 142: 0x2558 [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17510690/0x010B3122), tag_num=0x0C)
 143: 0x255F [0x1C] WAIT(5* ticks)
 144: 0x2562 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z013" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
-145: 0x2573 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7622*]:
+145: 0x2573 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7624*]:
     → "A pure, untainted world, perfect in every facet. A crystalline paradise fit for the gods."
 146: 0x257A [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x257B [0x2A] GET_REQ_LEVEL(level=3, entity_id=Kam'lanaut (ID: 17510690/0x010B3122))
 148: 0x2581 [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17510690/0x010B3122), tag_num=0x0D)
-149: 0x2588 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7623*]:
+149: 0x2588 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7625*]:
     → "That is the vision...and you vermin are not part of it."
 150: 0x258F [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x2590 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Kam'lanaut (ID: 17510690/0x010B3122))
@@ -2989,12 +2989,12 @@ SUBROUTINE_1C21:
 156: 0x25AA [0x52] END_LOAD_SCHEDULER: End scheduler "z013" with entities [LocalPlayer, LocalPlayer], work=222*
 157: 0x25B9 [0x1C] WAIT(10* ticks)
 158: 0x25BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z014" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
-159: 0x25CD [0x2B] Aldo (ID: 17510694/0x010B3126) [7624*]:
+159: 0x25CD [0x2B] Aldo (ID: 17510694/0x010B3126) [7626*]:
     → "I've had enough! You've spent the last thirty years deceiving all of us in Jeuno."
 160: 0x25D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x25D5 [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17510690/0x010B3122), tag_num=0x0F)
 162: 0x25DC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z014" with entities [LocalPlayer, LocalPlayer], work=222*
-163: 0x25EB [0x2B] Aldo (ID: 17510694/0x010B3126) [7625*]:
+163: 0x25EB [0x2B] Aldo (ID: 17510694/0x010B3126) [7627*]:
     → "You could care less about the people of this world! You are just using the power of the gods in an attempt to take over Vana'diel!"
 164: 0x25F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x25F3 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=240*)
@@ -3002,12 +3002,12 @@ SUBROUTINE_1C21:
 167: 0x25FF [0x1C] WAIT(10* ticks)
 168: 0x2602 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z015" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
 169: 0x2613 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z015" with entities [LocalPlayer, LocalPlayer], work=222*
-170: 0x2622 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7626*]:
+170: 0x2622 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7628*]:
     → "Hm-hm-hm..."
 171: 0x2629 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x262A [0x1C] WAIT(80* ticks)
 173: 0x262D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z016" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
-174: 0x263E [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7627*]:
+174: 0x263E [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7629*]:
     → "Hah-hah-hah! I can no longer fool you. Behold! I am the will of the crystal!"
 175: 0x2645 [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x2646 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 193*
@@ -3026,7 +3026,7 @@ SUBROUTINE_1C21:
 189: 0x26D4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z017" with entities [LocalPlayer, LocalPlayer], work=222*
 190: 0x26E3 [0x1C] WAIT(30* ticks)
 191: 0x26E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z018" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
-192: 0x26F7 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7628*]:
+192: 0x26F7 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7630*]:
     → "And now I shall wield its true power and make this planet mine! Rise forth, Crystal Warriors!"
 193: 0x26FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x26FF [0x1C] WAIT(120* ticks)
@@ -3067,7 +3067,7 @@ SUBROUTINE_1C21:
 229: 0x2882 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z024" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
 230: 0x2893 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z024" with entities [LocalPlayer, LocalPlayer], work=222*
 231: 0x28A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [Qe'Iov Gate (ID: 17510703/0x010B312F), Qe'Iov Gate (ID: 17510703/0x010B312F)], work=[200*, 0*]
-232: 0x28B3 [0x2B] Aldo (ID: 17510694/0x010B3126) [7629*]:
+232: 0x28B3 [0x2B] Aldo (ID: 17510694/0x010B3126) [7631*]:
     → "Who the hell are these characters?"
 233: 0x28BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x28BB [0x1C] WAIT(60* ticks)
@@ -3080,7 +3080,7 @@ SUBROUTINE_1C21:
 241: 0x2910 [0x27] REQ_SET(priority=0x03, entity_id=CrystalKnight (ID: 17510701/0x010B312D), tag_num=0x05)
 242: 0x2917 [0x1C] WAIT(120* ticks)
 243: 0x291A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [Qe'Iov Gate (ID: 17510703/0x010B312F), Qe'Iov Gate (ID: 17510703/0x010B312F)], work=[200*, 0*]
-244: 0x292B [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7630*]:
+244: 0x292B [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7632*]:
     → "I will let them take care of you."
 245: 0x2932 [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x2933 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Kam'lanaut (ID: 17510690/0x010B3122))
@@ -3093,7 +3093,7 @@ SUBROUTINE_1C21:
 253: 0x296E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z026" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
 254: 0x297F [0x1C] WAIT(30* ticks)
 255: 0x2982 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [Qe'Iov Gate (ID: 17510703/0x010B312F), Qe'Iov Gate (ID: 17510703/0x010B312F)], work=[200*, 0*]
-256: 0x2993 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7631*]:
+256: 0x2993 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7633*]:
     → "Ah, we have an uninvited guest..."
 257: 0x299A [0x23] WAIT_FOR_DIALOG_INTERACTION
 258: 0x299B [0x2A] GET_REQ_LEVEL(level=3, entity_id=Kam'lanaut (ID: 17510690/0x010B3122))
@@ -3173,7 +3173,7 @@ SUBROUTINE_29F3:
      0x2B6A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
      0x2B79 [0x1C] WAIT(60* ticks)
      0x2B7C [0x03] Work_Zone[9] = 247*
-     0x2B81 [0x48] [System] [7690*]:
+     0x2B81 [0x48] [System] [7692*]:
     → "The $3 begins to resonate with the door."
      0x2B84 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2B85 [0x27] REQ_SET(priority=0x03, entity_id=Qe'Iov Gate (ID: 17510703/0x010B312F), tag_num=0x06)
@@ -3200,12 +3200,12 @@ SUBROUTINE_29F3:
      0x2C26 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x2C37 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y002" with entities [LocalPlayer, LocalPlayer], work=[222*, 0*]
      0x2C48 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y002" with entities [LocalPlayer, LocalPlayer], work=222*
-     0x2C57 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7632*]:
+     0x2C57 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7634*]:
     → "So you have come here to die, have you? Well, I'll give you the honor of being taken down by my blade."
      0x2C5E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2C5F [0x27] REQ_SET(priority=0x03, entity_id=Kam'lanaut (ID: 17510690/0x010B3122), tag_num=0x15)
      0x2C66 [0x1C] WAIT(30* ticks)
-     0x2C69 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7633*]:
+     0x2C69 [0x2B] Kam'lanaut (ID: 17510690/0x010B3122) [7635*]:
     → "This is your end. Perish, fools, in the name of the crystal!"
      0x2C70 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2C71 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "hjm1" with entities [CrystalKnight (ID: 17510700/0x010B312C), CrystalKnight (ID: 17510700/0x010B312C)]

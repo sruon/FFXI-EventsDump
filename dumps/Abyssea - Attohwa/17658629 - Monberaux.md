@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2087      |        8327 |
-|       1 | 0x2088      |        8328 |
-|       2 | 0x2089      |        8329 |
+|       0 | 0x2089      |        8329 |
+|       1 | 0x208A      |        8330 |
+|       2 | 0x208B      |        8331 |
 
 ## String References
 
-- **8327**: How curious. Other than a few scrapes, you seem to be a picture of perfect health.
-- **8328**: A good number of the survivors have experienced significant trouble breathing since arriving here in Attohwa. For some of them, it seems even to have affected their minds...
-- **8329**: Do take care of yourself, friend.
+- **8329**: How curious. Other than a few scrapes, you seem to be a picture of perfect health.
+- **8330**: A good number of the survivors have experienced significant trouble breathing since arriving here in Attohwa. For some of them, it seems even to have affected their minds...
+- **8331**: Do take care of yourself, friend.
 
 ## Events
 
@@ -75,13 +75,13 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
     → "How curious. Other than a few scrapes, you seem to be a picture of perfect health."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8330*)
     → "A good number of the survivors have experienced significant trouble breathing since arriving here in Attohwa. For some of them, it seems even to have affected their minds..."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8331*)
     → "Do take care of yourself, friend."
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0012 [0x21] END_EVENT

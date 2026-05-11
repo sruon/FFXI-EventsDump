@@ -26,11 +26,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0399      |         921 |
-|       1 | 0x1DD7      |        7639 |
-|       2 | 0x1DD8      |        7640 |
-|       3 | 0x1DD9      |        7641 |
-|       4 | 0x1DD5      |        7637 |
-|       5 | 0x1DD6      |        7638 |
+|       1 | 0x1DD9      |        7641 |
+|       2 | 0x1DDA      |        7642 |
+|       3 | 0x1DDB      |        7643 |
+|       4 | 0x1DD7      |        7639 |
+|       5 | 0x1DD8      |        7640 |
 |       6 | 0x000B      |          11 |
 |       7 | 0xEE69      |       61033 |
 |       8 | 0x20D78     |      134520 |
@@ -107,10 +107,10 @@
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0007 [0x03] Work_Zone[2] = 921*
-  2: 0x000C [0x2B] Randecque (ID: 17449491/0x010A4213) [7639*]:
+  2: 0x000C [0x2B] Randecque (ID: 17449491/0x010A4213) [7641*]:
     → "Take that $3 to the San d'Orian capital and present it to Captain Mainchelite."
   3: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0014 [0x2B] Randecque (ID: 17449491/0x010A4213) [7640*]:
+  4: 0x0014 [0x2B] Randecque (ID: 17449491/0x010A4213) [7642*]:
     → "If my memory serves me well, I seem to recall an initiation trial was required of all new recruits. Oh, but you need worry not--the assessment was nothing more than formality."
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x21] END_EVENT
@@ -138,7 +138,7 @@
 
 ```
   0: 0x001E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0023 [0x2B] Randecque (ID: 17449491/0x010A4213) [7641*]:
+  1: 0x0023 [0x2B] Randecque (ID: 17449491/0x010A4213) [7643*]:
     → "Well, congratulations, recruit! I look forward to hearing the bards sing of your heroic deeds!"
   2: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x002B [0x21] END_EVENT
@@ -167,10 +167,10 @@
 
 ```
   0: 0x002D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0032 [0x2B] Randecque (ID: 17449491/0x010A4213) [7637*]:
+  1: 0x0032 [0x2B] Randecque (ID: 17449491/0x010A4213) [7639*]:
     → "Take care, as the journey to the capital will not be an easy one."
   2: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x003A [0x2B] Randecque (ID: 17449491/0x010A4213) [7638*]:
+  3: 0x003A [0x2B] Randecque (ID: 17449491/0x010A4213) [7640*]:
     → "May the divine light of the Goddess guide you."
   4: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0042 [0x21] END_EVENT

@@ -20,18 +20,18 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FB2      |        8114 |
+|       0 | 0x1FB4      |        8116 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x1FB3      |        8115 |
-|       3 | 0x1FB4      |        8116 |
-|       4 | 0x1FB5      |        8117 |
+|       2 | 0x1FB5      |        8117 |
+|       3 | 0x1FB6      |        8118 |
+|       4 | 0x1FB7      |        8119 |
 
 ## String References
 
-- **8114**: See that curious stone structure all glowing and spinning-winning over there? That's what we call a veridical conflux.
-- **8115**: Don't let it intimidataru you--it's actually the handiest pile of rocks around. You can warp from one to another in the blink of an eye, you see!
-- **8116**: The only catch is that you'll need to meld-weld with a conflux before you can teleport to it. They're scattered all over the canyon, so you'll want to explore and make contactaru with as many you can. It'll make travel easy-breezy!
-- **8117**: You'll also want to be sure you have cruor on hand. Otherwise your long journey will have all been for naughtaru.
+- **8116**: See that curious stone structure all glowing and spinning-winning over there? That's what we call a veridical conflux.
+- **8117**: Don't let it intimidataru you--it's actually the handiest pile of rocks around. You can warp from one to another in the blink of an eye, you see!
+- **8118**: The only catch is that you'll need to meld-weld with a conflux before you can teleport to it. They're scattered all over the canyon, so you'll want to explore and make contactaru with as many you can. It'll make travel easy-breezy!
+- **8119**: You'll also want to be sure you have cruor on hand. Otherwise your long journey will have all been for naughtaru.
 
 ## Events
 
@@ -82,18 +82,18 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8114*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
     → "See that curious stone structure all glowing and spinning-winning over there? That's what we call a veridical conflux."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
     → "Don't let it intimidataru you--it's actually the handiest pile of rocks around. You can warp from one to another in the blink of an eye, you see!"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
     → "The only catch is that you'll need to meld-weld with a conflux before you can teleport to it. They're scattered all over the canyon, so you'll want to explore and make contactaru with as many you can. It'll make travel easy-breezy!"
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
- 11: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
+ 11: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
     → "You'll also want to be sure you have cruor on hand. Otherwise your long journey will have all been for naughtaru."
  12: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0036 [0x21] END_EVENT

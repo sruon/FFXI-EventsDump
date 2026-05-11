@@ -23,19 +23,19 @@
 |       0 | 0x002A      |          42 |
 |       1 | 0x03FC      |        1020 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1E10      |        7696 |
-|       4 | 0x1E0E      |        7694 |
-|       5 | 0x1E0D      |        7693 |
-|       6 | 0x1E0F      |        7695 |
-|       7 | 0x1E11      |        7697 |
+|       3 | 0x1E12      |        7698 |
+|       4 | 0x1E10      |        7696 |
+|       5 | 0x1E0F      |        7695 |
+|       6 | 0x1E11      |        7697 |
+|       7 | 0x1E13      |        7699 |
 
 ## String References
 
-- **7693**: Your $7 breaks!
-- **7694**: You successfully harvest $0!
-- **7695**: You harvest $0, but your $7 breaks.
-- **7696**: You are unable to harvest anything.
-- **7697**: You cannot carry any more items. Your inventory is full.
+- **7695**: Your $7 breaks!
+- **7696**: You successfully harvest $0!
+- **7697**: You harvest $0, but your $7 breaks.
+- **7698**: You are unable to harvest anything.
+- **7699**: You cannot carry any more items. Your inventory is full.
 
 ## Events
 
@@ -91,24 +91,24 @@
   4: 0x0013 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x004B
   5: 0x001B [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0037
   6: 0x0023 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0031
-  7: 0x002B [0x48] [System] [7696*]:
+  7: 0x002B [0x48] [System] [7698*]:
     → "You are unable to harvest anything."
   8: 0x002E [0x01] GOTO 0x0034
-  9: 0x0031 [0x48] [System] [7694*]:
+  9: 0x0031 [0x48] [System] [7696*]:
     → "You successfully harvest $0!"
 
 SUBROUTINE_0034:
  10: 0x0034 [0x01] GOTO 0x0048
  11: 0x0037 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0045
- 12: 0x003F [0x48] [System] [7693*]:
+ 12: 0x003F [0x48] [System] [7695*]:
     → "Your $7 breaks!"
  13: 0x0042 [0x01] GOTO 0x0048
- 14: 0x0045 [0x48] [System] [7695*]:
+ 14: 0x0045 [0x48] [System] [7697*]:
     → "You harvest $0, but your $7 breaks."
 
 SUBROUTINE_0048:
  15: 0x0048 [0x01] GOTO 0x004E
- 16: 0x004B [0x48] [System] [7697*]:
+ 16: 0x004B [0x48] [System] [7699*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_004E:

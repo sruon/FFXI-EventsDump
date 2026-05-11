@@ -19,7 +19,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2123      |        8483 |
+|       0 | 0x2125      |        8485 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0032      |          50 |
@@ -30,7 +30,7 @@
 |       8 | 0x00FF      |         255 |
 |       9 | 0x0013      |          19 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x2124      |        8484 |
+|      11 | 0x2126      |        8486 |
 |      12 | 0x0003      |           3 |
 |      13 | 0x0004      |           4 |
 |      14 | 0x0005      |           5 |
@@ -44,8 +44,8 @@
 
 ## String References
 
-- **8483**: What will you be doing? [Setting Fame./Contamination level./QS01: Missing in Action./QS02: I Dream of Flowers./QS03: Destiny Odyssey./QS04: Unidentified Research Object./QS05: Cookbook of Hope Bestowing./QS06: Smoke over the Coast./QS07: Soil and Green (Soil Quality)/QS07: Soil and Green (Fertilizer)/QS08: Dropping the Bomb./QS09: Wanted: Medical Supplies./Everything./Never mind.]
-- **8484**: Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]
+- **8485**: What will you be doing? [Setting Fame./Contamination level./QS01: Missing in Action./QS02: I Dream of Flowers./QS03: Destiny Odyssey./QS04: Unidentified Research Object./QS05: Cookbook of Hope Bestowing./QS06: Smoke over the Coast./QS07: Soil and Green (Soil Quality)/QS07: Soil and Green (Fertilizer)/QS08: Dropping the Bomb./QS09: Wanted: Medical Supplies./Everything./Never mind.]
+- **8486**: Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]
 
 ## Events
 
@@ -144,7 +144,7 @@
 #### Opcodes
 
 ```
-  0: 0x0000 [0x24] CREATE_DIALOG(message_id=8483*, default_option=0*, option_flags=0*)
+  0: 0x0000 [0x24] CREATE_DIALOG(message_id=8485*, default_option=0*, option_flags=0*)
     → "What will you be doing? [Setting Fame./Contamination level./QS01: Missing in Action./QS02: I Dream of Flowers./QS03: Destiny Odyssey./QS04: Unidentified Research Object./QS05: Cookbook of Hope Bestowing./QS06: Smoke over the Coast./QS07: Soil and Green (Soil Quality)/QS07: Soil and Green (Fertilizer)/QS08: Dropping the Bomb./QS09: Wanted: Medical Supplies./Everything./Never mind.]"
   1: 0x0007 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0008 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0050
@@ -210,7 +210,7 @@ SUBROUTINE_0060:
      0x0194 [0x02] IF !(1* == 1*) GOTO 0x01E0
      0x019C [0x06] Work_Zone[1] = 0
      0x019F [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=4*)
-     0x01A8 [0x24] CREATE_DIALOG(message_id=8484*, default_option=0*, option_flags=0*)
+     0x01A8 [0x24] CREATE_DIALOG(message_id=8486*, default_option=0*, option_flags=0*)
     → "Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]"
      0x01AF [0x25] WAIT_DIALOG_SELECT()
      0x01B0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C4
@@ -231,7 +231,7 @@ SUBROUTINE_0060:
      0x01F1 [0x02] IF !(1* == 1*) GOTO 0x023D
      0x01F9 [0x06] Work_Zone[1] = 0
      0x01FC [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=5*)
-     0x0205 [0x24] CREATE_DIALOG(message_id=8484*, default_option=0*, option_flags=0*)
+     0x0205 [0x24] CREATE_DIALOG(message_id=8486*, default_option=0*, option_flags=0*)
     → "Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]"
      0x020C [0x25] WAIT_DIALOG_SELECT()
      0x020D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0221
@@ -252,7 +252,7 @@ SUBROUTINE_0060:
      0x024E [0x02] IF !(1* == 1*) GOTO 0x029A
      0x0256 [0x06] Work_Zone[1] = 0
      0x0259 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=6*)
-     0x0262 [0x24] CREATE_DIALOG(message_id=8484*, default_option=0*, option_flags=0*)
+     0x0262 [0x24] CREATE_DIALOG(message_id=8486*, default_option=0*, option_flags=0*)
     → "Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]"
      0x0269 [0x25] WAIT_DIALOG_SELECT()
      0x026A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x027E
@@ -273,7 +273,7 @@ SUBROUTINE_0060:
      0x02AB [0x02] IF !(1* == 1*) GOTO 0x02F7
      0x02B3 [0x06] Work_Zone[1] = 0
      0x02B6 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=7*)
-     0x02BF [0x24] CREATE_DIALOG(message_id=8484*, default_option=0*, option_flags=0*)
+     0x02BF [0x24] CREATE_DIALOG(message_id=8486*, default_option=0*, option_flags=0*)
     → "Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]"
      0x02C6 [0x25] WAIT_DIALOG_SELECT()
      0x02C7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02DB
@@ -294,7 +294,7 @@ SUBROUTINE_0060:
      0x0308 [0x02] IF !(1* == 1*) GOTO 0x0354
      0x0310 [0x06] Work_Zone[1] = 0
      0x0313 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=8*)
-     0x031C [0x24] CREATE_DIALOG(message_id=8484*, default_option=0*, option_flags=0*)
+     0x031C [0x24] CREATE_DIALOG(message_id=8486*, default_option=0*, option_flags=0*)
     → "Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]"
      0x0323 [0x25] WAIT_DIALOG_SELECT()
      0x0324 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0338
@@ -315,7 +315,7 @@ SUBROUTINE_0060:
      0x0365 [0x02] IF !(1* == 1*) GOTO 0x03B1
      0x036D [0x06] Work_Zone[1] = 0
      0x0370 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=9*)
-     0x0379 [0x24] CREATE_DIALOG(message_id=8484*, default_option=0*, option_flags=0*)
+     0x0379 [0x24] CREATE_DIALOG(message_id=8486*, default_option=0*, option_flags=0*)
     → "Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]"
      0x0380 [0x25] WAIT_DIALOG_SELECT()
      0x0381 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0395
@@ -336,7 +336,7 @@ SUBROUTINE_0060:
      0x03C2 [0x02] IF !(1* == 1*) GOTO 0x040E
      0x03CA [0x06] Work_Zone[1] = 0
      0x03CD [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=10*)
-     0x03D6 [0x24] CREATE_DIALOG(message_id=8484*, default_option=0*, option_flags=0*)
+     0x03D6 [0x24] CREATE_DIALOG(message_id=8486*, default_option=0*, option_flags=0*)
     → "Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]"
      0x03DD [0x25] WAIT_DIALOG_SELECT()
      0x03DE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F2
@@ -357,7 +357,7 @@ SUBROUTINE_0060:
      0x041F [0x02] IF !(1* == 1*) GOTO 0x046B
      0x0427 [0x06] Work_Zone[1] = 0
      0x042A [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=11*)
-     0x0433 [0x24] CREATE_DIALOG(message_id=8484*, default_option=0*, option_flags=0*)
+     0x0433 [0x24] CREATE_DIALOG(message_id=8486*, default_option=0*, option_flags=0*)
     → "Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]"
      0x043A [0x25] WAIT_DIALOG_SELECT()
      0x043B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x044F
@@ -378,7 +378,7 @@ SUBROUTINE_0060:
      0x047C [0x02] IF !(1* == 1*) GOTO 0x04C8
      0x0484 [0x06] Work_Zone[1] = 0
      0x0487 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=12*)
-     0x0490 [0x24] CREATE_DIALOG(message_id=8484*, default_option=0*, option_flags=0*)
+     0x0490 [0x24] CREATE_DIALOG(message_id=8486*, default_option=0*, option_flags=0*)
     → "Please be making a choice. [Starting: [off/on]/Ending: [off/on]/Quitting.]"
      0x0497 [0x25] WAIT_DIALOG_SELECT()
      0x0498 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04AC

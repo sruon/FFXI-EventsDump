@@ -27,38 +27,38 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0045      |          69 |
-|       1 | 0x2B41      |       11073 |
-|       2 | 0x2B42      |       11074 |
-|       3 | 0x2B53      |       11091 |
-|       4 | 0x2B5E      |       11102 |
-|       5 | 0x27DD      |       10205 |
-|       6 | 0x27DE      |       10206 |
+|       1 | 0x2B43      |       11075 |
+|       2 | 0x2B44      |       11076 |
+|       3 | 0x2B55      |       11093 |
+|       4 | 0x2B60      |       11104 |
+|       5 | 0x27DF      |       10207 |
+|       6 | 0x27E0      |       10208 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x27E1      |       10209 |
-|      10 | 0x27E2      |       10210 |
-|      11 | 0x27DF      |       10207 |
-|      12 | 0x27E0      |       10208 |
-|      13 | 0x3611      |       13841 |
+|       9 | 0x27E3      |       10211 |
+|      10 | 0x27E4      |       10212 |
+|      11 | 0x27E1      |       10209 |
+|      12 | 0x27E2      |       10210 |
+|      13 | 0x3613      |       13843 |
 |      14 | 0x001E      |          30 |
-|      15 | 0x3614      |       13844 |
-|      16 | 0x3615      |       13845 |
+|      15 | 0x3616      |       13846 |
+|      16 | 0x3617      |       13847 |
 
 ## String References
 
-- **10205**: Say... You know Aldo, the guy who runs the organization called the Tenshodo?
-- **10206**: Do you know him? [Yes./No.]
-- **10207**: The Tenshodo was founded by Aldo's father. They've done so well in trading abroad that they own the black market in these parts. Er, so I've heard...
-- **10208**: Aldo took over after his father died. I've heard all kinds of things about him, but they say he's a smart and honorable man.
-- **10209**: Oh, you're a Tenshodo member? I guess you know more than I do, then.
-- **10210**: You should do business with the Tenshodo, too. They supply us with hard-to-find goods now and then.
-- **11073**: Did you know there is a mysterious group of officials in Jeuno known as the "Armathrwn Society"?
-- **11074**: The last time I tried telling some of the new recruits about the group, Captain Wolfgang put me on latrine duty for nine and a half weeks!
-- **11091**: Members of the Armathrwn Society are to accompany the armada on its mission. It is said that the society's technological advancements are what built this city and made it what it is today.
-- **11102**: Even with the technology of the Armathrwn Society on our side, the armada was unable to completely defeat the Wyrmking and his army. Perhaps we underestimated their power...
-- **13841**: <Player>'s badge flashes brightly.
-- **13844**: I see you've got a Salaheem's Sentinel badge there... They must be desperate to use those as an attention-grabbing device.
-- **13845**: Maybe the empress of Aht Urhgan is short on devoted subjects...
+- **10207**: Say... You know Aldo, the guy who runs the organization called the Tenshodo?
+- **10208**: Do you know him? [Yes./No.]
+- **10209**: The Tenshodo was founded by Aldo's father. They've done so well in trading abroad that they own the black market in these parts. Er, so I've heard...
+- **10210**: Aldo took over after his father died. I've heard all kinds of things about him, but they say he's a smart and honorable man.
+- **10211**: Oh, you're a Tenshodo member? I guess you know more than I do, then.
+- **10212**: You should do business with the Tenshodo, too. They supply us with hard-to-find goods now and then.
+- **11075**: Did you know there is a mysterious group of officials in Jeuno known as the "Armathrwn Society"?
+- **11076**: The last time I tried telling some of the new recruits about the group, Captain Wolfgang put me on latrine duty for nine and a half weeks!
+- **11093**: Members of the Armathrwn Society are to accompany the armada on its mission. It is said that the society's technological advancements are what built this city and made it what it is today.
+- **11104**: Even with the technology of the Armathrwn Society on our side, the armada was unable to completely defeat the Wyrmking and his army. Perhaps we underestimated their power...
+- **13843**: <Player>'s badge flashes brightly.
+- **13846**: I see you've got a Salaheem's Sentinel badge there... They must be desperate to use those as an attention-grabbing device.
+- **13847**: Maybe the empress of Aht Urhgan is short on devoted subjects...
 
 ## Events
 
@@ -110,10 +110,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11073*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11075*)
     → "Did you know there is a mysterious group of officials in Jeuno known as the "Armathrwn Society"?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=11074*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=11076*)
     → "The last time I tried telling some of the new recruits about the group, Captain Wolfgang put me on latrine duty for nine and a half weeks!"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*
@@ -149,7 +149,7 @@
   1: 0x0042 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0043 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0044 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  4: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=11091*)
+  4: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=11093*)
     → "Members of the Armathrwn Society are to accompany the armada on its mission. It is said that the society's technological advancements are what built this city and made it what it is today."
   5: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0057 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*
@@ -184,7 +184,7 @@
   1: 0x007A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x007C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=11102*)
+  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=11104*)
     → "Even with the technology of the Armathrwn Society on our side, the armada was unable to completely defeat the Wyrmking and his army. Perhaps we underestimated their power..."
   5: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*
@@ -226,21 +226,21 @@
   1: 0x00B2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B3 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x00B8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10205*)
+  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10207*)
     → "Say... You know Aldo, the guy who runs the organization called the Tenshodo?"
   5: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00CB [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  7: 0x00D0 [0x24] CREATE_DIALOG(message_id=10206*, default_option=0*, option_flags=0*)
+  7: 0x00D0 [0x24] CREATE_DIALOG(message_id=10208*, default_option=0*, option_flags=0*)
     → "Do you know him? [Yes./No.]"
   8: 0x00D7 [0x25] WAIT_DIALOG_SELECT()
   9: 0x00D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0105
  10: 0x00E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
  11: 0x00EF [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x00FE
- 12: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10209*)
+ 12: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10211*)
     → "Oh, you're a Tenshodo member? I guess you know more than I do, then."
  13: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00FB [0x01] GOTO 0x0102
- 15: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10210*)
+ 15: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10212*)
     → "You should do business with the Tenshodo, too. They supply us with hard-to-find goods now and then."
  16: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -248,10 +248,10 @@ SUBROUTINE_0102:
  17: 0x0102 [0x01] GOTO 0x0127
  18: 0x0105 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0127
  19: 0x010D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
- 20: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=10207*)
+ 20: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=10209*)
     → "The Tenshodo was founded by Aldo's father. They've done so well in trading abroad that they own the black market in these parts. Er, so I've heard..."
  21: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=10208*)
+ 22: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=10210*)
     → "Aldo took over after his father died. I've heard all kinds of things about him, but they say he's a smart and honorable man."
  23: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0124 [0x01] GOTO 0x0127
@@ -286,15 +286,15 @@ SUBROUTINE_0127:
 
 ```
   0: 0x0145 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0146 [0x48] [System] [13841*]:
+  1: 0x0146 [0x48] [System] [13843*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0149 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x014E [0x1C] WAIT(30* ticks)
   4: 0x0151 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  5: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=13844*)
+  5: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=13846*)
     → "I see you've got a Salaheem's Sentinel badge there... They must be desperate to use those as an attention-grabbing device."
   6: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=13845*)
+  7: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=13847*)
     → "Maybe the empress of Aht Urhgan is short on devoted subjects..."
   8: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0168 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*

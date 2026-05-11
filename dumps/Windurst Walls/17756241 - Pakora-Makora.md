@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1EE6      |        7910 |
-|       3 | 0x1EE7      |        7911 |
+|       2 | 0x1EE8      |        7912 |
+|       3 | 0x1EE9      |        7913 |
 
 ## String References
 
-- **7910**: Why are there so many hot-blooded Mithra? They shouldn't worry so much about winning or losing-wosing.
-- **7911**: What's done is done. Don't you think-wink that it's better to forget the past and concentrate on improving your relationships with others now?
+- **7912**: Why are there so many hot-blooded Mithra? They shouldn't worry so much about winning or losing-wosing.
+- **7913**: What's done is done. Don't you think-wink that it's better to forget the past and concentrate on improving your relationships with others now?
 
 ## Events
 
@@ -154,10 +154,10 @@
   1: 0x0026 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0027 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0028 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pakora-Makora (ID: 17756241/0x010EF051), tag_num=0x01)
-  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "Why are there so many hot-blooded Mithra? They shouldn't worry so much about winning or losing-wosing."
   5: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+  6: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "What's done is done. Don't you think-wink that it's better to forget the past and concentrate on improving your relationships with others now?"
   7: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0037 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pakora-Makora (ID: 17756241/0x010EF051), tag_num=0x02)

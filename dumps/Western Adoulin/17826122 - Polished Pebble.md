@@ -33,13 +33,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2DAC      |       11692 |
+|       0 | 0x2DAE      |       11694 |
 |       1 | 0x001A      |          26 |
-|       2 | 0x2DA6      |       11686 |
+|       2 | 0x2DA8      |       11688 |
 |       3 | 0x003C      |          60 |
 |       4 | 0x0045      |          69 |
-|       5 | 0x2DA7      |       11687 |
-|       6 | 0x2DA8      |       11688 |
+|       5 | 0x2DA9      |       11689 |
+|       6 | 0x2DAA      |       11690 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x01E0      |         480 |
@@ -66,12 +66,12 @@
 |      30 | 0xFFFEEA68  |  4294896232 |
 |      31 | 0x000F      |          15 |
 |      32 | 0x0083      |         131 |
-|      33 | 0x2DA9      |       11689 |
-|      34 | 0x2DAA      |       11690 |
+|      33 | 0x2DAB      |       11691 |
+|      34 | 0x2DAC      |       11692 |
 |      35 | 0x0016      |          22 |
-|      36 | 0x2DAB      |       11691 |
+|      36 | 0x2DAD      |       11693 |
 |      37 | 0x001E      |          30 |
-|      38 | 0x2EFA      |       12026 |
+|      38 | 0x2EFC      |       12028 |
 |      39 | 0x00D1      |         209 |
 |      40 | 0x0053      |          83 |
 |      41 | 0x0060      |          96 |
@@ -81,14 +81,14 @@
 
 ## String References
 
-- **11686**: Yeesh! This looks to be quite the fixer-upper.
-- **11687**: I'll see what I can do. I don't think I'll have any problems with it, but you never know.
-- **11688**: Wait here, I'll be right back.
-- **11689**: Here you go.
-- **11690**: Sorry, but this is the best I could do. All that rust proved a bit much for me.
-- **11691**: I guess you could always hang it in your Mog House or something. At least I'm not going to charge you for not fixing it.
-- **11692**: Some of us at the Inventors' Coalition like to say that our craft is realizing people's dreams. I'm a little more direct, though. I just say I fix stuff up.
-- **12026**: Treat your tools with the proper respect, and they'll serve you well for years to come.
+- **11688**: Yeesh! This looks to be quite the fixer-upper.
+- **11689**: I'll see what I can do. I don't think I'll have any problems with it, but you never know.
+- **11690**: Wait here, I'll be right back.
+- **11691**: Here you go.
+- **11692**: Sorry, but this is the best I could do. All that rust proved a bit much for me.
+- **11693**: I guess you could always hang it in your Mog House or something. At least I'm not going to charge you for not fixing it.
+- **11694**: Some of us at the Inventors' Coalition like to say that our craft is realizing people's dreams. I'm a little more direct, though. I just say I fix stuff up.
+- **12028**: Treat your tools with the proper respect, and they'll serve you well for years to come.
 
 ## Events
 
@@ -140,7 +140,7 @@
   3: 0x0008 [0x4A] LocalPlayer looks at EventEntity
   4: 0x0011 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0012 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  6: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11692*)
+  6: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11694*)
     → "Some of us at the Inventors' Coalition like to say that our craft is realizing people's dreams. I'm a little more direct, though. I just say I fix stuff up."
   7: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001B [0x21] END_EVENT
@@ -198,17 +198,17 @@
   6: 0x002F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0034 [0x6E] EventEntity uses emote 26*
   8: 0x003B [0x99] Wait for EventEntity animation to complete
-  9: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=11686*)
+  9: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=11688*)
     → "Yeesh! This looks to be quite the fixer-upper."
  10: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0044 [0x1C] WAIT(60* ticks)
  12: 0x0047 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=69*
- 13: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=11687*)
+ 13: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=11689*)
     → "I'll see what I can do. I don't think I'll have any problems with it, but you never know."
  14: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x005A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
  16: 0x0067 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=69*
- 17: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=11688*)
+ 17: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=11690*)
     → "Wait here, I'll be right back."
  18: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x007A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
@@ -243,16 +243,16 @@
  48: 0x0139 [0x1C] WAIT(15* ticks)
  49: 0x013C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  50: 0x014D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=131*
- 51: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=11689*)
+ 51: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=11691*)
     → "Here you go."
  52: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0160 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 54: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=11690*)
+ 54: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=11692*)
     → "Sorry, but this is the best I could do. All that rust proved a bit much for me."
  55: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0171 [0x6E] EventEntity uses emote 22*
  57: 0x0178 [0x99] Wait for EventEntity animation to complete
- 58: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=11691*)
+ 58: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=11693*)
     → "I guess you could always hang it in your Mog House or something. At least I'm not going to charge you for not fixing it."
  59: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0181 [0x1C] WAIT(30* ticks)
@@ -287,7 +287,7 @@
   3: 0x018D [0x4A] LocalPlayer looks at EventEntity
   4: 0x0196 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0197 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  6: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=12026*)
+  6: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=12028*)
     → "Treat your tools with the proper respect, and they'll serve you well for years to come."
   7: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01A0 [0x21] END_EVENT

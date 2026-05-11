@@ -28,36 +28,36 @@
 |       4 | 0x0003      |           3 |
 |       5 | 0x008F      |         143 |
 |       6 | 0x003C      |          60 |
-|       7 | 0x274C      |       10060 |
+|       7 | 0x274E      |       10062 |
 |       8 | 0x0096      |         150 |
 |       9 | 0x001E      |          30 |
-|      10 | 0x274F      |       10063 |
-|      11 | 0x2752      |       10066 |
-|      12 | 0x2755      |       10069 |
+|      10 | 0x2751      |       10065 |
+|      11 | 0x2754      |       10068 |
+|      12 | 0x2757      |       10071 |
 |      13 | 0x0013      |          19 |
 |      14 | 0x00C9      |         201 |
 |      15 | 0x00D2      |         210 |
-|      16 | 0x275B      |       10075 |
+|      16 | 0x275D      |       10077 |
 |      17 | 0x000F      |          15 |
 |      18 | 0x005A      |          90 |
 |      19 | 0x0075      |         117 |
-|      20 | 0x2767      |       10087 |
-|      21 | 0x276A      |       10090 |
-|      22 | 0x276D      |       10093 |
-|      23 | 0x2773      |       10099 |
-|      24 | 0x2774      |       10100 |
-|      25 | 0x2777      |       10103 |
+|      20 | 0x2769      |       10089 |
+|      21 | 0x276C      |       10092 |
+|      22 | 0x276F      |       10095 |
+|      23 | 0x2775      |       10101 |
+|      24 | 0x2776      |       10102 |
+|      25 | 0x2779      |       10105 |
 |      26 | 0x0001      |           1 |
-|      27 | 0x277A      |       10106 |
+|      27 | 0x277C      |       10108 |
 |      28 | 0x0002      |           2 |
 |      29 | 0x0038      |          56 |
-|      30 | 0x277F      |       10111 |
-|      31 | 0x2780      |       10112 |
-|      32 | 0x2783      |       10115 |
+|      30 | 0x2781      |       10113 |
+|      31 | 0x2782      |       10114 |
+|      32 | 0x2785      |       10117 |
 
 ## String References
 
-- **10100**: Proceed to the archduke's palace? [Right away./Let me think about it.]
+- **10102**: Proceed to the archduke's palace? [Right away./Let me think about it.]
 
 ## Events
 
@@ -152,7 +152,7 @@
  17: 0x0078 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  18: 0x0089 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  19: 0x0098 [0x1C] WAIT(60* ticks)
- 20: 0x009B [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10060*]:
+ 20: 0x009B [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10062*]:
     → "Oh, you're finally back."
  21: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00A3 [0x27] REQ_SET(priority=0x03, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x03)
@@ -169,16 +169,16 @@
  33: 0x00F8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  34: 0x00F9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Heimji-Keimji (ID: 17772550/0x010F3006) Render.Flags0 and Render.Flags3 conditions are met
  35: 0x00FE [0x27] REQ_SET(priority=0x04, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x04)
- 36: 0x0105 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10063*]:
+ 36: 0x0105 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10065*]:
     → "Thank you so much for braving the dangers and finding me. You have my thanks. Now, then..."
  37: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x010D [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x08)
  39: 0x0114 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm22" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  40: 0x0125 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm22" with entities [LocalPlayer, LocalPlayer], work=143*
- 41: 0x0134 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10066*]:
+ 41: 0x0134 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10068*]:
     → "I hereby assign you, <Player>, to the post of attach<Player>i of the Embassy to Jeuno."
  42: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x013C [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10069*]:
+ 43: 0x013C [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10071*]:
     → "May you prove yourself useful to our homeland and her friendship with Jeuno."
  44: 0x0143 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0144 [0x27] REQ_SET(priority=0x04, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x07)
@@ -186,7 +186,7 @@
  47: 0x014E [0x7D] LOAD_START_SCHEDULER_PLAYER: Load scheduler with animation_id 32781
  48: 0x0151 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  49: 0x0162 [0x1C] WAIT(210* ticks)
- 50: 0x0165 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10075*]:
+ 50: 0x0165 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10077*]:
     → "Do not stray far, as I may have need of you later. When that time comes, I hope you'll be just as helpful as you were before."
  51: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x016D [0x1C] WAIT(60* ticks)
@@ -299,13 +299,13 @@
  26: 0x02BB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm31" with entities [LocalPlayer, LocalPlayer], work=143*
  27: 0x02CA [0x4D] EventEntity->StatusEvent = 9 // Close door
  28: 0x02CB [0x27] REQ_SET(priority=0x03, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x04)
- 29: 0x02D2 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10087*]:
+ 29: 0x02D2 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10089*]:
     → "Thanks for coming, <Player>."
  30: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x02DA [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10090*]:
+ 31: 0x02DA [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10092*]:
     → "We received a request from the Archduke of Jeuno to send someone for a special mission."
  32: 0x02E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x02E2 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10093*]:
+ 33: 0x02E2 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10095*]:
     → "Because of your selfless courage at Delkfutt's Tower, I want to recommend you for this mission."
  34: 0x02E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x02EA [0x27] REQ_SET(priority=0x04, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x08)
@@ -315,16 +315,16 @@
  39: 0x0304 [0x27] REQ_SET(priority=0x03, entity_id=Pakh Jatalfih (ID: 17772549/0x010F3005), tag_num=0x11)
  40: 0x030B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm32" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  41: 0x031C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm32" with entities [LocalPlayer, LocalPlayer], work=143*
- 42: 0x032B [0x2B] Pakh Jatalfih (ID: 17772549/0x010F3005) [10099*]:
+ 42: 0x032B [0x2B] Pakh Jatalfih (ID: 17772549/0x010F3005) [10101*]:
     → "Your deeds will shine upon us all, <Player>. I'm sure you'll be able to put the archduke's worries to rest."
  43: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0333 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Pakh Jatalfih (ID: 17772549/0x010F3005), tag_num=0x16)
- 45: 0x033A [0x24] CREATE_DIALOG(message_id=10100*, default_option=0*, option_flags=0*)
+ 45: 0x033A [0x24] CREATE_DIALOG(message_id=10102*, default_option=0*, option_flags=0*)
     → "Proceed to the archduke's palace? [Right away./Let me think about it.]"
  46: 0x0341 [0x25] WAIT_DIALOG_SELECT()
  47: 0x0342 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0368
  48: 0x034A [0x27] REQ_SET(priority=0x03, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x04)
- 49: 0x0351 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10103*]:
+ 49: 0x0351 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10105*]:
     → "Spoken like a true Windurstian!"
  50: 0x0358 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0359 [0x27] REQ_SET(priority=0x04, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x08)
@@ -332,7 +332,7 @@
  53: 0x0365 [0x01] GOTO 0x038E
  54: 0x0368 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x038E
  55: 0x0370 [0x27] REQ_SET(priority=0x03, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x04)
- 56: 0x0377 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10106*]:
+ 56: 0x0377 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10108*]:
     → "Hey, don't worry! All new diplomatic staff have to present themselves to the archduke anyway. It's always darkest before the dawn, say the wise men."
  57: 0x037E [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x037F [0x27] REQ_SET(priority=0x04, entity_id=Heimji-Keimji (ID: 17772550/0x010F3006), tag_num=0x08)
@@ -344,19 +344,19 @@ SUBROUTINE_038E:
  62: 0x0398 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x13)
  63: 0x039F [0x03] Work_Zone[9] = 56*
  64: 0x03A4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x03BE
- 65: 0x03AC [0x2B] Pakh Jatalfih (ID: 17772549/0x010F3005) [10111*]:
+ 65: 0x03AC [0x2B] Pakh Jatalfih (ID: 17772549/0x010F3005) [10113*]:
     → "Here is your $3."
  66: 0x03B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x03B4 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Pakh Jatalfih (ID: 17772549/0x010F3005), tag_num=0x15)
  68: 0x03BB [0x01] GOTO 0x03C6
- 69: 0x03BE [0x2B] Pakh Jatalfih (ID: 17772549/0x010F3005) [10112*]:
+ 69: 0x03BE [0x2B] Pakh Jatalfih (ID: 17772549/0x010F3005) [10114*]:
     → "You already have $6? Well, I guess there is no need to issue you a new one."
  70: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03C6:
  71: 0x03C6 [0x79] LocalPlayer looks at Heimji-Keimji (ID: 17772550/0x010F3006) (Basic look)
  72: 0x03D0 [0x4A] LocalPlayer looks at Heimji-Keimji (ID: 17772550/0x010F3006)
- 73: 0x03D9 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10115*]:
+ 73: 0x03D9 [0x2B] Heimji-Keimji (ID: 17772550/0x010F3006) [10117*]:
     → "This mission is critical to our friendship with the Jeunoans. May the stars watch over you!"
  74: 0x03E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x03E1 [0x1C] WAIT(60* ticks)

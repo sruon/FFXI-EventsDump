@@ -23,16 +23,16 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x004B      |          75 |
-|       1 | 0x1ED4      |        7892 |
+|       1 | 0x1ED6      |        7894 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1ED5      |        7893 |
-|       4 | 0x1EDC      |        7900 |
+|       3 | 0x1ED7      |        7895 |
+|       4 | 0x1EDE      |        7902 |
 
 ## String References
 
-- **7892**: Hey! Salute when you speak to me! I am second captain of the Royal Knights Youth Division! Don't make me use my nirvana slash on you!
-- **7893**: Maybe we could use you. You'd be just a private...but there is plenty of opportunity for advancement.
-- **7900**: Yeah, a tradegic stretreat!
+- **7894**: Hey! Salute when you speak to me! I am second captain of the Royal Knights Youth Division! Don't make me use my nirvana slash on you!
+- **7895**: Maybe we could use you. You'd be just a private...but there is plenty of opportunity for advancement.
+- **7902**: Yeah, a tradegic stretreat!
 
 ## Events
 
@@ -107,11 +107,11 @@
   2: 0x000D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
-  5: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
+  5: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
     → "Hey! Salute when you speak to me! I am second captain of the Royal Knights Youth Division! Don't make me use my nirvana slash on you!"
   6: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0022 [0x1C] WAIT(30* ticks)
-  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
+  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
     → "Maybe we could use you. You'd be just a private...but there is plenty of opportunity for advancement."
   9: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0029 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -146,7 +146,7 @@
   2: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0040 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
-  5: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
+  5: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "Yeah, a tradegic stretreat!"
   6: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0053 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

@@ -36,12 +36,12 @@
 |      13 | 0x003C      |          60 |
 |      14 | 0x077F      |        1919 |
 |      15 | 0x0A32      |        2610 |
-|      16 | 0x1E98      |        7832 |
+|      16 | 0x1E9A      |        7834 |
 |      17 | 0x005A      |          90 |
 
 ## String References
 
-- **7832**: The leafkin is daintily planting seeds in the ground, its expression one of mischievous joy.
+- **7834**: The leafkin is daintily planting seeds in the ground, its expression one of mischievous joy.
 
 ## Events
 
@@ -136,7 +136,7 @@
  25: 0x00CA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "sp00" with entities [Unnamed NPC (ID: 17842704/0x01104210), Unnamed NPC (ID: 17842704/0x01104210)]
  26: 0x00D7 [0x1C] WAIT(15* ticks)
  27: 0x00DA [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17842704/0x01104210)
- 28: 0x00E3 [0x48] [System] [7832*]:
+ 28: 0x00E3 [0x48] [System] [7834*]:
     → "The leafkin is daintily planting seeds in the ground, its expression one of mischievous joy."
  29: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00E7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sp00" with entities [Unnamed NPC (ID: 17842704/0x01104210), Unnamed NPC (ID: 17842704/0x01104210)]

@@ -51,10 +51,10 @@
 |       1 | 0x0001      |           1 |
 |       2 | 0x0040      |          64 |
 |       3 | 0x012C      |         300 |
-|       4 | 0x2AB8      |       10936 |
-|       5 | 0x2AB9      |       10937 |
-|       6 | 0x2ABB      |       10939 |
-|       7 | 0x2ABC      |       10940 |
+|       4 | 0x2ABA      |       10938 |
+|       5 | 0x2ABB      |       10939 |
+|       6 | 0x2ABD      |       10941 |
+|       7 | 0x2ABE      |       10942 |
 |       8 | 0x35DD      |       13789 |
 |       9 | 0xFFFEA463  |  4294878307 |
 |      10 | 0x62C5      |       25285 |
@@ -65,21 +65,21 @@
 |      15 | 0xB248      |       45640 |
 |      16 | 0x5DBF      |       23999 |
 |      17 | 0x024D      |         589 |
-|      18 | 0x2AF8      |       11000 |
-|      19 | 0x2AF9      |       11001 |
-|      20 | 0x2AFB      |       11003 |
-|      21 | 0x2AFC      |       11004 |
+|      18 | 0x2AFA      |       11002 |
+|      19 | 0x2AFB      |       11003 |
+|      20 | 0x2AFD      |       11005 |
+|      21 | 0x2AFE      |       11006 |
 
 ## String References
 
-- **10936**: You are too late. I have awoken.
-- **10937**: Your rage, cowardice, envy, arrogance, and apathy... From these I will spread the bane of Vana'diel.
-- **10939**: Your kind has awoken me...and this time, you will be destroyed!
-- **10940**: You cannot stop me. Vana'diel will be a grave for you and all your kind!
-- **11000**: You are too late... I have already awakened.
-- **11001**: Your anger, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel.
-- **11003**: Your kind has awakened me...and this time, you will be destroyed!
-- **11004**: You cannot stop me. Vana'diel will be the grave for you and all your kind!
+- **10938**: You are too late. I have awoken.
+- **10939**: Your rage, cowardice, envy, arrogance, and apathy... From these I will spread the bane of Vana'diel.
+- **10941**: Your kind has awoken me...and this time, you will be destroyed!
+- **10942**: You cannot stop me. Vana'diel will be a grave for you and all your kind!
+- **11002**: You are too late... I have already awakened.
+- **11003**: Your anger, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel.
+- **11005**: Your kind has awakened me...and this time, you will be destroyed!
+- **11006**: You cannot stop me. Vana'diel will be the grave for you and all your kind!
 
 ## Events
 
@@ -243,7 +243,7 @@
 #### Opcodes
 
 ```
-  0: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=10936*)
+  0: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=10938*)
     → "You are too late. I have awoken."
   1: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x003A [0x00] END_REQSTACK()
@@ -268,7 +268,7 @@
 #### Opcodes
 
 ```
-  0: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=10937*)
+  0: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=10939*)
     → "Your rage, cowardice, envy, arrogance, and apathy... From these I will spread the bane of Vana'diel."
   1: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x003F [0x00] END_REQSTACK()
@@ -293,7 +293,7 @@
 #### Opcodes
 
 ```
-  0: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=10939*)
+  0: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=10941*)
     → "Your kind has awoken me...and this time, you will be destroyed!"
   1: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0044 [0x00] END_REQSTACK()
@@ -318,7 +318,7 @@
 #### Opcodes
 
 ```
-  0: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=10940*)
+  0: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=10942*)
     → "You cannot stop me. Vana'diel will be a grave for you and all your kind!"
   1: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0049 [0x00] END_REQSTACK()
@@ -702,7 +702,7 @@
 #### Opcodes
 
 ```
-  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=11000*)
+  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=11002*)
     → "You are too late... I have already awakened."
   1: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0119 [0x00] END_REQSTACK()
@@ -727,7 +727,7 @@
 #### Opcodes
 
 ```
-  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=11001*)
+  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=11003*)
     → "Your anger, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel."
   1: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x011E [0x00] END_REQSTACK()
@@ -753,7 +753,7 @@
 #### Opcodes
 
 ```
-  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=11003*)
+  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=11005*)
     → "Your kind has awakened me...and this time, you will be destroyed!"
   1: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0123 [0x00] END_REQSTACK()
@@ -778,7 +778,7 @@
 #### Opcodes
 
 ```
-  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=11004*)
+  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=11006*)
     → "You cannot stop me. Vana'diel will be the grave for you and all your kind!"
   1: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0128 [0x00] END_REQSTACK()

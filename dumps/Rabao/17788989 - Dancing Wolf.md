@@ -84,10 +84,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x01DD      |         477 |
-|       1 | 0x287F      |       10367 |
-|       2 | 0x2882      |       10370 |
-|       3 | 0x28AC      |       10412 |
-|       4 | 0x286D      |       10349 |
+|       1 | 0x2881      |       10369 |
+|       2 | 0x2884      |       10372 |
+|       3 | 0x28AE      |       10414 |
+|       4 | 0x286F      |       10351 |
 |       5 | 0x003C      |          60 |
 |       6 | 0x003D      |          61 |
 |       7 | 0x0041      |          65 |
@@ -119,10 +119,10 @@
 
 ## String References
 
-- **10349**: I've been sent here on business. A nice place this Rabao is.
-- **10367**: The $3 that we are looking for only appears in the Gustav Tunnel where freshwater and saltwater mix.
-- **10370**: If you happen to find the $3, bring it to me before you return to Bastok. I'm required to write a report of your findings.
-- **10412**: Hurry the $3 back to the senator. I will send the report later by chocobo.
+- **10351**: I've been sent here on business. A nice place this Rabao is.
+- **10369**: The $3 that we are looking for only appears in the Gustav Tunnel where freshwater and saltwater mix.
+- **10372**: If you happen to find the $3, bring it to me before you return to Bastok. I'm required to write a report of your findings.
+- **10414**: Hurry the $3 back to the senator. I will send the report later by chocobo.
 
 ## Events
 
@@ -192,10 +192,10 @@
 ```
   0: 0x0002 [0x03] Work_Zone[9] = 477*
   1: 0x0007 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=10367*)
+  2: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=10369*)
     → "The $3 that we are looking for only appears in the Gustav Tunnel where freshwater and saltwater mix."
   3: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=10370*)
+  4: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=10372*)
     → "If you happen to find the $3, bring it to me before you return to Bastok. I'm required to write a report of your findings."
   5: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0014 [0x21] END_EVENT
@@ -246,7 +246,7 @@
 ```
   0: 0x0017 [0x03] Work_Zone[9] = 477*
   1: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10412*)
+  2: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10414*)
     → "Hurry the $3 back to the senator. I will send the report later by chocobo."
   3: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0025 [0x21] END_EVENT
@@ -274,7 +274,7 @@
 
 ```
   0: 0x0027 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10349*)
+  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10351*)
     → "I've been sent here on business. A nice place this Rabao is."
   2: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0030 [0x21] END_EVENT

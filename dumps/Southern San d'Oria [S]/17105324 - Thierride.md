@@ -36,95 +36,95 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D64      |        7524 |
+|       0 | 0x1D66      |        7526 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x003C      |          60 |
 |       4 | 0x0013      |          19 |
 |       5 | 0x0155      |         341 |
-|       6 | 0x1D65      |        7525 |
-|       7 | 0x1D66      |        7526 |
+|       6 | 0x1D67      |        7527 |
+|       7 | 0x1D68      |        7528 |
 |       8 | 0x0020      |          32 |
-|       9 | 0x1D67      |        7527 |
+|       9 | 0x1D69      |        7529 |
 |      10 | 0x0016      |          22 |
-|      11 | 0x1D68      |        7528 |
+|      11 | 0x1D6A      |        7530 |
 |      12 | 0x0024      |          36 |
-|      13 | 0x1D69      |        7529 |
+|      13 | 0x1D6B      |        7531 |
 |      14 | 0x0006      |           6 |
-|      15 | 0x1D6A      |        7530 |
-|      16 | 0x1D6B      |        7531 |
+|      15 | 0x1D6C      |        7532 |
+|      16 | 0x1D6D      |        7533 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x1D6C      |        7532 |
+|      18 | 0x1D6E      |        7534 |
 |      19 | 0x0001      |           1 |
-|      20 | 0x1D6D      |        7533 |
-|      21 | 0x1D6E      |        7534 |
+|      20 | 0x1D6F      |        7535 |
+|      21 | 0x1D70      |        7536 |
 |      22 | 0x0015      |          21 |
-|      23 | 0x1D6F      |        7535 |
-|      24 | 0x1D70      |        7536 |
+|      23 | 0x1D71      |        7537 |
+|      24 | 0x1D72      |        7538 |
 |      25 | 0x005A      |          90 |
 |      26 | 0x017C      |         380 |
-|      27 | 0x1D71      |        7537 |
+|      27 | 0x1D73      |        7539 |
 |      28 | 0x000B      |          11 |
-|      29 | 0x1D72      |        7538 |
+|      29 | 0x1D74      |        7540 |
 |      30 | 0x0007      |           7 |
-|      31 | 0x1D73      |        7539 |
+|      31 | 0x1D75      |        7541 |
 |      32 | 0x0004      |           4 |
-|      33 | 0x1D74      |        7540 |
-|      34 | 0x1D75      |        7541 |
-|      35 | 0x1D76      |        7542 |
+|      33 | 0x1D76      |        7542 |
+|      34 | 0x1D77      |        7543 |
+|      35 | 0x1D78      |        7544 |
 |      36 | 0x000A      |          10 |
-|      37 | 0x1D77      |        7543 |
-|      38 | 0x1D78      |        7544 |
-|      39 | 0x1D79      |        7545 |
-|      40 | 0x1D7A      |        7546 |
-|      41 | 0x1D7B      |        7547 |
+|      37 | 0x1D79      |        7545 |
+|      38 | 0x1D7A      |        7546 |
+|      39 | 0x1D7B      |        7547 |
+|      40 | 0x1D7C      |        7548 |
+|      41 | 0x1D7D      |        7549 |
 |      42 | 0x000F      |          15 |
 |      43 | 0x001E      |          30 |
 |      44 | 0x00E6      |         230 |
 |      45 | 0x00FF      |         255 |
 |      46 | 0x0091      |         145 |
 |      47 | 0x00C9      |         201 |
-|      48 | 0x1D7C      |        7548 |
-|      49 | 0x1D7D      |        7549 |
-|      50 | 0x1D7E      |        7550 |
-|      51 | 0x1D81      |        7553 |
-|      52 | 0x1D82      |        7554 |
+|      48 | 0x1D7E      |        7550 |
+|      49 | 0x1D7F      |        7551 |
+|      50 | 0x1D80      |        7552 |
+|      51 | 0x1D83      |        7555 |
+|      52 | 0x1D84      |        7556 |
 |      53 | 0x0005      |           5 |
-|      54 | 0x1D83      |        7555 |
-|      55 | 0x1D86      |        7558 |
+|      54 | 0x1D85      |        7557 |
+|      55 | 0x1D88      |        7560 |
 |      56 | 0x07A1      |        1953 |
-|      57 | 0x1D87      |        7559 |
-|      58 | 0x1D8A      |        7562 |
-|      59 | 0x1D8B      |        7563 |
-|      60 | 0x1D8C      |        7564 |
+|      57 | 0x1D89      |        7561 |
+|      58 | 0x1D8C      |        7564 |
+|      59 | 0x1D8D      |        7565 |
+|      60 | 0x1D8E      |        7566 |
 |      61 | 0x0078      |         120 |
 |      62 | 0x0050      |          80 |
 |      63 | 0x00FE      |         254 |
-|      64 | 0x1D8D      |        7565 |
+|      64 | 0x1D8F      |        7567 |
 |      65 | 0x03FB      |        1019 |
-|      66 | 0x1D8E      |        7566 |
-|      67 | 0x1D92      |        7570 |
-|      68 | 0x1D93      |        7571 |
-|      69 | 0x1D94      |        7572 |
-|      70 | 0x1D95      |        7573 |
-|      71 | 0x1D96      |        7574 |
-|      72 | 0x1D97      |        7575 |
+|      66 | 0x1D90      |        7568 |
+|      67 | 0x1D94      |        7572 |
+|      68 | 0x1D95      |        7573 |
+|      69 | 0x1D96      |        7574 |
+|      70 | 0x1D97      |        7575 |
+|      71 | 0x1D98      |        7576 |
+|      72 | 0x1D99      |        7577 |
 |      73 | 0x0898      |        2200 |
-|      74 | 0x1D98      |        7576 |
+|      74 | 0x1D9A      |        7578 |
 |      75 | 0x002D      |          45 |
-|      76 | 0x1D99      |        7577 |
+|      76 | 0x1D9B      |        7579 |
 |      77 | 0x1648      |        5704 |
-|      78 | 0x1D9A      |        7578 |
+|      78 | 0x1D9C      |        7580 |
 |      79 | 0x0014      |          20 |
-|      80 | 0x1D9B      |        7579 |
+|      80 | 0x1D9D      |        7581 |
 |      81 | 0x0009      |           9 |
 |      82 | 0x00B4      |         180 |
-|      83 | 0x1D9C      |        7580 |
-|      84 | 0x1D9D      |        7581 |
-|      85 | 0x1D9E      |        7582 |
-|      86 | 0x1D8F      |        7567 |
-|      87 | 0x1D90      |        7568 |
-|      88 | 0x1D91      |        7569 |
+|      83 | 0x1D9E      |        7582 |
+|      84 | 0x1D9F      |        7583 |
+|      85 | 0x1DA0      |        7584 |
+|      86 | 0x1D91      |        7569 |
+|      87 | 0x1D92      |        7570 |
+|      88 | 0x1D93      |        7571 |
 |      89 | 0xFFFCBAF2  |  4294753010 |
 |      90 | 0xF9E7      |       63975 |
 |      91 | 0xFFFFF47B  |  4294964347 |
@@ -140,59 +140,59 @@
 
 ## String References
 
-- **7524**: Will this cursed war never end? My fishing boat's anchor now serves only to collect barnacles...
-- **7525**: Listen to my story, if you will. You may be surprised to learn that I am a fisherman. However, the influence of the raging war has resulted in my profession being placed on an indefinite hiatus.
-- **7526**: It was a most difficult decision, but under the current circumstances, a change in profession was for the best. Cuisine is where I have decided to try my luck. I plan to open a diner that caters to soldiers.
-- **7527**: With the assistance of a knight friend of mine, I was able to obtain official permission to open shop. But the issue of supply procurement remains...
-- **7528**: Fish cuisine is my specialty, but I trust you understand why that is problematic right now. Nowadays, beans are just about the only ingredient that can be obtained without needing to risk one's life.
-- **7529**: So I thought to myself, "If there is naught else to be had but beans, then so be it!" Since then, I have toiled away many a day in the kitchen, trying to invent a mouthwatering bean dish, the likes of which no soul on Vana'diel has ever tasted.
-- **7530**: Alas, the results have so far been discouraging.
-- **7531**: Surely, a seasoning that can capture the hearts and palates of all people exists somewhere in this great wide world of ours...
-- **7532**: Ah, this. I have tried it myself, but to no avail. The resultant bland flavor was less than inspiring.
-- **7533**: Aaah... I am well acquainted with this one. I tried numerous methods of preparation, but in the end, its smell was so overpowering, at times I would forget I was eating beans.
-- **7534**: No, this one did not work out. I had thought it promising, but was grievously betrayed. Any application of heat will have its flavor disappearing like magic.
-- **7535**: Hmmm? This magnificent glitter...just like those you see on precious stones. I have a good feeling about this one.
-- **7536**: Thank you kindly. I shall try cooking with it immediately.
-- **7537**: Good Goddess!
-- **7538**: The seasoning... It's amazing!
-- **7539**: A little more of this will make it possible to bring out the bean's flavor to the fullest!
-- **7540**: Why, I don't remember being this excited since reeling in the "Lord of Lake Lufet" after an epic eight-hour battle!
-- **7541**: Might I be able to trouble you to acquire more of that seasoning?
-- **7542**: What is this you have brought me? I appreciate your good intentions, but this is not what I asked for.
-- **7543**: Yes, this is it! It shares the same enchanting glitter as the one you first brought...
-- **7544**: I shall get to work right away. Will you stay and bear witness to what will surely become a historic moment?
-- **7545**: Will you bear witness? [If there's free food involved.../Thanks, but no thanks.]
-- **7546**: Fabulous! Well then, come in! Come in!
-- **7547**: There's no need to be shy, now. I insist!
-- **7548**: Glorious! This is exactly the taste I was after!
-- **7549**: Can you not feel the rich, flavorsome aroma permeating through your entire being?
-- **7550**: Here, you simply must try it...
-- **7553**: Haha! It appears our scavengers have arrived!
-- **7554**: For too long have I been corrupting your sense of smell with offensive odors. And I say that with a double meaning.
-- **7555**: My very own specialty bean dish is now complete!
-- **7558**: Why, of course! It's piping hot, so don't go scalding your tongue on it, you hear?
-- **7559**: So...tell me what you think, little ones.
-- **7562**: <Chuckle> Such comments from the mouths of children are most reassuring. Now I can finally start the business without reserve.
-- **7563**: I owe all this to you, for finding a seasoning so delectable, it borders on miraculous. This new bean dish is bound to delight both citizens and knights alike.
-- **7564**: The wretched beastmen may try to break down our walls, but we shall return the favor by breaking them with our wind! Mwahahahaha!
-- **7565**: A-ahem! Please be so kind as to forget that rather unsavory outburst. Now, before I forget, I was intending to ask you...
-- **7566**: Was the seasoning you brought $0?
-- **7567**: Well, was it? [Good guess!/Wrong.]
-- **7568**: I knew it! It seems my fisherman's instincts are still alive and well.
-- **7569**: No, I am certain of it. Only with Lufet salt could one aspire to achieve such a distinct flavor.
-- **7570**: I must find a way to procure a stable supply. Perhaps I can negotiate a delivery deal with the knights...
-- **7571**: Thank you again. Right now there is naught I can do in return, but I will not soon forget your kindness.
-- **7572**: Ah, superb timing!
-- **7573**: Since that day, I was able to make arrangements through my knight friend.
-- **7574**: The knights have agreed to deliver $0 to me--on the condition that I make the bean dish for their rations! This will surely keep me busy for a while.
-- **7575**: Though my plans for the diner have been postponed, I appreciate this opportunity to contribute in my own small way to the war effort. Heheh...
-- **7576**: The sooner the war ends, the sooner I can return to sea and resume working as a fisherman.
-- **7577**: Until then, I shall leave my anchor lowered right here, in San d'Oria.
-- **7578**: I've been wanting you to taste my new specialty, $0. After all, it is to you that this dish owes its existence.
-- **7579**: Please drop by anytime. I look forward to seeing you again.
-- **7580**: Until the war ends, I shall leave my anchor lowered right here, in San d'Oria.
-- **7581**: I have just now finished cooking another batch of $0. This is for you, fresh from the fire! These are hard times, but there is nothing a little effort won't see us through.
-- **7582**: Oh, it appears I was mistaken... The $0 still needs to simmer for a while yet, so please drop by again later.
+- **7526**: Will this cursed war never end? My fishing boat's anchor now serves only to collect barnacles...
+- **7527**: Listen to my story, if you will. You may be surprised to learn that I am a fisherman. However, the influence of the raging war has resulted in my profession being placed on an indefinite hiatus.
+- **7528**: It was a most difficult decision, but under the current circumstances, a change in profession was for the best. Cuisine is where I have decided to try my luck. I plan to open a diner that caters to soldiers.
+- **7529**: With the assistance of a knight friend of mine, I was able to obtain official permission to open shop. But the issue of supply procurement remains...
+- **7530**: Fish cuisine is my specialty, but I trust you understand why that is problematic right now. Nowadays, beans are just about the only ingredient that can be obtained without needing to risk one's life.
+- **7531**: So I thought to myself, "If there is naught else to be had but beans, then so be it!" Since then, I have toiled away many a day in the kitchen, trying to invent a mouthwatering bean dish, the likes of which no soul on Vana'diel has ever tasted.
+- **7532**: Alas, the results have so far been discouraging.
+- **7533**: Surely, a seasoning that can capture the hearts and palates of all people exists somewhere in this great wide world of ours...
+- **7534**: Ah, this. I have tried it myself, but to no avail. The resultant bland flavor was less than inspiring.
+- **7535**: Aaah... I am well acquainted with this one. I tried numerous methods of preparation, but in the end, its smell was so overpowering, at times I would forget I was eating beans.
+- **7536**: No, this one did not work out. I had thought it promising, but was grievously betrayed. Any application of heat will have its flavor disappearing like magic.
+- **7537**: Hmmm? This magnificent glitter...just like those you see on precious stones. I have a good feeling about this one.
+- **7538**: Thank you kindly. I shall try cooking with it immediately.
+- **7539**: Good Goddess!
+- **7540**: The seasoning... It's amazing!
+- **7541**: A little more of this will make it possible to bring out the bean's flavor to the fullest!
+- **7542**: Why, I don't remember being this excited since reeling in the "Lord of Lake Lufet" after an epic eight-hour battle!
+- **7543**: Might I be able to trouble you to acquire more of that seasoning?
+- **7544**: What is this you have brought me? I appreciate your good intentions, but this is not what I asked for.
+- **7545**: Yes, this is it! It shares the same enchanting glitter as the one you first brought...
+- **7546**: I shall get to work right away. Will you stay and bear witness to what will surely become a historic moment?
+- **7547**: Will you bear witness? [If there's free food involved.../Thanks, but no thanks.]
+- **7548**: Fabulous! Well then, come in! Come in!
+- **7549**: There's no need to be shy, now. I insist!
+- **7550**: Glorious! This is exactly the taste I was after!
+- **7551**: Can you not feel the rich, flavorsome aroma permeating through your entire being?
+- **7552**: Here, you simply must try it...
+- **7555**: Haha! It appears our scavengers have arrived!
+- **7556**: For too long have I been corrupting your sense of smell with offensive odors. And I say that with a double meaning.
+- **7557**: My very own specialty bean dish is now complete!
+- **7560**: Why, of course! It's piping hot, so don't go scalding your tongue on it, you hear?
+- **7561**: So...tell me what you think, little ones.
+- **7564**: <Chuckle> Such comments from the mouths of children are most reassuring. Now I can finally start the business without reserve.
+- **7565**: I owe all this to you, for finding a seasoning so delectable, it borders on miraculous. This new bean dish is bound to delight both citizens and knights alike.
+- **7566**: The wretched beastmen may try to break down our walls, but we shall return the favor by breaking them with our wind! Mwahahahaha!
+- **7567**: A-ahem! Please be so kind as to forget that rather unsavory outburst. Now, before I forget, I was intending to ask you...
+- **7568**: Was the seasoning you brought $0?
+- **7569**: Well, was it? [Good guess!/Wrong.]
+- **7570**: I knew it! It seems my fisherman's instincts are still alive and well.
+- **7571**: No, I am certain of it. Only with Lufet salt could one aspire to achieve such a distinct flavor.
+- **7572**: I must find a way to procure a stable supply. Perhaps I can negotiate a delivery deal with the knights...
+- **7573**: Thank you again. Right now there is naught I can do in return, but I will not soon forget your kindness.
+- **7574**: Ah, superb timing!
+- **7575**: Since that day, I was able to make arrangements through my knight friend.
+- **7576**: The knights have agreed to deliver $0 to me--on the condition that I make the bean dish for their rations! This will surely keep me busy for a while.
+- **7577**: Though my plans for the diner have been postponed, I appreciate this opportunity to contribute in my own small way to the war effort. Heheh...
+- **7578**: The sooner the war ends, the sooner I can return to sea and resume working as a fisherman.
+- **7579**: Until then, I shall leave my anchor lowered right here, in San d'Oria.
+- **7580**: I've been wanting you to taste my new specialty, $0. After all, it is to you that this dish owes its existence.
+- **7581**: Please drop by anytime. I look forward to seeing you again.
+- **7582**: Until the war ends, I shall leave my anchor lowered right here, in San d'Oria.
+- **7583**: I have just now finished cooking another batch of $0. This is for you, fresh from the fire! These are hard times, but there is nothing a little effort won't see us through.
+- **7584**: Oh, it appears I was mistaken... The $0 still needs to simmer for a while yet, so please drop by again later.
 
 ## Events
 
@@ -239,7 +239,7 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "Will this cursed war never end? My fishing boat's anchor now serves only to collect barnacles..."
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -308,18 +308,18 @@
  15: 0x007A [0x1C] WAIT(60* ticks)
  16: 0x007D [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 19*
  17: 0x0084 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 18: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+ 18: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "Listen to my story, if you will. You may be surprised to learn that I am a fisherman. However, the influence of the raging war has resulted in my profession being placed on an indefinite hiatus."
  19: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x008D [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
  21: 0x0092 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "ko01" with entities [LocalPlayer, LocalPlayer], work=341*
  22: 0x00A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko07" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 23: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+ 23: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "It was a most difficult decision, but under the current circumstances, a change in profession was for the best. Cuisine is where I have decided to try my luck. I plan to open a diner that caters to soldiers."
  24: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00B6 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 32*
  26: 0x00BD [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 27: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+ 27: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
     → "With the assistance of a knight friend of mine, I was able to obtain official permission to open shop. But the issue of supply procurement remains..."
  28: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00C6 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -327,19 +327,19 @@
  31: 0x00DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko02" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  32: 0x00EB [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 22*
  33: 0x00F2 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 34: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+ 34: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
     → "Fish cuisine is my specialty, but I trust you understand why that is problematic right now. Nowadays, beans are just about the only ingredient that can be obtained without needing to risk one's life."
  35: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00FB [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
  37: 0x0100 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 36*
  38: 0x0107 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 39: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+ 39: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "So I thought to myself, "If there is naught else to be had but beans, then so be it!" Since then, I have toiled away many a day in the kitchen, trying to invent a mouthwatering bean dish, the likes of which no soul on Vana'diel has ever tasted."
  40: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0110 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
  42: 0x0115 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 6*
  43: 0x011C [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 44: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
+ 44: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
     → "Alas, the results have so far been discouraging."
  45: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0125 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -347,7 +347,7 @@
  48: 0x0139 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko06" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  49: 0x014A [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 32*
  50: 0x0151 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 51: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+ 51: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "Surely, a seasoning that can capture the hearts and palates of all people exists somewhere in this great wide world of ours..."
  52: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x015A [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -383,7 +383,7 @@
 ```
   0: 0x0199 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x019B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+  2: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "Surely, a seasoning that can capture the hearts and palates of all people exists somewhere in this great wide world of ours..."
   3: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01A4 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -418,17 +418,17 @@
   1: 0x01AA [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x01AF [0x13] ExtData[1]->WorkLocal[0] = rand() % 2*
   3: 0x01B4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x01C3
-  4: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+  4: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
     → "Ah, this. I have tried it myself, but to no avail. The resultant bland flavor was less than inspiring."
   5: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01C0 [0x01] GOTO 0x01E1
   7: 0x01C3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x01D2
-  8: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
+  8: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "Aaah... I am well acquainted with this one. I tried numerous methods of preparation, but in the end, its smell was so overpowering, at times I would forget I was eating beans."
   9: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01CF [0x01] GOTO 0x01E1
  11: 0x01D2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x01E1
- 12: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
+ 12: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
     → "No, this one did not work out. I had thought it promising, but was grievously betrayed. Any application of heat will have its flavor disappearing like magic."
  13: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x01DE [0x01] GOTO 0x01E1
@@ -517,10 +517,10 @@ SUBROUTINE_01E1:
  15: 0x024F [0x1C] WAIT(60* ticks)
  16: 0x0252 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 21*
  17: 0x0259 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 18: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
+ 18: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
     → "Hmmm? This magnificent glitter...just like those you see on precious stones. I have a good feeling about this one."
  19: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
+ 20: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
     → "Thank you kindly. I shall try cooking with it immediately."
  21: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0266 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -552,20 +552,20 @@ SUBROUTINE_01E1:
  48: 0x0374 [0x27] REQ_SET(priority=0x0F, entity_id=Thierride (ID: 17105324/0x010501AC), tag_num=0x11)
  49: 0x037B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  50: 0x038C [0x1C] WAIT(60* ticks)
- 51: 0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
+ 51: 0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
     → "Good Goddess!"
  52: 0x0392 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0393 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 11*
  54: 0x039A [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
  55: 0x039F [0x52] END_LOAD_SCHEDULER: End scheduler "ko01" with entities [LocalPlayer, LocalPlayer], work=341*
  56: 0x03AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko02" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 57: 0x03BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
+ 57: 0x03BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
     → "The seasoning... It's amazing!"
  58: 0x03C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x03C3 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
  60: 0x03C8 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 7*
  61: 0x03CF [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 62: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
+ 62: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
     → "A little more of this will make it possible to bring out the bean's flavor to the fullest!"
  63: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x03D8 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -573,13 +573,13 @@ SUBROUTINE_01E1:
  66: 0x03EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko07" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  67: 0x03FD [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 4*
  68: 0x0404 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 69: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
+ 69: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=7542*)
     → "Why, I don't remember being this excited since reeling in the "Lord of Lake Lufet" after an epic eight-hour battle!"
  70: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x040D [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
  72: 0x0412 [0x52] END_LOAD_SCHEDULER: End scheduler "ko07" with entities [LocalPlayer, LocalPlayer], work=341*
  73: 0x0421 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko02" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 74: 0x0432 [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
+ 74: 0x0432 [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
     → "Might I be able to trouble you to acquire more of that seasoning?"
  75: 0x0435 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0436 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -615,7 +615,7 @@ SUBROUTINE_01E1:
 ```
   0: 0x0475 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0477 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
+  2: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
     → "Might I be able to trouble you to acquire more of that seasoning?"
   3: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0480 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -645,7 +645,7 @@ SUBROUTINE_01E1:
 ```
   0: 0x0484 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0486 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x048B [0x1D] PRINT_EVENT_MESSAGE(message_id=7542*)
+  2: 0x048B [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
     → "What is this you have brought me? I appreciate your good intentions, but this is not what I asked for."
   3: 0x048E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x048F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -799,15 +799,15 @@ SUBROUTINE_01E1:
  15: 0x04FD [0x1C] WAIT(60* ticks)
  16: 0x0500 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 10*
  17: 0x0507 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 18: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
+ 18: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
     → "Yes, this is it! It shares the same enchanting glitter as the one you first brought..."
  19: 0x050F [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0510 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 21: 0x0515 [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
+ 21: 0x0515 [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
     → "I shall get to work right away. Will you stay and bear witness to what will surely become a historic moment?"
  22: 0x0518 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0519 [0x52] END_LOAD_SCHEDULER: End scheduler "ko01" with entities [LocalPlayer, LocalPlayer], work=341*
- 24: 0x0528 [0x24] CREATE_DIALOG(message_id=7545*, default_option=0*, option_flags=0*)
+ 24: 0x0528 [0x24] CREATE_DIALOG(message_id=7547*, default_option=0*, option_flags=0*)
     → "Will you bear witness? [If there's free food involved.../Thanks, but no thanks.]"
  25: 0x052F [0x25] WAIT_DIALOG_SELECT()
  26: 0x0530 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0581
@@ -815,7 +815,7 @@ SUBROUTINE_01E1:
  28: 0x053F [0x1C] WAIT(90* ticks)
  29: 0x0542 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 7*
  30: 0x0549 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 31: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
+ 31: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
     → "Fabulous! Well then, come in! Come in!"
  32: 0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0552 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -830,7 +830,7 @@ SUBROUTINE_01E1:
  42: 0x0590 [0x1C] WAIT(90* ticks)
  43: 0x0593 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 6*
  44: 0x059A [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 45: 0x059F [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
+ 45: 0x059F [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
     → "There's no need to be shy, now. I insist!"
  46: 0x05A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x05A3 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -882,7 +882,7 @@ SUBROUTINE_05CF:
  91: 0x06F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko03" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  92: 0x0704 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 7*
  93: 0x070B [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 94: 0x0710 [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
+ 94: 0x0710 [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
     → "Glorious! This is exactly the taste I was after!"
  95: 0x0713 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0714 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -893,13 +893,13 @@ SUBROUTINE_05CF:
 101: 0x074F [0x1C] WAIT(15* ticks)
 102: 0x0752 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 10*
 103: 0x0759 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-104: 0x075E [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
+104: 0x075E [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
     → "Can you not feel the rich, flavorsome aroma permeating through your entire being?"
 105: 0x0761 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0762 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
 107: 0x0767 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 7*
 108: 0x076E [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-109: 0x0773 [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
+109: 0x0773 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
     → "Here, you simply must try it..."
 110: 0x0776 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x0777 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -917,17 +917,17 @@ SUBROUTINE_05CF:
 123: 0x07D1 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Antreneau (ID: 17105326/0x010501AE), tag_num=0x02)
 124: 0x07D8 [0x52] END_LOAD_SCHEDULER: End scheduler "ko05" with entities [LocalPlayer, LocalPlayer], work=341*
 125: 0x07E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko08" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
-126: 0x07F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
+126: 0x07F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
     → "Haha! It appears our scavengers have arrived!"
 127: 0x07FB [0x23] WAIT_FOR_DIALOG_INTERACTION
-128: 0x07FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
+128: 0x07FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
     → "For too long have I been corrupting your sense of smell with offensive odors. And I say that with a double meaning."
 129: 0x07FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0800 [0x52] END_LOAD_SCHEDULER: End scheduler "ko08" with entities [LocalPlayer, LocalPlayer], work=341*
 131: 0x080F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko11" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 132: 0x0820 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 5*
 133: 0x0827 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-134: 0x082C [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
+134: 0x082C [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
     → "My very own specialty bean dish is now complete!"
 135: 0x082F [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0830 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -939,7 +939,7 @@ SUBROUTINE_05CF:
 142: 0x085B [0x7B] Thierride (ID: 17105324/0x010501AC) stops talking
 143: 0x0860 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 7*
 144: 0x0867 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-145: 0x086C [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
+145: 0x086C [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
     → "Why, of course! It's piping hot, so don't go scalding your tongue on it, you hear?"
 146: 0x086F [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x0870 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -960,7 +960,7 @@ SUBROUTINE_05CF:
 162: 0x08F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko11" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 163: 0x0904 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 11*
 164: 0x090B [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-165: 0x0910 [0x1D] PRINT_EVENT_MESSAGE(message_id=7559*)
+165: 0x0910 [0x1D] PRINT_EVENT_MESSAGE(message_id=7561*)
     → "So...tell me what you think, little ones."
 166: 0x0913 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0914 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -977,20 +977,20 @@ SUBROUTINE_05CF:
 178: 0x09A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko11" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 179: 0x09BA [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 4*
 180: 0x09C1 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-181: 0x09C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
+181: 0x09C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
     → "<Chuckle> Such comments from the mouths of children are most reassuring. Now I can finally start the business without reserve."
 182: 0x09C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x09CA [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
 184: 0x09CF [0x52] END_LOAD_SCHEDULER: End scheduler "ko11" with entities [LocalPlayer, LocalPlayer], work=341*
 185: 0x09DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko08" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 186: 0x09EF [0x1E] EventEntity looks at LocalPlayer and starts talking
-187: 0x09F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
+187: 0x09F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
     → "I owe all this to you, for finding a seasoning so delectable, it borders on miraculous. This new bean dish is bound to delight both citizens and knights alike."
 188: 0x09F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x09F8 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=LocalPlayer, tag_num=0x11)
 190: 0x09FF [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 4*
 191: 0x0A06 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-192: 0x0A0B [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
+192: 0x0A0B [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
     → "The wretched beastmen may try to break down our walls, but we shall return the favor by breaking them with our wind! Mwahahahaha!"
 193: 0x0A0E [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x0A0F [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -1016,13 +1016,13 @@ SUBROUTINE_05CF:
 214: 0x0A7F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko01" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 215: 0x0A90 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 216: 0x0AA1 [0x1C] WAIT(60* ticks)
-217: 0x0AA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
+217: 0x0AA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
     → "A-ahem! Please be so kind as to forget that rather unsavory outburst. Now, before I forget, I was intending to ask you..."
 218: 0x0AA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x0AA8 [0x52] END_LOAD_SCHEDULER: End scheduler "ko01" with entities [LocalPlayer, LocalPlayer], work=341*
 220: 0x0AB7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko06" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 221: 0x0AC8 [0x03] Work_Zone[2] = 1019*
-222: 0x0ACD [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
+222: 0x0ACD [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
     → "Was the seasoning you brought $0?"
 223: 0x0AD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x0AD1 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=LocalPlayer, tag_num=0x11)
@@ -1032,13 +1032,13 @@ SUBROUTINE_05CF:
 228: 0x0AFB [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 7*
 229: 0x0B02 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
 230: 0x0B07 [0x03] Work_Zone[2] = 1019*
-231: 0x0B0C [0x1D] PRINT_EVENT_MESSAGE(message_id=7570*)
+231: 0x0B0C [0x1D] PRINT_EVENT_MESSAGE(message_id=7572*)
     → "I must find a way to procure a stable supply. Perhaps I can negotiate a delivery deal with the knights..."
 232: 0x0B0F [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x0B10 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
 234: 0x0B15 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 6*
 235: 0x0B1C [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-236: 0x0B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=7571*)
+236: 0x0B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=7573*)
     → "Thank you again. Right now there is naught I can do in return, but I will not soon forget your kindness."
 237: 0x0B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x0B25 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -1075,7 +1075,7 @@ SUBROUTINE_05CF:
 ```
   0: 0x0B69 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0B6B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0B70 [0x1D] PRINT_EVENT_MESSAGE(message_id=7571*)
+  2: 0x0B70 [0x1D] PRINT_EVENT_MESSAGE(message_id=7573*)
     → "Thank you again. Right now there is naught I can do in return, but I will not soon forget your kindness."
   3: 0x0B73 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0B74 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1153,18 +1153,18 @@ SUBROUTINE_05CF:
  15: 0x0BD3 [0x79] LocalPlayer looks at Thierride (ID: 17105324/0x010501AC) (Basic look)
  16: 0x0BDD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x0BEE [0x1C] WAIT(60* ticks)
- 18: 0x0BF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7572*)
+ 18: 0x0BF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
     → "Ah, superb timing!"
  19: 0x0BF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0BF5 [0x52] END_LOAD_SCHEDULER: End scheduler "ko01" with entities [LocalPlayer, LocalPlayer], work=341*
  21: 0x0C04 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko02" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  22: 0x0C15 [0x03] Work_Zone[2] = 1019*
- 23: 0x0C1A [0x1D] PRINT_EVENT_MESSAGE(message_id=7573*)
+ 23: 0x0C1A [0x1D] PRINT_EVENT_MESSAGE(message_id=7575*)
     → "Since that day, I was able to make arrangements through my knight friend."
  24: 0x0C1D [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0C1E [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 36*
  26: 0x0C25 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 27: 0x0C2A [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
+ 27: 0x0C2A [0x1D] PRINT_EVENT_MESSAGE(message_id=7576*)
     → "The knights have agreed to deliver $0 to me--on the condition that I make the bean dish for their rations! This will surely keep me busy for a while."
  28: 0x0C2D [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0C2E [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -1172,14 +1172,14 @@ SUBROUTINE_05CF:
  31: 0x0C42 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko06" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  32: 0x0C53 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 22*
  33: 0x0C5A [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
- 34: 0x0C5F [0x1D] PRINT_EVENT_MESSAGE(message_id=7575*)
+ 34: 0x0C5F [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
     → "Though my plans for the diner have been postponed, I appreciate this opportunity to contribute in my own small way to the war effort. Heheh..."
  35: 0x0C62 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0C63 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
  37: 0x0C68 [0x4B] UPDATE_ENTITY_YAW(entity=Thierride (ID: 17105324/0x010501AC), yaw=12.1°*)
  38: 0x0C6F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  39: 0x0C70 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Thierride (ID: 17105324/0x010501AC) Render.Flags0 and Render.Flags3 conditions are met
- 40: 0x0C75 [0x1D] PRINT_EVENT_MESSAGE(message_id=7576*)
+ 40: 0x0C75 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
     → "The sooner the war ends, the sooner I can return to sea and resume working as a fisherman."
  41: 0x0C78 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0C79 [0x79] Thierride (ID: 17105324/0x010501AC) looks at Unnamed NPC (ID: 17105327/0x010501AF) (Basic look)
@@ -1187,7 +1187,7 @@ SUBROUTINE_05CF:
  44: 0x0C86 [0x52] END_LOAD_SCHEDULER: End scheduler "ko06" with entities [LocalPlayer, LocalPlayer], work=341*
  45: 0x0C95 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  46: 0x0CA6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko14" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 47: 0x0CB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
+ 47: 0x0CB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
     → "Until then, I shall leave my anchor lowered right here, in San d'Oria."
  48: 0x0CBA [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0CBB [0x03] Work_Zone[2] = 5704*
@@ -1198,7 +1198,7 @@ SUBROUTINE_05CF:
  54: 0x0CE8 [0x1E] EventEntity looks at LocalPlayer and starts talking
  55: 0x0CED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  56: 0x0CEE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 57: 0x0CEF [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
+ 57: 0x0CEF [0x1D] PRINT_EVENT_MESSAGE(message_id=7580*)
     → "I've been wanting you to taste my new specialty, $0. After all, it is to you that this dish owes its existence."
  58: 0x0CF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0CF3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
@@ -1206,7 +1206,7 @@ SUBROUTINE_05CF:
  61: 0x0D05 [0x52] END_LOAD_SCHEDULER: End scheduler "ko02" with entities [LocalPlayer, LocalPlayer], work=341*
  62: 0x0D14 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ko15" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  63: 0x0D25 [0x1C] WAIT(90* ticks)
- 64: 0x0D28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
+ 64: 0x0D28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7581*)
     → "Please drop by anytime. I look forward to seeing you again."
  65: 0x0D2B [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0D2C [0x1C] WAIT(90* ticks)
@@ -1247,7 +1247,7 @@ SUBROUTINE_05CF:
 ```
   0: 0x0D8E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0D90 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0D95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7580*)
+  2: 0x0D95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
     → "Until the war ends, I shall leave my anchor lowered right here, in San d'Oria."
   3: 0x0D98 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0D99 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1280,12 +1280,12 @@ SUBROUTINE_05CF:
   0: 0x0D9D [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0D9E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x0DA0 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0DA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7572*)
+  3: 0x0DA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
     → "Ah, superb timing!"
   4: 0x0DA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0DA9 [0x03] Work_Zone[2] = 5704*
   6: 0x0DAE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
-  7: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=7581*)
+  7: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
     → "I have just now finished cooking another batch of $0. This is for you, fresh from the fire! These are hard times, but there is nothing a little effort won't see us through."
   8: 0x0DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0DC1 [0x1C] WAIT(120* ticks)
@@ -1324,13 +1324,13 @@ SUBROUTINE_05CF:
 ```
   0: 0x0DC8 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0DCA [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0DCF [0x1D] PRINT_EVENT_MESSAGE(message_id=7572*)
+  2: 0x0DCF [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
     → "Ah, superb timing!"
   3: 0x0DD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0DD3 [0x03] Work_Zone[2] = 5704*
   5: 0x0DD8 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 20*
   6: 0x0DDF [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-  7: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
+  7: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
     → "Oh, it appears I was mistaken... The $0 still needs to simmer for a while yet, so please drop by again later."
   8: 0x0DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0DE8 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -1344,7 +1344,7 @@ SUBROUTINE_05CF:
 
 ```
 # Dead code (unreachable instructions):
-     0x0DF4 [0x24] CREATE_DIALOG(message_id=7567*, default_option=0*, option_flags=0*)
+     0x0DF4 [0x24] CREATE_DIALOG(message_id=7569*, default_option=0*, option_flags=0*)
     → "Well, was it? [Good guess!/Wrong.]"
      0x0DFB [0x25] WAIT_DIALOG_SELECT()
      0x0DFC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E26
@@ -1352,7 +1352,7 @@ SUBROUTINE_05CF:
      0x0E0B [0x1C] WAIT(30* ticks)
      0x0E0E [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 11*
      0x0E15 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-     0x0E1A [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
+     0x0E1A [0x1D] PRINT_EVENT_MESSAGE(message_id=7570*)
     → "I knew it! It seems my fisherman's instincts are still alive and well."
      0x0E1D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E1E [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
@@ -1362,7 +1362,7 @@ SUBROUTINE_05CF:
      0x0E35 [0x1C] WAIT(30* ticks)
      0x0E38 [0x6E] Thierride (ID: 17105324/0x010501AC) uses emote 6*
      0x0E3F [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete
-     0x0E44 [0x1D] PRINT_EVENT_MESSAGE(message_id=7569*)
+     0x0E44 [0x1D] PRINT_EVENT_MESSAGE(message_id=7571*)
     → "No, I am certain of it. Only with Lufet salt could one aspire to achieve such a distinct flavor."
      0x0E47 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E48 [0x99] Wait for Thierride (ID: 17105324/0x010501AC) animation to complete

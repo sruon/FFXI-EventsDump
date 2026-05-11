@@ -21,7 +21,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0004      |           4 |
-|       1 | 0x4131      |       16689 |
+|       1 | 0x4134      |       16692 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x000E      |          14 |
@@ -29,24 +29,24 @@
 |       6 | 0x000F      |          15 |
 |       7 | 0x0003      |           3 |
 |       8 | 0x40000000  |  1073741824 |
-|       9 | 0x410C      |       16652 |
-|      10 | 0x413A      |       16698 |
-|      11 | 0x40FD      |       16637 |
+|       9 | 0x410F      |       16655 |
+|      10 | 0x413D      |       16701 |
+|      11 | 0x4100      |       16640 |
 |      12 | 0x0010      |          16 |
-|      13 | 0x413B      |       16699 |
-|      14 | 0x413C      |       16700 |
+|      13 | 0x413E      |       16702 |
+|      14 | 0x413F      |       16703 |
 |      15 | 0x0708      |        1800 |
 |      16 | 0x0E10      |        3600 |
 |      17 | 0x1518      |        5400 |
 |      18 | 0x0C54      |        3156 |
 |      19 | 0x003C      |          60 |
-|      20 | 0x4132      |       16690 |
-|      21 | 0x4133      |       16691 |
-|      22 | 0x4134      |       16692 |
-|      23 | 0x4135      |       16693 |
-|      24 | 0x4136      |       16694 |
-|      25 | 0x4137      |       16695 |
-|      26 | 0x4138      |       16696 |
+|      20 | 0x4135      |       16693 |
+|      21 | 0x4136      |       16694 |
+|      22 | 0x4137      |       16695 |
+|      23 | 0x4138      |       16696 |
+|      24 | 0x4139      |       16697 |
+|      25 | 0x413A      |       16698 |
+|      26 | 0x413B      |       16699 |
 |      27 | 0x005A      |          90 |
 |      28 | 0x00C9      |         201 |
 |      29 | 0x002D      |          45 |
@@ -54,19 +54,19 @@
 
 ## String References
 
-- **16637**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
-- **16652**: Treasure chest bonuses are now active!
-- **16689**: Enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared)? [No thanks./Enter. (CL: $1)/Check area status./About sharing.]
-- **16690**: Shared is a status where solo adventurers all join the same instance.
-- **16691**: Players can enter once per day (Earth time), and this applies to all Dynamis - Divergence shared areas.
-- **16692**: This does not apply to non-shared Dynamis - Divergence instances.
-- **16693**: Shared [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] instaces are open for two hours starting at : (JST) and have a time limit of $11 minutes. Unlike non-shared instances, this time cannot be extended.
-- **16694**: If the instance is late to open, the time limit will be extended by a similar amount.
-- **16695**: The instane will close when the time limit is reached or the Wave 2 boss monster is defeated.
-- **16696**: You can check wave and monster status from the Check Area Status dialog selection.
-- **16698**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared). Proceed?
-- **16699**: You have chosen not to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
-- **16700**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
+- **16640**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
+- **16655**: Treasure chest bonuses are now active!
+- **16692**: Enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared)? [No thanks./Enter. (CL: $1)/Check area status./About sharing.]
+- **16693**: Shared is a status where solo adventurers all join the same instance.
+- **16694**: Players can enter once per day (Earth time), and this applies to all Dynamis - Divergence shared areas.
+- **16695**: This does not apply to non-shared Dynamis - Divergence instances.
+- **16696**: Shared [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] instaces are open for two hours starting at : (JST) and have a time limit of $11 minutes. Unlike non-shared instances, this time cannot be extended.
+- **16697**: If the instance is late to open, the time limit will be extended by a similar amount.
+- **16698**: The instane will close when the time limit is reached or the Wave 2 boss monster is defeated.
+- **16699**: You can check wave and monster status from the Check Area Status dialog selection.
+- **16701**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared). Proceed?
+- **16702**: You have chosen not to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
+- **16703**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared).
 
 ## Events
 
@@ -161,7 +161,7 @@
 
 SUBROUTINE_003D:
  14: 0x003D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
- 15: 0x0042 [0x24] CREATE_DIALOG(message_id=16689*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 15: 0x0042 [0x24] CREATE_DIALOG(message_id=16692*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared)? [No thanks./Enter. (CL: $1)/Check area status./About sharing.]"
  16: 0x0049 [0x25] WAIT_DIALOG_SELECT()
  17: 0x004A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0073
@@ -182,13 +182,13 @@ SUBROUTINE_003D:
 
 SUBROUTINE_00C4:
  32: 0x00C4 [0x02] IF !(ExtData[1]->WorkLocal[18] == 0*) GOTO 0x00CF
- 33: 0x00CC [0x48] [System] [16652*]:
+ 33: 0x00CC [0x48] [System] [16655*]:
     → "Treasure chest bonuses are now active!"
  34: 0x00CF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
- 35: 0x00D4 [0x48] [System] [16698*]:
+ 35: 0x00D4 [0x48] [System] [16701*]:
     → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared). Proceed?"
  36: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x00D8 [0x24] CREATE_DIALOG(message_id=16637*, default_option=0*, option_flags=0*)
+ 37: 0x00D8 [0x24] CREATE_DIALOG(message_id=16640*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
  38: 0x00DF [0x25] WAIT_DIALOG_SELECT()
  39: 0x00E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0106
@@ -200,7 +200,7 @@ SUBROUTINE_00C4:
  45: 0x0100 [0x01] GOTO 0x0028
  46: 0x0103 [0x01] GOTO 0x0115
  47: 0x0106 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
- 48: 0x010B [0x48] [System] [16699*]:
+ 48: 0x010B [0x48] [System] [16702*]:
     → "You have chosen not to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared)."
  49: 0x010E [0x03] Work_Zone[1] = 1073741824*
  50: 0x0113 [0x21] END_EVENT
@@ -208,7 +208,7 @@ SUBROUTINE_00C4:
 
 SUBROUTINE_0115:
  52: 0x0115 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
- 53: 0x011A [0x48] [System] [16700*]:
+ 53: 0x011A [0x48] [System] [16703*]:
     → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] (Shared)."
  54: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x011E [0x1A] CALL_SUBROUTINE(address=0x01AD)
@@ -239,25 +239,25 @@ SUBROUTINE_0128:
 SUBROUTINE_0186:
  77: 0x0186 [0x03] Work_Zone[4] = 3156*
  78: 0x018B [0x03] Work_Zone_1700[3] = 60*
- 79: 0x0190 [0x48] [System] [16690*]:
+ 79: 0x0190 [0x48] [System] [16693*]:
     → "Shared is a status where solo adventurers all join the same instance."
  80: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x0194 [0x48] [System] [16691*]:
+ 81: 0x0194 [0x48] [System] [16694*]:
     → "Players can enter once per day (Earth time), and this applies to all Dynamis - Divergence shared areas."
  82: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x0198 [0x48] [System] [16692*]:
+ 83: 0x0198 [0x48] [System] [16695*]:
     → "This does not apply to non-shared Dynamis - Divergence instances."
  84: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x019C [0x48] [System] [16693*]:
+ 85: 0x019C [0x48] [System] [16696*]:
     → "Shared [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno] instaces are open for two hours starting at : (JST) and have a time limit of $11 minutes. Unlike non-shared instances, this time cannot be extended."
  86: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x01A0 [0x48] [System] [16694*]:
+ 87: 0x01A0 [0x48] [System] [16697*]:
     → "If the instance is late to open, the time limit will be extended by a similar amount."
  88: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x01A4 [0x48] [System] [16695*]:
+ 89: 0x01A4 [0x48] [System] [16698*]:
     → "The instane will close when the time limit is reached or the Wave 2 boss monster is defeated."
  90: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x01A8 [0x48] [System] [16696*]:
+ 91: 0x01A8 [0x48] [System] [16699*]:
     → "You can check wave and monster status from the Check Area Status dialog selection."
  92: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x01AC [0x1B] RETURN

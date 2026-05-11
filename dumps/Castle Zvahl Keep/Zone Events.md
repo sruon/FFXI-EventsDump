@@ -62,7 +62,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CDE      |        7390 |
+|       0 | 0x1CE0      |        7392 |
 |       1 | 0x001C      |          28 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x005A      |          90 |
@@ -206,7 +206,7 @@
 
 ## String References
 
-- **7390**: Entering [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **7392**: Entering [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
 
 ## Events
 
@@ -281,7 +281,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7390*]:
+  1: 0x0003 [0x48] [System] [7392*]:
     → "Entering [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   2: 0x0006 [0x1A] CALL_SUBROUTINE(address=0x000B)
   3: 0x0009 [0x21] END_EVENT

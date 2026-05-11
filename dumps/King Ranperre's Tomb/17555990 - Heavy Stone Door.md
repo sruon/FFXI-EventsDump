@@ -38,57 +38,57 @@
 |      10 | 0x0168      |         360 |
 |      11 | 0x001E      |          30 |
 |      12 | 0x0099      |         153 |
-|      13 | 0x1CC2      |        7362 |
-|      14 | 0x1CC3      |        7363 |
-|      15 | 0x1CC4      |        7364 |
+|      13 | 0x1CC4      |        7364 |
+|      14 | 0x1CC5      |        7365 |
+|      15 | 0x1CC6      |        7366 |
 |      16 | 0x00F3      |         243 |
-|      17 | 0x1CC5      |        7365 |
-|      18 | 0x1CC6      |        7366 |
-|      19 | 0x1CC7      |        7367 |
-|      20 | 0x1CC8      |        7368 |
-|      21 | 0x1CC9      |        7369 |
-|      22 | 0x1CCA      |        7370 |
-|      23 | 0x1CCB      |        7371 |
-|      24 | 0x1CCC      |        7372 |
+|      17 | 0x1CC7      |        7367 |
+|      18 | 0x1CC8      |        7368 |
+|      19 | 0x1CC9      |        7369 |
+|      20 | 0x1CCA      |        7370 |
+|      21 | 0x1CCB      |        7371 |
+|      22 | 0x1CCC      |        7372 |
+|      23 | 0x1CCD      |        7373 |
+|      24 | 0x1CCE      |        7374 |
 |      25 | 0x012C      |         300 |
 |      26 | 0x001A      |          26 |
 |      27 | 0x00B4      |         180 |
 |      28 | 0x000F      |          15 |
-|      29 | 0x1CCD      |        7373 |
+|      29 | 0x1CCF      |        7375 |
 |      30 | 0x0096      |         150 |
-|      31 | 0x1CAE      |        7342 |
-|      32 | 0x1CAF      |        7343 |
-|      33 | 0x1CB0      |        7344 |
-|      34 | 0x1CB1      |        7345 |
-|      35 | 0x1CB2      |        7346 |
+|      31 | 0x1CB0      |        7344 |
+|      32 | 0x1CB1      |        7345 |
+|      33 | 0x1CB2      |        7346 |
+|      34 | 0x1CB3      |        7347 |
+|      35 | 0x1CB4      |        7348 |
 |      36 | 0x0032      |          50 |
-|      37 | 0x1CB3      |        7347 |
+|      37 | 0x1CB5      |        7349 |
 |      38 | 0x0028      |          40 |
-|      39 | 0x1CB4      |        7348 |
+|      39 | 0x1CB6      |        7350 |
 |      40 | 0x0082      |         130 |
 |      41 | 0x007F      |         127 |
-|      42 | 0x1CB5      |        7349 |
-|      43 | 0x1CB6      |        7350 |
-|      44 | 0x1CB7      |        7351 |
-|      45 | 0x1CB8      |        7352 |
-|      46 | 0x1CB9      |        7353 |
-|      47 | 0x1CBA      |        7354 |
-|      48 | 0x1CBB      |        7355 |
+|      42 | 0x1CB7      |        7351 |
+|      43 | 0x1CB8      |        7352 |
+|      44 | 0x1CB9      |        7353 |
+|      45 | 0x1CBA      |        7354 |
+|      46 | 0x1CBB      |        7355 |
+|      47 | 0x1CBC      |        7356 |
+|      48 | 0x1CBD      |        7357 |
 |      49 | 0x00F0      |         240 |
-|      50 | 0x1CBC      |        7356 |
-|      51 | 0x1CBD      |        7357 |
-|      52 | 0x1CBE      |        7358 |
+|      50 | 0x1CBE      |        7358 |
+|      51 | 0x1CBF      |        7359 |
+|      52 | 0x1CC0      |        7360 |
 |      53 | 0x005A      |          90 |
-|      54 | 0x1CBF      |        7359 |
-|      55 | 0x1CC0      |        7360 |
-|      56 | 0x1CC1      |        7361 |
+|      54 | 0x1CC1      |        7361 |
+|      55 | 0x1CC2      |        7362 |
+|      56 | 0x1CC3      |        7363 |
 |      57 | 0x0050      |          80 |
 
 ## String References
 
-- **7345**: Welcome, heir of the dragon-blood.
-- **7346**: The sword! You must hurry!
-- **7348**: Ach!
+- **7347**: Welcome, heir of the dragon-blood.
+- **7348**: The sword! You must hurry!
+- **7350**: Ach!
 
 ## Events
 
@@ -405,7 +405,7 @@
  89: 0x0271 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w002" with entities [LocalPlayer, LocalPlayer], work=209*
  90: 0x0280 [0x79] Destin (ID: 17555995/0x010BE21B) looks at Ranperre (ID: 17556005/0x010BE225) (Basic look)
  91: 0x028A [0x1C] WAIT(30* ticks)
- 92: 0x028D [0x2B] Destin (ID: 17555995/0x010BE21B) [7362*]:
+ 92: 0x028D [0x2B] Destin (ID: 17555995/0x010BE21B) [7364*]:
     → "...Hm?"
  93: 0x0294 [0x1C] WAIT(60* ticks)
  94: 0x0297 [0x27] REQ_SET(priority=0x03, entity_id=Ranperre (ID: 17556005/0x010BE225), tag_num=0x02)
@@ -417,13 +417,13 @@
 100: 0x02C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w004" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
 101: 0x02D6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w004" with entities [LocalPlayer, LocalPlayer], work=209*
 102: 0x02E5 [0x1C] WAIT(30* ticks)
-103: 0x02E8 [0x2B] Destin (ID: 17555995/0x010BE21B) [7363*]:
+103: 0x02E8 [0x2B] Destin (ID: 17555995/0x010BE21B) [7365*]:
     → "It... It cannot be!"
 104: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x02F0 [0x27] REQ_SET(priority=0x03, entity_id=Destin (ID: 17555995/0x010BE21B), tag_num=0x04)
 106: 0x02F7 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "won4" with entities [Ranperre (ID: 17556005/0x010BE225), Ranperre (ID: 17556005/0x010BE225)]
 107: 0x0304 [0x1C] WAIT(30* ticks)
-108: 0x0307 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7364*]:
+108: 0x0307 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7366*]:
     → "It is I, Ranperre... I am pleased to see my noble family gathered here before me."
 109: 0x030E [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x030F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se01" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
@@ -433,40 +433,40 @@
 114: 0x033A [0x1C] WAIT(30* ticks)
 115: 0x033D [0x27] REQ_SET(priority=0x03, entity_id=Destin (ID: 17555995/0x010BE21B), tag_num=0x05)
 116: 0x0344 [0x27] REQ_SET(priority=0x03, entity_id=Ranperre (ID: 17556005/0x010BE225), tag_num=0x03)
-117: 0x034B [0x2B] Destin (ID: 17555995/0x010BE21B) [7365*]:
+117: 0x034B [0x2B] Destin (ID: 17555995/0x010BE21B) [7367*]:
     → "O, mighty Dragon King. May you grace this blade with your protection."
 118: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0353 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w005" with entities [LocalPlayer, LocalPlayer], work=209*
 120: 0x0362 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w009" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
 121: 0x0373 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w009" with entities [LocalPlayer, LocalPlayer], work=209*
 122: 0x0382 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Destin (ID: 17555995/0x010BE21B))
-123: 0x0388 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7366*]:
+123: 0x0388 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7368*]:
     → "Lightbringer..."
 124: 0x038F [0x1C] WAIT(60* ticks)
 125: 0x0392 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0393 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Ranperre (ID: 17556005/0x010BE225), Ranperre (ID: 17556005/0x010BE225)], work=[200*, 0*]
 127: 0x03A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w007" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
-128: 0x03B5 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7367*]:
+128: 0x03B5 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7369*]:
     → "This blade has the ability to absorb energy from its surrounding environment and transform it into a force more powerful than any other. That power allowed me to tame the beasts that wreaked havoc in our fair kingdom."
 129: 0x03BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x03BD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w007" with entities [LocalPlayer, LocalPlayer], work=209*
 131: 0x03CC [0x1C] WAIT(60* ticks)
 132: 0x03CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Ranperre (ID: 17556005/0x010BE225), Ranperre (ID: 17556005/0x010BE225)], work=[200*, 0*]
 133: 0x03E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w006" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
-134: 0x03F1 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7368*]:
+134: 0x03F1 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7370*]:
     → "However, I knew that in the wrong hands, Lightbringer could bring great harm to Vana'diel. That is why I called upon the Marquisate to guard and protect it."
 135: 0x03F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x03F9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w006" with entities [LocalPlayer, LocalPlayer], work=209*
 137: 0x0408 [0x1C] WAIT(60* ticks)
 138: 0x040B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Ranperre (ID: 17556005/0x010BE225), Ranperre (ID: 17556005/0x010BE225)], work=[200*, 0*]
 139: 0x041C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w008" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
-140: 0x042D [0x2B] Ranperre (ID: 17556005/0x010BE225) [7369*]:
+140: 0x042D [0x2B] Ranperre (ID: 17556005/0x010BE225) [7371*]:
     → "This blade may be the key that unlocks the mystery of the origin of all beings on Vana'diel."
 141: 0x0434 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0435 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w008" with entities [LocalPlayer, LocalPlayer], work=209*
 143: 0x0444 [0x1C] WAIT(60* ticks)
 144: 0x0447 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w009" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
-145: 0x0458 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7370*]:
+145: 0x0458 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7372*]:
     → "Unfortunately, its power has caused too much anguish... I will protect Lightbringer with what little power I have left, and pray that it never again falls into the hands of those who would abuse its power."
 146: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x0460 [0x1C] WAIT(60* ticks)
@@ -475,7 +475,7 @@
 150: 0x0471 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w009" with entities [LocalPlayer, LocalPlayer], work=209*
 151: 0x0480 [0x1C] WAIT(60* ticks)
 152: 0x0483 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w010" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
-153: 0x0494 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7371*]:
+153: 0x0494 [0x2B] Ranperre (ID: 17556005/0x010BE225) [7373*]:
     → "Now, the fate of San d'Oria lies in your hands. If the calamity caused by Lightbringer has made you realize this, then there may still be hope."
 154: 0x049B [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x049C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w010" with entities [LocalPlayer, LocalPlayer], work=209*
@@ -485,7 +485,7 @@
 159: 0x04B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w011" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
 160: 0x04C9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w011" with entities [LocalPlayer, LocalPlayer], work=209*
 161: 0x04D8 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Ranperre (ID: 17556005/0x010BE225))
-162: 0x04DE [0x2B] Ranperre (ID: 17556005/0x010BE225) [7372*]:
+162: 0x04DE [0x2B] Ranperre (ID: 17556005/0x010BE225) [7374*]:
     → "The ephemeral flames that light San d'Oria must not be allowed to vanish from the Kingdom... May these words remain with you always..."
 163: 0x04E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x04E6 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=300*)
@@ -505,7 +505,7 @@
 178: 0x055B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Destin (ID: 17555995/0x010BE21B) Render.Flags0 and Render.Flags3 conditions are met
 179: 0x0560 [0x1C] WAIT(60* ticks)
 180: 0x0563 [0x27] REQ_SET(priority=0x03, entity_id=Destin (ID: 17555995/0x010BE21B), tag_num=0x0D)
-181: 0x056A [0x2B] Destin (ID: 17555995/0x010BE21B) [7373*]:
+181: 0x056A [0x2B] Destin (ID: 17555995/0x010BE21B) [7375*]:
     → "Lightbringer has been returned to its proper resting place, and the evil that accompanied it has been quenched."
 182: 0x0571 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x0572 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -717,13 +717,13 @@
  55: 0x072B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
  56: 0x073C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=209*
  57: 0x074B [0x2A] GET_REQ_LEVEL(level=3, entity_id=Rahal (ID: 17556001/0x010BE221))
- 58: 0x0751 [0x2B] Rahal (ID: 17556001/0x010BE221) [7342*]:
+ 58: 0x0751 [0x2B] Rahal (ID: 17556001/0x010BE221) [7344*]:
     → "Hmm... As per your report, <Player>, it seems no monsters infest this place."
  59: 0x0758 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0759 [0x4A] Shamonde (ID: 17555996/0x010BE21C) looks at Destin (ID: 17555995/0x010BE21B)
  61: 0x0762 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  62: 0x0763 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shamonde (ID: 17555996/0x010BE21C) Render.Flags0 and Render.Flags3 conditions are met
- 63: 0x0768 [0x2B] Shamonde (ID: 17555996/0x010BE21C) [7343*]:
+ 63: 0x0768 [0x2B] Shamonde (ID: 17555996/0x010BE21C) [7345*]:
     → "Very well, let us begin. Your Majesty..."
  64: 0x076F [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0770 [0x1C] WAIT(30* ticks)
@@ -759,12 +759,12 @@
  95: 0x0869 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Destin (ID: 17555995/0x010BE21B), tag_num=0x0C)
  96: 0x0870 [0x1C] WAIT(30* ticks)
  97: 0x0873 [0x27] REQ_SET(priority=0x03, entity_id=Destin (ID: 17555995/0x010BE21B), tag_num=0x0D)
- 98: 0x087A [0x2B] Destin (ID: 17555995/0x010BE21B) [7344*]:
+ 98: 0x087A [0x2B] Destin (ID: 17555995/0x010BE21B) [7346*]:
     → "Spirit of Ranperre, great king of dragons, may your rest continue undisturbed. Watch over the glory of our ancestors."
  99: 0x0881 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0882 [0x1C] WAIT(60* ticks)
 101: 0x0885 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
-102: 0x088A [0x48] [System] [7345*]:
+102: 0x088A [0x48] [System] [7347*]:
     → "Welcome, heir of the dragon-blood."
 103: 0x088D [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x088E [0x2A] GET_REQ_LEVEL(level=3, entity_id=Destin (ID: 17555995/0x010BE21B))
@@ -787,14 +787,14 @@
 121: 0x0919 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
 122: 0x092A [0x27] REQ_SET(priority=0x04, entity_id=Unnamed NPC (ID: 17556002/0x010BE222), tag_num=0x03)
 123: 0x0931 [0x1C] WAIT(60* ticks)
-124: 0x0934 [0x48] [System] [7346*]:
+124: 0x0934 [0x48] [System] [7348*]:
     → "The sword! You must hurry!"
 125: 0x0937 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0938 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=209*
 127: 0x0947 [0x1C] WAIT(50* ticks)
 128: 0x094A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
 129: 0x095B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=209*
-130: 0x096A [0x2B] Shamonde (ID: 17555996/0x010BE21C) [7347*]:
+130: 0x096A [0x2B] Shamonde (ID: 17555996/0x010BE21C) [7349*]:
     → "Begone from these holy grounds, foul deceiver!"
 131: 0x0971 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x0972 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shamonde (ID: 17555996/0x010BE21C))
@@ -813,7 +813,7 @@
 145: 0x09FE [0x6B] STOP_AND_IDLE: Shamonde (ID: 17555996/0x010BE21C) stops current action and resets to idle (animation="idl0")
 146: 0x0A07 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s299" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
 147: 0x0A18 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17556002/0x010BE222), tag_num=0x04)
-148: 0x0A1F [0x48] [System] [7348*]:
+148: 0x0A1F [0x48] [System] [7350*]:
     → "Ach!"
 149: 0x0A22 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0A23 [0x1C] WAIT(60* ticks)
@@ -833,36 +833,36 @@
 164: 0x0A91 [0x2A] GET_REQ_LEVEL(level=3, entity_id=LocalPlayer)
 165: 0x0A97 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
 166: 0x0A9B [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 127*
-167: 0x0A9F [0x2B] Rahal (ID: 17556001/0x010BE221) [7349*]:
+167: 0x0A9F [0x2B] Rahal (ID: 17556001/0x010BE221) [7351*]:
     → "He must have run away. We should hold our position until the end of the ceremony."
 168: 0x0AA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-169: 0x0AA7 [0x2B] Curilla (ID: 17556000/0x010BE220) [7350*]:
+169: 0x0AA7 [0x2B] Curilla (ID: 17556000/0x010BE220) [7352*]:
     → "Yes. I shall guard the interior."
 170: 0x0AAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x0AAF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z014" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
 172: 0x0AC0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z014" with entities [LocalPlayer, LocalPlayer], work=209*
 173: 0x0ACF [0x6B] STOP_AND_IDLE: Curilla (ID: 17556000/0x010BE220) stops current action and resets to idle (animation="idl0")
-174: 0x0AD8 [0x2B] Curilla (ID: 17556000/0x010BE220) [7351*]:
+174: 0x0AD8 [0x2B] Curilla (ID: 17556000/0x010BE220) [7353*]:
     → "But I wonder what that knight meant."
 175: 0x0ADF [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x0AE0 [0x27] REQ_SET(priority=0x03, entity_id=Rahal (ID: 17556001/0x010BE221), tag_num=0x0A)
-177: 0x0AE7 [0x2B] Rahal (ID: 17556001/0x010BE221) [7352*]:
+177: 0x0AE7 [0x2B] Rahal (ID: 17556001/0x010BE221) [7354*]:
     → "Surely he meant for us to obtain it quickly. What else could it be? Surely just a riddle, nothing to worry over. The dragoons' riddles are often deep."
 178: 0x0AEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0AEF [0x6B] STOP_AND_IDLE: Curilla (ID: 17556000/0x010BE220) stops current action and resets to idle (animation="dft0")
-180: 0x0AF8 [0x2B] Curilla (ID: 17556000/0x010BE220) [7353*]:
+180: 0x0AF8 [0x2B] Curilla (ID: 17556000/0x010BE220) [7355*]:
     → "What do you mean?"
 181: 0x0AFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x0B00 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Rahal (ID: 17556001/0x010BE221), tag_num=0x0B)
 183: 0x0B07 [0x4A] Rahal (ID: 17556001/0x010BE221) looks at Curilla (ID: 17556000/0x010BE220)
 184: 0x0B10 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 185: 0x0B11 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rahal (ID: 17556001/0x010BE221) Render.Flags0 and Render.Flags3 conditions are met
-186: 0x0B16 [0x2B] Rahal (ID: 17556001/0x010BE221) [7354*]:
+186: 0x0B16 [0x2B] Rahal (ID: 17556001/0x010BE221) [7356*]:
     → "Have you forgotten, Curilla? The knights who served King Ranperre were headed by a dragoon. The last one of that age."
 187: 0x0B1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x0B1E [0x4A] LocalPlayer looks at Curilla (ID: 17556000/0x010BE220)
 189: 0x0B27 [0x27] REQ_SET(priority=0x03, entity_id=Curilla (ID: 17556000/0x010BE220), tag_num=0x08)
-190: 0x0B2E [0x2B] Curilla (ID: 17556000/0x010BE220) [7355*]:
+190: 0x0B2E [0x2B] Curilla (ID: 17556000/0x010BE220) [7357*]:
     → ""The last of the dragoons," eh? Hmph. I knew it was no ordinary outlaw. Anyway, the rest is up to you, Rahal."
 191: 0x0B35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x0B36 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Curilla (ID: 17556000/0x010BE220), tag_num=0x09)
@@ -873,12 +873,12 @@
 197: 0x0B4B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
 198: 0x0B5C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=209*
 199: 0x0B6B [0x27] REQ_SET(priority=0x03, entity_id=Claidie (ID: 17555999/0x010BE21F), tag_num=0x07)
-200: 0x0B72 [0x2B] Claidie (ID: 17555999/0x010BE21F) [7356*]:
+200: 0x0B72 [0x2B] Claidie (ID: 17555999/0x010BE21F) [7358*]:
     → "What was that?"
 201: 0x0B79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x0B7A [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Claidie (ID: 17555999/0x010BE21F), tag_num=0x08)
 203: 0x0B81 [0x4A] Shamonde (ID: 17555996/0x010BE21C) looks at Claidie (ID: 17555999/0x010BE21F)
-204: 0x0B8A [0x2B] Shamonde (ID: 17555996/0x010BE21C) [7357*]:
+204: 0x0B8A [0x2B] Shamonde (ID: 17555996/0x010BE21C) [7359*]:
     → "Surely, the work of evildoers. Anywhere the outlaw goes, they are sure to follow. Your Majesty, we must continue the ceremony."
 205: 0x0B91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x0B92 [0x4A] Shamonde (ID: 17555996/0x010BE21C) looks at Destin (ID: 17555995/0x010BE21B)
@@ -888,7 +888,7 @@
 210: 0x0BB6 [0x1C] WAIT(20* ticks)
 211: 0x0BB9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z016" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
 212: 0x0BCA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z016" with entities [LocalPlayer, LocalPlayer], work=209*
-213: 0x0BD9 [0x2B] Destin (ID: 17555995/0x010BE21B) [7358*]:
+213: 0x0BD9 [0x2B] Destin (ID: 17555995/0x010BE21B) [7360*]:
     → "I know."
 214: 0x0BE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x0BE1 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Destin (ID: 17555995/0x010BE21B), tag_num=0x0F)
@@ -915,14 +915,14 @@
 236: 0x0C8E [0x27] REQ_SET(priority=0x03, entity_id=Claidie (ID: 17555999/0x010BE21F), tag_num=0x0A)
 237: 0x0C95 [0x27] REQ_SET(priority=0x03, entity_id=Shamonde (ID: 17555996/0x010BE21C), tag_num=0x07)
 238: 0x0C9C [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Destin (ID: 17555995/0x010BE21B), tag_num=0x11)
-239: 0x0CA3 [0x2B] Destin (ID: 17555995/0x010BE21B) [7359*]:
+239: 0x0CA3 [0x2B] Destin (ID: 17555995/0x010BE21B) [7361*]:
     → "We failed to capture the intruder. It was probably just another grave-robber. We shall post knights in this tomb, so we've nothing to worry about."
 240: 0x0CAA [0x23] WAIT_FOR_DIALOG_INTERACTION
-241: 0x0CAB [0x2B] Destin (ID: 17555995/0x010BE21B) [7360*]:
+241: 0x0CAB [0x2B] Destin (ID: 17555995/0x010BE21B) [7362*]:
     → "I thank you for your service to the bloodline of King Ranperre. Thanks to you, our future is bright."
 242: 0x0CB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x0CB3 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Trion (ID: 17555997/0x010BE21D), tag_num=0x09)
-244: 0x0CBA [0x2B] Trion (ID: 17555997/0x010BE21D) [7361*]:
+244: 0x0CBA [0x2B] Trion (ID: 17555997/0x010BE21D) [7363*]:
     → "<Player>! Do not forget to deliver your report to the guard at the gatehouse."
 245: 0x0CC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x0CC2 [0x7B] Trion (ID: 17555997/0x010BE21D) stops talking

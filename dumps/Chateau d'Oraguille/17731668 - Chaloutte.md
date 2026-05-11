@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FF4      |        8180 |
+|       0 | 0x1FF6      |        8182 |
 |       1 | 0x007E      |         126 |
 |       2 | 0xFFFFFFFE  |  4294967294 |
 |       3 | 0x0001      |           1 |
@@ -29,43 +29,43 @@
 |       6 | 0x0004      |           4 |
 |       7 | 0x0005      |           5 |
 |       8 | 0x0006      |           6 |
-|       9 | 0x1FF3      |        8179 |
+|       9 | 0x1FF5      |        8181 |
 |      10 | 0x007C      |         124 |
 |      11 | 0x007A      |         122 |
 |      12 | 0x0076      |         118 |
 |      13 | 0x006E      |         110 |
 |      14 | 0x005E      |          94 |
 |      15 | 0x003E      |          62 |
-|      16 | 0x200F      |        8207 |
+|      16 | 0x2011      |        8209 |
 |      17 | 0x0000      |           0 |
-|      18 | 0x2010      |        8208 |
+|      18 | 0x2012      |        8210 |
 |      19 | 0x40000000  |  1073741824 |
-|      20 | 0x2011      |        8209 |
+|      20 | 0x2013      |        8211 |
 |      21 | 0x0020      |          32 |
-|      22 | 0x2012      |        8210 |
+|      22 | 0x2014      |        8212 |
 |      23 | 0x0040      |          64 |
-|      24 | 0x2013      |        8211 |
+|      24 | 0x2015      |        8213 |
 |      25 | 0x0060      |          96 |
-|      26 | 0x2014      |        8212 |
+|      26 | 0x2016      |        8214 |
 |      27 | 0x0080      |         128 |
-|      28 | 0x2015      |        8213 |
+|      28 | 0x2017      |        8215 |
 |      29 | 0x00A0      |         160 |
-|      30 | 0x19CC      |        6604 |
+|      30 | 0x19CE      |        6606 |
 |      31 | 0x00C8      |         200 |
 |      32 | 0x003C      |          60 |
 
 ## String References
 
-- **6604**: You do not have enough gil.
-- **8179**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
-- **8180**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
-- **8207**: Which memory will you have recalled? [Nothing./San d'Oria Missions 1./San d'Oria Missions 2./San d'Oria Quests./Other Quests./Aht Urhgan Missions./Wings of the Goddess Missions.]
-- **8208**: Which memory will you have recalled? [Nothing./Journey Abroad./Infiltrate Davoi(pt.1)./Infiltrate Davoi(pt.2)./The Crystal Spring (Hall)./The Crystal Spring (Garden)./Appointment to Jeuno./The Ruins of Fei'Yin(pt.1)./The Ruins of Fei'Yin(pt.2)./The Ruins of Fei'Yin(pt.3)./The Shadow Lord(pt.1)./The Shadow Lord(pt.2)./Leaute's Last Wishes(pt.1)./Leaute's Last Wishes(pt.2)./Ranperre's Final Rest(pt.1)./Ranperre's Final Rest(pt.2)./The Secret Weapon./Coming of Age(pt.1)./Coming of Age(Trion)./Coming of Age(Pieuje)./Lightbringer(pt.1)./Lightbringer(pt.2)./Lightbringer(Trion)./Lightbringer(Pieuje).]
-- **8209**: Which memory will you have recalled? [Nothing./Breaking Barriers(pt.1)./Breaking Barriers(pt.2)./The Heir to the Light(pt.1)./The Heir to the Light(pt.2)./The Heir to the Light(pt.3)./The Heir to the Light(Trion)./The Heir to the Light(Pieuje).]
-- **8210**: Which memory will you have recalled? [Nothing./The General's Secret(pt.1)./The General's Secret(pt.2)./Her Majesty's Garden(pt.1)./Her Majesty's Garden(pt.2)./Her Majesty's Garden(pt.3)./Enveloped in Darkness(pt.1)./Enveloped in Darkness(pt.2)./Prelude of Black and White./Pieuje's Decision./A Boy's Dream(pt.1)./A Boy's Dream(pt.2)./Under Oath(pt.1)./Under Oath(pt.2)./Under Oath(pt.3)./Knight Stalker./Old Wounds(pt.1)./Old Wounds(pt.2)./Old Wounds(pt.3)./A Timely Visit./Fit for a Prince(pt.1)./Fit for a Prince(pt.2)./Fit for a Prince(pt.3)./Conflict.]
-- **8211**: Which memory will you have recalled? [Nothing./The Circle of Time(pt.1)./The Circle of Time(pt.2)./Conflict (Bastok)./Conflict (Windurst)./Waking the Colossus(pt.1)./Waking the Colossus(pt.2)./Her Memories: Grave Resolve./Trust (Curilla, pt.1)./Trust (Curilla, pt.2)./Trust (Trion)./Dancing Prince(pt.1)./Dancing Prince(pt.2)./Dancing Prince(pt.3)./Claidie's Concern(pt.1)./Claidie's Concern(pt.2)./Claidie's Concern(pt.3)./Claidie's Concern(pt.4)./Curilla Unleashed(pt.1)./Curilla Unleashed(pt.2)./Curilla Unleashed(pt.3)./Curilla Unleashed(pt.4)./Run, Excenmille, Run!(pt.1)./Run, Excenmille, Run!(pt.2)./Of Knights and Orcs(pt.1)./Of Knights and Orcs(pt.2)./Altennia Burns Bright(pt.1)./Altennia Burns Bright(pt.2)./Altennia Burns Bright(pt.3)./Your Decision.]
-- **8212**: Which memory will you have recalled? [Nothing./Confessions of Royalty(pt.1)./Confessions of Royalty(pt.2).]
-- **8213**: Which memory will you have recalled? [Nothing./A Hawk in Repose.]
+- **6606**: You do not have enough gil.
+- **8181**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+- **8182**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+- **8209**: Which memory will you have recalled? [Nothing./San d'Oria Missions 1./San d'Oria Missions 2./San d'Oria Quests./Other Quests./Aht Urhgan Missions./Wings of the Goddess Missions.]
+- **8210**: Which memory will you have recalled? [Nothing./Journey Abroad./Infiltrate Davoi(pt.1)./Infiltrate Davoi(pt.2)./The Crystal Spring (Hall)./The Crystal Spring (Garden)./Appointment to Jeuno./The Ruins of Fei'Yin(pt.1)./The Ruins of Fei'Yin(pt.2)./The Ruins of Fei'Yin(pt.3)./The Shadow Lord(pt.1)./The Shadow Lord(pt.2)./Leaute's Last Wishes(pt.1)./Leaute's Last Wishes(pt.2)./Ranperre's Final Rest(pt.1)./Ranperre's Final Rest(pt.2)./The Secret Weapon./Coming of Age(pt.1)./Coming of Age(Trion)./Coming of Age(Pieuje)./Lightbringer(pt.1)./Lightbringer(pt.2)./Lightbringer(Trion)./Lightbringer(Pieuje).]
+- **8211**: Which memory will you have recalled? [Nothing./Breaking Barriers(pt.1)./Breaking Barriers(pt.2)./The Heir to the Light(pt.1)./The Heir to the Light(pt.2)./The Heir to the Light(pt.3)./The Heir to the Light(Trion)./The Heir to the Light(Pieuje).]
+- **8212**: Which memory will you have recalled? [Nothing./The General's Secret(pt.1)./The General's Secret(pt.2)./Her Majesty's Garden(pt.1)./Her Majesty's Garden(pt.2)./Her Majesty's Garden(pt.3)./Enveloped in Darkness(pt.1)./Enveloped in Darkness(pt.2)./Prelude of Black and White./Pieuje's Decision./A Boy's Dream(pt.1)./A Boy's Dream(pt.2)./Under Oath(pt.1)./Under Oath(pt.2)./Under Oath(pt.3)./Knight Stalker./Old Wounds(pt.1)./Old Wounds(pt.2)./Old Wounds(pt.3)./A Timely Visit./Fit for a Prince(pt.1)./Fit for a Prince(pt.2)./Fit for a Prince(pt.3)./Conflict.]
+- **8213**: Which memory will you have recalled? [Nothing./The Circle of Time(pt.1)./The Circle of Time(pt.2)./Conflict (Bastok)./Conflict (Windurst)./Waking the Colossus(pt.1)./Waking the Colossus(pt.2)./Her Memories: Grave Resolve./Trust (Curilla, pt.1)./Trust (Curilla, pt.2)./Trust (Trion)./Dancing Prince(pt.1)./Dancing Prince(pt.2)./Dancing Prince(pt.3)./Claidie's Concern(pt.1)./Claidie's Concern(pt.2)./Claidie's Concern(pt.3)./Claidie's Concern(pt.4)./Curilla Unleashed(pt.1)./Curilla Unleashed(pt.2)./Curilla Unleashed(pt.3)./Curilla Unleashed(pt.4)./Run, Excenmille, Run!(pt.1)./Run, Excenmille, Run!(pt.2)./Of Knights and Orcs(pt.1)./Of Knights and Orcs(pt.2)./Altennia Burns Bright(pt.1)./Altennia Burns Bright(pt.2)./Altennia Burns Bright(pt.3)./Your Decision.]
+- **8214**: Which memory will you have recalled? [Nothing./Confessions of Royalty(pt.1)./Confessions of Royalty(pt.2).]
+- **8215**: Which memory will you have recalled? [Nothing./A Hawk in Repose.]
 
 ## Events
 
@@ -147,7 +147,7 @@
   0: 0x0001 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "eton" with entities [EventEntity, EventEntity]
   1: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0013 [0x02] IF !(Work_Zone[8] <= Work_Zone[9]) GOTO 0x0021
-  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
+  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001F [0x21] END_EVENT
@@ -166,12 +166,12 @@
  18: 0x0071 [0x02] IF !(Work_Zone[7] == 4294967294*) GOTO 0x0080
  19: 0x0079 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  20: 0x0080 [0x02] IF !(ExtData[1]->WorkLocal[0] == 126*) GOTO 0x008E
- 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
+ 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
  22: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x008C [0x21] END_EVENT
  24: 0x008D [0x00] END_REQSTACK()
- 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
+ 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8181*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast."
  26: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0092 [0x02] IF !(ExtData[1]->WorkLocal[0] == 124*) GOTO 0x009D
@@ -186,13 +186,13 @@
  36: 0x00C6 [0x01] GOTO 0x01A0
  37: 0x00C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 62*) GOTO 0x00D4
  38: 0x00D1 [0x01] GOTO 0x01CF
- 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=8207*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=8209*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which memory will you have recalled? [Nothing./San d'Oria Missions 1./San d'Oria Missions 2./San d'Oria Quests./Other Quests./Aht Urhgan Missions./Wings of the Goddess Missions.]"
  40: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  41: 0x00DC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x010B
 
 SUBROUTINE_00E4:
- 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=8208*, default_option=0*, option_flags=Work_Zone[2])
+ 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=8210*, default_option=0*, option_flags=Work_Zone[2])
     → "Which memory will you have recalled? [Nothing./Journey Abroad./Infiltrate Davoi(pt.1)./Infiltrate Davoi(pt.2)./The Crystal Spring (Hall)./The Crystal Spring (Garden)./Appointment to Jeuno./The Ruins of Fei'Yin(pt.1)./The Ruins of Fei'Yin(pt.2)./The Ruins of Fei'Yin(pt.3)./The Shadow Lord(pt.1)./The Shadow Lord(pt.2)./Leaute's Last Wishes(pt.1)./Leaute's Last Wishes(pt.2)./Ranperre's Final Rest(pt.1)./Ranperre's Final Rest(pt.2)./The Secret Weapon./Coming of Age(pt.1)./Coming of Age(Trion)./Coming of Age(Pieuje)./Lightbringer(pt.1)./Lightbringer(pt.2)./Lightbringer(Trion)./Lightbringer(Pieuje).]"
  43: 0x00EB [0x25] WAIT_DIALOG_SELECT()
  44: 0x00EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
@@ -205,7 +205,7 @@ SUBROUTINE_0108:
  49: 0x010B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x013A
 
 SUBROUTINE_0113:
- 50: 0x0113 [0x24] CREATE_DIALOG(message_id=8209*, default_option=0*, option_flags=Work_Zone[3])
+ 50: 0x0113 [0x24] CREATE_DIALOG(message_id=8211*, default_option=0*, option_flags=Work_Zone[3])
     → "Which memory will you have recalled? [Nothing./Breaking Barriers(pt.1)./Breaking Barriers(pt.2)./The Heir to the Light(pt.1)./The Heir to the Light(pt.2)./The Heir to the Light(pt.3)./The Heir to the Light(Trion)./The Heir to the Light(Pieuje).]"
  51: 0x011A [0x25] WAIT_DIALOG_SELECT()
  52: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012D
@@ -218,7 +218,7 @@ SUBROUTINE_0137:
  57: 0x013A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0169
 
 SUBROUTINE_0142:
- 58: 0x0142 [0x24] CREATE_DIALOG(message_id=8210*, default_option=0*, option_flags=Work_Zone[4])
+ 58: 0x0142 [0x24] CREATE_DIALOG(message_id=8212*, default_option=0*, option_flags=Work_Zone[4])
     → "Which memory will you have recalled? [Nothing./The General's Secret(pt.1)./The General's Secret(pt.2)./Her Majesty's Garden(pt.1)./Her Majesty's Garden(pt.2)./Her Majesty's Garden(pt.3)./Enveloped in Darkness(pt.1)./Enveloped in Darkness(pt.2)./Prelude of Black and White./Pieuje's Decision./A Boy's Dream(pt.1)./A Boy's Dream(pt.2)./Under Oath(pt.1)./Under Oath(pt.2)./Under Oath(pt.3)./Knight Stalker./Old Wounds(pt.1)./Old Wounds(pt.2)./Old Wounds(pt.3)./A Timely Visit./Fit for a Prince(pt.1)./Fit for a Prince(pt.2)./Fit for a Prince(pt.3)./Conflict.]"
  59: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  60: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
@@ -231,7 +231,7 @@ SUBROUTINE_0166:
  65: 0x0169 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0198
 
 SUBROUTINE_0171:
- 66: 0x0171 [0x24] CREATE_DIALOG(message_id=8211*, default_option=0*, option_flags=Work_Zone[5])
+ 66: 0x0171 [0x24] CREATE_DIALOG(message_id=8213*, default_option=0*, option_flags=Work_Zone[5])
     → "Which memory will you have recalled? [Nothing./The Circle of Time(pt.1)./The Circle of Time(pt.2)./Conflict (Bastok)./Conflict (Windurst)./Waking the Colossus(pt.1)./Waking the Colossus(pt.2)./Her Memories: Grave Resolve./Trust (Curilla, pt.1)./Trust (Curilla, pt.2)./Trust (Trion)./Dancing Prince(pt.1)./Dancing Prince(pt.2)./Dancing Prince(pt.3)./Claidie's Concern(pt.1)./Claidie's Concern(pt.2)./Claidie's Concern(pt.3)./Claidie's Concern(pt.4)./Curilla Unleashed(pt.1)./Curilla Unleashed(pt.2)./Curilla Unleashed(pt.3)./Curilla Unleashed(pt.4)./Run, Excenmille, Run!(pt.1)./Run, Excenmille, Run!(pt.2)./Of Knights and Orcs(pt.1)./Of Knights and Orcs(pt.2)./Altennia Burns Bright(pt.1)./Altennia Burns Bright(pt.2)./Altennia Burns Bright(pt.3)./Your Decision.]"
  67: 0x0178 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0179 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
@@ -244,7 +244,7 @@ SUBROUTINE_0195:
  73: 0x0198 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01C7
 
 SUBROUTINE_01A0:
- 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=8212*, default_option=0*, option_flags=Work_Zone[6])
+ 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=8214*, default_option=0*, option_flags=Work_Zone[6])
     → "Which memory will you have recalled? [Nothing./Confessions of Royalty(pt.1)./Confessions of Royalty(pt.2).]"
  75: 0x01A7 [0x25] WAIT_DIALOG_SELECT()
  76: 0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BA
@@ -257,7 +257,7 @@ SUBROUTINE_01C4:
  81: 0x01C7 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x01F6
 
 SUBROUTINE_01CF:
- 82: 0x01CF [0x24] CREATE_DIALOG(message_id=8213*, default_option=0*, option_flags=Work_Zone[7])
+ 82: 0x01CF [0x24] CREATE_DIALOG(message_id=8215*, default_option=0*, option_flags=Work_Zone[7])
     → "Which memory will you have recalled? [Nothing./A Hawk in Repose.]"
  83: 0x01D6 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E9
@@ -276,7 +276,7 @@ SUBROUTINE_01FD:
  93: 0x01FE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  94: 0x0200 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  95: 0x0202 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0210
- 96: 0x020A [0x48] [System] [6604*]:
+ 96: 0x020A [0x48] [System] [6606*]:
     → "You do not have enough gil."
  97: 0x020D [0x01] GOTO 0x0225
  98: 0x0210 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

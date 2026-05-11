@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FCE      |        8142 |
+|       0 | 0x1FD0      |        8144 |
 
 ## String References
 
-- **8142**: It appears sturdily built.
+- **8144**: It appears sturdily built.
 
 ## Events
 
@@ -69,7 +69,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [8142*]:
+  0: 0x0001 [0x48] [System] [8144*]:
     → "It appears sturdily built."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT

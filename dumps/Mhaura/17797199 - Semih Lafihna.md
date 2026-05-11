@@ -85,25 +85,25 @@
 |      17 | 0xFFFF57B5  |  4294924213 |
 |      18 | 0xA446      |       42054 |
 |      19 | 0xFFFFC27C  |  4294951548 |
-|      20 | 0x1C89      |        7305 |
-|      21 | 0x1C8C      |        7308 |
-|      22 | 0x1C8E      |        7310 |
-|      23 | 0x1C90      |        7312 |
-|      24 | 0x1C93      |        7315 |
-|      25 | 0x1C97      |        7319 |
-|      26 | 0x1C9D      |        7325 |
-|      27 | 0x1C9F      |        7327 |
+|      20 | 0x1C8B      |        7307 |
+|      21 | 0x1C8E      |        7310 |
+|      22 | 0x1C90      |        7312 |
+|      23 | 0x1C92      |        7314 |
+|      24 | 0x1C95      |        7317 |
+|      25 | 0x1C99      |        7321 |
+|      26 | 0x1C9F      |        7327 |
+|      27 | 0x1CA1      |        7329 |
 
 ## String References
 
-- **7305**: <Player>, what are you doing here? This is my prrroblem, and I'll thank you to keep your paws out of it!
-- **7308**: I was told by Chieftainness Perih Vashai that you had information about my past.
-- **7310**: Who does this $1 belong to? The $1 I carry does not match with the one I received from the chieftainness.
-- **7312**: ...! So, it was switched...
-- **7315**: ...!! Why would my mother do such a thing...?
-- **7319**: And for prrroof of her identity...it was necessary to swap the $1.
-- **7325**: The Northlands...? Where my mother died...?
-- **7327**: I have no rrreal desire to see a mother who would leave me to travel to the Northlands, but since I have come this far, I will go. Both you and the chieftainness seem to wish it so.
+- **7307**: <Player>, what are you doing here? This is my prrroblem, and I'll thank you to keep your paws out of it!
+- **7310**: I was told by Chieftainness Perih Vashai that you had information about my past.
+- **7312**: Who does this $1 belong to? The $1 I carry does not match with the one I received from the chieftainness.
+- **7314**: ...! So, it was switched...
+- **7317**: ...!! Why would my mother do such a thing...?
+- **7321**: And for prrroof of her identity...it was necessary to swap the $1.
+- **7327**: The Northlands...? Where my mother died...?
+- **7329**: I have no rrreal desire to see a mother who would leave me to travel to the Northlands, but since I have come this far, I will go. Both you and the chieftainness seem to wish it so.
 
 ## Events
 
@@ -1072,7 +1072,7 @@
 #### Opcodes
 
 ```
-  0: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
+  0: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
     → "<Player>, what are you doing here? This is my prrroblem, and I'll thank you to keep your paws out of it!"
   1: 0x026E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x026F [0x00] END_REQSTACK()
@@ -1097,7 +1097,7 @@
 #### Opcodes
 
 ```
-  0: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+  0: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
     → "I was told by Chieftainness Perih Vashai that you had information about my past."
   1: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0274 [0x00] END_REQSTACK()
@@ -1122,7 +1122,7 @@
 #### Opcodes
 
 ```
-  0: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+  0: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
     → "Who does this $1 belong to? The $1 I carry does not match with the one I received from the chieftainness."
   1: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0279 [0x00] END_REQSTACK()
@@ -1147,7 +1147,7 @@
 #### Opcodes
 
 ```
-  0: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
+  0: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
     → "...! So, it was switched..."
   1: 0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x027E [0x00] END_REQSTACK()
@@ -1173,7 +1173,7 @@
 #### Opcodes
 
 ```
-  0: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
+  0: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
     → "...!! Why would my mother do such a thing...?"
   1: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0283 [0x00] END_REQSTACK()
@@ -1198,7 +1198,7 @@
 #### Opcodes
 
 ```
-  0: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+  0: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
     → "And for prrroof of her identity...it was necessary to swap the $1."
   1: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0288 [0x00] END_REQSTACK()
@@ -1223,7 +1223,7 @@
 #### Opcodes
 
 ```
-  0: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
+  0: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
     → "The Northlands...? Where my mother died...?"
   1: 0x028C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x028D [0x00] END_REQSTACK()
@@ -1249,7 +1249,7 @@
 #### Opcodes
 
 ```
-  0: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
+  0: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
     → "I have no rrreal desire to see a mother who would leave me to travel to the Northlands, but since I have come this far, I will go. Both you and the chieftainness seem to wish it so."
   1: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0292 [0x00] END_REQSTACK()

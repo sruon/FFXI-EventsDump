@@ -29,8 +29,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1E12      |        7698 |
-|       3 | 0x1E13      |        7699 |
+|       2 | 0x1E14      |        7700 |
+|       3 | 0x1E15      |        7701 |
 |       4 | 0x09B4      |        2484 |
 |       5 | 0xFFFFFF7E  |  4294967166 |
 |       6 | 0xFFFFDB3F  |  4294957887 |
@@ -46,13 +46,13 @@
 |      16 | 0xFFFFDD6C  |  4294958444 |
 |      17 | 0xFFFFDBE7  |  4294958055 |
 |      18 | 0x02CC      |         716 |
-|      19 | 0x1D8C      |        7564 |
+|      19 | 0x1D8E      |        7566 |
 
 ## String References
 
-- **7564**: There seems to have been a minor earthquake-o out in West Sarutabaruta the other day-o. I s'pose an airship-o dropped its cargo or somethin' naff like that-o...!
-- **7698**: If you hear of any useful news-o, pass it onto me, won't ya? I'm hoping to give up this guard-o gig-o and try my hand at a spot of adventurin' meself.
-- **7699**: It's just that lately, I hear reports from all over the place-o that the beastmen are on the move again. Come to think of it, perhaps it's not the right time-o to be either a guard-o or an adventurer, is it then!?
+- **7566**: There seems to have been a minor earthquake-o out in West Sarutabaruta the other day-o. I s'pose an airship-o dropped its cargo or somethin' naff like that-o...!
+- **7700**: If you hear of any useful news-o, pass it onto me, won't ya? I'm hoping to give up this guard-o gig-o and try my hand at a spot of adventurin' meself.
+- **7701**: It's just that lately, I hear reports from all over the place-o that the beastmen are on the move again. Come to think of it, perhaps it's not the right time-o to be either a guard-o or an adventurer, is it then!?
 
 ## Events
 
@@ -175,10 +175,10 @@
   1: 0x0026 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0027 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0028 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kohpo-Akuupo (ID: 17756214/0x010EF036), tag_num=0x01)
-  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7698*)
+  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7700*)
     → "If you hear of any useful news-o, pass it onto me, won't ya? I'm hoping to give up this guard-o gig-o and try my hand at a spot of adventurin' meself."
   5: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7699*)
+  6: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
     → "It's just that lately, I hear reports from all over the place-o that the beastmen are on the move again. Come to think of it, perhaps it's not the right time-o to be either a guard-o or an adventurer, is it then!?"
   7: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0037 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kohpo-Akuupo (ID: 17756214/0x010EF036), tag_num=0x02)
@@ -292,7 +292,7 @@
   1: 0x0081 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0082 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0083 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kohpo-Akuupo (ID: 17756214/0x010EF036), tag_num=0x01)
-  4: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
+  4: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
     → "There seems to have been a minor earthquake-o out in West Sarutabaruta the other day-o. I s'pose an airship-o dropped its cargo or somethin' naff like that-o...!"
   5: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kohpo-Akuupo (ID: 17756214/0x010EF036), tag_num=0x02)

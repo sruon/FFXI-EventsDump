@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D2A      |        7466 |
-|       1 | 0x1D2B      |        7467 |
-|       2 | 0x1D2C      |        7468 |
+|       0 | 0x1D2C      |        7468 |
+|       1 | 0x1D2D      |        7469 |
+|       2 | 0x1D2E      |        7470 |
 
 ## String References
 
-- **7466**: This book contains a history of the Horutoto Ruins.
-- **7467**: "The five towers of the Horutoto Ruins are arranged with four of the towers surrounding a central tower. The magical power that pours forth from the gizmos has been used to create many enspelled tomes."
-- **7468**: "Numerous researchers scrambled over each other to be the first to discover the source of this magical power. The mystery surrounding the towers was eventually solved by a famous hermit."
+- **7468**: This book contains a history of the Horutoto Ruins.
+- **7469**: "The five towers of the Horutoto Ruins are arranged with four of the towers surrounding a central tower. The magical power that pours forth from the gizmos has been used to create many enspelled tomes."
+- **7470**: "Numerous researchers scrambled over each other to be the first to discover the source of this magical power. The mystery surrounding the towers was eventually solved by a famous hermit."
 
 ## Events
 
@@ -74,13 +74,13 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
     → "This book contains a history of the Horutoto Ruins."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
     → ""The five towers of the Horutoto Ruins are arranged with four of the towers surrounding a central tower. The magical power that pours forth from the gizmos has been used to create many enspelled tomes.""
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
+  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
     → ""Numerous researchers scrambled over each other to be the first to discover the source of this magical power. The mystery surrounding the towers was eventually solved by a famous hermit.""
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

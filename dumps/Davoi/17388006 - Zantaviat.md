@@ -34,62 +34,62 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CFC      |        7420 |
+|       0 | 0x1CFE      |        7422 |
 |       1 | 0x002C      |          44 |
-|       2 | 0x1CFE      |        7422 |
-|       3 | 0x1CFF      |        7423 |
-|       4 | 0x1D00      |        7424 |
-|       5 | 0x1D01      |        7425 |
-|       6 | 0x1D02      |        7426 |
-|       7 | 0x1D06      |        7430 |
-|       8 | 0x1CFB      |        7419 |
-|       9 | 0x1D09      |        7433 |
-|      10 | 0x1D0A      |        7434 |
-|      11 | 0x1D0B      |        7435 |
-|      12 | 0x1D0C      |        7436 |
-|      13 | 0x1D0D      |        7437 |
-|      14 | 0x1D0E      |        7438 |
-|      15 | 0x1D0F      |        7439 |
-|      16 | 0x1D10      |        7440 |
-|      17 | 0x1D14      |        7444 |
-|      18 | 0x1D4C      |        7500 |
-|      19 | 0x1D4D      |        7501 |
-|      20 | 0x1D4E      |        7502 |
-|      21 | 0x1D4F      |        7503 |
-|      22 | 0x1D50      |        7504 |
-|      23 | 0x1D51      |        7505 |
-|      24 | 0x1D52      |        7506 |
-|      25 | 0x1D53      |        7507 |
-|      26 | 0x1D54      |        7508 |
+|       2 | 0x1D00      |        7424 |
+|       3 | 0x1D01      |        7425 |
+|       4 | 0x1D02      |        7426 |
+|       5 | 0x1D03      |        7427 |
+|       6 | 0x1D04      |        7428 |
+|       7 | 0x1D08      |        7432 |
+|       8 | 0x1CFD      |        7421 |
+|       9 | 0x1D0B      |        7435 |
+|      10 | 0x1D0C      |        7436 |
+|      11 | 0x1D0D      |        7437 |
+|      12 | 0x1D0E      |        7438 |
+|      13 | 0x1D0F      |        7439 |
+|      14 | 0x1D10      |        7440 |
+|      15 | 0x1D11      |        7441 |
+|      16 | 0x1D12      |        7442 |
+|      17 | 0x1D16      |        7446 |
+|      18 | 0x1D4E      |        7502 |
+|      19 | 0x1D4F      |        7503 |
+|      20 | 0x1D50      |        7504 |
+|      21 | 0x1D51      |        7505 |
+|      22 | 0x1D52      |        7506 |
+|      23 | 0x1D53      |        7507 |
+|      24 | 0x1D54      |        7508 |
+|      25 | 0x1D55      |        7509 |
+|      26 | 0x1D56      |        7510 |
 
 ## String References
 
-- **7419**: I am Zantaviat, a scout for San d'Oria. I was sent to watch the Orc camps in Davoi. Be careful, it's a veritable nest of beastmen in there.
-- **7420**: A message? Finally! I am Zantaviat of the Temple Knights. I've been monitoring Orc activity here for several weeks. They grow stronger in numbers by the day.
-- **7422**: The Temple Knights have been observing Davoi through a number of methods. We've collected our findings in a document: $6.
-- **7423**: However...one of our men infiltrated the area last night, and ran into an Orc hunting party on his way out. He dropped the last page of his report before he could escape.
-- **7424**: The Orcs caught wind of our presence, so we could not retrieve the lost page so easily.
-- **7425**: According to our man, the page lies somewhere near the platform on the small pond up ahead. Go retrieve it for us.
-- **7426**: With the Orcs on alert, any direct attack would only incite their full wrath. Take care not to be discovered!
-- **7430**: You found the page! Well done. Now the $3 is complete. Take this to San d'Oria swiftly. Give it to the lord knight at the gatehouse.
-- **7433**: Ah, it's you, <Player>. I was waiting for you. Let us dispense with the formalities; we want you to infiltrate Davoi.
-- **7434**: Davoi is the central stronghold of the Orcs. We have delved as deep as we dare, but there is still much we do not know.
-- **7435**: Come to think of it, an adventurer came along the other day. He told me to be strong out here by myself, and then he was off towards Davoi all alone. Got courage, that one.
-- **7436**: But that is neither here nor there, eh?
-- **7437**: Let me explain your mission. There are three Orc settlements in Davoi: East Block, South Block, and North Block.
-- **7438**: We know that they've left coded memos concerning all three blocks. They should be somewhere in East Block.
-- **7439**: East Block is not far from this entrance. I want you to find three of those coded memos.
-- **7440**: Be aware that this mission will surely require combat. You way wish to gather a party to aid you.
-- **7444**: That's all three blocks covered. I will notify the homeland of your contribution. All you need to do is return to San d'Oria and report in at the gatehouse.
-- **7500**: A message? Finally! I am Zantaviat of the Temple Knights.
-- **7501**: I've been monitoring Orc activity here for several weeks. They grow stronger in numbers by the day.
-- **7502**: In our recent investigations, we have observed that Orcs are working towards a single purpose. Prince Pieuje was right all along...
-- **7503**: I had prepared $6 and given it to one of our officers to deliver...
-- **7504**: ...but that officer dropped one of the pages while fleeing from an Orc ambush last night.
-- **7505**: Now the Orcs have doubled their forces in that area, and we can not easily retrieve the lost page.
-- **7506**: According to the officer, he says he dropped the page near a crucifixion mound by that pond you see before us.
-- **7507**: With the Orcs forces doubled like this, attacking them head-on would be futile. Sneaking in and retrieving the page unnoticed is the most logical method of carrying out this mission.
-- **7508**: You found the page! Well done. Now the $3 is complete. Take this to San d'Oria swiftly and deliver it to Prince Pieuje.
+- **7421**: I am Zantaviat, a scout for San d'Oria. I was sent to watch the Orc camps in Davoi. Be careful, it's a veritable nest of beastmen in there.
+- **7422**: A message? Finally! I am Zantaviat of the Temple Knights. I've been monitoring Orc activity here for several weeks. They grow stronger in numbers by the day.
+- **7424**: The Temple Knights have been observing Davoi through a number of methods. We've collected our findings in a document: $6.
+- **7425**: However...one of our men infiltrated the area last night, and ran into an Orc hunting party on his way out. He dropped the last page of his report before he could escape.
+- **7426**: The Orcs caught wind of our presence, so we could not retrieve the lost page so easily.
+- **7427**: According to our man, the page lies somewhere near the platform on the small pond up ahead. Go retrieve it for us.
+- **7428**: With the Orcs on alert, any direct attack would only incite their full wrath. Take care not to be discovered!
+- **7432**: You found the page! Well done. Now the $3 is complete. Take this to San d'Oria swiftly. Give it to the lord knight at the gatehouse.
+- **7435**: Ah, it's you, <Player>. I was waiting for you. Let us dispense with the formalities; we want you to infiltrate Davoi.
+- **7436**: Davoi is the central stronghold of the Orcs. We have delved as deep as we dare, but there is still much we do not know.
+- **7437**: Come to think of it, an adventurer came along the other day. He told me to be strong out here by myself, and then he was off towards Davoi all alone. Got courage, that one.
+- **7438**: But that is neither here nor there, eh?
+- **7439**: Let me explain your mission. There are three Orc settlements in Davoi: East Block, South Block, and North Block.
+- **7440**: We know that they've left coded memos concerning all three blocks. They should be somewhere in East Block.
+- **7441**: East Block is not far from this entrance. I want you to find three of those coded memos.
+- **7442**: Be aware that this mission will surely require combat. You way wish to gather a party to aid you.
+- **7446**: That's all three blocks covered. I will notify the homeland of your contribution. All you need to do is return to San d'Oria and report in at the gatehouse.
+- **7502**: A message? Finally! I am Zantaviat of the Temple Knights.
+- **7503**: I've been monitoring Orc activity here for several weeks. They grow stronger in numbers by the day.
+- **7504**: In our recent investigations, we have observed that Orcs are working towards a single purpose. Prince Pieuje was right all along...
+- **7505**: I had prepared $6 and given it to one of our officers to deliver...
+- **7506**: ...but that officer dropped one of the pages while fleeing from an Orc ambush last night.
+- **7507**: Now the Orcs have doubled their forces in that area, and we can not easily retrieve the lost page.
+- **7508**: According to the officer, he says he dropped the page near a crucifixion mound by that pond you see before us.
+- **7509**: With the Orcs forces doubled like this, attacking them head-on would be futile. Sneaking in and retrieving the page unnoticed is the most logical method of carrying out this mission.
+- **7510**: You found the page! Well done. Now the $3 is complete. Take this to San d'Oria swiftly and deliver it to Prince Pieuje.
 
 ## Events
 
@@ -135,23 +135,23 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "A message? Finally! I am Zantaviat of the Temple Knights. I've been monitoring Orc activity here for several weeks. They grow stronger in numbers by the day."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x03] Work_Zone[2] = 44*
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
     → "The Temple Knights have been observing Davoi through a number of methods. We've collected our findings in a document: $6."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "However...one of our men infiltrated the area last night, and ran into an Orc hunting party on his way out. He dropped the last page of his report before he could escape."
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+  7: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "The Orcs caught wind of our presence, so we could not retrieve the lost page so easily."
   8: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+  9: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
     → "According to our man, the page lies somewhere near the platform on the small pond up ahead. Go retrieve it for us."
  10: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+ 11: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "With the Orcs on alert, any direct attack would only incite their full wrath. Take care not to be discovered!"
  12: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x001E [0x21] END_EVENT
@@ -178,7 +178,7 @@
 
 ```
   0: 0x0020 [0x03] Work_Zone[2] = 44*
-  1: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
+  1: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
     → "You found the page! Well done. Now the $3 is complete. Take this to San d'Oria swiftly. Give it to the lord knight at the gatehouse."
   2: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0029 [0x21] END_EVENT
@@ -205,7 +205,7 @@
 #### Opcodes
 
 ```
-  0: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+  0: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "I am Zantaviat, a scout for San d'Oria. I was sent to watch the Orc camps in Davoi. Be careful, it's a veritable nest of beastmen in there."
   1: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002F [0x21] END_EVENT
@@ -233,28 +233,28 @@
 #### Opcodes
 
 ```
-  0: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
+  0: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
     → "Ah, it's you, <Player>. I was waiting for you. Let us dispense with the formalities; we want you to infiltrate Davoi."
   1: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
+  2: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
     → "Davoi is the central stronghold of the Orcs. We have delved as deep as we dare, but there is still much we do not know."
   3: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+  4: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "Come to think of it, an adventurer came along the other day. He told me to be strong out here by myself, and then he was off towards Davoi all alone. Got courage, that one."
   5: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+  6: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "But that is neither here nor there, eh?"
   7: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+  8: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
     → "Let me explain your mission. There are three Orc settlements in Davoi: East Block, South Block, and North Block."
   9: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
+ 10: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
     → "We know that they've left coded memos concerning all three blocks. They should be somewhere in East Block."
  11: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
+ 12: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
     → "East Block is not far from this entrance. I want you to find three of those coded memos."
  13: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
+ 14: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
     → "Be aware that this mission will surely require combat. You way wish to gather a party to aid you."
  15: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0051 [0x21] END_EVENT
@@ -280,7 +280,7 @@
 #### Opcodes
 
 ```
-  0: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
+  0: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
     → "That's all three blocks covered. I will notify the homeland of your contribution. All you need to do is return to San d'Oria and report in at the gatehouse."
   1: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0057 [0x21] END_EVENT
@@ -342,7 +342,7 @@
 #### Opcodes
 
 ```
-  0: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
+  0: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
     → "A message? Finally! I am Zantaviat of the Temple Knights."
   1: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0099 [0x00] END_REQSTACK()
@@ -367,7 +367,7 @@
 #### Opcodes
 
 ```
-  0: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=7501*)
+  0: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
     → "I've been monitoring Orc activity here for several weeks. They grow stronger in numbers by the day."
   1: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x009E [0x00] END_REQSTACK()
@@ -393,7 +393,7 @@
 #### Opcodes
 
 ```
-  0: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
+  0: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
     → "In our recent investigations, we have observed that Orcs are working towards a single purpose. Prince Pieuje was right all along..."
   1: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00A3 [0x00] END_REQSTACK()
@@ -418,7 +418,7 @@
 #### Opcodes
 
 ```
-  0: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
+  0: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
     → "I had prepared $6 and given it to one of our officers to deliver..."
   1: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00A8 [0x00] END_REQSTACK()
@@ -443,7 +443,7 @@
 #### Opcodes
 
 ```
-  0: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
+  0: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
     → "...but that officer dropped one of the pages while fleeing from an Orc ambush last night."
   1: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00AD [0x00] END_REQSTACK()
@@ -469,7 +469,7 @@
 #### Opcodes
 
 ```
-  0: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
+  0: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
     → "Now the Orcs have doubled their forces in that area, and we can not easily retrieve the lost page."
   1: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00B2 [0x00] END_REQSTACK()
@@ -494,7 +494,7 @@
 #### Opcodes
 
 ```
-  0: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
+  0: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
     → "According to the officer, he says he dropped the page near a crucifixion mound by that pond you see before us."
   1: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00B7 [0x00] END_REQSTACK()
@@ -519,7 +519,7 @@
 #### Opcodes
 
 ```
-  0: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
+  0: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
     → "With the Orcs forces doubled like this, attacking them head-on would be futile. Sneaking in and retrieving the page unnoticed is the most logical method of carrying out this mission."
   1: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00BC [0x00] END_REQSTACK()
@@ -545,7 +545,7 @@
 #### Opcodes
 
 ```
-  0: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
+  0: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
     → "You found the page! Well done. Now the $3 is complete. Take this to San d'Oria swiftly and deliver it to Prince Pieuje."
   1: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00C1 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

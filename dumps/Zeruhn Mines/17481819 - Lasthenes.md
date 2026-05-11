@@ -26,9 +26,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA1      |        7329 |
-|       1 | 0x1CA2      |        7330 |
-|       2 | 0x1CA3      |        7331 |
+|       0 | 0x1CA3      |        7331 |
+|       1 | 0x1CA4      |        7332 |
+|       2 | 0x1CA5      |        7333 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
@@ -47,9 +47,9 @@
 
 ## String References
 
-- **7329**: Not anyone can go in there--the Korroloka Tunnel has been closed for over a hundred years.
-- **7330**: However, permission to pass has been granted to adventurers who have proven their worth. Adventurers such as yourself.
-- **7331**: Would you like to enter? [Let me through./Not this time.]
+- **7331**: Not anyone can go in there--the Korroloka Tunnel has been closed for over a hundred years.
+- **7332**: However, permission to pass has been granted to adventurers who have proven their worth. Adventurers such as yourself.
+- **7333**: Would you like to enter? [Let me through./Not this time.]
 
 ## Events
 
@@ -95,7 +95,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
     → "Not anyone can go in there--the Korroloka Tunnel has been closed for over a hundred years."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -136,13 +136,13 @@
   0: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x000E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x000F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
+  3: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
     → "Not anyone can go in there--the Korroloka Tunnel has been closed for over a hundred years."
   4: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
+  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
     → "However, permission to pass has been granted to adventurers who have proven their worth. Adventurers such as yourself."
   6: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001C [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
+  7: 0x001C [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Would you like to enter? [Let me through./Not this time.]"
   8: 0x0023 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0024 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C1
@@ -207,7 +207,7 @@ SUBROUTINE_00C1:
   0: 0x00C5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x00C7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x00C8 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x00CD [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
+  3: 0x00CD [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Would you like to enter? [Let me through./Not this time.]"
   4: 0x00D4 [0x25] WAIT_DIALOG_SELECT()
   5: 0x00D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0172

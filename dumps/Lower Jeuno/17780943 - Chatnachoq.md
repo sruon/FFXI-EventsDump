@@ -25,13 +25,13 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0040      |          64 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x25B7      |        9655 |
-|       4 | 0x25CC      |        9676 |
-|       5 | 0x25B8      |        9656 |
+|       3 | 0x25B9      |        9657 |
+|       4 | 0x25CE      |        9678 |
+|       5 | 0x25BA      |        9658 |
 |       6 | 0x0064      |         100 |
 |       7 | 0x03E8      |        1000 |
 |       8 | 0x2710      |       10000 |
-|       9 | 0x25BA      |        9658 |
+|       9 | 0x25BC      |        9660 |
 |      10 | 0x001C      |          28 |
 |      11 | 0xFFFFE     |     1048574 |
 |      12 | 0x7000      |       28672 |
@@ -40,9 +40,9 @@
 |      15 | 0x7001      |       28673 |
 |      16 | 0x7002      |       28674 |
 |      17 | 0x0005      |           5 |
-|      18 | 0x25C0      |        9664 |
+|      18 | 0x25C2      |        9666 |
 |      19 | 0x0006      |           6 |
-|      20 | 0x25C6      |        9670 |
+|      20 | 0x25C8      |        9672 |
 |      21 | 0xFFFFF     |     1048575 |
 |      22 | 0x7040      |       28736 |
 |      23 | 0xFFF00     |     1048320 |
@@ -73,14 +73,14 @@
 |      48 | 0x025E      |         606 |
 |      49 | 0x025F      |         607 |
 |      50 | 0x0260      |         608 |
-|      51 | 0x25C2      |        9666 |
+|      51 | 0x25C4      |        9668 |
 |      52 | 0x0032      |          50 |
 |      53 | 0x1388      |        5000 |
 |      54 | 0x0007      |           7 |
-|      55 | 0x25C9      |        9673 |
-|      56 | 0x25CD      |        9677 |
-|      57 | 0x25CE      |        9678 |
-|      58 | 0x25C1      |        9665 |
+|      55 | 0x25CB      |        9675 |
+|      56 | 0x25CF      |        9679 |
+|      57 | 0x25D0      |        9680 |
+|      58 | 0x25C3      |        9667 |
 |      59 | 0x0008      |           8 |
 |      60 | 0x000B      |          11 |
 |      61 | 0x000C      |          12 |
@@ -92,15 +92,15 @@
 |      67 | 0x0013      |          19 |
 |      68 | 0x0014      |          20 |
 |      69 | 0x0015      |          21 |
-|      70 | 0x25BB      |        9659 |
-|      71 | 0x25CA      |        9674 |
+|      70 | 0x25BD      |        9661 |
+|      71 | 0x25CC      |        9676 |
 |      72 | 0x0018      |          24 |
-|      73 | 0x25BF      |        9663 |
-|      74 | 0x25BC      |        9660 |
-|      75 | 0x25C3      |        9667 |
-|      76 | 0x25C5      |        9669 |
-|      77 | 0x25C4      |        9668 |
-|      78 | 0x25B9      |        9657 |
+|      73 | 0x25C1      |        9665 |
+|      74 | 0x25BE      |        9662 |
+|      75 | 0x25C5      |        9669 |
+|      76 | 0x25C7      |        9671 |
+|      77 | 0x25C6      |        9670 |
+|      78 | 0x25BB      |        9659 |
 |      79 | 0xFFFF0     |     1048560 |
 |      80 | 0x7080      |       28800 |
 |      81 | 0x7081      |       28801 |
@@ -170,30 +170,30 @@
 |     145 | 0x70ED      |       28909 |
 |     146 | 0x70DD      |       28893 |
 |     147 | 0x0017      |          23 |
-|     148 | 0x25C7      |        9671 |
+|     148 | 0x25C9      |        9673 |
 
 ## String References
 
-- **9655**: Yeah? Whaddaya want? I'm Chatnachoq, Goldagrik's personal secretary. I run the Maze Monger souvenir shop. If ya got yer grubby little hands on some Moblin Marbles, ya can trade 'em for some of my stuff. Marbles only! No gil, ya hear? And make it quick. I'm a busy gal!
-- **9656**: Make a trade? ($0 marbles left). [Trade for a Maze Tabula./Trade for a Maze Voucher./Trade for a Maze Rune./Trade for equipment./Trade for a title./Come on, take my gil./Trade for flags./Nothing now, thanks.]
-- **9657**: Trade for which type of Maze Rune? [Class 1./Class 2./Class 3./Class 4./Class 5./Cancel./Return to previous menu.]
-- **9658**: How many marbles will you offer? [$0./$1./$2./$3./$4./Cancel./Return to previous menu.]
-- **9659**: Let's see... I'll give ya one of these. How 'bout it?
-- **9660**: Make the trade? [Yes./No./Return to previous menu.]
-- **9663**: Ya kiddin' me? Ya don't have enough marbles. Think ya can put one over on Chatnachoq, do ya? Well, forget it! Goldagrik didn't just hire me for my looks, ya know!
-- **9664**: Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?
-- **9665**: Trade for which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./Cancel./Return to previous menu.]
-- **9666**: Trade for which title? [$0./$1./$2./$3./$4./Cancel./Return to previous menu.]
-- **9667**: Hah! Sorry, [bud/lady]. Ya want that one, ya hafta earn it. Marbles alone can't buy fame, ya know? Come back when ya got some more experience under ya belt.
-- **9668**: It'll cost ya $0 marbles for that one. Deal? Come on, I don't have all day!
-- **9669**: What? After all the trouble I went through last time, ya wanna change it? Oh suuuuuuuuure, no big deal... Just more work for Chatnachoq! Change my title! Trade me a Maze Tabula! Fetch me an Imperial coffee! Tell ya what. Give me $0 marbles and it's yours.
-- **9670**: Whaddaya want from me? I'm a busy gal. I bet ya don't even have any Moblin Marbles, do ya? Well, Goldagrik doesn't pay me to sit around here chit-chattin'. Come back when ya can make it worth my while.
-- **9671**: You're a nosy one, ain't ya? Ain't nothin' for ya to see here!
-- **9673**: Unbelievable! Didn't I just tell ya Moblin Marbles only? Okay, okay! Anything to get ya to leave me alone. Ya can have one of these for $0 gil. Just don't go tellin' Goldagrik, ya hear? I'll be out of a job!
-- **9674**: Make the purchase? [Yes./No./Return.]
-- **9676**: What's that ya say? Ya got more Maze Runes than ya know what ta do with? Well, how about I give ya some Moblin Marbles for 'em? Ya'd like that, wouldn't ya?
-- **9677**: That's all ya got for me? Well, okay. I can give ya $0 [marble/marbles], no more. Do we got a deal?
-- **9678**: We got a deal? [Deal./No deal.]
+- **9657**: Yeah? Whaddaya want? I'm Chatnachoq, Goldagrik's personal secretary. I run the Maze Monger souvenir shop. If ya got yer grubby little hands on some Moblin Marbles, ya can trade 'em for some of my stuff. Marbles only! No gil, ya hear? And make it quick. I'm a busy gal!
+- **9658**: Make a trade? ($0 marbles left). [Trade for a Maze Tabula./Trade for a Maze Voucher./Trade for a Maze Rune./Trade for equipment./Trade for a title./Come on, take my gil./Trade for flags./Nothing now, thanks.]
+- **9659**: Trade for which type of Maze Rune? [Class 1./Class 2./Class 3./Class 4./Class 5./Cancel./Return to previous menu.]
+- **9660**: How many marbles will you offer? [$0./$1./$2./$3./$4./Cancel./Return to previous menu.]
+- **9661**: Let's see... I'll give ya one of these. How 'bout it?
+- **9662**: Make the trade? [Yes./No./Return to previous menu.]
+- **9665**: Ya kiddin' me? Ya don't have enough marbles. Think ya can put one over on Chatnachoq, do ya? Well, forget it! Goldagrik didn't just hire me for my looks, ya know!
+- **9666**: Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?
+- **9667**: Trade for which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./Cancel./Return to previous menu.]
+- **9668**: Trade for which title? [$0./$1./$2./$3./$4./Cancel./Return to previous menu.]
+- **9669**: Hah! Sorry, [bud/lady]. Ya want that one, ya hafta earn it. Marbles alone can't buy fame, ya know? Come back when ya got some more experience under ya belt.
+- **9670**: It'll cost ya $0 marbles for that one. Deal? Come on, I don't have all day!
+- **9671**: What? After all the trouble I went through last time, ya wanna change it? Oh suuuuuuuuure, no big deal... Just more work for Chatnachoq! Change my title! Trade me a Maze Tabula! Fetch me an Imperial coffee! Tell ya what. Give me $0 marbles and it's yours.
+- **9672**: Whaddaya want from me? I'm a busy gal. I bet ya don't even have any Moblin Marbles, do ya? Well, Goldagrik doesn't pay me to sit around here chit-chattin'. Come back when ya can make it worth my while.
+- **9673**: You're a nosy one, ain't ya? Ain't nothin' for ya to see here!
+- **9675**: Unbelievable! Didn't I just tell ya Moblin Marbles only? Okay, okay! Anything to get ya to leave me alone. Ya can have one of these for $0 gil. Just don't go tellin' Goldagrik, ya hear? I'll be out of a job!
+- **9676**: Make the purchase? [Yes./No./Return.]
+- **9678**: What's that ya say? Ya got more Maze Runes than ya know what ta do with? Well, how about I give ya some Moblin Marbles for 'em? Ya'd like that, wouldn't ya?
+- **9679**: That's all ya got for me? Well, okay. I can give ya $0 [marble/marbles], no more. Do we got a deal?
+- **9680**: We got a deal? [Deal./No deal.]
 
 ## Events
 
@@ -370,17 +370,17 @@
   9: 0x002E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0770
  10: 0x0036 [0x03] ExtData[1]->WorkLocal[47] = 64*
  11: 0x003B [0x03] ExtData[1]->WorkLocal[15] = 1*
- 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=9655*)
+ 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=9657*)
     → "Yeah? Whaddaya want? I'm Chatnachoq, Goldagrik's personal secretary. I run the Maze Monger souvenir shop. If ya got yer grubby little hands on some Moblin Marbles, ya can trade 'em for some of my stuff. Marbles only! No gil, ya hear? And make it quick. I'm a busy gal!"
  13: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=9676*)
+ 14: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=9678*)
     → "What's that ya say? Ya got more Maze Runes than ya know what ta do with? Well, how about I give ya some Moblin Marbles for 'em? Ya'd like that, wouldn't ya?"
  15: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0048 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
  17: 0x004D [0x03] ExtData[1]->WorkLocal[16] = 0*
  18: 0x0052 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x076D
  19: 0x005A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
- 20: 0x005F [0x24] CREATE_DIALOG(message_id=9656*, default_option=0*, option_flags=ExtData[1]->WorkLocal[47])
+ 20: 0x005F [0x24] CREATE_DIALOG(message_id=9658*, default_option=0*, option_flags=ExtData[1]->WorkLocal[47])
     → "Make a trade? ($0 marbles left). [Trade for a Maze Tabula./Trade for a Maze Voucher./Trade for a Maze Rune./Trade for equipment./Trade for a title./Come on, take my gil./Trade for flags./Nothing now, thanks.]"
  21: 0x0066 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0067 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0157
@@ -395,7 +395,7 @@
  31: 0x009B [0x03] Work_Zone[4] = 100*
  32: 0x00A0 [0x03] Work_Zone[5] = 1000*
  33: 0x00A5 [0x03] Work_Zone[6] = 10000*
- 34: 0x00AA [0x24] CREATE_DIALOG(message_id=9658*, default_option=0*, option_flags=28*)
+ 34: 0x00AA [0x24] CREATE_DIALOG(message_id=9660*, default_option=0*, option_flags=28*)
     → "How many marbles will you offer? [$0./$1./$2./$3./$4./Cancel./Return to previous menu.]"
  35: 0x00B1 [0x25] WAIT_DIALOG_SELECT()
  36: 0x00B2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DC
@@ -420,7 +420,7 @@
  55: 0x010D [0x01] GOTO 0x0144
  56: 0x0110 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x012A
  57: 0x0118 [0x03] ExtData[1]->WorkLocal[16] = 0*
- 58: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+ 58: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
  59: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0121 [0x03] Work_Zone[1] = 0*
@@ -429,7 +429,7 @@
 SUBROUTINE_0144:
  62: 0x0144 [0x01] GOTO 0x0089
  63: 0x0147 [0x01] GOTO 0x0154
- 64: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
+ 64: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=9672*)
     → "Whaddaya want from me? I'm a busy gal. I bet ya don't even have any Moblin Marbles, do ya? Well, Goldagrik doesn't pay me to sit around here chit-chattin'. Come back when ya can make it worth my while."
  65: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x014E [0x03] Work_Zone[1] = 0*
@@ -447,7 +447,7 @@ SUBROUTINE_0174:
  74: 0x0174 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x028A
  75: 0x017C [0x03] Work_Zone[2] = 1*
  76: 0x0181 [0x03] Work_Zone[3] = 100*
- 77: 0x0186 [0x24] CREATE_DIALOG(message_id=9658*, default_option=0*, option_flags=28*)
+ 77: 0x0186 [0x24] CREATE_DIALOG(message_id=9660*, default_option=0*, option_flags=28*)
     → "How many marbles will you offer? [$0./$1./$2./$3./$4./Cancel./Return to previous menu.]"
  78: 0x018D [0x25] WAIT_DIALOG_SELECT()
  79: 0x018E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D0
@@ -498,7 +498,7 @@ SUBROUTINE_0255:
 120: 0x0255 [0x01] GOTO 0x0287
 121: 0x0258 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0272
 122: 0x0260 [0x03] ExtData[1]->WorkLocal[16] = 0*
-123: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+123: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
 124: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0269 [0x03] Work_Zone[1] = 0*
@@ -507,7 +507,7 @@ SUBROUTINE_0255:
 SUBROUTINE_0287:
 127: 0x0287 [0x01] GOTO 0x0174
 128: 0x028A [0x01] GOTO 0x0297
-129: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
+129: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=9672*)
     → "Whaddaya want from me? I'm a busy gal. I bet ya don't even have any Moblin Marbles, do ya? Well, Goldagrik doesn't pay me to sit around here chit-chattin'. Come back when ya can make it worth my while."
 130: 0x0290 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0291 [0x03] Work_Zone[1] = 0*
@@ -528,7 +528,7 @@ SUBROUTINE_02B7:
 142: 0x02C9 [0x03] Work_Zone[4] = 300*
 143: 0x02CE [0x03] Work_Zone[5] = 400*
 144: 0x02D3 [0x03] Work_Zone[6] = 500*
-145: 0x02D8 [0x24] CREATE_DIALOG(message_id=9658*, default_option=0*, option_flags=0*)
+145: 0x02D8 [0x24] CREATE_DIALOG(message_id=9660*, default_option=0*, option_flags=0*)
     → "How many marbles will you offer? [$0./$1./$2./$3./$4./Cancel./Return to previous menu.]"
 146: 0x02DF [0x25] WAIT_DIALOG_SELECT()
 147: 0x02E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FD
@@ -563,7 +563,7 @@ SUBROUTINE_02B7:
 176: 0x036E [0x01] GOTO 0x03A0
 177: 0x0371 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x038B
 178: 0x0379 [0x03] ExtData[1]->WorkLocal[16] = 0*
-179: 0x037E [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+179: 0x037E [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
 180: 0x0381 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0382 [0x03] Work_Zone[1] = 0*
@@ -572,7 +572,7 @@ SUBROUTINE_02B7:
 SUBROUTINE_03A0:
 183: 0x03A0 [0x01] GOTO 0x02B7
 184: 0x03A3 [0x01] GOTO 0x03B0
-185: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
+185: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9672*)
     → "Whaddaya want from me? I'm a busy gal. I bet ya don't even have any Moblin Marbles, do ya? Well, Goldagrik doesn't pay me to sit around here chit-chattin'. Come back when ya can make it worth my while."
 186: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x03AA [0x03] Work_Zone[1] = 0*
@@ -592,7 +592,7 @@ SUBROUTINE_03CD:
 197: 0x03DF [0x03] Work_Zone[4] = 200*
 198: 0x03E4 [0x03] Work_Zone[5] = 300*
 199: 0x03E9 [0x03] Work_Zone[6] = 400*
-200: 0x03EE [0x24] CREATE_DIALOG(message_id=9658*, default_option=0*, option_flags=0*)
+200: 0x03EE [0x24] CREATE_DIALOG(message_id=9660*, default_option=0*, option_flags=0*)
     → "How many marbles will you offer? [$0./$1./$2./$3./$4./Cancel./Return to previous menu.]"
 201: 0x03F5 [0x25] WAIT_DIALOG_SELECT()
 202: 0x03F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0420
@@ -642,7 +642,7 @@ SUBROUTINE_03CD:
 246: 0x04C5 [0x01] GOTO 0x04F7
 247: 0x04C8 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x04E2
 248: 0x04D0 [0x03] ExtData[1]->WorkLocal[16] = 0*
-249: 0x04D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+249: 0x04D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
 250: 0x04D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x04D9 [0x03] Work_Zone[1] = 0*
@@ -651,7 +651,7 @@ SUBROUTINE_03CD:
 SUBROUTINE_04F7:
 253: 0x04F7 [0x01] GOTO 0x03CD
 254: 0x04FA [0x01] GOTO 0x0507
-255: 0x04FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
+255: 0x04FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9672*)
     → "Whaddaya want from me? I'm a busy gal. I bet ya don't even have any Moblin Marbles, do ya? Well, Goldagrik doesn't pay me to sit around here chit-chattin'. Come back when ya can make it worth my while."
 256: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x0501 [0x03] Work_Zone[1] = 0*
@@ -691,7 +691,7 @@ SUBROUTINE_0596:
 285: 0x05A0 [0x03] Work_Zone[4] = 606*
 286: 0x05A5 [0x03] Work_Zone[5] = 607*
 287: 0x05AA [0x03] Work_Zone[6] = 608*
-288: 0x05AF [0x24] CREATE_DIALOG(message_id=9666*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+288: 0x05AF [0x24] CREATE_DIALOG(message_id=9668*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "Trade for which title? [$0./$1./$2./$3./$4./Cancel./Return to previous menu.]"
 289: 0x05B6 [0x25] WAIT_DIALOG_SELECT()
 290: 0x05B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05E8
@@ -756,7 +756,7 @@ SUBROUTINE_06A6:
 339: 0x06A9 [0x01] GOTO 0x06D6
 340: 0x06AC [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x06C6
 341: 0x06B4 [0x03] ExtData[1]->WorkLocal[16] = 0*
-342: 0x06B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+342: 0x06B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
 343: 0x06BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 344: 0x06BD [0x03] Work_Zone[1] = 0*
@@ -765,7 +765,7 @@ SUBROUTINE_06A6:
 SUBROUTINE_06D6:
 346: 0x06D6 [0x01] GOTO 0x0524
 347: 0x06D9 [0x01] GOTO 0x06E6
-348: 0x06DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
+348: 0x06DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9672*)
     → "Whaddaya want from me? I'm a busy gal. I bet ya don't even have any Moblin Marbles, do ya? Well, Goldagrik doesn't pay me to sit around here chit-chattin'. Come back when ya can make it worth my while."
 349: 0x06DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 350: 0x06E0 [0x03] Work_Zone[1] = 0*
@@ -776,7 +776,7 @@ SUBROUTINE_06E6:
 353: 0x06E9 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x073A
 354: 0x06F1 [0x03] ExtData[1]->WorkLocal[16] = 7*
 355: 0x06F6 [0x03] Work_Zone[2] = 100*
-356: 0x06FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9673*)
+356: 0x06FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9675*)
     → "Unbelievable! Didn't I just tell ya Moblin Marbles only? Okay, okay! Anything to get ya to leave me alone. Ya can have one of these for $0 gil. Just don't go tellin' Goldagrik, ya hear? I'll be out of a job!"
 357: 0x06FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 358: 0x06FF [0x03] ExtData[1]->WorkLocal[10] = 1048572*
@@ -1192,11 +1192,11 @@ SUBROUTINE_0786:
 ```
   0: 0x0787 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x078C [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x078D [0x1D] PRINT_EVENT_MESSAGE(message_id=9677*)
+  2: 0x078D [0x1D] PRINT_EVENT_MESSAGE(message_id=9679*)
     → "That's all ya got for me? Well, okay. I can give ya $0 [marble/marbles], no more. Do we got a deal?"
   3: 0x0790 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0791 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=2*)
-  5: 0x079A [0x24] CREATE_DIALOG(message_id=9678*, default_option=1*, option_flags=0*)
+  5: 0x079A [0x24] CREATE_DIALOG(message_id=9680*, default_option=1*, option_flags=0*)
     → "We got a deal? [Deal./No deal.]"
   6: 0x07A1 [0x25] WAIT_DIALOG_SELECT()
   7: 0x07A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07B6
@@ -1240,7 +1240,7 @@ SUBROUTINE_07CA:
      0x0832 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0835 [0x03] ExtData[1]->WorkLocal[7] = 0*
      0x083A [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0A69
-     0x0842 [0x24] CREATE_DIALOG(message_id=9665*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+     0x0842 [0x24] CREATE_DIALOG(message_id=9667*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "Trade for which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./Cancel./Return to previous menu.]"
      0x0849 [0x25] WAIT_DIALOG_SELECT()
      0x084A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x086F
@@ -1347,7 +1347,7 @@ SUBROUTINE_07CA:
      0x0A34 [0x01] GOTO 0x0A66
      0x0A37 [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x0A51
      0x0A3F [0x03] ExtData[1]->WorkLocal[16] = 0*
-     0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+     0x0A44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
      0x0A47 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A48 [0x03] Work_Zone[1] = 0*
@@ -1371,7 +1371,7 @@ SUBROUTINE_07CA:
      0x0AB5 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[12])
      0x0AB8 [0x01] GOTO 0x0ABE
      0x0ABB [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[12])
-     0x0ABE [0x1D] PRINT_EVENT_MESSAGE(message_id=9659*)
+     0x0ABE [0x1D] PRINT_EVENT_MESSAGE(message_id=9661*)
     → "Let's see... I'll give ya one of these. How 'bout it?"
      0x0AC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AC2 [0x02] IF !(ExtData[1]->WorkLocal[16] == 1*) GOTO 0x0ACF
@@ -1385,7 +1385,7 @@ SUBROUTINE_07CA:
      0x0AE7 [0x01] GOTO 0x0AED
      0x0AEA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0AED [0x02] IF !(ExtData[1]->WorkLocal[16] == 7*) GOTO 0x0B92
-     0x0AF5 [0x24] CREATE_DIALOG(message_id=9674*, default_option=2*, option_flags=0*)
+     0x0AF5 [0x24] CREATE_DIALOG(message_id=9676*, default_option=2*, option_flags=0*)
     → "Make the purchase? [Yes./No./Return.]"
      0x0AFC [0x25] WAIT_DIALOG_SELECT()
      0x0AFD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B60
@@ -1402,7 +1402,7 @@ SUBROUTINE_07CA:
      0x0B4A [0x21] END_EVENT
      0x0B4B [0x01] GOTO 0x0B5D
      0x0B4E [0x03] ExtData[1]->WorkLocal[16] = 0*
-     0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=9663*)
+     0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=9665*)
     → "Ya kiddin' me? Ya don't have enough marbles. Think ya can put one over on Chatnachoq, do ya? Well, forget it! Goldagrik didn't just hire me for my looks, ya know!"
      0x0B56 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B57 [0x03] Work_Zone[1] = 0*
@@ -1410,7 +1410,7 @@ SUBROUTINE_07CA:
      0x0B5D [0x01] GOTO 0x0B8F
      0x0B60 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0B7A
      0x0B68 [0x03] ExtData[1]->WorkLocal[16] = 0*
-     0x0B6D [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+     0x0B6D [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
      0x0B70 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B71 [0x03] Work_Zone[1] = 0*
@@ -1421,7 +1421,7 @@ SUBROUTINE_07CA:
      0x0B87 [0x03] ExtData[1]->WorkLocal[8] = 1*
      0x0B8C [0x01] GOTO 0x0B8F
      0x0B8F [0x01] GOTO 0x0C31
-     0x0B92 [0x24] CREATE_DIALOG(message_id=9660*, default_option=2*, option_flags=0*)
+     0x0B92 [0x24] CREATE_DIALOG(message_id=9662*, default_option=2*, option_flags=0*)
     → "Make the trade? [Yes./No./Return to previous menu.]"
      0x0B99 [0x25] WAIT_DIALOG_SELECT()
      0x0B9A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C02
@@ -1439,7 +1439,7 @@ SUBROUTINE_07CA:
      0x0BEC [0x21] END_EVENT
      0x0BED [0x01] GOTO 0x0BFF
      0x0BF0 [0x03] ExtData[1]->WorkLocal[16] = 0*
-     0x0BF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9663*)
+     0x0BF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9665*)
     → "Ya kiddin' me? Ya don't have enough marbles. Think ya can put one over on Chatnachoq, do ya? Well, forget it! Goldagrik didn't just hire me for my looks, ya know!"
      0x0BF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BF9 [0x03] Work_Zone[1] = 0*
@@ -1447,7 +1447,7 @@ SUBROUTINE_07CA:
      0x0BFF [0x01] GOTO 0x0C31
      0x0C02 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C1C
      0x0C0A [0x03] ExtData[1]->WorkLocal[16] = 0*
-     0x0C0F [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+     0x0C0F [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
      0x0C12 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C13 [0x03] Work_Zone[1] = 0*
@@ -1460,7 +1460,7 @@ SUBROUTINE_07CA:
      0x0C31 [0x01] GOTO 0x0A6F
      0x0C34 [0x1B] RETURN
      0x0C35 [0x02] IF !(ExtData[1]->WorkLocal[23] <= ExtData[1]->WorkLocal[22]) GOTO 0x0C49
-     0x0C3D [0x1D] PRINT_EVENT_MESSAGE(message_id=9667*)
+     0x0C3D [0x1D] PRINT_EVENT_MESSAGE(message_id=9669*)
     → "Hah! Sorry, [bud/lady]. Ya want that one, ya hafta earn it. Marbles alone can't buy fame, ya know? Come back when ya got some more experience under ya belt."
      0x0C40 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C41 [0x03] ExtData[1]->WorkLocal[6] = 1*
@@ -1469,15 +1469,15 @@ SUBROUTINE_07CA:
      0x0C4E [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0CF3
      0x0C56 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0C6A
      0x0C5E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x0C63 [0x1D] PRINT_EVENT_MESSAGE(message_id=9669*)
+     0x0C63 [0x1D] PRINT_EVENT_MESSAGE(message_id=9671*)
     → "What? After all the trouble I went through last time, ya wanna change it? Oh suuuuuuuuure, no big deal... Just more work for Chatnachoq! Change my title! Trade me a Maze Tabula! Fetch me an Imperial coffee! Tell ya what. Give me $0 marbles and it's yours."
      0x0C66 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C67 [0x01] GOTO 0x0C73
      0x0C6A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
-     0x0C6F [0x1D] PRINT_EVENT_MESSAGE(message_id=9668*)
+     0x0C6F [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
     → "It'll cost ya $0 marbles for that one. Deal? Come on, I don't have all day!"
      0x0C72 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0C73 [0x24] CREATE_DIALOG(message_id=9660*, default_option=2*, option_flags=0*)
+     0x0C73 [0x24] CREATE_DIALOG(message_id=9662*, default_option=2*, option_flags=0*)
     → "Make the trade? [Yes./No./Return to previous menu.]"
      0x0C7A [0x25] WAIT_DIALOG_SELECT()
      0x0C7B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CC6
@@ -1490,7 +1490,7 @@ SUBROUTINE_07CA:
      0x0CB0 [0x21] END_EVENT
      0x0CB1 [0x01] GOTO 0x0CC3
      0x0CB4 [0x03] ExtData[1]->WorkLocal[16] = 0*
-     0x0CB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9663*)
+     0x0CB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9665*)
     → "Ya kiddin' me? Ya don't have enough marbles. Think ya can put one over on Chatnachoq, do ya? Well, forget it! Goldagrik didn't just hire me for my looks, ya know!"
      0x0CBC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CBD [0x03] Work_Zone[1] = 0*
@@ -1498,7 +1498,7 @@ SUBROUTINE_07CA:
      0x0CC3 [0x01] GOTO 0x0CF0
      0x0CC6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0CE0
      0x0CCE [0x03] ExtData[1]->WorkLocal[16] = 0*
-     0x0CD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+     0x0CD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
      0x0CD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CD7 [0x03] Work_Zone[1] = 0*
@@ -1511,7 +1511,7 @@ SUBROUTINE_07CA:
      0x0CF3 [0x1B] RETURN
      0x0CF4 [0x03] ExtData[1]->WorkLocal[9] = 0*
      0x0CF9 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x1B5A
-     0x0D01 [0x24] CREATE_DIALOG(message_id=9657*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
+     0x0D01 [0x24] CREATE_DIALOG(message_id=9659*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
     → "Trade for which type of Maze Rune? [Class 1./Class 2./Class 3./Class 4./Class 5./Cancel./Return to previous menu.]"
      0x0D08 [0x25] WAIT_DIALOG_SELECT()
      0x0D09 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FDD
@@ -2241,7 +2241,7 @@ SUBROUTINE_07CA:
      0x1B2A [0x01] GOTO 0x1B57
      0x1B2D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1B47
      0x1B35 [0x03] ExtData[1]->WorkLocal[16] = 0*
-     0x1B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=9664*)
+     0x1B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=9666*)
     → "Yeah, yeah. Finally, I can get back to work! Come back again, but only if ya got marbles. I don't have time ta stand here yappin' with adventurers all day, ya know?"
      0x1B3D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B3E [0x03] Work_Zone[1] = 0*
@@ -2319,7 +2319,7 @@ SUBROUTINE_07CA:
      0x1CE9 [0x3E] IF !(Work_Zone[2] bit 19*) GOTO 0x1CF7
      0x1CF0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=19*, condition_work_offset=1*)
      0x1CF7 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1048575*) GOTO 0x1D03
-     0x1CFF [0x1D] PRINT_EVENT_MESSAGE(message_id=9671*)
+     0x1CFF [0x1D] PRINT_EVENT_MESSAGE(message_id=9673*)
     → "You're a nosy one, ain't ya? Ain't nothin' for ya to see here!"
      0x1D02 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D03 [0x1B] RETURN

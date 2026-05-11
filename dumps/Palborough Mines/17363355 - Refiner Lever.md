@@ -20,24 +20,24 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CD9      |        7385 |
+|       0 | 0x1CDB      |        7387 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x003C      |          60 |
 |       4 | 0x001E      |          30 |
 |       5 | 0x0014      |          20 |
-|       6 | 0x1CDA      |        7386 |
-|       7 | 0x1CDD      |        7389 |
-|       8 | 0x1CDB      |        7387 |
-|       9 | 0x1CDC      |        7388 |
+|       6 | 0x1CDC      |        7388 |
+|       7 | 0x1CDF      |        7391 |
+|       8 | 0x1CDD      |        7389 |
+|       9 | 0x1CDE      |        7390 |
 
 ## String References
 
-- **7385**: Pull the lever? [Yes./No.]
-- **7386**: You've activated the machine.
-- **7387**: You hear the sounds of metal hitting metal down below. Did the things you put in come out there?
-- **7388**: It might be best to go look downstairs.
-- **7389**: The machine seems to be working, but you cannot discern its purpose.
+- **7387**: Pull the lever? [Yes./No.]
+- **7388**: You've activated the machine.
+- **7389**: You hear the sounds of metal hitting metal down below. Did the things you put in come out there?
+- **7390**: It might be best to go look downstairs.
+- **7391**: The machine seems to be working, but you cannot discern its purpose.
 
 ## Events
 
@@ -95,7 +95,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x24] CREATE_DIALOG(message_id=7385*, default_option=0*, option_flags=0*)
+  1: 0x0002 [0x24] CREATE_DIALOG(message_id=7387*, default_option=0*, option_flags=0*)
     → "Pull the lever? [Yes./No.]"
   2: 0x0009 [0x25] WAIT_DIALOG_SELECT()
   3: 0x000A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x001A
@@ -123,19 +123,19 @@ SUBROUTINE_0067:
  23: 0x007E [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kika" with entities [Refiner Lever (ID: 17363355/0x0108F19B), Refiner Lever (ID: 17363355/0x0108F19B)]
  24: 0x008B [0x1C] WAIT(20* ticks)
  25: 0x008E [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kika" with entities [Refiner Lever (ID: 17363355/0x0108F19B), Refiner Lever (ID: 17363355/0x0108F19B)]
- 26: 0x009B [0x48] [System] [7386*]:
+ 26: 0x009B [0x48] [System] [7388*]:
     → "You've activated the machine."
  27: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x009F [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x00B6
  29: 0x00A7 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x00B3
- 30: 0x00AF [0x48] [System] [7389*]:
+ 30: 0x00AF [0x48] [System] [7391*]:
     → "The machine seems to be working, but you cannot discern its purpose."
  31: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00B3 [0x01] GOTO 0x00BE
- 33: 0x00B6 [0x48] [System] [7387*]:
+ 33: 0x00B6 [0x48] [System] [7389*]:
     → "You hear the sounds of metal hitting metal down below. Did the things you put in come out there?"
  34: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00BA [0x48] [System] [7388*]:
+ 35: 0x00BA [0x48] [System] [7390*]:
     → "It might be best to go look downstairs."
  36: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 

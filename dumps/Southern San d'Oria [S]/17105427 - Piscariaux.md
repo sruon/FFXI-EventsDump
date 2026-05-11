@@ -122,7 +122,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x04F8      |        1272 |
-|       1 | 0x2F52      |       12114 |
+|       1 | 0x2F54      |       12116 |
 |       2 | 0x0028      |          40 |
 |       3 | 0xFFFD6D4B  |  4294798667 |
 |       4 | 0x113F6     |       70646 |
@@ -146,7 +146,7 @@
 
 ## String References
 
-- **12114**: Great power lies in one's drive. What drives you, adventurer?
+- **12116**: Great power lies in one's drive. What drives you, adventurer?
 
 ## Events
 
@@ -194,7 +194,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=1272*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12114*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12116*)
     → "Great power lies in one's drive. What drives you, adventurer?"
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0019 [0x21] END_EVENT

@@ -29,7 +29,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1C2F      |        7215 |
+|       2 | 0x1C31      |        7217 |
 |       3 | 0x14180     |       82304 |
 |       4 | 0xFFFE60FC  |  4294861052 |
 |       5 | 0xFFFFF63D  |  4294964797 |
@@ -45,12 +45,12 @@
 |      15 | 0xE13A      |       57658 |
 |      16 | 0xFFFEE1F7  |  4294894071 |
 |      17 | 0xFFFFF68E  |  4294964878 |
-|      18 | 0x1C40      |        7232 |
+|      18 | 0x1C42      |        7234 |
 
 ## String References
 
-- **7215**: If you wantaru participate in the auction, then step rightaru up to the counters lining the wall over there.
-- **7232**: Look outaru for those Savanna Dhalmels. They just love to eataru our mail!
+- **7217**: If you wantaru participate in the auction, then step rightaru up to the counters lining the wall over there.
+- **7234**: Look outaru for those Savanna Dhalmels. They just love to eataru our mail!
 
 ## Events
 
@@ -149,7 +149,7 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Orudoba-Sondeba (ID: 17756198/0x010EF026), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7215*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7217*)
     → "If you wantaru participate in the auction, then step rightaru up to the counters lining the wall over there."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x002C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Orudoba-Sondeba (ID: 17756198/0x010EF026), tag_num=0x02)
@@ -294,7 +294,7 @@
   1: 0x008D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x008E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x008F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Orudoba-Sondeba (ID: 17756198/0x010EF026), tag_num=0x01)
-  4: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7232*)
+  4: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7234*)
     → "Look outaru for those Savanna Dhalmels. They just love to eataru our mail!"
   5: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x009A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Orudoba-Sondeba (ID: 17756198/0x010EF026), tag_num=0x02)

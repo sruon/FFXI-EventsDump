@@ -22,22 +22,22 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000A      |          10 |
-|       1 | 0x1B48      |        6984 |
-|       2 | 0x1B49      |        6985 |
-|       3 | 0x1B4A      |        6986 |
-|       4 | 0x1B4B      |        6987 |
+|       1 | 0x1B4A      |        6986 |
+|       2 | 0x1B4B      |        6987 |
+|       3 | 0x1B4C      |        6988 |
+|       4 | 0x1B4D      |        6989 |
 |       5 | 0x000B      |          11 |
-|       6 | 0x1B4C      |        6988 |
-|       7 | 0x1B4D      |        6989 |
+|       6 | 0x1B4E      |        6990 |
+|       7 | 0x1B4F      |        6991 |
 |       8 | 0x0000      |           0 |
-|       9 | 0x1B4E      |        6990 |
-|      10 | 0x1B4F      |        6991 |
-|      11 | 0x1B50      |        6992 |
-|      12 | 0x1B51      |        6993 |
-|      13 | 0x1B52      |        6994 |
+|       9 | 0x1B50      |        6992 |
+|      10 | 0x1B51      |        6993 |
+|      11 | 0x1B52      |        6994 |
+|      12 | 0x1B53      |        6995 |
+|      13 | 0x1B54      |        6996 |
 |      14 | 0x0046      |          70 |
 |      15 | 0x0001      |           1 |
-|      16 | 0x1B53      |        6995 |
+|      16 | 0x1B55      |        6997 |
 |      17 | 0x01E8      |         488 |
 |      18 | 0x00C8      |         200 |
 |      19 | 0x003C      |          60 |
@@ -50,49 +50,49 @@
 |      26 | 0x009F      |         159 |
 |      27 | 0x0095      |         149 |
 |      28 | 0x007F      |         127 |
-|      29 | 0x1B54      |        6996 |
-|      30 | 0x1B55      |        6997 |
-|      31 | 0x1B57      |        6999 |
-|      32 | 0x1B5A      |        7002 |
-|      33 | 0x1B5D      |        7005 |
-|      34 | 0x1B5E      |        7006 |
-|      35 | 0x1B5F      |        7007 |
-|      36 | 0x1B60      |        7008 |
-|      37 | 0x1B61      |        7009 |
-|      38 | 0x1B63      |        7011 |
-|      39 | 0x1B66      |        7014 |
-|      40 | 0x1B67      |        7015 |
-|      41 | 0x1B68      |        7016 |
+|      29 | 0x1B56      |        6998 |
+|      30 | 0x1B57      |        6999 |
+|      31 | 0x1B59      |        7001 |
+|      32 | 0x1B5C      |        7004 |
+|      33 | 0x1B5F      |        7007 |
+|      34 | 0x1B60      |        7008 |
+|      35 | 0x1B61      |        7009 |
+|      36 | 0x1B62      |        7010 |
+|      37 | 0x1B63      |        7011 |
+|      38 | 0x1B65      |        7013 |
+|      39 | 0x1B68      |        7016 |
+|      40 | 0x1B69      |        7017 |
+|      41 | 0x1B6A      |        7018 |
 |      42 | 0x0069      |         105 |
 |      43 | 0x0047      |          71 |
 |      44 | 0x00C9      |         201 |
 
 ## String References
 
-- **6984**: Oh, you're the one from the pier... I must apologize about my mother.
-- **6985**: My father was a sailor... No one has seen him or his ship for over a year. People are saying the pirates got him.
-- **6986**: My mother has to move on... If only she could be convinced that Father won't be coming back...
-- **6987**: I'd like to believe that he's still alive somewhere... But we can't go on like this. Not anymore.
-- **6988**: Can you...that is, if it's not too much to ask... Would you help me convince my mother?
-- **6989**: Help Celestina? [Yes./No.]
-- **6990**: Really? Oh, thank you!
-- **6991**: There's something that Father told me once that might help us. He said that the $0 he wore was very rare.
-- **6992**: And I recently met a sailor who said he saw a pirate wearing one!
-- **6993**: Could you bring me that $0? If it is really Father's...I think Mother and I can finally move on.
-- **6994**: Please! Take back Father's $0 from that pirate!
-- **6995**: I see... If you ever change your mind...I'll be here.
-- **6996**: You... You got it. So the pirates really...
-- **6997**: I've thought long and hard since we last spoke, and I've decided to stand by Mother's side and believe in Father's return.
-- **6999**: Mother!?
-- **7002**: No, Mother! Listen, I...
-- **7005**: Mother, please! Listen to me!
-- **7007**: Even if a pirate had this, it doesn't necessarily mean Father's gone!
-- **7008**: I'll believe... I'll wait with you. So please, don't close your eyes on reality.
-- **7009**: We must look at the facts, and still keep faith. Father will return safely. We must believe, together.
-- **7011**: Father's safe. I know it! He'll be back soon, I'm sure!
-- **7014**: ...
-- **7015**: Thank you for bringing the amulet. Here, it's not much, but I want you to have this.
-- **7016**: We'll be fine, thanks to you. Father will be coming back soon, I know it.
+- **6986**: Oh, you're the one from the pier... I must apologize about my mother.
+- **6987**: My father was a sailor... No one has seen him or his ship for over a year. People are saying the pirates got him.
+- **6988**: My mother has to move on... If only she could be convinced that Father won't be coming back...
+- **6989**: I'd like to believe that he's still alive somewhere... But we can't go on like this. Not anymore.
+- **6990**: Can you...that is, if it's not too much to ask... Would you help me convince my mother?
+- **6991**: Help Celestina? [Yes./No.]
+- **6992**: Really? Oh, thank you!
+- **6993**: There's something that Father told me once that might help us. He said that the $0 he wore was very rare.
+- **6994**: And I recently met a sailor who said he saw a pirate wearing one!
+- **6995**: Could you bring me that $0? If it is really Father's...I think Mother and I can finally move on.
+- **6996**: Please! Take back Father's $0 from that pirate!
+- **6997**: I see... If you ever change your mind...I'll be here.
+- **6998**: You... You got it. So the pirates really...
+- **6999**: I've thought long and hard since we last spoke, and I've decided to stand by Mother's side and believe in Father's return.
+- **7001**: Mother!?
+- **7004**: No, Mother! Listen, I...
+- **7007**: Mother, please! Listen to me!
+- **7009**: Even if a pirate had this, it doesn't necessarily mean Father's gone!
+- **7010**: I'll believe... I'll wait with you. So please, don't close your eyes on reality.
+- **7011**: We must look at the facts, and still keep faith. Father will return safely. We must believe, together.
+- **7013**: Father's safe. I know it! He'll be back soon, I'm sure!
+- **7016**: ...
+- **7017**: Thank you for bringing the amulet. Here, it's not much, but I want you to have this.
+- **7018**: We'll be fine, thanks to you. Father will be coming back soon, I know it.
 
 ## Events
 
@@ -162,24 +162,24 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=6984*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=6986*)
     → "Oh, you're the one from the pier... I must apologize about my mother."
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=6985*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=6987*)
     → "My father was a sailor... No one has seen him or his ship for over a year. People are saying the pirates got him."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=6986*)
+  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=6988*)
     → "My mother has to move on... If only she could be convinced that Father won't be coming back..."
   7: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=6987*)
+  8: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=6989*)
     → "I'd like to believe that he's still alive somewhere... But we can't go on like this. Not anymore."
   9: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0025 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  11: 0x0032 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "utl0" with entities [EventEntity, EventEntity], work=11*
- 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=6988*)
+ 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=6990*)
     → "Can you...that is, if it's not too much to ask... Would you help me convince my mother?"
  13: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0045 [0x24] CREATE_DIALOG(message_id=6989*, default_option=0*, option_flags=0*)
+ 14: 0x0045 [0x24] CREATE_DIALOG(message_id=6991*, default_option=0*, option_flags=0*)
     → "Help Celestina? [Yes./No.]"
  15: 0x004C [0x25] WAIT_DIALOG_SELECT()
  16: 0x004D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0128
@@ -187,25 +187,25 @@
  18: 0x0062 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "utl1" with entities [EventEntity, EventEntity], work=11*
  19: 0x0071 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "utl1" with entities [EventEntity, EventEntity]
  20: 0x007E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
- 21: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=6990*)
+ 21: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=6992*)
     → "Really? Oh, thank you!"
  22: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=6991*)
+ 23: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=6993*)
     → "There's something that Father told me once that might help us. He said that the $0 he wore was very rare."
  24: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=6992*)
+ 25: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=6994*)
     → "And I recently met a sailor who said he saw a pirate wearing one!"
  26: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0099 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  28: 0x00A6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ntl0" with entities [EventEntity, EventEntity], work=11*
- 29: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6993*)
+ 29: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6995*)
     → "Could you bring me that $0? If it is really Father's...I think Mother and I can finally move on."
  30: 0x00B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00B9 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ntl0" with entities [EventEntity, EventEntity]
  32: 0x00C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ntl1" with entities [EventEntity, EventEntity], work=11*
  33: 0x00D5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ntl1" with entities [EventEntity, EventEntity]
  34: 0x00E2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aig0" with entities [EventEntity, EventEntity], work=11*
- 35: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6994*)
+ 35: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6996*)
     → "Please! Take back Father's $0 from that pirate!"
  36: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00F5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "aig0" with entities [EventEntity, EventEntity]
@@ -324,14 +324,14 @@ SUBROUTINE_017E:
  17: 0x01F4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "se05" with entities [LocalPlayer, LocalPlayer], work=149*
  18: 0x0203 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
  19: 0x0212 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "utl0" with entities [EventEntity, EventEntity], work=11*
- 20: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=6996*)
+ 20: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=6998*)
     → "You... You got it. So the pirates really..."
  21: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0225 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "utl0" with entities [EventEntity, EventEntity]
  23: 0x0232 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "utl1" with entities [EventEntity, EventEntity], work=11*
  24: 0x0241 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "utl1" with entities [EventEntity, EventEntity]
  25: 0x024E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
- 26: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=6997*)
+ 26: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=6999*)
     → "I've thought long and hard since we last spoke, and I've decided to stand by Mother's side and believe in Father's return."
  27: 0x0260 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0261 [0x4A] LocalPlayer looks at Blandine (ID: 17797133/0x010F900D)
@@ -341,7 +341,7 @@ SUBROUTINE_017E:
  32: 0x0291 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  33: 0x029E [0x1E] EventEntity looks at Blandine (ID: 17797133/0x010F900D) and starts talking
  34: 0x02A3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "se03" with entities [LocalPlayer, LocalPlayer], work=149*
- 35: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=6999*)
+ 35: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7001*)
     → "Mother!?"
  36: 0x02B5 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Blandine (ID: 17797133/0x010F900D), tag_num=0x03)
  37: 0x02BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -351,7 +351,7 @@ SUBROUTINE_017E:
  41: 0x02C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se09" with entities [LocalPlayer, LocalPlayer], work=[149*, 0*]
  42: 0x02D7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "se09" with entities [LocalPlayer, LocalPlayer], work=149*
  43: 0x02E6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ntl0" with entities [EventEntity, EventEntity], work=11*
- 44: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7002*)
+ 44: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7004*)
     → "No, Mother! Listen, I..."
  45: 0x02F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x02F9 [0x27] REQ_SET(priority=0x80, entity_id=Blandine (ID: 17797133/0x010F900D), tag_num=0x05)
@@ -362,23 +362,23 @@ SUBROUTINE_017E:
  51: 0x032F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se09" with entities [LocalPlayer, LocalPlayer], work=[149*, 0*]
  52: 0x0340 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "se09" with entities [LocalPlayer, LocalPlayer], work=149*
  53: 0x034F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ntl0" with entities [EventEntity, EventEntity], work=11*
- 54: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=7005*)
+ 54: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=7007*)
     → "Mother, please! Listen to me!"
  55: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x0362 [0x2B] Blandine (ID: 17797133/0x010F900D) [7006*]:
+ 56: 0x0362 [0x2B] Blandine (ID: 17797133/0x010F900D) [7008*]:
     → "..."
  57: 0x0369 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ntl0" with entities [EventEntity, EventEntity]
  58: 0x0376 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ntl1" with entities [EventEntity, EventEntity], work=11*
  59: 0x0385 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ntl1" with entities [EventEntity, EventEntity]
  60: 0x0392 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0393 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt0" with entities [EventEntity, EventEntity], work=11*
- 62: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7007*)
+ 62: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7009*)
     → "Even if a pirate had this, it doesn't necessarily mean Father's gone!"
  63: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7008*)
+ 64: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7010*)
     → "I'll believe... I'll wait with you. So please, don't close your eyes on reality."
  65: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7009*)
+ 66: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7011*)
     → "We must look at the facts, and still keep faith. Father will return safely. We must believe, together."
  67: 0x03AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x03AE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ngt0" with entities [EventEntity, EventEntity]
@@ -386,7 +386,7 @@ SUBROUTINE_017E:
  70: 0x03CA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ngt1" with entities [EventEntity, EventEntity]
  71: 0x03D7 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Blandine (ID: 17797133/0x010F900D), tag_num=0x06)
  72: 0x03DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
- 73: 0x03ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7011*)
+ 73: 0x03ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7013*)
     → "Father's safe. I know it! He'll be back soon, I'm sure!"
  74: 0x03F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x03F1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -394,7 +394,7 @@ SUBROUTINE_017E:
  77: 0x040F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "se10" with entities [LocalPlayer, LocalPlayer], work=149*
  78: 0x041E [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Blandine (ID: 17797133/0x010F900D), tag_num=0x07)
  79: 0x0425 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "unz0" with entities [EventEntity, EventEntity], work=11*
- 80: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=7014*)
+ 80: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=7016*)
     → "..."
  81: 0x0437 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0438 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "unz0" with entities [EventEntity, EventEntity]
@@ -404,7 +404,7 @@ SUBROUTINE_017E:
  86: 0x046A [0x27] REQ_SET(priority=0x80, entity_id=Blandine (ID: 17797133/0x010F900D), tag_num=0x08)
  87: 0x0471 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  88: 0x0472 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 89: 0x0473 [0x1D] PRINT_EVENT_MESSAGE(message_id=7015*)
+ 89: 0x0473 [0x1D] PRINT_EVENT_MESSAGE(message_id=7017*)
     → "Thank you for bringing the amulet. Here, it's not much, but I want you to have this."
  90: 0x0476 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kas0" with entities [EventEntity, EventEntity], work=11*
  91: 0x0485 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kas0" with entities [EventEntity, EventEntity]
@@ -412,7 +412,7 @@ SUBROUTINE_017E:
  93: 0x04A1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  94: 0x04AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x04AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
- 96: 0x04BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7016*)
+ 96: 0x04BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7018*)
     → "We'll be fine, thanks to you. Father will be coming back soon, I know it."
  97: 0x04C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x04C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

@@ -24,37 +24,37 @@
 |---------|-------------|-------------|
 |       0 | 0x00FE      |         254 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x1F90      |        8080 |
+|       2 | 0x1F92      |        8082 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0007      |           7 |
-|       5 | 0x1F91      |        8081 |
+|       5 | 0x1F93      |        8083 |
 |       6 | 0x0008      |           8 |
-|       7 | 0x1F92      |        8082 |
+|       7 | 0x1F94      |        8084 |
 |       8 | 0x0002      |           2 |
 |       9 | 0x0009      |           9 |
-|      10 | 0x1F93      |        8083 |
-|      11 | 0x2112      |        8466 |
-|      12 | 0x2113      |        8467 |
-|      13 | 0x2114      |        8468 |
-|      14 | 0x2115      |        8469 |
+|      10 | 0x1F95      |        8085 |
+|      11 | 0x2114      |        8468 |
+|      12 | 0x2115      |        8469 |
+|      13 | 0x2116      |        8470 |
+|      14 | 0x2117      |        8471 |
 |      15 | 0x00C9      |         201 |
-|      16 | 0x2116      |        8470 |
-|      17 | 0x2117      |        8471 |
-|      18 | 0x2118      |        8472 |
+|      16 | 0x2118      |        8472 |
+|      17 | 0x2119      |        8473 |
+|      18 | 0x211A      |        8474 |
 
 ## String References
 
-- **8080**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
-- **8081**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
-- **8082**: [Requirement/Objective completed]: Obtain all atma found in this area.
-- **8083**: [Requirement/Objective completed]: Complete all quests issued in this area.
-- **8466**: Greetings. I'm in charge of keeping the records of your exploits, and presenting you with rewards commensurate with your deeds.
-- **8467**: Your achievements in this area thus far are as follows:
-- **8468**: Come back any time for an evaluation of your exploits.
-- **8469**: It seems you've completed an objective. Well done. Take this as a token of thanks for your efforts.
-- **8470**: Amazing! You've completed every single objective in this area!
-- **8471**: Why, this is an accomplishment the likes of which I've never seen. Would that you had wings, that you could take your place in the sky as the sun whose warmth and radiance we have gone so long without!
-- **8472**: Ah, forgive me for getting carried away with myself. Your accomplishments moved me like I've not been moved in some while. Please, continue to stand by our side!
+- **8082**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
+- **8083**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
+- **8084**: [Requirement/Objective completed]: Obtain all atma found in this area.
+- **8085**: [Requirement/Objective completed]: Complete all quests issued in this area.
+- **8468**: Greetings. I'm in charge of keeping the records of your exploits, and presenting you with rewards commensurate with your deeds.
+- **8469**: Your achievements in this area thus far are as follows:
+- **8470**: Come back any time for an evaluation of your exploits.
+- **8471**: It seems you've completed an objective. Well done. Take this as a token of thanks for your efforts.
+- **8472**: Amazing! You've completed every single objective in this area!
+- **8473**: Why, this is an accomplishment the likes of which I've never seen. Would that you had wings, that you could take your place in the sky as the sun whose warmth and radiance we have gone so long without!
+- **8474**: Ah, forgive me for getting carried away with myself. Your accomplishments moved me like I've not been moved in some while. Please, continue to stand by our side!
 
 ## Events
 
@@ -107,7 +107,7 @@
      0x0023 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[7]
      0x0028 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[8]
      0x002D [0x02] IF !(1* == 1*) GOTO 0x00C8
-     0x0035 [0x24] CREATE_DIALOG(message_id=8080*, default_option=0*, option_flags=0*)
+     0x0035 [0x24] CREATE_DIALOG(message_id=8082*, default_option=0*, option_flags=0*)
     → "Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]"
      0x003C [0x25] WAIT_DIALOG_SELECT()
      0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0060
@@ -115,7 +115,7 @@
      0x004C [0x03] Work_Zone[2] = 1*
      0x0051 [0x01] GOTO 0x0059
      0x0054 [0x03] Work_Zone[2] = 0*
-     0x0059 [0x48] [System] [8081*]:
+     0x0059 [0x48] [System] [8083*]:
     → "[Requirement/Objective completed]: Obtain all ancient abyssite found in this area."
      0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x005D [0x01] GOTO 0x00A7
@@ -124,7 +124,7 @@
      0x006F [0x03] Work_Zone[2] = 1*
      0x0074 [0x01] GOTO 0x007C
      0x0077 [0x03] Work_Zone[2] = 0*
-     0x007C [0x48] [System] [8082*]:
+     0x007C [0x48] [System] [8084*]:
     → "[Requirement/Objective completed]: Obtain all atma found in this area."
      0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0080 [0x01] GOTO 0x00A7
@@ -133,7 +133,7 @@
      0x0092 [0x03] Work_Zone[2] = 1*
      0x0097 [0x01] GOTO 0x009F
      0x009A [0x03] Work_Zone[2] = 0*
-     0x009F [0x48] [System] [8083*]:
+     0x009F [0x48] [System] [8085*]:
     → "[Requirement/Objective completed]: Complete all quests issued in this area."
      0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00A3 [0x01] GOTO 0x00A7
@@ -169,14 +169,14 @@
 
 ```
   0: 0x00C9 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8466*)
+  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8468*)
     → "Greetings. I'm in charge of keeping the records of your exploits, and presenting you with rewards commensurate with your deeds."
   2: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8467*)
+  3: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8469*)
     → "Your achievements in this area thus far are as follows:"
   4: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00D6 [0x1A] CALL_SUBROUTINE(address=0x0001)
-  6: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8468*)
+  6: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8470*)
     → "Come back any time for an evaluation of your exploits."
   7: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00DD [0x21] END_EVENT
@@ -205,7 +205,7 @@
 
 ```
   0: 0x00DF [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8469*)
+  1: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8471*)
     → "It seems you've completed an objective. Well done. Take this as a token of thanks for your efforts."
   2: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00E4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -235,13 +235,13 @@
 
 ```
   0: 0x00F7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8470*)
+  1: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8472*)
     → "Amazing! You've completed every single objective in this area!"
   2: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8471*)
+  3: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8473*)
     → "Why, this is an accomplishment the likes of which I've never seen. Would that you had wings, that you could take your place in the sky as the sun whose warmth and radiance we have gone so long without!"
   4: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=8472*)
+  5: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=8474*)
     → "Ah, forgive me for getting carried away with myself. Your accomplishments moved me like I've not been moved in some while. Please, continue to stand by our side!"
   6: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0104 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

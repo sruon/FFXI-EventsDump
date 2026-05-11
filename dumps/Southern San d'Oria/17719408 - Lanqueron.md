@@ -32,17 +32,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2101      |        8449 |
-|       2 | 0x2100      |        8448 |
+|       1 | 0x2103      |        8451 |
+|       2 | 0x2102      |        8450 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x40000000  |  1073741824 |
 |       6 | 0x001E      |          30 |
-|       7 | 0x2ED7      |       11991 |
-|       8 | 0x2EF9      |       12025 |
-|       9 | 0x2F0B      |       12043 |
-|      10 | 0x2EFA      |       12026 |
-|      11 | 0x2EFB      |       12027 |
+|       7 | 0x2ED9      |       11993 |
+|       8 | 0x2EFB      |       12027 |
+|       9 | 0x2F0D      |       12045 |
+|      10 | 0x2EFC      |       12028 |
+|      11 | 0x2EFD      |       12029 |
 |      12 | 0x0060      |          96 |
 |      13 | 0x000B      |          11 |
 |      14 | 0xF906      |       63750 |
@@ -74,13 +74,13 @@
 
 ## String References
 
-- **8448**: Send an item? [Send something./No, thanks.]
-- **8449**: Parcels delivered to rooms anywhere in Vana'diel!
-- **11991**: Ask if this person is the chick's owner? [Yes./No.]
-- **12025**: What's this? You have a parcel for me?
-- **12026**: Not a parcel, but a chocobo, you say!? Merciful Altana! My chocobo is safe, right? I thought I could take her on a walk between deliveries, but afterwards I accidentally left her with the parcels I delivered!
-- **12027**: You have my utmost thanks for finding her. Let me teach you a story I often tell my chocobo...
-- **12043**: Not a parcel, but a chocobo, you say? You must be mistaken. I was with my chocobo mere moments ago.
+- **8450**: Send an item? [Send something./No, thanks.]
+- **8451**: Parcels delivered to rooms anywhere in Vana'diel!
+- **11993**: Ask if this person is the chick's owner? [Yes./No.]
+- **12027**: What's this? You have a parcel for me?
+- **12028**: Not a parcel, but a chocobo, you say!? Merciful Altana! My chocobo is safe, right? I thought I could take her on a walk between deliveries, but afterwards I accidentally left her with the parcels I delivered!
+- **12029**: You have my utmost thanks for finding her. Let me teach you a story I often tell my chocobo...
+- **12045**: Not a parcel, but a chocobo, you say? You must be mistaken. I was with my chocobo mere moments ago.
 
 ## Events
 
@@ -155,11 +155,11 @@
   1: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8449*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8451*)
     → "Parcels delivered to rooms anywhere in Vana'diel!"
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  7: 0x0021 [0x24] CREATE_DIALOG(message_id=8448*, default_option=0*, option_flags=0*)
+  7: 0x0021 [0x24] CREATE_DIALOG(message_id=8450*, default_option=0*, option_flags=0*)
     → "Send an item? [Send something./No, thanks.]"
   8: 0x0028 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0029 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0039
@@ -204,7 +204,7 @@ SUBROUTINE_0049:
 ```
   0: 0x004E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x004F [0x03] Work_Zone[1] = 0*
-  2: 0x0054 [0x24] CREATE_DIALOG(message_id=11991*, default_option=1*, option_flags=0*)
+  2: 0x0054 [0x24] CREATE_DIALOG(message_id=11993*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
   3: 0x005B [0x25] WAIT_DIALOG_SELECT()
   4: 0x005C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C4
@@ -214,23 +214,23 @@ SUBROUTINE_0049:
   8: 0x0071 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   9: 0x0073 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  10: 0x0075 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0097
- 11: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=12025*)
+ 11: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=12027*)
     → "What's this? You have a parcel for me?"
  12: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0081 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=12043*)
+ 14: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=12045*)
     → "Not a parcel, but a chocobo, you say? You must be mistaken. I was with my chocobo mere moments ago."
  15: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0094 [0x01] GOTO 0x00C1
- 17: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=12025*)
+ 17: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=12027*)
     → "What's this? You have a parcel for me?"
  18: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x009B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 20: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12026*)
+ 20: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12028*)
     → "Not a parcel, but a chocobo, you say!? Merciful Altana! My chocobo is safe, right? I thought I could take her on a walk between deliveries, but afterwards I accidentally left her with the parcels I delivered!"
  21: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 23: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12027*)
+ 23: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12029*)
     → "You have my utmost thanks for finding her. Let me teach you a story I often tell my chocobo..."
  24: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

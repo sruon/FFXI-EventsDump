@@ -27,66 +27,66 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x002D      |          45 |
-|       1 | 0x288B      |       10379 |
-|       2 | 0x288C      |       10380 |
+|       1 | 0x288D      |       10381 |
+|       2 | 0x288E      |       10382 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x000B      |          11 |
-|       5 | 0x288D      |       10381 |
+|       5 | 0x288F      |       10383 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x0013      |          19 |
-|       8 | 0x288E      |       10382 |
+|       8 | 0x2890      |       10384 |
 |       9 | 0x02E7      |         743 |
-|      10 | 0x288F      |       10383 |
+|      10 | 0x2891      |       10385 |
 |      11 | 0x003C      |          60 |
-|      12 | 0x2890      |       10384 |
+|      12 | 0x2892      |       10386 |
 |      13 | 0x001D      |          29 |
-|      14 | 0x2891      |       10385 |
-|      15 | 0x2892      |       10386 |
+|      14 | 0x2893      |       10387 |
+|      15 | 0x2894      |       10388 |
 |      16 | 0x001E      |          30 |
-|      17 | 0x2893      |       10387 |
-|      18 | 0x2894      |       10388 |
+|      17 | 0x2895      |       10389 |
+|      18 | 0x2896      |       10390 |
 |      19 | 0x000A      |          10 |
-|      20 | 0x2895      |       10389 |
-|      21 | 0x2896      |       10390 |
-|      22 | 0x2897      |       10391 |
-|      23 | 0x2898      |       10392 |
+|      20 | 0x2897      |       10391 |
+|      21 | 0x2898      |       10392 |
+|      22 | 0x2899      |       10393 |
+|      23 | 0x289A      |       10394 |
 |      24 | 0x00C9      |         201 |
-|      25 | 0x289A      |       10394 |
-|      26 | 0x33FA      |       13306 |
+|      25 | 0x289C      |       10396 |
+|      26 | 0x33FC      |       13308 |
 |      27 | 0x0015      |          21 |
-|      28 | 0x33FB      |       13307 |
-|      29 | 0x33FC      |       13308 |
+|      28 | 0x33FD      |       13309 |
+|      29 | 0x33FE      |       13310 |
 |      30 | 0x012C      |         300 |
-|      31 | 0x33FD      |       13309 |
-|      32 | 0x33FE      |       13310 |
-|      33 | 0x33FF      |       13311 |
+|      31 | 0x33FF      |       13311 |
+|      32 | 0x3400      |       13312 |
+|      33 | 0x3401      |       13313 |
 |      34 | 0x007A      |         122 |
 |      35 | 0x0104      |         260 |
 |      36 | 0x00C8      |         200 |
 
 ## String References
 
-- **10379**: You there! Yes, you! You are one of those "adventurers"?
-- **10380**: Are you an "adventurer"? [I guess I am./Not today.]
-- **10381**: I knew it to be so! This badge was made for one such as you! Allow me...!
-- **10382**: No!? A thousand pardons! And yet, you shall make the perfect bearer for this badge! Allow me...!
-- **10383**: 6 is suddenly pinned to <Player>!
-- **10384**: This is the symbol of the illustrious leader of Salaheem's Sentinels--a snarling wildcat.
-- **10385**: Under the authorization of Her Imperial Majesty, Salaheem's Sentinels is a well-respected company that specializes in training and dispatching mercenaries for the defense of the Aht Urhgan Empire. We have a myriad of well-paying missions ready for any able-bodied adventurer.
-- **10386**: But my speech grows overlong! My dauntless commander has bid me take ship to this bountiful kingdom and dazzle the citizenry with the Sentinels' splendor, and so I shall!
-- **10387**: Oho! It is you! It would appear that more and more people are taking an interest in our humble organization. Praise be to the winds of fortune!
-- **10388**: The $3 was created through the advanced alchemical techniques of my country. The wildcat's eyes are designed to flash in the presence of any who entertain thoughts of Aht Urhgan.
-- **10389**: Aha! My splendid friend! You have spread the fire of fascination through the entire city! Salaheem's Sentinels is the talk of the town!
-- **10390**: Hm? It appears the eyes of the $3 have lost their luster. The crystal power source must have been drained after dazzling so many people. Allow me to remove this spent trinket...
-- **10391**: The $3 is taken from <Player>!
-- **10392**: In return, I shall award you this bauble. It will come in handy for when you join the ranks of the Aht Urhgan mercenaries!
-- **10394**: Your name will shine down through the ages as one of our finest public relations officers. Should you ever brave the seas and find yourself in the Imperial City of Al Zahbi, you simply must visit the offices of Salaheem's Sentinels. I insist!
-- **13306**: Ah, if it isn't <Player>! Perchance you have come to question the authenticity of my testimony regarding the Sentinels. I do not deny that I may have possibly added a bit of color to the facts surrounding the true nature of our fine leader, but all's well that ends well, no?
-- **13307**: Ah, yet you need not fret any longer, my fine friend. Our prodigal president and provider once again has proffered forth her ever-giving hands in a selfless gesture of heartwarming charity.
-- **13308**: From this day forth, all employees of Salaheem's Sentinels can now teleport freely from San d'Oria to Aht Urhgan Whitegate!
-- **13309**: And by freely, I mean in the sense of "free as a bird" as I will require a fee of $0 gil from those who wish to partake in my services.
-- **13310**: Thank you very much, [sir/ma'am].
-- **13311**: Now let us be on our merry way!
+- **10381**: You there! Yes, you! You are one of those "adventurers"?
+- **10382**: Are you an "adventurer"? [I guess I am./Not today.]
+- **10383**: I knew it to be so! This badge was made for one such as you! Allow me...!
+- **10384**: No!? A thousand pardons! And yet, you shall make the perfect bearer for this badge! Allow me...!
+- **10385**: 6 is suddenly pinned to <Player>!
+- **10386**: This is the symbol of the illustrious leader of Salaheem's Sentinels--a snarling wildcat.
+- **10387**: Under the authorization of Her Imperial Majesty, Salaheem's Sentinels is a well-respected company that specializes in training and dispatching mercenaries for the defense of the Aht Urhgan Empire. We have a myriad of well-paying missions ready for any able-bodied adventurer.
+- **10388**: But my speech grows overlong! My dauntless commander has bid me take ship to this bountiful kingdom and dazzle the citizenry with the Sentinels' splendor, and so I shall!
+- **10389**: Oho! It is you! It would appear that more and more people are taking an interest in our humble organization. Praise be to the winds of fortune!
+- **10390**: The $3 was created through the advanced alchemical techniques of my country. The wildcat's eyes are designed to flash in the presence of any who entertain thoughts of Aht Urhgan.
+- **10391**: Aha! My splendid friend! You have spread the fire of fascination through the entire city! Salaheem's Sentinels is the talk of the town!
+- **10392**: Hm? It appears the eyes of the $3 have lost their luster. The crystal power source must have been drained after dazzling so many people. Allow me to remove this spent trinket...
+- **10393**: The $3 is taken from <Player>!
+- **10394**: In return, I shall award you this bauble. It will come in handy for when you join the ranks of the Aht Urhgan mercenaries!
+- **10396**: Your name will shine down through the ages as one of our finest public relations officers. Should you ever brave the seas and find yourself in the Imperial City of Al Zahbi, you simply must visit the offices of Salaheem's Sentinels. I insist!
+- **13308**: Ah, if it isn't <Player>! Perchance you have come to question the authenticity of my testimony regarding the Sentinels. I do not deny that I may have possibly added a bit of color to the facts surrounding the true nature of our fine leader, but all's well that ends well, no?
+- **13309**: Ah, yet you need not fret any longer, my fine friend. Our prodigal president and provider once again has proffered forth her ever-giving hands in a selfless gesture of heartwarming charity.
+- **13310**: From this day forth, all employees of Salaheem's Sentinels can now teleport freely from San d'Oria to Aht Urhgan Whitegate!
+- **13311**: And by freely, I mean in the sense of "free as a bird" as I will require a fee of $0 gil from those who wish to partake in my services.
+- **13312**: Thank you very much, [sir/ma'am].
+- **13313**: Now let us be on our merry way!
 
 ## Events
 
@@ -142,17 +142,17 @@
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0007 [0x1C] WAIT(45* ticks)
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10379*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10381*)
     → "You there! Yes, you! You are one of those "adventurers"?"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x24] CREATE_DIALOG(message_id=10380*, default_option=0*, option_flags=0*)
+  5: 0x000E [0x24] CREATE_DIALOG(message_id=10382*, default_option=0*, option_flags=0*)
     → "Are you an "adventurer"? [I guess I am./Not today.]"
   6: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0034
   8: 0x001E [0x6E] Amutiyaal (ID: 17719569/0x010E6111) uses emote 11*
   9: 0x0025 [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
  10: 0x002A [0x1C] WAIT(45* ticks)
- 11: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=10381*)
+ 11: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=10383*)
     → "I knew it to be so! This badge was made for one such as you! Allow me...!"
  12: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0031 [0x01] GOTO 0x0052
@@ -160,25 +160,25 @@
  15: 0x003C [0x6E] Amutiyaal (ID: 17719569/0x010E6111) uses emote 19*
  16: 0x0043 [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
  17: 0x0048 [0x1C] WAIT(45* ticks)
- 18: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=10382*)
+ 18: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=10384*)
     → "No!? A thousand pardons! And yet, you shall make the perfect bearer for this badge! Allow me...!"
  19: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x004F [0x01] GOTO 0x0052
 
 SUBROUTINE_0052:
  21: 0x0052 [0x03] Work_Zone[2] = 743*
- 22: 0x0057 [0x48] [System] [10383*]:
+ 22: 0x0057 [0x48] [System] [10385*]:
     → "6 is suddenly pinned to <Player>!"
  23: 0x005A [0x1C] WAIT(60* ticks)
- 24: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=10384*)
+ 24: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=10386*)
     → "This is the symbol of the illustrious leader of Salaheem's Sentinels--a snarling wildcat."
  25: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0061 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 27: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=10385*)
+ 27: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=10387*)
     → "Under the authorization of Her Imperial Majesty, Salaheem's Sentinels is a well-respected company that specializes in training and dispatching mercenaries for the defense of the Aht Urhgan Empire. We have a myriad of well-paying missions ready for any able-bodied adventurer."
  28: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0074 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
- 30: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=10386*)
+ 30: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=10388*)
     → "But my speech grows overlong! My dauntless commander has bid me take ship to this bountiful kingdom and dazzle the citizenry with the Sentinels' splendor, and so I shall!"
  31: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0087 [0x21] END_EVENT
@@ -210,7 +210,7 @@ SUBROUTINE_0052:
   1: 0x008E [0x1C] WAIT(30* ticks)
   2: 0x0091 [0x6E] Amutiyaal (ID: 17719569/0x010E6111) uses emote 11*
   3: 0x0098 [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
-  4: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=10387*)
+  4: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=10389*)
     → "Oho! It is you! It would appear that more and more people are taking an interest in our humble organization. Praise be to the winds of fortune!"
   5: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A1 [0x21] END_EVENT
@@ -243,7 +243,7 @@ SUBROUTINE_0052:
   1: 0x00A8 [0x1C] WAIT(45* ticks)
   2: 0x00AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
   3: 0x00BA [0x03] Work_Zone[2] = 743*
-  4: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10388*)
+  4: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10390*)
     → "The $3 was created through the advanced alchemical techniques of my country. The wildcat's eyes are designed to flash in the presence of any who entertain thoughts of Aht Urhgan."
   5: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -281,18 +281,18 @@ SUBROUTINE_0052:
   2: 0x00DA [0x1C] WAIT(45* ticks)
   3: 0x00DD [0x6E] Amutiyaal (ID: 17719569/0x010E6111) uses emote 10*
   4: 0x00E4 [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
-  5: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10389*)
+  5: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10391*)
     → "Aha! My splendid friend! You have spread the fire of fascination through the entire city! Salaheem's Sentinels is the talk of the town!"
   6: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00ED [0x03] Work_Zone[2] = 743*
-  8: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10390*)
+  8: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10392*)
     → "Hm? It appears the eyes of the $3 have lost their luster. The crystal power source must have been drained after dazzling so many people. Allow me to remove this spent trinket..."
   9: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x00F6 [0x48] [System] [10391*]:
+ 10: 0x00F6 [0x48] [System] [10393*]:
     → "The $3 is taken from <Player>!"
  11: 0x00F9 [0x1C] WAIT(60* ticks)
  12: 0x00FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 13: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=10392*)
+ 13: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=10394*)
     → "In return, I shall award you this bauble. It will come in handy for when you join the ranks of the Aht Urhgan mercenaries!"
  14: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x010F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -326,7 +326,7 @@ SUBROUTINE_0052:
   0: 0x0134 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0139 [0x1C] WAIT(45* ticks)
   2: 0x013C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  3: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=10394*)
+  3: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=10396*)
     → "Your name will shine down through the ages as one of our finest public relations officers. Should you ever brave the seas and find yourself in the Imperial City of Al Zahbi, you simply must visit the offices of Salaheem's Sentinels. I insist!"
   4: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x014F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -364,18 +364,18 @@ SUBROUTINE_0052:
   0: 0x0160 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0165 [0x1C] WAIT(45* ticks)
   2: 0x0168 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  3: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=13306*)
+  3: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=13308*)
     → "Ah, if it isn't <Player>! Perchance you have come to question the authenticity of my testimony regarding the Sentinels. I do not deny that I may have possibly added a bit of color to the facts surrounding the true nature of our fine leader, but all's well that ends well, no?"
   4: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x017B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
   6: 0x018A [0x6E] Amutiyaal (ID: 17719569/0x010E6111) uses emote 21*
   7: 0x0191 [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
-  8: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=13307*)
+  8: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=13309*)
     → "Ah, yet you need not fret any longer, my fine friend. Our prodigal president and provider once again has proffered forth her ever-giving hands in a selfless gesture of heartwarming charity."
   9: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x019A [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
  11: 0x019F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 12: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=13308*)
+ 12: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=13310*)
     → "From this day forth, all employees of Salaheem's Sentinels can now teleport freely from San d'Oria to Aht Urhgan Whitegate!"
  13: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x01B2 [0x03] Work_Zone[2] = 300*
@@ -383,7 +383,7 @@ SUBROUTINE_0052:
  16: 0x01C6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  17: 0x01D3 [0x6E] Amutiyaal (ID: 17719569/0x010E6111) uses emote 10*
  18: 0x01DA [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
- 19: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=13309*)
+ 19: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=13311*)
     → "And by freely, I mean in the sense of "free as a bird" as I will require a fee of $0 gil from those who wish to partake in my services."
  20: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x01E3 [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
@@ -421,12 +421,12 @@ SUBROUTINE_0052:
   2: 0x01ED [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x01F2 [0x1C] WAIT(45* ticks)
   4: 0x01F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  5: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=13310*)
+  5: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=13312*)
     → "Thank you very much, [sir/ma'am]."
   6: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0208 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
   8: 0x0217 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
-  9: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=13311*)
+  9: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=13313*)
     → "Now let us be on our merry way!"
  10: 0x0227 [0x03] Work_Zone[1] = 1*
  11: 0x022C [0x73] Amutiyaal (ID: 17719569/0x010E6111) casts magic 122* on LocalPlayer

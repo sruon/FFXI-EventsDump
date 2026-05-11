@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CAD      |        7341 |
+|       0 | 0x1CAF      |        7343 |
 
 ## String References
 
-- **7341**: As always, we Galka do all the work, while Humes just watch.
+- **7343**: As always, we Galka do all the work, while Humes just watch.
 
 ## Events
 
@@ -69,7 +69,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
     → "As always, we Galka do all the work, while Humes just watch."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT

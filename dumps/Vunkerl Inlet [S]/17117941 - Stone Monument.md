@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E1C      |        7708 |
-|       1 | 0x1E1D      |        7709 |
-|       2 | 0x1E1E      |        7710 |
-|       3 | 0x1E1F      |        7711 |
-|       4 | 0x1E20      |        7712 |
-|       5 | 0x1E21      |        7713 |
+|       0 | 0x1E1E      |        7710 |
+|       1 | 0x1E1F      |        7711 |
+|       2 | 0x1E20      |        7712 |
+|       3 | 0x1E21      |        7713 |
+|       4 | 0x1E22      |        7714 |
+|       5 | 0x1E23      |        7715 |
 
 ## String References
 
-- **7708**: You see a message engraved on the stone:
-- **7709**: My sojourn into Vunkerl Inlet was naturally motivated by cartography rather than simple curiosity. But I must be honest. There was another desire that quickened my stride.
-- **7710**: The waters of this inlet are fed by both the warm currents of the Bastore Sea and the cold currents of the Sea of Shu'Meyo. Perhaps you now understand my excitement. To the best of my knowledge, Vunkerl Inlet is second-to-none as a fishing paradise.
-- **7711**: My mounting excitement was cruelly dashed by footfalls that echoed like peals of thunder. I ducked under cover in time to witness several Gigas pass right before my hiding spot. I guessed these to be brigands from the north, landed here to plunder and pillage.
-- **7712**: The Gigas wore a number of round shields hanging from their waists, of curiously small proportion to their size. My thoughts ran to the vikings rumored to inhabit the islands in the northern ocean. There would be no fishing for me here.
-- **7713**: @ --Gwynham Ironheart, 758 Crystal Era.
+- **7710**: You see a message engraved on the stone:
+- **7711**: My sojourn into Vunkerl Inlet was naturally motivated by cartography rather than simple curiosity. But I must be honest. There was another desire that quickened my stride.
+- **7712**: The waters of this inlet are fed by both the warm currents of the Bastore Sea and the cold currents of the Sea of Shu'Meyo. Perhaps you now understand my excitement. To the best of my knowledge, Vunkerl Inlet is second-to-none as a fishing paradise.
+- **7713**: My mounting excitement was cruelly dashed by footfalls that echoed like peals of thunder. I ducked under cover in time to witness several Gigas pass right before my hiding spot. I guessed these to be brigands from the north, landed here to plunder and pillage.
+- **7714**: The Gigas wore a number of round shields hanging from their waists, of curiously small proportion to their size. My thoughts ran to the vikings rumored to inhabit the islands in the northern ocean. There would be no fishing for me here.
+- **7715**: @ --Gwynham Ironheart, 758 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7708*]:
+  0: 0x0001 [0x48] [System] [7710*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7709*]:
+  2: 0x0005 [0x48] [System] [7711*]:
     → "My sojourn into Vunkerl Inlet was naturally motivated by cartography rather than simple curiosity. But I must be honest. There was another desire that quickened my stride."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7710*]:
+  4: 0x0009 [0x48] [System] [7712*]:
     → "The waters of this inlet are fed by both the warm currents of the Bastore Sea and the cold currents of the Sea of Shu'Meyo. Perhaps you now understand my excitement. To the best of my knowledge, Vunkerl Inlet is second-to-none as a fishing paradise."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7711*]:
+  6: 0x000D [0x48] [System] [7713*]:
     → "My mounting excitement was cruelly dashed by footfalls that echoed like peals of thunder. I ducked under cover in time to witness several Gigas pass right before my hiding spot. I guessed these to be brigands from the north, landed here to plunder and pillage."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7712*]:
+  8: 0x0011 [0x48] [System] [7714*]:
     → "The Gigas wore a number of round shields hanging from their waists, of curiously small proportion to their size. My thoughts ran to the vikings rumored to inhabit the islands in the northern ocean. There would be no fishing for me here."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7713*]:
+ 10: 0x0015 [0x48] [System] [7715*]:
     → "@ --Gwynham Ironheart, 758 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

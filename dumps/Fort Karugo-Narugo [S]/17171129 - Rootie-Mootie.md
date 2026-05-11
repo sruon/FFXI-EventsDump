@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0031      |          49 |
-|       2 | 0x1FD8      |        8152 |
-|       3 | 0x1FD9      |        8153 |
+|       2 | 0x1FDA      |        8154 |
+|       3 | 0x1FDB      |        8155 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x0018 [0x2B] EventEntity [8152*]:
+  3: 0x0018 [0x2B] EventEntity [8154*]:
     → "To tell you the truth, I was quite taken aback when I heard that the Yagudo had allied themselves with the dark in the north."
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0020 [0x2B] EventEntity [8153*]:
+  5: 0x0020 [0x2B] EventEntity [8155*]:
     → "For such a historied institution as the Yagudo Theomilitary to defer itself to a higher power... The evil in the north must be far more powerful and influential than any have imagined."
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*

@@ -31,39 +31,39 @@
 |       6 | 0x0006      |           6 |
 |       7 | 0x0007      |           7 |
 |       8 | 0x0008      |           8 |
-|       9 | 0x3194      |       12692 |
-|      10 | 0x3195      |       12693 |
-|      11 | 0x3196      |       12694 |
+|       9 | 0x3196      |       12694 |
+|      10 | 0x3197      |       12695 |
+|      11 | 0x3198      |       12696 |
 |      12 | 0x40000000  |  1073741824 |
-|      13 | 0x3197      |       12695 |
+|      13 | 0x3199      |       12697 |
 |      14 | 0x220C      |        8716 |
-|      15 | 0x3199      |       12697 |
-|      16 | 0x319A      |       12698 |
-|      17 | 0x319B      |       12699 |
-|      18 | 0x319C      |       12700 |
+|      15 | 0x319B      |       12699 |
+|      16 | 0x319C      |       12700 |
+|      17 | 0x319D      |       12701 |
+|      18 | 0x319E      |       12702 |
 |      19 | 0x0011      |          17 |
 |      20 | 0x0012      |          18 |
 |      21 | 0x0010      |          16 |
-|      22 | 0x319F      |       12703 |
-|      23 | 0x31A0      |       12704 |
-|      24 | 0x31A3      |       12707 |
+|      22 | 0x31A1      |       12705 |
+|      23 | 0x31A2      |       12706 |
+|      24 | 0x31A5      |       12709 |
 |      25 | 0x000F      |          15 |
 |      26 | 0x001F      |          31 |
 |      27 | 0x0022      |          34 |
 |      28 | 0x0016      |          22 |
 |      29 | 0xFFFFFFFF  |  4294967295 |
-|      30 | 0x319D      |       12701 |
+|      30 | 0x319F      |       12703 |
 |      31 | 0x000B      |          11 |
 |      32 | 0x000C      |          12 |
 |      33 | 0x000A      |          10 |
-|      34 | 0x31A1      |       12705 |
+|      34 | 0x31A3      |       12707 |
 |      35 | 0x0037      |          55 |
 |      36 | 0x003C      |          60 |
 |      37 | 0x0015      |          21 |
 |      38 | 0x0019      |          25 |
 |      39 | 0x001D      |          29 |
-|      40 | 0x319E      |       12702 |
-|      41 | 0x31A2      |       12706 |
+|      40 | 0x31A0      |       12704 |
+|      41 | 0x31A4      |       12708 |
 |      42 | 0x0028      |          40 |
 |      43 | 0x220A      |        8714 |
 |      44 | 0x220B      |        8715 |
@@ -317,21 +317,21 @@
 
 ## String References
 
-- **12692**: Hey! The MHMU has a basketful of special goodies for all the brave adventurers who work hard to protect the poor little moogles of Vana'diel, kupo.
-- **12693**: Oh, and your name is on my list, <Player>! Let me show you the items you can choose from...
-- **12694**: Choose wisely... [Never mind./$0./$1./$2./$3./$4./$5./$6./$7.]
-- **12695**: Hey! The MHMU has a basketful of special goodies for all the brave adventurers who work hard to protect the poor little moogles of Vana'diel, kupo. Ah, but it looks like I have nothing for you! Sorry!
-- **12697**: Should you get your mighty mitts on anything like $0, make it known by trading them to me. I'll give you a great gift in return, kupo.
-- **12698**: So you've deemed it time to trade in a ticket-like $0, huh? For what exemplars of enjoyment will you exchange it, kupo?
-- **12699**: What do you want in exchange? [Nothing./Equipment./Items./Currency.]
-- **12700**: What equipment? [Never mind./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]
-- **12701**: What item? [None./$1. ($11)/$2. ($12)/$3. ($13)/$4. ($14)/$5. ($15)/$6. ($16)/$7. ($17)/$8. ($18)/$9. ($19)/$10. ($20)/Previous page./Next page.]
-- **12702**: What currency? [Never mind./Conquest Points. ($1)/Imperial Standing. ($2)/Allied Notes. ($3)/Bayld. ($4)/[Fishermen's Guild/Carpenters' Guild/Blacksmiths' Guild/Goldsmiths' Guild/Weavers' Guild/Tanners' Guild/Boneworkers' Guild/Alchemists' Guild/Culinarians' Guild] points. ($5)]
-- **12703**: You can't carry any more $0, kupo. Please pick another provision.
-- **12704**: You sure you're perfectly pleased with $0, kupo?
-- **12705**: You sure you're perfectly pleased with $1 $0 , kupo?
-- **12706**: Are you completely confident you want $1 [Conquest Points/Imperial Standing/Allied Notes/Bayld/Fishermen's Guild points/Carpenters' Guild points/Blacksmiths' Guild points/Goldsmiths' Guild points/Weavers' Guild points/Tanners' Guild points/Boneworkers' Guild points/Alchemists' Guild points/Culinarians' Guild points], kupo?
-- **12707**: Well, are you? [You know it, poet./No, I'm not, tot.]
+- **12694**: Hey! The MHMU has a basketful of special goodies for all the brave adventurers who work hard to protect the poor little moogles of Vana'diel, kupo.
+- **12695**: Oh, and your name is on my list, <Player>! Let me show you the items you can choose from...
+- **12696**: Choose wisely... [Never mind./$0./$1./$2./$3./$4./$5./$6./$7.]
+- **12697**: Hey! The MHMU has a basketful of special goodies for all the brave adventurers who work hard to protect the poor little moogles of Vana'diel, kupo. Ah, but it looks like I have nothing for you! Sorry!
+- **12699**: Should you get your mighty mitts on anything like $0, make it known by trading them to me. I'll give you a great gift in return, kupo.
+- **12700**: So you've deemed it time to trade in a ticket-like $0, huh? For what exemplars of enjoyment will you exchange it, kupo?
+- **12701**: What do you want in exchange? [Nothing./Equipment./Items./Currency.]
+- **12702**: What equipment? [Never mind./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]
+- **12703**: What item? [None./$1. ($11)/$2. ($12)/$3. ($13)/$4. ($14)/$5. ($15)/$6. ($16)/$7. ($17)/$8. ($18)/$9. ($19)/$10. ($20)/Previous page./Next page.]
+- **12704**: What currency? [Never mind./Conquest Points. ($1)/Imperial Standing. ($2)/Allied Notes. ($3)/Bayld. ($4)/[Fishermen's Guild/Carpenters' Guild/Blacksmiths' Guild/Goldsmiths' Guild/Weavers' Guild/Tanners' Guild/Boneworkers' Guild/Alchemists' Guild/Culinarians' Guild] points. ($5)]
+- **12705**: You can't carry any more $0, kupo. Please pick another provision.
+- **12706**: You sure you're perfectly pleased with $0, kupo?
+- **12707**: You sure you're perfectly pleased with $1 $0 , kupo?
+- **12708**: Are you completely confident you want $1 [Conquest Points/Imperial Standing/Allied Notes/Bayld/Fishermen's Guild points/Carpenters' Guild points/Blacksmiths' Guild points/Goldsmiths' Guild points/Weavers' Guild points/Tanners' Guild points/Boneworkers' Guild points/Alchemists' Guild points/Culinarians' Guild points], kupo?
+- **12709**: Well, are you? [You know it, poet./No, I'm not, tot.]
 
 ## Events
 
@@ -404,13 +404,13 @@
  15: 0x006B [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x007A
  16: 0x0073 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=8*, condition_work_offset=1*)
  17: 0x007A [0x1E] EventEntity looks at LocalPlayer and starts talking
- 18: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=12692*)
+ 18: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=12694*)
     → "Hey! The MHMU has a basketful of special goodies for all the brave adventurers who work hard to protect the poor little moogles of Vana'diel, kupo."
  19: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=12693*)
+ 20: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=12695*)
     → "Oh, and your name is on my list, <Player>! Let me show you the items you can choose from..."
  21: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0087 [0x24] CREATE_DIALOG(message_id=12694*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 22: 0x0087 [0x24] CREATE_DIALOG(message_id=12696*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Choose wisely... [Never mind./$0./$1./$2./$3./$4./$5./$6./$7.]"
  23: 0x008E [0x25] WAIT_DIALOG_SELECT()
  24: 0x008F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009F
@@ -446,11 +446,11 @@ SUBROUTINE_009F:
 
 ```
   0: 0x00AE [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12695*)
+  1: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12697*)
     → "Hey! The MHMU has a basketful of special goodies for all the brave adventurers who work hard to protect the poor little moogles of Vana'diel, kupo. Ah, but it looks like I have nothing for you! Sorry!"
   2: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00B7 [0x03] Work_Zone[2] = 8716*
-  4: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=12697*)
+  4: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=12699*)
     → "Should you get your mighty mitts on anything like $0, make it known by trading them to me. I'll give you a great gift in return, kupo."
   5: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00C0 [0x03] Work_Zone[1] = 1*
@@ -690,7 +690,7 @@ SUBROUTINE_009F:
   4: 0x00D7 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[6]
   5: 0x00DC [0x1E] EventEntity looks at LocalPlayer and starts talking
   6: 0x00E1 [0x9D] Work_Zone[2] = 0x0906[ExtData[1]->WorkLocal[1]] // Read WORD
-  7: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12698*)
+  7: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12700*)
     → "So you've deemed it time to trade in a ticket-like $0, huh? For what exemplars of enjoyment will you exchange it, kupo?"
   8: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00ED [0x06] ExtData[1]->WorkLocal[5] = 0
@@ -698,7 +698,7 @@ SUBROUTINE_009F:
  11: 0x00F3 [0x06] ExtData[1]->WorkLocal[7] = 0
  12: 0x00F6 [0x9D] ExtData[1]->WorkLocal[7] = 0x0916[ExtData[1]->WorkLocal[1]] // Read WORD
  13: 0x00FE [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x015B
- 14: 0x0106 [0x24] CREATE_DIALOG(message_id=12699*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[7])
+ 14: 0x0106 [0x24] CREATE_DIALOG(message_id=12701*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[7])
     → "What do you want in exchange? [Nothing./Equipment./Items./Currency.]"
  15: 0x010D [0x25] WAIT_DIALOG_SELECT()
  16: 0x010E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0121
@@ -733,7 +733,7 @@ SUBROUTINE_015D:
 SUBROUTINE_0169:
  38: 0x0169 [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x02B5
  39: 0x0171 [0x1A] CALL_SUBROUTINE(address=0x02B6)
- 40: 0x0174 [0x24] CREATE_DIALOG(message_id=12700*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[10])
+ 40: 0x0174 [0x24] CREATE_DIALOG(message_id=12702*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[10])
     → "What equipment? [Never mind./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./Previous page./Next page.]"
  41: 0x017B [0x25] WAIT_DIALOG_SELECT()
  42: 0x017C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018A
@@ -783,17 +783,17 @@ SUBROUTINE_0211:
 SUBROUTINE_024E:
  81: 0x024E [0x3E] IF !(ExtData[1]->WorkLocal[13] bit ExtData[1]->WorkLocal[12]) GOTO 0x0261
  82: 0x0255 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
- 83: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=12703*)
+ 83: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=12705*)
     → "You can't carry any more $0, kupo. Please pick another provision."
  84: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x025E [0x01] GOTO 0x02B2
  86: 0x0261 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
  87: 0x0266 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
- 88: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=12704*)
+ 88: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=12706*)
     → "You sure you're perfectly pleased with $0, kupo?"
  89: 0x026C [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x026D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 91: 0x0270 [0x24] CREATE_DIALOG(message_id=12707*, default_option=1*, option_flags=0*)
+ 91: 0x0270 [0x24] CREATE_DIALOG(message_id=12709*, default_option=1*, option_flags=0*)
     → "Well, are you? [You know it, poet./No, I'm not, tot.]"
  92: 0x0277 [0x25] WAIT_DIALOG_SELECT()
  93: 0x0278 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A7
@@ -884,7 +884,7 @@ SUBROUTINE_03E8:
 SUBROUTINE_03F4:
 163: 0x03F4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x0566
 164: 0x03FC [0x1A] CALL_SUBROUTINE(address=0x0567)
-165: 0x03FF [0x24] CREATE_DIALOG(message_id=12701*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[10])
+165: 0x03FF [0x24] CREATE_DIALOG(message_id=12703*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[10])
     → "What item? [None./$1. ($11)/$2. ($12)/$3. ($13)/$4. ($14)/$5. ($15)/$6. ($16)/$7. ($17)/$8. ($18)/$9. ($19)/$10. ($20)/Previous page./Next page.]"
 166: 0x0406 [0x25] WAIT_DIALOG_SELECT()
 167: 0x0407 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0415
@@ -937,11 +937,11 @@ SUBROUTINE_050D:
 210: 0x050D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
 211: 0x0512 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
 212: 0x0517 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
-213: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=12705*)
+213: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=12707*)
     → "You sure you're perfectly pleased with $1 $0 , kupo?"
 214: 0x051D [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x051E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-216: 0x0521 [0x24] CREATE_DIALOG(message_id=12707*, default_option=1*, option_flags=0*)
+216: 0x0521 [0x24] CREATE_DIALOG(message_id=12709*, default_option=1*, option_flags=0*)
     → "Well, are you? [You know it, poet./No, I'm not, tot.]"
 217: 0x0528 [0x25] WAIT_DIALOG_SELECT()
 218: 0x0529 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0558
@@ -1060,7 +1060,7 @@ SUBROUTINE_0750:
 SUBROUTINE_075C:
 318: 0x075C [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x082B
 319: 0x0764 [0x1A] CALL_SUBROUTINE(address=0x082C)
-320: 0x0767 [0x24] CREATE_DIALOG(message_id=12702*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[10])
+320: 0x0767 [0x24] CREATE_DIALOG(message_id=12704*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[10])
     → "What currency? [Never mind./Conquest Points. ($1)/Imperial Standing. ($2)/Allied Notes. ($3)/Bayld. ($4)/[Fishermen's Guild/Carpenters' Guild/Blacksmiths' Guild/Goldsmiths' Guild/Weavers' Guild/Tanners' Guild/Boneworkers' Guild/Alchemists' Guild/Culinarians' Guild] points. ($5)]"
 321: 0x076E [0x25] WAIT_DIALOG_SELECT()
 322: 0x076F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x077D
@@ -1087,10 +1087,10 @@ SUBROUTINE_07CB:
 339: 0x07D0 [0x02] IF !(ExtData[1]->WorkLocal[9] == 5*) GOTO 0x07DD
 340: 0x07D8 [0x07] Work_Zone[2] += ExtData[1]->WorkLocal[4]
 341: 0x07DD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
-342: 0x07E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12706*)
+342: 0x07E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12708*)
     → "Are you completely confident you want $1 [Conquest Points/Imperial Standing/Allied Notes/Bayld/Fishermen's Guild points/Carpenters' Guild points/Blacksmiths' Guild points/Goldsmiths' Guild points/Weavers' Guild points/Tanners' Guild points/Boneworkers' Guild points/Alchemists' Guild points/Culinarians' Guild points], kupo?"
 343: 0x07E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-344: 0x07E6 [0x24] CREATE_DIALOG(message_id=12707*, default_option=1*, option_flags=0*)
+344: 0x07E6 [0x24] CREATE_DIALOG(message_id=12709*, default_option=1*, option_flags=0*)
     → "Well, are you? [You know it, poet./No, I'm not, tot.]"
 345: 0x07ED [0x25] WAIT_DIALOG_SELECT()
 346: 0x07EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x081D

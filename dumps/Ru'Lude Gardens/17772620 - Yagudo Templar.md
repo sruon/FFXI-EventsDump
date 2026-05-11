@@ -25,7 +25,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B05      |       11013 |
+|       0 | 0x2B07      |       11015 |
 |       1 | 0xFFFE831D  |  4294869789 |
 |       2 | 0x18538     |       99640 |
 |       3 | 0xFFFEE6C0  |  4294895296 |
@@ -36,7 +36,7 @@
 
 ## String References
 
-- **11013**: I should cut you up and send you to Heavens Tower! Gawk! Gawk!
+- **11015**: I should cut you up and send you to Heavens Tower! Gawk! Gawk!
 
 ## Events
 
@@ -147,7 +147,7 @@
 #### Opcodes
 
 ```
-  0: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=11013*)
+  0: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=11015*)
     → "I should cut you up and send you to Heavens Tower! Gawk! Gawk!"
   1: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0008 [0x00] END_REQSTACK()

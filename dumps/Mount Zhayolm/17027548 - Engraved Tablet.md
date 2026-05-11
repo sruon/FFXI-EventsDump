@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D90      |        7568 |
+|       0 | 0x1D92      |        7570 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x4E1BF     |      319935 |
@@ -30,7 +30,7 @@
 
 ## String References
 
-- **7568**: Place your hand on the tablet? [Yes./No.]
+- **7570**: Place your hand on the tablet? [Yes./No.]
 
 ## Events
 
@@ -80,7 +80,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7568*, default_option=1*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
     → "Place your hand on the tablet? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003A

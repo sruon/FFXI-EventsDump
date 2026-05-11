@@ -21,58 +21,58 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1E6C      |        7788 |
+|       1 | 0x1E6E      |        7790 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1E6D      |        7789 |
+|       3 | 0x1E6F      |        7791 |
 |       4 | 0x0006      |           6 |
-|       5 | 0x1E6E      |        7790 |
+|       5 | 0x1E70      |        7792 |
 |       6 | 0x0002      |           2 |
 |       7 | 0x0003      |           3 |
 |       8 | 0x0004      |           4 |
 |       9 | 0x0005      |           5 |
 |      10 | 0x0007      |           7 |
-|      11 | 0x1E74      |        7796 |
+|      11 | 0x1E76      |        7798 |
 |      12 | 0x0008      |           8 |
 |      13 | 0x000F      |          15 |
 |      14 | 0x0010      |          16 |
 |      15 | 0x0017      |          23 |
-|      16 | 0x1E6F      |        7791 |
+|      16 | 0x1E71      |        7793 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000A      |          10 |
 |      19 | 0x000B      |          11 |
 |      20 | 0x000C      |          12 |
 |      21 | 0x000D      |          13 |
 |      22 | 0x000E      |          14 |
-|      23 | 0x1E70      |        7792 |
-|      24 | 0x1E71      |        7793 |
-|      25 | 0x1E72      |        7794 |
-|      26 | 0x1E73      |        7795 |
+|      23 | 0x1E72      |        7794 |
+|      24 | 0x1E73      |        7795 |
+|      25 | 0x1E74      |        7796 |
+|      26 | 0x1E75      |        7797 |
 |      27 | 0x0011      |          17 |
 |      28 | 0x0012      |          18 |
 |      29 | 0x0013      |          19 |
 |      30 | 0x0014      |          20 |
 |      31 | 0x0015      |          21 |
-|      32 | 0x1E75      |        7797 |
+|      32 | 0x1E77      |        7799 |
 |      33 | 0x0601      |        1537 |
 |      34 | 0x0600      |        1536 |
 |      35 | 0x05FF      |        1535 |
 |      36 | 0x05FE      |        1534 |
 |      37 | 0x05FD      |        1533 |
-|      38 | 0x1E76      |        7798 |
+|      38 | 0x1E78      |        7800 |
 
 ## String References
 
-- **7788**: Do something? [Quit./Adjust sphere of influence./Adjust NM domination rate./Show me the (Dominion) Notes!/Show me the trophies!]
-- **7789**: Adjust: [Nothing./Group 1-7./Group 8-14.]
-- **7790**: Adjust: [Nothing./Group 1 ($0%) [/$26]./Group 2 ($1%) [/$26],/Group 3 ($2%) [/$26]./Group 4 ($3%) [/$26]./Group 5 ($4%) [/$26]./Group 6 ($5%) [/$26]./Group 7 ($6%) [/$26].]
-- **7791**: Adjust: [Nothing./Group 8 ($0%) [/$26]./Group 9 ($1%) [/$26],/Group 10 ($2%) [/$26]./Group 11 ($3%) [/$26]./Group 12 ($4%) [/$26]./Group 13 ($5%) [/$26]./Group 14 ($6%) [/$26].]
-- **7792**: Adjust: [Nothing./HNM #1-6./NM1 #1-7./NM2 #1-8.]
-- **7793**: Adjust: [Nothing./HNM-1 ($0%) [/$26]./HNM-2 ($1%) [/$26]./HNM-3 ($2%) [/$26]./HNM-4 ($3%) [/$26]./HNM-5 ($4%) [/$26]./HNM-6 ($5%) [/$26].]
-- **7794**: Adjust: [Nothing./NM1-1 ($0%) [/$26]./NM1-2 ($1%) [/$26]./NM1-3 ($2%) [/$26]./NM1-4 ($3%) [/$26]./NM1-5 ($4%) [/$26]./NM1-6 ($5%) [/$26]./NM1-7 ($6%) [/$26].]
-- **7795**: Adjust: [Nothing./NM2-1 ($0%) [/$26]./NM2-2 ($1%) [/$26]./NM2-3 ($2%) [/$26]./NM2-4 ($3%) [/$26]./NM2-5 ($4%) [/$26]./NM2-6 ($5%) [/$26]./NM2-7 ($6%) [/$26]./NM2-8 ($7%) [/$26].]
-- **7796**: Select a value: [Cancel./+1$19/+2$19/+3$19/+5$19/+10$19/+20$19/+30$19/+50$19/+100$19/-1$19/-2$19/-3$19/-5$19/-10$19/-20$19/-30$19/-50$19/-100$19/Lower completion flag.]
-- **7797**: How many? [0./1./10./100./1000./10000./100000./1000000.]
-- **7798**: Which? [None./6/$6/$6/$6/$6]
+- **7790**: Do something? [Quit./Adjust sphere of influence./Adjust NM domination rate./Show me the (Dominion) Notes!/Show me the trophies!]
+- **7791**: Adjust: [Nothing./Group 1-7./Group 8-14.]
+- **7792**: Adjust: [Nothing./Group 1 ($0%) [/$26]./Group 2 ($1%) [/$26],/Group 3 ($2%) [/$26]./Group 4 ($3%) [/$26]./Group 5 ($4%) [/$26]./Group 6 ($5%) [/$26]./Group 7 ($6%) [/$26].]
+- **7793**: Adjust: [Nothing./Group 8 ($0%) [/$26]./Group 9 ($1%) [/$26],/Group 10 ($2%) [/$26]./Group 11 ($3%) [/$26]./Group 12 ($4%) [/$26]./Group 13 ($5%) [/$26]./Group 14 ($6%) [/$26].]
+- **7794**: Adjust: [Nothing./HNM #1-6./NM1 #1-7./NM2 #1-8.]
+- **7795**: Adjust: [Nothing./HNM-1 ($0%) [/$26]./HNM-2 ($1%) [/$26]./HNM-3 ($2%) [/$26]./HNM-4 ($3%) [/$26]./HNM-5 ($4%) [/$26]./HNM-6 ($5%) [/$26].]
+- **7796**: Adjust: [Nothing./NM1-1 ($0%) [/$26]./NM1-2 ($1%) [/$26]./NM1-3 ($2%) [/$26]./NM1-4 ($3%) [/$26]./NM1-5 ($4%) [/$26]./NM1-6 ($5%) [/$26]./NM1-7 ($6%) [/$26].]
+- **7797**: Adjust: [Nothing./NM2-1 ($0%) [/$26]./NM2-2 ($1%) [/$26]./NM2-3 ($2%) [/$26]./NM2-4 ($3%) [/$26]./NM2-5 ($4%) [/$26]./NM2-6 ($5%) [/$26]./NM2-7 ($6%) [/$26]./NM2-8 ($7%) [/$26].]
+- **7798**: Select a value: [Cancel./+1$19/+2$19/+3$19/+5$19/+10$19/+20$19/+30$19/+50$19/+100$19/-1$19/-2$19/-3$19/-5$19/-10$19/-20$19/-30$19/-50$19/-100$19/Lower completion flag.]
+- **7799**: How many? [0./1./10./100./1000./10000./100000./1000000.]
+- **7800**: Which? [None./6/$6/$6/$6/$6]
 
 ## Events
 
@@ -304,7 +304,7 @@
  23: 0x004A [0x06] ExtData[1]->WorkLocal[7] = 0
  24: 0x004D [0x06] ExtData[1]->WorkLocal[8] = 0
  25: 0x0050 [0x06] ExtData[1]->WorkLocal[9] = 0
- 26: 0x0053 [0x24] CREATE_DIALOG(message_id=7788*, default_option=0*, option_flags=0*)
+ 26: 0x0053 [0x24] CREATE_DIALOG(message_id=7790*, default_option=0*, option_flags=0*)
     → "Do something? [Quit./Adjust sphere of influence./Adjust NM domination rate./Show me the (Dominion) Notes!/Show me the trophies!]"
  27: 0x005A [0x25] WAIT_DIALOG_SELECT()
  28: 0x005B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0072
@@ -319,7 +319,7 @@
 
 SUBROUTINE_0082:
  37: 0x0082 [0x02] IF !(ExtData[1]->WorkLocal[11] <= 0*) GOTO 0x033F
- 38: 0x008A [0x24] CREATE_DIALOG(message_id=7789*, default_option=0*, option_flags=0*)
+ 38: 0x008A [0x24] CREATE_DIALOG(message_id=7791*, default_option=0*, option_flags=0*)
     → "Adjust: [Nothing./Group 1-7./Group 8-14.]"
  39: 0x0091 [0x25] WAIT_DIALOG_SELECT()
  40: 0x0092 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A0
@@ -352,7 +352,7 @@ SUBROUTINE_00AB:
  65: 0x0106 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[18]
  66: 0x010B [0x03] Work_Zone_1700[6] = ExtData[1]->WorkLocal[19]
  67: 0x0110 [0x03] Work_Zone_1700[7] = ExtData[1]->WorkLocal[20]
- 68: 0x0115 [0x24] CREATE_DIALOG(message_id=7790*, default_option=0*, option_flags=0*)
+ 68: 0x0115 [0x24] CREATE_DIALOG(message_id=7792*, default_option=0*, option_flags=0*)
     → "Adjust: [Nothing./Group 1 ($0%) [/$26]./Group 2 ($1%) [/$26],/Group 3 ($2%) [/$26]./Group 4 ($3%) [/$26]./Group 5 ($4%) [/$26]./Group 6 ($5%) [/$26]./Group 7 ($6%) [/$26].]"
  69: 0x011C [0x25] WAIT_DIALOG_SELECT()
  70: 0x011D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012B
@@ -382,7 +382,7 @@ SUBROUTINE_00AB:
 
 SUBROUTINE_019B:
  94: 0x019B [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x01E8
- 95: 0x01A3 [0x24] CREATE_DIALOG(message_id=7796*, default_option=0*, option_flags=0*)
+ 95: 0x01A3 [0x24] CREATE_DIALOG(message_id=7798*, default_option=0*, option_flags=0*)
     → "Select a value: [Cancel./+1$19/+2$19/+3$19/+5$19/+10$19/+20$19/+30$19/+50$19/+100$19/-1$19/-2$19/-3$19/-5$19/-10$19/-20$19/-30$19/-50$19/-100$19/Lower completion flag.]"
  96: 0x01AA [0x25] WAIT_DIALOG_SELECT()
  97: 0x01AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B9
@@ -427,7 +427,7 @@ SUBROUTINE_01F9:
 132: 0x0254 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[18]
 133: 0x0259 [0x03] Work_Zone_1700[6] = ExtData[1]->WorkLocal[19]
 134: 0x025E [0x03] Work_Zone_1700[7] = ExtData[1]->WorkLocal[20]
-135: 0x0263 [0x24] CREATE_DIALOG(message_id=7791*, default_option=0*, option_flags=0*)
+135: 0x0263 [0x24] CREATE_DIALOG(message_id=7793*, default_option=0*, option_flags=0*)
     → "Adjust: [Nothing./Group 8 ($0%) [/$26]./Group 9 ($1%) [/$26],/Group 10 ($2%) [/$26]./Group 11 ($3%) [/$26]./Group 12 ($4%) [/$26]./Group 13 ($5%) [/$26]./Group 14 ($6%) [/$26].]"
 136: 0x026A [0x25] WAIT_DIALOG_SELECT()
 137: 0x026B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0279
@@ -457,7 +457,7 @@ SUBROUTINE_01F9:
 
 SUBROUTINE_02E9:
 161: 0x02E9 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x0336
-162: 0x02F1 [0x24] CREATE_DIALOG(message_id=7796*, default_option=0*, option_flags=0*)
+162: 0x02F1 [0x24] CREATE_DIALOG(message_id=7798*, default_option=0*, option_flags=0*)
     → "Select a value: [Cancel./+1$19/+2$19/+3$19/+5$19/+10$19/+20$19/+30$19/+50$19/+100$19/-1$19/-2$19/-3$19/-5$19/-10$19/-20$19/-30$19/-50$19/-100$19/Lower completion flag.]"
 163: 0x02F8 [0x25] WAIT_DIALOG_SELECT()
 164: 0x02F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0307
@@ -485,7 +485,7 @@ SUBROUTINE_033C:
 
 SUBROUTINE_0352:
 182: 0x0352 [0x02] IF !(ExtData[1]->WorkLocal[11] <= 0*) GOTO 0x075D
-183: 0x035A [0x24] CREATE_DIALOG(message_id=7792*, default_option=0*, option_flags=0*)
+183: 0x035A [0x24] CREATE_DIALOG(message_id=7794*, default_option=0*, option_flags=0*)
     → "Adjust: [Nothing./HNM #1-6./NM1 #1-7./NM2 #1-8.]"
 184: 0x0361 [0x25] WAIT_DIALOG_SELECT()
 185: 0x0362 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0370
@@ -518,7 +518,7 @@ SUBROUTINE_037B:
 210: 0x03D6 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[18]
 211: 0x03DB [0x03] Work_Zone_1700[6] = ExtData[1]->WorkLocal[19]
 212: 0x03E0 [0x03] Work_Zone_1700[7] = ExtData[1]->WorkLocal[20]
-213: 0x03E5 [0x24] CREATE_DIALOG(message_id=7793*, default_option=0*, option_flags=0*)
+213: 0x03E5 [0x24] CREATE_DIALOG(message_id=7795*, default_option=0*, option_flags=0*)
     → "Adjust: [Nothing./HNM-1 ($0%) [/$26]./HNM-2 ($1%) [/$26]./HNM-3 ($2%) [/$26]./HNM-4 ($3%) [/$26]./HNM-5 ($4%) [/$26]./HNM-6 ($5%) [/$26].]"
 214: 0x03EC [0x25] WAIT_DIALOG_SELECT()
 215: 0x03ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03FB
@@ -545,7 +545,7 @@ SUBROUTINE_037B:
 
 SUBROUTINE_045B:
 236: 0x045B [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x04A8
-237: 0x0463 [0x24] CREATE_DIALOG(message_id=7796*, default_option=0*, option_flags=0*)
+237: 0x0463 [0x24] CREATE_DIALOG(message_id=7798*, default_option=0*, option_flags=0*)
     → "Select a value: [Cancel./+1$19/+2$19/+3$19/+5$19/+10$19/+20$19/+30$19/+50$19/+100$19/-1$19/-2$19/-3$19/-5$19/-10$19/-20$19/-30$19/-50$19/-100$19/Lower completion flag.]"
 238: 0x046A [0x25] WAIT_DIALOG_SELECT()
 239: 0x046B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0479
@@ -590,7 +590,7 @@ SUBROUTINE_04B9:
 274: 0x0514 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[18]
 275: 0x0519 [0x03] Work_Zone_1700[6] = ExtData[1]->WorkLocal[19]
 276: 0x051E [0x03] Work_Zone_1700[7] = ExtData[1]->WorkLocal[20]
-277: 0x0523 [0x24] CREATE_DIALOG(message_id=7794*, default_option=0*, option_flags=0*)
+277: 0x0523 [0x24] CREATE_DIALOG(message_id=7796*, default_option=0*, option_flags=0*)
     → "Adjust: [Nothing./NM1-1 ($0%) [/$26]./NM1-2 ($1%) [/$26]./NM1-3 ($2%) [/$26]./NM1-4 ($3%) [/$26]./NM1-5 ($4%) [/$26]./NM1-6 ($5%) [/$26]./NM1-7 ($6%) [/$26].]"
 278: 0x052A [0x25] WAIT_DIALOG_SELECT()
 279: 0x052B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0539
@@ -620,7 +620,7 @@ SUBROUTINE_04B9:
 
 SUBROUTINE_05A9:
 303: 0x05A9 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x05F6
-304: 0x05B1 [0x24] CREATE_DIALOG(message_id=7796*, default_option=0*, option_flags=0*)
+304: 0x05B1 [0x24] CREATE_DIALOG(message_id=7798*, default_option=0*, option_flags=0*)
     → "Select a value: [Cancel./+1$19/+2$19/+3$19/+5$19/+10$19/+20$19/+30$19/+50$19/+100$19/-1$19/-2$19/-3$19/-5$19/-10$19/-20$19/-30$19/-50$19/-100$19/Lower completion flag.]"
 305: 0x05B8 [0x25] WAIT_DIALOG_SELECT()
 306: 0x05B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05C7
@@ -665,7 +665,7 @@ SUBROUTINE_0607:
 341: 0x0662 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[18]
 342: 0x0667 [0x03] Work_Zone_1700[6] = ExtData[1]->WorkLocal[19]
 343: 0x066C [0x03] Work_Zone_1700[7] = ExtData[1]->WorkLocal[20]
-344: 0x0671 [0x24] CREATE_DIALOG(message_id=7795*, default_option=0*, option_flags=0*)
+344: 0x0671 [0x24] CREATE_DIALOG(message_id=7797*, default_option=0*, option_flags=0*)
     → "Adjust: [Nothing./NM2-1 ($0%) [/$26]./NM2-2 ($1%) [/$26]./NM2-3 ($2%) [/$26]./NM2-4 ($3%) [/$26]./NM2-5 ($4%) [/$26]./NM2-6 ($5%) [/$26]./NM2-7 ($6%) [/$26]./NM2-8 ($7%) [/$26].]"
 345: 0x0678 [0x25] WAIT_DIALOG_SELECT()
 346: 0x0679 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0687
@@ -698,7 +698,7 @@ SUBROUTINE_0607:
 
 SUBROUTINE_0707:
 373: 0x0707 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x0754
-374: 0x070F [0x24] CREATE_DIALOG(message_id=7796*, default_option=0*, option_flags=0*)
+374: 0x070F [0x24] CREATE_DIALOG(message_id=7798*, default_option=0*, option_flags=0*)
     → "Select a value: [Cancel./+1$19/+2$19/+3$19/+5$19/+10$19/+20$19/+30$19/+50$19/+100$19/-1$19/-2$19/-3$19/-5$19/-10$19/-20$19/-30$19/-50$19/-100$19/Lower completion flag.]"
 375: 0x0716 [0x25] WAIT_DIALOG_SELECT()
 376: 0x0717 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0725
@@ -726,7 +726,7 @@ SUBROUTINE_075A:
 
 SUBROUTINE_0770:
 394: 0x0770 [0x02] IF !(ExtData[1]->WorkLocal[11] <= 0*) GOTO 0x0821
-395: 0x0778 [0x24] CREATE_DIALOG(message_id=7797*, default_option=0*, option_flags=0*)
+395: 0x0778 [0x24] CREATE_DIALOG(message_id=7799*, default_option=0*, option_flags=0*)
     → "How many? [0./1./10./100./1000./10000./100000./1000000.]"
 396: 0x077F [0x25] WAIT_DIALOG_SELECT()
 397: 0x0780 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x078E
@@ -773,7 +773,7 @@ SUBROUTINE_0834:
 434: 0x0846 [0x03] Work_Zone[4] = 1535*
 435: 0x084B [0x03] Work_Zone[5] = 1534*
 436: 0x0850 [0x03] Work_Zone[6] = 1533*
-437: 0x0855 [0x24] CREATE_DIALOG(message_id=7798*, default_option=0*, option_flags=0*)
+437: 0x0855 [0x24] CREATE_DIALOG(message_id=7800*, default_option=0*, option_flags=0*)
     → "Which? [None./6/$6/$6/$6/$6]"
 438: 0x085C [0x25] WAIT_DIALOG_SELECT()
 439: 0x085D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x086B

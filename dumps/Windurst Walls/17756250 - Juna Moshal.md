@@ -27,8 +27,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0050      |          80 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F0E      |        7950 |
-|       3 | 0x1F0F      |        7951 |
+|       2 | 0x1F10      |        7952 |
+|       3 | 0x1F11      |        7953 |
 |       4 | 0xFFFFFC42  |  4294966338 |
 |       5 | 0x45DF8     |      286200 |
 |       6 | 0xFFFFD8F0  |  4294957296 |
@@ -36,8 +36,8 @@
 
 ## String References
 
-- **7950**: <Hiss!> Get out of herrre.
-- **7951**: We kids keep our tails out of you adults' business, so you keep your big noses out of ourrrs!
+- **7952**: <Hiss!> Get out of herrre.
+- **7953**: We kids keep our tails out of you adults' business, so you keep your big noses out of ourrrs!
 
 ## Events
 
@@ -159,10 +159,10 @@
   1: 0x0027 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x002C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x002D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+  4: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
     → "<Hiss!> Get out of herrre."
   5: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
+  6: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
     → "We kids keep our tails out of you adults' business, so you keep your big noses out of ourrrs!"
   7: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0036 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

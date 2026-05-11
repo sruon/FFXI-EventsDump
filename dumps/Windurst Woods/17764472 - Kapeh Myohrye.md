@@ -50,93 +50,93 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2040      |        8256 |
-|       1 | 0x2041      |        8257 |
-|       2 | 0x204E      |        8270 |
-|       3 | 0x204F      |        8271 |
-|       4 | 0x2054      |        8276 |
-|       5 | 0x2055      |        8277 |
-|       6 | 0x2060      |        8288 |
-|       7 | 0x2061      |        8289 |
-|       8 | 0x2062      |        8290 |
-|       9 | 0x2063      |        8291 |
-|      10 | 0x2064      |        8292 |
-|      11 | 0x206E      |        8302 |
-|      12 | 0x206F      |        8303 |
-|      13 | 0x22DE      |        8926 |
-|      14 | 0x22DF      |        8927 |
-|      15 | 0x22FD      |        8957 |
-|      16 | 0x22FE      |        8958 |
-|      17 | 0x245D      |        9309 |
-|      18 | 0x245E      |        9310 |
-|      19 | 0x247C      |        9340 |
-|      20 | 0x247D      |        9341 |
+|       0 | 0x2042      |        8258 |
+|       1 | 0x2043      |        8259 |
+|       2 | 0x2050      |        8272 |
+|       3 | 0x2051      |        8273 |
+|       4 | 0x2056      |        8278 |
+|       5 | 0x2057      |        8279 |
+|       6 | 0x2062      |        8290 |
+|       7 | 0x2063      |        8291 |
+|       8 | 0x2064      |        8292 |
+|       9 | 0x2065      |        8293 |
+|      10 | 0x2066      |        8294 |
+|      11 | 0x2070      |        8304 |
+|      12 | 0x2071      |        8305 |
+|      13 | 0x22E0      |        8928 |
+|      14 | 0x22E1      |        8929 |
+|      15 | 0x22FF      |        8959 |
+|      16 | 0x2300      |        8960 |
+|      17 | 0x245F      |        9311 |
+|      18 | 0x2460      |        9312 |
+|      19 | 0x247E      |        9342 |
+|      20 | 0x247F      |        9343 |
 |      21 | 0x1C3A4     |      115620 |
 |      22 | 0x18B0D     |      101133 |
 |      23 | 0xFFFFF15B  |  4294963547 |
 |      24 | 0x0400      |        1024 |
-|      25 | 0x2491      |        9361 |
-|      26 | 0x2492      |        9362 |
-|      27 | 0x24B2      |        9394 |
-|      28 | 0x24B3      |        9395 |
-|      29 | 0x25D5      |        9685 |
-|      30 | 0x25D6      |        9686 |
-|      31 | 0x25FB      |        9723 |
-|      32 | 0x25FC      |        9724 |
+|      25 | 0x2493      |        9363 |
+|      26 | 0x2494      |        9364 |
+|      27 | 0x24B4      |        9396 |
+|      28 | 0x24B5      |        9397 |
+|      29 | 0x25D7      |        9687 |
+|      30 | 0x25D8      |        9688 |
+|      31 | 0x25FD      |        9725 |
+|      32 | 0x25FE      |        9726 |
 |      33 | 0x1BF44     |      114500 |
 |      34 | 0x16F30     |       94000 |
 |      35 | 0x0180      |         384 |
 |      36 | 0x0001      |           1 |
 |      37 | 0x0000      |           0 |
-|      38 | 0x2E6E      |       11886 |
+|      38 | 0x2E70      |       11888 |
 |      39 | 0x001E      |          30 |
 |      40 | 0x0002      |           2 |
-|      41 | 0x2E84      |       11908 |
+|      41 | 0x2E86      |       11910 |
 |      42 | 0x0032      |          50 |
-|      43 | 0x2E85      |       11909 |
-|      44 | 0x2E86      |       11910 |
-|      45 | 0x2E9B      |       11931 |
-|      46 | 0x2E9C      |       11932 |
+|      43 | 0x2E87      |       11911 |
+|      44 | 0x2E88      |       11912 |
+|      45 | 0x2E9D      |       11933 |
+|      46 | 0x2E9E      |       11934 |
 |      47 | 0x0034      |          52 |
 |      48 | 0x003C      |          60 |
 
 ## String References
 
-- **8256**: Have you everrr thought about how the food you eat each day arrives on your plate?
-- **8257**: Yes. When we die, we too will be eaten by someone or something. In the end, we all returrrn to the earth to serve as nutrients for otherrr living things.
-- **8270**: What we fearrr is about to happen is by no means certain. However, if our worst fears come to pass, then we will need a strong chieftainness who can rrraise the lands and lead our arrrmies.
-- **8271**: We cannot ask this of our elderrrly chieftainness. Will we need to select a new leaderrr even while our current chieftainness still lives...?
-- **8276**: No one is willing to say it out loud, but we all feel that something is about to occurrr.
-- **8277**: It was exactly the same twenty years ago. There was a grrreat sense of loss back then, as if some grrrand presence had suddenly disappeared. But what was it that was lost?
-- **8288**: What is it you want to learrrn from us, the people of nature?
-- **8289**: While you say you want to leave some legacy for the futurrre, you plunderrr whatever you can here and now.
-- **8290**: If you stopped for a moment and thought, you would rrrealize that at this rate you will have nothing left to give yourrr descendants.
-- **8291**: Those who say they want to leave some legacy for the future, while plunderrring whatever they can here and now, live contrary to nature.
-- **8292**: If they stopped for a moment and thought, they would rrrealize that at this rate they will have nothing left to give theirrr descendants.
-- **8302**: There are no meaningless lives in this worrrld, yet there are a great numberrr of meaningless deaths.
-- **8303**: Never forrrget, fanged one... Never forrrget the sinfulness and folly of causing an unnecessary death.
-- **8926**: For Mithra, there are three laws that are inviolate.
-- **8927**: The Mithran Tracker is the one who brings judgment for those sins. The family who perpetrated the sin is extinguished from the land, from the sky, from time itself.
-- **8957**: For Mithra, there are three laws that are inviolate.
-- **8958**: No matter how far we roam from the homeland, we cannot escape these laws. For those who break the laws of nature, only oblivion awaits.
-- **9309**: There is little point in asking those of us who rrremember. We do not talk about it willingly.
-- **9310**: We are of the trrribe to the south. The events that trrranspired among us at that time are taboo. That is all I can tell you.
-- **9340**: The Bow of Light belongs to the Fire Tribe of the south. The arrows fired from that bow are said to be so powerrrful and so destrrructive, no enemy can stand before them.
-- **9341**: But no matter how powerrrful a weapon is, our chieftainness would not take up that bow. Its use would contrrradict the code of the ranger.
-- **9361**: The Mithran Tracker is unwavering in her search for the Bow of Light.
-- **9362**: But, no matter how she tries to sway us, we will not betrrray our chieftainness. We have sworn to obey the chieftainness in all things.
-- **9394**: We know what the chieftainness felt when she gave up her child for the sake of rrreturning the Bow of Light to its rrrightful place.
-- **9395**: She had to abandon her rrrole as a mother in order to fulfil her duties as a chieftainness, and as a ranger. I wonder if Semih Lafihna understands this?
-- **9685**: Several of our units are already concealed near the Yagudo strrronghold.
-- **9686**: As soon as the enemy makes its move, we'll go straight for the thrrroat. I can almost see the panicked faces of those Yagudo wrrretches.
-- **9723**: After the Great War, the Star Sibyl kept the truth of events from Chieftainness Perih Vashai.
-- **9724**: Considering the nature of Tarutaru, this is not altogether an unusual occurrence. But considering how we fought and died beside them for this land, I can't help but feel betrrrayed.
-- **11886**: Ask if this person is the chick's owner? [Yes./No.]
-- **11908**: You've got my chocobo?
-- **11909**: I've taught the little guy beforehand what to do if he meets up with a monster, so I was prrretty sure he'd be okay, but I was still a little worried.
-- **11910**: Thanks for finding him. Let me thank you by teaching you a story your chocobo might like...
-- **11931**: You say you've got my chocobo?
-- **11932**: A rrranger like me would never lose sight of her chocobo!
+- **8258**: Have you everrr thought about how the food you eat each day arrives on your plate?
+- **8259**: Yes. When we die, we too will be eaten by someone or something. In the end, we all returrrn to the earth to serve as nutrients for otherrr living things.
+- **8272**: What we fearrr is about to happen is by no means certain. However, if our worst fears come to pass, then we will need a strong chieftainness who can rrraise the lands and lead our arrrmies.
+- **8273**: We cannot ask this of our elderrrly chieftainness. Will we need to select a new leaderrr even while our current chieftainness still lives...?
+- **8278**: No one is willing to say it out loud, but we all feel that something is about to occurrr.
+- **8279**: It was exactly the same twenty years ago. There was a grrreat sense of loss back then, as if some grrrand presence had suddenly disappeared. But what was it that was lost?
+- **8290**: What is it you want to learrrn from us, the people of nature?
+- **8291**: While you say you want to leave some legacy for the futurrre, you plunderrr whatever you can here and now.
+- **8292**: If you stopped for a moment and thought, you would rrrealize that at this rate you will have nothing left to give yourrr descendants.
+- **8293**: Those who say they want to leave some legacy for the future, while plunderrring whatever they can here and now, live contrary to nature.
+- **8294**: If they stopped for a moment and thought, they would rrrealize that at this rate they will have nothing left to give theirrr descendants.
+- **8304**: There are no meaningless lives in this worrrld, yet there are a great numberrr of meaningless deaths.
+- **8305**: Never forrrget, fanged one... Never forrrget the sinfulness and folly of causing an unnecessary death.
+- **8928**: For Mithra, there are three laws that are inviolate.
+- **8929**: The Mithran Tracker is the one who brings judgment for those sins. The family who perpetrated the sin is extinguished from the land, from the sky, from time itself.
+- **8959**: For Mithra, there are three laws that are inviolate.
+- **8960**: No matter how far we roam from the homeland, we cannot escape these laws. For those who break the laws of nature, only oblivion awaits.
+- **9311**: There is little point in asking those of us who rrremember. We do not talk about it willingly.
+- **9312**: We are of the trrribe to the south. The events that trrranspired among us at that time are taboo. That is all I can tell you.
+- **9342**: The Bow of Light belongs to the Fire Tribe of the south. The arrows fired from that bow are said to be so powerrrful and so destrrructive, no enemy can stand before them.
+- **9343**: But no matter how powerrrful a weapon is, our chieftainness would not take up that bow. Its use would contrrradict the code of the ranger.
+- **9363**: The Mithran Tracker is unwavering in her search for the Bow of Light.
+- **9364**: But, no matter how she tries to sway us, we will not betrrray our chieftainness. We have sworn to obey the chieftainness in all things.
+- **9396**: We know what the chieftainness felt when she gave up her child for the sake of rrreturning the Bow of Light to its rrrightful place.
+- **9397**: She had to abandon her rrrole as a mother in order to fulfil her duties as a chieftainness, and as a ranger. I wonder if Semih Lafihna understands this?
+- **9687**: Several of our units are already concealed near the Yagudo strrronghold.
+- **9688**: As soon as the enemy makes its move, we'll go straight for the thrrroat. I can almost see the panicked faces of those Yagudo wrrretches.
+- **9725**: After the Great War, the Star Sibyl kept the truth of events from Chieftainness Perih Vashai.
+- **9726**: Considering the nature of Tarutaru, this is not altogether an unusual occurrence. But considering how we fought and died beside them for this land, I can't help but feel betrrrayed.
+- **11888**: Ask if this person is the chick's owner? [Yes./No.]
+- **11910**: You've got my chocobo?
+- **11911**: I've taught the little guy beforehand what to do if he meets up with a monster, so I was prrretty sure he'd be okay, but I was still a little worried.
+- **11912**: Thanks for finding him. Let me thank you by teaching you a story your chocobo might like...
+- **11933**: You say you've got my chocobo?
+- **11934**: A rrranger like me would never lose sight of her chocobo!
 
 ## Events
 
@@ -185,10 +185,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8256*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8258*)
     → "Have you everrr thought about how the food you eat each day arrives on your plate?"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8257*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8259*)
     → "Yes. When we die, we too will be eaten by someone or something. In the end, we all returrrn to the earth to serve as nutrients for otherrr living things."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -220,10 +220,10 @@
   0: 0x0017 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x001C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x001D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8270*)
+  3: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8272*)
     → "What we fearrr is about to happen is by no means certain. However, if our worst fears come to pass, then we will need a strong chieftainness who can rrraise the lands and lead our arrrmies."
   4: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=8271*)
+  5: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=8273*)
     → "We cannot ask this of our elderrrly chieftainness. Will we need to select a new leaderrr even while our current chieftainness still lives...?"
   6: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0026 [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -256,10 +256,10 @@
   0: 0x002D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=8276*)
+  3: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
     → "No one is willing to say it out loud, but we all feel that something is about to occurrr."
   4: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8277*)
+  5: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
     → "It was exactly the same twenty years ago. There was a grrreat sense of loss back then, as if some grrrand presence had suddenly disappeared. But what was it that was lost?"
   6: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x003C [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -335,13 +335,13 @@
   0: 0x0045 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x004A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=8288*)
+  3: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=8290*)
     → "What is it you want to learrrn from us, the people of nature?"
   4: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=8289*)
+  5: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
     → "While you say you want to leave some legacy for the futurrre, you plunderrr whatever you can here and now."
   6: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8290*)
+  7: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
     → "If you stopped for a moment and thought, you would rrrealize that at this rate you will have nothing left to give yourrr descendants."
   8: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0058 [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -374,10 +374,10 @@
   0: 0x005F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0064 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0065 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
+  3: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
     → "Those who say they want to leave some legacy for the future, while plunderrring whatever they can here and now, live contrary to nature."
   4: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
+  5: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
     → "If they stopped for a moment and thought, they would rrrealize that at this rate they will have nothing left to give theirrr descendants."
   6: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x006E [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -409,10 +409,10 @@
   0: 0x0075 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x007A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=8302*)
+  3: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
     → "There are no meaningless lives in this worrrld, yet there are a great numberrr of meaningless deaths."
   4: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
+  5: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
     → "Never forrrget, fanged one... Never forrrget the sinfulness and folly of causing an unnecessary death."
   6: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0084 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -489,10 +489,10 @@
   0: 0x008F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0094 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0095 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
+  3: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
     → "For Mithra, there are three laws that are inviolate."
   4: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
+  5: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
     → "The Mithran Tracker is the one who brings judgment for those sins. The family who perpetrated the sin is extinguished from the land, from the sky, from time itself."
   6: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x009E [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -524,10 +524,10 @@
   0: 0x00A5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00AA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00AB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8957*)
+  3: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8959*)
     → "For Mithra, there are three laws that are inviolate."
   4: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8958*)
+  5: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8960*)
     → "No matter how far we roam from the homeland, we cannot escape these laws. For those who break the laws of nature, only oblivion awaits."
   6: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00B4 [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -626,10 +626,10 @@
   0: 0x00BE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9309*)
+  3: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9311*)
     → "There is little point in asking those of us who rrremember. We do not talk about it willingly."
   4: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9310*)
+  5: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9312*)
     → "We are of the trrribe to the south. The events that trrranspired among us at that time are taboo. That is all I can tell you."
   6: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00CD [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -661,10 +661,10 @@
   0: 0x00D4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00D9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9340*)
+  3: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9342*)
     → "The Bow of Light belongs to the Fire Tribe of the south. The arrows fired from that bow are said to be so powerrrful and so destrrructive, no enemy can stand before them."
   4: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9341*)
+  5: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9343*)
     → "But no matter how powerrrful a weapon is, our chieftainness would not take up that bow. Its use would contrrradict the code of the ranger."
   6: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00E3 [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -764,10 +764,10 @@
   0: 0x00F6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00FB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00FC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9361*)
+  3: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
     → "The Mithran Tracker is unwavering in her search for the Bow of Light."
   4: 0x0100 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=9362*)
+  5: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=9364*)
     → "But, no matter how she tries to sway us, we will not betrrray our chieftainness. We have sworn to obey the chieftainness in all things."
   6: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0105 [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -800,10 +800,10 @@
   0: 0x010C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0111 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0112 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=9394*)
+  3: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=9396*)
     → "We know what the chieftainness felt when she gave up her child for the sake of rrreturning the Bow of Light to its rrrightful place."
   4: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=9395*)
+  5: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=9397*)
     → "She had to abandon her rrrole as a mother in order to fulfil her duties as a chieftainness, and as a ranger. I wonder if Semih Lafihna understands this?"
   6: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x011B [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -835,10 +835,10 @@
   0: 0x0122 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0127 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0128 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=9685*)
+  3: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=9687*)
     → "Several of our units are already concealed near the Yagudo strrronghold."
   4: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=9686*)
+  5: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=9688*)
     → "As soon as the enemy makes its move, we'll go straight for the thrrroat. I can almost see the panicked faces of those Yagudo wrrretches."
   6: 0x0130 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0131 [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -870,10 +870,10 @@
   0: 0x0138 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x013D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x013E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=9723*)
+  3: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=9725*)
     → "After the Great War, the Star Sibyl kept the truth of events from Chieftainness Perih Vashai."
   4: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=9724*)
+  5: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=9726*)
     → "Considering the nature of Tarutaru, this is not altogether an unusual occurrence. But considering how we fought and died beside them for this land, I can't help but feel betrrrayed."
   6: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0147 [0x1A] CALL_SUBROUTINE(address=0x0162)
@@ -1015,7 +1015,7 @@
      0x0173 [0x03] Work_Zone[1] = 0*
      0x0178 [0x01] GOTO 0x01F4
      0x017B [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x017C [0x24] CREATE_DIALOG(message_id=11886*, default_option=1*, option_flags=0*)
+     0x017C [0x24] CREATE_DIALOG(message_id=11888*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
      0x0183 [0x25] WAIT_DIALOG_SELECT()
      0x0184 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E4
@@ -1025,23 +1025,23 @@
      0x0199 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x019B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x019D [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x01D2
-     0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11908*)
+     0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11910*)
     → "You've got my chocobo?"
      0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-     0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11909*)
+     0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11911*)
     → "I've taught the little guy beforehand what to do if he meets up with a monster, so I was prrretty sure he'd be okay, but I was still a little worried."
      0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
-     0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11910*)
+     0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11912*)
     → "Thanks for finding him. Let me thank you by teaching you a story your chocobo might like..."
      0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01CF [0x01] GOTO 0x01E1
-     0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11931*)
+     0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11933*)
     → "You say you've got my chocobo?"
      0x01D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01D6 [0x27] REQ_SET(priority=0x05, entity_id=Kapeh Myohrye (ID: 17764472/0x010F1078), tag_num=0x1E)
-     0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11932*)
+     0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11934*)
     → "A rrranger like me would never lose sight of her chocobo!"
      0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01E1 [0x01] GOTO 0x01F4

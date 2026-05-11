@@ -55,7 +55,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x21F7      |        8695 |
+|       1 | 0x21F9      |        8697 |
 |       2 | 0xA1F8      |       41464 |
 |       3 | 0xFFFFACA7  |  4294945959 |
 |       4 | 0xFFFFFF9D  |  4294967197 |
@@ -77,20 +77,20 @@
 |      20 | 0x4771      |       18289 |
 |      21 | 0xFFFF297D  |  4294912381 |
 |      22 | 0x0F1D      |        3869 |
-|      23 | 0x1E26      |        7718 |
-|      24 | 0x1E27      |        7719 |
+|      23 | 0x1E28      |        7720 |
+|      24 | 0x1E29      |        7721 |
 |      25 | 0x003C      |          60 |
-|      26 | 0x1E28      |        7720 |
-|      27 | 0x1E29      |        7721 |
-|      28 | 0x1E2A      |        7722 |
-|      29 | 0x1E2B      |        7723 |
+|      26 | 0x1E2A      |        7722 |
+|      27 | 0x1E2B      |        7723 |
+|      28 | 0x1E2C      |        7724 |
+|      29 | 0x1E2D      |        7725 |
 |      30 | 0x0001      |           1 |
-|      31 | 0x1E2C      |        7724 |
-|      32 | 0x1E2D      |        7725 |
-|      33 | 0x1E2E      |        7726 |
-|      34 | 0x1E2F      |        7727 |
-|      35 | 0x1E30      |        7728 |
-|      36 | 0x1E31      |        7729 |
+|      31 | 0x1E2E      |        7726 |
+|      32 | 0x1E2F      |        7727 |
+|      33 | 0x1E30      |        7728 |
+|      34 | 0x1E31      |        7729 |
+|      35 | 0x1E32      |        7730 |
+|      36 | 0x1E33      |        7731 |
 |      37 | 0x840B      |       33803 |
 |      38 | 0xFFFF5DF3  |  4294925811 |
 |      39 | 0x086A      |        2154 |
@@ -101,43 +101,43 @@
 |      44 | 0x01EF      |         495 |
 |      45 | 0x002F      |          47 |
 |      46 | 0x01EE      |         494 |
-|      47 | 0x1E1F      |        7711 |
-|      48 | 0x1E20      |        7712 |
-|      49 | 0x1E21      |        7713 |
-|      50 | 0x1E1C      |        7708 |
-|      51 | 0x1E1D      |        7709 |
-|      52 | 0x1E1E      |        7710 |
-|      53 | 0x1E22      |        7714 |
+|      47 | 0x1E21      |        7713 |
+|      48 | 0x1E22      |        7714 |
+|      49 | 0x1E23      |        7715 |
+|      50 | 0x1E1E      |        7710 |
+|      51 | 0x1E1F      |        7711 |
+|      52 | 0x1E20      |        7712 |
+|      53 | 0x1E24      |        7716 |
 |      54 | 0x00C9      |         201 |
-|      55 | 0x1E24      |        7716 |
-|      56 | 0x252D      |        9517 |
-|      57 | 0x252E      |        9518 |
+|      55 | 0x1E26      |        7718 |
+|      56 | 0x252F      |        9519 |
+|      57 | 0x2530      |        9520 |
 
 ## String References
 
-- **7708**: Our boss looks all hairy-scary, but he caves in to his sister Verena all the time.
-- **7709**: Verena's a really nice girl. We all think she's super-duper swell.
-- **7710**: But don't you lay a single-wingle finger on her. People who do... Well, they have a tendency to be found dead, floating off the pier. So please, keep that in mind.
-- **7711**: Wait, so all you got from Aldo was $6? Kinda stingy-winjy of him, don't you think?
-- **7712**: There's a place in Beadeaux where you need $6 and $6 just to get in. If you want, we can try to hook you up.
-- **7713**: Tell you what. I'll trade you $6 for $5, and I'll let you have $6 if you find me $7.
-- **7714**: Okey-dokey, here you go.
+- **7710**: Our boss looks all hairy-scary, but he caves in to his sister Verena all the time.
+- **7711**: Verena's a really nice girl. We all think she's super-duper swell.
+- **7712**: But don't you lay a single-wingle finger on her. People who do... Well, they have a tendency to be found dead, floating off the pier. So please, keep that in mind.
+- **7713**: Wait, so all you got from Aldo was $6? Kinda stingy-winjy of him, don't you think?
+- **7714**: There's a place in Beadeaux where you need $6 and $6 just to get in. If you want, we can try to hook you up.
+- **7715**: Tell you what. I'll trade you $6 for $5, and I'll let you have $6 if you find me $7.
 - **7716**: Okey-dokey, here you go.
-- **7718**: I'm shocked... I'm stunned... I can't believe that Lady-wady Verena is missing. If I had the time, I'd be out there searching...
-- **7719**: If anything happened to her, what would I do!?
-- **7720**: That cutie-wootie Lion was here the other day talking to the boss. A lucky man, he is...
-- **7721**: Lady-wady Verena is back, but she's not doing that good... What did she do to deserve this!?
-- **7722**: What happened in Delkfutt's Tower!? You can tell me, we're buddy-wuddies!
-- **7723**: Tell him about what happened? [Yes./No.]
-- **7724**: No, wait... Maybe it's better that I don't know. I'll just pray for Lady-wady Verena's recovery, and ask her myself.
-- **7725**: You mean, it was that bad...? Okay, just forget that I asked.
-- **7726**: Lady-wady Verena's bak in tip-top shape? That's great! Maybe I should go in and see how she's doing... But what if she's forgotten who I was!?
-- **7727**: The boss told me to get his equipment ready-steady. But, when I asked him where he was going, he told me to mind my own busy-business!
-- **7728**: This is great! This is stupendous! I have a feeling that everything will finally-winally go back to being the way it was!
-- **7729**: But I'm still kinda worried about Verena... She's growing up so fast!
-- **8695**: That blue-haired girl was taken to Monberaux's after the attack. I'm pretty sure she'll be all right, though. Doctor M. is the best medic in town.
-- **9517**: What's going on? The boss is walking around like he's seen the Gates of Paradise, or something.
-- **9518**: He always gets like that when you're around. I don't get it, you don't look that special to me. It's starting to give me the heebie-jeebies...
+- **7718**: Okey-dokey, here you go.
+- **7720**: I'm shocked... I'm stunned... I can't believe that Lady-wady Verena is missing. If I had the time, I'd be out there searching...
+- **7721**: If anything happened to her, what would I do!?
+- **7722**: That cutie-wootie Lion was here the other day talking to the boss. A lucky man, he is...
+- **7723**: Lady-wady Verena is back, but she's not doing that good... What did she do to deserve this!?
+- **7724**: What happened in Delkfutt's Tower!? You can tell me, we're buddy-wuddies!
+- **7725**: Tell him about what happened? [Yes./No.]
+- **7726**: No, wait... Maybe it's better that I don't know. I'll just pray for Lady-wady Verena's recovery, and ask her myself.
+- **7727**: You mean, it was that bad...? Okay, just forget that I asked.
+- **7728**: Lady-wady Verena's bak in tip-top shape? That's great! Maybe I should go in and see how she's doing... But what if she's forgotten who I was!?
+- **7729**: The boss told me to get his equipment ready-steady. But, when I asked him where he was going, he told me to mind my own busy-business!
+- **7730**: This is great! This is stupendous! I have a feeling that everything will finally-winally go back to being the way it was!
+- **7731**: But I'm still kinda worried about Verena... She's growing up so fast!
+- **8697**: That blue-haired girl was taken to Monberaux's after the attack. I'm pretty sure she'll be all right, though. Doctor M. is the best medic in town.
+- **9519**: What's going on? The boss is walking around like he's seen the Gates of Paradise, or something.
+- **9520**: He always gets like that when you're around. I don't get it, you don't look that special to me. It's starting to give me the heebie-jeebies...
 
 ## Events
 
@@ -188,7 +188,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8695*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8697*)
     → "That blue-haired girl was taken to Monberaux's after the attack. I'm pretty sure she'll be all right, though. Doctor M. is the best medic in town."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -363,10 +363,10 @@
   1: 0x00BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7718*)
+  4: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7720*)
     → "I'm shocked... I'm stunned... I can't believe that Lady-wady Verena is missing. If I had the time, I'd be out there searching..."
   5: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7719*)
+  6: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7721*)
     → "If anything happened to her, what would I do!?"
   7: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00D3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -401,7 +401,7 @@
   1: 0x00E2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00E3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7720*)
+  4: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7722*)
     → "That cutie-wootie Lion was here the other day talking to the boss. A lucky man, he is..."
   5: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00F7 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -437,23 +437,23 @@
   1: 0x0106 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0107 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0108 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7721*)
+  4: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7723*)
     → "Lady-wady Verena is back, but she's not doing that good... What did she do to deserve this!?"
   5: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7722*)
+  6: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7724*)
     → "What happened in Delkfutt's Tower!? You can tell me, we're buddy-wuddies!"
   7: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x011F [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  9: 0x0124 [0x24] CREATE_DIALOG(message_id=7723*, default_option=1*, option_flags=0*)
+  9: 0x0124 [0x24] CREATE_DIALOG(message_id=7725*, default_option=1*, option_flags=0*)
     → "Tell him about what happened? [Yes./No.]"
  10: 0x012B [0x25] WAIT_DIALOG_SELECT()
  11: 0x012C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x013B
- 12: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7724*)
+ 12: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7726*)
     → "No, wait... Maybe it's better that I don't know. I'll just pray for Lady-wady Verena's recovery, and ask her myself."
  13: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0138 [0x01] GOTO 0x014A
  15: 0x013B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x014A
- 16: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7725*)
+ 16: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7727*)
     → "You mean, it was that bad...? Okay, just forget that I asked."
  17: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0147 [0x01] GOTO 0x014A
@@ -488,7 +488,7 @@ SUBROUTINE_014A:
   1: 0x0151 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0152 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0153 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=7726*)
+  4: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=7728*)
     → "Lady-wady Verena's bak in tip-top shape? That's great! Maybe I should go in and see how she's doing... But what if she's forgotten who I was!?"
   5: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0166 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -522,7 +522,7 @@ SUBROUTINE_014A:
   1: 0x0175 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0176 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0177 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=7727*)
+  4: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
     → "The boss told me to get his equipment ready-steady. But, when I asked him where he was going, he told me to mind my own busy-business!"
   5: 0x0189 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x018A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -556,10 +556,10 @@ SUBROUTINE_014A:
   1: 0x0199 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x019A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x019B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7728*)
+  4: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
     → "This is great! This is stupendous! I have a feeling that everything will finally-winally go back to being the way it was!"
   5: 0x01AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
+  6: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
     → "But I'm still kinda worried about Verena... She's growing up so fast!"
   7: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01B2 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -684,13 +684,13 @@ SUBROUTINE_014A:
   9: 0x021A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  10: 0x021B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
  11: 0x022A [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0236
- 12: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7711*)
+ 12: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7713*)
     → "Wait, so all you got from Aldo was $6? Kinda stingy-winjy of him, don't you think?"
  13: 0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7712*)
+ 14: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7714*)
     → "There's a place in Beadeaux where you need $6 and $6 just to get in. If you want, we can try to hook you up."
  15: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7713*)
+ 16: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7715*)
     → "Tell you what. I'll trade you $6 for $5, and I'll let you have $6 if you find me $7."
  17: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x023E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -726,13 +726,13 @@ SUBROUTINE_014A:
   2: 0x024E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x024F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0250 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
+  5: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=7710*)
     → "Our boss looks all hairy-scary, but he caves in to his sister Verena all the time."
   6: 0x0262 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
+  7: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=7711*)
     → "Verena's a really nice girl. We all think she's super-duper swell."
   8: 0x0266 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=7710*)
+  9: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=7712*)
     → "But don't you lay a single-wingle finger on her. People who do... Well, they have a tendency to be found dead, floating off the pier. So please, keep that in mind."
  10: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x026B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -769,7 +769,7 @@ SUBROUTINE_014A:
   3: 0x027D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x027E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x027F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=7714*)
+  6: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=7716*)
     → "Okey-dokey, here you go."
   7: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0292 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -808,7 +808,7 @@ SUBROUTINE_014A:
   3: 0x02B5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x02B6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x02B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x02C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7716*)
+  6: 0x02C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7718*)
     → "Okey-dokey, here you go."
   7: 0x02C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -915,10 +915,10 @@ SUBROUTINE_014A:
   1: 0x031A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x031B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x031C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=9517*)
+  4: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=9519*)
     → "What's going on? The boss is walking around like he's seen the Gates of Paradise, or something."
   5: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=9518*)
+  6: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=9520*)
     → "He always gets like that when you're around. I don't get it, you don't look that special to me. It's starting to give me the heebie-jeebies..."
   7: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0333 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

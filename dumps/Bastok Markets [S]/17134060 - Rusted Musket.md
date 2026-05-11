@@ -23,13 +23,13 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0045      |          69 |
-|       2 | 0x303E      |       12350 |
-|       3 | 0x303F      |       12351 |
+|       2 | 0x3040      |       12352 |
+|       3 | 0x3041      |       12353 |
 
 ## String References
 
-- **12350**: At the battle of Vunkerl Inlet, the Republican Legion's Third Division encountered a gigas raiding party approaching by sea.
-- **12351**: The fiends eventually made landfall, but their advance was stopped cold by the brilliant tactics of Legatus Invincible Shield. No doubt his military genius will become the stuff of legend.
+- **12352**: At the battle of Vunkerl Inlet, the Republican Legion's Third Division encountered a gigas raiding party approaching by sea.
+- **12353**: The fiends eventually made landfall, but their advance was stopped cold by the brilliant tactics of Legatus Invincible Shield. No doubt his military genius will become the stuff of legend.
 
 ## Events
 
@@ -79,10 +79,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12350*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12352*)
     → "At the battle of Vunkerl Inlet, the Republican Legion's Third Division encountered a gigas raiding party approaching by sea."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12351*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12353*)
     → "The fiends eventually made landfall, but their advance was stopped cold by the brilliant tactics of Legatus Invincible Shield. No doubt his military genius will become the stuff of legend."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x21] END_EVENT

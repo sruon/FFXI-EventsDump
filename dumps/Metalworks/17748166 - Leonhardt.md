@@ -26,15 +26,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2A18      |       10776 |
-|       2 | 0x2A08      |       10760 |
-|       3 | 0x2A17      |       10775 |
+|       1 | 0x2A1A      |       10778 |
+|       2 | 0x2A0A      |       10762 |
+|       3 | 0x2A19      |       10777 |
 
 ## String References
 
-- **10760**: I never knew Miss Aileen had such a sad story behind that temper...
-- **10775**: Oh, I've gone and cried into my rolanberry pies--they'll taste sour now. Miss Aileen will be so angry...
-- **10776**: Hello, I'm the new apprentice cook, Leonhardt. I look forward to meeting all your dining needs.
+- **10762**: I never knew Miss Aileen had such a sad story behind that temper...
+- **10777**: Oh, I've gone and cried into my rolanberry pies--they'll taste sour now. Miss Aileen will be so angry...
+- **10778**: Hello, I'm the new apprentice cook, Leonhardt. I look forward to meeting all your dining needs.
 
 ## Events
 
@@ -81,7 +81,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=10778*)
     → "Hello, I'm the new apprentice cook, Leonhardt. I look forward to meeting all your dining needs."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x21] END_EVENT
@@ -153,7 +153,7 @@
 ```
   0: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0016 [0x1C] WAIT(30* ticks)
-  2: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10760*)
+  2: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10762*)
     → "I never knew Miss Aileen had such a sad story behind that temper..."
   3: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001D [0x21] END_EVENT
@@ -203,7 +203,7 @@
 ```
   0: 0x0020 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0025 [0x1C] WAIT(30* ticks)
-  2: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
+  2: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
     → "Oh, I've gone and cried into my rolanberry pies--they'll taste sour now. Miss Aileen will be so angry..."
   3: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x002C [0x21] END_EVENT

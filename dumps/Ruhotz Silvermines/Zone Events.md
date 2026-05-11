@@ -76,8 +76,8 @@
 |      48 | 0x000F      |          15 |
 |      49 | 0x0078      |         120 |
 |      50 | 0x001E      |          30 |
-|      51 | 0x1D52      |        7506 |
-|      52 | 0x1D53      |        7507 |
+|      51 | 0x1D54      |        7508 |
+|      52 | 0x1D55      |        7509 |
 |      53 | 0x3D299     |      250521 |
 |      54 | 0x3A5C4     |      239044 |
 |      55 | 0x0015      |          21 |
@@ -99,7 +99,7 @@
 |      71 | 0x03A6      |         934 |
 |      72 | 0x00E3      |         227 |
 |      73 | 0x00C9      |         201 |
-|      74 | 0x1D54      |        7508 |
+|      74 | 0x1D56      |        7510 |
 |      75 | 0x00B4      |         180 |
 |      76 | 0x0028      |          40 |
 |      77 | 0x3B5EB     |      243179 |
@@ -351,7 +351,7 @@
  44: 0x01E1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s156" with entities [EventEntity, EventEntity], work=333*
  45: 0x01F0 [0x1C] WAIT(30* ticks)
  46: 0x01F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s157" with entities [EventEntity, EventEntity], work=[333*, 0*]
- 47: 0x0204 [0x2B] Volker (ID: 17158388/0x0105D0F4) [7506*]:
+ 47: 0x0204 [0x2B] Volker (ID: 17158388/0x0105D0F4) [7508*]:
     → "Ambassador Dieuler!"
  48: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x020C [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
@@ -360,7 +360,7 @@
  52: 0x0226 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s158" with entities [EventEntity, EventEntity], work=[333*, 0*]
  53: 0x0237 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=LocalPlayer, tag_num=0x04)
  54: 0x023E [0x4A] Volker (ID: 17158388/0x0105D0F4) looks at LocalPlayer
- 55: 0x0247 [0x2B] Volker (ID: 17158388/0x0105D0F4) [7507*]:
+ 55: 0x0247 [0x2B] Volker (ID: 17158388/0x0105D0F4) [7509*]:
     → "Where did you come from...?"
  56: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x024F [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17158390/0x0105D0F6)
@@ -439,7 +439,7 @@
 130: 0x04AF [0x6B] STOP_AND_IDLE: Unnamed NPC (ID: 17158393/0x0105D0F9) stops current action and resets to idle (animation="idl0")
 131: 0x04B8 [0x6B] STOP_AND_IDLE: Unnamed NPC (ID: 17158394/0x0105D0FA) stops current action and resets to idle (animation="idl0")
 132: 0x04C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kams" with entities [Volker (ID: 17158388/0x0105D0F4), Volker (ID: 17158388/0x0105D0F4)], work=201*
-133: 0x04D0 [0x2B] Volker (ID: 17158388/0x0105D0F4) [7508*]:
+133: 0x04D0 [0x2B] Volker (ID: 17158388/0x0105D0F4) [7510*]:
     → "Explanations will have to wait. To arms!"
 134: 0x04D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x04D8 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x05)

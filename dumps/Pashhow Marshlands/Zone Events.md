@@ -32,26 +32,26 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFFFFFF  |  4294967295 |
-|       1 | 0x1D80      |        7552 |
+|       1 | 0x1D82      |        7554 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D7E      |        7550 |
-|       4 | 0x1DAC      |        7596 |
+|       3 | 0x1D80      |        7552 |
+|       4 | 0x1DAE      |        7598 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x003F      |          63 |
 |       7 | 0x0020      |          32 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x1DA9      |        7593 |
-|      10 | 0x1DAA      |        7594 |
-|      11 | 0x1DAB      |        7595 |
+|       9 | 0x1DAB      |        7595 |
+|      10 | 0x1DAC      |        7596 |
+|      11 | 0x1DAD      |        7597 |
 |      12 | 0x0003      |           3 |
 |      13 | 0x1072      |        4210 |
 |      14 | 0x1074      |        4212 |
 |      15 | 0x14B8      |        5304 |
 |      16 | 0x14B9      |        5305 |
-|      17 | 0x1DAE      |        7598 |
+|      17 | 0x1DB0      |        7600 |
 |      18 | 0x40000000  |  1073741824 |
 |      19 | 0x001F      |          31 |
-|      20 | 0x1DAF      |        7599 |
+|      20 | 0x1DB1      |        7601 |
 |      21 | 0x03E8      |        1000 |
 |      22 | 0x0004      |           4 |
 |      23 | 0x0005      |           5 |
@@ -162,22 +162,22 @@
 |     128 | 0xFFF8ECB1  |  4294503601 |
 |     129 | 0x99625     |      628261 |
 |     130 | 0xFFF8EAD1  |  4294503121 |
-|     131 | 0x1ED7      |        7895 |
-|     132 | 0x1ED8      |        7896 |
+|     131 | 0x1ED9      |        7897 |
+|     132 | 0x1EDA      |        7898 |
 |     133 | 0x052B      |        1323 |
-|     134 | 0x1ED9      |        7897 |
-|     135 | 0x1EDA      |        7898 |
-|     136 | 0x1EDB      |        7899 |
-|     137 | 0x1EDC      |        7900 |
+|     134 | 0x1EDB      |        7899 |
+|     135 | 0x1EDC      |        7900 |
+|     136 | 0x1EDD      |        7901 |
+|     137 | 0x1EDE      |        7902 |
 |     138 | 0x0D63      |        3427 |
 |     139 | 0x0DAC      |        3500 |
 |     140 | 0x0E10      |        3600 |
-|     141 | 0x1EDD      |        7901 |
-|     142 | 0x1EDE      |        7902 |
-|     143 | 0x1EDF      |        7903 |
-|     144 | 0x1EE0      |        7904 |
-|     145 | 0x1EE1      |        7905 |
-|     146 | 0x1EE2      |        7906 |
+|     141 | 0x1EDF      |        7903 |
+|     142 | 0x1EE0      |        7904 |
+|     143 | 0x1EE1      |        7905 |
+|     144 | 0x1EE2      |        7906 |
+|     145 | 0x1EE3      |        7907 |
+|     146 | 0x1EE4      |        7908 |
 |     147 | 0x00C9      |         201 |
 |     148 | 0x73234     |      471604 |
 |     149 | 0x64F0F     |      413455 |
@@ -191,25 +191,25 @@
 |     157 | 0x5D7B8     |      382904 |
 |     158 | 0x61EF      |       25071 |
 |     159 | 0x029E      |         670 |
-|     160 | 0x21B7      |        8631 |
+|     160 | 0x21B9      |        8633 |
 |     161 | 0x0090      |         144 |
-|     162 | 0x21C3      |        8643 |
+|     162 | 0x21C5      |        8645 |
 |     163 | 0x0063      |          99 |
-|     164 | 0x21C4      |        8644 |
+|     164 | 0x21C6      |        8646 |
 
 ## String References
 
-- **7550**: Contributing a total of $7 [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %0!
-- **7552**: You scored $4 [Petra/Petras] ($5 [Ballista point/Ballista points]).
-- **7593**: You find the temporary item: $0!
-- **7594**: You find $0, but you cannot carry any more temporary items.
-- **7595**: You find $0, but you cannot carry more than one of that temporary item.
-- **7596**: You find a Petra! [Keep it./Throw it away.]
-- **7598**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
-- **7599**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
-- **8631**: There is treasure somewhere in the vicinity of this marker...
-- **8643**: Your chocobo seems especially sharp today!
-- **8644**: Your chocobo seems especially energetic today!
+- **7552**: Contributing a total of $7 [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %0!
+- **7554**: You scored $4 [Petra/Petras] ($5 [Ballista point/Ballista points]).
+- **7595**: You find the temporary item: $0!
+- **7596**: You find $0, but you cannot carry any more temporary items.
+- **7597**: You find $0, but you cannot carry more than one of that temporary item.
+- **7598**: You find a Petra! [Keep it./Throw it away.]
+- **7600**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
+- **7601**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
+- **8633**: There is treasure somewhere in the vicinity of this marker...
+- **8645**: Your chocobo seems especially sharp today!
+- **8646**: Your chocobo seems especially energetic today!
 
 ## Events
 
@@ -262,11 +262,11 @@
   3: 0x0005 [0x47] UPDATE_PLAYER_POS(Work_Zone[2], Work_Zone[3], Work_Zone[4], yaw=Work_Zone[5])
   4: 0x000F [0x47] WAIT_PLAYER_POS_UPDATE
   5: 0x0011 [0x02] IF !(Work_Zone[6] == 4294967295*) GOTO 0x0029
-  6: 0x0019 [0x48] [System] [7552*]:
+  6: 0x0019 [0x48] [System] [7554*]:
     → "You scored $4 [Petra/Petras] ($5 [Ballista point/Ballista points])."
   7: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001D [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0029
-  9: 0x0025 [0x48] [System] [7550*]:
+  9: 0x0025 [0x48] [System] [7552*]:
     → "Contributing a total of $7 [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %0!"
  10: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0029 [0x21] END_EVENT
@@ -295,7 +295,7 @@
 
 ```
   0: 0x002B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x002D [0x24] CREATE_DIALOG(message_id=7596*, default_option=1*, option_flags=0*)
+  1: 0x002D [0x24] CREATE_DIALOG(message_id=7598*, default_option=1*, option_flags=0*)
     → "You find a Petra! [Keep it./Throw it away.]"
   2: 0x0034 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0035 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0046
@@ -622,19 +622,19 @@ SUBROUTINE_0090:
  18: 0x00A3 [0x06] ExtData[1]->WorkLocal[16] = 0
  19: 0x00A6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
  20: 0x00AB [0x02] IF !(ExtData[1]->WorkLocal[17] == 0*) GOTO 0x00BF
- 21: 0x00B3 [0x48] [System] [7593*]:
+ 21: 0x00B3 [0x48] [System] [7595*]:
     → "You find the temporary item: $0!"
  22: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00B7 [0x03] ExtData[1]->WorkLocal[16] = 2*
  24: 0x00BC [0x01] GOTO 0x00E7
  25: 0x00BF [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x00D3
- 26: 0x00C7 [0x48] [System] [7594*]:
+ 26: 0x00C7 [0x48] [System] [7596*]:
     → "You find $0, but you cannot carry any more temporary items."
  27: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00CB [0x03] ExtData[1]->WorkLocal[16] = 1*
  29: 0x00D0 [0x01] GOTO 0x00E7
  30: 0x00D3 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x00E7
- 31: 0x00DB [0x48] [System] [7595*]:
+ 31: 0x00DB [0x48] [System] [7597*]:
     → "You find $0, but you cannot carry more than one of that temporary item."
  32: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00DF [0x03] ExtData[1]->WorkLocal[16] = 3*
@@ -660,7 +660,7 @@ SUBROUTINE_00E7:
 SUBROUTINE_0128:
  50: 0x0128 [0x02] IF !(ExtData[1]->WorkLocal[19] == 1*) GOTO 0x0137
  51: 0x0130 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[16], bit_index_work_offset=2*, condition_work_offset=1*)
- 52: 0x0137 [0x24] CREATE_DIALOG(message_id=7598*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+ 52: 0x0137 [0x24] CREATE_DIALOG(message_id=7600*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]"
  53: 0x013E [0x25] WAIT_DIALOG_SELECT()
  54: 0x013F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014F
@@ -720,7 +720,7 @@ SUBROUTINE_01CB:
 106: 0x01FC [0x01] GOTO 0x01CB
 107: 0x01FF [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[18]
 108: 0x0204 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[15], bit_index_work_offset=31*, condition_work_offset=1*)
-109: 0x020B [0x24] CREATE_DIALOG(message_id=7599*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
+109: 0x020B [0x24] CREATE_DIALOG(message_id=7601*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
     → "Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]"
 110: 0x0212 [0x25] WAIT_DIALOG_SELECT()
 111: 0x0213 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x0221
@@ -1596,11 +1596,11 @@ SUBROUTINE_1121:
  11: 0x11C3 [0x1F] MOVE_ENTITY: EventEntity moves to X=628.261*, Z=-464.175*, Y=24.999*
  12: 0x11CB [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  13: 0x11CD [0x4A] Naji (ID: 17224298/0x0106D26A) looks at LocalPlayer
- 14: 0x11D6 [0x2B] Naji (ID: 17224298/0x0106D26A) [7895*]:
+ 14: 0x11D6 [0x2B] Naji (ID: 17224298/0x0106D26A) [7897*]:
     → "So, how's it going? Still haven't got your twenty, huh."
  15: 0x11DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x11DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17224298/0x0106D26A), Naji (ID: 17224298/0x0106D26A)], work=9*
- 17: 0x11ED [0x2B] Naji (ID: 17224298/0x0106D26A) [7896*]:
+ 17: 0x11ED [0x2B] Naji (ID: 17224298/0x0106D26A) [7898*]:
     → "I haven't got that many either. Let's go back in there! I can't lose to Ayame!"
  18: 0x11F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x11F5 [0x6B] STOP_AND_IDLE: Naji (ID: 17224298/0x0106D26A) stops current action and resets to idle (animation="idl0")
@@ -1691,7 +1691,7 @@ SUBROUTINE_1121:
  15: 0x12C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  16: 0x12C6 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ayame (ID: 17224299/0x0106D26B) Render.Flags0 and Render.Flags3 conditions are met
  17: 0x12CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ayame (ID: 17224299/0x0106D26B), Ayame (ID: 17224299/0x0106D26B)], work=19*
- 18: 0x12DA [0x2B] Ayame (ID: 17224299/0x0106D26B) [7897*]:
+ 18: 0x12DA [0x2B] Ayame (ID: 17224299/0x0106D26B) [7899*]:
     → "Good. You have all done well. We seem to be only missing Naji..."
  19: 0x12E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x12E2 [0x7B] Ayame (ID: 17224299/0x0106D26B) stops talking
@@ -1702,16 +1702,16 @@ SUBROUTINE_1121:
  25: 0x1317 [0x79] LocalPlayer looks at Ayame (ID: 17224299/0x0106D26B) (Basic look)
  26: 0x1321 [0x79] Hani (ID: 17224300/0x0106D26C) looks at Ayame (ID: 17224299/0x0106D26B) (Basic look)
  27: 0x132B [0x79] Dalzakk (ID: 17224301/0x0106D26D) looks at Ayame (ID: 17224299/0x0106D26B) (Basic look)
- 28: 0x1335 [0x2B] Ayame (ID: 17224299/0x0106D26B) [7898*]:
+ 28: 0x1335 [0x2B] Ayame (ID: 17224299/0x0106D26B) [7900*]:
     → "Damn him, why is he always like this!?"
  29: 0x133C [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x133D [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224298/0x0106D26A), tag_num=0x04)
  31: 0x1344 [0x1C] WAIT(240* ticks)
- 32: 0x1347 [0x2B] Naji (ID: 17224298/0x0106D26A) [7899*]:
+ 32: 0x1347 [0x2B] Naji (ID: 17224298/0x0106D26A) [7901*]:
     → "Hey, guys! Wait till you hear what I did!"
  33: 0x134E [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x134F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ayame (ID: 17224299/0x0106D26B), Ayame (ID: 17224299/0x0106D26B)], work=19*
- 35: 0x135E [0x2B] Ayame (ID: 17224299/0x0106D26B) [7900*]:
+ 35: 0x135E [0x2B] Ayame (ID: 17224299/0x0106D26B) [7902*]:
     → "You are late! You almost compromised our retreat! Everyone was worried you might be injured!"
  36: 0x1365 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x1366 [0x6B] STOP_AND_IDLE: Ayame (ID: 17224299/0x0106D26B) stops current action and resets to idle (animation="idl0")
@@ -1720,18 +1720,18 @@ SUBROUTINE_1121:
  40: 0x137D [0x4B] UPDATE_ENTITY_YAW(entity=Dalzakk (ID: 17224301/0x0106D26D), yaw=19.8°*)
  41: 0x1384 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Naji (ID: 17224298/0x0106D26A))
  42: 0x138A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17224298/0x0106D26A), Naji (ID: 17224298/0x0106D26A)], work=9*
- 43: 0x1399 [0x2B] Naji (ID: 17224298/0x0106D26A) [7901*]:
+ 43: 0x1399 [0x2B] Naji (ID: 17224298/0x0106D26A) [7903*]:
     → "I'm sorry, it's been a while since I got to bash on real enemies, so I couldn't just leave without getting some extra--"
  44: 0x13A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x13A1 [0x6B] STOP_AND_IDLE: Naji (ID: 17224298/0x0106D26A) stops current action and resets to idle (animation="idl0")
  46: 0x13AA [0x27] REQ_SET(priority=0x0A, entity_id=Ayame (ID: 17224299/0x0106D26B), tag_num=0x03)
  47: 0x13B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=[9*, 0*]
- 48: 0x13C2 [0x2B] Ayame (ID: 17224299/0x0106D26B) [7902*]:
+ 48: 0x13C2 [0x2B] Ayame (ID: 17224299/0x0106D26B) [7904*]:
     → "This mission's over! You may each go back to Bastok at your own leisure. I will report our success to the captain. Dismissed."
  49: 0x13C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x13CA [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224298/0x0106D26A), tag_num=0x05)
  51: 0x13D1 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ayame (ID: 17224299/0x0106D26B))
- 52: 0x13D7 [0x2B] Naji (ID: 17224298/0x0106D26A) [7903*]:
+ 52: 0x13D7 [0x2B] Naji (ID: 17224298/0x0106D26A) [7905*]:
     → "W-wait, you're not angry at me, are you?"
  53: 0x13DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x13DF [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224298/0x0106D26A), tag_num=0x06)
@@ -1739,15 +1739,15 @@ SUBROUTINE_1121:
  56: 0x13F7 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Naji (ID: 17224298/0x0106D26A))
  57: 0x13FD [0x1C] WAIT(60* ticks)
  58: 0x1400 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hani (ID: 17224300/0x0106D26C), Hani (ID: 17224300/0x0106D26C)], work=9*
- 59: 0x140F [0x2B] Hani (ID: 17224300/0x0106D26C) [7904*]:
+ 59: 0x140F [0x2B] Hani (ID: 17224300/0x0106D26C) [7906*]:
     → "It may not seem so, but those two truly are great warriors."
  60: 0x1416 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x1417 [0x2B] Hani (ID: 17224300/0x0106D26C) [7905*]:
+ 61: 0x1417 [0x2B] Hani (ID: 17224300/0x0106D26C) [7907*]:
     → "They are both the youngest people to become Mythril Musketeers ever. It almost seemed like this mission was a tedious chore to them."
  62: 0x141E [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x141F [0x6B] STOP_AND_IDLE: Hani (ID: 17224300/0x0106D26C) stops current action and resets to idle (animation="idl0")
  64: 0x1428 [0x27] REQ_SET(priority=0x0A, entity_id=Dalzakk (ID: 17224301/0x0106D26D), tag_num=0x04)
- 65: 0x142F [0x2B] Dalzakk (ID: 17224301/0x0106D26D) [7906*]:
+ 65: 0x142F [0x2B] Dalzakk (ID: 17224301/0x0106D26D) [7908*]:
     → "It seemed to me that this mission's objective was to test us adventurers, in order to select the best of us for a greater task..."
  66: 0x1436 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x1437 [0x27] REQ_SET(priority=0x0A, entity_id=Hani (ID: 17224300/0x0106D26C), tag_num=0x02)
@@ -1905,17 +1905,17 @@ SUBROUTINE_1121:
      0x14E3 [0x00] END_REQSTACK()
      0x14E4 [0x00] END_REQSTACK()
      0x14E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
-     0x14F6 [0x48] [System] [8631*]:
+     0x14F6 [0x48] [System] [8633*]:
     → "There is treasure somewhere in the vicinity of this marker..."
      0x14F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14FA [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x1517
      0x1502 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak1" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x1513 [0x48] [System] [8643*]:
+     0x1513 [0x48] [System] [8645*]:
     → "Your chocobo seems especially sharp today!"
      0x1516 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1517 [0x02] IF !(Work_Zone[7] == 99*) GOTO 0x1534
      0x151F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x1530 [0x48] [System] [8644*]:
+     0x1530 [0x48] [System] [8646*]:
     → "Your chocobo seems especially energetic today!"
      0x1533 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1534 [0x1C] WAIT(1* ticks)

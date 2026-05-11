@@ -41,128 +41,128 @@
 |       6 | 0x007B      |         123 |
 |       7 | 0x0064      |         100 |
 |       8 | 0x008B      |         139 |
-|       9 | 0x1E7C      |        7804 |
-|      10 | 0x1E7D      |        7805 |
-|      11 | 0x1E7E      |        7806 |
+|       9 | 0x1E7E      |        7806 |
+|      10 | 0x1E7F      |        7807 |
+|      11 | 0x1E80      |        7808 |
 |      12 | 0x001E      |          30 |
-|      13 | 0x1E7F      |        7807 |
+|      13 | 0x1E81      |        7809 |
 |      14 | 0x07D0      |        2000 |
 |      15 | 0x0032      |          50 |
-|      16 | 0x1E82      |        7810 |
-|      17 | 0x1E89      |        7817 |
+|      16 | 0x1E84      |        7812 |
+|      17 | 0x1E8B      |        7819 |
 |      18 | 0x03E8      |        1000 |
 |      19 | 0x012C      |         300 |
 |      20 | 0x00A1      |         161 |
 |      21 | 0x007F      |         127 |
-|      22 | 0x1E9A      |        7834 |
-|      23 | 0x1E9C      |        7836 |
-|      24 | 0x1E9F      |        7839 |
-|      25 | 0x1EA0      |        7840 |
+|      22 | 0x1E9C      |        7836 |
+|      23 | 0x1E9E      |        7838 |
+|      24 | 0x1EA1      |        7841 |
+|      25 | 0x1EA2      |        7842 |
 |      26 | 0x0C03      |        3075 |
-|      27 | 0x1EA1      |        7841 |
+|      27 | 0x1EA3      |        7843 |
 |      28 | 0x000F      |          15 |
-|      29 | 0x1EA5      |        7845 |
+|      29 | 0x1EA7      |        7847 |
 |      30 | 0x085E      |        2142 |
-|      31 | 0x1EA9      |        7849 |
-|      32 | 0x1EAA      |        7850 |
-|      33 | 0x1EAC      |        7852 |
+|      31 | 0x1EAB      |        7851 |
+|      32 | 0x1EAC      |        7852 |
+|      33 | 0x1EAE      |        7854 |
 |      34 | 0x000D      |          13 |
 |      35 | 0x0078      |         120 |
-|      36 | 0x1EB1      |        7857 |
-|      37 | 0x1EB7      |        7863 |
+|      36 | 0x1EB3      |        7859 |
+|      37 | 0x1EB9      |        7865 |
 |      38 | 0x0C29      |        3113 |
-|      39 | 0x1EC7      |        7879 |
+|      39 | 0x1EC9      |        7881 |
 |      40 | 0x0097      |         151 |
 |      41 | 0x0001      |           1 |
 |      42 | 0x00C9      |         201 |
 |      43 | 0x0014      |          20 |
-|      44 | 0x1E5D      |        7773 |
-|      45 | 0x1E5F      |        7775 |
-|      46 | 0x1E6B      |        7787 |
-|      47 | 0x1E6C      |        7788 |
-|      48 | 0x1E6F      |        7791 |
-|      49 | 0x1E6E      |        7790 |
+|      44 | 0x1E5F      |        7775 |
+|      45 | 0x1E61      |        7777 |
+|      46 | 0x1E6D      |        7789 |
+|      47 | 0x1E6E      |        7790 |
+|      48 | 0x1E71      |        7793 |
+|      49 | 0x1E70      |        7792 |
 |      50 | 0x061F      |        1567 |
 |      51 | 0x0400      |        1024 |
-|      52 | 0x1E65      |        7781 |
-|      53 | 0x1E66      |        7782 |
-|      54 | 0x1E67      |        7783 |
-|      55 | 0x1E68      |        7784 |
+|      52 | 0x1E67      |        7783 |
+|      53 | 0x1E68      |        7784 |
+|      54 | 0x1E69      |        7785 |
+|      55 | 0x1E6A      |        7786 |
 |      56 | 0x0008      |           8 |
-|      57 | 0x1E76      |        7798 |
+|      57 | 0x1E78      |        7800 |
 |      58 | 0x0003      |           3 |
-|      59 | 0x1E73      |        7795 |
+|      59 | 0x1E75      |        7797 |
 |      60 | 0x000A      |          10 |
 |      61 | 0x0096      |         150 |
 |      62 | 0x0193      |         403 |
-|      63 | 0x1F3C      |        7996 |
-|      64 | 0x1F40      |        8000 |
+|      63 | 0x1F3E      |        7998 |
+|      64 | 0x1F42      |        8002 |
 |      65 | 0x002D      |          45 |
-|      66 | 0x2205      |        8709 |
-|      67 | 0x2207      |        8711 |
+|      66 | 0x2207      |        8711 |
+|      67 | 0x2209      |        8713 |
 |      68 | 0x00D4      |         212 |
-|      69 | 0x21DB      |        8667 |
-|      70 | 0x21DD      |        8669 |
-|      71 | 0x21DF      |        8671 |
-|      72 | 0x21E1      |        8673 |
+|      69 | 0x21DD      |        8669 |
+|      70 | 0x21DF      |        8671 |
+|      71 | 0x21E1      |        8673 |
+|      72 | 0x21E3      |        8675 |
 |      73 | 0x0005      |           5 |
 |      74 | 0x0006      |           6 |
-|      75 | 0x21E3      |        8675 |
-|      76 | 0x21E5      |        8677 |
-|      77 | 0x21E7      |        8679 |
-|      78 | 0x21E9      |        8681 |
+|      75 | 0x21E5      |        8677 |
+|      76 | 0x21E7      |        8679 |
+|      77 | 0x21E9      |        8681 |
+|      78 | 0x21EB      |        8683 |
 |      79 | 0x0099      |         153 |
-|      80 | 0x21EA      |        8682 |
-|      81 | 0x21EB      |        8683 |
-|      82 | 0x21EC      |        8684 |
-|      83 | 0x21ED      |        8685 |
+|      80 | 0x21EC      |        8684 |
+|      81 | 0x21ED      |        8685 |
+|      82 | 0x21EE      |        8686 |
+|      83 | 0x21EF      |        8687 |
 |      84 | 0x04A7      |        1191 |
-|      85 | 0x21EF      |        8687 |
-|      86 | 0x21F1      |        8689 |
-|      87 | 0x21F3      |        8691 |
-|      88 | 0x21F2      |        8690 |
+|      85 | 0x21F1      |        8689 |
+|      86 | 0x21F3      |        8691 |
+|      87 | 0x21F5      |        8693 |
+|      88 | 0x21F4      |        8692 |
 |      89 | 0x00B4      |         180 |
-|      90 | 0x21F5      |        8693 |
-|      91 | 0x21F6      |        8694 |
-|      92 | 0x21FA      |        8698 |
+|      90 | 0x21F7      |        8695 |
+|      91 | 0x21F8      |        8696 |
+|      92 | 0x21FC      |        8700 |
 |      93 | 0x0002      |           2 |
-|      94 | 0x21FF      |        8703 |
+|      94 | 0x2201      |        8705 |
 |      95 | 0x01F4      |         500 |
-|      96 | 0x2202      |        8706 |
+|      96 | 0x2204      |        8708 |
 |      97 | 0x00F0      |         240 |
 |      98 | 0x009F      |         159 |
 |      99 | 0x00F7      |         247 |
-|     100 | 0x2256      |        8790 |
-|     101 | 0x225C      |        8796 |
-|     102 | 0x225D      |        8797 |
-|     103 | 0x2262      |        8802 |
-|     104 | 0x2264      |        8804 |
+|     100 | 0x2258      |        8792 |
+|     101 | 0x225E      |        8798 |
+|     102 | 0x225F      |        8799 |
+|     103 | 0x2264      |        8804 |
+|     104 | 0x2266      |        8806 |
 |     105 | 0x00A3      |         163 |
-|     106 | 0x2268      |        8808 |
-|     107 | 0x226E      |        8814 |
-|     108 | 0x2270      |        8816 |
-|     109 | 0x2269      |        8809 |
-|     110 | 0x2275      |        8821 |
+|     106 | 0x226A      |        8810 |
+|     107 | 0x2270      |        8816 |
+|     108 | 0x2272      |        8818 |
+|     109 | 0x226B      |        8811 |
+|     110 | 0x2277      |        8823 |
 |     111 | 0x0BC1      |        3009 |
-|     112 | 0x22A1      |        8865 |
+|     112 | 0x22A3      |        8867 |
 |     113 | 0x00FA      |         250 |
-|     114 | 0x22AF      |        8879 |
-|     115 | 0x22B0      |        8880 |
-|     116 | 0x22FA      |        8954 |
-|     117 | 0x22FB      |        8955 |
+|     114 | 0x22B1      |        8881 |
+|     115 | 0x22B2      |        8882 |
+|     116 | 0x22FC      |        8956 |
+|     117 | 0x22FD      |        8957 |
 
 ## String References
 
-- **8682**: Seek and gather...
-- **8683**: ...the seven colors...
-- **8684**: ...that cover the sky...
-- **8685**: ...and embrace the earth...
-- **8698**: Anything in your grubby hands? [Maybe.../Just dirt.]
-- **8709**: The voice from the $1 rings in your head.
-- **8711**: ...Seek and gather...the seven colors...that cover the sky...and embrace the earth...
-- **8797**: You give the $3 to Joker...
-- **8804**: Accept the offer? [When you put it that way.../The hammer or the axe?]
-- **8865**: A blue energy wells up within you...!
+- **8684**: Seek and gather...
+- **8685**: ...the seven colors...
+- **8686**: ...that cover the sky...
+- **8687**: ...and embrace the earth...
+- **8700**: Anything in your grubby hands? [Maybe.../Just dirt.]
+- **8711**: The voice from the $1 rings in your head.
+- **8713**: ...Seek and gather...the seven colors...that cover the sky...and embrace the earth...
+- **8799**: You give the $3 to Joker...
+- **8806**: Accept the offer? [When you put it that way.../The hammer or the axe?]
+- **8867**: A blue energy wells up within you...!
 
 ## Events
 
@@ -520,7 +520,7 @@ SUBROUTINE_003C:
  30: 0x00A4 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0102
  31: 0x00AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
  32: 0x00BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[200*, 0*]
- 33: 0x00CE [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7804*]:
+ 33: 0x00CE [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7806*]:
     → "Ahoy! Ahoy!"
  34: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00D6 [0x4A] LocalPlayer looks at Kohlo-Lakolo (ID: 17756178/0x010EF012)
@@ -546,7 +546,7 @@ SUBROUTINE_0124:
  53: 0x0186 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pyo Nzon (ID: 17756183/0x010EF017))
  54: 0x018C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pichichi (ID: 17756181/0x010EF015))
  55: 0x0192 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x01BF
- 56: 0x019A [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7805*]:
+ 56: 0x019A [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7807*]:
     → "Good! Now that we're all here, it's time for the final showdown with that Cat Burglar!"
  57: 0x01A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x01A2 [0x4A] Kohlo-Lakolo (ID: 17756178/0x010EF012) looks at Pichichi (ID: 17756181/0x010EF015)
@@ -555,7 +555,7 @@ SUBROUTINE_0124:
  61: 0x01BF [0x4A] Kohlo-Lakolo (ID: 17756178/0x010EF012) looks at Pichichi (ID: 17756181/0x010EF015)
 
 SUBROUTINE_01C8:
- 62: 0x01C8 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7806*]:
+ 62: 0x01C8 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7808*]:
     → "Star Onion Brigade, are you ready already? Then CHAAAA`RRGE!"
  63: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x01D0 [0x27] REQ_SET(priority=0x08, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014), tag_num=0x05)
@@ -595,7 +595,7 @@ SUBROUTINE_0262:
  96: 0x0290 [0x27] REQ_SET(priority=0x0B, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014), tag_num=0x16)
  97: 0x0297 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
  98: 0x02A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[200*, 0*]
- 99: 0x02B9 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7807*]:
+ 99: 0x02B9 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7809*]:
     → "Ta-da`! The Star Onion Brigade is on the scene!"
 100: 0x02C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x02C1 [0x4B] UPDATE_ENTITY_YAW(entity=Nanaa Mihgo (ID: 17756184/0x010EF018), yaw=11.0°*)
@@ -622,7 +622,7 @@ SUBROUTINE_0262:
 122: 0x0383 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
 123: 0x0389 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
 124: 0x039A [0x27] REQ_SET(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x1A)
-125: 0x03A1 [0x2B] Nanaa Mihgo (ID: 17756184/0x010EF018) [7810*]:
+125: 0x03A1 [0x2B] Nanaa Mihgo (ID: 17756184/0x010EF018) [7812*]:
     → "Not you brrrats again! Don't you have betterrr things to do all day than to rrrub my furrr the wrrrong way?"
 126: 0x03A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x03A9 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pichichi (ID: 17756181/0x010EF015))
@@ -647,7 +647,7 @@ SUBROUTINE_0262:
 146: 0x045D [0x27] REQ_SET(priority=0x0B, entity_id=Pyo Nzon (ID: 17756183/0x010EF017), tag_num=0x11)
 147: 0x0464 [0x27] REQ_SET(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x1B)
 148: 0x046B [0x27] REQ_SET(priority=0x0B, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x1D)
-149: 0x0472 [0x2B] Nanaa Mihgo (ID: 17756184/0x010EF018) [7817*]:
+149: 0x0472 [0x2B] Nanaa Mihgo (ID: 17756184/0x010EF018) [7819*]:
     → "Then allow me to fill you in. The ministerrr of the Orastery is trying to revive "summoning magic"--the verrry magic that the Star Sibyl has forrrbidden."
 150: 0x0479 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x047A [0x2A] GET_REQ_LEVEL(level=11, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018))
@@ -756,7 +756,7 @@ SUBROUTINE_0262:
 254: 0x07D7 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x27)
 255: 0x07DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
 256: 0x07EF [0x27] REQ_SET(priority=0x0B, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x1C)
-257: 0x07F6 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7834*]:
+257: 0x07F6 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7836*]:
     → "Th-there's got to be a perfectly reasonable explanation for this! L-let's check out where the s-sound came from...e-everyone!"
 258: 0x07FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x07FE [0x2A] GET_REQ_LEVEL(level=11, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012))
@@ -783,7 +783,7 @@ SUBROUTINE_0262:
 280: 0x08B7 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x2F)
 281: 0x08BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
 282: 0x08CF [0x27] REQ_SET(priority=0x0B, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x2E)
-283: 0x08D6 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7836*]:
+283: 0x08D6 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7838*]:
     → "The sound we heard was just the wind blowing in from there..."
 284: 0x08DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x08DE [0x2A] GET_REQ_LEVEL(level=11, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012))
@@ -795,14 +795,14 @@ SUBROUTINE_0262:
 291: 0x091B [0x4A] LocalPlayer looks at Papo-Hopo (ID: 17756179/0x010EF013)
 292: 0x0924 [0x4A] Kohlo-Lakolo (ID: 17756178/0x010EF012) looks at Papo-Hopo (ID: 17756179/0x010EF013)
 293: 0x092D [0x27] REQ_SET(priority=0x0B, entity_id=Papo-Hopo (ID: 17756179/0x010EF013), tag_num=0x11)
-294: 0x0934 [0x2B] Papo-Hopo (ID: 17756179/0x010EF013) [7839*]:
+294: 0x0934 [0x2B] Papo-Hopo (ID: 17756179/0x010EF013) [7841*]:
     → "So da ghosty's twue identity was just da wind!"
 295: 0x093B [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x093C [0x1C] WAIT(50* ticks)
 297: 0x093F [0x4A] Gomada-Vulmada (ID: 17756180/0x010EF014) looks at Papo-Hopo (ID: 17756179/0x010EF013)
 298: 0x0948 [0x4A] Pyo Nzon (ID: 17756183/0x010EF017) looks at Papo-Hopo (ID: 17756179/0x010EF013)
 299: 0x0951 [0x1C] WAIT(50* ticks)
-300: 0x0954 [0x2B] Papo-Hopo (ID: 17756179/0x010EF013) [7840*]:
+300: 0x0954 [0x2B] Papo-Hopo (ID: 17756179/0x010EF013) [7842*]:
     → "It's pwetty dark and hard to tell, but if dere are a lot of gaps in da walls, den dey might give us a clue to get out of here!"
 301: 0x095B [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x095C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Papo-Hopo (ID: 17756179/0x010EF013))
@@ -816,7 +816,7 @@ SUBROUTINE_0262:
 310: 0x09A5 [0x1C] WAIT(100* ticks)
 311: 0x09A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
 312: 0x09B9 [0x27] REQ_SET(priority=0x0B, entity_id=Papo-Hopo (ID: 17756179/0x010EF013), tag_num=0x12)
-313: 0x09C0 [0x2B] Papo-Hopo (ID: 17756179/0x010EF013) [7841*]:
+313: 0x09C0 [0x2B] Papo-Hopo (ID: 17756179/0x010EF013) [7843*]:
     → "Arrrrrgggghhhyaaaa!!!"
 314: 0x09C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x09C8 [0x1C] WAIT(50* ticks)
@@ -855,7 +855,7 @@ SUBROUTINE_0262:
 348: 0x0ADB [0x4A] LocalPlayer looks at Pichichi (ID: 17756181/0x010EF015)
 349: 0x0AE4 [0x27] REQ_SET(priority=0x0B, entity_id=Pichichi (ID: 17756181/0x010EF015), tag_num=0x15)
 350: 0x0AEB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x30)
-351: 0x0AF2 [0x2B] Pichichi (ID: 17756181/0x010EF015) [7845*]:
+351: 0x0AF2 [0x2B] Pichichi (ID: 17756181/0x010EF015) [7847*]:
     → "You mean ath in...a dead body!?"
 352: 0x0AF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x0AFA [0x4A] Kohlo-Lakolo (ID: 17756178/0x010EF012) looks at Pichichi (ID: 17756181/0x010EF015)
@@ -876,7 +876,7 @@ SUBROUTINE_0262:
 368: 0x0B64 [0x27] REQ_SET(priority=0x0B, entity_id=Pichichi (ID: 17756181/0x010EF015), tag_num=0x16)
 369: 0x0B6B [0x1C] WAIT(30* ticks)
 370: 0x0B6E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
-371: 0x0B7F [0x2B] Pichichi (ID: 17756181/0x010EF015) [7849*]:
+371: 0x0B7F [0x2B] Pichichi (ID: 17756181/0x010EF015) [7851*]:
     → "But a ghothty ith an undead body, not a dead body, right?"
 372: 0x0B86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x0B87 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pichichi (ID: 17756181/0x010EF015))
@@ -884,7 +884,7 @@ SUBROUTINE_0262:
 375: 0x0B92 [0x27] REQ_SET(priority=0x0B, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x2D)
 376: 0x0B99 [0x4A] Kohlo-Lakolo (ID: 17756178/0x010EF012) looks at Joker (ID: 17756185/0x010EF019)
 377: 0x0BA2 [0x4A] Pichichi (ID: 17756181/0x010EF015) looks at Joker (ID: 17756185/0x010EF019)
-378: 0x0BAB [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7850*]:
+378: 0x0BAB [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7852*]:
     → "Um... Either way, I don't think it's wise to find out!"
 379: 0x0BB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 380: 0x0BB3 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012))
@@ -896,7 +896,7 @@ SUBROUTINE_0262:
 386: 0x0BE1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Joker (ID: 17756185/0x010EF019), tag_num=0x05)
 387: 0x0BE8 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "won4" with entities [Pichichi (ID: 17756181/0x010EF015), Pichichi (ID: 17756181/0x010EF015)]
 388: 0x0BF5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pichichi (ID: 17756181/0x010EF015), tag_num=0x0D)
-389: 0x0BFC [0x2B] Pichichi (ID: 17756181/0x010EF015) [7852*]:
+389: 0x0BFC [0x2B] Pichichi (ID: 17756181/0x010EF015) [7854*]:
     → "Huh...?"
 390: 0x0C03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x0C04 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pichichi (ID: 17756181/0x010EF015), tag_num=0x0E)
@@ -932,7 +932,7 @@ SUBROUTINE_0262:
 421: 0x0D20 [0x1C] WAIT(100* ticks)
 422: 0x0D23 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
 423: 0x0D34 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pichichi (ID: 17756181/0x010EF015), tag_num=0x03)
-424: 0x0D3B [0x2B] Pichichi (ID: 17756181/0x010EF015) [7857*]:
+424: 0x0D3B [0x2B] Pichichi (ID: 17756181/0x010EF015) [7859*]:
     → "And you are...?"
 425: 0x0D42 [0x23] WAIT_FOR_DIALOG_INTERACTION
 426: 0x0D43 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pichichi (ID: 17756181/0x010EF015), tag_num=0x04)
@@ -958,7 +958,7 @@ SUBROUTINE_0262:
 446: 0x0DE1 [0x27] REQ_SET(priority=0x0D, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x35)
 447: 0x0DE8 [0x4C] EventEntity->StatusEvent = 8 // Open door
 448: 0x0DE9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[200*, 0*]
-449: 0x0DFA [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7863*]:
+449: 0x0DFA [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7865*]:
     → "Ye`ah! I'm glad to be out of there!"
 450: 0x0E01 [0x23] WAIT_FOR_DIALOG_INTERACTION
 451: 0x0E02 [0x1C] WAIT(60* ticks)
@@ -1042,7 +1042,7 @@ SUBROUTINE_0ED0:
 527: 0x108E [0x4A] Pichichi (ID: 17756181/0x010EF015) looks at Joker (ID: 17756185/0x010EF019)
 528: 0x1097 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pichichi (ID: 17756181/0x010EF015), tag_num=0x2A)
 529: 0x109E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17756185/0x010EF019), tag_num=0x1B)
-530: 0x10A5 [0x2B] Joker (ID: 17756185/0x010EF019) [7879*]:
+530: 0x10A5 [0x2B] Joker (ID: 17756185/0x010EF019) [7881*]:
     → "jOkEr$26iS nOt A gHoSt! JoKEr Is a$26CaRdIan!"
 531: 0x10AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 532: 0x10AD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
@@ -1310,7 +1310,7 @@ SUBROUTINE_11A2:
  30: 0x120F [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x126D
  31: 0x1217 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
  32: 0x1228 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 33: 0x1239 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7773*]:
+ 33: 0x1239 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7775*]:
     → "Ahoy! Ahoy!"
  34: 0x1240 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x1241 [0x4A] LocalPlayer looks at Kohlo-Lakolo (ID: 17756178/0x010EF012)
@@ -1343,23 +1343,23 @@ SUBROUTINE_128F:
  60: 0x1329 [0x4A] Kohlo-Lakolo (ID: 17756178/0x010EF012) looks at Pichichi (ID: 17756181/0x010EF015)
 
 SUBROUTINE_1332:
- 61: 0x1332 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7775*]:
+ 61: 0x1332 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7777*]:
     → "Star Onion Brigade, attentio`n! "Operation Onion" will now begin!"
  62: 0x1339 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x133A [0x27] REQ_SET(priority=0x08, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014), tag_num=0x05)
  64: 0x1341 [0x27] REQ_SET(priority=0x08, entity_id=Papo-Hopo (ID: 17756179/0x010EF013), tag_num=0x05)
  65: 0x1348 [0x27] REQ_SET(priority=0x08, entity_id=Yafa Yaa (ID: 17756182/0x010EF016), tag_num=0x03)
  66: 0x134F [0x27] REQ_SET(priority=0x08, entity_id=Pyo Nzon (ID: 17756183/0x010EF017), tag_num=0x05)
- 67: 0x1356 [0x2B] Papo-Hopo (ID: 17756179/0x010EF013) [7787*]:
+ 67: 0x1356 [0x2B] Papo-Hopo (ID: 17756179/0x010EF013) [7789*]:
     → "Yippee!"
  68: 0x135D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x135E [0x2B] Gomada-Vulmada (ID: 17756180/0x010EF014) [7788*]:
+ 69: 0x135E [0x2B] Gomada-Vulmada (ID: 17756180/0x010EF014) [7790*]:
     → "Hi-ho Silver!"
  70: 0x1365 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x1366 [0x2B] Yafa Yaa (ID: 17756182/0x010EF016) [7791*]:
+ 71: 0x1366 [0x2B] Yafa Yaa (ID: 17756182/0x010EF016) [7793*]:
     → "Meow!"
  72: 0x136D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x136E [0x2B] Pyo Nzon (ID: 17756183/0x010EF017) [7790*]:
+ 73: 0x136E [0x2B] Pyo Nzon (ID: 17756183/0x010EF017) [7792*]:
     → "Herrre we go again!"
  74: 0x1375 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x1376 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Gomada-Vulmada (ID: 17756180/0x010EF014))
@@ -1436,17 +1436,17 @@ SUBROUTINE_1332:
 146: 0x15DB [0x1C] WAIT(60* ticks)
 147: 0x15DE [0x27] REQ_SET(priority=0x0B, entity_id=Yafa Yaa (ID: 17756182/0x010EF016), tag_num=0x19)
 148: 0x15E5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s061" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=139*
-149: 0x15F4 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7781*]:
+149: 0x15F4 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7783*]:
     → "Wait till you see the whites of her eyes, then let her have it with our onion stinky-bombs!!!"
 150: 0x15FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x15FC [0x4A] Papo-Hopo (ID: 17756179/0x010EF013) looks at Kohlo-Lakolo (ID: 17756178/0x010EF012)
-152: 0x1605 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7782*]:
+152: 0x1605 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7784*]:
     → "Three!"
 153: 0x160C [0x23] WAIT_FOR_DIALOG_INTERACTION
-154: 0x160D [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7783*]:
+154: 0x160D [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7785*]:
     → "Two!"
 155: 0x1614 [0x23] WAIT_FOR_DIALOG_INTERACTION
-156: 0x1615 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7784*]:
+156: 0x1615 [0x2B] Kohlo-Lakolo (ID: 17756178/0x010EF012) [7786*]:
     → "One!"
 157: 0x161C [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x161D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x15)
@@ -1457,7 +1457,7 @@ SUBROUTINE_1332:
 163: 0x163D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x27)
 164: 0x1644 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Nanaa Mihgo (ID: 17756184/0x010EF018), Nanaa Mihgo (ID: 17756184/0x010EF018)], work=[8*, 0*]
 165: 0x1655 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s107" with entities [LocalPlayer, LocalPlayer], work=[139*, 0*]
-166: 0x1666 [0x2B] Nanaa Mihgo (ID: 17756184/0x010EF018) [7798*]:
+166: 0x1666 [0x2B] Nanaa Mihgo (ID: 17756184/0x010EF018) [7800*]:
     → "Grrrowl!!!"
 167: 0x166D [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x166E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x0D)
@@ -1587,7 +1587,7 @@ SUBROUTINE_1844:
 286: 0x1A19 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x16)
 287: 0x1A20 [0x4A] Nanaa Mihgo (ID: 17756184/0x010EF018) looks at Kohlo-Lakolo (ID: 17756178/0x010EF012)
 288: 0x1A29 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s105" with entities [PRODUCER (ID: 17756161/0x010EF001), PRODUCER (ID: 17756161/0x010EF001)], work=[139*, 0*]
-289: 0x1A3A [0x2B] Nanaa Mihgo (ID: 17756184/0x010EF018) [7795*]:
+289: 0x1A3A [0x2B] Nanaa Mihgo (ID: 17756184/0x010EF018) [7797*]:
     → "<cough> <cough> Grrr... Pe-ew! Wh-what hit me?"
 290: 0x1A41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x1A42 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x0D)
@@ -1771,7 +1771,7 @@ SUBROUTINE_1C66:
  26: 0x1D39 [0x4D] EventEntity->StatusEvent = 9 // Close door
  27: 0x1D3A [0x4A] Ajido-Marujido (ID: 17756177/0x010EF011) looks at LocalPlayer
  28: 0x1D43 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17756177/0x010EF011), tag_num=0x24)
- 29: 0x1D4A [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [7996*]:
+ 29: 0x1D4A [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [7998*]:
     → "!!!"
  30: 0x1D51 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x1D52 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
@@ -1790,7 +1790,7 @@ SUBROUTINE_1C66:
  44: 0x1DDD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  45: 0x1DEE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17756177/0x010EF011), tag_num=0x2A)
  46: 0x1DF5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17756177/0x010EF011), tag_num=0x16)
- 47: 0x1DFC [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8000*]:
+ 47: 0x1DFC [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8002*]:
     → "This is no Book of the Gods. It's just a work of the famous Karaha-Baruha..."
  48: 0x1E03 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x1E04 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
@@ -1849,10 +1849,10 @@ SUBROUTINE_1C66:
 #### Opcodes
 
 ```
-  0: 0x1F02 [0x48] [System] [8709*]:
+  0: 0x1F02 [0x48] [System] [8711*]:
     → "The voice from the $1 rings in your head."
   1: 0x1F05 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x1F06 [0x48] [System] [8711*]:
+  2: 0x1F06 [0x48] [System] [8713*]:
     → "...Seek and gather...the seven colors...that cover the sky...and embrace the earth..."
   3: 0x1F09 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x1F0A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2034,7 +2034,7 @@ SUBROUTINE_1C66:
  28: 0x1FD8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Joker (ID: 17756185/0x010EF019) Render.Flags0 and Render.Flags3 conditions are met
  29: 0x1FDD [0x27] REQ_SET(priority=0x0B, entity_id=Joker (ID: 17756185/0x010EF019), tag_num=0x20)
  30: 0x1FE4 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x1FF7
- 31: 0x1FEC [0x2B] Joker (ID: 17756185/0x010EF019) [8667*]:
+ 31: 0x1FEC [0x2B] Joker (ID: 17756185/0x010EF019) [8669*]:
     → "...<Player>..."
  32: 0x1FF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x1FF4 [0x01] GOTO 0x1FFE
@@ -2068,7 +2068,7 @@ SUBROUTINE_1FFE:
 SUBROUTINE_20AF:
  58: 0x20AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  59: 0x20C0 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x20D3
- 60: 0x20C8 [0x2B] Joker (ID: 17756185/0x010EF019) [8669*]:
+ 60: 0x20C8 [0x2B] Joker (ID: 17756185/0x010EF019) [8671*]:
     → "You are the star that shines in the center of the vortex of time."
  61: 0x20CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x20D0 [0x01] GOTO 0x20DA
@@ -2087,7 +2087,7 @@ SUBROUTINE_211D:
  71: 0x211D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  72: 0x212E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[212*, 0*]
  73: 0x213F [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x2152
- 74: 0x2147 [0x2B] Joker (ID: 17756185/0x010EF019) [8671*]:
+ 74: 0x2147 [0x2B] Joker (ID: 17756185/0x010EF019) [8673*]:
     → "I have been waiting here, ready to guide you. That $1 that you carry..."
  75: 0x214E [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x214F [0x01] GOTO 0x2159
@@ -2098,7 +2098,7 @@ SUBROUTINE_2159:
  79: 0x2168 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[212*, 0*]
  80: 0x2179 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Joker (ID: 17756185/0x010EF019), tag_num=0x08)
  81: 0x2180 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x2193
- 82: 0x2188 [0x2B] Joker (ID: 17756185/0x010EF019) [8673*]:
+ 82: 0x2188 [0x2B] Joker (ID: 17756185/0x010EF019) [8675*]:
     → "An incredible force remains sealed within that tiny gem."
  83: 0x218F [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x2190 [0x01] GOTO 0x219A
@@ -2124,7 +2124,7 @@ SUBROUTINE_219A:
 
 SUBROUTINE_2242:
 102: 0x2242 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x2255
-103: 0x224A [0x2B] Joker (ID: 17756185/0x010EF019) [8675*]:
+103: 0x224A [0x2B] Joker (ID: 17756185/0x010EF019) [8677*]:
     → "And that tiny gem holds the power to change your life from within."
 104: 0x2251 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x2252 [0x01] GOTO 0x225C
@@ -2152,7 +2152,7 @@ SUBROUTINE_22E7:
 123: 0x22F8 [0x1C] WAIT(5* ticks)
 124: 0x22FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 125: 0x230C [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x231F
-126: 0x2314 [0x2B] Joker (ID: 17756185/0x010EF019) [8677*]:
+126: 0x2314 [0x2B] Joker (ID: 17756185/0x010EF019) [8679*]:
     → "It is calling you."
 127: 0x231B [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x231C [0x01] GOTO 0x2326
@@ -2177,10 +2177,10 @@ SUBROUTINE_23A8:
 143: 0x23AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 144: 0x23BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17756176/0x010EF010), tag_num=0x06)
 145: 0x23C3 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x23DE
-146: 0x23CB [0x2B] Joker (ID: 17756185/0x010EF019) [8679*]:
+146: 0x23CB [0x2B] Joker (ID: 17756185/0x010EF019) [8681*]:
     → "Close your eyes...and open your heart..."
 147: 0x23D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-148: 0x23D3 [0x2B] Joker (ID: 17756185/0x010EF019) [8681*]:
+148: 0x23D3 [0x2B] Joker (ID: 17756185/0x010EF019) [8683*]:
     → "Do not fear the voices. Accept and become one with them."
 149: 0x23DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x23DB [0x01] GOTO 0x23EC
@@ -2207,19 +2207,19 @@ SUBROUTINE_23EC:
 SUBROUTINE_246B:
 168: 0x246B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blrf" with entities [LocalPlayer, LocalPlayer], work=[212*, 0*]
 169: 0x247C [0x1C] WAIT(300* ticks)
-170: 0x247F [0x48] [System] [8682*]:
+170: 0x247F [0x48] [System] [8684*]:
     → "Seek and gather..."
 171: 0x2482 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x2483 [0x1C] WAIT(100* ticks)
-173: 0x2486 [0x48] [System] [8683*]:
+173: 0x2486 [0x48] [System] [8685*]:
     → "...the seven colors..."
 174: 0x2489 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x248A [0x1C] WAIT(100* ticks)
-176: 0x248D [0x48] [System] [8684*]:
+176: 0x248D [0x48] [System] [8686*]:
     → "...that cover the sky..."
 177: 0x2490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x2491 [0x1C] WAIT(100* ticks)
-179: 0x2494 [0x48] [System] [8685*]:
+179: 0x2494 [0x48] [System] [8687*]:
     → "...and embrace the earth..."
 180: 0x2497 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x2498 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2232,7 +2232,7 @@ SUBROUTINE_246B:
 188: 0x24D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 189: 0x24E4 [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=6.5°*)
 190: 0x24EB [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x24FE
-191: 0x24F3 [0x2B] Joker (ID: 17756185/0x010EF019) [8687*]:
+191: 0x24F3 [0x2B] Joker (ID: 17756185/0x010EF019) [8689*]:
     → "Were you able to hear it? That voice believes you can fulfill its request."
 192: 0x24FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x24FB [0x01] GOTO 0x2505
@@ -2257,7 +2257,7 @@ SUBROUTINE_2505:
 
 SUBROUTINE_25A6:
 210: 0x25A6 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x25B9
-211: 0x25AE [0x2B] Joker (ID: 17756185/0x010EF019) [8689*]:
+211: 0x25AE [0x2B] Joker (ID: 17756185/0x010EF019) [8691*]:
     → "And when you do, you will see the true Vana'diel...and that is when you will realize that you are..."
 212: 0x25B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x25B6 [0x01] GOTO 0x25C0
@@ -2284,11 +2284,11 @@ SUBROUTINE_2637:
 230: 0x2649 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[212*, 0*]
 231: 0x265A [0x1C] WAIT(120* ticks)
 232: 0x265D [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x2670
-233: 0x2665 [0x2B] Joker (ID: 17756185/0x010EF019) [8691*]:
+233: 0x2665 [0x2B] Joker (ID: 17756185/0x010EF019) [8693*]:
     → "...the key..."
 234: 0x266C [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x266D [0x01] GOTO 0x2678
-236: 0x2670 [0x2B] Joker (ID: 17756185/0x010EF019) [8690*]:
+236: 0x2670 [0x2B] Joker (ID: 17756185/0x010EF019) [8692*]:
     → "...The Key..."
 237: 0x2677 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2484,11 +2484,11 @@ SUBROUTINE_2678:
  29: 0x279B [0x4D] EventEntity->StatusEvent = 9 // Close door
  30: 0x279C [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17756177/0x010EF011), tag_num=0x31)
  31: 0x27A3 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x27B6
- 32: 0x27AB [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8693*]:
+ 32: 0x27AB [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8695*]:
     → "What? Notaru you again!"
  33: 0x27B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x27B3 [0x01] GOTO 0x27BE
- 35: 0x27B6 [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8694*]:
+ 35: 0x27B6 [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8696*]:
     → "Huh? Who are you?"
  36: 0x27BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2539,7 +2539,7 @@ SUBROUTINE_28ED:
  76: 0x290F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17756177/0x010EF011), tag_num=0x17)
  77: 0x2916 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17756177/0x010EF011), tag_num=0x39)
  78: 0x291D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17756177/0x010EF011), tag_num=0x18)
- 79: 0x2924 [0x24] CREATE_DIALOG(message_id=8698*, default_option=0*, option_flags=0*)
+ 79: 0x2924 [0x24] CREATE_DIALOG(message_id=8700*, default_option=0*, option_flags=0*)
     → "Anything in your grubby hands? [Maybe.../Just dirt.]"
  80: 0x292B [0x25] WAIT_DIALOG_SELECT()
  81: 0x292C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2951
@@ -2590,7 +2590,7 @@ SUBROUTINE_2976:
 SUBROUTINE_2ABA:
 123: 0x2ABA [0x1C] WAIT(5* ticks)
 124: 0x2ABD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-125: 0x2ACE [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8703*]:
+125: 0x2ACE [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8705*]:
     → "Let down your guard and accept all things and everything around you. Come on, now!"
 126: 0x2AD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x2AD6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2644,19 +2644,19 @@ SUBROUTINE_2BC7:
 SUBROUTINE_2C5D:
 170: 0x2C5D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blrf" with entities [LocalPlayer, LocalPlayer], work=[212*, 0*]
 171: 0x2C6E [0x1C] WAIT(300* ticks)
-172: 0x2C71 [0x48] [System] [8682*]:
+172: 0x2C71 [0x48] [System] [8684*]:
     → "Seek and gather..."
 173: 0x2C74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x2C75 [0x1C] WAIT(100* ticks)
-175: 0x2C78 [0x48] [System] [8683*]:
+175: 0x2C78 [0x48] [System] [8685*]:
     → "...the seven colors..."
 176: 0x2C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x2C7C [0x1C] WAIT(100* ticks)
-178: 0x2C7F [0x48] [System] [8684*]:
+178: 0x2C7F [0x48] [System] [8686*]:
     → "...that cover the sky..."
 179: 0x2C82 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x2C83 [0x1C] WAIT(100* ticks)
-181: 0x2C86 [0x48] [System] [8685*]:
+181: 0x2C86 [0x48] [System] [8687*]:
     → "...and embrace the earth..."
 182: 0x2C89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x2C8A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2682,7 +2682,7 @@ SUBROUTINE_2C5D:
 203: 0x2D5A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[212*, 0*]
 204: 0x2D6B [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x36)
 205: 0x2D72 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17756177/0x010EF011), tag_num=0x32)
-206: 0x2D79 [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8706*]:
+206: 0x2D79 [0x2B] Ajido-Marujido (ID: 17756177/0x010EF011) [8708*]:
     → "But I need to tell you this--when you let down your guard to hear the voices around you, you should probably have a strong black mage by your side...just to be safe."
 207: 0x2D80 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x2D81 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17756177/0x010EF011))
@@ -2820,7 +2820,7 @@ SUBROUTINE_2C5D:
  36: 0x2F80 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=247*
  37: 0x2F8F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  38: 0x2FA0 [0x27] REQ_SET(priority=0x0B, entity_id=Joker (ID: 17756185/0x010EF019), tag_num=0x30)
- 39: 0x2FA7 [0x2B] Joker (ID: 17756185/0x010EF019) [8790*]:
+ 39: 0x2FA7 [0x2B] Joker (ID: 17756185/0x010EF019) [8792*]:
     → "It Is Normal For A Cardian To Die For His Master."
  40: 0x2FAE [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x2FAF [0x2A] GET_REQ_LEVEL(level=11, entity_id=Joker (ID: 17756185/0x010EF019))
@@ -2843,7 +2843,7 @@ SUBROUTINE_2C5D:
  58: 0x3065 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=247*
  59: 0x3074 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  60: 0x3085 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Joker (ID: 17756185/0x010EF019), tag_num=0x01)
- 61: 0x308C [0x2B] Joker (ID: 17756185/0x010EF019) [8796*]:
+ 61: 0x308C [0x2B] Joker (ID: 17756185/0x010EF019) [8798*]:
     → "Please Search Torai-Marai Canal In My Place. Find What I Am Looking For."
  62: 0x3093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x3094 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -2942,7 +2942,7 @@ SUBROUTINE_2C5D:
  16: 0x3140 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  17: 0x3141 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  18: 0x3146 [0x4D] EventEntity->StatusEvent = 9 // Close door
- 19: 0x3147 [0x48] [System] [8797*]:
+ 19: 0x3147 [0x48] [System] [8799*]:
     → "You give the $3 to Joker..."
  20: 0x314A [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x314B [0x1C] WAIT(200* ticks)
@@ -2974,7 +2974,7 @@ SUBROUTINE_2C5D:
  47: 0x3251 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  48: 0x3262 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  49: 0x3273 [0x27] REQ_SET(priority=0x0B, entity_id=Joker (ID: 17756185/0x010EF019), tag_num=0x31)
- 50: 0x327A [0x2B] Joker (ID: 17756185/0x010EF019) [8802*]:
+ 50: 0x327A [0x2B] Joker (ID: 17756185/0x010EF019) [8804*]:
     → "And so, <Player>, I cannot allow you to disassemble me as Honoi-Gomoi has asked you."
  51: 0x3281 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x3282 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Joker (ID: 17756185/0x010EF019))
@@ -2984,7 +2984,7 @@ SUBROUTINE_2C5D:
  56: 0x32B9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17756185/0x010EF019), tag_num=0x40)
  57: 0x32C0 [0x03] ExtData[1]->WorkLocal[2] = 0*
  58: 0x32C5 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x3339
- 59: 0x32CD [0x24] CREATE_DIALOG(message_id=8804*, default_option=0*, option_flags=0*)
+ 59: 0x32CD [0x24] CREATE_DIALOG(message_id=8806*, default_option=0*, option_flags=0*)
     → "Accept the offer? [When you put it that way.../The hammer or the axe?]"
  60: 0x32D4 [0x25] WAIT_DIALOG_SELECT()
  61: 0x32D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3311
@@ -3121,7 +3121,7 @@ SUBROUTINE_3336:
  32: 0x346B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  33: 0x347C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  34: 0x348D [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17756294/0x010EF086), tag_num=0x28)
- 35: 0x3494 [0x2B] Apururu (ID: 17756294/0x010EF086) [8808*]:
+ 35: 0x3494 [0x2B] Apururu (ID: 17756294/0x010EF086) [8810*]:
     → "What are you doing here? This is the house of the great genius Karaha-Baruha. Well, to be perfectaruly accurate, this would have been his house..."
  36: 0x349B [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x349C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17756294/0x010EF086))
@@ -3151,7 +3151,7 @@ SUBROUTINE_3336:
  61: 0x356D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  62: 0x357E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Apururu (ID: 17756294/0x010EF086), tag_num=0x30)
  63: 0x3585 [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17756294/0x010EF086), tag_num=0x2A)
- 64: 0x358C [0x2B] Apururu (ID: 17756294/0x010EF086) [8814*]:
+ 64: 0x358C [0x2B] Apururu (ID: 17756294/0x010EF086) [8816*]:
     → "Oh, there's something written here. Let's see now, "...to Toraimarai Canal..."?"
  65: 0x3593 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x3594 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17756294/0x010EF086))
@@ -3165,7 +3165,7 @@ SUBROUTINE_3336:
  74: 0x35DD [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [LocalPlayer, LocalPlayer], work=247*
  75: 0x35EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  76: 0x35FD [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17756294/0x010EF086), tag_num=0x29)
- 77: 0x3604 [0x2B] Apururu (ID: 17756294/0x010EF086) [8816*]:
+ 77: 0x3604 [0x2B] Apururu (ID: 17756294/0x010EF086) [8818*]:
     → "Adventurer, would you go and search Toraimarai Canal for me? You may be able to find some clues to solve this little mystery!"
  78: 0x360B [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x360C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17756294/0x010EF086))
@@ -3305,14 +3305,14 @@ SUBROUTINE_3336:
  32: 0x3783 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  33: 0x3794 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  34: 0x37A5 [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17756294/0x010EF086), tag_num=0x28)
- 35: 0x37AC [0x2B] Apururu (ID: 17756294/0x010EF086) [8808*]:
+ 35: 0x37AC [0x2B] Apururu (ID: 17756294/0x010EF086) [8810*]:
     → "What are you doing here? This is the house of the great genius Karaha-Baruha. Well, to be perfectaruly accurate, this would have been his house..."
  36: 0x37B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x37B4 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17756294/0x010EF086))
  38: 0x37BA [0x52] END_LOAD_SCHEDULER: End scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=247*
  39: 0x37C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  40: 0x37DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17756294/0x010EF086), tag_num=0x03)
- 41: 0x37E1 [0x2B] Apururu (ID: 17756294/0x010EF086) [8809*]:
+ 41: 0x37E1 [0x2B] Apururu (ID: 17756294/0x010EF086) [8811*]:
     → "Someone was saying they had seen a Cardian lurking around here, so I came to check it out for myself."
  42: 0x37E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x37E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17756294/0x010EF086), tag_num=0x04)
@@ -3341,7 +3341,7 @@ SUBROUTINE_3336:
  66: 0x3898 [0x52] END_LOAD_SCHEDULER: End scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=247*
  67: 0x38A7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  68: 0x38B8 [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17756294/0x010EF086), tag_num=0x38)
- 69: 0x38BF [0x2B] Apururu (ID: 17756294/0x010EF086) [8821*]:
+ 69: 0x38BF [0x2B] Apururu (ID: 17756294/0x010EF086) [8823*]:
     → "But there's something strange about it. There's no mark, just this odd-bodd picture. I can't sense any magic from it, either."
  70: 0x38C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x38C7 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17756294/0x010EF086))
@@ -3458,7 +3458,7 @@ SUBROUTINE_3336:
   0: 0x3A7F [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
   1: 0x3A84 [0x46] CAMERA_CONTROL: Disable user control
   2: 0x3A86 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  3: 0x3A87 [0x48] [System] [8865*]:
+  3: 0x3A87 [0x48] [System] [8867*]:
     → "A blue energy wells up within you...!"
   4: 0x3A8A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
   5: 0x3A9B [0x1C] WAIT(60* ticks)
@@ -3478,13 +3478,13 @@ SUBROUTINE_3336:
  19: 0x3AE0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  20: 0x3AF1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  21: 0x3B02 [0x1C] WAIT(60* ticks)
- 22: 0x3B05 [0x2B] Carbuncle (ID: 17756302/0x010EF08E) [8879*]:
+ 22: 0x3B05 [0x2B] Carbuncle (ID: 17756302/0x010EF08E) [8881*]:
     → "...Quickly... The stolen energy grows in strength..."
  23: 0x3B0C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x3B0D [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=250*
  25: 0x3B1C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  26: 0x3B2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[250*, 0*]
- 27: 0x3B3E [0x2B] Carbuncle (ID: 17756302/0x010EF08E) [8880*]:
+ 27: 0x3B3E [0x2B] Carbuncle (ID: 17756302/0x010EF08E) [8882*]:
     → "If my humble power can be the key to open the rusted door of memories..."
  28: 0x3B45 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x3B46 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -3531,7 +3531,7 @@ SUBROUTINE_3336:
   0: 0x3B95 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
   1: 0x3B9A [0x46] CAMERA_CONTROL: Disable user control
   2: 0x3B9C [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  3: 0x3B9D [0x48] [System] [8865*]:
+  3: 0x3B9D [0x48] [System] [8867*]:
     → "A blue energy wells up within you...!"
   4: 0x3BA0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
   5: 0x3BB1 [0x1C] WAIT(60* ticks)
@@ -3541,10 +3541,10 @@ SUBROUTINE_3336:
   9: 0x3BBE [0x75] LOAD_ROOM(No action)
  10: 0x3BC0 [0x1C] WAIT(1* ticks)
  11: 0x3BC3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Carbuncle (ID: 17756302/0x010EF08E), tag_num=0x02)
- 12: 0x3BCA [0x2B] Carbuncle (ID: 17756302/0x010EF08E) [8954*]:
+ 12: 0x3BCA [0x2B] Carbuncle (ID: 17756302/0x010EF08E) [8956*]:
     → "......"
  13: 0x3BD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x3BD2 [0x2B] Carbuncle (ID: 17756302/0x010EF08E) [8955*]:
+ 14: 0x3BD2 [0x2B] Carbuncle (ID: 17756302/0x010EF08E) [8957*]:
     → "Help me..."
  15: 0x3BD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x3BDA [0x46] CAMERA_CONTROL: Restore default settings

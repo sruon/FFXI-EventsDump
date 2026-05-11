@@ -24,33 +24,33 @@
 |---------|-------------|-------------|
 |       0 | 0x00FE      |         254 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x1FE1      |        8161 |
+|       2 | 0x1FE3      |        8163 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0007      |           7 |
-|       5 | 0x1FE2      |        8162 |
+|       5 | 0x1FE4      |        8164 |
 |       6 | 0x0008      |           8 |
-|       7 | 0x1FE3      |        8163 |
+|       7 | 0x1FE5      |        8165 |
 |       8 | 0x0002      |           2 |
 |       9 | 0x0009      |           9 |
-|      10 | 0x1FE4      |        8164 |
-|      11 | 0x1FC3      |        8131 |
-|      12 | 0x1FC7      |        8135 |
-|      13 | 0x1FC4      |        8132 |
-|      14 | 0x1FC5      |        8133 |
+|      10 | 0x1FE6      |        8166 |
+|      11 | 0x1FC5      |        8133 |
+|      12 | 0x1FC9      |        8137 |
+|      13 | 0x1FC6      |        8134 |
+|      14 | 0x1FC7      |        8135 |
 |      15 | 0x00C9      |         201 |
-|      16 | 0x1FC6      |        8134 |
+|      16 | 0x1FC8      |        8136 |
 
 ## String References
 
-- **8131**: I am Shaz Norem, and I have been following your career with grrreat interest. If you would hear an objective evaluation of your efforts, then listen well...
-- **8132**: Your accomplishments have not gone unnoticed.
-- **8133**: This is but a small token, but with it comes the gratitude of a nation's people.
-- **8134**: Thank you, friend. You have been as a torrrch to a people who were groping in darkness.
-- **8135**: This land is still frrraught with danger. Be safe in your travels.
-- **8161**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
-- **8162**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
-- **8163**: [Requirement/Objective completed]: Obtain all atma found in this area.
-- **8164**: [Requirement/Objective completed]: Complete all quests issued in this area.
+- **8133**: I am Shaz Norem, and I have been following your career with grrreat interest. If you would hear an objective evaluation of your efforts, then listen well...
+- **8134**: Your accomplishments have not gone unnoticed.
+- **8135**: This is but a small token, but with it comes the gratitude of a nation's people.
+- **8136**: Thank you, friend. You have been as a torrrch to a people who were groping in darkness.
+- **8137**: This land is still frrraught with danger. Be safe in your travels.
+- **8163**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
+- **8164**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
+- **8165**: [Requirement/Objective completed]: Obtain all atma found in this area.
+- **8166**: [Requirement/Objective completed]: Complete all quests issued in this area.
 
 ## Events
 
@@ -96,7 +96,7 @@
   8: 0x0022 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[7]
   9: 0x0027 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[8]
  10: 0x002C [0x02] IF !(1* == 1*) GOTO 0x00C7
- 11: 0x0034 [0x24] CREATE_DIALOG(message_id=8161*, default_option=0*, option_flags=0*)
+ 11: 0x0034 [0x24] CREATE_DIALOG(message_id=8163*, default_option=0*, option_flags=0*)
     → "Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]"
  12: 0x003B [0x25] WAIT_DIALOG_SELECT()
  13: 0x003C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x005F
@@ -106,7 +106,7 @@
  17: 0x0053 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_0058:
- 18: 0x0058 [0x48] [System] [8162*]:
+ 18: 0x0058 [0x48] [System] [8164*]:
     → "[Requirement/Objective completed]: Obtain all ancient abyssite found in this area."
  19: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x005C [0x01] GOTO 0x00A6
@@ -117,7 +117,7 @@ SUBROUTINE_0058:
  25: 0x0076 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_007B:
- 26: 0x007B [0x48] [System] [8163*]:
+ 26: 0x007B [0x48] [System] [8165*]:
     → "[Requirement/Objective completed]: Obtain all atma found in this area."
  27: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x007F [0x01] GOTO 0x00A6
@@ -128,7 +128,7 @@ SUBROUTINE_007B:
  33: 0x0099 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_009E:
- 34: 0x009E [0x48] [System] [8164*]:
+ 34: 0x009E [0x48] [System] [8166*]:
     → "[Requirement/Objective completed]: Complete all quests issued in this area."
  35: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00A2 [0x01] GOTO 0x00A6
@@ -169,11 +169,11 @@ SUBROUTINE_00A6:
   0: 0x00C9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00CE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00CF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
+  3: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
     → "I am Shaz Norem, and I have been following your career with grrreat interest. If you would hear an objective evaluation of your efforts, then listen well..."
   4: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00D4 [0x1A] CALL_SUBROUTINE(address=0x0000)
-  6: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
+  6: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
     → "This land is still frrraught with danger. Be safe in your travels."
   7: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00DB [0x21] END_EVENT
@@ -202,10 +202,10 @@ SUBROUTINE_00A6:
 
 ```
   0: 0x00DD [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
+  1: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "Your accomplishments have not gone unnoticed."
   2: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+  3: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
     → "This is but a small token, but with it comes the gratitude of a nation's people."
   4: 0x00E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -235,7 +235,7 @@ SUBROUTINE_00A6:
 
 ```
   0: 0x00F9 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
+  1: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
     → "Thank you, friend. You have been as a torrrch to a people who were groping in darkness."
   2: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

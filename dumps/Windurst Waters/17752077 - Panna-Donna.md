@@ -77,13 +77,13 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x0029      |          41 |
 |       3 | 0x0032      |          50 |
-|       4 | 0x1D58      |        7512 |
-|       5 | 0x1D59      |        7513 |
-|       6 | 0x1D63      |        7523 |
-|       7 | 0x1D64      |        7524 |
-|       8 | 0x1D68      |        7528 |
-|       9 | 0x1D69      |        7529 |
-|      10 | 0x1D73      |        7539 |
+|       4 | 0x1D5A      |        7514 |
+|       5 | 0x1D5B      |        7515 |
+|       6 | 0x1D65      |        7525 |
+|       7 | 0x1D66      |        7526 |
+|       8 | 0x1D6A      |        7530 |
+|       9 | 0x1D6B      |        7531 |
+|      10 | 0x1D75      |        7541 |
 |      11 | 0xFFFF250A  |  4294911242 |
 |      12 | 0x37AD0     |      228048 |
 |      13 | 0xFFFFEC77  |  4294962295 |
@@ -91,137 +91,137 @@
 |      15 | 0x37BE5     |      228325 |
 |      16 | 0xFFFFEC79  |  4294962297 |
 |      17 | 0x02BB      |         699 |
-|      18 | 0x1D79      |        7545 |
-|      19 | 0x1D7A      |        7546 |
-|      20 | 0x1D7B      |        7547 |
-|      21 | 0x1D7C      |        7548 |
-|      22 | 0x1D7D      |        7549 |
-|      23 | 0x1D82      |        7554 |
-|      24 | 0x1D83      |        7555 |
-|      25 | 0x1D85      |        7557 |
-|      26 | 0x1D86      |        7558 |
-|      27 | 0x1D8D      |        7565 |
-|      28 | 0x1D8E      |        7566 |
-|      29 | 0x1D9D      |        7581 |
-|      30 | 0x1D9E      |        7582 |
-|      31 | 0x1DAD      |        7597 |
-|      32 | 0x1DAE      |        7598 |
-|      33 | 0x1DDB      |        7643 |
-|      34 | 0x1DDC      |        7644 |
-|      35 | 0x1DEA      |        7658 |
-|      36 | 0x1DEB      |        7659 |
-|      37 | 0x1E2D      |        7725 |
-|      38 | 0x1E2E      |        7726 |
-|      39 | 0x1E76      |        7798 |
-|      40 | 0x1E77      |        7799 |
-|      41 | 0x1E82      |        7810 |
-|      42 | 0x1E83      |        7811 |
-|      43 | 0x1E90      |        7824 |
-|      44 | 0x1E91      |        7825 |
-|      45 | 0x1E9B      |        7835 |
-|      46 | 0x1E9C      |        7836 |
-|      47 | 0x1EA3      |        7843 |
-|      48 | 0x1EA4      |        7844 |
-|      49 | 0x1EAE      |        7854 |
-|      50 | 0x1EAF      |        7855 |
-|      51 | 0x1EB8      |        7864 |
-|      52 | 0x1EB9      |        7865 |
-|      53 | 0x1EBE      |        7870 |
-|      54 | 0x1EBF      |        7871 |
-|      55 | 0x258B      |        9611 |
-|      56 | 0x258C      |        9612 |
-|      57 | 0x2596      |        9622 |
-|      58 | 0x2597      |        9623 |
-|      59 | 0x2598      |        9624 |
-|      60 | 0x25A7      |        9639 |
+|      18 | 0x1D7B      |        7547 |
+|      19 | 0x1D7C      |        7548 |
+|      20 | 0x1D7D      |        7549 |
+|      21 | 0x1D7E      |        7550 |
+|      22 | 0x1D7F      |        7551 |
+|      23 | 0x1D84      |        7556 |
+|      24 | 0x1D85      |        7557 |
+|      25 | 0x1D87      |        7559 |
+|      26 | 0x1D88      |        7560 |
+|      27 | 0x1D8F      |        7567 |
+|      28 | 0x1D90      |        7568 |
+|      29 | 0x1D9F      |        7583 |
+|      30 | 0x1DA0      |        7584 |
+|      31 | 0x1DAF      |        7599 |
+|      32 | 0x1DB0      |        7600 |
+|      33 | 0x1DDD      |        7645 |
+|      34 | 0x1DDE      |        7646 |
+|      35 | 0x1DEC      |        7660 |
+|      36 | 0x1DED      |        7661 |
+|      37 | 0x1E2F      |        7727 |
+|      38 | 0x1E30      |        7728 |
+|      39 | 0x1E78      |        7800 |
+|      40 | 0x1E79      |        7801 |
+|      41 | 0x1E84      |        7812 |
+|      42 | 0x1E85      |        7813 |
+|      43 | 0x1E92      |        7826 |
+|      44 | 0x1E93      |        7827 |
+|      45 | 0x1E9D      |        7837 |
+|      46 | 0x1E9E      |        7838 |
+|      47 | 0x1EA5      |        7845 |
+|      48 | 0x1EA6      |        7846 |
+|      49 | 0x1EB0      |        7856 |
+|      50 | 0x1EB1      |        7857 |
+|      51 | 0x1EBA      |        7866 |
+|      52 | 0x1EBB      |        7867 |
+|      53 | 0x1EC0      |        7872 |
+|      54 | 0x1EC1      |        7873 |
+|      55 | 0x258D      |        9613 |
+|      56 | 0x258E      |        9614 |
+|      57 | 0x2598      |        9624 |
+|      58 | 0x2599      |        9625 |
+|      59 | 0x259A      |        9626 |
+|      60 | 0x25A9      |        9641 |
 |      61 | 0x0006      |           6 |
-|      62 | 0x25A8      |        9640 |
-|      63 | 0x25B2      |        9650 |
-|      64 | 0x25B3      |        9651 |
-|      65 | 0x25F5      |        9717 |
-|      66 | 0x25F6      |        9718 |
-|      67 | 0x2627      |        9767 |
-|      68 | 0x2628      |        9768 |
-|      69 | 0x2658      |        9816 |
-|      70 | 0x2659      |        9817 |
-|      71 | 0x2748      |       10056 |
-|      72 | 0x2749      |       10057 |
-|      73 | 0x274F      |       10063 |
-|      74 | 0x2750      |       10064 |
-|      75 | 0x275D      |       10077 |
-|      76 | 0x275E      |       10078 |
-|      77 | 0x2768      |       10088 |
-|      78 | 0x2769      |       10089 |
+|      62 | 0x25AA      |        9642 |
+|      63 | 0x25B4      |        9652 |
+|      64 | 0x25B5      |        9653 |
+|      65 | 0x25F7      |        9719 |
+|      66 | 0x25F8      |        9720 |
+|      67 | 0x2629      |        9769 |
+|      68 | 0x262A      |        9770 |
+|      69 | 0x265A      |        9818 |
+|      70 | 0x265B      |        9819 |
+|      71 | 0x274A      |       10058 |
+|      72 | 0x274B      |       10059 |
+|      73 | 0x2751      |       10065 |
+|      74 | 0x2752      |       10066 |
+|      75 | 0x275F      |       10079 |
+|      76 | 0x2760      |       10080 |
+|      77 | 0x276A      |       10090 |
+|      78 | 0x276B      |       10091 |
 
 ## String References
 
-- **7512**: Huh? You have some kind of business with us, the North Winds? Mokyokyo is our leader-weader, so speak to her first.
-- **7513**: Oh, a foreigner, huh? If you're looking for the [San d'Orian/Bastokan] Consulate, then head [yonder southeast/south]... It's in [Windurst Woods/Port Windurst]. Ta-taru.
-- **7523**: If there's something you don't understand, just ask Jack of Hearts for a hand. You can find him in the plaza in fronty-wonty of the Optistery.
-- **7524**: And even then, if you still don't understand something, pluck up the courage and ask your fellow adventurers for advice.
-- **7528**: The four gatehouses are competing over who can get the most new recruits. I wonder how it's going.
-- **7529**: I bet we North Winds are winning!t
-- **7539**: At first you might only receive boring missions, but even those have their good side, allowing you to meet with people you would not normally be able to, and so on.
-- **7545**: That's the spirit-wirit! Looks like it's my cue... I have a mission just right for you, so listen up!
-- **7546**: You know the Horutoto Ruins out in Sarutabaruta, don't you? Well, they're about to conduct some kind of magic experiment there.
-- **7547**: The Orastery, one of the five ministries of Windurst, is urgently requesting the dispatch of an adventurer to help them out.
-- **7548**: Ask the Orastery's minister at their Mage Academy for the details.
-- **7549**: The Orastery's Mage Academy is a big building in Port Windurst, far to the south of here. Well, good luck with your first tasky-wasky!
-- **7554**: Well then, hurry on over to the Orastery. It sounds like the Orastery is going to conduct some kind of magic experiment in the magic towers.
-- **7555**: The Minister of the Orastery will explain the details.
-- **7557**: Hurry on over to the Orastery. It's the big building in Port Windurst, far to the south of here.
-- **7558**: Lucky you. Sounds like an exciting mission with that magic experiment going on. But, oh, I forgot! The Minister of the Orastery is THAT guy...
-- **7565**: It might not feel like you're achieving much at firsty-wirsty, but your efforts are contributing to the peace of Windurst.
-- **7566**: I'm sure my telling you that suddenly enthused you, didn't it?
-- **7581**: Cardians are our automaton guards. They were originally created twenty years ago by Zonpa-Zippa, the Minister of the Manustery.
-- **7582**: It's hard enough to collect the materials to make them, but it takes even more effort to train them. Occasionally a few go bonkers-wonkers and run away...or that's what the guys from the Manustery say.
-- **7597**: I know we shouldn't ask this, but... Why do we have to provide the Yagudo with all this stuff anyway?
-- **7598**: The beastman hordes were utterly defeated by our allied forces in the war twenty years ago, weren't they? So what's the dealy-wealy?
-- **7643**: Whoa! You're alive? Are you sure you're not a ghosty-whosty?
-- **7644**: Giddeus really was a scary-wary place, right? Anyway, I'm glad you made it back safely.
-- **7658**: I don't read at all, so I have no interest in the library.
-- **7659**: Reading books just isn't in vogue these days. It has to have the impact and excitement of a wandering minstrel's song or a street performance to grab the attention of people today.
-- **7725**: That School of Magic is full of cheeky little genius brats. They are constantly poking their noses into adult business, so it should be interesting to see what kind of adults they become themselves.
-- **7726**: You got it! I abhor children. I don't even want to believe I was once one myself.
-- **7798**: I heard about the mission. It sure sounds serious.
-- **7799**: A\`h! Boy, am I gladdy-waddy I'm just a simple guard. I'm not cut out for such responsible missions.
-- **7810**: The Sibyl Guards who attend on the Star Sibyl are all Mithra.
-- **7811**: But they are different from the other Mithra you see around town. They have made a heartfelt pledge of allegiance.
-- **7824**: The Star Sibyl's vestal ladies-in-waiting are the admiration and dream of every Tarutaru girl.
-- **7825**: Ahhh...I wish I was born a girl so I could serve at the side of the great Sibyl. Not that serving by the side of Mokyokyo is bad or anything...
-- **7835**: Wow! A writ of summons with a star emblem on it! You are incredible! Incredibly incredible!
-- **7836**: I knew there was something different about my friend, <Player>. I bet you have a lucky star shining down on you. You should treasure it greatly!
-- **7843**: What in Windurst is going on? For Heavens Tower to stop us from issuing missions...? Almost looks like we're about to go to war, or something!
-- **7844**: Ah!? No, we couldn't possibly be...! Windurst is in a peace accord, right?
-- **7854**: I heard from Mokyokyo that the talisman that sealed the Shadow Lord has been stolen!
-- **7855**: The talisman itself was supposed to be sealed away in the central tower of the Horutoto Ruins with a magical barrier protecting it, right!? The one who stole it must be an extremely powerful magician!
-- **7864**: Seems as though the conference of ministers has ended. I wonder what was on the agenda-wenda of that meeting?
-- **7865**: Hey, now your position is high enough to come and go from Heavens Tower as you please, right? I promise not to tell anyone, so please let me know what's going on!
-- **7870**: I don't know what happened, but the people from Heavens Tower look a lot brighter than before.
-- **7871**: Hey, you're high enough in position to freely come and go from Heavens Tower, right? I promise I won't tell anyone, so please let me know what's going on!
-- **9611**: I wonder what is to become of Windurst? Is there anything that a simple-wimple guard like me can do...?
-- **9612**: For now, I just practice my swordplay with Ten of Hearts every day. He doesn't get tired, so he makes a good training partner.
-- **9622**: How goes the adventuring life? Your new mission is from the Orastery, rightaru?
-- **9623**: Minister Ajido-Marujido is the most super spell-slinger in Windurst. Or maybe that would be Doctor Shantotto?
-- **9624**: I wonder who would win in a duel of dweomers? It would be a close match, don't you think?
-- **9639**: The mages of the Orastery must all be in a flurry-scurry. The imprisonment of a minister is unprecedented.
-- **9640**: What can be done to soothe the fury-wury of the Star Sibyl? No matter how much I ponder-wonder, I justaru can't think of anything!
-- **9650**: Did you think things would get easier as your rank got higher?
-- **9651**: Heh-heh-heh, you've got it all topsy-turvy. There aren'taru too many high-ranked adventurers, so you get to do all the really difficultaru missions!
-- **9717**: Minister Rukususu is so dreamy-weamy. If she stays Minister of the Rhinostery, the number of members will go through the roof.
-- **9718**: Hm? How is she dreamy-weamy? How can you not know? It's that fragrance. I'm so head over heels, I can't think straight anymore.
-- **9767**: Have you met Professor Koru-Moru? He's the very, um, unique professor in Windurst Walls.
-- **9768**: He once retired as the principal of the School of Magic, but due to an incidentaru a couple of years ago, he was reinstated.
-- **9816**: Minister Apururu hates it when people call her "Miss Minster Apururu," so everybody leaves off the "Miss".
-- **9817**: She's also the youngest of the five ministers, but probably works the hardest at managing her ministry. It's still in the red, though...
-- **10056**: You probably don't know who Minister Ajido-Marujido and Miss Apururu's father is, do you?
-- **10057**: Huh, your expression says otherwise. Has it become that well-known? I guess that was a silly-billy question to ask a well-connected adventurer like yourself.
-- **10063**: We have heard accounts of roguey-wogue Cardians crossing Sarutabaruta. Have you heard or seen anything?
-- **10064**: If we don't get confirmation for these sightings, we can't make a report to Heavens Tower. For the momentaru, I have my subordinates looking into it...
-- **10077**: Isn'taru it about time for the five ministries to have their meeting?
-- **10078**: But with the way things have been lately-wately, I wouldn'taru be surprised if they skip-pipped it. Minister Ajido-Marujido hasn't even returned to the Orastery yet.
-- **10088**: I have a distantaru relative, an adventurer by trade, who said he had seen a Tarutaru being held captive by mandragora in a dungeon somewhere.
-- **10089**: Could that be the missing Principal of the Aurastery, perhaps? If it is, maybe it would be bestaru just to leave things well alone.
+- **7514**: Huh? You have some kind of business with us, the North Winds? Mokyokyo is our leader-weader, so speak to her first.
+- **7515**: Oh, a foreigner, huh? If you're looking for the [San d'Orian/Bastokan] Consulate, then head [yonder southeast/south]... It's in [Windurst Woods/Port Windurst]. Ta-taru.
+- **7525**: If there's something you don't understand, just ask Jack of Hearts for a hand. You can find him in the plaza in fronty-wonty of the Optistery.
+- **7526**: And even then, if you still don't understand something, pluck up the courage and ask your fellow adventurers for advice.
+- **7530**: The four gatehouses are competing over who can get the most new recruits. I wonder how it's going.
+- **7531**: I bet we North Winds are winning!t
+- **7541**: At first you might only receive boring missions, but even those have their good side, allowing you to meet with people you would not normally be able to, and so on.
+- **7547**: That's the spirit-wirit! Looks like it's my cue... I have a mission just right for you, so listen up!
+- **7548**: You know the Horutoto Ruins out in Sarutabaruta, don't you? Well, they're about to conduct some kind of magic experiment there.
+- **7549**: The Orastery, one of the five ministries of Windurst, is urgently requesting the dispatch of an adventurer to help them out.
+- **7550**: Ask the Orastery's minister at their Mage Academy for the details.
+- **7551**: The Orastery's Mage Academy is a big building in Port Windurst, far to the south of here. Well, good luck with your first tasky-wasky!
+- **7556**: Well then, hurry on over to the Orastery. It sounds like the Orastery is going to conduct some kind of magic experiment in the magic towers.
+- **7557**: The Minister of the Orastery will explain the details.
+- **7559**: Hurry on over to the Orastery. It's the big building in Port Windurst, far to the south of here.
+- **7560**: Lucky you. Sounds like an exciting mission with that magic experiment going on. But, oh, I forgot! The Minister of the Orastery is THAT guy...
+- **7567**: It might not feel like you're achieving much at firsty-wirsty, but your efforts are contributing to the peace of Windurst.
+- **7568**: I'm sure my telling you that suddenly enthused you, didn't it?
+- **7583**: Cardians are our automaton guards. They were originally created twenty years ago by Zonpa-Zippa, the Minister of the Manustery.
+- **7584**: It's hard enough to collect the materials to make them, but it takes even more effort to train them. Occasionally a few go bonkers-wonkers and run away...or that's what the guys from the Manustery say.
+- **7599**: I know we shouldn't ask this, but... Why do we have to provide the Yagudo with all this stuff anyway?
+- **7600**: The beastman hordes were utterly defeated by our allied forces in the war twenty years ago, weren't they? So what's the dealy-wealy?
+- **7645**: Whoa! You're alive? Are you sure you're not a ghosty-whosty?
+- **7646**: Giddeus really was a scary-wary place, right? Anyway, I'm glad you made it back safely.
+- **7660**: I don't read at all, so I have no interest in the library.
+- **7661**: Reading books just isn't in vogue these days. It has to have the impact and excitement of a wandering minstrel's song or a street performance to grab the attention of people today.
+- **7727**: That School of Magic is full of cheeky little genius brats. They are constantly poking their noses into adult business, so it should be interesting to see what kind of adults they become themselves.
+- **7728**: You got it! I abhor children. I don't even want to believe I was once one myself.
+- **7800**: I heard about the mission. It sure sounds serious.
+- **7801**: A\`h! Boy, am I gladdy-waddy I'm just a simple guard. I'm not cut out for such responsible missions.
+- **7812**: The Sibyl Guards who attend on the Star Sibyl are all Mithra.
+- **7813**: But they are different from the other Mithra you see around town. They have made a heartfelt pledge of allegiance.
+- **7826**: The Star Sibyl's vestal ladies-in-waiting are the admiration and dream of every Tarutaru girl.
+- **7827**: Ahhh...I wish I was born a girl so I could serve at the side of the great Sibyl. Not that serving by the side of Mokyokyo is bad or anything...
+- **7837**: Wow! A writ of summons with a star emblem on it! You are incredible! Incredibly incredible!
+- **7838**: I knew there was something different about my friend, <Player>. I bet you have a lucky star shining down on you. You should treasure it greatly!
+- **7845**: What in Windurst is going on? For Heavens Tower to stop us from issuing missions...? Almost looks like we're about to go to war, or something!
+- **7846**: Ah!? No, we couldn't possibly be...! Windurst is in a peace accord, right?
+- **7856**: I heard from Mokyokyo that the talisman that sealed the Shadow Lord has been stolen!
+- **7857**: The talisman itself was supposed to be sealed away in the central tower of the Horutoto Ruins with a magical barrier protecting it, right!? The one who stole it must be an extremely powerful magician!
+- **7866**: Seems as though the conference of ministers has ended. I wonder what was on the agenda-wenda of that meeting?
+- **7867**: Hey, now your position is high enough to come and go from Heavens Tower as you please, right? I promise not to tell anyone, so please let me know what's going on!
+- **7872**: I don't know what happened, but the people from Heavens Tower look a lot brighter than before.
+- **7873**: Hey, you're high enough in position to freely come and go from Heavens Tower, right? I promise I won't tell anyone, so please let me know what's going on!
+- **9613**: I wonder what is to become of Windurst? Is there anything that a simple-wimple guard like me can do...?
+- **9614**: For now, I just practice my swordplay with Ten of Hearts every day. He doesn't get tired, so he makes a good training partner.
+- **9624**: How goes the adventuring life? Your new mission is from the Orastery, rightaru?
+- **9625**: Minister Ajido-Marujido is the most super spell-slinger in Windurst. Or maybe that would be Doctor Shantotto?
+- **9626**: I wonder who would win in a duel of dweomers? It would be a close match, don't you think?
+- **9641**: The mages of the Orastery must all be in a flurry-scurry. The imprisonment of a minister is unprecedented.
+- **9642**: What can be done to soothe the fury-wury of the Star Sibyl? No matter how much I ponder-wonder, I justaru can't think of anything!
+- **9652**: Did you think things would get easier as your rank got higher?
+- **9653**: Heh-heh-heh, you've got it all topsy-turvy. There aren'taru too many high-ranked adventurers, so you get to do all the really difficultaru missions!
+- **9719**: Minister Rukususu is so dreamy-weamy. If she stays Minister of the Rhinostery, the number of members will go through the roof.
+- **9720**: Hm? How is she dreamy-weamy? How can you not know? It's that fragrance. I'm so head over heels, I can't think straight anymore.
+- **9769**: Have you met Professor Koru-Moru? He's the very, um, unique professor in Windurst Walls.
+- **9770**: He once retired as the principal of the School of Magic, but due to an incidentaru a couple of years ago, he was reinstated.
+- **9818**: Minister Apururu hates it when people call her "Miss Minster Apururu," so everybody leaves off the "Miss".
+- **9819**: She's also the youngest of the five ministers, but probably works the hardest at managing her ministry. It's still in the red, though...
+- **10058**: You probably don't know who Minister Ajido-Marujido and Miss Apururu's father is, do you?
+- **10059**: Huh, your expression says otherwise. Has it become that well-known? I guess that was a silly-billy question to ask a well-connected adventurer like yourself.
+- **10065**: We have heard accounts of roguey-wogue Cardians crossing Sarutabaruta. Have you heard or seen anything?
+- **10066**: If we don't get confirmation for these sightings, we can't make a report to Heavens Tower. For the momentaru, I have my subordinates looking into it...
+- **10079**: Isn'taru it about time for the five ministries to have their meeting?
+- **10080**: But with the way things have been lately-wately, I wouldn'taru be surprised if they skip-pipped it. Minister Ajido-Marujido hasn't even returned to the Orastery yet.
+- **10090**: I have a distantaru relative, an adventurer by trade, who said he had seen a Tarutaru being held captive by mandragora in a dungeon somewhere.
+- **10091**: Could that be the missing Principal of the Aurastery, perhaps? If it is, maybe it would be bestaru just to leave things well alone.
 
 ## Events
 
@@ -613,7 +613,7 @@
   1: 0x00EB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00EC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
+  4: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
     → "Huh? You have some kind of business with us, the North Winds? Mokyokyo is our leader-weader, so speak to her first."
   5: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -646,7 +646,7 @@
   1: 0x0108 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0109 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x010A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
+  4: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
     → "Oh, a foreigner, huh? If you're looking for the [San d'Orian/Bastokan] Consulate, then head [yonder southeast/south]... It's in [Windurst Woods/Port Windurst]. Ta-taru."
   5: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0115 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -680,10 +680,10 @@
   1: 0x0125 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0126 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0127 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+  4: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "If there's something you don't understand, just ask Jack of Hearts for a hand. You can find him in the plaza in fronty-wonty of the Optistery."
   5: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  6: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "And even then, if you still don't understand something, pluck up the courage and ask your fellow adventurers for advice."
   7: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0136 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -717,10 +717,10 @@
   1: 0x0146 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0147 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0148 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+  4: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
     → "The four gatehouses are competing over who can get the most new recruits. I wonder how it's going."
   5: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+  6: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "I bet we North Winds are winning!t"
   7: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0157 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -816,7 +816,7 @@
 
 ```
   0: 0x0165 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  1: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
+  1: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
     → "At first you might only receive boring missions, but even those have their good side, allowing you to meet with people you would not normally be able to, and so on."
   2: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0170 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -899,7 +899,7 @@
 
 ```
   0: 0x0195 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x06)
-  1: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
+  1: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
     → "That's the spirit-wirit! Looks like it's my cue... I have a mission just right for you, so listen up!"
   2: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x07)
@@ -927,10 +927,10 @@
 
 ```
   0: 0x01A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x08)
-  1: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
+  1: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
     → "You know the Horutoto Ruins out in Sarutabaruta, don't you? Well, they're about to conduct some kind of magic experiment there."
   2: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
+  3: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
     → "The Orastery, one of the five ministries of Windurst, is urgently requesting the dispatch of an adventurer to help them out."
   4: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x09)
@@ -959,10 +959,10 @@
 
 ```
   0: 0x01BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  1: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
+  1: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
     → "Ask the Orastery's minister at their Mage Academy for the details."
   2: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
+  3: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
     → "The Orastery's Mage Academy is a big building in Port Windurst, far to the south of here. Well, good luck with your first tasky-wasky!"
   4: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -990,10 +990,10 @@
 
 ```
   0: 0x01D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  1: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
+  1: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
     → "Well then, hurry on over to the Orastery. It sounds like the Orastery is going to conduct some kind of magic experiment in the magic towers."
   2: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
+  3: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
     → "The Minister of the Orastery will explain the details."
   4: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1026,12 +1026,12 @@
   1: 0x01F2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
+  4: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7559*)
     → "Hurry on over to the Orastery. It's the big building in Port Windurst, far to the south of here."
   5: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
   7: 0x0206 [0x27] REQ_SET(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x05)
-  8: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
+  8: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
     → "Lucky you. Sounds like an exciting mission with that magic experiment going on. But, oh, I forgot! The Minister of the Orastery is THAT guy..."
   9: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0211 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Panna-Donna (ID: 17752077/0x010EE00D))
@@ -1065,10 +1065,10 @@
   1: 0x0220 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0221 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0222 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
+  4: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
     → "It might not feel like you're achieving much at firsty-wirsty, but your efforts are contributing to the peace of Windurst."
   5: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
+  6: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
     → "I'm sure my telling you that suddenly enthused you, didn't it?"
   7: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0231 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1102,10 +1102,10 @@
   1: 0x0241 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0242 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0243 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=7581*)
+  4: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
     → "Cardians are our automaton guards. They were originally created twenty years ago by Zonpa-Zippa, the Minister of the Manustery."
   5: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
+  6: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
     → "It's hard enough to collect the materials to make them, but it takes even more effort to train them. Occasionally a few go bonkers-wonkers and run away...or that's what the guys from the Manustery say."
   7: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0252 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1139,10 +1139,10 @@
   1: 0x0262 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0263 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0264 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
+  4: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
     → "I know we shouldn't ask this, but... Why do we have to provide the Yagudo with all this stuff anyway?"
   5: 0x026E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
+  6: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=7600*)
     → "The beastman hordes were utterly defeated by our allied forces in the war twenty years ago, weren't they? So what's the dealy-wealy?"
   7: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0273 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1177,12 +1177,12 @@
   1: 0x0283 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0284 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0285 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x03)
-  4: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
+  4: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7645*)
     → "Whoa! You're alive? Are you sure you're not a ghosty-whosty?"
   5: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0290 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x04)
   7: 0x0297 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  8: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=7644*)
+  8: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=7646*)
     → "Giddeus really was a scary-wary place, right? Anyway, I'm glad you made it back safely."
   9: 0x02A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1216,10 +1216,10 @@
   1: 0x02B2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02B3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x02BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7658*)
+  4: 0x02BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7660*)
     → "I don't read at all, so I have no interest in the library."
   5: 0x02BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7659*)
+  6: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7661*)
     → "Reading books just isn't in vogue these days. It has to have the impact and excitement of a wandering minstrel's song or a street performance to grab the attention of people today."
   7: 0x02C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1254,12 +1254,12 @@
   1: 0x02D3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02D4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7725*)
+  4: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7727*)
     → "That School of Magic is full of cheeky little genius brats. They are constantly poking their noses into adult business, so it should be interesting to see what kind of adults they become themselves."
   5: 0x02DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0E)
   7: 0x02E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x08)
-  8: 0x02EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7726*)
+  8: 0x02EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7728*)
     → "You got it! I abhor children. I don't even want to believe I was once one myself."
   9: 0x02F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x09)
@@ -1294,12 +1294,12 @@
   1: 0x0302 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0303 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0304 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x08)
-  4: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
+  4: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
     → "I heard about the mission. It sure sounds serious."
   5: 0x030E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x030F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x09)
   7: 0x0316 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  8: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
+  8: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
     → "A`h! Boy, am I gladdy-waddy I'm just a simple guard. I'm not cut out for such responsible missions."
   9: 0x0320 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0321 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1333,10 +1333,10 @@
   1: 0x0331 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0332 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0333 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+  4: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "The Sibyl Guards who attend on the Star Sibyl are all Mithra."
   5: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+  6: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
     → "But they are different from the other Mithra you see around town. They have made a heartfelt pledge of allegiance."
   7: 0x0341 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0342 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1370,10 +1370,10 @@
   1: 0x0352 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0353 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0354 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x035B [0x1D] PRINT_EVENT_MESSAGE(message_id=7824*)
+  4: 0x035B [0x1D] PRINT_EVENT_MESSAGE(message_id=7826*)
     → "The Star Sibyl's vestal ladies-in-waiting are the admiration and dream of every Tarutaru girl."
   5: 0x035E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x035F [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+  6: 0x035F [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "Ahhh...I wish I was born a girl so I could serve at the side of the great Sibyl. Not that serving by the side of Mokyokyo is bad or anything..."
   7: 0x0362 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0363 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1407,10 +1407,10 @@
   1: 0x0373 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0374 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0375 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+  4: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "Wow! A writ of summons with a star emblem on it! You are incredible! Incredibly incredible!"
   5: 0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+  6: 0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
     → "I knew there was something different about my friend, <Player>. I bet you have a lucky star shining down on you. You should treasure it greatly!"
   7: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0384 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1444,10 +1444,10 @@
   1: 0x0394 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0395 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0396 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x039D [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
+  4: 0x039D [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
     → "What in Windurst is going on? For Heavens Tower to stop us from issuing missions...? Almost looks like we're about to go to war, or something!"
   5: 0x03A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
+  6: 0x03A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7846*)
     → "Ah!? No, we couldn't possibly be...! Windurst is in a peace accord, right?"
   7: 0x03A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1481,10 +1481,10 @@
   1: 0x03B5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03B6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x03)
-  4: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
+  4: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
     → "I heard from Mokyokyo that the talisman that sealed the Shadow Lord has been stolen!"
   5: 0x03C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
+  6: 0x03C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
     → "The talisman itself was supposed to be sealed away in the central tower of the Horutoto Ruins with a magical barrier protecting it, right!? The one who stole it must be an extremely powerful magician!"
   7: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x04)
@@ -1518,10 +1518,10 @@
   1: 0x03D6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03D7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
+  4: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "Seems as though the conference of ministers has ended. I wonder what was on the agenda-wenda of that meeting?"
   5: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+  6: 0x03E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
     → "Hey, now your position is high enough to come and go from Heavens Tower as you please, right? I promise not to tell anyone, so please let me know what's going on!"
   7: 0x03E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1555,10 +1555,10 @@
   1: 0x03F7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03F8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x0400 [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
+  4: 0x0400 [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
     → "I don't know what happened, but the people from Heavens Tower look a lot brighter than before."
   5: 0x0403 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0404 [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
+  6: 0x0404 [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
     → "Hey, you're high enough in position to freely come and go from Heavens Tower, right? I promise I won't tell anyone, so please let me know what's going on!"
   7: 0x0407 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0408 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1592,10 +1592,10 @@
   1: 0x0418 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0419 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x041A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=9611*)
+  4: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=9613*)
     → "I wonder what is to become of Windurst? Is there anything that a simple-wimple guard like me can do...?"
   5: 0x0424 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0425 [0x1D] PRINT_EVENT_MESSAGE(message_id=9612*)
+  6: 0x0425 [0x1D] PRINT_EVENT_MESSAGE(message_id=9614*)
     → "For now, I just practice my swordplay with Ten of Hearts every day. He doesn't get tired, so he makes a good training partner."
   7: 0x0428 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0429 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1631,17 +1631,17 @@
   1: 0x0439 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x043A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x043B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=9622*)
+  4: 0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=9624*)
     → "How goes the adventuring life? Your new mission is from the Orastery, rightaru?"
   5: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0446 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
   7: 0x044D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0A)
-  8: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=9623*)
+  8: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=9625*)
     → "Minister Ajido-Marujido is the most super spell-slinger in Windurst. Or maybe that would be Doctor Shantotto?"
   9: 0x0457 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0458 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0B)
  11: 0x045F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0C)
- 12: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=9624*)
+ 12: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=9626*)
     → "I wonder who would win in a duel of dweomers? It would be a close match, don't you think?"
  13: 0x0469 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x046A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0D)
@@ -1676,13 +1676,13 @@
   1: 0x047A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x047B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x047C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=9639*)
+  4: 0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=9641*)
     → "The mages of the Orastery must all be in a flurry-scurry. The imprisonment of a minister is unprecedented."
   5: 0x0486 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0487 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
   7: 0x048E [0x6E] EventEntity uses emote 6*
   8: 0x0495 [0x99] Wait for EventEntity animation to complete
-  9: 0x049A [0x1D] PRINT_EVENT_MESSAGE(message_id=9640*)
+  9: 0x049A [0x1D] PRINT_EVENT_MESSAGE(message_id=9642*)
     → "What can be done to soothe the fury-wury of the Star Sibyl? No matter how much I ponder-wonder, I justaru can't think of anything!"
  10: 0x049D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x049E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1716,12 +1716,12 @@
   1: 0x04A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04A8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x04B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9650*)
+  4: 0x04B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9652*)
     → "Did you think things would get easier as your rank got higher?"
   5: 0x04B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
   7: 0x04BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x06)
-  8: 0x04C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9651*)
+  8: 0x04C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9653*)
     → "Heh-heh-heh, you've got it all topsy-turvy. There aren'taru too many high-ranked adventurers, so you get to do all the really difficultaru missions!"
   9: 0x04C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x07)
@@ -1755,12 +1755,12 @@
   1: 0x04D6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04D7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0A)
-  4: 0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9717*)
+  4: 0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9719*)
     → "Minister Rukususu is so dreamy-weamy. If she stays Minister of the Rhinostery, the number of members will go through the roof."
   5: 0x04E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0B)
   7: 0x04EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0C)
-  8: 0x04F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9718*)
+  8: 0x04F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9720*)
     → "Hm? How is she dreamy-weamy? How can you not know? It's that fragrance. I'm so head over heels, I can't think straight anymore."
   9: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0D)
@@ -1794,10 +1794,10 @@
   1: 0x0505 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0506 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0507 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=9767*)
+  4: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=9769*)
     → "Have you met Professor Koru-Moru? He's the very, um, unique professor in Windurst Walls."
   5: 0x0511 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=9768*)
+  6: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=9770*)
     → "He once retired as the principal of the School of Magic, but due to an incidentaru a couple of years ago, he was reinstated."
   7: 0x0515 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0516 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1831,10 +1831,10 @@
   1: 0x0526 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0527 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0528 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=9816*)
+  4: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=9818*)
     → "Minister Apururu hates it when people call her "Miss Minster Apururu," so everybody leaves off the "Miss"."
   5: 0x0532 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0533 [0x1D] PRINT_EVENT_MESSAGE(message_id=9817*)
+  6: 0x0533 [0x1D] PRINT_EVENT_MESSAGE(message_id=9819*)
     → "She's also the youngest of the five ministers, but probably works the hardest at managing her ministry. It's still in the red, though..."
   7: 0x0536 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0537 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
@@ -1869,12 +1869,12 @@
   1: 0x0547 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0548 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0549 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x0550 [0x1D] PRINT_EVENT_MESSAGE(message_id=10056*)
+  4: 0x0550 [0x1D] PRINT_EVENT_MESSAGE(message_id=10058*)
     → "You probably don't know who Minister Ajido-Marujido and Miss Apururu's father is, do you?"
   5: 0x0553 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0554 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
   7: 0x055B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x03)
-  8: 0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=10057*)
+  8: 0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=10059*)
     → "Huh, your expression says otherwise. Has it become that well-known? I guess that was a silly-billy question to ask a well-connected adventurer like yourself."
   9: 0x0565 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0566 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x04)
@@ -1908,12 +1908,12 @@
   1: 0x0576 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0577 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0578 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0A)
-  4: 0x057F [0x1D] PRINT_EVENT_MESSAGE(message_id=10063*)
+  4: 0x057F [0x1D] PRINT_EVENT_MESSAGE(message_id=10065*)
     → "We have heard accounts of roguey-wogue Cardians crossing Sarutabaruta. Have you heard or seen anything?"
   5: 0x0582 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0583 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0B)
   7: 0x058A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0C)
-  8: 0x0591 [0x1D] PRINT_EVENT_MESSAGE(message_id=10064*)
+  8: 0x0591 [0x1D] PRINT_EVENT_MESSAGE(message_id=10066*)
     → "If we don't get confirmation for these sightings, we can't make a report to Heavens Tower. For the momentaru, I have my subordinates looking into it..."
   9: 0x0594 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0595 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x0D)
@@ -1947,13 +1947,13 @@
   1: 0x05A5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05A6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x05AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10077*)
+  4: 0x05AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10079*)
     → "Isn'taru it about time for the five ministries to have their meeting?"
   5: 0x05B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
   7: 0x05B9 [0x6E] EventEntity uses emote 6*
   8: 0x05C0 [0x99] Wait for EventEntity animation to complete
-  9: 0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10078*)
+  9: 0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10080*)
     → "But with the way things have been lately-wately, I wouldn'taru be surprised if they skip-pipped it. Minister Ajido-Marujido hasn't even returned to the Orastery yet."
  10: 0x05C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x05C9 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1987,13 +1987,13 @@
   1: 0x05D2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05D3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x01)
-  4: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10088*)
+  4: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10090*)
     → "I have a distantaru relative, an adventurer by trade, who said he had seen a Tarutaru being held captive by mandragora in a dungeon somewhere."
   5: 0x05DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Panna-Donna (ID: 17752077/0x010EE00D), tag_num=0x02)
   7: 0x05E6 [0x6E] EventEntity uses emote 6*
   8: 0x05ED [0x99] Wait for EventEntity animation to complete
-  9: 0x05F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10089*)
+  9: 0x05F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10091*)
     → "Could that be the missing Principal of the Aurastery, perhaps? If it is, maybe it would be bestaru just to leave things well alone."
  10: 0x05F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x05F6 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

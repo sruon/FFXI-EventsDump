@@ -21,10 +21,10 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D80      |        7552 |
+|       0 | 0x1D82      |        7554 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1D81      |        7553 |
+|       3 | 0x1D83      |        7555 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0011      |          17 |
 |       6 | 0x001E      |          30 |
@@ -34,18 +34,18 @@
 |      10 | 0x000E      |          14 |
 |      11 | 0x000F      |          15 |
 |      12 | 0x0010      |          16 |
-|      13 | 0x1D90      |        7568 |
+|      13 | 0x1D92      |        7570 |
 |      14 | 0x0003      |           3 |
 |      15 | 0x0004      |           4 |
 |      16 | 0x0005      |           5 |
 |      17 | 0x0006      |           6 |
-|      18 | 0x1D9A      |        7578 |
+|      18 | 0x1D9C      |        7580 |
 |      19 | 0x001B      |          27 |
 |      20 | 0x15180     |       86400 |
-|      21 | 0x1D9F      |        7583 |
+|      21 | 0x1DA1      |        7585 |
 |      22 | 0x0020      |          32 |
 |      23 | 0x0008      |           8 |
-|      24 | 0x1D9B      |        7579 |
+|      24 | 0x1D9D      |        7581 |
 |      25 | 0x0007      |           7 |
 |      26 | 0x0021      |          33 |
 |      27 | 0x0022      |          34 |
@@ -54,17 +54,17 @@
 |      30 | 0x000A      |          10 |
 |      31 | 0x0024      |          36 |
 |      32 | 0x0025      |          37 |
-|      33 | 0x1D91      |        7569 |
+|      33 | 0x1D93      |        7571 |
 |      34 | 0x0E10      |        3600 |
 |      35 | 0x003C      |          60 |
 |      36 | 0x0014      |          20 |
 |      37 | 0x0018      |          24 |
-|      38 | 0x1D92      |        7570 |
+|      38 | 0x1D94      |        7572 |
 |      39 | 0x0017      |          23 |
-|      40 | 0x1D93      |        7571 |
-|      41 | 0x1D9C      |        7580 |
+|      40 | 0x1D95      |        7573 |
+|      41 | 0x1D9E      |        7582 |
 |      42 | 0x001A      |          26 |
-|      43 | 0x1D9D      |        7581 |
+|      43 | 0x1D9F      |        7583 |
 |      44 | 0x0994      |        2452 |
 |      45 | 0x0995      |        2453 |
 |      46 | 0x0A52      |        2642 |
@@ -89,25 +89,25 @@
 |      65 | 0x0A65      |        2661 |
 |      66 | 0x0A66      |        2662 |
 |      67 | 0x0A67      |        2663 |
-|      68 | 0x1D9E      |        7582 |
+|      68 | 0x1DA0      |        7584 |
 |      69 | 0x003D      |          61 |
-|      70 | 0x1D83      |        7555 |
+|      70 | 0x1D85      |        7557 |
 |      71 | 0x095E      |        2398 |
-|      72 | 0x1D5D      |        7517 |
+|      72 | 0x1D5F      |        7519 |
 |      73 | 0x0029      |          41 |
-|      74 | 0x1DA9      |        7593 |
+|      74 | 0x1DAB      |        7595 |
 |      75 | 0x0047      |          71 |
-|      76 | 0x1DB5      |        7605 |
+|      76 | 0x1DB7      |        7607 |
 |      77 | 0x00FF      |         255 |
 |      78 | 0x004B      |          75 |
 |      79 | 0x004C      |          76 |
 |      80 | 0x004D      |          77 |
 |      81 | 0x004E      |          78 |
-|      82 | 0x18F8      |        6392 |
-|      83 | 0x1D82      |        7554 |
-|      84 | 0x1D84      |        7556 |
-|      85 | 0x1D86      |        7558 |
-|      86 | 0x1D87      |        7559 |
+|      82 | 0x18FA      |        6394 |
+|      83 | 0x1D84      |        7556 |
+|      84 | 0x1D86      |        7558 |
+|      85 | 0x1D88      |        7560 |
+|      86 | 0x1D89      |        7561 |
 |      87 | 0x0043      |          67 |
 |      88 | 0x001C      |          28 |
 |      89 | 0x0012      |          18 |
@@ -134,27 +134,27 @@
 
 ## String References
 
-- **6392**: Obtained $0 gil.
-- **7517**: $1 star[/s] on your $3 [has/have] come aglow. A total of $2 star[/s] twinkle[s/] softly inside your $3.
-- **7552**: Choose! [Rank settings./Furrow graphics test./Assistant settings./Furrow time settings./Flags./Star twinkles./Default settings./M Settings./I choose not to choose.]
-- **7553**: Which furrow? [Furrow, the first./Furrow, the second./Furrow, the third./None.]
-- **7554**: 0:none 1:DOOR 2:mon 3:furn
-- **7555**: Function Input
-- **7556**: Additional ones (0-3)
-- **7558**: Choose! [Furrows (RANK: $0)./Grove (RANK: $1)./Vein (RANK: $2)./Pond (RANK: $3)./Coast (RANK: $4)./M (RANK: $5)./No!]
-- **7559**: The [furrows are/grove is/vein is/pond is/coast is/M is] now rank $6.
-- **7568**: Switch assistant stuff. [AS1_1F[Display/Hide]/AS1_2F[Display/Hide]/AS2_1$6898779splay/Hide]/AS2_2F[Display/Hide]/AS3_1F[Display/Hide]/AS3_2F[Display/Hide]/AS1FContract Extension./AS2FContract Extension./AS3FContract Extension./AS1FClear Contract./AS2FClear Contract./AS3FClear Contract./Nope.]
-- **7569**: Time'll only change by the amount you set. [Day: $0/Hour: $1/Minute: $2/Second: $3/Fast forward./Rewind./Input palette settings.]
-- **7570**: Jumping forward in time $8 days, $9 hours, $10 minutes, and $11 seconds.
-- **7571**: Traveling back in time $8 days, $9 hours, $10 minutes, and $11 seconds.
-- **7578**: ---y BASIC z---
-- **7579**: ----y ADD z----
-- **7580**: Flag Settings [Can pick up flotsom./Ashifuragu./Key items./Quit.]
-- **7581**: Who? [Mithra./Qiqirn./Meeble./No one.]
-- **7582**: Which? [3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./None.]
-- **7583**: ABS.TIMEF$0 LEFTF$1sec.($2days)
-- **7593**: Which? [Recalculate./0./1.".".]
-- **7605**: Debug Away! [Species./Stage./Parameter A./Parameter B./Status.]
+- **6394**: Obtained $0 gil.
+- **7519**: $1 star[/s] on your $3 [has/have] come aglow. A total of $2 star[/s] twinkle[s/] softly inside your $3.
+- **7554**: Choose! [Rank settings./Furrow graphics test./Assistant settings./Furrow time settings./Flags./Star twinkles./Default settings./M Settings./I choose not to choose.]
+- **7555**: Which furrow? [Furrow, the first./Furrow, the second./Furrow, the third./None.]
+- **7556**: 0:none 1:DOOR 2:mon 3:furn
+- **7557**: Function Input
+- **7558**: Additional ones (0-3)
+- **7560**: Choose! [Furrows (RANK: $0)./Grove (RANK: $1)./Vein (RANK: $2)./Pond (RANK: $3)./Coast (RANK: $4)./M (RANK: $5)./No!]
+- **7561**: The [furrows are/grove is/vein is/pond is/coast is/M is] now rank $6.
+- **7570**: Switch assistant stuff. [AS1_1F[Display/Hide]/AS1_2F[Display/Hide]/AS2_1$6898779splay/Hide]/AS2_2F[Display/Hide]/AS3_1F[Display/Hide]/AS3_2F[Display/Hide]/AS1FContract Extension./AS2FContract Extension./AS3FContract Extension./AS1FClear Contract./AS2FClear Contract./AS3FClear Contract./Nope.]
+- **7571**: Time'll only change by the amount you set. [Day: $0/Hour: $1/Minute: $2/Second: $3/Fast forward./Rewind./Input palette settings.]
+- **7572**: Jumping forward in time $8 days, $9 hours, $10 minutes, and $11 seconds.
+- **7573**: Traveling back in time $8 days, $9 hours, $10 minutes, and $11 seconds.
+- **7580**: ---y BASIC z---
+- **7581**: ----y ADD z----
+- **7582**: Flag Settings [Can pick up flotsom./Ashifuragu./Key items./Quit.]
+- **7583**: Who? [Mithra./Qiqirn./Meeble./No one.]
+- **7584**: Which? [3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./None.]
+- **7585**: ABS.TIMEF$0 LEFTF$1sec.($2days)
+- **7595**: Which? [Recalculate./0./1.".".]
+- **7607**: Debug Away! [Species./Stage./Parameter A./Parameter B./Status.]
 
 ## Events
 
@@ -359,14 +359,14 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7552*, default_option=0*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7554*, default_option=0*, option_flags=0*)
     → "Choose! [Rank settings./Furrow graphics test./Assistant settings./Furrow time settings./Flags./Star twinkles./Default settings./M Settings./I choose not to choose.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001C
   4: 0x0016 [0x1A] CALL_SUBROUTINE(address=0x0A62)
   5: 0x0019 [0x01] GOTO 0x09FD
   6: 0x001C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00BF
-  7: 0x0024 [0x24] CREATE_DIALOG(message_id=7553*, default_option=0*, option_flags=0*)
+  7: 0x0024 [0x24] CREATE_DIALOG(message_id=7555*, default_option=0*, option_flags=0*)
     → "Which furrow? [Furrow, the first./Furrow, the second./Furrow, the third./None.]"
   8: 0x002B [0x25] WAIT_DIALOG_SELECT()
   9: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x005B
@@ -434,7 +434,7 @@ SUBROUTINE_012B:
  59: 0x013A [0x03] Work_Zone[7] = 0*
 
 SUBROUTINE_013F:
- 60: 0x013F [0x24] CREATE_DIALOG(message_id=7568*, default_option=0*, option_flags=0*)
+ 60: 0x013F [0x24] CREATE_DIALOG(message_id=7570*, default_option=0*, option_flags=0*)
     → "Switch assistant stuff. [AS1_1F[Display/Hide]/AS1_2F[Display/Hide]/AS2_1$6898779splay/Hide]/AS2_2F[Display/Hide]/AS3_1F[Display/Hide]/AS3_2F[Display/Hide]/AS1FContract Extension./AS2FContract Extension./AS3FContract Extension./AS1FClear Contract./AS2FClear Contract./AS3FClear Contract./Nope.]"
  61: 0x0146 [0x25] WAIT_DIALOG_SELECT()
  62: 0x0147 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016A
@@ -486,7 +486,7 @@ SUBROUTINE_01F3:
 SUBROUTINE_0216:
  97: 0x0216 [0x01] GOTO 0x0501
  98: 0x0219 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x02B4
- 99: 0x0221 [0x48] [System] [7578*]:
+ 99: 0x0221 [0x48] [System] [7580*]:
     → "---y BASIC z---"
 100: 0x0224 [0x03] Work_Zone[1] = 27*
 101: 0x0229 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -505,7 +505,7 @@ SUBROUTINE_0256:
 112: 0x025B [0x07] Work_Zone[4] += ExtData[1]->WorkLocal[7]
 113: 0x0260 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
 114: 0x0265 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-115: 0x026A [0x48] [System] [7583*]:
+115: 0x026A [0x48] [System] [7585*]:
     → "ABS.TIMEF$0 LEFTF$1sec.($2days)"
 116: 0x026D [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
 117: 0x0271 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])
@@ -519,13 +519,13 @@ SUBROUTINE_0256:
 125: 0x0299 [0x3F] Work_Zone[5] = Work_Zone[3] % 86400*
 126: 0x02A0 [0x02] IF !(Work_Zone[5] <= 0*) GOTO 0x02AB
 127: 0x02A8 [0x0B] Work_Zone[4]++
-128: 0x02AB [0x48] [System] [7579*]:
+128: 0x02AB [0x48] [System] [7581*]:
     → "----y ADD z----"
-129: 0x02AE [0x48] [System] [7583*]:
+129: 0x02AE [0x48] [System] [7585*]:
     → "ABS.TIMEF$0 LEFTF$1sec.($2days)"
 130: 0x02B1 [0x01] GOTO 0x0501
 131: 0x02B4 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x034F
-132: 0x02BC [0x48] [System] [7578*]:
+132: 0x02BC [0x48] [System] [7580*]:
     → "---y BASIC z---"
 133: 0x02BF [0x03] Work_Zone[1] = 27*
 134: 0x02C4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -544,7 +544,7 @@ SUBROUTINE_02F1:
 145: 0x02F6 [0x07] Work_Zone[4] += ExtData[1]->WorkLocal[7]
 146: 0x02FB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
 147: 0x0300 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-148: 0x0305 [0x48] [System] [7583*]:
+148: 0x0305 [0x48] [System] [7585*]:
     → "ABS.TIMEF$0 LEFTF$1sec.($2days)"
 149: 0x0308 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
 150: 0x030C [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])
@@ -558,13 +558,13 @@ SUBROUTINE_02F1:
 158: 0x0334 [0x3F] Work_Zone[5] = Work_Zone[3] % 86400*
 159: 0x033B [0x02] IF !(Work_Zone[5] <= 0*) GOTO 0x0346
 160: 0x0343 [0x0B] Work_Zone[4]++
-161: 0x0346 [0x48] [System] [7579*]:
+161: 0x0346 [0x48] [System] [7581*]:
     → "----y ADD z----"
-162: 0x0349 [0x48] [System] [7583*]:
+162: 0x0349 [0x48] [System] [7585*]:
     → "ABS.TIMEF$0 LEFTF$1sec.($2days)"
 163: 0x034C [0x01] GOTO 0x0501
 164: 0x034F [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x03EA
-165: 0x0357 [0x48] [System] [7578*]:
+165: 0x0357 [0x48] [System] [7580*]:
     → "---y BASIC z---"
 166: 0x035A [0x03] Work_Zone[1] = 27*
 167: 0x035F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -583,7 +583,7 @@ SUBROUTINE_038C:
 178: 0x0391 [0x07] Work_Zone[4] += ExtData[1]->WorkLocal[7]
 179: 0x0396 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
 180: 0x039B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-181: 0x03A0 [0x48] [System] [7583*]:
+181: 0x03A0 [0x48] [System] [7585*]:
     → "ABS.TIMEF$0 LEFTF$1sec.($2days)"
 182: 0x03A3 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
 183: 0x03A7 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])
@@ -597,9 +597,9 @@ SUBROUTINE_038C:
 191: 0x03CF [0x3F] Work_Zone[5] = Work_Zone[3] % 86400*
 192: 0x03D6 [0x02] IF !(Work_Zone[5] <= 0*) GOTO 0x03E1
 193: 0x03DE [0x0B] Work_Zone[4]++
-194: 0x03E1 [0x48] [System] [7579*]:
+194: 0x03E1 [0x48] [System] [7581*]:
     → "----y ADD z----"
-195: 0x03E4 [0x48] [System] [7583*]:
+195: 0x03E4 [0x48] [System] [7585*]:
     → "ABS.TIMEF$0 LEFTF$1sec.($2days)"
 196: 0x03E7 [0x01] GOTO 0x0501
 197: 0x03EA [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0447
@@ -623,7 +623,7 @@ SUBROUTINE_042D:
 213: 0x0432 [0x07] Work_Zone[4] += ExtData[1]->WorkLocal[7]
 214: 0x0437 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
 215: 0x043C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-216: 0x0441 [0x48] [System] [7583*]:
+216: 0x0441 [0x48] [System] [7585*]:
     → "ABS.TIMEF$0 LEFTF$1sec.($2days)"
 217: 0x0444 [0x01] GOTO 0x0501
 218: 0x0447 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x04A4
@@ -647,7 +647,7 @@ SUBROUTINE_048A:
 234: 0x048F [0x07] Work_Zone[4] += ExtData[1]->WorkLocal[7]
 235: 0x0494 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
 236: 0x0499 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-237: 0x049E [0x48] [System] [7583*]:
+237: 0x049E [0x48] [System] [7585*]:
     → "ABS.TIMEF$0 LEFTF$1sec.($2days)"
 238: 0x04A1 [0x01] GOTO 0x0501
 239: 0x04A4 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0501
@@ -671,7 +671,7 @@ SUBROUTINE_04E7:
 255: 0x04EC [0x07] Work_Zone[4] += ExtData[1]->WorkLocal[7]
 256: 0x04F1 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
 257: 0x04F6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-258: 0x04FB [0x48] [System] [7583*]:
+258: 0x04FB [0x48] [System] [7585*]:
     → "ABS.TIMEF$0 LEFTF$1sec.($2days)"
 259: 0x04FE [0x01] GOTO 0x0501
 
@@ -679,7 +679,7 @@ SUBROUTINE_0501:
 260: 0x0501 [0x1A] CALL_SUBROUTINE(address=0x10CA)
 261: 0x0504 [0x01] GOTO 0x09FD
 262: 0x0507 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x06FF
-263: 0x050F [0x24] CREATE_DIALOG(message_id=7553*, default_option=0*, option_flags=0*)
+263: 0x050F [0x24] CREATE_DIALOG(message_id=7555*, default_option=0*, option_flags=0*)
     → "Which furrow? [Furrow, the first./Furrow, the second./Furrow, the third./None.]"
 264: 0x0516 [0x25] WAIT_DIALOG_SELECT()
 265: 0x0517 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0527
@@ -703,7 +703,7 @@ SUBROUTINE_054C:
 279: 0x0559 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
 280: 0x055E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[6]
 281: 0x0563 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[7]
-282: 0x0568 [0x24] CREATE_DIALOG(message_id=7569*, default_option=0*, option_flags=0*)
+282: 0x0568 [0x24] CREATE_DIALOG(message_id=7571*, default_option=0*, option_flags=0*)
     → "Time'll only change by the amount you set. [Day: $0/Hour: $1/Minute: $2/Second: $3/Fast forward./Rewind./Input palette settings.]"
 283: 0x056F [0x25] WAIT_DIALOG_SELECT()
 284: 0x0570 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0583
@@ -746,7 +746,7 @@ SUBROUTINE_054C:
 321: 0x062E [0x3F] Work_Zone_1700[2] = Work_Zone_1700[2] % 60*
 322: 0x0635 [0x03] Work_Zone_1700[3] = Work_Zone[9]
 323: 0x063A [0x3F] Work_Zone_1700[3] = Work_Zone_1700[3] % 60*
-324: 0x0641 [0x48] [System] [7570*]:
+324: 0x0641 [0x48] [System] [7572*]:
     → "Jumping forward in time $8 days, $9 hours, $10 minutes, and $11 seconds."
 325: 0x0644 [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x0645 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -777,7 +777,7 @@ SUBROUTINE_054C:
 351: 0x06C1 [0x3F] Work_Zone_1700[2] = Work_Zone_1700[2] % 60*
 352: 0x06C8 [0x03] Work_Zone_1700[3] = Work_Zone[9]
 353: 0x06CD [0x3F] Work_Zone_1700[3] = Work_Zone_1700[3] % 60*
-354: 0x06D4 [0x48] [System] [7571*]:
+354: 0x06D4 [0x48] [System] [7573*]:
     → "Traveling back in time $8 days, $9 hours, $10 minutes, and $11 seconds."
 355: 0x06D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x06D8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -795,14 +795,14 @@ SUBROUTINE_06F9:
 366: 0x06F9 [0x01] GOTO 0x054C
 367: 0x06FC [0x01] GOTO 0x09FD
 368: 0x06FF [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x084F
-369: 0x0707 [0x24] CREATE_DIALOG(message_id=7580*, default_option=0*, option_flags=0*)
+369: 0x0707 [0x24] CREATE_DIALOG(message_id=7582*, default_option=0*, option_flags=0*)
     → "Flag Settings [Can pick up flotsom./Ashifuragu./Key items./Quit.]"
 370: 0x070E [0x25] WAIT_DIALOG_SELECT()
 371: 0x070F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x071F
 372: 0x0717 [0x03] Work_Zone[1] = 26*
 373: 0x071C [0x01] GOTO 0x084C
 374: 0x071F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0795
-375: 0x0727 [0x24] CREATE_DIALOG(message_id=7581*, default_option=0*, option_flags=0*)
+375: 0x0727 [0x24] CREATE_DIALOG(message_id=7583*, default_option=0*, option_flags=0*)
     → "Who? [Mithra./Qiqirn./Meeble./No one.]"
 376: 0x072E [0x25] WAIT_DIALOG_SELECT()
 377: 0x072F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0750
@@ -851,7 +851,7 @@ SUBROUTINE_0792:
 418: 0x0806 [0x03] Work_Zone_1700[13] = 2661*
 419: 0x080B [0x03] Work_Zone_1700[14] = 2662*
 420: 0x0810 [0x03] Work_Zone_1700[15] = 2663*
-421: 0x0815 [0x24] CREATE_DIALOG(message_id=7582*, default_option=0*, option_flags=0*)
+421: 0x0815 [0x24] CREATE_DIALOG(message_id=7584*, default_option=0*, option_flags=0*)
     → "Which? [3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./None.]"
 422: 0x081C [0x25] WAIT_DIALOG_SELECT()
 423: 0x081D [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x0828
@@ -869,7 +869,7 @@ SUBROUTINE_083E:
 SUBROUTINE_084C:
 432: 0x084C [0x01] GOTO 0x09FD
 433: 0x084F [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0885
-434: 0x0857 [0x48] [System] [7555*]:
+434: 0x0857 [0x48] [System] [7557*]:
     → "Function Input"
 435: 0x085A [0x23] WAIT_FOR_DIALOG_INTERACTION
 436: 0x085B [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -879,7 +879,7 @@ SUBROUTINE_084C:
 440: 0x0875 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 441: 0x0877 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 442: 0x0879 [0x03] Work_Zone[2] = 2398*
-443: 0x087E [0x48] [System] [7517*]:
+443: 0x087E [0x48] [System] [7519*]:
     → "$1 star[/s] on your $3 [has/have] come aglow. A total of $2 star[/s] twinkle[s/] softly inside your $3."
 444: 0x0881 [0x23] WAIT_FOR_DIALOG_INTERACTION
 445: 0x0882 [0x01] GOTO 0x09FD
@@ -887,7 +887,7 @@ SUBROUTINE_084C:
 447: 0x088D [0x03] Work_Zone[1] = 41*
 448: 0x0892 [0x01] GOTO 0x09FD
 449: 0x0895 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x09FD
-450: 0x089D [0x24] CREATE_DIALOG(message_id=7593*, default_option=0*, option_flags=0*)
+450: 0x089D [0x24] CREATE_DIALOG(message_id=7595*, default_option=0*, option_flags=0*)
     → "Which? [Recalculate./0./1.".".]"
 451: 0x08A4 [0x25] WAIT_DIALOG_SELECT()
 452: 0x08A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08BB
@@ -900,7 +900,7 @@ SUBROUTINE_084C:
 SUBROUTINE_08BB:
 458: 0x08BB [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[0]
 459: 0x08C0 [0x0C] ExtData[1]->WorkLocal[8]--
-460: 0x08C3 [0x24] CREATE_DIALOG(message_id=7605*, default_option=0*, option_flags=0*)
+460: 0x08C3 [0x24] CREATE_DIALOG(message_id=7607*, default_option=0*, option_flags=0*)
     → "Debug Away! [Species./Stage./Parameter A./Parameter B./Status.]"
 461: 0x08CA [0x25] WAIT_DIALOG_SELECT()
 462: 0x08CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0916
@@ -1415,7 +1415,7 @@ SUBROUTINE_09FD:
 #### Opcodes
 
 ```
-  0: 0x09FF [0x48] [System] [6392*]:
+  0: 0x09FF [0x48] [System] [6394*]:
     → "Obtained $0 gil."
   1: 0x0A02 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0A03 [0x00] END_REQSTACK()
@@ -1425,7 +1425,7 @@ SUBROUTINE_09FD:
 
 ```
 # Dead code (unreachable instructions):
-     0x0A04 [0x48] [System] [7554*]:
+     0x0A04 [0x48] [System] [7556*]:
     → "0:none 1:DOOR 2:mon 3:furn"
      0x0A07 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
      0x0A0B [0x71] USER_INPUT_HANDLER: Process numerical input A (work=ExtData[1]->WorkLocal[0])
@@ -1435,12 +1435,12 @@ SUBROUTINE_09FD:
      0x0A1F [0x02] IF !(ExtData[1]->WorkLocal[0] <= 3*) GOTO 0x0A2C
      0x0A27 [0x03] ExtData[1]->WorkLocal[0] = 3*
      0x0A2C [0x1B] RETURN
-     0x0A2D [0x48] [System] [7555*]:
+     0x0A2D [0x48] [System] [7557*]:
     → "Function Input"
      0x0A30 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
      0x0A34 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=ExtData[1]->WorkLocal[0])
      0x0A38 [0x1B] RETURN
-     0x0A39 [0x48] [System] [7556*]:
+     0x0A39 [0x48] [System] [7558*]:
     → "Additional ones (0-3)"
      0x0A3C [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
      0x0A40 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=ExtData[1]->WorkLocal[0])
@@ -1450,7 +1450,7 @@ SUBROUTINE_09FD:
      0x0A54 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 3*) GOTO 0x0A61
      0x0A5C [0x03] ExtData[1]->WorkLocal[0] = 3*
      0x0A61 [0x1B] RETURN
-     0x0A62 [0x24] CREATE_DIALOG(message_id=7558*, default_option=0*, option_flags=0*)
+     0x0A62 [0x24] CREATE_DIALOG(message_id=7560*, default_option=0*, option_flags=0*)
     → "Choose! [Furrows (RANK: $0)./Grove (RANK: $1)./Vein (RANK: $2)./Pond (RANK: $3)./Coast (RANK: $4)./M (RANK: $5)./No!]"
      0x0A69 [0x25] WAIT_DIALOG_SELECT()
      0x0A6A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A98
@@ -1461,7 +1461,7 @@ SUBROUTINE_09FD:
      0x0A85 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0A87 [0x03] Work_Zone[7] = 0*
      0x0A8C [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[0]
-     0x0A91 [0x48] [System] [7559*]:
+     0x0A91 [0x48] [System] [7561*]:
     → "The [furrows are/grove is/vein is/pond is/coast is/M is] now rank $6."
      0x0A94 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A95 [0x01] GOTO 0x0B7E
@@ -1473,7 +1473,7 @@ SUBROUTINE_09FD:
      0x0AB3 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0AB5 [0x03] Work_Zone[7] = 1*
      0x0ABA [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[0]
-     0x0ABF [0x48] [System] [7559*]:
+     0x0ABF [0x48] [System] [7561*]:
     → "The [furrows are/grove is/vein is/pond is/coast is/M is] now rank $6."
      0x0AC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AC3 [0x01] GOTO 0x0B7E
@@ -1485,7 +1485,7 @@ SUBROUTINE_09FD:
      0x0AE1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0AE3 [0x03] Work_Zone[7] = 2*
      0x0AE8 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[0]
-     0x0AED [0x48] [System] [7559*]:
+     0x0AED [0x48] [System] [7561*]:
     → "The [furrows are/grove is/vein is/pond is/coast is/M is] now rank $6."
      0x0AF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AF1 [0x01] GOTO 0x0B7E
@@ -1497,7 +1497,7 @@ SUBROUTINE_09FD:
      0x0B0F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0B11 [0x03] Work_Zone[7] = 3*
      0x0B16 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[0]
-     0x0B1B [0x48] [System] [7559*]:
+     0x0B1B [0x48] [System] [7561*]:
     → "The [furrows are/grove is/vein is/pond is/coast is/M is] now rank $6."
      0x0B1E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B1F [0x01] GOTO 0x0B7E
@@ -1509,7 +1509,7 @@ SUBROUTINE_09FD:
      0x0B3D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0B3F [0x03] Work_Zone[7] = 4*
      0x0B44 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[0]
-     0x0B49 [0x48] [System] [7559*]:
+     0x0B49 [0x48] [System] [7561*]:
     → "The [furrows are/grove is/vein is/pond is/coast is/M is] now rank $6."
      0x0B4C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B4D [0x01] GOTO 0x0B7E
@@ -1521,7 +1521,7 @@ SUBROUTINE_09FD:
      0x0B6B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0B6D [0x03] Work_Zone[7] = 5*
      0x0B72 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[0]
-     0x0B77 [0x48] [System] [7559*]:
+     0x0B77 [0x48] [System] [7561*]:
     → "The [furrows are/grove is/vein is/pond is/coast is/M is] now rank $6."
      0x0B7A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B7B [0x01] GOTO 0x0B7E

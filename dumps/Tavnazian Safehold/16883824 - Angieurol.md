@@ -22,15 +22,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x004B      |          75 |
-|       1 | 0x2B51      |       11089 |
-|       2 | 0x2B52      |       11090 |
-|       3 | 0x2B53      |       11091 |
-|       4 | 0x2B54      |       11092 |
+|       1 | 0x2B53      |       11091 |
+|       2 | 0x2B54      |       11092 |
+|       3 | 0x2B55      |       11093 |
+|       4 | 0x2B56      |       11094 |
 
 ## String References
 
-- **11089**: All the adults say it's too dangerous to go outside and play on the coast, but I'm sick of spending all day locked up in this cave.
-- **11091**: Lo\`ok what Ma\`kki ga\`ve me!t
+- **11091**: All the adults say it's too dangerous to go outside and play on the coast, but I'm sick of spending all day locked up in this cave.
+- **11093**: Lo\`ok what Ma\`kki ga\`ve me!t
 
 ## Events
 
@@ -80,12 +80,12 @@
 
 ```
   0: 0x0001 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
-  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=11089*)
+  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=11091*)
     → "All the adults say it's too dangerous to go outside and play on the coast, but I'm sick of spending all day locked up in this cave."
   2: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0014 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=75*
   4: 0x0023 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Evindigar (ID: 16883825/0x0101A071), Evindigar (ID: 16883825/0x0101A071)], work=75*
-  5: 0x0032 [0x2B] Evindigar (ID: 16883825/0x0101A071) [11090*]:
+  5: 0x0032 [0x2B] Evindigar (ID: 16883825/0x0101A071) [11092*]:
     → "Yeah, I wish we could go out adventuring like the Chebukkis!"
   6: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x003A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Evindigar (ID: 16883825/0x0101A071), Evindigar (ID: 16883825/0x0101A071)], work=75*
@@ -118,12 +118,12 @@
 
 ```
   0: 0x004B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
-  1: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=11091*)
+  1: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=11093*)
     → "Lo`ok what Ma`kki ga`ve me!t"
   2: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x005E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=75*
   4: 0x006D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Evindigar (ID: 16883825/0x0101A071), Evindigar (ID: 16883825/0x0101A071)], work=75*
-  5: 0x007C [0x2B] Evindigar (ID: 16883825/0x0101A071) [11092*]:
+  5: 0x007C [0x2B] Evindigar (ID: 16883825/0x0101A071) [11094*]:
     → "Hey! Kukki said that he was going to give that to me! I'm telling my mommy!"
   6: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0084 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Evindigar (ID: 16883825/0x0101A071), Evindigar (ID: 16883825/0x0101A071)], work=75*

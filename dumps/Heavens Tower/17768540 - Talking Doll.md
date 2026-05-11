@@ -25,23 +25,23 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F2B      |        7979 |
-|       1 | 0x1F30      |        7984 |
-|       2 | 0x1F31      |        7985 |
-|       3 | 0x1F35      |        7989 |
-|       4 | 0x1F36      |        7990 |
-|       5 | 0x1F38      |        7992 |
-|       6 | 0x1F3B      |        7995 |
+|       0 | 0x1F2D      |        7981 |
+|       1 | 0x1F32      |        7986 |
+|       2 | 0x1F33      |        7987 |
+|       3 | 0x1F37      |        7991 |
+|       4 | 0x1F38      |        7992 |
+|       5 | 0x1F3A      |        7994 |
+|       6 | 0x1F3D      |        7997 |
 
 ## String References
 
-- **7979**: Nowhere to go! Ha! You are trapped! Ha! Wasn't very smart to enter such small room!
-- **7984**: That's right! Ha! Destroy me, destroy yourselves! Ha!
-- **7985**: I'm special! Ha! Thanks to me, you made it here! Thanks to me! Ha!
-- **7989**: Too late! Ha! Demons approaching from west! Quiet or loud, you're dead! Ha!
-- **7990**: Don't try hiding! You're doomed anyway! Ha! Only I will be safe! Ha!
-- **7992**: What are you doing!? You can't do this to me!
-- **7995**: Witch! You evil witch! Curse you and all of Windurst!
+- **7981**: Nowhere to go! Ha! You are trapped! Ha! Wasn't very smart to enter such small room!
+- **7986**: That's right! Ha! Destroy me, destroy yourselves! Ha!
+- **7987**: I'm special! Ha! Thanks to me, you made it here! Thanks to me! Ha!
+- **7991**: Too late! Ha! Demons approaching from west! Quiet or loud, you're dead! Ha!
+- **7992**: Don't try hiding! You're doomed anyway! Ha! Only I will be safe! Ha!
+- **7994**: What are you doing!? You can't do this to me!
+- **7997**: Witch! You evil witch! Curse you and all of Windurst!
 
 ## Events
 
@@ -108,7 +108,7 @@
 #### Opcodes
 
 ```
-  0: 0x0002 [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
+  0: 0x0002 [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
     → "Nowhere to go! Ha! You are trapped! Ha! Wasn't very smart to enter such small room!"
   1: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0006 [0x00] END_REQSTACK()
@@ -133,10 +133,10 @@
 #### Opcodes
 
 ```
-  0: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
+  0: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "That's right! Ha! Destroy me, destroy yourselves! Ha!"
   1: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
     → "I'm special! Ha! Thanks to me, you made it here! Thanks to me! Ha!"
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000F [0x00] END_REQSTACK()
@@ -161,10 +161,10 @@
 #### Opcodes
 
 ```
-  0: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
+  0: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "Too late! Ha! Demons approaching from west! Quiet or loud, you're dead! Ha!"
   1: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+  2: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Don't try hiding! You're doomed anyway! Ha! Only I will be safe! Ha!"
   3: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0018 [0x00] END_REQSTACK()
@@ -189,7 +189,7 @@
 #### Opcodes
 
 ```
-  0: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+  0: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
     → "What are you doing!? You can't do this to me!"
   1: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x001D [0x00] END_REQSTACK()
@@ -215,7 +215,7 @@
 #### Opcodes
 
 ```
-  0: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
+  0: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
     → "Witch! You evil witch! Curse you and all of Windurst!"
   1: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0022 [0x00] END_REQSTACK()

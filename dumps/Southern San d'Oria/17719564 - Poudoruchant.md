@@ -22,48 +22,48 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00FA      |         250 |
-|       1 | 0x27D9      |       10201 |
-|       2 | 0x27DA      |       10202 |
+|       1 | 0x27DB      |       10203 |
+|       2 | 0x27DC      |       10204 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x40000000  |  1073741824 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x27DB      |       10203 |
-|       7 | 0x27DC      |       10204 |
-|       8 | 0x27DD      |       10205 |
-|       9 | 0x27E0      |       10208 |
-|      10 | 0x27EC      |       10220 |
-|      11 | 0x27ED      |       10221 |
-|      12 | 0x27F3      |       10227 |
-|      13 | 0x27F4      |       10228 |
-|      14 | 0x27F5      |       10229 |
-|      15 | 0x27F6      |       10230 |
-|      16 | 0x27F7      |       10231 |
+|       6 | 0x27DD      |       10205 |
+|       7 | 0x27DE      |       10206 |
+|       8 | 0x27DF      |       10207 |
+|       9 | 0x27E2      |       10210 |
+|      10 | 0x27EE      |       10222 |
+|      11 | 0x27EF      |       10223 |
+|      12 | 0x27F5      |       10229 |
+|      13 | 0x27F6      |       10230 |
+|      14 | 0x27F7      |       10231 |
+|      15 | 0x27F8      |       10232 |
+|      16 | 0x27F9      |       10233 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x27DE      |       10206 |
-|      19 | 0x27FF      |       10239 |
-|      20 | 0x2800      |       10240 |
-|      21 | 0x2801      |       10241 |
-|      22 | 0x2802      |       10242 |
-|      23 | 0x2803      |       10243 |
-|      24 | 0x2804      |       10244 |
-|      25 | 0x27E1      |       10209 |
+|      18 | 0x27E0      |       10208 |
+|      19 | 0x2801      |       10241 |
+|      20 | 0x2802      |       10242 |
+|      21 | 0x2803      |       10243 |
+|      22 | 0x2804      |       10244 |
+|      23 | 0x2805      |       10245 |
+|      24 | 0x2806      |       10246 |
+|      25 | 0x27E3      |       10211 |
 |      26 | 0x0003      |           3 |
-|      27 | 0x27EE      |       10222 |
-|      28 | 0x27F0      |       10224 |
+|      27 | 0x27F0      |       10224 |
+|      28 | 0x27F2      |       10226 |
 |      29 | 0x0004      |           4 |
-|      30 | 0x27F1      |       10225 |
+|      30 | 0x27F3      |       10227 |
 |      31 | 0x0005      |           5 |
-|      32 | 0x27E5      |       10213 |
-|      33 | 0x27E6      |       10214 |
-|      34 | 0x27E7      |       10215 |
-|      35 | 0x27E8      |       10216 |
-|      36 | 0x27E9      |       10217 |
-|      37 | 0x27F8      |       10232 |
-|      38 | 0x27F9      |       10233 |
+|      32 | 0x27E7      |       10215 |
+|      33 | 0x27E8      |       10216 |
+|      34 | 0x27E9      |       10217 |
+|      35 | 0x27EA      |       10218 |
+|      36 | 0x27EB      |       10219 |
+|      37 | 0x27FA      |       10234 |
+|      38 | 0x27FB      |       10235 |
 |      39 | 0x003E      |          62 |
-|      40 | 0x27FE      |       10238 |
+|      40 | 0x2800      |       10240 |
 |      41 | 0xFFFFFFFE  |  4294967294 |
-|      42 | 0x27FA      |       10234 |
+|      42 | 0x27FC      |       10236 |
 |      43 | 0x0006      |           6 |
 |      44 | 0x0007      |           7 |
 |      45 | 0x0008      |           8 |
@@ -93,8 +93,8 @@
 |      69 | 0x0020      |          32 |
 |      70 | 0xFFFFFFFF  |  4294967295 |
 |      71 | 0x0030      |          48 |
-|      72 | 0x27FB      |       10235 |
-|      73 | 0x27FC      |       10236 |
+|      72 | 0x27FD      |       10237 |
+|      73 | 0x27FE      |       10238 |
 |      74 | 0x0060      |          96 |
 |      75 | 0x005C      |          92 |
 |      76 | 0x0021      |          33 |
@@ -123,7 +123,7 @@
 |      99 | 0x007E      |         126 |
 |     100 | 0x0046      |          70 |
 |     101 | 0x007F      |         127 |
-|     102 | 0x27FD      |       10237 |
+|     102 | 0x27FF      |       10239 |
 |     103 | 0x0073      |         115 |
 |     104 | 0x0074      |         116 |
 |     105 | 0x0075      |         117 |
@@ -303,42 +303,42 @@
 
 ## String References
 
-- **10201**: Do you have any items that you just can't let go of because of the fond memories attached to them? Are you worried about the space they take up in your Mog House? Well, worry no longer--I can store your items here!
-- **10202**: Do you require my services? [Not now, thanks./Tell me what I can store./Remove an item from storage.]
-- **10203**: Please select which type of item you would like to know about.
-- **10204**: Which type of item? [I've changed my mind./Furnishings 1./Furnishings 2./Weapons and shields./Armor - Head./Armor - Body, Legs, Feet.]
-- **10205**: I am currently offering storage service for the following '[Furnishings/Weapons and Shields/Armor/Armor]: 1. %". $1
-- **10206**: I am currently offering storage service for the following '[Furnishings/Weapons and Shields/Armor/Armor]: 1. %
-- **10208**: 3. $2 4. $3 5. $4 6. $5
-- **10209**: To store an item, trade it to me.
-- **10213**: 7. $6 8. $7 9. $8
-- **10214**: 10. $9 11. $10 12. $11
-- **10215**: 13. $12 14. $13 15. $14
-- **10216**: 16. $15 17. $16 18. $17
-- **10217**: 19. $18"0. $19"1. $20"2. $21"3. $22 To store an item, trade it to me.
-- **10220**: 7. $6 8. $7 9. $8
-- **10221**: 10. $9 11. $10 12. $11 13. $12
-- **10222**: 14. $13 15. $14 16. $15
-- **10224**: 17. $16 18. $17 19. $18"0. $19 To store an item, trade it to me.
-- **10225**: 17. $16 18. $17 19. $18 To store an item, trade it to me.
-- **10227**: 14. $13 15. $14 16. $15 17. $16
-- **10228**: 18. $17 19. $18"0. $19"1. $20
-- **10229**: 22. $21"3. $22"4. $23"5. $24
-- **10230**: 26. $25"7. $26"8. $27"9. $28
-- **10231**: 30. $29"1. $30 To store an item, trade it to me.
-- **10232**: Withdrawing an item will cost 250 gil.
-- **10233**: Please note that upon withdrawal, the recast time for enchanted items will be reset to the maximum level.
-- **10234**: Remove which item from storage? [I've changed my mind./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30.]
-- **10235**: A fee of 250 gil is required. Will you remove the $0 from storage?
-- **10236**: Do you wish to pay the fee? [Yes./Not at this time.]
-- **10237**: Do not worry. Your $0 is in good hands.
-- **10238**: You currently have no items in storage.
-- **10239**: 2. $1". $2 4. $3 5. $4
-- **10240**: 6. $5 7. $6 8. $7 9. $8
-- **10241**: 10. $9 11. $10 12. $11 13. $12 14. $13
-- **10242**: 15. $14 16. $15 17. $16
-- **10243**: 18. $17 19. $18"0. $19
-- **10244**: 21. $20"2. $21"3. $22"4. $23
+- **10203**: Do you have any items that you just can't let go of because of the fond memories attached to them? Are you worried about the space they take up in your Mog House? Well, worry no longer--I can store your items here!
+- **10204**: Do you require my services? [Not now, thanks./Tell me what I can store./Remove an item from storage.]
+- **10205**: Please select which type of item you would like to know about.
+- **10206**: Which type of item? [I've changed my mind./Furnishings 1./Furnishings 2./Weapons and shields./Armor - Head./Armor - Body, Legs, Feet.]
+- **10207**: I am currently offering storage service for the following '[Furnishings/Weapons and Shields/Armor/Armor]: 1. %". $1
+- **10208**: I am currently offering storage service for the following '[Furnishings/Weapons and Shields/Armor/Armor]: 1. %
+- **10210**: 3. $2 4. $3 5. $4 6. $5
+- **10211**: To store an item, trade it to me.
+- **10215**: 7. $6 8. $7 9. $8
+- **10216**: 10. $9 11. $10 12. $11
+- **10217**: 13. $12 14. $13 15. $14
+- **10218**: 16. $15 17. $16 18. $17
+- **10219**: 19. $18"0. $19"1. $20"2. $21"3. $22 To store an item, trade it to me.
+- **10222**: 7. $6 8. $7 9. $8
+- **10223**: 10. $9 11. $10 12. $11 13. $12
+- **10224**: 14. $13 15. $14 16. $15
+- **10226**: 17. $16 18. $17 19. $18"0. $19 To store an item, trade it to me.
+- **10227**: 17. $16 18. $17 19. $18 To store an item, trade it to me.
+- **10229**: 14. $13 15. $14 16. $15 17. $16
+- **10230**: 18. $17 19. $18"0. $19"1. $20
+- **10231**: 22. $21"3. $22"4. $23"5. $24
+- **10232**: 26. $25"7. $26"8. $27"9. $28
+- **10233**: 30. $29"1. $30 To store an item, trade it to me.
+- **10234**: Withdrawing an item will cost 250 gil.
+- **10235**: Please note that upon withdrawal, the recast time for enchanted items will be reset to the maximum level.
+- **10236**: Remove which item from storage? [I've changed my mind./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30.]
+- **10237**: A fee of 250 gil is required. Will you remove the $0 from storage?
+- **10238**: Do you wish to pay the fee? [Yes./Not at this time.]
+- **10239**: Do not worry. Your $0 is in good hands.
+- **10240**: You currently have no items in storage.
+- **10241**: 2. $1". $2 4. $3 5. $4
+- **10242**: 6. $5 7. $6 8. $7 9. $8
+- **10243**: 10. $9 11. $10 12. $11 13. $12 14. $13
+- **10244**: 15. $14 16. $15 17. $16
+- **10245**: 18. $17 19. $18"0. $19
+- **10246**: 21. $20"2. $21"3. $22"4. $23
 
 ## Events
 
@@ -578,10 +578,10 @@
 ```
   0: 0x0001 [0x03] Work_Zone_1700[23] = 250*
   1: 0x0006 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10201*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10203*)
     → "Do you have any items that you just can't let go of because of the fond memories attached to them? Are you worried about the space they take up in your Mog House? Well, worry no longer--I can store your items here!"
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000F [0x24] CREATE_DIALOG(message_id=10202*, default_option=0*, option_flags=0*)
+  4: 0x000F [0x24] CREATE_DIALOG(message_id=10204*, default_option=0*, option_flags=0*)
     → "Do you require my services? [Not now, thanks./Tell me what I can store./Remove an item from storage.]"
   5: 0x0016 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0017 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0029
@@ -590,10 +590,10 @@
   9: 0x0025 [0x00] END_REQSTACK()
 
 SUBROUTINE_013E:
- 10: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=10232*)
+ 10: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=10234*)
     → "Withdrawing an item will cost 250 gil."
  11: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=10233*)
+ 12: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
     → "Please note that upon withdrawal, the recast time for enchanted items will be reset to the maximum level."
  13: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0146 [0x03] Work_Zone[1] = 1073741824*
@@ -606,11 +606,11 @@ SUBROUTINE_0404:
  19: 0x040E [0x02] IF !(Work_Zone[1] < 16*) GOTO 0x041B
  20: 0x0416 [0x07] Work_Zone[1] += 48*
  21: 0x041B [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 22: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
+ 22: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
     → "A fee of 250 gil is required. Will you remove the $0 from storage?"
  23: 0x0421 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0422 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 25: 0x0425 [0x24] CREATE_DIALOG(message_id=10236*, default_option=1*, option_flags=0*)
+ 25: 0x0425 [0x24] CREATE_DIALOG(message_id=10238*, default_option=1*, option_flags=0*)
     → "Do you wish to pay the fee? [Yes./Not at this time.]"
  26: 0x042C [0x25] WAIT_DIALOG_SELECT()
  27: 0x042D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x043F
@@ -627,11 +627,11 @@ SUBROUTINE_05F8:
  34: 0x05FD [0x07] Work_Zone[1] += 4294967295*
  35: 0x0602 [0x07] Work_Zone[1] += 96*
  36: 0x0607 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 37: 0x060A [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
+ 37: 0x060A [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
     → "A fee of 250 gil is required. Will you remove the $0 from storage?"
  38: 0x060D [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x060E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 40: 0x0611 [0x24] CREATE_DIALOG(message_id=10236*, default_option=1*, option_flags=0*)
+ 40: 0x0611 [0x24] CREATE_DIALOG(message_id=10238*, default_option=1*, option_flags=0*)
     → "Do you wish to pay the fee? [Yes./Not at this time.]"
  41: 0x0618 [0x25] WAIT_DIALOG_SELECT()
  42: 0x0619 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x062B
@@ -655,11 +655,11 @@ SUBROUTINE_07A4:
  56: 0x07D5 [0x02] IF !(Work_Zone[1] == 35*) GOTO 0x07E2
  57: 0x07DD [0x03] Work_Zone[1] = 95*
  58: 0x07E2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 59: 0x07E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
+ 59: 0x07E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
     → "A fee of 250 gil is required. Will you remove the $0 from storage?"
  60: 0x07E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x07E9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 62: 0x07EC [0x24] CREATE_DIALOG(message_id=10236*, default_option=1*, option_flags=0*)
+ 62: 0x07EC [0x24] CREATE_DIALOG(message_id=10238*, default_option=1*, option_flags=0*)
     → "Do you wish to pay the fee? [Yes./Not at this time.]"
  63: 0x07F3 [0x25] WAIT_DIALOG_SELECT()
  64: 0x07F4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0806
@@ -686,11 +686,11 @@ SUBROUTINE_096F:
 
 SUBROUTINE_09A9:
  81: 0x09A9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 82: 0x09AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
+ 82: 0x09AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
     → "A fee of 250 gil is required. Will you remove the $0 from storage?"
  83: 0x09AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x09B0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 85: 0x09B3 [0x24] CREATE_DIALOG(message_id=10236*, default_option=1*, option_flags=0*)
+ 85: 0x09B3 [0x24] CREATE_DIALOG(message_id=10238*, default_option=1*, option_flags=0*)
     → "Do you wish to pay the fee? [Yes./Not at this time.]"
  86: 0x09BA [0x25] WAIT_DIALOG_SELECT()
  87: 0x09BB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x09CD
@@ -729,11 +729,11 @@ SUBROUTINE_0B76:
 
 SUBROUTINE_0BF0:
 116: 0x0BF0 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-117: 0x0BF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10235*)
+117: 0x0BF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
     → "A fee of 250 gil is required. Will you remove the $0 from storage?"
 118: 0x0BF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0BF7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-120: 0x0BFA [0x24] CREATE_DIALOG(message_id=10236*, default_option=1*, option_flags=0*)
+120: 0x0BFA [0x24] CREATE_DIALOG(message_id=10238*, default_option=1*, option_flags=0*)
     → "Do you wish to pay the fee? [Yes./Not at this time.]"
 121: 0x0C01 [0x25] WAIT_DIALOG_SELECT()
 122: 0x0C02 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C14
@@ -886,7 +886,7 @@ SUBROUTINE_0C1C:
 
 ```
   0: 0x0C1D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0C22 [0x1D] PRINT_EVENT_MESSAGE(message_id=10237*)
+  1: 0x0C22 [0x1D] PRINT_EVENT_MESSAGE(message_id=10239*)
     → "Do not worry. Your $0 is in good hands."
   2: 0x0C25 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0C26 [0x21] END_EVENT

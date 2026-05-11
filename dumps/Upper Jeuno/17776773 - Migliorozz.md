@@ -75,22 +75,22 @@
 |       7 | 0x327C      |       12924 |
 |       8 | 0xFFFFFA25  |  4294965797 |
 |       9 | 0x0F26      |        3878 |
-|      10 | 0x213E      |        8510 |
-|      11 | 0x2154      |        8532 |
+|      10 | 0x2140      |        8512 |
+|      11 | 0x2156      |        8534 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x2155      |        8533 |
-|      14 | 0x2156      |        8534 |
-|      15 | 0x2157      |        8535 |
-|      16 | 0x2158      |        8536 |
-|      17 | 0x2159      |        8537 |
-|      18 | 0x215A      |        8538 |
-|      19 | 0x215B      |        8539 |
-|      20 | 0x215C      |        8540 |
-|      21 | 0x215D      |        8541 |
+|      13 | 0x2157      |        8535 |
+|      14 | 0x2158      |        8536 |
+|      15 | 0x2159      |        8537 |
+|      16 | 0x215A      |        8538 |
+|      17 | 0x215B      |        8539 |
+|      18 | 0x215C      |        8540 |
+|      19 | 0x215D      |        8541 |
+|      20 | 0x215E      |        8542 |
+|      21 | 0x215F      |        8543 |
 |      22 | 0x00C9      |         201 |
-|      23 | 0x215E      |        8542 |
-|      24 | 0x215F      |        8543 |
-|      25 | 0x2160      |        8544 |
+|      23 | 0x2160      |        8544 |
+|      24 | 0x2161      |        8545 |
+|      25 | 0x2162      |        8546 |
 
 ## Events
 
@@ -1148,7 +1148,7 @@
   1: 0x028D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x028E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x028F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Migliorozz (ID: 17776773/0x010F4085), tag_num=0x01)
-  4: 0x0296 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8510*]:
+  4: 0x0296 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8512*]:
     → "You must indeed be serious about your beliefs to choose the Temple of the Goddess over the bustling sights and sounds of Jeuno."
   5: 0x029D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x029E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Migliorozz (ID: 17776773/0x010F4085), tag_num=0x02)
@@ -1185,20 +1185,20 @@
   1: 0x02AE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02AF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02B0 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x02C3
-  4: 0x02B8 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8532*]:
+  4: 0x02B8 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8534*]:
     → "Find a way into the deepest section of the southwest tower, and activate the device that lies beyond the final gate. Both the gate and the device should respond to the $3."
   5: 0x02BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02C0 [0x01] GOTO 0x02EE
   7: 0x02C3 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x02D6
-  8: 0x02CB [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8533*]:
+  8: 0x02CB [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8535*]:
     → "Find a way into the deepest section of the southwest tower, and seal the final gate with the $3. I pray for your success."
   9: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02D3 [0x01] GOTO 0x02EE
  11: 0x02D6 [0x02] IF !(Work_Zone[7] == 2*) GOTO 0x02EE
- 12: 0x02DE [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8534*]:
+ 12: 0x02DE [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8536*]:
     → "That was too close... Thankfully, the device was activated before those meddling scholars from Windurst arrived."
  13: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x02E6 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8535*]:
+ 14: 0x02E6 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8537*]:
     → "But my work is not done. I must find a way to seal the device so that no one can stop it..."
  15: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1242,31 +1242,31 @@ SUBROUTINE_02EE:
   3: 0x02FA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x02FB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x02FC [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0325
-  6: 0x0304 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8536*]:
+  6: 0x0304 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8538*]:
     → "You have my thanks. It appears the obstructions within the tower did not prevent you from activating the device."
   7: 0x030B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x030C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Migliorozz (ID: 17776773/0x010F4085), tag_num=0x05)
-  9: 0x0313 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8537*]:
+  9: 0x0313 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8539*]:
     → "The devices within the other towers are also being activated, one by one. Please accept your reward."
  10: 0x031A [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x031B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Migliorozz (ID: 17776773/0x010F4085), tag_num=0x06)
  12: 0x0322 [0x01] GOTO 0x0374
  13: 0x0325 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x034E
- 14: 0x032D [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8538*]:
+ 14: 0x032D [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8540*]:
     → "You have my thanks. It appears the obstructions within the tower did not prevent you from sealing the gate."
  15: 0x0334 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0335 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Migliorozz (ID: 17776773/0x010F4085), tag_num=0x05)
- 17: 0x033C [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8539*]:
+ 17: 0x033C [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8541*]:
     → "Do not be concerned; the gates within the other towers are being sealed as we speak. Please accept your reward."
  18: 0x0343 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0344 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Migliorozz (ID: 17776773/0x010F4085), tag_num=0x06)
  20: 0x034B [0x01] GOTO 0x0374
  21: 0x034E [0x02] IF !(Work_Zone[7] == 2*) GOTO 0x0374
- 22: 0x0356 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8540*]:
+ 22: 0x0356 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8542*]:
     → "Ah, the gate did not open for you? That is because a more experienced adventurer activated the device before you arrived."
  23: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x035E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Migliorozz (ID: 17776773/0x010F4085), tag_num=0x05)
- 25: 0x0365 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8541*]:
+ 25: 0x0365 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8543*]:
     → "However, I still wish to recognize your sincere desire to carry out my request. Please accept this token of my appreciation."
  26: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x036D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Migliorozz (ID: 17776773/0x010F4085), tag_num=0x06)
@@ -1303,15 +1303,15 @@ SUBROUTINE_0374:
   0: 0x0389 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x038E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x038F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0390 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8542*]:
+  3: 0x0390 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8544*]:
     → "What would happen should all of the devices be activated? I really couldn't say."
   4: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0398 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x03AB
-  6: 0x03A0 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8543*]:
+  6: 0x03A0 [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8545*]:
     → "However, I am assured that... Ah...never mind."
   7: 0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03A8 [0x01] GOTO 0x03B3
-  9: 0x03AB [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8544*]:
+  9: 0x03AB [0x2B] Migliorozz (ID: 17776773/0x010F4085) [8546*]:
     → "However, how am I to seal...? Ah...never mind."
  10: 0x03B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

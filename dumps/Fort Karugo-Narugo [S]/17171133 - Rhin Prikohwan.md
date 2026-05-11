@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0016      |          22 |
-|       2 | 0x1FE0      |        8160 |
-|       3 | 0x1FE1      |        8161 |
+|       2 | 0x1FE2      |        8162 |
+|       3 | 0x1FE3      |        8163 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x6E] EventEntity uses emote 22*
   3: 0x0010 [0x99] Wait for EventEntity animation to complete
-  4: 0x0015 [0x2B] EventEntity [8160*]:
+  4: 0x0015 [0x2B] EventEntity [8162*]:
     → "Have you seen all those rafflesia swarming about outside? Those legs...and those tendrils... Ew! They're so disgusting!"
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x2B] EventEntity [8161*]:
+  6: 0x001D [0x2B] EventEntity [8163*]:
     → "Do take care if you ever head outside. They may just be plants, but they eat their prey live!"
   7: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0025 [0x21] END_EVENT

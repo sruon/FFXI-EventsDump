@@ -32,47 +32,47 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x28DA      |       10458 |
-|       3 | 0x28DB      |       10459 |
-|       4 | 0x28DC      |       10460 |
-|       5 | 0x28DD      |       10461 |
-|       6 | 0x28DE      |       10462 |
-|       7 | 0x28DF      |       10463 |
-|       8 | 0x28E0      |       10464 |
-|       9 | 0x28E1      |       10465 |
-|      10 | 0x28E2      |       10466 |
-|      11 | 0x28E3      |       10467 |
-|      12 | 0x28E4      |       10468 |
-|      13 | 0x28E5      |       10469 |
-|      14 | 0x28E6      |       10470 |
-|      15 | 0x28E7      |       10471 |
-|      16 | 0x28E8      |       10472 |
-|      17 | 0x28E9      |       10473 |
-|      18 | 0x28EA      |       10474 |
-|      19 | 0x28EB      |       10475 |
-|      20 | 0x28EC      |       10476 |
+|       2 | 0x28DC      |       10460 |
+|       3 | 0x28DD      |       10461 |
+|       4 | 0x28DE      |       10462 |
+|       5 | 0x28DF      |       10463 |
+|       6 | 0x28E0      |       10464 |
+|       7 | 0x28E1      |       10465 |
+|       8 | 0x28E2      |       10466 |
+|       9 | 0x28E3      |       10467 |
+|      10 | 0x28E4      |       10468 |
+|      11 | 0x28E5      |       10469 |
+|      12 | 0x28E6      |       10470 |
+|      13 | 0x28E7      |       10471 |
+|      14 | 0x28E8      |       10472 |
+|      15 | 0x28E9      |       10473 |
+|      16 | 0x28EA      |       10474 |
+|      17 | 0x28EB      |       10475 |
+|      18 | 0x28EC      |       10476 |
+|      19 | 0x28ED      |       10477 |
+|      20 | 0x28EE      |       10478 |
 
 ## String References
 
-- **10458**: And you arrre? <Player>? Neverrr heard of you. There are too many adventurers these days to rememberrr every one that waltzes through our village gates.
-- **10459**: You're going to have to work harderrr if you want anyone to rememberrr a funny name like that.
-- **10460**: And who knows? Someday you could become as famous as me!
-- **10461**: What did you say you called yourself? <Player>? I don't know... I might have heard that name somewherrre.
-- **10462**: Do a little more for the villagers herrre, and people might start remembering who you arrre.
-- **10463**: Wait... Don't tell me... It's...<Player>, right? Yeah, I've been hearing your name more often lately.
-- **10464**: A little bit more work, and soon everybody will know who you arrre.
-- **10465**: Hi therrre, <Player>. I've been telling everybody about my new friend. We're friends, right?
-- **10466**: Keep up the good work. The betterrr my friends look, the betterrr I look!
-- **10467**: Oh, <Player>! Long time no see! Your name comes up a lot these days.
-- **10468**: And guess what? Nobody has anything bad to say about you. That's a compliment in itself!
-- **10469**: You know, I don't think there's a person in this village who doesn't know yourrr name.
-- **10470**: You keep up the good work, and I'll have to start calling you [Mister/Miss] <Player>!
-- **10471**: [Mister/Miss] <Player>! Arrre you heading out on anotherrr dangerous mission? Be careful! We'll all be rooting for you.
-- **10472**: I know it has been hard to get such a good reputation, but don't take it for granted. Yourrr work is farrr from being done!
-- **10473**: [Mister/Miss] <Player>! You are one smooth cat! I've neverrr met a mainlander who did so much for us islanders.
-- **10474**: I'm proud to call you my acquaintance...my friend!
-- **10475**: [Lord/Lady] <Player>! The fame your name carries stretches from here to Windurst.
-- **10476**: I cannot begin to put into words the gratitude this village feels forrr you. Live long, hero of Kazham!
+- **10460**: And you arrre? <Player>? Neverrr heard of you. There are too many adventurers these days to rememberrr every one that waltzes through our village gates.
+- **10461**: You're going to have to work harderrr if you want anyone to rememberrr a funny name like that.
+- **10462**: And who knows? Someday you could become as famous as me!
+- **10463**: What did you say you called yourself? <Player>? I don't know... I might have heard that name somewherrre.
+- **10464**: Do a little more for the villagers herrre, and people might start remembering who you arrre.
+- **10465**: Wait... Don't tell me... It's...<Player>, right? Yeah, I've been hearing your name more often lately.
+- **10466**: A little bit more work, and soon everybody will know who you arrre.
+- **10467**: Hi therrre, <Player>. I've been telling everybody about my new friend. We're friends, right?
+- **10468**: Keep up the good work. The betterrr my friends look, the betterrr I look!
+- **10469**: Oh, <Player>! Long time no see! Your name comes up a lot these days.
+- **10470**: And guess what? Nobody has anything bad to say about you. That's a compliment in itself!
+- **10471**: You know, I don't think there's a person in this village who doesn't know yourrr name.
+- **10472**: You keep up the good work, and I'll have to start calling you [Mister/Miss] <Player>!
+- **10473**: [Mister/Miss] <Player>! Arrre you heading out on anotherrr dangerous mission? Be careful! We'll all be rooting for you.
+- **10474**: I know it has been hard to get such a good reputation, but don't take it for granted. Yourrr work is farrr from being done!
+- **10475**: [Mister/Miss] <Player>! You are one smooth cat! I've neverrr met a mainlander who did so much for us islanders.
+- **10476**: I'm proud to call you my acquaintance...my friend!
+- **10477**: [Lord/Lady] <Player>! The fame your name carries stretches from here to Windurst.
+- **10478**: I cannot begin to put into words the gratitude this village feels forrr you. Live long, hero of Kazham!
 
 ## Events
 
@@ -170,13 +170,13 @@
   0: 0x001A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10458*)
+  3: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10460*)
     → "And you arrre? <Player>? Neverrr heard of you. There are too many adventurers these days to rememberrr every one that waltzes through our village gates."
   4: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=10459*)
+  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
     → "You're going to have to work harderrr if you want anyone to rememberrr a funny name like that."
   6: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=10460*)
+  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
     → "And who knows? Someday you could become as famous as me!"
   8: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -207,10 +207,10 @@
   0: 0x0031 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0036 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0037 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
+  3: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=10463*)
     → "What did you say you called yourself? <Player>? I don't know... I might have heard that name somewherrre."
   4: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
+  5: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=10464*)
     → "Do a little more for the villagers herrre, and people might start remembering who you arrre."
   6: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0040 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -241,10 +241,10 @@
   0: 0x0044 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0049 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=10463*)
+  3: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=10465*)
     → "Wait... Don't tell me... It's...<Player>, right? Yeah, I've been hearing your name more often lately."
   4: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=10464*)
+  5: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=10466*)
     → "A little bit more work, and soon everybody will know who you arrre."
   6: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0053 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -275,10 +275,10 @@
   0: 0x0057 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x005C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=10465*)
+  3: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=10467*)
     → "Hi therrre, <Player>. I've been telling everybody about my new friend. We're friends, right?"
   4: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=10466*)
+  5: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=10468*)
     → "Keep up the good work. The betterrr my friends look, the betterrr I look!"
   6: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0066 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -309,10 +309,10 @@
   0: 0x006A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x006F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0070 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=10467*)
+  3: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=10469*)
     → "Oh, <Player>! Long time no see! Your name comes up a lot these days."
   4: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=10468*)
+  5: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=10470*)
     → "And guess what? Nobody has anything bad to say about you. That's a compliment in itself!"
   6: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0079 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -343,10 +343,10 @@
   0: 0x007D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0082 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0083 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=10469*)
+  3: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=10471*)
     → "You know, I don't think there's a person in this village who doesn't know yourrr name."
   4: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=10470*)
+  5: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=10472*)
     → "You keep up the good work, and I'll have to start calling you [Mister/Miss] <Player>!"
   6: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x008C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -377,10 +377,10 @@
   0: 0x0090 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0095 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0096 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=10471*)
+  3: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=10473*)
     → "[Mister/Miss] <Player>! Arrre you heading out on anotherrr dangerous mission? Be careful! We'll all be rooting for you."
   4: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=10472*)
+  5: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=10474*)
     → "I know it has been hard to get such a good reputation, but don't take it for granted. Yourrr work is farrr from being done!"
   6: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x009F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -411,10 +411,10 @@
   0: 0x00A3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00A8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10473*)
+  3: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10475*)
     → "[Mister/Miss] <Player>! You are one smooth cat! I've neverrr met a mainlander who did so much for us islanders."
   4: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10474*)
+  5: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10476*)
     → "I'm proud to call you my acquaintance...my friend!"
   6: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00B2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -445,10 +445,10 @@
   0: 0x00B6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00BB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10475*)
+  3: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10477*)
     → "[Lord/Lady] <Player>! The fame your name carries stretches from here to Windurst."
   4: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10476*)
+  5: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10478*)
     → "I cannot begin to put into words the gratitude this village feels forrr you. Live long, hero of Kazham!"
   6: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00C5 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -25,26 +25,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D5A      |        7514 |
+|       0 | 0x1D5C      |        7516 |
 |       1 | 0x112B      |        4395 |
-|       2 | 0x1D5B      |        7515 |
+|       2 | 0x1D5D      |        7517 |
 |       3 | 0x0037      |          55 |
-|       4 | 0x1D5C      |        7516 |
-|       5 | 0x1D5D      |        7517 |
-|       6 | 0x1D5E      |        7518 |
+|       4 | 0x1D5E      |        7518 |
+|       5 | 0x1D5F      |        7519 |
+|       6 | 0x1D60      |        7520 |
 |       7 | 0x000A      |          10 |
-|       8 | 0x1D5F      |        7519 |
+|       8 | 0x1D61      |        7521 |
 |       9 | 0x00C9      |         201 |
 |      10 | 0x0000      |           0 |
 
 ## String References
 
-- **7514**: I'm hungry...no, I mean, I'm starved.
-- **7515**: The food here isn't bad, but a little more variety wouldn't hurt, you know what I mean?
-- **7516**: My friend, Offa, has been telling me that $7 are exquisite! I wish I could have some, someday.
-- **7517**: He told me that there was an easy but dangerous way of making them, but--hey, speaking of Offa, he hasn't been coming to work lately...
-- **7518**: Hmm, he's probably loafing around in his house in the Markets District again.
-- **7519**: Hey! Is that $7? Let me have it! Here, I'll give you this!
+- **7516**: I'm hungry...no, I mean, I'm starved.
+- **7517**: The food here isn't bad, but a little more variety wouldn't hurt, you know what I mean?
+- **7518**: My friend, Offa, has been telling me that $7 are exquisite! I wish I could have some, someday.
+- **7519**: He told me that there was an easy but dangerous way of making them, but--hey, speaking of Offa, he hasn't been coming to work lately...
+- **7520**: Hmm, he's probably loafing around in his house in the Markets District again.
+- **7521**: Hey! Is that $7? Let me have it! Here, I'll give you this!
 
 ## Events
 
@@ -89,7 +89,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
     → "I'm hungry...no, I mean, I'm starved."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -120,18 +120,18 @@
 ```
   0: 0x0007 [0x03] Work_Zone[9] = 4395*
   1: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
+  2: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
     → "The food here isn't bad, but a little more variety wouldn't hurt, you know what I mean?"
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0015 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  5: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  5: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
     → "My friend, Offa, has been telling me that $7 are exquisite! I wish I could have some, someday."
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
+  7: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "He told me that there was an easy but dangerous way of making them, but--hey, speaking of Offa, he hasn't been coming to work lately..."
   8: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 10: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+ 10: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "Hmm, he's probably loafing around in his house in the Markets District again."
  11: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0035 [0x21] END_EVENT
@@ -167,7 +167,7 @@
   3: 0x003F [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x0044 [0x1C] WAIT(10* ticks)
   5: 0x0047 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=55*
-  6: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  6: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "Hey! Is that $7? Let me have it! Here, I'll give you this!"
   7: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x005A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]

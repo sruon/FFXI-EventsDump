@@ -98,16 +98,16 @@
 |      17 | 0x01F3      |         499 |
 |      18 | 0x0AFC      |        2812 |
 |      19 | 0x0236      |         566 |
-|      20 | 0x283B      |       10299 |
-|      21 | 0x283C      |       10300 |
+|      20 | 0x283D      |       10301 |
+|      21 | 0x283E      |       10302 |
 |      22 | 0x00EE      |         238 |
-|      23 | 0x283D      |       10301 |
-|      24 | 0x283E      |       10302 |
-|      25 | 0x283F      |       10303 |
-|      26 | 0x2840      |       10304 |
-|      27 | 0x2841      |       10305 |
-|      28 | 0x2846      |       10310 |
-|      29 | 0x2847      |       10311 |
+|      23 | 0x283F      |       10303 |
+|      24 | 0x2840      |       10304 |
+|      25 | 0x2841      |       10305 |
+|      26 | 0x2842      |       10306 |
+|      27 | 0x2843      |       10307 |
+|      28 | 0x2848      |       10312 |
+|      29 | 0x2849      |       10313 |
 |      30 | 0x1DC90     |      122000 |
 |      31 | 0xFFFFD034  |  4294955060 |
 |      32 | 0xFFFFB179  |  4294947193 |
@@ -130,21 +130,21 @@
 |      49 | 0x0EEF      |        3823 |
 |      50 | 0x15AE7     |       88807 |
 |      51 | 0xFFFFE235  |  4294959669 |
-|      52 | 0x2842      |       10306 |
-|      53 | 0x2843      |       10307 |
-|      54 | 0x2844      |       10308 |
-|      55 | 0x2845      |       10309 |
+|      52 | 0x2844      |       10308 |
+|      53 | 0x2845      |       10309 |
+|      54 | 0x2846      |       10310 |
+|      55 | 0x2847      |       10311 |
 |      56 | 0x002D      |          45 |
-|      57 | 0x2A02      |       10754 |
-|      58 | 0x2A03      |       10755 |
+|      57 | 0x2A04      |       10756 |
+|      58 | 0x2A05      |       10757 |
 |      59 | 0x01C4      |         452 |
-|      60 | 0x2A04      |       10756 |
-|      61 | 0x2A05      |       10757 |
-|      62 | 0x2A0D      |       10765 |
-|      63 | 0x2A32      |       10802 |
-|      64 | 0x2A33      |       10803 |
-|      65 | 0x2A34      |       10804 |
-|      66 | 0x2A35      |       10805 |
+|      60 | 0x2A06      |       10758 |
+|      61 | 0x2A07      |       10759 |
+|      62 | 0x2A0F      |       10767 |
+|      63 | 0x2A34      |       10804 |
+|      64 | 0x2A35      |       10805 |
+|      65 | 0x2A36      |       10806 |
+|      66 | 0x2A37      |       10807 |
 |      67 | 0xFFFFB02F  |  4294946863 |
 |      68 | 0xFFFF94BD  |  4294939837 |
 |      69 | 0x0449      |        1097 |
@@ -153,39 +153,39 @@
 |      72 | 0x0202      |         514 |
 |      73 | 0x000F      |          15 |
 |      74 | 0x0101      |         257 |
-|      75 | 0x2BF1      |       11249 |
-|      76 | 0x2BF2      |       11250 |
-|      77 | 0x2BF3      |       11251 |
+|      75 | 0x2BF3      |       11251 |
+|      76 | 0x2BF4      |       11252 |
+|      77 | 0x2BF5      |       11253 |
 |      78 | 0x00C8      |         200 |
 |      79 | 0x007A      |         122 |
-|      80 | 0x2BF4      |       11252 |
-|      81 | 0x2BF5      |       11253 |
-|      82 | 0x2BF6      |       11254 |
-|      83 | 0x2BF7      |       11255 |
+|      80 | 0x2BF6      |       11254 |
+|      81 | 0x2BF7      |       11255 |
+|      82 | 0x2BF8      |       11256 |
+|      83 | 0x2BF9      |       11257 |
 |      84 | 0x0064      |         100 |
 |      85 | 0x0063      |          99 |
-|      86 | 0x2BF8      |       11256 |
-|      87 | 0x2BFE      |       11262 |
-|      88 | 0x2BFF      |       11263 |
-|      89 | 0x2BF9      |       11257 |
-|      90 | 0x2BFA      |       11258 |
+|      86 | 0x2BFA      |       11258 |
+|      87 | 0x2C00      |       11264 |
+|      88 | 0x2C01      |       11265 |
+|      89 | 0x2BFB      |       11259 |
+|      90 | 0x2BFC      |       11260 |
 |      91 | 0x0237      |         567 |
-|      92 | 0x2C02      |       11266 |
-|      93 | 0x2C01      |       11265 |
+|      92 | 0x2C04      |       11268 |
+|      93 | 0x2C03      |       11267 |
 |      94 | 0x0002      |           2 |
 |      95 | 0x0003      |           3 |
 |      96 | 0x0004      |           4 |
-|      97 | 0x2BFB      |       11259 |
-|      98 | 0x2BFC      |       11260 |
+|      97 | 0x2BFD      |       11261 |
+|      98 | 0x2BFE      |       11262 |
 |      99 | 0x00D1      |         209 |
 |     100 | 0x00C9      |         201 |
-|     101 | 0x2BFD      |       11261 |
-|     102 | 0x2C00      |       11264 |
+|     101 | 0x2BFF      |       11263 |
+|     102 | 0x2C02      |       11266 |
 |     103 | 0x00D7      |         215 |
-|     104 | 0x2C69      |       11369 |
-|     105 | 0x2C6A      |       11370 |
-|     106 | 0x2C72      |       11378 |
-|     107 | 0x2C76      |       11382 |
+|     104 | 0x2C6B      |       11371 |
+|     105 | 0x2C6C      |       11372 |
+|     106 | 0x2C74      |       11380 |
+|     107 | 0x2C78      |       11384 |
 |     108 | 0x1B53D     |      111933 |
 |     109 | 0xFFFFD882  |  4294957186 |
 |     110 | 0x1BF5D     |      114525 |
@@ -196,46 +196,46 @@
 
 ## String References
 
-- **10299**: Arrrg, make sure ya stop by Kazham and visit the Chieftainness, Jakoh Wahcondalo, before heading off t'the Temple of Uggalepih.
-- **10300**: If ya tell her I sent ya, she should give ya some help. Now get a move on! There's no time t'lose.
-- **10301**: So we needs $6 to get deeper into the temple... Even I don't know what lurks down there.
-- **10302**: I can see potential in you, <Player>, but don't go doin' anything stupid now. We want to sees you back 'ere in one piece!
-- **10303**: Seven stone monuments? Arrrg, me thinks me saw one in the Yuhtunga or Yhoator Jungle. Can't remember which one, though...
-- **10304**: And that be all me knows. Maybe ya saw one o' 'em durin' a mission ya went on. Try t'remember. If ya can't, ya can always ask yer adventurin' mateys.
-- **10305**: I'm sorry that I have no more t'tell ya. If that old bat in the temple hadn't been so secretive...
-- **10306**: Arrrg! You've gathered all the jewels! You'd make a mighty fine pirate. No wonder me daughter likes ya. Now all ya have t'do is take those to the ancient temple on Zepwell Island.
-- **10307**: You'll find Zepwell Island off the southwest tip of Quon. What, you say that's where you found one of the stone monuments? Well, then ya don't need me directions now, do ya?
-- **10308**: Delkfutt's Tower? I jus' got some information 'bout Verena. If that piece of info is correct, then that tower is where Verena has been taken!
-- **10309**: And t'make things worse, our Zilart friends from Jeuno seem t'be involved. I've already sent some of me mateys t'help Aldo, but I have a bad feelin' about this. Hurry t'Qufim!
-- **10310**: We here at Norg sometimes do business in and around the Sanctuary of Zi'Tah. One big forest, that place is.
-- **10311**: No, it ain't nothin' like the jungles around here, but it sure be full of surprises. Don't go gettin' caught up in the scenery, or ya may find yourself lost!
-- **10754**: A thief like her won't be easy t'find. I'll have me mateys around Vana'diel spread the word that yer lookin' fer a crystal like the one she has.
-- **10755**: If she gets wind of that info, that Maree's likely t'settle down until ya find her. We can only pray that what she has is what we need.
-- **10756**: Arrrg, so that be the $3 that we've been searchin' fer. It looks like you had a hell of a time tryin' t'get yer hands on it.
-- **10757**: But the real hell is yet t'come, <Player>. Crystal Warriors...floating islands... It may all seem crazy, but don't let that get in yer way. Yer Vana'diel's only hope.
-- **10765**: We can't know when Eald'narche will attempt t'open the gate. It could be t'morrow, fer all I know. If ya have any preparations, I'd suggest makin' 'em now.
-- **10802**: Arrrg, the Zilarrrt's dream of Paradise may be over, but that doesn't change the fact that them beastmen still be crawlin' over the face of Vana'diel.
-- **10803**: When ya think about it, this little charade with the princes may've just been the tip of the blimey iceberg.
-- **10804**: And Lion... I haven't told the other scallywags what really happened t'her. They all think she's off on some adventure...
-- **10805**: It's always easier t'forget about the things that trouble ya. That be why people always forget those who pass away. I don't want that happenin' t'me daughter. That's why she'll always be alive here in Norg.
-- **11249**: Arrg, be good to see ya! So you and yer friends were the landlubbers what saved her, eh?
-- **11250**: Don't ya worry none, she be sleepin' it off like a sailor that's too fond of Opo-opo brew. The whole ordeal's left me girl a bit under the weather, but she'll pull through.
-- **11251**: Hasn't stopped her talkin' me ears off, o'course. Can't get a word in edgewise.
-- **11252**: ...I jus' be glad that me girl ain't forgotten about me.
-- **11253**: Even after walkin' the plank into the great beyond, she still remembers her old man.
-- **11254**: She may not be me daughter by blood, but she's still the apple of me eye. I do believe a reward be due you.
-- **11255**: Ya can have the pick of one of me treasures. I'll be givin' whatever's left to yer mates what helped ya.
-- **11256**: What do ya choose? [Let me think about it./$1./$2./$3./$4.]
-- **11257**: $0. That's what ya want?
-- **11258**: Ya want $0? [Aye./Nay.]
-- **11259**: Arrg, I almost be forgettin'. Me girl wants ya to pummel some beastie that's been hauntin' her dreams. Stuff o' nightmares, she says.
-- **11260**: Don't make much sense to me, but I be guessin' you know the truth of it. If ya ever need an old pirate's help, ya just let me know.
-- **11261**: Fer a girl what's saved the world, it be an endearin' thing fer her to be afraid of her dreams.
-- **11262**: Blimey. Are ya tryin' t'tell me that the savior of the world can't make up [his/her] mind about a simple thing like this? Guess some things never change, eh?
-- **11263**: But who be I t'judge? Let me know when you've made yer decision. Jus' don't complain if all the best loot be taken!
-- **11264**: Arrg, so you've made a decision?
-- **11265**: By me bleedin' eyepatch, I can't be handing over any booty when yer bag be full of flotsam and jetsam. You heroes need to learn a thing o' two about organization!
-- **11266**: Here. That be a treasure unlike any you'll ever see again. Don't go losin' it over the side of no stinkin' ferry!
+- **10301**: Arrrg, make sure ya stop by Kazham and visit the Chieftainness, Jakoh Wahcondalo, before heading off t'the Temple of Uggalepih.
+- **10302**: If ya tell her I sent ya, she should give ya some help. Now get a move on! There's no time t'lose.
+- **10303**: So we needs $6 to get deeper into the temple... Even I don't know what lurks down there.
+- **10304**: I can see potential in you, <Player>, but don't go doin' anything stupid now. We want to sees you back 'ere in one piece!
+- **10305**: Seven stone monuments? Arrrg, me thinks me saw one in the Yuhtunga or Yhoator Jungle. Can't remember which one, though...
+- **10306**: And that be all me knows. Maybe ya saw one o' 'em durin' a mission ya went on. Try t'remember. If ya can't, ya can always ask yer adventurin' mateys.
+- **10307**: I'm sorry that I have no more t'tell ya. If that old bat in the temple hadn't been so secretive...
+- **10308**: Arrrg! You've gathered all the jewels! You'd make a mighty fine pirate. No wonder me daughter likes ya. Now all ya have t'do is take those to the ancient temple on Zepwell Island.
+- **10309**: You'll find Zepwell Island off the southwest tip of Quon. What, you say that's where you found one of the stone monuments? Well, then ya don't need me directions now, do ya?
+- **10310**: Delkfutt's Tower? I jus' got some information 'bout Verena. If that piece of info is correct, then that tower is where Verena has been taken!
+- **10311**: And t'make things worse, our Zilart friends from Jeuno seem t'be involved. I've already sent some of me mateys t'help Aldo, but I have a bad feelin' about this. Hurry t'Qufim!
+- **10312**: We here at Norg sometimes do business in and around the Sanctuary of Zi'Tah. One big forest, that place is.
+- **10313**: No, it ain't nothin' like the jungles around here, but it sure be full of surprises. Don't go gettin' caught up in the scenery, or ya may find yourself lost!
+- **10756**: A thief like her won't be easy t'find. I'll have me mateys around Vana'diel spread the word that yer lookin' fer a crystal like the one she has.
+- **10757**: If she gets wind of that info, that Maree's likely t'settle down until ya find her. We can only pray that what she has is what we need.
+- **10758**: Arrrg, so that be the $3 that we've been searchin' fer. It looks like you had a hell of a time tryin' t'get yer hands on it.
+- **10759**: But the real hell is yet t'come, <Player>. Crystal Warriors...floating islands... It may all seem crazy, but don't let that get in yer way. Yer Vana'diel's only hope.
+- **10767**: We can't know when Eald'narche will attempt t'open the gate. It could be t'morrow, fer all I know. If ya have any preparations, I'd suggest makin' 'em now.
+- **10804**: Arrrg, the Zilarrrt's dream of Paradise may be over, but that doesn't change the fact that them beastmen still be crawlin' over the face of Vana'diel.
+- **10805**: When ya think about it, this little charade with the princes may've just been the tip of the blimey iceberg.
+- **10806**: And Lion... I haven't told the other scallywags what really happened t'her. They all think she's off on some adventure...
+- **10807**: It's always easier t'forget about the things that trouble ya. That be why people always forget those who pass away. I don't want that happenin' t'me daughter. That's why she'll always be alive here in Norg.
+- **11251**: Arrg, be good to see ya! So you and yer friends were the landlubbers what saved her, eh?
+- **11252**: Don't ya worry none, she be sleepin' it off like a sailor that's too fond of Opo-opo brew. The whole ordeal's left me girl a bit under the weather, but she'll pull through.
+- **11253**: Hasn't stopped her talkin' me ears off, o'course. Can't get a word in edgewise.
+- **11254**: ...I jus' be glad that me girl ain't forgotten about me.
+- **11255**: Even after walkin' the plank into the great beyond, she still remembers her old man.
+- **11256**: She may not be me daughter by blood, but she's still the apple of me eye. I do believe a reward be due you.
+- **11257**: Ya can have the pick of one of me treasures. I'll be givin' whatever's left to yer mates what helped ya.
+- **11258**: What do ya choose? [Let me think about it./$1./$2./$3./$4.]
+- **11259**: $0. That's what ya want?
+- **11260**: Ya want $0? [Aye./Nay.]
+- **11261**: Arrg, I almost be forgettin'. Me girl wants ya to pummel some beastie that's been hauntin' her dreams. Stuff o' nightmares, she says.
+- **11262**: Don't make much sense to me, but I be guessin' you know the truth of it. If ya ever need an old pirate's help, ya just let me know.
+- **11263**: Fer a girl what's saved the world, it be an endearin' thing fer her to be afraid of her dreams.
+- **11264**: Blimey. Are ya tryin' t'tell me that the savior of the world can't make up [his/her] mind about a simple thing like this? Guess some things never change, eh?
+- **11265**: But who be I t'judge? Let me know when you've made yer decision. Jus' don't complain if all the best loot be taken!
+- **11266**: Arrg, so you've made a decision?
+- **11267**: By me bleedin' eyepatch, I can't be handing over any booty when yer bag be full of flotsam and jetsam. You heroes need to learn a thing o' two about organization!
+- **11268**: Here. That be a treasure unlike any you'll ever see again. Don't go losin' it over the side of no stinkin' ferry!
 
 ## Events
 
@@ -579,10 +579,10 @@
 ```
   0: 0x008E [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x0091 [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  2: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=10299*)
+  2: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=10301*)
     → "Arrrg, make sure ya stop by Kazham and visit the Chieftainness, Jakoh Wahcondalo, before heading off t'the Temple of Uggalepih."
   3: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=10300*)
+  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=10302*)
     → "If ya tell her I sent ya, she should give ya some help. Now get a move on! There's no time t'lose."
   5: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x009C [0x21] END_EVENT
@@ -613,10 +613,10 @@
   0: 0x009E [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x00A1 [0x1A] CALL_SUBROUTINE(address=0x01C0)
   2: 0x00A4 [0x03] Work_Zone[8] = 238*
-  3: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10301*)
+  3: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10303*)
     → "So we needs $6 to get deeper into the temple... Even I don't know what lurks down there."
   4: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10302*)
+  5: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10304*)
     → "I can see potential in you, <Player>, but don't go doin' anything stupid now. We want to sees you back 'ere in one piece!"
   6: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00B1 [0x21] END_EVENT
@@ -645,13 +645,13 @@
 ```
   0: 0x00B3 [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x00B6 [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  2: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10303*)
+  2: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10305*)
     → "Seven stone monuments? Arrrg, me thinks me saw one in the Yuhtunga or Yhoator Jungle. Can't remember which one, though..."
   3: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10304*)
+  4: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10306*)
     → "And that be all me knows. Maybe ya saw one o' 'em durin' a mission ya went on. Try t'remember. If ya can't, ya can always ask yer adventurin' mateys."
   5: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10305*)
+  6: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10307*)
     → "I'm sorry that I have no more t'tell ya. If that old bat in the temple hadn't been so secretive..."
   7: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C5 [0x21] END_EVENT
@@ -680,10 +680,10 @@
 ```
   0: 0x00C7 [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x00CA [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  2: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10310*)
+  2: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10312*)
     → "We here at Norg sometimes do business in and around the Sanctuary of Zi'Tah. One big forest, that place is."
   3: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10311*)
+  4: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10313*)
     → "No, it ain't nothin' like the jungles around here, but it sure be full of surprises. Don't go gettin' caught up in the scenery, or ya may find yourself lost!"
   5: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00D5 [0x21] END_EVENT
@@ -1015,10 +1015,10 @@
 ```
   0: 0x0272 [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x0275 [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  2: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=10306*)
+  2: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=10308*)
     → "Arrrg! You've gathered all the jewels! You'd make a mighty fine pirate. No wonder me daughter likes ya. Now all ya have t'do is take those to the ancient temple on Zepwell Island."
   3: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=10307*)
+  4: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=10309*)
     → "You'll find Zepwell Island off the southwest tip of Quon. What, you say that's where you found one of the stone monuments? Well, then ya don't need me directions now, do ya?"
   5: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0280 [0x21] END_EVENT
@@ -1050,13 +1050,13 @@
 ```
   0: 0x0282 [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x0285 [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  2: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=10308*)
+  2: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=10310*)
     → "Delkfutt's Tower? I jus' got some information 'bout Verena. If that piece of info is correct, then that tower is where Verena has been taken!"
   3: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x028C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=566*
   5: 0x029B [0x1C] WAIT(30* ticks)
   6: 0x029E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [EventEntity, EventEntity], work=566*
-  7: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10309*)
+  7: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10311*)
     → "And t'make things worse, our Zilart friends from Jeuno seem t'be involved. I've already sent some of me mateys t'help Aldo, but I have a bad feelin' about this. Hurry t'Qufim!"
   8: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x02B1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=566*
@@ -1175,10 +1175,10 @@
 ```
   0: 0x02C9 [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x02CC [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  2: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10754*)
+  2: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10756*)
     → "A thief like her won't be easy t'find. I'll have me mateys around Vana'diel spread the word that yer lookin' fer a crystal like the one she has."
   3: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10755*)
+  4: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10757*)
     → "If she gets wind of that info, that Maree's likely t'settle down until ya find her. We can only pray that what she has is what we need."
   5: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02D7 [0x21] END_EVENT
@@ -1208,10 +1208,10 @@
   0: 0x02D9 [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x02DC [0x1A] CALL_SUBROUTINE(address=0x01C0)
   2: 0x02DF [0x03] Work_Zone[2] = 452*
-  3: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10756*)
+  3: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10758*)
     → "Arrrg, so that be the $3 that we've been searchin' fer. It looks like you had a hell of a time tryin' t'get yer hands on it."
   4: 0x02E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10757*)
+  5: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10759*)
     → "But the real hell is yet t'come, <Player>. Crystal Warriors...floating islands... It may all seem crazy, but don't let that get in yer way. Yer Vana'diel's only hope."
   6: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02EC [0x21] END_EVENT
@@ -1262,7 +1262,7 @@
 ```
   0: 0x02EF [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x02F2 [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  2: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10765*)
+  2: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10767*)
     → "We can't know when Eald'narche will attempt t'open the gate. It could be t'morrow, fer all I know. If ya have any preparations, I'd suggest makin' 'em now."
   3: 0x02F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02F9 [0x21] END_EVENT
@@ -1317,21 +1317,21 @@
 ```
   0: 0x02FC [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x02FF [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  2: 0x0302 [0x1D] PRINT_EVENT_MESSAGE(message_id=10802*)
+  2: 0x0302 [0x1D] PRINT_EVENT_MESSAGE(message_id=10804*)
     → "Arrrg, the Zilarrrt's dream of Paradise may be over, but that doesn't change the fact that them beastmen still be crawlin' over the face of Vana'diel."
   3: 0x0305 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0306 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=566*
   5: 0x0315 [0x1C] WAIT(30* ticks)
   6: 0x0318 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [EventEntity, EventEntity], work=566*
-  7: 0x0327 [0x1D] PRINT_EVENT_MESSAGE(message_id=10803*)
+  7: 0x0327 [0x1D] PRINT_EVENT_MESSAGE(message_id=10805*)
     → "When ya think about it, this little charade with the princes may've just been the tip of the blimey iceberg."
   8: 0x032A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x032B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=566*
  10: 0x033A [0x1C] WAIT(45* ticks)
- 11: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=10804*)
+ 11: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=10806*)
     → "And Lion... I haven't told the other scallywags what really happened t'her. They all think she's off on some adventure..."
  12: 0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0341 [0x1D] PRINT_EVENT_MESSAGE(message_id=10805*)
+ 13: 0x0341 [0x1D] PRINT_EVENT_MESSAGE(message_id=10807*)
     → "It's always easier t'forget about the things that trouble ya. That be why people always forget those who pass away. I don't want that happenin' t'me daughter. That's why she'll always be alive here in Norg."
  14: 0x0344 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0345 [0x21] END_EVENT
@@ -1485,17 +1485,17 @@
  18: 0x03AC [0x1C] WAIT(15* ticks)
  19: 0x03AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg00" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
  20: 0x03C0 [0x1A] CALL_SUBROUTINE(address=0x0B2E)
- 21: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11249*)
+ 21: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11251*)
     → "Arrg, be good to see ya! So you and yer friends were the landlubbers what saved her, eh?"
  22: 0x03C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x03C7 [0x52] END_LOAD_SCHEDULER: End scheduler "lg00" with entities [LocalPlayer, LocalPlayer], work=257*
  24: 0x03D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg01" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
  25: 0x03E7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=566*
  26: 0x03F6 [0x1C] WAIT(15* ticks)
- 27: 0x03F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11250*)
+ 27: 0x03F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11252*)
     → "Don't ya worry none, she be sleepin' it off like a sailor that's too fond of Opo-opo brew. The whole ordeal's left me girl a bit under the weather, but she'll pull through."
  28: 0x03FC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=11251*)
+ 29: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=11253*)
     → "Hasn't stopped her talkin' me ears off, o'course. Can't get a word in edgewise."
  30: 0x0400 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0401 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -1508,22 +1508,22 @@
  38: 0x043A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg02" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
  39: 0x044B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [EventEntity, EventEntity], work=566*
  40: 0x045A [0x1C] WAIT(45* ticks)
- 41: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=11252*)
+ 41: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=11254*)
     → "...I jus' be glad that me girl ain't forgotten about me."
  42: 0x0460 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=11253*)
+ 43: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=11255*)
     → "Even after walkin' the plank into the great beyond, she still remembers her old man."
  44: 0x0464 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0465 [0x52] END_LOAD_SCHEDULER: End scheduler "lg02" with entities [LocalPlayer, LocalPlayer], work=257*
  46: 0x0474 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg04" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
- 47: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=11254*)
+ 47: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=11256*)
     → "She may not be me daughter by blood, but she's still the apple of me eye. I do believe a reward be due you."
  48: 0x0488 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0489 [0x52] END_LOAD_SCHEDULER: End scheduler "lg04" with entities [LocalPlayer, LocalPlayer], work=257*
  50: 0x0498 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg03" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
  51: 0x04A9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=566*
  52: 0x04B8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
- 53: 0x04C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11255*)
+ 53: 0x04C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
     → "Ya can have the pick of one of me treasures. I'll be givin' whatever's left to yer mates what helped ya."
  54: 0x04C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x04C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x04E2
@@ -1537,7 +1537,7 @@ SUBROUTINE_04E2:
  61: 0x04E2 [0x03] Work_Zone[1] = 99*
  62: 0x04E7 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  63: 0x04E9 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 64: 0x04EB [0x24] CREATE_DIALOG(message_id=11256*, default_option=0*, option_flags=0*)
+ 64: 0x04EB [0x24] CREATE_DIALOG(message_id=11258*, default_option=0*, option_flags=0*)
     → "What do ya choose? [Let me think about it./$1./$2./$3./$4.]"
  65: 0x04F2 [0x25] WAIT_DIALOG_SELECT()
  66: 0x04F3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0574
@@ -1547,10 +1547,10 @@ SUBROUTINE_04E2:
  70: 0x0504 [0x52] END_LOAD_SCHEDULER: End scheduler "lg03" with entities [LocalPlayer, LocalPlayer], work=257*
  71: 0x0513 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg07" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
  72: 0x0524 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ftk0" with entities [EventEntity, EventEntity], work=566*
- 73: 0x0533 [0x1D] PRINT_EVENT_MESSAGE(message_id=11262*)
+ 73: 0x0533 [0x1D] PRINT_EVENT_MESSAGE(message_id=11264*)
     → "Blimey. Are ya tryin' t'tell me that the savior of the world can't make up [his/her] mind about a simple thing like this? Guess some things never change, eh?"
  74: 0x0536 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x0537 [0x1D] PRINT_EVENT_MESSAGE(message_id=11263*)
+ 75: 0x0537 [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
     → "But who be I t'judge? Let me know when you've made yer decision. Jus' don't complain if all the best loot be taken!"
  76: 0x053A [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x053B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ftk0" with entities [EventEntity, EventEntity]
@@ -1569,11 +1569,11 @@ SUBROUTINE_060D:
  86: 0x0610 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x06AC
  87: 0x0618 [0x03] Work_Zone[2] = Work_Zone[4]
  88: 0x061D [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 89: 0x0620 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+ 89: 0x0620 [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
     → "$0. That's what ya want?"
  90: 0x0623 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0624 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 92: 0x0627 [0x24] CREATE_DIALOG(message_id=11258*, default_option=1*, option_flags=0*)
+ 92: 0x0627 [0x24] CREATE_DIALOG(message_id=11260*, default_option=1*, option_flags=0*)
     → "Ya want $0? [Aye./Nay.]"
  93: 0x062E [0x25] WAIT_DIALOG_SELECT()
  94: 0x062F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06A9
@@ -1584,13 +1584,13 @@ SUBROUTINE_060D:
  99: 0x064F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg07" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
 100: 0x0660 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0690
 101: 0x0668 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=567*
-102: 0x0677 [0x1D] PRINT_EVENT_MESSAGE(message_id=11266*)
+102: 0x0677 [0x1D] PRINT_EVENT_MESSAGE(message_id=11268*)
     → "Here. That be a treasure unlike any you'll ever see again. Don't go losin' it over the side of no stinkin' ferry!"
 103: 0x067A [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x067B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
 105: 0x0688 [0x03] Work_Zone[1] = 2*
 106: 0x068D [0x01] GOTO 0x0694
-107: 0x0690 [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
+107: 0x0690 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
     → "By me bleedin' eyepatch, I can't be handing over any booty when yer bag be full of flotsam and jetsam. You heroes need to learn a thing o' two about organization!"
 108: 0x0693 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1603,11 +1603,11 @@ SUBROUTINE_06A9:
 112: 0x06AC [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0748
 113: 0x06B4 [0x03] Work_Zone[2] = Work_Zone[5]
 114: 0x06B9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-115: 0x06BC [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+115: 0x06BC [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
     → "$0. That's what ya want?"
 116: 0x06BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x06C0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-118: 0x06C3 [0x24] CREATE_DIALOG(message_id=11258*, default_option=1*, option_flags=0*)
+118: 0x06C3 [0x24] CREATE_DIALOG(message_id=11260*, default_option=1*, option_flags=0*)
     → "Ya want $0? [Aye./Nay.]"
 119: 0x06CA [0x25] WAIT_DIALOG_SELECT()
 120: 0x06CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0745
@@ -1618,13 +1618,13 @@ SUBROUTINE_06A9:
 125: 0x06EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg07" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
 126: 0x06FC [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x072C
 127: 0x0704 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=567*
-128: 0x0713 [0x1D] PRINT_EVENT_MESSAGE(message_id=11266*)
+128: 0x0713 [0x1D] PRINT_EVENT_MESSAGE(message_id=11268*)
     → "Here. That be a treasure unlike any you'll ever see again. Don't go losin' it over the side of no stinkin' ferry!"
 129: 0x0716 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0717 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
 131: 0x0724 [0x03] Work_Zone[1] = 3*
 132: 0x0729 [0x01] GOTO 0x0730
-133: 0x072C [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
+133: 0x072C [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
     → "By me bleedin' eyepatch, I can't be handing over any booty when yer bag be full of flotsam and jetsam. You heroes need to learn a thing o' two about organization!"
 134: 0x072F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1637,11 +1637,11 @@ SUBROUTINE_0745:
 138: 0x0748 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x07E4
 139: 0x0750 [0x03] Work_Zone[2] = Work_Zone[6]
 140: 0x0755 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-141: 0x0758 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+141: 0x0758 [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
     → "$0. That's what ya want?"
 142: 0x075B [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x075C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-144: 0x075F [0x24] CREATE_DIALOG(message_id=11258*, default_option=1*, option_flags=0*)
+144: 0x075F [0x24] CREATE_DIALOG(message_id=11260*, default_option=1*, option_flags=0*)
     → "Ya want $0? [Aye./Nay.]"
 145: 0x0766 [0x25] WAIT_DIALOG_SELECT()
 146: 0x0767 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07E1
@@ -1652,13 +1652,13 @@ SUBROUTINE_0745:
 151: 0x0787 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg07" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
 152: 0x0798 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x07C8
 153: 0x07A0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=567*
-154: 0x07AF [0x1D] PRINT_EVENT_MESSAGE(message_id=11266*)
+154: 0x07AF [0x1D] PRINT_EVENT_MESSAGE(message_id=11268*)
     → "Here. That be a treasure unlike any you'll ever see again. Don't go losin' it over the side of no stinkin' ferry!"
 155: 0x07B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x07B3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
 157: 0x07C0 [0x03] Work_Zone[1] = 4*
 158: 0x07C5 [0x01] GOTO 0x07CC
-159: 0x07C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
+159: 0x07C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
     → "By me bleedin' eyepatch, I can't be handing over any booty when yer bag be full of flotsam and jetsam. You heroes need to learn a thing o' two about organization!"
 160: 0x07CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1674,13 +1674,13 @@ SUBROUTINE_07E4:
 
 SUBROUTINE_07E7:
 165: 0x07E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg05" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
-166: 0x07F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
+166: 0x07F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11261*)
     → "Arrg, I almost be forgettin'. Me girl wants ya to pummel some beastie that's been hauntin' her dreams. Stuff o' nightmares, she says."
 167: 0x07FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x07FC [0x52] END_LOAD_SCHEDULER: End scheduler "lg05" with entities [LocalPlayer, LocalPlayer], work=257*
 169: 0x080B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lg06" with entities [LocalPlayer, LocalPlayer], work=[257*, 0*]
 170: 0x081C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=566*
-171: 0x082B [0x1D] PRINT_EVENT_MESSAGE(message_id=11260*)
+171: 0x082B [0x1D] PRINT_EVENT_MESSAGE(message_id=11262*)
     → "Don't make much sense to me, but I be guessin' you know the truth of it. If ya ever need an old pirate's help, ya just let me know."
 172: 0x082E [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x082F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=566*
@@ -1736,10 +1736,10 @@ SUBROUTINE_07E7:
 ```
   0: 0x088D [0x1A] CALL_SUBROUTINE(address=0x0102)
   1: 0x0890 [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  2: 0x0893 [0x1D] PRINT_EVENT_MESSAGE(message_id=11261*)
+  2: 0x0893 [0x1D] PRINT_EVENT_MESSAGE(message_id=11263*)
     → "Fer a girl what's saved the world, it be an endearin' thing fer her to be afraid of her dreams."
   3: 0x0896 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0897 [0x1D] PRINT_EVENT_MESSAGE(message_id=11260*)
+  4: 0x0897 [0x1D] PRINT_EVENT_MESSAGE(message_id=11262*)
     → "Don't make much sense to me, but I be guessin' you know the truth of it. If ya ever need an old pirate's help, ya just let me know."
   5: 0x089A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x089B [0x21] END_EVENT
@@ -1846,14 +1846,14 @@ SUBROUTINE_07E7:
   0: 0x089D [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x089E [0x1A] CALL_SUBROUTINE(address=0x0102)
   2: 0x08A1 [0x1A] CALL_SUBROUTINE(address=0x01C0)
-  3: 0x08A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11264*)
+  3: 0x08A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11266*)
     → "Arrg, so you've made a decision?"
   4: 0x08A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x08A8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=566*
   6: 0x08B7 [0x03] Work_Zone[1] = 99*
   7: 0x08BC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   8: 0x08BE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-  9: 0x08C0 [0x24] CREATE_DIALOG(message_id=11256*, default_option=0*, option_flags=0*)
+  9: 0x08C0 [0x24] CREATE_DIALOG(message_id=11258*, default_option=0*, option_flags=0*)
     → "What do ya choose? [Let me think about it./$1./$2./$3./$4.]"
  10: 0x08C7 [0x25] WAIT_DIALOG_SELECT()
  11: 0x08C8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x091A
@@ -1861,10 +1861,10 @@ SUBROUTINE_07E7:
  13: 0x08D5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  14: 0x08D7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  15: 0x08D9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ftk0" with entities [EventEntity, EventEntity], work=566*
- 16: 0x08E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11262*)
+ 16: 0x08E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11264*)
     → "Blimey. Are ya tryin' t'tell me that the savior of the world can't make up [his/her] mind about a simple thing like this? Guess some things never change, eh?"
  17: 0x08EB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x08EC [0x1D] PRINT_EVENT_MESSAGE(message_id=11263*)
+ 18: 0x08EC [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
     → "But who be I t'judge? Let me know when you've made yer decision. Jus' don't complain if all the best loot be taken!"
  19: 0x08EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x08F0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ftk0" with entities [EventEntity, EventEntity]
@@ -1881,11 +1881,11 @@ SUBROUTINE_0984:
  27: 0x0987 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x09F4
  28: 0x098F [0x03] Work_Zone[2] = Work_Zone[4]
  29: 0x0994 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 30: 0x0997 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+ 30: 0x0997 [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
     → "$0. That's what ya want?"
  31: 0x099A [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x099B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 33: 0x099E [0x24] CREATE_DIALOG(message_id=11258*, default_option=1*, option_flags=0*)
+ 33: 0x099E [0x24] CREATE_DIALOG(message_id=11260*, default_option=1*, option_flags=0*)
     → "Ya want $0? [Aye./Nay.]"
  34: 0x09A5 [0x25] WAIT_DIALOG_SELECT()
  35: 0x09A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09F1
@@ -1894,13 +1894,13 @@ SUBROUTINE_0984:
  38: 0x09B5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  39: 0x09B7 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x09E7
  40: 0x09BF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=567*
- 41: 0x09CE [0x1D] PRINT_EVENT_MESSAGE(message_id=11266*)
+ 41: 0x09CE [0x1D] PRINT_EVENT_MESSAGE(message_id=11268*)
     → "Here. That be a treasure unlike any you'll ever see again. Don't go losin' it over the side of no stinkin' ferry!"
  42: 0x09D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x09D2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  44: 0x09DF [0x03] Work_Zone[1] = 2*
  45: 0x09E4 [0x01] GOTO 0x09EB
- 46: 0x09E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
+ 46: 0x09E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
     → "By me bleedin' eyepatch, I can't be handing over any booty when yer bag be full of flotsam and jetsam. You heroes need to learn a thing o' two about organization!"
  47: 0x09EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1912,11 +1912,11 @@ SUBROUTINE_09F1:
  50: 0x09F4 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0A61
  51: 0x09FC [0x03] Work_Zone[2] = Work_Zone[5]
  52: 0x0A01 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 53: 0x0A04 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+ 53: 0x0A04 [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
     → "$0. That's what ya want?"
  54: 0x0A07 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0A08 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 56: 0x0A0B [0x24] CREATE_DIALOG(message_id=11258*, default_option=1*, option_flags=0*)
+ 56: 0x0A0B [0x24] CREATE_DIALOG(message_id=11260*, default_option=1*, option_flags=0*)
     → "Ya want $0? [Aye./Nay.]"
  57: 0x0A12 [0x25] WAIT_DIALOG_SELECT()
  58: 0x0A13 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A5E
@@ -1925,13 +1925,13 @@ SUBROUTINE_09F1:
  61: 0x0A22 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  62: 0x0A24 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0A54
  63: 0x0A2C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=567*
- 64: 0x0A3B [0x1D] PRINT_EVENT_MESSAGE(message_id=11266*)
+ 64: 0x0A3B [0x1D] PRINT_EVENT_MESSAGE(message_id=11268*)
     → "Here. That be a treasure unlike any you'll ever see again. Don't go losin' it over the side of no stinkin' ferry!"
  65: 0x0A3E [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0A3F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  67: 0x0A4C [0x03] Work_Zone[1] = 3*
  68: 0x0A51 [0x01] GOTO 0x0A58
- 69: 0x0A54 [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
+ 69: 0x0A54 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
     → "By me bleedin' eyepatch, I can't be handing over any booty when yer bag be full of flotsam and jetsam. You heroes need to learn a thing o' two about organization!"
  70: 0x0A57 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1943,11 +1943,11 @@ SUBROUTINE_0A5E:
  73: 0x0A61 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0ACE
  74: 0x0A69 [0x03] Work_Zone[2] = Work_Zone[6]
  75: 0x0A6E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 76: 0x0A71 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+ 76: 0x0A71 [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
     → "$0. That's what ya want?"
  77: 0x0A74 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0A75 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 79: 0x0A78 [0x24] CREATE_DIALOG(message_id=11258*, default_option=1*, option_flags=0*)
+ 79: 0x0A78 [0x24] CREATE_DIALOG(message_id=11260*, default_option=1*, option_flags=0*)
     → "Ya want $0? [Aye./Nay.]"
  80: 0x0A7F [0x25] WAIT_DIALOG_SELECT()
  81: 0x0A80 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0ACB
@@ -1956,13 +1956,13 @@ SUBROUTINE_0A5E:
  84: 0x0A8F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  85: 0x0A91 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0AC1
  86: 0x0A99 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=567*
- 87: 0x0AA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11266*)
+ 87: 0x0AA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11268*)
     → "Here. That be a treasure unlike any you'll ever see again. Don't go losin' it over the side of no stinkin' ferry!"
  88: 0x0AAB [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0AAC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  90: 0x0AB9 [0x03] Work_Zone[1] = 4*
  91: 0x0ABE [0x01] GOTO 0x0AC5
- 92: 0x0AC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
+ 92: 0x0AC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
     → "By me bleedin' eyepatch, I can't be handing over any booty when yer bag be full of flotsam and jetsam. You heroes need to learn a thing o' two about organization!"
  93: 0x0AC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2108,10 +2108,10 @@ SUBROUTINE_0AD1:
   2: 0x0D88 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0D8D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0D8E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  5: 0x0D93 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [11369*]:
+  5: 0x0D93 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [11371*]:
     → "Still, we seem t' both be steerin' ourrr ships t'wards the same "X" on the proverbial treasure map fer the time bein'... Yet seein' how our plans be wide as the horiz'n, we best not turn a patched eye to these problems."
   6: 0x0D9A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0D9B [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [11370*]:
+  7: 0x0D9B [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [11372*]:
     → "Keep this infermation below deck, if ye catch me drift. The situation be bad enough without the entire continent up in arms. In any case, I'll make sure t' apprrrise ye of any new developments if I get wind of 'em. Ye can count on that--cross me own plank and hope t' fly, stick a pegleg on me thigh."
   8: 0x0DA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0DA3 [0x21] END_EVENT
@@ -2166,10 +2166,10 @@ SUBROUTINE_0AD1:
   2: 0x0DB0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0DB5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0DB6 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  5: 0x0DBB [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [11378*]:
+  5: 0x0DBB [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [11380*]:
     → "The westerly winds bring wit' 'em tales of destruction from the Near East as well."
   6: 0x0DC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0DC3 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [11382*]:
+  7: 0x0DC3 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [11384*]:
     → "Ye be the ballast that keeps Vana'diel upright, <Player>, and the realm needs ye now mor'n ever. This may not be worth a grain of salt, comin' from an old sailor tucked safely away in his captain's quarters, but don't go overboard wit' the heroics."
   8: 0x0DCA [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0DCB [0x21] END_EVENT

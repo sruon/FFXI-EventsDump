@@ -21,18 +21,18 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1E82      |        7810 |
+|       1 | 0x1E84      |        7812 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1E83      |        7811 |
+|       3 | 0x1E85      |        7813 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
-|       6 | 0x1E84      |        7812 |
+|       6 | 0x1E86      |        7814 |
 
 ## String References
 
-- **7810**: I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also.
-- **7811**: Your presence evokes long-forgotten memories within and reminds me of the hopes and dreams that were my driving force in youth. Insignificant though my powers may be, perhaps the time has come to return to the fray and do my part for the greater good.
-- **7812**: You have my gratitude. May you find favor with the Goddess.
+- **7812**: I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also.
+- **7813**: Your presence evokes long-forgotten memories within and reminds me of the hopes and dreams that were my driving force in youth. Insignificant though my powers may be, perhaps the time has come to return to the fray and do my part for the greater good.
+- **7814**: You have my gratitude. May you find favor with the Goddess.
 
 ## Events
 
@@ -104,28 +104,28 @@
   6: 0x0011 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
   7: 0x0016 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
   8: 0x001B [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x002A
-  9: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+  9: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  10: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0027 [0x01] GOTO 0x0121
  12: 0x002A [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0039
- 13: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+ 13: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  14: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0036 [0x01] GOTO 0x0121
  16: 0x0039 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x00AD
  17: 0x0041 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0050
- 18: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+ 18: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  19: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x004D [0x01] GOTO 0x00AA
  21: 0x0050 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x006E
  22: 0x0058 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0067
- 23: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+ 23: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
     → "Your presence evokes long-forgotten memories within and reminds me of the hopes and dreams that were my driving force in youth. Insignificant though my powers may be, perhaps the time has come to return to the fray and do my part for the greater good."
  24: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0064 [0x01] GOTO 0x006B
- 26: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+ 26: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  27: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -133,11 +133,11 @@ SUBROUTINE_006B:
  28: 0x006B [0x01] GOTO 0x00AA
  29: 0x006E [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x008C
  30: 0x0076 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0085
- 31: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+ 31: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
     → "Your presence evokes long-forgotten memories within and reminds me of the hopes and dreams that were my driving force in youth. Insignificant though my powers may be, perhaps the time has come to return to the fray and do my part for the greater good."
  32: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0082 [0x01] GOTO 0x0089
- 34: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+ 34: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  35: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -145,11 +145,11 @@ SUBROUTINE_0089:
  36: 0x0089 [0x01] GOTO 0x00AA
  37: 0x008C [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x00AA
  38: 0x0094 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x00A3
- 39: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+ 39: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
     → "Your presence evokes long-forgotten memories within and reminds me of the hopes and dreams that were my driving force in youth. Insignificant though my powers may be, perhaps the time has come to return to the fray and do my part for the greater good."
  40: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00A0 [0x01] GOTO 0x00A7
- 42: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+ 42: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  43: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -160,17 +160,17 @@ SUBROUTINE_00AA:
  45: 0x00AA [0x01] GOTO 0x0121
  46: 0x00AD [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0121
  47: 0x00B5 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x00C4
- 48: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+ 48: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  49: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x00C1 [0x01] GOTO 0x011E
  51: 0x00C4 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x00E2
  52: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x00DB
- 53: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
+ 53: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
     → "You have my gratitude. May you find favor with the Goddess."
  54: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x00D8 [0x01] GOTO 0x00DF
- 56: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+ 56: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  57: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -178,11 +178,11 @@ SUBROUTINE_00DF:
  58: 0x00DF [0x01] GOTO 0x011E
  59: 0x00E2 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0100
  60: 0x00EA [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x00F9
- 61: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
+ 61: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
     → "You have my gratitude. May you find favor with the Goddess."
  62: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x00F6 [0x01] GOTO 0x00FD
- 64: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+ 64: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  65: 0x00FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -190,11 +190,11 @@ SUBROUTINE_00FD:
  66: 0x00FD [0x01] GOTO 0x011E
  67: 0x0100 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x011E
  68: 0x0108 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0117
- 69: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
+ 69: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
     → "You have my gratitude. May you find favor with the Goddess."
  70: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0114 [0x01] GOTO 0x011B
- 72: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+ 72: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "I am offering a prayer for those poor souls whose lives have been prematurely extinguished. And you...you are bound for the battlefield, are you not? My thoughts are with you also."
  73: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
 

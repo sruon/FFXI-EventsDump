@@ -23,10 +23,10 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E17      |        7703 |
-|       1 | 0x227E      |        8830 |
-|       2 | 0x227F      |        8831 |
-|       3 | 0x2280      |        8832 |
+|       0 | 0x1E19      |        7705 |
+|       1 | 0x2280      |        8832 |
+|       2 | 0x2281      |        8833 |
+|       3 | 0x2282      |        8834 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x00C8      |         200 |
@@ -35,10 +35,10 @@
 
 ## String References
 
-- **7703**: oFf$26LiM-iTs! bE-yONd$26gAtE EX-trEmeLy$26dAn-GeRoUs! TuRn$26bAck$26iM-mEdiAteLy!
-- **8830**: YoU$26hAVe aUthOR-iZat-iON$26FrOM$26rHinOsTEry?
-- **8831**: IF$26aN Em-ERg-EncY$26liKE yOu$26SAy,$26SeVeN$26WiLL oPEn$26tHE gAtE$26fOR yOu.
-- **8832**: Enter the Priming Gate? [Here we go.../Not just yet...]
+- **7705**: oFf$26LiM-iTs! bE-yONd$26gAtE EX-trEmeLy$26dAn-GeRoUs! TuRn$26bAck$26iM-mEdiAteLy!
+- **8832**: YoU$26hAVe aUthOR-iZat-iON$26FrOM$26rHinOsTEry?
+- **8833**: IF$26aN Em-ERg-EncY$26liKE yOu$26SAy,$26SeVeN$26WiLL oPEn$26tHE gAtE$26fOR yOu.
+- **8834**: Enter the Priming Gate? [Here we go.../Not just yet...]
 
 ## Events
 
@@ -86,7 +86,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "oFf$26LiM-iTs! bE-yONd$26gAtE EX-trEmeLy$26dAn-GeRoUs! TuRn$26bAck$26iM-mEdiAteLy!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -145,13 +145,13 @@
   0: 0x0017 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x001C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x001D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8830*)
+  3: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8832*)
     → "YoU$26hAVe aUthOR-iZat-iON$26FrOM$26rHinOsTEry?"
   4: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=8831*)
+  5: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=8833*)
     → "IF$26aN Em-ERg-EncY$26liKE yOu$26SAy,$26SeVeN$26WiLL oPEn$26tHE gAtE$26fOR yOu."
   6: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0026 [0x24] CREATE_DIALOG(message_id=8832*, default_option=0*, option_flags=0*)
+  7: 0x0026 [0x24] CREATE_DIALOG(message_id=8834*, default_option=0*, option_flags=0*)
     → "Enter the Priming Gate? [Here we go.../Not just yet...]"
   8: 0x002D [0x25] WAIT_DIALOG_SELECT()
   9: 0x002E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006B

@@ -41,24 +41,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DCA      |        7626 |
-|       7 | 0x1D0B      |        7435 |
+|       6 | 0x1DCC      |        7628 |
+|       7 | 0x1D0D      |        7437 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1B9D      |        7069 |
+|      12 | 0x1B9F      |        7071 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1BA8      |        7080 |
-|      20 | 0x1BA9      |        7081 |
-|      21 | 0x1BAA      |        7082 |
-|      22 | 0x1BAB      |        7083 |
-|      23 | 0x1BCF      |        7119 |
+|      19 | 0x1BAA      |        7082 |
+|      20 | 0x1BAB      |        7083 |
+|      21 | 0x1BAC      |        7084 |
+|      22 | 0x1BAD      |        7085 |
+|      23 | 0x1BD1      |        7121 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -78,20 +78,20 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1D04      |        7428 |
-|      44 | 0x1E00      |        7680 |
-|      45 | 0x1D09      |        7433 |
-|      46 | 0x1D08      |        7432 |
+|      43 | 0x1D06      |        7430 |
+|      44 | 0x1E02      |        7682 |
+|      45 | 0x1D0B      |        7435 |
+|      46 | 0x1D0A      |        7434 |
 |      47 | 0x003C      |          60 |
-|      48 | 0x1DC8      |        7624 |
-|      49 | 0x1DC7      |        7623 |
+|      48 | 0x1DCA      |        7626 |
+|      49 | 0x1DC9      |        7625 |
 |      50 | 0x0064      |         100 |
-|      51 | 0x1CF0      |        7408 |
+|      51 | 0x1CF2      |        7410 |
 |      52 | 0x00DC      |         220 |
-|      53 | 0x1BA0      |        7072 |
+|      53 | 0x1BA2      |        7074 |
 |      54 | 0x00C9      |         201 |
-|      55 | 0x1DCB      |        7627 |
-|      56 | 0x1DFF      |        7679 |
+|      55 | 0x1DCD      |        7629 |
+|      56 | 0x1E01      |        7681 |
 |      57 | 0x00B4      |         180 |
 |      58 | 0xFFF6C42B  |  4294362155 |
 |      59 | 0x752B9     |      479929 |
@@ -180,13 +180,13 @@
 |     142 | 0x8FE5      |       36837 |
 |     143 | 0x02A1      |         673 |
 |     144 | 0x0024      |          36 |
-|     145 | 0x1E0A      |        7690 |
-|     146 | 0x1E0B      |        7691 |
-|     147 | 0x1CF2      |        7410 |
-|     148 | 0x1CF1      |        7409 |
-|     149 | 0x1DC6      |        7622 |
-|     150 | 0x1CF4      |        7412 |
-|     151 | 0x1CF3      |        7411 |
+|     145 | 0x1E0C      |        7692 |
+|     146 | 0x1E0D      |        7693 |
+|     147 | 0x1CF4      |        7412 |
+|     148 | 0x1CF3      |        7411 |
+|     149 | 0x1DC8      |        7624 |
+|     150 | 0x1CF6      |        7414 |
+|     151 | 0x1CF5      |        7413 |
 |     152 | 0xFFFFFF73  |  4294967155 |
 |     153 | 0x3C2C5     |      246469 |
 |     154 | 0xFFFFF831  |  4294965297 |
@@ -216,17 +216,17 @@
 |     178 | 0x61A80     |      400000 |
 |     179 | 0xFFFFB565  |  4294948197 |
 |     180 | 0x005A      |          90 |
-|     181 | 0x1DDA      |        7642 |
+|     181 | 0x1DDC      |        7644 |
 |     182 | 0x00E7      |         231 |
-|     183 | 0x1DDB      |        7643 |
+|     183 | 0x1DDD      |        7645 |
 |     184 | 0x01D1      |         465 |
-|     185 | 0x1DDC      |        7644 |
-|     186 | 0x1DDD      |        7645 |
-|     187 | 0x1DDE      |        7646 |
+|     185 | 0x1DDE      |        7646 |
+|     186 | 0x1DDF      |        7647 |
+|     187 | 0x1DE0      |        7648 |
 |     188 | 0x01D2      |         466 |
-|     189 | 0x1DDF      |        7647 |
-|     190 | 0x1DE0      |        7648 |
-|     191 | 0x1DE1      |        7649 |
+|     189 | 0x1DE1      |        7649 |
+|     190 | 0x1DE2      |        7650 |
+|     191 | 0x1DE3      |        7651 |
 |     192 | 0x01C8      |         456 |
 |     193 | 0x0025      |          37 |
 |     194 | 0xFFF952D9  |  4294529753 |
@@ -234,15 +234,15 @@
 |     196 | 0x01CC      |         460 |
 |     197 | 0x01D8      |         472 |
 |     198 | 0x054C      |        1356 |
-|     199 | 0x1DE2      |        7650 |
+|     199 | 0x1DE4      |        7652 |
 |     200 | 0x004B      |          75 |
 |     201 | 0x002C      |          44 |
-|     202 | 0x1DE3      |        7651 |
+|     202 | 0x1DE5      |        7653 |
 |     203 | 0x0087      |         135 |
-|     204 | 0x1DE4      |        7652 |
-|     205 | 0x1DE5      |        7653 |
-|     206 | 0x1DE6      |        7654 |
-|     207 | 0x1B9E      |        7070 |
+|     204 | 0x1DE6      |        7654 |
+|     205 | 0x1DE7      |        7655 |
+|     206 | 0x1DE8      |        7656 |
+|     207 | 0x1BA0      |        7072 |
 |     208 | 0xFFFC5683  |  4294727299 |
 |     209 | 0x9662      |       38498 |
 |     210 | 0x0BF5      |        3061 |
@@ -267,32 +267,32 @@
 
 ## String References
 
-- **7069**: Enter the battlefield? [Enter./Decline.]
-- **7070**: Leave the battlefield? [Run away./Stay.]
-- **7072**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7080**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7081**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7071**: Enter the battlefield? [Enter./Decline.]
+- **7072**: Leave the battlefield? [Run away./Stay.]
+- **7074**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7082**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7083**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7119**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7408**: Skip the event? [Yes./No.]
-- **7409**: Battlefield clear time: $3 second[/s]!
-- **7410**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7411**: The current battlefield clear time record is $3 second[/s].
-- **7412**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7428**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7432**: That record is held by $5 adventurers, including %0!
-- **7433**: That record is held by %0!
-- **7435**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7622**: You have broken the clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]"!
-- **7623**: The current battlefield clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]" is $3 second[/s].
-- **7624**: The current battlefield clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]" is $3 minute[/s] $2 second[/s].
-- **7626**: Which battlefield will you enter? [None./Ancient Flames Beckon./You Are What You Eat./Empty Dreams././././././././././././././././././././././././././././]
-- **7627**: Level limit of 30. The experience point reward for this battlefield will be reduced for parties of seven or more members.
-- **7679**: You will be rewarded upon completion with as many as $0 [item/items]. Sort your inventory in advance to ensure that you can claim your reward.
-- **7680**: The current record for "[Empty Hopes/Empty Dreams/Empty Desires/Empty Aspirations]" is $3 [memory/memories].
-- **7690**: You collected $3 [memory/memories] in this battle.
-- **7691**: A new record has been set for "[Empty Hopes/Empty Dreams/Empty Desires/Empty Aspirations]"!
+- **7084**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7085**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7121**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7410**: Skip the event? [Yes./No.]
+- **7411**: Battlefield clear time: $3 second[/s]!
+- **7412**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7413**: The current battlefield clear time record is $3 second[/s].
+- **7414**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7430**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7434**: That record is held by $5 adventurers, including %0!
+- **7435**: That record is held by %0!
+- **7437**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7624**: You have broken the clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]"!
+- **7625**: The current battlefield clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]" is $3 second[/s].
+- **7626**: The current battlefield clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]" is $3 minute[/s] $2 second[/s].
+- **7628**: Which battlefield will you enter? [None./Ancient Flames Beckon./You Are What You Eat./Empty Dreams././././././././././././././././././././././././././././]
+- **7629**: Level limit of 30. The experience point reward for this battlefield will be reduced for parties of seven or more members.
+- **7681**: You will be rewarded upon completion with as many as $0 [item/items]. Sort your inventory in advance to ensure that you can claim your reward.
+- **7682**: The current record for "[Empty Hopes/Empty Dreams/Empty Desires/Empty Aspirations]" is $3 [memory/memories].
+- **7692**: You collected $3 [memory/memories] in this battle.
+- **7693**: A new record has been set for "[Empty Hopes/Empty Dreams/Empty Desires/Empty Aspirations]"!
 
 ## Events
 
@@ -510,7 +510,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7626*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7628*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Ancient Flames Beckon./You Are What You Eat./Empty Dreams././././././././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -523,7 +523,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x1CF5)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7435*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7437*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -549,7 +549,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x084E)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7069*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -598,22 +598,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07EA
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7080*]:
+ 89: 0x0225 [0x48] [System] [7082*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7081*]:
+ 93: 0x0234 [0x48] [System] [7083*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7082*]:
+ 97: 0x0243 [0x48] [System] [7084*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7083*]:
+101: 0x0252 [0x48] [System] [7085*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -622,7 +622,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x0801
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7428*]:
+105: 0x0469 [0x48] [System] [7430*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x0801
@@ -634,24 +634,24 @@ SUBROUTINE_04CF:
 111: 0x04DF [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04FA
 112: 0x04E7 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04EE [0x15] Work_Zone[5] /= 60*
-114: 0x04F3 [0x48] [System] [7624*]:
+114: 0x04F3 [0x48] [System] [7626*]:
     → "The current battlefield clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]" is $3 minute[/s] $2 second[/s]."
 115: 0x04F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04F7 [0x01] GOTO 0x04FE
-117: 0x04FA [0x48] [System] [7623*]:
+117: 0x04FA [0x48] [System] [7625*]:
     → "The current battlefield clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]" is $3 second[/s]."
 118: 0x04FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04FE:
 119: 0x04FE [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x050D
-120: 0x0506 [0x48] [System] [7433*]:
+120: 0x0506 [0x48] [System] [7435*]:
     → "That record is held by %0!"
 121: 0x0509 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x050A [0x01] GOTO 0x051E
 123: 0x050D [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0512 [0x0C] Work_Zone[6]--
 125: 0x0515 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x051A [0x48] [System] [7432*]:
+126: 0x051A [0x48] [System] [7434*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x051D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -667,7 +667,7 @@ SUBROUTINE_051E:
 SUBROUTINE_0542:
 135: 0x0542 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0568
 136: 0x054A [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0568
-137: 0x0552 [0x24] CREATE_DIALOG(message_id=7408*, default_option=1*, option_flags=0*)
+137: 0x0552 [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0559 [0x25] WAIT_DIALOG_SELECT()
 139: 0x055A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0568
@@ -807,7 +807,7 @@ SUBROUTINE_07EA:
 263: 0x07ED [0x02] IF !(0* == 1*) GOTO 0x07FA
 264: 0x07F5 [0x03] ExtData[1]->WorkLocal[0] = 4*
 265: 0x07FA [0x01] GOTO 0x01A4
-266: 0x07FD [0x48] [System] [7072*]:
+266: 0x07FD [0x48] [System] [7074*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x0800 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -827,14 +827,14 @@ SUBROUTINE_0834:
 
 SUBROUTINE_084E:
 278: 0x084E [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0860
-279: 0x0856 [0x48] [System] [7627*]:
+279: 0x0856 [0x48] [System] [7629*]:
     → "Level limit of 30. The experience point reward for this battlefield will be reduced for parties of seven or more members."
 280: 0x0859 [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x085A [0x05] ExtData[1]->WorkLocal[22] = 1
 282: 0x085D [0x01] GOTO 0x087A
 283: 0x0860 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x087A
 284: 0x0868 [0x03] Work_Zone[2] = 2*
-285: 0x086D [0x48] [System] [7679*]:
+285: 0x086D [0x48] [System] [7681*]:
     → "You will be rewarded upon completion with as many as $0 [item/items]. Sort your inventory in advance to ensure that you can claim your reward."
 286: 0x0870 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x0871 [0x05] ExtData[1]->WorkLocal[22] = 1
@@ -1200,7 +1200,7 @@ SUBROUTINE_0C6A:
  84: 0x0C75 [0x01] GOTO 0x0C93
  85: 0x0C78 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D43
  86: 0x0C80 [0x1C] WAIT(15* ticks)
- 87: 0x0C83 [0x24] CREATE_DIALOG(message_id=7408*, default_option=1*, option_flags=0*)
+ 87: 0x0C83 [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0C8A [0x25] WAIT_DIALOG_SELECT()
  89: 0x0C8B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D43
@@ -1260,17 +1260,17 @@ SUBROUTINE_0D75:
 131: 0x0D88 [0x02] IF !(ExtData[1]->WorkLocal[25] == 2*) GOTO 0x0DC1
 132: 0x0D90 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[27]
 133: 0x0D95 [0x02] IF !(Work_Zone[5] <= 0*) GOTO 0x0DBE
-134: 0x0D9D [0x48] [System] [7690*]:
+134: 0x0D9D [0x48] [System] [7692*]:
     → "You collected $3 [memory/memories] in this battle."
 135: 0x0DA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0DA1 [0x03] Work_Zone[4] = 1*
 137: 0x0DA6 [0x02] IF !(ExtData[1]->WorkLocal[27] < ExtData[1]->WorkLocal[26]) GOTO 0x0DB5
-138: 0x0DAE [0x48] [System] [7691*]:
+138: 0x0DAE [0x48] [System] [7693*]:
     → "A new record has been set for "[Empty Hopes/Empty Dreams/Empty Desires/Empty Aspirations]"!"
 139: 0x0DB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0DB2 [0x01] GOTO 0x0DBE
 141: 0x0DB5 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-142: 0x0DBA [0x48] [System] [7680*]:
+142: 0x0DBA [0x48] [System] [7682*]:
     → "The current record for "[Empty Hopes/Empty Dreams/Empty Desires/Empty Aspirations]" is $3 [memory/memories]."
 143: 0x0DBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1281,18 +1281,18 @@ SUBROUTINE_0DBE:
 147: 0x0DCE [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DE9
 148: 0x0DD6 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 149: 0x0DDD [0x15] Work_Zone[5] /= 60*
-150: 0x0DE2 [0x48] [System] [7410*]:
+150: 0x0DE2 [0x48] [System] [7412*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 151: 0x0DE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x0DE6 [0x01] GOTO 0x0DED
-153: 0x0DE9 [0x48] [System] [7409*]:
+153: 0x0DE9 [0x48] [System] [7411*]:
     → "Battlefield clear time: $3 second[/s]!"
 154: 0x0DEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DED:
 155: 0x0DED [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0E01
 156: 0x0DF5 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-157: 0x0DFA [0x48] [System] [7622*]:
+157: 0x0DFA [0x48] [System] [7624*]:
     → "You have broken the clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]"!"
 158: 0x0DFD [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0DFE [0x01] GOTO 0x0E2A
@@ -1300,12 +1300,12 @@ SUBROUTINE_0DED:
 161: 0x0E09 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 162: 0x0E0E [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 163: 0x0E15 [0x15] Work_Zone[5] /= 60*
-164: 0x0E1A [0x48] [System] [7412*]:
+164: 0x0E1A [0x48] [System] [7414*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 165: 0x0E1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0E1E [0x01] GOTO 0x0E2A
 167: 0x0E21 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-168: 0x0E26 [0x48] [System] [7411*]:
+168: 0x0E26 [0x48] [System] [7413*]:
     → "The current battlefield clear time record is $3 second[/s]."
 169: 0x0E29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1320,18 +1320,18 @@ SUBROUTINE_0E2A:
 177: 0x0E50 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0E6B
 178: 0x0E58 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 179: 0x0E5F [0x15] Work_Zone[5] /= 60*
-180: 0x0E64 [0x48] [System] [7410*]:
+180: 0x0E64 [0x48] [System] [7412*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 181: 0x0E67 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x0E68 [0x01] GOTO 0x0E6F
-183: 0x0E6B [0x48] [System] [7409*]:
+183: 0x0E6B [0x48] [System] [7411*]:
     → "Battlefield clear time: $3 second[/s]!"
 184: 0x0E6E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0E6F:
 185: 0x0E6F [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0E83
 186: 0x0E77 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-187: 0x0E7C [0x48] [System] [7622*]:
+187: 0x0E7C [0x48] [System] [7624*]:
     → "You have broken the clear time record for "[Ancient Flames Beckon/You Are What You Eat/Empty Dreams]"!"
 188: 0x0E7F [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x0E80 [0x01] GOTO 0x0EAC
@@ -1339,12 +1339,12 @@ SUBROUTINE_0E6F:
 191: 0x0E8B [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 192: 0x0E90 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 193: 0x0E97 [0x15] Work_Zone[5] /= 60*
-194: 0x0E9C [0x48] [System] [7412*]:
+194: 0x0E9C [0x48] [System] [7414*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 195: 0x0E9F [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0EA0 [0x01] GOTO 0x0EAC
 197: 0x0EA3 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-198: 0x0EA8 [0x48] [System] [7411*]:
+198: 0x0EA8 [0x48] [System] [7413*]:
     → "The current battlefield clear time record is $3 second[/s]."
 199: 0x0EAB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1777,7 +1777,7 @@ SUBROUTINE_1083:
 
 ```
 # Dead code (unreachable instructions):
-     0x10C9 [0x24] CREATE_DIALOG(message_id=7069*, default_option=1*, option_flags=0*)
+     0x10C9 [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x10D0 [0x25] WAIT_DIALOG_SELECT()
      0x10D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10DF
@@ -1949,7 +1949,7 @@ SUBROUTINE_1083:
      0x1535 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "c100" with entities [LocalPlayer, LocalPlayer], work=155*
      0x1544 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c101" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x1555 [0x1C] WAIT(90* ticks)
-     0x1558 [0x2B] ??? (ID: 16855165/0x0101307D) [7642*]:
+     0x1558 [0x2B] ??? (ID: 16855165/0x0101307D) [7644*]:
     → "You shouldn't move any closer..."
      0x155F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1560 [0x4A] LocalPlayer looks at Nag'molada (ID: 16855167/0x0101307F)
@@ -1963,21 +1963,21 @@ SUBROUTINE_1083:
      0x1588 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16855169/0x01013081), tag_num=0x0C)
      0x158F [0x52] END_LOAD_SCHEDULER: End scheduler "c101" with entities [LocalPlayer, LocalPlayer], work=155*
      0x159E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c102" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
-     0x15AF [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7643*]:
+     0x15AF [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7645*]:
     → "Amazing. I don't know who you are, but I commend you on your ability to make it this far."
      0x15B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15B7 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Nag'molada (ID: 16855167/0x0101307F))
      0x15BD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb0" with entities [Nag'molada (ID: 16855167/0x0101307F), Nag'molada (ID: 16855167/0x0101307F)], work=465*
-     0x15CC [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7644*]:
+     0x15CC [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7646*]:
     → "There she is. The mothercrystal. Well, what do you think?"
      0x15D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15D4 [0x52] END_LOAD_SCHEDULER: End scheduler "c102" with entities [LocalPlayer, LocalPlayer], work=155*
      0x15E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c103" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
-     0x15F4 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7645*]:
+     0x15F4 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7647*]:
     → "Can't you feel her power? Can't you feel her marvelous light streaming through your body? Can't you feel the endless joy she brings?"
      0x15FB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15FC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hbtb" with entities [Nag'molada (ID: 16855167/0x0101307F), Nag'molada (ID: 16855167/0x0101307F)], work=465*
-     0x160B [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7646*]:
+     0x160B [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7648*]:
     → "The light from this crystal feeds our souls and keeps us alive... It keeps the whole world alive."
      0x1612 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1613 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [Nag'molada (ID: 16855167/0x0101307F), Nag'molada (ID: 16855167/0x0101307F)], work=465*
@@ -1986,7 +1986,7 @@ SUBROUTINE_1083:
      0x163E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c1mg" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x164F [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16855164/0x0101307C), tag_num=0x02)
      0x1656 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mgc0" with entities [Nag'molada (ID: 16855167/0x0101307F), Nag'molada (ID: 16855167/0x0101307F)], work=466*
-     0x1665 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7647*]:
+     0x1665 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7649*]:
     → "And that is why we cannot forgive any who attempt to harm the crystal."
      0x166C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x166D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "mgc0" with entities [Nag'molada (ID: 16855167/0x0101307F), Nag'molada (ID: 16855167/0x0101307F)]
@@ -1996,7 +1996,7 @@ SUBROUTINE_1083:
      0x168B [0x52] END_LOAD_SCHEDULER: End scheduler "c1mg" with entities [LocalPlayer, LocalPlayer], work=155*
      0x169A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c104" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x16AB [0x4A] LocalPlayer looks at Selh'teus (ID: 16855166/0x0101307E)
-     0x16B4 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7648*]:
+     0x16B4 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7650*]:
     → "!? Who are... What are you doing here!?"
      0x16BB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16BC [0x2A] GET_REQ_LEVEL(level=16, entity_id=Selh'teus (ID: 16855166/0x0101307E))
@@ -2007,7 +2007,7 @@ SUBROUTINE_1083:
      0x16F6 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16855164/0x0101307C), tag_num=0x03)
      0x16FD [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16855164/0x0101307C), tag_num=0x04)
      0x1704 [0x1C] WAIT(60* ticks)
-     0x1707 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7649*]:
+     0x1707 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7651*]:
     → "That... That darkness...!"
      0x170E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x170F [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Selh'teus (ID: 16855166/0x0101307E), tag_num=0x11)
@@ -2098,7 +2098,7 @@ SUBROUTINE_1083:
      0x19E3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "c301" with entities [LocalPlayer, LocalPlayer], work=155*
      0x19F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c302" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x1A03 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "c302" with entities [LocalPlayer, LocalPlayer], work=155*
-     0x1A12 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7650*]:
+     0x1A12 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7652*]:
     → "That evil boy has released the darkness!"
      0x1A19 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A1A [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 220*
@@ -2116,7 +2116,7 @@ SUBROUTINE_1083:
      0x1A73 [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=0.2°*)
      0x1A7A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "c304" with entities [LocalPlayer, LocalPlayer], work=155*
      0x1A89 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c305" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
-     0x1A9A [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7651*]:
+     0x1A9A [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7653*]:
     → "The Emptiness is destruction that knows not of its destructive force. Even the Dawnmaidens, who fear neither man nor god, tremble in the presence of this hideous darkness."
      0x1AA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1AA2 [0x52] END_LOAD_SCHEDULER: End scheduler "c305" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -2132,7 +2132,7 @@ SUBROUTINE_1083:
      0x1B1F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c310" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x1B30 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mab0" with entities [Nag'molada (ID: 16855167/0x0101307F), Nag'molada (ID: 16855167/0x0101307F)], work=472*
      0x1B3F [0x1C] WAIT(15* ticks)
-     0x1B42 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7652*]:
+     0x1B42 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7654*]:
     → "The Emptiness is...?"
      0x1B49 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B4A [0x52] END_LOAD_SCHEDULER: End scheduler "c310" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -2140,11 +2140,11 @@ SUBROUTINE_1083:
      0x1B6A [0x27] REQ_SET(priority=0x10, entity_id=Nag'molada (ID: 16855167/0x0101307F), tag_num=0x0F)
      0x1B71 [0x27] REQ_SET(priority=0x10, entity_id=Selh'teus (ID: 16855166/0x0101307E), tag_num=0x03)
      0x1B78 [0x1C] WAIT(90* ticks)
-     0x1B7B [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7653*]:
+     0x1B7B [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7655*]:
     → "How...!"
      0x1B82 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "c308" with entities [LocalPlayer, LocalPlayer], work=155*
      0x1B91 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c309" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
-     0x1BA2 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7654*]:
+     0x1BA2 [0x2B] Nag'molada (ID: 16855167/0x0101307F) [7656*]:
     → "Why can he touch the crystal!?"
      0x1BA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BAA [0x1A] CALL_SUBROUTINE(address=0x1DA6)
@@ -2154,7 +2154,7 @@ SUBROUTINE_1083:
      0x1BC4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x1BD5 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=??? (ID: 16855157/0x01013075), tag_num=0x03)
      0x1BDC [0x1B] RETURN
-     0x1BDD [0x24] CREATE_DIALOG(message_id=7070*, default_option=1*, option_flags=0*)
+     0x1BDD [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x1BE4 [0x25] WAIT_DIALOG_SELECT()
      0x1BE5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BF3

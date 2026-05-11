@@ -20,10 +20,10 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2084      |        8324 |
-|       1 | 0x2085      |        8325 |
+|       0 | 0x2086      |        8326 |
+|       1 | 0x2087      |        8327 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x2086      |        8326 |
+|       3 | 0x2088      |        8328 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x0002      |           2 |
@@ -36,9 +36,9 @@
 
 ## String References
 
-- **8324**: Heading out to the field? It's a long way down. Shall I lower the rope ladder?
-- **8325**: Leave camp? [Yes./Not now.]
-- **8326**: Hold on tight, now...and don't look down.
+- **8326**: Heading out to the field? It's a long way down. Shall I lower the rope ladder?
+- **8327**: Leave camp? [Yes./Not now.]
+- **8328**: Hold on tight, now...and don't look down.
 
 ## Events
 
@@ -92,15 +92,15 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8324*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
     → "Heading out to the field? It's a long way down. Shall I lower the rope ladder?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x24] CREATE_DIALOG(message_id=8325*, default_option=0*, option_flags=0*)
+  3: 0x000A [0x24] CREATE_DIALOG(message_id=8327*, default_option=0*, option_flags=0*)
     → "Leave camp? [Yes./Not now.]"
   4: 0x0011 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0012 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0084
   6: 0x001A [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
+  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
     → "Hold on tight, now...and don't look down."
   8: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001F [0x03] Work_Zone[1] = 1*

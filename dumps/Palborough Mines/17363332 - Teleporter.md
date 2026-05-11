@@ -20,19 +20,19 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CBF      |        7359 |
-|       1 | 0x1CC0      |        7360 |
+|       0 | 0x1CC1      |        7361 |
+|       1 | 0x1CC2      |        7362 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
-|       6 | 0x1CC3      |        7363 |
+|       6 | 0x1CC5      |        7365 |
 
 ## String References
 
-- **7359**: Welcome to the Palborough Mines. You may teleport to different sections of the mines from here.
-- **7360**: Teleport where? [Raft docks./Mythril Refiner./Elevator./Old toolboxes./Cancel.]
-- **7363**: Canceled.
+- **7361**: Welcome to the Palborough Mines. You may teleport to different sections of the mines from here.
+- **7362**: Teleport where? [Raft docks./Mythril Refiner./Elevator./Old toolboxes./Cancel.]
+- **7365**: Canceled.
 
 ## Events
 
@@ -82,10 +82,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
     → "Welcome to the Palborough Mines. You may teleport to different sections of the mines from here."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7360*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7362*, default_option=0*, option_flags=0*)
     → "Teleport where? [Raft docks./Mythril Refiner./Elevator./Old toolboxes./Cancel.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001F
@@ -100,7 +100,7 @@
  13: 0x0043 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0055
  14: 0x004B [0x27] REQ_SET(priority=0x20, entity_id=LocalPlayer, tag_num=0x2B)
  15: 0x0052 [0x01] GOTO 0x005A
- 16: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
+ 16: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
     → "Canceled."
  17: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0059 [0x21] END_EVENT

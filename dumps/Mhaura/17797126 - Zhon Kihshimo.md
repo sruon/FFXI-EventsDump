@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x1BD2      |        7122 |
-|       2 | 0x1BD3      |        7123 |
+|       1 | 0x1BD4      |        7124 |
+|       2 | 0x1BD5      |        7125 |
 
 ## String References
 
-- **7122**: Welcome to the Sailorrr's Stay! If you need armor or shields, we got those, too! Just talk to Graine here, and she'll show you our wares!
-- **7123**: And if you need weapons, go see Runito-Monito upstairrrs! He's got the meanest weapons this side of the Bastore Sea!
+- **7124**: Welcome to the Sailorrr's Stay! If you need armor or shields, we got those, too! Just talk to Graine here, and she'll show you our wares!
+- **7125**: And if you need weapons, go see Runito-Monito upstairrrs! He's got the meanest weapons this side of the Bastore Sea!
 
 ## Events
 
@@ -78,10 +78,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7122*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7124*)
     → "Welcome to the Sailorrr's Stay! If you need armor or shields, we got those, too! Just talk to Graine here, and she'll show you our wares!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7123*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7125*)
     → "And if you need weapons, go see Runito-Monito upstairrrs! He's got the meanest weapons this side of the Bastore Sea!"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x21] END_EVENT

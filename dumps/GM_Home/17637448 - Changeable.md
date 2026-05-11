@@ -22,13 +22,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x233A      |        9018 |
-|       2 | 0x233B      |        9019 |
+|       1 | 0x233C      |        9020 |
+|       2 | 0x233D      |        9021 |
 
 ## String References
 
-- **9018**: The inn is just up ahead.
-- **9019**: The inn? Nowhere around here, I'm afraid.
+- **9020**: The inn is just up ahead.
+- **9021**: The inn? Nowhere around here, I'm afraid.
 
 ## Events
 
@@ -76,7 +76,7 @@
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0007 [0x1C] WAIT(30* ticks)
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "The inn is just up ahead."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -105,7 +105,7 @@
   0: 0x0010 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0016 [0x1C] WAIT(30* ticks)
-  3: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+  3: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "The inn? Nowhere around here, I'm afraid."
   4: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001D [0x21] END_EVENT

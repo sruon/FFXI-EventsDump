@@ -20,16 +20,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C6D      |        7277 |
+|       0 | 0x1C6F      |        7279 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1C6F      |        7279 |
+|       2 | 0x1C71      |        7281 |
 |       3 | 0x0005      |           5 |
 |       4 | 0x0013      |          19 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0002      |           2 |
 |       7 | 0x40000000  |  1073741824 |
 |       8 | 0x0004      |           4 |
-|       9 | 0x1C70      |        7280 |
+|       9 | 0x1C72      |        7282 |
 |      10 | 0x03E8      |        1000 |
 |      11 | 0x03E3      |         995 |
 |      12 | 0x0389      |         905 |
@@ -85,10 +85,10 @@
 |      62 | 0x001D      |          29 |
 |      63 | 0x001E      |          30 |
 |      64 | 0x001F      |          31 |
-|      65 | 0x1C71      |        7281 |
+|      65 | 0x1C73      |        7283 |
 |      66 | 0x00FA      |         250 |
 |      67 | 0x00F5      |         245 |
-|      68 | 0x1C72      |        7282 |
+|      68 | 0x1C74      |        7284 |
 |      69 | 0x09C4      |        2500 |
 |      70 | 0x07D0      |        2000 |
 |      71 | 0x05DC      |        1500 |
@@ -96,11 +96,11 @@
 
 ## String References
 
-- **7277**: DEBUG: Debug? [Colonization rate degradation over time: on/off/Biouvac degradation over time: on/off./Change internal colonization rate value./Change internal station building value./Change internal biouvac A building value./Change internal biouvac B building value./Change internal biouvac C building value./Change internal biouvac D building value./Change internal biouvac E building value./Add station coalition assignment completion value./Add biouvac A coalition assignment completion value./Add biouvac B coalition assignment completion value./Add biouvac C coalition assignment completion value./Add biouvac D coalition assignment completion value./Add biouvac E coalition assignment completion value./Add ergon locus A coalition assignment completion value./Add ergon locus B coalition assignment completion value./Add ergon locus C coalition assignment completion value./Add ergon locus D coalition assignment completion value./Ergon loc degradation over time: on/off./Add colonization rate coalition assigment completion value./Cancel.]
-- **7279**: DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]
-- **7280**: DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]
-- **7281**: DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]
-- **7282**: DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]
+- **7279**: DEBUG: Debug? [Colonization rate degradation over time: on/off/Biouvac degradation over time: on/off./Change internal colonization rate value./Change internal station building value./Change internal biouvac A building value./Change internal biouvac B building value./Change internal biouvac C building value./Change internal biouvac D building value./Change internal biouvac E building value./Add station coalition assignment completion value./Add biouvac A coalition assignment completion value./Add biouvac B coalition assignment completion value./Add biouvac C coalition assignment completion value./Add biouvac D coalition assignment completion value./Add biouvac E coalition assignment completion value./Add ergon locus A coalition assignment completion value./Add ergon locus B coalition assignment completion value./Add ergon locus C coalition assignment completion value./Add ergon locus D coalition assignment completion value./Ergon loc degradation over time: on/off./Add colonization rate coalition assigment completion value./Cancel.]
+- **7281**: DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]
+- **7282**: DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]
+- **7283**: DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]
+- **7284**: DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]
 
 ## Events
 
@@ -473,11 +473,11 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7277*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7279*, default_option=0*, option_flags=0*)
     → "DEBUG: Debug? [Colonization rate degradation over time: on/off/Biouvac degradation over time: on/off./Change internal colonization rate value./Change internal station building value./Change internal biouvac A building value./Change internal biouvac B building value./Change internal biouvac C building value./Change internal biouvac D building value./Change internal biouvac E building value./Add station coalition assignment completion value./Add biouvac A coalition assignment completion value./Add biouvac B coalition assignment completion value./Add biouvac C coalition assignment completion value./Add biouvac D coalition assignment completion value./Add biouvac E coalition assignment completion value./Add ergon locus A coalition assignment completion value./Add ergon locus B coalition assignment completion value./Add ergon locus C coalition assignment completion value./Add ergon locus D coalition assignment completion value./Ergon loc degradation over time: on/off./Add colonization rate coalition assigment completion value./Cancel.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0065
-  3: 0x0011 [0x24] CREATE_DIALOG(message_id=7279*, default_option=0*, option_flags=0*)
+  3: 0x0011 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
     → "DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]"
   4: 0x0018 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0019 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002D
@@ -495,7 +495,7 @@ SUBROUTINE_0051:
  15: 0x0059 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=1*)
  16: 0x0062 [0x01] GOTO 0x1489
  17: 0x0065 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00C1
- 18: 0x006D [0x24] CREATE_DIALOG(message_id=7279*, default_option=0*, option_flags=0*)
+ 18: 0x006D [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
     → "DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]"
  19: 0x0074 [0x25] WAIT_DIALOG_SELECT()
  20: 0x0075 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0089
@@ -513,7 +513,7 @@ SUBROUTINE_00AD:
  30: 0x00B5 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=2*)
  31: 0x00BE [0x01] GOTO 0x1489
  32: 0x00C1 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0361
- 33: 0x00C9 [0x24] CREATE_DIALOG(message_id=7280*, default_option=0*, option_flags=0*)
+ 33: 0x00C9 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]"
  34: 0x00D0 [0x25] WAIT_DIALOG_SELECT()
  35: 0x00D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E5
@@ -618,7 +618,7 @@ SUBROUTINE_034D:
 132: 0x0355 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=3*)
 133: 0x035E [0x01] GOTO 0x1489
 134: 0x0361 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x045D
-135: 0x0369 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
+135: 0x0369 [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]"
 136: 0x0370 [0x25] WAIT_DIALOG_SELECT()
 137: 0x0371 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0385
@@ -660,7 +660,7 @@ SUBROUTINE_0449:
 171: 0x0451 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=4*)
 172: 0x045A [0x01] GOTO 0x1489
 173: 0x045D [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0559
-174: 0x0465 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
+174: 0x0465 [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]"
 175: 0x046C [0x25] WAIT_DIALOG_SELECT()
 176: 0x046D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0481
@@ -702,7 +702,7 @@ SUBROUTINE_0545:
 210: 0x054D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=5*)
 211: 0x0556 [0x01] GOTO 0x1489
 212: 0x0559 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0655
-213: 0x0561 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
+213: 0x0561 [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]"
 214: 0x0568 [0x25] WAIT_DIALOG_SELECT()
 215: 0x0569 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x057D
@@ -744,7 +744,7 @@ SUBROUTINE_0641:
 249: 0x0649 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=6*)
 250: 0x0652 [0x01] GOTO 0x1489
 251: 0x0655 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0751
-252: 0x065D [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
+252: 0x065D [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]"
 253: 0x0664 [0x25] WAIT_DIALOG_SELECT()
 254: 0x0665 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0679
@@ -786,7 +786,7 @@ SUBROUTINE_073D:
 288: 0x0745 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=7*)
 289: 0x074E [0x01] GOTO 0x1489
 290: 0x0751 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x084D
-291: 0x0759 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
+291: 0x0759 [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]"
 292: 0x0760 [0x25] WAIT_DIALOG_SELECT()
 293: 0x0761 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0775
@@ -828,7 +828,7 @@ SUBROUTINE_0839:
 327: 0x0841 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=8*)
 328: 0x084A [0x01] GOTO 0x1489
 329: 0x084D [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0949
-330: 0x0855 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
+330: 0x0855 [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [250."45."05."00./195./105./100./95./5./0./Cancel.]"
 331: 0x085C [0x25] WAIT_DIALOG_SELECT()
 332: 0x085D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0871
@@ -870,7 +870,7 @@ SUBROUTINE_0935:
 366: 0x093D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=9*)
 367: 0x0946 [0x01] GOTO 0x1489
 368: 0x0949 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0A45
-369: 0x0951 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+369: 0x0951 [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 370: 0x0958 [0x25] WAIT_DIALOG_SELECT()
 371: 0x0959 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x096D
@@ -912,7 +912,7 @@ SUBROUTINE_0A31:
 405: 0x0A39 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=10*)
 406: 0x0A42 [0x01] GOTO 0x1489
 407: 0x0A45 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0B41
-408: 0x0A4D [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+408: 0x0A4D [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 409: 0x0A54 [0x25] WAIT_DIALOG_SELECT()
 410: 0x0A55 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A69
@@ -954,7 +954,7 @@ SUBROUTINE_0B2D:
 444: 0x0B35 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=11*)
 445: 0x0B3E [0x01] GOTO 0x1489
 446: 0x0B41 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0C3D
-447: 0x0B49 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+447: 0x0B49 [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 448: 0x0B50 [0x25] WAIT_DIALOG_SELECT()
 449: 0x0B51 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B65
@@ -996,7 +996,7 @@ SUBROUTINE_0C29:
 483: 0x0C31 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=12*)
 484: 0x0C3A [0x01] GOTO 0x1489
 485: 0x0C3D [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0D39
-486: 0x0C45 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+486: 0x0C45 [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 487: 0x0C4C [0x25] WAIT_DIALOG_SELECT()
 488: 0x0C4D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C61
@@ -1038,7 +1038,7 @@ SUBROUTINE_0D25:
 522: 0x0D2D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=13*)
 523: 0x0D36 [0x01] GOTO 0x1489
 524: 0x0D39 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0E35
-525: 0x0D41 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+525: 0x0D41 [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 526: 0x0D48 [0x25] WAIT_DIALOG_SELECT()
 527: 0x0D49 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D5D
@@ -1080,7 +1080,7 @@ SUBROUTINE_0E21:
 561: 0x0E29 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=14*)
 562: 0x0E32 [0x01] GOTO 0x1489
 563: 0x0E35 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0F31
-564: 0x0E3D [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+564: 0x0E3D [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 565: 0x0E44 [0x25] WAIT_DIALOG_SELECT()
 566: 0x0E45 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E59
@@ -1122,7 +1122,7 @@ SUBROUTINE_0F1D:
 600: 0x0F25 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=15*)
 601: 0x0F2E [0x01] GOTO 0x1489
 602: 0x0F31 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x102D
-603: 0x0F39 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+603: 0x0F39 [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 604: 0x0F40 [0x25] WAIT_DIALOG_SELECT()
 605: 0x0F41 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F55
@@ -1164,7 +1164,7 @@ SUBROUTINE_1019:
 639: 0x1021 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=16*)
 640: 0x102A [0x01] GOTO 0x1489
 641: 0x102D [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x1129
-642: 0x1035 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+642: 0x1035 [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 643: 0x103C [0x25] WAIT_DIALOG_SELECT()
 644: 0x103D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1051
@@ -1206,7 +1206,7 @@ SUBROUTINE_1115:
 678: 0x111D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=17*)
 679: 0x1126 [0x01] GOTO 0x1489
 680: 0x1129 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x1225
-681: 0x1131 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+681: 0x1131 [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 682: 0x1138 [0x25] WAIT_DIALOG_SELECT()
 683: 0x1139 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x114D
@@ -1248,7 +1248,7 @@ SUBROUTINE_1211:
 717: 0x1219 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=18*)
 718: 0x1222 [0x01] GOTO 0x1489
 719: 0x1225 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x1321
-720: 0x122D [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+720: 0x122D [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 721: 0x1234 [0x25] WAIT_DIALOG_SELECT()
 722: 0x1235 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1249
@@ -1290,7 +1290,7 @@ SUBROUTINE_130D:
 756: 0x1315 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=19*)
 757: 0x131E [0x01] GOTO 0x1489
 758: 0x1321 [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x137D
-759: 0x1329 [0x24] CREATE_DIALOG(message_id=7279*, default_option=0*, option_flags=0*)
+759: 0x1329 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
     → "DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]"
 760: 0x1330 [0x25] WAIT_DIALOG_SELECT()
 761: 0x1331 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1345
@@ -1308,7 +1308,7 @@ SUBROUTINE_1369:
 771: 0x1371 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=20*)
 772: 0x137A [0x01] GOTO 0x1489
 773: 0x137D [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x1479
-774: 0x1385 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+774: 0x1385 [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 775: 0x138C [0x25] WAIT_DIALOG_SELECT()
 776: 0x138D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13A1

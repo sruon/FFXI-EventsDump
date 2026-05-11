@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2141      |        8513 |
-|       3 | 0x2142      |        8514 |
+|       2 | 0x2143      |        8515 |
+|       3 | 0x2144      |        8516 |
 
 ## String References
 
-- **8513**: Whenever you look around Windurst Woods you see Mithra, rrright? But just until a few decades ago, this whole arrrea was full of Tarutaru.
-- **8514**: That was until the warrr years when the Mithran chieftainness, Perih Vashai, came across the seas from the Mithran homeland with her arrrmy of fighters.
+- **8515**: Whenever you look around Windurst Woods you see Mithra, rrright? But just until a few decades ago, this whole arrrea was full of Tarutaru.
+- **8516**: That was until the warrr years when the Mithran chieftainness, Perih Vashai, came across the seas from the Mithran homeland with her arrrmy of fighters.
 
 ## Events
 
@@ -156,10 +156,10 @@
   2: 0x002E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x002F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Seno Zarhin (ID: 17764492/0x010F108C), tag_num=0x01)
-  5: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=8513*)
+  5: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=8515*)
     → "Whenever you look around Windurst Woods you see Mithra, rrright? But just until a few decades ago, this whole arrrea was full of Tarutaru."
   6: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=8514*)
+  7: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=8516*)
     → "That was until the warrr years when the Mithran chieftainness, Perih Vashai, came across the seas from the Mithran homeland with her arrrmy of fighters."
   8: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x003F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Seno Zarhin (ID: 17764492/0x010F108C), tag_num=0x02)

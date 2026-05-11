@@ -21,12 +21,12 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1DFF      |        7679 |
+|       1 | 0x1E01      |        7681 |
 |       2 | 0x0000      |           0 |
 
 ## String References
 
-- **7679**: I was beginning to think the auction house was going to have to shut down for good...until you saved me. Please accept my thanks.
+- **7681**: I was beginning to think the auction house was going to have to shut down for good...until you saved me. Please accept my thanks.
 
 ## Events
 
@@ -82,7 +82,7 @@
   5: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
   6: 0x0012 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0013 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
+  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
     → "I was beginning to think the auction house was going to have to shut down for good...until you saved me. Please accept my thanks."
   9: 0x0017 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=0*
  10: 0x0026 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]

@@ -54,7 +54,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E29      |        7721 |
+|       0 | 0x1E2B      |        7723 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
@@ -81,12 +81,12 @@
 |      24 | 0x0090      |         144 |
 |      25 | 0x00B4      |         180 |
 |      26 | 0x0004      |           4 |
-|      27 | 0x1D07      |        7431 |
-|      28 | 0x1D08      |        7432 |
-|      29 | 0x1D0A      |        7434 |
-|      30 | 0x1D0B      |        7435 |
-|      31 | 0x1D0C      |        7436 |
-|      32 | 0x1D0D      |        7437 |
+|      27 | 0x1D09      |        7433 |
+|      28 | 0x1D0A      |        7434 |
+|      29 | 0x1D0C      |        7436 |
+|      30 | 0x1D0D      |        7437 |
+|      31 | 0x1D0E      |        7438 |
+|      32 | 0x1D0F      |        7439 |
 |      33 | 0x0102      |         258 |
 |      34 | 0x0202      |         514 |
 |      35 | 0x0156      |         342 |
@@ -138,7 +138,7 @@
 
 ## String References
 
-- **7721**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **7723**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
 
 ## Events
 
@@ -212,7 +212,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7721*]:
+  1: 0x0003 [0x48] [System] [7723*]:
     → "The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
   2: 0x0006 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0017 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0033
@@ -635,17 +635,17 @@ SUBROUTINE_032D:
 
 SUBROUTINE_032E:
 109: 0x032E [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0341
-110: 0x0336 [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7431*]:
+110: 0x0336 [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7433*]:
     → "Ah, you must be <Player>. We've been expecting you."
 111: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x033E [0x01] GOTO 0x0367
 113: 0x0341 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0354
-114: 0x0349 [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7431*]:
+114: 0x0349 [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7433*]:
     → "Ah, you must be <Player>. We've been expecting you."
 115: 0x0350 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0351 [0x01] GOTO 0x0367
 117: 0x0354 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0367
-118: 0x035C [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7431*]:
+118: 0x035C [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7433*]:
     → "Ah, you must be <Player>. We've been expecting you."
 119: 0x0363 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0364 [0x01] GOTO 0x0367
@@ -655,17 +655,17 @@ SUBROUTINE_0367:
 
 SUBROUTINE_0368:
 122: 0x0368 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x037B
-123: 0x0370 [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7432*]:
+123: 0x0370 [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7434*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 124: 0x0377 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0378 [0x01] GOTO 0x03A1
 126: 0x037B [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x038E
-127: 0x0383 [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7432*]:
+127: 0x0383 [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7434*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 128: 0x038A [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x038B [0x01] GOTO 0x03A1
 130: 0x038E [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x03A1
-131: 0x0396 [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7432*]:
+131: 0x0396 [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7434*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 132: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x039E [0x01] GOTO 0x03A1
@@ -675,17 +675,17 @@ SUBROUTINE_03A1:
 
 SUBROUTINE_03A2:
 135: 0x03A2 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x03B5
-136: 0x03AA [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7434*]:
+136: 0x03AA [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7436*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 137: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x03B2 [0x01] GOTO 0x03DB
 139: 0x03B5 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x03C8
-140: 0x03BD [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7434*]:
+140: 0x03BD [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7436*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 141: 0x03C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x03C5 [0x01] GOTO 0x03DB
 143: 0x03C8 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x03DB
-144: 0x03D0 [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7434*]:
+144: 0x03D0 [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7436*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 145: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x03D8 [0x01] GOTO 0x03DB
@@ -695,17 +695,17 @@ SUBROUTINE_03DB:
 
 SUBROUTINE_03DC:
 148: 0x03DC [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x03EF
-149: 0x03E4 [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7435*]:
+149: 0x03E4 [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7437*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 150: 0x03EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x03EC [0x01] GOTO 0x0415
 152: 0x03EF [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0402
-153: 0x03F7 [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7435*]:
+153: 0x03F7 [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7437*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 154: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x03FF [0x01] GOTO 0x0415
 156: 0x0402 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0415
-157: 0x040A [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7435*]:
+157: 0x040A [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7437*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 158: 0x0411 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0412 [0x01] GOTO 0x0415
@@ -715,17 +715,17 @@ SUBROUTINE_0415:
 
 SUBROUTINE_0416:
 161: 0x0416 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0429
-162: 0x041E [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7436*]:
+162: 0x041E [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7438*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 163: 0x0425 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x0426 [0x01] GOTO 0x044F
 165: 0x0429 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x043C
-166: 0x0431 [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7436*]:
+166: 0x0431 [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7438*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 167: 0x0438 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0439 [0x01] GOTO 0x044F
 169: 0x043C [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x044F
-170: 0x0444 [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7436*]:
+170: 0x0444 [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7438*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 171: 0x044B [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x044C [0x01] GOTO 0x044F
@@ -735,17 +735,17 @@ SUBROUTINE_044F:
 
 SUBROUTINE_0450:
 174: 0x0450 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0463
-175: 0x0458 [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7437*]:
+175: 0x0458 [0x2B] Caulaise, R.K. (ID: 17171053/0x0106026D) [7439*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 176: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0460 [0x01] GOTO 0x0489
 178: 0x0463 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0476
-179: 0x046B [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7437*]:
+179: 0x046B [0x2B] Marianne, I.M. (ID: 17171054/0x0106026E) [7439*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 180: 0x0472 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0473 [0x01] GOTO 0x0489
 182: 0x0476 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0489
-183: 0x047E [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7437*]:
+183: 0x047E [0x2B] Lamurara, C.C. (ID: 17171055/0x0106026F) [7439*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 184: 0x0485 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0486 [0x01] GOTO 0x0489

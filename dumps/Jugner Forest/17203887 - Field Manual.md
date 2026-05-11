@@ -26,27 +26,27 @@
 |       3 | 0x0003      |           3 |
 |       4 | 0x000B      |          11 |
 |       5 | 0x000C      |          12 |
-|       6 | 0x2273      |        8819 |
-|       7 | 0x2274      |        8820 |
+|       6 | 0x2275      |        8821 |
+|       7 | 0x2276      |        8822 |
 |       8 | 0x0093      |         147 |
-|       9 | 0x2E8C      |       11916 |
-|      10 | 0x2E8D      |       11917 |
-|      11 | 0x2E7F      |       11903 |
+|       9 | 0x2E8E      |       11918 |
+|      10 | 0x2E8F      |       11919 |
+|      11 | 0x2E81      |       11905 |
 |      12 | 0x0007      |           7 |
-|      13 | 0x2E8F      |       11919 |
-|      14 | 0x2275      |        8821 |
+|      13 | 0x2E91      |       11921 |
+|      14 | 0x2277      |        8823 |
 |      15 | 0x0004      |           4 |
-|      16 | 0x2276      |        8822 |
-|      17 | 0x2277      |        8823 |
-|      18 | 0x2A77      |       10871 |
-|      19 | 0x2A7C      |       10876 |
-|      20 | 0x2A78      |       10872 |
-|      21 | 0x2E90      |       11920 |
-|      22 | 0x2E91      |       11921 |
+|      16 | 0x2278      |        8824 |
+|      17 | 0x2279      |        8825 |
+|      18 | 0x2A79      |       10873 |
+|      19 | 0x2A7E      |       10878 |
+|      20 | 0x2A7A      |       10874 |
+|      21 | 0x2E92      |       11922 |
+|      22 | 0x2E93      |       11923 |
 |      23 | 0x001F      |          31 |
-|      24 | 0x2677      |        9847 |
+|      24 | 0x2679      |        9849 |
 |      25 | 0x0006      |           6 |
-|      26 | 0x2E7C      |       11900 |
+|      26 | 0x2E7E      |       11902 |
 |      27 | 0x045C      |        1116 |
 |      28 | 0x045D      |        1117 |
 |      29 | 0x045E      |        1118 |
@@ -64,25 +64,25 @@
 |      41 | 0x0190      |         400 |
 |      42 | 0x01C2      |         450 |
 |      43 | 0x0466      |        1126 |
-|      44 | 0x2E84      |       11908 |
-|      45 | 0x2E85      |       11909 |
-|      46 | 0x2E86      |       11910 |
-|      47 | 0x2E87      |       11911 |
-|      48 | 0x2E88      |       11912 |
-|      49 | 0x2E89      |       11913 |
-|      50 | 0x2E8A      |       11914 |
+|      44 | 0x2E86      |       11910 |
+|      45 | 0x2E87      |       11911 |
+|      46 | 0x2E88      |       11912 |
+|      47 | 0x2E89      |       11913 |
+|      48 | 0x2E8A      |       11914 |
+|      49 | 0x2E8B      |       11915 |
+|      50 | 0x2E8C      |       11916 |
 |      51 | 0x0005      |           5 |
 |      52 | 0x0008      |           8 |
 |      53 | 0x0009      |           9 |
-|      54 | 0x2E81      |       11905 |
-|      55 | 0x2E7D      |       11901 |
+|      54 | 0x2E83      |       11907 |
+|      55 | 0x2E7F      |       11903 |
 |      56 | 0x000A      |          10 |
 |      57 | 0x0019      |          25 |
-|      58 | 0x2E7E      |       11902 |
+|      58 | 0x2E80      |       11904 |
 |      59 | 0x0032      |          50 |
 |      60 | 0x0014      |          20 |
 |      61 | 0x000F      |          15 |
-|      62 | 0x2E80      |       11904 |
+|      62 | 0x2E82      |       11906 |
 |      63 | 0x007A      |         122 |
 |      64 | 0x0104      |         260 |
 |      65 | 0x0089      |         137 |
@@ -100,29 +100,29 @@
 
 ## String References
 
-- **8819**: A field manual has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.
-- **8820**: What will you do? [Nothing./Read about individual training./Review current training regime./Cancel current training regime./Read about elite training./Read about field support.]
-- **8821**: Which page? [I've changed my mind./Page 1./Page 2./Page 3./Page 4./Page 5.]
-- **8822**: The information on this page instructs you to defeat the following:
-- **10871**: Target level range: $5\`$6.
-- **10872**: Undertake this training regime? [Bring it on!/No, wait...]
-- **11900**: (End of list.)
-- **11901**: The tabs you acquire can be spent on field support.
-- **11902**: Which one? (You have $8 [tab/tabs]). [Nothing for now./Repatriation ($9)./White magic: Reraise ($10)./White magic: Regen ($11)./White magic: Refresh ($12)./White magic: Protect ($13)./White magic: Shell ($14)./Field recipe: Dried Meat ($15)./Field recipe: Salted Fish ($16)./Field recipe: Hard Cookie ($17)./Field recipe: Instant Noodles ($18)./Receive alter ego: Sakura. ($19)./Receive alter ego: Koru-Moru. ($20).]
-- **11903**: Are you certain? [Yes./No.]
-- **11905**: You do not have enough tabs.
-- **11908**: Which one? (You have $8 [tab/tabs]). [Nothing for now./Read instructions./$3($27)./$3($28)./$3($29)./$3($30)./$3($31)./$3($ )./$3($!)./$3($").]
-- **11909**: "Elite training" is a section of the Field Manual which caters to dauntless adventurers who wish to engage in a more grueling test of their mettle.
-- **11910**: To participate in elite training regimes, you must acquire chapter transcripts, for which tabs are required.
-- **11911**: Trading $35, gil, or a piece of equipment at designated locations (while in possession of a chapter transcript) will trigger the commencement of your training.
-- **11912**: Traded items will not be returned to you. You will, however, be furnished with rewards of correlating value upon the successful completion of each elite training regime.
-- **11913**: Even within elite training, there are regimes of varying difficulty. The trade limit for each succeeding chapter will be greater than the last, and the training objective more challenging. For safety reasons, all participants are recommended to be well prepared.
-- **11914**: Lastly, we at the A.M.A.N. recognize the importance of rest and recuperation as part of a healthy adventuring lifestyle. Therefore, a mandatory cool-down period will be imposed upon all adventurers following the completion of an elite training regime. Until this time has elapsed, you will be unable to undertake further training, even if a chapter transcript is in your possession.
-- **11916**: You cannot undertake a training regime while a hunt is active.
-- **11917**: Cancel hunt? [Yes./No.]
-- **11919**: The requisite time has not yet elapsed since undertaking your last regime. You may be ineligible to receive gil and tab rewards.
-- **11920**: Set training regime to automatically repeat upon completion?
-- **11921**: Set training regime to repeat? [Yes./No.]
+- **8821**: A field manual has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.
+- **8822**: What will you do? [Nothing./Read about individual training./Review current training regime./Cancel current training regime./Read about elite training./Read about field support.]
+- **8823**: Which page? [I've changed my mind./Page 1./Page 2./Page 3./Page 4./Page 5.]
+- **8824**: The information on this page instructs you to defeat the following:
+- **10873**: Target level range: $5\`$6.
+- **10874**: Undertake this training regime? [Bring it on!/No, wait...]
+- **11902**: (End of list.)
+- **11903**: The tabs you acquire can be spent on field support.
+- **11904**: Which one? (You have $8 [tab/tabs]). [Nothing for now./Repatriation ($9)./White magic: Reraise ($10)./White magic: Regen ($11)./White magic: Refresh ($12)./White magic: Protect ($13)./White magic: Shell ($14)./Field recipe: Dried Meat ($15)./Field recipe: Salted Fish ($16)./Field recipe: Hard Cookie ($17)./Field recipe: Instant Noodles ($18)./Receive alter ego: Sakura. ($19)./Receive alter ego: Koru-Moru. ($20).]
+- **11905**: Are you certain? [Yes./No.]
+- **11907**: You do not have enough tabs.
+- **11910**: Which one? (You have $8 [tab/tabs]). [Nothing for now./Read instructions./$3($27)./$3($28)./$3($29)./$3($30)./$3($31)./$3($ )./$3($!)./$3($").]
+- **11911**: "Elite training" is a section of the Field Manual which caters to dauntless adventurers who wish to engage in a more grueling test of their mettle.
+- **11912**: To participate in elite training regimes, you must acquire chapter transcripts, for which tabs are required.
+- **11913**: Trading $35, gil, or a piece of equipment at designated locations (while in possession of a chapter transcript) will trigger the commencement of your training.
+- **11914**: Traded items will not be returned to you. You will, however, be furnished with rewards of correlating value upon the successful completion of each elite training regime.
+- **11915**: Even within elite training, there are regimes of varying difficulty. The trade limit for each succeeding chapter will be greater than the last, and the training objective more challenging. For safety reasons, all participants are recommended to be well prepared.
+- **11916**: Lastly, we at the A.M.A.N. recognize the importance of rest and recuperation as part of a healthy adventuring lifestyle. Therefore, a mandatory cool-down period will be imposed upon all adventurers following the completion of an elite training regime. Until this time has elapsed, you will be unable to undertake further training, even if a chapter transcript is in your possession.
+- **11918**: You cannot undertake a training regime while a hunt is active.
+- **11919**: Cancel hunt? [Yes./No.]
+- **11921**: The requisite time has not yet elapsed since undertaking your last regime. You may be ineligible to receive gil and tab rewards.
+- **11922**: Set training regime to automatically repeat upon completion?
+- **11923**: Set training regime to repeat? [Yes./No.]
 
 ## Events
 
@@ -347,14 +347,14 @@ SUBROUTINE_00AD:
  33: 0x00BE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=12*, condition_work_offset=1*)
 
 SUBROUTINE_00C5:
- 34: 0x00C5 [0x48] [System] [8819*]:
+ 34: 0x00C5 [0x48] [System] [8821*]:
     → "A field manual has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages."
  35: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00C9 [0x05] ExtData[1]->WorkLocal[4] = 1
 
 SUBROUTINE_00CC:
  37: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0867
- 38: 0x00D4 [0x24] CREATE_DIALOG(message_id=8820*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 38: 0x00D4 [0x24] CREATE_DIALOG(message_id=8822*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What will you do? [Nothing./Read about individual training./Review current training regime./Cancel current training regime./Read about elite training./Read about field support.]"
  39: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  40: 0x00DC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EA
@@ -362,14 +362,14 @@ SUBROUTINE_00CC:
  42: 0x00E7 [0x01] GOTO 0x0864
  43: 0x00EA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x021E
  44: 0x00F2 [0x02] IF !(ExtData[1]->WorkLocal[6] < 147*) GOTO 0x014A
- 45: 0x00FA [0x48] [System] [11916*]:
+ 45: 0x00FA [0x48] [System] [11918*]:
     → "You cannot undertake a training regime while a hunt is active."
  46: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x00FE [0x24] CREATE_DIALOG(message_id=11917*, default_option=1*, option_flags=0*)
+ 47: 0x00FE [0x24] CREATE_DIALOG(message_id=11919*, default_option=1*, option_flags=0*)
     → "Cancel hunt? [Yes./No.]"
  48: 0x0105 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0106 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x013C
- 50: 0x010E [0x24] CREATE_DIALOG(message_id=11903*, default_option=1*, option_flags=0*)
+ 50: 0x010E [0x24] CREATE_DIALOG(message_id=11905*, default_option=1*, option_flags=0*)
     → "Are you certain? [Yes./No.]"
  51: 0x0115 [0x25] WAIT_DIALOG_SELECT()
  52: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012E
@@ -392,9 +392,9 @@ SUBROUTINE_0147:
 SUBROUTINE_014D:
  64: 0x014D [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x021B
  65: 0x0155 [0x3E] IF !(ExtData[1]->WorkLocal[10] bit 3*) GOTO 0x015F
- 66: 0x015C [0x48] [System] [11919*]:
+ 66: 0x015C [0x48] [System] [11921*]:
     → "The requisite time has not yet elapsed since undertaking your last regime. You may be ineligible to receive gil and tab rewards."
- 67: 0x015F [0x24] CREATE_DIALOG(message_id=8821*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+ 67: 0x015F [0x24] CREATE_DIALOG(message_id=8823*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "Which page? [I've changed my mind./Page 1./Page 2./Page 3./Page 4./Page 5.]"
  68: 0x0166 [0x25] WAIT_DIALOG_SELECT()
  69: 0x0167 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0175
@@ -407,30 +407,30 @@ SUBROUTINE_0175:
  74: 0x0186 [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=7*, target=Work_Zone[1], source=Work_Zone[0])
  75: 0x018F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  76: 0x0191 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 77: 0x0193 [0x48] [System] [8822*]:
+ 77: 0x0193 [0x48] [System] [8824*]:
     → "The information on this page instructs you to defeat the following:"
  78: 0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x0197 [0x03] ExtData[1]->WorkLocal[7] = 8823*
+ 79: 0x0197 [0x03] ExtData[1]->WorkLocal[7] = 8825*
  80: 0x019C [0x07] ExtData[1]->WorkLocal[7] += Work_Zone[9]
  81: 0x01A1 [0x48] [System] [ExtData[1]->WorkLocal[7]]:
     → "Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]"
  82: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x01A5 [0x48] [System] [10871*]:
+ 83: 0x01A5 [0x48] [System] [10873*]:
     → "Target level range: $5`$6."
  84: 0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x01A9 [0x03] ExtData[1]->WorkLocal[7] = 10876*
+ 85: 0x01A9 [0x03] ExtData[1]->WorkLocal[7] = 10878*
  86: 0x01AE [0x07] ExtData[1]->WorkLocal[7] += Work_Zone[9]
  87: 0x01B3 [0x48] [System] [ExtData[1]->WorkLocal[7]]:
     → "Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]"
  88: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x01B7 [0x24] CREATE_DIALOG(message_id=10872*, default_option=1*, option_flags=0*)
+ 89: 0x01B7 [0x24] CREATE_DIALOG(message_id=10874*, default_option=1*, option_flags=0*)
     → "Undertake this training regime? [Bring it on!/No, wait...]"
  90: 0x01BE [0x25] WAIT_DIALOG_SELECT()
  91: 0x01BF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0208
- 92: 0x01C7 [0x48] [System] [11920*]:
+ 92: 0x01C7 [0x48] [System] [11922*]:
     → "Set training regime to automatically repeat upon completion?"
  93: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x01CB [0x24] CREATE_DIALOG(message_id=11921*, default_option=0*, option_flags=0*)
+ 94: 0x01CB [0x24] CREATE_DIALOG(message_id=11923*, default_option=0*, option_flags=0*)
     → "Set training regime to repeat? [Yes./No.]"
  95: 0x01D2 [0x25] WAIT_DIALOG_SELECT()
  96: 0x01D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01EC
@@ -462,7 +462,7 @@ SUBROUTINE_021B:
 116: 0x022F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 117: 0x0231 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 118: 0x0233 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0277
-119: 0x023B [0x03] ExtData[1]->WorkLocal[7] = 9847*
+119: 0x023B [0x03] ExtData[1]->WorkLocal[7] = 9849*
 120: 0x0240 [0x07] ExtData[1]->WorkLocal[7] += ExtData[1]->WorkLocal[6]
 121: 0x0245 [0x48] [System] [ExtData[1]->WorkLocal[7]]:
     → "Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]"
@@ -471,15 +471,15 @@ SUBROUTINE_021B:
 124: 0x0252 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 125: 0x0254 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 126: 0x0256 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0274
-127: 0x025E [0x48] [System] [10871*]:
+127: 0x025E [0x48] [System] [10873*]:
     → "Target level range: $5`$6."
 128: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x0262 [0x03] ExtData[1]->WorkLocal[7] = 10876*
+129: 0x0262 [0x03] ExtData[1]->WorkLocal[7] = 10878*
 130: 0x0267 [0x07] ExtData[1]->WorkLocal[7] += ExtData[1]->WorkLocal[6]
 131: 0x026C [0x48] [System] [ExtData[1]->WorkLocal[7]]:
     → "Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]"
 132: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
-133: 0x0270 [0x48] [System] [11900*]:
+133: 0x0270 [0x48] [System] [11902*]:
     → "(End of list.)"
 134: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x0274 [0x01] GOTO 0x0291
@@ -492,7 +492,7 @@ SUBROUTINE_0291:
 140: 0x0291 [0x01] GOTO 0x0864
 141: 0x0294 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02CF
 142: 0x029C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=3*)
-143: 0x02A5 [0x24] CREATE_DIALOG(message_id=11903*, default_option=1*, option_flags=0*)
+143: 0x02A5 [0x24] CREATE_DIALOG(message_id=11905*, default_option=1*, option_flags=0*)
     → "Are you certain? [Yes./No.]"
 144: 0x02AC [0x25] WAIT_DIALOG_SELECT()
 145: 0x02AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02BC
@@ -529,7 +529,7 @@ SUBROUTINE_02DA:
 172: 0x0336 [0x03] Work_Zone_1700[25] = 400*
 173: 0x033B [0x03] Work_Zone_1700[26] = 450*
 174: 0x0340 [0x03] Work_Zone_1700[27] = 1126*
-175: 0x0345 [0x24] CREATE_DIALOG(message_id=11908*, default_option=0*, option_flags=0*)
+175: 0x0345 [0x24] CREATE_DIALOG(message_id=11910*, default_option=0*, option_flags=0*)
     → "Which one? (You have $8 [tab/tabs]). [Nothing for now./Read instructions./$3($27)./$3($28)./$3($29)./$3($30)./$3($31)./$3($ )./$3($!)./$3($").]"
 176: 0x034C [0x25] WAIT_DIALOG_SELECT()
 177: 0x034D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0360
@@ -537,22 +537,22 @@ SUBROUTINE_02DA:
 179: 0x035A [0x06] ExtData[1]->WorkLocal[5] = 0
 180: 0x035D [0x01] GOTO 0x0403
 181: 0x0360 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0383
-182: 0x0368 [0x48] [System] [11909*]:
+182: 0x0368 [0x48] [System] [11911*]:
     → ""Elite training" is a section of the Field Manual which caters to dauntless adventurers who wish to engage in a more grueling test of their mettle."
 183: 0x036B [0x23] WAIT_FOR_DIALOG_INTERACTION
-184: 0x036C [0x48] [System] [11910*]:
+184: 0x036C [0x48] [System] [11912*]:
     → "To participate in elite training regimes, you must acquire chapter transcripts, for which tabs are required."
 185: 0x036F [0x23] WAIT_FOR_DIALOG_INTERACTION
-186: 0x0370 [0x48] [System] [11911*]:
+186: 0x0370 [0x48] [System] [11913*]:
     → "Trading $35, gil, or a piece of equipment at designated locations (while in possession of a chapter transcript) will trigger the commencement of your training."
 187: 0x0373 [0x23] WAIT_FOR_DIALOG_INTERACTION
-188: 0x0374 [0x48] [System] [11912*]:
+188: 0x0374 [0x48] [System] [11914*]:
     → "Traded items will not be returned to you. You will, however, be furnished with rewards of correlating value upon the successful completion of each elite training regime."
 189: 0x0377 [0x23] WAIT_FOR_DIALOG_INTERACTION
-190: 0x0378 [0x48] [System] [11913*]:
+190: 0x0378 [0x48] [System] [11915*]:
     → "Even within elite training, there are regimes of varying difficulty. The trade limit for each succeeding chapter will be greater than the last, and the training objective more challenging. For safety reasons, all participants are recommended to be well prepared."
 191: 0x037B [0x23] WAIT_FOR_DIALOG_INTERACTION
-192: 0x037C [0x48] [System] [11914*]:
+192: 0x037C [0x48] [System] [11916*]:
     → "Lastly, we at the A.M.A.N. recognize the importance of rest and recuperation as part of a healthy adventuring lifestyle. Therefore, a mandatory cool-down period will be imposed upon all adventurers following the completion of an elite training regime. Until this time has elapsed, you will be unable to undertake further training, even if a chapter transcript is in your possession."
 193: 0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x0380 [0x01] GOTO 0x0403
@@ -584,12 +584,12 @@ SUBROUTINE_02DA:
 SUBROUTINE_0403:
 219: 0x0403 [0x02] IF !(Work_Zone[0] < 2*) GOTO 0x0452
 220: 0x040B [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=7*, target=Work_Zone[1], source=Work_Zone[0])
-221: 0x0414 [0x24] CREATE_DIALOG(message_id=10872*, default_option=1*, option_flags=0*)
+221: 0x0414 [0x24] CREATE_DIALOG(message_id=10874*, default_option=1*, option_flags=0*)
     → "Undertake this training regime? [Bring it on!/No, wait...]"
 222: 0x041B [0x25] WAIT_DIALOG_SELECT()
 223: 0x041C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0442
 224: 0x0424 [0x02] IF !(ExtData[1]->WorkLocal[9] <= ExtData[1]->WorkLocal[8]) GOTO 0x0438
-225: 0x042C [0x48] [System] [11905*]:
+225: 0x042C [0x48] [System] [11907*]:
     → "You do not have enough tabs."
 226: 0x042F [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x0430 [0x03] Work_Zone[1] = 0*
@@ -608,7 +608,7 @@ SUBROUTINE_0452:
 236: 0x0452 [0x01] GOTO 0x02DA
 237: 0x0455 [0x01] GOTO 0x0864
 238: 0x0458 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0864
-239: 0x0460 [0x48] [System] [11901*]:
+239: 0x0460 [0x48] [System] [11903*]:
     → "The tabs you acquire can be spent on field support."
 240: 0x0463 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x0464 [0x05] ExtData[1]->WorkLocal[5] = 1
@@ -629,7 +629,7 @@ SUBROUTINE_0467:
 254: 0x04A9 [0x03] Work_Zone_1700[10] = 25*
 255: 0x04AE [0x03] Work_Zone_1700[11] = 300*
 256: 0x04B3 [0x03] Work_Zone_1700[12] = 300*
-257: 0x04B8 [0x24] CREATE_DIALOG(message_id=11902*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+257: 0x04B8 [0x24] CREATE_DIALOG(message_id=11904*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Which one? (You have $8 [tab/tabs]). [Nothing for now./Repatriation ($9)./White magic: Reraise ($10)./White magic: Regen ($11)./White magic: Refresh ($12)./White magic: Protect ($13)./White magic: Shell ($14)./Field recipe: Dried Meat ($15)./Field recipe: Salted Fish ($16)./Field recipe: Hard Cookie ($17)./Field recipe: Instant Noodles ($18)./Receive alter ego: Sakura. ($19)./Receive alter ego: Koru-Moru. ($20).]"
 258: 0x04BF [0x25] WAIT_DIALOG_SELECT()
 259: 0x04C0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04CE
@@ -687,7 +687,7 @@ SUBROUTINE_058E:
 309: 0x05C3 [0x03] Work_Zone_1700[10] = 50*
 310: 0x05C8 [0x03] Work_Zone_1700[11] = 300*
 311: 0x05CD [0x03] Work_Zone_1700[12] = 300*
-312: 0x05D2 [0x24] CREATE_DIALOG(message_id=11902*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+312: 0x05D2 [0x24] CREATE_DIALOG(message_id=11904*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Which one? (You have $8 [tab/tabs]). [Nothing for now./Repatriation ($9)./White magic: Reraise ($10)./White magic: Regen ($11)./White magic: Refresh ($12)./White magic: Protect ($13)./White magic: Shell ($14)./Field recipe: Dried Meat ($15)./Field recipe: Salted Fish ($16)./Field recipe: Hard Cookie ($17)./Field recipe: Instant Noodles ($18)./Receive alter ego: Sakura. ($19)./Receive alter ego: Koru-Moru. ($20).]"
 313: 0x05D9 [0x25] WAIT_DIALOG_SELECT()
 314: 0x05DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05E8
@@ -733,9 +733,9 @@ SUBROUTINE_058E:
 SUBROUTINE_06A8:
 353: 0x06A8 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x085E
 354: 0x06B0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x06C0
-355: 0x06B8 [0x03] ExtData[1]->WorkLocal[0] = 11904*
+355: 0x06B8 [0x03] ExtData[1]->WorkLocal[0] = 11906*
 356: 0x06BD [0x01] GOTO 0x06C5
-357: 0x06C0 [0x03] ExtData[1]->WorkLocal[0] = 11903*
+357: 0x06C0 [0x03] ExtData[1]->WorkLocal[0] = 11905*
 
 SUBROUTINE_06C5:
 358: 0x06C5 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=5*)
@@ -744,7 +744,7 @@ SUBROUTINE_06C5:
 361: 0x06DE [0x25] WAIT_DIALOG_SELECT()
 362: 0x06DF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x084E
 363: 0x06E7 [0x02] IF !(ExtData[1]->WorkLocal[9] <= ExtData[1]->WorkLocal[8]) GOTO 0x06FB
-364: 0x06EF [0x48] [System] [11905*]:
+364: 0x06EF [0x48] [System] [11907*]:
     → "You do not have enough tabs."
 365: 0x06F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 366: 0x06F3 [0x03] Work_Zone[1] = 0*

@@ -24,62 +24,62 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x20E5      |        8421 |
-|       1 | 0x20E6      |        8422 |
-|       2 | 0x20E7      |        8423 |
-|       3 | 0x20E8      |        8424 |
-|       4 | 0x20E9      |        8425 |
-|       5 | 0x20EA      |        8426 |
+|       0 | 0x20E7      |        8423 |
+|       1 | 0x20E8      |        8424 |
+|       2 | 0x20E9      |        8425 |
+|       3 | 0x20EA      |        8426 |
+|       4 | 0x20EB      |        8427 |
+|       5 | 0x20EC      |        8428 |
 |       6 | 0x0000      |           0 |
-|       7 | 0x20EB      |        8427 |
-|       8 | 0x20EC      |        8428 |
+|       7 | 0x20ED      |        8429 |
+|       8 | 0x20EE      |        8430 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x20ED      |        8429 |
+|      10 | 0x20EF      |        8431 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x20EE      |        8430 |
-|      13 | 0x20EF      |        8431 |
-|      14 | 0x20F0      |        8432 |
+|      12 | 0x20F0      |        8432 |
+|      13 | 0x20F1      |        8433 |
+|      14 | 0x20F2      |        8434 |
 |      15 | 0x0078      |         120 |
-|      16 | 0x20F1      |        8433 |
-|      17 | 0x20F2      |        8434 |
-|      18 | 0x20F3      |        8435 |
-|      19 | 0x20F4      |        8436 |
-|      20 | 0x20F5      |        8437 |
-|      21 | 0x20F6      |        8438 |
-|      22 | 0x20F7      |        8439 |
-|      23 | 0x20F8      |        8440 |
-|      24 | 0x20F9      |        8441 |
-|      25 | 0x20FA      |        8442 |
-|      26 | 0x20FB      |        8443 |
-|      27 | 0x20FC      |        8444 |
+|      16 | 0x20F3      |        8435 |
+|      17 | 0x20F4      |        8436 |
+|      18 | 0x20F5      |        8437 |
+|      19 | 0x20F6      |        8438 |
+|      20 | 0x20F7      |        8439 |
+|      21 | 0x20F8      |        8440 |
+|      22 | 0x20F9      |        8441 |
+|      23 | 0x20FA      |        8442 |
+|      24 | 0x20FB      |        8443 |
+|      25 | 0x20FC      |        8444 |
+|      26 | 0x20FD      |        8445 |
+|      27 | 0x20FE      |        8446 |
 |      28 | 0x00C9      |         201 |
 
 ## String References
 
-- **8421**: Oh, whatever-wever shall I do? Am I doomed never to return to my home sweetaru home?
-- **8422**: My beloved Naruru... My dearest little Panta-Putta... Be strong! Your loving-woving husband and father will come home to you someday...somehow...
-- **8423**: Hullo there! Please forgive me for that rather embarrassing display of self-pity.
-- **8424**: I've heard much of your exploitarus. You're the one who's been traipsing-waipsing about the inlet, sending Abyssean fiends to their graves with all the ease of a gardener planting popotoes.
-- **8425**: Would that I had even an onz of your strength and determination! Instead, it is all I can do to stand here, wallowing in despair with this undelivered letter in hand...
-- **8426**: Meddle in his personal affairs? [Just a little.../I'd rather not.]
-- **8427**: Hand over the lettaru, you say, and you'll deliver it for me? Please! Spare my tender-wender heart this jest!
-- **8428**: It is no jest, you say? Could this truly be happening? Dare I trust this stranger with my hopes and dreams? Oh, thank you, kind [sir/madam]. Thank you from the bottom of my soul!
-- **8429**: ...... Pay this poor Taru no heed, friend. I would not presume to distract you from the myriad-wyriad important tasks you have at hand.
-- **8430**: Any luck with that letter, friend? <Sigh>... What I would not give just to know that my wife and child are safe and sound...
-- **8431**: You delivered the letter? Get outaru of here! Really, honestly, truly?
-- **8432**: What? Something for me from my dearest Naruru?
-- **8433**: Naruru! My beloved! Can you hear me!?
-- **8434**: Yes, it is I, your sweetaru pamama! Oh, Naruru! Your gentle voice is like unto the Goddess herself to my ears!
-- **8435**: Hm? Your airship? Razed by fiends and sent plummetaruing into the chasm? How horrible! I must thank every star in the heavens that you survived!
-- **8436**: But what of our precious-wecious Panta-Putta? ...Safe in Jeuno, you say!? Oh, please let it be so!
-- **8437**: ...Excuse me for just a moment, my dear. I must pay proper due to the kind [man/woman] who made this momentaru possible.
-- **8438**: Forgive me, [Mister/Missus]... <Player>, is it?
-- **8439**: For reconnecting me with my beloved, I could thank you a thousand-wousand times and still it would not suffice. Thank you! Thank you! Thank you! Thank you! Thank you! Thank...<cough>...
-- **8440**: <Cough>... Forgive me. Still, a few of my dear wife's words were a bit disconcertaruing. Does she not remember that Jeuno, not unlike the three nations, fell that day that the skies turned red...?
-- **8441**: She was fortunate indeed to escape by airship... But what of our gentle-wentle child? Does he truly still live!?
-- **8442**: But no...I cannot allow myself to indulge in excess optimism... After all, until moments ago, I was certain that I had lostaru them both.
-- **8443**: I want you to have this. I built many such trifling-wifling things for my son, in hopes of reuniting with him someday...but...but...
-- **8444**: No, I must acceptaru reality, and be thankful for what I have. You've given me much peace of mind, <Player>. I thank you.
+- **8423**: Oh, whatever-wever shall I do? Am I doomed never to return to my home sweetaru home?
+- **8424**: My beloved Naruru... My dearest little Panta-Putta... Be strong! Your loving-woving husband and father will come home to you someday...somehow...
+- **8425**: Hullo there! Please forgive me for that rather embarrassing display of self-pity.
+- **8426**: I've heard much of your exploitarus. You're the one who's been traipsing-waipsing about the inlet, sending Abyssean fiends to their graves with all the ease of a gardener planting popotoes.
+- **8427**: Would that I had even an onz of your strength and determination! Instead, it is all I can do to stand here, wallowing in despair with this undelivered letter in hand...
+- **8428**: Meddle in his personal affairs? [Just a little.../I'd rather not.]
+- **8429**: Hand over the lettaru, you say, and you'll deliver it for me? Please! Spare my tender-wender heart this jest!
+- **8430**: It is no jest, you say? Could this truly be happening? Dare I trust this stranger with my hopes and dreams? Oh, thank you, kind [sir/madam]. Thank you from the bottom of my soul!
+- **8431**: ...... Pay this poor Taru no heed, friend. I would not presume to distract you from the myriad-wyriad important tasks you have at hand.
+- **8432**: Any luck with that letter, friend? <Sigh>... What I would not give just to know that my wife and child are safe and sound...
+- **8433**: You delivered the letter? Get outaru of here! Really, honestly, truly?
+- **8434**: What? Something for me from my dearest Naruru?
+- **8435**: Naruru! My beloved! Can you hear me!?
+- **8436**: Yes, it is I, your sweetaru pamama! Oh, Naruru! Your gentle voice is like unto the Goddess herself to my ears!
+- **8437**: Hm? Your airship? Razed by fiends and sent plummetaruing into the chasm? How horrible! I must thank every star in the heavens that you survived!
+- **8438**: But what of our precious-wecious Panta-Putta? ...Safe in Jeuno, you say!? Oh, please let it be so!
+- **8439**: ...Excuse me for just a moment, my dear. I must pay proper due to the kind [man/woman] who made this momentaru possible.
+- **8440**: Forgive me, [Mister/Missus]... <Player>, is it?
+- **8441**: For reconnecting me with my beloved, I could thank you a thousand-wousand times and still it would not suffice. Thank you! Thank you! Thank you! Thank you! Thank you! Thank...<cough>...
+- **8442**: <Cough>... Forgive me. Still, a few of my dear wife's words were a bit disconcertaruing. Does she not remember that Jeuno, not unlike the three nations, fell that day that the skies turned red...?
+- **8443**: She was fortunate indeed to escape by airship... But what of our gentle-wentle child? Does he truly still live!?
+- **8444**: But no...I cannot allow myself to indulge in excess optimism... After all, until moments ago, I was certain that I had lostaru them both.
+- **8445**: I want you to have this. I built many such trifling-wifling things for my son, in hopes of reuniting with him someday...but...but...
+- **8446**: No, I must acceptaru reality, and be thankful for what I have. You've given me much peace of mind, <Player>. I thank you.
 
 ## Events
 
@@ -124,10 +124,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8421*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8423*)
     → "Oh, whatever-wever shall I do? Am I doomed never to return to my home sweetaru home?"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=8422*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=8424*)
     → "My beloved Naruru... My dearest little Panta-Putta... Be strong! Your loving-woving husband and father will come home to you someday...somehow..."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0009 [0x21] END_EVENT
@@ -158,37 +158,37 @@
 #### Opcodes
 
 ```
-  0: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8421*)
+  0: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8423*)
     → "Oh, whatever-wever shall I do? Am I doomed never to return to my home sweetaru home?"
   1: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=8422*)
+  2: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=8424*)
     → "My beloved Naruru... My dearest little Panta-Putta... Be strong! Your loving-woving husband and father will come home to you someday...somehow..."
   3: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0013 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8423*)
+  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8425*)
     → "Hullo there! Please forgive me for that rather embarrassing display of self-pity."
   6: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8424*)
+  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8426*)
     → "I've heard much of your exploitarus. You're the one who's been traipsing-waipsing about the inlet, sending Abyssean fiends to their graves with all the ease of a gardener planting popotoes."
   8: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8425*)
+  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8427*)
     → "Would that I had even an onz of your strength and determination! Instead, it is all I can do to stand here, wallowing in despair with this undelivered letter in hand..."
  10: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0024 [0x24] CREATE_DIALOG(message_id=8426*, default_option=0*, option_flags=0*)
+ 11: 0x0024 [0x24] CREATE_DIALOG(message_id=8428*, default_option=0*, option_flags=0*)
     → "Meddle in his personal affairs? [Just a little.../I'd rather not.]"
  12: 0x002B [0x25] WAIT_DIALOG_SELECT()
  13: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0045
  14: 0x0034 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 15: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8427*)
+ 15: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8429*)
     → "Hand over the lettaru, you say, and you'll deliver it for me? Please! Spare my tender-wender heart this jest!"
  16: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8428*)
+ 17: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8430*)
     → "It is no jest, you say? Could this truly be happening? Dare I trust this stranger with my hopes and dreams? Oh, thank you, kind [sir/madam]. Thank you from the bottom of my soul!"
  18: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x003D [0x03] Work_Zone[1] = 1*
  20: 0x0042 [0x01] GOTO 0x0059
  21: 0x0045 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0059
- 22: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8429*)
+ 22: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8431*)
     → "...... Pay this poor Taru no heed, friend. I would not presume to distract you from the myriad-wyriad important tasks you have at hand."
  23: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0051 [0x03] Work_Zone[1] = 2*
@@ -220,7 +220,7 @@ SUBROUTINE_0059:
 
 ```
   0: 0x005B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=8430*)
+  1: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=8432*)
     → "Any luck with that letter, friend? <Sigh>... What I would not give just to know that my wife and child are safe and sound..."
   2: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0064 [0x21] END_EVENT
@@ -253,50 +253,50 @@ SUBROUTINE_0059:
 ```
   0: 0x0066 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0067 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8430*)
+  2: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8432*)
     → "Any luck with that letter, friend? <Sigh>... What I would not give just to know that my wife and child are safe and sound..."
   3: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8431*)
+  4: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8433*)
     → "You delivered the letter? Get outaru of here! Really, honestly, truly?"
   5: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=8432*)
+  6: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=8434*)
     → "What? Something for me from my dearest Naruru?"
   7: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0078 [0x1C] WAIT(120* ticks)
-  9: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=8433*)
+  9: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=8435*)
     → "Naruru! My beloved! Can you hear me!?"
  10: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=8434*)
+ 11: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=8436*)
     → "Yes, it is I, your sweetaru pamama! Oh, Naruru! Your gentle voice is like unto the Goddess herself to my ears!"
  12: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=8435*)
+ 13: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=8437*)
     → "Hm? Your airship? Razed by fiends and sent plummetaruing into the chasm? How horrible! I must thank every star in the heavens that you survived!"
  14: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=8436*)
+ 15: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=8438*)
     → "But what of our precious-wecious Panta-Putta? ...Safe in Jeuno, you say!? Oh, please let it be so!"
  16: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=8437*)
+ 17: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=8439*)
     → "...Excuse me for just a moment, my dear. I must pay proper due to the kind [man/woman] who made this momentaru possible."
  18: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=8438*)
+ 19: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=8440*)
     → "Forgive me, [Mister/Missus]... <Player>, is it?"
  20: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8439*)
+ 21: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8441*)
     → "For reconnecting me with my beloved, I could thank you a thousand-wousand times and still it would not suffice. Thank you! Thank you! Thank you! Thank you! Thank you! Thank...<cough>..."
  22: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8440*)
+ 23: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8442*)
     → "<Cough>... Forgive me. Still, a few of my dear wife's words were a bit disconcertaruing. Does she not remember that Jeuno, not unlike the three nations, fell that day that the skies turned red...?"
  24: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=8441*)
+ 25: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
     → "She was fortunate indeed to escape by airship... But what of our gentle-wentle child? Does he truly still live!?"
  26: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=8442*)
+ 27: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=8444*)
     → "But no...I cannot allow myself to indulge in excess optimism... After all, until moments ago, I was certain that I had lostaru them both."
  28: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
+ 29: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8445*)
     → "I want you to have this. I built many such trifling-wifling things for my son, in hopes of reuniting with him someday...but...but..."
  30: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8444*)
+ 31: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8446*)
     → "No, I must acceptaru reality, and be thankful for what I have. You've given me much peace of mind, <Player>. I thank you."
  32: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -325,7 +325,7 @@ SUBROUTINE_0059:
 
 ```
   0: 0x00BE [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8439*)
+  1: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8441*)
     → "For reconnecting me with my beloved, I could thank you a thousand-wousand times and still it would not suffice. Thank you! Thank you! Thank you! Thank you! Thank you! Thank...<cough>..."
   2: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00C7 [0x21] END_EVENT

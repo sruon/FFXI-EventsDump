@@ -28,66 +28,66 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2713      |       10003 |
-|       2 | 0x2714      |       10004 |
+|       1 | 0x2715      |       10005 |
+|       2 | 0x2716      |       10006 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0028      |          40 |
-|       5 | 0x2715      |       10005 |
+|       5 | 0x2717      |       10007 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x2716      |       10006 |
+|       7 | 0x2718      |       10008 |
 |       8 | 0x02E8      |         744 |
-|       9 | 0x2717      |       10007 |
+|       9 | 0x2719      |       10009 |
 |      10 | 0x003C      |          60 |
-|      11 | 0x2718      |       10008 |
-|      12 | 0x2719      |       10009 |
-|      13 | 0x271A      |       10010 |
-|      14 | 0x271B      |       10011 |
-|      15 | 0x271C      |       10012 |
-|      16 | 0x271D      |       10013 |
-|      17 | 0x271E      |       10014 |
-|      18 | 0x271F      |       10015 |
-|      19 | 0x2720      |       10016 |
-|      20 | 0x2721      |       10017 |
+|      11 | 0x271A      |       10010 |
+|      12 | 0x271B      |       10011 |
+|      13 | 0x271C      |       10012 |
+|      14 | 0x271D      |       10013 |
+|      15 | 0x271E      |       10014 |
+|      16 | 0x271F      |       10015 |
+|      17 | 0x2720      |       10016 |
+|      18 | 0x2721      |       10017 |
+|      19 | 0x2722      |       10018 |
+|      20 | 0x2723      |       10019 |
 |      21 | 0x00C9      |         201 |
-|      22 | 0x2723      |       10019 |
+|      22 | 0x2725      |       10021 |
 |      23 | 0x002D      |          45 |
 |      24 | 0x0020      |          32 |
-|      25 | 0x317F      |       12671 |
+|      25 | 0x3181      |       12673 |
 |      26 | 0x0006      |           6 |
-|      27 | 0x3180      |       12672 |
-|      28 | 0x3181      |       12673 |
+|      27 | 0x3182      |       12674 |
+|      28 | 0x3183      |       12675 |
 |      29 | 0x012C      |         300 |
-|      30 | 0x3182      |       12674 |
-|      31 | 0x3183      |       12675 |
-|      32 | 0x3184      |       12676 |
+|      30 | 0x3184      |       12676 |
+|      31 | 0x3185      |       12677 |
+|      32 | 0x3186      |       12678 |
 |      33 | 0x007A      |         122 |
 |      34 | 0x0104      |         260 |
 |      35 | 0x00C8      |         200 |
 
 ## String References
 
-- **10003**: Wait... Would you happen to be one of those "adventurers"?
-- **10004**: Well, are you? [Yes, and proud of it!/I know you are but what am I!?]
-- **10005**: Well then, I shall entrust you with this!
-- **10006**: It seems I was mistaken. Oh well, I have plenty of these to spare. Take one anyway.
-- **10007**: <Player> obtains $6!
-- **10008**: You would like to know more about the badge, would you? Well, do you see how it is shaped like a wildcat's head? That is our company emblem. Go ahead--put it on. It won't hurt you.
-- **10009**: You want to know more? Quite the bother, aren't you? Our company, "Salaheem's Sentinels," is the largest, most prestigious, and esteemed establishment in Vana'diel!
-- **10010**: We have even been sanctioned by the mighty Empire of Aht Urhgan! Alright... To put it in words you might understand, we are mercenaries.
-- **10011**: And...! We are currently recruiting new members! Therefore, it would be much appreciated if you could show that badge to others in this town. A bit of advertising would really help us out.
-- **10012**: Oh, hello. It seems that the number of people interested in our organization has begun to increase.
-- **10013**: Your $3 was created using advanced alchemy techniques. It will shine brightly near people whose thoughts are currently drifting across the vast sea towards the golden fields of Aht Urhgan.
-- **10014**: Oh, it's you! Many people have expressed interest in Salaheem's Sentinels!
-- **10015**: It looks like your $3 has lost its luster, so I will take it back now.
-- **10016**: <Player> hands over the $3.
-- **10017**: I will give you this in its place. If you ever go to Aht Urhgan, please stop by Salaheem's Sentinels.
-- **10019**: Remember to visit Salaheem's Sentinels in Al Zahbi the next time you visit the Empire of Aht Urhgan!
-- **12671**: That look in your eyes... I sense the fear of one frightful femme fatale flowing forth from your soul... Don't tell me... You're one of Salaheem's Sentinels!
-- **12672**: Which means, I am allowed to provide you with this special offer!
-- **12673**: For a small fee, I can teleport you directly to Aht Urhgan Whitegate!
-- **12674**: Simply trade me $0 gil, and you'll be sipping chai with [mysterious veiled beauties/bronzed, battle-hardened warriors] before the hour is up.
-- **12675**: Thank you very much, [sir/ma'am].
-- **12676**: Now let us be off!
+- **10005**: Wait... Would you happen to be one of those "adventurers"?
+- **10006**: Well, are you? [Yes, and proud of it!/I know you are but what am I!?]
+- **10007**: Well then, I shall entrust you with this!
+- **10008**: It seems I was mistaken. Oh well, I have plenty of these to spare. Take one anyway.
+- **10009**: <Player> obtains $6!
+- **10010**: You would like to know more about the badge, would you? Well, do you see how it is shaped like a wildcat's head? That is our company emblem. Go ahead--put it on. It won't hurt you.
+- **10011**: You want to know more? Quite the bother, aren't you? Our company, "Salaheem's Sentinels," is the largest, most prestigious, and esteemed establishment in Vana'diel!
+- **10012**: We have even been sanctioned by the mighty Empire of Aht Urhgan! Alright... To put it in words you might understand, we are mercenaries.
+- **10013**: And...! We are currently recruiting new members! Therefore, it would be much appreciated if you could show that badge to others in this town. A bit of advertising would really help us out.
+- **10014**: Oh, hello. It seems that the number of people interested in our organization has begun to increase.
+- **10015**: Your $3 was created using advanced alchemy techniques. It will shine brightly near people whose thoughts are currently drifting across the vast sea towards the golden fields of Aht Urhgan.
+- **10016**: Oh, it's you! Many people have expressed interest in Salaheem's Sentinels!
+- **10017**: It looks like your $3 has lost its luster, so I will take it back now.
+- **10018**: <Player> hands over the $3.
+- **10019**: I will give you this in its place. If you ever go to Aht Urhgan, please stop by Salaheem's Sentinels.
+- **10021**: Remember to visit Salaheem's Sentinels in Al Zahbi the next time you visit the Empire of Aht Urhgan!
+- **12673**: That look in your eyes... I sense the fear of one frightful femme fatale flowing forth from your soul... Don't tell me... You're one of Salaheem's Sentinels!
+- **12674**: Which means, I am allowed to provide you with this special offer!
+- **12675**: For a small fee, I can teleport you directly to Aht Urhgan Whitegate!
+- **12676**: Simply trade me $0 gil, and you'll be sipping chai with [mysterious veiled beauties/bronzed, battle-hardened warriors] before the hour is up.
+- **12677**: Thank you very much, [sir/ma'am].
+- **12678**: Now let us be off!
 
 ## Events
 
@@ -143,42 +143,42 @@
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0007 [0x1C] WAIT(30* ticks)
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10003*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10005*)
     → "Wait... Would you happen to be one of those "adventurers"?"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x24] CREATE_DIALOG(message_id=10004*, default_option=0*, option_flags=0*)
+  5: 0x000E [0x24] CREATE_DIALOG(message_id=10006*, default_option=0*, option_flags=0*)
     → "Well, are you? [Yes, and proud of it!/I know you are but what am I!?]"
   6: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0034
   8: 0x001E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=10005*)
+  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=10007*)
     → "Well then, I shall entrust you with this!"
  10: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0031 [0x01] GOTO 0x0052
  12: 0x0034 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0052
  13: 0x003C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 14: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=10006*)
+ 14: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=10008*)
     → "It seems I was mistaken. Oh well, I have plenty of these to spare. Take one anyway."
  15: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x004F [0x01] GOTO 0x0052
 
 SUBROUTINE_0052:
  17: 0x0052 [0x03] Work_Zone[2] = 744*
- 18: 0x0057 [0x48] [System] [10007*]:
+ 18: 0x0057 [0x48] [System] [10009*]:
     → "<Player> obtains $6!"
  19: 0x005A [0x1C] WAIT(60* ticks)
- 20: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=10008*)
+ 20: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=10010*)
     → "You would like to know more about the badge, would you? Well, do you see how it is shaped like a wildcat's head? That is our company emblem. Go ahead--put it on. It won't hurt you."
  21: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0061 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 23: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=10009*)
+ 23: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=10011*)
     → "You want to know more? Quite the bother, aren't you? Our company, "Salaheem's Sentinels," is the largest, most prestigious, and esteemed establishment in Vana'diel!"
  24: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=10010*)
+ 25: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=10012*)
     → "We have even been sanctioned by the mighty Empire of Aht Urhgan! Alright... To put it in words you might understand, we are mercenaries."
  26: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0078 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
- 28: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10011*)
+ 28: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10013*)
     → "And...! We are currently recruiting new members! Therefore, it would be much appreciated if you could show that badge to others in this town. A bit of advertising would really help us out."
  29: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x008B [0x21] END_EVENT
@@ -207,7 +207,7 @@ SUBROUTINE_0052:
 ```
   0: 0x008D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0092 [0x1C] WAIT(30* ticks)
-  2: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=10012*)
+  2: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=10014*)
     → "Oh, hello. It seems that the number of people interested in our organization has begun to increase."
   3: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0099 [0x21] END_EVENT
@@ -240,7 +240,7 @@ SUBROUTINE_0052:
   1: 0x00A0 [0x1C] WAIT(30* ticks)
   2: 0x00A3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
   3: 0x00B2 [0x03] Work_Zone[2] = 744*
-  4: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10013*)
+  4: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10015*)
     → "Your $3 was created using advanced alchemy techniques. It will shine brightly near people whose thoughts are currently drifting across the vast sea towards the golden fields of Aht Urhgan."
   5: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -276,18 +276,18 @@ SUBROUTINE_0052:
   0: 0x00CC [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00CD [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x00D2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  3: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10014*)
+  3: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10016*)
     → "Oh, it's you! Many people have expressed interest in Salaheem's Sentinels!"
   4: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
   6: 0x00F4 [0x03] Work_Zone[2] = 744*
-  7: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10015*)
+  7: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10017*)
     → "It looks like your $3 has lost its luster, so I will take it back now."
   8: 0x00FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00FD [0x48] [System] [10016*]:
+  9: 0x00FD [0x48] [System] [10018*]:
     → "<Player> hands over the $3."
  10: 0x0100 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 11: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=10017*)
+ 11: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=10019*)
     → "I will give you this in its place. If you ever go to Aht Urhgan, please stop by Salaheem's Sentinels."
  12: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0113 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -318,7 +318,7 @@ SUBROUTINE_0052:
 ```
   0: 0x0129 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x012E [0x1C] WAIT(30* ticks)
-  2: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=10019*)
+  2: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=10021*)
     → "Remember to visit Salaheem's Sentinels in Al Zahbi the next time you visit the Empire of Aht Urhgan!"
   3: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0135 [0x21] END_EVENT
@@ -354,22 +354,22 @@ SUBROUTINE_0052:
   1: 0x013C [0x1C] WAIT(45* ticks)
   2: 0x013F [0x6E] Alib-Mufalib (ID: 17744039/0x010EC0A7) uses emote 32*
   3: 0x0146 [0x99] Wait for Alib-Mufalib (ID: 17744039/0x010EC0A7) animation to complete
-  4: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=12671*)
+  4: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=12673*)
     → "That look in your eyes... I sense the fear of one frightful femme fatale flowing forth from your soul... Don't tell me... You're one of Salaheem's Sentinels!"
   5: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x014F [0x99] Wait for Alib-Mufalib (ID: 17744039/0x010EC0A7) animation to complete
   7: 0x0154 [0x6E] Alib-Mufalib (ID: 17744039/0x010EC0A7) uses emote 6*
   8: 0x015B [0x99] Wait for Alib-Mufalib (ID: 17744039/0x010EC0A7) animation to complete
-  9: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=12672*)
+  9: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=12674*)
     → "Which means, I am allowed to provide you with this special offer!"
  10: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0164 [0x99] Wait for Alib-Mufalib (ID: 17744039/0x010EC0A7) animation to complete
  12: 0x0169 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 13: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=12673*)
+ 13: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=12675*)
     → "For a small fee, I can teleport you directly to Aht Urhgan Whitegate!"
  14: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x017C [0x03] Work_Zone[2] = 300*
- 16: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=12674*)
+ 16: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=12676*)
     → "Simply trade me $0 gil, and you'll be sipping chai with [mysterious veiled beauties/bronzed, battle-hardened warriors] before the hour is up."
  17: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0185 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -407,12 +407,12 @@ SUBROUTINE_0052:
   2: 0x0199 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x019E [0x1C] WAIT(45* ticks)
   4: 0x01A1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12675*)
+  5: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12677*)
     → "Thank you very much, [sir/ma'am]."
   6: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01B4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
   8: 0x01C3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
-  9: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12676*)
+  9: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12678*)
     → "Now let us be off!"
  10: 0x01D3 [0x03] Work_Zone[1] = 1*
  11: 0x01D8 [0x73] Alib-Mufalib (ID: 17744039/0x010EC0A7) casts magic 122* on LocalPlayer

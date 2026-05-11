@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DC0      |        7616 |
+|       0 | 0x1DC2      |        7618 |
 
 ## String References
 
-- **7616**: You find a piece of the map by the base of the gravestone!
+- **7618**: You find a piece of the map by the base of the gravestone!
 
 ## Events
 
@@ -70,7 +70,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [7616*]:
+  1: 0x0002 [0x48] [System] [7618*]:
     → "You find a piece of the map by the base of the gravestone!"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x21] END_EVENT

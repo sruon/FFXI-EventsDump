@@ -21,16 +21,16 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
-|       1 | 0x1DF8      |        7672 |
+|       1 | 0x1DFA      |        7674 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1DF7      |        7671 |
+|       3 | 0x1DF9      |        7673 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0002      |           2 |
 
 ## String References
 
-- **7671**: Obtain this item? [Yes./No.]
-- **7672**: Obtain this item?
+- **7673**: Obtain this item? [Yes./No.]
+- **7674**: Obtain this item?
 
 ## Events
 
@@ -87,11 +87,11 @@
   4: 0x0015 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   5: 0x0017 [0x1C] WAIT(60* ticks)
   6: 0x001A [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[0], buffer1=ExtData[1]->WorkLocal[1], buffer2=ExtData[1]->WorkLocal[2], buffer3=ExtData[1]->WorkLocal[3])
-  7: 0x0024 [0x48] [System] [7672*]:
+  7: 0x0024 [0x48] [System] [7674*]:
     → "Obtain this item?"
   8: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0028 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 10: 0x002B [0x24] CREATE_DIALOG(message_id=7671*, default_option=1*, option_flags=0*)
+ 10: 0x002B [0x24] CREATE_DIALOG(message_id=7673*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
  11: 0x0032 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0033 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0043

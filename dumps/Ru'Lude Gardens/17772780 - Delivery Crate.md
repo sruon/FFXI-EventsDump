@@ -40,8 +40,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x38E3      |       14563 |
-|       3 | 0x38E6      |       14566 |
+|       2 | 0x38E5      |       14565 |
+|       3 | 0x38E8      |       14568 |
 |       4 | 0x0007      |           7 |
 |       5 | 0x0066      |         102 |
 |       6 | 0x0008      |           8 |
@@ -59,15 +59,15 @@
 |      18 | 0x0005      |           5 |
 |      19 | 0x0006      |           6 |
 |      20 | 0x0009      |           9 |
-|      21 | 0x38E4      |       14564 |
-|      22 | 0x38E5      |       14565 |
+|      21 | 0x38E6      |       14566 |
+|      22 | 0x38E7      |       14567 |
 
 ## String References
 
-- **14563**: Deposit $2 $0$0 for Trial $0?
-- **14564**: Deposit $2 $0 for which of the following trials?
-- **14565**: Which trial? [Trial $0 ($10 remaining)./Trial $1 ($11 remaining)./Trial $2 ($12 remaining)./Trial $3 ($13 remaining)./Trial $4 ($14 remaining)./Trial $5 ($15 remaining)./Trial $6 ($16 remaining)./Trial $7 ($17 remaining)./Trial $8 ($18 remaining)./Trial $9 ($19 remaining)./Cancel.]
-- **14566**: Deposit $2 $0$0 ? [Yes./No.]
+- **14565**: Deposit $2 $0$0 for Trial $0?
+- **14566**: Deposit $2 $0 for which of the following trials?
+- **14567**: Which trial? [Trial $0 ($10 remaining)./Trial $1 ($11 remaining)./Trial $2 ($12 remaining)./Trial $3 ($13 remaining)./Trial $4 ($14 remaining)./Trial $5 ($15 remaining)./Trial $6 ($16 remaining)./Trial $7 ($17 remaining)./Trial $8 ($18 remaining)./Trial $9 ($19 remaining)./Cancel.]
+- **14568**: Deposit $2 $0$0 ? [Yes./No.]
 
 ## Events
 
@@ -208,10 +208,10 @@ SUBROUTINE_008D:
  11: 0x008D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
  12: 0x0092 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
  13: 0x0097 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
- 14: 0x009C [0x48] [System] [14563*]:
+ 14: 0x009C [0x48] [System] [14565*]:
     → "Deposit $2 $0$0 for Trial $0?"
  15: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x00A0 [0x24] CREATE_DIALOG(message_id=14566*, default_option=1*, option_flags=0*)
+ 16: 0x00A0 [0x24] CREATE_DIALOG(message_id=14568*, default_option=1*, option_flags=0*)
     → "Deposit $2 $0$0 ? [Yes./No.]"
  17: 0x00A7 [0x25] WAIT_DIALOG_SELECT()
  18: 0x00A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C5
@@ -303,7 +303,7 @@ SUBROUTINE_020F:
 SUBROUTINE_022B:
  81: 0x022B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
  82: 0x0230 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
- 83: 0x0235 [0x48] [System] [14564*]:
+ 83: 0x0235 [0x48] [System] [14566*]:
     → "Deposit $2 $0 for which of the following trials?"
  84: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0239 [0x06] ExtData[1]->WorkLocal[25] = 0
@@ -330,7 +330,7 @@ SUBROUTINE_023C:
 104: 0x0299 [0x03] Work_Zone_1700[9] = ExtData[1]->WorkLocal[21]
 105: 0x029E [0x03] Work_Zone_1700[10] = ExtData[1]->WorkLocal[22]
 106: 0x02A3 [0x03] Work_Zone_1700[11] = ExtData[1]->WorkLocal[23]
-107: 0x02A8 [0x24] CREATE_DIALOG(message_id=14565*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
+107: 0x02A8 [0x24] CREATE_DIALOG(message_id=14567*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
     → "Which trial? [Trial $0 ($10 remaining)./Trial $1 ($11 remaining)./Trial $2 ($12 remaining)./Trial $3 ($13 remaining)./Trial $4 ($14 remaining)./Trial $5 ($15 remaining)./Trial $6 ($16 remaining)./Trial $7 ($17 remaining)./Trial $8 ($18 remaining)./Trial $9 ($19 remaining)./Cancel.]"
 108: 0x02AF [0x25] WAIT_DIALOG_SELECT()
 109: 0x02B0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02C0
@@ -370,7 +370,7 @@ SUBROUTINE_0356:
 141: 0x0356 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
 142: 0x035B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
 143: 0x0360 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
-144: 0x0365 [0x24] CREATE_DIALOG(message_id=14566*, default_option=1*, option_flags=0*)
+144: 0x0365 [0x24] CREATE_DIALOG(message_id=14568*, default_option=1*, option_flags=0*)
     → "Deposit $2 $0$0 ? [Yes./No.]"
 145: 0x036C [0x25] WAIT_DIALOG_SELECT()
 146: 0x036D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x038D

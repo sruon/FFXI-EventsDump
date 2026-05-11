@@ -25,17 +25,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2756      |       10070 |
-|       3 | 0x2757      |       10071 |
-|       4 | 0x2885      |       10373 |
-|       5 | 0x2886      |       10374 |
+|       2 | 0x2758      |       10072 |
+|       3 | 0x2759      |       10073 |
+|       4 | 0x2887      |       10375 |
+|       5 | 0x2888      |       10376 |
 
 ## String References
 
-- **10070**: Tough armor, strrrong weapons, food, supplies...it's tough getting all those items rrready before setting out on an adventure.
-- **10071**: I rrreally want to go on Chieftainness Jakoh Wahcondalo's Pilgrimage of Flames. However, without the prrroper equipment, I don't think I could make the trip all the way up to the peak of Ifrit's Cauldron.
-- **10373**: If you're going to venture out into the jungle, you should be prrrepared for hideous beasts and hideous odors.
-- **10374**: Maybe I should buy a gas mask for my next trip...
+- **10072**: Tough armor, strrrong weapons, food, supplies...it's tough getting all those items rrready before setting out on an adventure.
+- **10073**: I rrreally want to go on Chieftainness Jakoh Wahcondalo's Pilgrimage of Flames. However, without the prrroper equipment, I don't think I could make the trip all the way up to the peak of Ifrit's Cauldron.
+- **10375**: If you're going to venture out into the jungle, you should be prrrepared for hideous beasts and hideous odors.
+- **10376**: Maybe I should buy a gas mask for my next trip...
 
 ## Events
 
@@ -134,10 +134,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Tigunalhgo (ID: 17801255/0x010FA027), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10070*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10072*)
     → "Tough armor, strrrong weapons, food, supplies...it's tough getting all those items rrready before setting out on an adventure."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10071*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10073*)
     → "I rrreally want to go on Chieftainness Jakoh Wahcondalo's Pilgrimage of Flames. However, without the prrroper equipment, I don't think I could make the trip all the way up to the peak of Ifrit's Cauldron."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Tigunalhgo (ID: 17801255/0x010FA027), tag_num=0x02)
@@ -171,10 +171,10 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Tigunalhgo (ID: 17801255/0x010FA027), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10373*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10375*)
     → "If you're going to venture out into the jungle, you should be prrrepared for hideous beasts and hideous odors."
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10374*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10376*)
     → "Maybe I should buy a gas mask for my next trip..."
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Tigunalhgo (ID: 17801255/0x010FA027), tag_num=0x02)

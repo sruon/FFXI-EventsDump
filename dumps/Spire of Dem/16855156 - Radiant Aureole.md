@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D16      |        7446 |
+|       0 | 0x1D18      |        7448 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1D17      |        7447 |
+|       2 | 0x1D19      |        7449 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0049      |          73 |
 |       5 | 0x008C      |         140 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x003C      |          60 |
-|       8 | 0x1D18      |        7448 |
+|       8 | 0x1D1A      |        7450 |
 |       9 | 0xFFFFFF8F  |  4294967183 |
 |      10 | 0x47051     |      290897 |
 |      11 | 0xFFFFF831  |  4294965297 |
@@ -40,9 +40,9 @@
 
 ## String References
 
-- **7446**: Choose your path... [Leave Promyvion./Return to the spire entrance./Nothing.]
-- **7447**: Return to the Konschtat Highlands? [Yes./No.]
-- **7448**: Return to the web of recollections? [Yes./No.]
+- **7448**: Choose your path... [Leave Promyvion./Return to the spire entrance./Nothing.]
+- **7449**: Return to the Konschtat Highlands? [Yes./No.]
+- **7450**: Return to the web of recollections? [Yes./No.]
 
 ## Events
 
@@ -105,11 +105,11 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7446*, default_option=0*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7448*, default_option=0*, option_flags=0*)
     → "Choose your path... [Leave Promyvion./Return to the spire entrance./Nothing.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006B
-  4: 0x0013 [0x24] CREATE_DIALOG(message_id=7447*, default_option=1*, option_flags=0*)
+  4: 0x0013 [0x24] CREATE_DIALOG(message_id=7449*, default_option=1*, option_flags=0*)
     → "Return to the Konschtat Highlands? [Yes./No.]"
   5: 0x001A [0x25] WAIT_DIALOG_SELECT()
   6: 0x001B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0058
@@ -129,7 +129,7 @@
 SUBROUTINE_0068:
  19: 0x0068 [0x01] GOTO 0x0112
  20: 0x006B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0102
- 21: 0x0073 [0x24] CREATE_DIALOG(message_id=7448*, default_option=1*, option_flags=0*)
+ 21: 0x0073 [0x24] CREATE_DIALOG(message_id=7450*, default_option=1*, option_flags=0*)
     → "Return to the web of recollections? [Yes./No.]"
  22: 0x007A [0x25] WAIT_DIALOG_SELECT()
  23: 0x007B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EF

@@ -21,15 +21,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x1FBA      |        8122 |
-|       2 | 0x1FBB      |        8123 |
-|       3 | 0x1FBC      |        8124 |
+|       1 | 0x1FBC      |        8124 |
+|       2 | 0x1FBD      |        8125 |
+|       3 | 0x1FBE      |        8126 |
 
 ## String References
 
-- **8122**: Why howdy-wowdy, stranger! I'm Jaroney-Baroney, geomancer in training!
-- **8123**: The cyclical flow of wataru in the area helps to maintain balance not just for the vegetables we grow, but also for geomantic-wantic harmony.
-- **8124**: My master sent me down here to study the flow of energy in this area, and my heartaru is aflutter with what I might learn!
+- **8124**: Why howdy-wowdy, stranger! I'm Jaroney-Baroney, geomancer in training!
+- **8125**: The cyclical flow of wataru in the area helps to maintain balance not just for the vegetables we grow, but also for geomantic-wantic harmony.
+- **8126**: My master sent me down here to study the flow of energy in this area, and my heartaru is aflutter with what I might learn!
 
 ## Events
 
@@ -81,13 +81,13 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "Why howdy-wowdy, stranger! I'm Jaroney-Baroney, geomancer in training!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "The cyclical flow of wataru in the area helps to maintain balance not just for the vegetables we grow, but also for geomantic-wantic harmony."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "My master sent me down here to study the flow of energy in this area, and my heartaru is aflutter with what I might learn!"
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

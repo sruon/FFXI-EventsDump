@@ -43,15 +43,15 @@
 |       3 | 0xFFFED1A4  |  4294889892 |
 |       4 | 0xFFF9661F  |  4294534687 |
 |       5 | 0xD685      |       54917 |
-|       6 | 0x1D5F      |        7519 |
-|       7 | 0x1D6D      |        7533 |
-|       8 | 0x1D73      |        7539 |
+|       6 | 0x1D61      |        7521 |
+|       7 | 0x1D6F      |        7535 |
+|       8 | 0x1D75      |        7541 |
 
 ## String References
 
-- **7519**: I've seen that face before!
-- **7533**: But Vauderame, these guys have seen what's in the chest. If we don't knock 'em off now, there's bound to be trouble later.
-- **7539**: I'll get rid of the rust. I brought the gear with me.
+- **7521**: I've seen that face before!
+- **7535**: But Vauderame, these guys have seen what's in the chest. If we don't knock 'em off now, there's bound to be trouble later.
+- **7541**: I'll get rid of the rust. I brought the gear with me.
 
 ## Events
 
@@ -462,7 +462,7 @@
 
 ```
   0: 0x00DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sneaking Tiger (ID: 17195635/0x01066273), tag_num=0x01)
-  1: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  1: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "I've seen that face before!"
   2: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sneaking Tiger (ID: 17195635/0x01066273), tag_num=0x02)
@@ -488,7 +488,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
+  0: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "But Vauderame, these guys have seen what's in the chest. If we don't knock 'em off now, there's bound to be trouble later."
   1: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F4 [0x00] END_REQSTACK()
@@ -513,7 +513,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
+  0: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
     → "I'll get rid of the rust. I brought the gear with me."
   1: 0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F9 [0x00] END_REQSTACK()

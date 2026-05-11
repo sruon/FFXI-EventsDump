@@ -49,13 +49,13 @@
 |      10 | 0xFFFFF543  |  4294964547 |
 |      11 | 0xFFFFC7D0  |  4294952912 |
 |      12 | 0x3474      |       13428 |
-|      13 | 0x257E      |        9598 |
-|      14 | 0x2580      |        9600 |
+|      13 | 0x2580      |        9600 |
+|      14 | 0x2582      |        9602 |
 
 ## String References
 
-- **9598**: Apururu. I know you have-ethy a lot on your mind with Ajido-Marujido and all, but I wonder if I might have a moment-ethy?
-- **9600**: Ahem. I was given this letter by an adventurer. Apparently it was dropped-ethy by a mandragora inside the Boyahda Tree...
+- **9600**: Apururu. I know you have-ethy a lot on your mind with Ajido-Marujido and all, but I wonder if I might have a moment-ethy?
+- **9602**: Ahem. I was given this letter by an adventurer. Apparently it was dropped-ethy by a mandragora inside the Boyahda Tree...
 
 ## Events
 
@@ -469,7 +469,7 @@
 #### Opcodes
 
 ```
-  0: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9598*)
+  0: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9600*)
     → "Apururu. I know you have-ethy a lot on your mind with Ajido-Marujido and all, but I wonder if I might have a moment-ethy?"
   1: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E0 [0x00] END_REQSTACK()
@@ -494,7 +494,7 @@
 #### Opcodes
 
 ```
-  0: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9600*)
+  0: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9602*)
     → "Ahem. I was given this letter by an adventurer. Apparently it was dropped-ethy by a mandragora inside the Boyahda Tree..."
   1: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E5 [0x00] END_REQSTACK()

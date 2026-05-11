@@ -22,22 +22,22 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F91      |        8081 |
-|       1 | 0x1F92      |        8082 |
-|       2 | 0x1F93      |        8083 |
-|       3 | 0x1FA2      |        8098 |
+|       0 | 0x1F93      |        8083 |
+|       1 | 0x1F94      |        8084 |
+|       2 | 0x1F95      |        8085 |
+|       3 | 0x1FA4      |        8100 |
 |       4 | 0x0013      |          19 |
-|       5 | 0x1FA3      |        8099 |
-|       6 | 0x1FA4      |        8100 |
+|       5 | 0x1FA5      |        8101 |
+|       6 | 0x1FA6      |        8102 |
 
 ## String References
 
-- **8081**: Ho there. Whatever brings you to such a desolate place? Had I not been recruited for a scouting mission, I'd be as far away from here as possible.
-- **8082**: On top of that, I seem to have been separated from my companions. They must be around here somewhere...
-- **8083**: I'm sorry, but this is hardly the time for idle chitchat. If you know what's good for you, you'll head back to camp before you get lost too.
-- **8098**: Oh, a new linkpearl, and a rather exquisite one at that. Now I can reconnect with my fellow scouts in style.
-- **8099**: Speaking of which, wherever could they have disappeared to?
-- **8100**: You think they'd drop everything once they realized the most attractive member of the team was missing. Didn't anyone ever teach them how to treat a lady?
+- **8083**: Ho there. Whatever brings you to such a desolate place? Had I not been recruited for a scouting mission, I'd be as far away from here as possible.
+- **8084**: On top of that, I seem to have been separated from my companions. They must be around here somewhere...
+- **8085**: I'm sorry, but this is hardly the time for idle chitchat. If you know what's good for you, you'll head back to camp before you get lost too.
+- **8100**: Oh, a new linkpearl, and a rather exquisite one at that. Now I can reconnect with my fellow scouts in style.
+- **8101**: Speaking of which, wherever could they have disappeared to?
+- **8102**: You think they'd drop everything once they realized the most attractive member of the team was missing. Didn't anyone ever teach them how to treat a lady?
 
 ## Events
 
@@ -84,13 +84,13 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
     → "Ho there. Whatever brings you to such a desolate place? Had I not been recruited for a scouting mission, I'd be as far away from here as possible."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
     → "On top of that, I seem to have been separated from my companions. They must be around here somewhere..."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
     → "I'm sorry, but this is hardly the time for idle chitchat. If you know what's good for you, you'll head back to camp before you get lost too."
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0012 [0x21] END_EVENT
@@ -123,14 +123,14 @@
   1: 0x0015 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x001A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x001B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
+  4: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
     → "Oh, a new linkpearl, and a rather exquisite one at that. Now I can reconnect with my fellow scouts in style."
   5: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0020 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-  7: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8099*)
+  7: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8101*)
     → "Speaking of which, wherever could they have disappeared to?"
   8: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
+  9: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
     → "You think they'd drop everything once they realized the most attractive member of the team was missing. Didn't anyone ever teach them how to treat a lady?"
  10: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -159,7 +159,7 @@
 
 ```
   0: 0x0048 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
+  1: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
     → "You think they'd drop everything once they realized the most attractive member of the team was missing. Didn't anyone ever teach them how to treat a lady?"
   2: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0051 [0x21] END_EVENT

@@ -29,46 +29,46 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0282      |         642 |
-|       1 | 0x2953      |       10579 |
-|       2 | 0x2954      |       10580 |
+|       1 | 0x2955      |       10581 |
+|       2 | 0x2956      |       10582 |
 |       3 | 0x003C      |          60 |
-|       4 | 0x2955      |       10581 |
-|       5 | 0x2956      |       10582 |
-|       6 | 0x2957      |       10583 |
-|       7 | 0x2958      |       10584 |
-|       8 | 0x2959      |       10585 |
-|       9 | 0x295A      |       10586 |
-|      10 | 0x295B      |       10587 |
-|      11 | 0x295C      |       10588 |
-|      12 | 0x295D      |       10589 |
+|       4 | 0x2957      |       10583 |
+|       5 | 0x2958      |       10584 |
+|       6 | 0x2959      |       10585 |
+|       7 | 0x295A      |       10586 |
+|       8 | 0x295B      |       10587 |
+|       9 | 0x295C      |       10588 |
+|      10 | 0x295D      |       10589 |
+|      11 | 0x295E      |       10590 |
+|      12 | 0x295F      |       10591 |
 |      13 | 0x0000      |           0 |
-|      14 | 0x295F      |       10591 |
-|      15 | 0x2960      |       10592 |
-|      16 | 0x2961      |       10593 |
-|      17 | 0x2962      |       10594 |
+|      14 | 0x2961      |       10593 |
+|      15 | 0x2962      |       10594 |
+|      16 | 0x2963      |       10595 |
+|      17 | 0x2964      |       10596 |
 |      18 | 0x0001      |           1 |
-|      19 | 0x295E      |       10590 |
-|      20 | 0x2963      |       10595 |
-|      21 | 0x2964      |       10596 |
-|      22 | 0x2965      |       10597 |
-|      23 | 0x2966      |       10598 |
-|      24 | 0x2967      |       10599 |
+|      19 | 0x2960      |       10592 |
+|      20 | 0x2965      |       10597 |
+|      21 | 0x2966      |       10598 |
+|      22 | 0x2967      |       10599 |
+|      23 | 0x2968      |       10600 |
+|      24 | 0x2969      |       10601 |
 |      25 | 0x0002      |           2 |
-|      26 | 0x2968      |       10600 |
-|      27 | 0x2969      |       10601 |
-|      28 | 0x296A      |       10602 |
-|      29 | 0x296B      |       10603 |
-|      30 | 0x296C      |       10604 |
-|      31 | 0x296D      |       10605 |
-|      32 | 0x296E      |       10606 |
-|      33 | 0x296F      |       10607 |
+|      26 | 0x296A      |       10602 |
+|      27 | 0x296B      |       10603 |
+|      28 | 0x296C      |       10604 |
+|      29 | 0x296D      |       10605 |
+|      30 | 0x296E      |       10606 |
+|      31 | 0x296F      |       10607 |
+|      32 | 0x2970      |       10608 |
+|      33 | 0x2971      |       10609 |
 |      34 | 0x00C9      |         201 |
-|      35 | 0x2970      |       10608 |
-|      36 | 0x29AC      |       10668 |
-|      37 | 0x29AD      |       10669 |
-|      38 | 0x29AE      |       10670 |
+|      35 | 0x2972      |       10610 |
+|      36 | 0x29AE      |       10670 |
+|      37 | 0x29AF      |       10671 |
+|      38 | 0x29B0      |       10672 |
 |      39 | 0x000A      |          10 |
-|      40 | 0x29AF      |       10671 |
+|      40 | 0x29B1      |       10673 |
 |      41 | 0xFFFD94D8  |  4294808792 |
 |      42 | 0xFFFF7A87  |  4294933127 |
 |      43 | 0xFFFFFD9B  |  4294966683 |
@@ -76,40 +76,40 @@
 
 ## String References
 
-- **10579**: What do you want? This is no place for the likes of you. Get out.
-- **10580**: What? Gumbah sent you, you say?
-- **10581**: That he would ask a newborn pup like you... Are his eyes failing him, at such a young age?
-- **10582**: Well, I suppose you'll just have to do. He put his trust in you, so I must do the same.
-- **10583**: I am currently employed by the Tenshodo, and my task is to collect five $7 for them.
-- **10584**: Alas, I was injured when I obtained the fourth. It will be some time before I can go out to find the fifth.
-- **10585**: The Tenshodo took the first four, but they refuse to hand me my reward until the last one is in their hands.
-- **10586**: I am sure they would not have told me that had I not been injured.
-- **10587**: If you would, could you give Talib of the Tenshodo the last $7, in my name?
-- **10588**: He should then hand you a certain item as reward. I would be very grateful if you could bring it to me.
-- **10589**: Take on this task? [Yes./No.]
-- **10590**: That is...unfortunate.
-- **10591**: Thank you. Oh, before you go, I should tell you that a Hume is also undertaking the same task.
-- **10592**: She is not an adventurer, and hardly more than a child. Believe me, I did not ask her to do this for me, yet she has run off to do it.
-- **10593**: Her name? I believe she called herself "Cornelia."
-- **10594**: Would you keep an eye out for her and keep her out of trouble, especially at the Tenshodo? I could not bear it if anything happened to her.
-- **10595**: Hmm? Yes, I am Parraggoh. Ah, Cornelia told you of my predicament.
-- **10596**: Well, then. She put her trust in you, so I will do the same.
-- **10597**: Thank you. It pains me to have to rely on people's kindness like this, but you have my gratitude.
-- **10598**: It pains me to have to rely on people's kindness like this, but you have my gratitude.
-- **10599**: I must thank Cornelia for her kindness as well...
-- **10600**: Ah! You have brought me $6!
-- **10601**: Hmm? Yes, I am Parraggoh.
-- **10602**: What? Cornelia asked you...and you've brought me $6?
-- **10603**: Thank you! I really needed these!
-- **10604**: It may not be much of a reward, but I want you to have this.
-- **10605**: If you see Cornelia, send her my gratitude.
-- **10606**: No, wait-- Instead, tell her she should not be seen around us Galka too much.
-- **10607**: For her own sake.
-- **10608**: Ah! It's good to see you again. How have you been?
-- **10668**: An eleventh Palborough Mines Pioneer? Then it is as I thought!
-- **10669**: $6 you brought me--the more I read them, the more I am convinced someone has tampered with them!
-- **10670**: It must be Humes! Only they would go so far as erasing our history to protect their over-swollen pride!
-- **10671**: I... My apologies. I should not let my emotions get the better of me.
+- **10581**: What do you want? This is no place for the likes of you. Get out.
+- **10582**: What? Gumbah sent you, you say?
+- **10583**: That he would ask a newborn pup like you... Are his eyes failing him, at such a young age?
+- **10584**: Well, I suppose you'll just have to do. He put his trust in you, so I must do the same.
+- **10585**: I am currently employed by the Tenshodo, and my task is to collect five $7 for them.
+- **10586**: Alas, I was injured when I obtained the fourth. It will be some time before I can go out to find the fifth.
+- **10587**: The Tenshodo took the first four, but they refuse to hand me my reward until the last one is in their hands.
+- **10588**: I am sure they would not have told me that had I not been injured.
+- **10589**: If you would, could you give Talib of the Tenshodo the last $7, in my name?
+- **10590**: He should then hand you a certain item as reward. I would be very grateful if you could bring it to me.
+- **10591**: Take on this task? [Yes./No.]
+- **10592**: That is...unfortunate.
+- **10593**: Thank you. Oh, before you go, I should tell you that a Hume is also undertaking the same task.
+- **10594**: She is not an adventurer, and hardly more than a child. Believe me, I did not ask her to do this for me, yet she has run off to do it.
+- **10595**: Her name? I believe she called herself "Cornelia."
+- **10596**: Would you keep an eye out for her and keep her out of trouble, especially at the Tenshodo? I could not bear it if anything happened to her.
+- **10597**: Hmm? Yes, I am Parraggoh. Ah, Cornelia told you of my predicament.
+- **10598**: Well, then. She put her trust in you, so I will do the same.
+- **10599**: Thank you. It pains me to have to rely on people's kindness like this, but you have my gratitude.
+- **10600**: It pains me to have to rely on people's kindness like this, but you have my gratitude.
+- **10601**: I must thank Cornelia for her kindness as well...
+- **10602**: Ah! You have brought me $6!
+- **10603**: Hmm? Yes, I am Parraggoh.
+- **10604**: What? Cornelia asked you...and you've brought me $6?
+- **10605**: Thank you! I really needed these!
+- **10606**: It may not be much of a reward, but I want you to have this.
+- **10607**: If you see Cornelia, send her my gratitude.
+- **10608**: No, wait-- Instead, tell her she should not be seen around us Galka too much.
+- **10609**: For her own sake.
+- **10610**: Ah! It's good to see you again. How have you been?
+- **10670**: An eleventh Palborough Mines Pioneer? Then it is as I thought!
+- **10671**: $6 you brought me--the more I read them, the more I am convinced someone has tampered with them!
+- **10672**: It must be Humes! Only they would go so far as erasing our history to protect their over-swollen pride!
+- **10673**: I... My apologies. I should not let my emotions get the better of me.
 
 ## Events
 
@@ -167,64 +167,64 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[9] = 642*
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10579*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10581*)
     → "What do you want? This is no place for the likes of you. Get out."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  4: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=10580*)
+  4: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=10582*)
     → "What? Gumbah sent you, you say?"
   5: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0013 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  7: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=10581*)
+  7: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=10583*)
     → "That he would ask a newborn pup like you... Are his eyes failing him, at such a young age?"
   8: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=10582*)
+  9: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=10584*)
     → "Well, I suppose you'll just have to do. He put his trust in you, so I must do the same."
  10: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x002A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 12: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10583*)
+ 12: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10585*)
     → "I am currently employed by the Tenshodo, and my task is to collect five $7 for them."
  13: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0033 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=60*
- 15: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10584*)
+ 15: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10586*)
     → "Alas, I was injured when I obtained the fourth. It will be some time before I can go out to find the fifth."
  16: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=10585*)
+ 17: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=10587*)
     → "The Tenshodo took the first four, but they refuse to hand me my reward until the last one is in their hands."
  18: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x004A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=60*
- 20: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=10586*)
+ 20: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=10588*)
     → "I am sure they would not have told me that had I not been injured."
  21: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x005D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 23: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=10587*)
+ 23: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=10589*)
     → "If you would, could you give Talib of the Tenshodo the last $7, in my name?"
  24: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=10588*)
+ 25: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=10590*)
     → "He should then hand you a certain item as reward. I would be very grateful if you could bring it to me."
  26: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0074 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 28: 0x0079 [0x24] CREATE_DIALOG(message_id=10589*, default_option=0*, option_flags=0*)
+ 28: 0x0079 [0x24] CREATE_DIALOG(message_id=10591*, default_option=0*, option_flags=0*)
     → "Take on this task? [Yes./No.]"
  29: 0x0080 [0x25] WAIT_DIALOG_SELECT()
  30: 0x0081 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AB
  31: 0x0089 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 32: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=10591*)
+ 32: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=10593*)
     → "Thank you. Oh, before you go, I should tell you that a Hume is also undertaking the same task."
  33: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=10592*)
+ 34: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=10594*)
     → "She is not an adventurer, and hardly more than a child. Believe me, I did not ask her to do this for me, yet she has run off to do it."
  35: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10593*)
+ 36: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10595*)
     → "Her name? I believe she called herself "Cornelia.""
  37: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10594*)
+ 38: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10596*)
     → "Would you keep an eye out for her and keep her out of trouble, especially at the Tenshodo? I could not bear it if anything happened to her."
  39: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x00A8 [0x01] GOTO 0x00C9
  41: 0x00AB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00C9
  42: 0x00B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 43: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10590*)
+ 43: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10592*)
     → "That is...unfortunate."
  44: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x00C6 [0x01] GOTO 0x00C9
@@ -267,48 +267,48 @@ SUBROUTINE_00C9:
 ```
   0: 0x00D0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00D5 [0x03] Work_Zone[9] = 642*
-  2: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10595*)
+  2: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10597*)
     → "Hmm? Yes, I am Parraggoh. Ah, Cornelia told you of my predicament."
   3: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  5: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=10596*)
+  5: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=10598*)
     → "Well, then. She put her trust in you, so I will do the same."
   6: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10583*)
+  7: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10585*)
     → "I am currently employed by the Tenshodo, and my task is to collect five $7 for them."
   8: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00F5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 10: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10584*)
+ 10: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10586*)
     → "Alas, I was injured when I obtained the fourth. It will be some time before I can go out to find the fifth."
  11: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=60*
- 13: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=10585*)
+ 13: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=10587*)
     → "The Tenshodo took the first four, but they refuse to hand me my reward until the last one is in their hands."
  14: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=10586*)
+ 15: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=10588*)
     → "I am sure they would not have told me that had I not been injured."
  16: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0115 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=60*
- 18: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=10587*)
+ 18: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=10589*)
     → "If you would, could you give Talib of the Tenshodo the last $7, in my name?"
  19: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0128 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 21: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=10588*)
+ 21: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=10590*)
     → "He should then hand you a certain item as reward. I would be very grateful if you could bring it to me."
  22: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x013B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 24: 0x0140 [0x24] CREATE_DIALOG(message_id=10589*, default_option=0*, option_flags=0*)
+ 24: 0x0140 [0x24] CREATE_DIALOG(message_id=10591*, default_option=0*, option_flags=0*)
     → "Take on this task? [Yes./No.]"
  25: 0x0147 [0x25] WAIT_DIALOG_SELECT()
  26: 0x0148 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0166
  27: 0x0150 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 28: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=10597*)
+ 28: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=10599*)
     → "Thank you. It pains me to have to rely on people's kindness like this, but you have my gratitude."
  29: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0163 [0x01] GOTO 0x0184
  31: 0x0166 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0184
  32: 0x016E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 33: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=10590*)
+ 33: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=10592*)
     → "That is...unfortunate."
  34: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0181 [0x01] GOTO 0x0184
@@ -340,7 +340,7 @@ SUBROUTINE_0184:
 
 ```
   0: 0x018B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=10598*)
+  1: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=10600*)
     → "It pains me to have to rely on people's kindness like this, but you have my gratitude."
   2: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0194 [0x21] END_EVENT
@@ -368,7 +368,7 @@ SUBROUTINE_0184:
 
 ```
   0: 0x0196 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=10599*)
+  1: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=10601*)
     → "I must thank Cornelia for her kindness as well..."
   2: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x019F [0x21] END_EVENT
@@ -406,34 +406,34 @@ SUBROUTINE_0184:
   2: 0x01A7 [0x03] Work_Zone[9] = 2*
   3: 0x01AC [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x01CA
   4: 0x01B4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  5: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10600*)
+  5: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10602*)
     → "Ah! You have brought me $6!"
   6: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01C7 [0x01] GOTO 0x01E1
-  8: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=10601*)
+  8: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=10603*)
     → "Hmm? Yes, I am Parraggoh."
   9: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 11: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10602*)
+ 11: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10604*)
     → "What? Cornelia asked you...and you've brought me $6?"
  12: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01E1:
- 13: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10603*)
+ 13: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10605*)
     → "Thank you! I really needed these!"
  14: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01E5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 16: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10604*)
+ 16: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10606*)
     → "It may not be much of a reward, but I want you to have this."
  17: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x01EE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=60*
- 19: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10605*)
+ 19: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10607*)
     → "If you see Cornelia, send her my gratitude."
  20: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=10606*)
+ 21: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=10608*)
     → "No, wait-- Instead, tell her she should not be seen around us Galka too much."
  22: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=10607*)
+ 23: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=10609*)
     → "For her own sake."
  24: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0209 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -462,7 +462,7 @@ SUBROUTINE_01E1:
 
 ```
   0: 0x021C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=10579*)
+  1: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=10581*)
     → "What do you want? This is no place for the likes of you. Get out."
   2: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0225 [0x21] END_EVENT
@@ -490,7 +490,7 @@ SUBROUTINE_01E1:
 
 ```
   0: 0x0227 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=10608*)
+  1: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=10610*)
     → "Ah! It's good to see you again. How have you been?"
   2: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0230 [0x21] END_EVENT
@@ -522,20 +522,20 @@ SUBROUTINE_01E1:
 ```
   0: 0x0232 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0237 [0x03] Work_Zone[9] = 2*
-  2: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=10668*)
+  2: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=10670*)
     → "An eleventh Palborough Mines Pioneer? Then it is as I thought!"
   3: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0240 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  5: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=10669*)
+  5: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=10671*)
     → "$6 you brought me--the more I read them, the more I am convinced someone has tampered with them!"
   6: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0253 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [EventEntity, EventEntity], work=60*
-  8: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=10670*)
+  8: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=10672*)
     → "It must be Humes! Only they would go so far as erasing our history to protect their over-swollen pride!"
   9: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0266 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  11: 0x026B [0x1C] WAIT(10* ticks)
- 12: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=10671*)
+ 12: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=10673*)
     → "I... My apologies. I should not let my emotions get the better of me."
  13: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0272 [0x21] END_EVENT

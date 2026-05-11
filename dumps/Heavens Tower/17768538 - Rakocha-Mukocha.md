@@ -68,13 +68,13 @@
 |      19 | 0x12114     |       74004 |
 |      20 | 0xFFFFDC4C  |  4294958156 |
 |      21 | 0x13CA0     |       81056 |
-|      22 | 0x1F25      |        7973 |
-|      23 | 0x1F33      |        7987 |
+|      22 | 0x1F27      |        7975 |
+|      23 | 0x1F35      |        7989 |
 
 ## String References
 
-- **7973**: I've a re-port sta-ting that a dread dra-gon is ham-per-ing a group of red ma-ges' pro-gress through the gate-way.
-- **7987**: Hey, is there a-ny way of shut-ting this doll up?
+- **7975**: I've a re-port sta-ting that a dread dra-gon is ham-per-ing a group of red ma-ges' pro-gress through the gate-way.
+- **7989**: Hey, is there a-ny way of shut-ting this doll up?
 
 ## Events
 
@@ -742,7 +742,7 @@
 #### Opcodes
 
 ```
-  0: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
+  0: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
     → "I've a re-port sta-ting that a dread dra-gon is ham-per-ing a group of red ma-ges' pro-gress through the gate-way."
   1: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01A1 [0x00] END_REQSTACK()
@@ -769,7 +769,7 @@
 
 ```
   0: 0x01A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakocha-Mukocha (ID: 17768538/0x010F205A), tag_num=0x0D)
-  1: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+  1: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
     → "Hey, is there a-ny way of shut-ting this doll up?"
   2: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakocha-Mukocha (ID: 17768538/0x010F205A), tag_num=0x0E)

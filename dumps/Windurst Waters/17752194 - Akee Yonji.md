@@ -26,15 +26,15 @@
 |---------|-------------|-------------|
 |       0 | 0x0165      |         357 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x229C      |        8860 |
-|       3 | 0x229D      |        8861 |
-|       4 | 0x229E      |        8862 |
+|       2 | 0x229E      |        8862 |
+|       3 | 0x229F      |        8863 |
+|       4 | 0x22A0      |        8864 |
 
 ## String References
 
-- **8860**: When I look at these flowerrrs, I feel like having a drrrink. But then again, I feel like having a drrrink all of the time.
-- **8861**: If only I had some fluoro-flora juice. It's as bitterrr as uncooked gysahl greens, but the taste rrreminds me of home.
-- **8862**: The orrriginal fluoro-flora seeds are from the Mithra homeland, you see...
+- **8862**: When I look at these flowerrrs, I feel like having a drrrink. But then again, I feel like having a drrrink all of the time.
+- **8863**: If only I had some fluoro-flora juice. It's as bitterrr as uncooked gysahl greens, but the taste rrreminds me of home.
+- **8864**: The orrriginal fluoro-flora seeds are from the Mithra homeland, you see...
 
 ## Events
 
@@ -159,13 +159,13 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Akee Yonji (ID: 17752194/0x010EE082), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8860*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8862*)
     → "When I look at these flowerrrs, I feel like having a drrrink. But then again, I feel like having a drrrink all of the time."
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8861*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8863*)
     → "If only I had some fluoro-flora juice. It's as bitterrr as uncooked gysahl greens, but the taste rrreminds me of home."
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=8862*)
+  8: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=8864*)
     → "The orrriginal fluoro-flora seeds are from the Mithra homeland, you see..."
   9: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x004A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Akee Yonji (ID: 17752194/0x010EE082), tag_num=0x03)
@@ -199,10 +199,10 @@
   1: 0x005A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Akee Yonji (ID: 17752194/0x010EE082), tag_num=0x01)
-  4: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8861*)
+  4: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8863*)
     → "If only I had some fluoro-flora juice. It's as bitterrr as uncooked gysahl greens, but the taste rrreminds me of home."
   5: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8862*)
+  6: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8864*)
     → "The orrriginal fluoro-flora seeds are from the Mithra homeland, you see..."
   7: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x006B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Akee Yonji (ID: 17752194/0x010EE082), tag_num=0x03)

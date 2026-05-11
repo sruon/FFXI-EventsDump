@@ -20,17 +20,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x20FD      |        8445 |
-|       1 | 0x20FE      |        8446 |
-|       2 | 0x20FF      |        8447 |
-|       3 | 0x2100      |        8448 |
+|       0 | 0x20FF      |        8447 |
+|       1 | 0x2100      |        8448 |
+|       2 | 0x2101      |        8449 |
+|       3 | 0x2102      |        8450 |
 
 ## String References
 
-- **8445**: Hey, you there! Yes, you! Have you gone and obtained visitant status from the conflux surveyor?
-- **8446**: Because if you haven't, folk around here won't utter so much as a single word to you. They have trust issues, you see, and small wonder considering the trauma they've lived through.
-- **8447**: On the other hand, folk will also refrain from interacting with you if they know you're actively participating in the resistance effort.
-- **8448**: Any other time, though, and they'll be more than happy to trade banter with you. Keep these things in mind when you journey here, all right?
+- **8447**: Hey, you there! Yes, you! Have you gone and obtained visitant status from the conflux surveyor?
+- **8448**: Because if you haven't, folk around here won't utter so much as a single word to you. They have trust issues, you see, and small wonder considering the trauma they've lived through.
+- **8449**: On the other hand, folk will also refrain from interacting with you if they know you're actively participating in the resistance effort.
+- **8450**: Any other time, though, and they'll be more than happy to trade banter with you. Keep these things in mind when you journey here, all right?
 
 ## Events
 
@@ -77,16 +77,16 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8445*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8447*)
     → "Hey, you there! Yes, you! Have you gone and obtained visitant status from the conflux surveyor?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8446*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8448*)
     → "Because if you haven't, folk around here won't utter so much as a single word to you. They have trust issues, you see, and small wonder considering the trauma they've lived through."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8447*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8449*)
     → "On the other hand, folk will also refrain from interacting with you if they know you're actively participating in the resistance effort."
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8448*)
+  7: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8450*)
     → "Any other time, though, and they'll be more than happy to trade banter with you. Keep these things in mind when you journey here, all right?"
   8: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0016 [0x21] END_EVENT

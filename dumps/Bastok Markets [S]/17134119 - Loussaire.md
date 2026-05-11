@@ -31,12 +31,12 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001D      |          29 |
-|       1 | 0x2FAC      |       12204 |
-|       2 | 0x2FC2      |       12226 |
+|       1 | 0x2FAE      |       12206 |
+|       2 | 0x2FC4      |       12228 |
 |       3 | 0x0008      |           8 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x3D84      |       15748 |
-|       6 | 0x2FC3      |       12227 |
+|       6 | 0x2FC5      |       12229 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0002      |           2 |
 |       9 | 0x3FB7      |       16311 |
@@ -44,17 +44,17 @@
 |      11 | 0x0003      |           3 |
 |      12 | 0x38F4      |       14580 |
 |      13 | 0x0006      |           6 |
-|      14 | 0x2FC4      |       12228 |
-|      15 | 0x2FD2      |       12242 |
+|      14 | 0x2FC6      |       12230 |
+|      15 | 0x2FD4      |       12244 |
 |      16 | 0x000C      |          12 |
-|      17 | 0x2FC5      |       12229 |
+|      17 | 0x2FC7      |       12231 |
 |      18 | 0x0024      |          36 |
-|      19 | 0x2FC9      |       12233 |
+|      19 | 0x2FCB      |       12235 |
 |      20 | 0x0010      |          16 |
-|      21 | 0x2FCA      |       12234 |
-|      22 | 0x2FD1      |       12241 |
+|      21 | 0x2FCC      |       12236 |
+|      22 | 0x2FD3      |       12243 |
 |      23 | 0x0020      |          32 |
-|      24 | 0x2FCF      |       12239 |
+|      24 | 0x2FD1      |       12241 |
 |      25 | 0x0028      |          40 |
 |      26 | 0xFFFC282E  |  4294715438 |
 |      27 | 0xFFFE1A13  |  4294842899 |
@@ -209,7 +209,7 @@
 ```
   0: 0x0005 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=29*
   1: 0x0014 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
-  2: 0x0021 [0x2B] Loussaire (ID: 17134119/0x01057227) [12204*]:
+  2: 0x0021 [0x2B] Loussaire (ID: 17134119/0x01057227) [12206*]:
     → "Oh, what ever shall I do... The deadline for my discourse draws near and I have yet to even gather the proper materials."
   3: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0029 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=29*
@@ -260,7 +260,7 @@
   2: 0x0055 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0056 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   4: 0x005B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  5: 0x006A [0x2B] Loussaire (ID: 17134119/0x01057227) [12226*]:
+  5: 0x006A [0x2B] Loussaire (ID: 17134119/0x01057227) [12228*]:
     → "No need to worry. I shall produce the attire, as per our agreement. You just see to getting those items we talked about."
   6: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0072 [0x03] Work_Zone[1] = 8*
@@ -269,7 +269,7 @@
  10: 0x007B [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x00A2
  11: 0x0083 [0x93] DISPLAY_ITEM_INFO(item_id=15748*)
  12: 0x0086 [0x03] Work_Zone[2] = 15748*
- 13: 0x008B [0x2B] Loussaire (ID: 17134119/0x01057227) [12227*]:
+ 13: 0x008B [0x2B] Loussaire (ID: 17134119/0x01057227) [12229*]:
     → "It was $0 you were after, correct?"
  14: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0093 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -280,7 +280,7 @@
  20: 0x00A2 [0x02] IF !(Work_Zone[9] == 2*) GOTO 0x00C9
  21: 0x00AA [0x93] DISPLAY_ITEM_INFO(item_id=16311*)
  22: 0x00AD [0x03] Work_Zone[2] = 16311*
- 23: 0x00B2 [0x2B] Loussaire (ID: 17134119/0x01057227) [12227*]:
+ 23: 0x00B2 [0x2B] Loussaire (ID: 17134119/0x01057227) [12229*]:
     → "It was $0 you were after, correct?"
  24: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00BA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -291,7 +291,7 @@
  30: 0x00C9 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x00F0
  31: 0x00D1 [0x93] DISPLAY_ITEM_INFO(item_id=14580*)
  32: 0x00D4 [0x03] Work_Zone[2] = 14580*
- 33: 0x00D9 [0x2B] Loussaire (ID: 17134119/0x01057227) [12227*]:
+ 33: 0x00D9 [0x2B] Loussaire (ID: 17134119/0x01057227) [12229*]:
     → "It was $0 you were after, correct?"
  34: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00E1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -302,10 +302,10 @@
 
 SUBROUTINE_00F0:
  40: 0x00F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
- 41: 0x00FF [0x2B] Loussaire (ID: 17134119/0x01057227) [12228*]:
+ 41: 0x00FF [0x2B] Loussaire (ID: 17134119/0x01057227) [12230*]:
     → "To complete my assignment I will need $6 and $6. Deliver those to me and that new garment is as good as yours!"
  42: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0107 [0x2B] Loussaire (ID: 17134119/0x01057227) [12242*]:
+ 43: 0x0107 [0x2B] Loussaire (ID: 17134119/0x01057227) [12244*]:
     → "By the way, there is a certain type of material that cannot be obtained without fulfilling certain...requirements, first. Keep an eye out!"
  44: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x010F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
@@ -326,7 +326,7 @@ SUBROUTINE_00F0:
  60: 0x0163 [0x01] GOTO 0x0166
 
 SUBROUTINE_0166:
- 61: 0x0166 [0x2B] Loussaire (ID: 17134119/0x01057227) [12229*]:
+ 61: 0x0166 [0x2B] Loussaire (ID: 17134119/0x01057227) [12231*]:
     → "I'll get my hands on $0 while you are busying yourself rounding up those items. Go along, now. We both have some work to do."
  62: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x016E [0x21] END_EVENT
@@ -360,7 +360,7 @@ SUBROUTINE_0166:
   1: 0x0179 [0x6E] EventEntity uses emote 36*
   2: 0x0180 [0x99] Wait for EventEntity animation to complete
   3: 0x0185 [0x99] Wait for EventEntity animation to complete
-  4: 0x018A [0x2B] Loussaire (ID: 17134119/0x01057227) [12233*]:
+  4: 0x018A [0x2B] Loussaire (ID: 17134119/0x01057227) [12235*]:
     → "Superb! Well, that takes care of one assignment."
   5: 0x0191 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0192 [0x1E] EventEntity looks at LocalPlayer and starts talking
@@ -368,7 +368,7 @@ SUBROUTINE_0166:
   8: 0x0198 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   9: 0x019D [0x6E] EventEntity uses emote 16*
  10: 0x01A4 [0x99] Wait for EventEntity animation to complete
- 11: 0x01A9 [0x2B] Loussaire (ID: 17134119/0x01057227) [12234*]:
+ 11: 0x01A9 [0x2B] Loussaire (ID: 17134119/0x01057227) [12236*]:
     → "Just to let you know. I have several assignments which I would be more than happy to receive your able assistance with. If you ever want to see about getting some more attire, just let me know."
  12: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01B1 [0x21] END_EVENT
@@ -402,13 +402,13 @@ SUBROUTINE_0166:
   2: 0x01C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01C2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   4: 0x01C7 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x01DA
-  5: 0x01CF [0x2B] Loussaire (ID: 17134119/0x01057227) [12241*]:
+  5: 0x01CF [0x2B] Loussaire (ID: 17134119/0x01057227) [12243*]:
     → "Well, I was able to get through all of my assignments without any major hang-ups. I expect cleeear sailing from here on out. All thanks to you. I truly am most grateful!"
   6: 0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01D7 [0x01] GOTO 0x01EE
   8: 0x01DA [0x6E] EventEntity uses emote 32*
   9: 0x01E1 [0x99] Wait for EventEntity animation to complete
- 10: 0x01E6 [0x2B] Loussaire (ID: 17134119/0x01057227) [12239*]:
+ 10: 0x01E6 [0x2B] Loussaire (ID: 17134119/0x01057227) [12241*]:
     → "Hmmm... You don't quite seem...complete, yet. Something is still missing, to be sure. Unfortunately, I am fresh out of assignments for you to help me with."
  11: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 

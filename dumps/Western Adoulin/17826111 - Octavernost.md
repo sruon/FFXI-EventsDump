@@ -60,18 +60,18 @@
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x2E47      |       11847 |
+|       2 | 0x2E49      |       11849 |
 |       3 | 0x00A9      |         169 |
 |       4 | 0x005A      |          90 |
-|       5 | 0x2E48      |       11848 |
-|       6 | 0x2E49      |       11849 |
-|       7 | 0x2E4A      |       11850 |
-|       8 | 0x2E44      |       11844 |
+|       5 | 0x2E4A      |       11850 |
+|       6 | 0x2E4B      |       11851 |
+|       7 | 0x2E4C      |       11852 |
+|       8 | 0x2E46      |       11846 |
 |       9 | 0x0FB0      |        4016 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x2E45      |       11845 |
+|      11 | 0x2E47      |       11847 |
 |      12 | 0x0082      |         130 |
-|      13 | 0x2E46      |       11846 |
+|      13 | 0x2E48      |       11848 |
 |      14 | 0x003C      |          60 |
 |      15 | 0x0050      |          80 |
 |      16 | 0x005C      |          92 |
@@ -93,13 +93,13 @@
 
 ## String References
 
-- **11844**: Ah, what a beautiful day to be me... Oho, a thousand pardons. You are one of those new pioneers, are you not?
-- **11845**: See Big Bridge over there? You can reach Eastern Adoulin just by crossing it...or did you know that already?
-- **11846**: My grandfather, Octavien, waits on Sverdhried Hillock to instruct newcomers in the runic arts. He might not hold a candle to me now, but I am sure his training would suffice for the likes of you.
-- **11847**: Well, well... Someone whose runes shine almost as brightly as my own. A rune fencer, are you not?
-- **11848**: Yes, "as my own." For I, too, am a rune fencer.
-- **11849**: My grandfather's endless prattling doubtless bored you to tears.
-- **11850**: I promise that you will not find my lessons to be even half as tedious.
+- **11846**: Ah, what a beautiful day to be me... Oho, a thousand pardons. You are one of those new pioneers, are you not?
+- **11847**: See Big Bridge over there? You can reach Eastern Adoulin just by crossing it...or did you know that already?
+- **11848**: My grandfather, Octavien, waits on Sverdhried Hillock to instruct newcomers in the runic arts. He might not hold a candle to me now, but I am sure his training would suffice for the likes of you.
+- **11849**: Well, well... Someone whose runes shine almost as brightly as my own. A rune fencer, are you not?
+- **11850**: Yes, "as my own." For I, too, am a rune fencer.
+- **11851**: My grandfather's endless prattling doubtless bored you to tears.
+- **11852**: I promise that you will not find my lessons to be even half as tedious.
 
 ## Events
 
@@ -162,24 +162,24 @@
   5: 0x0018 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0019 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x001A [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0075
-  8: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=11847*)
+  8: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
     → "Well, well... Someone whose runes shine almost as brightly as my own. A rune fencer, are you not?"
   9: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0026 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x06 - Load ext scheduler with flag (OpCode 0x5B mode 1, flag 1), ref=169*, entity1=EventEntity, entity2=EventEntity, string="tlk0", extra=90*)
- 11: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
+ 11: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=11850*)
     → "Yes, "as my own." For I, too, am a rune fencer."
  12: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=11849*)
+ 13: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=11851*)
     → "My grandfather's endless prattling doubtless bored you to tears."
  14: 0x003F [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  15: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x004E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x06 - Load ext scheduler with flag (OpCode 0x5B mode 1, flag 1), ref=169*, entity1=EventEntity, entity2=EventEntity, string="tlk1", extra=90*)
- 17: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=11850*)
+ 17: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=11852*)
     → "I promise that you will not find my lessons to be even half as tedious."
  18: 0x0063 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  19: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0072 [0x01] GOTO 0x00A6
- 21: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=11844*)
+ 21: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=11846*)
     → "Ah, what a beautiful day to be me... Oho, a thousand pardons. You are one of those new pioneers, are you not?"
  22: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0079 [0x4B] UPDATE_ENTITY_YAW(entity=EventEntity, yaw=22.1°*)
@@ -188,14 +188,14 @@
  26: 0x0082 [0x6E] EventEntity uses emote 0*
  27: 0x0089 [0x99] Wait for EventEntity animation to complete
  28: 0x008E [0x1C] WAIT(20* ticks)
- 29: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=11845*)
+ 29: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=11847*)
     → "See Big Bridge over there? You can reach Eastern Adoulin just by crossing it...or did you know that already?"
  30: 0x0094 [0x1C] WAIT(130* ticks)
  31: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0098 [0x1E] EventEntity looks at LocalPlayer and starts talking
  33: 0x009D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  34: 0x009E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 35: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=11846*)
+ 35: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=11848*)
     → "My grandfather, Octavien, waits on Sverdhried Hillock to instruct newcomers in the runic arts. He might not hold a candle to me now, but I am sure his training would suffice for the likes of you."
  36: 0x00A2 [0x1C] WAIT(60* ticks)
  37: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION

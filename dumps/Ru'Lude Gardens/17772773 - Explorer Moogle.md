@@ -25,63 +25,63 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x37F4      |       14324 |
-|       1 | 0x37F9      |       14329 |
+|       0 | 0x37F6      |       14326 |
+|       1 | 0x37FB      |       14331 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x37F7      |       14327 |
+|       5 | 0x37F9      |       14329 |
 |       6 | 0x0003      |           3 |
-|       7 | 0x37F5      |       14325 |
-|       8 | 0x37F8      |       14328 |
-|       9 | 0x380E      |       14350 |
-|      10 | 0x380F      |       14351 |
-|      11 | 0x3810      |       14352 |
-|      12 | 0x3811      |       14353 |
-|      13 | 0x3812      |       14354 |
-|      14 | 0x3813      |       14355 |
+|       7 | 0x37F7      |       14327 |
+|       8 | 0x37FA      |       14330 |
+|       9 | 0x3810      |       14352 |
+|      10 | 0x3811      |       14353 |
+|      11 | 0x3812      |       14354 |
+|      12 | 0x3813      |       14355 |
+|      13 | 0x3814      |       14356 |
+|      14 | 0x3815      |       14357 |
 |      15 | 0x0004      |           4 |
-|      16 | 0x3814      |       14356 |
+|      16 | 0x3816      |       14358 |
 |      17 | 0x0005      |           5 |
-|      18 | 0x3815      |       14357 |
+|      18 | 0x3817      |       14359 |
 |      19 | 0x0006      |           6 |
-|      20 | 0x3816      |       14358 |
+|      20 | 0x3818      |       14360 |
 |      21 | 0x0007      |           7 |
-|      22 | 0x3817      |       14359 |
+|      22 | 0x3819      |       14361 |
 |      23 | 0x0008      |           8 |
-|      24 | 0x3818      |       14360 |
+|      24 | 0x381A      |       14362 |
 |      25 | 0x0009      |           9 |
-|      26 | 0x3819      |       14361 |
+|      26 | 0x381B      |       14363 |
 |      27 | 0x000A      |          10 |
-|      28 | 0x381A      |       14362 |
-|      29 | 0x381C      |       14364 |
-|      30 | 0x381D      |       14365 |
-|      31 | 0x381E      |       14366 |
-|      32 | 0x381F      |       14367 |
-|      33 | 0x37F6      |       14326 |
-|      34 | 0x3820      |       14368 |
-|      35 | 0x3821      |       14369 |
-|      36 | 0x3822      |       14370 |
-|      37 | 0x3823      |       14371 |
-|      38 | 0x3824      |       14372 |
-|      39 | 0x3825      |       14373 |
-|      40 | 0x3826      |       14374 |
-|      41 | 0x37FA      |       14330 |
-|      42 | 0x37FB      |       14331 |
-|      43 | 0x37FC      |       14332 |
-|      44 | 0x37FD      |       14333 |
-|      45 | 0x37FE      |       14334 |
-|      46 | 0x37FF      |       14335 |
-|      47 | 0x3800      |       14336 |
-|      48 | 0x3801      |       14337 |
-|      49 | 0x3802      |       14338 |
-|      50 | 0x3803      |       14339 |
-|      51 | 0x3804      |       14340 |
-|      52 | 0x3805      |       14341 |
-|      53 | 0x3806      |       14342 |
-|      54 | 0x3807      |       14343 |
-|      55 | 0x3808      |       14344 |
-|      56 | 0x3809      |       14345 |
+|      28 | 0x381C      |       14364 |
+|      29 | 0x381E      |       14366 |
+|      30 | 0x381F      |       14367 |
+|      31 | 0x3820      |       14368 |
+|      32 | 0x3821      |       14369 |
+|      33 | 0x37F8      |       14328 |
+|      34 | 0x3822      |       14370 |
+|      35 | 0x3823      |       14371 |
+|      36 | 0x3824      |       14372 |
+|      37 | 0x3825      |       14373 |
+|      38 | 0x3826      |       14374 |
+|      39 | 0x3827      |       14375 |
+|      40 | 0x3828      |       14376 |
+|      41 | 0x37FC      |       14332 |
+|      42 | 0x37FD      |       14333 |
+|      43 | 0x37FE      |       14334 |
+|      44 | 0x37FF      |       14335 |
+|      45 | 0x3800      |       14336 |
+|      46 | 0x3801      |       14337 |
+|      47 | 0x3802      |       14338 |
+|      48 | 0x3803      |       14339 |
+|      49 | 0x3804      |       14340 |
+|      50 | 0x3805      |       14341 |
+|      51 | 0x3806      |       14342 |
+|      52 | 0x3807      |       14343 |
+|      53 | 0x3808      |       14344 |
+|      54 | 0x3809      |       14345 |
+|      55 | 0x380A      |       14346 |
+|      56 | 0x380B      |       14347 |
 |      57 | 0x000B      |          11 |
 |      58 | 0x000C      |          12 |
 |      59 | 0x000D      |          13 |
@@ -100,7 +100,7 @@
 |      72 | 0x001A      |          26 |
 |      73 | 0x001B      |          27 |
 |      74 | 0x001C      |          28 |
-|      75 | 0x380A      |       14346 |
+|      75 | 0x380C      |       14348 |
 |      76 | 0x001D      |          29 |
 |      77 | 0x001E      |          30 |
 |      78 | 0x001F      |          31 |
@@ -109,53 +109,53 @@
 
 ## String References
 
-- **14324**: Greetings, adventurer! You've heard the tale of the mog tablets, haven't you? If any of them turn up in your travels, promise you'll let me know, kupo!
-- **14325**: [Greetings/Happy Vana'versary], my adventuring friend! Thanks to your efforts, the mog tablets have been recovered, and their magic freed to spread happiness and joy across the realm! You are truly a friend to all mooglekind, kupo!
-- **14326**: Oh no! What a shame, kupo! The mog tablets that were recovered have been scattered to the ends of Vana'diel once more...
-- **14327**: Ask about something? [What's a mog tablet?/The history of mog tablets./List of tablets./Nothing.]
-- **14328**: Ask about something? [What's a mog tablet?/The history of mog tablets./Collected tablets./The current Super Kupower./Nothing.]
-- **14329**: Ask about something? [What's a mog tablet?/The history of mog tablets./Nothing.]
-- **14330**: What's a mog tablet!? What's a mog tablet, you say!? Why, only the most awesome, amazing artifact in the annals of moogle history, that's what, kupo!
-- **14331**: There's eleven of them in all, to be exact, scattered to the far reaches of Vana'diel and just waiting to be discovered by brave adventurers like you!
-- **14332**: What happens if you find them? I thought you'd never ask, kupo! Each tablet is inscribed with an ancient moogle poem of joy, and legend has it that if all are found, the ancient moogle magic of King Kupofried the Great will be released once more, spreading joy and happiness through all the land!
-- **14333**: We explorer moogles have made it our life's work to recover the tablets and unlock their powers. But with these short legs and little-bitty wings, we can't do it alone, kupo!
-- **14334**: There! I've whipped up a spell that will instantly transport any tablets you find back here to me. Come back if you find anything, and happy exploring, kupo!
-- **14335**: Just sit right back and I'll tell you the tale, kupo. Many, many ages past, we moogles had our own glorious kingdom. It was truly the peak of moogle civilization, a veritable golden age for all mooglekind!
-- **14336**: The seventh king of this great nation was the wise and kindly King Kupofried, a masterful magician famed as the father of the fantastic moogle magic that survives to this very day, kupo!
-- **14337**: In his later years, King Kupofried embarked on what would become the greatest work of his illustrious reign. Seeking to pass down the prosperity of his kingdom to future generations, he inscribed eleven incantations of moogle joy and happiness onto eleven stone tablets.
-- **14338**: Sadly, the kindly king's intentions went unappreciated by his selfish sons and daughters, and many a fierce feud broke out over who would inherit these relics, kupo...
-- **14339**: King Kupofried was greatly dismayed. How could the poems that he had composed out of pure love and joy become the root of such strife?
-- **14340**: In his despair, the king commanded his minion bats to scatter the tablets to the far corners of the world, where they would be seen by moogle eyes no more.
-- **14341**: "Alas! I only wanted my children to be happy, kupo," he lamented, and flew away on his tiny yet majestic wings, never to be seen in his kingdom again.
-- **14342**: Left without its wise monarch, the once-glorious moogle kingdom fractured into warring tribes, falling into unrest...and, eventually, ruin. A tragic tale, don't you think, kupo?
-- **14343**: We explorer moogles are the proud descendants of King Kupofried, living only to bring our last great monarch's unrealized dream to fruition. We will--we must!--find the mog tablets and bring true joy and happiness to this world!
-- **14344**: Let's see... It appears that $0 moogle [tablet has/tablets have] already been found, kupo.
-- **14345**: Here's a list of all the located tablets, kupo!
-- **14346**: Choose a location: [West Ronfaure./East Ronfaure./La Theine Plateau./Valkurm Dunes./Jugner Forest./Batallia Downs./North Gustaberg./South Gustaberg./Konschtat Highlands./Pashhow Marshlands./Rolanberry Fields./Beaucedine Glacier./Xarcabard./West Sarutabaruta./East Sarutabaruta./Tahrongi Canyon./Buburimu Peninsula./Meriphataud Mountains./Sauromugue Champaign./Qufim Island./Behemoth's Dominion./Cape Teriggan./Eastern Altepa Desert./The Sanctuary of Zi'Tah./Ro'Maeve./Yuhtunga Jungle./Yhoator Jungle./Western Altepa Desert./Valley of Sorrows./Cancel.]
-- **14350**: Oh, glorious day! All eleven mog tablets have been recovered and restored to their rightful place at the altar of King Kupofried!
-- **14351**: Can you feel the ancient moogle magic in the air? You can now bask in the benefits of this Super Kupower...
-- **14352**: "Thrifty Transit"! A special treat for the cost-conscious adventurer! For a limited time, all survival guide costs are eliminated, and you are able to teleport between nearby cities for a small fee, kupo!
-- **14353**: "Martial Master"! As an added bonus to your Signet, combat skills will increase more rapidly! Your magic and automaton skills will be boosted, too!
-- **14354**: "Blood of the Vampyr"! Signets have been boosted with the abilities of Regeneration and Refresh!
-- **14355**: "Treasure Hound"! With Signet in effect, you will now be able to sniff out more treasure and gil! Great riches surely await you, kupo!
-- **14356**: "Artisan's Advantage"! Good news for aspiring artisans, kupo! When receiving advanced image support, the chance of your ingredients being lost in a failed synthesis attempt has been drastically reduced!
-- **14357**: "Myriad Mystery Boxes"! What's this, kupo? Mysterious boxes have been sighted all over the realm! What genius could have devised such commendable creations?
-- **14358**: "Dilatory Digestion"! Not content to be left behind, brown magic slides back out for another go, kupo! Now you can be what you eat for twice as long and save on all those trips to your local merchant.
-- **14359**: "Boundary Buster"! Trust in Signet and you can never go wrong, kupo! It's time to take to the field and vanquish a veritable army of enemies, for any Conquest Points you receive will be duly doubled!
-- **14360**: "Bountiful Bazaar"! Trade routes are bustling with unprecedented traffic and peddlers' carts are overflowing with objects now that regional goods are available to merchants across the realm, kupo!
-- **14361**: "Swift Shoes"! This is just the ticket for today's busy adventurer! For a limited time, provided that you're fully rested and healed, your legs will carry you with the speed of a chocobo!
-- **14362**: "Crystal Caboodle"! Signet is now better than ever! Collect crystals from beastmen-controlled areas...and maybe even clusters from other areas!
-- **14364**: Be warned that our moogle magic is concentrated around this altar. If you venture to far-off lands, the Super Kupowers will be unable to protect you...
-- **14365**: What? What about the past, you say? Of course the magic won't travel through time. What a strange question, kupo...
-- **14366**: But not an altogether pointless, one. The powers of thirtfy transit do seem to apply across the space-time continuum, kupo.
-- **14367**: The whole system is filled with mysteries.
-- **14368**: Oh, it's you! It's really you! The brave adventurer who discovered one of our mog tablets!
-- **14369**: It's a pleasure, an honor to meet you, kupo! We have a special prize to reward you for your efforts. If you'll just sign right here...
-- **14370**: Sign for the moogle? [Sure./I don't think so.]
-- **14371**: Oh, thank you, [Mister/Miss]...<Player>! A truly heroic name, kupo!
-- **14372**: As a reward for your efforts, please have this! Many thanks, and [safe travels/Happy Vana'versary], kupo!
-- **14373**: What? You won't? That's a shame, kupo. I had a special prize here just for you, but without your signature, I'll just have to hold on to it...
-- **14374**: If you change your mind, come back quickly. The mog tablets will be scattered to the wind again at any moment, kupo...
+- **14326**: Greetings, adventurer! You've heard the tale of the mog tablets, haven't you? If any of them turn up in your travels, promise you'll let me know, kupo!
+- **14327**: [Greetings/Happy Vana'versary], my adventuring friend! Thanks to your efforts, the mog tablets have been recovered, and their magic freed to spread happiness and joy across the realm! You are truly a friend to all mooglekind, kupo!
+- **14328**: Oh no! What a shame, kupo! The mog tablets that were recovered have been scattered to the ends of Vana'diel once more...
+- **14329**: Ask about something? [What's a mog tablet?/The history of mog tablets./List of tablets./Nothing.]
+- **14330**: Ask about something? [What's a mog tablet?/The history of mog tablets./Collected tablets./The current Super Kupower./Nothing.]
+- **14331**: Ask about something? [What's a mog tablet?/The history of mog tablets./Nothing.]
+- **14332**: What's a mog tablet!? What's a mog tablet, you say!? Why, only the most awesome, amazing artifact in the annals of moogle history, that's what, kupo!
+- **14333**: There's eleven of them in all, to be exact, scattered to the far reaches of Vana'diel and just waiting to be discovered by brave adventurers like you!
+- **14334**: What happens if you find them? I thought you'd never ask, kupo! Each tablet is inscribed with an ancient moogle poem of joy, and legend has it that if all are found, the ancient moogle magic of King Kupofried the Great will be released once more, spreading joy and happiness through all the land!
+- **14335**: We explorer moogles have made it our life's work to recover the tablets and unlock their powers. But with these short legs and little-bitty wings, we can't do it alone, kupo!
+- **14336**: There! I've whipped up a spell that will instantly transport any tablets you find back here to me. Come back if you find anything, and happy exploring, kupo!
+- **14337**: Just sit right back and I'll tell you the tale, kupo. Many, many ages past, we moogles had our own glorious kingdom. It was truly the peak of moogle civilization, a veritable golden age for all mooglekind!
+- **14338**: The seventh king of this great nation was the wise and kindly King Kupofried, a masterful magician famed as the father of the fantastic moogle magic that survives to this very day, kupo!
+- **14339**: In his later years, King Kupofried embarked on what would become the greatest work of his illustrious reign. Seeking to pass down the prosperity of his kingdom to future generations, he inscribed eleven incantations of moogle joy and happiness onto eleven stone tablets.
+- **14340**: Sadly, the kindly king's intentions went unappreciated by his selfish sons and daughters, and many a fierce feud broke out over who would inherit these relics, kupo...
+- **14341**: King Kupofried was greatly dismayed. How could the poems that he had composed out of pure love and joy become the root of such strife?
+- **14342**: In his despair, the king commanded his minion bats to scatter the tablets to the far corners of the world, where they would be seen by moogle eyes no more.
+- **14343**: "Alas! I only wanted my children to be happy, kupo," he lamented, and flew away on his tiny yet majestic wings, never to be seen in his kingdom again.
+- **14344**: Left without its wise monarch, the once-glorious moogle kingdom fractured into warring tribes, falling into unrest...and, eventually, ruin. A tragic tale, don't you think, kupo?
+- **14345**: We explorer moogles are the proud descendants of King Kupofried, living only to bring our last great monarch's unrealized dream to fruition. We will--we must!--find the mog tablets and bring true joy and happiness to this world!
+- **14346**: Let's see... It appears that $0 moogle [tablet has/tablets have] already been found, kupo.
+- **14347**: Here's a list of all the located tablets, kupo!
+- **14348**: Choose a location: [West Ronfaure./East Ronfaure./La Theine Plateau./Valkurm Dunes./Jugner Forest./Batallia Downs./North Gustaberg./South Gustaberg./Konschtat Highlands./Pashhow Marshlands./Rolanberry Fields./Beaucedine Glacier./Xarcabard./West Sarutabaruta./East Sarutabaruta./Tahrongi Canyon./Buburimu Peninsula./Meriphataud Mountains./Sauromugue Champaign./Qufim Island./Behemoth's Dominion./Cape Teriggan./Eastern Altepa Desert./The Sanctuary of Zi'Tah./Ro'Maeve./Yuhtunga Jungle./Yhoator Jungle./Western Altepa Desert./Valley of Sorrows./Cancel.]
+- **14352**: Oh, glorious day! All eleven mog tablets have been recovered and restored to their rightful place at the altar of King Kupofried!
+- **14353**: Can you feel the ancient moogle magic in the air? You can now bask in the benefits of this Super Kupower...
+- **14354**: "Thrifty Transit"! A special treat for the cost-conscious adventurer! For a limited time, all survival guide costs are eliminated, and you are able to teleport between nearby cities for a small fee, kupo!
+- **14355**: "Martial Master"! As an added bonus to your Signet, combat skills will increase more rapidly! Your magic and automaton skills will be boosted, too!
+- **14356**: "Blood of the Vampyr"! Signets have been boosted with the abilities of Regeneration and Refresh!
+- **14357**: "Treasure Hound"! With Signet in effect, you will now be able to sniff out more treasure and gil! Great riches surely await you, kupo!
+- **14358**: "Artisan's Advantage"! Good news for aspiring artisans, kupo! When receiving advanced image support, the chance of your ingredients being lost in a failed synthesis attempt has been drastically reduced!
+- **14359**: "Myriad Mystery Boxes"! What's this, kupo? Mysterious boxes have been sighted all over the realm! What genius could have devised such commendable creations?
+- **14360**: "Dilatory Digestion"! Not content to be left behind, brown magic slides back out for another go, kupo! Now you can be what you eat for twice as long and save on all those trips to your local merchant.
+- **14361**: "Boundary Buster"! Trust in Signet and you can never go wrong, kupo! It's time to take to the field and vanquish a veritable army of enemies, for any Conquest Points you receive will be duly doubled!
+- **14362**: "Bountiful Bazaar"! Trade routes are bustling with unprecedented traffic and peddlers' carts are overflowing with objects now that regional goods are available to merchants across the realm, kupo!
+- **14363**: "Swift Shoes"! This is just the ticket for today's busy adventurer! For a limited time, provided that you're fully rested and healed, your legs will carry you with the speed of a chocobo!
+- **14364**: "Crystal Caboodle"! Signet is now better than ever! Collect crystals from beastmen-controlled areas...and maybe even clusters from other areas!
+- **14366**: Be warned that our moogle magic is concentrated around this altar. If you venture to far-off lands, the Super Kupowers will be unable to protect you...
+- **14367**: What? What about the past, you say? Of course the magic won't travel through time. What a strange question, kupo...
+- **14368**: But not an altogether pointless, one. The powers of thirtfy transit do seem to apply across the space-time continuum, kupo.
+- **14369**: The whole system is filled with mysteries.
+- **14370**: Oh, it's you! It's really you! The brave adventurer who discovered one of our mog tablets!
+- **14371**: It's a pleasure, an honor to meet you, kupo! We have a special prize to reward you for your efforts. If you'll just sign right here...
+- **14372**: Sign for the moogle? [Sure./I don't think so.]
+- **14373**: Oh, thank you, [Mister/Miss]...<Player>! A truly heroic name, kupo!
+- **14374**: As a reward for your efforts, please have this! Many thanks, and [safe travels/Happy Vana'versary], kupo!
+- **14375**: What? You won't? That's a shame, kupo. I had a special prize here just for you, but without your signature, I'll just have to hold on to it...
+- **14376**: If you change your mind, come back quickly. The mog tablets will be scattered to the wind again at any moment, kupo...
 
 ## Events
 
@@ -205,10 +205,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=14324*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=14326*)
     → "Greetings, adventurer! You've heard the tale of the mog tablets, haven't you? If any of them turn up in your travels, promise you'll let me know, kupo!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x24] CREATE_DIALOG(message_id=14329*, default_option=0*, option_flags=0*)
+  3: 0x000A [0x24] CREATE_DIALOG(message_id=14331*, default_option=0*, option_flags=0*)
     → "Ask about something? [What's a mog tablet?/The history of mog tablets./Nothing.]"
   4: 0x0011 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0012 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0023
@@ -256,10 +256,10 @@ SUBROUTINE_003F:
 
 ```
   0: 0x0041 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=14324*)
+  1: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=14326*)
     → "Greetings, adventurer! You've heard the tale of the mog tablets, haven't you? If any of them turn up in your travels, promise you'll let me know, kupo!"
   2: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x004A [0x24] CREATE_DIALOG(message_id=14327*, default_option=0*, option_flags=0*)
+  3: 0x004A [0x24] CREATE_DIALOG(message_id=14329*, default_option=0*, option_flags=0*)
     → "Ask about something? [What's a mog tablet?/The history of mog tablets./List of tablets./Nothing.]"
   4: 0x0051 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0052 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0063
@@ -336,10 +336,10 @@ SUBROUTINE_00CD:
 
 ```
   0: 0x00CF [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14325*)
+  1: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14327*)
     → "[Greetings/Happy Vana'versary], my adventuring friend! Thanks to your efforts, the mog tablets have been recovered, and their magic freed to spread happiness and joy across the realm! You are truly a friend to all mooglekind, kupo!"
   2: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00D8 [0x24] CREATE_DIALOG(message_id=14328*, default_option=0*, option_flags=0*)
+  3: 0x00D8 [0x24] CREATE_DIALOG(message_id=14330*, default_option=0*, option_flags=0*)
     → "Ask about something? [What's a mog tablet?/The history of mog tablets./Collected tablets./The current Super Kupower./Nothing.]"
   4: 0x00DF [0x25] WAIT_DIALOG_SELECT()
   5: 0x00E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F1
@@ -355,10 +355,10 @@ SUBROUTINE_010D:
 SUBROUTINE_014D:
  12: 0x014D [0x01] GOTO 0x0210
  13: 0x0150 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0205
- 14: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=14350*)
+ 14: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=14352*)
     → "Oh, glorious day! All eleven mog tablets have been recovered and restored to their rightful place at the altar of King Kupofried!"
  15: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=14351*)
+ 16: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=14353*)
     → "Can you feel the ancient moogle magic in the air? You can now bask in the benefits of this Super Kupower..."
  17: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0160 [0x03] Work_Zone[1] = 1*
@@ -367,59 +367,59 @@ SUBROUTINE_014D:
  21: 0x0169 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0202
  22: 0x0171 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
  23: 0x0176 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x0181
- 24: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=14352*)
+ 24: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=14354*)
     → ""Thrifty Transit"! A special treat for the cost-conscious adventurer! For a limited time, all survival guide costs are eliminated, and you are able to teleport between nearby cities for a small fee, kupo!"
  25: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0181 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 1*) GOTO 0x018C
- 27: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=14353*)
+ 27: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=14355*)
     → ""Martial Master"! As an added bonus to your Signet, combat skills will increase more rapidly! Your magic and automaton skills will be boosted, too!"
  28: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x018C [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 2*) GOTO 0x0197
- 30: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=14354*)
+ 30: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=14356*)
     → ""Blood of the Vampyr"! Signets have been boosted with the abilities of Regeneration and Refresh!"
  31: 0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0197 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 3*) GOTO 0x01A2
- 33: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=14355*)
+ 33: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=14357*)
     → ""Treasure Hound"! With Signet in effect, you will now be able to sniff out more treasure and gil! Great riches surely await you, kupo!"
  34: 0x01A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x01A2 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 4*) GOTO 0x01AD
- 36: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14356*)
+ 36: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14358*)
     → ""Artisan's Advantage"! Good news for aspiring artisans, kupo! When receiving advanced image support, the chance of your ingredients being lost in a failed synthesis attempt has been drastically reduced!"
  37: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x01AD [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x01B8
- 39: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14357*)
+ 39: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14359*)
     → ""Myriad Mystery Boxes"! What's this, kupo? Mysterious boxes have been sighted all over the realm! What genius could have devised such commendable creations?"
  40: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x01B8 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 6*) GOTO 0x01C3
- 42: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=14358*)
+ 42: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=14360*)
     → ""Dilatory Digestion"! Not content to be left behind, brown magic slides back out for another go, kupo! Now you can be what you eat for twice as long and save on all those trips to your local merchant."
  43: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x01C3 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 7*) GOTO 0x01CE
- 45: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=14359*)
+ 45: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=14361*)
     → ""Boundary Buster"! Trust in Signet and you can never go wrong, kupo! It's time to take to the field and vanquish a veritable army of enemies, for any Conquest Points you receive will be duly doubled!"
  46: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01CE [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 8*) GOTO 0x01D9
- 48: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14360*)
+ 48: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14362*)
     → ""Bountiful Bazaar"! Trade routes are bustling with unprecedented traffic and peddlers' carts are overflowing with objects now that regional goods are available to merchants across the realm, kupo!"
  49: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x01D9 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 9*) GOTO 0x01E4
- 51: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14361*)
+ 51: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14363*)
     → ""Swift Shoes"! This is just the ticket for today's busy adventurer! For a limited time, provided that you're fully rested and healed, your legs will carry you with the speed of a chocobo!"
  52: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x01E4 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 10*) GOTO 0x01EF
- 54: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=14362*)
+ 54: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=14364*)
     → ""Crystal Caboodle"! Signet is now better than ever! Collect crystals from beastmen-controlled areas...and maybe even clusters from other areas!"
  55: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=14364*)
+ 56: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=14366*)
     → "Be warned that our moogle magic is concentrated around this altar. If you venture to far-off lands, the Super Kupowers will be unable to protect you..."
  57: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14365*)
+ 58: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14367*)
     → "What? What about the past, you say? Of course the magic won't travel through time. What a strange question, kupo..."
  59: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=14366*)
+ 60: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=14368*)
     → "But not an altogether pointless, one. The powers of thirtfy transit do seem to apply across the space-time continuum, kupo."
  61: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=14367*)
+ 62: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=14369*)
     → "The whole system is filled with mysteries."
  63: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x01FF [0x01] GOTO 0x00D8
@@ -469,10 +469,10 @@ SUBROUTINE_0210:
 
 ```
   0: 0x0212 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=14326*)
+  1: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=14328*)
     → "Oh no! What a shame, kupo! The mog tablets that were recovered have been scattered to the ends of Vana'diel once more..."
   2: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x021B [0x24] CREATE_DIALOG(message_id=14329*, default_option=0*, option_flags=0*)
+  3: 0x021B [0x24] CREATE_DIALOG(message_id=14331*, default_option=0*, option_flags=0*)
     → "Ask about something? [What's a mog tablet?/The history of mog tablets./Nothing.]"
   4: 0x0222 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0223 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0234
@@ -524,34 +524,34 @@ SUBROUTINE_0250:
 
 ```
   0: 0x0252 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=14368*)
+  1: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=14370*)
     → "Oh, it's you! It's really you! The brave adventurer who discovered one of our mog tablets!"
   2: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=14369*)
+  3: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=14371*)
     → "It's a pleasure, an honor to meet you, kupo! We have a special prize to reward you for your efforts. If you'll just sign right here..."
   4: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x025F [0x24] CREATE_DIALOG(message_id=14370*, default_option=0*, option_flags=0*)
+  5: 0x025F [0x24] CREATE_DIALOG(message_id=14372*, default_option=0*, option_flags=0*)
     → "Sign for the moogle? [Sure./I don't think so.]"
   6: 0x0266 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0267 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x027F
-  8: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=14371*)
+  8: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=14373*)
     → "Oh, thank you, [Mister/Miss]...<Player>! A truly heroic name, kupo!"
   9: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=14372*)
+ 10: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=14374*)
     → "As a reward for your efforts, please have this! Many thanks, and [safe travels/Happy Vana'versary], kupo!"
  11: 0x0276 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0277 [0x03] Work_Zone[1] = 2*
  13: 0x027C [0x01] GOTO 0x0315
  14: 0x027F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0315
- 15: 0x0287 [0x1D] PRINT_EVENT_MESSAGE(message_id=14373*)
+ 15: 0x0287 [0x1D] PRINT_EVENT_MESSAGE(message_id=14375*)
     → "What? You won't? That's a shame, kupo. I had a special prize here just for you, but without your signature, I'll just have to hold on to it..."
  16: 0x028A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=14374*)
+ 17: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=14376*)
     → "If you change your mind, come back quickly. The mog tablets will be scattered to the wind again at any moment, kupo..."
  18: 0x028E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_028F:
- 19: 0x028F [0x24] CREATE_DIALOG(message_id=14327*, default_option=0*, option_flags=0*)
+ 19: 0x028F [0x24] CREATE_DIALOG(message_id=14329*, default_option=0*, option_flags=0*)
     → "Ask about something? [What's a mog tablet?/The history of mog tablets./List of tablets./Nothing.]"
  20: 0x0296 [0x25] WAIT_DIALOG_SELECT()
  21: 0x0297 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A8
@@ -718,34 +718,34 @@ SUBROUTINE_0315:
 
 ```
   0: 0x0317 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=14368*)
+  1: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=14370*)
     → "Oh, it's you! It's really you! The brave adventurer who discovered one of our mog tablets!"
   2: 0x031F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=14369*)
+  3: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=14371*)
     → "It's a pleasure, an honor to meet you, kupo! We have a special prize to reward you for your efforts. If you'll just sign right here..."
   4: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0324 [0x24] CREATE_DIALOG(message_id=14370*, default_option=0*, option_flags=0*)
+  5: 0x0324 [0x24] CREATE_DIALOG(message_id=14372*, default_option=0*, option_flags=0*)
     → "Sign for the moogle? [Sure./I don't think so.]"
   6: 0x032B [0x25] WAIT_DIALOG_SELECT()
   7: 0x032C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0344
-  8: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=14371*)
+  8: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=14373*)
     → "Oh, thank you, [Mister/Miss]...<Player>! A truly heroic name, kupo!"
   9: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=14372*)
+ 10: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=14374*)
     → "As a reward for your efforts, please have this! Many thanks, and [safe travels/Happy Vana'versary], kupo!"
  11: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x033C [0x03] Work_Zone[1] = 2*
  13: 0x0341 [0x01] GOTO 0x0487
  14: 0x0344 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0487
- 15: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=14373*)
+ 15: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=14375*)
     → "What? You won't? That's a shame, kupo. I had a special prize here just for you, but without your signature, I'll just have to hold on to it..."
  16: 0x034F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=14374*)
+ 17: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=14376*)
     → "If you change your mind, come back quickly. The mog tablets will be scattered to the wind again at any moment, kupo..."
  18: 0x0353 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0354:
- 19: 0x0354 [0x24] CREATE_DIALOG(message_id=14328*, default_option=0*, option_flags=0*)
+ 19: 0x0354 [0x24] CREATE_DIALOG(message_id=14330*, default_option=0*, option_flags=0*)
     → "Ask about something? [What's a mog tablet?/The history of mog tablets./Collected tablets./The current Super Kupower./Nothing.]"
  20: 0x035B [0x25] WAIT_DIALOG_SELECT()
  21: 0x035C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x036D
@@ -761,10 +761,10 @@ SUBROUTINE_0389:
 SUBROUTINE_03C9:
  28: 0x03C9 [0x01] GOTO 0x0484
  29: 0x03CC [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0479
- 30: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14350*)
+ 30: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14352*)
     → "Oh, glorious day! All eleven mog tablets have been recovered and restored to their rightful place at the altar of King Kupofried!"
  31: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14351*)
+ 32: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14353*)
     → "Can you feel the ancient moogle magic in the air? You can now bask in the benefits of this Super Kupower..."
  33: 0x03DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x03DC [0x03] Work_Zone[1] = 1*
@@ -773,53 +773,53 @@ SUBROUTINE_03C9:
  37: 0x03E5 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0476
  38: 0x03ED [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
  39: 0x03F2 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x03FD
- 40: 0x03F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14352*)
+ 40: 0x03F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14354*)
     → ""Thrifty Transit"! A special treat for the cost-conscious adventurer! For a limited time, all survival guide costs are eliminated, and you are able to teleport between nearby cities for a small fee, kupo!"
  41: 0x03FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x03FD [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 1*) GOTO 0x0408
- 43: 0x0404 [0x1D] PRINT_EVENT_MESSAGE(message_id=14353*)
+ 43: 0x0404 [0x1D] PRINT_EVENT_MESSAGE(message_id=14355*)
     → ""Martial Master"! As an added bonus to your Signet, combat skills will increase more rapidly! Your magic and automaton skills will be boosted, too!"
  44: 0x0407 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0408 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 2*) GOTO 0x0413
- 46: 0x040F [0x1D] PRINT_EVENT_MESSAGE(message_id=14354*)
+ 46: 0x040F [0x1D] PRINT_EVENT_MESSAGE(message_id=14356*)
     → ""Blood of the Vampyr"! Signets have been boosted with the abilities of Regeneration and Refresh!"
  47: 0x0412 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0413 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 3*) GOTO 0x041E
- 49: 0x041A [0x1D] PRINT_EVENT_MESSAGE(message_id=14355*)
+ 49: 0x041A [0x1D] PRINT_EVENT_MESSAGE(message_id=14357*)
     → ""Treasure Hound"! With Signet in effect, you will now be able to sniff out more treasure and gil! Great riches surely await you, kupo!"
  50: 0x041D [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x041E [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 4*) GOTO 0x0429
- 52: 0x0425 [0x1D] PRINT_EVENT_MESSAGE(message_id=14356*)
+ 52: 0x0425 [0x1D] PRINT_EVENT_MESSAGE(message_id=14358*)
     → ""Artisan's Advantage"! Good news for aspiring artisans, kupo! When receiving advanced image support, the chance of your ingredients being lost in a failed synthesis attempt has been drastically reduced!"
  53: 0x0428 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0429 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x0434
- 55: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=14357*)
+ 55: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=14359*)
     → ""Myriad Mystery Boxes"! What's this, kupo? Mysterious boxes have been sighted all over the realm! What genius could have devised such commendable creations?"
  56: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0434 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 6*) GOTO 0x043F
- 58: 0x043B [0x1D] PRINT_EVENT_MESSAGE(message_id=14358*)
+ 58: 0x043B [0x1D] PRINT_EVENT_MESSAGE(message_id=14360*)
     → ""Dilatory Digestion"! Not content to be left behind, brown magic slides back out for another go, kupo! Now you can be what you eat for twice as long and save on all those trips to your local merchant."
  59: 0x043E [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x043F [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 7*) GOTO 0x044A
- 61: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=14359*)
+ 61: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=14361*)
     → ""Boundary Buster"! Trust in Signet and you can never go wrong, kupo! It's time to take to the field and vanquish a veritable army of enemies, for any Conquest Points you receive will be duly doubled!"
  62: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x044A [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 8*) GOTO 0x0455
- 64: 0x0451 [0x1D] PRINT_EVENT_MESSAGE(message_id=14360*)
+ 64: 0x0451 [0x1D] PRINT_EVENT_MESSAGE(message_id=14362*)
     → ""Bountiful Bazaar"! Trade routes are bustling with unprecedented traffic and peddlers' carts are overflowing with objects now that regional goods are available to merchants across the realm, kupo!"
  65: 0x0454 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0455 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 9*) GOTO 0x0460
- 67: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=14361*)
+ 67: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=14363*)
     → ""Swift Shoes"! This is just the ticket for today's busy adventurer! For a limited time, provided that you're fully rested and healed, your legs will carry you with the speed of a chocobo!"
  68: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0460 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 10*) GOTO 0x046B
- 70: 0x0467 [0x1D] PRINT_EVENT_MESSAGE(message_id=14362*)
+ 70: 0x0467 [0x1D] PRINT_EVENT_MESSAGE(message_id=14364*)
     → ""Crystal Caboodle"! Signet is now better than ever! Collect crystals from beastmen-controlled areas...and maybe even clusters from other areas!"
  71: 0x046A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x046B [0x1D] PRINT_EVENT_MESSAGE(message_id=14364*)
+ 72: 0x046B [0x1D] PRINT_EVENT_MESSAGE(message_id=14366*)
     → "Be warned that our moogle magic is concentrated around this altar. If you venture to far-off lands, the Super Kupowers will be unable to protect you..."
  73: 0x046E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=14365*)
+ 74: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=14367*)
     → "What? What about the past, you say? Of course the magic won't travel through time. What a strange question, kupo..."
  75: 0x0472 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0473 [0x01] GOTO 0x0354
@@ -835,49 +835,49 @@ SUBROUTINE_0487:
  82: 0x0488 [0x00] END_REQSTACK()
 
 SUBROUTINE_0489:
- 83: 0x0489 [0x1D] PRINT_EVENT_MESSAGE(message_id=14330*)
+ 83: 0x0489 [0x1D] PRINT_EVENT_MESSAGE(message_id=14332*)
     → "What's a mog tablet!? What's a mog tablet, you say!? Why, only the most awesome, amazing artifact in the annals of moogle history, that's what, kupo!"
  84: 0x048C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x048D [0x1D] PRINT_EVENT_MESSAGE(message_id=14331*)
+ 85: 0x048D [0x1D] PRINT_EVENT_MESSAGE(message_id=14333*)
     → "There's eleven of them in all, to be exact, scattered to the far reaches of Vana'diel and just waiting to be discovered by brave adventurers like you!"
  86: 0x0490 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=14332*)
+ 87: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=14334*)
     → "What happens if you find them? I thought you'd never ask, kupo! Each tablet is inscribed with an ancient moogle poem of joy, and legend has it that if all are found, the ancient moogle magic of King Kupofried the Great will be released once more, spreading joy and happiness through all the land!"
  88: 0x0494 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x0495 [0x1D] PRINT_EVENT_MESSAGE(message_id=14333*)
+ 89: 0x0495 [0x1D] PRINT_EVENT_MESSAGE(message_id=14335*)
     → "We explorer moogles have made it our life's work to recover the tablets and unlock their powers. But with these short legs and little-bitty wings, we can't do it alone, kupo!"
  90: 0x0498 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x0499 [0x1D] PRINT_EVENT_MESSAGE(message_id=14334*)
+ 91: 0x0499 [0x1D] PRINT_EVENT_MESSAGE(message_id=14336*)
     → "There! I've whipped up a spell that will instantly transport any tablets you find back here to me. Come back if you find anything, and happy exploring, kupo!"
  92: 0x049C [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x049D [0x1B] RETURN
 
 SUBROUTINE_049E:
- 94: 0x049E [0x1D] PRINT_EVENT_MESSAGE(message_id=14335*)
+ 94: 0x049E [0x1D] PRINT_EVENT_MESSAGE(message_id=14337*)
     → "Just sit right back and I'll tell you the tale, kupo. Many, many ages past, we moogles had our own glorious kingdom. It was truly the peak of moogle civilization, a veritable golden age for all mooglekind!"
  95: 0x04A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x04A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14336*)
+ 96: 0x04A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14338*)
     → "The seventh king of this great nation was the wise and kindly King Kupofried, a masterful magician famed as the father of the fantastic moogle magic that survives to this very day, kupo!"
  97: 0x04A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x04A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14337*)
+ 98: 0x04A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14339*)
     → "In his later years, King Kupofried embarked on what would become the greatest work of his illustrious reign. Seeking to pass down the prosperity of his kingdom to future generations, he inscribed eleven incantations of moogle joy and happiness onto eleven stone tablets."
  99: 0x04A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x04AA [0x1D] PRINT_EVENT_MESSAGE(message_id=14338*)
+100: 0x04AA [0x1D] PRINT_EVENT_MESSAGE(message_id=14340*)
     → "Sadly, the kindly king's intentions went unappreciated by his selfish sons and daughters, and many a fierce feud broke out over who would inherit these relics, kupo..."
 101: 0x04AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=14339*)
+102: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=14341*)
     → "King Kupofried was greatly dismayed. How could the poems that he had composed out of pure love and joy become the root of such strife?"
 103: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x04B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14340*)
+104: 0x04B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14342*)
     → "In his despair, the king commanded his minion bats to scatter the tablets to the far corners of the world, where they would be seen by moogle eyes no more."
 105: 0x04B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-106: 0x04B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14341*)
+106: 0x04B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14343*)
     → ""Alas! I only wanted my children to be happy, kupo," he lamented, and flew away on his tiny yet majestic wings, never to be seen in his kingdom again."
 107: 0x04B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-108: 0x04BA [0x1D] PRINT_EVENT_MESSAGE(message_id=14342*)
+108: 0x04BA [0x1D] PRINT_EVENT_MESSAGE(message_id=14344*)
     → "Left without its wise monarch, the once-glorious moogle kingdom fractured into warring tribes, falling into unrest...and, eventually, ruin. A tragic tale, don't you think, kupo?"
 109: 0x04BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-110: 0x04BE [0x1D] PRINT_EVENT_MESSAGE(message_id=14343*)
+110: 0x04BE [0x1D] PRINT_EVENT_MESSAGE(message_id=14345*)
     → "We explorer moogles are the proud descendants of King Kupofried, living only to bring our last great monarch's unrealized dream to fruition. We will--we must!--find the mog tablets and bring true joy and happiness to this world!"
 111: 0x04C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x04C2 [0x1B] RETURN
@@ -887,10 +887,10 @@ SUBROUTINE_04C3:
 114: 0x04C8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 115: 0x04CA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 116: 0x04CC [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x04DC
-117: 0x04D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14344*)
+117: 0x04D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14346*)
     → "Let's see... It appears that $0 moogle [tablet has/tablets have] already been found, kupo."
 118: 0x04D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x04D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14345*)
+119: 0x04D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14347*)
     → "Here's a list of all the located tablets, kupo!"
 120: 0x04DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x04DC [0x1B] RETURN
@@ -1075,7 +1075,7 @@ SUBROUTINE_075B:
 242: 0x076A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=28*, condition_work_offset=1*)
 
 SUBROUTINE_0771:
-243: 0x0771 [0x24] CREATE_DIALOG(message_id=14346*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+243: 0x0771 [0x24] CREATE_DIALOG(message_id=14348*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Choose a location: [West Ronfaure./East Ronfaure./La Theine Plateau./Valkurm Dunes./Jugner Forest./Batallia Downs./North Gustaberg./South Gustaberg./Konschtat Highlands./Pashhow Marshlands./Rolanberry Fields./Beaucedine Glacier./Xarcabard./West Sarutabaruta./East Sarutabaruta./Tahrongi Canyon./Buburimu Peninsula./Meriphataud Mountains./Sauromugue Champaign./Qufim Island./Behemoth's Dominion./Cape Teriggan./Eastern Altepa Desert./The Sanctuary of Zi'Tah./Ro'Maeve./Yuhtunga Jungle./Yhoator Jungle./Western Altepa Desert./Valley of Sorrows./Cancel.]"
 244: 0x0778 [0x25] WAIT_DIALOG_SELECT()
 245: 0x0779 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x078D

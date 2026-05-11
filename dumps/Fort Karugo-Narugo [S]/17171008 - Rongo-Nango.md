@@ -21,23 +21,23 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1E17      |        7703 |
+|       1 | 0x1E19      |        7705 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1E19      |        7705 |
+|       3 | 0x1E1B      |        7707 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
-|       6 | 0x1E18      |        7704 |
-|       7 | 0x1E1B      |        7707 |
-|       8 | 0x1E1A      |        7706 |
+|       6 | 0x1E1A      |        7706 |
+|       7 | 0x1E1D      |        7709 |
+|       8 | 0x1E1C      |        7708 |
 |       9 | 0x001D      |          29 |
 
 ## String References
 
-- **7703**: Huh!? Wha--!? Whe--!? I'm sorry, I haven't had a person speak to me in so long. You caughtaru me at unawares.
-- **7704**: Awww, you reek of parchmentaru... You must be from Windurst. Please, get away! My father told me never to trust a Windurstian.
-- **7705**: Hm? Y-you want me to help you? I guess I could do that... But you have to promise me one thing. That you won't tease my friend, here. Got itaru?
-- **7706**: Thank you... That should make my friend happy-wappy.
-- **7707**: By the way, do you know the origin of this name, "Lungo-Nango"? It comes from the hero who carried Windurst to her greatest glory.
+- **7705**: Huh!? Wha--!? Whe--!? I'm sorry, I haven't had a person speak to me in so long. You caughtaru me at unawares.
+- **7706**: Awww, you reek of parchmentaru... You must be from Windurst. Please, get away! My father told me never to trust a Windurstian.
+- **7707**: Hm? Y-you want me to help you? I guess I could do that... But you have to promise me one thing. That you won't tease my friend, here. Got itaru?
+- **7708**: Thank you... That should make my friend happy-wappy.
+- **7709**: By the way, do you know the origin of this name, "Lungo-Nango"? It comes from the hero who carried Windurst to her greatest glory.
 
 ## Events
 
@@ -107,7 +107,7 @@
   3: 0x0009 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
   4: 0x000E [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
   5: 0x0013 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0022
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "Huh!? Wha--!? Whe--!? I'm sorry, I haven't had a person speak to me in so long. You caughtaru me at unawares."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x01] GOTO 0x012D
@@ -115,24 +115,24 @@
  10: 0x002A [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0045
  11: 0x0032 [0x6E] EventEntity uses emote 0*
  12: 0x0039 [0x99] Wait for EventEntity animation to complete
- 13: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+ 13: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "Huh!? Wha--!? Whe--!? I'm sorry, I haven't had a person speak to me in so long. You caughtaru me at unawares."
  14: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0042 [0x01] GOTO 0x007C
  16: 0x0045 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0059
  17: 0x004D [0x03] Work_Zone[2] = 0*
- 18: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
+ 18: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
     → "Hm? Y-you want me to help you? I guess I could do that... But you have to promise me one thing. That you won't tease my friend, here. Got itaru?"
  19: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0056 [0x01] GOTO 0x007C
  21: 0x0059 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x006D
  22: 0x0061 [0x03] Work_Zone[2] = 1*
- 23: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
+ 23: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
     → "Hm? Y-you want me to help you? I guess I could do that... But you have to promise me one thing. That you won't tease my friend, here. Got itaru?"
  24: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x006A [0x01] GOTO 0x007C
  26: 0x006D [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x007C
- 27: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
+ 27: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
     → "Awww, you reek of parchmentaru... You must be from Windurst. Please, get away! My father told me never to trust a Windurstian."
  28: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0079 [0x01] GOTO 0x007C
@@ -143,25 +143,25 @@ SUBROUTINE_007C:
  32: 0x0087 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x00A2
  33: 0x008F [0x6E] EventEntity uses emote 0*
  34: 0x0096 [0x99] Wait for EventEntity animation to complete
- 35: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+ 35: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "Huh!? Wha--!? Whe--!? I'm sorry, I haven't had a person speak to me in so long. You caughtaru me at unawares."
  36: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x009F [0x01] GOTO 0x012D
  38: 0x00A2 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x00E0
  39: 0x00AA [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x00B9
- 40: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
+ 40: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
     → "By the way, do you know the origin of this name, "Lungo-Nango"? It comes from the hero who carried Windurst to her greatest glory."
  41: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x00B6 [0x01] GOTO 0x00DD
  43: 0x00B9 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x00CD
  44: 0x00C1 [0x03] Work_Zone[2] = 0*
- 45: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
+ 45: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
     → "Thank you... That should make my friend happy-wappy."
  46: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x00CA [0x01] GOTO 0x00DD
  48: 0x00CD [0x6E] EventEntity uses emote 0*
  49: 0x00D4 [0x99] Wait for EventEntity animation to complete
- 50: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+ 50: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "Huh!? Wha--!? Whe--!? I'm sorry, I haven't had a person speak to me in so long. You caughtaru me at unawares."
  51: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -169,26 +169,26 @@ SUBROUTINE_00DD:
  52: 0x00DD [0x01] GOTO 0x012D
  53: 0x00E0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x011E
  54: 0x00E8 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x00F7
- 55: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
+ 55: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
     → "By the way, do you know the origin of this name, "Lungo-Nango"? It comes from the hero who carried Windurst to her greatest glory."
  56: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x00F4 [0x01] GOTO 0x011B
  58: 0x00F7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x010B
  59: 0x00FF [0x03] Work_Zone[2] = 1*
- 60: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
+ 60: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
     → "Thank you... That should make my friend happy-wappy."
  61: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0108 [0x01] GOTO 0x011B
  63: 0x010B [0x6E] EventEntity uses emote 29*
  64: 0x0112 [0x99] Wait for EventEntity animation to complete
- 65: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+ 65: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "Huh!? Wha--!? Whe--!? I'm sorry, I haven't had a person speak to me in so long. You caughtaru me at unawares."
  66: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_011B:
  67: 0x011B [0x01] GOTO 0x012D
  68: 0x011E [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x012D
- 69: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
+ 69: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
     → "Awww, you reek of parchmentaru... You must be from Windurst. Please, get away! My father told me never to trust a Windurstian."
  70: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x012A [0x01] GOTO 0x012D
